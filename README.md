@@ -43,7 +43,7 @@ Run the game using Python:
 
 ### Getting Started
 
-1. Launch the game and select your desired difficulty level.
+1. Launch the game.
 2. Use voice commands or mouse clicks to interact with the game grid.
 3. Enjoy the game and try to clear the grid without triggering any mines!
 
@@ -51,6 +51,7 @@ Run the game using Python:
 
 The development of this game is ongoing, and future updates may include:
 
+- Difficulty level selection
 - Enhanced graphics
 - Additional game modes
 - Improved voice-command features
