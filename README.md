@@ -11,11 +11,7 @@ This code has been run and tested on:
 - Python - [Version to be specified]
 - Tkinter - [Version to be specified]
 - Numpy - [Version to be specified]
-- [Operating System - e.g., Windows 10]
-
-## External Dependencies
-
-- [Any external software or tools that need to be installed, similar to pgAdmin 4 or Git in the example]
+- Windows 10
 
 ## Pre-requisites
 
