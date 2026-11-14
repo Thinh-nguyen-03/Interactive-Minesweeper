@@ -90,7 +90,7 @@ The claim accurately describes the allegations. A Burwick Law class action accus
 
 **Confirmed**
 
-- Davis told Coffeezilla (Feb 2025) that he was launch strategist for LIBRA and MELANIA and that his team sniped both.
+- Davis said in a recorded interview (Feb 2025) that he was launch strategist for LIBRA and MELANIA and that his team sniped both.
 - Bubblemaps' wallet clustering ties the two launches together.
 - Chow resigned as Meteora CEO on 2025-02-18; Meow (Jupiter) said Fenwick & West would investigate, but no published findings were located.
 - The issuer of record for MELANIA remains MKT World LLC.
@@ -356,11 +356,11 @@ This check builds on C01/C02. It claims that:
 - Separate on-chain reporting gives larger numbers:
   - **Bubblemaps (Apr 2025):** about 50M MELANIA (about $30M) was moved out of "community" wallets and sold with no explanation. Bubblemaps also tied an earlier about $2M single-sided-liquidity extraction to Davis, using the same technique as in LIBRA.
   - **EmberCN, via BeInCrypto:** the team sold about 23M tokens (about $14.75M) in one month.
-- Davis told Coffeezilla in February 2025: "The MELANIA team made no money. We withdrew no liquidity." He later reframed this when shown the on-chain data.
+- Davis said in a recorded interview in February 2025: "The MELANIA team made no money. We withdrew no liquidity." He later reframed this when shown the on-chain data.
 - No court has tested any of these figures. "$10M+" fairly summarizes the complaint, and the on-chain estimates run higher.
 
 #### 3. Hayden Davis/Kelsier ran the MELANIA and LIBRA launches. Confirmed (by his own admission); criminal wrongdoing unproven
-- In February 2025 Davis told Coffeezilla, as reported by CoinDesk, that he was the launch strategist for LIBRA and MELANIA and that his team sniped both tokens when the contracts went live.
+- In February 2025 Davis said in a recorded interview, as reported by CoinDesk, that he was the launch strategist for LIBRA and MELANIA and that his team sniped both tokens when the contracts went live.
 - Bubblemaps' wallet clustering linked the LIBRA creators to MELANIA and to other short-lived tokens.
 - Chow resigned as Meteora CEO on Feb 18, 2025. Meteora co-founder Meow (Jupiter) said Fenwick & West would investigate. No published report from that investigation was found.
 - Chow denies receiving tokens or having inside information on LIBRA.

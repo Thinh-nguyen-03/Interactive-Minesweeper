@@ -632,7 +632,7 @@ This is a third-layer connection check that builds on C33, C68 and C69. It does 
 - the Nvidia, Microsoft, Palantir, Meta and Amazon analysis in C68;
 - the 45-day pairs in C69 (Microsoft, Lockheed, Palantir, Ripple, Nvidia, Amazon, Ergen).
 
-**Method note.** None of the original pages was read directly: the Post, WYPR/NPR, IBTimes, Daily Beast, Public Citizen and DNyuz. The findings come from search-result summaries across several outlets, so treat amounts as "WaPo per secondary outlets". About 27 searches were used.
+**Method note.** None of the original pages was read directly: the Post, WYPR/NPR, IBTimes, Daily Beast, Public Citizen and DNyuz. The findings come from search-result summaries across several outlets, so treat amounts as "WaPo per secondary outlets".
 
 **Timing caveat.** Gift dates are mostly unknown. For nearly every donor, only two dates are public: the 15 Oct 2025 dinner and 23 Oct 2025 list, and the 15 Oct 2026 publication of the leak. Six-month windows below are measured from the list date unless a gift date is known. A gift could fall on either side of the official act it is paired with.
 

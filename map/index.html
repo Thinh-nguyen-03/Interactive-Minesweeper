@@ -12,15 +12,15 @@
       <span>Trump Claims Map</span>
     </a>
     <nav class="nav" aria-label="Main">
-      <a href="#claims" data-nav="claims">Claims</a>
+      <a href="#claims" data-nav="claims">Checks</a>
       <a href="#names" data-nav="names" aria-label="People and organisations">People<span class="wide"> and organisations</span></a>
       <a href="#map" data-nav="map">Map</a>
       <a href="#method" data-nav="method">How we checked</a>
     </nav>
     <div class="search" role="search">
       <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="7" cy="7" r="4.6"></circle><path d="M10.5 10.5 14 14"></path></svg>
-      <label class="sr" for="search">Search names and claims</label>
-      <input id="search" type="search" placeholder="Search names and claims" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="search-results" aria-autocomplete="list">
+      <label class="sr" for="search">Search names and checks</label>
+      <input id="search" type="search" placeholder="Search names and checks" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="search-results" aria-autocomplete="list">
       <ul class="results" id="search-results" role="listbox" hidden></ul>
     </div>
     <button class="iconbtn" id="theme" type="button" aria-label="Switch to the dark theme" title="Switch theme">
@@ -32,9 +32,9 @@
 <main id="app" tabindex="-1">
   <div id="page" class="wrap"></div>
 
-  <section id="mapview" class="mapview" aria-label="Map of every claim, name and connection" hidden>
+  <section id="mapview" class="mapview" aria-label="Map of every check, name and connection" hidden>
     <div class="map-stage">
-    <canvas id="graph" tabindex="0" role="img" aria-label="Network of the claims and the people and organisations they involve. Drag to move, scroll or pinch to zoom, arrow keys to move, plus and minus to zoom, zero to fit. The Claims and People and organisations pages give the same content as text."></canvas>
+    <canvas id="graph" tabindex="0" role="img" aria-label="Network of the checks, grouped by topic around a ring, and the people and organisations they involve. Drag to move, scroll or pinch to zoom, arrow keys to move, plus and minus to zoom, zero to fit. The Checks and People and organisations pages give the same content as text."></canvas>
     <p class="map-loading" id="map-loading">Drawing the map</p>
 
     <div class="map-tools" id="map-tools">
@@ -65,7 +65,7 @@
 
 <footer class="foot" id="foot">
   <div class="wrap">
-    <p><strong>Everyone named denies wrongdoing, and nothing here is an accusation of a crime.</strong> This site checks what a video said against the public record. A link between two names means they appear in the same documented claim or relationship. It does not show that one caused the other.</p>
+    <p><strong>Everyone named denies wrongdoing, and nothing here is an accusation of a crime.</strong> This site is a tool for looking into Donald Trump, his family, his administration and the connections around them. A link between two names means a documented relationship, or that both appear in the same check. It does not show that one caused the other.</p>
     <p class="muted" id="foot-meta"></p>
   </div>
 </footer>

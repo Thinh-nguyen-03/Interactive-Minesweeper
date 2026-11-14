@@ -114,7 +114,7 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
 - No source shows Sacks acting on that overlap.
 - Audit: BitGo priced its NYSE IPO (BTGO) on 2026-01-21 at $18, above its $15-17 range.
 - It sold about 11.8M shares (about 795k of them by selling holders) for about $212.8M gross, and trading began 2026-01-22.
-- Craft Ventures and Sacks personally invested in BitGo's 2017 Series B. The 7.8% figure is the NYT's; I could not check it against the prospectus (sec.gov is not reachable here), and one secondary source lists Craft with about 7.5M shares.
+- Craft Ventures and Sacks personally invested in BitGo's 2017 Series B. The 7.8% figure is the NYT's; I could not check it against the prospectus (sec.gov could not be read directly), and one secondary source lists Craft with about 7.5M shares.
 - Amounts: 7.8%; $18; $15-17; about $212.8M
 - Dates: July 18, 2025; 2026-01-21; 2026-01-22
 - Sources: [17](https://www.theblock.co/post/355355/trump-crypto-czar-david-sacks-stablecoin-bill-trillions-of-dollars-demand-us-treasurys) [4](https://cointelegraph.com/news/david-sacks-nyt-report-conflicts-interest-nothing-burger) <https://www.businesswire.com/news/home/20260121850585/en/BitGo-Holdings-Announces-Pricing-of-Initial-Public-Offering> <https://www.theblock.co/news/business/2026-01-21-bitgo-prices-us-ipo-386629>

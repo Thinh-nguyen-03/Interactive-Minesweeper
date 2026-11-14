@@ -1210,7 +1210,7 @@ def date_key(d):
 RING = 1600
 RING_GAP = 1.8          # empty slots between two topic arcs
 LAYOUT_CACHE = ROOT / ".layout-cache.json"
-LAYOUT_VERSION = 7
+LAYOUT_VERSION = 9
 
 
 def layout_pairs(graph):
@@ -1378,6 +1378,9 @@ def compute_layout(graph):
             vy[i] *= 0.6
             x[i] += vx[i]
             y[i] += vy[i]
+            d = math.hypot(x[i], y[i])
+            if d > RING - 110:          # names stay inside the ring of checks
+                x[i], y[i] = x[i] * (RING - 110) / d, y[i] * (RING - 110) / d
     xy = [[round(x[i]), round(y[i])] for i in range(n)]
     try:
         LAYOUT_CACHE.write_text(json.dumps({"sig": sig, "xy": xy}, separators=(",", ":")), encoding="utf-8")

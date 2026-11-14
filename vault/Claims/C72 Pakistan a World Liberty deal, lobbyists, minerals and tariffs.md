@@ -478,7 +478,7 @@ Every dated step in the claim is documented: the Seiden/Javelin/Checkmate hires,
 
 **Correction:** Seiden Law was hired *before* the Pahalgam attack, not after it.
 
-**Method note:** This report builds on C64 (item 9: lobbyists and the WLF letter of intent), C51 (Powerus) and C67. It does not repeat them. The original pages at Al Jazeera, Nukta, Global Witness, Daily Times and the FARA eFile were not read directly, so the findings rest on search-result excerpts from Dawn, Arab News/Reuters, Business Recorder, ThePrint, Business Today, Cointelegraph, Bloomberg (via ThePrint), Mother Jones, Fortune, SCMP and others. About 25 searches were used.
+**Method note:** This report builds on C64 (item 9: lobbyists and the WLF letter of intent), C51 (Powerus) and C67. It does not repeat them. The original pages at Al Jazeera, Nukta, Global Witness, Daily Times and the FARA eFile were not read directly, so the findings rest on search-result excerpts from Dawn, Arab News/Reuters, Business Recorder, ThePrint, Business Today, Cointelegraph, Bloomberg (via ThePrint), Mother Jones, Fortune, SCMP and others.
 
 ### Dated chain
 

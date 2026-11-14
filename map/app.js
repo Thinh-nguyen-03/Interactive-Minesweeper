@@ -209,7 +209,7 @@
   /* The mark for a name: round for people, square for everything else, coloured by kind. */
   function kmark(n, big) {
     if (n.kind === 'claim') return '<span class="v-' + VGROUP[n.verdict] + ' kmark-v">' + mark(n.verdict) + '</span>';
-    var s = big ? 18 : 12, g = n.kind === 'theme' ? 'theme' : n.group;
+    var s = big ? 18 : 12, g = n.kind === 'theme' || n.kind === 'topic' ? 'theme' : n.group;
     var body = g === 'person' ? '<circle cx="8" cy="8" r="6.4"/>' : g === 'theme' ? '<circle cx="8" cy="8" r="5.6" fill="none" stroke="currentColor" stroke-width="2"/>' : '<rect x="2" y="2" width="12" height="12" rx="2.6"/>';
     return '<svg class="kmark k-' + g + '" width="' + s + '" height="' + s + '" viewBox="0 0 16 16" aria-hidden="true" fill="currentColor">' + body + '</svg>';
   }
@@ -240,7 +240,7 @@
     }
     return p.join(', ');
   }
-  var NOTE = '<p class="note"><strong>Everyone named denies wrongdoing, and nothing here is an accusation of a crime.</strong> A link between two names means they appear in the same documented claim or relationship. It does not show that one caused the other.</p>';
+  var NOTE = '<p class="note"><strong>Everyone named denies wrongdoing, and nothing here is an accusation of a crime.</strong> A link between two names means a documented relationship, or that both appear in the same check. It does not show that one caused the other.</p>';
 
   // ------------------------------------------------------------------ markdown (for the full reports)
   var MARKER = '\u0001';
@@ -445,7 +445,7 @@
       cap(listParts(tallyParts)) + '.</p>' +
       '<div class="bigsearch" role="search"><svg width="20" height="20" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="7" cy="7" r="4.6"></circle><path d="M10.5 10.5 14 14"></path></svg>' +
       '<label class="sr" for="home-search">Search a person, a company or a topic</label>' +
-      '<input id="home-search" type="search" placeholder="Search a person, a company or a topic" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="home-results" aria-autocomplete="list">' +
+      '<input id="home-search" type="search" placeholder="' + (narrow.matches ? 'Search a name or a topic' : 'Search a person, a company or a topic') + '" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="home-results" aria-autocomplete="list">' +
       '<ul class="results" id="home-results" role="listbox" hidden></ul></div>' +
       (examples.length ? '<p class="try">Try ' + listParts(examples.map(function (e) { return entLink(e, true); })).replace(' and ', ' or ') + '.</p>' : '') +
       '<p class="startrow"><a class="btn" href="#topics">' + plural(TOPICS.length, 'topic') + '</a><a class="btn" href="#who">Who is involved</a><a class="btn" href="#map">The map</a></p>' +
@@ -493,12 +493,23 @@
         (t.description ? '<p class="desc">' + esc(t.description) + '</p>' : '') +
         '<p class="small muted">' + plural(t.list.length, 'check') + ': ' + sum.join(', ') + '.' +
         (t.id !== 'other' && RING ? ' <a href="#map-topic-' + esc(t.id) + '">Show this topic on the map</a>' : '') + '</p></div>' +
-        '<ul class="rows">' + t.list.map(function (c) { return claimRow(c); }).join('') + '</ul></section>';
+        (narrow.matches ? fold(t.list.map(function (c) { return claimRow(c); }), 5, 'checks in this topic', 'ul', 'rows') : '<ul class="rows">' + t.list.map(function (c) { return claimRow(c); }).join('') + '</ul>') + '</section>';
     });
     h += '</div></div></section>';
     page.innerHTML = h;
     attachSearch($('home-search'), $('home-results'));
     drawPreview();
+    // mark the topic being read in the topic list
+    if (window.IntersectionObserver) {
+      var navLinks = page.querySelectorAll('.topicnav a'), seen = new Set();
+      var io = new IntersectionObserver(function (es) {
+        es.forEach(function (en) { if (en.isIntersecting) seen.add(en.target.id); else seen.delete(en.target.id); });
+        var cur = null;
+        TOPICS.forEach(function (t) { if (!cur && seen.has('topic-' + t.id)) cur = '#topic-' + t.id; });
+        navLinks.forEach(function (a) { if (a.getAttribute('href') === cur) a.setAttribute('aria-current', 'true'); else a.removeAttribute('aria-current'); });
+      }, { rootMargin: '-10% 0px -60% 0px' });
+      page.querySelectorAll('.topic').forEach(function (el) { io.observe(el); });
+    }
   }
 
   // ------------------------------------------------------------------ claim page
@@ -776,7 +787,8 @@
   }
 
   // ------------------------------------------------------------------ search
-  var searchIndex = nodes.map(function (n) {
+  var topicItems = TOPICS.filter(function (t) { return t.id !== 'other'; }).map(function (t) { return { kind: 'topic', id: t.id, name: t.name, topic: t, degree: 60, role: t.description || '' }; });
+  var searchIndex = nodes.concat(topicItems).map(function (n) {
     return { n: n, name: (n.kind === 'claim' ? n.title + ' ' + (n.topicRef ? n.topicRef.name : '') + ' ' + n.id : n.name).toLowerCase(),
       alt: (arr(n.aliases).join(' ') + ' ' + (n.id || '')).toLowerCase(),
       text: (n.kind === 'claim' ? arr(n.question_points).join(' ') + ' ' + (n.bottom_line || '') : n.role || '').toLowerCase() };
@@ -802,6 +814,7 @@
   }
   function resultKind(n) {
     if (n.kind === 'claim') return (isUnv(n) ? unvText(n) : VLABEL[n.verdict]) + ' · ' + originText(n);
+    if (n.kind === 'topic') return 'Topic · ' + plural(n.topic.list.length, 'check');
     if (n.kind === 'theme') return 'Recurring theme, shown on the map';
     return TLABEL[n.type] + (n.unverified_only ? ' · named only in an unverified check' : ' · in ' + plural(n.cl.length, 'check'));
   }
@@ -827,7 +840,8 @@
     function pick(i) {
       var n = results[i]; if (!n) return;
       input.value = ''; close(); input.blur();
-      if (state.view === 'map' && input.id === 'search') mapSelect(n, { center: true });
+      if (n.kind === 'topic') { if (state.view === 'map' && input.id === 'search') { setHash('map-topic-' + n.id); setTopic(n.id); } else location.hash = topicHref(n.topic); }
+      else if (state.view === 'map' && input.id === 'search') mapSelect(n, { center: true });
       else location.hash = pageHref(n);
     }
     input.addEventListener('input', render);
@@ -848,13 +862,15 @@
   var map = { ready: false, sel: null, hover: null, iso: null, path: null, pathFrom: null };
   var FKEYS = GROUPS.concat(['claim', 'theme']);
   var presentVerdicts = VERDICTS.filter(function (v) { return claims.some(function (c) { return c.verdict === v; }); });
-  var F = { kind: new Set(FKEYS), verdict: new Set(presentVerdicts) };
+  var F = { kind: new Set(FKEYS), verdict: new Set(presentVerdicts), topic: '' };
   var narrow = window.matchMedia('(max-width: 760px)');
   var reduced = window.matchMedia('(prefers-reduced-motion: reduce)');
   var canvas = $('graph'), ctx = canvas.getContext('2d');
   var W = 0, H = 0, dpr = 1, T = { k: 1, x: 0, y: 0 }, C = {}, zoom = null, fitted = false, drawQueued = false;
   var FONT = '"Atkinson Hyperlegible Next", Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif';
-  var RING = META.ring || 0;
+  var RING = META.ring || 0, SLOTS = META.ring_slots || 0;
+  var ARCS = TOPICS.filter(function (t) { return typeof t.a0 === 'number' && typeof t.a1 === 'number'; });
+  if (!ARCS.length || !SLOTS) RING = 0;
   function fkey(n) { return n.kind === 'entity' ? n.group : n.kind; }
   nodes.forEach(function (n) { n.vis = n.vis0 = true; });
   links.forEach(function (l) { l.vis = l.vis0 = true; });
@@ -880,7 +896,7 @@
     hasLayout = true; RING = 0;
   }
 
-  function activeFilters() { return (FKEYS.length - F.kind.size) + (presentVerdicts.length - F.verdict.size); }
+  function activeFilters() { return (FKEYS.length - F.kind.size) + (presentVerdicts.length - F.verdict.size) + (F.topic ? 1 : 0); }
   function reach(start, depth) {
     var seen = new Map([[start, 0]]), q = [start];
     while (q.length) {
@@ -892,19 +908,25 @@
   }
   function applyFilters() {
     var filtered = activeFilters() > 0;
-    nodes.forEach(function (n) { n.vis0 = F.kind.has(fkey(n)) && (n.kind !== 'claim' || F.verdict.has(n.verdict)); });
+    nodes.forEach(function (n) { n.vis0 = F.kind.has(fkey(n)) && (n.kind !== 'claim' || (F.verdict.has(n.verdict) && (!F.topic || (n.topicRef && n.topicRef.id === F.topic)))); });
+    if (F.topic) nodes.forEach(function (n) {   // one topic: its checks and only the names they mention
+      if (n.kind === 'claim' || !n.vis0) return;
+      var named = false;
+      n.adj.forEach(function (l, k) { var o = byKey.get(k); if (o.kind === 'claim' && o.vis0) named = true; });
+      n.vis0 = named;
+    });
     links.forEach(function (l) { l.vis0 = l.source.vis0 && l.target.vis0; });
     if (filtered) {   // names left with no visible line would only be noise
       var linked = new Set();
       links.forEach(function (l) { if (l.vis0) { linked.add(l.source); linked.add(l.target); } });
-      entities.forEach(function (n) { if (n.vis0 && !linked.has(n)) n.vis0 = false; });
+      nodes.forEach(function (n) { if (n.kind !== 'claim' && n.vis0 && !linked.has(n)) n.vis0 = false; });
       links.forEach(function (l) { l.vis0 = l.vis0 && l.source.vis0 && l.target.vis0; });
     }
     var keep = map.iso && map.iso.node.vis0 ? reach(map.iso.node, map.iso.depth) : null;
     nodes.forEach(function (n) { n.vis = n.vis0 && (!keep || keep.has(n)); });
     links.forEach(function (l) { l.vis = l.vis0 && l.source.vis && l.target.vis; });
     var fc = $('filter-count'), af = activeFilters();
-    fc.hidden = !af; fc.textContent = af ? af + ' off' : '';
+    fc.hidden = !af; fc.textContent = af ? af + ' on' : '';
     renderBanner(); requestDraw();
   }
 
@@ -943,9 +965,9 @@
     var k = Math.max(0.05, Math.min((a.w - mx * 2) / Math.max(1, x1 - x0), (a.h - my * 2) / Math.max(1, y1 - y0), maxK));
     moveTo(a.x + a.w / 2 - k * (x0 + x1) / 2, a.y + a.h / 2 - k * (y0 + y1) / 2, k, animate);
   }
-  function fit(animate) {   // the whole map; with room for the chapter names around the ring when there is space
+  function fit(animate) {   // the whole map; with room for the topic names around the ring when there is space
     var wide = !narrow.matches && RING && !map.iso && !activeFilters();
-    frameNodes(nodes.filter(function (n) { return n.vis; }), 1.6, animate, 0, wide ? 150 : narrow.matches ? 36 : 46, wide ? 78 : narrow.matches ? 40 : 46);
+    frameNodes(nodes.filter(function (n) { return n.vis; }), 1.6, animate, 0, wide ? 176 : narrow.matches ? 46 : 46, wide ? 74 : narrow.matches ? 44 : 46);
   }
   function focusOn(n, animate) {
     if (!n.vis) return;
@@ -960,9 +982,10 @@
     moveTo(a.x + a.w / 2 - T.k * n.x, a.y + a.h / 2 - T.k * n.y, T.k, true);
   }
   function rs(n, k) {   // on-screen radius
-    var min = n.kind === 'entity' ? 2.2 : n.origin === 'video' ? 6.5 : 4.6;
+    var min = n.kind === 'entity' ? 2.2 : n.kind === 'claim' && RING ? Math.max(2.3, Math.min(5.2, slotPx(k) * 0.3)) : 4.6;
     return Math.min(Math.max(n.r * Math.pow(k, 0.8), min), n.r * 2);
   }
+  function slotPx(k) { return SLOTS ? 6.2832 * RING * k / SLOTS : 99; }   // room on screen for one check on the ring
   function hit(px, py, slack) {
     var best = null, bd = Infinity;
     for (var i = 0; i < nodes.length; i++) {
@@ -1033,23 +1056,25 @@
       else if (o.path && o.path.set) { fs = { nodes: o.path.set, links: o.path.links }; pathMode = true; }
       else if (o.sel && o.sel.vis) { f = o.sel; fs = focusSet(f); }
     }
-    // the ring the video claims sit on
+    // the ring the checks sit on, with an arc and a name for each topic outside it
     if (RING && (pre || !o.iso)) {
-      c.globalAlpha = fs ? 0.4 : 1; c.beginPath(); c.arc(tx, ty, RING * k, 0, 6.2832); c.lineWidth = pre ? 1 : 1.2; c.strokeStyle = C.ring; c.stroke();
-      // an arc and a name for each chapter of the video, outside the ring
-      var nv = VIDEO.length, off = pre ? 9 : 30, cfont = '600 12.5px ' + FONT;
-      arr(META.chapters).forEach(function (ch) {
-        var first = byKey.get(ch.claims[0]), last = byKey.get(ch.claims[ch.claims.length - 1]);
-        if (!first || !last || first.origin !== 'video') return;
-        var a0 = -Math.PI / 2 + 2 * Math.PI * (first.ord - 0.5 - 0.36) / nv, a1 = -Math.PI / 2 + 2 * Math.PI * (last.ord - 0.5 + 0.36) / nv, am = (a0 + a1) / 2, R = RING * k + off;
-        c.globalAlpha = fs ? 0.25 : 0.7; c.beginPath(); c.arc(tx, ty, R, a0, a1); c.lineWidth = pre ? 1.5 : 2; c.strokeStyle = C.labelDim; c.stroke();
-        if (pre || fs || k > 0.9) return;
-        var ux = Math.cos(am), uy = Math.sin(am), lines = wrapLabel(ch.title, 24), lw = Math.max.apply(null, lines.map(function (t) { return textW(c, cfont, t); }));
-        var px = tx + ux * (R + 10), py = ty + uy * (R + 10) - (lines.length - 1) * 7.5 + (Math.abs(ux) < 0.35 ? uy * (14 + (lines.length - 1) * 7.5) : 0);
-        var left = Math.abs(ux) < 0.35 ? px - lw / 2 : ux > 0 ? px : px - lw;
-        if (left < 4 || left + lw > w - 4 || py < 10 || py + lines.length * 15 > h - 4) return;   // only where there is room for it
-        c.font = cfont; c.fillStyle = C.labelDim; c.textAlign = 'left'; c.textBaseline = 'middle'; c.globalAlpha = 1;
-        lines.forEach(function (t, j) { c.fillText(t, left, py + j * 15); });
+      c.globalAlpha = fs ? 0.4 : 1; c.beginPath(); c.arc(tx, ty, RING * k, 0, 6.2832); c.lineWidth = 1; c.strokeStyle = C.ring; c.stroke();
+      var off = pre ? 7 : Math.max(12, Math.min(26, 14 + 40 * k)), cfont = '600 12.5px ' + FONT, nfont = '700 12px ' + FONT, picked = !pre && F.topic;
+      ARCS.forEach(function (t, ti) {
+        var am = (t.a0 + t.a1) / 2, R = RING * k + off, dim = fs || (picked && picked !== t.id);
+        c.globalAlpha = dim ? 0.22 : 0.75; c.beginPath(); c.arc(tx, ty, R, t.a0, t.a1); c.lineWidth = pre ? 1.5 : picked === t.id ? 3 : 2; c.strokeStyle = picked === t.id ? C.accent : C.labelDim; c.stroke();
+        if (pre || fs || (picked && picked !== t.id)) return;
+        var ux = Math.cos(am), uy = Math.sin(am), flat = Math.abs(ux) < 0.42;
+        function place(lines, font, lh) {
+          var lw = Math.max.apply(null, lines.map(function (x) { return textW(c, font, x); })), hh = lines.length * lh;
+          var d = R + 9 + Math.abs(ux) * lw / 2 + Math.abs(uy) * hh / 2, bx = tx + ux * d, by = ty + uy * d;   // the box clears the arc
+          var left = bx - lw / 2, top = by - hh / 2;
+          if (left < 4 || left + lw > w - 4 || top < 4 || top + hh > h - 4) return false;   // only where there is room for it
+          c.font = font; c.fillStyle = picked === t.id ? C.label : C.labelDim; c.textAlign = 'left'; c.textBaseline = 'middle'; c.globalAlpha = 1;
+          lines.forEach(function (x, j) { var xw = textW(c, font, x); c.fillText(x, flat ? bx - xw / 2 : ux > 0 ? left : left + lw - xw, top + lh / 2 + j * lh); });
+          return true;
+        }
+        if (!place(wrapLabel(t.name, 20), cfont, 15)) place([String(ti + 1)], nfont, 14);   // no room for the name: its number, as listed in the key
       });
       c.globalAlpha = 1;
     }
@@ -1075,7 +1100,7 @@
       c.setLineDash([]);
     }
     // marks: names first, then themes and claims on top
-    var order = ['entity', 'theme', 'claim'];
+    var order = ['entity', 'theme', 'claim'], ringLabels = !RING || slotPx(k) >= 30;
     for (var q = 0; q < 3; q++) for (i = 0; i < nodes.length; i++) {
       n = nodes[i]; if (!on(n) || n.kind !== order[q]) continue;
       var x = n.x * k + tx, y = n.y * k + ty;
@@ -1096,11 +1121,11 @@
         var nr = rs(n, k) * (n.kind === 'claim' ? 1.1 : 0.9);
         if (nr > 3.5) placed.push([sx - nr, sy - nr, sx + nr, sy + nr]);
         pri += lead ? 1e6 : n.kind === 'claim' ? 500 : 0;
-      } else if (n.kind === 'claim') { if (n.origin === 'video') pri += 400; else if (k < 0.95) continue; else pri += 100; }
+      } else if (n.kind === 'claim') { if (!ringLabels) continue; pri += 300; }
       else if (n.kind === 'theme') { if (k < 0.6) continue; pri += 150; }
       else if (n.hub) { pri += 200; }
       else { a = Math.min(1, (k * n.r - 6.2) / 3.2); if (a <= 0.05) continue; }
-      if (n.kind === 'claim') text = n.origin === 'video' ? (fs || k > 0.8 ? n.ord + '  ' + trunc(n.title, lead ? 60 : 30) : String(n.ord)) : trunc(n.title, lead ? 60 : 30);
+      if (n.kind === 'claim') text = trunc(n.title, lead ? 64 : 34);
       else text = trunc(n.kind === 'entity' && !lead ? shortName(n) : n.name, lead ? 60 : 30);
       cand.push({ n: n, x: sx, y: sy, a: a, pri: pri, text: text, lead: lead });
     }
@@ -1111,8 +1136,8 @@
       var font = (d.lead ? '700 13px ' : big ? '600 ' + (pre ? 11 : 12) + 'px ' : '400 11.5px ') + FONT;
       var tw = textW(c, font, d.text), r = (pre ? Math.max(d.n.r * k, 2) : rs(d.n, k)) * (d.n.kind === 'claim' ? 1.3 : 1.05);
       var cx = d.x, y = d.y + r + 9;
-      if (RING && d.n.origin === 'video' && !d.lead && !pre) {   // numbers and titles of the video claims sit outside the ring
-        var len = Math.hypot(d.n.x, d.n.y) || 1, ux = d.n.x / len, uy = d.n.y / len;
+      if (RING && d.n.kind === 'claim' && !d.lead && !pre && !o.iso) {   // titles of the checks sit outside the ring
+        var len = Math.hypot(d.n.x, d.n.y) || 1, dir = fs ? -1 : 1, ux = dir * d.n.x / len, uy = dir * d.n.y / len;   // inside the ring while something is in focus
         cx = d.x + ux * (r + 8 + tw / 2 * Math.abs(ux)); y = d.y + uy * (r + 10);
       }
       if (tw + 12 < w) cx = Math.min(Math.max(cx, tw / 2 + 6), w - tw / 2 - 6);
@@ -1134,7 +1159,7 @@
           if (!pathMode && s.kind === 'claim') rr = rr.filter(function (r) { return r.claims.indexOf(s.id) >= 0; });
           if (!rr.length) return;
           text = trunc(rr[0].label, 34) + (rr.length > 1 ? ' +' + (rr.length - 1) : '');
-        } else if (l.kind === 'parent') text = 'follows up on';
+        } else if (l.kind === 'parent') text = 'builds on';
         else if (pathMode) text = l.kind === 'theme' ? 'grouped under' : 'named in';
         else return;
         var ax = l.source.x * k + tx, ay = l.source.y * k + ty, bx = l.target.x * k + tx, by = l.target.y * k + ty, len = Math.hypot(bx - ax, by - ay);
@@ -1178,9 +1203,9 @@
   function showTip(n) {
     var tip = $('tip');
     if (!n) { tip.hidden = true; return; }
-    var sub = n.kind === 'claim' ? (isUnv(n) ? unvText(n) : VLABEL[n.verdict]) + ' · ' + claimLabel(n)
-      : n.kind === 'theme' ? 'Recurring theme · ' + plural(arr(n.claims).length, 'claim')
-        : TLABEL[n.type] + ' · in ' + plural(n.cl.length, 'check') + (n.unverified_only ? ' · named only in an unverified item' : '');
+    var sub = n.kind === 'claim' ? (isUnv(n) ? unvText(n) : VLABEL[n.verdict]) + ' · ' + originText(n)
+      : n.kind === 'theme' ? 'Recurring theme · ' + plural(arr(n.claims).length, 'check')
+        : TLABEL[n.type] + ' · in ' + plural(n.cl.length, 'check') + (n.unverified_only ? ' · named only in an unverified check' : '');
     tip.innerHTML = '<b>' + esc(n.name) + '</b><span>' + esc(sub) + '</span>';
     tip.hidden = false;
     var x = n.x * T.k + T.x, y = n.y * T.k + T.y, r = rs(n, T.k) * 1.5 + 8, tw = tip.offsetWidth, th = tip.offsetHeight;
@@ -1206,7 +1231,7 @@
     while (prev.get(cur)) { var p = prev.get(cur); ls.unshift(p.l); list.unshift(p.n); cur = p.n; }
     return { from: a, to: b, list: list, steps: ls, set: new Set(list), links: new Set(ls) };
   }
-  function linkWord(l) { return l.kind === 'rel' ? l.rels[0].label : l.kind === 'parent' ? 'follows up on' : l.kind === 'theme' ? 'grouped under' : 'named in'; }
+  function linkWord(l) { return l.kind === 'rel' ? l.rels[0].label : l.kind === 'parent' ? 'builds on' : l.kind === 'theme' ? 'grouped under' : 'named in'; }
   function nodeBtn(n, text) { return '<button type="button" class="linkbtn" data-sel="' + esc(n.key) + '">' + esc(text || (n.kind === 'entity' ? shortName(n) : trunc(n.name, 40))) + '</button>'; }
   function renderBanner() {
     var b = $('banner'), h = '';
@@ -1238,13 +1263,13 @@
         '<p class="small muted">' + bar(n.tally || [], 'mini') + esc(tallyText(n)) + '</p>' +
         '<p class="small muted">' + plural(n.ents.length, 'name') + ' involved</p>';
     } else if (n.kind === 'theme') {
-      h += (arr(n.points)[0] ? '<p>' + rich(n.points[0]) + '</p>' : '') + '<p class="small muted">A pattern the video returns to. It groups these claims:</p><ul class="plist">' +
-        arr(n.claims).map(function (id) { var c = byKey.get(id); return c ? '<li>' + nodeBtn(c, claimLabel(c) + ': ' + trunc(c.title, 44)) + '</li>' : ''; }).join('') + '</ul>';
+      h += (arr(n.points)[0] ? '<p>' + rich(n.points[0]) + '</p>' : '') + '<p class="small muted">A pattern that recurs across these checks:</p><ul class="plist">' +
+        arr(n.claims).map(function (id) { var c = byKey.get(id); return c ? '<li>' + nodeBtn(c, trunc(c.title, 56)) + '</li>' : ''; }).join('') + '</ul>';
     } else {
       var cnt = new Map();
       n.lines.forEach(function (r) { var o = r.S === n ? r.T : r.S; cnt.set(o, (cnt.get(o) || 0) + r.claims.length + 1); });
       var near = Array.from(cnt.keys()).sort(function (a, b) { return cnt.get(b) - cnt.get(a); }).slice(0, 5);
-      h += (n.unverified_only ? '<p class="pv"><span class="flag">' + mark('unverified') + 'Named only in an unverified item</span></p>' : '') +
+      h += (n.unverified_only ? '<p class="pv"><span class="flag">' + mark('unverified') + 'Named only in an unverified check</span></p>' : '') +
         (n.role ? '<p>' + rich(trunc(n.role, 230)) + '</p>' : '') +
         '<p class="small muted">Named in ' + plural(n.cl.length, 'check') + ' · ' + plural(n.lines.length, 'documented connection') + '</p>' +
         (near.length ? '<p class="small muted near">Closest: ' + near.map(function (o) { return nodeBtn(o); }).join(', ') + '</p>' : '');
@@ -1267,7 +1292,7 @@
       applyFilters();
     }
     if (!n.vis && !traced) {   // a filter or an isolated view hides it: show everything again
-      map.iso = null; F.kind = new Set(FKEYS); F.verdict = new Set(presentVerdicts); renderTools(); applyFilters();
+      map.iso = null; F.kind = new Set(FKEYS); F.verdict = new Set(presentVerdicts); F.topic = ''; renderTools(); applyFilters();
     }
     map.sel = n; map.hover = null; showTip(null);
     renderPanel();
@@ -1284,7 +1309,7 @@
   }
   function resetMap() {
     map.iso = null; map.path = null; map.pathFrom = null;
-    F.kind = new Set(FKEYS); F.verdict = new Set(presentVerdicts);
+    F.kind = new Set(FKEYS); F.verdict = new Set(presentVerdicts); F.topic = '';
     renderTools(); applyFilters();
     if (map.sel) mapDeselect();
     fit(true);
@@ -1296,15 +1321,18 @@
       return '<label class="chk"><input type="checkbox" id="f-' + group + '-' + v + '" data-group="' + group + '" value="' + v + '"' + (F[group].has(v) ? ' checked' : '') + '>' + markHtml + '<span>' + label + '</span><span class="cnt">' + num(n) + '</span></label>';
     }
     var claimMark = '<svg class="kmark v-hold" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" fill="currentColor"><path d="M8 1l7 7-7 7-7-7z"/></svg>';
-    $('tools-body').innerHTML = '<fieldset><legend>Show on the map</legend>' +
+    var realTopics = TOPICS.filter(function (t) { return t.id !== 'other'; });
+    $('tools-body').innerHTML = (realTopics.length > 1 ? '<label class="field topicf"><span>Topic</span><select id="f-topic" data-group="topic"><option value="">All ' + word(realTopics.length) + ' topics</option>' +
+      realTopics.map(function (t, i) { return '<option value="' + esc(t.id) + '"' + (F.topic === t.id ? ' selected' : '') + '>' + (i + 1) + '. ' + esc(t.name) + ' (' + t.list.length + ')</option>'; }).join('') + '</select></label>' : '') +
+      '<fieldset><legend>Show on the map</legend>' +
       GROUPS.map(function (g) { return row('kind', g, GLABEL[g], kmark({ group: g }), counts[g] || 0); }).join('') +
-      row('kind', 'claim', 'Claims and checks', claimMark, counts.claim || 0) +
+      row('kind', 'claim', 'Checks', claimMark, counts.claim || 0) +
       (themes.length ? row('kind', 'theme', 'Recurring themes', kmark({ kind: 'theme' }), counts.theme || 0) : '') + '</fieldset>' +
-      '<fieldset><legend>Claims by verdict</legend>' + presentVerdicts.map(function (v) {
+      '<fieldset><legend>Checks by verdict</legend>' + presentVerdicts.map(function (v) {
         return row('verdict', v, VLABEL[v], '<span class="v-' + VGROUP[v] + ' kmark-v">' + mark(v) + '</span>', claims.filter(function (c) { return c.verdict === v; }).length);
       }).join('') + '</fieldset>' +
-      '<ul class="keylines"><li><span class="dashkey" aria-hidden="true"></span>A dashed line or outline rests only on an unverified, single-source item</li>' +
-      (RING ? '<li><span class="ringkey" aria-hidden="true"></span>The ' + VIDEO.length + ' video claims sit on the ring, in the order the video makes them</li>' : '') + '</ul>' +
+      '<ul class="keylines">' + (RING ? '<li><span class="ringkey" aria-hidden="true"></span>The checks sit on the ring, one arc for each topic. Names settle inside, between the checks that mention them</li>' : '') +
+      '<li><span class="dashkey" aria-hidden="true"></span>A dashed line or outline rests only on an unverified, single-source check</li></ul>' +
       '<p class="small muted">Select a mark for a summary. Double-click it to isolate its network.</p>' +
       '<button type="button" class="btn" data-act="reset">Reset the map</button>';
   }
@@ -1355,10 +1383,11 @@
     $('zoom-in').addEventListener('click', function () { if (zoom) zoom.scaleBy(sel, 1.4); });
     $('zoom-out').addEventListener('click', function () { if (zoom) zoom.scaleBy(sel, 1 / 1.4); });
     $('zoom-fit').addEventListener('click', function () { fit(true); });
-    $('tools-toggle').addEventListener('click', function () { var whole = !map.sel && !map.iso && !map.path; setTools($('tools-body').hidden); if (whole && !narrow.matches) fit(true); });
+    $('tools-toggle').addEventListener('click', function () { if (narrow.matches && $('tools-body').hidden && map.sel) mapDeselect(); var whole = !map.sel && !map.iso && !map.path; setTools($('tools-body').hidden); if (whole && !narrow.matches) fit(true); });
     $('tools-body').addEventListener('change', function (e) {
-      var t = e.target; if (!t.getAttribute('data-group')) return;
-      var set = F[t.getAttribute('data-group')]; if (t.checked) set.add(t.value); else set.delete(t.value);
+      var t = e.target, grp = t.getAttribute('data-group'); if (!grp) return;
+      if (grp === 'topic') { if (narrow.matches) setTools(false); setTopic(t.value); return; }
+      var set = F[grp]; if (t.checked) set.add(t.value); else set.delete(t.value);
       applyFilters();
     });
     $('tools-body').addEventListener('submit', function (e) { e.preventDefault(); });
@@ -1378,12 +1407,21 @@
     window.addEventListener('resize', resize);
     if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { widths.clear(); requestDraw(); drawPreview(); });
   }
+  function setTopic(id) {   // show one topic: its checks and every name they mention
+    F.topic = topicById.has(id) ? id : '';
+    map.iso = null; map.path = null; map.pathFrom = null;
+    var selEl = $('f-topic'); if (selEl) selEl.value = F.topic;
+    applyFilters();
+    if (map.sel && (F.topic || !map.sel.vis)) mapDeselect(true);
+    fit(true);
+  }
   function showMap(id) {
     root.classList.add('is-map');
     $('mapview').hidden = false; page.hidden = true; $('foot').hidden = true;
     window.scrollTo(0, 0);
     initMap(); resize();
-    var n = null;
+    var n = null, tm = /^topic-(.+)$/.exec(String(id || '').toLowerCase());
+    if (tm && topicById.has(tm[1]) && !byKey.get('e:' + id)) { if (map.sel) mapDeselect(true); setTopic(tm[1]); return; }
     if (id) n = byKey.get('e:' + id) || byKey.get(id.toUpperCase()) || byHash.get(id.toLowerCase());
     if (n) mapSelect(n, { fromHash: true, animate: false });
     else { if (map.sel) mapDeselect(true); requestDraw(); }
@@ -1403,7 +1441,11 @@
     root.classList.remove('is-map', 'has-panel');
     $('mapview').hidden = true; page.hidden = false; $('foot').hidden = false;
     var anchor = null;
-    if (!h || low === 'home' || low === 'claims') { state.view = 'home'; setNav('claims'); home(); if (low === 'claims') anchor = 'claims-list'; }
+    if (!h || low === 'home' || low === 'claims' || low === 'topics' || low === 'who' || (/^topic-/.test(low) && topicById.has(low.slice(6)))) {
+      if (state.view !== 'home' || initial || !$('topics')) home();
+      state.view = 'home'; setNav('claims');
+      anchor = low === 'claims' || low === 'topics' ? 'topics' : low === 'who' ? 'who' : /^topic-/.test(low) ? low : null;
+    }
     else if (low === 'names') { state.view = 'names'; setNav('names'); browsePage(); }
     else if (low === 'method') { state.view = 'method'; setNav('method'); methodPage(); }
     else if ((m = /^name-(.+)$/.exec(low)) && (n = byKey.get('e:' + m[1]))) { state.view = 'profile'; setNav('names'); profile(n); }
@@ -1414,7 +1456,7 @@
       else { state.view = 'map'; setNav('map'); showMap(h); return; }
     } else { state.view = 'missing'; setNav(''); notFound(h); }
     var t = anchor && $(anchor);
-    if (t) t.scrollIntoView(); else window.scrollTo(0, 0);
+    if (t) { t.scrollIntoView(); if (!initial && t.hasAttribute('tabindex')) t.focus({ preventScroll: true }); } else window.scrollTo(0, 0);
     var h1 = page.querySelector('h1');
     if (h1 && !initial && !anchor) h1.focus({ preventScroll: true });
   }
@@ -1448,9 +1490,9 @@
   if (window.MutationObserver) new MutationObserver(themeChanged).observe(root, { attributes: true, attributeFilter: ['data-theme'] });
 
   // ------------------------------------------------------------------ start
-  $('foot-meta').textContent = 'Research ran in November 2026; later developments are not reflected. ' + num(claims.length) + ' items checked, ' + num(META.sources || 0) + ' sources cited' + (META.generated ? ', data built ' + fdate(META.generated) : '') + '.';
+  $('foot-meta').textContent = 'Research ran in November 2026; later developments are not reflected. ' + num(claims.length) + ' checks, ' + num(META.sources || 0) + ' sources cited' + (META.generated ? ', data built ' + fdate(META.generated) : '') + '.';
   attachSearch($('search'), $('search-results'));
-  function searchHint() { $('search').placeholder = narrow.matches ? 'Search' : 'Search names and claims'; }
+  function searchHint() { $('search').placeholder = narrow.matches ? 'Search' : 'Search names and checks'; }
   searchHint(); if (narrow.addEventListener) narrow.addEventListener('change', searchHint);
   var previewTimer = null;
   window.addEventListener('resize', function () { clearTimeout(previewTimer); previewTimer = setTimeout(drawPreview, 120); });

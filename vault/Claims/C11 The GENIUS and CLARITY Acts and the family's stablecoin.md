@@ -158,8 +158,8 @@ Trump publicly pushed the GENIUS Act and lobbied House holdouts personally, incl
 - [[USD1]] · Asset
 - [[White House Trump administration]] · Government body
 - [[World Liberty Financial]] · Company
-- [[X (Twitter) (x-twitter)]] · Media
 - [[X (Twitter)]] · Company
+- [[X (Twitter) (x-twitter)]] · Media
 
 ## Relationships documented
 

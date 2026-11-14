@@ -213,7 +213,7 @@ The fund's three documented roles hold up. Heritage Advisors / Sheikh Sultan bin
   - Zeldin says the work required no FARA registration and involved no lobbying.
 - Daibes's lawyer says he ended the Javelin engagement in June 2025.
   - The White House said the President alone decides pardons.
-- Network note: icij.org, sec.gov and oge.gov could not be read directly; findings rest on search-result text across several outlets.
+- Source note: icij.org, sec.gov and oge.gov could not be read directly; findings rest on search-result text across several outlets.
 
 ## People and organisations
 
