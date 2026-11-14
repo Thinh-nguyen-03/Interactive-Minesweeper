@@ -74,7 +74,7 @@ We could not confirm a 2025-26 Ballard-Qatar FARA registration.
 
 - **Park Lane.** QIA bought the Park Lane for about $623M in August 2023 from a Witkoff-Mubadala joint venture.
 - **The $100M.** The NYT reported (September 2025) that the Witkoff Group received $100M "as recently as May" from an Apollo-run trust partly owned by Qatar. Commercial Observer described it as a $100M Apollo refinancing of the Witkoff/Access West Palm Beach golf resort (Dutchman's Pipe/Belgrove).
-- **The correction.** A correction relayed by the Jerusalem Post and others says the lender was **Apollo Global Management, not the subsidiary in which Qatar had invested**. Apollo says Qatar-linked investors have no say in investment choices. The Jerusalem Post page was not read directly and rely on search-result text.
+- **The correction.** A correction relayed by the Jerusalem Post and others says the lender was **Apollo Global Management, not the subsidiary in which Qatar had invested**. Apollo says Qatar-linked investors have no say in investment choices. The Jerusalem Post page was not read directly; this rests on search-result text.
 - **Official responses.** The White House counsel said there was "no evidence" that Qatar's relationship with the Witkoffs affected his diplomacy. The Witkoffs threatened to sue the NYT.
 
 ### 8. Jared Kushner: QIA in Affinity, a new raise while envoy, and the WBD bid
