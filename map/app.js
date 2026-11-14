@@ -774,7 +774,7 @@
     var cr = rels.filter(function (r) { return r.claims.indexOf(c.id) >= 0; });
     var th = themes.filter(function (t) { return arr(t.claims).indexOf(c.id) >= 0; });
     var st = {}; subs.forEach(function (s) { st[s.verdict] = (st[s.verdict] || 0) + 1; });
-    var top = '<div class="chipline"><span class="chip">' + esc(c.id) + '</span><span class="chip">' + glyph('diamond', 'c-claim', { size: 11, double: fu }) + (fu ? 'Follow-up lead' : 'Claim from the video') + '</span>' + badge(c.verdict, true) + '</div><h2>' + esc(c.title) + '</h2>' + actions(c);
+    var top = '<div class="chipline"><span class="chip">' + esc(c.id) + '</span><span class="chip">' + glyph('diamond', 'c-claim', { size: 11, double: fu }) + (fu ? 'Follow-up lead' : 'Claim from the video') + '</span>' + badge(c.verdict, true) + (c.verdict === 'unverified' ? UNV_FLAG : '') + '</div><h2>' + esc(c.title) + '</h2>' + actions(c);
     var tabs = [{ id: 'summary', label: 'Summary', html: function () {
       var h = hiddenNotice(c);
       if (c.verdict === 'unverified') h += '<div class="notice warn"><strong>Unverified allegation.</strong> This claim could not be independently corroborated. It is reported here as an allegation, not as an established fact, and the people named have not been shown to have done what is alleged.</div>';
@@ -782,7 +782,7 @@
       else if (c.verdict_from_report) h += '<div class="notice">The verdict is taken from the written report. The structured breakdown for this claim has not been added yet.</div>';
       h += facts([
         ['Verdict', esc(VLABEL[c.verdict]) + (c.confidence ? ' · ' + esc(c.confidence) + ' confidence' : '')],
-        ['Origin', fu ? 'Follow-up lead, not in the video' : 'Video' + (c.lines ? ', transcript lines ' + esc(c.lines) : '')],
+        ['Origin', fu ? 'Follow-up lead, not in the video' + (c.origin_detail && c.origin_detail !== 'follow-up' ? ' (' + esc(c.origin_detail === 'connection-hunt' ? 'cross-claim connection search' : c.origin_detail.replace(/-/g, ' ')) + ')' : '') : 'Video' + (c.lines ? ', transcript lines ' + esc(c.lines) : '')],
         parents.length ? ['Follows up on', '<span class="nodechips">' + parents.map(function (p) { return nodeChip(p, { short: true }); }).join('') + '</span>'] : null,
         kids.length ? ['Follow-ups', '<span class="nodechips">' + kids.map(function (p) { return nodeChip(p, { short: true }); }).join('') + '</span>'] : null,
         subs.length ? ['Sub-claims', subs.length + ' · ' + VERDICTS.filter(function (v) { return st[v]; }).map(function (v) { return st[v] + ' ' + VLABEL[v].toLowerCase(); }).join(', ')] : null,

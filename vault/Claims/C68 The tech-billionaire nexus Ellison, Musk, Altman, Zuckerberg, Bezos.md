@@ -3,12 +3,12 @@ id: "C68"
 kind: "claim"
 title: "The tech-billionaire nexus: Ellison, Musk, Altman, Zuckerberg, Bezos"
 verdict: "pending"
-origin: "video"
+origin: "follow-up"
 aliases:
   - "C68"
 tags:
   - "claim"
-  - "origin/video"
+  - "origin/follow-up"
   - "verdict/pending"
 ---
 # C68: The tech-billionaire nexus: Ellison, Musk, Altman, Zuckerberg, Bezos
@@ -17,7 +17,7 @@ tags:
 
 Verification of this claim has not been completed yet.
 
-## What the video said
+## Lead investigated
 
 > Connection hunt: tech principals who are simultaneously counterparties of the Trump family and beneficiaries of administration decisions — Larry/David Ellison (Oracle in Stargate and the TikTok US joint venture alongside MGX; Skydance–Paramount approval after the settlement; Warner bid), Elon Musk (xAI/SpaceX in 1789's portfolio; DOGE; contracts), Sam Altman/OpenAI (Stargate; MGX; Thrive/Josh Kushner), Zuckerberg/Meta (settlement), Bezos/Amazon (documentary), Nvidia/Jensen Huang (chips to UAE/Saudi/China; ballroom?), Andreessen Horowitz, Peter Thiel/Palantir (Trump's PLTR trades; contracts), Microsoft. Map each money flow to the family and each government decision, with dates.
 

@@ -6,11 +6,12 @@ aliases:
   - "Sheikh Tahnoon bin Zayed Al Nahyan"
   - "Sheikh Tahoon"
   - "Tahnoon"
+  - "Tahnoon bin Zayed"
   - "Tahnoon bin Zayed Al Nahyan"
   - "Tahoon bin Zayed"
   - "spy sheikh"
-connections: 21
-claims: 9
+connections: 22
+claims: 10
 tags:
   - "entity"
   - "type/person"
@@ -38,11 +39,12 @@ UAE national security adviser, brother of the UAE president, MGX chairman; tied 
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 
 ## Relationships
 
 - [[Sheikh Tahnoon bin Zayed]] *chaired (until folded into L'IMAD)* [[ADQ]] (2026-01, ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Sheikh Tahnoon bin Zayed]] *linked to / backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Sheikh Tahnoon bin Zayed]] *oversees* [[Chimera Investment LLC]] (ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Sheikh Tahnoon bin Zayed]] *chairs* [[First Abu Dhabi Bank]] (ownership) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]

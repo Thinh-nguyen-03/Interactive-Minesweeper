@@ -118,7 +118,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 
 - [[Affinity Partners]] *seeking part of $5B from* [[Other Gulf sovereign wealth funds]] ($5B, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Affinity Partners]] *sought part of $5B+ new raise from (per NYT)* [[Public Investment Fund (Saudi Arabia)]] (2026-03, $5B, commercial) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Chad Mizelle]] *chief legal officer of* [[Affinity Partners]] (commercial) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Chad Mizelle]] *chief legal officer of* [[Affinity Partners]] (2022, commercial) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Chad Mizelle]] *attorney for* [[Jared Kushner]] (legal) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
 - [[Citizens for Responsibility and Ethics in Washington]] *sued over envoy role and lack of disclosure* [[Jared Kushner]] (2026-10, legal) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Donald Trump]] *named 'envoy of peace' (unofficial, volunteer)* [[Jared Kushner]] (2026-02-19, political) · [[C15 Jared Kushner and Affinity Partners|C15]]

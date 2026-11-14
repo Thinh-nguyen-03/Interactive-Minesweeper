@@ -6,8 +6,8 @@ aliases:
   - "Abu Dhabi"
   - "Dubai"
   - "UAE"
-connections: 36
-claims: 16
+connections: 38
+claims: 17
 tags:
   - "entity"
   - "type/country"
@@ -42,6 +42,7 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 
 ## Relationships
 
@@ -62,6 +63,7 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[Trump Organization]] *Trump-branded projects in (Dubai)* [[United Arab Emirates]] (2025-05, commercial) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Trump International Hotel & Tower Dubai]] *located in* [[United Arab Emirates]] (commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[United Arab Emirates]] *home jurisdiction of* [[Lunate]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[United Arab Emirates]] *awarded Order of the Union to* [[Martin Edelman]] (2026-06, political) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[United Arab Emirates]] *secured* [[UAE AI chips deal]] (commercial) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[United Arab Emirates]] *funds (government-funded charity)* [[Watani Al Emarat Foundation]] (money) · [[C37 Jared Kushner's hacked phone|C37]]
 - [[Possible UAE currency swap]] *would aid* [[United Arab Emirates]] (money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]

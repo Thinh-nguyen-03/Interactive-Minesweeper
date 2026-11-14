@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Witkoff"
-connections: 34
-claims: 12
+connections: 36
+claims: 13
 tags:
   - "entity"
   - "type/person"
@@ -35,6 +35,7 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Pending
 
 ## Relationships
@@ -49,6 +50,7 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[Chris Murphy]] *opened ethics inquiry (with Warren)* [[Steve Witkoff]] (2025-11-18, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[David Warrington]] *White House counsel defending his ethics compliance* [[Steve Witkoff]] (2025, advisory) · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[David Warrington]] *asserted divestment from WLF* [[Steve Witkoff]] (2026-02, political) · [[C14 Steve and Zach Witkoff|C14]]
+- [[David Warrington]] *vouched for WLF divestment of* [[Steve Witkoff]] (2026-02, political) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Elizabeth Warren]] *ethics inquiry: unsigned disclosure* [[Steve Witkoff]] (2025-11-18, regulatory) · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Elizabeth Warren]] *opened ethics inquiry (with Murphy)* [[Steve Witkoff]] (2025-11-18, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Gregory Meeks]] *sought IG/OGE investigation* [[Steve Witkoff]] (2026-01-08, regulatory) · [[C53 The Witkoff family's own Gulf money|C53]]
@@ -56,6 +58,7 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[Jared Kushner]] *negotiates alongside* [[Steve Witkoff]] (2025, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *travels and negotiates with* [[Steve Witkoff]] (political) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Leonard Blavatnik]] *reported real-estate partnership (Byline Times)* [[Steve Witkoff]] (2025-12, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Martin Edelman]] *decades-long friend from NY real estate (single-source)* [[Steve Witkoff]] (commercial) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Steve Witkoff]] *father of* [[Alex Witkoff]] (family) · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Steve Witkoff]] *told by Trump to warn Qatar (timing disputed)* [[Israeli strike on Doha (Sept 9, 2025)]] (2025-09-09, political) · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Steve Witkoff]] *filed 2025 disclosure with* [[Office of Government Ethics]] (2026, regulatory) · [[C42 How World Liberty insiders took money out|C42]]

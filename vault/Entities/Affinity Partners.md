@@ -4,8 +4,8 @@ kind: "entity"
 type: "fund"
 aliases:
   - "Affinity"
-connections: 23
-claims: 7
+connections: 25
+claims: 9
 tags:
   - "entity"
   - "type/fund"
@@ -31,6 +31,8 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 
 ## Relationships
 
@@ -41,14 +43,14 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 - [[Affinity Partners]] *sponsored, then withdrew from* [[Trump Tower Belgrade (General Staff site)]] (2025-12-15, $500M, commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Affinity Partners]] *denies being investor or developer of* [[Zvernec Vjosa-Narta coastal project]] (2026-06, commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Atlantic Incubation Partners LLC]] *reported affiliate of* [[Affinity Partners]] (ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Chad Mizelle]] *chief legal officer of* [[Affinity Partners]] (commercial) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Chad Mizelle]] *chief legal officer of* [[Affinity Partners]] (2022, commercial) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Jamie Raskin]] *demanded records on Albania deals* [[Affinity Partners]] (2026-08-24, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Jared Kushner]] *founded* [[Affinity Partners]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Jared Kushner]] *founded (not named in alleged accounts)* [[Affinity Partners]] (ownership) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Jared Kushner]] *founded and runs* [[Affinity Partners]] (ownership) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] (2021, ownership) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
 - [[Jared Kushner]] *founder and head of* [[Affinity Partners]] (ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Jared Kushner]] *founder of* [[Affinity Partners]] (ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Jared Kushner]] *founder of* [[Affinity Partners]] (ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Jared Kushner]] *runs* [[Affinity Partners]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Lunate]] *invested (with QIA) $1.5B in* [[Affinity Partners]] (2024-12-20, $1.5B, money) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Lunate]] *invested (with QIA, about $1.5B combined) in* [[Affinity Partners]] (2024-12, money) · [[C15 Jared Kushner and Affinity Partners|C15]]

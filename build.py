@@ -315,7 +315,8 @@ def merge(index, claim_files, reports, base):
         claims[cid] = {"id": cid, "slug": clean_str(c.get("slug")),
                        "title": clean_str(c.get("title")) or cid,
                        "claim": clean_str(c.get("claim")), "lines": clean_str(c.get("lines")),
-                       "origin": "follow-up" if slugify(c.get("origin")) in ("follow-up", "followup", "lead") else "video",
+                       "origin": "video" if slugify(c.get("origin")) in ("", "video") else "follow-up",
+                       "origin_detail": slugify(c.get("origin")),
                        "parents": [str(x) for x in as_list(c.get("parents")) if x]}
         order.append(cid)
     for cid in sorted(set(claim_files) | set(reports), key=claim_sort_key):
@@ -323,7 +324,8 @@ def merge(index, claim_files, reports, base):
             d = claim_files.get(cid, {})
             claims[cid] = {"id": cid, "slug": "", "title": clean_str(d.get("title")) or cid,
                            "claim": clean_str(d.get("claim")), "lines": "",
-                           "origin": "follow-up" if slugify(d.get("origin")) in ("follow-up", "followup", "lead") else "video",
+                           "origin": "video" if slugify(d.get("origin")) in ("", "video") else "follow-up",
+                           "origin_detail": slugify(d.get("origin")),
                            "parents": [str(x) for x in as_list(d.get("parents")) if x]}
             order.append(cid)
             if cid not in claim_files:

@@ -132,7 +132,7 @@ The timing of the UAE chip deal is documented: Emirati money flowed to WLF (secr
 - [[CNBC]] *interviewed on UAE swap* [[Donald Trump]] (2026-04-21, media) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[David Sacks]] *negotiated* [[UAE AI chips deal]] (2025-05, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Donald Trump]] *announced* [[Project Stargate]] (political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[Donald Trump]] *announced at White House* [[Project Stargate]] (2025-01-21, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Donald Trump]] *announced at White House* [[Project Stargate]] (2025-01-21, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Donald Trump]] *called a good ally* [[United Arab Emirates]] (political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Donald Trump]] *said currency swap 'under consideration'; called 'good ally'* [[United Arab Emirates]] (2026-04-21, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Donald Trump]] *said is under consideration* [[Possible UAE currency swap]] (political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]

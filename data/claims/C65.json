@@ -1,0 +1,1679 @@
+{
+  "id": "C65",
+  "title": "Officials who decided matters involving their former clients or partners",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Most of the named officials have documented prior ties to parties affected by their offices. The strongest cases: Bondi (ex-Qatar registered agent) signed the memo clearing Qatar's jet; Blanche disbanded NCET while holding $159K+ in crypto; Selig's former clients Paradigm and Willkie-represented Polymarket sit on the side of the CFTC's prediction-market fight; Navarro initiated the 1789-backed Vulcan loan; and Cerberus alumni of Deputy Secretary Feinberg run the Pentagon's OSC and BOND investment arms. Reuters single-sourced Barrack's push for his partner's TI Capital, and Mother Jones and Popular Information reported Bessent's Argentina swap aiding friend Rob Citrone. For Quintenz (never confirmed), Gould, Kratsios, Patel, Boulos and Charles Kushner we found ties but no specific benefiting decision. No authority has found an ethics violation in any of these cases, and most rest on timing and relationships, not proof of influence.",
+  "sub_claims": [
+    {
+      "statement": "Pam Bondi was a registered agent for Qatar at Ballard Partners and later backed the legality of Trump accepting Qatar's 747.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented. FARA records and fact-checks show Ballard Partners was paid $115,000 a month by Qatar's embassy (about July 2019 to June 2020), with Bondi listed as key personnel. She left in Nov 2019 for Trump's impeachment defence and rejoined in Mar 2020. Her personal share is not on record, and the fact-check rates 'she personally earned $115K/month' undetermined. In May 2025 multiple outlets reported a DOJ memo, drafted by the Office of Legal Counsel and signed by Bondi (with White House counsel David Warrington), finding it 'legally permissible' to accept the jet and later transfer it to the library foundation. A DOJ official told CNN that career ethics officials found no conflict requiring recusal. CREW and Sen. Durbin argued she should have recused. The memo has not been released; Freedom of the Press Foundation sued for it after DOJ quoted a 600+ day FOIA wait. This shows a former paid foreign-agent relationship and a later decision favourable to that principal. It does not show that the lobbying shaped the memo.",
+      "sources": [
+        "https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html",
+        "https://semafor.com/article/11/22/2024/pam-bondi-trumps-new-attorney-general-pick-is-a-former-qatar-lobbyist",
+        "https://www.yahoo.com/news/doj-lawyers-cleared-pam-bondi-164935036.html",
+        "https://www.foxnews.com/politics/house-dems-open-investigation-trumps-acceptance-400-million-jet-from-qatar",
+        "https://www.citizensforethics.org/?p=176462",
+        "https://courthousenews.com/lawsuit-targets-doj-memo-over-qatari-plane-deal/",
+        "https://www.judiciary.senate.gov/press/dem/releases/durbin-investigates-400-million-private-jet-gift-from-qatar-to-president-trump"
+      ]
+    },
+    {
+      "statement": "DOJ dropped cases against clients of Bondi's brother, Brad Bondi (Paul Hastings).",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented for the dismissals; unverified for any role by the AG. Bloomberg Law and ABC reported that DOJ dismissed charges against former Florida legislator Carolina Amesty (Aug 2025) and dropped a wire-fraud indictment of two St. Louis developers soon after they retained Brad Bondi in July 2025. Democrats (Rep. Dave Min; Sen. Schiff and others; a Mar 11, 2026 letter to the acting DOJ IG) also cite the Mar 2025 pardon of Trevor Milton, for whom Brad Bondi was lead trial counsel (see C36/C49). DOJ says 'the Attorney General had no role in them'. No IG finding had been reported as of the sources found.",
+      "sources": [
+        "https://news.bloomberglaw.com/us-law-week/doj-drops-another-fraud-case-against-a-client-of-bondis-brother",
+        "https://abcnews.com/US/story?id=125073335",
+        "https://news.bloomberglaw.com/securities-law/democrats-seek-doj-probe-into-any-bondi-role-in-brothers-cases",
+        "https://www.goodmorningamerica.com/news/story/dems-call-probe-troubling-pattern-legal-wins-pam-130945630"
+      ]
+    },
+    {
+      "statement": "Bondi held Trump Media (DJT) stock as AG and sold it on 'Liberation Day'.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (her own periodic transaction report, disclosed May 14, 2025). It shows a sale of more than $1M of TMTG shares on Apr 2, 2025, the day of the tariff announcement. Rep. Raskin asked the DOJ IG to investigate (May 20, 2025). Mother Jones and Accountable.US had earlier flagged that Bondi, Patel and McMahon held TMTG shares or board ties when appointed. A sale before a market drop is not proof of insider trading. The holding itself was an interest in the president's company, held while she led the agency with jurisdiction over matters touching it.",
+      "sources": [
+        "https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares",
+        "https://lailluminator.com/2025/05/18/bondi-trump/",
+        "https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf",
+        "https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/"
+      ]
+    },
+    {
+      "statement": "Todd Blanche held crypto when he signed the Apr 7, 2025 memo disbanding NCET.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (OGE 278 filings via ProPublica; Jan 28, 2026 letter from six Democratic senators). Blanche held roughly $159K-$485K in crypto assets (bitcoin, ether, solana); outlets give slightly different ranges. His ethics agreement required divestment within 90 days of confirmation. The 'Ending Regulation by Prosecution' memo came on Apr 7, 2025, and the sales and transfers, some to relatives, took place May 31-June 3, 2025. Former federal ethics officials told ProPublica the memo likely breached 18 U.S.C. 208 and his agreement. The senators asked whether he had a 208(b)(1) waiver; no waiver has been published, and no official finding was found. The memo benefited the crypto sector as a class, not a former client. Blanche later succeeded Bondi as AG (per C30/C49).",
+      "sources": [
+        "https://www.propublica.org/article/todd-blanche-complaint-conflict-of-interest",
+        "https://decrypt.co/356452/democrats-doj-deputy-crypto-holdings-enforcement-retreat",
+        "https://www.theblock.co/amp/post/387554/blanche-crypto-conflicts-of-interest",
+        "https://www.hirono.senate.gov/imo/media/doc/20260128ltrfromsenatorstodagrecryptocurrencyconflicts.pdf"
+      ]
+    },
+    {
+      "statement": "Paul Atkins's Patomak clients and crypto holdings, and his recusal terms at the SEC.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (OGE ethics agreement and disclosure, Mar 2025). Patomak Global Partners advised banks, exchanges and DeFi firms. Patomak is listed as a creditor in the FTX bankruptcy for a Jan 2022 board-advisory agreement. Atkins disclosed up to ~$6M of crypto-related assets: equity in Anchorage Digital, Securitize call options plus a board seat (resigned Feb 2025), and a stake in the Off the Chain Capital fund. Reported ranges differ between outlets (Fortune/The Block vs others; see C54), so treat exact figures as ranges. He agreed to divest Patomak and Securitize options and to a one-year bar on specific-party matters involving Patomak clients and Securitize. He certified compliance to OGE on Jul 18, 2025. Senate Banking Democrats questioned the 140 divestitures and asked who bought Patomak; no buyer is public in what we found. The recusal does not cover industry-wide rulemaking, which is how most SEC crypto relief was delivered (see C23/C43).",
+      "sources": [
+        "https://fortune.com/crypto/2025/03/25/paul-atkins-sec-nominee-securitize-anchorage-off-the-chain-capital-6-million-ethics-disclosure/",
+        "https://www.theblock.co/amp/post/348123/sec-chair-nominee-paul-atkins-held-shares-in-securitize-and-anchorage-digital-financial-disclosures-show-reports",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/84398B6A308FF36C85258C58002C898F/$FILE/Atkins%2C Paul S.  finalEA.pdf",
+        "https://news.bloomberglaw.com/us-law-week/trumps-sec-pick-brings-slew-of-potential-conflicts-to-new-role",
+        "https://cointelegraph.com/news/senator-elizabeth-warren-paul-atkins-hearing-conflicts-interest-ftx",
+        "https://www.banking.senate.gov/imo/media/doc/Follow%20Up%20Letter%20to%20Atkins%20re%20Divestments.pdf"
+      ]
+    },
+    {
+      "statement": "Atkins's former holding Securitize went public through a SPAC sponsored by the Lutnick family's Cantor Fitzgerald, with an SEC sign-off.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: the pieces are documented, the conflict link is inferred. Securitize, where Atkins held options and a board seat until Feb 2025, agreed in Oct 2025 to merge with Cantor Equity Partners II, a SPAC sponsored by a Cantor Fitzgerald affiliate. Cantor is now controlled by trusts for Howard Lutnick's children (see C35). The SEC declared the Form S-4 effective on June 5, 2026, with a shareholder vote set for June 29, 2026. Atkins's one-year Securitize bar would have lapsed around Feb 2026, and S-4 effectiveness is normally a staff action under delegated authority. No source asserts that Atkins took part or that anything improper happened. This is our cross-reference of three separately reported facts: an SEC chair's ex-holding, a Commerce secretary's family firm and an SEC approval. We did not confirm whether the merger closed.",
+      "sources": [
+        "https://www.theblock.co/amp/post/348123/sec-chair-nominee-paul-atkins-held-shares-in-securitize-and-anchorage-digital-financial-disclosures-show-reports",
+        "https://www.theblock.co/news/deals/2026-06-05-securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz-403842",
+        "https://www.tradingview.com/news/prnewswire:ba6f390c9a62f:0-securitize-and-cantor-equity-partners-ii-announce-sec-declaration-of-effectiveness-of-registration-statement-on-form-s-4/"
+      ]
+    },
+    {
+      "statement": "Mike Selig's former law-firm clients sit on the side of prediction-market fights his CFTC is now waging.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented links (OGE agreement; Intercept; InGame), with the benefit-to-client step inferred. As a Willkie Farr partner (2022-25), Selig represented dozens of crypto clients, including eToro, Paradigm and Alluvial Finance (Alluvial met his SEC Crypto Task Force staff). He co-signed a July 2024 Paradigm letter urging the CFTC to permit Kalshi's political event contracts, and Paradigm invested in Kalshi in June 2025. Zeteo reports that Willkie represents Polymarket. As CFTC chair he filed a Feb 17, 2026 amicus brief asserting exclusive federal jurisdiction over event contracts and sued AZ, CT and IL (Apr 2, 2026) and more states (see C25/C38). Those actions benefit Kalshi and Polymarket, where Don Jr. is an adviser and 1789 Capital an investor. His recusal covers only specific-party matters involving Willkie or former clients for one year, so policy-wide actions fall outside it. No source alleges a breach.",
+      "sources": [
+        "https://theintercept.com/2025/11/26/trump-crypto-regulation-cftc-mike-selig/",
+        "https://www.ingame.com/cftc-pick-selig-letter-backing-sports-contracts/",
+        "https://zeteo.com/p/trump-mike-selig-cftc-prediction-markets",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/9C903C665498A61785258D3F0031957A/$FILE/Selig%2C%20Michael%20%20finalEA.pdf",
+        "https://www.theblock.co/post/390241/cftc-claims-exclusive-federal-authority-over-prediction-markets-in-new-brief-clashing-with-states",
+        "https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits"
+      ]
+    },
+    {
+      "statement": "Brian Quintenz (Kalshi board, a16z) was nominated to chair the CFTC.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented. Quintenz was a Kalshi board member and a16z crypto's policy head. He pledged to leave Kalshi's board if confirmed. The White House withdrew the nomination on Sep 30, 2025, after the Winklevoss twins opposed him; texts he released show Tyler Winklevoss raising Gemini's CFTC case. He never took office, so he made no decisions. The episode matters because the replacement, Selig, later joined Gemini's motion to vacate its CFTC judgment (C52), and Gemini's founders gave about $10M in BTC to MAGA Inc. 23 days later.",
+      "sources": [
+        "https://decrypt.co/342460/white-house-pulls-quintenz-cftc-chair-nomination-after-clash-with-winklevoss-twins",
+        "https://www.notus.org/money/white-house-stalled-brian-quintenz-cftc",
+        "https://cointelegraph.com/news/white-house-pulls-brian-quintenz-cftc-nominee"
+      ]
+    },
+    {
+      "statement": "Comptroller Jonathan Gould (ex-Bitfury) approved charters including World Liberty's.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented background and approvals; no prior-client benefit found. Gould was OCC chief counsel (2018-21), then Bitfury's chief legal officer (to Sep 2022), then a Jones Day partner. As Comptroller he oversaw conditional trust charters for Coinbase, Ripple, BitGo, Circle, Fidelity Digital Assets, Paxos and Crypto.com, and preliminary approval of World Liberty Trust Co. on Aug 14, 2026 (C12). He has denied acting as a 'Trump fixer'. We found no Bitfury application before the OCC, and no OGE disclosure detail on any retained Bitfury interest. No waiver or cooling-off record was found (as C54 also notes).",
+      "sources": [
+        "https://www.bankingdive.com/news/occ-gould-trust-bank-charters-crypto-warren/820886/",
+        "https://decrypt.co/329637/former-crypto-executive-senate-nod-head-banking-regulator?amp=1",
+        "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?rand=50490"
+      ]
+    },
+    {
+      "statement": "Peter Navarro, a friend of Don Jr., initiated the Pentagon's $620M loan to 1789-backed Vulcan Elements.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (ProPublica, May 28, 2026, with DoD records and interviews; follow-up letters from lawmakers). Navarro is described as a friend of Don Jr. Don Jr. is among the people Navarro dedicated his latest book to, and lawmakers note that Don Jr. visited Navarro in prison. Navarro initiated the OSC loan request, and an unnamed Pentagon official said it was the only deal initiated by a top presidential aide. 1789 Capital invested in Vulcan in its Aug 2025 Series A, and the $1.4B package was announced on Nov 3, 2025. No financial interest of Navarro's in Vulcan is reported. 1789 and the Pentagon deny any role or influence, and Navarro calls the reporting 'fake news'.",
+      "sources": [
+        "https://www.kunc.org/2026-05-28/white-house-asked-pentagon-to-loan-money-to-a-company-linked-to-trumps-oldest-son",
+        "https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/",
+        "https://www.propublica.org/article/donald-trump-jr-vulcan-lawmakers-letter",
+        "https://www.mining.com/?p=1192089"
+      ]
+    },
+    {
+      "statement": "Commerce (Lutnick) put CHIPS money and equity into the same Vulcan package.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented. The Nov 3, 2025 package included $50M of CHIPS incentives from Commerce (a preliminary, non-binding LOI) and reportedly a Commerce equity position. Outlets differ on whether these are one $50M or two, and Lutnick publicly promoted the deal. That puts both Lutnick's department and Hegseth's OSC in the 1789-backed company's financing. For Cantor/Lutnick-family links to other minerals beneficiaries see C60. No reporting has Lutnick personally tied to Vulcan.",
+      "sources": [
+        "https://www.mining.com/?p=1192089",
+        "https://www.carolinajournal.com/durham-rare-earth-start-up-receives-1-4b-federal-investment/"
+      ]
+    },
+    {
+      "statement": "Pentagon investment leadership comes from Deputy Secretary Feinberg's former firm, Cerberus, and Cerberus-linked firms received DoD work.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented for the appointments and contracts; any steering is unverified. OSC Director David Lorch (since Nov 2025, also senior adviser to Feinberg) was a Cerberus managing director (official DoD bio). George Kollitides, a former Cerberus managing director under Feinberg and a former partner at Alvarez & Marsal Capital, heads the Economic Defense Unit/BOND. He agreed to join the board of D. Boral Acquisition I before his Feb 4, 2026 appointment and joined six days after it (Bloomberg Government), and later resigned from it. Alvarez & Marsal Federal received no-bid DoD contracts worth up to about $350M ($67.6M in Dec 2025; $281.1M in Jun 2026; about $31M paid). ProPublica did not establish that Kollitides selected the firm. Feinberg's ethics agreement let him place Cerberus interests in trusts for his adult children and keep a Cerberus administrative-services contract. Warren says at least four Cerberus-related firms won Golden Dome contracts. DoD says affiliations play no role in funding decisions.",
+      "sources": [
+        "https://www.war.gov/About/Biographies/Biography/Article/4506870/david-lorch/",
+        "https://mergr.com/investor/cerberus-capital-management/team/david-lorch",
+        "https://news.bloomberglaw.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-slams-department-of-defense-for-turning-over-contracting-office-to-wall-street-private-equity-bankers/",
+        "https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543",
+        "https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4C184A39BDEDAF3B85258C3700320B7D/$FILE/Feinberg%2C%20Stephen%20A.%20%20finalEA.pdf",
+        "https://www.bloomberg.com/news/articles/2025-02-20/steve-feinberg-vows-to-divest-cerberus-stake-as-wealth-detailed",
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-questions-deputy-secretary-of-defense-on-conflicts-of-interest-involving-dods-golden-dome-missile-defense-program",
+        "https://news.bloomberglaw.com/private-equity/senator-warren-urges-feinberg-to-completely-cut-cerberus-ties"
+      ]
+    },
+    {
+      "statement": "Scott Bessent: late divestment of China-exposed farmland, and an Argentina rescue that benefited a friend's fund.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented for the farmland, single-source and secondary for the Citrone link. OGE told Senate Finance that Bessent had missed his Apr 28, 2025 divestment deadline. About $25M of North Dakota farmland remained, a crop roughly 70% exported to China, while he led China trade talks. He said in Oct 2025 that he had divested it. On Argentina, Mother Jones and Popular Information reported that Rob Citrone of Discovery Capital, a friend and former Soros colleague of Bessent, held large Argentine positions and bought more bonds days before Treasury's $20B swap-line announcement (Sep-Oct 2025). Argentine press reported that he lobbied Bessent; the NYT said his role was unclear. Bessent denies that the swap was a gift to investors and says Treasury profited. Citrone is a personal friend, not a former client of Bessent's in office.",
+      "sources": [
+        "https://www.bankingdive.com/news/bessent-ethics-farmland-divest-assets-investments-china-north-dakota-treasury-crapo-wyden-oge/757703/",
+        "https://www.aol.com/news/us-treasurys-bessent-not-compliance-214905451.html",
+        "https://www.scmp.com/news/world/united-states-canada/article/3335539/us-treasury-secretary-scott-bessent-says-he-has-divested-his-soybean-farm",
+        "https://develop.motherjones.com/politics/2025/09/trump-argentina-bailout-hedge-fund-billionaire-rob-citrone-scott-bessent",
+        "https://popular.info/p/update-treasury-secretary-pressed",
+        "https://batimes.com.ar/news/economy/bessent-steps-in-to-protect-profits-of-friendly-investors-in-argentina.phtml"
+      ]
+    },
+    {
+      "statement": "Kash Patel was a Trump Media director who received a stock award just before becoming FBI director.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented (SEC Form 4). TMTG granted Patel 25,946 restricted shares on Jan 28, 2025, worth about $779K-$840K. Patel told senators he did not and would not accept them and had no stake. Mother Jones reported that he earned $120K a year as a TMTG consultant from 2022, and the award was absent from his disclosure. We found no FBI decision benefiting TMTG. This records a tie, not a decision.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2025-02-04/kash-patel-s-800-000-trump-media-award-raises-conflict-questions-for-fbi-pick",
+        "https://ktvz.com/money/cnn-business-consumer/2025/01/31/trump-media-grants-large-amounts-of-stock-to-directors-including-two-who-are-trump-administration-nominees/",
+        "https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/"
+      ]
+    },
+    {
+      "statement": "Michael Kratsios (OSTP) retains Scale AI stock.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented holding; no decision found. ProPublica's disclosure tracker lists Scale AI Class B shares worth $1M-$5M. Kratsios was a Scale managing director from 2021 to Jan 2024, and his 2026 annual OGE 278 was certified compliant. Sen. Cantwell's questions concerned Scale labour complaints. We found no specific OSTP decision benefiting Scale. The Meta-Scale deal (Jun 2025, ~$29B valuation) would have revalued his shares, but no source discusses this.",
+      "sources": [
+        "https://projects.propublica.org/trump-team-financial-disclosures/appointees/kratsios-michael",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/D87640BF89C748E285258E35002DCCEE/$FILE/Michael-J-Kratsios-2026-278ANNU.pdf",
+        "https://www.commerce.senate.gov/services/files/C84C665D-8944-451D-971F-89A3425DE33E"
+      ]
+    },
+    {
+      "statement": "Steve Witkoff's Gulf counterparties include Qatar's QIA, which bought his Park Lane hotel.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented; already established in C14/C53. QIA paid about $623M for the Park Lane in Aug 2023, buying from a Witkoff-Mubadala joint venture. Aryam (Tahnoon) bought 49% of WLF. Witkoff negotiates with Qatar and the UAE as envoy. No source shows a specific envoy decision benefiting these counterparties.",
+      "sources": [
+        "https://therealdeal.com/new-york/2023/08/28/qia-buys-park-lane-hotel-from-witkoff/"
+      ]
+    },
+    {
+      "statement": "Tom Barrack kept financial ties to TI Capital while pushing its role in the Iraq-Syria pipeline.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: single-source (Reuters investigation, Oct 9, 2026, seen only via syndication and Al-Monitor). Barrack and Ziad Ghandour set up a $250M investment venture in 2020, and Barrack disclosed a paid consulting role with it in 2024. As ambassador to Turkey and Syria envoy, he reportedly pressed Iraqi and Syrian officials to include TI Capital in the Kirkuk-Baniyas pipeline. In July 2026 Iraq and Syria signed MoUs with a consortium of TI Capital, Chevron and Qatar's UCC Holding (project cost $15B+). OGE had no waiver on file. Reuters found no evidence that Barrack profits from the pipeline. State says he has 'no affiliation with, role in, or financial interest in' the project and is ethics-compliant.",
+      "sources": [
+        "https://al-monitor.com/originals/2026/10/trump-envoy-kept-financial-ties-firm-behind-15-billion-hormuz-bypass-oil-pipeline",
+        "https://www.thestar.com.my/news/world/2026/10/09/trump-envoy-kept-financial-ties-to-firm-behind-15-billion-hormuz-bypass-oil-pipeline-plan",
+        "https://www.zawya.com/en/press-release/iraq-and-syria-together-with-ucc-chevron-and-ti-capital-advance-strategic-oil-corridor-to-the-mediterranean-401747"
+      ]
+    },
+    {
+      "statement": "Massad Boulos (Africa adviser) mediated a DRC minerals-for-security deal.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented role; no personal benefit found. Boulos, whose son is married to Tiffany Trump, ran SCOA Nigeria (Fadoul Group), and his business scale is disputed (NYT). He mediated the June 27, 2025 DRC-Rwanda peace and minerals framework. KoBold Metals credited him for helping its Manono lithium deal. Africa Confidential (single-source) says Gentry Beach, a business associate of Don Jr., was a prime mover in the talks. We found no Boulos or family financial interest in the DRC deals.",
+      "sources": [
+        "https://www.semafor.com/article/03/10/2025/trump-to-appoint-drc-envoy-as-us-eyes-minerals-pact",
+        "https://mining.com/web/trump-envoy-says-us-congo-mining-and-security-deal-moving-ahead",
+        "https://koboldmetals.com/2025/05/07/kobold-metals-and-avz-agree-on-framework-for-kobold-to-acquire-avzs-interests-in-the-manono-lithium-deposit-in-drc/",
+        "https://www.africa-confidential.com/article/id/15443/washington-tries-a-new-push-in-kinshasa"
+      ]
+    },
+    {
+      "statement": "Charles Kushner (ambassador to France) made decisions benefiting prior business ties.",
+      "verdict": "unverified",
+      "finding": "Evidence grade: none found. He was confirmed 51-45 in May 2025, after a 2020 pardon. Coverage is about diplomatic rows (summoned by France and absent). We found no reporting of a decision tied to Kushner Companies or Gulf money. Gulf money in the family runs through Jared's Affinity (C15). One dossier site's claims about his ethics agreement could not be verified and are omitted.",
+      "sources": [
+        "https://www.axios.com/2026/02/24/kushner-trump-ambassadors-diplomatic-drama",
+        "https://www.euronews.com/2025/05/20/charles-kushner-father-of-trumps-son-in-law-confirmed-as-us-ambassador-to-france"
+      ]
+    }
+  ],
+  "corrections": [
+    "The brief calls the jet memo 'Bondi's legal memo'. It was reportedly drafted by OLC and signed by Bondi; it remains unreleased.",
+    "Bondi's personal pay from the Qatar contract is not on record. The $115K/month went to Ballard Partners.",
+    "Reported Atkins holding ranges differ between outlets (Securitize options $250K-$500K per Fortune/The Block vs larger figures elsewhere, incl. C54). Treat them as ranges.",
+    "Quintenz was never confirmed, so he made no decisions as an official.",
+    "Blanche did not fully sell his crypto. Part was 'sold or transferred' to relatives, May 31-June 3, 2025."
+  ],
+  "denials_and_context": [
+    "DOJ: Bondi consulted career ethics officials who found no recusal was needed on the jet, and 'the Attorney General had no role' in the brother's cases.",
+    "The SEC says Atkins complies with his ethics agreement, and he certified compliance with OGE on Jul 18, 2025.",
+    "Patel says he never accepted TMTG compensation as a director.",
+    "1789 Capital and the Pentagon deny any role or influence in the Vulcan loan, and Navarro calls the reporting 'fake news'.",
+    "Bessent says the Argentina swap was not a bailout and that Treasury profited.",
+    "State Department: Barrack has no role or financial interest in the pipeline and is certified ethics-compliant.",
+    "Gould denies receiving any presidential direction on WLF's charter.",
+    "Most crypto relief came through industry-wide policy, which the standard one-year recusals do not cover. This is lawful, but it means recusal terms do not address the main channel of benefit.",
+    "Research note: the web-search budget ran out before Patomak's buyer, Kratsios's post-Meta divestment status, and the Gentry Beach details could be checked further. govexec.com could not be fetched directly."
+  ],
+  "sources": [
+    {
+      "title": "Fact Check: Pam Bondi used to lobby for Qatar",
+      "publisher": "Yahoo/USA Today",
+      "url": "https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html",
+      "date": "2024-12"
+    },
+    {
+      "title": "Pam Bondi, Trump's new attorney general pick, is a former Qatar lobbyist",
+      "publisher": "Semafor",
+      "url": "https://semafor.com/article/11/22/2024/pam-bondi-trumps-new-attorney-general-pick-is-a-former-qatar-lobbyist",
+      "date": "2024-11-22"
+    },
+    {
+      "title": "Bondi's lobbying for special interests and a foreign government",
+      "publisher": "Senate Judiciary Democrats",
+      "url": "https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest",
+      "date": "2025-01-15"
+    },
+    {
+      "title": "DOJ lawyers cleared Pam Bondi's memo backing legality of Trump accepting Qatari 747",
+      "publisher": "Yahoo/CNN",
+      "url": "https://www.yahoo.com/news/doj-lawyers-cleared-pam-bondi-164935036.html",
+      "date": "2025-05"
+    },
+    {
+      "title": "House Dems open investigation into Qatar jet",
+      "publisher": "Fox News",
+      "url": "https://www.foxnews.com/politics/house-dems-open-investigation-trumps-acceptance-400-million-jet-from-qatar",
+      "date": "2025-05"
+    },
+    {
+      "title": "CREW requests DOJ memo on Qatar jet and Bondi ethics guidance",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/?p=176462",
+      "date": "2025-05"
+    },
+    {
+      "title": "Lawsuit targets DOJ memo over Qatari plane deal",
+      "publisher": "Courthouse News",
+      "url": "https://courthousenews.com/lawsuit-targets-doj-memo-over-qatari-plane-deal/",
+      "date": "2025"
+    },
+    {
+      "title": "Durbin investigates $400M jet gift from Qatar",
+      "publisher": "Senate Judiciary Democrats",
+      "url": "https://www.judiciary.senate.gov/press/dem/releases/durbin-investigates-400-million-private-jet-gift-from-qatar-to-president-trump",
+      "date": "2025-05-14"
+    },
+    {
+      "title": "DOJ drops another fraud case for a client of Bondi's brother",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/us-law-week/doj-drops-another-fraud-case-against-a-client-of-bondis-brother",
+      "date": "2025-08"
+    },
+    {
+      "title": "DOJ drops charges against another client of AG Pam Bondi's brother",
+      "publisher": "ABC News",
+      "url": "https://abcnews.com/US/story?id=125073335",
+      "date": "2025-08-28"
+    },
+    {
+      "title": "Democrats seek DOJ probe into any Bondi role in brother's cases",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/securities-law/democrats-seek-doj-probe-into-any-bondi-role-in-brothers-cases",
+      "date": "2026-03"
+    },
+    {
+      "title": "Attorney General Pam Bondi discloses sale of Trump Media shares",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares",
+      "date": "2025-05"
+    },
+    {
+      "title": "Raskin letter to DOJ OIG re Bondi stock sale",
+      "publisher": "House Judiciary Democrats",
+      "url": "https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf",
+      "date": "2025-05-20"
+    },
+    {
+      "title": "Trump officials are keeping ties to his social media company",
+      "publisher": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/",
+      "date": "2025-04"
+    },
+    {
+      "title": "Complaint: Todd Blanche crypto conflict of interest",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/todd-blanche-complaint-conflict-of-interest",
+      "date": "2026-01"
+    },
+    {
+      "title": "Democrats press DOJ deputy over crypto holdings",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/356452/democrats-doj-deputy-crypto-holdings-enforcement-retreat",
+      "date": "2026-01"
+    },
+    {
+      "title": "Senators' letter to DAG Blanche re crypto conflicts",
+      "publisher": "Sen. Hirono et al.",
+      "url": "https://www.hirono.senate.gov/imo/media/doc/20260128ltrfromsenatorstodagrecryptocurrencyconflicts.pdf",
+      "date": "2026-01-28"
+    },
+    {
+      "title": "Paul Atkins discloses Securitize, Anchorage, Off the Chain holdings",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/crypto/2025/03/25/paul-atkins-sec-nominee-securitize-anchorage-off-the-chain-capital-6-million-ethics-disclosure/",
+      "date": "2025-03-25"
+    },
+    {
+      "title": "Atkins held shares in Securitize and Anchorage Digital",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/348123/sec-chair-nominee-paul-atkins-held-shares-in-securitize-and-anchorage-digital-financial-disclosures-show-reports",
+      "date": "2025-03-25"
+    },
+    {
+      "title": "Paul S. Atkins ethics agreement",
+      "publisher": "OGE",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/84398B6A308FF36C85258C58002C898F/$FILE/Atkins%2C Paul S.  finalEA.pdf",
+      "date": "2025-03"
+    },
+    {
+      "title": "Trump's SEC pick brings slew of potential conflicts",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/us-law-week/trumps-sec-pick-brings-slew-of-potential-conflicts-to-new-role",
+      "date": "2025"
+    },
+    {
+      "title": "Follow-up letter to Atkins re divestments",
+      "publisher": "Senate Banking Democrats",
+      "url": "https://www.banking.senate.gov/imo/media/doc/Follow%20Up%20Letter%20to%20Atkins%20re%20Divestments.pdf",
+      "date": "2025-08"
+    },
+    {
+      "title": "Securitize clears SEC registration statement hurdle",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/deals/2026-06-05-securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz-403842",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "Securitize and Cantor Equity Partners II announce S-4 effectiveness",
+      "publisher": "PR Newswire via TradingView",
+      "url": "https://www.tradingview.com/news/prnewswire:ba6f390c9a62f:0-securitize-and-cantor-equity-partners-ii-announce-sec-declaration-of-effectiveness-of-registration-statement-on-form-s-4/",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "Trump's crypto regulator Mike Selig and his clients",
+      "publisher": "The Intercept",
+      "url": "https://theintercept.com/2025/11/26/trump-crypto-regulation-cftc-mike-selig/",
+      "date": "2025-11-26"
+    },
+    {
+      "title": "CFTC pick Selig signed letter backing event contracts",
+      "publisher": "InGame",
+      "url": "https://www.ingame.com/cftc-pick-selig-letter-backing-sports-contracts/",
+      "date": "2025-10"
+    },
+    {
+      "title": "Trump, Mike Selig and prediction markets",
+      "publisher": "Zeteo",
+      "url": "https://zeteo.com/p/trump-mike-selig-cftc-prediction-markets",
+      "date": "2026-02"
+    },
+    {
+      "title": "Michael Selig ethics agreement",
+      "publisher": "OGE",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/9C903C665498A61785258D3F0031957A/$FILE/Selig%2C%20Michael%20%20finalEA.pdf",
+      "date": "2025"
+    },
+    {
+      "title": "CFTC claims exclusive federal authority over prediction markets",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/390241/cftc-claims-exclusive-federal-authority-over-prediction-markets-in-new-brief-clashing-with-states",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "CFTC sues states over prediction markets",
+      "publisher": "NPR",
+      "url": "https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "White House pulls Quintenz nomination after clash with Winklevoss twins",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/342460/white-house-pulls-quintenz-cftc-chair-nomination-after-clash-with-winklevoss-twins",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "White House stalled Brian Quintenz CFTC nomination",
+      "publisher": "NOTUS",
+      "url": "https://www.notus.org/money/white-house-stalled-brian-quintenz-cftc",
+      "date": "2025-09"
+    },
+    {
+      "title": "Gould defends OCC trust charters amid Warren criticism",
+      "publisher": "Banking Dive",
+      "url": "https://www.bankingdive.com/news/occ-gould-trust-bank-charters-crypto-warren/820886/",
+      "date": "2026"
+    },
+    {
+      "title": "Ex-Bitfury executive receives Senate nod to head OCC",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/329637/former-crypto-executive-senate-nod-head-banking-regulator?amp=1",
+      "date": "2025-07"
+    },
+    {
+      "title": "Gould on political pressure and World Liberty",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?rand=50490",
+      "date": "2026-06"
+    },
+    {
+      "title": "White House asked Pentagon to loan money to a company linked to Trump's oldest son",
+      "publisher": "ProPublica/NPR (KUNC)",
+      "url": "https://www.kunc.org/2026-05-28/white-house-asked-pentagon-to-loan-money-to-a-company-linked-to-trumps-oldest-son",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Lawmakers' letter after Vulcan reporting",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/donald-trump-jr-vulcan-lawmakers-letter",
+      "date": "2026-06"
+    },
+    {
+      "title": "Vulcan Elements, ReElement sign $1.4B deal with US",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/?p=1192089",
+      "date": "2025-11-03"
+    },
+    {
+      "title": "David Lorch biography",
+      "publisher": "Department of War",
+      "url": "https://www.war.gov/About/Biographies/Biography/Article/4506870/david-lorch/",
+      "date": "2025-11"
+    },
+    {
+      "title": "Office of Strategic Capital: Overview and Considerations",
+      "publisher": "CRS",
+      "url": "https://www.everycrsreport.com/reports/IF13215.html",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Warren letter to DoD on BOND initiative and Wall Street investors",
+      "publisher": "Sen. Warren",
+      "url": "https://www.warren.senate.gov/wp-content/uploads/2026/07/2026.07.28-Letter-to-DoD-on-BOND-Initiative-and-Wall-Street-Investors-.pdf",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Stephen A. Feinberg ethics agreement",
+      "publisher": "OGE",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4C184A39BDEDAF3B85258C3700320B7D/$FILE/Feinberg%2C%20Stephen%20A.%20%20finalEA.pdf",
+      "date": "2025"
+    },
+    {
+      "title": "Steve Feinberg vows to divest Cerberus stake",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-02-20/steve-feinberg-vows-to-divest-cerberus-stake-as-wealth-detailed",
+      "date": "2025-02-20"
+    },
+    {
+      "title": "Warren questions Feinberg on Golden Dome conflicts",
+      "publisher": "Sen. Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-questions-deputy-secretary-of-defense-on-conflicts-of-interest-involving-dods-golden-dome-missile-defense-program",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "Pentagon investment arm director joined firm with defense ties",
+      "publisher": "Bloomberg Government",
+      "url": "https://news.bloomberglaw.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Warren slams DoD for turning contracting office over to private equity",
+      "publisher": "Sen. Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-slams-department-of-defense-for-turning-over-contracting-office-to-wall-street-private-equity-bankers/",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Pentagon gave $350M in contracts to firm tied to senior official",
+      "publisher": "ProPublica via Defense One",
+      "url": "https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543",
+      "date": "2026-10"
+    },
+    {
+      "title": "Bessent ethics: farmland divestment",
+      "publisher": "Banking Dive",
+      "url": "https://www.bankingdive.com/news/bessent-ethics-farmland-divest-assets-investments-china-north-dakota-treasury-crapo-wyden-oge/757703/",
+      "date": "2025"
+    },
+    {
+      "title": "Bessent says he has divested his soybean farm",
+      "publisher": "SCMP/Reuters",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3335539/us-treasury-secretary-scott-bessent-says-he-has-divested-his-soybean-farm",
+      "date": "2025-10"
+    },
+    {
+      "title": "Trump's Argentina bailout enriches one well-connected US billionaire",
+      "publisher": "Mother Jones",
+      "url": "https://develop.motherjones.com/politics/2025/09/trump-argentina-bailout-hedge-fund-billionaire-rob-citrone-scott-bessent",
+      "date": "2025-09"
+    },
+    {
+      "title": "Treasury Secretary pressed to justify Argentina bailout",
+      "publisher": "Popular Information",
+      "url": "https://popular.info/p/update-treasury-secretary-pressed",
+      "date": "2025-10"
+    },
+    {
+      "title": "Kash Patel's $800,000 Trump Media award raises conflict questions",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-02-04/kash-patel-s-800-000-trump-media-award-raises-conflict-questions-for-fbi-pick",
+      "date": "2025-02-04"
+    },
+    {
+      "title": "Trump Media grants stock to directors including nominees",
+      "publisher": "CNN via KTVZ",
+      "url": "https://ktvz.com/money/cnn-business-consumer/2025/01/31/trump-media-grants-large-amounts-of-stock-to-directors-including-two-who-are-trump-administration-nominees/",
+      "date": "2025-01-31"
+    },
+    {
+      "title": "Michael Kratsios financial disclosure",
+      "publisher": "ProPublica",
+      "url": "https://projects.propublica.org/trump-team-financial-disclosures/appointees/kratsios-michael",
+      "date": "2025"
+    },
+    {
+      "title": "Michael J. Kratsios 2026 annual OGE 278",
+      "publisher": "OGE",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/D87640BF89C748E285258E35002DCCEE/$FILE/Michael-J-Kratsios-2026-278ANNU.pdf",
+      "date": "2026"
+    },
+    {
+      "title": "QIA buys Park Lane Hotel from Witkoff",
+      "publisher": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2023/08/28/qia-buys-park-lane-hotel-from-witkoff/",
+      "date": "2023-08-28"
+    },
+    {
+      "title": "Trump envoy kept financial ties to firm behind $15B Hormuz-bypass pipeline plan",
+      "publisher": "Reuters via Al-Monitor",
+      "url": "https://al-monitor.com/originals/2026/10/trump-envoy-kept-financial-ties-firm-behind-15-billion-hormuz-bypass-oil-pipeline",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Iraq and Syria with UCC, Chevron and TI Capital advance oil corridor",
+      "publisher": "Zawya (press release)",
+      "url": "https://www.zawya.com/en/press-release/iraq-and-syria-together-with-ucc-chevron-and-ti-capital-advance-strategic-oil-corridor-to-the-mediterranean-401747",
+      "date": "2026-07"
+    },
+    {
+      "title": "Trump to appoint DRC envoy as US eyes minerals pact",
+      "publisher": "Semafor",
+      "url": "https://www.semafor.com/article/03/10/2025/trump-to-appoint-drc-envoy-as-us-eyes-minerals-pact",
+      "date": "2025-03-10"
+    },
+    {
+      "title": "Washington tries a new push in Kinshasa",
+      "publisher": "Africa Confidential",
+      "url": "https://www.africa-confidential.com/article/id/15443/washington-tries-a-new-push-in-kinshasa",
+      "date": "2025"
+    },
+    {
+      "title": "KoBold and AVZ agree framework on Manono",
+      "publisher": "KoBold Metals",
+      "url": "https://koboldmetals.com/2025/05/07/kobold-metals-and-avz-agree-on-framework-for-kobold-to-acquire-avzs-interests-in-the-manono-lithium-deposit-in-drc/",
+      "date": "2025-05-07"
+    },
+    {
+      "title": "Charles Kushner adds to Trump's ambassador drama",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/02/24/kushner-trump-ambassadors-diplomatic-drama",
+      "date": "2026-02-24"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; appointed every official in this file"
+    },
+    {
+      "id": "pam-bondi",
+      "name": "Pam Bondi",
+      "type": "person",
+      "description": "Former AG; ex-Ballard lobbyist registered for Qatar; signed jet memo"
+    },
+    {
+      "id": "brad-bondi",
+      "name": "Brad Bondi",
+      "type": "person",
+      "description": "Paul Hastings partner; Pam Bondi's brother; counsel to Milton, Amesty, St. Louis developers"
+    },
+    {
+      "id": "paul-hastings",
+      "name": "Paul Hastings LLP",
+      "type": "company",
+      "description": "Brad Bondi's law firm"
+    },
+    {
+      "id": "ballard-partners",
+      "name": "Ballard Partners",
+      "type": "company",
+      "description": "Lobbying firm; Qatar paid $115K/month 2019-20"
+    },
+    {
+      "id": "brian-ballard",
+      "name": "Brian Ballard",
+      "type": "person",
+      "description": "Founder of Ballard Partners; Trump fundraiser"
+    },
+    {
+      "id": "susie-wiles",
+      "name": "Susie Wiles",
+      "type": "person",
+      "description": "White House chief of staff; former Ballard partner"
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "type": "country",
+      "description": "Former Ballard/Bondi client; donor of the 747"
+    },
+    {
+      "id": "qatar-jet",
+      "name": "Qatari Boeing 747-8",
+      "type": "asset",
+      "description": "~$400M jet accepted May 2025"
+    },
+    {
+      "id": "trevor-milton",
+      "name": "Trevor Milton",
+      "type": "person",
+      "description": "Nikola founder pardoned Mar 2025; Brad Bondi was his trial counsel"
+    },
+    {
+      "id": "carolina-amesty",
+      "name": "Carolina Amesty",
+      "type": "person",
+      "description": "Ex-Florida legislator; charges dropped after hiring Brad Bondi"
+    },
+    {
+      "id": "todd-blanche",
+      "name": "Todd Blanche",
+      "type": "person",
+      "description": "Deputy AG, later AG; held crypto when signing NCET memo"
+    },
+    {
+      "id": "ncet",
+      "name": "National Cryptocurrency Enforcement Team",
+      "type": "government",
+      "description": "DOJ crypto unit disbanded Apr 7, 2025"
+    },
+    {
+      "id": "doj",
+      "name": "US Department of Justice",
+      "type": "government",
+      "description": "Agency led by Bondi then Blanche"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "DJT; Bondi held and sold shares; Patel was a director"
+    },
+    {
+      "id": "kash-patel",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "FBI director; former TMTG director granted ~$780K-840K in stock"
+    },
+    {
+      "id": "paul-atkins",
+      "name": "Paul Atkins",
+      "type": "person",
+      "description": "SEC chair; founder of Patomak; held Securitize/Anchorage stakes"
+    },
+    {
+      "id": "patomak-global-partners",
+      "name": "Patomak Global Partners",
+      "type": "company",
+      "description": "Atkins's consultancy; clients incl. banks, exchanges, FTX"
+    },
+    {
+      "id": "ftx",
+      "name": "FTX",
+      "type": "company",
+      "description": "Former Patomak client (board-advisory agreement, Jan 2022)"
+    },
+    {
+      "id": "securitize",
+      "name": "Securitize",
+      "type": "company",
+      "description": "Tokenization firm; Atkins ex-board/options; merging with Cantor SPAC"
+    },
+    {
+      "id": "cantor-equity-partners-ii",
+      "name": "Cantor Equity Partners II",
+      "type": "company",
+      "description": "Cantor-sponsored SPAC merging with Securitize (S-4 effective Jun 5, 2026)"
+    },
+    {
+      "id": "cantor-fitzgerald",
+      "name": "Cantor Fitzgerald",
+      "type": "company",
+      "description": "Lutnick-family firm; SPAC sponsor; Tether custodian"
+    },
+    {
+      "id": "anchorage-digital",
+      "name": "Anchorage Digital",
+      "type": "company",
+      "description": "Crypto bank; Atkins held equity; TMTG custodian and USAT issuer"
+    },
+    {
+      "id": "off-the-chain-capital",
+      "name": "Off the Chain Capital",
+      "type": "fund",
+      "description": "Crypto fund in Atkins's disclosure"
+    },
+    {
+      "id": "sec",
+      "name": "U.S. Securities and Exchange Commission",
+      "type": "government",
+      "description": "Led by Atkins"
+    },
+    {
+      "id": "howard-lutnick",
+      "name": "Howard Lutnick",
+      "type": "person",
+      "description": "Commerce Secretary; family trusts control Cantor"
+    },
+    {
+      "id": "us-commerce-department",
+      "name": "U.S. Department of Commerce",
+      "type": "government",
+      "description": "CHIPS office; $50M Vulcan LOI"
+    },
+    {
+      "id": "mike-selig",
+      "name": "Mike Selig",
+      "type": "person",
+      "description": "CFTC chair; ex-Willkie partner with crypto/prediction-market clients"
+    },
+    {
+      "id": "willkie-farr-gallagher",
+      "name": "Willkie Farr & Gallagher",
+      "type": "company",
+      "description": "Selig's former firm; reportedly represents Polymarket"
+    },
+    {
+      "id": "paradigm",
+      "name": "Paradigm",
+      "type": "fund",
+      "description": "Crypto VC; Selig client; Kalshi investor (Jun 2025)"
+    },
+    {
+      "id": "alluvial-finance",
+      "name": "Alluvial Finance",
+      "type": "company",
+      "description": "Selig ex-client; met SEC Crypto Task Force staff"
+    },
+    {
+      "id": "cftc",
+      "name": "Commodity Futures Trading Commission",
+      "type": "government",
+      "description": "Led by Selig; amicus and state suits on event contracts"
+    },
+    {
+      "id": "kalshi",
+      "name": "Kalshi",
+      "type": "company",
+      "description": "Prediction market; Don Jr. adviser; Quintenz board"
+    },
+    {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "type": "company",
+      "description": "Prediction market; 1789 investee; Don Jr. adviser"
+    },
+    {
+      "id": "brian-quintenz",
+      "name": "Brian Quintenz",
+      "type": "person",
+      "description": "Kalshi board, a16z; CFTC nomination withdrawn Sep 30, 2025"
+    },
+    {
+      "id": "tyler-winklevoss",
+      "name": "Tyler Winklevoss",
+      "type": "person",
+      "description": "Gemini co-founder; opposed Quintenz"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "type": "company",
+      "description": "Exchange; CFTC case at issue in Quintenz texts"
+    },
+    {
+      "id": "jonathan-gould",
+      "name": "Jonathan Gould",
+      "type": "person",
+      "description": "Comptroller of the Currency; ex-Bitfury CLO"
+    },
+    {
+      "id": "bitfury",
+      "name": "Bitfury",
+      "type": "company",
+      "description": "Blockchain firm; Gould was chief legal officer to 2022"
+    },
+    {
+      "id": "occ",
+      "name": "Office of the Comptroller of the Currency",
+      "type": "government",
+      "description": "Approved crypto trust charters incl. WLF"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto firm; trust charter approved Aug 14, 2026"
+    },
+    {
+      "id": "peter-navarro",
+      "name": "Peter Navarro",
+      "type": "person",
+      "description": "White House trade counselor; friend of Don Jr.; initiated Vulcan loan"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "1789 partner; Kalshi/Polymarket adviser"
+    },
+    {
+      "id": "1789-capital",
+      "name": "1789 Capital",
+      "type": "fund",
+      "description": "Invested in Vulcan (Aug 2025) and Polymarket"
+    },
+    {
+      "id": "vulcan-elements",
+      "name": "Vulcan Elements",
+      "type": "company",
+      "description": "Magnet maker; $620M OSC loan + $50M CHIPS"
+    },
+    {
+      "id": "office-of-strategic-capital",
+      "name": "Office of Strategic Capital",
+      "type": "government",
+      "description": "Pentagon lender; director David Lorch (ex-Cerberus)"
+    },
+    {
+      "id": "pentagon",
+      "name": "Pentagon / Department of War",
+      "type": "government",
+      "description": "Led by Hegseth; Deputy Feinberg"
+    },
+    {
+      "id": "pete-hegseth",
+      "name": "Pete Hegseth",
+      "type": "person",
+      "description": "Secretary of Defense/War"
+    },
+    {
+      "id": "steve-feinberg",
+      "name": "Stephen Feinberg",
+      "type": "person",
+      "description": "Deputy Secretary of Defense; Cerberus co-founder"
+    },
+    {
+      "id": "cerberus-capital-management",
+      "name": "Cerberus Capital Management",
+      "type": "fund",
+      "description": "Feinberg's firm; alumni lead OSC and EDU/BOND"
+    },
+    {
+      "id": "david-lorch",
+      "name": "David Lorch",
+      "type": "person",
+      "description": "OSC director since Nov 2025; ex-Cerberus MD"
+    },
+    {
+      "id": "george-kollitides",
+      "name": "George Kollitides",
+      "type": "person",
+      "description": "Head of Economic Defense Unit/BOND; ex-Cerberus, ex-A&M Capital"
+    },
+    {
+      "id": "alvarez-marsal-federal",
+      "name": "Alvarez & Marsal Federal",
+      "type": "company",
+      "description": "Won ~$350M max no-bid DoD consulting contracts"
+    },
+    {
+      "id": "d-boral-acquisition-i",
+      "name": "D. Boral Acquisition I",
+      "type": "company",
+      "description": "Cayman SPAC affiliate of D. Boral Capital; Kollitides board seat"
+    },
+    {
+      "id": "d-boral-capital",
+      "name": "D. Boral Capital",
+      "type": "company",
+      "description": "Investment bank; co-underwrote Trump sons' NWAX SPAC IPO"
+    },
+    {
+      "id": "new-america-acquisition-i",
+      "name": "New America Acquisition I",
+      "type": "company",
+      "description": "Trump-sons-linked SPAC (NWAX)"
+    },
+    {
+      "id": "scott-bessent",
+      "name": "Scott Bessent",
+      "type": "person",
+      "description": "Treasury Secretary; late farmland divestment; Argentina swap"
+    },
+    {
+      "id": "rob-citrone",
+      "name": "Rob Citrone",
+      "type": "person",
+      "description": "Discovery Capital co-founder; Bessent friend; Argentina bondholder"
+    },
+    {
+      "id": "discovery-capital-management",
+      "name": "Discovery Capital Management",
+      "type": "fund",
+      "description": "Citrone's hedge fund"
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "type": "country",
+      "description": "Recipient of $20B US Treasury swap line (2025)"
+    },
+    {
+      "id": "us-treasury",
+      "name": "US Treasury",
+      "type": "government",
+      "description": "Led by Bessent"
+    },
+    {
+      "id": "michael-kratsios",
+      "name": "Michael Kratsios",
+      "type": "person",
+      "description": "OSTP director; holds $1M-$5M Scale AI shares"
+    },
+    {
+      "id": "scale-ai",
+      "name": "Scale AI",
+      "type": "company",
+      "description": "Kratsios's former employer"
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "Special envoy; WLF co-founder"
+    },
+    {
+      "id": "qatar-investment-authority",
+      "name": "Qatar Investment Authority",
+      "type": "fund",
+      "description": "Bought Park Lane from Witkoff-Mubadala JV for ~$623M (2023)"
+    },
+    {
+      "id": "tom-barrack",
+      "name": "Tom Barrack",
+      "type": "person",
+      "description": "Ambassador to Turkey; Syria envoy"
+    },
+    {
+      "id": "ti-capital",
+      "name": "TI Capital",
+      "type": "company",
+      "description": "Ziad Ghandour's firm; in Kirkuk-Baniyas pipeline consortium"
+    },
+    {
+      "id": "ziad-ghandour",
+      "name": "Ziad Ghandour",
+      "type": "person",
+      "description": "TI Capital founder; Barrack business partner since 2020"
+    },
+    {
+      "id": "kirkuk-baniyas-pipeline",
+      "name": "Kirkuk-Baniyas pipeline project",
+      "type": "asset",
+      "description": "Planned $15B+ Iraq-Syria oil pipeline"
+    },
+    {
+      "id": "state-department",
+      "name": "State Department",
+      "type": "government",
+      "description": "Employs Barrack, Boulos, C. Kushner"
+    },
+    {
+      "id": "massad-boulos",
+      "name": "Massad Boulos",
+      "type": "person",
+      "description": "Senior adviser for Africa; father-in-law of Tiffany Trump"
+    },
+    {
+      "id": "michael-boulos",
+      "name": "Michael Boulos",
+      "type": "person",
+      "description": "Tiffany Trump's husband"
+    },
+    {
+      "id": "kobold-metals",
+      "name": "KoBold Metals",
+      "type": "company",
+      "description": "Credited Boulos for Manono lithium deal"
+    },
+    {
+      "id": "gentry-beach",
+      "name": "Gentry Beach",
+      "type": "person",
+      "description": "Investor; Don Jr. associate; reported prime mover in DRC talks (single-source)"
+    },
+    {
+      "id": "drc",
+      "name": "Democratic Republic of the Congo",
+      "type": "country",
+      "description": "Minerals-for-security deal mediated by Boulos"
+    },
+    {
+      "id": "charles-kushner",
+      "name": "Charles Kushner",
+      "type": "person",
+      "description": "Ambassador to France; Jared's father"
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Affinity Partners founder; Charles Kushner's son"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Withdrew Quintenz nomination"
+    },
+    {
+      "id": "david-sacks",
+      "name": "David Sacks",
+      "type": "person",
+      "description": "AI & crypto czar; see C34"
+    },
+    {
+      "id": "office-of-government-ethics",
+      "name": "Office of Government Ethics",
+      "type": "government",
+      "description": "Holds ethics agreements and waivers"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "qatar",
+      "target": "ballard-partners",
+      "label": "paid $115K/month for lobbying",
+      "type": "money",
+      "date": "2019-07",
+      "amount_usd": 115000
+    },
+    {
+      "source": "pam-bondi",
+      "target": "ballard-partners",
+      "label": "registered agent/key personnel on Qatar contract",
+      "type": "commercial",
+      "date": "2019"
+    },
+    {
+      "source": "susie-wiles",
+      "target": "ballard-partners",
+      "label": "former partner",
+      "type": "commercial"
+    },
+    {
+      "source": "pam-bondi",
+      "target": "qatar-jet",
+      "label": "signed OLC memo calling acceptance legally permissible",
+      "type": "regulatory",
+      "date": "2025-05"
+    },
+    {
+      "source": "donald-trump",
+      "target": "pam-bondi",
+      "label": "appointed Attorney General",
+      "type": "political",
+      "date": "2025-02"
+    },
+    {
+      "source": "brad-bondi",
+      "target": "pam-bondi",
+      "label": "brother",
+      "type": "family"
+    },
+    {
+      "source": "brad-bondi",
+      "target": "paul-hastings",
+      "label": "partner",
+      "type": "commercial"
+    },
+    {
+      "source": "brad-bondi",
+      "target": "trevor-milton",
+      "label": "lead trial counsel",
+      "type": "legal"
+    },
+    {
+      "source": "brad-bondi",
+      "target": "carolina-amesty",
+      "label": "defense counsel; DOJ dropped charges",
+      "type": "legal",
+      "date": "2025-08"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trevor-milton",
+      "label": "pardoned",
+      "type": "legal",
+      "date": "2025-03-28"
+    },
+    {
+      "source": "pam-bondi",
+      "target": "trump-media-technology-group",
+      "label": "sold >$1M of shares on Apr 2, 2025",
+      "type": "money",
+      "date": "2025-04-02",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "todd-blanche",
+      "target": "ncet",
+      "label": "disbanded via memo while holding crypto",
+      "type": "regulatory",
+      "date": "2025-04-07"
+    },
+    {
+      "source": "todd-blanche",
+      "target": "doj",
+      "label": "Deputy AG, later AG",
+      "type": "political"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "kash-patel",
+      "label": "granted 25,946 restricted shares (~$779K)",
+      "type": "money",
+      "date": "2025-01-28",
+      "amount_usd": 779000
+    },
+    {
+      "source": "kash-patel",
+      "target": "trump-media-technology-group",
+      "label": "former director and paid consultant",
+      "type": "commercial",
+      "date": "2022"
+    },
+    {
+      "source": "paul-atkins",
+      "target": "patomak-global-partners",
+      "label": "founder/CEO; divested on confirmation",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "patomak-global-partners",
+      "target": "ftx",
+      "label": "board-advisory consulting agreement",
+      "type": "commercial",
+      "date": "2022-01"
+    },
+    {
+      "source": "paul-atkins",
+      "target": "securitize",
+      "label": "board seat and call options until Feb 2025",
+      "type": "ownership",
+      "date": "2025-02"
+    },
+    {
+      "source": "paul-atkins",
+      "target": "anchorage-digital",
+      "label": "held equity before taking office",
+      "type": "ownership",
+      "date": "2025-03"
+    },
+    {
+      "source": "paul-atkins",
+      "target": "off-the-chain-capital",
+      "label": "fund stake",
+      "type": "ownership",
+      "date": "2025-03"
+    },
+    {
+      "source": "paul-atkins",
+      "target": "sec",
+      "label": "chair",
+      "type": "political",
+      "date": "2025-04"
+    },
+    {
+      "source": "securitize",
+      "target": "cantor-equity-partners-ii",
+      "label": "merging via SPAC",
+      "type": "commercial",
+      "date": "2025-10"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "cantor-equity-partners-ii",
+      "label": "sponsor affiliate",
+      "type": "ownership"
+    },
+    {
+      "source": "sec",
+      "target": "cantor-equity-partners-ii",
+      "label": "declared Securitize S-4 effective",
+      "type": "regulatory",
+      "date": "2026-06-05"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "cantor-fitzgerald",
+      "label": "former chairman; children's trusts control",
+      "type": "family",
+      "date": "2025-05"
+    },
+    {
+      "source": "anchorage-digital",
+      "target": "trump-media-technology-group",
+      "label": "custodian for bitcoin treasury",
+      "type": "commercial"
+    },
+    {
+      "source": "mike-selig",
+      "target": "willkie-farr-gallagher",
+      "label": "partner 2022-25",
+      "type": "commercial",
+      "date": "2022"
+    },
+    {
+      "source": "mike-selig",
+      "target": "paradigm",
+      "label": "represented; co-signed letter urging CFTC to allow Kalshi political contracts",
+      "type": "legal",
+      "date": "2024-07"
+    },
+    {
+      "source": "mike-selig",
+      "target": "alluvial-finance",
+      "label": "former client",
+      "type": "legal"
+    },
+    {
+      "source": "paradigm",
+      "target": "kalshi",
+      "label": "invested",
+      "type": "money",
+      "date": "2025-06"
+    },
+    {
+      "source": "willkie-farr-gallagher",
+      "target": "polymarket",
+      "label": "reportedly represents (Zeteo)",
+      "type": "legal"
+    },
+    {
+      "source": "mike-selig",
+      "target": "cftc",
+      "label": "chair; amicus and suits vs states on event contracts",
+      "type": "regulatory",
+      "date": "2025-12-22"
+    },
+    {
+      "source": "cftc",
+      "target": "kalshi",
+      "label": "asserted exclusive jurisdiction benefiting",
+      "type": "regulatory",
+      "date": "2026-02-17"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "kalshi",
+      "label": "strategic adviser",
+      "type": "advisory",
+      "date": "2025-01"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "polymarket",
+      "label": "advisory board",
+      "type": "advisory",
+      "date": "2025-08"
+    },
+    {
+      "source": "1789-capital",
+      "target": "polymarket",
+      "label": "invested",
+      "type": "money",
+      "date": "2025-08-26"
+    },
+    {
+      "source": "brian-quintenz",
+      "target": "kalshi",
+      "label": "board member",
+      "type": "advisory"
+    },
+    {
+      "source": "tyler-winklevoss",
+      "target": "brian-quintenz",
+      "label": "pressed on Gemini litigation; opposed nomination",
+      "type": "political",
+      "date": "2025-09"
+    },
+    {
+      "source": "white-house",
+      "target": "brian-quintenz",
+      "label": "withdrew CFTC nomination",
+      "type": "political",
+      "date": "2025-09-30"
+    },
+    {
+      "source": "jonathan-gould",
+      "target": "bitfury",
+      "label": "chief legal officer to Sep 2022",
+      "type": "commercial",
+      "date": "2021"
+    },
+    {
+      "source": "jonathan-gould",
+      "target": "occ",
+      "label": "Comptroller",
+      "type": "political",
+      "date": "2025-07"
+    },
+    {
+      "source": "occ",
+      "target": "world-liberty-financial",
+      "label": "preliminary conditional trust charter approval",
+      "type": "regulatory",
+      "date": "2026-08-14"
+    },
+    {
+      "source": "peter-navarro",
+      "target": "donald-trump-jr",
+      "label": "friend (book dedication; prison visit)",
+      "type": "political"
+    },
+    {
+      "source": "peter-navarro",
+      "target": "office-of-strategic-capital",
+      "label": "initiated Vulcan loan request",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "1789-capital",
+      "target": "vulcan-elements",
+      "label": "Series A stake",
+      "type": "money",
+      "date": "2025-08"
+    },
+    {
+      "source": "office-of-strategic-capital",
+      "target": "vulcan-elements",
+      "label": "$620M direct loan",
+      "type": "money",
+      "date": "2025-11-03",
+      "amount_usd": 620000000
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "vulcan-elements",
+      "label": "$50M CHIPS LOI/equity",
+      "type": "money",
+      "date": "2025-11-03",
+      "amount_usd": 50000000
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "1789-capital",
+      "label": "partner",
+      "type": "ownership"
+    },
+    {
+      "source": "david-lorch",
+      "target": "cerberus-capital-management",
+      "label": "former managing director",
+      "type": "commercial"
+    },
+    {
+      "source": "david-lorch",
+      "target": "office-of-strategic-capital",
+      "label": "director since Nov 2025",
+      "type": "political",
+      "date": "2025-11"
+    },
+    {
+      "source": "steve-feinberg",
+      "target": "cerberus-capital-management",
+      "label": "co-founder; interests to children's trusts; services contract",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "steve-feinberg",
+      "target": "pentagon",
+      "label": "Deputy Secretary",
+      "type": "political",
+      "date": "2025-03"
+    },
+    {
+      "source": "pete-hegseth",
+      "target": "pentagon",
+      "label": "Secretary",
+      "type": "political",
+      "date": "2025-01"
+    },
+    {
+      "source": "george-kollitides",
+      "target": "cerberus-capital-management",
+      "label": "former MD under Feinberg",
+      "type": "commercial"
+    },
+    {
+      "source": "george-kollitides",
+      "target": "alvarez-marsal-federal",
+      "label": "ex-partner at affiliate A&M Capital; listed senior adviser Apr 2026",
+      "type": "commercial",
+      "date": "2026-04"
+    },
+    {
+      "source": "pentagon",
+      "target": "alvarez-marsal-federal",
+      "label": "no-bid contracts up to ~$350M",
+      "type": "money",
+      "date": "2026-06",
+      "amount_usd": 348700000
+    },
+    {
+      "source": "george-kollitides",
+      "target": "d-boral-acquisition-i",
+      "label": "joined board days after Pentagon appointment; later resigned",
+      "type": "commercial",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "d-boral-capital",
+      "target": "d-boral-acquisition-i",
+      "label": "affiliate",
+      "type": "ownership"
+    },
+    {
+      "source": "d-boral-capital",
+      "target": "new-america-acquisition-i",
+      "label": "co-underwrote $345M IPO",
+      "type": "commercial",
+      "date": "2025-12"
+    },
+    {
+      "source": "scott-bessent",
+      "target": "us-treasury",
+      "label": "Secretary",
+      "type": "political",
+      "date": "2025-01"
+    },
+    {
+      "source": "rob-citrone",
+      "target": "scott-bessent",
+      "label": "friend and former Soros colleague",
+      "type": "political"
+    },
+    {
+      "source": "rob-citrone",
+      "target": "discovery-capital-management",
+      "label": "co-founder",
+      "type": "ownership"
+    },
+    {
+      "source": "us-treasury",
+      "target": "argentina",
+      "label": "$20B swap line",
+      "type": "money",
+      "date": "2025-10",
+      "amount_usd": 20000000000
+    },
+    {
+      "source": "discovery-capital-management",
+      "target": "argentina",
+      "label": "large bond positions",
+      "type": "money",
+      "date": "2025-09"
+    },
+    {
+      "source": "michael-kratsios",
+      "target": "scale-ai",
+      "label": "holds Class B shares ($1M-$5M); ex-MD",
+      "type": "ownership",
+      "date": "2024-01"
+    },
+    {
+      "source": "qatar-investment-authority",
+      "target": "steve-witkoff",
+      "label": "bought Park Lane from Witkoff-Mubadala JV",
+      "type": "money",
+      "date": "2023-08",
+      "amount_usd": 623000000
+    },
+    {
+      "source": "tom-barrack",
+      "target": "ziad-ghandour",
+      "label": "co-founded $250M venture; paid consulting role",
+      "type": "commercial",
+      "date": "2020",
+      "amount_usd": 250000000
+    },
+    {
+      "source": "ziad-ghandour",
+      "target": "ti-capital",
+      "label": "founder",
+      "type": "ownership"
+    },
+    {
+      "source": "tom-barrack",
+      "target": "ti-capital",
+      "label": "pressed officials to include in pipeline (Reuters)",
+      "type": "political",
+      "date": "2026"
+    },
+    {
+      "source": "ti-capital",
+      "target": "kirkuk-baniyas-pipeline",
+      "label": "consortium member (MoU)",
+      "type": "commercial",
+      "date": "2026-07"
+    },
+    {
+      "source": "massad-boulos",
+      "target": "drc",
+      "label": "mediated minerals-for-security deal",
+      "type": "political",
+      "date": "2025-06-27"
+    },
+    {
+      "source": "massad-boulos",
+      "target": "michael-boulos",
+      "label": "father",
+      "type": "family"
+    },
+    {
+      "source": "kobold-metals",
+      "target": "massad-boulos",
+      "label": "credited for opening doors on Manono",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "gentry-beach",
+      "target": "donald-trump-jr",
+      "label": "business associate",
+      "type": "commercial"
+    },
+    {
+      "source": "charles-kushner",
+      "target": "jared-kushner",
+      "label": "father",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump",
+      "target": "charles-kushner",
+      "label": "appointed ambassador to France; pardoned 2020",
+      "type": "political",
+      "date": "2025-05"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Feinberg/Cerberus and Golden Dome contracts",
+      "why_connected": "Warren says at least four Cerberus-related firms won Golden Dome work under a deputy secretary whose Cerberus interests went to his children's trusts. Cerberus-backed Ligado is also suing DoD for $40B.",
+      "entities": [
+        "steve-feinberg",
+        "cerberus-capital-management",
+        "pentagon"
+      ],
+      "source_url": "https://www.warren.senate.gov/newsroom/press-releases/warren-questions-deputy-secretary-of-defense-on-conflicts-of-interest-involving-dods-golden-dome-missile-defense-program"
+    },
+    {
+      "title": "Kollitides' D. Boral Acquisition I seat and the Trump sons' SPAC underwriter",
+      "why_connected": "The Pentagon official overseeing BOND joined the board of an affiliate of the bank that co-underwrote New America Acquisition I. We found no coverage linking the two; this needs a dedicated check of D. Boral Acquisition I's filings.",
+      "entities": [
+        "george-kollitides",
+        "d-boral-capital",
+        "new-america-acquisition-i"
+      ],
+      "source_url": "https://news.bloomberglaw.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties"
+    },
+    {
+      "title": "Securitize-Cantor SPAC: who at the SEC handled it",
+      "why_connected": "Atkins's ex-holding merged into a Lutnick-family SPAC. Check whether Atkins recused, whether the Commission or staff acted, and whether the deal closed.",
+      "entities": [
+        "paul-atkins",
+        "securitize",
+        "cantor-fitzgerald"
+      ],
+      "source_url": "https://www.theblock.co/news/deals/2026-06-05-securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz-403842"
+    },
+    {
+      "title": "Barrack's TI Capital and Qatar's UCC in the pipeline consortium",
+      "why_connected": "Reuters found the ambassador pushing his business partner's firm into a consortium with Qatari UCC Holding and Chevron.",
+      "entities": [
+        "tom-barrack",
+        "ti-capital",
+        "qatar"
+      ],
+      "source_url": "https://al-monitor.com/originals/2026/10/trump-envoy-kept-financial-ties-firm-behind-15-billion-hormuz-bypass-oil-pipeline"
+    },
+    {
+      "title": "Gentry Beach's role in DRC minerals diplomacy",
+      "why_connected": "Africa Confidential reports that a Don Jr. business associate was a prime mover alongside Boulos in the DRC talks.",
+      "entities": [
+        "gentry-beach",
+        "massad-boulos",
+        "donald-trump-jr",
+        "drc"
+      ],
+      "source_url": "https://www.africa-confidential.com/article/id/15443/washington-tries-a-new-push-in-kinshasa"
+    },
+    {
+      "title": "Alvarez & Marsal no-bid contracts",
+      "why_connected": "ProPublica: up to ~$350M in no-bid work for a firm whose investment affiliate still listed the BOND chief as a senior adviser.",
+      "entities": [
+        "alvarez-marsal-federal",
+        "george-kollitides",
+        "pentagon"
+      ],
+      "source_url": "https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543"
+    }
+  ]
+}

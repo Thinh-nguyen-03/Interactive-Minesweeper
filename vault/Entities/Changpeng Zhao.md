@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "CZ"
   - "Changpeng Zhao (CZ)"
-connections: 14
-claims: 7
+connections: 16
+claims: 8
 tags:
   - "entity"
   - "type/person"
@@ -32,6 +32,7 @@ Binance founder and ultimate beneficial owner; pardoned by Trump.
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 
 ## Relationships
 
@@ -42,6 +43,7 @@ Binance founder and ultimate beneficial owner; pardoned by Trump.
 - [[Changpeng Zhao]] *founded, beneficial owner of* [[Binance]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Changpeng Zhao]] *founder and major owner of* [[Binance]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Changpeng Zhao]] *founder of* [[Binance]] (ownership) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Changpeng Zhao]] *received* [[Pardon of Changpeng Zhao]] (2025-10-23, legal) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Changpeng Zhao]] *recipient of* [[Pardon of Changpeng Zhao]] (2025-10, legal) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Pardon of Changpeng Zhao]] *pardon of* [[Changpeng Zhao]] (2025-10-23, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Pardon of Changpeng Zhao]] *pardoned* [[Changpeng Zhao]] (2025-10-23, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
@@ -49,6 +51,7 @@ Binance founder and ultimate beneficial owner; pardoned by Trump.
 - [[Donald Trump]] *pardoned* [[Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Changpeng Zhao]] (2025-05-29, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Changpeng Zhao]] (2025-05-29, regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Teresa Goody Guillén]] *lawyer and lobbyist for (pardon effort)* [[Changpeng Zhao]] (2025, legal) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[US Department of Justice]] *secured guilty plea (BSA/AML) from* [[Changpeng Zhao]] (2023-11, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 
 ## Themes

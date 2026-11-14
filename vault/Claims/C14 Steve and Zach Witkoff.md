@@ -116,7 +116,7 @@ Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's 
 - [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] (2024-11, political) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Steve Witkoff]] *co-founded (later co-founder emeritus)* [[World Liberty Financial]] (2024, ownership) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Steve Witkoff]] *held stake, said to have divested* [[World Liberty Financial]] (ownership) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Tahnoon-linked investment vehicle]] *secretly bought 49% for $500M* [[World Liberty Financial]] (2025-01-16, $500M, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C14 Steve and Zach Witkoff|C14]]
 - [[US Congress]] *Senate Democrats demanded answers on failure to divest* [[Steve Witkoff]] (2025-10, regulatory) · [[C14 Steve and Zach Witkoff|C14]]
 - [[The Wall Street Journal]] *revealed stake* [[Aryam Investment 1]] (2026-02-01, media) · [[C14 Steve and Zach Witkoff|C14]]

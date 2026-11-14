@@ -2,35 +2,346 @@
 id: "C66"
 kind: "claim"
 title: "The extended family: Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka"
-verdict: "pending"
-origin: "video"
+verdict: "partly-accurate"
+confidence: "medium"
+origin: "follow-up"
 aliases:
   - "C66"
 tags:
   - "claim"
-  - "origin/video"
-  - "verdict/pending"
+  - "origin/follow-up"
+  - "verdict/partly-accurate"
 ---
 # C66: The extended family: Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka
 
-**Verdict:** Pending
+**Verdict:** Partly accurate (confidence: medium)
 
-Verification of this claim has not been completed yet.
-
-## What the video said
+## Lead investigated
 
 > Connection hunt beyond Don Jr., Eric, Melania and Jared: Massad Boulos (Tiffany's father-in-law; senior Africa/Arab adviser) and Michael Boulos's business activity incl. minerals/Congo deals and library trustee role; Charles Kushner (pardoned; ambassador) and Kushner Companies' foreign financing; Josh Kushner/Thrive Capital's stakes (OpenAI, Stargate beneficiaries, Kalshi/Polymarket?); Lara Trump (Fox show, ventures); Barron Trump's WLF stake and reported ventures; Ivanka; Kai Trump endorsements; in-laws given roles. Establish each person's ventures that depend on government decisions.
 
+## Summary
+
+The in-law roles are documented. Massad Boulos runs US Africa diplomacy, including DRC minerals and Libyan oil, and Charles Kushner, whom Trump pardoned, is ambassador to France. A single NYT investigation (Aug-Sept 2025) documents Boulos-family money and access channels: a $100K payment from a Saudi businessman, now under a House Oversight inquiry; a yacht fee on a sale to Jared Kushner; and a vacation on a Turkish oil trader's yacht that would benefit from Libyan output. The strongest Kushner-sibling link to government decisions is a GSA procurement chief reported to be a Thrive investor while dealing with Thrive-backed Ramp and Databricks, and the investment itself is single-source. Barron's Sollos venture uses a Trump donor's house as its address. Lara, Ivanka and Kai have no federal-dependent ventures we could find, and Thrive-Kalshi/Polymarket and Boulos-business-DRC-minerals links are unsupported.
+
+## Sub-claims
+
+- **Confirmed**: Massad Boulos (Tiffany Trump's father-in-law) was given a senior US government role and fronts the DRC/Rwanda minerals-for-security diplomacy.
+  - DOCUMENTED. Boulos was named Senior Advisor for Africa in April 2025, on top of his Arab-affairs remit. His first trip was to Kinshasa (3 Apr 2025), where he said a US-DRC minerals deal was being negotiated alongside a Congo-Rwanda peace agreement and that US companies would invest billions once the deals were signed (AP, NPR, Mining.com). Five House Democrats wrote demanding clarity on the minerals terms (Africa Confidential). This shows a family in-law running diplomacy in which minerals access is a bargaining chip. It does NOT show a Boulos family financial interest in Congolese minerals: no source we found ties SCOA Nigeria, the Fadoul group or Michael Boulos to a DRC mining asset.
+  - <https://www.clickondetroit.com/news/world/2025/04/03/the-us-is-negotiating-a-minerals-deal-with-conflict-hit-congo-a-trump-official-says/>
+  - <https://www.nhpr.org/2025-04-03/mineral-rich-war-torn-drc-first-stop-for-trumps-new-africa-czar>
+  - <https://mining.com/web/trump-envoy-says-us-congo-mining-and-security-deal-moving-ahead>
+  - <https://www.africa-confidential.com/article/id/15508/us-lawmakers-demand-%e2%80%98clarity%27-on-minerals%27-role-in-peace-talks>
+  - <https://www.theafricareport.com/398241/from-congo-to-sudan-time-is-running-out-for-trumps-africa-dealmaker-massad-boulos/>
+- **Partly accurate**: Massad Boulos's own business is a Nigerian truck/equipment dealer (SCOA Nigeria) controlled by his wife's family, far smaller than the 'billionaire' label, and his financial disclosure is not public.
+  - DOCUMENTED for the business: per the NYT (Dec 2024, relayed by Naharnet, Mediaite and Business Insider), Boulos spent about 20 years selling trucks and machinery in Nigeria for SCOA Nigeria PLC, part of the Fadoul group controlled by his father-in-law. SCOA posted a profit under $66,000 the prior year and had a market value of about $865,000. Boulos said he does not call himself a billionaire, and SCOA's audit-committee chair defended him (ThisDay). SINGLE-SOURCE for the disclosure: Tablet (relayed by KIVU Today) could not find an OGE 278e for him, and State said only that he is 'compliant with all employment requirements'. A confidential OGE 450 would not be public, so a missing 278e does not by itself show non-filing.
+  - <https://www.naharnet.com/stories/en/309825-new-york-times-questions-whether-trump-s-mideast-adviser-boulos-is-truly-a-billionaire>
+  - <https://www.mediaite.com/politics/trump/nyt-reports-trump-administration-pick-and-tiffany-trump-father-in-law-is-not-as-rich-as-he-claims/>
+  - <https://www.businessinsider.nl/massad-boulos-hailed-as-a-billionaire-lawyer-advising-trump-on-middle-east-policy-probably-isnt-a-lawyer-or-a-billionaire/>
+  - <https://www.thisdaylive.com/2024/12/15/trump-organisation-defends-boulos-on-nigerian-networth/>
+  - <https://kivutoday.com/the-hidden-war-behind-the-rwanda-congo-peace-deal-who-really-wanted-congos-minerals/>
+  - <https://www.tabletmag.com/sections/news/articles/family-business-armin-rosen>
+- **Partly accurate**: Nigeria awarded a $700M contract to the Chagoury family, Boulos's reported long-time patrons, weeks before Boulos met President Tinubu.
+  - DOCUMENTED that Chagoury-owned ITB Nigeria was picked for a roughly $700M Lagos ports (Apapa/Tin Can) renovation in March 2025 (ThisDay citing Africa Intelligence; Sahara Reporters), and that Tinubu met Boulos in Paris in mid-April 2025 (AllAfrica/State House). SINGLE-SOURCE (Tablet, as relayed in search results) for the juxtaposition and for describing the Chagourys as Boulos's long-time patrons. We could not fetch the Tablet article to confirm its exact wording. No source alleges the contract was linked to Boulos's role, and no response from the parties was found.
+  - <https://www.thisdaylive.com/2025/03/18/africa-intelligence-tinubu-has-picked-gilbert-chagoury-for-700m-lagos-ports-renovation-project/>
+  - <https://saharareporters.com/2025/03/18/tinubus-lebanese-ally-chagoury-awarded-700million-lagos-ports-contract-despite-lacking>
+  - <https://allafrica.com/stories/202504140133.html>
+  - <https://www.tabletmag.com/sections/news/articles/family-business-armin-rosen>
+- **Confirmed**: Tiffany Trump and Michael Boulos vacationed on the yacht of a Turkish oil trader (BGN International) that stands to benefit from the Libyan oil output Massad Boulos was promoting.
+  - SINGLE-SOURCE (one NYT investigation, Sept 2025, widely relayed by Middle East Eye, Turkish Minute and Infobae). In summer 2025 the couple sailed on Phoenix 2, owned by Ercument and Ruya Bayegan of BGN International. Tiffany posted from the yacht a day after Massad Boulos announced plans to raise Libyan oil output, and the NYT reported that BGN trades Libyan oil and stands to benefit. Boulos also dined privately with Libya's national security adviser on 23 July after announcing oil deals in Tripoli; he at first denied the dinner, then acknowledged it. Family associates told the NYT that Michael Boulos has an interest in Libya's oil sector. The couple's spokesperson called it a 'personal and private vacation'. Nothing illegal is alleged, and no transaction benefiting the Boulos family is documented.
+  - <https://www.middleeasteye.net/news/tiffany-trump-and-michael-boulos-sailed-yacht-turkish-billionaire-trading-libyan-oil-report>
+  - <https://turkishminute.com/2025/09/20/trumps-daughter-vacationed-on-turkish-billionaires-yacht-report/>
+  - <https://www.infobae.com/america/the-new-york-times/2025/09/18/como-el-instagram-de-tiffany-trump-nos-condujo-al-megayate-de-un-magnate-petrolero/>
+- **Mostly accurate**: Michael Boulos took $100,000 from a Saudi businessman who sought help recovering assets seized in the Saudi corruption crackdown and an invitation to the Trump wedding; House Oversight Democrats opened an inquiry.
+  - DOCUMENTED for the inquiry: on 29 Aug 2025, Ranking Member Robert Garcia wrote to Michael Boulos, his cousin James Frangi and Abdulelah Allam (Oversight Democrats press release and PDF; The Hill). SINGLE-SOURCE (NYT) for the underlying facts: Allam wired $100,000 to Boulos on the day of a 22 June 2022 meeting at Allam's Virginia home that Frangi arranged, and an invitation to the 12 Nov 2022 Mar-a-Lago wedding was discussed. Garcia's office describes the payment as being for leveraging Trump ties to help Allam recover assets seized by Saudi Arabia. The explanations conflict. Boulos's spokesman says Allam settled a debt that Frangi's company owed Boulos; Allam's side calls it a loan awaiting repayment. Allam got neither an invitation nor his assets back. This happened while Trump was out of office, so no government decision is involved.
+  - <https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-investigates-reports-foreign-money-flowing>
+  - <https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/evo-media-document/2025-08-29-garcia-to-boulos-allam-frangi.pdf>
+  - <https://thehill.com/homenews/administration/5477588-oversight-committee-investigates-boulos/>
+  - <https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-ron-wyden-investigate-jared-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy>
+- **Confirmed**: Michael Boulos earned a fee on a superyacht sale to Jared Kushner that the NYT says was overpriced by about $2.5M.
+  - SINGLE-SOURCE (NYT, 21 Aug 2025, relayed by the Spokesman-Review, Daily Beast and Protothema). Boulos worked for the yacht brokerage of his cousin Jimmy (James) Frangi. Kushner bought the 50m superyacht Solstice, being built at Perama, Greece, as an investment. The NYT reported a roughly $2.5M overcharge and about $300,000 to Boulos when the sale closed in 2022, with the yacht still unfinished. The spokesperson says Boulos received only a prenegotiated finder's fee, has ended his business with Frangi, and that Tiffany had no knowledge of the deals. This is an intra-family commercial link, not one that depends on government action. Its significance is that the same Frangi channel recurs in the Allam payment.
+  - <https://www.spokesman.com/stories/2025/aug/21/he-asked-tiffany-trump-to-marry-him-then-the-deals/>
+  - <https://www.thedailybeast.com/tiffany-trumps-in-laws-took-jared-kushner-for-millions/>
+  - <https://origin01-en.protothema.gr/2025/08/22/nyt-suspected-fraud-among-trumps-daughters-in-law-e2-5m-overcharge-for-superyacht-solstice-built-in-perama>
+- **Confirmed**: Michael Boulos is a trustee of the Trump presidential library foundation.
+  - DOCUMENTED (from C48, Florida incorporation records). The May 2025 Donald J. Trump Presidential Library Foundation lists Eric Trump, Michael Boulos and James Kiley as trustees. The foundation won IRS exemption in 10 days and received the state-deeded Miami Dade College parcel. Tiffany Trump's trustee status is still unverified. We did not re-research this here.
+  - <https://cbsnews.com/news/trump-library-democratic-congress>
+  - <https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year>
+- **Confirmed**: Charles Kushner, pardoned by Trump in 2020, was made ambassador to France (and Monaco).
+  - DOCUMENTED. Trump pardoned Charles Kushner in Dec 2020 for his 2005 tax-evasion, witness-tampering and illegal-campaign-contribution convictions. Trump nominated him in Nov 2024 (Fortune), the Senate confirmed him 51-45 on 19-20 May 2025 (AP), and he presented credentials in July 2025. Wikipedia adds an October 2025 accreditation to Monaco, which we did not verify elsewhere. In Aug 2025 he publicly rebuked Macron over antisemitism and was summoned by the French foreign ministry. An unsourced web dossier claims his ethics agreement required resigning from 55 entities and divesting about 150 positions. We could not verify that and do not rely on it.
+  - <https://fortune.com/2024/11/30/trump-charles-kushner-pardon-jared-ivanka-us-ambassador-france/>
+  - <https://www.news4jax.com/news/politics/2025/05/20/senate-confirms-charles-kushner-father-of-trumps-son-in-law-as-ambassador-to-france/>
+  - <https://en.wikipedia.org/wiki/Charles_Kushner>
+  - <https://www.foreign.senate.gov/download/05/01/2025/050125_kushner_testimonypdf>
+- **Partly accurate**: Kushner Companies relied on Gulf-linked financing for 666 Fifth Avenue while Jared Kushner served in the first Trump White House.
+  - DOCUMENTED but historical. In 2017 Charles Kushner discussed 666 Fifth financing with Qatar's finance minister, and a reported $500M commitment from former Qatari PM Hamad bin Jassim collapsed (Bisnow). In Aug 2018 Brookfield took the tower on a 99-year lease with rent prepaid. The Qatar Investment Authority was a major Brookfield investor, but Brookfield said no Qatar-linked entity was involved (The Week, The Real Deal). Sen. Wyden queried Brookfield in 2022. We found NO documented foreign financing of Kushner Companies in 2025-26. The company is now led by Laurent Morali and Nicole Kushner Meyer and is doing Miami deals (Commercial Observer, 2026). The live Gulf-money story is Jared's Affinity Partners (C15, C46), not Kushner Companies.
+  - <https://www.bisnow.com/new-york/news/office/kushner-cos-qatar-financing-new-deal-76497>
+  - <https://theweek.com/speedreads/773861/qatarfunded-canadian-firm-says-kushner-cos-bailout-include-no-qatari-money>
+  - <https://therealdeal.com/2018/05/17/brookfield-in-talks-to-bail-kushner-companies-out-at-666-fifth-report>
+  - <https://commercialobserver.com/power-series/2026-power-south-florida/player/laurent-morali-and-nicole-meyer>
+- **Confirmed**: Josh Kushner's Thrive Capital is one of OpenAI's largest backers and is tied into OpenAI through a circular deal, while OpenAI's Stargate project was launched at the White House.
+  - DOCUMENTED. Thrive led OpenAI's early-2024 employee tender at about $86B and committed more than $1B to the Oct 2024 $6.6B round, with an option to invest more at the same valuation (Maginative/The Information, btw.media). On 1 Dec 2025 OpenAI took an equity stake in Thrive Holdings, a Thrive-created vehicle, paid for in services rather than cash (TechCrunch, Bloomberg, The Register). Thrive closed a $10B+ fund in Feb 2026. OpenAI is the operating partner of Stargate, announced by Trump at the White House in Jan 2025 (C08). INFERRED (no source asserts it): Thrive's largest position gains from administration AI policy. We found no reporting that Thrive itself is a Stargate investor or lobbied the administration. Josh Kushner is not in government and has kept his distance from Trump politically.
+  - <https://www.maginative.com/article/thrive-capital-to-lead-purchase-of-openai-tender-offer-at-80-billion-valuation/>
+  - <https://btw.media/en/thrive-capital-secures-exclusive-clause-in-openais-funding>
+  - <https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/>
+  - <https://www.bloomberg.com/news/articles/2025-12-01/openai-takes-stake-in-thrive-holdings-adding-to-circular-deals>
+  - <https://www.theregister.com/2025/12/01/openai_takes_ownership_stake_in/>
+  - <https://www.advisorperspectives.com/articles/2026/02/17/josh-kushners-thrive-capital-raises-10-billion>
+- **Partly accurate**: A senior GSA procurement official who is himself a Thrive investor oversaw federal contracting with Thrive-backed companies (Ramp, Databricks).
+  - DOCUMENTED that GSA under Federal Acquisition Service commissioner Josh Gruenbaum courted Thrive-backed fintech Ramp for the roughly $700B SmartPay card program. ProPublica found at least four meetings with Ramp before the opportunity was opened, and Rep. Gerald Connolly opened a probe in 2025 (ProPublica, Gizmodo, Banking Dive). SINGLE-SOURCE, secondhand (a WSJ report relayed by aggregators in 2026; we could not reach the WSJ) that Gruenbaum is personally an investor in a Thrive fund (reported at $100,001-$250,000, March 2025) and that GSA later gave a sole-source contract to Thrive-backed Databricks. The aggregators conflict on the amount ($1.8M vs $18M), so treat it as unverified. Thrive says neither it nor Josh Kushner discussed government contracts with Gruenbaum, and Ramp says it was unaware of the link. This is the only documented channel we found in which a Kushner-family firm's portfolio meets federal procurement decisions.
+  - <https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system>
+  - <https://gizmodo.com/trump-team-eyes-politically-connected-startup-to-overhaul-700-billion-government-payments-program-2000591587>
+  - <https://bankingdive.com/news/ramp-angles-700b-smartpay-trump/745959>
+  - <https://en.wikipedia.org/wiki/Josh_Gruenbaum>
+  - <https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/>
+  - <https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract>
+- **Unverified**: Thrive Capital holds stakes in Kalshi or Polymarket.
+  - NOT FOUND. No source we found lists Thrive as an investor in Kalshi or Polymarket. The presidential-family prediction-market link is Don Jr. (1789 Capital's Polymarket stake; adviser to both; see C25), not Josh Kushner. We discard this as unsupported.
+  - <https://www.newcomer.co/i/211092441/prediction-markets-are-a-bad-bet>
+- **Partly accurate**: Lara Trump hosts a Fox News show and runs ventures that depend on government decisions.
+  - DOCUMENTED that Fox News signed Lara Trump (RNC co-chair from March 2024 to January 2025) to host 'My View with Lara Trump', which premiered 22 Feb 2025 on Saturdays at 9pm. She also launched an activewear line (LT Brand) and released music. We found NO Lara Trump venture that depends on a federal decision. The relevant link is media: the president's daughter-in-law holds a primetime slot on the network that covers him. Her husband Eric's ventures are covered in other claims.
+  - <https://www.nbcwashington.com/news/national-international/lara-trump-fox-news-show/3836957/>
+  - <https://www.clickondetroit.com/news/politics/2025/02/05/fox-news-hires-presidents-daughter-lara-trump-for-weekend-show-on-network/>
+  - <https://www.aol.com/news/pop-star-potential-senator-now-222742848.html>
+- **Mostly accurate**: Barron Trump holds a WLF stake and has launched other ventures, one tied to a Trump donor.
+  - DOCUMENTED that WLF lists Barron as a co-founder and 'DeFi visionary' (C04). His income is a press ESTIMATE: Forbes put his WLF token-sale haul at about $40M ($25M after tax) and his stake at about 7.5% (Benzinga, VnExpress), and C29 records Forbes's later $150M net-worth estimate. Neither number comes from a disclosure. SINGLE-SOURCE-plus (Newsweek, relayed by Mediaite, Daily Beast and IBTimes): Sollos Yerba Mate Inc. (Delaware, 3 Dec 2025; Florida, 12 Jan 2026) lists as its address a roughly $16M Palm Beach house owned by developer Jay Weitzman. Weitzman gave $25,000 to Trump's 2017 inauguration and $2,700 to the 2016 campaign, his grandson Spencer Bernstein is a director, and his firm Park America has held federal contracts. Weitzman and the company deny he has any role. Fox Business could not confirm that the filing's Barron Trump is the president's son, though BevNET says the brand launched in May 2026 and is 'reportedly' connected to him. An earlier real-estate venture (Trump, Fulcher & Roxburgh) will not be relaunched.
+  - <https://www.benzinga.com/markets/25/06/46017024/trump-financial-disclosures-reveal-barron-trumps-potential-40-million-windfall-from-crypto-project>
+  - <https://e.vnexpress.net/news/tech/personalities/trump-s-youngest-son-barron-reportedly-earns-40m-from-family-crypto-venture-4908245.html>
+  - <https://www.mediaite.com/media/news/barron-trumps-tea-startup-lists-donors-palm-beach-mansion-as-hq-report/>
+  - <https://www.thedailybeast.com/barron-trumps-new-get-rich-quick-scheme-linked-to-fathers-donor-jay-weitzman>
+  - <https://www.ibtimes.co.uk/barron-trump-yerba-mate-ethical-concerns-1782153>
+  - <https://www.foxbusiness.com/politics/barron-trump-linked-beverage-company-based-near-mar-a-lago>
+  - <https://www.bevnet.com/news/2026/review-how-does-sollos-yerba-mate-stack-up>
+  - <https://www-ak-ms.foxbusiness.com/politics/barron-trump-business-partner-clarifies-future-luxury-real-estate-venture-will-not-relaunched>
+- **Partly accurate**: Ivanka Trump has ventures that depend on government decisions.
+  - DOCUMENTED. Her new US venture is Planet Harvest, a 'profit-for-purpose' produce company co-founded with Melissa Ackerman and launched publicly in 2025 (CNN via KVIA). We found no federal dependency. Her government-dependent exposure is foreign: the Albania (Sazan/Zvernec) resort plans with Jared Kushner need Albanian government approval (C45, Forbes June 2026). She holds no administration role in the second term.
+  - <https://kvia.com/politics/cnn-us-politics/2025/05/08/ivanka-trump-discusses-produce-business-in-her-first-major-public-event-of-fathers-second-term/>
+  - <https://www.forbes.com/sites/alisondurkee/2026/06/03/why-jared-kushner-and-ivanka-trumps-albanian-resort-plans-are-under-fire/>
+- **Confirmed**: Kai Trump (Don Jr.'s daughter) has endorsement deals.
+  - DOCUMENTED. Her NIL deals include TaylorMade (Feb 2025), Leaf Trading Cards, and Accelerator Active Energy as an NIL and equity partner (mid-2025). On3 estimates her NIL value at about $1.2M. These are ordinary commercial deals; we found no counterparty with a pending federal matter, and no source suggests one.
+  - <https://www.foxbusiness.com/sports/kai-trump-announces-1st-major-nil-partnership-accelerator-active-energy-presidential-fashion>
+  - <https://www.on3.com/nil/news/miami-golf-commit-kai-trump-inks-nil-deal-with-accelerator-active-energy>
+  - <https://www.yardbarker.com/golf/articles/taylormade_signs_kai_trump_to_endorsement_deal/s1_17063_41794860>
+  - <https://www.on3.com/nil/news/leaf-trading-cards-announces-nil-partnership-with-kai-trump-miami-hurricanes-golf/>
+
+## Corrections
+
+- The brief implies a Boulos minerals/Congo business deal. The record shows Massad Boulos's official role in DRC minerals diplomacy, not a family stake in Congolese minerals.
+- The brief asks about Thrive stakes in Kalshi/Polymarket. None was found; the family prediction-market link is Don Jr./1789 Capital (C25).
+- The brief says Kushner Companies has foreign financing. The documented Gulf-linked episode (666 Fifth, 2017-18) is historical, and Brookfield denied any Qatari role. Current Gulf money flows to Affinity Partners, not Kushner Companies.
+- Several aggregators conflate Massad and Michael Boulos: it was Massad, not Michael, who spent decades in Lagos running SCOA's truck business. Some summaries also wrongly name Michael as the government adviser.
+- Barron's WLF figures (about $40M proceeds, about 7.5% stake, about $150M net worth) are Forbes estimates, not disclosed numbers.
+
+## Denials and context
+
+- Michael Boulos's spokesman says Allam's $100K settled a debt Frangi's company owed Boulos; Allam's side calls it a loan. Both deny that a wedding invitation was sold.
+- On the Kushner yacht deal, the Boulos/Tiffany spokesperson says Boulos received only a prenegotiated finder's fee, has ended his business with Frangi, and that Tiffany knew nothing of the deals.
+- The couple's spokesperson called the Bayegan yacht stay a 'personal and private vacation'. Massad Boulos declined to comment and at first denied, then acknowledged, the Libya NSA dinner.
+- Massad Boulos says he never called himself a billionaire. SCOA's audit-committee chair defended him, and State says he complies with all employment requirements.
+- Thrive says neither it nor Josh Kushner discussed government contracts with Gruenbaum, and Ramp says it was unaware of any link.
+- Jay Weitzman and Sollos deny that Weitzman has any role in the business.
+- A documented relationship is not proof of wrongdoing. None of these links shows a government decision made to benefit a family member.
+
 ## People and organisations
 
-- [[Barron Trump]] (named in the claim text)
-- [[Donald Trump]] (named in the claim text)
-- [[Donald Trump Jr]] (named in the claim text)
-- [[Eric Trump]] (named in the claim text)
-- [[Jared Kushner]] (named in the claim text)
-- [[Kalshi]] (named in the claim text)
-- [[Melania Trump]] (named in the claim text)
-- [[Michael Boulos]] (named in the claim text)
-- [[OpenAI]] (named in the claim text)
-- [[Polymarket]] (named in the claim text)
-- [[Project Stargate]] (named in the claim text)
+- [[666 Fifth Avenue]]
+- [[Abdulelah Allam]]
+- [[Accelerator Active Energy]]
+- [[Affinity Partners]]
+- [[Albania]]
+- [[Barron Trump]]
+- [[BGN International]]
+- [[Bola Tinubu]]
+- [[Brookfield]]
+- [[Charles Kushner]]
+- [[Databricks]]
+- [[Democratic Republic of the Congo]]
+- [[Donald J. Trump Presidential Library Foundation, Inc]]
+- [[Donald Trump]]
+- [[Donald Trump Jr]]
+- [[Ercument Bayegan]]
+- [[Eric Trump]]
+- [[Fadoul Group]]
+- [[Forbes]]
+- [[Fox News]]
+- [[France]]
+- [[General Services Administration]]
+- [[Gerald Connolly]]
+- [[Gilbert Chagoury]]
+- [[ITB Nigeria]]
+- [[Ivanka Trump]]
+- [[James (Jimmy) Frangi]]
+- [[Jared Kushner]]
+- [[Jay Weitzman]]
+- [[Josh Gruenbaum]]
+- [[Joshua Kushner]]
+- [[Kai Trump]]
+- [[Kalshi]]
+- [[Kushner Companies]]
+- [[Lara Trump]]
+- [[Libya]]
+- [[Massad Boulos]]
+- [[Michael Boulos]]
+- [[Nigeria]]
+- [[OpenAI]]
+- [[Park America]]
+- [[Planet Harvest]]
+- [[Polymarket]]
+- [[Project Stargate]]
+- [[Qatar Investment Authority]]
+- [[Ramp]]
+- [[Robert Garcia]]
+- [[Ron Wyden]]
+- [[SCOA Nigeria PLC]]
+- [[Sollos Yerba Mate Inc]]
+- [[Solstice superyacht]]
+- [[TaylorMade Golf]]
+- [[The New York Times]]
+- [[Thrive Capital]]
+- [[Thrive Holdings]]
+- [[Tiffany Trump]]
+- [[US Congress]]
+- [[US State Department]]
+- [[World Liberty Financial]]
+
+## Relationships documented
+
+- [[Abdulelah Allam]] *wired $100,000 to* [[Michael Boulos]] (2022-06-22, $100K, money) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Barron Trump]] *reported founder (identity unconfirmed by Fox Business)* [[Sollos Yerba Mate Inc]] (2025-12-03, ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Barron Trump]] *co-founder; estimated about 7.5% stake (Forbes)* [[World Liberty Financial]] (2024-09, ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[BGN International]] *trades Libyan oil* [[Libya]] (commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Bola Tinubu]] *government picked for $700M Lagos ports contract* [[ITB Nigeria]] (2025-03, $700M, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Brookfield]] *took 99-year lease, rent prepaid* [[666 Fifth Avenue]] (2018-08, money) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Charles Kushner]] *US ambassador to* [[France]] (2025-07, political) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Charles Kushner]] *father of* [[Jared Kushner]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Charles Kushner]] *father of* [[Joshua Kushner]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Charles Kushner]] *founder and chairman of* [[Kushner Companies]] (ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Donald Trump]] *nominated ambassador to France* [[Charles Kushner]] (2024-11-30, political) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Donald Trump]] *pardoned* [[Charles Kushner]] (2020-12-23, legal) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Donald Trump]] *appointed senior adviser for Africa/Arab affairs* [[Massad Boulos]] (2025-04, political) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Donald Trump]] *announced at White House* [[Project Stargate]] (2025-01-21, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Donald Trump]] *father of* [[Tiffany Trump]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Donald Trump Jr]] *father of* [[Kai Trump]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Donald Trump Jr]] *advisory board; 1789 Capital invested (C25)* [[Polymarket]] (advisory) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Ercument Bayegan]] *owns* [[BGN International]] (ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Eric Trump]] *president and trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-05, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Fadoul Group]] *controls* [[SCOA Nigeria PLC]] (ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Forbes]] *estimated about $40M from WLF token sales* [[Barron Trump]] (2025-06, $40M, media) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Gerald Connolly]] *opened probe into Ramp dealings* [[General Services Administration]] (2025, legal) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Gilbert Chagoury]] *owns* [[ITB Nigeria]] (ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Gilbert Chagoury]] *reported long-time patron of (Tablet; single-source)* [[Massad Boulos]] (commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[General Services Administration]] *reported sole-source contract (single-source)* [[Databricks]] (2026, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[General Services Administration]] *courted for SmartPay contract* [[Ramp]] (2025, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Ivanka Trump]] *resort plans need government approval (C45)* [[Albania]] (2025-01, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Ivanka Trump]] *co-founder of* [[Planet Harvest]] (2025, ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[James (Jimmy) Frangi]] *cousin; arranged Allam meeting; yacht-brokerage employer* [[Michael Boulos]] (2022, family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Jared Kushner]] *married to* [[Ivanka Trump]] (family) · [[C45 Kushner's Albania and Serbia developments|C45]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Jared Kushner]] *bought via Frangi brokerage* [[Solstice superyacht]] (2022, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Jared Kushner]] *divested Thrive-linked LLCs (2017 ethics filing)* [[Thrive Capital]] (2017-03, ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Jay Weitzman]] *donated $25,000 to 2017 inauguration* [[Donald Trump]] (2017-01, $25K, money) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Jay Weitzman]] *owns* [[Park America]] (ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Jay Weitzman]] *owns house used as company address (denies involvement)* [[Sollos Yerba Mate Inc]] (2026-01, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Josh Gruenbaum]] *FAS commissioner at* [[General Services Administration]] (2025, political) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Josh Gruenbaum]] *reported investor in a Thrive fund (WSJ via aggregators; single-source)* [[Thrive Capital]] (2025-03, money) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Joshua Kushner]] *founder of* [[Thrive Capital]] (ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Kai Trump]] *NIL and equity partner* [[Accelerator Active Energy]] (2025, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Kai Trump]] *endorsement deal* [[TaylorMade Golf]] (2025-02, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Kushner Companies]] *owned; leased to Brookfield for 99 years* [[666 Fifth Avenue]] (2018-08, ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Lara Trump]] *married to* [[Eric Trump]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Lara Trump]] *hosts 'My View with Lara Trump'* [[Fox News]] (2025-02-22, media) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Massad Boulos]] *met in Paris* [[Bola Tinubu]] (2025-04, political) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Massad Boulos]] *led minerals-for-security talks with* [[Democratic Republic of the Congo]] (2025-04-03, regulatory) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Massad Boulos]] *son-in-law of controlling family* [[Fadoul Group]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Massad Boulos]] *announced plans to raise oil output* [[Libya]] (2025-07, political) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Massad Boulos]] *father of* [[Michael Boulos]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Massad Boulos]] *managing director of* [[SCOA Nigeria PLC]] (commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Massad Boulos]] *senior adviser at* [[US State Department]] (2025-04, political) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Michael Boulos]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] (2025-07, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Michael Boulos]] *earned about $300K fee on yacht sold to* [[Jared Kushner]] (2022, $300K, money) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Michael Boulos]] *married to* [[Tiffany Trump]] (2022-11-12, family) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Michael Boulos]] *trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-05, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[The New York Times]] *investigated deals after Tiffany engagement* [[Michael Boulos]] (2025-08-21, media) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[OpenAI]] *operating partner of* [[Project Stargate]] (2025-01-21, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[OpenAI]] *took equity stake (paid in services)* [[Thrive Holdings]] (2025-12-01, ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Qatar Investment Authority]] *major investor in (Brookfield denies Qatari role in 666 deal)* [[Brookfield]] (money) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Robert Garcia]] *sent inquiry letter to* [[Abdulelah Allam]] (2025-08-29, legal) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Robert Garcia]] *sent inquiry letter to* [[Michael Boulos]] (2025-08-29, legal) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Thrive Capital]] *investor in* [[Databricks]] (money) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Thrive Capital]] *invested more than $1B in Oct 2024 round; led 2024 tender* [[OpenAI]] (2024-10, $1B, money) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Thrive Capital]] *investor in* [[Ramp]] (money) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Thrive Capital]] *created and raised $1B for* [[Thrive Holdings]] (2025, ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Tiffany Trump]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] (2025-07, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+
+## Leads not covered by the video
+
+- **Kimberly Guilfoyle (ambassador to Greece) and an alleged pay-to-play scheme**: Another in-law-style appointee (Don Jr.'s former fiancée) facing a House Democratic records request; fits the 'in-laws given roles' brief. [source](https://www.pbs.org/newshour/politics/exclusive-house-democrats-ask-kimberly-guilfoyle-for-records-related-to-alleged-pay-to-pay-scheme) · [[Donald Trump Jr]] [[US Congress]]
+- **Russian oligarch reportedly funded Don Jr.'s wedding parties**: Same Oversight Democrats pattern as the Boulos wedding-invitation probe: foreign money around a Trump-family wedding. [source](https://www.axios.com/2026/09/15/donald-trump-jr-wedding-investigation-kremlev) · [[Donald Trump Jr]] [[Robert Garcia]]
+- **GSA commissioner Gruenbaum, Thrive Capital and Databricks sole-source award**: A procurement official reported to hold a stake in Josh Kushner's fund awarding contracts to its portfolio companies; the original WSJ report needs direct verification. [source](https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/) · [[Josh Gruenbaum]] [[Thrive Capital]] [[General Services Administration]] [[Databricks]] [[Ramp]]
+- **US firm in key Congo minerals deal overstated its mining experience (Reuters)**: Who got access under the Boulos-brokered US-DRC minerals framework; check for links to Trump-family or Boulos associates. [source](https://finance.yahoo.com/sectors/energy/articles/exclusive-us-firm-key-congo-075755712.html) · [[Massad Boulos]] [[Democratic Republic of the Congo]]
+- **Nigeria's UBA preps $50M financing for DRC minerals bid**: Nigerian capital moving into DRC minerals under the US framework, where Boulos's Nigerian network could intersect. [source](https://www.semafor.com/article/01/26/2026/nigerias-uba-preps-50m-financing-for-drc-minerals-bid) · [[Massad Boulos]] [[Nigeria]] [[Democratic Republic of the Congo]]
+- **Garcia/Wyden probe of Jared Kushner's Gulf fundraising while negotiating**: The same congressional channel links the Boulos and Kushner in-law inquiries (March 2026). [source](https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-ron-wyden-investigate-jared-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy) · [[Jared Kushner]] [[Affinity Partners]] [[Robert Garcia]] [[Ron Wyden]]
+
+## Sources
+
+1. [The US is negotiating a minerals deal with conflict-hit Congo, a Trump official says](https://www.clickondetroit.com/news/world/2025/04/03/the-us-is-negotiating-a-minerals-deal-with-conflict-hit-congo-a-trump-official-says/) (AP (via WDIV), 2025-04-03)
+2. [Mineral-rich, war-torn DRC first stop for Trump's new Africa czar](https://www.nhpr.org/2025-04-03/mineral-rich-war-torn-drc-first-stop-for-trumps-new-africa-czar) (NPR (via NHPR), 2025-04-03)
+3. [Trump envoy says US-Congo mining and security deal moving ahead](https://mining.com/web/trump-envoy-says-us-congo-mining-and-security-deal-moving-ahead) (Mining.com / Reuters, 2025)
+4. [US lawmakers demand 'clarity' on minerals' role in peace talks](https://www.africa-confidential.com/article/id/15508/us-lawmakers-demand-%e2%80%98clarity%27-on-minerals%27-role-in-peace-talks) (Africa Confidential, 2025)
+5. [From Congo to Sudan, time is running out for Trump's Africa dealmaker Massad Boulos](https://www.theafricareport.com/398241/from-congo-to-sudan-time-is-running-out-for-trumps-africa-dealmaker-massad-boulos/) (The Africa Report, 2025)
+6. [The Hidden War Behind the Rwanda-Congo Peace Deal](https://kivutoday.com/the-hidden-war-behind-the-rwanda-congo-peace-deal-who-really-wanted-congos-minerals/) (KIVU Today (relaying Tablet), 2025)
+7. [Family Business (Armin Rosen)](https://www.tabletmag.com/sections/news/articles/family-business-armin-rosen) (Tablet, 2025)
+8. [New York Times questions whether Trump's Mideast adviser Boulos is truly a billionaire](https://www.naharnet.com/stories/en/309825-new-york-times-questions-whether-trump-s-mideast-adviser-boulos-is-truly-a-billionaire) (Naharnet, 2024-12-13)
+9. [NYT reports Trump administration pick and Tiffany Trump father-in-law is not as rich as he claims](https://www.mediaite.com/politics/trump/nyt-reports-trump-administration-pick-and-tiffany-trump-father-in-law-is-not-as-rich-as-he-claims/) (Mediaite, 2024-12-12)
+10. [Massad Boulos probably isn't a lawyer or a billionaire](https://www.businessinsider.nl/massad-boulos-hailed-as-a-billionaire-lawyer-advising-trump-on-middle-east-policy-probably-isnt-a-lawyer-or-a-billionaire/) (Business Insider, 2024-12)
+11. [Trump Organisation defends Boulos on Nigerian net worth](https://www.thisdaylive.com/2024/12/15/trump-organisation-defends-boulos-on-nigerian-networth/) (ThisDay, 2024-12-15)
+12. [Africa Intelligence: Tinubu has picked Gilbert Chagoury for $700m Lagos ports renovation project](https://www.thisdaylive.com/2025/03/18/africa-intelligence-tinubu-has-picked-gilbert-chagoury-for-700m-lagos-ports-renovation-project/) (ThisDay, 2025-03-18)
+13. [Tinubu's Lebanese ally Chagoury awarded $700m Lagos ports contract](https://saharareporters.com/2025/03/18/tinubus-lebanese-ally-chagoury-awarded-700million-lagos-ports-contract-despite-lacking) (Sahara Reporters, 2025-03-18)
+14. [Tinubu discusses stronger Nigeria-U.S. ties with Trump advisor](https://allafrica.com/stories/202504140133.html) (AllAfrica, 2025-04-14)
+15. [Tiffany Trump and Michael Boulos sailed on yacht of Turkish billionaire trading Libyan oil](https://www.middleeasteye.net/news/tiffany-trump-and-michael-boulos-sailed-yacht-turkish-billionaire-trading-libyan-oil-report) (Middle East Eye, 2025-09)
+16. [Trump's daughter vacationed on Turkish billionaire's yacht: report](https://turkishminute.com/2025/09/20/trumps-daughter-vacationed-on-turkish-billionaires-yacht-report/) (Turkish Minute, 2025-09-20)
+17. [Como el Instagram de Tiffany Trump nos condujo al megayate de un magnate petrolero](https://www.infobae.com/america/the-new-york-times/2025/09/18/como-el-instagram-de-tiffany-trump-nos-condujo-al-megayate-de-un-magnate-petrolero/) (The New York Times (via Infobae), 2025-09-18)
+18. [He asked Tiffany Trump to marry him. Then the deals started coming.](https://www.spokesman.com/stories/2025/aug/21/he-asked-tiffany-trump-to-marry-him-then-the-deals/) (The New York Times (via Spokesman-Review), 2025-08-21)
+19. [Tiffany Trump's in-laws took Jared Kushner for millions](https://www.thedailybeast.com/tiffany-trumps-in-laws-took-jared-kushner-for-millions/) (The Daily Beast, 2025-08)
+20. [NYT: suspected fraud... EUR 2.5m overcharge for superyacht Solstice built in Perama](https://origin01-en.protothema.gr/2025/08/22/nyt-suspected-fraud-among-trumps-daughters-in-law-e2-5m-overcharge-for-superyacht-solstice-built-in-perama) (Protothema, 2025-08-22)
+21. [Ranking Member Robert Garcia investigates reports of foreign money flowing to Trump family member](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-investigates-reports-foreign-money-flowing) (House Oversight Democrats, 2025-08-29)
+22. [Letters to Boulos, Allam and Frangi](https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/evo-media-document/2025-08-29-garcia-to-boulos-allam-frangi.pdf) (House Oversight Democrats, 2025-08-29)
+23. [Democrats launch probe into Trump son-in-law over alleged wedding deal](https://thehill.com/homenews/administration/5477588-oversight-committee-investigates-boulos/) (The Hill, 2025-08-29)
+24. [Garcia and Wyden investigate Jared Kushner raising billions from Middle East governments](https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-ron-wyden-investigate-jared-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy) (House Oversight Democrats, 2026-03-19)
+25. [Trump names Charles Kushner, pardoned real estate mogul, as US ambassador to France](https://fortune.com/2024/11/30/trump-charles-kushner-pardon-jared-ivanka-us-ambassador-france/) (Fortune, 2024-11-30)
+26. [Senate confirms Charles Kushner as ambassador to France](https://www.news4jax.com/news/politics/2025/05/20/senate-confirms-charles-kushner-father-of-trumps-son-in-law-as-ambassador-to-france/) (AP (via WJXT), 2025-05-20)
+27. [Charles Kushner](https://en.wikipedia.org/wiki/Charles_Kushner) (Wikipedia, 2026)
+28. [Charles Kushner testimony](https://www.foreign.senate.gov/download/05/01/2025/050125_kushner_testimonypdf) (Senate Foreign Relations Committee, 2025-05-01)
+29. [Kushner must pivot on 666 Fifth Ave. after Qatari financing falls through](https://www.bisnow.com/new-york/news/office/kushner-cos-qatar-financing-new-deal-76497) (Bisnow, 2018)
+30. [Qatar-funded Canadian firm says Kushner Cos. bailout would include no Qatari money](https://theweek.com/speedreads/773861/qatarfunded-canadian-firm-says-kushner-cos-bailout-include-no-qatari-money) (The Week, 2018-05)
+31. [Brookfield in talks to bail Kushner Companies out at 666 Fifth](https://therealdeal.com/2018/05/17/brookfield-in-talks-to-bail-kushner-companies-out-at-666-fifth-report) (The Real Deal, 2018-05-17)
+32. [Laurent Morali and Nicole Kushner Meyer (Power South Florida 2026)](https://commercialobserver.com/power-series/2026-power-south-florida/player/laurent-morali-and-nicole-meyer) (Commercial Observer, 2026-03)
+33. [Thrive Capital to lead purchase of OpenAI tender offer](https://www.maginative.com/article/thrive-capital-to-lead-purchase-of-openai-tender-offer-at-80-billion-valuation/) (Maginative, 2024)
+34. [Thrive Capital secures exclusive clause in OpenAI's funding](https://btw.media/en/thrive-capital-secures-exclusive-clause-in-openais-funding) (btw.media, 2024-10)
+35. [OpenAI's investment into Thrive Holdings is its latest circular deal](https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/) (TechCrunch, 2025-12-01)
+36. [OpenAI gets stake in Thrive Holdings, adds to circular deals](https://www.bloomberg.com/news/articles/2025-12-01/openai-takes-stake-in-thrive-holdings-adding-to-circular-deals) (Bloomberg, 2025-12-01)
+37. [OpenAI money-go-round sees it invest in company that invested in OpenAI](https://www.theregister.com/2025/12/01/openai_takes_ownership_stake_in/) (The Register, 2025-12-01)
+38. [Josh Kushner's Thrive Capital raises $10 billion](https://www.advisorperspectives.com/articles/2026/02/17/josh-kushners-thrive-capital-raises-10-billion) (Advisor Perspectives / Bloomberg, 2026-02-17)
+39. [Trump, Peter Thiel, Ramp and the GSA SmartPay program](https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system) (ProPublica, 2025)
+40. [Trump team eyes politically connected startup to overhaul $700 billion government payments program](https://gizmodo.com/trump-team-eyes-politically-connected-startup-to-overhaul-700-billion-government-payments-program-2000591587) (Gizmodo, 2025)
+41. [Ramp angles for $700B SmartPay](https://bankingdive.com/news/ramp-angles-700b-smartpay-trump/745959) (Banking Dive, 2025)
+42. [Josh Gruenbaum](https://en.wikipedia.org/wiki/Josh_Gruenbaum) (Wikipedia, 2026)
+43. [Thrive Capital / Trump adviser contract concerns](https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/) (Crypto Briefing (relaying WSJ), 2026)
+44. [Trump adviser's Thrive Capital investment draws scrutiny](https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract) (Edgen (relaying WSJ), 2026)
+45. [Prediction markets are a bad bet](https://www.newcomer.co/i/211092441/prediction-markets-are-a-bad-bet) (Newcomer, 2026)
+46. [Fox News hires Lara Trump to host weekend show](https://www.nbcwashington.com/news/national-international/lara-trump-fox-news-show/3836957/) (NBC Washington, 2025-02-05)
+47. [Fox News hires president's daughter-in-law Lara Trump for weekend show](https://www.clickondetroit.com/news/politics/2025/02/05/fox-news-hires-presidents-daughter-lara-trump-for-weekend-show-on-network/) (AP (via WDIV), 2025-02-05)
+48. [Aspiring musician, potential senator... and now clothes brand owner](https://www.aol.com/news/pop-star-potential-senator-now-222742848.html) (AOL / The Independent, 2024)
+49. [Trump financial disclosures reveal Barron Trump's potential $40 million windfall](https://www.benzinga.com/markets/25/06/46017024/trump-financial-disclosures-reveal-barron-trumps-potential-40-million-windfall-from-crypto-project) (Benzinga, 2025-06)
+50. [Trump's youngest son Barron reportedly earns $40M from family crypto venture](https://e.vnexpress.net/news/tech/personalities/trump-s-youngest-son-barron-reportedly-earns-40m-from-family-crypto-venture-4908245.html) (VnExpress, 2025-06)
+51. [Barron Trump's tea startup lists donor's Palm Beach mansion as HQ](https://www.mediaite.com/media/news/barron-trumps-tea-startup-lists-donors-palm-beach-mansion-as-hq-report/) (Mediaite, 2026-02)
+52. [Barron Trump's new venture linked to father's donor Jay Weitzman](https://www.thedailybeast.com/barron-trumps-new-get-rich-quick-scheme-linked-to-fathers-donor-jay-weitzman) (The Daily Beast, 2026-02)
+53. [Barron Trump's business tied to father's major donor](https://www.ibtimes.co.uk/barron-trump-yerba-mate-ethical-concerns-1782153) (IBTimes UK, 2026-02)
+54. [Barron Trump linked to beverage company based near Mar-a-Lago](https://www.foxbusiness.com/politics/barron-trump-linked-beverage-company-based-near-mar-a-lago) (Fox Business, 2026)
+55. [Review: How does Sollos Yerba Mate stack up?](https://www.bevnet.com/news/2026/review-how-does-sollos-yerba-mate-stack-up) (BevNET, 2026)
+56. [Barron Trump business partner clarifies future of luxury real estate venture](https://www-ak-ms.foxbusiness.com/politics/barron-trump-business-partner-clarifies-future-luxury-real-estate-venture-will-not-relaunched) (Fox Business, 2025-01)
+57. [Ivanka Trump discusses produce business](https://kvia.com/politics/cnn-us-politics/2025/05/08/ivanka-trump-discusses-produce-business-in-her-first-major-public-event-of-fathers-second-term/) (CNN (via KVIA), 2025-05-08)
+58. [Why Jared Kushner and Ivanka Trump's Albanian resort plans are under fire](https://www.forbes.com/sites/alisondurkee/2026/06/03/why-jared-kushner-and-ivanka-trumps-albanian-resort-plans-are-under-fire/) (Forbes, 2026-06-03)
+59. [Kai Trump announces 1st major NIL partnership with Accelerator Active Energy](https://www.foxbusiness.com/sports/kai-trump-announces-1st-major-nil-partnership-accelerator-active-energy-presidential-fashion) (Fox Business, 2025)
+60. [Miami golf commit Kai Trump inks NIL deal with Accelerator Active Energy](https://www.on3.com/nil/news/miami-golf-commit-kai-trump-inks-nil-deal-with-accelerator-active-energy) (On3, 2025)
+61. [TaylorMade signs Kai Trump to endorsement deal](https://www.yardbarker.com/golf/articles/taylormade_signs_kai_trump_to_endorsement_deal/s1_17063_41794860) (Field Level Media (via Yardbarker), 2025-02)
+62. [Leaf Trading Cards announces NIL partnership with Kai Trump](https://www.on3.com/nil/news/leaf-trading-cards-announces-nil-partnership-with-kai-trump-miami-hurricanes-golf/) (On3, 2025)

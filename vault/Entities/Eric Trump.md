@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Eric"
-connections: 61
-claims: 32
+connections: 64
+claims: 34
 tags:
   - "entity"
   - "type/person"
@@ -55,7 +55,9 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Pending
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 
 ## Relationships
 
@@ -66,6 +68,8 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Donald Trump Jr]] *brother* [[Eric Trump]] (family) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *brother of* [[Eric Trump]] (family) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Eric Trump]] *announced as board director (reported as observer)* [[ALT5 Sigma]] (2025-08, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Eric Trump]] *director* [[ALT5 Sigma]] (2025-08, advisory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Eric Trump]] *co-founder* [[American Bitcoin]] (2025-03-31, ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Eric Trump]] *co-founder (Reuters tally venture)* [[American Bitcoin]] (2025, ownership) · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[Eric Trump]] *co-founder and shareholder* [[American Bitcoin]] (2025-03, ownership) · [[C29 Trump family wealth gains|C29]]
 - [[Eric Trump]] *co-founder, chief strategy officer and shareholder of* [[American Bitcoin]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
@@ -82,6 +86,7 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Eric Trump]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] (2025-02-21, $1M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Eric Trump]] *adviser (advisory board)* [[Dominari Holdings Dominari Securities]] (2025-02-10, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Eric Trump]] *adviser and shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Eric Trump]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Eric Trump]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] (2025-02, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Eric Trump]] *major shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Eric Trump]] *shareholder and adviser* [[Dominari Holdings Dominari Securities]] (ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
@@ -105,11 +110,11 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Eric Trump]] *executive running* [[Trump Organization]] (ownership) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Eric Trump]] *executive vice president of* [[Trump Organization]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Eric Trump]] *runs* [[Trump Organization]] (ownership) · [[C01 $TRUMP meme coin|C01]]
-- [[Eric Trump]] *president and trustee of* [[Trump Presidential Library Foundation]] (2025-05, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Eric Trump]] *president and trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-05, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Eric Trump]] *consulted by Kushner on branding* [[Trump Tower Belgrade (General Staff site)]] (commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Eric Trump]] *promoted on X as passing PYUSD / 'GENIUS Act compliant'* [[USD1]] (2026-01-23, media) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Eric Trump]] *backs and promotes* [[World Liberty Financial]] (2024-09, advisory) · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[Eric Trump]] *co-founder* [[World Liberty Financial]] (ownership) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[Eric Trump]] *co-founder* [[World Liberty Financial]] (ownership) · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Eric Trump]] *co-founder figure* [[World Liberty Financial]] (ownership) · [[C42 How World Liberty insiders took money out|C42]]
 - [[Eric Trump]] *co-founder of* [[World Liberty Financial]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Eric Trump]] *co-founder; holds tokens and USD1-related interest* [[World Liberty Financial]] (2024, ownership) · [[C29 Trump family wealth gains|C29]]
@@ -118,6 +123,7 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Eric Trump]] *invested in merger of* [[XTEND]] (2026-02, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Forbes]] *estimated net worth about $400M (10x)* [[Eric Trump]] (2025-12-04, $400M, media) · [[C29 Trump family wealth gains|C29]]
 - [[Forbes]] *estimates 10x richer* [[Eric Trump]] (media) · [[C29 Trump family wealth gains|C29]]
+- [[Lara Trump]] *married to* [[Eric Trump]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Maria Bartiromo]] *interviewed* [[Eric Trump]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Prabowo Subianto]] *asked Trump for a meeting with* [[Eric Trump]] (2025-10-13, political) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Salt Typhoon]] *targeted phone/call data of* [[Eric Trump]] (2024-10, legal) · [[C37 Jared Kushner's hacked phone|C37]]

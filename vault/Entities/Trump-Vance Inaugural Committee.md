@@ -4,8 +4,9 @@ kind: "entity"
 type: "fund"
 aliases:
   - "Trump 2025 inaugural committee"
-connections: 12
-claims: 4
+  - "Trump Vance Inaugural Committee"
+connections: 14
+claims: 5
 tags:
   - "entity"
   - "type/fund"
@@ -16,6 +17,7 @@ tags:
 
 2025 inauguration fund that received crypto-firm donations
 
+- 2025 inaugural committee; ~$245M raised.
 - Received $1M from Crypto.com
 - Received $1M from Amazon.
 - 2025 inauguration fund
@@ -26,6 +28,7 @@ tags:
 - [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 
 ## Relationships
 
@@ -33,6 +36,7 @@ tags:
 - [[Coinbase]] *donated $1M to* [[Trump-Vance Inaugural Committee]] (2025-01, $1M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Crypto.com]] *donated* [[Trump-Vance Inaugural Committee]] (2024-12, $1M, political) · [[C22 Crypto.com and TMTG|C22]]
 - [[Crypto.com]] *donated $1M to* [[Trump-Vance Inaugural Committee]] (2025-01, $1M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Jacob Roth]] *incorporated* [[Trump-Vance Inaugural Committee]] (2024-11, legal) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Jeff Miller]] *finance chair of inaugural festivities* [[Trump-Vance Inaugural Committee]] (2025-01, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Kraken]] *donated $1M to* [[Trump-Vance Inaugural Committee]] (2024-12, $1M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Ripple]] *donated ~$4.9-5M in XRP to* [[Trump-Vance Inaugural Committee]] (2024-12, $4.9M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]

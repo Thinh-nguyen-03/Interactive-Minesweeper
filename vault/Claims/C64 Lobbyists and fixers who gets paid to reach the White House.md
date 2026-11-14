@@ -4,19 +4,19 @@ kind: "claim"
 title: "Lobbyists and fixers: who gets paid to reach the White House"
 verdict: "mostly-accurate"
 confidence: "medium"
-origin: "video"
+origin: "follow-up"
 aliases:
   - "C64"
 tags:
   - "claim"
-  - "origin/video"
+  - "origin/follow-up"
   - "verdict/mostly-accurate"
 ---
 # C64: Lobbyists and fixers: who gets paid to reach the White House
 
 **Verdict:** Mostly accurate (confidence: medium)
 
-## What the video said
+## Lead investigated
 
 > Connection hunt: the lobbying and access layer — Ballard Partners (Brian Ballard; former employer of AG Pam Bondi and chief of staff Susie Wiles; clients incl. Qatar, crypto firms, foreign governments), Mercury, Miller Strategies, Checkmate/Ches McDowell, Continental Strategy (Carlos Trujillo), Roger Stone, Keith Schiller, Corey Lewandowski, Jason Miller/Kash Patel's former foreign clients, Arthur Schwartz. Find which clients in this project hired them, fees, the dates versus outcomes, and officials' prior client relationships with beneficiaries (e.g. Bondi's Qatar work before the jet memo).
 

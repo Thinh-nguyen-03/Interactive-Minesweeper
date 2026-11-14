@@ -6,8 +6,8 @@ aliases:
   - "Michael Selig"
   - "Mike selling"
   - "Mr. Seelig"
-connections: 15
-claims: 7
+connections: 16
+claims: 8
 tags:
   - "entity"
   - "type/person"
@@ -32,6 +32,7 @@ Trump-appointed CFTC chairman; denied favouritism when questioned in Congress ab
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Pending
 
 ## Relationships
@@ -42,6 +43,7 @@ Trump-appointed CFTC chairman; denied favouritism when questioned in Congress ab
 - [[Jim McGovern]] *asked whether White House sought to drop Polymarket probe* [[Mike Selig]] (2026-04-16, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Mike Selig]] *former client* [[Blockchain Association]] (commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Mike Selig]] *Chair (sworn in)* [[Commodity Futures Trading Commission]] (2025-12-22, regulatory) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Mike Selig]] *chair* [[Commodity Futures Trading Commission]] (2025-12-18, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Mike Selig]] *chair of* [[Commodity Futures Trading Commission]] (2025-12-18, regulatory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Mike Selig]] *chairman of* [[Commodity Futures Trading Commission]] (2025-12-18, regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] (regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]

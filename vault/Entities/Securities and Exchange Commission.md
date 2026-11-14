@@ -6,8 +6,8 @@ aliases:
   - "SEC"
   - "U.S. Securities and Exchange Commission"
   - "US Securities and Exchange Commission"
-connections: 78
-claims: 22
+connections: 83
+claims: 24
 tags:
   - "entity"
   - "type/government"
@@ -48,6 +48,8 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -95,6 +97,8 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *dropped lawsuit against* [[Coinbase]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit* [[Consensys]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Securities and Exchange Commission]] *closed investigation, no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Cumberland (DRW)]] (2025-03-27, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Securities and Exchange Commission]] *dismissed enforcement case with prejudice* [[Cumberland (DRW)]] (2025-03-27, regulatory) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit* [[Cumberland (DRW)]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *sued as unregistered dealer* [[Cumberland (DRW)]] (2024-10, legal) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
@@ -111,6 +115,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *jointly sought stay to explore resolution* [[Justin Sun]] (2025-02-26, regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Securities and Exchange Commission]] *paused, then dismissed claims against* [[Justin Sun]] (2026-03-05, legal) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *sued for fraud, market manipulation and unregistered securities* [[Justin Sun]] (2023-03-22, regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Kraken]] (2025-03-27, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Kraken]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed suit with prejudice* [[Kraken]] (2025-03-27, regulatory) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Securities and Exchange Commission]] *dropped lawsuit against* [[Kraken]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
@@ -128,14 +133,18 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *dismissed* [[SEC fraud case against Justin Sun]] (regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *declared S-4 effective for* [[TMTG-TAE merger]] (2026-11-05, regulatory) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Securities and Exchange Commission]] *dismissed civil case after pardon* [[Trevor Milton]] (2025-09, regulatory) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Securities and Exchange Commission]] *dismissed civil case against* [[Trevor Milton]] (2025-09, regulatory) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Securities and Exchange Commission]] *dropped civil fraud case after pardon* [[Trevor Milton]] (2025, regulatory) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Securities and Exchange Commission]] *settled with* [[Tron]] (regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Securities and Exchange Commission]] *staff: meme coins generally not securities; no action* [[$TRUMP meme coin]] (2025-02-27, regulatory) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[Securities and Exchange Commission]] *acknowledged complaint; no probe reported* [[Trump Media & Technology Group]] (2026-07-29, regulatory) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Securities and Exchange Commission]] *asked to probe Truth API (no probe confirmed)* [[Trump Media & Technology Group]] (2026-07, regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Securities and Exchange Commission]] *closed investigation with no action* [[Uniswap Labs]] (2025-02-25, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *fraud case dismissed with prejudice* [[Yorkville Advisors]] (2018-10-29, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Securities and Exchange Commission]] *acknowledged 19b-4 for Truth Social BTC/ETH ETF* [[Yorkville America Digital]] (2025-07, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Securities and Exchange Commission]] *closed investigation* [[Yuga Labs]] (2025-03-03, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Taylor Lindman]] *Crypto Task Force chief counsel (from Chainlink)* [[Securities and Exchange Commission]] (2026-02-23, regulatory) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Teresa Goody Guillén]] *considered for chair by Trump transition* [[Securities and Exchange Commission]] (2024-11, political) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[World Liberty Financial]] *filed Form D cutting sale target to $30M* [[Securities and Exchange Commission]] (2024-10-30, $30M, regulatory) · [[C04 World Liberty Financial founding and token sale|C04]]
 
 ## Themes

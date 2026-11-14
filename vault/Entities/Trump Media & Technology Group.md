@@ -6,7 +6,7 @@ aliases:
   - "TMTG"
   - "Trump Media"
   - "Trump Media & Technology Group (DJT)"
-connections: 47
+connections: 54
 claims: 16
 tags:
   - "entity"
@@ -40,16 +40,23 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
-- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Pending
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Pending
 
 ## Relationships
 
+- [[Anchorage Digital]] *bitcoin co-custodian* [[Trump Media & Technology Group]] (2025-05, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Anchorage Digital]] *custodian for bitcoin treasury* [[Trump Media & Technology Group]] (2025-05-27, commercial) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[BTIG]] *co-placement agent* [[Trump Media & Technology Group]] (2025-05, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Cantor Fitzgerald]] *bought TMTG shares for own book (per Sludge)* [[Trump Media & Technology Group]] (2025-Q2, money) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Cantor Fitzgerald]] *financial adviser on bitcoin-treasury raise* [[Trump Media & Technology Group]] (2025-05, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Clear Street]] *co-lead placement agent on bitcoin raise* [[Trump Media & Technology Group]] (2025-05, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Cohen & Company Capital Markets]] *co-placement agent* [[Trump Media & Technology Group]] (2025-05, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Crypto.com]] *CRO-treasury deal partner of* [[Trump Media & Technology Group]] (2025-08, commercial) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Crypto.com]] *ETF partnership for Truth.Fi (non-binding, then binding 2025-04-22)* [[Trump Media & Technology Group]] (2025-03-24, commercial) · [[C22 Crypto.com and TMTG|C22]]
 - [[Crypto.com]] *agreed to buy $50M of common stock in* [[Trump Media & Technology Group]] (2025-08-26, $50M, money) · [[C22 Crypto.com and TMTG|C22]]
 - [[Crypto.com]] *agreed to buy $50M stock of* [[Trump Media & Technology Group]] ($50M, money) · [[C22 Crypto.com and TMTG|C22]]
+- [[Crypto.com]] *bitcoin co-custodian* [[Trump Media & Technology Group]] (2025-05, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Crypto.com]] *custodian for bitcoin treasury* [[Trump Media & Technology Group]] (2025-05-27, commercial) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Crypto.com]] *prediction-market marketing deal replacing integration* [[Trump Media & Technology Group]] (2026-08-07, commercial) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Cumberland (DRW)]] *denies quid pro quo with* [[Trump Media & Technology Group]] (political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
@@ -64,12 +71,17 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Donald Trump]] *largest shareholder (via revocable trust) of* [[Trump Media & Technology Group]] (ownership) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Donald Trump]] *largest shareholder (via trust) of* [[Trump Media & Technology Group]] (ownership) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Donald Trump]] *largest shareholder of* [[Trump Media & Technology Group]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump]] *majority shareholder* [[Trump Media & Technology Group]] (ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump Jr]] *board director; trustee of father's shares in* [[Trump Media & Technology Group]] (ownership) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Donald Trump Jr]] *board member* [[Trump Media & Technology Group]] (advisory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Donald Trump Jr]] *director of* [[Trump Media & Technology Group]] (advisory) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[DRW Investments]] *bought ~4M shares* [[Trump Media & Technology Group]] (2025-05, $100M, money) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[DRW Investments]] *bought ~4M shares (~$100M) in bitcoin-treasury raise* [[Trump Media & Technology Group]] (2025-05, $100M, money) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Eric Swider]] *resigned from board of* [[Trump Media & Technology Group]] (2026-04-06, advisory) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Jane Street]] *acquired 6.0% via PIPE* [[Trump Media & Technology Group]] (2025-05-29, money) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Jane Street]] *bought ~$375M in bitcoin-treasury raise* [[Trump Media & Technology Group]] (2025-05, $375M, money) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Jump Trading]] *reported Truth API subscriber (anonymous sources)* [[Trump Media & Technology Group]] (2026-10, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Kevin McGurn]] *adviser, then interim CEO* [[Trump Media & Technology Group]] (2024-12, advisory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] (2026-04, advisory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Retail investors Trump supporters]] *funded ~$712M losses of* [[Trump Media & Technology Group]] ($712M, money) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C29 Trump family wealth gains|C29]]
 - [[Robert Lighthizer]] *resigned from board of* [[Trump Media & Technology Group]] (2026-03-06, advisory) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
@@ -104,6 +116,9 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Trump Media & Technology Group]] *sells for ~$100K/month* [[Truth Social market-moving truths API]] ($100K, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Trump Media & Technology Group]] *licenses Truth Social brand to / launched via Truth.Fi* [[Truth Social ETFs]] (2025-12-30, commercial) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Trump Media & Technology Group]] *sells* [[Truth Social ETFs]] (commercial) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+- [[Yorkville Advisors]] *bought ~20M shares under $2.5B SEPA* [[Trump Media & Technology Group]] (2024, $450M, money) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Yorkville Advisors]] *co-lead placement agent (Yorkville Securities)* [[Trump Media & Technology Group]] (2025-05, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Yorkville America Digital]] *sponsor of Truth Social crypto ETF filings* [[Trump Media & Technology Group]] (2025-06, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 
 ## Themes
 

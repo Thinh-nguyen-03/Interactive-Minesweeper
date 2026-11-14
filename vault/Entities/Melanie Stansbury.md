@@ -24,4 +24,4 @@ US Representative who co-led the Sept 2025 inquiry into Sacks
 ## Relationships
 
 - [[Melanie Stansbury]] *co-led ethics investigation into* [[David Sacks]] (2025-09-17, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Melanie Stansbury]] *co-signed inquiry into* [[Trump Presidential Library Foundation]] (2026-07-16, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Melanie Stansbury]] *co-signed inquiry into* [[Donald J. Trump Presidential Library Foundation, Inc]] (2026-07-16, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]

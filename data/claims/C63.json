@@ -1,0 +1,1470 @@
+{
+  "id": "C63",
+  "title": "Shell entities and ownership chains",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The core ownership chains are documented. One Florida revocable trust, with Donald Trump Jr. as sole trustee, sits above TMTG, CIC Digital (digital licences, $TRUMP) and CIC Ventures (merchandise). DT Marks DEFI and DT Marks SC use the Trump Organization's naming template for foreign licensing vehicles. Tahnoon-linked vehicles reportedly hold 49% of both WLF (Aryam Investment 1) and the trust-bank parent WLTC Holdings (StringZ), each time beside a Trump-family stake of about 38%. The most concrete registry-level overlaps are a shared Sheridan, Wyoming formation agent for two CIC Ventures licensees, and CIC Ventures merchandise sites that accept the CIC Digital-licensed coin. Most beneficial owners (StringZ, T1 Mobile, Designers Manager, NFT INT, the Wyoming licensees) remain undisclosed, and registry lookups could not be done from here.",
+  "sub_claims": [
+    {
+      "statement": "CIC Digital LLC and CIC Ventures LLC are sister licensing vehicles, both wholly owned by the Donald J. Trump Revocable Trust, with Trump himself as their officer.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented. Trump's disclosures list him as manager, president, secretary and treasurer of CIC Ventures (2023 disclosure, per Cowboy State Daily). Reporting on the disclosures lists the same roles at CIC Digital. Both are described as wholly owned by the revocable trust. Public Citizen says Trump created CIC Digital in 2022 to receive NFT licence fees. The two have since split the work. CIC Digital licenses digital products: the Trump Digital Trading Cards through NFT INT LLC, and the $TRUMP coin, which brought about $635M in 'Celebration Coins' royalties in the 2025 OGE filing (see C01). It also holds bitcoin valued at 'over $50,000,000'. CIC Ventures licenses physical merchandise: sneakers, fragrances and watches. The 2025 OGE filing gives CIC Digital a Palm Beach, FL location. I could not confirm the state of formation; one non-news dossier says Delaware, and that is unverified.",
+      "sources": [
+        "https://www.citizen.org/article/donald-trump-crypto-investors-4-7-billion-underwater/",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump, Donald J. 2025 Annual 278.pdf",
+        "https://bitcoinmagazine.com/news/president-donald-trump-50-million-bitcoin",
+        "https://cowboystatedaily.com/2024/04/01/company-behind-trumps-flashy-gold-high-top-sneakers-registered-in-wyoming"
+      ]
+    },
+    {
+      "statement": "The Donald J. Trump Revocable Trust is the top of most chains, and its sole trustee is Donald Trump Jr.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (SEC Schedule 13D filings). The trust is the 'Donald J. Trump Revocable Trust dated April 7, 2014', established under Florida law. Trump is its settlor and sole beneficiary. Donald Trump Jr. is sole trustee, with 'sole voting and investment power' over the roughly 114.75M DJT shares Trump gifted to it in December 2024, and he also sits on TMTG's board. Through the trust, the same trustee sits above TMTG and its subsidiary Trump Media Group CRO Strategy, CIC Digital and CIC Ventures. What I add, not asserted by any source: the trustee is also an active dealmaker on his own account, including American Ventures/Dominari (C39, C47, C51), 1789 Capital (C26) and drone ventures (C51). So the person with legal control of the President's assets is also a counterparty in deals that touch federal policy. The trust is revocable and family-run, not blind (C03).",
+      "sources": [
+        "https://www.nbcnews.com/business/business-news/trump-transfers-djt-shares-revocable-trust-sec-filings-show-rcna184966",
+        "https://www.thewrap.com/donald-trump-media-and-technology-group-transfers-stake-trust",
+        "https://www.secform4.com/13dg/947033/0001140361-25-046424.html"
+      ]
+    },
+    {
+      "statement": "One Zanker-linked network runs Trump's digital licences end to end: NFT INT LLC (trading cards), Fight Fight Fight LLC ($TRUMP) and Celebration Cards LLC.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented for the licences, single-source for Celebration Cards' ownership. NFT INT LLC is a Delaware company that issues the Trump Digital Trading Cards under a paid licence from CIC Digital. Public Citizen says its underlying ownership is 'shielded behind a Delaware registered agent'. Zanker spokesman Kevin Mercuri confirmed Zanker's participation in the NFT deal and called it his first deal with Trump since 2015. Fight Fight Fight LLC, run by Zanker, and CIC Digital together hold 80% of $TRUMP supply. The Warren/Schiff/Blumenthal letter of 8 Apr 2026 describes Celebration Cards LLC as the owner of Fight Fight Fight. Schiff's office says CIC Digital and Celebration Cards receive trading revenue from 'Trump Meme Cards'. Only the Senate letter states that Celebration Cards owns Fight Fight Fight, and Fight Fight Fight has not answered. Our own observation, which no source makes: the OGE filing labels CIC Digital's coin royalties 'Celebration Coins', the same brand word as Zanker's Celebration Cards. That suggests the same counterparty, but it is inferred.",
+      "sources": [
+        "https://www.citizen.org/article/donald-trump-crypto-investors-4-7-billion-underwater/",
+        "https://www.theblock.co/post/267294/trump-hawks-new-nfts-for-a-chance-to-win-a-piece-of-his-mugshot-suit",
+        "https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf",
+        "https://www.schiff.senate.gov/?p=12266",
+        "https://www.hsgac.senate.gov/wp-content/uploads/2025-05-06-Letter-from-Sen.-Richard-Blumenthal-to-Fight-Fight-Fight.pdf"
+      ]
+    },
+    {
+      "statement": "Two CIC Ventures licensees, the sneaker company and the watch company, were set up by the same Sheridan, Wyoming formation agent.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented for the shared agent; inferred for any common ownership. Cowboy State Daily (Wyoming Secretary of State records) reports the following. 45Footwear LLC, which licenses 'Trump Sneakers' from CIC Ventures, was filed in Wyoming on 31 Jan 2024, less than three weeks before the 17 Feb 2024 Sneaker Con launch. Its registered agent is Andrew Pierce, a Sheridan paralegal with Wyoming Trust and LLC / Cloud Peak Law Group, at that firm's address. TheBestWatchesOnEarth LLC, which sells Trump-licensed watches, is registered at 1309 Coffeen Ave., Sheridan, with Pierce as organizer. Cowboy State Daily says it is 'unknown if the two efforts are connected'. CNN traced the 'Swiss-made' watches to a Sheridan shopping center tied to other Trump-themed sellers. Both companies' sites say they are not owned or controlled by Trump or CIC Ventures. A shared formation agent is common in Wyoming and does not prove shared owners; the licensees' beneficial owners are not public.",
+      "sources": [
+        "https://cowboystatedaily.com/2024/04/01/company-behind-trumps-flashy-gold-high-top-sneakers-registered-in-wyoming",
+        "https://cowboystatedaily.com/2024/10/01/trumps-new-line-of-100k-watches-registered-to-wyoming-company/",
+        "https://amp.cnn.com/cnn/2024/10/17/politics/trump-watches-wyoming-invs"
+      ]
+    },
+    {
+      "statement": "The two CIC silos feed each other: CIC Ventures-licensed merchandise sites began accepting the CIC Digital-licensed $TRUMP coin as payment.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented for the payment integration; inferred for the 'loop'. Around 29-30 Jan 2025, roughly 12 days after $TRUMP launched, GetTrumpSneakers.com, GetTrumpFragrances.com and (per Bloomberg, via Cointelegraph) GetTrumpWatches.com began accepting $TRUMP via Solana Pay. The Block says they also accepted $MELANIA, and says all three sites 'appear to operate under license from CIC Ventures, which is linked to the firm that launched the memecoins'. The Victory 45-47 and 'Fight, Fight, Fight' fragrances are sold through the same licensing group. Our observation, which no source frames this way: one trust-owned licensor's merchandise channel created spending demand for a token whose royalties flow to another trust-owned licensor. No data on payment volumes was found.",
+      "sources": [
+        "https://www.theblock.co/post/337940/trump-melania-memecoin-payments",
+        "https://cointelegraph.com/news/trump-crypto-footprint-memecoin-merch-purchases",
+        "https://hotfix.coindesk.com/markets/2025/01/30/trump-memecoins-can-now-be-used-to-buy-donald-trump-merchandise",
+        "https://theintercept.com/2025/07/01/trump-fragrance-crypto/"
+      ]
+    },
+    {
+      "statement": "MKT World LLC, Melania Trump's vehicle and the $MELANIA issuer, predates the coin and uses Mar-a-Lago as its address.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented for the issuer role and income; single-source for the Delaware formation and Mar-a-Lago address. Protos, citing Florida Secretary of State filings, says Melania is president of MKT World, that it was incorporated in Delaware and registered in Florida as a foreign LLC, and that it uses Mar-a-Lago as its mailing address. DL News describes it as Florida-registered, and CoinDesk's token-terms summary says Delaware. Several outlets say it has existed since about 2021. Disclosures route NFT sales, speaking fees, Skyhorse book income and $MELANIA to it (2023 income $1-5M per DL News). The 2025 filing's separate $6.01M 'Designers Manager' NFT licence (C02) has no identified counterparty: I found nothing on who owns Designers Manager.",
+      "sources": [
+        "https://protos.com/trump-coin-may-doing-poorly-but-melania-coin-is-an-atrocity/",
+        "https://dlnews.com/articles/people-culture/inside-the-trump-family-crypto-empire/",
+        "https://www.theblock.co/amp/post/335637/donald-trump-memecoin-crashes-48-as-melania-trump-launches-her-own-memecoin",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump, Donald J. 2025 Annual 278.pdf"
+      ]
+    },
+    {
+      "statement": "DT Marks DEFI uses the Trump Organization's naming template for foreign brand-licensing LLCs, and a second 'DT Marks' entity (DT Marks SC) appears in the trust-bank approval.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented for the entity names; inferred for the structural parallel. The Trump Organization collects foreign licence fees through 'DT Marks <place>' LLCs. Examples are DT Marks KSA LLC (about $15.9M in Saudi fees), DT Marks Oman LLC (the Nov 2022 Dar Oman agreement in Dar Global's prospectus), DT Marks Doha LLC / Member Corp, DT Marks Abu Dhabi LLC and DT Marks Al Raha Beach LLC (CREW calls these new Delaware entities tied to unannounced Abu Dhabi projects), and DT Marks Worli (ProPublica). DT Marks DEFI LLC, which holds 22.5B WLFI and 75% of WLF net protocol revenue (C42), follows the same template. The OCC's CD #1385 lists a separate 'DT Marks SC LLC' among passive investors in WLTC Holdings (C12). Our inference, which no outlet states: the family's WLF position is built like a brand licence rather than an operating stake, and the Trump Organization opened Abu Dhabi licensing entities in the same period that Abu Dhabi vehicles bought 49% of WLF and WLTC. What 'SC' stands for, and how DT Marks SC relates to DT Marks DEFI, is unverified.",
+      "sources": [
+        "https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/",
+        "https://wendysiegelman.substack.com/p/the-500-million-trump-international",
+        "https://projects.propublica.org/trump-town/organizations/dt-marks-worli-member-corp-pass-thru-company-for-dt-marks-worli-llc-license-deal",
+        "https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/",
+        "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf"
+      ]
+    },
+    {
+      "statement": "The same 49% / ~38% split between a Tahnoon-linked vehicle and a Trump-family entity recurs at both WLF (Aryam Investment 1) and the trust bank holding company WLTC Holdings (StringZ Holding RSC (DE) LLC).",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: single-source (WSJ, anonymous sources) for each stake; the recurrence of the pattern is our own observation. WSJ (reported 1 Feb 2026): Aryam Investment 1 agreed on 16 Jan 2025 to buy 49% of WLF for $500M, and G42 executives helped manage it. WSJ (27 Aug 2026): a Tahnoon-linked group is behind StringZ Holding RSC (DE) LLC, which owns 49% of WLTC Holdings, while a Trump-family affiliate owns about 38%. The OCC's CD #1385 (14 Aug 2026) names StringZ as a passive investor but gives no owner or percentage. The upper-tier org chart and WLTC cap table were kept confidential (Sen. Reed letter). 'RSC' is a company category in the Abu Dhabi Global Market (ADGM) registry, so StringZ is probably an ADGM restricted-scope company with a Delaware ('DE') counterpart; that is inferred from the name, and I found no ADGM register entry. StringZ's relationship to Aryam is unknown. No outlet reports them as the same vehicle.",
+      "sources": [
+        "https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html",
+        "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
+        "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj",
+        "https://crypto.news/sheikh-tahnoon-reportedly-controls-49-stake-in-world-liberty-bank-holding-firm/",
+        "https://www.reed.senate.gov/imo/media/doc/22426lettertooccreworldlibertyfinancial1.pdf",
+        "https://www.adgm.com/registration-authority/registration-and-incorporation"
+      ]
+    },
+    {
+      "statement": "At least one Emirati entity in the Aryam/WLF deal is domiciled in Delaware, and that was referred to the US Attorney there.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented that the letter exists; the underlying Delaware domicile rests on 'news reports' the letter cites. On 4 Feb 2026 Rep. Ro Khanna, ranking member of the House Select Committee on the CCP, wrote to Benjamin Wallace, US Attorney for the District of Delaware, saying one of the Emirati companies involved in the deal is domiciled in his state. He also noted WLF's own Delaware incorporation and raised the foreign emoluments clause. A parallel letter went to Zach Witkoff. No response or opened matter was found. A non-news dossier site claims Aryam Investment 1 exists as twin Delaware and Abu Dhabi companies incorporated on consecutive days in December 2024, about a week after a Steve Witkoff UAE trip. No outlet or registry record confirms this, so it stays unverified and is not relied on.",
+      "sources": [
+        "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/ranking-member-ro-khanna-presses-world-liberty-financial-information-trump",
+        "https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/2-4-26-scc-letter-to-wallace.pdf",
+        "https://www.theblock.co/post/388607/house-launches-probe-world-liberty-financial"
+      ]
+    },
+    {
+      "statement": "WLTC Holdings LLC is a Delaware vehicle sharing indirect common owners with WLF, chaired by Zach Witkoff.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (OCC decision; Senate letter). World Liberty Trust Company, N.A. (Bay Harbor Islands, FL) would be wholly owned by WLTC Holdings LLC, a Delaware LLC. The OCC states that WLF LLC and the bank share indirect common owners. Zach Witkoff, son of envoy Steve Witkoff, is president and chairman. The application was dated 5 Jan 2026 and announced 7 Jan; conditional approval came 14 Aug 2026; the WSJ reported StringZ's 49% on 27 Aug 2026, after approval. The Witkoff family's WLF interest sits in WC Digital Fi LLC, which paid Steve Witkoff about $107M of 2025 income (C42). Herro's and Folkman's 25% revenue share sits in Axiom Management Group (C42). I found no formation dates or registered agents for Axiom, WC Digital Fi or WLF Holdco.",
+      "sources": [
+        "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf",
+        "https://www.reed.senate.gov/imo/media/doc/22426lettertooccreworldlibertyfinancial1.pdf",
+        "https://theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
+        "https://www.nbcnews.com/tech/crypto/trump-family-gets-75-crypto-coin-revenue-no-liability-new-document-rev-rcna176088"
+      ]
+    },
+    {
+      "statement": "Trump Mobile is a licence chain: DTTM Operations (Trump trademarks) licenses T1 Mobile LLC, which runs on Liberty Mobile Wireless, a small Florida MVNO, and ultimate ownership is undisclosed.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented for the chain; single-source for the Trump Towers address. Trump Mobile is operated by T1 Mobile LLC, a Florida-registered company doing business as 'Trump SM Mobile', under a trademark licence managed by DTTM Operations, the entity that holds Trump's marks and filed the 'T1' telecom applications. Network operations run through Liberty Mobile Wireless. Florida records show Liberty Mobile was registered in 2018 by Miami-area entrepreneur Matthew Lopatin, whom the FT links to several dissolved ventures. Pat O'Brien, described as Trump Mobile's CEO, co-owns VMed Mobile with Don Hendrickson and Eric Thomas, and his Ensurety Ventures controls Drive America and Omega Mobile Care, which Trump Mobile cross-sells. One report places Liberty Mobile at 16001 Collins Ave., Sunny Isles Beach, the Trump Towers building. That would put the operator inside a Trump-licensed property; it is single-source. Sen. Warner's letter of 18 May 2026 sought ownership details. T1 Mobile's beneficial owners remain undisclosed.",
+      "sources": [
+        "https://rcrwireless.com/20250616/business/trump-mobile-phone",
+        "https://www.androidauthority.com/trump-phone-origin-canelo-liberty-mobile-3640986",
+        "https://www.mobileworldlive.com/spanish/trump-mobile-vinculada-a-una-pequena-firma-de-florida/",
+        "https://www.warner.senate.gov/wp-content/uploads/2026/05/260518.Trump_Mobile_letter.FINAL_.SIGN_-2.pdf",
+        "https://www.myjoyonline.com/trump-mobile-wants-to-sell-you-telehealth-car-care-and-insurance/"
+      ]
+    },
+    {
+      "statement": "Trump Media Group CRO Strategy was a special-purpose treasury vehicle under the trust-controlled TMTG, built with Yorkville, and was dissolved before listing.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (company announcements; see C22/C41). The vehicle was announced on 26 Aug 2025 as a roughly $6.42B CRO treasury to list via Yorkville Acquisition Corp (MCGA). The package was $1B in CRO, $200M cash, $220M in warrants and a $5B equity line from a Yorkville affiliate. On 7 Aug 2026 TMTG, Crypto.com and Yorkville mutually terminated the business combination. Yorkville also sits on TMTG's Truth Social ETF side (C24/C41), so the same financier appears in two TMTG vehicles. The chain runs from the revocable trust (trustee Don Jr.) to TMTG to CRO Strategy. I found no registered agent or formation filing for the vehicle itself.",
+      "sources": [
+        "https://decrypt.co/336876/trump-media-crypto-com-reveal-6-4-billion-cronos-treasury-plan",
+        "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals",
+        "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market"
+      ]
+    },
+    {
+      "statement": "American Ventures is a Dominari-controlled family of SPVs through which the Trump sons hold microcap stakes.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented for control (SEC filing); single-source for the sons' SPV holdings (FT, anonymous). A May 2026 SEC filing shows American Ventures Management LLC is 90% owned by Dominari Holdings, in which the sons own about 12%. Per the FT, the sons invested in most American Ventures vehicles. One SPV run by a Dominari subsidiary bought into Skyline Builders in Aug 2025, before Skyline's 31 Oct 2025 purchase of 20% of Kaz Resources (Kazakh tungsten; C47). The brothers' Powerus/Aureus stake is also held indirectly through American Ventures (C51). SEC filings do not name the brothers in the Skyline SPV. Both sons say they are passive investors.",
+      "sources": [
+        "https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps",
+        "https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/",
+        "https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/"
+      ]
+    },
+    {
+      "statement": "Several family-linked vehicles were activated in the four weeks around the 20 Jan 2025 inauguration.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: each date is documented; the clustering is our own observation (inferred), and no source links these events. 30 Dec 2024: Albania grants strategic-investor status to Atlantic Incubation Partners LLC (Kushner/Affinity-affiliated, EUR 1.4B Sazan; C45). Jan 2025: WLF Holdco LLC is formed with DT Marks DEFI at about 60%. 16 Jan 2025: Eric Trump signs the Aryam 49% deal. 17/18 Jan: $TRUMP launches via CIC Digital and Fight Fight Fight. 19 Jan: $MELANIA launches via MKT World. Late Jan: CIC Ventures licensee sites accept $TRUMP. Earlier vehicles pre-date the campaign deals: the revocable trust (2014), MKT World (about 2021), CIC Digital (2022) and 45Footwear (31 Jan 2024). For Dynasty Trust A (the Lutnick children's trust that Tether reportedly lent to, Bloomberg 18 Mar 2026; C35/C50), I found no overlap with any Trump-family entity, agent or address.",
+      "sources": [
+        "https://www.aol.com/news/albania-approves-luxury-resort-project-132236248.html",
+        "https://www.theblock.co/amp/post/348917/trump-family-now-controls-at-least-60-stake-over-world-liberty-financial-through-new-holding-company-reuters",
+        "https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html",
+        "https://www.bloomberg.com/news/features/2026-03-18/tether-made-loan-to-lutnick-s-children-as-they-bought-his-assets"
+      ]
+    }
+  ],
+  "corrections": [
+    "The brief lists 'StringZ Holding RSC' as offshore. 'RSC' points to an Abu Dhabi Global Market restricted-scope company, and the '(DE)' suffix to a Delaware LLC. Neither is confirmed by a registry record, and its link to Aryam Investment 1 is unknown.",
+    "CIC Ventures is not a 2024 vehicle. Trump listed it on his 2023 disclosure; the 2024 formation was the licensee 45Footwear LLC (31 Jan 2024).",
+    "MKT World LLC is variously described as Florida-registered (DL News) and Delaware-incorporated and registered in Florida as a foreign LLC (Protos). Both can be true; the state of formation is unverified.",
+    "The claim that Aryam Investment 1 was formed as twin Delaware and Abu Dhabi companies in Dec 2024 appears only on a non-news dossier site and is unverified."
+  ],
+  "denials_and_context": [
+    "NFT INT LLC, 45Footwear LLC and TheBestWatchesOnEarth LLC all state they are not owned, managed or controlled by Trump, the Trump Organization or the CIC entities. They pay licence fees.",
+    "WLF and the White House told the WSJ that Trump was not involved in the Aryam deal. The OCC says career staff reviewed the WLTC charter and that StringZ signed passivity commitments.",
+    "Eric Trump and Donald Trump Jr. call themselves passive investors in American Ventures.",
+    "Affinity says it is neither investor nor developer in Albania. Kushner calls himself a minority partner.",
+    "A shared registered agent or formation firm is routine and is not evidence of common ownership or wrongdoing.",
+    "Fight Fight Fight has not publicly answered the Senate letters. Trump Mobile, the Trump Organization and Liberty Mobile did not answer questions about the Oct 2026 breach reports.",
+    "Method limits: state and ADGM registries, OCC and House PDFs, Protos and DL News could not be fetched from this environment, and the web-search budget ran out mid-research. Formation dates and agents for Axiom, WC Digital Fi, WLF Holdco, CRO Strategy, Designers Manager and Celebration Cards were not found."
+  ],
+  "sources": [
+    {
+      "title": "Trump, Donald J. 2025 Annual OGE 278e",
+      "publisher": "US Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump, Donald J. 2025 Annual 278.pdf",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Donald Trump crypto investors $4.7 billion underwater",
+      "publisher": "Public Citizen",
+      "url": "https://www.citizen.org/article/donald-trump-crypto-investors-4-7-billion-underwater/",
+      "date": ""
+    },
+    {
+      "title": "President Donald Trump discloses $50 million in bitcoin",
+      "publisher": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/news/president-donald-trump-50-million-bitcoin",
+      "date": "2026-06"
+    },
+    {
+      "title": "Trump transfers all his DJT shares to his revocable trust, SEC filings show",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/business/business-news/trump-transfers-djt-shares-revocable-trust-sec-filings-show-rcna184966",
+      "date": "2024-12-20"
+    },
+    {
+      "title": "Donald Trump transfers $4 billion stake in TMTG to revocable trust",
+      "publisher": "TheWrap",
+      "url": "https://www.thewrap.com/donald-trump-media-and-technology-group-transfers-stake-trust",
+      "date": "2024-12-20"
+    },
+    {
+      "title": "Schedule 13D/A, Trump Media & Technology Group",
+      "publisher": "SEC via secform4",
+      "url": "https://www.secform4.com/13dg/947033/0001140361-25-046424.html",
+      "date": "2025"
+    },
+    {
+      "title": "Trump hawks new NFTs for a chance to win a piece of his mugshot suit",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/267294/trump-hawks-new-nfts-for-a-chance-to-win-a-piece-of-his-mugshot-suit",
+      "date": "2023-12"
+    },
+    {
+      "title": "Warren, Schiff, Blumenthal letter to Fight Fight Fight LLC re Trump memecoin conference",
+      "publisher": "US Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "Schiff office release on Fight Fight Fight letter",
+      "publisher": "Office of Sen. Adam Schiff",
+      "url": "https://www.schiff.senate.gov/?p=12266",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Letter from Sen. Blumenthal to Fight Fight Fight",
+      "publisher": "Senate HSGAC / PSI minority",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/2025-05-06-Letter-from-Sen.-Richard-Blumenthal-to-Fight-Fight-Fight.pdf",
+      "date": "2025-05-06"
+    },
+    {
+      "title": "Company behind Trump's flashy gold high-top sneakers registered in Wyoming",
+      "publisher": "Cowboy State Daily",
+      "url": "https://cowboystatedaily.com/2024/04/01/company-behind-trumps-flashy-gold-high-top-sneakers-registered-in-wyoming",
+      "date": "2024-04-01"
+    },
+    {
+      "title": "Trump's new line of $100K watches registered to Wyoming company",
+      "publisher": "Cowboy State Daily",
+      "url": "https://cowboystatedaily.com/2024/10/01/trumps-new-line-of-100k-watches-registered-to-wyoming-company/",
+      "date": "2024-10-01"
+    },
+    {
+      "title": "CNN tried to find the makers of Trump's new 'Swiss made' watches",
+      "publisher": "CNN",
+      "url": "https://amp.cnn.com/cnn/2024/10/17/politics/trump-watches-wyoming-invs",
+      "date": "2024-10-17"
+    },
+    {
+      "title": "Trump and Melania memecoins make push for real-world payments in fragrances, sneakers and travel",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/337940/trump-melania-memecoin-payments",
+      "date": "2025-01-30"
+    },
+    {
+      "title": "Trump expands crypto footprint as memecoin used for merch purchases",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-crypto-footprint-memecoin-merch-purchases",
+      "date": "2025-01-30"
+    },
+    {
+      "title": "Trump memecoins can now be used to buy Donald Trump merchandise",
+      "publisher": "CoinDesk",
+      "url": "https://hotfix.coindesk.com/markets/2025/01/30/trump-memecoins-can-now-be-used-to-buy-donald-trump-merchandise",
+      "date": "2025-01-30"
+    },
+    {
+      "title": "Trump fragrance crypto",
+      "publisher": "The Intercept",
+      "url": "https://theintercept.com/2025/07/01/trump-fragrance-crypto/",
+      "date": "2025-07-01"
+    },
+    {
+      "title": "TRUMP memecoin may be doing poorly, but MELANIA is an atrocity",
+      "publisher": "Protos",
+      "url": "https://protos.com/trump-coin-may-doing-poorly-but-melania-coin-is-an-atrocity/",
+      "date": ""
+    },
+    {
+      "title": "Inside the Trump family crypto empire",
+      "publisher": "DL News",
+      "url": "https://dlnews.com/articles/people-culture/inside-the-trump-family-crypto-empire/",
+      "date": "2025"
+    },
+    {
+      "title": "Trump foreign property income is set to explode in his second term",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/",
+      "date": ""
+    },
+    {
+      "title": "The $500 million Trump International Oman",
+      "publisher": "Wendy Siegelman (Substack)",
+      "url": "https://wendysiegelman.substack.com/p/the-500-million-trump-international",
+      "date": ""
+    },
+    {
+      "title": "DT Marks Worli Member Corp",
+      "publisher": "ProPublica Trump Town",
+      "url": "https://projects.propublica.org/trump-town/organizations/dt-marks-worli-member-corp-pass-thru-company-for-dt-marks-worli-llc-license-deal",
+      "date": ""
+    },
+    {
+      "title": "Gulf developers bring windfall to Trump family",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Conditional Approval #1385, World Liberty Trust Company, N.A.",
+      "publisher": "OCC",
+      "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "'Spy Sheikh' bought secret stake in Trump crypto company: WSJ",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html",
+      "date": "2026-02-01"
+    },
+    {
+      "title": "UAE Sheikh secretly acquired 49% of Trump's World Liberty Financial days before inauguration: WSJ",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
+      "date": "2026-02-01"
+    },
+    {
+      "title": "Abu Dhabi royal backs Trump-linked crypto bank venture",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Sheikh Tahnoon reportedly controls 49% stake in World Liberty bank holding firm",
+      "publisher": "crypto.news",
+      "url": "https://crypto.news/sheikh-tahnoon-reportedly-controls-49-stake-in-world-liberty-bank-holding-firm/",
+      "date": "2026-08"
+    },
+    {
+      "title": "Letter to OCC re World Liberty Financial",
+      "publisher": "Office of Sen. Jack Reed",
+      "url": "https://www.reed.senate.gov/imo/media/doc/22426lettertooccreworldlibertyfinancial1.pdf",
+      "date": "2026-02"
+    },
+    {
+      "title": "Registration and incorporation (company types incl. RSC)",
+      "publisher": "Abu Dhabi Global Market",
+      "url": "https://www.adgm.com/registration-authority/registration-and-incorporation",
+      "date": ""
+    },
+    {
+      "title": "Ranking Member Ro Khanna presses World Liberty Financial for information",
+      "publisher": "House Select Committee on the CCP (Democrats)",
+      "url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/ranking-member-ro-khanna-presses-world-liberty-financial-information-trump",
+      "date": "2026-02-04"
+    },
+    {
+      "title": "Letter to US Attorney Benjamin Wallace",
+      "publisher": "House Select Committee on the CCP (Democrats)",
+      "url": "https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/2-4-26-scc-letter-to-wallace.pdf",
+      "date": "2026-02-04"
+    },
+    {
+      "title": "House launches probe into $500M UAE deal linked to World Liberty Financial",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/388607/house-launches-probe-world-liberty-financial",
+      "date": "2026-02"
+    },
+    {
+      "title": "OCC grants conditional approval for Trump-backed World Liberty national trust bank",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump family gets 75% of crypto coin revenue, no liability",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/tech/crypto/trump-family-gets-75-crypto-coin-revenue-no-liability-new-document-rev-rcna176088",
+      "date": "2024-10"
+    },
+    {
+      "title": "Trump family now controls at least 60% of WLF through new holding company: Reuters",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/348917/trump-family-now-controls-at-least-60-stake-over-world-liberty-financial-through-new-holding-company-reuters",
+      "date": "2025-03"
+    },
+    {
+      "title": "Trump Mobile promises 'America-first' wireless alternative",
+      "publisher": "RCR Wireless",
+      "url": "https://rcrwireless.com/20250616/business/trump-mobile-phone",
+      "date": "2025-06-16"
+    },
+    {
+      "title": "Trump phone origin: Liberty Mobile",
+      "publisher": "Android Authority",
+      "url": "https://www.androidauthority.com/trump-phone-origin-canelo-liberty-mobile-3640986",
+      "date": ""
+    },
+    {
+      "title": "Trump Mobile vinculada a una pequena firma de Florida",
+      "publisher": "Mobile World Live",
+      "url": "https://www.mobileworldlive.com/spanish/trump-mobile-vinculada-a-una-pequena-firma-de-florida/",
+      "date": ""
+    },
+    {
+      "title": "Letter to Trump Mobile",
+      "publisher": "Office of Sen. Mark Warner",
+      "url": "https://www.warner.senate.gov/wp-content/uploads/2026/05/260518.Trump_Mobile_letter.FINAL_.SIGN_-2.pdf",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Trump Mobile wants to sell you telehealth, car care and insurance",
+      "publisher": "Reuters via MyJoyOnline",
+      "url": "https://www.myjoyonline.com/trump-mobile-wants-to-sell-you-telehealth-car-care-and-insurance/",
+      "date": "2026"
+    },
+    {
+      "title": "Trump Media, Crypto.com reveal $6.4 billion Cronos treasury plan",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/336876/trump-media-crypto-com-reveal-6-4-billion-cronos-treasury-plan",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "Trump Media ends crypto treasury deals",
+      "publisher": "Axios",
+      "url": "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump Media abandons crypto treasury, prediction market plan",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump sons invested in private fund making millions on microcaps",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Trump sons invested in US group developing $1.1B tungsten project in Kazakhstan (FT)",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Trump brothers-backed Aureus to merge with drone maker Powerus",
+      "publisher": "BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "Albania approves luxury resort project",
+      "publisher": "Reuters via AOL",
+      "url": "https://www.aol.com/news/albania-approves-luxury-resort-project-132236248.html",
+      "date": "2024-12-30"
+    },
+    {
+      "title": "Tether made loan to Lutnick's children as they bought his assets",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2026-03-18/tether-made-loan-to-lutnick-s-children-as-they-bought-his-assets",
+      "date": "2026-03-18"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; settlor and sole beneficiary of the revocable trust; officer of CIC Digital/CIC Ventures"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Sole trustee of the Donald J. Trump Revocable Trust; TMTG director; American Ventures investor"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Signed the Aryam-WLF deal; American Ventures investor"
+    },
+    {
+      "id": "melania-trump",
+      "name": "Melania Trump",
+      "type": "person",
+      "description": "President of MKT World LLC"
+    },
+    {
+      "id": "donald-j-trump-revocable-trust",
+      "name": "Donald J. Trump Revocable Trust",
+      "type": "fund",
+      "description": "Florida revocable trust dated 2014-04-07; holds CIC entities and TMTG shares"
+    },
+    {
+      "id": "cic-digital",
+      "name": "CIC Digital LLC",
+      "type": "company",
+      "description": "Trust-owned licensor of Trump NFTs and $TRUMP; holds >$50M bitcoin"
+    },
+    {
+      "id": "cic-ventures",
+      "name": "CIC Ventures LLC",
+      "type": "company",
+      "description": "Trust-owned licensor of physical Trump merchandise"
+    },
+    {
+      "id": "nft-int-llc",
+      "name": "NFT INT LLC",
+      "type": "company",
+      "description": "Delaware licensee issuing Trump Digital Trading Cards; Zanker-linked"
+    },
+    {
+      "id": "fight-fight-fight-llc",
+      "name": "Fight Fight Fight LLC",
+      "type": "company",
+      "description": "Zanker-run co-holder of 80% of $TRUMP supply with CIC Digital"
+    },
+    {
+      "id": "celebration-cards-llc",
+      "name": "Celebration Cards LLC",
+      "type": "company",
+      "description": "Owner of Fight Fight Fight per Senate letter; receives Trump Meme Cards revenue"
+    },
+    {
+      "id": "bill-zanker",
+      "name": "Bill Zanker",
+      "type": "person",
+      "description": "Longtime Trump licensing partner behind NFT INT, Fight Fight Fight"
+    },
+    {
+      "id": "trump-coin",
+      "name": "$TRUMP",
+      "type": "asset",
+      "description": "Meme coin licensed via CIC Digital"
+    },
+    {
+      "id": "melania-coin",
+      "name": "$MELANIA",
+      "type": "asset",
+      "description": "Meme coin issued by MKT World LLC"
+    },
+    {
+      "id": "45footwear-llc",
+      "name": "45Footwear LLC",
+      "type": "company",
+      "description": "Wyoming LLC (filed 2024-01-31) licensing Trump Sneakers/fragrances from CIC Ventures"
+    },
+    {
+      "id": "thebestwatchesonearth-llc",
+      "name": "TheBestWatchesOnEarth LLC",
+      "type": "company",
+      "description": "Sheridan, WY seller of Trump-licensed watches"
+    },
+    {
+      "id": "andrew-pierce",
+      "name": "Andrew Pierce",
+      "type": "person",
+      "description": "Sheridan paralegal; registered agent of 45Footwear and organizer of TheBestWatchesOnEarth"
+    },
+    {
+      "id": "cloud-peak-law-group",
+      "name": "Cloud Peak Law Group / Wyoming Trust and LLC",
+      "type": "company",
+      "description": "Sheridan formation agent whose address 45Footwear uses"
+    },
+    {
+      "id": "mkt-world-llc",
+      "name": "MKT World LLC",
+      "type": "company",
+      "description": "Melania Trump's vehicle; $MELANIA issuer; reportedly Delaware-formed, Mar-a-Lago address"
+    },
+    {
+      "id": "designers-manager",
+      "name": "Designers Manager",
+      "type": "company",
+      "description": "Unidentified licensee paying Melania $6.01M for NFTs/collectibles in 2025"
+    },
+    {
+      "id": "dt-marks-defi-llc",
+      "name": "DT Marks DEFI LLC",
+      "type": "company",
+      "description": "Trump-family entity with 75% of WLF net protocol revenue"
+    },
+    {
+      "id": "dt-marks-sc",
+      "name": "DT Marks SC LLC",
+      "type": "company",
+      "description": "Trump-family passive investor in WLTC Holdings (OCC CD #1385)"
+    },
+    {
+      "id": "dt-marks-ksa",
+      "name": "DT Marks KSA LLC",
+      "type": "company",
+      "description": "Trump Organization licensing vehicle for Saudi deals"
+    },
+    {
+      "id": "dt-marks-oman",
+      "name": "DT Marks Oman LLC",
+      "type": "company",
+      "description": "Trump Organization licensing vehicle; Dar Oman counterparty"
+    },
+    {
+      "id": "dt-marks-doha",
+      "name": "DT Marks Doha LLC",
+      "type": "company",
+      "description": "Trump Organization licensing vehicle for Qatar"
+    },
+    {
+      "id": "dt-marks-abu-dhabi",
+      "name": "DT Marks Abu Dhabi LLC / DT Marks Al Raha Beach LLC",
+      "type": "company",
+      "description": "New Delaware Trump Org licensing entities tied to unannounced Abu Dhabi projects (CREW)"
+    },
+    {
+      "id": "dar-global",
+      "name": "Dar Global",
+      "type": "company",
+      "description": "Saudi Dar Al Arkan's international arm; Trump licensing partner"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Family business; DT Marks licensing template"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-linked crypto/stablecoin firm"
+    },
+    {
+      "id": "wlf-holdco",
+      "name": "WLF Holdco LLC",
+      "type": "company",
+      "description": "Holding company of WLF formed Jan 2025"
+    },
+    {
+      "id": "axiom-management-group",
+      "name": "Axiom Management Group",
+      "type": "company",
+      "description": "Herro/Folkman entity with 25% of WLF net revenue"
+    },
+    {
+      "id": "wc-digital-fi",
+      "name": "WC Digital Fi LLC",
+      "type": "company",
+      "description": "Witkoff-family WLF holding entity"
+    },
+    {
+      "id": "wltc-holdings",
+      "name": "WLTC Holdings LLC",
+      "type": "company",
+      "description": "Delaware parent of World Liberty Trust Company, N.A."
+    },
+    {
+      "id": "world-liberty-trust-company",
+      "name": "World Liberty Trust Company, N.A.",
+      "type": "company",
+      "description": "Proposed national trust bank for USD1"
+    },
+    {
+      "id": "stringz-holding",
+      "name": "StringZ Holding RSC (DE) LLC",
+      "type": "company",
+      "description": "Reported Tahnoon-linked 49% owner of WLTC Holdings"
+    },
+    {
+      "id": "aryam-investment-1",
+      "name": "Aryam Investment 1",
+      "type": "fund",
+      "description": "Tahnoon-backed vehicle that bought 49% of WLF"
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Tahnoon bin Zayed Al Nahyan",
+      "type": "person",
+      "description": "UAE national security adviser; reported backer of Aryam and StringZ"
+    },
+    {
+      "id": "g42",
+      "name": "G42",
+      "type": "company",
+      "description": "Abu Dhabi AI firm whose executives manage Aryam"
+    },
+    {
+      "id": "adgm",
+      "name": "Abu Dhabi Global Market",
+      "type": "government",
+      "description": "Abu Dhabi financial free zone whose registry includes the RSC company type"
+    },
+    {
+      "id": "usd1",
+      "name": "USD1",
+      "type": "product",
+      "description": "WLF stablecoin"
+    },
+    {
+      "id": "occ",
+      "name": "Office of the Comptroller of the Currency",
+      "type": "government",
+      "description": "Granted WLTC conditional charter"
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF co-founder; President/Chairman of World Liberty Trust"
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "US special envoy; WC Digital Fi income"
+    },
+    {
+      "id": "chase-herro",
+      "name": "Chase Herro",
+      "type": "person",
+      "description": "WLF co-founder; Axiom owner"
+    },
+    {
+      "id": "zak-folkman",
+      "name": "Zak Folkman",
+      "type": "person",
+      "description": "WLF co-founder; Axiom owner"
+    },
+    {
+      "id": "ro-khanna",
+      "name": "Ro Khanna",
+      "type": "person",
+      "description": "Ranking member, House Select Committee on the CCP"
+    },
+    {
+      "id": "us-attorney-delaware",
+      "name": "US Attorney for the District of Delaware (Benjamin Wallace)",
+      "type": "government",
+      "description": "Recipient of Khanna's Feb 2026 letter"
+    },
+    {
+      "id": "trump-mobile",
+      "name": "Trump Mobile",
+      "type": "company",
+      "description": "Trump-branded MVNO"
+    },
+    {
+      "id": "t1-mobile-llc",
+      "name": "T1 Mobile LLC",
+      "type": "company",
+      "description": "Florida operator of Trump Mobile (d/b/a Trump SM Mobile)"
+    },
+    {
+      "id": "dttm-operations",
+      "name": "DTTM Operations LLC",
+      "type": "company",
+      "description": "Holder/manager of Trump trademarks; licenses Trump Mobile"
+    },
+    {
+      "id": "liberty-mobile-wireless",
+      "name": "Liberty Mobile Wireless",
+      "type": "company",
+      "description": "Florida MVNO running Trump Mobile's network operations"
+    },
+    {
+      "id": "matt-lopatin",
+      "name": "Matthew Lopatin",
+      "type": "person",
+      "description": "Registered Liberty Mobile in Florida in 2018"
+    },
+    {
+      "id": "pat-obrien",
+      "name": "Pat O'Brien",
+      "type": "person",
+      "description": "Trump Mobile CEO; co-owner of VMed Mobile; Ensurety Ventures"
+    },
+    {
+      "id": "t1-phone",
+      "name": "T1 phone",
+      "type": "product",
+      "description": "Trump Mobile handset"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Majority-held by the revocable trust"
+    },
+    {
+      "id": "trump-media-group-cro-strategy",
+      "name": "Trump Media Group CRO Strategy",
+      "type": "company",
+      "description": "TMTG CRO treasury vehicle, terminated Aug 2026"
+    },
+    {
+      "id": "yorkville-acquisition-corp",
+      "name": "Yorkville Acquisition Corp",
+      "type": "company",
+      "description": "SPAC partner for CRO Strategy"
+    },
+    {
+      "id": "crypto-com",
+      "name": "Crypto.com",
+      "type": "company",
+      "description": "Partner in CRO Strategy"
+    },
+    {
+      "id": "american-ventures",
+      "name": "American Ventures (Management LLC and SPVs)",
+      "type": "fund",
+      "description": "Dominari-controlled vehicles holding Trump sons' microcap stakes"
+    },
+    {
+      "id": "dominari-holdings",
+      "name": "Dominari Holdings",
+      "type": "company",
+      "description": "90% owner of American Ventures Management; ~12% owned by Trump sons"
+    },
+    {
+      "id": "skyline-builders",
+      "name": "Skyline Builders Group",
+      "type": "company",
+      "description": "Microcap bought into via a Dominari SPV; acquired 20% of Kaz Resources"
+    },
+    {
+      "id": "atlantic-incubation-partners",
+      "name": "Atlantic Incubation Partners LLC",
+      "type": "company",
+      "description": "Kushner/Affinity-affiliated Albania Sazan resort vehicle"
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Affinity Partners founder"
+    },
+    {
+      "id": "affinity-partners",
+      "name": "Affinity Partners",
+      "type": "fund",
+      "description": "Kushner's fund"
+    },
+    {
+      "id": "lutnick-dynasty-trust-a",
+      "name": "Dynasty Trust A",
+      "type": "fund",
+      "description": "Lutnick children's trust that reportedly received a Tether loan"
+    },
+    {
+      "id": "tether",
+      "name": "Tether",
+      "type": "company",
+      "description": "Reported lender to Dynasty Trust A"
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "Home of Aryam, StringZ (reported), G42"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "donald-trump",
+      "target": "donald-j-trump-revocable-trust",
+      "label": "settlor and sole beneficiary of",
+      "type": "ownership",
+      "date": "2014-04-07"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "donald-j-trump-revocable-trust",
+      "label": "sole trustee with sole voting/investment power over",
+      "type": "legal",
+      "date": "2024-12"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "donald-j-trump-revocable-trust",
+      "target": "trump-media-technology-group",
+      "label": "holds ~114.75M shares of",
+      "type": "ownership",
+      "date": "2024-12"
+    },
+    {
+      "source": "donald-j-trump-revocable-trust",
+      "target": "cic-digital",
+      "label": "wholly owns",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-j-trump-revocable-trust",
+      "target": "cic-ventures",
+      "label": "wholly owns",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump",
+      "target": "cic-digital",
+      "label": "manager, president, secretary, treasurer of",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump",
+      "target": "cic-ventures",
+      "label": "manager, president, secretary, treasurer of",
+      "type": "ownership",
+      "date": "2023"
+    },
+    {
+      "source": "cic-digital",
+      "target": "nft-int-llc",
+      "label": "licenses Trump name/likeness to",
+      "type": "commercial",
+      "date": "2022-12"
+    },
+    {
+      "source": "bill-zanker",
+      "target": "nft-int-llc",
+      "label": "participated in (per spokesman)",
+      "type": "commercial",
+      "date": "2022-12"
+    },
+    {
+      "source": "bill-zanker",
+      "target": "fight-fight-fight-llc",
+      "label": "runs",
+      "type": "ownership",
+      "date": "2025-01"
+    },
+    {
+      "source": "celebration-cards-llc",
+      "target": "fight-fight-fight-llc",
+      "label": "owns (per Senate letter)",
+      "type": "ownership",
+      "date": "2026-04-08"
+    },
+    {
+      "source": "cic-digital",
+      "target": "trump-coin",
+      "label": "co-holds 80% of supply with Fight Fight Fight; royalties",
+      "type": "ownership",
+      "date": "2025-01-17",
+      "amount_usd": 635068835
+    },
+    {
+      "source": "fight-fight-fight-llc",
+      "target": "trump-coin",
+      "label": "co-holds 80% of supply",
+      "type": "ownership",
+      "date": "2025-01-17"
+    },
+    {
+      "source": "cic-digital",
+      "target": "donald-trump",
+      "label": "paid 'Celebration Coins' royalties (2025 OGE)",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 635068835
+    },
+    {
+      "source": "celebration-cards-llc",
+      "target": "cic-digital",
+      "label": "shares Trump Meme Cards trading revenue with",
+      "type": "commercial",
+      "date": "2026"
+    },
+    {
+      "source": "cic-ventures",
+      "target": "45footwear-llc",
+      "label": "licenses Trump name to (sneakers, fragrances)",
+      "type": "commercial",
+      "date": "2024-02"
+    },
+    {
+      "source": "cic-ventures",
+      "target": "thebestwatchesonearth-llc",
+      "label": "licenses Trump name to (watches, per The Block)",
+      "type": "commercial",
+      "date": "2024-09"
+    },
+    {
+      "source": "andrew-pierce",
+      "target": "45footwear-llc",
+      "label": "registered agent of",
+      "type": "legal",
+      "date": "2024-01-31"
+    },
+    {
+      "source": "andrew-pierce",
+      "target": "thebestwatchesonearth-llc",
+      "label": "organizer of",
+      "type": "legal",
+      "date": "2024"
+    },
+    {
+      "source": "andrew-pierce",
+      "target": "cloud-peak-law-group",
+      "label": "paralegal at",
+      "type": "commercial"
+    },
+    {
+      "source": "45footwear-llc",
+      "target": "trump-coin",
+      "label": "accepts as payment",
+      "type": "commercial",
+      "date": "2025-01-30"
+    },
+    {
+      "source": "thebestwatchesonearth-llc",
+      "target": "trump-coin",
+      "label": "accepts as payment (per Bloomberg)",
+      "type": "commercial",
+      "date": "2025-01-30"
+    },
+    {
+      "source": "melania-trump",
+      "target": "mkt-world-llc",
+      "label": "president of",
+      "type": "ownership",
+      "date": "2021"
+    },
+    {
+      "source": "mkt-world-llc",
+      "target": "melania-coin",
+      "label": "issuer of",
+      "type": "ownership",
+      "date": "2025-01-19"
+    },
+    {
+      "source": "designers-manager",
+      "target": "melania-trump",
+      "label": "paid NFT/collectibles licence income",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 6011259
+    },
+    {
+      "source": "melania-trump",
+      "target": "donald-trump",
+      "label": "spouse of",
+      "type": "family"
+    },
+    {
+      "source": "dt-marks-defi-llc",
+      "target": "world-liberty-financial",
+      "label": "entitled to 75% of net protocol revenue; 22.5B WLFI",
+      "type": "money",
+      "date": "2024-10"
+    },
+    {
+      "source": "dt-marks-defi-llc",
+      "target": "wlf-holdco",
+      "label": "holds ~60%, then 40%, then ~38% equity in",
+      "type": "ownership",
+      "date": "2025-01"
+    },
+    {
+      "source": "donald-trump",
+      "target": "dt-marks-defi-llc",
+      "label": "beneficial owner (with family) of",
+      "type": "ownership"
+    },
+    {
+      "source": "dt-marks-sc",
+      "target": "wltc-holdings",
+      "label": "passive investor in (OCC CD #1385); ~38% Trump-family stake reported",
+      "type": "ownership",
+      "date": "2026-08-14"
+    },
+    {
+      "source": "trump-organization",
+      "target": "dt-marks-ksa",
+      "label": "licensing vehicle of",
+      "type": "ownership"
+    },
+    {
+      "source": "trump-organization",
+      "target": "dt-marks-oman",
+      "label": "licensing vehicle of",
+      "type": "ownership",
+      "date": "2022-11"
+    },
+    {
+      "source": "trump-organization",
+      "target": "dt-marks-doha",
+      "label": "licensing vehicle of",
+      "type": "ownership"
+    },
+    {
+      "source": "trump-organization",
+      "target": "dt-marks-abu-dhabi",
+      "label": "licensing vehicle of",
+      "type": "ownership"
+    },
+    {
+      "source": "dar-global",
+      "target": "dt-marks-oman",
+      "label": "licence agreement with",
+      "type": "commercial",
+      "date": "2022-11"
+    },
+    {
+      "source": "dar-global",
+      "target": "dt-marks-ksa",
+      "label": "pays licence fees to (Dar Al Arkan ~$21.9M 2025)",
+      "type": "money",
+      "date": "2025"
+    },
+    {
+      "source": "axiom-management-group",
+      "target": "world-liberty-financial",
+      "label": "entitled to 25% of net protocol revenue",
+      "type": "money",
+      "date": "2024-10"
+    },
+    {
+      "source": "chase-herro",
+      "target": "axiom-management-group",
+      "label": "co-owns",
+      "type": "ownership"
+    },
+    {
+      "source": "zak-folkman",
+      "target": "axiom-management-group",
+      "label": "co-owns",
+      "type": "ownership"
+    },
+    {
+      "source": "wc-digital-fi",
+      "target": "world-liberty-financial",
+      "label": "holds interest in",
+      "type": "ownership"
+    },
+    {
+      "source": "wc-digital-fi",
+      "target": "steve-witkoff",
+      "label": "paid ~$107M 2025 income",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 107000000
+    },
+    {
+      "source": "wlf-holdco",
+      "target": "world-liberty-financial",
+      "label": "owns",
+      "type": "ownership",
+      "date": "2025-01"
+    },
+    {
+      "source": "aryam-investment-1",
+      "target": "world-liberty-financial",
+      "label": "agreed to buy 49% for $500M",
+      "type": "money",
+      "date": "2025-01-16",
+      "amount_usd": 500000000
+    },
+    {
+      "source": "aryam-investment-1",
+      "target": "dt-marks-defi-llc",
+      "label": "~$187M of $250M upfront flowed to Trump-family entities",
+      "type": "money",
+      "date": "2025-01",
+      "amount_usd": 187000000
+    },
+    {
+      "source": "eric-trump",
+      "target": "aryam-investment-1",
+      "label": "signed deal with",
+      "type": "commercial",
+      "date": "2025-01-16"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "aryam-investment-1",
+      "label": "backs",
+      "type": "ownership",
+      "date": "2025-01"
+    },
+    {
+      "source": "g42",
+      "target": "aryam-investment-1",
+      "label": "executives help manage",
+      "type": "advisory"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "stringz-holding",
+      "label": "reportedly behind (WSJ, anonymous sources)",
+      "type": "ownership",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "stringz-holding",
+      "target": "wltc-holdings",
+      "label": "reported 49% owner; OCC-listed passive investor",
+      "type": "ownership",
+      "date": "2026-08-14"
+    },
+    {
+      "source": "stringz-holding",
+      "target": "adgm",
+      "label": "name indicates ADGM 'RSC' company type (inferred)",
+      "type": "legal"
+    },
+    {
+      "source": "wltc-holdings",
+      "target": "world-liberty-trust-company",
+      "label": "wholly owns",
+      "type": "ownership",
+      "date": "2026-01-05"
+    },
+    {
+      "source": "wltc-holdings",
+      "target": "world-liberty-financial",
+      "label": "shares indirect common owners with (OCC)",
+      "type": "ownership",
+      "date": "2026-08-14"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "world-liberty-trust-company",
+      "label": "President and Chairman",
+      "type": "advisory",
+      "date": "2026"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "steve-witkoff",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "occ",
+      "target": "world-liberty-trust-company",
+      "label": "preliminary conditional charter approval",
+      "type": "regulatory",
+      "date": "2026-08-14"
+    },
+    {
+      "source": "world-liberty-trust-company",
+      "target": "usd1",
+      "label": "would issue and custody",
+      "type": "commercial"
+    },
+    {
+      "source": "ro-khanna",
+      "target": "us-attorney-delaware",
+      "label": "flagged Delaware-domiciled Emirati entity in Aryam deal",
+      "type": "political",
+      "date": "2026-02-04"
+    },
+    {
+      "source": "ro-khanna",
+      "target": "zach-witkoff",
+      "label": "sent inquiry letter to",
+      "type": "political",
+      "date": "2026-02-04"
+    },
+    {
+      "source": "dttm-operations",
+      "target": "t1-mobile-llc",
+      "label": "licenses Trump marks to",
+      "type": "commercial",
+      "date": "2025-06"
+    },
+    {
+      "source": "t1-mobile-llc",
+      "target": "trump-mobile",
+      "label": "operates (d/b/a Trump SM Mobile)",
+      "type": "ownership",
+      "date": "2025-06-16"
+    },
+    {
+      "source": "liberty-mobile-wireless",
+      "target": "trump-mobile",
+      "label": "runs MVNO network operations for",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "matt-lopatin",
+      "target": "liberty-mobile-wireless",
+      "label": "registered (2018) and president of",
+      "type": "ownership",
+      "date": "2018"
+    },
+    {
+      "source": "pat-obrien",
+      "target": "trump-mobile",
+      "label": "CEO of",
+      "type": "advisory"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "trump-mobile",
+      "label": "co-announced",
+      "type": "commercial",
+      "date": "2025-06-16"
+    },
+    {
+      "source": "eric-trump",
+      "target": "trump-mobile",
+      "label": "co-announced",
+      "type": "commercial",
+      "date": "2025-06-16"
+    },
+    {
+      "source": "trump-mobile",
+      "target": "t1-phone",
+      "label": "sells",
+      "type": "commercial"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "trump-media-group-cro-strategy",
+      "label": "formed treasury vehicle",
+      "type": "ownership",
+      "date": "2025-08-26"
+    },
+    {
+      "source": "yorkville-acquisition-corp",
+      "target": "trump-media-group-cro-strategy",
+      "label": "planned merger partner; terminated",
+      "type": "commercial",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "crypto-com",
+      "target": "trump-media-group-cro-strategy",
+      "label": "partner/CRO contributor",
+      "type": "commercial",
+      "date": "2025-08-26"
+    },
+    {
+      "source": "dominari-holdings",
+      "target": "american-ventures",
+      "label": "owns 90% of American Ventures Management LLC",
+      "type": "ownership",
+      "date": "2026-05"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "dominari-holdings",
+      "label": "~6% shareholder/adviser",
+      "type": "ownership"
+    },
+    {
+      "source": "eric-trump",
+      "target": "dominari-holdings",
+      "label": "~6% shareholder/adviser",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "american-ventures",
+      "label": "investor in most vehicles (FT)",
+      "type": "money",
+      "date": "2025-08"
+    },
+    {
+      "source": "eric-trump",
+      "target": "american-ventures",
+      "label": "investor in most vehicles (FT)",
+      "type": "money",
+      "date": "2025-08"
+    },
+    {
+      "source": "american-ventures",
+      "target": "skyline-builders",
+      "label": "SPV bought stake (FT, anonymous)",
+      "type": "money",
+      "date": "2025-08"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "atlantic-incubation-partners",
+      "label": "affiliated via Affinity partners; minority partner",
+      "type": "ownership",
+      "date": "2024-12-30"
+    },
+    {
+      "source": "affinity-partners",
+      "target": "atlantic-incubation-partners",
+      "label": "affiliated with (Reuters)",
+      "type": "ownership",
+      "date": "2024-12-30"
+    },
+    {
+      "source": "tether",
+      "target": "lutnick-dynasty-trust-a",
+      "label": "lent undisclosed sum to (Bloomberg)",
+      "type": "money",
+      "date": "2026-03-18"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Sheridan, Wyoming licensee network behind Trump merchandise",
+      "why_connected": "The same formation agent set up the CIC Ventures sneaker and watch licensees, and CNN traced the watches to a Sheridan strip mall used by other Trump-themed sellers. The fragrance and Bible licensees' agents and beneficial owners should be checked for the same pattern.",
+      "entities": [
+        "cic-ventures",
+        "45footwear-llc",
+        "thebestwatchesonearth-llc",
+        "andrew-pierce"
+      ],
+      "source_url": "https://cowboystatedaily.com/2024/10/01/trumps-new-line-of-100k-watches-registered-to-wyoming-company/"
+    },
+    {
+      "title": "Unannounced Trump Organization Abu Dhabi licensing entities",
+      "why_connected": "CREW found new Delaware DT Marks Abu Dhabi / Al Raha Beach entities, set up in the same period Tahnoon-linked vehicles took 49% of WLF and WLTC. The developer counterparty is unknown.",
+      "entities": [
+        "dt-marks-abu-dhabi",
+        "trump-organization",
+        "aryam-investment-1",
+        "stringz-holding"
+      ],
+      "source_url": "https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/"
+    },
+    {
+      "title": "Is StringZ Holding RSC on the ADGM register, and does it share officers with Aryam?",
+      "why_connected": "Both vehicles hold 49% and both are reportedly Tahnoon-linked. An ADGM registry pull plus a Delaware search on the '(DE)' entity would settle ownership and dates.",
+      "entities": [
+        "stringz-holding",
+        "aryam-investment-1",
+        "adgm",
+        "wltc-holdings"
+      ],
+      "source_url": "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj"
+    },
+    {
+      "title": "Trump Mobile operator located in Trump Towers Sunny Isles and its insurance and roadside cross-sells",
+      "why_connected": "Liberty Mobile reportedly sits in a Trump-branded building. O'Brien's Ensurety companies are cross-sold to Trump Mobile customers, and T1 Mobile's owners are undisclosed despite Sen. Warner's letter.",
+      "entities": [
+        "trump-mobile",
+        "t1-mobile-llc",
+        "liberty-mobile-wireless",
+        "pat-obrien",
+        "dttm-operations"
+      ],
+      "source_url": "https://www.warner.senate.gov/wp-content/uploads/2026/05/260518.Trump_Mobile_letter.FINAL_.SIGN_-2.pdf"
+    },
+    {
+      "title": "Khanna referral to the Delaware US Attorney over the Emirati WLF investor",
+      "why_connected": "This is the only official referral naming a Delaware-domiciled Emirati entity in the Aryam deal. No response or opened matter has been reported.",
+      "entities": [
+        "ro-khanna",
+        "us-attorney-delaware",
+        "aryam-investment-1",
+        "world-liberty-financial"
+      ],
+      "source_url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/ranking-member-ro-khanna-presses-world-liberty-financial-information-trump"
+    }
+  ]
+}

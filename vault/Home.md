@@ -5,17 +5,17 @@ tags:
 ---
 # Trump Claims Map
 
-A fact-check of 40 claims made in Coffeezilla, “Investigating The President”, plus 30 follow-up leads the video did not cover. Each claim was checked independently against public records and reporting. Open the graph view to explore.
+A fact-check of 30 claims made in Coffeezilla, “Investigating The President”, plus 40 follow-up leads the video did not cover. Each claim was checked independently against public records and reporting. Open the graph view to explore.
 
 Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
 ## Verdicts
 
 - Confirmed: 2
-- Mostly accurate: 55
-- Partly accurate: 2
+- Mostly accurate: 57
+- Partly accurate: 3
 - Unverified: 2
-- Pending: 9
+- Pending: 6
 
 ## Claims
 
@@ -79,12 +79,12 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C61 Shared lawyers and law firms across the deals]] · Pending
-- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Pending
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Pending
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Pending
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Pending
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Pending
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
 - [[C69 Master timeline money events versus government actions]] · Pending
@@ -109,28 +109,28 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
 ## Most connected
 
-- [[Donald Trump]] (67 claims, 204 connections)
-- [[World Liberty Financial]] (28 claims, 80 connections)
-- [[Securities and Exchange Commission]] (22 claims, 78 connections)
+- [[Donald Trump]] (67 claims, 213 connections)
+- [[World Liberty Financial]] (30 claims, 84 connections)
+- [[Securities and Exchange Commission]] (24 claims, 83 connections)
 - [[White House Trump administration]] (46 claims, 74 connections)
-- [[Donald Trump Jr]] (31 claims, 61 connections)
-- [[Eric Trump]] (32 claims, 61 connections)
+- [[Eric Trump]] (34 claims, 64 connections)
+- [[Donald Trump Jr]] (32 claims, 63 connections)
 - [[Elizabeth Warren]] (25 claims, 56 connections)
-- [[US Congress]] (31 claims, 50 connections)
-- [[Trump Media & Technology Group]] (16 claims, 47 connections)
+- [[Trump Media & Technology Group]] (16 claims, 54 connections)
+- [[US Congress]] (33 claims, 53 connections)
 - [[Trump Organization]] (17 claims, 46 connections)
-- [[Jared Kushner]] (12 claims, 41 connections)
-- [[United Arab Emirates]] (16 claims, 36 connections)
-- [[Steve Witkoff]] (12 claims, 34 connections)
+- [[Jared Kushner]] (12 claims, 45 connections)
+- [[United Arab Emirates]] (17 claims, 38 connections)
+- [[Steve Witkoff]] (13 claims, 36 connections)
+- [[The New York Times]] (17 claims, 34 connections)
 - [[Coffeezilla]] (14 claims, 33 connections)
-- [[The New York Times]] (16 claims, 32 connections)
-- [[Commodity Futures Trading Commission]] (8 claims, 31 connections)
+- [[Commodity Futures Trading Commission]] (8 claims, 32 connections)
 - [[The Wall Street Journal]] (17 claims, 31 connections)
-- [[Crypto.com]] (9 claims, 27 connections)
-- [[$TRUMP meme coin]] (9 claims, 27 connections)
+- [[$TRUMP meme coin]] (10 claims, 29 connections)
+- [[Crypto.com]] (9 claims, 28 connections)
+- [[Dominari Holdings Dominari Securities]] (7 claims, 27 connections)
+- [[USD1]] (12 claims, 27 connections)
 - [[Binance]] (12 claims, 26 connections)
-- [[USD1]] (12 claims, 26 connections)
-- [[Dominari Holdings Dominari Securities]] (6 claims, 25 connections)
-- [[Howard Lutnick]] (6 claims, 24 connections)
-- [[Richard Blumenthal]] (10 claims, 24 connections)
-- [[Affinity Partners]] (7 claims, 23 connections)
+- [[Affinity Partners]] (9 claims, 25 connections)
+- [[Cantor Fitzgerald]] (5 claims, 25 connections)
+- [[David Sacks]] (8 claims, 25 connections)

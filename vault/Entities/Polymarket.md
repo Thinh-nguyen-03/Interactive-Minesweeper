@@ -20,6 +20,7 @@ Prediction market company; Don Jr. on advisory board; subject of CFTC probe.
 - Prediction market; 1789 portfolio company and the main driver of its returns.
 - Crypto-based prediction market; DOJ/CFTC probes closed July 2025.
 - Prediction market used for Maduro, Iran and pardon bets
+- Prediction market; 1789 Capital stake (C25); no Thrive stake found
 
 ## Appears in claims
 
@@ -27,7 +28,7 @@ Prediction market company; Don Jr. on advisory board; subject of CFTC probe.
 - [[C26 1789 Capital and Vulcan Elements]] · Mostly accurate
 - [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Pending
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 
 ## Relationships
 
@@ -42,6 +43,7 @@ Prediction market company; Don Jr. on advisory board; subject of CFTC probe.
 - [[CFTC probe into Polymarket]] *targets* [[Polymarket]] (legal) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Donald Trump Jr]] *advisory board member* [[Polymarket]] (2025-08-26, advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Donald Trump Jr]] *advisory board member of* [[Polymarket]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *advisory board; 1789 Capital invested (C25)* [[Polymarket]] (advisory) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Donald Trump Jr]] *joined advisory board* [[Polymarket]] (2025-08-26, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Gannon Ken Van Dyke]] *allegedly won ~$400K betting on Maduro ouster* [[Polymarket]] (2026-01, $400K, money) · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Polymarket]] *tops finance chart of* [[Apple App Store]] (commercial) · [[C25 Prediction markets, CFTC and Don Jr|C25]]

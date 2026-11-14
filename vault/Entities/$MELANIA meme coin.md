@@ -7,8 +7,8 @@ aliases:
   - "$MELANIA memecoin"
   - "Melania coin"
   - "Melodicoin"
-connections: 18
-claims: 5
+connections: 20
+claims: 6
 tags:
   - "entity"
   - "type/asset"
@@ -23,6 +23,7 @@ Melania Trump's meme coin; down ~99%.
 - Solana meme coin launched Jan 19, 2025; ~99% below its peak.
 - Melania Trump memecoin launched Jan 2025.
 - Melania Trump's meme coin, launched 2025-01-19
+- Melania memecoin
 
 ## Appears in claims
 
@@ -31,6 +32,7 @@ Melania Trump's meme coin; down ~99%.
 - [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
 - [[C29 Trump family wealth gains]] · Mostly accurate
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -50,6 +52,7 @@ Melania Trump's meme coin; down ~99%.
 - [[Retail investors Trump supporters]] *lost ~99% on* [[$MELANIA meme coin]] (money) · [[C02 $MELANIA coin and NFTs|C02]] [[C29 Trump family wealth gains|C29]]
 - [[Securities and Exchange Commission]] *staff deemed meme coins generally not securities* [[$MELANIA meme coin]] (2025-02, regulatory) · [[C02 $MELANIA coin and NFTs|C02]]
 - [[$TRUMP $MELANIA shell companies]] *hold proceeds of* [[$MELANIA meme coin]] (ownership) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Tuttle Capital Management]] *filed 2x leveraged ETF* [[$MELANIA meme coin]] (2025-01, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 
 ## Themes
 

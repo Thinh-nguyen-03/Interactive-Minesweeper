@@ -3,12 +3,12 @@ id: "C67"
 kind: "claim"
 title: "Investors who show up in several Trump-family vehicles"
 verdict: "pending"
-origin: "video"
+origin: "follow-up"
 aliases:
   - "C67"
 tags:
   - "claim"
-  - "origin/video"
+  - "origin/follow-up"
   - "verdict/pending"
 ---
 # C67: Investors who show up in several Trump-family vehicles
@@ -17,7 +17,7 @@ tags:
 
 Verification of this claim has not been completed yet.
 
-## What the video said
+## Lead investigated
 
 > Connection hunt: parties that put money into more than one Trump-family venture or bought several products — Justin Sun (WLF, top $TRUMP holder/dinner, Tron via Dominari), DWF Labs, Web3Port, Oddiyana, Aqua 1 (UAE fund that bought $100M WLFI), MGX/Aryam, Hut 8, Crypto.com, Jump, Kraken, GD Culture Group and other foreign/Chinese-linked $TRUMP treasury buyers, Bill Zanker, Gulf developers, 1789 LPs, attendees of the $TRUMP dinner who had regulatory matters. Identify every repeat investor, their nationality/state links, amounts, and any US government decision affecting them afterwards.
 
@@ -27,9 +27,11 @@ Verification of this claim has not been completed yet.
 - [[Bill Zanker]] (named in the claim text)
 - [[Crypto.com]] (named in the claim text)
 - [[Donald Trump]] (named in the claim text)
+- [[DWF Labs]] (named in the claim text)
 - [[Hut 8]] (named in the claim text)
 - [[Justin Sun]] (named in the claim text)
 - [[Kraken]] (named in the claim text)
 - [[Tron]] (named in the claim text)
+- [[Web3Port]] (named in the claim text)
 - [[WLFI token]] (named in the claim text)
 - [[World Liberty Financial]] (named in the claim text)

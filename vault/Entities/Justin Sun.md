@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Sun"
-connections: 23
-claims: 10
+connections: 25
+claims: 11
 tags:
   - "entity"
   - "type/person"
@@ -33,6 +33,7 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Pending
 
 ## Relationships
@@ -67,6 +68,7 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[Securities and Exchange Commission]] *paused, then dismissed claims against* [[Justin Sun]] (2026-03-05, legal) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *sued for fraud, market manipulation and unregistered securities* [[Justin Sun]] (2023-03-22, regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[SEC fraud case against Justin Sun]] *targeted* [[Justin Sun]] (legal) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Teresa Goody Guillén]] *reportedly hired by (single-source)* [[Justin Sun]] (2025-09, legal) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[World Liberty Financial]] *froze about 540-600M unlocked plus 2.4B locked WLFI* [[Justin Sun]] (2025-09-04, legal) · [[C42 How World Liberty insiders took money out|C42]]
 - [[World Liberty Financial]] *froze/blacklisted WLFI tokens of* [[Justin Sun]] (2025-09, legal) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[World Liberty Financial]] *sued for defamation (Miami-Dade)* [[Justin Sun]] (2026-05-04, legal) · [[C05 Justin Sun, WLF and the SEC|C05]]

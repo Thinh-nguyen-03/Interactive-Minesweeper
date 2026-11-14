@@ -5,11 +5,12 @@ type: "asset"
 aliases:
   - "Air Force One gift"
   - "Qatar plane"
+  - "Qatari 747"
   - "Qatari 747 for Air Force One"
   - "Qatari Boeing 747-8"
   - "Qatari Boeing 747-8 (Air Force One)"
-connections: 13
-claims: 4
+connections: 15
+claims: 5
 tags:
   - "entity"
   - "type/asset"
@@ -24,6 +25,7 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 - Gifted jet reportedly destined for the Trump library (see C16)
 - Qatari gift used as Air Force One, slated to pass to the foundation by 2029
 - Qatar's 747-8 accepted by the Pentagon in May 2025 (see C16)
+- Jet accepted May 2025, slated for the library foundation.
 
 ## Appears in claims
 
@@ -31,11 +33,13 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 
 ## Relationships
 
 - [[Isaac Saul]] *describes* [[Qatar Boeing 747 gift]] (media) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Karoline Leavitt]] *defended legality of accepting* [[Qatar Boeing 747 gift]] (2025-05-12, political) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Pam Bondi]] *signed DOJ memo clearing acceptance of* [[Qatar Boeing 747 gift]] (2025-05, regulatory) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Pete Hegseth]] *formally accepted* [[Qatar Boeing 747 gift]] (2025-05-21, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar]] *gifted* [[Qatar Boeing 747 gift]] (2025-05, $400M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Qatar]] *offered* [[Qatar Boeing 747 gift]] ($400M, money) · [[C16 Qatar jet, arms sales and golf deal|C16]]
@@ -44,9 +48,10 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 - [[Qatar Boeing 747 gift]] *gifted for use by* [[Donald Trump]] ($400M, money) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar Boeing 747 gift]] *used as interim Air Force One by* [[Donald Trump]] (2026-06, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar Boeing 747 gift]] *to end up in* [[Trump presidential library]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Qatar Boeing 747 gift]] *reportedly to be transferred by 2029-01-01 to* [[Trump Presidential Library Foundation]] (2025-05-11, ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Qatar Boeing 747 gift]] *reportedly to be transferred to* [[Trump Presidential Library Foundation]] (2025-05-11, ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Qatar Boeing 747 gift]] *slated to transfer to by 2029 (not final)* [[Trump Presidential Library Foundation]] (2029-01-01, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Qatar Boeing 747 gift]] *reportedly to be transferred by 2029-01-01 to* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-05-11, ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatar Boeing 747 gift]] *reportedly to be transferred to* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-05-11, ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Qatar Boeing 747 gift]] *slated to pass to* [[Donald J. Trump Presidential Library Foundation, Inc]] (2029, ownership) · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Qatar Boeing 747 gift]] *slated to transfer to by 2029 (not final)* [[Donald J. Trump Presidential Library Foundation, Inc]] (2029-01-01, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[US Air Force]] *retrofitted and operates* [[Qatar Boeing 747 gift]] (2026-06, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 
 ## Themes

@@ -2,8 +2,8 @@
 id: "ron-wyden"
 kind: "entity"
 type: "person"
-connections: 9
-claims: 5
+connections: 10
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -14,6 +14,7 @@ tags:
 
 US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 
+- US senator (D-OR); co-led the 2026 Kushner fundraising probe
 - US Senator; co-led the April 2026 Tether-loan letters
 - Senator, co-signer of April 2025 SEC letter
 - Senator; ranking member of Senate Finance
@@ -26,6 +27,7 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 
 ## Relationships
 

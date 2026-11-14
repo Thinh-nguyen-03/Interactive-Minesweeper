@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "Don Jr."
   - "Trump Jr."
-connections: 61
-claims: 31
+connections: 63
+claims: 32
 tags:
   - "entity"
   - "type/person"
@@ -55,7 +55,8 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Pending
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 
 ## Relationships
 
@@ -76,6 +77,7 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Donald Trump Jr]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] (2025-02-21, $1M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *adviser (advisory board)* [[Dominari Holdings Dominari Securities]] (2025-02-10, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *adviser and shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Donald Trump Jr]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] (2025-02, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Donald Trump Jr]] *shareholder* [[Dominari Holdings Dominari Securities]] (ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
@@ -87,13 +89,16 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Donald Trump Jr]] *co-founder of* [[Executive Branch]] (2025-04, ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *board member* [[GrabAGun Digital Holdings]] (2025-07, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Donald Trump Jr]] *director; about 300,000 shares (about $3M)* [[GrabAGun Digital Holdings]] (2025-07, $3M, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *father of* [[Kai Trump]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] (2025-01, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Donald Trump Jr]] *strategic adviser (paid partly in shares, reportedly >$300k)* [[Kalshi]] (2025-01, $300K, advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Donald Trump Jr]] *strategic adviser to* [[Kalshi]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *adviser* [[New America Acquisition I Corp]] (2025, advisory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump Jr]] *adviser to* [[New America Acquisition I Corp]] (advisory) · [[C27 New America Acquisition I Corp SPAC|C27]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *strategic adviser; holds 2M founder shares (~$20M paper value)* [[New America Acquisition I Corp]] (2025-08, $20M, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Donald Trump Jr]] *advisory board member* [[Polymarket]] (2025-08-26, advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Donald Trump Jr]] *advisory board member of* [[Polymarket]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *advisory board; 1789 Capital invested (C25)* [[Polymarket]] (advisory) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Donald Trump Jr]] *joined advisory board* [[Polymarket]] (2025-08-26, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Donald Trump Jr]] *urged GOP AGs to leave prediction markets to federal regulators (reported)* [[Republican Attorneys General Association]] (2026-03, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Donald Trump Jr]] *reportedly urged not to fight prediction markets* [[Republican state attorneys general]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]

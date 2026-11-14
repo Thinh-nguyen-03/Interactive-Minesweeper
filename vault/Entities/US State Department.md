@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "State Department"
-connections: 5
-claims: 2
+connections: 7
+claims: 3
 tags:
   - "entity"
   - "type/government"
@@ -18,14 +18,17 @@ Approved possible military sales to Qatar.
 
 - Approves foreign military sales
 - Notified Congress of the F-35 sale
+- Employs Massad Boulos; Charles Kushner's embassy
 
 ## Appears in claims
 
 - [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 
 ## Relationships
 
+- [[Massad Boulos]] *senior adviser at* [[US State Department]] (2025-04, political) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[US State Department]] *approved 10,000 APKWS II sale to* [[Qatar]] (2026-05, $992.4M, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[US State Department]] *approved Patriot replenishment sale to* [[Qatar]] (2026-05, $4.01B, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[US State Department]] *approved possible MQ-9B sale to* [[Qatar]] (2025-03-26, $1.96B, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]

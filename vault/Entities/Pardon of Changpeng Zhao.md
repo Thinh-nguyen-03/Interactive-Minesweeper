@@ -19,6 +19,7 @@ Trump's pardon of Binance's founder.
 - Full pardon signed Oct 22, 2025 and announced Oct 23, 2025.
 - Trump's October 2025 pardon of Changpeng Zhao.
 - Trump's Oct 2025 pardon of Changpeng Zhao
+- Trump's Oct 23, 2025 pardon of Changpeng Zhao.
 
 ## Appears in claims
 
@@ -26,10 +27,11 @@ Trump's pardon of Binance's founder.
 - [[C10 Binance driving USD1 adoption]] · Mostly accurate
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
-- [[C61 Shared lawyers and law firms across the deals]] · Pending
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 
 ## Relationships
 
+- [[Changpeng Zhao]] *received* [[Pardon of Changpeng Zhao]] (2025-10-23, legal) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Changpeng Zhao]] *recipient of* [[Pardon of Changpeng Zhao]] (2025-10, legal) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Pardon of Changpeng Zhao]] *eases US re-entry of* [[Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Pardon of Changpeng Zhao]] *pardon of* [[Changpeng Zhao]] (2025-10-23, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]

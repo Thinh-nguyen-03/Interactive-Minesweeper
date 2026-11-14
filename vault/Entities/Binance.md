@@ -34,7 +34,7 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
-- [[C61 Shared lawyers and law firms across the deals]] · Pending
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
 
 ## Relationships
@@ -69,6 +69,7 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Binance]] (2025-05-29, regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Securities and Exchange Commission]] *dropped lawsuit against* [[Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[SEC lawsuit against Binance]] *targeted* [[Binance]] (legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Teresa Goody Guillén]] *registered lobbyist for* [[Binance]] (2025-03, $290K, advisory) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[The Wall Street Journal]] *reported Binance helped build USD1* [[Binance]] (2025-10, media) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[The Wall Street Journal]] *reported up to $5M success-fee offers* [[Binance]] (2025-12, media) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[World Liberty Financial]] *reportedly provides marketing budget for promotions to* [[Binance]] (2026, money) · [[C10 Binance driving USD1 adoption|C10]]

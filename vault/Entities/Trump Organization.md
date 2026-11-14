@@ -77,7 +77,7 @@ The family's hotel and golf luxury business, incl. Middle East golf/hotel deals.
 - [[Trump Organization]] *licenses Trump brand to* [[Trump Mobile]] (2025-06, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Trump Organization]] *licenses name to* [[Trump Mobile]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Trump Organization]] *licenses brand to* [[Trump Plaza Jeddah]] (2025-09, $1B, commercial) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
-- [[Trump Organization]] *involved in developing library project (per Eric Trump)* [[Trump Presidential Library Foundation]] (2026, commercial) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Trump Organization]] *involved in developing library project (per Eric Trump)* [[Donald J. Trump Presidential Library Foundation, Inc]] (2026, commercial) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Trump Organization]] *struck deal for* [[Trump golf course in Qatar]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Trump Organization]] *was to license Trump brand to* [[Trump Tower Belgrade (General Staff site)]] (commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Trump Organization]] *licenses brand to* [[Trump Tower Jeddah]] (2024-07, $530M, commercial) · [[C56 Saudi Arabia family deals alongside US policy|C56]]

@@ -47,6 +47,6 @@ Senator; ranking member of the Permanent Subcommittee on Investigations
 - [[Richard Blumenthal]] *ranking member of* [[Senate Permanent Subcommittee on Investigations]] (political) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Richard Blumenthal]] *sought records on Nxum payments* [[Tether]] (2026-10-22, legal) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Richard Blumenthal]] *denounced as 'auctioning off access'* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05, political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Richard Blumenthal]] *co-signed inquiry into* [[Trump Presidential Library Foundation]] (2026-07-16, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Richard Blumenthal]] *co-signed inquiry into* [[Donald J. Trump Presidential Library Foundation, Inc]] (2026-07-16, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Richard Blumenthal]] *referred Tether findings to* [[US Department of Justice]] (2026-09-28, legal) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Richard Blumenthal]] *referred Tether findings to* [[US Treasury]] (2026-09-28, regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]

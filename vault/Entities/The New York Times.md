@@ -5,8 +5,8 @@ type: "media"
 aliases:
   - "NYT"
   - "New York Times"
-connections: 32
-claims: 16
+connections: 34
+claims: 17
 tags:
   - "entity"
   - "type/media"
@@ -41,6 +41,7 @@ Reported Affinity's $5B raise.
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 
 ## Relationships
 
@@ -52,6 +53,7 @@ Reported Affinity's $5B raise.
 - [[The New York Times]] *investigated holdings (708 tech, 449 AI)* [[David Sacks]] (2025-11-30, media) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[The New York Times]] *tallied at least $2.2B in 2025 income* [[Donald Trump]] (2026-07-01, $2.2B, media) · [[C29 Trump family wealth gains|C29]]
 - [[The New York Times]] *reported AG pitch* [[Donald Trump Jr]] (2026-08-27, media) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[The New York Times]] *investigated deals after Tiffany engagement* [[Michael Boulos]] (2025-08-21, media) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[The New York Times]] *broke the dinner-pardon story* [[Paul Walczak]] (2025-05-27, media) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[The New York Times]] *analyzed crypto case outcomes of* [[Securities and Exchange Commission]] (2025-12, media) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[The New York Times]] *found eased ~60% (reportedly 14 of 23) of inherited crypto cases* [[Securities and Exchange Commission]] (2025-12-14, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]

@@ -2,8 +2,8 @@
 id: "forbes"
 kind: "entity"
 type: "media"
-connections: 15
-claims: 7
+connections: 16
+claims: 8
 tags:
   - "entity"
   - "type/media"
@@ -29,9 +29,11 @@ Source of family net-worth estimates.
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 
 ## Relationships
 
+- [[Forbes]] *estimated about $40M from WLF token sales* [[Barron Trump]] (2025-06, $40M, media) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Forbes]] *estimated net worth about $150M* [[Barron Trump]] (2025-10-06, $150M, media) · [[C29 Trump family wealth gains|C29]]
 - [[Forbes]] *estimates ~$150M net worth* [[Barron Trump]] ($150M, media) · [[C29 Trump family wealth gains|C29]]
 - [[Forbes]] *reported 87% USD1 concentration at* [[Binance]] (2026-02-09, media) · [[C10 Binance driving USD1 adoption|C10]]

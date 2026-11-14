@@ -10,8 +10,8 @@ aliases:
   - "GetTrumpMemes.com"
   - "Official Trump"
   - "Trump coin"
-connections: 27
-claims: 9
+connections: 29
+claims: 10
 tags:
   - "entity"
   - "type/asset"
@@ -38,6 +38,7 @@ Official Trump meme coin launched two days before the inauguration; ~$600M to Tr
 - [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Pending
 
 ## Relationships
@@ -73,6 +74,7 @@ Official Trump meme coin launched two days before the inauguration; ~$600M to Tr
 - [[$TRUMP $MELANIA shell companies]] *hold proceeds of* [[$TRUMP meme coin]] (ownership) · [[C01 $TRUMP meme coin|C01]]
 - [[Top $TRUMP holders]] *hold most of* [[$TRUMP meme coin]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Proposed $TRUMP digital-asset treasury]] *would buy and hold* [[$TRUMP meme coin]] (2025-10, commercial) · [[C55 How much has the Trump family made Competing totals|C55]]
+- [[Tuttle Capital Management]] *filed 2x leveraged ETF* [[$TRUMP meme coin]] (2025-01, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 
 ## Themes
 

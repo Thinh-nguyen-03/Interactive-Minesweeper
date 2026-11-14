@@ -5,7 +5,7 @@ type: "asset"
 aliases:
   - "U.S. D1"
   - "USD1 stablecoin"
-connections: 26
+connections: 27
 claims: 12
 tags:
   - "entity"
@@ -36,7 +36,7 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
-- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Pending
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -51,6 +51,8 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[BitGo]] *current custodian of* [[USD1]] (commercial) · [[C12 WLF bank charter from the OCC|C12]]
 - [[BitGo]] *custodies reserves* [[USD1]] (2025-03-25, commercial) · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[BitGo]] *custodies reserves of* [[USD1]] (2025-03, commercial) · [[C04 World Liberty Financial founding and token sale|C04]] [[C10 Binance driving USD1 adoption|C10]]
+- [[BitGo]] *reserve custodian and mint/burn infrastructure* [[USD1]] (2025-03-25, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[DWF Labs]] *committed liquidity / reserves* [[USD1]] (2025, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Eric Trump]] *promoted on X as passing PYUSD / 'GENIUS Act compliant'* [[USD1]] (2026-01-23, media) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[GENIUS Act]] *regulates (USD1 marketed as compliant)* [[USD1]] (regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[MGX]] *chose as settlement stablecoin* [[USD1]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]

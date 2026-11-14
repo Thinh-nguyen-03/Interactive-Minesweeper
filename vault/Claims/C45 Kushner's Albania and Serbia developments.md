@@ -181,7 +181,7 @@ The core of the lead holds. Kushner-linked companies won Albanian government bac
 - [[Jamie Raskin]] *expanded probe into $120M Albanian land purchase, FCPA questions* [[Jared Kushner]] (2026-08-24, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Jamie Raskin]] *House Judiciary ranking member* [[US Congress]] (political) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Jared Kushner]] *founder and head of* [[Affinity Partners]] (ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Jared Kushner]] *married to* [[Ivanka Trump]] (family) · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Jared Kushner]] *married to* [[Ivanka Trump]] (family) · [[C45 Kushner's Albania and Serbia developments|C45]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Jared Kushner]] *self-described minority partner in* [[Zvernec Vjosa-Narta coastal project]] (2026-10, ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Mohamed Alabbar]] *reported partner in* [[Trump Tower Belgrade (General Staff site)]] (2025-01, commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[The New Yorker]] *investigated Albania project; Kushner rebutted* [[Jared Kushner]] (2026-10-08, media) · [[C45 Kushner's Albania and Serbia developments|C45]]

@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Dominari Holdings"
-connections: 25
-claims: 6
+connections: 27
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -30,6 +30,7 @@ Nasdaq: DOMH; Trump Tower-based investment bank and broker; the Trump sons are a
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -38,6 +39,7 @@ Nasdaq: DOMH; Trump Tower-based investment bank and broker; the Trump sons are a
 - [[Bloomberg]] *investigative reporting* [[Dominari Holdings Dominari Securities]] (2025-05-19, media) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Dominari Holdings Dominari Securities]] *co-formed American Data Centers (later American Bitcoin) with Trump sons* [[American Bitcoin]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Dominari Holdings Dominari Securities]] *held about 23.2M shares (about $170M at listing); sold for $32.4M in January 2026* [[American Bitcoin]] (2025-09, $170M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *lead underwriter on raises* [[American Bitcoin]] (2025, $220M, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Dominari Holdings Dominari Securities]] *co-formed and held stake in* [[American Data Centers Inc]] (2025-02, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Dominari Holdings Dominari Securities]] *co-formed, about 32% stake* [[American Data Centers Inc]] (2025-02, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Dominari Holdings Dominari Securities]] *controls ~90% of* [[American Ventures]] (ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
@@ -45,6 +47,7 @@ Nasdaq: DOMH; Trump Tower-based investment bank and broker; the Trump sons are a
 - [[Dominari Holdings Dominari Securities]] *owns 90% of manager* [[American Ventures]] (2026-05, ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Dominari Holdings Dominari Securities]] *arranged ~$9M financing for* [[Aureus Greenway Holdings]] (2026-03, $9M, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Dominari Holdings Dominari Securities]] *paid about $32M 2025 compensation* [[Kyle Wool]] (2025, $32M, money) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *co-lead underwriter* [[New America Acquisition I Corp]] (2025-12, $345M, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO (Dominari Securities)* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Dominari Holdings Dominari Securities]] *co-led IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
@@ -56,6 +59,7 @@ Nasdaq: DOMH; Trump Tower-based investment bank and broker; the Trump sons are a
 - [[Donald Trump Jr]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] (2025-02-21, $1M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *adviser (advisory board)* [[Dominari Holdings Dominari Securities]] (2025-02-10, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *adviser and shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Donald Trump Jr]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] (2025-02, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Donald Trump Jr]] *shareholder* [[Dominari Holdings Dominari Securities]] (ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
@@ -63,6 +67,7 @@ Nasdaq: DOMH; Trump Tower-based investment bank and broker; the Trump sons are a
 - [[Eric Trump]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] (2025-02-21, $1M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Eric Trump]] *adviser (advisory board)* [[Dominari Holdings Dominari Securities]] (2025-02-10, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Eric Trump]] *adviser and shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Eric Trump]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Eric Trump]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] (2025-02, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Eric Trump]] *major shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Eric Trump]] *shareholder and adviser* [[Dominari Holdings Dominari Securities]] (ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
@@ -72,6 +77,7 @@ Nasdaq: DOMH; Trump Tower-based investment bank and broker; the Trump sons are a
 - [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[Dominari Holdings Dominari Securities]] (2026-03-08, regulatory) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Dominari Holdings Dominari Securities]] (2026-03-08, regulatory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Kyle Wool]] *president of* [[Dominari Holdings Dominari Securities]] (ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Kyle Wool]] *president; CEO of Dominari Securities* [[Dominari Holdings Dominari Securities]] (2023-03, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Kyle Wool]] *president; CEO of Dominari Securities* [[Dominari Holdings Dominari Securities]] (2023-03, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]] [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Kyle Wool]] *president; head of Dominari Securities* [[Dominari Holdings Dominari Securities]] (ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[US Congress]] *House China Select Committee information request* [[Dominari Holdings Dominari Securities]] (2026-03-08, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[The Wall Street Journal]] *profile 'go-to dealmaker'* [[Dominari Holdings Dominari Securities]] (2025-08-19, media) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]

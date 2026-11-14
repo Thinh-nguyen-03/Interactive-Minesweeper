@@ -5,8 +5,8 @@ type: "government"
 aliases:
   - "Congress"
   - "U.S. Congress"
-connections: 50
-claims: 31
+connections: 53
+claims: 33
 tags:
   - "entity"
   - "type/government"
@@ -56,6 +56,8 @@ Passed crypto legislation; questioned Selig.
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 
 ## Relationships
 
@@ -71,6 +73,7 @@ Passed crypto legislation; questioned Selig.
 - [[US Congress]] *Raskin inquiry into* [[1789 Capital]] (2026-08-26, legal) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[US Congress]] *Democratic committee inquiries into* [[Affinity Partners]] (2026-03, regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[US Congress]] *House passed 294-134; Senate cloture failed 49-50* [[CLARITY Act]] (2026-09-15, regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[US Congress]] *House China Select Committee information request* [[Dominari Holdings Dominari Securities]] (2026-03-08, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[US Congress]] *passed* [[GENIUS Act]] (2025-07, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[US Congress]] *passed (Senate 68-30, House 308-122)* [[GENIUS Act]] (2025-07-17, regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[US Congress]] *Senate confirmed 50-45* [[Jonathan Gould]] (2025-07-10, political) · [[C12 WLF bank charter from the OCC|C12]]

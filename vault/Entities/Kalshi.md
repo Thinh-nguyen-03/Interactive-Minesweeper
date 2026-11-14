@@ -20,6 +20,7 @@ Prediction market company; Don Jr. is strategic adviser.
 - CFTC-regulated prediction market
 - CFTC-registered prediction market; Don Jr. is a strategic adviser.
 - Prediction market; Quintenz board member, Don Jr. adviser
+- Prediction market; no Thrive stake found
 
 ## Appears in claims
 
@@ -28,7 +29,7 @@ Prediction market company; Don Jr. is strategic adviser.
 - [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Pending
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 
 ## Relationships
 

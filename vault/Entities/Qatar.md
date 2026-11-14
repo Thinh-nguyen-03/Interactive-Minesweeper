@@ -2,8 +2,8 @@
 id: "qatar"
 kind: "entity"
 type: "country"
-connections: 21
-claims: 8
+connections: 23
+claims: 9
 tags:
   - "entity"
   - "type/country"
@@ -28,11 +28,13 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Pending
 
 ## Relationships
 
+- [[Ballard Partners]] *FARA-registered lobbying for (firm fee per month)* [[Qatar]] (2019, $115K, money) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Qatar]] *reported investor base / registration* [[Albania Land Development]] (ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Qatar]] *partial owner of the Apollo-run trust that funded the Witkoff Group* [[Apollo Global Management]] (ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Qatar]] *signed LOA during Trump visit* [[MQ-9B sale to Qatar]] (2025-05-14, $1.96B, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
