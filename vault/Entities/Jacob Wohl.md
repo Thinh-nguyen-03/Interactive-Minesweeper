@@ -18,12 +18,12 @@ Pardon lobbyist (with Burkman)
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C49 The market for pardon lobbying]] · Mostly accurate
+- [[C49 The Market for Pardon Lobbying]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Jack Burkman]] *lobbying partner of* [[Jacob Wohl]] · [[C49 The market for pardon lobbying|C49]]
+- [[Jack Burkman]] *lobbying partner of* [[Jacob Wohl]] · [[C49 The Market for Pardon Lobbying|C49]]

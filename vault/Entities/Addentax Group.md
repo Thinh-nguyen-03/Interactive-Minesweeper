@@ -18,12 +18,12 @@ Chinese garment maker; announced TRUMP/BTC buying talks
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
+- [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Addentax Group]] *talks to buy up to $800M of TRUMP and BTC* [[$TRUMP meme coin]] · 2025-05 · [[C67 Investors who appear in several Trump-family vehicles|C67]]
+- [[Addentax Group]] *talks to buy up to $800M of TRUMP and BTC* [[$TRUMP meme coin]] · 2025-05 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]

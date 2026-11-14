@@ -18,6 +18,6 @@ Former national security adviser; source for Lauder's role
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate

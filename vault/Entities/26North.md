@@ -18,12 +18,12 @@ Private investment firm that took a minority stake in Cantor
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[26North]] *took minority stake* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[26North]] *took minority stake* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]

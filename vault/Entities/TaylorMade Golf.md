@@ -18,12 +18,12 @@ Kai Trump endorsement (Feb 2025)
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Kai Trump]] *endorsement deal* [[TaylorMade Golf]] · 2025-02 · [[C66 The extended family's ventures and roles|C66]]
+- [[Kai Trump]] *endorsement deal* [[TaylorMade Golf]] · 2025-02 · [[C66 The Extended Family's Ventures & Roles|C66]]

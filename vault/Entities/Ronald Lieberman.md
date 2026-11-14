@@ -18,16 +18,16 @@ Trump Organization EVP of Management and Development; Dominari director since De
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C91 Dominari option grants and trading before the Trump sons' arrival]] · Mostly accurate
+- [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Ronald Lieberman]] *director and shareholder* [[Dominari Holdings Dominari Securities]] · 2024-12 · [[C91 Dominari option grants and trading before the Trump sons' arrival|C91]]
+- [[Ronald Lieberman]] *director and shareholder* [[Dominari Holdings Dominari Securities]] · 2024-12 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 
 ### Commercial (1)
 
-- [[Ronald Lieberman]] *EVP of Management and Development* [[Trump Organization]] · [[C91 Dominari option grants and trading before the Trump sons' arrival|C91]]
+- [[Ronald Lieberman]] *EVP of Management and Development* [[Trump Organization]] · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]

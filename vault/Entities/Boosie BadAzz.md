@@ -18,12 +18,12 @@ Rapper; paid $600K, got no pardon, filed for arbitration
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C49 The market for pardon lobbying]] · Mostly accurate
+- [[C49 The Market for Pardon Lobbying]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Boosie BadAzz]] *paid for pardon lobbying; seeks $300K back* [[Jack Burkman]] · $600K · [[C49 The market for pardon lobbying|C49]]
+- [[Boosie BadAzz]] *paid for pardon lobbying; seeks $300K back* [[Jack Burkman]] · $600K · [[C49 The Market for Pardon Lobbying|C49]]

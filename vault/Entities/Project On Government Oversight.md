@@ -18,12 +18,12 @@ Reported that the SEC has no probe and uncovered a shareholder suit.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty]] · Mostly accurate
+- [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Project On Government Oversight]] *reported no SEC probe of the ALT5 deal* [[Securities and Exchange Commission]] · 2026 · [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty|C13]]
+- [[Project On Government Oversight]] *reported no SEC probe of the ALT5 deal* [[Securities and Exchange Commission]] · 2026 · [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty|C13]]

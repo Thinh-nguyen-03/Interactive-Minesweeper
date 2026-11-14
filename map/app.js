@@ -14,8 +14,8 @@
   function arr(v) { return Array.isArray(v) ? v : []; }
 
   var VERDICTS = ['confirmed', 'mostly-accurate', 'partly-accurate', 'misleading', 'unverified', 'false', 'pending'];
-  var VLABEL = { 'confirmed': 'Confirmed', 'mostly-accurate': 'Mostly accurate', 'partly-accurate': 'Partly accurate',
-    'misleading': 'Misleading', 'unverified': 'Unverified', 'false': 'False', 'pending': 'Not yet checked' };
+  var VLABEL = { 'confirmed': 'Confirmed', 'mostly-accurate': 'Mostly Accurate', 'partly-accurate': 'Partly Accurate',
+    'misleading': 'Misleading', 'unverified': 'Unverified', 'false': 'False', 'pending': 'Not Yet Checked' };
   var VGROUP = { 'confirmed': 'hold', 'mostly-accurate': 'hold', 'partly-accurate': 'part', 'misleading': 'wrong',
     'unverified': 'unp', 'false': 'wrong', 'pending': 'unp' };
   var VMEANS = {
@@ -26,21 +26,21 @@
     'unverified': 'An allegation that could not be independently corroborated. It is neither confirmed nor refuted.',
     'false': 'The record contradicts the claim.'
   };
-  var TLABEL = { person: 'Person', company: 'Company', government: 'Government body', fund: 'Fund', asset: 'Asset or token',
-    country: 'Country', law: 'Law or policy', media: 'News outlet', event: 'Event', product: 'Product' };
+  var TLABEL = { person: 'Person', company: 'Company', government: 'Government Body', fund: 'Fund', asset: 'Asset or Token',
+    country: 'Country', law: 'Law or Policy', media: 'News Outlet', event: 'Event', product: 'Product' };
   var GROUPS = ['person', 'org', 'gov', 'other'];
   var GROUP_OF = { person: 'person', company: 'org', fund: 'org', government: 'gov', country: 'gov' };
-  var GLABEL = { person: 'People', org: 'Companies and funds', gov: 'Governments and countries', other: 'Other names' };
+  var GLABEL = { person: 'People', org: 'Companies & Funds', gov: 'Governments & Countries', other: 'Other Names' };
   var GNOTE = { other: 'Assets, products, laws, events and news outlets' };
-  var RLABEL = { money: 'Money', ownership: 'Ownership', family: 'Family', regulatory: 'Regulation', advisory: 'Advice and roles',
-    political: 'Politics', legal: 'Legal action', media: 'Reporting and statements', commercial: 'Business deals' };
+  var RLABEL = { money: 'Money', ownership: 'Ownership', family: 'Family', regulatory: 'Regulation', advisory: 'Advice & Roles',
+    political: 'Politics', legal: 'Legal Action', media: 'Reporting & Statements', commercial: 'Business Deals' };
   var RTYPES = ['money', 'ownership', 'commercial', 'advisory', 'regulatory', 'legal', 'political', 'family', 'media'];
   var GRADE = {
     'documented': ['Documented', 'Filings, official records or several outlets.'],
-    'single-source': ['Single-source', 'One outlet, or anonymous sourcing.'],
+    'single-source': ['Single-Source', 'One outlet, or anonymous sourcing.'],
     'inferred': ['Inferred', 'Our own observation from timing or co-occurrence. No source asserts it.'],
-    'mixed': ['Mixed grades', 'Part of this connection is documented and part is single-source or inferred. The detail says which.'],
-    'none-found': ['Nothing found', 'We looked for this connection and found no source for it.']
+    'mixed': ['Mixed Grades', 'Part of this connection is documented and part is single-source or inferred. The detail says which.'],
+    'none-found': ['Nothing Found', 'We looked for this connection and found no source for it.']
   };
 
   // ------------------------------------------------------------------ data
@@ -70,7 +70,7 @@
   });
   var loose = claims.filter(function (c) { return !c.topicRef; });
   if (loose.length) {   // data without topics: everything still gets listed
-    var other = { id: 'other', name: TOPICS.length ? 'Other checks' : 'All checks', description: '', list: loose };
+    var other = { id: 'other', name: TOPICS.length ? 'Other Checks' : 'All Checks', description: '', list: loose };
     loose.forEach(function (c) { c.topicRef = other; });
     TOPICS.push(other); topicById.set(other.id, other);
   }
@@ -162,7 +162,7 @@
   }
 
   // names for items: the interface never shows the internal codes
-  function claimLabel(c) { return c.ctype === 'connection' ? 'Connection check' : 'Check'; }
+  function claimLabel(c) { return c.ctype === 'connection' ? 'Connection Check' : 'Check'; }
   function originText(c) { return claimLabel(c) + (c.topicRef ? ' · ' + c.topicRef.name : ''); }
   function claimHref(c) { return '#' + c.id; }
   function entHref(e) { return '#name-' + e.id; }
@@ -188,7 +188,7 @@
     });
   }
   function isUnv(c) { return c.verdict === 'unverified'; }
-  function unvText(c) { return c.single_source ? 'Unverified, single source' : 'Unverified allegation'; }
+  function unvText(c) { return c.single_source ? 'Unverified, Single Source' : 'Unverified Allegation'; }
 
   // ------------------------------------------------------------------ marks
   /* Each verdict has its own shape, so the meaning never rests on colour alone. */
@@ -205,7 +205,7 @@
   }
   function verdict(v) { return '<span class="v v-' + VGROUP[v] + '">' + mark(v) + esc(VLABEL[v]) + '</span>'; }
   function flag(c) { return '<span class="flag">' + mark('unverified') + esc(unvText(c)) + '</span>'; }
-  function allegedFlag() { return '<span class="flag">' + mark('unverified') + 'Alleged, unverified</span>'; }
+  function allegedFlag() { return '<span class="flag">' + mark('unverified') + 'Alleged, Unverified</span>'; }
   /* The mark for a name: round for people, square for everything else, coloured by kind. */
   function kmark(n, big) {
     if (n.kind === 'claim') return '<span class="v-' + VGROUP[n.verdict] + ' kmark-v">' + mark(n.verdict) + '</span>';
@@ -221,7 +221,7 @@
     }).join('') + '</svg>';
     if (bare) return '<span class="grade g-' + kind + '"><span class="glab">' + svg + g[0] + '</span></span>';
     var extra = text && text.toLowerCase() !== g[0].toLowerCase() ? ' <span class="gtext">' + rich(text) + '</span>' : '';
-    return '<p class="grade g-' + kind + '" title="' + esc(g[1]) + '"><span class="glab">' + svg + 'Evidence: ' + g[0].toLowerCase() + '</span>' + extra + '</p>';
+    return '<p class="grade g-' + kind + '" title="' + esc(g[1]) + '"><span class="glab">' + svg + 'Evidence: ' + g[0] + '</span>' + extra + '</p>';
   }
   /* Tally bar: the pattern carries the meaning as well as the colour. */
   function bar(t, cls) {
@@ -317,14 +317,14 @@
     var h = '<div data-foldbox><' + tag + ' class="' + (cls || '') + '">' + items.map(function (x, i) {
       return i >= limit ? x.replace(/^<(\w+)/, '<$1 hidden data-fold') : x;
     }).join('') + '</' + tag + '>';
-    if (items.length > limit) h += '<button class="more" type="button" data-unfold>Show all ' + num(items.length) + ' ' + what + '</button>';
+    if (items.length > limit) h += '<button class="more" type="button" data-unfold>Show All ' + num(items.length) + ' ' + what + '</button>';
     return h + '</div>';
   }
   function claimRow(c, opts) {
     opts = opts || {};
     var unv = isUnv(c), meta = tallyText(c), fixes = arr(c.corrections).length;
     if (fixes) meta += (meta ? ' · ' : '') + plural(fixes, 'correction');
-    if (c.ctype === 'connection' && !opts.kind) meta = 'Connection check' + (meta ? ' · ' + meta : '');
+    if (c.ctype === 'connection' && !opts.kind) meta = 'Connection Check' + (meta ? ' · ' + meta : '');
     return '<li class="row' + (unv ? ' unv' : '') + (opts.short ? ' short' : '') + '">' +
       (opts.kind ? '<span class="n kind">' + esc(opts.kind === 'topic' ? originText(c) : claimLabel(c)) + '</span>' : '') +
       '<a class="t" href="' + claimHref(c) + '">' + esc(c.title) + '</a>' +
@@ -395,7 +395,7 @@
     });
     var el = document.createElement('div'); el.className = 'fig';
     el.innerHTML = '<svg viewBox="0 0 ' + W + ' ' + H + '" role="group" aria-label="Diagram of connections">' + s + '</svg>' +
-      '<p class="figkey"><span>' + kmark({ group: 'person' }) + 'People</span><span>' + kmark({ group: 'org' }) + 'Organisations and other names</span>' + (edges.some(function (ed) { return ed[2]; }) ? '<span><span class="dashkey" aria-hidden="true"></span>Alleged, unverified</span>' : '') + '</p>' +
+      '<p class="figkey"><span>' + kmark({ group: 'person' }) + 'People</span><span>' + kmark({ group: 'org' }) + 'Organisations & Other Names</span>' + (edges.some(function (ed) { return ed[2]; }) ? '<span><span class="dashkey" aria-hidden="true"></span>Alleged, Unverified</span>' : '') + '</p>' +
       '<div class="figcap" aria-live="polite">' + idle + '</div>';
     var capEl = el.querySelector('.figcap');
     function pick(key) {
@@ -417,7 +417,7 @@
   function capLines(list, e) {
     return '<ul>' + list.slice(0, 4).map(function (r) { return '<li>' + sentenceFull(r, function (x, s) { return esc(s ? shortName(x) : x.name); }) + (r.date ? ' <span class="muted">(' + esc(fdate(r.date)) + ')</span>' : '') + (r.alleged ? ' ' + allegedFlag() : '') + '</li>'; }).join('') + '</ul>' +
       (list.length > 4 ? '<p class="muted small">And ' + (list.length - 4) + ' more on the profile.</p>' : '') +
-      '<a class="go" href="' + entHref(e) + '">Open the profile of ' + esc(shortName(e)) + '</a>';
+      '<a class="go" href="' + entHref(e) + '">Open the Profile of ' + esc(shortName(e)) + '</a>';
   }
 
   // ------------------------------------------------------------------ home
@@ -439,7 +439,7 @@
 
     var h = '<div class="hero"><div class="hero-text">' +
       '<p class="kicker">Donald Trump, his family, his cabinet and his administration</p>' +
-      '<h1 tabindex="-1">Look into the money, the deals and the connections around the President.</h1>' +
+      '<h1 tabindex="-1">Look into the Money, the Deals &amp; the Connections Around the President</h1>' +
       '<p class="lede">This tool covers Donald Trump, his family, administration officials and their business, financial and political connections. It holds ' +
       nc + ' checks of claims against the public record, ' + num(entities.length) + ' people and organisations, and ' + num(rels.length) + ' documented relationships between them. ' +
       cap(listParts(tallyParts)) + '.</p>' +
@@ -448,26 +448,26 @@
       '<input id="home-search" type="search" placeholder="' + (narrow.matches ? 'Search a name or a topic' : 'Search a person, a company or a topic') + '" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="home-results" aria-autocomplete="list">' +
       '<ul class="results" id="home-results" role="listbox" hidden></ul></div>' +
       (examples.length ? '<p class="try">Try ' + listParts(examples.map(function (e) { return entLink(e, true); })).replace(' and ', ' or ') + '.</p>' : '') +
-      '<p class="startrow"><a class="btn" href="#topics">' + plural(TOPICS.length, 'topic') + '</a><a class="btn" href="#who">Who is involved</a><a class="btn" href="#map">The map</a></p>' +
+      '<p class="startrow"><a class="btn" href="#topics">' + plural(TOPICS.length, 'Topic') + '</a><a class="btn" href="#who">Who Is Involved</a><a class="btn" href="#map">The Map</a></p>' +
       '</div>' +
       '<a class="mapcard" href="#map" aria-label="Explore the full map of ' + num(entities.length) + ' names and ' + nc + ' checks">' +
       '<canvas id="preview" aria-hidden="true"></canvas>' +
-      '<span class="mapcard-foot"><span><strong>Everything on one map</strong><span class="muted">' + num(entities.length) + ' names in the middle, ' + nc + ' checks around the ring by topic, and the documented links between them</span></span><span class="btn primary">Explore the full map</span></span></a>' +
+      '<span class="mapcard-foot"><span><strong>Everything on One Map</strong><span class="muted">' + num(entities.length) + ' names in the middle, ' + nc + ' checks around the ring by topic, and the documented links between them</span></span><span class="btn primary">Explore the Full Map</span></span></a>' +
       '</div>';
 
     h += '<section class="answer" aria-label="What the checks found">' +
       '<p class="answer-head">Each check was split into separate points and tested against news reports, filings and official records. This is how all ' + num(p.total) + ' points came out.</p>' +
       bar([p.hold, p.correct, p.unproven]) +
       '<div class="answer-cols">' +
-      '<div><h2 class="v-hold">' + mark('hold') + 'What holds up</h2><p class="num">' + num(p.hold) + ' <span>of ' + num(p.total) + ' points</span></p><p class="small">About ' + share + ' in 10 points are confirmed or mostly accurate.</p></div>' +
-      '<div><h2 class="v-part">' + mark('part') + 'What needed correcting</h2><p class="num">' + num(p.correct) + ' <span>points</span></p><p class="small">These are partly right, misleading or wrong. We also list ' + num(META.corrections) + ' specific corrections to figures, dates and wording.</p></div>' +
-      '<div><h2 class="v-unp">' + mark('unp') + 'What is unproven</h2><p class="num">' + num(p.unproven) + ' <span>points</span></p><p class="small">Above all, no check shows that a payment bought an official act.' + (unvItems.length ? ' ' + cap(word(unvItems.length)) + ' ' + (unvItems.length === 1 ? 'check rests' : 'checks rest') + ' on a single source.' : '') + '</p></div>' +
+      '<div><h2 class="v-hold">' + mark('hold') + 'What Holds Up</h2><p class="num">' + num(p.hold) + ' <span>of ' + num(p.total) + ' points</span></p><p class="small">About ' + share + ' in 10 points are confirmed or mostly accurate.</p></div>' +
+      '<div><h2 class="v-part">' + mark('part') + 'What Needed Correcting</h2><p class="num">' + num(p.correct) + ' <span>points</span></p><p class="small">These are partly right, misleading or wrong. We also list ' + num(META.corrections) + ' specific corrections to figures, dates and wording.</p></div>' +
+      '<div><h2 class="v-unp">' + mark('unp') + 'What Is Unproven</h2><p class="num">' + num(p.unproven) + ' <span>points</span></p><p class="small">Above all, no check shows that a payment bought an official act.' + (unvItems.length ? ' ' + cap(word(unvItems.length)) + ' ' + (unvItems.length === 1 ? 'check rests' : 'checks rest') + ' on a single source.' : '') + '</p></div>' +
       '</div></section>' + NOTE;
 
     // who is involved: a few names per group, from build.py
     var who = arr(META.who).map(function (g) { return { title: g.title, total: g.total, list: arr(g.names).map(function (id) { return byKey.get('e:' + id); }).filter(Boolean) }; }).filter(function (g) { return g.list.length; });
-    if (!who.length) who = [{ title: 'Named most often', list: entities.filter(function (e) { return e.type !== 'media'; }).sort(function (a, b) { return b.cl.length - a.cl.length; }).slice(0, 8) }];
-    h += '<section class="sec" id="who"><h2>Who is involved</h2>' +
+    if (!who.length) who = [{ title: 'Named Most Often', list: entities.filter(function (e) { return e.type !== 'media'; }).sort(function (a, b) { return b.cl.length - a.cl.length; }).slice(0, 8) }];
+    h += '<section class="sec" id="who"><h2>Who Is Involved</h2>' +
       '<p class="intro">The people and bodies named most often. Each has a profile with what the record says about them in date order, the largest sums and who they connect to.</p>' +
       '<div class="whohome">' + who.map(function (g) {
         return '<div class="whocol"><h3>' + esc(g.title) + '</h3><ul>' + g.list.map(function (e) {
@@ -475,13 +475,13 @@
         }).join('') + '</ul></div>';
       }).join('') + '</div>' +
       '<p class="small muted whokey">The number is how many checks name them.</p>' +
-      '<p class="after"><a class="btn" href="#names">Browse all ' + num(entities.length) + ' people and organisations</a></p></section>';
+      '<p class="after"><a class="btn" href="#names">Browse All ' + num(entities.length) + ' People & Organisations</a></p></section>';
 
     // the checks, by topic
-    h += '<section class="sec" id="topics"><h2>' + nc + ' checks, in ' + word(TOPICS.length) + ' topics</h2>' +
+    h += '<section class="sec" id="topics"><h2>' + nc + ' Checks in ' + cap(word(TOPICS.length)) + ' Topics</h2>' +
       '<p class="intro">Each check takes a claim in public circulation, or a question that came out of an earlier check, and tests it. It opens a page with the bottom line, what holds up, what needs correcting, what is unproven, the other side and the sources. Connection checks look for the same people and firms recurring across several checks, and grade the evidence for each link.</p>' +
       (unvItems.length ? '<p class="callout">' + mark('unverified') + '<span><strong>' + cap(word(unvItems.length)) + ' ' + (unvItems.length === 1 ? 'check is an unverified allegation' : 'checks are unverified allegations') + ' from a single source,</strong> denied by everyone named: ' + listParts(unvItems.map(function (c) { return claimLink(c); })) + '. Read them as a record of what has been alleged, not as findings.</span></p>' : '') +
-      '<div class="topicwrap"><nav class="topicnav" aria-label="Topics"><p class="lab">Jump to a topic</p><ul>' +
+      '<div class="topicwrap"><nav class="topicnav" aria-label="Topics"><p class="lab">Jump to a Topic</p><ul>' +
       TOPICS.map(function (t) { return '<li><a href="' + topicHref(t) + '"><span>' + esc(t.name) + '</span><span class="cnt">' + t.list.length + '</span></a></li>'; }).join('') + '</ul></nav><div class="topiclist">';
     TOPICS.forEach(function (t) {
       var th = 0, tp = 0, tu = 0;
@@ -493,7 +493,7 @@
         (t.description ? '<p class="desc">' + esc(t.description) + '</p>' : '') +
         '<p class="small muted">' + plural(t.list.length, 'check') + ': ' + sum.join(', ') + '.' +
         (t.id !== 'other' && RING ? ' <a href="#map-topic-' + esc(t.id) + '">Show this topic on the map</a>' : '') + '</p></div>' +
-        (narrow.matches ? fold(t.list.map(function (c) { return claimRow(c); }), 5, 'checks in this topic', 'ul', 'rows') : '<ul class="rows">' + t.list.map(function (c) { return claimRow(c); }).join('') + '</ul>') + '</section>';
+        (narrow.matches ? fold(t.list.map(function (c) { return claimRow(c); }), 5, 'Checks in This Topic', 'ul', 'rows') : '<ul class="rows">' + t.list.map(function (c) { return claimRow(c); }).join('') + '</ul>') + '</section>';
     });
     h += '</div></div></section>';
     page.innerHTML = h;
@@ -525,7 +525,7 @@
     return '<div class="item"><p class="st v-' + g + '">' + mark(s.verdict) + '<span>' + rich(s.statement) + tag + '</span></p>' +
       (s.grade_kind ? gradeMark(s.grade_kind, s.grade) : '') +
       (pts.length ? '<p class="fi">' + rich(pts[0]) + '</p>' : '') +
-      (rest.length || src.length ? '<details><summary>More detail' + (src.length ? ' and ' + plural(src.length, 'source') : '') + '</summary><ul>' + rest.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') +
+      (rest.length || src.length ? '<details><summary>More Detail' + (src.length ? ' & ' + plural(src.length, 'Source') : '') + '</summary><ul>' + rest.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') +
         (arr(s.amounts).length ? '<li class="muted">Amounts mentioned: ' + esc(s.amounts.join('; ')) + '</li>' : '') +
         (src.length ? '<li class="muted">Sources: ' + src.join(', ') + '</li>' : '') + '</ul></details>' : '') + '</div>';
   }
@@ -534,101 +534,101 @@
   }
   function claimPage(c) {
     var subs = arr(c.sub_claims), t = c.tally || [0, 0, 0], topic = c.topicRef;
-    var h = '<p class="crumb"><a href="#topics">All checks</a>' + (topic && topic.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + topicHref(topic) + '">' + esc(topic.name) + '</a>' : '') + '</p><article class="article"><div class="lead">' +
+    var h = '<p class="crumb"><a href="#topics">All Checks</a>' + (topic && topic.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + topicHref(topic) + '">' + esc(topic.name) + '</a>' : '') + '</p><article class="article"><div class="lead">' +
       '<p class="kicker">' + esc(claimLabel(c)) + '</p>' +
       '<h1 tabindex="-1">' + esc(c.title) + '</h1>';
     if (isUnv(c)) h += '<p class="flagbox"><strong>' + mark('unverified') + esc(unvText(c)) + '.</strong> The central allegation ' + (c.single_source ? 'rests on one source and ' : '') + 'has not been corroborated. Everyone named denies it. Read this page as a record of what has been alleged and what is known about the allegation, not as a finding that it happened.</p>';
     var cp = arr(c.question_points).map(cap);
     if (!cp.length) cp = [c.title];
-    h += '<div class="said"><p class="lab">The claim</p>' +
+    h += '<div class="said"><p class="lab">The Claim</p>' +
       (cp.length > 2 ? '<ul>' + cp.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>' : '<p>' + rich(cp.join(' ')) + '</p>') + '</div>';
     h += '<div class="verdict">' + verdict(c.verdict) + '<span class="muted small">' + esc(CONF[c.confidence] || '') +
       (c.audit && AUDIT[c.audit.result] ? (CONF[c.confidence] ? '. ' : '') + 'A second review ' + AUDIT[c.audit.result] + '.' : '') + '</span></div>';
-    h += '<h2 class="sr">Bottom line</h2><p class="bottom">' + rich(c.bottom_line) + '</p>';
+    h += '<h2 class="sr">Bottom Line</h2><p class="bottom">' + rich(c.bottom_line) + '</p>';
     if (arr(c.bottom_parts).length) h += '<ul class="plain">' + c.bottom_parts.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>';
     if (arr(c.summary_points).length) h += '<ul class="plain more-points">' + c.summary_points.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>';
     h += '</div>';
 
     var holds = arr(c.holds_up), fixes = arr(c.needs_correcting), unp = arr(c.unproven);
     var nUnpSubs = unp.filter(function (u) { return u.sub != null && !u.note; }).length;
-    h += '<aside class="aside"><div class="block"><h2>At a glance</h2>' + bar(t) + '<ul class="glance">' +
+    h += '<aside class="aside"><div class="block"><h2>At a Glance</h2>' + bar(t) + '<ul class="glance">' +
       '<li class="v-hold">' + mark('hold') + '<span><b>' + t[0] + '</b> of ' + (t[0] + t[1] + t[2]) + ' points hold up</span></li>' +
       '<li class="v-part">' + mark('part') + '<span><b>' + t[1] + '</b> needed correcting' + (arr(c.corrections).length ? ', plus <b>' + c.corrections.length + '</b> ' + (c.corrections.length === 1 ? 'correction' : 'corrections') + ' to how it is usually told' : '') + '</span></li>' +
       '<li class="v-unp">' + mark('unp') + '<span><b>' + t[2] + '</b> unproven' + (unp.length > nUnpSubs ? ', plus <b>' + (unp.length - nUnpSubs) + '</b> ' + (unp.length - nUnpSubs === 1 ? 'caveat' : 'caveats') : '') + '</span></li></ul></div>' +
-      '<div class="block"><h2>On this page</h2><ul class="toc">' +
-      [['holds', 'What holds up'], ['fixes', 'What needs correcting'], ['unproven', 'What is unproven'], ['other', 'The other side'], ['who', 'Who is involved'], ['sources', 'Sources'], ['review', 'Second review'], ['report', 'Full report']].map(function (x) { return '<li><button type="button" class="linkbtn" data-jump="' + x[0] + '">' + x[1] + '</button></li>'; }).join('') + '</ul></div>' +
-      '<div class="block"><a class="btn" href="' + mapHref(c) + '">' + MAPICON + 'Show on map</a></div></aside>';
+      '<div class="block"><h2>On This Page</h2><ul class="toc">' +
+      [['holds', 'What Holds Up'], ['fixes', 'What Needs Correcting'], ['unproven', 'What Is Unproven'], ['other', 'The Other Side'], ['who', 'Who Is Involved'], ['sources', 'Sources'], ['review', 'Second Review'], ['report', 'Full Report']].map(function (x) { return '<li><button type="button" class="linkbtn" data-jump="' + x[0] + '">' + x[1] + '</button></li>'; }).join('') + '</ul></div>' +
+      '<div class="block"><a class="btn" href="' + mapHref(c) + '">' + MAPICON + 'Show on Map</a></div></aside>';
 
     h += '<div class="body">';
     // what holds up
-    h += '<section>' + secHead('holds', 'hold', 'v-hold', 'What holds up', plural(holds.length, 'point')) +
-      (holds.length ? fold(holds.map(function (x) { return subItem(c, subs[x.sub]); }), 12, 'points', 'div') : '<p class="sub">No point in this check is confirmed or mostly accurate.</p>') + '</section>';
+    h += '<section>' + secHead('holds', 'hold', 'v-hold', 'What Holds Up', plural(holds.length, 'Point')) +
+      (holds.length ? fold(holds.map(function (x) { return subItem(c, subs[x.sub]); }), 12, 'Points', 'div') : '<p class="sub">No point in this check is confirmed or mostly accurate.</p>') + '</section>';
     // what needs correcting
-    h += '<section>' + secHead('fixes', 'part', 'v-part', 'What needs correcting', plural(fixes.length, 'point'));
+    h += '<section>' + secHead('fixes', 'part', 'v-part', 'What Needs Correcting', plural(fixes.length, 'Point'));
     if (!fixes.length) h += '<p class="sub">Nothing in this check needed correcting.</p>';
     else {
       var fx = fixes.filter(function (x) { return x.fix != null; }).map(function (x) {
         var pr = arr(c.correction_pairs)[x.fix], text = c.corrections[x.fix];
-        if (pr) return '<div class="fix"><p><span class="lab">Claimed</span>' + rich(pr.said) + '</p><p class="rec"><span class="lab">The record shows</span>' + rich(cap(pr.record)) + '</p></div>';
+        if (pr) return '<div class="fix"><p><span class="lab">Claimed</span>' + rich(pr.said) + '</p><p class="rec"><span class="lab">The Record Shows</span>' + rich(cap(pr.record)) + '</p></div>';
         return '<div class="fix one"><p class="rec"><span class="lab">Correction</span>' + rich(text) + '</p></div>';
       });
       var fs = fixes.filter(function (x) { return x.sub != null; }).map(function (x) { return subItem(c, subs[x.sub]); });
-      h += fold(fx.concat(fs), 12, 'corrections', 'div');
+      h += fold(fx.concat(fs), 12, 'Corrections', 'div');
     }
     h += '</section>';
     // what is unproven
-    h += '<section>' + secHead('unproven', 'unp', 'v-unp', 'What is unproven', plural(unp.length, 'point'));
+    h += '<section>' + secHead('unproven', 'unp', 'v-unp', 'What Is Unproven', plural(unp.length, 'Point'));
     if (!unp.length) h += '<p class="sub">Nothing in this check was left unproven.</p>';
     else h += fold(unp.map(function (x) {
       if (!x.note) return subItem(c, subs[x.sub]);
       var about = x.sub != null && subs[x.sub] ? '<p class="fi small muted">A caveat on the point “' + rich(trunc(subs[x.sub].statement, 110)) + '”</p>' : '<p class="fi small muted">A caveat from the summary of this check</p>';
       return '<div class="item"><p class="st v-unp">' + mark('unp') + '<span class="plainw">' + rich(x.note) + '</span></p>' + about + '</div>';
-    }), 10, 'points', 'div');
+    }), 10, 'Points', 'div');
     h += '</section>';
     // the other side
     var den = arr(c.denial_points);
-    h += '<section>' + secHead('other', 'other', '', 'The other side', den.length ? plural(den.length, 'point') : null) +
+    h += '<section>' + secHead('other', 'other', '', 'The Other Side', den.length ? plural(den.length, 'Point') : null) +
       '<p class="sub">What the people and organisations named say, and context that cuts the other way.</p>' +
-      (den.length ? fold(den.map(function (pts) { return '<div class="item"><p>' + rich(pts[0]) + '</p>' + (pts.length > 1 ? '<ul class="plain tight">' + pts.slice(1).map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>' : '') + '</div>'; }), 10, 'points', 'div') : '<p class="sub">No response or further context is recorded for this check.</p>') + '</section>';
+      (den.length ? fold(den.map(function (pts) { return '<div class="item"><p>' + rich(pts[0]) + '</p>' + (pts.length > 1 ? '<ul class="plain tight">' + pts.slice(1).map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>' : '') + '</div>'; }), 10, 'Points', 'div') : '<p class="sub">No response or further context is recorded for this check.</p>') + '</section>';
     // who is involved
     var crels = rels.filter(function (r) { return r.claims.indexOf(c.id) >= 0; }), deg = new Map();
     crels.forEach(function (r) { deg.set(r.S, (deg.get(r.S) || 0) + 1); deg.set(r.T, (deg.get(r.T) || 0) + 1); });
     var ents = c.ents.slice().sort(function (a, b) { return (deg.get(b) || 0) - (deg.get(a) || 0) || b.cl.length - a.cl.length || a.name.localeCompare(b.name); });
-    h += '<section>' + secHead('who', null, '', 'Who is involved', plural(ents.length, 'name')) + '<div class="whogrid"><div id="figblock"></div><div class="wholists">';
+    h += '<section>' + secHead('who', null, '', 'Who Is Involved', plural(ents.length, 'Name')) + '<div class="whogrid"><div id="figblock"></div><div class="wholists">';
     GROUPS.forEach(function (g) {
       var list = ents.filter(function (e) { return e.group === g; });
-      if (list.length) h += '<div class="whogroup"><h3>' + kmark({ group: g }) + GLABEL[g] + ' <span class="cnt">' + list.length + '</span></h3>' + fold(list.map(function (e) { return '<li>' + entLink(e) + '</li>'; }), 8, GLABEL[g].toLowerCase(), 'ul', 'inv') + '</div>';
+      if (list.length) h += '<div class="whogroup"><h3>' + kmark({ group: g }) + GLABEL[g] + ' <span class="cnt">' + list.length + '</span></h3>' + fold(list.map(function (e) { return '<li>' + entLink(e) + '</li>'; }), 8, GLABEL[g], 'ul', 'inv') + '</div>';
     });
     h += '</div></div></section>';
     // sources, grouped by publisher
     var groups = new Map();
     arr(c.sources).forEach(function (s) { var k = s.publisher || (s.url ? host(s.url) : 'Other'); if (!groups.has(k)) groups.set(k, []); groups.get(k).push(s); });
     var pubs = Array.from(groups.entries()).sort(function (a, b) { return b[1].length - a[1].length || a[0].localeCompare(b[0]); });
-    h += '<section>' + secHead('sources', null, '', 'Sources', plural(arr(c.sources).length, 'source') + ' from ' + plural(pubs.length, 'publisher')) +
+    h += '<section>' + secHead('sources', null, '', 'Sources', plural(arr(c.sources).length, 'Source') + ' from ' + plural(pubs.length, 'Publisher')) +
       (pubs.length ? fold(pubs.map(function (g) {
         return '<div class="pub"><h3>' + esc(g[0]) + '</h3><ul>' + g[1].map(function (s) { return '<li>' + extLink(s.url, esc(s.title || s.url || 'Untitled')) + (s.date ? ' <span class="muted small">' + esc(fdate(s.date)) + '</span>' : '') + '</li>'; }).join('') + '</ul></div>';
-      }), 8, 'publishers', 'div', 'pubs') : '<p class="sub">No sources are recorded for this check.</p>') + '</section>';
+      }), 8, 'Publishers', 'div', 'pubs') : '<p class="sub">No sources are recorded for this check.</p>') + '</section>';
     // second review
-    h += '<section>' + secHead('review', null, '', 'Second review', null);
+    h += '<section>' + secHead('review', null, '', 'Second Review', null);
     if (c.audit) {
       h += '<p class="sub">An independent second reviewer re-checked the most consequential assertions with fresh searches and <strong>' + esc(AUDIT[c.audit.result] || c.audit.result) + '</strong>.</p>' +
-        '<div class="review">' + (arr(c.audit.checked).length ? '<div><h3>What was re-checked</h3><ul class="plain tight">' + c.audit.checked.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul></div>' : '') +
-        (arr(c.audit.changes).length ? '<div><h3>What changed</h3><ul class="plain tight">' + c.audit.changes.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul></div>' : '') + '</div>';
+        '<div class="review">' + (arr(c.audit.checked).length ? '<div><h3>What Was Re-Checked</h3><ul class="plain tight">' + c.audit.checked.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul></div>' : '') +
+        (arr(c.audit.changes).length ? '<div><h3>What Changed</h3><ul class="plain tight">' + c.audit.changes.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul></div>' : '') + '</div>';
     } else h += '<p class="sub">This check has not had a second review.</p>';
     h += '</section>';
     // full report
-    h += '<section>' + secHead('report', null, '', 'Full report', null) +
-      (c.report ? '<details class="report" id="report-box"><summary>Read the long-form research report</summary><div class="md" id="report-body"></div></details>' : '<p class="sub">There is no long-form report for this check.</p>') + '</section>';
+    h += '<section>' + secHead('report', null, '', 'Full Report', null) +
+      (c.report ? '<details class="report" id="report-box"><summary>Read the Long-Form Research Report</summary><div class="md" id="report-body"></div></details>' : '<p class="sub">There is no long-form report for this check.</p>') + '</section>';
     // related checks
     var par = arr(c.parents).map(function (id) { return byKey.get(id); }).filter(Boolean);
     if (par.length || c.kids.length) {
-      h += '<section>' + secHead('related', null, '', 'Related checks', null);
-      if (par.length) h += '<h3 class="minor">Builds on</h3><ul class="rows shortrows">' + par.map(function (x) { return claimRow(x, { short: 1 }); }).join('') + '</ul>';
-      if (c.kids.length) h += '<h3 class="minor">Checks that build on this one</h3>' + fold(c.kids.map(function (x) { return claimRow(x, { short: 1 }); }), 5, 'checks', 'ul', 'rows shortrows');
+      h += '<section>' + secHead('related', null, '', 'Related Checks', null);
+      if (par.length) h += '<h3 class="minor">Builds On</h3><ul class="rows shortrows">' + par.map(function (x) { return claimRow(x, { short: 1 }); }).join('') + '</ul>';
+      if (c.kids.length) h += '<h3 class="minor">Checks That Build on This One</h3>' + fold(c.kids.map(function (x) { return claimRow(x, { short: 1 }); }), 5, 'Checks', 'ul', 'rows shortrows');
       h += '</section>';
     }
     var order = topic ? topic.list : claims, i = order.indexOf(c), pv = order[i - 1], nx = order[i + 1];
-    h += '<nav class="pager" aria-label="More checks in this topic">' + (pv ? '<a href="' + claimHref(pv) + '"><span>Previous in ' + esc(topic ? topic.name.toLowerCase().replace(/^trump media/, 'Trump Media') : 'the list') + '</span>' + esc(pv.title) + '</a>' : '<span></span>') + (nx ? '<a class="next" href="' + claimHref(nx) + '"><span>Next in ' + esc(topic ? topic.name.toLowerCase().replace(/^trump media/, 'Trump Media') : 'the list') + '</span>' + esc(nx.title) + '</a>' : '') + '</nav>';
+    h += '<nav class="pager" aria-label="More checks in this topic">' + (pv ? '<a href="' + claimHref(pv) + '"><span>Previous in ' + esc(topic ? topic.name : 'the List') + '</span>' + esc(pv.title) + '</a>' : '<span></span>') + (nx ? '<a class="next" href="' + claimHref(nx) + '"><span>Next in ' + esc(topic ? topic.name : 'the List') + '</span>' + esc(nx.title) + '</a>' : '') + '</nav>';
     h += '</div></article>';
     page.innerHTML = h;
 
@@ -657,48 +657,48 @@
     var lines = e.lines, cls = e.cl;
     var unv = arr(e.unverified_in).map(function (id) { return byKey.get(id); }).filter(Boolean);
     var also = arr(e.aliases).slice(0, 4);
-    var h = '<p class="crumb"><a href="#names">People and organisations</a></p><article class="article"><div class="lead">' +
+    var h = '<p class="crumb"><a href="#names">People & Organisations</a></p><article class="article"><div class="lead">' +
       '<p class="kicker">' + kmark(e, true) + esc(TLABEL[e.type]) + '</p><h1 tabindex="-1">' + esc(e.name) + '</h1>' +
       (e.role ? '<p class="bottom">' + rich(e.role) + '</p>' : '') +
       (arr(e.details).length ? '<ul class="plain more-points">' + e.details.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>' : '') +
       '<p class="facts muted">Named in ' + plural(cls.length, 'check') + ' · ' + plural(lines.length, 'documented connection') + (also.length ? ' · Also written as ' + esc(also.join(', ')) : '') + '</p>' +
-      (unv.length ? '<p class="flagbox"><strong>' + mark('unverified') + (e.unverified_only ? 'Named only in an unverified check.' : 'Also named in an unverified check.') + '</strong> ' + listParts(unv.map(function (c) { return claimLink(c); })) + (unv.length === 1 ? ' is an allegation' : ' are allegations') + ' from a single source, denied by everyone named. Lines that rest only on ' + (unv.length === 1 ? 'it' : 'them') + ' are marked “Alleged, unverified”.</p>' : '') +
+      (unv.length ? '<p class="flagbox"><strong>' + mark('unverified') + (e.unverified_only ? 'Named only in an unverified check.' : 'Also named in an unverified check.') + '</strong> ' + listParts(unv.map(function (c) { return claimLink(c); })) + (unv.length === 1 ? ' is an allegation' : ' are allegations') + ' from a single source, denied by everyone named. Lines that rest only on ' + (unv.length === 1 ? 'it' : 'them') + ' are marked “Alleged, Unverified”.</p>' : '') +
       '<p class="note"><strong>Everyone named denies wrongdoing, and nothing here is an accusation of a crime.</strong> Each line below is a documented relationship, not proof that one thing caused another.</p></div>';
 
     // aside: map link and largest sums
     var sums = arr(e.sums).map(function (i) { return relAt[i]; }).filter(function (r) { return r && r.S; });
-    h += '<aside class="aside"><div class="block"><a class="btn" href="' + mapHref(e) + '">' + MAPICON + 'Show on map</a></div>';
-    if (sums.length) h += '<div class="block"><h2>Largest sums</h2><p class="small muted">Amounts recorded on these connections. A sum is what the record states, not a judgement about it.</p><ul class="sums">' +
+    h += '<aside class="aside"><div class="block"><a class="btn" href="' + mapHref(e) + '">' + MAPICON + 'Show on Map</a></div>';
+    if (sums.length) h += '<div class="block"><h2>Largest Sums</h2><p class="small muted">Amounts recorded on these connections. A sum is what the record states, not a judgement about it.</p><ul class="sums">' +
       sums.map(function (r) { return '<li><b>' + esc(money(r.amount_usd)) + '</b><span>' + sentenceFull(r) + '</span><span class="small muted">' + relMeta(r) + '</span></li>'; }).join('') + '</ul></div>';
-    if (arr(e.more).length) h += '<div class="block"><h2>How other checks describe ' + (e.group === 'person' ? 'them' : 'it') + '</h2><ul class="plain tight small">' + e.more.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul></div>';
+    if (arr(e.more).length) h += '<div class="block"><h2>How Other Checks Describe ' + (e.group === 'person' ? 'Them' : 'It') + '</h2><ul class="plain tight small">' + e.more.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul></div>';
     h += '</aside><div class="body">';
 
     // closest connections
     var cnt = new Map();
     lines.forEach(function (r) { var o = r.S === e ? r.T : r.S; cnt.set(o, (cnt.get(o) || 0) + r.claims.length + 1); });
     var near = Array.from(cnt.keys()).sort(function (a, b) { return cnt.get(b) - cnt.get(a) || b.cl.length - a.cl.length; }).slice(0, 8);
-    if (near.length) h += '<section>' + secHead('closest', null, '', 'Closest connections', null) + '<p class="sub">The names most often linked to ' + esc(shortName(e)) + '. Select one to see what links them, then open its profile.</p><div id="figblock" class="figwide"></div></section>';
+    if (near.length) h += '<section>' + secHead('closest', null, '', 'Closest Connections', null) + '<p class="sub">The names most often linked to ' + esc(shortName(e)) + '. Select one to see what links them, then open its profile.</p><div id="figblock" class="figwide"></div></section>';
 
     // in date order
     var tl = arr(e.timeline).map(function (i) { return relAt[i]; }).filter(function (r) { return r && r.S; });
-    if (tl.length) h += '<section>' + secHead('timeline', null, '', 'In date order', plural(tl.length, 'dated event')) + '<p class="sub">What the record shows, earliest first. Each line comes from one of the checks.</p>' +
-      fold(tl.map(function (r) { return '<li' + (r.alleged ? ' class="alleged"' : '') + '><span class="when">' + esc(fdate(String(r.date).split('/')[0])) + '</span><div><p>' + sentenceFrom(r, e) + '</p><p class="who">' + (r.alleged ? allegedFlag() + ' ' : '') + refs(r.claims) + '</p></div></li>'; }), 8, 'dated events', 'ol', 'tl') + '</section>';
+    if (tl.length) h += '<section>' + secHead('timeline', null, '', 'In Date Order', plural(tl.length, 'Dated Event')) + '<p class="sub">What the record shows, earliest first. Each line comes from one of the checks.</p>' +
+      fold(tl.map(function (r) { return '<li' + (r.alleged ? ' class="alleged"' : '') + '><span class="when">' + esc(fdate(String(r.date).split('/')[0])) + '</span><div><p>' + sentenceFrom(r, e) + '</p><p class="who">' + (r.alleged ? allegedFlag() + ' ' : '') + refs(r.claims) + '</p></div></li>'; }), 8, 'Dated Events', 'ol', 'tl') + '</section>';
 
     // connections by type
     if (lines.length) {
-      h += '<section>' + secHead('links', null, '', 'Connections, by kind', plural(lines.length, 'line')) + '<p class="sub">Where several checks record the same relationship, it is listed once with every check it comes from.</p>';
+      h += '<section>' + secHead('links', null, '', 'Connections by Kind', plural(lines.length, 'Line')) + '<p class="sub">Where several checks record the same relationship, it is listed once with every check it comes from.</p>';
       RTYPES.concat(Array.from(new Set(lines.map(function (r) { return r.type; }))).filter(function (t) { return RTYPES.indexOf(t) < 0; })).forEach(function (t) {
         var grp = lines.filter(function (r) { return r.type === t; });
         if (!grp.length) return;
         grp.sort(function (a, b) { return (a.alleged ? 1 : 0) - (b.alleged ? 1 : 0) || b.claims.length - a.claims.length || String(a.date || '9').localeCompare(String(b.date || '9')); });
         h += '<div class="relgroup"><h3>' + esc(RLABEL[t] || cap(t)) + ' <span class="cnt">' + grp.length + '</span></h3>' +
-          fold(grp.map(function (r) { return '<li' + (r.alleged ? ' class="alleged"' : '') + '><p>' + sentenceFrom(r, e) + '</p><p class="who">' + relMeta(r) + '</p></li>'; }), 6, 'lines', 'ul', 'rel') + '</div>';
+          fold(grp.map(function (r) { return '<li' + (r.alleged ? ' class="alleged"' : '') + '><p>' + sentenceFrom(r, e) + '</p><p class="who">' + relMeta(r) + '</p></li>'; }), 6, 'Lines', 'ul', 'rel') + '</div>';
       });
       h += '</section>';
     }
     // claims that mention the name
-    h += '<section>' + secHead('in', null, '', 'Checks that name ' + esc(shortName(e)), cls.length) +
-      (cls.length ? fold(cls.map(function (c) { return claimRow(c, { short: 1, kind: 'topic' }); }), 8, 'checks', 'ul', 'rows shortrows named') : '<p class="sub">No check names this directly. It appears only through a connection.</p>') + '</section>';
+    h += '<section>' + secHead('in', null, '', 'Checks That Name ' + esc(shortName(e)), cls.length) +
+      (cls.length ? fold(cls.map(function (c) { return claimRow(c, { short: 1, kind: 'topic' }); }), 8, 'Checks', 'ul', 'rows shortrows named') : '<p class="sub">No check names this directly. It appears only through a connection.</p>') + '</section>';
     h += '</div></article>';
     page.innerHTML = h;
 
@@ -716,13 +716,13 @@
   function browsePage() {
     var counts = {};
     entities.forEach(function (e) { counts[e.group] = (counts[e.group] || 0) + 1; });
-    page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">People and organisations</h1>' +
+    page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">People & Organisations</h1>' +
       '<p class="lede">' + num(entities.length) + ' names appear in the checks. Each has a profile with its connections, a timeline and the checks that mention it.</p></div>' + NOTE +
       '<div class="tabs" role="tablist" aria-label="Kind of name">' + GROUPS.map(function (g) {
         return '<button type="button" role="tab" id="tab-' + g + '" data-group="' + g + '" aria-selected="' + (g === browse.group) + '">' + kmark({ group: g }) + GLABEL[g] + ' <span class="cnt">' + num(counts[g] || 0) + '</span></button>';
       }).join('') + '</div>' +
-      '<div class="browsebar"><label class="field"><span class="sr">Filter this list</span><input id="browse-q" type="search" placeholder="Filter this list by name or description" autocomplete="off" value="' + esc(browse.q) + '"></label>' +
-      '<label class="field sortf"><span>Sort by</span><select id="browse-sort"><option value="claims">Most checks</option><option value="links">Most connections</option><option value="az">Name, A to Z</option></select></label></div>' +
+      '<div class="browsebar"><label class="field"><span class="sr">Filter This List</span><input id="browse-q" type="search" placeholder="Filter this list by name or description" autocomplete="off" value="' + esc(browse.q) + '"></label>' +
+      '<label class="field sortf"><span>Sort By</span><select id="browse-sort"><option value="claims">Most Checks</option><option value="links">Most Connections</option><option value="az">Name, A to Z</option></select></label></div>' +
       '<p class="small muted" id="browse-msg" role="status"></p><div id="browse-list"></div>';
     $('browse-sort').value = browse.sort;
     function draw() {
@@ -731,9 +731,9 @@
       list.sort(browse.sort === 'az' ? function (a, b) { return a.name.localeCompare(b.name); } : browse.sort === 'links' ? function (a, b) { return b.lines.length - a.lines.length || a.name.localeCompare(b.name); } : function (a, b) { return b.cl.length - a.cl.length || b.lines.length - a.lines.length || a.name.localeCompare(b.name); });
       $('browse-msg').textContent = (GNOTE[browse.group] ? GNOTE[browse.group] + '. ' : '') + (q ? plural(list.length, 'name') + ' match “' + browse.q.trim() + '”.' : '');
       $('browse-list').innerHTML = list.length ? '<ul class="people">' + list.slice(0, browse.shown).map(function (e) {
-        return '<li>' + kmark(e, true) + '<div class="who-main"><a class="t" href="' + entHref(e) + '">' + esc(e.name) + '</a>' + (e.unverified_only ? ' ' + '<span class="flag">' + mark('unverified') + 'Named only in an unverified check</span>' : '') +
+        return '<li>' + kmark(e, true) + '<div class="who-main"><a class="t" href="' + entHref(e) + '">' + esc(e.name) + '</a>' + (e.unverified_only ? ' ' + '<span class="flag">' + mark('unverified') + 'Named Only in an Unverified Check</span>' : '') +
           '<p class="line">' + esc(trunc(e.role || TLABEL[e.type], 150)) + '</p></div><span class="cnt">' + plural(e.cl.length, 'check') + '<br><span class="muted">' + plural(e.lines.length, 'connection') + '</span></span></li>';
-      }).join('') + '</ul>' + (list.length > browse.shown ? '<button class="more" type="button" id="browse-more">Show ' + Math.min(120, list.length - browse.shown) + ' more of ' + num(list.length) + '</button>' : '') :
+      }).join('') + '</ul>' + (list.length > browse.shown ? '<button class="more" type="button" id="browse-more">Show ' + Math.min(120, list.length - browse.shown) + ' More of ' + num(list.length) + '</button>' : '') :
         '<p class="sub">No name in this list matches. Try another tab or the search at the top of the page.</p>';
       var more = $('browse-more'); if (more) more.addEventListener('click', function () { browse.shown += 120; draw(); });
       page.querySelectorAll('.tabs [role=tab]').forEach(function (b) { var on = b.getAttribute('data-group') === browse.group; b.setAttribute('aria-selected', String(on)); b.tabIndex = on ? 0 : -1; });
@@ -760,20 +760,20 @@
       return '<li><span class="dt">' + gradeMark(k, '', true) + '</span><span class="dd">' + GRADE[k][1] + '</span></li>';
     }).join('');
     var nCheck = claims.filter(function (c) { return c.ctype !== 'connection'; }).length, nConn = claims.length - nCheck;
-    page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">How we checked</h1>' +
+    page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">How We Checked</h1>' +
       '<p class="lede">This is a verification project, not an accusation. It takes claims about the business, financial and political dealings of Donald Trump, his family and his administration, and tests each one against the public record.</p></div>' + NOTE +
-      '<section class="sec"><h2>What is in it</h2><ul class="stats">' +
+      '<section class="sec"><h2>What Is in It</h2><ul class="stats">' +
       [[nCheck, 'checks of claims and of the questions they raised'], [nConn, 'connection checks across several checks'], [TOPICS.length, 'topics'],
         [(META.points || {}).total, 'individual points checked'], [META.sources, 'sources cited'], [entities.length, 'people, organisations and other names mapped']].map(function (x) { return '<li><b>' + num(x[0]) + '</b><span>' + x[1] + '</span></li>'; }).join('') + '</ul></section>' +
-      '<section class="sec"><h2>The method</h2><ol class="steps">' +
+      '<section class="sec"><h2>The Method</h2><ol class="steps">' +
       '<li><strong>We started from claims in public circulation.</strong> These are widely repeated statements about the Trump family’s business dealings: the crypto ventures, the Gulf investments, Trump Media, the pardons and the dropped enforcement cases. Each was written down as a specific claim that can be tested.</li>' +
       '<li><strong>Each claim was checked on its own.</strong> It was split into separate points. Every figure, date and name was compared with news reporting, company and court filings and official releases, and what the people named say in reply was recorded.</li>' +
       '<li><strong>Open questions became further checks.</strong> Where a check turned up a related story or an unanswered question, that was researched the same way and given its own page.</li>' +
       '<li><strong>Connection checks cross-referenced the finished files.</strong> They looked for the same lawyers, lobbyists, financiers, shell entities, investors and foreign partners recurring in checks that had been researched separately, then searched outward to confirm and date each link.</li>' +
       '<li><strong>A second reviewer re-checked the key assertions.</strong> ' + num(META.second_reviewed || 0) + ' of the ' + total + ' checks have had this independent review, with fresh searches, and the files were corrected where needed. Each page records what was re-checked and what changed.</li></ol></section>' +
-      '<section class="sec"><h2>What the verdicts mean</h2><p class="intro">Each point gets a verdict, and so does the check as a whole. Every verdict has its own mark as well as its own colour.</p><ul class="defs">' + defs + '</ul></section>' +
-      '<section class="sec"><h2>Evidence grades for connections</h2><p class="intro">Every connection in a connection check carries one of three grades. An inferred link is never presented as fact, and a documented relationship is not proof of wrongdoing.</p><ul class="defs">' + grades + '</ul></section>' +
-      '<section class="sec"><h2>Limits you should know about</h2><ul class="limits">' +
+      '<section class="sec"><h2>What the Verdicts Mean</h2><p class="intro">Each point gets a verdict, and so does the check as a whole. Every verdict has its own mark as well as its own colour.</p><ul class="defs">' + defs + '</ul></section>' +
+      '<section class="sec"><h2>Evidence Grades for Connections</h2><p class="intro">Every connection in a connection check carries one of three grades. An inferred link is never presented as fact, and a documented relationship is not proof of wrongdoing.</p><ul class="defs">' + grades + '</ul></section>' +
+      '<section class="sec"><h2>Limits You Should Know About</h2><ul class="limits">' +
       '<li><strong>Most original pages could not be opened.</strong> Most news and government sites could not be read directly from the research environment. Findings rest on search-result excerpts that agree across several outlets, not on reading the original articles, filings or court dockets in full. This is why most checks are rated medium confidence.</li>' +
       (arr(META.unverified).length ? '<li><strong>' + cap(word(META.unverified.length)) + ' ' + (META.unverified.length === 1 ? 'check is a single-source allegation' : 'checks are single-source allegations') + '.</strong> ' + listParts(META.unverified.map(function (id) { var c = byKey.get(id); return c ? claimLink(c) : ''; })) + (META.unverified.length === 1 ? ' comes' : ' come') + ' from one book and ' + (META.unverified.length === 1 ? 'is' : 'are') + ' denied by everyone named. They are marked unverified wherever they appear, and lines that rest only on them are drawn dashed on the map.</li>' : '') +
       '<li><strong>No payment is shown to have bought an official act.</strong> That inference is not established in any check. Where a claim implies it, the point is marked unverified.</li>' +
@@ -782,8 +782,8 @@
       '<section class="sec"><h2>Corrections</h2><p class="intro">If a finding is wrong or out of date, the fix belongs in the check’s data file and report, with a source, followed by a rebuild of the site.</p></section>';
   }
   function notFound(h) {
-    page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">That page is not here</h1><p class="lede">Nothing matches “' + esc(h) + '”. Use the search at the top of the page, or start from one of these.</p>' +
-      '<p class="after"><a class="btn" href="#home">The checks</a> <a class="btn" href="#names">People and organisations</a> <a class="btn" href="#map">The map</a></p></div>';
+    page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">That Page Is Not Here</h1><p class="lede">Nothing matches “' + esc(h) + '”. Use the search at the top of the page, or start from one of these.</p>' +
+      '<p class="after"><a class="btn" href="#home">The Checks</a> <a class="btn" href="#names">People & Organisations</a> <a class="btn" href="#map">The Map</a></p></div>';
   }
 
   // ------------------------------------------------------------------ search
@@ -926,7 +926,7 @@
     nodes.forEach(function (n) { n.vis = n.vis0 && (!keep || keep.has(n)); });
     links.forEach(function (l) { l.vis = l.vis0 && l.source.vis && l.target.vis; });
     var fc = $('filter-count'), af = activeFilters();
-    fc.hidden = !af; fc.textContent = af ? af + ' on' : '';
+    fc.hidden = !af; fc.textContent = af ? af + ' On' : '';
     renderBanner(); requestDraw();
   }
 
@@ -1239,12 +1239,12 @@
     else if (map.path && map.path.list) {
       h = '<span class="chain"><strong>Path, ' + plural(map.path.steps.length, 'step') + '.</strong> ';
       map.path.list.forEach(function (n, i) { if (i) h += ' <span class="via' + (map.path.steps[i - 1].kind === 'rel' && map.path.steps[i - 1].rels[0].S === n ? ' rev' : '') + '">' + esc(trunc(linkWord(map.path.steps[i - 1]), 30)) + (map.path.steps[i - 1].unv ? ' (alleged, unverified)' : '') + '</span> '; h += nodeBtn(n); });
-      h += '</span><button type="button" class="linkbtn" data-act="path-clear">Clear the path</button>';
+      h += '</span><button type="button" class="linkbtn" data-act="path-clear">Clear the Path</button>';
     } else if (map.path) h = '<span><strong>No path.</strong> Nothing connects ' + esc(shortName(map.path.from)) + ' and ' + esc(shortName(map.path.to)) + ' with the current filters.</span><button type="button" class="linkbtn" data-act="path-clear">Clear</button>';
     else if (map.iso) {
       var cnt = nodes.filter(function (n) { return n.vis; }).length - 1;
       h = '<span><strong>Isolated.</strong> ' + esc(trunc(map.iso.node.name, 36)) + ' and ' + plural(cnt, 'mark') + ' within ' + plural(map.iso.depth, 'step') + '.</span>' +
-        (map.iso.depth < 3 ? '<button type="button" class="linkbtn" data-act="iso-more">Add a step</button>' : '') + '<button type="button" class="linkbtn" data-act="iso-clear">Show everything</button>';
+        (map.iso.depth < 3 ? '<button type="button" class="linkbtn" data-act="iso-more">Add a Step</button>' : '') + '<button type="button" class="linkbtn" data-act="iso-clear">Show Everything</button>';
     }
     b.innerHTML = h; b.hidden = !h;
   }
@@ -1253,7 +1253,7 @@
   function renderPanel() {
     var p = $('panel'), n = map.sel;
     if (!n) { p.hidden = true; root.classList.remove('has-panel'); return; }
-    var h = '<div class="panel-head"><p class="kicker">' + kmark(n) + esc(n.kind === 'claim' ? originText(n) : n.kind === 'theme' ? 'Recurring theme' : TLABEL[n.type]) + '</p>' +
+    var h = '<div class="panel-head"><p class="kicker">' + kmark(n) + esc(n.kind === 'claim' ? originText(n) : n.kind === 'theme' ? 'Recurring Theme' : TLABEL[n.type]) + '</p>' +
       '<button type="button" class="iconbtn" data-act="close" aria-label="Close"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M3.5 3.5l9 9M12.5 3.5l-9 9"></path></svg></button></div>' +
       '<div class="panel-body"><h2>' + esc(n.name) + '</h2>';
     if (n.kind === 'claim') {
@@ -1269,15 +1269,15 @@
       var cnt = new Map();
       n.lines.forEach(function (r) { var o = r.S === n ? r.T : r.S; cnt.set(o, (cnt.get(o) || 0) + r.claims.length + 1); });
       var near = Array.from(cnt.keys()).sort(function (a, b) { return cnt.get(b) - cnt.get(a); }).slice(0, 5);
-      h += (n.unverified_only ? '<p class="pv"><span class="flag">' + mark('unverified') + 'Named only in an unverified check</span></p>' : '') +
+      h += (n.unverified_only ? '<p class="pv"><span class="flag">' + mark('unverified') + 'Named Only in an Unverified Check</span></p>' : '') +
         (n.role ? '<p>' + rich(trunc(n.role, 230)) + '</p>' : '') +
         '<p class="small muted">Named in ' + plural(n.cl.length, 'check') + ' · ' + plural(n.lines.length, 'documented connection') + '</p>' +
         (near.length ? '<p class="small muted near">Closest: ' + near.map(function (o) { return nodeBtn(o); }).join(', ') + '</p>' : '');
     }
     h += '</div><div class="panel-actions">' +
-      (n.kind !== 'theme' ? '<a class="btn primary" href="' + pageHref(n) + '">Open page</a>' : '') +
-      '<button type="button" class="btn" data-act="iso">Isolate network</button>' +
-      '<button type="button" class="btn" data-act="path">Trace a path</button></div>';
+      (n.kind !== 'theme' ? '<a class="btn primary" href="' + pageHref(n) + '">Open Page</a>' : '') +
+      '<button type="button" class="btn" data-act="iso">Isolate Network</button>' +
+      '<button type="button" class="btn" data-act="path">Trace a Path</button></div>';
     p.innerHTML = h; p.hidden = false; root.classList.add('has-panel');
   }
   function setHash(h) {
@@ -1322,19 +1322,19 @@
     }
     var claimMark = '<svg class="kmark v-hold" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" fill="currentColor"><path d="M8 1l7 7-7 7-7-7z"/></svg>';
     var realTopics = TOPICS.filter(function (t) { return t.id !== 'other'; });
-    $('tools-body').innerHTML = (realTopics.length > 1 ? '<label class="field topicf"><span>Topic</span><select id="f-topic" data-group="topic"><option value="">All ' + word(realTopics.length) + ' topics</option>' +
+    $('tools-body').innerHTML = (realTopics.length > 1 ? '<label class="field topicf"><span>Topic</span><select id="f-topic" data-group="topic"><option value="">All ' + cap(word(realTopics.length)) + ' Topics</option>' +
       realTopics.map(function (t, i) { return '<option value="' + esc(t.id) + '"' + (F.topic === t.id ? ' selected' : '') + '>' + (i + 1) + '. ' + esc(t.name) + ' (' + t.list.length + ')</option>'; }).join('') + '</select></label>' : '') +
-      '<fieldset><legend>Show on the map</legend>' +
+      '<fieldset><legend>Show on the Map</legend>' +
       GROUPS.map(function (g) { return row('kind', g, GLABEL[g], kmark({ group: g }), counts[g] || 0); }).join('') +
       row('kind', 'claim', 'Checks', claimMark, counts.claim || 0) +
-      (themes.length ? row('kind', 'theme', 'Recurring themes', kmark({ kind: 'theme' }), counts.theme || 0) : '') + '</fieldset>' +
-      '<fieldset><legend>Checks by verdict</legend>' + presentVerdicts.map(function (v) {
+      (themes.length ? row('kind', 'theme', 'Recurring Themes', kmark({ kind: 'theme' }), counts.theme || 0) : '') + '</fieldset>' +
+      '<fieldset><legend>Checks by Verdict</legend>' + presentVerdicts.map(function (v) {
         return row('verdict', v, VLABEL[v], '<span class="v-' + VGROUP[v] + ' kmark-v">' + mark(v) + '</span>', claims.filter(function (c) { return c.verdict === v; }).length);
       }).join('') + '</fieldset>' +
       '<ul class="keylines">' + (RING ? '<li><span class="ringkey" aria-hidden="true"></span>The checks sit on the ring, one arc for each topic. Names settle inside, between the checks that mention them</li>' : '') +
       '<li><span class="dashkey" aria-hidden="true"></span>A dashed line or outline rests only on an unverified, single-source check</li></ul>' +
       '<p class="small muted">Select a mark for a summary. Double-click it to isolate its network.</p>' +
-      '<button type="button" class="btn" data-act="reset">Reset the map</button>';
+      '<button type="button" class="btn" data-act="reset">Reset the Map</button>';
   }
   function setTools(open) { $('tools-body').hidden = !open; $('tools-toggle').setAttribute('aria-expanded', String(open)); $('map-tools').classList.toggle('open', open); }
 
@@ -1473,20 +1473,24 @@
   });
 
   // ------------------------------------------------------------------ theme
-  var themeBtn = $('theme'), darkQuery = window.matchMedia('(prefers-color-scheme: dark)');
-  function isDark() { var t = root.getAttribute('data-theme'); return t ? t === 'dark' : darkQuery.matches; }
-  function themeChanged() {
-    themeBtn.setAttribute('aria-label', isDark() ? 'Switch to the light theme' : 'Switch to the dark theme');
+  /* Three options: Light and Dark set data-theme on the root; System removes it, so prefers-color-scheme decides. */
+  var themeBtns = Array.prototype.slice.call(document.querySelectorAll('[data-theme-opt]'));
+  var darkQuery = window.matchMedia('(prefers-color-scheme: dark)');
+  function themePref() { var t = root.getAttribute('data-theme'); return t === 'light' || t === 'dark' ? t : 'system'; }
+  function themeChanged() {   // the canvases take their colours from the tokens, so they are redrawn
+    var pref = themePref();
+    themeBtns.forEach(function (b) { b.setAttribute('aria-pressed', String(b.getAttribute('data-theme-opt') === pref)); });
     readTokens(); requestDraw(); drawPreview();
   }
-  try { var saved = window.localStorage.getItem('tcm-theme'); if (saved === 'dark' || saved === 'light') root.setAttribute('data-theme', saved); } catch (e) { /* optional */ }
-  themeBtn.addEventListener('click', function () {
-    var next = isDark() ? 'light' : 'dark';
-    root.setAttribute('data-theme', next);
-    try { window.localStorage.setItem('tcm-theme', next); } catch (e) { /* optional */ }
+  function setTheme(pref) {
+    if (pref === 'light' || pref === 'dark') root.setAttribute('data-theme', pref); else { pref = 'system'; root.removeAttribute('data-theme'); }
+    try { window.localStorage.setItem('tcm-theme', pref); } catch (e) { /* optional */ }
     themeChanged();
-  });
+  }
+  try { var saved = window.localStorage.getItem('tcm-theme'); if (saved === 'dark' || saved === 'light') root.setAttribute('data-theme', saved); } catch (e) { /* optional */ }
+  themeBtns.forEach(function (b) { b.addEventListener('click', function () { setTheme(b.getAttribute('data-theme-opt')); }); });
   if (darkQuery.addEventListener) darkQuery.addEventListener('change', themeChanged);
+  else if (darkQuery.addListener) darkQuery.addListener(themeChanged);
   if (window.MutationObserver) new MutationObserver(themeChanged).observe(root, { attributes: true, attributeFilter: ['data-theme'] });
 
   // ------------------------------------------------------------------ start
@@ -1496,7 +1500,6 @@
   searchHint(); if (narrow.addEventListener) narrow.addEventListener('change', searchHint);
   var previewTimer = null;
   window.addEventListener('resize', function () { clearTimeout(previewTimer); previewTimer = setTimeout(drawPreview, 120); });
-  readTokens();
-  themeBtn.setAttribute('aria-label', isDark() ? 'Switch to the light theme' : 'Switch to the dark theme');
+  themeChanged();
   route(true);
 })();

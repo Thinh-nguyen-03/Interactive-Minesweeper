@@ -18,16 +18,16 @@ $1B commercial rare-earth magnet facility enabled by US government partnership.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C26 1789 Capital and the Vulcan Elements magnet deal]] · Mostly accurate
+- [[C26 1789 Capital & the Vulcan Elements Magnet Deal]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Vulcan Elements]] *announced* [[Vulcan 10,000-tonne magnet facility]] · $1B · [[C26 1789 Capital and the Vulcan Elements magnet deal|C26]]
+- [[Vulcan Elements]] *announced* [[Vulcan 10,000-tonne magnet facility]] · $1B · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]
 
 ## Themes
 
-- [[Theme - Government contracts near family-linked firms]]
+- [[Theme - Government Contracts Near Family-Linked Firms]]

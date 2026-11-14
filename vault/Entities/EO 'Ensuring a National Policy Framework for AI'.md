@@ -18,12 +18,12 @@ tags:
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
+- [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Donald Trump]] *signed* [[EO 'Ensuring a National Policy Framework for AI']] · 2025-12-11 · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
+- [[Donald Trump]] *signed* [[EO 'Ensuring a National Policy Framework for AI']] · 2025-12-11 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]

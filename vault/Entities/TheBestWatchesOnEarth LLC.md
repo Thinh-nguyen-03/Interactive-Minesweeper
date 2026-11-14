@@ -18,17 +18,17 @@ Sheridan, WY seller of Trump-licensed watches
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C63 Shell Entities & Ownership Chains]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Andrew Pierce]] *organizer of* [[TheBestWatchesOnEarth LLC]] · 2024 · [[C63 Shell entities and ownership chains|C63]]
+- [[Andrew Pierce]] *organizer of* [[TheBestWatchesOnEarth LLC]] · 2024 · [[C63 Shell Entities & Ownership Chains|C63]]
 
 ### Commercial (2)
 
-- [[CIC Ventures LLC]] *licenses Trump name to (watches, per The Block)* [[TheBestWatchesOnEarth LLC]] · 2024-09 · [[C63 Shell entities and ownership chains|C63]]
-- [[TheBestWatchesOnEarth LLC]] *accepts as payment (per Bloomberg)* [[$TRUMP meme coin]] · 2025-01-30 · [[C63 Shell entities and ownership chains|C63]]
+- [[CIC Ventures LLC]] *licenses Trump name to (watches, per The Block)* [[TheBestWatchesOnEarth LLC]] · 2024-09 · [[C63 Shell Entities & Ownership Chains|C63]]
+- [[TheBestWatchesOnEarth LLC]] *accepts as payment (per Bloomberg)* [[$TRUMP meme coin]] · 2025-01-30 · [[C63 Shell Entities & Ownership Chains|C63]]

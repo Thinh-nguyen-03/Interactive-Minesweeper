@@ -18,16 +18,16 @@ Crypto VC; Selig client; Kalshi investor (Jun 2025)
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C65 Officials who decided matters involving former clients or partners]] · Mostly accurate
+- [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Paradigm]] *invested* [[Kalshi]] · 2025-06 · [[C65 Officials who decided matters involving former clients or partners|C65]]
+- [[Paradigm]] *invested* [[Kalshi]] · 2025-06 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 
 ### Legal (1)
 
-- [[Mike Selig]] *represented; co-signed letter urging CFTC to allow Kalshi political contracts* [[Paradigm]] · 2024-07 · [[C65 Officials who decided matters involving former clients or partners|C65]]
+- [[Mike Selig]] *represented; co-signed letter urging CFTC to allow Kalshi political contracts* [[Paradigm]] · 2024-07 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]

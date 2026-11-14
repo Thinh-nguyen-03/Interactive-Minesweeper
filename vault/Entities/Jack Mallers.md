@@ -18,12 +18,12 @@ CEO of Twenty One Capital; founder of Strike
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Jack Mallers]] *CEO* [[Twenty One Capital (XXI)]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Jack Mallers]] *CEO* [[Twenty One Capital (XXI)]] · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]

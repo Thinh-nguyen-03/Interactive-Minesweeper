@@ -18,12 +18,12 @@ Québec rare-earth developer (Strange Lake)
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Cerberus Capital Management]] *led $50M phased investment* [[Torngat Metals]] · 2022-11 · $50M · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Cerberus Capital Management]] *led $50M phased investment* [[Torngat Metals]] · 2022-11 · $50M · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]

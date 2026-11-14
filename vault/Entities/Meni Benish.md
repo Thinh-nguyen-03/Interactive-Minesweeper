@@ -18,12 +18,12 @@ Israeli Archi co-founder; Georgia's honorary consul in Israel
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam]] · Mostly accurate
+- [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Meni Benish]] *co-founder of* [[Archi Group]] · 2006 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]
+- [[Meni Benish]] *co-founder of* [[Archi Group]] · 2006 · [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam|C79]]

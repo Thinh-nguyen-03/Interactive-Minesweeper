@@ -5,7 +5,7 @@ title: "The New America Acquisition I SPAC"
 verdict: "mostly-accurate"
 confidence: "high"
 type: "Check"
-topic: "Family ventures and wealth"
+topic: "Family Ventures & Wealth"
 aliases:
   - "C27"
 tags:
@@ -17,49 +17,49 @@ tags:
 # C27: The New America Acquisition I SPAC
 
 **Verdict:** Mostly accurate · high confidence  
-**Type:** Check · Family ventures and wealth
+**Type:** Check · Family Ventures & Wealth
 
-## The claim
+## The Claim
 
 > Did a $300 million blank-cheque company advised by Donald Trump Jr. and Eric Trump tell the SEC it would target companies that benefit from government incentives and contracts, and was that wording then removed?
 
-## Bottom line
+## Bottom Line
 
 The core claims hold up. New America Acquisition I Corp filed with the SEC on Aug. 4, 2025 for a $300M NYSE IPO, with Donald Trump Jr. and Eric Trump on its advisory board.
 
-## What holds up
+## What Holds Up
 
 - New America Acquisition I Corp is a SPAC raising $300 million.
 - Don Jr. and Eric Trump are advisers who stand to make tens of millions of dollars.
 - The filing said it would target companies well positioned to benefit from federal or state-level incentives such as government contracts or preferential procurement programs.
 - Some of that language was removed later the same day.
 
-## What needs correcting
+## What Needs Correcting
 
 - **Claimed:** The SPAC 'has been raising three hundred million dollars'  
   **The record shows:** It filed for $300M in August 2025, priced at $300M on Dec. 3, 2025, and closed at $345M after the over-allotment was exercised.
 - The claim's quote of the filing omits 'grants, tax credits'. The original reads 'federal or state-level incentives, such as grants, tax credits, government contracts or preferential procurement programs.'
 - The sons' 'tens of millions' is about $50M in paper value from 5 million founder shares (3M Eric, 2M Don Jr.) at $10. It is not realized cash, and it depends on a completed merger.
 
-## What is unproven
+## What Is Unproven
 
 - The filing said the SPAC would leverage its strategic advisory board and management's industry relationships to generate a pipeline of deals.
 - Implied: the Trump sons' advisory role gives the SPAC an edge in winning government contracts (for example, by calling the Pentagon).
 
-## In more detail
+## In More Detail
 
 - The two hold 5 million founder shares, worth about $50M on paper at $10 a share.
 - The original S-1 said the SPAC would target firms 'well-positioned to benefit from federal or state-level incentives, such as grants, tax credits, government contracts or preferential procurement programs', and an amendment filed later the same day removed that language after AP asked about it.
 - The caveats: the IPO priced in December 2025 and closed at $345M with the over-allotment, the commonly quoted version of the filing language drops 'grants, tax credits', the 'identifiable economic or security interest' phrase could not be checked against the filing, and the idea that the sons would phone the Pentagon is an inference, not a documented act.
 
-## Checks that build on this one
+## Checks That Build on This One
 
-- [[C32 Donald Trump Jr.'s ties to other government contractors]] · Partly accurate
-- [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
-- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
-- [[C78 The blank-cheque companies run by Trump Media's interim chief]] · Mostly accurate
+- [[C32 Donald Trump Jr.'s Ties to Other Government Contractors]] · Partly accurate
+- [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network]] · Mostly accurate
+- [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings]] · Mostly accurate
+- [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief]] · Mostly accurate
 
-## Sub-claims
+## Sub-Claims
 
 ### 1. New America Acquisition I Corp is a SPAC raising $300 million.
 
@@ -132,7 +132,7 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 - Dates: Nov 2026; Feb 6, 2026; June 5, 2027
 - Sources: [1](https://www.clickondetroit.com/business/2025/08/04/company-advised-by-trump-sons-said-it-hoped-to-benefit-from-fed-money-then-took-it-back/) <https://www.roic.ai/quote/NWAX> <https://www.streetinsider.com/SEC+Filings/Form+8-K+New+America+Acquisition+For%3A+Feb+06/25968632.html>
 
-## Denials and context
+## Denials & Context
 
 - The filing's law firm, Paul Hastings, called the incentives sentence a scrivener's 'mistake'.
   - A company spokesperson called it a clerical error.
@@ -145,12 +145,12 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 
 ## Themes
 
-- [[Theme - President appoints the regulators of family-linked businesses]]
-- [[Theme - Family members hired as advisers]]
-- [[Theme - Government contracts near family-linked firms]]
-- [[Theme - Non-disclosure]]
+- [[Theme - President Appoints the Regulators of Family-Linked Businesses]]
+- [[Theme - Family Members Hired as Advisers]]
+- [[Theme - Government Contracts Near Family-Linked Firms]]
+- [[Theme - Non-Disclosure]]
 
-## People and organisations
+## People & Organisations
 
 - [[American Bitcoin]] · Company
 - [[Associated Press]] · Media
@@ -172,7 +172,7 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 - [[Trump Organization]] · Company
 - [[US federal government]] · Government body
 
-## Relationships documented
+## Relationships Documented
 
 ### Ownership (5)
 
@@ -184,8 +184,8 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 
 ### Family (2)
 
-- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]] [[C27 The New America Acquisition I SPAC|C27]] [[C29 Trump family wealth gains since the election|C29]] [[C32 Donald Trump Jr.'s ties to other government contractors|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]] [[C76 Russia-linked money around the family and the envoys|C76]]
-- [[Donald Trump]] *father of* [[Eric Trump]] · [[C01 The $TRUMP meme coin and who profited|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 A UAE-backed 49% stake in World Liberty Financial|C06]] [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]] [[C27 The New America Acquisition I SPAC|C27]] [[C29 Trump family wealth gains since the election|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial Founding & Token Sale|C04]] [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C27 The New America Acquisition I SPAC|C27]] [[C29 Trump Family Wealth Gains Since the Election|C29]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]] [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]] [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
+- [[Donald Trump]] *father of* [[Eric Trump]] · [[C01 The $TRUMP Meme Coin & Who Profited|C01]] [[C04 World Liberty Financial Founding & Token Sale|C04]] [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]] [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]] [[C27 The New America Acquisition I SPAC|C27]] [[C29 Trump Family Wealth Gains Since the Election|C29]] [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 
 ### Regulatory (2)
 
@@ -197,9 +197,9 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 - [[Donald Trump Jr]] *board member* [[GrabAGun Digital Holdings]] · 2025-07 · [[C27 The New America Acquisition I SPAC|C27]]
 - [[Donald Trump Jr]] *strategic adviser; holds 2M founder shares (~$20M paper value)* [[New America Acquisition I Corp]] · 2025-08 · $20M · [[C27 The New America Acquisition I SPAC|C27]]
 - [[Eric Trump]] *strategic adviser; holds 3M founder shares (~$30M paper value)* [[New America Acquisition I Corp]] · 2025-08 · $30M · [[C27 The New America Acquisition I SPAC|C27]]
-- [[Kyle Wool]] *board / advisory board member* [[New America Acquisition I Corp]] · 2025-08 · [[C27 The New America Acquisition I SPAC|C27]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump Jr]] *adviser to* [[New America Acquisition I Corp]] · [[C27 The New America Acquisition I SPAC|C27]] [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
-- [[Eric Trump]] *adviser to* [[New America Acquisition I Corp]] · [[C27 The New America Acquisition I SPAC|C27]] [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
+- [[Kyle Wool]] *board / advisory board member* [[New America Acquisition I Corp]] · 2025-08 · [[C27 The New America Acquisition I SPAC|C27]] [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
+- [[Donald Trump Jr]] *adviser to* [[New America Acquisition I Corp]] · [[C27 The New America Acquisition I SPAC|C27]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
+- [[Eric Trump]] *adviser to* [[New America Acquisition I Corp]] · [[C27 The New America Acquisition I SPAC|C27]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
 
 ### Political (1)
 
@@ -220,7 +220,7 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 - [[New America Acquisition I Corp]] *listed $345M IPO (incl. over-allotment) as NWAX* [[New York Stock Exchange]] · 2025-12-05 · $345M · [[C27 The New America Acquisition I SPAC|C27]]
 - [[New America Acquisition I Corp]] *targets firms reliant on contracts from* [[US federal government]] · $300M · [[C27 The New America Acquisition I SPAC|C27]]
 
-## Leads not covered here
+## Leads Not Covered Here
 
 - **Dominari Holdings: Trump sons' stake in the broker that underwrote their SPAC**
   - The Trump brothers are major Dominari shareholders.
@@ -249,7 +249,7 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 11. [Eric and Don Jr partner with Dominari](https://wendysiegelman.substack.com/p/eric-and-don-jr-partner-with-dominari) (Wendy Siegelman (Substack), 2025)
 12. [GrabAGun completes business combination with Colombier II](https://www.gurufocus.com/news/2979153/grabagun-a-mobilefocused-online-firearms-retailer-and-defender-of-the-second-amendment-completes-business-combination-with-colombier-ii-and-will-begin-trading-on-nyse-clbr-stock-news) (GuruFocus (press release), 2025-07)
 
-## Full report
+## Full Report
 
 **Verdict:** mostly accurate (high confidence)
 

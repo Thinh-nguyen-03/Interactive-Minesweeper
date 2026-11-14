@@ -18,13 +18,13 @@ Withdrew IBA recognition; recognised World Boxing
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
+- [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (2)
 
-- [[International Olympic Committee]] *withdrew recognition (upheld by CAS Apr 2024)* [[International Boxing Association (IBA)]] · 2023-06 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
-- [[International Olympic Committee]] *provisionally recognised for LA28* [[World Boxing]] · 2025-02-26 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[International Olympic Committee]] *withdrew recognition (upheld by CAS Apr 2024)* [[International Boxing Association (IBA)]] · 2023-06 · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]
+- [[International Olympic Committee]] *provisionally recognised for LA28* [[World Boxing]] · 2025-02-26 · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]

@@ -16,12 +16,12 @@ tags:
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
+- [[C04 World Liberty Financial Founding & Token Sale]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[MSNBC]] *aired 2018 video of* [[Chase Herro]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[MSNBC]] *aired 2018 video of* [[Chase Herro]] · 2024-09 · [[C04 World Liberty Financial Founding & Token Sale|C04]]

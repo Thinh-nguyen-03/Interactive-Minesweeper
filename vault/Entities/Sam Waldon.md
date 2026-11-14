@@ -18,6 +18,6 @@ SEC acting enforcement director before and after Ryan
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C52 Trump-connected lobbyists hired by crypto firms and the SEC enforcement director's exi]] · Mostly accurate
+- [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit]] · Mostly accurate

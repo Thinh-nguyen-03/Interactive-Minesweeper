@@ -18,24 +18,24 @@ Commerce agency licensing seabed mining under DSHMRA
 | Appears in | 2 checks |
 | Connections | 6 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Commerce agency licensing deep-seabed mining
 
-## Appears in checks
+## Appears in Checks
 
-- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
+- [[C60 Government Equity Stakes in Critical-Minerals Companies]] · Mostly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (4)
 
-- [[NOAA]] *certified deep-sea exploration application* [[The Metals Company]] · 2026 · [[C60 Government equity stakes in critical-minerals companies|C60]]
-- [[The Metals Company]] *first consolidated exploration + commercial recovery application* [[NOAA]] · 2026-02-06 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
-- [[American Ocean Minerals]] *Area-1 consolidated application advanced* [[NOAA]] · 2026-07-07 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
-- [[US Department of Commerce]] *oversees* [[NOAA]] · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[NOAA]] *certified deep-sea exploration application* [[The Metals Company]] · 2026 · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[The Metals Company]] *first consolidated exploration + commercial recovery application* [[NOAA]] · 2026-02-06 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[American Ocean Minerals]] *Area-1 consolidated application advanced* [[NOAA]] · 2026-07-07 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[US Department of Commerce]] *oversees* [[NOAA]] · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
 
 ### Legal (1)
 
-- [[Earthjustice]] *sued over TMC USA exploration certification* [[NOAA]] · 2026 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Earthjustice]] *sued over TMC USA exploration certification* [[NOAA]] · 2026 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]

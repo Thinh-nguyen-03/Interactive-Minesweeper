@@ -18,7 +18,7 @@ Prediction market company; Don Jr. is strategic adviser.
 | Appears in | 8 checks |
 | Connections | 19 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Prediction-market rival also in litigation with Nevada; lost at the Ninth Circuit
 - CFTC-regulated prediction market
@@ -26,52 +26,52 @@ Prediction market company; Don Jr. is strategic adviser.
 - Prediction market; Quintenz board member, Don Jr. adviser
 - Prediction market; Miller client
 
-## Appears in checks
+## Appears in Checks
 
-- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
-- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
-- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate
-- [[C54 The crypto revolving door]] · Mostly accurate
-- [[C58 Market-moving presidential posts and insider-trading allegations]] · Mostly accurate
-- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
-- [[C65 Officials who decided matters involving former clients or partners]] · Mostly accurate
-- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C22 Crypto.com's Deal with Trump Media]] · Mostly accurate
+- [[C25 Prediction Markets, the CFTC & Donald Trump Jr]] · Mostly accurate
+- [[C38 Polymarket Probes Closed Before 1789 Capital Invested]] · Mostly accurate
+- [[C54 The Crypto Revolving Door]] · Mostly accurate
+- [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
+- [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
+- [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Paradigm]] *invested* [[Kalshi]] · 2025-06 · [[C65 Officials who decided matters involving former clients or partners|C65]]
-- [[Kalshi]] *paid $240K (H1 2026)* [[Miller Strategies]] · 2026-06 · $240K · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Paradigm]] *invested* [[Kalshi]] · 2025-06 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Kalshi]] *paid $240K (H1 2026)* [[Miller Strategies]] · 2026-06 · $240K · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 
 ### Ownership (1)
 
-- [[Tarek Mansour]] *CEO of* [[Kalshi]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Tarek Mansour]] *CEO of* [[Kalshi]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 
 ### Regulatory (2)
 
-- [[Commodity Futures Trading Commission]] *asserted exclusive jurisdiction benefiting* [[Kalshi]] · 2026-02-17 · [[C65 Officials who decided matters involving former clients or partners|C65]]
-- [[Commodity Futures Trading Commission]] *regulates; asserts exclusive jurisdiction over its event contracts* [[Kalshi]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Commodity Futures Trading Commission]] *asserted exclusive jurisdiction benefiting* [[Kalshi]] · 2026-02-17 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Commodity Futures Trading Commission]] *regulates; asserts exclusive jurisdiction over its event contracts* [[Kalshi]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 
 ### Advisory (3)
 
-- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket probes closed before 1789 Capital invested|C38]] [[C54 The crypto revolving door|C54]] [[C58 Market-moving presidential posts and insider-trading allegations|C58]] [[C64 Lobbyists and intermediaries with White House access|C64]] [[C65 Officials who decided matters involving former clients or partners|C65]]
-- [[Donald Trump Jr]] *strategic adviser (paid partly in shares, reportedly >$300k)* [[Kalshi]] · 2025-01 · $300K · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
-- [[Donald Trump Jr]] *strategic adviser to* [[Kalshi]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C54 The Crypto Revolving Door|C54]] [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]] [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Donald Trump Jr]] *strategic adviser (paid partly in shares, reportedly >$300k)* [[Kalshi]] · 2025-01 · $300K · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
+- [[Donald Trump Jr]] *strategic adviser to* [[Kalshi]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 
 ### Legal (3)
 
-- [[Letitia James]] *sued* [[Kalshi]] · 2026-07-31 · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
-- [[Kalshi]] *litigated over event contracts; lost at 9th Cir* [[Nevada Gaming Control Board]] · 2026-08-28 · [[C22 Crypto.com's deal with Trump Media|C22]]
-- [[Derek Brown]] *sued* [[Kalshi]] · 2026-10-20 · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
+- [[Letitia James]] *sued* [[Kalshi]] · 2026-07-31 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
+- [[Kalshi]] *litigated over event contracts; lost at 9th Cir* [[Nevada Gaming Control Board]] · 2026-08-28 · [[C22 Crypto.com's Deal with Trump Media|C22]]
+- [[Derek Brown]] *sued* [[Kalshi]] · 2026-10-20 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
 
 ### Commercial (3)
 
-- [[Brian Quintenz]] *board member* [[Kalshi]] · 2021 · [[C54 The crypto revolving door|C54]] [[C65 Officials who decided matters involving former clients or partners|C65]]
-- [[Jim Harrell]] *lobbyist for* [[Kalshi]] · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
-- [[Kalshi]] *tops finance chart of* [[Apple App Store]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Brian Quintenz]] *board member* [[Kalshi]] · 2021 · [[C54 The Crypto Revolving Door|C54]] [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Jim Harrell]] *lobbyist for* [[Kalshi]] · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
+- [[Kalshi]] *tops finance chart of* [[Apple App Store]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 
 ## Themes
 
-- [[Theme - President appoints the regulators of family-linked businesses]]
-- [[Theme - Family members hired as advisers]]
+- [[Theme - President Appoints the Regulators of Family-Linked Businesses]]
+- [[Theme - Family Members Hired as Advisers]]

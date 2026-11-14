@@ -18,11 +18,11 @@ Venezuelan leader captured by US forces on 3 Jan 2026
 | Appears in | 2 checks |
 | Connections | 2 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Venezuelan leader captured 3 Jan 2026
 
-## Appears in checks
+## Appears in Checks
 
-- [[C58 Market-moving presidential posts and insider-trading allegations]] · Mostly accurate
-- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
+- [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
+- [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI]] · Partly accurate

@@ -18,22 +18,22 @@ Published an investigation of the Albania project (Oct 2026) that Kushner rebutt
 | Appears in | 2 checks |
 | Connections | 5 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Published Kirkpatrick's tally
 
-## Appears in checks
+## Appears in Checks
 
-- [[C45 Kushner's resort projects in Albania and Serbia]] · Mostly accurate
-- [[C55 How much has the Trump family made Competing estimates]] · Mostly accurate
+- [[C45 Kushner's Resort Projects in Albania & Serbia]] · Mostly accurate
+- [[C55 How Much Has the Trump Family Made Competing Estimates]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Karoline Leavitt]] *called $3.4B tally 'absolutely absurd'* [[The New Yorker]] · 2025-08 · [[C55 How much has the Trump family made Competing estimates|C55]]
+- [[Karoline Leavitt]] *called $3.4B tally 'absolutely absurd'* [[The New Yorker]] · 2025-08 · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
 
 ### Media (2)
 
-- [[The New Yorker]] *published 'The Number'* [[David D. Kirkpatrick]] · 2025-08 · [[C55 How much has the Trump family made Competing estimates|C55]]
-- [[The New Yorker]] *investigated Albania project; Kushner rebutted* [[Jared Kushner]] · 2026-10-08 · [[C45 Kushner's resort projects in Albania and Serbia|C45]]
+- [[The New Yorker]] *published 'The Number'* [[David D. Kirkpatrick]] · 2025-08 · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
+- [[The New Yorker]] *investigated Albania project; Kushner rebutted* [[Jared Kushner]] · 2026-10-08 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]

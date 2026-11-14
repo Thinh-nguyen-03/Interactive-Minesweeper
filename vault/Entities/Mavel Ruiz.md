@@ -18,12 +18,12 @@ Miami-Dade circuit judge; enjoined then dismissed Dunn's state suit
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C48 The Trump presidential library foundation's money and land]] · Mostly accurate
+- [[C48 The Trump Presidential Library Foundation's Money & Land]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Mavel Ruiz]] *enjoined then dismissed suit against* [[Miami Dade College]] · 2025-12-18 · [[C48 The Trump presidential library foundation's money and land|C48]]
+- [[Mavel Ruiz]] *enjoined then dismissed suit against* [[Miami Dade College]] · 2025-12-18 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]

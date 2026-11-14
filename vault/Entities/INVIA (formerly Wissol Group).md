@@ -18,12 +18,12 @@ Georgian group; partner via Biograpi Living
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam]] · Mostly accurate
+- [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[INVIA (formerly Wissol Group)]] *parent of* [[Biograpi Living]] · 2026 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]
+- [[INVIA (formerly Wissol Group)]] *parent of* [[Biograpi Living]] · 2026 · [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam|C79]]

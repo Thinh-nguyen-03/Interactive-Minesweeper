@@ -18,12 +18,12 @@ Announcement preceded by 'great time to buy' post
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C58 Market-moving presidential posts and insider-trading allegations]] · Mostly accurate
+- [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Donald Trump]] *announced* [[90-day reciprocal tariff pause (9 Apr 2025)]] · 2025-04-09 · [[C58 Market-moving presidential posts and insider-trading allegations|C58]]
+- [[Donald Trump]] *announced* [[90-day reciprocal tariff pause (9 Apr 2025)]] · 2025-04-09 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]

@@ -18,12 +18,12 @@ Defense supplier behind UMAC's $12.8M RRSL components order
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Strategic Logix]] *placed $12.8M components order with* [[Unusual Machines]] · 2025-09 · $12.8M · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Strategic Logix]] *placed $12.8M components order with* [[Unusual Machines]] · 2025-09 · $12.8M · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]

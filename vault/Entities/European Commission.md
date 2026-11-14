@@ -18,12 +18,12 @@ Warned Albania the project may breach EU environmental rules; told construction 
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C45 Kushner's resort projects in Albania and Serbia]] · Mostly accurate
+- [[C45 Kushner's Resort Projects in Albania & Serbia]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[European Commission]] *warned on EU environmental rules; told construction suspended* [[Albania]] · 2026 · [[C45 Kushner's resort projects in Albania and Serbia|C45]]
+- [[European Commission]] *warned on EU environmental rules; told construction suspended* [[Albania]] · 2026 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]

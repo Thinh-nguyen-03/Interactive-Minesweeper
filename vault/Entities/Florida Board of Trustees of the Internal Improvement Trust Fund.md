@@ -18,20 +18,20 @@ Governor and Cabinet; voted 30 Sep 2025 to deed the land to the foundation
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C48 The Trump presidential library foundation's money and land]] · Mostly accurate
+- [[C48 The Trump Presidential Library Foundation's Money & Land]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Florida Board of Trustees of the Internal Improvement Trust Fund]] *deeded $67M+ parcel for $10* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-09-30 · $67M · [[C48 The Trump presidential library foundation's money and land|C48]]
+- [[Florida Board of Trustees of the Internal Improvement Trust Fund]] *deeded $67M+ parcel for $10* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-09-30 · $67M · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 
 ### Regulatory (1)
 
-- [[Miami Dade College]] *gave downtown parcel to state* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] · 2025-09-23 · [[C48 The Trump presidential library foundation's money and land|C48]]
+- [[Miami Dade College]] *gave downtown parcel to state* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] · 2025-09-23 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 
 ### Political (1)
 
-- [[Ron DeSantis]] *chairs* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] · [[C48 The Trump presidential library foundation's money and land|C48]]
+- [[Ron DeSantis]] *chairs* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]

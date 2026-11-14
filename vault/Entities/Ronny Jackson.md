@@ -18,19 +18,19 @@ US Representative (R-TX), Trump's former White House physician; reported contact
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Rep. (R-TX), Trump's former physician; reported contact in Pakistan's minerals push
 
-## Appears in checks
+## Appears in Checks
 
-- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
-- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
+- [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
+- [[C83 Keith Schiller & George Sorial's Lobbying Clients]] · Mostly accurate
 
 ## Relationships
 
 ### Political (3)
 
-- [[Javelin Advisors]] *contacted on rare-earths MoU (FARA as reported by Economic Times; single-source)* [[Ronny Jackson]] · 2025-05-01 · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
-- [[Javelin Advisors]] *contacted on rare-earths MoU (single-source)* [[Ronny Jackson]] · 2025-05-01 · [[C83 Keith Schiller and George Sorial's lobbying clients|C83]]
-- [[Ronny Jackson]] *former White House physician* [[Donald Trump]] · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
+- [[Javelin Advisors]] *contacted on rare-earths MoU (FARA as reported by Economic Times; single-source)* [[Ronny Jackson]] · 2025-05-01 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
+- [[Javelin Advisors]] *contacted on rare-earths MoU (single-source)* [[Ronny Jackson]] · 2025-05-01 · [[C83 Keith Schiller & George Sorial's Lobbying Clients|C83]]
+- [[Ronny Jackson]] *former White House physician* [[Donald Trump]] · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]

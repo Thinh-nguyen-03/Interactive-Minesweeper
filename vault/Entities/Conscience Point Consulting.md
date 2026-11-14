@@ -18,17 +18,17 @@ Reported Seiden subcontractor on Pakistan whose filings mention Ronny Jackson.
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Seiden subcontractor on Pakistan
 
-## Appears in checks
+## Appears in Checks
 
-- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
-- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
+- [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
+- [[C83 Keith Schiller & George Sorial's Lobbying Clients]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Seiden Law LLP]] *subcontracted Pakistan work (reported)* [[Conscience Point Consulting]] · 2025 · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
+- [[Seiden Law LLP]] *subcontracted Pakistan work (reported)* [[Conscience Point Consulting]] · 2025 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]

@@ -18,12 +18,12 @@ CEO of Critical Metals Corp
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Tony Sage]] *CEO* [[Critical Metals Corp]] · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Tony Sage]] *CEO* [[Critical Metals Corp]] · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]

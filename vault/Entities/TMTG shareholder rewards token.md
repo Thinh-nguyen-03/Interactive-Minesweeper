@@ -18,13 +18,13 @@ Non-transferable token, one per DJT share, record date 2026-02-02; distribution 
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu]] · Mostly accurate
+- [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Crypto.com]] *mints and custodies* [[TMTG shareholder rewards token]] · 2025-12-31 · [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu|C41]]
-- [[Trump Media & Technology Group]] *announced shareholder token* [[TMTG shareholder rewards token]] · 2025-12-31 · [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu|C41]]
+- [[Crypto.com]] *mints and custodies* [[TMTG shareholder rewards token]] · 2025-12-31 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
+- [[Trump Media & Technology Group]] *announced shareholder token* [[TMTG shareholder rewards token]] · 2025-12-31 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]

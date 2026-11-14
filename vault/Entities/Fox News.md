@@ -22,21 +22,21 @@ Aired Foundation's Pentagon contract as new.
 | Connections | 6 |
 | Also known as | Fox; Fox News / Fox Business |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Fox Business 'Mornings with Maria' aired the segment presenting the $24M as a new deal.
 - Hosts 'My View with Lara Trump' since Feb 2025
 
-## Appears in checks
+## Appears in Checks
 
-- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
-- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump]] · Mostly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 
 ## Relationships
 
 ### Media (4)
 
-- [[Lara Trump]] *hosts 'My View with Lara Trump'* [[Fox News]] · 2025-02-22 · [[C66 The extended family's ventures and roles|C66]]
-- [[Fox News]] *presented $24M contract as new* [[Foundation Future Industries]] · 2026-04-23 · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
-- [[Fox News]] *presented as new* [[$24M Pentagon contract for Foundation]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
-- [[Maria Bartiromo]] *anchor at* [[Fox News]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Lara Trump]] *hosts 'My View with Lara Trump'* [[Fox News]] · 2025-02-22 · [[C66 The Extended Family's Ventures & Roles|C66]]
+- [[Fox News]] *presented $24M contract as new* [[Foundation Future Industries]] · 2026-04-23 · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
+- [[Fox News]] *presented as new* [[$24M Pentagon contract for Foundation]] · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
+- [[Maria Bartiromo]] *anchor at* [[Fox News]] · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]

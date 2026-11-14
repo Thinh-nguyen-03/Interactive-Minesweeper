@@ -18,12 +18,12 @@ Musk's super PAC
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
+- [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Elon Musk]] *funded 2024 pro-Trump spending (~$277-290M total politics)* [[America PAC]] · 2024 · $277M · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
+- [[Elon Musk]] *funded 2024 pro-Trump spending (~$277-290M total politics)* [[America PAC]] · 2024 · $277M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]

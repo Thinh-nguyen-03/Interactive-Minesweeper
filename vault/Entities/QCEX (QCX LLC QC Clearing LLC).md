@@ -18,16 +18,16 @@ CFTC-licensed exchange and clearinghouse bought by Polymarket for $112M.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate
+- [[C38 Polymarket Probes Closed Before 1789 Capital Invested]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Polymarket]] *acquired for $112M* [[QCEX (QCX LLC QC Clearing LLC)]] · 2025-07 · $112M · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
+- [[Polymarket]] *acquired for $112M* [[QCEX (QCX LLC QC Clearing LLC)]] · 2025-07 · $112M · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
 
 ### Regulatory (1)
 
-- [[Commodity Futures Trading Commission]] *staff no-action letter* [[QCEX (QCX LLC QC Clearing LLC)]] · 2025-09-03 · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
+- [[Commodity Futures Trading Commission]] *staff no-action letter* [[QCEX (QCX LLC QC Clearing LLC)]] · 2025-09-03 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]

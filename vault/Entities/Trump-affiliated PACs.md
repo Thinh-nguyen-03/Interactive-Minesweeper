@@ -18,14 +18,14 @@ PACs that received $36M in contributions linked to Crypto.com and other crypto f
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
-- [[C23 SEC crypto cases dropped and the firms' donations]] · Mostly accurate
+- [[C22 Crypto.com's Deal with Trump Media]] · Mostly accurate
+- [[C23 SEC Crypto Cases Dropped & the Firms' Donations]] · Mostly accurate
 
 ## Relationships
 
 ### Political (2)
 
-- [[Crypto.com]] *linked to $36M in contributions to (attribution unclear)* [[Trump-affiliated PACs]] · $36M · [[C22 Crypto.com's deal with Trump Media|C22]]
-- [[Trump-affiliated PACs]] *support* [[Donald Trump]] · [[C22 Crypto.com's deal with Trump Media|C22]] [[C23 SEC crypto cases dropped and the firms' donations|C23]]
+- [[Crypto.com]] *linked to $36M in contributions to (attribution unclear)* [[Trump-affiliated PACs]] · $36M · [[C22 Crypto.com's Deal with Trump Media|C22]]
+- [[Trump-affiliated PACs]] *support* [[Donald Trump]] · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]

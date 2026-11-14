@@ -18,22 +18,22 @@ DOJ crypto unit disbanded by Blanche memo, Apr 7, 2025.
 | Appears in | 3 checks |
 | Connections | 5 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - DOJ crypto unit created in 2022, disbanded Apr 7, 2025
 - DOJ crypto unit disbanded Apr 7, 2025
 
-## Appears in checks
+## Appears in Checks
 
-- [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
-- [[C61 Lawyers and law firms that recur across the deals]] · Mostly accurate
-- [[C65 Officials who decided matters involving former clients or partners]] · Mostly accurate
+- [[C36 Clemency for Other Crypto & Donor-Linked Figures]] · Mostly accurate
+- [[C61 Lawyers & Law Firms That Recur Across the Deals]] · Mostly accurate
+- [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (4)
 
-- [[Todd Blanche]] *disbanded by memo* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Todd Blanche]] *disbanded via memo* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C61 Lawyers and law firms that recur across the deals|C61]]
-- [[Todd Blanche]] *disbanded via memo while holding crypto* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C65 Officials who decided matters involving former clients or partners|C65]]
-- [[US Department of Justice (us-doj)]] *housed and disbanded* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Todd Blanche]] *disbanded by memo* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]
+- [[Todd Blanche]] *disbanded via memo* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
+- [[Todd Blanche]] *disbanded via memo while holding crypto* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[US Department of Justice (us-doj)]] *housed and disbanded* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]

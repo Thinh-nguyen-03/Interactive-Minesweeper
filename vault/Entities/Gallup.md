@@ -18,12 +18,12 @@ Pollster; 2026 survey found a record 89% see widespread government corruption
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
+- [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Gallup]] *published (record 89% see widespread govt corruption)* [[Gallup 2026 government corruption poll]] · 2026-09 · [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]
+- [[Gallup]] *published (record 89% see widespread govt corruption)* [[Gallup 2026 government corruption poll]] · 2026-09 · [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]

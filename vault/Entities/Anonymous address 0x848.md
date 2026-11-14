@@ -18,12 +18,12 @@ Unidentified buyer of $10M WLFI on 2025-01-31
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
+- [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Anonymous address 0x848]] *bought $10M WLFI (unidentified)* [[WLFI token]] · 2025-01-31 · $10M · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[Anonymous address 0x848]] *bought $10M WLFI (unidentified)* [[WLFI token]] · 2025-01-31 · $10M · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]

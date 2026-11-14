@@ -18,12 +18,12 @@ DHS special government employee under oversight inquiry
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
+- [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Corey Lewandowski]] *special government employee* [[Department of Homeland Security]] · 2025 · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Corey Lewandowski]] *special government employee* [[Department of Homeland Security]] · 2025 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]

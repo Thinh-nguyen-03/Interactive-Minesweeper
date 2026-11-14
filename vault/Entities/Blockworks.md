@@ -18,11 +18,11 @@ Reported the WLF token-swap pitch
 | Appears in | 2 checks |
 | Connections | 2 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Broke the token-swap pitch story
 
-## Appears in checks
+## Appears in Checks
 
-- [[C71 Who bought World Liberty tokens]] · Mostly accurate
-- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
+- [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
+- [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate

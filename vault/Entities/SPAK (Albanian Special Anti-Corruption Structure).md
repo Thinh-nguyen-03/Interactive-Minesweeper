@@ -18,17 +18,17 @@ Albania's anti-corruption prosecutor; investigating the land seller and 2024 sta
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C45 Kushner's resort projects in Albania and Serbia]] · Mostly accurate
+- [[C45 Kushner's Resort Projects in Albania & Serbia]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (2)
 
-- [[SPAK (Albanian Special Anti-Corruption Structure)]] *froze sale proceeds/accounts* [[Albania Land Development]] · 2026-06 · [[C45 Kushner's resort projects in Albania and Serbia|C45]]
-- [[SPAK (Albanian Special Anti-Corruption Structure)]] *investigating for forged deeds and illicit funds* [[Artur Shehu]] · 2026-06 · [[C45 Kushner's resort projects in Albania and Serbia|C45]]
+- [[SPAK (Albanian Special Anti-Corruption Structure)]] *froze sale proceeds/accounts* [[Albania Land Development]] · 2026-06 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]
+- [[SPAK (Albanian Special Anti-Corruption Structure)]] *investigating for forged deeds and illicit funds* [[Artur Shehu]] · 2026-06 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]
 
 ### Media (1)
 
-- [[Reuters]] *reported case files on forged deeds* [[SPAK (Albanian Special Anti-Corruption Structure)]] · 2026-07-11 · [[C45 Kushner's resort projects in Albania and Serbia|C45]]
+- [[Reuters]] *reported case files on forged deeds* [[SPAK (Albanian Special Anti-Corruption Structure)]] · 2026-07-11 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]

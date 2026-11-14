@@ -18,16 +18,16 @@ Antonio Gracias's firm; SpaceX/Tesla investor; reportedly hired Gruenbaum 2026.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Antonio Gracias]] *founder of* [[Valor Equity Partners]] · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[Antonio Gracias]] *founder of* [[Valor Equity Partners]] · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 
 ### Commercial (1)
 
-- [[Josh Gruenbaum]] *managing director at (single-source, firm page)* [[Valor Equity Partners]] · 2026 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[Josh Gruenbaum]] *managing director at (single-source, firm page)* [[Valor Equity Partners]] · 2026 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]

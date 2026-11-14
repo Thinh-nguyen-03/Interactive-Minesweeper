@@ -18,17 +18,17 @@ Tracked clemency lobbying disclosures
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Reported Javelin's pardon clients
 
-## Appears in checks
+## Appears in Checks
 
-- [[C49 The market for pardon lobbying]] · Mostly accurate
-- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
+- [[C49 The Market for Pardon Lobbying]] · Mostly accurate
+- [[C83 Keith Schiller & George Sorial's Lobbying Clients]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[NOTUS]] *reported clemency lobbying disclosures* [[Roger Stone]] · 2026 · [[C49 The market for pardon lobbying|C49]]
+- [[NOTUS]] *reported clemency lobbying disclosures* [[Roger Stone]] · 2026 · [[C49 The Market for Pardon Lobbying|C49]]

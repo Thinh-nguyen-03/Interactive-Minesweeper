@@ -18,12 +18,12 @@ Ivanka Trump's produce venture (2025)
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Ivanka Trump]] *co-founder of* [[Planet Harvest]] · 2025 · [[C66 The extended family's ventures and roles|C66]]
+- [[Ivanka Trump]] *co-founder of* [[Planet Harvest]] · 2025 · [[C66 The Extended Family's Ventures & Roles|C66]]

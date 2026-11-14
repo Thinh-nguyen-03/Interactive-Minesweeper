@@ -18,12 +18,12 @@ Florida nonprofit research institute through which three of the cited projects w
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
+- [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Institute for Human and Machine Cognition]] *routed three research projects to* [[Foundation Future Industries]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Institute for Human and Machine Cognition]] *routed three research projects to* [[Foundation Future Industries]] · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]

@@ -18,12 +18,12 @@ tags:
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C56 Saudi Arabia family deals alongside US policy decisions]] · Mostly accurate
+- [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Mohammed bin Salman]] *led Saudi side of* [[MBS White House visit]] · 2025-11-18 · [[C56 Saudi Arabia family deals alongside US policy decisions|C56]]
+- [[Mohammed bin Salman]] *led Saudi side of* [[MBS White House visit]] · 2025-11-18 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]

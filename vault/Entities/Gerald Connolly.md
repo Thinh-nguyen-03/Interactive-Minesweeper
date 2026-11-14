@@ -18,21 +18,21 @@ House Oversight ranking member; opened Ramp probe 2025-05-09; died 2025-05-21.
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Late Rep. (D-VA); opened 2025 probe into GSA-Ramp dealings
 
-## Appears in checks
+## Appears in Checks
 
-- [[C66 The extended family's ventures and roles]] · Partly accurate
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
+- [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Gerald Connolly]] *opened probe of Ramp courtship* [[General Services Administration]] · 2025-05-09 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[Gerald Connolly]] *opened probe of Ramp courtship* [[General Services Administration]] · 2025-05-09 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 
 ### Legal (1)
 
-- [[Gerald Connolly]] *opened probe into Ramp dealings* [[General Services Administration]] · 2025 · [[C66 The extended family's ventures and roles|C66]]
+- [[Gerald Connolly]] *opened probe into Ramp dealings* [[General Services Administration]] · 2025 · [[C66 The Extended Family's Ventures & Roles|C66]]

@@ -18,12 +18,12 @@ Lawyer for the Witkoff family; threatened the NYT with a defamation suit
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
+- [[C53 The Witkoff Family's Own Gulf Money]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Timothy Parlatore]] *threatened defamation suit on behalf of the Witkoffs* [[The New York Times]] · 2025-10-02 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Timothy Parlatore]] *threatened defamation suit on behalf of the Witkoffs* [[The New York Times]] · 2025-10-02 · [[C53 The Witkoff Family's Own Gulf Money|C53]]

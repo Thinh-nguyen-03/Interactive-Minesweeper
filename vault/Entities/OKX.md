@@ -18,12 +18,12 @@ Crypto exchange; account sent about $90M to aqua1.eth; pleaded guilty to US AML 
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C71 Who bought World Liberty tokens]] · Mostly accurate
+- [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[OKX]] *account sent ~$90M to aqua1.eth* [[Aqua 1 Foundation]] · 2025-03/2025-06 · $90M · [[C71 Who bought World Liberty tokens|C71]]
+- [[OKX]] *account sent ~$90M to aqua1.eth* [[Aqua 1 Foundation]] · 2025-03/2025-06 · $90M · [[C71 Who Bought World Liberty Tokens|C71]]

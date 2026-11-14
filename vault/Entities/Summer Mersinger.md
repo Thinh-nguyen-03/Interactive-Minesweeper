@@ -18,12 +18,12 @@ Ex-CFTC commissioner; Blockchain Association CEO from Jun 2025
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C54 The crypto revolving door]] · Mostly accurate
+- [[C54 The Crypto Revolving Door]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Summer Mersinger]] *CEO after leaving CFTC early* [[Blockchain Association]] · 2025-06-02 · [[C54 The crypto revolving door|C54]]
+- [[Summer Mersinger]] *CEO after leaving CFTC early* [[Blockchain Association]] · 2025-06-02 · [[C54 The Crypto Revolving Door|C54]]

@@ -18,6 +18,6 @@ Reported Sultan-HBJ link and jet ownership
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate

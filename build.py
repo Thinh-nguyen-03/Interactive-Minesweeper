@@ -140,31 +140,31 @@ HIDDEN_ENTITIES = {"coffeezilla", "unnamed-lawyer", "patreon", "investigating-th
 
 # Used only when data/topics.json is missing or a check has no topic in the index.
 TOPIC_FALLBACK = [
-    ("crypto-ventures", "Crypto ventures",
+    ("crypto-ventures", "Crypto Ventures",
      "Meme coins, World Liberty Financial, its stablecoin and the people who bought in.",
      r"meme coin|\$trump|\$melania|world liberty|wlf|usd1|token|binance|alt5|bitcoin|crypto"),
-    ("gulf-money", "Gulf money",
+    ("gulf-money", "Gulf Money",
      "Investments, property deals and gifts involving the UAE, Saudi Arabia and Qatar.",
      r"uae|gulf|qatar|saudi|abu dhabi|tahnoon|mgx|affinity|damac|silver lake|sovereign"),
-    ("regulators-and-enforcement", "Regulators and enforcement",
+    ("regulators-and-enforcement", "Regulators & Enforcement",
      "Cases dropped or settled, new laws, and the agencies that oversee family-linked firms.",
      r"\bsec\b|cftc|occ\b|enforcement|genius|clarity|charter|dropped|probes|revolving door|officials who"),
-    ("pardons-lobbyists-and-access", "Pardons, lobbyists and access",
+    ("pardons-lobbyists-and-access", "Pardons, Lobbyists & Access",
      "Clemency, paid intermediaries, donors and officials with earlier clients.",
      r"pardon|clemency|lobby|fixer|donor|ballroom|library|lawyers|schiller|dinner"),
-    ("trump-media-and-markets", "Trump Media and markets",
+    ("trump-media-and-markets", "Trump Media & Markets",
      "Trump Media, Truth Social posts, stock trades and prediction markets.",
      r"tmtg|trump media|truth|stock|prediction market|polymarket|etf|market-moving|spac|yorkville"),
-    ("defence-minerals-and-contracts", "Defence, minerals and contracts",
+    ("defence-minerals-and-contracts", "Defence, Minerals & Contracts",
      "Federal contracts, loans and equity stakes near firms the family invests in or advises.",
      r"pentagon|drone|vulcan|mineral|rare earth|contract|robots|procurement|greenland|congo|federal backing"),
-    ("family-ventures-and-wealth", "Family ventures and wealth",
+    ("family-ventures-and-wealth", "Family Ventures & Wealth",
      "What the family sells, owns and has earned, and who runs the vehicles.",
      r"wealth|merchandise|t1 phone|family|dominari|witkoff|kushner|melania|eric trump|don jr|shell"),
-    ("foreign-deals", "Foreign deals",
+    ("foreign-deals", "Foreign Deals",
      "Trump Organization and envoy-linked deals outside the Gulf.",
      r"foreign|albania|serbia|pakistan|russia|lukoil|hungary|tariff|kremlev|azerbaijan|tbilisi"),
-    ("tech-and-media-companies", "Tech and media companies",
+    ("tech-and-media-companies", "Tech & Media Companies",
      "Settlements, donations and deals involving large technology and media firms.",
      r"tech|amazon|documentary|settlement|sacks|nvidia|chips|ellison|musk"),
 ]
@@ -283,6 +283,94 @@ def cap_first(text):
     if text[0].islower() and not any(ch.isupper() for ch in first[1:]):
         return text[0].upper() + text[1:]
     return text
+
+
+# --------------------------------------------------------------------------
+# Title Case for labels: topic names, check titles, theme names and headings.
+# Principal words get a capital; short articles, conjunctions and prepositions
+# stay lower-case unless they open or close the label or follow a colon; a
+# word that already carries a capital (SEC, USD1, xAI, $TRUMP, Jr.'s) is left
+# exactly as written; "and" becomes "&" (and a serial comma before it goes).
+# Names of people and organisations found in the label are protected whole, so
+# "Securities and Exchange Commission" or "Sultan bin Jassim" keep their own form.
+# Running prose is never passed through here.
+# --------------------------------------------------------------------------
+SMALL_WORDS = {"a", "an", "the", "and", "but", "or", "nor", "of", "in", "on", "to", "for", "with", "by", "at",
+               "from", "as", "per", "via", "vs", "vs.", "into", "than"}
+NAME_PARTICLES = {"bin", "bint", "ibn", "al", "el", "de", "del", "da", "di", "van", "von", "der", "den", "la", "le"}
+# Spellings the rules cannot derive. Lower-case key -> the form to print.
+TITLE_EXCEPTIONS = {}
+_WORD_CORE = re.compile(r"^([^A-Za-z0-9$]*)(.*?)([^A-Za-z0-9+%]*)$")
+
+
+def protected_terms(names):
+    """Multi-word proper names that contain a word Title Case would change (and, bin, of ...)."""
+    out = set()
+    for name in names:
+        for part in re.split(r"\s*[(/)]\s*", name or ""):
+            words = part.split()
+            if len(words) < 2 or len(part) > 80:
+                continue
+            low = [w for w in words if w[:1].islower()]
+            if not low or any(w.lower() not in SMALL_WORDS | NAME_PARTICLES for w in low):
+                continue      # an ordinary phrase, or nothing in it that needs protecting
+            if words[0][:1].islower() or words[-1][:1].islower():
+                continue
+            out.add(part)
+    return sorted(out, key=len, reverse=True)
+
+
+def _case_piece(piece, force):
+    """One hyphen-free piece of a word."""
+    if not piece:
+        return piece
+    low = piece.lower()
+    if low in TITLE_EXCEPTIONS:
+        return TITLE_EXCEPTIONS[low]
+    if any(ch.isupper() for ch in piece) or not piece[0].isalpha():
+        return piece                      # SEC, xAI, Trump, 49%, $1.5: as written
+    if low in NAME_PARTICLES:
+        return piece
+    if low in SMALL_WORDS and not force:
+        return low
+    return piece[0].upper() + piece[1:]
+
+
+def title_case(text, protect=()):
+    text = clean_str(text)
+    if not text:
+        return text
+    held = []
+
+    def hold(m):
+        held.append(m.group(0))
+        return f"\x00{len(held) - 1}\x00"
+    for term in protect:
+        text = re.sub(r"(?<![\w-])" + re.escape(term) + r"(?![\w-])", hold, text)
+    text = re.sub(r",?\s+and\s+", " & ", text)
+    words = text.split(" ")
+    last = max((i for i, w in enumerate(words) if w != "&"), default=0)
+    out = []
+    start = True                          # first word, or the word after a colon, question mark or dash
+    for i, w in enumerate(words):
+        if w == "&" or "\x00" in w:
+            out.append(w)
+            start = False
+            continue
+        lead, core, tail = _WORD_CORE.match(w).groups()
+        force = start or i == last
+        if core.lower() in TITLE_EXCEPTIONS:
+            core = TITLE_EXCEPTIONS[core.lower()]
+        else:
+            m = re.match(r"^(.*?)('s|’s|'|’)?$", core)
+            stem, poss = m.group(1), m.group(2) or ""
+            parts = stem.split("-")
+            core = "-".join(_case_piece(p, force or (j > 0 and p.lower() not in SMALL_WORDS))
+                            for j, p in enumerate(parts)) + poss
+        out.append(lead + core + tail)
+        start = bool(re.search(r"[:?!;]$|^[–—-]$", w))
+    text = " ".join(out)
+    return re.sub(r"\x00(\d+)\x00", lambda m: held[int(m.group(1))], text)
 
 
 def sentences(text):
@@ -1181,9 +1269,9 @@ def who_groups(entities, lines, key_of, per=6):
             and not _US_BODY.search(e["name"]) and (e["type"] != "company" or re.search(
                 r"(?i)sovereign|state[- ](owned|backed|linked|fund|investment)|government", e.get("role") or ""))))
         and sum(1 for r in by_ent[e["key"]] if r["type"] in ("money", "ownership")) >= 3), key=rank)
-    groups = [("family", "Trump family", fam), ("officials", "Administration officials", officials),
-              ("partners", "Business partners and investors", partners),
-              ("foreign", "Foreign governments and funds", foreign)]
+    groups = [("family", "Trump Family", fam), ("officials", "Administration Officials", officials),
+              ("partners", "Business Partners & Investors", partners),
+              ("foreign", "Foreign Governments & Funds", foreign)]
     return [{"id": gid, "title": title, "names": [e["id"] for e in grp[:per]], "total": len(grp)}
             for gid, title, grp in groups if grp]
 
@@ -1639,13 +1727,13 @@ def write_vault(graph, neigh, key_of):
             out.append(f"**Verdict:** {VERDICT_LABEL[n['verdict']]}{conf}  ")
             out.append(f"**Type:** {CTYPE_LABEL[n['ctype']]}"
                        + (f" · {topic_name[n['topic']]}" if n["topic"] in topic_name else "") + "\n")
-            out.append("## The claim\n\n> " + (n["question"] or n["title"]) + "\n")
+            out.append("## The Claim\n\n> " + (n["question"] or n["title"]) + "\n")
             if n["verdict"] == "unverified":
                 out.append("> [!warning] " + UNPROVEN_NOTE.format("single-source " if n["single_source"] else "") + "\n")
             if n["verdict"] == "pending":
                 out.append("Verification of this claim has not been completed yet.\n")
             if n["bottom_line"]:
-                out.append("## Bottom line\n\n" + n["bottom_line"] + "\n")
+                out.append("## Bottom Line\n\n" + n["bottom_line"] + "\n")
                 if n["bottom_parts"]:
                     out += [f"- {x}" for x in n["bottom_parts"]]
                     out.append("")
@@ -1654,12 +1742,12 @@ def write_vault(graph, neigh, key_of):
             fix = [s for s in subs if s["verdict"] in CORRECT]
             unproven = [s for s in subs if s["verdict"] in ("unverified", "pending")]
             if holds:
-                out.append("## What holds up\n")
+                out.append("## What Holds Up\n")
                 out += [f"- {s['statement']}" if s["verdict"] == "confirmed"
                         else f"- {s['statement'].rstrip('.')} (mostly accurate)" for s in holds]
                 out.append("")
             if fix or n["corrections"]:
-                out.append("## What needs correcting\n")
+                out.append("## What Needs Correcting\n")
                 out += [f"- {s['statement'].rstrip('.')} ({VERDICT_LABEL[s['verdict']].lower()})" for s in fix]
                 for text, pair in zip(n["corrections"], n["correction_pairs"]):
                     if pair:
@@ -1668,24 +1756,24 @@ def write_vault(graph, neigh, key_of):
                         out.append(f"- {text}")
                 out.append("")
             if unproven:
-                out.append("## What is unproven\n")
+                out.append("## What Is Unproven\n")
                 out += [f"- {s['statement']}" for s in unproven]
                 out.append("")
             if n["summary_points"]:
-                out.append("## In more detail\n")
+                out.append("## In More Detail\n")
                 out += [f"- {x}" for x in n["summary_points"]]
                 out.append("")
             if n["parents"]:
-                out.append("## Builds on\n")
+                out.append("## Builds On\n")
                 out += [claim_line(key_of[p]) for p in n["parents"]]
                 out.append("")
             kids = [c for c in graph["nodes"] if c["kind"] == "claim" and n["id"] in c["parents"]]
             if kids:
-                out.append("## Checks that build on this one\n")
+                out.append("## Checks That Build on This One\n")
                 out += [claim_line(c) for c in kids]
                 out.append("")
             if subs:
-                out.append("## Sub-claims\n")
+                out.append("## Sub-Claims\n")
                 src_no = {x["url"]: i for i, x in enumerate(n["sources"], 1) if x["url"]}
                 for i, s in enumerate(subs, 1):
                     out.append(f"### {i}. {s['statement']}\n")
@@ -1700,7 +1788,7 @@ def write_vault(graph, neigh, key_of):
                         out.append("- Sources: " + " ".join(refs))
                     out.append("")
             if n["denials_and_context"]:
-                out.append("## Denials and context\n")
+                out.append("## Denials & Context\n")
                 for pts in n["denial_points"]:
                     out.append(f"- {pts[0]}")
                     out += [f"  - {x}" for x in pts[1:]]
@@ -1710,17 +1798,17 @@ def write_vault(graph, neigh, key_of):
                 out += [f"- {wl(t)}" for t in theme_of_claim[key]]
                 out.append("")
             if ents:
-                out.append("## People and organisations\n")
+                out.append("## People & Organisations\n")
                 for k in ents:
                     tag = " (named in the claim text)" if (key, k) in inferred else ""
                     out.append(f"- {wl(k)} · {TYPE_LABEL[key_of[k]['type']]}{tag}")
                 out.append("")
             crels = [r for r in graph["rels"] if n["id"] in r["claims"]]
             if crels:
-                out.append("## Relationships documented\n")
+                out.append("## Relationships Documented\n")
                 out += rel_groups(crels)
             if n["leads"]:
-                out.append("## Leads not covered here\n")
+                out.append("## Leads Not Covered Here\n")
                 for l in n["leads"]:
                     links = " ".join(wl("e:" + e) if ("e:" + e) in note else e for e in l["entities"])
                     src = f" [Source]({l['source_url']})" if l["source_url"] else ""
@@ -1740,7 +1828,7 @@ def write_vault(graph, neigh, key_of):
             if n["report"]:
                 body = re.sub(r"^#\s.*\n", "", n["report"].lstrip(), count=1)
                 body = re.sub(r"^(#{1,5})\s", lambda m: "#" + m.group(1) + " ", body, flags=re.M)
-                out.append("## Full report\n\n" + body.strip() + "\n")
+                out.append("## Full Report\n\n" + body.strip() + "\n")
             sub = "Claims"
         elif n["kind"] == "entity":
             cl = sorted((k for k in neigh[key] if key_of[k]["kind"] == "claim"), key=claim_sort_key)
@@ -1769,11 +1857,11 @@ def write_vault(graph, neigh, key_of):
                 out += [f"- {d}" for d in n["details"]]
                 out.append("")
             if n["more"]:
-                out.append("## How other checks describe it\n")
+                out.append("## How Other Checks Describe It\n")
                 out += [f"- {d}" for d in n["more"]]
                 out.append("")
             if cl:
-                out.append("## Appears in checks\n")
+                out.append("## Appears in Checks\n")
                 out += [claim_line(key_of[k]) for k in cl]
                 out.append("")
             if rels_by[key]:
@@ -1796,7 +1884,7 @@ def write_vault(graph, neigh, key_of):
                 out += [claim_line(key_of[c]) for c in n["claims"]]
                 out.append("")
             if n["entities"]:
-                out.append("## People and organisations\n")
+                out.append("## People & Organisations\n")
                 out += [f"- {wl(e)}" for e in n["entities"]]
                 out.append("")
             sub = "Themes"
@@ -1830,9 +1918,9 @@ def write_vault(graph, neigh, key_of):
         home += [f"- {wl('e:' + e)}" for e in g["names"] if ("e:" + e) in note]
     themes = [n for n in graph["nodes"] if n["kind"] == "theme"]
     if themes:
-        home.append("\n## Recurring themes\n")
+        home.append("\n## Recurring Themes\n")
         home += [f"- {wl(t['key'])}" for t in themes]
-    home.append("\n## Most connected\n")
+    home.append("\n## Most Connected\n")
     top = sorted((n for n in graph["nodes"] if n["kind"] == "entity"), key=lambda n: -n["degree"])[:25]
     home += [f"- {wl(n['key'])} ({n.get('claim_count', 0)} checks, {n['degree']} connections)" for n in top]
     (VAULT / "Home.md").write_text("\n".join(home) + "\n", encoding="utf-8")
@@ -1909,6 +1997,13 @@ def main():
     if not index and not claim_files:
         print("No claims found (data/claims-index.json and data/claims/ are both empty).", file=sys.stderr)
     claims, order, entities, rels, claim_ents, themes, topics = merge(index, claim_files, reports, base, topic_list)
+    # labels in Title Case, with "&" for "and": check titles and theme names (topic names are edited in topics.json)
+    protect = protected_terms([e.get("name", "") for e in entities.values()]
+                              + [a for e in entities.values() for a in as_list(e.get("aliases"))])
+    for c in claims.values():
+        c["title"] = title_case(c["title"], protect)
+    for t in themes:
+        t["name"] = title_case(t["name"], protect)
     graph, neigh, key_of = assemble(claims, order, entities, rels, claim_ents, themes, topics)
     enrich(graph, neigh, key_of)
     out = write_graph_js(graph)

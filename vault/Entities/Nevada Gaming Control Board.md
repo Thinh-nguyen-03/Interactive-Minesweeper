@@ -18,13 +18,13 @@ State regulator that issued a cease-and-desist to Crypto.com and won at the Nint
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
+- [[C22 Crypto.com's Deal with Trump Media]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (2)
 
-- [[Crypto.com Derivatives North America (CDNA, ex-NADEX)]] *sued to block state enforcement (lost PI Oct 2025; lost at 9th Cir. 2026-08-28)* [[Nevada Gaming Control Board]] · 2025-06 · [[C22 Crypto.com's deal with Trump Media|C22]]
-- [[Kalshi]] *litigated over event contracts; lost at 9th Cir* [[Nevada Gaming Control Board]] · 2026-08-28 · [[C22 Crypto.com's deal with Trump Media|C22]]
+- [[Crypto.com Derivatives North America (CDNA, ex-NADEX)]] *sued to block state enforcement (lost PI Oct 2025; lost at 9th Cir. 2026-08-28)* [[Nevada Gaming Control Board]] · 2025-06 · [[C22 Crypto.com's Deal with Trump Media|C22]]
+- [[Kalshi]] *litigated over event contracts; lost at 9th Cir* [[Nevada Gaming Control Board]] · 2026-08-28 · [[C22 Crypto.com's Deal with Trump Media|C22]]

@@ -18,12 +18,12 @@ New York AG; sued Coinbase, Gemini and Kalshi; defendant in CFTC suit.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate
+- [[C38 Polymarket Probes Closed Before 1789 Capital Invested]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Letitia James]] *sued* [[Kalshi]] · 2026-07-31 · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
+- [[Letitia James]] *sued* [[Kalshi]] · 2026-07-31 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]

@@ -18,16 +18,16 @@ $200M-$1B treasury vehicle reported Oct 2025; not confirmed
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C55 How much has the Trump family made Competing estimates]] · Mostly accurate
+- [[C55 How Much Has the Trump Family Made Competing Estimates]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Fight Fight Fight LLC]] *sought $200M-$1B to fund* [[Proposed $TRUMP digital-asset treasury]] · 2025-10-08 · $200M · [[C55 How much has the Trump family made Competing estimates|C55]]
+- [[Fight Fight Fight LLC]] *sought $200M-$1B to fund* [[Proposed $TRUMP digital-asset treasury]] · 2025-10-08 · $200M · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
 
 ### Commercial (1)
 
-- [[Proposed $TRUMP digital-asset treasury]] *would buy and hold* [[$TRUMP meme coin]] · 2025-10 · [[C55 How much has the Trump family made Competing estimates|C55]]
+- [[Proposed $TRUMP digital-asset treasury]] *would buy and hold* [[$TRUMP meme coin]] · 2025-10 · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]

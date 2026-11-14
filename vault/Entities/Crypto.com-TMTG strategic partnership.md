@@ -18,13 +18,13 @@ Includes $50M TMTG stock purchase.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
+- [[C22 Crypto.com's Deal with Trump Media]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Crypto.com]] *party to* [[Crypto.com-TMTG strategic partnership]] · [[C22 Crypto.com's deal with Trump Media|C22]]
-- [[Trump Media & Technology Group]] *party to* [[Crypto.com-TMTG strategic partnership]] · [[C22 Crypto.com's deal with Trump Media|C22]]
+- [[Crypto.com]] *party to* [[Crypto.com-TMTG strategic partnership]] · [[C22 Crypto.com's Deal with Trump Media|C22]]
+- [[Trump Media & Technology Group]] *party to* [[Crypto.com-TMTG strategic partnership]] · [[C22 Crypto.com's Deal with Trump Media|C22]]

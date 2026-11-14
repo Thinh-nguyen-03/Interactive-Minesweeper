@@ -18,12 +18,12 @@ Miami historian who sued MDC under the Sunshine Law; his farm nonprofit is a fed
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C48 The Trump presidential library foundation's money and land]] · Mostly accurate
+- [[C48 The Trump Presidential Library Foundation's Money & Land]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Marvin Dunn]] *sued under Sunshine Law (dismissed 18 Dec 2025)* [[Miami Dade College]] · 2025-10 · [[C48 The Trump presidential library foundation's money and land|C48]]
+- [[Marvin Dunn]] *sued under Sunshine Law (dismissed 18 Dec 2025)* [[Miami Dade College]] · 2025-10 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]

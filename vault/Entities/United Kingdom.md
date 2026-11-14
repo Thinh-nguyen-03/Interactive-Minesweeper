@@ -18,18 +18,18 @@ Where Zhou is under investigation
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - UK; site of Zhou investigation
 
-## Appears in checks
+## Appears in Checks
 
-- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
-- [[C71 Who bought World Liberty tokens]] · Mostly accurate
+- [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
+- [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (2)
 
-- [[United Kingdom]] *arrested 2021 on suspicion of money laundering; probe active, uncharged* [[Guren 'Bobby' Zhou]] · 2021 · [[C67 Investors who appear in several Trump-family vehicles|C67]]
-- [[United Kingdom]] *arrested 2021 on suspicion of money laundering; uncharged, probe open* [[Guren 'Bobby' Zhou]] · 2021 · [[C71 Who bought World Liberty tokens|C71]]
+- [[United Kingdom]] *arrested 2021 on suspicion of money laundering; probe active, uncharged* [[Guren 'Bobby' Zhou]] · 2021 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
+- [[United Kingdom]] *arrested 2021 on suspicion of money laundering; uncharged, probe open* [[Guren 'Bobby' Zhou]] · 2021 · [[C71 Who Bought World Liberty Tokens|C71]]

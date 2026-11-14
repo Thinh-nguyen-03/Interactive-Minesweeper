@@ -18,12 +18,12 @@ Journalist killed in 2018 in the Saudi consulate in Istanbul
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C56 Saudi Arabia family deals alongside US policy decisions]] · Mostly accurate
+- [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Donald Trump]] *said of killing 'things happen' and MBS 'knew nothing'* [[Jamal Khashoggi]] · 2025-11-18 · [[C56 Saudi Arabia family deals alongside US policy decisions|C56]]
+- [[Donald Trump]] *said of killing 'things happen' and MBS 'knew nothing'* [[Jamal Khashoggi]] · 2025-11-18 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]

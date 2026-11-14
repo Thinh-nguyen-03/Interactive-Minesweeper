@@ -18,14 +18,14 @@ Musk-led cost-cutting effort embedded at GSA.
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 
 ## Relationships
 
 ### Political (3)
 
-- [[Elon Musk]] *led* [[Department of Government Efficiency]] · 2025 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
-- [[Josh Gruenbaum]] *came in with Musk-linked DOGE contingent at GSA* [[Department of Government Efficiency]] · 2025-01 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
-- [[Antonio Gracias]] *DOGE volunteer at SSA* [[Department of Government Efficiency]] · 2025-03/2025-07 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[Elon Musk]] *led* [[Department of Government Efficiency]] · 2025 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
+- [[Josh Gruenbaum]] *came in with Musk-linked DOGE contingent at GSA* [[Department of Government Efficiency]] · 2025-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
+- [[Antonio Gracias]] *DOGE volunteer at SSA* [[Department of Government Efficiency]] · 2025-03/2025-07 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]

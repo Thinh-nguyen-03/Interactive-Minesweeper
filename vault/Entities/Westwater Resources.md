@@ -18,12 +18,12 @@ Graphite developer with EXIM financing; on NYT list
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
+- [[C60 Government Equity Stakes in Critical-Minerals Companies]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Export-Import Bank of the United States]] *financing for graphite project* [[Westwater Resources]] · 2026-08 · [[C60 Government equity stakes in critical-minerals companies|C60]]
+- [[Export-Import Bank of the United States]] *financing for graphite project* [[Westwater Resources]] · 2026-08 · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]

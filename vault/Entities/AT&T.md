@@ -18,12 +18,12 @@ Listed at $5M 'pledged'; denies giving
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[AT&T]] *listed $5M 'pledged'; AT&T denies* [[White House ballroom]] · $5M · [[C92 The White House ballroom donor list|C92]]
+- [[AT&T]] *listed $5M 'pledged'; AT&T denies* [[White House ballroom]] · $5M · [[C92 The White House Ballroom Donor List|C92]]

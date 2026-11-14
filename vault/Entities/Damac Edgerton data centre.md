@@ -18,16 +18,16 @@ $860M warehouse conversion at Logistics Park Kansas City, Edgerton, KS; approved
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge]] · Mostly accurate
+- [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[City of Edgerton, Kansas]] *council overrode planning-commission denial of site plan* [[Damac Edgerton data centre]] · 2026-07-16 · [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge|C88]]
+- [[City of Edgerton, Kansas]] *council overrode planning-commission denial of site plan* [[Damac Edgerton data centre]] · 2026-07-16 · [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]
 
 ### Commercial (1)
 
-- [[Edgnex Data Centers by Damac]] *developer of ($860M)* [[Damac Edgerton data centre]] · 2026 · $860M · [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge|C88]]
+- [[Edgnex Data Centers by Damac]] *developer of ($860M)* [[Damac Edgerton data centre]] · 2026 · $860M · [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]

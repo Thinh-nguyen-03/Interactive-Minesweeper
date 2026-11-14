@@ -21,17 +21,17 @@ Ellison company merged with Paramount (2025), name of the combined group (2026)
 | Connections | 3 |
 | Also known as | Skydance |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Acquirer of Paramount; made ombudsman/anti-DEI commitments to the FCC
 
-## Appears in checks
+## Appears in Checks
 
-- [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom]] · Mostly accurate
-- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
+- [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom]] · Mostly accurate
+- [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Skydance Media]] *acquired* [[Paramount]] · 2025-08 · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]
+- [[Skydance Media]] *acquired* [[Paramount]] · 2025-08 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]

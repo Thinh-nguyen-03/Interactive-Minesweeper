@@ -18,22 +18,22 @@ GreenMet CEO; former Pence policy director and DNI adviser
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - GreenMet founder/CEO; former Pence policy director
 
-## Appears in checks
+## Appears in Checks
 
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
-- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
+- [[C83 Keith Schiller & George Sorial's Lobbying Clients]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Drew Horn]] *founder/CEO* [[GreenMet (Greentech Minerals Holdings)]] · 2021 · [[C83 Keith Schiller and George Sorial's lobbying clients|C83]]
-- [[Drew Horn]] *CEO* [[GreenMet (Greentech Minerals Holdings)]] · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Drew Horn]] *founder/CEO* [[GreenMet (Greentech Minerals Holdings)]] · 2021 · [[C83 Keith Schiller & George Sorial's Lobbying Clients|C83]]
+- [[Drew Horn]] *CEO* [[GreenMet (Greentech Minerals Holdings)]] · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
 
 ### Advisory (1)
 
-- [[Drew Horn]] *represents in Washington* [[Locksley Resources]] · 2025-08 · [[C83 Keith Schiller and George Sorial's lobbying clients|C83]]
+- [[Drew Horn]] *represents in Washington* [[Locksley Resources]] · 2025-08 · [[C83 Keith Schiller & George Sorial's Lobbying Clients|C83]]

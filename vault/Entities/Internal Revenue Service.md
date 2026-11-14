@@ -18,12 +18,12 @@ Granted the foundation's 501(c)(3) status in 10 days during the shutdown
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C48 The Trump presidential library foundation's money and land]] · Mostly accurate
+- [[C48 The Trump Presidential Library Foundation's Money & Land]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Internal Revenue Service]] *granted tax exemption in 10 days during shutdown* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-10-20 · [[C48 The Trump presidential library foundation's money and land|C48]]
+- [[Internal Revenue Service]] *granted tax exemption in 10 days during shutdown* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-10-20 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]

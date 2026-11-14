@@ -18,20 +18,20 @@ PIF-backed Saudi AI company launched May 2025
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C56 Saudi Arabia family deals alongside US policy decisions]] · Mostly accurate
+- [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Public Investment Fund (Saudi Arabia)]] *owns/backs* [[Humain]] · 2025-05 · [[C56 Saudi Arabia family deals alongside US policy decisions|C56]]
+- [[Public Investment Fund (Saudi Arabia)]] *owns/backs* [[Humain]] · 2025-05 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 
 ### Regulatory (1)
 
-- [[US Department of Commerce]] *approved up to 35,000 GB300-equivalent chips for* [[Humain]] · 2025-11-19 · [[C56 Saudi Arabia family deals alongside US policy decisions|C56]]
+- [[US Department of Commerce]] *approved up to 35,000 GB300-equivalent chips for* [[Humain]] · 2025-11-19 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 
 ### Commercial (1)
 
-- [[Nvidia]] *to supply 18,000 GB300 chips (first phase)* [[Humain]] · 2025-05-13 · [[C56 Saudi Arabia family deals alongside US policy decisions|C56]]
+- [[Nvidia]] *to supply 18,000 GB300 chips (first phase)* [[Humain]] · 2025-05-13 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]

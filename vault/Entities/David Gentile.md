@@ -18,12 +18,12 @@ GPB Capital executive; commuted; about $15.5M restitution voided
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C49 The market for pardon lobbying]] · Mostly accurate
+- [[C49 The Market for Pardon Lobbying]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Donald Trump]] *commuted sentence (~$15.5M restitution voided)* [[David Gentile]] · $15.5M · [[C49 The market for pardon lobbying|C49]]
+- [[Donald Trump]] *commuted sentence (~$15.5M restitution voided)* [[David Gentile]] · $15.5M · [[C49 The Market for Pardon Lobbying|C49]]

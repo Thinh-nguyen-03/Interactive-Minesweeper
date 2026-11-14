@@ -18,12 +18,12 @@ U.S. representative (D-GA); co-led the inquiry letter to Amazon.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C44 Amazon's $40 million Melania Trump documentary deal]] · Mostly accurate
+- [[C44 Amazon's $40 Million Melania Trump Documentary Deal]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Hank Johnson]] *co-led inquiry letter to* [[Andy Jassy]] · 2026-03-16 · [[C44 Amazon's $40 million Melania Trump documentary deal|C44]]
+- [[Hank Johnson]] *co-led inquiry letter to* [[Andy Jassy]] · 2026-03-16 · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]

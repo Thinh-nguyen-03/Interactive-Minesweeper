@@ -18,7 +18,7 @@ Listing venue for NWAX units, shares and warrants.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
 - [[C27 The New America Acquisition I SPAC]] · Mostly accurate
 

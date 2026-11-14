@@ -18,12 +18,12 @@ Investment firm where Gruenbaum was a credit-team director before GSA.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Josh Gruenbaum]] *former director, credit team, at* [[KKR]] · 2020-2025 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[Josh Gruenbaum]] *former director, credit team, at* [[KKR]] · 2020-2025 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]

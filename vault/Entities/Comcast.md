@@ -18,16 +18,16 @@ Listed donor; FCC probes 2025
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Comcast]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The White House ballroom donor list|C92]]
+- [[Comcast]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The White House Ballroom Donor List|C92]]
 
 ### Regulatory (1)
 
-- [[Federal Communications Commission]] *opened affiliate-relations probe* [[Comcast]] · 2025-07 · [[C92 The White House ballroom donor list|C92]]
+- [[Federal Communications Commission]] *opened affiliate-relations probe* [[Comcast]] · 2025-07 · [[C92 The White House Ballroom Donor List|C92]]

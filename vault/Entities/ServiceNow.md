@@ -18,12 +18,12 @@ Confirmed $5M ballroom gift
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[ServiceNow]] *gave $5M (company confirmed)* [[White House ballroom]] · $5M · [[C92 The White House ballroom donor list|C92]]
+- [[ServiceNow]] *gave $5M (company confirmed)* [[White House ballroom]] · $5M · [[C92 The White House Ballroom Donor List|C92]]

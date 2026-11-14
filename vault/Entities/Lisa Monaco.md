@@ -18,12 +18,12 @@ Microsoft president of global affairs; ex-Deputy AG
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
+- [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Lisa Monaco]] *president of global affairs* [[Microsoft]] · 2025 · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
+- [[Lisa Monaco]] *president of global affairs* [[Microsoft]] · 2025 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]

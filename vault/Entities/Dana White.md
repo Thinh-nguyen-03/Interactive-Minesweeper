@@ -18,17 +18,17 @@ UFC/TKO executive; Trump ally
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds]] · Mostly accurate
-- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
+- [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
+- [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Dana White]] *executive of* [[TKO Group]] · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[Dana White]] *executive of* [[TKO Group]] · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]
 
 ### Political (1)
 
-- [[Dana White]] *longtime ally of* [[Donald Trump]] · 2026 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Dana White]] *longtime ally of* [[Donald Trump]] · 2026 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]

@@ -18,12 +18,12 @@ Launched 17 Jul 2026.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
+- [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Serbia]] *launched with US* [[US-Serbia Strategic Dialogue]] · 2026-07-17 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[Serbia]] *launched with US* [[US-Serbia Strategic Dialogue]] · 2026-07-17 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]

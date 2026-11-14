@@ -18,12 +18,12 @@ Donlin co-owner merging with Paulson's 40%
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
+- [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[NovaGold Resources]] *all-stock acquisition of Paulson's 40% Donlin stake (~$4.2B)* [[Paulson & Co]] · 2026-07-21 · $4.2B · [[C86 Major Trump donors with stakes in federally backed companies|C86]]
+- [[NovaGold Resources]] *all-stock acquisition of Paulson's 40% Donlin stake (~$4.2B)* [[Paulson & Co]] · 2026-07-21 · $4.2B · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]

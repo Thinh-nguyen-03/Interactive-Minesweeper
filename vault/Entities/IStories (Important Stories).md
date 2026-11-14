@@ -18,6 +18,6 @@ Russian investigative outlet; Kazakhstan report
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
+- [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate

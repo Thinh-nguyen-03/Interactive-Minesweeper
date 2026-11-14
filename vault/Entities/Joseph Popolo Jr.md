@@ -18,16 +18,16 @@ US ambassador to the Netherlands; $1M ballroom gift
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Joseph Popolo Jr]] *gave $1M (WaPo leak)* [[White House ballroom]] · $1M · [[C92 The White House ballroom donor list|C92]]
+- [[Joseph Popolo Jr]] *gave $1M (WaPo leak)* [[White House ballroom]] · $1M · [[C92 The White House Ballroom Donor List|C92]]
 
 ### Political (1)
 
-- [[Donald Trump]] *named ambassador to the Netherlands* [[Joseph Popolo Jr]] · 2025-01 · [[C92 The White House ballroom donor list|C92]]
+- [[Donald Trump]] *named ambassador to the Netherlands* [[Joseph Popolo Jr]] · 2025-01 · [[C92 The White House Ballroom Donor List|C92]]

@@ -21,18 +21,18 @@ Drone maker; conditional OSC loan up to $450M (Nov 2026)
 | Connections | 3 |
 | Also known as | Neros |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Drone maker; up to $450M conditional OSC loan
 
-## Appears in checks
+## Appears in Checks
 
-- [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
-- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate
+- [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme]] · Mostly accurate
+- [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Office of Strategic Capital]] *conditional loan up to $450M to* [[Neros Technologies]] · 2026-11 · $450M · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Office of Strategic Capital]] *conditional loan commitment up to $450M* [[Neros Technologies]] · 2026-11-02 · $450M · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
+- [[Office of Strategic Capital]] *conditional loan up to $450M to* [[Neros Technologies]] · 2026-11 · $450M · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
+- [[Office of Strategic Capital]] *conditional loan commitment up to $450M* [[Neros Technologies]] · 2026-11-02 · $450M · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]

@@ -18,12 +18,12 @@ Rwanda-backed rebel movement controlling Rubaya; US-sanctioned.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
+- [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[AFC M23]] *controls and taxes* [[Rubaya coltan mine]] · 2024/2026 · $800K · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[AFC M23]] *controls and taxes* [[Rubaya coltan mine]] · 2024/2026 · $800K · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]

@@ -18,17 +18,17 @@ Tribeca Developers founder
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Tribeca founder
 
-## Appears in checks
+## Appears in Checks
 
-- [[C59 Foreign Trump Organization projects and tariff negotiations]] · Partly accurate
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
+- [[C59 Foreign Trump Organization Projects & Tariff Negotiations]] · Partly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Kalpesh Mehta]] *founded* [[Tribeca Developers]] · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]] [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
+- [[Kalpesh Mehta]] *founded* [[Tribeca Developers]] · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]] [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]

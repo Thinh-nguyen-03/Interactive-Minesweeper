@@ -21,22 +21,22 @@ BlackRock/GIP/MGX/Microsoft/Nvidia vehicle; KIA and Temasek anchors
 | Connections | 7 |
 | Also known as | AI Infrastructure Partnership (AIP) |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - BlackRock/GIP/MGX/Microsoft/Nvidia AI infrastructure vehicle.
 
-## Appears in checks
+## Appears in Checks
 
-- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
-- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
+- [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals]] · Mostly accurate
+- [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (6)
 
-- [[BlackRock]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
-- [[MGX]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
-- [[MGX]] *founding partner of* [[AI Infrastructure Partnership]] · 2024-09 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Microsoft]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
-- [[Nvidia]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
-- [[AI Infrastructure Partnership]] *co-acquired (first deal)* [[Aligned Data Centers]] · 2026-07 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
+- [[BlackRock]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
+- [[MGX]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
+- [[MGX]] *founding partner of* [[AI Infrastructure Partnership]] · 2024-09 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]
+- [[Microsoft]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
+- [[Nvidia]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
+- [[AI Infrastructure Partnership]] *co-acquired (first deal)* [[Aligned Data Centers]] · 2026-07 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]

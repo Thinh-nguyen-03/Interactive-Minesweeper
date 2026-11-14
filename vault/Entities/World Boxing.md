@@ -18,13 +18,13 @@ Federation provisionally recognised by IOC for LA28 boxing
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
+- [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (2)
 
-- [[International Olympic Committee]] *provisionally recognised for LA28* [[World Boxing]] · 2025-02-26 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
-- [[World Boxing]] *governs boxing at* [[LA 2028 Olympic Games]] · 2025-03 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[International Olympic Committee]] *provisionally recognised for LA28* [[World Boxing]] · 2025-02-26 · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]
+- [[World Boxing]] *governs boxing at* [[LA 2028 Olympic Games]] · 2025-03 · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]

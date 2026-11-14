@@ -18,17 +18,17 @@ EUR 12.3B Eagle Hills district announced 20 Jan 2025; dropped in early 2025.
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
+- [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Viktor Orbán]] *government announced contract on inauguration day* [[Grand Budapest (Rákosrendező) project]] · 2025-01-20 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[Viktor Orbán]] *government announced contract on inauguration day* [[Grand Budapest (Rákosrendező) project]] · 2025-01-20 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]
 
 ### Commercial (2)
 
-- [[Jared Kushner]] *reportedly may join (single-source, unconfirmed)* [[Grand Budapest (Rákosrendező) project]] · 2025-01 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
-- [[Eagle Hills]] *developer (EUR 12.3B contract, dropped early 2025)* [[Grand Budapest (Rákosrendező) project]] · 2025-01-20 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[Jared Kushner]] *reportedly may join (single-source, unconfirmed)* [[Grand Budapest (Rákosrendező) project]] · 2025-01 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]
+- [[Eagle Hills]] *developer (EUR 12.3B contract, dropped early 2025)* [[Grand Budapest (Rákosrendező) project]] · 2025-01-20 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]

@@ -18,12 +18,12 @@ Arranged the 2021 Menendez-Sultan meeting per ICIJ; first name not confirmed her
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Doyle (former Biden aide)]] *arranged meeting with Sultan for* [[Bob Menendez]] · 2021 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
+- [[Doyle (former Biden aide)]] *arranged meeting with Sultan for* [[Bob Menendez]] · 2021 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]

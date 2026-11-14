@@ -18,12 +18,12 @@ GOP holdouts who blocked the Crypto Week rule on 2025-07-15
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C11 The GENIUS and CLARITY Acts and the family's stablecoin]] · Mostly accurate
+- [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Donald Trump]] *met and called holdouts to flip votes* [[House Freedom Caucus]] · 2025-07-15 · [[C11 The GENIUS and CLARITY Acts and the family's stablecoin|C11]]
+- [[Donald Trump]] *met and called holdouts to flip votes* [[House Freedom Caucus]] · 2025-07-15 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]

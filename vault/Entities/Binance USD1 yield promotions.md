@@ -18,17 +18,17 @@ Binance offering ~20% annual yield to hold USD1.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C10 Binance's role in the growth of USD1]] · Mostly accurate
+- [[C10 Binance's Role in the Growth of USD1]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Binance]] *offered ~20% yield in* [[Binance USD1 yield promotions]] · [[C10 Binance's role in the growth of USD1|C10]]
-- [[Binance USD1 yield promotions]] *drove adoption of* [[USD1]] · [[C10 Binance's role in the growth of USD1|C10]]
+- [[Binance]] *offered ~20% yield in* [[Binance USD1 yield promotions]] · [[C10 Binance's Role in the Growth of USD1|C10]]
+- [[Binance USD1 yield promotions]] *drove adoption of* [[USD1]] · [[C10 Binance's Role in the Growth of USD1|C10]]
 
 ## Themes
 
-- [[Theme - Narrative ahead of product; circular deals]]
+- [[Theme - Narrative Ahead of Product; Circular Deals]]

@@ -18,12 +18,12 @@ ALT5 president, later acting CEO.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty]] · Mostly accurate
+- [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Tony Isaac]] *president, then acting CEO* [[ALT5 Sigma]] · 2025-11 · [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty|C13]]
+- [[Tony Isaac]] *president, then acting CEO* [[ALT5 Sigma]] · 2025-11 · [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty|C13]]

@@ -18,12 +18,12 @@ Senator co-signing Aug 2026 IG letter
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Tammy Duckworth]] *co-signed probe request to* [[DoD Inspector General (Platte B. Moring III)]] · 2026-08-04 · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Tammy Duckworth]] *co-signed probe request to* [[DoD Inspector General (Platte B. Moring III)]] · 2026-08-04 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]

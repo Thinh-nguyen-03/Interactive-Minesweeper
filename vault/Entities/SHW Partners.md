@@ -18,16 +18,16 @@ Jason Miller's firm; India embassy FARA client
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
+- [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[India]] *$1.8M/year embassy contract* [[SHW Partners]] · 2025-04-24 · $1.8M · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[India]] *$1.8M/year embassy contract* [[SHW Partners]] · 2025-04-24 · $1.8M · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 
 ### Ownership (1)
 
-- [[Jason Miller]] *heads* [[SHW Partners]] · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Jason Miller]] *heads* [[SHW Partners]] · [[C64 Lobbyists & Intermediaries with White House Access|C64]]

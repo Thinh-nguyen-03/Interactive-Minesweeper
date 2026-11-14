@@ -21,21 +21,21 @@ Lead operator of Reko Diq
 | Connections | 4 |
 | Also known as | Barrick Mining |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - 50% owner of Reko Diq.
 
-## Appears in checks
+## Appears in Checks
 
-- [[C69 Master timeline money events and government actions]] · Partly accurate
-- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
+- [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Export-Import Bank of the United States]] *financed Reko Diq project* [[Barrick]] · 2025-12-10 · $1.25B · [[C69 Master timeline money events and government actions|C69]]
+- [[Export-Import Bank of the United States]] *financed Reko Diq project* [[Barrick]] · 2025-12-10 · $1.25B · [[C69 Master Timeline Money Events & Government Actions|C69]]
 
 ### Ownership (1)
 
-- [[Barrick]] *50% owner* [[Reko Diq]] · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
+- [[Barrick]] *50% owner* [[Reko Diq]] · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]

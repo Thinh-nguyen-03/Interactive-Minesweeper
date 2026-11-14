@@ -18,16 +18,16 @@ Citrone's hedge fund
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C65 Officials who decided matters involving former clients or partners]] · Mostly accurate
+- [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Discovery Capital Management]] *large bond positions* [[Argentina]] · 2025-09 · [[C65 Officials who decided matters involving former clients or partners|C65]]
+- [[Discovery Capital Management]] *large bond positions* [[Argentina]] · 2025-09 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 
 ### Ownership (1)
 
-- [[Rob Citrone]] *co-founder* [[Discovery Capital Management]] · [[C65 Officials who decided matters involving former clients or partners|C65]]
+- [[Rob Citrone]] *co-founder* [[Discovery Capital Management]] · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]

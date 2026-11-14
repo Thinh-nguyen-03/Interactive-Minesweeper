@@ -18,13 +18,13 @@ Pipeline company; Lake Charles LNG
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
+- [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Energy Transfer]] *developer; suspended project* [[Lake Charles LNG]] · 2025-12-18 · [[C86 Major Trump donors with stakes in federally backed companies|C86]]
-- [[Kelcy Warren]] *chairman/co-founder* [[Energy Transfer]] · [[C86 Major Trump donors with stakes in federally backed companies|C86]]
+- [[Energy Transfer]] *developer; suspended project* [[Lake Charles LNG]] · 2025-12-18 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
+- [[Kelcy Warren]] *chairman/co-founder* [[Energy Transfer]] · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]

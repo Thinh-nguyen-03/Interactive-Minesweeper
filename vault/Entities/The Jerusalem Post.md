@@ -12,7 +12,7 @@ tags:
 
 Pulled its write-up of the excerpt citing 'significant factual questions'; ran a skeptical column.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C46 The alleged Kushner Gulf accounts|C46]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C46 The Alleged Kushner Gulf Accounts|C46]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,12 +20,12 @@ Pulled its write-up of the excerpt citing 'significant factual questions'; ran a
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C46 The alleged Kushner Gulf accounts]] · Unverified · unverified allegation, single source
+- [[C46 The Alleged Kushner Gulf Accounts]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
 ### Media (1)
 
-- [[The Jerusalem Post]] *pulled write-up citing 'significant factual questions' about (per Mediaite)* [[Princes and Thieves (book)]] · 2026-10 · [[C46 The alleged Kushner Gulf accounts|C46]] · unverified allegation
+- [[The Jerusalem Post]] *pulled write-up citing 'significant factual questions' about (per Mediaite)* [[Princes and Thieves (book)]] · 2026-10 · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation

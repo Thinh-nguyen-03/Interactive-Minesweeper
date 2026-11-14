@@ -18,12 +18,12 @@ Albanian protest movement from May 2026 against the Kushner-linked project.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C45 Kushner's resort projects in Albania and Serbia]] · Mostly accurate
+- [[C45 Kushner's Resort Projects in Albania & Serbia]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Zvernec protests ('Flamingo Revolution')]] *demands resignation of* [[Edi Rama]] · 2026-05 · [[C45 Kushner's resort projects in Albania and Serbia|C45]]
+- [[Zvernec protests ('Flamingo Revolution')]] *demands resignation of* [[Edi Rama]] · 2026-05 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]

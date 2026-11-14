@@ -18,25 +18,25 @@ Former Trump chief strategist; coined the 'flood the zone' / 'muzzle velocity' m
 | Appears in | 2 checks |
 | Connections | 5 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Criticised Sacks's judgment
 
-## Appears in checks
+## Appears in Checks
 
-- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
-- [[C34 David Sacks the AI and crypto adviser and his investments]] · Mostly accurate
+- [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters]] · Mostly accurate
+- [[C34 David Sacks The AI & Crypto Adviser & His Investments]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] · [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]
+- [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] · [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]
 
 ### Political (1)
 
-- [[Steve Bannon]] *criticised judgment of* [[David Sacks]] · 2025-12 · [[C34 David Sacks the AI and crypto adviser and his investments|C34]]
+- [[Steve Bannon]] *criticised judgment of* [[David Sacks]] · 2025-12 · [[C34 David Sacks The AI & Crypto Adviser & His Investments|C34]]
 
 ### Media (1)
 
-- [[Steve Bannon]] *described 'flood the zone / muzzle velocity' in interview with* [[PBS Frontline]] · 2019 · [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]
+- [[Steve Bannon]] *described 'flood the zone / muzzle velocity' in interview with* [[PBS Frontline]] · 2019 · [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]

@@ -18,12 +18,12 @@ Geologist and former Tanbreez owner whom U.S. officials lobbied
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Greg Barnes]] *sold Tanbreez control for $5M cash + $211M stock* [[Critical Metals Corp]] · 2024 · $216M · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Greg Barnes]] *sold Tanbreez control for $5M cash + $211M stock* [[Critical Metals Corp]] · 2024 · $216M · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]

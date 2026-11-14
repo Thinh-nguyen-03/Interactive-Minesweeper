@@ -18,12 +18,12 @@ ImmigrationOS contract
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
+- [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[ICE]] *ImmigrationOS contract* [[Palantir Technologies (PLTR)]] · 2025-04 · $30M · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
+- [[ICE]] *ImmigrationOS contract* [[Palantir Technologies (PLTR)]] · 2025-04 · $30M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]

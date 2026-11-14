@@ -18,26 +18,26 @@ Son of Howard Lutnick; executive vice chair of Cantor Fitzgerald
 | Appears in | 4 checks |
 | Connections | 6 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Cantor Fitzgerald executive, son of Howard Lutnick
 - Cantor executive vice chair; Howard Lutnick's son
 
-## Appears in checks
+## Appears in Checks
 
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
-- [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business]] · Mostly accurate
-- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
+- [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business]] · Mostly accurate
+- [[C60 Government Equity Stakes in Critical-Minerals Companies]] · Mostly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (3)
 
-- [[Kyle Lutnick]] *executive vice chair* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
-- [[Kyle Lutnick]] *executive at* [[Cantor Fitzgerald]] · [[C60 Government equity stakes in critical-minerals companies|C60]]
-- [[Kyle Lutnick]] *executive vice chair of* [[Cantor Fitzgerald]] · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[Kyle Lutnick]] *executive vice chair* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]] [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[Kyle Lutnick]] *executive at* [[Cantor Fitzgerald]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Kyle Lutnick]] *executive vice chair of* [[Cantor Fitzgerald]] · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 
 ### Family (1)
 
-- [[Howard Lutnick]] *father of* [[Kyle Lutnick]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]] [[C60 Government equity stakes in critical-minerals companies|C60]]
+- [[Howard Lutnick]] *father of* [[Kyle Lutnick]] · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]] [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]] [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]

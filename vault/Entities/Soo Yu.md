@@ -18,12 +18,12 @@ Dominari special-projects manager and Kyle Wool's spouse; holds about 1.24M DOMH
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C91 Dominari option grants and trading before the Trump sons' arrival]] · Mostly accurate
+- [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival]] · Mostly accurate
 
 ## Relationships
 
 ### Family (1)
 
-- [[Soo Yu]] *spouse of* [[Kyle Wool]] · [[C91 Dominari option grants and trading before the Trump sons' arrival|C91]]
+- [[Soo Yu]] *spouse of* [[Kyle Wool]] · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]

@@ -18,13 +18,13 @@ Lawsuits flying both ways between Sun and WLF.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C05 Justin Sun, World Liberty Financial and the SEC]] · Mostly accurate
+- [[C05 Justin Sun, World Liberty Financial & the SEC]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (2)
 
-- [[Justin Sun]] *party to* [[Sun v. World Liberty lawsuits]] · [[C05 Justin Sun, World Liberty Financial and the SEC|C05]]
-- [[World Liberty Financial]] *party to* [[Sun v. World Liberty lawsuits]] · [[C05 Justin Sun, World Liberty Financial and the SEC|C05]]
+- [[Justin Sun]] *party to* [[Sun v. World Liberty lawsuits]] · [[C05 Justin Sun, World Liberty Financial & the SEC|C05]]
+- [[World Liberty Financial]] *party to* [[Sun v. World Liberty lawsuits]] · [[C05 Justin Sun, World Liberty Financial & the SEC|C05]]

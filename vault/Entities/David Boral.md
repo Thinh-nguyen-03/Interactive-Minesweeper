@@ -18,12 +18,12 @@ Chairman of D. Boral Capital and its SPAC affiliates
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate
+- [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[David Boral]] *chairman* [[D. Boral Capital]] · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
+- [[David Boral]] *chairman* [[D. Boral Capital]] · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]

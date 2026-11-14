@@ -18,12 +18,12 @@ Trade group whose registered lobbyist lobbies DOE.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu]] · Mostly accurate
+- [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Fusion Industry Association]] *lobbies (registered)* [[U.S. Department of Energy]] · 2025 · [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu|C41]]
+- [[Fusion Industry Association]] *lobbies (registered)* [[U.S. Department of Energy]] · 2025 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]

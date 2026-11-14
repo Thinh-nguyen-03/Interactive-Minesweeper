@@ -18,27 +18,27 @@ Chicago trading firm founded and controlled by Don Wilson; bought ~4M TMTG share
 | Appears in | 3 checks |
 | Connections | 6 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Don Wilson firm; ~$100M TMTG share buyer
 - Don Wilson's firm; ~$100M TMTG buyer
 
-## Appears in checks
+## Appears in Checks
 
-- [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo]] · Mostly accurate
-- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate
-- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
+- [[C19 The Strategic Bitcoin Reserve, Trump Media's Bitcoin Treasury & a Cumberland Investor]] · Mostly accurate
+- [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles]] · Mostly accurate
+- [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Money (3)
 
-- [[DRW Investments]] *bought ~$100M of shares* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C67 Investors who appear in several Trump-family vehicles|C67]]
-- [[DRW Investments]] *bought ~4M shares* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
-- [[DRW Investments]] *bought ~4M shares (~$100M) in bitcoin-treasury raise* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
+- [[DRW Investments]] *bought ~$100M of shares* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
+- [[DRW Investments]] *bought ~4M shares* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[DRW Investments]] *bought ~4M shares (~$100M) in bitcoin-treasury raise* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C19 The Strategic Bitcoin Reserve, Trump Media's Bitcoin Treasury & a Cumberland Investor|C19]]
 
 ### Ownership (3)
 
-- [[Don Wilson]] *founded and controls* [[DRW Investments]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
-- [[Don Wilson]] *founder/controller* [[DRW Investments]] · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
-- [[DRW Investments]] *parent of crypto unit* [[Cumberland (DRW)]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
+- [[Don Wilson]] *founded and controls* [[DRW Investments]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's Bitcoin Treasury & a Cumberland Investor|C19]]
+- [[Don Wilson]] *founder/controller* [[DRW Investments]] · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[DRW Investments]] *parent of crypto unit* [[Cumberland (DRW)]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's Bitcoin Treasury & a Cumberland Investor|C19]]

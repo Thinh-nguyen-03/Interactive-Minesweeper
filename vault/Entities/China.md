@@ -12,7 +12,7 @@ tags:
 
 Rival invoked to justify the family's crypto and robotics ventures.
 
-> [!warning] Appears in an unverified, single-source allegation ([[C37 The reported hack of Jared Kushner's phone|C37]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in an unverified, single-source allegation ([[C37 The Reported Hack of Jared Kushner's Phone|C37]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,7 +20,7 @@ Rival invoked to justify the family's crypto and robotics ventures.
 | Appears in | 11 checks |
 | Connections | 17 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Invoked by Trump as crypto rival
 - Dominant rare-earth magnet producer; the strategic rationale for the deal.
@@ -28,38 +28,38 @@ Rival invoked to justify the family's crypto and robotics ventures.
 - State behind Salt Typhoon, per US officials.
 - Alleged destination of diverted Nvidia chips
 
-## Appears in checks
+## Appears in Checks
 
-- [[C01 The $TRUMP meme coin and who profited]] · Mostly accurate
-- [[C26 1789 Capital and the Vulcan Elements magnet deal]] · Mostly accurate
-- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
-- [[C37 The reported hack of Jared Kushner's phone]] · Unverified · unverified allegation, single source
-- [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business]] · Mostly accurate
-- [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
-- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
-- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
-- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
-- [[C71 Who bought World Liberty tokens]] · Mostly accurate
-- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
+- [[C01 The $TRUMP Meme Coin & Who Profited]] · Mostly accurate
+- [[C26 1789 Capital & the Vulcan Elements Magnet Deal]] · Mostly accurate
+- [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump]] · Mostly accurate
+- [[C37 The Reported Hack of Jared Kushner's Phone]] · Unverified · unverified allegation, single source
+- [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business]] · Mostly accurate
+- [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme]] · Mostly accurate
+- [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals]] · Mostly accurate
+- [[C60 Government Equity Stakes in Critical-Minerals Companies]] · Mostly accurate
+- [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
+- [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
+- [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[China]] *state sponsor of (per US officials)* [[Salt Typhoon]] · [[C37 The reported hack of Jared Kushner's phone|C37]] · unverified allegation
+- [[China]] *state sponsor of (per US officials)* [[Salt Typhoon]] · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation
 
 ### Political (3)
 
-- [[Donald Trump]] *cast crypto as race with* [[China]] · 2026-07-02 · [[C01 The $TRUMP meme coin and who profited|C01]]
-- [[Donald Trump]] *justifies crypto as beating* [[China]] · [[C01 The $TRUMP meme coin and who profited|C01]]
-- [[Eric Trump]] *justifies ventures as beating* [[China]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Donald Trump]] *cast crypto as race with* [[China]] · 2026-07-02 · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
+- [[Donald Trump]] *justifies crypto as beating* [[China]] · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
+- [[Eric Trump]] *justifies ventures as beating* [[China]] · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
 
 ### Commercial (3)
 
-- [[42XFund]] *Shanghai-based China tech fund* [[China]] · [[C80 Sovereign-fund megadeals that need US approval|C80]]
-- [[DJI]] *based in* [[China]] · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Megaspeed]] *suspected of diverting chips to* [[China]] · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[42XFund]] *Shanghai-based China tech fund* [[China]] · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
+- [[DJI]] *based in* [[China]] · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
+- [[Megaspeed]] *suspected of diverting chips to* [[China]] · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 
 ## Themes
 
-- [[Theme - The 'beat China' justification]]
+- [[Theme - The 'Beat China' Justification]]

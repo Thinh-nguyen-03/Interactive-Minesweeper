@@ -18,12 +18,12 @@ Pakistan embassy's FARA registrant; lobbied during Op Sindoor and pitched a mine
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Pakistan]] *embassy lobbyist; minerals pitch to US diplomat* [[Squire Patton Boggs]] · 2025-05-14 · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
+- [[Pakistan]] *embassy lobbyist; minerals pitch to US diplomat* [[Squire Patton Boggs]] · 2025-05-14 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]

@@ -18,12 +18,12 @@ Nigerian bank; drafted a $50M facility for Buenassa.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
+- [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[United Bank for Africa]] *drafted working-capital facility for Chemaf bid* [[Buenassa]] · 2026-01-26 · $50M · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[United Bank for Africa]] *drafted working-capital facility for Chemaf bid* [[Buenassa]] · 2026-01-26 · $50M · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]

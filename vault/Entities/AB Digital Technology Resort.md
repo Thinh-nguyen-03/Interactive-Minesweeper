@@ -18,18 +18,18 @@ Planned AB 'blockchain theme resort' company near Dili, Timor-Leste
 | Appears in | 1 check |
 | Connections | 5 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
+- [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[AB (AB DAO)]] *promoted planned Timor-Leste blockchain resort* [[AB Digital Technology Resort]] · 2024 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
-- [[Yang Jian]] *controlling shareholder (WSJ)* [[AB Digital Technology Resort]] · 2025 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[AB (AB DAO)]] *promoted planned Timor-Leste blockchain resort* [[AB Digital Technology Resort]] · 2024 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]
+- [[Yang Jian]] *controlling shareholder (WSJ)* [[AB Digital Technology Resort]] · 2025 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]
 
 ### Commercial (2)
 
-- [[Shih Ting-yu]] *worked on project (OCCRP)* [[AB Digital Technology Resort]] · 2025 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
-- [[Yang Yanming]] *general manager until 2025-10-16* [[AB Digital Technology Resort]] · 2025-10-16 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[Shih Ting-yu]] *worked on project (OCCRP)* [[AB Digital Technology Resort]] · 2025 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]
+- [[Yang Yanming]] *general manager until 2025-10-16* [[AB Digital Technology Resort]] · 2025-10-16 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]

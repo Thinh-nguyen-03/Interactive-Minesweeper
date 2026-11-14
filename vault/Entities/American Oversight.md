@@ -18,6 +18,6 @@ Counsel in jet-memo FOIA suit
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
+- [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate

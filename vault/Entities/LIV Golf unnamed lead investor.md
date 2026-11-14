@@ -18,12 +18,12 @@ Unidentified investor that signed a term sheet with LIV in Aug 2026
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
+- [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[LIV Golf unnamed lead investor]] *signed term sheet as lead investor* [[LIV Golf]] · 2026-08-05 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
+- [[LIV Golf unnamed lead investor]] *signed term sheet as lead investor* [[LIV Golf]] · 2026-08-05 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]

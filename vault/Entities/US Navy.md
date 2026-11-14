@@ -18,12 +18,12 @@ ShipOS programme with Palantir
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C69 Master timeline money events and government actions]] · Partly accurate
+- [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[US Navy]] *ShipOS, up to $448M* [[Palantir Technologies (PLTR)]] · 2025-12-09 · $448M · [[C69 Master timeline money events and government actions|C69]]
+- [[US Navy]] *ShipOS, up to $448M* [[Palantir Technologies (PLTR)]] · 2025-12-09 · $448M · [[C69 Master Timeline Money Events & Government Actions|C69]]

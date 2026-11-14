@@ -18,22 +18,22 @@ Idaho antimony-gold mine backed by EXIM and DoD
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Perpetua's Idaho mine
 
-## Appears in checks
+## Appears in Checks
 
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
-- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
+- [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Perpetua Resources]] *develops* [[Stibnite Gold Project]] · [[C86 Major Trump donors with stakes in federally backed companies|C86]]
-- [[Perpetua Resources]] *owns* [[Stibnite Gold Project]] · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Perpetua Resources]] *develops* [[Stibnite Gold Project]] · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
+- [[Perpetua Resources]] *owns* [[Stibnite Gold Project]] · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
 
 ### Regulatory (1)
 
-- [[U.S. Army Corps of Engineers]] *final 404 permit* [[Stibnite Gold Project]] · 2025-05 · [[C86 Major Trump donors with stakes in federally backed companies|C86]]
+- [[U.S. Army Corps of Engineers]] *final 404 permit* [[Stibnite Gold Project]] · 2025-05 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]

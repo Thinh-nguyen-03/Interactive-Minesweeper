@@ -18,12 +18,12 @@ Registered Liberty Mobile in Florida in 2018
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C63 Shell Entities & Ownership Chains]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Matthew Lopatin]] *registered (2018) and president of* [[Liberty Mobile Wireless]] · 2018 · [[C63 Shell entities and ownership chains|C63]]
+- [[Matthew Lopatin]] *registered (2018) and president of* [[Liberty Mobile Wireless]] · 2018 · [[C63 Shell Entities & Ownership Chains|C63]]

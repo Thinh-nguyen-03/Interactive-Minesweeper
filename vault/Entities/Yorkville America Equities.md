@@ -18,25 +18,25 @@ Adviser to Truth Social ETFs; Feb 2026 crypto ETF filer
 | Appears in | 3 checks |
 | Connections | 5 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Investment adviser to the Truth Social ETFs.
 - Adviser/sponsor of Truth Social ETFs
 
-## Appears in checks
+## Appears in Checks
 
-- [[C24 Trump Media's ETFs, the TAE fusion merger and its losses]] · Mostly accurate
-- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate
-- [[C78 The blank-cheque companies run by Trump Media's interim chief]] · Mostly accurate
+- [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses]] · Mostly accurate
+- [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles]] · Mostly accurate
+- [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Yorkville Advisors]] *affiliate* [[Yorkville America Equities]] · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
+- [[Yorkville Advisors]] *affiliate* [[Yorkville America Equities]] · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 
 ### Commercial (3)
 
-- [[Yorkville America Equities]] *adviser/sponsor* [[Truth Social ETFs]] · 2025-12-30 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
-- [[Yorkville America Equities]] *investment adviser of* [[Truth Social ETFs]] · 2025-12-30 · [[C24 Trump Media's ETFs, the TAE fusion merger and its losses|C24]]
-- [[Yorkville America Equities]] *filed Bitcoin-Ether and Cronos Yield Maximizer ETFs* [[Truth Social ETFs]] · 2026-02-13 · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]]
+- [[Yorkville America Equities]] *adviser/sponsor* [[Truth Social ETFs]] · 2025-12-30 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[Yorkville America Equities]] *investment adviser of* [[Truth Social ETFs]] · 2025-12-30 · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]]
+- [[Yorkville America Equities]] *filed Bitcoin-Ether and Cronos Yield Maximizer ETFs* [[Truth Social ETFs]] · 2026-02-13 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]

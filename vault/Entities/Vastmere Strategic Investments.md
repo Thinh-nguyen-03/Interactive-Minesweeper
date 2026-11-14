@@ -18,12 +18,12 @@ Reported Susquehanna affiliate investing in TikTok USDS
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
+- [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Vastmere Strategic Investments]] *investor (reported SIG affiliate)* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C86 Major Trump donors with stakes in federally backed companies|C86]]
+- [[Vastmere Strategic Investments]] *investor (reported SIG affiliate)* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]

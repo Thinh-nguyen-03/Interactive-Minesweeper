@@ -18,16 +18,16 @@ Former Trump campaign adviser; head of SHW Partners
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
+- [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Jason Miller]] *heads* [[SHW Partners]] · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Jason Miller]] *heads* [[SHW Partners]] · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 
 ### Advisory (1)
 
-- [[Jason Miller]] *met three times* [[Sergio Gor]] · 2025-11 · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Jason Miller]] *met three times* [[Sergio Gor]] · 2025-11 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]

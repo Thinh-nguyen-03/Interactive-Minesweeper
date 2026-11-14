@@ -12,7 +12,7 @@ tags:
 
 Vanity Fair's parent; received Mizelle's 23 Oct takedown demand.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C46 The alleged Kushner Gulf accounts|C46]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C46 The Alleged Kushner Gulf Accounts|C46]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,16 +20,16 @@ Vanity Fair's parent; received Mizelle's 23 Oct takedown demand.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C46 The alleged Kushner Gulf accounts]] · Unverified · unverified allegation, single source
+- [[C46 The Alleged Kushner Gulf Accounts]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Condé Nast]] *owns* [[Vanity Fair (Condé Nast)]] · [[C46 The alleged Kushner Gulf accounts|C46]] · unverified allegation
+- [[Condé Nast]] *owns* [[Vanity Fair (Condé Nast)]] · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation
 
 ### Legal (1)
 
-- [[Chad Mizelle]] *sent takedown and preservation demand to* [[Condé Nast]] · 2026-10-23 · [[C46 The alleged Kushner Gulf accounts|C46]] · unverified allegation
+- [[Chad Mizelle]] *sent takedown and preservation demand to* [[Condé Nast]] · 2026-10-23 · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation

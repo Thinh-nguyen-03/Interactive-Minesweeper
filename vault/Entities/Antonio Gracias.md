@@ -18,16 +18,16 @@ Valor founder; Musk ally; DOGE at SSA to July 2025.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Antonio Gracias]] *founder of* [[Valor Equity Partners]] · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[Antonio Gracias]] *founder of* [[Valor Equity Partners]] · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 
 ### Political (1)
 
-- [[Antonio Gracias]] *DOGE volunteer at SSA* [[Department of Government Efficiency]] · 2025-03/2025-07 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[Antonio Gracias]] *DOGE volunteer at SSA* [[Department of Government Efficiency]] · 2025-03/2025-07 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]

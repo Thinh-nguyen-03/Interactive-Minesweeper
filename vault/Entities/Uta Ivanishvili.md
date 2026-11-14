@@ -18,16 +18,16 @@ Son of Bidzina Ivanishvili; ~35% owner of Cartu fund via Cartu Group
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam]] · Mostly accurate
+- [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Uta Ivanishvili]] *~35% owner via Cartu Group JSC* [[International Charity Fund Cartu]] · 2026 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]
+- [[Uta Ivanishvili]] *~35% owner via Cartu Group JSC* [[International Charity Fund Cartu]] · 2026 · [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam|C79]]
 
 ### Family (1)
 
-- [[Bidzina Ivanishvili]] *father of* [[Uta Ivanishvili]] · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]
+- [[Bidzina Ivanishvili]] *father of* [[Uta Ivanishvili]] · [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam|C79]]

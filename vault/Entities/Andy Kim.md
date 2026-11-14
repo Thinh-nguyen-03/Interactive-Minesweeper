@@ -18,27 +18,27 @@ US senator; co-signed letter to Base Group
 | Appears in | 5 checks |
 | Connections | 9 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Senator; co-author of the CFIUS request.
 - Senator who co-signed the CFIUS letter.
 - Senator co-signing Jan 2026 letter
 - Senator; co-signed CFIUS letter
 
-## Appears in checks
+## Appears in Checks
 
-- [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
-- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
-- [[C71 Who bought World Liberty tokens]] · Mostly accurate
-- [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam]] · Mostly accurate
-- [[C82 Abu Dhabi unannounced Trump licensing entities and StringZ]] · Mostly accurate
+- [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme]] · Mostly accurate
+- [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals]] · Mostly accurate
+- [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
+- [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate
+- [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ]] · Mostly accurate
 
 ## Relationships
 
 ### Political (5)
 
-- [[Andy Kim]] *co-signed letter to* [[Pete Hegseth]] · 2026-01-22 · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Andy Kim]] *asked to review Aryam stake* [[CFIUS]] · 2026-02 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Andy Kim]] *asked for review of Aryam 49% stake* [[CFIUS]] · 2026-02-13 · [[C71 Who bought World Liberty tokens|C71]]
-- [[Andy Kim]] *asked for CFIUS review of Aryam stake* [[Scott Bessent]] · 2026-02-13 · [[C82 Abu Dhabi unannounced Trump licensing entities and StringZ|C82]]
-- [[Andy Kim]] *co-signed inquiry letter* [[Base Group (Base Co., Ltd.)]] · 2026-08-06 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]
+- [[Andy Kim]] *co-signed letter to* [[Pete Hegseth]] · 2026-01-22 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
+- [[Andy Kim]] *asked to review Aryam stake* [[CFIUS]] · 2026-02 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]
+- [[Andy Kim]] *asked for review of Aryam 49% stake* [[CFIUS]] · 2026-02-13 · [[C71 Who Bought World Liberty Tokens|C71]]
+- [[Andy Kim]] *asked for CFIUS review of Aryam stake* [[Scott Bessent]] · 2026-02-13 · [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ|C82]]
+- [[Andy Kim]] *co-signed inquiry letter* [[Base Group (Base Co., Ltd.)]] · 2026-08-06 · [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam|C79]]

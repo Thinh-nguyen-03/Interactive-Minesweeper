@@ -18,18 +18,18 @@ Hundreds of pages showing crypto income and securities purchases.
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C20 Trump's securities purchases and his Truth Social posts]] · Mostly accurate
-- [[C29 Trump family wealth gains since the election]] · Mostly accurate
+- [[C20 Trump's Securities Purchases & His Truth Social Posts]] · Mostly accurate
+- [[C29 Trump Family Wealth Gains Since the Election]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Trump financial disclosures]] *show equity buys before posts by* [[Donald Trump]] · [[C20 Trump's securities purchases and his Truth Social posts|C20]]
-- [[Trump financial disclosures]] *show ~$1.4B crypto income of ~$2.2B* [[Donald Trump]] · $1.4B · [[C29 Trump family wealth gains since the election|C29]]
+- [[Trump financial disclosures]] *show equity buys before posts by* [[Donald Trump]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
+- [[Trump financial disclosures]] *show ~$1.4B crypto income of ~$2.2B* [[Donald Trump]] · $1.4B · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 
 ## Themes
 
-- [[Theme - Insider gains alongside retail investor losses]]
+- [[Theme - Insider Gains Alongside Retail Investor Losses]]

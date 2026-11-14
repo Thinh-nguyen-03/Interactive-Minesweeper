@@ -18,12 +18,12 @@ US-sanctioned Russian LNG producer.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C76 Russia-linked money around the family and the envoys]] · Partly accurate
+- [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Gentry Beach]] *signed LNG technology deal for Alaska project* [[Novatek]] · 2025 · [[C76 Russia-linked money around the family and the envoys|C76]]
+- [[Gentry Beach]] *signed LNG technology deal for Alaska project* [[Novatek]] · 2025 · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]

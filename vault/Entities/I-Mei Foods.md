@@ -18,12 +18,12 @@ Taiwanese food group; hired Javelin for US government relations
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
+- [[C83 Keith Schiller & George Sorial's Lobbying Clients]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[I-Mei Foods]] *US government-relations contract (Taiwan News)* [[Javelin Advisors]] · [[C83 Keith Schiller and George Sorial's lobbying clients|C83]]
+- [[I-Mei Foods]] *US government-relations contract (Taiwan News)* [[Javelin Advisors]] · [[C83 Keith Schiller & George Sorial's Lobbying Clients|C83]]

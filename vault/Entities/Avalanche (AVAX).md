@@ -18,12 +18,12 @@ Layer-1; WLF bought about $2M AVAX on 2025-03-16
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
+- [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[World Liberty Financial]] *bought about $2M AVAX* [[Avalanche (AVAX)]] · 2025-03-16 · $2M · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[World Liberty Financial]] *bought about $2M AVAX* [[Avalanche (AVAX)]] · 2025-03-16 · $2M · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]

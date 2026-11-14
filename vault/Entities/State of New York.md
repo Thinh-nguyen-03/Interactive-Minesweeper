@@ -18,12 +18,12 @@ Sued by CFTC 2026-04-24 (Hochul, James, Gaming Commission).
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate
+- [[C38 Polymarket Probes Closed Before 1789 Capital Invested]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Commodity Futures Trading Commission]] *sued over prediction markets (SDNY)* [[State of New York]] · 2026-04-24 · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
+- [[Commodity Futures Trading Commission]] *sued over prediction markets (SDNY)* [[State of New York]] · 2026-04-24 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]

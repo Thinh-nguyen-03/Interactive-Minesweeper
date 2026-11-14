@@ -18,6 +18,6 @@ Central European investigative outlet that reported Kushner/Grand Budapest talk.
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
+- [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate

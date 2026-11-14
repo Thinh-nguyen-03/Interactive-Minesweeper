@@ -18,12 +18,12 @@ SPAC whose $1.2B PlusAI deal was terminated Apr 2026
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C78 The blank-cheque companies run by Trump Media's interim chief]] · Mostly accurate
+- [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Plus Automation Inc. (PlusAI)]] *prior SPAC deal terminated* [[Churchill Capital Corp IX]] · 2026-04-20 · $1.2B · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]]
+- [[Plus Automation Inc. (PlusAI)]] *prior SPAC deal terminated* [[Churchill Capital Corp IX]] · 2026-04-20 · $1.2B · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]

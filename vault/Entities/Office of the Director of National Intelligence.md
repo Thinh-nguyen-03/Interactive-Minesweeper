@@ -12,7 +12,7 @@ tags:
 
 Delayed transmission of the complaint to Congress, citing classified legal review.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C46 The alleged Kushner Gulf accounts|C46]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C46 The Alleged Kushner Gulf Accounts|C46]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,6 +20,6 @@ Delayed transmission of the complaint to Congress, citing classified legal revie
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C46 The alleged Kushner Gulf accounts]] · Unverified · unverified allegation, single source
+- [[C46 The Alleged Kushner Gulf Accounts]] · Unverified · unverified allegation, single source

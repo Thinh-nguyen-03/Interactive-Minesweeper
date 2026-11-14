@@ -18,12 +18,12 @@ PGA Tour CEO from 2025; disavowed a LIV merger
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
+- [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Brian Rolapp]] *CEO of* [[PGA Tour]] · 2025 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
+- [[Brian Rolapp]] *CEO of* [[PGA Tour]] · 2025 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]

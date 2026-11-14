@@ -18,12 +18,12 @@ tags:
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Steve Witkoff]] *attended* [[Munir White House lunch]] · 2025-06-18 · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
+- [[Steve Witkoff]] *attended* [[Munir White House lunch]] · 2025-06-18 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]

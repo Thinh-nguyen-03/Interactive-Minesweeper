@@ -21,13 +21,13 @@ Campaign that crypto exchanges donated $1M+ to.
 | Connections | 3 |
 | Also known as | Trump campaign |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C23 SEC crypto cases dropped and the firms' donations]] · Mostly accurate
+- [[C23 SEC Crypto Cases Dropped & the Firms' Donations]] · Mostly accurate
 
 ## Relationships
 
 ### Political (2)
 
-- [[SEC crypto cases dropped (wave)]] *coincided with $1M+ donations to* [[Trump 2024 election campaign]] · [[C23 SEC crypto cases dropped and the firms' donations|C23]]
-- [[Trump 2024 election campaign]] *funded election of* [[Donald Trump]] · [[C23 SEC crypto cases dropped and the firms' donations|C23]]
+- [[SEC crypto cases dropped (wave)]] *coincided with $1M+ donations to* [[Trump 2024 election campaign]] · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
+- [[Trump 2024 election campaign]] *funded election of* [[Donald Trump]] · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]

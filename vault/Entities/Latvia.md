@@ -18,12 +18,12 @@ Reportedly banned Kremlev's entry, Sep 2026
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
+- [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Latvia]] *entry ban (reported)* [[Umar Kremlev]] · 2026-09 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[Latvia]] *entry ban (reported)* [[Umar Kremlev]] · 2026-09 · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]

@@ -18,12 +18,12 @@ CEO of Cove Capital.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
+- [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Pini Althaus]] *CEO of* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
+- [[Pini Althaus]] *CEO of* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]

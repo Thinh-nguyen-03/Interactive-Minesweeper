@@ -18,13 +18,13 @@ tags:
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[G42]] *builds* [[Stargate UAE]] · 2025-05 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[OpenAI]] *operates with Oracle* [[Stargate UAE]] · 2025-05 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[G42]] *builds* [[Stargate UAE]] · 2025-05 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]
+- [[OpenAI]] *operates with Oracle* [[Stargate UAE]] · 2025-05 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]

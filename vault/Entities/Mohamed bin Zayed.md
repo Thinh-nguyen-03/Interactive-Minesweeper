@@ -15,7 +15,7 @@ tags:
 
 President of the UAE; brother of Sheikh Tahnoon bin Zayed.
 
-> [!warning] Appears in an unverified, single-source allegation ([[C46 The alleged Kushner Gulf accounts|C46]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in an unverified, single-source allegation ([[C46 The Alleged Kushner Gulf Accounts|C46]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -24,32 +24,32 @@ President of the UAE; brother of Sheikh Tahnoon bin Zayed.
 | Connections | 6 |
 | Also known as | MBZ; Mohamed bin Zayed Al Nahyan |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - President of the UAE, Tahnoon's brother.
 - UAE President; Cole's book alleges he funded the accounts and the ~$1B sent via Azerbaijan (unverified).
 - UAE president, Tahnoon's brother.
 
-## Appears in checks
+## Appears in Checks
 
-- [[C06 A UAE-backed 49% stake in World Liberty Financial]] · Confirmed
-- [[C46 The alleged Kushner Gulf accounts]] · Unverified · unverified allegation, single source
-- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C06 A UAE-Backed 49% Stake in World Liberty Financial]] · Confirmed
+- [[C46 The Alleged Kushner Gulf Accounts]] · Unverified · unverified allegation, single source
+- [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Mohamed bin Zayed]] *allegedly sent ~$1B via Azerbaijan to 'Beta' account at (unverified; disputed)* [[Bank of Israel]] · 2018 · $1B · [[C46 The alleged Kushner Gulf accounts|C46]] · unverified allegation
+- [[Mohamed bin Zayed]] *allegedly sent ~$1B via Azerbaijan to 'Beta' account at (unverified; disputed)* [[Bank of Israel]] · 2018 · $1B · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation
 
 ### Family (1)
 
-- [[Sheikh Tahnoon bin Zayed]] *brother of* [[Mohamed bin Zayed]] · [[C06 A UAE-backed 49% stake in World Liberty Financial|C06]]
+- [[Sheikh Tahnoon bin Zayed]] *brother of* [[Mohamed bin Zayed]] · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]]
 
 ### Political (1)
 
-- [[Mohamed bin Zayed]] *president of* [[United Arab Emirates]] · [[C06 A UAE-backed 49% stake in World Liberty Financial|C06]]
+- [[Mohamed bin Zayed]] *president of* [[United Arab Emirates]] · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]]
 
 ## Themes
 
-- [[Theme - Gulf sovereign money and dual-role envoys]]
+- [[Theme - Gulf Sovereign Money & Dual-Role Envoys]]

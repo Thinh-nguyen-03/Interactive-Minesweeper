@@ -18,29 +18,29 @@ Lobbying/PR firm; Wiles co-chaired its FL/DC offices 2022-2024; past Qatar contr
 | Appears in | 3 checks |
 | Connections | 6 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Lobbying/PR firm through which Lanza advised Lukoil.
 - Lobbying firm with past Qatar embassy contracts
 
-## Appears in checks
+## Appears in Checks
 
-- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
-- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
-- [[C94 The sale of Lukoil's foreign assets and the Boehly consortium]] · Mostly accurate
+- [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
+- [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
+- [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Qatar]] *past embassy contracts with* [[Mercury Public Affairs]] · 2015 · [[C73 Qatar's ties to people in and around the administration|C73]]
-- [[Mercury Public Affairs]] *FARA consulting contracts ($930K/6 months; $360K/year)* [[Qatar]] · 2015/2019 · $930K · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Qatar]] *past embassy contracts with* [[Mercury Public Affairs]] · 2015 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
+- [[Mercury Public Affairs]] *FARA consulting contracts ($930K/6 months; $360K/year)* [[Qatar]] · 2015/2019 · $930K · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 
 ### Advisory (1)
 
-- [[Susie Wiles]] *co-chair FL/DC offices* [[Mercury Public Affairs]] · 2022-02 · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Susie Wiles]] *co-chair FL/DC offices* [[Mercury Public Affairs]] · 2022-02 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 
 ### Commercial (2)
 
-- [[Susie Wiles]] *co-chaired Florida/DC offices* [[Mercury Public Affairs]] · 2022-02 · [[C73 Qatar's ties to people in and around the administration|C73]]
-- [[Bryan Lanza]] *works through* [[Mercury Public Affairs]] · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
+- [[Susie Wiles]] *co-chaired Florida/DC offices* [[Mercury Public Affairs]] · 2022-02 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
+- [[Bryan Lanza]] *works through* [[Mercury Public Affairs]] · [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium|C94]]

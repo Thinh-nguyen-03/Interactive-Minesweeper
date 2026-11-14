@@ -18,12 +18,12 @@ Mortgage servicer acquired by Rocket ($9.4B)
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Rocket Companies]] *acquired* [[Mr. Cooper Group]] · 2025 · $9.4B · [[C92 The White House ballroom donor list|C92]]
+- [[Rocket Companies]] *acquired* [[Mr. Cooper Group]] · 2025 · $9.4B · [[C92 The White House Ballroom Donor List|C92]]

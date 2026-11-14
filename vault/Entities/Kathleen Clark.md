@@ -18,14 +18,14 @@ Government-ethics law scholar who called the waivers 'sham ethics waivers'
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Washington University government-ethics law professor quoted by AP.
 
-## Appears in checks
+## Appears in Checks
 
 - [[C27 The New America Acquisition I SPAC]] · Mostly accurate
-- [[C34 David Sacks the AI and crypto adviser and his investments]] · Mostly accurate
+- [[C34 David Sacks The AI & Crypto Adviser & His Investments]] · Mostly accurate
 
 ## Relationships
 
@@ -35,4 +35,4 @@ Government-ethics law scholar who called the waivers 'sham ethics waivers'
 
 ### Media (1)
 
-- [[Kathleen Clark]] *called his waivers 'sham ethics waivers'* [[David Sacks]] · 2025-12 · [[C34 David Sacks the AI and crypto adviser and his investments|C34]]
+- [[Kathleen Clark]] *called his waivers 'sham ethics waivers'* [[David Sacks]] · 2025-12 · [[C34 David Sacks The AI & Crypto Adviser & His Investments|C34]]

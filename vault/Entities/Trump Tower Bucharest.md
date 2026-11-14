@@ -18,12 +18,12 @@ Announced July 2025; reported stalled
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C59 Foreign Trump Organization projects and tariff negotiations]] · Partly accurate
+- [[C59 Foreign Trump Organization Projects & Tariff Negotiations]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[SDC Imobiliare]] *develops* [[Trump Tower Bucharest]] · 2025-07 · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]]
+- [[SDC Imobiliare]] *develops* [[Trump Tower Bucharest]] · 2025-07 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]

@@ -18,28 +18,28 @@ tags:
 | Appears in | 5 checks |
 | Connections | 8 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - 1789 Capital co-founder; Executive Branch co-founder.
 - Colombier and 1789 Capital founder; GOP megadonor.
 - Co-founder and CEO of 1789 Capital.
 - 1789 Capital co-founder
 
-## Appears in checks
+## Appears in Checks
 
-- [[C26 1789 Capital and the Vulcan Elements magnet deal]] · Mostly accurate
-- [[C32 Donald Trump Jr.'s ties to other government contractors]] · Partly accurate
-- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate
-- [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
-- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
+- [[C26 1789 Capital & the Vulcan Elements Magnet Deal]] · Mostly accurate
+- [[C32 Donald Trump Jr.'s Ties to Other Government Contractors]] · Partly accurate
+- [[C38 Polymarket Probes Closed Before 1789 Capital Invested]] · Mostly accurate
+- [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network]] · Mostly accurate
+- [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (6)
 
-- [[Omeed Malik]] *co-founder* [[1789 Capital]] · 2022 · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
-- [[Omeed Malik]] *co-founder and CEO of* [[1789 Capital]] · 2022 · [[C26 1789 Capital and the Vulcan Elements magnet deal|C26]]
-- [[Omeed Malik]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
-- [[Omeed Malik]] *co-founder of* [[1789 Capital]] · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
-- [[Omeed Malik]] *founder of* [[1789 Capital]] · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
-- [[Omeed Malik]] *CEO/sponsor* [[Colombier Acquisition Corp. II]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Omeed Malik]] *co-founder* [[1789 Capital]] · 2022 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Omeed Malik]] *co-founder and CEO of* [[1789 Capital]] · 2022 · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]
+- [[Omeed Malik]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
+- [[Omeed Malik]] *co-founder of* [[1789 Capital]] · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
+- [[Omeed Malik]] *founder of* [[1789 Capital]] · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
+- [[Omeed Malik]] *CEO/sponsor* [[Colombier Acquisition Corp. II]] · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]

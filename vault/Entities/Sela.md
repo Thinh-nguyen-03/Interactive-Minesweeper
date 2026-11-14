@@ -18,16 +18,16 @@ PIF-owned events company; TKO boxing partner
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds]] · Mostly accurate
+- [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Public Investment Fund (Saudi Arabia)]] *owns* [[Sela]] · 2025 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Public Investment Fund (Saudi Arabia)]] *owns* [[Sela]] · 2025 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
 
 ### Commercial (1)
 
-- [[TKO Group]] *formed boxing promotion with* [[Sela]] · 2025-03-05 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[TKO Group]] *formed boxing promotion with* [[Sela]] · 2025-03-05 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]

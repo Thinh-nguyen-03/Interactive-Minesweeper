@@ -18,12 +18,12 @@ Retired general, Powerus advisory board member
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Keith Kellogg]] *advisory board member of* [[Powerus Corp]] · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Keith Kellogg]] *advisory board member of* [[Powerus Corp]] · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]

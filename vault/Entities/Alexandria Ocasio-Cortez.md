@@ -18,6 +18,6 @@ Representative who demanded congressional trade disclosures
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C58 Market-moving presidential posts and insider-trading allegations]] · Mostly accurate
+- [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate

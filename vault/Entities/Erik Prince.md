@@ -18,16 +18,16 @@ Blackwater founder and Trump ally; Vectus Global contracts with Kinshasa.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
+- [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Erik Prince]] *runs* [[Vectus Global]] · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[Erik Prince]] *runs* [[Vectus Global]] · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]
 
 ### Political (1)
 
-- [[Erik Prince]] *described as ally/supporter of* [[Donald Trump]] · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[Erik Prince]] *described as ally/supporter of* [[Donald Trump]] · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]

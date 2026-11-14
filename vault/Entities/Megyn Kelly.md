@@ -18,12 +18,12 @@ Conservative commentator; said corruption was more widespread than she expected 
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
+- [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Megyn Kelly]] *said corruption and self-dealing more widespread than expected* [[Donald Trump]] · 2026-05 · [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]
+- [[Megyn Kelly]] *said corruption and self-dealing more widespread than expected* [[Donald Trump]] · 2026-05 · [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]

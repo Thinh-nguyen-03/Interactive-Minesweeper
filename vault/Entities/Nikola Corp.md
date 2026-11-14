@@ -21,18 +21,18 @@ EV/hydrogen truck startup founded by Milton
 | Connections | 3 |
 | Also known as | Nikola |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - EV maker Milton founded
 
-## Appears in checks
+## Appears in Checks
 
-- [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
-- [[C49 The market for pardon lobbying]] · Mostly accurate
+- [[C36 Clemency for Other Crypto & Donor-Linked Figures]] · Mostly accurate
+- [[C49 The Market for Pardon Lobbying]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Trevor Milton]] *founder of* [[Nikola Corp]] · 2014 · [[C49 The market for pardon lobbying|C49]]
-- [[Trevor Milton]] *founded* [[Nikola Corp]] · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Trevor Milton]] *founder of* [[Nikola Corp]] · 2014 · [[C49 The Market for Pardon Lobbying|C49]]
+- [[Trevor Milton]] *founded* [[Nikola Corp]] · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]

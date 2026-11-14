@@ -18,6 +18,6 @@ Co-reported the Newsmax stake; reported the Doyle meeting
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate

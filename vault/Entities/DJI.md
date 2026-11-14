@@ -18,16 +18,16 @@ Chinese drone maker restricted by FCC Covered List
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Federal Communications Commission]] *added foreign drones incl. DJI to Covered List* [[DJI]] · 2025-12-22 · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Federal Communications Commission]] *added foreign drones incl. DJI to Covered List* [[DJI]] · 2025-12-22 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 
 ### Commercial (1)
 
-- [[DJI]] *based in* [[China]] · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[DJI]] *based in* [[China]] · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]

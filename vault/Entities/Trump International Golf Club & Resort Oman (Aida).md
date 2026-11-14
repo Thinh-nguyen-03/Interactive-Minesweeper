@@ -18,13 +18,13 @@ tags:
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C31 Trump Organization real-estate deals in the Gulf]] · Mostly accurate
+- [[C31 Trump Organization Real-Estate Deals in the Gulf]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Dar Global]] *developer of* [[Trump International Golf Club & Resort Oman (Aida)]] · 2022-03 · $500M · [[C31 Trump Organization real-estate deals in the Gulf|C31]]
-- [[Trump International Golf Club & Resort Oman (Aida)]] *located in* [[Oman]] · [[C31 Trump Organization real-estate deals in the Gulf|C31]]
+- [[Dar Global]] *developer of* [[Trump International Golf Club & Resort Oman (Aida)]] · 2022-03 · $500M · [[C31 Trump Organization Real-Estate Deals in the Gulf|C31]]
+- [[Trump International Golf Club & Resort Oman (Aida)]] *located in* [[Oman]] · [[C31 Trump Organization Real-Estate Deals in the Gulf|C31]]

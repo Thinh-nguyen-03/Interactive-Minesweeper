@@ -18,17 +18,17 @@ Turkish oil trader, BGN International; owner of yacht Phoenix 2
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Ercument Bayegan]] *owns* [[BGN International]] · [[C66 The extended family's ventures and roles|C66]]
+- [[Ercument Bayegan]] *owns* [[BGN International]] · [[C66 The Extended Family's Ventures & Roles|C66]]
 
 ### Commercial (2)
 
-- [[Michael Boulos]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] · 2025-07 · [[C66 The extended family's ventures and roles|C66]]
-- [[Tiffany Trump]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] · 2025-07 · [[C66 The extended family's ventures and roles|C66]]
+- [[Michael Boulos]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] · 2025-07 · [[C66 The Extended Family's Ventures & Roles|C66]]
+- [[Tiffany Trump]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] · 2025-07 · [[C66 The Extended Family's Ventures & Roles|C66]]

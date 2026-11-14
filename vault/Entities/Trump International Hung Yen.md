@@ -18,31 +18,31 @@ tags:
 | Appears in | 2 checks |
 | Connections | 7 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - $1.5B golf/urban project in Khoai Chau
 
-## Appears in checks
+## Appears in Checks
 
-- [[C59 Foreign Trump Organization projects and tariff negotiations]] · Partly accurate
-- [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam]] · Mostly accurate
+- [[C59 Foreign Trump Organization Projects & Tariff Negotiations]] · Partly accurate
+- [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Kinh Bac City Development Holding Corp (KBC)]] *develops* [[Trump International Hung Yen]] · 2025-05 · $1.5B · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]]
+- [[Kinh Bac City Development Holding Corp (KBC)]] *develops* [[Trump International Hung Yen]] · 2025-05 · $1.5B · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
 
 ### Regulatory (1)
 
-- [[Vietnam]] *fast-tracked investment approval for* [[Trump International Hung Yen]] · 2025-05 · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]]
+- [[Vietnam]] *fast-tracked investment approval for* [[Trump International Hung Yen]] · 2025-05 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
 
 ### Political (1)
 
-- [[Pham Minh Chinh]] *broke ground with Eric Trump* [[Trump International Hung Yen]] · 2025-05-21 · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]]
+- [[Pham Minh Chinh]] *broke ground with Eric Trump* [[Trump International Hung Yen]] · 2025-05-21 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
 
 ### Commercial (3)
 
-- [[Kinh Bac City Development Holding Corp (KBC)]] *developer of* [[Trump International Hung Yen]] · 2024-10 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]
-- [[Eric Trump]] *attended groundbreaking* [[Trump International Hung Yen]] · 2025-05-21 · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]]
-- [[Trump Organization]] *licensor/operator of* [[Trump International Hung Yen]] · 2025-05-21 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]
+- [[Kinh Bac City Development Holding Corp (KBC)]] *developer of* [[Trump International Hung Yen]] · 2024-10 · [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam|C79]]
+- [[Eric Trump]] *attended groundbreaking* [[Trump International Hung Yen]] · 2025-05-21 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
+- [[Trump Organization]] *licensor/operator of* [[Trump International Hung Yen]] · 2025-05-21 · [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam|C79]]

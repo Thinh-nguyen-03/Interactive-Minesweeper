@@ -18,7 +18,7 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 | Appears in | 10 checks |
 | Connections | 36 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Lutnick-family firm; TMTG bitcoin-raise financial adviser; Tether custodian
 - Lutnick family firm; reported backer and prime broker of Cerberus funds
@@ -26,92 +26,92 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 - Wall Street firm; Tether reserve custodian and convertible-bond holder
 - Wall Street firm; custodian of Tether's Treasury reserves
 
-## Appears in checks
+## Appears in Checks
 
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
-- [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business]] · Mostly accurate
-- [[C54 The crypto revolving door]] · Mostly accurate
-- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
-- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate
-- [[C65 Officials who decided matters involving former clients or partners]] · Mostly accurate
-- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
-- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
+- [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business]] · Mostly accurate
+- [[C54 The Crypto Revolving Door]] · Mostly accurate
+- [[C60 Government Equity Stakes in Critical-Minerals Companies]] · Mostly accurate
+- [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles]] · Mostly accurate
+- [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
+- [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
+- [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Cantor Fitzgerald]] *bought TMTG shares for own book (per Sludge)* [[Trump Media & Technology Group]] · 2025-Q2 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
-- [[Cantor Fitzgerald]] *made distribution cited by Blumenthal* [[Howard Lutnick]] · $192M · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[Cantor Fitzgerald]] *bought TMTG shares for own book (per Sludge)* [[Trump Media & Technology Group]] · 2025-Q2 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[Cantor Fitzgerald]] *made distribution cited by Blumenthal* [[Howard Lutnick]] · $192M · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 
 ### Ownership (19)
 
-- [[Cantor Fitzgerald]] *holds $600M convertible bond convertible to ~5% stake* [[Tether]] · 2024 · $600M · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Cantor Fitzgerald]] *reserve custodian; ~5% convertible holder* [[Tether]] · 2024 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
-- [[Cantor Fitzgerald]] *launched* [[Cantor bitcoin financing business]] · 2024-07 · $2B · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
-- [[Cantor Fitzgerald]] *shareholder (~1% end-2024; reported third-largest investor) and research coverage* [[Critical Metals Corp]] · 2024-12 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
-- [[Brandon Lutnick]] *chairman* [[Cantor Fitzgerald]] · 2025 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
-- [[Brandon Lutnick]] *chairman/CEO* [[Cantor Fitzgerald]] · 2025 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
-- [[Brandon Lutnick]] *chairman and CEO* [[Cantor Fitzgerald]] · 2025-02 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Howard Lutnick]] *former chairman/CEO; stake moved to sons' trusts* [[Cantor Fitzgerald]] · 2025-02 · [[C60 Government equity stakes in critical-minerals companies|C60]]
-- [[26North]] *took minority stake* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Brandon Lutnick]] *chairman and CEO of* [[Cantor Fitzgerald]] · 2025-05 · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
-- [[Howard Lutnick]] *former chairman/CEO; interests moved to children's trusts* [[Cantor Fitzgerald]] · 2025-05 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
-- [[Kyle Lutnick]] *executive vice chair* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
-- [[Dynasty Trust A]] *holds Lutnick's former Cantor interests* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Howard Lutnick]] *former chairman/CEO; divested to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Brandon Lutnick]] *chairman of* [[Cantor Fitzgerald]] · [[C60 Government equity stakes in critical-minerals companies|C60]]
-- [[Cantor Fitzgerald]] *sponsor affiliate* [[Cantor Equity Partners II]] · [[C65 Officials who decided matters involving former clients or partners|C65]]
-- [[Cantor Fitzgerald]] *major investor in (reported)* [[Critical Metals Corp]] · [[C60 Government equity stakes in critical-minerals companies|C60]]
-- [[Kyle Lutnick]] *executive at* [[Cantor Fitzgerald]] · [[C60 Government equity stakes in critical-minerals companies|C60]]
-- [[Kyle Lutnick]] *executive vice chair of* [[Cantor Fitzgerald]] · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[Cantor Fitzgerald]] *holds $600M convertible bond convertible to ~5% stake* [[Tether]] · 2024 · $600M · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
+- [[Cantor Fitzgerald]] *reserve custodian; ~5% convertible holder* [[Tether]] · 2024 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[Cantor Fitzgerald]] *launched* [[Cantor bitcoin financing business]] · 2024-07 · $2B · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
+- [[Cantor Fitzgerald]] *shareholder (~1% end-2024; reported third-largest investor) and research coverage* [[Critical Metals Corp]] · 2024-12 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[Brandon Lutnick]] *chairman* [[Cantor Fitzgerald]] · 2025 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[Brandon Lutnick]] *chairman/CEO* [[Cantor Fitzgerald]] · 2025 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[Brandon Lutnick]] *chairman and CEO* [[Cantor Fitzgerald]] · 2025-02 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
+- [[Howard Lutnick]] *former chairman/CEO; stake moved to sons' trusts* [[Cantor Fitzgerald]] · 2025-02 · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[26North]] *took minority stake* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
+- [[Brandon Lutnick]] *chairman and CEO of* [[Cantor Fitzgerald]] · 2025-05 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
+- [[Howard Lutnick]] *former chairman/CEO; interests moved to children's trusts* [[Cantor Fitzgerald]] · 2025-05 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[Kyle Lutnick]] *executive vice chair* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]] [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[Dynasty Trust A]] *holds Lutnick's former Cantor interests* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
+- [[Howard Lutnick]] *former chairman/CEO; divested to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
+- [[Brandon Lutnick]] *chairman of* [[Cantor Fitzgerald]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Cantor Fitzgerald]] *sponsor affiliate* [[Cantor Equity Partners II]] · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Cantor Fitzgerald]] *major investor in (reported)* [[Critical Metals Corp]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Kyle Lutnick]] *executive at* [[Cantor Fitzgerald]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Kyle Lutnick]] *executive vice chair of* [[Cantor Fitzgerald]] · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 
 ### Family (4)
 
-- [[Howard Lutnick]] *former chairman; children's trusts control* [[Cantor Fitzgerald]] · 2025-05 · [[C65 Officials who decided matters involving former clients or partners|C65]]
-- [[Howard Lutnick]] *divested interests to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
-- [[Howard Lutnick]] *former CEO; interests to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C54 The crypto revolving door|C54]]
-- [[Howard Lutnick]] *former chairman; family-controlled* [[Cantor Fitzgerald]] · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
+- [[Howard Lutnick]] *former chairman; children's trusts control* [[Cantor Fitzgerald]] · 2025-05 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Howard Lutnick]] *divested interests to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[Howard Lutnick]] *former CEO; interests to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C54 The Crypto Revolving Door|C54]]
+- [[Howard Lutnick]] *former chairman; family-controlled* [[Cantor Fitzgerald]] · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 
 ### Regulatory (1)
 
-- [[Richard Blumenthal]] *probing Tether ties and Lutnick exit financing* [[Cantor Fitzgerald]] · 2026-10-08 · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[Richard Blumenthal]] *probing Tether ties and Lutnick exit financing* [[Cantor Fitzgerald]] · 2026-10-08 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 
 ### Advisory (4)
 
-- [[Cantor Fitzgerald]] *co-bookrunner on 2021 offering (Cantor Canada); analyst coverage* [[Perpetua Resources]] · 2021-08 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
-- [[Cantor Fitzgerald]] *financial adviser/banker* [[The Metals Company]] · 2025 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
-- [[Cantor Fitzgerald]] *lead placement agent, $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]] [[C86 Major Trump donors with stakes in federally backed companies|C86]]
-- [[Cantor Fitzgerald]] *co-arranged >$150M private placement; capital-markets adviser* [[American Ocean Minerals]] · 2026-04-08 · $150M · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Cantor Fitzgerald]] *co-bookrunner on 2021 offering (Cantor Canada); analyst coverage* [[Perpetua Resources]] · 2021-08 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[Cantor Fitzgerald]] *financial adviser/banker* [[The Metals Company]] · 2025 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[Cantor Fitzgerald]] *lead placement agent, $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]] [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
+- [[Cantor Fitzgerald]] *co-arranged >$150M private placement; capital-markets adviser* [[American Ocean Minerals]] · 2026-04-08 · $150M · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
 
 ### Legal (1)
 
-- [[Richard Blumenthal]] *PSI minority records request on Tether ties* [[Cantor Fitzgerald]] · 2026-10-08 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Richard Blumenthal]] *PSI minority records request on Tether ties* [[Cantor Fitzgerald]] · 2026-10-08 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
 
 ### Media (5)
 
-- [[The Wall Street Journal]] *reported Tether stake* [[Cantor Fitzgerald]] · 2024-11-24 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Wired]] *reported tariff-refund rights pitch at 20-30%* [[Cantor Fitzgerald]] · 2025-07 · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
-- [[Reuters]] *reported AOMC placement role* [[Cantor Fitzgerald]] · 2026-04-08 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
-- [[Associated Press]] *reported TMC advice* [[Cantor Fitzgerald]] · 2026-05-21 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
-- [[The New York Times]] *reported ties to 14 federally backed mineral firms* [[Cantor Fitzgerald]] · 2026-06-28 · [[C60 Government equity stakes in critical-minerals companies|C60]]
+- [[The Wall Street Journal]] *reported Tether stake* [[Cantor Fitzgerald]] · 2024-11-24 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
+- [[Wired]] *reported tariff-refund rights pitch at 20-30%* [[Cantor Fitzgerald]] · 2025-07 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
+- [[Reuters]] *reported AOMC placement role* [[Cantor Fitzgerald]] · 2026-04-08 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[Associated Press]] *reported TMC advice* [[Cantor Fitzgerald]] · 2026-05-21 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[The New York Times]] *reported ties to 14 federally backed mineral firms* [[Cantor Fitzgerald]] · 2026-06-28 · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 
 ### Commercial (15)
 
-- [[Cantor Fitzgerald]] *custodies Treasury reserves for fees* [[Tether]] · 2024-11 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Cantor Fitzgerald]] *sought backing for bitcoin lending from (talks reported)* [[Tether]] · 2024-11 · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
-- [[Anchorage Digital]] *custodian/collateral manager for bitcoin financing* [[Cantor Fitzgerald]] · 2025 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
-- [[Cantor Fitzgerald]] *financial adviser on bitcoin-treasury raise* [[Trump Media & Technology Group]] · 2025-05 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
-- [[Cantor Fitzgerald]] *joint book-runner on $50M offering* [[ASP Isotopes]] · 2025-06 · $50M · [[C60 Government equity stakes in critical-minerals companies|C60]]
-- [[Cantor Fitzgerald]] *pitched buying (denies executing)* [[IEEPA tariff-refund claims market]] · 2025-07 · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
-- [[Cantor Fitzgerald]] *reserve custodian of* [[USAT]] · 2025-09-12 · [[C54 The crypto revolving door|C54]]
-- [[Cantor Fitzgerald]] *lead placement agent on $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C60 Government equity stakes in critical-minerals companies|C60]]
-- [[Cantor Fitzgerald]] *USAT reserve custodian* [[Tether]] · 2026-01-27 · [[C92 The White House ballroom donor list|C92]]
-- [[Cantor Fitzgerald]] *reserve custodian* [[USAT]] · 2026-01-27 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
-- [[Cantor Fitzgerald]] *reserve custodian and preferred primary dealer* [[USAT]] · 2026-01-27 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Cantor Fitzgerald]] *reported backer and prime broker since 2012* [[Cerberus Capital Management]] · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
-- [[Cantor Fitzgerald]] *raised $210M for a project investment partner (NYT)* [[Kaz Resources]] · $210M · [[C60 Government equity stakes in critical-minerals companies|C60]]
-- [[Cantor Fitzgerald]] *custodies reserves and holds convertible bond in* [[Tether]] · $600M · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
-- [[Cantor Fitzgerald]] *banker/financial adviser to* [[The Metals Company]] · [[C60 Government equity stakes in critical-minerals companies|C60]]
+- [[Cantor Fitzgerald]] *custodies Treasury reserves for fees* [[Tether]] · 2024-11 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
+- [[Cantor Fitzgerald]] *sought backing for bitcoin lending from (talks reported)* [[Tether]] · 2024-11 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
+- [[Anchorage Digital]] *custodian/collateral manager for bitcoin financing* [[Cantor Fitzgerald]] · 2025 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[Cantor Fitzgerald]] *financial adviser on bitcoin-treasury raise* [[Trump Media & Technology Group]] · 2025-05 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[Cantor Fitzgerald]] *joint book-runner on $50M offering* [[ASP Isotopes]] · 2025-06 · $50M · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Cantor Fitzgerald]] *pitched buying (denies executing)* [[IEEPA tariff-refund claims market]] · 2025-07 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
+- [[Cantor Fitzgerald]] *reserve custodian of* [[USAT]] · 2025-09-12 · [[C54 The Crypto Revolving Door|C54]]
+- [[Cantor Fitzgerald]] *lead placement agent on $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Cantor Fitzgerald]] *USAT reserve custodian* [[Tether]] · 2026-01-27 · [[C92 The White House Ballroom Donor List|C92]]
+- [[Cantor Fitzgerald]] *reserve custodian* [[USAT]] · 2026-01-27 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[Cantor Fitzgerald]] *reserve custodian and preferred primary dealer* [[USAT]] · 2026-01-27 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
+- [[Cantor Fitzgerald]] *reported backer and prime broker since 2012* [[Cerberus Capital Management]] · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
+- [[Cantor Fitzgerald]] *raised $210M for a project investment partner (NYT)* [[Kaz Resources]] · $210M · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Cantor Fitzgerald]] *custodies reserves and holds convertible bond in* [[Tether]] · $600M · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
+- [[Cantor Fitzgerald]] *banker/financial adviser to* [[The Metals Company]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]

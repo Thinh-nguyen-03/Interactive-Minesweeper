@@ -18,12 +18,12 @@ Adelson Family Foundation; $25M ballroom commitment
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Miriam Adelson]] *controls* [[Adelson Family Foundation]] · [[C92 The White House ballroom donor list|C92]]
+- [[Miriam Adelson]] *controls* [[Adelson Family Foundation]] · [[C92 The White House Ballroom Donor List|C92]]

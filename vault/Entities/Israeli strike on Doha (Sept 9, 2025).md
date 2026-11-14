@@ -18,22 +18,22 @@ Israeli strike on Hamas leaders in Doha; disputed US advance warning via Witkoff
 | Appears in | 2 checks |
 | Connections | 5 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Prompted the security EO
 
-## Appears in checks
+## Appears in Checks
 
-- [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
-- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
+- [[C53 The Witkoff Family's Own Gulf Money]] · Mostly accurate
+- [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 
 ## Relationships
 
 ### Political (2)
 
-- [[Israeli strike on Doha (Sept 9, 2025)]] *preceded* [[EO 'Assuring the Security of the State of Qatar']] · 2025-09-09 · [[C73 Qatar's ties to people in and around the administration|C73]]
-- [[Steve Witkoff]] *told by Trump to warn Qatar (timing disputed)* [[Israeli strike on Doha (Sept 9, 2025)]] · 2025-09-09 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Israeli strike on Doha (Sept 9, 2025)]] *preceded* [[EO 'Assuring the Security of the State of Qatar']] · 2025-09-09 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
+- [[Steve Witkoff]] *told by Trump to warn Qatar (timing disputed)* [[Israeli strike on Doha (Sept 9, 2025)]] · 2025-09-09 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 
 ### Media (1)
 
-- [[Karoline Leavitt]] *said Witkoff warned Qatar beforehand* [[Israeli strike on Doha (Sept 9, 2025)]] · 2025-09-09 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Karoline Leavitt]] *said Witkoff warned Qatar beforehand* [[Israeli strike on Doha (Sept 9, 2025)]] · 2025-09-09 · [[C53 The Witkoff Family's Own Gulf Money|C53]]

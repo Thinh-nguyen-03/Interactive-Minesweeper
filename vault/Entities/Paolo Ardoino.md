@@ -18,19 +18,19 @@ Tether CEO; recipient of Blumenthal's Oct 2026 letter
 | Appears in | 3 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Tether CEO
 
-## Appears in checks
+## Appears in Checks
 
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
-- [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business]] · Mostly accurate
-- [[C54 The crypto revolving door]] · Mostly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
+- [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business]] · Mostly accurate
+- [[C54 The Crypto Revolving Door]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Paolo Ardoino]] *CEO* [[Tether]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Paolo Ardoino]] *CEO of; rebutted Senate report* [[Tether]] · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[Paolo Ardoino]] *CEO* [[Tether]] · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
+- [[Paolo Ardoino]] *CEO of; rebutted Senate report* [[Tether]] · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]

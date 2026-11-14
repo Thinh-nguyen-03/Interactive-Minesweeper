@@ -18,13 +18,13 @@ Israeli drone maker merging with JFB Construction; Eric Trump and UMAC invest
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Eric Trump]] *invested in merger of* [[XTEND]] · 2026-02 · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Unusual Machines]] *invested in merger of* [[XTEND]] · 2026-02 · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Eric Trump]] *invested in merger of* [[XTEND]] · 2026-02 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
+- [[Unusual Machines]] *invested in merger of* [[XTEND]] · 2026-02 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]

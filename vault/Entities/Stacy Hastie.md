@@ -18,12 +18,12 @@ USSM CEO.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Stacy Hastie]] *CEO* [[US Strategic Metals (USSM)]] · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
+- [[Stacy Hastie]] *CEO* [[US Strategic Metals (USSM)]] · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]

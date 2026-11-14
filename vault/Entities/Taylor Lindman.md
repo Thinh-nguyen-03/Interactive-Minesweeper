@@ -18,16 +18,16 @@ Ex-Chainlink deputy GC; SEC Crypto Task Force chief counsel from Feb 2026
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C54 The crypto revolving door]] · Mostly accurate
+- [[C54 The Crypto Revolving Door]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Taylor Lindman]] *Crypto Task Force chief counsel (from Chainlink)* [[Securities and Exchange Commission]] · 2026-02-23 · [[C54 The crypto revolving door|C54]]
+- [[Taylor Lindman]] *Crypto Task Force chief counsel (from Chainlink)* [[Securities and Exchange Commission]] · 2026-02-23 · [[C54 The Crypto Revolving Door|C54]]
 
 ### Commercial (1)
 
-- [[Taylor Lindman]] *former deputy general counsel* [[Chainlink Labs]] · [[C54 The crypto revolving door|C54]]
+- [[Taylor Lindman]] *former deputy general counsel* [[Chainlink Labs]] · [[C54 The Crypto Revolving Door|C54]]

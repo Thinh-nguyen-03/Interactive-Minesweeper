@@ -18,13 +18,13 @@ Election whose outcome drove WLFI sales.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
+- [[C04 World Liberty Financial Founding & Token Sale]] · Mostly accurate
 
 ## Relationships
 
 ### Political (2)
 
-- [[World Liberty Financial]] *created shortly before* [[2024 Presidential Election]] · 2024 · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[2024 Presidential Election]] *Trump win boosted* [[WLFI token sale]] · 2024-11 · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[World Liberty Financial]] *created shortly before* [[2024 Presidential Election]] · 2024 · [[C04 World Liberty Financial Founding & Token Sale|C04]]
+- [[2024 Presidential Election]] *Trump win boosted* [[WLFI token sale]] · 2024-11 · [[C04 World Liberty Financial Founding & Token Sale|C04]]

@@ -18,19 +18,19 @@ Iraq-Syria pipeline; TI Capital, Chevron, UCC consortium
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Planned $15B+ Iraq-Syria oil pipeline
 
-## Appears in checks
+## Appears in Checks
 
-- [[C65 Officials who decided matters involving former clients or partners]] · Mostly accurate
-- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
+- [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
+- [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (3)
 
-- [[TI Capital]] *consortium member* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C73 Qatar's ties to people in and around the administration|C73]]
-- [[TI Capital]] *consortium member (MoU)* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C65 Officials who decided matters involving former clients or partners|C65]]
-- [[UCC Holding]] *consortium member* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C73 Qatar's ties to people in and around the administration|C73]]
+- [[TI Capital]] *consortium member* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
+- [[TI Capital]] *consortium member (MoU)* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[UCC Holding]] *consortium member* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]

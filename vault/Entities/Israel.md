@@ -12,7 +12,7 @@ tags:
 
 Alleged recipient of about $1B via Azerbaijan; this detail is disputed by Axios's Barak Ravid.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C37 The reported hack of Jared Kushner's phone|C37]], [[C46 The alleged Kushner Gulf accounts|C46]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C37 The Reported Hack of Jared Kushner's Phone|C37]], [[C46 The Alleged Kushner Gulf Accounts|C46]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,11 +20,11 @@ Alleged recipient of about $1B via Azerbaijan; this detail is disputed by Axios'
 | Appears in | 2 checks |
 | Connections | 2 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Alleged destination of the ~$1B 'Beta' transfer.
 
-## Appears in checks
+## Appears in Checks
 
-- [[C37 The reported hack of Jared Kushner's phone]] · Unverified · unverified allegation, single source
-- [[C46 The alleged Kushner Gulf accounts]] · Unverified · unverified allegation, single source
+- [[C37 The Reported Hack of Jared Kushner's Phone]] · Unverified · unverified allegation, single source
+- [[C46 The Alleged Kushner Gulf Accounts]] · Unverified · unverified allegation, single source

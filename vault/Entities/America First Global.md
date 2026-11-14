@@ -18,17 +18,17 @@ Beach's investment firm, the lead of the Rubaya consortium.
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
+- [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Gentry Beach]] *chairs* [[America First Global]] · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[Gentry Beach]] *chairs* [[America First Global]] · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]
 
 ### Commercial (2)
 
-- [[America First Global]] *sought majority stake in (with Mercuria); no deal reported through Nov 2026* [[Rubaya coltan mine]] · 2025-06 · $500M · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
-- [[Mercuria]] *consortium partner of* [[America First Global]] · 2025-06 · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[America First Global]] *sought majority stake in (with Mercuria); no deal reported through Nov 2026* [[Rubaya coltan mine]] · 2025-06 · $500M · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]
+- [[Mercuria]] *consortium partner of* [[America First Global]] · 2025-06 · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]

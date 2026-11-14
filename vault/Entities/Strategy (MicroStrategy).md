@@ -18,12 +18,12 @@ Bitcoin-treasury company; Clear Street underwrote its offerings
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C78 The blank-cheque companies run by Trump Media's interim chief]] · Mostly accurate
+- [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Clear Street]] *underwriter of stock offerings* [[Strategy (MicroStrategy)]] · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]]
+- [[Clear Street]] *underwriter of stock offerings* [[Strategy (MicroStrategy)]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]

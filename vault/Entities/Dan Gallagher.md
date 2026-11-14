@@ -18,12 +18,12 @@ Robinhood chief legal, compliance and corporate affairs officer
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C43 Overlap between dropped enforcement cases and Trump donors]] · Mostly accurate
+- [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Dan Gallagher]] *chief legal and compliance officer of* [[Robinhood Markets]] · [[C43 Overlap between dropped enforcement cases and Trump donors|C43]]
+- [[Dan Gallagher]] *chief legal and compliance officer of* [[Robinhood Markets]] · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]

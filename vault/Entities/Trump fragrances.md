@@ -21,16 +21,16 @@ Trump-branded cologne/perfume.
 | Connections | 2 |
 | Also known as | cologne |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C17 Trump-branded merchandise and the T1 phone]] · Mostly accurate
+- [[C17 Trump-Branded Merchandise & the T1 Phone]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Donald Trump]] *sells* [[Trump fragrances]] · [[C17 Trump-branded merchandise and the T1 phone|C17]]
+- [[Donald Trump]] *sells* [[Trump fragrances]] · [[C17 Trump-Branded Merchandise & the T1 Phone|C17]]
 
 ## Themes
 
-- [[Theme - Earning from the office, brand and access]]
+- [[Theme - Earning from the Office, Brand & Access]]

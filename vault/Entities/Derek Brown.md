@@ -18,12 +18,12 @@ Utah AG; sued Kalshi Oct 2026; defendant in CFTC suit.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate
+- [[C38 Polymarket Probes Closed Before 1789 Capital Invested]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Derek Brown]] *sued* [[Kalshi]] · 2026-10-20 · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
+- [[Derek Brown]] *sued* [[Kalshi]] · 2026-10-20 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]

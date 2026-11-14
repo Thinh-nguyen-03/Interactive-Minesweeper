@@ -18,18 +18,18 @@ Provisionally approved by the OCC.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C12 World Liberty's bank charter application at the OCC]] · Mostly accurate
+- [[C12 World Liberty's Bank Charter Application at the OCC]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (2)
 
-- [[Office of the Comptroller of the Currency]] *provisionally approved* [[WLF bank charter application]] · [[C12 World Liberty's bank charter application at the OCC|C12]]
-- [[World Liberty Financial]] *applied for* [[WLF bank charter application]] · [[C12 World Liberty's bank charter application at the OCC|C12]]
+- [[Office of the Comptroller of the Currency]] *provisionally approved* [[WLF bank charter application]] · [[C12 World Liberty's Bank Charter Application at the OCC|C12]]
+- [[World Liberty Financial]] *applied for* [[WLF bank charter application]] · [[C12 World Liberty's Bank Charter Application at the OCC|C12]]
 
 ## Themes
 
-- [[Theme - President appoints the regulators of family-linked businesses]]
-- [[Theme - Official acts close in time to payments]]
+- [[Theme - President Appoints the Regulators of Family-Linked Businesses]]
+- [[Theme - Official Acts Close in Time to Payments]]

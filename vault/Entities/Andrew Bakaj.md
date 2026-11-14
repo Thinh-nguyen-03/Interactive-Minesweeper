@@ -12,7 +12,7 @@ tags:
 
 Whistleblower's attorney.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C46 The alleged Kushner Gulf accounts|C46]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C46 The Alleged Kushner Gulf Accounts|C46]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,12 +20,12 @@ Whistleblower's attorney.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C46 The alleged Kushner Gulf accounts]] · Unverified · unverified allegation, single source
+- [[C46 The Alleged Kushner Gulf Accounts]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Andrew Bakaj]] *represents whistleblower complaining about* [[Tulsi Gabbard]] · 2025-05-21 · [[C46 The alleged Kushner Gulf accounts|C46]] · unverified allegation
+- [[Andrew Bakaj]] *represents whistleblower complaining about* [[Tulsi Gabbard]] · 2025-05-21 · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation

@@ -18,12 +18,12 @@ Proposed ~$1B, 60+ storey tower in Thu Thiem; not confirmed approved
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C59 Foreign Trump Organization projects and tariff negotiations]] · Partly accurate
+- [[C59 Foreign Trump Organization Projects & Tariff Negotiations]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Kinh Bac City Development Holding Corp (KBC)]] *promotes proposed* [[Trump Tower Ho Chi Minh City (proposed)]] · 2025-05 · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]]
+- [[Kinh Bac City Development Holding Corp (KBC)]] *promotes proposed* [[Trump Tower Ho Chi Minh City (proposed)]] · 2025-05 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]

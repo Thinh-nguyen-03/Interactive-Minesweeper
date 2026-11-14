@@ -18,13 +18,13 @@ Proposed $4B Witkoff Group credit fund pitched to Gulf sovereign funds; shelved
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
+- [[C53 The Witkoff Family's Own Gulf Money]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Alex Witkoff]] *proposed* [[Special Situations Real Estate Credit Fund]] · 2024 · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Zach Witkoff]] *reportedly involved in fundraising (NYT)* [[Special Situations Real Estate Credit Fund]] · 2024-2025 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Alex Witkoff]] *proposed* [[Special Situations Real Estate Credit Fund]] · 2024 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
+- [[Zach Witkoff]] *reportedly involved in fundraising (NYT)* [[Special Situations Real Estate Credit Fund]] · 2024-2025 · [[C53 The Witkoff Family's Own Gulf Money|C53]]

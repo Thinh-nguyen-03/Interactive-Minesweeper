@@ -18,16 +18,16 @@ Cantor-sponsored SPAC that merged with Twenty One Capital
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Brandon Lutnick]] *chairman and CEO* [[Cantor Equity Partners]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Brandon Lutnick]] *chairman and CEO* [[Cantor Equity Partners]] · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
 
 ### Commercial (1)
 
-- [[Cantor Equity Partners]] *SPAC merger partner* [[Twenty One Capital (XXI)]] · 2025-12-09 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Cantor Equity Partners]] *SPAC merger partner* [[Twenty One Capital (XXI)]] · 2025-12-09 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]

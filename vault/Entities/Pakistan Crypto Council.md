@@ -18,32 +18,32 @@ Finance-ministry crypto body; signed the WLF letter of intent; CZ is an adviser.
 | Appears in | 3 checks |
 | Connections | 8 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Signed WLF letter of intent on 2025-04-26
 - Government crypto body
 
-## Appears in checks
+## Appears in Checks
 
-- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
-- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
+- [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (2)
 
-- [[Changpeng Zhao]] *adviser* [[Pakistan Crypto Council]] · 2025-04 · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
-- [[Changpeng Zhao]] *strategic adviser* [[Pakistan Crypto Council]] · 2025-04 · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Changpeng Zhao]] *adviser* [[Pakistan Crypto Council]] · 2025-04 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
+- [[Changpeng Zhao]] *strategic adviser* [[Pakistan Crypto Council]] · 2025-04 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 
 ### Political (1)
 
-- [[Bilal Bin Saqib]] *CEO* [[Pakistan Crypto Council]] · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Bilal Bin Saqib]] *CEO* [[Pakistan Crypto Council]] · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 
 ### Commercial (5)
 
-- [[Chase Herro]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists and intermediaries with White House access|C64]]
-- [[World Liberty Financial]] *letter of intent* [[Pakistan Crypto Council]] · 2025-04-26 · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
-- [[World Liberty Financial]] *signed letter of intent* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists and intermediaries with White House access|C64]]
-- [[World Liberty Financial]] *signed letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
-- [[Zach Witkoff]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Chase Herro]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
+- [[World Liberty Financial]] *letter of intent* [[Pakistan Crypto Council]] · 2025-04-26 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
+- [[World Liberty Financial]] *signed letter of intent* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
+- [[World Liberty Financial]] *signed letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
+- [[Zach Witkoff]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]

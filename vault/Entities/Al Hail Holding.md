@@ -18,12 +18,12 @@ Abu Dhabi investment company (CEO Hamad Jassim Al Darwish) reported in the conso
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C94 The sale of Lukoil's foreign assets and the Boehly consortium]] · Mostly accurate
+- [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Al Hail Holding]] *reported consortium member* [[Lukoil International GmbH (lukoil-international-gmbh)]] · 2026-11 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
+- [[Al Hail Holding]] *reported consortium member* [[Lukoil International GmbH (lukoil-international-gmbh)]] · 2026-11 · [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium|C94]]

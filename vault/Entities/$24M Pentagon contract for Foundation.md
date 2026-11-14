@@ -18,21 +18,21 @@ Contract Fox presented as new; Wired says it predates Eric Trump.
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
+- [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Pentagon (Department of Defense)]] *awarded* [[$24M Pentagon contract for Foundation]] · $24M · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Pentagon (Department of Defense)]] *awarded* [[$24M Pentagon contract for Foundation]] · $24M · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
 
 ### Media (2)
 
-- [[Fox News]] *presented as new* [[$24M Pentagon contract for Foundation]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
-- [[Wired]] *reported predates Eric Trump* [[$24M Pentagon contract for Foundation]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Fox News]] *presented as new* [[$24M Pentagon contract for Foundation]] · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
+- [[Wired]] *reported predates Eric Trump* [[$24M Pentagon contract for Foundation]] · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
 
 ## Themes
 
-- [[Theme - Government contracts near family-linked firms]]
+- [[Theme - Government Contracts Near Family-Linked Firms]]

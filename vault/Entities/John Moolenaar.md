@@ -18,12 +18,12 @@ Chair of the House China committee.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
+- [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[John Moolenaar]] *chair of* [[House Select Committee on the CCP]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
+- [[John Moolenaar]] *chair of* [[House Select Committee on the CCP]] · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]

@@ -21,25 +21,25 @@ Soviet-born billionaire, Access Industries founder; sanctioned by Ukraine Dec 20
 | Connections | 5 |
 | Also known as | Leonard (Len) Blavatnik |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Billionaire with a reported real-estate tie to Witkoff (Byline Times)
 
-## Appears in checks
+## Appears in Checks
 
-- [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
-- [[C76 Russia-linked money around the family and the envoys]] · Partly accurate
+- [[C53 The Witkoff Family's Own Gulf Money]] · Mostly accurate
+- [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Leonard Blavatnik]] *founded and controls* [[Access Industries]] · [[C76 Russia-linked money around the family and the envoys|C76]]
+- [[Leonard Blavatnik]] *founded and controls* [[Access Industries]] · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
 
 ### Regulatory (1)
 
-- [[Ukraine]] *sanctioned for ten years* [[Leonard Blavatnik]] · 2023-12 · [[C76 Russia-linked money around the family and the envoys|C76]]
+- [[Ukraine]] *sanctioned for ten years* [[Leonard Blavatnik]] · 2023-12 · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
 
 ### Commercial (1)
 
-- [[Leonard Blavatnik]] *reported real-estate partnership (Byline Times)* [[Steve Witkoff]] · 2025-12 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Leonard Blavatnik]] *reported real-estate partnership (Byline Times)* [[Steve Witkoff]] · 2025-12 · [[C53 The Witkoff Family's Own Gulf Money|C53]]

@@ -18,12 +18,12 @@ SPAC that merged with TMTG
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
+- [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Susquehanna International Group]] *held ~2% before TMTG merger (market maker)* [[Digital World Acquisition Corp]] · 2024-03 · [[C86 Major Trump donors with stakes in federally backed companies|C86]]
+- [[Susquehanna International Group]] *held ~2% before TMTG merger (market maker)* [[Digital World Acquisition Corp]] · 2024-03 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]

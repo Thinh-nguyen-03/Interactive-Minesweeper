@@ -18,18 +18,18 @@ Indonesian president; asked Trump on a hot mic to meet Eric
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - President of Indonesia
 
-## Appears in checks
+## Appears in Checks
 
-- [[C59 Foreign Trump Organization projects and tariff negotiations]] · Partly accurate
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
+- [[C59 Foreign Trump Organization Projects & Tariff Negotiations]] · Partly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 
 ## Relationships
 
 ### Political (2)
 
-- [[Prabowo Subianto]] *asked Trump for a meeting with* [[Eric Trump]] · 2025-10-13 · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]]
-- [[Prabowo Subianto]] *asked Trump for a meeting with (hot mic)* [[Eric Trump]] · 2025-10-13 · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
+- [[Prabowo Subianto]] *asked Trump for a meeting with* [[Eric Trump]] · 2025-10-13 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
+- [[Prabowo Subianto]] *asked Trump for a meeting with (hot mic)* [[Eric Trump]] · 2025-10-13 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]

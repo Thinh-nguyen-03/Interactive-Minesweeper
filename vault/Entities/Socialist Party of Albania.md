@@ -18,12 +18,12 @@ Rama's ruling party; Ballard client in 2017
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
+- [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Socialist Party of Albania]] *hired at $20K/month* [[Ballard Partners]] · 2017-04 · $20K · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Socialist Party of Albania]] *hired at $20K/month* [[Ballard Partners]] · 2017-04 · $20K · [[C64 Lobbyists & Intermediaries with White House Access|C64]]

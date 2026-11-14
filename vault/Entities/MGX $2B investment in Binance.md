@@ -18,22 +18,22 @@ Investment closed in USD1.
 | Appears in | 2 checks |
 | Connections | 5 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C07 MGX's $2 billion Binance investment settled in USD1]] · Mostly accurate
-- [[C09 The dropped Binance case and the pardon of Changpeng Zhao]] · Mostly accurate
+- [[C07 MGX's $2 Billion Binance Investment Settled in USD1]] · Mostly accurate
+- [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[MGX]] *made* [[MGX $2B investment in Binance]] · $2B · [[C07 MGX's $2 billion Binance investment settled in USD1|C07]]
+- [[MGX]] *made* [[MGX $2B investment in Binance]] · $2B · [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]]
 
 ### Commercial (2)
 
-- [[USD1]] *used to settle* [[MGX $2B investment in Binance]] · [[C07 MGX's $2 billion Binance investment settled in USD1|C07]]
-- [[Zach Witkoff]] *announced USD1 role in* [[MGX $2B investment in Binance]] · [[C07 MGX's $2 billion Binance investment settled in USD1|C07]]
+- [[USD1]] *used to settle* [[MGX $2B investment in Binance]] · [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]]
+- [[Zach Witkoff]] *announced USD1 role in* [[MGX $2B investment in Binance]] · [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]]
 
 ## Themes
 
-- [[Theme - Non-disclosure]]
+- [[Theme - Non-Disclosure]]

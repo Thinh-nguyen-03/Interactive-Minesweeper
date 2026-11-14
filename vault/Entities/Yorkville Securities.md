@@ -18,13 +18,13 @@ Yorkville broker-dealer; co-lead agent on TMTG's 2025 bitcoin raise
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C78 The blank-cheque companies run by Trump Media's interim chief]] · Mostly accurate
+- [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Yorkville Securities]] *co-lead placement agent on ~$2.44B raise* [[Trump Media & Technology Group]] · 2025-05-27 · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]]
-- [[Troy Rillo]] *co-CEO and director* [[Yorkville Securities]] · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]]
+- [[Yorkville Securities]] *co-lead placement agent on ~$2.44B raise* [[Trump Media & Technology Group]] · 2025-05-27 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
+- [[Troy Rillo]] *co-CEO and director* [[Yorkville Securities]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]

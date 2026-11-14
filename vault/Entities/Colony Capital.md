@@ -18,17 +18,17 @@ Barrack firm (now DigitalBridge); co-owned Miramax with QIA, sold PSG to QSI
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
+- [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Colony Capital]] *sold PSG to* [[Qatar Sports Investments]] · 2011-05 · [[C73 Qatar's ties to people in and around the administration|C73]]
+- [[Colony Capital]] *sold PSG to* [[Qatar Sports Investments]] · 2011-05 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 
 ### Ownership (2)
 
-- [[Colony Capital]] *co-owned with QIA unit* [[Miramax]] · 2010 · [[C73 Qatar's ties to people in and around the administration|C73]]
-- [[Tom Barrack]] *founded* [[Colony Capital]] · [[C73 Qatar's ties to people in and around the administration|C73]]
+- [[Colony Capital]] *co-owned with QIA unit* [[Miramax]] · 2010 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
+- [[Tom Barrack]] *founded* [[Colony Capital]] · [[C73 Qatar's Ties to People in & Around the Administration|C73]]

@@ -22,20 +22,20 @@ The United States.
 | Connections | 7 |
 | Also known as | America; US |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C08 AI chip exports to the UAE, Stargate and a possible currency swap]] · Mostly accurate
-- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
-- [[C17 Trump-branded merchandise and the T1 phone]] · Mostly accurate
-- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
+- [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap]] · Mostly accurate
+- [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project]] · Mostly accurate
+- [[C17 Trump-Branded Merchandise & the T1 Phone]] · Mostly accurate
+- [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[United States]] *went to war with* [[Iran]] · [[C08 AI chip exports to the UAE, Stargate and a possible currency swap|C08]] [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]
+- [[United States]] *went to war with* [[Iran]] · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]] [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]
 
 ### Commercial (2)
 
-- [[T1 phone]] *dropped 'made in America' claim* [[United States]] · [[C17 Trump-branded merchandise and the T1 phone|C17]]
-- [[United States]] *sold arms in* [[$1.96B Qatar arms deal]] · $1.96B · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]]
+- [[T1 phone]] *dropped 'made in America' claim* [[United States]] · [[C17 Trump-Branded Merchandise & the T1 Phone|C17]]
+- [[United States]] *sold arms in* [[$1.96B Qatar arms deal]] · $1.96B · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]

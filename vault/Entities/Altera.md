@@ -18,14 +18,14 @@ FPGA chipmaker; 51% sold by Intel to Silver Lake-led group incl. MGX (closed 202
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds]] · Mostly accurate
+- [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (3)
 
-- [[Intel]] *retains 49% of* [[Altera]] · 2025-09-12 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
-- [[Silver Lake]] *led purchase of 51% of (~$3.3B equity per filing-based reports; $8.75B valuation)* [[Altera]] · 2025-09-12 · $3.3B · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
-- [[MGX]] *co-invested with Silver Lake in* [[Altera]] · 2025-09-16 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Intel]] *retains 49% of* [[Altera]] · 2025-09-12 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
+- [[Silver Lake]] *led purchase of 51% of (~$3.3B equity per filing-based reports; $8.75B valuation)* [[Altera]] · 2025-09-12 · $3.3B · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
+- [[MGX]] *co-invested with Silver Lake in* [[Altera]] · 2025-09-16 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]

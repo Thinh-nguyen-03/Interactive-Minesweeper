@@ -18,12 +18,12 @@ Silver Lake co-CEO
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds]] · Mostly accurate
+- [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Greg Mondre]] *co-CEO of* [[Silver Lake]] · 2019 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Greg Mondre]] *co-CEO of* [[Silver Lake]] · 2019 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]

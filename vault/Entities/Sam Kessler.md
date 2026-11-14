@@ -18,19 +18,19 @@ Wall Street Journal reporter; lead reporter on its investigation of the Tahnoon-
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - WSJ reporter on the investigation.
 
-## Appears in checks
+## Appears in Checks
 
-- [[C06 A UAE-backed 49% stake in World Liberty Financial]] · Confirmed
-- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
+- [[C06 A UAE-Backed 49% Stake in World Liberty Financial]] · Confirmed
+- [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters]] · Mostly accurate
 
 ## Relationships
 
 ### Media (3)
 
-- [[Sam Kessler]] *reporter at* [[The Wall Street Journal]] · [[C06 A UAE-backed 49% stake in World Liberty Financial|C06]]
-- [[Sam Kessler]] *reports for* [[The Wall Street Journal]] · [[C06 A UAE-backed 49% stake in World Liberty Financial|C06]] [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]
-- [[Sam Kessler]] *investigated* [[World Liberty Financial]] · [[C06 A UAE-backed 49% stake in World Liberty Financial|C06]]
+- [[Sam Kessler]] *reporter at* [[The Wall Street Journal]] · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]]
+- [[Sam Kessler]] *reports for* [[The Wall Street Journal]] · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]] [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]
+- [[Sam Kessler]] *investigated* [[World Liberty Financial]] · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]]

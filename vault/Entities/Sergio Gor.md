@@ -18,12 +18,12 @@ US ambassador to India
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
+- [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Jason Miller]] *met three times* [[Sergio Gor]] · 2025-11 · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Jason Miller]] *met three times* [[Sergio Gor]] · 2025-11 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]

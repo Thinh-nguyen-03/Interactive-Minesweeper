@@ -18,12 +18,12 @@ Energy-drink brand; Kai Trump NIL and equity partner
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Kai Trump]] *NIL and equity partner* [[Accelerator Active Energy]] · 2025 · [[C66 The extended family's ventures and roles|C66]]
+- [[Kai Trump]] *NIL and equity partner* [[Accelerator Active Energy]] · 2025 · [[C66 The Extended Family's Ventures & Roles|C66]]

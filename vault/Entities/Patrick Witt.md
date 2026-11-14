@@ -18,12 +18,12 @@ Hines's successor at the crypto council (Aug 2025-Oct 2026)
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C54 The crypto revolving door]] · Mostly accurate
+- [[C54 The Crypto Revolving Door]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Patrick Witt]] *executive director (Aug 2025-Oct 2026)* [[President's Council of Advisers on Digital Assets]] · 2025-08 · [[C54 The crypto revolving door|C54]]
+- [[Patrick Witt]] *executive director (Aug 2025-Oct 2026)* [[President's Council of Advisers on Digital Assets]] · 2025-08 · [[C54 The Crypto Revolving Door|C54]]

@@ -18,12 +18,12 @@ GSA government-wide discount agreements with tech vendors, launched 2025.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Josh Gruenbaum]] *led as FAS commissioner* [[GSA OneGov]] · 2025 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[Josh Gruenbaum]] *led as FAS commissioner* [[GSA OneGov]] · 2025 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]

@@ -18,12 +18,12 @@ TVA III director since Sep 2025
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C78 The blank-cheque companies run by Trump Media's interim chief]] · Mostly accurate
+- [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Omar Hasan]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]]
+- [[Omar Hasan]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]

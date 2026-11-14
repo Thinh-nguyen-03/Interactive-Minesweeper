@@ -18,12 +18,12 @@ WBD news network now under Ellison control
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
+- [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Warner Bros. Discovery]] *owns* [[CNN]] · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
+- [[Warner Bros. Discovery]] *owns* [[CNN]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]

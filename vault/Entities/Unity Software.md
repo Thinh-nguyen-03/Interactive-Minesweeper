@@ -18,17 +18,17 @@ Game-engine maker; Silver Lake ~8%; reported Silver Lake/PIF ~$25B takeover talk
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds]] · Mostly accurate
+- [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Silver Lake]] *holds ~8% of; reported takeover talks with PIF* [[Unity Software]] · 2026-11-05 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Silver Lake]] *holds ~8% of; reported takeover talks with PIF* [[Unity Software]] · 2026-11-05 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
 
 ### Commercial (2)
 
-- [[Egon Durban]] *board member of* [[Unity Software]] · 2026 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
-- [[Public Investment Fund (Saudi Arabia)]] *reported ~$25B takeover talks (with Silver Lake)* [[Unity Software]] · 2026-11-05 · $25B · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Egon Durban]] *board member of* [[Unity Software]] · 2026 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
+- [[Public Investment Fund (Saudi Arabia)]] *reported ~$25B takeover talks (with Silver Lake)* [[Unity Software]] · 2026-11-05 · $25B · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]

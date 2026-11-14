@@ -18,12 +18,12 @@ FTX founder; applied for a pardon in Jun 2026
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
+- [[C36 Clemency for Other Crypto & Donor-Linked Figures]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Sam Bankman-Fried]] *applied for a pardon (Trump says no)* [[Donald Trump]] · 2026-06 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Sam Bankman-Fried]] *applied for a pardon (Trump says no)* [[Donald Trump]] · 2026-06 · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]

@@ -18,16 +18,16 @@ IHMC spinout acquired by Foundation; source of two inherited federal contracts, 
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
+- [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Foundation Future Industries]] *acquired (inheriting two federal contracts)* [[Boardwalk Robotics]] · 2024 · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Foundation Future Industries]] *acquired (inheriting two federal contracts)* [[Boardwalk Robotics]] · 2024 · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
 
 ### Commercial (1)
 
-- [[Pentagon (Department of Defense)]] *Air Force SBIR award (~$1.8M), start 2024-11-07* [[Boardwalk Robotics]] · 2024-11 · $1.8M · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Pentagon (Department of Defense)]] *Air Force SBIR award (~$1.8M), start 2024-11-07* [[Boardwalk Robotics]] · 2024-11 · $1.8M · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]

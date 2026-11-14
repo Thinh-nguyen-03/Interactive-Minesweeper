@@ -18,16 +18,16 @@ Largest holders of the $TRUMP coin, rewarded with a private dinner with the pres
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C03 The private dinner for top $TRUMP holders]] · Confirmed
+- [[C03 The Private Dinner for Top $TRUMP Holders]] · Confirmed
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Top $TRUMP holders]] *hold most of* [[$TRUMP meme coin]] · [[C03 The private dinner for top $TRUMP holders|C03]]
+- [[Top $TRUMP holders]] *hold most of* [[$TRUMP meme coin]] · [[C03 The Private Dinner for Top $TRUMP Holders|C03]]
 
 ### Commercial (1)
 
-- [[Top $TRUMP holders]] *won seats at* [[Dinner for top $TRUMP holders]] · [[C03 The private dinner for top $TRUMP holders|C03]]
+- [[Top $TRUMP holders]] *won seats at* [[Dinner for top $TRUMP holders]] · [[C03 The Private Dinner for Top $TRUMP Holders|C03]]

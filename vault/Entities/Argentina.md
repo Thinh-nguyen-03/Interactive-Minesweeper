@@ -18,22 +18,22 @@ Recipient of $20B US Treasury swap line (2025)
 | Appears in | 2 checks |
 | Connections | 5 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Site of the LIBRA scandal and its probes
 
-## Appears in checks
+## Appears in Checks
 
-- [[C40 Who ran the $TRUMP and $MELANIA launches]] · Mostly accurate
-- [[C65 Officials who decided matters involving former clients or partners]] · Mostly accurate
+- [[C40 Who Ran the $TRUMP & $MELANIA Launches]] · Mostly accurate
+- [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Discovery Capital Management]] *large bond positions* [[Argentina]] · 2025-09 · [[C65 Officials who decided matters involving former clients or partners|C65]]
-- [[US Treasury]] *$20B swap line* [[Argentina]] · 2025-10 · $20B · [[C65 Officials who decided matters involving former clients or partners|C65]]
+- [[Discovery Capital Management]] *large bond positions* [[Argentina]] · 2025-09 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[US Treasury]] *$20B swap line* [[Argentina]] · 2025-10 · $20B · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 
 ### Political (1)
 
-- [[Javier Milei]] *president of* [[Argentina]] · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]
+- [[Javier Milei]] *president of* [[Argentina]] · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]

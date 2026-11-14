@@ -18,13 +18,13 @@ $9.99/month premium Truth+ tier launched July 2025 with conservative news channe
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C21 Trump Media's paid feed of market-moving posts and Truth+]] · Mostly accurate
+- [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Truth+]] *premium tier* [[Truth+ Patriot Package]] · 2025-07 · [[C21 Trump Media's paid feed of market-moving posts and Truth+|C21]]
-- [[Great American Media]] *supplies on-demand catalogue to* [[Truth+ Patriot Package]] · 2025-08-07 · [[C21 Trump Media's paid feed of market-moving posts and Truth+|C21]]
+- [[Truth+]] *premium tier* [[Truth+ Patriot Package]] · 2025-07 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]
+- [[Great American Media]] *supplies on-demand catalogue to* [[Truth+ Patriot Package]] · 2025-08-07 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]

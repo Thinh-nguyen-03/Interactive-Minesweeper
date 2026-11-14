@@ -18,12 +18,12 @@ Sui blockchain body; SUI added to WLF reserve in March 2025
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
+- [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[World Liberty Financial]] *added SUI to Macro Strategy reserve* [[Sui Foundation]] · 2025-03-06 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[World Liberty Financial]] *added SUI to Macro Strategy reserve* [[Sui Foundation]] · 2025-03-06 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]

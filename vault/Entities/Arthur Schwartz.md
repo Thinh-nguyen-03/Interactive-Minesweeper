@@ -18,12 +18,12 @@ tags:
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
+- [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Arthur Schwartz]] *spokesman* [[1789 Capital]] · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Arthur Schwartz]] *spokesman* [[1789 Capital]] · [[C64 Lobbyists & Intermediaries with White House Access|C64]]

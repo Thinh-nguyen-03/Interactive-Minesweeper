@@ -21,21 +21,21 @@ Trump-owned golf club in Sterling/Potomac Falls, VA, where the dinner was held.
 | Connections | 6 |
 | Also known as | Trump National Golf Club Washington D.C. |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Trump club in Sterling, VA; LIV host 2023, 2026
 - Hosted Maaden LIV Golf Virginia 7-10 May 2026
 
-## Appears in checks
+## Appears in Checks
 
-- [[C03 The private dinner for top $TRUMP holders]] · Confirmed
-- [[C56 Saudi Arabia family deals alongside US policy decisions]] · Mostly accurate
-- [[C69 Master timeline money events and government actions]] · Partly accurate
+- [[C03 The Private Dinner for Top $TRUMP Holders]] · Confirmed
+- [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions]] · Mostly accurate
+- [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (3)
 
-- [[$TRUMP holders' dinner (May 22, 2025)]] *held at* [[Trump National Golf Club Washington DC]] · 2025-05-22 · [[C03 The private dinner for top $TRUMP holders|C03]]
-- [[LIV Golf]] *held LIV Golf Virginia at* [[Trump National Golf Club Washington DC]] · 2026-05 · [[C56 Saudi Arabia family deals alongside US policy decisions|C56]]
-- [[Ma'aden]] *title partner of LIV event at* [[Trump National Golf Club Washington DC]] · 2026-05-07 · [[C69 Master timeline money events and government actions|C69]]
+- [[$TRUMP holders' dinner (May 22, 2025)]] *held at* [[Trump National Golf Club Washington DC]] · 2025-05-22 · [[C03 The Private Dinner for Top $TRUMP Holders|C03]]
+- [[LIV Golf]] *held LIV Golf Virginia at* [[Trump National Golf Club Washington DC]] · 2026-05 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
+- [[Ma'aden]] *title partner of LIV event at* [[Trump National Golf Club Washington DC]] · 2026-05-07 · [[C69 Master Timeline Money Events & Government Actions|C69]]

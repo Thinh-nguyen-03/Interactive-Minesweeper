@@ -18,12 +18,12 @@ Bill introduced 2026-08-15 to bar bank approvals for firms owned by senior offic
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C12 World Liberty's bank charter application at the OCC]] · Mostly accurate
+- [[C12 World Liberty's Bank Charter Application at the OCC]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Elizabeth Warren]] *introduced* [[Ending Presidential Corruption in Banking Act (S. 5389)]] · 2026-08-15 · [[C12 World Liberty's bank charter application at the OCC|C12]]
+- [[Elizabeth Warren]] *introduced* [[Ending Presidential Corruption in Banking Act (S. 5389)]] · 2026-08-15 · [[C12 World Liberty's Bank Charter Application at the OCC|C12]]

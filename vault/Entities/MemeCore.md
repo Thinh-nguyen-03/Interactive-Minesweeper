@@ -18,12 +18,12 @@ Singapore-based firm whose founder attended the $TRUMP dinner
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
+- [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[MemeCore]] *founder attended* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-22 · [[C67 Investors who appear in several Trump-family vehicles|C67]]
+- [[MemeCore]] *founder attended* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-22 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]

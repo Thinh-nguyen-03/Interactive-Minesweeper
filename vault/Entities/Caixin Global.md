@@ -21,17 +21,17 @@ Called Zhou a 'blacklisted Chinese businessman'
 | Connections | 3 |
 | Also known as | Caixin |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Called Zhou 'blacklisted'
 
-## Appears in checks
+## Appears in Checks
 
-- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
-- [[C71 Who bought World Liberty tokens]] · Mostly accurate
+- [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
+- [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Caixin Global]] *called 'blacklisted'* [[Guren 'Bobby' Zhou]] · 2026-08-26 · [[C71 Who bought World Liberty tokens|C71]]
+- [[Caixin Global]] *called 'blacklisted'* [[Guren 'Bobby' Zhou]] · 2026-08-26 · [[C71 Who Bought World Liberty Tokens|C71]]

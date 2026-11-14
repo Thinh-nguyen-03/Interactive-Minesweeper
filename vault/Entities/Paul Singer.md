@@ -18,12 +18,12 @@ Elliott founder; GOP megadonor
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
+- [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Paul Singer]] *founder of* [[Elliott Investment Management]] · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
+- [[Paul Singer]] *founder of* [[Elliott Investment Management]] · [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI|C85]]

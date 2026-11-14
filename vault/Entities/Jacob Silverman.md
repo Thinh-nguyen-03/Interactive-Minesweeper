@@ -18,6 +18,6 @@ Independent journalist who first alleged Aqua 1-Web3Port ties
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
+- [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate

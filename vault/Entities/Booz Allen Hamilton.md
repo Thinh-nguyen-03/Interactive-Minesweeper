@@ -18,16 +18,16 @@ Listed donor; Treasury cancelled its contracts Jan 2026
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Booz Allen Hamilton]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The White House ballroom donor list|C92]]
+- [[Booz Allen Hamilton]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The White House Ballroom Donor List|C92]]
 
 ### Regulatory (1)
 
-- [[US Treasury]] *cancelled all 31 contracts* [[Booz Allen Hamilton]] · 2026-01-26 · $21M · [[C92 The White House ballroom donor list|C92]]
+- [[US Treasury]] *cancelled all 31 contracts* [[Booz Allen Hamilton]] · 2026-01-26 · $21M · [[C92 The White House Ballroom Donor List|C92]]

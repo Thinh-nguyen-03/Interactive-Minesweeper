@@ -18,12 +18,12 @@ Isotope enrichment company; Cantor book-runner; on NYT list
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
+- [[C60 Government Equity Stakes in Critical-Minerals Companies]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Cantor Fitzgerald]] *joint book-runner on $50M offering* [[ASP Isotopes]] · 2025-06 · $50M · [[C60 Government equity stakes in critical-minerals companies|C60]]
+- [[Cantor Fitzgerald]] *joint book-runner on $50M offering* [[ASP Isotopes]] · 2025-06 · $50M · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]

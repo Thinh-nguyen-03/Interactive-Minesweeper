@@ -18,22 +18,22 @@ Russian-born investor, ballroom donor, Tripp+ chair
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Listed donor; Tripp+ fund chair (Jul 2026)
 
-## Appears in checks
+## Appears in Checks
 
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Konstantin Sokolov]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The White House ballroom donor list|C92]]
-- [[Konstantin Sokolov]] *donated to* [[White House ballroom]] · 2025/2026 · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
+- [[Konstantin Sokolov]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The White House Ballroom Donor List|C92]]
+- [[Konstantin Sokolov]] *donated to* [[White House ballroom]] · 2025/2026 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
 
 ### Political (1)
 
-- [[US State Department]] *named chair of Tripp+ fund* [[Konstantin Sokolov]] · 2026-07 · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
+- [[US State Department]] *named chair of Tripp+ fund* [[Konstantin Sokolov]] · 2026-07 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]

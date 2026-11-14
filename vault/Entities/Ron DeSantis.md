@@ -18,12 +18,12 @@ Florida governor; chaired the Cabinet vote; defendant in the federal emoluments 
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C48 The Trump presidential library foundation's money and land]] · Mostly accurate
+- [[C48 The Trump Presidential Library Foundation's Money & Land]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Ron DeSantis]] *chairs* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] · [[C48 The Trump presidential library foundation's money and land|C48]]
+- [[Ron DeSantis]] *chairs* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]

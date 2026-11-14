@@ -18,14 +18,14 @@ DWF Labs managing partner
 | Appears in | 3 checks |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate
-- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
-- [[C71 Who bought World Liberty tokens]] · Mostly accurate
+- [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles]] · Mostly accurate
+- [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
+- [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Andrei Grachev]] *managing partner* [[DWF Labs]] · 2025 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]] [[C67 Investors who appear in several Trump-family vehicles|C67]] [[C71 Who bought World Liberty tokens|C71]]
+- [[Andrei Grachev]] *managing partner* [[DWF Labs]] · 2025 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]] [[C71 Who Bought World Liberty Tokens|C71]]

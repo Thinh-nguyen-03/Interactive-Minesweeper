@@ -18,21 +18,21 @@ Data provider reported by Reuters as a Truth API customer.
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Reported Truth API subscriber (Reuters sources)
 
-## Appears in checks
+## Appears in Checks
 
-- [[C21 Trump Media's paid feed of market-moving posts and Truth+]] · Mostly accurate
-- [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu]] · Mostly accurate
+- [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+]] · Mostly accurate
+- [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Bloomberg LP]] *reported subscriber ($60K-$100K/month range)* [[Truth API]] · 2026 · $100K · [[C21 Trump Media's paid feed of market-moving posts and Truth+|C21]]
+- [[Bloomberg LP]] *reported subscriber ($60K-$100K/month range)* [[Truth API]] · 2026 · $100K · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]
 
 ### Commercial (1)
 
-- [[Bloomberg LP]] *reportedly subscribes to* [[Truth API]] · 2026-10 · [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu|C41]]
+- [[Bloomberg LP]] *reportedly subscribes to* [[Truth API]] · 2026-10 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]

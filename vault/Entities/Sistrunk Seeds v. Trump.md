@@ -18,15 +18,15 @@ Federal Domestic Emoluments Clause suit over the land gift, filed 13 May 2026
 | Appears in | 1 check |
 | Connections | 5 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C48 The Trump presidential library foundation's money and land]] · Mostly accurate
+- [[C48 The Trump Presidential Library Foundation's Money & Land]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (4)
 
-- [[Constitutional Accountability Center]] *counsel for plaintiffs in* [[Sistrunk Seeds v. Trump]] · 2026-05-13 · [[C48 The Trump presidential library foundation's money and land|C48]]
-- [[Sistrunk Seeds v. Trump]] *emoluments suit against* [[Donald Trump]] · 2026-05-13 · [[C48 The Trump presidential library foundation's money and land|C48]]
-- [[Sistrunk Seeds v. Trump]] *seeks to void land gift to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-05-13 · [[C48 The Trump presidential library foundation's money and land|C48]]
-- [[Rodolfo A. Ruiz II]] *stayed discovery pending immunity/standing* [[Sistrunk Seeds v. Trump]] · 2026-09 · [[C48 The Trump presidential library foundation's money and land|C48]]
+- [[Constitutional Accountability Center]] *counsel for plaintiffs in* [[Sistrunk Seeds v. Trump]] · 2026-05-13 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
+- [[Sistrunk Seeds v. Trump]] *emoluments suit against* [[Donald Trump]] · 2026-05-13 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
+- [[Sistrunk Seeds v. Trump]] *seeks to void land gift to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-05-13 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
+- [[Rodolfo A. Ruiz II]] *stayed discovery pending immunity/standing* [[Sistrunk Seeds v. Trump]] · 2026-09 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]

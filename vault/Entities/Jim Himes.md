@@ -12,7 +12,7 @@ tags:
 
 House Intelligence ranking member; co-signed the 24 Feb 2026 letter.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C46 The alleged Kushner Gulf accounts|C46]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C46 The Alleged Kushner Gulf Accounts|C46]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,12 +20,12 @@ House Intelligence ranking member; co-signed the 24 Feb 2026 letter.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C46 The alleged Kushner Gulf accounts]] · Unverified · unverified allegation, single source
+- [[C46 The Alleged Kushner Gulf Accounts]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
 ### Political (1)
 
-- [[Jim Himes]] *co-wrote letter protesting complaint delay to* [[Tulsi Gabbard]] · 2026-02-24 · [[C46 The alleged Kushner Gulf accounts|C46]] · unverified allegation
+- [[Jim Himes]] *co-wrote letter protesting complaint delay to* [[Tulsi Gabbard]] · 2026-02-24 · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation

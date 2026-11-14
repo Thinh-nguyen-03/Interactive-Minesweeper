@@ -18,6 +18,6 @@ Investigated the MOVE/Rentech/Web3Port deal
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C71 Who bought World Liberty tokens]] · Mostly accurate
+- [[C71 Who Bought World Liberty Tokens]] · Mostly accurate

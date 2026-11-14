@@ -18,12 +18,12 @@ July 2025 tariff deal
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[SoftBank]] *leads first-wave projects in* [[US-Japan trade deal ($550B vehicle)]] · 2026-02-18 · $33.3B · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
+- [[SoftBank]] *leads first-wave projects in* [[US-Japan trade deal ($550B vehicle)]] · 2026-02-18 · $33.3B · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]

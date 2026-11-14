@@ -18,12 +18,12 @@ Family-values content library added to the Truth+ Patriot Package in Aug 2025
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C21 Trump Media's paid feed of market-moving posts and Truth+]] · Mostly accurate
+- [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Great American Media]] *supplies on-demand catalogue to* [[Truth+ Patriot Package]] · 2025-08-07 · [[C21 Trump Media's paid feed of market-moving posts and Truth+|C21]]
+- [[Great American Media]] *supplies on-demand catalogue to* [[Truth+ Patriot Package]] · 2025-08-07 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]

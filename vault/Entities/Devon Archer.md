@@ -18,16 +18,16 @@ Pardoned ex-Hunter Biden associate; SEC case dropped
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C49 The market for pardon lobbying]] · Mostly accurate
+- [[C49 The Market for Pardon Lobbying]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Securities and Exchange Commission]] *dismissed civil case after pardon* [[Devon Archer]] · 2025-09 · [[C49 The market for pardon lobbying|C49]]
+- [[Securities and Exchange Commission]] *dismissed civil case after pardon* [[Devon Archer]] · 2025-09 · [[C49 The Market for Pardon Lobbying|C49]]
 
 ### Legal (1)
 
-- [[Donald Trump]] *pardoned* [[Devon Archer]] · 2025-03 · [[C49 The market for pardon lobbying|C49]]
+- [[Donald Trump]] *pardoned* [[Devon Archer]] · 2025-03 · [[C49 The Market for Pardon Lobbying|C49]]

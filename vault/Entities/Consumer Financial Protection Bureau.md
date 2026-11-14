@@ -18,12 +18,12 @@ Dismissed Rocket Homes kickback suit, 2025-02-27
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Consumer Financial Protection Bureau]] *dismissed Rocket Homes kickback suit with prejudice* [[Rocket Companies]] · 2025-02-27 · [[C92 The White House ballroom donor list|C92]]
+- [[Consumer Financial Protection Bureau]] *dismissed Rocket Homes kickback suit with prejudice* [[Rocket Companies]] · 2025-02-27 · [[C92 The White House Ballroom Donor List|C92]]

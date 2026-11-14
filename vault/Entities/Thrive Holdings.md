@@ -18,22 +18,22 @@ Thrive-created vehicle in which OpenAI took a stake on 2025-12-01.
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Thrive-created vehicle; OpenAI took equity stake Dec 2025
 
-## Appears in checks
+## Appears in Checks
 
-- [[C66 The extended family's ventures and roles]] · Partly accurate
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
+- [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[OpenAI]] *took equity stake in* [[Thrive Holdings]] · 2025-12-01 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[OpenAI]] *took equity stake in* [[Thrive Holdings]] · 2025-12-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 
 ### Ownership (2)
 
-- [[Thrive Capital]] *created and raised $1B for* [[Thrive Holdings]] · 2025 · [[C66 The extended family's ventures and roles|C66]]
-- [[OpenAI]] *took equity stake (paid in services)* [[Thrive Holdings]] · 2025-12-01 · [[C66 The extended family's ventures and roles|C66]]
+- [[Thrive Capital]] *created and raised $1B for* [[Thrive Holdings]] · 2025 · [[C66 The Extended Family's Ventures & Roles|C66]]
+- [[OpenAI]] *took equity stake (paid in services)* [[Thrive Holdings]] · 2025-12-01 · [[C66 The Extended Family's Ventures & Roles|C66]]

@@ -18,12 +18,12 @@ CEO of Vulcan Elements.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C26 1789 Capital and the Vulcan Elements magnet deal]] · Mostly accurate
+- [[C26 1789 Capital & the Vulcan Elements Magnet Deal]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[John Maslin]] *CEO of* [[Vulcan Elements]] · [[C26 1789 Capital and the Vulcan Elements magnet deal|C26]]
+- [[John Maslin]] *CEO of* [[Vulcan Elements]] · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]

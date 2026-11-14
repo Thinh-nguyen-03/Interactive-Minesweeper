@@ -18,12 +18,12 @@ Senate Democrat co-leading pardon probe
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C49 The market for pardon lobbying]] · Mostly accurate
+- [[C49 The Market for Pardon Lobbying]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Peter Welch]] *co-leads pay-to-play pardon probe* [[Donald Trump]] · 2026-05-07 · [[C49 The market for pardon lobbying|C49]]
+- [[Peter Welch]] *co-leads pay-to-play pardon probe* [[Donald Trump]] · 2026-05-07 · [[C49 The Market for Pardon Lobbying|C49]]

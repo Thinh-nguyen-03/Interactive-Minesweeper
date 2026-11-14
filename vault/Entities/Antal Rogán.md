@@ -18,12 +18,12 @@ Orbán's cabinet chief; US sanctions lifted 15 Apr 2025.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
+- [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[US Treasury]] *lifted sanctions* [[Antal Rogán]] · 2025-04-15 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[US Treasury]] *lifted sanctions* [[Antal Rogán]] · 2025-04-15 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]

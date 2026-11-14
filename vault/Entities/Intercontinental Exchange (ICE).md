@@ -18,16 +18,16 @@ NYSE owner; invested up to $2B in Polymarket (Oct 2025)
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Intercontinental Exchange (ICE)]] *invested up to $2B* [[Polymarket]] · 2025-10-07 · $2B · [[C92 The White House ballroom donor list|C92]]
+- [[Intercontinental Exchange (ICE)]] *invested up to $2B* [[Polymarket]] · 2025-10-07 · $2B · [[C92 The White House Ballroom Donor List|C92]]
 
 ### Ownership (1)
 
-- [[Jeff Sprecher]] *chair and CEO* [[Intercontinental Exchange (ICE)]] · [[C92 The White House ballroom donor list|C92]]
+- [[Jeff Sprecher]] *chair and CEO* [[Intercontinental Exchange (ICE)]] · [[C92 The White House Ballroom Donor List|C92]]

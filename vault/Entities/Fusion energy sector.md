@@ -18,20 +18,20 @@ Not-yet-commercial sector heavily dependent on regulatory approval.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C24 Trump Media's ETFs, the TAE fusion merger and its losses]] · Mostly accurate
+- [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[US federal government]] *regulation decides fate of* [[Fusion energy sector]] · [[C24 Trump Media's ETFs, the TAE fusion merger and its losses|C24]]
+- [[US federal government]] *regulation decides fate of* [[Fusion energy sector]] · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]]
 
 ### Commercial (1)
 
-- [[TAE Technologies]] *operates in* [[Fusion energy sector]] · [[C24 Trump Media's ETFs, the TAE fusion merger and its losses|C24]]
+- [[TAE Technologies]] *operates in* [[Fusion energy sector]] · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]]
 
 ## Themes
 
-- [[Theme - Policy made for markets the family operates in]]
+- [[Theme - Policy Made for Markets the Family Operates In]]

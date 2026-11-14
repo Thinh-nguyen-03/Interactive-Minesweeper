@@ -18,13 +18,13 @@ Granted 7 Nov 2025 after the Trump-Orbán meeting.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
+- [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (2)
 
-- [[Donald Trump]] *granted one-year exemption after Orbán meeting* [[US one-year exemption for Hungary's Russian oil and gas]] · 2025-11-07 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
-- [[US one-year exemption for Hungary's Russian oil and gas]] *benefits* [[Hungary]] · 2025-11-07 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[Donald Trump]] *granted one-year exemption after Orbán meeting* [[US one-year exemption for Hungary's Russian oil and gas]] · 2025-11-07 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]
+- [[US one-year exemption for Hungary's Russian oil and gas]] *benefits* [[Hungary]] · 2025-11-07 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]

@@ -18,17 +18,17 @@ CEO of Unusual Machines.
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Unusual Machines CEO
 
-## Appears in checks
+## Appears in Checks
 
-- [[C32 Donald Trump Jr.'s ties to other government contractors]] · Partly accurate
-- [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C32 Donald Trump Jr.'s Ties to Other Government Contractors]] · Partly accurate
+- [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Allan Evans]] *CEO of* [[Unusual Machines]] · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
+- [[Allan Evans]] *CEO of* [[Unusual Machines]] · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]

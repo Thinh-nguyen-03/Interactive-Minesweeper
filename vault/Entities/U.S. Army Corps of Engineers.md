@@ -18,12 +18,12 @@ Issued Stibnite permit; Donlin SEIS
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
+- [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[U.S. Army Corps of Engineers]] *final 404 permit* [[Stibnite Gold Project]] · 2025-05 · [[C86 Major Trump donors with stakes in federally backed companies|C86]]
+- [[U.S. Army Corps of Engineers]] *final 404 permit* [[Stibnite Gold Project]] · 2025-05 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]

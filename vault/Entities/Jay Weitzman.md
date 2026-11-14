@@ -18,20 +18,20 @@ Palm Beach developer and Trump donor; owns the house used as Sollos's address
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Jay Weitzman]] *donated $25,000 to 2017 inauguration* [[Donald Trump]] · 2017-01 · $25K · [[C66 The extended family's ventures and roles|C66]]
+- [[Jay Weitzman]] *donated $25,000 to 2017 inauguration* [[Donald Trump]] · 2017-01 · $25K · [[C66 The Extended Family's Ventures & Roles|C66]]
 
 ### Ownership (1)
 
-- [[Jay Weitzman]] *owns* [[Park America]] · [[C66 The extended family's ventures and roles|C66]]
+- [[Jay Weitzman]] *owns* [[Park America]] · [[C66 The Extended Family's Ventures & Roles|C66]]
 
 ### Commercial (1)
 
-- [[Jay Weitzman]] *owns house used as company address (denies involvement)* [[Sollos Yerba Mate Inc]] · 2026-01 · [[C66 The extended family's ventures and roles|C66]]
+- [[Jay Weitzman]] *owns house used as company address (denies involvement)* [[Sollos Yerba Mate Inc]] · 2026-01 · [[C66 The Extended Family's Ventures & Roles|C66]]

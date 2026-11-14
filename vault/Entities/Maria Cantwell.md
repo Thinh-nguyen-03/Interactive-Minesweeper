@@ -18,12 +18,12 @@ Senator; questioned Lutnick on Tether at his confirmation hearing
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Maria Cantwell]] *questioned on Tether at confirmation* [[Howard Lutnick]] · 2025-01-29 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Maria Cantwell]] *questioned on Tether at confirmation* [[Howard Lutnick]] · 2025-01-29 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]

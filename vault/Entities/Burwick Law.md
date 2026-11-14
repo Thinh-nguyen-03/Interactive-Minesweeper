@@ -18,12 +18,12 @@ Plaintiffs' firm in Hurlock v. Kelsier
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C40 Who ran the $TRUMP and $MELANIA launches]] · Mostly accurate
+- [[C40 Who Ran the $TRUMP & $MELANIA Launches]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Burwick Law]] *plaintiffs' counsel in* [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] · 2025-03 · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]
+- [[Burwick Law]] *plaintiffs' counsel in* [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] · 2025-03 · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]

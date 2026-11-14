@@ -18,16 +18,16 @@ Kyrgyz issuer of A7A5, OFAC-designated
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
+- [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Old Vector LLC]] *issues* [[A7A5]] · 2025 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[Old Vector LLC]] *issues* [[A7A5]] · 2025 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]
 
 ### Regulatory (1)
 
-- [[OFAC]] *designated A7A5 issuer* [[Old Vector LLC]] · 2025-08-14 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[OFAC]] *designated A7A5 issuer* [[Old Vector LLC]] · 2025-08-14 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]

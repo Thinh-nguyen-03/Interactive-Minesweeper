@@ -18,12 +18,12 @@ Miami real-estate firm; Heritage add-on investment 2023
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Heritage Advisors]] *add-on investment in* [[Fort Partners]] · 2023-06 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
+- [[Heritage Advisors]] *add-on investment in* [[Fort Partners]] · 2023-06 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]

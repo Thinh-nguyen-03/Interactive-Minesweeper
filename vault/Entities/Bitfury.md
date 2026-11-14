@@ -18,18 +18,18 @@ Bitcoin mining/blockchain firm where Gould was chief legal officer
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Blockchain firm; Gould was chief legal officer to 2022
 
-## Appears in checks
+## Appears in Checks
 
-- [[C54 The crypto revolving door]] · Mostly accurate
-- [[C65 Officials who decided matters involving former clients or partners]] · Mostly accurate
+- [[C54 The Crypto Revolving Door]] · Mostly accurate
+- [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Jonathan Gould]] *chief legal officer to Sep 2022* [[Bitfury]] · 2021 · [[C65 Officials who decided matters involving former clients or partners|C65]]
-- [[Jonathan Gould]] *former chief legal officer* [[Bitfury]] · 2022 · [[C54 The crypto revolving door|C54]]
+- [[Jonathan Gould]] *chief legal officer to Sep 2022* [[Bitfury]] · 2021 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Jonathan Gould]] *former chief legal officer* [[Bitfury]] · 2022 · [[C54 The Crypto Revolving Door|C54]]

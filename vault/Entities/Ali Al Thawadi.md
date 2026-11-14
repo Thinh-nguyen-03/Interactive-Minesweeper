@@ -18,12 +18,12 @@ Qatari official at 2021 Menendez-Sultan meeting (ICIJ)
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Ali Al Thawadi]] *attended 2021 meeting with* [[Bob Menendez]] · 2021 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
+- [[Ali Al Thawadi]] *attended 2021 meeting with* [[Bob Menendez]] · 2021 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]

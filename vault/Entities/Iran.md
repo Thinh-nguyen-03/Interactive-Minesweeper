@@ -12,7 +12,7 @@ tags:
 
 Country the US went to war with in 2026.
 
-> [!warning] Appears in an unverified, single-source allegation ([[C37 The reported hack of Jared Kushner's phone|C37]], [[C46 The alleged Kushner Gulf accounts|C46]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in an unverified, single-source allegation ([[C37 The Reported Hack of Jared Kushner's Phone|C37]], [[C46 The Alleged Kushner Gulf Accounts|C46]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,7 +20,7 @@ Country the US went to war with in 2026.
 | Appears in | 10 checks |
 | Connections | 17 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Party to the 2026 war that strained the UAE economy
 - Counterpart in talks in which Kushner participated while fundraising.
@@ -28,33 +28,33 @@ Country the US went to war with in 2026.
 - Referenced in the claim about attention shifting to a war
 - Country at the centre of Blumenthal's Tether sanctions probe
 
-## Appears in checks
+## Appears in Checks
 
-- [[C08 AI chip exports to the UAE, Stargate and a possible currency swap]] · Mostly accurate
-- [[C15 Jared Kushner, Affinity Partners and Gulf sovereign funds]] · Mostly accurate
-- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
-- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
-- [[C37 The reported hack of Jared Kushner's phone]] · Unverified · unverified allegation, single source
-- [[C46 The alleged Kushner Gulf accounts]] · Unverified · unverified allegation, single source
-- [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business]] · Mostly accurate
-- [[C58 Market-moving presidential posts and insider-trading allegations]] · Mostly accurate
-- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap]] · Mostly accurate
+- [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds]] · Mostly accurate
+- [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project]] · Mostly accurate
+- [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters]] · Mostly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
+- [[C37 The Reported Hack of Jared Kushner's Phone]] · Unverified · unverified allegation, single source
+- [[C46 The Alleged Kushner Gulf Accounts]] · Unverified · unverified allegation, single source
+- [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business]] · Mostly accurate
+- [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
+- [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Commodity Futures Trading Commission]] *probing oil-futures trades placed before Trump Iran posts* [[Iran]] · 2026-04 · [[C58 Market-moving presidential posts and insider-trading allegations|C58]]
+- [[Commodity Futures Trading Commission]] *probing oil-futures trades placed before Trump Iran posts* [[Iran]] · 2026-04 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 
 ### Political (5)
 
-- [[Iran]] *missile/drone attacks and Hormuz blockade* [[United Arab Emirates]] · 2026 · [[C08 AI chip exports to the UAE, Stargate and a possible currency swap|C08]]
-- [[Jared Kushner]] *participated in US talks with* [[Iran]] · 2026 · [[C15 Jared Kushner, Affinity Partners and Gulf sovereign funds|C15]]
-- [[Iran]] *conflict cited as emergency basis for* [[2026 Qatar Patriot and APKWS sales]] · 2026-02-28 · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]]
-- [[Pakistan]] *brokered US-Iran talks* [[Iran]] · 2026-04 · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
-- [[United States]] *went to war with* [[Iran]] · [[C08 AI chip exports to the UAE, Stargate and a possible currency swap|C08]] [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]
+- [[Iran]] *missile/drone attacks and Hormuz blockade* [[United Arab Emirates]] · 2026 · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
+- [[Jared Kushner]] *participated in US talks with* [[Iran]] · 2026 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
+- [[Iran]] *conflict cited as emergency basis for* [[2026 Qatar Patriot and APKWS sales]] · 2026-02-28 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
+- [[Pakistan]] *brokered US-Iran talks* [[Iran]] · 2026-04 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
+- [[United States]] *went to war with* [[Iran]] · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]] [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]
 
 ### Legal (1)
 
-- [[Tether]] *USDT allegedly used for sanctions evasion by* [[Iran]] · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[Tether]] *USDT allegedly used for sanctions evasion by* [[Iran]] · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]

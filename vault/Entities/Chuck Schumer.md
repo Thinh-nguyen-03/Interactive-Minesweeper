@@ -18,12 +18,12 @@ Senate Democratic leader, co-led April 2025 SEC letter
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C58 Market-moving presidential posts and insider-trading allegations]] · Mostly accurate
+- [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Chuck Schumer]] *co-led letter seeking tariff-pause probe* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-moving presidential posts and insider-trading allegations|C58]]
+- [[Chuck Schumer]] *co-led letter seeking tariff-pause probe* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]

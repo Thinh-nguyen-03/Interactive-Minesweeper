@@ -18,6 +18,6 @@ Reported the 529% pre-announcement gain and 13G warrant exclusion.
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C91 Dominari option grants and trading before the Trump sons' arrival]] · Mostly accurate
+- [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival]] · Mostly accurate

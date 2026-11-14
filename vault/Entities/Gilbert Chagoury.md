@@ -18,16 +18,16 @@ Lebanese-Nigerian tycoon close to Tinubu; reported Boulos patron (Tablet)
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Gilbert Chagoury]] *owns* [[ITB Nigeria]] · [[C66 The extended family's ventures and roles|C66]]
+- [[Gilbert Chagoury]] *owns* [[ITB Nigeria]] · [[C66 The Extended Family's Ventures & Roles|C66]]
 
 ### Commercial (1)
 
-- [[Gilbert Chagoury]] *reported long-time patron of (Tablet; single-source)* [[Massad Boulos]] · [[C66 The extended family's ventures and roles|C66]]
+- [[Gilbert Chagoury]] *reported long-time patron of (Tablet; single-source)* [[Massad Boulos]] · [[C66 The Extended Family's Ventures & Roles|C66]]

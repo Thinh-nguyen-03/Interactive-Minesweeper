@@ -18,14 +18,14 @@ Cerberus and Feinberg lawyer and trust manager; represented DoD on MP Materials 
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate
+- [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (3)
 
-- [[Alan Waldenberg]] *represented DoD on MP Materials deal* [[Pentagon (Department of Defense)]] · 2025-07 · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
-- [[Alan Waldenberg]] *outside counsel* [[Cerberus Capital Management]] · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
-- [[Alan Waldenberg]] *personal lawyer; manages Cerberus trust* [[Stephen Feinberg]] · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
+- [[Alan Waldenberg]] *represented DoD on MP Materials deal* [[Pentagon (Department of Defense)]] · 2025-07 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
+- [[Alan Waldenberg]] *outside counsel* [[Cerberus Capital Management]] · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
+- [[Alan Waldenberg]] *personal lawyer; manages Cerberus trust* [[Stephen Feinberg]] · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]

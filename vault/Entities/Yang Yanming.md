@@ -18,16 +18,16 @@ AB resort general manager; sanctioned October 2025; says dismissed 2025-10-16
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
+- [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[US Treasury]] *sanctioned in Prince Group/Palau action* [[Yang Yanming]] · 2025-10-14 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[US Treasury]] *sanctioned in Prince Group/Palau action* [[Yang Yanming]] · 2025-10-14 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]
 
 ### Commercial (1)
 
-- [[Yang Yanming]] *general manager until 2025-10-16* [[AB Digital Technology Resort]] · 2025-10-16 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[Yang Yanming]] *general manager until 2025-10-16* [[AB Digital Technology Resort]] · 2025-10-16 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]

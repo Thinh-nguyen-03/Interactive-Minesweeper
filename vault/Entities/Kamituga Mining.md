@@ -18,12 +18,12 @@ Kinshasa-based miner; $1M GreenMet contract (2026)
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
+- [[C83 Keith Schiller & George Sorial's Lobbying Clients]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Kamituga Mining]] *$1M one-year US government-relations contract* [[GreenMet (Greentech Minerals Holdings)]] · 2026-09-30 · $1M · [[C83 Keith Schiller and George Sorial's lobbying clients|C83]]
+- [[Kamituga Mining]] *$1M one-year US government-relations contract* [[GreenMet (Greentech Minerals Holdings)]] · 2026-09-30 · $1M · [[C83 Keith Schiller & George Sorial's Lobbying Clients|C83]]

@@ -18,12 +18,12 @@ $4.5B ceiling, approved 2026-08-20
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
+- [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[US State Department]] *approved* [[KC-46A sale to Qatar]] · 2026-08-20 · $4.5B · [[C73 Qatar's ties to people in and around the administration|C73]]
+- [[US State Department]] *approved* [[KC-46A sale to Qatar]] · 2026-08-20 · $4.5B · [[C73 Qatar's Ties to People in & Around the Administration|C73]]

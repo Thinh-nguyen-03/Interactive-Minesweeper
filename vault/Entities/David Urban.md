@@ -18,12 +18,12 @@ Former Trump campaign adviser; Polymarket's first federal lobbyist
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
+- [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Polymarket]] *first federal lobbyist* [[David Urban]] · 2025-07 · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Polymarket]] *first federal lobbyist* [[David Urban]] · 2025-07 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]

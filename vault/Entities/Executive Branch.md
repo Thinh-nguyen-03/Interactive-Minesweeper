@@ -18,16 +18,16 @@ Invite-only Georgetown members' club (~$500k membership) launched 2025.
 | Appears in | 1 check |
 | Connections | 6 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C32 Donald Trump Jr.'s ties to other government contractors]] · Partly accurate
+- [[C32 Donald Trump Jr.'s Ties to Other Government Contractors]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (5)
 
-- [[Alex Witkoff]] *reported co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
-- [[Chris Buskirk]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
-- [[Donald Trump Jr]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
-- [[Omeed Malik]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
-- [[Zach Witkoff]] *reported co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
+- [[Alex Witkoff]] *reported co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
+- [[Chris Buskirk]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
+- [[Donald Trump Jr]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
+- [[Omeed Malik]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
+- [[Zach Witkoff]] *reported co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]

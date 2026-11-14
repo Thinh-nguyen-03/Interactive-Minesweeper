@@ -18,12 +18,12 @@ Environmental law group suing NOAA over TMC certification
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Earthjustice]] *sued over TMC USA exploration certification* [[NOAA]] · 2026 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Earthjustice]] *sued over TMC USA exploration certification* [[NOAA]] · 2026 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]

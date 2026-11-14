@@ -18,21 +18,21 @@ New York bank formed from VTB Capital's US arm (2018 MBO); fronted the rejected 
 | Appears in | 1 check |
 | Connections | 5 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C94 The sale of Lukoil's foreign assets and the Boehly consortium]] · Mostly accurate
+- [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[VTB Capital]] *former parent of business (2018 management buyout)* [[Xtellus Partners]] · 2018 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
+- [[VTB Capital]] *former parent of business (2018 management buyout)* [[Xtellus Partners]] · 2018 · [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium|C94]]
 
 ### Regulatory (1)
 
-- [[US Treasury]] *rejected Lukoil bid (Reuters, four sources)* [[Xtellus Partners]] · 2025-12 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
+- [[US Treasury]] *rejected Lukoil bid (Reuters, four sources)* [[Xtellus Partners]] · 2025-12 · [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium|C94]]
 
 ### Advisory (2)
 
-- [[Xtellus Partners]] *advised on cashless swap bid (Reuters)* [[Allied Investment Partners]] · 2025-12 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
-- [[Xtellus Partners]] *advised on cashless swap bid (Reuters)* [[Todd Boehly]] · 2025-12 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
+- [[Xtellus Partners]] *advised on cashless swap bid (Reuters)* [[Allied Investment Partners]] · 2025-12 · [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium|C94]]
+- [[Xtellus Partners]] *advised on cashless swap bid (Reuters)* [[Todd Boehly]] · 2025-12 · [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium|C94]]

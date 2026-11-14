@@ -18,12 +18,12 @@ Deputy Secretary of State; praised the Orion-Glencore MOU.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
+- [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Christopher Landau]] *praised Glencore deal* [[Orion Critical Mineral Consortium]] · 2026-02-03 · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[Christopher Landau]] *praised Glencore deal* [[Orion Critical Mineral Consortium]] · 2026-02-03 · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]

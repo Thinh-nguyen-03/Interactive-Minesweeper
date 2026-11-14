@@ -18,16 +18,16 @@ Blavatnik's holding company; Witkoff Group's partner on One High Line, Banyan Ca
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C76 Russia-linked money around the family and the envoys]] · Partly accurate
+- [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Leonard Blavatnik]] *founded and controls* [[Access Industries]] · [[C76 Russia-linked money around the family and the envoys|C76]]
+- [[Leonard Blavatnik]] *founded and controls* [[Access Industries]] · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
 
 ### Commercial (1)
 
-- [[Witkoff Group]] *co-owns One High Line, Banyan Cay and North Beach projects with* [[Access Industries]] · 2021-12 · [[C76 Russia-linked money around the family and the envoys|C76]]
+- [[Witkoff Group]] *co-owns One High Line, Banyan Cay and North Beach projects with* [[Access Industries]] · 2021-12 · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]

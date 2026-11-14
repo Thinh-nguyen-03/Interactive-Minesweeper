@@ -18,12 +18,12 @@ Former Silver Lake buyout; Durban a director since 2013
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds]] · Mostly accurate
+- [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Egon Durban]] *director of* [[Dell Technologies]] · 2013-10 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Egon Durban]] *director of* [[Dell Technologies]] · 2013-10 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]

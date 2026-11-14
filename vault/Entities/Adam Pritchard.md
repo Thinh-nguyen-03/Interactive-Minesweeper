@@ -18,12 +18,12 @@ University of Michigan securities-law professor quoted by the FT calling the tra
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C91 Dominari option grants and trading before the Trump sons' arrival]] · Mostly accurate
+- [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Adam Pritchard]] *called pre-announcement trading 'clearly unusual' (FT)* [[Dominari Holdings Dominari Securities]] · 2025-03 · [[C91 Dominari option grants and trading before the Trump sons' arrival|C91]]
+- [[Adam Pritchard]] *called pre-announcement trading 'clearly unusual' (FT)* [[Dominari Holdings Dominari Securities]] · 2025-03 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]

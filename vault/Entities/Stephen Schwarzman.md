@@ -18,26 +18,26 @@ Blackstone CEO; named in Warren letter as having PIPE access
 | Appears in | 3 checks |
 | Connections | 7 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Blackstone CEO; $5M MAGA Inc. donor
 - Listed donor (C86)
 
-## Appears in checks
+## Appears in Checks
 
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
-- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
+- [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Stephen Schwarzman]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The White House ballroom donor list|C92]]
-- [[Stephen Schwarzman]] *alleged PIPE buyer (senators' letter only)* [[USA Rare Earth]] · 2026-01 · [[C86 Major Trump donors with stakes in federally backed companies|C86]]
+- [[Stephen Schwarzman]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The White House Ballroom Donor List|C92]]
+- [[Stephen Schwarzman]] *alleged PIPE buyer (senators' letter only)* [[USA Rare Earth]] · 2026-01 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 
 ### Political (3)
 
-- [[Stephen Schwarzman]] *donor* [[White House ballroom]] · 2025-10 · [[C86 Major Trump donors with stakes in federally backed companies|C86]]
-- [[Stephen Schwarzman]] *donated $5M* [[MAGA Inc]] · 2025-H2 · $5M · [[C86 Major Trump donors with stakes in federally backed companies|C86]]
-- [[Elizabeth Warren]] *alleged PIPE access (letter)* [[Stephen Schwarzman]] · 2026-02-26 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Stephen Schwarzman]] *donor* [[White House ballroom]] · 2025-10 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
+- [[Stephen Schwarzman]] *donated $5M* [[MAGA Inc]] · 2025-H2 · $5M · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
+- [[Elizabeth Warren]] *alleged PIPE access (letter)* [[Stephen Schwarzman]] · 2026-02-26 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]

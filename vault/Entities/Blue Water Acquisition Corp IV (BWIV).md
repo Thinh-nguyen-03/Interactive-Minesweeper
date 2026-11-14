@@ -18,16 +18,16 @@ Joseph Hernandez's next SPAC; LOI for Maha Capital's Venezuela oil assets, Apr-M
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
+- [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI]] · Partly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Joseph Hernandez]] *chairman and CEO of* [[Blue Water Acquisition Corp IV (BWIV)]] · 2026 · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
+- [[Joseph Hernandez]] *chairman and CEO of* [[Blue Water Acquisition Corp IV (BWIV)]] · 2026 · [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI|C85]]
 
 ### Commercial (1)
 
-- [[Blue Water Acquisition Corp IV (BWIV)]] *non-binding LOI (terminated 15 May 2026) to acquire subsidiaries of* [[Maha Capital AB]] · 2026-04-28 · $490M · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
+- [[Blue Water Acquisition Corp IV (BWIV)]] *non-binding LOI (terminated 15 May 2026) to acquire subsidiaries of* [[Maha Capital AB]] · 2026-04-28 · $490M · [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI|C85]]

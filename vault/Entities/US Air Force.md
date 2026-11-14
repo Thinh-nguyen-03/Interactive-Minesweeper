@@ -18,26 +18,26 @@ Awarded Powerus/Tandem counter-drone IDIQ
 | Appears in | 3 checks |
 | Connections | 8 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Awarded Firehawk a $4M TACFI contract.
 - Retrofitted and operates the jet
 
-## Appears in checks
+## Appears in Checks
 
-- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
-- [[C32 Donald Trump Jr.'s ties to other government contractors]] · Partly accurate
-- [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project]] · Mostly accurate
+- [[C32 Donald Trump Jr.'s Ties to Other Government Contractors]] · Partly accurate
+- [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[US Air Force]] *part of* [[Pentagon (Department of Defense)]] · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
+- [[US Air Force]] *part of* [[Pentagon (Department of Defense)]] · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
 
 ### Commercial (4)
 
-- [[US Air Force]] *awarded $4M TACFI contract to* [[Firehawk Aerospace]] · 2025 · $4M · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
-- [[US Air Force]] *retrofitted and operates* [[Qatar Boeing 747 gift]] · 2026-06 · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]]
-- [[US Air Force]] *awarded counter-drone IDIQ (ceiling) to* [[Tandem Defense LLC]] · 2026-08 · $90M · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[US Air Force]] *placed $82M order with* [[Powerus Corp]] · 2026-10 · $82M · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[US Air Force]] *awarded $4M TACFI contract to* [[Firehawk Aerospace]] · 2025 · $4M · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
+- [[US Air Force]] *retrofitted and operates* [[Qatar Boeing 747 gift]] · 2026-06 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
+- [[US Air Force]] *awarded counter-drone IDIQ (ceiling) to* [[Tandem Defense LLC]] · 2026-08 · $90M · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
+- [[US Air Force]] *placed $82M order with* [[Powerus Corp]] · 2026-10 · $82M · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]

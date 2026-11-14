@@ -18,20 +18,20 @@ Probe a congressman asked Selig about.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
+- [[C25 Prediction Markets, the CFTC & Donald Trump Jr]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Commodity Futures Trading Commission]] *conducting* [[CFTC probe into Polymarket]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Commodity Futures Trading Commission]] *conducting* [[CFTC probe into Polymarket]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 
 ### Legal (1)
 
-- [[CFTC probe into Polymarket]] *targets* [[Polymarket]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[CFTC probe into Polymarket]] *targets* [[Polymarket]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 
 ## Themes
 
-- [[Theme - Enforcement cases dropped near money flows]]
+- [[Theme - Enforcement Cases Dropped Near Money Flows]]

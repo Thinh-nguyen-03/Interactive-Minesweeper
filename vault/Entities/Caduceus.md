@@ -18,16 +18,16 @@ Zhou's earlier crypto project (~$7.6M raised); falsely claimed Bin Zayed Group b
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C71 Who bought World Liberty tokens]] · Mostly accurate
+- [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Guren 'Bobby' Zhou]] *ran earlier crypto project* [[Caduceus]] · 2023 · [[C71 Who bought World Liberty tokens|C71]]
+- [[Guren 'Bobby' Zhou]] *ran earlier crypto project* [[Caduceus]] · 2023 · [[C71 Who Bought World Liberty Tokens|C71]]
 
 ### Commercial (1)
 
-- [[Caduceus]] *falsely claimed Bin Zayed Group backing (denied)* [[United Arab Emirates]] · 2023 · [[C71 Who bought World Liberty tokens|C71]]
+- [[Caduceus]] *falsely claimed Bin Zayed Group backing (denied)* [[United Arab Emirates]] · 2023 · [[C71 Who Bought World Liberty Tokens|C71]]

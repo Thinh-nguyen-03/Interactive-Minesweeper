@@ -18,16 +18,16 @@ Zeldin's consulting firm; divested under ethics agreement
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Heritage Advisors]] *paid consulting fees (>$5K) to* [[Zeldin Strategies]] · 2023-04 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
+- [[Heritage Advisors]] *paid consulting fees (>$5K) to* [[Zeldin Strategies]] · 2023-04 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
 
 ### Ownership (1)
 
-- [[Lee Zeldin]] *owned (divested on confirmation)* [[Zeldin Strategies]] · 2025 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
+- [[Lee Zeldin]] *owned (divested on confirmation)* [[Zeldin Strategies]] · 2025 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]

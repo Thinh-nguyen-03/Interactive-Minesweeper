@@ -18,16 +18,16 @@ China-linked Nasdaq company; announced BTC/TRUMP treasury
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
+- [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[GD Culture Group]] *announced up to $300M raise to buy BTC and TRUMP* [[$TRUMP meme coin]] · 2025-05-13 · $300M · [[C67 Investors who appear in several Trump-family vehicles|C67]]
+- [[GD Culture Group]] *announced up to $300M raise to buy BTC and TRUMP* [[$TRUMP meme coin]] · 2025-05-13 · $300M · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 
 ### Ownership (1)
 
-- [[GD Culture Group]] *acquired for 7,500 BTC via share swap* [[Pallas Capital]] · 2025-09 · [[C67 Investors who appear in several Trump-family vehicles|C67]]
+- [[GD Culture Group]] *acquired for 7,500 BTC via share swap* [[Pallas Capital]] · 2025-09 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]

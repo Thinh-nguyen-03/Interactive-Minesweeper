@@ -18,12 +18,12 @@ PGA Tour player director at both Feb 2025 meetings
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
+- [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Adam Scott]] *met at White House on PIF deal* [[Donald Trump]] · 2025-02-04 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
+- [[Adam Scott]] *met at White House on PIF deal* [[Donald Trump]] · 2025-02-04 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]

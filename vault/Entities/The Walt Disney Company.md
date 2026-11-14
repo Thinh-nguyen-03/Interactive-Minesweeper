@@ -18,21 +18,21 @@ Reported runner-up bidder (about $14M, per the WSJ).
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Parent of ABC News
 
-## Appears in checks
+## Appears in Checks
 
-- [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom]] · Mostly accurate
-- [[C44 Amazon's $40 million Melania Trump documentary deal]] · Mostly accurate
+- [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom]] · Mostly accurate
+- [[C44 Amazon's $40 Million Melania Trump Documentary Deal]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[The Walt Disney Company]] *parent company of* [[ABC News]] · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]
+- [[The Walt Disney Company]] *parent company of* [[ABC News]] · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
 
 ### Commercial (1)
 
-- [[The Walt Disney Company]] *bid ~$14M (WSJ, unconfirmed)* [[Melania (2026 film)]] · 2024-12 · $14M · [[C44 Amazon's $40 million Melania Trump documentary deal|C44]]
+- [[The Walt Disney Company]] *bid ~$14M (WSJ, unconfirmed)* [[Melania (2026 film)]] · 2024-12 · $14M · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]

@@ -18,17 +18,17 @@ Legal theory classing sports gambling as financial trading, enabling prediction 
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
+- [[C25 Prediction Markets, the CFTC & Donald Trump Jr]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (2)
 
-- [[Commodity Futures Trading Commission]] *enables* [[Sports bets as event contracts theory]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
-- [[Sports bets as event contracts theory]] *legalises sports bets on* [[Prediction markets industry]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Commodity Futures Trading Commission]] *enables* [[Sports bets as event contracts theory]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
+- [[Sports bets as event contracts theory]] *legalises sports bets on* [[Prediction markets industry]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 
 ## Themes
 
-- [[Theme - Policy made for markets the family operates in]]
+- [[Theme - Policy Made for Markets the Family Operates In]]

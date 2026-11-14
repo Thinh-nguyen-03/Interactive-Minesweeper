@@ -18,12 +18,12 @@ Former NC legislator, Kalshi lobbyist, reportedly helped shape NC provision.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate
+- [[C38 Polymarket Probes Closed Before 1789 Capital Invested]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Jim Harrell]] *lobbyist for* [[Kalshi]] · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
+- [[Jim Harrell]] *lobbyist for* [[Kalshi]] · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]

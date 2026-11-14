@@ -18,17 +18,17 @@ Solana meme token promoted by Javier Milei in Feb 2025 that collapsed within hou
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C40 Who ran the $TRUMP and $MELANIA launches]] · Mostly accurate
+- [[C40 Who Ran the $TRUMP & $MELANIA Launches]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Javier Milei]] *promoted* [[$LIBRA]] · 2025-02-14 · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]
+- [[Javier Milei]] *promoted* [[$LIBRA]] · 2025-02-14 · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
 
 ### Commercial (2)
 
-- [[Hayden Davis]] *launched and managed liquidity for* [[$LIBRA]] · 2025-02 · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]
-- [[Meteora]] *hosted launch* [[$LIBRA]] · 2025-02-14 · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]
+- [[Hayden Davis]] *launched and managed liquidity for* [[$LIBRA]] · 2025-02 · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
+- [[Meteora]] *hosted launch* [[$LIBRA]] · 2025-02-14 · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]

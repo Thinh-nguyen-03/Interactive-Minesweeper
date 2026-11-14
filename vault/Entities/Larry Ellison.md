@@ -18,21 +18,21 @@ Oracle co-founder and largest shareholder; guaranteed the Paramount-WBD equity
 | Appears in | 1 check |
 | Connections | 5 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
+- [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Larry Ellison]] *committed to Twitter buyout* [[X Corp]] · 2022-05 · $1B · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
-- [[Larry Ellison]] *personally guaranteed bid equity* [[Paramount]] · 2025-12-22 · $40.4B · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
+- [[Larry Ellison]] *committed to Twitter buyout* [[X Corp]] · 2022-05 · $1B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Larry Ellison]] *personally guaranteed bid equity* [[Paramount]] · 2025-12-22 · $40.4B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 
 ### Ownership (1)
 
-- [[Larry Ellison]] *co-founder, largest shareholder* [[Oracle]] · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
+- [[Larry Ellison]] *co-founder, largest shareholder* [[Oracle]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 
 ### Family (1)
 
-- [[Larry Ellison]] *father* [[David Ellison]] · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
+- [[Larry Ellison]] *father* [[David Ellison]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]

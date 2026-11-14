@@ -18,12 +18,12 @@ Requires reporting of securities transactions within 45 days
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C20 Trump's securities purchases and his Truth Social posts]] · Mostly accurate
+- [[C20 Trump's Securities Purchases & His Truth Social Posts]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Donald Trump]] *missed 45-day reporting deadline under* [[STOCK Act]] · 2026 · [[C20 Trump's securities purchases and his Truth Social posts|C20]]
+- [[Donald Trump]] *missed 45-day reporting deadline under* [[STOCK Act]] · 2026 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]

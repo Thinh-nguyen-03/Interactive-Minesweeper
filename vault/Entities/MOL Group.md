@@ -18,16 +18,16 @@ Hungarian oil company buying Gazprom Neft's 56.15% of NIS under OFAC licences.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
+- [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[MOL Group]] *agreed to buy 56.15% from Gazprom Neft* [[NIS (Naftna Industrija Srbije)]] · 2026-01-19 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[MOL Group]] *agreed to buy 56.15% from Gazprom Neft* [[NIS (Naftna Industrija Srbije)]] · 2026-01-19 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]
 
 ### Regulatory (1)
 
-- [[OFAC]] *licence for preparatory work to 28 Feb 2027 (not closing)* [[MOL Group]] · 2026-11-05 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[OFAC]] *licence for preparatory work to 28 Feb 2027 (not closing)* [[MOL Group]] · 2026-11-05 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]

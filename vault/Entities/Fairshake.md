@@ -18,16 +18,16 @@ Crypto industry super PAC network (with Defend American Jobs, Protect Progress)
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C52 Trump-connected lobbyists hired by crypto firms and the SEC enforcement director's exi]] · Mostly accurate
+- [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Coinbase]] *contributed $25M (2025)* [[Fairshake]] · 2025 · $25M · [[C52 Trump-connected lobbyists hired by crypto firms and the SEC enforcement director's exi|C52]]
+- [[Coinbase]] *contributed $25M (2025)* [[Fairshake]] · 2025 · $25M · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
 
 ### Political (1)
 
-- [[Fairshake]] *backed Trump-endorsed GOP primary candidates; ads touted his endorsement* [[Donald Trump]] · 2026-05 · [[C52 Trump-connected lobbyists hired by crypto firms and the SEC enforcement director's exi|C52]]
+- [[Fairshake]] *backed Trump-endorsed GOP primary candidates; ads touted his endorsement* [[Donald Trump]] · 2026-05 · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]

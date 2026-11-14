@@ -21,20 +21,20 @@ tags:
 | Connections | 3 |
 | Also known as | inaugural committee |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C23 SEC crypto cases dropped and the firms' donations]] · Mostly accurate
+- [[C23 SEC Crypto Cases Dropped & the Firms' Donations]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Trump inauguration fund]] *funded* [[January 2025 inauguration]] · [[C23 SEC crypto cases dropped and the firms' donations|C23]]
+- [[Trump inauguration fund]] *funded* [[January 2025 inauguration]] · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 
 ### Political (1)
 
-- [[SEC crypto cases dropped (wave)]] *coincided with donations to* [[Trump inauguration fund]] · [[C23 SEC crypto cases dropped and the firms' donations|C23]]
+- [[SEC crypto cases dropped (wave)]] *coincided with donations to* [[Trump inauguration fund]] · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 
 ## Themes
 
-- [[Theme - Earning from the office, brand and access]]
+- [[Theme - Earning from the Office, Brand & Access]]

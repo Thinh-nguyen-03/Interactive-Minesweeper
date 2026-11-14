@@ -21,19 +21,19 @@ Foundation's robot to be tested with the Marine Corps.
 | Connections | 3 |
 | Also known as | Phantom (MK-1) humanoid robot |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Foundation's humanoid robot, pitched for breaching and military tasks.
 
-## Appears in checks
+## Appears in Checks
 
-- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
+- [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (4)
 
-- [[US Marine Corps]] *planned breaching tests of* [[Phantom humanoid robot]] · 2026 · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
-- [[Foundation Future Industries]] *develops* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
-- [[Foundation Future Industries]] *makes* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
-- [[US Marine Corps]] *to test* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[US Marine Corps]] *planned breaching tests of* [[Phantom humanoid robot]] · 2026 · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
+- [[Foundation Future Industries]] *develops* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
+- [[Foundation Future Industries]] *makes* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
+- [[US Marine Corps]] *to test* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]

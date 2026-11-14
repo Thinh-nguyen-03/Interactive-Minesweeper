@@ -18,12 +18,12 @@ Movement Labs co-founder, suspended and ousted over the market-maker deal
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C71 Who bought World Liberty tokens]] · Mostly accurate
+- [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Rushi Manche]] *co-founder, ousted* [[Movement Labs Movement Network Foundation]] · 2025-05 · [[C71 Who bought World Liberty tokens|C71]]
+- [[Rushi Manche]] *co-founder, ousted* [[Movement Labs Movement Network Foundation]] · 2025-05 · [[C71 Who Bought World Liberty Tokens|C71]]

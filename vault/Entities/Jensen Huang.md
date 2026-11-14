@@ -18,21 +18,21 @@ Nvidia CEO; a reported dinner with Sacks was dropped from the NYT story
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Nvidia CEO
 
-## Appears in checks
+## Appears in Checks
 
-- [[C34 David Sacks the AI and crypto adviser and his investments]] · Mostly accurate
-- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
+- [[C34 David Sacks The AI & Crypto Adviser & His Investments]] · Mostly accurate
+- [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Jensen Huang]] *CEO of* [[Nvidia]] · [[C34 David Sacks the AI and crypto adviser and his investments|C34]]
+- [[Jensen Huang]] *CEO of* [[Nvidia]] · [[C34 David Sacks The AI & Crypto Adviser & His Investments|C34]]
 
 ### Commercial (1)
 
-- [[David Sacks]] *reported dinner disputed, dropped from NYT story* [[Jensen Huang]] · [[C34 David Sacks the AI and crypto adviser and his investments|C34]]
+- [[David Sacks]] *reported dinner disputed, dropped from NYT story* [[Jensen Huang]] · [[C34 David Sacks The AI & Crypto Adviser & His Investments|C34]]

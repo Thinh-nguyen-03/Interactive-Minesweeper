@@ -18,12 +18,12 @@ Created by Aug 2025 executive order; security, transport, entry/exit
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
+- [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Donald Trump]] *created by executive order* [[White House Task Force on the 2028 Olympics]] · 2025-08 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[Donald Trump]] *created by executive order* [[White House Task Force on the 2028 Olympics]] · 2025-08 · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]

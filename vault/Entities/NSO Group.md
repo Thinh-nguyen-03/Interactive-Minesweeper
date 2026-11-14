@@ -12,7 +12,7 @@ tags:
 
 Pegasus spyware maker; its WhatsApp exploit was patched in 2019; no report links it to Kushner's phone.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C37 The reported hack of Jared Kushner's phone|C37]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C37 The Reported Hack of Jared Kushner's Phone|C37]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,6 +20,6 @@ Pegasus spyware maker; its WhatsApp exploit was patched in 2019; no report links
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C37 The reported hack of Jared Kushner's phone]] · Unverified · unverified allegation, single source
+- [[C37 The Reported Hack of Jared Kushner's Phone]] · Unverified · unverified allegation, single source

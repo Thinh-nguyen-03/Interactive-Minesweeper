@@ -12,7 +12,7 @@ tags:
 
 UN special rapporteur; urged Kushner to check or replace his phone in Jan 2020.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C37 The reported hack of Jared Kushner's phone|C37]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C37 The Reported Hack of Jared Kushner's Phone|C37]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,12 +20,12 @@ UN special rapporteur; urged Kushner to check or replace his phone in Jan 2020.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C37 The reported hack of Jared Kushner's phone]] · Unverified · unverified allegation, single source
+- [[C37 The Reported Hack of Jared Kushner's Phone]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Agnes Callamard]] *urged him to check/replace phone after Bezos hack* [[Jared Kushner]] · 2020-01 · [[C37 The reported hack of Jared Kushner's phone|C37]] · unverified allegation
+- [[Agnes Callamard]] *urged him to check/replace phone after Bezos hack* [[Jared Kushner]] · 2020-01 · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation

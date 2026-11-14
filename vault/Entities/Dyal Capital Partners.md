@@ -18,12 +18,12 @@ Neuberger Berman unit; sold part of its passive Silver Lake stake to Mubadala (2
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds]] · Mostly accurate
+- [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Dyal Capital Partners]] *sold part of its Silver Lake stake to* [[Mubadala]] · 2020-09-30 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Dyal Capital Partners]] *sold part of its Silver Lake stake to* [[Mubadala]] · 2020-09-30 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]

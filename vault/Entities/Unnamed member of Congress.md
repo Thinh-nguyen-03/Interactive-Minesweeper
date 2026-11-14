@@ -18,12 +18,12 @@ Congressman who asked Selig whether the White House asked him to drop the CFTC's
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
+- [[C25 Prediction Markets, the CFTC & Donald Trump Jr]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Unnamed member of Congress]] *questioned on White House pressure* [[Mike Selig]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Unnamed member of Congress]] *questioned on White House pressure* [[Mike Selig]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]

@@ -18,26 +18,26 @@ Qatari conglomerate of the Al-Khayyat family; Syria power and pipeline deals wit
 | Appears in | 2 checks |
 | Connections | 6 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Qatari conglomerate (Al Khayyat family) leading Syria power and pipeline consortia
 
-## Appears in checks
+## Appears in Checks
 
-- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
-- [[C94 The sale of Lukoil's foreign assets and the Boehly consortium]] · Mostly accurate
+- [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
+- [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Moutaz and Ramez Al-Khayyat]] *controlling family* [[UCC Holding]] · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
+- [[Moutaz and Ramez Al-Khayyat]] *controlling family* [[UCC Holding]] · [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium|C94]]
 
 ### Political (1)
 
-- [[Tom Barrack]] *attended ~$7B Syria power MoU signing as US envoy (C73)* [[UCC Holding]] · 2025-05-29 · $7B · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
+- [[Tom Barrack]] *attended ~$7B Syria power MoU signing as US envoy (C73)* [[UCC Holding]] · 2025-05-29 · $7B · [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium|C94]]
 
 ### Commercial (2)
 
-- [[UCC Holding]] *leads consortium (~$7B)* [[Syria UCC power concessions]] · 2025-05-29 · $7B · [[C73 Qatar's ties to people in and around the administration|C73]]
-- [[UCC Holding]] *consortium member* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C73 Qatar's ties to people in and around the administration|C73]]
+- [[UCC Holding]] *leads consortium (~$7B)* [[Syria UCC power concessions]] · 2025-05-29 · $7B · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
+- [[UCC Holding]] *consortium member* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]

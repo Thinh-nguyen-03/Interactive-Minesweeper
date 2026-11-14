@@ -18,12 +18,12 @@ Bought ~5% of TMC for $85M in Jun 2025
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Korea Zinc]] *bought ~5% stake* [[The Metals Company]] · 2025-06 · $85M · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Korea Zinc]] *bought ~5% stake* [[The Metals Company]] · 2025-06 · $85M · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]

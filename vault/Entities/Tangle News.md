@@ -21,18 +21,18 @@ Isaac Saul's nonpartisan political newsletter.
 | Connections | 3 |
 | Also known as | Tangle |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Nonpartisan political newsletter
 
-## Appears in checks
+## Appears in Checks
 
-- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
-- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
+- [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project]] · Mostly accurate
+- [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Isaac Saul]] *founded* [[Tangle News]] · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]] [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]
-- [[Isaac Saul]] *founder of* [[Tangle News]] · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]]
+- [[Isaac Saul]] *founded* [[Tangle News]] · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]] [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]
+- [[Isaac Saul]] *founder of* [[Tangle News]] · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]

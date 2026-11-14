@@ -18,12 +18,12 @@ Charter firm with which P4-HBJ was registered (NYT via Free Beacon)
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Global Jet Isle of Man]] *registered operator of* [[Qatar Boeing 747 gift]] · 2025-05 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
+- [[Global Jet Isle of Man]] *registered operator of* [[Qatar Boeing 747 gift]] · 2025-05 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]

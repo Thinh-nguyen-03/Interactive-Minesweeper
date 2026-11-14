@@ -18,19 +18,19 @@ tags:
 | Appears in | 2 checks |
 | Connections | 5 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - ~$530M Dar Global tower announced July 2024
 
-## Appears in checks
+## Appears in Checks
 
-- [[C31 Trump Organization real-estate deals in the Gulf]] · Mostly accurate
-- [[C56 Saudi Arabia family deals alongside US policy decisions]] · Mostly accurate
+- [[C31 Trump Organization Real-Estate Deals in the Gulf]] · Mostly accurate
+- [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (3)
 
-- [[Trump Organization]] *licenses brand to* [[Trump Tower Jeddah]] · 2024-07 · $530M · [[C56 Saudi Arabia family deals alongside US policy decisions|C56]]
-- [[Dar Global]] *developer of* [[Trump Tower Jeddah]] · 2024-07-01 · $530M · [[C31 Trump Organization real-estate deals in the Gulf|C31]]
-- [[Trump Tower Jeddah]] *located in* [[Saudi Arabia]] · [[C31 Trump Organization real-estate deals in the Gulf|C31]]
+- [[Trump Organization]] *licenses brand to* [[Trump Tower Jeddah]] · 2024-07 · $530M · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
+- [[Dar Global]] *developer of* [[Trump Tower Jeddah]] · 2024-07-01 · $530M · [[C31 Trump Organization Real-Estate Deals in the Gulf|C31]]
+- [[Trump Tower Jeddah]] *located in* [[Saudi Arabia]] · [[C31 Trump Organization Real-Estate Deals in the Gulf|C31]]

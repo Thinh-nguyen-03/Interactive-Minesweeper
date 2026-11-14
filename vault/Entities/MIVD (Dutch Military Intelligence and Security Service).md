@@ -12,7 +12,7 @@ tags:
 
 Allegedly obtained screen images of Kushner's phone via a turned GRU officer; declines to comment.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C37 The reported hack of Jared Kushner's phone|C37]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C37 The Reported Hack of Jared Kushner's Phone|C37]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,17 +20,17 @@ Allegedly obtained screen images of Kushner's phone via a turned GRU officer; de
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C37 The reported hack of Jared Kushner's phone]] · Unverified · unverified allegation, single source
+- [[C37 The Reported Hack of Jared Kushner's Phone]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Netherlands]] *operates* [[MIVD (Dutch Military Intelligence and Security Service)]] · [[C37 The reported hack of Jared Kushner's phone|C37]] · unverified allegation
+- [[Netherlands]] *operates* [[MIVD (Dutch Military Intelligence and Security Service)]] · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation
 
 ### Legal (2)
 
-- [[MIVD (Dutch Military Intelligence and Security Service)]] *allegedly recruited a GRU hacker, gaining server access* [[GRU (Russian military intelligence)]] · 2017 · [[C37 The reported hack of Jared Kushner's phone|C37]] · unverified allegation
-- [[MIVD (Dutch Military Intelligence and Security Service)]] *allegedly viewed phone screen via turned GRU officer* [[Jared Kushner]] · 2018 · [[C37 The reported hack of Jared Kushner's phone|C37]] · unverified allegation
+- [[MIVD (Dutch Military Intelligence and Security Service)]] *allegedly recruited a GRU hacker, gaining server access* [[GRU (Russian military intelligence)]] · 2017 · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation
+- [[MIVD (Dutch Military Intelligence and Security Service)]] *allegedly viewed phone screen via turned GRU officer* [[Jared Kushner]] · 2018 · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation

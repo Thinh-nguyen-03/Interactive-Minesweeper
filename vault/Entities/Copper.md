@@ -18,12 +18,12 @@ Crypto custodian for Cantor's lending programme
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business]] · Mostly accurate
+- [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Copper]] *custodian for* [[Cantor bitcoin financing business]] · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[Copper]] *custodian for* [[Cantor bitcoin financing business]] · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]

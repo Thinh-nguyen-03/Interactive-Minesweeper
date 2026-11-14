@@ -18,21 +18,21 @@ Investigative network behind the Greenland-associates probe
 | Appears in | 4 checks |
 | Connections | 5 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Timor-Leste resort investigation with Guardian Australia
 - Exposed GreenMet's shareholders with NPR
 - Republished IStories' Kazakhstan report
 
-## Appears in checks
+## Appears in Checks
 
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
-- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
-- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
-- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
+- [[C83 Keith Schiller & George Sorial's Lobbying Clients]] · Mostly accurate
+- [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
+- [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[OCCRP]] *exposed Trump-associate shareholders* [[GreenMet (Greentech Minerals Holdings)]] · 2026-01-22 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[OCCRP]] *exposed Trump-associate shareholders* [[GreenMet (Greentech Minerals Holdings)]] · 2026-01-22 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]

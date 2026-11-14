@@ -18,19 +18,19 @@ Home of Metaplanet.
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Home country of Metaplanet.
 - State
 
-## Appears in checks
+## Appears in Checks
 
-- [[C18 Eric Trump, Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
+- [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8]] · Mostly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Metaplanet]] *based in* [[Japan]] · [[C18 Eric Trump, Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Metaplanet]] *listed in* [[Japan]] · [[C18 Eric Trump, Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Metaplanet]] *based in* [[Japan]] · [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]]
+- [[Metaplanet]] *listed in* [[Japan]] · [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]]

@@ -18,12 +18,12 @@ Ex-Navy SEAL podcaster and former Trump voter, now a critic
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
+- [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Shawn Ryan]] *former supporter turned critic; 'very self-serving'* [[Donald Trump]] · 2026-06 · [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]
+- [[Shawn Ryan]] *former supporter turned critic; 'very self-serving'* [[Donald Trump]] · 2026-06 · [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]

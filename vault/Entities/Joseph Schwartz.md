@@ -18,16 +18,16 @@ Nursing-home owner pardoned Nov 2025 for $38M payroll-tax fraud
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C49 The market for pardon lobbying]] · Mostly accurate
+- [[C49 The Market for Pardon Lobbying]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Joseph Schwartz]] *paid (with Wohl) just under $1M for pardon lobbying* [[Jack Burkman]] · 2025 · [[C49 The market for pardon lobbying|C49]]
+- [[Joseph Schwartz]] *paid (with Wohl) just under $1M for pardon lobbying* [[Jack Burkman]] · 2025 · [[C49 The Market for Pardon Lobbying|C49]]
 
 ### Legal (1)
 
-- [[Donald Trump]] *pardoned* [[Joseph Schwartz]] · 2025-11-14 · [[C49 The market for pardon lobbying|C49]]
+- [[Donald Trump]] *pardoned* [[Joseph Schwartz]] · 2025-11-14 · [[C49 The Market for Pardon Lobbying|C49]]

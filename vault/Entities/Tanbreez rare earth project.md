@@ -18,21 +18,21 @@ Heavy rare-earth deposit in southern Greenland
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Greenland heavy rare-earth deposit
 
-## Appears in checks
+## Appears in Checks
 
-- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
-- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
+- [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
+- [[C83 Keith Schiller & George Sorial's Lobbying Clients]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Critical Metals Corp]] *owns 92.5%* [[Tanbreez rare earth project]] · 2026-04-18 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Critical Metals Corp]] *owns 92.5%* [[Tanbreez rare earth project]] · 2026-04-18 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
 
 ### Commercial (1)
 
-- [[Tanbreez rare earth project]] *located in* [[Greenland]] · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Tanbreez rare earth project]] *located in* [[Greenland]] · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]

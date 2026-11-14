@@ -18,16 +18,16 @@ UAE investor; partnered with Boehly from the Dec 2025 Xtellus bid; reported co-l
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C94 The sale of Lukoil's foreign assets and the Boehly consortium]] · Mostly accurate
+- [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Xtellus Partners]] *advised on cashless swap bid (Reuters)* [[Allied Investment Partners]] · 2025-12 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
+- [[Xtellus Partners]] *advised on cashless swap bid (Reuters)* [[Allied Investment Partners]] · 2025-12 · [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium|C94]]
 
 ### Commercial (1)
 
-- [[Allied Investment Partners]] *reported consortium co-lead* [[Lukoil International GmbH (lukoil-international-gmbh)]] · 2026-09 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
+- [[Allied Investment Partners]] *reported consortium co-lead* [[Lukoil International GmbH (lukoil-international-gmbh)]] · 2026-09 · [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium|C94]]

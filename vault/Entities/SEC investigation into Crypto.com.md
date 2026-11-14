@@ -18,21 +18,21 @@ Closed with no action.
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
-- [[C23 SEC crypto cases dropped and the firms' donations]] · Mostly accurate
+- [[C22 Crypto.com's Deal with Trump Media]] · Mostly accurate
+- [[C23 SEC Crypto Cases Dropped & the Firms' Donations]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Securities and Exchange Commission]] *closed with no action* [[SEC investigation into Crypto.com]] · [[C22 Crypto.com's deal with Trump Media|C22]] [[C23 SEC crypto cases dropped and the firms' donations|C23]]
+- [[Securities and Exchange Commission]] *closed with no action* [[SEC investigation into Crypto.com]] · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 
 ### Legal (1)
 
-- [[SEC investigation into Crypto.com]] *targeted* [[Crypto.com]] · [[C22 Crypto.com's deal with Trump Media|C22]]
+- [[SEC investigation into Crypto.com]] *targeted* [[Crypto.com]] · [[C22 Crypto.com's Deal with Trump Media|C22]]
 
 ## Themes
 
-- [[Theme - Enforcement cases dropped near money flows]]
+- [[Theme - Enforcement Cases Dropped Near Money Flows]]

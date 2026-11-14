@@ -18,26 +18,26 @@ Ordinary buyers of Trump-linked coins and stocks, most of whom lost money as pri
 | Appears in | 6 checks |
 | Connections | 12 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C01 The $TRUMP meme coin and who profited]] · Mostly accurate
-- [[C02 The $MELANIA coin and Melania Trump's NFT income]] · Mostly accurate
-- [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty]] · Mostly accurate
-- [[C18 Eric Trump, Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
-- [[C24 Trump Media's ETFs, the TAE fusion merger and its losses]] · Mostly accurate
-- [[C29 Trump family wealth gains since the election]] · Mostly accurate
+- [[C01 The $TRUMP Meme Coin & Who Profited]] · Mostly accurate
+- [[C02 The $MELANIA Coin & Melania Trump's NFT Income]] · Mostly accurate
+- [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty]] · Mostly accurate
+- [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8]] · Mostly accurate
+- [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses]] · Mostly accurate
+- [[C29 Trump Family Wealth Gains Since the Election]] · Mostly accurate
 
 ## Relationships
 
 ### Money (6)
 
-- [[Retail investors Trump supporters]] *lost ~94% on stock of* [[ALT5 Sigma]] · [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty|C13]] [[C29 Trump family wealth gains since the election|C29]]
-- [[Retail investors Trump supporters]] *hold poorly performing stock of* [[American Bitcoin]] · [[C18 Eric Trump, Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Retail investors Trump supporters]] *lost money backing ventures of* [[Donald Trump]] · [[C29 Trump family wealth gains since the election|C29]]
-- [[Retail investors Trump supporters]] *lost ~99% on* [[$MELANIA meme coin]] · [[C02 The $MELANIA coin and Melania Trump's NFT income|C02]] [[C29 Trump family wealth gains since the election|C29]]
-- [[Retail investors Trump supporters]] *lost ~95% on* [[$TRUMP meme coin]] · [[C01 The $TRUMP meme coin and who profited|C01]] [[C29 Trump family wealth gains since the election|C29]]
-- [[Retail investors Trump supporters]] *funded ~$712M losses of* [[Trump Media & Technology Group]] · $712M · [[C24 Trump Media's ETFs, the TAE fusion merger and its losses|C24]] [[C29 Trump family wealth gains since the election|C29]]
+- [[Retail investors Trump supporters]] *lost ~94% on stock of* [[ALT5 Sigma]] · [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty|C13]] [[C29 Trump Family Wealth Gains Since the Election|C29]]
+- [[Retail investors Trump supporters]] *hold poorly performing stock of* [[American Bitcoin]] · [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]]
+- [[Retail investors Trump supporters]] *lost money backing ventures of* [[Donald Trump]] · [[C29 Trump Family Wealth Gains Since the Election|C29]]
+- [[Retail investors Trump supporters]] *lost ~99% on* [[$MELANIA meme coin]] · [[C02 The $MELANIA Coin & Melania Trump's NFT Income|C02]] [[C29 Trump Family Wealth Gains Since the Election|C29]]
+- [[Retail investors Trump supporters]] *lost ~95% on* [[$TRUMP meme coin]] · [[C01 The $TRUMP Meme Coin & Who Profited|C01]] [[C29 Trump Family Wealth Gains Since the Election|C29]]
+- [[Retail investors Trump supporters]] *funded ~$712M losses of* [[Trump Media & Technology Group]] · $712M · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]] [[C29 Trump Family Wealth Gains Since the Election|C29]]
 
 ## Themes
 
-- [[Theme - Insider gains alongside retail investor losses]]
+- [[Theme - Insider Gains Alongside Retail Investor Losses]]

@@ -18,17 +18,17 @@ Abu Dhabi-based developer founded by Mohamed Alabbar; Belgrade partner and Grand
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
+- [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Mohamed Alabbar]] *founder of* [[Eagle Hills]] · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[Mohamed Alabbar]] *founder of* [[Eagle Hills]] · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]
 
 ### Commercial (2)
 
-- [[Eagle Hills]] *partner on Trump-branded Belgrade project* [[Affinity Partners]] · 2025-01-17 · $500M · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
-- [[Eagle Hills]] *developer (EUR 12.3B contract, dropped early 2025)* [[Grand Budapest (Rákosrendező) project]] · 2025-01-20 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[Eagle Hills]] *partner on Trump-branded Belgrade project* [[Affinity Partners]] · 2025-01-17 · $500M · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]
+- [[Eagle Hills]] *developer (EUR 12.3B contract, dropped early 2025)* [[Grand Budapest (Rákosrendező) project]] · 2025-01-20 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]

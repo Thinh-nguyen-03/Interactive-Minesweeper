@@ -18,12 +18,12 @@ Cerberus-related Golden Dome awardee per Warren
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate
+- [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Red River Technology]] *awardee (per Warren)* [[Golden Dome]] · 2026 · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
+- [[Red River Technology]] *awardee (per Warren)* [[Golden Dome]] · 2026 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]

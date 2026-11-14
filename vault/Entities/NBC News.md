@@ -18,17 +18,17 @@ Reported the Daibes-Schiller payment
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Reported Daibes' $1M payment
 
-## Appears in checks
+## Appears in Checks
 
-- [[C49 The market for pardon lobbying]] · Mostly accurate
-- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
+- [[C49 The Market for Pardon Lobbying]] · Mostly accurate
+- [[C83 Keith Schiller & George Sorial's Lobbying Clients]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[NBC News]] *reported $1M lobbying payment* [[Fred Daibes]] · 2025 · [[C49 The market for pardon lobbying|C49]]
+- [[NBC News]] *reported $1M lobbying payment* [[Fred Daibes]] · 2025 · [[C49 The Market for Pardon Lobbying|C49]]

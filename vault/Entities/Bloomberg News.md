@@ -18,18 +18,18 @@ Reported the Tether loan to the Lutnick children's trust (Mar 2026)
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Reported the Tether loan and the Cantor-Tether lending talks
 
-## Appears in checks
+## Appears in Checks
 
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
-- [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business]] · Mostly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
+- [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business]] · Mostly accurate
 
 ## Relationships
 
 ### Media (2)
 
-- [[Bloomberg News]] *reported Tether loan* [[Dynasty Trust A]] · 2026-03-18 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Bloomberg News]] *reported Tether loan to* [[Dynasty Trust A]] · 2026-03-18 · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[Bloomberg News]] *reported Tether loan* [[Dynasty Trust A]] · 2026-03-18 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
+- [[Bloomberg News]] *reported Tether loan to* [[Dynasty Trust A]] · 2026-03-18 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]

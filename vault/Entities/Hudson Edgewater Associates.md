@@ -18,20 +18,20 @@ Heritage-Daibes joint entity in Edgewater, NJ (Daily Beast)
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Heritage Advisors]] *$45M for 25% stake via* [[Hudson Edgewater Associates]] · 2022-12 · $45M · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
+- [[Heritage Advisors]] *$45M for 25% stake via* [[Hudson Edgewater Associates]] · 2022-12 · $45M · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
 
 ### Ownership (1)
 
-- [[Fred Daibes]] *partner in* [[Hudson Edgewater Associates]] · 2022-12 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
+- [[Fred Daibes]] *partner in* [[Hudson Edgewater Associates]] · 2022-12 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
 
 ### Commercial (1)
 
-- [[Hudson Edgewater Associates]] *controls site of (Daily Beast)* [[IS EG Halal]] · 2023 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
+- [[Hudson Edgewater Associates]] *controls site of (Daily Beast)* [[IS EG Halal]] · 2023 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]

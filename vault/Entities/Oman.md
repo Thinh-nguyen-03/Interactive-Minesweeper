@@ -18,12 +18,12 @@ Host of Trump International Oman
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C31 Trump Organization real-estate deals in the Gulf]] · Mostly accurate
+- [[C31 Trump Organization Real-Estate Deals in the Gulf]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Trump International Golf Club & Resort Oman (Aida)]] *located in* [[Oman]] · [[C31 Trump Organization real-estate deals in the Gulf|C31]]
+- [[Trump International Golf Club & Resort Oman (Aida)]] *located in* [[Oman]] · [[C31 Trump Organization Real-Estate Deals in the Gulf|C31]]

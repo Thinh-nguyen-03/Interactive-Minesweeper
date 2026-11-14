@@ -18,17 +18,17 @@ Married Trump Jr. in May 2026
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Donald Trump Jr.'s wife.
 
-## Appears in checks
+## Appears in Checks
 
-- [[C76 Russia-linked money around the family and the envoys]] · Partly accurate
-- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
+- [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
+- [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
 
 ## Relationships
 
 ### Family (1)
 
-- [[Donald Trump Jr]] *married* [[Bettina Anderson]] · 2026-05 · [[C76 Russia-linked money around the family and the envoys|C76]]
+- [[Donald Trump Jr]] *married* [[Bettina Anderson]] · 2026-05 · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]

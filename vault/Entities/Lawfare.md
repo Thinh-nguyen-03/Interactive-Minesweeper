@@ -18,12 +18,12 @@ Published 'The CFIUS Review That Will Never Be'
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
+- [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Lawfare]] *predicted 'the CFIUS review that will never be'* [[EA take-private]] · 2025-10-03 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
+- [[Lawfare]] *predicted 'the CFIUS review that will never be'* [[EA take-private]] · 2025-10-03 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]

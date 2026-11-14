@@ -18,13 +18,13 @@ BlackRock infrastructure arm; Aligned co-buyer
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
+- [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Global Infrastructure Partners (GIP)]] *co-acquired* [[Aligned Data Centers]] · 2026-07 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
-- [[BlackRock]] *owns* [[Global Infrastructure Partners (GIP)]] · [[C80 Sovereign-fund megadeals that need US approval|C80]]
+- [[Global Infrastructure Partners (GIP)]] *co-acquired* [[Aligned Data Centers]] · 2026-07 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
+- [[BlackRock]] *owns* [[Global Infrastructure Partners (GIP)]] · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]

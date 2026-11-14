@@ -18,32 +18,32 @@ Committee that probed Dominari and other underwriters over Chinese small-cap IPO
 | Appears in | 4 checks |
 | Connections | 10 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - House committee whose minority opened the WLF inquiry.
 - Sent Dominari a March 2026 letter on Chinese IPOs.
 - Sent the March 2026 letters to IPO underwriters.
 
-## Appears in checks
+## Appears in Checks
 
-- [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
-- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
-- [[C82 Abu Dhabi unannounced Trump licensing entities and StringZ]] · Mostly accurate
-- [[C91 Dominari option grants and trading before the Trump sons' arrival]] · Mostly accurate
+- [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network]] · Mostly accurate
+- [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings]] · Mostly accurate
+- [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ]] · Mostly accurate
+- [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (6)
 
-- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[D. Boral Capital]] · 2026-03-08 · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
-- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[D. Boral Capital]] · 2026-03-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
-- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[Revere Securities LLC]] · 2026-03-08 · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
-- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Revere Securities LLC]] · 2026-03-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[D. Boral Capital]] · 2026-03-08 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[D. Boral Capital]] · 2026-03-08 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
+- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
+- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[Revere Securities LLC]] · 2026-03-08 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Revere Securities LLC]] · 2026-03-08 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 
 ### Political (3)
 
-- [[House Select Committee on the CCP]] *committee of the House* [[US Congress]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[John Moolenaar]] *chair of* [[House Select Committee on the CCP]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
-- [[Ro Khanna]] *ranking member of* [[House Select Committee on the CCP]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
+- [[House Select Committee on the CCP]] *committee of the House* [[US Congress]] · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
+- [[John Moolenaar]] *chair of* [[House Select Committee on the CCP]] · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[Ro Khanna]] *ranking member of* [[House Select Committee on the CCP]] · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]

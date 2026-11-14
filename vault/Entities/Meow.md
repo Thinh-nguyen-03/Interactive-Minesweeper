@@ -18,12 +18,12 @@ Pseudonymous Jupiter founder and Meteora co-founder
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C40 Who ran the $TRUMP and $MELANIA launches]] · Mostly accurate
+- [[C40 Who Ran the $TRUMP & $MELANIA Launches]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Meow]] *co-founder; ordered Fenwick & West review* [[Meteora]] · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]
+- [[Meow]] *co-founder; ordered Fenwick & West review* [[Meteora]] · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]

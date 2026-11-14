@@ -18,12 +18,12 @@ Trump Mobile CEO; co-owner of VMed Mobile; Ensurety Ventures
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C63 Shell Entities & Ownership Chains]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Pat O'Brien]] *CEO of* [[Trump Mobile]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Pat O'Brien]] *CEO of* [[Trump Mobile]] · [[C63 Shell Entities & Ownership Chains|C63]]

@@ -18,12 +18,12 @@ Tobacco product authorizations
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Food and Drug Administration]] *authorized on! PLUS pouches (pilot programme)* [[Altria Group]] · 2025-12 · [[C92 The White House ballroom donor list|C92]]
+- [[Food and Drug Administration]] *authorized on! PLUS pouches (pilot programme)* [[Altria Group]] · 2025-12 · [[C92 The White House Ballroom Donor List|C92]]

@@ -18,12 +18,12 @@ Milei's sister and chief of staff; cleared in the Argentine LIBRA case
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C40 Who ran the $TRUMP and $MELANIA launches]] · Mostly accurate
+- [[C40 Who Ran the $TRUMP & $MELANIA Launches]] · Mostly accurate
 
 ## Relationships
 
 ### Family (1)
 
-- [[Karina Milei]] *sister and chief of staff* [[Javier Milei]] · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]
+- [[Karina Milei]] *sister and chief of staff* [[Javier Milei]] · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]

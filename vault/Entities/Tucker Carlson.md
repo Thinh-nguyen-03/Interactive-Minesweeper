@@ -18,18 +18,18 @@ Conservative commentator; said Trump Gulf deals 'seem like corruption' (May 2025
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Interviewed Qatar's PM in Mar 2025 via Lumen8 arrangement
 
-## Appears in checks
+## Appears in Checks
 
-- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
-- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
+- [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters]] · Mostly accurate
+- [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 
 ## Relationships
 
 ### Media (2)
 
-- [[Lumen8 Advisors]] *arranged interview with Qatar PM* [[Tucker Carlson]] · 2025-03 · [[C73 Qatar's ties to people in and around the administration|C73]]
-- [[Tucker Carlson]] *said Gulf deals 'seem like corruption'* [[Trump Organization]] · 2025-05 · [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]
+- [[Lumen8 Advisors]] *arranged interview with Qatar PM* [[Tucker Carlson]] · 2025-03 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
+- [[Tucker Carlson]] *said Gulf deals 'seem like corruption'* [[Trump Organization]] · 2025-05 · [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]

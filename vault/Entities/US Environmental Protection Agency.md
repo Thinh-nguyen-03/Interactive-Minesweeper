@@ -21,18 +21,18 @@ Reconsidered the 2024 asbestos ban in 2025
 | Connections | 3 |
 | Also known as | Environmental Protection Agency |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - US EPA
 
-## Appears in checks
+## Appears in Checks
 
-- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C83 Keith Schiller & George Sorial's Lobbying Clients]] · Mostly accurate
+- [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Political (2)
 
-- [[Lee Zeldin]] *Administrator of* [[US Environmental Protection Agency]] · 2025-01 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
-- [[Lee Zeldin]] *administrator* [[US Environmental Protection Agency]] · 2025-01 · [[C83 Keith Schiller and George Sorial's lobbying clients|C83]]
+- [[Lee Zeldin]] *Administrator of* [[US Environmental Protection Agency]] · 2025-01 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
+- [[Lee Zeldin]] *administrator* [[US Environmental Protection Agency]] · 2025-01 · [[C83 Keith Schiller & George Sorial's Lobbying Clients|C83]]

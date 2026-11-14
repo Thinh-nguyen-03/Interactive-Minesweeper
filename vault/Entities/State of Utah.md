@@ -18,13 +18,13 @@ Sued by CFTC and DOJ 2026-10-27.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate
+- [[C38 Polymarket Probes Closed Before 1789 Capital Invested]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (2)
 
-- [[Commodity Futures Trading Commission]] *sued (with DOJ) over prediction markets* [[State of Utah]] · 2026-10-27 · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
-- [[US Department of Justice (us-doj)]] *co-plaintiff in suit against* [[State of Utah]] · 2026-10-27 · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
+- [[Commodity Futures Trading Commission]] *sued (with DOJ) over prediction markets* [[State of Utah]] · 2026-10-27 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
+- [[US Department of Justice (us-doj)]] *co-plaintiff in suit against* [[State of Utah]] · 2026-10-27 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]

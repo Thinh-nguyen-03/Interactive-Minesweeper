@@ -18,12 +18,12 @@ Group Don Jr. reportedly told not to fight prediction markets.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
+- [[C25 Prediction Markets, the CFTC & Donald Trump Jr]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Donald Trump Jr]] *reportedly urged not to fight prediction markets* [[Republican state attorneys general]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Donald Trump Jr]] *reportedly urged not to fight prediction markets* [[Republican state attorneys general]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]

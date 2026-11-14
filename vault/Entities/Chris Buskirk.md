@@ -18,19 +18,19 @@ tags:
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Co-founder and partner of 1789 Capital.
 
-## Appears in checks
+## Appears in Checks
 
-- [[C26 1789 Capital and the Vulcan Elements magnet deal]] · Mostly accurate
-- [[C32 Donald Trump Jr.'s ties to other government contractors]] · Partly accurate
+- [[C26 1789 Capital & the Vulcan Elements Magnet Deal]] · Mostly accurate
+- [[C32 Donald Trump Jr.'s Ties to Other Government Contractors]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (3)
 
-- [[Chris Buskirk]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
-- [[Chris Buskirk]] *co-founder and partner of* [[1789 Capital]] · [[C26 1789 Capital and the Vulcan Elements magnet deal|C26]]
-- [[Chris Buskirk]] *co-founder/partner of* [[1789 Capital]] · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
+- [[Chris Buskirk]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
+- [[Chris Buskirk]] *co-founder and partner of* [[1789 Capital]] · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]
+- [[Chris Buskirk]] *co-founder/partner of* [[1789 Capital]] · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]

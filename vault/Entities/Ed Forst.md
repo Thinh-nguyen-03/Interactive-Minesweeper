@@ -18,12 +18,12 @@ GSA Administrator; reportedly blocked Ramp award (single-source).
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Ed Forst]] *reportedly asked to step aside (single-source)* [[Josh Gruenbaum]] · 2026-04 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[Ed Forst]] *reportedly asked to step aside (single-source)* [[Josh Gruenbaum]] · 2026-04 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]

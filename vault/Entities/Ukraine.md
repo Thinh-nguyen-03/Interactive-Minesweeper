@@ -18,24 +18,24 @@ Two Phantom MK-1 units were sent there for pilot demonstrations.
 | Appears in | 3 checks |
 | Connections | 6 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Party to the war; sanctioned Blavatnik in 2023.
 - Has sanctioned Kremlev
 
-## Appears in checks
+## Appears in Checks
 
-- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
-- [[C76 Russia-linked money around the family and the envoys]] · Partly accurate
-- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
+- [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump]] · Mostly accurate
+- [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
+- [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (2)
 
-- [[Ukraine]] *sanctioned for ten years* [[Leonard Blavatnik]] · 2023-12 · [[C76 Russia-linked money around the family and the envoys|C76]]
-- [[Ukraine]] *sanctions* [[Umar Kremlev]] · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[Ukraine]] *sanctioned for ten years* [[Leonard Blavatnik]] · 2023-12 · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
+- [[Ukraine]] *sanctions* [[Umar Kremlev]] · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]
 
 ### Commercial (1)
 
-- [[Foundation Future Industries]] *sent two Phantom units for demonstrations* [[Ukraine]] · 2026 · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Foundation Future Industries]] *sent two Phantom units for demonstrations* [[Ukraine]] · 2026 · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]

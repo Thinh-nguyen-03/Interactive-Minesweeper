@@ -18,6 +18,6 @@ President of El Salvador
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate

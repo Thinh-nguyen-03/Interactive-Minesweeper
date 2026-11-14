@@ -18,22 +18,22 @@ Patel's consulting firm; listed Qatari embassy as client
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Patel's consulting firm; Qatar embassy client
 
-## Appears in checks
+## Appears in Checks
 
-- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
-- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
+- [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
+- [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Qatar]] *client of (embassy consulting)* [[Trishul LLC]] · 2024 · [[C73 Qatar's ties to people in and around the administration|C73]]
-- [[Trishul LLC]] *consultant to Qatari embassy* [[Qatar]] · 2024 · [[C64 Lobbyists and intermediaries with White House access|C64]]
+- [[Qatar]] *client of (embassy consulting)* [[Trishul LLC]] · 2024 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
+- [[Trishul LLC]] *consultant to Qatari embassy* [[Qatar]] · 2024 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 
 ### Ownership (1)
 
-- [[Kash Patel]] *owns* [[Trishul LLC]] · 2024 · [[C64 Lobbyists and intermediaries with White House access|C64]] [[C73 Qatar's ties to people in and around the administration|C73]]
+- [[Kash Patel]] *owns* [[Trishul LLC]] · 2024 · [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C73 Qatar's Ties to People in & Around the Administration|C73]]

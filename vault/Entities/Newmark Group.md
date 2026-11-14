@@ -18,12 +18,12 @@ Cantor-controlled real-estate services firm that bought back Lutnick shares
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Newmark Group]] *repurchased 11M shares from* [[Howard Lutnick]] · 2025-05 · $127M · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Newmark Group]] *repurchased 11M shares from* [[Howard Lutnick]] · 2025-05 · $127M · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]

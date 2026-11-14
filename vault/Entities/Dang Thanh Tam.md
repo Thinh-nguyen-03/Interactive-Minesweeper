@@ -18,17 +18,17 @@ Chairman of Kinh Bac City
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - KBC chairman
 
-## Appears in checks
+## Appears in Checks
 
-- [[C59 Foreign Trump Organization projects and tariff negotiations]] · Partly accurate
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
+- [[C59 Foreign Trump Organization Projects & Tariff Negotiations]] · Partly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Dang Thanh Tam]] *chairs* [[Kinh Bac City Development Holding Corp (KBC)]] · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]] [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
+- [[Dang Thanh Tam]] *chairs* [[Kinh Bac City Development Holding Corp (KBC)]] · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]] [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]

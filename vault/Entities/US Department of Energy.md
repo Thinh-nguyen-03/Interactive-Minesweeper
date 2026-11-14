@@ -18,12 +18,12 @@ Negotiated the Saudi 123 agreement
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C56 Saudi Arabia family deals alongside US policy decisions]] · Mostly accurate
+- [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[US Department of Energy]] *submitted 123 agreement to* [[US Congress]] · 2026-08-25 · [[C56 Saudi Arabia family deals alongside US policy decisions|C56]]
+- [[US Department of Energy]] *submitted 123 agreement to* [[US Congress]] · 2026-08-25 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]

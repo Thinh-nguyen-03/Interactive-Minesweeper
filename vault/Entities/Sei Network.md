@@ -18,12 +18,12 @@ Layer-1 whose SEI token WLF bought in March and April 2025
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
+- [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[World Liberty Financial]] *bought SEI (about $100K, then about $775K)* [[Sei Network]] · 2025-04-12 · $875K · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[World Liberty Financial]] *bought SEI (about $100K, then about $775K)* [[Sei Network]] · 2025-04-12 · $875K · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]

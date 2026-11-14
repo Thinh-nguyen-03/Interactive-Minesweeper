@@ -18,12 +18,12 @@ Abu Dhabi state oil company; possible NIS minority buyer from MOL.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
+- [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[ADNOC]] *possible minority stake via MOL* [[NIS (Naftna Industrija Srbije)]] · 2026 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[ADNOC]] *possible minority stake via MOL* [[NIS (Naftna Industrija Srbije)]] · 2026 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]

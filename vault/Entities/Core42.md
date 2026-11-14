@@ -18,16 +18,16 @@ G42 cloud unit; licence-free chip recipient under July 2026 rule
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
+- [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[G42]] *owns* [[Core42]] · [[C80 Sovereign-fund megadeals that need US approval|C80]]
+- [[G42]] *owns* [[Core42]] · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 
 ### Regulatory (1)
 
-- [[BIS UAE Country Group A 5 rule]] *named for licence-free advanced-chip receipt* [[Core42]] · 2026-07-10 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
+- [[BIS UAE Country Group A 5 rule]] *named for licence-free advanced-chip receipt* [[Core42]] · 2026-07-10 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]

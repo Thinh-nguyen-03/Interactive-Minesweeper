@@ -18,12 +18,12 @@ AB figure who led the Timor-Leste resort; denies Prince ties
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
+- [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Lin Xiaofan (Frank Lin)]] *AB figure who led resort project* [[AB (AB DAO)]] · 2024 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[Lin Xiaofan (Frank Lin)]] *AB figure who led resort project* [[AB (AB DAO)]] · 2024 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]

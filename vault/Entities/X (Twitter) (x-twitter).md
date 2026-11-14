@@ -18,6 +18,6 @@ Platform where Eric Trump promoted USD1
 | Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C11 The GENIUS and CLARITY Acts and the family's stablecoin]] · Mostly accurate
+- [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin]] · Mostly accurate

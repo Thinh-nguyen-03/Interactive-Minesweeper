@@ -18,26 +18,26 @@ OSC director since Nov 2025; ex-Cerberus MD; senior adviser to Feinberg
 | Appears in | 2 checks |
 | Connections | 5 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - OSC director since Nov 2025; ex-Cerberus MD
 
-## Appears in checks
+## Appears in Checks
 
-- [[C65 Officials who decided matters involving former clients or partners]] · Mostly accurate
-- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate
+- [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
+- [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[David Lorch]] *senior adviser to* [[Stephen Feinberg]] · 2025-11 · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
+- [[David Lorch]] *senior adviser to* [[Stephen Feinberg]] · 2025-11 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 
 ### Political (2)
 
-- [[David Lorch]] *director* [[Office of Strategic Capital]] · 2025-11 · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
-- [[David Lorch]] *director since Nov 2025* [[Office of Strategic Capital]] · 2025-11 · [[C65 Officials who decided matters involving former clients or partners|C65]]
+- [[David Lorch]] *director* [[Office of Strategic Capital]] · 2025-11 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
+- [[David Lorch]] *director since Nov 2025* [[Office of Strategic Capital]] · 2025-11 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 
 ### Commercial (1)
 
-- [[David Lorch]] *former managing director* [[Cerberus Capital Management]] · [[C65 Officials who decided matters involving former clients or partners|C65]] [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
+- [[David Lorch]] *former managing director* [[Cerberus Capital Management]] · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]] [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]

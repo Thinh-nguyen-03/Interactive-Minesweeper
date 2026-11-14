@@ -21,20 +21,20 @@ tags:
 | Connections | 5 |
 | Also known as | EO 14318 Accelerating Federal Permitting of Data Center Infrastructure |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - July 2025 executive order speeding federal permitting for data centres.
 - July 2025 executive order
 
-## Appears in checks
+## Appears in Checks
 
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
-- [[C82 Abu Dhabi unannounced Trump licensing entities and StringZ]] · Mostly accurate
-- [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge]] · Mostly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
+- [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ]] · Mostly accurate
+- [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (2)
 
-- [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 What the Trump family's foreign partners obtained from Washington|C70]] [[C82 Abu Dhabi unannounced Trump licensing entities and StringZ|C82]] [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge|C88]]
-- [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] *general policy whose thresholds Damac's US projects appear to meet (inferred; no designation found)* [[Edgnex Data Centers by Damac]] · 2025-07-23 · [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge|C88]]
+- [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]] [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ|C82]] [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]
+- [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] *general policy whose thresholds Damac's US projects appear to meet (inferred; no designation found)* [[Edgnex Data Centers by Damac]] · 2025-07-23 · [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]

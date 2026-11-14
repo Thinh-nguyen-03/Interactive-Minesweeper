@@ -18,12 +18,12 @@ Strategic sector with heavy US government involvement.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C26 1789 Capital and the Vulcan Elements magnet deal]] · Mostly accurate
+- [[C26 1789 Capital & the Vulcan Elements Magnet Deal]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Vulcan Elements]] *operates in* [[Rare-earth magnets sector]] · [[C26 1789 Capital and the Vulcan Elements magnet deal|C26]]
+- [[Vulcan Elements]] *operates in* [[Rare-earth magnets sector]] · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]

@@ -18,11 +18,11 @@ Location of Trump International Hotel Maldives
 | Appears in | 2 checks |
 | Connections | 2 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Site of Trump International Hotel Maldives
 
-## Appears in checks
+## Appears in Checks
 
-- [[C59 Foreign Trump Organization projects and tariff negotiations]] · Partly accurate
-- [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam]] · Mostly accurate
+- [[C59 Foreign Trump Organization Projects & Tariff Negotiations]] · Partly accurate
+- [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate

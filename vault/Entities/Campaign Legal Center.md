@@ -18,12 +18,12 @@ Watchdog that filed an OIG complaint over Blanche's crypto holdings.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C61 Lawyers and law firms that recur across the deals]] · Mostly accurate
+- [[C61 Lawyers & Law Firms That Recur Across the Deals]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Campaign Legal Center]] *filed OIG complaint over crypto holdings* [[Todd Blanche]] · 2026-01 · [[C61 Lawyers and law firms that recur across the deals|C61]]
+- [[Campaign Legal Center]] *filed OIG complaint over crypto holdings* [[Todd Blanche]] · 2026-01 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]

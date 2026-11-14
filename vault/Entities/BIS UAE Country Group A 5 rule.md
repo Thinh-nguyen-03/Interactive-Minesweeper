@@ -18,21 +18,21 @@ July 2026 EAR change; G42/Core42 licence-free for ~270 days
 | Appears in | 1 check |
 | Connections | 8 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
+- [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (5)
 
-- [[BIS UAE Country Group A 5 rule]] *named for licence-free advanced-chip receipt* [[Core42]] · 2026-07-10 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
-- [[BIS UAE Country Group A 5 rule]] *named for licence-free advanced-chip receipt (~270 days)* [[G42]] · 2026-07-10 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
-- [[BIS UAE Country Group A 5 rule]] *promised 'favorable review' of licence applications* [[MGX]] · 2026-07-10 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
-- [[BIS UAE Country Group A 5 rule]] *moved from D:3/D:4 to A:5* [[United Arab Emirates]] · 2026-07-10 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
-- [[US Department of Commerce]] *issued* [[BIS UAE Country Group A 5 rule]] · 2026-07-10 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
+- [[BIS UAE Country Group A 5 rule]] *named for licence-free advanced-chip receipt* [[Core42]] · 2026-07-10 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
+- [[BIS UAE Country Group A 5 rule]] *named for licence-free advanced-chip receipt (~270 days)* [[G42]] · 2026-07-10 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
+- [[BIS UAE Country Group A 5 rule]] *promised 'favorable review' of licence applications* [[MGX]] · 2026-07-10 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
+- [[BIS UAE Country Group A 5 rule]] *moved from D:3/D:4 to A:5* [[United Arab Emirates]] · 2026-07-10 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
+- [[US Department of Commerce]] *issued* [[BIS UAE Country Group A 5 rule]] · 2026-07-10 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 
 ### Political (2)
 
-- [[2026 US-Israel war with Iran]] *UAE wartime support cited as basis* [[BIS UAE Country Group A 5 rule]] · 2026-07 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
-- [[Elizabeth Warren]] *condemned, citing WLF stake* [[BIS UAE Country Group A 5 rule]] · 2026-07-10 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
+- [[2026 US-Israel war with Iran]] *UAE wartime support cited as basis* [[BIS UAE Country Group A 5 rule]] · 2026-07 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
+- [[Elizabeth Warren]] *condemned, citing WLF stake* [[BIS UAE Country Group A 5 rule]] · 2026-07-10 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]

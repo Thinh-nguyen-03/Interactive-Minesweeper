@@ -18,18 +18,18 @@ Program where Trump said he didn't know Zhao (aired Nov 2, 2025).
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - 'The Pardon Economy' hidden-camera segment, Sep 2026
 
-## Appears in checks
+## Appears in Checks
 
-- [[C09 The dropped Binance case and the pardon of Changpeng Zhao]] · Mostly accurate
-- [[C49 The market for pardon lobbying]] · Mostly accurate
+- [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao]] · Mostly accurate
+- [[C49 The Market for Pardon Lobbying]] · Mostly accurate
 
 ## Relationships
 
 ### Media (2)
 
-- [[CBS 60 Minutes]] *interviewed on Zhao pardon* [[Donald Trump]] · 2025-11-02 · [[C09 The dropped Binance case and the pardon of Changpeng Zhao|C09]]
-- [[CBS 60 Minutes]] *filmed $300K pardon pitch* [[Jack Burkman]] · 2026-09 · [[C49 The market for pardon lobbying|C49]]
+- [[CBS 60 Minutes]] *interviewed on Zhao pardon* [[Donald Trump]] · 2025-11-02 · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
+- [[CBS 60 Minutes]] *filmed $300K pardon pitch* [[Jack Burkman]] · 2026-09 · [[C49 The Market for Pardon Lobbying|C49]]

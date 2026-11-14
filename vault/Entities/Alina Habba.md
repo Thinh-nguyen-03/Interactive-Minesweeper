@@ -18,12 +18,12 @@ Trump's former lawyer; hired by Herrera's company
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Isabela Herrera]] *company hired (reported >$50M over 4 years; another account says $40M)* [[Alina Habba]] · [[C92 The White House ballroom donor list|C92]]
+- [[Isabela Herrera]] *company hired (reported >$50M over 4 years; another account says $40M)* [[Alina Habba]] · [[C92 The White House Ballroom Donor List|C92]]

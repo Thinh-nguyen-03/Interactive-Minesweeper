@@ -21,15 +21,15 @@ App store whose finance chart came to be topped by Polymarket and Kalshi.
 | Connections | 5 |
 | Also known as | App Store |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
+- [[C25 Prediction Markets, the CFTC & Donald Trump Jr]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (4)
 
-- [[Apple App Store]] *formerly topped by* [[PayPal]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
-- [[Apple App Store]] *formerly topped by* [[Venmo]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
-- [[Kalshi]] *tops finance chart of* [[Apple App Store]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
-- [[Polymarket]] *tops finance chart of* [[Apple App Store]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Apple App Store]] *formerly topped by* [[PayPal]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
+- [[Apple App Store]] *formerly topped by* [[Venmo]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
+- [[Kalshi]] *tops finance chart of* [[Apple App Store]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
+- [[Polymarket]] *tops finance chart of* [[Apple App Store]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]

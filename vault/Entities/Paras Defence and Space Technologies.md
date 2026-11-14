@@ -18,12 +18,12 @@ Indian licensee of Powerus interceptor
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Powerus Corp]] *licensed interceptor technology in India to* [[Paras Defence and Space Technologies]] · 2026-06 · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
+- [[Powerus Corp]] *licensed interceptor technology in India to* [[Paras Defence and Space Technologies]] · 2026-06 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]

@@ -18,23 +18,23 @@ Gazprom Neft-controlled Serbian oil company under US sanctions.
 | Appears in | 2 checks |
 | Connections | 6 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Gazprom Neft-controlled Serbian oil company under US sanctions
 
-## Appears in checks
+## Appears in Checks
 
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
-- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
+- [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[ADNOC]] *possible minority stake via MOL* [[NIS (Naftna Industrija Srbije)]] · 2026 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
-- [[MOL Group]] *agreed to buy 56.15% from Gazprom Neft* [[NIS (Naftna Industrija Srbije)]] · 2026-01-19 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[ADNOC]] *possible minority stake via MOL* [[NIS (Naftna Industrija Srbije)]] · 2026 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]
+- [[MOL Group]] *agreed to buy 56.15% from Gazprom Neft* [[NIS (Naftna Industrija Srbije)]] · 2026-01-19 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]
 
 ### Regulatory (2)
 
-- [[US Treasury]] *deferred sanctions six times, then refused (Oct 2025)* [[NIS (Naftna Industrija Srbije)]] · 2025-01/2025-10 · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
-- [[OFAC]] *refused sanctions deferral while Belgrade project live* [[NIS (Naftna Industrija Srbije)]] · 2025-10-09 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[US Treasury]] *deferred sanctions six times, then refused (Oct 2025)* [[NIS (Naftna Industrija Srbije)]] · 2025-01/2025-10 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
+- [[OFAC]] *refused sanctions deferral while Belgrade project live* [[NIS (Naftna Industrija Srbije)]] · 2025-10-09 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]

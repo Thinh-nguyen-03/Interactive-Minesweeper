@@ -18,13 +18,13 @@ Sole member of Naples Investment Holdco
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Heritage Investments LP]] *sole member of* [[Naples Investment Holdco LLC]] · 2025-05 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
-- [[Sheikh Sultan bin Jassim Al Thani]] *sole beneficiary of trust atop* [[Heritage Investments LP]] · 2025-05 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
+- [[Heritage Investments LP]] *sole member of* [[Naples Investment Holdco LLC]] · 2025-05 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
+- [[Sheikh Sultan bin Jassim Al Thani]] *sole beneficiary of trust atop* [[Heritage Investments LP]] · 2025-05 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]

@@ -18,12 +18,12 @@ Payment app, previously typical of the top finance apps.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
+- [[C25 Prediction Markets, the CFTC & Donald Trump Jr]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Apple App Store]] *formerly topped by* [[PayPal]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Apple App Store]] *formerly topped by* [[PayPal]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]

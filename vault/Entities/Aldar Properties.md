@@ -18,12 +18,12 @@ Abu Dhabi developer; master developer of Al Raha and other districts.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C82 Abu Dhabi unannounced Trump licensing entities and StringZ]] · Mostly accurate
+- [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Alpha Dhabi Holding]] *parent, ~30% stake* [[Aldar Properties]] · 2022-06 · [[C82 Abu Dhabi unannounced Trump licensing entities and StringZ|C82]]
+- [[Alpha Dhabi Holding]] *parent, ~30% stake* [[Aldar Properties]] · 2022-06 · [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ|C82]]

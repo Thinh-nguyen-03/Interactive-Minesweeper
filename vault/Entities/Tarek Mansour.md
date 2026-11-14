@@ -18,25 +18,25 @@ Kalshi CEO; did not explain what Don Jr. does as strategic adviser.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Kalshi co-founder and CEO
 
-## Appears in checks
+## Appears in Checks
 
-- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
+- [[C25 Prediction Markets, the CFTC & Donald Trump Jr]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Tarek Mansour]] *CEO of* [[Kalshi]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Tarek Mansour]] *CEO of* [[Kalshi]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 
 ### Advisory (1)
 
-- [[Tarek Mansour]] *did not explain role of* [[Donald Trump Jr]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Tarek Mansour]] *did not explain role of* [[Donald Trump Jr]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 
 ## Themes
 
-- [[Theme - Family members hired as advisers]]
-- [[Theme - Denials from everyone named]]
+- [[Theme - Family Members Hired as Advisers]]
+- [[Theme - Denials from Everyone Named]]

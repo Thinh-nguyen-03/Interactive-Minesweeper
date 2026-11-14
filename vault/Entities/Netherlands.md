@@ -12,7 +12,7 @@ tags:
 
 Home of the MIVD; the Defence Ministry declined comment.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C37 The reported hack of Jared Kushner's phone|C37]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C37 The Reported Hack of Jared Kushner's Phone|C37]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,12 +20,12 @@ Home of the MIVD; the Defence Ministry declined comment.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C37 The reported hack of Jared Kushner's phone]] · Unverified · unverified allegation, single source
+- [[C37 The Reported Hack of Jared Kushner's Phone]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Netherlands]] *operates* [[MIVD (Dutch Military Intelligence and Security Service)]] · [[C37 The reported hack of Jared Kushner's phone|C37]] · unverified allegation
+- [[Netherlands]] *operates* [[MIVD (Dutch Military Intelligence and Security Service)]] · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation

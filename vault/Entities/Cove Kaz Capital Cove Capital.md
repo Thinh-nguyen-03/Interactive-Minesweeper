@@ -21,43 +21,43 @@ US group awarded the Kazakh tungsten project; CEO Pini Althaus.
 | Connections | 15 |
 | Also known as | Cove Kaz Capital |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Kazakh tungsten developer; requested $400M from OSC
 - Developer of the Kazakh tungsten project
 - US tungsten developer
 
-## Appears in checks
+## Appears in Checks
 
-- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
-- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
-- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate
+- [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings]] · Mostly accurate
+- [[C60 Government Equity Stakes in Critical-Minerals Companies]] · Mostly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
+- [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
 
 ## Relationships
 
 ### Money (6)
 
-- [[Export-Import Bank of the United States]] *letter of interest up to $900M* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $900M · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
-- [[Export-Import Bank of the United States]] *non-binding letter of interest* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $900M · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
-- [[US International Development Finance Corporation]] *letters of interest $700M* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $700M · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
-- [[US International Development Finance Corporation]] *non-binding letters of interest* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $700M · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
-- [[Cove Kaz Capital Cove Capital]] *applied for $400M* [[Office of Strategic Capital]] · 2026-05 · $400M · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
-- [[Cove Kaz Capital Cove Capital]] *sought additional funding from* [[Office of Strategic Capital]] · 2026-05 · $400M · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
+- [[Export-Import Bank of the United States]] *letter of interest up to $900M* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $900M · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
+- [[Export-Import Bank of the United States]] *non-binding letter of interest* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $900M · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[US International Development Finance Corporation]] *letters of interest $700M* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $700M · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
+- [[US International Development Finance Corporation]] *non-binding letters of interest* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $700M · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[Cove Kaz Capital Cove Capital]] *applied for $400M* [[Office of Strategic Capital]] · 2026-05 · $400M · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
+- [[Cove Kaz Capital Cove Capital]] *sought additional funding from* [[Office of Strategic Capital]] · 2026-05 · $400M · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 
 ### Ownership (1)
 
-- [[Cove Kaz Capital Cove Capital]] *parent of* [[Kaz Resources]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
+- [[Cove Kaz Capital Cove Capital]] *parent of* [[Kaz Resources]] · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 
 ### Political (4)
 
-- [[Kassym-Jomart Tokayev]] *awarded tungsten project to* [[Cove Kaz Capital Cove Capital]] · 2025-11-06 · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
-- [[White House Trump administration]] *denied special-interest influence on deal* [[Cove Kaz Capital Cove Capital]] · 2026-06 · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
-- [[Howard Lutnick]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
-- [[Marco Rubio]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
+- [[Kassym-Jomart Tokayev]] *awarded tungsten project to* [[Cove Kaz Capital Cove Capital]] · 2025-11-06 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[White House Trump administration]] *denied special-interest influence on deal* [[Cove Kaz Capital Cove Capital]] · 2026-06 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[Howard Lutnick]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[Marco Rubio]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 
 ### Commercial (3)
 
-- [[Tau-Ken Samruk]] *granted 70% of tungsten project* [[Cove Kaz Capital Cove Capital]] · 2025-11-06 · $1.1B · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
-- [[Skyline Builders Group]] *merger agreement forming Kaz Resources (KAZR)* [[Cove Kaz Capital Cove Capital]] · 2026-08 · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
-- [[Pini Althaus]] *CEO of* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
+- [[Tau-Ken Samruk]] *granted 70% of tungsten project* [[Cove Kaz Capital Cove Capital]] · 2025-11-06 · $1.1B · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
+- [[Skyline Builders Group]] *merger agreement forming Kaz Resources (KAZR)* [[Cove Kaz Capital Cove Capital]] · 2026-08 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[Pini Althaus]] *CEO of* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]

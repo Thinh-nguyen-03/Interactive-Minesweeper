@@ -18,16 +18,16 @@ Amazon cloud unit; GSA OneGov deal and $50B government AI pledge.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C44 Amazon's $40 million Melania Trump documentary deal]] · Mostly accurate
+- [[C44 Amazon's $40 Million Melania Trump Documentary Deal]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Amazon]] *owns* [[Amazon Web Services]] · [[C44 Amazon's $40 million Melania Trump documentary deal|C44]]
+- [[Amazon]] *owns* [[Amazon Web Services]] · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
 
 ### Commercial (1)
 
-- [[General Services Administration]] *OneGov cloud agreement (up to $1B savings)* [[Amazon Web Services]] · 2025-08 · [[C44 Amazon's $40 million Melania Trump documentary deal|C44]]
+- [[General Services Administration]] *OneGov cloud agreement (up to $1B savings)* [[Amazon Web Services]] · 2025-08 · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]

@@ -18,12 +18,12 @@ $99 Trump-branded cologne and perfume (late 2024)
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C17 Trump-branded merchandise and the T1 phone]] · Mostly accurate
+- [[C17 Trump-Branded Merchandise & the T1 Phone]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Donald Trump]] *lends name to* [[Victory 47 fragrance]] · 2024-12 · [[C17 Trump-branded merchandise and the T1 phone|C17]]
+- [[Donald Trump]] *lends name to* [[Victory 47 fragrance]] · 2024-12 · [[C17 Trump-Branded Merchandise & the T1 Phone|C17]]

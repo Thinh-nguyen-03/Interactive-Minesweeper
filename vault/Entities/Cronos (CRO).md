@@ -18,21 +18,21 @@ Crypto.com's native token held by the treasury venture
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Crypto.com's token; Truth gems convert into it.
 
-## Appears in checks
+## Appears in Checks
 
-- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
-- [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu]] · Mostly accurate
+- [[C22 Crypto.com's Deal with Trump Media]] · Mostly accurate
+- [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Trump Media & Technology Group]] *agreed to buy ~$105M of* [[Cronos (CRO)]] · 2025-08-26 · $105M · [[C22 Crypto.com's deal with Trump Media|C22]]
+- [[Trump Media & Technology Group]] *agreed to buy ~$105M of* [[Cronos (CRO)]] · 2025-08-26 · $105M · [[C22 Crypto.com's Deal with Trump Media|C22]]
 
 ### Commercial (1)
 
-- [[Truth Social]] *lets users convert gems into* [[Cronos (CRO)]] · 2025-08 · [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu|C41]]
+- [[Truth Social]] *lets users convert gems into* [[Cronos (CRO)]] · 2025-08 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]

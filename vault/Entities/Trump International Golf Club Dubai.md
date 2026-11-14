@@ -18,12 +18,12 @@ Damac Hills golf club under Trump licence/management; opened Feb 2017.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge]] · Mostly accurate
+- [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Damac Properties]] *developer/owner of Trump-licensed club* [[Trump International Golf Club Dubai]] · 2013 · [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge|C88]]
+- [[Damac Properties]] *developer/owner of Trump-licensed club* [[Trump International Golf Club Dubai]] · 2013 · [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]

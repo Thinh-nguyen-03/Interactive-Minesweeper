@@ -18,12 +18,12 @@ Comedian who called Truth API 'literally insider trading'
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C58 Market-moving presidential posts and insider-trading allegations]] · Mostly accurate
+- [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Shane Gillis]] *called it 'literally insider trading'* [[Truth API]] · 2026-08 · [[C58 Market-moving presidential posts and insider-trading allegations|C58]]
+- [[Shane Gillis]] *called it 'literally insider trading'* [[Truth API]] · 2026-08 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]

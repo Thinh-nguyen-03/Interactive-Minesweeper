@@ -21,18 +21,18 @@ Drone maker; up to $820M conditional OSC loan
 | Connections | 3 |
 | Also known as | Performance Drone Works (PDW) |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Drone maker; conditional OSC loan (Jul 2026)
 
-## Appears in checks
+## Appears in Checks
 
-- [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
-- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate
+- [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme]] · Mostly accurate
+- [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Office of Strategic Capital]] *conditional loan to* [[Performance Drone Works]] · 2026-07 · [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Office of Strategic Capital]] *conditional loan commitment up to $820M* [[Performance Drone Works]] · 2026-07-31 · $820M · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
+- [[Office of Strategic Capital]] *conditional loan to* [[Performance Drone Works]] · 2026-07 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
+- [[Office of Strategic Capital]] *conditional loan commitment up to $820M* [[Performance Drone Works]] · 2026-07-31 · $820M · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]

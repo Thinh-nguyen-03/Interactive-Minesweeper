@@ -21,39 +21,39 @@ Defense AI company Trump endorsed by ticker on Apr 10, 2026
 | Connections | 10 |
 | Also known as | Palantir |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Federal contractor; $10M ballroom; PLTR trades
 - Named ballroom donor; Navy ShipOS (Dec 2025)
 - $10M ballroom commitment
 
-## Appears in checks
+## Appears in Checks
 
-- [[C20 Trump's securities purchases and his Truth Social posts]] · Mostly accurate
-- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
-- [[C69 Master timeline money events and government actions]] · Partly accurate
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C20 Trump's Securities Purchases & His Truth Social Posts]] · Mostly accurate
+- [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
+- [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Money (5)
 
-- [[Palantir Technologies (PLTR)]] *named donor ($10M per WaPo)* [[White House ballroom]] · 2025-10-23 · $10M · [[C69 Master timeline money events and government actions|C69]]
-- [[Donald Trump]] *accounts bought $247k-$630k of shares (Q1 2026)* [[Palantir Technologies (PLTR)]] · 2026-03 · $630K · [[C20 Trump's securities purchases and his Truth Social posts|C20]]
-- [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
-- [[Palantir Technologies (PLTR)]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
-- [[Palantir Technologies (PLTR)]] *committed $10M (WaPo leak)* [[White House ballroom]] · $10M · [[C92 The White House ballroom donor list|C92]]
+- [[Palantir Technologies (PLTR)]] *named donor ($10M per WaPo)* [[White House ballroom]] · 2025-10-23 · $10M · [[C69 Master Timeline Money Events & Government Actions|C69]]
+- [[Donald Trump]] *accounts bought $247k-$630k of shares (Q1 2026)* [[Palantir Technologies (PLTR)]] · 2026-03 · $630K · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
+- [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Palantir Technologies (PLTR)]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Palantir Technologies (PLTR)]] *committed $10M (WaPo leak)* [[White House ballroom]] · $10M · [[C92 The White House Ballroom Donor List|C92]]
 
 ### Ownership (1)
 
-- [[Peter Thiel]] *co-founder* [[Palantir Technologies (PLTR)]] · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
+- [[Peter Thiel]] *co-founder* [[Palantir Technologies (PLTR)]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 
 ### Media (1)
 
-- [[Donald Trump]] *endorsed by ticker '(PLTR)' on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C20 Trump's securities purchases and his Truth Social posts|C20]]
+- [[Donald Trump]] *endorsed by ticker '(PLTR)' on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 
 ### Commercial (3)
 
-- [[ICE]] *ImmigrationOS contract* [[Palantir Technologies (PLTR)]] · 2025-04 · $30M · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
-- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir Technologies (PLTR)]] · 2025-07-31 · $10B · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
-- [[US Navy]] *ShipOS, up to $448M* [[Palantir Technologies (PLTR)]] · 2025-12-09 · $448M · [[C69 Master timeline money events and government actions|C69]]
+- [[ICE]] *ImmigrationOS contract* [[Palantir Technologies (PLTR)]] · 2025-04 · $30M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir Technologies (PLTR)]] · 2025-07-31 · $10B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[US Navy]] *ShipOS, up to $448M* [[Palantir Technologies (PLTR)]] · 2025-12-09 · $448M · [[C69 Master Timeline Money Events & Government Actions|C69]]

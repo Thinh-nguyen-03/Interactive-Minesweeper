@@ -18,12 +18,12 @@ Feb 2024 amendment allowing strategic tourism investment in protected areas.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C45 Kushner's resort projects in Albania and Serbia]] · Mostly accurate
+- [[C45 Kushner's Resort Projects in Albania & Serbia]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Albania]] *enacted protected-areas amendment* [[Albania Law 21 2024 (Protected Areas amendment)]] · 2024-02-22 · [[C45 Kushner's resort projects in Albania and Serbia|C45]]
+- [[Albania]] *enacted protected-areas amendment* [[Albania Law 21 2024 (Protected Areas amendment)]] · 2024-02-22 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]

@@ -21,12 +21,12 @@ US war with Iran (strikes began 28 Feb 2026); context for the possible UAE curre
 | Connections | 2 |
 | Also known as | Iran crisis |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C08 AI chip exports to the UAE, Stargate and a possible currency swap]] · Mostly accurate
+- [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Iran war crisis]] *prompted* [[Possible UAE currency swap]] · [[C08 AI chip exports to the UAE, Stargate and a possible currency swap|C08]]
+- [[Iran war crisis]] *prompted* [[Possible UAE currency swap]] · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]

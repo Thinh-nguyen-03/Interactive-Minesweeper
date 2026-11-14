@@ -18,18 +18,18 @@ President of Kazakhstan.
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - President of Kazakhstan
 
-## Appears in checks
+## Appears in Checks
 
-- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
-- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
+- [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings]] · Mostly accurate
+- [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 
 ## Relationships
 
 ### Political (2)
 
-- [[Donald Trump]] *struck tungsten deal with* [[Kassym-Jomart Tokayev]] · 2025-11-06 · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
-- [[Kassym-Jomart Tokayev]] *awarded tungsten project to* [[Cove Kaz Capital Cove Capital]] · 2025-11-06 · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
+- [[Donald Trump]] *struck tungsten deal with* [[Kassym-Jomart Tokayev]] · 2025-11-06 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[Kassym-Jomart Tokayev]] *awarded tungsten project to* [[Cove Kaz Capital Cove Capital]] · 2025-11-06 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]

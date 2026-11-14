@@ -18,16 +18,16 @@ Lagos truck/equipment dealer run by Massad Boulos; part of the Fadoul group
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Fadoul Group]] *controls* [[SCOA Nigeria PLC]] · [[C66 The extended family's ventures and roles|C66]]
+- [[Fadoul Group]] *controls* [[SCOA Nigeria PLC]] · [[C66 The Extended Family's Ventures & Roles|C66]]
 
 ### Commercial (1)
 
-- [[Massad Boulos]] *managing director of* [[SCOA Nigeria PLC]] · [[C66 The extended family's ventures and roles|C66]]
+- [[Massad Boulos]] *managing director of* [[SCOA Nigeria PLC]] · [[C66 The Extended Family's Ventures & Roles|C66]]

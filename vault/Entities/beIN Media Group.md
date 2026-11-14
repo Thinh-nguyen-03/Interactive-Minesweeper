@@ -18,12 +18,12 @@ Qatari broadcaster; bought Miramax
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
+- [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[beIN Media Group]] *bought from Colony and QIA* [[Miramax]] · 2016-03 · [[C73 Qatar's ties to people in and around the administration|C73]]
+- [[beIN Media Group]] *bought from Colony and QIA* [[Miramax]] · 2016-03 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]

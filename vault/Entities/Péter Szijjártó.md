@@ -18,12 +18,12 @@ Hungarian foreign minister; met Don Jr. on 25 Apr 2025.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
+- [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Donald Trump Jr]] *brief informal meeting in Budapest during business trip (Telex)* [[Péter Szijjártó]] · 2025-04-25 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]
+- [[Donald Trump Jr]] *brief informal meeting in Budapest during business trip (Telex)* [[Péter Szijjártó]] · 2025-04-25 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]

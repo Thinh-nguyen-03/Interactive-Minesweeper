@@ -18,14 +18,14 @@ Crypto regulator chaired by Bin Saqib; issued NOCs to Binance and HTX.
 | Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (3)
 
-- [[Pakistan Virtual Assets Regulatory Authority]] *no-objection certificate* [[Binance]] · 2025-12 · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
-- [[Pakistan Virtual Assets Regulatory Authority]] *no-objection certificate* [[HTX (formerly Huobi)]] · 2025-12 · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
-- [[Bilal Bin Saqib]] *chairman* [[Pakistan Virtual Assets Regulatory Authority]] · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
+- [[Pakistan Virtual Assets Regulatory Authority]] *no-objection certificate* [[Binance]] · 2025-12 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
+- [[Pakistan Virtual Assets Regulatory Authority]] *no-objection certificate* [[HTX (formerly Huobi)]] · 2025-12 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
+- [[Bilal Bin Saqib]] *chairman* [[Pakistan Virtual Assets Regulatory Authority]] · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]

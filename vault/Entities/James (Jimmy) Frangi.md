@@ -18,12 +18,12 @@ Michael Boulos's cousin; yacht broker; arranged the Allam meeting
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 
 ## Relationships
 
 ### Family (1)
 
-- [[James (Jimmy) Frangi]] *cousin; arranged Allam meeting; yacht-brokerage employer* [[Michael Boulos]] · 2022 · [[C66 The extended family's ventures and roles|C66]]
+- [[James (Jimmy) Frangi]] *cousin; arranged Allam meeting; yacht-brokerage employer* [[Michael Boulos]] · 2022 · [[C66 The Extended Family's Ventures & Roles|C66]]

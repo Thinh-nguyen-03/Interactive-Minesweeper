@@ -18,12 +18,12 @@ NFT company; SEC probe closed Mar 2025
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C43 Overlap between dropped enforcement cases and Trump donors]] · Mostly accurate
+- [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Securities and Exchange Commission]] *closed investigation* [[Yuga Labs]] · 2025-03-03 · [[C43 Overlap between dropped enforcement cases and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *closed investigation* [[Yuga Labs]] · 2025-03-03 · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]

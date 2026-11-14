@@ -18,22 +18,22 @@ Trump's daughter; reported by some outlets (not all) as a foundation trustee
 | Appears in | 2 checks |
 | Connections | 5 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Trump's daughter, married to Michael Boulos (Nov 2022)
 
-## Appears in checks
+## Appears in Checks
 
-- [[C48 The Trump presidential library foundation's money and land]] · Mostly accurate
-- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C48 The Trump Presidential Library Foundation's Money & Land]] · Mostly accurate
+- [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 
 ## Relationships
 
 ### Family (2)
 
-- [[Michael Boulos]] *married to* [[Tiffany Trump]] · 2022-11-12 · [[C48 The Trump presidential library foundation's money and land|C48]] [[C66 The extended family's ventures and roles|C66]]
-- [[Donald Trump]] *father of* [[Tiffany Trump]] · [[C66 The extended family's ventures and roles|C66]]
+- [[Michael Boulos]] *married to* [[Tiffany Trump]] · 2022-11-12 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C66 The Extended Family's Ventures & Roles|C66]]
+- [[Donald Trump]] *father of* [[Tiffany Trump]] · [[C66 The Extended Family's Ventures & Roles|C66]]
 
 ### Commercial (1)
 
-- [[Tiffany Trump]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] · 2025-07 · [[C66 The extended family's ventures and roles|C66]]
+- [[Tiffany Trump]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] · 2025-07 · [[C66 The Extended Family's Ventures & Roles|C66]]

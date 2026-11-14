@@ -18,12 +18,12 @@ Director of 'Melania'.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C44 Amazon's $40 million Melania Trump documentary deal]] · Mostly accurate
+- [[C44 Amazon's $40 Million Melania Trump Documentary Deal]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Brett Ratner]] *directed* [[Melania (2026 film)]] · [[C44 Amazon's $40 million Melania Trump documentary deal|C44]]
+- [[Brett Ratner]] *directed* [[Melania (2026 film)]] · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]

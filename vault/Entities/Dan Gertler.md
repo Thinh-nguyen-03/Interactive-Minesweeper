@@ -18,12 +18,12 @@ US-sanctioned Israeli mining magnate whose royalties stall the Orion-Glencore de
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
+- [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Dan Gertler]] *royalty claims stall stake sale* [[Glencore]] · 2026-03 · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[Dan Gertler]] *royalty claims stall stake sale* [[Glencore]] · 2026-03 · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]

@@ -18,12 +18,12 @@ US anti-bribery statute Raskin cited.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C45 Kushner's resort projects in Albania and Serbia]] · Mostly accurate
+- [[C45 Kushner's Resort Projects in Albania & Serbia]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Jamie Raskin]] *cited as possible basis for scrutiny* [[Foreign Corrupt Practices Act]] · 2026-08-24 · [[C45 Kushner's resort projects in Albania and Serbia|C45]]
+- [[Jamie Raskin]] *cited as possible basis for scrutiny* [[Foreign Corrupt Practices Act]] · 2026-08-24 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]

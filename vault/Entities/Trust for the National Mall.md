@@ -18,19 +18,19 @@ Nonprofit that receives ballroom donations; contract allows donor anonymity
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Nonprofit receiving ballroom donations and YouTube's $22M
 
-## Appears in checks
+## Appears in Checks
 
-- [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom]] · Mostly accurate
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom]] · Mostly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Money (3)
 
-- [[Alphabet (Google)]] *paid $22M of $24.5M YouTube settlement for ballroom* [[Trust for the National Mall]] · 2025-09-29 · $22M · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]
-- [[Trust for the National Mall]] *receives and administers donations for* [[White House ballroom]] · 2025-10 · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]
-- [[White House ballroom]] *donations administered by* [[Trust for the National Mall]] · [[C92 The White House ballroom donor list|C92]]
+- [[Alphabet (Google)]] *paid $22M of $24.5M YouTube settlement for ballroom* [[Trust for the National Mall]] · 2025-09-29 · $22M · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
+- [[Trust for the National Mall]] *receives and administers donations for* [[White House ballroom]] · 2025-10 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
+- [[White House ballroom]] *donations administered by* [[Trust for the National Mall]] · [[C92 The White House Ballroom Donor List|C92]]

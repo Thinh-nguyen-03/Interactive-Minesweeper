@@ -18,13 +18,13 @@ Argentine federal judge who closed the LIBRA criminal case in Oct 2026
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C40 Who ran the $TRUMP and $MELANIA launches]] · Mostly accurate
+- [[C40 Who Ran the $TRUMP & $MELANIA Launches]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (2)
 
-- [[Judge Marcelo Martínez de Giorgi]] *dismissed LIBRA criminal case against* [[Hayden Davis]] · 2026-10 · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]
-- [[Judge Marcelo Martínez de Giorgi]] *dismissed LIBRA criminal case against* [[Javier Milei]] · 2026-10 · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]
+- [[Judge Marcelo Martínez de Giorgi]] *dismissed LIBRA criminal case against* [[Hayden Davis]] · 2026-10 · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
+- [[Judge Marcelo Martínez de Giorgi]] *dismissed LIBRA criminal case against* [[Javier Milei]] · 2026-10 · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]

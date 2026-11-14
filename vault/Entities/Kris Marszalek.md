@@ -18,12 +18,12 @@ Crypto.com CEO who announced the SEC closure
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
+- [[C22 Crypto.com's Deal with Trump Media]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Kris Marszalek]] *CEO of* [[Crypto.com]] · [[C22 Crypto.com's deal with Trump Media|C22]]
+- [[Kris Marszalek]] *CEO of* [[Crypto.com]] · [[C22 Crypto.com's Deal with Trump Media|C22]]

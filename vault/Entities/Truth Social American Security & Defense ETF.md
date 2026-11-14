@@ -18,12 +18,12 @@ One of the Truth Social ETFs.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C24 Trump Media's ETFs, the TAE fusion merger and its losses]] · Mostly accurate
+- [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Truth Social ETFs]] *includes* [[Truth Social American Security & Defense ETF]] · [[C24 Trump Media's ETFs, the TAE fusion merger and its losses|C24]]
+- [[Truth Social ETFs]] *includes* [[Truth Social American Security & Defense ETF]] · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]]

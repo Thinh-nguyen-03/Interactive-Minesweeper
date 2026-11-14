@@ -18,17 +18,17 @@ FCC chair who led the Skydance-Paramount approval
 | Appears in | 2 checks |
 | Connections | 3 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - FCC chair
 
-## Appears in checks
+## Appears in Checks
 
-- [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom]] · Mostly accurate
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom]] · Mostly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Brendan Carr]] *chairs* [[Federal Communications Commission]] · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]
+- [[Brendan Carr]] *chairs* [[Federal Communications Commission]] · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]

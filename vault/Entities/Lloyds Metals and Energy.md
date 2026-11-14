@@ -18,12 +18,12 @@ Indian partner in the Virtus-Lloyds Chemaf JV.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
+- [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Lloyds Metals and Energy]] *JV partner in Chemaf deal* [[Virtus Minerals]] · 2026-03 · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[Lloyds Metals and Energy]] *JV partner in Chemaf deal* [[Virtus Minerals]] · 2026-03 · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]

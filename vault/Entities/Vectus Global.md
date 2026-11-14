@@ -18,16 +18,16 @@ Erik Prince's firm doing tax and security work for Kinshasa.
 | Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
+- [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Erik Prince]] *runs* [[Vectus Global]] · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[Erik Prince]] *runs* [[Vectus Global]] · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]
 
 ### Commercial (1)
 
-- [[Vectus Global]] *five-year tax/security contract with* [[Democratic Republic of the Congo]] · 2024-12 · $100M · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[Vectus Global]] *five-year tax/security contract with* [[Democratic Republic of the Congo]] · 2024-12 · $100M · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]

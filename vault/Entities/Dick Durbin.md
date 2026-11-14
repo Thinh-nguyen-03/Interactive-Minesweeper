@@ -18,12 +18,12 @@ Senate Judiciary ranking member; recipient of Curtis letter.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate
+- [[C38 Polymarket Probes Closed Before 1789 Capital Invested]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Dick Durbin]] *ranking member of* [[Senate Judiciary Committee]] · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
+- [[Dick Durbin]] *ranking member of* [[Senate Judiciary Committee]] · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]

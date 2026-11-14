@@ -18,12 +18,12 @@ Presidential aircraft role the Qatari jet was to fill.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
+- [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Qatar Boeing 747 gift]] *to serve as* [[Air Force One]] · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]]
+- [[Qatar Boeing 747 gift]] *to serve as* [[Air Force One]] · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]

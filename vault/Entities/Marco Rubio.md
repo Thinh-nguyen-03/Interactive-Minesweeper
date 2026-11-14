@@ -18,24 +18,24 @@ Secretary of State; invoked emergency waiver for 2026 sales
 | Appears in | 3 checks |
 | Connections | 6 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - Secretary of State; thanked by KoBold for the Manono deal.
 - Secretary of State credited by Cove.
 
-## Appears in checks
+## Appears in Checks
 
-- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
-- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
-- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
+- [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project]] · Mostly accurate
+- [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings]] · Mostly accurate
+- [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Marco Rubio]] *invoked emergency waiver of congressional review for* [[2026 Qatar Patriot and APKWS sales]] · 2026-05 · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]]
+- [[Marco Rubio]] *invoked emergency waiver of congressional review for* [[2026 Qatar Patriot and APKWS sales]] · 2026-05 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
 
 ### Political (2)
 
-- [[KoBold Metals]] *credited for Manono deal* [[Marco Rubio]] · 2025 · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
-- [[Marco Rubio]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
+- [[KoBold Metals]] *credited for Manono deal* [[Marco Rubio]] · 2025 · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]
+- [[Marco Rubio]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]

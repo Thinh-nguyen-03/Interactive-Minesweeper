@@ -18,22 +18,22 @@ OCC trust charter conversion approved 2025-12-12
 | Appears in | 2 checks |
 | Connections | 4 |
 
-## How other checks describe it
+## How Other Checks Describe It
 
 - OCC conversion approval Dec 2025
 
-## Appears in checks
+## Appears in Checks
 
-- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate
-- [[C92 The White House ballroom donor list]] · Partly accurate
+- [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles]] · Mostly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Charles Cascarilla]] *CEO and co-founder* [[Paxos]] · [[C92 The White House ballroom donor list|C92]]
+- [[Charles Cascarilla]] *CEO and co-founder* [[Paxos]] · [[C92 The White House Ballroom Donor List|C92]]
 
 ### Regulatory (2)
 
-- [[Office of the Comptroller of the Currency]] *approved national trust charter conversion* [[Paxos]] · 2025-12-12 · [[C92 The White House ballroom donor list|C92]]
-- [[Office of the Comptroller of the Currency]] *conditional conversion* [[Paxos]] · 2025-12-12 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
+- [[Office of the Comptroller of the Currency]] *approved national trust charter conversion* [[Paxos]] · 2025-12-12 · [[C92 The White House Ballroom Donor List|C92]]
+- [[Office of the Comptroller of the Currency]] *conditional conversion* [[Paxos]] · 2025-12-12 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]

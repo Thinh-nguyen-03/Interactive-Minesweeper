@@ -12,7 +12,7 @@ tags:
 
 Israeli PM; book alleges he encouraged the Bank of Israel 'Beta' account; no response found.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C46 The alleged Kushner Gulf accounts|C46]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C46 The Alleged Kushner Gulf Accounts|C46]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
@@ -20,12 +20,12 @@ Israeli PM; book alleges he encouraged the Bank of Israel 'Beta' account; no res
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C46 The alleged Kushner Gulf accounts]] · Unverified · unverified allegation, single source
+- [[C46 The Alleged Kushner Gulf Accounts]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
 ### Political (1)
 
-- [[Benjamin Netanyahu]] *allegedly encouraged Bank of Israel account for (unverified)* [[Jared Kushner]] · 2018 · [[C46 The alleged Kushner Gulf accounts|C46]] · unverified allegation
+- [[Benjamin Netanyahu]] *allegedly encouraged Bank of Israel account for (unverified)* [[Jared Kushner]] · 2018 · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation

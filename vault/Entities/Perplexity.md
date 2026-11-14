@@ -18,12 +18,12 @@ AI search; $0.25 direct OneGov deal Nov 2025; Thrive stake per aggregators only.
 | Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in checks
+## Appears in Checks
 
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[General Services Administration]] *OneGov Perplexity $0.25/agency* [[Perplexity]] · 2025-11-19 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[General Services Administration]] *OneGov Perplexity $0.25/agency* [[Perplexity]] · 2025-11-19 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
