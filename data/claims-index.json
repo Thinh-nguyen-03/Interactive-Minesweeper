@@ -323,5 +323,94 @@
   "parents": [
    "C15"
   ]
+ },
+ {
+  "id": "C38",
+  "slug": "polymarket-probes-dropped",
+  "lines": "",
+  "title": "Polymarket probes dropped before 1789 Capital invested; federal push for prediction markets",
+  "claim": "Lead from C25: the DOJ and CFTC reportedly closed their investigations of Polymarket in July 2025, about a month before Don Jr.'s 1789 Capital invested and he joined its advisory board; the White House (not only Don Jr.) reportedly lobbied state officials over prediction markets; Selig's CFTC sued states (AZ, CT, IL, NY, WI) to defend the industry; Sen. Curtis sought a Senate Judiciary probe. Verify dates, amounts, who decided, and denials.",
+  "origin": "follow-up",
+  "parents": [
+   "C25",
+   "C26"
+  ]
+ },
+ {
+  "id": "C39",
+  "slug": "dominari-trump-sons-smallcaps",
+  "lines": "",
+  "title": "Dominari Holdings and the Trump sons' small-cap network",
+  "claim": "Lead from C18/C27: Don Jr. and Eric Trump became advisers to and major shareholders of Dominari Holdings (a Trump Tower-based broker) whose stock soared; Dominari co-founded American Data Centers/American Bitcoin with them and co-underwrote their SPAC (its president Kyle Wool sits on the SPAC board); related small-cap deals include Thumzup, GrabAGun/Colombier II, Unusual Machines, and others where a Trump son's arrival preceded a share-price spike. Verify stakes, gains, timing, any SEC/FINRA scrutiny and denials.",
+  "origin": "follow-up",
+  "parents": [
+   "C18",
+   "C27"
+  ]
+ },
+ {
+  "id": "C40",
+  "slug": "memecoin-insiders-hayden-davis-meteora",
+  "lines": "",
+  "title": "Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)",
+  "claim": "Lead from C01/C02: a class action and on-chain reporting allege the $MELANIA launch (and the Argentine $LIBRA coin) were run by Hayden Davis/Kelsier Ventures with Meteora co-founder Benjamin Chow as a pump-and-dump, with insiders taking ~$10M+ while public figures were 'props'; who actually operated $TRUMP (Bill Zanker, Fight Fight Fight LLC, CIC Digital), early-wallet sniping profits, trading-fee revenue, and the status of the litigation and any regulatory action. Verify.",
+  "origin": "follow-up",
+  "parents": [
+   "C01",
+   "C02"
+  ]
+ },
+ {
+  "id": "C41",
+  "slug": "tmtg-followups-api-nunes-cro",
+  "lines": "",
+  "title": "Trump Media follow-ups: API customers, SEC complaint, Nunes, CRO treasury deal",
+  "claim": "Leads from C21/C22/C24: Bloomberg, Susquehanna and Jump Trading reportedly subscribe to the Truth API; Sens. Warren and Schiff asked the SEC to investigate and the SEC's response; Devin Nunes left TMTG (Apr 2026) and was named chair of the President's Intelligence Advisory Board; board members Lighthizer and Swider resigned; the $6.4B CRO-token treasury venture with Crypto.com/Yorkville and its reported termination; a planned Truth Social utility token; TAE's CEO lobbying DOE before the merger. Verify each.",
+  "origin": "follow-up",
+  "parents": [
+   "C21",
+   "C22",
+   "C24"
+  ]
+ },
+ {
+  "id": "C42",
+  "slug": "wlf-insider-extraction",
+  "lines": "",
+  "title": "How World Liberty insiders took money out",
+  "claim": "Leads from C04/C05/C13/C14/C29: DT Marks DEFI LLC's entitlement to 75% of WLF net token-sale/protocol revenue; Trump's disclosed WLF income; Steve Witkoff's ~$107M 2025 income from his WLF-linked holding company and the disputed divestment; WLF insiders reportedly borrowing stablecoins against ~5B WLFI tokens as the price hit lows; the freezing of Justin Sun's and other holders' tokens; the $SPSC memecoin promotion; WLFI token price history and retail losses; who owns StringZ Holding. Verify with figures and dates.",
+  "origin": "follow-up",
+  "parents": [
+   "C04",
+   "C05",
+   "C13",
+   "C14",
+   "C29"
+  ]
+ },
+ {
+  "id": "C43",
+  "slug": "enforcement-drops-donor-overlap",
+  "lines": "",
+  "title": "Systematic overlap between dropped enforcement and Trump donors",
+  "claim": "Leads from C23: the New York Times analysis finding the SEC eased ~60% of inherited crypto cases with several tied to Trump donors/business partners; Robinhood (inaugural donor) having its SEC crypto probe closed; Public Citizen's tracker of halted corporate enforcement actions against companies with Trump ties; Crypto.com's Trump-connected lobbyist; Gemini's MAGA Inc. donation. Establish the numbers, methodology, counter-arguments (policy shift applied to non-donors too) and official responses.",
+  "origin": "follow-up",
+  "parents": [
+   "C23",
+   "C22",
+   "C09"
+  ]
+ },
+ {
+  "id": "C44",
+  "slug": "melania-amazon-documentary",
+  "lines": "",
+  "title": "Melania Trump's Amazon documentary deal",
+  "claim": "Lead from C02/C29: Amazon reportedly paid ~$40M to license a Melania Trump documentary (she reportedly netted ~$10.7M+ in 2025), far above rival bids, while Amazon/Jeff Bezos had major business before the administration (antitrust case, federal cloud and Blue Origin/Kuiper contracts, tariffs); also Bezos's inauguration donation and Washington Post changes. Verify the amounts, the competing bids, timing versus government decisions, and denials.",
+  "origin": "follow-up",
+  "parents": [
+   "C02",
+   "C29"
+  ]
  }
 ]

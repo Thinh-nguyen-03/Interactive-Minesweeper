@@ -1,0 +1,594 @@
+{
+  "id": "C30",
+  "title": "Framing: polls, supporters turning, Bannon, lawyer threat",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Gallup's September 2026 poll found a record 89% of Americans say government corruption is widespread, the highest reading in its 20-year trend. The rise is driven by Democrats; Republican perception fell slightly. Several montage speakers are real, MAGA-friendly commentators who have turned critical: Tucker Carlson and Shawn Ryan (May 2025), Megyn Kelly (May 2026) and Joe Rogan (Aug 2026). The 'most corrupt presidency' line and the '$600 million' scam clip could not be tied to a named former supporter. The Bannon 'flood the zone / muzzle velocity' audio matches a documented 2019 PBS Frontline interview. The guests are real journalists with the stated affiliations. The lawyer threat and the unanswered requests for comment rest only on the video.",
+  "sub_claims": [
+    {
+      "statement": "Public opinion polls on government corruption are at their highest level in 20 years.",
+      "verdict": "confirmed",
+      "finding": "Gallup's 2026 poll (released Sept 2026): 89% say corruption is widespread in government. That is up from 79% in 2025, a record in the 20-year trend that started at 59%, and the 2010-2025 range was 72-79%. Democrats 91% (57% in 2024), independents 90%, Republicans 83% (87% two years earlier). The question measures perceived corruption in government generally, not in this administration specifically.",
+      "sources": [
+        "https://newschannel9.com/news/nation-world/views-of-widespread-government-corruption-at-record-high-gallup",
+        "https://www.ktvu.com/news/gallup-poll-americans-government-corruption",
+        "https://gvwire.com/2026/09/15/record-89-of-americans-say-government-corruption-is-widespread-gallup-finds/"
+      ]
+    },
+    {
+      "statement": "Some of Trump's biggest former supporters now call him one of the most corrupt presidents in history.",
+      "verdict": "partly-accurate",
+      "finding": "Identified clips: Shawn Ryan ('brand new hotel going up in Dubai... worries me') and Tucker Carlson ('it seems like corruption, yeah') on The Shawn Ryan Show, May 2025; Megyn Kelly ('didn't expect the corruption to be quite as widespread... lining of his and his family's pockets'), May 25-26, 2026; Joe Rogan ('This government has done some shit that no government has ever done before... The crypto stuff's nuts'), Aug 2026. Not identified: the 'most corrupt presidency in U.S. history... NFTs and the meme coin' clip, 'sacks of cash', 'rug pulls', and '$600 million'. Most identified critics say 'corruption' or 'self-dealing'. The 'most corrupt in history' superlative was found mainly from Democrats.",
+      "sources": [
+        "https://www.mediaite.com/politics/seems-like-corruption-tucker-carlson-criticizes-trump-deal-to-build-hotels-and-resorts-in-gulf",
+        "https://politicalwire.com/2026/05/26/bonus-quote-of-the-day-2374/",
+        "https://tyla.com/news/politics/megyn-kelly-donald-trump-interview-corruption-906950-20260525",
+        "https://www.newsweek.com/joe-rogan-calls-out-trump-family-for-making-billions-during-presidency-12320634",
+        "https://www.mediamatters.org/donald-trump/trumps-self-dealing-president-under-microscope-some-right-wing-media-are-speaking"
+      ]
+    },
+    {
+      "statement": "A quoted critic says the president scammed his supporters out of $600 million.",
+      "verdict": "unverified",
+      "finding": "The speaker was not identified, and no published figure of $600M was found. The closest figures are about $635M in meme-coin royalties on Trump's June 2026 disclosure and $2B-$3.8B in estimated losses for $TRUMP buyers. The Jan. 6 committee's 'election defense fund' figure was $250M.",
+      "sources": [
+        "https://startupfortune.com/trumps-financial-disclosure-shows-635-million-in-meme-coin-royalties-while-retail-buyers-lost-more-than-700-million/",
+        "https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/"
+      ]
+    },
+    {
+      "statement": "Steve Bannon described a 'flood the zone' / 'muzzle velocity' media strategy.",
+      "verdict": "confirmed",
+      "finding": "Secondary sources quote a 2019 PBS Frontline interview: 'All we have to do is flood the zone... But we've got to start with muzzle velocity.' The better-known 'flood the zone with shit' quote is from a 2018 conversation with Michael Lewis. The PBS transcript could not be fetched, so the 'three things a day' wording was not checked word for word. The claim that the strategy is used to bury family-business stories is the video's interpretation.",
+      "sources": [
+        "https://antiauthoritarianplaybook.substack.com/p/the-flood-the-zone-strategy-59c",
+        "https://abc17news.com/money/cnn-business-consumer/2021/11/16/this-infamous-steve-bannon-quote-is-key-to-understanding-americas-crazy-politics-2/",
+        "https://www.pbs.org/wgbh/frontline/interview/steve-bannon-3"
+      ]
+    },
+    {
+      "statement": "Days before publishing, Coffeezilla was threatened about the story by a lawyer.",
+      "verdict": "unverified",
+      "finding": "No independent report was found, and no lawyer or client is named. Coffeezilla has a documented history of legal threats and suits (FaZe Kay in 2021, Logan Paul's CryptoZoo defamation suit).",
+      "sources": [
+        "https://cointelegraph.com/news/coffeezilla-logan-paul-lawsuit-investigations"
+      ]
+    },
+    {
+      "statement": "Don Jr., Eric Trump, Melania Trump and Donald Trump did not respond to requests for comment.",
+      "verdict": "unverified",
+      "finding": "Only the author can know this. 'Alania' is a transcription error for Melania. WLF did supply denials.",
+      "sources": []
+    },
+    {
+      "statement": "The video features Molly White, Sam Kessler (WSJ) and Isaac Saul (Tangle).",
+      "verdict": "confirmed",
+      "finding": "Molly White runs Citation Needed and Web3 Is Going Just Great and tracks Trump-family crypto ventures. Sam Kessler was hired as a WSJ data reporter in June 2025. He was formerly at CoinDesk, where he led its WLF investigation, and he was lead reporter on the WSJ report about Tahnoon's 49% WLF stake. Isaac Saul is the founder and executive editor of Tangle and compiled an extensive account of the family's self-dealing (Bulwark, May 2026).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Molly_White",
+        "https://www.citationneeded.news/trump-crypto-empire/",
+        "https://talkingbiznews.com/media-news/wsj-hires-kessler-as-a-data-reporter/",
+        "https://www.thebulwark.com/p/isaac-saul-the-mind-blowing-self"
+      ]
+    }
+  ],
+  "corrections": [
+    "Transcript says 'Alania Trump'; this is Melania Trump.",
+    "The 'it seems like corruption, yeah' clip is Tucker Carlson in May 2025, about Trump Organization Gulf real-estate deals. It is neither recent nor about crypto.",
+    "No published source supports '$600 million'. The documented figures are about $635M in meme-coin royalties to Trump and $2B-$3.8B in estimated buyer losses.",
+    "Gallup's 89% is not merely a 20-year high. It is the highest reading in the entire 20-year series, and it measures perceived corruption in 'government' generally."
+  ],
+  "denials_and_context": [
+    "White House: 'President Trump has been the most transparent president in history.' Trump Organization: 'fully compliant with all applicable ethics and conflicts of interest laws.' Trump calls the family's crypto income 'nothing illegal.'",
+    "Rogan himself said the crypto dealings are 'shady... but it's legal.'",
+    "The rise in Gallup's figure comes mainly from Democrats (57% to 91% since 2024). Republican perception fell from 87% to 83%.",
+    "Defenders said Shawn Ryan's examples were legal settlements, private investments and an official foreign gift.",
+    "The montage combines clips from May 2025 to Aug 2026. Several speakers criticize 'corruption' or 'self-dealing' without using the 'most corrupt in history' superlative.",
+    "Research limits: direct fetches to Gallup, PBS, Daily Beast and several local-news sites were blocked, and the search budget ran out before the Iran-war aside and coverage of the video itself could be checked."
+  ],
+  "sources": [
+    {
+      "title": "Views of widespread government corruption at record high: Gallup",
+      "publisher": "Sinclair / NewsChannel 9",
+      "url": "https://newschannel9.com/news/nation-world/views-of-widespread-government-corruption-at-record-high-gallup",
+      "date": "2026-09"
+    },
+    {
+      "title": "More Americans than ever say government corruption is 'widespread,' poll finds",
+      "publisher": "FOX TV Stations (KTVU)",
+      "url": "https://www.ktvu.com/news/gallup-poll-americans-government-corruption",
+      "date": "2026-09"
+    },
+    {
+      "title": "Record 89% of Americans say government corruption is widespread, Gallup finds",
+      "publisher": "GV Wire",
+      "url": "https://gvwire.com/2026/09/15/record-89-of-americans-say-government-corruption-is-widespread-gallup-finds/",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "'Seems Like Corruption': Tucker Carlson criticizes Trump deal to build hotels and resorts in Gulf",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/politics/seems-like-corruption-tucker-carlson-criticizes-trump-deal-to-build-hotels-and-resorts-in-gulf",
+      "date": "2025-05"
+    },
+    {
+      "title": "Tucker Carlson says Trump's deal to build hotel in the Middle East 'seems like corruption'",
+      "publisher": "Yahoo News",
+      "url": "https://www.yahoo.com/news/tucker-carlson-says-trump-deal-181825696.html",
+      "date": "2025-05"
+    },
+    {
+      "title": "Bonus quote of the day (Megyn Kelly)",
+      "publisher": "Political Wire",
+      "url": "https://politicalwire.com/2026/05/26/bonus-quote-of-the-day-2374/",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "Megyn Kelly slams Donald Trump with 'shocking' corruption claim",
+      "publisher": "Tyla",
+      "url": "https://tyla.com/news/politics/megyn-kelly-donald-trump-interview-corruption-906950-20260525",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "Shawn Ryan goes off on 'very self-serving' Trump and cronies in exchange with Megyn Kelly",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/media/what-the-fck-is-that-sht-shawn-ryan-goes-off-on-very-self-serving-trump-and-cronies-in-stunning-exchange-with-megyn-kelly/",
+      "date": "2026-06"
+    },
+    {
+      "title": "Shawn Ryan mocks Trump's pledge to drain the swamp",
+      "publisher": "Media Matters",
+      "url": "https://www.mediamatters.org/donald-trump/shawn-ryan-mocks-trumps-pledge-drain-swamp-he-fucking-swamp",
+      "date": "2026"
+    },
+    {
+      "title": "Joe Rogan calls out Trump family for making billions during presidency",
+      "publisher": "Newsweek",
+      "url": "https://www.newsweek.com/joe-rogan-calls-out-trump-family-for-making-billions-during-presidency-12320634",
+      "date": "2026-08"
+    },
+    {
+      "title": "Joe Rogan sounds alarm over Trump family's billion-dollar crypto and business deals",
+      "publisher": "The Source",
+      "url": "https://thesource.com/2026/08/13/joe-rogan-sounds-alarm-over-trump-familys-billion-dollar-crypto-and-business-deals/",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Trump's self-dealing under microscope: some right-wing media are speaking up",
+      "publisher": "Media Matters",
+      "url": "https://www.mediamatters.org/donald-trump/trumps-self-dealing-president-under-microscope-some-right-wing-media-are-speaking",
+      "date": "2026"
+    },
+    {
+      "title": "This infamous Steve Bannon quote is key to understanding America's crazy politics",
+      "publisher": "CNN (via ABC17)",
+      "url": "https://abc17news.com/money/cnn-business-consumer/2021/11/16/this-infamous-steve-bannon-quote-is-key-to-understanding-americas-crazy-politics-2/",
+      "date": "2021-11-16"
+    },
+    {
+      "title": "The 'Flood the Zone' Strategy",
+      "publisher": "Anti-Authoritarian Playbook (Substack)",
+      "url": "https://antiauthoritarianplaybook.substack.com/p/the-flood-the-zone-strategy-59c",
+      "date": "n.d."
+    },
+    {
+      "title": "FRONTLINE interview: Steve Bannon",
+      "publisher": "PBS Frontline",
+      "url": "https://www.pbs.org/wgbh/frontline/interview/steve-bannon-3",
+      "date": "2019-03-17"
+    },
+    {
+      "title": "WSJ hires Kessler as a data reporter",
+      "publisher": "Talking Biz News",
+      "url": "https://talkingbiznews.com/media-news/wsj-hires-kessler-as-a-data-reporter/",
+      "date": "2025-06-24"
+    },
+    {
+      "title": "Molly White",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Molly_White",
+      "date": "2026"
+    },
+    {
+      "title": "Trump crypto empire",
+      "publisher": "Citation Needed",
+      "url": "https://www.citationneeded.news/trump-crypto-empire/",
+      "date": "2026"
+    },
+    {
+      "title": "Isaac Saul: The Mind-Blowing Self-Dealing in the Oval Office",
+      "publisher": "The Bulwark",
+      "url": "https://www.thebulwark.com/p/isaac-saul-the-mind-blowing-self",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Trump's financial disclosure shows $635 million in meme coin royalties",
+      "publisher": "Startup Fortune",
+      "url": "https://startupfortune.com/trumps-financial-disclosure-shows-635-million-in-meme-coin-royalties-while-retail-buyers-lost-more-than-700-million/",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Trump scammed supporters out of $250 million for nonexistent fraud fund",
+      "publisher": "Rolling Stone",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/",
+      "date": "2022-06"
+    },
+    {
+      "title": "Coffeezilla / Logan Paul lawsuit",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/coffeezilla-logan-paul-lawsuit-investigations",
+      "date": "2024"
+    },
+    {
+      "title": "'The most corrupt thing a president has ever done'",
+      "publisher": "Office of Sen. Chris Murphy",
+      "url": "https://www.murphy.senate.gov/newsroom/in-the-news/the-most-corrupt-thing-a-president-has-ever-done",
+      "date": "2025"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; subject of the corruption framing; did not reply to Coffeezilla per the video"
+    },
+    {
+      "id": "melania-trump",
+      "name": "Melania Trump",
+      "type": "person",
+      "description": "First Lady; did not reply to Coffeezilla per the video ('Alania' in the transcript)"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Trump son; did not reply to Coffeezilla per the video"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump son; did not reply to Coffeezilla per the video"
+    },
+    {
+      "id": "steve-bannon",
+      "name": "Steve Bannon",
+      "type": "person",
+      "description": "Former Trump chief strategist; coined the 'flood the zone' / 'muzzle velocity' media strategy"
+    },
+    {
+      "id": "coffeezilla",
+      "name": "Coffeezilla (Stephen Findeisen)",
+      "type": "media",
+      "description": "YouTuber who made 'Investigating The President'"
+    },
+    {
+      "id": "molly-white",
+      "name": "Molly White",
+      "type": "person",
+      "description": "Independent crypto researcher (Citation Needed); featured in the video"
+    },
+    {
+      "id": "sam-kessler",
+      "name": "Sam Kessler",
+      "type": "person",
+      "description": "WSJ data reporter, ex-CoinDesk; featured in the video"
+    },
+    {
+      "id": "isaac-saul",
+      "name": "Isaac Saul",
+      "type": "person",
+      "description": "Founder of Tangle; featured in the video"
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "The Wall Street Journal",
+      "type": "media",
+      "description": "Employer of Sam Kessler"
+    },
+    {
+      "id": "tangle-news",
+      "name": "Tangle",
+      "type": "media",
+      "description": "Independent politics newsletter founded by Isaac Saul"
+    },
+    {
+      "id": "citation-needed",
+      "name": "Citation Needed",
+      "type": "media",
+      "description": "Molly White's newsletter; tracks Trump-family crypto"
+    },
+    {
+      "id": "gallup",
+      "name": "Gallup",
+      "type": "company",
+      "description": "Pollster; 2026 survey found a record 89% see widespread government corruption"
+    },
+    {
+      "id": "gallup-corruption-poll-2026",
+      "name": "Gallup 2026 government corruption poll",
+      "type": "event",
+      "description": "Record 89% say government corruption is widespread (Sept 2026)"
+    },
+    {
+      "id": "tucker-carlson",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Conservative host; said Trump Gulf deals 'seem like corruption' (May 2025)"
+    },
+    {
+      "id": "shawn-ryan",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Ex-Navy SEAL podcaster and former Trump voter, now a critic"
+    },
+    {
+      "id": "megyn-kelly",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Conservative host; said corruption was more widespread than she expected (May 2026)"
+    },
+    {
+      "id": "joe-rogan",
+      "name": "Joe Rogan",
+      "type": "person",
+      "description": "Podcaster who backed Trump in 2024; called the family's crypto 'nuts' and 'shady' (Aug 2026)"
+    },
+    {
+      "id": "pbs-frontline",
+      "name": "PBS Frontline",
+      "type": "media",
+      "description": "Recorded the 2019 Bannon interview with the 'muzzle velocity' passage"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Gulf real-estate deals criticized by Carlson and Ryan; denies ethics violations"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto firm; supplied denials to the video"
+    },
+    {
+      "id": "trump-coin",
+      "name": "$TRUMP meme coin",
+      "type": "asset",
+      "description": "Meme coin cited in the montage ('NFTs and the meme coin')"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Says Trump is 'the most transparent president in history'"
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "Site of Trump-branded projects mentioned in the montage ('Dubai or Abu Dhabi')"
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "type": "country",
+      "description": "Referenced in the video's aside about attention shifting to a war"
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Trump son-in-law; tied to the Albania resort lead"
+    },
+    {
+      "id": "truth-social",
+      "name": "Truth Social",
+      "type": "media",
+      "description": "Trump's platform; subject of Rogan/Gillis critique (lead)"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Owner of Truth Social"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "gallup",
+      "target": "gallup-corruption-poll-2026",
+      "label": "published (record 89% see widespread govt corruption)",
+      "type": "media",
+      "date": "2026-09"
+    },
+    {
+      "source": "tucker-carlson",
+      "target": "trump-organization",
+      "label": "said Gulf deals 'seem like corruption'",
+      "type": "media",
+      "date": "2025-05"
+    },
+    {
+      "source": "shawn-ryan",
+      "target": "donald-trump",
+      "label": "former supporter turned critic; 'very self-serving'",
+      "type": "political",
+      "date": "2026-06"
+    },
+    {
+      "source": "megyn-kelly",
+      "target": "donald-trump",
+      "label": "said corruption and self-dealing more widespread than expected",
+      "type": "political",
+      "date": "2026-05"
+    },
+    {
+      "source": "joe-rogan",
+      "target": "donald-trump",
+      "label": "called family crypto deals 'nuts' and 'shady but legal'",
+      "type": "media",
+      "date": "2026-08"
+    },
+    {
+      "source": "steve-bannon",
+      "target": "donald-trump",
+      "label": "former chief strategist; architect of 'flood the zone' strategy",
+      "type": "advisory"
+    },
+    {
+      "source": "steve-bannon",
+      "target": "pbs-frontline",
+      "label": "described 'flood the zone / muzzle velocity' in interview with",
+      "type": "media",
+      "date": "2019"
+    },
+    {
+      "source": "sam-kessler",
+      "target": "wall-street-journal",
+      "label": "data reporter at",
+      "type": "media",
+      "date": "2025-06"
+    },
+    {
+      "source": "isaac-saul",
+      "target": "tangle-news",
+      "label": "founder and executive editor of",
+      "type": "media"
+    },
+    {
+      "source": "molly-white",
+      "target": "citation-needed",
+      "label": "author of",
+      "type": "media"
+    },
+    {
+      "source": "coffeezilla",
+      "target": "molly-white",
+      "label": "interviewed",
+      "type": "media",
+      "date": "2026"
+    },
+    {
+      "source": "coffeezilla",
+      "target": "sam-kessler",
+      "label": "interviewed",
+      "type": "media",
+      "date": "2026"
+    },
+    {
+      "source": "coffeezilla",
+      "target": "isaac-saul",
+      "label": "interviewed",
+      "type": "media",
+      "date": "2026"
+    },
+    {
+      "source": "coffeezilla",
+      "target": "donald-trump",
+      "label": "requested comment from (no reply, per video)",
+      "type": "media",
+      "date": "2026"
+    },
+    {
+      "source": "coffeezilla",
+      "target": "melania-trump",
+      "label": "requested comment from (no reply, per video)",
+      "type": "media",
+      "date": "2026"
+    },
+    {
+      "source": "coffeezilla",
+      "target": "donald-trump-jr",
+      "label": "requested comment from (no reply, per video)",
+      "type": "media",
+      "date": "2026"
+    },
+    {
+      "source": "coffeezilla",
+      "target": "eric-trump",
+      "label": "requested comment from (no reply, per video)",
+      "type": "media",
+      "date": "2026"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "coffeezilla",
+      "label": "supplied denials to",
+      "type": "media",
+      "date": "2026"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-coin",
+      "label": "received about $635M in royalties (2025, per June 2026 disclosure)",
+      "type": "money",
+      "date": "2026-06-30",
+      "amount_usd": 635000000
+    },
+    {
+      "source": "trump-organization",
+      "target": "uae",
+      "label": "Trump-branded projects in (Dubai)",
+      "type": "commercial",
+      "date": "2025-05"
+    },
+    {
+      "source": "melania-trump",
+      "target": "donald-trump",
+      "label": "spouse of",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "eric-trump",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Candace Owens and right-wing critics on the Trump family's Albanian island resort push",
+      "why_connected": "Another former ally attacking a family venture not covered in the video (Kushner/Trump-linked Albania project).",
+      "entities": [
+        "jared-kushner",
+        "trump-organization"
+      ],
+      "source_url": "https://www.mediamatters.org/donald-trump/trumps-self-dealing-president-under-microscope-some-right-wing-media-are-speaking"
+    },
+    {
+      "title": "Shawn Ryan's claim that Todd Blanche arranged for Trump/family never to be audited by the IRS",
+      "why_connected": "A specific allegation from a former supporter quoted in the montage; it needs its own check.",
+      "entities": [
+        "donald-trump"
+      ],
+      "source_url": "https://www.mediaite.com/media/what-the-fck-is-that-sht-shawn-ryan-goes-off-on-very-self-serving-trump-and-cronies-in-stunning-exchange-with-megyn-kelly/"
+    },
+    {
+      "title": "Rogan and Shane Gillis call the Truth Social subscription plan 'literally insider trading'",
+      "why_connected": "Same Rogan critique window; it ties to TMTG/Truth Social products.",
+      "entities": [
+        "truth-social",
+        "trump-media-technology-group"
+      ],
+      "source_url": "https://pro.edgex.exchange/en-US/news/article/joe-rogan-shane-gillis-trump-truth-social-plan"
+    },
+    {
+      "title": "New Yorker's David Kirkpatrick estimate: Trump family made $3.4B in cash during the second term",
+      "why_connected": "Independent tally of the family's take, useful for checking the video's aggregate figures.",
+      "entities": [
+        "donald-trump",
+        "trump-organization"
+      ],
+      "source_url": "https://www.mediaite.com/politics/trump/3-4-billion-reporter-tells-msnbc-trump-family-turning-down-no-opportunity-for-cash-since-taking-office"
+    }
+  ]
+}

@@ -1,0 +1,5130 @@
+{
+ "entities": [
+  {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "type": "person",
+   "description": "US president; the video alleges he and his family made billions from regulated industries while he signs laws and appoints regulators.",
+   "aliases": [
+    "Donald J. Trump",
+    "the president",
+    "Trump"
+   ]
+  },
+  {
+   "id": "melania-trump",
+   "name": "Melania Trump",
+   "type": "person",
+   "description": "First lady; launched the $MELANIA meme coin and NFTs; did not reply to request for comment.",
+   "aliases": [
+    "Melania",
+    "Alania Trump"
+   ]
+  },
+  {
+   "id": "donald-trump-jr",
+   "name": "Donald Trump Jr.",
+   "type": "person",
+   "description": "President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kalshi and Polymarket, SPAC adviser.",
+   "aliases": [
+    "Don Jr.",
+    "Trump Jr."
+   ]
+  },
+  {
+   "id": "eric-trump",
+   "name": "Eric Trump",
+   "type": "person",
+   "description": "President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Future Industries chief strategy adviser, SPAC adviser.",
+   "aliases": [
+    "Eric"
+   ]
+  },
+  {
+   "id": "barron-trump",
+   "name": "Barron Trump",
+   "type": "person",
+   "description": "President's youngest son; Forbes estimates net worth of ~$150M.",
+   "aliases": [
+    "Barron"
+   ]
+  },
+  {
+   "id": "jared-kushner",
+   "name": "Jared Kushner",
+   "type": "person",
+   "description": "President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.",
+   "aliases": [
+    "Kushner"
+   ]
+  },
+  {
+   "id": "steve-witkoff",
+   "name": "Steve Witkoff",
+   "type": "person",
+   "description": "US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF says he divested his stake.",
+   "aliases": [
+    "Witkoff"
+   ]
+  },
+  {
+   "id": "zach-witkoff",
+   "name": "Zach Witkoff",
+   "type": "person",
+   "description": "Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance deal; son of Steve Witkoff.",
+   "aliases": [
+    "Zachary Witkoff"
+   ]
+  },
+  {
+   "id": "chase-herro",
+   "name": "Chase Herro",
+   "type": "person",
+   "description": "World Liberty Financial co-founder shown saying you can sell anything in crypto 'if the story's right'.",
+   "aliases": [
+    "Chase Hero",
+    "Chase"
+   ]
+  },
+  {
+   "id": "justin-sun",
+   "name": "Justin Sun",
+   "type": "person",
+   "description": "Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the SEC; later broke with WLF.",
+   "aliases": [
+    "Sun"
+   ]
+  },
+  {
+   "id": "tahnoon-bin-zayed",
+   "name": "Sheikh Tahnoon bin Zayed",
+   "type": "person",
+   "description": "UAE national security adviser, brother of the UAE president, MGX chairman; tied to secret 49% WLF stake.",
+   "aliases": [
+    "Sheikh Tahoon",
+    "Tahoon bin Zayed",
+    "spy sheikh",
+    "Tahnoon"
+   ]
+  },
+  {
+   "id": "mohamed-bin-zayed",
+   "name": "Mohamed bin Zayed",
+   "type": "person",
+   "description": "President of the UAE (not named in the video; referred to as Tahnoon's brother).",
+   "aliases": [
+    "MBZ",
+    "president of the UAE"
+   ]
+  },
+  {
+   "id": "changpeng-zhao",
+   "name": "Changpeng Zhao",
+   "type": "person",
+   "description": "Binance founder and ultimate beneficial owner; pardoned by Trump.",
+   "aliases": [
+    "CZ"
+   ]
+  },
+  {
+   "id": "steve-bannon",
+   "name": "Steve Bannon",
+   "type": "person",
+   "description": "Political operative and media strategist; articulated the 'flood the zone' / 'muzzle velocity' strategy.",
+   "aliases": [
+    "Bannon"
+   ]
+  },
+  {
+   "id": "molly-white",
+   "name": "Molly White",
+   "type": "person",
+   "description": "Cryptocurrency researcher and writer who helped map the Trump family's crypto dealings for the video.",
+   "aliases": [
+    "Molly"
+   ]
+  },
+  {
+   "id": "sam-kessler",
+   "name": "Sam Kessler",
+   "type": "person",
+   "description": "Wall Street Journal reporter on the WLF/Tahnoon investigation.",
+   "aliases": []
+  },
+  {
+   "id": "isaac-saul",
+   "name": "Isaac Saul",
+   "type": "person",
+   "description": "Politics reporter and founder of Tangle News; describes the Qatar jet and arms deals.",
+   "aliases": [
+    "Eisen Saul"
+   ]
+  },
+  {
+   "id": "coffeezilla",
+   "name": "Coffeezilla",
+   "type": "person",
+   "description": "YouTube investigator and narrator of the video; says he was threatened by a lawyer and doxxed after ordering a T1 phone.",
+   "aliases": [
+    "CoffeeZilla",
+    "Stephen Findeisen"
+   ]
+  },
+  {
+   "id": "karoline-leavitt",
+   "name": "Karoline Leavitt",
+   "type": "person",
+   "description": "White House press secretary (unnamed in video) who said the president abides by all conflict-of-interest laws.",
+   "aliases": [
+    "White House press secretary"
+   ]
+  },
+  {
+   "id": "don-wilson",
+   "name": "Don Wilson",
+   "type": "person",
+   "description": "DRW/Cumberland founder; TMTG bitcoin-treasury investor weeks after SEC case against Cumberland was dismissed.",
+   "aliases": []
+  },
+  {
+   "id": "kevin-mcgurn",
+   "name": "Kevin McGurn",
+   "type": "person",
+   "description": "Interim CEO of TMTG; said 'markets already move on Truth Social posts'.",
+   "aliases": []
+  },
+  {
+   "id": "mike-selig",
+   "name": "Mike Selig",
+   "type": "person",
+   "description": "Trump-appointed CFTC chairman; denied favouritism when questioned in Congress about Polymarket.",
+   "aliases": [
+    "Mike selling",
+    "Mr. Seelig",
+    "Michael Selig"
+   ]
+  },
+  {
+   "id": "matt-prusak",
+   "name": "Matt Prusak",
+   "type": "person",
+   "description": "American Bitcoin CEO; told Wired the Trump brothers brought capital-markets access and 'narrative'.",
+   "aliases": []
+  },
+  {
+   "id": "sankaet-pathak",
+   "name": "Sankaet Pathak",
+   "type": "person",
+   "description": "Founder and CEO of Foundation Future Industries.",
+   "aliases": [
+    "Sam Patak"
+   ]
+  },
+  {
+   "id": "asher-genoot",
+   "name": "Asher Genoot",
+   "type": "person",
+   "description": "Hut 8 CEO, referred to by Eric Trump as 'Asher' when discussing American Bitcoin's ambitions.",
+   "aliases": [
+    "Asher"
+   ]
+  },
+  {
+   "id": "tarek-mansour",
+   "name": "Tarek Mansour",
+   "type": "person",
+   "description": "Kalshi CEO (unnamed in the video) who would not explain what Don Jr. does as strategic adviser.",
+   "aliases": [
+    "Kalshi's CEO"
+   ]
+  },
+  {
+   "id": "paul-atkins",
+   "name": "Paul Atkins",
+   "type": "person",
+   "description": "Trump's pro-crypto SEC nominee (unnamed in the video: 'a new pro-crypto SEC commissioner').",
+   "aliases": [
+    "pro-crypto SEC commissioner"
+   ]
+  },
+  {
+   "id": "maria-bartiromo",
+   "name": "Maria Bartiromo",
+   "type": "person",
+   "description": "Fox host ('Maria') interviewing Eric Trump and Sankaet Pathak about Foundation's Pentagon contract.",
+   "aliases": [
+    "Maria"
+   ]
+  },
+  {
+   "id": "hunter-biden",
+   "name": "Hunter Biden",
+   "type": "person",
+   "description": "Mentioned in the closing skit as the whataboutism benchmark ('did you at least criticize Hunter Biden?').",
+   "aliases": []
+  },
+  {
+   "id": "jimmy-carter",
+   "name": "Jimmy Carter",
+   "type": "person",
+   "description": "Former president; his peanut farm is cited as trivial by comparison.",
+   "aliases": [
+    "Jimmy Carter's farm"
+   ]
+  },
+  {
+   "id": "unnamed-congressman",
+   "name": "Unnamed member of Congress",
+   "type": "person",
+   "description": "Congressman who asked Selig whether the White House asked him to drop the CFTC's Polymarket probe.",
+   "aliases": []
+  },
+  {
+   "id": "unnamed-white-house-aide",
+   "name": "Unnamed top White House aide",
+   "type": "person",
+   "description": "Per ProPublica, the top aide to the president who initiated the Vulcan Elements deal ('the call came from the White House').",
+   "aliases": []
+  },
+  {
+   "id": "unnamed-lawyer",
+   "name": "Unnamed lawyer",
+   "type": "person",
+   "description": "Lawyer who threatened Coffeezilla about the story days before publication.",
+   "aliases": []
+  },
+  {
+   "id": "former-trump-supporters",
+   "name": "Former Trump supporters (commentators)",
+   "type": "person",
+   "description": "Unnamed prominent supporters/campaigners shown calling this the most corrupt presidency in US history.",
+   "aliases": []
+  },
+  {
+   "id": "trump-coin-top-holders",
+   "name": "Top $TRUMP holders",
+   "type": "person",
+   "description": "Largest holders of the $TRUMP coin, rewarded with a private dinner with the president.",
+   "aliases": []
+  },
+  {
+   "id": "retail-investors",
+   "name": "Retail investors / Trump supporters",
+   "type": "person",
+   "description": "Ordinary buyers of Trump-linked coins and stocks who, per the video, mostly lost money.",
+   "aliases": [
+    "regular Americans",
+    "diehard supporters"
+   ]
+  },
+  {
+   "id": "world-liberty-financial",
+   "name": "World Liberty Financial",
+   "type": "company",
+   "description": "Trump-family crypto/DeFi project created before the 2024 election; issuer of WLFI and USD1.",
+   "aliases": [
+    "WLF",
+    "WLFI",
+    "World Liberty"
+   ]
+  },
+  {
+   "id": "trump-family-wlf-entity",
+   "name": "Trump family-owned WLF entity",
+   "type": "company",
+   "description": "Trump family-owned entity that reportedly received ~$500M from the ALT5 Sigma deal.",
+   "aliases": []
+  },
+  {
+   "id": "tahnoon-wlf-vehicle",
+   "name": "Tahnoon-linked investment vehicle",
+   "type": "company",
+   "description": "Entity tied to Sheikh Tahnoon that secretly bought 49% of WLF for $500M.",
+   "aliases": []
+  },
+  {
+   "id": "trump-coin-shell-companies",
+   "name": "$TRUMP / $MELANIA shell companies",
+   "type": "company",
+   "description": "Shell companies behind the Trump and Melania coins, tracked by Molly White.",
+   "aliases": []
+  },
+  {
+   "id": "mgx",
+   "name": "MGX",
+   "type": "company",
+   "description": "Abu Dhabi investment firm chaired by Tahnoon; invested $2B in Binance via USD1; Stargate investor.",
+   "aliases": []
+  },
+  {
+   "id": "binance",
+   "name": "Binance",
+   "type": "company",
+   "description": "Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted USD1.",
+   "aliases": [
+    "Binance US"
+   ]
+  },
+  {
+   "id": "alt5-sigma",
+   "name": "ALT5 Sigma",
+   "type": "company",
+   "description": "Listed company in a $1.5B WLFI treasury deal; stock down ~94%; rebranded AI Financial Corporation.",
+   "aliases": [
+    "Alt-5 Sigma",
+    "AI Financial Corporation",
+    "Alt 5"
+   ]
+  },
+  {
+   "id": "affinity-partners",
+   "name": "Affinity Partners",
+   "type": "fund",
+   "description": "Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.",
+   "aliases": [
+    "Affinity"
+   ]
+  },
+  {
+   "id": "saudi-pif",
+   "name": "Public Investment Fund (Saudi Arabia)",
+   "type": "fund",
+   "description": "Saudi sovereign wealth fund; put $2B into Affinity Partners.",
+   "aliases": [
+    "PIF"
+   ]
+  },
+  {
+   "id": "gulf-sovereign-funds",
+   "name": "Other Gulf sovereign wealth funds",
+   "type": "fund",
+   "description": "Other Middle Eastern sovereign funds Affinity is expected to ask for money.",
+   "aliases": [
+    "Middle Eastern sovereign funds"
+   ]
+  },
+  {
+   "id": "trump-media-technology-group",
+   "name": "Trump Media & Technology Group",
+   "type": "company",
+   "description": "Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasury, ETFs, API, TAE merger.",
+   "aliases": [
+    "TMTG",
+    "Trump Media"
+   ]
+  },
+  {
+   "id": "donald-j-trump-revocable-trust",
+   "name": "Donald J. Trump Revocable Trust",
+   "type": "fund",
+   "description": "Trust that largely owns TMTG.",
+   "aliases": []
+  },
+  {
+   "id": "truth-social",
+   "name": "Truth Social",
+   "type": "company",
+   "description": "TMTG's social platform, 'the president's Twitter account', where he posts market-moving 'truths'.",
+   "aliases": []
+  },
+  {
+   "id": "crypto-com",
+   "name": "Crypto.com",
+   "type": "company",
+   "description": "Crypto exchange; SEC probe closed; bought $50M of TMTG stock; CFTC amicus; trust bank charter.",
+   "aliases": []
+  },
+  {
+   "id": "cumberland-drw",
+   "name": "Cumberland (DRW)",
+   "type": "company",
+   "description": "Don Wilson's crypto trading firm; SEC enforcement case dismissed with prejudice.",
+   "aliases": [
+    "Cumberland",
+    "DRW"
+   ]
+  },
+  {
+   "id": "american-bitcoin",
+   "name": "American Bitcoin",
+   "type": "company",
+   "description": "Bitcoin mining/treasury company part-owned by Eric and Don Jr.; 80% owned by Hut 8.",
+   "aliases": []
+  },
+  {
+   "id": "hut-8",
+   "name": "Hut 8",
+   "type": "company",
+   "description": "Energy infrastructure / bitcoin miner that contributed mining equipment for 80% of American Bitcoin.",
+   "aliases": [
+    "Hut8"
+   ]
+  },
+  {
+   "id": "metaplanet",
+   "name": "Metaplanet",
+   "type": "company",
+   "description": "Japanese bitcoin treasury company; Eric Trump is strategic board adviser.",
+   "aliases": []
+  },
+  {
+   "id": "crypto-treasury-companies",
+   "name": "Trump-linked crypto treasury companies",
+   "type": "company",
+   "description": "The ~five treasury companies the Trump family is said to be linked to.",
+   "aliases": []
+  },
+  {
+   "id": "tae-technologies",
+   "name": "TAE Technologies",
+   "type": "company",
+   "description": "Fusion energy company in ~$6B stock merger with TMTG.",
+   "aliases": [
+    "Tay Technologies Inc",
+    "TAE"
+   ]
+  },
+  {
+   "id": "kalshi",
+   "name": "Kalshi",
+   "type": "company",
+   "description": "Prediction market company; Don Jr. is strategic adviser.",
+   "aliases": [
+    "CallSheet"
+   ]
+  },
+  {
+   "id": "polymarket",
+   "name": "Polymarket",
+   "type": "company",
+   "description": "Prediction market company; Don Jr. on advisory board; subject of CFTC probe.",
+   "aliases": [
+    "PolyMarket"
+   ]
+  },
+  {
+   "id": "1789-capital",
+   "name": "1789 Capital",
+   "type": "fund",
+   "description": "Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.",
+   "aliases": []
+  },
+  {
+   "id": "vulcan-elements",
+   "name": "Vulcan Elements",
+   "type": "company",
+   "description": "Rare-earth magnet maker backed by 1789 Capital; won US government partnership for $1B facility.",
+   "aliases": [
+    "Vulcan"
+   ]
+  },
+  {
+   "id": "new-america-acquisition-i",
+   "name": "New America Acquisition I Corp",
+   "type": "company",
+   "description": "$300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from government incentives.",
+   "aliases": [
+    "new American acquisition one corp",
+    "New America SPAC"
+   ]
+  },
+  {
+   "id": "foundation-future-industries",
+   "name": "Foundation Future Industries",
+   "type": "company",
+   "description": "Humanoid robot startup with $24M Pentagon contract; Eric Trump is chief strategy adviser.",
+   "aliases": [
+    "Foundation"
+   ]
+  },
+  {
+   "id": "trump-organization",
+   "name": "Trump Organization",
+   "type": "company",
+   "description": "The family's hotel and golf luxury business, incl. Middle East golf/hotel deals.",
+   "aliases": [
+    "family business"
+   ]
+  },
+  {
+   "id": "trump-mobile",
+   "name": "Trump Mobile",
+   "type": "company",
+   "description": "Trump-branded mobile venture selling the T1 phone.",
+   "aliases": []
+  },
+  {
+   "id": "coinbase",
+   "name": "Coinbase",
+   "type": "company",
+   "description": "Crypto exchange whose SEC lawsuit was dropped.",
+   "aliases": []
+  },
+  {
+   "id": "kraken",
+   "name": "Kraken",
+   "type": "company",
+   "description": "Crypto exchange whose SEC lawsuit was dropped.",
+   "aliases": []
+  },
+  {
+   "id": "gemini",
+   "name": "Gemini",
+   "type": "company",
+   "description": "Crypto exchange whose SEC case was dropped.",
+   "aliases": []
+  },
+  {
+   "id": "openai",
+   "name": "OpenAI",
+   "type": "company",
+   "description": "Stargate partner.",
+   "aliases": []
+  },
+  {
+   "id": "softbank",
+   "name": "SoftBank",
+   "type": "company",
+   "description": "Stargate partner.",
+   "aliases": []
+  },
+  {
+   "id": "oracle",
+   "name": "Oracle",
+   "type": "company",
+   "description": "Stargate partner.",
+   "aliases": []
+  },
+  {
+   "id": "tron",
+   "name": "Tron",
+   "type": "company",
+   "description": "Justin Sun's company, which the SEC settled with.",
+   "aliases": [
+    "Tron Foundation",
+    "Sun's company"
+   ]
+  },
+  {
+   "id": "intel",
+   "name": "Intel",
+   "type": "company",
+   "description": "Stock featured in a meme of Trump trading in the Oval Office; price rose after his post.",
+   "aliases": []
+  },
+  {
+   "id": "twitter-x",
+   "name": "X (Twitter)",
+   "type": "company",
+   "description": "Platform where a Trump son boasted about USD1 and Sun posted accusations.",
+   "aliases": [
+    "Twitter"
+   ]
+  },
+  {
+   "id": "patreon",
+   "name": "Patreon",
+   "type": "company",
+   "description": "Where Coffeezilla asks for support given the legal risk.",
+   "aliases": []
+  },
+  {
+   "id": "youtube",
+   "name": "YouTube",
+   "type": "company",
+   "description": "Platform the video was published on.",
+   "aliases": []
+  },
+  {
+   "id": "apple-app-store",
+   "name": "Apple App Store",
+   "type": "company",
+   "description": "Finance chart now topped by Polymarket and Kalshi.",
+   "aliases": [
+    "App Store"
+   ]
+  },
+  {
+   "id": "venmo",
+   "name": "Venmo",
+   "type": "company",
+   "description": "Payment app cited as formerly typical top finance app.",
+   "aliases": []
+  },
+  {
+   "id": "paypal",
+   "name": "PayPal",
+   "type": "company",
+   "description": "Payment app cited as formerly typical top finance app.",
+   "aliases": []
+  },
+  {
+   "id": "trump-affiliated-pacs",
+   "name": "Trump-affiliated PACs",
+   "type": "fund",
+   "description": "PACs that received $36M in contributions (attributed in context to Crypto.com / crypto firms).",
+   "aliases": []
+  },
+  {
+   "id": "trump-2024-campaign",
+   "name": "Trump 2024 election campaign",
+   "type": "fund",
+   "description": "Campaign that crypto exchanges donated $1M+ to.",
+   "aliases": [
+    "Trump campaign"
+   ]
+  },
+  {
+   "id": "trump-inauguration-fund",
+   "name": "Trump inauguration fund",
+   "type": "fund",
+   "description": "2025 inaugural committee that crypto firms donated to.",
+   "aliases": [
+    "inaugural committee"
+   ]
+  },
+  {
+   "id": "trump-coin",
+   "name": "$TRUMP meme coin",
+   "type": "asset",
+   "description": "Official Trump meme coin launched two days before the inauguration; ~$600M to Trump; down ~95%.",
+   "aliases": [
+    "Trump coin",
+    "Official Trump",
+    "GetTrumpMemes.com"
+   ]
+  },
+  {
+   "id": "melania-coin",
+   "name": "$MELANIA meme coin",
+   "type": "asset",
+   "description": "Melania Trump's meme coin; down ~99%.",
+   "aliases": [
+    "Melania coin",
+    "Melodicoin"
+   ]
+  },
+  {
+   "id": "melania-nfts",
+   "name": "Melania Trump NFTs",
+   "type": "asset",
+   "description": "NFTs sold by Melania; ~$6M reported with her coin.",
+   "aliases": []
+  },
+  {
+   "id": "trump-nfts",
+   "name": "Trump NFTs",
+   "type": "asset",
+   "description": "Trump digital trading-card NFT business.",
+   "aliases": [
+    "NFT business"
+   ]
+  },
+  {
+   "id": "wlfi-token",
+   "name": "WLFI token",
+   "type": "asset",
+   "description": "World Liberty Financial governance token; ~$550M sold.",
+   "aliases": [
+    "WLFI"
+   ]
+  },
+  {
+   "id": "usd1",
+   "name": "USD1",
+   "type": "asset",
+   "description": "World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.",
+   "aliases": [
+    "USD1 stablecoin",
+    "U.S. D1"
+   ]
+  },
+  {
+   "id": "wlf-defi-app",
+   "name": "WLF DeFi application",
+   "type": "product",
+   "description": "Promised trading/borrowing/lending app that had not launched.",
+   "aliases": []
+  },
+  {
+   "id": "bitcoin",
+   "name": "Bitcoin",
+   "type": "asset",
+   "description": "Cryptocurrency; price surged on regulatory anticipation when Trump took office.",
+   "aliases": [
+    "BTC"
+   ]
+  },
+  {
+   "id": "tmtg-bitcoin-treasury",
+   "name": "TMTG bitcoin treasury",
+   "type": "asset",
+   "description": "TMTG's bitcoin reserve funded by a $2.5B raise.",
+   "aliases": [
+    "TMTG Bitcoin reserve"
+   ]
+  },
+  {
+   "id": "t1-phone",
+   "name": "T1 phone",
+   "type": "product",
+   "description": "Trump Mobile phone, 'made in America' until the website changed.",
+   "aliases": [
+    "T1 mobile phone"
+   ]
+  },
+  {
+   "id": "trump-watches",
+   "name": "Trump watches",
+   "type": "product",
+   "description": "Trump-branded watches.",
+   "aliases": []
+  },
+  {
+   "id": "trump-sneakers",
+   "name": "Trump golden sneakers",
+   "type": "product",
+   "description": "Trump-branded gold shoes.",
+   "aliases": [
+    "golden shoes",
+    "shoes"
+   ]
+  },
+  {
+   "id": "trump-bible",
+   "name": "Trump Bible",
+   "type": "product",
+   "description": "Trump-endorsed Bible.",
+   "aliases": [
+    "God Bless the USA Bible"
+   ]
+  },
+  {
+   "id": "trump-fragrances",
+   "name": "Trump fragrances",
+   "type": "product",
+   "description": "Trump-branded cologne/perfume.",
+   "aliases": [
+    "cologne"
+   ]
+  },
+  {
+   "id": "truth-predict",
+   "name": "Truth Predict",
+   "type": "product",
+   "description": "TMTG's prediction-market entry, which flopped.",
+   "aliases": []
+  },
+  {
+   "id": "truth-plus",
+   "name": "Truth+",
+   "type": "product",
+   "description": "TMTG subscription streaming service with 'Patriot packages' and non-woke films.",
+   "aliases": [
+    "Truth Plus"
+   ]
+  },
+  {
+   "id": "truth-social-api",
+   "name": "Truth Social market-moving truths API",
+   "type": "product",
+   "description": "Paid real-time feed of the platform's most market-moving posts; reportedly $100,000/month.",
+   "aliases": [
+    "truths API"
+   ]
+  },
+  {
+   "id": "truth-social-etfs",
+   "name": "Truth Social ETFs",
+   "type": "product",
+   "description": "TMTG's 'non-woke' Republican-oriented index funds.",
+   "aliases": [
+    "non-woke index funds"
+   ]
+  },
+  {
+   "id": "truth-social-american-security-defense-etf",
+   "name": "Truth Social American Security & Defense ETF",
+   "type": "product",
+   "description": "One of the Truth Social ETFs.",
+   "aliases": []
+  },
+  {
+   "id": "truth-social-american-next-frontiers-etf",
+   "name": "Truth Social American Next Frontiers ETF",
+   "type": "product",
+   "description": "One of the Truth Social ETFs.",
+   "aliases": []
+  },
+  {
+   "id": "truth-social-american-icons-etf",
+   "name": "Truth Social American Icons ETF",
+   "type": "product",
+   "description": "One of the Truth Social ETFs.",
+   "aliases": []
+  },
+  {
+   "id": "sp-500",
+   "name": "S&P 500",
+   "type": "asset",
+   "description": "Index the Truth Social ETFs are compared to ('the S&P 500, but not woke').",
+   "aliases": []
+  },
+  {
+   "id": "stargate",
+   "name": "Project Stargate",
+   "type": "product",
+   "description": "AI data-centre project (SoftBank, OpenAI, Oracle) with MGX as investing partner.",
+   "aliases": [
+    "Stargate"
+   ]
+  },
+  {
+   "id": "ai-chips",
+   "name": "Advanced AI chips",
+   "type": "product",
+   "description": "Sensitive AI chips the US had refused to export to the UAE.",
+   "aliases": []
+  },
+  {
+   "id": "phantom-robot",
+   "name": "Phantom humanoid robot",
+   "type": "product",
+   "description": "Foundation's robot to be tested with the Marine Corps.",
+   "aliases": []
+  },
+  {
+   "id": "vulcan-magnet-facility",
+   "name": "Vulcan 10,000-tonne magnet facility",
+   "type": "asset",
+   "description": "$1B commercial rare-earth magnet facility enabled by US government partnership.",
+   "aliases": []
+  },
+  {
+   "id": "qatar-jet",
+   "name": "Qatar Boeing 747 gift",
+   "type": "asset",
+   "description": "$400M luxury jet Qatar offered for use as Air Force One, later for Trump's library.",
+   "aliases": [
+    "Qatar plane",
+    "Air Force One gift"
+   ]
+  },
+  {
+   "id": "air-force-one",
+   "name": "Air Force One",
+   "type": "asset",
+   "description": "Presidential aircraft role the Qatari jet was to fill.",
+   "aliases": []
+  },
+  {
+   "id": "trump-presidential-library",
+   "name": "Trump presidential library",
+   "type": "asset",
+   "description": "Intended final home of the Qatari jet.",
+   "aliases": []
+  },
+  {
+   "id": "trump-qatar-golf",
+   "name": "Trump golf course in Qatar",
+   "type": "asset",
+   "description": "Luxury golf course deal inside a ~$5.5B Qatari project.",
+   "aliases": [
+    "Qatar golf deal"
+   ]
+  },
+  {
+   "id": "trump-gulf-hotel",
+   "name": "Trump hotel in Dubai/Abu Dhabi",
+   "type": "asset",
+   "description": "New Gulf hotel mentioned by a worried supporter.",
+   "aliases": []
+  },
+  {
+   "id": "white-house-ballroom",
+   "name": "White House ballroom",
+   "type": "asset",
+   "description": "Ballroom Trump wants to build, sponsored by crypto firms.",
+   "aliases": [
+    "ballroom"
+   ]
+  },
+  {
+   "id": "apkws",
+   "name": "Advanced Precision Kill Weapon Systems",
+   "type": "product",
+   "description": "Weapons in a 2026 possible sale to Qatar.",
+   "aliases": [
+    "APKWS"
+   ]
+  },
+  {
+   "id": "patriot-missiles",
+   "name": "Patriot missile replenishment",
+   "type": "product",
+   "description": "Missiles in a 2026 possible sale to Qatar.",
+   "aliases": []
+  },
+  {
+   "id": "prediction-markets",
+   "name": "Prediction markets industry",
+   "type": "asset",
+   "description": "Sector treating event/sports betting as financial contracts; Trump called it a major industry to protect.",
+   "aliases": []
+  },
+  {
+   "id": "fusion-energy",
+   "name": "Fusion energy sector",
+   "type": "asset",
+   "description": "Not-yet-commercial sector heavily dependent on regulatory approval.",
+   "aliases": []
+  },
+  {
+   "id": "rare-earths",
+   "name": "Rare-earth magnets sector",
+   "type": "asset",
+   "description": "Strategic sector with heavy US government involvement.",
+   "aliases": []
+  },
+  {
+   "id": "white-house",
+   "name": "White House / Trump administration",
+   "type": "government",
+   "description": "Executive office; issues denials; an aide reportedly pushed the Vulcan deal.",
+   "aliases": [
+    "Trump administration"
+   ]
+  },
+  {
+   "id": "us-government",
+   "name": "US federal government",
+   "type": "government",
+   "description": "The federal government as contracting party and policy-maker.",
+   "aliases": []
+  },
+  {
+   "id": "sec",
+   "name": "Securities and Exchange Commission",
+   "type": "government",
+   "description": "Securities regulator that dropped a string of crypto cases after Trump took office.",
+   "aliases": [
+    "SEC"
+   ]
+  },
+  {
+   "id": "cftc",
+   "name": "Commodity Futures Trading Commission",
+   "type": "government",
+   "description": "Commodities regulator overseeing prediction markets, chaired by Mike Selig.",
+   "aliases": [
+    "CFTC"
+   ]
+  },
+  {
+   "id": "occ",
+   "name": "Office of the Comptroller of the Currency",
+   "type": "government",
+   "description": "Bank regulator that provisionally approved WLF and Crypto.com charters.",
+   "aliases": [
+    "OCC"
+   ]
+  },
+  {
+   "id": "pentagon",
+   "name": "Pentagon (Department of Defense)",
+   "type": "government",
+   "description": "Awarded $24M contract to Foundation Future Industries.",
+   "aliases": [
+    "DoD"
+   ]
+  },
+  {
+   "id": "marine-corps",
+   "name": "US Marine Corps",
+   "type": "government",
+   "description": "To test the Phantom robot.",
+   "aliases": []
+  },
+  {
+   "id": "state-department",
+   "name": "US State Department",
+   "type": "government",
+   "description": "Approved possible military sales to Qatar.",
+   "aliases": []
+  },
+  {
+   "id": "us-congress",
+   "name": "US Congress",
+   "type": "government",
+   "description": "Passed crypto legislation; questioned Selig.",
+   "aliases": [
+    "Congress"
+   ]
+  },
+  {
+   "id": "republican-state-ags",
+   "name": "Republican state attorneys general",
+   "type": "government",
+   "description": "Group Don Jr. reportedly told not to fight prediction markets.",
+   "aliases": []
+  },
+  {
+   "id": "united-states",
+   "name": "United States",
+   "type": "country",
+   "description": "The country whose presidency is at issue.",
+   "aliases": [
+    "US",
+    "America"
+   ]
+  },
+  {
+   "id": "uae",
+   "name": "United Arab Emirates",
+   "type": "country",
+   "description": "Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.",
+   "aliases": [
+    "UAE",
+    "Abu Dhabi",
+    "Dubai"
+   ]
+  },
+  {
+   "id": "qatar",
+   "name": "Qatar",
+   "type": "country",
+   "description": "Gulf state that offered the jet, bought arms, hosts a Trump golf project.",
+   "aliases": []
+  },
+  {
+   "id": "saudi-arabia",
+   "name": "Saudi Arabia",
+   "type": "country",
+   "description": "Gulf state whose PIF backs Kushner's fund.",
+   "aliases": []
+  },
+  {
+   "id": "china",
+   "name": "China",
+   "type": "country",
+   "description": "Rival invoked to justify the family's crypto and robotics ventures.",
+   "aliases": []
+  },
+  {
+   "id": "iran",
+   "name": "Iran",
+   "type": "country",
+   "description": "Country the US went to war with; 'Iran crisis'.",
+   "aliases": []
+  },
+  {
+   "id": "japan",
+   "name": "Japan",
+   "type": "country",
+   "description": "Home of Metaplanet.",
+   "aliases": []
+  },
+  {
+   "id": "genius-act",
+   "name": "GENIUS Act",
+   "type": "law",
+   "description": "Stablecoin law Trump pushed while his family profits from USD1.",
+   "aliases": [
+    "Genius Act"
+   ]
+  },
+  {
+   "id": "clarity-act",
+   "name": "CLARITY Act",
+   "type": "law",
+   "description": "Crypto market-structure bill Trump pushed.",
+   "aliases": [
+    "Clarity Act"
+   ]
+  },
+  {
+   "id": "strategic-bitcoin-reserve",
+   "name": "Strategic Bitcoin Reserve",
+   "type": "law",
+   "description": "Executive order creating a US government bitcoin reserve.",
+   "aliases": []
+  },
+  {
+   "id": "conflict-of-interest-laws",
+   "name": "Conflict-of-interest laws",
+   "type": "law",
+   "description": "Laws the White House says the president abides by.",
+   "aliases": []
+  },
+  {
+   "id": "event-contracts-legal-theory",
+   "name": "Sports bets as event contracts theory",
+   "type": "law",
+   "description": "Legal theory classing sports gambling as financial trading, enabling prediction markets.",
+   "aliases": []
+  },
+  {
+   "id": "cz-pardon",
+   "name": "Pardon of Changpeng Zhao",
+   "type": "event",
+   "description": "Trump's pardon of Binance's founder.",
+   "aliases": [
+    "CZ pardon"
+   ]
+  },
+  {
+   "id": "uae-chips-deal",
+   "name": "UAE AI chips deal",
+   "type": "event",
+   "description": "US approval of long-refused AI chip exports to the UAE.",
+   "aliases": []
+  },
+  {
+   "id": "uae-currency-swap",
+   "name": "Possible UAE currency swap",
+   "type": "event",
+   "description": "Financial help for the UAE during the Iran crisis that Trump said was under consideration.",
+   "aliases": []
+  },
+  {
+   "id": "iran-war",
+   "name": "Iran war / crisis",
+   "type": "event",
+   "description": "US war with Iran; cited as attention-shifter and context for UAE aid.",
+   "aliases": [
+    "Iran crisis"
+   ]
+  },
+  {
+   "id": "inauguration-2025",
+   "name": "January 2025 inauguration",
+   "type": "event",
+   "description": "Trump's second inauguration.",
+   "aliases": [
+    "inauguration"
+   ]
+  },
+  {
+   "id": "election-2024",
+   "name": "2024 presidential election",
+   "type": "event",
+   "description": "Election whose outcome drove WLFI sales.",
+   "aliases": []
+  },
+  {
+   "id": "trump-coin-dinner",
+   "name": "Dinner for top $TRUMP holders",
+   "type": "event",
+   "description": "Private dinner with the president for the coin's largest holders.",
+   "aliases": [
+    "meme coin dinner"
+   ]
+  },
+  {
+   "id": "wlfi-token-sale",
+   "name": "WLFI token sale",
+   "type": "event",
+   "description": "Slow in Oct 2024, then sold out ~$550M after Trump won.",
+   "aliases": []
+  },
+  {
+   "id": "tahnoon-wlf-deal",
+   "name": "Secret $500M / 49% WLF stake deal",
+   "type": "event",
+   "description": "Deal signed four days before inauguration selling 49% of WLF to a Tahnoon-tied entity.",
+   "aliases": []
+  },
+  {
+   "id": "mgx-binance-investment",
+   "name": "MGX $2B investment in Binance",
+   "type": "event",
+   "description": "Investment closed in USD1.",
+   "aliases": []
+  },
+  {
+   "id": "binance-usd1-promotions",
+   "name": "Binance USD1 yield promotions",
+   "type": "event",
+   "description": "Binance offering ~20% annual yield to hold USD1.",
+   "aliases": []
+  },
+  {
+   "id": "sec-v-sun",
+   "name": "SEC fraud case against Justin Sun",
+   "type": "event",
+   "description": "Case dismissed after Trump took office; settled with his company.",
+   "aliases": []
+  },
+  {
+   "id": "sec-v-binance",
+   "name": "SEC lawsuit against Binance",
+   "type": "event",
+   "description": "Dropped.",
+   "aliases": []
+  },
+  {
+   "id": "sec-v-cumberland",
+   "name": "SEC enforcement case against Cumberland",
+   "type": "event",
+   "description": "Dismissed with prejudice.",
+   "aliases": []
+  },
+  {
+   "id": "sec-crypto-com-investigation",
+   "name": "SEC investigation into Crypto.com",
+   "type": "event",
+   "description": "Closed with no action.",
+   "aliases": []
+  },
+  {
+   "id": "sec-crypto-cases-dropped",
+   "name": "SEC crypto cases dropped (wave)",
+   "type": "event",
+   "description": "Over a dozen crypto-exchange cases dropped one by one after Trump took office.",
+   "aliases": []
+  },
+  {
+   "id": "sun-wlf-lawsuits",
+   "name": "Sun v. World Liberty lawsuits",
+   "type": "event",
+   "description": "Lawsuits flying both ways between Sun and WLF.",
+   "aliases": []
+  },
+  {
+   "id": "wlf-bank-charter",
+   "name": "WLF bank charter application",
+   "type": "event",
+   "description": "Provisionally approved by the OCC.",
+   "aliases": []
+  },
+  {
+   "id": "crypto-com-bank-charter",
+   "name": "Crypto.com national trust bank charter",
+   "type": "event",
+   "description": "Provisionally approved.",
+   "aliases": []
+  },
+  {
+   "id": "alt5-wlfi-deal",
+   "name": "ALT5 Sigma $1.5B WLFI deal",
+   "type": "event",
+   "description": "Treasury deal paying a Trump entity ~$500M and Witkoffs ~$90M.",
+   "aliases": []
+  },
+  {
+   "id": "qatar-arms-deal",
+   "name": "$1.96B Qatar arms deal",
+   "type": "event",
+   "description": "Arms deal negotiated on favourable terms around the jet gift.",
+   "aliases": []
+  },
+  {
+   "id": "qatar-2026-arms-sales",
+   "name": "2026 possible military sales to Qatar ($5B)",
+   "type": "event",
+   "description": "Two State Department approvals: APKWS and Patriot replenishment.",
+   "aliases": []
+  },
+  {
+   "id": "qatar-development-project",
+   "name": "$5.5B Qatar development project",
+   "type": "event",
+   "description": "Larger project containing the Trump golf course.",
+   "aliases": []
+  },
+  {
+   "id": "tmtg-tae-merger",
+   "name": "TMTG-TAE merger",
+   "type": "event",
+   "description": "~$6B stock merger.",
+   "aliases": []
+  },
+  {
+   "id": "crypto-com-tmtg-partnership",
+   "name": "Crypto.com-TMTG strategic partnership",
+   "type": "event",
+   "description": "Includes $50M TMTG stock purchase.",
+   "aliases": []
+  },
+  {
+   "id": "cftc-amicus-crypto-com",
+   "name": "CFTC amicus brief for Crypto.com",
+   "type": "event",
+   "description": "Filed in a prediction-markets lawsuit.",
+   "aliases": []
+  },
+  {
+   "id": "cftc-polymarket-probe",
+   "name": "CFTC probe into Polymarket",
+   "type": "event",
+   "description": "Probe a congressman asked Selig about.",
+   "aliases": []
+  },
+  {
+   "id": "selig-congressional-hearing",
+   "name": "Selig congressional hearing",
+   "type": "event",
+   "description": "Hearing where Selig called the insinuation of political games 'insulting'.",
+   "aliases": []
+  },
+  {
+   "id": "military-parade",
+   "name": "Trump military parade",
+   "type": "event",
+   "description": "Parade sponsored by crypto exchanges.",
+   "aliases": []
+  },
+  {
+   "id": "trump-financial-disclosures",
+   "name": "Trump financial disclosures",
+   "type": "event",
+   "description": "Hundreds of pages showing crypto income and securities purchases.",
+   "aliases": []
+  },
+  {
+   "id": "intel-meme-post",
+   "name": "Intel trading meme post",
+   "type": "event",
+   "description": "Meme of Trump trading Intel in the Oval Office; price rose.",
+   "aliases": []
+  },
+  {
+   "id": "pentagon-foundation-contract",
+   "name": "$24M Pentagon contract for Foundation",
+   "type": "event",
+   "description": "Contract Fox presented as new; Wired says it predates Eric Trump.",
+   "aliases": []
+  },
+  {
+   "id": "corruption-polls",
+   "name": "Polls on government corruption",
+   "type": "event",
+   "description": "Public concern at highest level in 20 years.",
+   "aliases": []
+  },
+  {
+   "id": "flood-the-zone",
+   "name": "'Flood the zone' strategy",
+   "type": "event",
+   "description": "Bannon's media strategy: hit them with three things a day ('muzzle velocity').",
+   "aliases": [
+    "muzzle velocity"
+   ]
+  },
+  {
+   "id": "drain-the-swamp",
+   "name": "'Drain the swamp'",
+   "type": "event",
+   "description": "Trump's anti-corruption campaign slogan.",
+   "aliases": []
+  },
+  {
+   "id": "watergate",
+   "name": "Watergate",
+   "type": "event",
+   "description": "Scandal the video says this dwarfs.",
+   "aliases": []
+  },
+  {
+   "id": "wall-street-journal",
+   "name": "The Wall Street Journal",
+   "type": "media",
+   "description": "Broke the Tahnoon/WLF story and charted USD1 adoption.",
+   "aliases": [
+    "WSJ"
+   ]
+  },
+  {
+   "id": "new-york-times",
+   "name": "The New York Times",
+   "type": "media",
+   "description": "Reported Affinity's $5B raise.",
+   "aliases": [
+    "NYT"
+   ]
+  },
+  {
+   "id": "propublica",
+   "name": "ProPublica",
+   "type": "media",
+   "description": "Reported the White House call on Vulcan.",
+   "aliases": []
+  },
+  {
+   "id": "wired",
+   "name": "Wired",
+   "type": "media",
+   "description": "Reported Prusak's remarks and that Foundation's contracts were old.",
+   "aliases": []
+  },
+  {
+   "id": "forbes",
+   "name": "Forbes",
+   "type": "media",
+   "description": "Source of family net-worth estimates.",
+   "aliases": []
+  },
+  {
+   "id": "fox-news",
+   "name": "Fox News",
+   "type": "media",
+   "description": "Aired Foundation's Pentagon contract as new.",
+   "aliases": [
+    "Fox"
+   ]
+  },
+  {
+   "id": "tangle-news",
+   "name": "Tangle News",
+   "type": "media",
+   "description": "Isaac Saul's nonpartisan political newsletter.",
+   "aliases": [
+    "Tangle"
+   ]
+  },
+  {
+   "id": "investigating-the-president-video",
+   "name": "'Investigating The President' (video)",
+   "type": "media",
+   "description": "The Coffeezilla video this graph is built from.",
+   "aliases": []
+  },
+  {
+   "id": "hyper-gamblification-video",
+   "name": "Coffeezilla prediction-markets video",
+   "type": "media",
+   "description": "Earlier Coffeezilla video on the gambling-as-trading legal theory.",
+   "aliases": [
+    "hyper gamble vacation video"
+   ]
+  }
+ ],
+ "relationships": [
+  {
+   "source": "melania-trump",
+   "target": "donald-trump",
+   "label": "wife of",
+   "type": "family",
+   "claims": [
+    "C02"
+   ]
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "donald-trump",
+   "label": "son of",
+   "type": "family",
+   "claims": [
+    "C18",
+    "C25",
+    "C26"
+   ]
+  },
+  {
+   "source": "eric-trump",
+   "target": "donald-trump",
+   "label": "son of",
+   "type": "family",
+   "claims": [
+    "C18",
+    "C28"
+   ]
+  },
+  {
+   "source": "barron-trump",
+   "target": "donald-trump",
+   "label": "son of",
+   "type": "family",
+   "claims": [
+    "C29"
+   ]
+  },
+  {
+   "source": "jared-kushner",
+   "target": "donald-trump",
+   "label": "son-in-law of",
+   "type": "family",
+   "claims": [
+    "C15"
+   ]
+  },
+  {
+   "source": "zach-witkoff",
+   "target": "steve-witkoff",
+   "label": "son of",
+   "type": "family",
+   "claims": [
+    "C14"
+   ]
+  },
+  {
+   "source": "tahnoon-bin-zayed",
+   "target": "mohamed-bin-zayed",
+   "label": "brother of",
+   "type": "family",
+   "claims": [
+    "C06"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "trump-coin",
+   "label": "launched",
+   "type": "commercial",
+   "claims": [
+    "C01"
+   ],
+   "date": "2025-01"
+  },
+  {
+   "source": "trump-coin",
+   "target": "donald-trump",
+   "label": "generated ~$600M for",
+   "type": "money",
+   "claims": [
+    "C01"
+   ],
+   "amount_usd": 600000000
+  },
+  {
+   "source": "trump-coin-shell-companies",
+   "target": "trump-coin",
+   "label": "hold proceeds of",
+   "type": "ownership",
+   "claims": [
+    "C01"
+   ]
+  },
+  {
+   "source": "trump-coin-shell-companies",
+   "target": "melania-coin",
+   "label": "hold proceeds of",
+   "type": "ownership",
+   "claims": [
+    "C02"
+   ]
+  },
+  {
+   "source": "molly-white",
+   "target": "trump-coin-shell-companies",
+   "label": "tracked",
+   "type": "media",
+   "claims": [
+    "C01",
+    "C02"
+   ]
+  },
+  {
+   "source": "trump-coin",
+   "target": "inauguration-2025",
+   "label": "launched two days before",
+   "type": "political",
+   "claims": [
+    "C01"
+   ],
+   "date": "2025-01"
+  },
+  {
+   "source": "retail-investors",
+   "target": "trump-coin",
+   "label": "lost ~95% on",
+   "type": "money",
+   "claims": [
+    "C01",
+    "C29"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "china",
+   "label": "justifies crypto as beating",
+   "type": "political",
+   "claims": [
+    "C01"
+   ]
+  },
+  {
+   "source": "coffeezilla",
+   "target": "trump-coin",
+   "label": "called a historic grift",
+   "type": "media",
+   "claims": [
+    "C01"
+   ]
+  },
+  {
+   "source": "melania-trump",
+   "target": "melania-coin",
+   "label": "launched",
+   "type": "commercial",
+   "claims": [
+    "C02"
+   ],
+   "date": "2025-01"
+  },
+  {
+   "source": "melania-trump",
+   "target": "melania-nfts",
+   "label": "sold",
+   "type": "commercial",
+   "claims": [
+    "C02"
+   ]
+  },
+  {
+   "source": "melania-coin",
+   "target": "melania-trump",
+   "label": "with NFTs earned ~$6M for",
+   "type": "money",
+   "claims": [
+    "C02"
+   ],
+   "amount_usd": 6000000
+  },
+  {
+   "source": "retail-investors",
+   "target": "melania-coin",
+   "label": "lost ~99% on",
+   "type": "money",
+   "claims": [
+    "C02",
+    "C29"
+   ]
+  },
+  {
+   "source": "trump-coin-top-holders",
+   "target": "trump-coin",
+   "label": "hold most of",
+   "type": "ownership",
+   "claims": [
+    "C03"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "trump-coin-dinner",
+   "label": "attended",
+   "type": "political",
+   "claims": [
+    "C03"
+   ]
+  },
+  {
+   "source": "trump-coin-top-holders",
+   "target": "trump-coin-dinner",
+   "label": "won seats at",
+   "type": "commercial",
+   "claims": [
+    "C03"
+   ]
+  },
+  {
+   "source": "karoline-leavitt",
+   "target": "donald-trump",
+   "label": "said he obeys conflict laws",
+   "type": "political",
+   "claims": [
+    "C03"
+   ]
+  },
+  {
+   "source": "karoline-leavitt",
+   "target": "white-house",
+   "label": "speaks for",
+   "type": "political",
+   "claims": [
+    "C03"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "conflict-of-interest-laws",
+   "label": "said to abide by",
+   "type": "legal",
+   "claims": [
+    "C03"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "world-liberty-financial",
+   "label": "co-created, holds stake in",
+   "type": "ownership",
+   "claims": [
+    "C04",
+    "C06"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "world-liberty-financial",
+   "label": "chief crypto advocate of",
+   "type": "advisory",
+   "claims": [
+    "C04"
+   ]
+  },
+  {
+   "source": "eric-trump",
+   "target": "world-liberty-financial",
+   "label": "family co-founder of",
+   "type": "ownership",
+   "claims": [
+    "C04"
+   ]
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "world-liberty-financial",
+   "label": "family co-founder of",
+   "type": "ownership",
+   "claims": [
+    "C04"
+   ]
+  },
+  {
+   "source": "chase-herro",
+   "target": "world-liberty-financial",
+   "label": "co-founded, helps run",
+   "type": "ownership",
+   "claims": [
+    "C04"
+   ]
+  },
+  {
+   "source": "zach-witkoff",
+   "target": "world-liberty-financial",
+   "label": "co-founded",
+   "type": "ownership",
+   "claims": [
+    "C04",
+    "C14"
+   ]
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "wlfi-token",
+   "label": "issued",
+   "type": "commercial",
+   "claims": [
+    "C04"
+   ]
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "usd1",
+   "label": "issued",
+   "type": "commercial",
+   "claims": [
+    "C04",
+    "C07"
+   ]
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "wlf-defi-app",
+   "label": "promised but not launched",
+   "type": "commercial",
+   "claims": [
+    "C04"
+   ]
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "wlfi-token-sale",
+   "label": "sold out ~$550M in",
+   "type": "money",
+   "claims": [
+    "C04"
+   ],
+   "date": "2024-11",
+   "amount_usd": 550000000
+  },
+  {
+   "source": "election-2024",
+   "target": "wlfi-token-sale",
+   "label": "Trump win boosted",
+   "type": "political",
+   "claims": [
+    "C04"
+   ],
+   "date": "2024-11"
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "election-2024",
+   "label": "created shortly before",
+   "type": "political",
+   "claims": [
+    "C04"
+   ],
+   "date": "2024"
+  },
+  {
+   "source": "molly-white",
+   "target": "world-liberty-financial",
+   "label": "explains",
+   "type": "media",
+   "claims": [
+    "C04"
+   ]
+  },
+  {
+   "source": "justin-sun",
+   "target": "world-liberty-financial",
+   "label": "invested $75M in",
+   "type": "money",
+   "claims": [
+    "C05"
+   ],
+   "amount_usd": 75000000
+  },
+  {
+   "source": "justin-sun",
+   "target": "world-liberty-financial",
+   "label": "became adviser to",
+   "type": "advisory",
+   "claims": [
+    "C05"
+   ]
+  },
+  {
+   "source": "sec",
+   "target": "justin-sun",
+   "label": "charged with fraud, then dismissed case",
+   "type": "regulatory",
+   "claims": [
+    "C05"
+   ]
+  },
+  {
+   "source": "sec",
+   "target": "sec-v-sun",
+   "label": "dismissed",
+   "type": "regulatory",
+   "claims": [
+    "C05",
+    "C23"
+   ]
+  },
+  {
+   "source": "sec-v-sun",
+   "target": "justin-sun",
+   "label": "targeted",
+   "type": "legal",
+   "claims": [
+    "C05"
+   ]
+  },
+  {
+   "source": "sec",
+   "target": "tron",
+   "label": "settled with",
+   "type": "regulatory",
+   "claims": [
+    "C05"
+   ]
+  },
+  {
+   "source": "justin-sun",
+   "target": "tron",
+   "label": "founded",
+   "type": "ownership",
+   "claims": [
+    "C05"
+   ]
+  },
+  {
+   "source": "justin-sun",
+   "target": "world-liberty-financial",
+   "label": "accused of 'personal ATM' governance scam",
+   "type": "legal",
+   "claims": [
+    "C05"
+   ]
+  },
+  {
+   "source": "justin-sun",
+   "target": "sun-wlf-lawsuits",
+   "label": "party to",
+   "type": "legal",
+   "claims": [
+    "C05"
+   ]
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "sun-wlf-lawsuits",
+   "label": "party to",
+   "type": "legal",
+   "claims": [
+    "C05"
+   ]
+  },
+  {
+   "source": "justin-sun",
+   "target": "twitter-x",
+   "label": "posted accusations on",
+   "type": "media",
+   "claims": [
+    "C05"
+   ]
+  },
+  {
+   "source": "tahnoon-bin-zayed",
+   "target": "tahnoon-wlf-vehicle",
+   "label": "backs",
+   "type": "ownership",
+   "claims": [
+    "C06"
+   ]
+  },
+  {
+   "source": "tahnoon-wlf-vehicle",
+   "target": "world-liberty-financial",
+   "label": "secretly bought 49% for $500M",
+   "type": "ownership",
+   "claims": [
+    "C06",
+    "C14"
+   ],
+   "date": "2025-01-16",
+   "amount_usd": 500000000
+  },
+  {
+   "source": "tahnoon-bin-zayed",
+   "target": "tahnoon-wlf-deal",
+   "label": "signed",
+   "type": "money",
+   "claims": [
+    "C06"
+   ],
+   "date": "2025-01-16",
+   "amount_usd": 500000000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "tahnoon-wlf-deal",
+   "label": "kept secret",
+   "type": "commercial",
+   "claims": [
+    "C06"
+   ],
+   "date": "2025-01-16"
+  },
+  {
+   "source": "tahnoon-wlf-deal",
+   "target": "inauguration-2025",
+   "label": "signed four days before",
+   "type": "political",
+   "claims": [
+    "C06"
+   ],
+   "date": "2025-01-16"
+  },
+  {
+   "source": "tahnoon-bin-zayed",
+   "target": "uae",
+   "label": "national security adviser of",
+   "type": "political",
+   "claims": [
+    "C06"
+   ]
+  },
+  {
+   "source": "mohamed-bin-zayed",
+   "target": "uae",
+   "label": "president of",
+   "type": "political",
+   "claims": [
+    "C06"
+   ]
+  },
+  {
+   "source": "wall-street-journal",
+   "target": "tahnoon-wlf-deal",
+   "label": "revealed",
+   "type": "media",
+   "claims": [
+    "C06"
+   ]
+  },
+  {
+   "source": "sam-kessler",
+   "target": "wall-street-journal",
+   "label": "reports for",
+   "type": "media",
+   "claims": [
+    "C06",
+    "C30"
+   ]
+  },
+  {
+   "source": "sam-kessler",
+   "target": "world-liberty-financial",
+   "label": "investigated",
+   "type": "media",
+   "claims": [
+    "C06"
+   ]
+  },
+  {
+   "source": "tahnoon-bin-zayed",
+   "target": "mgx",
+   "label": "chairs",
+   "type": "ownership",
+   "claims": [
+    "C07"
+   ]
+  },
+  {
+   "source": "mgx",
+   "target": "binance",
+   "label": "invested $2B in",
+   "type": "money",
+   "claims": [
+    "C07"
+   ],
+   "amount_usd": 2000000000
+  },
+  {
+   "source": "mgx",
+   "target": "mgx-binance-investment",
+   "label": "made",
+   "type": "money",
+   "claims": [
+    "C07"
+   ],
+   "amount_usd": 2000000000
+  },
+  {
+   "source": "usd1",
+   "target": "mgx-binance-investment",
+   "label": "used to settle",
+   "type": "commercial",
+   "claims": [
+    "C07"
+   ]
+  },
+  {
+   "source": "mgx",
+   "target": "usd1",
+   "label": "chose as settlement stablecoin",
+   "type": "commercial",
+   "claims": [
+    "C07"
+   ]
+  },
+  {
+   "source": "zach-witkoff",
+   "target": "mgx-binance-investment",
+   "label": "announced USD1 role in",
+   "type": "commercial",
+   "claims": [
+    "C07"
+   ]
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "tahnoon-bin-zayed",
+   "label": "did not disclose stake of",
+   "type": "commercial",
+   "claims": [
+    "C07"
+   ]
+  },
+  {
+   "source": "usd1",
+   "target": "world-liberty-financial",
+   "label": "reserve interest flows to",
+   "type": "money",
+   "claims": [
+    "C07",
+    "C10"
+   ]
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "donald-trump",
+   "label": "pays president and family",
+   "type": "money",
+   "claims": [
+    "C07",
+    "C10",
+    "C29"
+   ]
+  },
+  {
+   "source": "mgx",
+   "target": "uae",
+   "label": "state-linked firm of",
+   "type": "ownership",
+   "claims": [
+    "C07",
+    "C08"
+   ]
+  },
+  {
+   "source": "white-house",
+   "target": "uae-chips-deal",
+   "label": "approved",
+   "type": "regulatory",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "uae",
+   "target": "uae-chips-deal",
+   "label": "secured",
+   "type": "commercial",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "uae-chips-deal",
+   "target": "ai-chips",
+   "label": "covers export of",
+   "type": "commercial",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "tahnoon-wlf-deal",
+   "target": "uae-chips-deal",
+   "label": "shortly preceded",
+   "type": "political",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "mgx",
+   "target": "stargate",
+   "label": "investing partner in",
+   "type": "money",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "softbank",
+   "target": "stargate",
+   "label": "partner in",
+   "type": "commercial",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "openai",
+   "target": "stargate",
+   "label": "partner in",
+   "type": "commercial",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "oracle",
+   "target": "stargate",
+   "label": "partner in",
+   "type": "commercial",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "stargate",
+   "label": "announced",
+   "type": "political",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "uae-currency-swap",
+   "label": "said is under consideration",
+   "type": "political",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "uae-currency-swap",
+   "target": "uae",
+   "label": "would aid",
+   "type": "money",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "iran-war",
+   "target": "uae-currency-swap",
+   "label": "prompted",
+   "type": "political",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "uae",
+   "label": "called a good ally",
+   "type": "political",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "uae-chips-deal",
+   "label": "denies quid pro quo over",
+   "type": "political",
+   "claims": [
+    "C08"
+   ]
+  },
+  {
+   "source": "united-states",
+   "target": "iran",
+   "label": "went to war with",
+   "type": "political",
+   "claims": [
+    "C08",
+    "C30"
+   ]
+  },
+  {
+   "source": "sec",
+   "target": "sec-v-binance",
+   "label": "dropped",
+   "type": "regulatory",
+   "claims": [
+    "C09",
+    "C23"
+   ]
+  },
+  {
+   "source": "sec-v-binance",
+   "target": "binance",
+   "label": "targeted",
+   "type": "legal",
+   "claims": [
+    "C09",
+    "C23"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "cz-pardon",
+   "label": "granted",
+   "type": "legal",
+   "claims": [
+    "C09"
+   ]
+  },
+  {
+   "source": "cz-pardon",
+   "target": "changpeng-zhao",
+   "label": "pardoned",
+   "type": "legal",
+   "claims": [
+    "C09"
+   ]
+  },
+  {
+   "source": "changpeng-zhao",
+   "target": "binance",
+   "label": "founded, beneficial owner of",
+   "type": "ownership",
+   "claims": [
+    "C09"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "changpeng-zhao",
+   "label": "claims not to know",
+   "type": "political",
+   "claims": [
+    "C09"
+   ]
+  },
+  {
+   "source": "cz-pardon",
+   "target": "binance",
+   "label": "eases US re-entry of",
+   "type": "regulatory",
+   "claims": [
+    "C09"
+   ]
+  },
+  {
+   "source": "binance",
+   "target": "usd1",
+   "label": "early lister of",
+   "type": "commercial",
+   "claims": [
+    "C10"
+   ]
+  },
+  {
+   "source": "binance",
+   "target": "binance-usd1-promotions",
+   "label": "offered ~20% yield in",
+   "type": "commercial",
+   "claims": [
+    "C10"
+   ]
+  },
+  {
+   "source": "binance-usd1-promotions",
+   "target": "usd1",
+   "label": "drove adoption of",
+   "type": "commercial",
+   "claims": [
+    "C10"
+   ]
+  },
+  {
+   "source": "wall-street-journal",
+   "target": "usd1",
+   "label": "charted Binance-linked jumps in",
+   "type": "media",
+   "claims": [
+    "C10"
+   ]
+  },
+  {
+   "source": "usd1",
+   "target": "world-liberty-financial",
+   "label": "earns ~$159M a year for",
+   "type": "money",
+   "claims": [
+    "C10"
+   ],
+   "amount_usd": 159000000
+  },
+  {
+   "source": "donald-trump",
+   "target": "genius-act",
+   "label": "pushed, lobbied votes for",
+   "type": "political",
+   "claims": [
+    "C11"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "clarity-act",
+   "label": "pushed",
+   "type": "political",
+   "claims": [
+    "C11"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "us-congress",
+   "label": "made night-time calls to",
+   "type": "political",
+   "claims": [
+    "C11"
+   ]
+  },
+  {
+   "source": "us-congress",
+   "target": "genius-act",
+   "label": "passed",
+   "type": "political",
+   "claims": [
+    "C11"
+   ]
+  },
+  {
+   "source": "usd1",
+   "target": "genius-act",
+   "label": "marketed as 2nd-largest compliant coin",
+   "type": "regulatory",
+   "claims": [
+    "C11"
+   ]
+  },
+  {
+   "source": "genius-act",
+   "target": "world-liberty-financial",
+   "label": "benefits",
+   "type": "regulatory",
+   "claims": [
+    "C11"
+   ]
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "twitter-x",
+   "label": "Trump son boasted on",
+   "type": "media",
+   "claims": [
+    "C11"
+   ]
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "wlf-bank-charter",
+   "label": "applied for",
+   "type": "regulatory",
+   "claims": [
+    "C12"
+   ]
+  },
+  {
+   "source": "occ",
+   "target": "wlf-bank-charter",
+   "label": "provisionally approved",
+   "type": "regulatory",
+   "claims": [
+    "C12"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "occ",
+   "label": "appoints head of",
+   "type": "regulatory",
+   "claims": [
+    "C12",
+    "C22"
+   ]
+  },
+  {
+   "source": "occ",
+   "target": "world-liberty-financial",
+   "label": "regulates bank arm of",
+   "type": "regulatory",
+   "claims": [
+    "C12"
+   ]
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "alt5-sigma",
+   "label": "struck $1.5B deal with",
+   "type": "commercial",
+   "claims": [
+    "C13"
+   ],
+   "amount_usd": 1500000000
+  },
+  {
+   "source": "alt5-sigma",
+   "target": "alt5-wlfi-deal",
+   "label": "party to",
+   "type": "commercial",
+   "claims": [
+    "C13"
+   ],
+   "amount_usd": 1500000000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "alt5-wlfi-deal",
+   "label": "party to",
+   "type": "commercial",
+   "claims": [
+    "C13"
+   ]
+  },
+  {
+   "source": "alt5-sigma",
+   "target": "trump-family-wlf-entity",
+   "label": "reportedly paid ~$500M to",
+   "type": "money",
+   "claims": [
+    "C13"
+   ],
+   "amount_usd": 500000000
+  },
+  {
+   "source": "donald-trump",
+   "target": "trump-family-wlf-entity",
+   "label": "family owns",
+   "type": "ownership",
+   "claims": [
+    "C13"
+   ]
+  },
+  {
+   "source": "alt5-sigma",
+   "target": "zach-witkoff",
+   "label": "reportedly paid ~$90M to Witkoff family",
+   "type": "money",
+   "claims": [
+    "C13"
+   ],
+   "amount_usd": 90000000
+  },
+  {
+   "source": "zach-witkoff",
+   "target": "alt5-sigma",
+   "label": "helps run",
+   "type": "ownership",
+   "claims": [
+    "C13"
+   ]
+  },
+  {
+   "source": "chase-herro",
+   "target": "alt5-sigma",
+   "label": "helps run",
+   "type": "ownership",
+   "claims": [
+    "C13"
+   ]
+  },
+  {
+   "source": "alt5-sigma",
+   "target": "wlfi-token",
+   "label": "buys and holds",
+   "type": "ownership",
+   "claims": [
+    "C13"
+   ]
+  },
+  {
+   "source": "retail-investors",
+   "target": "alt5-sigma",
+   "label": "lost ~94% on stock of",
+   "type": "money",
+   "claims": [
+    "C13",
+    "C29"
+   ]
+  },
+  {
+   "source": "sec",
+   "target": "alt5-sigma",
+   "label": "oversees listed",
+   "type": "regulatory",
+   "claims": [
+    "C13"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "sec",
+   "label": "appoints leadership of",
+   "type": "regulatory",
+   "claims": [
+    "C13",
+    "C19",
+    "C22",
+    "C23"
+   ]
+  },
+  {
+   "source": "steve-witkoff",
+   "target": "white-house",
+   "label": "Special Envoy to Middle East for",
+   "type": "political",
+   "claims": [
+    "C14"
+   ]
+  },
+  {
+   "source": "steve-witkoff",
+   "target": "world-liberty-financial",
+   "label": "held stake, said to have divested",
+   "type": "ownership",
+   "claims": [
+    "C14"
+   ]
+  },
+  {
+   "source": "steve-witkoff",
+   "target": "uae",
+   "label": "negotiates in region of",
+   "type": "political",
+   "claims": [
+    "C14"
+   ]
+  },
+  {
+   "source": "jared-kushner",
+   "target": "white-house",
+   "label": "unofficial 'peace envoy' for",
+   "type": "political",
+   "claims": [
+    "C15"
+   ]
+  },
+  {
+   "source": "jared-kushner",
+   "target": "steve-witkoff",
+   "label": "travels and negotiates with",
+   "type": "political",
+   "claims": [
+    "C15"
+   ]
+  },
+  {
+   "source": "jared-kushner",
+   "target": "affinity-partners",
+   "label": "runs",
+   "type": "ownership",
+   "claims": [
+    "C15"
+   ]
+  },
+  {
+   "source": "saudi-pif",
+   "target": "affinity-partners",
+   "label": "invested $2B in",
+   "type": "money",
+   "claims": [
+    "C15"
+   ],
+   "amount_usd": 2000000000
+  },
+  {
+   "source": "saudi-arabia",
+   "target": "saudi-pif",
+   "label": "owns",
+   "type": "ownership",
+   "claims": [
+    "C15"
+   ]
+  },
+  {
+   "source": "affinity-partners",
+   "target": "gulf-sovereign-funds",
+   "label": "seeking part of $5B from",
+   "type": "money",
+   "claims": [
+    "C15"
+   ],
+   "amount_usd": 5000000000
+  },
+  {
+   "source": "new-york-times",
+   "target": "affinity-partners",
+   "label": "reported $5B raise by",
+   "type": "media",
+   "claims": [
+    "C15"
+   ]
+  },
+  {
+   "source": "jared-kushner",
+   "target": "conflict-of-interest-laws",
+   "label": "exempt from disclosure under",
+   "type": "legal",
+   "claims": [
+    "C15"
+   ]
+  },
+  {
+   "source": "molly-white",
+   "target": "jared-kushner",
+   "label": "describes conflicts of",
+   "type": "media",
+   "claims": [
+    "C15"
+   ]
+  },
+  {
+   "source": "qatar",
+   "target": "qatar-jet",
+   "label": "offered",
+   "type": "money",
+   "claims": [
+    "C16"
+   ],
+   "amount_usd": 400000000
+  },
+  {
+   "source": "qatar-jet",
+   "target": "donald-trump",
+   "label": "gifted for use by",
+   "type": "money",
+   "claims": [
+    "C16"
+   ],
+   "amount_usd": 400000000
+  },
+  {
+   "source": "qatar-jet",
+   "target": "air-force-one",
+   "label": "to serve as",
+   "type": "commercial",
+   "claims": [
+    "C16"
+   ]
+  },
+  {
+   "source": "qatar-jet",
+   "target": "trump-presidential-library",
+   "label": "to end up in",
+   "type": "ownership",
+   "claims": [
+    "C16"
+   ]
+  },
+  {
+   "source": "qatar",
+   "target": "qatar-arms-deal",
+   "label": "negotiated",
+   "type": "commercial",
+   "claims": [
+    "C16"
+   ],
+   "amount_usd": 1960000000
+  },
+  {
+   "source": "united-states",
+   "target": "qatar-arms-deal",
+   "label": "sold arms in",
+   "type": "commercial",
+   "claims": [
+    "C16"
+   ],
+   "amount_usd": 1960000000
+  },
+  {
+   "source": "trump-organization",
+   "target": "trump-qatar-golf",
+   "label": "struck deal for",
+   "type": "commercial",
+   "claims": [
+    "C16"
+   ]
+  },
+  {
+   "source": "trump-qatar-golf",
+   "target": "qatar-development-project",
+   "label": "part of ~$5.5B",
+   "type": "commercial",
+   "claims": [
+    "C16"
+   ],
+   "amount_usd": 5500000000
+  },
+  {
+   "source": "qatar",
+   "target": "qatar-development-project",
+   "label": "hosts",
+   "type": "commercial",
+   "claims": [
+    "C16"
+   ]
+  },
+  {
+   "source": "state-department",
+   "target": "qatar-2026-arms-sales",
+   "label": "approved",
+   "type": "regulatory",
+   "claims": [
+    "C16"
+   ],
+   "date": "2026",
+   "amount_usd": 5000000000
+  },
+  {
+   "source": "qatar-2026-arms-sales",
+   "target": "qatar",
+   "label": "possible sale to",
+   "type": "commercial",
+   "claims": [
+    "C16"
+   ],
+   "date": "2026"
+  },
+  {
+   "source": "qatar-2026-arms-sales",
+   "target": "apkws",
+   "label": "includes",
+   "type": "commercial",
+   "claims": [
+    "C16"
+   ]
+  },
+  {
+   "source": "qatar-2026-arms-sales",
+   "target": "patriot-missiles",
+   "label": "includes",
+   "type": "commercial",
+   "claims": [
+    "C16"
+   ]
+  },
+  {
+   "source": "isaac-saul",
+   "target": "qatar-jet",
+   "label": "describes",
+   "type": "media",
+   "claims": [
+    "C16"
+   ]
+  },
+  {
+   "source": "isaac-saul",
+   "target": "tangle-news",
+   "label": "founded",
+   "type": "ownership",
+   "claims": [
+    "C16",
+    "C30"
+   ]
+  },
+  {
+   "source": "trump-organization",
+   "target": "trump-gulf-hotel",
+   "label": "building",
+   "type": "commercial",
+   "claims": [
+    "C16"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "trump-organization",
+   "label": "owns",
+   "type": "ownership",
+   "claims": [
+    "C16",
+    "C17"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "trump-nfts",
+   "label": "sells",
+   "type": "commercial",
+   "claims": [
+    "C17"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "trump-watches",
+   "label": "sells",
+   "type": "commercial",
+   "claims": [
+    "C17"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "trump-sneakers",
+   "label": "sells",
+   "type": "commercial",
+   "claims": [
+    "C17"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "trump-bible",
+   "label": "sells",
+   "type": "commercial",
+   "claims": [
+    "C17"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "trump-fragrances",
+   "label": "sells",
+   "type": "commercial",
+   "claims": [
+    "C17"
+   ]
+  },
+  {
+   "source": "trump-mobile",
+   "target": "t1-phone",
+   "label": "sells",
+   "type": "commercial",
+   "claims": [
+    "C17"
+   ]
+  },
+  {
+   "source": "trump-organization",
+   "target": "trump-mobile",
+   "label": "licenses name to",
+   "type": "commercial",
+   "claims": [
+    "C17"
+   ]
+  },
+  {
+   "source": "t1-phone",
+   "target": "united-states",
+   "label": "dropped 'made in America' claim",
+   "type": "commercial",
+   "claims": [
+    "C17"
+   ]
+  },
+  {
+   "source": "coffeezilla",
+   "target": "t1-phone",
+   "label": "ordered, then was doxxed",
+   "type": "commercial",
+   "claims": [
+    "C17"
+   ]
+  },
+  {
+   "source": "eric-trump",
+   "target": "metaplanet",
+   "label": "strategic board adviser to",
+   "type": "advisory",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "metaplanet",
+   "target": "japan",
+   "label": "based in",
+   "type": "commercial",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "metaplanet",
+   "target": "bitcoin",
+   "label": "holds as treasury",
+   "type": "ownership",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "eric-trump",
+   "target": "american-bitcoin",
+   "label": "part-owns",
+   "type": "ownership",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "american-bitcoin",
+   "label": "part-owns",
+   "type": "ownership",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "hut-8",
+   "target": "american-bitcoin",
+   "label": "owns 80% of",
+   "type": "ownership",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "hut-8",
+   "target": "american-bitcoin",
+   "label": "gave mining equipment to",
+   "type": "commercial",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "matt-prusak",
+   "target": "american-bitcoin",
+   "label": "CEO of",
+   "type": "ownership",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "matt-prusak",
+   "target": "wired",
+   "label": "told of Trump 'narrative' value",
+   "type": "media",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "asher-genoot",
+   "target": "hut-8",
+   "label": "leads",
+   "type": "ownership",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "american-bitcoin",
+   "target": "bitcoin",
+   "label": "mines and accumulates",
+   "type": "ownership",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "bitcoin",
+   "label": "'crypto president' boosted",
+   "type": "political",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "crypto-treasury-companies",
+   "label": "family linked to ~five",
+   "type": "ownership",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "american-bitcoin",
+   "target": "crypto-treasury-companies",
+   "label": "one of",
+   "type": "commercial",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "metaplanet",
+   "target": "crypto-treasury-companies",
+   "label": "one of",
+   "type": "commercial",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "retail-investors",
+   "target": "american-bitcoin",
+   "label": "hold poorly performing stock of",
+   "type": "money",
+   "claims": [
+    "C18"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "strategic-bitcoin-reserve",
+   "label": "signed order creating",
+   "type": "political",
+   "claims": [
+    "C19"
+   ]
+  },
+  {
+   "source": "strategic-bitcoin-reserve",
+   "target": "bitcoin",
+   "label": "stockpiles",
+   "type": "ownership",
+   "claims": [
+    "C19"
+   ]
+  },
+  {
+   "source": "trump-media-technology-group",
+   "target": "tmtg-bitcoin-treasury",
+   "label": "raised $2.5B for",
+   "type": "money",
+   "claims": [
+    "C19"
+   ],
+   "amount_usd": 2500000000
+  },
+  {
+   "source": "tmtg-bitcoin-treasury",
+   "target": "bitcoin",
+   "label": "holds",
+   "type": "ownership",
+   "claims": [
+    "C19"
+   ]
+  },
+  {
+   "source": "don-wilson",
+   "target": "trump-media-technology-group",
+   "label": "invested in",
+   "type": "money",
+   "claims": [
+    "C19"
+   ]
+  },
+  {
+   "source": "don-wilson",
+   "target": "cumberland-drw",
+   "label": "owns",
+   "type": "ownership",
+   "claims": [
+    "C19"
+   ]
+  },
+  {
+   "source": "sec",
+   "target": "sec-v-cumberland",
+   "label": "dismissed with prejudice",
+   "type": "regulatory",
+   "claims": [
+    "C19",
+    "C23"
+   ]
+  },
+  {
+   "source": "sec-v-cumberland",
+   "target": "cumberland-drw",
+   "label": "targeted",
+   "type": "legal",
+   "claims": [
+    "C19"
+   ]
+  },
+  {
+   "source": "cumberland-drw",
+   "target": "trump-media-technology-group",
+   "label": "denies quid pro quo with",
+   "type": "political",
+   "claims": [
+    "C19"
+   ]
+  },
+  {
+   "source": "donald-j-trump-revocable-trust",
+   "target": "trump-media-technology-group",
+   "label": "largely owns",
+   "type": "ownership",
+   "claims": [
+    "C20"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "donald-j-trump-revocable-trust",
+   "label": "beneficiary of",
+   "type": "ownership",
+   "claims": [
+    "C20"
+   ]
+  },
+  {
+   "source": "trump-media-technology-group",
+   "target": "truth-social",
+   "label": "owns",
+   "type": "ownership",
+   "claims": [
+    "C20"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "truth-social",
+   "label": "posts stock tickers on",
+   "type": "media",
+   "claims": [
+    "C20"
+   ]
+  },
+  {
+   "source": "trump-financial-disclosures",
+   "target": "donald-trump",
+   "label": "show equity buys before posts by",
+   "type": "money",
+   "claims": [
+    "C20"
+   ]
+  },
+  {
+   "source": "white-house",
+   "target": "donald-trump",
+   "label": "says others trade for",
+   "type": "political",
+   "claims": [
+    "C20"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "intel-meme-post",
+   "label": "posted",
+   "type": "media",
+   "claims": [
+    "C20"
+   ]
+  },
+  {
+   "source": "intel-meme-post",
+   "target": "intel",
+   "label": "preceded price rise of",
+   "type": "money",
+   "claims": [
+    "C20"
+   ]
+  },
+  {
+   "source": "trump-media-technology-group",
+   "target": "truth-social-api",
+   "label": "sells for ~$100K/month",
+   "type": "commercial",
+   "claims": [
+    "C21"
+   ],
+   "amount_usd": 100000
+  },
+  {
+   "source": "truth-social-api",
+   "target": "truth-social",
+   "label": "streams market-moving posts of",
+   "type": "commercial",
+   "claims": [
+    "C21"
+   ]
+  },
+  {
+   "source": "kevin-mcgurn",
+   "target": "trump-media-technology-group",
+   "label": "interim CEO of",
+   "type": "ownership",
+   "claims": [
+    "C21"
+   ]
+  },
+  {
+   "source": "trump-media-technology-group",
+   "target": "truth-plus",
+   "label": "launched",
+   "type": "commercial",
+   "claims": [
+    "C21"
+   ]
+  },
+  {
+   "source": "crypto-com",
+   "target": "trump-media-technology-group",
+   "label": "agreed to buy $50M stock of",
+   "type": "money",
+   "claims": [
+    "C22"
+   ],
+   "amount_usd": 50000000
+  },
+  {
+   "source": "crypto-com",
+   "target": "crypto-com-tmtg-partnership",
+   "label": "party to",
+   "type": "commercial",
+   "claims": [
+    "C22"
+   ]
+  },
+  {
+   "source": "trump-media-technology-group",
+   "target": "crypto-com-tmtg-partnership",
+   "label": "party to",
+   "type": "commercial",
+   "claims": [
+    "C22"
+   ]
+  },
+  {
+   "source": "sec",
+   "target": "sec-crypto-com-investigation",
+   "label": "closed with no action",
+   "type": "regulatory",
+   "claims": [
+    "C22",
+    "C23"
+   ]
+  },
+  {
+   "source": "sec-crypto-com-investigation",
+   "target": "crypto-com",
+   "label": "targeted",
+   "type": "legal",
+   "claims": [
+    "C22"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "paul-atkins",
+   "label": "nominated to SEC",
+   "type": "regulatory",
+   "claims": [
+    "C22"
+   ]
+  },
+  {
+   "source": "paul-atkins",
+   "target": "sec",
+   "label": "pro-crypto leader of",
+   "type": "regulatory",
+   "claims": [
+    "C22"
+   ]
+  },
+  {
+   "source": "crypto-com",
+   "target": "trump-affiliated-pacs",
+   "label": "$36M in contributions to (attribution unclear)",
+   "type": "political",
+   "claims": [
+    "C22"
+   ],
+   "amount_usd": 36000000
+  },
+  {
+   "source": "cftc",
+   "target": "cftc-amicus-crypto-com",
+   "label": "filed",
+   "type": "legal",
+   "claims": [
+    "C22"
+   ]
+  },
+  {
+   "source": "cftc-amicus-crypto-com",
+   "target": "crypto-com",
+   "label": "supported",
+   "type": "legal",
+   "claims": [
+    "C22"
+   ]
+  },
+  {
+   "source": "crypto-com",
+   "target": "crypto-com-bank-charter",
+   "label": "applied for",
+   "type": "regulatory",
+   "claims": [
+    "C22"
+   ]
+  },
+  {
+   "source": "occ",
+   "target": "crypto-com-bank-charter",
+   "label": "provisionally approved",
+   "type": "regulatory",
+   "claims": [
+    "C22"
+   ]
+  },
+  {
+   "source": "crypto-com",
+   "target": "prediction-markets",
+   "label": "faces lawsuit over",
+   "type": "legal",
+   "claims": [
+    "C22"
+   ]
+  },
+  {
+   "source": "sec",
+   "target": "sec-crypto-cases-dropped",
+   "label": "dropped over a dozen cases in",
+   "type": "regulatory",
+   "claims": [
+    "C23"
+   ]
+  },
+  {
+   "source": "sec",
+   "target": "coinbase",
+   "label": "dropped lawsuit against",
+   "type": "regulatory",
+   "claims": [
+    "C23"
+   ]
+  },
+  {
+   "source": "sec",
+   "target": "kraken",
+   "label": "dropped lawsuit against",
+   "type": "regulatory",
+   "claims": [
+    "C23"
+   ]
+  },
+  {
+   "source": "sec",
+   "target": "gemini",
+   "label": "dropped case against",
+   "type": "regulatory",
+   "claims": [
+    "C23"
+   ]
+  },
+  {
+   "source": "sec",
+   "target": "binance",
+   "label": "dropped lawsuit against",
+   "type": "regulatory",
+   "claims": [
+    "C09",
+    "C23"
+   ]
+  },
+  {
+   "source": "sec-crypto-cases-dropped",
+   "target": "trump-2024-campaign",
+   "label": "coincided with $1M+ donations to",
+   "type": "political",
+   "claims": [
+    "C23"
+   ]
+  },
+  {
+   "source": "sec-crypto-cases-dropped",
+   "target": "trump-inauguration-fund",
+   "label": "coincided with donations to",
+   "type": "political",
+   "claims": [
+    "C23"
+   ]
+  },
+  {
+   "source": "sec-crypto-cases-dropped",
+   "target": "military-parade",
+   "label": "coincided with sponsorship of",
+   "type": "political",
+   "claims": [
+    "C23"
+   ]
+  },
+  {
+   "source": "sec-crypto-cases-dropped",
+   "target": "white-house-ballroom",
+   "label": "coincided with sponsorship of",
+   "type": "political",
+   "claims": [
+    "C23"
+   ]
+  },
+  {
+   "source": "trump-2024-campaign",
+   "target": "donald-trump",
+   "label": "funded election of",
+   "type": "political",
+   "claims": [
+    "C23"
+   ]
+  },
+  {
+   "source": "trump-inauguration-fund",
+   "target": "inauguration-2025",
+   "label": "funded",
+   "type": "money",
+   "claims": [
+    "C23"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "military-parade",
+   "label": "wanted to hold",
+   "type": "political",
+   "claims": [
+    "C23"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "white-house-ballroom",
+   "label": "wants to build",
+   "type": "political",
+   "claims": [
+    "C23"
+   ]
+  },
+  {
+   "source": "trump-affiliated-pacs",
+   "target": "donald-trump",
+   "label": "support",
+   "type": "political",
+   "claims": [
+    "C22",
+    "C23"
+   ]
+  },
+  {
+   "source": "trump-media-technology-group",
+   "target": "truth-social-etfs",
+   "label": "sells",
+   "type": "commercial",
+   "claims": [
+    "C24"
+   ]
+  },
+  {
+   "source": "truth-social-etfs",
+   "target": "truth-social-american-security-defense-etf",
+   "label": "includes",
+   "type": "commercial",
+   "claims": [
+    "C24"
+   ]
+  },
+  {
+   "source": "truth-social-etfs",
+   "target": "truth-social-american-next-frontiers-etf",
+   "label": "includes",
+   "type": "commercial",
+   "claims": [
+    "C24"
+   ]
+  },
+  {
+   "source": "truth-social-etfs",
+   "target": "truth-social-american-icons-etf",
+   "label": "includes",
+   "type": "commercial",
+   "claims": [
+    "C24"
+   ]
+  },
+  {
+   "source": "truth-social-etfs",
+   "target": "sp-500",
+   "label": "pitched as non-woke version of",
+   "type": "commercial",
+   "claims": [
+    "C24"
+   ]
+  },
+  {
+   "source": "trump-media-technology-group",
+   "target": "tae-technologies",
+   "label": "merging with in ~$6B stock deal",
+   "type": "commercial",
+   "claims": [
+    "C24"
+   ],
+   "amount_usd": 6000000000
+  },
+  {
+   "source": "trump-media-technology-group",
+   "target": "tmtg-tae-merger",
+   "label": "announced",
+   "type": "commercial",
+   "claims": [
+    "C24"
+   ],
+   "amount_usd": 6000000000
+  },
+  {
+   "source": "tae-technologies",
+   "target": "tmtg-tae-merger",
+   "label": "party to",
+   "type": "commercial",
+   "claims": [
+    "C24"
+   ]
+  },
+  {
+   "source": "tae-technologies",
+   "target": "fusion-energy",
+   "label": "operates in",
+   "type": "commercial",
+   "claims": [
+    "C24"
+   ]
+  },
+  {
+   "source": "us-government",
+   "target": "fusion-energy",
+   "label": "regulation decides fate of",
+   "type": "regulatory",
+   "claims": [
+    "C24"
+   ]
+  },
+  {
+   "source": "retail-investors",
+   "target": "trump-media-technology-group",
+   "label": "funded ~$712M losses of",
+   "type": "money",
+   "claims": [
+    "C24",
+    "C29"
+   ],
+   "amount_usd": 712000000
+  },
+  {
+   "source": "trump-media-technology-group",
+   "target": "truth-predict",
+   "label": "announced (flopped)",
+   "type": "commercial",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "truth-predict",
+   "target": "prediction-markets",
+   "label": "entered",
+   "type": "commercial",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "mike-selig",
+   "label": "appointed CFTC chair",
+   "type": "regulatory",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "mike-selig",
+   "target": "cftc",
+   "label": "chairs",
+   "type": "regulatory",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "cftc",
+   "target": "event-contracts-legal-theory",
+   "label": "enables",
+   "type": "regulatory",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "event-contracts-legal-theory",
+   "target": "prediction-markets",
+   "label": "legalises sports bets on",
+   "type": "regulatory",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "cftc",
+   "target": "prediction-markets",
+   "label": "regulates",
+   "type": "regulatory",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "kalshi",
+   "label": "strategic adviser to",
+   "type": "advisory",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "polymarket",
+   "label": "advisory board member of",
+   "type": "advisory",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "tarek-mansour",
+   "target": "kalshi",
+   "label": "CEO of",
+   "type": "ownership",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "tarek-mansour",
+   "target": "donald-trump-jr",
+   "label": "would not explain role of",
+   "type": "advisory",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "cftc",
+   "target": "cftc-polymarket-probe",
+   "label": "conducting",
+   "type": "regulatory",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "cftc-polymarket-probe",
+   "target": "polymarket",
+   "label": "targets",
+   "type": "legal",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "unnamed-congressman",
+   "target": "mike-selig",
+   "label": "questioned on White House pressure",
+   "type": "political",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "mike-selig",
+   "target": "selig-congressional-hearing",
+   "label": "testified at",
+   "type": "political",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "us-congress",
+   "target": "selig-congressional-hearing",
+   "label": "held",
+   "type": "political",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "prediction-markets",
+   "label": "posted that industry must be protected",
+   "type": "political",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "republican-state-ags",
+   "label": "reportedly urged not to fight prediction markets",
+   "type": "political",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "kalshi",
+   "target": "apple-app-store",
+   "label": "tops finance chart of",
+   "type": "commercial",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "polymarket",
+   "target": "apple-app-store",
+   "label": "tops finance chart of",
+   "type": "commercial",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "coffeezilla",
+   "target": "hyper-gamblification-video",
+   "label": "made",
+   "type": "media",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "hyper-gamblification-video",
+   "target": "event-contracts-legal-theory",
+   "label": "covered",
+   "type": "media",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "1789-capital",
+   "label": "partner at",
+   "type": "ownership",
+   "claims": [
+    "C26"
+   ]
+  },
+  {
+   "source": "1789-capital",
+   "target": "vulcan-elements",
+   "label": "invested in",
+   "type": "money",
+   "claims": [
+    "C26"
+   ]
+  },
+  {
+   "source": "us-government",
+   "target": "vulcan-elements",
+   "label": "partnered on $1B facility with",
+   "type": "commercial",
+   "claims": [
+    "C26"
+   ],
+   "amount_usd": 1000000000
+  },
+  {
+   "source": "vulcan-elements",
+   "target": "vulcan-magnet-facility",
+   "label": "announced",
+   "type": "commercial",
+   "claims": [
+    "C26"
+   ],
+   "amount_usd": 1000000000
+  },
+  {
+   "source": "unnamed-white-house-aide",
+   "target": "vulcan-elements",
+   "label": "initiated government deal for",
+   "type": "political",
+   "claims": [
+    "C26"
+   ]
+  },
+  {
+   "source": "unnamed-white-house-aide",
+   "target": "white-house",
+   "label": "top aide in",
+   "type": "political",
+   "claims": [
+    "C26"
+   ]
+  },
+  {
+   "source": "propublica",
+   "target": "vulcan-elements",
+   "label": "reported White House call on",
+   "type": "media",
+   "claims": [
+    "C26"
+   ]
+  },
+  {
+   "source": "vulcan-elements",
+   "target": "rare-earths",
+   "label": "operates in",
+   "type": "commercial",
+   "claims": [
+    "C26"
+   ]
+  },
+  {
+   "source": "1789-capital",
+   "target": "us-government",
+   "label": "says it never calls",
+   "type": "political",
+   "claims": [
+    "C26"
+   ]
+  },
+  {
+   "source": "pentagon",
+   "target": "vulcan-elements",
+   "label": "deal partner of",
+   "type": "commercial",
+   "claims": [
+    "C26"
+   ]
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "new-america-acquisition-i",
+   "label": "adviser to",
+   "type": "advisory",
+   "claims": [
+    "C27"
+   ]
+  },
+  {
+   "source": "eric-trump",
+   "target": "new-america-acquisition-i",
+   "label": "adviser to",
+   "type": "advisory",
+   "claims": [
+    "C27"
+   ]
+  },
+  {
+   "source": "new-america-acquisition-i",
+   "target": "sec",
+   "label": "filed (then edited) prospectus with",
+   "type": "regulatory",
+   "claims": [
+    "C27"
+   ]
+  },
+  {
+   "source": "new-america-acquisition-i",
+   "target": "us-government",
+   "label": "targets firms reliant on contracts from",
+   "type": "commercial",
+   "claims": [
+    "C27"
+   ],
+   "amount_usd": 300000000
+  },
+  {
+   "source": "eric-trump",
+   "target": "foundation-future-industries",
+   "label": "chief strategy adviser to",
+   "type": "advisory",
+   "claims": [
+    "C28"
+   ]
+  },
+  {
+   "source": "sankaet-pathak",
+   "target": "foundation-future-industries",
+   "label": "founder and CEO of",
+   "type": "ownership",
+   "claims": [
+    "C28"
+   ]
+  },
+  {
+   "source": "pentagon",
+   "target": "foundation-future-industries",
+   "label": "awarded $24M contract to",
+   "type": "money",
+   "claims": [
+    "C28"
+   ],
+   "amount_usd": 24000000
+  },
+  {
+   "source": "pentagon",
+   "target": "pentagon-foundation-contract",
+   "label": "awarded",
+   "type": "money",
+   "claims": [
+    "C28"
+   ],
+   "amount_usd": 24000000
+  },
+  {
+   "source": "foundation-future-industries",
+   "target": "phantom-robot",
+   "label": "makes",
+   "type": "commercial",
+   "claims": [
+    "C28"
+   ]
+  },
+  {
+   "source": "marine-corps",
+   "target": "phantom-robot",
+   "label": "to test",
+   "type": "commercial",
+   "claims": [
+    "C28"
+   ]
+  },
+  {
+   "source": "marine-corps",
+   "target": "pentagon",
+   "label": "branch under",
+   "type": "political",
+   "claims": [
+    "C28"
+   ]
+  },
+  {
+   "source": "fox-news",
+   "target": "pentagon-foundation-contract",
+   "label": "presented as new",
+   "type": "media",
+   "claims": [
+    "C28"
+   ]
+  },
+  {
+   "source": "maria-bartiromo",
+   "target": "fox-news",
+   "label": "host on",
+   "type": "media",
+   "claims": [
+    "C28"
+   ]
+  },
+  {
+   "source": "maria-bartiromo",
+   "target": "eric-trump",
+   "label": "interviewed",
+   "type": "media",
+   "claims": [
+    "C28"
+   ]
+  },
+  {
+   "source": "wired",
+   "target": "pentagon-foundation-contract",
+   "label": "reported predates Eric Trump",
+   "type": "media",
+   "claims": [
+    "C28"
+   ]
+  },
+  {
+   "source": "eric-trump",
+   "target": "china",
+   "label": "justifies ventures as beating",
+   "type": "political",
+   "claims": [
+    "C28"
+   ]
+  },
+  {
+   "source": "trump-financial-disclosures",
+   "target": "donald-trump",
+   "label": "show ~$1.4B crypto income of ~$2.2B",
+   "type": "money",
+   "claims": [
+    "C29"
+   ],
+   "amount_usd": 1400000000
+  },
+  {
+   "source": "forbes",
+   "target": "eric-trump",
+   "label": "estimates 10x richer",
+   "type": "media",
+   "claims": [
+    "C29"
+   ]
+  },
+  {
+   "source": "forbes",
+   "target": "donald-trump-jr",
+   "label": "estimates 6x richer",
+   "type": "media",
+   "claims": [
+    "C29"
+   ]
+  },
+  {
+   "source": "forbes",
+   "target": "barron-trump",
+   "label": "estimates ~$150M net worth",
+   "type": "media",
+   "claims": [
+    "C29"
+   ],
+   "amount_usd": 150000000
+  },
+  {
+   "source": "retail-investors",
+   "target": "donald-trump",
+   "label": "lost money backing ventures of",
+   "type": "money",
+   "claims": [
+    "C29"
+   ]
+  },
+  {
+   "source": "coffeezilla",
+   "target": "investigating-the-president-video",
+   "label": "made",
+   "type": "media",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "investigating-the-president-video",
+   "target": "youtube",
+   "label": "published on",
+   "type": "media",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "coffeezilla",
+   "target": "patreon",
+   "label": "asks support via",
+   "type": "money",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "unnamed-lawyer",
+   "target": "coffeezilla",
+   "label": "threatened over story",
+   "type": "legal",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "coffeezilla",
+   "target": "donald-trump",
+   "label": "requested comment, no reply",
+   "type": "media",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "coffeezilla",
+   "target": "donald-trump-jr",
+   "label": "requested comment, no reply",
+   "type": "media",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "coffeezilla",
+   "target": "eric-trump",
+   "label": "requested comment, no reply",
+   "type": "media",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "coffeezilla",
+   "target": "melania-trump",
+   "label": "requested comment, no reply",
+   "type": "media",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "coffeezilla",
+   "label": "sent denials to",
+   "type": "media",
+   "claims": [
+    "C30",
+    "C07",
+    "C08",
+    "C10",
+    "C12"
+   ]
+  },
+  {
+   "source": "molly-white",
+   "target": "coffeezilla",
+   "label": "helped map the web for",
+   "type": "media",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "steve-bannon",
+   "target": "flood-the-zone",
+   "label": "devised",
+   "type": "media",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "flood-the-zone",
+   "target": "iran-war",
+   "label": "illustrated by attention shift to",
+   "type": "media",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "donald-trump",
+   "target": "drain-the-swamp",
+   "label": "campaigned on",
+   "type": "political",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "former-trump-supporters",
+   "target": "donald-trump",
+   "label": "now call most corrupt president",
+   "type": "political",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "corruption-polls",
+   "target": "us-government",
+   "label": "show 20-year high concern about",
+   "type": "political",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "investigating-the-president-video",
+   "target": "watergate",
+   "label": "says this dwarfs",
+   "type": "media",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "investigating-the-president-video",
+   "target": "jimmy-carter",
+   "label": "contrasts with peanut farm of",
+   "type": "media",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "investigating-the-president-video",
+   "target": "hunter-biden",
+   "label": "skit invokes whataboutism on",
+   "type": "media",
+   "claims": [
+    "C30"
+   ]
+  },
+  {
+   "source": "apple-app-store",
+   "target": "venmo",
+   "label": "formerly topped by",
+   "type": "commercial",
+   "claims": [
+    "C25"
+   ]
+  },
+  {
+   "source": "apple-app-store",
+   "target": "paypal",
+   "label": "formerly topped by",
+   "type": "commercial",
+   "claims": [
+    "C25"
+   ]
+  }
+ ],
+ "claim_entities": {
+  "C01": [
+   "china",
+   "coffeezilla",
+   "donald-trump",
+   "inauguration-2025",
+   "molly-white",
+   "retail-investors",
+   "trump-coin",
+   "trump-coin-shell-companies",
+   "white-house"
+  ],
+  "C02": [
+   "donald-trump",
+   "melania-coin",
+   "melania-nfts",
+   "melania-trump",
+   "molly-white",
+   "retail-investors",
+   "trump-coin-shell-companies"
+  ],
+  "C03": [
+   "conflict-of-interest-laws",
+   "donald-trump",
+   "karoline-leavitt",
+   "trump-coin",
+   "trump-coin-dinner",
+   "trump-coin-top-holders",
+   "white-house"
+  ],
+  "C04": [
+   "chase-herro",
+   "donald-trump",
+   "donald-trump-jr",
+   "election-2024",
+   "eric-trump",
+   "molly-white",
+   "usd1",
+   "wlf-defi-app",
+   "wlfi-token",
+   "wlfi-token-sale",
+   "world-liberty-financial",
+   "zach-witkoff"
+  ],
+  "C05": [
+   "donald-trump",
+   "justin-sun",
+   "sec",
+   "sec-v-sun",
+   "sun-wlf-lawsuits",
+   "tron",
+   "twitter-x",
+   "world-liberty-financial"
+  ],
+  "C06": [
+   "donald-trump",
+   "inauguration-2025",
+   "mohamed-bin-zayed",
+   "sam-kessler",
+   "tahnoon-bin-zayed",
+   "tahnoon-wlf-deal",
+   "tahnoon-wlf-vehicle",
+   "uae",
+   "wall-street-journal",
+   "world-liberty-financial"
+  ],
+  "C07": [
+   "binance",
+   "coffeezilla",
+   "donald-trump",
+   "mgx",
+   "mgx-binance-investment",
+   "molly-white",
+   "tahnoon-bin-zayed",
+   "uae",
+   "usd1",
+   "world-liberty-financial",
+   "zach-witkoff"
+  ],
+  "C08": [
+   "ai-chips",
+   "coffeezilla",
+   "donald-trump",
+   "iran",
+   "iran-war",
+   "mgx",
+   "molly-white",
+   "openai",
+   "oracle",
+   "softbank",
+   "stargate",
+   "tahnoon-wlf-deal",
+   "uae",
+   "uae-chips-deal",
+   "uae-currency-swap",
+   "united-states",
+   "white-house",
+   "world-liberty-financial"
+  ],
+  "C09": [
+   "binance",
+   "changpeng-zhao",
+   "cz-pardon",
+   "donald-trump",
+   "mgx-binance-investment",
+   "sec",
+   "sec-v-binance",
+   "usd1"
+  ],
+  "C10": [
+   "binance",
+   "binance-usd1-promotions",
+   "coffeezilla",
+   "donald-trump",
+   "usd1",
+   "wall-street-journal",
+   "world-liberty-financial"
+  ],
+  "C11": [
+   "clarity-act",
+   "donald-trump",
+   "donald-trump-jr",
+   "eric-trump",
+   "genius-act",
+   "molly-white",
+   "twitter-x",
+   "us-congress",
+   "usd1",
+   "world-liberty-financial"
+  ],
+  "C12": [
+   "coffeezilla",
+   "donald-trump",
+   "occ",
+   "wlf-bank-charter",
+   "world-liberty-financial"
+  ],
+  "C13": [
+   "alt5-sigma",
+   "alt5-wlfi-deal",
+   "chase-herro",
+   "donald-trump",
+   "molly-white",
+   "retail-investors",
+   "sec",
+   "steve-witkoff",
+   "trump-family-wlf-entity",
+   "wlfi-token",
+   "world-liberty-financial",
+   "zach-witkoff"
+  ],
+  "C14": [
+   "steve-witkoff",
+   "tahnoon-bin-zayed",
+   "tahnoon-wlf-vehicle",
+   "uae",
+   "white-house",
+   "world-liberty-financial",
+   "zach-witkoff"
+  ],
+  "C15": [
+   "affinity-partners",
+   "conflict-of-interest-laws",
+   "donald-trump",
+   "gulf-sovereign-funds",
+   "jared-kushner",
+   "molly-white",
+   "new-york-times",
+   "saudi-arabia",
+   "saudi-pif",
+   "steve-witkoff",
+   "white-house"
+  ],
+  "C16": [
+   "air-force-one",
+   "apkws",
+   "donald-trump",
+   "isaac-saul",
+   "patriot-missiles",
+   "qatar",
+   "qatar-2026-arms-sales",
+   "qatar-arms-deal",
+   "qatar-development-project",
+   "qatar-jet",
+   "state-department",
+   "tangle-news",
+   "trump-gulf-hotel",
+   "trump-organization",
+   "trump-presidential-library",
+   "trump-qatar-golf",
+   "united-states",
+   "white-house"
+  ],
+  "C17": [
+   "coffeezilla",
+   "donald-trump",
+   "t1-phone",
+   "trump-bible",
+   "trump-fragrances",
+   "trump-mobile",
+   "trump-nfts",
+   "trump-organization",
+   "trump-sneakers",
+   "trump-watches",
+   "united-states"
+  ],
+  "C18": [
+   "american-bitcoin",
+   "asher-genoot",
+   "bitcoin",
+   "crypto-treasury-companies",
+   "donald-trump",
+   "donald-trump-jr",
+   "eric-trump",
+   "hut-8",
+   "japan",
+   "matt-prusak",
+   "metaplanet",
+   "retail-investors",
+   "wired"
+  ],
+  "C19": [
+   "bitcoin",
+   "cumberland-drw",
+   "don-wilson",
+   "donald-trump",
+   "sec",
+   "sec-v-cumberland",
+   "strategic-bitcoin-reserve",
+   "tmtg-bitcoin-treasury",
+   "trump-media-technology-group"
+  ],
+  "C20": [
+   "donald-j-trump-revocable-trust",
+   "donald-trump",
+   "intel",
+   "intel-meme-post",
+   "trump-financial-disclosures",
+   "trump-media-technology-group",
+   "truth-social",
+   "white-house"
+  ],
+  "C21": [
+   "kevin-mcgurn",
+   "trump-media-technology-group",
+   "truth-plus",
+   "truth-social",
+   "truth-social-api"
+  ],
+  "C22": [
+   "cftc",
+   "cftc-amicus-crypto-com",
+   "crypto-com",
+   "crypto-com-bank-charter",
+   "crypto-com-tmtg-partnership",
+   "donald-trump",
+   "molly-white",
+   "occ",
+   "paul-atkins",
+   "prediction-markets",
+   "sec",
+   "sec-crypto-com-investigation",
+   "trump-affiliated-pacs",
+   "trump-media-technology-group"
+  ],
+  "C23": [
+   "binance",
+   "coinbase",
+   "crypto-com",
+   "donald-trump",
+   "gemini",
+   "inauguration-2025",
+   "kraken",
+   "military-parade",
+   "molly-white",
+   "sec",
+   "sec-crypto-cases-dropped",
+   "sec-crypto-com-investigation",
+   "sec-v-binance",
+   "sec-v-cumberland",
+   "sec-v-sun",
+   "trump-2024-campaign",
+   "trump-affiliated-pacs",
+   "trump-inauguration-fund",
+   "white-house-ballroom"
+  ],
+  "C24": [
+   "donald-trump",
+   "fusion-energy",
+   "retail-investors",
+   "sp-500",
+   "tae-technologies",
+   "tmtg-tae-merger",
+   "trump-media-technology-group",
+   "truth-social-american-icons-etf",
+   "truth-social-american-next-frontiers-etf",
+   "truth-social-american-security-defense-etf",
+   "truth-social-etfs",
+   "us-government"
+  ],
+  "C25": [
+   "apple-app-store",
+   "cftc",
+   "cftc-polymarket-probe",
+   "coffeezilla",
+   "donald-trump",
+   "donald-trump-jr",
+   "event-contracts-legal-theory",
+   "hyper-gamblification-video",
+   "kalshi",
+   "mike-selig",
+   "paypal",
+   "polymarket",
+   "prediction-markets",
+   "republican-state-ags",
+   "selig-congressional-hearing",
+   "tarek-mansour",
+   "trump-media-technology-group",
+   "truth-predict",
+   "truth-social",
+   "unnamed-congressman",
+   "us-congress",
+   "venmo",
+   "white-house"
+  ],
+  "C26": [
+   "1789-capital",
+   "donald-trump",
+   "donald-trump-jr",
+   "pentagon",
+   "propublica",
+   "rare-earths",
+   "unnamed-white-house-aide",
+   "us-government",
+   "vulcan-elements",
+   "vulcan-magnet-facility",
+   "white-house"
+  ],
+  "C27": [
+   "donald-trump",
+   "donald-trump-jr",
+   "eric-trump",
+   "new-america-acquisition-i",
+   "pentagon",
+   "sec",
+   "us-government"
+  ],
+  "C28": [
+   "china",
+   "donald-trump",
+   "eric-trump",
+   "foundation-future-industries",
+   "fox-news",
+   "maria-bartiromo",
+   "marine-corps",
+   "pentagon",
+   "pentagon-foundation-contract",
+   "phantom-robot",
+   "sankaet-pathak",
+   "wired"
+  ],
+  "C29": [
+   "alt5-sigma",
+   "barron-trump",
+   "donald-trump",
+   "donald-trump-jr",
+   "eric-trump",
+   "forbes",
+   "melania-coin",
+   "retail-investors",
+   "trump-coin",
+   "trump-financial-disclosures",
+   "trump-media-technology-group",
+   "world-liberty-financial"
+  ],
+  "C30": [
+   "coffeezilla",
+   "corruption-polls",
+   "donald-trump",
+   "donald-trump-jr",
+   "drain-the-swamp",
+   "eric-trump",
+   "flood-the-zone",
+   "former-trump-supporters",
+   "hunter-biden",
+   "investigating-the-president-video",
+   "iran",
+   "iran-war",
+   "isaac-saul",
+   "jimmy-carter",
+   "melania-trump",
+   "molly-white",
+   "patreon",
+   "sam-kessler",
+   "steve-bannon",
+   "tangle-news",
+   "united-states",
+   "unnamed-lawyer",
+   "us-government",
+   "wall-street-journal",
+   "watergate",
+   "world-liberty-financial",
+   "youtube"
+  ]
+ },
+ "themes": [
+  {
+   "id": "theme-regulator-dropped-case",
+   "name": "Regulator dropped the case after money flowed",
+   "description": "A firm or founder facing SEC/CFTC action invests in, partners with or donates to a Trump venture, and the enforcement matter is dismissed, closed or settled.",
+   "claims": [
+    "C05",
+    "C09",
+    "C19",
+    "C22",
+    "C23",
+    "C25"
+   ],
+   "entities": [
+    "sec",
+    "cftc",
+    "justin-sun",
+    "tron",
+    "binance",
+    "changpeng-zhao",
+    "cumberland-drw",
+    "don-wilson",
+    "crypto-com",
+    "coinbase",
+    "kraken",
+    "gemini",
+    "polymarket",
+    "sec-v-sun",
+    "sec-v-binance",
+    "sec-v-cumberland",
+    "sec-crypto-com-investigation",
+    "sec-crypto-cases-dropped",
+    "cftc-polymarket-probe"
+   ]
+  },
+  {
+   "id": "theme-gulf-sovereign-money",
+   "name": "Gulf sovereign money and dual-role envoys",
+   "description": "UAE, Saudi and Qatari state-linked money flows to Trump-family or in-law ventures with little oversight. The people negotiating for the US in the region (Witkoff, Kushner) have family or personal money tied to the same Gulf investors.",
+   "claims": [
+    "C06",
+    "C07",
+    "C08",
+    "C14",
+    "C15",
+    "C16"
+   ],
+   "entities": [
+    "uae",
+    "qatar",
+    "saudi-arabia",
+    "tahnoon-bin-zayed",
+    "mohamed-bin-zayed",
+    "mgx",
+    "saudi-pif",
+    "gulf-sovereign-funds",
+    "affinity-partners",
+    "jared-kushner",
+    "world-liberty-financial",
+    "usd1",
+    "qatar-jet",
+    "trump-qatar-golf",
+    "trump-gulf-hotel",
+    "tahnoon-wlf-vehicle",
+    "steve-witkoff",
+    "zach-witkoff"
+   ]
+  },
+  {
+   "id": "theme-president-appoints-regulator",
+   "name": "President appoints the regulator of the family business",
+   "description": "Trump nominates or oversees the heads of the SEC, CFTC and OCC, which regulate or license companies that pay or are owned by his family.",
+   "claims": [
+    "C12",
+    "C13",
+    "C19",
+    "C20",
+    "C22",
+    "C23",
+    "C24",
+    "C25",
+    "C27"
+   ],
+   "entities": [
+    "donald-trump",
+    "sec",
+    "cftc",
+    "occ",
+    "mike-selig",
+    "paul-atkins",
+    "world-liberty-financial",
+    "alt5-sigma",
+    "trump-media-technology-group",
+    "crypto-com",
+    "kalshi",
+    "polymarket",
+    "wlf-bank-charter",
+    "crypto-com-bank-charter",
+    "new-america-acquisition-i"
+   ]
+  },
+  {
+   "id": "theme-policy-shapes-family-markets",
+   "name": "President makes the law for markets the family is in",
+   "description": "Legislation and executive orders (GENIUS, CLARITY, Bitcoin reserve, prediction-market policy) land in exactly the sectors where the family holds stakes.",
+   "claims": [
+    "C11",
+    "C18",
+    "C19",
+    "C24",
+    "C25"
+   ],
+   "entities": [
+    "donald-trump",
+    "genius-act",
+    "clarity-act",
+    "strategic-bitcoin-reserve",
+    "usd1",
+    "bitcoin",
+    "american-bitcoin",
+    "tmtg-bitcoin-treasury",
+    "prediction-markets",
+    "fusion-energy",
+    "tae-technologies",
+    "event-contracts-legal-theory",
+    "us-congress"
+   ]
+  },
+  {
+   "id": "theme-official-favours-follow-money",
+   "name": "Official favours follow the money",
+   "description": "Pardons, export approvals, arms sales, charters and amicus briefs arrive around the time counterparties enrich Trump ventures; presented as coincidence.",
+   "claims": [
+    "C08",
+    "C09",
+    "C12",
+    "C16",
+    "C22"
+   ],
+   "entities": [
+    "cz-pardon",
+    "uae-chips-deal",
+    "uae-currency-swap",
+    "stargate",
+    "qatar-arms-deal",
+    "qatar-2026-arms-sales",
+    "cftc-amicus-crypto-com",
+    "crypto-com-bank-charter",
+    "wlf-bank-charter",
+    "binance",
+    "mgx",
+    "qatar",
+    "uae",
+    "white-house",
+    "state-department"
+   ]
+  },
+  {
+   "id": "theme-beat-china",
+   "name": "The 'beat China' justification",
+   "description": "Family crypto and robotics ventures are defended as necessary so America wins the race against China.",
+   "claims": [
+    "C01",
+    "C09",
+    "C28"
+   ],
+   "entities": [
+    "china",
+    "donald-trump",
+    "eric-trump",
+    "trump-coin",
+    "foundation-future-industries",
+    "changpeng-zhao"
+   ]
+  },
+  {
+   "id": "theme-retail-losses",
+   "name": "Insiders profit, retail investors lose",
+   "description": "Coins and stocks that paid the family billions are down 90%+ for the supporters who bought them.",
+   "claims": [
+    "C01",
+    "C02",
+    "C13",
+    "C18",
+    "C24",
+    "C29"
+   ],
+   "entities": [
+    "retail-investors",
+    "trump-coin",
+    "melania-coin",
+    "wlfi-token",
+    "alt5-sigma",
+    "american-bitcoin",
+    "trump-media-technology-group",
+    "donald-trump",
+    "trump-financial-disclosures"
+   ]
+  },
+  {
+   "id": "theme-hired-for-the-name",
+   "name": "Family member hired as adviser for the name",
+   "description": "Companies in regulated or contract-dependent sectors put the president's sons on boards or advisory roles without being able to say what they do beyond 'narrative'.",
+   "claims": [
+    "C05",
+    "C18",
+    "C25",
+    "C26",
+    "C27",
+    "C28"
+   ],
+   "entities": [
+    "donald-trump-jr",
+    "eric-trump",
+    "kalshi",
+    "polymarket",
+    "metaplanet",
+    "american-bitcoin",
+    "hut-8",
+    "matt-prusak",
+    "1789-capital",
+    "new-america-acquisition-i",
+    "foundation-future-industries",
+    "tarek-mansour",
+    "justin-sun"
+   ]
+  },
+  {
+   "id": "theme-government-contracts",
+   "name": "Government contracts near family-linked firms",
+   "description": "Companies the sons invest in or advise receive, or explicitly target, federal contracts and incentives.",
+   "claims": [
+    "C26",
+    "C27",
+    "C28"
+   ],
+   "entities": [
+    "vulcan-elements",
+    "1789-capital",
+    "new-america-acquisition-i",
+    "foundation-future-industries",
+    "pentagon",
+    "marine-corps",
+    "us-government",
+    "unnamed-white-house-aide",
+    "pentagon-foundation-contract",
+    "vulcan-magnet-facility"
+   ]
+  },
+  {
+   "id": "theme-secrecy-non-disclosure",
+   "name": "Secrecy and non-disclosure",
+   "description": "Material ties are hidden or quietly edited: the secret 49% stake, undisclosed MGX link, shell companies, an envoy with no disclosure duty, filing and website language removed.",
+   "claims": [
+    "C01",
+    "C02",
+    "C06",
+    "C07",
+    "C15",
+    "C17",
+    "C27"
+   ],
+   "entities": [
+    "tahnoon-wlf-deal",
+    "tahnoon-wlf-vehicle",
+    "trump-coin-shell-companies",
+    "mgx-binance-investment",
+    "jared-kushner",
+    "t1-phone",
+    "new-america-acquisition-i",
+    "world-liberty-financial",
+    "wall-street-journal"
+   ]
+  },
+  {
+   "id": "theme-blanket-denials",
+   "name": "Blanket denials",
+   "description": "Every party denies corruption or quid pro quo: 'abides by all laws', 'chosen on its merits', 'career staffers', 'I don't know who he is', 'we treat all participants alike'.",
+   "claims": [
+    "C03",
+    "C05",
+    "C07",
+    "C08",
+    "C09",
+    "C10",
+    "C12",
+    "C19",
+    "C20",
+    "C25",
+    "C26",
+    "C30"
+   ],
+   "entities": [
+    "world-liberty-financial",
+    "white-house",
+    "karoline-leavitt",
+    "donald-trump",
+    "changpeng-zhao",
+    "cumberland-drw",
+    "mike-selig",
+    "1789-capital",
+    "donald-trump-jr",
+    "tarek-mansour"
+   ]
+  },
+  {
+   "id": "theme-monetizing-the-presidency",
+   "name": "Monetizing the office, brand and access",
+   "description": "Selling access and the presidential brand directly: holder dinners, merch, a paid feed of market-moving posts, stock-moving truths, gifts.",
+   "claims": [
+    "C01",
+    "C02",
+    "C03",
+    "C17",
+    "C20",
+    "C21",
+    "C23"
+   ],
+   "entities": [
+    "trump-coin",
+    "trump-coin-dinner",
+    "trump-nfts",
+    "melania-nfts",
+    "trump-watches",
+    "trump-sneakers",
+    "trump-bible",
+    "trump-fragrances",
+    "t1-phone",
+    "truth-social",
+    "truth-social-api",
+    "intel-meme-post",
+    "trump-inauguration-fund",
+    "military-parade",
+    "white-house-ballroom",
+    "qatar-jet"
+   ]
+  },
+  {
+   "id": "theme-narrative-over-product",
+   "name": "Narrative over product, circular deals",
+   "description": "Ventures with little or no product sell on the Trump story, and related parties sit on both sides of deals that inflate each other.",
+   "claims": [
+    "C04",
+    "C07",
+    "C10",
+    "C13",
+    "C18",
+    "C24",
+    "C25"
+   ],
+   "entities": [
+    "chase-herro",
+    "world-liberty-financial",
+    "wlf-defi-app",
+    "wlfi-token",
+    "usd1",
+    "alt5-sigma",
+    "binance",
+    "binance-usd1-promotions",
+    "mgx",
+    "american-bitcoin",
+    "hut-8",
+    "truth-predict",
+    "trump-media-technology-group"
+   ]
+  },
+  {
+   "id": "theme-flood-the-zone",
+   "name": "Flood the zone: too much to follow",
+   "description": "The sheer volume and speed of deals prevents sustained scrutiny; the video's premise for aggregating everything.",
+   "claims": [
+    "C30"
+   ],
+   "entities": [
+    "steve-bannon",
+    "flood-the-zone",
+    "coffeezilla",
+    "molly-white",
+    "corruption-polls",
+    "drain-the-swamp",
+    "iran-war",
+    "former-trump-supporters"
+   ]
+  }
+ ]
+}
