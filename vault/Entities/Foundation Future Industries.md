@@ -44,5 +44,5 @@ Humanoid robot startup with $24M Pentagon contract; Eric Trump is chief strategy
 ## Themes
 
 - [[Theme - The 'beat China' justification]]
-- [[Theme - Family member hired as adviser for the name]]
+- [[Theme - Family members hired as advisers]]
 - [[Theme - Government contracts near family-linked firms]]

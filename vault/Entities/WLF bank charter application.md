@@ -25,5 +25,5 @@ Provisionally approved by the OCC.
 
 ## Themes
 
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - Official favours follow the money]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Official acts close in time to payments]]

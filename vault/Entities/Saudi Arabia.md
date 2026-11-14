@@ -2,8 +2,8 @@
 id: "saudi-arabia"
 kind: "entity"
 type: "country"
-connections: 11
-claims: 5
+connections: 14
+claims: 7
 tags:
   - "entity"
   - "type/country"
@@ -27,9 +27,12 @@ Gulf state whose PIF backs Kushner's fund.
 - [[C37 Jared Kushner's hacked phone]] · Unverified
 - [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
+- [[Saudi Arabia]] *embassy contract $60K/month ($720K/year)* [[Ballard Partners]] (2025-03-31, $720K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Saudi Arabia]] *owns* [[Public Investment Fund (Saudi Arabia)]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Saudi Arabia]] *allegedly co-funded account via Azerbaijan* [[Watani Al Emarat Foundation]] (2018, money) · [[C37 Jared Kushner's hacked phone|C37]]
 - [[Saudi Arabia]] *pledged ~$1T US investment to* [[White House Trump administration]] (2025-11-18, $1T, political) · [[C56 Saudi Arabia family deals alongside US policy|C56]]

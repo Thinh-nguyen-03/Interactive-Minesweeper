@@ -4745,7 +4745,7 @@
  "themes": [
   {
    "id": "theme-regulator-dropped-case",
-   "name": "Regulator dropped the case after money flowed",
+   "name": "Enforcement cases dropped near money flows",
    "description": "A firm or founder facing SEC/CFTC action invests in, partners with or donates to a Trump venture, and the enforcement matter is dismissed, closed or settled.",
    "claims": [
     "C05",
@@ -4812,7 +4812,7 @@
   },
   {
    "id": "theme-president-appoints-regulator",
-   "name": "President appoints the regulator of the family business",
+   "name": "President appoints the regulators of family-linked businesses",
    "description": "Trump nominates or oversees the heads of the SEC, CFTC and OCC, which regulate or license companies that pay or are owned by his family.",
    "claims": [
     "C12",
@@ -4845,7 +4845,7 @@
   },
   {
    "id": "theme-policy-shapes-family-markets",
-   "name": "President makes the law for markets the family is in",
+   "name": "Policy made for markets the family operates in",
    "description": "Legislation and executive orders (GENIUS, CLARITY, Bitcoin reserve, prediction-market policy) land in exactly the sectors where the family holds stakes.",
    "claims": [
     "C11",
@@ -4872,7 +4872,7 @@
   },
   {
    "id": "theme-official-favours-follow-money",
-   "name": "Official favours follow the money",
+   "name": "Official acts close in time to payments",
    "description": "Pardons, export approvals, arms sales, charters and amicus briefs arrive around the time counterparties enrich Trump ventures; presented as coincidence.",
    "claims": [
     "C08",
@@ -4919,7 +4919,7 @@
   },
   {
    "id": "theme-retail-losses",
-   "name": "Insiders profit, retail investors lose",
+   "name": "Insider gains alongside retail investor losses",
    "description": "Coins and stocks that paid the family billions are down 90%+ for the supporters who bought them.",
    "claims": [
     "C01",
@@ -4943,7 +4943,7 @@
   },
   {
    "id": "theme-hired-for-the-name",
-   "name": "Family member hired as adviser for the name",
+   "name": "Family members hired as advisers",
    "description": "Companies in regulated or contract-dependent sectors put the president's sons on boards or advisory roles without being able to say what they do beyond 'narrative'.",
    "claims": [
     "C05",
@@ -5018,7 +5018,7 @@
   },
   {
    "id": "theme-blanket-denials",
-   "name": "Blanket denials",
+   "name": "Denials from everyone named",
    "description": "Every party denies corruption or quid pro quo: 'abides by all laws', 'chosen on its merits', 'career staffers', 'I don't know who he is', 'we treat all participants alike'.",
    "claims": [
     "C03",
@@ -5049,7 +5049,7 @@
   },
   {
    "id": "theme-monetizing-the-presidency",
-   "name": "Monetizing the office, brand and access",
+   "name": "Earning from the office, brand and access",
    "description": "Selling access and the presidential brand directly: holder dinners, merch, a paid feed of market-moving posts, stock-moving truths, gifts.",
    "claims": [
     "C01",
@@ -5081,7 +5081,7 @@
   },
   {
    "id": "theme-narrative-over-product",
-   "name": "Narrative over product, circular deals",
+   "name": "Narrative ahead of product; circular deals",
    "description": "Ventures with little or no product sell on the Trump story, and related parties sit on both sides of deals that inflate each other.",
    "claims": [
     "C04",
@@ -5110,7 +5110,7 @@
   },
   {
    "id": "theme-flood-the-zone",
-   "name": "Flood the zone: too much to follow",
+   "name": "Volume of stories: too much to follow",
    "description": "The sheer volume and speed of deals prevents sustained scrutiny; the video's premise for aggregating everything.",
    "claims": [
     "C30"

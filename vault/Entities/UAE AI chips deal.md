@@ -4,8 +4,8 @@ kind: "entity"
 type: "event"
 aliases:
   - "US-UAE AI chips deal"
-connections: 16
-claims: 7
+connections: 17
+claims: 8
 tags:
   - "entity"
   - "type/event"
@@ -31,6 +31,7 @@ US approval of long-refused AI chip exports to the UAE.
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -52,4 +53,4 @@ US approval of long-refused AI chip exports to the UAE.
 
 ## Themes
 
-- [[Theme - Official favours follow the money]]
+- [[Theme - Official acts close in time to payments]]

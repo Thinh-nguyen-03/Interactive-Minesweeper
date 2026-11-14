@@ -3,11 +3,12 @@ id: "new-america-acquisition-i"
 kind: "entity"
 type: "company"
 aliases:
+  - "New America Acquisition I"
   - "New America Acquisition I Corp."
   - "New America SPAC"
   - "new American acquisition one corp"
-connections: 18
-claims: 6
+connections: 19
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -32,6 +33,7 @@ $300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from go
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 
 ## Relationships
 
@@ -39,6 +41,7 @@ $300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from go
 - [[D. Boral Capital]] *co-lead underwriter* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[D. Boral Capital]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[D. Boral Capital]] *co-led IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[D. Boral Capital]] *co-underwrote $345M IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Dominari Holdings Dominari Securities]] *co-lead underwriter* [[New America Acquisition I Corp]] (2025-12, $345M, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO (Dominari Securities)* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C27 New America Acquisition I Corp SPAC|C27]]
@@ -62,7 +65,7 @@ $300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from go
 
 ## Themes
 
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - Family member hired as adviser for the name]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Family members hired as advisers]]
 - [[Theme - Government contracts near family-linked firms]]
 - [[Theme - Secrecy and non-disclosure]]

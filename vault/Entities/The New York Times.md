@@ -5,8 +5,8 @@ type: "media"
 aliases:
   - "NYT"
   - "New York Times"
-connections: 34
-claims: 17
+connections: 35
+claims: 18
 tags:
   - "entity"
   - "type/media"
@@ -42,6 +42,7 @@ Reported Affinity's $5B raise.
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 

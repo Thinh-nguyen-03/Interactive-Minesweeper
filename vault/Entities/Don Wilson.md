@@ -31,4 +31,4 @@ DRW/Cumberland founder; TMTG bitcoin-treasury investor weeks after SEC case agai
 
 ## Themes
 
-- [[Theme - Regulator dropped the case after money flowed]]
+- [[Theme - Enforcement cases dropped near money flows]]

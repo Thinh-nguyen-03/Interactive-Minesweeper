@@ -22,4 +22,4 @@ Army Master Sgt. charged over Polymarket Maduro bets
 
 - [[Commodity Futures Trading Commission]] *civil insider-trading complaint (first on event contracts)* [[Gannon Ken Van Dyke]] (2026-04-23, regulatory) · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Gannon Ken Van Dyke]] *allegedly won ~$400K betting on Maduro ouster* [[Polymarket]] (2026-01, $400K, money) · [[C58 Market-moving posts and insider-trading allegations|C58]]
-- [[US Department of Justice]] *indicted for Polymarket bets on Maduro raid* [[Gannon Ken Van Dyke]] (2026-04-23, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[US Department of Justice (us-doj)]] *indicted for Polymarket bets on Maduro raid* [[Gannon Ken Van Dyke]] (2026-04-23, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]

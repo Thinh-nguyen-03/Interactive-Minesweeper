@@ -29,4 +29,4 @@ Trump-branded watches.
 
 ## Themes
 
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Earning from the office, brand and access]]

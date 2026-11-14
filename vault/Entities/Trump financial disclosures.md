@@ -26,4 +26,4 @@ Hundreds of pages showing crypto income and securities purchases.
 
 ## Themes
 
-- [[Theme - Insiders profit, retail investors lose]]
+- [[Theme - Insider gains alongside retail investor losses]]

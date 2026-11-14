@@ -2,8 +2,8 @@
 id: "tyler-winklevoss"
 kind: "entity"
 type: "person"
-connections: 11
-claims: 5
+connections: 12
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -18,6 +18,7 @@ Gemini co-founder; ~$1M BTC to Trump campaign 2024; ballroom donor
 - Gemini co-founder; >$5M BTC to MAGA Inc. Jun 2026
 - Gemini co-founder who lobbied against Quintenz
 - Gemini co-founder; listed ballroom donor
+- Gemini co-founder; opposed Quintenz
 
 ## Appears in claims
 
@@ -26,12 +27,14 @@ Gemini co-founder; ~$1M BTC to Trump campaign 2024; ballroom donor
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 
 ## Relationships
 
 - [[Brian Quintenz]] *released texts in which Winklevoss raised Gemini litigation* [[Tyler Winklevoss]] (political) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Cameron Winklevoss]] *twin brother of* [[Tyler Winklevoss]] (family) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Tyler Winklevoss]] *lobbied Trump against nomination* [[Brian Quintenz]] (2025-07, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Tyler Winklevoss]] *pressed on Gemini litigation; opposed nomination* [[Brian Quintenz]] (2025-09, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Tyler Winklevoss]] *co-founded* [[Gemini]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Tyler Winklevoss]] *co-founder of* [[Gemini]] (ownership) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Tyler Winklevoss]] *gave 79.35 BTC (>$5M)* [[MAGA Inc]] (2026-06-19, $5.01M, money) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]

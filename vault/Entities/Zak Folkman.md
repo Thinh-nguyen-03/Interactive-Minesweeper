@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Zachary Folkman"
-connections: 6
-claims: 3
+connections: 7
+claims: 4
 tags:
   - "entity"
   - "type/person"
@@ -17,6 +17,7 @@ tags:
 WLF co-founder; later an ALT5 director or observer.
 
 - WLF co-founder and Herro's business partner.
+- WLF co-founder; Axiom owner
 - WLF co-founder
 
 ## Appears in claims
@@ -24,9 +25,10 @@ WLF co-founder; later an ALT5 director or observer.
 - [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
 - [[C13 ALT5 Sigma $1.5B WLFI treasury deal]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
+- [[C63 Shell entities and ownership chains]] · Mostly accurate
 
 ## Relationships
 
 - [[Zak Folkman]] *board director or observer of* [[ALT5 Sigma]] (2025, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Zak Folkman]] *co-owns* [[Axiom Management Group]] (2024-10, ownership) · [[C42 How World Liberty insiders took money out|C42]]
+- [[Zak Folkman]] *co-owns* [[Axiom Management Group]] (2024-10, ownership) · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
 - [[Zak Folkman]] *co-founded* [[World Liberty Financial]] (2024-09, ownership) · [[C04 World Liberty Financial founding and token sale|C04]]

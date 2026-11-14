@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "US Office of Government Ethics"
-connections: 16
-claims: 9
+connections: 17
+claims: 10
 tags:
   - "entity"
   - "type/government"
@@ -33,6 +33,7 @@ Released Trump's annual financial disclosure on June 30, 2026.
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 
 ## Relationships
 

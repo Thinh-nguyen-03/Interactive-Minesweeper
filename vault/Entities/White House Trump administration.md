@@ -6,8 +6,8 @@ aliases:
   - "The White House"
   - "Trump administration"
   - "White House"
-connections: 74
-claims: 46
+connections: 82
+claims: 48
 tags:
   - "entity"
   - "type/government"
@@ -72,6 +72,8 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -93,8 +95,12 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[Saudi Arabia]] *pledged ~$1T US investment to* [[White House Trump administration]] (2025-11-18, $1T, political) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Steve Witkoff]] *Special Envoy to Middle East for* [[White House Trump administration]] (political) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] (2024-11, political) · [[C14 Steve and Zach Witkoff|C14]]
+- [[Susie Wiles]] *chief of staff* [[White House Trump administration]] (2025-01, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Unnamed top White House aide]] *top aide in* [[White House Trump administration]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[White House Trump administration]] *called tariff-cost display 'hostile and political act'* [[Amazon]] (2025-04-29, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[White House Trump administration]] *staff told not to meet (Politico, anonymous)* [[Brian Ballard]] (2025-03, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[White House Trump administration]] *withdrew CFTC nomination* [[Brian Quintenz]] (2025-09-30, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[White House Trump administration]] *pardon* [[Changpeng Zhao]] (2025-10-23, legal) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[White House Trump administration]] *denied special-interest influence on deal* [[Cove Kaz Capital Cove Capital]] (2026-06, political) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[White House Trump administration]] *announced* [[Pardon of Changpeng Zhao]] (2025-10-23, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[White House Trump administration]] *issued AI ethics waiver to* [[David Sacks]] (2025-06, regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
@@ -103,12 +109,14 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[White House Trump administration]] *says assets held in trust / discretionary accounts* [[Donald Trump]] (2026-07, political) · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[White House Trump administration]] *says others trade for* [[Donald Trump]] (political) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[White House Trump administration]] *staff warned not to trade on nonpublic info after his Iran pause post* [[Donald Trump]] (2026-03-24, regulatory) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[White House Trump administration]] *approved advanced-chip exports* [[G42]] (2025-11, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[White House Trump administration]] *US government took a 9.9% stake at $20.47/share in* [[Intel]] (2025-08-22, money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[White House Trump administration]] *classifies as unpaid volunteer, no disclosure filed* [[Jared Kushner]] (regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[White House Trump administration]] *briefed lawmakers on federal prediction-market policy* [[North Carolina (state government)]] (2026, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[White House Trump administration]] *reportedly contacted state officials on prediction markets* [[Republican Attorneys General Association]] (2026, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[White House Trump administration]] *says he has fully divested* [[Steve Witkoff]] (2026-09, political) · [[C42 How World Liberty insiders took money out|C42]]
 - [[White House Trump administration]] *issued executive order creating* [[Strategic Bitcoin Reserve]] (2025-03-06, political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[White House Trump administration]] *executive order approving divestiture framework* [[TikTok USDS Joint Venture LLC]] (2025-09-25, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[White House Trump administration]] *announced ~10% U.S. government stake for $35.6M* [[Trilogy Metals]] (2025-10-06, $35.6M, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[White House Trump administration]] *denies trade talks are related to* [[Trump Organization]] (2025-05, political) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[White House Trump administration]] *agreed AI Acceleration Partnership / chip framework with* [[United Arab Emirates]] (2025-05-15, regulatory) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
@@ -119,5 +127,5 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 
 ## Themes
 
-- [[Theme - Official favours follow the money]]
-- [[Theme - Blanket denials]]
+- [[Theme - Official acts close in time to payments]]
+- [[Theme - Denials from everyone named]]

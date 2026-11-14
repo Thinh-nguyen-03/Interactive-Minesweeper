@@ -2,8 +2,8 @@
 id: "china"
 kind: "entity"
 type: "country"
-connections: 14
-claims: 9
+connections: 15
+claims: 10
 tags:
   - "entity"
   - "type/country"
@@ -30,6 +30,7 @@ Rival invoked to justify the family's crypto and robotics ventures.
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
 
 ## Relationships

@@ -27,4 +27,4 @@ Two State Department approvals: APKWS and Patriot replenishment.
 
 ## Themes
 
-- [[Theme - Official favours follow the money]]
+- [[Theme - Official acts close in time to payments]]

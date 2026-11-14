@@ -81,8 +81,8 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 
 ## Themes
 
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - Family member hired as adviser for the name]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Family members hired as advisers]]
 - [[Theme - Government contracts near family-linked firms]]
 - [[Theme - Secrecy and non-disclosure]]
 

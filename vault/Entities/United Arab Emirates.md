@@ -6,8 +6,8 @@ aliases:
   - "Abu Dhabi"
   - "Dubai"
   - "UAE"
-connections: 38
-claims: 17
+connections: 40
+claims: 19
 tags:
   - "entity"
   - "type/country"
@@ -43,6 +43,8 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
+- [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -75,4 +77,4 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 ## Themes
 
 - [[Theme - Gulf sovereign money and dual-role envoys]]
-- [[Theme - Official favours follow the money]]
+- [[Theme - Official acts close in time to payments]]

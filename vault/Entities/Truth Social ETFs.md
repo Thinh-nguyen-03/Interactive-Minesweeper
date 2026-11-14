@@ -3,10 +3,11 @@ id: "truth-social-etfs"
 kind: "entity"
 type: "product"
 aliases:
+  - "Truth Social / Truth.Fi ETFs"
   - "Truth Social ETFs (TSSD, TSNF, TSIC and others)"
   - "non-woke index funds"
-connections: 9
-claims: 2
+connections: 11
+claims: 3
 tags:
   - "entity"
   - "type/product"
@@ -19,14 +20,17 @@ TMTG's 'non-woke' Republican-oriented index funds.
 
 - Five Truth.Fi-branded thematic ETFs launched on NYSE 2025-12-30.
 - Truth.Fi-branded ETFs advised by Yorkville America Equities
+- TMTG-branded ETFs with Crypto.com
 
 ## Appears in claims
 
 - [[C24 TMTG ETFs, TAE fusion merger, TMTG losses]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
+- [[Crypto.com]] *ETF partner* [[Truth Social ETFs]] (2025-03-24, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Trump Media & Technology Group]] *licenses Truth Social brand to / launched via Truth.Fi* [[Truth Social ETFs]] (2025-12-30, commercial) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Trump Media & Technology Group]] *sells* [[Truth Social ETFs]] (commercial) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Truth Social ETFs]] *pitched as non-woke version of* [[S&P 500]] (commercial) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]

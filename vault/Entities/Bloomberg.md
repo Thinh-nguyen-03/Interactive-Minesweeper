@@ -5,8 +5,8 @@ type: "media"
 aliases:
   - "Bloomberg / Billionaires Index"
   - "Bloomberg / Bloomberg Law"
-connections: 12
-claims: 7
+connections: 13
+claims: 8
 tags:
   - "entity"
   - "type/media"
@@ -18,10 +18,10 @@ tags:
 Reported (2026-06-05) WLF stablecoin profits fueled partly by a Binance promotional arrangement.
 
 - July 2026 investigation of family windfall versus investor losses.
+- Foreign-holder analysis; Zanker treasury scoop
 - First reported the Polymarket probe closures.
 - Reported American Ventures' microcap gains.
 - Main investigative source on Dominari.
-- Net-worth and token-sale estimates
 
 ## Appears in claims
 
@@ -32,6 +32,7 @@ Reported (2026-06-05) WLF stablecoin profits fueled partly by a Binance promotio
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 

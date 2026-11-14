@@ -37,4 +37,4 @@ Ordinary buyers of Trump-linked coins and stocks who, per the video, mostly lost
 
 ## Themes
 
-- [[Theme - Insiders profit, retail investors lose]]
+- [[Theme - Insider gains alongside retail investor losses]]

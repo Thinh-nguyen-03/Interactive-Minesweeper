@@ -54,4 +54,4 @@ White House press secretary (unnamed in video) who said the president abides by 
 
 ## Themes
 
-- [[Theme - Blanket denials]]
+- [[Theme - Denials from everyone named]]

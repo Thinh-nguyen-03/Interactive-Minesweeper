@@ -4,7 +4,7 @@ kind: "theme"
 tags:
   - "theme"
 ---
-# Family member hired as adviser for the name
+# Family members hired as advisers
 
 Companies in regulated or contract-dependent sectors put the president's sons on boards or advisory roles without being able to say what they do beyond 'narrative'.
 

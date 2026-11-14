@@ -29,5 +29,5 @@ Kalshi CEO (unnamed in the video) who would not explain what Don Jr. does as str
 
 ## Themes
 
-- [[Theme - Family member hired as adviser for the name]]
-- [[Theme - Blanket denials]]
+- [[Theme - Family members hired as advisers]]
+- [[Theme - Denials from everyone named]]

@@ -30,4 +30,4 @@ Executive order creating a US government bitcoin reserve.
 
 ## Themes
 
-- [[Theme - President makes the law for markets the family is in]]
+- [[Theme - Policy made for markets the family operates in]]

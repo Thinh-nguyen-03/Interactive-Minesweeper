@@ -4,7 +4,7 @@ kind: "theme"
 tags:
   - "theme"
 ---
-# Monetizing the office, brand and access
+# Earning from the office, brand and access
 
 Selling access and the presidential brand directly: holder dinners, merch, a paid feed of market-moving posts, stock-moving truths, gifts.
 

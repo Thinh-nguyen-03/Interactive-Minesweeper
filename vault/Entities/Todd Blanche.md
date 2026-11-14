@@ -14,6 +14,7 @@ tags:
 
 Trump's criminal defence lawyer; Deputy AG, then Attorney General.
 
+- Deputy AG, later AG; held crypto when signing NCET memo
 - Deputy Attorney General; author of the Apr 2025 memo
 - Deputy AG who fired Oyer; now Attorney General
 
@@ -22,7 +23,7 @@ Trump's criminal defence lawyer; Deputy AG, then Attorney General.
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
-- [[C65 Officials who decided matters involving their former clients or partners]] · Pending
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 
 ## Relationships
 
@@ -32,4 +33,6 @@ Trump's criminal defence lawyer; Deputy AG, then Attorney General.
 - [[Todd Blanche]] *fired* [[Liz Oyer]] (2025-03-07, legal) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Todd Blanche]] *disbanded by memo* [[National Cryptocurrency Enforcement Team]] (2025-04-07, regulatory) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Todd Blanche]] *disbanded via memo* [[National Cryptocurrency Enforcement Team]] (2025-04-07, regulatory) · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Todd Blanche]] *Deputy AG, then Attorney General of* [[US Department of Justice]] (2025, political) · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Todd Blanche]] *disbanded via memo while holding crypto* [[National Cryptocurrency Enforcement Team]] (2025-04-07, regulatory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Todd Blanche]] *Deputy AG, later AG* [[US Department of Justice (us-doj)]] (political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Todd Blanche]] *Deputy AG, then Attorney General of* [[US Department of Justice (us-doj)]] (2025, political) · [[C61 Shared lawyers and law firms across the deals|C61]]

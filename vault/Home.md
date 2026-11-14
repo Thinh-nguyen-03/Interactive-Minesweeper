@@ -12,10 +12,10 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 ## Verdicts
 
 - Confirmed: 2
-- Mostly accurate: 57
+- Mostly accurate: 60
 - Partly accurate: 3
 - Unverified: 2
-- Pending: 6
+- Pending: 3
 
 ## Claims
 
@@ -81,56 +81,56 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
-- [[C63 Shell entities and ownership chains]] · Pending
+- [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
-- [[C65 Officials who decided matters involving their former clients or partners]] · Pending
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
-- [[C67 Investors who show up in several Trump-family vehicles]] · Pending
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
 - [[C69 Master timeline money events versus government actions]] · Pending
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
 
 ## Themes
 
-- [[Theme - Regulator dropped the case after money flowed]]
+- [[Theme - Enforcement cases dropped near money flows]]
 - [[Theme - Gulf sovereign money and dual-role envoys]]
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - President makes the law for markets the family is in]]
-- [[Theme - Official favours follow the money]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Policy made for markets the family operates in]]
+- [[Theme - Official acts close in time to payments]]
 - [[Theme - The 'beat China' justification]]
-- [[Theme - Insiders profit, retail investors lose]]
-- [[Theme - Family member hired as adviser for the name]]
+- [[Theme - Insider gains alongside retail investor losses]]
+- [[Theme - Family members hired as advisers]]
 - [[Theme - Government contracts near family-linked firms]]
 - [[Theme - Secrecy and non-disclosure]]
-- [[Theme - Blanket denials]]
-- [[Theme - Monetizing the office, brand and access]]
-- [[Theme - Narrative over product, circular deals]]
-- [[Theme - Flood the zone too much to follow]]
+- [[Theme - Denials from everyone named]]
+- [[Theme - Earning from the office, brand and access]]
+- [[Theme - Narrative ahead of product; circular deals]]
+- [[Theme - Volume of stories too much to follow]]
 
 ## Most connected
 
-- [[Donald Trump]] (67 claims, 213 connections)
-- [[World Liberty Financial]] (30 claims, 84 connections)
-- [[Securities and Exchange Commission]] (24 claims, 83 connections)
-- [[White House Trump administration]] (46 claims, 74 connections)
-- [[Eric Trump]] (34 claims, 64 connections)
-- [[Donald Trump Jr]] (32 claims, 63 connections)
+- [[Donald Trump]] (69 claims, 220 connections)
+- [[World Liberty Financial]] (33 claims, 95 connections)
+- [[Securities and Exchange Commission]] (27 claims, 88 connections)
+- [[White House Trump administration]] (48 claims, 82 connections)
+- [[Donald Trump Jr]] (36 claims, 68 connections)
+- [[Eric Trump]] (36 claims, 66 connections)
+- [[Trump Media & Technology Group]] (18 claims, 58 connections)
 - [[Elizabeth Warren]] (25 claims, 56 connections)
-- [[Trump Media & Technology Group]] (16 claims, 54 connections)
+- [[Trump Organization]] (19 claims, 53 connections)
 - [[US Congress]] (33 claims, 53 connections)
-- [[Trump Organization]] (17 claims, 46 connections)
-- [[Jared Kushner]] (12 claims, 45 connections)
-- [[United Arab Emirates]] (17 claims, 38 connections)
-- [[Steve Witkoff]] (13 claims, 36 connections)
-- [[The New York Times]] (17 claims, 34 connections)
+- [[Jared Kushner]] (15 claims, 50 connections)
+- [[Steve Witkoff]] (16 claims, 41 connections)
+- [[United Arab Emirates]] (19 claims, 40 connections)
+- [[The New York Times]] (18 claims, 35 connections)
+- [[$TRUMP meme coin]] (11 claims, 35 connections)
+- [[Commodity Futures Trading Commission]] (10 claims, 34 connections)
 - [[Coffeezilla]] (14 claims, 33 connections)
-- [[Commodity Futures Trading Commission]] (8 claims, 32 connections)
-- [[The Wall Street Journal]] (17 claims, 31 connections)
-- [[$TRUMP meme coin]] (10 claims, 29 connections)
-- [[Crypto.com]] (9 claims, 28 connections)
-- [[Dominari Holdings Dominari Securities]] (7 claims, 27 connections)
-- [[USD1]] (12 claims, 27 connections)
-- [[Binance]] (12 claims, 26 connections)
-- [[Affinity Partners]] (9 claims, 25 connections)
-- [[Cantor Fitzgerald]] (5 claims, 25 connections)
-- [[David Sacks]] (8 claims, 25 connections)
+- [[Crypto.com]] (11 claims, 33 connections)
+- [[The Wall Street Journal]] (18 claims, 32 connections)
+- [[USD1]] (15 claims, 31 connections)
+- [[Dominari Holdings Dominari Securities]] (9 claims, 30 connections)
+- [[Qatar]] (10 claims, 29 connections)
+- [[Binance]] (14 claims, 28 connections)
+- [[Justin Sun]] (12 claims, 28 connections)
+- [[Affinity Partners]] (11 claims, 27 connections)

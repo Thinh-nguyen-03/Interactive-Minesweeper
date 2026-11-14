@@ -26,4 +26,4 @@ Financial help for the UAE during the Iran crisis that Trump said was under cons
 
 ## Themes
 
-- [[Theme - Official favours follow the money]]
+- [[Theme - Official acts close in time to payments]]

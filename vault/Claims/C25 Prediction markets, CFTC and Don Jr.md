@@ -103,12 +103,12 @@ Most of the core facts hold up. TMTG announced Truth Predict in Oct 2025 and she
 
 ## Themes
 
-- [[Theme - Regulator dropped the case after money flowed]]
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - President makes the law for markets the family is in]]
-- [[Theme - Family member hired as adviser for the name]]
-- [[Theme - Blanket denials]]
-- [[Theme - Narrative over product, circular deals]]
+- [[Theme - Enforcement cases dropped near money flows]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Policy made for markets the family operates in]]
+- [[Theme - Family members hired as advisers]]
+- [[Theme - Denials from everyone named]]
+- [[Theme - Narrative ahead of product; circular deals]]
 
 ## People and organisations
 
@@ -143,7 +143,7 @@ Most of the core facts hold up. TMTG announced Truth Predict in Oct 2025 and she
 - [[Truth Social]]
 - [[Unnamed member of Congress]]
 - [[US Congress]]
-- [[US Department of Justice]]
+- [[US Department of Justice (us-doj)]]
 - [[Venmo]]
 - [[White House Trump administration]]
 
@@ -166,7 +166,7 @@ Most of the core facts hold up. TMTG announced Truth Predict in Oct 2025 and she
 - [[Donald Trump]] *nominated as CFTC Chair* [[Mike Selig]] (2025-10, political) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Donald Trump]] *posted that industry must be protected* [[Prediction markets industry]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump Jr]] *strategic adviser (paid partly in shares, reportedly >$300k)* [[Kalshi]] (2025-01, $300K, advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Donald Trump Jr]] *strategic adviser to* [[Kalshi]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Donald Trump Jr]] *advisory board member* [[Polymarket]] (2025-08-26, advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C58 Market-moving posts and insider-trading allegations|C58]]
@@ -192,13 +192,13 @@ Most of the core facts hold up. TMTG announced Truth Predict in Oct 2025 and she
 - [[Truth Predict]] *entered* [[Prediction markets industry]] (commercial) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Unnamed member of Congress]] *questioned on White House pressure* [[Mike Selig]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[US Congress]] *held* [[Selig congressional hearing]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[US Department of Justice]] *closed probe* [[Polymarket]] (2025-07, legal) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[US Department of Justice (us-doj)]] *closed probe* [[Polymarket]] (2025-07, legal) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[White House Trump administration]] *reportedly contacted state officials on prediction markets* [[Republican Attorneys General Association]] (2026, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 
 ## Leads not covered by the video
 
 - **White House directly lobbied states over prediction markets**: The same NYT reporting says the White House, not only Don Jr., contacted state officials about prediction markets while the family holds stakes in Kalshi and Polymarket. [source](https://www.gambling.com/news/trump-jr-and-white-house-both-lobbied-states-over-prediction-markets) · [[White House Trump administration]] [[Donald Trump Jr]] [[Kalshi]] [[Polymarket]]
-- **DOJ and CFTC dropped Polymarket probes in July 2025, a month before 1789 Capital invested**: Polymarket's enforcement relief came shortly before Don Jr.'s firm invested and he joined its advisory board; the timing deserves its own check. [source](https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703) · [[Polymarket]] [[US Department of Justice]] [[Commodity Futures Trading Commission]] [[1789 Capital]] [[Donald Trump Jr]]
+- **DOJ and CFTC dropped Polymarket probes in July 2025, a month before 1789 Capital invested**: Polymarket's enforcement relief came shortly before Don Jr.'s firm invested and he joined its advisory board; the timing deserves its own check. [source](https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703) · [[Polymarket]] [[US Department of Justice (us-doj)]] [[Commodity Futures Trading Commission]] [[1789 Capital]] [[Donald Trump Jr]]
 - **Sen. Curtis seeks Senate Judiciary probe of Don Jr.'s prediction-market ties**: Republican congressional scrutiny of the same conflict. [source](https://www.legalsportsreport.com/?p=278593) · [[John Curtis]] [[Donald Trump Jr]] [[Kalshi]] [[Polymarket]]
 - **CFTC sues states (AZ, CT, IL, NY, WI) to defend prediction markets**: Selig's CFTC is litigating for the industry in which the president's son holds stakes. [source](https://www.covers.com/industry/cftc-sues-illinois-arizona-connecticut-prediction-markets-april-2-2026) · [[Commodity Futures Trading Commission]] [[Mike Selig]] [[Kalshi]] [[Polymarket]]
 - **TMTG ends $6.4B CRO treasury deal with Crypto.com and Yorkville; pursues prediction-market data licensing**: TMTG retreated from its Crypto.com ties while still earning data-licensing revenue from prediction-market operators. [source](https://beincrypto.com/trump-media-rethinks-crypto-ambitions-mcgurn/) · [[Trump Media & Technology Group]] [[Crypto.com]] [[Kevin McGurn]]

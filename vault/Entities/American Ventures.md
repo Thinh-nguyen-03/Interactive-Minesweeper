@@ -2,6 +2,8 @@
 id: "american-ventures"
 kind: "entity"
 type: "fund"
+aliases:
+  - "American Ventures (Management LLC and SPVs)"
 connections: 11
 claims: 5
 tags:
@@ -16,6 +18,7 @@ $1B Dominari-created microcap investment vehicle (about 90% Dominari-owned) with
 
 - Roughly $1B Dominari-controlled (90%) investment vehicle; the Trump sons are passive investors.
 - Fund through which the Trump brothers hold their Aureus/Powerus stake
+- Dominari-controlled vehicles holding Trump sons' microcap stakes
 - Dominari-controlled fund with Trump-son investors
 
 ## Appears in claims
@@ -24,20 +27,24 @@ $1B Dominari-created microcap investment vehicle (about 90% Dominari-owned) with
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C63 Shell entities and ownership chains]] · Pending
+- [[C63 Shell entities and ownership chains]] · Mostly accurate
 
 ## Relationships
 
 - [[American Ventures]] *expected 9.9% beneficial owner of* [[Powerus Corp]] (2026-10, ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[American Ventures]] *SPV bought stake (FT, anonymous)* [[Skyline Builders Group]] (2025-08, money) · [[C63 Shell entities and ownership chains|C63]]
 - [[American Ventures]] *SPV invested in (reported)* [[Skyline Builders Group]] (2025-08, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[American Ventures]] *SPV through which the sons reportedly bought in* [[Skyline Builders Group]] (2025-08, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Bloomberg]] *reported microcap paper gains* [[American Ventures]] (2026-06-25, media) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Dominari Holdings Dominari Securities]] *controls ~90% of* [[American Ventures]] (ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Dominari Holdings Dominari Securities]] *created, owns about 90%* [[American Ventures]] (2026, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *owns 90% of American Ventures Management LLC* [[American Ventures]] (2026-05, ownership) · [[C63 Shell entities and ownership chains|C63]]
 - [[Dominari Holdings Dominari Securities]] *owns 90% of manager* [[American Ventures]] (2026-05, ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Donald Trump Jr]] *holds Powerus stake via* [[American Ventures]] (2026-03, ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Donald Trump Jr]] *investor (passive)* [[American Ventures]] (2026, money) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *investor in most vehicles (FT)* [[American Ventures]] (2025-08, money) · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump Jr]] *passive investor in* [[American Ventures]] (2026, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Eric Trump]] *holds Powerus stake via* [[American Ventures]] (2026-03, ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Eric Trump]] *investor (passive)* [[American Ventures]] (2026, money) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Eric Trump]] *investor in most vehicles (FT)* [[American Ventures]] (2025-08, money) · [[C63 Shell entities and ownership chains|C63]]
 - [[Eric Trump]] *passive investor in* [[American Ventures]] (2026, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]

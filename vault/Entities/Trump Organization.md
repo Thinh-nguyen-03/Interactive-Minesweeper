@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "family business"
-connections: 46
-claims: 17
+connections: 53
+claims: 19
 tags:
   - "entity"
   - "type/company"
@@ -41,12 +41,15 @@ The family's hotel and golf luxury business, incl. Middle East golf/hotel deals.
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
+- [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
 - [[Citizens for Responsibility and Ethics in Washington]] *counted more than $117M foreign revenue in 2025 and 24 foreign projects* [[Trump Organization]] (2026-07, $117M, media) · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[Citizens for Responsibility and Ethics in Washington]] *tracks ~24 foreign projects of* [[Trump Organization]] (2026, media) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Damac Properties]] *pays licence fees for Trump golf club Dubai (2025 est. ~$12.5M)* [[Trump Organization]] (2025, $12.5M, money) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Dar Global]] *licensing partner (Oman, Jeddah, Dubai, Riyadh, Qatar)* [[Trump Organization]] (commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Dar Global]] *pays licence fees to (Saudi/Gulf projects)* [[Trump Organization]] (2025, money) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Diriyah Company]] *master-plan host of Trump-branded Wadi Safar project (licensed via Dar Global)* [[Trump Organization]] (2026-01, commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Dominari Holdings Dominari Securities]] *tenant in Trump Tower (two leases, more than $62K/month)* [[Trump Organization]] (2025, commercial) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
@@ -60,6 +63,7 @@ The family's hotel and golf luxury business, incl. Middle East golf/hotel deals.
 - [[Eric Trump]] *executive vice president of* [[Trump Organization]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Eric Trump]] *runs* [[Trump Organization]] (ownership) · [[C01 $TRUMP meme coin|C01]]
 - [[Forbes]] *reported Saudi expansion during nuclear talks* [[Trump Organization]] (2026-07-23, media) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+- [[Qatari Diar]] *Simaisma golf/villa partner* [[Trump Organization]] (2025-04-30, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Tribeca Developers]] *licenses Trump brand from* [[Trump Organization]] (commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Trump Organization 2025 ethics white paper]] *permits private foreign deals for* [[Trump Organization]] (2025-01-10, regulatory) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Trump Organization]] *affiliate* [[CIC Digital LLC]] (ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
@@ -67,6 +71,10 @@ The family's hotel and golf luxury business, incl. Middle East golf/hotel deals.
 - [[Trump Organization]] *licenses Trump brand to* [[Dar Global]] (2025-04-30, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Trump Organization]] *licensing partner* [[Dar Global]] (2025-11-17, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Trump Organization]] *says independent managers trade portfolio of* [[Donald Trump]] (2026-05, advisory) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Trump Organization]] *licensing vehicle of* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
+- [[Trump Organization]] *licensing vehicle of* [[DT Marks Doha LLC]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
+- [[Trump Organization]] *licensing vehicle of* [[DT Marks KSA LLC]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
+- [[Trump Organization]] *licensing vehicle of* [[DT Marks Oman LLC]] (2022-11, ownership) · [[C63 Shell entities and ownership chains|C63]]
 - [[Trump Organization]] *licensing partner for Hung Yen project* [[Kinh Bac City Development Holding Corp (KBC)]] (2024-10, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Trump Organization]] *licensing/management partner* [[MNC Group MNC Land]] (commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Trump Organization]] *demanded retraction of tungsten story* [[The New York Times]] (2026-07, legal) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]

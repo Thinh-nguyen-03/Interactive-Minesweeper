@@ -82,8 +82,8 @@ The timing of the UAE chip deal is documented: Emirati money flowed to WLF (secr
 ## Themes
 
 - [[Theme - Gulf sovereign money and dual-role envoys]]
-- [[Theme - Official favours follow the money]]
-- [[Theme - Blanket denials]]
+- [[Theme - Official acts close in time to payments]]
+- [[Theme - Denials from everyone named]]
 
 ## People and organisations
 
@@ -156,8 +156,8 @@ The timing of the UAE chip deal is documented: Emirati money flowed to WLF (secr
 - [[Steve Witkoff]] *backed UAE chip access as envoy* [[UAE AI chips deal]] (2025-05, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Steve Witkoff]] *co-founded* [[World Liberty Financial]] (ownership) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Sheikh Tahnoon bin Zayed]] *linked to / backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Secret $500M 49% WLF stake deal]] *shortly preceded* [[UAE AI chips deal]] (political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[United Arab Emirates]] *secured* [[UAE AI chips deal]] (commercial) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[UAE AI chips deal]] *covers export of* [[Advanced AI chips]] (commercial) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]

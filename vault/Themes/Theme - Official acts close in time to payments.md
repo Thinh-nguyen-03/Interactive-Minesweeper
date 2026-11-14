@@ -4,7 +4,7 @@ kind: "theme"
 tags:
   - "theme"
 ---
-# Official favours follow the money
+# Official acts close in time to payments
 
 Pardons, export approvals, arms sales, charters and amicus briefs arrive around the time counterparties enrich Trump ventures; presented as coincidence.
 

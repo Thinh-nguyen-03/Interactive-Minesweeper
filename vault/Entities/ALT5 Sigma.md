@@ -4,11 +4,12 @@ kind: "entity"
 type: "company"
 aliases:
   - "AI Financial Corporation"
+  - "ALT5 Sigma (now AI Financial Corp.)"
   - "ALT5 Sigma (now AI Financial Corporation, AIFC)"
   - "Alt 5"
   - "Alt-5 Sigma"
-connections: 24
-claims: 5
+connections: 27
+claims: 6
 tags:
   - "entity"
   - "type/company"
@@ -23,6 +24,7 @@ Listed company in a $1.5B WLFI treasury deal; stock down ~94%; rebranded AI Fina
 - WLFI-token treasury company tied to World Liberty Financial.
 - WLFI treasury company (C13)
 - WLFI treasury company
+- WLFI treasury company chaired by Zach Witkoff
 
 ## Appears in claims
 
@@ -31,6 +33,7 @@ Listed company in a $1.5B WLFI treasury deal; stock down ~94%; rebranded AI Fina
 - [[C29 Trump family wealth gains]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -47,8 +50,10 @@ Listed company in a $1.5B WLFI treasury deal; stock down ~94%; rebranded AI Fina
 - [[CNBC]] *reported family entitled to about $500M while investors lost* [[ALT5 Sigma]] (2026-06-09, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Coffeezilla]] *covered the deal in the video* [[ALT5 Sigma]] (media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Eric Trump]] *announced as board director (reported as observer)* [[ALT5 Sigma]] (2025-08, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Eric Trump]] *director* [[ALT5 Sigma]] (2025-08, advisory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Eric Trump]] *director* [[ALT5 Sigma]] (2025-08, advisory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Jon Isaac]] *consultant and major shareholder* [[ALT5 Sigma]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Justin Sun]] *pledged $10M share purchase (completion unverified)* [[ALT5 Sigma]] (2025-09-05, $10M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Kraken]] *named Asset Manager of WLFI treasury* [[ALT5 Sigma]] (2025-08-11, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Molly White]] *described conflict of interest in the video* [[ALT5 Sigma]] (media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Peter Tassiopoulos]] *CEO, suspended Oct 2025* [[ALT5 Sigma]] (2025-10-16, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Retail investors Trump supporters]] *lost ~94% on stock of* [[ALT5 Sigma]] (money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C29 Trump family wealth gains|C29]]
@@ -61,11 +66,12 @@ Listed company in a $1.5B WLFI treasury deal; stock down ~94%; rebranded AI Fina
 - [[World Liberty Financial]] *lead investor paid in WLFI* [[ALT5 Sigma]] (2025-08, money) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[World Liberty Financial]] *struck $1.5B deal with* [[ALT5 Sigma]] ($1.5B, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Zach Witkoff]] *board chairman of* [[ALT5 Sigma]] (2025-08, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Zach Witkoff]] *chairman* [[ALT5 Sigma]] (2025-08, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Zach Witkoff]] *helps run* [[ALT5 Sigma]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Zak Folkman]] *board director or observer of* [[ALT5 Sigma]] (2025, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 
 ## Themes
 
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - Insiders profit, retail investors lose]]
-- [[Theme - Narrative over product, circular deals]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Insider gains alongside retail investor losses]]
+- [[Theme - Narrative ahead of product; circular deals]]

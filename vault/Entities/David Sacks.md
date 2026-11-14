@@ -2,8 +2,8 @@
 id: "david-sacks"
 kind: "entity"
 type: "person"
-connections: 25
-claims: 8
+connections: 27
+claims: 9
 tags:
   - "entity"
   - "type/person"
@@ -29,7 +29,8 @@ White House AI and crypto czar (SGE) until March 2026, then PCAST co-chair; Craf
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
-- [[C65 Officials who decided matters involving their former clients or partners]] · Pending
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 
 ## Relationships
 
@@ -42,6 +43,7 @@ White House AI and crypto czar (SGE) until March 2026, then PCAST co-chair; Craf
 - [[David Sacks]] *reported dinner disputed, dropped from NYT story* [[Jensen Huang]] (commercial) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[David Sacks]] *became co-chair* [[President's Council of Advisors on Science and Technology]] (2026-03, advisory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[David Sacks]] *chairs* [[President's Working Group on Digital Asset Markets]] (advisory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[David Sacks]] *complained about Ballard-pushed XRP post* [[Susie Wiles]] (2025-03, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[David Sacks]] *negotiated* [[UAE AI chips deal]] (2025-05, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[David Sacks]] *pushed for Emirati chip access* [[UAE AI chips deal]] (2025, political) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[David Sacks]] *reportedly pushed expansive chip access in* [[UAE AI chips deal]] (2025-05, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]

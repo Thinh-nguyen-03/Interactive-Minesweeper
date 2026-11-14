@@ -149,7 +149,7 @@ The money is documented. Amazon paid about $40M for the 'Melania' rights (report
 - [[Jeff Bezos]] *owns; refocused opinion section* [[The Washington Post]] (2025-02-26, media) · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Karoline Leavitt]] *criticized tariff display plan* [[Amazon]] (2025-04-29, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Marc Beckman]] *adviser to* [[Melania Trump]] (advisory) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Melania Trump]] *spouse of* [[Donald Trump]] (family) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Melania Trump]] *spouse of* [[Donald Trump]] (family) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C44 Melania Trump's Amazon documentary deal|C44]] [[C63 Shell entities and ownership chains|C63]]
 - [[Melania Trump]] *subject and executive producer of* [[Melania (2026 film)]] (2024-12, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Office of Government Ethics]] *released 2025 disclosure listing film fee* [[Donald Trump]] (2026-06-30, regulatory) · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Paramount]] *bid ~$4M (WSJ, unconfirmed)* [[Melania (2026 film)]] (2024-12, $4M, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]

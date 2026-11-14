@@ -2,8 +2,8 @@
 id: "cantor-fitzgerald"
 kind: "entity"
 type: "company"
-connections: 25
-claims: 5
+connections: 27
+claims: 6
 tags:
   - "entity"
   - "type/company"
@@ -17,6 +17,7 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 - Lutnick-family firm; TMTG bitcoin-raise financial adviser; Tether custodian
 - Wall Street firm; Tether reserve custodian and convertible-bond holder
 - Wall Street firm; custodian of Tether's Treasury reserves
+- Lutnick-family firm; SPAC sponsor; Tether custodian
 - USAT reserve custodian; Lutnick family firm
 
 ## Appears in claims
@@ -26,6 +27,7 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 
 ## Relationships
 
@@ -37,6 +39,7 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 - [[Brandon Lutnick]] *chairman/CEO* [[Cantor Fitzgerald]] (2025, ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Cantor Fitzgerald]] *joint book-runner on $50M offering* [[ASP Isotopes]] (2025-06, $50M, commercial) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Cantor Fitzgerald]] *launched* [[Cantor bitcoin financing business]] (2024-07, $2B, ownership) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Cantor Fitzgerald]] *sponsor affiliate* [[Cantor Equity Partners II]] (ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Cantor Fitzgerald]] *major investor in (reported)* [[Critical Metals Corp]] (ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Cantor Fitzgerald]] *made distribution cited by Blumenthal* [[Howard Lutnick]] ($192M, money) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Cantor Fitzgerald]] *raised $210M for a project investment partner (NYT)* [[Kaz Resources]] ($210M, commercial) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
@@ -57,6 +60,7 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 - [[Howard Lutnick]] *former CEO; interests to children's trusts* [[Cantor Fitzgerald]] (2025-05-16, family) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Howard Lutnick]] *former chairman/CEO; divested to children's trusts* [[Cantor Fitzgerald]] (2025-05-16, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Howard Lutnick]] *former chairman/CEO; stake moved to sons' trusts* [[Cantor Fitzgerald]] (2025-02, ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Howard Lutnick]] *former chairman; children's trusts control* [[Cantor Fitzgerald]] (2025-05, family) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Kyle Lutnick]] *executive at* [[Cantor Fitzgerald]] (ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Kyle Lutnick]] *executive vice chair* [[Cantor Fitzgerald]] (2025-05, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Kyle Lutnick]] *executive vice chair of* [[Cantor Fitzgerald]] (ownership) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]

@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "Don Jr."
   - "Trump Jr."
-connections: 63
-claims: 32
+connections: 68
+claims: 36
 tags:
   - "entity"
   - "type/person"
@@ -56,16 +56,21 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
 - [[Ches McDowell]] *friend and hunting partner of* [[Donald Trump Jr]] (political) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Ches McDowell]] *friend of* [[Donald Trump Jr]] (2025, political) · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Ches McDowell]] *friend of* [[Donald Trump Jr]] (2025, political) · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Coffeezilla]] *requested comment from (no reply, per video)* [[Donald Trump Jr]] (2026, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Coffeezilla]] *requested comment, no reply* [[Donald Trump Jr]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Citizens for Responsibility and Ethics in Washington]] *reported on board-role conflicts of* [[Donald Trump Jr]] (media) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump]] *father of* [[Donald Trump Jr]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *partner* [[1789 Capital]] (2024-11, ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Donald Trump Jr]] *co-founder and shareholder* [[American Bitcoin]] (2025-03, ownership) · [[C29 Trump family wealth gains|C29]]
 - [[Donald Trump Jr]] *co-owner of* [[American Bitcoin]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
@@ -73,29 +78,35 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Donald Trump Jr]] *co-founded* [[American Data Centers Inc]] (2025-02, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump Jr]] *holds Powerus stake via* [[American Ventures]] (2026-03, ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Donald Trump Jr]] *investor (passive)* [[American Ventures]] (2026, money) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *investor in most vehicles (FT)* [[American Ventures]] (2025-08, money) · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump Jr]] *passive investor in* [[American Ventures]] (2026, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Donald Trump Jr]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] (2025-02-21, $1M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *adviser (advisory board)* [[Dominari Holdings Dominari Securities]] (2025-02-10, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *adviser and shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Donald Trump Jr]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Donald Trump Jr]] *adviser and ~6.7% shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] (2025-02, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Donald Trump Jr]] *shareholder* [[Dominari Holdings Dominari Securities]] (ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Donald Trump Jr]] *~6% shareholder of* [[Dominari Holdings Dominari Securities]] (ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald Trump Jr]] *sole trustee with sole voting/investment power over* [[Donald J. Trump Revocable Trust]] (2024-12, legal) · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump Jr]] *trustee of* [[Donald J. Trump Revocable Trust]] (2024-12, family) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump Jr]] *brother* [[Eric Trump]] (family) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *brother of* [[Eric Trump]] (family) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *co-founder of* [[Executive Branch]] (2025-04, ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *board member* [[GrabAGun Digital Holdings]] (2025-07, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Donald Trump Jr]] *director; about 300,000 shares (about $3M)* [[GrabAGun Digital Holdings]] (2025-07, $3M, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *father of* [[Kai Trump]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] (2025-01, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] (2025-01, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Donald Trump Jr]] *strategic adviser (paid partly in shares, reportedly >$300k)* [[Kalshi]] (2025-01, $300K, advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Donald Trump Jr]] *strategic adviser to* [[Kalshi]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Donald Trump Jr]] *adviser* [[New America Acquisition I Corp]] (2025, advisory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump Jr]] *adviser to* [[New America Acquisition I Corp]] (advisory) · [[C27 New America Acquisition I Corp SPAC|C27]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *strategic adviser; holds 2M founder shares (~$20M paper value)* [[New America Acquisition I Corp]] (2025-08, $20M, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump Jr]] *adviser and investor (via 1789 Capital)* [[Polymarket]] (2025-08, advisory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Donald Trump Jr]] *advisory board* [[Polymarket]] (2025-08, advisory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Donald Trump Jr]] *advisory board member* [[Polymarket]] (2025-08-26, advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Donald Trump Jr]] *advisory board member of* [[Polymarket]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Donald Trump Jr]] *advisory board; 1789 Capital invested (C25)* [[Polymarket]] (advisory) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
@@ -109,6 +120,7 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Donald Trump Jr]] *board director; trustee of father's shares in* [[Trump Media & Technology Group]] (ownership) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Donald Trump Jr]] *board member* [[Trump Media & Technology Group]] (advisory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Donald Trump Jr]] *director of* [[Trump Media & Technology Group]] (advisory) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Donald Trump Jr]] *co-announced* [[Trump Mobile]] (2025-06-16, commercial) · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump Jr]] *co-announced launch of* [[Trump Mobile]] (2025-06-16, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Donald Trump Jr]] *executive vice president of* [[Trump Organization]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Donald Trump Jr]] *adviser and shareholder of* [[Unusual Machines]] (2024-11, advisory) · [[C26 1789 Capital and Vulcan Elements|C26]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
@@ -121,12 +133,14 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Donald Trump Jr]] *family co-founder of* [[World Liberty Financial]] (ownership) · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Forbes]] *estimated net worth about $300M (6x)* [[Donald Trump Jr]] (2025-12-08, $300M, media) · [[C29 Trump family wealth gains|C29]]
 - [[Forbes]] *estimates 6x richer* [[Donald Trump Jr]] (media) · [[C29 Trump family wealth gains|C29]]
+- [[Gentry Beach]] *business associate* [[Donald Trump Jr]] (commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[John Curtis]] *sought subpoena of* [[Donald Trump Jr]] (2026-09-21, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[The New York Times]] *reported AG pitch* [[Donald Trump Jr]] (2026-08-27, media) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Peter Navarro]] *described as friend of* [[Donald Trump Jr]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Peter Navarro]] *friend (book dedication; prison visit)* [[Donald Trump Jr]] (political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Tarek Mansour]] *would not explain role of* [[Donald Trump Jr]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 
 ## Themes
 
-- [[Theme - Family member hired as adviser for the name]]
-- [[Theme - Blanket denials]]
+- [[Theme - Family members hired as advisers]]
+- [[Theme - Denials from everyone named]]

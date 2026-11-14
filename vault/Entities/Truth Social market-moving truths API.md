@@ -27,4 +27,4 @@ Paid real-time feed of the platform's most market-moving posts; reportedly $100,
 
 ## Themes
 
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Earning from the office, brand and access]]

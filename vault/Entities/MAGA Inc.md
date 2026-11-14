@@ -2,8 +2,8 @@
 id: "maga-inc"
 kind: "entity"
 type: "fund"
-connections: 11
-claims: 5
+connections: 12
+claims: 6
 tags:
   - "entity"
   - "type/fund"
@@ -25,6 +25,7 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -32,6 +33,7 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 - [[Cameron Winklevoss]] *gave >$5M in BTC to* [[MAGA Inc]] (2026-06-19, $5M, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Crypto.com]] *donated (Feb 2025 $10M; Sep-Oct 2025 $20M; Jan 2026 $5M)* [[MAGA Inc]] (2025-02/2026-01, $35M, political) · [[C22 Crypto.com and TMTG|C22]]
 - [[Crypto.com]] *gave $20M (two $10M gifts via Foris DAX) in filing period* [[MAGA Inc]] (2025-10, $20M, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Crypto.com]] *~$35M in contributions* [[MAGA Inc]] (2025-2026, $35M, political) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Elizabeth Fago]] *attended $1M-per-head dinner* [[MAGA Inc]] (2025-04, political) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Elizabeth Fago]] *attended $1M-per-head dinner (payment unclear)* [[MAGA Inc]] (2025-04, political) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Gemini]] *donated 1.5M USDC to* [[MAGA Inc]] (2025-12, $1.5M, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]

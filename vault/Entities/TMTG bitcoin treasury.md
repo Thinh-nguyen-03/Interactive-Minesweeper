@@ -27,4 +27,4 @@ TMTG's bitcoin reserve funded by a $2.5B raise.
 
 ## Themes
 
-- [[Theme - President makes the law for markets the family is in]]
+- [[Theme - Policy made for markets the family operates in]]

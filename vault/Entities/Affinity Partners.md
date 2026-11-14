@@ -4,8 +4,8 @@ kind: "entity"
 type: "fund"
 aliases:
   - "Affinity"
-connections: 25
-claims: 9
+connections: 27
+claims: 11
 tags:
   - "entity"
   - "type/fund"
@@ -32,10 +32,13 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
+- [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
+- [[Affinity Partners]] *affiliated with (Reuters)* [[Atlantic Incubation Partners LLC]] (2024-12-30, ownership) · [[C63 Shell entities and ownership chains|C63]]
 - [[Affinity Partners]] *co-acquirer (~1.1% reported)* [[Electronic Arts]] (2026-08-04, ownership) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Affinity Partners]] *seeking part of $5B from* [[Other Gulf sovereign wealth funds]] ($5B, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Affinity Partners]] *sought part of $5B+ new raise from (per NYT)* [[Public Investment Fund (Saudi Arabia)]] (2026-03, $5B, commercial) · [[C15 Jared Kushner and Affinity Partners|C15]]
@@ -48,18 +51,22 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 - [[Jared Kushner]] *founded* [[Affinity Partners]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Jared Kushner]] *founded (not named in alleged accounts)* [[Affinity Partners]] (ownership) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Jared Kushner]] *founded and runs* [[Affinity Partners]] (ownership) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+- [[Jared Kushner]] *founder* [[Affinity Partners]] (ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] (2021, ownership) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
 - [[Jared Kushner]] *founder and head of* [[Affinity Partners]] (ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Jared Kushner]] *founder of* [[Affinity Partners]] (ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Jared Kushner]] *runs* [[Affinity Partners]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Lunate]] *invested (with QIA) $1.5B in* [[Affinity Partners]] (2024-12-20, $1.5B, money) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Lunate]] *invested (with QIA, about $1.5B combined) in* [[Affinity Partners]] (2024-12, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Lunate]] *invested in* [[Affinity Partners]] (2024-12-20, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[The New York Times]] *reported $5B raise by* [[Affinity Partners]] (media) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[The New York Times]] *reported $5B+ fundraising effort by* [[Affinity Partners]] (2026-03, media) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Qatar Investment Authority]] *LP* [[Affinity Partners]] (money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Qatar Investment Authority]] *invested (with Lunate) in* [[Affinity Partners]] (2024-12-20, money) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Qatar Investment Authority]] *invested (with Lunate, about $1.5B combined) in* [[Affinity Partners]] (2024-12, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Robert Garcia]] *investigating Gulf fundraising* [[Affinity Partners]] (2026-03-19, regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Ron Wyden]] *investigating Gulf fundraising* [[Affinity Partners]] (2026-03-19, regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Public Investment Fund (Saudi Arabia)]] *$2B investment; EA co-buyer* [[Affinity Partners]] (money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Public Investment Fund (Saudi Arabia)]] *committed $2B to* [[Affinity Partners]] (2021, $2B, money) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Public Investment Fund (Saudi Arabia)]] *committed $2B to (largest investor)* [[Affinity Partners]] (2021-07, $2B, money) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
 - [[Public Investment Fund (Saudi Arabia)]] *invested $2B in* [[Affinity Partners]] ($2B, money) · [[C15 Jared Kushner and Affinity Partners|C15]]

@@ -7,8 +7,8 @@ aliases:
   - "$MELANIA memecoin"
   - "Melania coin"
   - "Melodicoin"
-connections: 20
-claims: 6
+connections: 21
+claims: 7
 tags:
   - "entity"
   - "type/asset"
@@ -33,6 +33,7 @@ Melania Trump's meme coin; down ~99%.
 - [[C29 Trump family wealth gains]] · Mostly accurate
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C63 Shell entities and ownership chains]] · Mostly accurate
 
 ## Relationships
 
@@ -47,7 +48,7 @@ Melania Trump's meme coin; down ~99%.
 - [[Melania Trump]] *launched* [[$MELANIA meme coin]] (2025-01-19, commercial) · [[C02 $MELANIA coin and NFTs|C02]]
 - [[Melania Trump]] *promoted* [[$MELANIA meme coin]] (2025-01-19, commercial) · [[C01 $TRUMP meme coin|C01]]
 - [[Meteora]] *hosted launch* [[$MELANIA meme coin]] (2025-01-19, commercial) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[MKT World LLC]] *issuer of* [[$MELANIA meme coin]] (2025-01-19, ownership) · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[MKT World LLC]] *issuer of* [[$MELANIA meme coin]] (2025-01-19, ownership) · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]]
 - [[Molly White]] *tracked (per video; unverified specific work)* [[$MELANIA meme coin]] (media) · [[C02 $MELANIA coin and NFTs|C02]]
 - [[Retail investors Trump supporters]] *lost ~99% on* [[$MELANIA meme coin]] (money) · [[C02 $MELANIA coin and NFTs|C02]] [[C29 Trump family wealth gains|C29]]
 - [[Securities and Exchange Commission]] *staff deemed meme coins generally not securities* [[$MELANIA meme coin]] (2025-02, regulatory) · [[C02 $MELANIA coin and NFTs|C02]]
@@ -56,4 +57,4 @@ Melania Trump's meme coin; down ~99%.
 
 ## Themes
 
-- [[Theme - Insiders profit, retail investors lose]]
+- [[Theme - Insider gains alongside retail investor losses]]

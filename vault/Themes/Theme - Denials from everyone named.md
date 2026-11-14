@@ -4,7 +4,7 @@ kind: "theme"
 tags:
   - "theme"
 ---
-# Blanket denials
+# Denials from everyone named
 
 Every party denies corruption or quid pro quo: 'abides by all laws', 'chosen on its merits', 'career staffers', 'I don't know who he is', 'we treat all participants alike'.
 

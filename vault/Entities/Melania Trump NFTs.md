@@ -29,4 +29,4 @@ NFTs sold by Melania; ~$6M reported with her coin.
 
 ## Themes
 
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Earning from the office, brand and access]]

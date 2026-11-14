@@ -81,9 +81,9 @@ Trump launched the official $TRUMP meme coin on the evening of January 17, 2025,
 ## Themes
 
 - [[Theme - The 'beat China' justification]]
-- [[Theme - Insiders profit, retail investors lose]]
+- [[Theme - Insider gains alongside retail investor losses]]
 - [[Theme - Secrecy and non-disclosure]]
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Earning from the office, brand and access]]
 
 ## People and organisations
 
@@ -112,7 +112,7 @@ Trump launched the official $TRUMP meme coin on the evening of January 17, 2025,
 
 ## Relationships documented
 
-- [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] (ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] (2025-01, ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Chainalysis]] *found ~764k of ~2M wallets at a loss; 58 wallets >$10M gains* [[$TRUMP meme coin]] (2025-05-06, media) · [[C01 $TRUMP meme coin|C01]]
 - [[CIC Digital LLC]] *reported 'Celebration Coins' royalties of $635,068,835 for 2025* [[Donald Trump]] (2025, $635.07M, money) · [[C01 $TRUMP meme coin|C01]]
 - [[CIC Digital LLC]] *co-holds 80% of supply (with Fight Fight Fight)* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C01 $TRUMP meme coin|C01]]

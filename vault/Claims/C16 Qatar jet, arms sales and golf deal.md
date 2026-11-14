@@ -80,7 +80,7 @@ Documented: the ~$400M Qatari Boeing 747-8 was accepted by the Pentagon on 21 Ma
 ## Themes
 
 - [[Theme - Gulf sovereign money and dual-role envoys]]
-- [[Theme - Official favours follow the money]]
+- [[Theme - Official acts close in time to payments]]
 
 ## People and organisations
 

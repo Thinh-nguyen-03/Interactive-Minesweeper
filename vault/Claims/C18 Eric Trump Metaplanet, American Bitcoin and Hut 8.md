@@ -90,10 +90,10 @@ Every core fact checks out: Eric Trump's Metaplanet advisory role (March 21, 202
 
 ## Themes
 
-- [[Theme - President makes the law for markets the family is in]]
-- [[Theme - Insiders profit, retail investors lose]]
-- [[Theme - Family member hired as adviser for the name]]
-- [[Theme - Narrative over product, circular deals]]
+- [[Theme - Policy made for markets the family operates in]]
+- [[Theme - Insider gains alongside retail investor losses]]
+- [[Theme - Family members hired as advisers]]
+- [[Theme - Narrative ahead of product; circular deals]]
 
 ## People and organisations
 
@@ -137,7 +137,7 @@ Every core fact checks out: Eric Trump's Metaplanet advisory role (March 21, 202
 - [[Donald Trump Jr]] *part-owns* [[American Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump Jr]] *co-founded* [[American Data Centers Inc]] (2025-02, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] (2025-02, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump Jr]] *took stake in* [[Thumzup Media]] (2025-07, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Eric Trump]] *co-founder, chief strategy officer and shareholder of* [[American Bitcoin]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Eric Trump]] *part-owns* [[American Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]

@@ -72,7 +72,7 @@ Foundation Future Industries is a 2024 San Francisco humanoid-robot startup led 
 ## Themes
 
 - [[Theme - The 'beat China' justification]]
-- [[Theme - Family member hired as adviser for the name]]
+- [[Theme - Family members hired as advisers]]
 - [[Theme - Government contracts near family-linked firms]]
 
 ## People and organisations

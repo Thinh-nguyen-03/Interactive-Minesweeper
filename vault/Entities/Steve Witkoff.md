@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Witkoff"
-connections: 36
-claims: 13
+connections: 41
+claims: 16
 tags:
   - "entity"
   - "type/person"
@@ -36,7 +36,10 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
-- [[C65 Officials who decided matters involving their former clients or partners]] · Pending
+- [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -59,7 +62,9 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[Jared Kushner]] *travels and negotiates with* [[Steve Witkoff]] (political) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Leonard Blavatnik]] *reported real-estate partnership (Byline Times)* [[Steve Witkoff]] (2025-12, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Martin Edelman]] *decades-long friend from NY real estate (single-source)* [[Steve Witkoff]] (commercial) · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Qatar Investment Authority]] *bought Park Lane from Witkoff-Mubadala JV* [[Steve Witkoff]] (2023-08, $623M, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Steve Witkoff]] *father of* [[Alex Witkoff]] (family) · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Steve Witkoff]] *attended White House lunch with* [[Asim Munir]] (2025-06-18, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Steve Witkoff]] *told by Trump to warn Qatar (timing disputed)* [[Israeli strike on Doha (Sept 9, 2025)]] (2025-09-09, political) · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Steve Witkoff]] *filed 2025 disclosure with* [[Office of Government Ethics]] (2026, regulatory) · [[C42 How World Liberty insiders took money out|C42]]
 - [[Steve Witkoff]] *co-owned via JV with Mubadala (share undisclosed), sold to QIA* [[Park Lane Hotel (36 Central Park South)]] (2013-2023, ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
@@ -82,10 +87,11 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[US Congress]] *Senate Democrats demanded answers on failure to divest* [[Steve Witkoff]] (2025-10, regulatory) · [[C14 Steve and Zach Witkoff|C14]]
 - [[US Congress]] *questioned failure to divest* [[Steve Witkoff]] (2025-10-22, political) · [[C42 How World Liberty insiders took money out|C42]]
 - [[WC Digital Fi LLC]] *paid about $107M of 2025 income (WLF-linked holding company)* [[Steve Witkoff]] (2025, $107M, money) · [[C42 How World Liberty insiders took money out|C42]]
+- [[WC Digital Fi LLC]] *paid ~$107M 2025 income* [[Steve Witkoff]] (2025, $107M, money) · [[C63 Shell entities and ownership chains|C63]]
 - [[White House Trump administration]] *says he has fully divested* [[Steve Witkoff]] (2026-09, political) · [[C42 How World Liberty insiders took money out|C42]]
 - [[World Liberty Financial]] *about $107M 2025 income via WLF-linked holding company* [[Steve Witkoff]] (2025, $107M, money) · [[C14 Steve and Zach Witkoff|C14]]
 - [[World Liberty Financial]] *reportedly about $90M of ALT5 deal proceeds to the Witkoff family* [[Steve Witkoff]] (2025-08, $90M, money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Zach Witkoff]] *son of* [[Steve Witkoff]] (family) · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Zach Witkoff]] *son of* [[Steve Witkoff]] (family) · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]]
 
 ## Themes
 

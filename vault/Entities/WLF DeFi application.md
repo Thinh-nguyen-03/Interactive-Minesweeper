@@ -24,4 +24,4 @@ Promised trading/borrowing/lending app that had not launched.
 
 ## Themes
 
-- [[Theme - Narrative over product, circular deals]]
+- [[Theme - Narrative ahead of product; circular deals]]

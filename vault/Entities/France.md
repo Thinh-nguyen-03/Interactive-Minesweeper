@@ -2,8 +2,8 @@
 id: "france"
 kind: "entity"
 type: "country"
-connections: 3
-claims: 2
+connections: 2
+claims: 1
 tags:
   - "entity"
   - "type/country"
@@ -16,7 +16,6 @@ Charles Kushner's posting
 
 ## Appears in claims
 
-- [[C65 Officials who decided matters involving their former clients or partners]] · Pending
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 
 ## Relationships

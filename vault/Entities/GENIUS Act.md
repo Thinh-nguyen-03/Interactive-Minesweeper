@@ -47,4 +47,4 @@ Stablecoin law Trump pushed while his family profits from USD1.
 
 ## Themes
 
-- [[Theme - President makes the law for markets the family is in]]
+- [[Theme - Policy made for markets the family operates in]]

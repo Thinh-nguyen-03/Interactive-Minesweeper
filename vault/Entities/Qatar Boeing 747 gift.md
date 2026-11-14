@@ -9,8 +9,8 @@ aliases:
   - "Qatari 747 for Air Force One"
   - "Qatari Boeing 747-8"
   - "Qatari Boeing 747-8 (Air Force One)"
-connections: 15
-claims: 5
+connections: 19
+claims: 8
 tags:
   - "entity"
   - "type/asset"
@@ -34,14 +34,20 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
 - [[Isaac Saul]] *describes* [[Qatar Boeing 747 gift]] (media) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Karoline Leavitt]] *defended legality of accepting* [[Qatar Boeing 747 gift]] (2025-05-12, political) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Pam Bondi]] *signed DOJ memo clearing acceptance of* [[Qatar Boeing 747 gift]] (2025-05, regulatory) · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Pam Bondi]] *signed OLC memo calling acceptance legally permissible* [[Qatar Boeing 747 gift]] (2025-05, regulatory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[DOJ memo on the Qatari jet]] *found acceptance legally permissible* [[Qatar Boeing 747 gift]] (2025-05, legal) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Pete Hegseth]] *formally accepted* [[Qatar Boeing 747 gift]] (2025-05-21, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar]] *gifted* [[Qatar Boeing 747 gift]] (2025-05, $400M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Qatar]] *gifted 747-8 to US* [[Qatar Boeing 747 gift]] (2025-05-21, political) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Qatar]] *offered* [[Qatar Boeing 747 gift]] ($400M, money) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar]] *provided 747-8 (see C16)* [[Qatar Boeing 747 gift]] (2025-05, political) · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Qatar Boeing 747 gift]] *to serve as* [[Air Force One]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
@@ -57,4 +63,4 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 ## Themes
 
 - [[Theme - Gulf sovereign money and dual-role envoys]]
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Earning from the office, brand and access]]

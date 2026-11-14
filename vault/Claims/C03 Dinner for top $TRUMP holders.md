@@ -62,8 +62,8 @@ Confirmed. The top 220 $TRUMP holders, ranked by average holdings from April 23 
 
 ## Themes
 
-- [[Theme - Blanket denials]]
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Denials from everyone named]]
+- [[Theme - Earning from the office, brand and access]]
 
 ## People and organisations
 

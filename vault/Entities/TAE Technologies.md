@@ -38,4 +38,4 @@ Fusion energy company in ~$6B stock merger with TMTG.
 
 ## Themes
 
-- [[Theme - President makes the law for markets the family is in]]
+- [[Theme - Policy made for markets the family operates in]]

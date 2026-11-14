@@ -25,4 +25,4 @@ Meme of Trump trading Intel in the Oval Office; price rose.
 
 ## Themes
 
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Earning from the office, brand and access]]

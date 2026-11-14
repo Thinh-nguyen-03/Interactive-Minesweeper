@@ -75,7 +75,7 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
 
 ## Themes
 
-- [[Theme - Narrative over product, circular deals]]
+- [[Theme - Narrative ahead of product; circular deals]]
 
 ## People and organisations
 

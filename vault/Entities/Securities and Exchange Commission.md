@@ -6,8 +6,8 @@ aliases:
   - "SEC"
   - "U.S. Securities and Exchange Commission"
   - "US Securities and Exchange Commission"
-connections: 83
-claims: 24
+connections: 88
+claims: 27
 tags:
   - "entity"
   - "type/government"
@@ -50,6 +50,9 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -75,6 +78,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[New America Acquisition I Corp]] *filed S-1 targeting firms benefiting from government incentives, amended same day to remove it* [[Securities and Exchange Commission]] (2025-08-04, regulatory) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[The New York Times]] *analyzed crypto case outcomes of* [[Securities and Exchange Commission]] (2025-12, media) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[The New York Times]] *found eased ~60% (reportedly 14 of 23) of inherited crypto cases* [[Securities and Exchange Commission]] (2025-12-14, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Paul Atkins]] *chair* [[Securities and Exchange Commission]] (2025-04, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Paul Atkins]] *chairs* [[Securities and Exchange Commission]] (regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C22 Crypto.com and TMTG|C22]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Paul Atkins]] *pro-crypto leader of* [[Securities and Exchange Commission]] (regulatory) · [[C22 Crypto.com and TMTG|C22]]
 - [[Project On Government Oversight]] *reported no SEC probe of the ALT5 deal* [[Securities and Exchange Commission]] (2026, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
@@ -85,10 +89,12 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *has not opened a probe (per POGO)* [[ALT5 Sigma]] (2026, regulatory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Securities and Exchange Commission]] *oversees listed* [[ALT5 Sigma]] (regulatory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Securities and Exchange Commission]] *charged over pump-and-dump (2018; settled 2019)* [[Barry Honig]] (2018-09, legal) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Securities and Exchange Commission]] *dismissed case* [[Binance]] (2025-05-29, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Binance]] (2025-05-29, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Binance]] (2025-05-29, regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Securities and Exchange Commission]] *dropped lawsuit against* [[Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed claims against* [[BitTorrent Foundation Ltd]] (2026-03-05, regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Securities and Exchange Commission]] *declared Securitize S-4 effective* [[Cantor Equity Partners II]] (2026-06-05, regulatory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Securities and Exchange Commission]] *dismissed civil claims after commutation* [[Carlos Watson]] (2025-09, regulatory) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Changpeng Zhao]] (2025-05-29, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Changpeng Zhao]] (2025-05-29, regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
@@ -96,9 +102,9 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Coinbase]] (2025-02-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *dropped lawsuit against* [[Coinbase]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit* [[Consensys]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *closed investigation, no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Cumberland (DRW)]] (2025-03-27, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Cumberland (DRW)]] (2025-03-27, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *dismissed enforcement case with prejudice* [[Cumberland (DRW)]] (2025-03-27, regulatory) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit* [[Cumberland (DRW)]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *sued as unregistered dealer* [[Cumberland (DRW)]] (2024-10, legal) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
@@ -112,9 +118,12 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *charged with fraud, then dismissed case* [[Justin Sun]] (regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Securities and Exchange Commission]] *dismissed all claims against* [[Justin Sun]] (2026-03-05, regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Securities and Exchange Commission]] *dismissed claims; Rainberry paid $10M* [[Justin Sun]] (2026-03, $10M, regulatory) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Securities and Exchange Commission]] *dismissed claims; Rainberry pays $10M* [[Justin Sun]] (2026-03-05, $10M, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *jointly sought stay to explore resolution* [[Justin Sun]] (2025-02-26, regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Securities and Exchange Commission]] *paused, then dismissed claims against* [[Justin Sun]] (2026-03-05, legal) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *sought stay of fraud case* [[Justin Sun]] (2025-02-26, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *sued for fraud, market manipulation and unregistered securities* [[Justin Sun]] (2023-03-22, regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Securities and Exchange Commission]] *dismissed case* [[Kraken]] (2025-03, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Kraken]] (2025-03-27, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Kraken]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed suit with prejudice* [[Kraken]] (2025-03-27, regulatory) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
@@ -131,6 +140,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *dropped* [[SEC lawsuit against Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed with prejudice* [[SEC enforcement case against Cumberland]] (regulatory) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed* [[SEC fraud case against Justin Sun]] (regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *$123M settlement (pre-term)* [[Tai Mo Shan]] (2024-12-20, $123M, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *declared S-4 effective for* [[TMTG-TAE merger]] (2026-11-05, regulatory) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Securities and Exchange Commission]] *dismissed civil case after pardon* [[Trevor Milton]] (2025-09, regulatory) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Securities and Exchange Commission]] *dismissed civil case against* [[Trevor Milton]] (2025-09, regulatory) · [[C61 Shared lawyers and law firms across the deals|C61]]
@@ -145,9 +155,10 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *closed investigation* [[Yuga Labs]] (2025-03-03, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Taylor Lindman]] *Crypto Task Force chief counsel (from Chainlink)* [[Securities and Exchange Commission]] (2026-02-23, regulatory) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Teresa Goody Guillén]] *considered for chair by Trump transition* [[Securities and Exchange Commission]] (2024-11, political) · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Tron]] *lobbying via Kelley Drye/Digital Sovereignty Alliance ($370K; single source)* [[Securities and Exchange Commission]] (2025, $370K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[World Liberty Financial]] *filed Form D cutting sale target to $30M* [[Securities and Exchange Commission]] (2024-10-30, $30M, regulatory) · [[C04 World Liberty Financial founding and token sale|C04]]
 
 ## Themes
 
-- [[Theme - Regulator dropped the case after money flowed]]
-- [[Theme - President appoints the regulator of the family business]]
+- [[Theme - Enforcement cases dropped near money flows]]
+- [[Theme - President appoints the regulators of family-linked businesses]]

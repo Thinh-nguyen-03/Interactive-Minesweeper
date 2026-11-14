@@ -132,7 +132,7 @@ Each of the five leads matches real, dated reporting or official documents. Axio
 - [[Tether]]
 - [[UAE AI chips deal]]
 - [[US Department of Commerce]]
-- [[US Department of Justice]]
+- [[US Department of Justice (us-doj)]]
 - [[US Treasury]]
 - [[White House Trump administration]]
 - [[Wired]]
@@ -173,7 +173,7 @@ Each of the five leads matches real, dated reporting or official documents. Axio
 - [[Richard Blumenthal]] *sent 13-point records request to* [[Brandon Lutnick]] (2026-10-08, regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Richard Blumenthal]] *probing Tether ties and Lutnick exit financing* [[Cantor Fitzgerald]] (2026-10-08, regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Richard Blumenthal]] *ranking member of* [[Senate Permanent Subcommittee on Investigations]] (political) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[Richard Blumenthal]] *referred Tether findings to* [[US Department of Justice]] (2026-09-28, legal) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Richard Blumenthal]] *referred Tether findings to* [[US Department of Justice (us-doj)]] (2026-09-28, legal) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Richard Blumenthal]] *referred Tether findings to* [[US Treasury]] (2026-09-28, regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Ron Wyden]] *sought loan records from* [[Howard Lutnick]] (2026-04-29, regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Scott Bessent]] *reportedly confronted over Megaspeed (Commerce denies)* [[Howard Lutnick]] (2026-11, political) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
@@ -182,7 +182,7 @@ Each of the five leads matches real, dated reporting or official documents. Axio
 - [[Tether]] *USDT allegedly used for sanctions evasion by* [[Iran]] (legal) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Tether]] *lent undisclosed sum to* [[Dynasty Trust A]] (2025, money) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[US Department of Commerce]] *licenses chips under* [[UAE AI chips deal]] (regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[US Department of Justice]] *reportedly asked to pause Megaspeed probe* [[Bureau of Industry and Security]] (legal) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[US Department of Justice (us-doj)]] *reportedly asked to pause Megaspeed probe* [[Bureau of Industry and Security]] (legal) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Wired]] *reported tariff-refund rights pitch at 20-30%* [[Cantor Fitzgerald]] (2025-07, media) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 
 ## Leads not covered by the video

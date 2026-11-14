@@ -28,4 +28,4 @@ Over a dozen crypto-exchange cases dropped one by one after Trump took office.
 
 ## Themes
 
-- [[Theme - Regulator dropped the case after money flowed]]
+- [[Theme - Enforcement cases dropped near money flows]]

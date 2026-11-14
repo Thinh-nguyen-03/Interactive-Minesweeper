@@ -30,4 +30,4 @@ American Bitcoin CEO; told Wired the Trump brothers brought capital-markets acce
 
 ## Themes
 
-- [[Theme - Family member hired as adviser for the name]]
+- [[Theme - Family members hired as advisers]]

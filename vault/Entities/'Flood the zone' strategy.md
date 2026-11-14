@@ -27,4 +27,4 @@ Bannon's media strategy: hit them with three things a day ('muzzle velocity').
 
 ## Themes
 
-- [[Theme - Flood the zone too much to follow]]
+- [[Theme - Volume of stories too much to follow]]

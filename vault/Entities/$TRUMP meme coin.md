@@ -10,8 +10,8 @@ aliases:
   - "GetTrumpMemes.com"
   - "Official Trump"
   - "Trump coin"
-connections: 29
-claims: 10
+connections: 35
+claims: 11
 tags:
   - "entity"
   - "type/asset"
@@ -39,15 +39,20 @@ Official Trump meme coin launched two days before the inauguration; ~$600M to Tr
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
-- [[C67 Investors who show up in several Trump-family vehicles]] · Pending
+- [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
+- [[45Footwear LLC]] *accepts as payment* [[$TRUMP meme coin]] (2025-01-30, commercial) · [[C63 Shell entities and ownership chains|C63]]
+- [[Addentax Group]] *talks to buy up to $800M of TRUMP and BTC* [[$TRUMP meme coin]] (2025-05, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Arkham Intelligence]] *identified team wallets in MET airdrop* [[$TRUMP meme coin]] (2025-10-23, media) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[Chainalysis]] *counted about 764K-813K losing wallets* [[$TRUMP meme coin]] (2025, media) · [[C29 Trump family wealth gains|C29]]
 - [[Chainalysis]] *estimated about $94M in early fees and about $320M by May 2025* [[$TRUMP meme coin]] (media) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[Chainalysis]] *found ~764k of ~2M wallets at a loss; 58 wallets >$10M gains* [[$TRUMP meme coin]] (2025-05-06, media) · [[C01 $TRUMP meme coin|C01]]
+- [[CIC Digital LLC]] *co-holder* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[CIC Digital LLC]] *co-holds 80% of supply (with Fight Fight Fight)* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C01 $TRUMP meme coin|C01]]
+- [[CIC Digital LLC]] *co-holds 80% of supply with Fight Fight Fight; royalties* [[$TRUMP meme coin]] (2025-01-17, $635.07M, ownership) · [[C63 Shell entities and ownership chains|C63]]
 - [[CIC Digital LLC]] *co-issuer; co-holds 80% of supply* [[$TRUMP meme coin]] (ownership) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[CIC Digital LLC]] *holds (with Fight Fight Fight) ~80% of supply of* [[$TRUMP meme coin]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[CIC Digital LLC]] *receives royalties from* [[$TRUMP meme coin]] (2025, commercial) · [[C29 Trump family wealth gains|C29]]
@@ -55,9 +60,14 @@ Official Trump meme coin launched two days before the inauguration; ~$600M to Tr
 - [[Donald Trump]] *launched* [[$TRUMP meme coin]] (2025-01-17, commercial) · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
 - [[Donald Trump]] *launched and promoted* [[$TRUMP meme coin]] (2025-01-17, commercial) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[Donald Trump]] *received about $635M in royalties (2025, per June 2026 disclosure)* [[$TRUMP meme coin]] (2026-06-30, $635M, money) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Fight Fight Fight LLC]] *co-holds 80% of supply* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C63 Shell entities and ownership chains|C63]]
+- [[Fight Fight Fight LLC]] *co-issuer* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Fight Fight Fight LLC]] *co-issuer / co-holds 80% of supply* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[Fight Fight Fight LLC]] *issuer/holder of* [[$TRUMP meme coin]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Freight Technologies (Fr8Tech)]] *$20M TRUMP treasury plan* [[$TRUMP meme coin]] (2025-04, $20M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[GD Culture Group]] *announced up to $300M raise to buy BTC and TRUMP* [[$TRUMP meme coin]] (2025-05-13, $300M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Justin Sun]] *top holder of* [[$TRUMP meme coin]] (2025-05, money) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Justin Sun]] *top holder; pledged $100M buy* [[$TRUMP meme coin]] (2025-07-09, $100M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Lookonchain]] *tracked about $94M USDC pulled from Meteora pools by team wallets* [[$TRUMP meme coin]] (2025-12-31, $94M, media) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[$MELANIA meme coin]] *launched two days after; triggered sell-off in* [[$TRUMP meme coin]] (2025-01-19, commercial) · [[C02 $MELANIA coin and NFTs|C02]]
 - [[Meteora]] *airdropped about $4.2M of MET to TRUMP-team wallets* [[$TRUMP meme coin]] (2025-10-23, $4.2M, money) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
@@ -65,6 +75,7 @@ Official Trump meme coin launched two days before the inauguration; ~$600M to Tr
 - [[Nansen]] *counted about 989K wallets in loss, about $3.8B* [[$TRUMP meme coin]] (2026-06, $3.81B, media) · [[C29 Trump family wealth gains|C29]]
 - [[Retail investors Trump supporters]] *lost ~95% on* [[$TRUMP meme coin]] (money) · [[C01 $TRUMP meme coin|C01]] [[C29 Trump family wealth gains|C29]]
 - [[Securities and Exchange Commission]] *staff: meme coins generally not securities; no action* [[$TRUMP meme coin]] (2025-02-27, regulatory) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[TheBestWatchesOnEarth LLC]] *accepts as payment (per Bloomberg)* [[$TRUMP meme coin]] (2025-01-30, commercial) · [[C63 Shell entities and ownership chains|C63]]
 - [[$TRUMP meme coin]] *generated about $635M in licensing royalties in 2025* [[Donald Trump]] (2025, $635M, money) · [[C29 Trump family wealth gains|C29]]
 - [[$TRUMP meme coin]] *generated ~$600M for* [[Donald Trump]] ($600M, money) · [[C01 $TRUMP meme coin|C01]]
 - [[$TRUMP meme coin]] *~$635M royalties in 2025 via CIC Digital* [[Donald Trump]] (2025, $635M, money) · [[C55 How much has the Trump family made Competing totals|C55]]
@@ -79,5 +90,5 @@ Official Trump meme coin launched two days before the inauguration; ~$600M to Tr
 ## Themes
 
 - [[Theme - The 'beat China' justification]]
-- [[Theme - Insiders profit, retail investors lose]]
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Insider gains alongside retail investor losses]]
+- [[Theme - Earning from the office, brand and access]]

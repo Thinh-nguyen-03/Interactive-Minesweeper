@@ -42,4 +42,4 @@ TMTG's social platform, 'the president's Twitter account', where he posts market
 
 ## Themes
 
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Earning from the office, brand and access]]

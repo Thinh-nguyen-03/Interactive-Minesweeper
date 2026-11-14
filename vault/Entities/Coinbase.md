@@ -46,4 +46,4 @@ Crypto exchange whose SEC lawsuit was dropped.
 
 ## Themes
 
-- [[Theme - Regulator dropped the case after money flowed]]
+- [[Theme - Enforcement cases dropped near money flows]]

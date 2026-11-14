@@ -73,9 +73,9 @@ The Donald J. Trump Revocable Trust holds about 52-53% of TMTG, which owns Truth
 
 ## Themes
 
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - Blanket denials]]
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Denials from everyone named]]
+- [[Theme - Earning from the office, brand and access]]
 
 ## People and organisations
 

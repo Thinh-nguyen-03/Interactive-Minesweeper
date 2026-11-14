@@ -192,7 +192,7 @@ Most of the named moves are documented. Bo Hines left the White House crypto cou
 - [[Brett Redfearn]] *head of capital markets (ex-SEC)* [[Coinbase]] (commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Brett Redfearn]] *president and director* [[Securitize]] (2026-04, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Brian Quintenz]] *global head of policy, a16z crypto* [[Andreessen Horowitz (a16z crypto)]] (commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Brian Quintenz]] *board member* [[Kalshi]] (2021, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Brian Quintenz]] *board member* [[Kalshi]] (2021, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Brian Quintenz]] *independent director* [[SUI Group]] (2026-01-05, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Cameron Winklevoss]] *lobbied Trump against nomination* [[Brian Quintenz]] (2025-07, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Cantor Fitzgerald]] *reserve custodian of* [[USAT]] (2025-09-12, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
@@ -202,7 +202,7 @@ Most of the named moves are documented. Bo Hines left the White House crypto cou
 - [[David Sacks]] *AI & crypto czar under ethics waivers* [[White House Trump administration]] (2025-03-05, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Donald Trump]] *withdrew CFTC chair nomination* [[Brian Quintenz]] (2025-09-30, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Donald Trump]] *nominated as CFTC Chair* [[Mike Selig]] (2025-10, political) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] (2025-01, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] (2025-01, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Elizabeth Warren]] *demanded identity of Patomak buyer* [[Paul Atkins]] (2025-08-06, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Elizabeth Warren]] *opened ethics inquiry (with Murphy)* [[Steve Witkoff]] (2025-11-18, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[FTX]] *former client* [[Patomak Global Partners]] (2022, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
@@ -230,7 +230,7 @@ Most of the named moves are documented. Bo Hines left the White House crypto cou
 - [[Trump Media & Technology Group]] *litigation opponents sought Patomak records on TMTG* [[Patomak Global Partners]] (2025-08, legal) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Tyler Winklevoss]] *lobbied Trump against nomination* [[Brian Quintenz]] (2025-07, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[The Wall Street Journal]] *reported Tether-Nxum payments* [[Bo Hines]] (2026-10-14, media) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Zach Witkoff]] *son of* [[Steve Witkoff]] (family) · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Zach Witkoff]] *son of* [[Steve Witkoff]] (family) · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]]
 
 ## Leads not covered by the video
 

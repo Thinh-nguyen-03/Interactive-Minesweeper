@@ -17,8 +17,8 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 - Commerce Secretary credited by Cove; sits on the EXIM and DFC boards per CREW.
 - US Commerce Secretary; former Cantor Fitzgerald chairman/CEO
 - Commerce Secretary; former Cantor Fitzgerald chairman/CEO
+- Commerce Secretary; family trusts control Cantor
 - Commerce Secretary; former Cantor chairman/CEO
-- Commerce Secretary; ex-Cantor CEO (see C35)
 
 ## Appears in claims
 
@@ -28,7 +28,7 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
-- [[C65 Officials who decided matters involving their former clients or partners]] · Pending
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 
 ## Relationships
 
@@ -44,6 +44,7 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 - [[Howard Lutnick]] *former CEO; interests to children's trusts* [[Cantor Fitzgerald]] (2025-05-16, family) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Howard Lutnick]] *former chairman/CEO; divested to children's trusts* [[Cantor Fitzgerald]] (2025-05-16, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Howard Lutnick]] *former chairman/CEO; stake moved to sons' trusts* [[Cantor Fitzgerald]] (2025-02, ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Howard Lutnick]] *former chairman; children's trusts control* [[Cantor Fitzgerald]] (2025-05, family) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Howard Lutnick]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] (political) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Howard Lutnick]] *father of* [[Kyle Lutnick]] (family) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Howard Lutnick]] *allegedly delayed Entity List action against* [[Megaspeed]] (2026, regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]

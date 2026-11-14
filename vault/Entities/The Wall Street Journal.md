@@ -5,8 +5,8 @@ type: "media"
 aliases:
   - "WSJ"
   - "Wall Street Journal"
-connections: 31
-claims: 17
+connections: 32
+claims: 18
 tags:
   - "entity"
   - "type/media"
@@ -42,6 +42,7 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 

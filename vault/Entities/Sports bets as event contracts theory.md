@@ -26,4 +26,4 @@ Legal theory classing sports gambling as financial trading, enabling prediction 
 
 ## Themes
 
-- [[Theme - President makes the law for markets the family is in]]
+- [[Theme - Policy made for markets the family operates in]]

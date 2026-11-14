@@ -85,9 +85,9 @@ The core facts hold up. Sun put a total of $75M into WLF ($30M in Nov 2024 plus 
 
 ## Themes
 
-- [[Theme - Regulator dropped the case after money flowed]]
-- [[Theme - Family member hired as adviser for the name]]
-- [[Theme - Blanket denials]]
+- [[Theme - Enforcement cases dropped near money flows]]
+- [[Theme - Family members hired as advisers]]
+- [[Theme - Denials from everyone named]]
 
 ## People and organisations
 

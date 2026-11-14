@@ -25,4 +25,4 @@ Binance offering ~20% annual yield to hold USD1.
 
 ## Themes
 
-- [[Theme - Narrative over product, circular deals]]
+- [[Theme - Narrative ahead of product; circular deals]]

@@ -70,8 +70,8 @@ Binance listed USD1 early (2025-05-22, after HTX, MEXC and KuCoin) and ran a cap
 
 ## Themes
 
-- [[Theme - Blanket denials]]
-- [[Theme - Narrative over product, circular deals]]
+- [[Theme - Denials from everyone named]]
+- [[Theme - Narrative ahead of product; circular deals]]
 
 ## People and organisations
 

@@ -73,10 +73,10 @@ Trump signed EO 14233 creating a Strategic Bitcoin Reserve on 2025-03-06, and th
 
 ## Themes
 
-- [[Theme - Regulator dropped the case after money flowed]]
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - President makes the law for markets the family is in]]
-- [[Theme - Blanket denials]]
+- [[Theme - Enforcement cases dropped near money flows]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Policy made for markets the family operates in]]
+- [[Theme - Denials from everyone named]]
 
 ## People and organisations
 
@@ -98,7 +98,7 @@ Trump signed EO 14233 creating a Strategic Bitcoin Reserve on 2025-03-06, and th
 
 ## Relationships documented
 
-- [[Anchorage Digital]] *custodian for bitcoin treasury* [[Trump Media & Technology Group]] (2025-05-27, commercial) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Anchorage Digital]] *custodian for bitcoin treasury* [[Trump Media & Technology Group]] (2025-05-27, commercial) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Crypto.com]] *custodian for bitcoin treasury* [[Trump Media & Technology Group]] (2025-05-27, commercial) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Cumberland (DRW)]] *denied quid pro quo in comment to* [[Coffeezilla]] (media) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Cumberland (DRW)]] *denies quid pro quo with* [[Trump Media & Technology Group]] (political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]

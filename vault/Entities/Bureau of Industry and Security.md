@@ -22,4 +22,4 @@ Commerce agency that maintains the Entity List and chip-export licensing
 
 - [[Bureau of Industry and Security]] *paused export-control probe of* [[Megaspeed]] (regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Bureau of Industry and Security]] *part of* [[US Department of Commerce]] (ownership) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[US Department of Justice]] *reportedly asked to pause Megaspeed probe* [[Bureau of Industry and Security]] (legal) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[US Department of Justice (us-doj)]] *reportedly asked to pause Megaspeed probe* [[Bureau of Industry and Security]] (legal) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]

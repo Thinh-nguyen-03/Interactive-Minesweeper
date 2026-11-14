@@ -33,4 +33,4 @@ Japanese bitcoin treasury company; Eric Trump is strategic board adviser.
 
 ## Themes
 
-- [[Theme - Family member hired as adviser for the name]]
+- [[Theme - Family members hired as advisers]]

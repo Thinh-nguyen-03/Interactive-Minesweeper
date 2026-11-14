@@ -75,9 +75,9 @@ WLF's subsidiary WLTC Holdings applied to the OCC in January 2026 for a national
 
 ## Themes
 
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - Official favours follow the money]]
-- [[Theme - Blanket denials]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Official acts close in time to payments]]
+- [[Theme - Denials from everyone named]]
 
 ## People and organisations
 

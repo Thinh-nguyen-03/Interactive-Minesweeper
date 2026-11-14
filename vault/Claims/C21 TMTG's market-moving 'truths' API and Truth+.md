@@ -77,7 +77,7 @@ TMTG did announce 'Truth API' on July 16, 2026. It is a paid, real-time licensed
 
 ## Themes
 
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Earning from the office, brand and access]]
 
 ## People and organisations
 

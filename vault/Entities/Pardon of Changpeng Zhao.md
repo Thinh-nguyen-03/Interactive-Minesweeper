@@ -44,4 +44,4 @@ Trump's pardon of Binance's founder.
 
 ## Themes
 
-- [[Theme - Official favours follow the money]]
+- [[Theme - Official acts close in time to payments]]

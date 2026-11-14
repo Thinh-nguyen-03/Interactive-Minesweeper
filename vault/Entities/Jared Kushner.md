@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Kushner"
-connections: 45
-claims: 12
+connections: 50
+claims: 15
 tags:
   - "entity"
   - "type/person"
@@ -33,8 +33,11 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
-- [[C65 Officials who decided matters involving their former clients or partners]] · Pending
+- [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
 
 ## Relationships
@@ -45,6 +48,7 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[Chad Mizelle]] *attorney for* [[Jared Kushner]] (legal) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
 - [[Chad Mizelle]] *lawyer for* [[Jared Kushner]] (legal) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Chad Mizelle]] *personal lawyer to* [[Jared Kushner]] (2026-10, legal) · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Charles Kushner]] *father* [[Jared Kushner]] (family) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Charles Kushner]] *father of* [[Jared Kushner]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Citizens for Responsibility and Ethics in Washington]] *sued over envoy role and lack of disclosure* [[Jared Kushner]] (2026-10, legal) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[David Friedman]] *allegedly relayed messages for; denies* [[Jared Kushner]] (2018, political) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
@@ -59,10 +63,13 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[Jared Kushner]] *founded* [[Affinity Partners]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Jared Kushner]] *founded (not named in alleged accounts)* [[Affinity Partners]] (ownership) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Jared Kushner]] *founded and runs* [[Affinity Partners]] (ownership) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+- [[Jared Kushner]] *founder* [[Affinity Partners]] (ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] (2021, ownership) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
 - [[Jared Kushner]] *founder and head of* [[Affinity Partners]] (ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Jared Kushner]] *founder of* [[Affinity Partners]] (ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Jared Kushner]] *runs* [[Affinity Partners]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *resort projects with Rama government (C45)* [[Albania]] (2024-12, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Jared Kushner]] *affiliated via Affinity partners; minority partner* [[Atlantic Incubation Partners LLC]] (2024-12-30, ownership) · [[C63 Shell entities and ownership chains|C63]]
 - [[Jared Kushner]] *executive board member of* [[Board of Peace]] (2026-01, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *exempt from disclosure under* [[Conflict-of-interest laws]] (legal) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *son-in-law of* [[Donald Trump]] (family) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C56 Saudi Arabia family deals alongside US policy|C56]]

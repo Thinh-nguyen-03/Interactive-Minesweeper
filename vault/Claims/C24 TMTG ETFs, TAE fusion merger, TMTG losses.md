@@ -76,10 +76,10 @@ Trump Media's Truth.Fi brand launched five Truth Social ETFs on 2025-12-30, incl
 
 ## Themes
 
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - President makes the law for markets the family is in]]
-- [[Theme - Insiders profit, retail investors lose]]
-- [[Theme - Narrative over product, circular deals]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Policy made for markets the family operates in]]
+- [[Theme - Insider gains alongside retail investor losses]]
+- [[Theme - Narrative ahead of product; circular deals]]
 
 ## People and organisations
 
@@ -115,7 +115,7 @@ Trump Media's Truth.Fi brand launched five Truth Social ETFs on 2025-12-30, incl
 - [[Alphabet (Google)]] *investor in* [[TAE Technologies]] (money) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Devin Nunes]] *CEO until April 2026 of* [[Trump Media & Technology Group]] (2026-04-21, advisory) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Donald Trump]] *largest shareholder (via trust) of* [[Trump Media & Technology Group]] (ownership) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump Jr]] *board director; trustee of father's shares in* [[Trump Media & Technology Group]] (ownership) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Karoline Leavitt]] *press secretary for* [[White House Trump administration]] (political) · [[C22 Crypto.com and TMTG|C22]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] (2026-04, advisory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]

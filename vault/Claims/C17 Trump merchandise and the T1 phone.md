@@ -75,7 +75,7 @@ Every product named exists and pays Trump royalties: NFTs (Dec 2022), watches, g
 ## Themes
 
 - [[Theme - Secrecy and non-disclosure]]
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Earning from the office, brand and access]]
 
 ## People and organisations
 
@@ -120,7 +120,7 @@ Every product named exists and pays Trump royalties: NFTs (Dec 2022), watches, g
 - [[NFT INT LLC]] *paid NFT licensing income (2024) to* [[Donald Trump]] (2024, $1.16M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[NFT INT LLC]] *issued* [[Trump Digital Trading Cards]] (2022-12-15, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[T1 phone]] *dropped 'made in America' claim* [[United States]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
-- [[Trump Mobile]] *sells* [[T1 phone]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Trump Mobile]] *sells* [[T1 phone]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]] [[C63 Shell entities and ownership chains|C63]]
 - [[Trump Mobile]] *sells; dropped 'Made in the USA' banner for* [[T1 phone]] (2025-06, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Trump Organization]] *licenses Trump brand to* [[Trump Mobile]] (2025-06, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Trump Organization]] *licenses name to* [[Trump Mobile]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]

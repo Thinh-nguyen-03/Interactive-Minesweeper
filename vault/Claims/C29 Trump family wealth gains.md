@@ -79,7 +79,7 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 
 ## Themes
 
-- [[Theme - Insiders profit, retail investors lose]]
+- [[Theme - Insider gains alongside retail investor losses]]
 
 ## People and organisations
 

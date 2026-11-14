@@ -7,8 +7,8 @@ aliases:
   - "US Commerce Department"
   - "US Commerce Department (BIS)"
   - "US Department of Commerce (CHIPS Program Office)"
-connections: 20
-claims: 8
+connections: 21
+claims: 9
 tags:
   - "entity"
   - "type/government"
@@ -35,6 +35,7 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 
 ## Relationships
 
@@ -56,4 +57,5 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 - [[US Department of Commerce]] *licenses chip exports under* [[UAE AI chips deal]] (2025-05, regulatory) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[US Department of Commerce]] *licenses chips under* [[UAE AI chips deal]] (regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[US Department of Commerce]] *$1.6B CHIPS LOI for ~10% stake* [[USA Rare Earth]] (2026-01-26, $1.6B, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[US Department of Commerce]] *$50M CHIPS LOI/equity* [[Vulcan Elements]] (2025-11-03, $50M, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[US Department of Commerce]] *$50M CHIPS incentives/equity to* [[Vulcan Elements]] (2025-11-03, $50M, money) · [[C26 1789 Capital and Vulcan Elements|C26]]

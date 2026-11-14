@@ -90,9 +90,9 @@ The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar
 
 ## Themes
 
-- [[Theme - Regulator dropped the case after money flowed]]
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Enforcement cases dropped near money flows]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Earning from the office, brand and access]]
 
 ## People and organisations
 
@@ -158,7 +158,7 @@ The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Coinbase]] (2025-02-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *dropped lawsuit against* [[Coinbase]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit* [[Consensys]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit* [[Cumberland (DRW)]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *closed investigation with no action* [[Gemini]] (2025-02-26, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dropped case against* [[Gemini]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]

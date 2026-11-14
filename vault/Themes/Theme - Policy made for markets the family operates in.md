@@ -4,7 +4,7 @@ kind: "theme"
 tags:
   - "theme"
 ---
-# President makes the law for markets the family is in
+# Policy made for markets the family operates in
 
 Legislation and executive orders (GENIUS, CLARITY, Bitcoin reserve, prediction-market policy) land in exactly the sectors where the family holds stakes.
 

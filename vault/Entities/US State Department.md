@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "State Department"
-connections: 7
-claims: 3
+connections: 8
+claims: 4
 tags:
   - "entity"
   - "type/government"
@@ -18,12 +18,14 @@ Approved possible military sales to Qatar.
 
 - Approves foreign military sales
 - Notified Congress of the F-35 sale
+- Employs Barrack, Boulos, C. Kushner
 - Employs Massad Boulos; Charles Kushner's embassy
 
 ## Appears in claims
 
 - [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 
 ## Relationships
@@ -37,4 +39,4 @@ Approved possible military sales to Qatar.
 
 ## Themes
 
-- [[Theme - Official favours follow the money]]
+- [[Theme - Official acts close in time to payments]]

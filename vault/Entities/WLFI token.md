@@ -30,7 +30,7 @@ World Liberty Financial governance token; ~$550M sold.
 - [[C29 Trump family wealth gains]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
-- [[C67 Investors who show up in several Trump-family vehicles]] · Pending
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -49,5 +49,5 @@ World Liberty Financial governance token; ~$550M sold.
 
 ## Themes
 
-- [[Theme - Insiders profit, retail investors lose]]
-- [[Theme - Narrative over product, circular deals]]
+- [[Theme - Insider gains alongside retail investor losses]]
+- [[Theme - Narrative ahead of product; circular deals]]

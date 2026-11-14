@@ -34,5 +34,5 @@ Ex-Affinity chief legal officer; DOJ chief of staff Jan-Sept 2025; Kushner's law
 - [[Chad Mizelle]] *personal lawyer to* [[Jared Kushner]] (2026-10, legal) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Chad Mizelle]] *chief of staff to* [[Pam Bondi]] (2025-01, political) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Chad Mizelle]] *sent pre-publication denial letters to* [[Simon & Schuster]] (2026-07-30, legal) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[Chad Mizelle]] *chief of staff at* [[US Department of Justice]] (2025-01, political) · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Chad Mizelle]] *chief of staff at* [[US Department of Justice (us-doj)]] (2025-01, political) · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Chad Mizelle]] *sent defamation notice and takedown demand to* [[Vanity Fair (Condé Nast)]] (2026-10-23, legal) · [[C37 Jared Kushner's hacked phone|C37]]

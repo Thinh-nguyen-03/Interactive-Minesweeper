@@ -27,4 +27,4 @@ Private dinner with the president for the coin's largest holders.
 
 ## Themes
 
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Earning from the office, brand and access]]

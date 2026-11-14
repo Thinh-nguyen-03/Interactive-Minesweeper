@@ -2,8 +2,8 @@
 id: "reuters"
 kind: "entity"
 type: "media"
-connections: 8
-claims: 5
+connections: 9
+claims: 6
 tags:
   - "entity"
   - "type/media"
@@ -18,6 +18,7 @@ Syndicated the FT pricing report and named Truth API customers
 - Reported the Truth API customer names on 2026-10-28.
 - Reported SPAK files on the forged-deed suspicions.
 - Reported options spike and CFTC oil probe
+- Truth API customers report
 
 ## Appears in claims
 
@@ -26,6 +27,7 @@ Syndicated the FT pricing report and named Truth API customers
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 

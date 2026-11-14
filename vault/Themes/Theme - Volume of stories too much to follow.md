@@ -4,7 +4,7 @@ kind: "theme"
 tags:
   - "theme"
 ---
-# Flood the zone: too much to follow
+# Volume of stories: too much to follow
 
 The sheer volume and speed of deals prevents sustained scrutiny; the video's premise for aggregating everything.
 

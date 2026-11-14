@@ -44,4 +44,4 @@ AI data-centre project (SoftBank, OpenAI, Oracle) with MGX as investing partner.
 
 ## Themes
 
-- [[Theme - Official favours follow the money]]
+- [[Theme - Official acts close in time to payments]]

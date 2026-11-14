@@ -86,9 +86,9 @@ WLF and Nasdaq-listed ALT5 Sigma did announce a $1.5B WLFI-treasury deal on Aug 
 
 ## Themes
 
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - Insiders profit, retail investors lose]]
-- [[Theme - Narrative over product, circular deals]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Insider gains alongside retail investor losses]]
+- [[Theme - Narrative ahead of product; circular deals]]
 
 ## People and organisations
 
@@ -131,7 +131,7 @@ WLF and Nasdaq-listed ALT5 Sigma did announce a $1.5B WLFI-treasury deal on Aug 
 - [[Coffeezilla]] *covered the deal in the video* [[ALT5 Sigma]] (media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Donald Trump]] *appoints leadership of* [[Securities and Exchange Commission]] (political) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Donald Trump]] *family owns* [[Trump family-owned WLF entity]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
 - [[DT Marks DEFI LLC]] *Trump-family-owned entity* [[Donald Trump]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Eric Trump]] *announced as board director (reported as observer)* [[ALT5 Sigma]] (2025-08, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]

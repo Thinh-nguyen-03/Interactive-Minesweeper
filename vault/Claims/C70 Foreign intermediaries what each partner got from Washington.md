@@ -33,6 +33,8 @@ Verification of this claim has not been completed yet.
 - [[Japan]] (named in the claim text)
 - [[Kazakhstan]] (named in the claim text)
 - [[Metaplanet]] (named in the claim text)
+- [[Pakistan]] (named in the claim text)
+- [[Pakistan Crypto Council]] (named in the claim text)
 - [[Qatari Diar]] (named in the claim text)
 - [[SoftBank]] (named in the claim text)
 - [[Trump family]] (named in the claim text)

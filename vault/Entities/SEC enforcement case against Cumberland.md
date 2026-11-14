@@ -26,4 +26,4 @@ Dismissed with prejudice.
 
 ## Themes
 
-- [[Theme - Regulator dropped the case after money flowed]]
+- [[Theme - Enforcement cases dropped near money flows]]

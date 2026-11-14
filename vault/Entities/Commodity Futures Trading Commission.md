@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "CFTC"
-connections: 32
-claims: 8
+connections: 34
+claims: 10
 tags:
   - "entity"
   - "type/government"
@@ -32,6 +32,8 @@ Commodities regulator overseeing prediction markets, chaired by Mike Selig.
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
@@ -43,6 +45,7 @@ Commodities regulator overseeing prediction markets, chaired by Mike Selig.
 - [[Commodity Futures Trading Commission]] *conducting* [[CFTC probe into Polymarket]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Commodity Futures Trading Commission]] *sued over prediction markets* [[State of Connecticut]] (2026-04-02, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Commodity Futures Trading Commission]] *amicus brief in Ninth Circuit* [[Crypto.com]] (2026-02-17, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Commodity Futures Trading Commission]] *amicus brief supporting its position* [[Crypto.com]] (2026-02-17, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Commodity Futures Trading Commission]] *filed amicus brief supporting* [[Crypto.com Derivatives North America (CDNA, ex-NADEX)]] (2026-02-17, legal) · [[C22 Crypto.com and TMTG|C22]]
 - [[Commodity Futures Trading Commission]] *enables* [[Sports bets as event contracts theory]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Commodity Futures Trading Commission]] *civil insider-trading complaint (first on event contracts)* [[Gannon Ken Van Dyke]] (2026-04-23, regulatory) · [[C58 Market-moving posts and insider-trading allegations|C58]]
@@ -50,6 +53,7 @@ Commodities regulator overseeing prediction markets, chaired by Mike Selig.
 - [[Commodity Futures Trading Commission]] *jointly moved to vacate $5M consent order* [[Gemini]] (2026-05-27, regulatory) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Commodity Futures Trading Commission]] *sued over prediction markets* [[State of Illinois]] (2026-04-02, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Commodity Futures Trading Commission]] *probing oil-futures trades placed before Trump Iran posts* [[Iran]] (2026-04, regulatory) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[Commodity Futures Trading Commission]] *asserted exclusive jurisdiction benefiting* [[Kalshi]] (2026-02-17, regulatory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Commodity Futures Trading Commission]] *regulates; asserts exclusive jurisdiction over its event contracts* [[Kalshi]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Commodity Futures Trading Commission]] *sued over prediction-market ban* [[State of Minnesota]] (2026-05-19, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Commodity Futures Trading Commission]] *sued over prediction markets (SDNY)* [[State of New York]] (2026-04-24, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
@@ -65,12 +69,13 @@ Commodities regulator overseeing prediction markets, chaired by Mike Selig.
 - [[Mike Selig]] *Chair (sworn in)* [[Commodity Futures Trading Commission]] (2025-12-22, regulatory) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Mike Selig]] *chair* [[Commodity Futures Trading Commission]] (2025-12-18, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Mike Selig]] *chair of* [[Commodity Futures Trading Commission]] (2025-12-18, regulatory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Mike Selig]] *chair; amicus and suits vs states on event contracts* [[Commodity Futures Trading Commission]] (2025-12-22, regulatory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Mike Selig]] *chairman of* [[Commodity Futures Trading Commission]] (2025-12-18, regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] (regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Mike Selig]] *chairs; vowed to pursue insider trading* [[Commodity Futures Trading Commission]] (2026-04, regulatory) · [[C58 Market-moving posts and insider-trading allegations|C58]]
-- [[US Department of Justice]] *assisting oil-futures insider probe* [[Commodity Futures Trading Commission]] (2026-04, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[US Department of Justice (us-doj)]] *assisting oil-futures insider probe* [[Commodity Futures Trading Commission]] (2026-04, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]
 
 ## Themes
 
-- [[Theme - Regulator dropped the case after money flowed]]
-- [[Theme - President appoints the regulator of the family business]]
+- [[Theme - Enforcement cases dropped near money flows]]
+- [[Theme - President appoints the regulators of family-linked businesses]]

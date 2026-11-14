@@ -84,9 +84,9 @@ Each core fact is documented. Crypto.com agreed on 2025-08-26 to buy $50M of TMT
 
 ## Themes
 
-- [[Theme - Regulator dropped the case after money flowed]]
-- [[Theme - President appoints the regulator of the family business]]
-- [[Theme - Official favours follow the money]]
+- [[Theme - Enforcement cases dropped near money flows]]
+- [[Theme - President appoints the regulators of family-linked businesses]]
+- [[Theme - Official acts close in time to payments]]
 
 ## People and organisations
 
@@ -154,7 +154,7 @@ Each core fact is documented. Crypto.com agreed on 2025-08-26 to buy $50M of TMT
 - [[Office of the Comptroller of the Currency]] *granted conditional national trust charter* [[Foris DAX National Trust Bank]] (2026-02-23, regulatory) · [[C22 Crypto.com and TMTG|C22]]
 - [[Paul Atkins]] *chairs* [[Securities and Exchange Commission]] (regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C22 Crypto.com and TMTG|C22]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Paul Atkins]] *pro-crypto leader of* [[Securities and Exchange Commission]] (regulatory) · [[C22 Crypto.com and TMTG|C22]]
-- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *closed with no action* [[SEC investigation into Crypto.com]] (regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[SEC investigation into Crypto.com]] *targeted* [[Crypto.com]] (legal) · [[C22 Crypto.com and TMTG|C22]]
 - [[Trump-affiliated PACs]] *support* [[Donald Trump]] (political) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]

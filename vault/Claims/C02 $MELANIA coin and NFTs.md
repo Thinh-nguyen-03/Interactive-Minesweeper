@@ -70,9 +70,9 @@ Melania Trump did launch $MELANIA on Jan 19, 2025, about two days after $TRUMP, 
 
 ## Themes
 
-- [[Theme - Insiders profit, retail investors lose]]
+- [[Theme - Insider gains alongside retail investor losses]]
 - [[Theme - Secrecy and non-disclosure]]
-- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Earning from the office, brand and access]]
 
 ## People and organisations
 
@@ -107,7 +107,7 @@ Melania Trump did launch $MELANIA on Jan 19, 2025, about two days after $TRUMP, 
 - [[Melania Trump]] *sells* [[Melania Trump NFTs]] (2025, commercial) · [[C02 $MELANIA coin and NFTs|C02]]
 - [[Melania Trump]] *sold* [[Melania Trump NFTs]] (commercial) · [[C02 $MELANIA coin and NFTs|C02]]
 - [[Melania Trump]] *controls* [[MKT World LLC]] (ownership) · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[MKT World LLC]] *issuer of* [[$MELANIA meme coin]] (2025-01-19, ownership) · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[MKT World LLC]] *issuer of* [[$MELANIA meme coin]] (2025-01-19, ownership) · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]]
 - [[Molly White]] *tracked (per video; unverified specific work)* [[$MELANIA meme coin]] (media) · [[C02 $MELANIA coin and NFTs|C02]]
 - [[Molly White]] *tracked* [[$TRUMP $MELANIA shell companies]] (media) · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
 - [[Retail investors Trump supporters]] *lost ~99% on* [[$MELANIA meme coin]] (money) · [[C02 $MELANIA coin and NFTs|C02]] [[C29 Trump family wealth gains|C29]]
