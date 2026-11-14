@@ -1,7 +1,7 @@
 # Data contract
 
 Source: `transcript.txt` (Coffeezilla video "Investigating The President", auto-transcribed, so names are often misspelled).
-Claim list: `data/claims-index.json` (ids C01–C30, with transcript line ranges).
+Claim list: `data/claims-index.json`. C01–C30 come from the video (`origin: "video"`, with transcript line ranges). C31+ are follow-up leads the video did not cover (`origin: "follow-up"`, `parents`: related video claims); for those the `claim` text is a research brief, and the verdict rates whether the lead is substantiated by the record.
 
 ## Research output (one pair of files per claim)
 

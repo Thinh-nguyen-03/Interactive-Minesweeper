@@ -1,32 +1,316 @@
 [
-  {"id": "C01", "slug": "trump-meme-coin", "lines": "101-135,193-231", "title": "$TRUMP meme coin", "claim": "Trump launched an official $TRUMP meme coin two days before his January 2025 inauguration; he 'raked in' about $600 million from it via shell companies; the coin has since lost ~95% of its value and almost all buyers lost money; Trump defended crypto involvement by saying the US must lead or China will."},
-  {"id": "C02", "slug": "melania-coin", "lines": "137,195,227", "title": "$MELANIA coin and NFTs", "claim": "Melania Trump launched her own meme coin right after $TRUMP; she reported ~$6 million from her coin and NFTs; the coin is down ~99%."},
-  {"id": "C03", "slug": "meme-coin-dinner", "lines": "233-241", "title": "Dinner for top $TRUMP holders", "claim": "Top holders of $TRUMP got a private dinner with the president; the White House press secretary said he abides by all conflict-of-interest laws."},
-  {"id": "C04", "slug": "wlf-founding", "lines": "245-279", "title": "World Liberty Financial founding and token sale", "claim": "World Liberty Financial (WLF) was created by the Trump family shortly before the 2024 election; it launched a WLFI governance token and the USD1 stablecoin but no DeFi application; co-founder Chase Herro said you can sell 'sh*t in a can' if the story is right; token sales were poor in Oct 2024 then sold out ~$550M after Trump won."},
-  {"id": "C05", "slug": "justin-sun", "lines": "281-303", "title": "Justin Sun, WLF and the SEC", "claim": "Justin Sun invested $75M in WLF while charged with fraud by the SEC, became a WLF adviser; after Trump took office the SEC dismissed its case against Sun and settled with his company; Sun later broke with WLF, accusing it of treating the crypto community as a 'personal ATM' and of an 'absurd governance scam'; lawsuits flew both ways."},
-  {"id": "C06", "slug": "tahnoon-49-percent", "lines": "305-331", "title": "Secret $500M / 49% UAE stake in WLF", "claim": "Per a Wall Street Journal investigation (reporter Sam Kessler), four days before the inauguration the Trump family secretly signed a $500M deal selling 49% of World Liberty Financial to an entity tied to Sheikh Tahnoon bin Zayed, UAE national security adviser and brother of the UAE president ('spy sheikh'); it was not disclosed."},
-  {"id": "C07", "slug": "mgx-binance-usd1", "lines": "333-379", "title": "MGX's $2B Binance investment settled in USD1", "claim": "MGX (chaired by Tahnoon) used WLF's brand-new USD1 stablecoin to close its $2B investment in Binance, announced by WLF without disclosing Tahnoon's WLF stake; this catapulted USD1; WLF earns interest on the reserves, potentially hundreds of millions for the Trump family; WLF says holding a private company to such standards is 'unfair' and USD1 was chosen on merit."},
-  {"id": "C08", "slug": "uae-chips-stargate", "lines": "381-405", "title": "UAE AI chips deal, Stargate, currency swap", "claim": "Shortly after the UAE-linked deals with Trump crypto projects, the US approved large AI-chip exports to the UAE that had previously been refused on security grounds; MGX was announced as an investor in the Stargate AI project (SoftBank, OpenAI, Oracle); Trump said a currency swap/financial help for the UAE during the Iran crisis was under consideration because it has been 'a good ally'; WLF denies any quid pro quo."},
-  {"id": "C09", "slug": "binance-cz-pardon", "lines": "407-453", "title": "Binance SEC case dropped and CZ pardon", "claim": "The SEC lawsuit against Binance was dropped; Trump later pardoned Binance founder Changpeng Zhao (CZ); Trump said 'I don't know who he is'; CZ said he 'didn't do anything' to get it but that without a pardon Binance is severely limited in the US."},
-  {"id": "C10", "slug": "binance-usd1-growth", "lines": "453-467", "title": "Binance driving USD1 adoption", "claim": "Binance was among the first exchanges to list USD1 and paid customers up to ~20% annual yield to hold it; a WSJ analysis linked each major jump in USD1 usage to Binance; WLF says this is standard marketing practice; WLF boasted USD1 generates ~$159M annually."},
-  {"id": "C11", "slug": "genius-clarity-acts", "lines": "469-481", "title": "GENIUS / CLARITY Acts and USD1", "claim": "Trump pushed the GENIUS Act (stablecoin law) and CLARITY Act, including reported night-time calls to lawmakers to secure votes, while his family profits from USD1; a Trump son boasted on X that USD1 is the second-largest GENIUS-compliant stablecoin."},
-  {"id": "C12", "slug": "wlf-bank-charter", "lines": "483-499", "title": "WLF bank charter from the OCC", "claim": "World Liberty applied for a national (trust) bank charter and was provisionally/conditionally approved by the OCC, whose head the president appoints; WLF says approval was handled by career staff."},
-  {"id": "C13", "slug": "alt5-sigma", "lines": "501-519", "title": "ALT5 Sigma $1.5B WLFI treasury deal", "claim": "WLF announced a $1.5B deal with Nasdaq-listed ALT5 Sigma, which reportedly sent ~$500M to a Trump-family entity and ~$90M to the Witkoff family; ALT5 is run by the same people who run WLF; ALT5 stock fell ~94% in a year and the company rebranded to 'AI Financial Corporation'."},
-  {"id": "C14", "slug": "witkoff", "lines": "523-533", "title": "Steve and Zach Witkoff", "claim": "Zach Witkoff is a WLF co-founder; his father Steve Witkoff is US Special Envoy to the Middle East while WLF's largest shareholder is from the Middle East; WLF says Steve Witkoff has divested his stake."},
-  {"id": "C15", "slug": "kushner-affinity", "lines": "535-553", "title": "Jared Kushner and Affinity Partners", "claim": "Jared Kushner acts as an unofficial 'peace envoy' alongside Witkoff with no official title, so no divestment or financial disclosure; his fund Affinity Partners got $2B from Saudi Arabia's Public Investment Fund and, per the New York Times, has been trying to raise $5B more largely from Gulf sovereign funds."},
-  {"id": "C16", "slug": "qatar-jet-arms-golf", "lines": "555-565", "title": "Qatar jet, arms sales and golf deal", "claim": "Qatar gifted a ~$400M luxury Boeing 747 for use as Air Force One, to go to Trump's presidential library afterward; at the same time Qatar negotiated a ~$1.96B arms deal on favourable terms; the Trump family struck a luxury golf course deal in Qatar as part of a ~$5.5B project; in 2026 the State Department approved two more possible sales to Qatar worth ~$5B (APKWS precision kill systems and Patriot missile replenishment)."},
-  {"id": "C17", "slug": "merch-and-t1-phone", "lines": "565-567", "title": "Trump merchandise and the T1 phone", "claim": "The Trump family sells NFTs, watches, golden shoes/sneakers, a Trump Bible, fragrances, and the Trump Mobile T1 phone, which was advertised as 'Made in America' until the website wording was changed; a buyer (Coffeezilla) says he was doxxed after ordering."},
-  {"id": "C18", "slug": "american-bitcoin-metaplanet", "lines": "569-607", "title": "Eric Trump: Metaplanet, American Bitcoin and Hut 8", "claim": "Eric Trump became a strategic board adviser to Japanese bitcoin-treasury company Metaplanet; Eric and Don Jr. co-own American Bitcoin, 80% owned by Hut 8, which contributed its mining equipment for that 80% with no known cash changing hands; CEO Matt Prusak told Wired the Trumps brought capital-markets access and 'narrative'; the Trump family is linked to about five crypto treasury companies; American Bitcoin stock has performed poorly."},
-  {"id": "C19", "slug": "bitcoin-reserve-tmtg-cumberland", "lines": "611-617", "title": "Strategic Bitcoin Reserve, TMTG treasury, Cumberland/Don Wilson", "claim": "Trump signed an executive order creating a Strategic Bitcoin Reserve; around then Trump Media & Technology Group (TMTG) announced a $2.5B raise for its own bitcoin treasury; one investor was Don Wilson (DRW), whose crypto firm Cumberland had an SEC enforcement case dismissed with prejudice weeks earlier; Cumberland denies any connection."},
-  {"id": "C20", "slug": "truth-social-stock-posts", "lines": "619-631", "title": "Trump's stock purchases and Truth Social posts", "claim": "TMTG is majority owned by the Donald J. Trump Revocable Trust and owns Truth Social; Trump names companies/tickers in posts while in office; financial disclosures (hundreds of pages) show purchases of securities in his name before he posted about them; the White House says others trade on his behalf; he posted a meme of himself trading Intel stock in the Oval Office and the price rose."},
-  {"id": "C21", "slug": "tmtg-api-truth-plus", "lines": "635-641", "title": "TMTG's market-moving 'truths' API and Truth+", "claim": "TMTG announced a paid API giving a real-time feed of Truth Social's most market-moving posts; interim CEO Kevin McGurn said 'markets already move on Truth Social posts'; it reportedly costs $100,000 a month with multiple buyers; TMTG also has Truth+, a streaming service with 'Patriot packages' and non-woke content."},
-  {"id": "C22", "slug": "crypto-com", "lines": "643-649", "title": "Crypto.com and TMTG", "claim": "Crypto.com agreed to buy $50M of TMTG stock in a partnership months after the SEC closed its investigation of Crypto.com with no action; $36M was spent on contributions to Trump-affiliated PACs (attribution unclear in transcript); the CFTC filed an amicus brief supporting Crypto.com in a prediction-markets lawsuit; Crypto.com's national trust bank charter application was provisionally approved."},
-  {"id": "C23", "slug": "sec-crypto-cases-dropped", "lines": "139,651-655", "title": "SEC drops crypto-exchange cases; donors", "claim": "After Trump took office the SEC dropped, one by one, over a dozen enforcement actions against crypto companies including Coinbase, Kraken, Binance and Gemini; several of these firms gave $1M+ to Trump's campaign or inauguration fund, sponsored his military parade, or donated to the White House ballroom."},
-  {"id": "C24", "slug": "tmtg-etfs-tae-fusion", "lines": "655-657", "title": "TMTG ETFs, TAE fusion merger, TMTG losses", "claim": "TMTG sells Truth Social-branded ETFs (American Security & Defense, American Next Frontiers, American Icons); TMTG announced a ~$6B all-stock merger with fusion company TAE Technologies, a sector dependent on regulation; TMTG stock is far down, with revenue of a few million dollars against ~$712M in losses."},
-  {"id": "C25", "slug": "prediction-markets-don-jr", "lines": "659-735", "title": "Prediction markets, CFTC and Don Jr.", "claim": "TMTG announced 'Truth Predict', which flopped; prediction markets on sports depend on a legal theory backed by Trump's CFTC chairman Mike Selig; Don Jr. is a strategic adviser to Kalshi and on the advisory board of/an investor in Polymarket; Selig was asked in Congress whether the White House asked him to drop the CFTC probe into Polymarket; Trump posted that prediction markets are a major industry to protect; Don Jr. reportedly told Republican state attorneys general not to fight prediction markets (he says it was a passing comment)."},
-  {"id": "C26", "slug": "1789-capital-vulcan", "lines": "737-799", "title": "1789 Capital and Vulcan Elements", "claim": "Don Jr. is a partner at 1789 Capital, which has over $1B in assets and reported 200%+ returns; it invested in rare-earth magnet maker Vulcan Elements shortly before the company announced a ~$1B+ facility with US government backing; ProPublica reported the deal was the only one initiated by a top White House aide ('the call came from the White House'); 1789 says it is a passive minority investor and does not call the government."},
-  {"id": "C27", "slug": "new-america-spac", "lines": "801-821", "title": "New America Acquisition I Corp SPAC", "claim": "New America Acquisition I Corp, a ~$300M SPAC with Don Jr. and Eric Trump as advisers who stand to make tens of millions, said in its SEC filing it would target companies positioned to benefit from federal or state incentives such as government contracts or preferential procurement; that language was removed later the same day."},
-  {"id": "C28", "slug": "foundation-robotics", "lines": "827-857", "title": "Foundation Future Industries robots and Eric Trump", "claim": "Humanoid-robot startup Foundation Future Industries (CEO Sankaet Pathak) has a ~$24M Pentagon contract for its Phantom robot with the Marine Corps; Eric Trump is its chief strategy adviser; Wired reported the contracts predated his involvement even though Fox presented them as new."},
-  {"id": "C29", "slug": "family-wealth-disclosures", "lines": "869-879", "title": "Trump family wealth gains", "claim": "Per financial disclosures, Trump made more from crypto than from any other business (about $1.4B, of ~$2.2B total), possibly his most profitable year ever; per Forbes, Eric Trump is ~10x richer since the election, Don Jr. ~6x richer, and Barron Trump is worth ~$150M; meanwhile most retail investors in Trump-linked ventures lost money."},
-  {"id": "C30", "slug": "framing-polls-bannon", "lines": "23-99,141-175", "title": "Framing: polls, supporters turning, Bannon, lawyer threat", "claim": "Polls show public concern about government corruption at its highest level in 20 years; prominent former Trump supporters/campaigners now call this the most corrupt presidency in history; Steve Bannon described the 'flood the zone'/'muzzle velocity' media strategy; Coffeezilla says a lawyer threatened him before publication and that Don Jr., Eric, Melania and Donald Trump did not respond to requests for comment; the video features Molly White, Sam Kessler (WSJ) and Isaac Saul (Tangle)."}
+ {
+  "id": "C01",
+  "slug": "trump-meme-coin",
+  "lines": "101-135,193-231",
+  "title": "$TRUMP meme coin",
+  "claim": "Trump launched an official $TRUMP meme coin two days before his January 2025 inauguration; he 'raked in' about $600 million from it via shell companies; the coin has since lost ~95% of its value and almost all buyers lost money; Trump defended crypto involvement by saying the US must lead or China will.",
+  "origin": "video"
+ },
+ {
+  "id": "C02",
+  "slug": "melania-coin",
+  "lines": "137,195,227",
+  "title": "$MELANIA coin and NFTs",
+  "claim": "Melania Trump launched her own meme coin right after $TRUMP; she reported ~$6 million from her coin and NFTs; the coin is down ~99%.",
+  "origin": "video"
+ },
+ {
+  "id": "C03",
+  "slug": "meme-coin-dinner",
+  "lines": "233-241",
+  "title": "Dinner for top $TRUMP holders",
+  "claim": "Top holders of $TRUMP got a private dinner with the president; the White House press secretary said he abides by all conflict-of-interest laws.",
+  "origin": "video"
+ },
+ {
+  "id": "C04",
+  "slug": "wlf-founding",
+  "lines": "245-279",
+  "title": "World Liberty Financial founding and token sale",
+  "claim": "World Liberty Financial (WLF) was created by the Trump family shortly before the 2024 election; it launched a WLFI governance token and the USD1 stablecoin but no DeFi application; co-founder Chase Herro said you can sell 'sh*t in a can' if the story is right; token sales were poor in Oct 2024 then sold out ~$550M after Trump won.",
+  "origin": "video"
+ },
+ {
+  "id": "C05",
+  "slug": "justin-sun",
+  "lines": "281-303",
+  "title": "Justin Sun, WLF and the SEC",
+  "claim": "Justin Sun invested $75M in WLF while charged with fraud by the SEC, became a WLF adviser; after Trump took office the SEC dismissed its case against Sun and settled with his company; Sun later broke with WLF, accusing it of treating the crypto community as a 'personal ATM' and of an 'absurd governance scam'; lawsuits flew both ways.",
+  "origin": "video"
+ },
+ {
+  "id": "C06",
+  "slug": "tahnoon-49-percent",
+  "lines": "305-331",
+  "title": "Secret $500M / 49% UAE stake in WLF",
+  "claim": "Per a Wall Street Journal investigation (reporter Sam Kessler), four days before the inauguration the Trump family secretly signed a $500M deal selling 49% of World Liberty Financial to an entity tied to Sheikh Tahnoon bin Zayed, UAE national security adviser and brother of the UAE president ('spy sheikh'); it was not disclosed.",
+  "origin": "video"
+ },
+ {
+  "id": "C07",
+  "slug": "mgx-binance-usd1",
+  "lines": "333-379",
+  "title": "MGX's $2B Binance investment settled in USD1",
+  "claim": "MGX (chaired by Tahnoon) used WLF's brand-new USD1 stablecoin to close its $2B investment in Binance, announced by WLF without disclosing Tahnoon's WLF stake; this catapulted USD1; WLF earns interest on the reserves, potentially hundreds of millions for the Trump family; WLF says holding a private company to such standards is 'unfair' and USD1 was chosen on merit.",
+  "origin": "video"
+ },
+ {
+  "id": "C08",
+  "slug": "uae-chips-stargate",
+  "lines": "381-405",
+  "title": "UAE AI chips deal, Stargate, currency swap",
+  "claim": "Shortly after the UAE-linked deals with Trump crypto projects, the US approved large AI-chip exports to the UAE that had previously been refused on security grounds; MGX was announced as an investor in the Stargate AI project (SoftBank, OpenAI, Oracle); Trump said a currency swap/financial help for the UAE during the Iran crisis was under consideration because it has been 'a good ally'; WLF denies any quid pro quo.",
+  "origin": "video"
+ },
+ {
+  "id": "C09",
+  "slug": "binance-cz-pardon",
+  "lines": "407-453",
+  "title": "Binance SEC case dropped and CZ pardon",
+  "claim": "The SEC lawsuit against Binance was dropped; Trump later pardoned Binance founder Changpeng Zhao (CZ); Trump said 'I don't know who he is'; CZ said he 'didn't do anything' to get it but that without a pardon Binance is severely limited in the US.",
+  "origin": "video"
+ },
+ {
+  "id": "C10",
+  "slug": "binance-usd1-growth",
+  "lines": "453-467",
+  "title": "Binance driving USD1 adoption",
+  "claim": "Binance was among the first exchanges to list USD1 and paid customers up to ~20% annual yield to hold it; a WSJ analysis linked each major jump in USD1 usage to Binance; WLF says this is standard marketing practice; WLF boasted USD1 generates ~$159M annually.",
+  "origin": "video"
+ },
+ {
+  "id": "C11",
+  "slug": "genius-clarity-acts",
+  "lines": "469-481",
+  "title": "GENIUS / CLARITY Acts and USD1",
+  "claim": "Trump pushed the GENIUS Act (stablecoin law) and CLARITY Act, including reported night-time calls to lawmakers to secure votes, while his family profits from USD1; a Trump son boasted on X that USD1 is the second-largest GENIUS-compliant stablecoin.",
+  "origin": "video"
+ },
+ {
+  "id": "C12",
+  "slug": "wlf-bank-charter",
+  "lines": "483-499",
+  "title": "WLF bank charter from the OCC",
+  "claim": "World Liberty applied for a national (trust) bank charter and was provisionally/conditionally approved by the OCC, whose head the president appoints; WLF says approval was handled by career staff.",
+  "origin": "video"
+ },
+ {
+  "id": "C13",
+  "slug": "alt5-sigma",
+  "lines": "501-519",
+  "title": "ALT5 Sigma $1.5B WLFI treasury deal",
+  "claim": "WLF announced a $1.5B deal with Nasdaq-listed ALT5 Sigma, which reportedly sent ~$500M to a Trump-family entity and ~$90M to the Witkoff family; ALT5 is run by the same people who run WLF; ALT5 stock fell ~94% in a year and the company rebranded to 'AI Financial Corporation'.",
+  "origin": "video"
+ },
+ {
+  "id": "C14",
+  "slug": "witkoff",
+  "lines": "523-533",
+  "title": "Steve and Zach Witkoff",
+  "claim": "Zach Witkoff is a WLF co-founder; his father Steve Witkoff is US Special Envoy to the Middle East while WLF's largest shareholder is from the Middle East; WLF says Steve Witkoff has divested his stake.",
+  "origin": "video"
+ },
+ {
+  "id": "C15",
+  "slug": "kushner-affinity",
+  "lines": "535-553",
+  "title": "Jared Kushner and Affinity Partners",
+  "claim": "Jared Kushner acts as an unofficial 'peace envoy' alongside Witkoff with no official title, so no divestment or financial disclosure; his fund Affinity Partners got $2B from Saudi Arabia's Public Investment Fund and, per the New York Times, has been trying to raise $5B more largely from Gulf sovereign funds.",
+  "origin": "video"
+ },
+ {
+  "id": "C16",
+  "slug": "qatar-jet-arms-golf",
+  "lines": "555-565",
+  "title": "Qatar jet, arms sales and golf deal",
+  "claim": "Qatar gifted a ~$400M luxury Boeing 747 for use as Air Force One, to go to Trump's presidential library afterward; at the same time Qatar negotiated a ~$1.96B arms deal on favourable terms; the Trump family struck a luxury golf course deal in Qatar as part of a ~$5.5B project; in 2026 the State Department approved two more possible sales to Qatar worth ~$5B (APKWS precision kill systems and Patriot missile replenishment).",
+  "origin": "video"
+ },
+ {
+  "id": "C17",
+  "slug": "merch-and-t1-phone",
+  "lines": "565-567",
+  "title": "Trump merchandise and the T1 phone",
+  "claim": "The Trump family sells NFTs, watches, golden shoes/sneakers, a Trump Bible, fragrances, and the Trump Mobile T1 phone, which was advertised as 'Made in America' until the website wording was changed; a buyer (Coffeezilla) says he was doxxed after ordering.",
+  "origin": "video"
+ },
+ {
+  "id": "C18",
+  "slug": "american-bitcoin-metaplanet",
+  "lines": "569-607",
+  "title": "Eric Trump: Metaplanet, American Bitcoin and Hut 8",
+  "claim": "Eric Trump became a strategic board adviser to Japanese bitcoin-treasury company Metaplanet; Eric and Don Jr. co-own American Bitcoin, 80% owned by Hut 8, which contributed its mining equipment for that 80% with no known cash changing hands; CEO Matt Prusak told Wired the Trumps brought capital-markets access and 'narrative'; the Trump family is linked to about five crypto treasury companies; American Bitcoin stock has performed poorly.",
+  "origin": "video"
+ },
+ {
+  "id": "C19",
+  "slug": "bitcoin-reserve-tmtg-cumberland",
+  "lines": "611-617",
+  "title": "Strategic Bitcoin Reserve, TMTG treasury, Cumberland/Don Wilson",
+  "claim": "Trump signed an executive order creating a Strategic Bitcoin Reserve; around then Trump Media & Technology Group (TMTG) announced a $2.5B raise for its own bitcoin treasury; one investor was Don Wilson (DRW), whose crypto firm Cumberland had an SEC enforcement case dismissed with prejudice weeks earlier; Cumberland denies any connection.",
+  "origin": "video"
+ },
+ {
+  "id": "C20",
+  "slug": "truth-social-stock-posts",
+  "lines": "619-631",
+  "title": "Trump's stock purchases and Truth Social posts",
+  "claim": "TMTG is majority owned by the Donald J. Trump Revocable Trust and owns Truth Social; Trump names companies/tickers in posts while in office; financial disclosures (hundreds of pages) show purchases of securities in his name before he posted about them; the White House says others trade on his behalf; he posted a meme of himself trading Intel stock in the Oval Office and the price rose.",
+  "origin": "video"
+ },
+ {
+  "id": "C21",
+  "slug": "tmtg-api-truth-plus",
+  "lines": "635-641",
+  "title": "TMTG's market-moving 'truths' API and Truth+",
+  "claim": "TMTG announced a paid API giving a real-time feed of Truth Social's most market-moving posts; interim CEO Kevin McGurn said 'markets already move on Truth Social posts'; it reportedly costs $100,000 a month with multiple buyers; TMTG also has Truth+, a streaming service with 'Patriot packages' and non-woke content.",
+  "origin": "video"
+ },
+ {
+  "id": "C22",
+  "slug": "crypto-com",
+  "lines": "643-649",
+  "title": "Crypto.com and TMTG",
+  "claim": "Crypto.com agreed to buy $50M of TMTG stock in a partnership months after the SEC closed its investigation of Crypto.com with no action; $36M was spent on contributions to Trump-affiliated PACs (attribution unclear in transcript); the CFTC filed an amicus brief supporting Crypto.com in a prediction-markets lawsuit; Crypto.com's national trust bank charter application was provisionally approved.",
+  "origin": "video"
+ },
+ {
+  "id": "C23",
+  "slug": "sec-crypto-cases-dropped",
+  "lines": "139,651-655",
+  "title": "SEC drops crypto-exchange cases; donors",
+  "claim": "After Trump took office the SEC dropped, one by one, over a dozen enforcement actions against crypto companies including Coinbase, Kraken, Binance and Gemini; several of these firms gave $1M+ to Trump's campaign or inauguration fund, sponsored his military parade, or donated to the White House ballroom.",
+  "origin": "video"
+ },
+ {
+  "id": "C24",
+  "slug": "tmtg-etfs-tae-fusion",
+  "lines": "655-657",
+  "title": "TMTG ETFs, TAE fusion merger, TMTG losses",
+  "claim": "TMTG sells Truth Social-branded ETFs (American Security & Defense, American Next Frontiers, American Icons); TMTG announced a ~$6B all-stock merger with fusion company TAE Technologies, a sector dependent on regulation; TMTG stock is far down, with revenue of a few million dollars against ~$712M in losses.",
+  "origin": "video"
+ },
+ {
+  "id": "C25",
+  "slug": "prediction-markets-don-jr",
+  "lines": "659-735",
+  "title": "Prediction markets, CFTC and Don Jr.",
+  "claim": "TMTG announced 'Truth Predict', which flopped; prediction markets on sports depend on a legal theory backed by Trump's CFTC chairman Mike Selig; Don Jr. is a strategic adviser to Kalshi and on the advisory board of/an investor in Polymarket; Selig was asked in Congress whether the White House asked him to drop the CFTC probe into Polymarket; Trump posted that prediction markets are a major industry to protect; Don Jr. reportedly told Republican state attorneys general not to fight prediction markets (he says it was a passing comment).",
+  "origin": "video"
+ },
+ {
+  "id": "C26",
+  "slug": "1789-capital-vulcan",
+  "lines": "737-799",
+  "title": "1789 Capital and Vulcan Elements",
+  "claim": "Don Jr. is a partner at 1789 Capital, which has over $1B in assets and reported 200%+ returns; it invested in rare-earth magnet maker Vulcan Elements shortly before the company announced a ~$1B+ facility with US government backing; ProPublica reported the deal was the only one initiated by a top White House aide ('the call came from the White House'); 1789 says it is a passive minority investor and does not call the government.",
+  "origin": "video"
+ },
+ {
+  "id": "C27",
+  "slug": "new-america-spac",
+  "lines": "801-821",
+  "title": "New America Acquisition I Corp SPAC",
+  "claim": "New America Acquisition I Corp, a ~$300M SPAC with Don Jr. and Eric Trump as advisers who stand to make tens of millions, said in its SEC filing it would target companies positioned to benefit from federal or state incentives such as government contracts or preferential procurement; that language was removed later the same day.",
+  "origin": "video"
+ },
+ {
+  "id": "C28",
+  "slug": "foundation-robotics",
+  "lines": "827-857",
+  "title": "Foundation Future Industries robots and Eric Trump",
+  "claim": "Humanoid-robot startup Foundation Future Industries (CEO Sankaet Pathak) has a ~$24M Pentagon contract for its Phantom robot with the Marine Corps; Eric Trump is its chief strategy adviser; Wired reported the contracts predated his involvement even though Fox presented them as new.",
+  "origin": "video"
+ },
+ {
+  "id": "C29",
+  "slug": "family-wealth-disclosures",
+  "lines": "869-879",
+  "title": "Trump family wealth gains",
+  "claim": "Per financial disclosures, Trump made more from crypto than from any other business (about $1.4B, of ~$2.2B total), possibly his most profitable year ever; per Forbes, Eric Trump is ~10x richer since the election, Don Jr. ~6x richer, and Barron Trump is worth ~$150M; meanwhile most retail investors in Trump-linked ventures lost money.",
+  "origin": "video"
+ },
+ {
+  "id": "C30",
+  "slug": "framing-polls-bannon",
+  "lines": "23-99,141-175",
+  "title": "Framing: polls, supporters turning, Bannon, lawyer threat",
+  "claim": "Polls show public concern about government corruption at its highest level in 20 years; prominent former Trump supporters/campaigners now call this the most corrupt presidency in history; Steve Bannon described the 'flood the zone'/'muzzle velocity' media strategy; Coffeezilla says a lawyer threatened him before publication and that Don Jr., Eric, Melania and Donald Trump did not respond to requests for comment; the video features Molly White, Sam Kessler (WSJ) and Isaac Saul (Tangle).",
+  "origin": "video"
+ },
+ {
+  "id": "C31",
+  "slug": "gulf-real-estate-dar-global",
+  "lines": "",
+  "title": "Trump Organization Gulf real-estate deals (Dar Global)",
+  "claim": "The video briefly mentions 'a brand new hotel going up in Dubai or Abu Dhabi' and 'Middle Eastern golf deals'. Follow-up: since the 2024 election the Trump Organization has signed branded tower/hotel/golf licensing deals across the Gulf (Dubai, Saudi Arabia \u2014 Jeddah/Riyadh, Oman, Qatar, possibly others) largely via Saudi-linked developer Dar Global, despite a pledge of no new foreign deals in the first term; establish the list of deals, dates, values, fees to the Trumps, state-linked counterparties, and the ethics pledge for the second term.",
+  "origin": "follow-up",
+  "parents": [
+   "C16",
+   "C15"
+  ]
+ },
+ {
+  "id": "C32",
+  "slug": "don-jr-government-contractors",
+  "lines": "",
+  "title": "Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)",
+  "claim": "Follow-up to the 1789 Capital/Vulcan claim: Donald Trump Jr. holds advisory roles or stakes in other companies that won federal contracts or policy benefits after he joined \u2014 e.g. drone maker Unusual Machines (Army contract), and 1789 Capital portfolio companies such as Anduril, SpaceX/xAI, Firehawk, Cerebras, plus the Executive Branch private club. Establish which are documented, the timing of his involvement vs. contracts, amounts, and denials.",
+  "origin": "follow-up",
+  "parents": [
+   "C26",
+   "C27",
+   "C28"
+  ]
+ },
+ {
+  "id": "C33",
+  "slug": "settlements-ballroom-library-donors",
+  "lines": "",
+  "title": "Corporate settlements and donations to Trump's library and ballroom",
+  "claim": "Follow-up to the video's mention of crypto firms sponsoring the ballroom: companies with business before the government paid Trump personally-linked entities \u2014 lawsuit settlements from ABC/Disney ($15M), Meta ($25M), Paramount ($16M), X, YouTube/Alphabet ($24.5M) directed to his presidential library or the White House ballroom, and the list of corporate ballroom donors (incl. crypto firms Coinbase, Ripple, Tether, Gemini's Winklevoss twins) \u2014 alongside regulatory outcomes those companies obtained (e.g. Paramount\u2013Skydance FCC approval). Verify amounts, recipients, dates and any documented regulatory benefit.",
+  "origin": "follow-up",
+  "parents": [
+   "C23",
+   "C16"
+  ]
+ },
+ {
+  "id": "C34",
+  "slug": "david-sacks-conflicts",
+  "lines": "",
+  "title": "David Sacks: AI & crypto czar with investments",
+  "claim": "Follow-up to the UAE chips claim: White House AI and crypto czar David Sacks, who helped drive the UAE chip deals and crypto policy, kept financial interests in AI/crypto companies via Craft Ventures under ethics waivers; a New York Times investigation (late 2025) detailed hundreds of AI-related holdings; verify the holdings, waivers, his role in the UAE/G42 chip approvals and GENIUS Act, and his denials.",
+  "origin": "follow-up",
+  "parents": [
+   "C08",
+   "C11"
+  ]
+ },
+ {
+  "id": "C35",
+  "slug": "lutnick-cantor-tether",
+  "lines": "",
+  "title": "Howard Lutnick, Cantor Fitzgerald and Tether",
+  "claim": "Follow-up to the stablecoin/GENIUS Act and chips claims: Commerce Secretary Howard Lutnick's former firm Cantor Fitzgerald (now run by his sons) custodies Tether's reserves and held a stake in Tether, while the administration passed stablecoin legislation and Commerce controls AI-chip export licences; Cantor also launched crypto/bitcoin SPAC vehicles (e.g. Twenty One Capital with Tether and SoftBank). Verify stakes, timelines, divestment, and any documented policy benefit.",
+  "origin": "follow-up",
+  "parents": [
+   "C11",
+   "C08",
+   "C19"
+  ]
+ },
+ {
+  "id": "C36",
+  "slug": "crypto-pardons-and-clemency",
+  "lines": "",
+  "title": "Clemency for other crypto and donor-linked figures",
+  "claim": "Follow-up to the CZ pardon: Trump also granted clemency to other crypto or donor-linked figures \u2014 Ross Ulbricht (Silk Road), the BitMEX co-founders (Arthur Hayes et al.) and BitMEX itself, Nikola founder Trevor Milton (a donor), Roger Ver settlement/deferred prosecution, and reportedly others; plus the DOJ disbanding its crypto enforcement unit (NCET). Verify each, the dates, any donations or lobbying payments linked to them (e.g. lobbyists paid for the CZ pardon), and official justifications.",
+  "origin": "follow-up",
+  "parents": [
+   "C09",
+   "C23"
+  ]
+ }
 ]
