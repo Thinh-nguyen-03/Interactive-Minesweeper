@@ -1,0 +1,1775 @@
+{
+  "id": "C92",
+  "title": "The ballroom donor list in full: who gave, what they had pending",
+  "verdict": "partly-accurate",
+  "confidence": "medium",
+  "summary": "The October 2025 roster of about 37 donors is documented. The amounts come from a single leaked spreadsheet relayed by the Washington Post (67 donations, about $333M, at least $77M anonymous), which Reuters did not verify. Many donors had a significant federal matter within six months of the list date. The tightest documented pairings are Rocket (FHFA approval three weeks before a $10M pledge), Herrera ($2.5M four months before her father's pardon), Ergen (FCC probe closed before, spectrum approval after), the Winklevoss twins (CFTC nominee withdrawn three weeks before the list) and Paxos (OCC charter 50 days after). Every link from gift to decision is inferred. Gift dates are mostly unknown, and the counter-cases (Booz Allen, Comcast, Union Pacific, Meta, Google, Amazon) and batch or generic decisions cut against a systematic pay-for-favour reading.",
+  "sub_claims": [
+    {
+      "statement": "The two lists: the White House's October 2025 roster (about 37 names, no amounts) and the Washington Post's leaked spreadsheet (October 2026: 67 donations above $10,000, about $333M).",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented for the October 2025 list (White House release relayed by AP, CNBC, Fortune, Spectrum/NBC). The White House named donors on 2025-10-23, after a 2025-10-15 East Room dinner, gave no amounts and said the list was incomplete. Outlets count 36 or 37 names (21 corporations plus 15-16 individuals or family foundations). Single-source for the spreadsheet: the Post published it on 2026-10-15, and other outlets relay it. It records 67 donations above $10,000 totalling about $333M as of late September 2026, at least $77M of it from donors who asked for anonymity. It excludes in-kind gifts and does not list Trump. Reuters said it had not verified the document. The White House called the conflict concerns 'fake' and vowed to find the leaker. The Post itself says its reporting does not show that any donation led to a government action.",
+      "sources": [
+        "https://www.cnbc.com/2025/10/23/trump-white-house-east-wing-ballroom-donors-apple-amazon-meta-microsoft-google.html",
+        "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/",
+        "https://spectrumlocalnews.com/us/snplus/politics/2025/10/24/white-house-donald-trump-east-wing-ballroom-donors-list",
+        "https://www.kptv.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/",
+        "https://mediaite.com/media/news/report-reveals-top-donors-to-trumps-ballroom-as-wh-vows-to-relentlessly-pursue-cowardly-leakers",
+        "https://www.ibtimes.co.uk/apple-nvidia-trump-white-house-ballroom-donations-1826051",
+        "https://politicalwire.com/2026/10/15/secret-documents-reveal-donors-behind-trumps-ballroom/",
+        "https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/"
+      ]
+    },
+    {
+      "statement": "Top tier ($25M each): Apple, Nvidia, the Adelson Family Foundation and Charles Ergen.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: single-source (WaPo spreadsheet, relayed by MacRumors, 9to5Mac, the Boston Globe, Casino.org and TNW). Apple and Nvidia are each at $25M, and Nvidia asked to stay anonymous; it was absent from the 2025 list. The Adelson Family Foundation (Miriam Adelson) is at $25M. Ergen's $25M came as $12.5M in December 2025, anonymous at his request, and $12.5M in February 2026. One early summary refers to an unidentified 'third $25M donor' and an unidentified $12.5M donor, which conflicts with the four $25M names other outlets report. We could not resolve this without the Post's article. Gift dates are public only for Ergen (Dec 2025 and Feb 2026) and Nvidia (Oct 2025, per the Post).",
+      "sources": [
+        "https://macrumors.com/2026/10/15/apple-25-million-white-house-ballroom/",
+        "https://9to5mac.com/2026/10/15/wapo-apple-revealed-as-one-of-the-top-donors-to-trumps-white-house-ballroom/",
+        "https://www.bostonglobe.com/2026/10/16/business/adelson-trump-ballroom-donor/",
+        "https://casino.org/news/casino-billionaire-among-largest-donors-white-house-ballroom",
+        "https://www.billionaires.africa/2026/10/16/american-billionaire-charles-ergen-adelsons-each-gave-25-million-for-trumps-ballroom/",
+        "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
+        "https://www.implicator.ai/nvidia-and-apple-each-committed-25-million-to-trumps-ballroom-leaked-list-shows/",
+        "https://www.ibtimes.co.uk/apple-nvidia-trump-white-house-ballroom-donations-1826051"
+      ]
+    },
+    {
+      "statement": "Apple ($25M): the Aug 2025 chip-tariff exemption and the DOJ antitrust case.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented matters; any link is inferred. On 2025-08-06 Trump announced a roughly 100% tariff on imported chips, exempting companies that build in the US, and named Apple as exempt. That came after Apple raised its US investment pledge to $600B, a figure analysts said includes ordinary spending. The DOJ's 2024 iPhone monopoly suit survived Apple's motion to dismiss in June 2025. Bloomberg reported early settlement talks in July 2026, with Apple making several offers; no settlement has been announced. Timing: Apple's gift date is not public. Apple was on the 23 Oct 2025 list, about 11 weeks after the exemption, which is within six months, but we cannot tell whether the gift came before or after it. What cuts against a favour reading: the exemption was a general rule tied to an investment pledge, and other investors got it too. No source links it to the ballroom.",
+      "sources": [
+        "https://www.bangordailynews.com/2025/08/06/nation/trump-plans-100-tariff-on-computer-chips-unless-companies-build-in-u-s/",
+        "https://www.nbcnews.com/business/business-news/tim-cook-convinced-trump-drop-made-usa-iphone-now-rcna223961",
+        "https://news.bloomberglaw.com/antitrust/apple-in-early-settlement-talks-with-doj-over-antitrust-case",
+        "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+        "https://macrumors.com/2026/10/15/apple-25-million-white-house-ballroom/"
+      ]
+    },
+    {
+      "statement": "Charles Ergen/EchoStar ($25M): the FCC closed its EchoStar probe on 2025-09-08, three months before his first anonymous $12.5M. It approved the $40B AT&T and SpaceX spectrum sales on 2026-05-12, about three months after his second $12.5M.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented FCC actions (Satellite Today, Fierce, Advanced Television); gift dates single-source (WaPo); the link is inferred. Carr's 8 Sep 2025 letter told staff to wrap up the 5G buildout probe hours after EchoStar agreed to sell spectrum to SpaceX for about $17B, a couple of weeks after a roughly $23B sale to AT&T. Both later actions fall within six months of a tranche. Cuts against: the probe closed before any gift, so the sequence fits gratitude at most, not an exchange, and that too is unsourced. The May 2026 approval imposed a $2.4B escrow condition that EchoStar protested (C69). Ergen's anonymity request for the first tranche is documented in the leak. This extends C69, which dated only the 2026 order.",
+      "sources": [
+        "https://www.satellitetoday.com/connectivity/2025/09/09/fcc-closes-investigation-of-echostar-after-spectrum-sales/",
+        "https://www.fierce-network.com/wireless/fcc-ends-investigation-echostars-5g-build-spectrum-use",
+        "https://www.advanced-television.com/2026/05/13/fcc-approves-echostars-spectrum-sale-to-spacex-att/",
+        "https://www.billionaires.africa/2026/10/16/american-billionaire-charles-ergen-adelsons-each-gave-25-million-for-trumps-ballroom/",
+        "https://www.bostonglobe.com/2026/10/16/business/adelson-trump-ballroom-donor/"
+      ]
+    },
+    {
+      "statement": "Rocket Companies (a subsidiary, $10M): the pledge came about three weeks after the FHFA approved Rocket's $9.4B Mr. Cooper takeover (2025-08-26). Rocket was not on the public list.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented approval (HousingWire, MPA); single-source gift and timing (the Post, relayed by IBTimes and Alternet). This is the one pairing the Post itself sets out, and it says the record does not show causation. The FHFA, led by Bill Pulte, cleared the deal with 20% concentration caps at Fannie and Freddie, which cuts slightly against a pure favour reading. An earlier layer is just outside six months: the CFPB dismissed its kickback suit against Rocket Homes with prejudice on 2025-02-27, about 6.5 months before the gift. The gift is among the roughly 30 donations kept off the October 2025 list.",
+      "sources": [
+        "https://www.housingwire.com/articles/fhfa-clears-rockets-9-4b-acquisition-of-mr-cooper-with-safeguards/",
+        "https://www.mpamag.com/us/mortgage-industry/business-growth/fhfa-approves-rockets-94bn-mr-cooper-deal-with-market-share-cap/547704",
+        "https://www.ibtimes.co.uk/apple-nvidia-trump-white-house-ballroom-donations-1826051",
+        "https://alternet.org/trump-ballroom-donors",
+        "https://www.americanbanker.com/news/cfpb-tosses-suits-against-rocket-vanderbilt-jason-mitchell",
+        "https://therealdeal.com/national/2025/02/28/rocket-homes-spared-from-cfpb-enforcement"
+      ]
+    },
+    {
+      "statement": "Isabela Herrera ($2.5M, Sep 2025): her father, banker Julio Herrera Velutini, was pardoned on 2026-01-15, about four months later.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented pardon (Bloomberg Law, DOJ filing reported by NOTUS); single-source gift (WaPo via secondary outlets); the link is inferred. Separately, she gave MAGA Inc. about $3.5M, and her company hired Alina Habba on a reported deal worth more than $50M over four years. Habba says she had no role in the pardon. A White House official denied that the donations played any part. The pardon also covered ex-governor Wanda Vazquez and Mark Rossini, and the case had already been cut to a misdemeanour plea in August 2025. The Post does not establish a link. Former pardon attorney Liz Oyer called the ballroom a 'money laundering operation', which is opinion.",
+      "sources": [
+        "https://news.bloomberglaw.com/business-and-practice/trump-to-pardon-venezuelan-banker-ex-puerto-rico-governor-82",
+        "https://www.notus.org/courts/wanda-vazquez-garced-puerto-rico-pardon",
+        "https://www.riotimesonline.com/trump-pardon-puerto-rico-banker-scrutiny/",
+        "https://www.lawcommentary.com/articles/trump-pardon-alina-habba-50-million-deal",
+        "https://www.ibtimes.co.uk/apple-nvidia-trump-white-house-ballroom-donations-1826051",
+        "https://dnyuz.com/2026/10/15/white-house-money-laundering-operation-exposed-by-ex-doj-pardon-attorney-shady/"
+      ]
+    },
+    {
+      "statement": "The Loeffler-Sprecher fund ($5M): a sitting cabinet official's household gave. Her husband's ICE invested up to $2B in Polymarket on 2025-10-07, a company in which Donald Trump Jr. and 1789 Capital have stakes.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: single-source gift (WaPo, relayed by the Daily Beast and Engadget); the ICE-Polymarket deal is documented (AJC, Blockworks), as are Don Jr.'s stake and adviser role (C25). The chain from the ballroom gift to Polymarket to the Trump family is inferred: no outlet we found links them. Kelly Loeffler heads the SBA, and Jeff Sprecher chairs Intercontinental Exchange, the NYSE's owner. DOJ and the CFTC closed their Polymarket probes on 2025-07-15, before both the ICE deal and the October list, so this was not relief bought with the gift. The gift date is not public.",
+      "sources": [
+        "https://www.thedailybeast.com/trumps-suck-up-ballroom-donors-are-finally-unmasked",
+        "https://engadget.com/2287913/trump-ballrooms-biggest-donors-were-overwelmingly-tech-and-telecom-companies/",
+        "https://www.ajc.com/business/2025/10/atlanta-based-parent-of-nyse-investing-up-to-2b-in-prediction-market",
+        "https://blockworks.co/news/intercontinental-exchange-polymarket",
+        "https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703",
+        "https://www.theblock.co/post/368292/donald-trump-jr-invests-in-polymarket-and-joins-advisory-board"
+      ]
+    },
+    {
+      "statement": "The Winklevoss twins (listed separately in Oct 2025): the White House withdrew Brian Quintenz's CFTC nomination on 2025-09-30, about three weeks before the list, after the twins lobbied against him.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented withdrawal and lobbying (Decrypt, NOTUS, Bloomberg Government). Quintenz released Tyler Winklevoss's texts arguing that the CFTC had treated Gemini unfairly; Gemini calls the account false. The White House gave no reason, and reports also cite Senate holds and Quintenz's Kalshi ties. Amounts: we found no figure from the leak for the twins. A crypto outlet's '$5.1M from the Winklevoss twins' appears to be a political-giving tally, not a ballroom gift, and is unverified. Linking the withdrawal to the ballroom gift is our own inference. C52 covers the texts; what is new here is the dating against the list.",
+      "sources": [
+        "https://decrypt.co/342460/white-house-pulls-quintenz-cftc-chair-nomination-after-clash-with-winklevoss-twins",
+        "https://www.notus.org/trump-white-house/brian-quintenz-white-house-cftc-nominee-winklevoss-twins",
+        "https://news.bgov.com/litigation/white-house-pulling-quintenz-nomination-for-cftc-chair",
+        "https://www.theblock.co/news/markets/2025-10-24-crypto-donors-trump-white-house-ballroom-376062",
+        "https://crypto.news/ripple-tether-coinbase-donors-trump-ballroom-2025/"
+      ]
+    },
+    {
+      "statement": "Charles and Marissa Cascarilla (Paxos CEO), listed in Oct 2025: the OCC approved Paxos's national trust charter conversion on 2025-12-12, 50 days after the list.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented approval (Paxos release, Blockworks); listing documented (2025 roster as relayed by Spectrum/NBC); the link is inferred. Paxos filed in August 2025. The same-day batch included Ripple, another donor, as well as Circle, BitGo and Fidelity Digital Assets, which are not on the list (C69). The batch is an innocent explanation, and the gift date is unknown. Previous reports noted Ripple's charter but not that Paxos's CEO was also a named donor.",
+      "sources": [
+        "https://paxos.com/newsroom/occ-approves-paxos-application-to-convert-to-occ-trust-paxos-to-complete-conversion-imminently-to-become-a-federally-regulated-blockchain-infrastructure-provider",
+        "https://blockworks.co/news/paxos-gets-occ-approval-for-a-bank-charter",
+        "https://spectrumlocalnews.com/us/snplus/politics/2025/10/24/white-house-donald-trump-east-wing-ballroom-donors-list",
+        "https://www.nbcmiami.com/news/national-international/donors-donald-trump-white-house-ballroom/3710940/"
+      ]
+    },
+    {
+      "statement": "Tether America (Oct 2025 list): it hired former White House crypto council director Bo Hines in Sept 2025 and launched USAT on 2026-01-27 through federally chartered Anchorage, with Lutnick's former firm Cantor as reserve custodian.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented (The Block). No federal approval to Tether itself was found. USAT is issued by Anchorage Digital Bank under the GENIUS Act framework (C11). The Cantor and Lutnick links are in C35 and C50, and Tether is a Miller Strategies client (C64). No amount was found in the leak coverage we could reach. This is a revolving-door and structural link, not a dated favour.",
+      "sources": [
+        "https://www.theblock.co/amp/post/387210/tether-officially-launches-made-in-america-usat-stablecoin-as-mass-tradfi-adoption-looms",
+        "https://www.theblock.co/post/370472",
+        "https://www.theblock.co/news/markets/2025-10-24-crypto-donors-trump-white-house-ballroom-376062"
+      ]
+    },
+    {
+      "statement": "T-Mobile ($5M): the FCC approved its $4.4B UScellular deal and its Metronet JV in July 2025, after T-Mobile told Chair Carr it was ending DEI programmes.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented approval and DEI letter (Insurance Journal/Reuters, PhoneArena); single-source amount (WaPo, as relayed in leak coverage; we could not confirm which outlet first reported the T-Mobile figure); the link is inferred. The approval came about three months before the list. Commissioner Gomez called the DEI move a 'cynical bid to win FCC regulatory approval'. The FCC did not tie its decision to DEI. DOJ had already cleared the deal.",
+      "sources": [
+        "https://amp.insurancejournal.com/news/national/2025/07/11/831322.htm",
+        "https://www.phonearena.com/news/fcc-approves-t-mobile-uscellular-deal_id172253",
+        "https://engadget.com/2287913/trump-ballrooms-biggest-donors-were-overwelmingly-tech-and-telecom-companies/",
+        "https://www.ibtimes.co.uk/apple-nvidia-trump-white-house-ballroom-donations-1826051"
+      ]
+    },
+    {
+      "statement": "Micron (Oct 2025 list): Commerce renegotiated its $6.1B CHIPS award and added $275M on 2025-06-12, alongside a $200B investment pledge.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented (Commerce release, MeriTalk); the link is inferred. The award came about four months before the list. Cuts against: it was a renegotiation Trump ordered for all Biden-era CHIPS deals, and it came with a larger company commitment. No amount was found.",
+      "sources": [
+        "https://www.commerce.gov/node/7176",
+        "https://www.meritalk.com/articles/commerce-awarding-micron-tech-275m-of-chips-funding/"
+      ]
+    },
+    {
+      "statement": "Altria and Reynolds American (Oct 2025 list): the White House withdrew the menthol ban on 2025-01-21, and the FDA authorized Altria's on! PLUS pouches in late Dec 2025.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented (Reuters, C-Store Dive); the link is inferred. The menthol withdrawal is about nine months before the list, outside the window, and predates the ballroom announcement. The on! PLUS authorization (about two months after the list) was the first decision under an FDA pilot programme. Public Citizen's table shows no pending federal enforcement against Altria. No amounts were found.",
+      "sources": [
+        "https://www.streetinsider.com/Reuters/Trump+administration+withdraws+FDA+plan+to+ban+menthol+cigarettes/24245108.html",
+        "https://www.cstoredive.com/news/fda-authorizes-on-plus-nicotine-pouches/808515/",
+        "https://www.citizen.org/article/banquet-of-greed-trump-ballroom-donors-feast-on-federal-funds-and-favors/"
+      ]
+    },
+    {
+      "statement": "Counter-cases: donors that received adverse federal action within six months (Booz Allen, Comcast, Union Pacific, Meta, Google, Amazon, AT&T).",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented. Booz Allen: Treasury cancelled all 31 of its contracts (about $21M) on 2026-01-26 over the Littlejohn tax leak, and AP framed it as retribution 'despite' the ballroom gift. Comcast: FCC DEI probe (Feb 2025), then an affiliate probe in July 2025 days after a Trump post. Union Pacific: the STB rejected its Norfolk Southern merger filing as incomplete on 2026-01-16, then accepted a refiling on 2026-05-28. Meta: lost the FTC case only in court (2025-11-18), and the FTC appealed (C33). Google: DOJ cross-appealed for a Chrome divestiture (Feb 2026); its $22M is a settlement, not a gift (C33). Amazon: $2.5B FTC penalty on 2025-09-25 (C69). AT&T: listed at $5M 'pledged', which AT&T denies; it was a buyer in the FCC-approved EchoStar deal. These cut against a simple pay-for-favour reading of the whole list.",
+      "sources": [
+        "https://fortune.com/2026/01/26/trump-booz-allen-leaked-tax-returns-treasury-cuts-ties/",
+        "https://fedscoop.com/treasury-cancels-booz-allen-hamilton-contracts/",
+        "https://www.inquirer.com/business/comcast/comcast-nbc-universal-federal-dei-investigation-20250213.html",
+        "https://communicationsdaily.com/article/2025/07/31/carr-probes-comcast-on-affiliate-relationships-2507300049",
+        "https://www.railwayage.com/regulatory/stb-rejects-up-ns-merger-application-as-incomplete/",
+        "https://railmarket.com/news/business/57579-us-surface-transportation-board-accepts-union-pacific-norfolk-southern-merger-application",
+        "https://news.bloomberglaw.com/ip-law/meta-wins-ftc-antitrust-trial-over-instagram-whatsapp-deals",
+        "https://www.washingtontimes.com/news/2026/jan/21/ftc-says-appeal-meta-antitrust-ruling/",
+        "https://www.mediapost.com/publications/article/416888/google-search-remedies-too-weak-feds-tell-appeals.html",
+        "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom",
+        "https://engadget.com/2287913/trump-ballrooms-biggest-donors-were-overwelmingly-tech-and-telecom-companies/"
+      ]
+    },
+    {
+      "statement": "Donors who were already appointees: Ambassadors Joseph Popolo Jr. ($1M, Netherlands) and Benjamin Leon Jr. (listed, Spain), and SBA Administrator Loeffler.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented appointments (Local10, Florida Politics, NL Times, DutchNews); Popolo's amount single-source (WaPo). Timing cuts against an appointment-for-gift reading: both ambassadors were named in early January 2025, months before the ballroom was announced in mid-2025. The Post says it does not suggest Popolo got his post because of the gift. Separately, Konstantin Sokolov, a listed donor, was named in July 2026 to chair the State Department's $201M Tripp+ fund (C70). That is about nine months after the list, outside six months of the list date, but his gift date is unknown.",
+      "sources": [
+        "https://nltimes.nl/2026/10/16/us-ambassador-netherlands-donated-1-million-trumps-white-house-ballroom",
+        "https://www.dutchnews.nl/2026/10/us-ambassador-to-the-nl-gave-1m-to-trump-ballroom/",
+        "https://local10.com/news/local/2025/01/03/trump-to-nominate-leon-medical-centers-founder-as-ambassador-to-spain",
+        "https://floridapolitics.com/archives/713823-donald-trump-taps-miami-medical-magnate-benjamin-leon-jr-as-ambassador-to-spain"
+      ]
+    },
+    {
+      "statement": "Brandon Lutnick ($2.5M) and the Lutnick Family listing.",
+      "verdict": "unverified",
+      "finding": "Evidence grade: single-source and weak. One search-result summary of the leak coverage gives Brandon Lutnick $2.5M, and a second search could not confirm it. 'The Lutnick Family' is on the 2025 list (documented). His father, Commerce Secretary Howard Lutnick, oversees export licences, CHIPS awards and tariff exemptions that bear on other donors on this list (Apple, Micron, Nvidia). The Lutnick sons now run Cantor (C35). This is a structural conflict and no specific matter is dated.",
+      "sources": [
+        "https://pro.edgex.exchange/en-US/news/article/trump-white-house-ballroom-donor-list-leaked",
+        "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/"
+      ]
+    },
+    {
+      "statement": "Already in C68/C69, not repeated here: Nvidia (Oct 2025 gift; UAE/Saudi licences 2025-11-19; H200 China 2025-12-08), Microsoft ($10M; UAE licences Sep 2025), Palantir ($10M; Navy ShipOS 2025-12-09), Lockheed ($10M; F-35 Lot 18-19 2025-09-29), Ripple (charter 2025-12-12).",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: amounts single-source (WaPo); acts documented; links inferred. See C68 and C69 for findings and innocent explanations (the Lockheed deal was agreed in Nov 2024; the charters came in a batch).",
+      "sources": [
+        "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
+        "https://axios.com/2025/12/09/trump-nvidia-ai-h200-china",
+        "https://www.cnbc.com/2025/11/03/nvidia-shares-rise-after-us-approves-chip-sales-to-the-uae.html",
+        "https://www.theregister.com/2025/12/10/palantir_navy_448_million_contract/",
+        "https://www.defensenews.com/air/2025/09/30/pentagon-awards-contract-for-newest-f-35s/",
+        "https://thehill.com/homenews/administration/6152301-white-house-ballroom-private-donations/amp/"
+      ]
+    },
+    {
+      "statement": "Advocacy-group aggregates: Public Citizen counts most corporate donors as federal contractors or as facing enforcement.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: single-source (advocacy). Nov 2025: 14 of 24 corporate donors faced federal enforcement or had it suspended, and the donors held $279B in contracts over five years. June 2026: 14 of 27 got new or increased contracts, about $50B in six months. We did not reconcile these figures with USASpending. Reuters (Apr 2026) reports the Trust for the National Mall contract lets donors stay anonymous and has limited conflict safeguards.",
+      "sources": [
+        "https://www.citizen.org/article/banquet-of-greed-trump-ballroom-donors-feast-on-federal-funds-and-favors/",
+        "https://www.citizen.org/wp-content/uploads/BALLROOM_BILLIONS_June_2026.pdf",
+        "https://www.adn.com/nation-world/2026/06/04/ballroom-donors-won-50b-in-contracts-after-giving-to-trump-project-watchdog-group-finds/",
+        "https://www.khaleejtimes.com/world/americas/trump-ballroom-deal-shields-donor-identities-limits-conflict-safeguards"
+      ]
+    }
+  ],
+  "corrections": [
+    "The brief's 'Ergen $25M' is right but was given in two $12.5M tranches (Dec 2025, anonymous; Feb 2026), per the Post.",
+    "Google's $22M is the YouTube settlement routed to the ballroom (C33), not a voluntary gift.",
+    "AT&T's $5M is marked 'pledged' in the spreadsheet, and AT&T denies giving or planning to give.",
+    "The leaked figures were current as of late September 2026 and exclude in-kind gifts (e.g. Carrier's offered HVAC system). Reuters did not verify the document.",
+    "The 2026-10-15 date on leaked amounts is the publication date, not the gift date. Only Nvidia (Oct 2025), Ergen (Dec 2025 and Feb 2026), Herrera (Sep 2025) and Rocket (about mid-Sep 2025) have gift timing in the coverage we found.",
+    "Crypto donors' amounts (Coinbase, Ripple, Tether, Winklevoss) were not found in the leak coverage we could reach. A '$5M each' figure in crypto media appears to describe political spending and is unverified as ballroom giving."
+  ],
+  "denials_and_context": [
+    "The White House called the leak-based conflict claims 'fake' and said it would pursue the leaker. A White House official denied that the Herrera donations played any role in the pardon.",
+    "The Washington Post says its reporting does not show that any donation led to a government action, and does not suggest Popolo's ambassadorship resulted from his gift.",
+    "Nvidia says its support was independent of business interests (C68). AT&T denies giving. Habba denies any role in the Herrera pardon. Gemini disputes Quintenz's account of the texts.",
+    "Gift dates are mostly unknown: only the 2025-10-23 list date and the 2026-10-15 leak date are public for most donors, so most six-month windows are measured from the list date, and a gift could sit on either side of an official act.",
+    "Several official acts were general rules or batch decisions (the chip-tariff exemption for US investors, the five-charter OCC batch, Trump's order to renegotiate all CHIPS awards), and several donors received adverse treatment (Booz Allen, Comcast, Union Pacific, Meta, Google, Amazon)."
+  ],
+  "sources": [
+    {
+      "title": "Report reveals top donors to Trump's ballroom as WH vows to pursue leakers",
+      "publisher": "Mediaite",
+      "url": "https://mediaite.com/media/news/report-reveals-top-donors-to-trumps-ballroom-as-wh-vows-to-relentlessly-pursue-cowardly-leakers",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Leaked list reveals Apple, Nvidia and other corporate giants' $333M pledge",
+      "publisher": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/apple-nvidia-trump-white-house-ballroom-donations-1826051",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Trump's $333M ballroom donor list exposed",
+      "publisher": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/trump-white-house-ballroom-funding-donations-1826126",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Trump's $333 million ballroom donor list leaks",
+      "publisher": "Alternet",
+      "url": "https://alternet.org/trump-ballroom-donors",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Leaked records reveal donors behind Trump's $333M ballroom",
+      "publisher": "EdgeX News",
+      "url": "https://pro.edgex.exchange/en-US/news/article/trump-white-house-ballroom-donor-list-leaked",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Secret documents reveal donors behind Trump's ballroom",
+      "publisher": "Political Wire",
+      "url": "https://politicalwire.com/2026/10/15/secret-documents-reveal-donors-behind-trumps-ballroom/",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Trump's suck-up ballroom donors are finally unmasked",
+      "publisher": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/trumps-suck-up-ballroom-donors-are-finally-unmasked",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Trump ballroom's biggest donors were overwhelmingly tech and telecom companies",
+      "publisher": "Engadget",
+      "url": "https://engadget.com/2287913/trump-ballrooms-biggest-donors-were-overwelmingly-tech-and-telecom-companies/",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Nvidia, Cisco, Apple among multi-million dollar donors",
+      "publisher": "SDxCentral",
+      "url": "https://www.sdxcentral.com/news/nvidia-cisco-apple-among-multi-million-dollar-donors-to-trumps-ballroom-project-report/",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Tech companies have donated millions to Trump's ballroom while the president gave $0",
+      "publisher": "Gizmodo",
+      "url": "https://gizmodo.com/tech-companies-have-donated-millions-to-trumps-ballroom-while-the-president-gave-0-report-2000826461",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Adelson a top Trump ballroom donor",
+      "publisher": "Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/10/16/business/adelson-trump-ballroom-donor/",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Casino billionaire among largest donors to the ballroom",
+      "publisher": "Casino.org",
+      "url": "https://casino.org/news/casino-billionaire-among-largest-donors-white-house-ballroom",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Charles Ergen, Adelsons each gave $25 million",
+      "publisher": "Billionaires.Africa",
+      "url": "https://www.billionaires.africa/2026/10/16/american-billionaire-charles-ergen-adelsons-each-gave-25-million-for-trumps-ballroom/",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "US ambassador to the Netherlands donated $1 million",
+      "publisher": "NL Times",
+      "url": "https://nltimes.nl/2026/10/16/us-ambassador-netherlands-donated-1-million-trumps-white-house-ballroom",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "US ambassador to the NL gave $1m to Trump ballroom",
+      "publisher": "DutchNews",
+      "url": "https://www.dutchnews.nl/2026/10/us-ambassador-to-the-nl-gave-1m-to-trump-ballroom/",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Apple pledged $25 million to Trump's White House ballroom",
+      "publisher": "MacRumors",
+      "url": "https://macrumors.com/2026/10/15/apple-25-million-white-house-ballroom/",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "WaPo: Apple revealed as one of the top donors",
+      "publisher": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/15/wapo-apple-revealed-as-one-of-the-top-donors-to-trumps-white-house-ballroom/",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Nvidia and Apple $25M to the ballroom",
+      "publisher": "The Next Web",
+      "url": "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Nvidia and Apple each committed $25 million, leaked list shows",
+      "publisher": "Implicator.ai",
+      "url": "https://www.implicator.ai/nvidia-and-apple-each-committed-25-million-to-trumps-ballroom-leaked-list-shows/",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Nvidia, Apple each gave US$25m for Trump's ballroom (Reuters)",
+      "publisher": "Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "WaPo ballroom amounts",
+      "publisher": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6152301-white-house-ballroom-private-donations/amp/",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "37 White House ballroom donors funding $300 million build",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/",
+      "date": "2025-10-26"
+    },
+    {
+      "title": "White House ballroom donors list",
+      "publisher": "Spectrum News",
+      "url": "https://spectrumlocalnews.com/us/snplus/politics/2025/10/24/white-house-donald-trump-east-wing-ballroom-donors-list",
+      "date": "2025-10-24"
+    },
+    {
+      "title": "Donors to Trump's White House ballroom",
+      "publisher": "NBC Miami",
+      "url": "https://www.nbcmiami.com/news/national-international/donors-donald-trump-white-house-ballroom/3710940/",
+      "date": "2025-10-23"
+    },
+    {
+      "title": "These are the 37 donors helping pay for Trump's ballroom (AP)",
+      "publisher": "KPTV",
+      "url": "https://www.kptv.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/",
+      "date": "2025-11-13"
+    },
+    {
+      "title": "Ballroom donors: Apple, Amazon, Meta, Microsoft, Google",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2025/10/23/trump-white-house-east-wing-ballroom-donors-apple-amazon-meta-microsoft-google.html",
+      "date": "2025-10-23"
+    },
+    {
+      "title": "Coinbase, Ripple among crypto titans donating to the ballroom",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/markets/2025-10-24-crypto-donors-trump-white-house-ballroom-376062",
+      "date": "2025-10-24"
+    },
+    {
+      "title": "Ripple, Tether, Coinbase among donors to Trump ballroom",
+      "publisher": "crypto.news",
+      "url": "https://crypto.news/ripple-tether-coinbase-donors-trump-ballroom-2025/",
+      "date": "2025-10"
+    },
+    {
+      "title": "Banquet of Greed: Trump ballroom donors feast on federal funds and favors",
+      "publisher": "Public Citizen",
+      "url": "https://www.citizen.org/article/banquet-of-greed-trump-ballroom-donors-feast-on-federal-funds-and-favors/",
+      "date": "2025-11"
+    },
+    {
+      "title": "Ballroom Billions",
+      "publisher": "Public Citizen",
+      "url": "https://www.citizen.org/wp-content/uploads/BALLROOM_BILLIONS_June_2026.pdf",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "Ballroom donors won $50B in contracts, watchdog finds",
+      "publisher": "Anchorage Daily News (WaPo)",
+      "url": "https://www.adn.com/nation-world/2026/06/04/ballroom-donors-won-50b-in-contracts-after-giving-to-trump-project-watchdog-group-finds/",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "Trump ballroom deal shields donor identities (Reuters)",
+      "publisher": "Khaleej Times",
+      "url": "https://www.khaleejtimes.com/world/americas/trump-ballroom-deal-shields-donor-identities-limits-conflict-safeguards",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "FHFA clears Rocket's $9.4B acquisition of Mr. Cooper with safeguards",
+      "publisher": "HousingWire",
+      "url": "https://www.housingwire.com/articles/fhfa-clears-rockets-9-4b-acquisition-of-mr-cooper-with-safeguards/",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "FHFA approves Rocket's $9.4bn Mr. Cooper deal with market share cap",
+      "publisher": "MPA",
+      "url": "https://www.mpamag.com/us/mortgage-industry/business-growth/fhfa-approves-rockets-94bn-mr-cooper-deal-with-market-share-cap/547704",
+      "date": "2025-08"
+    },
+    {
+      "title": "CFPB dismisses Rocket, Vanderbilt Mortgage lawsuits",
+      "publisher": "American Banker",
+      "url": "https://www.americanbanker.com/news/cfpb-tosses-suits-against-rocket-vanderbilt-jason-mitchell",
+      "date": "2025-02-27"
+    },
+    {
+      "title": "Rocket Homes spared from CFPB enforcement",
+      "publisher": "The Real Deal",
+      "url": "https://therealdeal.com/national/2025/02/28/rocket-homes-spared-from-cfpb-enforcement",
+      "date": "2025-02-28"
+    },
+    {
+      "title": "Trump pardons Venezuelan banker, ex-Puerto Rico governor",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/business-and-practice/trump-to-pardon-venezuelan-banker-ex-puerto-rico-governor-82",
+      "date": "2026-01-15"
+    },
+    {
+      "title": "Wanda Vazquez Garced Puerto Rico pardon",
+      "publisher": "NOTUS",
+      "url": "https://www.notus.org/courts/wanda-vazquez-garced-puerto-rico-pardon",
+      "date": "2026-01"
+    },
+    {
+      "title": "Trump pardon of Puerto Rico banker under scrutiny",
+      "publisher": "Rio Times",
+      "url": "https://www.riotimesonline.com/trump-pardon-puerto-rico-banker-scrutiny/",
+      "date": "2026"
+    },
+    {
+      "title": "Trump pardon, Alina Habba $50 million deal",
+      "publisher": "Law Commentary",
+      "url": "https://www.lawcommentary.com/articles/trump-pardon-alina-habba-50-million-deal",
+      "date": "2026"
+    },
+    {
+      "title": "Ex-DOJ pardon attorney on ballroom",
+      "publisher": "DNyuz (syndication)",
+      "url": "https://dnyuz.com/2026/10/15/white-house-money-laundering-operation-exposed-by-ex-doj-pardon-attorney-shady/",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "OCC approves Paxos application to convert to OCC trust",
+      "publisher": "Paxos",
+      "url": "https://paxos.com/newsroom/occ-approves-paxos-application-to-convert-to-occ-trust-paxos-to-complete-conversion-imminently-to-become-a-federally-regulated-blockchain-infrastructure-provider",
+      "date": "2025-12-12"
+    },
+    {
+      "title": "Paxos gets OCC approval for a bank charter",
+      "publisher": "Blockworks",
+      "url": "https://blockworks.co/news/paxos-gets-occ-approval-for-a-bank-charter",
+      "date": "2025-12"
+    },
+    {
+      "title": "Atlanta-based parent of NYSE investing up to $2B in prediction market",
+      "publisher": "Atlanta Journal-Constitution",
+      "url": "https://www.ajc.com/business/2025/10/atlanta-based-parent-of-nyse-investing-up-to-2b-in-prediction-market",
+      "date": "2025-10-07"
+    },
+    {
+      "title": "Intercontinental Exchange takes $2B stake in Polymarket",
+      "publisher": "Blockworks",
+      "url": "https://blockworks.co/news/intercontinental-exchange-polymarket",
+      "date": "2025-10-07"
+    },
+    {
+      "title": "US Justice Department and CFTC close probes into Polymarket (Bloomberg)",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703",
+      "date": "2025-07-15"
+    },
+    {
+      "title": "Donald Trump Jr. invests in Polymarket and joins advisory board",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/368292/donald-trump-jr-invests-in-polymarket-and-joins-advisory-board",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "How Tim Cook convinced Trump to drop made-in-USA iPhone",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/business/business-news/tim-cook-convinced-trump-drop-made-usa-iphone-now-rcna223961",
+      "date": "2025-08-07"
+    },
+    {
+      "title": "Trump plans 100% tariff on computer chips unless companies build in US (AP)",
+      "publisher": "Bangor Daily News",
+      "url": "https://www.bangordailynews.com/2025/08/06/nation/trump-plans-100-tariff-on-computer-chips-unless-companies-build-in-u-s/",
+      "date": "2025-08-06"
+    },
+    {
+      "title": "Apple in early settlement talks with DOJ over antitrust case",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/antitrust/apple-in-early-settlement-talks-with-doj-over-antitrust-case",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Apple and DOJ hold early settlement talks",
+      "publisher": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "T-Mobile ending DEI programs as it seeks FCC approval for 2 deals (Reuters)",
+      "publisher": "Insurance Journal",
+      "url": "https://amp.insurancejournal.com/news/national/2025/07/11/831322.htm",
+      "date": "2025-07-11"
+    },
+    {
+      "title": "FCC approves T-Mobile-UScellular deal",
+      "publisher": "PhoneArena",
+      "url": "https://www.phonearena.com/news/fcc-approves-t-mobile-uscellular-deal_id172253",
+      "date": "2025-07"
+    },
+    {
+      "title": "STB rejects UP-NS merger application as incomplete",
+      "publisher": "Railway Age",
+      "url": "https://www.railwayage.com/regulatory/stb-rejects-up-ns-merger-application-as-incomplete/",
+      "date": "2026-01-16"
+    },
+    {
+      "title": "STB accepts Union Pacific-Norfolk Southern merger application",
+      "publisher": "RailMarket",
+      "url": "https://railmarket.com/news/business/57579-us-surface-transportation-board-accepts-union-pacific-norfolk-southern-merger-application",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "FCC closes investigation of EchoStar after spectrum sales",
+      "publisher": "Via Satellite",
+      "url": "https://www.satellitetoday.com/connectivity/2025/09/09/fcc-closes-investigation-of-echostar-after-spectrum-sales/",
+      "date": "2025-09-09"
+    },
+    {
+      "title": "FCC ends investigation into EchoStar's 5G build, spectrum use",
+      "publisher": "Fierce Network",
+      "url": "https://www.fierce-network.com/wireless/fcc-ends-investigation-echostars-5g-build-spectrum-use",
+      "date": "2025-09-09"
+    },
+    {
+      "title": "FCC approves EchoStar's spectrum sale to SpaceX, AT&T",
+      "publisher": "Advanced Television",
+      "url": "https://www.advanced-television.com/2026/05/13/fcc-approves-echostars-spectrum-sale-to-spacex-att/",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Tether officially launches USAT",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/387210/tether-officially-launches-made-in-america-usat-stablecoin-as-mass-tradfi-adoption-looms",
+      "date": "2026-01-27"
+    },
+    {
+      "title": "Bo Hines named CEO of Tether's new US arm",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/370472",
+      "date": "2025-09-12"
+    },
+    {
+      "title": "President Trump secures $200B investment from Micron",
+      "publisher": "US Department of Commerce",
+      "url": "https://www.commerce.gov/node/7176",
+      "date": "2025-06-12"
+    },
+    {
+      "title": "Commerce awarding Micron $275M of CHIPS funding",
+      "publisher": "MeriTalk",
+      "url": "https://www.meritalk.com/articles/commerce-awarding-micron-tech-275m-of-chips-funding/",
+      "date": "2025-06-12"
+    },
+    {
+      "title": "Trump administration withdraws FDA plan to ban menthol cigarettes (Reuters)",
+      "publisher": "StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Trump+administration+withdraws+FDA+plan+to+ban+menthol+cigarettes/24245108.html",
+      "date": "2025-01-21"
+    },
+    {
+      "title": "FDA authorizes on! PLUS nicotine pouches",
+      "publisher": "C-Store Dive",
+      "url": "https://www.cstoredive.com/news/fda-authorizes-on-plus-nicotine-pouches/808515/",
+      "date": "2025-12"
+    },
+    {
+      "title": "FCC opens DEI investigation into Comcast/NBCUniversal",
+      "publisher": "Philadelphia Inquirer",
+      "url": "https://www.inquirer.com/business/comcast/comcast-nbc-universal-federal-dei-investigation-20250213.html",
+      "date": "2025-02-13"
+    },
+    {
+      "title": "Carr probes Comcast on affiliate relationships",
+      "publisher": "Communications Daily",
+      "url": "https://communicationsdaily.com/article/2025/07/31/carr-probes-comcast-on-affiliate-relationships-2507300049",
+      "date": "2025-07-31"
+    },
+    {
+      "title": "White House pulls Quintenz CFTC chair nomination after clash with Winklevoss twins",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/342460/white-house-pulls-quintenz-cftc-chair-nomination-after-clash-with-winklevoss-twins",
+      "date": "2025-10-01"
+    },
+    {
+      "title": "Brian Quintenz, the White House and the Winklevoss twins",
+      "publisher": "NOTUS",
+      "url": "https://www.notus.org/trump-white-house/brian-quintenz-white-house-cftc-nominee-winklevoss-twins",
+      "date": "2025-09"
+    },
+    {
+      "title": "White House is pulling Quintenz's nomination for CFTC chair",
+      "publisher": "Bloomberg Government",
+      "url": "https://news.bgov.com/litigation/white-house-pulling-quintenz-nomination-for-cftc-chair",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "Treasury cuts ties with Booz Allen over leaked Trump tax returns (AP)",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/01/26/trump-booz-allen-leaked-tax-returns-treasury-cuts-ties/",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "Treasury cancels Booz Allen Hamilton contracts",
+      "publisher": "FedScoop",
+      "url": "https://fedscoop.com/treasury-cancels-booz-allen-hamilton-contracts/",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "Trump to nominate Leon Medical Centers founder as ambassador to Spain",
+      "publisher": "Local10",
+      "url": "https://local10.com/news/local/2025/01/03/trump-to-nominate-leon-medical-centers-founder-as-ambassador-to-spain",
+      "date": "2025-01-03"
+    },
+    {
+      "title": "Trump taps Miami medical magnate Benjamin Leon Jr. as ambassador to Spain",
+      "publisher": "Florida Politics",
+      "url": "https://floridapolitics.com/archives/713823-donald-trump-taps-miami-medical-magnate-benjamin-leon-jr-as-ambassador-to-spain",
+      "date": "2025-01-03"
+    },
+    {
+      "title": "Trump allows Nvidia H200 sales to China",
+      "publisher": "Axios",
+      "url": "https://axios.com/2025/12/09/trump-nvidia-ai-h200-china",
+      "date": "2025-12-09"
+    },
+    {
+      "title": "Palantir Navy $448 million contract",
+      "publisher": "The Register",
+      "url": "https://www.theregister.com/2025/12/10/palantir_navy_448_million_contract/",
+      "date": "2025-12-10"
+    },
+    {
+      "title": "Pentagon awards contract for newest F-35s",
+      "publisher": "Defense News",
+      "url": "https://www.defensenews.com/air/2025/09/30/pentagon-awards-contract-for-newest-f-35s/",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "US approves Nvidia chip sales to the UAE (Microsoft licences)",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2025/11/03/nvidia-shares-rise-after-us-approves-chip-sales-to-the-uae.html",
+      "date": "2025-11-03"
+    },
+    {
+      "title": "Meta wins FTC antitrust trial",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/ip-law/meta-wins-ftc-antitrust-trial-over-instagram-whatsapp-deals",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "FTC says it will appeal Meta antitrust ruling (AP)",
+      "publisher": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/jan/21/ftc-says-appeal-meta-antitrust-ruling/",
+      "date": "2026-01-21"
+    },
+    {
+      "title": "Google search remedies too weak, feds tell appeals court",
+      "publisher": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/416888/google-search-remedies-too-weak-feds-tell-appeals.html",
+      "date": "2026-07"
+    },
+    {
+      "title": "YouTube to pay $22 million for White House ballroom",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom",
+      "date": "2025-09-29"
+    }
+  ],
+  "entities": [
+    {
+      "id": "white-house-ballroom",
+      "name": "White House ballroom",
+      "type": "asset",
+      "description": "East Wing ballroom funded by private donations via the Trust for the National Mall"
+    },
+    {
+      "id": "trust-for-the-national-mall",
+      "name": "Trust for the National Mall",
+      "type": "fund",
+      "description": "Nonprofit that receives ballroom donations; contract allows donor anonymity"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; ballroom project sponsor"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Released Oct 2025 donor list; called leak-based concerns 'fake'"
+    },
+    {
+      "id": "washington-post",
+      "name": "The Washington Post",
+      "type": "media",
+      "description": "Published the leaked ballroom donor spreadsheet, 2026-10-15"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "type": "company",
+      "description": "$25M ballroom commitment (WaPo leak); Aug 2025 chip-tariff exemption"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "type": "company",
+      "description": "$25M anonymous ballroom commitment (Oct 2025)"
+    },
+    {
+      "id": "miriam-adelson",
+      "name": "Miriam Adelson",
+      "type": "person",
+      "description": "Adelson Family Foundation; $25M ballroom commitment"
+    },
+    {
+      "id": "adelson-family-foundation",
+      "name": "Adelson Family Foundation",
+      "type": "fund",
+      "description": "$25M ballroom donor"
+    },
+    {
+      "id": "charles-ergen",
+      "name": "Charles Ergen",
+      "type": "person",
+      "description": "EchoStar chairman; $25M to ballroom in two tranches (Dec 2025 anonymous, Feb 2026)"
+    },
+    {
+      "id": "echostar",
+      "name": "EchoStar",
+      "type": "company",
+      "description": "Spectrum sales to AT&T and SpaceX; FCC probe closed Sep 2025"
+    },
+    {
+      "id": "fcc",
+      "name": "Federal Communications Commission",
+      "type": "government",
+      "description": "Closed EchoStar probe; approved T-Mobile and EchoStar deals; probed Comcast"
+    },
+    {
+      "id": "brendan-carr",
+      "name": "Brendan Carr",
+      "type": "person",
+      "description": "FCC chair"
+    },
+    {
+      "id": "alphabet",
+      "name": "Alphabet (Google)",
+      "type": "company",
+      "description": "$22M to ballroom via YouTube settlement"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "type": "company",
+      "description": "$10M ballroom commitment"
+    },
+    {
+      "id": "palantir",
+      "name": "Palantir Technologies (PLTR)",
+      "type": "company",
+      "description": "$10M ballroom commitment"
+    },
+    {
+      "id": "lockheed-martin",
+      "name": "Lockheed Martin",
+      "type": "company",
+      "description": "$10M ballroom commitment"
+    },
+    {
+      "id": "rocket-companies",
+      "name": "Rocket Companies",
+      "type": "company",
+      "description": "Subsidiary pledged $10M about three weeks after FHFA approved its Mr. Cooper takeover"
+    },
+    {
+      "id": "mr-cooper",
+      "name": "Mr. Cooper Group",
+      "type": "company",
+      "description": "Mortgage servicer acquired by Rocket ($9.4B)"
+    },
+    {
+      "id": "fhfa",
+      "name": "Federal Housing Finance Agency",
+      "type": "government",
+      "description": "Approved Rocket-Mr. Cooper, 2025-08-26"
+    },
+    {
+      "id": "bill-pulte",
+      "name": "Bill Pulte",
+      "type": "person",
+      "description": "FHFA director"
+    },
+    {
+      "id": "cfpb",
+      "name": "Consumer Financial Protection Bureau",
+      "type": "government",
+      "description": "Dismissed Rocket Homes kickback suit, 2025-02-27"
+    },
+    {
+      "id": "meta",
+      "name": "Meta Platforms",
+      "type": "company",
+      "description": "$5M ballroom commitment"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "type": "company",
+      "description": "$5M ballroom commitment"
+    },
+    {
+      "id": "t-mobile",
+      "name": "T-Mobile US",
+      "type": "company",
+      "description": "$5M ballroom commitment; FCC approved UScellular deal July 2025"
+    },
+    {
+      "id": "cisco",
+      "name": "Cisco",
+      "type": "company",
+      "description": "Confirmed $5M ballroom gift"
+    },
+    {
+      "id": "servicenow",
+      "name": "ServiceNow",
+      "type": "company",
+      "description": "Confirmed $5M ballroom gift"
+    },
+    {
+      "id": "att",
+      "name": "AT&T",
+      "type": "company",
+      "description": "Listed at $5M 'pledged'; denies giving"
+    },
+    {
+      "id": "kelly-loeffler",
+      "name": "Kelly Loeffler",
+      "type": "person",
+      "description": "SBA Administrator; Loeffler-Sprecher fund gave $5M"
+    },
+    {
+      "id": "jeff-sprecher",
+      "name": "Jeff Sprecher",
+      "type": "person",
+      "description": "Chair/CEO of Intercontinental Exchange; Loeffler's husband"
+    },
+    {
+      "id": "intercontinental-exchange",
+      "name": "Intercontinental Exchange (ICE)",
+      "type": "company",
+      "description": "NYSE owner; invested up to $2B in Polymarket (Oct 2025)"
+    },
+    {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "type": "company",
+      "description": "Prediction market; Don Jr. adviser and 1789 Capital investor"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Polymarket adviser/investor via 1789 Capital"
+    },
+    {
+      "id": "1789-capital",
+      "name": "1789 Capital",
+      "type": "fund",
+      "description": "Invested in Polymarket (Aug 2025)"
+    },
+    {
+      "id": "isabela-herrera",
+      "name": "Isabela Herrera",
+      "type": "person",
+      "description": "Gave $2.5M to ballroom (Sep 2025) and ~$3.5M to MAGA Inc."
+    },
+    {
+      "id": "julio-herrera-velutini",
+      "name": "Julio Herrera Velutini",
+      "type": "person",
+      "description": "Banker pardoned 2026-01-15"
+    },
+    {
+      "id": "alina-habba",
+      "name": "Alina Habba",
+      "type": "person",
+      "description": "Trump's former lawyer; hired by Herrera's company"
+    },
+    {
+      "id": "liz-oyer",
+      "name": "Liz Oyer",
+      "type": "person",
+      "description": "Former DOJ pardon attorney; critic"
+    },
+    {
+      "id": "brandon-lutnick",
+      "name": "Brandon Lutnick",
+      "type": "person",
+      "description": "Reported $2.5M (unverified); Cantor chairman"
+    },
+    {
+      "id": "howard-lutnick",
+      "name": "Howard Lutnick",
+      "type": "person",
+      "description": "Commerce Secretary; 'Lutnick Family' on donor list"
+    },
+    {
+      "id": "joseph-popolo",
+      "name": "Joseph Popolo Jr.",
+      "type": "person",
+      "description": "US ambassador to the Netherlands; $1M ballroom gift"
+    },
+    {
+      "id": "benjamin-leon",
+      "name": "Benjamin Leon Jr.",
+      "type": "person",
+      "description": "US ambassador to Spain; listed ballroom donor"
+    },
+    {
+      "id": "konstantin-sokolov",
+      "name": "Konstantin Sokolov",
+      "type": "person",
+      "description": "Listed donor; Tripp+ fund chair (Jul 2026)"
+    },
+    {
+      "id": "cameron-winklevoss",
+      "name": "Cameron Winklevoss",
+      "type": "person",
+      "description": "Listed ballroom donor; Gemini co-founder"
+    },
+    {
+      "id": "tyler-winklevoss",
+      "name": "Tyler Winklevoss",
+      "type": "person",
+      "description": "Listed ballroom donor; lobbied against Quintenz"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "type": "company",
+      "description": "Winklevoss exchange"
+    },
+    {
+      "id": "brian-quintenz",
+      "name": "Brian Quintenz",
+      "type": "person",
+      "description": "CFTC chair nominee withdrawn 2025-09-30"
+    },
+    {
+      "id": "cftc",
+      "name": "Commodity Futures Trading Commission",
+      "type": "government",
+      "description": "Chair nomination fight"
+    },
+    {
+      "id": "charles-cascarilla",
+      "name": "Charles Cascarilla",
+      "type": "person",
+      "description": "Paxos CEO; listed ballroom donor with Marissa Cascarilla"
+    },
+    {
+      "id": "paxos",
+      "name": "Paxos",
+      "type": "company",
+      "description": "OCC trust charter conversion approved 2025-12-12"
+    },
+    {
+      "id": "occ",
+      "name": "Office of the Comptroller of the Currency",
+      "type": "government",
+      "description": "Dec 2025 trust charter batch"
+    },
+    {
+      "id": "ripple",
+      "name": "Ripple",
+      "type": "company",
+      "description": "Listed donor; OCC conditional charter 2025-12-12"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "type": "company",
+      "description": "Listed donor; SEC case dismissed Feb 2025"
+    },
+    {
+      "id": "tether",
+      "name": "Tether (Tether America)",
+      "type": "company",
+      "description": "Listed donor; USAT launched Jan 2026"
+    },
+    {
+      "id": "bo-hines",
+      "name": "Bo Hines",
+      "type": "person",
+      "description": "Ex-White House crypto council director; Tether USAT CEO (Sep 2025)"
+    },
+    {
+      "id": "anchorage-digital",
+      "name": "Anchorage Digital",
+      "type": "company",
+      "description": "Federally chartered issuer of USAT"
+    },
+    {
+      "id": "cantor-fitzgerald",
+      "name": "Cantor Fitzgerald",
+      "type": "company",
+      "description": "USAT reserve custodian"
+    },
+    {
+      "id": "micron",
+      "name": "Micron Technology",
+      "type": "company",
+      "description": "Listed donor; CHIPS award renegotiated, +$275M (Jun 2025)"
+    },
+    {
+      "id": "us-commerce-department",
+      "name": "US Department of Commerce",
+      "type": "government",
+      "description": "CHIPS awards, export licences"
+    },
+    {
+      "id": "altria",
+      "name": "Altria Group",
+      "type": "company",
+      "description": "Listed donor; on! PLUS authorized Dec 2025"
+    },
+    {
+      "id": "reynolds-american",
+      "name": "Reynolds American",
+      "type": "company",
+      "description": "Listed donor (BAT)"
+    },
+    {
+      "id": "fda",
+      "name": "Food and Drug Administration",
+      "type": "government",
+      "description": "Tobacco product authorizations"
+    },
+    {
+      "id": "booz-allen-hamilton",
+      "name": "Booz Allen Hamilton",
+      "type": "company",
+      "description": "Listed donor; Treasury cancelled its contracts Jan 2026"
+    },
+    {
+      "id": "us-treasury",
+      "name": "US Department of the Treasury",
+      "type": "government",
+      "description": "Cancelled Booz Allen contracts"
+    },
+    {
+      "id": "comcast",
+      "name": "Comcast",
+      "type": "company",
+      "description": "Listed donor; FCC probes 2025"
+    },
+    {
+      "id": "union-pacific",
+      "name": "Union Pacific",
+      "type": "company",
+      "description": "Listed donor; STB rejected merger filing Jan 2026"
+    },
+    {
+      "id": "surface-transportation-board",
+      "name": "Surface Transportation Board",
+      "type": "government",
+      "description": "Rail merger review"
+    },
+    {
+      "id": "harold-hamm",
+      "name": "Harold Hamm",
+      "type": "person",
+      "description": "Listed donor (C86)"
+    },
+    {
+      "id": "stephen-schwarzman",
+      "name": "Stephen Schwarzman",
+      "type": "person",
+      "description": "Listed donor (C86)"
+    },
+    {
+      "id": "public-citizen",
+      "name": "Public Citizen",
+      "type": "company",
+      "description": "Advocacy group; Banquet of Greed and Ballroom Billions reports"
+    },
+    {
+      "id": "doj",
+      "name": "US Department of Justice",
+      "type": "government",
+      "description": "Apple antitrust suit; pardons"
+    },
+    {
+      "id": "ftc",
+      "name": "Federal Trade Commission",
+      "type": "government",
+      "description": "Meta and Amazon cases"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "apple",
+      "target": "white-house-ballroom",
+      "label": "committed $25M (WaPo leak; gift date unknown)",
+      "type": "money",
+      "amount_usd": 25000000
+    },
+    {
+      "source": "nvidia",
+      "target": "white-house-ballroom",
+      "label": "committed $25M anonymously (WaPo leak)",
+      "type": "money",
+      "date": "2025-10",
+      "amount_usd": 25000000
+    },
+    {
+      "source": "adelson-family-foundation",
+      "target": "white-house-ballroom",
+      "label": "committed $25M (WaPo leak)",
+      "type": "money",
+      "amount_usd": 25000000
+    },
+    {
+      "source": "miriam-adelson",
+      "target": "adelson-family-foundation",
+      "label": "controls",
+      "type": "ownership"
+    },
+    {
+      "source": "charles-ergen",
+      "target": "white-house-ballroom",
+      "label": "first $12.5M, anonymous (WaPo leak)",
+      "type": "money",
+      "date": "2025-12",
+      "amount_usd": 12500000
+    },
+    {
+      "source": "charles-ergen",
+      "target": "white-house-ballroom",
+      "label": "second $12.5M (WaPo leak)",
+      "type": "money",
+      "date": "2026-02",
+      "amount_usd": 12500000
+    },
+    {
+      "source": "charles-ergen",
+      "target": "echostar",
+      "label": "chairman / co-founder",
+      "type": "ownership"
+    },
+    {
+      "source": "fcc",
+      "target": "echostar",
+      "label": "closed 5G buildout probe (Carr letter)",
+      "type": "regulatory",
+      "date": "2025-09-08"
+    },
+    {
+      "source": "fcc",
+      "target": "echostar",
+      "label": "approved AT&T and SpaceX spectrum sales with $2.4B escrow",
+      "type": "regulatory",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "alphabet",
+      "target": "white-house-ballroom",
+      "label": "$22M via YouTube settlement",
+      "type": "money",
+      "date": "2025-09-29",
+      "amount_usd": 22000000
+    },
+    {
+      "source": "microsoft",
+      "target": "white-house-ballroom",
+      "label": "committed $10M (WaPo leak)",
+      "type": "money",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "palantir",
+      "target": "white-house-ballroom",
+      "label": "committed $10M (WaPo leak)",
+      "type": "money",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "lockheed-martin",
+      "target": "white-house-ballroom",
+      "label": "committed $10M (WaPo leak)",
+      "type": "money",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "rocket-companies",
+      "target": "white-house-ballroom",
+      "label": "subsidiary pledged $10M ~3 weeks after FHFA approval (WaPo)",
+      "type": "money",
+      "date": "2025-09",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "fhfa",
+      "target": "rocket-companies",
+      "label": "approved $9.4B Mr. Cooper acquisition with 20% caps",
+      "type": "regulatory",
+      "date": "2025-08-26"
+    },
+    {
+      "source": "rocket-companies",
+      "target": "mr-cooper",
+      "label": "acquired",
+      "type": "ownership",
+      "date": "2025",
+      "amount_usd": 9400000000
+    },
+    {
+      "source": "bill-pulte",
+      "target": "fhfa",
+      "label": "director",
+      "type": "political"
+    },
+    {
+      "source": "cfpb",
+      "target": "rocket-companies",
+      "label": "dismissed Rocket Homes kickback suit with prejudice",
+      "type": "regulatory",
+      "date": "2025-02-27"
+    },
+    {
+      "source": "meta",
+      "target": "white-house-ballroom",
+      "label": "committed $5M (WaPo leak)",
+      "type": "money",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "amazon",
+      "target": "white-house-ballroom",
+      "label": "committed $5M (WaPo leak)",
+      "type": "money",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "t-mobile",
+      "target": "white-house-ballroom",
+      "label": "committed $5M (WaPo leak)",
+      "type": "money",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "fcc",
+      "target": "t-mobile",
+      "label": "approved UScellular deal and Metronet JV after DEI rollback",
+      "type": "regulatory",
+      "date": "2025-07"
+    },
+    {
+      "source": "cisco",
+      "target": "white-house-ballroom",
+      "label": "gave $5M (company confirmed)",
+      "type": "money",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "servicenow",
+      "target": "white-house-ballroom",
+      "label": "gave $5M (company confirmed)",
+      "type": "money",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "att",
+      "target": "white-house-ballroom",
+      "label": "listed $5M 'pledged'; AT&T denies",
+      "type": "money",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "kelly-loeffler",
+      "target": "white-house-ballroom",
+      "label": "Loeffler-Sprecher fund gave $5M (WaPo leak)",
+      "type": "money",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "jeff-sprecher",
+      "target": "kelly-loeffler",
+      "label": "spouse",
+      "type": "family"
+    },
+    {
+      "source": "jeff-sprecher",
+      "target": "intercontinental-exchange",
+      "label": "chair and CEO",
+      "type": "ownership"
+    },
+    {
+      "source": "intercontinental-exchange",
+      "target": "polymarket",
+      "label": "invested up to $2B",
+      "type": "money",
+      "date": "2025-10-07",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "1789-capital",
+      "target": "polymarket",
+      "label": "strategic investment",
+      "type": "money",
+      "date": "2025-08-26"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "polymarket",
+      "label": "adviser and investor",
+      "type": "advisory",
+      "date": "2025-08-26"
+    },
+    {
+      "source": "kelly-loeffler",
+      "target": "white-house",
+      "label": "SBA Administrator",
+      "type": "political"
+    },
+    {
+      "source": "isabela-herrera",
+      "target": "white-house-ballroom",
+      "label": "pledged $2.5M (WaPo leak)",
+      "type": "money",
+      "date": "2025-09",
+      "amount_usd": 2500000
+    },
+    {
+      "source": "isabela-herrera",
+      "target": "julio-herrera-velutini",
+      "label": "daughter",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump",
+      "target": "julio-herrera-velutini",
+      "label": "pardoned",
+      "type": "legal",
+      "date": "2026-01-15"
+    },
+    {
+      "source": "isabela-herrera",
+      "target": "alina-habba",
+      "label": "company hired (reported >$50M over 4 years)",
+      "type": "commercial"
+    },
+    {
+      "source": "brandon-lutnick",
+      "target": "white-house-ballroom",
+      "label": "reported $2.5M (unverified)",
+      "type": "money",
+      "amount_usd": 2500000
+    },
+    {
+      "source": "brandon-lutnick",
+      "target": "howard-lutnick",
+      "label": "son",
+      "type": "family"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "white-house-ballroom",
+      "label": "'The Lutnick Family' on Oct 2025 donor list",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "joseph-popolo",
+      "target": "white-house-ballroom",
+      "label": "gave $1M (WaPo leak)",
+      "type": "money",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "joseph-popolo",
+      "label": "named ambassador to the Netherlands",
+      "type": "political",
+      "date": "2025-01"
+    },
+    {
+      "source": "donald-trump",
+      "target": "benjamin-leon",
+      "label": "named ambassador to Spain",
+      "type": "political",
+      "date": "2025-01-03"
+    },
+    {
+      "source": "benjamin-leon",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "konstantin-sokolov",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "cameron-winklevoss",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "tyler-winklevoss",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "tyler-winklevoss",
+      "target": "brian-quintenz",
+      "label": "lobbied White House against CFTC nomination",
+      "type": "political",
+      "date": "2025-09"
+    },
+    {
+      "source": "white-house",
+      "target": "brian-quintenz",
+      "label": "withdrew CFTC chair nomination",
+      "type": "political",
+      "date": "2025-09-30"
+    },
+    {
+      "source": "charles-cascarilla",
+      "target": "white-house-ballroom",
+      "label": "listed donor (with Marissa Cascarilla)",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "charles-cascarilla",
+      "target": "paxos",
+      "label": "CEO and co-founder",
+      "type": "ownership"
+    },
+    {
+      "source": "occ",
+      "target": "paxos",
+      "label": "approved national trust charter conversion",
+      "type": "regulatory",
+      "date": "2025-12-12"
+    },
+    {
+      "source": "occ",
+      "target": "ripple",
+      "label": "conditional national trust charter",
+      "type": "regulatory",
+      "date": "2025-12-12"
+    },
+    {
+      "source": "ripple",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "coinbase",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "tether",
+      "target": "white-house-ballroom",
+      "label": "Tether America listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "tether",
+      "target": "bo-hines",
+      "label": "hired as USAT CEO",
+      "type": "commercial",
+      "date": "2025-09"
+    },
+    {
+      "source": "anchorage-digital",
+      "target": "tether",
+      "label": "issues USAT",
+      "type": "commercial",
+      "date": "2026-01-27"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "tether",
+      "label": "USAT reserve custodian",
+      "type": "commercial",
+      "date": "2026-01-27"
+    },
+    {
+      "source": "micron",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "micron",
+      "label": "renegotiated CHIPS award, +$275M",
+      "type": "regulatory",
+      "date": "2025-06-12",
+      "amount_usd": 275000000
+    },
+    {
+      "source": "altria",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "reynolds-american",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "white-house",
+      "target": "altria",
+      "label": "OIRA withdrew menthol ban proposal",
+      "type": "regulatory",
+      "date": "2025-01-21"
+    },
+    {
+      "source": "fda",
+      "target": "altria",
+      "label": "authorized on! PLUS pouches (pilot programme)",
+      "type": "regulatory",
+      "date": "2025-12"
+    },
+    {
+      "source": "booz-allen-hamilton",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "us-treasury",
+      "target": "booz-allen-hamilton",
+      "label": "cancelled all 31 contracts",
+      "type": "regulatory",
+      "date": "2026-01-26",
+      "amount_usd": 21000000
+    },
+    {
+      "source": "comcast",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "fcc",
+      "target": "comcast",
+      "label": "opened affiliate-relations probe",
+      "type": "regulatory",
+      "date": "2025-07"
+    },
+    {
+      "source": "union-pacific",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "surface-transportation-board",
+      "target": "union-pacific",
+      "label": "rejected NS merger application as incomplete",
+      "type": "regulatory",
+      "date": "2026-01-16"
+    },
+    {
+      "source": "apple",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "donald-trump",
+      "target": "apple",
+      "label": "exempted from planned ~100% chip tariff",
+      "type": "regulatory",
+      "date": "2025-08-06"
+    },
+    {
+      "source": "doj",
+      "target": "apple",
+      "label": "iPhone antitrust suit; settlement talks reported",
+      "type": "legal",
+      "date": "2026-07"
+    },
+    {
+      "source": "harold-hamm",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "stephen-schwarzman",
+      "target": "white-house-ballroom",
+      "label": "listed donor",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "white-house-ballroom",
+      "target": "trust-for-the-national-mall",
+      "label": "donations administered by",
+      "type": "money"
+    },
+    {
+      "source": "donald-trump",
+      "target": "white-house-ballroom",
+      "label": "sponsors project",
+      "type": "political",
+      "date": "2025-07"
+    },
+    {
+      "source": "washington-post",
+      "target": "white-house-ballroom",
+      "label": "published leaked donor spreadsheet",
+      "type": "media",
+      "date": "2026-10-15"
+    },
+    {
+      "source": "public-citizen",
+      "target": "white-house-ballroom",
+      "label": "reports on donors' contracts and enforcement",
+      "type": "media",
+      "date": "2025-11"
+    }
+  ],
+  "leads": [
+    {
+      "title": "The ~30 donors the White House kept off its October 2025 list",
+      "why_connected": "The spreadsheet has 67 donations against 37 public names, with at least $77M anonymous. Only a few of the hidden donors (Nvidia, Rocket, Ergen's first tranche, Herrera, Popolo, Loeffler-Sprecher, Cisco, ServiceNow, AT&T) were identified in the coverage we could reach. The rest need a row-by-row pass over the Post's article.",
+      "entities": [
+        "white-house-ballroom",
+        "trust-for-the-national-mall",
+        "washington-post"
+      ],
+      "source_url": "https://www.ibtimes.co.uk/apple-nvidia-trump-white-house-ballroom-donations-1826051"
+    },
+    {
+      "title": "Rocket Companies: CFPB dismissal, FHFA approval, then a $10M ballroom pledge",
+      "why_connected": "Three dated events in seven months involving one company and two agencies whose heads were Trump appointees (Pulte at FHFA). No report in this project covers Rocket.",
+      "entities": [
+        "rocket-companies",
+        "fhfa",
+        "bill-pulte",
+        "cfpb",
+        "white-house-ballroom"
+      ],
+      "source_url": "https://www.housingwire.com/articles/fhfa-clears-rockets-9-4b-acquisition-of-mr-cooper-with-safeguards/"
+    },
+    {
+      "title": "Herrera family: ballroom, MAGA Inc., Habba retainer and the Jan 2026 pardon",
+      "why_connected": "Daughter's $2.5M ballroom gift and $3.5M super-PAC gifts, the Habba retainer, and the father's pardon. Belongs with C36/C49 pardon research.",
+      "entities": [
+        "isabela-herrera",
+        "julio-herrera-velutini",
+        "alina-habba",
+        "donald-trump"
+      ],
+      "source_url": "https://news.bloomberglaw.com/business-and-practice/trump-to-pardon-venezuelan-banker-ex-puerto-rico-governor-82"
+    },
+    {
+      "title": "Loeffler-Sprecher: a cabinet official's ballroom gift and ICE's Polymarket stake",
+      "why_connected": "An SBA Administrator's household gift, with her husband's exchange co-investing alongside Don Jr.'s 1789 Capital in Polymarket. Worth checking against OGE ethics agreements and CFTC actions on Polymarket after Oct 2025.",
+      "entities": [
+        "kelly-loeffler",
+        "jeff-sprecher",
+        "intercontinental-exchange",
+        "polymarket",
+        "donald-trump-jr"
+      ],
+      "source_url": "https://www.ajc.com/business/2025/10/atlanta-based-parent-of-nyse-investing-up-to-2b-in-prediction-market"
+    },
+    {
+      "title": "AT&T denies its $5M 'pledged' entry",
+      "why_connected": "The only 'pledged' row; AT&T was a buyer in the FCC-approved EchoStar deal. The discrepancy tests the spreadsheet's reliability.",
+      "entities": [
+        "att",
+        "echostar",
+        "fcc"
+      ],
+      "source_url": "https://engadget.com/2287913/trump-ballrooms-biggest-donors-were-overwelmingly-tech-and-telecom-companies/"
+    }
+  ]
+}
