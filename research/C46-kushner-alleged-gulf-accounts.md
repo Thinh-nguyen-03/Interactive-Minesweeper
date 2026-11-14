@@ -32,7 +32,7 @@ No primary Vanity Fair, book, WSJ or complaint text was read. Quotations are giv
    - Vanity Fair ran the excerpt on 22 Oct 2026.
    - The book's full title, as listed by the publisher: *Princes and Thieves: Jared Kushner and Mohammed bin Zayed's Secret Plot to Remake the Middle East*. It is published by Atria/One Signal (Simon & Schuster).
    - Per Political Wire, citing Status, Simon & Schuster released the book early, on 26 Oct, after Kushner's legal threats (other listings give 25 or 27 Oct).
-   - Cole told Democracy Now! (2 Nov) that the book "is a result of more than 50 sources" and was fact-checked and legally vetted. That quote comes via search summaries; the fetch was blocked.
+   - Cole told Democracy Now! (2 Nov) that the book "is a result of more than 50 sources" and was fact-checked and legally vetted. That quote comes via search summaries; the original was not read.
 
 2. **"Alpha": a ~$750M First Abu Dhabi Bank account with Kushner as signatory. Unverified, single source.** As reported from the excerpt:
    - The account was opened in Dubai at First Abu Dhabi Bank (FAB) from 2017.
@@ -40,7 +40,7 @@ No primary Vanity Fair, book, WSJ or complaint text was read. Quotations are giv
    - It was funded with Saudi and Emirati money and run as a "foreign policy fund" partly managed by Kushner and Mohamed bin Zayed.
    - Some coverage says the book has Tahnoon bin Zayed, FAB's chairman, overseeing it.
 
-   No bank statement, account number, wire record or transaction date has been published. Kushner's team stresses this point. No statement from FAB, the foundation or the UAE government turned up in search. Asia Times reports that four former senior Trump officials said they knew of no presidential authorization that would have allowed Kushner access to a foreign government's account. That comes from a search summary and was not fetched.
+   No bank statement, account number, wire record or transaction date has been published. Kushner's team stresses this point. No statement from FAB, the foundation or the UAE government turned up in search. Asia Times reports that four former senior Trump officials said they knew of no presidential authorization that would have allowed Kushner access to a foreign government's account. That comes from a search summary and was not read directly.
 
 3. **The money was routed via Azerbaijan. Unverified, single source.** The book has Saudi and UAE money moving through an Azerbaijani bank, and MBZ's roughly $1B reaching Israel "through Azerbaijan" by spring 2018. No outlet has identified the bank, the dates or the amounts. JAMnews (Azerbaijan/Caucasus) recalled the earlier OCCRP "Azerbaijani Laundromat" (about $1.4B through Baktelekom / International Bank of Azerbaijan) but said **no confirmed link** exists between that scheme and the alleged Kushner accounts. No Azerbaijani government response was found.
 
@@ -90,7 +90,7 @@ No primary Vanity Fair, book, WSJ or complaint text was read. Quotations are giv
 
 ## Corrections and caveats
 
-- The brief says "First Abu Dhabi Bank account with Kushner as signatory." In the book's account, the account holder is the Watani Al Emarat Foundation, and Kushner is a signatory, not the owner.
+- The claim says "First Abu Dhabi Bank account with Kushner as signatory." In the book's account, the account holder is the Watani Al Emarat Foundation, and Kushner is a signatory, not the owner.
 - The "Beta" account is described as at the Bank of Israel and "for Kushner's personal benefit." That is a single anonymous source quoted by Cole, and it is the most heavily disputed element.
 - The Jerusalem Post retraction was of a **news write-up** of the excerpt. A JPost **opinion** column critiquing the excerpt remains published.
 - The Gabbard complaint was filed in May 2025, before the book. Nothing in the public record links it to the alleged accounts, and its substance is unknown.
@@ -107,10 +107,10 @@ No primary Vanity Fair, book, WSJ or complaint text was read. Quotations are giv
 1. Mediaite, "'Outrageous Fabrications': Jared Kushner Rages at Bombshell Report In Vanity Fair", 2026-10-22. https://www.mediaite.com/media/news/outrageous-fabrications-jared-kushner-rages-at-bombshell-report-in-vanity-fair/
 2. Mediaite, "Jared Kushner's Lawyer Puts Vanity Fair 'On Notice' After Bombshell Report", 2026-10-23. https://www.mediaite.com/media/news/jared-kushners-lawyer-puts-vanity-fair-on-notice-after-bombshell-report-false-and-defamatory-allegations/
 3. Barak Ravid on X, post on the Vanity Fair excerpt, 2026-10. https://x.com/BarakRavid/status/2113371126168690991
-4. Jerusalem Post, opinion column on the Bank of Israel claim, 2026-10 (fetch blocked; search snippet). https://jpost.com/opinion/article-912780
-5. Ynet, "Netanyahu helped Kushner hide $1 billion in UAE funds at Israel's central bank, book claims", 2026-10 (fetch blocked). https://ynetnews.com/article/b1avqqu2zl
+4. Jerusalem Post, opinion column on the Bank of Israel claim, 2026-10 (original not read; search snippet). https://jpost.com/opinion/article-912780
+5. Ynet, "Netanyahu helped Kushner hide $1 billion in UAE funds at Israel's central bank, book claims", 2026-10 (original not read directly). https://ynetnews.com/article/b1avqqu2zl
 6. i24NEWS, "Netanyahu accused of helping Kushner conceal a billion dollars from the UAE: report", 2026-10. https://www.i24news.tv/en/news/international/artc-netanyahu-accused-of-helping-kushner-conceal-a-billion-dollars-from-the-uae-report
-7. Common Dreams, Kushner foreign bank accounts report, 2026-10 (fetch blocked). https://www.commondreams.org/news/kushner-foreign-bank-accounts
+7. Common Dreams, Kushner foreign bank accounts report, 2026-10 (original not read directly). https://www.commondreams.org/news/kushner-foreign-bank-accounts
 8. Asia Times, "Book says Kushner had access to secret Arab-funded bank accounts", 2026-10. https://asiatimes.com/2026/10/book-says-kushner-had-access-to-secret-arab-funded-bank-accounts/
 9. JAMnews, "Vanity Fair: Trump son-in-law received $750m from Azerbaijani bank", 2026-10. https://jam-news.net/?p=237250
 10. The National Desk (Sinclair), "Jared Kushner responds to article alleging he had access to foreign bank accounts", 2026-10-23. https://thenationaldesk.com/news/nation-world/jared-kushner-responds-to-article-alleging-he-had-access-to-foreign-bank-accounts-donald-trump-white-house
@@ -119,7 +119,7 @@ No primary Vanity Fair, book, WSJ or complaint text was read. Quotations are giv
 13. Political Wire, "Book on Jared Kushner released early", 2026-10-26. https://politicalwire.com/2026/10/26/book-on-jared-kushner-released-early/
 14. Simon & Schuster, *Princes and Thieves* product page. https://www.simonandschuster.com/books/9781668095324
 15. Kirkus Reviews, *Princes and Thieves* review. https://www.kirkusreviews.com/book-reviews/matthew-cole/princes-and-thieves/
-16. Democracy Now!, interview with Matthew Cole, 2026-11-02 (fetch blocked). https://www.democracynow.org/2026/11/2/matthew_cole_jared_kushner_book
+16. Democracy Now!, interview with Matthew Cole, 2026-11-02 (original not read directly). https://www.democracynow.org/2026/11/2/matthew_cole_jared_kushner_book
 17. AP via KSAT, "Complaint accuses Gabbard of playing politics with intelligence, which spy agency rejects", 2026-02-04. https://www.ksat.com/news/politics/2026/02/04/complaint-accuses-gabbard-of-playing-politics-with-intelligence-which-spy-agency-rejects/
 18. AP via PBS, "Republicans reject complaint about Gabbard as Democrats question time it took to see it", 2026-02-05. https://www.pbs.org/newshour/politics/republicans-reject-complaint-about-gabbard-as-democrats-question-time-it-took-to-see-it
 19. SAN, "Kushner cited in classified whistleblower complaint against DNI Gabbard: Report", 2026-02. https://san.com/cc/kushner-cited-in-classified-whistleblower-complaint-against-dni-gabbard-report/
@@ -134,7 +134,7 @@ No primary Vanity Fair, book, WSJ or complaint text was read. Quotations are giv
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (fresh re-verification with new web searches; replaces the earlier wording-only review)
+**Result: upheld** (fresh re-verification with new searches)
 
 Checked:
 - Whether any lawsuit, retraction, takedown, or Vanity Fair/Simon & Schuster response followed Kushner's 23 Oct 2026 Mizelle notice

@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate. Confidence: medium.**
 
-*Third-layer connection hunt from C71, with parents C42 and C67. Direct fetches of senate.gov, decrypt.co and whbl.com were blocked from this environment, so the findings rest on search results across several outlets plus the primary URLs those results point to.*
+*Third-layer connection check from C71, with parents C42 and C67. The original pages at senate.gov, decrypt.co and whbl.com were not read directly, so the findings rest on search results across several outlets plus the primary URLs those results point to.*
 
 ## Summary
 
@@ -22,7 +22,7 @@ The sanctions and illicit-finance threads are each documented:
 
 None of these threads shows illicit money reaching WLF or the Trump family. WLF's statement that all buyers passed KYC is its own claim, and no regulator has tested it.
 
-## What the brief asks, and what the evidence shows
+## What was checked, and what the evidence shows
 
 ### 1. The swap pitch (DOCUMENTED reporting; underlying message single-source)
 
@@ -142,7 +142,7 @@ None of these threads shows illicit money reaching WLF or the Trump family. WLF'
 
 ## Corrections
 
-- The brief calls A7A5 "the sanctioned ruble stablecoin". The designations target its issuer and network, not the token itself.
+- The claim calls A7A5 "the sanctioned ruble stablecoin". The designations target its issuer and network, not the token itself.
 - The Reuters Nobitex piece is dated May 2026 (syndicated 2026-05-18), not 2026-05-01 as C71's lead says.
 - The Prince Group sanctions date is 2025-10-14, not 2024.
 - The swap was an offer. No team is documented as having accepted it.

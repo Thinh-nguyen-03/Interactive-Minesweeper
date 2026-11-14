@@ -2,9 +2,9 @@
 
 **Verdict: mostly-accurate (confidence: medium).**
 
-This is a third-layer connection hunt from C76 (Russia-linked ties) and C57 (the Tahnoon/UAE network). The video did not cover it.
+This is a third-layer connection check from C76 (Russia-linked ties) and C57 (the Tahnoon/UAE network). 
 
-Most of the brief holds up:
+Most of the claim holds up:
 - The bidder sequence is documented: Gunvor withdrew, Xtellus/Boehly was rejected, Carlyle's deal lapsed, and Boehly's consortium now leads.
 - The consortium's membership is reported consistently by the FT and Reuters through many relays: IHC, Al Hail, Allied Investment Partners, the Al-Khayyat brothers and the DFC.
 - The OFAC licence chain is documented.
@@ -16,7 +16,7 @@ The politically weightiest points remain **single-source** (the NYT, anonymous s
 
 No source says the Trump family, Witkoff or Kushner has a financial stake in the deal, and Witkoff's spokeswoman denies one. **As of 14 Nov 2026, no sale had been signed or licensed.** The OFAC negotiation licence ran to 21 Nov 2026. Reuters reported on 3 Nov that a share-swap deal was "expected within weeks".
 
-Search caveat: most outlets (NYT, FT, Reuters, Bloomberg, Politico) could not be fetched from here. Their reporting is cited through relays such as Meduza, Kyiv Post, Kurs, Novaya Gazeta, Mediaite, IBTimes, oilandgas360 and Moscow Times. Grades below reflect the *original* reporting, not the number of relays.
+Search caveat: most outlets (NYT, FT, Reuters, Bloomberg, Politico) could not be read directly. Their reporting is cited through relays such as Meduza, Kyiv Post, Kurs, Novaya Gazeta, Mediaite, IBTimes, oilandgas360 and Moscow Times. Grades below reflect the *original* reporting, not the number of relays.
 
 ## Background
 
@@ -156,7 +156,7 @@ These are our own cross-references. No source we found asserts them.
 
 - C76 graded the Al-Khayyat–Kushner/Ivanka Albania partnership single-source. It is documented: the brothers confirmed it to the NYT, and CBS and OCCRP cite filings.
 - C86 uses `al-khayyat-family`, while this file and C76 use `al-khayyat-brothers` for the same people.
-- The brief says Gunvor's bid was "withdrawn". That is correct, but it happened in Nov 2025, after a public Treasury rebuke, not as a 2026 event.
+- The claim says Gunvor's bid was "withdrawn". That is correct, but it happened in Nov 2025, after a public Treasury rebuke, not as a 2026 event.
 
 ## Sources
 

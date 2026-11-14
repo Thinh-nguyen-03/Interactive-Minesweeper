@@ -3,7 +3,7 @@
   "title": "World Liberty Financial founding and token sale",
   "verdict": "mostly-accurate",
   "confidence": "high",
-  "summary": "WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family backing. It had issued only the WLFI governance token and the USD1 stablecoin until its first app, World Liberty Markets, went live on 12 Jan 2026. Chase Herro's 2018 'sh*t in a can' rant is real, and October 2024 sales were poor enough that the target was cut 90% to $30M. The video compresses the timeline: sales barely moved after the election, recovered only after Justin Sun's $30M buy on 25 Nov 2024, sold out the first tranche around 20 Jan 2025, and reached $550M in March 2025.",
+  "summary": "WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family backing. It had issued only the WLFI governance token and the USD1 stablecoin until its first app, World Liberty Markets, went live on 12 Jan 2026. Chase Herro's 2018 'sh*t in a can' rant is real, and October 2024 sales were poor enough that the target was cut 90% to $30M. The claim compresses the timeline: sales barely moved after the election, recovered only after Justin Sun's $30M buy on 25 Nov 2024, sold out the first tranche around 20 Jan 2025, and reached $550M in March 2025.",
   "sub_claims": [
     {
       "statement": "WLF was created by the Trump family shortly before the 2024 election.",
@@ -18,7 +18,7 @@
     {
       "statement": "WLF has launched only the WLFI governance token and USD1 stablecoin, with no DeFi application yet.",
       "verdict": "confirmed",
-      "finding": "True when the video was made. The WLFI sale opened on 15 Oct 2024, USD1 was confirmed in March 2025 with BitGo as custodian, and WLFI began trading on 1 Sept 2025. The claim is now outdated: the lending app World Liberty Markets, built on Dolomite, launched on 12 Jan 2026.",
+      "finding": "True until January 2026. The WLFI sale opened on 15 Oct 2024, USD1 was confirmed in March 2025 with BitGo as custodian, and WLFI began trading on 1 Sept 2025. The claim is now outdated: the lending app World Liberty Markets, built on Dolomite, launched on 12 Jan 2026.",
       "sources": [
         "https://fxstreet.com/cryptocurrencies/news/world-liberty-financial-confirms-launch-of-usd1-stablecoin-202503251520",
         "https://www.businesswire.com/news/home/20260112514280/en/World-Liberty-Financial-Launches-First-WebApp-World-Liberty-Markets-Expanding-USD1-Utility-Through-Dolomite",
@@ -38,7 +38,7 @@
     {
       "statement": "In October 2024 token sales were bad.",
       "verdict": "confirmed",
-      "finding": "The target was $300M (20B tokens at $0.015, a $1.5B valuation). About 4% of that sold on day one, and an SEC filing on 30 Oct 2024 cut the goal to $30M. The video's explanation, that 'some thought Trump might lose', is speculation. Reported causes were the accredited-investor-only structure, technical problems and weak demand.",
+      "finding": "The target was $300M (20B tokens at $0.015, a $1.5B valuation). About 4% of that sold on day one, and an SEC filing on 30 Oct 2024 cut the goal to $30M. The explanation that 'some thought Trump might lose' is speculation. Reported causes were the accredited-investor-only structure, technical problems and weak demand.",
       "sources": [
         "https://hotfix.coindesk.com/markets/2024/10/16/donald-trump-supported-world-liberty-financial-raises-just-4-of-token-sale-target-on-first-day",
         "https://thedefiant.io/news/tokens/trumps-wlfi-sale-target-slashed-by-90-amid-weak-demand",
@@ -58,11 +58,11 @@
     }
   ],
   "corrections": [
-    "Transcript says sales 'exploded' as Trump won; the record shows almost no sales right after the election, and the rebound followed Justin Sun's $30M buy on 25 Nov 2024.",
-    "Transcript says WLF 'sold out $550 million worth' around the election; the first $300M tranche sold out around 20 Jan 2025 and the $550M total was reached in March 2025 after a second, higher-priced tranche.",
-    "Transcript says no application has launched; World Liberty Markets (lending) launched on 12 Jan 2026.",
-    "Transcript says WLF was 'created by the Trump family'; the named founders are Chase Herro and Zak Folkman, with the Trump family as promoters and revenue recipients via DT Marks DEFI LLC.",
-    "'Chase Hero' in the transcript is Chase Herro."
+    "Claimed: Sales 'exploded' as Trump won. The record shows: almost no sales right after the election, and the rebound followed Justin Sun's $30M buy on 25 Nov 2024.",
+    "Claimed: WLF 'sold out $550 million worth' around the election. The record shows: the first $300M tranche sold out around 20 Jan 2025 and the $550M total was reached in March 2025 after a second, higher-priced tranche.",
+    "Claimed: No application has launched. The record shows: World Liberty Markets (lending) launched on 12 Jan 2026.",
+    "Claimed: WLF was 'created by the Trump family'. The record shows: the named founders are Chase Herro and Zak Folkman, with the Trump family as promoters and revenue recipients via DT Marks DEFI LLC.",
+    "The co-founder's name is Chase Herro, sometimes misspelled 'Chase Hero'."
   ],
   "denials_and_context": [
     "WLF presents its $550M raise as a success; Folkman credited Sun's investment with reviving the project.",
@@ -335,7 +335,8 @@
       "id": "coffeezilla",
       "name": "Coffeezilla",
       "type": "media",
-      "description": "YouTube investigator who made the video under review."
+      "description": "Online investigator and commentator.",
+      "hidden": true
     }
   ],
   "relationships": [
@@ -503,7 +504,8 @@
       "source": "coffeezilla",
       "target": "world-liberty-financial",
       "label": "investigated",
-      "type": "media"
+      "type": "media",
+      "hidden": true
     }
   ],
   "audit": {

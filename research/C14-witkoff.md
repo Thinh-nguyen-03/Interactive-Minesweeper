@@ -2,9 +2,9 @@
 
 **Verdict: mostly-accurate (confidence: medium)**
 
-## What the video says (transcript lines 523-533)
+## The claim
 
-The Witkoffs are "much more than co-founders of World Liberty Financial": Zach Witkoff's father, Steve Witkoff, is the US Special Envoy to the Middle East. WLF's largest shareholder is from the Middle East, which raises a possible conflict of interest. "World Liberty Financial now says Steve Witkoff has divested himself of that stake," which the narrator reads as a move to avoid those questions.
+The Witkoffs are "much more than co-founders of World Liberty Financial": Zach Witkoff's father, Steve Witkoff, is the US Special Envoy to the Middle East. WLF's largest shareholder is from the Middle East, which raises a possible conflict of interest. "World Liberty Financial now says Steve Witkoff has divested himself of that stake," which is read as a move to avoid those questions.
 
 ## Sub-claims
 

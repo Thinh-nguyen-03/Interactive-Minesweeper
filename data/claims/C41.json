@@ -3,7 +3,7 @@
   "title": "Trump Media follow-ups: API customers, SEC complaint, Nunes, CRO treasury deal",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Most of the brief holds up. Reuters (Oct 28, 2026, anonymous sources) reported Bloomberg, Susquehanna and Jump Trading as Truth API subscribers. Warren and Schiff wrote to the SEC on July 28, 2026, and the SEC only acknowledged receipt, with no probe found. Lighthizer (effective Mar 6, 2026) and Swider (Apr 6, 2026) resigned from the board. The ~$6.4B CRO treasury venture with Crypto.com and Yorkville was mutually terminated on Aug 7, 2026. Two items are off. Nunes was named PIAB chair in December 2024, not when he left TMTG in April 2026. And TAE's CEO 'lobbying DOE' was an industry meeting urging fusion funding: I found no registered TAE lobbying and nothing tying the meeting to the merger.",
+  "summary": "Most of the claim holds up. Reuters (Oct 28, 2026, anonymous sources) reported Bloomberg, Susquehanna and Jump Trading as Truth API subscribers. Warren and Schiff wrote to the SEC on July 28, 2026, and the SEC only acknowledged receipt, with no probe found. Lighthizer (effective Mar 6, 2026) and Swider (Apr 6, 2026) resigned from the board. The ~$6.4B CRO treasury venture with Crypto.com and Yorkville was mutually terminated on Aug 7, 2026. Two items are off. Nunes was named PIAB chair in December 2024, not when he left TMTG in April 2026. And TAE's CEO 'lobbying DOE' was an industry meeting urging fusion funding: I found no registered TAE lobbying and nothing tying the meeting to the merger.",
   "sub_claims": [
     {
       "statement": "Bloomberg, Susquehanna and Jump Trading subscribe to the Truth API.",
@@ -85,7 +85,7 @@
     }
   ],
   "corrections": [
-    "The brief implies Nunes was named PIAB chair when he left TMTG in April 2026. Trump named him on Dec 14, 2024, and he held both roles until April 2026.",
+    "The claim implies Nunes was named PIAB chair when he left TMTG in April 2026. Trump named him on Dec 14, 2024, and he held both roles until April 2026.",
     "The Bloomberg/Susquehanna/Jump customer list is a Reuters report from anonymous sources (Oct 28, 2026). Some syndicated copies are mislabelled 'Exclusive-Bloomberg', but Bloomberg is a reported customer, not the reporter. TMTG and the three firms have not confirmed it.",
     "The SEC's 'response' to Warren and Schiff was only an acknowledgment of receipt. No investigation has been reported.",
     "'Lobbying' is loose: what is documented is a DOE meeting of fusion executives urging fusion funding, not a registered TAE lobbying campaign tied to the merger."

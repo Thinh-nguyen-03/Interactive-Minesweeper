@@ -1,10 +1,10 @@
 # C66: The extended family (Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka, Kai)
 
-**Verdict: partly-accurate (confidence: medium)**. The in-law appointments are documented. A single NYT investigation (Aug-Sept 2025) documents several Boulos-family money and access channels, and one Thrive/GSA procurement link has real substance. Several elements of the brief are not supported: Boulos-family business in DRC minerals, Thrive stakes in Kalshi or Polymarket, and current foreign financing of Kushner Companies. Most of the other relatives' ventures do not depend on federal decisions.
+**Verdict: partly-accurate (confidence: medium)**. The in-law appointments are documented. A single NYT investigation (Aug-Sept 2025) documents several Boulos-family money and access channels, and one Thrive/GSA procurement link has real substance. Several elements of the claim are not supported: Boulos-family business in DRC minerals, Thrive stakes in Kalshi or Polymarket, and current foreign financing of Kushner Companies. Most of the other relatives' ventures do not depend on federal decisions.
 
-Origin: connection hunt (no video claim). Builds on C04/C29 (Barron and WLF), C15/C46 (Affinity), C25 (Don Jr. and prediction markets), C45 (Albania) and C48 (library foundation).
+This connection check builds on C04/C29 (Barron and WLF), C15/C46 (Affinity), C25 (Don Jr. and prediction markets), C45 (Albania) and C48 (library foundation).
 
-**Method note.** Direct fetches of Tablet, the Spokesman-Review (NYT syndication) and Wikipedia were blocked here, so the NYT and Tablet findings rely on search-result summaries from several relaying outlets. The session's web-search budget ran out before the WSJ's Gruenbaum report could be checked directly. Points that depend on those sources are graded accordingly.
+**Method note.** Direct fetches of Tablet, the Spokesman-Review (NYT syndication) and Wikipedia were blocked here, so the NYT and Tablet findings rely on search-result summaries from several relaying outlets. The research ended before the WSJ's Gruenbaum report could be checked directly. Points that depend on those sources are graded accordingly.
 
 ## Connections found
 
@@ -94,8 +94,8 @@ Her NIL deals are with TaylorMade (Feb 2025), Leaf Trading Cards, and Accelerato
 - **Frangi as the common thread between the Kushner yacht and the Allam payment.** *Documented in the NYT.* Our own observation: the same intermediary channelled both a family sale and foreign money to Michael Boulos.
 - **Garcia's Boulos inquiry (Aug 2025) and the Garcia/Wyden Kushner probe (Mar 2026).** *Documented.* One congressional channel is pursuing both sets of in-laws.
 
-## Corrections to the brief
-- The brief implies a Boulos minerals/Congo business deal. The record shows only official diplomacy.
+## Corrections
+- The claim implies a Boulos minerals/Congo business deal. The record shows only official diplomacy.
 - No Thrive stake in Kalshi or Polymarket was found.
 - The documented foreign financing of Kushner Companies dates from 2017-18, not now.
 - Aggregators often mix up Massad and Michael Boulos. It was Massad who ran the business in Lagos.

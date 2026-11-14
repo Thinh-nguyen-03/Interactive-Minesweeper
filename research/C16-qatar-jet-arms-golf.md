@@ -6,11 +6,11 @@ The core facts hold up. Qatar's royal family offered a Boeing 747-8, widely valu
 
 Two claims go further than the record:
 - I could not find the "pretty favorable terms" reporting for the drone deal.
-- The video describes the timing as "at the same time". The drone approval actually came about six weeks before the jet story broke.
+- The timing is described as "at the same time". The drone approval actually came about six weeks before the jet story broke.
 
-## What the video says (transcript lines 555-565, speaker Isaac Saul of Tangle News, transcribed "Eisen Saul")
+## The claim (as put by journalist Isaac Saul of Tangle News)
 
-Qatar offered Trump a $400M plane to use as Air Force One, which would then go to his presidential library. At the same time, Qatar was negotiating a $1.96B arms deal "with pretty favorable terms." Trump's family struck a luxury golf deal in Qatar as part of a project worth about $5.5B. "This year" (2026), State approved two more possible sales to Qatar worth $5B, for "advanced precision kill systems" and Patriot missile replenishment. The speaker adds: "Maybe it's all coincidence."
+Qatar offered Trump a $400M plane to use as Air Force One, which would then go to his presidential library. At the same time, Qatar was negotiating a $1.96B arms deal "with pretty favorable terms." Trump's family struck a luxury golf deal in Qatar as part of a project worth about $5.5B. "This year" (2026), State approved two more possible sales to Qatar worth $5B, for "advanced precision kill systems" and Patriot missile replenishment. Saul adds: "Maybe it's all coincidence."
 
 ## Sub-claims
 
@@ -26,7 +26,7 @@ Qatar offered Trump a $400M plane to use as Air Force One, which would then go t
    - ABC's sources said ownership would pass to the Trump Presidential Library Foundation no later than 1 Jan 2029, with the Air Force paying the transfer costs.
    - Trump publicly said it would go to his library.
    - Reports from July and August 2026 call the library destination uncertain, and a House Democrat tried to block it with an amendment.
-   - The video says "maybe he'd get to use it ... as a private citizen". That is speculation. The reported plan is that it goes to the library foundation.
+   - The suggestion that "maybe he'd get to use it ... as a private citizen" is speculation. The reported plan is that it goes to the library foundation.
 
 3. **At the same time, Qatar was negotiating a $1.96B arms deal.** *Confirmed figure; the timing is roughly right but compressed.*
    - DSCA notified Congress on 26 March 2025 of a possible $1.96B sale: 8 MQ-9B drones, plus Hellfires, JDAM kits and bombs.
@@ -36,7 +36,7 @@ Qatar offered Trump a $400M plane to use as Air Force One, which would then go t
 4. **"Pretty favorable terms," per independent reporting.** *Unverified.*
    - I found no reporting that the MQ-9B terms were unusually favourable to Qatar.
    - The documented context: the Biden administration had not approved the sale, and Trump's State Department approved it soon after taking office. It would be the first MQ-9B sale to the Middle East.
-   - The video's link between the jet and the arms deal is insinuation. It points to timing, not to any documented quid pro quo.
+   - The link drawn between the jet and the arms deal is insinuation. It points to timing, not to any documented quid pro quo.
 
 5. **A Trump family golf deal in Qatar, part of a ~$5.5B project.** *Mostly accurate.*
    - On 30 April 2025, Qatari Diar announced a deal with Dar Global to develop a Trump International Golf Club and Trump Villas in Simaisma, about 40 km north of Doha. Qatari Diar is a subsidiary of the Qatar Investment Authority.
@@ -48,10 +48,9 @@ Qatar offered Trump a $400M plane to use as Air Force One, which would then go t
      - Patriot replenishment, about $4.01B: 200 PAC-2 GEM-T and 300 PAC-3 MSE interceptors.
      - APKWS II (the "Advanced Precision Kill Weapon System"), about $992.4M: 10,000 rounds.
    - The total is about $5.0B.
-   - Secretary Rubio invoked emergency authority to waive congressional review, citing the conflict with Iran that began on 28 Feb 2026. The video leaves this out: the sales were replenishment after Iranian strikes on Gulf states.
+   - Secretary Rubio invoked emergency authority to waive congressional review, citing the conflict with Iran that began on 28 Feb 2026. The claim leaves this out: the sales were replenishment after Iranian strikes on Gulf states.
 
 ## Corrections
-- The transcript spells "Eisen Saul". The speaker is Isaac Saul of Tangle News.
 - "At the same time": the $1.96B MQ-9B sale was approved on 26 Mar 2025, and the jet story broke on 11 May 2025. The sale was formally signed on 14 May 2025, during the visit.
 - "$5.5 billion project": that is the total value of the Simaisma masterplan led by Qatari Diar. The Trump Organization licenses its brand through Dar Global and has no disclosed equity stake.
 - "$5 billion" in 2026: the two sales are $4.01B and $992.4M, about $5.0B combined, approved under an emergency waiver tied to the Iran war.

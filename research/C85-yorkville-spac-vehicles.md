@@ -10,11 +10,11 @@ This is a third-layer hunt from C78; the other parent is C62. C78 already maps t
 - the federal autonomous-vehicle (AV) record PlusAI is exposed to;
 - the founder-share economics.
 
-**Access note.** sec.gov, barchart, fortune.com and iisd.org were all blocked for direct fetch in this session. Filing figures below come from search-result summaries of the 8-K, 10-Q and S-1/A filings and from SEC-filing aggregators (Equibles, Medici List, Stock Titan). They are graded on that basis.
+**Access note.** sec.gov, barchart, fortune.com and iisd.org were not read directly. Filing figures below come from search-result summaries of the 8-K, 10-Q and S-1/A filings and from SEC-filing aggregators (Equibles, Medici List, Stock Titan). They are graded on that basis.
 
 ## Summary
 
-The brief holds up partly.
+The claim holds up partly.
 
 **What holds up**
 - **Yorkville International Capital (YICC)**
@@ -168,10 +168,10 @@ The brief holds up partly.
 
 Who owns the Yorkville sponsor LLCs (Yorkville Advisors / Angelo, and whether McGurn, Rillo or any Trump Org or TMTG director holds an interest) is **not disclosed in anything we could read**. No source reports any Trump-family interest in the Yorkville sponsors.
 
-## Corrections to the brief and to C78
+## Corrections (including to C78)
 
 - **YICC size:** the IPO closed at **$230M** (23M units), not $200M (C78 and Wyden used the priced amount).
-- **BLUW's role:** the brief says BLUW "previously bid ~$10B for Citgo's parent; now staffed with TMTG people". The bid was dropped before Yorkville took over, and the Venezuela thread passed to Hernandez's Blue Water IV, not to the Yorkville-run BLUW. Nunes and Glabe on BLUW's board remains single-source (C78).
+- **BLUW's role:** the claim says BLUW "previously bid ~$10B for Citgo's parent; now staffed with TMTG people". The bid was dropped before Yorkville took over, and the Venezuela thread passed to Hernandez's Blue Water IV, not to the Yorkville-run BLUW. Nunes and Glabe on BLUW's board remains single-source (C78).
 - **Citgo "outcome":** there is none yet. The sale is court-approved but un-licensed and under appeal.
 - **"Federal AV rules":** no PlusAI-specific federal action was found. The rules and exemptions are industry-wide.
 

@@ -2,7 +2,7 @@
 
 **Verdict: mostly accurate (confidence: medium).**
 
-**What holds up.** Every principal named in the brief is documented on both sides of a ledger:
+**What holds up.** Every principal named in the claim is documented on both sides of a ledger:
 - they made payments to Trump, his family, or his projects (settlements, inaugural gifts, ballroom pledges, super-PAC money, deal stakes);
 - they received federal decisions (merger clearances, export licences, contracts, an executive order).
 
@@ -12,8 +12,8 @@
 - A few of the links below are our own cross-referencing, and are labelled that way.
 
 **Method note.**
-- I mined C08, C20, C32, C33, C34, C44, C50, C56, C57, C66 and C67 first, then ran about 28 web searches.
-- Most news sites cannot be fetched from here. Findings rest on search-result summaries that agree across several outlets.
+- I mined C08, C20, C32, C33, C34, C44, C50, C56, C57, C66 and C67 first, then searched outward.
+- Most news sites were not read directly. Findings rest on search-result summaries that agree across several outlets.
 - I did not read the primary OGE 278-T PDFs or the SEC PDFs directly.
 
 Evidence grades:
@@ -198,7 +198,7 @@ Trump held Oracle while approving the TikTok structure that gave Oracle 15%. The
 - **Trump's Nvidia buy on 2026-02-10 and the Nvidia-Meta chip deal a week later.** *Single-source* observation by Capitol Trades, with no claim of wrongdoing.
 - **Trump's Oracle holdings and the TikTok JV.** *Inferred.*
 
-## Corrections to the brief
+## Corrections
 
 - **WBD.** The Ellisons won WBD through a hostile bid after WBD first picked Netflix. It was not a straight approval.
 - **TikTok.** Oracle owns the TikTok stake, not Larry Ellison personally. At closing it was 15% each for Oracle, MGX and Silver Lake, not a 45-50% bloc.

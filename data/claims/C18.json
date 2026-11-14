@@ -85,8 +85,8 @@
     }
   ],
   "corrections": [
-    "The transcript's 'Asher' is Asher Genoot, CEO of Hut 8.",
-    "The video says Hut 8 gave away '100% of your Bitcoin mining firm'. Hut 8 actually contributed its miner fleet, kept its energy and data-center business, earns colocation and managed-services fees, and controls and consolidates American Bitcoin.",
+    "The 'Asher' Eric Trump refers to is Asher Genoot, CEO of Hut 8.",
+    "Claimed: Hut 8 gave away '100% of your Bitcoin mining firm'. The record shows: Hut 8 contributed its miner fleet, kept its energy and data-center business, earns colocation and managed-services fees, and controls and consolidates American Bitcoin.",
     "After the Gryphon merger, 80% is Hut 8's approximate voting power rather than exactly its economic stake.",
     "Metaplanet's body is a 'Strategic Board of Advisors', not its board of directors."
   ],
@@ -276,13 +276,13 @@
       "id": "asher-genoot",
       "name": "Asher Genoot",
       "type": "person",
-      "description": "CEO of Hut 8 (the 'Asher' in the transcript)."
+      "description": "CEO of Hut 8 (the 'Asher' Eric Trump refers to)."
     },
     {
       "id": "molly-white",
       "name": "Molly White",
       "type": "person",
-      "description": "Crypto researcher interviewed in the video."
+      "description": "Crypto researcher who has criticised the American Bitcoin deal."
     },
     {
       "id": "metaplanet",
@@ -522,7 +522,7 @@
     {
       "source": "molly-white",
       "target": "american-bitcoin",
-      "label": "criticised in video",
+      "label": "criticised",
       "type": "media"
     }
   ],

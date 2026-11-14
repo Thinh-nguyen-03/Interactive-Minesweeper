@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-The dated facts in the brief hold up:
+The dated facts in the claim hold up:
 - The DOJ and the CFTC closed their Polymarket probes by 2025-07-15, with no charges.
 - That was about six weeks before 1789 Capital invested on 2025-08-26 and Don Jr. joined Polymarket's advisory board.
 - Selig's CFTC sued AZ, CT, IL, NY and WI in April 2026, and later MN and UT.
@@ -14,7 +14,7 @@ Three things are not established:
 - White House "lobbying" beyond one reported briefing of North Carolina lawmakers.
 
 ## Origin
-This is a follow-up lead from C25 (prediction markets, Don Jr.) and C26 (1789 Capital). C25 already covered these points, and they are not repeated here:
+This check builds on C25 (prediction markets, Don Jr.) and C26 (1789 Capital). C25 already covered these points, and they are not repeated here:
 - Don Jr.'s Kalshi and Polymarket roles.
 - The McGovern–Selig exchange.
 - Trump's post of 2026-05-26.
@@ -74,7 +74,7 @@ This is a follow-up lead from C25 (prediction markets, Don Jr.) and C26 (1789 Ca
 
 ### 6. Sen. Curtis sought a Senate Judiciary probe: confirmed
 - **The letter:** On 2026-09-21, Curtis (R-Utah) wrote to Chair Grassley and Ranking Member Durbin. He asked for an investigation into whether presidential family members profited from access [26][27][28].
-- **Subpoenas:** He urged subpoenas for **both Donald Trump Jr. and Hunter Biden**. The brief leaves this out.
+- **Subpoenas:** He urged subpoenas for **both Donald Trump Jr. and Hunter Biden**. The claim leaves this out.
 - **What he cited:** Don Jr.'s Kalshi and Polymarket roles, 1789's stake, crypto, foreign real estate and defense deals.
 - **Outcome:** No committee action was found.
 
@@ -93,7 +93,7 @@ This is a follow-up lead from C25 (prediction markets, Don Jr.) and C26 (1789 Ca
 - **What remains insinuation:** The idea that the closure was a favor linked to the later investment. No reporting documents that.
 
 ## Research limits
-- covers.com and cftc.gov did not resolve from this environment.
+- covers.com and cftc.gov could not be read directly.
 - The NYT and Bloomberg originals were not read directly.
 - Findings rely on consistent coverage across several outlets.
 

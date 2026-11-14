@@ -10,7 +10,7 @@ One related incident is solidly reported. In Oct 2024 Chinese state hackers (Sal
 
 The lead is a user-requested follow-up to C15 (Kushner and Affinity Partners), and the video does not mention it. It asks whether Kushner's phone or communications were hacked: by whom, when, what was accessed, and how this connects to his envoy role, his negotiations and Affinity's Gulf investors.
 
-**Method note:** direct fetches of cybernews.com, dailycaller.com and democrats-judiciary.house.gov failed because those hosts are blocked in this environment. The findings below come from search-result text across about 30 outlets: Newsweek, The Hill, TheWrap, Mediaite, NL Times, DutchNews, Gizmodo, IBTimes, The Week, Democracy Now, Sinclair/KOMO, La Voce di New York, JAMnews and others. No primary Vanity Fair text was read.
+**Method note:** the original pages at cybernews.com, dailycaller.com and democrats-judiciary.house.gov were not read directly. The findings below come from search-result text across about 30 outlets: Newsweek, The Hill, TheWrap, Mediaite, NL Times, DutchNews, Gizmodo, IBTimes, The Week, Democracy Now, Sinclair/KOMO, La Voce di New York, JAMnews and others. No primary Vanity Fair text was read.
 
 ## Sub-claims
 
@@ -70,7 +70,7 @@ The lead is a user-requested follow-up to C15 (Kushner and Affinity Partners), a
 ## Sources
 
 1. Gizmodo, "Report: Dutch Spies Hacked Jared Kushner's iPhone...", 2026-10-22. https://gizmodo.com/report-dutch-spies-hacked-jared-kushners-iphone-watched-him-use-sleazy-middle-eastern-slush-fund-2000829742
-2. Cybernews, "GRU hacked Kushner's iPhone, but the Dutch flipped a Russian spy...", 2026-10 (fetch blocked; search snippet only). https://cybernews.com/security/jared-kushner-hacked-iphone-gru-russia/
+2. Cybernews, "GRU hacked Kushner's iPhone, but the Dutch flipped a Russian spy...", 2026-10 (original not read; search snippet only). https://cybernews.com/security/jared-kushner-hacked-iphone-gru-russia/
 3. NL Times, "Dutch intelligence service spied on phone of Trump's son-in-law Jared Kushner: book", 2026-10-23. https://nltimes.nl/2026/10/23/dutch-intelligence-service-spied-phone-trumps-son-law-jared-kushner-book
 4. DutchNews.nl, "Dutch spies hacked Jared Kushner's phone, alleges book", 2026-10. https://www.dutchnews.nl/2026/10/dutch-spies-hacked-jared-kushners-phone-alleges-book/
 5. Newsweek, "Donald Trump Responds to $2 Billion Jared Kushner Allegation: 'Totally False'", 2026-10-23. https://www.newsweek.com/kushner-rebukes-completely-insane-report-over-hacked-phone-secret-talks-12608268
@@ -79,13 +79,13 @@ The lead is a user-requested follow-up to C15 (Kushner and Affinity Partners), a
 8. TheWrap, "Jared Kushner's Lawyer Demands Vanity Fair Pull Book Excerpt...", 2026-10-23. https://www.thewrap.com/media-platforms/journalism/jared-kushner-lawyer-demands-vanity-fair-book-excerpt-removed/
 9. Mediaite, "'It's a Totally False Story:' Trump Slams Vanity Fair Story on Jared Kushner", 2026-10-23. https://mediaite.com/media/news/its-a-totally-false-story-trump-slams-vanity-fair-story-on-jared-kushner
 10. Mediaite, "Political World Piles on Vanity Fair's Bombshell Jared Kushner Report: 'Bananas'", 2026-10. https://mediaite.com/media/news/political-world-piles-on-vanity-fairs-bombshell-jared-kushner-report-bananas
-11. Daily Caller, "Jared Kushner's Phone Was Hacked — It Exposed An Alleged $2 Billion Foreign Money Web", 2026-10-23 (fetch blocked). https://dailycaller.com/2026/10/23/jared-kushner-phone-hacked-foreign-money-web-united-arab-emirates-saudi-matthew-cole/
+11. Daily Caller, "Jared Kushner's Phone Was Hacked — It Exposed An Alleged $2 Billion Foreign Money Web", 2026-10-23 (original not read directly). https://dailycaller.com/2026/10/23/jared-kushner-phone-hacked-foreign-money-web-united-arab-emirates-saudi-matthew-cole/
 12. La Voce di New York, "Kushner Denies Vanity Fair Claims of Secret Funds from UAE, Azerbaijan", 2026-10-23. https://lavocedinewyork.com/en/news/2026/10/23/kushner-denies-vanity-fair-claims-of-secret-funds-from-uae-azerbaijan/
 13. JAMnews, "Vanity Fair: Trump son-in-law received $750m from Azerbaijani bank", 2026-10. https://jam-news.net/kushners-links-to-azerbaijani-bank/
 14. The Week (India), "Jared Kushner accessed secret billion dollars from UAE, Saudi: What Dutch spies found on hacked phone", 2026-10-23. https://www.theweek.in/news/world/2026/10/23/jared-kushner-accessed-secret-billion-dollars-from-uae-saudi-what-dutch-spies-found-on-hacked-phone.html
 15. Status News, "Vanity Fair's Kushner Conundrum", 2026-10. https://www.status.news/p/jared-kushner-vanity-fair-book-matthew-cole
 16. Democracy Now!, "'Princes and Thieves' Author Matthew Cole on Jared Kushner...", 2026-11-02. https://www.democracynow.org/2026/11/2/matthew_cole_jared_kushner_book
-17. House Judiciary Democrats, "Ranking Member Raskin Demands Jared Kushner Recuse from U.S. Envoy Role in Russia and Iran Conflicts...", 2026-10 (fetch blocked). https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-jared-kushner-recuse-from-us-envoy-role-in-russia-and-iran-conflicts-amid-explosive-reports-of-secret-middle-eastern-slush-funds-and-phone-hacking-by-russian-intelligence-service
+17. House Judiciary Democrats, "Ranking Member Raskin Demands Jared Kushner Recuse from U.S. Envoy Role in Russia and Iran Conflicts...", 2026-10 (original not read directly). https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-jared-kushner-recuse-from-us-envoy-role-in-russia-and-iran-conflicts-amid-explosive-reports-of-secret-middle-eastern-slush-funds-and-phone-hacking-by-russian-intelligence-service
 18. House Judiciary Democrats, "Ranking Member Raskin Opens Sweeping Investigation into US Special Envoy for Peace Jared Kushner...", 2026-04-17. https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-opens-sweeping-investigation-into-us-special-envoy-for-peace-jared-kushner-s-foreign-entanglements-and-staggering-conflicts-of-interest
 19. GV Wire (NYT syndication), "Trump family members and Biden aides among China hack targets", 2024-10-29. https://gvwire.com/2024/10/29/trump-family-members-and-biden-aides-among-china-hack-targets/
 20. Israel Hayom, "FBI: China hacked Trump family phones", 2024-10-30. https://www.israelhayom.com/2024/10/30/fbi-china-hacked-trump-family-phones/

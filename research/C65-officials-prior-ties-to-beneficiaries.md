@@ -1,6 +1,6 @@
 # C65: Officials who decided matters involving their former clients or partners
 
-**Verdict: mostly-accurate (confidence: medium).** Most of the officials named in the brief have documented prior ties (clients, holdings, partners or friends) to parties their offices later affected. In five cases a specific decision lines up with the tie:
+**Verdict: mostly-accurate (confidence: medium).** Most of the officials named in the claim have documented prior ties (clients, holdings, partners or friends) to parties their offices later affected. In five cases a specific decision lines up with the tie:
 
 - Bondi and the Qatar jet memo
 - Blanche and the NCET memo
@@ -10,10 +10,10 @@
 
 Barrack's pipeline push (Reuters) and Bessent's Argentina swap (Mother Jones and Popular Information) are reported by one outlet or a pair of advocacy-leaning ones. For Quintenz, Gould, Kratsios, Patel, Boulos and Charles Kushner we found ties but no benefiting decision. No ethics office, inspector general or court has found a violation in any of these cases. (Audit, Nov 2026: Bondi was fired as AG on Apr 2, 2026; Blanche was acting AG until the Senate confirmed him 50-49 on Aug 8, 2026, and he was sworn in on Aug 10, 2026.)
 
-Method: we mined C12, C14, C16, C25, C26, C34-C36, C38, C43, C49, C52-C54 and C60, then ran web searches. Many outlets block direct fetch, so most findings rely on search-result text from several outlets. The search budget ran out before every thread could be finished; the gaps are listed at the end.
+Method: we mined C12, C14, C16, C25, C26, C34-C36, C38, C43, C49, C52-C54 and C60, then searched outward. Many outlets were not read directly, so most findings rely on search-result text from several outlets. The research ended before every thread could be finished; the gaps are listed at the end.
 
-## What the brief asks
-The brief asks for administration officials whose decisions benefited entities they previously worked for, invested in or were paid by, together with their holdings, recusals, waivers and specific decisions.
+## What was checked
+This check asks for administration officials whose decisions benefited entities they previously worked for, invested in or were paid by, together with their holdings, recusals, waivers and specific decisions.
 
 ## Connections (each graded)
 

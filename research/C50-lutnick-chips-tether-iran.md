@@ -83,7 +83,7 @@ The pitch is documented. A completed trade or profit is not.
 - Tether cites ~$550M in Iran-linked freezes and a 94% volume decline.
 - Cantor denies any tariff-refund positions. It has declined to give the size or use of the Tether loan.
 - All the probes are led by minority Democrats without subpoena power. None alleges a specific crime.
-- Research limits: blumenthal.senate.gov did not resolve in this environment. Findings rest on search summaries that agree across several outlets. Replies to the Raskin and Blumenthal letters were not found.
+- Research limits: blumenthal.senate.gov could not be read directly. Findings rest on search summaries that agree across several outlets. Replies to the Raskin and Blumenthal letters were not found.
 
 ## Sources
 1. Axios, "Scoop: Lutnick stalled Trump's Nvidia-China chip curbs after Oval talks", 2026-11-11. https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls
@@ -117,7 +117,7 @@ The pitch is documented. A completed trade or profit is not.
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (independent re-verification with fresh web searches)
+**Result: upheld** (independent re-verification with fresh searches)
 
 Checked:
 - Axios (11 Nov 2026): Lutnick stalled Trump-approved curbs on Nvidia-chip diversion, plus the Commerce denial

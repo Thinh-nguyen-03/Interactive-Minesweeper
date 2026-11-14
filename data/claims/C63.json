@@ -161,7 +161,7 @@
     }
   ],
   "corrections": [
-    "The brief lists 'StringZ Holding RSC' as offshore. 'RSC' points to an Abu Dhabi Global Market restricted-scope company, and the '(DE)' suffix to a Delaware LLC. Neither is confirmed by a registry record, and its link to Aryam Investment 1 is unknown.",
+    "The claim lists 'StringZ Holding RSC' as offshore. 'RSC' points to an Abu Dhabi Global Market restricted-scope company, and the '(DE)' suffix to a Delaware LLC. Neither is confirmed by a registry record, and its link to Aryam Investment 1 is unknown.",
     "CIC Ventures is not a 2024 vehicle. Trump listed it on his 2023 disclosure; the 2024 formation was the licensee 45Footwear LLC (31 Jan 2024).",
     "MKT World LLC is variously described as Florida-registered (DL News) and Delaware-incorporated and registered in Florida as a foreign LLC (Protos). Both can be true; the state of formation is unverified.",
     "The claim that Aryam Investment 1 was formed as twin Delaware and Abu Dhabi companies in Dec 2024 appears only on a non-news dossier site and is unverified."
@@ -173,7 +173,7 @@
     "Affinity says it is neither investor nor developer in Albania. Kushner calls himself a minority partner.",
     "A shared registered agent or formation firm is routine and is not evidence of common ownership or wrongdoing.",
     "Fight Fight Fight has not publicly answered the Senate letters. Trump Mobile, the Trump Organization and Liberty Mobile did not answer questions about the Oct 2026 breach reports.",
-    "Method limits: state and ADGM registries, OCC and House PDFs, Protos and DL News could not be fetched from this environment, and the web-search budget ran out mid-research. Formation dates and agents for Axiom, WC Digital Fi, WLF Holdco, CRO Strategy, Designers Manager and Celebration Cards were not found."
+    "Method limits: state and ADGM registries, OCC and House PDFs, Protos and DL News could not be read directly, and the research ended before every thread was checked. Formation dates and agents for Axiom, WC Digital Fi, WLF Holdco, CRO Strategy, Designers Manager and Celebration Cards were not found."
   ],
   "sources": [
     {

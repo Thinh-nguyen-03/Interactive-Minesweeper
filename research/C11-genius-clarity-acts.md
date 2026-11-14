@@ -2,9 +2,7 @@
 
 **Verdict: mostly-accurate (confidence: medium)**
 
-Transcript lines 469-481.
-
-## What the video says
+## The claim
 - Trump is "deeply involved" in passing the GENIUS Act and the CLARITY Act, and the legislation directly affects Trump-family businesses.
 - "His son boasts on Twitter that USD1 is now the second largest GENIUS compliant stable coin."
 - Trump helped shape the GENIUS Act and made public statements supporting it.
@@ -15,7 +13,7 @@ Transcript lines 469-481.
 
 1. **Trump pushed the GENIUS Act: confirmed.** After the Senate passed the bill 68-30 on June 17, 2025, Trump posted on Truth Social that the House should move "LIGHTNING FAST" and pass a "clean" GENIUS Act: "Get it to my desk, ASAP — NO DELAYS, NO ADD ONS" [3][4]. He also stepped in personally when 12-13 House Republicans (mostly Freedom Caucus members) voted down the procedural rule 196-223 on July 15, 2025. That evening he announced from the Oval Office that 11 of the 12 holdouts had agreed to back it [5][6][7]. The House passed the bill 308-122 on July 17, and Trump signed it on July 18, 2025 [1][2]. "Shaping the legislation" is supported in a looser sense: the White House pushed for a clean bill, and Democratic amendments that would have barred the president and his family from profiting were not adopted [9][10]. I found no evidence that Trump personally drafted the text.
 
-2. **Trump pushed the CLARITY Act: confirmed, with context.** CLARITY was part of the same "Crypto Week" package. The holdout deal covered the rule for all the crypto bills, and the House passed CLARITY 294-134 on July 17, 2025 [2][11]. The video implies CLARITY was being passed alongside GENIUS. In fact it never became law. It cleared Senate Banking 15-9 in May 2026, then failed a Senate cloture vote 49-50 on September 15, 2026, and it is stalled as of November 2026 [11][12][13].
+2. **Trump pushed the CLARITY Act: confirmed, with context.** CLARITY was part of the same "Crypto Week" package. The holdout deal covered the rule for all the crypto bills, and the House passed CLARITY 294-134 on July 17, 2025 [2][11]. The claim implies CLARITY was being passed alongside GENIUS. In fact it never became law. It cleared Senate Banking 15-9 in May 2026, then failed a Senate cloture vote 49-50 on September 15, 2026, and it is stalled as of November 2026 [11][12][13].
 
 3. **"Nighttime calls" to get votes: confirmed, mainly from Trump's own words.** News reports document an evening Oval Office meeting (Trump posted shortly before 9 p.m. ET on July 15, 2025) and "multiple conversations with Trump" before the holdouts switched [5][6][7]. At the signing ceremony, Trump himself said he had been making phone calls "at 2:00, 3:00, 4:00 in the morning" and recalled being "about four short at 3:30 in the morning" [8]. So the late-night calls are documented, but the detail about the hour comes from Trump's own account.
 
@@ -29,7 +27,7 @@ Transcript lines 469-481.
    
    "GENIUS compliant" is a company marketing claim, not a regulatory finding. The Act's rules are not yet in effect, and the Bank Policy Institute (June 2026) argued that USD1's money-market-fund reserves would not meet GENIUS reserve requirements [18].
 
-6. **The rules were written around the time USD1 was created: confirmed on timing.** Sen. Hagerty introduced the GENIUS Act on February 4, 2025. WLF announced USD1, with BitGo as reserve custodian, on March 25, 2025. That was during the bill's drafting and before the Senate committee markup [19][20]. The claim that USD1 got a "leg up" is the video's interpretation. It is plausible given the timing and the Trump-family link, but it is not a documented causal fact.
+6. **The rules were written around the time USD1 was created: confirmed on timing.** Sen. Hagerty introduced the GENIUS Act on February 4, 2025. WLF announced USD1, with BitGo as reserve custodian, on March 25, 2025. That was during the bill's drafting and before the Senate committee markup [19][20]. The claim that USD1 got a "leg up" is an interpretation. It is plausible given the timing and the Trump-family link, but it is not a documented causal fact.
 
 ## Corrections
 - The CLARITY Act passed only the House (294-134, July 17, 2025). It failed Senate cloture 49-50 on September 15, 2026 and is not law. Only the GENIUS Act was enacted (signed July 18, 2025).

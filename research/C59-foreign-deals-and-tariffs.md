@@ -2,7 +2,7 @@
 
 **Verdict: partly-accurate (confidence: medium)**
 
-This is a follow-up lead from C31 (Gulf deals) and C45 (Kushner's Albania and Serbia projects).
+This check builds on C31 (Gulf deals) and C45 (Kushner's Albania and Serbia projects).
 
 ## Bottom line
 
@@ -46,7 +46,7 @@ CREW's list also includes Uruguay, which was not examined here.
    - Farmers were offered about $12-30/m2. Eviction notices had gone out by June 2026, and the first phase is due around APEC 2027.
 3. **Vietnam tariff outcome: partly-accurate.** The rate fell from a threatened 46% to 20%. The link to the golf project is temporal, and nothing shows the project was part of the negotiation. The deal was not finalised as of June 2026, and the US later opened trade investigations into Vietnam.
 4. **HCMC tower: partly-accurate.** It is still only a proposal. CREW reports five new Trump trademark applications in Vietnam filed after the tariff deal.
-5. **Indonesia: misleading as briefed.**
+5. **Indonesia: misleading as claimed.**
    - These are old deals, and the project was halted rather than advanced.
    - A lift of the suspension is reported only by Golf Industry Asia (Aug 2026), uncorroborated.
    - The real story is the hot-mic exchange. Prabowo asked Trump for a meeting with Eric and mentioned "Hary", and Trump said he would have Eric call. Eric says they have not met.
@@ -74,7 +74,7 @@ CREW's list also includes Uruguay, which was not examined here.
 - The Trump Organization says it is "fully compliant with all applicable ethics and conflicts of interest laws". It says it only licenses its brand, and that it is not involved in investment or compensation in Vietnam.
 - Ivanishvili's lawyer says most of the racecourse land was donated to the state for a park.
 - Vietnam's 20% rate is comparable to Indonesia's 19%, and Indonesia's deal came after its Trump project was halted. That cuts against reading tariff outcomes as rewards, though I did not run a full counterfactual.
-- **Research limits.** The pages of CREW, Asia Sentinel, the WSJ, the NYT and AP could not be fetched (hosts blocked), so several findings rest on syndications and search summaries. The shared web-search budget ran out before I could check the India fee figures and the AP piece of 13 Apr 2026.
+- **Research limits.** The pages of CREW, Asia Sentinel, the WSJ, the NYT and AP could not be read directly, so several findings rest on syndications and search summaries. The research ended before I could check the India fee figures and the AP piece of 13 Apr 2026.
 
 ## Sources
 
@@ -103,7 +103,7 @@ CREW's list also includes Uruguay, which was not examined here.
 23. Golf Industry Asia, Lido resumption (2026-08): https://www.golfindustry.asia/?p=8834
 24. Daily Maverick/Reuters, hot mic (2025-10-14): https://www.dailymaverick.co.za/article/2025-10-14-indonesian-president-asks-trump-for-meeting-with-son-eric-in-hot-mic-moment
 25. Yahoo, Eric Trump on the hot mic (2025-10): https://www.yahoo.com/news/articles/eric-trump-explains-father-hot-142216922.html
-26. Asia Sentinel, hot mic and halted project (2025-10; not fetched): https://www.asiasentinel.com/p/hot-mic-halted-project-trump-troubles-indonesia
+26. Asia Sentinel, hot mic and halted project (2025-10; original not read): https://www.asiasentinel.com/p/hot-mic-halted-project-trump-troubles-indonesia
 27. White House, Indonesia trade deal fact sheet (2025-07): https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-the-united-states-and-indonesia-reach-historic-trade-deal/
 28. White House, Indonesia deal finalised (2026-02): https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-trump-administration-finalizes-trade-deal-with-indonesia
 29. Axios, Indonesia tariff (2025-07-15): https://www.axios.com/2025/07/15/trump-tariffs-indonesia

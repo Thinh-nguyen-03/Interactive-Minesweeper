@@ -8,11 +8,11 @@ The legal track has gone the other way. Judge Jennifer Rochon (SDNY) dismissed t
 
 On $TRUMP, the operators (Fight Fight Fight LLC / Bill Zanker and CIC Digital), Meteora's role as launch venue, the fee and sale revenue estimates and the early-buyer windfalls are all documented. No source puts Davis or Kelsier in charge of $TRUMP.
 
-## What the lead says
+## The claim
 
-This is a follow-up from C01/C02, not a quote from the video. It claims that:
+This check builds on C01/C02. It claims that:
 - a class action and on-chain reporting allege that $MELANIA and $LIBRA were run by Davis/Kelsier with Chow as a pump-and-dump, with insiders taking about $10M+ and public figures used as "props";
-- the brief also asks who operated $TRUMP, what early-wallet sniping and trading-fee revenue amounted to, and the status of litigation and regulatory action.
+- this check also asks who operated $TRUMP, what early-wallet sniping and trading-fee revenue amounted to, and the status of litigation and regulatory action.
 
 ## Sub-claims
 
@@ -130,7 +130,7 @@ This is a follow-up from C01/C02, not a quote from the video. It claims that:
 32. Axios, "Why the SEC staff ruled out actions on meme coins", 2025-03-03. https://www.axios.com/2025/03/03/meme-coins-sec
 33. The Block, "Trump memecoin issuer pursues $200 million funding to build digital asset treasury", 2025-10. https://www.theblock.co/amp/post/373745/trump-memecoin-issuer-plans-funding
 
-**Method note:** direct fetches of protos.com, solanacompass.com, decrypt.co and coindesk.com failed because those hosts are outside this session's network allowlist. Their content, and that of other outlets, is cited from search-result summaries across several publications. The SDNY opinion and the docket were not read directly. Dates marked "2025-10" or similar are approximate.
+**Method note:** the original pages at protos.com, solanacompass.com, decrypt.co and coindesk.com were not read directly. Their content, and that of other outlets, is cited from search-result summaries across several publications. The SDNY opinion and the docket were not read directly. Dates marked "2025-10" or similar are approximate.
 
 
 ## Audit (second-opinion pass, Nov 2026)

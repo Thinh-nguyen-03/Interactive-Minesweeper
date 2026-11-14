@@ -64,7 +64,7 @@
     {
       "statement": "The regulation was written around the time USD1 was created, giving USD1 a leg up.",
       "verdict": "partly-accurate",
-      "finding": "The timing is accurate: the GENIUS Act was introduced in the Senate in February 2025, and WLF announced USD1 with BitGo custody on March 25, 2025, while the bill was being negotiated. That this gave USD1 a 'leg up' is the video's interpretation. It is plausible but not documented as causal.",
+      "finding": "The timing is accurate: the GENIUS Act was introduced in the Senate in February 2025, and WLF announced USD1 with BitGo custody on March 25, 2025, while the bill was being negotiated. That this gave USD1 a 'leg up' is an interpretation. It is plausible but not documented as causal.",
       "sources": [
         "https://www.theblock.co/amp/post/347995/world-liberty-financial-debuts-plan-for-usd1-stablecoin-as-president-trump-continues-push-for-crypto-legislation",
         "https://blockworks.co/news/bitgo-to-custody-wlfi-usd1",
@@ -73,8 +73,8 @@
     }
   ],
   "corrections": [
-    "The video pairs the GENIUS and CLARITY Acts as legislation Trump is getting passed. Only GENIUS became law (signed 2025-07-18). CLARITY passed the House 294-134 but failed Senate cloture 49-50 on 2026-09-15.",
-    "Transcript says a Trump son boasted USD1 is 'the second largest GENIUS compliant stablecoin'. No such post was found. Eric Trump's documented January 2026 X post said USD1 had passed PayPal's PYUSD, and by total market cap USD1 was roughly 4th-6th, not 2nd.",
+    "The GENIUS and CLARITY Acts are often paired as legislation Trump is getting passed. Only GENIUS became law (signed 2025-07-18). CLARITY passed the House 294-134 but failed Senate cloture 49-50 on 2026-09-15.",
+    "Claimed: a Trump son boasted USD1 is 'the second largest GENIUS compliant stablecoin'. The record shows: no such post was found. Eric Trump's documented January 2026 X post said USD1 had passed PayPal's PYUSD, and by total market cap USD1 was roughly 4th-6th, not 2nd.",
     "The 'nighttime calls' are sourced mainly to Trump's own remarks at the signing (calls at 2-4 a.m.). Press reports document an evening Oval Office meeting with holdouts on 2025-07-15.",
     "The write-up previously gave '$57.3M from WLF' as the 2025 disclosure figure; that was the June 2025 filing covering 2024. The filing for calendar 2025 (released 2026-06-30) reports about $526M from WLF token sales."
   ],

@@ -20,7 +20,7 @@ This file asks a narrower question: who got, or sought, which Congolese asset un
 - **Manono** went to KoBold Metals.
 - **A 40% stake in Glencore's DRC mines** is covered by an MOU with the DFC/ADQ-backed Orion consortium.
 
-**Three parts of the brief do not hold up as written:**
+**Three parts of the claim do not hold up as written:**
 - **Beach and Chemaf:** we found no source linking Beach to Chemaf.
 - **UBA:** the bank financed a rival bidder, Buenassa, not a winner.
 - **Boulos:** no source shows a Boulos-family stake in any DRC asset.
@@ -40,7 +40,7 @@ This file asks a narrower question: who got, or sought, which Congolese asset un
 - **Status:** We found no signed deal through Nov 2026.
 - **The family:** Sources told Africa.com the Trump family has no direct involvement.
 
-### 3. Beach's use of the Don Jr. relationship, and the cease-and-desist. Grade: single-source (WSJ, about Oct 2025, via the Daily Beast, Raw Story and Ground News; not fetched)
+### 3. Beach's use of the Don Jr. relationship, and the cease-and-desist. Grade: single-source (WSJ, about Oct 2025, via the Daily Beast, Raw Story and Ground News; original not read)
 - **In Congo:** Beach toured Central Africa seeking concessions as "economic diplomacy" that he credited to Trump. Congolese officials say he showed them text messages with Don Jr.
 - **The letter:** Don Jr.'s lawyer sent a cease-and-desist letter in August 2025. Beach denies receiving it. The WSJ says texts show he confirmed receipt.
 - **Pakistan:** Officials there asked Don Jr. whether Beach spoke for the administration, and Don Jr. said he does not do business with him.
@@ -69,7 +69,7 @@ None of the coverage names Beach.
 - **US position:** State "fully supports" Virtus. Africa Intelligence (single-source, via Africa Is a Country) describes an "aggressive pressure campaign" by Trump officials on Virtus's behalf.
 - **Family ties:** We found no Trump-family, Boulos or Beach tie to Virtus. This is state favouritism toward a chosen US firm, not a documented family benefit.
 
-### 6. UBA's financing. Grade: single-source (Semafor, Jan 26, 2026). Verdict: confirmed, but not as briefed
+### 6. UBA's financing. Grade: single-source (Semafor, Jan 26, 2026). Verdict: confirmed, but not as claimed
 - **What it was:** UBA drafted a $50M working-capital facility for Buenassa's bid for Chemaf. Buenassa was a rival to the US-favoured Virtus. There is no report that the facility closed.
 - **Boulos:** No source ties UBA or Elumelu to Boulos. The fact that both have a Nigerian base is our own weak inference.
 
@@ -99,7 +99,7 @@ None of the coverage names Beach.
 - **Global Witness:** It lists both the DRC and Rwanda among countries paying Trump-linked firms.
 
 ## Not connected in the coverage we found
-- **Beach and Chemaf:** not found. The brief's pairing appears to be an error.
+- **Beach and Chemaf:** not found. The claim's pairing appears to be an error.
 - **Boulos family and any DRC asset (Rubaya, Chemaf, Manono, Glencore):** not found, consistent with C65 and C66.
 - **UBA or Buenassa and Boulos's Nigerian network:** inferred only from a shared country. No source asserts it.
 - **ADQ in Orion CMC and Tahnoon's WLF stake as one channel:** inferred from co-occurrence across C06, C57 and this file.
@@ -107,8 +107,8 @@ None of the coverage names Beach.
 - **Rwanda's Trump-linked lobbying and Beach's Kigali-smelter routing:** inferred. Each element has its own source, but no source links them.
 - **Virtus, KoBold or Orion and the Trump family:** none found.
 
-## Corrections to the brief
-- The brief pairs Beach with Chemaf. In the record, Beach is tied to Rubaya, and Chemaf went to Virtus/Orion.
+## Corrections
+- The claim pairs Beach with Chemaf. In the record, Beach is tied to Rubaya, and Chemaf went to Virtus/Orion.
 - UBA's $50M was a draft facility for a losing rival, Buenassa.
 - Beach's firm is America First Global in the Congo coverage and White-Bridge Global in the Pakistan coverage.
 - The "Washington Accords" date to Dec 4, 2025. The June 2025 document was the initial peace agreement.
@@ -124,7 +124,7 @@ None of the coverage names Beach.
 - **What this does not show:** steering assets to named US firms is not evidence of personal gain by officials.
 
 ## Method note
-I used about 28 web searches. Direct fetches of mining.com and thedailybeast.com were blocked in this environment, so WSJ, Reuters and Bloomberg material comes via syndications and search-result excerpts, as marked above.
+ The original pages at mining.com and thedailybeast.com were not read directly, so WSJ, Reuters and Bloomberg material comes via syndications and search-result excerpts, as marked above.
 
 ## Sources
 1. Reuters via Mining.com, "Trump ally eyes Congo mine vital to global tech", Jul 2025. https://www.mining.com/trump%E2%80%91ally-eyes-congo-mine-vital-to-global-tech/

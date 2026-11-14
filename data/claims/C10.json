@@ -66,9 +66,9 @@
     }
   ],
   "corrections": [
-    "Transcript implies Binance was among the very first to list USD1; HTX, MEXC and KuCoin listed it before Binance's 2025-05-22 listing.",
-    "Transcript says customers were paid 20% annual yield; the record shows a capped (~50,000 USD1/user per reports), roughly one-month promotional APR of 'up to' 20% (Dec 2025-Jan 2026).",
-    "Transcript says WLF makes $159M annually; WLF's April 2026 figure was a $159.5M annualized run rate, not realized annual revenue.",
+    "Claimed (by implication): Binance was among the very first to list USD1. The record shows: HTX, MEXC and KuCoin listed it before Binance's 2025-05-22 listing.",
+    "Claimed: Customers were paid 20% annual yield. The record shows: a capped (~50,000 USD1/user per reports), roughly one-month promotional APR of 'up to' 20% (Dec 2025-Jan 2026).",
+    "Claimed: WLF makes $159M annually. The record shows: WLF's April 2026 figure was a $159.5M annualized run rate, not realized annual revenue.",
     "The WSJ chart could not be independently accessed; comparable Bloomberg (2026-06-05) and Forbes (2026-02-09) analyses support the Binance-concentration point."
   ],
   "denials_and_context": [
@@ -246,7 +246,7 @@
       "id": "wall-street-journal",
       "name": "The Wall Street Journal",
       "type": "media",
-      "description": "Cited in the video for charting USD1 adoption against Binance activity."
+      "description": "Reported to have charted USD1 adoption against Binance activity (chart not independently accessed)."
     },
     {
       "id": "bloomberg",
@@ -380,7 +380,7 @@
     {
       "source": "wall-street-journal",
       "target": "usd1",
-      "label": "charted adoption of (per video; not independently accessed)",
+      "label": "charted adoption of (as claimed; not independently accessed)",
       "type": "media"
     },
     {

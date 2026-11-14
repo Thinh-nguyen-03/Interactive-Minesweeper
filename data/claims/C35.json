@@ -93,7 +93,7 @@
     "Cantor: the trusts' purchase was 'funded through multiple sources... at market rates and market prices'. It declined to give the loan's size or use.",
     "Lutnick backed stablecoin audits and 100% Treasury backing at his hearing and denied owning Tether.",
     "The congressional letters come from Democrats in the minority without subpoena power. None alleges a specific crime.",
-    "Research limits: direct fetches of theblock.co, decrypt.co, bloomberglaw, banking.senate.gov and hsgac.senate.gov failed in this environment, so findings rest on search summaries that agree across outlets. Tether's valuation and Cantor's Nvidia holdings were checked in the audit pass; Cantor's other SPACs were not."
+    "Research limits: the original pages at theblock.co, decrypt.co, bloomberglaw, banking.senate.gov and hsgac.senate.gov were not read directly, so findings rest on search summaries that agree across outlets. Tether's valuation and Cantor's Nvidia holdings were checked in the audit pass; Cantor's other SPACs were not."
   ],
   "sources": [
     {
@@ -766,7 +766,7 @@
   "leads": [
     {
       "title": "Lutnick reportedly stalled curbs on Nvidia-chip diversion to China",
-      "why_connected": "Commerce under Lutnick controls the chip-export licences cited in the brief and in C08.",
+      "why_connected": "Commerce under Lutnick controls the chip-export licences cited in the claim and in C08.",
       "entities": [
         "howard-lutnick",
         "us-commerce-department",

@@ -1,6 +1,6 @@
 # C74: Pentagon investment offices: Cerberus alumni, no-bid contracts and the Trump sons' SPAC underwriter
 
-**Verdict: mostly-accurate (confidence: medium).** Every role, contract and loan in the brief is documented. The connections between them are a different matter. Some are documented: Feinberg to Lorch and Kollitides via Cerberus; Kollitides to Alvarez & Marsal; Kollitides to D. Boral Acquisition I. Others are inferred from shared names and timing: the D. Boral to Trump-sons chain, and OSC loans to Trump-linked firms. We found no evidence that any Cerberus alum steered a Pentagon decision toward a Trump-family interest, and the Pentagon says all ethics rules were followed. On recusals, the Pentagon says Feinberg is recused from Cerberus matters. A single-source report says Cerberus-related deals are routed to Commerce Secretary Lutnick. We found no published recusal or waiver for Kollitides or Lorch.
+**Verdict: mostly-accurate (confidence: medium).** Every role, contract and loan in the claim is documented. The connections between them are a different matter. Some are documented: Feinberg to Lorch and Kollitides via Cerberus; Kollitides to Alvarez & Marsal; Kollitides to D. Boral Acquisition I. Others are inferred from shared names and timing: the D. Boral to Trump-sons chain, and OSC loans to Trump-linked firms. We found no evidence that any Cerberus alum steered a Pentagon decision toward a Trump-family interest, and the Pentagon says all ethics rules were followed. On recusals, the Pentagon says Feinberg is recused from Cerberus matters. A single-source report says Cerberus-related deals are routed to Commerce Secretary Lutnick. We found no published recusal or waiver for Kollitides or Lorch.
 
 Builds on: C65 (sub-claim on Feinberg and Cerberus), C51 (drone ventures, OSC drone loans), C26 (1789 and Vulcan), and C47 and C27 (Dominari, D. Boral and the New America SPAC). This report does not repeat facts those files already establish. It extends them.
 
@@ -80,11 +80,11 @@ These links are our own cross-referencing. No outlet asserts them.
 
 - C51 gave no figure for the PDW OSC loan. The figure is a conditional commitment of up to $820M (Jul. 31, 2026).
 - C65 says Kollitides "later resigned" from D. Boral Acquisition I. The 8-K puts the resignation at Sep. 23, 2026, for "personal reasons".
-- The brief says Kollitides runs an OSC-related office. He heads the Economic Defense Unit, a separate office that reports to Feinberg. Lorch is the OSC director.
+- The claim says Kollitides runs an OSC-related office. He heads the Economic Defense Unit, a separate office that reports to Feinberg. Lorch is the OSC director.
 
 ## Method notes
 
-Direct fetches of news.bloomberglaw.com, sec.gov, defenseone.com and responsiblestatecraft.org failed in this environment because those hosts are not on the allowed network list. Findings rest on search-result excerpts across several outlets. The SEC 8-K details come from search snippets of EDGAR documents. The ProPublica article was read only through syndication (Defense One, GovExec).
+The original pages at news.bloomberglaw.com, sec.gov, defenseone.com and responsiblestatecraft.org were not read directly. Findings rest on search-result excerpts across several outlets. The SEC 8-K details come from search snippets of EDGAR documents. The ProPublica article was read only through syndication (Defense One, GovExec).
 
 ## Sources
 

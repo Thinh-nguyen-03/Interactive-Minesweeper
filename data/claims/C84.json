@@ -8,7 +8,7 @@
     {
       "statement": "Heritage Advisors is Sheikh Sultan bin Jassim Al Thani's vehicle, and its Newsmax stake sits in a disclosed US ownership chain (Naples Investment Holdco LLC -> Heritage Investments LP -> Heritage GP -> a trust of which he is sole beneficiary).",
       "verdict": "confirmed",
-      "finding": "DOCUMENTED (SEC filing as relayed by filing aggregators; sec.gov itself could not be fetched here). A Form 3 filed around 1 May 2025, after Newsmax's 31 March 2025 NYSE listing, shows Naples Investment Holdco LLC holding 19,737,553 Class B shares. Heritage Investments LP is Holdco's sole member, and Sheikh Sultan is sole beneficiary of the Heritage Trust at the top of the chain. ICIJ/WaPo (March 2024) reported the stake had earlier been moved into a Cayman Islands structure. Measured against Ruddy's 39.24M shares (about 30.4%), Holdco's block is roughly 15% of outstanding shares. That is our arithmetic, and it matches a Forbes-based 15% figure relayed by a low-authority ownership site. At the first-day close of $83.51 the block was worth about $1.65B, against the roughly $50M paid in 2019-20; this is also our arithmetic. The stock fell sharply afterwards, and we did not establish the current value or any sale after the 29 September 2025 lockup expiry.",
+      "finding": "DOCUMENTED (SEC filing as relayed by filing aggregators; sec.gov itself could not be read directly). A Form 3 filed around 1 May 2025, after Newsmax's 31 March 2025 NYSE listing, shows Naples Investment Holdco LLC holding 19,737,553 Class B shares. Heritage Investments LP is Holdco's sole member, and Sheikh Sultan is sole beneficiary of the Heritage Trust at the top of the chain. ICIJ/WaPo (March 2024) reported the stake had earlier been moved into a Cayman Islands structure. Measured against Ruddy's 39.24M shares (about 30.4%), Holdco's block is roughly 15% of outstanding shares. That is our arithmetic, and it matches a Forbes-based 15% figure relayed by a low-authority ownership site. At the first-day close of $83.51 the block was worth about $1.65B, against the roughly $50M paid in 2019-20; this is also our arithmetic. The stock fell sharply afterwards, and we did not establish the current value or any sale after the 29 September 2025 lockup expiry.",
       "sources": [
         "https://www.sec.gov/Archives/edgar/data/1391405/0000897069-25-000688-index.html",
         "https://quantisnow.com/insight/new-insider-naples-investment-holdco-llc-claimed-ownership-of-19737553-6013846",
@@ -49,7 +49,7 @@
     {
       "statement": "Lee Zeldin was paid by Heritage Advisors in 2023, before joining the administration, and divested his consulting firm under his ethics agreement.",
       "verdict": "confirmed",
-      "finding": "DOCUMENTED (OGE 278e; Jewish Insider; The Intercept). Heritage Advisors (London) is listed as a client of Zeldin Strategies, with compensation above $5,000 for April-December 2023. Zeldin said the work required no FARA registration and that he never lobbied or did media work for the firm. E&E News reports he drew $775,000 in salary from Zeldin Strategies overall. His 2025 ethics agreement commits him to divest the firm and to recuse from EPA matters involving his wife Diana Zeldin's clients, since she works there; this is per search excerpts, as OGE PDFs could not be fetched here. Whether Heritage stayed a client after his confirmation is not established. His 2026 annual 278e (signed 13 May 2026) exists, but we could not read its entries. Per Quincy, the Heritage engagement began shortly after a 2023 Newsweek op-ed in which Zeldin criticised Qatari influence.",
+      "finding": "DOCUMENTED (OGE 278e; Jewish Insider; The Intercept). Heritage Advisors (London) is listed as a client of Zeldin Strategies, with compensation above $5,000 for April-December 2023. Zeldin said the work required no FARA registration and that he never lobbied or did media work for the firm. E&E News reports he drew $775,000 in salary from Zeldin Strategies overall. His 2025 ethics agreement commits him to divest the firm and to recuse from EPA matters involving his wife Diana Zeldin's clients, since she works there; this is per search excerpts, as OGE PDFs could not be read directly. Whether Heritage stayed a client after his confirmation is not established. His 2026 annual 278e (signed 13 May 2026) exists, but we could not read its entries. Per Quincy, the Heritage engagement began shortly after a 2023 Newsweek op-ed in which Zeldin criticised Qatari influence.",
       "sources": [
         "https://jewishinsider.com/2025/02/lee-zeldin-epa-administrator-qatar-financial-disclosures/",
         "https://theintercept.com/2025/02/11/trump-qatar-ethics-patel-zeldin-bondi/",
@@ -119,7 +119,7 @@
   ],
   "corrections": [
     "C73 gives the Newsmax stake only as the ~$50M invested in 2019-20. SEC filings show 19,737,553 Class B shares, about 15% (our arithmetic), worth roughly $1.65B at the first-day close.",
-    "The brief's phrase 'Newsmax's dealings with the administration' implies favourable treatment. The documented record shows Newsmax opposing the FCC's Nexstar-Tegna approval and leaving the Pentagon under Hegseth's rules; its defamation settlements were private disputes.",
+    "The claim's phrase 'Newsmax's dealings with the administration' implies favourable treatment. The documented record shows Newsmax opposing the FCC's Nexstar-Tegna approval and leaving the Pentagon under Hegseth's rules; its defamation settlements were private disputes.",
     "Heritage's deal with Daibes was finalized in December 2022 for $45M for a quarter stake (FDD, Daily Beast). The indictment's 2023 joint-venture language refers to the same relationship.",
     "C73 could not read the Free Beacon jet article. Its claim is that Sheikh Sultan is an HBJ confidant and business partner, from an anonymous source; it does not say Heritage owns the jet.",
     "Audit: the Daibes '$1M' was graded documented here but single-source in C83; it rests on NBC's three unnamed sources (the LDA filings document the engagement). Sub-claim 9 is now mostly-accurate and labels say so."
@@ -131,7 +131,7 @@
     "Newsmax denied softening its coverage of Qatar.",
     "Zeldin's spokesperson declined to comment. A Senate Republican aide said he disclosed all that was required. Zeldin says the work required no FARA registration and involved no lobbying.",
     "Daibes's lawyer says he ended the Javelin engagement in June 2025. The White House said the President alone decides pardons.",
-    "Network note: icij.org, sec.gov and oge.gov could not be fetched from this environment; findings rest on search-result text across several outlets."
+    "Network note: icij.org, sec.gov and oge.gov could not be read directly; findings rest on search-result text across several outlets."
   ],
   "sources": [
     {

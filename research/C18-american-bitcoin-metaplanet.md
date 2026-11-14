@@ -2,19 +2,19 @@
 
 **Verdict: mostly accurate** (confidence: medium-high)
 
-## What the video says (transcript lines 569-607)
+## The claim
 - Eric Trump became a "strategic board advisor" to the Japanese bitcoin company Metaplanet as Trump took office and called himself the "crypto president".
 - Eric and Don Jr. are part of / part owners of American Bitcoin, which is 80% owned by Hut 8, "an energy infrastructure company".
 - The Trump family is linked to "like five" bitcoin/crypto treasury companies (Molly White).
 - American Bitcoin is a treasury company and supposedly a miner, made public through a merger.
-- Hut 8 gave its mining equipment to American Bitcoin for an 80% share, with no cash known to have changed hands. The video asks "why would you give away 100% of your Bitcoin mining firm".
+- Hut 8 gave its mining equipment to American Bitcoin for an 80% share, with no cash known to have changed hands. The question raised is "why would you give away 100% of your Bitcoin mining firm".
 - CEO Matt Prusak told Wired that the Trump brothers brought two things: access to capital markets and "narrative".
 - Eric Trump: "We do have the goal to be the biggest... Asher and I talk about that all the time." ("Asher" is Hut 8 CEO Asher Genoot.)
 - American Bitcoin's stock has performed poorly.
 
 ## Evidence by sub-claim
 
-1. **Eric Trump and Metaplanet: confirmed.** On March 21, 2025, Tokyo-listed Metaplanet named Eric Trump the first member of its newly formed Strategic Board of Advisors. That was about two months after the January 20 inauguration. Reuters, CoinDesk, Decrypt, The Block and Cointelegraph all reported it [1][2][3][4]. The body is an advisory board, not Metaplanet's board of directors. The video's wording ("strategic board advisor") is close enough.
+1. **Eric Trump and Metaplanet: confirmed.** On March 21, 2025, Tokyo-listed Metaplanet named Eric Trump the first member of its newly formed Strategic Board of Advisors. That was about two months after the January 20 inauguration. Reuters, CoinDesk, Decrypt, The Block and Cointelegraph all reported it [1][2][3][4]. The body is an advisory board, not Metaplanet's board of directors. The wording "strategic board advisor" is close enough.
 
 2. **Eric and Don Jr. co-own American Bitcoin, and Hut 8 owns 80%: confirmed, with nuance.** In February 2025 Dominari Holdings announced American Data Centers Inc. (ADC), formed with Eric Trump and Donald Trump Jr. Both brothers sit on Dominari's board or advise it [5][6]. On March 31, 2025, Hut 8 contributed its ASIC miners to ADC in exchange for newly issued shares equal to 80% of ADC's equity. ADC was renamed American Bitcoin, and the Trump-linked ADC holders kept 20% [7][8][9]. After the Gryphon Digital Mining merger closed and the company listed on Nasdaq as ABTC on September 3, 2025, Hut 8 held a majority of the stock and about 80% of the voting power [10][11]. Its post-merger economic stake is not exactly 80%, so "80% owned" is accurate as of launch and as a voting figure afterwards. Eric Trump is co-founder and chief strategy officer. Bloomberg estimated his stake at about 7.5% at listing [12].
 
@@ -31,20 +31,20 @@
    - Thumzup Media (Don Jr. took a stake in July 2025; multi-coin treasury and Dogecoin mining via Dogehash)
    - Metaplanet (Eric is an adviser, not an owner) [17][18][19][20]
 
-   That makes five, though the links range from ownership to an advisory role. I found no published Molly White article listing exactly five, so the count is the interviewee's rough estimate.
+   That makes five, though the links range from ownership to an advisory role. I found no published Molly White article listing exactly five, so the count is her rough estimate.
 
 7. **Stock performance poor: confirmed.** ABTC jumped at its September 3, 2025 debut and then fell. It dropped about 40% on December 2, 2025 when the private-placement lockup expired. Eric Trump said he would not sell. Bloomberg put the decline at about 70% from peak by December 2025 [21][22][23]. By mid-2026 reports put it more than 90-95% below its peak. It did a 1-for-15 reverse split to keep its Nasdaq listing, and it posted an $82M Q1 2026 net loss [24][25].
 
 ## Corrections
-- "Asher" in the transcript is Asher Genoot, CEO of Hut 8.
-- The video says Hut 8 gave away "100% of your Bitcoin mining firm." Hut 8 actually contributed its fleet of miners. It kept its energy and data-center business and earns colocation and managed-services fees from American Bitcoin, which it controls and consolidates.
+- The "Asher" Eric Trump refers to is Asher Genoot, CEO of Hut 8.
+- Claimed: Hut 8 gave away "100% of your Bitcoin mining firm." The record shows: Hut 8 contributed its fleet of miners. It kept its energy and data-center business and earns colocation and managed-services fees from American Bitcoin, which it controls and consolidates.
 - After the Gryphon merger, the 80% figure is Hut 8's approximate voting power, not exactly its economic stake.
 - Metaplanet's body is a "Strategic Board of Advisors," not its board of directors.
 
 ## Denials and context
 - Hut 8 and American Bitcoin pitch the deal as a way to raise capital for mining without straining Hut 8's balance sheet. That is the plain business case for the structure. Prusak's "narrative" remark is his own description, not an accusation by critics.
 - Eric Trump blamed the December 2025 drop on early investors taking profits and said the company's fundamentals were strong.
-- Nothing shows that American Bitcoin received a specific regulatory benefit. The conflict-of-interest point (the president shapes crypto policy while his sons run a bitcoin company) is the video's argument, not a documented quid pro quo.
+- Nothing shows that American Bitcoin received a specific regulatory benefit. The conflict-of-interest point (the president shapes crypto policy while his sons run a bitcoin company) is an argument, not a documented quid pro quo.
 
 ## Sources
 1. Reuters via Fidelity, "Japanese bitcoin company Metaplanet names Eric Trump as advisor", 2025-03-21. https://fidelity.com/news/article/default/202503210102RTRSNEWSCOMBINED_L4N3Q40BP_1

@@ -2,8 +2,8 @@
 
 **Verdict: mostly-accurate** (confidence: high)
 
-## What the video says (transcript lines 565-567)
-Coffeezilla lists the "NFT business, the watches, the shoes, the Trump Bible, the Trump fragrances" and "the T1 mobile phone, which I ordered and then got doxxed for, which was said to be made in America until they changed the website." He calls golden shoes "obviously stupid" and says he will focus instead on regulated industries.
+## The claim
+The Trump family sells an "NFT business, the watches, the shoes, the Trump Bible, the Trump fragrances" and the T1 mobile phone, which "was said to be made in America until they changed the website", and whose buyers' details were exposed in a May 2026 leak (one buyer described it as being "doxxed"). These consumer products are arguably less important than the regulated industries the family is entering.
 
 ## Findings by sub-claim
 
@@ -18,17 +18,17 @@ Coffeezilla lists the "NFT business, the watches, the shoes, the Trump Bible, th
    - Spokesperson Chris Walker said the phones "are proudly being made in America."
    - The phone was delayed repeatedly and began shipping in May 2026. CEO Pat O'Brien then said the first units are "assembled in the U.S."
    - In Aug 2025 and Jan 2026, Democrats led by Sen. Elizabeth Warren asked the FTC to examine the marketing. The Jan 2026 letter was co-led by Rep. Robert Garcia. [8][9][10][11][12][13]
-7. **Coffeezilla ordered a T1 and was "doxxed": the event is confirmed, but "doxxed" is his loose word for it.**
-   - In May 2026 an anonymous researcher told Coffeezilla and penguinz0 about a flaw in Trump Mobile's pre-order system. It exposed customers' names, emails, mailing addresses, phone numbers and order IDs, but not card numbers.
-   - Coffeezilla said his own address and email were among the exposed records. Trump Mobile confirmed the exposure to TechCrunch, blamed a third-party platform, patched the flaw, and said it was weighing whether to notify customers.
-   - No report says anyone targeted or published his data specifically. "Doxxed" here means a data exposure, not a deliberate act against him.
-   - From the IDs in the leak, Coffeezilla estimated only about 30,000 orders, against roughly 590,000 claimed earlier. Some outlets report his estimate as about 10,000. [14][15][16][17]
+7. **Customers' details were exposed in a May 2026 leak: the event is confirmed, but "doxxed", one buyer's description, is a loose word for it.**
+   - In May 2026 an anonymous researcher told two online commentators about a flaw in Trump Mobile's pre-order system. It exposed customers' names, emails, mailing addresses, phone numbers and order IDs, but not card numbers.
+   - One of them, who had ordered a T1, said his own address and email were among the exposed records. Trump Mobile confirmed the exposure to TechCrunch, blamed a third-party platform, patched the flaw, and said it was weighing whether to notify customers.
+   - No report says anyone targeted or published any individual buyer's data specifically. "Doxxed" here means a data exposure, not a deliberate act against anyone.
+   - One buyer's analysis of the leaked data, based on the IDs in the leak, estimated only about 30,000 orders, against roughly 590,000 claimed earlier. Some outlets report that estimate as about 10,000. [14][15][16][17]
 
 ## Corrections and context
 - "The Trump family sells" overstates it. Most of these products are **licensing deals**: third parties such as CIC Ventures, NFT INT LLC and Trump Mobile's operators make and sell them, and pay royalties for the name. Trump Mobile's own site says its products are not made or sold by the Trump Organization. Even so, the royalties flow to Trump, and his sons fronted Trump Mobile.
-- "Doxxed" means his data was exposed through a site vulnerability, not that he was deliberately targeted.
+- "Doxxed" means customers' data was exposed through a site vulnerability, not that anyone was deliberately targeted.
 - "Made in America until they changed the website" is accurate for June 2025. The company still claims U.S. assembly, and the share of the phone actually made in the U.S. has not been independently verified.
-- The leaked order counts (about 30k or 10k) are Coffeezilla's own estimates, not company figures.
+- The leaked order counts (about 30k or 10k) come from one buyer's analysis of the leaked data, not company figures.
 
 ## Sources
 1. ITV News, 2022-12-16 — https://itv.com/news/2022-12-16/trump-releases-nfts-depicting-himself-as-superhero-astronaut-and-cowboy

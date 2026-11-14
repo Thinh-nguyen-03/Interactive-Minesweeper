@@ -49,7 +49,7 @@
     {
       "statement": "Cumberland denied any quid pro quo or connection between the TMTG investment and the SEC dismissal.",
       "verdict": "unverified",
-      "finding": "The denial was given privately to Coffeezilla and cannot be independently checked. It is consistent with DRW's public statements that the stake was a strategic balance-sheet decision and that Wilson has long called for a clear regulatory framework.",
+      "finding": "The denial was given privately in response to a request for comment and cannot be independently checked. It is consistent with DRW's public statements that the stake was a strategic balance-sheet decision and that Wilson has long called for a clear regulatory framework.",
       "sources": [
         "https://coingape.com/trump-media-secures-100m-investment-from-drw-to-fund-its-2-5-billion-bitcoin-bet",
         "https://en.bitcoinsistemi.com/new-developments-regarding-donald-trumps-2-billion-bitcoin-move/amp"
@@ -57,9 +57,9 @@
     }
   ],
   "corrections": [
-    "Transcript says the TMTG raise came 'around that time' as the EO. The EO was signed 2025-03-06 and TMTG announced on 2025-05-27, about 12 weeks later.",
-    "Transcript says '$2.5 billion raised'. That was the announced size; the deal closed at ~$2.44B gross (~$2.32B net).",
-    "Transcript says Don Wilson invested. The documented buyer is DRW Investments, his firm; Cumberland is DRW's crypto unit.",
+    "Claimed: the TMTG raise came 'around that time' as the EO. The record shows: the EO was signed 2025-03-06 and TMTG announced on 2025-05-27, about 12 weeks later.",
+    "Claimed: '$2.5 billion raised'. The record shows: that was the announced size; the deal closed at ~$2.44B gross (~$2.32B net).",
+    "Claimed: Don Wilson invested. The record shows: the documented buyer is DRW Investments, his firm; Cumberland is DRW's crypto unit.",
     "The Cumberland dismissal was agreed in principle with SEC staff on 2025-02-20 and announced 2025-03-04, before TMTG's treasury plan was public."
   ],
   "denials_and_context": [
@@ -231,7 +231,8 @@
       "id": "coffeezilla",
       "name": "Coffeezilla",
       "type": "media",
-      "description": "Video creator who requested comment from Cumberland"
+      "description": "Independent online investigator who requested comment from Cumberland (internal reference; not shown)",
+      "hidden": true
     }
   ],
   "relationships": [
@@ -330,7 +331,8 @@
       "source": "cumberland-drw",
       "target": "coffeezilla",
       "label": "denied quid pro quo in comment to",
-      "type": "media"
+      "type": "media",
+      "hidden": true
     }
   ],
   "audit": {

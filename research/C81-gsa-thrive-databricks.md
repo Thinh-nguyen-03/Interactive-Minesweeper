@@ -1,6 +1,6 @@
 # C81: A federal procurement chief, Thrive Capital and sole-source awards
 
-**Verdict: mostly-accurate (confidence: medium).** The procurement side is documented in contract records, congressional letters and several outlets. The personal-stake side rests on one WSJ report (late May 2026) that we saw only through aggregators. Some details in the brief are wrong or unsupported: the "$18M" figure, a 2026 "Connolly probe" and a Thrive stake in Anthropic.
+**Verdict: mostly-accurate (confidence: medium).** The procurement side is documented in contract records, congressional letters and several outlets. The personal-stake side rests on one WSJ report (late May 2026) that we saw only through aggregators. Some details in the claim are wrong or unsupported: the "$18M" figure, a 2026 "Connolly probe" and a Thrive stake in Anthropic.
 
 **Disclosure.** Anthropic makes the model that wrote this report, and it is one of the companies with a GSA OneGov deal. It is treated here exactly like every other vendor. We found no primary source for a Thrive stake in Anthropic, and the report says so.
 

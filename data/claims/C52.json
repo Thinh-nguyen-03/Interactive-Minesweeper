@@ -16,7 +16,7 @@
   {
    "statement": "Gemini hired Miller Strategies.",
    "verdict": "mostly-accurate",
-   "finding": "Legis1 reports that Gemini Space Station Inc., a first-time lobbying client, retained Miller Strategies for 'issues around cryptocurrency regulation'. The listed lobbyists are Jeffrey Miller and Jessica Anne Mandel, who previously lobbied for Crypto.com. A Senate LDA client record (client 69134) shows the client as 'Baughman Kroup Bosse PLLC on behalf of Gemini Space Station, Inc.' with Miller Strategies as registrant. The registration date and fees could not be retrieved because lda.senate.gov and legis1.com were blocked here. Separately, Jeff Miller is reported as a member of the Winklevoss-funded Digital Freedom Fund PAC. No source ties Miller's work to the CFTC reversal. Audit note: a fresh search again surfaced only Legis1 and the LDA client record. A direct LDA API fetch was blocked by the proxy, so the registration date and fees are still unretrieved.",
+   "finding": "Legis1 reports that Gemini Space Station Inc., a first-time lobbying client, retained Miller Strategies for 'issues around cryptocurrency regulation'. The listed lobbyists are Jeffrey Miller and Jessica Anne Mandel, who previously lobbied for Crypto.com. A Senate LDA client record (client 69134) shows the client as 'Baughman Kroup Bosse PLLC on behalf of Gemini Space Station, Inc.' with Miller Strategies as registrant. The registration date and fees could not be retrieved because lda.senate.gov and legis1.com could not be read directly. Separately, Jeff Miller is reported as a member of the Winklevoss-funded Digital Freedom Fund PAC. No source ties Miller's work to the CFTC reversal. Audit note: a fresh search again surfaced only Legis1 and the LDA client record. The LDA record could not be read directly, so the registration date and fees are still unretrieved.",
    "sources": [
     "https://legis1.com/news/crypto-regulation-lobbying-gemini",
     "https://lda.senate.gov/api/v1/clients/69134/?format=api"
@@ -114,7 +114,7 @@
   }
  ],
  "corrections": [
-  "The brief says the Winklevoss gift was '$10M+'. FEC data show 2 x 79.35 BTC on June 19, 2026, more than $5M each and about $10.02M in total. Some reports double-count the liquidation entries.",
+  "The claim says the Winklevoss gift was '$10M+'. FEC data show 2 x 79.35 BTC on June 19, 2026, more than $5M each and about $10.02M in total. Some reports double-count the liquidation entries.",
   "The CFTC joined Gemini's motion on May 27-28, 2026; the gift came 23 days later. The motion was denied by Judge Hellerstein on Oct 15, 2026 (one outlet's Feb 2026 date is wrong).",
   "Ryan's resignation letter and the SEC's announcement gave no reason. The 'clash over crypto/Trump cases' account rests on anonymous Reuters sources.",
   "Fairshake is formally bipartisan and did not give money to Trump. Its connection to Trump is that it backed Trump-endorsed Republicans."
@@ -848,7 +848,7 @@
    "Fresh searches (The Block, Bloomberg Tax, CryptoSlate, Crypto Briefing, InvestmentNews, Cointelegraph's Reuters relay, Legis1) confirm the dates and amounts. Verdict unchanged.",
    "Added the per-twin FEC amounts and the reasoning of Hellerstein's order. Added a press-reported ~$26M cycle total, flagged as unverified.",
    "Ryan sub-claim: added the unsigned Sun-settlement detail, the Musk settlement talks and Atkins's public praise. It stays unverified because the account rests on anonymous Reuters sources.",
-   "Gemini/Miller: still rests on Legis1 and the LDA client record, and the LDA fetch was blocked again.",
+   "Gemini/Miller: still rests on Legis1 and the LDA client record, and the LDA record again could not be read.",
    "Cross-file consistency: pam-bondi entity described her as the current Attorney General; Trump removed her on Apr 2, 2026 and Todd Blanche was confirmed AG on Aug 8, 2026 (sworn in Aug 10) (C61, C65)."
   ],
   "new_sources": [

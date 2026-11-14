@@ -3,7 +3,7 @@
   "title": "Dominari Holdings and the Trump sons' small-cap network",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Holdings as advisers on Feb. 10-11, 2025. Each took about a 6.7% stake (roughly 13% combined) through share grants and a $3.47 private placement, and DOMH soared. Dominari co-formed American Data Centers/American Bitcoin with them and co-led their SPAC's IPO, with president Kyle Wool on the SPAC board. The brief overreaches in two places. Most of DOMH's spike came before the announcement. Thumzup and GrabAGun fell rather than spiked on the Trump news. No SEC or FINRA action against Dominari or the sons is documented; the scrutiny on record is a March 2026 House China committee letter on Dominari's Chinese IPOs and a 2026 FINRA fine on Wool's former firm, Revere.",
+  "summary": "The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Holdings as advisers on Feb. 10-11, 2025. Each took about a 6.7% stake (roughly 13% combined) through share grants and a $3.47 private placement, and DOMH soared. Dominari co-formed American Data Centers/American Bitcoin with them and co-led their SPAC's IPO, with president Kyle Wool on the SPAC board. The claim overreaches in two places. Most of DOMH's spike came before the announcement. Thumzup and GrabAGun fell rather than spiked on the Trump news. No SEC or FINRA action against Dominari or the sons is documented; the scrutiny on record is a March 2026 House China committee letter on Dominari's Chinese IPOs and a 2026 FINRA fine on Wool's former firm, Revere.",
   "sub_claims": [
     {
       "statement": "Don Jr. and Eric Trump became advisers to and major shareholders of Dominari Holdings.",
@@ -131,8 +131,8 @@
     }
   ],
   "corrections": [
-    "The brief implies the stock soared after the sons arrived. Most of DOMH's surge (about 530-580%) happened in the six weeks before the Feb. 11, 2025 announcement.",
-    "The brief says Thumzup and GrabAGun spiked after a Trump son arrived. Thumzup fell more than 14% on the stake disclosure, and GrabAGun fell about 30% in its first two days.",
+    "The claim implies the stock soared after the sons arrived. Most of DOMH's surge (about 530-580%) happened in the six weeks before the Feb. 11, 2025 announcement.",
+    "The claim says Thumzup and GrabAGun spiked after a Trump son arrived. Thumzup fell more than 14% on the stake disclosure, and GrabAGun fell about 30% in its first two days.",
     "GrabAGun/Colombier II is an Omeed Malik deal; no Dominari role was found.",
     "No SEC or FINRA scrutiny of Dominari or the sons is documented. The scrutiny is a congressional letter (March 2026) and a FINRA fine on Revere, Wool's former firm.",
     "The 'half a billion dollars' gain is mostly paper value at American Bitcoin's peak, and that stock later fell more than 90%."
@@ -145,7 +145,7 @@
     "Trump Organization: suggestions of the brothers' involvement in the Kazakhstan tungsten award are 'categorically false, misleading and libelous'; their Skyline stake predated the deal.",
     "Dominari, on the House CCP letter: IPOs were under 10% of its banking revenue, and it ended Chinese IPO work in 2024 and Hong Kong IPO work in mid-2025.",
     "Former White House ethics officials (WSJ) warn that the network lets investors with business before the government bet on the family's interests.",
-    "Most primary pages (Bloomberg, WSJ, FT, Barron's, House committee PDF) were blocked for direct fetch; findings rely on search excerpts and syndicated copies."
+    "Most primary pages (Bloomberg, WSJ, FT, Barron's, House committee PDF) were not read directly; findings rely on search excerpts and syndicated copies."
   ],
   "sources": [
     {
@@ -329,7 +329,7 @@
       "date": "2026-03"
     },
     {
-      "title": "Letter to Dominari Securities (fetch blocked)",
+      "title": "Letter to Dominari Securities (original not read directly)",
       "publisher": "House Select Committee on the CCP",
       "url": "https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/letter_dominari.pdf",
       "date": "2026-03-08"

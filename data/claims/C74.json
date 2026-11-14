@@ -3,7 +3,7 @@
  "title": "Pentagon investment offices: Cerberus alumni, no-bid contracts and the Trump sons' SPAC underwriter",
  "verdict": "mostly-accurate",
  "confidence": "medium",
- "summary": "Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD) runs OSC, and Kollitides (ex-Cerberus, ex-A&M Capital, a special government employee) runs Feinberg's Economic Defense Unit, which A&M Federal advises under no-bid deals worth up to about $350M. Kollitides sat on D. Boral Acquisition I's board from Feb 10 to Sep 23, 2026, alongside Kevin McGurn, CEO of the Trump sons' D. Boral-underwritten SPAC and interim CEO of Trump Media. OSC lent to Vulcan, PDW and Neros, but not, so far, to Unusual Machines. The Pentagon says Feinberg is recused from Cerberus matters, a single-source report says Lutnick screens Cerberus deals, and no recusal or waiver for Kollitides or Lorch has been published. No reporting shows any Cerberus alum steering a decision toward a Trump-family interest.",
+ "summary": "Every role, contract and loan in the claim is documented. Lorch (ex-Cerberus MD) runs OSC, and Kollitides (ex-Cerberus, ex-A&M Capital, a special government employee) runs Feinberg's Economic Defense Unit, which A&M Federal advises under no-bid deals worth up to about $350M. Kollitides sat on D. Boral Acquisition I's board from Feb 10 to Sep 23, 2026, alongside Kevin McGurn, CEO of the Trump sons' D. Boral-underwritten SPAC and interim CEO of Trump Media. OSC lent to Vulcan, PDW and Neros, but not, so far, to Unusual Machines. The Pentagon says Feinberg is recused from Cerberus matters, a single-source report says Lutnick screens Cerberus deals, and no recusal or waiver for Kollitides or Lorch has been published. No reporting shows any Cerberus alum steering a decision toward a Trump-family interest.",
  "sub_claims": [
   {
    "statement": "Deputy Secretary Feinberg is linked to OSC Director David Lorch through Cerberus.",
@@ -17,7 +17,7 @@
   {
    "statement": "Feinberg is linked to George Kollitides through Cerberus; Kollitides heads the Economic Defense Unit.",
    "verdict": "confirmed",
-   "finding": "Evidence grade: documented for the role and Cerberus history; single-source (Bloomberg Government) for his status as a special government employee. Feinberg appointed Kollitides, a former Cerberus MD who headed its aerospace, government and defense group, to lead the EDU ('Deal Team Six') in Feb 2026 (appointed Feb 4 per C65). The EDU director reports to Feinberg. The unit got more than $266M in FY2026 RDT&E funding. Semafor's recruiting document floated $200B of deals over three years, an aspirational, unaudited figure. The brief's wording ('related offices') is right: Kollitides heads the EDU, not OSC.",
+   "finding": "Evidence grade: documented for the role and Cerberus history; single-source (Bloomberg Government) for his status as a special government employee. Feinberg appointed Kollitides, a former Cerberus MD who headed its aerospace, government and defense group, to lead the EDU ('Deal Team Six') in Feb 2026 (appointed Feb 4 per C65). The EDU director reports to Feinberg. The unit got more than $266M in FY2026 RDT&E funding. Semafor's recruiting document floated $200B of deals over three years, an aspirational, unaudited figure. The claim's wording ('related offices') is right: Kollitides heads the EDU, not OSC.",
    "sources": [
     "https://axios.com/2026/05/06/economic-defense-unit-kollitides-pentagon",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/",
@@ -129,7 +129,7 @@
  "corrections": [
   "C51 gave no figure for PDW's OSC deal: it is a conditional loan commitment of up to $820M (Jul 31, 2026).",
   "C65 says Kollitides 'later resigned' from D. Boral Acquisition I: the 8-K dates it Sep 23, 2026, citing 'personal reasons'.",
-  "The brief puts Kollitides in OSC-related offices: he heads the separate Economic Defense Unit, which reports to Feinberg; Lorch is the OSC director."
+  "The claim puts Kollitides in OSC-related offices: he heads the separate Economic Defense Unit, which reports to Feinberg; Lorch is the OSC director."
  ],
  "denials_and_context": [
   "Pentagon (Sean Parnell): 'There are no conflicts of interest between Deputy Secretary of War Steve Feinberg and Cerberus'; Kollitides and the department followed all applicable rules; OSC has a multi-layered ethics process.",

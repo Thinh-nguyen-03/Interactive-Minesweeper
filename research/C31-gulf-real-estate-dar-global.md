@@ -2,16 +2,16 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-The pattern described in the lead is real and well documented. The Trump Organization has a string of Trump-branded tower, hotel and golf licensing deals in the Gulf, nearly all with Dar Global, the London-listed international arm of Saudi developer Dar Al Arkan. They are worth tens of millions of dollars a year in fees. The brief overreaches on two points:
+The pattern described in the lead is real and well documented. The Trump Organization has a string of Trump-branded tower, hotel and golf licensing deals in the Gulf, nearly all with Dar Global, the London-listed international arm of Saudi developer Dar Al Arkan. They are worth tens of millions of dollars a year in fees. The claim overreaches on two points:
 
 - **Timing.** Several deals predate the 2024 election.
 - **The pledge.** The "no new foreign deals" pledge was a first-term policy. The January 2025 second-term policy explicitly allows deals with private foreign companies.
 
 No Abu Dhabi deal has been announced.
 
-*Method note:* direct fetches of thenationalnews.com, citizensforethics.org, forbes.com, pbs.org and wikipedia.org failed (blocked hosts in this session). The session's shared web-search budget ran out before I could check the Diriyah landowner and the Oman land question further. Findings rely on search-result summaries across several outlets.
+*Method note:* the original pages at thenationalnews.com, citizensforethics.org, forbes.com, pbs.org and wikipedia.org were not read directly. The research ended before I could check the Diriyah landowner and the Oman land question further. Findings rely on search-result summaries across several outlets.
 
-## What the video says
+## The claim
 - Line 55 (a person quoted by the video): "there's a brand new hotel going up in Dubai or Abu Dhabi. That stuff kind of worries me."
 - Line 861: the Trump portfolio "has exploded since 2025, not just with Middle Eastern golf deals."
 - The Qatar golf deal itself is fact-checked in C16. Kushner/Affinity and the Saudi PIF are in C15.
@@ -110,7 +110,7 @@ Status updates on the Dubai tower:
 28. Mother Jones, Oman golf hotels and the Iran war, 2026-04. https://www.motherjones.com/politics/2026/04/trump-iran-war-oman-golf-hotels/
 
 ## Audit (second reviewer, Nov 2026)
-Result: **strengthened**. Filled the Diriyah gap: the project sits inside the PIF-owned Diriyah Company's master plan, though the licence counterparty is Dar Global (sub-claim 6). Not re-checked because the shared web-search budget ran out: the Oman land question, the ~$38M 2025 Gulf licensing total, and the "$21.9M again" Dar Al Arkan figure in the 2026 filing. That figure matches the prior-year number exactly and should be re-verified.
+Result: **strengthened**. Filled the Diriyah gap: the project sits inside the PIF-owned Diriyah Company's master plan, though the licence counterparty is Dar Global (sub-claim 6). Not re-checked because the research ended first: the Oman land question, the ~$38M 2025 Gulf licensing total, and the "$21.9M again" Dar Al Arkan figure in the 2026 filing. That figure matches the prior-year number exactly and should be re-verified.
 
 Audit sources:
 - Dar Al Arkan, with Dar Global and the Trump Organization, to develop Trump International Golf Club Wadi Safar. Zawya (press release), 2026-01. https://www.zawya.com/en/press-release/companies-news/dar-al-arkan-in-collaboration-with-dar-global-and-the-trump-organization-to-develop-trump-international-golf-club-wadi-safar-iqiiabwh

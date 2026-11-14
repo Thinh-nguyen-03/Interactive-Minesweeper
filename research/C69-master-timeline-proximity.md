@@ -1,6 +1,6 @@
 # C69: Master timeline of money events and government actions
 
-**Verdict: partly-accurate (confidence: medium).** The brief asked for new money-to-official-act proximities. We found a handful that the individual reports had not paired. All of them are timing proximity only (`inferred`), and no source asserts a link for any of them. Most of the tightest pairs in the dataset had already been connected by earlier reports. Several new pairs have a documented innocent explanation, and some cut against a favour reading. **Nothing here shows causation, and this report does not claim it.**
+**Verdict: partly-accurate (confidence: medium).** This check asked for new money-to-official-act proximities. We found a handful that the individual reports had not paired. All of them are timing proximity only (`inferred`), and no source asserts a link for any of them. Most of the tightest pairs in the dataset had already been connected by earlier reports. Several new pairs have a documented innocent explanation, and some cut against a favour reading. **Nothing here shows causation, and this report does not claim it.**
 
 ## Method
 

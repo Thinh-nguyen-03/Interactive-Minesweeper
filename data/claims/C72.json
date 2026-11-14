@@ -3,7 +3,7 @@
   "title": "Pakistan: World Liberty deal, Trump-tied lobbyists, minerals and tariffs",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Every dated step in the brief is documented: the Seiden/Javelin/Checkmate hires, the 26 Apr 2025 WLF letter of intent (with Munir in attendance), the ceasefire, Munir's lunch, the Nobel nomination, the 19% tariff and oil deal, the USSM $500M minerals MoU, Bin Saqib's regulator admitting Binance and HTX, the 14 Jan 2026 USD1 MoU and the Sep 2026 Powerus order. The second layer adds Rep. Ronny Jackson (via Javelin filings, single-source), a minerals-focused Seiden mandate, and Squire Patton Boggs' 14 May 2025 minerals pitch. What is not substantiated is causation: no source shows the lobbyists arranged the WLF deal, the lunch, the tariff or the Powerus order. Seiden was hired before, not after, the Pahalgam attack.",
+  "summary": "Every dated step in the claim is documented: the Seiden/Javelin/Checkmate hires, the 26 Apr 2025 WLF letter of intent (with Munir in attendance), the ceasefire, Munir's lunch, the Nobel nomination, the 19% tariff and oil deal, the USSM $500M minerals MoU, Bin Saqib's regulator admitting Binance and HTX, the 14 Jan 2026 USD1 MoU and the Sep 2026 Powerus order. The second layer adds Rep. Ronny Jackson (via Javelin filings, single-source), a minerals-focused Seiden mandate, and Squire Patton Boggs' 14 May 2025 minerals pitch. What is not substantiated is causation: no source shows the lobbyists arranged the WLF deal, the lunch, the tariff or the Powerus order. Seiden was hired before, not after, the Pahalgam attack.",
   "sub_claims": [
     {
       "statement": "Timeline anchor: Seiden Law was hired before the Pahalgam attack; Javelin registered and WLF signed its letter of intent within days after it, with Munir in the room.",
@@ -21,7 +21,7 @@
     {
       "statement": "Seiden Law's Pakistan mandate was explicitly about minerals, and it was passed to Trump's former bodyguard's firm.",
       "verdict": "confirmed",
-      "finding": "Evidence: documented (Global Witness analysis of FARA filings; Nukta; Dawn). Global Witness reports that the Seiden contract, $200K/month, was to 'promote the exploration and sale of' rare earths and other critical minerals for Pakistan, and that Seiden outsourced it to Javelin. It names Robert Seiden and George Sorial as Trump-circle figures representing Pakistan. Javelin's share was $50K/month (Politico, Dawn). An unofficial FARA-compilation site says Javelin's engagement ended on 2025-10-08 after four payments totalling $200K. Treat that termination detail as single-source. No 2026 renewal of either contract was found. Audit note: the monthly figure varies by source. Nukta and Global Witness give $200K/month for six months; CAPSS (an Indian think tank) lists $125K/month. The FARA PDFs could not be fetched here to settle it.",
+      "finding": "Evidence: documented (Global Witness analysis of FARA filings; Nukta; Dawn). Global Witness reports that the Seiden contract, $200K/month, was to 'promote the exploration and sale of' rare earths and other critical minerals for Pakistan, and that Seiden outsourced it to Javelin. It names Robert Seiden and George Sorial as Trump-circle figures representing Pakistan. Javelin's share was $50K/month (Politico, Dawn). An unofficial FARA-compilation site says Javelin's engagement ended on 2025-10-08 after four payments totalling $200K. Treat that termination detail as single-source. No 2026 renewal of either contract was found. Audit note: the monthly figure varies by source. Nukta and Global Witness give $200K/month for six months; CAPSS (an Indian think tank) lists $125K/month. The FARA PDFs could not be read directly to settle it.",
       "sources": [
         "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid",
         "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us",
@@ -33,7 +33,7 @@
     {
       "statement": "Javelin's filings put Trump's former White House physician, Rep. Ronny Jackson, in the minerals channel during the India-Pakistan conflict.",
       "verdict": "mostly-accurate",
-      "finding": "Evidence: single-source. The Economic Times reported this from FARA filings by Javelin Advisors and Conscience Point Consulting (another Seiden subcontractor), and Business Today and others relayed it. The underlying filings could not be fetched here. Reported details: an in-person meeting between Jackson and Pakistani officials on 2025-05-01 on the rare-earths deal; a 2025-05-28 call followed by an email with a draft MoU, which Javelin's filing describes as 'Delivery of Proposed MoU'; and Javelin contacting Jackson's office during the 7-10 May conflict (ThePrint). Jackson (R-TX) was Trump's White House physician. No comment from Jackson was found. An unofficial site claims a $4,000 contribution to Jackson on 2025-10-28 tied to Javelin. That is unverified against FEC records and is not relied on. Audit (Nov 2026): no response from Jackson or Javelin and no non-Indian outlet independently confirming the filing entries was found, so the grade stays single-source.",
+      "finding": "Evidence: single-source. The Economic Times reported this from FARA filings by Javelin Advisors and Conscience Point Consulting (another Seiden subcontractor), and Business Today and others relayed it. The underlying filings could not be read directly. Reported details: an in-person meeting between Jackson and Pakistani officials on 2025-05-01 on the rare-earths deal; a 2025-05-28 call followed by an email with a draft MoU, which Javelin's filing describes as 'Delivery of Proposed MoU'; and Javelin contacting Jackson's office during the 7-10 May conflict (ThePrint). Jackson (R-TX) was Trump's White House physician. No comment from Jackson was found. An unofficial site claims a $4,000 contribution to Jackson on 2025-10-28 tied to Javelin. That is unverified against FEC records and is not relied on. Audit (Nov 2026): no response from Jackson or Javelin and no non-Indian outlet independently confirming the filing entries was found, so the grade stays single-source.",
       "sources": [
         "https://www.businesstoday.in/world/us/story/ronny-jackson-former-white-house-doctor-identified-as-key-link-in-us-pakistans-500-million-mining-deal-509756-2026-01-07",
         "https://www.bizzbuzz.news/international/trump-ally-ronny-jackson-linked-to-pakistans-500-million-mining-deal-during-op-sindoor-1383465",
@@ -150,7 +150,7 @@
     {
       "statement": "Al Jazeera's '$500m for Trump' figure is a Pakistan payment.",
       "verdict": "false",
-      "finding": "Evidence: documented. As relayed in search excerpts (the article itself could not be fetched), the '$500m' in Al Jazeera's 2026-07-03 headline is WLF's 2025 token-sale revenue to the Trump side, not money from Pakistan. Three different '$500M' figures circulate in this story and must not be conflated: the USSM-FWO MoU (Sep 2025), WLF token-sale income, and Aryam/Tahnoon's $500M WLF stake (C06).",
+      "finding": "Evidence: documented. As relayed in search excerpts (the article itself could not be read directly), the '$500m' in Al Jazeera's 2026-07-03 headline is WLF's 2025 token-sale revenue to the Trump side, not money from Pakistan. Three different '$500M' figures circulate in this story and must not be conflated: the USSM-FWO MoU (Sep 2025), WLF token-sale income, and Aryam/Tahnoon's $500M WLF stake (C06).",
       "sources": [
         "https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off"
       ]
@@ -1251,7 +1251,7 @@
       "Added the Oct 2025 and May 2026 Ervin Graves contracts to sub-claim 4.",
       "Noted the Seiden monthly-fee discrepancy ($200K per Nukta/Global Witness vs $125K per CAPSS); dates and FARA numbers for Seiden and Javelin upheld.",
       "Ronny Jackson item upheld as single-source; no response from Jackson or Javelin found; relationship label now says single-source.",
-      "Upheld the Powerus order and USD1 MoU; FARA eFile PDFs could not be fetched (host blocked), so contract terms rest on press reporting of the filings."
+      "Upheld the Powerus order and USD1 MoU; FARA eFile PDFs could not be read directly, so contract terms rest on press reporting of the filings."
     ],
     "new_sources": [
       {

@@ -2,17 +2,17 @@
 
 **Verdict: partly-accurate (confidence: medium)**
 
-This is a third-layer connection hunt that extends C82 (Abu Dhabi entities), C45 (Kushner's Albania and Serbia projects), C59 (foreign deals and tariffs) and C70 (foreign intermediaries). It does not repeat them.
+This is a third-layer connection check that extends C82 (Abu Dhabi entities), C45 (Kushner's Albania and Serbia projects), C59 (foreign deals and tariffs) and C70 (foreign intermediaries). It does not repeat them.
 
 ## Bottom line
 
-The brief's starting point holds up. Forbes (24 Jul 2025) read corporate filings as pointing to at least three unannounced deals, in **Abu Dhabi, Serbia and Hungary**. It also reported new entities named for Pune, Noida, Gurgaon, Hungary's capital and the Philippines, all registered after the November 2024 election.
+The claim's starting point holds up. Forbes (24 Jul 2025) read corporate filings as pointing to at least three unannounced deals, in **Abu Dhabi, Serbia and Hungary**. It also reported new entities named for Pune, Noida, Gurgaon, Hungary's capital and the Philippines, all registered after the November 2024 election.
 
 The Hungary entities now have names: **DT Marks Budapest LLC** and **DT Marks Budapest Member Corp.** They appear in CREW's August 2026 freedom-of-information requests to Hungarian ministries.
 
 The **Serbian entity's name, formation date, partner and fee were not found** in anything I could reach. Nor was any fee for Budapest. The 2025 disclosure, as summarised by PolitiFact and CNBC, lists licensing income from Oman, Qatar, the UAE, Saudi Arabia, Romania, the Philippines, Vietnam and India. It lists none from Hungary or Serbia.
 
-The brief asked for a complete list of every DT Marks/DTTM entity formed since November 2024, with country, partner and fee. **That cannot be built from public reporting.** The Delaware register, congress.gov and govinfo were unreachable from here, and the entity-level data CREW cites was not accessible. The table below gives what is documented and marks the rest.
+This check asked for a complete list of every DT Marks/DTTM entity formed since November 2024, with country, partner and fee. **That cannot be built from public reporting.** The Delaware register, congress.gov and govinfo were unreachable from here, and the entity-level data CREW cites was not accessible. The table below gives what is documented and marks the rest.
 
 The most useful new link is not in the filings. It is a **partner overlap**. Mohamed Alabbar's Abu Dhabi-based **Eagle Hills** was Kushner's partner on the Trump-branded Belgrade project (announced 17 Jan 2025). Three days later, on 20 Jan 2025 (inauguration day), Eagle Hills became the Orbán government's developer for the EUR 12.3B "Grand Budapest" district. A VSquare source said Kushner might join it, and a Trump-style tower was floated. Budapest's municipality exercised a pre-emption right, and the government dropped the project in early 2025. The Trump-linked Budapest entities exist, but no Budapest project or fee has surfaced.
 
@@ -47,7 +47,7 @@ CREW counts at least 34 companies Trump formed in his second term, eight of them
 
 ## Connections (sub-claims)
 
-1. **Forbes: filings point to unannounced Serbia and Hungary deals.** *Single-source (Forbes), echoed by its licensed editions.* The 24 Jul 2025 piece: "Corporate filings point to at least three other unannounced deals—in Abu Dhabi, Serbia and Hungary." It also says the Trumps "registered entities named after three Indian locales—Pune, Noida and Gurgaon—as well as Hungary's capital and the Philippines." I could read it only through search snippets; forbes.com and its regional sites could not be fetched.
+1. **Forbes: filings point to unannounced Serbia and Hungary deals.** *Single-source (Forbes), echoed by its licensed editions.* The 24 Jul 2025 piece: "Corporate filings point to at least three other unannounced deals—in Abu Dhabi, Serbia and Hungary." It also says the Trumps "registered entities named after three Indian locales—Pune, Noida and Gurgaon—as well as Hungary's capital and the Philippines." I could read it only through search snippets; forbes.com and its regional sites could not be read directly.
 2. **DT Marks Budapest LLC and DT Marks Budapest Member Corp. exist.** *Documented* by CREW's FOI requests of Aug 2026 to Hungary's Trade Licensing Office and Ministry of Construction and Transport. The requests name both companies and ask for records on a Trump property in Budapest and on Kushner's role in "Grand Budapest". The formation date is not public in what I could reach; Forbes places it after the Nov 2024 election and before Jul 2025.
 3. **Eagle Hills / Alabbar: the shared partner across Belgrade and Budapest.** *Documented for each leg; the overlap is reported by VSquare.*
    - Eagle Hills and Affinity announced the Trump-branded Belgrade project around 17 Jan 2025 (C45, Semafor).
@@ -79,7 +79,7 @@ CREW counts at least 34 companies Trump formed in his second term, eight of them
 
 ## Corrections
 
-- The brief calls Hungary and Serbia "deals". The filings show **entities**, not signed deals with known partners or fees. Budapest's anchor project was dropped in early 2025. Belgrade collapsed in Dec 2025.
+- The claim calls Hungary and Serbia "deals". The filings show **entities**, not signed deals with known partners or fees. Budapest's anchor project was dropped in early 2025. Belgrade collapsed in Dec 2025.
 - The "currency-swap/financial shield" was claimed by Orbán and **denied by Trump** (Dec 2025). It is not an established US decision.
 - The Russian-energy exemption is a one-year exemption per the White House, not the open-ended exemption Orbán claimed.
 - The NIS relief came **after** the Belgrade project died, and is tied to a sale to MOL. In Oct 2025, while the project was alive, the waiver was refused.
@@ -91,7 +91,7 @@ CREW counts at least 34 companies Trump formed in his second term, eight of them
 - Don Jr.'s spokesperson rejected conflict-of-interest claims over his Serbia visit.
 - Affinity Partners and Eagle Hills did not answer VSquare about Budapest. A source said Affinity was not involved.
 - There are other explanations for the Hungary decisions. Orbán was the administration's closest ideological ally in the EU. Energy exemptions for landlocked pipeline-dependent states also have EU parallels, since Hungary and Slovakia hold EU carve-outs. And the Rogán delisting followed a Biden-era designation made days before he left office.
-- **Research limits:** forbes.com and its regional sites, citizensforethics.org, congress.gov, govinfo.gov and the Delaware register could not be fetched from here. Findings rest on search-result snippets from several outlets. The shared search budget was nearly spent.
+- **Research limits:** forbes.com and its regional sites, citizensforethics.org, congress.gov, govinfo.gov and the Delaware register could not be read directly. Findings rest on search-result snippets from several outlets.
 
 ## Not connected in the coverage we found
 

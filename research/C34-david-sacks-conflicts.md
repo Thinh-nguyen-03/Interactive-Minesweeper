@@ -2,11 +2,11 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-**Lead as briefed.** This is a follow-up to the UAE chips claim (C08) and the GENIUS Act claim (C11). The brief says David Sacks was the White House AI and crypto czar and helped drive the UAE chip deals and crypto policy. It says he kept financial interests in AI and crypto companies through Craft Ventures under ethics waivers. It says a late-2025 New York Times investigation detailed hundreds of AI-related holdings.
+**The claim.** This check builds on the UAE chips claim (C08) and the GENIUS Act claim (C11). The claim says David Sacks was the White House AI and crypto czar and helped drive the UAE chip deals and crypto policy. It says he kept financial interests in AI and crypto companies through Craft Ventures under ethics waivers. It says a late-2025 New York Times investigation detailed hundreds of AI-related holdings.
 
 **Bottom line.** The holdings, the waivers, the NYT findings, his GENIUS Act role and his denials are well documented across many outlets. His role in the UAE/G42 chip deal is less firm. The claim that he was "central" in pushing for Emirati chip access rests on secondary summaries of the NYT's September 2025 reporting. The formal export licences came from the Commerce Department, and no source names Sacks as an approver. No source shows that Sacks or Craft held a stake in G42, MGX or any other part of the UAE deal. The idea that his holdings shaped his policy work is the NYT's framing. It is not a documented finding of wrongdoing, and the NYT did not allege illegality.
 
-**Method note.** Direct fetches of npr.org and banking.senate.gov failed: those hosts are blocked in this session. The New York Times articles themselves were not reached. Everything below comes from search results across NPR affiliates, TechCrunch, The Block, Cointelegraph, The Lever, Jacobin, Nextgov, Senate press releases, The National and other outlets. The shared web-search budget ran out before two planned follow-ups: BitGo IPO details and 2026 developments after Sacks left the czar post. Those points are marked as gaps.
+**Method note.** The original pages at npr.org and banking.senate.gov were not read directly. The New York Times articles themselves were not reached. Everything below comes from search results across NPR affiliates, TechCrunch, The Block, Cointelegraph, The Lever, Jacobin, Nextgov, Senate press releases, The National and other outlets. The research ended before two planned follow-ups: BitGo IPO details and 2026 developments after Sacks left the czar post. Those points are marked as gaps.
 
 ## Sub-claims
 
@@ -63,7 +63,7 @@
   - Steve Bannon criticised Sacks's judgment rather than the conflicts themselves.
 - **Ethics enforcement:** no ethics agency is known to have found a violation.
 
-## Corrections to the brief
+## Corrections
 
 - The NYT investigation is dated November 30, 2025, and counted 449 AI-related holdings out of 708 tech investments. "Hundreds" is accurate.
 - There were two waivers: one for crypto (March 2025) and one for AI (June or July 2025).

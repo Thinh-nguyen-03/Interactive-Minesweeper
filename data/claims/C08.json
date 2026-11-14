@@ -52,7 +52,7 @@
     {
       "statement": "Trump said a currency swap/financial help for the UAE during the Iran crisis was under consideration because it has been 'a good ally'.",
       "verdict": "mostly-accurate",
-      "finding": "In a CNBC interview on 2026-04-21, during the US-Israeli war with Iran, Trump said a swap with the UAE was 'under consideration' and called it 'a good ally'. The video's paraphrase that he 'would financially assist' overstates this. US officials said no formal request had been made, the UAE denied liquidity stress, and Bessent backed the idea. No swap line had been reported as finalized as of mid-2026. A later commentary (Express Tribune, 2026-08-10) said Washington had still not given a formal answer to the UAE's swap-line request; no signed swap line was found as of Nov 2026.",
+      "finding": "In a CNBC interview on 2026-04-21, during the US-Israeli war with Iran, Trump said a swap with the UAE was 'under consideration' and called it 'a good ally'. The paraphrase that he 'would financially assist' overstates this. US officials said no formal request had been made, the UAE denied liquidity stress, and Bessent backed the idea. No swap line had been reported as finalized as of mid-2026. A later commentary (Express Tribune, 2026-08-10) said Washington had still not given a formal answer to the UAE's swap-line request; no signed swap line was found as of Nov 2026.",
       "sources": [
         "https://www.bloomberg.com/news/articles/2026-04-21/trump-says-currency-swap-with-uae-is-under-consideration",
         "https://www.bloomberg.com/news/articles/2026-04-19/uae-in-talks-with-us-for-possible-financial-lifeline-wsj-says",
@@ -63,8 +63,8 @@
     }
   ],
   "corrections": [
-    "Transcript says the US 'had refused' the chip deals; the record shows Biden-era delays, tier-2 caps and partial approvals (Dec 2024), not a blanket refusal.",
-    "Transcript says Trump 'said he would financially assist the UAE'; he said a currency swap was 'under consideration', and no swap line had been reported as signed as of August 2026 (none found through Nov 2026).",
+    "Claimed: The US 'had refused' the chip deals. The record shows: Biden-era delays, tier-2 caps and partial approvals (Dec 2024), not a blanket refusal.",
+    "Claimed: Trump 'said he would financially assist the UAE'. The record shows: he said a currency swap was 'under consideration', and no swap line had been reported as signed as of August 2026 (none found through Nov 2026).",
     "The chip framework was announced ~2025-05-15; actual export licences came in Sept and Nov 2025.",
     "MGX's Stargate role was announced 2025-01-21, before the USD1/MGX deal, so it is not a subsequent benefit."
   ],

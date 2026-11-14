@@ -2,9 +2,9 @@
 
 **Verdict: mostly accurate** (confidence: high)
 
-Every factual claim in this segment checks out, with three gaps. The $75M was two separate purchases: $30M in November 2024 and $45M in January 2025. "Charged with fraud" refers to a civil SEC complaint, not a criminal charge. The settlement was proposed in March 2026, more than a year after Trump took office. Saying the SEC deal followed Sun's investment is accurate on the timing. That the investment caused the deal is an insinuation, and there is no direct evidence for it.
+Every factual claim here checks out, with three gaps. The $75M was two separate purchases: $30M in November 2024 and $45M in January 2025. "Charged with fraud" refers to a civil SEC complaint, not a criminal charge. The settlement was proposed in March 2026, more than a year after Trump took office. Saying the SEC deal followed Sun's investment is accurate on the timing. That the investment caused the deal is an insinuation, and there is no direct evidence for it.
 
-## What the video says (transcript lines 281-303)
+## The claim
 - Justin Sun invested $75 million in World Liberty Financial (WLF).
 - At the time, the SEC had charged him with fraud.
 - He became an adviser to WLF.
@@ -57,7 +57,7 @@ Every factual claim in this segment checks out, with three gaps. The $75M was tw
 8. **Sun was the initial champion and largest public investor: largely confirmed.**
    - Sun described himself as the largest investor in November 2024.
    - Bloomberg reported that WLF's token sale was "a bust" until Sun stepped in. [1][20]
-   - The video's next point, that a larger hidden investor existed (Tahnoon/Aryam), belongs to C06.
+   - The related point, that a larger hidden investor existed (Tahnoon/Aryam), is covered in C06.
 
 ## Corrections and nuance
 - The $75M was not one investment. It was $30M in November 2024 plus $45M in January 2025, and the second tranche came through TRON DAO.

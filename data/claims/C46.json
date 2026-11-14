@@ -8,7 +8,7 @@
     {
       "statement": "Cole's book and the Vanity Fair excerpt make these allegations.",
       "verdict": "confirmed",
-      "finding": "Vanity Fair ran the excerpt on 22 Oct 2026. The book is published by Atria/One Signal (Simon & Schuster) and, per Political Wire citing Status, was released early on 26 Oct after Kushner's legal threats (other listings give 25 or 27 Oct, so the exact date is not settled). Cole told Democracy Now! (2 Nov) that it rests on 'more than 50 sources' and was fact-checked and legally vetted (via search summaries; fetch blocked).",
+      "finding": "Vanity Fair ran the excerpt on 22 Oct 2026. The book is published by Atria/One Signal (Simon & Schuster) and, per Political Wire citing Status, was released early on 26 Oct after Kushner's legal threats (other listings give 25 or 27 Oct, so the exact date is not settled). Cole told Democracy Now! (2 Nov) that it rests on 'more than 50 sources' and was fact-checked and legally vetted (via search summaries; original not read).",
       "sources": [
         "https://www.mediaite.com/media/news/outrageous-fabrications-jared-kushner-rages-at-bombshell-report-in-vanity-fair/",
         "https://politicalwire.com/2026/10/26/book-on-jared-kushner-released-early/",
@@ -107,7 +107,7 @@
     }
   ],
   "corrections": [
-    "The brief calls it an FAB account 'with Kushner as signatory'. Per the book, the holder is the Watani Al Emarat Foundation; Kushner is a signatory, not the owner.",
+    "The claim calls it an FAB account 'with Kushner as signatory'. Per the book, the holder is the Watani Al Emarat Foundation; Kushner is a signatory, not the owner.",
     "The Jerusalem Post retraction was of a news write-up; a JPost opinion column critiquing the excerpt remains published.",
     "The Gabbard complaint (filed May 2025, reported Feb 2026) predates the book and is not linked by any outlet to the alleged accounts; Ynet's 'Iran-linked' label is a characterization, since the WSJ could not identify the speakers.",
     "Headline totals vary ($700M+, $1.75B, $2B); the book's own phrase is 'at least $2 billion' across 'at least two' accounts."
@@ -118,7 +118,7 @@
     "Cole stands by the reporting (50+ sources, fact-checked, legally vetted).",
     "Skepticism also comes from outside Kushner's camp: Barak Ravid (Axios), a Jerusalem Post column and the JPost newsroom.",
     "On the Gabbard complaint, ODNI says the delay reflected a classified legal review; Gabbard resigned on 22 May 2026 (effective 30 Jun), citing her husband's health.",
-    "Method: fetches of cbsnews.com, jpost.com, ynetnews.com, commondreams.org and democracynow.org were blocked; findings rely on search-result text, and no primary Vanity Fair, book, WSJ or complaint text was read.",
+    "Method: the original pages at cbsnews.com, jpost.com, ynetnews.com, commondreams.org and democracynow.org were not read directly; findings rely on search-result text, and no primary Vanity Fair, book, WSJ or complaint text was read.",
     "Context, not corroboration: since Feb 2026 the DOJ has been pursuing a leak-investigation subpoena (Newport News, Va.) for Cole's sources on a 2025 New York Times story about a Navy SEAL mission in North Korea; a court filing describes his then-forthcoming book as 'the story of Jared Kushner's secret Middle East diplomacy.' One secondary write-up says Cole's lawyers called the subpoena retaliation for the book and that prosecutors said they knew nothing of the book; that retaliation exchange is single-source and was not confirmed in other coverage."
   ],
   "sources": [
@@ -141,7 +141,7 @@
       "date": "2026-10"
     },
     {
-      "title": "Opinion column on the Bank of Israel claim (fetch blocked)",
+      "title": "Opinion column on the Bank of Israel claim (original not read directly)",
       "publisher": "Jerusalem Post",
       "url": "https://jpost.com/opinion/article-912780",
       "date": "2026-10"
@@ -213,7 +213,7 @@
       "date": "2026"
     },
     {
-      "title": "Interview with Matthew Cole (fetch blocked)",
+      "title": "Interview with Matthew Cole (original not read directly)",
       "publisher": "Democracy Now!",
       "url": "https://www.democracynow.org/2026/11/2/matthew_cole_jared_kushner_book",
       "date": "2026-11-02"
@@ -279,7 +279,7 @@
       "date": "2026-05-22"
     },
     {
-      "title": "Ranking Member Raskin Demands Jared Kushner Recuse from U.S. Envoy Role... (fetch blocked)",
+      "title": "Ranking Member Raskin Demands Jared Kushner Recuse from U.S. Envoy Role... (original not read directly)",
       "publisher": "House Judiciary Democrats",
       "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-jared-kushner-recuse-from-us-envoy-role-in-russia-and-iran-conflicts-amid-explosive-reports-of-secret-middle-eastern-slush-funds-and-phone-hacking-by-russian-intelligence-service",
       "date": "2026-10"

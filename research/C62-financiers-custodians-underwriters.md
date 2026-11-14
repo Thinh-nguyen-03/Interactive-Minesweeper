@@ -4,7 +4,7 @@
 
 Evidence grades: **documented** means filings, official records or several outlets. **Single-source** means one outlet or anonymous sourcing. **Inferred** means our own observation from timing or co-occurrence, which no source asserts.
 
-Research limits: direct fetches of globenewswire.com, theblock.co and finance.yahoo.com were blocked in this environment, so syndicated copies and search results were used instead. The session's web-search budget ran out before the Texas Ventures III and Kyle Wool chairmanship items could be checked further.
+Research limits: the original pages at globenewswire.com, theblock.co and finance.yahoo.com were not read directly, so syndicated copies and search results were used instead. The research ended before the Texas Ventures III and Kyle Wool chairmanship items could be checked further.
 
 ## Who financed what: the core map
 
@@ -66,7 +66,7 @@ Research limits: direct fetches of globenewswire.com, theblock.co and finance.ya
 
 18. **Galaxy.** No connection found.
 
-## Corrections to the brief
+## Corrections
 - Galaxy, Kraken, DWF Labs and Web3Port are not documented financiers of Trump-family vehicles. Kraken's ties run through donations, lobbying and regulatory relief, and DWF and Web3Port are WLFI token buyers.
 - Jane Street's stake is documented as 6.0% (16.57M shares), not a confirmed "$375M", and was largely sold by 2026.
 - The "Cantor declined to advise TMTG" report conflicts with TMTG's own release, which is treated as authoritative here.

@@ -2,14 +2,14 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-This is a follow-up lead from C21, C22 and C24, not a claim from the video. Most of the brief is documented. Two items need correcting:
+This check builds on C21, C22 and C24. Most of the claim is documented. Two items need correcting:
 
 - Nunes was named PIAB chair in December 2024, not when he left TMTG in April 2026.
 - "TAE's CEO lobbying DOE" is a documented industry meeting, not registered lobbying tied to the merger.
 
 The customer names rest on one anonymously sourced Reuters report.
 
-Research note: direct fetches of thestandard.com.hk and abc7.com failed (the hosts are blocked here), and the Senate LDA API returned 403. Findings below rely on search results across several syndicated outlets.
+Research note: the original pages at thestandard.com.hk and abc7.com were not read directly, and the Senate LDA API returned 403. Findings below rely on search results across several syndicated outlets.
 
 ## Sub-claims
 

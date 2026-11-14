@@ -178,7 +178,7 @@
   {
    "statement": "Michael Kratsios (OSTP) held, and may still hold, Scale AI stock.",
    "verdict": "unverified",
-   "finding": "Evidence grade: the earlier holding is documented; current status is unverified; no decision found. ProPublica's disclosure tracker lists Scale AI Class B shares worth $1M-$5M (from an earlier filing). Kratsios was a Scale managing director from 2021 to Jan 2024, and his 2026 annual OGE 278 was certified compliant. Sen. Cantwell's questions concerned Scale labour complaints. We found no specific OSTP decision benefiting Scale. Audit re-check (Nov 2026): no source reports whether he sold or kept the shares after Meta bought 49% of Scale (Jun 12, 2025, ~$14.3B). A search-result excerpt of his 2026 annual 278e (e-signed Jun 10, 2026) shows a US bank cash account of $5M-$25M and small ETF holdings; the excerpt is partial, so we cannot tell whether Scale shares are still listed. A cash-out in the Meta transaction is possible but is our own inference; OGE and ProPublica pages could not be fetched here.",
+   "finding": "Evidence grade: the earlier holding is documented; current status is unverified; no decision found. ProPublica's disclosure tracker lists Scale AI Class B shares worth $1M-$5M (from an earlier filing). Kratsios was a Scale managing director from 2021 to Jan 2024, and his 2026 annual OGE 278 was certified compliant. Sen. Cantwell's questions concerned Scale labour complaints. We found no specific OSTP decision benefiting Scale. Audit re-check (Nov 2026): no source reports whether he sold or kept the shares after Meta bought 49% of Scale (Jun 12, 2025, ~$14.3B). A search-result excerpt of his 2026 annual 278e (e-signed Jun 10, 2026) shows a US bank cash account of $5M-$25M and small ETF holdings; the excerpt is partial, so we cannot tell whether Scale shares are still listed. A cash-out in the Meta transaction is possible but is our own inference; OGE and ProPublica pages could not be read directly.",
    "sources": [
     "https://projects.propublica.org/trump-team-financial-disclosures/appointees/kratsios-michael",
     "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/D87640BF89C748E285258E35002DCCEE/$FILE/Michael-J-Kratsios-2026-278ANNU.pdf",
@@ -225,7 +225,7 @@
   }
  ],
  "corrections": [
-  "The brief calls the jet memo 'Bondi's legal memo'. It was reportedly drafted by OLC and signed by Bondi; it remains unreleased.",
+  "The claim calls the jet memo 'Bondi's legal memo'. It was reportedly drafted by OLC and signed by Bondi; it remains unreleased.",
   "Bondi's personal pay from the Qatar contract is not on record. The $115K/month went to Ballard Partners.",
   "Reported Atkins holding ranges differ between outlets (Securitize options $250K-$500K per Fortune/The Block vs larger figures elsewhere, incl. C54). Treat them as ranges.",
   "Quintenz was never confirmed, so he made no decisions as an official.",
@@ -244,7 +244,7 @@
   "Gould denies receiving any presidential direction on WLF's charter.",
   "Most crypto relief came through industry-wide policy, which the standard one-year recusals do not cover. This is lawful, but it means recusal terms do not address the main channel of benefit.",
   "Bondi's TMTG sale was required by her ethics agreement (divest within 90 days of confirmation); critics question only the timing.",
-  "Research note (updated by audit): Patomak's buyer is still not public, Kratsios's post-Meta Scale status is unverified, and Gentry Beach's role is covered in C75. govexec.com, OGE and ProPublica's tracker could not be fetched directly."
+  "Research note (updated by audit): Patomak's buyer is still not public, Kratsios's post-Meta Scale status is unverified, and Gentry Beach's role is covered in C75. govexec.com, OGE and ProPublica's tracker could not be read directly."
  ],
  "sources": [
   {

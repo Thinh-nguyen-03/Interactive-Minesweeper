@@ -3,7 +3,7 @@
   "title": "Greenland, the seabed and rare earths: Cantor-linked firms before Lutnick's department",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Most of the brief's links are documented. Cantor was a top shareholder of Critical Metals when U.S. officials steered Tanbreez to it, then EXIM offered a $120M LOI and officials discussed an ~8% stake that never closed. Cantor advises TMC and co-arranged a >$150M raise for a second NOAA seabed applicant (AOMC) while Lutnick's NOAA decides their permits. Cantor led USAR's $1.5B PIPE, and John Paulson, a top Trump fundraiser, is the largest holder of EXIM-backed Perpetua. Trump associates Schiller and Sorial own part of GreenMet, Tanbreez's development partner. Not substantiated: any Lutnick recusal (unknown), the Warren letter's claim that named Trump allies bought PIPE shares, and family gains (PIPE buyers were ~57% under water by Oct 2026).",
+  "summary": "Most of the claim's links are documented. Cantor was a top shareholder of Critical Metals when U.S. officials steered Tanbreez to it, then EXIM offered a $120M LOI and officials discussed an ~8% stake that never closed. Cantor advises TMC and co-arranged a >$150M raise for a second NOAA seabed applicant (AOMC) while Lutnick's NOAA decides their permits. Cantor led USAR's $1.5B PIPE, and John Paulson, a top Trump fundraiser, is the largest holder of EXIM-backed Perpetua. Trump associates Schiller and Sorial own part of GreenMet, Tanbreez's development partner. Not substantiated: any Lutnick recusal (unknown), the Warren letter's claim that named Trump allies bought PIPE shares, and family gains (PIPE buyers were ~57% under water by Oct 2026).",
   "sub_claims": [
     {
       "statement": "Cantor Fitzgerald holds a position in Critical Metals Corp (Tanbreez, Greenland), and Washington helped steer Tanbreez to that company and then offered it financing and discussed an equity stake.",
@@ -107,7 +107,7 @@
     {
       "statement": "Perpetua Resources' EXIM loan benefits a major Trump donor: John Paulson is its largest shareholder.",
       "verdict": "confirmed",
-      "finding": "Evidence: documented (Bloomberg Government, Northern Miner, E&E, company releases). Bloomberg Government names John Paulson, a billionaire Trump supporter, as Perpetua's largest shareholder, with roughly a quarter of the company (one figure is 26%). In Jun 2025 Paulson & Co. bought $100M of a $425M raise at $13.20 a share. Paulson hosted Trump's April 2024 Palm Beach fundraiser, which raised $50.5M, and withdrew from Treasury Secretary consideration in 2024, citing his financial entanglements. Federal actions: the White House picked Stibnite as a FAST-41 transparency project (Apr 2025); final federal permits followed in 2025; DoD support exceeds $80M; EXIM notified Congress of a $2.7B loan and its board approved $2.9B in May 2026, subject to definitive documents expected in H2 2026. Cantor's documented role is smaller than the brief implies: Cantor Fitzgerald Canada co-led Perpetua's Aug 2021 $57.5M offering (before Lutnick's appointment) and covers the stock with a Buy, but it was not on the Jun 2025 deal. What this does not show: that Paulson lobbied for the loan, or a realized gain. A parallel case is documented: Paulson's Trilogy Metals stake gained an estimated $60-70M on paper on the day of the government's 2025-10-06 stake, and he later sold it.",
+      "finding": "Evidence: documented (Bloomberg Government, Northern Miner, E&E, company releases). Bloomberg Government names John Paulson, a billionaire Trump supporter, as Perpetua's largest shareholder, with roughly a quarter of the company (one figure is 26%). In Jun 2025 Paulson & Co. bought $100M of a $425M raise at $13.20 a share. Paulson hosted Trump's April 2024 Palm Beach fundraiser, which raised $50.5M, and withdrew from Treasury Secretary consideration in 2024, citing his financial entanglements. Federal actions: the White House picked Stibnite as a FAST-41 transparency project (Apr 2025); final federal permits followed in 2025; DoD support exceeds $80M; EXIM notified Congress of a $2.7B loan and its board approved $2.9B in May 2026, subject to definitive documents expected in H2 2026. Cantor's documented role is smaller than the claim implies: Cantor Fitzgerald Canada co-led Perpetua's Aug 2021 $57.5M offering (before Lutnick's appointment) and covers the stock with a Buy, but it was not on the Jun 2025 deal. What this does not show: that Paulson lobbied for the loan, or a realized gain. A parallel case is documented: Paulson's Trilogy Metals stake gained an estimated $60-70M on paper on the day of the government's 2025-10-06 stake, and he later sold it.",
       "sources": [
         "https://news.bgov.com/esg/critical-minerals-project-faces-hurdles-after-trumps-greenlight",
         "https://www.northernminer.com/news/perpetua-secures-400m-financing-for-stibnite-gold-project/1003879534/",
@@ -131,7 +131,7 @@
     }
   ],
   "corrections": [
-    "The brief calls the Critical Metals tie a 'Cantor stake'. It was a roughly 1% shareholding at end-2024 (reported third-largest investor), with conflicting later data and no confirmed 2026 holding.",
+    "The claim calls the Critical Metals tie a 'Cantor stake'. It was a roughly 1% shareholding at end-2024 (reported third-largest investor), with conflicting later data and no confirmed 2026 holding.",
     "There is no U.S. government stake in Critical Metals. Only talks (Oct 2025) and a non-binding $120M EXIM letter of interest exist, and an official later said no investment was being actively considered.",
     "NOAA has not issued TMC any commercial recovery permit. Its consolidated application is in EIS review, with a decision expected around Q1 2027.",
     "'Which Trump allies got shares': the only named investors (Schwarzman, Griffin, Cohen) come from a Senate letter, not from USAR disclosures.",
@@ -143,7 +143,7 @@
     "USA Rare Earth says Cantor had no role in the government transaction. Cantor denies wrongdoing and calls itself a capital-raising partner.",
     "Sorial and Schiller call themselves passive minority investors in GreenMet. GreenMet did not answer NPR. Lauder and the White House declined to comment on his Greenland holdings.",
     "Cantor is one of the most active small-cap mining and SPAC banks, so some overlap with federally backed miners is structural. The national-security rationale for non-Chinese rare-earth supply is bipartisan.",
-    "Source limits: direct fetches of Senate sites, NPR member stations and 13F aggregators failed in this session (host not allowed). Details rely on search-result summaries, and 13F figures come from aggregators that conflict."
+    "Source limits: the original pages at Senate sites, NPR member stations and 13F aggregators were not read directly. Details rely on search-result summaries, and 13F figures come from aggregators that conflict."
   ],
   "sources": [
     {

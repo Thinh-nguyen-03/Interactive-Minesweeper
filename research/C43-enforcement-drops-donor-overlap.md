@@ -4,17 +4,17 @@
 
 The overlap is documented and large. The SEC eased about 60% of the crypto cases it inherited, and many of the firms that benefited donated to Trump or did business with his family. Causation is not shown. Firms with no known Trump ties got the same treatment. The NYT found no evidence of direct pressure. The SEC and its chair deny any political influence.
 
-## Lead as briefed
-Follow-up from C23 (parents C22 and C09). It covers five items:
+## The claim
+This check builds on C23 (parents C22 and C09). It covers five items:
 - the NYT "about 60%" analysis;
 - Robinhood's closed SEC crypto probe;
 - Public Citizen's tracker;
 - Crypto.com's Trump-connected lobbyist;
 - Gemini's MAGA Inc. donation.
 
-It also asks for the counter-arguments and official responses. The video did not cover these specifics. C23 already covered the Coinbase, Kraken, Binance, Gemini and Ripple dismissals and the inaugural, parade and ballroom donations; they are not repeated here.
+It also asks for the counter-arguments and official responses. C23 already covered the Coinbase, Kraken, Binance, Gemini and Ripple dismissals and the inaugural, parade and ballroom donations; they are not repeated here.
 
-**Method note:** these sites could not be fetched directly from this environment (DNS blocked): yellow.com, cointelegraph.com, theblock.co, citizen.org, pbs.org and thedailybeast.com. The NYT original was also not reachable. Findings rest on search-result excerpts from several outlets, and anything known from only one secondhand account is flagged.
+**Method note:** these sites could not be read directly: yellow.com, cointelegraph.com, theblock.co, citizen.org, pbs.org and thedailybeast.com. The NYT original was also not reachable. Findings rest on search-result excerpts from several outlets, and anything known from only one secondhand account is flagged.
 
 ## Sub-claims
 

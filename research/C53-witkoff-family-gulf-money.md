@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate (confidence: medium)**
 
-This is a follow-up lead from C14, C42 and C16, so the brief is a research prompt, not a quote from the video. The main elements are documented:
+This check builds on C14, C42 and C16, so the claim is a research prompt. The main elements are documented:
 
 - Qatar's sovereign fund bought the Park Lane Hotel in 2023.
 - The Witkoff sons pitched a multibillion-dollar real-estate fund to Gulf sovereign funds.
@@ -18,7 +18,7 @@ Several details need correcting:
 - **The $100M 'Qatar trust' money.** It was corrected: the lender was Apollo Global Management itself, not its Qatar-part-owned trust.
 - **Timing versus negotiations.** No source shows the family's business influenced any negotiation. The links to the Doha strike, the jet and Iran are timing-based insinuation.
 
-Note on method: direct fetches of ynetnews.com and en.wikipedia.org were blocked in this environment. The findings below rest on search-result excerpts from multiple outlets: Bisnow, The Real Deal, CRE News, Commercial Observer, PincusCo, Gulf Times, The Peninsula, JPost, Yahoo, Washington Examiner, Forbes, AP via regional outlets, and congressional press releases. The NYT article (Sept 26, 2025, by Debra Kamin and Bradley Hope) was read only through secondary coverage.
+Note on method: the original pages at ynetnews.com and en.wikipedia.org were not read directly. The findings below rest on search-result excerpts from multiple outlets: Bisnow, The Real Deal, CRE News, Commercial Observer, PincusCo, Gulf Times, The Peninsula, JPost, Yahoo, Washington Examiner, Forbes, AP via regional outlets, and congressional press releases. The NYT article (Sept 26, 2025, by Debra Kamin and Bradley Hope) was read only through secondary coverage.
 
 ## Sub-claims
 
@@ -63,9 +63,9 @@ Note on method: direct fetches of ynetnews.com and en.wikipedia.org were blocked
 - Russia: reporting covers Witkoff's undisclosed real-estate tie to Leonard Blavatnik and the NYT's report on Russian asset and Lukoil deal talks. Witkoff's spokeswoman says he has "no financial stake." These are logged as leads.
 
 ## Corrections
-- The brief says Qatar bought "the Witkoff Group's Park Lane hotel stake." In the record, QIA bought the whole hotel (about $623M, Aug 2023) from a Witkoff–Mubadala JV. Witkoff's share is undisclosed, and Qatar disputes that Witkoff owned it.
-- The brief puts the sons' fundraising in 2025. QIA dates Alex's pitch to 2024, and the NYT reported it in Sept 2025. QIA declined and the fund was shelved.
-- The brief names "Alex/Zach." QIA confirms only Alex's approach. Zach's role and the UAE and Kuwait approaches rest on the NYT alone.
+- The claim says Qatar bought "the Witkoff Group's Park Lane hotel stake." In the record, QIA bought the whole hotel (about $623M, Aug 2023) from a Witkoff–Mubadala JV. Witkoff's share is undisclosed, and Qatar disputes that Witkoff owned it.
+- The claim puts the sons' fundraising in 2025. QIA dates Alex's pitch to 2024, and the NYT reported it in Sept 2025. QIA declined and the fund was shelved.
+- The claim names "Alex/Zach." QIA confirms only Alex's approach. Zach's role and the UAE and Kuwait approaches rest on the NYT alone.
 
 ## Denials and context
 - Qatar's International Media Office called the cultivation claims false and "absurd," and said Qatari entities have dealt with Witkoff for years, long before Trump's election.
@@ -81,7 +81,7 @@ Note on method: direct fetches of ynetnews.com and en.wikipedia.org were blocked
 4. Commercial Observer, "Qatar Sovereign Fund Acquires Park Lane Hotel for $623M," 2023-08. https://commercialobserver.com/2023/08/qatar-sovereign-fund-acquires-park-lane-hotel-for-623m/
 5. The Real Deal, "Witkoff and Mubadala to split proceeds from Park Lane hotel sale," 2017-05-23. https://therealdeal.com/2017/05/23/witkoff-and-mubadala-to-split-proceeds-from-park-lane-hotel-sale
 6. Washington Examiner, "Witkoff's son sought investments from Middle East as father negotiated peace in region," 2025-09. https://www.washingtonexaminer.com/?p=3827497
-7. Ynet, "Report: Witkoff's son courted billions from Gulf States during Gaza talks," 2025-09 (fetch blocked; seen via search excerpt). https://www.ynetnews.com/article/bkukver2ll
+7. Ynet, "Report: Witkoff's son courted billions from Gulf States during Gaza talks," 2025-09 (original not read; seen via search excerpt). https://www.ynetnews.com/article/bkukver2ll
 8. Yahoo News, "Witkoff family threatens NYT with defamation suit," 2025-10. https://www.yahoo.com/news/articles/witkoff-family-threatens-nyt-defamation-212437336.html
 9. Jerusalem Post, "Witkoff family alleges NYT defamation," 2025-10. https://www.jpost.com/american-politics/article-869981
 10. Gulf Times, "Qatar debunks NYT claims about Witkoff," 2025-09-27. https://www.gulf-times.com/article/711590/qatar/qatar-debunks-nyt-claims-about-witkoff
@@ -102,7 +102,7 @@ Note on method: direct fetches of ynetnews.com and en.wikipedia.org were blocked
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: corrected** (independent re-verification with fresh web searches)
+**Result: corrected** (independent re-verification with fresh searches)
 
 Checked:
 - NYT's $100M from an 'Apollo-run trust partly owned by Qatar' into the Witkoff Group

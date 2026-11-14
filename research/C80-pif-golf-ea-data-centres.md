@@ -2,7 +2,7 @@
 
 **Verdict:** mostly-accurate (confidence: medium)
 
-**Type:** connection hunt, second layer from C56 and C57 (parents C56, C57, C15; also builds on C68)
+**Type:** connection check, second layer from C56 and C57 (parents C56, C57, C15; also builds on C68)
 
 ## Summary
 
@@ -16,7 +16,7 @@ The deals themselves are well documented. The approvals behind them often are no
 - **G42 in the US:** The report that G42 will become a US company is relayed, contested and unconfirmed.
 - **Lunate and G42's China fund:** Lunate's takeover of the fund is a single-source 2024 Bloomberg report. Lunate is also an LP in Kushner's Affinity, which links G42's China fund to the Kushner fund through the same holder.
 
-Research note: direct fetches of most outlets, including Game Developer, Enterprise AM and Il Foglio, were blocked in this environment. Findings rely on search-result coverage across several outlets. The WSJ and Bloomberg originals on G42 were not accessed.
+Research note: the original pages at most outlets, including Game Developer, Enterprise AM and Il Foglio, were not read directly. Findings rely on search-result coverage across several outlets. The WSJ and Bloomberg originals on G42 were not accessed.
 
 ## Connections, with evidence grades
 

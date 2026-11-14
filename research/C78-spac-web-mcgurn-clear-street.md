@@ -1,6 +1,6 @@
 # C78: The SPAC web: McGurn, Yorkville, Texas Ventures, Clear Street
 
-**Verdict: mostly-accurate (medium confidence).** The web is real, and larger than the brief describes. Yorkville affiliates control four blank-cheque companies:
+**Verdict: mostly-accurate (medium confidence).** The web is real, and larger than the claim describes. Yorkville affiliates control four blank-cheque companies:
 
 - Yorkville Acquisition Corp (MCGA)
 - Texas Ventures Acquisition III (TVA)
@@ -9,7 +9,7 @@
 
 Kevin McGurn is CEO of at least three of them while serving as Trump Media's interim CEO. Two Trump Organization executive vice presidents, Lawrence Glick and Alan Garten, sit on TVA III's board, and TVA III is merging with PlusAI at an $800M pre-money valuation.
 
-Two points in the brief need correcting:
+Two points in the claim need correcting:
 
 - **McGurn no longer runs the Trump sons' SPAC.** He resigned from New America Acquisition I on Aug 5, 2026, and Dominari's Kyle Wool now runs it.
 - **The two clusters are separate.** The Dominari/D. Boral underwriting cluster and the Yorkville sponsor cluster are joined only through McGurn.
@@ -24,7 +24,7 @@ Evidence grades used below:
 - **single-source:** one outlet or anonymous sourcing
 - **inferred:** our own cross-referencing, which no source asserts
 
-**Research limits.** sec.gov, newstracs.com and wendysiegelman.substack.com could not be fetched in this session. Filing details below come from search-result snippets of SEC documents and from secondary summaries. Figures marked "aggregator" were not checked against the filing itself.
+**Research limits.** sec.gov, newstracs.com and wendysiegelman.substack.com could not be read directly. Filing details below come from search-result snippets of SEC documents and from secondary summaries. Figures marked "aggregator" were not checked against the filing itself.
 
 ## Vehicle map
 
@@ -119,9 +119,9 @@ n/f = not found.
 
 13. **Financier-client governance overlap.** The seats are *documented* for Glick, Garten and McGurn *documented* for Nunes and Glabe at TVA III until Feb 2026, and *single-source* for them at BLUW; the characterization is *inferred*. Yorkville is TMTG's largest outside financier: about $450M in equity-line purchases, co-lead on the 2025 raise, ETF adviser and partner in the CRO SPAC (C62). It has placed TMTG's CEO, general counsel and interim CEO, and the Trump Org's chief legal officer and development chief, on boards it controls. This is a conflict-of-interest question, not evidence of any payment.
 
-## Corrections to the brief and to earlier files
+## Corrections (including to earlier checks)
 
-- McGurn resigned from NWAX on Aug 5, 2026. The brief's "while interim CEO" holds for only about 3.5 months of overlap, from Apr 21 to Aug 5, 2026.
+- McGurn resigned from NWAX on Aug 5, 2026. The claim's "while interim CEO" holds for only about 3.5 months of overlap, from Apr 21 to Aug 5, 2026.
 - McGurn was CEO of TVA III until Apr 22, 2026 (8-K); Rillo has been CEO since. (The first pass had this as unverified.)
 - "D. Boral, Dominari and Yorkville as recurring sponsors/underwriters": these are two distinct clusters. Yorkville's SPACs used Cohen & Company, as far as found.
 - C62 grades TVA III's Trump Org directors as single-source. The 10-K makes them documented.

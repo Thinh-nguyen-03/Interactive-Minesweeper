@@ -1,6 +1,6 @@
 # C67: Investors who show up in several Trump-family vehicles
 
-**Verdict: mostly-accurate (confidence: medium).** The connections we found are reasonably well substantiated, but fewer parties are true repeat investors than the brief suggests.
+**Verdict: mostly-accurate (confidence: medium).** The connections we found are reasonably well substantiated, but fewer parties are true repeat investors than the claim suggests.
 
 Only a few parties are documented putting money into more than one Trump-family vehicle:
 
@@ -9,9 +9,9 @@ Only a few parties are documented putting money into more than one Trump-family 
 - **Web3Port and Aqua 1** look like two buyers but, per the New York Times, trace to one person: Guren "Bobby" Zhou, who is under a UK money-laundering investigation.
 - **Crypto.com** is the most frequent *commercial* counterparty, and it is also a top super-PAC donor.
 
-Most other names in the brief appear in a single vehicle: DWF Labs, Oddiyana, Hut 8, DRW, Kraken, GD Culture and the other $TRUMP-treasury small caps. Nothing found shows that any investment caused a government decision.
+Most other names in the claim appear in a single vehicle: DWF Labs, Oddiyana, Hut 8, DRW, Kraken, GD Culture and the other $TRUMP-treasury small caps. Nothing found shows that any investment caused a government decision.
 
-Method note: we first mined C01-C60 for recurring names, then searched outward. The web-search budget ran out mid-pass. Many outlets could not be fetched directly: NYT, WSJ, Caixin, The Block, Cointelegraph, CryptoSlate and Bitcoin.com. Several findings therefore rest on search-result summaries drawn from multiple outlets.
+Method note: we first mined C01-C60 for recurring names, then searched outward. The research ended before every thread was checked. Many outlets could not be read directly: NYT, WSJ, Caixin, The Block, Cointelegraph, CryptoSlate and Bitcoin.com. Several findings therefore rest on search-result summaries drawn from multiple outlets.
 
 ## Repeat-investor matrix
 

@@ -6,13 +6,13 @@ The core facts check out. Trump launched the official $TRUMP meme coin on the ev
 
 Three things need flagging:
 - The "$600M" figure rounds a self-reported amount of gross licensing income down.
-- The "shell companies" label is the video's own description.
+- The "shell companies" label is a characterization, not a legal finding.
 - "Almost exclusively lost money" is directionally right, but no exact count of losing buyers exists.
 
-## What the video says (transcript lines 101-135, 193-231)
+## The claim
 - "Two days before Trump took office… Trump just launched a meme coin."
 - "When the president raked in $600 million with Trump coin, she [Molly White] tracked the shell companies." Melania "reported $6 million on her coin and NFTs."
-- A clip shows Trump answering a question about his family's crypto business: "I was there before I was in office… We have to be at the top. Otherwise, China is going to take it over."
+- Asked about his family's crypto business, Trump said: "I was there before I was in office… We have to be at the top. Otherwise, China is going to take it over."
 - Melania's coin is down about 99% and Trump's about 95%. Buyers "have almost exclusively lost money" unless they were very early.
 
 ## Sub-claims
@@ -24,15 +24,15 @@ Three things need flagging:
    - Chainalysis found about $324M in trading fees went to creator-linked wallets by May 2025.
    - Coinbase's Conor Grogan estimated more than $800M.
 
-3. **"Shell companies": characterization.** The proceeds flow through LLCs rather than to Trump directly. CIC Digital LLC is a Trump Organization affiliate. Fight Fight Fight LLC is run by longtime Trump business partner Bill Zanker. Both are opaque, but "shell companies" is the video's pejorative label, not a legal finding.
+3. **"Shell companies": characterization.** The proceeds flow through LLCs rather than to Trump directly. CIC Digital LLC is a Trump Organization affiliate. Fight Fight Fight LLC is run by longtime Trump business partner Bill Zanker. Both are opaque, but "shell companies" is a pejorative label, not a legal finding.
 
 4. **Molly White tracked these entities: plausible but only partly verified.** Molly White writes the *Citation Needed* newsletter. She published an analysis of Trump's $1.4B crypto disclosure and has commented widely on the meme coin, for example on Democracy Now in May 2025. I did not find her specific entity-tracking work.
 
 5. **Melania "$6 million": confirmed with a caveat.** Her 2025 OGE filing shows more than $6M from NFTs and "other collectibles" under a license agreement with Designers Manager. The filing does not name $MELANIA. Linking the income to the coin is an inference made by analysts, for example at the Center for American Progress.
 
-6. **Trump's answer about crypto and China: confirmed.** He gave it in a White House interview with CNBC's Joe Kernen around July 2, 2026, after the disclosure came out. Asked whether he knew about his family's crypto ventures, he said he "could know" but didn't, called it "nothing illegal," and said the US must lead or "China's going to take it over." The video then says he launched the coin "so China wouldn't do it first." That is Coffeezilla's sarcastic paraphrase. Trump did not give China as a reason for the meme coin specifically.
+6. **Trump's answer about crypto and China: confirmed.** He gave it in a White House interview with CNBC's Joe Kernen around July 2, 2026, after the disclosure came out. Asked whether he knew about his family's crypto ventures, he said he "could know" but didn't, called it "nothing illegal," and said the US must lead or "China's going to take it over." The further suggestion that he launched the coin "so China wouldn't do it first" is a sarcastic paraphrase of that remark. Trump did not give China as a reason for the meme coin specifically.
 
-7. **TRUMP down about 95%, MELANIA down about 99%: confirmed, and now understated for TRUMP.** TRUMP peaked at about $73.43 on January 19, 2025. A February 2026 snapshot showed it about 95% down, matching the video. By early November 2026 it was about 98% down, with reported record lows of about $1.11-1.22 between November 4 and 10 (outlets differ), after falling further when the midterms were held. MELANIA peaked at about $13.73 and is down about 99%.
+7. **TRUMP down about 95%, MELANIA down about 99%: confirmed, and now understated for TRUMP.** TRUMP peaked at about $73.43 on January 19, 2025. A February 2026 snapshot showed it about 95% down, matching the claim. By early November 2026 it was about 98% down, with reported record lows of about $1.11-1.22 between November 4 and 10 (outlets differ), after falling further when the midterms were held. MELANIA peaked at about $13.73 and is down about 99%.
 
 8. **Buyers have almost all lost money: directionally supported, not precisely quantified.** In May 2025 Chainalysis data reported by CNBC showed:
    - about 764,000 of roughly 2M buyer wallets were in the red;

@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate. Confidence: medium.**
 
-This is a third-layer connection hunt. It builds on C49 (the pardon market), C64 (lobbyists and fixers), C72 (Pakistan, WLF and minerals) and C77 (Greenland and GreenMet). Facts already set out there are only summarised here.
+This is a third-layer connection check. It builds on C49 (the pardon market), C64 (lobbyists and fixers), C72 (Pakistan, WLF and minerals) and C77 (Greenland and GreenMet). Facts already set out there are only summarised here.
 
 ## Summary
 
@@ -17,7 +17,7 @@ This is a third-layer connection hunt. It builds on C49 (the pardon market), C64
   - any White House meeting or access for either man since November 2024;
   - any US decision credited to them. Daibes got no clemency, and every policy overlap below is our own inference.
 
-## What the brief asks, and what was found
+## What was checked, and what was found
 
 ### 1. Javelin is a three-way partnership that includes Pakistan's prime contractor. Grade: documented. Verdict: confirmed
 - **The filing:** Javelin's FARA registration No. 7705 was received on 2026-03-23. It says the firm is "co-owned and controlled equally by George A Sorial, Keith Schiller, and Robert W. Seiden". All three are managing directors.
@@ -104,7 +104,7 @@ This is a third-layer connection hunt. It builds on C49 (the pardon market), C64
   - An unofficial dossier claims a joint $5,000 donation to Sen. Katie Britt's joint fundraising committee (September 2025).
   - An unofficial claim of a $4,000 donation to Ronny Jackson (C72).
 
-## Corrections to the brief
+## Corrections
 - **Ownership:** Javelin is not only Schiller and Sorial's firm. Robert Seiden is an equal third owner.
 - **The Daibes $1M:** The amount is NBC's figure, from unnamed sources. The LDA forms establish the engagement and its purpose, not the sum.
 - **Tanbreez:** GreenMet is Tanbreez's development partner, not an equity holder (C77).
@@ -114,7 +114,7 @@ This is a third-layer connection hunt. It builds on C49 (the pardon market), C64
 - **Daibes:** His lawyer says he cut ties with Javelin by June 2025. Schiller and Javelin did not comment, and the White House does not comment on pardons.
 - **Lindberg:** His lawyer says pardons should be given when the facts warrant it.
 - **What registration means:** FARA and LDA registration is disclosure. No source alleges illegality or any outcome bought.
-- **Access limits:** efile.fara.gov, lda.senate.gov, Taiwan News, NPR station sites and the dossier site were all blocked for direct fetch here. Contents were taken from search-result extracts.
+- **Access limits:** efile.fara.gov, lda.senate.gov, Taiwan News, NPR station sites and the dossier site were not read directly. Contents were taken from search-result extracts.
 
 ## Not connected in the coverage we found
 - **Seiden Law to Javelin as self-dealing.** *Documented* ownership and payment. That it is self-dealing, or that it matters, is our own framing. No source characterises it.
@@ -162,7 +162,7 @@ This is a third-layer connection hunt. It builds on C49 (the pardon market), C64
 
 Result: **upheld** (verdict and confidence unchanged).
 
-- **Three equal owners.** Upheld. Fresh search extracts of FARA 7705 again quote "co-owned and controlled equally by George A Sorial, Keith Schiller, and Robert W. Seiden". The same extract shows a Delaware certificate of formation signed by Sorial dated 2026-03-20, later than the Dec 2024 launch; we could not resolve this (efile.fara.gov does not resolve from this environment).
+- **Three equal owners.** Upheld. Fresh search extracts of FARA 7705 again quote "co-owned and controlled equally by George A Sorial, Keith Schiller, and Robert W. Seiden". The same extract shows a Delaware certificate of formation signed by Sorial dated 2026-03-20, later than the Dec 2024 launch; we could not resolve this (efile.fara.gov could not be read directly).
 - **TECRO.** Upheld on the filing alone: the 7705 short forms and Exhibit AB name the Taipei Economic and Cultural Representative Office. No press coverage of the engagement was found; fee and scope are still unread.
 - **Lindberg.** No pardon found through Nov 2026 (latest coverage, Vanity Fair, Mar 2026: still pending). Added Sen. Ted Budd's opposition.
 - **Labels.** Single-source and inferred items are labelled in findings and relationship labels; no change needed.

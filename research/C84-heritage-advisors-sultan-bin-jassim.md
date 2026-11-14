@@ -2,12 +2,12 @@
 
 **Verdict: mostly-accurate (confidence: medium).**
 
-The fund's three roles in this brief are documented:
+The fund's three roles in this claim are documented:
 - It paid Lee Zeldin's consultancy in 2023.
 - It holds a large Newsmax stake.
 - It was the Qatari investor in Fred Daibes's Edgewater property in the Menendez case.
 
-This pass adds four layers to C73:
+This check adds four layers to C73:
 - **The Newsmax stake's size.** An SEC ownership chain shows about 19.7M shares, roughly 15% of the company (our arithmetic). At the March 2025 listing that was worth about $1.6B (our arithmetic), against about $50M invested.
 - **The Daibes deal's terms.** Heritage paid $45M for a quarter stake.
 - **The IS EG Halal overlap.** The Daily Beast reports that the joint Heritage-Daibes entity controls the base of co-defendant Wael Hana's IS EG Halal. This is single-source.
@@ -15,9 +15,9 @@ This pass adds four layers to C73:
 
 No source shows the threads were coordinated or that any of them produced a US government benefit. We found no EPA matter involving Qatar. Newsmax is suing to overturn an approval by Trump's FCC rather than benefiting from it. Daibes's $1M pardon bid through Javelin failed.
 
-Parents: C73 (Qatar access network) and C64 (lobbyists and fixers). This report extends them and does not repeat them. icij.org, sec.gov and oge.gov could not be fetched from this environment. Findings rest on search-result text across several outlets and filing aggregators.
+Parents: C73 (Qatar access network) and C64 (lobbyists and fixers). This report extends them and does not repeat them. icij.org, sec.gov and oge.gov could not be read directly. Findings rest on search-result text across several outlets and filing aggregators.
 
-## What the brief asks
+## What was checked
 
 Map Heritage Advisors' other US investments and relationships. Then cover:
 - Newsmax's dealings with the administration: the FCC, its defamation settlements and its IPO.
@@ -68,7 +68,7 @@ This is the only source joining the Heritage cluster to the jet and, through HBJ
 - **The payment.** Heritage Advisors (London) paid Zeldin Strategies more than $5,000 for April-December 2023.
 - **Zeldin's account.** He says the work required no FARA registration and involved no lobbying or media work for the fund.
 - **His overall income.** E&E News reports $775K in total salary from Zeldin Strategies.
-- **The ethics agreement.** It requires him to divest the firm and to recuse from EPA matters involving clients of his wife Diana, who works there. This comes from search excerpts; the OGE PDF could not be fetched.
+- **The ethics agreement.** It requires him to divest the firm and to recuse from EPA matters involving clients of his wife Diana, who works there. This comes from search excerpts; the OGE PDF could not be read directly.
 - **Timing.** Quincy notes the engagement began shortly after his 2023 Newsweek op-ed criticising Qatari influence.
 - **Not established.** We could not read the entries in his 2026 annual 278e (signed 13 May 2026), so whether Heritage stayed a client of the firm is unknown.
 
@@ -121,7 +121,7 @@ We found no FCC or other federal benefit to Newsmax.
 ## Corrections
 
 - **The Newsmax stake.** C73 gives only the $50M invested. SEC filings show about 19.7M shares, roughly 15%, worth about $1.65B at listing (our arithmetic).
-- **"Dealings with the administration".** The brief's framing implies favour. The record shows Newsmax opposing the FCC and leaving the Pentagon, and its settlements were private.
+- **"Dealings with the administration".** The claim's framing implies favour. The record shows Newsmax opposing the FCC and leaving the Pentagon, and its settlements were private.
 - **The Daibes deal.** It closed in December 2022, $45M for 25% (FDD, Daily Beast).
 - **The Free Beacon article.** It does not say Heritage owns the jet. It says Sheikh Sultan is an HBJ partner, citing one anonymous source.
 

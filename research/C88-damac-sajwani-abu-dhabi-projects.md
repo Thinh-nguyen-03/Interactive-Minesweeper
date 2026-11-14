@@ -2,11 +2,11 @@
 
 **Verdict: mostly-accurate (confidence: medium)**
 
-This is a third-layer connection hunt. It builds on C70 (Damac's fees, the $20B pledge, the permitting order), C82 (the DT Marks Abu Dhabi entities and the payer subsidiaries) and C31 (Gulf licensing). It does not repeat those reports. It adds what the pledge has turned into on the ground, the full timeline of the relationship, and a check for crypto links.
+This is a third-layer connection check. It builds on C70 (Damac's fees, the $20B pledge, the permitting order), C82 (the DT Marks Abu Dhabi entities and the payer subsidiaries) and C31 (Gulf licensing). It does not repeat those reports. It adds what the pledge has turned into on the ground, the full timeline of the relationship, and a check for crypto links.
 
-Several parts of the brief hold up well: the money, the long relationship, and continued access to the president. The parts about federal permitting or energy decisions benefiting Damac's sites, and about Sajwani-family crypto dealings with Trump ventures, found no support. Both are rated **unverified**, not disproven.
+Several parts of the claim hold up well: the money, the long relationship, and continued access to the president. The parts about federal permitting or energy decisions benefiting Damac's sites, and about Sajwani-family crypto dealings with Trump ventures, found no support. Both are rated **unverified**, not disproven.
 
-Method note: citizensforethics.org, cnbc.com and tahawultech.com could not be fetched from here. Their findings come from search-result excerpts and syndicated copies (Times Brasil for CNBC). The Delaware register was not reachable. 24 web searches were used.
+Method note: citizensforethics.org, cnbc.com and tahawultech.com could not be read directly. Their findings come from search-result excerpts and syndicated copies (Times Brasil for CNBC). The Delaware register was not reachable.
 
 ## Timeline
 

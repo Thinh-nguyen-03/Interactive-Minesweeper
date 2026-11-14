@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium-high)
 
-## What the video says (transcript lines 535-553)
+## The claim
 
 - Jared Kushner, the president's son-in-law, "has been called the peace envoy by Trump."
 - He takes part in negotiations alongside Steve Witkoff "in an unofficial capacity."
@@ -19,13 +19,13 @@
 
 3. **Affinity is a "multibillion dollar fund." Confirmed.** Its Form ADV dated 22 Mar 2026 reports about $6.16B in regulatory assets at end-2025 (Bloomberg rounds this to $6.2B). About 99% comes from non-US clients, mainly Saudi, Emirati and Qatari.
 
-4. **The NYT reported he is trying to raise $5B, largely from Gulf sovereign funds. Confirmed, with a nuance.** The NYT reported in March 2026, citing five people familiar with the talks, that Kushner was seeking "$5 billion or more" for Affinity. Representatives had already met the PIF, and Gulf funds were expected to be approached. Axios (16 Mar 2026) said the fund was not formally in market yet, but talks with the PIF had started because of the PIF's contractual "first look" rights. The House Oversight Democrats' letter of 5 Oct 2026 says public reporting in March 2026 showed he was seeking at least $5B. Some headlines (Dealroom, a later Mediaite piece quoting a September 2026 New Yorker report) say the money was "raised." That has not been confirmed. The video's wording, "trying to raise," is the accurate one.
+4. **The NYT reported he is trying to raise $5B, largely from Gulf sovereign funds. Confirmed, with a nuance.** The NYT reported in March 2026, citing five people familiar with the talks, that Kushner was seeking "$5 billion or more" for Affinity. Representatives had already met the PIF, and Gulf funds were expected to be approached. Axios (16 Mar 2026) said the fund was not formally in market yet, but talks with the PIF had started because of the PIF's contractual "first look" rights. The House Oversight Democrats' letter of 5 Oct 2026 says public reporting in March 2026 showed he was seeking at least $5B. Some headlines (Dealroom, a later Mediaite piece quoting a September 2026 New Yorker report) say the money was "raised." That has not been confirmed. The wording "trying to raise" is the accurate one.
 
-5. **Saudi PIF put in $2B. Confirmed.** The PIF committed $2B in mid-2021, a few months after Kushner left the White House. The NYT reported in 2022 that the PIF's screening panel objected on 30 Jun 2021, citing "public relations risks" and the "inexperience" of Affinity's management, and that the board chaired by Crown Prince Mohammed bin Salman overruled it. Correction: the video calls the PIF "one of his biggest investors"; it is the **largest** (per Wyden's Senate Finance letter). Other Gulf money is already in: Qatar Investment Authority and Abu Dhabi's Lunate added about $1.5B in Dec 2024 (Bloomberg).
+5. **Saudi PIF put in $2B. Confirmed.** The PIF committed $2B in mid-2021, a few months after Kushner left the White House. The NYT reported in 2022 that the PIF's screening panel objected on 30 Jun 2021, citing "public relations risks" and the "inexperience" of Affinity's management, and that the board chaired by Crown Prince Mohammed bin Salman overruled it. Correction: the PIF is often called "one of his biggest investors"; it is the **largest** (per Wyden's Senate Finance letter). Other Gulf money is already in: Qatar Investment Authority and Abu Dhabi's Lunate added about $1.5B in Dec 2024 (Bloomberg).
 
 6. **No official title, so no divestment or financial disclosure. Partly accurate.** It is true that Kushner has filed no financial disclosure and has not divested. "Not subject to" those rules is the White House's legal position, not settled law. CREW argues that the "special envoy for peace" designation and his continuing duties make him at least a special government employee, which would require a public disclosure within 30 days. In October 2026 CREW sued to bar him from the role without Senate confirmation. The suit names Witkoff, Wiles, Rubio and Hegseth in their official capacities. Kushner's lawyer, Chad Mizelle, calls the suit "without merit." He says outside and government ethics attorneys reviewed Kushner's "volunteer government service" and found it compliant. No ruling was found.
 
-7. **Conflict-of-interest insinuation. Unverified (opinion/insinuation).** The documented fact is that Kushner sought Gulf sovereign money while negotiating for the US in that region. Senator Wyden and Rep. Garcia opened a formal inquiry into this on 19 Mar 2026. No public evidence shows he argued for his own financial interests in any specific meeting. The video frames this as an open question, and that framing is fair. It is not a proven fact.
+7. **Conflict-of-interest insinuation. Unverified (opinion/insinuation).** The documented fact is that Kushner sought Gulf sovereign money while negotiating for the US in that region. Senator Wyden and Rep. Garcia opened a formal inquiry into this on 19 Mar 2026. No public evidence shows he argued for his own financial interests in any specific meeting. Framing this as an open question is fair. It is not a proven fact.
 
 ## Corrections
 

@@ -4,9 +4,9 @@
 
 ## The lead
 
-This is a follow-up from C15, C37 and C31 that the video did not cover. The brief: Jared Kushner's Affinity Partners is pursuing a luxury resort on Albania's Sazan island and the Zvernec coast, plus a Belgrade development on the former army HQ site. Both need foreign-government approvals while Kushner acts as a US envoy. Also covered: Rep. Raskin's probe, right-wing criticism such as Candace Owens's, any Trump branding, deal terms, concessions, status (Belgrade reportedly collapsed amid a forgery probe) and denials.
+This check builds on C15, C37 and C31. The claim: Jared Kushner's Affinity Partners is pursuing a luxury resort on Albania's Sazan island and the Zvernec coast, plus a Belgrade development on the former army HQ site. Both need foreign-government approvals while Kushner acts as a US envoy. Also covered: Rep. Raskin's probe, right-wing criticism such as Candace Owens's, any Trump branding, deal terms, concessions, status (Belgrade reportedly collapsed amid a forgery probe) and denials.
 
-Method note: direct fetches of npr.org, intellinews.com, democrats-judiciary.house.gov and jaredkushner.com failed because this session's network blocks those hosts. Findings rest on search-result summaries from several outlets: Reuters (via syndication), AP, RFE/RL, Al Jazeera, France 24, Forbes, Balkan Insight, Exit News, European Western Balkans and others.
+Method note: the original pages at npr.org, intellinews.com, democrats-judiciary.house.gov and jaredkushner.com were not read directly. Findings rest on search-result summaries from several outlets: Reuters (via syndication), AP, RFE/RL, Al Jazeera, France 24, Forbes, Balkan Insight, Exit News, European Western Balkans and others.
 
 ## Summary
 
@@ -14,7 +14,7 @@ The core of the lead is documented. In Dec 2024 Albania granted a Kushner-linked
 
 The Belgrade General Staff project is confirmed. It came with a 99-year rent-free lease and a Nov 2025 special law, and it was to carry the Trump brand under licence. It collapsed on 15 Dec 2025, hours after prosecutors indicted the culture minister and other officials for forging the documents that lifted the site's heritage protection.
 
-Raskin's probe and Candace Owens's attacks are both confirmed. The brief overreaches in two places. Affinity denies being the investor or developer of Zvernec, and Kushner calls himself a personal minority partner. And no Trump branding is documented in Albania. Any suggestion that the envoy role bought concessions is unproven.
+Raskin's probe and Candace Owens's attacks are both confirmed. The claim overreaches in two places. Affinity denies being the investor or developer of Zvernec, and Kushner calls himself a personal minority partner. And no Trump branding is documented in Albania. Any suggestion that the envoy role bought concessions is unproven.
 
 ## Sub-claims
 
@@ -83,7 +83,7 @@ Raskin's probe and Candace Owens's attacks are both confirmed. The brief overrea
 1. Reuters via AOL, "Albania approves luxury resort project linked to Jared Kushner's company" (Jan 2025): https://www.aol.com/news/albania-approves-luxury-resort-project-132236248.html
 2. Forbes (2026-06-03): https://www.forbes.com/sites/alisondurkee/2026/06/03/why-jared-kushner-and-ivanka-trumps-albanian-resort-plans-are-under-fire/
 3. France 24 (2026-06-04): https://www.france24.com/en/europe/20260604-what-we-know-about-jared-kushner-backed-luxury-resort-sparking-outrage-in-albania
-4. NPR (2026-06-16), could not be fetched: https://www.npr.org/2026/06/16/g-s1-128162/albania-resort-protests-kushner-trump
+4. NPR (2026-06-16), could not be read directly: https://www.npr.org/2026/06/16/g-s1-128162/albania-resort-protests-kushner-trump
 5. BIRN/Reporter.al (2026-06-06): https://www.reporter.al/en/2026/06/06/document-reveals-government-preparing-transfer-of-sazan-island-for-jared-kushner-project/
 6. Exit News (2026-06-10): https://exit.al/en/exit-explains/jared-kushners-fund-officially-distances-from-zvernec-development--i48037
 7. European Western Balkans (2026-06-02): https://europeanwesternbalkans.com/2026/06/02/spak-probes-resort-project-linked-to-jared-kushner/
@@ -91,10 +91,10 @@ Raskin's probe and Candace Owens's attacks are both confirmed. The brief overrea
 9. Reuters via StreetInsider (2026-07-11): https://www.streetinsider.com/Reuters/Businessman+who+sold+land+for+Kushner+resort+in+Albania+suspected+of+faking+the+deeds/26758349.html
 10. Reuters via Investing.com, villagers' land dispute (2026-06): https://www.investing.com/news/world-news/kushner-project-being-developed-on-disputed-land-albanian-villagers-say-4741013
 11. Lawyer Monthly (2026-07): https://www.lawyer-monthly.com/2026/07/spak-128m-asset-freeze-kushner-albania-resort-deal/
-12. bne IntelliNews, "Albania suspends Kushner luxury island resort after EU warning" (2026), could not be fetched: https://www.intellinews.com/albania-suspends-kushner-luxury-island-resort-after-eu-warning-447429/
+12. bne IntelliNews, "Albania suspends Kushner luxury island resort after EU warning" (2026), could not be read directly: https://www.intellinews.com/albania-suspends-kushner-luxury-island-resort-after-eu-warning-447429/
 13. AlbaniaVisit on Law 21/2024: https://albaniavisit.com/tourism-politics/ligji-21-2024-albania-protected-areas/
 14. Euronews Albania on the European Parliament text: https://euronews.al/en/moratorium-on-protected-areas-what-the-european-parliament-approved-regarding-amendments-on-zvernec-and-sazan/
-15. Kushner, "My Response to The New Yorker" (2026-10-08), could not be fetched: https://jaredkushner.com/posts/new-yorker-response/
+15. Kushner, "My Response to The New Yorker" (2026-10-08), could not be read directly: https://jaredkushner.com/posts/new-yorker-response/
 16. Exit News on Kushner's response (2026-10): https://exit.al/en/exit-explains/kushners-response-on-albania-what-the-record-shows-i48098
 17. Tirana Times (2026-10): https://www.tiranatimes.com/jared-kushner-defends-controversial-albania-resort-project/
 18. House Judiciary Democrats press release (2026-08-24): https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-slams-jared-kushner-s-failure-to-respond-to-congress-and-expands-probe-into-suspicious-120-million-albanian-land-purchase
@@ -119,7 +119,7 @@ Raskin's probe and Candace Owens's attacks are both confirmed. The brief overrea
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (fresh re-verification with new web searches; replaces the earlier wording-only review)
+**Result: upheld** (fresh re-verification with new searches)
 
 Checked:
 - Belgrade General Staff case: Dec 2025 indictment of Culture Minister Selakovic and three others for abuse of office and forgery, trial opened 4 Feb 2026 with not-guilty pleas, prosecutors seek 3 years, no verdict yet

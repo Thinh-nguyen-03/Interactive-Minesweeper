@@ -1,6 +1,6 @@
 # C86: Trump mega-donors holding stakes in companies that received federal backing
 
-**Verdict: partly-accurate** (confidence: medium). This is a third-layer connection hunt from C77 (Greenland, seabed and rare earths) and C60 (critical-minerals equity stakes). It does not repeat their findings on Cantor, 1789 Capital or the family firms.
+**Verdict: partly-accurate** (confidence: medium). This is a third-layer connection check from C77 (Greenland, seabed and rare earths) and C60 (critical-minerals equity stakes). It does not repeat their findings on Cantor, 1789 Capital or the family firms.
 
 ## Summary
 
@@ -59,7 +59,7 @@ Fairness requires one caveat: much of Perpetua's federal support (the record of 
 - **Gains:** the stock was about $9.30 in late October 2026, so PIPE buyers had paper losses. Cantor says it had no role in the government deal.
 
 ### 5. Boehly → Lukoil International → DFC equity (donations documented; consortium single-source)
-- **Donations:** Eldridge gave $1M to the inaugural. NBC's FEC analysis lists Boehly among new $1M+ MAGA Inc. donors; the amount and date are unconfirmed because the article was not fetchable here.
+- **Donations:** Eldridge gave $1M to the inaugural. NBC's FEC analysis lists Boehly among new $1M+ MAGA Inc. donors; the amount and date are unconfirmed because the article could not be read directly.
 - **The bid:** the FT (relayed by Meduza and WION) reported in September 2026 that Boehly's consortium for Lukoil International includes:
   - Tahnoon-chaired IHC;
   - the Al-Khayyat family;
@@ -116,7 +116,7 @@ These links are our own cross-referencing. No source we saw asserts them.
 - **Pending deals:** the Perpetua loan and the Boehly bid were still pending in November 2026.
 
 ## Source limits
-- **Direct fetches failed:** NBC and the Alaska Beacon could not be fetched in this session, and the report relies on search-result summaries for them.
+- **Direct fetches failed:** NBC and the Alaska Beacon could not be read directly, and the report relies on search-result summaries for them.
 - **FEC filings:** these were not queried directly.
 - **Unconfirmed figures:** Boehly's MAGA Inc. amount and Hamm's PAC totals.
 

@@ -3,7 +3,7 @@
   "title": "$TRUMP meme coin",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Trump launched the official $TRUMP meme coin on the evening of January 17, 2025, about 2.5 days before his inauguration. His own 2025 OGE financial disclosure reports about $635-636M in meme-coin royalty and licensing income through CIC Digital LLC, so the '$600M' figure is a slight understatement of self-reported gross income. TRUMP (about 95% down in early 2026, about 98% by November 2026) and MELANIA (about 99% down) have collapsed, and on-chain data shows most buyers lost money, though no exact share exists. Trump did make the 'lead or China takes over' remark (CNBC, July 2026). The suggestion that he launched the coin 'so China wouldn't do it first' is the video's sarcastic paraphrase.",
+  "summary": "Trump launched the official $TRUMP meme coin on the evening of January 17, 2025, about 2.5 days before his inauguration. His own 2025 OGE financial disclosure reports about $635-636M in meme-coin royalty and licensing income through CIC Digital LLC, so the '$600M' figure is a slight understatement of self-reported gross income. TRUMP (about 95% down in early 2026, about 98% by November 2026) and MELANIA (about 99% down) have collapsed, and on-chain data shows most buyers lost money, though no exact share exists. Trump did make the 'lead or China takes over' remark (CNBC, July 2026). The suggestion that he launched the coin 'so China wouldn't do it first' is a sarcastic paraphrase of that remark, not something Trump said.",
   "sub_claims": [
     {
       "statement": "Trump launched an official meme coin two days before taking office.",
@@ -73,9 +73,9 @@
     }
   ],
   "corrections": [
-    "Transcript says 'two days' before taking office; the launch was the evening of Jan 17, 2025 (ET), about 2.5 days before the Jan 20 inauguration.",
-    "Transcript says $600M; Trump's own 2025 disclosure reports about $635-636M in gross meme-coin royalty and licensing income via CIC Digital.",
-    "Transcript says TRUMP is down about 95%; that was accurate in early 2026, but by November 2026 it was about 98% below its peak.",
+    "Claimed: 'two days' before taking office. The record shows: the launch was the evening of Jan 17, 2025 (ET), about 2.5 days before the Jan 20 inauguration.",
+    "Claimed: $600M. The record shows: Trump's own 2025 disclosure reports about $635-636M in gross meme-coin royalty and licensing income via CIC Digital.",
+    "Claimed: TRUMP is down about 95%. The record shows: that was accurate in early 2026, but by November 2026 it was about 98% below its peak.",
     "The China remark was about crypto generally (CNBC, July 2026), not a stated reason for launching the meme coin."
   ],
   "denials_and_context": [
@@ -271,7 +271,8 @@
       "id": "coffeezilla",
       "name": "Coffeezilla",
       "type": "media",
-      "description": "YouTuber; video under review"
+      "description": "Online investigator and commentator.",
+      "hidden": true
     },
     {
       "id": "joe-kernen",
@@ -442,7 +443,8 @@
       "source": "coffeezilla",
       "target": "molly-white",
       "label": "cites research of",
-      "type": "media"
+      "type": "media",
+      "hidden": true
     },
     {
       "source": "white-house",

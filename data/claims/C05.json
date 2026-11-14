@@ -3,7 +3,7 @@
   "title": "Justin Sun, WLF and the SEC",
   "verdict": "mostly-accurate",
   "confidence": "high",
-  "summary": "The core facts hold up. Sun put a total of $75M into WLF ($30M in Nov 2024 plus $45M in Jan 2025) while facing a 2023 SEC civil complaint that included fraud and market-manipulation counts, and he was named a WLF adviser. Under Trump, the SEC first paused the case (Feb 2025), then in March 2026 dropped all claims against Sun while his company Rainberry paid $10M. The later feud, the 'personal ATM' and 'absurd governance scam' quotes, and the lawsuits in both directions are all documented. The video blurs the timing and the tranches, and the suggestion that the investment caused the SEC outcome is not proven.",
+  "summary": "The core facts hold up. Sun put a total of $75M into WLF ($30M in Nov 2024 plus $45M in Jan 2025) while facing a 2023 SEC civil complaint that included fraud and market-manipulation counts, and he was named a WLF adviser. Under Trump, the SEC first paused the case (Feb 2025), then in March 2026 dropped all claims against Sun while his company Rainberry paid $10M. The later feud, the 'personal ATM' and 'absurd governance scam' quotes, and the lawsuits in both directions are all documented. The claim blurs the timing and the tranches, and the suggestion that the investment caused the SEC outcome is not proven.",
   "sub_claims": [
     {
       "statement": "Justin Sun invested $75 million into World Liberty Financial.",
@@ -83,7 +83,7 @@
     }
   ],
   "corrections": [
-    "The transcript implies a single $75M investment. The record shows $30M (Nov 2024) plus $45M via TRON DAO (Jan 2025).",
+    "Claimed (by implication): a single $75M investment. The record shows: $30M (Nov 2024) plus $45M via TRON DAO (Jan 2025).",
     "'Charged with fraud' refers to a civil SEC complaint with antifraud and market-manipulation counts, not a criminal charge.",
     "The dismissal was not immediate. The SEC sought a stay in Feb 2025 and filed the settlement and dismissal in Mar 2026. Rainberry paid $10M without admitting wrongdoing, and the claims against Sun personally were dropped.",
     "Whether the court has formally entered the final judgment is unconfirmed: reports conflict."

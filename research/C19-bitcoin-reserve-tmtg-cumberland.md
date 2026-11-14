@@ -2,11 +2,11 @@
 
 **Verdict: mostly accurate (confidence: medium-high).** The core facts hold up: the executive order, the TMTG raise of about $2.5B, DRW's roughly $100M purchase, and the SEC dismissing the Cumberland case with prejudice about nine weeks earlier. Four points need fixing. "Around that time" stretches about 12 weeks. The investor was DRW's investment arm, not Wilson personally. The deal closed at $2.44B gross, not $2.5B. The settlement was agreed in principle on 2025-02-20, months before the TMTG deal existed. Nothing documented connects the two events beyond their timing.
 
-## What the video says (transcript lines 611-617)
+## The claim
 - The government announced a Strategic Bitcoin Reserve, and Trump signed an executive order creating it.
 - "Around that time", TMTG said it was setting up its own bitcoin reserve with $2.5 billion raised from investors.
 - Don Wilson is one of those TMTG investors. "Weeks prior", the SEC enforcement case against his crypto company, Cumberland, had been dismissed with prejudice.
-- When Coffeezilla asked for comment, Cumberland denied any quid pro quo or connection between the Trump Media investment and the SEC's dismissal.
+- Asked for comment, Cumberland denied any quid pro quo or connection between the Trump Media investment and the SEC's dismissal.
 
 ## Evidence by sub-claim
 
@@ -35,13 +35,13 @@
    - The TMTG purchase came about 8-9 weeks after the dismissal, so "weeks prior" is fair.
 
 5. **Cumberland denied any quid pro quo or connection: UNVERIFIED BUT CONSISTENT.**
-   - The denial was given privately to Coffeezilla, so I could not check it directly.
+   - The denial was given privately in response to a request for comment, so I could not check it directly.
    - It matches DRW's public statements in June 2025 [10][11]. DRW said it treats bitcoin on its balance sheet as a strategic decision and that the transaction is "purely viewed from this perspective". A spokesperson added that Wilson "has long called for a clear regulatory framework".
 
 ## Corrections
-- **Timing.** The video says TMTG's raise came "around" the time of the order. The order was signed 2025-03-06; TMTG announced on 2025-05-27, about 12 weeks later.
-- **Amount.** The video says "$2.5 billion raised". That was the announced target. The deal closed at about $2.44B gross and about $2.32B net.
-- **Who invested.** The video says Don Wilson invested. The documented buyer is DRW Investments, his firm. Cumberland is DRW's crypto unit.
+- **Timing.** Claimed: TMTG's raise came "around" the time of the order. The record shows: the order was signed 2025-03-06; TMTG announced on 2025-05-27, about 12 weeks later.
+- **Amount.** Claimed: "$2.5 billion raised". The record shows: that was the announced target. The deal closed at about $2.44B gross and about $2.32B net.
+- **Who invested.** Claimed: Don Wilson invested. The record shows: the documented buyer is DRW Investments, his firm. Cumberland is DRW's crypto unit.
 - **When the dismissal was agreed.** The dismissal was agreed in principle with SEC staff on 2025-02-20 and announced on 2025-03-04. TMTG's treasury plan was announced on 2025-05-27, so the settlement came before the plan was public.
 
 ## Denials and context
@@ -49,7 +49,7 @@
 - **The SEC** dropped the case as part of a broad reversal of Gensler-era crypto cases that also covered Coinbase, Kraken and Consensys. Cumberland was one of many.
 - **About 50 institutions** took part in the raise. Jane Street put in about $375M, nearly four times DRW's stake.
 - **The family link.** TMTG is controlled by Donald J. Trump's revocable trust, so investing in it benefits a company the President's trust owns. Watchdog groups such as CREW have raised "policy-for-investment" concerns [18] (single, secondary Chinese-language report).
-- **No quid pro quo is documented.** The only link is the sequence of events, so the video's framing is insinuation rather than demonstrated cause.
+- **No quid pro quo is documented.** The only link is the sequence of events, so linking the two is insinuation rather than demonstrated cause.
 
 ## Sources
 1. White House, "Establishment of the Strategic Bitcoin Reserve and United States Digital Asset Stockpile" (2025-03-06): https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile/

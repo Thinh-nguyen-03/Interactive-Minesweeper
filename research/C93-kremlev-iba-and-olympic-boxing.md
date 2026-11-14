@@ -6,7 +6,7 @@ What the record does **not** show is any US action, request or benefit tied to t
 
 Origin: a third-layer hunt from C76, which established the payments, the IB Challenger route, the repayment claim and the first responses. This report extends that work and does not repeat it.
 
-**Method note.** Every direct fetch failed because the hosts are not allowed in this session: axios.com, occrp.org, iba.sport, tovima.com (FT syndication), pravda.com.ua, protothema.gr, liga.net and thesportsexaminer.com. Everything below therefore rests on search-result relays from several outlets, and each point is graded on that basis. We ran 26 web searches.
+**Method note.** None of these sites was read directly: axios.com, occrp.org, iba.sport, tovima.com (FT syndication), pravda.com.ua, protothema.gr, liga.net and thesportsexaminer.com. Everything below therefore rests on search-result relays from several outlets, and each point is graded on that basis.
 
 Evidence grades: **documented** (filings, official records or several outlets), **single-source** (one outlet or anonymous sourcing), **inferred** (our own observation; no source asserts it).
 

@@ -2,12 +2,12 @@
 
 **Verdict: mostly accurate (medium confidence)**
 
-The video's core facts hold up: the $1.5B deal, the reported ~$500M and ~$90M payouts, the ~94% stock collapse and the rename to AI Financial Corporation. Two parts go further than the record. "Run by the same people" overstates the overlap, which is at board level only. And the payout figures are press estimates of what the families were entitled to, not documented payments.
+The core facts hold up: the $1.5B deal, the reported ~$500M and ~$90M payouts, the ~94% stock collapse and the rename to AI Financial Corporation. Two parts go further than the record. "Run by the same people" overstates the overlap, which is at board level only. And the payout figures are press estimates of what the families were entitled to, not documented payments.
 
-## What the video says (transcript lines 501-519)
+## The claim
 - When "World Liberty went to the stock markets," the SEC is the regulator, and the president appoints its leadership.
 - WLF announced a $1.5B deal with ALT5 Sigma. It reportedly made $500M for a Trump-family-owned entity and $90M for the Witkoff family.
-- Molly White: ALT5 "is run by the same people who run World Liberty Financial," which creates a dual incentive to pump WLFI with retail money.
+- Crypto researcher Molly White: ALT5 "is run by the same people who run World Liberty Financial," which creates a dual incentive to pump WLFI with retail money.
 - ALT5 stock "got crushed down about 94% in one year." It rebranded from crypto to AI and is now "AI Financial Corporation."
 
 ## Evidence by sub-claim
@@ -90,7 +90,7 @@ The video's core facts hold up: the $1.5B deal, the reported ~$500M and ~$90M pa
 16. Protos, "Trump-associated ALT5 Sigma down 96% since WLFI deal." https://protos.com/trump-associated-alt5-sigma-down-96-since-wlfi-deal/
 17. POGO, "No SEC Probe of Trump Crypto Deal Despite Alleged 'Illegality'." https://www.pogo.org/investigates/no-sec-probe-of-trump-crypto-deal-despite-alleged-illegality
 18. Gizmodo. https://gizmodo.com/legal-experts-are-alarmed-the-sec-isnt-investigating-trump-linked-crypto-venture-2000802953
-19. TokenPost, coverage of the Coffeezilla/White video. https://www.tokenpost.com/news/business/56914
+19. TokenPost, coverage of reporting on Trump crypto wealth and investor losses. https://www.tokenpost.com/news/business/56914
 
 **Method note:** Direct page fetches were blocked in this session (Bloomberg, CNBC, SEC.gov, Protos and Wikipedia did not resolve). Findings rest on search-result excerpts from these outlets, and quotes are as surfaced in those excerpts.
 

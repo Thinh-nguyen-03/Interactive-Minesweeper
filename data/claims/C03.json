@@ -3,7 +3,7 @@
   "title": "Dinner for top $TRUMP holders",
   "verdict": "confirmed",
   "confidence": "high",
-  "summary": "Confirmed. The top 220 $TRUMP holders, ranked by average holdings from April 23 to May 12, 2025, were invited to a dinner with Trump on May 22, 2025 at Trump National Golf Club in Sterling, Virginia. The top 25 were promised a VIP reception. Trump attended. Press Secretary Karoline Leavitt answered Bulwark reporter Andrew Egger's question at the May 9, 2025 briefing almost exactly as the video quotes her. The 'successful businessman' sentence could not be matched word for word in written reports.",
+  "summary": "Confirmed. The top 220 $TRUMP holders, ranked by average holdings from April 23 to May 12, 2025, were invited to a dinner with Trump on May 22, 2025 at Trump National Golf Club in Sterling, Virginia. The top 25 were promised a VIP reception. Trump attended. Press Secretary Karoline Leavitt answered Bulwark reporter Andrew Egger's question at the May 9, 2025 briefing almost exactly as quoted in the claim. The 'successful businessman' sentence could not be matched word for word in written reports.",
   "sub_claims": [
     {
       "statement": "Top holders of $TRUMP got a dinner with the president.",
@@ -30,7 +30,7 @@
     {
       "statement": "She added that the president is a successful businessman and that this is one reason people reelected him.",
       "verdict": "unverified",
-      "finding": "This sentence appears to be a continuation of the same answer in the clip, but I could not match the exact wording in any written report. Spectrum News reported a similar line from Leavitt saying Trump was 'incredibly successful' before entering public service.",
+      "finding": "This sentence appears to be a continuation of the same briefing answer, but I could not match the exact wording in any written report. Spectrum News reported a similar line from Leavitt saying Trump was 'incredibly successful' before entering public service.",
       "sources": [
         "https://spectrumlocalnews.com/us/snplus/politics/2025/05/22/trump-meme-coin-gala-golf-course-"
       ]
@@ -46,7 +46,7 @@
     }
   ],
   "corrections": [
-    "The video does not identify the questioner. It was The Bulwark's Andrew Egger, at the May 9, 2025 briefing, about two weeks before the May 22 dinner.",
+    "The questioner is not named in the claim. It was The Bulwark's Andrew Egger, at the May 9, 2025 briefing, about two weeks before the May 22 dinner.",
     "'Top holders' means the top 220 by average holdings from April 23 to May 12, 2025, with a separate top-25 VIP tier. The White House tour originally promised to the top 25 was later removed from the promotion.",
     "Leavitt did not literally deny 'corruption.' She said Trump abides by conflict-of-interest laws and was attending in his personal time."
   ],
@@ -231,13 +231,14 @@
       "id": "the-bulwark",
       "name": "The Bulwark",
       "type": "media",
-      "description": "Outlet whose reporter asked the question in the briefing clip."
+      "description": "Outlet whose reporter asked the question at the White House briefing."
     },
     {
       "id": "coffeezilla",
       "name": "Coffeezilla",
       "type": "person",
-      "description": "YouTuber who made the video under review."
+      "description": "Online investigator and commentator.",
+      "hidden": true
     }
   ],
   "relationships": [
@@ -357,7 +358,8 @@
       "source": "coffeezilla",
       "target": "trump-memecoin-dinner",
       "label": "reported on",
-      "type": "media"
+      "type": "media",
+      "hidden": true
     }
   ],
   "audit": {

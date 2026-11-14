@@ -8,7 +8,7 @@
     {
       "statement": "Javelin Advisors is a three-way partnership: Keith Schiller, George Sorial and Robert Seiden co-own it equally, so Seiden Law's Pakistan subcontract went to a firm Seiden himself co-owns.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented (Javelin's own FARA filings). Javelin's FARA registration No. 7705 (received 2026-03-23) says the firm is 'co-owned and controlled equally by George A Sorial, Keith Schiller, and Robert W. Seiden' and lists all three as managing directors; Sorial is the named responsible individual and the address is 1701 Pennsylvania Ave NW, Suite 200, Washington DC. Business Today (2026-01-07) also reports Seiden holds a stake. The earlier Pakistan registration (No. 7579, 2025-04-25) carried the same ownership language per C64's audit. Combined with C64/C72: Pakistan paid Seiden Law $200K/month (FARA 7570, signed 2025-04-08), and Seiden subcontracted about $50K/month to Javelin. So part of the Pakistan fee flowed to a firm owned by the prime contractor's own principal. No source says this was improper; FARA allows it, and it was disclosed. The filings themselves could not be fetched here; their contents are taken from search-engine extracts of the PDFs.",
+      "finding": "Evidence grade: documented (Javelin's own FARA filings). Javelin's FARA registration No. 7705 (received 2026-03-23) says the firm is 'co-owned and controlled equally by George A Sorial, Keith Schiller, and Robert W. Seiden' and lists all three as managing directors; Sorial is the named responsible individual and the address is 1701 Pennsylvania Ave NW, Suite 200, Washington DC. Business Today (2026-01-07) also reports Seiden holds a stake. The earlier Pakistan registration (No. 7579, 2025-04-25) carried the same ownership language per C64's audit. Combined with C64/C72: Pakistan paid Seiden Law $200K/month (FARA 7570, signed 2025-04-08), and Seiden subcontracted about $50K/month to Javelin. So part of the Pakistan fee flowed to a firm owned by the prime contractor's own principal. No source says this was improper; FARA allows it, and it was disclosed. The filings themselves could not be read directly; their contents are taken from search-engine extracts of the PDFs.",
       "sources": [
         "https://efile.fara.gov/docs/7705-Registration-Statement-20260323-1.pdf",
         "https://efile.fara.gov/docs/7705-Exhibit-AB-20260323-1.pdf",
@@ -63,7 +63,7 @@
     {
       "statement": "Taiwanese food group I-Mei Foods signed Javelin for US government relations tied to potential contracts; Schiller attended the signing in Taiwan.",
       "verdict": "mostly-accurate",
-      "finding": "Evidence grade: single-source (Taiwan News, relayed via search; the article could not be fetched, and its date is unknown). I-Mei said the engagement covers US government relations connected with potential contract opportunities, without naming the area. Schiller reportedly visited I-Mei's Longtan plant for the signing. An unofficial dossier says I-Mei appears on Javelin's LDA filing for Q4 2025 with a defense issue code; that detail is unverified.",
+      "finding": "Evidence grade: single-source (Taiwan News, relayed via search; the article could not be read directly, and its date is unknown). I-Mei said the engagement covers US government relations connected with potential contract opportunities, without naming the area. Schiller reportedly visited I-Mei's Longtan plant for the signing. An unofficial dossier says I-Mei appears on Javelin's LDA filing for Q4 2025 with a defense issue code; that detail is unverified.",
       "sources": [
         "https://www.taiwannews.com.tw/news/6263884"
       ]
@@ -71,7 +71,7 @@
     {
       "statement": "Logical Strategies LLC, a New York entity with undisclosed owners, is a Javelin lobbying client; reportedly about $1.2M in Q3 2025 on EPA's asbestos rule.",
       "verdict": "unverified",
-      "finding": "Evidence grade: documented that an LDA client record for Logical Strategies LLC exists with Schiller as contact (search extract of the Senate LDA API). The $1.2M amount and the asbestos-rule issue come only from an unofficial dossier site (ithildin.pages.dev) and could not be checked; a web search found no press coverage. If accurate, it would be Javelin's largest disclosed fee and would touch an EPA decision: under Administrator Lee Zeldin the EPA moved in 2025 to reconsider the 2024 chrysotile asbestos ban (EPN). Any link between the client and that decision is inferred only.",
+      "finding": "Evidence grade: documented that an LDA client record for Logical Strategies LLC exists with Schiller as contact (search extract of the Senate LDA API). The $1.2M amount and the asbestos-rule issue come only from an unofficial dossier site (ithildin.pages.dev) and could not be checked; a search found no press coverage. If accurate, it would be Javelin's largest disclosed fee and would touch an EPA decision: under Administrator Lee Zeldin the EPA moved in 2025 to reconsider the 2024 chrysotile asbestos ban (EPN). Any link between the client and that decision is inferred only.",
       "sources": [
         "https://lda.senate.gov/api/v1/clients/68104/?format=api",
         "https://ithildin.pages.dev/dossiers/javelin-advisors-llc",
@@ -142,7 +142,7 @@
     "Daibes' lawyer: no work with Schiller or Javelin since June 2025. Schiller and Javelin did not answer NBC. The White House does not comment on pardons.",
     "Lindberg's lawyer: pardons should be given when the facts warrant it. Opposed by NC Commissioner Causey and Sens. Tillis and Budd.",
     "FARA and LDA registration is disclosure, not wrongdoing. No source alleges that Schiller or Sorial broke the law or produced any government outcome.",
-    "efile.fara.gov, lda.senate.gov and most news sites could not be fetched here; filing contents come from search-engine extracts, and fee and scope details for FARA 7705 remain unread."
+    "efile.fara.gov, lda.senate.gov and most news sites could not be read directly; filing contents come from search-engine extracts, and fee and scope details for FARA 7705 remain unread."
   ],
   "sources": [
     {
@@ -808,7 +808,7 @@
     ],
     "result": "upheld",
     "changes": [
-      "Upheld the three-way ownership: fresh search extracts of the 7705 registration statement again quote 'co-owned and controlled equally by George A Sorial, Keith Schiller, and Robert W. Seiden' and list Seiden and Schiller as managing directors. The extract also shows a Delaware certificate of formation signed by Sorial dated 2026-03-20, later than the Dec 2024 launch; this may be a re-formed or newly formed entity for the FARA filing, which we could not resolve (efile.fara.gov is not resolvable from this environment).",
+      "Upheld the three-way ownership: fresh search extracts of the 7705 registration statement again quote 'co-owned and controlled equally by George A Sorial, Keith Schiller, and Robert W. Seiden' and list Seiden and Schiller as managing directors. The extract also shows a Delaware certificate of formation signed by Sorial dated 2026-03-20, later than the Dec 2024 launch; this may be a re-formed or newly formed entity for the FARA filing, which we could not resolve (efile.fara.gov could not be read directly).",
       "Upheld TECRO as foreign principal: search extracts of the 7705 short forms and Exhibit AB name the Taipei Economic and Cultural Representative Office. No press coverage of the engagement was found, so the single-filing basis stands; fee and scope remain unread.",
       "Lindberg: no pardon grant found through Nov 2026; the latest coverage found (Vanity Fair, Mar 2026) still describes it as pending. Added that Sen. Ted Budd also opposed a pardon (Jan 2026 NC coverage via search extracts).",
       "Label check: single-source items (Daibes $1M via NBC, Ronny Jackson contact, I-Mei, Logical Strategies amount) are labelled in findings and relationship labels; the policy overlaps are labelled inferred. No changes needed."

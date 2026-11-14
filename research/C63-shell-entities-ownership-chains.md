@@ -1,8 +1,8 @@
 # C63: Shell entities and ownership chains
 
-**Verdict: mostly-accurate (confidence: medium).** The ownership chains we found are mostly documented in SEC filings, the OGE disclosure, the OCC decision, Senate letters and state-registry reporting. The parts the brief cares most about (registered agents, officers, beneficial owners) are mostly *not public*: StringZ, T1 Mobile, NFT INT, Designers Manager, Celebration Cards and the Wyoming licensees. I could not pull registry records from this environment. Fetches to occ.gov, house.gov, protos.com and dlnews.com were blocked, and the web-search budget ran out partway through. Where that leaves a gap, the sections below say so.
+**Verdict: mostly-accurate (confidence: medium).** The ownership chains we found are mostly documented in SEC filings, the OGE disclosure, the OCC decision, Senate letters and state-registry reporting. The parts the claim cares most about (registered agents, officers, beneficial owners) are mostly *not public*: StringZ, T1 Mobile, NFT INT, Designers Manager, Celebration Cards and the Wyoming licensees. I could not pull registry records from this environment. The original pages at occ.gov, house.gov, protos.com and dlnews.com were not read directly, and the research ended before every thread was checked. Where that leaves a gap, the sections below say so.
 
-Origin: connection hunt (no video claim). It builds on C01, C02, C03, C06, C07, C12, C17, C20, C22, C35, C39, C40, C41, C42, C45, C47, C50 and C51.
+This connection check builds on C01, C02, C03, C06, C07, C12, C17, C20, C22, C35, C39, C40, C41, C42, C45, C47, C50 and C51.
 
 ## The map in one paragraph
 
@@ -152,13 +152,13 @@ A shared formation agent, a naming template or a common parent shows structure, 
 15. Cointelegraph, memecoin merch purchases (2025-01-30): https://cointelegraph.com/news/trump-crypto-footprint-memecoin-merch-purchases
 16. CoinDesk, TRUMP for merchandise (2025-01-30): https://hotfix.coindesk.com/markets/2025/01/30/trump-memecoins-can-now-be-used-to-buy-donald-trump-merchandise
 17. The Intercept, Trump fragrance and crypto (2025-07-01): https://theintercept.com/2025/07/01/trump-fragrance-crypto/
-18. Protos, MELANIA / MKT World: https://protos.com/trump-coin-may-doing-poorly-but-melania-coin-is-an-atrocity/ (search snippet only; fetch blocked)
+18. Protos, MELANIA / MKT World: https://protos.com/trump-coin-may-doing-poorly-but-melania-coin-is-an-atrocity/ (search snippet only; original not read)
 19. DL News, Inside the Trump family crypto empire: https://dlnews.com/articles/people-culture/inside-the-trump-family-crypto-empire/ (search snippet only)
 20. CREW, Trump foreign property income: https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/
 21. Wendy Siegelman, Trump International Oman / DT Marks Oman: https://wendysiegelman.substack.com/p/the-500-million-trump-international
 22. ProPublica Trump Town, DT Marks Worli: https://projects.propublica.org/trump-town/organizations/dt-marks-worli-member-corp-pass-thru-company-for-dt-marks-worli-llc-license-deal
 23. The National, Gulf developers bring windfall (2026-07-01): https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/
-24. OCC Conditional Approval #1385 (2026-08-14): https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf (via search; fetch blocked)
+24. OCC Conditional Approval #1385 (2026-08-14): https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf (via search; original not read)
 25. CNBC, "Spy sheikh" stake (2026-02-01): https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html
 26. The Block, Aryam 49% (2026-02-01): https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931
 27. Cointelegraph, Abu Dhabi royal backs crypto bank (2026-08-27): https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj

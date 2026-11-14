@@ -2,11 +2,11 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-**Origin:** follow-up lead from C39 (Dominari and the Trump sons), with C05 (Justin Sun) and C27 (New America SPAC) as parents. The video does not cover this. The brief is a research lead, not a quote.
+**Origin:** follow-up lead from C39 (Dominari and the Trump sons), with C05 (Justin Sun) and C27 (New America SPAC) as parents. The claim is a research lead, not a quote.
 
 ## Summary
 
-All five threads in the brief are documented in the record, but several need qualifiers.
+All five threads in the claim are documented in the record, but several need qualifiers.
 
 - **Tron/SRM:** Dominari Securities was exclusive placement agent on SRM Entertainment's June 2025 Tron treasury deal. Eric Trump publicly denied any role.
 - **American Ventures:** this is a roughly $1B Dominari-controlled vehicle (Dominari holds 90%), and both sons are passive investors in it.
@@ -102,7 +102,7 @@ Caveats:
 - No outcomes from that oversight have been located.
 
 ## Method note
-Direct fetches of intellinews.com, foxnews.com and the FT mirror were blocked (DNS) from this environment. Findings rely on search-result excerpts from several outlets (Decrypt, Cointelegraph, Mining.com, Northern Miner, Bloomberg Law, Senate Banking, House committee, FINRA, Caixin, Barchart). The FT's own publication dates for the tungsten story (about April 30 to May 1, 2026) and the American Ventures story (about early May 2026) come from secondary coverage.
+The original pages at intellinews.com, foxnews.com and the FT mirror were not read directly. Findings rely on search-result excerpts from several outlets (Decrypt, Cointelegraph, Mining.com, Northern Miner, Bloomberg Law, Senate Banking, House committee, FINRA, Caixin, Barchart). The FT's own publication dates for the tungsten story (about April 30 to May 1, 2026) and the American Ventures story (about early May 2026) come from secondary coverage.
 
 ## Sources
 1. NBC New York (CNBC syndication), "Justin Sun's Tron to go public through reverse merger in deal led by Trump-linked bank," 2025-06-16. https://www.nbcnewyork.com/news/business/money-report/justin-suns-tron-to-go-public-through-reverse-merger-in-deal-led-by-trump-linked-bank/6304541/
@@ -135,7 +135,7 @@ Direct fetches of intellinews.com, foxnews.com and the FT mirror were blocked (D
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (fresh re-verification with new web searches; replaces the earlier wording-only review)
+**Result: upheld** (fresh re-verification with new searches)
 
 Checked:
 - FINRA's October 2026 $800,000 fine of Revere Securities for AML/supervisory failures on foreign small-cap IPOs, settled without admitting or denying

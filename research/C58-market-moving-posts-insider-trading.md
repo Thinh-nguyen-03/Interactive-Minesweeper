@@ -4,7 +4,7 @@
 
 ## Summary
 
-Most of the pattern described in the brief is on the record:
+Most of the pattern described in the claim is on the record:
 
 - **9 April 2025.** Trump posted "THIS IS A GREAT TIME TO BUY!!!" less than four hours before the 90-day tariff pause. Reuters documented a burst of bullish options buying minutes before the pause post. Senate and House Democrats asked the SEC to investigate. Trump said on camera that Charles Schwab and Roger Penske had made billions that day.
 - **Iran oil trades.** In March-April 2026 the CFTC, with DOJ, probed oil-futures trades placed shortly before Trump's Iran posts.
@@ -100,7 +100,7 @@ This builds on C20 (stock posts), C21 and C41 (Truth API, the Warren-Schiff lett
 - TMTG and DOJ defend the Truth API as faster delivery of public data.
 - No one tied to the administration has been publicly identified as a trader. The only person charged is a soldier.
 - Fast markets, press leaks and informed speculation can explain some price moves.
-- **Limits of this check.** The web-search budget ran out before I could check post-mid-2026 updates on the CFTC oil probe or the SEC's handling of the April 2025 letters. Direct fetches of CourtListener, Inner City Press and Mediaite were blocked here, so the Intercept docket status rests on search snippets.
+- **Limits of this check.** The research ended before I could check post-mid-2026 updates on the CFTC oil probe or the SEC's handling of the April 2025 letters. Direct fetches of CourtListener, Inner City Press and Mediaite were blocked here, so the Intercept docket status rests on search snippets.
 
 ## Sources
 1. NPR, "Why some are accusing Trump of manipulating stock markets," 2025-04-10. https://www.npr.org/2025/04/10/nx-s1-5360062/why-some-are-accusing-trump-of-manipulating-stock-markets

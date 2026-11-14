@@ -3,7 +3,7 @@
   "title": "How World Liberty insiders took money out",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The documented record supports most of the brief. Trump-owned DT Marks DEFI is entitled to 75% of WLF's net revenue, including token-sale proceeds. Trump disclosed about $57M from WLF for 2024 and about $594M-$800M for 2025; outlets disagree on the size of the equity-sale line, which is reported as $65M by some and more than $250M by others. Steve Witkoff reported about $107M of 2025 income from a WLF-linked holding company while the White House says he has divested, though no buyer or certificate has been shown. WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI as the token hit record lows. Sun's wallet and 271 others were frozen, WLF promoted the $SPSC memecoin, and WLFI fell about 80-85% from its $0.33 peak. Three points need correction or remain open: the borrower was WLF's own treasury, not individual insiders; no source puts a dollar figure on retail losses; and StringZ Holding's reported Tahnoon backing rests on a single WSJ report citing anonymous sources, which the OCC record does not confirm.",
+  "summary": "The documented record supports most of the claim. Trump-owned DT Marks DEFI is entitled to 75% of WLF's net revenue, including token-sale proceeds. Trump disclosed about $57M from WLF for 2024 and about $594M-$800M for 2025; outlets disagree on the size of the equity-sale line, which is reported as $65M by some and more than $250M by others. Steve Witkoff reported about $107M of 2025 income from a WLF-linked holding company while the White House says he has divested, though no buyer or certificate has been shown. WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI as the token hit record lows. Sun's wallet and 271 others were frozen, WLF promoted the $SPSC memecoin, and WLFI fell about 80-85% from its $0.33 peak. Three points need correction or remain open: the borrower was WLF's own treasury, not individual insiders; no source puts a dollar figure on retail losses; and StringZ Holding's reported Tahnoon backing rests on a single WSJ report citing anonymous sources, which the OCC record does not confirm.",
   "sub_claims": [
     {
       "statement": "DT Marks DEFI LLC is entitled to 75% of WLF's net token-sale and protocol revenue.",
@@ -113,7 +113,7 @@
     }
   ],
   "corrections": [
-    "The brief says 'WLF insiders' borrowed. The reporting shows WLF's own treasury or multisig wallets borrowed on Dolomite, and no personal borrowing by Trump or Witkoff family members is documented. Loan size: about $75M per CoinDesk; the $150M and $261M estimates are unverified.",
+    "The claim says 'WLF insiders' borrowed. The reporting shows WLF's own treasury or multisig wallets borrowed on Dolomite, and no personal borrowing by Trump or Witkoff family members is documented. Loan size: about $75M per CoinDesk; the $150M and $261M estimates are unverified.",
     "'75% of net revenue' is the Gold Paper revenue entitlement. DT Marks DEFI's equity stake in WLF Holdco is now reported at about 38.25%.",
     "Witkoff's about $107M came from a WLF-linked holding company, and the filing does not show how much came from WLF itself.",
     "Entity id note: C04 uses dt-marks-defi-llc and C13 uses dt-marks-defi for the same company. This file uses dt-marks-defi-llc.",
@@ -124,7 +124,7 @@
     "The White House (Anna Kelly, David Warrington) says Witkoff has fully divested and recuses from matters affecting his interests.",
     "The OCC says career staff reviewed the WLF trust charter, and says the major shareholders, including StringZ, signed passivity commitments.",
     "'Extraction' is a characterization. The money flows are documented, but no regulator or court has found wrongdoing, and the SEC has opened no probe (see C13).",
-    "Fetch limits: Fortune, CoinDesk and the ABC affiliate pages could not be fetched here, and the WSJ is paywalled. Findings rely on search-result text cross-checked across outlets."
+    "Fetch limits: Fortune, CoinDesk and the ABC affiliate pages could not be read directly, and the WSJ is paywalled. Findings rely on search-result text cross-checked across outlets."
   ],
   "sources": [
     {

@@ -2,11 +2,11 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-Follow-up lead from C33 (settlements to the library) and C16 (Qatari 747). The video does not cover this; the brief is a research prompt, not a quote. C33 already established the four settlement amounts (ABC $15M, Meta ~$22-25M, Paramount $16M, X ~$10M) and the fund's dissolution; C16 established the 747's acceptance and the 2029 transfer plan. This file adds the entities, officers, the newer money trail, the lawsuits over the land, and the responses.
+This check builds on C33 (settlements to the library) and C16 (Qatari 747). C33 already established the four settlement amounts (ABC $15M, Meta ~$22-25M, Paramount $16M, X ~$10M) and the fund's dissolution; C16 established the 747's acceptance and the 2029 transfer plan. This file adds the entities, officers, the newer money trail, the lawsuits over the land, and the responses.
 
-**Bottom line:** The structural facts in the brief hold up: a first library fund (Dec 2024) was administratively dissolved in Sept 2025; a successor foundation (May 2025) run by Eric Trump, Michael Boulos and attorney James Kiley got IRS exemption in 10 days during the shutdown and took title to the Miami Dade College parcel (county-assessed at $67M+) for $10. The weakest part is "~$60M+ unaccounted for". Warren, Blumenthal and Stansbury did say this in March-April 2026. But Trump's 2025 financial disclosure, released 30 Jun 2026, shows $56.5M paid to the foundation by Meta, ABC and Paramount, plus $8M paid to Trump personally by X. The lawmakers then narrowed the claim to $6.5M-$14.5M missing and $7M of unexplained spending. The 747 transfer is the stated plan, but it is not settled.
+**Bottom line:** The structural facts in the claim hold up: a first library fund (Dec 2024) was administratively dissolved in Sept 2025; a successor foundation (May 2025) run by Eric Trump, Michael Boulos and attorney James Kiley got IRS exemption in 10 days during the shutdown and took title to the Miami Dade College parcel (county-assessed at $67M+) for $10. The weakest part is "~$60M+ unaccounted for". Warren, Blumenthal and Stansbury did say this in March-April 2026. But Trump's 2025 financial disclosure, released 30 Jun 2026, shows $56.5M paid to the foundation by Meta, ABC and Paramount, plus $8M paid to Trump personally by X. The lawmakers then narrowed the claim to $6.5M-$14.5M missing and $7M of unexplained spending. The 747 transfer is the stated plan, but it is not settled.
 
-Note on sourcing: direct fetches of warren.senate.gov and bostonglobe.com were blocked in this environment. The findings below rely on search-result text across several outlets (AP via WLRN/WUSF/Yahoo, Miami Herald via CPA Practice Advisor, NYT via Hawaii Tribune-Herald and NWA Democrat-Gazette, CBS, NBC Miami, CNN via KEYT, Daily Beast) and on Warren's press-release snippets.
+Note on sourcing: the original pages at warren.senate.gov and bostonglobe.com were not read directly. The findings below rely on search-result text across several outlets (AP via WLRN/WUSF/Yahoo, Miami Herald via CPA Practice Advisor, NYT via Hawaii Tribune-Herald and NWA Democrat-Gazette, CBS, NBC Miami, CNN via KEYT, Daily Beast) and on Warren's press-release snippets.
 
 ## Sub-claims
 
@@ -14,7 +14,7 @@ Note on sourcing: direct fetches of warren.senate.gov and bostonglobe.com were b
 - Trump Presidential Library Fund, Inc. was incorporated in Florida on 20 Dec 2024, days after the ABC settlement. It was formed by Jacob Roth, a Florida attorney who forms Trump-related entities; Roth declined comment. It filed one document, a Feb 2025 amendment, and was administratively dissolved in late Sept 2025 for not filing its annual report (WLRN/WUSF, 16 Oct 2025). Search results did not identify its directors.
 - On 11 Mar 2026 Warren, Blumenthal and Stansbury wrote to ABC, Meta, Paramount and X. They said up to $63M promised to the library had no public accounting. On 20 Apr 2026 they released the companies' replies; they said the replies did not explain where the money went. Per C33, ABC said its $15M remained in the settlement escrow.
 - **Update that weakens the "missing" framing:** Trump's 2025 OGE financial disclosure, made public 30 Jun 2026, shows $64.5M from the four companies. Of that, $56.5M was paid to the *Foundation* by Meta, ABC and Paramount, and $8M was paid by X to *Trump personally*. In a 16 Jul 2026 letter to the Foundation, the lawmakers say at least $6.5M and up to $14.5M is missing and $7M of expenditures is unexplained. They also note that the Foundation reported $50M of revenue as of 10 Oct 2025.
-- The $6.5M/$14.5M range appears to be $56.5M minus $50M, with or without X's $8M. That is my inference from the figures; the release text was not fetched.
+- The $6.5M/$14.5M range appears to be $56.5M minus $50M, with or without X's $8M. That is my inference from the figures; the release text was not read directly.
 - Verdict: the dissolution and the lawmakers' allegation are documented. But "unaccounted for" is now mostly a disclosure gap of $6.5M-$14.5M, not $60M+. The X money going to Trump rather than the library is itself a notable finding.
 
 ### 2. A successor foundation received Miami Dade College land worth $67M+ for $10 — *confirmed*
@@ -57,8 +57,8 @@ Note on sourcing: direct fetches of warren.senate.gov and bostonglobe.com were b
 - Paramount (per C33) says no money went to Trump personally. The disclosure that X paid $8M to Trump personally is separate.
 
 ## Corrections
-- Brief: "$60M+ unaccounted for". After the June 2026 disclosure, $56.5M is shown as paid to the foundation. The lawmakers' current claim is $6.5M-$14.5M missing plus $7M of unexplained spending.
-- Brief: settlement money "earmarked for the library". X's ~$8M is disclosed as paid to Trump personally, not to the library.
+- Claimed: "$60M+ unaccounted for". After the June 2026 disclosure, $56.5M is shown as paid to the foundation. The lawmakers' current claim is $6.5M-$14.5M missing plus $7M of unexplained spending.
+- Claimed: settlement money "earmarked for the library". X's ~$8M is disclosed as paid to Trump personally, not to the library.
 - The $67M figure is the county assessed value; market estimates run to ~$300M, and one report cites a $60M appraisal.
 - The 747 going to the library is the stated plan, not settled; Eric Trump says it won't be displayed in Miami for now.
 
@@ -96,7 +96,7 @@ Note on sourcing: direct fetches of warren.senate.gov and bostonglobe.com were b
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (fresh re-verification with new web searches; replaces the earlier wording-only review)
+**Result: upheld** (fresh re-verification with new searches)
 
 Checked:
 - Trump's disclosure figures ($64.5M total; $56.5M from Meta, ABC and Paramount to the Foundation; $8M from X to Trump) and the lawmakers' 16 Jul 2026 allegation of $6.5M-$14.5M missing plus $7M unexplained

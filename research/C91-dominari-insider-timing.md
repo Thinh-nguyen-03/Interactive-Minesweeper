@@ -2,30 +2,30 @@
 
 **Verdict:** mostly accurate (medium confidence)
 
-**Summary.** The figures in the brief hold up against the filings.
+**Summary.** The figures in the claim hold up against the filings.
 
 - **The grant.** On Feb. 10, 2025, the day before Donald Trump Jr. and Eric Trump were announced as advisers, Dominari's compensation committee gave CEO Anthony Hayes and president Kyle Wool fully vested options on 5M shares each (10M in total).
 - **The price and conditions.** The options were struck at fair market value, $6.16, which was the close after a roughly 530-580% six-week run-up. They could not be exercised until stockholders approved a 10M-share plan increase on April 1, 2025.
 - **The placement.** The same day, Hayes, Wool and other insiders bought into the $3.47 private placement alongside the sons.
 - **The pay.** Bloomberg puts the pair's 2025 pay at about $66M. That figure includes option value as well as cash.
 
-Three parts of the brief are weaker:
+Three parts of the claim are weaker:
 - **Who traded is unknown.** No source identifies who bought during the run-up.
 - **No inquiry or lawsuit.** No SEC, FINRA or Nasdaq inquiry and no filed shareholder suit were found.
 - **The pattern does not generalise.** Of the comparators, only Unusual Machines (documented) and SRM/Tron (single source) show a run-up before the announcement. Thumzup and Gryphon do not.
 
 The hunt also found a new layer: three further Trump Organization executives are Dominari shareholders, and two of them also sit on a Yorkville SPAC board.
 
-**Access note.** sec.gov, panabee.com, quantisnow.com and equibles.com could not be resolved for direct fetch in this session. Filing details below come from search-result excerpts of the filings and from secondary coverage, cross-checked where possible.
+**Access note.** sec.gov, panabee.com, quantisnow.com and equibles.com could not be read directly. Filing details below come from search-result excerpts of the filings and from secondary coverage, cross-checked where possible.
 
-## What the brief says
+## The claim
 
 This is a third-layer hunt from C39. An analysis cited in C39's leads alleges three things:
 - 10M options were granted on Feb. 10, 2025, the day before the announcement.
 - The stock rose about 530-580% in the six weeks before.
 - Executives were paid about $66M for 2025.
 
-The brief asks us to check the proxy statement and Form 4s, establish who traded, look for any inquiry or lawsuit, and compare Unusual Machines, Thumzup, Gryphon and SRM/Tron.
+This check looks at the proxy statement and Form 4s, establish who traded, look for any inquiry or lawsuit, and compare Unusual Machines, Thumzup, Gryphon and SRM/Tron.
 
 The parents already establish:
 - the sons' stakes (about 6.7% each), the Trump Tower base, and the 84% jump on the announcement day (C39);

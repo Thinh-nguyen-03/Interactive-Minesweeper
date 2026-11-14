@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate (confidence: medium)**
 
-The brief is a connection hunt: for each foreign business partner of the Trump family, find the deal, its date and value, and the US government decision that benefited that partner's company or country in the same period. For most of the named partners, both halves are documented:
+The claim is a connection check: for each foreign business partner of the Trump family, find the deal, its date and value, and the US government decision that benefited that partner's company or country in the same period. For most of the named partners, both halves are documented:
 
 - Damac
 - Dar Global
@@ -19,7 +19,7 @@ Indonesia, India and Serbia have the deal side documented, but the US decisions 
 
 No case documents causation, and every party denies a link. Most counterparties are private companies, so the January 2025 Trump Organization ethics policy permits these deals. The exceptions are Qatari Diar, which is owned by Qatar's sovereign fund QIA, and the Pakistani state counterparties.
 
-This report builds on C31, C45, C56, C57, C59, C64 and C67 and does not repeat their detail. Much of the web was reachable only through search results. citizensforethics.org was blocked for direct fetch, so the CREW findings below come from search snippets.
+This report builds on C31, C45, C56, C57, C59, C64 and C67 and does not repeat their detail. Much of the web was reachable only through search results. citizensforethics.org was not read directly, so the CREW findings below come from search snippets.
 
 ## Partner by partner
 
@@ -59,7 +59,7 @@ This report builds on C31, C45, C56, C57, C59, C64 and C67 and does not repeat t
 - **Indonesia's tariff cut and MNC.** Inferred from the hot mic. The identity of "Hary" is unconfirmed, and Jakarta acted *against* the Trump project.
 - **Pakistan's tariff, the Munir lunch, the WLF deals and Powerus.** Each element is documented. That they are linked is inference.
 
-## Corrections to the brief
+## Corrections
 
 - "Bilt" has no documented Trump-family connection.
 - Damac's 2025 fee total is reported as $12.5M (The National, CREW) or $11.3M (CNBC).

@@ -1,9 +1,9 @@
 # C06: Secret $500M / 49% UAE stake in World Liberty Financial
 
-**Verdict: confirmed** (confidence: medium-high). Every specific in the video matches the Wall Street Journal's reporting as widely re-reported. The WSJ article itself could not be opened from this environment because of paywall and network limits, so the figures below come from several independent outlets that summarize it. All of them agree.
+**Verdict: confirmed** (confidence: medium-high). Every specific in the claim matches the Wall Street Journal's reporting as widely re-reported. The WSJ article itself could not be opened from this environment because of paywall and network limits, so the figures below come from several independent outlets that summarize it. All of them agree.
 
-## What the video says (transcript lines 305-331)
-- Justin Sun was the largest *public* investor, but there "turned out to be a bigger one": Sheikh Tahnoon bin Zayed, the UAE "spy sheikh". (The auto-transcription renders the name as "Tahoon".)
+## The claim
+- Justin Sun was the largest *public* investor, but there "turned out to be a bigger one": Sheikh Tahnoon bin Zayed, the UAE "spy sheikh".
 - WSJ reporter Sam Kessler says his team found that, four days before the inauguration, the president's family signed a deal with Tahnoon, who is the UAE's national security adviser and the brother of the UAE president.
 - The deal was worth $500M, sold 49% of World Liberty Financial (WLF) to a foreign buyer, and was kept totally secret from the public.
 
@@ -22,9 +22,8 @@
 - **Later developments.** In August 2026 the WSJ reported that Tahnoon and co-investors hold 49% of the holding company WLF set up to seek a bank charter.
 
 ## Corrections
-- The transcript spells the name "Tahoon"; it is Tahnoon bin Zayed Al Nahyan.
-- The buyer is the vehicle Aryam Investment 1, not Tahnoon personally. The video's phrase "deal with a top UAE royal" is a fair shorthand.
-- The transcript at lines 307-309 is garbled by auto-transcription; the dollar figure and the 49% stake are given clearly later, in lines 317-322.
+- The name is sometimes misspelled "Tahoon"; it is Tahnoon bin Zayed Al Nahyan.
+- The buyer is the vehicle Aryam Investment 1, not Tahnoon personally. The phrase "deal with a top UAE royal" is a fair shorthand.
 
 ## Second-review audit (2026-11-14)
 - Re-checked: the $500M/49% terms, the 2025-01-16 signing by Eric Trump, the $250M upfront split (~$187M Trump-family, at least $31M Witkoff-linked), the second tranche, and the secrecy. **Result: upheld.** All figures match across further outlets, though every account still traces to the WSJ.

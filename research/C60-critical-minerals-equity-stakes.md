@@ -14,13 +14,13 @@ The best-documented instances:
 
 Cantor's links to The Metals Company and Critical Metals are also real.
 
-The brief overreaches in two places:
+The claim overreaches in two places:
 - **MP Materials, Lithium Americas and Intel are not on the reported list of 14.** No family-firm position in them was found. (Audit: Trump's own accounts bought Intel shares in Q1 2026, after the government stake, per AP.)
 - **Family gains are largely unquantified, and no evidence shows influence over any decision.** The White House, Commerce, Cantor and the Trump family deny wrongdoing.
 
-## What the brief says
+## The claim
 
-The brief says the administration took equity stakes in, or gave loans or price floors to, MP Materials, Lithium Americas, Trilogy Metals, Vulcan Elements, Intel, USA Rare Earth and others. It says reporting (NYT, FT, Bloomberg) links Trump-family or Lutnick-family firms, as investors or advisers, to a dozen or more of those companies. The firms named are 1789 Capital, Cantor Fitzgerald, and Dominari/American Ventures (through Skyline and Cove Kaz).
+The claim says the administration took equity stakes in, or gave loans or price floors to, MP Materials, Lithium Americas, Trilogy Metals, Vulcan Elements, Intel, USA Rare Earth and others. It says reporting (NYT, FT, Bloomberg) links Trump-family or Lutnick-family firms, as investors or advisers, to a dozen or more of those companies. The firms named are 1789 Capital, Cantor Fitzgerald, and Dominari/American Ventures (through Skyline and Cove Kaz).
 
 ## Findings by sub-claim
 
@@ -94,7 +94,7 @@ The brief says the administration took equity stakes in, or gave loans or price 
 - **1789 and Don Jr.:** deny any role in the Vulcan loan.
 - **Trump family lawyer:** demanded that the NYT retract its Kaz story.
 - **Structural overlap:** the administration has done roughly 160 minerals deals worth about $40B (one tally), and Cantor is a dominant banker in the sector, so some overlap is to be expected.
-- **Source limits:** NYT, Boston Globe, CNBC and Senate sites, among others, could not be fetched directly in this session. The web-search budget ran out before MP Materials, Lithium Americas, Intel and the four less-covered companies could be checked one by one. Those items rely on search-result summaries.
+- **Source limits:** NYT, Boston Globe, CNBC and Senate sites, among others, could not be read directly. The research ended before MP Materials, Lithium Americas, Intel and the four less-covered companies could be checked one by one. Those items rely on search-result summaries.
 
 ## Sources
 

@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-**Lead (follow-up from C02/C29):** Amazon reportedly paid about $40M to license a Melania Trump documentary, far above rival bids, and she reportedly netted about $10.7M+ in 2025. Meanwhile Amazon and Jeff Bezos had major business before the administration: the antitrust case, federal cloud and Blue Origin/Kuiper contracts, and tariffs. The brief also covers Bezos's inauguration donation and the Washington Post changes.
+**Lead (follow-up from C02/C29):** Amazon reportedly paid about $40M to license a Melania Trump documentary, far above rival bids, and she reportedly netted about $10.7M+ in 2025. Meanwhile Amazon and Jeff Bezos had major business before the administration: the antitrust case, federal cloud and Blue Origin/Kuiper contracts, and tariffs. The claim also covers Bezos's inauguration donation and the Washington Post changes.
 
 **Bottom line:** The money is well documented. About $40M for the rights (Puck/WSJ, never officially confirmed by Amazon), about $35M more on marketing (about $75M total), and $16.6M at the global box office. Trump's 2025 OGE disclosure shows a $10.71M licensing fee for the film.
 
@@ -10,10 +10,10 @@ The "far above rival bids" part rests on one Wall Street Journal report: Disney 
 
 Amazon's business before the government is real and large: the FTC case, AWS federal deals, Blue Origin launch awards, the Amazon Leo FCC waiver, and the tariff episode. The bribery or pay-to-play theory remains an allegation from Democratic lawmakers. No documents, investigation or official finding link the deal to any government decision. Amazon, Bezos and Melania's office all deny it.
 
-Source note: warren.senate.gov and hankjohnson.house.gov could not be fetched from this environment. The letter, Amazon's reply and the press releases are described from search results that quote them (Variety, Washington Times, Bloomberg Law, The Hill/AOL) and from search snippets of the official pages. The WSJ, Puck and the OGE PDF were not read directly.
+Source note: warren.senate.gov and hankjohnson.house.gov could not be read directly. The letter, Amazon's reply and the press releases are described from search results that quote them (Variety, Washington Times, Bloomberg Law, The Hill/AOL) and from search snippets of the official pages. The WSJ, Puck and the OGE PDF were not read directly.
 
-## What the video says
-The video did not cover this. It arose from C02 (Melania's $6M NFT income) and C29 (family wealth disclosures). C02 already notes that most of Melania's roughly $17.2M in 2025 income came from the documentary, not crypto. This file does not repeat the NFT and coin material.
+## The claim
+ It arose from C02 (Melania's $6M NFT income) and C29 (family wealth disclosures). C02 already notes that most of Melania's roughly $17.2M in 2025 income came from the documentary, not crypto. This file does not repeat the NFT and coin material.
 
 ## Sub-claims
 

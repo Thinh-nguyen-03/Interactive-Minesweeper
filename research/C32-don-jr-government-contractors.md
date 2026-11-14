@@ -10,10 +10,10 @@ The Executive Branch club is documented as a Don Jr. / 1789 venture. No record f
 
 Every denial on record says Don Jr. did not intervene, and no reporting found shows that he did.
 
-**Research note.** Direct fetches of citizensforethics.org and dronexl.co failed because those hosts are blocked here. The shared web-search budget ran out partway through, so I could not run searches on Cerebras/CFIUS, the Anduril/xAI/SpaceX contracts, or 1789's own statements. Findings below rest on search-result summaries from several outlets (NBC/CNBC, FT via TipRanks/The Fly, The Intercept, Quartz, Aviation Week, Fortune, Fox5, CREW) and on the parent report C26 (ProPublica). Anything I could not confirm is marked unverified.
+**Research note.** The original pages at citizensforethics.org and dronexl.co were not read directly. The research ended before every thread was checked, so I could not run searches on Cerebras/CFIUS, the Anduril/xAI/SpaceX contracts, or 1789's own statements. Findings below rest on search-result summaries from several outlets (NBC/CNBC, FT via TipRanks/The Fly, The Intercept, Quartz, Aviation Week, Fortune, Fox5, CREW) and on the parent report C26 (ProPublica). Anything I could not confirm is marked unverified.
 
-## What the lead says
-This is a follow-up brief, not a quote from the video. It suggests that Don Jr. holds advisory roles or stakes in other companies that won federal contracts or policy benefits after he joined. The examples it gives are Unusual Machines (an Army contract), the 1789 portfolio companies Anduril, SpaceX/xAI, Firehawk and Cerebras, and the Executive Branch club. The video itself covers only 1789/Vulcan (C26), the New America SPAC (C27) and Eric Trump's ties to Foundation (C28).
+## The claim
+It suggests that Don Jr. holds advisory roles or stakes in other companies that won federal contracts or policy benefits after he joined. The examples it gives are Unusual Machines (an Army contract), the 1789 portfolio companies Anduril, SpaceX/xAI, Firehawk and Cerebras, and the Executive Branch club. The video itself covers only 1789/Vulcan (C26), the New America SPAC (C27) and Eric Trump's ties to Foundation (C28).
 
 ## Evidence by sub-claim
 
@@ -66,7 +66,7 @@ This is a follow-up brief, not a quote from the video. It suggests that Don Jr. 
    - Anduril is building the YFQ-44 autonomous fighter for the Air Force, and all of these companies hold major federal business or face federal regulators [14].
    - I found no reporting that dates any specific award or regulatory decision relative to 1789's investment, and none linking one to Don Jr.
    - These are late-stage companies in which 1789 holds minority stakes, and their government relationships predate the fund.
-   - This part of the brief is an inference, not a documented claim.
+   - This part of the claim is an inference, not a documented claim.
 
 9. **The Executive Branch club is a Don Jr. venture tied to government benefits: partly accurate.**
    - The club itself is documented. It is an invite-only club in Georgetown, Washington DC, co-founded by Don Jr. with 1789's Omeed Malik and Chris Buskirk and with Alex and Zach Witkoff. Membership is reported at about $500,000, and members are vetted by the founders [18][19][20].
@@ -76,7 +76,7 @@ This is a follow-up brief, not a quote from the video. It suggests that Don Jr. 
    - Its founders say it "isn't Donald Trump's club" and that most members are private citizens.
 
 ## Corrections
-- The brief lists the Executive Branch club alongside government contractors. It is a private members' club, and no federal contract or benefit to it was found.
+- The claim lists the Executive Branch club alongside government contractors. It is a private members' club, and no federal contract or benefit to it was found.
 - The value of the Unusual Machines Army order was never disclosed. Treat any dollar figure, including $12.8M, as unconfirmed.
 - *(Corrected at audit.)* An earlier version said only Firehawk had federal awards after 1789's investment. That was wrong. Anduril's Army enterprise agreement (ceiling up to $20B, March 2026) and the SpaceX and Anduril Golden Dome interceptor awards (April 2026) also came after 1789's stakes were public. Those awards were competitive or multi-vendor, the companies had large government businesses before 1789, and nothing ties the awards to 1789 or Don Jr.
 
@@ -94,8 +94,8 @@ This is a follow-up brief, not a quote from the video. It suggests that Don Jr. 
 4. TipRanks / The Fly, "Trump Jr.-backed Unusual Machines wins DoD contract, FT reports", 2025-10. https://www.tipranks.com/news/the-fly/trump-jr-backed-unusual-machines-wins-dod-contract-ft-reports-thefly
 5. TipRanks (company announcement), "Unusual Machines secures major U.S. Army contract", 2025-10-15. https://www.tipranks.com/news/company-announcements/unusual-machines-secures-major-u-s-army-contract
 6. Mammoth Times (ACCESSWIRE), "Unusual Machines to supply 3,500 NDAA-compliant motors for US Army 101st Airborne Division's ABE V1.01 drones", 2025-10-15. https://business.mammothtimes.com/mammothtimes/article/accwirecq-2025-10-15-unusual-machines-to-supply-3500-ndaa-compliant-motors-for-us-army-101st-airborne-divisions-abe-v101-drones
-7. DroneXL, "Trump Jr. Unusual Machines Pentagon drone contract", 2025-10-25 (fetch blocked; seen via search). https://dronexl.co/2025/10/25/trump-jr-unusual-machines-pentagon-drone-contract
-8. CREW, "Companies see boost from Trump admin after adding Don Jr. to their board", 2025/2026 (fetch blocked; seen via search). https://www.citizensforethics.org/reports-investigations/crew-reports/companies-see-boost-from-trump-admin-after-adding-don-jr-to-their-board/
+7. DroneXL, "Trump Jr. Unusual Machines Pentagon drone contract", 2025-10-25 (original not read; seen via search). https://dronexl.co/2025/10/25/trump-jr-unusual-machines-pentagon-drone-contract
+8. CREW, "Companies see boost from Trump admin after adding Don Jr. to their board", 2025/2026 (original not read; seen via search). https://www.citizensforethics.org/reports-investigations/crew-reports/companies-see-boost-from-trump-admin-after-adding-don-jr-to-their-board/
 9. Quartz, Pentagon drone company equity stakes / Unusual Machines, 2026-05-28. https://qz.com/pentagon-drone-company-equity-stakes-unusual-machines-052826
 10. DroneXL, "Pentagon drone funding equity: Neros, Unusual Machines, PDW", 2026-05-28. https://dronexl.co/2026/05/28/pentagon-drone-funding-equity-neros-unusual-machines-pdw/
 11. ProPublica, "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.", 2026-05-28 (via C26). https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house

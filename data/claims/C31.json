@@ -3,7 +3,7 @@
   "title": "Trump Organization Gulf real-estate deals (Dar Global)",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The Trump Organization does have a large and growing set of Trump-branded tower, hotel and golf licensing deals in the Gulf, mostly with Dar Global, the London-listed international arm of Saudi developer Dar Al Arkan. They are in Oman, Jeddah (two), Dubai, Qatar and Riyadh/Diriyah, and the licensing income runs to tens of millions of dollars a year. The brief overreaches on timing: Oman (2022), Trump Tower Jeddah (July 2024) and the first Dubai announcement (July 2024) came before the 2024 election. It also blurs the pledge. The 'no new foreign deals' promise belonged to the first term only. The January 2025 second-term policy bars deals with foreign governments but explicitly allows deals with private foreign companies. I found no Abu Dhabi deal, only talk of one. The Riyadh golf project sits inside the PIF-owned Diriyah Company's giga-project master plan, though the licence counterparty is Dar Global.",
+  "summary": "The Trump Organization does have a large and growing set of Trump-branded tower, hotel and golf licensing deals in the Gulf, mostly with Dar Global, the London-listed international arm of Saudi developer Dar Al Arkan. They are in Oman, Jeddah (two), Dubai, Qatar and Riyadh/Diriyah, and the licensing income runs to tens of millions of dollars a year. The claim overreaches on timing: Oman (2022), Trump Tower Jeddah (July 2024) and the first Dubai announcement (July 2024) came before the 2024 election. It also blurs the pledge. The 'no new foreign deals' promise belonged to the first term only. The January 2025 second-term policy bars deals with foreign governments but explicitly allows deals with private foreign companies. I found no Abu Dhabi deal, only talk of one. The Riyadh golf project sits inside the PIF-owned Diriyah Company's giga-project master plan, though the licence counterparty is Dar Global.",
   "sub_claims": [
     {
       "statement": "Since the 2024 election the Trump Organization has signed Trump-branded tower/hotel/golf licensing deals across the Gulf.",
@@ -263,7 +263,7 @@
       "date": "2026-07-23"
     },
     {
-      "title": "Trump, the Iran war and Oman golf hotels (headline paraphrased from URL; page not fetched)",
+      "title": "Trump, the Iran war and Oman golf hotels (headline paraphrased from URL; page not read)",
       "publisher": "Mother Jones",
       "url": "https://www.motherjones.com/politics/2026/04/trump-iran-war-oman-golf-hotels/",
       "date": "2026-04"
@@ -683,14 +683,14 @@
   ],
   "audit": {
     "checked": [
-      "Whether the Diriyah/Riyadh project is tied to a PIF-owned entity (gap flagged by first researcher)",
+      "Whether the Diriyah/Riyadh project is tied to a PIF-owned entity (gap flagged in the first round of research)",
       "Dar Global as licensing counterparty for the Riyadh/Diriyah launch and ~$10B combined value"
     ],
     "result": "strengthened",
     "changes": [
       "State-linked counterparty sub-claim: documented that the Wadi Safar project lies within the master plan of PIF-owned Diriyah Company, and that NYT (Nov 2025) reported talks over joining the Saudi government-owned development; land title still unestablished, verdict kept partly-accurate.",
       "Added diriyah-company entity and PIF/Trump Organization edges; summary sentence added.",
-      "Not re-checked: the Oman land question, the ~$38M 2025 Gulf licensing figure and the repeated $21.9M Dar Al Arkan fee (the latter looks like it may duplicate the prior-year figure and should be re-verified); the shared web-search budget ran out during this audit."
+      "Not re-checked: the Oman land question, the ~$38M 2025 Gulf licensing figure and the repeated $21.9M Dar Al Arkan fee (the latter looks like it may duplicate the prior-year figure and should be re-verified); the research ended before every thread was checked."
     ],
     "new_sources": [
       {

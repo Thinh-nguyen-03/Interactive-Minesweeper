@@ -1,10 +1,10 @@
 # C76: Russia-linked money around the family and envoys
 
-**Verdict: partly-accurate (confidence: medium).** Several Russia-adjacent links are documented. Others in the brief are single-source, unverified, or not about Russia at all. None of the sources we found shows Witkoff or Kushner holding a personal financial stake in any Russia deal. A documented relationship is not evidence of wrongdoing.
+**Verdict: partly-accurate (confidence: medium).** Several Russia-adjacent links are documented. Others in the claim are single-source, unverified, or not about Russia at all. None of the sources we found shows Witkoff or Kushner holding a personal financial stake in any Russia deal. A documented relationship is not evidence of wrongdoing.
 
-Origin: connection hunt that builds on C53 (Witkoff family money; it logged the Blavatnik lead), C66 (extended family; it logged the Kremlev and Guilfoyle leads), C37 (alleged GRU hack of Kushner's phone) and C15 (Kushner/Affinity).
+Origin: connection check that builds on C53 (Witkoff family money; it logged the Blavatnik lead), C66 (extended family; it logged the Kremlev and Guilfoyle leads), C37 (alleged GRU hack of Kushner's phone) and C15 (Kushner/Affinity).
 
-**Method note.** Direct fetches of bylinetimes.com and propublica.org failed because the hosts are not allowed in this session. WSJ and NYT findings were read through syndications (To Vima) and relaying outlets (Meduza, Ukrainska Pravda, Kyiv Independent, Moscow Times). Each point is graded on that basis. We ran about 27 web searches.
+**Method note.** The original pages at bylinetimes.com and propublica.org were not read directly. WSJ and NYT findings were read through syndications (To Vima) and relaying outlets (Meduza, Ukrainska Pravda, Kyiv Independent, Moscow Times). Each point is graded on that basis.
 
 Evidence grades: **documented** (filings, official records or several outlets), **single-source** (one outlet or anonymous sourcing), **inferred** (our own observation; no source asserts it).
 

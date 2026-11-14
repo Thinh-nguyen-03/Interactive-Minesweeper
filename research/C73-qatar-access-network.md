@@ -1,15 +1,15 @@
 # C73: Qatar's access network inside and around the administration
 
-**Verdict: mostly-accurate (confidence: medium).** Most of the people-to-Qatar ties in the brief are documented in FARA filings, financial disclosures or reporting from several outlets. The list includes Bondi, Patel, Kerik, Zeldin, Kushner/Affinity, the Witkoff Park Lane sale, Barrack's Colony-era deals and his UCC partner, the Trump Organization's Qatari Diar licence, and Newsmax. The US decisions that benefited Qatar are documented and dated too. Two parts of the brief are weaker than stated:
+**Verdict: mostly-accurate (confidence: medium).** Most of the people-to-Qatar ties in the claim are documented in FARA filings, financial disclosures or reporting from several outlets. The list includes Bondi, Patel, Kerik, Zeldin, Kushner/Affinity, the Witkoff Park Lane sale, Barrack's Colony-era deals and his UCC partner, the Trump Organization's Qatari Diar licence, and Newsmax. The US decisions that benefited Qatar are documented and dated too. Two parts of the claim are weaker than stated:
 
 - **The Witkoff $100M.** The "Apollo-run trust partly owned by Qatar" claim was corrected. The lender was reported to be Apollo Global Management itself, not the Qatar-invested trust.
 - **Susie Wiles and Mercury.** Her Mercury link to Qatar is thin. Mercury's documented Qatar contracts predate her time at the firm.
 
 No source shows any payment or investment buying a decision. The overlaps in timing are our own cross-referencing.
 
-Parents: C16 (jet, arms, golf), C53 (Witkoff Gulf money), C61 (shared lawyers), C64 (lobbyists), C65 (officials' prior ties). This report extends those files and does not repeat them. Many outlets (jpost.com, freebeacon.com) could not be fetched from this environment. Where that happened, findings rest on search-result text from several outlets, and we say so.
+Parents: C16 (jet, arms, golf), C53 (Witkoff Gulf money), C61 (shared lawyers), C64 (lobbyists), C65 (officials' prior ties). This report extends those files and does not repeat them. Many outlets (jpost.com, freebeacon.com) could not be read directly. Where that happened, findings rest on search-result text from several outlets, and we say so.
 
-## What the brief asks
+## What was checked
 
 Map every documented Qatari financial or client tie to people now in or around the administration. Set those ties against the US decisions that benefited Qatar (the jet, the security-guarantee executive order, arms sales, Al Udeid, the Idaho facility), with dates and evidence grades.
 
@@ -51,7 +51,7 @@ Qatar's embassy hired the Kerik Group under a contract effective **1 April 2025*
 - $240K for a one-year term (O'Dwyer's).
 - Alternatively, $240K for the first 2.5 months, then $80K a month, with a bar on working for other Middle Eastern governments (Shomrim).
 
-Kerik was pardoned by Trump in 2020 and had worked alongside Giuliani on Trump's 2020 election challenges. FBI Director Patel announced his death on **29 May 2025**, eight days after the Pentagon accepted the jet. Kerik held no administration post. We found no record of what he did for Qatar. Correction to the brief: the hire was real, but it lasted under two months before his death.
+Kerik was pardoned by Trump in 2020 and had worked alongside Giuliani on Trump's 2020 election challenges. FBI Director Patel announced his death on **29 May 2025**, eight days after the Pentagon accepted the jet. Kerik held no administration post. We found no record of what he did for Qatar. Correction: the hire was real, but it lasted under two months before his death.
 
 ### 5. Susie Wiles and Mercury
 **Grade: partly accurate. Employment documented; Qatar link single-source (from C64).**

@@ -1,10 +1,10 @@
 # C77: Greenland, the seabed and rare earths: Cantor-linked firms before Lutnick's department
 
-**Verdict: mostly-accurate** (confidence: medium). This is a connection hunt that goes a second layer deeper than C60, C50 and C35.
+**Verdict: mostly-accurate** (confidence: medium). This is a connection check that goes a second layer deeper than C60, C50 and C35.
 
 ## Summary
 
-Most of the links in the brief are on the record:
+Most of the links in the claim are on the record:
 
 - **Critical Metals (Greenland).** Cantor was among Critical Metals' largest shareholders when U.S. officials steered the Tanbreez deposit away from a Chinese-linked buyer and toward the company. EXIM then offered a $120M letter of interest, and officials discussed taking a roughly 8% stake. The stake never closed.
 - **Deep-sea mining.** Cantor advises The Metals Company (TMC). It also co-arranged a raise of more than $150M for a second NOAA seabed applicant, American Ocean Minerals (AOMC). NOAA, inside Lutnick's Commerce Department, decides both companies' permits.
@@ -12,13 +12,13 @@ Most of the links in the brief are on the record:
 - **Perpetua.** EXIM approved a $2.9B loan for Perpetua, whose largest shareholder is the Trump fundraiser John Paulson.
 - **GreenMet.** Trump's former bodyguard Keith Schiller and former Trump Organization counsel George Sorial own part of GreenMet, Tanbreez's development partner.
 
-Three things in the brief are not established:
+Three things in the claim are not established:
 
 - **Recusal.** Whether Lutnick has recused himself from the seabed permits could not be determined.
 - **Trump allies in the PIPE.** The claim rests only on a Senate letter.
 - **Gains.** No family or ally gain is documented. PIPE buyers were about 57% under water in October 2026.
 
-## What the brief asked and what the record shows
+## What was checked and what the record shows
 
 ### 1. Critical Metals / Tanbreez (Greenland)
 - **January 2025 (Reuters):** U.S. officials lobbied Tanbreez's owner, Greg Barnes, not to sell to a Chinese-linked bidder. Critical Metals bought control for $5M in cash plus $211M in its own stock. Reuters named Cantor, then still led by Lutnick, as Critical Metals' third-largest investor. *Documented.*
@@ -80,7 +80,7 @@ On 2026-04-08, AOMC agreed an all-stock merger with Odyssey Marine Exploration w
 - **GreenMet's shareholders:** Sorial and Schiller say they are passive investors.
 - **Lauder and the White House:** both declined to comment.
 - **Context:** Cantor is a dominant small-cap mining bank, so some overlap with these companies is structural.
-- **Source limits:** Senate pages, NPR station pages and the 13F aggregators were blocked for direct fetch in this session, so this report relies on search-result summaries.
+- **Source limits:** Senate pages, NPR station pages and the 13F aggregators were not read directly, so this report relies on search-result summaries.
 
 ## Sources
 1. Reuters via Mining.com, "US lobbied Greenland rare earths developer Tanbreez not to sell to China", 2025-01-10. https://www.mining.com/web/us-lobbied-greenland-rare-earths-developer-tanbreez-not-to-sell-to-china/

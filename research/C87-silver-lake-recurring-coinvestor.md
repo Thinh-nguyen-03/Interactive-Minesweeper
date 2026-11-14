@@ -1,7 +1,7 @@
 # C87: Silver Lake, the co-investor on both the Saudi-Kushner and Abu Dhabi sides
 
 **Verdict:** mostly-accurate (confidence: medium)
-**Origin:** connection hunt, third layer from C68, C80 and C57.
+**Origin:** connection check, third layer from C68, C80 and C57.
 
 ## Summary
 
@@ -10,9 +10,9 @@ Silver Lake's dual position is well documented:
 - **Abu Dhabi side.** Mubadala has owned a passive minority stake in Silver Lake since 2020. Silver Lake has held shares in Tahnoon's G42 since 2021, and co-CEO Egon Durban sits on G42's board. Silver Lake co-owns two US assets with Tahnoon's MGX: the TikTok US joint venture and, a link not covered before, 51% of Intel's chip unit Altera.
 - **Saudi-Kushner side.** Silver Lake co-bought Electronic Arts (EA) with Saudi Arabia's Public Investment Fund (PIF) and Kushner's Affinity. Reuters reported that those talks began between Durban and Kushner. As of November 2026, Silver Lake is reportedly in takeover talks with PIF again, this time for Unity.
 
-The brief also asked about donations and administration ties. We found no documented Trump-related donations, no lobbying of the administration and no administration roles for Durban or Silver Lake. The idea that Silver Lake is a hub between the two Trump-connected Gulf networks comes from our own cross-referencing; no outlet frames it that way. Nothing we found shows coordination or an exchange of favours.
+This check also asked about donations and administration ties. We found no documented Trump-related donations, no lobbying of the administration and no administration roles for Durban or Silver Lake. The idea that Silver Lake is a hub between the two Trump-connected Gulf networks comes from our own cross-referencing; no outlet frames it that way. Nothing we found shows coordination or an exchange of favours.
 
-Many outlets, including Semafor, could not be fetched from this environment. Some findings therefore rest on search-result text and syndicated copies.
+Many outlets, including Semafor, could not be read directly. Some findings therefore rest on search-result text and syndicated copies.
 
 ## Connections found
 
@@ -106,10 +106,10 @@ Sources [34–37].
 | Silver Lake as a potential US buyer of G42 | unverified: no report |
 | Durban or Silver Lake donations to Trump-aligned committees | not found |
 
-## Corrections to the brief
+## Corrections
 
 - The Mubadala stake is passive and its size is undisclosed. It does not by itself give Mubadala control or influence.
-- The brief misses Altera, a second co-investment by Silver Lake and MGX.
+- The claim misses Altera, a second co-investment by Silver Lake and MGX.
 - Mubadala's chairman is Mansour bin Zayed. Its tie to Tahnoon runs through MGX.
 - Some coverage of the Unity talks wrongly calls Silver Lake Kushner's firm.
 

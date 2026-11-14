@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-The video's main points have documentation behind them. The UAE put Emirati money into Trump-family crypto projects, and soon after the US approved large AI-chip exports to the UAE. MGX was a founding equity funder of Stargate. Trump did say a currency swap with the UAE was "under consideration" and called it "a good ally." World Liberty Financial (WLF) denies any link between the deals. Three things are overstated or framed loosely:
+The main points of the claim have documentation behind them. The UAE put Emirati money into Trump-family crypto projects, and soon after the US approved large AI-chip exports to the UAE. MGX was a founding equity funder of Stargate. Trump did say a currency swap with the UAE was "under consideration" and called it "a good ally." World Liberty Financial (WLF) denies any link between the deals. Three things are overstated or framed loosely:
 
 - The Biden administration delayed and restricted chip exports to the UAE. It did not refuse them outright.
 - Trump did not say he *would* help the UAE financially, only that a swap was being considered. No swap line has been reported as signed.
@@ -12,12 +12,12 @@ No reporting has found evidence of an explicit quid pro quo.
 
 Note: this session's network blocked most page fetches. The findings below come from search-result summaries of the cited articles, not from full-text reads. That is the reason for medium confidence.
 
-## What the video says (transcript lines 381-405)
+## The claim
 - The UAE won "enormous AI chips deals" that it had long wanted and the US had refused, because of fears the chips could fall into the wrong hands or be used for military purposes.
 - The chips deal was approved "shortly after" deals began between Trump crypto projects and the UAE.
 - WLF denies any political quid pro quo and says it has no influence over policy.
 - MGX was announced as an investor in Project Stargate, alongside SoftBank, OpenAI and Oracle.
-- "The president said he would financially assist the UAE during the Iran crisis because they've been so good to us." The clip that follows has a reporter asking about a currency swap, and Trump answering "It is [under consideration] ... it's been a good ally of ours ... these are unusual times."
+- "The president said he would financially assist the UAE during the Iran crisis because they've been so good to us." The exchange behind this: a reporter asked about a currency swap, and Trump answered "It is [under consideration] ... it's been a good ally of ours ... these are unusual times."
 
 ## Sub-claims
 
@@ -48,15 +48,15 @@ Note: this session's network blocked most page fetches. The findings below come 
 
 5. **Trump said a currency swap or financial help for the UAE during the Iran crisis was under consideration because it was "a good ally." Mostly accurate, but the paraphrase overstates it.**
    - In a CNBC interview on 2026-04-21, set against the US-Israeli war with Iran and the Hormuz disruption, Trump said a swap with the UAE was "under consideration." He called the UAE "a good ally" and said it was "really rich."
-   - The video's own paraphrase, "said he would financially assist ... because they've been so good to us," overstates a statement that the idea was under consideration.
+   - The paraphrase, "said he would financially assist ... because they've been so good to us," overstates a statement that the idea was under consideration.
    - US officials said the UAE had made no formal request. UAE officials said they have no liquidity problem.
    - Bessent told senators that both countries would benefit.
    - As of the latest reports found (May to August 2026), no swap line had been signed or announced. Whether it was ever finalized remains unverified.
 
 ## Corrections
-- Transcript says the US "had refused" these chip deals. The record shows Biden-era delays, a tier-2 cap under the AI Diffusion Rule, and partial approvals (December 2024 Microsoft licences), not a blanket refusal.
-- Transcript says Trump "said he would financially assist the UAE." He said a currency swap was "under consideration." No swap had been reported as finalized as of August 2026, and none was found through Nov 2026.
-- Transcript says "shortly after ... this chips deal was approved." The framework came about two weeks after the 2025-05-01 USD1/MGX announcement. Actual export licences came in September and November 2025.
+- Claimed: the US "had refused" these chip deals. The record shows: Biden-era delays, a tier-2 cap under the AI Diffusion Rule, and partial approvals (December 2024 Microsoft licences), not a blanket refusal.
+- Claimed: Trump "said he would financially assist the UAE." The record shows: he said a currency swap was "under consideration." No swap had been reported as finalized as of August 2026, and none was found through Nov 2026.
+- Claimed: "shortly after ... this chips deal was approved." The record shows: the framework came about two weeks after the 2025-05-01 USD1/MGX announcement. Actual export licences came in September and November 2025.
 - MGX's Stargate role was announced 2025-01-21, before the USD1 deal, so it does not fit an after-the-fact benefit sequence.
 
 ## Denials and context

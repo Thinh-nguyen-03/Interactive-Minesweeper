@@ -3,7 +3,7 @@
   "title": "Congo minerals diplomacy: Boulos, Gentry Beach and the firms that benefited",
   "verdict": "partly-accurate",
   "confidence": "medium",
-  "summary": "The brief's main pieces are documented. Massad Boulos fronted the US minerals-for-security diplomacy that produced the June 27, 2025 DRC-Rwanda peace agreement and the December 4, 2025 Washington Accords. Don Jr.'s friend Gentry Beach (America First Global) led a consortium with Mercuria that sought the M23-held Rubaya coltan mine, and Beach toured Central Africa seeking concessions until, per a single-source WSJ report, Don Jr.'s lawyer sent him a cease-and-desist letter. Beach denies receiving it. The assets that actually changed hands under the US framework went to firms with no documented Trump-family tie: Virtus Minerals (Chemaf; Reuters found it overstated its mining experience), KoBold Metals (Manono) and the DFC/ADQ-backed Orion consortium (Glencore stake MOU). Beach is not documented as a bidder for Chemaf; that bid was Virtus/Orion, and UBA's $50M facility was for a rival bidder, Buenassa. Erik Prince's Vectus works for Kinshasa on taxes and security, but State says it has no DRC contract with him. No source documents a Boulos or Trump-family financial stake in any DRC asset.",
+  "summary": "The claim's main pieces are documented. Massad Boulos fronted the US minerals-for-security diplomacy that produced the June 27, 2025 DRC-Rwanda peace agreement and the December 4, 2025 Washington Accords. Don Jr.'s friend Gentry Beach (America First Global) led a consortium with Mercuria that sought the M23-held Rubaya coltan mine, and Beach toured Central Africa seeking concessions until, per a single-source WSJ report, Don Jr.'s lawyer sent him a cease-and-desist letter. Beach denies receiving it. The assets that actually changed hands under the US framework went to firms with no documented Trump-family tie: Virtus Minerals (Chemaf; Reuters found it overstated its mining experience), KoBold Metals (Manono) and the DFC/ADQ-backed Orion consortium (Glencore stake MOU). Beach is not documented as a bidder for Chemaf; that bid was Virtus/Orion, and UBA's $50M facility was for a rival bidder, Buenassa. Erik Prince's Vectus works for Kinshasa on taxes and security, but State says it has no DRC contract with him. No source documents a Boulos or Trump-family financial stake in any DRC asset.",
   "sub_claims": [
     {
       "statement": "Massad Boulos (Tiffany Trump's father-in-law, Senior Advisor for Africa) led the US minerals-for-security diplomacy that produced the June 27, 2025 DRC-Rwanda peace agreement and the December 4, 2025 Washington Accords.",
@@ -48,7 +48,7 @@
     {
       "statement": "Beach sought Chemaf.",
       "verdict": "unverified",
-      "finding": "NOT FOUND. Every source we found names the Chemaf bidders as Virtus Minerals with Orion Resource Partners (and India's Lloyds Metals), the Congolese trader Buenassa (UBA-financed), Gecamines' own counter-offer, and earlier China's Norinco (blocked in 2024). None names Beach or America First Global. Treat the brief's Beach-Chemaf link as unsupported.",
+      "finding": "NOT FOUND. Every source we found names the Chemaf bidders as Virtus Minerals with Orion Resource Partners (and India's Lloyds Metals), the Congolese trader Buenassa (UBA-financed), Gecamines' own counter-offer, and earlier China's Norinco (blocked in 2024). None names Beach or America First Global. Treat the claim's Beach-Chemaf link as unsupported.",
       "sources": [
         "https://www.mining.com/web/special-forces-veterans-lead-us-bid-to-buy-congo-cobalt-miner",
         "https://www.semafor.com/article/01/26/2026/nigerias-uba-preps-50m-financing-for-drc-minerals-bid"
@@ -131,8 +131,8 @@
     }
   ],
   "corrections": [
-    "The brief pairs Beach with Chemaf. In the record, the Chemaf bidders were Virtus/Orion (the winner), Buenassa (UBA-financed), Gecamines and earlier Norinco. Beach was associated with Rubaya.",
-    "The brief lists UBA's financing among firms that benefited. It was a drafted $50M facility for Buenassa, a losing rival to the US-backed Virtus, with no reported close.",
+    "The claim pairs Beach with Chemaf. In the record, the Chemaf bidders were Virtus/Orion (the winner), Buenassa (UBA-financed), Gecamines and earlier Norinco. Beach was associated with Rubaya.",
+    "The claim lists UBA's financing among firms that benefited. It was a drafted $50M facility for Buenassa, a losing rival to the US-backed Virtus, with no reported close.",
     "Beach's company is reported as America First Global in the Congo coverage and as White-Bridge Global in the Pakistan coverage.",
     "The 'Washington Accords' were signed on 4 Dec 2025. The June 2025 document was the initial DRC-Rwanda peace agreement."
   ],

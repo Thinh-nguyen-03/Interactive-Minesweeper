@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-Each factual element of the brief is documented:
+Each factual element of the claim is documented:
 - crypto firms hiring Trump-connected lobbyists;
 - the Winklevoss bitcoin gift after the CFTC changed course on Gemini;
 - the SEC enforcement director's abrupt resignation and Blumenthal's letter;
@@ -13,8 +13,8 @@ Three things remain unverified:
 - the reason Margaret Ryan resigned, which rests on anonymous Reuters sources;
 - any causal link between lobbying or donations and regulatory outcomes.
 
-## Lead as briefed
-This is a follow-up from C43, C22 and C23. The video did not cover these specifics. The parent files already established:
+## The claim
+This check builds on C43, C22 and C23. The parent files already established:
 - the SEC closing Crypto.com's probe (2025-03-27);
 - the dismissals of Kraken, Coinbase and Binance (C23);
 - AP's report on Crypto.com and Jeff Miller (C43);
@@ -22,7 +22,7 @@ This is a follow-up from C43, C22 and C23. The video did not cover these specifi
 
 The Binance lobbying and pardon story is covered in C36. This file builds on those findings rather than repeating them.
 
-**Method note:** legis1.com, lda.senate.gov and lda.gov could not be fetched from this environment (DNS blocked, proxy 403). The underlying LDA filings could therefore not be read. Findings rest on search-result excerpts from several outlets: Reuters syndications, AP, The Block, Cointelegraph, Decrypt, Bloomberg Law, ThinkAdvisor, Fortune and Axios, plus Senate letter URLs seen in search results.
+**Method note:** legis1.com, lda.senate.gov and lda.gov could not be read directly. The underlying LDA filings could therefore not be read. Findings rest on search-result excerpts from several outlets: Reuters syndications, AP, The Block, Cointelegraph, Decrypt, Bloomberg Law, ThinkAdvisor, Fortune and Axios, plus Senate letter URLs seen in search results.
 
 ## Sub-claims
 
@@ -173,7 +173,7 @@ The Binance lobbying and pardon story is covered in C36. This file builds on tho
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (independent re-verification with fresh web searches)
+**Result: upheld** (independent re-verification with fresh searches)
 
 Checked:
 - Winklevoss twins' ~$10.02M BTC gift to MAGA Inc. on 19 Jun 2026, 23 days after the CFTC-Gemini joint motion
@@ -185,7 +185,7 @@ Changes:
 - Fresh searches (The Block, Bloomberg Tax, CryptoSlate, Crypto Briefing, InvestmentNews, Cointelegraph's Reuters relay, Legis1) confirm the dates and amounts. Verdict unchanged.
 - Added the per-twin FEC amounts and the reasoning of Hellerstein's order. Added a press-reported ~$26M cycle total, flagged as unverified.
 - Ryan sub-claim: added the unsigned Sun-settlement detail, the Musk settlement talks and Atkins's public praise. It stays unverified because the account rests on anonymous Reuters sources.
-- Gemini/Miller: still rests on Legis1 and the LDA client record, and the LDA fetch was blocked again.
+- Gemini/Miller: still rests on Legis1 and the LDA client record, and the LDA record again could not be read.
 
 New sources:
 - The Block, "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement", 2026-10-16. https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775

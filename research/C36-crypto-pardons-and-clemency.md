@@ -2,8 +2,8 @@
 
 **Verdict: mostly accurate (confidence: high on the grants and dates, low on any link between money and clemency)**
 
-## The lead as briefed
-This is a follow-up to the Changpeng Zhao pardon (C09) and the SEC dropping its crypto cases (C23). The brief says Trump also granted clemency to other crypto or donor-linked figures:
+## The claim
+This check builds on the Changpeng Zhao pardon (C09) and the SEC dropping its crypto cases (C23). The claim says Trump also granted clemency to other crypto or donor-linked figures:
 - Ross Ulbricht
 - the BitMEX co-founders, and BitMEX itself
 - Trevor Milton of Nikola, a donor
@@ -12,7 +12,7 @@ This is a follow-up to the Changpeng Zhao pardon (C09) and the SEC dropping its 
 
 It adds that the DOJ disbanded its National Cryptocurrency Enforcement Team (NCET). It asks for the dates, any donations or lobbying payments, and the official justifications.
 
-Note: The video does not cover this. Many mainstream outlets (NYT, WSJ, Politico, Reuters) could not be fetched directly here. The findings below rely on search results that agree across several outlets. Where only secondary coverage was available, that is noted.
+Note: Many mainstream outlets (NYT, WSJ, Politico, Reuters) could not be read directly. The findings below rely on search results that agree across several outlets. Where only secondary coverage was available, that is noted.
 
 ## Evidence by sub-claim
 

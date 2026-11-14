@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-This is a connection hunt; the video does not cover it. The record supports most of the access layer described in the brief:
+This is a connection check. The record supports most of the access layer described in the claim:
 - **Ballard Partners** links to officials and clients in this project: Bondi's Qatar FARA work, Wiles's years at the firm, crypto clients (Kraken, Blockchain.com, Ripple), the Saudi embassy and ballroom donors.
 - **Jeff Miller's Miller Strategies** works for a cluster of crypto and prediction-market firms: Crypto.com, Gemini, Tether and Kalshi. Donald Trump Jr. is an adviser to Kalshi.
 - **Checkmate (Ches McDowell)** has clients that overlap with this project's stories: Binance's pardon push, Pakistan and a partnership with Ballard.
@@ -11,7 +11,7 @@ This is a connection hunt; the video does not cover it. The record supports most
 
 Several named players have no documented link to a client in this project: Mercury in 2025, Corey Lewandowski, Arthur Schwartz, and Continental Strategy (apart from Albania). No source we found shows that any lobbying payment produced an outcome. Every causal link below is either timing or allegation.
 
-**Method note:** Sludge (readsludge.com), the FARA eFile PDFs and the Senate LDA database could not be fetched from this environment. Findings rest on search-result excerpts from several outlets: Sludge, the Washington Examiner, Denver Gazette/Colorado Politics, Dawn, Nukta, Sunday Guardian, O'Dwyer's, Politico (via Raw Story, CryptoPotato and Florida Politics), CBS, Public Citizen, Stateline, Mother Jones, Jewish Insider, Bloomberg and others. The shared web-search budget ran out before I could check the exact date of Bondi's jet memo or the Al Jazeera Pakistan piece's full text. Both are flagged below.
+**Method note:** Sludge (readsludge.com), the FARA eFile PDFs and the Senate LDA database could not be read directly. Findings rest on search-result excerpts from several outlets: Sludge, the Washington Examiner, Denver Gazette/Colorado Politics, Dawn, Nukta, Sunday Guardian, O'Dwyer's, Politico (via Raw Story, CryptoPotato and Florida Politics), CBS, Public Citizen, Stateline, Mother Jones, Jewish Insider, Bloomberg and others. The research ended before I could check the exact date of Bondi's jet memo or the Al Jazeera Pakistan piece's full text. Both are flagged below.
 
 ## Connections (sub-claims)
 

@@ -1,1025 +1,1309 @@
 [
- {
-  "id": "C01",
-  "slug": "trump-meme-coin",
-  "lines": "101-135,193-231",
-  "title": "$TRUMP meme coin",
-  "claim": "Trump launched an official $TRUMP meme coin two days before his January 2025 inauguration; he 'raked in' about $600 million from it via shell companies; the coin has since lost ~95% of its value and almost all buyers lost money; Trump defended crypto involvement by saying the US must lead or China will.",
-  "origin": "video"
- },
- {
-  "id": "C02",
-  "slug": "melania-coin",
-  "lines": "137,195,227",
-  "title": "$MELANIA coin and NFTs",
-  "claim": "Melania Trump launched her own meme coin right after $TRUMP; she reported ~$6 million from her coin and NFTs; the coin is down ~99%.",
-  "origin": "video"
- },
- {
-  "id": "C03",
-  "slug": "meme-coin-dinner",
-  "lines": "233-241",
-  "title": "Dinner for top $TRUMP holders",
-  "claim": "Top holders of $TRUMP got a private dinner with the president; the White House press secretary said he abides by all conflict-of-interest laws.",
-  "origin": "video"
- },
- {
-  "id": "C04",
-  "slug": "wlf-founding",
-  "lines": "245-279",
-  "title": "World Liberty Financial founding and token sale",
-  "claim": "World Liberty Financial (WLF) was created by the Trump family shortly before the 2024 election; it launched a WLFI governance token and the USD1 stablecoin but no DeFi application; co-founder Chase Herro said you can sell 'sh*t in a can' if the story is right; token sales were poor in Oct 2024 then sold out ~$550M after Trump won.",
-  "origin": "video"
- },
- {
-  "id": "C05",
-  "slug": "justin-sun",
-  "lines": "281-303",
-  "title": "Justin Sun, WLF and the SEC",
-  "claim": "Justin Sun invested $75M in WLF while charged with fraud by the SEC, became a WLF adviser; after Trump took office the SEC dismissed its case against Sun and settled with his company; Sun later broke with WLF, accusing it of treating the crypto community as a 'personal ATM' and of an 'absurd governance scam'; lawsuits flew both ways.",
-  "origin": "video"
- },
- {
-  "id": "C06",
-  "slug": "tahnoon-49-percent",
-  "lines": "305-331",
-  "title": "Secret $500M / 49% UAE stake in WLF",
-  "claim": "Per a Wall Street Journal investigation (reporter Sam Kessler), four days before the inauguration the Trump family secretly signed a $500M deal selling 49% of World Liberty Financial to an entity tied to Sheikh Tahnoon bin Zayed, UAE national security adviser and brother of the UAE president ('spy sheikh'); it was not disclosed.",
-  "origin": "video"
- },
- {
-  "id": "C07",
-  "slug": "mgx-binance-usd1",
-  "lines": "333-379",
-  "title": "MGX's $2B Binance investment settled in USD1",
-  "claim": "MGX (chaired by Tahnoon) used WLF's brand-new USD1 stablecoin to close its $2B investment in Binance, announced by WLF without disclosing Tahnoon's WLF stake; this catapulted USD1; WLF earns interest on the reserves, potentially hundreds of millions for the Trump family; WLF says holding a private company to such standards is 'unfair' and USD1 was chosen on merit.",
-  "origin": "video"
- },
- {
-  "id": "C08",
-  "slug": "uae-chips-stargate",
-  "lines": "381-405",
-  "title": "UAE AI chips deal, Stargate, currency swap",
-  "claim": "Shortly after the UAE-linked deals with Trump crypto projects, the US approved large AI-chip exports to the UAE that had previously been refused on security grounds; MGX was announced as an investor in the Stargate AI project (SoftBank, OpenAI, Oracle); Trump said a currency swap/financial help for the UAE during the Iran crisis was under consideration because it has been 'a good ally'; WLF denies any quid pro quo.",
-  "origin": "video"
- },
- {
-  "id": "C09",
-  "slug": "binance-cz-pardon",
-  "lines": "407-453",
-  "title": "Binance SEC case dropped and CZ pardon",
-  "claim": "The SEC lawsuit against Binance was dropped; Trump later pardoned Binance founder Changpeng Zhao (CZ); Trump said 'I don't know who he is'; CZ said he 'didn't do anything' to get it but that without a pardon Binance is severely limited in the US.",
-  "origin": "video"
- },
- {
-  "id": "C10",
-  "slug": "binance-usd1-growth",
-  "lines": "453-467",
-  "title": "Binance driving USD1 adoption",
-  "claim": "Binance was among the first exchanges to list USD1 and paid customers up to ~20% annual yield to hold it; a WSJ analysis linked each major jump in USD1 usage to Binance; WLF says this is standard marketing practice; WLF boasted USD1 generates ~$159M annually.",
-  "origin": "video"
- },
- {
-  "id": "C11",
-  "slug": "genius-clarity-acts",
-  "lines": "469-481",
-  "title": "GENIUS / CLARITY Acts and USD1",
-  "claim": "Trump pushed the GENIUS Act (stablecoin law) and CLARITY Act, including reported night-time calls to lawmakers to secure votes, while his family profits from USD1; a Trump son boasted on X that USD1 is the second-largest GENIUS-compliant stablecoin.",
-  "origin": "video"
- },
- {
-  "id": "C12",
-  "slug": "wlf-bank-charter",
-  "lines": "483-499",
-  "title": "WLF bank charter from the OCC",
-  "claim": "World Liberty applied for a national (trust) bank charter and was provisionally/conditionally approved by the OCC, whose head the president appoints; WLF says approval was handled by career staff.",
-  "origin": "video"
- },
- {
-  "id": "C13",
-  "slug": "alt5-sigma",
-  "lines": "501-519",
-  "title": "ALT5 Sigma $1.5B WLFI treasury deal",
-  "claim": "WLF announced a $1.5B deal with Nasdaq-listed ALT5 Sigma, which reportedly sent ~$500M to a Trump-family entity and ~$90M to the Witkoff family; ALT5 is run by the same people who run WLF; ALT5 stock fell ~94% in a year and the company rebranded to 'AI Financial Corporation'.",
-  "origin": "video"
- },
- {
-  "id": "C14",
-  "slug": "witkoff",
-  "lines": "523-533",
-  "title": "Steve and Zach Witkoff",
-  "claim": "Zach Witkoff is a WLF co-founder; his father Steve Witkoff is US Special Envoy to the Middle East while WLF's largest shareholder is from the Middle East; WLF says Steve Witkoff has divested his stake.",
-  "origin": "video"
- },
- {
-  "id": "C15",
-  "slug": "kushner-affinity",
-  "lines": "535-553",
-  "title": "Jared Kushner and Affinity Partners",
-  "claim": "Jared Kushner acts as an unofficial 'peace envoy' alongside Witkoff with no official title, so no divestment or financial disclosure; his fund Affinity Partners got $2B from Saudi Arabia's Public Investment Fund and, per the New York Times, has been trying to raise $5B more largely from Gulf sovereign funds.",
-  "origin": "video"
- },
- {
-  "id": "C16",
-  "slug": "qatar-jet-arms-golf",
-  "lines": "555-565",
-  "title": "Qatar jet, arms sales and golf deal",
-  "claim": "Qatar gifted a ~$400M luxury Boeing 747 for use as Air Force One, to go to Trump's presidential library afterward; at the same time Qatar negotiated a ~$1.96B arms deal on favourable terms; the Trump family struck a luxury golf course deal in Qatar as part of a ~$5.5B project; in 2026 the State Department approved two more possible sales to Qatar worth ~$5B (APKWS precision kill systems and Patriot missile replenishment).",
-  "origin": "video"
- },
- {
-  "id": "C17",
-  "slug": "merch-and-t1-phone",
-  "lines": "565-567",
-  "title": "Trump merchandise and the T1 phone",
-  "claim": "The Trump family sells NFTs, watches, golden shoes/sneakers, a Trump Bible, fragrances, and the Trump Mobile T1 phone, which was advertised as 'Made in America' until the website wording was changed; a buyer (Coffeezilla) says he was doxxed after ordering.",
-  "origin": "video"
- },
- {
-  "id": "C18",
-  "slug": "american-bitcoin-metaplanet",
-  "lines": "569-607",
-  "title": "Eric Trump: Metaplanet, American Bitcoin and Hut 8",
-  "claim": "Eric Trump became a strategic board adviser to Japanese bitcoin-treasury company Metaplanet; Eric and Don Jr. co-own American Bitcoin, 80% owned by Hut 8, which contributed its mining equipment for that 80% with no known cash changing hands; CEO Matt Prusak told Wired the Trumps brought capital-markets access and 'narrative'; the Trump family is linked to about five crypto treasury companies; American Bitcoin stock has performed poorly.",
-  "origin": "video"
- },
- {
-  "id": "C19",
-  "slug": "bitcoin-reserve-tmtg-cumberland",
-  "lines": "611-617",
-  "title": "Strategic Bitcoin Reserve, TMTG treasury, Cumberland/Don Wilson",
-  "claim": "Trump signed an executive order creating a Strategic Bitcoin Reserve; around then Trump Media & Technology Group (TMTG) announced a $2.5B raise for its own bitcoin treasury; one investor was Don Wilson (DRW), whose crypto firm Cumberland had an SEC enforcement case dismissed with prejudice weeks earlier; Cumberland denies any connection.",
-  "origin": "video"
- },
- {
-  "id": "C20",
-  "slug": "truth-social-stock-posts",
-  "lines": "619-631",
-  "title": "Trump's stock purchases and Truth Social posts",
-  "claim": "TMTG is majority owned by the Donald J. Trump Revocable Trust and owns Truth Social; Trump names companies/tickers in posts while in office; financial disclosures (hundreds of pages) show purchases of securities in his name before he posted about them; the White House says others trade on his behalf; he posted a meme of himself trading Intel stock in the Oval Office and the price rose.",
-  "origin": "video"
- },
- {
-  "id": "C21",
-  "slug": "tmtg-api-truth-plus",
-  "lines": "635-641",
-  "title": "TMTG's market-moving 'truths' API and Truth+",
-  "claim": "TMTG announced a paid API giving a real-time feed of Truth Social's most market-moving posts; interim CEO Kevin McGurn said 'markets already move on Truth Social posts'; it reportedly costs $100,000 a month with multiple buyers; TMTG also has Truth+, a streaming service with 'Patriot packages' and non-woke content.",
-  "origin": "video"
- },
- {
-  "id": "C22",
-  "slug": "crypto-com",
-  "lines": "643-649",
-  "title": "Crypto.com and TMTG",
-  "claim": "Crypto.com agreed to buy $50M of TMTG stock in a partnership months after the SEC closed its investigation of Crypto.com with no action; $36M was spent on contributions to Trump-affiliated PACs (attribution unclear in transcript); the CFTC filed an amicus brief supporting Crypto.com in a prediction-markets lawsuit; Crypto.com's national trust bank charter application was provisionally approved.",
-  "origin": "video"
- },
- {
-  "id": "C23",
-  "slug": "sec-crypto-cases-dropped",
-  "lines": "139,651-655",
-  "title": "SEC drops crypto-exchange cases; donors",
-  "claim": "After Trump took office the SEC dropped, one by one, over a dozen enforcement actions against crypto companies including Coinbase, Kraken, Binance and Gemini; several of these firms gave $1M+ to Trump's campaign or inauguration fund, sponsored his military parade, or donated to the White House ballroom.",
-  "origin": "video"
- },
- {
-  "id": "C24",
-  "slug": "tmtg-etfs-tae-fusion",
-  "lines": "655-657",
-  "title": "TMTG ETFs, TAE fusion merger, TMTG losses",
-  "claim": "TMTG sells Truth Social-branded ETFs (American Security & Defense, American Next Frontiers, American Icons); TMTG announced a ~$6B all-stock merger with fusion company TAE Technologies, a sector dependent on regulation; TMTG stock is far down, with revenue of a few million dollars against ~$712M in losses.",
-  "origin": "video"
- },
- {
-  "id": "C25",
-  "slug": "prediction-markets-don-jr",
-  "lines": "659-735",
-  "title": "Prediction markets, CFTC and Don Jr.",
-  "claim": "TMTG announced 'Truth Predict', which flopped; prediction markets on sports depend on a legal theory backed by Trump's CFTC chairman Mike Selig; Don Jr. is a strategic adviser to Kalshi and on the advisory board of/an investor in Polymarket; Selig was asked in Congress whether the White House asked him to drop the CFTC probe into Polymarket; Trump posted that prediction markets are a major industry to protect; Don Jr. reportedly told Republican state attorneys general not to fight prediction markets (he says it was a passing comment).",
-  "origin": "video"
- },
- {
-  "id": "C26",
-  "slug": "1789-capital-vulcan",
-  "lines": "737-799",
-  "title": "1789 Capital and Vulcan Elements",
-  "claim": "Don Jr. is a partner at 1789 Capital, which has over $1B in assets and reported 200%+ returns; it invested in rare-earth magnet maker Vulcan Elements shortly before the company announced a ~$1B+ facility with US government backing; ProPublica reported the deal was the only one initiated by a top White House aide ('the call came from the White House'); 1789 says it is a passive minority investor and does not call the government.",
-  "origin": "video"
- },
- {
-  "id": "C27",
-  "slug": "new-america-spac",
-  "lines": "801-821",
-  "title": "New America Acquisition I Corp SPAC",
-  "claim": "New America Acquisition I Corp, a ~$300M SPAC with Don Jr. and Eric Trump as advisers who stand to make tens of millions, said in its SEC filing it would target companies positioned to benefit from federal or state incentives such as government contracts or preferential procurement; that language was removed later the same day.",
-  "origin": "video"
- },
- {
-  "id": "C28",
-  "slug": "foundation-robotics",
-  "lines": "827-857",
-  "title": "Foundation Future Industries robots and Eric Trump",
-  "claim": "Humanoid-robot startup Foundation Future Industries (CEO Sankaet Pathak) has a ~$24M Pentagon contract for its Phantom robot with the Marine Corps; Eric Trump is its chief strategy adviser; Wired reported the contracts predated his involvement even though Fox presented them as new.",
-  "origin": "video"
- },
- {
-  "id": "C29",
-  "slug": "family-wealth-disclosures",
-  "lines": "869-879",
-  "title": "Trump family wealth gains",
-  "claim": "Per financial disclosures, Trump made more from crypto than from any other business (about $1.4B, of ~$2.2B total), possibly his most profitable year ever; per Forbes, Eric Trump is ~10x richer since the election, Don Jr. ~6x richer, and Barron Trump is worth ~$150M; meanwhile most retail investors in Trump-linked ventures lost money.",
-  "origin": "video"
- },
- {
-  "id": "C30",
-  "slug": "framing-polls-bannon",
-  "lines": "23-99,141-175",
-  "title": "Framing: polls, supporters turning, Bannon, lawyer threat",
-  "claim": "Polls show public concern about government corruption at its highest level in 20 years; prominent former Trump supporters/campaigners now call this the most corrupt presidency in history; Steve Bannon described the 'flood the zone'/'muzzle velocity' media strategy; Coffeezilla says a lawyer threatened him before publication and that Don Jr., Eric, Melania and Donald Trump did not respond to requests for comment; the video features Molly White, Sam Kessler (WSJ) and Isaac Saul (Tangle).",
-  "origin": "video"
- },
- {
-  "id": "C31",
-  "slug": "gulf-real-estate-dar-global",
-  "lines": "",
-  "title": "Trump Organization Gulf real-estate deals (Dar Global)",
-  "claim": "The video briefly mentions 'a brand new hotel going up in Dubai or Abu Dhabi' and 'Middle Eastern golf deals'. Follow-up: since the 2024 election the Trump Organization has signed branded tower/hotel/golf licensing deals across the Gulf (Dubai, Saudi Arabia \u2014 Jeddah/Riyadh, Oman, Qatar, possibly others) largely via Saudi-linked developer Dar Global, despite a pledge of no new foreign deals in the first term; establish the list of deals, dates, values, fees to the Trumps, state-linked counterparties, and the ethics pledge for the second term.",
-  "origin": "follow-up",
-  "parents": [
-   "C16",
-   "C15"
-  ]
- },
- {
-  "id": "C32",
-  "slug": "don-jr-government-contractors",
-  "lines": "",
-  "title": "Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)",
-  "claim": "Follow-up to the 1789 Capital/Vulcan claim: Donald Trump Jr. holds advisory roles or stakes in other companies that won federal contracts or policy benefits after he joined \u2014 e.g. drone maker Unusual Machines (Army contract), and 1789 Capital portfolio companies such as Anduril, SpaceX/xAI, Firehawk, Cerebras, plus the Executive Branch private club. Establish which are documented, the timing of his involvement vs. contracts, amounts, and denials.",
-  "origin": "follow-up",
-  "parents": [
-   "C26",
-   "C27",
-   "C28"
-  ]
- },
- {
-  "id": "C33",
-  "slug": "settlements-ballroom-library-donors",
-  "lines": "",
-  "title": "Corporate settlements and donations to Trump's library and ballroom",
-  "claim": "Follow-up to the video's mention of crypto firms sponsoring the ballroom: companies with business before the government paid Trump personally-linked entities \u2014 lawsuit settlements from ABC/Disney ($15M), Meta ($25M), Paramount ($16M), X, YouTube/Alphabet ($24.5M) directed to his presidential library or the White House ballroom, and the list of corporate ballroom donors (incl. crypto firms Coinbase, Ripple, Tether, Gemini's Winklevoss twins) \u2014 alongside regulatory outcomes those companies obtained (e.g. Paramount\u2013Skydance FCC approval). Verify amounts, recipients, dates and any documented regulatory benefit.",
-  "origin": "follow-up",
-  "parents": [
-   "C23",
-   "C16"
-  ]
- },
- {
-  "id": "C34",
-  "slug": "david-sacks-conflicts",
-  "lines": "",
-  "title": "David Sacks: AI & crypto czar with investments",
-  "claim": "Follow-up to the UAE chips claim: White House AI and crypto czar David Sacks, who helped drive the UAE chip deals and crypto policy, kept financial interests in AI/crypto companies via Craft Ventures under ethics waivers; a New York Times investigation (late 2025) detailed hundreds of AI-related holdings; verify the holdings, waivers, his role in the UAE/G42 chip approvals and GENIUS Act, and his denials.",
-  "origin": "follow-up",
-  "parents": [
-   "C08",
-   "C11"
-  ]
- },
- {
-  "id": "C35",
-  "slug": "lutnick-cantor-tether",
-  "lines": "",
-  "title": "Howard Lutnick, Cantor Fitzgerald and Tether",
-  "claim": "Follow-up to the stablecoin/GENIUS Act and chips claims: Commerce Secretary Howard Lutnick's former firm Cantor Fitzgerald (now run by his sons) custodies Tether's reserves and held a stake in Tether, while the administration passed stablecoin legislation and Commerce controls AI-chip export licences; Cantor also launched crypto/bitcoin SPAC vehicles (e.g. Twenty One Capital with Tether and SoftBank). Verify stakes, timelines, divestment, and any documented policy benefit.",
-  "origin": "follow-up",
-  "parents": [
-   "C11",
-   "C08",
-   "C19"
-  ]
- },
- {
-  "id": "C36",
-  "slug": "crypto-pardons-and-clemency",
-  "lines": "",
-  "title": "Clemency for other crypto and donor-linked figures",
-  "claim": "Follow-up to the CZ pardon: Trump also granted clemency to other crypto or donor-linked figures \u2014 Ross Ulbricht (Silk Road), the BitMEX co-founders (Arthur Hayes et al.) and BitMEX itself, Nikola founder Trevor Milton (a donor), Roger Ver settlement/deferred prosecution, and reportedly others; plus the DOJ disbanding its crypto enforcement unit (NCET). Verify each, the dates, any donations or lobbying payments linked to them (e.g. lobbyists paid for the CZ pardon), and official justifications.",
-  "origin": "follow-up",
-  "parents": [
-   "C09",
-   "C23"
-  ]
- },
- {
-  "id": "C37",
-  "slug": "kushner-phone-hack",
-  "lines": "",
-  "title": "Jared Kushner's hacked phone",
-  "claim": "User-requested lead: reports that Jared Kushner's phone (or his accounts/communications) was hacked or compromised. Establish what is actually reported: when, by whom (state actor? spyware vendor? which country), what was accessed, how it was discovered and by which outlet/agency, and how it connects to his unofficial envoy role, his negotiations (Gaza, Iran, Russia-Ukraine), Affinity Partners and its Gulf investors (Saudi PIF, Qatar, UAE), and any earlier incidents (e.g. first-term WhatsApp use with MBS, security-clearance concerns, 2024-25 Iranian/Chinese hacks of Trump-circle phones). Distinguish confirmed reporting from rumour; if no credible report of a Kushner phone hack exists, say so plainly.",
-  "origin": "follow-up",
-  "parents": [
-   "C15"
-  ]
- },
- {
-  "id": "C38",
-  "slug": "polymarket-probes-dropped",
-  "lines": "",
-  "title": "Polymarket probes dropped before 1789 Capital invested; federal push for prediction markets",
-  "claim": "Lead from C25: the DOJ and CFTC reportedly closed their investigations of Polymarket in July 2025, about a month before Don Jr.'s 1789 Capital invested and he joined its advisory board; the White House (not only Don Jr.) reportedly lobbied state officials over prediction markets; Selig's CFTC sued states (AZ, CT, IL, NY, WI) to defend the industry; Sen. Curtis sought a Senate Judiciary probe. Verify dates, amounts, who decided, and denials.",
-  "origin": "follow-up",
-  "parents": [
-   "C25",
-   "C26"
-  ]
- },
- {
-  "id": "C39",
-  "slug": "dominari-trump-sons-smallcaps",
-  "lines": "",
-  "title": "Dominari Holdings and the Trump sons' small-cap network",
-  "claim": "Lead from C18/C27: Don Jr. and Eric Trump became advisers to and major shareholders of Dominari Holdings (a Trump Tower-based broker) whose stock soared; Dominari co-founded American Data Centers/American Bitcoin with them and co-underwrote their SPAC (its president Kyle Wool sits on the SPAC board); related small-cap deals include Thumzup, GrabAGun/Colombier II, Unusual Machines, and others where a Trump son's arrival preceded a share-price spike. Verify stakes, gains, timing, any SEC/FINRA scrutiny and denials.",
-  "origin": "follow-up",
-  "parents": [
-   "C18",
-   "C27"
-  ]
- },
- {
-  "id": "C40",
-  "slug": "memecoin-insiders-hayden-davis-meteora",
-  "lines": "",
-  "title": "Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)",
-  "claim": "Lead from C01/C02: a class action and on-chain reporting allege the $MELANIA launch (and the Argentine $LIBRA coin) were run by Hayden Davis/Kelsier Ventures with Meteora co-founder Benjamin Chow as a pump-and-dump, with insiders taking ~$10M+ while public figures were 'props'; who actually operated $TRUMP (Bill Zanker, Fight Fight Fight LLC, CIC Digital), early-wallet sniping profits, trading-fee revenue, and the status of the litigation and any regulatory action. Verify.",
-  "origin": "follow-up",
-  "parents": [
-   "C01",
-   "C02"
-  ]
- },
- {
-  "id": "C41",
-  "slug": "tmtg-followups-api-nunes-cro",
-  "lines": "",
-  "title": "Trump Media follow-ups: API customers, SEC complaint, Nunes, CRO treasury deal",
-  "claim": "Leads from C21/C22/C24: Bloomberg, Susquehanna and Jump Trading reportedly subscribe to the Truth API; Sens. Warren and Schiff asked the SEC to investigate and the SEC's response; Devin Nunes left TMTG (Apr 2026) and was named chair of the President's Intelligence Advisory Board; board members Lighthizer and Swider resigned; the $6.4B CRO-token treasury venture with Crypto.com/Yorkville and its reported termination; a planned Truth Social utility token; TAE's CEO lobbying DOE before the merger. Verify each.",
-  "origin": "follow-up",
-  "parents": [
-   "C21",
-   "C22",
-   "C24"
-  ]
- },
- {
-  "id": "C42",
-  "slug": "wlf-insider-extraction",
-  "lines": "",
-  "title": "How World Liberty insiders took money out",
-  "claim": "Leads from C04/C05/C13/C14/C29: DT Marks DEFI LLC's entitlement to 75% of WLF net token-sale/protocol revenue; Trump's disclosed WLF income; Steve Witkoff's ~$107M 2025 income from his WLF-linked holding company and the disputed divestment; WLF insiders reportedly borrowing stablecoins against ~5B WLFI tokens as the price hit lows; the freezing of Justin Sun's and other holders' tokens; the $SPSC memecoin promotion; WLFI token price history and retail losses; who owns StringZ Holding. Verify with figures and dates.",
-  "origin": "follow-up",
-  "parents": [
-   "C04",
-   "C05",
-   "C13",
-   "C14",
-   "C29"
-  ]
- },
- {
-  "id": "C43",
-  "slug": "enforcement-drops-donor-overlap",
-  "lines": "",
-  "title": "Systematic overlap between dropped enforcement and Trump donors",
-  "claim": "Leads from C23: the New York Times analysis finding the SEC eased ~60% of inherited crypto cases with several tied to Trump donors/business partners; Robinhood (inaugural donor) having its SEC crypto probe closed; Public Citizen's tracker of halted corporate enforcement actions against companies with Trump ties; Crypto.com's Trump-connected lobbyist; Gemini's MAGA Inc. donation. Establish the numbers, methodology, counter-arguments (policy shift applied to non-donors too) and official responses.",
-  "origin": "follow-up",
-  "parents": [
-   "C23",
-   "C22",
-   "C09"
-  ]
- },
- {
-  "id": "C44",
-  "slug": "melania-amazon-documentary",
-  "lines": "",
-  "title": "Melania Trump's Amazon documentary deal",
-  "claim": "Lead from C02/C29: Amazon reportedly paid ~$40M to license a Melania Trump documentary (she reportedly netted ~$10.7M+ in 2025), far above rival bids, while Amazon/Jeff Bezos had major business before the administration (antitrust case, federal cloud and Blue Origin/Kuiper contracts, tariffs); also Bezos's inauguration donation and Washington Post changes. Verify the amounts, the competing bids, timing versus government decisions, and denials.",
-  "origin": "follow-up",
-  "parents": [
-   "C02",
-   "C29"
-  ]
- },
- {
-  "id": "C45",
-  "slug": "kushner-albania-serbia-resorts",
-  "lines": "",
-  "title": "Kushner's Albania and Serbia developments",
-  "claim": "Leads from C30/C37: Jared Kushner's Affinity Partners is pursuing a luxury resort on Albania's Sazan island/Zvernec coast and a Belgrade (Serbia) development on the former army HQ site, both needing foreign-government approvals while he acts as a US envoy; Rep. Raskin's House Judiciary probe; criticism from right-wing figures such as Candace Owens; any Trump-branding. Verify deal terms, government concessions, status (the Belgrade project reportedly collapsed amid a forgery probe), and denials.",
-  "origin": "follow-up",
-  "parents": [
-   "C15",
-   "C37",
-   "C31"
-  ]
- },
- {
-  "id": "C46",
-  "slug": "kushner-alleged-gulf-accounts",
-  "lines": "",
-  "title": "The alleged Kushner Gulf accounts: Azerbaijan route, 'Beta' account, Gabbard complaint",
-  "claim": "Deeper follow-up to C37: Matthew Cole's book 'Princes and Thieves' (Vanity Fair excerpt, Oct 2026) alleges a ~$750M First Abu Dhabi Bank account with Kushner as signatory, money of Saudi/UAE origin routed via Azerbaijan, and a ~$1B transfer to an Israeli government ('Beta') account; separately a whistleblower complaint involving DNI Tulsi Gabbard concerns an NSA intercept of foreigners discussing Kushner; Kushner's lawyer threatened Cond\u00e9 Nast and Simon & Schuster. Establish exactly what each source alleges, corroboration or rebuttal by other outlets (Axios's Barak Ravid, Jerusalem Post retraction), official responses, and congressional follow-up. Treat as single-source allegations unless corroborated.",
-  "origin": "follow-up",
-  "parents": [
-   "C37",
-   "C15"
-  ]
- },
- {
-  "id": "C47",
-  "slug": "dominari-tron-tungsten-china-ipos",
-  "lines": "",
-  "title": "Dominari's other deals: Tron/SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs",
-  "claim": "Leads from C39: Dominari Securities arranged the SRM Entertainment \u2192 Tron Inc. reverse-merger treasury deal with Justin Sun (Eric Trump reportedly linked, he denies a role); launched American Ventures, a ~$1B microcap fund with Trump-son investors; was tied to the Skyline Builders / Cove Kaz Kazakhstan tungsten deal with up to $1.6B of US-government-linked financing; and faces a House China Select Committee inquiry into Chinese small-cap 'ramp-and-dump' IPOs it underwrote, plus FINRA's fine on Kyle Wool's former firm Revere. Verify each with dates, amounts, and denials.",
-  "origin": "follow-up",
-  "parents": [
-   "C39",
-   "C05",
-   "C27"
-  ]
- },
- {
-  "id": "C48",
-  "slug": "trump-library-foundation-money",
-  "lines": "",
-  "title": "Trump presidential library foundation: settlement money, Miami land, IRS status",
-  "claim": "Leads from C33/C16: roughly $60M+ of media/tech lawsuit settlement money earmarked for Trump's presidential library is alleged by Sens. Warren/Blumenthal and Rep. Stansbury to be unaccounted for after the first library fund was dissolved (Sept 2025); a successor foundation received Miami Dade College land worth $67M+ for $10; the foundation reportedly got fast-track IRS approval during the government shutdown; the Qatari 747 is slated to go to it. Verify the entities, officers (Eric Trump, Michael Boulos, James Kiley?), the money trail, lawsuits over the land, and responses.",
-  "origin": "follow-up",
-  "parents": [
-   "C33",
-   "C16"
-  ]
- },
- {
-  "id": "C49",
-  "slug": "pardon-lobbying-industry",
-  "lines": "",
-  "title": "The pardon-lobbying market and post-pardon SEC dismissals",
-  "claim": "Leads from C36: a paid pardon-lobbying industry around Trump's second term \u2014 lobbyists and allies (Roger Stone, Ches McDowell/Checkmate, Teresa Goody Guill\u00e9n, others) reportedly charging large fees to seek clemency; reported asking prices of $1M+; pardons of donors or their relatives (Paul Walczak, Trevor Milton, Changpeng Zhao, Carlos Watson commutation, others); the SEC dropping civil cases after criminal pardons; the firing of pardon attorney Liz Oyer and Ed Martin's role as pardon attorney; total restitution wiped out (House Judiciary Democrats' estimate ~$1.3B+). Verify figures, named cases, and official justifications.",
-  "origin": "follow-up",
-  "parents": [
-   "C36",
-   "C09"
-  ]
- },
- {
-  "id": "C50",
-  "slug": "lutnick-chips-tether-iran",
-  "lines": "",
-  "title": "Lutnick follow-ups: Nvidia chip curbs, Tether and Iran, crypto council",
-  "claim": "Leads from C35: Axios (Nov 2026) reports Commerce Secretary Lutnick stalled curbs on Nvidia-chip diversion to China; Sen. Blumenthal is probing Tether's alleged role in Iranian shadow banking and the Tether loan to the Lutnick children's trust; Lutnick's possible seat on the White House crypto council; Cantor's ~$2B bitcoin-lending programme with Tether; Lutnick's sons' Cantor deals that depend on Commerce/tariff policy (e.g. tariff-refund claims trading). Verify each and note denials.",
-  "origin": "follow-up",
-  "parents": [
-   "C35",
-   "C08"
-  ]
- },
- {
-  "id": "C51",
-  "slug": "trump-sons-drone-ventures",
-  "lines": "",
-  "title": "Trump sons' drone ventures and the Pentagon's Drone Dominance programme",
-  "claim": "Leads from C28/C32: the PowerUS / Aureus Greenway drone merger backed by Eric and Don Jr.; the Pentagon reportedly negotiating an equity stake in Don Jr.-advised Unusual Machines under the $1.1B Drone Dominance programme; Unusual Machines' Draganfly investment; Trump executive orders on drones and restrictions on Chinese DJI that benefit domestic makers; Warren and Garcia letters to the Pentagon Inspector General; Senate Democrats' tally of $70M+ federal contracts to 1789 portfolio companies. Verify timing, amounts, policy benefits and denials.",
-  "origin": "follow-up",
-  "parents": [
-   "C32",
-   "C28",
-   "C26"
-  ]
- },
- {
-  "id": "C52",
-  "slug": "crypto-lobbyists-sec-director",
-  "lines": "",
-  "title": "Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit",
-  "claim": "Leads from C43/C22: crypto firms with matters before regulators hired Trump-connected lobbying firms \u2014 Miller Strategies (Jeff Miller; Crypto.com, Gemini), Ballard Partners (Kraken, Blockchain.com), others (Binance's hires) \u2014 with fees and outcomes; the Winklevoss twins' $10M+ bitcoin gift to MAGA Inc. shortly after the CFTC joined Gemini's bid to vacate its judgment; the sudden resignation of the SEC enforcement director in March 2026 and Sen. Blumenthal's inquiry into whether crypto cases were involved; crypto super PAC Fairshake's spending. Verify amounts, dates, and responses.",
-  "origin": "follow-up",
-  "parents": [
-   "C43",
-   "C23",
-   "C22"
-  ]
- },
- {
-  "id": "C53",
-  "slug": "witkoff-family-gulf-money",
-  "lines": "",
-  "title": "The Witkoff family's own Gulf money",
-  "claim": "Leads from C14/C42: beyond World Liberty, the Witkoff family has Gulf financial ties while Steve Witkoff is special envoy \u2014 Qatar's sovereign fund bought the Witkoff Group's Park Lane hotel stake (2023); Alex/Zach Witkoff reportedly sought billions from Qatar, UAE and Kuwait funds for real-estate vehicles in 2025; Steve Witkoff's reported ~$120M sale of a stake in his firm with no buyer named; his ethics agreement, disclosures and the timing versus Gaza/Qatar/Iran/Russia negotiations (incl. the Qatar jet and Doha strike aftermath). Verify amounts, dates, counterparties and denials.",
-  "origin": "follow-up",
-  "parents": [
-   "C14",
-   "C42",
-   "C16"
-  ]
- },
- {
-  "id": "C54",
-  "slug": "crypto-revolving-door",
-  "lines": "",
-  "title": "The crypto revolving door: officials who moved to firms they shaped policy for",
-  "claim": "Leads from C35/C25/C12: administration crypto officials moving to industry (and vice versa) \u2014 Bo Hines (White House crypto council director \u2192 CEO of Tether's US arm/USAT), Brian Quintenz (Kalshi board; withdrawn CFTC nomination), Mike Selig's and Paul Atkins's prior crypto clients, Jonathan Gould (OCC; ex-Bitfury), David Sacks, SEC/CFTC staff departures to Coinbase, a16z, etc.; plus Trump family business partners placed in government roles. Verify each move with dates, cooling-off/ethics-waiver facts and responses.",
-  "origin": "follow-up",
-  "parents": [
-   "C35",
-   "C25",
-   "C12",
-   "C34"
-  ]
- },
- {
-  "id": "C55",
-  "slug": "family-take-estimates",
-  "lines": "",
-  "title": "How much has the Trump family made? Competing totals",
-  "claim": "Leads from C29/C30/C31: estimates of the family's second-term take differ widely \u2014 the New Yorker's David Kirkpatrick (~$3.4B cash), Forbes, Bloomberg, Reuters/NYT disclosure tallies ($1.4B crypto / $2.2B income), CREW's foreign-revenue count and 24 foreign projects, Fight Fight Fight's proposed $200M\u2013$1B $TRUMP treasury, and where the gains went (reinvested in stocks/bonds). Establish each estimate's methodology, date, what it includes (cash vs paper), and reconcile them; note the family's own responses.",
-  "origin": "follow-up",
-  "parents": [
-   "C29",
-   "C01",
-   "C31"
-  ]
- },
- {
-  "id": "C56",
-  "slug": "saudi-deals-and-policy",
-  "lines": "",
-  "title": "Saudi Arabia: family deals alongside US policy",
-  "claim": "Leads from C31/C15: Trump-family business with Saudi-linked parties (Dar Global towers, Diriyah, LIV Golf events at Trump courses funded by PIF, Kushner's PIF money, PIF's stake in EA buyout with Affinity) proceeded alongside major US\u2013Saudi government decisions \u2014 MBS's Nov 2025 White House visit, F-35 sale approval, civil-nuclear deal talks, AI-chip sales to Humain, major-non-NATO-ally status, Trump's remarks on Khashoggi. Build the dated timeline of business deals vs policy actions, with amounts, and record denials and what, if anything, links them.",
-  "origin": "follow-up",
-  "parents": [
-   "C31",
-   "C15",
-   "C08"
-  ]
- },
- {
-  "id": "C57",
-  "slug": "uae-g42-mgx-web",
-  "lines": "",
-  "title": "The UAE network: Tahnoon, G42, MGX and their US deals",
-  "claim": "Leads from C06/C08/C34: map Sheikh Tahnoon's entities and their US-linked deals \u2014 Aryam's 49% of World Liberty (board seats for G42's Peng Xiao and lawyer Martin Edelman), MGX (Binance $2B in USD1; Stargate; a stake in the TikTok US joint venture approved by Trump; OpenAI/xAI/Anthropic investments), G42 (chip licences, Microsoft, Stargate UAE campus), a G42 crypto executive reportedly advising WLF, StringZ Holding in WLF's trust bank, ADQ/Lunate in Kushner's Affinity. Verify each link, date and amount; note which US approvals each needed and all denials.",
-  "origin": "follow-up",
-  "parents": [
-   "C06",
-   "C07",
-   "C08",
-   "C12",
-   "C15"
-  ]
- },
- {
-  "id": "C58",
-  "slug": "market-moving-posts-insider-trading",
-  "lines": "",
-  "title": "Market-moving posts and insider-trading allegations",
-  "claim": "Leads from C20/C21/C30/C41: allegations that people traded ahead of Trump's market-moving statements \u2014 the 9 April 2025 'THIS IS A GREAT TIME TO BUY' post hours before the tariff pause (options activity, Democrats' requests to the SEC, Trump boasting about friends' gains), well-timed trades before other tariff/Iran/Intel/Fed announcements, prediction-market bets ahead of policy news (e.g. Polymarket/Kalshi wagers before military or pardon announcements), the Intercept/Freedom of the Press Foundation suit over Truth Social-exclusive announcements, Rogan's 'insider trading' remark. Verify what is documented, any investigations, and official responses.",
-  "origin": "follow-up",
-  "parents": [
-   "C20",
-   "C21",
-   "C41",
-   "C25"
-  ]
- },
- {
-  "id": "C59",
-  "slug": "foreign-deals-and-tariffs",
-  "lines": "",
-  "title": "Foreign Trump Organization deals timed with tariff negotiations",
-  "claim": "Leads from C31: outside the Gulf, Trump Organization projects advanced in countries negotiating tariffs or other favours with the administration \u2014 Vietnam ($1.5B Hung Yen golf project fast-tracked; Ho Chi Minh tower), Indonesia (MNC/Hary Tanoe resorts), India (multiple licensed towers), Serbia, Georgia, Maldives, Romania, etc. CREW counts ~24 foreign projects. Build the list with dates, counterparties (state-linked?), fees, and the corresponding tariff/policy outcomes; record denials and the second-term ethics pledge's limits.",
-  "origin": "follow-up",
-  "parents": [
-   "C31",
-   "C45"
-  ]
- },
- {
-  "id": "C60",
-  "slug": "critical-minerals-equity-stakes",
-  "lines": "",
-  "title": "Government equity stakes and critical-minerals deals: who was positioned to profit",
-  "claim": "Leads from C26/C47/C50: the administration took equity stakes or gave loans/price floors to companies (MP Materials, Lithium Americas, Trilogy Metals, Vulcan Elements, Intel, USA Rare Earth, others); reporting (e.g. NYT/FT/Bloomberg) says Trump-family or Lutnick-family-linked firms (1789 Capital, Cantor Fitzgerald as banker/investor, Dominari/American Ventures via Skyline\u2013Cove Kaz tungsten) held positions in or advised around a dozen-plus critical-minerals firms that received federal backing. Verify each named instance, timing of investment vs government action, gains, and denials.",
-  "origin": "follow-up",
-  "parents": [
-   "C26",
-   "C47",
-   "C50",
-   "C51"
-  ]
- },
- {
-  "id": "C61",
-  "slug": "shared-lawyers-and-law-firms",
-  "lines": "",
-  "title": "Shared lawyers and law firms across the deals",
-  "claim": "Connection hunt: lawyers and law firms that recur across Trump-family ventures, their counterparties and the government \u2014 e.g. Teresa Goody Guill\u00e9n/BakerHostetler (World Liberty and the Binance/CZ pardon effort), Paul Hastings (SPAC filing), Alejandro Brito (settlement escrow), Jacob Roth and James Kiley (library entities), Chad Mizelle (Kushner; ex-DOJ chief of staff), Martin Edelman (G42/WLF board; adviser to UAE royals), Clare Locke, Sullivan & Cromwell, Todd Blanche's and Pam Bondi's former clients, ethics counsel who signed waivers (David Warrington). Find every overlap and prior tie.",
-  "origin": "connection-hunt",
-  "parents": []
- },
- {
-  "id": "C62",
-  "slug": "financiers-custodians-underwriters",
-  "lines": "",
-  "title": "The financiers, custodians and underwriters behind the vehicles",
-  "claim": "Connection hunt: financial intermediaries that recur across Trump-linked vehicles and also have matters before Trump-appointed regulators \u2014 Yorkville Advisors/Yorkville America (TMTG ETFs, CRO SPAC, TMTG financing), Dominari, Cantor Fitzgerald, Anchorage Digital, BitGo (USD1 custody; Craft stake; OCC charter), Jane Street, DRW/Cumberland, Jump, Galaxy, Kraken, Crypto.com, DWF Labs, Web3Port, Hut 8, Tuttle Capital, Clear Street, plus who received OCC charters, SEC dismissals or CFTC relief in the same period. Map who financed what and which regulator decisions each obtained.",
-  "origin": "connection-hunt",
-  "parents": []
- },
- {
-  "id": "C63",
-  "slug": "shell-entities-ownership-chains",
-  "lines": "",
-  "title": "Shell entities and ownership chains",
-  "claim": "Connection hunt: the LLCs, trusts and offshore vehicles in this story and who sits behind them \u2014 CIC Digital, CIC Ventures, Fight Fight Fight, Celebration Cards, DT Marks DEFI, DT Marks entities generally, WLTC Holdings, StringZ Holding RSC, Aryam Investment 1, MKT World, Designers Manager, Dynasty Trust A, Atlantic Incubation Partners, Axiom Management, American Ventures SPVs, the Donald J. Trump Revocable Trust (trustees), Trump Media Group CRO Strategy, T1/Trump Mobile licensees. Trace registered agents, officers, addresses, formation dates relative to deals, and any overlaps between them.",
-  "origin": "connection-hunt",
-  "parents": []
- },
- {
-  "id": "C64",
-  "slug": "lobbyists-and-fixers-network",
-  "lines": "",
-  "title": "Lobbyists and fixers: who gets paid to reach the White House",
-  "claim": "Connection hunt: the lobbying and access layer \u2014 Ballard Partners (Brian Ballard; former employer of AG Pam Bondi and chief of staff Susie Wiles; clients incl. Qatar, crypto firms, foreign governments), Mercury, Miller Strategies, Checkmate/Ches McDowell, Continental Strategy (Carlos Trujillo), Roger Stone, Keith Schiller, Corey Lewandowski, Jason Miller/Kash Patel's former foreign clients, Arthur Schwartz. Find which clients in this project hired them, fees, the dates versus outcomes, and officials' prior client relationships with beneficiaries (e.g. Bondi's Qatar work before the jet memo).",
-  "origin": "connection-hunt",
-  "parents": []
- },
- {
-  "id": "C65",
-  "slug": "officials-prior-ties-to-beneficiaries",
-  "lines": "",
-  "title": "Officials who decided matters involving their former clients or partners",
-  "claim": "Connection hunt: administration officials whose decisions benefited entities they previously worked for, invested in or were paid by \u2014 Pam Bondi (Ballard/Qatar; legal memo on the jet), Todd Blanche (NCET memo; crypto holdings disclosed), Paul Atkins (Patomak crypto clients; holdings), Mike Selig, Jonathan Gould, Brian Quintenz, Howard Lutnick, David Sacks, Scott Bessent, Kash Patel, Pete Hegseth's office and Office of Strategic Capital leadership, Peter Navarro (Vulcan), Michael Kratsios, Steve Witkoff, Charles Kushner (ambassador to France), Massad Boulos (Africa adviser), Tom Barrack (ambassador to Turkey/Syria envoy; Gulf investor ties). Establish holdings/recusals/waivers and specific decisions.",
-  "origin": "connection-hunt",
-  "parents": []
- },
- {
-  "id": "C66",
-  "slug": "extended-family-ventures",
-  "lines": "",
-  "title": "The extended family: Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka",
-  "claim": "Connection hunt beyond Don Jr., Eric, Melania and Jared: Massad Boulos (Tiffany's father-in-law; senior Africa/Arab adviser) and Michael Boulos's business activity incl. minerals/Congo deals and library trustee role; Charles Kushner (pardoned; ambassador) and Kushner Companies' foreign financing; Josh Kushner/Thrive Capital's stakes (OpenAI, Stargate beneficiaries, Kalshi/Polymarket?); Lara Trump (Fox show, ventures); Barron Trump's WLF stake and reported ventures; Ivanka; Kai Trump endorsements; in-laws given roles. Establish each person's ventures that depend on government decisions.",
-  "origin": "connection-hunt",
-  "parents": []
- },
- {
-  "id": "C67",
-  "slug": "multi-vehicle-investors",
-  "lines": "",
-  "title": "Investors who show up in several Trump-family vehicles",
-  "claim": "Connection hunt: parties that put money into more than one Trump-family venture or bought several products \u2014 Justin Sun (WLF, top $TRUMP holder/dinner, Tron via Dominari), DWF Labs, Web3Port, Oddiyana, Aqua 1 (UAE fund that bought $100M WLFI), MGX/Aryam, Hut 8, Crypto.com, Jump, Kraken, GD Culture Group and other foreign/Chinese-linked $TRUMP treasury buyers, Bill Zanker, Gulf developers, 1789 LPs, attendees of the $TRUMP dinner who had regulatory matters. Identify every repeat investor, their nationality/state links, amounts, and any US government decision affecting them afterwards.",
-  "origin": "connection-hunt",
-  "parents": []
- },
- {
-  "id": "C68",
-  "slug": "ellison-musk-tech-nexus",
-  "lines": "",
-  "title": "The tech-billionaire nexus: Ellison, Musk, Altman, Zuckerberg, Bezos",
-  "claim": "Connection hunt: tech principals who are simultaneously counterparties of the Trump family and beneficiaries of administration decisions \u2014 Larry/David Ellison (Oracle in Stargate and the TikTok US joint venture alongside MGX; Skydance\u2013Paramount approval after the settlement; Warner bid), Elon Musk (xAI/SpaceX in 1789's portfolio; DOGE; contracts), Sam Altman/OpenAI (Stargate; MGX; Thrive/Josh Kushner), Zuckerberg/Meta (settlement), Bezos/Amazon (documentary), Nvidia/Jensen Huang (chips to UAE/Saudi/China; ballroom?), Andreessen Horowitz, Peter Thiel/Palantir (Trump's PLTR trades; contracts), Microsoft. Map each money flow to the family and each government decision, with dates.",
-  "origin": "connection-hunt",
-  "parents": []
- },
- {
-  "id": "C69",
-  "slug": "master-timeline-proximity",
-  "lines": "",
-  "title": "Master timeline: money events versus government actions",
-  "claim": "Connection hunt by data analysis: from every `data/claims/*.json` (relationships with dates, sub-claim findings) and research report, build one dated master timeline of (a) money or benefits flowing to Trump-family-linked entities and (b) official acts (dismissals, pardons, approvals, licences, contracts, appointments, executive orders, sales). Write it to the report as a table, then identify pairs involving the same counterparty within 45 days of each other that the individual reports did not connect, verify the dates of the 15 closest pairs with fresh searches, and present them graded as `inferred` timing proximity unless a source asserts a link. Also list proximities that look suspicious but have an innocent documented explanation.",
-  "origin": "connection-hunt",
-  "parents": []
- },
- {
-  "id": "C70",
-  "slug": "foreign-intermediaries-us-benefits",
-  "lines": "",
-  "title": "Foreign intermediaries: what each partner got from Washington",
-  "claim": "Connection hunt: the foreign business partners of the Trump family and what their countries or companies obtained from the US government in the same period \u2014 Hussain Sajwani/Damac ($20B data-centre pledge; Trump licence fees), Dar Global/Dar Al Arkan (Saudi), Qatari Diar/QIA, Hary Tanoesoedibjo/MNC (Indonesia tariff deal), Kinh Bac/Vietnam (tariffs), Indian licensees (Tribeca/Mehta), Aryam/MGX/G42 (chips), Binance/CZ (pardon), Bilt? Serbian and Albanian governments, Pakistan (WLF deal with Pakistan Crypto Council; tariff/treatment; Powerus order), El Salvador, Azerbaijan, Kazakhstan (tungsten), Japan's Metaplanet/SoftBank. For each: the deal with the family, date, value, and the US decision, with denials.",
-  "origin": "connection-hunt",
-  "parents": []
- },
- {
-  "id": "C71",
-  "slug": "wlfi-foreign-buyers-zhou-web3port",
-  "lines": "",
-  "title": "Who actually bought World Liberty tokens: Zhou, Web3Port, Aqua 1 and foreign wallets",
-  "claim": "Second-layer hunt from C67/C42: the NYT reported that Web3Port and 'UAE fund' Aqua 1 ($100M WLFI purchase) trace to Chinese businessman Guren 'Bobby' Zhou (arrested in the UK in 2021 on suspicion of money laundering; uncharged); Web3Port's role in the MOVE token dump and WLF's own MOVE purchases; Reuters' finding that 36 of the 50 largest WLFI wallets are likely foreign-controlled (~$804M); DWF Labs; who funded the purchases; whether any US agency (CFIUS, Treasury, SEC) reviewed them; how much flowed to Trump-family entities per purchase.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C67",
-   "C42",
-   "C04"
-  ]
- },
- {
-  "id": "C72",
-  "slug": "pakistan-wlf-lobbyists-minerals",
-  "lines": "",
-  "title": "Pakistan: World Liberty deal, Trump-tied lobbyists, minerals and tariffs",
-  "claim": "Second-layer hunt from C64/C70: in April-May 2025 Pakistan hired Trump-tied lobbyists (Javelin Advisors/Keith Schiller and George Sorial, Seiden Law, Checkmate) as WLF's founders signed a letter of intent with the Pakistan Crypto Council (26 Apr 2025; its CEO Bilal bin Saqib became a WLF adviser) days after the Pahalgam attack; then the India-Pakistan ceasefire, Field Marshal Munir's White House lunch (18 Jun 2025), a US-Pakistan trade/oil deal and 19% tariff, minerals deals (USSM), a Jan 2026 USD1 payments agreement, and a reported Powerus drone order. Build the dated chain, name every intermediary, and grade each link.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C64",
-   "C67",
-   "C51"
-  ]
- },
- {
-  "id": "C73",
-  "slug": "qatar-access-network",
-  "lines": "",
-  "title": "Qatar's access network inside and around the administration",
-  "claim": "Second-layer hunt from C61/C64/C65/C53/C16: map every documented Qatari financial or client tie to people now in or around the administration \u2014 Pam Bondi (Ballard FARA work), Kash Patel (embassy consulting), Bernard Kerik (hired Apr 2025), Susie Wiles (Mercury), Steve Witkoff (Park Lane sale to QIA; Apollo-run trust partly owned by Qatar putting $100M into Witkoff Group in 2025), Jared Kushner (QIA in Affinity; 666 Fifth history), Tom Barrack (Qatar's UCC in the pipeline consortium), Trump Organization (Qatari Diar golf), Newsmax/other media investments \u2014 against US decisions benefiting Qatar (jet acceptance, security guarantee executive order of Oct 2025, arms sales, Al Udeid, air-force facility in Idaho). Dated, graded.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C16",
-   "C53",
-   "C61",
-   "C64",
-   "C65"
-  ]
- },
- {
-  "id": "C74",
-  "slug": "pentagon-cerberus-investment-offices",
-  "lines": "",
-  "title": "Pentagon investment offices: Cerberus alumni, no-bid contracts and the Trump sons' SPAC underwriter",
-  "claim": "Second-layer hunt from C65/C51/C26: Deputy Secretary Stephen Feinberg (Cerberus co-founder) and ex-Cerberus officials running the Office of Strategic Capital (David Lorch) and related offices (George Kollitides); Alvarez & Marsal's no-bid contracts (up to ~$350M); Cerberus-linked firms winning Golden Dome work; Kollitides' board seat at D. Boral Acquisition I, whose affiliate co-underwrote the Trump sons' New America SPAC; OSC loans to Vulcan (1789), Neros, PDW and talks with Unusual Machines (Don Jr.). Verify each role, date and contract and whether any recusal exists.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C65",
-   "C51",
-   "C26",
-   "C47"
-  ]
- },
- {
-  "id": "C75",
-  "slug": "congo-minerals-boulos-beach",
-  "lines": "",
-  "title": "Congo minerals diplomacy: Boulos, Gentry Beach and the firms that benefited",
-  "claim": "Second-layer hunt from C66/C65/C60: Massad Boulos led US minerals-for-security talks with DRC and Rwanda (peace accord June/Dec 2025); Gentry Beach (Don Jr. friend and fundraiser; America First Global) reportedly sought DRC mining assets (e.g. Rubaya coltan, Chemaf) and Pakistan/other deals; Reuters reported a US firm in a key Congo minerals deal overstated its mining experience; Nigeria's UBA financing; KoBold, Orion, Erik Prince's security deal with DRC. Identify who got or sought which asset, their ties to the Trump family, dates, and denials.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C66",
-   "C65",
-   "C60"
-  ]
- },
- {
-  "id": "C76",
-  "slug": "russia-linked-ties",
-  "lines": "",
-  "title": "Russia-linked money around the family and envoys",
-  "claim": "Second-layer hunt from C53/C66/C37: reported Russia-linked ties \u2014 Steve Witkoff's undisclosed real-estate tie to Len Blavatnik during Russia talks; a Russian oligarch reportedly funding Don Jr.'s wedding parties; Kirill Dmitriev (RDIF) dealings with Witkoff and Kushner and proposed US-Russia business deals in the peace plan (WSJ 'make money not war' reporting); Kimberly Guilfoyle (ambassador to Greece) pay-to-play allegation; any Trump Organization or WLF buyers from Russia. Treat single-source reports as such; record denials.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C53",
-   "C66",
-   "C37",
-   "C15"
-  ]
- },
- {
-  "id": "C77",
-  "slug": "greenland-seabed-rare-earth-stakes",
-  "lines": "",
-  "title": "Greenland, the seabed and rare earths: Cantor-linked firms before Lutnick's department",
-  "claim": "Second-layer hunt from C60/C50: Critical Metals' Tanbreez project in Greenland (Cantor stake; US government stake talks; Trump's Greenland push); The Metals Company's NOAA deep-sea mining permits under Lutnick's Commerce (Cantor as banker; recusal?); USA Rare Earth's Cantor-placed $1.5B PIPE the day of a $1.6B Commerce letter of intent and which Trump allies got shares; Perpetua's EXIM loan. Verify stakes, dates, recusals and gains.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C60",
-   "C50",
-   "C35"
-  ]
- },
- {
-  "id": "C78",
-  "slug": "spac-web-mcgurn-clear-street",
-  "lines": "",
-  "title": "The SPAC web: McGurn, Yorkville, Texas Ventures, Clear Street",
-  "claim": "Second-layer hunt from C62/C27/C41: Kevin McGurn runs several blank-cheque vehicles tied to the Trump family (Yorkville Acquisition, New America Acquisition I, reportedly Texas Ventures Acquisition III with Trump Organization and TMTG directors) while interim CEO of TMTG; Clear Street's role across crypto-treasury deals and its IPO; D. Boral, Dominari and Yorkville as recurring sponsors/underwriters; founder-share economics for the Trump sons; SEC review status of each vehicle and of the Truth Social crypto ETFs. Map every vehicle, its insiders, money raised and target.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C62",
-   "C27",
-   "C41",
-   "C39"
-  ]
- },
- {
-  "id": "C79",
-  "slug": "georgia-korea-maldives-foreign-layers",
-  "lines": "",
-  "title": "Lesser-known foreign layers: Tbilisi, South Korea, Maldives tokens, Vietnam trademarks",
-  "claim": "Second-layer hunt from C59: Trump Tower Tbilisi on land reportedly sold by a fund linked to sanctioned oligarch Bidzina Ivanishvili's family (and US Georgia policy since); a reported ~$2M payment to Trump from a South Korean firm facing a US trade investigation (unverified aggregator lead \u2014 confirm or discard); Dar Global's tokenised Maldives Trump resort marketed to US retail investors and discussed with the SEC; Trump trademark filings in Vietnam after the tariff deal; displaced Vietnamese farmers at Hung Yen. Verify each, date it, and note the corresponding US decision if any.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C59",
-   "C31"
-  ]
- },
- {
-  "id": "C80",
-  "slug": "pif-golf-ea-data-centres",
-  "lines": "",
-  "title": "Sovereign-fund megadeals needing US sign-off: PGA\u2013PIF, EA, Aligned, G42",
-  "claim": "Second-layer hunt from C56/C57: Trump's personal role in brokering PGA Tour\u2013PIF talks at the White House while LIV plays Trump courses; the identity of LIV's new lead investor; CFIUS handling of the $55B EA buyout (PIF, Silver Lake, Kushner's Affinity); MGX's part in the $40B Aligned Data Centers takeover (with BlackRock/GIP, Nvidia, Microsoft); G42's reported reincorporation as a US company and the UAE's 2026 export-control upgrade; Lunate taking over G42's China fund. Verify what approvals were needed, who decided, and outcomes.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C56",
-   "C57",
-   "C15"
-  ]
- },
- {
-  "id": "C81",
-  "slug": "gsa-thrive-databricks",
-  "lines": "",
-  "title": "A federal procurement chief, Thrive Capital and sole-source awards",
-  "claim": "Second-layer hunt from C66: GSA Federal Acquisition Service commissioner Josh Gruenbaum (ex-KKR) reportedly invested in a Josh Kushner Thrive Capital fund while courting Thrive-backed Ramp for the ~$700B SmartPay programme and awarding Thrive-backed Databricks a sole-source contract (WSJ); OneGov deals with OpenAI, Anthropic and others in which Thrive holds stakes; ProPublica and Rep. Connolly's probe. Verify holdings, awards, dates, amounts and denials; note any family link beyond Josh Kushner.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C66",
-   "C68"
-  ]
- },
- {
-  "id": "C82",
-  "slug": "abu-dhabi-entities-stringz-delaware",
-  "lines": "",
-  "title": "Abu Dhabi layers: unannounced Trump licensing entities, StringZ and the Delaware referral",
-  "claim": "Second-layer hunt from C63/C57: Delaware 'DT Marks Abu Dhabi' / 'Al Raha Beach' entities formed for an unannounced Trump Organization project in Abu Dhabi; whether StringZ Holding RSC appears on the ADGM register and shares officers or addresses with Aryam Investment 1; Rep. Khanna's referral to the Delaware US Attorney about the Emirati WLF investor; Warren/Kim's CFIUS request and its outcome; Eric Trump's statements about Abu Dhabi. Establish formation dates relative to the Aryam (Jan 2025) and StringZ deals and grade each link.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C63",
-   "C57",
-   "C06",
-   "C12"
-  ]
- },
- {
-  "id": "C83",
-  "slug": "schiller-sorial-ventures",
-  "lines": "",
-  "title": "Keith Schiller and George Sorial: the ex-bodyguard and ex-executive across deals",
-  "claim": "Third-layer hunt: Trump's former bodyguard Keith Schiller and former Trump Organization EVP George Sorial recur in separate claims \u2014 Javelin Advisors (Pakistan minerals lobbying; $1M from Fred Daibes for a failed pardon bid), GreenMet (Tanbreez, Greenland), and possibly others. Map every client, fee, FARA/LDA filing, company stake and official meeting since Nov 2024, their White House access, and which US decisions touched their clients. Grade every link.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C64",
-   "C72",
-   "C77",
-   "C49"
-  ]
- },
- {
-  "id": "C84",
-  "slug": "heritage-advisors-sultan-bin-jassim",
-  "lines": "",
-  "title": "Heritage Advisors and Sheikh Sultan bin Jassim: one Qatari fund across three stories",
-  "claim": "Third-layer hunt: Heritage Advisors (London; Sheikh Sultan bin Jassim Al Thani) paid consulting income to Lee Zeldin, invested ~$50M in Newsmax, and was the Qatari investor in the Menendez\u2013Daibes case; Daibes later paid Javelin Advisors $1M for a pardon bid. Establish the fund's other US investments and relationships, Newsmax's dealings with the administration (FCC, defamation settlements, IPO), Zeldin's disclosures and any EPA matters involving Qatari interests, and whether any source connects these threads.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C73",
-   "C64"
-  ]
- },
- {
-  "id": "C85",
-  "slug": "yorkville-spac-vehicles",
-  "lines": "",
-  "title": "Yorkville's blank-cheque vehicles: Venezuela, Blue Water III and PlusAI",
-  "claim": "Third-layer hunt from C78: Yorkville International Capital (Latin America/Venezuela focus; Wyden inquiry on sanctions licences) against the administration's Venezuela policy and oil licences since the Maduro raid; Blue Water Acquisition Corp III (previously bid ~$10B for Citgo's parent; now staffed with TMTG people) and the Citgo auction outcome; Texas Ventures Acquisition III's merger with PlusAI (self-driving trucks; federal AV rules; Trump Organization executives on the board); who holds founder shares in each and what they are worth. Verify and grade.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C78",
-   "C62"
-  ]
- },
- {
-  "id": "C86",
-  "slug": "paulson-and-donor-holdings-federal-backing",
-  "lines": "",
-  "title": "Trump mega-donors holding stakes in companies that received federal backing",
-  "claim": "Third-layer hunt from C77: John Paulson (Perpetua Resources EXIM loan; Trilogy Metals gain when the US took a stake), and other major Trump donors/fundraisers whose portfolio companies got federal equity stakes, loans or price floors in 2025-26 (e.g. Schwarzman, Griffin and Cohen in the USA Rare Earth placement per senators; Todd Boehly; Howard Lutnick's circle; Harold Hamm; Kelcy Warren; Jeff Yass/TikTok). For each: donation amounts and dates, holding and when acquired, the federal action, paper or realised gain, and denials.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C77",
-   "C60"
-  ]
- },
- {
-  "id": "C87",
-  "slug": "silver-lake-recurring-coinvestor",
-  "lines": "",
-  "title": "Silver Lake: the co-investor on both the Saudi-Kushner and Abu Dhabi sides",
-  "claim": "Third-layer hunt from C68/C80: Silver Lake is a partner in the EA buyout (with PIF and Kushner's Affinity), the TikTok US joint venture (with Oracle and MGX), and has ties to G42 and Mubadala. Map Silver Lake's deals that needed US government approval in 2025-26, its principals' political donations and administration ties (Egon Durban), its relationship with Affinity, Mubadala's stake in Silver Lake, and any reporting that connects these. Grade every link.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C68",
-   "C80",
-   "C57"
-  ]
- },
- {
-  "id": "C88",
-  "slug": "damac-sajwani-abu-dhabi-projects",
-  "lines": "",
-  "title": "Damac and Hussain Sajwani: fees for unannounced projects and the data-centre pledge",
-  "claim": "Third-layer hunt from C70/C82: Damac's $10M+ of 2025 licence fees for unannounced Trump Organization projects in Abu Dhabi; Sajwani's $20B US data-centre pledge announced with Trump on 7 Jan 2025 and what has actually been built (Edgnex), federal permitting or energy decisions benefiting those sites, the long Trump\u2013Sajwani relationship (Dubai golf, New Year's Eve at Mar-a-Lago), other Sajwani family dealings with Trump-linked ventures (crypto, WLF, $TRUMP), and Damac's statements. Verify, date and grade.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C70",
-   "C82",
-   "C31"
-  ]
- },
- {
-  "id": "C89",
-  "slug": "hungary-serbia-unannounced-deals",
-  "lines": "",
-  "title": "Unannounced Trump Organization deals: Hungary, Serbia and others in the filings",
-  "claim": "Third-layer hunt from C82/C45: Forbes's reading of Trump's disclosures and state filings points to new DT Marks entities for deals not publicly announced (Hungary, Serbia, others). Identify every DT Marks / DTTM entity formed since Nov 2024, the country, partner and fee, and line them up against US policy toward that country (Hungary: Orb\u00e1n relationship, sanctions waiver on Russian energy, currency-swap/financial shield talks; Serbia: NIS sanctions, Belgrade project). Grade each.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C82",
-   "C45",
-   "C59"
-  ]
- },
- {
-  "id": "C90",
-  "slug": "wlf-token-swaps-and-risky-partners",
-  "lines": "",
-  "title": "World Liberty's token-swap pitch and partners with sanctions or fraud links",
-  "claim": "Third-layer hunt from C71: Blockworks reported WLF pitched crypto projects a swap (they buy WLFI plus a fee; WLF buys their token) \u2014 identify each WLF treasury purchase (MOVE, TRX, ONDO, ENA, SEI, AVAX, MNT, etc.) and whether the project bought WLFI around the same time; WLF partner AB / AB DAO and people later sanctioned with Cambodia's Prince Group (May 2026 Senate letter); the sale to a wallet using the sanctioned ruble stablecoin A7A5; Reuters on Nobitex using Tron and Binance rails; USD1 on Tron; WLF's KYC claims. Verify each and grade.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C71",
-   "C42",
-   "C67"
-  ]
- },
- {
-  "id": "C91",
-  "slug": "dominari-insider-timing",
-  "lines": "",
-  "title": "Dominari: option grants, pre-announcement trading and the Trump sons' arrival",
-  "claim": "Third-layer hunt from C39: an analysis alleges Dominari CEO Anthony Hayes and president Kyle Wool were granted 10M options on 10 Feb 2025, the day before the Trump sons' advisory roles were announced; the stock rose ~530-580% in the six weeks before the announcement; executives were paid ~$66M for 2025. Check the proxy statement and Form 4s (via coverage), who traded before the announcement, any SEC/FINRA/exchange inquiry, shareholder suits, and similar pre-announcement run-ups at Unusual Machines, Thumzup, American Bitcoin's predecessor (Gryphon) and SRM/Tron. Grade each finding.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C39",
-   "C47",
-   "C78"
-  ]
- },
- {
-  "id": "C92",
-  "slug": "ballroom-donor-list-full",
-  "lines": "",
-  "title": "The ballroom donor list in full: who gave, what they had pending",
-  "claim": "Third-layer hunt from C33/C68/C69: the White House's Oct 2025 donor list and the Washington Post's leaked spreadsheet (Oct 2026) with pledge amounts (Nvidia $25M, Ergen $25M, Microsoft, Palantir, Lockheed $10M each, Meta, Amazon $5M, crypto firms, Tether, Winklevoss twins, etc.). Build the full table: donor, amount, date if known, anonymity requests, and each donor's significant matter before the federal government within six months either side (contracts, mergers, enforcement, licences, tariffs). Note where timing cuts against a favour reading. Grade each row.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C33",
-   "C68",
-   "C69"
-  ]
- },
- {
-  "id": "C93",
-  "slug": "kremlev-iba-and-olympic-boxing",
-  "lines": "",
-  "title": "Umar Kremlev, the IBA and US decisions on boxing and Russia",
-  "claim": "Third-layer hunt from C76: Umar Kremlev (Russian head of the International Boxing Association) paid for parts of Don Jr.'s May 2026 wedding weekend via a Dubai entity. Establish Kremlev's and the IBA's interests before the US government (IOC/LA 2028 boxing governance, sanctions exposure, Gazprom sponsorship history, visas, Trump's executive order on Olympic sports or boxing commission proposals, Dana White/TKO boxing league and the Muhammad Ali Act revision), his other contacts with the Trump family, and all responses. Single-source items labelled; nothing asserted beyond the record.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C76"
-  ]
- },
- {
-  "id": "C94",
-  "slug": "lukoil-boehly-consortium",
-  "lines": "",
-  "title": "The Lukoil foreign-assets sale: Boehly's consortium and who is in it",
-  "claim": "Third-layer hunt from C76: the bidding for sanctioned Lukoil's ~$20B foreign assets \u2014 bidders (Carlyle, Gunvor's withdrawn bid, a consortium led by Trump donor Todd Boehly reportedly including Tahnoon's IHC, the Al-Khayyat brothers and the US development finance agency), OFAC licences and deadlines, the reported Putin\u2013Witkoff\u2013Kushner discussion, each bidder's ties to the Trump family or administration, and the outcome through Nov 2026. Grade each link.",
-  "origin": "connection-hunt",
-  "parents": [
-   "C76",
-   "C57"
-  ]
- }
+  {
+    "id": "C01",
+    "slug": "trump-meme-coin",
+    "lines": "101-135,193-231",
+    "title": "$TRUMP meme coin",
+    "claim": "Trump launched an official $TRUMP meme coin two days before his January 2025 inauguration; he 'raked in' about $600 million from it via shell companies; the coin has since lost ~95% of its value and almost all buyers lost money; Trump defended crypto involvement by saying the US must lead or China will.",
+    "origin": "video",
+    "display_title": "The $TRUMP meme coin and who profited",
+    "question": "Did Donald Trump launch an official meme coin days before his January 2025 inauguration and earn about $600 million from it, and what happened to the people who bought it?",
+    "topic": "crypto-ventures"
+  },
+  {
+    "id": "C02",
+    "slug": "melania-coin",
+    "lines": "137,195,227",
+    "title": "$MELANIA coin and NFTs",
+    "claim": "Melania Trump launched her own meme coin right after $TRUMP; she reported ~$6 million from her coin and NFTs; the coin is down ~99%.",
+    "origin": "video",
+    "display_title": "The $MELANIA coin and Melania Trump's NFT income",
+    "question": "Did Melania Trump launch her own meme coin right after $TRUMP, did she report about $6 million from the coin and NFTs, and has the coin lost about 99% of its value?",
+    "topic": "crypto-ventures"
+  },
+  {
+    "id": "C03",
+    "slug": "meme-coin-dinner",
+    "lines": "233-241",
+    "title": "Dinner for top $TRUMP holders",
+    "claim": "Top holders of $TRUMP got a private dinner with the president; the White House press secretary said he abides by all conflict-of-interest laws.",
+    "origin": "video",
+    "display_title": "The private dinner for top $TRUMP holders",
+    "question": "Did the largest holders of the $TRUMP coin get a private dinner with the president, and how did the White House answer conflict-of-interest questions?",
+    "topic": "pardons-lobbyists-and-access"
+  },
+  {
+    "id": "C04",
+    "slug": "wlf-founding",
+    "lines": "245-279",
+    "title": "World Liberty Financial founding and token sale",
+    "claim": "World Liberty Financial (WLF) was created by the Trump family shortly before the 2024 election; it launched a WLFI governance token and the USD1 stablecoin but no DeFi application; co-founder Chase Herro said you can sell 'sh*t in a can' if the story is right; token sales were poor in Oct 2024 then sold out ~$550M after Trump won.",
+    "origin": "video",
+    "display_title": "World Liberty Financial: founding and token sale",
+    "question": "Was World Liberty Financial set up by the Trump family shortly before the 2024 election, what has it actually launched, and did its token sale go from slow to about $550 million sold after the election?",
+    "topic": "crypto-ventures"
+  },
+  {
+    "id": "C05",
+    "slug": "justin-sun",
+    "lines": "281-303",
+    "title": "Justin Sun, WLF and the SEC",
+    "claim": "Justin Sun invested $75M in WLF while charged with fraud by the SEC, became a WLF adviser; after Trump took office the SEC dismissed its case against Sun and settled with his company; Sun later broke with WLF, accusing it of treating the crypto community as a 'personal ATM' and of an 'absurd governance scam'; lawsuits flew both ways.",
+    "origin": "video",
+    "display_title": "Justin Sun, World Liberty Financial and the SEC",
+    "question": "Did Justin Sun invest $75 million in World Liberty Financial while facing an SEC fraud case, was that case then dismissed, and how did his later dispute with World Liberty unfold?",
+    "topic": "regulators-and-enforcement"
+  },
+  {
+    "id": "C06",
+    "slug": "tahnoon-49-percent",
+    "lines": "305-331",
+    "title": "Secret $500M / 49% UAE stake in WLF",
+    "claim": "Per a Wall Street Journal investigation (reporter Sam Kessler), four days before the inauguration the Trump family secretly signed a $500M deal selling 49% of World Liberty Financial to an entity tied to Sheikh Tahnoon bin Zayed, UAE national security adviser and brother of the UAE president ('spy sheikh'); it was not disclosed.",
+    "origin": "video",
+    "display_title": "A UAE-backed 49% stake in World Liberty Financial",
+    "question": "Did an entity backed by Sheikh Tahnoon bin Zayed agree, four days before the inauguration, to pay $500 million for 49% of World Liberty Financial without the deal being disclosed?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C07",
+    "slug": "mgx-binance-usd1",
+    "lines": "333-379",
+    "title": "MGX's $2B Binance investment settled in USD1",
+    "claim": "MGX (chaired by Tahnoon) used WLF's brand-new USD1 stablecoin to close its $2B investment in Binance, announced by WLF without disclosing Tahnoon's WLF stake; this catapulted USD1; WLF earns interest on the reserves, potentially hundreds of millions for the Trump family; WLF says holding a private company to such standards is 'unfair' and USD1 was chosen on merit.",
+    "origin": "video",
+    "display_title": "MGX's $2 billion Binance investment settled in USD1",
+    "question": "Did Abu Dhabi's MGX use World Liberty's new USD1 stablecoin to settle its $2 billion investment in Binance, was the Tahnoon stake in World Liberty disclosed at the time, and what does the Trump family earn from USD1 reserves?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C08",
+    "slug": "uae-chips-stargate",
+    "lines": "381-405",
+    "title": "UAE AI chips deal, Stargate, currency swap",
+    "claim": "Shortly after the UAE-linked deals with Trump crypto projects, the US approved large AI-chip exports to the UAE that had previously been refused on security grounds; MGX was announced as an investor in the Stargate AI project (SoftBank, OpenAI, Oracle); Trump said a currency swap/financial help for the UAE during the Iran crisis was under consideration because it has been 'a good ally'; WLF denies any quid pro quo.",
+    "origin": "video",
+    "display_title": "AI chip exports to the UAE, Stargate and a possible currency swap",
+    "question": "Did the US approve large AI-chip exports to the UAE shortly after UAE-linked money went into Trump-family crypto ventures, was MGX a Stargate investor, and did Trump say financial help for the UAE was under consideration?",
+    "topic": "tech-and-media-companies"
+  },
+  {
+    "id": "C09",
+    "slug": "binance-cz-pardon",
+    "lines": "407-453",
+    "title": "Binance SEC case dropped and CZ pardon",
+    "claim": "The SEC lawsuit against Binance was dropped; Trump later pardoned Binance founder Changpeng Zhao (CZ); Trump said 'I don't know who he is'; CZ said he 'didn't do anything' to get it but that without a pardon Binance is severely limited in the US.",
+    "origin": "video",
+    "display_title": "The dropped Binance case and the pardon of Changpeng Zhao",
+    "question": "Did the SEC drop its lawsuit against Binance, did Trump later pardon founder Changpeng Zhao, and what have Trump and Zhao each said about the pardon?",
+    "topic": "pardons-lobbyists-and-access"
+  },
+  {
+    "id": "C10",
+    "slug": "binance-usd1-growth",
+    "lines": "453-467",
+    "title": "Binance driving USD1 adoption",
+    "claim": "Binance was among the first exchanges to list USD1 and paid customers up to ~20% annual yield to hold it; a WSJ analysis linked each major jump in USD1 usage to Binance; WLF says this is standard marketing practice; WLF boasted USD1 generates ~$159M annually.",
+    "origin": "video",
+    "display_title": "Binance's role in the growth of USD1",
+    "question": "Did Binance list USD1 early and pay customers up to about 20% a year to hold it, is most USD1 usage tied to Binance, and how much does the stablecoin earn World Liberty?",
+    "topic": "crypto-ventures"
+  },
+  {
+    "id": "C11",
+    "slug": "genius-clarity-acts",
+    "lines": "469-481",
+    "title": "GENIUS / CLARITY Acts and USD1",
+    "claim": "Trump pushed the GENIUS Act (stablecoin law) and CLARITY Act, including reported night-time calls to lawmakers to secure votes, while his family profits from USD1; a Trump son boasted on X that USD1 is the second-largest GENIUS-compliant stablecoin.",
+    "origin": "video",
+    "display_title": "The GENIUS and CLARITY Acts and the family's stablecoin",
+    "question": "Did Trump personally push stablecoin and crypto market-structure legislation, including late-night calls to lawmakers, while his family's company issues the USD1 stablecoin?",
+    "topic": "regulators-and-enforcement"
+  },
+  {
+    "id": "C12",
+    "slug": "wlf-bank-charter",
+    "lines": "483-499",
+    "title": "WLF bank charter from the OCC",
+    "claim": "World Liberty applied for a national (trust) bank charter and was provisionally/conditionally approved by the OCC, whose head the president appoints; WLF says approval was handled by career staff.",
+    "origin": "video",
+    "display_title": "World Liberty's bank charter application at the OCC",
+    "question": "Did World Liberty Financial apply for a national trust bank charter and win conditional approval from the OCC, whose head the president appoints, and who handled the approval?",
+    "topic": "regulators-and-enforcement"
+  },
+  {
+    "id": "C13",
+    "slug": "alt5-sigma",
+    "lines": "501-519",
+    "title": "ALT5 Sigma $1.5B WLFI treasury deal",
+    "claim": "WLF announced a $1.5B deal with Nasdaq-listed ALT5 Sigma, which reportedly sent ~$500M to a Trump-family entity and ~$90M to the Witkoff family; ALT5 is run by the same people who run WLF; ALT5 stock fell ~94% in a year and the company rebranded to 'AI Financial Corporation'.",
+    "origin": "video",
+    "display_title": "The $1.5 billion ALT5 Sigma deal with World Liberty",
+    "question": "Did a $1.5 billion deal between World Liberty Financial and Nasdaq-listed ALT5 Sigma send about $500 million to a Trump-family entity and about $90 million to the Witkoff family, and what happened to ALT5 afterwards?",
+    "topic": "crypto-ventures"
+  },
+  {
+    "id": "C14",
+    "slug": "witkoff",
+    "lines": "523-533",
+    "title": "Steve and Zach Witkoff",
+    "claim": "Zach Witkoff is a WLF co-founder; his father Steve Witkoff is US Special Envoy to the Middle East while WLF's largest shareholder is from the Middle East; WLF says Steve Witkoff has divested his stake.",
+    "origin": "video",
+    "display_title": "Steve and Zach Witkoff: a Middle East envoy and World Liberty",
+    "question": "Is Zach Witkoff a World Liberty co-founder while his father Steve Witkoff serves as US special envoy to the Middle East, where World Liberty's largest outside shareholder is based, and has Steve Witkoff divested his stake?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C15",
+    "slug": "kushner-affinity",
+    "lines": "535-553",
+    "title": "Jared Kushner and Affinity Partners",
+    "claim": "Jared Kushner acts as an unofficial 'peace envoy' alongside Witkoff with no official title, so no divestment or financial disclosure; his fund Affinity Partners got $2B from Saudi Arabia's Public Investment Fund and, per the New York Times, has been trying to raise $5B more largely from Gulf sovereign funds.",
+    "origin": "video",
+    "display_title": "Jared Kushner, Affinity Partners and Gulf sovereign funds",
+    "question": "Does Jared Kushner act as a peace envoy without an official title or financial disclosure while his fund, Affinity Partners, holds $2 billion from Saudi Arabia's Public Investment Fund and seeks billions more from Gulf sovereign funds?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C16",
+    "slug": "qatar-jet-arms-golf",
+    "lines": "555-565",
+    "title": "Qatar jet, arms sales and golf deal",
+    "claim": "Qatar gifted a ~$400M luxury Boeing 747 for use as Air Force One, to go to Trump's presidential library afterward; at the same time Qatar negotiated a ~$1.96B arms deal on favourable terms; the Trump family struck a luxury golf course deal in Qatar as part of a ~$5.5B project; in 2026 the State Department approved two more possible sales to Qatar worth ~$5B (APKWS precision kill systems and Patriot missile replenishment).",
+    "origin": "video",
+    "display_title": "Qatar: the gifted jet, arms sales and a Trump golf project",
+    "question": "Did Qatar give a Boeing 747 worth about $400 million for use as Air Force One while it negotiated arms purchases from the US and the Trump family struck a golf-course deal in Qatar?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C17",
+    "slug": "merch-and-t1-phone",
+    "lines": "565-567",
+    "title": "Trump merchandise and the T1 phone",
+    "claim": "The Trump family sells NFTs, watches, golden shoes/sneakers, a Trump Bible, fragrances, and the Trump Mobile T1 phone, which was advertised as 'Made in America' until the website wording was changed; a buyer (Coffeezilla) says he was doxxed after ordering.",
+    "origin": "video",
+    "display_title": "Trump-branded merchandise and the T1 phone",
+    "question": "Does the Trump family sell NFTs, watches, sneakers, a Bible, fragrances and a Trump Mobile phone, and was the phone advertised as made in America until the website wording was changed?",
+    "topic": "family-ventures-and-wealth"
+  },
+  {
+    "id": "C18",
+    "slug": "american-bitcoin-metaplanet",
+    "lines": "569-607",
+    "title": "Eric Trump: Metaplanet, American Bitcoin and Hut 8",
+    "claim": "Eric Trump became a strategic board adviser to Japanese bitcoin-treasury company Metaplanet; Eric and Don Jr. co-own American Bitcoin, 80% owned by Hut 8, which contributed its mining equipment for that 80% with no known cash changing hands; CEO Matt Prusak told Wired the Trumps brought capital-markets access and 'narrative'; the Trump family is linked to about five crypto treasury companies; American Bitcoin stock has performed poorly.",
+    "origin": "video",
+    "display_title": "Eric Trump, Metaplanet, American Bitcoin and Hut 8",
+    "question": "Did Eric Trump become an adviser to bitcoin-treasury company Metaplanet, and do he and Donald Trump Jr. co-own American Bitcoin, in which Hut 8 took 80% for contributing its mining equipment?",
+    "topic": "crypto-ventures"
+  },
+  {
+    "id": "C19",
+    "slug": "bitcoin-reserve-tmtg-cumberland",
+    "lines": "611-617",
+    "title": "Strategic Bitcoin Reserve, TMTG treasury, Cumberland/Don Wilson",
+    "claim": "Trump signed an executive order creating a Strategic Bitcoin Reserve; around then Trump Media & Technology Group (TMTG) announced a $2.5B raise for its own bitcoin treasury; one investor was Don Wilson (DRW), whose crypto firm Cumberland had an SEC enforcement case dismissed with prejudice weeks earlier; Cumberland denies any connection.",
+    "origin": "video",
+    "display_title": "The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investor",
+    "question": "Did Trump Media raise about $2.5 billion for a bitcoin treasury after Trump created a Strategic Bitcoin Reserve, and was one investor Don Wilson, whose firm Cumberland had an SEC case dismissed weeks earlier?",
+    "topic": "trump-media-and-markets"
+  },
+  {
+    "id": "C20",
+    "slug": "truth-social-stock-posts",
+    "lines": "619-631",
+    "title": "Trump's stock purchases and Truth Social posts",
+    "claim": "TMTG is majority owned by the Donald J. Trump Revocable Trust and owns Truth Social; Trump names companies/tickers in posts while in office; financial disclosures (hundreds of pages) show purchases of securities in his name before he posted about them; the White House says others trade on his behalf; he posted a meme of himself trading Intel stock in the Oval Office and the price rose.",
+    "origin": "video",
+    "display_title": "Trump's securities purchases and his Truth Social posts",
+    "question": "Does Trump's trust own a majority of Trump Media, does he name companies and tickers in posts while in office, and do his disclosures show purchases of securities before he posted about them?",
+    "topic": "trump-media-and-markets"
+  },
+  {
+    "id": "C21",
+    "slug": "tmtg-api-truth-plus",
+    "lines": "635-641",
+    "title": "TMTG's market-moving 'truths' API and Truth+",
+    "claim": "TMTG announced a paid API giving a real-time feed of Truth Social's most market-moving posts; interim CEO Kevin McGurn said 'markets already move on Truth Social posts'; it reportedly costs $100,000 a month with multiple buyers; TMTG also has Truth+, a streaming service with 'Patriot packages' and non-woke content.",
+    "origin": "video",
+    "display_title": "Trump Media's paid feed of market-moving posts and Truth+",
+    "question": "Did Trump Media announce a paid real-time feed of Truth Social's most market-moving posts, reportedly priced at up to $100,000 a month, and what is its Truth+ streaming service?",
+    "topic": "trump-media-and-markets"
+  },
+  {
+    "id": "C22",
+    "slug": "crypto-com",
+    "lines": "643-649",
+    "title": "Crypto.com and TMTG",
+    "claim": "Crypto.com agreed to buy $50M of TMTG stock in a partnership months after the SEC closed its investigation of Crypto.com with no action; $36M was spent on contributions to Trump-affiliated PACs (attribution unclear in transcript); the CFTC filed an amicus brief supporting Crypto.com in a prediction-markets lawsuit; Crypto.com's national trust bank charter application was provisionally approved.",
+    "origin": "video",
+    "display_title": "Crypto.com's deal with Trump Media",
+    "question": "Did Crypto.com agree to buy $50 million of Trump Media stock months after the SEC closed its investigation of the exchange, and what else has Crypto.com obtained from federal regulators?",
+    "topic": "trump-media-and-markets"
+  },
+  {
+    "id": "C23",
+    "slug": "sec-crypto-cases-dropped",
+    "lines": "139,651-655",
+    "title": "SEC drops crypto-exchange cases; donors",
+    "claim": "After Trump took office the SEC dropped, one by one, over a dozen enforcement actions against crypto companies including Coinbase, Kraken, Binance and Gemini; several of these firms gave $1M+ to Trump's campaign or inauguration fund, sponsored his military parade, or donated to the White House ballroom.",
+    "origin": "video",
+    "display_title": "SEC crypto cases dropped and the firms' donations",
+    "question": "Did the SEC drop more than a dozen enforcement actions against crypto companies after Trump took office, and did several of those firms donate to his campaign, inauguration, military parade or White House ballroom?",
+    "topic": "regulators-and-enforcement"
+  },
+  {
+    "id": "C24",
+    "slug": "tmtg-etfs-tae-fusion",
+    "lines": "655-657",
+    "title": "TMTG ETFs, TAE fusion merger, TMTG losses",
+    "claim": "TMTG sells Truth Social-branded ETFs (American Security & Defense, American Next Frontiers, American Icons); TMTG announced a ~$6B all-stock merger with fusion company TAE Technologies, a sector dependent on regulation; TMTG stock is far down, with revenue of a few million dollars against ~$712M in losses.",
+    "origin": "video",
+    "display_title": "Trump Media's ETFs, the TAE fusion merger and its losses",
+    "question": "Does Trump Media sell Truth Social-branded ETFs, did it announce an all-stock merger worth about $6 billion with fusion company TAE Technologies, and how do its revenue and losses compare?",
+    "topic": "trump-media-and-markets"
+  },
+  {
+    "id": "C25",
+    "slug": "prediction-markets-don-jr",
+    "lines": "659-735",
+    "title": "Prediction markets, CFTC and Don Jr.",
+    "claim": "TMTG announced 'Truth Predict', which flopped; prediction markets on sports depend on a legal theory backed by Trump's CFTC chairman Mike Selig; Don Jr. is a strategic adviser to Kalshi and on the advisory board of/an investor in Polymarket; Selig was asked in Congress whether the White House asked him to drop the CFTC probe into Polymarket; Trump posted that prediction markets are a major industry to protect; Don Jr. reportedly told Republican state attorneys general not to fight prediction markets (he says it was a passing comment).",
+    "origin": "video",
+    "display_title": "Prediction markets, the CFTC and Donald Trump Jr.",
+    "question": "Do sports prediction markets depend on a legal position backed by Trump's CFTC chairman while Donald Trump Jr. advises Kalshi and Polymarket, and what happened to Trump Media's own prediction product?",
+    "topic": "regulators-and-enforcement"
+  },
+  {
+    "id": "C26",
+    "slug": "1789-capital-vulcan",
+    "lines": "737-799",
+    "title": "1789 Capital and Vulcan Elements",
+    "claim": "Don Jr. is a partner at 1789 Capital, which has over $1B in assets and reported 200%+ returns; it invested in rare-earth magnet maker Vulcan Elements shortly before the company announced a ~$1B+ facility with US government backing; ProPublica reported the deal was the only one initiated by a top White House aide ('the call came from the White House'); 1789 says it is a passive minority investor and does not call the government.",
+    "origin": "video",
+    "display_title": "1789 Capital and the Vulcan Elements magnet deal",
+    "question": "Did 1789 Capital, where Donald Trump Jr. is a partner, invest in rare-earth magnet maker Vulcan Elements shortly before it won US government backing for a facility worth more than $1 billion, and who initiated that deal?",
+    "topic": "defence-minerals-and-contracts"
+  },
+  {
+    "id": "C27",
+    "slug": "new-america-spac",
+    "lines": "801-821",
+    "title": "New America Acquisition I Corp SPAC",
+    "claim": "New America Acquisition I Corp, a ~$300M SPAC with Don Jr. and Eric Trump as advisers who stand to make tens of millions, said in its SEC filing it would target companies positioned to benefit from federal or state incentives such as government contracts or preferential procurement; that language was removed later the same day.",
+    "origin": "video",
+    "display_title": "The New America Acquisition I SPAC",
+    "question": "Did a $300 million blank-cheque company advised by Donald Trump Jr. and Eric Trump tell the SEC it would target companies that benefit from government incentives and contracts, and was that wording then removed?",
+    "topic": "family-ventures-and-wealth"
+  },
+  {
+    "id": "C28",
+    "slug": "foundation-robotics",
+    "lines": "827-857",
+    "title": "Foundation Future Industries robots and Eric Trump",
+    "claim": "Humanoid-robot startup Foundation Future Industries (CEO Sankaet Pathak) has a ~$24M Pentagon contract for its Phantom robot with the Marine Corps; Eric Trump is its chief strategy adviser; Wired reported the contracts predated his involvement even though Fox presented them as new.",
+    "origin": "video",
+    "display_title": "Foundation Future Industries, its Pentagon contract and Eric Trump",
+    "question": "Does humanoid-robot startup Foundation Future Industries hold a Pentagon contract of about $24 million, is Eric Trump its chief strategy adviser, and did the contracts predate his involvement?",
+    "topic": "defence-minerals-and-contracts"
+  },
+  {
+    "id": "C29",
+    "slug": "family-wealth-disclosures",
+    "lines": "869-879",
+    "title": "Trump family wealth gains",
+    "claim": "Per financial disclosures, Trump made more from crypto than from any other business (about $1.4B, of ~$2.2B total), possibly his most profitable year ever; per Forbes, Eric Trump is ~10x richer since the election, Don Jr. ~6x richer, and Barron Trump is worth ~$150M; meanwhile most retail investors in Trump-linked ventures lost money.",
+    "origin": "video",
+    "display_title": "Trump family wealth gains since the election",
+    "question": "Do Trump's financial disclosures show crypto as his largest income source, at about $1.4 billion of $2.2 billion, and how much richer have Eric, Donald Jr. and Barron Trump become while most retail buyers lost money?",
+    "topic": "family-ventures-and-wealth"
+  },
+  {
+    "id": "C30",
+    "slug": "framing-polls-bannon",
+    "lines": "23-99,141-175",
+    "title": "Framing: polls, supporters turning, Bannon, lawyer threat",
+    "claim": "Polls show public concern about government corruption at its highest level in 20 years; prominent former Trump supporters/campaigners now call this the most corrupt presidency in history; Steve Bannon described the 'flood the zone'/'muzzle velocity' media strategy; Coffeezilla says a lawyer threatened him before publication and that Don Jr., Eric, Melania and Donald Trump did not respond to requests for comment; the video features Molly White, Sam Kessler (WSJ) and Isaac Saul (Tangle).",
+    "origin": "video",
+    "display_title": "Public perception of government corruption: the Gallup poll",
+    "question": "Are polls on government corruption at their highest level in 20 years, and what exactly does the Gallup figure measure?",
+    "topic": "family-ventures-and-wealth",
+    "hidden": false,
+    "hidden_note": "Kept as a check of the corruption-perception poll only (sub-claim 1, the Gallup finding). Mark the other sub-claims \"hidden\": true: former supporters' quotes; the unidentified '$600 million' quote; the Bannon 'flood the zone' clip; the lawyer's threat to the creator; the unanswered requests for comment; who appeared as guests; and the Iran-war aside. Rewrite title, summary, corrections and report around the poll alone."
+  },
+  {
+    "id": "C31",
+    "slug": "gulf-real-estate-dar-global",
+    "lines": "",
+    "title": "Trump Organization Gulf real-estate deals (Dar Global)",
+    "claim": "The video briefly mentions 'a brand new hotel going up in Dubai or Abu Dhabi' and 'Middle Eastern golf deals'. Follow-up: since the 2024 election the Trump Organization has signed branded tower/hotel/golf licensing deals across the Gulf (Dubai, Saudi Arabia — Jeddah/Riyadh, Oman, Qatar, possibly others) largely via Saudi-linked developer Dar Global, despite a pledge of no new foreign deals in the first term; establish the list of deals, dates, values, fees to the Trumps, state-linked counterparties, and the ethics pledge for the second term.",
+    "origin": "follow-up",
+    "parents": [
+      "C16",
+      "C15"
+    ],
+    "display_title": "Trump Organization real-estate deals in the Gulf",
+    "question": "Since the 2024 election, has the Trump Organization signed branded tower, hotel and golf licensing deals across the Gulf, largely through Saudi-linked developer Dar Global, and what are they worth to the family?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C32",
+    "slug": "don-jr-government-contractors",
+    "lines": "",
+    "title": "Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)",
+    "claim": "Follow-up to the 1789 Capital/Vulcan claim: Donald Trump Jr. holds advisory roles or stakes in other companies that won federal contracts or policy benefits after he joined — e.g. drone maker Unusual Machines (Army contract), and 1789 Capital portfolio companies such as Anduril, SpaceX/xAI, Firehawk, Cerebras, plus the Executive Branch private club. Establish which are documented, the timing of his involvement vs. contracts, amounts, and denials.",
+    "origin": "follow-up",
+    "parents": [
+      "C26",
+      "C27",
+      "C28"
+    ],
+    "display_title": "Donald Trump Jr.'s ties to other government contractors",
+    "question": "Does Donald Trump Jr. hold advisory roles or stakes in other companies, such as drone maker Unusual Machines and 1789 Capital portfolio firms, that won federal contracts or policy benefits after he joined?",
+    "topic": "defence-minerals-and-contracts"
+  },
+  {
+    "id": "C33",
+    "slug": "settlements-ballroom-library-donors",
+    "lines": "",
+    "title": "Corporate settlements and donations to Trump's library and ballroom",
+    "claim": "Follow-up to the video's mention of crypto firms sponsoring the ballroom: companies with business before the government paid Trump personally-linked entities — lawsuit settlements from ABC/Disney ($15M), Meta ($25M), Paramount ($16M), X, YouTube/Alphabet ($24.5M) directed to his presidential library or the White House ballroom, and the list of corporate ballroom donors (incl. crypto firms Coinbase, Ripple, Tether, Gemini's Winklevoss twins) — alongside regulatory outcomes those companies obtained (e.g. Paramount–Skydance FCC approval). Verify amounts, recipients, dates and any documented regulatory benefit.",
+    "origin": "follow-up",
+    "parents": [
+      "C23",
+      "C16"
+    ],
+    "display_title": "Corporate lawsuit settlements and donations to Trump's library and ballroom",
+    "question": "Did ABC, Meta, Paramount, X and YouTube settle Trump's lawsuits with payments directed to his presidential library or the White House ballroom while they had business before the government?",
+    "topic": "tech-and-media-companies"
+  },
+  {
+    "id": "C34",
+    "slug": "david-sacks-conflicts",
+    "lines": "",
+    "title": "David Sacks: AI & crypto czar with investments",
+    "claim": "Follow-up to the UAE chips claim: White House AI and crypto czar David Sacks, who helped drive the UAE chip deals and crypto policy, kept financial interests in AI/crypto companies via Craft Ventures under ethics waivers; a New York Times investigation (late 2025) detailed hundreds of AI-related holdings; verify the holdings, waivers, his role in the UAE/G42 chip approvals and GENIUS Act, and his denials.",
+    "origin": "follow-up",
+    "parents": [
+      "C08",
+      "C11"
+    ],
+    "display_title": "David Sacks: the AI and crypto adviser and his investments",
+    "question": "Did White House AI and crypto adviser David Sacks keep financial interests in AI and crypto companies under ethics waivers while he shaped policy in those fields?",
+    "topic": "tech-and-media-companies"
+  },
+  {
+    "id": "C35",
+    "slug": "lutnick-cantor-tether",
+    "lines": "",
+    "title": "Howard Lutnick, Cantor Fitzgerald and Tether",
+    "claim": "Follow-up to the stablecoin/GENIUS Act and chips claims: Commerce Secretary Howard Lutnick's former firm Cantor Fitzgerald (now run by his sons) custodies Tether's reserves and held a stake in Tether, while the administration passed stablecoin legislation and Commerce controls AI-chip export licences; Cantor also launched crypto/bitcoin SPAC vehicles (e.g. Twenty One Capital with Tether and SoftBank). Verify stakes, timelines, divestment, and any documented policy benefit.",
+    "origin": "follow-up",
+    "parents": [
+      "C11",
+      "C08",
+      "C19"
+    ],
+    "display_title": "Howard Lutnick, Cantor Fitzgerald and Tether",
+    "question": "Does Cantor Fitzgerald, the former firm of Commerce Secretary Howard Lutnick now run by his sons, custody Tether's reserves and hold a stake in Tether while the administration set stablecoin policy, and how complete was his divestment?",
+    "topic": "regulators-and-enforcement"
+  },
+  {
+    "id": "C36",
+    "slug": "crypto-pardons-and-clemency",
+    "lines": "",
+    "title": "Clemency for other crypto and donor-linked figures",
+    "claim": "Follow-up to the CZ pardon: Trump also granted clemency to other crypto or donor-linked figures — Ross Ulbricht (Silk Road), the BitMEX co-founders (Arthur Hayes et al.) and BitMEX itself, Nikola founder Trevor Milton (a donor), Roger Ver settlement/deferred prosecution, and reportedly others; plus the DOJ disbanding its crypto enforcement unit (NCET). Verify each, the dates, any donations or lobbying payments linked to them (e.g. lobbyists paid for the CZ pardon), and official justifications.",
+    "origin": "follow-up",
+    "parents": [
+      "C09",
+      "C23"
+    ],
+    "display_title": "Clemency for other crypto and donor-linked figures",
+    "question": "Beyond Changpeng Zhao, did Trump grant clemency to Ross Ulbricht, the BitMEX founders, Nikola founder Trevor Milton and others with crypto or donor ties, and did the Justice Department disband its crypto enforcement team?",
+    "topic": "pardons-lobbyists-and-access"
+  },
+  {
+    "id": "C37",
+    "slug": "kushner-phone-hack",
+    "lines": "",
+    "title": "Jared Kushner's hacked phone",
+    "claim": "User-requested lead: reports that Jared Kushner's phone (or his accounts/communications) was hacked or compromised. Establish what is actually reported: when, by whom (state actor? spyware vendor? which country), what was accessed, how it was discovered and by which outlet/agency, and how it connects to his unofficial envoy role, his negotiations (Gaza, Iran, Russia-Ukraine), Affinity Partners and its Gulf investors (Saudi PIF, Qatar, UAE), and any earlier incidents (e.g. first-term WhatsApp use with MBS, security-clearance concerns, 2024-25 Iranian/Chinese hacks of Trump-circle phones). Distinguish confirmed reporting from rumour; if no credible report of a Kushner phone hack exists, say so plainly.",
+    "origin": "follow-up",
+    "parents": [
+      "C15"
+    ],
+    "display_title": "The reported hack of Jared Kushner's phone",
+    "question": "What has actually been reported about a hack of Jared Kushner's phone: when, by whom, what was accessed, and how well sourced is the allegation?",
+    "topic": "foreign-deals"
+  },
+  {
+    "id": "C38",
+    "slug": "polymarket-probes-dropped",
+    "lines": "",
+    "title": "Polymarket probes dropped before 1789 Capital invested; federal push for prediction markets",
+    "claim": "Lead from C25: the DOJ and CFTC reportedly closed their investigations of Polymarket in July 2025, about a month before Don Jr.'s 1789 Capital invested and he joined its advisory board; the White House (not only Don Jr.) reportedly lobbied state officials over prediction markets; Selig's CFTC sued states (AZ, CT, IL, NY, WI) to defend the industry; Sen. Curtis sought a Senate Judiciary probe. Verify dates, amounts, who decided, and denials.",
+    "origin": "follow-up",
+    "parents": [
+      "C25",
+      "C26"
+    ],
+    "display_title": "Polymarket probes closed before 1789 Capital invested",
+    "question": "Did the Justice Department and the CFTC close their Polymarket investigations about six weeks before Donald Trump Jr.'s firm invested, and has the federal government pushed states to allow prediction markets?",
+    "topic": "regulators-and-enforcement"
+  },
+  {
+    "id": "C39",
+    "slug": "dominari-trump-sons-smallcaps",
+    "lines": "",
+    "title": "Dominari Holdings and the Trump sons' small-cap network",
+    "claim": "Lead from C18/C27: Don Jr. and Eric Trump became advisers to and major shareholders of Dominari Holdings (a Trump Tower-based broker) whose stock soared; Dominari co-founded American Data Centers/American Bitcoin with them and co-underwrote their SPAC (its president Kyle Wool sits on the SPAC board); related small-cap deals include Thumzup, GrabAGun/Colombier II, Unusual Machines, and others where a Trump son's arrival preceded a share-price spike. Verify stakes, gains, timing, any SEC/FINRA scrutiny and denials.",
+    "origin": "follow-up",
+    "parents": [
+      "C18",
+      "C27"
+    ],
+    "display_title": "Dominari Holdings and the Trump sons' small-cap network",
+    "question": "Did Donald Trump Jr. and Eric Trump become advisers to and shareholders of Trump Tower-based broker Dominari Holdings, and how is Dominari tied to their other listed ventures?",
+    "topic": "family-ventures-and-wealth"
+  },
+  {
+    "id": "C40",
+    "slug": "memecoin-insiders-hayden-davis-meteora",
+    "lines": "",
+    "title": "Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)",
+    "claim": "Lead from C01/C02: a class action and on-chain reporting allege the $MELANIA launch (and the Argentine $LIBRA coin) were run by Hayden Davis/Kelsier Ventures with Meteora co-founder Benjamin Chow as a pump-and-dump, with insiders taking ~$10M+ while public figures were 'props'; who actually operated $TRUMP (Bill Zanker, Fight Fight Fight LLC, CIC Digital), early-wallet sniping profits, trading-fee revenue, and the status of the litigation and any regulatory action. Verify.",
+    "origin": "follow-up",
+    "parents": [
+      "C01",
+      "C02"
+    ],
+    "display_title": "Who ran the $TRUMP and $MELANIA launches",
+    "question": "What do lawsuits and on-chain reporting allege about Hayden Davis, Kelsier Ventures and Meteora's role in the $MELANIA launch, and who actually operated $TRUMP?",
+    "topic": "crypto-ventures"
+  },
+  {
+    "id": "C41",
+    "slug": "tmtg-followups-api-nunes-cro",
+    "lines": "",
+    "title": "Trump Media follow-ups: API customers, SEC complaint, Nunes, CRO treasury deal",
+    "claim": "Leads from C21/C22/C24: Bloomberg, Susquehanna and Jump Trading reportedly subscribe to the Truth API; Sens. Warren and Schiff asked the SEC to investigate and the SEC's response; Devin Nunes left TMTG (Apr 2026) and was named chair of the President's Intelligence Advisory Board; board members Lighthizer and Swider resigned; the $6.4B CRO-token treasury venture with Crypto.com/Yorkville and its reported termination; a planned Truth Social utility token; TAE's CEO lobbying DOE before the merger. Verify each.",
+    "origin": "follow-up",
+    "parents": [
+      "C21",
+      "C22",
+      "C24"
+    ],
+    "display_title": "Trump Media: feed subscribers, the senators' SEC request, departures and the CRO treasury deal",
+    "question": "Which trading firms reportedly subscribe to Trump Media's posts feed, how did the SEC respond to senators' request for an investigation, and what happened with Devin Nunes's departure and the Crypto.com token treasury plan?",
+    "topic": "trump-media-and-markets"
+  },
+  {
+    "id": "C42",
+    "slug": "wlf-insider-extraction",
+    "lines": "",
+    "title": "How World Liberty insiders took money out",
+    "claim": "Leads from C04/C05/C13/C14/C29: DT Marks DEFI LLC's entitlement to 75% of WLF net token-sale/protocol revenue; Trump's disclosed WLF income; Steve Witkoff's ~$107M 2025 income from his WLF-linked holding company and the disputed divestment; WLF insiders reportedly borrowing stablecoins against ~5B WLFI tokens as the price hit lows; the freezing of Justin Sun's and other holders' tokens; the $SPSC memecoin promotion; WLFI token price history and retail losses; who owns StringZ Holding. Verify with figures and dates.",
+    "origin": "follow-up",
+    "parents": [
+      "C04",
+      "C05",
+      "C13",
+      "C14",
+      "C29"
+    ],
+    "display_title": "How World Liberty insiders took money out",
+    "question": "How much have the Trump and Witkoff families received from World Liberty Financial through the 75% revenue entitlement, token sales and borrowing against tokens?",
+    "topic": "crypto-ventures"
+  },
+  {
+    "id": "C43",
+    "slug": "enforcement-drops-donor-overlap",
+    "lines": "",
+    "title": "Systematic overlap between dropped enforcement and Trump donors",
+    "claim": "Leads from C23: the New York Times analysis finding the SEC eased ~60% of inherited crypto cases with several tied to Trump donors/business partners; Robinhood (inaugural donor) having its SEC crypto probe closed; Public Citizen's tracker of halted corporate enforcement actions against companies with Trump ties; Crypto.com's Trump-connected lobbyist; Gemini's MAGA Inc. donation. Establish the numbers, methodology, counter-arguments (policy shift applied to non-donors too) and official responses.",
+    "origin": "follow-up",
+    "parents": [
+      "C23",
+      "C22",
+      "C09"
+    ],
+    "display_title": "Overlap between dropped enforcement cases and Trump donors",
+    "question": "How often did the SEC ease inherited crypto cases compared with other cases, and how many of the firms involved were Trump donors or business partners?",
+    "topic": "regulators-and-enforcement"
+  },
+  {
+    "id": "C44",
+    "slug": "melania-amazon-documentary",
+    "lines": "",
+    "title": "Melania Trump's Amazon documentary deal",
+    "claim": "Lead from C02/C29: Amazon reportedly paid ~$40M to license a Melania Trump documentary (she reportedly netted ~$10.7M+ in 2025), far above rival bids, while Amazon/Jeff Bezos had major business before the administration (antitrust case, federal cloud and Blue Origin/Kuiper contracts, tariffs); also Bezos's inauguration donation and Washington Post changes. Verify the amounts, the competing bids, timing versus government decisions, and denials.",
+    "origin": "follow-up",
+    "parents": [
+      "C02",
+      "C29"
+    ],
+    "display_title": "Amazon's $40 million Melania Trump documentary deal",
+    "question": "Did Amazon pay about $40 million for a Melania Trump documentary, far above rival bids, while it had major business before the administration, and how much did she receive?",
+    "topic": "tech-and-media-companies"
+  },
+  {
+    "id": "C45",
+    "slug": "kushner-albania-serbia-resorts",
+    "lines": "",
+    "title": "Kushner's Albania and Serbia developments",
+    "claim": "Leads from C30/C37: Jared Kushner's Affinity Partners is pursuing a luxury resort on Albania's Sazan island/Zvernec coast and a Belgrade (Serbia) development on the former army HQ site, both needing foreign-government approvals while he acts as a US envoy; Rep. Raskin's House Judiciary probe; criticism from right-wing figures such as Candace Owens; any Trump-branding. Verify deal terms, government concessions, status (the Belgrade project reportedly collapsed amid a forgery probe), and denials.",
+    "origin": "follow-up",
+    "parents": [
+      "C15",
+      "C37",
+      "C31"
+    ],
+    "display_title": "Kushner's resort projects in Albania and Serbia",
+    "question": "Is Jared Kushner's Affinity Partners pursuing developments in Albania and Belgrade that need foreign-government approval while he acts as a US envoy, and what scrutiny have they drawn?",
+    "topic": "foreign-deals"
+  },
+  {
+    "id": "C46",
+    "slug": "kushner-alleged-gulf-accounts",
+    "lines": "",
+    "title": "The alleged Kushner Gulf accounts: Azerbaijan route, 'Beta' account, Gabbard complaint",
+    "claim": "Deeper follow-up to C37: Matthew Cole's book 'Princes and Thieves' (Vanity Fair excerpt, Oct 2026) alleges a ~$750M First Abu Dhabi Bank account with Kushner as signatory, money of Saudi/UAE origin routed via Azerbaijan, and a ~$1B transfer to an Israeli government ('Beta') account; separately a whistleblower complaint involving DNI Tulsi Gabbard concerns an NSA intercept of foreigners discussing Kushner; Kushner's lawyer threatened Condé Nast and Simon & Schuster. Establish exactly what each source alleges, corroboration or rebuttal by other outlets (Axios's Barak Ravid, Jerusalem Post retraction), official responses, and congressional follow-up. Treat as single-source allegations unless corroborated.",
+    "origin": "follow-up",
+    "parents": [
+      "C37",
+      "C15"
+    ],
+    "display_title": "The alleged Kushner Gulf accounts",
+    "question": "What does Matthew Cole's book allege about Gulf-funded bank accounts linked to Jared Kushner and money routed through Azerbaijan, and is any of it independently corroborated?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C47",
+    "slug": "dominari-tron-tungsten-china-ipos",
+    "lines": "",
+    "title": "Dominari's other deals: Tron/SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs",
+    "claim": "Leads from C39: Dominari Securities arranged the SRM Entertainment → Tron Inc. reverse-merger treasury deal with Justin Sun (Eric Trump reportedly linked, he denies a role); launched American Ventures, a ~$1B microcap fund with Trump-son investors; was tied to the Skyline Builders / Cove Kaz Kazakhstan tungsten deal with up to $1.6B of US-government-linked financing; and faces a House China Select Committee inquiry into Chinese small-cap 'ramp-and-dump' IPOs it underwrote, plus FINRA's fine on Kyle Wool's former firm Revere. Verify each with dates, amounts, and denials.",
+    "origin": "follow-up",
+    "parents": [
+      "C39",
+      "C05",
+      "C27"
+    ],
+    "display_title": "Dominari's other deals: Tron, Kazakhstan tungsten and Chinese listings",
+    "question": "Did Dominari arrange the Tron Inc. treasury deal with Justin Sun, launch a roughly $1 billion microcap fund with Trump-son investors, and take part in a Kazakhstan tungsten deal and Chinese small-cap listings?",
+    "topic": "family-ventures-and-wealth"
+  },
+  {
+    "id": "C48",
+    "slug": "trump-library-foundation-money",
+    "lines": "",
+    "title": "Trump presidential library foundation: settlement money, Miami land, IRS status",
+    "claim": "Leads from C33/C16: roughly $60M+ of media/tech lawsuit settlement money earmarked for Trump's presidential library is alleged by Sens. Warren/Blumenthal and Rep. Stansbury to be unaccounted for after the first library fund was dissolved (Sept 2025); a successor foundation received Miami Dade College land worth $67M+ for $10; the foundation reportedly got fast-track IRS approval during the government shutdown; the Qatari 747 is slated to go to it. Verify the entities, officers (Eric Trump, Michael Boulos, James Kiley?), the money trail, lawsuits over the land, and responses.",
+    "origin": "follow-up",
+    "parents": [
+      "C33",
+      "C16"
+    ],
+    "display_title": "The Trump presidential library foundation's money and land",
+    "question": "What happened to the lawsuit-settlement money earmarked for Trump's presidential library after the first fund was dissolved, and did a successor foundation receive Miami land worth more than $67 million for $10?",
+    "topic": "family-ventures-and-wealth"
+  },
+  {
+    "id": "C49",
+    "slug": "pardon-lobbying-industry",
+    "lines": "",
+    "title": "The pardon-lobbying market and post-pardon SEC dismissals",
+    "claim": "Leads from C36: a paid pardon-lobbying industry around Trump's second term — lobbyists and allies (Roger Stone, Ches McDowell/Checkmate, Teresa Goody Guillén, others) reportedly charging large fees to seek clemency; reported asking prices of $1M+; pardons of donors or their relatives (Paul Walczak, Trevor Milton, Changpeng Zhao, Carlos Watson commutation, others); the SEC dropping civil cases after criminal pardons; the firing of pardon attorney Liz Oyer and Ed Martin's role as pardon attorney; total restitution wiped out (House Judiciary Democrats' estimate ~$1.3B+). Verify figures, named cases, and official justifications.",
+    "origin": "follow-up",
+    "parents": [
+      "C36",
+      "C09"
+    ],
+    "display_title": "The market for pardon lobbying",
+    "question": "Is there a paid lobbying market around clemency in Trump's second term, what fees have been reported, and which pardon recipients were donors or had SEC cases dismissed afterwards?",
+    "topic": "pardons-lobbyists-and-access"
+  },
+  {
+    "id": "C50",
+    "slug": "lutnick-chips-tether-iran",
+    "lines": "",
+    "title": "Lutnick follow-ups: Nvidia chip curbs, Tether and Iran, crypto council",
+    "claim": "Leads from C35: Axios (Nov 2026) reports Commerce Secretary Lutnick stalled curbs on Nvidia-chip diversion to China; Sen. Blumenthal is probing Tether's alleged role in Iranian shadow banking and the Tether loan to the Lutnick children's trust; Lutnick's possible seat on the White House crypto council; Cantor's ~$2B bitcoin-lending programme with Tether; Lutnick's sons' Cantor deals that depend on Commerce/tariff policy (e.g. tariff-refund claims trading). Verify each and note denials.",
+    "origin": "follow-up",
+    "parents": [
+      "C35",
+      "C08"
+    ],
+    "display_title": "Lutnick: Nvidia chip curbs, Tether inquiries and Cantor's crypto business",
+    "question": "Did Commerce Secretary Howard Lutnick hold up curbs on Nvidia-chip diversion to China, and what is known about Senate inquiries into Tether, a Tether loan to a Lutnick family trust and Cantor's bitcoin lending?",
+    "topic": "regulators-and-enforcement"
+  },
+  {
+    "id": "C51",
+    "slug": "trump-sons-drone-ventures",
+    "lines": "",
+    "title": "Trump sons' drone ventures and the Pentagon's Drone Dominance programme",
+    "claim": "Leads from C28/C32: the PowerUS / Aureus Greenway drone merger backed by Eric and Don Jr.; the Pentagon reportedly negotiating an equity stake in Don Jr.-advised Unusual Machines under the $1.1B Drone Dominance programme; Unusual Machines' Draganfly investment; Trump executive orders on drones and restrictions on Chinese DJI that benefit domestic makers; Warren and Garcia letters to the Pentagon Inspector General; Senate Democrats' tally of $70M+ federal contracts to 1789 portfolio companies. Verify timing, amounts, policy benefits and denials.",
+    "origin": "follow-up",
+    "parents": [
+      "C32",
+      "C28",
+      "C26"
+    ],
+    "display_title": "The Trump sons' drone ventures and the Pentagon's Drone Dominance programme",
+    "question": "Are Eric Trump and Donald Trump Jr. invested in drone companies that won military contracts, and did the Pentagon negotiate an equity stake in Unusual Machines, which Donald Trump Jr. advises?",
+    "topic": "defence-minerals-and-contracts"
+  },
+  {
+    "id": "C52",
+    "slug": "crypto-lobbyists-sec-director",
+    "lines": "",
+    "title": "Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit",
+    "claim": "Leads from C43/C22: crypto firms with matters before regulators hired Trump-connected lobbying firms — Miller Strategies (Jeff Miller; Crypto.com, Gemini), Ballard Partners (Kraken, Blockchain.com), others (Binance's hires) — with fees and outcomes; the Winklevoss twins' $10M+ bitcoin gift to MAGA Inc. shortly after the CFTC joined Gemini's bid to vacate its judgment; the sudden resignation of the SEC enforcement director in March 2026 and Sen. Blumenthal's inquiry into whether crypto cases were involved; crypto super PAC Fairshake's spending. Verify amounts, dates, and responses.",
+    "origin": "follow-up",
+    "parents": [
+      "C43",
+      "C23",
+      "C22"
+    ],
+    "display_title": "Trump-connected lobbyists hired by crypto firms and the SEC enforcement director's exit",
+    "question": "Did crypto firms with matters before regulators hire Trump-connected lobbying firms, what did they pay and obtain, and why did the SEC's enforcement director leave?",
+    "topic": "regulators-and-enforcement"
+  },
+  {
+    "id": "C53",
+    "slug": "witkoff-family-gulf-money",
+    "lines": "",
+    "title": "The Witkoff family's own Gulf money",
+    "claim": "Leads from C14/C42: beyond World Liberty, the Witkoff family has Gulf financial ties while Steve Witkoff is special envoy — Qatar's sovereign fund bought the Witkoff Group's Park Lane hotel stake (2023); Alex/Zach Witkoff reportedly sought billions from Qatar, UAE and Kuwait funds for real-estate vehicles in 2025; Steve Witkoff's reported ~$120M sale of a stake in his firm with no buyer named; his ethics agreement, disclosures and the timing versus Gaza/Qatar/Iran/Russia negotiations (incl. the Qatar jet and Doha strike aftermath). Verify amounts, dates, counterparties and denials.",
+    "origin": "follow-up",
+    "parents": [
+      "C14",
+      "C42",
+      "C16"
+    ],
+    "display_title": "The Witkoff family's own Gulf money",
+    "question": "Beyond World Liberty, does the Witkoff family have financial ties to Qatari, Emirati and Kuwaiti funds while Steve Witkoff serves as special envoy?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C54",
+    "slug": "crypto-revolving-door",
+    "lines": "",
+    "title": "The crypto revolving door: officials who moved to firms they shaped policy for",
+    "claim": "Leads from C35/C25/C12: administration crypto officials moving to industry (and vice versa) — Bo Hines (White House crypto council director → CEO of Tether's US arm/USAT), Brian Quintenz (Kalshi board; withdrawn CFTC nomination), Mike Selig's and Paul Atkins's prior crypto clients, Jonathan Gould (OCC; ex-Bitfury), David Sacks, SEC/CFTC staff departures to Coinbase, a16z, etc.; plus Trump family business partners placed in government roles. Verify each move with dates, cooling-off/ethics-waiver facts and responses.",
+    "origin": "follow-up",
+    "parents": [
+      "C35",
+      "C25",
+      "C12",
+      "C34"
+    ],
+    "display_title": "The crypto revolving door",
+    "question": "Which administration crypto officials moved to firms they had shaped policy for, or came from them, including Bo Hines's move to Tether?",
+    "topic": "regulators-and-enforcement"
+  },
+  {
+    "id": "C55",
+    "slug": "family-take-estimates",
+    "lines": "",
+    "title": "How much has the Trump family made? Competing totals",
+    "claim": "Leads from C29/C30/C31: estimates of the family's second-term take differ widely — the New Yorker's David Kirkpatrick (~$3.4B cash), Forbes, Bloomberg, Reuters/NYT disclosure tallies ($1.4B crypto / $2.2B income), CREW's foreign-revenue count and 24 foreign projects, Fight Fight Fight's proposed $200M–$1B $TRUMP treasury, and where the gains went (reinvested in stocks/bonds). Establish each estimate's methodology, date, what it includes (cash vs paper), and reconcile them; note the family's own responses.",
+    "origin": "follow-up",
+    "parents": [
+      "C29",
+      "C01",
+      "C31"
+    ],
+    "display_title": "How much has the Trump family made? Competing estimates",
+    "question": "Why do estimates of the Trump family's second-term gains differ so widely, from about $1.4 billion to about $4 billion, and what does each one measure?",
+    "topic": "family-ventures-and-wealth"
+  },
+  {
+    "id": "C56",
+    "slug": "saudi-deals-and-policy",
+    "lines": "",
+    "title": "Saudi Arabia: family deals alongside US policy",
+    "claim": "Leads from C31/C15: Trump-family business with Saudi-linked parties (Dar Global towers, Diriyah, LIV Golf events at Trump courses funded by PIF, Kushner's PIF money, PIF's stake in EA buyout with Affinity) proceeded alongside major US–Saudi government decisions — MBS's Nov 2025 White House visit, F-35 sale approval, civil-nuclear deal talks, AI-chip sales to Humain, major-non-NATO-ally status, Trump's remarks on Khashoggi. Build the dated timeline of business deals vs policy actions, with amounts, and record denials and what, if anything, links them.",
+    "origin": "follow-up",
+    "parents": [
+      "C31",
+      "C15",
+      "C08"
+    ],
+    "display_title": "Saudi Arabia: family deals alongside US policy decisions",
+    "question": "Did Trump-family business with Saudi-linked parties proceed alongside major US-Saudi government decisions such as arms sales and nuclear cooperation?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C57",
+    "slug": "uae-g42-mgx-web",
+    "lines": "",
+    "title": "The UAE network: Tahnoon, G42, MGX and their US deals",
+    "claim": "Leads from C06/C08/C34: map Sheikh Tahnoon's entities and their US-linked deals — Aryam's 49% of World Liberty (board seats for G42's Peng Xiao and lawyer Martin Edelman), MGX (Binance $2B in USD1; Stargate; a stake in the TikTok US joint venture approved by Trump; OpenAI/xAI/Anthropic investments), G42 (chip licences, Microsoft, Stargate UAE campus), a G42 crypto executive reportedly advising WLF, StringZ Holding in WLF's trust bank, ADQ/Lunate in Kushner's Affinity. Verify each link, date and amount; note which US approvals each needed and all denials.",
+    "origin": "follow-up",
+    "parents": [
+      "C06",
+      "C07",
+      "C08",
+      "C12",
+      "C15"
+    ],
+    "display_title": "The UAE network: Tahnoon, G42, MGX and their US deals",
+    "question": "Which entities controlled by Sheikh Tahnoon bin Zayed hold stakes in Trump-family ventures, and what US approvals and deals did those same entities obtain?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C58",
+    "slug": "market-moving-posts-insider-trading",
+    "lines": "",
+    "title": "Market-moving posts and insider-trading allegations",
+    "claim": "Leads from C20/C21/C30/C41: allegations that people traded ahead of Trump's market-moving statements — the 9 April 2025 'THIS IS A GREAT TIME TO BUY' post hours before the tariff pause (options activity, Democrats' requests to the SEC, Trump boasting about friends' gains), well-timed trades before other tariff/Iran/Intel/Fed announcements, prediction-market bets ahead of policy news (e.g. Polymarket/Kalshi wagers before military or pardon announcements), the Intercept/Freedom of the Press Foundation suit over Truth Social-exclusive announcements, Rogan's 'insider trading' remark. Verify what is documented, any investigations, and official responses.",
+    "origin": "follow-up",
+    "parents": [
+      "C20",
+      "C21",
+      "C41",
+      "C25"
+    ],
+    "display_title": "Market-moving presidential posts and insider-trading allegations",
+    "question": "Is there evidence that people traded ahead of Trump's market-moving statements, such as the 9 April 2025 post hours before the tariff pause, and has any regulator investigated?",
+    "topic": "trump-media-and-markets"
+  },
+  {
+    "id": "C59",
+    "slug": "foreign-deals-and-tariffs",
+    "lines": "",
+    "title": "Foreign Trump Organization deals timed with tariff negotiations",
+    "claim": "Leads from C31: outside the Gulf, Trump Organization projects advanced in countries negotiating tariffs or other favours with the administration — Vietnam ($1.5B Hung Yen golf project fast-tracked; Ho Chi Minh tower), Indonesia (MNC/Hary Tanoe resorts), India (multiple licensed towers), Serbia, Georgia, Maldives, Romania, etc. CREW counts ~24 foreign projects. Build the list with dates, counterparties (state-linked?), fees, and the corresponding tariff/policy outcomes; record denials and the second-term ethics pledge's limits.",
+    "origin": "follow-up",
+    "parents": [
+      "C31",
+      "C45"
+    ],
+    "display_title": "Foreign Trump Organization projects and tariff negotiations",
+    "question": "Did Trump Organization projects advance in countries such as Vietnam, Indonesia and India while those countries negotiated tariffs with the administration?",
+    "topic": "foreign-deals"
+  },
+  {
+    "id": "C60",
+    "slug": "critical-minerals-equity-stakes",
+    "lines": "",
+    "title": "Government equity stakes and critical-minerals deals: who was positioned to profit",
+    "claim": "Leads from C26/C47/C50: the administration took equity stakes or gave loans/price floors to companies (MP Materials, Lithium Americas, Trilogy Metals, Vulcan Elements, Intel, USA Rare Earth, others); reporting (e.g. NYT/FT/Bloomberg) says Trump-family or Lutnick-family-linked firms (1789 Capital, Cantor Fitzgerald as banker/investor, Dominari/American Ventures via Skyline–Cove Kaz tungsten) held positions in or advised around a dozen-plus critical-minerals firms that received federal backing. Verify each named instance, timing of investment vs government action, gains, and denials.",
+    "origin": "follow-up",
+    "parents": [
+      "C26",
+      "C47",
+      "C50",
+      "C51"
+    ],
+    "display_title": "Government equity stakes in critical-minerals companies",
+    "question": "When the administration took stakes in or lent to critical-minerals companies, were firms linked to the Trump or Lutnick families positioned to profit?",
+    "topic": "defence-minerals-and-contracts"
+  },
+  {
+    "id": "C61",
+    "slug": "shared-lawyers-and-law-firms",
+    "lines": "",
+    "title": "Shared lawyers and law firms across the deals",
+    "claim": "Connection hunt: lawyers and law firms that recur across Trump-family ventures, their counterparties and the government — e.g. Teresa Goody Guillén/BakerHostetler (World Liberty and the Binance/CZ pardon effort), Paul Hastings (SPAC filing), Alejandro Brito (settlement escrow), Jacob Roth and James Kiley (library entities), Chad Mizelle (Kushner; ex-DOJ chief of staff), Martin Edelman (G42/WLF board; adviser to UAE royals), Clare Locke, Sullivan & Cromwell, Todd Blanche's and Pam Bondi's former clients, ethics counsel who signed waivers (David Warrington). Find every overlap and prior tie.",
+    "origin": "connection-hunt",
+    "parents": [],
+    "display_title": "Lawyers and law firms that recur across the deals",
+    "question": "Which lawyers and law firms appear repeatedly across Trump-family ventures, their counterparties and the government?",
+    "topic": "pardons-lobbyists-and-access"
+  },
+  {
+    "id": "C62",
+    "slug": "financiers-custodians-underwriters",
+    "lines": "",
+    "title": "The financiers, custodians and underwriters behind the vehicles",
+    "claim": "Connection hunt: financial intermediaries that recur across Trump-linked vehicles and also have matters before Trump-appointed regulators — Yorkville Advisors/Yorkville America (TMTG ETFs, CRO SPAC, TMTG financing), Dominari, Cantor Fitzgerald, Anchorage Digital, BitGo (USD1 custody; Craft stake; OCC charter), Jane Street, DRW/Cumberland, Jump, Galaxy, Kraken, Crypto.com, DWF Labs, Web3Port, Hut 8, Tuttle Capital, Clear Street, plus who received OCC charters, SEC dismissals or CFTC relief in the same period. Map who financed what and which regulator decisions each obtained.",
+    "origin": "connection-hunt",
+    "parents": [],
+    "display_title": "The financiers, custodians and underwriters behind Trump-linked vehicles",
+    "question": "Which financial intermediaries recur across Trump-linked vehicles, and did they have matters before Trump-appointed regulators in the same period?",
+    "topic": "trump-media-and-markets"
+  },
+  {
+    "id": "C63",
+    "slug": "shell-entities-ownership-chains",
+    "lines": "",
+    "title": "Shell entities and ownership chains",
+    "claim": "Connection hunt: the LLCs, trusts and offshore vehicles in this story and who sits behind them — CIC Digital, CIC Ventures, Fight Fight Fight, Celebration Cards, DT Marks DEFI, DT Marks entities generally, WLTC Holdings, StringZ Holding RSC, Aryam Investment 1, MKT World, Designers Manager, Dynasty Trust A, Atlantic Incubation Partners, Axiom Management, American Ventures SPVs, the Donald J. Trump Revocable Trust (trustees), Trump Media Group CRO Strategy, T1/Trump Mobile licensees. Trace registered agents, officers, addresses, formation dates relative to deals, and any overlaps between them.",
+    "origin": "connection-hunt",
+    "parents": [],
+    "display_title": "Shell entities and ownership chains",
+    "question": "Who sits behind the LLCs, trusts and offshore vehicles used in the Trump family's ventures and by their counterparties?",
+    "topic": "family-ventures-and-wealth"
+  },
+  {
+    "id": "C64",
+    "slug": "lobbyists-and-fixers-network",
+    "lines": "",
+    "title": "Lobbyists and fixers: who gets paid to reach the White House",
+    "claim": "Connection hunt: the lobbying and access layer — Ballard Partners (Brian Ballard; former employer of AG Pam Bondi and chief of staff Susie Wiles; clients incl. Qatar, crypto firms, foreign governments), Mercury, Miller Strategies, Checkmate/Ches McDowell, Continental Strategy (Carlos Trujillo), Roger Stone, Keith Schiller, Corey Lewandowski, Jason Miller/Kash Patel's former foreign clients, Arthur Schwartz. Find which clients in this project hired them, fees, the dates versus outcomes, and officials' prior client relationships with beneficiaries (e.g. Bondi's Qatar work before the jet memo).",
+    "origin": "connection-hunt",
+    "parents": [],
+    "display_title": "Lobbyists and intermediaries with White House access",
+    "question": "Which lobbying firms and intermediaries are paid to reach the White House, who are their clients, and what ties do they have to senior officials?",
+    "topic": "pardons-lobbyists-and-access"
+  },
+  {
+    "id": "C65",
+    "slug": "officials-prior-ties-to-beneficiaries",
+    "lines": "",
+    "title": "Officials who decided matters involving their former clients or partners",
+    "claim": "Connection hunt: administration officials whose decisions benefited entities they previously worked for, invested in or were paid by — Pam Bondi (Ballard/Qatar; legal memo on the jet), Todd Blanche (NCET memo; crypto holdings disclosed), Paul Atkins (Patomak crypto clients; holdings), Mike Selig, Jonathan Gould, Brian Quintenz, Howard Lutnick, David Sacks, Scott Bessent, Kash Patel, Pete Hegseth's office and Office of Strategic Capital leadership, Peter Navarro (Vulcan), Michael Kratsios, Steve Witkoff, Charles Kushner (ambassador to France), Massad Boulos (Africa adviser), Tom Barrack (ambassador to Turkey/Syria envoy; Gulf investor ties). Establish holdings/recusals/waivers and specific decisions.",
+    "origin": "connection-hunt",
+    "parents": [],
+    "display_title": "Officials who decided matters involving former clients or partners",
+    "question": "Which administration officials took decisions that affected entities they had previously worked for, invested in or been paid by?",
+    "topic": "regulators-and-enforcement"
+  },
+  {
+    "id": "C66",
+    "slug": "extended-family-ventures",
+    "lines": "",
+    "title": "The extended family: Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka",
+    "claim": "Connection hunt beyond Don Jr., Eric, Melania and Jared: Massad Boulos (Tiffany's father-in-law; senior Africa/Arab adviser) and Michael Boulos's business activity incl. minerals/Congo deals and library trustee role; Charles Kushner (pardoned; ambassador) and Kushner Companies' foreign financing; Josh Kushner/Thrive Capital's stakes (OpenAI, Stargate beneficiaries, Kalshi/Polymarket?); Lara Trump (Fox show, ventures); Barron Trump's WLF stake and reported ventures; Ivanka; Kai Trump endorsements; in-laws given roles. Establish each person's ventures that depend on government decisions.",
+    "origin": "connection-hunt",
+    "parents": [],
+    "display_title": "The extended family's ventures and roles",
+    "question": "What business interests and government roles do the Boulos family, the Kushner seniors, Lara, Tiffany, Barron and Ivanka Trump hold?",
+    "topic": "family-ventures-and-wealth"
+  },
+  {
+    "id": "C67",
+    "slug": "multi-vehicle-investors",
+    "lines": "",
+    "title": "Investors who show up in several Trump-family vehicles",
+    "claim": "Connection hunt: parties that put money into more than one Trump-family venture or bought several products — Justin Sun (WLF, top $TRUMP holder/dinner, Tron via Dominari), DWF Labs, Web3Port, Oddiyana, Aqua 1 (UAE fund that bought $100M WLFI), MGX/Aryam, Hut 8, Crypto.com, Jump, Kraken, GD Culture Group and other foreign/Chinese-linked $TRUMP treasury buyers, Bill Zanker, Gulf developers, 1789 LPs, attendees of the $TRUMP dinner who had regulatory matters. Identify every repeat investor, their nationality/state links, amounts, and any US government decision affecting them afterwards.",
+    "origin": "connection-hunt",
+    "parents": [],
+    "display_title": "Investors who appear in several Trump-family vehicles",
+    "question": "Which investors put money into more than one Trump-family venture, and how well documented is each case?",
+    "topic": "crypto-ventures"
+  },
+  {
+    "id": "C68",
+    "slug": "ellison-musk-tech-nexus",
+    "lines": "",
+    "title": "The tech-billionaire nexus: Ellison, Musk, Altman, Zuckerberg, Bezos",
+    "claim": "Connection hunt: tech principals who are simultaneously counterparties of the Trump family and beneficiaries of administration decisions — Larry/David Ellison (Oracle in Stargate and the TikTok US joint venture alongside MGX; Skydance–Paramount approval after the settlement; Warner bid), Elon Musk (xAI/SpaceX in 1789's portfolio; DOGE; contracts), Sam Altman/OpenAI (Stargate; MGX; Thrive/Josh Kushner), Zuckerberg/Meta (settlement), Bezos/Amazon (documentary), Nvidia/Jensen Huang (chips to UAE/Saudi/China; ballroom?), Andreessen Horowitz, Peter Thiel/Palantir (Trump's PLTR trades; contracts), Microsoft. Map each money flow to the family and each government decision, with dates.",
+    "origin": "connection-hunt",
+    "parents": [],
+    "display_title": "Tech billionaires as counterparties and beneficiaries",
+    "question": "Did tech principals such as the Ellisons, Elon Musk, Sam Altman, Mark Zuckerberg and Jeff Bezos pay Trump, his family or his projects while receiving federal decisions in their favour?",
+    "topic": "tech-and-media-companies"
+  },
+  {
+    "id": "C69",
+    "slug": "master-timeline-proximity",
+    "lines": "",
+    "title": "Master timeline: money events versus government actions",
+    "claim": "Connection hunt by data analysis: from every `data/claims/*.json` (relationships with dates, sub-claim findings) and research report, build one dated master timeline of (a) money or benefits flowing to Trump-family-linked entities and (b) official acts (dismissals, pardons, approvals, licences, contracts, appointments, executive orders, sales). Write it to the report as a table, then identify pairs involving the same counterparty within 45 days of each other that the individual reports did not connect, verify the dates of the 15 closest pairs with fresh searches, and present them graded as `inferred` timing proximity unless a source asserts a link. Also list proximities that look suspicious but have an innocent documented explanation.",
+    "origin": "connection-hunt",
+    "parents": [],
+    "display_title": "Master timeline: money events and government actions",
+    "question": "When payments to Trump-family-linked entities and official acts involving the same counterparty are placed on one timeline, how close together do they fall?",
+    "topic": "family-ventures-and-wealth"
+  },
+  {
+    "id": "C70",
+    "slug": "foreign-intermediaries-us-benefits",
+    "lines": "",
+    "title": "Foreign intermediaries: what each partner got from Washington",
+    "claim": "Connection hunt: the foreign business partners of the Trump family and what their countries or companies obtained from the US government in the same period — Hussain Sajwani/Damac ($20B data-centre pledge; Trump licence fees), Dar Global/Dar Al Arkan (Saudi), Qatari Diar/QIA, Hary Tanoesoedibjo/MNC (Indonesia tariff deal), Kinh Bac/Vietnam (tariffs), Indian licensees (Tribeca/Mehta), Aryam/MGX/G42 (chips), Binance/CZ (pardon), Bilt? Serbian and Albanian governments, Pakistan (WLF deal with Pakistan Crypto Council; tariff/treatment; Powerus order), El Salvador, Azerbaijan, Kazakhstan (tungsten), Japan's Metaplanet/SoftBank. For each: the deal with the family, date, value, and the US decision, with denials.",
+    "origin": "connection-hunt",
+    "parents": [],
+    "display_title": "What the Trump family's foreign partners obtained from Washington",
+    "question": "What did the Trump family's foreign business partners, or their countries, obtain from the US government in the same period?",
+    "topic": "foreign-deals"
+  },
+  {
+    "id": "C71",
+    "slug": "wlfi-foreign-buyers-zhou-web3port",
+    "lines": "",
+    "title": "Who actually bought World Liberty tokens: Zhou, Web3Port, Aqua 1 and foreign wallets",
+    "claim": "Second-layer hunt from C67/C42: the NYT reported that Web3Port and 'UAE fund' Aqua 1 ($100M WLFI purchase) trace to Chinese businessman Guren 'Bobby' Zhou (arrested in the UK in 2021 on suspicion of money laundering; uncharged); Web3Port's role in the MOVE token dump and WLF's own MOVE purchases; Reuters' finding that 36 of the 50 largest WLFI wallets are likely foreign-controlled (~$804M); DWF Labs; who funded the purchases; whether any US agency (CFIUS, Treasury, SEC) reviewed them; how much flowed to Trump-family entities per purchase.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C67",
+      "C42",
+      "C04"
+    ],
+    "display_title": "Who bought World Liberty tokens",
+    "question": "Who were the large buyers of World Liberty's WLFI tokens, including Web3Port and Aqua 1, and how many of the top wallets are foreign?",
+    "topic": "crypto-ventures"
+  },
+  {
+    "id": "C72",
+    "slug": "pakistan-wlf-lobbyists-minerals",
+    "lines": "",
+    "title": "Pakistan: World Liberty deal, Trump-tied lobbyists, minerals and tariffs",
+    "claim": "Second-layer hunt from C64/C70: in April-May 2025 Pakistan hired Trump-tied lobbyists (Javelin Advisors/Keith Schiller and George Sorial, Seiden Law, Checkmate) as WLF's founders signed a letter of intent with the Pakistan Crypto Council (26 Apr 2025; its CEO Bilal bin Saqib became a WLF adviser) days after the Pahalgam attack; then the India-Pakistan ceasefire, Field Marshal Munir's White House lunch (18 Jun 2025), a US-Pakistan trade/oil deal and 19% tariff, minerals deals (USSM), a Jan 2026 USD1 payments agreement, and a reported Powerus drone order. Build the dated chain, name every intermediary, and grade each link.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C64",
+      "C67",
+      "C51"
+    ],
+    "display_title": "Pakistan: a World Liberty deal, lobbyists, minerals and tariffs",
+    "question": "Did Pakistan hire Trump-connected lobbyists and sign a letter of intent with World Liberty Financial in the weeks before it obtained a tariff deal and a minerals agreement?",
+    "topic": "foreign-deals"
+  },
+  {
+    "id": "C73",
+    "slug": "qatar-access-network",
+    "lines": "",
+    "title": "Qatar's access network inside and around the administration",
+    "claim": "Second-layer hunt from C61/C64/C65/C53/C16: map every documented Qatari financial or client tie to people now in or around the administration — Pam Bondi (Ballard FARA work), Kash Patel (embassy consulting), Bernard Kerik (hired Apr 2025), Susie Wiles (Mercury), Steve Witkoff (Park Lane sale to QIA; Apollo-run trust partly owned by Qatar putting $100M into Witkoff Group in 2025), Jared Kushner (QIA in Affinity; 666 Fifth history), Tom Barrack (Qatar's UCC in the pipeline consortium), Trump Organization (Qatari Diar golf), Newsmax/other media investments — against US decisions benefiting Qatar (jet acceptance, security guarantee executive order of Oct 2025, arms sales, Al Udeid, air-force facility in Idaho). Dated, graded.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C16",
+      "C53",
+      "C61",
+      "C64",
+      "C65"
+    ],
+    "display_title": "Qatar's ties to people in and around the administration",
+    "question": "Which people in or around the administration have documented Qatari financial or client ties, and what decisions on Qatar did they take part in?",
+    "topic": "pardons-lobbyists-and-access"
+  },
+  {
+    "id": "C74",
+    "slug": "pentagon-cerberus-investment-offices",
+    "lines": "",
+    "title": "Pentagon investment offices: Cerberus alumni, no-bid contracts and the Trump sons' SPAC underwriter",
+    "claim": "Second-layer hunt from C65/C51/C26: Deputy Secretary Stephen Feinberg (Cerberus co-founder) and ex-Cerberus officials running the Office of Strategic Capital (David Lorch) and related offices (George Kollitides); Alvarez & Marsal's no-bid contracts (up to ~$350M); Cerberus-linked firms winning Golden Dome work; Kollitides' board seat at D. Boral Acquisition I, whose affiliate co-underwrote the Trump sons' New America SPAC; OSC loans to Vulcan (1789), Neros, PDW and talks with Unusual Machines (Don Jr.). Verify each role, date and contract and whether any recusal exists.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C65",
+      "C51",
+      "C26",
+      "C47"
+    ],
+    "display_title": "Pentagon investment offices, Cerberus alumni and no-bid contracts",
+    "question": "Are Pentagon investment offices run by former Cerberus executives, did Alvarez & Marsal receive no-bid contracts, and how do those offices connect to firms tied to the Trump sons?",
+    "topic": "defence-minerals-and-contracts"
+  },
+  {
+    "id": "C75",
+    "slug": "congo-minerals-boulos-beach",
+    "lines": "",
+    "title": "Congo minerals diplomacy: Boulos, Gentry Beach and the firms that benefited",
+    "claim": "Second-layer hunt from C66/C65/C60: Massad Boulos led US minerals-for-security talks with DRC and Rwanda (peace accord June/Dec 2025); Gentry Beach (Don Jr. friend and fundraiser; America First Global) reportedly sought DRC mining assets (e.g. Rubaya coltan, Chemaf) and Pakistan/other deals; Reuters reported a US firm in a key Congo minerals deal overstated its mining experience; Nigeria's UBA financing; KoBold, Orion, Erik Prince's security deal with DRC. Identify who got or sought which asset, their ties to the Trump family, dates, and denials.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C66",
+      "C65",
+      "C60"
+    ],
+    "display_title": "Congo minerals diplomacy: Massad Boulos and Gentry Beach",
+    "question": "Did US minerals-for-security diplomacy in Congo, led by Massad Boulos, coincide with attempts by associates of Donald Trump Jr. to acquire Congolese mining assets?",
+    "topic": "defence-minerals-and-contracts"
+  },
+  {
+    "id": "C76",
+    "slug": "russia-linked-ties",
+    "lines": "",
+    "title": "Russia-linked money around the family and envoys",
+    "claim": "Second-layer hunt from C53/C66/C37: reported Russia-linked ties — Steve Witkoff's undisclosed real-estate tie to Len Blavatnik during Russia talks; a Russian oligarch reportedly funding Don Jr.'s wedding parties; Kirill Dmitriev (RDIF) dealings with Witkoff and Kushner and proposed US-Russia business deals in the peace plan (WSJ 'make money not war' reporting); Kimberly Guilfoyle (ambassador to Greece) pay-to-play allegation; any Trump Organization or WLF buyers from Russia. Treat single-source reports as such; record denials.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C53",
+      "C66",
+      "C37",
+      "C15"
+    ],
+    "display_title": "Russia-linked money around the family and the envoys",
+    "question": "What Russia-linked financial ties to the Trump family and to envoys Steve Witkoff and Jared Kushner have been reported, and how direct are they?",
+    "topic": "foreign-deals"
+  },
+  {
+    "id": "C77",
+    "slug": "greenland-seabed-rare-earth-stakes",
+    "lines": "",
+    "title": "Greenland, the seabed and rare earths: Cantor-linked firms before Lutnick's department",
+    "claim": "Second-layer hunt from C60/C50: Critical Metals' Tanbreez project in Greenland (Cantor stake; US government stake talks; Trump's Greenland push); The Metals Company's NOAA deep-sea mining permits under Lutnick's Commerce (Cantor as banker; recusal?); USA Rare Earth's Cantor-placed $1.5B PIPE the day of a $1.6B Commerce letter of intent and which Trump allies got shares; Perpetua's EXIM loan. Verify stakes, dates, recusals and gains.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C60",
+      "C50",
+      "C35"
+    ],
+    "display_title": "Greenland, seabed mining and rare earths: Cantor-linked firms and the Commerce Department",
+    "question": "Did companies in which Cantor Fitzgerald held stakes or acted as banker obtain support or permits from the Commerce Department under Howard Lutnick, and did he recuse himself?",
+    "topic": "defence-minerals-and-contracts"
+  },
+  {
+    "id": "C78",
+    "slug": "spac-web-mcgurn-clear-street",
+    "lines": "",
+    "title": "The SPAC web: McGurn, Yorkville, Texas Ventures, Clear Street",
+    "claim": "Second-layer hunt from C62/C27/C41: Kevin McGurn runs several blank-cheque vehicles tied to the Trump family (Yorkville Acquisition, New America Acquisition I, reportedly Texas Ventures Acquisition III with Trump Organization and TMTG directors) while interim CEO of TMTG; Clear Street's role across crypto-treasury deals and its IPO; D. Boral, Dominari and Yorkville as recurring sponsors/underwriters; founder-share economics for the Trump sons; SEC review status of each vehicle and of the Truth Social crypto ETFs. Map every vehicle, its insiders, money raised and target.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C62",
+      "C27",
+      "C41",
+      "C39"
+    ],
+    "display_title": "The blank-cheque companies run by Trump Media's interim chief",
+    "question": "How many blank-cheque companies tied to the Trump family does Kevin McGurn run while serving as Trump Media's interim CEO, and what roles do Yorkville and Clear Street play?",
+    "topic": "trump-media-and-markets"
+  },
+  {
+    "id": "C79",
+    "slug": "georgia-korea-maldives-foreign-layers",
+    "lines": "",
+    "title": "Lesser-known foreign layers: Tbilisi, South Korea, Maldives tokens, Vietnam trademarks",
+    "claim": "Second-layer hunt from C59: Trump Tower Tbilisi on land reportedly sold by a fund linked to sanctioned oligarch Bidzina Ivanishvili's family (and US Georgia policy since); a reported ~$2M payment to Trump from a South Korean firm facing a US trade investigation (unverified aggregator lead — confirm or discard); Dar Global's tokenised Maldives Trump resort marketed to US retail investors and discussed with the SEC; Trump trademark filings in Vietnam after the tariff deal; displaced Vietnamese farmers at Hung Yen. Verify each, date it, and note the corresponding US decision if any.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C59",
+      "C31"
+    ],
+    "display_title": "Lesser-known foreign projects: Tbilisi, South Korea, the Maldives and Vietnam",
+    "question": "What is documented about Trump Tower Tbilisi, a $2 million payment from a South Korean firm facing a US trade case, tokenised property in the Maldives and Trump trademarks in Vietnam?",
+    "topic": "foreign-deals"
+  },
+  {
+    "id": "C80",
+    "slug": "pif-golf-ea-data-centres",
+    "lines": "",
+    "title": "Sovereign-fund megadeals needing US sign-off: PGA–PIF, EA, Aligned, G42",
+    "claim": "Second-layer hunt from C56/C57: Trump's personal role in brokering PGA Tour–PIF talks at the White House while LIV plays Trump courses; the identity of LIV's new lead investor; CFIUS handling of the $55B EA buyout (PIF, Silver Lake, Kushner's Affinity); MGX's part in the $40B Aligned Data Centers takeover (with BlackRock/GIP, Nvidia, Microsoft); G42's reported reincorporation as a US company and the UAE's 2026 export-control upgrade; Lunate taking over G42's China fund. Verify what approvals were needed, who decided, and outcomes.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C56",
+      "C57",
+      "C15"
+    ],
+    "display_title": "Sovereign-fund megadeals that need US approval",
+    "question": "What role did Trump and US regulators play in the PGA Tour-PIF talks, the $55 billion EA buyout, the Aligned Data Centers takeover and G42's deals?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C81",
+    "slug": "gsa-thrive-databricks",
+    "lines": "",
+    "title": "A federal procurement chief, Thrive Capital and sole-source awards",
+    "claim": "Second-layer hunt from C66: GSA Federal Acquisition Service commissioner Josh Gruenbaum (ex-KKR) reportedly invested in a Josh Kushner Thrive Capital fund while courting Thrive-backed Ramp for the ~$700B SmartPay programme and awarding Thrive-backed Databricks a sole-source contract (WSJ); OneGov deals with OpenAI, Anthropic and others in which Thrive holds stakes; ProPublica and Rep. Connolly's probe. Verify holdings, awards, dates, amounts and denials; note any family link beyond Josh Kushner.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C66",
+      "C68"
+    ],
+    "display_title": "A federal procurement chief, Thrive Capital and sole-source awards",
+    "question": "Did the head of the GSA's Federal Acquisition Service invest in a Thrive Capital fund while his office dealt with Thrive-backed companies such as Ramp and Databricks?",
+    "topic": "tech-and-media-companies"
+  },
+  {
+    "id": "C82",
+    "slug": "abu-dhabi-entities-stringz-delaware",
+    "lines": "",
+    "title": "Abu Dhabi layers: unannounced Trump licensing entities, StringZ and the Delaware referral",
+    "claim": "Second-layer hunt from C63/C57: Delaware 'DT Marks Abu Dhabi' / 'Al Raha Beach' entities formed for an unannounced Trump Organization project in Abu Dhabi; whether StringZ Holding RSC appears on the ADGM register and shares officers or addresses with Aryam Investment 1; Rep. Khanna's referral to the Delaware US Attorney about the Emirati WLF investor; Warren/Kim's CFIUS request and its outcome; Eric Trump's statements about Abu Dhabi. Establish formation dates relative to the Aryam (Jan 2025) and StringZ deals and grade each link.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C63",
+      "C57",
+      "C06",
+      "C12"
+    ],
+    "display_title": "Abu Dhabi: unannounced Trump licensing entities and StringZ",
+    "question": "Were Trump licensing entities for an unannounced Abu Dhabi project formed days after the Tahnoon-backed World Liberty deal, and what links StringZ Holding to Aryam Investment 1?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C83",
+    "slug": "schiller-sorial-ventures",
+    "lines": "",
+    "title": "Keith Schiller and George Sorial: the ex-bodyguard and ex-executive across deals",
+    "claim": "Third-layer hunt: Trump's former bodyguard Keith Schiller and former Trump Organization EVP George Sorial recur in separate claims — Javelin Advisors (Pakistan minerals lobbying; $1M from Fred Daibes for a failed pardon bid), GreenMet (Tanbreez, Greenland), and possibly others. Map every client, fee, FARA/LDA filing, company stake and official meeting since Nov 2024, their White House access, and which US decisions touched their clients. Grade every link.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C64",
+      "C72",
+      "C77",
+      "C49"
+    ],
+    "display_title": "Keith Schiller and George Sorial's lobbying clients",
+    "question": "Which clients have paid Javelin Advisors, the firm of Trump's former bodyguard Keith Schiller and former Trump Organization executive George Sorial, and for what?",
+    "topic": "pardons-lobbyists-and-access"
+  },
+  {
+    "id": "C84",
+    "slug": "heritage-advisors-sultan-bin-jassim",
+    "lines": "",
+    "title": "Heritage Advisors and Sheikh Sultan bin Jassim: one Qatari fund across three stories",
+    "claim": "Third-layer hunt: Heritage Advisors (London; Sheikh Sultan bin Jassim Al Thani) paid consulting income to Lee Zeldin, invested ~$50M in Newsmax, and was the Qatari investor in the Menendez–Daibes case; Daibes later paid Javelin Advisors $1M for a pardon bid. Establish the fund's other US investments and relationships, Newsmax's dealings with the administration (FCC, defamation settlements, IPO), Zeldin's disclosures and any EPA matters involving Qatari interests, and whether any source connects these threads.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C73",
+      "C64"
+    ],
+    "display_title": "Heritage Advisors and Sheikh Sultan bin Jassim",
+    "question": "Did one Qatari fund pay consulting income to Lee Zeldin, take a large stake in Newsmax and act as the investor in the Menendez-Daibes case?",
+    "topic": "pardons-lobbyists-and-access"
+  },
+  {
+    "id": "C85",
+    "slug": "yorkville-spac-vehicles",
+    "lines": "",
+    "title": "Yorkville's blank-cheque vehicles: Venezuela, Blue Water III and PlusAI",
+    "claim": "Third-layer hunt from C78: Yorkville International Capital (Latin America/Venezuela focus; Wyden inquiry on sanctions licences) against the administration's Venezuela policy and oil licences since the Maduro raid; Blue Water Acquisition Corp III (previously bid ~$10B for Citgo's parent; now staffed with TMTG people) and the Citgo auction outcome; Texas Ventures Acquisition III's merger with PlusAI (self-driving trucks; federal AV rules; Trump Organization executives on the board); who holds founder shares in each and what they are worth. Verify and grade.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C78",
+      "C62"
+    ],
+    "display_title": "Yorkville's blank-cheque vehicles: Venezuela, Blue Water III and PlusAI",
+    "question": "What do Yorkville's blank-cheque companies target, what are the sponsors' founder stakes worth, and how do they relate to US policy on Venezuela?",
+    "topic": "trump-media-and-markets"
+  },
+  {
+    "id": "C86",
+    "slug": "paulson-and-donor-holdings-federal-backing",
+    "lines": "",
+    "title": "Trump mega-donors holding stakes in companies that received federal backing",
+    "claim": "Third-layer hunt from C77: John Paulson (Perpetua Resources EXIM loan; Trilogy Metals gain when the US took a stake), and other major Trump donors/fundraisers whose portfolio companies got federal equity stakes, loans or price floors in 2025-26 (e.g. Schwarzman, Griffin and Cohen in the USA Rare Earth placement per senators; Todd Boehly; Howard Lutnick's circle; Harold Hamm; Kelcy Warren; Jeff Yass/TikTok). For each: donation amounts and dates, holding and when acquired, the federal action, paper or realised gain, and denials.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C77",
+      "C60"
+    ],
+    "display_title": "Major Trump donors with stakes in federally backed companies",
+    "question": "Did major Trump donors such as John Paulson hold stakes in companies that received federal loans, equity stakes or price floors?",
+    "topic": "defence-minerals-and-contracts"
+  },
+  {
+    "id": "C87",
+    "slug": "silver-lake-recurring-coinvestor",
+    "lines": "",
+    "title": "Silver Lake: the co-investor on both the Saudi-Kushner and Abu Dhabi sides",
+    "claim": "Third-layer hunt from C68/C80: Silver Lake is a partner in the EA buyout (with PIF and Kushner's Affinity), the TikTok US joint venture (with Oracle and MGX), and has ties to G42 and Mubadala. Map Silver Lake's deals that needed US government approval in 2025-26, its principals' political donations and administration ties (Egon Durban), its relationship with Affinity, Mubadala's stake in Silver Lake, and any reporting that connects these. Grade every link.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C68",
+      "C80",
+      "C57"
+    ],
+    "display_title": "Silver Lake: a co-investor with both Saudi and Abu Dhabi funds",
+    "question": "Is Silver Lake a partner in the EA buyout with PIF and Kushner's Affinity and in the TikTok US joint venture with MGX, and which of its deals needed US government approval?",
+    "topic": "tech-and-media-companies"
+  },
+  {
+    "id": "C88",
+    "slug": "damac-sajwani-abu-dhabi-projects",
+    "lines": "",
+    "title": "Damac and Hussain Sajwani: fees for unannounced projects and the data-centre pledge",
+    "claim": "Third-layer hunt from C70/C82: Damac's $10M+ of 2025 licence fees for unannounced Trump Organization projects in Abu Dhabi; Sajwani's $20B US data-centre pledge announced with Trump on 7 Jan 2025 and what has actually been built (Edgnex), federal permitting or energy decisions benefiting those sites, the long Trump–Sajwani relationship (Dubai golf, New Year's Eve at Mar-a-Lago), other Sajwani family dealings with Trump-linked ventures (crypto, WLF, $TRUMP), and Damac's statements. Verify, date and grade.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C70",
+      "C82",
+      "C31"
+    ],
+    "display_title": "Damac and Hussain Sajwani: licence fees and a data-centre pledge",
+    "question": "Did Damac pay about $10 million in 2025 to Trump licensing entities for projects that have not been announced, and what became of Hussain Sajwani's $20 billion US data-centre pledge?",
+    "topic": "gulf-money"
+  },
+  {
+    "id": "C89",
+    "slug": "hungary-serbia-unannounced-deals",
+    "lines": "",
+    "title": "Unannounced Trump Organization deals: Hungary, Serbia and others in the filings",
+    "claim": "Third-layer hunt from C82/C45: Forbes's reading of Trump's disclosures and state filings points to new DT Marks entities for deals not publicly announced (Hungary, Serbia, others). Identify every DT Marks / DTTM entity formed since Nov 2024, the country, partner and fee, and line them up against US policy toward that country (Hungary: Orbán relationship, sanctions waiver on Russian energy, currency-swap/financial shield talks; Serbia: NIS sanctions, Belgrade project). Grade each.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C82",
+      "C45",
+      "C59"
+    ],
+    "display_title": "Unannounced Trump Organization deals in Hungary and Serbia",
+    "question": "Do corporate filings point to Trump Organization deals in Hungary and Serbia that have not been announced, and is any partner or fee known?",
+    "topic": "foreign-deals"
+  },
+  {
+    "id": "C90",
+    "slug": "wlf-token-swaps-and-risky-partners",
+    "lines": "",
+    "title": "World Liberty's token-swap pitch and partners with sanctions or fraud links",
+    "claim": "Third-layer hunt from C71: Blockworks reported WLF pitched crypto projects a swap (they buy WLFI plus a fee; WLF buys their token) — identify each WLF treasury purchase (MOVE, TRX, ONDO, ENA, SEI, AVAX, MNT, etc.) and whether the project bought WLFI around the same time; WLF partner AB / AB DAO and people later sanctioned with Cambodia's Prince Group (May 2026 Senate letter); the sale to a wallet using the sanctioned ruble stablecoin A7A5; Reuters on Nobitex using Tron and Binance rails; USD1 on Tron; WLF's KYC claims. Verify each and grade.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C71",
+      "C42",
+      "C67"
+    ],
+    "display_title": "World Liberty's token-swap pitch and its partners",
+    "question": "Did World Liberty Financial offer crypto projects a deal in which each side bought the other's tokens, and do any of its partners have links to sanctions or fraud cases?",
+    "topic": "crypto-ventures"
+  },
+  {
+    "id": "C91",
+    "slug": "dominari-insider-timing",
+    "lines": "",
+    "title": "Dominari: option grants, pre-announcement trading and the Trump sons' arrival",
+    "claim": "Third-layer hunt from C39: an analysis alleges Dominari CEO Anthony Hayes and president Kyle Wool were granted 10M options on 10 Feb 2025, the day before the Trump sons' advisory roles were announced; the stock rose ~530-580% in the six weeks before the announcement; executives were paid ~$66M for 2025. Check the proxy statement and Form 4s (via coverage), who traded before the announcement, any SEC/FINRA/exchange inquiry, shareholder suits, and similar pre-announcement run-ups at Unusual Machines, Thumzup, American Bitcoin's predecessor (Gryphon) and SRM/Tron. Grade each finding.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C39",
+      "C47",
+      "C78"
+    ],
+    "display_title": "Dominari: option grants and trading before the Trump sons' arrival",
+    "question": "Were Dominari's top executives granted 10 million options the day before the Trump sons' advisory roles were announced, and how did the stock trade in the weeks before?",
+    "topic": "family-ventures-and-wealth"
+  },
+  {
+    "id": "C92",
+    "slug": "ballroom-donor-list-full",
+    "lines": "",
+    "title": "The ballroom donor list in full: who gave, what they had pending",
+    "claim": "Third-layer hunt from C33/C68/C69: the White House's Oct 2025 donor list and the Washington Post's leaked spreadsheet (Oct 2026) with pledge amounts (Nvidia $25M, Ergen $25M, Microsoft, Palantir, Lockheed $10M each, Meta, Amazon $5M, crypto firms, Tether, Winklevoss twins, etc.). Build the full table: donor, amount, date if known, anonymity requests, and each donor's significant matter before the federal government within six months either side (contracts, mergers, enforcement, licences, tariffs). Note where timing cuts against a favour reading. Grade each row.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C33",
+      "C68",
+      "C69"
+    ],
+    "display_title": "The White House ballroom donor list",
+    "question": "Who donated to the White House ballroom, how much did each reportedly give, and what business did they have pending before the federal government?",
+    "topic": "tech-and-media-companies"
+  },
+  {
+    "id": "C93",
+    "slug": "kremlev-iba-and-olympic-boxing",
+    "lines": "",
+    "title": "Umar Kremlev, the IBA and US decisions on boxing and Russia",
+    "claim": "Third-layer hunt from C76: Umar Kremlev (Russian head of the International Boxing Association) paid for parts of Don Jr.'s May 2026 wedding weekend via a Dubai entity. Establish Kremlev's and the IBA's interests before the US government (IOC/LA 2028 boxing governance, sanctions exposure, Gazprom sponsorship history, visas, Trump's executive order on Olympic sports or boxing commission proposals, Dana White/TKO boxing league and the Muhammad Ali Act revision), his other contacts with the Trump family, and all responses. Single-source items labelled; nothing asserted beyond the record.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C76"
+    ],
+    "display_title": "Umar Kremlev, the International Boxing Association and US decisions",
+    "question": "Did the Russian head of the International Boxing Association pay for parts of Donald Trump Jr.'s wedding celebrations, and what interests does the association have before the US government?",
+    "topic": "foreign-deals"
+  },
+  {
+    "id": "C94",
+    "slug": "lukoil-boehly-consortium",
+    "lines": "",
+    "title": "The Lukoil foreign-assets sale: Boehly's consortium and who is in it",
+    "claim": "Third-layer hunt from C76: the bidding for sanctioned Lukoil's ~$20B foreign assets — bidders (Carlyle, Gunvor's withdrawn bid, a consortium led by Trump donor Todd Boehly reportedly including Tahnoon's IHC, the Al-Khayyat brothers and the US development finance agency), OFAC licences and deadlines, the reported Putin–Witkoff–Kushner discussion, each bidder's ties to the Trump family or administration, and the outcome through Nov 2026. Grade each link.",
+    "origin": "connection-hunt",
+    "parents": [
+      "C76",
+      "C57"
+    ],
+    "display_title": "The sale of Lukoil's foreign assets and the Boehly consortium",
+    "question": "Who is bidding for sanctioned Lukoil's foreign assets, who is in the consortium led by Trump donor Todd Boehly, and what role does the US government play in the sale?",
+    "topic": "foreign-deals"
+  }
 ]

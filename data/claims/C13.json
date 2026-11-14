@@ -78,8 +78,8 @@
     }
   ],
   "corrections": [
-    "The transcript says 'when World Liberty went to the stock markets'. In fact ALT5 Sigma, an already-listed Nasdaq company, raised up to $1.5B, with WLF as lead investor contributing about $750M in WLFI tokens. The other roughly $750M was cash from outside investors.",
-    "The transcript says ALT5 is 'run by the same people who run World Liberty Financial'. WLF insiders sit on ALT5's board (Zach Witkoff is chairman; Eric Trump and Zak Folkman are director or observer), but its CEOs (Tassiopoulos, Hugh, Tony Isaac) were not WLF executives.",
+    "Claimed: World Liberty 'went to the stock markets'. The record shows: ALT5 Sigma, an already-listed Nasdaq company, raised up to $1.5B, with WLF as lead investor contributing about $750M in WLFI tokens. The other roughly $750M was cash from outside investors.",
+    "Claimed: ALT5 is 'run by the same people who run World Liberty Financial'. The record shows: WLF insiders sit on ALT5's board (Zach Witkoff is chairman; Eric Trump and Zak Folkman are director or observer), but its CEOs (Tassiopoulos, Hugh, Tony Isaac) were not WLF executives.",
     "The $500M (Trump) and $90M (Witkoff) figures are journalists' estimates of entitlements from token-sale proceeds (DT Marks DEFI gets 75%), not documented payments.",
     "The stock decline is reported as 90-96% depending on dates; about 94% is consistent with that."
   ],
@@ -296,13 +296,14 @@
       "id": "molly-white",
       "name": "Molly White",
       "type": "person",
-      "description": "Crypto researcher interviewed in the video about the conflict of interest."
+      "description": "Crypto researcher who has described the conflict of interest in the deal."
     },
     {
       "id": "coffeezilla",
       "name": "Coffeezilla",
       "type": "media",
-      "description": "YouTube investigator who made the video."
+      "description": "Independent online investigator (internal reference; not shown).",
+      "hidden": true
     },
     {
       "id": "wall-street-journal",
@@ -484,14 +485,15 @@
     {
       "source": "molly-white",
       "target": "alt5-sigma",
-      "label": "described conflict of interest in the video",
+      "label": "described conflict of interest",
       "type": "media"
     },
     {
       "source": "coffeezilla",
       "target": "alt5-sigma",
-      "label": "covered the deal in the video",
-      "type": "media"
+      "label": "covered the deal",
+      "type": "media",
+      "hidden": true
     }
   ],
   "audit": {

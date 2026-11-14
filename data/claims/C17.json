@@ -3,7 +3,7 @@
   "title": "Trump merchandise and the T1 phone",
   "verdict": "mostly-accurate",
   "confidence": "high",
-  "summary": "Every product named exists and pays Trump royalties: NFTs (Dec 2022), watches, gold sneakers, the God Bless the USA Bible, Victory 47 fragrances and the Trump Mobile T1. The T1 site did drop its 'Made in the USA' banner in late June 2025. Coffeezilla's own address and email were exposed in a May 2026 Trump Mobile pre-order data leak. 'The family sells' glosses over the fact that these are mostly licensing deals run by third parties, and 'doxxed' describes a site vulnerability, not a targeted act.",
+  "summary": "Every product named exists and pays Trump royalties: NFTs (Dec 2022), watches, gold sneakers, the God Bless the USA Bible, Victory 47 fragrances and the Trump Mobile T1. The T1 site did drop its 'Made in the USA' banner in late June 2025. Customers' details were exposed in a May 2026 Trump Mobile pre-order data leak. 'The family sells' glosses over the fact that these are mostly licensing deals run by third parties, and 'doxxed' describes a site vulnerability, not a targeted act.",
   "sub_claims": [
     {
       "statement": "The Trump family has an NFT business.",
@@ -62,9 +62,9 @@
       ]
     },
     {
-      "statement": "Coffeezilla ordered a T1 and got doxxed.",
+      "statement": "Customers' details were exposed in a May 2026 leak of Trump Mobile pre-order data, described by one buyer as being 'doxxed'.",
       "verdict": "partly-accurate",
-      "finding": "In May 2026 a researcher found a flaw exposing Trump Mobile pre-order customers' names, emails, addresses, phone numbers and order IDs. Coffeezilla said his own address and email were in the data. Trump Mobile confirmed the exposure, blamed a third-party platform and patched it. This was a mass data exposure, not targeted doxxing.",
+      "finding": "In May 2026 a researcher found a flaw exposing Trump Mobile pre-order customers' names, emails, addresses, phone numbers and order IDs. One buyer said his own address and email were in the data. Trump Mobile confirmed the exposure, blamed a third-party platform and patched it. This was a mass data exposure, not targeted doxxing.",
       "sources": [
         "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
         "https://www.ibtimes.co.uk/trump-mobile-data-breach-exposes-customer-info-1798004",
@@ -73,15 +73,15 @@
     }
   ],
   "corrections": [
-    "The transcript implies the family sells these goods directly. Most are licensing deals (CIC Ventures, NFT INT LLC, Trump Mobile's operators) that pay royalties to Trump, and Trump Mobile's site disclaims Trump Organization manufacture or sale.",
-    "'Doxxed' is a loose word: Coffeezilla's data was exposed in a site-wide pre-order vulnerability (May 2026), not published by anyone targeting him.",
+    "Claimed: the family sells these goods directly. The record shows: most are licensing deals (CIC Ventures, NFT INT LLC, Trump Mobile's operators) that pay royalties to Trump, and Trump Mobile's site disclaims Trump Organization manufacture or sale.",
+    "'Doxxed' is a loose word: customers' data was exposed in a site-wide pre-order vulnerability (May 2026), not published by anyone targeting an individual buyer.",
     "The company never fully dropped the U.S. claim. It later said the first T1 units are 'assembled in the U.S.', which has not been independently verified."
   ],
   "denials_and_context": [
     "Trump Mobile spokesperson Chris Walker (June 2025): 'T1 phones are proudly being made in America. Speculation to the contrary is simply inaccurate.'",
     "Trump Mobile confirmed the data exposure, attributed it to a third-party platform, and said it was evaluating whether to notify customers.",
-    "Coffeezilla's estimate of about 30,000 real pre-orders (some outlets say 10,000), against roughly 590,000 claimed earlier, is his own inference from the leaked IDs.",
-    "Coffeezilla himself says these consumer products matter less than the regulated industries the family is entering."
+    "One buyer's analysis of the leaked data put real pre-orders at about 30,000 (some outlets say 10,000), against roughly 590,000 claimed earlier; this is that buyer's own inference from the leaked IDs.",
+    "These consumer products arguably matter less than the regulated industries the family is entering."
   ],
   "sources": [
     {
@@ -210,7 +210,8 @@
       "id": "coffeezilla",
       "name": "Coffeezilla",
       "type": "media",
-      "description": "YouTube investigator; ordered a T1 and his data was exposed in the May 2026 leak"
+      "description": "Independent online investigator and T1 buyer whose data was exposed in the May 2026 leak (internal reference; not shown)",
+      "hidden": true
     },
     {
       "id": "trump-organization",
@@ -325,7 +326,8 @@
       "target": "trump-mobile",
       "label": "ordered T1; personal data exposed by",
       "type": "media",
-      "date": "2026-05"
+      "date": "2026-05",
+      "hidden": true
     },
     {
       "source": "nft-int-llc",
@@ -404,13 +406,13 @@
   ],
   "audit": {
     "checked": [
-      "May 2026 Trump Mobile pre-order data exposure, including Coffeezilla's own address and email",
+      "May 2026 Trump Mobile pre-order data exposure, including one buyer's own address and email",
       "T1 shipping in May 2026 as 'assembled in the U.S.' rather than 'made in the USA'",
       "'MADE IN THE USA' banner replaced in late June 2025"
     ],
     "result": "upheld",
     "changes": [
-      "No factual changes. Fresh coverage (Gizmodo, IBTimes, Fierce Network, Android Authority) matches. Added a lead: Coffeezilla said the exposed database showed about 10,000 unique customers and about 30,000 orders, against the roughly 590,000 pre-orders Trump Mobile claimed. Gizmodo could not independently verify the numbers. The claim that the T1 is a rebadged Chinese-made handset circulates online but is unverified."
+      "No factual changes. Fresh coverage (Gizmodo, IBTimes, Fierce Network, Android Authority) matches. Added a lead: one buyer who analysed the leaked data said the exposed database showed about 10,000 unique customers and about 30,000 orders, against the roughly 590,000 pre-orders Trump Mobile claimed. Gizmodo could not independently verify the numbers. The claim that the T1 is a rebadged Chinese-made handset circulates online but is unverified."
     ],
     "new_sources": [
       {
@@ -430,7 +432,7 @@
   "leads": [
     {
       "title": "Trump Mobile's 590,000 pre-order claim vs. leaked order data",
-      "why_connected": "The data exposure that hit Coffeezilla reportedly showed about 10,000 unique customers and about 30,000 orders, a fraction of the ~590,000 pre-orders Trump Mobile claimed. This bears on the venture's marketing claims, which Democrats have already asked the FTC to probe.",
+      "why_connected": "The May 2026 data exposure reportedly showed, according to one buyer's analysis of the leaked data, about 10,000 unique customers and about 30,000 orders, a fraction of the ~590,000 pre-orders Trump Mobile claimed. This bears on the venture's marketing claims, which Democrats have already asked the FTC to probe.",
       "entities": [
         "trump-mobile",
         "t1-phone",

@@ -3,7 +3,7 @@
  "title": "The pardon-lobbying market and post-pardon SEC dismissals",
  "verdict": "mostly-accurate",
  "confidence": "medium",
- "summary": "A paid clemency-lobbying market is well documented. The WSJ (Dec 2025) reported a $1M going rate and success-fee offers of up to $5-6M. NOTUS counted more than $2.1M in 2025 lobbying disclosures that name pardons. NBC reported Fred Daibes paid Keith Schiller's firm $1M, and 60 Minutes filmed Burkman and Wohl pitching a $300K pardon. The SEC dropped its civil cases against Milton, Watson, Ozy and Archer after clemency, and Liz Oyer was fired and replaced by Ed Martin. Several details in the brief need correcting: Watson is not a documented donor, the House Democrats' estimate is now about $1.7B, Stone's $600K from Ver was disclosed as exit-tax lobbying, and Martin left the post in Aug 2026. No grant has been shown to be bought, and the White House denies any pay-to-play.",
+ "summary": "A paid clemency-lobbying market is well documented. The WSJ (Dec 2025) reported a $1M going rate and success-fee offers of up to $5-6M. NOTUS counted more than $2.1M in 2025 lobbying disclosures that name pardons. NBC reported Fred Daibes paid Keith Schiller's firm $1M, and 60 Minutes filmed Burkman and Wohl pitching a $300K pardon. The SEC dropped its civil cases against Milton, Watson, Ozy and Archer after clemency, and Liz Oyer was fired and replaced by Ed Martin. Several details in the claim need correcting: Watson is not a documented donor, the House Democrats' estimate is now about $1.7B, Stone's $600K from Ver was disclosed as exit-tax lobbying, and Martin left the post in Aug 2026. No grant has been shown to be bought, and the White House denies any pay-to-play.",
  "sub_claims": [
   {
    "statement": "A paid pardon-lobbying industry has grown around Trump's second term.",
@@ -123,7 +123,7 @@
   }
  ],
  "corrections": [
-  "The brief lists Carlos Watson among donor-linked grants; no Watson donation was found. His case ran through Alice Marie Johnson and reform advocates.",
+  "The claim lists Carlos Watson among donor-linked grants; no Watson donation was found. His case ran through Alice Marie Johnson and reform advocates.",
   "The House Judiciary Democrats' $1.3B figure (Jun 2025) was raised to about $1.7B in their Aug 21, 2026 'Pardons, Inc.' report, which also counts forfeitures.",
   "Roger Stone's $600K from Roger Ver was disclosed as exit-tax lobbying, not a pardon, and Ver received a DOJ deferred prosecution deal, not clemency (C36).",
   "Ed Martin is no longer pardon attorney: Trump announced his departure on Aug 21, 2026.",

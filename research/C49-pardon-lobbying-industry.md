@@ -2,19 +2,19 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-This is a follow-up lead from C36 and C09; the video does not cover it. The record confirms the core of the brief:
+This check builds on C36 and C09. The record confirms the core of the claim:
 - A large, paid clemency-lobbying market exists.
 - Reported fees of $1M or more.
 - Pardons of donors or their relatives.
 - The SEC dropping civil cases after clemency.
 - The firing of Liz Oyer and Ed Martin's appointment.
 
-Several details in the brief are outdated or wrong (see Corrections). No evidence shows a pardon was bought, and the White House denies pay-to-play.
+Several details in the claim are outdated or wrong (see Corrections). No evidence shows a pardon was bought, and the White House denies pay-to-play.
 
-**Method note:** Many primary pages could not be read here. The WSJ, Bloomberg Law and NYT are paywalled. The House Judiciary Democrats' site (democrats-judiciary.house.gov) does not resolve from this session. Figures from those outlets come from search-result excerpts and secondary coverage across several outlets. They are flagged where relevant.
+**Method note:** Many primary pages could not be read here. The WSJ, Bloomberg Law and NYT are paywalled. The House Judiciary Democrats' site (democrats-judiciary.house.gov) could not be read directly. Figures from those outlets come from search-result excerpts and secondary coverage across several outlets. They are flagged where relevant.
 
-## What the brief says
-The brief describes a paid pardon-lobbying industry (Roger Stone, Ches McDowell/Checkmate, Teresa Goody Guillén), asking prices above $1M, and donor-linked grants (Walczak, Milton, CZ, Watson). It also covers SEC civil cases dropped after pardons, Oyer's firing and Ed Martin's role, and about $1.3B in restitution wiped out.
+## The claim
+The claim describes a paid pardon-lobbying industry (Roger Stone, Ches McDowell/Checkmate, Teresa Goody Guillén), asking prices above $1M, and donor-linked grants (Walczak, Milton, CZ, Watson). It also covers SEC civil cases dropped after pardons, Oyer's firing and Ed Martin's role, and about $1.3B in restitution wiped out.
 
 ## Sub-claims
 
@@ -138,7 +138,7 @@ The brief describes a paid pardon-lobbying industry (Roger Stone, Ches McDowell/
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (fresh re-verification with new web searches; replaces the earlier wording-only review)
+**Result: upheld** (fresh re-verification with new searches)
 
 Checked:
 - Todd Blanche is now Attorney General

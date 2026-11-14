@@ -29,7 +29,7 @@
     {
       "statement": "Molly White tracked the shell companies behind Melania's coin/NFT income.",
       "verdict": "unverified",
-      "finding": "MKT World LLC (Florida) issues $MELANIA and receives NFT and speaking income, per DL News. Molly White tracks Trump crypto ventures generally, but no specific piece of hers on Melania's entities was found. 'Shell companies' is the video's characterization.",
+      "finding": "MKT World LLC (Florida) issues $MELANIA and receives NFT and speaking income, per DL News. Molly White tracks Trump crypto ventures generally, but no specific piece of hers on Melania's entities was found. 'Shell companies' is a characterization, not a documented finding.",
       "sources": [
         "https://www.dlnews.com/articles/markets/melania-trump-launches-memecoin-on-solana-after-trump-coin",
         "https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics"
@@ -49,9 +49,8 @@
     }
   ],
   "corrections": [
-    "Transcript says Melania 'reported $6 million on her coin and NFTs'; the disclosure lists $6,011,259 from NFTs/digital collectibles (licensing via Designers Manager) and no meme-coin proceeds.",
-    "The figure appears as spouse income on Donald Trump's 2025 OGE 278e (released 2026-06-30), not a report filed by Melania herself.",
-    "Transcript's 'meme point' is an auto-transcription error for 'meme coin'."
+    "Claimed: Melania 'reported $6 million on her coin and NFTs'. The record shows: the disclosure lists $6,011,259 from NFTs/digital collectibles (licensing via Designers Manager) and no meme-coin proceeds.",
+    "The figure appears as spouse income on Donald Trump's 2025 OGE 278e (released 2026-06-30), not a report filed by Melania herself."
   ],
   "denials_and_context": [
     "No public response from Melania Trump's office or the White House on the coin's collapse or the disclosure was found.",
@@ -216,7 +215,7 @@
       "id": "molly-white",
       "name": "Molly White",
       "type": "person",
-      "description": "Crypto researcher (Citation Needed) cited in the video as mapping Trump crypto entities."
+      "description": "Crypto researcher (Citation Needed) credited with mapping Trump crypto entities."
     },
     {
       "id": "benjamin-chow",
@@ -246,7 +245,8 @@
       "id": "coffeezilla",
       "name": "Coffeezilla",
       "type": "media",
-      "description": "YouTuber whose video makes the claim."
+      "description": "Online investigator and commentator.",
+      "hidden": true
     }
   ],
   "relationships": [
@@ -328,7 +328,7 @@
     {
       "source": "molly-white",
       "target": "melania-coin",
-      "label": "tracked (per video; unverified specific work)",
+      "label": "tracked (as claimed; unverified specific work)",
       "type": "media"
     },
     {

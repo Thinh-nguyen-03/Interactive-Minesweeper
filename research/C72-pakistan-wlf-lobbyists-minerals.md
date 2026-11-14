@@ -1,6 +1,6 @@
 # C72: Pakistan: World Liberty deal, Trump-tied lobbyists, minerals and tariffs
 
-**Verdict: mostly-accurate (confidence: medium).** Every dated step in the brief is documented. The second layer turns up three further links:
+**Verdict: mostly-accurate (confidence: medium).** Every dated step in the claim is documented. The second layer turns up three further links:
 - a Seiden Law mandate that was explicitly about minerals;
 - Rep. Ronny Jackson, Trump's former White House physician, named in Javelin and Conscience Point filings (single-source);
 - a 14 May 2025 minerals pitch by Squire Patton Boggs.
@@ -195,6 +195,6 @@ The figure is WLF's 2025 token-sale revenue. It is not Pakistani money, it is no
 Result: **corrected**.
 - Re-checked: Seiden Law (FARA 7570, signed 2025-04-08); Javelin (agreement 2025-04-24, FARA 7579 filed 2025-04-25, about $50K/month as a subcontractor); the Ronny Jackson filings; the Checkmate/Greystone terms; newer Pakistan lobbying coverage.
 - **Correction:** the $1.2M two-year defence/minerals deal belongs to Ervin Graves (May 2026), not to Checkmate. Sub-claim 6 is now partly-accurate.
-- **Seiden fee:** the monthly figure varies, $200K (Nukta, Global Witness) against $125K (CAPSS). The FARA PDFs could not be fetched (host blocked).
+- **Seiden fee:** the monthly figure varies, $200K (Nukta, Global Witness) against $125K (CAPSS). The FARA PDFs could not be read directly.
 - **Jackson:** stays **single-source**. We found no response from Jackson or Javelin and no independent confirmation outside the Indian outlets.
 - New sources: Arab News/AFP (https://www.arabnews.pk/node/2651238/pakistan); Malay Mail/AFP (https://www.malaymail.com/news/world/2026/07/18/defence-and-minerals-inside-pakistans-lobbying-push-in-washington/227949); Dawn (https://www.dawn.com/news/1998958); CAPSS (https://capssindia.org/wp-content/uploads/2026/01/CAPSS_InFocus_MS_20_01_26.pdf); India News Network (https://www.indianewsnetwork.com/en/ronny-jackson-linked-pakistan-500-million-mining-agreement-20260108).

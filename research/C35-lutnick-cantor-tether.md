@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-This is a follow-up lead to C11 (GENIUS/CLARITY Acts), C08 (UAE chips) and C19 (bitcoin reserve). The video did not cover it. The research brief says Commerce Secretary Howard Lutnick's former firm Cantor Fitzgerald, now run by his sons, custodies Tether's reserves and holds a stake in Tether, while the administration passed stablecoin legislation and Commerce controls AI-chip export licences. It also says Cantor launched bitcoin SPAC vehicles such as Twenty One Capital.
+This check builds on C11 (GENIUS/CLARITY Acts), C08 (UAE chips) and C19 (bitcoin reserve). The claim is that Commerce Secretary Howard Lutnick's former firm Cantor Fitzgerald, now run by his sons, custodies Tether's reserves and holds a stake in Tether, while the administration passed stablecoin legislation and Commerce controls AI-chip export licences. It also says Cantor launched bitcoin SPAC vehicles such as Twenty One Capital.
 
 ## Summary
 
@@ -15,11 +15,11 @@ The core financial ties are well documented:
 - Cantor's SPAC, Cantor Equity Partners, took Twenty One Capital public. Twenty One is majority-owned by Tether and Bitfinex.
 - The GENIUS Act became law in July 2025. Tether then launched a GENIUS-compliant US coin, USAT, with Cantor as reserve custodian.
 
-What is **not** documented is any policy action by Lutnick or Commerce that benefited Tether or Cantor. Nothing ties the chip-export licences Commerce controls to Tether. That part of the brief rests on juxtaposition, not evidence.
+What is **not** documented is any policy action by Lutnick or Commerce that benefited Tether or Cantor. Nothing ties the chip-export licences Commerce controls to Tether. That part of the claim rests on juxtaposition, not evidence.
 
 ## Research limits
 
-Direct fetches of theblock.co, decrypt.co, news.bloomberglaw.com, banking.senate.gov and hsgac.senate.gov failed in this environment because those hosts are not allowed. The findings below therefore rest on search-result summaries that agree across several outlets: The Block, Fortune, Cointelegraph, Decrypt, Bloomberg/Bloomberg Law, CoinDesk, InvestmentNews, Business Wire and Axios. The shared web-search budget ran out before I could check three things:
+The original pages at theblock.co, decrypt.co, news.bloomberglaw.com, banking.senate.gov and hsgac.senate.gov were not read directly. The findings below therefore rest on search-result summaries that agree across several outlets: The Block, Fortune, Cointelegraph, Decrypt, Bloomberg/Bloomberg Law, CoinDesk, InvestmentNews, Business Wire and Axios. The research ended before I could check three things:
 
 - Tether's latest funding valuation
 - Cantor's other bitcoin SPACs (for example the Bitcoin Standard Treasury deal)

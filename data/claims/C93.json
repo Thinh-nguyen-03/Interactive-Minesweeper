@@ -6,7 +6,7 @@
   "summary": "The gift is documented: Kremlev paid, through the IBA-affiliated Dubai entity IB Challenger, for two post-wedding nights (about $100k island, $70k fireworks per ProPublica), and the family says it repaid an undisclosed amount. The IBA's interest before the US government is also documented (its Jan 2025 letter asking Trump to 'look into' its exclusion from LA28 boxing), as are further contacts (Istanbul forum Sep 2025, Mongolia hunt Aug 2026 per FT) and a single-source, denied claim of business talks in Kazakhstan. But the record shows no US action, request or benefit tied to the gift: Olympic boxing governance was settled by the IOC/CAS before the wedding, no US sanctions or visa decision on Kremlev was found, and no link to TKO/Dana White or the Ali Act exists in coverage.",
   "sub_claims": [
     {
-      "statement": "Kremlev paid for parts of Don Jr.'s May 2026 Bahamas wedding weekend through IB Challenger, a Dubai entity affiliated with the IBA (the brief's premise, from C76).",
+      "statement": "Kremlev paid for parts of Don Jr.'s May 2026 Bahamas wedding weekend through IB Challenger, a Dubai entity affiliated with the IBA (the claim's premise, from C76).",
       "verdict": "confirmed",
       "finding": "DOCUMENTED (ProPublica 14 Sep 2026, confirmed by the couple, relayed by many outlets). The spending was 'hundreds of thousands of dollars'. ProPublica, as relayed by IBTimes and Verstka, itemised about $100,000 for the private-island rental (relays disagree on whether that was per night or per day) and about $70,000 for fireworks; several relays round these to 'at least $170,000'. The money came through IB Challenger (Dubai). Kremlev's side says the IBA itself paid nothing. Trump Jr. and Bettina Anderson called it an 'extraordinarily generous gift' from a 'dear friend' who hosted 'two incredible nights' after the wedding, not the wedding itself. Trump said on 18 Sep that his son would repay. On 6 Oct 2026 Kremlev said he had been repaid (AP). The amount, and whether the money went to Kremlev or to IB Challenger, were not disclosed (Kyiv Post), so the repayment rests on the two sides' word. This shows a gift and a stated repayment. It does not show a quid pro quo.",
       "sources": [
@@ -22,7 +22,7 @@
     {
       "statement": "The IBA has asked the Trump administration to intervene on Olympic boxing at LA28.",
       "verdict": "confirmed",
-      "finding": "DOCUMENTED (the IBA's own letter plus several outlets). An open letter dated 22 Jan 2025, signed by Kremlev and Secretary General Chris Roberts, congratulated Trump and endorsed his position against transgender athletes in women's events. It asked his team to 'look into' boxing's omission from the LA28 programme, offered to collaborate on developing boxing in the US, and proposed hosting an IBA World Championship there. Per ProPublica, as relayed, Kremlev saw the administration as a potential ally in his fight with the IOC. We found NO report of a reply from the White House or of any US action on the request. We could not fetch the PDF itself (the host was blocked), so its contents come from the outlets' accounts.",
+      "finding": "DOCUMENTED (the IBA's own letter plus several outlets). An open letter dated 22 Jan 2025, signed by Kremlev and Secretary General Chris Roberts, congratulated Trump and endorsed his position against transgender athletes in women's events. It asked his team to 'look into' boxing's omission from the LA28 programme, offered to collaborate on developing boxing in the US, and proposed hosting an IBA World Championship there. Per ProPublica, as relayed, Kremlev saw the administration as a potential ally in his fight with the IOC. We found NO report of a reply from the White House or of any US action on the request. The PDF itself was not read (the host was blocked), so its contents come from the outlets' accounts.",
       "sources": [
         "https://iba.sport/wp-content/uploads/2025/01/20250122-L-fr-IBA-to-US-President-.pdf",
         "https://insidersport.com/2025/01/23/iba-donald-trump-olympic-movement/",
@@ -161,7 +161,7 @@
     }
   ],
   "corrections": [
-    "The brief implies US 'decisions on boxing' are in play. The IOC/CAS decided Olympic boxing governance (2023-2025), and Trump's LA28 executive order concerns security, transport and entry/exit. No US decision on boxing governance was found.",
+    "The claim implies US 'decisions on boxing' are in play. The IOC/CAS decided Olympic boxing governance (2023-2025), and Trump's LA28 executive order concerns security, transport and entry/exit. No US decision on boxing governance was found.",
     "'Trump's executive order on Olympic sports': the documented LA28 order creates a DHS-housed task force. We found no order on boxing governance or a federal boxing commission. The closest is the Ali Revival Act, a congressional bill, which strengthens the Association of Boxing Commissions' role.",
     "Some relays date the Istanbul forum to Sep 2026 and the Mongolia hunt to Aug 2025. The better-supported dates are 29 Sep 2025 (Istanbul) and late Aug 2026 (Mongolia).",
     "One relay calls the IBA 'sanctioned'. We found no US sanction on the IBA or on Kremlev; Ukraine has sanctioned Kremlev."

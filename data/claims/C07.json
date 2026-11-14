@@ -48,7 +48,7 @@
     {
       "statement": "WLF said it is 'unfair to hold a private company to arbitrary standards' and that MGX chose USD1 on its merits.",
       "verdict": "unverified",
-      "finding": "The 'unfair/arbitrary standards' wording appears only in the video's own correspondence. WLF, MGX and Binance have all publicly said the choice was made on merits or by MGX alone.",
+      "finding": "The 'unfair/arbitrary standards' wording comes from correspondence that has not been independently published; no public record of it was found. WLF, MGX and Binance have all publicly said the choice was made on merits or by MGX alone.",
       "sources": [
         "https://www.forbes.com/sites/zacheverson/2025/10/02/mgx-usd1-binance-trump-stablecoin-world-liberty-financial/",
         "https://cointelegraph.com/news/binance-richard-teng-denies-donald-trump-stablecoin"
@@ -76,12 +76,12 @@
     }
   ],
   "corrections": [
-    "Transcript says the WSJ associates the MGX chairman 'indirectly with his 49% stake'; the WSJ reported that Aryam Investment 1, a Tahnoon-backed vehicle distinct from MGX, agreed in January 2025 to buy 49% of WLF for $500M.",
+    "Claimed: The WSJ associates the MGX chairman 'indirectly with his 49% stake'. The record shows: the WSJ reported that Aryam Investment 1, a Tahnoon-backed vehicle distinct from MGX, agreed in January 2025 to buy 49% of WLF for $500M.",
     "The quoted announcement was made by Zach Witkoff on 2025-05-01 at TOKEN2049 Dubai.",
     "'Hundreds and hundreds of millions' is not a documented figure; contemporaneous estimates were up to about $80M/yr on the $2B, contingent on Binance holding the tokens, and shared with non-family WLF owners."
   ],
   "denials_and_context": [
-    "WLF says MGX chose USD1 on its merits; per the video, WLF called holding a private company to such standards 'unfair'.",
+    "WLF says MGX chose USD1 on its merits; in an unverified, single-source account, WLF also called holding a private company to such standards 'unfair'.",
     "MGX says it chose USD1 for its reserve backing and compliance, does not hold USD1, paid no fees to WLF and has not invested in WLF.",
     "Binance CEO Richard Teng says Binance was not involved in MGX's choice of stablecoin.",
     "WLF and the White House told the WSJ that Trump was not involved in the Aryam deal and that it bought no policy influence; Trump denied knowledge of it.",
@@ -305,7 +305,8 @@
       "id": "coffeezilla",
       "name": "Coffeezilla",
       "type": "media",
-      "description": "YouTube investigator; asked WLF about the omission."
+      "description": "Online investigator and commentator.",
+      "hidden": true
     }
   ],
   "relationships": [
@@ -425,7 +426,8 @@
       "source": "coffeezilla",
       "target": "world-liberty-financial",
       "label": "questioned about undisclosed Tahnoon stake",
-      "type": "media"
+      "type": "media",
+      "hidden": true
     },
     {
       "source": "mgx",

@@ -3,7 +3,7 @@
   "title": "The tech-billionaire nexus: Ellison, Musk, Altman, Zuckerberg, Bezos",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Nearly every principal named in the brief is documented as both paying Trump, his family or his projects and receiving a federal decision. The Ellisons settled for $16M, then won FCC approval and the WBD contest in which Kushner's Affinity briefly co-invested. Oracle sits beside Tahnoon's MGX in Stargate and the TikTok JV. Don Jr.'s 1789 holds xAI/SpaceX stakes ahead of SpaceX's record IPO. OpenAI's Brockman gave $25M to MAGA Inc. before the state-AI preemption order. Nvidia ($25M), Palantir and Microsoft ($10M each), and Meta and Amazon ($5M each) funded the ballroom while their matters were pending. The money and the decisions are documented; causation is not, and several links (Silver Lake as hub, Ellison-X-settlement, TikTok-Meta ruling) are our own inference.",
+  "summary": "Nearly every principal named in the claim is documented as both paying Trump, his family or his projects and receiving a federal decision. The Ellisons settled for $16M, then won FCC approval and the WBD contest in which Kushner's Affinity briefly co-invested. Oracle sits beside Tahnoon's MGX in Stargate and the TikTok JV. Don Jr.'s 1789 holds xAI/SpaceX stakes ahead of SpaceX's record IPO. OpenAI's Brockman gave $25M to MAGA Inc. before the state-AI preemption order. Nvidia ($25M), Palantir and Microsoft ($10M each), and Meta and Amazon ($5M each) funded the ballroom while their matters were pending. The money and the decisions are documented; causation is not, and several links (Silver Lake as hub, Ellison-X-settlement, TikTok-Meta ruling) are our own inference.",
   "sub_claims": [
     {
       "statement": "Ellison family / Paramount: a $16M settlement with Trump was followed by FCC approval of Skydance-Paramount, then by a Trump-commented contest for Warner Bros. Discovery that the Ellisons won.",
@@ -177,7 +177,7 @@
     }
   ],
   "corrections": [
-    "The brief implies the Ellisons bought Warner outright on administration approval. In fact WBD first chose Netflix; Paramount won through a hostile bid. Netflix declined to match on 2026-02-26. DOJ clearance came in summer 2026 and the deal closed in about late September 2026.",
+    "The claim implies the Ellisons bought Warner outright on administration approval. In fact WBD first chose Netflix; Paramount won through a hostile bid. Netflix declined to match on 2026-02-26. DOJ clearance came in summer 2026 and the deal closed in about late September 2026.",
     "Oracle, not Larry Ellison personally, owns 15% of the TikTok JV. Early reports of a 45-50% Oracle/Silver Lake/MGX block were superseded at closing (15% each).",
     "xAI's Pentagon award is a contract ceiling of up to $200M shared in form with Google, OpenAI and Anthropic, not a $200M payment. Palantir's $10B Army deal is also a ceiling.",
     "The Meta FTC outcome was a court ruling (Boasberg, 2025-11-18), not an administration decision. Meta's attempt to settle with the administration reportedly failed.",

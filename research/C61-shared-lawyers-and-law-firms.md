@@ -8,9 +8,9 @@
 
 **Method note:** we mined C06, C14, C15, C27, C33, C34, C36, C37, C46, C48, C49, C52 and C57, then searched the web. Direct fetches failed here, including ProPublica's disclosure database, so some details come from search-result excerpts. These are flagged.
 
-## The brief
+## The claim
 
-This was a connection hunt for lawyers and firms that recur across the deals. The named starting points were:
+This was a connection check for lawyers and firms that recur across the deals. The named starting points were:
 
 - Goody Guillén/BakerHostetler, Paul Hastings, Brito, Roth, Kiley, Mizelle and Edelman
 - Clare Locke and Sullivan & Cromwell

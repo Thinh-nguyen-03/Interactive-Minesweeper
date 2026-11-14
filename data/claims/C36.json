@@ -49,7 +49,7 @@
   {
    "statement": "Lobbyists were paid for the CZ pardon.",
    "verdict": "confirmed",
-   "finding": "Per disclosures reported by Politico: Checkmate Government Relations (Ches McDowell, a friend of Trump Jr.) got $450K for about a month of 'executive relief' lobbying in late Sep 2025, and Teresa Goody Guillén (BakerHostetler, also counsel to WLF) got about $290K. McDowell told the WSJ he raised Zhao's case with Trump. Based on secondary coverage; Politico was not fetched.",
+   "finding": "Per disclosures reported by Politico: Checkmate Government Relations (Ches McDowell, a friend of Trump Jr.) got $450K for about a month of 'executive relief' lobbying in late Sep 2025, and Teresa Goody Guillén (BakerHostetler, also counsel to WLF) got about $290K. McDowell told the WSJ he raised Zhao's case with Trump. Based on secondary coverage; Politico was not read directly.",
    "sources": [
     "https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington",
     "https://www.notus.org/money/pardon-lobbyists-president-donald-trump"
@@ -95,7 +95,7 @@
   "No official justification was found for the BitMEX pardons. The individuals had faced only probation.",
   "Roger Stone denies lobbying the executive branch on Ver's case. Ches McDowell says Trump Jr. did not help. Goody Guillén says CZ was 'pardoned for justice'.",
   "The NCET disbandment was a policy memo, not clemency. Fraud prosecutions continued, for example Tornado Cash's Roman Storm in 2025.",
-  "Many mainstream outlets were blocked for direct fetch. Politico, NYT and WSJ details come from secondary coverage.",
+  "Many mainstream outlets were not read directly. Politico, NYT and WSJ details come from secondary coverage.",
   "Zhao claims in his April 2026 memoir that US crypto rivals 'paid millions in lobbying fees to block the pardon'; this is his assertion, not an established finding."
  ],
  "sources": [

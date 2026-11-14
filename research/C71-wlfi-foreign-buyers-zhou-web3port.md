@@ -1,6 +1,6 @@
 # C71: Who actually bought World Liberty tokens: Zhou, Web3Port, Aqua 1 and foreign wallets
 
-**Verdict: mostly accurate (confidence: medium).** The brief's main facts hold up across several outlets:
+**Verdict: mostly accurate (confidence: medium).** The claim's main facts hold up across several outlets:
 
 - the Web3Port and Aqua 1 purchases;
 - the New York Times identification of Guren "Bobby" Zhou;
@@ -15,7 +15,7 @@ Three parts stay weak:
 - **US review.** No US agency is known to have reviewed any of these purchases. Four Senate Democratic letters have gone unanswered in public.
 - **"Blacklisted".** Caixin's description of Zhou as "blacklisted" remains unexplained.
 
-This report extends C67 (repeat investors), C42 (insider extraction) and C04 (WLF founding) rather than repeating them. Method note: the NYT, Reuters, Caixin, Daily Maverick, the Senate Banking Committee site and the radio-station copies of Reuters could not be fetched from this environment. Every finding below therefore rests on search-result summaries from several outlets, which are named for each point.
+This report extends C67 (repeat investors), C42 (insider extraction) and C04 (WLF founding) rather than repeating them. Method note: the NYT, Reuters, Caixin, Daily Maverick, the Senate Banking Committee site and the radio-station copies of Reuters could not be read directly. Every finding below therefore rests on search-result summaries from several outlets, which are named for each point.
 
 ## The chain in one picture
 

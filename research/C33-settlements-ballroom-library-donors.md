@@ -2,9 +2,9 @@
 
 **Verdict: mostly accurate (confidence: high on amounts and recipients; low on any documented causal regulatory benefit)**
 
-This is a follow-up lead, not a claim made in the video. The video touches it once (transcript line 655), when Molly White says crypto exchanges "have sponsored the ballroom that Trump wants to build." The brief asks whether companies with business before the government paid entities linked to Trump. It lists the settlement amounts, the recipients, the ballroom donors, and any regulatory outcome that followed.
+The video touches it once (transcript line 655), when Molly White says crypto exchanges "have sponsored the ballroom that Trump wants to build." This check asks whether companies with business before the government paid entities linked to Trump. It lists the settlement amounts, the recipients, the ballroom donors, and any regulatory outcome that followed.
 
-**Method note:** Direct fetches failed. Wikipedia would not resolve from this session, and many news sites block fetching. The findings below come from search-result summaries that agree across several outlets, including AP syndications, CBS News, NPR, Al Jazeera, Variety, Bloomberg Law and The Block. They also draw on primary documents from Senator Elizabeth Warren's office and Public Citizen. The run hit its web-search budget before two lines of inquiry were finished:
+**Method note:** Direct fetches failed. Wikipedia could not be read directly, and many news sites block fetching. The findings below come from search-result summaries that agree across several outlets, including AP syndications, CBS News, NPR, Al Jazeera, Variety, Bloomberg Law and The Block. They also draw on primary documents from Senator Elizabeth Warren's office and Public Citizen. The research ended before two lines of inquiry were finished:
 - any settlements made in 2026;
 - the regulatory outcomes for Tether and the Winklevoss twins.
 
@@ -31,7 +31,7 @@ This is a follow-up lead, not a claim made in the video. The video touches it on
 
 5. **YouTube/Alphabet paid $24.5M, with $22M for the White House ballroom. Confirmed.**
    - The court filing is dated 29 Sep 2025. Trump's $22M share goes to the nonprofit **Trust for the National Mall**, earmarked for building the ballroom. The other $2.5M goes to co-plaintiffs, including the American Conservative Union and Naomi Wolf. The filing says the deal is not an admission of liability.
-   - Correction to the brief: this money went to the ballroom, not the library.
+   - Correction: this money went to the ballroom, not the library.
 
 6. **The settlement money reached entities linked to Trump personally. Confirmed in substance. The details are murky.**
    - The original library fund was incorporated in Florida on 20 Dec 2024 by a lawyer named Jacob Roth. It was dissolved in September 2025 after failing to file an annual report.
@@ -57,16 +57,16 @@ This is a follow-up lead, not a claim made in the video. The video touches it on
    - Coinbase: the SEC dismissed its case with prejudice on 27 Feb 2025. See C23.
    - Ripple: the SEC and Ripple dropped their cross-appeals on 7 Aug 2025. The judgment against Ripple, a $125M penalty plus an injunction, still stands, because Judge Torres refused to cut it. That is a partial benefit only.
    - Gemini: the SEC closed its investigation in 2025. See C23.
-   - Tether: I did not verify any specific regulatory benefit in this run. Its link to the GENIUS Act is covered in C11.
+   - Tether: I did not verify any specific regulatory benefit in this check. Its link to the GENIUS Act is covered in C11.
    - *Audit, Meta, Google and Disney:* the record shows continued or adverse federal action, not favors.
      - **Meta.** Trump's FTC took its Instagram/WhatsApp case to trial. Judge Boasberg ruled for Meta on November 18, 2025, and the FTC said in January 2026 that it would appeal [A1][A2].
      - **Google.** Judge Mehta's September 2025 search remedies rejected a Chrome divestiture, and DOJ and the states cross-appealed in February 2026 seeking it [A3]. Judge Brinkema's September 2026 ad-tech remedy declined to order an AdX sale [A4]. These are court rulings.
      - **Disney/ABC.** The FCC under Carr opened a DEI probe in March 2025, ordered early renewal filings for ABC's eight owned stations in April 2026, and opened an equal-time probe of The View. Disney calls these actions unconstitutional, and no ruling was found as of late July 2026 [A5][A6].
    - Public Citizen's "Ballroom Billions" report (June 2026) says 19 of 27 identified corporate donors received $338B in federal contracts over about 5.5 years. It says 14 face federal enforcement actions, or had them suspended under the Trump administration. Those are an advocacy group's figures and I did not check them against USASpending.gov.
-   - The Meta, Google and Disney outcomes cited by critics, such as the antitrust cases, were not verified in this run.
+   - The Meta, Google and Disney outcomes cited by critics, such as the antitrust cases, were not verified in this check.
 
 ## Corrections
-- The brief lumps the YouTube money in with the library. YouTube's $22M went to the ballroom through the Trust for the National Mall.
+- The claim lumps the YouTube money in with the library. YouTube's $22M went to the ballroom through the Trust for the National Mall.
 - The headline settlement figures are larger than the amounts earmarked: Meta's $25M includes about $22M for the library, and YouTube's $24.5M includes $22M for the ballroom. Lawyers' fees and co-plaintiffs took the rest.
 - No source says the money was paid to Trump personally. It went to a nonprofit or an escrow account. The "personally linked" framing rests on Trump controlling the library foundation and the ballroom project.
 - ABC's $15M had reportedly still not been released from escrow as of 2026.

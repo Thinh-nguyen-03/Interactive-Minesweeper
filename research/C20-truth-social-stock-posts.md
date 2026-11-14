@@ -2,7 +2,7 @@
 
 **Verdict: mostly accurate** (confidence: medium)
 
-## What the video says (transcript lines 619-631)
+## The claim
 
 - TMTG is "largely owned" by the Donald J. Trump Revocable Trust, and it owns Truth Social.
 - On Truth Social, Trump "pumps up" stocks and has named companies by their ticker while in office.
@@ -16,7 +16,7 @@
 In December 2024, Trump moved his whole TMTG (DJT) stake, about 114.75M shares or roughly 52-53% of the company, into the Donald J. Trump Revocable Trust without payment. Trump is the trust's sole beneficiary and Donald Trump Jr. is its trustee [1][2]. Truth Social is TMTG's flagship platform. The stake percentage is as of 2025 reporting. Later share issuance may have diluted it, and I did not confirm a November 2026 figure. "Largely owned" is a fair description.
 
 ### 2. Trump names companies and tickers in posts while in office: confirmed
-On April 10, 2026, Trump posted praise of Palantir's "war fighting capabilities" and included the ticker "(PLTR)". Outlets described this as the first time a sitting president had endorsed a stock by its ticker [3][4]. Palantir had been down as much as 6% intraday. It briefly rose about 3% after the post and then closed lower [4]. Calling this "pumping" is the video's characterization.
+On April 10, 2026, Trump posted praise of Palantir's "war fighting capabilities" and included the ticker "(PLTR)". Outlets described this as the first time a sitting president had endorsed a stock by its ticker [3][4]. Palantir had been down as much as 6% intraday. It briefly rose about 3% after the post and then closed lower [4]. Calling this "pumping" is a characterization.
 
 ### 3. Disclosures show purchases made before posts about those companies: confirmed, with nuance
 Trump's Q1 2026 OGE Form 278-T runs 113 pages and lists about 3,642-3,711 transactions, with a total value between $220M and $750M. A 2025 disclosure reportedly listed more than 21,000 trades [5][6][7][8]. Taken together, the filings plausibly add up to "hundreds of pages." The filing shows Palantir purchases of $247k-$630k in Q1 2026, including at least seven buys in March, a few weeks before the April 10 ticker post [3][9]. CBS News reported that some trades came before administration actions or before the president's own public statements about the companies [5].
@@ -37,7 +37,7 @@ Trump posted the meme twice:
 - **September 2025:** An AI image with no caption, posted around midnight, showed Trump at the Resolute Desk with trading screens reading "Bought Intel at $20" and "Intel now at $30." It referred to the government's 9.9% stake in Intel, bought at $20.47 a share under an August 22, 2025 agreement. It followed Nvidia's $5B investment in Intel [11][12]. Price reaction was mixed. Intel slipped slightly after hours and was down more than 2% the next premarket. The big jump that week (about 23%) came from the Nvidia deal, before the post [12][13].
 - **September 2026 (posted 2026-09-06):** A similar image showed Intel going from $20 to $95, and Trump claimed he had made "hundreds of billions" for the US. Intel then rose more than 4% overnight, extending a three-session rally after a year-to-date gain of about 160% [14][15].
 
-If the video means the 2026 post, "the price went up" afterward is literally true, but nothing shows the post caused the rise. If it means the 2025 post, the claim is weak. In both posts the "trade" is the US government's stake, not Trump's personal holding. CNN separately reported that Trump's managed accounts bought Intel shortly before the government stake was announced, and the White House says Trump does not direct those trades [12]. The line "who knew the president would have such powers" is sarcasm that implies the post caused the move, and that is not established.
+If the claim refers to the 2026 post, "the price went up" afterward is literally true, but nothing shows the post caused the rise. If it means the 2025 post, the claim is weak. In both posts the "trade" is the US government's stake, not Trump's personal holding. CNN separately reported that Trump's managed accounts bought Intel shortly before the government stake was announced, and the White House says Trump does not direct those trades [12]. The sarcastic remark "who knew the president would have such powers" implies the post caused the move, and that is not established.
 
 ## Corrections
 - The Intel "Oval Office" meme is a meme about the US government's Intel stake, which Trump presents as a gain for the country. It does not show Trump trading personally.

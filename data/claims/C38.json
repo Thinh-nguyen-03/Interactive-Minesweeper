@@ -3,7 +3,7 @@
   "title": "Polymarket probes dropped before 1789 Capital invested; federal push for prediction markets",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The dated facts in the brief hold up. Bloomberg, CNBC and others reported on 2025-07-15 that the DOJ (Manhattan U.S. Attorney's Office) and the CFTC had closed their Polymarket probes with no charges. That was six weeks before 1789 Capital's 2025-08-26 investment and Don Jr.'s move to the advisory board. The CFTC under Selig sued AZ, CT and IL (2026-04-02), NY (2026-04-24) and WI (2026-04-28), and later MN and UT, and Sen. Curtis asked Senate Judiciary on 2026-09-21 to investigate. What the record does not show: who decided to close the probes (neither agency ever said, and the notices were never published), or any link between the closure and the Trump family. The documented White House 'lobbying' is thinner than the word suggests, and the source for it is a North Carolina Speaker's spokesman, not the White House.",
+  "summary": "The dated facts in the claim hold up. Bloomberg, CNBC and others reported on 2025-07-15 that the DOJ (Manhattan U.S. Attorney's Office) and the CFTC had closed their Polymarket probes with no charges. That was six weeks before 1789 Capital's 2025-08-26 investment and Don Jr.'s move to the advisory board. The CFTC under Selig sued AZ, CT and IL (2026-04-02), NY (2026-04-24) and WI (2026-04-28), and later MN and UT, and Sen. Curtis asked Senate Judiciary on 2026-09-21 to investigate. What the record does not show: who decided to close the probes (neither agency ever said, and the notices were never published), or any link between the closure and the Trump family. The documented White House 'lobbying' is thinner than the word suggests, and the source for it is a North Carolina Speaker's spokesman, not the White House.",
   "sub_claims": [
     {
       "statement": "The DOJ and CFTC closed their Polymarket investigations in July 2025.",
@@ -54,7 +54,7 @@
     {
       "statement": "Selig's CFTC sued Arizona, Connecticut, Illinois, New York and Wisconsin to defend prediction markets.",
       "verdict": "confirmed",
-      "finding": "The CFTC sued Arizona, Connecticut and Illinois on 2026-04-02. It sued New York on 2026-04-24 in SDNY, naming Gov. Hochul, AG Letitia James and the Gaming Commission, after James sued Coinbase and Gemini. It sued Wisconsin on 2026-04-28 in E.D. Wis., naming Gov. Evers, AG Kaul and gaming administrator Dillett. The list in the brief is incomplete. The CFTC also sued Minnesota on 2026-05-19 over the first outright state ban, and, with the DOJ, sued Utah on 2026-10-27 after Utah AG Derek Brown sued Kalshi. A New Republic-cited tracker puts the total at nine states, and one report calls Utah the 10th. Every suit seeks declarations that the CEA preempts state gambling law for CFTC-registered exchanges. Courts are split. The 3rd Circuit backed Kalshi (April 2026), while the 9th Circuit (2026-08-28, Nevada) and the 6th Circuit (2026-09-25, Ohio and Tennessee) held that states can regulate. Audit addition: one late-Oct 2026 report lists the CFTC's suits as Arizona, Connecticut, Illinois, Kentucky, Minnesota, New Mexico, New York, Rhode Island, Wisconsin and Utah (Utah being the 10th; D. Utah No. 2:26-cv-01055), and says the CFTC won preliminary injunctions in Arizona, Minnesota and Illinois (single report; not independently confirmed).",
+      "finding": "The CFTC sued Arizona, Connecticut and Illinois on 2026-04-02. It sued New York on 2026-04-24 in SDNY, naming Gov. Hochul, AG Letitia James and the Gaming Commission, after James sued Coinbase and Gemini. It sued Wisconsin on 2026-04-28 in E.D. Wis., naming Gov. Evers, AG Kaul and gaming administrator Dillett. The list in the claim is incomplete. The CFTC also sued Minnesota on 2026-05-19 over the first outright state ban, and, with the DOJ, sued Utah on 2026-10-27 after Utah AG Derek Brown sued Kalshi. A New Republic-cited tracker puts the total at nine states, and one report calls Utah the 10th. Every suit seeks declarations that the CEA preempts state gambling law for CFTC-registered exchanges. Courts are split. The 3rd Circuit backed Kalshi (April 2026), while the 9th Circuit (2026-08-28, Nevada) and the 6th Circuit (2026-09-25, Ohio and Tennessee) held that states can regulate. Audit addition: one late-Oct 2026 report lists the CFTC's suits as Arizona, Connecticut, Illinois, Kentucky, Minnesota, New Mexico, New York, Rhode Island, Wisconsin and Utah (Utah being the 10th; D. Utah No. 2:26-cv-01055), and says the CFTC won preliminary injunctions in Arizona, Minnesota and Illinois (single report; not independently confirmed).",
       "sources": [
         "https://www.covers.com/industry/cftc-sues-illinois-arizona-connecticut-prediction-markets-april-2-2026",
         "https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits",
@@ -74,7 +74,7 @@
     {
       "statement": "Sen. John Curtis sought a Senate Judiciary probe over Don Jr.'s prediction-market ties.",
       "verdict": "confirmed",
-      "finding": "On Monday 2026-09-21, Curtis (R-Utah) wrote to Judiciary Chair Chuck Grassley and Ranking Member Dick Durbin. He asked them to investigate whether presidential family members used their relationships for private gain or preferential access, and urged subpoenas for both Donald Trump Jr. and Hunter Biden. He cited Don Jr.'s Kalshi and Polymarket roles and 1789's stake, along with crypto, foreign real estate and defense investments. The brief leaves out that the request was framed as bipartisan, also targeting Hunter Biden. No committee action on it was found. The letter also cited Don Jr.'s acceptance of wedding gifts from Russian businessman Umar Kremlev and his promotion of family crypto ventures, and it says its aim is to establish facts, without alleging that he broke any law.",
+      "finding": "On Monday 2026-09-21, Curtis (R-Utah) wrote to Judiciary Chair Chuck Grassley and Ranking Member Dick Durbin. He asked them to investigate whether presidential family members used their relationships for private gain or preferential access, and urged subpoenas for both Donald Trump Jr. and Hunter Biden. He cited Don Jr.'s Kalshi and Polymarket roles and 1789's stake, along with crypto, foreign real estate and defense investments. The claim leaves out that the request was framed as bipartisan, also targeting Hunter Biden. No committee action on it was found. The letter also cited Don Jr.'s acceptance of wedding gifts from Russian businessman Umar Kremlev and his promotion of family crypto ventures, and it says its aim is to establish facts, without alleging that he broke any law.",
       "sources": [
         "https://www.axios.com/2026/09/22/john-curtis-trump-jr-hunter-biden-subpoenas",
         "https://www.legalsportsreport.com/278593/gop-senator-wants-probe-into-trump-jr-s-prediction-market-ties/",
@@ -85,9 +85,9 @@
     }
   ],
   "corrections": [
-    "The brief says 'about a month'. The probes were reported closed on 2025-07-15 and the 1789 investment was announced on 2025-08-26, about six weeks later.",
-    "The brief lists five states. The CFTC also sued Minnesota (2026-05-19) and Utah (2026-10-27), and trackers count nine or ten states in total.",
-    "The brief says the White House 'lobbied state officials'. The documented instance is the White House Office of Intergovernmental Affairs giving North Carolina lawmakers information on federal policy, per the NC Speaker's spokesman as reported by the NYT.",
+    "The claim says 'about a month'. The probes were reported closed on 2025-07-15 and the 1789 investment was announced on 2025-08-26, about six weeks later.",
+    "The claim lists five states. The CFTC also sued Minnesota (2026-05-19) and Utah (2026-10-27), and trackers count nine or ten states in total.",
+    "The claim says the White House 'lobbied state officials'. The documented instance is the White House Office of Intergovernmental Affairs giving North Carolina lawmakers information on federal policy, per the NC Speaker's spokesman as reported by the NYT.",
     "Curtis's request also sought a subpoena for Hunter Biden. It was not aimed solely at the Trump family."
   ],
   "denials_and_context": [
@@ -98,7 +98,7 @@
     "Kalshi called the 2026-08-27 NYT story one-sided and says Don Jr. advises on marketing, not regulation.",
     "The White House (Anna Kelly, in a separate August 2026 context) said 'There are no conflicts of interest.' No specific response to the NYT story was found.",
     "Courts are split on CFTC preemption (3rd Circuit for Kalshi; 9th and 6th Circuits for the states), so the federal push has not yet produced the outcome the industry wants.",
-    "Fetch limits: covers.com and cftc.gov did not resolve from this environment, and the NYT and Bloomberg originals were not read directly. Findings rely on consistent coverage across several outlets."
+    "Fetch limits: covers.com and cftc.gov could not be read directly, and the NYT and Bloomberg originals were not read directly. Findings rely on consistent coverage across several outlets."
   ],
   "sources": [
     {

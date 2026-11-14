@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate (confidence: high)**
 
-## What the video says (transcript lines 483-499)
+## The claim
 World Liberty "is applying for bank charters, getting provisionally approved"; the president "helps appoint the regulators, specifically the OCC"; World Liberty Financial "denies special treatment from the OCC" and says "the approval was conducted by career staffers."
 
 ## What the evidence shows
@@ -17,11 +17,11 @@ World Liberty "is applying for bank charters, getting provisionally approved"; t
 - Gould refused Sen. Warren's 13 Jan 2026 request to pause the review until Trump divests. He wrote that the OCC would act "consistent with this duty rather than your demand" in "an apolitical and nonpartisan process." [10][14]
 - Critics include Warren, NCRC, Americans for Financial Reform and House Democrats. They argue the OCC cannot act impartially toward a firm tied to the president who appoints its head. On 15 Aug 2026 Warren and colleagues introduced the *Ending Presidential Corruption in Banking Act* (S. 5389), which would bar such approvals and end this charter. [12][15][16]
 - Context that cuts in WLF's favor: in December 2025 the OCC conditionally approved similar crypto trust charters for Circle, Ripple, BitGo, Fidelity Digital Assets and Paxos. So the approval fits a wider policy under Gould, though critics note that Gould pushed through charters that career staff once viewed skeptically. [2][6]
-- The video's line "I don't think we've ever seen anything like this" is opinion. Warren made a similar point, calling Trump the first president "to approve, operate, and supervise his own bank."
+- The characterisation "I don't think we've ever seen anything like this" is opinion. Warren made a similar point, calling Trump the first president "to approve, operate, and supervise his own bank."
 
 ## Corrections
-- The transcript says "bank charters" (plural); the record shows one OCC national trust bank charter application (WLTC Holdings / World Liberty Trust Co., N.A.).
-- The transcript attributes the "career staffers" claim to WLF; the record shows the claim is in the OCC's own approval letter (CD #1385), and WLF's public response was a general denial of favoritism.
+- Claimed: "bank charters" (plural). The record shows: one OCC national trust bank charter application (WLTC Holdings / World Liberty Trust Co., N.A.).
+- Claimed: WLF said the approval was conducted by "career staffers". The record shows: the phrase is in the OCC's own approval letter (CD #1385), and WLF's public response was a general denial of favoritism.
 - The charter is a limited-purpose trust charter (no deposits or loans, no FDIC insurance), not a full-service bank.
 
 ## Sources

@@ -2,15 +2,15 @@
 
 **Verdict: mostly-accurate (confidence: medium)**
 
-Every estimate named in the brief is real and traceable. They differ widely because each one measures something different. Some count cash received, some count paper gains in net worth, and some count gross revenue reported on a disclosure. They also cover different people (Trump alone or the whole family), different time windows, and different dates. Once you sort them on those three axes, they are broadly compatible rather than contradictory.
+Every estimate named in the claim is real and traceable. They differ widely because each one measures something different. Some count cash received, some count paper gains in net worth, and some count gross revenue reported on a disclosure. They also cover different people (Trump alone or the whole family), different time windows, and different dates. Once you sort them on those three axes, they are broadly compatible rather than contradictory.
 
-The brief has two weak points:
+The claim has two weak points:
 - The Fight Fight Fight "$200M-$1B TRUMP treasury" was only a proposal, reported by Bloomberg in October 2025. I found no report that it ever closed.
 - "Where the gains went" (stocks and bonds) is documented only as correlation. The disclosure's value ranges do not trace any crypto dollars into specific securities.
 
 Parents: C29 (Forbes figures and the 2025 OGE disclosure), C01 (TRUMP coin royalties), C31 (Gulf licensing / CREW). This file builds on those and does not repeat them.
 
-*Method note: direct fetches of newyorker.com, citizensforethics.org, npr.org, mediaite.com and democracynow.org were blocked in this environment. The figures below come from search-result text across several outlets that quote these sources, and single-source items are attributed.*
+*Method note: the original pages at newyorker.com, citizensforethics.org, npr.org, mediaite.com and democracynow.org were not read directly. The figures below come from search-result text across several outlets that quote these sources, and single-source items are attributed.*
 
 ## The estimates, side by side
 
@@ -32,7 +32,7 @@ Parents: C29 (Forbes figures and the 2025 OGE disclosure), C01 (TRUMP coin royal
    - Crypto at about $2.37B, partly via the Trump Media bitcoin-treasury raise. On CNN he said "most of the crypto profit ran through Trump Media."
    - About $385M from TRUMP/MELANIA coin profit, although another summary says he excluded the meme coins.
 
-   The total covers both terms in some descriptions and "his time in the White House" in others. He published an update to roughly $4B around January 2026. So the brief's "$3.4B cash, second term" is an outdated figure, and it is not strictly second-term only.
+   The total covers both terms in some descriptions and "his time in the White House" in others. He published an update to roughly $4B around January 2026. So the claim's "$3.4B cash, second term" is an outdated figure, and it is not strictly second-term only.
 2. **Forbes: confirmed, but it measures a different thing.** Forbes measures net worth, not cash taken. Trump was at $7.3B in September 2025 (up $3B in a year) and $6.5B in March 2026 (up $1.4B year on year, after the crypto drawdown). The family was at about $10B in September 2025. The family-member figures are covered in C29.
 3. **Bloomberg: confirmed.** Its tallies move with token prices, and it excludes locked tokens. The trajectory: ~$620M from crypto by mid-2025; $7.7B family worth in September 2025; ~$6.7B after the crash; a May 2026 revision adding $660M from previously undisclosed WLFI token sales.
 4. **Reuters/NYT disclosure tallies of $1.4B crypto and $2.2B income: confirmed (see C29).** This is gross income Trump reported himself for calendar 2025, and much of it is reported in value brackets. It is not profit, and it covers Trump personally, not his sons' ventures such as American Bitcoin. The separate Reuters investigation (2026-06-09) is a different number: at least $2.3B to the family from four crypto ventures.
@@ -56,7 +56,7 @@ Parents: C29 (Forbes figures and the 2025 OGE disclosure), C01 (TRUMP coin royal
 ## Sources
 1. Mediaite, "'$3.4 billion': Reporter Tells MSNBC…", https://www.mediaite.com/politics/trump/3-4-billion-reporter-tells-msnbc-trump-family-turning-down-no-opportunity-for-cash-since-taking-office (2025-08)
 2. Media Matters, Kirkpatrick on CNN, https://www.mediamatters.org/donald-trump/cnn-new-yorkers-david-kirkpatrick-discusses-his-reporting-trump-pocketing-presidency (2025-08)
-3. New Yorker, "The Number", https://www.newyorker.com/magazine/2025/08/18/the-number (2025-08-18; not fetched)
+3. New Yorker, "The Number", https://www.newyorker.com/magazine/2025/08/18/the-number (2025-08-18; original not read)
 4. Democracy Now headline, https://www.democracynow.org/2025/8/14/headlines/the_new_yorker_trump_family_has_made_34_billion_from_presidency (2025-08-14)
 5. WNYC Brian Lehrer, "A Tally of Trump's Profits", https://www.wnycstudios.org/podcasts/bl/articles/a-tally-of-trumps-profits
 6. Salon, https://www.salon.com/2026/02/03/trump-familys-4-billion-graft-shows-no-signs-of-stopping (2026-02-03)

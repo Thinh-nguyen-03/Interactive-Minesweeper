@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate (confidence: medium-high)**
 
-## What the video says (transcript lines 137, 195, 227)
+## The claim
 - "Suddenly Melania launches a meme coin" (right after $TRUMP, in the days before the inauguration).
 - "When Melania reported $6 million on her coin and NFTs, Molly [White] tracked those shell companies."
 - "Melania has been down the worst at around ninety nine percent of its value lost."
@@ -17,7 +17,7 @@ $MELANIA, a Solana token, launched on Sunday, January 19, 2025, the evening befo
 - Correction: the disclosure line is for **NFTs and collectibles**. It does not list $MELANIA meme-coin proceeds. The Center for American Progress assigns this income to "$MELANIA coin and related digital ventures", but that is the group's own attribution, not a line item in the filing. "Her coin and NFTs" therefore overstates what was disclosed.
 - She did not file her own report. The figure appears as spouse income on Donald Trump's disclosure.
 - Her total disclosed 2025 income was about $17.2M. Most of it, about $10.7M net, came from the Amazon "Melania" documentary. Her memoir added about $0.5M.
-- "Shell companies": the entities involved are MKT World LLC, the Florida company behind the coin and her NFT and speaking income, and the licensing counterparty. I found reporting on these entities (DL News) and Molly White's general tracking of Trump crypto ventures (Citation Needed, Democracy Now). I did **not** find a specific Molly White piece on Melania's entities, so that attribution is unverified. Calling them "shell companies" is the video's own characterization.
+- "Shell companies": the entities involved are MKT World LLC, the Florida company behind the coin and her NFT and speaking income, and the licensing counterparty. I found reporting on these entities (DL News) and Molly White's general tracking of Trump crypto ventures (Citation Needed, Democracy Now). I did **not** find a specific Molly White piece on Melania's entities, so that attribution is unverified. Calling them "shell companies" is a characterization, not a documented finding.
 
 ### 3. $MELANIA down ~99% — CONFIRMED
 The token peaked at about $13.05-$13.73 on January 19-20, 2025. It hit an all-time low of about $0.066 on June 6, 2026 (CoinGecko, crypto.news). In late October 2026 it traded around $0.08-0.087 (CoinCheckup), which is about 99.4% below the peak (CryptoSlate snapshot: 99.41%). Earlier milestones on the way down:
@@ -52,7 +52,7 @@ The statement that $MELANIA has done worse than $TRUMP (about 92-95% down) is co
 17. Solana Compass, "Judge dismisses LIBRA and M3M3 memecoin class action against Meteora and Ben Chow". https://solanacompass.com/news/judge-dismisses-libra-and-m3m3-memecoin-class-action-against-meteora-and-ben-chow
 18. Democracy Now, Molly White interview on Trump crypto, 2025-05-06. https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics
 
-Note: fortune.com and unchainedcrypto.com could not be fetched from this session because those hosts are not on the network allowlist. Their content is cited from search-result summaries.
+Note: fortune.com and unchainedcrypto.com could not be fetched from this session because those sites are not on the network allowlist. Their content is cited from search-result summaries.
 
 ## Audit (second pass, 2026-11-14)
 

@@ -6,12 +6,12 @@
 - **Most of the federal matters are documented.** Many donors had one within six months of the list date.
 - **Every link from a gift to a decision is our own inference.** No source asserts a quid pro quo, and the Post says its reporting does not show that any donation led to a government action.
 
-This is a third-layer connection hunt that builds on C33, C68 and C69. It does not repeat:
+This is a third-layer connection check that builds on C33, C68 and C69. It does not repeat:
 - the settlement findings in C33;
 - the Nvidia, Microsoft, Palantir, Meta and Amazon analysis in C68;
 - the 45-day pairs in C69 (Microsoft, Lockheed, Palantir, Ripple, Nvidia, Amazon, Ergen).
 
-**Method note.** Every direct fetch failed: the Post, WYPR/NPR, IBTimes, Daily Beast, Public Citizen and DNyuz would not resolve from this session. The findings come from search-result summaries across several outlets, so treat amounts as "WaPo per secondary outlets". About 27 searches were used.
+**Method note.** Every direct fetch failed: the Post, WYPR/NPR, IBTimes, Daily Beast, Public Citizen and DNyuz could not be read directly. The findings come from search-result summaries across several outlets, so treat amounts as "WaPo per secondary outlets". About 27 searches were used.
 
 **Timing caveat.** Gift dates are mostly unknown. For nearly every donor, only two dates are public: the 15 Oct 2025 dinner and 23 Oct 2025 list, and the 15 Oct 2026 publication of the leak. Six-month windows below are measured from the list date unless a gift date is known. A gift could fall on either side of the official act it is paired with.
 
@@ -20,7 +20,7 @@ This is a third-layer connection hunt that builds on C33, C68 and C69. It does n
 - **October 2025 list (documented).** It names about 36-37 donors and gives no amounts. The White House said it was incomplete. Reported counts are 21 corporations plus 15-16 individuals or foundations.
   - Corporations: Altria, Amazon, Apple, Booz Allen Hamilton, Caterpillar, Coinbase, Comcast, Google, HP, Hard Rock International, Lockheed Martin, Meta, Micron, Microsoft, NextEra Energy, Palantir, Reynolds American, Ripple, T-Mobile, Tether America and Union Pacific.
   - Individuals and foundations: the Adelson Family Foundation, Charles and Marissa Cascarilla, J. Pepe and Emilia Fanjul, Harold Hamm, Benjamin Leon Jr., the Lutnick Family, the Laura & Isaac Perlmutter Foundation, Stephen Schwarzman, Konstantin Sokolov, Paolo Tiramani, and Cameron and Tyler Winklevoss (listed separately).
-  - Also reported on the AP list but not re-verified in this run: Stefan Brodie, the Betty Wold Johnson Foundation, and Edward and Shari Glazer.
+  - Also reported on the AP list but not re-verified in this check: Stefan Brodie, the Betty Wold Johnson Foundation, and Edward and Shari Glazer.
 - **Washington Post spreadsheet (single source).** As of late September 2026 it showed:
   - 67 donations above $10,000, totalling about $333M (some outlets say $328.5M);
   - at least $77M from donors who asked for anonymity;
@@ -35,7 +35,7 @@ Amounts are from the WaPo spreadsheet unless noted. "Grade" refers to the link b
 |---|---|---|---|---|---|---|
 | Apple | $25M | unknown (listed Oct 2025) | no | Chip-tariff exemption, 2025-08-06; DOJ antitrust settlement talks, Jul 2026 | Exemption was a general rule for US investors, tied to a $600B pledge | inferred |
 | Nvidia | $25M | Oct 2025 | yes; not on the 2025 list | UAE and Saudi licences 2025-11-19; H200 China sales 2025-12-08 (C68/C69) | Gift came after the Aug 2025 China arrangement | inferred |
-| Adelson Family Foundation | $25M | unknown | no | none found in this run | n/a | no matter found |
+| Adelson Family Foundation | $25M | unknown | no | none found in this check | n/a | no matter found |
 | Charles Ergen (EchoStar) | $25M (2 x $12.5M) | Dec 2025 (anonymous), Feb 2026 | first tranche yes | FCC closed its EchoStar probe 2025-09-08; FCC approved the $40B spectrum sales 2026-05-12 | Probe closed before any gift; approval carried a $2.4B escrow condition | inferred |
 | Google/Alphabet | $22M | 2025-09-29 (settlement) | no | DOJ cross-appeal seeking a Chrome divestiture, Feb 2026 | Settlement, not a gift; adverse federal action | documented (C33) |
 | Microsoft | $10M | unknown | no | UAE chip licences Sep 2025 (C69) | Trump publicly attacked Microsoft over Lisa Monaco | inferred |
@@ -45,8 +45,8 @@ Amounts are from the WaPo spreadsheet unless noted. "Grade" refers to the link b
 | Meta | $5M | unknown | no | Lost the FTC case only in court (2025-11-18); FTC appealed | adverse | documented counter |
 | Amazon | $5M | unknown | no | $2.5B FTC penalty, 2025-09-25 | adverse | documented counter |
 | T-Mobile | $5M | unknown | no | FCC approved UScellular and Metronet after a DEI rollback, Jul 2025 | DOJ had already cleared the deal | inferred |
-| Cisco | $5M (company confirmed) | unknown | n/a | none verified in this run | n/a | unverified |
-| ServiceNow | $5M (company confirmed) | unknown | n/a | none verified in this run | n/a | unverified |
+| Cisco | $5M (company confirmed) | unknown | n/a | none verified in this check | n/a | unverified |
+| ServiceNow | $5M (company confirmed) | unknown | n/a | none verified in this check | n/a | unverified |
 | AT&T | $5M, "pledged" | n/a | n/a | Buyer in the FCC-approved EchoStar deal, 2026-05-12 | AT&T denies giving | disputed |
 | Kelly Loeffler and Jeff Sprecher fund | $5M | unknown | not on public list | Loeffler is SBA Administrator. Sprecher's ICE invested up to $2B in Polymarket on 2025-10-07, where Don Jr. and 1789 Capital hold stakes | Polymarket probes had closed on 2025-07-15, before both | inferred chain |
 | Isabela Herrera | $2.5M | Sep 2025 | not on public list | Father Julio Herrera Velutini pardoned 2026-01-15 | White House denial; plea already reduced Aug 2025 | inferred |
@@ -65,7 +65,7 @@ Amounts are from the WaPo spreadsheet unless noted. "Grade" refers to the link b
 | Benjamin Leon Jr. | not found | unknown | no | Named ambassador to Spain 2025-01-03 | Appointment predates the ballroom | timing cuts against |
 | Konstantin Sokolov | not found | unknown | no | Named Tripp+ fund chair Jul 2026 (C70) | About 9 months after the list | documented appointment |
 | Hamm, Schwarzman | not found | unknown | no | See C86 | — | — |
-| Caterpillar, HP, NextEra, Hard Rock, Fanjul, Perlmutter, Tiramani, Glazer, Brodie, Johnson Foundation | not found | unknown | no | not researched in this run | — | not checked |
+| Caterpillar, HP, NextEra, Hard Rock, Fanjul, Perlmutter, Tiramani, Glazer, Brodie, Johnson Foundation | not found | unknown | no | not researched in this check | — | not checked |
 
 ## Connections (sub-claims)
 

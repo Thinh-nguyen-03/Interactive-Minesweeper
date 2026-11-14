@@ -2,7 +2,7 @@
 
 **Verdict: mostly accurate (confidence: high on the core facts, medium on CZ's exact wording)**
 
-## What the video says (transcript lines 407-453)
+## The claim
 - Binance "just had an SEC lawsuit against them. It was dropped."
 - "Later, Binance's founder himself was pardoned by Trump."
 - "Binance are the people who are doing this $2 billion stablecoin deal."
@@ -26,10 +26,10 @@ On March 12, 2025, MGX (Abu Dhabi, chaired by Sheikh Tahnoon bin Zayed) announce
 ### 4. Trump said he doesn't know who Zhao is: confirmed
 The quote comes from CBS *60 Minutes* with Norah O'Donnell, which aired November 2, 2025. Trump said: "Okay, are you ready? I don't know who he is. I know he got a four-month sentence..." He also said he didn't think he had ever met Zhao, adding "Maybe I did". He said he had been told Zhao was a victim of a "Biden witch hunt" and that he knew "nothing about the guy." When pressed on the appearance of corruption, Trump said he'd "rather not" be asked. Gizmodo reported that this exchange was cut from the broadcast. [9][10][11][12]
 
-Correction: the video says Trump "firmly denies knowing" Zhao. Trump actually hedged ("maybe I did"). Calling the person "he just pardoned from a crime" is fair: Zhao had pleaded guilty.
+Correction: the claim says Trump "firmly denies knowing" Zhao. Trump actually hedged ("maybe I did"). Calling the person "he just pardoned from a crime" is fair: Zhao had pleaded guilty.
 
 ### 5. CZ said he "didn't do much / anything" and that without a pardon Binance is limited in the U.S.: mostly confirmed
-DL News reported these remarks from CZ's interview with Chamath Palihapitiya on the All-In podcast, which listings date to about February 10, 2026. Zhao said he "didn't do much" to get the pardon, and: "Without the pardon it's quite hard for Binance to enter the US in a proper way." [13][14] I could not open a primary transcript of the "UBO of Binance and Binance U.S." and "severely limited" lines; outlet hosts were blocked from this session. They are consistent with the reported remarks but **unverified verbatim**.
+DL News reported these remarks from CZ's interview with Chamath Palihapitiya on the All-In podcast, which listings date to about February 10, 2026. Zhao said he "didn't do much" to get the pardon, and: "Without the pardon it's quite hard for Binance to enter the US in a proper way." [13][14] I could not open a primary record of the "UBO of Binance and Binance U.S." and "severely limited" lines; outlet sites were blocked from this session. They are consistent with the reported remarks but **unverified verbatim**.
 
 Separately, Zhao confirmed in May 2025 that he had applied for a pardon. That application was submitted about two weeks before the SEC dismissal. He denied reports that he offered Binance.US equity in exchange. [15]
 

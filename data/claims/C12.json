@@ -8,7 +8,7 @@
     {
       "statement": "World Liberty is applying for bank charters.",
       "verdict": "confirmed",
-      "finding": "WLTC Holdings LLC filed a single de novo national trust bank charter application with the OCC (dated 2026-01-05, announced 2026-01-07). The proposed bank would issue, redeem and custody USD1, would carry no FDIC insurance, and would not take deposits or make loans. The video's plural 'charters' overstates it.",
+      "finding": "WLTC Holdings LLC filed a single de novo national trust bank charter application with the OCC (dated 2026-01-05, announced 2026-01-07). The proposed bank would issue, redeem and custody USD1, would carry no FDIC insurance, and would not take deposits or make loans. The plural 'charters' overstates it.",
       "sources": [
         "https://secure.businesswire.com/news/home/20260107876750/en/World-Liberty-Financial-Announces-that-WLTC-Holdings-LLC-has-Submitted-an-Application-for-a-National-Trust-Bank-Charter-to-Issue-and-Custody-USD1-Stablecoins",
         "https://www.theblock.co/news/business/2026-01-07-trump-backed-world-liberty-financial-seeks-us-bank-charter-to-bring-usd1-stablecoin-fully-onshore-384708",
@@ -59,8 +59,8 @@
     }
   ],
   "corrections": [
-    "Transcript says 'bank charters' (plural); the record shows one OCC national trust bank charter application by WLTC Holdings LLC for World Liberty Trust Company, N.A.",
-    "Transcript attributes the 'career staffers' claim to WLF; the record shows it appears in the OCC's own preliminary conditional approval letter (CD #1385), and WLF's public response was a general denial of favoritism.",
+    "Claimed: 'bank charters' (plural). The record shows: one OCC national trust bank charter application by WLTC Holdings LLC for World Liberty Trust Company, N.A.",
+    "Claimed: WLF said the approval was conducted by 'career staffers'. The record shows: the phrase appears in the OCC's own preliminary conditional approval letter (CD #1385), and WLF's public response was a general denial of favoritism.",
     "The charter is a limited-purpose trust charter (no deposits, no lending, no FDIC insurance), and the approval is conditional, not final."
   ],
   "denials_and_context": [
@@ -69,7 +69,7 @@
     "Zach Witkoff denies favoritism and says the charter ensures permanent OCC supervision that 'will outlast the Trump administration.'",
     "Context: in Dec 2025 the OCC conditionally approved similar crypto trust charters for Circle, Ripple, BitGo, Fidelity Digital Assets and Paxos, so WLF's approval fits a broader policy, though critics say Gould pushed charters that career staff once viewed skeptically.",
     "Critics include Warren, NCRC, Americans for Financial Reform and House Democrats. On 2026-08-15 Warren and colleagues introduced the Ending Presidential Corruption in Banking Act (S. 5389) to bar such approvals and end this charter.",
-    "The video's 'never seen anything like this' is opinion, not a checkable fact.",
+    "The characterisation 'never seen anything like this' is opinion, not a checkable fact.",
     "The WSJ's 49% StringZ/Tahnoon report (2026-08-27) rests on anonymous sources; the OCC's public decision does not identify StringZ's backer. A White House spokeswoman denied any conflicts of interest."
   ],
   "sources": [

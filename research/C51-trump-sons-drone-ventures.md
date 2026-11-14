@@ -10,9 +10,9 @@ The policy tailwinds are real: Executive Order 14307 (June 2025) and the FCC's D
 
 What remains unproven is any causal link. No reporting shows a Trump family member intervening in any award, financing talk or policy step. All parties deny it, and the Pentagon Inspector General has not said it opened an inquiry.
 
-**What the lead says:** this is a follow-up brief, not a quote from the video. It builds on C28 (Eric Trump / Foundation), C32 (Don Jr. / Unusual Machines / 1789 portfolio) and C26 (1789 Capital / Vulcan). Those parents already establish Don Jr.'s Nov 2024 Unusual Machines advisory role and 331,580 shares, the Oct 2025 Army motor order, the Vulcan $620M OSC loan, and denials by Don Jr. and 1789. This report does not repeat them.
+**The claim:** this is a follow-up brief, not a quote from the video. It builds on C28 (Eric Trump / Foundation), C32 (Don Jr. / Unusual Machines / 1789 portfolio) and C26 (1789 Capital / Vulcan). Those parents already establish Don Jr.'s Nov 2024 Unusual Machines advisory role and 331,580 shares, the Oct 2025 Army motor order, the Vulcan $620M OSC loan, and denials by Don Jr. and 1789. This report does not repeat them.
 
-**Research note:** direct fetches of breakingdefense.com, warren.senate.gov and oversightdemocrats.house.gov failed because those hosts are blocked in this session. The findings rest on search-result summaries from several outlets (Reuters syndications via BNN Bloomberg/CTV/Yahoo, CNBC, Quartz, DroneXL, DefenseScoop, Inside Unmanned Systems, Tectonic Defense, Bloomberg Government, IBTimes, Inquirer, Manufacturing Dive, Al Jazeera, MoFo, TechCrunch). I could not read the letters themselves, only the coverage of them.
+**Research note:** the original pages at breakingdefense.com, warren.senate.gov and oversightdemocrats.house.gov were not read directly. The findings rest on search-result summaries from several outlets (Reuters syndications via BNN Bloomberg/CTV/Yahoo, CNBC, Quartz, DroneXL, DefenseScoop, Inside Unmanned Systems, Tectonic Defense, Bloomberg Government, IBTimes, Inquirer, Manufacturing Dive, Al Jazeera, MoFo, TechCrunch). I could not read the letters themselves, only the coverage of them.
 
 ## Sub-claims
 
@@ -82,7 +82,7 @@ What remains unproven is any causal link. No reporting shows a Trump family memb
 
 1. BNN Bloomberg (Reuters), "Trump brothers-backed Aureus to merge with drone maker Powerus", 2026-03-09. https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/
 2. Yahoo Finance (Reuters), "Trump sons-backed Aureus to merge with drone maker Powerus", 2026-03-09. https://finance.yahoo.com/news/trump-brothers-backed-aureus-merge-123728284.html
-3. Breaking Defense, "Drone-maker Powerus, backed by Trump brothers, goes public", 2026-10 (fetch blocked; seen via search). https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/
+3. Breaking Defense, "Drone-maker Powerus, backed by Trump brothers, goes public", 2026-10 (original not read; seen via search). https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/
 4. DroneLife, "Powerus set to complete merger and become Nasdaq-listed drone company", 2026-09-30. https://dronelife.com/2026/09/30/powerus-merger-drone-company-nasdaq/
 5. Inside Unmanned Systems, "Powerus subsidiary wins up to $90 million Air Force IDIQ for Group 1 aerial denial", 2026-08. https://insideunmannedsystems.com/powerus-subsidiary-wins-up-to-90-million-air-force-idiq-for-group-1-aerial-denial/
 6. Tectonic Defense, "Exclusive: Powerus secures $82M interceptor order", 2026-10. https://www.tectonicdefense.com/exclusive-powerus-secures-82m-interceptor-order/
@@ -99,12 +99,12 @@ What remains unproven is any causal link. No reporting shows a Trump family memb
 17. TechCrunch, "Trump administration's ban on foreign-made drones starts this week", 2025-12-23. https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/
 18. PetaPixel, "US government bans new DJI and other foreign-made drones", 2025-12-23. https://petapixel.com/2025/12/23/us-government-bans-new-dji-and-other-foreign-made-drones/
 19. DroneXL, "Trump Jr., Unusual Machines and the DJI ban timeline", 2026-08-16. https://dronexl.co/2026/08/16/trump-jr-unusual-machines-dji-ban-timeline/
-20. House Oversight Democrats, Garcia letter to DoD IG, 2026-05-08 (fetch blocked). https://oversightdemocrats.house.gov/imo/media/doc/2026-05-08garciatododigretrumpfamilycontracts.pdf
+20. House Oversight Democrats, Garcia letter to DoD IG, 2026-05-08 (original not read directly). https://oversightdemocrats.house.gov/imo/media/doc/2026-05-08garciatododigretrumpfamilycontracts.pdf
 21. IBTimes UK, "Trump's sons face Pentagon probe demands as firms they back win $6 billion in defence deals", 2026. https://www.ibtimes.co.uk/democrats-pentagon-watchdog-trump-sons-defence-deals-1824369
-22. Warren et al., letter to DoD IG re corruption in the Pentagon awards process, 2026-08-04 (fetch blocked). https://www.warren.senate.gov/wp-content/uploads/2026/08/2026.08.04-Letter-to-DoD-IG-re-Corruption-in-Pentagon-Awards-Process.pdf
+22. Warren et al., letter to DoD IG re corruption in the Pentagon awards process, 2026-08-04 (original not read directly). https://www.warren.senate.gov/wp-content/uploads/2026/08/2026.08.04-Letter-to-DoD-IG-re-Corruption-in-Pentagon-Awards-Process.pdf
 23. Philadelphia Inquirer, "Trump sons' investments, Pentagon contracts: Democrats seek investigation", 2026-08-05. https://www.inquirer.com/news/nation-world/trump-sons-investments-pentagon-contracts-democrats-investigation-20260805.html
 24. Bloomberg Government, "Unusual Machines Pentagon contracts scrutinized by Sen. Warren", 2026-05-06. https://news.bgov.com/federal-contracting/unusual-machines-pentagon-contracts-scrutinized-by-sen-warren
-25. Sen. Warren press release, "Warren, Blumenthal, Kim sound alarm on potential for Donald Trump Jr.-linked companies to profit off DoD contract awards, loans", 2026-01-23 (fetch blocked). https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-kim-sound-alarm-on-potential-for-donald-trump-jr-linked-companies-to-profit-off-department-of-defense-contract-awards-loans
+25. Sen. Warren press release, "Warren, Blumenthal, Kim sound alarm on potential for Donald Trump Jr.-linked companies to profit off DoD contract awards, loans", 2026-01-23 (original not read directly). https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-kim-sound-alarm-on-potential-for-donald-trump-jr-linked-companies-to-profit-off-department-of-defense-contract-awards-loans
 26. KVIA (CNN), "Democratic senators sound the alarm on Pentagon backing firms linked to Donald Trump Jr.", 2026-01-23. https://kvia.com/news/business-technology/cnn-business-consumer/2026/01/23/democratic-senators-sound-the-alarm-on-pentagon-backing-firms-linked-to-donald-trump-jr/
 27. Observer-Reporter (ACCESSWIRE), "Unusual Machines secures $12.8 million defense order supplying Strategic Logix's RRSL drone systems", 2025-09-30. https://stocks.observer-reporter.com/observerreporter/article/accwirecq-2025-9-30-unusual-machines-secures-128-million-defense-order-supplying-strategic-logixs-rrsl-drone-systems
 28. Al Jazeera, "US president's son Eric Trump invests in drone maker with gov't contracts", 2026-02-17. https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts
@@ -112,7 +112,7 @@ What remains unproven is any causal link. No reporting shows a Trump family memb
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (independent re-verification with fresh web searches)
+**Result: upheld** (independent re-verification with fresh searches)
 
 Checked:
 - Powerus/Aureus Greenway merger closing (~1 Oct 2026, PUSA) and the brothers' indirect stake

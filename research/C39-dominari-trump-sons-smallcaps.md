@@ -4,21 +4,21 @@
 
 **Summary.** The core of the lead holds up. Donald Trump Jr. and Eric Trump joined the advisory board of Dominari Holdings (Nasdaq: DOMH), a Trump Tower-based investment bank and broker, on Feb. 10-11, 2025. Each took about a 6.7% stake (roughly 13% combined), and the stock soared. Dominari co-formed American Data Centers with them; that company became American Bitcoin. Dominari Securities co-led the IPO of New America Acquisition I, whose advisory board includes its president Kyle Wool. The same bank arranged deals for Unusual Machines, Thumzup and SRM/Tron Inc.
 
-Two parts of the brief overreach:
+Two parts of the claim overreach:
 - **The "Trump son arrives, stock spikes" pattern is not general.** It fits Dominari and Unusual Machines, and in both cases most of the run-up came *before* the public announcement. It does not fit Thumzup, which fell about 14% when Don Jr.'s stake was disclosed, or GrabAGun, which lost about 30% in its first two trading days.
 - **No regulator has acted against Dominari or the sons.** I found no SEC or FINRA action. The documented scrutiny is a March 2026 House China Select Committee letter about Dominari's Chinese small-cap IPOs, plus a 2026 FINRA fine against Revere Securities, the firm Wool ran before Dominari.
 
-**Access note.** Bloomberg, WSJ, FT, Barron's, the House committee site and other primary pages were blocked for direct fetch in this session. The findings below rest on search-result excerpts, syndicated copies and secondary reports, cross-checked across several outlets.
+**Access note.** Bloomberg, WSJ, FT, Barron's, the House committee site and other primary pages were not read directly. The findings below rest on search-result excerpts, syndicated copies and secondary reports, cross-checked across several outlets.
 
-## What the lead says
+## The claim
 
-This is a follow-up brief from C18 (American Bitcoin) and C27 (the New America SPAC), not a quote from the video. It claims that:
+This check builds on C18 (American Bitcoin) and C27 (the New America SPAC). It claims that:
 - Don Jr. and Eric became advisers to and major shareholders of Dominari, whose stock soared.
 - Dominari co-founded American Data Centers/American Bitcoin with them.
 - Dominari co-underwrote their SPAC, and Wool sits on its board.
 - In related small-cap deals (Thumzup, GrabAGun/Colombier II, Unusual Machines), a Trump son's arrival preceded a share-price spike.
 
-The brief asks for stakes, gains, timing, any SEC or FINRA scrutiny, and denials.
+This check asks for stakes, gains, timing, any SEC or FINRA scrutiny, and denials.
 
 C18 and C27 already established the American Bitcoin structure and the SPAC terms. They are only summarized here.
 
@@ -68,13 +68,13 @@ C18 and C27 already established the American Bitcoin structure and the SPAC term
    - Don Jr. joined the advisory board on Nov. 27, 2024. Shares had risen more than 220% in the four weeks before the announcement and rose again after it [17][18].
    - Dominari Securities was exclusive placement agent for Unusual Machines' $40M offering (May 2025) and its $48.5M offering (July 2025), and co-placement agent on a roughly $150M offering in March 2026 [19].
 
-9. **Thumzup: a spike after the Trump son arrived (false as briefed).**
+9. **Thumzup: a spike after the Trump son arrived (false as claimed).**
    - Don Jr.'s 350,000-share stake, worth about $4M, was disclosed in July 2025. It followed a $6M preferred placement that Dominari Securities arranged [20][21].
    - The stock *fell* more than 14% that day [21].
    - Dominari then ran Thumzup's $50M offering at $10 a share. By September insiders were buying at about $5.16 [22].
    - Bloomberg reported Don Jr. bought on an adviser's advice and has no other role. I found no evidence that Eric holds Thumzup shares.
 
-10. **GrabAGun/Colombier II: a spike after the Trump son arrived (false as briefed).**
+10. **GrabAGun/Colombier II: a spike after the Trump son arrived (false as claimed).**
     - GrabAGun merged with Omeed Malik's Colombier Acquisition Corp. II, raised about $179M and began trading as PEW in July 2025. Don Jr. sits on the board with about 300,000 shares, worth about $3M (Reuters) [23][24].
     - The stock fell about 20-24% on its first day and about 30% over two days [24][25].
     - I found no Dominari role in this deal. It belongs to the Malik/1789 network (C26), not Dominari's.
@@ -87,8 +87,8 @@ C18 and C27 already established the American Bitcoin structure and the SPAC term
     - Dominari predecessor Spherix had Barry Honig-linked investors in 2013-14. Honig settled the SEC's 2018 pump-and-dump case without admitting or denying it. This link comes mainly from one newsletter (Wendy Siegelman), which itself says it shows no wrongdoing by Dominari [30].
 
 ## Corrections
-- The brief implies the stock soared after the sons arrived. In fact most of Dominari's surge (about 530-580%) came in the six weeks *before* the Feb. 11, 2025 announcement, and only part of it after.
-- The brief says Thumzup and GrabAGun spiked after a Trump son arrived. Both fell on the Trump news. Thumzup dropped more than 14% on the stake disclosure, and GrabAGun lost about 30% in its first two days.
+- The claim implies the stock soared after the sons arrived. In fact most of Dominari's surge (about 530-580%) came in the six weeks *before* the Feb. 11, 2025 announcement, and only part of it after.
+- The claim says Thumzup and GrabAGun spiked after a Trump son arrived. Both fell on the Trump news. Thumzup dropped more than 14% on the stake disclosure, and GrabAGun lost about 30% in its first two days.
 - GrabAGun/Colombier II is an Omeed Malik deal with no documented Dominari role.
 - "SEC/FINRA scrutiny": none of Dominari or the sons is documented. The scrutiny on record is a congressional letter (House China committee, March 2026) and a FINRA fine against Revere, Wool's previous firm.
 - The "half a billion dollars" gain is mostly paper value from American Bitcoin's peak, and that value has since largely evaporated.
@@ -133,7 +133,7 @@ C18 and C27 already established the American Bitcoin structure and the SPAC term
 23. GuruFocus, "GrabAGun ... completes business combination with Colombier II," 2025-07. https://www.gurufocus.com/news/2979153/grabagun-a-mobilefocused-online-firearms-retailer-and-defender-of-the-second-amendment-completes-business-combination-with-colombier-ii-and-will-begin-trading-on-nyse-clbr-stock-news
 24. WTOP (AP), "The online gunseller with Donald Trump Jr. on its board makes its market debut. Shares plunge," 2025-07. https://wtop.com/news/2025/07/the-online-gunseller-with-donald-trump-jr-on-its-board-makes-its-market-debut-shares-plunge
 25. Business Insider NL, GrabAGun drops 30% in second day of trading, 2025-07. https://www.businessinsider.nl/stock-of-an-online-gun-seller-backed-by-donald-trump-jr-drops-30-in-its-2nd-day-of-trading/
-26. House Select Committee on the CCP (Democrats), "Khanna, Moolenaar investigate US underwriters ...," 2026-03. https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-moolenaar-investigate-us-underwriters-helped-chinese-businesses-rip ; letter PDF (fetch blocked). https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/letter_dominari.pdf
+26. House Select Committee on the CCP (Democrats), "Khanna, Moolenaar investigate US underwriters ...," 2026-03. https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-moolenaar-investigate-us-underwriters-helped-chinese-businesses-rip ; letter PDF (original not read directly). https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/letter_dominari.pdf
 27. Caixin Global, "US lawmakers probe underwriters over Chinese IPO manipulation claims," 2026-03-11. https://www.caixinglobal.com/2026-03-11/us-lawmakers-probe-underwriters-over-chinese-ipo-manipulation-claims-102421674.html
 28. Dominari, "Dominari Releases Letter to Shareholders and Clients" (Barchart), 2026-03. https://www.barchart.com/story/news/768316/dominari-releases-letter-to-shareholders-and-clients
 29. FINRA, "FINRA Fines Revere Securities $800,000 for Small-Cap IPO-Related AML and Supervisory Failures," 2026 (June or October; sources differ). https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and

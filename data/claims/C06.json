@@ -3,7 +3,7 @@
   "title": "Secret $500M / 49% UAE stake in WLF",
   "verdict": "confirmed",
   "confidence": "medium",
-  "summary": "The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle backed by UAE national security adviser Sheikh Tahnoon bin Zayed (brother of President Mohamed bin Zayed), agreed to pay $500M for 49% of World Liberty Financial. Eric Trump signed the deal about 2025-01-16, four days before the inauguration, and it was not publicly disclosed. The figures, timing, roles and secrecy in the video all match the reporting, as relayed by multiple outlets; the WSJ original could not be accessed directly. Trump says he knew nothing about it, and WLF and the White House deny wrongdoing.",
+  "summary": "The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle backed by UAE national security adviser Sheikh Tahnoon bin Zayed (brother of President Mohamed bin Zayed), agreed to pay $500M for 49% of World Liberty Financial. Eric Trump signed the deal about 2025-01-16, four days before the inauguration, and it was not publicly disclosed. The figures, timing, roles and secrecy in the claim all match the reporting, as relayed by multiple outlets; the WSJ original could not be accessed directly. Trump says he knew nothing about it, and WLF and the White House deny wrongdoing.",
   "sub_claims": [
     {
       "statement": "A Wall Street Journal investigation, with Sam Kessler among the reporters, uncovered the deal.",
@@ -66,9 +66,8 @@
     }
   ],
   "corrections": [
-    "The transcript spells the name 'Tahoon'; it is Tahnoon bin Zayed Al Nahyan.",
-    "The buyer was Aryam Investment 1, a Tahnoon-backed vehicle, not Tahnoon personally.",
-    "Transcript lines 307-309 are garbled by auto-transcription; the $500M and 49% figures are given clearly in lines 317-322."
+    "The name is sometimes misspelled 'Tahoon'; it is Tahnoon bin Zayed Al Nahyan.",
+    "The buyer was Aryam Investment 1, a Tahnoon-backed vehicle, not Tahnoon personally."
   ],
   "denials_and_context": [
     "Trump said in the Oval Office in early February 2026: 'I don't know about it ... My sons are handling that.' He later told CBS he knows 'nothing' about the firm.",

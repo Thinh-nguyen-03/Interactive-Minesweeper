@@ -2,16 +2,16 @@
 
 **Verdict: mostly accurate** (confidence: medium)
 
-The brief bundles eight follow-up threads from C04, C05, C13, C14 and C29. Most hold up on the documented record: the 75% revenue entitlement, Trump's disclosed WLF income, Witkoff's roughly $107M of 2025 income, the Dolomite borrowing against about 5B WLFI, the token freezes, the $SPSC promotion and the WLFI price collapse. Three parts need correction or stay open:
+The claim bundles eight follow-up threads from C04, C05, C13, C14 and C29. Most hold up on the documented record: the 75% revenue entitlement, Trump's disclosed WLF income, Witkoff's roughly $107M of 2025 income, the Dolomite borrowing against about 5B WLFI, the token freezes, the $SPSC promotion and the WLFI price collapse. Three parts need correction or stay open:
 
 - **The borrowing.** It was done by World Liberty's own treasury or multisig wallets, not by individual insiders borrowing personally. "Insider loans" is a headline phrase, and the loan size is disputed.
 - **Retail losses.** No source quantifies WLFI retail losses in dollars.
 - **StringZ Holding.** Its ownership rests on one Wall Street Journal report citing anonymous sources. The OCC record names StringZ but not who owns it.
 
-**Fetch limits.** Fortune, CoinDesk and the ABC affiliate pages could not be fetched from this environment (the hosts would not resolve). The WSJ is paywalled. Findings rest on search-result text from several outlets, cross-checked against each other where possible.
+**Fetch limits.** Fortune, CoinDesk and the ABC affiliate pages could not be read directly. The WSJ is paywalled. Findings rest on search-result text from several outlets, cross-checked against each other where possible.
 
-## What the brief asks
-The brief asks how money flowed out of World Liberty Financial (WLF) to the Trump and Witkoff families and to insiders, and what happened to the token and its outside holders. This is a follow-up lead; the video does not cover it directly.
+## What was checked
+This check asks how money flowed out of World Liberty Financial (WLF) to the Trump and Witkoff families and to insiders, and what happened to the token and its outside holders. 
 
 ## Sub-claims
 

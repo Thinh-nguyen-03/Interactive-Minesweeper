@@ -2,9 +2,9 @@
 
 **Verdict: mostly-accurate (confidence: medium)**
 
-This is a second-layer connection hunt that builds on C63, C57 and C70 (and on C06 and C12) without repeating them. The entity names, formation dates, fee payments, the Khanna referral and the Warren/Kim CFIUS request are all documented. The weakest part of the brief is the hoped-for registry overlap between StringZ Holding RSC and Aryam Investment 1. I found no ADGM register entry and no shared officer, agent or address. That overlap is **unverified**, not disproven. No answer to the Khanna referral and no CFIUS outcome have been reported as of Nov 2026.
+This is a second-layer connection check that builds on C63, C57 and C70 (and on C06 and C12) without repeating them. The entity names, formation dates, fee payments, the Khanna referral and the Warren/Kim CFIUS request are all documented. The weakest part of the claim is the hoped-for registry overlap between StringZ Holding RSC and Aryam Investment 1. I found no ADGM register entry and no shared officer, agent or address. That overlap is **unverified**, not disproven. No answer to the Khanna referral and no CFIUS outcome have been reported as of Nov 2026.
 
-Method note: citizensforethics.org, forbes.com, thenationalnews.com and gondola.cc could not be fetched from here. CREW, Forbes and The National findings therefore come from search snippets and syndicated copies (Forbes regional editions, Times Brasil for CNBC, Forklog for the WSJ). The Delaware and ADGM registers could not be queried.
+Method note: citizensforethics.org, forbes.com, thenationalnews.com and gondola.cc could not be read directly. CREW, Forbes and The National findings therefore come from search snippets and syndicated copies (Forbes regional editions, Times Brasil for CNBC, Forklog for the WSJ). The Delaware and ADGM registers could not be queried.
 
 ## Timeline
 
@@ -41,7 +41,7 @@ Method note: citizensforethics.org, forbes.com, thenationalnews.com and gondola.
 
 ## Corrections
 
-- The brief treats "DT Marks Abu Dhabi" and "Al Raha Beach" as one formation. They were formed about six months apart: 30 Jan 2025, and July 2025 per CREW.
+- The claim treats "DT Marks Abu Dhabi" and "Al Raha Beach" as one formation. They were formed about six months apart: 30 Jan 2025, and July 2025 per CREW.
 - The Abu Dhabi fees came from Damac, not from Dar Global (the partner named in Dec 2024) and not from any Tahnoon vehicle.
 
 ## Not connected in the coverage we found

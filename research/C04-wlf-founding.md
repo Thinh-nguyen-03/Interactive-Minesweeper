@@ -1,27 +1,27 @@
 # C04 — World Liberty Financial founding and token sale
 
-**Verdict: mostly accurate (confidence: high).** The founding timeline, the token and stablecoin, the missing app, and the Chase Herro quote all check out. The sales story does not. The video says sales "exploded" around the election and "sold out $550 million." In fact, sales stayed nearly flat right after Trump won. They picked up only after Justin Sun's $30M purchase in late November 2024. The first $300M tranche sold out on 20 January 2025, and the $550M total was reached only in mid-March 2025, more than four months after the election.
+**Verdict: mostly accurate (confidence: high).** The founding timeline, the token and stablecoin, the missing app, and the Chase Herro quote all check out. The sales story does not. The claim is that sales "exploded" around the election and "sold out $550 million." In fact, sales stayed nearly flat right after Trump won. They picked up only after Justin Sun's $30M purchase in late November 2024. The first $300M tranche sold out on 20 January 2025, and the $550M total was reached only in mid-March 2025, more than four months after the election.
 
-## What the video says (transcript lines 245-279)
+## The claim
 - WLF is a crypto project "created by the Trump family shortly before the election in 2024."
 - It plans a DeFi application for trading, borrowing and lending. So far it has launched only the WLFI governance token and the USD1 stablecoin, and no app.
-- The family had no DeFi experience. Co-founder "Chase Hero" (Chase Herro) said you could sell "[shit] in a can ... covered in human skin for a billion dollars if the story's right."
+- The family had no DeFi experience. Co-founder Chase Herro said you could sell "[shit] in a can ... covered in human skin for a billion dollars if the story's right."
 - In October 2024, "when some people thought Trump might lose," sales were bad. "As the election approached and Trump won, sales of World Liberty Financial exploded and sold out $550 million worth."
 
 ## Findings by sub-claim
 
 1. **Founded by the Trump family shortly before the 2024 election: mostly confirmed, with nuance.** Trump announced WLF on X and launched it in a two-hour X Spaces event on 16 September 2024, about seven weeks before the election [1][2]. The operating founders were Chase Herro and Zachary Folkman, with Trump, Eric Trump and Donald Trump Jr. backing them [3][4]. Calling it "created by the Trump family" is a simplification. Still, a Trump-owned entity, DT Marks DEFI LLC, holds a contractual right to 75% of net protocol revenue, which includes token sales [5].
-2. **Planned DeFi app (trading, borrowing, lending); only WLFI and USD1 launched: confirmed for the time of the video, now outdated.**
+2. **Planned DeFi app (trading, borrowing, lending); only WLFI and USD1 launched: confirmed until January 2026, now outdated.**
    - The WLFI governance token went on sale on 15 October 2024 and was non-transferable at first [6][7].
    - USD1 was confirmed in March 2025, with reserves custodied by BitGo [8].
    - WLFI started trading on exchanges on 1 September 2025 [9].
    - WLF launched its first app, the lending and borrowing platform "World Liberty Markets" built on Dolomite, on 12 January 2026 [10][11]. "No application" was therefore true until January 2026 but is no longer true as of November 2026.
-3. **Chase Herro's "shit in a can" remark: confirmed.** The quote comes from a 2018 YouTube video of Herro, who has called himself the "dirtbag of the internet." The video has since been made private, but MSNBC aired it in 2024 [3][12][13]. Herro's full line includes "wrapped in piss"; the transcript drops the profanity. In November 2025, WLF itself promoted a memecoin named after the rant, "Shit Piss Skin Can" ($SPSC) [14].
+3. **Chase Herro's "shit in a can" remark: confirmed.** The quote comes from a 2018 YouTube video of Herro, who has called himself the "dirtbag of the internet." The video has since been made private, but MSNBC aired it in 2024 [3][12][13]. Herro's full line includes "wrapped in piss"; the quote as given in the claim leaves that out. In November 2025, WLF itself promoted a memecoin named after the rant, "Shit Piss Skin Can" ($SPSC) [14].
 4. **Sales were poor in October 2024: confirmed.**
    - The sale aimed to raise $300M by selling 20% of supply at $0.015 per token, a $1.5B valuation [6].
    - On day one it sold about 4% of that target [15].
    - An SEC filing dated 30 October 2024 cut the target by 90%, to $30M [5][16].
-   - The video's explanation, that "some people thought Trump might lose," is the narrator's speculation. Reporting at the time pointed to weak demand, website and technical problems, and the restriction to accredited investors, which kept out US retail buyers [5][16].
+   - The explanation that "some people thought Trump might lose" is speculation. Reporting at the time pointed to weak demand, website and technical problems, and the restriction to accredited investors, which kept out US retail buyers [5][16].
 5. **Sales "exploded" when Trump won and "sold out $550 million": misleading on timing.**
    - In the 24 hours after the election, fewer than 100,000 WLFI tokens (under $1,500) sold, with $14.8M cumulative, while the wider crypto market rallied about 11% [17].
    - The real turning point was Justin Sun's $30M purchase on 25 November 2024. It took total sales to about $52M and pushed WLF past the $30M threshold that triggers payouts to the Trump entity [18][19].
@@ -30,11 +30,11 @@
    - So the $550M was reached over roughly five months, mostly after the inauguration, and not immediately on the election result.
 
 ## Corrections
-- The transcript says sales "exploded" as Trump won the election. The record shows almost no sales right after the election (under $1,500 in the first 24 hours and about $15M in total). The jump came after Sun's $30M buy on 25 November 2024.
-- The transcript says WLF "sold out $550 million worth." The first $300M tranche sold out around 20 January 2025, and $250M more came from a second tranche at about 3.3 times the price, which closed in March 2025.
-- The transcript says no application has launched. World Liberty Markets, a lending app, launched on 12 January 2026.
-- The transcript says WLF was created by the Trump family. The named founders are Chase Herro and Zak Folkman, and the Trump family members are promoters who also receive revenue through DT Marks DEFI LLC.
-- The transcript's "Chase Hero" is Chase Herro.
+- Claimed: sales "exploded" as Trump won the election. The record shows: almost no sales right after the election (under $1,500 in the first 24 hours and about $15M in total). The jump came after Sun's $30M buy on 25 November 2024.
+- Claimed: WLF "sold out $550 million worth." The record shows: the first $300M tranche sold out around 20 January 2025, and $250M more came from a second tranche at about 3.3 times the price, which closed in March 2025.
+- Claimed: no application has launched. The record shows: World Liberty Markets, a lending app, launched on 12 January 2026.
+- Claimed: WLF was created by the Trump family. The record shows: the named founders are Chase Herro and Zak Folkman, and the Trump family members are promoters who also receive revenue through DT Marks DEFI LLC.
+- The co-founder's name is Chase Herro, sometimes misspelled "Chase Hero".
 
 ## Denials and context
 - WLF has described its token sale as successful and its $550M total as a milestone [22]. Folkman credited Sun's investment with reviving the project [19].

@@ -41,7 +41,7 @@
     {
       "statement": "Hary Tanoesoedibjo / MNC (Indonesia): Trump resort partner, with the Indonesian tariff deal and Prabowo's hot-mic request to meet Eric.",
       "verdict": "partly-accurate",
-      "finding": "DOCUMENTED, with the favour framing not supported. Deal: the Trump-branded Lido (West Java) and Bali projects with MNC date from 2015-2019. Indonesia's own government acted against the partner: the Environment Ministry halted Lido on 6 Feb 2025, and its enforcement arm named a suspect in the Lido case in September 2025. US decision: the 32% tariff threat was cut to 19% (July 2025 deal, finalized Feb 2026). The link that is documented is the 13 Oct 2025 Sharm el-Sheikh hot-mic exchange: Prabowo asked to meet 'Eric or Don Jr.' and mentioned 'Hary', and Trump said he would have Eric call. Foreign Minister Sugiono said he had not heard the recording. Who 'Hary' means is unconfirmed. No source ties the tariff outcome to MNC. Per-project MNC fees in the 2025 disclosure were not found in this pass.",
+      "finding": "DOCUMENTED, with the favour framing not supported. Deal: the Trump-branded Lido (West Java) and Bali projects with MNC date from 2015-2019. Indonesia's own government acted against the partner: the Environment Ministry halted Lido on 6 Feb 2025, and its enforcement arm named a suspect in the Lido case in September 2025. US decision: the 32% tariff threat was cut to 19% (July 2025 deal, finalized Feb 2026). The link that is documented is the 13 Oct 2025 Sharm el-Sheikh hot-mic exchange: Prabowo asked to meet 'Eric or Don Jr.' and mentioned 'Hary', and Trump said he would have Eric call. Foreign Minister Sugiono said he had not heard the recording. Who 'Hary' means is unconfirmed. No source ties the tariff outcome to MNC. Per-project MNC fees in the 2025 disclosure were not found in this check.",
       "sources": [
         "https://www.malaymail.com/news/money/2025/02/06/indonesia-orders-developer-mnc-land-to-halt-project-linked-to-trump/165769",
         "https://www.thestandard.com.hk/world/article/314044/Indonesian-president-asks-Trump-for-meeting-with-son-Eric-in-hot-mic-moment",
@@ -170,14 +170,14 @@
     {
       "statement": "'Bilt' as a foreign partner of the Trump family.",
       "verdict": "unverified",
-      "finding": "The brief itself flagged this with a question mark. I found no reporting linking Bilt Rewards or its founder Ankur Jain to the Trump family, Kushner, or a US government decision. Discarded.",
+      "finding": "The claim itself flagged this with a question mark. I found no reporting linking Bilt Rewards or its founder Ankur Jain to the Trump family, Kushner, or a US government decision. Discarded.",
       "sources": [
         "https://www.forbes.com.au/news/entrepreneurs/billionaire-rewarding-home-renters"
       ]
     }
   ],
   "corrections": [
-    "The brief's 'Bilt' has no documented Trump-family connection.",
+    "The claim's 'Bilt' has no documented Trump-family connection.",
     "Damac's 2025 fee total is reported as $12.5M (The National, CREW) or $11.3M (CNBC); the two outlets disagree.",
     "El Salvador and Azerbaijan have documented US policy actions, but no second-term Trump-family business deal was found.",
     "The Indonesian government halted, rather than fast-tracked, the MNC Lido project (Feb 2025), and named a suspect in Sept 2025.",

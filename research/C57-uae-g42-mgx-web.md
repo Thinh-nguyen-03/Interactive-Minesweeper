@@ -6,7 +6,7 @@
 
 ## Summary
 
-Almost every link in the brief is documented.
+Almost every link in the claim is documented.
 
 - **World Liberty:** Tahnoon-linked vehicles hold 49% of World Liberty Financial (Aryam, signed January 2025). The WSJ reported in August 2026 that they also hold 49% of the holding company behind WLF's OCC trust bank (StringZ).
 - **MGX:**
@@ -24,7 +24,7 @@ Three points are weaker:
 
 No quid pro quo has been documented. WLF, the White House and Trump deny any link between the UAE money and US policy.
 
-Research note: direct fetches of most news sites were blocked in this environment, and the session's web-search budget ran out before the TikTok closing details and the G42 reincorporation report could be re-checked. Findings rely on search-result coverage across several outlets, plus the parent claims' sourcing.
+Research note: the original pages at most news sites were not read directly, and the research ended before the TikTok closing details and the G42 reincorporation report could be re-checked. Findings rely on search-result coverage across several outlets, plus the parent claims' sourcing.
 
 ## Map of entities (who controls what)
 
@@ -123,7 +123,7 @@ Research note: direct fetches of most news sites were blocked in this environmen
 - **Approvals:** None were required.
 
 ## Corrections
-- The brief says "ADQ/Lunate". The documented Affinity investor is Lunate (with QIA), not ADQ.
+- The claim says "ADQ/Lunate". The documented Affinity investor is Lunate (with QIA), not ADQ.
 - That Tahnoon owns StringZ and that its stake is 49% are anonymous WSJ sourcing, not OCC-disclosed facts.
 - MGX holds 15% of the TikTok US joint venture. Early reports of a 45% combined Oracle/Silver Lake/MGX share were superseded.
 - MGX's exact role in the OpenAI round, and its dollar amounts in the OpenAI, xAI and Anthropic rounds, are undisclosed or inconsistently described.
