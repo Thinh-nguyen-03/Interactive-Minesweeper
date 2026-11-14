@@ -50,3 +50,9 @@ Direct fetches of sec.gov and the AP syndication sites failed with DNS or networ
 10. ACCESSWIRE (syndicated), closing of the $345M IPO, 2025-12-05. https://business.minstercommunitypost.com/minstercommunitypost/article/accwirecq-2025-12-5-new-america-acquisition-i-corp-announces-closing-of-345-million-initial-public-offering
 11. Wendy Siegelman, "Eric and Don Jr partner with Dominari". https://wendysiegelman.substack.com/p/eric-and-don-jr-partner-with-dominari
 12. GuruFocus press release, GrabAGun completes business combination with Colombier II, 2025-07. https://www.gurufocus.com/news/2979153/grabagun-a-mobilefocused-online-firearms-retailer-and-defender-of-the-second-amendment-completes-business-combination-with-colombier-ii-and-will-begin-trading-on-nyse-clbr-stock-news
+
+## Audit (second review, Nov 2026)
+Result: **upheld**. AP's account of the same-day removal of the incentives language, Paul Hastings' "scriveners" explanation, and the roughly $50M paper value of the founder shares were all re-confirmed through AP syndications. No business-combination agreement or named target was found as of the latest filings located. A February 6, 2026 8-K reports board changes. Third-party summaries put the liquidation deadline at June 5, 2027, extendable, but that is unverified.
+
+A1. AP via News4Jax, "Company advised by Trump sons said it hoped to benefit from fed money, then took it back", 2025-08-04. https://www.news4jax.com/business/2025/08/04/company-advised-by-trump-sons-said-it-hoped-to-benefit-from-fed-money-then-took-it-back/
+A2. StreetInsider, Form 8-K, New America Acquisition I Corp, 2026-02-06. https://www.streetinsider.com/SEC+Filings/Form+8-K+New+America+Acquisition+For%3A+Feb+06/25968632.html

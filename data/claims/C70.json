@@ -899,6 +899,12 @@
       "description": "July 2025 tariff deal"
     },
     {
+      "id": "us-commerce-department",
+      "name": "US Department of Commerce",
+      "type": "government",
+      "description": "Chip export licensing"
+    },
+    {
       "id": "crew",
       "name": "Citizens for Responsibility and Ethics in Washington",
       "type": "company",
