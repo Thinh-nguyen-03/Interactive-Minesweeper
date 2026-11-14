@@ -428,19 +428,19 @@
       "id": "iran",
       "name": "Iran",
       "type": "country",
-      "description": "see parent claims"
+      "description": "Country at the centre of Blumenthal's Tether sanctions probe"
     },
     {
       "id": "white-house",
       "name": "White House",
       "type": "government",
-      "description": "see parent claims"
+      "description": "Executive Office of the President"
     },
     {
       "id": "bitcoin",
       "name": "Bitcoin",
       "type": "asset",
-      "description": "see parent claims"
+      "description": "Cryptocurrency"
     }
   ],
   "relationships": [
