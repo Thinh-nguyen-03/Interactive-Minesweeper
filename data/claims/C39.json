@@ -8,7 +8,7 @@
     {
       "statement": "Don Jr. and Eric Trump became advisers to and major shareholders of Dominari Holdings.",
       "verdict": "confirmed",
-      "finding": "Advisory agreements date to Feb. 10, 2025, with an initial grant of 250,000 shares each. Each brother also bought about $1M in the $13.5M placement priced at $3.47 per unit. 13G filings show 966,138 shares each (6.71%) as of Feb. 21, 2025, plus 432,276 warrant shares each, putting each near 10% fully diluted. Their exact cost basis is not disclosed.",
+      "finding": "Advisory agreements date to Feb. 10, 2025, with an initial grant of 250,000 shares each. Each brother also bought about $1M in the $13.5M placement priced at $3.47 per unit. 13G filings show 966,138 shares each (6.71%) as of Feb. 21, 2025, plus 432,276 warrant shares each, putting each near 10% fully diluted. Their exact cost basis is not disclosed. Barron's noted the 13Gs excluded the 432,276 warrant shares as 'not currently exercisable due to certain beneficial ownership limitations', which kept each brother below the 10% insider threshold.",
       "sources": [
         "https://www.sec.gov/Archives/edgar/data/12239/000121390026036897/ea0283159-10k_domin.htm",
         "https://itiger.com/news/2516537088",
@@ -19,14 +19,15 @@
     {
       "statement": "Dominari's stock soared after the Trump sons arrived.",
       "verdict": "mostly-accurate",
-      "finding": "DOMH was under $1 in December 2024. It rose about 529-580% in the six weeks before the Feb. 11 announcement, jumped as much as 84% on the day, and gained about 300% in the week. Forbes found daily volume went from about 11,500 to about 1.2M shares from Dec. 30. Most of the spike preceded the public news. The stock ended 2025 just under $5.",
+      "finding": "DOMH was under $1 in December 2024. It rose about 529-580% in the six weeks before the Feb. 11 announcement, jumped as much as 84% on the day, and gained about 300% in the week. Forbes found daily volume went from about 11,500 to about 1.2M shares from Dec. 30; TipRanks gave different figures (under 2,000 to over 200,000 shares in the days before), so volume numbers vary by outlet and window. Most of the spike preceded the public news. The stock ended 2025 just under $5.",
       "sources": [
         "https://itiger.com/news/2516537088",
         "https://www.bloomberg.com/news/articles/2025-02-11/trump-s-sons-back-friend-s-penny-stock-spurring-84-price-jump",
         "https://www.axios.com/2025/02/14/trump-dominari-stock",
         "https://www.joemygod.com/2025/03/forbes-trump-sons-suspected-of-insider-trading/",
         "https://www.tipranks.com/news/the-fly/trading-in-obscure-stocks-soared-before-trump-appointments-disclosed-ft-says",
-        "https://www.biospace.com/press-releases/dominari-2025-revenue-surges-487-in-2025-balance-sheet-strengthens-significantly"
+        "https://www.biospace.com/press-releases/dominari-2025-revenue-surges-487-in-2025-balance-sheet-strengthens-significantly",
+        "https://www.tipranks.com/news/trump-family-appointments-spark-suspicious-surge-in-2-stocks-before-news-breaks"
       ]
     },
     {
@@ -107,7 +108,7 @@
     {
       "statement": "GrabAGun/Colombier II: a Trump son's arrival preceded a share-price spike.",
       "verdict": "false",
-      "finding": "GrabAGun merged with Omeed Malik's Colombier II, raised about $179M and listed as PEW in July 2025. Don Jr. is on the board with about 300,000 shares (about $3M). The stock fell about 20-24% on debut and about 30% in two days. No Dominari role was found.",
+      "finding": "GrabAGun merged with Omeed Malik's Colombier II, raised about $179M and listed as PEW in July 2025. Don Jr. is on the board with about 300,000 shares (about $3M). The stock fell about 20-24% on debut and about 30% in two days. No Dominari role was found. The House CCP committee's letters went to three underwriters: Dominari (11 of 29 IPOs), Revere (12 of 40) and D. Boral Capital (10 of 30+), the last being Dominari's co-lead on the sons' SPAC IPO.",
       "sources": [
         "https://www.gurufocus.com/news/2979153/grabagun-a-mobilefocused-online-firearms-retailer-and-defender-of-the-second-amendment-completes-business-combination-with-colombier-ii-and-will-begin-trading-on-nyse-clbr-stock-news",
         "https://wtop.com/news/2025/07/the-online-gunseller-with-donald-trump-jr-on-its-board-makes-its-market-debut-shares-plunge",
@@ -374,6 +375,18 @@
       "publisher": "Decrypt",
       "url": "https://decrypt.co/325516/eric-trump-denies-involvement-tron-nasdaq-deal",
       "date": "2025-06"
+    },
+    {
+      "title": "FINRA Fines Revere Securities $800,000 for Small-Cap IPO-Related AML and Supervisory Failures",
+      "publisher": "Mondo Visione",
+      "url": "https://mondovisione.com/news/finra-fines-revere-securities-800000-for-small-cap-ipo-related-aml-and-supervi-2026106/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Trump family appointments spark suspicious surge in 2 stocks before news breaks",
+      "publisher": "TipRanks",
+      "url": "https://www.tipranks.com/news/trump-family-appointments-spark-suspicious-surge-in-2-stocks-before-news-breaks",
+      "date": "2025-02"
     }
   ],
   "entities": [
@@ -919,6 +932,56 @@
         "finra"
       ],
       "source_url": "https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and"
+    },
+    {
+      "title": "Dominari's 10 million executive options granted on 10 Feb 2025, the day of the Trump sons' advisory agreements",
+      "why_connected": "A third-party analysis alleges the compensation committee granted CEO Hayes and President Wool 10M options on 10 Feb 2025 while holding material nonpublic information (the announcement came on 11 Feb). This is unverified; it should be checked against the 2026 proxy.",
+      "entities": [
+        "dominari-holdings",
+        "donald-trump-jr",
+        "eric-trump"
+      ],
+      "source_url": "https://www.panabee.com/news/dominari-executive-compensation-2026"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "The sons' 6.71% 13G stakes and the $3.47 private placement",
+      "DOMH's pre-announcement run-up (529-580%) and volume figures",
+      "House CCP committee letter and the FINRA fine on Revere",
+      "Hayes/Wool 2025 pay (~$66M)"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Core figures re-confirmed (13G 966,138 shares/6.71%; $3.47 units; 529% per Barron's and ~580% per FT pre-announcement; Bloomberg $34M/$32M pay).",
+      "Noted that volume figures differ by outlet (Forbes vs TipRanks), and that the 13Gs excluded 432,276 warrant shares as not exercisable, keeping each brother below 10%.",
+      "Dated the Revere FINRA fine to around early Oct 2026 (trade coverage) and added that the House CCP letters also went to D. Boral Capital, Dominari's co-lead on the sons' SPAC IPO. Verdict and confidence unchanged."
+    ],
+    "new_sources": [
+      {
+        "title": "FINRA Fines Revere Securities $800,000 for Small-Cap IPO-Related AML and Supervisory Failures",
+        "publisher": "Mondo Visione",
+        "url": "https://mondovisione.com/news/finra-fines-revere-securities-800000-for-small-cap-ipo-related-aml-and-supervi-2026106/",
+        "date": "2026-10"
+      },
+      {
+        "title": "US lawmakers probe underwriters over Chinese IPO manipulation claims",
+        "publisher": "Caixin Global",
+        "url": "https://www.caixinglobal.com/2026-03-11/us-lawmakers-probe-underwriters-over-chinese-ipo-manipulation-claims-102421674.html",
+        "date": "2026-03-11"
+      },
+      {
+        "title": "Trump Tower Banker Duo Share $66 Million Pay Package for 2025",
+        "publisher": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-27/trump-tower-banker-duo-share-66-million-pay-package-for-2025",
+        "date": "2026-01-27"
+      },
+      {
+        "title": "Trump family appointments spark suspicious surge in 2 stocks before news breaks",
+        "publisher": "TipRanks",
+        "url": "https://www.tipranks.com/news/trump-family-appointments-spark-suspicious-surge-in-2-stocks-before-news-breaks",
+        "date": "2025-02"
+      }
+    ]
+  }
 }

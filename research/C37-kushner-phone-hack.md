@@ -98,3 +98,13 @@ The lead is a user-requested follow-up to C15 (Kushner and Affinity Partners), a
 27. Ynet, "Report: whistleblower complaint against Gabbard tied to Iran-linked Kushner intercept", 2026-02. https://www.ynetnews.com/article/skzc6mnp11e
 28. NBC New York, "Iranian hackers: emails allegedly stolen from Kash Patel", 2026-03. https://www.nbcnewyork.com/news/national-international/iranian-hackers-emails-allegedly-stolen-kash-patel/6482486/
 29. Hasbara.co.il fact check (advocacy site; used only for the rumour category). https://hasbara.co.il/facts-myths/myth-jared-kushner-intelligence-allegations
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **upheld**.
+
+- **Still a single-source allegation.** As of mid-Nov 2026 I found no filed defamation suit, no retraction or correction from Vanity Fair, Condé Nast or Simon & Schuster, and no confirmation from US or Dutch officials. Clare Locke sent a demand letter for Kushner (Mizelle: "More to come"). Simon & Schuster reportedly released the book a couple of days early anyway (Political Wire, 26 Oct 2026; TheWrap, 24 Oct 2026).
+- **More denials.** White House communications director Steven Cheung called the article "baseless smears" and the book fiction. That is in addition to the denials from Kushner, Mizelle and Trump already recorded.
+- **Sceptics confirmed.** Multiple outlets confirm that the Jerusalem Post pulled its write-up, citing "significant factual questions", and that Barak Ravid questioned the $750M account detail (Mediaite).
+- **Raskin.** His letter says "at least five foreign governments — the Saudis, the Emiratis, the Israelis, the Russians, and even the Dutch — appear to have damning kompromat on you." This is a political characterization of allegations nobody has verified. No one has shown that anyone holds leverage over Kushner.
+- **Salt Typhoon (2024).** Reuters and the NYT confirm Kushner was among those targeted. One anonymous claim says these were "real-time interceptions" rather than device compromises. That claim is unverified, and no exfiltration of his data is documented.

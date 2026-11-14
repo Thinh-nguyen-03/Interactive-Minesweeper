@@ -10,7 +10,7 @@ The core financial ties are well documented:
 
 - Cantor is custodian of Tether's Treasury reserves.
 - Cantor holds a ~$600M convertible bond that converts into about 5% of Tether. This was negotiated in 2024, while Lutnick ran Cantor.
-- Lutnick handed Cantor to trusts for his children in May 2025. Brandon Lutnick is now chairman and CEO.
+- Lutnick announced the handover of Cantor to trusts for his children in May 2025; Bloomberg reports the sale to the trusts closed in October 2025. Brandon Lutnick is now chairman and CEO.
 - Bloomberg reported in March 2026 that Tether lent money to one of those trusts while the children were buying his assets.
 - Cantor's SPAC, Cantor Equity Partners, took Twenty One Capital public. Twenty One is majority-owned by Tether and Bitfinex.
 - The GENIUS Act became law in July 2025. Tether then launched a GENIUS-compliant US coin, USAT, with Cantor as reserve custodian.
@@ -42,7 +42,7 @@ Direct fetches of theblock.co, decrypt.co, news.bloomberglaw.com, banking.senate
 ### 3. Divestment; Cantor "now run by his sons" — confirmed
 
 - **Confirmation:** the Senate confirmed Lutnick on 18 Feb 2025, 51–45, and he resigned his Cantor posts.
-- **Transfer to trusts:** a set of divestiture transactions took effect on 16 May 2025. Lutnick's Cantor interests moved to trusts for his adult children.
+- **Transfer to trusts:** the divestiture was announced on 19 May 2025 and parts took effect on 16 May 2025. The transfer of Lutnick's Cantor interest to trusts for his adult children was to close after regulatory approvals (expected Q3 2025); Bloomberg later reported the sale to the trusts took place in October 2025 (audit correction).
 - **Who runs Cantor now:** Brandon Lutnick is chairman and CEO. Kyle Lutnick is executive vice chair.
 - **Minority stakes:** these went to 26North and to Glenn August.
 - **Buybacks:** BGC bought back ~16.4M shares from Lutnick for $151.5M. Newmark bought 11M shares for $127M. Cantor keeps control of both companies.
@@ -50,6 +50,7 @@ Direct fetches of theblock.co, decrypt.co, news.bloomberglaw.com, banking.senate
 ### 4. Tether financed the children's trust during the divestiture — partly documented
 
 - **The loan:** Bloomberg (18 Mar 2026) reported that "Dynasty Trust A", which benefits all four children, borrowed an undisclosed sum from Tether.
+- **Timing:** the credit document was filed in New York on 7 Oct 2025, the same month Bloomberg says the trusts bought Lutnick's stake.
 - **The collateral:** according to filings Bloomberg cites, the loan is secured by all of the trust's assets, including the $600M Tether convertible bond.
 - **What is unproven:** whether the loan paid for the purchase of Lutnick's stake is **unverified**. Cantor declined to give the loan's size or say what it was used for.
 - **Ethics experts' view:** experts told Bloomberg that if the loan helped fund the sale, it would undermine the spirit of the divestiture rules.
@@ -119,3 +120,13 @@ Direct fetches of theblock.co, decrypt.co, news.bloomberglaw.com, banking.senate
 21. Sen. Reed, "Reed seeks to close alarming loophole in GENIUS Act" — https://www.reed.senate.gov/news/releases/reed-seeks-to-close-alarming-loophole-in-genius-act
 22. Axios, "Scoop: Lutnick stalled Trump's Nvidia–China chip curbs after Oval talks", 2026-11-11 — https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls
 23. Sludge, "Lutnick could sit on crypto council despite conflicts", 2025-02-04 — https://readsludge.com/2025/02/04/lutnick-could-sit-on-crypto-council-despite-conflicts/
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged).
+
+- **Divestiture timing corrected.** May 2025 was the announcement and the effective date for the BGC/Newmark pieces. The sale of the Cantor interest to the children's trusts was to close after regulatory approvals, and Bloomberg (18 Mar 2026) says it happened in October 2025. The Tether credit document was filed on 7 Oct 2025, so the loan is contemporaneous with the closing. Whether it funded the purchase remains unverified.
+- **Tether valuation (not checked before).** Tether has sought a ~$500B valuation since Sept 2025 (Bloomberg). After investor pushback the target raise reportedly fell to ~$5B (FT, Feb 2026), and in April 2026 Tether set a two-week commitment deadline. No closed round at $500B was found. At $500B a 5% stake would be ~$25B, so Blumenthal's ~$10B estimate implies a much lower valuation; both are estimates.
+- **Cantor and Nvidia (not checked before).** Cantor's Q3 2024 13F showed ~$1.19B of Nvidia exposure including large option positions (Benzinga). Aggregator data puts its Q1 2026 common position at ~1.78M shares (~$310M). Axios (11 Nov 2026, also via Reuters) reports that Lutnick resisted curbs on Megaspeed, a Nvidia customer accused of diverting chips to China. No source links Cantor's holdings or Tether to that stance, so the chip sub-claim stays unverified.
+
+Audit sources: Bloomberg Law (2026-03-18, 2025-05-19); The Block (2025-09, 2026-02-04); PYMNTS (2026-04); Benzinga (2024-11); GV Wire/Reuters (2026-11-11). URLs are in the JSON `audit.new_sources`.

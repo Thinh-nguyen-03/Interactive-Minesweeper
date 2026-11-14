@@ -3,7 +3,7 @@
   "title": "Howard Lutnick, Cantor Fitzgerald and Tether",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The financial ties are well documented. Cantor custodies Tether's Treasury reserves and holds a $600M convertible bond convertible into ~5% of Tether, negotiated in 2024 under Lutnick. Lutnick's Cantor interests passed to trusts for his children in May 2025 (Brandon Lutnick is chairman and CEO), and Bloomberg reported that Tether lent to one of those trusts. Cantor's SPAC took the Tether/Bitfinex/SoftBank-backed Twenty One Capital public, and Cantor is custodian for Tether's GENIUS-compliant USAT. No policy action by Lutnick or Commerce benefiting Tether is documented, and no link between Tether and chip-export licences was found.",
+  "summary": "The financial ties are well documented. Cantor custodies Tether's Treasury reserves and holds a $600M convertible bond convertible into ~5% of Tether, negotiated in 2024 under Lutnick. Lutnick's divestiture was announced and partly took effect in May 2025, but the sale of his Cantor interest to trusts for his children closed later (Bloomberg: October 2025); Bloomberg reported that Tether lent to one of those trusts under a credit document filed on 7 Oct 2025, around the same time. Cantor's SPAC took the Tether/Bitfinex/SoftBank-backed Twenty One Capital public, and Cantor is custodian for Tether's GENIUS-compliant USAT. No policy action by Lutnick or Commerce benefiting Tether is documented, and no link between Tether and chip-export licences was found.",
   "sub_claims": [
     {
       "statement": "Cantor Fitzgerald custodies Tether's reserves.",
@@ -18,7 +18,7 @@
     {
       "statement": "Cantor held a stake in Tether.",
       "verdict": "mostly-accurate",
-      "finding": "The holding is a $600M convertible bond that converts into ~5% equity. Lutnick helped negotiate it in April 2024 and testified it is not direct equity. Sen. Blumenthal estimates its value at ~$10B (unverified estimate).",
+      "finding": "The holding is a $600M convertible bond that converts into ~5% equity. Lutnick helped negotiate it in April 2024 and testified it is not direct equity. Sen. Blumenthal estimates its value at ~$10B (unverified estimate). Context for that estimate: Tether sought to raise $15-20B at a ~$500B valuation from Sept 2025, cut the target raise to ~$5B after investor pushback (FT, Feb 2026) and set a two-week commitment deadline in April 2026; no closed round at $500B was found. A 5% stake would be ~$25B at $500B, so the ~$10B estimate implies a much lower valuation.",
       "sources": [
         "https://www.theblock.co/post/327961/lutnick-cantor-fitzgerald-negotiated-a-5-ownership-stake-in-tether-wsj",
         "https://decrypt.co/303457/bitcoin-bull-howard-lutnick-defends-tether-senate",
@@ -29,17 +29,18 @@
     {
       "statement": "Lutnick divested and Cantor is now run by his sons.",
       "verdict": "confirmed",
-      "finding": "Lutnick was confirmed 18 Feb 2025 (51-45). The divestiture took effect 16 May 2025. His Cantor interests went to trusts for his children, Brandon is chairman/CEO and Kyle executive vice chair, and minority stakes went to 26North and Glenn August. BGC bought back shares from him for $151.5M and Newmark for $127M.",
+      "finding": "Lutnick was confirmed 18 Feb 2025 (51-45). The divestiture package was announced 19 May 2025 and parts took effect 16 May 2025 (BGC bought back shares for $151.5M, Newmark for $127M), but the transfer of his Cantor interest to trusts for his children was to close after regulatory approvals (expected Q3 2025); Bloomberg later reported the sale to the trusts happened in October 2025. Brandon is chairman/CEO and controlling trustee, Kyle executive vice chair, and minority stakes went to 26North and Glenn August.",
       "sources": [
         "https://www.theblock.co/news/regulation/2025-02-18-us-senate-confirms-pro-crypto-howard-lutnick-as-secretary-of-commerce-341680",
         "https://www.investmentnews.com/ria-news/commerce-chief-howard-lutnick-divesting-ownership-in-cantor-fitzgerald/260569",
-        "https://www.financemagnates.com/institutional-forex/bgc-group-buys-back-151m-in-shares-from-us-commerce-secretary-howard-lutnick-after-cabinet-appointment"
+        "https://www.financemagnates.com/institutional-forex/bgc-group-buys-back-151m-in-shares-from-us-commerce-secretary-howard-lutnick-after-cabinet-appointment",
+        "https://news.bloomberglaw.com/banking-law/lutnick-divests-cantor-fitzgerald-to-children-investor-26north"
       ]
     },
     {
       "statement": "Tether financed the children's trust during the divestiture.",
       "verdict": "partly-accurate",
-      "finding": "Bloomberg (18 Mar 2026) reported Tether lent an undisclosed sum to 'Dynasty Trust A', secured by the trust's assets including the Tether convertible bond. Whether the loan funded the purchase of Lutnick's stake is unverified. Warren/Wyden (29 Apr 2026) and Blumenthal (8 Oct 2026) sought records, and no public answers were found.",
+      "finding": "Bloomberg (18 Mar 2026) reported Tether lent an undisclosed sum to 'Dynasty Trust A', under a New York credit document filed on 7 Oct 2025, secured by 'all assets' of the trust; a Cantor executive said it was backed by the Tether convertible bond. Bloomberg reported the sale of Lutnick's Cantor stake to the trusts took place in October 2025, i.e. the loan is contemporaneous with the closing. Whether the loan funded the purchase is still unverified; Cantor declined to give its size or use. Warren/Wyden (29 Apr 2026, answers requested by 13 May) and Blumenthal (8 Oct 2026) sought records, and no public answers were found.",
       "sources": [
         "https://www.bloomberg.com/news/features/2026-03-18/tether-made-loan-to-lutnick-s-children-as-they-bought-his-assets",
         "https://news.bloomberglaw.com/mergers-and-acquisitions/as-lutnick-sold-cantor-to-his-children-tether-gave-them-a-loan",
@@ -61,8 +62,10 @@
     {
       "statement": "Commerce controls AI-chip export licences, creating a Tether-linked conflict.",
       "verdict": "unverified",
-      "finding": "Commerce (BIS) does license chip exports, including under the UAE deal. No reporting ties Tether or Cantor to any chip-licence decision.",
+      "finding": "Commerce (BIS) does license chip exports, including under the UAE deal. No reporting ties Tether or Cantor to any chip-licence decision. Audit addition: Cantor's 13F showed ~$1.19B of Nvidia exposure in Q3 2024 (including large put and call option positions), and a much smaller common position (~1.78M shares, ~$310M, per aggregator data) in Q1 2026; Accountable.US argued in 2025 that this creates a conflict with Commerce's chip oversight (advocacy framing). Axios (11 Nov 2026) reported Lutnick resisted curbs on Megaspeed, a Singapore Nvidia customer accused of diverting chips to China. No reporting links Cantor's holdings or Tether to that decision, so the conflict remains inference.",
       "sources": [
+        "https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+        "https://benzinga.com/markets/24/11/42158373/trumps-commerce-secretary-pick-howard-lutnicks-fund-owns-1-19b-in-nvidia-804m-in-tesla-here-is-a-look-at-his-portfolio",
         "https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls"
       ]
     },
@@ -81,7 +84,8 @@
   "corrections": [
     "'Held a stake in Tether': it is a $600M convertible bond convertible into ~5%, not direct equity (Lutnick testimony, Bloomberg).",
     "Congress passed the GENIUS Act and Trump signed it. Commerce has no stablecoin regulatory role (Treasury/OCC).",
-    "The ~$10B current value of the stake is Sen. Blumenthal's estimate, not a disclosed figure."
+    "The ~$10B current value of the stake is Sen. Blumenthal's estimate, not a disclosed figure.",
+    "Divestiture timing: May 2025 was the announcement and the effective date for BGC/Newmark pieces; the sale of the Cantor interest to the children's trusts closed later (Bloomberg: October 2025), the same month as the 7 Oct 2025 Tether credit filing."
   ],
   "denials_and_context": [
     "Tether (2024): the relationship is purely professional, about managing reserves, with no regulatory influence from Lutnick's role.",
@@ -89,7 +93,7 @@
     "Cantor: the trusts' purchase was 'funded through multiple sources... at market rates and market prices'. It declined to give the loan's size or use.",
     "Lutnick backed stablecoin audits and 100% Treasury backing at his hearing and denied owning Tether.",
     "The congressional letters come from Democrats in the minority without subpoena power. None alleges a specific crime.",
-    "Research limits: direct fetches of theblock.co, decrypt.co, bloomberglaw, banking.senate.gov and hsgac.senate.gov failed in this environment, so findings rest on search summaries that agree across outlets. The search budget ran out before Tether's latest valuation and Cantor's other SPACs could be checked."
+    "Research limits: direct fetches of theblock.co, decrypt.co, bloomberglaw, banking.senate.gov and hsgac.senate.gov failed in this environment, so findings rest on search summaries that agree across outlets. Tether's valuation and Cantor's Nvidia holdings were checked in the audit pass; Cantor's other SPACs were not."
   ],
   "sources": [
     {
@@ -222,6 +226,42 @@
       "title": "Scoop: Lutnick stalled Trump's Nvidia-China chip curbs after Oval talks",
       "publisher": "Axios",
       "url": "https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Lutnick Divests Cantor Fitzgerald to His Children, 26North",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/banking-law/lutnick-divests-cantor-fitzgerald-to-children-investor-26north",
+      "date": "2025-05-19"
+    },
+    {
+      "title": "Tether floats $5 billion raise after investor pushback on $500 billion valuation target: FT",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/388404/tether-floats-5-billion-raise-after-investor-pushback-on-500-billion-valuation-target-ft",
+      "date": "2026-02-04"
+    },
+    {
+      "title": "Tether seeks $500 billion valuation, would rank among world's most valuable private firms: Bloomberg",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/372033/tether-seeks-500-billion-valuation-would-rank-among-worlds-most-valuable-private-firms-bloomberg",
+      "date": "2025-09"
+    },
+    {
+      "title": "Tether Sets 2-Week Deadline for $500 Billion Valuation Deal",
+      "publisher": "PYMNTS",
+      "url": "https://pymnts.com/cryptocurrency/2026/tether-sets-2-week-deadline-for-500-billion-valuation-deal",
+      "date": "2026-04"
+    },
+    {
+      "title": "Trump's Commerce Secretary pick Howard Lutnick's fund owns $1.19B in Nvidia, $804M in Tesla",
+      "publisher": "Benzinga",
+      "url": "https://benzinga.com/markets/24/11/42158373/trumps-commerce-secretary-pick-howard-lutnicks-fund-owns-1-19b-in-nvidia-804m-in-tesla-here-is-a-look-at-his-portfolio",
+      "date": "2024-11"
+    },
+    {
+      "title": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports (Reuters)",
+      "publisher": "GV Wire / Reuters",
+      "url": "https://gvwire.com/2026/11/11/lutnick-stalled-trump-crackdown-on-diversion-of-nvidia-chips-to-china-axios-reports/",
       "date": "2026-11-11"
     }
   ],
@@ -765,5 +805,64 @@
       ],
       "source_url": "https://fortune.com/crypto/2024/11/24/howard-lutnick-cantor-fitzgerald-tether-stablecoin-2-billion-bitcoin-lending/"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Timing of Lutnick's Cantor divestiture and of the Tether loan to Dynasty Trust A",
+      "Tether's valuation (context for the ~$10B stake estimate)",
+      "Cantor's Nvidia holdings and any link to Commerce chip-export decisions",
+      "Warren/Wyden and Blumenthal follow-up"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Corrected the divestiture timing: May 2025 was announcement/partial effect; Bloomberg reports the sale of the Cantor stake to the children's trusts in October 2025, contemporaneous with the 7 Oct 2025 Tether credit filing. Updated summary, sub-claims 3-4 and corrections.",
+      "Added Tether valuation context ($500B target, raise cut to ~$5B after pushback, no closed round found) to the stake sub-claim; showed the ~$10B estimate implies a valuation well below $500B.",
+      "Added Cantor's reported Nvidia exposure (~$1.19B incl. options, Q3 2024; ~$310M common, Q1 2026, aggregator data) and the Axios Megaspeed report to the chip sub-claim; verdict stays unverified since no source links the holdings to a decision.",
+      "Verdict and confidence unchanged."
+    ],
+    "new_sources": [
+      {
+        "title": "As Lutnick Sold Cantor to His Children, Tether Gave Them a Loan",
+        "publisher": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/as-lutnick-sold-cantor-to-his-children-tether-gave-them-a-loan",
+        "date": "2026-03-18"
+      },
+      {
+        "title": "Lutnick Divests Cantor Fitzgerald to His Children, 26North",
+        "publisher": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/banking-law/lutnick-divests-cantor-fitzgerald-to-children-investor-26north",
+        "date": "2025-05-19"
+      },
+      {
+        "title": "Tether floats $5 billion raise after investor pushback on $500 billion valuation target: FT",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/post/388404/tether-floats-5-billion-raise-after-investor-pushback-on-500-billion-valuation-target-ft",
+        "date": "2026-02-04"
+      },
+      {
+        "title": "Tether seeks $500 billion valuation, would rank among world's most valuable private firms: Bloomberg",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/post/372033/tether-seeks-500-billion-valuation-would-rank-among-worlds-most-valuable-private-firms-bloomberg",
+        "date": "2025-09"
+      },
+      {
+        "title": "Tether Sets 2-Week Deadline for $500 Billion Valuation Deal",
+        "publisher": "PYMNTS",
+        "url": "https://pymnts.com/cryptocurrency/2026/tether-sets-2-week-deadline-for-500-billion-valuation-deal",
+        "date": "2026-04"
+      },
+      {
+        "title": "Trump's Commerce Secretary pick Howard Lutnick's fund owns $1.19B in Nvidia, $804M in Tesla",
+        "publisher": "Benzinga",
+        "url": "https://benzinga.com/markets/24/11/42158373/trumps-commerce-secretary-pick-howard-lutnicks-fund-owns-1-19b-in-nvidia-804m-in-tesla-here-is-a-look-at-his-portfolio",
+        "date": "2024-11"
+      },
+      {
+        "title": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports (Reuters)",
+        "publisher": "GV Wire / Reuters",
+        "url": "https://gvwire.com/2026/11/11/lutnick-stalled-trump-crackdown-on-diversion-of-nvidia-chips-to-china-axios-reports/",
+        "date": "2026-11-11"
+      }
+    ]
+  }
 }

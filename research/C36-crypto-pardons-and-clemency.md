@@ -39,7 +39,7 @@ Note: The video does not cover this. Many mainstream outlets (NYT, WSJ, Politico
 3. **Trevor Milton (Nikola), a donor, was pardoned. Confirmed.**
    - The White House confirmed the pardon on Mar 28, 2025.
    - Milton had been convicted in 2022 of securities and wire fraud and sentenced in December 2023 to four years. He was free on appeal.
-   - Donations: FEC records show Milton and his wife gave more than $1.8M to Trump-aligned committees in October 2024, less than a month before the election. Outlets differ on whether the money went to the campaign or to a pro-Trump committee.
+   - Donations: AP, citing FEC records, says Milton and his wife gave more than $1.8M less than a month before the election. Another breakdown of the records has about $920K to the Trump 47 Committee in October 2024 and $750K to the RFK Jr.-linked MAHA Alliance in September, so not all of it went to Trump committees in October (audit qualification). Outlets differ on whether the money went to the campaign or to a pro-Trump committee.
    - Trump said the pardon was "highly recommended by many people". He also said the case against Milton was that "he was one of the first people that supported" Trump. In effect, he called the prosecution political retaliation.
    - Effects of the pardon:
      - It wiped out the restitution prosecutors were seeking, about $660-680M, before any amount was ordered.
@@ -109,3 +109,11 @@ Note: The video does not cover this. Many mainstream outlets (NYT, WSJ, Politico
 18. Decrypt, "Trump Says He Will 'Look At' Pardon for Samourai Bitcoin App Dev", 2025-12-15. https://decrypt.co/352452/trump-will-look-at-pardon-samourai-bitcoin-app-dev
 19. The Block, SBF files presidential pardon application, 2026-06-08. https://www.theblock.co/news/business/2026-06-08-ftx-sam-bankman-fried-officially-files-presidential-pardon-trump-404001
 20. Fortune, SBF pardon odds slim, 2026-06-09. https://fortune.com/2026/06/09/sam-bankman-fried-pardon-application-white-house-odds-slim/
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **corrected (minor)**. The verdict and confidence are unchanged.
+
+- **Milton donations:** AP's total of more than $1.8M holds up, but a breakdown of the FEC records splits it into about $920K to the Trump 47 Committee (Oct 2024) and about $750K to the RFK Jr.-linked MAHA Alliance (Sept 2024). The write-up now says the money went to pro-Trump and allied committees rather than "Trump-aligned committees in October". Sources: AP via Washington Times (2025-03-28); Copper Courier.
+- **CZ lobbying:** upheld. Several outlets report Checkmate's $450K for one month of "executive relief" work and the roughly $290K to Goody Guillén. Zhao's April 2026 memoir claims that rivals "paid millions" to block his pardon. That is his own claim, unverified (The Block, 2026-04-09).
+- **Further clemency:** no 2026 crypto pardon or commutation was found. Rodriguez is serving five years (The Block, 2025-12-15).

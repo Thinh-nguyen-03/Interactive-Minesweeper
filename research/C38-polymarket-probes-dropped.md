@@ -126,3 +126,11 @@ This is a follow-up lead from C25 (prediction markets, Don Jr.) and C26 (1789 Ca
 26. Axios, 2026-09-22. https://www.axios.com/2026/09/22/john-curtis-trump-jr-hunter-biden-subpoenas
 27. Legal Sports Report, 2026-09-22. https://www.legalsportsreport.com/278593/gop-senator-wants-probe-into-trump-jr-s-prediction-market-ties/
 28. SBC Americas, 2026-09-23. https://sbcamericas.com/2026/09/23/curtis-trump-jr-prediction-markets/
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **upheld**.
+
+- **Probe closures.** Several outlets (CNBC via NBC, The Block, Decrypt, Bloomberg Law) agree that formal notices came in early July 2025 and were reported on 15 Jul 2025. Every account rests on Bloomberg and CNBC sources and on Polymarket's own statements. The DOJ and CFTC declined to comment, so the write-up's caution stands.
+- **CFTC state suits.** A late-Oct 2026 report (DeFi Rate) counts Utah as the 10th state, D. Utah No. 2:26-cv-01055. It lists the others as Arizona, Connecticut, Illinois, Kentucky, Minnesota, New Mexico, New York, Rhode Island and Wisconsin, and says the CFTC won preliminary injunctions in Arizona, Minnesota and Illinois. This is a single report and was not independently confirmed.
+- **Curtis letter.** Confirmed (SBC Americas, 23 Sep 2026). Besides the prediction-market ties, the letter cites Don Jr.'s acceptance of wedding gifts from Umar Kremlev and his promotion of the family's crypto ventures. It says it does not allege that he broke any law. No committee action was found.

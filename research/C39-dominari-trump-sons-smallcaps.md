@@ -140,3 +140,13 @@ C18 and C27 already established the American Bitcoin structure and the SPAC term
 30. Wendy Siegelman (Substack), "Eric and Donald Trump Jr. ... Dominari ... Honig," 2025-03. https://wendysiegelman.substack.com/p/eric-and-donald-trump-jr-dominari-honig
 31. Mining.com (citing FT), "Trump sons invested in US group developing $1.1B tungsten project in Kazakhstan," 2025-11. https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/ ; Fox News, Trump Organization legal demand to NYT. https://foxnews.com/politics/libelous-nyt-report-tying-trump-family-government-backed-deal-sparks-legal-demand
 32. Decrypt, "Eric Trump Denies Involvement in Tron Nasdaq Deal Despite Board Role," 2025-06. https://decrypt.co/325516/eric-trump-denies-involvement-tron-nasdaq-deal
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **upheld**.
+
+- **Stakes and placement.** Re-confirmed: 13Gs filed 24 Feb 2025 show 966,138 shares (6.71%) each, and the placement units were priced at $3.47. Barron's noted the filings left out 432,276 warrant shares each as "not currently exercisable due to certain beneficial ownership limitations", which kept each brother under the 10% insider threshold.
+- **Run-up.** Re-confirmed: the stock rose 529% from 31 Dec to 10 Feb (Barron's), about 580% over six weeks (FT), and as much as 84% on the day (Bloomberg). Volume figures vary by outlet: TipRanks has under 2,000 shares rising to over 200,000, against Forbes's 11,500 to 1.2M.
+- **Scrutiny.** The House CCP letters (8 Mar 2026) went to Dominari (11 of 29 IPOs), Revere (12 of 40) and D. Boral Capital (10 of 30+). Boral co-led the sons' SPAC IPO with Dominari (Caixin, 11 Mar 2026). Trade coverage dates the FINRA fine on Revere to early Oct 2026. Neither the letters nor the fine is an action against Dominari or the sons.
+- **Pay.** Bloomberg (27 Jan 2026) confirms about $34M for Hayes and about $32M for Wool. Much of it was non-cash stock compensation ($55M recorded firm-wide in 2025).
+- **New lead (unverified).** A third-party analysis site alleges the board granted Hayes and Wool 10M options on 10 Feb 2025, the day before the Trump announcement. This needs checking against the proxy.
