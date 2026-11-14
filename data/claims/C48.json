@@ -31,7 +31,7 @@
     {
       "statement": "The foundation got fast-track IRS approval during the government shutdown.",
       "verdict": "confirmed",
-      "finding": "It applied on 10 Oct 2025 and received an IRS determination letter dated 20 Oct 2025, during the shutdown. Normal processing is 3-6 months, and lawyers called it 'virtually unheard of'. The request cited settlement money in limbo. The application projected ~$950M of contributions ($50M in 2025, $300M in 2026, $600M in 2027). The IRS declined comment, citing privacy. No evidence of political intervention was found; 'special treatment' is the Miami Herald's characterization.",
+      "finding": "It applied on 10 Oct 2025 and received an IRS determination letter dated 20 Oct 2025, during the shutdown. Normal processing is 3-6 months, and lawyers called it 'virtually unheard of'. The request cited settlement money in limbo. The application projected ~$950M of contributions ($50M in 2025, $300M in 2026, $600M in 2027). The day after the approval, the IRS announced it would not process exemption applications for the rest of the shutdown (Miami Herald). The IRS declined comment, citing privacy. No evidence of political intervention was found; 'special treatment' is the Miami Herald's characterization.",
       "sources": [
         "https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/",
         "https://www.cpapracticeadvisor.com/2025/11/19/tax-documents-show-trump-library-is-counting-on-a-1-billion-fundraising-haul/173534/",
@@ -711,13 +711,42 @@
   ],
   "audit": {
     "checked": [
-      "Language review of summary and sub-claims for unattributed allegations"
+      "Trump's disclosure figures ($64.5M total; $56.5M from Meta, ABC and Paramount to the Foundation; $8M from X to Trump) and the lawmakers' 16 Jul 2026 allegation of $6.5M-$14.5M missing plus $7M unexplained",
+      "IRS exemption: application 10 Oct 2025, determination letter about 10 days later during the shutdown",
+      "Federal emoluments suit Sistrunk Seeds v. Trump (S.D. Fla. 1:26-cv-23365): status as of Nov 2026",
+      "State Sunshine Law suit dismissed 18 Dec 2025"
     ],
     "result": "upheld",
     "changes": [
-      "Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the 'unaccounted for' amount is presented as the lawmakers' allegation, and the 747 transfer as a stated plan. No changes."
+      "Fresh searches (Warren/Stansbury releases and the July letter PDF, CPA Practice Advisor/WLRN reprints of the Miami Herald, CAC case page, Justia docket, Law&Crime, WLRN, Law360) confirmed every checked assertion. No final ruling in the federal case was found; Judge Ruiz signalled he may dismiss on immunity grounds, and CAC filed its opposition to the motions to dismiss on 15 Sep 2026. No Foundation response to the lawmakers was found.",
+      "Added a detail that strengthens the 'special treatment' context: the IRS announced the day after approval that it would stop processing exemption applications during the shutdown. Still no evidence of political intervention. Updated .md.",
+      "Replaces the earlier wording-only audit (no fresh searches)."
     ],
-    "new_sources": [],
-    "scope": "language review only; no fresh searches"
+    "new_sources": [
+      {
+        "title": "Warren letter to Trump Library Foundation re financial disclosures",
+        "publisher": "Office of Sen. Elizabeth Warren",
+        "url": "https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "Trump's Library Foundation Got Special Treatment From the IRS During the Government Shutdown",
+        "publisher": "CPA Practice Advisor (Miami Herald)",
+        "url": "https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/",
+        "date": "2025-11-20"
+      },
+      {
+        "title": "Sistrunk Seeds v. Trump",
+        "publisher": "Constitutional Accountability Center",
+        "url": "https://www.theusconstitution.org/litigation/sistrunk-seeds-v-trump/",
+        "date": "2026"
+      },
+      {
+        "title": "Judge dismisses complaint against Miami land transfer for Trump's presidential library",
+        "publisher": "WLRN",
+        "url": "https://www.wlrn.org/government-politics/2025-12-19/judge-dismisses-complaint-against-miami-land-transfer-for-trumps-presidential-library",
+        "date": "2025-12-19"
+      }
+    ]
   }
 }

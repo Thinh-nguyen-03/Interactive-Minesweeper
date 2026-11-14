@@ -34,7 +34,7 @@ No source shows that the sons influenced any government decision; that part is i
 - No filing names him at Tron Inc.
 
 ### 3. Dominari launched American Ventures, a roughly $1B microcap fund with the Trump sons as investors: **mostly-accurate**
-- American Ventures is managed by American Ventures Management LLC, and Dominari holds 90% of it (SEC filing, May 2026). The sons own about 12% of Dominari.
+- American Ventures is managed by American Ventures Management LLC, and Dominari holds 90% of it (SEC filing, May 2026). The sons own roughly 12-13% of Dominari (Reuters reported 6.71% each from February 2025 filings).
 - The FT reported in early May 2026 that the brothers had put money into most of its vehicles; the amounts were not disclosed.
 - On June 25, 2026, Bloomberg reported hundreds of millions of dollars in **unrealized** gains on at least 10 thinly traded microcaps. Many gains came from warrants. Bloomberg Línea reported that the fund sold some stakes while media attention was lifting the shares.
 - The "$1B" is the fund's stated size, not money proven to have been raised. The fund's focus is drones, AI and crypto, not microcaps generally; microcaps are what it actually holds.

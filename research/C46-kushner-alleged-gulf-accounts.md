@@ -31,7 +31,7 @@ No primary Vanity Fair, book, WSJ or complaint text was read. Quotations are giv
 1. **Cole's book and the Vanity Fair excerpt make these allegations. Confirmed, as a fact of publication.**
    - Vanity Fair ran the excerpt on 22 Oct 2026.
    - The book's full title, as listed by the publisher: *Princes and Thieves: Jared Kushner and Mohammed bin Zayed's Secret Plot to Remake the Middle East*. It is published by Atria/One Signal (Simon & Schuster).
-   - Per Political Wire, citing Status, Simon & Schuster released the book two days early, on 26 Oct, after Kushner's legal threats.
+   - Per Political Wire, citing Status, Simon & Schuster released the book early, on 26 Oct, after Kushner's legal threats (other listings give 25 or 27 Oct).
    - Cole told Democracy Now! (2 Nov) that the book "is a result of more than 50 sources" and was fact-checked and legally vetted. That quote comes via search summaries; the fetch was blocked.
 
 2. **"Alpha": a ~$750M First Abu Dhabi Bank account with Kushner as signatory. Unverified, single source.** As reported from the excerpt:

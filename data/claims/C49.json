@@ -65,7 +65,7 @@
     {
       "statement": "The SEC dropped civil cases after criminal pardons.",
       "verdict": "confirmed",
-      "finding": "The SEC dismissed its civil cases against Milton (Sep 2025), Carlos Watson and Ozy Media (filed about Sep 18-19, 2025) and Devon Archer after clemency, though a pardon does not legally erase civil liability. It later waived penalties for ex-Ozy executives Samir Rao and Suzee Han, citing cooperation. Bloomberg Law (Apr 9, 2026) counts $176M in restitution and fines that pardoned securities-fraud defendants were originally due to pay. The SEC declined comment. A spokesperson quoted by Bloomberg Law said the SEC itself initiated contact to dismiss the Milton case; that article was paywalled and read only through excerpts.",
+      "finding": "The SEC dismissed its civil cases against Milton (Sep 2025), Carlos Watson and Ozy Media (filed about Sep 18-19, 2025) and Devon Archer after clemency, though a pardon does not legally erase civil liability. It later waived penalties for ex-Ozy executives Samir Rao and Suzee Han, citing cooperation. Bloomberg Law (Apr 9, 2026) counts $176M in restitution and fines that pardoned securities-fraud defendants were originally due to pay. The SEC declined comment. Milton's spokesperson, quoted by Bloomberg Law, said the SEC itself initiated contact with defence counsel to dismiss the Milton case, in which Milton was represented by Brad Bondi, brother of then-AG Pam Bondi; that article was paywalled and read only through excerpts.",
       "sources": [
         "https://news.bloomberglaw.com/securities-law/trumps-criminal-pardons-have-sec-enforcers-following-suit",
         "https://www.bloomberg.com/news/articles/2025-09-19/sec-drops-carlos-watson-fraud-case-after-trump-axed-prison-term",
@@ -75,7 +75,7 @@
     {
       "statement": "Pardon attorney Liz Oyer was fired, and Ed Martin became pardon attorney.",
       "verdict": "confirmed",
-      "finding": "Then-Deputy AG Todd Blanche fired Oyer on Mar 7, 2025, the morning after she declined to recommend restoring Mel Gibson's gun rights. Then-AG Pam Bondi restored those rights in Apr 2025. Oyer sued on Sep 3, 2026 for reinstatement. Blanche, now Attorney General, says he knew nothing of the Gibson matter. Trump named Ed Martin pardon attorney on May 8, 2025, after Martin's DC US Attorney nomination collapsed. Martin posted 'No MAGA left behind' after the Scott Jenkins pardon. He lost the Weaponization Working Group in Feb 2026, and Trump announced on Aug 21, 2026 that he was leaving to fight election 'Legal Battles'. No successor was found.",
+      "finding": "Then-Deputy AG Todd Blanche fired Oyer on Mar 7, 2025, the morning after she declined to recommend restoring Mel Gibson's gun rights. Then-AG Pam Bondi restored those rights in Apr 2025. Oyer sued in federal court in Washington on Sep 3, 2026 for reinstatement and back pay, alleging due-process, First Amendment and civil-service violations; the allegations are untested. Blanche, confirmed 50-49 and sworn in as Attorney General on Aug 10, 2026 after Trump removed Bondi in April 2026, says he knew nothing of the Gibson matter. Trump named Ed Martin pardon attorney on May 8, 2025, after Martin's DC US Attorney nomination collapsed. Martin posted 'No MAGA left behind' after the Scott Jenkins pardon. He lost the Weaponization Working Group in Feb 2026, and Trump announced on Aug 21, 2026 that he was leaving to fight election 'Legal Battles'. No successor was found.",
       "sources": [
         "https://www.goodmorningamerica.com/news/story/doj-pardon-attorney-removed-after-dispute-mel-gibsons-119677857",
         "https://abcnews.com/Politics/wireStory/justice-department-pardon-lawyer-fired-dispute-mel-gibsons-136185902",
@@ -1124,13 +1124,63 @@
   ],
   "audit": {
     "checked": [
-      "Language review of summary and sub-claims for unattributed allegations"
+      "Todd Blanche is now Attorney General",
+      "Ed Martin left the pardon attorney post in Aug 2026",
+      "Liz Oyer's Sep 3, 2026 reinstatement lawsuit",
+      "House Judiciary Democrats' Aug 21, 2026 'Pardons, Inc.' estimate of about $1.7B (up from $1.3B)",
+      "SEC dismissal of the Milton civil case after his pardon"
     ],
     "result": "upheld",
     "changes": [
-      "Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: no pardon is stated as bought, and the Daibes, 60 Minutes and Walczak items are attributed to their outlets. Not re-checked: the file's statements that Todd Blanche is now Attorney General and that Ed Martin left the post in Aug 2026. No changes."
+      "Blanche confirmed: the Senate confirmed him 50-49 and he was sworn in on Aug 10, 2026 (AP via WTOP/Federal News Network; Euronews; Boston Globe), after Trump removed Bondi in April 2026 and Blanche served as acting AG. Added the date to the Oyer sub-claim.",
+      "Martin confirmed: Trump announced on Aug 21, 2026 that Martin was leaving DOJ to fight election 'legal battles' (AP via Local10; CBS; Good Morning America); AG Blanche thanked him.",
+      "Oyer suit, the $1.7B report and the Sep 2025 Milton SEC dismissal confirmed (AP via ABC/Local10, ABA Journal, GovExec; committee release; Law360, Bloomberg Law).",
+      "Clarified that the 'SEC initiated contact' quote came from Milton's own spokesperson, not the SEC, and noted that Milton's SEC counsel was Brad Bondi. Added the claims in Oyer's complaint. Updated .md.",
+      "Replaces the earlier wording-only audit (no fresh searches)."
     ],
-    "new_sources": [],
-    "scope": "language review only; no fresh searches"
+    "new_sources": [
+      {
+        "title": "Todd Blanche is sworn in as attorney general after bruising confirmation fight",
+        "publisher": "WTOP (AP)",
+        "url": "https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Todd Blanche sworn in as US attorney general after bruising confirmation fight",
+        "publisher": "Euronews",
+        "url": "https://www.euronews.com/2026/08/10/todd-blanche-sworn-in-as-us-attorney-general-after-bruising-confirmation-fight",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Trump loyalist Ed Martin is leaving the Justice Department to focus on election 'legal battles'",
+        "publisher": "Local10 (AP)",
+        "url": "https://www.local10.com/news/politics/2026/08/21/trump-loyalist-ed-martin-is-leaving-the-justice-department-to-focus-on-election-legal-battles/",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "Ed Martin leaving Trump administration DOJ",
+        "publisher": "CBS News",
+        "url": "https://www.cbsnews.com/news/ed-martin-leaving-trump-administration-doj/",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "Justice Department pardon lawyer who says she was fired in dispute over Mel Gibson's gun rights sues",
+        "publisher": "ABC News (AP)",
+        "url": "https://abcnews.com/Politics/wireStory/justice-department-pardon-lawyer-fired-dispute-mel-gibsons-136185902",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "New Judiciary Democrats report exposes MAGA's cash-for-clemency racket",
+        "publisher": "House Judiciary Committee Democrats",
+        "url": "https://democrats-judiciary.house.gov/media-center/press-releases/new-judiciary-democrats-report-exposes-maga-s-cash-for-clemency-racket-which-gives-unrepentant-criminals-a-new-lease-on-life-and-leaves-victims-in-the-dust",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "SEC Drops Suit Against Nikola Founder After Trump's Pardon",
+        "publisher": "Law360",
+        "url": "https://www.law360.com/bankruptcy-authority/articles/2387230",
+        "date": "2025-09-11"
+      }
+    ]
   }
 }

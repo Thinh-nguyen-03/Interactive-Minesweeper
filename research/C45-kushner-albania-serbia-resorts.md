@@ -45,7 +45,7 @@ Raskin's probe and Candace Owens's attacks are both confirmed. The brief overrea
    - Vucic denied any forgery in May 2025, offered pardons, and later said Serbia had lost at least EUR 750M of investment.
 5. **Albanian forgery/anti-corruption probe: confirmed.**
    - SPAK suspects the seller, Shehu, of forged deeds and illicit funds.
-   - About EUR 110M of the proceeds is frozen; one report gives about $128M.
+   - About EUR 110M of the proceeds is frozen. One report (Lawyer Monthly) gives a provisional seizure value above EUR 128M and a separate, reportedly short-lived freeze on Albania Land Development's accounts; SPAK has not confirmed either detail publicly.
    - Per Reuters, no wrongdoing is alleged against Kushner or the investors. Shehu's lawyer denies the allegations.
    - Villagers have disputed Shehu's title since 2013.
 6. **Approvals pending while Kushner is envoy: confirmed for Albania.**

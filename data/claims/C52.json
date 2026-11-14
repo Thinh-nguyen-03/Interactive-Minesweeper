@@ -16,7 +16,7 @@
     {
       "statement": "Gemini hired Miller Strategies.",
       "verdict": "mostly-accurate",
-      "finding": "Legis1 reports that Gemini Space Station Inc., a first-time lobbying client, retained Miller Strategies for 'issues around cryptocurrency regulation'. The listed lobbyists are Jeffrey Miller and Jessica Anne Mandel, who previously lobbied for Crypto.com. A Senate LDA client record (client 69134) shows the client as 'Baughman Kroup Bosse PLLC on behalf of Gemini Space Station, Inc.' with Miller Strategies as registrant. The registration date and fees could not be retrieved because lda.senate.gov and legis1.com were blocked here. Separately, Jeff Miller is reported as a member of the Winklevoss-funded Digital Freedom Fund PAC. No source ties Miller's work to the CFTC reversal.",
+      "finding": "Legis1 reports that Gemini Space Station Inc., a first-time lobbying client, retained Miller Strategies for 'issues around cryptocurrency regulation'. The listed lobbyists are Jeffrey Miller and Jessica Anne Mandel, who previously lobbied for Crypto.com. A Senate LDA client record (client 69134) shows the client as 'Baughman Kroup Bosse PLLC on behalf of Gemini Space Station, Inc.' with Miller Strategies as registrant. The registration date and fees could not be retrieved because lda.senate.gov and legis1.com were blocked here. Separately, Jeff Miller is reported as a member of the Winklevoss-funded Digital Freedom Fund PAC. No source ties Miller's work to the CFTC reversal. Audit note: a fresh search again surfaced only Legis1 and the LDA client record. A direct LDA API fetch was blocked by the proxy, so the registration date and fees are still unretrieved.",
       "sources": [
         "https://legis1.com/news/crypto-regulation-lobbying-gemini",
         "https://lda.senate.gov/api/v1/clients/69134/?format=api"
@@ -51,13 +51,16 @@
     {
       "statement": "The Winklevoss twins gave $10M+ in bitcoin to MAGA Inc. shortly after the CFTC joined Gemini's bid to vacate its judgment.",
       "verdict": "mostly-accurate",
-      "finding": "On May 27-28, 2026, the CFTC under Chair Mike Selig and Gemini jointly moved in SDNY (1:22-cv-04563-AKH) to vacate the Jan 2025 $5M consent order. The CFTC said the complaint 'should not have been filed' and that the twins were 'politically targeted'. On June 19, 2026 each twin gave 79.35 BTC (more than $5M each, about $10.02M in total) to MAGA Inc., which liquidated them. That was 23 days after the joint motion. The total is 'about $10M' rather than clearly 'more than $10M', and some outlets double-counted the liquidation entries. Judge Alvin Hellerstein denied the motion on Oct 15, 2026; the $5M penalty (already paid, no refund sought) and the injunction stand. Warren called the motion a sign of a 'CFTC beholden to political pressures', and ex-chair Tim Massad called it 'extraordinarily unusual'. Texts released by Brian Quintenz show Tyler Winklevoss raising the litigation during Quintenz's nomination. No document links the gift to the CFTC decision.",
+      "finding": "On May 27-28, 2026, the CFTC under Chair Mike Selig and Gemini jointly moved in SDNY (1:22-cv-04563-AKH) to vacate the Jan 2025 $5M consent order. The CFTC said the complaint 'should not have been filed' and that the twins were 'politically targeted'. On June 19, 2026 each twin gave 79.35 BTC (more than $5M each, about $10.02M in total) to MAGA Inc., which liquidated them. That was 23 days after the joint motion. The total is 'about $10M' rather than clearly 'more than $10M', and some outlets double-counted the liquidation entries. Judge Alvin Hellerstein denied the motion on Oct 15, 2026; the $5M penalty (already paid, no refund sought) and the injunction stand. Warren called the motion a sign of a 'CFTC beholden to political pressures', and ex-chair Tim Massad called it 'extraordinarily unusual'. Texts released by Brian Quintenz show Tyler Winklevoss raising the litigation during Quintenz's nomination. No document links the gift to the CFTC decision. Audit note: FEC-based reporting gives Cameron's gift as $5,006,604 and Tyler's as $5,011,860. Hellerstein's 15 Oct 2026 order runs eight pages. It held that facts which already existed when the consent order was entered are not a post-judgment change under Rule 60(b), and it left the injunction and no-denial clause in place. Some outlets report the twins' 2026-cycle giving to MAGA Inc. at about $26M (about $13M each). That figure is press-reported and was not verified against FEC data here.",
       "sources": [
         "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/",
         "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal",
         "https://www.theblock.co/post/402827/cftc-joins-relief-motion-gemini",
         "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
-        "https://news.bloomberglaw.com/crypto/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement"
+        "https://news.bloomberglaw.com/crypto/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
+        "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+        "https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
+        "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/"
       ]
     },
     {
@@ -73,10 +76,12 @@
     {
       "statement": "Ryan left over clashes about crypto or Trump-linked cases.",
       "verdict": "unverified",
-      "finding": "Reuters, citing anonymous sources, reported that Ryan clashed with Chair Paul Atkins and other Republican appointees because she wanted tougher action in some fraud cases, including matters tied to Justin Sun and Elon Musk. An SEC enforcement official told Reuters that shifting crypto guidance and pending legislation complicated the Sun case. The SEC says it decides enforcement 'based on facts, the law, and policy — not politics' and credited Ryan with a 'critical course correction'. Ryan has not publicly stated a reason.",
+      "finding": "Reuters, citing anonymous sources, reported that Ryan clashed with Chair Paul Atkins and other Republican appointees because she wanted tougher action in some fraud cases, including matters tied to Justin Sun and Elon Musk. An SEC enforcement official told Reuters that shifting crypto guidance and pending legislation complicated the Sun case. The SEC says it decides enforcement 'based on facts, the law, and policy — not politics' and credited Ryan with a 'critical course correction'. Ryan has not publicly stated a reason. Audit note: secondary coverage of the Reuters piece adds that Ryan's signature did not appear on the Sun settlement filings, though one Reuters-cited account understood she supported the settlement. The SEC and Musk told the court on 17 Mar 2026 that they were in settlement talks. Publicly, Atkins praised Ryan as having 'served with honor and distinction'. The reason for her exit stays unverified.",
       "sources": [
         "https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report",
-        "https://ground.news/article/secs-ex-enforcement-chief-clashed-with-bosses-before-leaving-reuters-sources-say"
+        "https://ground.news/article/secs-ex-enforcement-chief-clashed-with-bosses-before-leaving-reuters-sources-say",
+        "https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report",
+        "https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711"
       ]
     },
     {
@@ -266,6 +271,24 @@
       "publisher": "Fortune",
       "url": "https://fortune.com/2026/11/04/crypto-pacs-170-million-midterms-came-up-dry/",
       "date": "2026-11-04"
+    },
+    {
+      "title": "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement",
+      "publisher": "Bloomberg Tax",
+      "url": "https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
+      "date": "2026-10"
+    },
+    {
+      "title": "Winklevoss twins put roughly $26 million behind pro-Trump super PAC this cycle",
+      "publisher": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/winklevoss-twins-26-million-maga-inc/",
+      "date": "2026"
+    },
+    {
+      "title": "SEC enforcement director resigns after just six months in the role",
+      "publisher": "InvestmentNews",
+      "url": "https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711",
+      "date": "2026-03-16"
     }
   ],
   "entities": [
@@ -815,13 +838,55 @@
   ],
   "audit": {
     "checked": [
-      "Language review of summary and sub-claims for unattributed allegations"
+      "Winklevoss twins' ~$10.02M BTC gift to MAGA Inc. on 19 Jun 2026, 23 days after the CFTC-Gemini joint motion",
+      "Judge Hellerstein's 15 Oct 2026 denial of the vacatur motion",
+      "Margaret Ryan's 16 Mar 2026 resignation and the Reuters anonymous-source account of clashes over Sun and Musk cases",
+      "Gemini's retention of Miller Strategies"
     ],
     "result": "upheld",
     "changes": [
-      "Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the reason for Ryan's exit is attributed to anonymous Reuters sources and marked unverified, and the quid pro quo is marked unverified. No changes."
+      "Fresh searches (The Block, Bloomberg Tax, CryptoSlate, Crypto Briefing, InvestmentNews, Cointelegraph's Reuters relay, Legis1) confirm the dates and amounts. Verdict unchanged.",
+      "Added the per-twin FEC amounts and the reasoning of Hellerstein's order. Added a press-reported ~$26M cycle total, flagged as unverified.",
+      "Ryan sub-claim: added the unsigned Sun-settlement detail, the Musk settlement talks and Atkins's public praise. It stays unverified because the account rests on anonymous Reuters sources.",
+      "Gemini/Miller: still rests on Legis1 and the LDA client record, and the LDA fetch was blocked again."
     ],
-    "new_sources": [],
-    "scope": "language review only; no fresh searches"
+    "new_sources": [
+      {
+        "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
+        "publisher": "The Block",
+        "url": "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement",
+        "publisher": "Bloomberg Tax",
+        "url": "https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
+        "date": "2026-10"
+      },
+      {
+        "title": "Winklevoss twins gave Trump's super PAC $10 million 23 days after CFTC joined Gemini relief bid",
+        "publisher": "CryptoSlate",
+        "url": "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/",
+        "date": "2026-07"
+      },
+      {
+        "title": "Winklevoss twins put roughly $26 million behind pro-Trump super PAC this cycle",
+        "publisher": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/winklevoss-twins-26-million-maga-inc/",
+        "date": "2026"
+      },
+      {
+        "title": "SEC top enforcer clashed over Trump cases before quitting: report",
+        "publisher": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report",
+        "date": "2026-03"
+      },
+      {
+        "title": "SEC enforcement director resigns after just six months in the role",
+        "publisher": "InvestmentNews",
+        "url": "https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711",
+        "date": "2026-03-16"
+      }
+    ]
   }
 }

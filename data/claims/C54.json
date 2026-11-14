@@ -3,7 +3,7 @@
   "title": "The crypto revolving door: officials who moved to firms they shaped policy for",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Most of the named moves are documented. Bo Hines left the White House crypto council on 9 Aug 2025, joined Tether on 19 Aug and became CEO of its US arm (USAT) on 12 Sep 2025. Per the WSJ (14 Oct 2026), a firm he co-owned, Nxum, had a $415K-a-month Tether deal from May 2025 and received about $6.3M, and Sen. Blumenthal opened an inquiry on 22 Oct 2026. Caroline Pham (CFTC to MoonPay), Summer Mersinger (CFTC to Blockchain Association) and Brian Quintenz (a16z/Kalshi to a withdrawn CFTC nomination to SUI Group's board) are also documented. So are the industry ties Mike Selig, Paul Atkins and Jonathan Gould brought into office, and Steve Witkoff's retained World Liberty holdings as special envoy. Gaps: I found no waiver or cooling-off record for Hines or Gould, no named 2025-26 SEC staff move to Coinbase or a16z, and no finding by any authority that a move broke ethics rules.",
+  "summary": "Most of the named moves are documented. Bo Hines left the White House crypto council on 9 Aug 2025, joined Tether on 19 Aug and became CEO of its US arm (USAT) on 12 Sep 2025. Per the WSJ (14 Oct 2026), a firm he co-owned, Nxum, had a $415K-a-month Tether deal from May 2025 and received about $6.3M, and Sen. Blumenthal opened an inquiry on 22 Oct 2026. Caroline Pham (CFTC to MoonPay), Summer Mersinger (CFTC to Blockchain Association) and Brian Quintenz (a16z/Kalshi to a withdrawn CFTC nomination, then SUI Group's board and, from July 2026, senior adviser to the Kalshi-backed Coalition for Prediction Markets) are also documented. So are the industry ties Mike Selig, Paul Atkins and Jonathan Gould brought into office, and Steve Witkoff's retained World Liberty holdings as special envoy. Gaps: I found no waiver or cooling-off record for Hines or Gould, no named 2025-26 SEC staff move to Coinbase or a16z, and no finding by any authority that a move broke ethics rules.",
   "sub_claims": [
     {
       "statement": "Bo Hines went from director of the White House crypto council to running Tether's US arm (USAT).",
@@ -21,26 +21,31 @@
     {
       "statement": "Hines's move raises cooling-off/ethics issues (payments from Tether while he shaped stablecoin policy).",
       "verdict": "partly-accurate",
-      "finding": "The WSJ reported on 14 Oct 2026 (known here through secondary coverage) that Tether agreed in May 2025 to pay Nxum, a consulting firm Hines co-founded and still owned a third of while in government, $415,000 a month for lobbying, PR and advisory work. About $6.3M reportedly flowed. Early payments were routed through a marketing firm, Notorious, and later ones, including two of $2.49M in Dec 2025 and Apr 2026, went straight to Nxum after Hines left. The WSJ also reported that Hines pushed for the GENIUS Act's three-year transition period, a provision favourable to Tether. On 22 Oct 2026 Sen. Blumenthal (PSI ranking member) wrote to Tether CEO Paolo Ardoino and to Nxum CEO Todd Hines, Bo's father, asking for contracts and payment records by 3 Nov 2026 (one outlet says 6 Nov). His letter says the arrangement implicates ethics, anticorruption and lobbying laws, and that Nxum never registered its lobbying. No public ethics waiver or post-employment determination for Hines was found. No authority has found a violation, and the reporting does not show the money changed any provision.",
+      "finding": "The WSJ reported on 14 Oct 2026 (known here through secondary coverage) that Tether agreed in May 2025 to pay Nxum, a consulting firm Hines co-founded and still owned a third of while in government, $415,000 a month for lobbying, PR and advisory work. About $6.3M reportedly flowed. Early payments were routed through a marketing firm, Notorious, and later ones, including two of $2.49M in Dec 2025 and Apr 2026, went straight to Nxum after Hines left. The WSJ also reported that Hines pushed for the GENIUS Act's three-year transition period, a provision favourable to Tether. On 22 Oct 2026 Sen. Blumenthal (PSI ranking member) wrote to Tether CEO Paolo Ardoino and to Nxum CEO Todd Hines, Bo's father, asking for contracts and payment records by 3 Nov 2026 (one outlet says 6 Nov). His letter says the arrangement implicates ethics, anticorruption and lobbying laws, and that Nxum never registered its lobbying. No public ethics waiver or post-employment determination for Hines was found. No authority has found a violation, and the reporting does not show the money changed any provision. Audit note: the 22 Oct 2026 letters went to Tether CEO Paolo Ardoino and to Todd Hines, Bo's father, at Nxum. They say Nxum never registered as a lobbyist and cite WSJ-reviewed messages in which Ardoino urged Nxum to 'obliterate' GENIUS Act opponents. Per the WSJ, citing FEC records, the Fellowship PAC (chaired by Tether's government-affairs head Jesse Spiro) also paid Nxum Group $6.55M from Jan to Apr 2026. Nxum says Hines was unaware of and uninvolved in its Tether work while in government. Tether cites an external-counsel review. These are allegations, not findings.",
       "sources": [
         "https://www.ibtimes.co.uk/bo-hines-tether-nxum-stablecoin-law-payments-1826042",
         "https://ambcrypto.com/tethers-6-3m-payments-to-bo-hines-linked-firm-raise-timeline-questions/",
         "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
         "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-22-Letter-from-Sen-Blumenthal-to-Nxum.pdf",
-        "https://bitbo.io/news/blumenthal-probes-tether-payments/"
+        "https://bitbo.io/news/blumenthal-probes-tether-payments/",
+        "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+        "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-22-Letter-from-Sen-Blumenthal-to-Tether.pdf",
+        "https://protos.com/tether-paid-bo-hines-company-while-he-was-at-white-house-wsj/"
       ]
     },
     {
       "statement": "Brian Quintenz (Kalshi board) had his CFTC chair nomination withdrawn.",
       "verdict": "confirmed",
-      "finding": "Quintenz was a CFTC commissioner in Trump's first term, then a16z crypto's global head of policy and a Kalshi board member (reportedly since 2021). He pledged to leave the Kalshi board if confirmed, and his Kalshi ties drew gaming-industry opposition. Trump nominated him in early 2025. After months of delay and a public feud with the Winklevoss twins, who urged Trump to drop him (Quintenz released their texts), the White House withdrew the nomination on 30 Sep 2025; it was reported on 1 Oct. Mike Selig was nominated instead. Quintenz joined SUI Group's board (Nasdaq: SUIG) as an independent director effective 5 Jan 2026. He was also reported as a senior adviser to a prediction-markets coalition backing Kalshi, but I could not confirm the date. Note: as a withdrawn nominee he never held office in this administration, so this is an industry-to-nominee-to-industry path, not a classic revolving-door exit.",
+      "finding": "Quintenz was a CFTC commissioner in Trump's first term, then a16z crypto's global head of policy and a Kalshi board member (reportedly since 2021). He pledged to leave the Kalshi board if confirmed, and his Kalshi ties drew gaming-industry opposition. Trump nominated him in early 2025. After months of delay and a public feud with the Winklevoss twins, who urged Trump to drop him (Quintenz released their texts), the White House withdrew the nomination on 30 Sep 2025; it was reported on 1 Oct. Mike Selig was nominated instead. Quintenz joined SUI Group's board (Nasdaq: SUIG) as an independent director effective 5 Jan 2026. In July 2026 the Coalition for Prediction Markets (members include Kalshi, Crypto.com, Coinbase, Robinhood and Underdog; led by former Rep. Sean Patrick Maloney) named him a senior adviser. The role supports its push for long-term CFTC authorisation and funding. Note: as a withdrawn nominee he never held office in this administration, so this is an industry-to-nominee-to-industry path, not a classic revolving-door exit.",
       "sources": [
         "https://www.covers.com/industry/white-house-pulls-quintenz-nomination-for-cftc-oct-1-2025",
         "https://www.theblock.co/amp/post/372990/white-house-drops-brian-quintenz-from-cftc-chair-consideration",
         "https://www.notus.org/trump-white-house/brian-quintenz-white-house-cftc-nominee-winklevoss-twins",
         "https://sbcamericas.com/2025/10/01/white-house-ditches-quintenz-cftc-chair/",
         "https://www.businesswire.com/news/home/20260106529089/en",
-        "https://bettorsinsider.com/?p=18539"
+        "https://bettorsinsider.com/?p=18539",
+        "https://deadspin.com/prediction-markets/legal-news/coalition-for-prediction-markets-adds-brian-quintenz-to-its-ranks/",
+        "https://gamingamerica.com/news/1086011/brian-quintenz-coalition-prediction-markets"
       ]
     },
     {
@@ -72,11 +77,12 @@
     {
       "statement": "Jonathan Gould (OCC) came from crypto firm Bitfury.",
       "verdict": "mostly-accurate",
-      "finding": "Gould was senior deputy comptroller and chief counsel at the OCC (2018-21), then Bitfury's chief legal officer from 2022 (Law.com). He was earlier a Jones Day partner. He was confirmed Comptroller 50-45 on 10 Jul 2025, and his OCC granted World Liberty's trust-bank charter preliminary conditional approval on 14 Aug 2026 (see C12). I found no public ethics agreement, recusal list or waiver covering Bitfury or crypto-charter matters. Reports of Warren seeking a four-year recusal come only from a low-reliability dossier site and are unverified.",
+      "finding": "Gould was senior deputy comptroller and chief counsel at the OCC (2018-21), then Bitfury's chief legal officer from 2022 (Law.com). He was earlier a Jones Day partner. He was confirmed Comptroller 50-45 on 10 Jul 2025, and his OCC granted World Liberty's trust-bank charter preliminary conditional approval on 14 Aug 2026 (see C12). I found no public ethics agreement, recusal list or waiver covering Bitfury or crypto-charter matters. Reports of Warren seeking a four-year recusal come only from a low-reliability dossier site and are unverified. Audit note: a fresh search (Nov 2026) again found no public ethics agreement, recusal memo or waiver for Gould in mainstream coverage or official pages. Claims about Warren letters seeking a four-year recusal (Mar 2025) and Erebor-charter recusal records (Feb 2026) appear only on the unreliable dossier site and remain unverified.",
       "sources": [
         "https://www.theblock.co/amp/post/340494/trump-picks-former-bitfury-exec-jonathan-gould-to-lead-the-occ-signaling-ongoing-shift-to-crypto-friendly-regulators",
         "https://www.theblock.co/amp/post/362071/senate-confirms-former-blockchain-executive-jonathan-gould-to-lead-occ",
-        "https://law.com/corpcounsel/2022/02/11/bitfury-taps-regulatory-vet-to-lead-crypto-companys-legal-team"
+        "https://law.com/corpcounsel/2022/02/11/bitfury-taps-regulatory-vet-to-lead-crypto-companys-legal-team",
+        "https://www.theblock.co/amp/post/362071/senate-confirms-former-blockchain-executive-jonathan-gould-to-lead-occ"
       ]
     },
     {
@@ -90,7 +96,7 @@
     {
       "statement": "SEC/CFTC officials departed to crypto firms (Coinbase, a16z, etc.).",
       "verdict": "partly-accurate",
-      "finding": "The clearest cases are at the CFTC. Acting Chair Caroline Pham's move to MoonPay as chief legal and administrative officer was announced on 17 Dec 2025, to start when her CFTC service ended; MoonPay said she would lead its Washington policy strategy. Commissioner Summer Mersinger's move to Blockchain Association CEO was announced on 14 May 2025; she started on 2 Jun 2025, leaving a term that ran to Apr 2028, and was reported in Sep 2026 to be stepping down at year-end. Former SEC Trading & Markets director Brett Redfearn, a first-term official, went to Coinbase and then became Securitize's president in Apr 2026. Securitize was an Atkins holding. Traffic also runs the other way: Selig moved from industry law to the SEC to the CFTC, and Taylor Lindman, Chainlink's deputy GC, became SEC Crypto Task Force chief counsel on 23 Feb 2026. I could not name any 2025-26 SEC staffer who moved to Coinbase or a16z specifically; one Jan 2026 headline about a Coinbase hire was too thin to rely on. The widely cited count of 200+ officials (28 SEC, 15 CFTC) comes from a Tech Transparency Project study cited in Oct 2022 congressional letters, so it predates this administration.",
+      "finding": "The clearest cases are at the CFTC. Acting Chair Caroline Pham's move to MoonPay as chief legal and administrative officer was announced on 17 Dec 2025, to start when her CFTC service ended; MoonPay said she would lead its Washington policy strategy. Commissioner Summer Mersinger's move to Blockchain Association CEO was announced on 14 May 2025; she started on 2 Jun 2025, leaving a term that ran to Apr 2028, and was reported in Sep 2026 to be stepping down at year-end. Former SEC Trading & Markets director Brett Redfearn, a first-term official, went to Coinbase and then became Securitize's president in Apr 2026. Securitize was an Atkins holding. Traffic also runs the other way: Selig moved from industry law to the SEC to the CFTC, and Taylor Lindman, Chainlink's deputy GC, became SEC Crypto Task Force chief counsel on 23 Feb 2026. I could not name any 2025-26 SEC staffer who moved to Coinbase or a16z specifically; one Jan 2026 headline about a Coinbase hire was too thin to rely on. The widely cited count of 200+ officials (28 SEC, 15 CFTC) comes from a Tech Transparency Project study cited in Oct 2022 congressional letters, so it predates this administration. Audit note: a fresh search again found no named 2025-26 SEC staffer moving to Coinbase or a16z. The nearest is Elad Roisman, a former SEC commissioner and acting chair who left the SEC in 2022. Fireblocks hired him in Aug 2026 as chief regulatory and policy officer, which is an older-era official, not a current-administration exit.",
       "sources": [
         "https://www.moonpay.com/newsroom/caroline-d-pham",
         "https://www.bloomberg.com/news/articles/2025-12-17/moonpay-says-cftc-s-caroline-pham-will-join-crypto-payments-firm",
@@ -100,7 +106,8 @@
         "https://cointelegraph.com/news/sec-official-securitize-president-board",
         "https://theblock.co/post/390889/chainlinks-taylor-lindman-joins-sec-as-chief-counsel-for-crypto-task-force",
         "https://www.techtransparencyproject.org/articles/crypto-industry-amasses-washington-insiders-lobbying-blitz-intensifies",
-        "https://www.warren.senate.gov/newsroom/press-releases/warren-ocasio-cortez-lawmakers-seek-answers-from-financial-regulators-about-revolving-door-between-regulatory-agencies-and-crypto-industry"
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-ocasio-cortez-lawmakers-seek-answers-from-financial-regulators-about-revolving-door-between-regulatory-agencies-and-crypto-industry",
+        "https://www.financemagnates.com/executives/moves/fireblocks-taps-former-sec-acting-chair-for-stablecoin-and-tokenisation-push/"
       ]
     },
     {
@@ -365,6 +372,36 @@
       "publisher": "Office of Sen. Warren",
       "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-murphy-investigate-ethics-conflicts-related-to-trumps-envoy-to-the-middle-east",
       "date": "2025-11-18"
+    },
+    {
+      "title": "Coalition for Prediction Markets adds Brian Quintenz to its ranks",
+      "publisher": "Deadspin",
+      "url": "https://deadspin.com/prediction-markets/legal-news/coalition-for-prediction-markets-adds-brian-quintenz-to-its-ranks/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Jilted CFTC nominee Brian Quintenz to lobby with Coalition for Prediction Markets",
+      "publisher": "Gaming America",
+      "url": "https://gamingamerica.com/news/1086011/brian-quintenz-coalition-prediction-markets",
+      "date": "2026-07"
+    },
+    {
+      "title": "Letter from Sen. Blumenthal to Tether",
+      "publisher": "Senate PSI minority (HSGAC)",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-22-Letter-from-Sen-Blumenthal-to-Tether.pdf",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Tether paid Bo Hines' company while he was at White House, WSJ",
+      "publisher": "Protos",
+      "url": "https://protos.com/tether-paid-bo-hines-company-while-he-was-at-white-house-wsj/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Fireblocks taps former SEC acting chair for stablecoin and tokenisation push",
+      "publisher": "Finance Magnates",
+      "url": "https://www.financemagnates.com/executives/moves/fireblocks-taps-former-sec-acting-chair-for-stablecoin-and-tokenisation-push/",
+      "date": "2026-08-17"
     }
   ],
   "entities": [
@@ -1087,5 +1124,63 @@
       ],
       "source_url": "https://cointelegraph.com/news/sec-official-securitize-president-board"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "WSJ (14 Oct 2026): Tether's $415K/month deal and ~$6.3M to Hines-co-owned Nxum, plus Blumenthal's 22 Oct letters",
+      "Date and nature of Quintenz's prediction-markets coalition role",
+      "Whether Gould's ethics agreement or recusal is public",
+      "Named 2025-26 SEC staff moves to Coinbase or a16z; Pham's MoonPay move"
+    ],
+    "result": "strengthened",
+    "changes": [
+      "Filled the three gaps left by the first researcher's search budget. Quintenz was named a senior adviser to the Coalition for Prediction Markets in July 2026 (updated sub-claim and summary). A fresh search again found no public Gould ethics agreement or recusal, so that gap is recorded as checked-and-absent. Again no named 2025-26 SEC staff move to Coinbase or a16z; Roisman's Aug 2026 Fireblocks hire is noted as an older-era official.",
+      "Hines sub-claim: confirmed the 22 Oct 2026 letters (to Ardoino and to Todd Hines at Nxum). Added the unregistered-lobbying point, the Fellowship PAC's $6.55M to Nxum (WSJ/FEC), and Nxum's and Tether's denials. These remain allegations.",
+      "Pham's MoonPay move (announced Dec 2025) re-confirmed via MoonPay's newsroom. Verdict and confidence unchanged."
+    ],
+    "new_sources": [
+      {
+        "title": "Coalition for Prediction Markets adds Brian Quintenz to its ranks",
+        "publisher": "Deadspin",
+        "url": "https://deadspin.com/prediction-markets/legal-news/coalition-for-prediction-markets-adds-brian-quintenz-to-its-ranks/",
+        "date": "2026-07"
+      },
+      {
+        "title": "Jilted CFTC nominee Brian Quintenz to lobby with Coalition for Prediction Markets",
+        "publisher": "Gaming America",
+        "url": "https://gamingamerica.com/news/1086011/brian-quintenz-coalition-prediction-markets",
+        "date": "2026-07"
+      },
+      {
+        "title": "Senate Democrat probes Tether payments to ex-White House crypto adviser's firm",
+        "publisher": "Decrypt",
+        "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+        "date": "2026-10"
+      },
+      {
+        "title": "Letter from Sen. Blumenthal to Tether",
+        "publisher": "Senate PSI minority (HSGAC)",
+        "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-22-Letter-from-Sen-Blumenthal-to-Tether.pdf",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Tether paid Bo Hines' company while he was at White House, WSJ",
+        "publisher": "Protos",
+        "url": "https://protos.com/tether-paid-bo-hines-company-while-he-was-at-white-house-wsj/",
+        "date": "2026-10"
+      },
+      {
+        "title": "Fireblocks taps former SEC acting chair for stablecoin and tokenisation push",
+        "publisher": "Finance Magnates",
+        "url": "https://www.financemagnates.com/executives/moves/fireblocks-taps-former-sec-acting-chair-for-stablecoin-and-tokenisation-push/",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "Senate confirms former blockchain executive Jonathan Gould to lead OCC",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/amp/post/362071/senate-confirms-former-blockchain-executive-jonathan-gould-to-lead-occ",
+        "date": "2025-07-10"
+      }
+    ]
+  }
 }
