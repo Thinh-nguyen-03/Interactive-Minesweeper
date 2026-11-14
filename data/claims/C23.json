@@ -1,0 +1,648 @@
+{
+  "id": "C23",
+  "title": "SEC drops crypto-exchange cases; donors",
+  "verdict": "mostly-accurate",
+  "confidence": "high",
+  "summary": "The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar 27, 2025), Binance (May 29, 2025) and Gemini (investigation closed Feb 2025; Earn suit dismissed Jan 2026), plus many other crypto matters. Coinbase, Kraken, Crypto.com and Ripple each gave $1M or more to the inauguration, the Winklevoss twins gave about $1M each to the 2024 campaign (the excess was refunded), Coinbase sponsored the Army parade, and Coinbase, Ripple, Tether and the Winklevosses gave to the ballroom. The video overstates it in three ways: some dismissals came months later; formal lawsuit dismissals number about 7-8 (over a dozen only if closed probes are counted); and no Binance donation was found. The quid-pro-quo framing rests on timing, not on proof, and the SEC denies any political favoritism.",
+  "sub_claims": [
+    {
+      "statement": "Coinbase, Kraken, Binance and Gemini all faced SEC enforcement.",
+      "verdict": "confirmed",
+      "finding": "The SEC sued Coinbase (Jun 2023), Kraken/Payward (Nov 2023), Binance and Zhao (Jun 2023), and Gemini over Gemini Earn (Jan 2023). Gemini also faced a separate investigation, with a Wells notice in 2024.",
+      "sources": [
+        "https://www.theblock.co/post/343835/coinbase-case-officially-dropped-by-sec",
+        "https://www.theblock.co/post/348606/sec-formally-dismisses-enforcement-action-against-kraken-consensys-cumberland-drw",
+        "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316",
+        "https://www.theblock.co/news/business/2026-01-24-sec-to-dismiss-gemini-earn-lawsuit-with-prejudice-after-full-investor-recovery-ending-three-year-battle-386931",
+        "https://theblock.co/news/regulation/2025-02-26-sec-closes-investigation-into-crypto-exchange-gemini-cameron-winklevoss-says-343643"
+      ]
+    },
+    {
+      "statement": "The cases were dropped one by one, very shortly after Trump took office.",
+      "verdict": "mostly-accurate",
+      "finding": "Coinbase was dismissed with prejudice on Feb 27, 2025. Gemini's investigation was closed on Feb 26, 2025. Kraken was dismissed with prejudice on Mar 27, 2025, together with Consensys and Cumberland. Binance was stayed in Feb 2025 and dismissed with prejudice on May 29, 2025. Ripple's appeals were dropped on Aug 7, 2025, with the $125M judgment intact. The Gemini Earn suit was dismissed by stipulation on Jan 23, 2026. The first wave came within weeks; other cases took months, up to a year.",
+      "sources": [
+        "https://sec.gov/newsroom/press-releases/2025-47",
+        "https://www.theblock.co/post/348606/sec-formally-dismisses-enforcement-action-against-kraken-consensys-cumberland-drw",
+        "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316",
+        "https://theblock.co/news/regulation/2025-02-26-sec-closes-investigation-into-crypto-exchange-gemini-cameron-winklevoss-says-343643",
+        "https://www.theblock.co/news/business/2026-01-24-sec-to-dismiss-gemini-earn-lawsuit-with-prejudice-after-full-investor-recovery-ending-three-year-battle-386931",
+        "https://cointelegraph.com/news/sec-ripple-drop-appeals-enforcement-action"
+      ]
+    },
+    {
+      "statement": "Over a dozen lawsuits against cryptocurrency exchanges were dropped.",
+      "verdict": "partly-accurate",
+      "finding": "The SEC's own FY2025 accounting lists 7 crypto enforcement actions dismissed between Feb and May 2025: Coinbase, Binance, Cumberland, Consensys, Kraken, Dragonchain and Balina. Gemini Earn was added in Jan 2026. Decrypt counts at least 17 firms once closed probes are included (Robinhood, Uniswap, OpenSea, Crypto.com, Yuga, Gemini). The NYT, as reported secondhand, found about 60% of inherited crypto cases paused, dropped or dismissed. Over a dozen holds for crypto companies and probes combined, but not for lawsuits against exchanges specifically.",
+      "sources": [
+        "https://decrypt.co/356030/how-the-sec-is-handling-crypto-cases-12-months-into-trumps-presidency",
+        "https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped"
+      ]
+    },
+    {
+      "statement": "Multiple of these exchanges gave $1M or more to Trump's campaign or inauguration fund.",
+      "verdict": "mostly-accurate",
+      "finding": "Coinbase, Kraken and Crypto.com each gave $1M to the inaugural committee, and Ripple gave about $4.9-5M in XRP. Cameron and Tyler Winklevoss (Gemini) each gave about $1M in BTC to the Trump campaign in Jun 2024; about $155K each over the $844,600 limit was refunded. No Binance contribution to the campaign or inauguration was found.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2025-01-31/trump-raised-millions-from-crypto-firms-for-his-inauguration",
+        "https://decrypt.co/300274/every-crypto-firm-donated-donald-trump-inauguration",
+        "https://bnnbloomberg.ca/business/company-news/2024/12/20/crypto-companies-kraken-ripple-ondo-donate-to-trumps-inauguration",
+        "https://www.bloomberg.com/news/articles/2024-06-21/winklevoss-twins-refunded-after-trump-crypto-gift-exceeded-limit"
+      ]
+    },
+    {
+      "statement": "They sponsored Trump's military parade.",
+      "verdict": "partly-accurate",
+      "finding": "Coinbase was a named sponsor of the June 14, 2025 Army 250th parade and festival, via a donation to the nonpartisan America250. No other exchange was found among the sponsors. Total sponsorship was reported at about $885K.",
+      "sources": [
+        "https://www.mediaite.com/media/tv/trumps-military-parade-gives-shoutouts-to-corporate-donors-special-thanks-to-our-sponsor-coinbase",
+        "https://dc.fortune.com/crypto/2025/06/16/coinbase-faces-crypto-backlash-over-sponsoring-military-parade-in-d-c"
+      ]
+    },
+    {
+      "statement": "They sponsored the White House ballroom.",
+      "verdict": "confirmed",
+      "finding": "The White House's Oct 2025 list of 37 ballroom donors includes Coinbase, Ripple, Tether America, and Cameron and Tyler Winklevoss. Kraken and Binance were not found on it.",
+      "sources": [
+        "https://www.theblock.co/post/376062/crypto-donors-trump-white-house-ballroom",
+        "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/"
+      ]
+    },
+    {
+      "statement": "The dismissals coincide with what looks like quid-pro-quo deals.",
+      "verdict": "unverified",
+      "finding": "The donations and the timing are documented. No evidence was found that any dismissal was exchanged for a donation. The SEC cites policy and discretion, and firms with no known Trump donations (Uniswap, OpenSea) also had their probes dropped.",
+      "sources": [
+        "https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped",
+        "https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/"
+      ]
+    }
+  ],
+  "corrections": [
+    "Transcript says the cases were dropped 'very shortly after Trump took office'. Coinbase, Kraken and the Gemini investigation fell within about 10 weeks, but Binance's dismissal came in May 2025, Ripple's in August 2025 (with the $125M penalty upheld), and the Gemini Earn suit's in January 2026.",
+    "Transcript says 'over a dozen lawsuits against cryptocurrency exchanges'. The SEC formally dismissed about 7-8 crypto lawsuits. Counts above a dozen (Decrypt: at least 17) include closed investigations and non-exchange firms.",
+    "Gemini's $1M gifts were personal 2024 campaign contributions from the Winklevoss twins, partly refunded as over the limit, not donations from the company to the inauguration.",
+    "No Binance donation to Trump's campaign or inauguration was found; Binance's Trump links run through the MGX/USD1 deal and the CZ pardon.",
+    "Of the exchanges, only Coinbase is documented as a sponsor of the military parade."
+  ],
+  "denials_and_context": [
+    "The SEC says political favoritism played no role and that its decisions rest on legal and policy considerations; its dismissals cite 'the exercise of its discretion and as a policy matter.'",
+    "The SEC later acknowledged 'flaws' in its earlier crypto enforcement. The industry calls the Gensler-era cases 'regulation by enforcement', and courts had split on the legal theories (e.g., the Ripple programmatic-sales ruling).",
+    "The Gemini Earn dismissal followed full return of investor assets through the Genesis bankruptcy, and Gemini had already paid NYAG settlements.",
+    "The parade sponsorship went through the nonpartisan America250, and the ballroom donor list includes many non-crypto firms.",
+    "Public Citizen and Democrats argue that crypto's political spending 'paid off'; that is advocacy, not proof of a quid pro quo."
+  ],
+  "sources": [
+    {
+      "title": "SEC press release 2025-47: Coinbase dismissal",
+      "publisher": "SEC",
+      "url": "https://sec.gov/newsroom/press-releases/2025-47",
+      "date": "2025-02-27"
+    },
+    {
+      "title": "Coinbase case officially dropped by SEC",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/343835/coinbase-case-officially-dropped-by-sec",
+      "date": "2025-02-27"
+    },
+    {
+      "title": "SEC formally dismisses enforcement action against Kraken, Consensys and Cumberland DRW",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/348606/sec-formally-dismisses-enforcement-action-against-kraken-consensys-cumberland-drw",
+      "date": "2025-03-27"
+    },
+    {
+      "title": "Litigation Release LR-26316: Binance",
+      "publisher": "SEC",
+      "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316",
+      "date": "2025-05-29"
+    },
+    {
+      "title": "SEC Dismisses Lawsuit Against Crypto Exchange Binance",
+      "publisher": "Insurance Journal / Reuters",
+      "url": "https://www.insurancejournal.com/news/national/2025/05/30/825659.htm",
+      "date": "2025-05-30"
+    },
+    {
+      "title": "SEC closes investigation into crypto exchange Gemini, Cameron Winklevoss says",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/regulation/2025-02-26-sec-closes-investigation-into-crypto-exchange-gemini-cameron-winklevoss-says-343643",
+      "date": "2025-02-26"
+    },
+    {
+      "title": "SEC to dismiss Gemini Earn lawsuit with prejudice",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2026-01-24-sec-to-dismiss-gemini-earn-lawsuit-with-prejudice-after-full-investor-recovery-ending-three-year-battle-386931",
+      "date": "2026-01-24"
+    },
+    {
+      "title": "SEC agrees to dismiss Gemini lawsuit",
+      "publisher": "Banking Dive",
+      "url": "https://www.bankingdive.com/news/sec-agrees-to-dismiss-gemini-lawsuit/810508/",
+      "date": "2026-01"
+    },
+    {
+      "title": "SEC, Ripple drop appeals",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sec-ripple-drop-appeals-enforcement-action",
+      "date": "2025-08"
+    },
+    {
+      "title": "How the SEC is Handling Crypto Cases 12 Months Into Trump's Presidency",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/356030/how-the-sec-is-handling-crypto-cases-12-months-into-trumps-presidency",
+      "date": "2026-01"
+    },
+    {
+      "title": "SEC crypto enforcement dropped under Trump (NYT analysis coverage)",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped",
+      "date": "2025-12"
+    },
+    {
+      "title": "Trump Raised Millions From Crypto Firms for His Inauguration",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-01-31/trump-raised-millions-from-crypto-firms-for-his-inauguration",
+      "date": "2025-01-31"
+    },
+    {
+      "title": "Here's Every Crypto Firm That Shelled Out for Trump's Inauguration",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/300274/every-crypto-firm-donated-donald-trump-inauguration",
+      "date": "2025-01"
+    },
+    {
+      "title": "Crypto companies Kraken, Ripple, Ondo donate to Trump's inauguration",
+      "publisher": "BNN Bloomberg",
+      "url": "https://bnnbloomberg.ca/business/company-news/2024/12/20/crypto-companies-kraken-ripple-ondo-donate-to-trumps-inauguration",
+      "date": "2024-12-20"
+    },
+    {
+      "title": "Winklevoss Twins Refunded After Trump Crypto Gift Exceeded Limit",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2024-06-21/winklevoss-twins-refunded-after-trump-crypto-gift-exceeded-limit",
+      "date": "2024-06-21"
+    },
+    {
+      "title": "Trump's Military Parade Gives Shoutouts To Corporate Donors",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/media/tv/trumps-military-parade-gives-shoutouts-to-corporate-donors-special-thanks-to-our-sponsor-coinbase",
+      "date": "2025-06-14"
+    },
+    {
+      "title": "Coinbase faces crypto backlash over sponsoring military parade in D.C.",
+      "publisher": "Fortune",
+      "url": "https://dc.fortune.com/crypto/2025/06/16/coinbase-faces-crypto-backlash-over-sponsoring-military-parade-in-d-c",
+      "date": "2025-06-16"
+    },
+    {
+      "title": "Coinbase, Ripple among crypto titans donating to Trump's new White House ballroom",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/376062/crypto-donors-trump-white-house-ballroom",
+      "date": "2025-10-24"
+    },
+    {
+      "title": "37 White House ballroom donors funding $300 million build",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/",
+      "date": "2025-10-26"
+    },
+    {
+      "title": "SEC officially closes investigation into Crypto.com",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sec-officially-closes-investigation-crypto-com",
+      "date": "2025-03-27"
+    },
+    {
+      "title": "Enforcement Actions Against Over 100 Corporations Stopped by Trump",
+      "publisher": "Public Citizen",
+      "url": "https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/",
+      "date": "2025"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; recipient of campaign and inaugural donations"
+    },
+    {
+      "id": "sec",
+      "name": "U.S. Securities and Exchange Commission",
+      "type": "government",
+      "description": "Dropped or closed most of its crypto enforcement matters in 2025-26"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "type": "company",
+      "description": "US crypto exchange; SEC suit dismissed Feb 2025; inaugural, parade and ballroom donor"
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken (Payward)",
+      "type": "company",
+      "description": "Crypto exchange; SEC suit dismissed Mar 2025; $1M inaugural donor"
+    },
+    {
+      "id": "binance",
+      "name": "Binance",
+      "type": "company",
+      "description": "Crypto exchange; SEC suit dismissed May 2025"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "type": "company",
+      "description": "Winklevoss-founded exchange; SEC probe closed Feb 2025, Earn suit dismissed Jan 2026"
+    },
+    {
+      "id": "crypto-com",
+      "name": "Crypto.com",
+      "type": "company",
+      "description": "Exchange; SEC probe closed Mar 2025; $1M inaugural donor"
+    },
+    {
+      "id": "ripple",
+      "name": "Ripple",
+      "type": "company",
+      "description": "XRP issuer; SEC appeals dropped Aug 2025; inaugural and ballroom donor"
+    },
+    {
+      "id": "tether",
+      "name": "Tether (Tether America)",
+      "type": "company",
+      "description": "Stablecoin issuer; ballroom donor"
+    },
+    {
+      "id": "consensys",
+      "name": "Consensys",
+      "type": "company",
+      "description": "Ethereum software firm; SEC suit dismissed Mar 2025"
+    },
+    {
+      "id": "cumberland-drw",
+      "name": "Cumberland DRW",
+      "type": "company",
+      "description": "Crypto trading firm; SEC suit dismissed Mar 2025"
+    },
+    {
+      "id": "cameron-winklevoss",
+      "name": "Cameron Winklevoss",
+      "type": "person",
+      "description": "Gemini co-founder; ~$1M BTC to Trump campaign 2024; ballroom donor"
+    },
+    {
+      "id": "tyler-winklevoss",
+      "name": "Tyler Winklevoss",
+      "type": "person",
+      "description": "Gemini co-founder; ~$1M BTC to Trump campaign 2024; ballroom donor"
+    },
+    {
+      "id": "changpeng-zhao",
+      "name": "Changpeng Zhao",
+      "type": "person",
+      "description": "Binance founder; co-defendant in dismissed SEC suit"
+    },
+    {
+      "id": "molly-white",
+      "name": "Molly White",
+      "type": "person",
+      "description": "Crypto researcher interviewed in the video"
+    },
+    {
+      "id": "trump-inaugural-committee",
+      "name": "Trump-Vance Inaugural Committee",
+      "type": "fund",
+      "description": "2025 inauguration fund that received crypto-firm donations"
+    },
+    {
+      "id": "trump-47-committee",
+      "name": "Trump 47 Committee",
+      "type": "fund",
+      "description": "Trump campaign committee that received and partly refunded the Winklevoss BTC gifts"
+    },
+    {
+      "id": "army-250-parade",
+      "name": "Army 250th Anniversary Parade",
+      "type": "event",
+      "description": "June 14, 2025 military parade in Washington DC; Coinbase a sponsor"
+    },
+    {
+      "id": "america250",
+      "name": "America250",
+      "type": "company",
+      "description": "Nonpartisan semiquincentennial organizer through which parade sponsorships flowed"
+    },
+    {
+      "id": "white-house-ballroom",
+      "name": "White House ballroom",
+      "type": "asset",
+      "description": "~$300M East Wing ballroom funded by private donors"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Released ballroom donor list Oct 2025"
+    },
+    {
+      "id": "new-york-times",
+      "name": "The New York Times",
+      "type": "media",
+      "description": "Analysis found ~60% of inherited SEC crypto cases eased"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "sec",
+      "target": "coinbase",
+      "label": "dismissed lawsuit with prejudice",
+      "type": "regulatory",
+      "date": "2025-02-27"
+    },
+    {
+      "source": "sec",
+      "target": "kraken",
+      "label": "dismissed lawsuit with prejudice",
+      "type": "regulatory",
+      "date": "2025-03-27"
+    },
+    {
+      "source": "sec",
+      "target": "consensys",
+      "label": "dismissed lawsuit",
+      "type": "regulatory",
+      "date": "2025-03-27"
+    },
+    {
+      "source": "sec",
+      "target": "cumberland-drw",
+      "label": "dismissed lawsuit",
+      "type": "regulatory",
+      "date": "2025-03-27"
+    },
+    {
+      "source": "sec",
+      "target": "binance",
+      "label": "dismissed lawsuit with prejudice",
+      "type": "regulatory",
+      "date": "2025-05-29"
+    },
+    {
+      "source": "sec",
+      "target": "changpeng-zhao",
+      "label": "dismissed lawsuit with prejudice",
+      "type": "regulatory",
+      "date": "2025-05-29"
+    },
+    {
+      "source": "sec",
+      "target": "gemini",
+      "label": "closed investigation with no action",
+      "type": "regulatory",
+      "date": "2025-02-26"
+    },
+    {
+      "source": "sec",
+      "target": "gemini",
+      "label": "stipulated dismissal of Gemini Earn suit",
+      "type": "regulatory",
+      "date": "2026-01-23"
+    },
+    {
+      "source": "sec",
+      "target": "ripple",
+      "label": "dropped appeal; $125M judgment stands",
+      "type": "legal",
+      "date": "2025-08-07",
+      "amount_usd": 125035150
+    },
+    {
+      "source": "sec",
+      "target": "crypto-com",
+      "label": "closed investigation with no action",
+      "type": "regulatory",
+      "date": "2025-03-27"
+    },
+    {
+      "source": "coinbase",
+      "target": "trump-inaugural-committee",
+      "label": "donated $1M to",
+      "type": "money",
+      "date": "2025-01",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "kraken",
+      "target": "trump-inaugural-committee",
+      "label": "donated $1M to",
+      "type": "money",
+      "date": "2024-12",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "crypto-com",
+      "target": "trump-inaugural-committee",
+      "label": "donated $1M to",
+      "type": "money",
+      "date": "2025-01",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "ripple",
+      "target": "trump-inaugural-committee",
+      "label": "donated ~$4.9-5M in XRP to",
+      "type": "money",
+      "date": "2024-12",
+      "amount_usd": 4900000
+    },
+    {
+      "source": "cameron-winklevoss",
+      "target": "trump-47-committee",
+      "label": "gave ~$1M in BTC (excess refunded)",
+      "type": "money",
+      "date": "2024-06",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "tyler-winklevoss",
+      "target": "trump-47-committee",
+      "label": "gave ~$1M in BTC (excess refunded)",
+      "type": "money",
+      "date": "2024-06",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "cameron-winklevoss",
+      "target": "gemini",
+      "label": "co-founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "tyler-winklevoss",
+      "target": "gemini",
+      "label": "co-founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "cameron-winklevoss",
+      "target": "tyler-winklevoss",
+      "label": "twin brother of",
+      "type": "family"
+    },
+    {
+      "source": "changpeng-zhao",
+      "target": "binance",
+      "label": "founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "trump-inaugural-committee",
+      "target": "donald-trump",
+      "label": "inaugural fund for",
+      "type": "political"
+    },
+    {
+      "source": "trump-47-committee",
+      "target": "donald-trump",
+      "label": "campaign committee for",
+      "type": "political"
+    },
+    {
+      "source": "coinbase",
+      "target": "america250",
+      "label": "donated to (parade sponsorship)",
+      "type": "money",
+      "date": "2025-06"
+    },
+    {
+      "source": "coinbase",
+      "target": "army-250-parade",
+      "label": "named sponsor of",
+      "type": "commercial",
+      "date": "2025-06-14"
+    },
+    {
+      "source": "america250",
+      "target": "army-250-parade",
+      "label": "organized sponsorship of",
+      "type": "commercial",
+      "date": "2025-06-14"
+    },
+    {
+      "source": "coinbase",
+      "target": "white-house-ballroom",
+      "label": "donor to",
+      "type": "money",
+      "date": "2025-10"
+    },
+    {
+      "source": "ripple",
+      "target": "white-house-ballroom",
+      "label": "donor to",
+      "type": "money",
+      "date": "2025-10"
+    },
+    {
+      "source": "tether",
+      "target": "white-house-ballroom",
+      "label": "donor to (via Tether America)",
+      "type": "money",
+      "date": "2025-10"
+    },
+    {
+      "source": "cameron-winklevoss",
+      "target": "white-house-ballroom",
+      "label": "donor to",
+      "type": "money",
+      "date": "2025-10"
+    },
+    {
+      "source": "tyler-winklevoss",
+      "target": "white-house-ballroom",
+      "label": "donor to",
+      "type": "money",
+      "date": "2025-10"
+    },
+    {
+      "source": "white-house",
+      "target": "white-house-ballroom",
+      "label": "released donor list for",
+      "type": "political",
+      "date": "2025-10"
+    },
+    {
+      "source": "donald-trump",
+      "target": "white-house-ballroom",
+      "label": "commissioned",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "donald-trump",
+      "target": "sec",
+      "label": "appointed leadership of",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "new-york-times",
+      "target": "sec",
+      "label": "analyzed crypto case outcomes of",
+      "type": "media",
+      "date": "2025-12"
+    },
+    {
+      "source": "molly-white",
+      "target": "sec",
+      "label": "criticized crypto case dismissals by",
+      "type": "media"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Robinhood: an inaugural donor whose SEC crypto probe was closed in Feb 2025",
+      "why_connected": "Same pattern as the exchanges: Robinhood's SEC crypto investigation was closed early in the term, and search results list Robinhood as an inaugural donor (a reported $2M, not verified here). The video does not cover it.",
+      "entities": [
+        "sec",
+        "donald-trump",
+        "trump-inaugural-committee"
+      ],
+      "source_url": "https://decrypt.co/356030/how-the-sec-is-handling-crypto-cases-12-months-into-trumps-presidency"
+    },
+    {
+      "title": "NYT analysis: SEC eased ~60% of inherited crypto cases, with several tied to Trump donors",
+      "why_connected": "A systematic version of this claim; the full case list and the donor overlaps deserve their own check.",
+      "entities": [
+        "new-york-times",
+        "sec",
+        "binance",
+        "ripple",
+        "coinbase"
+      ],
+      "source_url": "https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped"
+    },
+    {
+      "title": "Tether America among White House ballroom donors",
+      "why_connected": "Stablecoin issuer funding Trump's ballroom while stablecoin law (GENIUS Act) and USD1 competition are in play.",
+      "entities": [
+        "tether",
+        "white-house-ballroom",
+        "genius-act",
+        "usd1"
+      ],
+      "source_url": "https://www.theblock.co/post/376062/crypto-donors-trump-white-house-ballroom"
+    },
+    {
+      "title": "Public Citizen tracker of halted corporate enforcement actions",
+      "why_connected": "A broader tracker of dropped enforcement, including crypto cases.",
+      "entities": [
+        "sec",
+        "donald-trump"
+      ],
+      "source_url": "https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/"
+    }
+  ]
+}

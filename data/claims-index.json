@@ -312,5 +312,16 @@
    "C09",
    "C23"
   ]
+ },
+ {
+  "id": "C37",
+  "slug": "kushner-phone-hack",
+  "lines": "",
+  "title": "Jared Kushner's hacked phone",
+  "claim": "User-requested lead: reports that Jared Kushner's phone (or his accounts/communications) was hacked or compromised. Establish what is actually reported: when, by whom (state actor? spyware vendor? which country), what was accessed, how it was discovered and by which outlet/agency, and how it connects to his unofficial envoy role, his negotiations (Gaza, Iran, Russia-Ukraine), Affinity Partners and its Gulf investors (Saudi PIF, Qatar, UAE), and any earlier incidents (e.g. first-term WhatsApp use with MBS, security-clearance concerns, 2024-25 Iranian/Chinese hacks of Trump-circle phones). Distinguish confirmed reporting from rumour; if no credible report of a Kushner phone hack exists, say so plainly.",
+  "origin": "follow-up",
+  "parents": [
+   "C15"
+  ]
  }
 ]

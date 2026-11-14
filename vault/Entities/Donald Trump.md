@@ -1,0 +1,115 @@
+---
+id: "donald-trump"
+kind: "entity"
+type: "person"
+connections: 70
+claims: 25
+tags:
+  - "entity"
+  - "type/person"
+---
+# Donald Trump
+
+*person*
+
+US President; largest TMTG shareholder via revocable trust; his posts are the feed's main draw
+
+- US President; WLF co-founder emeritus; says he was unaware of the Aryam investment.
+- US President; jet used as Air Force One and slated for his library foundation
+- US president; family entities received about $187M of the upfront payment.
+- US President; licenses his name to merchandise and collects the royalties
+- US President; WLF co-founder; announced Stargate and discussed UAE swap
+
+## Appears in claims
+
+- [[C01 $TRUMP meme coin]] · Mostly accurate
+- [[C02 $MELANIA coin and NFTs]] · Mostly accurate
+- [[C03 Dinner for top $TRUMP holders]] · Confirmed
+- [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
+- [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
+- [[C06 Secret $500M 49% UAE stake in WLF]] · Confirmed
+- [[C07 MGX's $2B Binance investment settled in USD1]] · Mostly accurate
+- [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
+- [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
+- [[C10 Binance driving USD1 adoption]] · Mostly accurate
+- [[C11 GENIUS CLARITY Acts and USD1]] · Mostly accurate
+- [[C12 WLF bank charter from the OCC]] · Mostly accurate
+- [[C13 ALT5 Sigma $1.5B WLFI treasury deal]] · Mostly accurate
+- [[C14 Steve and Zach Witkoff]] · Mostly accurate
+- [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
+- [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
+- [[C17 Trump merchandise and the T1 phone]] · Mostly accurate
+- [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
+- [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]] · Mostly accurate
+- [[C20 Trump's stock purchases and Truth Social posts]] · Mostly accurate
+- [[C21 TMTG's market-moving 'truths' API and Truth+]] · Mostly accurate
+- [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
+- [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
+- [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Pending
+- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Pending
+
+## Relationships
+
+- [[Aryam Investment 1]] *about $187M of upfront payment to Trump-family entities* [[Donald Trump]] (2025, $187M, money) · [[C14 Steve and Zach Witkoff|C14]]
+- [[Aryam Investment 1]] *upfront payment of about $187M to Trump-family entities* [[Donald Trump]] (2025-01, $187M, money) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[CBS 60 Minutes]] *interviewed on Zhao pardon* [[Donald Trump]] (2025-11-02, media) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[CIC Digital LLC]] *reported 'Celebration Coins' royalties of $635,068,835 for 2025* [[Donald Trump]] (2025, $635.07M, money) · [[C01 $TRUMP meme coin|C01]]
+- [[CNBC]] *interviewed on UAE swap* [[Donald Trump]] (2026-04-21, media) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Donald Trump]] *father of* [[Barron Trump]] (family) · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]]
+- [[Donald Trump]] *cast crypto as race with* [[China]] (2026-07-02, political) · [[C01 $TRUMP meme coin|C01]]
+- [[Donald Trump]] *owns via revocable trust* [[CIC Digital LLC]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Donald Trump]] *lobbied House to pass* [[CLARITY Act]] (2025-07, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[Donald Trump]] *signed* [[Pardon of Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Donald Trump]] *sole beneficiary* [[Donald J. Trump Revocable Trust]] (ownership) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Donald Trump]] *sole beneficiary of* [[Donald J. Trump Revocable Trust]] (2024-12, ownership) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump]] *family controls* [[DT Marks DEFI LLC]] (ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[Donald Trump]] *owns (with family)* [[DT Marks DEFI LLC]] (2024-10, ownership) · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump]] *lobbied for and signed into law* [[GENIUS Act]] (2025-07-18, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[Donald Trump]] *met and called holdouts to flip votes* [[House Freedom Caucus]] (2025-07-15, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[Donald Trump]] *posted on Truth Social* [[Intel Oval Office trading meme]] (2025-09, media) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald Trump]] *named 'envoy of peace' (unofficial, volunteer)* [[Jared Kushner]] (2026-02-19, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Donald Trump]] *nominated as Comptroller* [[Jonathan Gould]] (2025-02, political) · [[C12 WLF bank charter from the OCC|C12]]
+- [[Donald Trump]] *spouse* [[Melania Trump]] (family) · [[C01 $TRUMP meme coin|C01]]
+- [[Donald Trump]] *spouse of* [[Melania Trump]] (family) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Donald Trump]] *accounts bought $247k-$630k of shares (Q1 2026)* [[Palantir Technologies (PLTR)]] (2026-03, $630K, money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald Trump]] *endorsed by ticker '(PLTR)' on Truth Social* [[Palantir Technologies (PLTR)]] (2026-04-10, media) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald Trump]] *appointed leadership of* [[U.S. Securities and Exchange Commission]] (2025, political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Donald Trump]] *appoints leadership of* [[U.S. Securities and Exchange Commission]] (political) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Donald Trump]] *announced at White House* [[Stargate]] (2025-01-21, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Donald Trump]] *missed 45-day reporting deadline under* [[STOCK Act]] (2026, legal) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald Trump]] *signed EO 14233 establishing* [[Strategic Bitcoin Reserve]] (2025-03-06, political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Donald Trump]] *launched* [[$TRUMP (Official Trump)]] (2025-01-17, commercial) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Donald Trump]] *launched and promoted* [[$TRUMP (Official Trump)]] (2025-01-17, commercial) · [[C01 $TRUMP meme coin|C01]]
+- [[Donald Trump]] *head of* [[Trump family]] (family) · [[C10 Binance driving USD1 adoption|C10]]
+- [[Donald Trump]] *controls via revocable trust* [[Trump Media & Technology Group]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Donald Trump]] *largest shareholder of* [[Trump Media & Technology Group]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump]] *attended and spoke at* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-22, political) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Donald Trump]] *said currency swap 'under consideration'; called 'good ally'* [[United Arab Emirates]] (2026-04-21, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Donald Trump]] *lends name to* [[Victory 47 fragrance]] (2024-12, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Donald Trump]] *commissioned* [[White House ballroom]] (2025, political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Donald Trump]] *family holds majority stake / revenue share* [[World Liberty Financial]] (ownership) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[Donald Trump]] *family holds stake in* [[World Liberty Financial]] (ownership) · [[C12 WLF bank charter from the OCC|C12]]
+- [[Donald Trump]] *family-linked backer/promoter of* [[World Liberty Financial]] (ownership) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Donald Trump]] *family-linked venture of* [[World Liberty Financial]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Donald Trump]] *promotes as chief crypto advocate; launched via X Spaces* [[World Liberty Financial]] (2024-09-16, advisory) · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[DT Marks DEFI LLC]] *Trump-family-owned entity* [[Donald Trump]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[God Bless the USA Bible]] *paid royalties via Greenwood (2024) to* [[Donald Trump]] (2024, $1.31M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Jared Kushner]] *son-in-law of* [[Donald Trump]] (family) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Joe Kernen]] *interviewed on family crypto ventures* [[Donald Trump]] (2026-07-02, media) · [[C01 $TRUMP meme coin|C01]]
+- [[Molly White]] *tracks and criticizes crypto income of* [[Donald Trump]] (media) · [[C01 $TRUMP meme coin|C01]]
+- [[NFT INT LLC]] *paid NFT licensing income (2024) to* [[Donald Trump]] (2024, $1.16M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[US Office of Government Ethics]] *published 113-page Q1 2026 Form 278-T for* [[Donald Trump]] (2026-05-12, regulatory) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Qatari Boeing 747-8 (Air Force One)]] *used as interim Air Force One by* [[Donald Trump]] (2026-06, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Trump 2025 OGE financial disclosure]] *discloses income of* [[Donald Trump]] (2026-06-30, regulatory) · [[C01 $TRUMP meme coin|C01]]
+- [[Trump 47 Committee]] *campaign committee for* [[Donald Trump]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Trump-Vance Inaugural Committee]] *inaugural fund for* [[Donald Trump]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Trump Organization]] *says independent managers trade portfolio of* [[Donald Trump]] (2026-05, advisory) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Trump Sneakers (Never Surrender high-tops)]] *sneaker and fragrance royalties (2024) to* [[Donald Trump]] (2024, $2.5M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Trump Watches]] *paid royalties (2024) to* [[Donald Trump]] (2024, $2.8M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[White House]] *defends ethics arrangements of* [[Donald Trump]] (political) · [[C01 $TRUMP meme coin|C01]]
+- [[White House]] *denies conflicts of interest* [[Donald Trump]] (political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
