@@ -96,10 +96,21 @@ Note on sourcing: direct fetches of warren.senate.gov and bostonglobe.com were b
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (language review only; no fresh searches)
+**Result: upheld** (fresh re-verification with new web searches; replaces the earlier wording-only review)
 
 Checked:
-- Language review of summary and sub-claims for unattributed allegations
+- Trump's disclosure figures ($64.5M total; $56.5M from Meta, ABC and Paramount to the Foundation; $8M from X to Trump) and the lawmakers' 16 Jul 2026 allegation of $6.5M-$14.5M missing plus $7M unexplained
+- IRS exemption: application 10 Oct 2025, determination letter about 10 days later during the shutdown
+- Federal emoluments suit Sistrunk Seeds v. Trump (S.D. Fla. 1:26-cv-23365): status as of Nov 2026
+- State Sunshine Law suit dismissed 18 Dec 2025
 
 Changes:
-- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the 'unaccounted for' amount is presented as the lawmakers' allegation, and the 747 transfer as a stated plan. No changes.
+- Fresh searches (Warren/Stansbury releases and the July letter PDF, CPA Practice Advisor/WLRN reprints of the Miami Herald, CAC case page, Justia docket, Law&Crime, WLRN, Law360) confirmed every checked assertion. No final ruling in the federal case was found; Judge Ruiz signalled he may dismiss on immunity grounds, and CAC filed its opposition to the motions to dismiss on 15 Sep 2026. No Foundation response to the lawmakers was found.
+- Added to the JSON sub-claim a detail already in the .md that strengthens the 'special treatment' context: the IRS announced the day after approval that it would stop processing exemption applications during the shutdown. Still no evidence of political intervention. No other changes.
+- Replaces the earlier wording-only audit (no fresh searches).
+
+New sources:
+- Office of Sen. Elizabeth Warren, "Warren letter to Trump Library Foundation re financial disclosures", 2026-07-16. https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf
+- CPA Practice Advisor (Miami Herald), "Trump's Library Foundation Got Special Treatment From the IRS During the Government Shutdown", 2025-11-20. https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/
+- Constitutional Accountability Center, "Sistrunk Seeds v. Trump", 2026. https://www.theusconstitution.org/litigation/sistrunk-seeds-v-trump/
+- WLRN, "Judge dismisses complaint against Miami land transfer for Trump's presidential library", 2025-12-19. https://www.wlrn.org/government-politics/2025-12-19/judge-dismisses-complaint-against-miami-land-transfer-for-trumps-presidential-library

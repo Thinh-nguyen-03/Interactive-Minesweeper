@@ -719,7 +719,7 @@
     "result": "upheld",
     "changes": [
       "Fresh searches (Warren/Stansbury releases and the July letter PDF, CPA Practice Advisor/WLRN reprints of the Miami Herald, CAC case page, Justia docket, Law&Crime, WLRN, Law360) confirmed every checked assertion. No final ruling in the federal case was found; Judge Ruiz signalled he may dismiss on immunity grounds, and CAC filed its opposition to the motions to dismiss on 15 Sep 2026. No Foundation response to the lawmakers was found.",
-      "Added a detail that strengthens the 'special treatment' context: the IRS announced the day after approval that it would stop processing exemption applications during the shutdown. Still no evidence of political intervention. Updated .md.",
+      "Added to the JSON sub-claim a detail already in the .md that strengthens the 'special treatment' context: the IRS announced the day after approval that it would stop processing exemption applications during the shutdown. Still no evidence of political intervention. No other changes.",
       "Replaces the earlier wording-only audit (no fresh searches)."
     ],
     "new_sources": [

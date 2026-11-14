@@ -134,12 +134,25 @@ No primary Vanity Fair, book, WSJ or complaint text was read. Quotations are giv
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (language review only; no fresh searches)
+**Result: upheld** (fresh re-verification with new web searches; replaces the earlier wording-only review)
 
 Checked:
-- Every account/money claim (FAB 'Alpha' ~$750M, Azerbaijan routing, Bank of Israel 'Beta' ~$1B, ~$2B total) is labelled as an allegation from Cole's book
-- Gabbard complaint: existence presented as fact, contents as unverified
-- Entity and relationship labels on named people and institutions
+- Whether any lawsuit, retraction, takedown, or Vanity Fair/Simon & Schuster response followed Kushner's 23 Oct 2026 Mizelle notice
+- Whether any outlet or official has independently corroborated the 'Alpha' FAB account, the Azerbaijan routing or the 'Beta' Bank of Israel account
+- Whether Netanyahu's office, the Bank of Israel, FAB or the UAE have responded
+- Gabbard whistleblower complaint: IG handling and dispute over transmittal to Congress
 
 Changes:
-- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Verdict 'unverified' upheld. Hedged four entity descriptions (First Abu Dhabi Bank, NSA, UAE, Saudi Arabia, MBZ) and two relationship labels (NSA intercept, Jerusalem Post pull) that read as fact rather than as single-source or reported claims. Made the same fix in the .md summary for the 'NSA-held intercept' phrasing. No factual claims re-verified.
+- Fresh searches (Newsweek, TheWrap, Mediaite, The Hill, Political Wire, i24, Ynet, Jerusalem Post opinion, CBS, Mediaite, Washington Examiner, Algemeiner) found no lawsuit filed, no retraction or takedown, and no independent corroboration of any account claim through mid-Nov 2026. Still no response from Netanyahu's office, the Bank of Israel, FAB or the UAE; reports note the Bank of Israel does not open private accounts. Verdict 'unverified' and all single-source attributions upheld.
+- Could not independently re-confirm the Jerusalem Post's removal of its news write-up (search surfaced only the JPost opinion column); it remains attributed to Mediaite as before.
+- Gabbard complaint: IG Christopher Fox says it was 'administratively closed' in June 2025; Sen. Warner disputes this, citing an earlier 'urgency' ruling. Consistent with the file.
+- Softened the release date: listings give 25, 26 or 27 Oct 2026. Added DOJ leak-subpoena context on Cole to denials_and_context, clearly labelled as context and not corroboration. Updated .md.
+- Replaces the earlier wording-only audit (no fresh searches).
+
+New sources:
+- Newsweek, "Jared Kushner's lawyer puts Vanity Fair on notice over false claims", 2026-10-24. https://newsweek.com/jared-kushners-lawyer-puts-vanity-fair-on-notice-over-false-claims-12614525
+- TheWrap, "Jared Kushner Threatens Legal Action Over Vanity Fair Story Alleging Secret Bank Accounts", 2026-10-23. https://www.thewrap.com/media-platforms/journalism/jared-kushner-vanity-fair-book-legal-threat/
+- i24NEWS, "Netanyahu accused of helping Kushner conceal a billion dollars from the UAE: report", 2026-10. https://www.i24news.tv/en/news/international/artc-netanyahu-accused-of-helping-kushner-conceal-a-billion-dollars-from-the-uae-report
+- Al Jazeera, "New York Times reveals Trump administration subpoena over North Korea story", 2026-08-01. https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story
+- Reporters Committee for Freedom of the Press, "In re subpoena of Matthew Cole: brief in support of application to unseal judicial records", 2026-08-14. https://www.rcfp.org/wp-content/uploads/2026/08/2026-08-14-In-re-subpoena-of-Matthew-Cole-Brief-in-support-of-application-to-unseal-judicial-records.pdf
+- Yahoo News, "Details reveal more about whistleblower complaint against Tulsi Gabbard", 2026-02. https://www.yahoo.com/news/articles/details-reveal-more-whistleblower-complaint-004058219.html

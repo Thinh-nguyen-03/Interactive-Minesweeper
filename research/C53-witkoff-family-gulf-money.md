@@ -15,6 +15,7 @@ Several details need correcting:
 - **Timing of the fund pitch.** QIA says the pitch dates to 2024, before Witkoff became envoy. It was not a 2025 event.
 - **Who did the pitching.** Only the QIA approach is confirmed by the counterparty. The UAE and Kuwait approaches rest on the NYT's unnamed sourcing.
 - **Outcome.** QIA declined and the fund was shelved.
+- **The $100M 'Qatar trust' money.** It was corrected: the lender was Apollo Global Management itself, not its Qatar-part-owned trust.
 - **Timing versus negotiations.** No source shows the family's business influenced any negotiation. The links to the Doha strike, the jet and Iran are timing-based insinuation.
 
 Note on method: direct fetches of ynetnews.com and en.wikipedia.org were blocked in this environment. The findings below rest on search-result excerpts from multiple outlets: Bisnow, The Real Deal, CRE News, Commercial Observer, PincusCo, Gulf Times, The Peninsula, JPost, Yahoo, Washington Examiner, Forbes, AP via regional outlets, and congressional press releases. The NYT article (Sept 26, 2025, by Debra Kamin and Bradley Hope) was read only through secondary coverage.
@@ -37,7 +38,7 @@ Note on method: direct fetches of ynetnews.com and en.wikipedia.org were blocked
 - Reporting dates the QIA pitch to **2024**, before Steve Witkoff took office. It was not a 2025 event.
 - No UAE or Kuwaiti response surfaced, and those approaches are attributed to the NYT alone.
 - Witkoff Group spokeswoman Anna LaPorte called the plans "preliminary" and said they were shelved. The family says talks never went beyond preliminary discussions.
-- The NYT also reported that the Witkoff Group received $100M (as recently as May 2025) from an Apollo-run trust partly owned by Qatar. Apollo says its investors do not direct its investments.
+- The NYT originally reported that the Witkoff Group received $100M (as recently as May 2025) from an Apollo-run trust partly owned by Qatar. **Corrected:** a correction relayed by the Jerusalem Post says the lender on the Belgrove property loan was Apollo Global Management itself, not the subsidiary in which Qatar had invested. The family's lawyer said Athene made the loan, and QIA told the NYT it was not invested in the Brook or Belgrove. Apollo says its investors do not direct its investments. The family threatened the NYT with a defamation suit, and no filed suit was found (see C73).
 
 ### 3. Steve Witkoff sold a stake in his firm for about $120M with no buyer named: confirmed
 - Bloomberg reported on Sept 15–16, 2025, from his financial disclosure, that he sold a stake in the Witkoff Group for $120M. The Real Deal and Bisnow carried the report.
@@ -97,3 +98,25 @@ Note on method: direct fetches of ynetnews.com and en.wikipedia.org were blocked
 21. Semafor, "Trump's Middle East envoy pick Steve Witkoff has long-standing Gulf ties," 2024-11-27. https://www.semafor.com/article/11/27/2024/trumps-middle-east-envoys-gulf-ties
 22. Byline Times, "Trump envoy has financial ties with former adviser to Putin's money man," 2025-12-01. https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/
 23. Accountable.us, research on Witkoff's special government employee status, 2025-09-22. https://accountable.us/2025-09-22-research-on-steve-witkoff-special-government-employee-status
+
+
+## Audit (second-opinion pass, Nov 2026)
+
+**Result: corrected** (independent re-verification with fresh web searches)
+
+Checked:
+- NYT's $100M from an 'Apollo-run trust partly owned by Qatar' into the Witkoff Group
+- QIA's ~$623M Park Lane purchase (Aug 2023) from a Witkoff-Mubadala JV
+- Alex Witkoff's 2024 QIA pitch for a ~$4B credit fund, which QIA declined
+- $120M Witkoff Group stake sale with no buyer named
+
+Changes:
+- Corrected the $100M item in sub-claim 2, the summary, corrections, the Apollo entity, relationships and the lead. A correction relayed by the Jerusalem Post says the Belgrove loan's lender was Apollo Global Management, not the Qatar-invested subsidiary. The family lawyer says Athene made it, and QIA denies investing in the Brook or Belgrove. This reconciles with C73. The Apollo-to-Witkoff Group edge is now 'commercial', not Qatar money.
+- Added the Witkoff family's threatened defamation suit against the NYT and its demand for corrections. No filed suit was found.
+- Park Lane, the QIA pitch (2024, declined, QIA spokeswoman Melanie Dunn) and the $120M sale (Sep 2025 disclosure, no buyer through Nov 2026) re-confirmed via Gulf Times, The Real Deal, Bisnow and Forbes coverage. Verdict and confidence unchanged.
+
+New sources:
+- Yahoo News, "Witkoff family threatens 'NYT' with defamation suit", 2025-10. https://www.yahoo.com/news/articles/witkoff-family-threatens-nyt-defamation-212437336.html
+- Daily Caller, "The Times' reporting on Trump's circle draws accusations of bias", 2025-10-04. https://dailycaller.com/2025/10/04/the-times-reporting-on-trumps-circle-draws-accusations-of-bias
+- The Real Deal, "Steve Witkoff sells stake in real estate firm for $120M", 2025-09-16. https://therealdeal.com/national/2025/09/16/steve-witkoff-sells-stake-in-real-estate-firm-for-120m
+- Gulf Times, "Qatar debunks NYT claims about Witkoff", 2025-09-27. https://www.gulf-times.com/article/711590/qatar/qatar-debunks-nyt-claims-about-witkoff

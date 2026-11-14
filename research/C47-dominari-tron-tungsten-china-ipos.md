@@ -135,10 +135,21 @@ Direct fetches of intellinews.com, foxnews.com and the FT mirror were blocked (D
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (language review only; no fresh searches)
+**Result: upheld** (fresh re-verification with new web searches; replaces the earlier wording-only review)
 
 Checked:
-- Language review of summary and sub-claims for unattributed allegations
+- FINRA's October 2026 $800,000 fine of Revere Securities for AML/supervisory failures on foreign small-cap IPOs, settled without admitting or denying
+- House China Select Committee letters (Moolenaar and Khanna, dated 8 Mar 2026, released 9 Mar) to Dominari, D. Boral and Revere; 11 of 29 Dominari Chinese IPOs since 2020 flagged
+- Skyline Builders / Cove Kaz / Kaz Resources timeline, the FT's report of the sons' SPV stake, and the non-binding EXIM ($900M) and DFC ($700M) letters of interest
+- Sons' Dominari stake and American Ventures; whether any SEC or other enforcement action targets Dominari
 
 Changes:
-- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the sons' Skyline stake is attributed to the FT's anonymous sources, and FINRA's Revere fine is noted as not naming Kyle Wool. The House China committee's actions are described as letters, not findings. No changes.
+- Fresh searches (FINRA release and trade press, committee press release, Bloomberg Law, intellinews, Northern Miner, BusinessWire, Senate Banking letter) confirmed all checked assertions. FINRA counts more than 40 Hong Kong/China issuers among Revere's IPOs since 2022, consistent with the file. No SEC or other enforcement action against Dominari or American Ventures was found.
+- Adjusted the sons' Dominari stake from 'about 12%' to 'roughly 12-13%', noting Reuters' 6.71% each from February 2025 filings. Updated .md.
+- Replaces the earlier wording-only audit (no fresh searches).
+
+New sources:
+- FINRA, "FINRA Fines Revere Securities $800,000 for Small-Cap IPO-Related AML and Supervisory Failures", 2026-10-06. https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and
+- House Select Committee on the CCP (Democrats), "Khanna, Moolenaar investigate US underwriters that helped Chinese businesses rip off American investors", 2026-03-09. https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-moolenaar-investigate-us-underwriters-helped-chinese-businesses-rip
+- The Northern Miner, "Trump sons invested in US group developing $1.1B tungsten project in Kazakhstan: FT", 2026-05. https://www.northernminer.com/news/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/1003890636/
+- Senate Banking Committee, "Letter re Kazakhstan mining", 2026. https://www.banking.senate.gov/imo/media/doc/letter_re_kazakhstan_mining.pdf

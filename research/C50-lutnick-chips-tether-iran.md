@@ -117,10 +117,27 @@ The pitch is documented. A completed trade or profit is not.
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (language review only; no fresh searches)
+**Result: upheld** (independent re-verification with fresh web searches)
 
 Checked:
-- Language review of summary and sub-claims for unattributed allegations
+- Axios (11 Nov 2026): Lutnick stalled Trump-approved curbs on Nvidia-chip diversion, plus the Commerce denial
+- PSI minority 'Tethered to Terrorism' report (28 Sep 2026): 846 wallets, 84% mainly USDT
+- Blumenthal's 8 Oct 2026 letter to Brandon Lutnick: 13 requests, 23 Oct deadline, Tether loan to the children's trust
+- Tether's role in Cantor's $2B bitcoin-lending business (talks only?)
+- Cantor's tariff-refund trades: Wired pitch, Raskin letter, Cantor's denial
 
 Changes:
-- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the Axios Lutnick item is framed as reporting from unnamed sources, and Tether's role in Cantor lending as talks only. No changes.
+- Fresh searches (Axios/Reuters relays, The Block, HSGAC PDFs, Decrypt, Bloomberg relays, NOTUS) confirm all five core findings. Nothing was contradicted, and verdict and confidence are unchanged.
+- Added a wallet breakdown to the Tether-Iran sub-claim: 87% of 757 Israel-designated wallets and 57% of 101 OFAC-designated wallets. This nuance cuts in Tether's favour.
+- Tariff sub-claim: added the earlier Wyden-Warren letter of 14 Aug 2025, and noted that Raskin cites unpublished internal documents claiming about $10M in trades, so the denial is contested.
+- Cantor lending: still no source confirms Tether funding. The first loans (FalconX, Maple) are dated May 2025. The 'talks only' framing is kept.
+- Added to denials: Commerce's denial of the Bessent clash, the FT report (via secondary coverage) of the Megaspeed hold-up, and the Megaspeed and Nvidia statements.
+
+New sources:
+- Magica News, "Commerce Denies Bessent-Lutnick Clash as Megaspeed Blacklist Delay Draws Scrutiny", 2026-11. https://magica.com/news/bessent-lutnick-megaspeed-export-blacklist-dispute
+- GV Wire (Reuters), "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports", 2026-11-11. https://gvwire.com/2026/11/11/lutnick-stalled-trump-crackdown-on-diversion-of-nvidia-chips-to-china-axios-reports/
+- The Block, "Tether's USDT at center of Iran's shadow banking network, new Senate report says", 2026-09-28. https://theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094
+- Senate PSI minority (HSGAC), "Letter from Sen. Blumenthal to Chairman Lutnick (Cantor Fitzgerald)", 2026-10-08. https://www.hsgac.senate.gov/wp-content/uploads/2026-10-08-Letter-from-Sen-Blumenthal-to-Chairman-Lutnick.pdf
+- Decrypt, "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits", 2026-10. https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick
+- Senate Finance Committee (ranking member), "Wyden, Warren probe Lutnick firm's potential conflicts of interest related to massive tariff bets", 2025-08-14. https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets
+- finanzen.net (Bloomberg report), "Maple Finance, FalconX secure Bitcoin-backed loans from Cantor Fitzgerald", 2025-05. https://www.finanzen.net/nachricht/devisen/maple-finance-falconx-secure-bitcoin-backed-loans-from-cantor-fitzgerald-report-14518733

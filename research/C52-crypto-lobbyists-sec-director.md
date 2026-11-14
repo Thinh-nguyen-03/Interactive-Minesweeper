@@ -173,10 +173,24 @@ The Binance lobbying and pardon story is covered in C36. This file builds on tho
 
 ## Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (language review only; no fresh searches)
+**Result: upheld** (independent re-verification with fresh web searches)
 
 Checked:
-- Language review of summary and sub-claims for unattributed allegations
+- Winklevoss twins' ~$10.02M BTC gift to MAGA Inc. on 19 Jun 2026, 23 days after the CFTC-Gemini joint motion
+- Judge Hellerstein's 15 Oct 2026 denial of the vacatur motion
+- Margaret Ryan's 16 Mar 2026 resignation and the Reuters anonymous-source account of clashes over Sun and Musk cases
+- Gemini's retention of Miller Strategies
 
 Changes:
-- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the reason for Ryan's exit is attributed to anonymous Reuters sources and marked unverified, and the quid pro quo is marked unverified. No changes.
+- Fresh searches (The Block, Bloomberg Tax, CryptoSlate, Crypto Briefing, InvestmentNews, Cointelegraph's Reuters relay, Legis1) confirm the dates and amounts. Verdict unchanged.
+- Added the per-twin FEC amounts and the reasoning of Hellerstein's order. Added a press-reported ~$26M cycle total, flagged as unverified.
+- Ryan sub-claim: added the unsigned Sun-settlement detail, the Musk settlement talks and Atkins's public praise. It stays unverified because the account rests on anonymous Reuters sources.
+- Gemini/Miller: still rests on Legis1 and the LDA client record, and the LDA fetch was blocked again.
+
+New sources:
+- The Block, "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement", 2026-10-16. https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775
+- Bloomberg Tax, "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement", 2026-10. https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement
+- CryptoSlate, "Winklevoss twins gave Trump's super PAC $10 million 23 days after CFTC joined Gemini relief bid", 2026-07. https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/
+- Crypto Briefing, "Winklevoss twins put roughly $26 million behind pro-Trump super PAC this cycle", 2026. https://cryptobriefing.com/winklevoss-twins-26-million-maga-inc/
+- Cointelegraph, "SEC top enforcer clashed over Trump cases before quitting: report", 2026-03. https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report
+- InvestmentNews, "SEC enforcement director resigns after just six months in the role", 2026-03-16. https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711
