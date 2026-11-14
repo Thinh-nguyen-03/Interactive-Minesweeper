@@ -2,8 +2,8 @@
 id: "maga-inc"
 kind: "entity"
 type: "fund"
-connections: 14
-claims: 7
+connections: 15
+claims: 8
 tags:
   - "entity"
   - "type/fund"
@@ -15,8 +15,8 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 7 claims |
-| Connections | 14 |
+| Appears in | 8 claims |
+| Connections | 15 |
 
 ## How other claims describe it
 
@@ -33,6 +33,7 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 
 ## Relationships
 

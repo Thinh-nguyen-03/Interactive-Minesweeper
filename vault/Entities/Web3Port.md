@@ -39,9 +39,9 @@ Crypto market maker/fund; $10M WLFI buyer; MOVE market maker offboarded by Binan
 
 ### Ownership (3)
 
-- [[Guren 'Bobby' Zhou]] *led (NYT)* [[Web3Port]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Guren 'Bobby' Zhou]] *led (NYT; single-source)* [[Web3Port]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Web3Port]] *BVI entity renamed Aqua 1 GP Limited (per NYT)* [[Aqua 1 GP Limited]] · 2025-06 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Web3Port]] *BVI entity renamed to* [[Aqua 1 GP Limited]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Web3Port]] *BVI entity renamed to (NYT, from corporate records)* [[Aqua 1 GP Limited]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 
 ### Regulatory (1)
 

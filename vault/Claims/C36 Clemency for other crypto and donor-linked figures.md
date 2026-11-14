@@ -22,7 +22,7 @@ tags:
 
 ## Bottom line
 
-Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwyer plus the operator HDR Global Trading (Mar 27, 2025), and Nikola founder Trevor Milton (Mar 28, 2025), who with his wife gave more than $1.8M in October 2024.
+Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwyer plus the operator HDR Global Trading (Mar 27, 2025), and Nikola founder Trevor Milton (Mar 28, 2025), who with his wife gave more than $1.8M to pro-Trump and allied committees in autumn 2024 (AP; breakdowns vary).
 
 ## What holds up
 
@@ -40,6 +40,7 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
 - Trevor Milton's case was EV securities fraud, not a crypto case.
 - The BitMEX pardon covered four individuals (Hayes, Delo, Reed, Dwyer) and the entity HDR Global Trading.
 - The $450K CZ lobbying fee went to Ches McDowell's Checkmate. Goody Guillén's firm got about $290K.
+- Milton's 'more than $1.8M' is AP's total; one breakdown has ~$920K to the Trump 47 Committee (Oct 2024) and ~$750K to the RFK Jr.-linked MAHA Alliance (Sept 2024), so not all of it went to Trump committees in October.
 
 ## What is unproven
 
@@ -93,13 +94,13 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
 
 **Confirmed**
 
-- Confirmed Mar 28, 2025. Milton and his wife gave more than $1.8M to Trump-aligned committees in Oct 2024.
+- Confirmed Mar 28, 2025. Milton and his wife gave more than $1.8M per AP's reading of FEC records, less than a month before the election; another breakdown of the records has about $920K to the Trump 47 Committee in October 2024 and $750K to the RFK Jr.-linked MAHA Alliance in September, so the share that went directly to Trump committees is uncertain.
 - Trump said Milton was targeted for supporting him.
 - The pardon wiped out about $660-680M in sought restitution, and the SEC later dropped its civil case without explanation.
 - Milton is not a crypto figure.
-- Amounts: more than $1.8M; about $660-680M
-- Dates: Mar 28, 2025; Oct 2024
-- Sources: [6](https://www.washingtontimes.com/news/2025/mar/28/trevor-milton-nikola-founder-trump-donor-gets-presidential-pardon/) [7](https://gizmodo.com/trump-pardoned-him-now-he-wont-have-to-pay-back-660-million-2000661542) [8](https://news.bloomberglaw.com/securities-law/trumps-criminal-pardons-have-sec-enforcers-following-suit)
+- Amounts: more than $1.8M; about $920K; $750K; about $660-680M
+- Dates: Mar 28, 2025; October 2024
+- Sources: [6](https://www.washingtontimes.com/news/2025/mar/28/trevor-milton-nikola-founder-trump-donor-gets-presidential-pardon/) [7](https://gizmodo.com/trump-pardoned-him-now-he-wont-have-to-pay-back-660-million-2000661542) [8](https://news.bloomberglaw.com/securities-law/trumps-criminal-pardons-have-sec-enforcers-following-suit) [6](https://www.washingtontimes.com/news/2025/mar/28/trevor-milton-nikola-founder-trump-donor-gets-presidential-pardon/)
 
 ### 4. Roger Ver received clemency via a settlement or deferred prosecution.
 
@@ -137,8 +138,9 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
 - Donor-linked: Paul Walczak was pardoned Apr 23, 2025, weeks after his mother attended a $1M-per-head MAGA Inc. dinner; whether she paid is unclear.
 - Crypto: Samourai's Keonne Rodriguez ('I'll look at it', Dec 2025) and SBF (applied Jun 2026, Trump says no) were not pardoned as of this search.
 - No other crypto pardon found.
+- Audit re-check (Nov 2026): no crypto-related pardon or commutation in 2026 was found; Rodriguez began a five-year sentence in late Dec 2025.
 - Amounts: $1M
-- Dates: Apr 23, 2025; Dec 2025; Jun 2026
+- Dates: Apr 23, 2025; Dec 2025; Jun 2026; Nov 2026; late Dec 2025
 - Sources: [17](https://www.rollingstone.com/politics/politics-news/trump-pardons-paul-walczak-mother-fundraiser-1235348794/) [18](https://decrypt.co/352452/trump-will-look-at-pardon-samourai-bitcoin-app-dev) [20](https://fortune.com/2026/06/09/sam-bankman-fried-pardon-application-white-house-odds-slim/)
 
 ### 8. Implied: donations or lobbying bought these grants.
@@ -162,6 +164,7 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
   - Fraud prosecutions continued, for example Tornado Cash's Roman Storm in 2025.
 - Many mainstream outlets were blocked for direct fetch.
   - Politico, NYT and WSJ details come from secondary coverage.
+- Zhao claims in his April 2026 memoir that US crypto rivals 'paid millions in lobbying fees to block the pardon'; this is his assertion, not an established finding.
 
 ## People and organisations
 
@@ -245,11 +248,11 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
 - [[Donald Trump]] *pardoned* [[Trevor Milton]] · 2025-03-28 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Donald Trump]] *pardoned* [[Paul Walczak]] · 2025-04-23 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[US Department of Justice (us-doj)]] *deferred prosecution agreement; about $50M paid to IRS* [[Roger Ver]] · 2025-10-14 · $49.9M · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C69 Master timeline money events versus government actions|C69]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Pardon of Changpeng Zhao]] *pardon of* [[Changpeng Zhao]] · 2025-10-23 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Donald Trump]] *said he would 'look at' a pardon* [[Keonne Rodriguez]] · 2025-12-15 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Sam Bankman-Fried]] *applied for a pardon (Trump says no)* [[Donald Trump]] · 2026-06 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Brad Bondi]] *SEC defense counsel for* [[Trevor Milton]] · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Brad Bondi]] *SEC defense counsel for* [[Trevor Milton]] · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 
 ### Commercial (2)
 
@@ -268,7 +271,7 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
   - This tests whether the Blanche memo's 'no regulation by prosecution' line leads to clemency for convicted crypto developers.
   - [[Keonne Rodriguez]] [[US Department of Justice (us-doj)]] [[National Cryptocurrency Enforcement Team]] [[Donald Trump]] · [Source](https://decrypt.co/352452/trump-will-look-at-pardon-samourai-bitcoin-app-dev)
 
-## Sources (20)
+## Sources (23)
 
 1. [Trump signs executive order to pardon Ross Ulbricht](https://www.theblock.co/news/regulation/2025-01-21-donald-trump-ross-ulbricht-335725) (The Block, 2025-01-21)
 2. [Ross Ulbricht, Silk Road founder, gets pardon](https://m.washingtontimes.com/news/2025/jan/21/ross-ulbricht-silk-road-founder-gets-pardon-fulfil/) (Washington Times, 2025-01-21)
@@ -290,6 +293,9 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
 18. [Trump Says He Will 'Look At' Pardon for Samourai Bitcoin App Dev](https://decrypt.co/352452/trump-will-look-at-pardon-samourai-bitcoin-app-dev) (Decrypt, 2025-12-15)
 19. [Sam Bankman-Fried officially files for presidential pardon](https://www.theblock.co/news/business/2026-06-08-ftx-sam-bankman-fried-officially-files-presidential-pardon-trump-404001) (The Block, 2026-06-08)
 20. [Sam Bankman-Fried pardon application, White House odds slim](https://fortune.com/2026/06/09/sam-bankman-fried-pardon-application-white-house-odds-slim/) (Fortune, 2026-06-09)
+21. [Nikola Trump pardon](https://coppercourier.com/news/politics/nikola-trump-pardon/) (The Copper Courier, 2025-03)
+22. [Binance's Changpeng Zhao claims U.S. crypto rivals 'paid millions' to block his pardon](https://www.theblock.co/post/396926/binance-changpeng-zhao-claims-crypto-rivals-paid-millions-block-pardon) (The Block, 2026-04-09)
+23. [Trump to review pardon for Samourai Wallet co-founder Keonne Rodriguez](https://www.theblock.co/post/382630/trump-pardon-samourai-keonne-rodriguez) (The Block, 2025-12-15)
 
 ## Full report
 
@@ -332,7 +338,7 @@ Note: The video does not cover this. Many mainstream outlets (NYT, WSJ, Politico
 3. **Trevor Milton (Nikola), a donor, was pardoned. Confirmed.**
    - The White House confirmed the pardon on Mar 28, 2025.
    - Milton had been convicted in 2022 of securities and wire fraud and sentenced in December 2023 to four years. He was free on appeal.
-   - Donations: FEC records show Milton and his wife gave more than $1.8M to Trump-aligned committees in October 2024, less than a month before the election. Outlets differ on whether the money went to the campaign or to a pro-Trump committee.
+   - Donations: AP, citing FEC records, says Milton and his wife gave more than $1.8M less than a month before the election. Another breakdown of the records has about $920K to the Trump 47 Committee in October 2024 and $750K to the RFK Jr.-linked MAHA Alliance in September, so not all of it went to Trump committees in October (audit qualification). Outlets differ on whether the money went to the campaign or to a pro-Trump committee.
    - Trump said the pardon was "highly recommended by many people". He also said the case against Milton was that "he was one of the first people that supported" Trump. In effect, he called the prosecution political retaliation.
    - Effects of the pardon:
      - It wiped out the restitution prosecutors were seeking, about $660-680M, before any amount was ordered.
@@ -402,3 +408,11 @@ Note: The video does not cover this. Many mainstream outlets (NYT, WSJ, Politico
 18. Decrypt, "Trump Says He Will 'Look At' Pardon for Samourai Bitcoin App Dev", 2025-12-15. https://decrypt.co/352452/trump-will-look-at-pardon-samourai-bitcoin-app-dev
 19. The Block, SBF files presidential pardon application, 2026-06-08. https://www.theblock.co/news/business/2026-06-08-ftx-sam-bankman-fried-officially-files-presidential-pardon-trump-404001
 20. Fortune, SBF pardon odds slim, 2026-06-09. https://fortune.com/2026/06/09/sam-bankman-fried-pardon-application-white-house-odds-slim/
+
+### Audit (second-opinion pass, Nov 2026)
+
+Result: **corrected (minor)**. The verdict and confidence are unchanged.
+
+- **Milton donations:** AP's total of more than $1.8M holds up, but a breakdown of the FEC records splits it into about $920K to the Trump 47 Committee (Oct 2024) and about $750K to the RFK Jr.-linked MAHA Alliance (Sept 2024). The write-up now says the money went to pro-Trump and allied committees rather than "Trump-aligned committees in October". Sources: AP via Washington Times (2025-03-28); Copper Courier.
+- **CZ lobbying:** upheld. Several outlets report Checkmate's $450K for one month of "executive relief" work and the roughly $290K to Goody Guillén. Zhao's April 2026 memoir claims that rivals "paid millions" to block his pardon. That is his own claim, unverified (The Block, 2026-04-09).
+- **Further clemency:** no 2026 crypto pardon or commutation was found. Rodriguez is serving five years (The Block, 2025-12-15).

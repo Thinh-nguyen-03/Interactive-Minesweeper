@@ -22,7 +22,8 @@ tags:
 Several lawyers and firms do recur across the Trump-family ventures, their counterparties and the government, and most individual ties are documented in filings or multiple outlets:
 
 - Teresa Goody Guillen spoke for World Liberty Financial to Congress while registered as a Binance/CZ lobbyist
-- Paul Hastings is simultaneously the Trump sons' SPAC counsel, home of Aryam/G42's WLF board designee Martin Edelman, and home of the AG's brother Brad Bondi
+- Paul Hastings is simultaneously the Trump sons' SPAC counsel, home of Aryam/G42's WLF board designee Martin Edelman, and home of Brad Bondi, brother of then-AG Pam Bondi (who left DOJ on Apr 2, 2026
+- Todd Blanche was acting AG, then Senate-confirmed 50-49 on Aug 8, 2026)
 - Dhillon Law Group produced the White House counsel who signs ethics waivers and (per one source) the registrant of the inaugural committee and the library fund
 - Bondi lobbied for Qatar before signing the jet memo
 - Blanche and Mizelle moved from Trump/Kushner private counsel to top DOJ posts
@@ -49,6 +50,9 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 - Pam Bondi is no longer Attorney General; Todd Blanche became acting AG and then AG in 2026 (C49).
 - Chad Mizelle was DOJ chief of staff from Jan to about Sept 24, 2025; his Kushner/Affinity role predates DOJ and his work as Kushner's personal counsel postdates it.
 - Ballard Partners, not Bondi personally, was paid $115K a month by Qatar.
+- Audit: Goody Guillen's letter for Zhao was dated Oct 28, 2025; the Nov 2, 2025 document is reported as Warren's counsel's reply, not her letter.
+- Audit: Bondi left as AG on Apr 2, 2026; Blanche was acting AG, then confirmed Aug 8, 2026 (50-49).
+- Audit: Brad Bondi represented Milton while at Cahill Gordon; he joined Paul Hastings in Nov 2024.
 
 ## What is unproven
 
@@ -74,11 +78,12 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 - A Senate Banking minority document cites a May 29, 2025 letter from Goody Guillen and fellow BakerHostetler partner Jonathan R. Barr 'on behalf of World Liberty Financial, Inc.' answering Sens. Warren and Merkley's May 14, 2025 questions about MGX's $2B Binance investment being settled in WLF's USD1.
 - In the same period Binance and Zhao had registered her as a lobbyist (Bloomberg Law: registration in late March 2025; disclosures show about $290K paid in 2025, see C36/C49).
-- In Nov 2025 she answered Warren on Zhao's behalf (Nov 2, 2025 BakerHostetler letter re Changpeng Zhao).
+- After the pardon, she wrote to Warren on Zhao's behalf on Oct 28, 2025 demanding a retraction of Warren's post-pardon statements (The Block); the Nov 2, 2025 'Response re Changpeng Zhao' document published by Punchbowl appears, per search coverage, to be the reply from Warren's counsel rejecting that demand (audit correction; the PDF could not be fetched here).
 - So one lawyer spoke for both WLF and Binance/CZ on the deal Congress was asking about, and then on the CZ pardon (Oct 23, 2025).
 - This shows overlapping representation, not that she arranged a quid pro quo; she calls pay-to-play claims false and disputes that WLF is 'Trump's company'.
+- Audit note: Legis1 (single-source) reports she ended the Binance/Zhao representation at BakerHostetler in July 2025 and moved to Bellementis; that conflicts with later coverage still placing her at BakerHostetler and is unresolved.
 - Amounts: $2B; about $290K
-- Dates: May 29, 2025; May 14, 2025; late March 2025; Nov 2025; Nov 2, 2025
+- Dates: May 29, 2025; May 14, 2025; late March 2025; Oct 28, 2025; Nov 2, 2025
 - Sources: [1](https://www.banking.senate.gov/imo/media/doc/warren_merkley_letter_to_mgx_binance_re__wlf_response.pdf) [3](https://news.bloomberglaw.com/business-and-practice/binance-hires-lawyer-who-was-reportedly-considered-for-sec-chair) [2](https://punchbowl.news/wp-content/uploads/2025.11.02_Response_Re_Changpeng_Zhao.pdf) [9](https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington) [4](https://dlnews.com/articles/regulation/cz-lawyer-denies-pay-to-play-arrangement-for-binance-founder/) [5](https://cointelegraph.com/news/cz-lawyer-refutes-pay-to-play-accusation-trump-pardon) [7](https://www.mollywhite.net/micro/entry/202510231129)
 
 ### 2. Goody Guillen was on the Trump transition's shortlist for SEC chair and also took Justin Sun as a client.
@@ -96,11 +101,12 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 **Confirmed**
 
-- Each engagement is documented; the pattern is inferred. (a) New America Acquisition I's S-1 (Aug 4, 2025) lists Paul Hastings as company counsel; the firm called the 'public policy tailwinds' sentence a scrivener's error (C27); the IPO closed Dec 5, 2025 at $345M, Paul Hastings again company counsel. (b) Martin Edelman is Of Counsel at Paul Hastings (Chambers 2026), G42's general counsel and a long-time adviser to the Abu Dhabi ruling family; he and G42 CEO Peng Xiao took Aryam's two WLF board seats after the Jan 2025 $500M/49% deal (C06, C57). (c) Brad Bondi, brother of then-AG Pam Bondi, co-chairs Paul Hastings' investigations/white-collar practice.
+- Each engagement is documented; the pattern is inferred. (a) New America Acquisition I's S-1 (Aug 4, 2025) lists Paul Hastings as company counsel; the firm called the 'public policy tailwinds' sentence a scrivener's error (C27); the IPO closed Dec 5, 2025 at $345M, Paul Hastings again company counsel. (b) Martin Edelman is Of Counsel at Paul Hastings (Chambers 2026), G42's general counsel and a long-time adviser to the Abu Dhabi ruling family; he and G42 CEO Peng Xiao took Aryam's two WLF board seats after the Jan 2025 $500M/49% deal (C06, C57). (c) Brad Bondi, brother of then-AG Pam Bondi, joined Paul Hastings in Nov 2024 from Cahill Gordon & Reindel (Lawdragon, 2024-11-13) and co-chairs Paul Hastings' investigations/white-collar practice.
 - No source connects these engagements to each other.
 - Paul Hastings is a firm of well over a thousand lawyers, so shared employer alone shows nothing about coordination; it is listed because a reader of any one story would not see it.
+- Audit note: Law360 (Aug 4, 2025) says the SPAC filed 'with guidance from Paul Hastings LLP and Holland & Knight LLP', so Paul Hastings was one of two firms on the deal.
 - Amounts: $345M; $500M; 49%
-- Dates: Aug 4, 2025; Dec 5, 2025; Jan 2025
+- Dates: Aug 4, 2025; Dec 5, 2025; Jan 2025; Nov 2024; 2024-11-13
 - Sources: [10](https://www.sec.gov/Archives/edgar/data/2074878/000149315225011551/forms-1.htm) [11](https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/d.-boral-capital-acted-as-co-lead-bookrunner-to-new-america-acquisit-1115436) [12](https://chambers.com/lawyer/martin-l-edelman-usa-5:77218) [13](https://news.bloomberglaw.com/ip-law/abu-dhabis-man-in-manhattan-is-key-to-unlocking-trump-wins) [17](https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931) [20](https://www.investmentnews.com/regulation-legal-compliance/top-securities-attorney-and-pam-bondis-brother-faces-questions-from-democrats-about-doj-cases/265727)
 
 ### 4. Brad Bondi's clients benefited from pardons and DOJ/SEC dismissals while his sister ran DOJ.
@@ -113,8 +119,9 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 - Brad Bondi and Paul Hastings did not comment.
 - No OIG finding was found.
 - Favourable outcomes are not proof of influence.
+- Audit note: Bondi led Milton's 2021-22 criminal defence while a partner at Cahill Gordon & Reindel (Law.com, Business Wire, 2021); he joined Paul Hastings only in Nov 2024, so the Milton engagement predates his Paul Hastings tenure.
 - Amounts: about $1.8M
-- Dates: March 2025; Sept 2025; Mar 11, 2026; Dec 16, 2025
+- Dates: March 2025; Sept 2025; Mar 11, 2026; Dec 16, 2025; 2021-22
 - Sources: [18](https://www.schiff.senate.gov/wp-content/uploads/2026/03/Letter-from-Sen.-Schiff-and-Rep.-Min-to-DOJ-OIG-on-Brad-Bondi.pdf) [19](https://news.bloomberglaw.com/in-house-counsel/democrats-seek-doj-probe-into-any-bondi-role-in-brothers-cases) [20](https://www.investmentnews.com/regulation-legal-compliance/top-securities-attorney-and-pam-bondis-brother-faces-questions-from-democrats-about-doj-cases/265727) [21](https://www.bloomberg.com/news/articles/2025-09-11/sec-moves-to-dismiss-case-against-former-nikola-ceo-milton) [22](https://gizmodo.com/trump-pardoned-him-now-he-wont-have-to-pay-back-660-million-2000661542)
 
 ### 5. Martin Edelman links the Aryam/WLF deal to Steve Witkoff personally and to the administration's Gaza structure.
@@ -181,8 +188,10 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 - The memo has not been released; American Oversight sued for it on behalf of the Freedom of the Press Foundation (July 2025).
 - Ballard, where Susie Wiles also worked, later signed Kraken and Blockchain.com (C52).
 - The record shows a prior paid relationship and a later official decision; it does not show the decision was wrong.
+- Audit note: per ABC News sources (relayed by Yahoo/CNN; anonymous, so single-source on this point), the memo was addressed to White House counsel David Warrington's office at his request, so the Qatar-jet clearance ran between the ex-Qatar lobbyist AG and the ex-Dhillon partner (item above).
+- Bondi left office on Apr 2, 2026.
 - Amounts: $115K
-- Dates: July 2025
+- Dates: July 2025; Apr 2, 2026
 - Sources: [37](https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html) [38](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest) [39](https://www.yahoo.com/news/doj-lawyers-cleared-pam-bondi-164935036.html) [40](https://americanoversight.org/doj-sued-for-withholding-legal-memo-on-trump-administrations-400-million-jet-gifted-by-qatar/) [41](https://www.citizensforethics.org/reports-investigations/foia-requests/crew-requests-doj-memo-on-qatar-jet-gift-and-bondi-ethics-guidance/) [51](https://news.bloomberglaw.com/business-and-practice/trump-aligned-ballard-takes-over-as-revenue-leader-on-k-street)
 
 ### 10. Todd Blanche went from Trump's criminal defence lawyer to the DOJ official who dismantled crypto enforcement while holding crypto.
@@ -195,10 +204,10 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 - 208 violation; six Democratic senators pressed him.
 - CNN reported he was advised in March 2025 to recuse from Trump matters.
 - DOJ says actions were 'appropriately flagged, addressed and cleared in advance'.
-- He is now Attorney General (C49).
+- He became acting Attorney General when Trump announced Bondi's departure on Apr 2, 2026, and was confirmed by the Senate 50-49 on Aug 8, 2026, with Republicans Collins and Murkowski voting no (Axios, NOTUS) (C49).
 - When he and Emil Bove went to DOJ, Trump replaced them on the hush-money appeal with Sullivan & Cromwell (Robert Giuffra), which Trump's PAC also paid.
 - Amounts: about $158K-$470K
-- Dates: Apr 7, 2025; Jan 2026; March 2025
+- Dates: Apr 7, 2025; Jan 2026; March 2025; Apr 2, 2026; Aug 8, 2026
 - Sources: [42](https://www.propublica.org/article/todd-blanche-crypto-conflict-senator-letter) [43](https://campaignlegal.org/update/clc-complaint-calls-investigation-crypto-conflict-doj) [44](https://www.theblock.co/news/regulation/2026-01-29-blanche-crypto-conflicts-of-interest-387554) [45](https://www.nbcpalmsprings.com/2026/05/14/acting-attorney-general-todd-blanche-advised-to-recuse-from-trump-matters-last-year) [46](https://news.bgov.com/payroll/trump-hires-sullivan-cromwell-to-fight-hush-money-conviction) [33](https://news.bgov.com/business-and-practice/trump-pac-paid-dla-piper-sullivan-cromwell-fec-filings-show)
 
 ### 11. Chad Mizelle moved from Kushner's Affinity Partners to DOJ chief of staff and back to representing Kushner.
@@ -207,9 +216,9 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 - Bloomberg (Jan 2022) reported Affinity hired Mizelle, a former associate counsel to the president; Florida Bulldog and others describe him as Affinity's chief legal officer before he became DOJ chief of staff under Bondi in Jan 2025.
 - He left DOJ around Sept 24, 2025 (Axios, Bloomberg Law).
-- By Oct 2026 he was Kushner's lawyer, calling CREW's suit over Kushner's envoy role 'without merit' (C15) and threatening Conde Nast over the Cole book excerpt (C37, C46).
+- By Oct 2026 he was Kushner's lawyer, calling CREW's Oct 14, 2026 suit (D.D.C. 26-cv-3580) over Kushner's envoy role 'without merit' (C15) and threatening Conde Nast over the Cole book excerpt (C37, C46).
 - No source alleges he handled any Kushner- or Affinity-related matter at DOJ; the revolving door itself is the documented point.
-- Dates: Jan 2022; Jan 2025; Sept 24, 2025; Oct 2026
+- Dates: Jan 2022; Jan 2025; Sept 24, 2025; Oct 2026; Oct 14, 2026
 - Sources: [47](https://www.bnnbloomberg.ca/kushner-s-buyout-firm-hires-former-trump-administration-staffers-1.1710241) [48](https://floridabulldog.org/2024/07/all-the-ex-presidents-men-at-jared-kushners-affinity-partners) [49](https://www.axios.com/2025/09/23/chad-mizelle-to-leave-as-doj-chief-of-staff) [50](https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog)
 
 ### 12. Clare Locke and Sullivan & Cromwell recur across the deals.
@@ -292,7 +301,7 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 - [[ABC News]] *wired settlement to firm trust account of* [[Alejandro Brito]] · 2024-12-19 · $15M · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Save America PAC]] *paid legal consulting fees to* [[Alejandro Brito]] · 2025 · $300K · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Save America PAC]] *paid legal fees to* [[Sullivan & Cromwell]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Aryam Investment 1]] *bought 49% for* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Aryam Investment 1]] *bought 49% for (WSJ, anonymous sources)* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Save America PAC]] *paid legal fees to* [[Dhillon Law Group]] · [[C61 Shared lawyers and law firms across the deals|C61]]
 
 ### Ownership (8)
@@ -325,7 +334,7 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 - [[Teresa Goody Guillén]] *considered for chair by Trump transition* [[Securities and Exchange Commission]] · 2024-11 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Harmeet Dhillon]] *Assistant AG for Civil Rights at* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Todd Blanche]] *Deputy AG, then Attorney General of* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Todd Blanche]] *Deputy AG, acting AG (Apr 2026), then confirmed Attorney General (Aug 8, 2026) of* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Chad Mizelle]] *chief of staff to* [[Pam Bondi]] · 2025-01 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Chad Mizelle]] *chief of staff at* [[US Department of Justice (us-doj)]] · 2025-01 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[David Warrington]] *White House counsel to* [[Donald Trump]] · 2025-01 · [[C61 Shared lawyers and law firms across the deals|C61]]
@@ -392,7 +401,7 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 ## Sources (51)
 
 1. [Senate Banking minority document citing BakerHostetler (Goody Guillen, Barr) letter on behalf of World Liberty Financial to Sens. Warren and Merkley, May 29, 2025](https://www.banking.senate.gov/imo/media/doc/warren_merkley_letter_to_mgx_binance_re__wlf_response.pdf) (U.S. Senate Banking Committee (minority), 2025-05-29)
-2. [Response re Changpeng Zhao (BakerHostetler), Nov 2, 2025](https://punchbowl.news/wp-content/uploads/2025.11.02_Response_Re_Changpeng_Zhao.pdf) (Punchbowl News (document), 2025-11-02)
+2. [Response re Changpeng Zhao, Nov 2, 2025 (reported as the reply from Warren's counsel to Goody Guillen's Oct 28 letter)](https://punchbowl.news/wp-content/uploads/2025.11.02_Response_Re_Changpeng_Zhao.pdf) (Punchbowl News (document), 2025-11-02)
 3. [Binance Hires Lawyer Who Was Reportedly Considered for SEC Chair](https://news.bloomberglaw.com/business-and-practice/binance-hires-lawyer-who-was-reportedly-considered-for-sec-chair) (Bloomberg Law, 2025)
 4. [CZ lawyer denies pay-to-play arrangement for Binance founder](https://dlnews.com/articles/regulation/cz-lawyer-denies-pay-to-play-arrangement-for-binance-founder/) (DL News, 2025-10)
 5. [CZ lawyer refutes pay-to-play accusation over Trump pardon](https://cointelegraph.com/news/cz-lawyer-refutes-pay-to-play-accusation-trump-pardon) (Cointelegraph, 2025-10)
@@ -467,7 +476,7 @@ This was a connection hunt for lawyers and firms that recur across the deals. Th
 #### 1. Goody Guillén: one lawyer for WLF and for Binance/CZ. Grade: documented
 - **WLF letter (May 29, 2025).** Teresa Goody Guillén and Jonathan R. Barr of BakerHostetler wrote "on behalf of World Liberty Financial, Inc." to Sens. Warren and Merkley. They were answering the senators' May 14 questions about MGX's $2B Binance investment being settled in USD1 [1].
 - **Binance/CZ lobbying.** Binance and Zhao had already registered her as a lobbyist, in late March 2025 per Bloomberg Law [3]. They paid her about $290K in 2025 (C36, C49).
-- **CZ letter (Nov 2, 2025).** She answered Warren on Zhao's behalf [2]. This came after the Oct 23 pardon.
+- **CZ letter (Oct 28, 2025).** She wrote to Warren on Zhao's behalf demanding a retraction of Warren's post-pardon remarks (The Block). This came after the Oct 23 pardon. The Nov 2, 2025 document [2] is reported to be the reply from Warren's counsel, not her letter (audit correction).
 - **Earlier ties.** The Trump transition considered her for SEC chair (CoinDesk, Nov 2024). She was an SEC Office of General Counsel attorney from 2009 to 2011 [7].
 - **Justin Sun.** Molly White reported in Sept 2025 that Sun hired her for his suit against Bloomberg [6]. This is single-source.
 - **What it shows:** the same lawyer spoke to Congress for both sides of the MGX/Binance/USD1 arrangement, and then pursued CZ's pardon.
@@ -476,7 +485,7 @@ This was a connection hunt for lawyers and firms that recur across the deals. Th
 #### 2. Paul Hastings: three tracks at one firm. Grade: each tie documented; the pattern is inferred
 - **SPAC counsel.** Paul Hastings was issuer's counsel on the S-1 for New America Acquisition I, the Trump sons' SPAC (Aug 4, 2025). It was again issuer's counsel on the $345M IPO (Dec 5, 2025) [8][9]. The firm called the "public policy tailwinds" line a scrivener's error (C27).
 - **Martin Edelman** is Of Counsel there [10]. He is also G42's general counsel and an adviser to Abu Dhabi's rulers. He took one of Aryam's two WLF board seats after the $500M deal for 49% in Jan 2025 [11][13] (C06, C57).
-- **Brad Bondi**, the then-AG's brother, co-chairs the firm's white-collar practice [16].
+- **Brad Bondi**, the then-AG's brother, co-chairs the firm's white-collar practice [16]. He joined Paul Hastings from Cahill Gordon in Nov 2024 (Lawdragon), so his Milton defence (2021-22) was a Cahill engagement.
 - No source links these engagements. The firm has well over a thousand lawyers.
 
 #### 3. Brad Bondi's clients and his sister's DOJ. Grade: facts documented; influence alleged and denied
@@ -548,7 +557,7 @@ These are our own cross-references. No source asserts them.
 ### Corrections
 - The SPAC counsel role and Edelman are unrelated engagements at Paul Hastings.
 - The CBS/Paramount $16M case was handled by Edward Paltzik, not Brito.
-- Bondi is no longer AG; Blanche succeeded her in 2026.
+- Bondi is no longer AG. Trump announced her departure on Apr 2, 2026; Todd Blanche was acting AG from then and was confirmed by the Senate 50-49 on Aug 8, 2026.
 - Qatar paid Ballard, not Bondi personally, $115K a month.
 - Mizelle's Kushner roles came before and after his DOJ stint, not during it.
 
@@ -610,3 +619,18 @@ These are our own cross-references. No source asserts them.
 47. Florida Bulldog, Affinity's ex-officials, 2024-07. https://floridabulldog.org/2024/07/all-the-ex-presidents-men-at-jared-kushners-affinity-partners
 48. Axios, Mizelle to leave DOJ, 2025-09-23. https://www.axios.com/2025/09/23/chad-mizelle-to-leave-as-doj-chief-of-staff
 49. Bloomberg Law, CREW sues over Kushner, 2026-10. https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog
+
+### Audit (second-opinion pass, Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged).
+
+Re-checked: Goody Guillen's WLF letter and Binance/CZ lobbying registration; Paul Hastings on the NAA I filing; Martin Edelman's G42, Paul Hastings and WLF board roles; Brad Bondi's firm history; the Qatar-jet memo; the current Attorney General; Mizelle as Kushner's counsel.
+
+- **Goody Guillen.** Her letter for Zhao was dated Oct 28, 2025 (The Block). The Nov 2 document is reported as Warren's counsel's reply. Legis1 says, from a single source, that she left the Binance engagement in July 2025 for Bellementis. Later coverage contradicts this, and it remains unresolved. The dual WLF and Binance/CZ representation is upheld (LDA filing, Bloomberg Law, Senate Banking document).
+- **Attorney General.** Pam Bondi left on Apr 2, 2026. Todd Blanche was acting AG, then confirmed 50-49 on Aug 8, 2026, with Collins and Murkowski voting no (AP, Axios, NOTUS).
+- **Brad Bondi.** He joined Paul Hastings in Nov 2024. He represented Milton while at Cahill Gordon (Business Wire, 2021).
+- **Paul Hastings and NAA I.** Law360 says the filing had "guidance from Paul Hastings LLP and Holland & Knight LLP".
+- **Jet memo.** Per anonymous ABC sources, it was addressed to White House counsel David Warrington's office at his request (single-source on this point). That links item 8 to the Dhillon item.
+- **Mizelle.** Upheld: Kushner's counsel in CREW's Oct 14, 2026 suit (D.D.C. 26-cv-3580).
+
+New sources: AP/National Newswatch 2026-04-02; Axios 2026-08-08; NOTUS 2026-08-08; The Block (CZ retraction letter); Lawdragon 2024-11-13; Business Wire 2021-07-29; Law360 2025-08-04; Senate Banking minority staff report; Yahoo/CNN (jet memo); AP/ClickOnDetroit 2026-10-14. URLs are in the JSON `audit.new_sources`.

@@ -1,0 +1,4038 @@
+[
+ {
+  "date": "2017-01",
+  "kind": "money",
+  "title": "Jay Weitzman donated $25,000 to 2017 inauguration Donald Trump",
+  "parties": [
+   "jay-weitzman",
+   "donald-trump"
+  ],
+  "amount_usd": 25000,
+  "claims": [
+   "C66"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2018-09",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission charged over pump-and-dump (2018; settled 2019) Barry Honig",
+  "parties": [
+   "sec",
+   "barry-honig"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C39"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2018-10-29",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission fraud case dismissed with prejudice Yorkville Advisors",
+  "parties": [
+   "sec",
+   "yorkville-advisors"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2020-02",
+  "kind": "official",
+  "title": "Donald Trump pardoned Bernard Kerik",
+  "parties": [
+   "donald-trump",
+   "bernard-kerik"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C73"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2020-12-23",
+  "kind": "official",
+  "title": "Donald Trump pardoned Charles Kushner",
+  "parties": [
+   "donald-trump",
+   "charles-kushner"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C66"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2021-07",
+  "kind": "money",
+  "title": "Public Investment Fund (Saudi Arabia) committed $2B to (largest investor) Affinity Partners",
+  "parties": [
+   "saudi-pif",
+   "affinity-partners"
+  ],
+  "amount_usd": 2000000000,
+  "claims": [
+   "C15",
+   "C37"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-06",
+  "kind": "money",
+  "title": "Cameron Winklevoss gave ~$1M in BTC (excess refunded) Trump 47 Committee",
+  "parties": [
+   "cameron-winklevoss",
+   "trump-47-committee"
+  ],
+  "amount_usd": 1000000,
+  "claims": [
+   "C23"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-06",
+  "kind": "money",
+  "title": "Tyler Winklevoss gave ~$1M in BTC (excess refunded) Trump 47 Committee",
+  "parties": [
+   "tyler-winklevoss",
+   "trump-47-committee"
+  ],
+  "amount_usd": 1000000,
+  "claims": [
+   "C23"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-07",
+  "kind": "money",
+  "title": "Yorkville Advisors equity-line buyer, placement agent, ETF adviser Trump Media & Technology Group",
+  "parties": [
+   "yorkville-advisors",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C78"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-10",
+  "kind": "money",
+  "title": "Trevor Milton donated (with wife) to Trump-aligned committees Donald Trump",
+  "parties": [
+   "trevor-milton",
+   "donald-trump"
+  ],
+  "amount_usd": 1800000,
+  "claims": [
+   "C36",
+   "C49"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-10",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission sued as unregistered dealer Cumberland DRW",
+  "parties": [
+   "sec",
+   "cumberland-drw"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C19"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-11",
+  "kind": "money",
+  "title": "Justin Sun bought $75M of WLFI tokens from World Liberty Financial",
+  "parties": [
+   "justin-sun",
+   "world-liberty-financial"
+  ],
+  "amount_usd": 75000000,
+  "claims": [
+   "C06",
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-11",
+  "kind": "official",
+  "title": "US Department of Defense Air Force SBIR award (~$1.8M), start 2024-11-07 Boardwalk Robotics",
+  "parties": [
+   "pentagon",
+   "boardwalk-robotics"
+  ],
+  "amount_usd": 1800000,
+  "claims": [
+   "C28"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-11",
+  "kind": "official",
+  "title": "Donald Trump nominated as Commerce Secretary Howard Lutnick",
+  "parties": [
+   "donald-trump",
+   "howard-lutnick"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C35"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-11-25",
+  "kind": "money",
+  "title": "Justin Sun bought $30M of WLFI token",
+  "parties": [
+   "justin-sun",
+   "wlfi-token",
+   "world-liberty-financial"
+  ],
+  "amount_usd": 30000000,
+  "claims": [
+   "C04",
+   "C05"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-11-25",
+  "kind": "money",
+  "title": "HTX (formerly Huobi) on-chain buyer of $30M of WLFI token",
+  "parties": [
+   "htx",
+   "wlfi-token"
+  ],
+  "amount_usd": 30000000,
+  "claims": [
+   "C05"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-11-30",
+  "kind": "official",
+  "title": "Donald Trump nominated ambassador to France Charles Kushner",
+  "parties": [
+   "donald-trump",
+   "charles-kushner"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C66"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12",
+  "kind": "money",
+  "title": "Qatar Investment Authority invested (with Lunate, about $1.5B combined) in Affinity Partners",
+  "parties": [
+   "qatar-investment-authority",
+   "affinity-partners"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C15",
+   "C73"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12",
+  "kind": "money",
+  "title": "Lunate invested (with QIA, about $1.5B combined) in Affinity Partners",
+  "parties": [
+   "lunate",
+   "affinity-partners"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C15",
+   "C73"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12",
+  "kind": "money",
+  "title": "Kraken (Payward) donated $1M to Trump 2025 inaugural committee",
+  "parties": [
+   "kraken",
+   "trump-inaugural-committee"
+  ],
+  "amount_usd": 1000000,
+  "claims": [
+   "C23"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12",
+  "kind": "money",
+  "title": "Ripple donated ~$4.9-5M in XRP to Trump 2025 inaugural committee",
+  "parties": [
+   "ripple",
+   "trump-inaugural-committee"
+  ],
+  "amount_usd": 4900000,
+  "claims": [
+   "C23"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12",
+  "kind": "money",
+  "title": "The Walt Disney Company bid ~$14M (WSJ, unconfirmed) Melania (2026 film)",
+  "parties": [
+   "disney",
+   "melania-documentary"
+  ],
+  "amount_usd": 14000000,
+  "claims": [
+   "C44"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2024-12",
+  "kind": "money",
+  "title": "Paramount Global bid ~$4M (WSJ, unconfirmed) Melania (2026 film)",
+  "parties": [
+   "paramount",
+   "melania-documentary"
+  ],
+  "amount_usd": 4000000,
+  "claims": [
+   "C44"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2024-12",
+  "kind": "money",
+  "title": "Amazon donated $1M Trump 2025 inaugural committee",
+  "parties": [
+   "amazon",
+   "trump-inaugural-committee"
+  ],
+  "amount_usd": 1000000,
+  "claims": [
+   "C44"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12",
+  "kind": "money",
+  "title": "ABC News (Disney) settlement paid to (per 2025 disclosure) Trump Presidential Library Foundation",
+  "parties": [
+   "abc-news",
+   "trump-presidential-library-foundation"
+  ],
+  "amount_usd": 15000000,
+  "claims": [
+   "C48"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2024-12",
+  "kind": "money",
+  "title": "Sam Altman inaugural fund donation Donald Trump",
+  "parties": [
+   "sam-altman",
+   "donald-trump"
+  ],
+  "amount_usd": 1000000,
+  "claims": [
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12",
+  "kind": "official",
+  "title": "Donald Trump named SEC Chair Paul Atkins",
+  "parties": [
+   "donald-trump",
+   "paul-atkins"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C22"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12",
+  "kind": "official",
+  "title": "Donald Trump appointed AI and crypto czar David Sacks",
+  "parties": [
+   "donald-trump",
+   "david-sacks"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C34"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12-14",
+  "kind": "money",
+  "title": "ABC News (Disney) agreed to pay $15M (held in escrow) to settle defamation suit Original Trump presidential library fund (Florida, Dec 2024)",
+  "parties": [
+   "abc-news",
+   "trump-presidential-library-fund"
+  ],
+  "amount_usd": 15000000,
+  "claims": [
+   "C33"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12-14",
+  "kind": "official",
+  "title": "Donald Trump named chair of PIAB Devin Nunes",
+  "parties": [
+   "donald-trump",
+   "devin-nunes"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C41"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12-20",
+  "kind": "money",
+  "title": "Lunate invested (with QIA) $1.5B in Affinity Partners",
+  "parties": [
+   "lunate",
+   "affinity-partners"
+  ],
+  "amount_usd": 1500000000,
+  "claims": [
+   "C57",
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12-20",
+  "kind": "money",
+  "title": "Qatar Investment Authority invested (with Lunate) in Affinity Partners",
+  "parties": [
+   "qatar-investment-authority",
+   "affinity-partners"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C57"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2024-12-20",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission $123M settlement (pre-term) Tai Mo Shan",
+  "parties": [
+   "sec",
+   "tai-mo-shan"
+  ],
+  "amount_usd": 123000000,
+  "claims": [
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01",
+  "kind": "money",
+  "title": "Aryam Investment 1 upfront payment of about $187M to Trump-family entities Donald Trump",
+  "parties": [
+   "aryam-investment-1",
+   "donald-trump",
+   "dt-marks-defi-llc",
+   "world-liberty-financial"
+  ],
+  "amount_usd": 187000000,
+  "claims": [
+   "C06",
+   "C07",
+   "C14",
+   "C42",
+   "C63"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01",
+  "kind": "money",
+  "title": "Coinbase donated $1M to Trump 2025 inaugural committee",
+  "parties": [
+   "coinbase",
+   "trump-inaugural-committee"
+  ],
+  "amount_usd": 1000000,
+  "claims": [
+   "C23"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01",
+  "kind": "money",
+  "title": "Crypto.com donated $1M to Trump 2025 inaugural committee",
+  "parties": [
+   "crypto-com",
+   "trump-inaugural-committee"
+  ],
+  "amount_usd": 1000000,
+  "claims": [
+   "C23"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01",
+  "kind": "money",
+  "title": "Tahnoon bin Zayed Al Nahyan linked entity bought 49% stake (see C06/C08) World Liberty Financial",
+  "parties": [
+   "tahnoon-bin-zayed",
+   "world-liberty-financial"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C34"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01",
+  "kind": "money",
+  "title": "Robinhood Markets donated $2M to Trump 2025 inaugural committee",
+  "parties": [
+   "robinhood",
+   "trump-inaugural-committee"
+  ],
+  "amount_usd": 2000000,
+  "claims": [
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01",
+  "kind": "money",
+  "title": "Amazon MGM Studios paid ~$40M to license (reported) Melania (2026 film)",
+  "parties": [
+   "amazon-mgm-studios",
+   "melania-documentary"
+  ],
+  "amount_usd": 40000000,
+  "claims": [
+   "C44"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2025-01",
+  "kind": "money",
+  "title": "Mohamed Alabbar reported partner in Trump Tower Belgrade (General Staff site)",
+  "parties": [
+   "mohamed-alabbar",
+   "trump-tower-belgrade"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C45"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2025-01",
+  "kind": "money",
+  "title": "Justin Sun invested $75M in World Liberty Financial",
+  "parties": [
+   "justin-sun",
+   "world-liberty-financial"
+  ],
+  "amount_usd": 75000000,
+  "claims": [
+   "C47"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01",
+  "kind": "money",
+  "title": "Steve Witkoff co-founder; family entities paid from Aryam deal World Liberty Financial",
+  "parties": [
+   "steve-witkoff",
+   "world-liberty-financial"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C57"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01",
+  "kind": "money",
+  "title": "Web3Port bought WLFI ($10M announced; ~$20M traced on-chain) World Liberty Financial",
+  "parties": [
+   "web3port",
+   "world-liberty-financial"
+  ],
+  "amount_usd": 20000000,
+  "claims": [
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01",
+  "kind": "official",
+  "title": "Donald Trump appointed special envoy Steve Witkoff",
+  "parties": [
+   "donald-trump",
+   "steve-witkoff"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C76"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01-16",
+  "kind": "money",
+  "title": "Aryam Investment 1 agreed to pay $500M for 49% of World Liberty Financial",
+  "parties": [
+   "aryam-investment-1",
+   "world-liberty-financial"
+  ],
+  "amount_usd": 500000000,
+  "claims": [
+   "C57",
+   "C61",
+   "C63",
+   "C67",
+   "C70"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01-20",
+  "kind": "money",
+  "title": "Tron added $45M WLFI purchase (total $75M) World Liberty Financial",
+  "parties": [
+   "tron",
+   "world-liberty-financial"
+  ],
+  "amount_usd": 45000000,
+  "claims": [
+   "C05"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01-20",
+  "kind": "money",
+  "title": "Justin Sun bought $45M tranche (up to ~$33.75M to DT Marks, inferred) WLFI token",
+  "parties": [
+   "justin-sun",
+   "wlfi-token"
+  ],
+  "amount_usd": 45000000,
+  "claims": [
+   "C71"
+  ],
+  "grade": "inferred"
+ },
+ {
+  "date": "2025-01-21",
+  "kind": "official",
+  "title": "Donald Trump pardoned Ross Ulbricht",
+  "parties": [
+   "donald-trump",
+   "ross-ulbricht"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C36"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01-27",
+  "kind": "money",
+  "title": "Web3Port announced purchase of 200M WLFI WLFI token",
+  "parties": [
+   "web3port",
+   "wlfi-token",
+   "world-liberty-financial"
+  ],
+  "amount_usd": 10000000,
+  "claims": [
+   "C71"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-01-29",
+  "kind": "money",
+  "title": "Meta Platforms settled suspension suit for $25M (~$22M to library) Original Trump presidential library fund (Florida, Dec 2024)",
+  "parties": [
+   "donald-trump",
+   "meta",
+   "trump-presidential-library-fund"
+  ],
+  "amount_usd": 22000000,
+  "claims": [
+   "C33",
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-02",
+  "kind": "money",
+  "title": "Oddiyana Ventures strategic investment, undisclosed World Liberty Financial",
+  "parties": [
+   "oddiyana-ventures",
+   "world-liberty-financial"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-02",
+  "kind": "money",
+  "title": "X Corp settled suspension suit (reported) Donald Trump",
+  "parties": [
+   "x-corp",
+   "donald-trump"
+  ],
+  "amount_usd": 10000000,
+  "claims": [
+   "C68"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2025-02",
+  "kind": "official",
+  "title": "Donald Trump nominated as Comptroller Jonathan Gould",
+  "parties": [
+   "donald-trump",
+   "jonathan-gould"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C12"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-02",
+  "kind": "official",
+  "title": "Donald Trump appointed Attorney General Pam Bondi",
+  "parties": [
+   "donald-trump",
+   "pam-bondi"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C65"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-02",
+  "kind": "official",
+  "title": "Donald Trump appointed Commerce Secretary Howard Lutnick",
+  "parties": [
+   "donald-trump",
+   "howard-lutnick"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C77"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-02-20",
+  "kind": "official",
+  "title": "Donald Trump named pardon czar Alice Marie Johnson",
+  "parties": [
+   "donald-trump",
+   "alice-marie-johnson"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C49"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-02-21",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission closed crypto investigation with no action Robinhood Markets",
+  "parties": [
+   "sec",
+   "robinhood"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-02-21",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission closed investigation OpenSea",
+  "parties": [
+   "sec",
+   "opensea"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-02-25",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission closed investigation with no action Uniswap Labs",
+  "parties": [
+   "sec",
+   "uniswap-labs"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-02-26",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission jointly sought stay to explore resolution Justin Sun",
+  "parties": [
+   "sec",
+   "justin-sun"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C05",
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-02-26",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission closed investigation with no action Gemini",
+  "parties": [
+   "sec",
+   "gemini"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C23",
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-02-27",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed lawsuit with prejudice Coinbase",
+  "parties": [
+   "sec",
+   "coinbase"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C23",
+   "C33",
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-02-27",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission staff: meme coins generally not securities; no action $TRUMP (Official Trump)",
+  "parties": [
+   "sec",
+   "trump-coin"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C40"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03",
+  "kind": "official",
+  "title": "Donald Trump pardoned Devon Archer",
+  "parties": [
+   "donald-trump",
+   "devon-archer"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C49"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed case Kraken (Payward)",
+  "parties": [
+   "sec",
+   "kraken"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03",
+  "kind": "official",
+  "title": "Donald Trump appointed Stephen Feinberg",
+  "parties": [
+   "donald-trump",
+   "steve-feinberg"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C74"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03",
+  "kind": "official",
+  "title": "Josh Gruenbaum reportedly invested $100,001-$250,000 in Databricks-linked Thrive SPV (single-source, WSJ) Thrive Capital",
+  "parties": [
+   "josh-gruenbaum",
+   "thrive-capital"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C81"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2025-03-03",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission closed investigation Yuga Labs",
+  "parties": [
+   "sec",
+   "yuga-labs"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-06",
+  "kind": "official",
+  "title": "Donald Trump signed EO 14233 establishing Strategic Bitcoin Reserve",
+  "parties": [
+   "donald-trump",
+   "strategic-bitcoin-reserve",
+   "white-house"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C19"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-24",
+  "kind": "money",
+  "title": "Crypto.com ETF partnership for Truth.Fi (non-binding, then binding 2025-04-22) Trump Media & Technology Group",
+  "parties": [
+   "crypto-com",
+   "trump-media-technology-group",
+   "truth-social-etfs"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C22",
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-25",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission closed investigation Immutable",
+  "parties": [
+   "sec",
+   "immutable"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-26",
+  "kind": "official",
+  "title": "US State Department approved possible MQ-9B sale to Qatar",
+  "parties": [
+   "state-department",
+   "qatar"
+  ],
+  "amount_usd": 1960000000,
+  "claims": [
+   "C16"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-26",
+  "kind": "official",
+  "title": "US State Department approved MQ-9B sale to Qatar",
+  "parties": [
+   "state-department",
+   "mq-9b-sale-qatar"
+  ],
+  "amount_usd": 1960000000,
+  "claims": [
+   "C73"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-27",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed enforcement case with prejudice Cumberland DRW",
+  "parties": [
+   "sec",
+   "cumberland-drw"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C19",
+   "C23",
+   "C62",
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-27",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission closed investigation with no action Crypto.com",
+  "parties": [
+   "sec",
+   "crypto-com"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C22",
+   "C23",
+   "C43",
+   "C52",
+   "C62",
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-27",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed lawsuit with prejudice Kraken (Payward)",
+  "parties": [
+   "sec",
+   "kraken"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C23",
+   "C52",
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-27",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed lawsuit Consensys",
+  "parties": [
+   "sec",
+   "consensys"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C23"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-27",
+  "kind": "official",
+  "title": "Donald Trump pardoned Arthur Hayes",
+  "parties": [
+   "donald-trump",
+   "arthur-hayes"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C36"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-27",
+  "kind": "official",
+  "title": "Donald Trump pardoned Benjamin Delo",
+  "parties": [
+   "donald-trump",
+   "benjamin-delo"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C36"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-27",
+  "kind": "official",
+  "title": "Donald Trump pardoned Samuel Reed",
+  "parties": [
+   "donald-trump",
+   "samuel-reed"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C36"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-27",
+  "kind": "official",
+  "title": "Donald Trump pardoned Gregory Dwyer",
+  "parties": [
+   "donald-trump",
+   "gregory-dwyer"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C36"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-27",
+  "kind": "official",
+  "title": "Donald Trump pardoned operator HDR Global Trading BitMEX (HDR Global Trading)",
+  "parties": [
+   "donald-trump",
+   "bitmex"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C36"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-27",
+  "kind": "official",
+  "title": "Donald Trump pardoned Trevor Milton",
+  "parties": [
+   "donald-trump",
+   "trevor-milton"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C61"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-28",
+  "kind": "official",
+  "title": "Donald Trump pardoned Trevor Milton",
+  "parties": [
+   "donald-trump",
+   "trevor-milton"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C36",
+   "C49",
+   "C64",
+   "C65"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-03-28",
+  "kind": "official",
+  "title": "Donald Trump commuted sentence (voiding ~$36M restitution, ~$60M forfeiture) Carlos Watson",
+  "parties": [
+   "donald-trump",
+   "carlos-watson"
+  ],
+  "amount_usd": 96000000,
+  "claims": [
+   "C49"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-04",
+  "kind": "money",
+  "title": "Freight Technologies (Fr8Tech) $20M TRUMP treasury plan $TRUMP (Official Trump)",
+  "parties": [
+   "freight-technologies",
+   "trump-coin"
+  ],
+  "amount_usd": 20000000,
+  "claims": [
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-04",
+  "kind": "official",
+  "title": "US Department of Defense awarded $45M to Cerebras Systems",
+  "parties": [
+   "pentagon",
+   "cerebras"
+  ],
+  "amount_usd": 45000000,
+  "claims": [
+   "C51"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-04",
+  "kind": "official",
+  "title": "Donald Trump appointed senior adviser for Africa/Arab affairs Massad Boulos",
+  "parties": [
+   "donald-trump",
+   "massad-boulos"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C66"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-04",
+  "kind": "official",
+  "title": "ICE ImmigrationOS contract Palantir Technologies (PLTR)",
+  "parties": [
+   "ice",
+   "palantir"
+  ],
+  "amount_usd": 30000000,
+  "claims": [
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-04",
+  "kind": "official",
+  "title": "Donald Trump signed April 2025 offshore critical minerals executive order",
+  "parties": [
+   "donald-trump",
+   "seabed-mining-eo"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C77"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-04-02",
+  "kind": "official",
+  "title": "Pam Bondi sold >$1M of shares on Apr 2, 2025 Trump Media & Technology Group",
+  "parties": [
+   "pam-bondi",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": 1000000,
+  "claims": [
+   "C65"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-04-04",
+  "kind": "official",
+  "title": "US Department of Defense awarded 7 NSSL missions (~$2.3B) Blue Origin",
+  "parties": [
+   "pentagon",
+   "blue-origin"
+  ],
+  "amount_usd": 2300000000,
+  "claims": [
+   "C44"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-04-16",
+  "kind": "money",
+  "title": "DWF Labs bought $25M WLFI token",
+  "parties": [
+   "dwf-labs",
+   "usd1",
+   "wlfi-token",
+   "world-liberty-financial"
+  ],
+  "amount_usd": 25000000,
+  "claims": [
+   "C62",
+   "C67",
+   "C71"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-04-23",
+  "kind": "official",
+  "title": "Donald Trump pardoned Paul Walczak",
+  "parties": [
+   "donald-trump",
+   "paul-walczak"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C36",
+   "C49"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-04-30",
+  "kind": "money",
+  "title": "Qatari Diar Simaisma golf/villa partner Trump Organization",
+  "parties": [
+   "qatari-diar",
+   "trump-organization"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "money",
+  "title": "DRW Investments bought ~4M shares (~$100M) in bitcoin-treasury raise Trump Media & Technology Group",
+  "parties": [
+   "drw-investments",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": 100000000,
+  "claims": [
+   "C19",
+   "C62",
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "money",
+  "title": "Jane Street bought ~$375M in bitcoin-treasury raise Trump Media & Technology Group",
+  "parties": [
+   "jane-street",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": 375000000,
+  "claims": [
+   "C19"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "money",
+  "title": "Apollo Global Management Apollo-run trust (partly Qatar-owned) provided $100M Witkoff Group",
+  "parties": [
+   "apollo-global-management",
+   "witkoff-group"
+  ],
+  "amount_usd": 100000000,
+  "claims": [
+   "C53",
+   "C73"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "money",
+  "title": "Cantor Fitzgerald financial adviser on bitcoin-treasury raise Trump Media & Technology Group",
+  "parties": [
+   "cantor-fitzgerald",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "money",
+  "title": "Yorkville Advisors co-lead placement agent (Yorkville Securities) Trump Media & Technology Group",
+  "parties": [
+   "yorkville-advisors",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "money",
+  "title": "Clear Street co-lead placement agent on bitcoin raise Trump Media & Technology Group",
+  "parties": [
+   "clear-street",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "money",
+  "title": "BTIG co-placement agent Trump Media & Technology Group",
+  "parties": [
+   "btig",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "money",
+  "title": "Cohen & Company Capital Markets co-placement agent Trump Media & Technology Group",
+  "parties": [
+   "cohen-and-company-capital-markets",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62",
+   "C78"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "money",
+  "title": "Addentax Group talks to buy up to $800M of TRUMP and BTC $TRUMP (Official Trump)",
+  "parties": [
+   "addentax",
+   "trump-coin"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "official",
+  "title": "US Department of Commerce rescinded AI Diffusion Rule",
+  "parties": [
+   "us-commerce-department",
+   "ai-diffusion-rule"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C08"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "official",
+  "title": "US Department of Commerce licenses chip exports under UAE AI chips deal",
+  "parties": [
+   "us-commerce-department",
+   "uae-chips-deal"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C35"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "official",
+  "title": "Pam Bondi signed DOJ memo clearing acceptance of Qatari Boeing 747-8 (Air Force One)",
+  "parties": [
+   "pam-bondi",
+   "qatar-jet"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C61",
+   "C65"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05",
+  "kind": "official",
+  "title": "Pam Bondi reportedly signed DOJ memo on the Qatari jet",
+  "parties": [
+   "pam-bondi",
+   "pam-bondi-jet-memo"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C64",
+   "C73"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2025-05",
+  "kind": "official",
+  "title": "Donald Trump appointed ambassador to France; pardoned 2020 Charles Kushner",
+  "parties": [
+   "donald-trump",
+   "charles-kushner"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C65"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05-01",
+  "kind": "money",
+  "title": "MGX used to settle Binance investment USD1",
+  "parties": [
+   "mgx",
+   "usd1"
+  ],
+  "amount_usd": 2000000000,
+  "claims": [
+   "C07",
+   "C08",
+   "C09",
+   "C57"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05-08",
+  "kind": "official",
+  "title": "Donald Trump named pardon attorney Ed Martin",
+  "parties": [
+   "donald-trump",
+   "ed-martin"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C49"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05-13",
+  "kind": "money",
+  "title": "GD Culture Group announced up to $300M raise to buy BTC and TRUMP $TRUMP (Official Trump)",
+  "parties": [
+   "gd-culture-group",
+   "trump-coin"
+  ],
+  "amount_usd": 300000000,
+  "claims": [
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05-15",
+  "kind": "official",
+  "title": "White House agreed AI Acceleration Partnership / chip framework with United Arab Emirates",
+  "parties": [
+   "white-house",
+   "uae"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C08"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05-27",
+  "kind": "money",
+  "title": "Clear Street co-lead placement agent on ~$2.44B raise Trump Media & Technology Group",
+  "parties": [
+   "clear-street",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C78"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05-27",
+  "kind": "money",
+  "title": "Yorkville Securities co-lead placement agent on ~$2.44B raise Trump Media & Technology Group",
+  "parties": [
+   "yorkville-securities",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C78"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05-29",
+  "kind": "money",
+  "title": "Jane Street acquired 6.0% via PIPE Trump Media & Technology Group",
+  "parties": [
+   "jane-street",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05-29",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed lawsuit with prejudice against Binance",
+  "parties": [
+   "sec",
+   "binance"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C09",
+   "C23",
+   "C43",
+   "C67",
+   "C70"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-05-29",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed lawsuit with prejudice against Changpeng Zhao (CZ)",
+  "parties": [
+   "sec",
+   "changpeng-zhao"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C09",
+   "C23"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-06",
+  "kind": "money",
+  "title": "Yorkville America Digital sponsor of Truth Social crypto ETF filings Trump Media & Technology Group",
+  "parties": [
+   "yorkville-america-digital",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-06",
+  "kind": "money",
+  "title": "Aqua 1 Foundation up to $75M of purchase reached Trump-and-sons company (per NYT) Donald Trump",
+  "parties": [
+   "aqua-1-foundation",
+   "donald-trump"
+  ],
+  "amount_usd": 75000000,
+  "claims": [
+   "C67"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2025-06",
+  "kind": "official",
+  "title": "White House issued AI ethics waiver to David Sacks",
+  "parties": [
+   "white-house",
+   "david-sacks"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C34"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-06",
+  "kind": "official",
+  "title": "Export-Import Bank of the United States letter of interest for up to $120M loan Critical Metals Corp",
+  "parties": [
+   "exim-bank",
+   "critical-metals-corp"
+  ],
+  "amount_usd": 120000000,
+  "claims": [
+   "C77"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-06-03",
+  "kind": "money",
+  "title": "Yorkville America Digital sponsor of crypto ETF filings Truth Social ETFs (TSSD, TSNF, TSIC and others)",
+  "parties": [
+   "yorkville-america-digital",
+   "truth-social-etfs"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C78"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-06-06",
+  "kind": "official",
+  "title": "Donald Trump signed EO 14307 'Unleashing American Drone Dominance'",
+  "parties": [
+   "donald-trump",
+   "eo-14307"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C51"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-06-26",
+  "kind": "money",
+  "title": "Aqua 1 Foundation bought $100M WLFI World Liberty Financial",
+  "parties": [
+   "aqua-1-foundation",
+   "world-liberty-financial"
+  ],
+  "amount_usd": 100000000,
+  "claims": [
+   "C67",
+   "C71"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-06-27",
+  "kind": "official",
+  "title": "Massad Boulos mediated minerals-for-security deal Democratic Republic of the Congo",
+  "parties": [
+   "massad-boulos",
+   "drc"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C65"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07",
+  "kind": "money",
+  "title": "Paramount Global settlement paid to Trump Presidential Library Foundation",
+  "parties": [
+   "paramount",
+   "trump-presidential-library-foundation"
+  ],
+  "amount_usd": 16000000,
+  "claims": [
+   "C48"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07",
+  "kind": "official",
+  "title": "Commodity Futures Trading Commission closed earlier probe Polymarket",
+  "parties": [
+   "cftc",
+   "doj",
+   "polymarket"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C25"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07",
+  "kind": "official",
+  "title": "US Department of Defense equity stake and NdPr price floor MP Materials",
+  "parties": [
+   "pentagon",
+   "mp-materials"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C60",
+   "C74"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07",
+  "kind": "official",
+  "title": "US Department of Defense CDAO AI contract (ceiling) xAI",
+  "parties": [
+   "pentagon",
+   "xai"
+  ],
+  "amount_usd": 200000000,
+  "claims": [
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07",
+  "kind": "official",
+  "title": "Donald Trump signed EO 'Accelerating Federal Permitting of Data Center Infrastructure'",
+  "parties": [
+   "donald-trump",
+   "data-center-permitting-eo"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C70"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07-02",
+  "kind": "money",
+  "title": "Paramount Global settled '60 Minutes' suit for $16M incl. fees, remainder to library Original Trump presidential library fund (Florida, Dec 2024)",
+  "parties": [
+   "donald-trump",
+   "paramount",
+   "trump-presidential-library-fund"
+  ],
+  "amount_usd": 16000000,
+  "claims": [
+   "C33",
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07-02",
+  "kind": "official",
+  "title": "Donald Trump announced 20% tariff deal US-Vietnam reciprocal trade framework",
+  "parties": [
+   "donald-trump",
+   "us-vietnam-trade-framework-2025"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C59"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07-09",
+  "kind": "money",
+  "title": "Justin Sun top holder; pledged $100M buy $TRUMP (Official Trump)",
+  "parties": [
+   "justin-sun",
+   "trump-coin"
+  ],
+  "amount_usd": 100000000,
+  "claims": [
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07-10",
+  "kind": "official",
+  "title": "US Congress Senate confirmed 50-45 Jonathan Gould",
+  "parties": [
+   "us-congress",
+   "jonathan-gould"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C12"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07-15",
+  "kind": "official",
+  "title": "US Department of Justice closed criminal probe without charges Polymarket",
+  "parties": [
+   "cftc",
+   "doj",
+   "polymarket"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C38"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07-15",
+  "kind": "official",
+  "title": "Donald Trump cut tariff from 32% to 19% in deal with Indonesia",
+  "parties": [
+   "donald-trump",
+   "indonesia"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C59"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07-18",
+  "kind": "official",
+  "title": "Donald Trump signed into law GENIUS Act",
+  "parties": [
+   "donald-trump",
+   "genius-act"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C34",
+   "C35"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07-23",
+  "kind": "official",
+  "title": "Donald Trump signed EO 'Accelerating Federal Permitting of Data Center Infrastructure'",
+  "parties": [
+   "donald-trump",
+   "data-center-permitting-eo"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C82"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07-24",
+  "kind": "official",
+  "title": "Federal Communications Commission approved 2-1 with ombudsman/anti-DEI conditions Skydance-Paramount merger",
+  "parties": [
+   "fcc",
+   "skydance-paramount-merger"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C33"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07-24",
+  "kind": "official",
+  "title": "Federal Communications Commission approved Skydance merger Paramount Global",
+  "parties": [
+   "fcc",
+   "paramount"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07-31",
+  "kind": "official",
+  "title": "US Department of Defense Army enterprise agreement (ceiling) Palantir Technologies (PLTR)",
+  "parties": [
+   "pentagon",
+   "palantir"
+  ],
+  "amount_usd": 10000000000,
+  "claims": [
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-07-31",
+  "kind": "official",
+  "title": "Donald Trump 19% tariff and energy/trade deal Pakistan",
+  "parties": [
+   "donald-trump",
+   "pakistan"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C72"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-08",
+  "kind": "money",
+  "title": "Crypto.com CRO-treasury deal partner of Trump Media & Technology Group",
+  "parties": [
+   "crypto-com",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-08",
+  "kind": "official",
+  "title": "General Services Administration OneGov cloud agreement (up to $1B savings) Amazon Web Services",
+  "parties": [
+   "gsa",
+   "aws"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C44"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-08-07",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dropped appeal; $125M judgment stands Ripple",
+  "parties": [
+   "sec",
+   "ripple"
+  ],
+  "amount_usd": 125035150,
+  "claims": [
+   "C23",
+   "C33",
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-08-11",
+  "kind": "money",
+  "title": "A.G.P./Alliance Global Partners sole placement agent, $1.5B raise ALT5 Sigma (now AI Financial Corporation, AIFC)",
+  "parties": [
+   "agp-alliance-global-partners",
+   "alt5-sigma"
+  ],
+  "amount_usd": 1500000000,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-08-21",
+  "kind": "official",
+  "title": "Office of the Comptroller of the Currency terminated 2022 AML consent order Anchorage Digital",
+  "parties": [
+   "occ",
+   "anchorage-digital"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-08-21",
+  "kind": "official",
+  "title": "GSA OneGov agreement: Google 'Gemini for Government' at $0.47 per agency (announced Aug 21-22, 2025)",
+  "parties": [
+   "gsa",
+   "alphabet"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C69",
+   "C81"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-08-25",
+  "kind": "money",
+  "title": "Yorkville Acquisition Corp SPAC merger partner (terminated) Trump Media Group CRO Strategy",
+  "parties": [
+   "yorkville-acquisition-corp",
+   "trump-media-group-cro-strategy"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-08-26",
+  "kind": "money",
+  "title": "Crypto.com agreed to buy $50M of common stock in Trump Media & Technology Group",
+  "parties": [
+   "crypto-com",
+   "trump-media-group-cro-strategy",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": 50000000,
+  "claims": [
+   "C22",
+   "C63",
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09",
+  "kind": "official",
+  "title": "US Department of Commerce licensed Nvidia chip transfers to UAE Microsoft",
+  "parties": [
+   "us-commerce-department",
+   "microsoft"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C08",
+   "C57"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed civil case after pardon Trevor Milton",
+  "parties": [
+   "sec",
+   "trevor-milton"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C49",
+   "C61"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed civil claims after commutation Carlos Watson",
+  "parties": [
+   "sec",
+   "carlos-watson"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C49"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission moved to dismiss civil claims Ozy Media",
+  "parties": [
+   "sec",
+   "ozy-media"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C49"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed civil case after pardon Devon Archer",
+  "parties": [
+   "sec",
+   "devon-archer"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C49"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09",
+  "kind": "official",
+  "title": "Commerce approves Microsoft licences to ship ~60,400 A100-equivalent Nvidia chips (incl. GB300) to UAE (disclosed by Brad Smith 2025-11-03)",
+  "parties": [
+   "us-commerce-department",
+   "microsoft",
+   "uae"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C08",
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09-02",
+  "kind": "official",
+  "title": "GSA OneGov agreement with Microsoft (est. $3.1B first-year savings to government)",
+  "parties": [
+   "gsa",
+   "microsoft"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09-05",
+  "kind": "money",
+  "title": "Justin Sun pledged $10M share purchase (completion unverified) ALT5 Sigma (now AI Financial Corporation, AIFC)",
+  "parties": [
+   "justin-sun",
+   "alt5-sigma"
+  ],
+  "amount_usd": 10000000,
+  "claims": [
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09-25",
+  "kind": "official",
+  "title": "Donald Trump approved divestiture by executive order TikTok USDS Joint Venture LLC",
+  "parties": [
+   "donald-trump",
+   "tiktok-usds-joint-venture",
+   "white-house"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C57",
+   "C67",
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09-25",
+  "kind": "official",
+  "title": "FTC settlement: Amazon pays $2.5B over Prime practices (penalty, not relief)",
+  "parties": [
+   "ftc",
+   "amazon"
+  ],
+  "amount_usd": 2500000000,
+  "claims": [
+   "C44",
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09-29",
+  "kind": "money",
+  "title": "YouTube/Alphabet settles Trump suspension suit for $24.5M, $22M to the White House ballroom via Trust for the National Mall",
+  "parties": [
+   "alphabet",
+   "white-house-ballroom",
+   "donald-trump"
+  ],
+  "amount_usd": 22000000,
+  "claims": [
+   "C33",
+   "C48",
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09-29",
+  "kind": "official",
+  "title": "Donald Trump signed EO 'Assuring the Security of the State of Qatar'",
+  "parties": [
+   "donald-trump",
+   "qatar-security-eo"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C73"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09-29",
+  "kind": "official",
+  "title": "Pentagon definitizes F-35 Lots 18-19: $12.5B modification to Lockheed Martin (handshake deal Nov 2024)",
+  "parties": [
+   "pentagon",
+   "lockheed-martin"
+  ],
+  "amount_usd": 12500000000,
+  "claims": [
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-09-30",
+  "kind": "official",
+  "title": "Donald Trump withdrew CFTC chair nomination Brian Quintenz",
+  "parties": [
+   "brian-quintenz",
+   "donald-trump",
+   "white-house"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C54",
+   "C65"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10",
+  "kind": "money",
+  "title": "Trust for the National Mall receives and administers donations for White House ballroom",
+  "parties": [
+   "trust-for-the-national-mall",
+   "white-house-ballroom"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C33"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10",
+  "kind": "money",
+  "title": "Crypto.com gave $20M (two $10M gifts via Foris DAX) in filing period MAGA Inc.",
+  "parties": [
+   "crypto-com",
+   "maga-inc"
+  ],
+  "amount_usd": 20000000,
+  "claims": [
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10",
+  "kind": "money",
+  "title": "Nvidia commits $25M to the White House ballroom, anonymously (dated Oct 2025 per WaPo spreadsheet)",
+  "parties": [
+   "nvidia",
+   "white-house-ballroom"
+  ],
+  "amount_usd": 25000000,
+  "claims": [
+   "C68",
+   "C69"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2025-10",
+  "kind": "official",
+  "title": "Donald Trump pardoned Changpeng Zhao (CZ)",
+  "parties": [
+   "donald-trump",
+   "changpeng-zhao"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C10",
+   "C49"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10",
+  "kind": "official",
+  "title": "Donald Trump nominated as CFTC Chair Mike Selig",
+  "parties": [
+   "donald-trump",
+   "mike-selig"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C22",
+   "C54"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10",
+  "kind": "official",
+  "title": "U.S. Department of Energy ~5% equity stake in loan restructuring Lithium Americas",
+  "parties": [
+   "us-department-of-energy",
+   "lithium-americas"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C60"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10",
+  "kind": "official",
+  "title": "US International Development Finance Corporation invested in Orion Critical Mineral Consortium",
+  "parties": [
+   "us-dfc",
+   "orion-cmc"
+  ],
+  "amount_usd": 600000000,
+  "claims": [
+   "C75"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10",
+  "kind": "official",
+  "title": "US Department of Defense DPA grant application; equity conversion (~8%) discussed Critical Metals Corp",
+  "parties": [
+   "pentagon",
+   "critical-metals-corp"
+  ],
+  "amount_usd": 50000000,
+  "claims": [
+   "C77"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10-10",
+  "kind": "official",
+  "title": "Pete Hegseth signed letter of acceptance Qatari Emiri Air Force facility, Mountain Home AFB",
+  "parties": [
+   "pete-hegseth",
+   "mountain-home-qatari-facility"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C73"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10-14",
+  "kind": "official",
+  "title": "US Department of Justice deferred prosecution agreement; about $50M paid to IRS Roger Ver",
+  "parties": [
+   "doj",
+   "roger-ver"
+  ],
+  "amount_usd": 49900000,
+  "claims": [
+   "C36"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10-15",
+  "kind": "money",
+  "title": "East Room dinner for ballroom donors; White House names ~37 donors on 2025-10-23 (incl. Amazon, Apple, Google, Meta, Microsoft, Lockheed Martin, Palantir, Coinbase, Ripple, Tether America, Winklevoss twins); amounts later leaked (Lockheed, Microsoft, Palantir $10M each; Meta, Amazon $5M each)",
+  "parties": [
+   "white-house-ballroom",
+   "microsoft",
+   "lockheed-martin",
+   "amazon",
+   "alphabet",
+   "meta",
+   "palantir",
+   "coinbase",
+   "ripple",
+   "tether"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C33",
+   "C68",
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10-15",
+  "kind": "official",
+  "title": "US Army ordered 3,500 drone motors (value undisclosed) from Unusual Machines",
+  "parties": [
+   "us-army",
+   "unusual-machines"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C32"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10-20",
+  "kind": "official",
+  "title": "Internal Revenue Service granted tax exemption in 10 days during shutdown Trump Presidential Library Foundation",
+  "parties": [
+   "irs",
+   "trump-presidential-library-foundation"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C48"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10-22",
+  "kind": "official",
+  "title": "Donald Trump pardoned Changpeng Zhao (CZ)",
+  "parties": [
+   "donald-trump",
+   "changpeng-zhao"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C09"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10-22",
+  "kind": "official",
+  "title": "Donald Trump signed Pardon of Changpeng Zhao",
+  "parties": [
+   "donald-trump",
+   "cz-pardon"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C09"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10-23",
+  "kind": "money",
+  "title": "Meteora airdropped about $4.2M of MET to TRUMP-team wallets $TRUMP (Official Trump)",
+  "parties": [
+   "meteora",
+   "trump-coin"
+  ],
+  "amount_usd": 4200000,
+  "claims": [
+   "C40"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10-23",
+  "kind": "official",
+  "title": "Donald Trump pardoned Changpeng Zhao (CZ)",
+  "parties": [
+   "changpeng-zhao",
+   "donald-trump",
+   "white-house"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C36",
+   "C67",
+   "C70"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-10-28",
+  "kind": "money",
+  "title": "Crypto.com prediction-market partner Truth Predict",
+  "parties": [
+   "crypto-com",
+   "truth-predict"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11",
+  "kind": "official",
+  "title": "US Department of Commerce licensed ~35,000 Nvidia chips to G42",
+  "parties": [
+   "g42",
+   "us-commerce-department",
+   "white-house"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C08",
+   "C34",
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11",
+  "kind": "official",
+  "title": "Office of Strategic Capital $620M loan to Vulcan Elements",
+  "parties": [
+   "office-of-strategic-capital",
+   "vulcan-elements"
+  ],
+  "amount_usd": 620000000,
+  "claims": [
+   "C51"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11",
+  "kind": "official",
+  "title": "Office of Strategic Capital $80M conditional loan (later withdrawn) ReElement Technologies",
+  "parties": [
+   "office-of-strategic-capital",
+   "reelement-technologies"
+  ],
+  "amount_usd": 80000000,
+  "claims": [
+   "C60"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11",
+  "kind": "official",
+  "title": "US Department of Commerce licensed UAE/Saudi chip exports Nvidia",
+  "parties": [
+   "us-commerce-department",
+   "nvidia"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11-03",
+  "kind": "official",
+  "title": "Office of Strategic Capital $620M direct loan to Vulcan Elements",
+  "parties": [
+   "office-of-strategic-capital",
+   "us-commerce-department",
+   "us-department-of-commerce",
+   "vulcan-elements"
+  ],
+  "amount_usd": 620000000,
+  "claims": [
+   "C26",
+   "C60",
+   "C65",
+   "C74"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11-03",
+  "kind": "official",
+  "title": "Office of Strategic Capital $80M conditional loan to (withdrawn Jul 2026) ReElement Technologies",
+  "parties": [
+   "office-of-strategic-capital",
+   "reelement-technologies"
+  ],
+  "amount_usd": 80000000,
+  "claims": [
+   "C26"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11-06",
+  "kind": "official",
+  "title": "Donald Trump struck tungsten deal with Kassym-Jomart Tokayev",
+  "parties": [
+   "donald-trump",
+   "kassym-jomart-tokayev"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C47"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11-06",
+  "kind": "official",
+  "title": "Donald Trump announced Kazakhstan tungsten deal for Kaz Resources",
+  "parties": [
+   "donald-trump",
+   "kaz-resources"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C60"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11-14",
+  "kind": "official",
+  "title": "Donald Trump pardoned Joseph Schwartz",
+  "parties": [
+   "donald-trump",
+   "joseph-schwartz"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C49"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11-18",
+  "kind": "official",
+  "title": "Donald Trump announced approval of Saudi F-35 sale",
+  "parties": [
+   "donald-trump",
+   "saudi-f35-sale"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C56"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11-19",
+  "kind": "official",
+  "title": "US Department of Commerce approved up to 35,000 GB300-equivalent chips for Humain",
+  "parties": [
+   "us-commerce-department",
+   "humain"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C56"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11-19",
+  "kind": "official",
+  "title": "US Department of Commerce approved up to 35,000 GB300-equivalent chips for G42",
+  "parties": [
+   "us-commerce-department",
+   "g42"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C56"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-11-20",
+  "kind": "official",
+  "title": "US Department of Commerce authorized up to 35,000 GB300-equivalent chips for G42",
+  "parties": [
+   "us-commerce-department",
+   "g42"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C57",
+   "C70"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12",
+  "kind": "money",
+  "title": "Gemini donated 1.5M USDC to MAGA Inc.",
+  "parties": [
+   "gemini",
+   "maga-inc"
+  ],
+  "amount_usd": 1500000,
+  "claims": [
+   "C43"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12",
+  "kind": "money",
+  "title": "D. Boral Capital co-lead underwriter of $345M IPO New America Acquisition I Corp",
+  "parties": [
+   "d-boral-capital",
+   "new-america-acquisition-i"
+  ],
+  "amount_usd": 345000000,
+  "claims": [
+   "C74"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12",
+  "kind": "money",
+  "title": "Charles Ergen commits first $12.5M (anonymously) to the ballroom; second $12.5M in Feb 2026 (WaPo spreadsheet)",
+  "parties": [
+   "charles-ergen",
+   "white-house-ballroom"
+  ],
+  "amount_usd": 12500000,
+  "claims": [
+   "C69"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2025-12",
+  "kind": "official",
+  "title": "Kash Patel signed bilateral security agreements with (as FBI director) Qatar",
+  "parties": [
+   "fbi",
+   "kash-patel",
+   "qatar"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C64",
+   "C73"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12",
+  "kind": "official",
+  "title": "Donald Trump said Netflix deal 'could be a problem'; CNN should be sold Warner Bros. Discovery",
+  "parties": [
+   "donald-trump",
+   "warner-bros-discovery"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12",
+  "kind": "official",
+  "title": "Kash Patel signed in Doha FBI-Qatar security agreements (Dec 2025)",
+  "parties": [
+   "kash-patel",
+   "fbi-qatar-security-agreements"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C73"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12-05",
+  "kind": "money",
+  "title": "D. Boral Capital co-lead book-runner of $345M IPO New America Acquisition I Corp",
+  "parties": [
+   "d-boral-capital",
+   "new-america-acquisition-i"
+  ],
+  "amount_usd": 345000000,
+  "claims": [
+   "C78"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12-08",
+  "kind": "official",
+  "title": "Donald Trump allowed H200 China sales with 25% cut to US Nvidia",
+  "parties": [
+   "donald-trump",
+   "nvidia"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12-09",
+  "kind": "official",
+  "title": "Navy and Palantir unveil ShipOS, up to $448M over two years",
+  "parties": [
+   "us-navy",
+   "palantir"
+  ],
+  "amount_usd": 448000000,
+  "claims": [
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12-10",
+  "kind": "official",
+  "title": "US EXIM $1.25B financing for Barrick's Reko Diq mine in Pakistan announced (approval reported 2025-11-28)",
+  "parties": [
+   "exim-bank",
+   "pakistan",
+   "barrick"
+  ],
+  "amount_usd": 1250000000,
+  "claims": [
+   "C72",
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12-11",
+  "kind": "money",
+  "title": "Binance converts BUSD-backed B-Token reserves into USD1 and adds USD1 pairs",
+  "parties": [
+   "binance",
+   "usd1",
+   "world-liberty-financial"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C10",
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12-11",
+  "kind": "official",
+  "title": "Donald Trump signed EO 'Ensuring a National Policy Framework for AI'",
+  "parties": [
+   "donald-trump",
+   "ai-preemption-eo"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12-12",
+  "kind": "official",
+  "title": "Office of the Comptroller of the Currency conditionally approved national trust conversion BitGo",
+  "parties": [
+   "occ",
+   "bitgo"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12-12",
+  "kind": "official",
+  "title": "Office of the Comptroller of the Currency conditional trust charter Ripple",
+  "parties": [
+   "occ",
+   "ripple"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12-12",
+  "kind": "official",
+  "title": "Office of the Comptroller of the Currency conditional trust charter Circle",
+  "parties": [
+   "occ",
+   "circle"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2025-12-30",
+  "kind": "money",
+  "title": "Yorkville America Equities investment adviser of Truth Social ETFs (TSSD, TSNF, TSIC and others)",
+  "parties": [
+   "yorkville-america-equities",
+   "truth-social-etfs"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C24",
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-01",
+  "kind": "money",
+  "title": "Diriyah Company master-plan host of Trump-branded Wadi Safar project (licensed via Dar Global) Trump Organization",
+  "parties": [
+   "diriyah-company",
+   "trump-organization"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C31"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-01",
+  "kind": "money",
+  "title": "Amazon MGM Studios spent ~$35M marketing (reported) Melania (2026 film)",
+  "parties": [
+   "amazon-mgm-studios",
+   "melania-documentary"
+  ],
+  "amount_usd": 35000000,
+  "claims": [
+   "C44"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-01-14",
+  "kind": "money",
+  "title": "Pakistan government signs USD1 payments MoU with SC Financial Technologies (USD1 brand co-owner); signed by Zach Witkoff",
+  "parties": [
+   "pakistan",
+   "sc-financial-technologies",
+   "usd1",
+   "zach-witkoff"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C70",
+   "C72",
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-01-23",
+  "kind": "money",
+  "title": "LIV Golf announces 2026 LIV Golf New York at Trump National Bedminster (Aug 6-9)",
+  "parties": [
+   "liv-golf",
+   "trump-national-bedminster",
+   "saudi-pif"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C80",
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-01-23",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission stipulated dismissal of Gemini Earn suit Gemini",
+  "parties": [
+   "sec",
+   "gemini"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C23"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-01-26",
+  "kind": "official",
+  "title": "US Department of Commerce $1.6B CHIPS LOI for ~10% stake USA Rare Earth",
+  "parties": [
+   "us-commerce-department",
+   "usa-rare-earth"
+  ],
+  "amount_usd": 1600000000,
+  "claims": [
+   "C60"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-02",
+  "kind": "official",
+  "title": "Donald Trump raised tariffs to 50%, then cut to 18% India",
+  "parties": [
+   "donald-trump",
+   "india"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C59"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-02",
+  "kind": "official",
+  "title": "General Services Administration sole-source order 47QPCA26F0011, ceiling $1,824,000 Databricks",
+  "parties": [
+   "gsa",
+   "databricks"
+  ],
+  "amount_usd": 1824000,
+  "claims": [
+   "C81"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-02-13",
+  "kind": "official",
+  "title": "US Treasury issued licence to buy Venezuelan oil (Reuters, anonymous) Reliance Industries",
+  "parties": [
+   "us-treasury",
+   "reliance-industries"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C70"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-02-18",
+  "kind": "money",
+  "title": "Securitize issuance/compliance partner for Maldives tokens World Liberty Financial",
+  "parties": [
+   "securitize",
+   "world-liberty-financial"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C79"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-02-19",
+  "kind": "official",
+  "title": "Donald Trump named 'envoy of peace' (unofficial, volunteer) Jared Kushner",
+  "parties": [
+   "donald-trump",
+   "jared-kushner"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C15",
+   "C45"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-02-23",
+  "kind": "official",
+  "title": "Office of the Comptroller of the Currency granted conditional national trust charter Foris DAX National Trust Bank",
+  "parties": [
+   "occ",
+   "foris-dax-national-trust-bank"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C22",
+   "C62",
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-03",
+  "kind": "money",
+  "title": "Affinity Partners sought part of $5B+ new raise from (per NYT) Public Investment Fund (Saudi Arabia)",
+  "parties": [
+   "affinity-partners",
+   "saudi-pif"
+  ],
+  "amount_usd": 5000000000,
+  "claims": [
+   "C15"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-03",
+  "kind": "money",
+  "title": "Jared Kushner sought new capital from (NYT) Qatar Investment Authority",
+  "parties": [
+   "jared-kushner",
+   "qatar-investment-authority"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C73"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-03",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed claims; Rainberry paid $10M Justin Sun",
+  "parties": [
+   "sec",
+   "justin-sun"
+  ],
+  "amount_usd": 10000000,
+  "claims": [
+   "C52"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-03-04",
+  "kind": "official",
+  "title": "Federal Reserve Bank of Kansas City approved limited master account Kraken Financial",
+  "parties": [
+   "federal-reserve-bank-of-kansas-city",
+   "kraken-financial"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-03-05",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed all claims against Justin Sun",
+  "parties": [
+   "sec",
+   "justin-sun"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C05",
+   "C43",
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-03-05",
+  "kind": "official",
+  "title": "U.S. Securities and Exchange Commission dismissed claims against BitTorrent Foundation Ltd.",
+  "parties": [
+   "sec",
+   "bittorrent-foundation"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C05"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-04",
+  "kind": "official",
+  "title": "US Department of Defense ~$24M in research awards (Army/Navy/Air Force), as promoted Foundation Future Industries",
+  "parties": [
+   "pentagon",
+   "foundation-future-industries"
+  ],
+  "amount_usd": 24000000,
+  "claims": [
+   "C28"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-04-23",
+  "kind": "official",
+  "title": "Commodity Futures Trading Commission civil insider-trading complaint (first on event contracts) Gannon Ken Van Dyke",
+  "parties": [
+   "cftc",
+   "gannon-van-dyke"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C58"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-04-30",
+  "kind": "money",
+  "title": "PGA Tour staged $20M Cadillac Championship at Trump National Doral",
+  "parties": [
+   "pga-tour",
+   "trump-national-doral"
+  ],
+  "amount_usd": 20000000,
+  "claims": [
+   "C80"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-05",
+  "kind": "money",
+  "title": "Umar Kremlev paid for parts of wedding celebrations (island rental, fireworks); later repaid Donald Trump Jr.",
+  "parties": [
+   "umar-kremlev",
+   "donald-trump-jr"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C76"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-05",
+  "kind": "money",
+  "title": "IB Challenger made wedding payments via Donald Trump Jr.",
+  "parties": [
+   "ib-challenger",
+   "donald-trump-jr"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C76"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-05",
+  "kind": "official",
+  "title": "US State Department approved Patriot replenishment sale to Qatar",
+  "parties": [
+   "state-department",
+   "qatar"
+  ],
+  "amount_usd": 4010000000,
+  "claims": [
+   "C16"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-05",
+  "kind": "official",
+  "title": "Marco Rubio invoked emergency waiver of congressional review for 2026 Qatar Patriot and APKWS sales",
+  "parties": [
+   "marco-rubio",
+   "qatar-patriot-apkws-sales-2026",
+   "state-department"
+  ],
+  "amount_usd": 5000000000,
+  "claims": [
+   "C16",
+   "C73"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-05",
+  "kind": "official",
+  "title": "Export-Import Bank of the United States advanced ~$2.7-2.9B loan Perpetua Resources",
+  "parties": [
+   "exim-bank",
+   "perpetua-resources"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C60",
+   "C77"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-05-01",
+  "kind": "official",
+  "title": "Rubio emergency waiver: $8.6B Mideast arms sales incl. $4.01B Patriot for Qatar, $2.5B Kuwait, APKWS for Israel/UAE",
+  "parties": [
+   "state-department",
+   "qatar",
+   "kuwait",
+   "uae",
+   "israel"
+  ],
+  "amount_usd": 8600000000,
+  "claims": [
+   "C16",
+   "C73",
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-05-07",
+  "kind": "money",
+  "title": "Maaden LIV Golf Virginia at Trump National Washington DC (May 7-10; PIF-funded host fee undisclosed)",
+  "parties": [
+   "liv-golf",
+   "maaden",
+   "trump-national-golf-club-dc"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C80",
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-05-12",
+  "kind": "official",
+  "title": "FCC approves EchoStar spectrum sales to AT&T ($23B) and SpaceX ($17B) with a $2.4B escrow condition",
+  "parties": [
+   "fcc",
+   "echostar",
+   "charles-ergen",
+   "spacex"
+  ],
+  "amount_usd": 40000000000,
+  "claims": [
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-05-27",
+  "kind": "official",
+  "title": "Commodity Futures Trading Commission jointly moved to vacate $5M consent order Gemini",
+  "parties": [
+   "cftc",
+   "gemini"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C52"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-06",
+  "kind": "official",
+  "title": "Federal Communications Commission granted deployment-milestone waiver Amazon Leo (formerly Project Kuiper)",
+  "parties": [
+   "fcc",
+   "amazon-leo"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C44"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-06",
+  "kind": "official",
+  "title": "US Department of Defense no-bid contracts up to ~$350M Alvarez & Marsal Federal",
+  "parties": [
+   "pentagon",
+   "alvarez-marsal-federal"
+  ],
+  "amount_usd": 348700000,
+  "claims": [
+   "C65"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-06",
+  "kind": "official",
+  "title": "US Department of Justice cleared Paramount acquisition Warner Bros. Discovery",
+  "parties": [
+   "us-department-of-justice",
+   "warner-bros-discovery"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C68"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-06-03",
+  "kind": "official",
+  "title": "US Department of Commerce definitive CHIPS agreements: $277M funding + $1.3B loan for ~16.1M shares + warrants USA Rare Earth",
+  "parties": [
+   "us-commerce-department",
+   "usa-rare-earth"
+  ],
+  "amount_usd": 1600000000,
+  "claims": [
+   "C77"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-06-19",
+  "kind": "money",
+  "title": "Cameron Winklevoss gave >$5M in BTC to MAGA Inc.",
+  "parties": [
+   "cameron-winklevoss",
+   "maga-inc"
+  ],
+  "amount_usd": 5000000,
+  "claims": [
+   "C43",
+   "C52"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-06-19",
+  "kind": "money",
+  "title": "Tyler Winklevoss gave >$5M in BTC to MAGA Inc.",
+  "parties": [
+   "tyler-winklevoss",
+   "maga-inc"
+  ],
+  "amount_usd": 5000000,
+  "claims": [
+   "C43",
+   "C52"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-07",
+  "kind": "official",
+  "title": "Office of Strategic Capital conditional loan to Performance Drone Works",
+  "parties": [
+   "office-of-strategic-capital",
+   "performance-drone-works"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C51"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-07",
+  "kind": "official",
+  "title": "US State Department named chair of Tripp+ fund Konstantin Sokolov",
+  "parties": [
+   "state-department",
+   "konstantin-sokolov"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C70"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-07-22",
+  "kind": "official",
+  "title": "Chris Wright signed US-Saudi 123 civil nuclear agreement",
+  "parties": [
+   "chris-wright",
+   "us-saudi-123-agreement"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C56"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-07-30",
+  "kind": "official",
+  "title": "CFIUS reportedly cleared by 30 Jul 2026 (no public terms) Electronic Arts take-private",
+  "parties": [
+   "cfius",
+   "ea-buyout"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C80"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-07-30",
+  "kind": "official",
+  "title": "EA buyout (PIF ~93.4%, Silver Lake, Affinity ~1.1%) has all regulatory sign-offs incl. reported CFIUS clearance; closes 2026-08-04",
+  "parties": [
+   "cfius",
+   "ea-buyout",
+   "saudi-pif",
+   "affinity-partners"
+  ],
+  "amount_usd": 55000000000,
+  "claims": [
+   "C80",
+   "C56",
+   "C69"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-07-31",
+  "kind": "official",
+  "title": "Office of Strategic Capital conditional loan commitment up to $820M Performance Drone Works",
+  "parties": [
+   "office-of-strategic-capital",
+   "performance-drone-works"
+  ],
+  "amount_usd": 820000000,
+  "claims": [
+   "C74"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-08",
+  "kind": "official",
+  "title": "US Army Hydra-70 prototype agreement with Firehawk Aerospace",
+  "parties": [
+   "us-army",
+   "firehawk-aerospace"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C32"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-08",
+  "kind": "official",
+  "title": "US Air Force awarded counter-drone IDIQ (ceiling) to Tandem Defense LLC",
+  "parties": [
+   "us-air-force",
+   "tandem-defense"
+  ],
+  "amount_usd": 90000000,
+  "claims": [
+   "C51"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-08-06",
+  "kind": "money",
+  "title": "LIV Golf New York played at Trump National Bedminster (Aug 6-9; PIF-funded, host fee undisclosed)",
+  "parties": [
+   "liv-golf",
+   "trump-national-bedminster",
+   "saudi-pif"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C80",
+   "C69"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-08-07",
+  "kind": "money",
+  "title": "Crypto.com co-sponsor (terminated) Trump Media Group CRO Strategy",
+  "parties": [
+   "crypto-com",
+   "trump-media-group-cro-strategy",
+   "trump-media-technology-group"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C41"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-08-07",
+  "kind": "money",
+  "title": "Yorkville Acquisition Corp planned merger partner; terminated Trump Media Group CRO Strategy",
+  "parties": [
+   "yorkville-acquisition-corp",
+   "trump-media-group-cro-strategy"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C63"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-08-13",
+  "kind": "money",
+  "title": "Base Group (Base Co., Ltd.) developer of (Trump-licensed) Trump International Golf Club Korea",
+  "parties": [
+   "base-group",
+   "trump-international-golf-club-korea"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C79"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-08-14",
+  "kind": "official",
+  "title": "Office of the Comptroller of the Currency granted preliminary conditional approval to World Liberty Trust Company, N.A.",
+  "parties": [
+   "occ",
+   "world-liberty-trust-company"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C12",
+   "C42",
+   "C57",
+   "C63",
+   "C67"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-08-14",
+  "kind": "official",
+  "title": "Office of the Comptroller of the Currency conditionally approved trust charter World Liberty Financial",
+  "parties": [
+   "occ",
+   "world-liberty-financial"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C54",
+   "C65"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-08-14",
+  "kind": "official",
+  "title": "Office of the Comptroller of the Currency preliminary conditional approval WLTC Holdings LLC",
+  "parties": [
+   "occ",
+   "wltc-holdings"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C62"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-08-20",
+  "kind": "official",
+  "title": "US State Department approved KC-46A sale to Qatar",
+  "parties": [
+   "state-department",
+   "qatar-kc46-sale-2026"
+  ],
+  "amount_usd": 4500000000,
+  "claims": [
+   "C73"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-09-16",
+  "kind": "official",
+  "title": "Todd Blanche declined to investigate wedding payments to Donald Trump Jr.",
+  "parties": [
+   "todd-blanche",
+   "donald-trump-jr"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C76"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-10",
+  "kind": "money",
+  "title": "Bloomberg LP reportedly subscribes to Truth API",
+  "parties": [
+   "bloomberg-lp",
+   "truth-api"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C41"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-10",
+  "kind": "money",
+  "title": "Susquehanna International Group reportedly subscribes to Truth API",
+  "parties": [
+   "susquehanna-international-group",
+   "trump-media-technology-group",
+   "truth-api"
+  ],
+  "amount_usd": 100000,
+  "claims": [
+   "C41"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-10",
+  "kind": "money",
+  "title": "Jump Trading reportedly subscribes to Truth API",
+  "parties": [
+   "jump-trading",
+   "trump-media-technology-group",
+   "truth-api"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C41",
+   "C62"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-10",
+  "kind": "official",
+  "title": "US Air Force placed $82M order with Powerus Corp.",
+  "parties": [
+   "us-air-force",
+   "powerus"
+  ],
+  "amount_usd": 82000000,
+  "claims": [
+   "C51"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "money",
+  "title": "Meta Platforms committed (WaPo leak) White House ballroom",
+  "parties": [
+   "meta",
+   "white-house-ballroom"
+  ],
+  "amount_usd": 5000000,
+  "claims": [
+   "C68"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "money",
+  "title": "Amazon committed (WaPo leak) White House ballroom",
+  "parties": [
+   "amazon",
+   "white-house-ballroom"
+  ],
+  "amount_usd": 5000000,
+  "claims": [
+   "C68"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "money",
+  "title": "Nvidia committed, anonymously (WaPo leak) White House ballroom",
+  "parties": [
+   "nvidia",
+   "white-house-ballroom"
+  ],
+  "amount_usd": 25000000,
+  "claims": [
+   "C68"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "money",
+  "title": "Palantir Technologies (PLTR) committed (WaPo leak) White House ballroom",
+  "parties": [
+   "palantir",
+   "white-house-ballroom"
+  ],
+  "amount_usd": 10000000,
+  "claims": [
+   "C68"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "money",
+  "title": "Microsoft committed (WaPo leak) White House ballroom",
+  "parties": [
+   "microsoft",
+   "white-house-ballroom"
+  ],
+  "amount_usd": 10000000,
+  "claims": [
+   "C68"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-10-28",
+  "kind": "money",
+  "title": "Jump Trading subscriber (Reuters, anonymous sources) Truth API",
+  "parties": [
+   "jump-trading",
+   "truth-api"
+  ],
+  "amount_usd": null,
+  "claims": [
+   "C67"
+  ],
+  "grade": "single-source"
+ },
+ {
+  "date": "2026-11",
+  "kind": "official",
+  "title": "Office of Strategic Capital conditional loan up to $450M to Neros Technologies",
+  "parties": [
+   "office-of-strategic-capital",
+   "neros"
+  ],
+  "amount_usd": 450000000,
+  "claims": [
+   "C51"
+  ],
+  "grade": "documented"
+ },
+ {
+  "date": "2026-11-02",
+  "kind": "official",
+  "title": "Office of Strategic Capital conditional loan commitment up to $450M Neros Technologies",
+  "parties": [
+   "office-of-strategic-capital",
+   "neros"
+  ],
+  "amount_usd": 450000000,
+  "claims": [
+   "C74"
+  ],
+  "grade": "documented"
+ }
+]

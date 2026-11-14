@@ -33,7 +33,7 @@ Abu Dhabi financial free zone whose registry uses the 'RSC' company category.
 
 ### Regulatory (2)
 
-- [[StringZ Holding RSC (DE) LLC]] *registered in Abu Dhabi as RSC (WSJ; register entry not found)* [[Abu Dhabi Global Market]] · 2025-04 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[StringZ Holding RSC (DE) LLC]] *registered in Abu Dhabi as RSC (WSJ, single-source; register entry not found)* [[Abu Dhabi Global Market]] · 2025-04 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Abu Dhabi Global Market]] *states Aqua 1 is not registered or licensed* [[Aqua 1 Foundation]] · 2025-07 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 
 ### Legal (1)

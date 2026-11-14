@@ -87,9 +87,10 @@ Almost every link in the brief is documented. Tahnoon-linked vehicles bought 49%
 - Sens. Warren and Kim asked Treasury Secretary Bessent in Feb 2026 to have CFIUS review the stake, and a House inquiry opened on 2026-02-05.
 - No public CFIUS outcome was found.
 - An unnamed person familiar with the deal said it involved no G42 money.
+- WLF spokesman David Wachsman confirmed the investment to the WSJ; Trump said he had no knowledge of it.
 - Amounts: $500M; 49%; $250M; about $187M
 - Dates: 2026-02-01; 2025-01-16; Feb 2026; 2026-02-05
-- Sources: [1](https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931) [2](https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj) [4](https://www.theblock.co/post/389958/sens-warren-kim-demand-cfius-review-of-uaes-reported-500-million-stake-in-world-liberty-financial-reuters) [5](https://cryptobriefing.com/senate-democrats-hearings-trump-crypto-deal/)
+- Sources: [1](https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931) [2](https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj) [4](https://www.theblock.co/post/389958/sens-warren-kim-demand-cfius-review-of-uaes-reported-500-million-stake-in-world-liberty-financial-reuters) [5](https://cryptobriefing.com/senate-democrats-hearings-trump-crypto-deal/) [43](https://cointelegraph.com/news/trump-denies-involvement-500m-uae-wlfi-stake)
 
 ### 2. MGX, chaired by Tahnoon, settled its $2B Binance investment in WLF's USD1.
 
@@ -122,12 +123,14 @@ Almost every link in the brief is documented. Tahnoon-linked vehicles bought 49%
 - On 2025-09-25 Trump signed an executive order declaring the framework a qualified divestiture under the 2024 divest-or-ban law.
 - Vice President Vance put the US entity's value at about $14B. Agreements were signed around 2025-12-18/19.
 - Oracle, Silver Lake and MGX each hold 15% of TikTok USDS Joint Venture LLC. Affiliates of existing ByteDance investors hold 30.1%, and ByteDance keeps 19.9%.
-- Reports date the closing to about 2026-01-22, after Chinese approval.
+- The deal closed on 2026-01-22 (Axios, Hollywood Reporter), the day before the enforcement deadline.
+- The joint venture's board named Adam Presser CEO; its seven-member board includes MGX's chief strategy and safety officer David Scott alongside Silver Lake's Egon Durban and Oracle's Kenneth Glueck.
+- The recommendation algorithm is to be retrained on US data and held in Oracle's cloud.
 - The approval was the president's own determination under the statute.
 - MGX's individual price was not disclosed.
 - Amounts: about $14B; 15%; 30.1%; 19.9%
 - Dates: 2025-09-25; 2025-12-18; 2026-01-22
-- Sources: [14](https://www.macrumors.com/2025/09/25/tiktok-trump-executive-order/) [15](https://www.techspot.com/news/109635-trump-approves-14-billion-tiktok-deal-backed-oracle.html) [16](https://fortune.com/2025/12/19/tiktok-agrees-u-s-joint-venture-deal-with-oracle-silver-lake-and-mgx/) [17](https://enterpriseam.com/uae/2025/12/22/inside-mgxs-investment-in-tiktok/)
+- Sources: [14](https://www.macrumors.com/2025/09/25/tiktok-trump-executive-order/) [15](https://www.techspot.com/news/109635-trump-approves-14-billion-tiktok-deal-backed-oracle.html) [16](https://fortune.com/2025/12/19/tiktok-agrees-u-s-joint-venture-deal-with-oracle-silver-lake-and-mgx/) [17](https://enterpriseam.com/uae/2025/12/22/inside-mgxs-investment-in-tiktok/) [40](https://axios.com/2026/01/23/tiktok-deal-trump-app-ban) [41](https://www.hollywoodreporter.com/business/digital/tiktok-us-deal-closes-silver-lake-oracle-1236481939/)
 
 ### 5. MGX has invested in OpenAI, xAI and Anthropic.
 
@@ -152,11 +155,12 @@ Almost every link in the brief is documented. Tahnoon-linked vehicles bought 49%
 - Stargate UAE, a 1GW G42-built cluster with OpenAI, Oracle, Nvidia, Cisco and SoftBank inside a 5GW US-UAE campus, was announced in May 2025.
 - Its first 200MW was due in 2026, and no confirmation that it is online was found.
 - Commerce authorized Microsoft's chip transfers to the UAE in Sept 2025, then up to 35,000 GB300-equivalent chips for G42 (and as many for Saudi Arabia's Humain) on about 2025-11-20, with security conditions.
-- Later 2026 items are single-sourced and unverified: a 2026-07-10 reclassification of the UAE into Country Group A:5, and a WSJ-relayed plan for G42 to reincorporate as a US company.
+- Later 2026 items: the 2026-07-10 BIS move of the UAE into Country Group A:5 (naming G42 and Core42 for licence-free chip receipt) is documented in C80, including a Senate Banking minority statement.
+- The reported G42 reincorporation as a US company remains unconfirmed: beyond a WSJ-relayed report (July 2026), Bloomberg (about 2026-09-04) reported only exploratory talks to sell a US-majority stake or create a US vehicle, driven by the licence-free window that runs to about April 2027; G42 has not confirmed a transaction and no completed restructuring was found through mid-Nov 2026.
 - A Bloomberg-cited report that initial permits excluded G42 conflicts with the November approval.
 - Amounts: $1.5B
 - Dates: 2024-04-16; May 2025; Sept 2025; 2025-11-20; 2026-07-10
-- Sources: [24](https://www.cnbc.com/2024/04/16/microsoft-to-invest-1point5-billion-in-emirati-ai-firm-g42-takes-minority-stake.html) [25](https://www.thenationalnews.com/future/technology/2025/11/20/uae-ai-nvidia-chips-us/) [26](https://www.middleeastainews.com/p/us-approves-up-to-70000-advanced) [27](https://agbi.com/analysis/trade/2026/07/us-export-rules-keep-uae-in-ai-technology-slow-lane/) [29](https://gulfnews.com/business/markets/stargate-uae-first-phase-of-200mw-to-complete-by-2026-1.500310364) [28](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-finally-grants-nvidia-license-to-ship-ai-gpus-to-uae-500-000-blackwell-gpus-coming-to-the-gulf-region)
+- Sources: [24](https://www.cnbc.com/2024/04/16/microsoft-to-invest-1point5-billion-in-emirati-ai-firm-g42-takes-minority-stake.html) [25](https://www.thenationalnews.com/future/technology/2025/11/20/uae-ai-nvidia-chips-us/) [26](https://www.middleeastainews.com/p/us-approves-up-to-70000-advanced) [27](https://agbi.com/analysis/trade/2026/07/us-export-rules-keep-uae-in-ai-technology-slow-lane/) [29](https://gulfnews.com/business/markets/stargate-uae-first-phase-of-200mw-to-complete-by-2026-1.500310364) [28](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-finally-grants-nvidia-license-to-ship-ai-gpus-to-uae-500-000-blackwell-gpus-coming-to-the-gulf-region) <https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-trump-administrations-removing-export-controls-on-ai-chips-to-uae> <https://thenextweb.com/news/g42-us-ownership-chip-access-export-control-endgame> [42](https://mobileworldlive.com/ai-cloud/g42-weighs-us-ownership-to-secure-chip-access)
 
 ### 7. A G42 crypto executive reportedly advised WLF.
 
@@ -350,7 +354,7 @@ Almost every link in the brief is documented. Tahnoon-linked vehicles bought 49%
   - Lunate, the Tahnoon-linked Affinity LP, took over G42's China-focused fund in 2024 as G42 unwound China ties under US pressure; it links the Kushner money trail to the G42 security questions.
   - [[Lunate]] [[G42]] [[Affinity Partners]] [[China]] · [Source](https://www.bloomberg.com/news/articles/2024-07-08/abu-dhabi-investment-firm-lunate-takes-on-ai-firm-g42-s-china-fund)
 
-## Sources (39)
+## Sources (43)
 
 1. [UAE Sheikh secretly acquired 49% of Trump's World Liberty Financial days before inauguration: WSJ](https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931) (The Block, 2026-02-01)
 2. [UAE-backed firm buys 49% of Trump-linked World Liberty: WSJ](https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj) (Cointelegraph, 2026-02-01)
@@ -391,6 +395,10 @@ Almost every link in the brief is documented. Tahnoon-linked vehicles bought 49%
 37. [Abu Dhabi rolls $263B sovereign wealth fund ADQ into new investment vehicle L'IMAD](https://www.semafor.com/article/01/30/2026/abu-dhabi-rolls-263b-sovereign-wealth-fund-adq-into-new-investment-vehicle-limad) (Semafor, 2026-01-30)
 38. [G42 CEO Peng Xiao and the New York Times report on China ties](https://fortune.com/2023/11/29/g42-uae-abu-dhabi-ai-ceo-peng-xiao-new-york-times-report-china/) (Fortune, 2023-11-29)
 39. [WSJ: UAE wins AI chip access; G42 to reincorporate as US firm](https://aiweekly.co/alerts/wsj-uae-wins-ai-chip-access-g42-to-reincorporate-as-us-firm) (AI Weekly, 2026)
+40. [TikTok divestiture deal closes](https://axios.com/2026/01/23/tiktok-deal-trump-app-ban) (Axios, 2026-01-23)
+41. [TikTok U.S. deal closes with Silver Lake, Oracle](https://www.hollywoodreporter.com/business/digital/tiktok-us-deal-closes-silver-lake-oracle-1236481939/) (The Hollywood Reporter, 2026-01-22)
+42. [G42 weighs US ownership to secure chip access](https://mobileworldlive.com/ai-cloud/g42-weighs-us-ownership-to-secure-chip-access) (Mobile World Live, 2026-09)
+43. [Trump denies involvement in $500M UAE WLFI stake](https://cointelegraph.com/news/trump-denies-involvement-500m-uae-wlfi-stake) (Cointelegraph, 2026-02)
 
 ## Full report
 
@@ -464,7 +472,7 @@ Research note: direct fetches of most news sites were blocked in this environmen
   - Oracle, Silver Lake and MGX each own 15% of TikTok USDS Joint Venture LLC.
   - Affiliates of existing ByteDance investors own 30.1%.
   - ByteDance retains 19.9%.
-- **Closing:** Reports date it to about 2026-01-22, after Chinese approval.
+- **Closing:** closed on 2026-01-22 (audit: Axios, Hollywood Reporter). The board named Adam Presser CEO; MGX's David Scott holds a board seat.
 - **Approvals:** The required US approval was the president's own determination under the statute. MGX's price was not disclosed.
 
 #### 5. MGX's investments in OpenAI, xAI and Anthropic: confirmed
@@ -584,3 +592,12 @@ Research note: direct fetches of most news sites were blocked in this environmen
 38. Fortune, G42 CEO Peng Xiao and NYT report on China ties, 2023-11-29. https://fortune.com/2023/11/29/g42-uae-abu-dhabi-ai-ceo-peng-xiao-new-york-times-report-china/
 39. AI Weekly, WSJ: G42 to reincorporate as a US firm, 2026. Single source, unverified. https://aiweekly.co/alerts/wsj-uae-wins-ai-chip-access-g42-to-reincorporate-as-us-firm
 40. Bloomberg, Lunate takes on G42's China fund, 2024-07-08. https://www.bloomberg.com/news/articles/2024-07-08/abu-dhabi-investment-firm-lunate-takes-on-ai-firm-g42-s-china-fund
+
+### Audit (second review, Nov 2026)
+
+Result: **upheld** (verdict and confidence unchanged).
+
+- **TikTok:** closing on 2026-01-22 confirmed; 15% each for Oracle, Silver Lake and MGX, ByteDance 19.9%; CEO Adam Presser; MGX's chief strategy and safety officer David Scott on the seven-member board. https://axios.com/2026/01/23/tiktok-deal-trump-app-ban ; https://www.hollywoodreporter.com/business/digital/tiktok-us-deal-closes-silver-lake-oracle-1236481939/
+- **G42 reincorporation:** still unconfirmed as of mid-Nov 2026. Bloomberg (about 2026-09-04) reported only exploratory talks to sell a US-majority stake or form a US vehicle before the licence-free window ends (about April 2027); G42 has not confirmed. https://mobileworldlive.com/ai-cloud/g42-weighs-us-ownership-to-secure-chip-access . The UAE's 10 Jul 2026 move to Country Group A:5 is documented in C80 (Senate Banking minority statement), so it is no longer described as unverified.
+- **Aryam/WLF:** $500M for 49%, $250M upfront, $187M to Trump entities matched fresh coverage; WLF spokesman David Wachsman confirmed the investment and Trump denied knowledge. https://cointelegraph.com/news/trump-denies-involvement-500m-uae-wlfi-stake
+- Not re-checked: StringZ/OCC, MGX AI-round roles, Larkin.

@@ -101,9 +101,11 @@ Documented: Josh Gruenbaum, as GSA's FAS commissioner, arranged early meetings w
 - Some senior GSA officials reportedly did not know about it.
 - We could not see his OGE 278 form.
 - Rated unverified only because it rests on one outlet seen secondhand; the WSJ is credible and nobody denies the investment itself.
+- Audit: the WSJ's own Threads post ('Disclosure documents show Josh Gruenbaum was an investor in a Thrive Capital fund while the firm's portfolio companies were up for contracts') and an Investing.com relay ('DOGE official discussed contracts tied to firm he invested in, WSJ reports') confirm that the WSJ published the story; the investment is still one outlet's reporting.
+- A GSA official told the WSJ that Gruenbaum recused himself and did not advocate for Ramp specifically; a contracting-news summary (samsearch/Govly, single-source) adds that he was subject to an internal GSA review of his Ramp communications in Feb 2026.
 - Amounts: $100,001-$250,000; $194M
-- Dates: late May 2026; 2026-05-31
-- Sources: [10](https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/) [11](https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract) [12](https://www.edgen.tech/es/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract) [13](https://econotimes.com/Trump-Advisers-Investment-in-Thrive-Capital-Draws-Scrutiny-Over-Federal-Contracts-1743076) [14](https://en.wikipedia.org/wiki/Josh_Gruenbaum)
+- Dates: late May 2026; 2026-05-31; Feb 2026
+- Sources: [10](https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/) [11](https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract) [12](https://www.edgen.tech/es/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract) [13](https://econotimes.com/Trump-Advisers-Investment-in-Thrive-Capital-Draws-Scrutiny-Over-Federal-Contracts-1743076) [14](https://en.wikipedia.org/wiki/Josh_Gruenbaum) <https://www.threads.com/@wsj/post/DY-JanlFPIw/disclosure-documents-show-josh-gruenbaum-was-an-investor-in-a-thrive-capital/> <https://ca.investing.com/news/economy-news/doge-official-discussed-contracts-tied-to-firm-he-invested-in-wsj-reports-4667420>
 
 ### 4. GSA later awarded Thrive-backed Databricks a sole-source contract.
 
@@ -115,8 +117,9 @@ Documented: Josh Gruenbaum, as GSA's FAS commissioner, arranged early meetings w
 - Per the WSJ as relayed, the award came about ten months after the investment, and Gruenbaum says he recused himself.
 - What this does not show: no source says Gruenbaum signed or steered this order, and a $1.8M software-services order is immaterial to a ~$100B+ company.
 - The issue is the appearance of a conflict and whether the recusal was effective.
+- Audit: HigherGov, govcontractfinder and samsearch mirrors again show Databricks Federal LLC, order 47QPCA26F0011, ceiling $1,824,000, five months, one bidder, posted 10 Feb 2026 by TTS.
 - Amounts: $1,824,000; $18M; $1.8M; $10B; $62B
-- Dates: 2026-02-10; Dec 2024
+- Dates: 2026-02-10; Dec 2024; 10 Feb 2026
 - Sources: [15](https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/) [16](https://govcontractfinder.com/contracts/sole-source-justification-for-databricks-engineering-service-47qpca26f0011) [17](https://www.gunder.com/en/news-insights/client-news/gunderson-dettmer-represents-thrive-capital-in-leading-databricks-dollar10b-series-j) [18](https://www.alternativeswatch.com/2024/12/17/databricks-raises-10-billion-dollars-series-j-round-62-billion-valuation-thrive-capital-andreessen/) [10](https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/) [11](https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract)
 
 ### 5. GSA's administrator blocked a Ramp award in April 2026 and asked Gruenbaum to step aside; he then left FAS.
@@ -205,6 +208,7 @@ Documented: Josh Gruenbaum, as GSA's FAS commissioner, arranged early meetings w
 - A documented relationship is not proof of wrongdoing; no source alleges that the Databricks order was improperly justified or that Jared Kushner had any role.
 - Disclosure: Anthropic, maker of the model that produced this report, is one of the OneGov vendors.
   - It is treated like every other company here.
+- GSA official (per WSJ, relayed): Gruenbaum recused himself from the procurement and did not advocate for Ramp's business specifically.
 
 ## People and organisations
 
@@ -536,3 +540,12 @@ Documented: Josh Gruenbaum, as GSA's FAS commissioner, arranged early meetings w
 - Which vehicle the "blocked" Ramp award was in, and who won next-generation SmartPay.
 - Gruenbaum's OGE 278 filings and recusal memos, including whether the recusal covered OneGov and OpenAI matters.
 - A systematic SAM.gov match of Thrive portfolio companies against GSA awards for 2025-26.
+
+### Audit (second review, Nov 2026)
+
+Result: **upheld**. Re-checked: the Databricks order ceiling; the WSJ report of Gruenbaum's Thrive stake; his recusal.
+
+- **Databricks order.** Order 47QPCA26F0011 (Databricks Federal LLC, TTS, posted 10 Feb 2026, five months, one bidder) has a ceiling of $1,824,000 in HigherGov, govcontractfinder and samsearch. The "$18M" figure is still wrong.
+- **Thrive stake.** The WSJ's own Threads post says disclosure documents show Gruenbaum invested in "a Thrive Capital fund" while its portfolio companies were up for contracts. An Investing.com relay ("DOGE official discussed contracts tied to firm he invested in, WSJ reports") confirms that the WSJ published the story. It is still one outlet's reporting, so the rating stays unverified. Note that the WSJ post says "fund", while relays describe a Databricks-linked SPV.
+- **Recusal and Ramp.** A GSA official told the WSJ that Gruenbaum recused himself and did not advocate for Ramp specifically; this is added to the denials. A contracting-news summary (single-source) reports an internal GSA review of his Ramp communications in Feb 2026.
+- **New sources.** https://www.threads.com/@wsj/post/DY-JanlFPIw/disclosure-documents-show-josh-gruenbaum-was-an-investor-in-a-thrive-capital/ ; https://ca.investing.com/news/economy-news/doge-official-discussed-contracts-tied-to-firm-he-invested-in-wsj-reports-4667420 ; https://samsearch.co/government-contracting-news/scrutiny-on-gsas-gruenbaum-highlights-ethics-in-federal-contracting-105931 ; https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/

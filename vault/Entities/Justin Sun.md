@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Sun"
-connections: 30
-claims: 14
+connections: 31
+claims: 15
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 14 claims |
-| Connections | 30 |
+| Appears in | 15 claims |
+| Connections | 31 |
 | Also known as | Sun |
 
 ## How other claims describe it
@@ -43,6 +43,7 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 
@@ -58,7 +59,7 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[Justin Sun]] *invested $75M in* [[World Liberty Financial]] · 2025-01 · $75M · [[C05 Justin Sun, WLF and the SEC|C05]] [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Justin Sun]] *bought $45M tranche (up to ~$33.75M to DT Marks, inferred)* [[WLFI token]] · 2025-01-20 · $45M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Justin Sun]] *top holder of* [[$TRUMP meme coin]] · 2025-05 · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Justin Sun]] *top holder; pledged $100M buy* [[$TRUMP meme coin]] · 2025-07-09 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Justin Sun]] *top holder; pledged $100M buy (execution unverified)* [[$TRUMP meme coin]] · 2025-07-09 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Justin Sun]] *pledged $10M share purchase (completion unverified)* [[ALT5 Sigma]] · 2025-09-05 · $10M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 
 ### Ownership (6)
@@ -70,9 +71,10 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[Justin Sun]] *founder of* [[Tron]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Rainberry]] *Sun-linked company* [[Justin Sun]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 
-### Regulatory (7)
+### Regulatory (8)
 
 - [[Securities and Exchange Commission]] *sued for fraud, market manipulation and unregistered securities* [[Justin Sun]] · 2023-03-22 · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Securities and Exchange Commission]] *jointly sought stay* [[Justin Sun]] · 2025-02-26 · [[C69 Master timeline money events versus government actions|C69]]
 - [[Securities and Exchange Commission]] *jointly sought stay to explore resolution* [[Justin Sun]] · 2025-02-26 · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Securities and Exchange Commission]] *sought stay of fraud case* [[Justin Sun]] · 2025-02-26 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *dismissed claims; Rainberry paid $10M* [[Justin Sun]] · 2026-03 · $10M · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]

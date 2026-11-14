@@ -84,6 +84,7 @@ The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Ho
 - Each brother also bought about $1M in the $13.5M placement priced at $3.47 per unit.
 - 13G filings show 966,138 shares each (6.71%) as of Feb. 21, 2025, plus 432,276 warrant shares each, putting each near 10% fully diluted.
 - Their exact cost basis is not disclosed.
+- Barron's noted the 13Gs excluded the 432,276 warrant shares as 'not currently exercisable due to certain beneficial ownership limitations', which kept each brother below the 10% insider threshold.
 - Amounts: about $1M; $13.5M; $3.47; 6.71%; 10%
 - Dates: Feb. 10, 2025; Feb. 21, 2025
 - Sources: [1](https://www.sec.gov/Archives/edgar/data/12239/000121390026036897/ea0283159-10k_domin.htm) [3](https://itiger.com/news/2516537088) [2](https://www.itiger.com/news/2560137003) [4](https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares)
@@ -94,12 +95,12 @@ The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Ho
 
 - DOMH was under $1 in December 2024.
 - It rose about 529-580% in the six weeks before the Feb. 11 announcement, jumped as much as 84% on the day, and gained about 300% in the week.
-- Forbes found daily volume went from about 11,500 to about 1.2M shares from Dec. 30.
+- Forbes found daily volume went from about 11,500 to about 1.2M shares from Dec. 30; TipRanks gave different figures (under 2,000 to over 200,000 shares in the days before), so volume numbers vary by outlet and window.
 - Most of the spike preceded the public news.
 - The stock ended 2025 just under $5.
 - Amounts: under $1; about 529-580%; 84%; about 300%; under $5
 - Dates: December 2024; Feb. 11; Dec. 30
-- Sources: [3](https://itiger.com/news/2516537088) [6](https://www.bloomberg.com/news/articles/2025-02-11/trump-s-sons-back-friend-s-penny-stock-spurring-84-price-jump) [7](https://www.axios.com/2025/02/14/trump-dominari-stock) [8](https://www.joemygod.com/2025/03/forbes-trump-sons-suspected-of-insider-trading/) [5](https://www.tipranks.com/news/the-fly/trading-in-obscure-stocks-soared-before-trump-appointments-disclosed-ft-says) [9](https://www.biospace.com/press-releases/dominari-2025-revenue-surges-487-in-2025-balance-sheet-strengthens-significantly)
+- Sources: [3](https://itiger.com/news/2516537088) [6](https://www.bloomberg.com/news/articles/2025-02-11/trump-s-sons-back-friend-s-penny-stock-spurring-84-price-jump) [7](https://www.axios.com/2025/02/14/trump-dominari-stock) [8](https://www.joemygod.com/2025/03/forbes-trump-sons-suspected-of-insider-trading/) [5](https://www.tipranks.com/news/the-fly/trading-in-obscure-stocks-soared-before-trump-appointments-disclosed-ft-says) [9](https://www.biospace.com/press-releases/dominari-2025-revenue-surges-487-in-2025-balance-sheet-strengthens-significantly) [40](https://www.tipranks.com/news/trump-family-appointments-spark-suspicious-surge-in-2-stocks-before-news-breaks)
 
 ### 3. Dominari is based in Trump Tower.
 
@@ -184,6 +185,7 @@ The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Ho
 - Don Jr. is on the board with about 300,000 shares (about $3M).
 - The stock fell about 20-24% on debut and about 30% in two days.
 - No Dominari role was found.
+- The House CCP committee's letters went to three underwriters: Dominari (11 of 29 IPOs), Revere (12 of 40) and D. Boral Capital (10 of 30+), the last being Dominari's co-lead on the sons' SPAC IPO.
 - Amounts: about $179M; about $3M; about 20-24%; about 30%
 - Dates: July 2025
 - Sources: [27](https://www.gurufocus.com/news/2979153/grabagun-a-mobilefocused-online-firearms-retailer-and-defender-of-the-second-amendment-completes-business-combination-with-colombier-ii-and-will-begin-trading-on-nyse-clbr-stock-news) [28](https://wtop.com/news/2025/07/the-online-gunseller-with-donald-trump-jr-on-its-board-makes-its-market-debut-shares-plunge) [29](https://www.businessinsider.nl/stock-of-an-online-gun-seller-backed-by-donald-trump-jr-drops-30-in-its-2nd-day-of-trading/)
@@ -334,8 +336,12 @@ The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Ho
 - **FINRA's $800K fine on Revere Securities and Kyle Wool's tenure**
   - Wool ran Revere from 2022; it is unclear whether the sanctioned small-cap IPO conduct overlaps his tenure.
   - [[Revere Securities LLC]] [[Kyle Wool]] [[FINRA]] · [Source](https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and)
+- **Dominari's 10 million executive options granted on 10 Feb 2025, the day of the Trump sons' advisory agreements**
+  - A third-party analysis alleges the compensation committee granted CEO Hayes and President Wool 10M options on 10 Feb 2025 while holding material nonpublic information (the announcement came on 11 Feb).
+  - This is unverified; it should be checked against the 2026 proxy.
+  - [[Dominari Holdings Dominari Securities]] [[Donald Trump Jr]] [[Eric Trump]] · [Source](https://www.panabee.com/news/dominari-executive-compensation-2026)
 
-## Sources (38)
+## Sources (40)
 
 1. [Dominari Holdings Form 10-K FY2025](https://www.sec.gov/Archives/edgar/data/12239/000121390026036897/ea0283159-10k_domin.htm) (SEC EDGAR, 2026)
 2. [How an Obscure Firm Bet on the Trumps and Became Their Go-To Dealmaker (syndicated)](https://www.itiger.com/news/2560137003) (Wall Street Journal, 2025-08-19)
@@ -375,6 +381,8 @@ The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Ho
 36. [Trump sons invested in US group developing $1.1B tungsten project in Kazakhstan: FT](https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/) (Mining.com, 2025-11)
 37. ['Libelous' NYT report tying Trump family to government-backed deal sparks legal demand](https://foxnews.com/politics/libelous-nyt-report-tying-trump-family-government-backed-deal-sparks-legal-demand) (Fox News, 2025-11)
 38. [Eric Trump Denies Involvement in Tron Nasdaq Deal Despite Board Role](https://decrypt.co/325516/eric-trump-denies-involvement-tron-nasdaq-deal) (Decrypt, 2025-06)
+39. [FINRA Fines Revere Securities $800,000 for Small-Cap IPO-Related AML and Supervisory Failures](https://mondovisione.com/news/finra-fines-revere-securities-800000-for-small-cap-ipo-related-aml-and-supervi-2026106/) (Mondo Visione, 2026-10)
+40. [Trump family appointments spark suspicious surge in 2 stocks before news breaks](https://www.tipranks.com/news/trump-family-appointments-spark-suspicious-surge-in-2-stocks-before-news-breaks) (TipRanks, 2025-02)
 
 ## Full report
 
@@ -518,3 +526,13 @@ C18 and C27 already established the American Bitcoin structure and the SPAC term
 30. Wendy Siegelman (Substack), "Eric and Donald Trump Jr. ... Dominari ... Honig," 2025-03. https://wendysiegelman.substack.com/p/eric-and-donald-trump-jr-dominari-honig
 31. Mining.com (citing FT), "Trump sons invested in US group developing $1.1B tungsten project in Kazakhstan," 2025-11. https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/ ; Fox News, Trump Organization legal demand to NYT. https://foxnews.com/politics/libelous-nyt-report-tying-trump-family-government-backed-deal-sparks-legal-demand
 32. Decrypt, "Eric Trump Denies Involvement in Tron Nasdaq Deal Despite Board Role," 2025-06. https://decrypt.co/325516/eric-trump-denies-involvement-tron-nasdaq-deal
+
+### Audit (second-opinion pass, Nov 2026)
+
+Result: **upheld**.
+
+- **Stakes and placement.** Re-confirmed: 13Gs filed 24 Feb 2025 show 966,138 shares (6.71%) each, and the placement units were priced at $3.47. Barron's noted the filings left out 432,276 warrant shares each as "not currently exercisable due to certain beneficial ownership limitations", which kept each brother under the 10% insider threshold.
+- **Run-up.** Re-confirmed: the stock rose 529% from 31 Dec to 10 Feb (Barron's), about 580% over six weeks (FT), and as much as 84% on the day (Bloomberg). Volume figures vary by outlet: TipRanks has under 2,000 shares rising to over 200,000, against Forbes's 11,500 to 1.2M.
+- **Scrutiny.** The House CCP letters (8 Mar 2026) went to Dominari (11 of 29 IPOs), Revere (12 of 40) and D. Boral Capital (10 of 30+). Boral co-led the sons' SPAC IPO with Dominari (Caixin, 11 Mar 2026). Trade coverage dates the FINRA fine on Revere to early Oct 2026. Neither the letters nor the fine is an action against Dominari or the sons.
+- **Pay.** Bloomberg (27 Jan 2026) confirms about $34M for Hayes and about $32M for Wool. Much of it was non-cash stock compensation ($55M recorded firm-wide in 2025).
+- **New lead (unverified).** A third-party analysis site alleges the board granted Hayes and Wool 10M options on 10 Feb 2025, the day before the Trump announcement. This needs checking against the proxy.

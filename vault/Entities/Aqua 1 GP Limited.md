@@ -33,4 +33,4 @@ BVI entity, formerly a Web3Port entity, renamed about two weeks before the Aqua 
 
 - [[Aqua 1 GP Limited]] *general-partner vehicle of* [[Aqua 1 Foundation]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Web3Port]] *BVI entity renamed Aqua 1 GP Limited (per NYT)* [[Aqua 1 GP Limited]] · 2025-06 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Web3Port]] *BVI entity renamed to* [[Aqua 1 GP Limited]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Web3Port]] *BVI entity renamed to (NYT, from corporate records)* [[Aqua 1 GP Limited]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]

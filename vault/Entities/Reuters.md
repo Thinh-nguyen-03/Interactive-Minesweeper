@@ -41,7 +41,7 @@ Reported Tanbreez lobbying, EXIM LOI, stake talks, AOMC placement
 
 ### Media (5)
 
-- [[Reuters]] *found 36 of top 50 wallets likely foreign (~$804M)* [[WLFI token]] · 2025-10-28 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Reuters]] *found 36 of top 50 wallets likely foreign (~$804M; single-source analysis)* [[WLFI token]] · 2025-10-28 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Reuters]] *reported AOMC placement role* [[Cantor Fitzgerald]] · 2026-04-08 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Reuters]] *estimated at least $2.3B family earnings from four crypto ventures* [[Donald Trump]] · 2026-06-09 · $2.3B · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[Reuters]] *reported case files on forged deeds* [[SPAK (Albanian Special Anti-Corruption Structure)]] · 2026-07-11 · [[C45 Kushner's Albania and Serbia developments|C45]]

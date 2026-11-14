@@ -166,9 +166,10 @@ For most named partners, a family deal and a favourable US decision in the same 
 - CREW frames this as Reliance 'getting wins'.
 - No source shows the fee influenced the licence.
 - That the two are connected is CREW's framing, and our own pairing is inferred.
+- Audit note: the Venezuelan-oil licence is reported by Reuters from two anonymous sources (13 Feb 2026); no public OFAC statement was found, so treat it as single-source.
 - Amounts: 50%; 18%; $10M
 - Dates: Aug 2025; Feb 2026; 13 Feb 2026
-- Sources: [16](https://www.thestatesman.com/business/reliance-real-estate-unit-pays-trump-10-million-fee-for-mumbai-project-1503447379.html) [17](https://www.citizensforethics.org/reports-investigations/crew-investigations/indias-reliance-industries-paid-trump-10-million-before-he-took-office-it-keeps-getting-wins-from-trump/) [18](https://finance.yahoo.com/news/exclusive-indias-reliance-wins-us-083951862.html) <https://businesstoday.in/real-estate/story/trump-towers-is-coming-to-hyderabad-65-storey-800-foot-towers-set-to-become-south-indias-tallest-548563-2026-08-11>
+- Sources: [16](https://www.thestatesman.com/business/reliance-real-estate-unit-pays-trump-10-million-fee-for-mumbai-project-1503447379.html) [17](https://www.citizensforethics.org/reports-investigations/crew-investigations/indias-reliance-industries-paid-trump-10-million-before-he-took-office-it-keeps-getting-wins-from-trump/) [18](https://finance.yahoo.com/news/exclusive-indias-reliance-wins-us-083951862.html) <https://businesstoday.in/real-estate/story/trump-towers-is-coming-to-hyderabad-65-storey-800-foot-towers-set-to-become-south-indias-tallest-548563-2026-08-11> [44](https://www.business-standard.com/economy/news/ril-gets-us-license-to-buy-venezuelan-crude-oil-126021301510_1.html) [45](https://www.ibtimes.co.uk/scrutiny-over-10-million-payment-reliance-trump-1787530)
 
 ### 7. Aryam / MGX / G42 (UAE, Tahnoon network): money into WLF and USD1, then the US chip approvals.
 
@@ -237,9 +238,10 @@ For most named partners, a family deal and a favourable US decision in the same 
 - Powerus had earlier licensed its interceptor in India (Paras Defence).
 - US decisions: the 31 Jul 2025 trade deal set 19%, below India's rate at the time, plus Trump's oil-reserves pledge; Munir's White House lunch (18 Jun 2025); and paid lobbying by three Trump-tied firms (C64).
 - The Powerus order runs the other way, Pakistani state money into a family-linked firm, and is the clearest foreign-government payment in this set. Causation is not shown.
+- Audit note: outlets differ on the buyer: Reuters (via Arab News/Tribune) describes an Army MoU that includes an initial order, while Quwa and The Defense Post call it a 'limited procurement order' from the Ministry of Defence.
 - Amounts: 19%
 - Dates: 26 Apr 2025; 14 Jan 2026; Aug 2025; mid-Sept 2026; 31 Jul 2025
-- Sources: [23](https://finance.yahoo.com/news/exclusive-pakistan-partner-world-liberty-062318246.html) [24](https://www.arabnews.pk/node/2629279) [25](https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india) [26](https://thedefensepost.com/2026/09/24/pakistan-drone-order-us/) [28](https://www.arabnews.com/node/2610999/pakistan)
+- Sources: [23](https://finance.yahoo.com/news/exclusive-pakistan-partner-world-liberty-062318246.html) [24](https://www.arabnews.pk/node/2629279) [25](https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india) [26](https://thedefensepost.com/2026/09/24/pakistan-drone-order-us/) [28](https://www.arabnews.com/node/2610999/pakistan) [41](https://tribune.com.pk/story/2587065/pakistan-signs-crypto-deal-linked-to-trump-family-to-explore-stablecoin-payments?amp=1) [42](https://www.geo.tv/latest/682471-pakistan-army-us-drone-maker-powerus-sign-mou-including-initial-order) [43](https://quwa.org/pakistan-defence-news/powerus-wins-pakistan-ministry-of-defence-drone-order-and-mou/)
 
 ### 12. El Salvador: a Trump-family business deal paired with US favours (CECOT deportations, bitcoin).
 
@@ -408,7 +410,7 @@ For most named partners, a family deal and a favourable US decision in the same 
 - [[Konstantin Sokolov]] *donated to* [[White House ballroom]] · 2025/2026 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Tripp+ enterprise fund]] *authorized to invest in* [[Azerbaijan]] · 2026 · $201M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[SoftBank]] *leads first-wave projects in* [[US-Japan trade deal ($550B vehicle)]] · 2026-02-18 · $33.3B · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
-- [[Pakistan]] *Ministry of Defence placed initial drone order; Army MoU* [[Powerus Corp]] · 2026-09 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Pakistan]] *initial drone order (Army per Reuters; MoD per Quwa/Defense Post) plus Army MoU* [[Powerus Corp]] · 2026-09 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 
 ### Ownership (13)
 
@@ -433,7 +435,7 @@ For most named partners, a family deal and a favourable US decision in the same 
 - [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Binance]] · 2025-05-29 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[US Department of Commerce]] *licensed up to 35,000 GB300-equivalent chips* [[G42]] · 2025-11-20 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
-- [[US Treasury]] *issued licence to buy Venezuelan oil (Reuters, anonymous)* [[Reliance Industries]] · 2026-02-13 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[US Treasury]] *issued licence to buy Venezuelan oil (Reuters, anonymous sources; single-source)* [[Reliance Industries]] · 2026-02-13 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 
 ### Advisory (1)
 
@@ -449,7 +451,7 @@ For most named partners, a family deal and a favourable US decision in the same 
 
 ### Legal (1)
 
-- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C69 Master timeline money events versus government actions|C69]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 
 ### Commercial (11)
 
@@ -462,7 +464,7 @@ For most named partners, a family deal and a favourable US decision in the same 
 - [[Tau-Ken Samruk]] *granted 70% of tungsten project* [[Cove Kaz Capital Cove Capital]] · 2025-11-06 · $1.1B · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Tribeca Developers]] *main Indian licensee of* [[Trump Organization]] · 2025-2026 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[SC Financial Technologies]] *signed USD1 cross-border payments MoU with* [[Pakistan]] · 2026-01-14 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
-- [[Zach Witkoff]] *signed Pakistan MoU for* [[SC Financial Technologies]] · 2026-01-14 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Zach Witkoff]] *signed Pakistan MoU for* [[SC Financial Technologies]] · 2026-01-14 · [[C69 Master timeline money events versus government actions|C69]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Powerus Corp]] *licensed interceptor technology in India to* [[Paras Defence and Space Technologies]] · 2026-06 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 
 ## Leads not covered here
@@ -481,7 +483,7 @@ For most named partners, a family deal and a favourable US decision in the same 
   - A Trump-sons-backed drone maker took a Pakistani state order three months after licensing its tech in India; export-licence (ITAR/EAR) approvals for the Pakistan sale have not been reported.
   - [[Powerus Corp]] [[Pakistan]] [[Paras Defence and Space Technologies]] [[Eric Trump]] [[Donald Trump Jr]] · [Source](https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india)
 
-## Sources (40)
+## Sources (45)
 
 1. [UAE billionaire Hussain Sajwani to invest $20 billion in US data centres, Trump says](https://www.thenationalnews.com/business/2025/01/07/uaes-damac-to-invest-20-billion-in-us-data-centres/) (The National, 2025-01-07)
 2. [Trump announces Hussain Sajwani $20 billion US data centers investment](https://fortune.com/2025/01/07/trump-announces-hussain-sajwani-20-billion-us-data-centers-investment/) (Fortune/AP, 2025-01-07)
@@ -523,6 +525,11 @@ For most named partners, a family deal and a favourable US decision in the same 
 38. [Metaplanet appoints Eric Trump to newly formed strategic advisory board](https://decrypt.co/311041/metaplanet-appoints-eric-trump-to-newly-formed-strategic-advisory-board) (Decrypt, 2025-03-21)
 39. [Eric Trump rallies Metaplanet shareholders as firm plans bitcoin raise](https://www.malaymail.com/news/money/2025/09/01/eric-trump-rallies-metaplanet-shareholders-as-firm-plans-rm374b-bitcoin-raise/189657) (Malay Mail, 2025-09-01)
 40. [SoftBank and Hitachi among investors in $550 billion U.S. plan](https://investinglive.com/news/softbank-and-hitachi-among-investors-in-550-billion-us-plan-20251028) (investingLive, 2025-10-28)
+41. [Pakistan signs crypto deal linked to Trump family to explore stablecoin payments](https://tribune.com.pk/story/2587065/pakistan-signs-crypto-deal-linked-to-trump-family-to-explore-stablecoin-payments?amp=1) (The Express Tribune, 2026-01-14)
+42. [Pakistan Army, US drone maker Powerus sign MoU including initial order](https://www.geo.tv/latest/682471-pakistan-army-us-drone-maker-powerus-sign-mou-including-initial-order) (Geo News, 2026-09-17)
+43. [Powerus wins Pakistan Ministry of Defence drone order and MoU](https://quwa.org/pakistan-defence-news/powerus-wins-pakistan-ministry-of-defence-drone-order-and-mou/) (Quwa, 2026-09)
+44. [RIL gets US licence to buy Venezuelan crude oil](https://www.business-standard.com/economy/news/ril-gets-us-license-to-buy-venezuelan-crude-oil-126021301510_1.html) (Business Standard, 2026-02-13)
+45. [Watchdogs question India's Reliance Industries' Trump 'fee' after string of US government wins](https://www.ibtimes.co.uk/scrutiny-over-10-million-payment-reliance-trump-1787530) (IBTimes UK, 2026)
 
 ## Full report
 
@@ -646,3 +653,11 @@ This report builds on C31, C45, C56, C57, C59, C64 and C67 and does not repeat t
 38. Decrypt, Eric Trump joins Metaplanet's advisory board, 2025-03-21. https://decrypt.co/311041/metaplanet-appoints-eric-trump-to-newly-formed-strategic-advisory-board
 39. Malay Mail, Eric Trump and the Metaplanet raise, 2025-09-01. https://www.malaymail.com/news/money/2025/09/01/eric-trump-rallies-metaplanet-shareholders-as-firm-plans-rm374b-bitcoin-raise/189657
 40. investingLive, SoftBank in the $550B plan, 2025-10-28. https://investinglive.com/news/softbank-and-hitachi-among-investors-in-550-billion-us-plan-20251028
+
+### Audit (second review, Nov 2026)
+
+Result: **upheld**.
+- Re-checked: the 14 Jan 2026 USD1 MoU (Aurangzeb and Zach Witkoff signed, Sharif and Munir witnessed, non-binding); the Powerus Pakistan MoU and order of 16-17 Sep 2026 (value undisclosed); Reliance 4IR Realty's $10M development fee; the Reuters report of a Reliance Venezuelan-oil licence.
+- **Powerus buyer:** outlets differ. Reuters (via Arab News/Tribune) describes an Army MoU that includes an initial order. Quwa and The Defense Post call it a "limited procurement order" from the Ministry of Defence.
+- **Reliance licence:** **single-source**. Reuters cites two anonymous sources (13 Feb 2026), and no public OFAC statement was found.
+- New sources: Express Tribune (https://tribune.com.pk/story/2587065/pakistan-signs-crypto-deal-linked-to-trump-family-to-explore-stablecoin-payments?amp=1); Geo (https://www.geo.tv/latest/682471-pakistan-army-us-drone-maker-powerus-sign-mou-including-initial-order); Quwa (https://quwa.org/pakistan-defence-news/powerus-wins-pakistan-ministry-of-defence-drone-order-and-mou/); Business Standard (https://www.business-standard.com/economy/news/ril-gets-us-license-to-buy-venezuelan-crude-oil-126021301510_1.html); IBTimes UK (https://www.ibtimes.co.uk/scrutiny-over-10-million-payment-reliance-trump-1787530).

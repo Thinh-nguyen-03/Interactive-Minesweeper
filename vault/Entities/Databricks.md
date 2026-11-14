@@ -36,5 +36,5 @@ Data/AI company; Thrive led its $10B Series J (Dec 2024); won $1.824M GSA sole-s
 
 ### Commercial (2)
 
-- [[General Services Administration]] *reported sole-source contract (single-source)* [[Databricks]] · 2026 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[General Services Administration]] *sole-source order 47QPCA26F0011, ceiling $1,824,000* [[Databricks]] · 2026-02 · $1.82M · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[General Services Administration]] *sole-source order, $1,824,000 ceiling (TTS/FAS, Feb 2026)* [[Databricks]] · 2026-02-10 · $1.82M · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

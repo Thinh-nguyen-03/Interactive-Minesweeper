@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Binance US"
-connections: 34
-claims: 16
+connections: 35
+claims: 17
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 16 claims |
-| Connections | 34 |
+| Appears in | 17 claims |
+| Connections | 35 |
 | Also known as | Binance US |
 
 ## How other claims describe it
@@ -44,6 +44,7 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
@@ -106,13 +107,14 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[The Wall Street Journal]] *reported up to $5M success-fee offers* [[Binance]] · 2025-12 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Forbes]] *reported 87% USD1 concentration at* [[Binance]] · 2026-02-09 · [[C10 Binance driving USD1 adoption|C10]]
 
-### Commercial (8)
+### Commercial (9)
 
 - [[Binance]] *reportedly helped build tech for and promoted* [[USD1]] · 2025 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Binance]] *listed for spot trading* [[USD1]] · 2025-05-22 · [[C10 Binance driving USD1 adoption|C10]]
 - [[Binance]] *holds most of USD1 supply (~75-87%)* [[USD1]] · 2025-10 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Binance]] *ran up-to-20% APR booster promotion for holders of* [[USD1]] · 2025-12 · [[C10 Binance driving USD1 adoption|C10]]
 - [[Pakistan]] *MoU to explore tokenising up to $2B state assets* [[Binance]] · 2025-12 · $2B · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Binance]] *converted B-Token reserves into* [[USD1]] · 2025-12-11 · [[C69 Master timeline money events versus government actions|C69]]
 - [[Binance]] *offered ~20% yield in* [[Binance USD1 yield promotions]] · [[C10 Binance driving USD1 adoption|C10]]
 - [[Binance]] *early lister of* [[USD1]] · [[C10 Binance driving USD1 adoption|C10]]
 - [[Binance]] *main venue (~85% of supply)* [[USD1]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]

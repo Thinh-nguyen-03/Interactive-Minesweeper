@@ -26,6 +26,6 @@ Yorkville Advisors partner, Yorkville Securities co-CEO; CFO of YICC and TVA III
 
 ### Commercial (3)
 
-- [[Troy Rillo]] *CFO; named CEO in Sept 2026 release* [[Texas Ventures Acquisition III Corp]] · 2025-09-18 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Troy Rillo]] *CFO; also CEO from Apr 22, 2026* [[Texas Ventures Acquisition III Corp]] · 2025-09-18 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Troy Rillo]] *CFO of* [[Yorkville International Capital Corp (YICC)]] · 2026-06 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Troy Rillo]] *co-CEO and director* [[Yorkville Securities]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]

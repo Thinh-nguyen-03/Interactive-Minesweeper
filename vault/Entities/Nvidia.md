@@ -2,8 +2,8 @@
 id: "nvidia"
 kind: "entity"
 type: "company"
-connections: 18
-claims: 9
+connections: 19
+claims: 10
 tags:
   - "entity"
   - "type/company"
@@ -15,16 +15,16 @@ AI-chip maker whose chips are allegedly diverted to China
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 9 claims |
-| Connections | 18 |
+| Appears in | 10 claims |
+| Connections | 19 |
 
 ## How other claims describe it
 
+- $25M anonymous ballroom commitment (Oct 2025, per WaPo)
 - Maker of the advanced AI chips exported to the UAE
 - Chip supplier for UAE licences and Stargate UAE.
 - AIP co-founder; chip supplier under UAE licences
 - Maker of the advanced AI chips exported to UAE
-- AI-chip maker whose exports Commerce licenses
 
 ## Appears in claims
 
@@ -36,13 +36,15 @@ AI-chip maker whose chips are allegedly diverted to China
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Relationships
 
-### Money (3)
+### Money (4)
 
 - [[Nvidia]] *invested $5B in* [[Intel]] · 2025-09 · $5B · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Nvidia]] *committed $25M anonymously (per WaPo)* [[White House ballroom]] · 2025-10 · $25M · [[C69 Master timeline money events versus government actions|C69]]
 - [[Donald Trump]] *bought shares ($1M-$5M on 2026-02-10, 278-T)* [[Nvidia]] · 2026-02-10 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Nvidia]] *committed, anonymously (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $25M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 

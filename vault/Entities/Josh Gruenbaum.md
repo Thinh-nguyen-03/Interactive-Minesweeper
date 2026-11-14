@@ -31,7 +31,7 @@ GSA Federal Acquisition Service commissioner Jan 2025-Apr 2026; ex-KKR/Moelis; G
 
 ### Money (2)
 
-- [[Josh Gruenbaum]] *reported investor in a Thrive fund (WSJ via aggregators; single-source)* [[Thrive Capital]] · 2025-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Josh Gruenbaum]] *reported $100,001-$250,000 investor in a Databricks-linked Thrive SPV (WSJ via aggregators; single-source); says he recused* [[Thrive Capital]] · 2025-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Josh Gruenbaum]] *reportedly invested $100,001-$250,000 in Databricks-linked Thrive SPV (single-source, WSJ)* [[Thrive Capital]] · 2025-03 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 
 ### Regulatory (3)

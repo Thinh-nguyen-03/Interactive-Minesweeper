@@ -86,7 +86,7 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Donald Trump Jr]] *investor (passive)* [[American Ventures]] · 2026 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *passive investor in* [[American Ventures]] · 2026 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[IB Challenger]] *made wedding payments via* [[Donald Trump Jr]] · 2026-05 · [[C76 Russia-linked money around the family and envoys|C76]]
-- [[Umar Kremlev]] *paid for parts of wedding celebrations (island rental, fireworks); later repaid* [[Donald Trump Jr]] · 2026-05 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Umar Kremlev]] *paid for parts of wedding celebrations (island rental, fireworks); Kremlev says repaid* [[Donald Trump Jr]] · 2026-05 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Donald Trump Jr]] *investor* [[American Ventures]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
 ### Ownership (30)
@@ -175,10 +175,11 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Peter Navarro]] *described as friend of* [[Donald Trump Jr]] · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Peter Navarro]] *friend (book dedication; prison visit)* [[Donald Trump Jr]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 
-### Legal (3)
+### Legal (4)
 
 - [[Donald Trump Jr]] *sole trustee with sole voting/investment power over* [[Donald J. Trump Revocable Trust]] · 2024-12 · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *lawyer sent cease-and-desist to (WSJ)* [[Gentry Beach]] · 2025-08 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Donald Trump Jr]] *lawyer reportedly sent cease-and-desist to (WSJ, single-source; Beach denies receipt)* [[Gentry Beach]] · 2025-08 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Donald Trump Jr]] *lawyer sent cease-and-desist over claimed business partnership (WSJ, single-source; Beach denies receipt)* [[Gentry Beach]] · 2025-08 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Todd Blanche]] *declined to investigate wedding payments to* [[Donald Trump Jr]] · 2026-09-16 · [[C76 Russia-linked money around the family and envoys|C76]]
 
 ### Media (6)

@@ -39,7 +39,7 @@ The core of the lead is documented. A June 28, 2026 NYT investigation (Lipton an
 
 - Perpetua Resources, ASP Isotopes and Westwater, all on the NYT list, have Cantor ties and federal support (partly accurate)
 - **Claim:** The brief groups MP Materials, Lithium Americas and Intel with the family-linked deals  
-  **Record:** The NYT list of 14 as reported does not include them, and no Trump- or Lutnick-family position in them was found.
+  **Record:** The NYT list of 14 as reported does not include them and no family-firm position was found. The one later link is Trump's personal portfolio buying Intel shares in Q1 2026, after the government stake (AP, 2026-05-19).
 - 'Around a dozen-plus' is the NYT's 'at least 14' companies; the $8.9B is support provided or under consideration (LOIs, conditional loans, warrants), not money disbursed.
 - USA Rare Earth's federal package is a non-binding LOI ($277M funding plus $1.3B loan for ~10% equity), with no price floor; Cantor's role was the parallel $1.5B private PIPE, not the government deal.
 - Kaz Resources' $1.6B is non-binding EXIM and DFC letters of interest; the Trump sons' stake is indirect, via a Skyline SPV, and not named in SEC filings.
@@ -57,6 +57,7 @@ The core of the lead is documented. A June 28, 2026 NYT investigation (Lipton an
 - The Cantor-TMC and Cantor-Critical Metals links are also real.
 - But MP Materials, Lithium Americas and Intel are not on the reported list and no family tie to them was found.
 - Family gains are largely unquantified, and no evidence shows influence; Commerce, the White House, Cantor and the Trump family deny wrongdoing.
+- Audit update: Trump's own accounts bought Intel shares in early 2026 after the government stake (AP, May 2026), a personal-portfolio link rather than a family firm in the deal; Cantor's role in American Ocean Minerals' >$150M placement is documented, while ties for Energy Fuels, Titan and Guardian Metal remain unverified.
 
 ## Lead investigated
 
@@ -173,27 +174,34 @@ The core of the lead is documented. A June 28, 2026 NYT investigation (Lipton an
 - ASP Isotopes: Cantor was a joint book-runner on its June 2025 $50M offering and covers it at Overweight.
 - The specific federal support counted for ASP was not identified in accessible sources.
 - Westwater: received EXIM financing for its graphite project in August 2026; the Cantor or family tie was not identified.
-- For Energy Fuels, Titan Mining, Guardian Metal Resources and American Ocean Minerals, the family tie and the federal action counted by the NYT could not be verified here.
+- Audit additions on the four less-covered names: American Ocean Minerals: Cantor Fitzgerald (chaired by Brandon Lutnick) and Citigroup arranged a private placement of more than $150M tied to its April 2026 merger with Odyssey Marine and act as its capital-markets advisers (Reuters, documented in C77); the federal action is a NOAA seabed permit review, advanced in July 2026.
+- Energy Fuels: the federal action is documented, a conditional OSC/Pentagon loan of about $725M for rare-earth expansion announced in June 2026, but no Trump- or Lutnick-family tie was found in accessible coverage beyond its inclusion on the NYT list.
+- Titan Mining: received EXIM financing for its Empire State Mines zinc-graphite expansion (about $15.8M per Mining.com; one commentary says $21M), but no family tie was found.
+- Guardian Metal Resources: a commentary source reports about $6.2M in Defense Department study money for a Nevada tungsten site; neither that nor a family tie was confirmed.
+- For Energy Fuels, Titan and Guardian the nature of the NYT-reported tie remains unverified here.
 - Amounts: $2.7B; $2.9B; $2.0B; $27; $50M
-- Dates: May 2026; June 2025; August 2026
-- Sources: [29](https://www.eenews.net/articles/feds-advance-2-7b-loan-for-idaho-gold-mine/) [30](https://pulse2.com/perpetua-resources-2-9-billion-exim-loan-approval-paired-with-574-2-million-cash-and-3000-gold-floor-ahead-of-h2-2026-stibnite-decision/) [31](https://quantisnow.com/i/asp-isotopes-inc-announces-pricing-of-50-million-underwritten-registered-direct-offering-of-common-6066866) [32](https://parameter.io/westwater-resources-wwr-stock-soars-88-on-25m-federal-financing-deal/) [33](https://www.metaltechnews.com/story/2026/08/12/tech-metals/exim-funds-three-critical-mineral-projects/2879.html) [1](https://www.cnbc.com/2026/07/31/senate-democrats-trump-lutnick-critical-mineral-deals.html)
+- Dates: May 2026; June 2025; August 2026; April 2026; July 2026
+- Sources: [29](https://www.eenews.net/articles/feds-advance-2-7b-loan-for-idaho-gold-mine/) [30](https://pulse2.com/perpetua-resources-2-9-billion-exim-loan-approval-paired-with-574-2-million-cash-and-3000-gold-floor-ahead-of-h2-2026-stibnite-decision/) [31](https://quantisnow.com/i/asp-isotopes-inc-announces-pricing-of-50-million-underwritten-registered-direct-offering-of-common-6066866) [32](https://parameter.io/westwater-resources-wwr-stock-soars-88-on-25m-federal-financing-deal/) [33](https://www.metaltechnews.com/story/2026/08/12/tech-metals/exim-funds-three-critical-mineral-projects/2879.html) [1](https://www.cnbc.com/2026/07/31/senate-democrats-trump-lutnick-critical-mineral-deals.html) [54](https://www.mining.com/energy-fuels-lands-725m-pentagon-loan-for-rare-earths-boost/) [55](https://www.mining.com/titan-mining-soars-on-15-8m-exim-funding-for-zinc-graphite-development/) [56](https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal)
 
 ### 8. The administration's equity stakes in MP Materials, Lithium Americas, Trilogy Metals and Intel are among the deals where Trump- or Lutnick-linked firms were positioned to profit.
 
 **Unverified**
 
 - The government actions are real.
-- In July 2025 the DoD took a preferred stake in MP Materials with an NdPr price floor and offtake.
-- In October 2025 DOE took about 5% of Lithium Americas plus 5% of the Thacker Pass JV in restructuring its loan.
-- In August 2025 the government took about 10% of Intel.
+- In July 2025 the DoD bought $400M of MP Materials convertible preferred stock (conversion at $30.03, about 15%, making it the largest shareholder), plus warrants, a 10-year $110/kg NdPr price floor and offtake, and a planned $150M loan.
+- In October 2025 DOE took warrants for about 5% of Lithium Americas plus 5% of the Thacker Pass JV with GM when restructuring its $2.26B loan (a $435M drawdown and $182M of deferred repayments).
+- On 2025-08-22 the government agreed to take 433.3M Intel shares (9.9%) for $8.9B at $20.47 a share, funded from unpaid CHIPS ($5.7B) and Secure Enclave ($3.2B) grants, plus a conditional 5% warrant; the stake is passive.
 - On 2025-10-06 the government took about 10% of Trilogy Metals for $35.6M, with warrants that could lift it to about 17.5%, alongside Ambler Road permits; Trilogy shares roughly tripled.
 - But MP Materials, Lithium Americas and Intel do not appear on the NYT list of 14 as reported, and this research found no reported Trump- or Lutnick-family position in them.
 - Trilogy is on the NYT list, but the nature of its family tie could not be confirmed from accessible sources.
 - Treat the brief's grouping of these stakes with the conflicted deals as unsubstantiated except for Trilogy.
 - The MP, Lithium Americas and Intel terms are stated from widely reported 2025 deal announcements and were not re-sourced in this pass.
-- Amounts: about 5%; 5%; about 10%; $35.6M; about 17.5%
-- Dates: July 2025; October 2025; August 2025; 2025-10-06
-- Sources: [20](https://www.northernminer.com/news/u-s-takes-10-trilogy-stake-in-alaska-push/1003894826/) [21](https://finance.yahoo.com/news/trilogy-metals-stock-explodes-on-news-of-10-stake-by-trump-admin-and-eo-ordering-permits-for-alaska-road-141434093.html) [22](https://www.ctvnews.ca/business/article/us-government-to-take-10-stake-in-canadian-mining-company-trilogy-metals/) [48](https://tokenpost.com/news/regulation/56727)
+- Audit addition: one Trump-family position in Intel has since been reported.
+- AP (2026-05-19) reported that Trump's own first-quarter 2026 periodic transaction report showed Intel purchases (one secondary source dates one to 2 March 2026), months after the government took its stake; a Trump spokesperson said third-party managers have 'sole and exclusive' authority over the portfolio.
+- This is a post-stake portfolio holding by Trump himself, not a family firm positioned in the deal, and no MP Materials or Lithium Americas holding by the family was found.
+- Amounts: $400M; $30.03; about 15%; $110; $150M
+- Dates: July 2025; October 2025; 2025-08-22; 2025-10-06; 2026-05-19
+- Sources: [20](https://www.northernminer.com/news/u-s-takes-10-trilogy-stake-in-alaska-push/1003894826/) [21](https://finance.yahoo.com/news/trilogy-metals-stock-explodes-on-news-of-10-stake-by-trump-admin-and-eo-ordering-permits-for-alaska-road-141434093.html) [22](https://www.ctvnews.ca/business/article/us-government-to-take-10-stake-in-canadian-mining-company-trilogy-metals/) [48](https://tokenpost.com/news/regulation/56727) [49](https://www.mining.com/mp-materials-lands-multi-billion-pentagon-deal/) [50](https://www.mining.com/web/us-government-to-take-5-stake-in-lithium-americas-and-joint-venture-with-gm-source-says/) [51](https://www.electrive.com/2025/10/01/us-doe-takes-equity-stake-in-lithium-americas-thacker-pass-project) [52](https://finance.yahoo.com/news/intel-announces-89-billion-investment-from-us-government-which-will-own-99-of-chipmaker-180452175.html) [53](https://wtop.com/business-finance/2026/05/trump-discloses-thousands-of-stock-trades-some-in-companies-directly-influenced-by-his-policies/)
 
 ### 9. Family-linked firms made documented gains from the government actions.
 
@@ -368,7 +376,7 @@ The core of the lead is documented. A June 28, 2026 NYT investigation (Lipton an
   - Democrats signal subpoena-backed probes of the 14 deals after the Nov 2026 midterms.
   - [[US Congress]] [[US Department of Commerce]] [[Pentagon (Department of Defense)]] · [Source](https://www.eenews.net/articles/democrats-post-midterm-war-plan-mineral-deal-investigations/)
 
-## Sources (48)
+## Sources (56)
 
 1. [Democrats demand information on Trump and Lutnick families' ties to critical mineral deals](https://www.cnbc.com/2026/07/31/senate-democrats-trump-lutnick-critical-mineral-deals.html) (CNBC, 2026-07-31)
 2. [Blumenthal, Schiff & Warren raise concerns about Trump administration directing taxpayer dollars toward critical mining companies linked to Trump & Lutnick families](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-schiff-and-warren-raise-concerns-about-trump-administration-directing-taxpayer-dollars-toward-critical-mining-companies-linked-to-trump_lutnick-families) (Office of Sen. Richard Blumenthal, 2026-07-31)
@@ -418,6 +426,14 @@ The core of the lead is documented. A June 28, 2026 NYT investigation (Lipton an
 46. [Letter to Defense, Commerce, Energy, Interior re mineral equity deals oversight](https://democrats-naturalresources.house.gov/download/2026-02-02-moc-to-defense-commerce-energy-interior-re-mineral-equity-deals-oversight?download=1) (House Natural Resources Democrats, 2026-02-02)
 47. [Heinrich, Huffman, Garcia demand transparency from Trump administration on taxpayer-funded mining spending spree](https://www.heinrich.senate.gov/newsroom/press-releases/ranking-members-heinrich-huffman-garcia-demand-transparency-from-trump-administration-on-taxpayer-funded-mining-spending-spree) (Office of Sen. Martin Heinrich, 2026)
 48. [Trump administration's $40 billion mineral push spans 160 deals](https://tokenpost.com/news/regulation/56727) (TokenPost, 2026)
+49. [MP Materials lands multi-billion Pentagon deal](https://www.mining.com/mp-materials-lands-multi-billion-pentagon-deal/) (Mining.com, 2025-07-10)
+50. [US government to take 5% stake in Lithium Americas and joint venture with GM](https://www.mining.com/web/us-government-to-take-5-stake-in-lithium-americas-and-joint-venture-with-gm-source-says/) (Mining.com (Reuters), 2025-10-01)
+51. [US DOE takes equity stake in Lithium Americas' Thacker Pass project](https://www.electrive.com/2025/10/01/us-doe-takes-equity-stake-in-lithium-americas-thacker-pass-project) (electrive, 2025-10-01)
+52. [Intel announces $8.9 billion investment from US government, which will own 9.9% of chipmaker](https://finance.yahoo.com/news/intel-announces-89-billion-investment-from-us-government-which-will-own-99-of-chipmaker-180452175.html) (Yahoo Finance, 2025-08-22)
+53. [Trump discloses thousands of stock trades, some in companies directly influenced by his policies](https://wtop.com/business-finance/2026/05/trump-discloses-thousands-of-stock-trades-some-in-companies-directly-influenced-by-his-policies/) (AP via WTOP, 2026-05-19)
+54. [Energy Fuels lands $725M Pentagon loan for rare earths boost](https://www.mining.com/energy-fuels-lands-725m-pentagon-loan-for-rare-earths-boost/) (Mining.com, 2026-06)
+55. [Titan Mining soars on $15.8M EXIM funding for zinc-graphite development](https://www.mining.com/titan-mining-soars-on-15-8m-exim-funding-for-zinc-graphite-development/) (Mining.com)
+56. [Odyssey to merge with ex-Rio Tinto CEO's deep-sea mining firm in $1B deal (Reuters)](https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal) (Baird Maritime, 2026-04-08)
 
 ## Full report
 
@@ -436,7 +452,7 @@ The best-documented instances:
 Cantor's links to The Metals Company and Critical Metals are also real.
 
 The brief overreaches in two places:
-- **MP Materials, Lithium Americas and Intel are not on the reported list of 14.** No Trump- or Lutnick-family position in them was found.
+- **MP Materials, Lithium Americas and Intel are not on the reported list of 14.** No family-firm position in them was found. (Audit: Trump's own accounts bought Intel shares in Q1 2026, after the government stake, per AP.)
 - **Family gains are largely unquantified, and no evidence shows influence over any decision.** The White House, Commerce, Cantor and the Trump family deny wrongdoing.
 
 ### What the brief says
@@ -483,14 +499,14 @@ The brief says the administration took equity stakes in, or gave loans or price 
    - **Perpetua:** EXIM advanced a loan of about $2.7-2.9B in May 2026 (reported figures vary). Cantor's documented role here is analyst coverage.
    - **ASP Isotopes:** Cantor was a joint book-runner on its $50M offering in June 2025.
    - **Westwater:** received EXIM graphite financing in August 2026.
-   - For Energy Fuels, Titan, Guardian and American Ocean Minerals, neither the family tie nor the federal action could be verified here.
+   - Audit: American Ocean Minerals: Cantor and Citigroup arranged a >$150M placement tied to its Odyssey merger (Reuters; see C77); federal action is a NOAA permit review. Energy Fuels: ~$725M conditional OSC loan (June 2026), family tie not found. Titan: EXIM financing (~$15.8M), family tie not found. Guardian Metal: neither the tie nor the reported ~$6.2M DoD funding was confirmed.
 8. **MP Materials, Lithium Americas, Trilogy and Intel as conflicted deals: unverified.** The government actions are real:
    - MP Materials: Pentagon preferred equity, a price floor and an offtake agreement (July 2025).
    - Lithium Americas: about a 5% Department of Energy stake (October 2025).
    - Intel: about a 10% stake (August 2025).
    - Trilogy: about a 10% stake for $35.6M (2025-10-06), with warrants that could take it toward 17.5%. The stock roughly tripled.
 
-   Only Trilogy is on the NYT list, and its specific family tie could not be confirmed. The MP, Lithium Americas and Intel deal terms come from widely reported 2025 announcements and were not re-sourced in this pass.
+   Only Trilogy is on the NYT list, and its specific family tie could not be confirmed. Audit re-sourced the terms: MP $400M preferred (~15%, $30.03 conversion) with a $110/kg NdPr floor; Lithium Americas 5% plus 5% JV warrants with a $435M drawdown of the $2.26B loan; Intel 433.3M shares (9.9%) for $8.9B at $20.47.
 9. **Documented gains: unverified.** Cantor earned placement fees, but the amounts are not public. The 1789, Skyline and Kaz stakes are unrealized. No realized family profit tied to a specific government action is documented.
 10. **Influence on decisions: unverified.** No document shows a Trump or Lutnick son lobbying for any of these awards. Requests for records so far:
     - House Natural Resources Democrats (February 2026)
@@ -501,7 +517,7 @@ The brief says the administration took equity stakes in, or gave loans or price 
 
 ### Corrections
 
-- MP Materials, Lithium Americas and Intel are not among the 14 reported companies, and no family tie to them was found.
+- MP Materials, Lithium Americas and Intel are not among the 14 reported companies, and no family tie to them was found through family firms; Trump's personal accounts did buy Intel shares in Q1 2026, after the government stake (AP, 2026-05-19).
 - "Dozen-plus" means "at least 14". The $8.9B is support provided or under consideration, not disbursed.
 - USA Rare Earth's federal package is a non-binding letter of intent with no price floor. Cantor's role was the parallel private placement.
 - Kaz Resources' $1.6B consists of non-binding EXIM and DFC letters of interest. The sons' stake in it is indirect.
@@ -545,3 +561,12 @@ The brief says the administration took equity stakes in, or gave loans or price 
 24. ProPublica, Don Jr. and the Vulcan deal, 2026-05-28. https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house
 
 The full source list (48 entries) is in `data/claims/C60.json`.
+
+### Audit (second review, Nov 2026)
+
+Result: **corrected** (overall verdict mostly-accurate kept).
+
+- **Deal terms re-sourced:** MP Materials https://www.mining.com/mp-materials-lands-multi-billion-pentagon-deal/ ; Lithium Americas https://www.mining.com/web/us-government-to-take-5-stake-in-lithium-americas-and-joint-venture-with-gm-source-says/ , https://www.electrive.com/2025/10/01/us-doe-takes-equity-stake-in-lithium-americas-thacker-pass-project ; Intel https://finance.yahoo.com/news/intel-announces-89-billion-investment-from-us-government-which-will-own-99-of-chipmaker-180452175.html
+- **Correction:** "no family position in Intel" no longer holds. AP (2026-05-19) reported Trump's Q1 2026 periodic transaction report included Intel purchases, after the August 2025 stake; his spokesperson says third-party managers have sole discretion. This is Trump's personal portfolio, not a family firm placed in the deal. https://wtop.com/business-finance/2026/05/trump-discloses-thousands-of-stock-trades-some-in-companies-directly-influenced-by-his-policies/
+- **Less-covered names:** AOMC's Cantor-arranged placement is documented (C77; https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal). Energy Fuels' ~$725M conditional loan (https://www.mining.com/energy-fuels-lands-725m-pentagon-loan-for-rare-earths-boost/) and Titan's EXIM funding (https://www.mining.com/titan-mining-soars-on-15-8m-exim-funding-for-zinc-graphite-development/) are documented, but the family ties for Energy Fuels, Titan and Guardian Metal remain unverified; the NYT original was not accessible.
+- Not re-checked: USAR PIPE, Kaz/Skyline, Vulcan, Trilogy.

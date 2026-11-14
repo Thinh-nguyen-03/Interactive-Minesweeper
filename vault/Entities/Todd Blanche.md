@@ -10,7 +10,7 @@ tags:
 ---
 # Todd Blanche
 
-Trump's criminal defence lawyer; Deputy AG, then Attorney General.
+Trump's criminal defence lawyer; Deputy AG; acting AG from Apr 2, 2026; Senate-confirmed AG Aug 8, 2026.
 
 | | |
 |---|---|
@@ -46,8 +46,8 @@ Trump's criminal defence lawyer; Deputy AG, then Attorney General.
 
 ### Political (2)
 
-- [[Todd Blanche]] *Deputy AG, then Attorney General of* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Todd Blanche]] *Deputy AG, later AG* [[US Department of Justice (us-doj)]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Todd Blanche]] *Deputy AG, acting AG (Apr 2026), then confirmed Attorney General (Aug 8, 2026) of* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Todd Blanche]] *Deputy AG; acting AG from Apr 2, 2026* [[US Department of Justice (us-doj)]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 
 ### Legal (4)
 

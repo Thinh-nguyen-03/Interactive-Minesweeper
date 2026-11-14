@@ -137,7 +137,7 @@ A paid clemency-lobbying market is well documented. The WSJ (Dec 2025) reported 
 - It later waived penalties for ex-Ozy executives Samir Rao and Suzee Han, citing cooperation.
 - Bloomberg Law (Apr 9, 2026) counts $176M in restitution and fines that pardoned securities-fraud defendants were originally due to pay.
 - The SEC declined comment.
-- A spokesperson quoted by Bloomberg Law said the SEC itself initiated contact to dismiss the Milton case; that article was paywalled and read only through excerpts.
+- Milton's spokesperson, quoted by Bloomberg Law, said the SEC itself initiated contact with defence counsel to dismiss the Milton case, in which Milton was represented by Brad Bondi, brother of then-AG Pam Bondi; that article was paywalled and read only through excerpts.
 - Amounts: $176M
 - Dates: Sep 2025; Sep 18-19, 2025; Apr 9, 2026
 - Sources: [23](https://news.bloomberglaw.com/securities-law/trumps-criminal-pardons-have-sec-enforcers-following-suit) [24](https://www.bloomberg.com/news/articles/2025-09-19/sec-drops-carlos-watson-fraud-case-after-trump-axed-prison-term) [25](https://www.law360.com/bankruptcy-authority/articles/2387230)
@@ -148,12 +148,12 @@ A paid clemency-lobbying market is well documented. The WSJ (Dec 2025) reported 
 
 - Then-Deputy AG Todd Blanche fired Oyer on Mar 7, 2025, the morning after she declined to recommend restoring Mel Gibson's gun rights.
 - Then-AG Pam Bondi restored those rights in Apr 2025.
-- Oyer sued on Sep 3, 2026 for reinstatement.
-- Blanche, now Attorney General, says he knew nothing of the Gibson matter.
+- Oyer sued in federal court in Washington on Sep 3, 2026 for reinstatement and back pay, alleging due-process, First Amendment and civil-service violations; the allegations are untested.
+- Blanche, confirmed 50-49 and sworn in as Attorney General on Aug 10, 2026 after Trump removed Bondi in April 2026, says he knew nothing of the Gibson matter.
 - Trump named Ed Martin pardon attorney on May 8, 2025, after Martin's DC US Attorney nomination collapsed.
 - Martin posted 'No MAGA left behind' after the Scott Jenkins pardon.
 - He lost the Weaponization Working Group in Feb 2026, and Trump announced on Aug 21, 2026 that he was leaving to fight election 'Legal Battles'. No successor was found.
-- Dates: Mar 7, 2025; Apr 2025; Sep 3, 2026; May 8, 2025; Feb 2026
+- Dates: Mar 7, 2025; Apr 2025; Sep 3, 2026; Aug 10, 2026; April 2026
 - Sources: [27](https://www.goodmorningamerica.com/news/story/doj-pardon-attorney-removed-after-dispute-mel-gibsons-119677857) [28](https://abcnews.com/Politics/wireStory/justice-department-pardon-lawyer-fired-dispute-mel-gibsons-136185902) [29](https://www.govexec.com/workforce/2026/09/former-pardon-atty-calls-mspb-dead-end-sues-reinstatement/415817/) [30](https://news.bloomberglaw.com/us-law-week/ed-martin-takes-doj-pardon-job-as-trump-upends-clemency-process) [31](https://www.rawstory.com/no-maga-left-behind-outrage-as-trump-pardon-chief-issues-new-vow/) [32](https://www.nbcnews.com/politics/justice-department/ed-martin-dojs-weaponization-czar-sources-say-rcna257093) [34](https://www.local10.com/news/politics/2026/08/21/trump-loyalist-ed-martin-is-leaving-the-justice-department-to-focus-on-election-legal-battles/)
 
 ### 8. House Judiciary Democrats estimate total restitution wiped out at about $1.3B or more.
@@ -322,7 +322,7 @@ A paid clemency-lobbying market is well documented. The WSJ (Dec 2025) reported 
 - [[Pam Bondi]] *restored gun rights* [[Mel Gibson]] · 2025-04 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Donald Trump]] *pardoned (voiding ~$4.4M restitution)* [[Paul Walczak]] · 2025-04-23 · $4.4M · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Changpeng Zhao]] *recipient of* [[Pardon of Changpeng Zhao]] · 2025-10 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C69 Master timeline money events versus government actions|C69]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Donald Trump]] *pardoned* [[Joseph Schwartz]] · 2025-11-14 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Liz Oyer]] *sued for reinstatement* [[US Department of Justice (us-doj)]] · 2026-09-03 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Donald Trump]] *commuted sentence (~$15.5M restitution voided)* [[David Gentile]] · $15.5M · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
@@ -455,10 +455,11 @@ The brief describes a paid pardon-lobbying industry (Roger Stone, Ches McDowell/
    - The SEC dismissed its cases against Milton (Sep 2025), Watson and Ozy Media (about Sep 18-19, 2025), and Devon Archer. A pardon does not legally erase civil liability.
    - The SEC later waived penalties for ex-Ozy executives Samir Rao and Suzee Han.
    - Bloomberg Law (Apr 9, 2026) counted $176M in restitution and fines originally owed by pardoned securities-fraud defendants. The SEC declined comment.
+   - Milton's own spokesperson (not the SEC) told Bloomberg Law the SEC initiated contact with defence counsel to dismiss; Milton's SEC lawyer was Brad Bondi, brother of then-AG Pam Bondi.
 
 7. **Oyer fired; Martin as pardon attorney: confirmed, with an update.**
    - Then-Deputy AG Todd Blanche fired Oyer on Mar 7, 2025, after she declined to recommend restoring Mel Gibson's gun rights. Bondi restored them in Apr 2025.
-   - Oyer sued for reinstatement on Sep 3, 2026. Blanche, now AG, denies knowing about the Gibson matter.
+   - Oyer sued in federal court in Washington on Sep 3, 2026 for reinstatement and back pay, alleging due-process, First Amendment and civil-service violations (untested). Blanche, confirmed 50-49 and sworn in as AG on Aug 10, 2026 after Trump removed Bondi in April, denies knowing about the Gibson matter.
    - Martin was named pardon attorney on May 8, 2025, and posted "No MAGA left behind" after the Scott Jenkins pardon.
    - He lost the Weaponization Working Group in Feb 2026. Trump announced his departure on Aug 21, 2026. No successor was found.
 
@@ -485,7 +486,7 @@ The brief describes a paid pardon-lobbying industry (Roger Stone, Ches McDowell/
 - Stone's $600K from Ver was disclosed as exit-tax lobbying, and Ver got a DOJ deferred prosecution deal, not clemency.
 - Ed Martin left the pardon attorney post (announced Aug 21, 2026).
 - CZ is not a personal donor.
-- Blanche is now Attorney General.
+- Blanche is now Attorney General (sworn in Aug 10, 2026).
 
 ### Denials and context
 - The White House denies pay-to-play.
@@ -543,10 +544,27 @@ The brief describes a paid pardon-lobbying industry (Roger Stone, Ches McDowell/
 
 ### Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (language review only; no fresh searches)
+**Result: upheld** (fresh re-verification with new web searches; replaces the earlier wording-only review)
 
 Checked:
-- Language review of summary and sub-claims for unattributed allegations
+- Todd Blanche is now Attorney General
+- Ed Martin left the pardon attorney post in Aug 2026
+- Liz Oyer's Sep 3, 2026 reinstatement lawsuit
+- House Judiciary Democrats' Aug 21, 2026 'Pardons, Inc.' estimate of about $1.7B (up from $1.3B)
+- SEC dismissal of the Milton civil case after his pardon
 
 Changes:
-- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: no pardon is stated as bought, and the Daibes, 60 Minutes and Walczak items are attributed to their outlets. Not re-checked: the file's statements that Todd Blanche is now Attorney General and that Ed Martin left the post in Aug 2026. No changes.
+- Blanche confirmed: the Senate confirmed him 50-49 and he was sworn in on Aug 10, 2026 (AP via WTOP/Federal News Network; Euronews; Boston Globe), after Trump removed Bondi in April 2026 and Blanche served as acting AG. Added the date to the Oyer sub-claim.
+- Martin confirmed: Trump announced on Aug 21, 2026 that Martin was leaving DOJ to fight election 'legal battles' (AP via Local10; CBS; Good Morning America); AG Blanche thanked him.
+- Oyer suit, the $1.7B report and the Sep 2025 Milton SEC dismissal confirmed (AP via ABC/Local10, ABA Journal, GovExec; committee release; Law360, Bloomberg Law).
+- Clarified that the 'SEC initiated contact' quote came from Milton's own spokesperson, not the SEC, and noted that Milton's SEC counsel was Brad Bondi. Added the claims in Oyer's complaint. Updated .md.
+- Replaces the earlier wording-only audit (no fresh searches).
+
+New sources:
+- WTOP (AP), "Todd Blanche is sworn in as attorney general after bruising confirmation fight", 2026-08-10. https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/
+- Euronews, "Todd Blanche sworn in as US attorney general after bruising confirmation fight", 2026-08-10. https://www.euronews.com/2026/08/10/todd-blanche-sworn-in-as-us-attorney-general-after-bruising-confirmation-fight
+- Local10 (AP), "Trump loyalist Ed Martin is leaving the Justice Department to focus on election 'legal battles'", 2026-08-21. https://www.local10.com/news/politics/2026/08/21/trump-loyalist-ed-martin-is-leaving-the-justice-department-to-focus-on-election-legal-battles/
+- CBS News, "Ed Martin leaving Trump administration DOJ", 2026-08-21. https://www.cbsnews.com/news/ed-martin-leaving-trump-administration-doj/
+- ABC News (AP), "Justice Department pardon lawyer who says she was fired in dispute over Mel Gibson's gun rights sues", 2026-09-03. https://abcnews.com/Politics/wireStory/justice-department-pardon-lawyer-fired-dispute-mel-gibsons-136185902
+- House Judiciary Committee Democrats, "New Judiciary Democrats report exposes MAGA's cash-for-clemency racket", 2026-08-21. https://democrats-judiciary.house.gov/media-center/press-releases/new-judiciary-democrats-report-exposes-maga-s-cash-for-clemency-racket-which-gives-unrepentant-criminals-a-new-lease-on-life-and-leaves-victims-in-the-dust
+- Law360, "SEC Drops Suit Against Nikola Founder After Trump's Pardon", 2025-09-11. https://www.law360.com/bankruptcy-authority/articles/2387230

@@ -46,6 +46,7 @@ Most of the pattern in the brief is documented. On 9 April 2025 Trump posted 'TH
 - The '$2.5 billion' (Schwab) and '$900 million' (Penske) figures are Trump's on-camera claims about paper gains, not documented trading profits.
 - Estimates of the oil-futures bets before Trump's Iran posts conflict: about $2.6B (ABC) versus about $7B (Reuters).
 - Secondary-site claims that a $2.5M options position became $70M+ on 9 April 2025 are not confirmed by Reuters, which put one SPY call block at about $624K rising to about $10M.
+- Size estimates for the 23 March 2026 oil bet vary further: about $500-760M in the trades covered by the retracted CFTC referral (Bloomberg via secondary outlets), separate from the roughly $950M bet before the 7 April post.
 
 ## In more detail
 
@@ -53,6 +54,7 @@ Most of the pattern in the brief is documented. On 9 April 2025 Trump posted 'TH
 - No public evidence or official finding ties Trump, his family or named officials to any of these trades.
 - The one criminal case is a soldier charged over the Maduro bets.
 - The Intel and Fed 'well-timed trades' threads are thin, and the best-known pardon bets were on Biden's pardons, not Trump's.
+- Audit update: Bloomberg reported in October 2026 that an adviser to CFTC Chair Selig had staff retract an enforcement referral over the 23 March 2026 oil bets (the CFTC says enforcement work continues), and House Democrats said in February 2026 the SEC never substantively answered the April 2025 requests.
 
 ## Lead investigated
 
@@ -101,9 +103,11 @@ Most of the pattern in the brief is documented. On 9 April 2025 Trump posted 'TH
 - Maxine Waters sent a separate House letter on 10 April 2025.
 - Rep. Ocasio-Cortez urged members of Congress to disclose their trades.
 - An SEC spokesperson declined to comment.
-- I found no public SEC response, investigation or enforcement action.
-- Dates: 11 April 2025; 10 April 2025
-- Sources: [5](https://www.banking.senate.gov/imo/media/doc/20250411 Letter to SEC re DJT Tariff Insider Trading.pdf) [6](https://www.wyden.senate.gov/news/press-releases/wyden-warren-schumer-senate-colleagues-call-on-sec-to-launch-investigation-into-possible-trump-tariff-market-manipulation-insider-trading) [7](https://democrats-financialservices.house.gov/UploadedFiles/04.10.2025-_Ltr_SEC.GAOIT.pdf)
+- In a 2026-02-24 letter, House Financial Services Democrats said that nearly a year after their April 2025 request to SEC Chair Atkins, the SEC Inspector General and GAO they had 'received no substantive response', and that GAO said it lacks authority to compel an investigation.
+- Senators Warner and Schiff sent a further letter in April 2026 on trading ahead of policy announcements.
+- No public SEC response, investigation or enforcement action was found through Nov 2026.
+- Dates: 11 April 2025; 10 April 2025; 2026-02-24; April 2025; April 2026
+- Sources: [5](https://www.banking.senate.gov/imo/media/doc/20250411 Letter to SEC re DJT Tariff Insider Trading.pdf) [6](https://www.wyden.senate.gov/news/press-releases/wyden-warren-schumer-senate-colleagues-call-on-sec-to-launch-investigation-into-possible-trump-tariff-market-manipulation-insider-trading) [7](https://democrats-financialservices.house.gov/UploadedFiles/04.10.2025-_Ltr_SEC.GAOIT.pdf) [36](https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf)
 
 ### 4. Trump boasted about his friends' gains after the pause.
 
@@ -122,13 +126,17 @@ Most of the pattern in the brief is documented. On 9 April 2025 Trump posted 'TH
 - Iran: documented. Reuters reported in mid-April 2026 that the CFTC, working with DOJ, was probing oil-futures trades on CME and ICE made shortly before Trump's Iran posts of 23 March 2026 (a pause in strikes and talks with Iran) and 7 April 2026.
 - The CFTC sought 'Tag 50' trader identities.
 - Estimates of the bets range from about $2.6B (ABC) to about $7B (Reuters).
-- CFTC Chair Selig said the agency would pursue insider trading but did not comment on specifics. I found no charges. Intel: thin.
+- CFTC Chair Selig said the agency would pursue insider trading but did not comment on specifics.
+- Update: Bloomberg reported on 2026-10-13, citing people familiar, that Mel Gunewardena, a senior adviser to Selig, told a market-oversight supervisor to retract a staff referral to enforcement over oil bets placed minutes before the 23 March post (reported at roughly $500-760M), an intervention described as unusual; the supervisor had left the agency by July.
+- A source quoted afterwards said the enforcement division is still examining the trades and that all referred entities are under investigation; the CFTC does not confirm or deny investigations.
+- Sen. Whitehouse had asked Selig in April to examine the 23 March trades and a roughly $950M short bet before the 7 April ceasefire post.
+- No charges had been reported as of mid-Nov 2026. Intel: thin.
 - A trading-platform blog noted unusual Intel options activity before the 22 August 2025 government-stake news, and Rep. Tim Moore bought Intel shares on 29 July 2025.
 - Neither shows insider trading, and no probe was found.
 - Fed: Warsh's odds on Polymarket and Kalshi jumped before his nomination, but that tracked press reports, and no investigation was found.
-- Amounts: about $2.6B; about $7B
-- Dates: mid-April 2026; 23 March 2026; 7 April 2026; 22 August 2025; 29 July 2025
-- Sources: [10](https://finance.yahoo.com/markets/commodities/articles/us-probes-suspicious-oil-trades-185104849.html) [11](https://www.cbsnews.com/news/insider-trading-oil-futures-trump-iran-post) [12](https://abcnews4.com/news/nation-world/feds-probe-oil-futures-trades-ahead-of-trump-iran-strait-of-hormuz-announcements-prices-trading-activity-report) [32](https://blog.deriv.com/blog/intel-stock-price-surge-2025-trump-semiconductor-policy) [31](https://www.theblock.co/news/regulation/2026-01-30-kevin-warsh-polymarket-odds-fed-chair-387788)
+- Amounts: about $2.6B; about $7B; roughly $500-760M; roughly $950M
+- Dates: mid-April 2026; 23 March 2026; 7 April 2026; 2026-10-13; 23 March
+- Sources: [10](https://finance.yahoo.com/markets/commodities/articles/us-probes-suspicious-oil-trades-185104849.html) [11](https://www.cbsnews.com/news/insider-trading-oil-futures-trump-iran-post) [12](https://abcnews4.com/news/nation-world/feds-probe-oil-futures-trades-ahead-of-trump-iran-strait-of-hormuz-announcements-prices-trading-activity-report) [32](https://blog.deriv.com/blog/intel-stock-price-surge-2025-trump-semiconductor-policy) [31](https://www.theblock.co/news/regulation/2026-01-30-kevin-warsh-polymarket-odds-fed-chair-387788) [33](https://www.ibtimes.co.uk/cftc-insider-trading-referral-iran-oil-bet-1825415) [34](https://financefeeds.com/cftc-staff-told-to-withdraw-insider-trading-referral-on-oil-bets-before-trumps-iran-post/)
 
 ### 6. Prediction-market bets were placed ahead of military announcements.
 
@@ -212,6 +220,8 @@ Most of the pattern in the brief is documented. On 9 April 2025 Trump posted 'TH
 - Trump Jr. advises both Kalshi and Polymarket (see C25), and 1789 Capital invested in Polymarket.
   - That ties the family to the platforms on which the suspicious bets were placed, but not to the bets themselves.
 - Coverage after mid-2026 of whether the CFTC oil probe produced charges, and of any ruling in the Intercept suit, could not be checked: the web-search budget ran out and direct fetches of CourtListener, Inner City Press and Mediaite were blocked in this environment.
+- The CFTC does not confirm or deny investigations; after the Bloomberg referral report a source said all entities referred to enforcement remain under investigation.
+  - The referral account rests on anonymous sourcing.
 
 ## People and organisations
 
@@ -335,7 +345,7 @@ Most of the pattern in the brief is documented. On 9 April 2025 Trump posted 'TH
   - Its contents and any SEC reply were not checked.
   - [[US Congress]] [[Securities and Exchange Commission]] [[Maxine Waters]] · [Source](https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf)
 
-## Sources (32)
+## Sources (36)
 
 1. [Why some are accusing Trump of manipulating stock markets](https://www.npr.org/2025/04/10/nx-s1-5360062/why-some-are-accusing-trump-of-manipulating-stock-markets) (NPR, 2025-04-10)
 2. [Trump told people to buy. Hours later his tariff pause sent markets soaring](https://www.adn.com/nation-world/2025/04/09/trump-told-people-to-buy-hours-later-his-tariff-pause-sent-markets-soaring/) (AP via Anchorage Daily News, 2025-04-09)
@@ -369,6 +379,10 @@ Most of the pattern in the brief is documented. On 9 April 2025 Trump posted 'TH
 30. [Trump Media Truth API insider trading](https://fortune.com/2026/08/12/trump-media-truth-api-insider-trading/) (Fortune, 2026-08-12)
 31. [Kevin Warsh odds jump to 93% on Polymarket as Trump's Fed chair pick looms](https://www.theblock.co/news/regulation/2026-01-30-kevin-warsh-polymarket-odds-fed-chair-387788) (The Block, 2026-01-30)
 32. [Is Intel's stock price surge a turning point or a temporary boost?](https://blog.deriv.com/blog/intel-stock-price-surge-2025-trump-semiconductor-policy) (Deriv (blog), 2025-08)
+33. [Officials flagged a $580M oil bet made minutes before Trump's Iran reversal, then were told to back off](https://www.ibtimes.co.uk/cftc-insider-trading-referral-iran-oil-bet-1825415) (International Business Times UK (relaying Bloomberg), 2026-10)
+34. [CFTC staff told to withdraw insider-trading referral on oil bets before Trump's Iran post](https://financefeeds.com/cftc-staff-told-to-withdraw-insider-trading-referral-on-oil-bets-before-trumps-iran-post/) (FinanceFeeds (relaying Bloomberg), 2026-10)
+35. [Traders bet big minutes before Trump's Iran post. Then a top regulator's adviser reportedly stepped in](https://dailycaller.com/2026/10/13/cftc-oil-trades-insider-trading-referral-mel-gunewardena-michael-selig-iran-bloomberg/) (Daily Caller, 2026-10-13)
+36. [Letter requesting investigation of trading ahead of tariff announcements](https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf) (House Financial Services Committee Democrats, 2026-02-24)
 
 ## Full report
 
@@ -407,7 +421,7 @@ This builds on C20 (stock posts), C21 and C41 (Truth API, the Warren-Schiff lett
 - On 11 April 2025, Warren and Schumer, joined by Schiff, Wyden, Gallego, Kelly and others, wrote to SEC Chair Atkins [5][6].
 - They asked whether Trump, Cabinet members, donors or insiders had traded on the pause, and whether the White House had contacted the SEC.
 - Maxine Waters sent a House letter on 10 April 2025 [7].
-- An SEC spokesperson declined to comment. I found no SEC response, probe or enforcement action.
+- An SEC spokesperson declined to comment. I found no SEC response, probe or enforcement action. Audit: House FSC Democrats wrote on 2026-02-24 that they had "received no substantive response" in nearly a year, and that GAO says it cannot compel an investigation.
 
 #### 4. Trump boasting about friends' gains: confirmed
 - In an Oval Office clip from 9 April 2025, Trump said of Schwab and Penske: "He made two-and-a-half billion today, and he made $900 million. That's not bad." [8][9]
@@ -419,7 +433,7 @@ This builds on C20 (stock posts), C21 and C41 (Truth API, the Warren-Schiff lett
   - The CFTC sought "Tag 50" trader identities from the exchanges.
   - Estimates of the size conflict: about $2.6B (ABC) versus about $7B (Reuters).
   - CFTC Chair Selig vowed to pursue insider trading but did not comment on the specific case.
-  - I found no charges.
+  - Audit update: Bloomberg reported on 2026-10-13 (anonymous sources) that Selig adviser Mel Gunewardena had a supervisor retract a staff referral to enforcement over the 23 March bets; a source later said enforcement is still examining the trades. No charges as of mid-Nov 2026.
 - **Intel (thin).** A trading-platform blog pointed to unusual Intel options activity before the 22 August 2025 government-stake news [32]. Rep. Tim Moore bought Intel shares on 29 July 2025. Neither shows insider trading, and I found no probe.
 - **Fed (thin).** Kevin Warsh's odds on Polymarket and Kalshi rose before his nomination [31]. The moves tracked press reports, and I found no investigation.
 
@@ -507,3 +521,12 @@ This builds on C20 (stock posts), C21 and C41 (Truth API, the Warren-Schiff lett
 30. Fortune, Truth API and insider trading, 2026-08-12. https://fortune.com/2026/08/12/trump-media-truth-api-insider-trading/
 31. The Block, Warsh odds, 2026-01-30. https://www.theblock.co/news/regulation/2026-01-30-kevin-warsh-polymarket-odds-fed-chair-387788
 32. Deriv blog, Intel stock surge, 2025-08. https://blog.deriv.com/blog/intel-stock-price-surge-2025-trump-semiconductor-policy
+
+### Audit (second review, Nov 2026)
+
+Result: **strengthened** (verdict and confidence unchanged).
+
+- **CFTC oil-futures probe:** Bloomberg (2026-10-13, via secondary outlets) reported that an adviser to Chair Selig told market-oversight staff to retract an enforcement referral on oil bets placed minutes before the 23 March 2026 post (reported at about $500-760M); the supervisor had left by July. The CFTC does not confirm investigations; a source said all referred entities remain under investigation. Sen. Whitehouse had asked about the 23 March trades and a ~$950M bet before 7 April. No charges found. https://www.ibtimes.co.uk/cftc-insider-trading-referral-iran-oil-bet-1825415 ; https://financefeeds.com/cftc-staff-told-to-withdraw-insider-trading-referral-on-oil-bets-before-trumps-iran-post/ ; https://dailycaller.com/2026/10/13/cftc-oil-trades-insider-trading-referral-mel-gunewardena-michael-selig-iran-bloomberg/
+- **SEC reply:** none found. House FSC Democrats, 2026-02-24: no substantive response to the April 2025 request. https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf
+- The 11 April 2025 Senate letter (Warren, Schumer, Wyden, Kelly, Gallego, Schiff and others) was re-confirmed.
+- Not re-checked: Maduro/Polymarket case, Truth API suit status, Rogan/Gillis.

@@ -43,20 +43,21 @@ Abu Dhabi vehicle backed by Sheikh Tahnoon; bought 49% of WLF for $500M in Janua
 
 ## Relationships
 
-### Money (12)
+### Money (13)
 
 - [[Aryam Investment 1]] *about $187M of upfront payment to Trump-family entities* [[Donald Trump]] · 2025 · $187M · [[C14 Steve and Zach Witkoff|C14]]
 - [[Aryam Investment 1]] *at least $31M of upfront payment to Witkoff-family entities* [[Steve Witkoff]] · 2025 · $31M · [[C14 Steve and Zach Witkoff|C14]]
 - [[Aryam Investment 1]] *upfront payment of about $187M to Trump-family entities* [[Donald Trump]] · 2025-01 · $187M · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
-- [[Aryam Investment 1]] *~$187M of $250M upfront flowed to Trump-family entities* [[DT Marks DEFI LLC]] · 2025-01 · $187M · [[C63 Shell entities and ownership chains|C63]]
+- [[Aryam Investment 1]] *~$187M of $250M upfront flowed to Trump-family entities (WSJ, anonymous sources)* [[DT Marks DEFI LLC]] · 2025-01 · $187M · [[C63 Shell entities and ownership chains|C63]]
 - [[Aryam Investment 1]] *at least $31M to Witkoff-family-linked entities* [[Steve Witkoff]] · 2025-01 · $31M · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Aryam Investment 1]] *agreed to buy 49% stake for $500M (undisclosed until WSJ)* [[World Liberty Financial]] · 2025-01 · $500M · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Aryam Investment 1]] *bought 49% for $500M (C14)* [[World Liberty Financial]] · 2025-01 · $500M · [[C42 How World Liberty insiders took money out|C42]]
 - [[Aryam Investment 1]] *bought 49% stake for* [[World Liberty Financial]] · 2025-01 · $500M · [[C14 Steve and Zach Witkoff|C14]]
-- [[Aryam Investment 1]] *agreed to buy 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Aryam Investment 1]] *agreed to buy 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Aryam Investment 1]] *agreed to buy 49% for $500M (WSJ, anonymous sources)* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C63 Shell entities and ownership chains|C63]]
 - [[Aryam Investment 1]] *agreed to pay $500M for 49% of* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Aryam Investment 1]] *bought 49% for* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Aryam Investment 1]] *bought 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Aryam Investment 1]] *bought 49% for (WSJ, anonymous sources)* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C61 Shared lawyers and law firms across the deals|C61]]
 
 ### Ownership (7)
 
@@ -70,7 +71,7 @@ Abu Dhabi vehicle backed by Sheikh Tahnoon; bought 49% of WLF for $500M in Janua
 
 ### Advisory (2)
 
-- [[G42]] *executives help manage* [[Aryam Investment 1]] · [[C63 Shell entities and ownership chains|C63]]
+- [[G42]] *executives help manage (WSJ)* [[Aryam Investment 1]] · [[C63 Shell entities and ownership chains|C63]]
 - [[G42]] *executives manage; hold 2 WLF board seats* [[Aryam Investment 1]] · [[C14 Steve and Zach Witkoff|C14]]
 
 ### Political (1)

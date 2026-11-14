@@ -31,7 +31,7 @@ Consultancy with up to ~$350M in no-bid DoD contracts advising the EDU
 
 ### Money (2)
 
-- [[Pentagon (Department of Defense)]] *no-bid contracts (~$67M + $281M) advising EDU* [[Alvarez & Marsal Federal]] · 2026 · $348M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[Pentagon (Department of Defense)]] *no-bid contracts (~$67M + $281M) advising Kollitides's office* [[Alvarez & Marsal Federal]] · 2025-12/2026 · $348M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Pentagon (Department of Defense)]] *no-bid contracts up to ~$350M* [[Alvarez & Marsal Federal]] · 2026-06 · $348.7M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 
 ### Ownership (1)

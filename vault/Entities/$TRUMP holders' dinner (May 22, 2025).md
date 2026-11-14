@@ -50,4 +50,4 @@ Dinner for the top 220 holders at Trump National Golf Club, Sterling, VA, with a
 
 - [[Fight Fight Fight LLC]] *organized holder contest for* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-04-23 · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[$TRUMP meme coin]] *top 220 holders invited to* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-12 · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[$TRUMP holders' dinner (May 22, 2025)]] *held at* [[Trump National Golf Club Washington D.C]] · 2025-05-22 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[$TRUMP holders' dinner (May 22, 2025)]] *held at* [[Trump National Golf Club Washington DC]] · 2025-05-22 · [[C03 Dinner for top $TRUMP holders|C03]]

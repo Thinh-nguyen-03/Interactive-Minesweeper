@@ -2,8 +2,8 @@
 id: "gsa"
 kind: "entity"
 type: "government"
-connections: 15
-claims: 3
+connections: 17
+claims: 4
 tags:
   - "entity"
   - "type/government"
@@ -15,18 +15,20 @@ Federal procurement agency; runs FAS, TTS, SmartPay and OneGov.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 3 claims |
-| Connections | 15 |
+| Appears in | 4 claims |
+| Connections | 17 |
 
 ## How other claims describe it
 
 - Signed a OneGov cloud agreement with AWS in Aug 2025.
 - Federal procurement agency
+- OneGov discount agreements
 
 ## Appears in claims
 
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Relationships
@@ -45,7 +47,7 @@ Federal procurement agency; runs FAS, TTS, SmartPay and OneGov.
 
 - [[Gerald Connolly]] *opened probe into Ramp dealings* [[General Services Administration]] · 2025 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 
-### Commercial (11)
+### Commercial (13)
 
 - [[General Services Administration]] *considered for SmartPay pilot up to $25M (not awarded per sources found)* [[Ramp]] · 2025 · $25M · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 - [[General Services Administration]] *courted for SmartPay contract* [[Ramp]] · 2025 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
@@ -53,8 +55,10 @@ Federal procurement agency; runs FAS, TTS, SmartPay and OneGov.
 - [[General Services Administration]] *OneGov cloud agreement (up to $1B savings)* [[Amazon Web Services]] · 2025-08 · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[General Services Administration]] *OneGov ChatGPT Enterprise $1/agency* [[OpenAI]] · 2025-08-06 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 - [[General Services Administration]] *OneGov Claude $1* [[Anthropic]] · 2025-08-12 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[General Services Administration]] *OneGov 'Gemini for Government' agreement* [[Alphabet (Google)]] · 2025-08-21 · [[C69 Master timeline money events versus government actions|C69]]
 - [[General Services Administration]] *OneGov Llama* [[Meta]] · 2025-09 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 - [[General Services Administration]] *OneGov Grok* [[xAI]] · 2025-09 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[Microsoft]] *OneGov discount (~$3.1B first-year savings)* [[General Services Administration]] · 2025-09-02 · [[C69 Master timeline money events versus government actions|C69]]
 - [[General Services Administration]] *OneGov Perplexity $0.25/agency* [[Perplexity]] · 2025-11-19 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
-- [[General Services Administration]] *reported sole-source contract (single-source)* [[Databricks]] · 2026 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[General Services Administration]] *sole-source order 47QPCA26F0011, ceiling $1,824,000* [[Databricks]] · 2026-02 · $1.82M · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[General Services Administration]] *sole-source order, $1,824,000 ceiling (TTS/FAS, Feb 2026)* [[Databricks]] · 2026-02-10 · $1.82M · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

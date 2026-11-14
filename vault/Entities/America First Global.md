@@ -30,5 +30,5 @@ Beach's investment firm, the lead of the Rubaya consortium.
 
 ### Commercial (2)
 
-- [[America First Global]] *sought majority stake in (with Mercuria)* [[Rubaya coltan mine]] · 2025-06 · $500M · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[America First Global]] *sought majority stake in (with Mercuria); no deal reported through Nov 2026* [[Rubaya coltan mine]] · 2025-06 · $500M · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Mercuria]] *consortium partner of* [[America First Global]] · 2025-06 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]

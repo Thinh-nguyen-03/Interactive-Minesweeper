@@ -109,9 +109,11 @@ One specific allegation exists, but it rests on a single source.
 
 - The MIVD and the Dutch Defence Ministry told NOS and Reformatorisch Dagblad they do not comment on methods, knowledge or sources.
 - Kushner called the claims 'completely insane' and said they 'never happened'.
-- Chad Mizelle sent Condé Nast a letter on 23 Oct 2026 calling the excerpt defamatory per se and demanding takedown; it says Cole and Simon & Schuster were warned on 30 Jul and 10 Aug. Trump called it 'a totally false story' on 23 Oct. No suit, retraction or correction had been found by mid-Nov 2026.
-- Dates: 23 Oct 2026; 30 Jul; 10 Aug; 23 Oct; mid-Nov 2026
-- Sources: [3](https://nltimes.nl/2026/10/23/dutch-intelligence-service-spied-phone-trumps-son-law-jared-kushner-book) [6](https://www.newsweek.com/jared-kushners-lawyer-puts-vanity-fair-on-notice-over-false-claims-12614525) [7](https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/) [9](https://mediaite.com/media/news/its-a-totally-false-story-trump-slams-vanity-fair-story-on-jared-kushner)
+- Chad Mizelle sent Condé Nast a letter on 23 Oct 2026 calling the excerpt defamatory per se and demanding takedown; it says Cole and Simon & Schuster were warned on 30 Jul and 10 Aug. Trump called it 'a totally false story' on 23 Oct, and White House communications director Steven Cheung called it 'baseless smears' and the book fiction.
+- Simon & Schuster reportedly released the book a couple of days early (around 25-27 Oct) despite the legal threat.
+- No suit, retraction or correction had been found by mid-Nov 2026.
+- Dates: 23 Oct 2026; 30 Jul; 10 Aug; 23 Oct; 27 Oct
+- Sources: [3](https://nltimes.nl/2026/10/23/dutch-intelligence-service-spied-phone-trumps-son-law-jared-kushner-book) [6](https://www.newsweek.com/jared-kushners-lawyer-puts-vanity-fair-on-notice-over-false-claims-12614525) [7](https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/) [9](https://mediaite.com/media/news/its-a-totally-false-story-trump-slams-vanity-fair-story-on-jared-kushner) [8](https://www.thewrap.com/media-platforms/journalism/jared-kushner-lawyer-demands-vanity-fair-book-excerpt-removed/) [30](https://politicalwire.com/2026/10/26/book-on-jared-kushner-released-early/)
 
 ### 5. Congress has linked the alleged hack to his current envoy role in the Russia and Iran talks.
 
@@ -120,6 +122,7 @@ One specific allegation exists, but it rests on a single source.
 - Rep. Jamie Raskin (House Judiciary ranking member) demanded in Oct 2026 that Kushner recuse 'from negotiating or representing the United States in any capacity' in the Russia and Iran talks until he produces records of foreign-government payments, citing the slush-fund and GRU phone-hack reports.
 - This extends Raskin's 17 Apr 2026 probe.
 - That the GRU holds actual leverage over Kushner is inference, not reported fact.
+- Raskin's letter says Kushner cannot serve as a US diplomat 'when at least five foreign governments — the Saudis, the Emiratis, the Israelis, the Russians, and even the Dutch — appear to have damning kompromat on you'; this is a political characterization of unverified allegations.
 - Dates: Oct 2026; 17 Apr 2026
 - Sources: [17](https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-jared-kushner-recuse-from-us-envoy-role-in-russia-and-iran-conflicts-amid-explosive-reports-of-secret-middle-eastern-slush-funds-and-phone-hacking-by-russian-intelligence-service) [18](https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-opens-sweeping-investigation-into-us-special-envoy-for-peace-jared-kushner-s-foreign-entanglements-and-staggering-conflicts-of-interest)
 
@@ -175,6 +178,8 @@ One specific allegation exists, but it rests on a single source.
 - Kushner's public denials centre on the accounts; no coverage found has him specifically addressing whether his phone was compromised.
 - Cole stands by the reporting (Democracy Now, 2 Nov 2026).
   - Vanity Fair had not responded publicly to the takedown demand.
+- White House communications director Steven Cheung dismissed the article as 'baseless smears' and the book as fiction (late Oct 2026).
+- Audit re-check (mid-Nov 2026): no defamation suit filed, no Vanity Fair/Simon & Schuster retraction or correction, and no US or Dutch official confirmation found; Mizelle's post ended 'More to come.'
 
 ## People and organisations
 
@@ -286,7 +291,7 @@ One specific allegation exists, but it rests on a single source.
   - The only government-attributed targeting of Kushner's communications; what was taken has never been disclosed.
   - [[Salt Typhoon]] [[China]] [[Jared Kushner]] [[Eric Trump]] · [Source](https://gvwire.com/2024/10/29/trump-family-members-and-biden-aides-among-china-hack-targets/)
 
-## Sources (29)
+## Sources (30)
 
 1. [Report: Dutch Spies Hacked Jared Kushner's iPhone, Watched Him Use Sleazy Middle Eastern Slush Fund](https://gizmodo.com/report-dutch-spies-hacked-jared-kushners-iphone-watched-him-use-sleazy-middle-eastern-slush-fund-2000829742) (Gizmodo, 2026-10-22)
 2. [GRU hacked Kushner's iPhone, but the Dutch flipped a Russian spy and took a look themselves](https://cybernews.com/security/jared-kushner-hacked-iphone-gru-russia/) (Cybernews, 2026-10)
@@ -317,6 +322,7 @@ One specific allegation exists, but it rests on a single source.
 27. [Report: whistleblower complaint against Gabbard tied to Iran-linked Kushner intercept](https://www.ynetnews.com/article/skzc6mnp11e) (Ynet, 2026-02)
 28. [Iranian hackers: emails allegedly stolen from Kash Patel](https://www.nbcnewyork.com/news/national-international/iranian-hackers-emails-allegedly-stolen-kash-patel/6482486/) (NBC New York, 2026-03)
 29. [Myth: Jared Kushner intelligence allegations](https://hasbara.co.il/facts-myths/myth-jared-kushner-intelligence-allegations) (hasbara.co.il (advocacy site), 2026-10)
+30. [Book on Jared Kushner released early](https://politicalwire.com/2026/10/26/book-on-jared-kushner-released-early/) (Political Wire, 2026-10-26)
 
 ## Full report
 
@@ -418,3 +424,13 @@ The lead is a user-requested follow-up to C15 (Kushner and Affinity Partners), a
 27. Ynet, "Report: whistleblower complaint against Gabbard tied to Iran-linked Kushner intercept", 2026-02. https://www.ynetnews.com/article/skzc6mnp11e
 28. NBC New York, "Iranian hackers: emails allegedly stolen from Kash Patel", 2026-03. https://www.nbcnewyork.com/news/national-international/iranian-hackers-emails-allegedly-stolen-kash-patel/6482486/
 29. Hasbara.co.il fact check (advocacy site; used only for the rumour category). https://hasbara.co.il/facts-myths/myth-jared-kushner-intelligence-allegations
+
+### Audit (second-opinion pass, Nov 2026)
+
+Result: **upheld**.
+
+- **Still a single-source allegation.** As of mid-Nov 2026 I found no filed defamation suit, no retraction or correction from Vanity Fair, Condé Nast or Simon & Schuster, and no confirmation from US or Dutch officials. Clare Locke sent a demand letter for Kushner (Mizelle: "More to come"). Simon & Schuster reportedly released the book a couple of days early anyway (Political Wire, 26 Oct 2026; TheWrap, 24 Oct 2026).
+- **More denials.** White House communications director Steven Cheung called the article "baseless smears" and the book fiction. That is in addition to the denials from Kushner, Mizelle and Trump already recorded.
+- **Sceptics confirmed.** Multiple outlets confirm that the Jerusalem Post pulled its write-up, citing "significant factual questions", and that Barak Ravid questioned the $750M account detail (Mediaite).
+- **Raskin.** His letter says "at least five foreign governments — the Saudis, the Emiratis, the Israelis, the Russians, and even the Dutch — appear to have damning kompromat on you." This is a political characterization of allegations nobody has verified. No one has shown that anyone holds leverage over Kushner.
+- **Salt Typhoon (2024).** Reuters and the NYT confirm Kushner was among those targeted. One anonymous claim says these were "real-time interceptions" rather than device compromises. That claim is unverified, and no exfiltration of his data is documented.

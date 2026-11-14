@@ -102,7 +102,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
-- [[C69 Master timeline money events versus government actions]] · Pending
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
@@ -148,8 +148,8 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Aqua 1 Foundation]] *up to $75M of purchase reached Trump-and-sons company (per NYT)* [[Donald Trump]] · 2025-06 · $75M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Paramount]] *settled '60 Minutes' suit for (to library)* [[Donald Trump]] · 2025-07-02 · $16M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Donald Trump]] *bought shares ($1M-$5M on 2026-02-10, 278-T)* [[Nvidia]] · 2026-02-10 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Donald Trump]] *accounts bought $247k-$630k of shares (Q1 2026)* [[Palantir Technologies (PLTR)]] · 2026-03 · $630K · [[C20 Trump's stock purchases and Truth Social posts|C20]]
-- [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Donald Trump]] *accounts bought $247k-$630k of shares (Q1 2026)* [[Palantir]] · 2026-03 · $630K · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir]] · 2026-04-10 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Donald Trump]] *received about $635M in royalties (2025, per June 2026 disclosure)* [[$TRUMP meme coin]] · 2026-06-30 · $635M · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Donald Trump]] *bought shares ($2.2M-$10.6M, Q1 2026 278-T)* [[Oracle]] · 2026-Q1 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Qatar Boeing 747 gift]] *gifted for use by* [[Donald Trump]] · $400M · [[C16 Qatar jet, arms sales and golf deal|C16]]
@@ -244,7 +244,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[George Sorial]] *former Trump Organization EVP/chief compliance counsel* [[Donald Trump]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 
-### Political (119)
+### Political (120)
 
 - [[Keith Schiller]] *former bodyguard and Oval Office operations director* [[Donald Trump]] · 2017 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Donald Trump]] *pardoned* [[Bernard Kerik]] · 2020-02 · [[C73 Qatar's access network inside and around the administration|C73]]
@@ -277,7 +277,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *hosted ~4-hour PGA Tour-PIF session with* [[Yasir Al-Rumayyan]] · 2025-02-20 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Jay Monahan]] *met at White House on PIF deal* [[Donald Trump]] · 2025-02-20 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Tiger Woods]] *met at White House on PIF deal* [[Donald Trump]] · 2025-02-20 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
-- [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named* [[Donald Trump]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named (Politico, anonymous sources)* [[Donald Trump]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Donald Trump]] *appointed* [[Stephen Feinberg]] · 2025-03 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Donald Trump]] *signed EO 14233 establishing* [[Strategic Bitcoin Reserve]] · 2025-03-06 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Donald Trump]] *appointed senior adviser for Africa/Arab affairs* [[Massad Boulos]] · 2025-04 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
@@ -308,6 +308,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *signed* [[EO 'Assuring the Security of the State of Qatar']] · 2025-09-29 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Donald Trump]] *withdrew CFTC chair nomination* [[Brian Quintenz]] · 2025-09-30 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Donald Trump]] *nominated as CFTC Chair* [[Mike Selig]] · 2025-10 · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Donald Trump]] *hosted donor dinner for* [[White House ballroom]] · 2025-10-15 · [[C69 Master timeline money events versus government actions|C69]]
 - [[Donald Trump]] *struck tungsten deal with* [[Kassym-Jomart Tokayev]] · 2025-11-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Donald Trump]] *announced Kazakhstan tungsten deal for* [[Kaz Resources]] · 2025-11-06 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Donald Trump]] *announced approval of* [[Saudi F-35 sale]] · 2025-11-18 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
@@ -385,7 +386,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *pardoned* [[Trevor Milton]] · 2025-03-28 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Donald Trump]] *pardoned* [[Paul Walczak]] · 2025-04-23 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Donald Trump]] *pardoned (voiding ~$4.4M restitution)* [[Paul Walczak]] · 2025-04-23 · $4.4M · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C69 Master timeline money events versus government actions|C69]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Donald Trump]] *signed* [[Pardon of Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Donald Trump]] *pardoned* [[Joseph Schwartz]] · 2025-11-14 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Donald Trump]] *said he would 'look at' a pardon* [[Keonne Rodriguez]] · 2025-12-15 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
@@ -413,7 +414,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Mary Bruce]] *questioned on Khashoggi and family business* [[Donald Trump]] · 2025-11-18 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Coffeezilla]] *requested comment from (no reply, per video)* [[Donald Trump]] · 2026 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Forbes]] *estimated net worth $6.5B* [[Donald Trump]] · 2026-03 · $6.5B · [[C55 How much has the Trump family made Competing totals|C55]]
-- [[Donald Trump]] *endorsed by ticker '(PLTR)' on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald Trump]] *endorsed by ticker '(PLTR)' on Truth Social* [[Palantir]] · 2026-04-10 · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[CNBC]] *interviewed on UAE swap* [[Donald Trump]] · 2026-04-21 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Reuters]] *estimated at least $2.3B family earnings from four crypto ventures* [[Donald Trump]] · 2026-06-09 · $2.3B · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[The New York Times]] *tallied at least $2.2B in 2025 income* [[Donald Trump]] · 2026-07-01 · $2.2B · [[C29 Trump family wealth gains|C29]]

@@ -34,4 +34,4 @@ Cantor-sponsored SPAC merging with Securitize (S-4 effective Jun 5, 2026)
 
 ### Commercial (1)
 
-- [[Securitize]] *merging via SPAC* [[Cantor Equity Partners II]] · 2025-10 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Securitize]] *merged via SPAC (closed Jul 1, 2026; NYSE: SECZ)* [[Cantor Equity Partners II]] · 2026-07-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]

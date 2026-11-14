@@ -52,7 +52,8 @@ The brief's main pieces are documented. Massad Boulos fronted the US minerals-fo
 
 ## In more detail
 
-- Don Jr.'s friend Gentry Beach (America First Global) led a consortium with Mercuria that sought the M23-held Rubaya coltan mine, and Beach toured Central Africa seeking concessions until Don Jr.'s lawyer sent him a cease-and-desist (WSJ).
+- Don Jr.'s friend Gentry Beach (America First Global) led a consortium with Mercuria that sought the M23-held Rubaya coltan mine, and Beach toured Central Africa seeking concessions until, per a single-source WSJ report, Don Jr.'s lawyer sent him a cease-and-desist letter.
+- Beach denies receiving it.
 - The assets that actually changed hands under the US framework went to firms with no documented Trump-family tie: Virtus Minerals (Chemaf; Reuters found it overstated its mining experience), KoBold Metals (Manono) and the DFC/ADQ-backed Orion consortium (Glencore stake MOU).
 - Beach is not documented as a bidder for Chemaf; that bid was Virtus/Orion, and UBA's $50M facility was for a rival bidder, Buenassa.
 - Erik Prince's Vectus works for Kinshasa on taxes and security, but State says it has no DRC contract with him.
@@ -128,18 +129,20 @@ The brief's main pieces are documented. Massad Boulos fronted the US minerals-fo
 
 - Documented (Reuters exclusive, 21 Apr 2026, relayed by Kitco, Mining.com, Yahoo and Table.Media).
 - Virtus is a Delaware company founded by US special-forces and intelligence veterans.
-- Its website claimed a Congo track record from operating a copper-cobalt processing plant.
-- Reuters found the plant was idle and that Virtus never acquired it.
+- Its website claimed a Congo track record through affiliate ROK Metals, which it said ran the Likasi copper-cobalt processing plant.
+- Reuters found ROK never acquired the plant, which was idle, and the ROK reference was removed from Virtus's website days after Reuters asked.
+- Virtus declined to comment on the record.
 - State said it 'fully supports' Virtus.
 - The chain of events: Orion and Virtus bid in July 2025, and a February 2026 MOU had Orion financing about $600M of debt, with $200M more from Virtus and Lloyds (Mongabay).
 - On 23-24 Feb 2026 Tshisekedi replaced Gecamines' chair and CEO, and three Reuters sources said their opposition to the Virtus bid was part of the reason; Reuters said it was unclear whether the reshuffle was linked to the US talks.
-- On 1 Apr 2026 Under Secretary Jacob Helberg announced Kinshasa's approval: about $30M for the equity plus assumed debt (owed partly to Trafigura) and a $750M capital commitment.
+- On 1 Apr 2026 Under Secretary Jacob Helberg announced Kinshasa's approval: about $30M for the equity plus about $900M of assumed debt (owed partly to Trafigura) and a $750M capital commitment.
 - Africa Intelligence (single-source) describes an 'aggressive pressure campaign' by Trump officials for Virtus.
 - We found NO Trump-family, Boulos or Beach tie to Virtus or its owners.
 - The benefit is to a US firm the administration picked, not a documented family associate.
-- Amounts: about $600M; $200M; about $30M; $750M
+- Update: Reuters (Apr 2026, via Mining.com) reports that Virtus and Lloyds formed a JV, Virtus Lloyds Mineral Holding, which plans to restart full Chemaf production by January 2027.
+- Amounts: about $600M; $200M; about $30M; about $900M; $750M
 - Dates: 21 Apr 2026; July 2025; February 2026; 24 Feb 2026; 1 Apr 2026
-- Sources: [16](https://www.kitco.com/news/off-the-wire/2026-04-22/us-firm-key-congo-minerals-deal-overstated-its-mining-experience) [17](https://finance.yahoo.com/sectors/energy/articles/exclusive-us-firm-key-congo-075755712.html) [18](https://table.media/en/africa/news-en/dr-congo-virtus-minerals-accused-of-misrepresenting-its-mining-experience) [20](https://news.mongabay.com/2026/02/us-firm-virtus-minerals-closes-in-on-deal-for-crucial-drc-copper-and-cobalt-mines/) [21](https://www.kitco.com/news/off-the-wire/2026-02-24/sacked-congo-state-miner-chiefs-opposed-virtus-chemaf-takeover) [22](https://www.engineeringnews.co.za/article/us-firm-virtus-minerals-buys-congolese-cobalt-producer-chemaf-2026-04-01) [23](https://africasacountry.com/2026/05/the-new-scramble-for-congo)
+- Sources: [16](https://www.kitco.com/news/off-the-wire/2026-04-22/us-firm-key-congo-minerals-deal-overstated-its-mining-experience) [17](https://finance.yahoo.com/sectors/energy/articles/exclusive-us-firm-key-congo-075755712.html) [18](https://table.media/en/africa/news-en/dr-congo-virtus-minerals-accused-of-misrepresenting-its-mining-experience) [20](https://news.mongabay.com/2026/02/us-firm-virtus-minerals-closes-in-on-deal-for-crucial-drc-copper-and-cobalt-mines/) [21](https://www.kitco.com/news/off-the-wire/2026-02-24/sacked-congo-state-miner-chiefs-opposed-virtus-chemaf-takeover) [22](https://www.engineeringnews.co.za/article/us-firm-virtus-minerals-buys-congolese-cobalt-producer-chemaf-2026-04-01) [23](https://africasacountry.com/2026/05/the-new-scramble-for-congo) <https://www.mining.com/web/virtus-and-indian-partner-to-restart-chemaf-in-2027-union-executive-says/>
 
 ### 6. Nigeria's UBA prepared financing for a DRC minerals bid.
 
@@ -320,7 +323,7 @@ The brief's main pieces are documented. Massad Boulos fronted the US minerals-fo
 
 ### Legal (2)
 
-- [[Donald Trump Jr]] *lawyer sent cease-and-desist to (WSJ)* [[Gentry Beach]] · 2025-08 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Donald Trump Jr]] *lawyer reportedly sent cease-and-desist to (WSJ, single-source; Beach denies receipt)* [[Gentry Beach]] · 2025-08 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Dan Gertler]] *royalty claims stall stake sale* [[Glencore]] · 2026-03 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 
 ### Commercial (13)
@@ -330,7 +333,7 @@ The brief's main pieces are documented. Massad Boulos fronted the US minerals-fo
 - [[AFC M23]] *controls and taxes* [[Rubaya coltan mine]] · 2024/2026 · $800K · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[KoBold Metals]] *pledged >$1B for Manono under framework* [[Democratic Republic of the Congo]] · 2025 · $1B · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Gentry Beach]] *led investor delegation to* [[Pakistan]] · 2025-01-30 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
-- [[America First Global]] *sought majority stake in (with Mercuria)* [[Rubaya coltan mine]] · 2025-06 · $500M · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[America First Global]] *sought majority stake in (with Mercuria); no deal reported through Nov 2026* [[Rubaya coltan mine]] · 2025-06 · $500M · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Mercuria]] *consortium partner of* [[America First Global]] · 2025-06 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Buenassa]] *rival bidder for* [[Chemaf]] · 2026-01 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Orion Critical Mineral Consortium]] *MOU for 40% of Mutanda/KCC* [[Glencore]] · 2026-02-03 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
@@ -420,7 +423,7 @@ This file asks a narrower question: who got, or sought, which Congolese asset un
 
 **The diplomacy and Beach's pursuit are documented.**
 - Boulos fronted the talks that produced the June 27, 2025 DRC-Rwanda peace agreement and the December 4, 2025 Washington Accords.
-- Gentry Beach is Don Jr.'s friend of more than 20 years and was Trump's 2016 finance co-chair. Through America First Global, he led a consortium with Mercuria that sought the M23-held Rubaya coltan mine.
+- Gentry Beach is Don Jr.'s friend of more than 20 years and was Trump's 2016 finance co-chair. Through America First Global, he led a consortium with Mercuria that sought the M23-held Rubaya coltan mine. Per a single-source WSJ report, Don Jr.'s lawyer later sent him a cease-and-desist letter. Beach denies receiving it.
 
 **The assets that actually changed hands went to other firms.** None of them has a Trump-family tie that we could document:
 - **Chemaf** went to Virtus Minerals. Reuters found Virtus overstated its mining experience.
@@ -472,7 +475,7 @@ None of the coverage names Beach.
   - **Jul 2025:** the Orion/Virtus bid was reported.
   - **Feb 2026:** an MOU set out about $600M in Orion financing, plus $200M from Virtus and Lloyds (Mongabay).
   - **Feb 23-24, 2026:** Tshisekedi replaced Gecamines' chair and CEO. Three Reuters sources said their opposition to Virtus was part of the reason. Reuters said any link to the US talks was unclear.
-  - **Apr 1, 2026:** Under Secretary Jacob Helberg announced the approval: about $30M for the equity, plus assumed debt (partly owed to Trafigura) and a $750M capex commitment.
+  - **Apr 1, 2026:** Under Secretary Jacob Helberg announced the approval: about $30M for the equity, plus about $900M of assumed debt (partly owed to Trafigura) and a $750M capex commitment.
 - **US position:** State "fully supports" Virtus. Africa Intelligence (single-source, via Africa Is a Country) describes an "aggressive pressure campaign" by Trump officials on Virtus's behalf.
 - **Family ties:** We found no Trump-family, Boulos or Beach tie to Virtus. This is state favouritism toward a chosen US firm, not a documented family benefit.
 
@@ -580,3 +583,12 @@ I used about 28 web searches. Direct fetches of mining.com and thedailybeast.com
 44. Fox News, Washington Accords signing, Dec 4, 2025. https://www.foxnews.com/politics/trump-hosts-washington-accords-rwanda-congo-peace-deal-signing-vows-us-rare-earths-purchases.amp
 45. AP via Signal SCV, Dec 4, 2025. https://signalscv.com/2025/12/trump-presides-over-peace-signing-between-democratic-republic-of-congo-and-rwanda/
 46. Egmont Institute, "The Washington Agreements: peace for business is not enough", Dec 2025. https://egmontinstitute.be/the-washington-agreements-peace-for-business-is-not-enough/
+
+### Second review (audit)
+
+Result: **upheld**. Re-checked:
+- **The WSJ cease-and-desist report** (relayed by several outlets). It remains single-source. Beach denies receiving the letter and says he never invoked the Trump family. This is now flagged in the bottom line.
+- **Reuters on Virtus.** The track-record claim ran through ROK Metals and the Likasi plant, which ROK never acquired. The reference was removed from Virtus's website after Reuters asked. The update: the Virtus Lloyds Mineral Holding JV targets a full Chemaf restart by January 2027.
+- **Rubaya.** No signed deal was reported through Nov 2026.
+
+New sources: Reuters via Mining.com, https://www.mining.com/web/virtus-and-indian-partner-to-restart-chemaf-in-2027-union-executive-says/ and https://www.mining.com/web/us-firm-in-key-congo-minerals-deal-overstated-its-mining-experience-documents-and-sources-show/; RANE, https://worldview.ranenetwork.com/content/analysis/2026-05-08/trump-goes-hunting-for-congo-s-minerals

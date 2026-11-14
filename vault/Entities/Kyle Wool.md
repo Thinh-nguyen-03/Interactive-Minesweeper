@@ -20,10 +20,10 @@ President of Dominari Holdings and head of Dominari Securities; former Revere Se
 
 ## How other claims describe it
 
+- Dominari Securities president/CEO; New America Acquisition I chairman (Feb 2026) and CEO (Aug 2026)
 - President of Dominari Holdings, CEO of Dominari Securities; SPAC board/advisory member.
 - Dominari president and CEO of Dominari Securities; former Revere Securities president.
 - Dominari Securities president; NWAX chairman and CEO
-- Dominari Securities president/CEO
 
 ## Appears in claims
 
@@ -48,7 +48,7 @@ President of Dominari Holdings and head of Dominari Securities; former Revere Se
 ### Advisory (2)
 
 - [[Kyle Wool]] *board / advisory board member* [[New America Acquisition I Corp]] · 2025-08 · [[C27 New America Acquisition I Corp SPAC|C27]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Kyle Wool]] *board member; reportedly chairman* [[New America Acquisition I Corp]] · 2026 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Kyle Wool]] *chairman from Feb 6, 2026; CEO from Aug 5, 2026* [[New America Acquisition I Corp]] · 2026-02-06 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 
 ### Commercial (4)
 

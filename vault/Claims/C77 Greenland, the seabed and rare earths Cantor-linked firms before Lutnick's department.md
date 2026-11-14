@@ -114,8 +114,10 @@ Most of the brief's links are documented. Cantor was a top shareholder of Critic
 - In Oct 2026 GreenMet signed a $1M contract to help a DRC miner (Kamituga Mining) build ties with the U.S. government.
 - What this does not show: that GreenMet's Trump-circle shareholders shaped EXIM's or the Pentagon's handling of Tanbreez.
 - GreenMet's exact economic interest in Tanbreez is reported inconsistently.
+- Audit note: the 'director' status for Schiller comes from OCCRP's records.
+- A low-quality dossier site claims both men resigned board and advisory roles in early 2025; we could not confirm that and have not adopted it.
 - Amounts: $1M
-- Dates: 2026-01-22; 2025-11-04; Oct 2026
+- Dates: 2026-01-22; 2025-11-04; Oct 2026; early 2025
 - Sources: [11](https://www.npr.org/transcripts/nx-s1-5682258) [12](https://www.bloomberg.com/features/2025-greenland-trump-deals/) [13](https://www.mining.com/?p=1175496) [14](https://www.cbinsights.com/company/greenmet/alternatives-competitors) [16](https://www.libra.com/news-and-insights/libra-group-unveils-new-investment-in-sustainable-lithium/) [15](https://www.odwyerpr.com/story/public/25497/2026-10-22/greenmet-gets-1m-pact-from-drc-mining-co.html)
 
 ### 4. Schiller and Sorial sell critical-minerals access through two vehicles at once: GreenMet (Greenland) and Javelin Advisors (Pakistan minerals lobbying).
@@ -151,7 +153,7 @@ Most of the brief's links are documented. Cantor was a top shareholder of Critic
 - AP (2026-05-21) reports that TMC 'has received financial advice from Cantor Fitzgerald', and other outlets call Cantor one of TMC's leading bankers.
 - AP also notes that Lutnick 'is now in charge of NOAA and could be influential in the final decision on permits'.
 - The April 2025 seabed-mining executive order gave Lutnick 60 days to expedite licences and permits.
-- Timeline: TMC filed within about a week of the order; NOAA's streamlined rule allowing consolidated applications came in January 2026; TMC filed the first consolidated exploration-plus-commercial-recovery application on 2026-02-06; NOAA found it in full compliance around 2026-04-28 to 05-01; Federal Register publication, with a notice of intent for an EIS on 2026-08-17; public comment closed 2026-10-19; TMC expects a decision by end of Q1 2027.
+- Timeline: TMC filed within about a week of the order; NOAA's streamlined rule allowing consolidated applications came in January 2026; TMC filed the first consolidated exploration-plus-commercial-recovery application on 2026-02-06; NOAA found it in substantial compliance around 2026-03-09 and received an amended application on 2026-03-19, then found it in full compliance around 2026-04-28 to 05-01; Federal Register publication, with a notice of intent for an EIS on 2026-08-17; public comment closed 2026-10-19; TMC expects a decision by end of Q1 2027.
 - No commercial permit had been issued as of Nov 2026.
 - Earthjustice and others are suing over NOAA's certification of a TMC USA exploration application.
 - Recusal: the NYT reported in 2025 that Lutnick's ethics agreement would require him, at least initially, to recuse from matters involving 106 corporate entities.
@@ -159,8 +161,8 @@ Most of the brief's links are documented. Cantor was a top shareholder of Critic
 - Commerce says he complies with all divestiture and recusal requirements.
 - Korea Zinc took 5% of TMC for $85M in Jun 2025.
 - Amounts: 5%; $85M
-- Dates: 2026-05-21; April 2025; January 2026; 2026-02-06; 2026-04-28
-- Sources: [22](https://wtop.com/news/2026/05/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/) [23](https://www.bnnbloomberg.ca/business/2026/05/21/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/) [24](https://www.noaa.gov/news-release/noaa-advances-review-of-first-ever-deep-seabed-mining-commercial-recovery-application) [25](https://www.barchart.com/story/news/37171286/tmc-usa-files-first-consolidated-deep-seabed-mining-application-increasing-expected-commercial-recovery-permit-area-to-65-000-km2) [26](https://www.barchart.com/story/news/1644737/noaa-determines-tmc-usas-consolidated-deep-seabed-mining-application-is-in-full-compliance) [27](https://earthjustice.org/press/2026/lawsuit-challenges-trump-administration-greenlighting-of-international-deep-sea-mining-exploration-permit) [33](https://www.yahoo.com/news/howard-lutnick-trumps-commerce-pick-194648767.html) [28](https://www.mining.com/?p=1181501)
+- Dates: 2026-05-21; April 2025; January 2026; 2026-02-06; 2026-03-09
+- Sources: [22](https://wtop.com/news/2026/05/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/) [23](https://www.bnnbloomberg.ca/business/2026/05/21/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/) [24](https://www.noaa.gov/news-release/noaa-advances-review-of-first-ever-deep-seabed-mining-commercial-recovery-application) [25](https://www.barchart.com/story/news/37171286/tmc-usa-files-first-consolidated-deep-seabed-mining-application-increasing-expected-commercial-recovery-permit-area-to-65-000-km2) [26](https://www.barchart.com/story/news/1644737/noaa-determines-tmc-usas-consolidated-deep-seabed-mining-application-is-in-full-compliance) [27](https://earthjustice.org/press/2026/lawsuit-challenges-trump-administration-greenlighting-of-international-deep-sea-mining-exploration-permit) [33](https://www.yahoo.com/news/howard-lutnick-trumps-commerce-pick-194648767.html) [28](https://www.mining.com/?p=1181501) <https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09>
 
 ### 7. Cantor also raised money for a second NOAA seabed applicant, American Ocean Minerals (merging with Odyssey Marine).
 
@@ -168,6 +170,8 @@ Most of the brief's links are documented. Cantor was a top shareholder of Critic
 
 - On 2026-04-08 American Ocean Minerals Corp (AOMC) agreed an all-stock merger with Odyssey Marine Exploration, giving a combined company worth about $1B, to trade as AOMC.
 - Reuters reported that Citigroup and Cantor Fitzgerald, chaired by Brandon Lutnick, arranged the private placement of more than $150M tied to the deal and serve as AOMC's capital-markets advisers.
+- The company release calls them joint private placement agents.
+- Closing was expected in late Q2 or Q3 2026, but we found no closing announcement through Nov 2026.
 - A $75M pre-public round closed in February.
 - The chairman is Albanese, Rio Tinto CEO from 2007 to 2013.
 - AOMC says two of its DSHMRA exploration applications are in full compliance, and NOAA advanced its Area-1 consolidated application on 2026-07-07.
@@ -175,7 +179,7 @@ Most of the brief's links are documented. Cantor was a top shareholder of Critic
 - AOMC is also on the NYT list of 14 (C60).
 - Investor names and Cantor's fee are not public.
 - Amounts: about $1B; more than $150M; $75M
-- Dates: 2026-04-08; 2026-07-07
+- Dates: 2026-04-08; Nov 2026; 2026-07-07
 - Sources: [30](https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal) [31](https://www.businesswire.com/news/home/20260408786194/en/) [32](https://secure.businesswire.com/news/home/20260707621104/en/NOAA-Advances-American-Ocean-Minerals-Area-1-Seabed-Minerals-Consolidated-Exploration-and-Commercial-Recovery-Application-to-Next-Phase-of-Review)
 
 ### 8. Trump allies got shares in the Cantor-placed $1.5B USA Rare Earth PIPE announced the same day as the $1.6B Commerce letter of intent.
@@ -511,6 +515,7 @@ Bolton told Forbes that Ronald Lauder gave Trump the idea of buying Greenland. P
   - April 2025: Trump's executive order gave Commerce 60 days to speed up seabed permits.
   - About a week later: TMC filed its applications.
   - 2026-02-06: TMC filed the first combined exploration and commercial-recovery application.
+  - Around 2026-03-09: NOAA found the application in substantial compliance. An amended application followed on 2026-03-19.
   - Around 2026-04-28 to 05-01: NOAA found the application in full compliance.
   - 2026-08-17: NOAA published a notice of intent to prepare an environmental impact statement.
   - 2026-10-19: public comment closed.
@@ -519,7 +524,7 @@ Bolton told Forbes that Ronald Lauder gave Trump the idea of buying Greenland. P
 - **Recusal:** the NYT reported in 2025 that Lutnick would initially recuse himself from matters involving 106 entities. Whether TMC is on that list was not found. *Unverified.*
 
 #### 5. A second Cantor-banked seabed applicant: American Ocean Minerals
-On 2026-04-08, AOMC agreed an all-stock merger with Odyssey Marine Exploration worth about $1B. Reuters reports that Citigroup and Cantor (chaired by Brandon Lutnick) arranged the private placement of more than $150M and act as AOMC's capital-markets advisers. NOAA advanced AOMC's Area-1 application on 2026-07-07. The investors' names and Cantor's fees are not public. *Documented.*
+On 2026-04-08, AOMC agreed an all-stock merger with Odyssey Marine Exploration worth about $1B. Reuters reports that Citigroup and Cantor (chaired by Brandon Lutnick) arranged the private placement of more than $150M and act as AOMC's capital-markets advisers. NOAA advanced AOMC's Area-1 application on 2026-07-07. The investors' names and Cantor's fees are not public. We found no announcement that the merger has closed through Nov 2026. *Documented.*
 
 #### 6. USA Rare Earth PIPE and "Trump allies"
 - **The deal:** the PIPE closed on 2026-01-29: about 69.8M shares at $21.50, with Cantor as lead placement agent and Moelis as co-agent. Commerce signed the final agreements on 2026-06-03: $277M in funding plus a $1.3B loan, for about 16.1M shares and about 17.6M warrants (reported exercise price $17.17).
@@ -606,3 +611,12 @@ On 2026-04-08, AOMC agreed an all-stock merger with Odyssey Marine Exploration w
 53. Dermot Cole, Ambler windfall, 2025-10-07. https://www.dermotcole.com/reportingfromalaska/2025/10/7/billionaire-trump-donor-gains-70-million-in-ambler-windfall
 54. Mining.com, Paulson sells Trilogy stake, 2025. https://www.mining.com/web/billionaire-paulson-sells-stake-in-alaska-focused-trilogy-metals/
 55. E&E News, former Trump staffers angle for minerals cash, 2025-08-26. https://www.eenews.net/articles/former-trump-staffers-allies-angle-for-minerals-cash/
+
+### Second review (audit)
+
+Result: **upheld**. Re-checked:
+- **GreenMet.** Schiller and Sorial are confirmed as shareholders. They say they are passive. Schiller's director status rests on OCCRP. An unverified claim that they resigned roles in early 2025 was not adopted.
+- **TMC.** Cantor is again described as one of TMC's leading bankers, and no Lutnick recusal was found. We added the substantial-compliance step (~2026-03-09) and the amended filing (2026-03-19).
+- **AOMC.** Citi and Cantor are confirmed as joint placement agents for the >$150M raise. No merger closing was found through Nov 2026.
+
+New sources: Mining Weekly https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09; Baird Maritime https://www.bairdmaritime.com/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal; Pulitzer Center https://pulitzercenter.org/stories/challenges-persist-tmcs-bid-mine-deep-sea-even-after-boost-trump

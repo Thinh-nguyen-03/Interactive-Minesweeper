@@ -48,6 +48,8 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
   **Record shows:** The documented Gulf-linked episode (666 Fifth, 2017-18) is historical, and Brookfield denied any Qatari role. Current Gulf money flows to Affinity Partners, not Kushner Companies.
 - Several aggregators conflate Massad and Michael Boulos: it was Massad, not Michael, who spent decades in Lagos running SCOA's truck business. Some summaries also wrongly name Michael as the government adviser.
 - Barron's WLF figures (about $40M proceeds, about 7.5% stake, about $150M net worth) are Forbes estimates, not disclosed numbers.
+- The Databricks order's ceiling was $1,824,000 (HigherGov contract record, per C81), not $18M as some aggregators reported.
+- Charles Kushner's Monaco accreditation is verified: credentials presented 27 Oct 2025.
 
 ## What is unproven
 
@@ -56,9 +58,9 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 ## In more detail
 
 - A single NYT investigation (Aug-Sept 2025) documents Boulos-family money and access channels: a $100K payment from a Saudi businessman, now under a House Oversight inquiry; a yacht fee on a sale to Jared Kushner; and a vacation on a Turkish oil trader's yacht that would benefit from Libyan output.
-- The strongest Kushner-sibling link to government decisions is a GSA procurement chief reported to be a Thrive investor while dealing with Thrive-backed Ramp and Databricks, and the investment itself is single-source.
+- The strongest Kushner-sibling link to government decisions is GSA procurement chief Josh Gruenbaum, who courted Ramp (Thrive-backed) while his FAS gave Thrive-led Databricks a $1.824M sole-source order; his reported Thrive-vehicle stake rests on a single WSJ report, and he says he recused (C81).
 - Barron's Sollos venture uses a Trump donor's house as its address.
-- Lara, Ivanka and Kai have no federal-dependent ventures we could find, and Thrive-Kalshi/Polymarket and Boulos-business-DRC-minerals links are unsupported.
+- Lara, Ivanka and Kai have no federal-dependent ventures we could find, and Thrive-Kalshi/Polymarket and Boulos-business-DRC-minerals links are unsupported (C75 found no Boulos or Trump-family stake in any DRC asset).
 
 ## Connections searched for
 
@@ -81,7 +83,9 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 - Five House Democrats wrote demanding clarity on the minerals terms (Africa Confidential).
 - This shows a family in-law running diplomacy in which minerals access is a bargaining chip.
 - It does NOT show a Boulos family financial interest in Congolese minerals: no source we found ties SCOA Nigeria, the Fadoul group or Michael Boulos to a DRC mining asset.
-- Dates: April 2025; 3 Apr 2025
+- C75 (Nov 2026) confirms that none of the assets awarded under the framework (Chemaf to Virtus, Manono to KoBold, the Glencore stake MOU to Orion CMC) has a documented Boulos or Trump-family stake.
+- The only family-adjacent bidder is Don Jr.'s friend Gentry Beach (Rubaya, not closed), whom Don Jr.'s lawyer sent a cease-and-desist in Aug 2025 per the WSJ (single-source).
+- Dates: April 2025; 3 Apr 2025; Nov 2026; Aug 2025
 - Sources: [1](https://www.clickondetroit.com/news/world/2025/04/03/the-us-is-negotiating-a-minerals-deal-with-conflict-hit-congo-a-trump-official-says/) [2](https://www.nhpr.org/2025-04-03/mineral-rich-war-torn-drc-first-stop-for-trumps-new-africa-czar) [3](https://mining.com/web/trump-envoy-says-us-congo-mining-and-security-deal-moving-ahead) [4](https://www.africa-confidential.com/article/id/15508/us-lawmakers-demand-%e2%80%98clarity%27-on-minerals%27-role-in-peace-talks) [5](https://www.theafricareport.com/398241/from-congo-to-sudan-time-is-running-out-for-trumps-africa-dealmaker-massad-boulos/)
 
 ### 2. Massad Boulos's own business is a Nigerian truck/equipment dealer (SCOA Nigeria) controlled by his wife's family, far smaller than the 'billionaire' label, and his financial disclosure is not public.
@@ -89,13 +93,14 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 **Partly accurate**
 
 - Documented for the business: per the NYT (Dec 2024, relayed by Naharnet, Mediaite and Business Insider), Boulos spent about 20 years selling trucks and machinery in Nigeria for SCOA Nigeria PLC, part of the Fadoul group controlled by his father-in-law.
-- SCOA posted a profit under $66,000 the prior year and had a market value of about $865,000.
+- SCOA posted a profit under $66,000 the prior year and had a market value of about $865,000 (figures as of Dec 2024).
+- Audit note: SCOA's share price has since risen sharply (about 437% year-to-date by Feb 2026, per Nairametrics) and it reported an unaudited FY2025 pre-tax profit of N723.8M (roughly $0.5M), so the 2024 snapshot understates its current size; it is still far from a billionaire-scale business.
 - Boulos said he does not call himself a billionaire, and SCOA's audit-committee chair defended him (ThisDay).
 - Single-source for the disclosure: Tablet (relayed by KIVU Today) could not find an OGE 278e for him, and State said only that he is 'compliant with all employment requirements'.
 - A confidential OGE 450 would not be public, so a missing 278e does not by itself show non-filing.
-- Amounts: under $66,000; about $865,000
-- Dates: Dec 2024
-- Sources: [8](https://www.naharnet.com/stories/en/309825-new-york-times-questions-whether-trump-s-mideast-adviser-boulos-is-truly-a-billionaire) [9](https://www.mediaite.com/politics/trump/nyt-reports-trump-administration-pick-and-tiffany-trump-father-in-law-is-not-as-rich-as-he-claims/) [10](https://www.businessinsider.nl/massad-boulos-hailed-as-a-billionaire-lawyer-advising-trump-on-middle-east-policy-probably-isnt-a-lawyer-or-a-billionaire/) [11](https://www.thisdaylive.com/2024/12/15/trump-organisation-defends-boulos-on-nigerian-networth/) [6](https://kivutoday.com/the-hidden-war-behind-the-rwanda-congo-peace-deal-who-really-wanted-congos-minerals/) [7](https://www.tabletmag.com/sections/news/articles/family-business-armin-rosen)
+- Amounts: under $66,000; about $865,000; about 437%; roughly $0.5M
+- Dates: Dec 2024; Feb 2026
+- Sources: [8](https://www.naharnet.com/stories/en/309825-new-york-times-questions-whether-trump-s-mideast-adviser-boulos-is-truly-a-billionaire) [9](https://www.mediaite.com/politics/trump/nyt-reports-trump-administration-pick-and-tiffany-trump-father-in-law-is-not-as-rich-as-he-claims/) [10](https://www.businessinsider.nl/massad-boulos-hailed-as-a-billionaire-lawyer-advising-trump-on-middle-east-policy-probably-isnt-a-lawyer-or-a-billionaire/) [11](https://www.thisdaylive.com/2024/12/15/trump-organisation-defends-boulos-on-nigerian-networth/) [6](https://kivutoday.com/the-hidden-war-behind-the-rwanda-congo-peace-deal-who-really-wanted-congos-minerals/) [7](https://www.tabletmag.com/sections/news/articles/family-business-armin-rosen) [64](https://nairametrics.com/2026/02/26/scoa-nigeria-records-n723-8-million-fy2025-profit-as-equipment-sales-hit-n7-billion/)
 
 ### 3. Nigeria awarded a $700M contract to the Chagoury family, Boulos's reported long-time patrons, weeks before Boulos met President Tinubu.
 
@@ -133,9 +138,10 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 - The explanations conflict.
 - Boulos's spokesman says Allam settled a debt that Frangi's company owed Boulos; Allam's side calls it a loan awaiting repayment.
 - Allam got neither an invitation nor his assets back.
+- No public reply from Boulos, Frangi or Allam was found as of Nov 2026 (audit re-check).
 - This happened while Trump was out of office, so no government decision is involved.
 - Amounts: $100,000
-- Dates: 29 Aug 2025; 22 June 2022; 12 Nov 2022
+- Dates: 29 Aug 2025; 22 June 2022; 12 Nov 2022; Nov 2026
 - Sources: [21](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-investigates-reports-foreign-money-flowing) [22](https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/evo-media-document/2025-08-29-garcia-to-boulos-allam-frangi.pdf) [23](https://thehill.com/homenews/administration/5477588-oversight-committee-investigates-boulos/) [24](https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-ron-wyden-investigate-jared-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy)
 
 ### 6. Michael Boulos earned a fee on a superyacht sale to Jared Kushner that the NYT says was overpriced by about $2.5M.
@@ -170,12 +176,12 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 
 - Trump pardoned Charles Kushner in Dec 2020 for his 2005 tax-evasion, witness-tampering and illegal-campaign-contribution convictions.
 - Trump nominated him in Nov 2024 (Fortune), the Senate confirmed him 51-45 on 19-20 May 2025 (AP), and he presented credentials in July 2025.
-- Wikipedia adds an October 2025 accreditation to Monaco, which we did not verify elsewhere.
+- He also presented credentials to Prince Albert II as ambassador to Monaco on 27 Oct 2025 (Monaco Tribune, Monaco Life; verified in audit).
 - In Aug 2025 he publicly rebuked Macron over antisemitism and was summoned by the French foreign ministry.
 - An unsourced web dossier claims his ethics agreement required resigning from 55 entities and divesting about 150 positions.
 - We could not verify that and do not rely on it.
-- Dates: Dec 2020; Nov 2024; 20 May 2025; July 2025; October 2025
-- Sources: [25](https://fortune.com/2024/11/30/trump-charles-kushner-pardon-jared-ivanka-us-ambassador-france/) [26](https://www.news4jax.com/news/politics/2025/05/20/senate-confirms-charles-kushner-father-of-trumps-son-in-law-as-ambassador-to-france/) [27](https://en.wikipedia.org/wiki/Charles_Kushner) [28](https://www.foreign.senate.gov/download/05/01/2025/050125_kushner_testimonypdf)
+- Dates: Dec 2020; Nov 2024; 20 May 2025; July 2025; 27 Oct 2025
+- Sources: [25](https://fortune.com/2024/11/30/trump-charles-kushner-pardon-jared-ivanka-us-ambassador-france/) [26](https://www.news4jax.com/news/politics/2025/05/20/senate-confirms-charles-kushner-father-of-trumps-son-in-law-as-ambassador-to-france/) [27](https://en.wikipedia.org/wiki/Charles_Kushner) [28](https://www.foreign.senate.gov/download/05/01/2025/050125_kushner_testimonypdf) [63](https://www.monaco-tribune.com/en/2025/10/prince-albert-ii-and-princess-charlene-welcome-charles-kushner-new-us-ambassador-to-monaco/)
 
 ### 9. Kushner Companies relied on Gulf-linked financing for 666 Fifth Avenue while Jared Kushner served in the first Trump White House.
 
@@ -211,15 +217,20 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 
 **Partly accurate**
 
-- Documented that GSA under Federal Acquisition Service commissioner Josh Gruenbaum courted Thrive-backed fintech Ramp for the roughly $700B SmartPay card program.
-- ProPublica found at least four meetings with Ramp before the opportunity was opened, and Rep. Gerald Connolly opened a probe in 2025 (ProPublica, Gizmodo, Banking Dive).
-- Single-source, secondhand (a WSJ report relayed by aggregators in 2026; we could not reach the WSJ) that Gruenbaum is personally an investor in a Thrive fund (reported at $100,001-$250,000, March 2025) and that GSA later gave a sole-source contract to Thrive-backed Databricks.
-- The aggregators conflict on the amount ($1.8M vs $18M), so treat it as unverified.
-- Thrive says neither it nor Josh Kushner discussed government contracts with Gruenbaum, and Ramp says it was unaware of the link.
-- This is the only documented channel we found in which a Kushner-family firm's portfolio meets federal procurement decisions.
-- Amounts: roughly $700B; $100,001-$250,000; $1.8M; $18M
-- Dates: March 2025
-- Sources: [39](https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system) [40](https://gizmodo.com/trump-team-eyes-politically-connected-startup-to-overhaul-700-billion-government-payments-program-2000591587) [41](https://bankingdive.com/news/ramp-angles-700b-smartpay-trump/745959) [42](https://en.wikipedia.org/wiki/Josh_Gruenbaum) [43](https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/) [44](https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract)
+- Documented that GSA under Federal Acquisition Service commissioner Josh Gruenbaum courted Ramp (backed first by Founders Fund; Thrive joined from its June 2025 Series E) for a SmartPay pilot worth up to $25M within the roughly $700B SmartPay card program.
+- ProPublica found at least four meetings with Ramp before the opportunity was opened, and Rep. Gerald Connolly wrote to GSA on 9 May 2025 (ProPublica, Gizmodo, Banking Dive).
+- No source says Ramp won the pilot.
+- Documented for the award (contract records, reconciled with C81): GSA's TTS, part of FAS, posted a sole-source justification on 10 Feb 2026 for a five-month, fixed-price Databricks engineering-services order (47QPCA26F0011) with a ceiling of $1,824,000.
+- The aggregators' '$18M' figure is an error; the WSJ figure is $1.8M. Single-source, secondhand (WSJ, late May 2026, relayed by aggregators; the WSJ itself could not be reached): Gruenbaum invested $100,001-$250,000 (an OGE value band) in March 2025 in a Databricks-linked Thrive special-purpose vehicle.
+- He says he disclosed it, got ethics approval and recused himself.
+- Also single-source: GSA Administrator Ed Forst blocked a ~$25M Ramp award in April 2026 and asked him to step aside; his April 2026 departure from FAS is documented (Federal News Network), and he calls it planned.
+- No source says Gruenbaum signed or steered the Databricks order, and the sum is immaterial to Databricks.
+- Thrive says neither it nor Josh Kushner discussed government contracts with Gruenbaum, and Ramp says it was unaware of the investment.
+- Gruenbaum was simultaneously working for Jared Kushner on Gaza and the Board of Peace (C81); any link between that and the investment is inferred.
+- This is the only documented channel we found in which a Kushner-family firm's portfolio meets federal procurement decisions. Full treatment in C81.
+- Amounts: up to $25M; roughly $700B; $1,824,000; $18M; $1.8M
+- Dates: June 2025; 9 May 2025; 10 Feb 2026; late May 2026; March 2025
+- Sources: [39](https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system) [40](https://gizmodo.com/trump-team-eyes-politically-connected-startup-to-overhaul-700-billion-government-payments-program-2000591587) [41](https://bankingdive.com/news/ramp-angles-700b-smartpay-trump/745959) [42](https://en.wikipedia.org/wiki/Josh_Gruenbaum) [43](https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/) [44](https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract) [66](https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/) [67](https://federalnewsnetwork.com/people/2026/04/gruenbaum-leaving-as-gsa-fas-commissioner/?readmore=1)
 
 ### 12. Thrive Capital holds stakes in Kalshi or Polymarket.
 
@@ -251,11 +262,12 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 - Single-source-plus (Newsweek, relayed by Mediaite, Daily Beast and IBTimes): Sollos Yerba Mate Inc. (Delaware, 3 Dec 2025; Florida, 12 Jan 2026) lists as its address a roughly $16M Palm Beach house owned by developer Jay Weitzman.
 - Weitzman gave $25,000 to Trump's 2017 inauguration and $2,700 to the 2016 campaign, his grandson Spencer Bernstein is a director, and his firm Park America has held federal contracts.
 - Weitzman and the company deny he has any role.
-- Fox Business could not confirm that the filing's Barron Trump is the president's son, though BevNET says the brand launched in May 2026 and is 'reportedly' connected to him.
+- Fox Business initially could not confirm that the filing's Barron Trump is the president's son; a later Fox Business report (seen only as a search snippet) says January Florida and Delaware filings list Barron Trump as one of five directors of the Palm Beach company, and BevNET says the brand launched in May 2026 (Gopuff exclusive) and is 'reportedly' connected to him.
+- No outlet we found has a family or company confirmation.
 - An earlier real-estate venture (Trump, Fulcher & Roxburgh) will not be relaunched.
 - Amounts: about $40M; $25M; about 7.5%; $150M; roughly $16M
 - Dates: 3 Dec 2025; 12 Jan 2026; May 2026
-- Sources: [49](https://www.benzinga.com/markets/25/06/46017024/trump-financial-disclosures-reveal-barron-trumps-potential-40-million-windfall-from-crypto-project) [50](https://e.vnexpress.net/news/tech/personalities/trump-s-youngest-son-barron-reportedly-earns-40m-from-family-crypto-venture-4908245.html) [51](https://www.mediaite.com/media/news/barron-trumps-tea-startup-lists-donors-palm-beach-mansion-as-hq-report/) [52](https://www.thedailybeast.com/barron-trumps-new-get-rich-quick-scheme-linked-to-fathers-donor-jay-weitzman) [53](https://www.ibtimes.co.uk/barron-trump-yerba-mate-ethical-concerns-1782153) [54](https://www.foxbusiness.com/politics/barron-trump-linked-beverage-company-based-near-mar-a-lago) [55](https://www.bevnet.com/news/2026/review-how-does-sollos-yerba-mate-stack-up) [56](https://www-ak-ms.foxbusiness.com/politics/barron-trump-business-partner-clarifies-future-luxury-real-estate-venture-will-not-relaunched)
+- Sources: [49](https://www.benzinga.com/markets/25/06/46017024/trump-financial-disclosures-reveal-barron-trumps-potential-40-million-windfall-from-crypto-project) [50](https://e.vnexpress.net/news/tech/personalities/trump-s-youngest-son-barron-reportedly-earns-40m-from-family-crypto-venture-4908245.html) [51](https://www.mediaite.com/media/news/barron-trumps-tea-startup-lists-donors-palm-beach-mansion-as-hq-report/) [52](https://www.thedailybeast.com/barron-trumps-new-get-rich-quick-scheme-linked-to-fathers-donor-jay-weitzman) [53](https://www.ibtimes.co.uk/barron-trump-yerba-mate-ethical-concerns-1782153) [54](https://www.foxbusiness.com/politics/barron-trump-linked-beverage-company-based-near-mar-a-lago) [55](https://www.bevnet.com/news/2026/review-how-does-sollos-yerba-mate-stack-up) [56](https://www-ak-ms.foxbusiness.com/politics/barron-trump-business-partner-clarifies-future-luxury-real-estate-venture-will-not-relaunched) [65](https://www.foxbusiness.com/retail/barron-trump-linked-beverage-brand-launches-first-product-florida-inspired-twist)
 
 ### 15. Ivanka Trump has ventures that depend on government decisions.
 
@@ -316,6 +328,7 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 - [[Fox News]] · Media
 - [[France]] · Country
 - [[General Services Administration]] · Government body
+- [[Gentry Beach]] · Person
 - [[Gerald Connolly]] · Person
 - [[Gilbert Chagoury]] · Person
 - [[ITB Nigeria]] · Company
@@ -363,7 +376,7 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 - [[Michael Boulos]] *earned about $300K fee on yacht sold to* [[Jared Kushner]] · 2022 · $300K · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Abdulelah Allam]] *wired $100,000 to* [[Michael Boulos]] · 2022-06-22 · $100K · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Thrive Capital]] *invested more than $1B in Oct 2024 round; led 2024 tender* [[OpenAI]] · 2024-10 · $1B · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Josh Gruenbaum]] *reported investor in a Thrive fund (WSJ via aggregators; single-source)* [[Thrive Capital]] · 2025-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Josh Gruenbaum]] *reported $100,001-$250,000 investor in a Databricks-linked Thrive SPV (WSJ via aggregators; single-source); says he recused* [[Thrive Capital]] · 2025-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Qatar Investment Authority]] *major investor in (Brookfield denies Qatari role in 666 deal)* [[Brookfield]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Thrive Capital]] *investor in* [[Databricks]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Thrive Capital]] *investor in* [[Ramp]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
@@ -379,7 +392,7 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 - [[Eric Trump]] *president and trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Michael Boulos]] *trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[OpenAI]] *took equity stake (paid in services)* [[Thrive Holdings]] · 2025-12-01 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Barron Trump]] *reported founder (identity unconfirmed by Fox Business)* [[Sollos Yerba Mate Inc]] · 2025-12-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Barron Trump]] *listed director per filings (Fox Business, snippet); identity not confirmed by family* [[Sollos Yerba Mate Inc]] · 2025-12-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Charles Kushner]] *founder and chairman of* [[Kushner Companies]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Ercument Bayegan]] *owns* [[BGN International]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Fadoul Group]] *controls* [[SCOA Nigeria PLC]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
@@ -418,10 +431,11 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 - [[Charles Kushner]] *US ambassador to* [[France]] · 2025-07 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Massad Boulos]] *announced plans to raise oil output* [[Libya]] · 2025-07 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 
-### Legal (4)
+### Legal (5)
 
 - [[Donald Trump]] *pardoned* [[Charles Kushner]] · 2020-12-23 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Gerald Connolly]] *opened probe into Ramp dealings* [[General Services Administration]] · 2025 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Donald Trump Jr]] *lawyer sent cease-and-desist over claimed business partnership (WSJ, single-source; Beach denies receipt)* [[Gentry Beach]] · 2025-08 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Robert Garcia]] *sent inquiry letter to* [[Abdulelah Allam]] · 2025-08-29 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Robert Garcia]] *sent inquiry letter to* [[Michael Boulos]] · 2025-08-29 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 
@@ -442,8 +456,8 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 - [[Bola Tinubu]] *government picked for $700M Lagos ports contract* [[ITB Nigeria]] · 2025-03 · $700M · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Michael Boulos]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] · 2025-07 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Tiffany Trump]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] · 2025-07 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[General Services Administration]] *reported sole-source contract (single-source)* [[Databricks]] · 2026 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Jay Weitzman]] *owns house used as company address (denies involvement)* [[Sollos Yerba Mate Inc]] · 2026-01 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[General Services Administration]] *sole-source order, $1,824,000 ceiling (TTS/FAS, Feb 2026)* [[Databricks]] · 2026-02-10 · $1.82M · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[BGN International]] *trades Libyan oil* [[Libya]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Gilbert Chagoury]] *reported long-time patron of (Tablet; single-source)* [[Massad Boulos]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Massad Boulos]] *managing director of* [[SCOA Nigeria PLC]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
@@ -469,7 +483,7 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
   - The same congressional channel links the Boulos and Kushner in-law inquiries (March 2026).
   - [[Jared Kushner]] [[Affinity Partners]] [[Robert Garcia]] [[Ron Wyden]] · [Source](https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-ron-wyden-investigate-jared-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy)
 
-## Sources (62)
+## Sources (67)
 
 1. [The US is negotiating a minerals deal with conflict-hit Congo, a Trump official says](https://www.clickondetroit.com/news/world/2025/04/03/the-us-is-negotiating-a-minerals-deal-with-conflict-hit-congo-a-trump-official-says/) (AP (via WDIV), 2025-04-03)
 2. [Mineral-rich, war-torn DRC first stop for Trump's new Africa czar](https://www.nhpr.org/2025-04-03/mineral-rich-war-torn-drc-first-stop-for-trumps-new-africa-czar) (NPR (via NHPR), 2025-04-03)
@@ -533,6 +547,11 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 60. [Miami golf commit Kai Trump inks NIL deal with Accelerator Active Energy](https://www.on3.com/nil/news/miami-golf-commit-kai-trump-inks-nil-deal-with-accelerator-active-energy) (On3, 2025)
 61. [TaylorMade signs Kai Trump to endorsement deal](https://www.yardbarker.com/golf/articles/taylormade_signs_kai_trump_to_endorsement_deal/s1_17063_41794860) (Field Level Media (via Yardbarker), 2025-02)
 62. [Leaf Trading Cards announces NIL partnership with Kai Trump](https://www.on3.com/nil/news/leaf-trading-cards-announces-nil-partnership-with-kai-trump-miami-hurricanes-golf/) (On3, 2025)
+63. [Prince Albert II and Princess Charlene welcome Charles Kushner, new US ambassador to Monaco](https://www.monaco-tribune.com/en/2025/10/prince-albert-ii-and-princess-charlene-welcome-charles-kushner-new-us-ambassador-to-monaco/) (Monaco Tribune, 2025-10)
+64. [SCOA Nigeria records N723.8 million FY2025 profit](https://nairametrics.com/2026/02/26/scoa-nigeria-records-n723-8-million-fy2025-profit-as-equipment-sales-hit-n7-billion/) (Nairametrics, 2026-02-26)
+65. [Barron Trump-linked beverage brand launches first product](https://www.foxbusiness.com/retail/barron-trump-linked-beverage-brand-launches-first-product-florida-inspired-twist) (Fox Business, 2026-05)
+66. [Databricks engineering services order 47QPCA26F0011](https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/) (HigherGov (federal contract record), 2026-02-10)
+67. [Gruenbaum leaving as GSA FAS commissioner](https://federalnewsnetwork.com/people/2026/04/gruenbaum-leaving-as-gsa-fas-commissioner/?readmore=1) (Federal News Network, 2026-04)
 
 ## Full report
 
@@ -548,9 +567,12 @@ Origin: connection hunt (no video claim). Builds on C04/C29 (Barron and WLF), C1
 - Massad Boulos is the father of Michael Boulos, Tiffany Trump's husband. He was named Senior Advisor for Africa in April 2025, alongside his Arab-affairs role. His first stop was Kinshasa (3 Apr 2025). There he said a US-DRC minerals deal would be signed alongside a Congo-Rwanda peace agreement, and that US and Western companies would invest billions afterward (AP, NPR). Five House Democrats demanded the deal's terms (Africa Confidential).
 - What this shows: a family in-law runs diplomacy that trades on minerals access.
 - What it does not show: we found no Boulos-family commercial interest in DRC minerals.
+- C75 (Nov 2026) confirms this: none of the assets awarded under the framework has a documented Boulos or Trump-family stake.
+  - The only family-adjacent bidder is Don Jr.'s friend Gentry Beach, whose Rubaya bid has not closed.
+  - Per the WSJ (single-source), Don Jr.'s lawyer sent Beach a cease-and-desist in August 2025.
 
 #### 2. Boulos's own business: SCOA Nigeria / Fadoul group (documented; disclosure gap single-source)
-- The NYT (Dec 2024, via Naharnet, Mediaite and Business Insider) reported that Boulos spent about 20 years selling trucks for SCOA Nigeria PLC, which his father-in-law's Fadoul group controls. SCOA's profit was under $66K and its market value about $865K, far from the "billionaire" tag. Boulos says he never called himself one, and SCOA's audit-committee chair defended him.
+- The NYT (Dec 2024, via Naharnet, Mediaite and Business Insider) reported that Boulos spent about 20 years selling trucks for SCOA Nigeria PLC, which his father-in-law's Fadoul group controls. SCOA's profit was under $66K and its market value about $865K, far from the "billionaire" tag. Those are December 2024 figures. Since then SCOA's shares have rallied (about 437% year-to-date by February 2026), and it reported an unaudited FY2025 pre-tax profit of N723.8M, roughly $0.5M (Nairametrics). It is still nowhere near billionaire scale. Boulos says he never called himself one, and SCOA's audit-committee chair defended him.
 - Tablet (via KIVU Today) could not find his public OGE 278e. State says he is "compliant with all employment requirements". A confidential OGE 450 would not be public, so a missing 278e does not by itself show he did not file.
 
 #### 3. Nigeria: Chagoury contract and the Tinubu meeting (contract documented; Boulos link single-source)
@@ -565,7 +587,7 @@ Origin: connection hunt (no video claim). Builds on C04/C29 (Barron and WLF), C1
 #### 5. Michael Boulos and the $100K from a Saudi businessman (inquiry documented; facts single-source)
 - The NYT reported that Abdulelah Allam wired $100,000 to Michael Boulos on 22 June 2022, the day of a Virginia meeting arranged by Boulos's cousin James Frangi. An invitation to the Nov 2022 Mar-a-Lago wedding was discussed.
 - Rep. Robert Garcia wrote to Boulos, Allam and Frangi on 29 Aug 2025. His office describes the payment as being for leveraging Trump ties to help Allam recover assets Saudi Arabia seized.
-- The accounts conflict. Boulos's side says Allam settled a debt Frangi's company owed Boulos, while Allam's side calls it a loan. Allam got neither an invitation nor his assets.
+- The accounts conflict. Boulos's side says Allam settled a debt Frangi's company owed Boulos, while Allam's side calls it a loan. Allam got neither an invitation nor his assets. No public reply to Garcia's letters was found as of November 2026.
 
 #### 6. Michael Boulos and the Kushner yacht (single-source: NYT, 21 Aug 2025)
 - Through Frangi's brokerage, Jared Kushner bought the 50m *Solstice*, under construction in Perama, Greece. The NYT reports about a $2.5M overcharge and about $300K to Boulos.
@@ -576,7 +598,7 @@ Origin: connection hunt (no video claim). Builds on C04/C29 (Barron and WLF), C1
 He is a trustee of the Donald J. Trump Presidential Library Foundation, with Eric Trump and James Kiley. The foundation got IRS exemption in 10 days and a state-deeded Miami parcel.
 
 #### 8. Charles Kushner: pardon, then ambassador (documented)
-- Trump pardoned him in Dec 2020 and nominated him in Nov 2024. The Senate confirmed him 51-45 in May 2025, and he took up the Paris post in July 2025. Wikipedia also lists a Monaco accreditation in Oct 2025, which we did not verify elsewhere. In Aug 2025 he rebuked Macron over antisemitism and was summoned by the French foreign ministry.
+- Trump pardoned him in Dec 2020 and nominated him in Nov 2024. The Senate confirmed him 51-45 in May 2025, and he took up the Paris post in July 2025. He presented credentials as ambassador to Monaco on 27 Oct 2025 (Monaco Tribune; verified in audit). In Aug 2025 he rebuked Macron over antisemitism and was summoned by the French foreign ministry.
 - An unsourced dossier's details of his ethics agreement (55 resignations, about 150 divestitures) could not be verified and are not relied on.
 
 #### 9. Kushner Companies' foreign financing (documented but historical)
@@ -589,8 +611,15 @@ He is a trustee of the Donald J. Trump Presidential Library Foundation, with Eri
 - We found no Thrive stake in Stargate itself and no Thrive lobbying. In 2017 Jared Kushner divested Thrive-linked LLCs.
 
 #### 11. GSA's Josh Gruenbaum and Thrive-backed contractors (Ramp courtship documented; personal stake single-source)
-- GSA under Federal Acquisition Service commissioner Josh Gruenbaum courted Thrive-backed Ramp for the roughly $700B SmartPay program. ProPublica counted at least four meetings before the opportunity opened, and Rep. Connolly opened a probe in 2025.
-- A WSJ report, relayed secondhand by aggregators in 2026, says Gruenbaum invested $100,001-$250,000 in a Thrive fund (March 2025) and that GSA later gave Thrive-backed Databricks a sole-source contract. The aggregators give conflicting amounts ($1.8M vs $18M).
+- GSA under Federal Acquisition Service commissioner Josh Gruenbaum courted Ramp for a SmartPay pilot worth up to $25M, within the roughly $700B SmartPay program.
+  - Ramp's first backer was Founders Fund; Thrive joined from June 2025.
+  - ProPublica counted at least four meetings before the opportunity opened, and Rep. Connolly wrote to GSA on 9 May 2025.
+  - No source says Ramp won the pilot.
+- **Databricks order (documented; reconciled with C81).** GSA's TTS, part of FAS, gave Thrive-led Databricks a five-month, fixed-price sole-source order (47QPCA26F0011, justification posted 10 Feb 2026) with a ceiling of **$1,824,000**. Some aggregators said $18M; that is an error, and the WSJ figure is $1.8M.
+- **Gruenbaum's stake (single-source).** A WSJ report from late May 2026, seen only via aggregators, says he put $100,001-$250,000 in March 2025 into a Databricks-linked Thrive vehicle.
+  - He says he disclosed it, got ethics approval and recused himself.
+  - Also single-source: GSA's administrator reportedly blocked a Ramp award in April 2026. Gruenbaum's departure that month is documented; he calls it planned.
+- No source says he steered the Databricks order. His concurrent work for Jared Kushner on Gaza and the Board of Peace is documented, but any link to the investment is inferred (C81).
 - Thrive and Ramp deny any contact or knowledge.
 - This is the only documented point we found where a Kushner-sibling firm's portfolio meets federal procurement decisions.
 
@@ -600,7 +629,7 @@ He is a trustee of the Donald J. Trump Presidential Library Foundation, with Eri
   - its address is a roughly $16M Palm Beach house owned by Trump donor Jay Weitzman ($25K to the 2017 inauguration);
   - Weitzman's grandson Spencer Bernstein is a director;
   - Weitzman's Park America holds federal contracts.
-- Weitzman denies any role. Fox Business could not confirm that the filing's "Barron Trump" is the president's son. The earlier real-estate venture will not be relaunched.
+- Weitzman denies any role. Fox Business at first could not confirm that the filing's "Barron Trump" is the president's son. A later Fox Business report, seen only as a search snippet, says the filings list Barron Trump as one of five directors. The brand launched in May 2026, and there is still no family confirmation. The earlier real-estate venture will not be relaunched.
 
 #### 13. Lara Trump (documented; no federal dependency found)
 Former RNC co-chair. She has hosted Fox News's *My View with Lara Trump* since 22 Feb 2025 and runs the LT Brand activewear line. Her link is a media one, not a regulatory one.
@@ -699,6 +728,27 @@ Everyone named denies wrongdoing; the specific denials are recorded under each c
 ### Leads (not researched here)
 - Kimberly Guilfoyle (ambassador to Greece) and House Democrats' records request over an alleged pay-to-play scheme. https://www.pbs.org/newshour/politics/exclusive-house-democrats-ask-kimberly-guilfoyle-for-records-related-to-alleged-pay-to-pay-scheme
 - Oversight probe of a Russian oligarch reportedly funding Don Jr.'s wedding parties (Axios, 2026-09-15). https://www.axios.com/2026/09/15/donald-trump-jr-wedding-investigation-kremlev
-- Verify the WSJ's Gruenbaum, Thrive and Databricks reporting directly.
+- Verify the WSJ's Gruenbaum, Thrive and Databricks reporting directly (now covered in C81).
 - Which firms gained access under the Boulos-brokered US-DRC minerals framework, including a Reuters report that a key US firm overstated its mining experience. https://finance.yahoo.com/sectors/energy/articles/exclusive-us-firm-key-congo-075755712.html
 - Nigeria's UBA financing for a DRC minerals bid (Semafor, 2026-01-26). https://www.semafor.com/article/01/26/2026/nigerias-uba-preps-50m-financing-for-drc-minerals-bid
+
+### Audit (second review, Nov 2026)
+**Result: corrected.**
+
+Re-verified:
+- Allam's $100K payment and the Garcia letters: upheld; no public reply was found.
+- SCOA's size.
+- Charles Kushner's Monaco post: now verified.
+- Sollos.
+
+Changes:
+- **Gruenbaum (reconciled with C81).** The Databricks order ceiling is $1,824,000, not $18M. The stake and the Ramp block remain single-source (WSJ), and his recusal claim is added.
+- **DRC (reconciled with C75).** There is no Boulos or Trump-family stake in any DRC asset. The cease-and-desist to Gentry Beach is single-source (WSJ).
+- **SCOA.** The NYT figures are a December 2024 snapshot.
+
+New sources:
+- Monaco Tribune (2025-10): https://www.monaco-tribune.com/en/2025/10/prince-albert-ii-and-princess-charlene-welcome-charles-kushner-new-us-ambassador-to-monaco/
+- Nairametrics (2026-02-26): https://nairametrics.com/2026/02/26/scoa-nigeria-records-n723-8-million-fy2025-profit-as-equipment-sales-hit-n7-billion/
+- Fox Business (2026-05): https://www.foxbusiness.com/retail/barron-trump-linked-beverage-brand-launches-first-product-florida-inspired-twist
+- HigherGov contract record (2026-02-10): https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/
+- Federal News Network (2026-04): https://federalnewsnetwork.com/people/2026/04/gruenbaum-leaving-as-gsa-fas-commissioner/?readmore=1

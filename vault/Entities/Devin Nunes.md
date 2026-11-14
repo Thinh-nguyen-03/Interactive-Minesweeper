@@ -46,5 +46,5 @@ TMTG CEO 2022 to April 2026; planned co-CEO of the merged company; chairs the Pr
 
 ### Commercial (2)
 
-- [[Devin Nunes]] *director of (single-source)* [[Texas Ventures Acquisition III Corp]] · 2025 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Devin Nunes]] *director of until Feb 2026 resignation (8-K)* [[Texas Ventures Acquisition III Corp]] · 2025-09/2026-02 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Devin Nunes]] *director of (single-source)* [[Blue Water Acquisition Corp III (BLUW)]] · 2025-11 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]

@@ -46,6 +46,7 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - The Meta FTC outcome was a court ruling (Boasberg, 2025-11-18), not an administration decision. Meta's attempt to settle with the administration reportedly failed.
 - 'Ballroom?' for Nvidia: confirmed. $25M, anonymous, per the Washington Post's leaked spreadsheet (2026-10-15).
 - Brockman's $25M MAGA Inc gift is filed as $12.5M each from Greg and Anna Brockman.
+- Paramount-WBD closing date: the deal closed on Tuesday 2026-10-06 (AP), not about 2026-09-29 as first inferred.
 
 ## In more detail
 
@@ -74,13 +75,13 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - David Ellison then bid for WBD.
 - In early-mid December 2025, after Netflix signed for WBD's studios/streaming, Trump said the Netflix deal 'could be a problem' on market share, that he might be 'involved' in the decision, and that CNN should be sold; reports said David Ellison had visited Trump and promised 'significant changes' at CNN (WSJ, relayed by NBC).
 - On 2025-12-22 Larry Ellison gave an 'irrevocable personal guarantee' of $40.4B of the bid's equity.
-- WBD dropped Netflix on 2026-02-27 (Paramount paid Netflix's $2.8B break fee); shareholders approved $31/share (~$81B equity, ~$110-111B with debt) in April 2026; the Trump DOJ cleared it in the summer; it closed on about 2026-09-29 (AP 'Tuesday', our date inference).
+- WBD dropped Netflix on 2026-02-27 (Paramount paid Netflix's $2.8B break fee); shareholders approved $31/share (~$81B equity, ~$110-111B with debt) in April 2026; the Trump DOJ cleared it in the summer; it closed on Tuesday 2026-10-06, after settlements with a coalition of states and a writers' union (AP via KSAT, dated 2026-10-06; corrected in audit from an inferred ~2026-09-29).
 - The Ellisons now control CBS (Bari Weiss as editor-in-chief) and CNN.
 - What this does not show: no source documents a quid pro quo.
 - Trump said none of the bidders were 'particularly great friends'; Paramount denies any link between the settlement and approvals.
 - Amounts: $16M; ~$8B; $40.4B; $2.8B; $31/share
 - Dates: 2025-07-01; 2025-07-24; mid December 2025; 2025-12-22; 2026-02-27
-- Sources: [14](https://www.cbsnews.com/amp/news/paramount-trump-60-minutes-lawsuit-settlement) [15](https://au.variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-25630) [7](https://www.nbcnewyork.com/news/national-international/donald-trump-cnn-warner-bros-deal/6428839/) [5](https://www.thewrap.com/industry-news/business/larry-ellison-personal-guarantee-paramount-amended-warner-bros-discovery-bid/) [6](https://www.adn.com/business-economy/2025/12/22/larry-ellison-guarantees-404b-in-paramounts-hostile-bid-for-warner-bros-discovery/) [10](https://www.britannica.com/money/netflix-paramount-skydance-battle-for-warner-bros) [9](https://finance.yahoo.com/news/warner-bros-investors-approve-110-billion-sale-to-paramount-skydance-following-long-battle-with-netflix-150428059.html) [11](https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060) [12](https://www.nbcwashington.com/news/business/paramount-completes-warner-bros-merger-to-form-skydance/) [13](https://www.bworldonline.com/bloomberg/2026/03/03/733619/david-ellison-is-shaking-up-cbs-news-cnn-looks-to-be-next/)
+- Sources: [14](https://www.cbsnews.com/amp/news/paramount-trump-60-minutes-lawsuit-settlement) [15](https://au.variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-25630) [7](https://www.nbcnewyork.com/news/national-international/donald-trump-cnn-warner-bros-deal/6428839/) [5](https://www.thewrap.com/industry-news/business/larry-ellison-personal-guarantee-paramount-amended-warner-bros-discovery-bid/) [6](https://www.adn.com/business-economy/2025/12/22/larry-ellison-guarantees-404b-in-paramounts-hostile-bid-for-warner-bros-discovery/) [10](https://www.britannica.com/money/netflix-paramount-skydance-battle-for-warner-bros) [9](https://finance.yahoo.com/news/warner-bros-investors-approve-110-billion-sale-to-paramount-skydance-following-long-battle-with-netflix-150428059.html) [11](https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060) [12](https://www.nbcwashington.com/news/business/paramount-completes-warner-bros-merger-to-form-skydance/) [13](https://www.bworldonline.com/bloomberg/2026/03/03/733619/david-ellison-is-shaking-up-cbs-news-cnn-looks-to-be-next/) [71](https://www.ksat.com/news/politics/2026/10/06/paramount-closes-on-81-billion-takeover-of-warner-bros-discovery-joining-two-of-americas-oldest-hollywood-studios/)
 
 ### 2. Jared Kushner's Affinity Partners was a named backer of the Ellisons' hostile WBD bid alongside Saudi PIF, QIA and Abu Dhabi's L'imad, then withdrew.
 
@@ -205,9 +206,10 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - Axios (2026-11-11) reports Lutnick stalled curbs on chip diversion to China (C50).
 - Trump's Q1 2026 OGE 278-T shows Nvidia purchases, including $1M-$5M on 2026-02-10 (Capitol Trades).
 - No source shows the ballroom gift bought any decision, and the White House says the trades are run by third-party managers and comply with the STOCK Act.
+- Audit note: Reuters, relaying the Post, said it had not independently verified the spreadsheet, and the Post reported the Nvidia gift was made in October 2025, after the China chip-sales arrangement; the leaked list excludes in-kind gifts.
 - Amounts: $25M; 15%; 25%; $1M-$5M
 - Dates: 2026-10-15; October 2025; 2025-12-08; November 2025; 2026-11-11
-- Sources: [52](https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors) [53](https://www.implicator.ai/nvidia-and-apple-each-committed-25-million-to-trumps-ballroom-leaked-list-shows/) [54](https://www.wypr.org/2026-10-16/investigation-details-who-donated-to-the-white-house-ballroom-project) [56](https://axios.com/2025/12/09/trump-nvidia-ai-h200-china) [57](https://techcrunch.com/2025/12/08/department-of-commerce-may-approve-nvidia-h200-chip-exports-to-china) [58](https://www.thenationalnews.com/future/technology/2025/11/20/uae-ai-nvidia-chips-us/) [59](https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls) [60](https://www.capitoltrades.com/articles/3700-trades-half-a-billion-dollars-inside-trump-s-q1-stock-spree-2026-05-18)
+- Sources: [52](https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors) [53](https://www.implicator.ai/nvidia-and-apple-each-committed-25-million-to-trumps-ballroom-leaked-list-shows/) [54](https://www.wypr.org/2026-10-16/investigation-details-who-donated-to-the-white-house-ballroom-project) [56](https://axios.com/2025/12/09/trump-nvidia-ai-h200-china) [57](https://techcrunch.com/2025/12/08/department-of-commerce-may-approve-nvidia-h200-chip-exports-to-china) [58](https://www.thenationalnews.com/future/technology/2025/11/20/uae-ai-nvidia-chips-us/) [59](https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls) [60](https://www.capitoltrades.com/articles/3700-trades-half-a-billion-dollars-inside-trump-s-q1-stock-spree-2026-05-18) [72](https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/)
 
 ### 11. Palantir/Thiel: Vance's patron's company won large federal contracts, gave to the ballroom, and was touted by Trump by ticker after his portfolio bought it.
 
@@ -302,7 +304,7 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - [[Omeed Malik]] · Person
 - [[OpenAI]] · Company
 - [[Oracle]] · Company
-- [[Palantir Technologies (PLTR)]] · Company
+- [[Palantir]] · Company
 - [[Paramount]] · Company
 - [[Pentagon (Department of Defense)]] · Government body
 - [[Peter Thiel]] · Person
@@ -342,12 +344,12 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - [[Donald Trump]] *bought shares ($1M-$5M on 2026-02-10, 278-T)* [[Nvidia]] · 2026-02-10 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Paramount]] *paid termination fee* [[Netflix]] · 2026-02-27 · $2.8B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[MGX]] *co-lead investor in $122B round* [[OpenAI]] · 2026-03-31 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir]] · 2026-04-10 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Amazon]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Meta]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Microsoft]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Nvidia]] *committed, anonymously (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $25M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Palantir Technologies (PLTR)]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Palantir]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Donald Trump]] *bought shares ($2.2M-$10.6M, Q1 2026 278-T)* [[Oracle]] · 2026-Q1 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 
 ### Ownership (18)
@@ -364,10 +366,10 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - [[Affinity Partners]] *~1.1% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Public Investment Fund (Saudi Arabia)]] *~93.4% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Silver Lake]] *~5.5% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Paramount]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-09-29 · $81B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Paramount]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-10-06 · $81B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Josh Kushner]] *founder* [[Thrive Capital]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Larry Ellison]] *co-founder, largest shareholder* [[Oracle]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Peter Thiel]] *co-founder* [[Palantir Technologies (PLTR)]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Peter Thiel]] *co-founder* [[Palantir]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Sheikh Tahnoon bin Zayed]] *chairman* [[MGX]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Warner Bros. Discovery]] *owns* [[CNN]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 
@@ -405,9 +407,9 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 
 - [[Lisa Monaco]] *president of global affairs* [[Microsoft]] · 2025 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Oracle]] *initial equity partner* [[Project Stargate]] · 2025-01-21 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[ICE]] *ImmigrationOS contract* [[Palantir Technologies (PLTR)]] · 2025-04 · $30M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[ICE]] *ImmigrationOS contract* [[Palantir]] · 2025-04 · $30M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Pentagon (Department of Defense)]] *CDAO AI contract (ceiling)* [[xAI]] · 2025-07 · $200M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir Technologies (PLTR)]] · 2025-07-31 · $10B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir]] · 2025-07-31 · $10B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[OpenAI]] *~$300B 5-year compute contract (WSJ)* [[Oracle]] · 2025-09-10 · $300B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 
 ## Leads not covered here
@@ -426,9 +428,9 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
   - [[Leading the Future]] [[Greg Brockman]] [[Andreessen Horowitz (a16z crypto)]] [[EO 'Ensuring a National Policy Framework for AI']] · [Source](https://axios.com/2025/12/11/trump-signs-executive-order-state-ai-laws)
 - **Washington Post ballroom spreadsheet: anonymous donors vs. pending decisions**
   - Nvidia's $25M was hidden from the October 2025 list; 67 donations total ~$333M.
-  - [[Nvidia]] [[White House ballroom]] [[Palantir Technologies (PLTR)]] [[Microsoft]] · [Source](https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors)
+  - [[Nvidia]] [[White House ballroom]] [[Palantir]] [[Microsoft]] · [Source](https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors)
 
-## Sources (70)
+## Sources (76)
 
 1. [Paramount unveils Jared Kushner, Middle East sovereign funds as backers of hostile WBD bid](https://deadline.com/2025/12/paramount-warner-bros-bid-jared-kushner-middle-east-funds-1236642045/) (Deadline, 2025-12-08)
 2. [Kushner's Affinity Partners exits Paramount bid for Warner Bros. Discovery](https://www.cnbc.com/2025/12/16/kushner-affinity-paramount-wbd-netflix.html) (CNBC, 2025-12-16)
@@ -440,7 +442,7 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 8. [Warner Bros. Discovery signs merger agreement with Paramount Skydance](https://www.nbcnews.com/business/media/warner-bros-discovery-signs-merger-agreement-paramount-skydance-rcna261035) (NBC News, 2026-02)
 9. [Warner Bros. investors approve $110 billion sale to Paramount Skydance](https://finance.yahoo.com/news/warner-bros-investors-approve-110-billion-sale-to-paramount-skydance-following-long-battle-with-netflix-150428059.html) (Yahoo Finance, 2026-04)
 10. [Paramount Skydance wins Warner Bros. Discovery after Netflix drops out](https://www.britannica.com/money/netflix-paramount-skydance-battle-for-warner-bros) (Britannica Money, 2026)
-11. [Paramount completes its takeover of Warner Bros (AP)](https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060) (ABC News, 2026-09-29)
+11. [Paramount completes its takeover of Warner Bros (AP)](https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060) (ABC News, 2026-10-06)
 12. [Paramount completes Warner Bros merger to form Skydance](https://www.nbcwashington.com/news/business/paramount-completes-warner-bros-merger-to-form-skydance/) (NBC Washington, 2026-09-30)
 13. [David Ellison is shaking up CBS News; CNN looks to be next (Bloomberg)](https://www.bworldonline.com/bloomberg/2026/03/03/733619/david-ellison-is-shaking-up-cbs-news-cnn-looks-to-be-next/) (BusinessWorld, 2026-03-03)
 14. [Paramount, President Trump reach $16 million settlement](https://www.cbsnews.com/amp/news/paramount-trump-60-minutes-lawsuit-settlement) (CBS News, 2025-07-02)
@@ -500,6 +502,12 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 68. [Trump demands Microsoft fire head of global affairs](https://gizmodo.com/trump-demands-microsoft-fire-head-of-global-affairs-2000664696) (Gizmodo, 2025-09-26)
 69. [Trump received $10.7 million fee for Amazon's 'Melania' documentary](https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/) (Variety, 2026-07-01)
 70. [OpenAI's investment into Thrive Holdings](https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/) (TechCrunch, 2025-12-01)
+71. [Paramount closes on $81 billion takeover of Warner Bros. Discovery (AP)](https://www.ksat.com/news/politics/2026/10/06/paramount-closes-on-81-billion-takeover-of-warner-bros-discovery-joining-two-of-americas-oldest-hollywood-studios/) (KSAT, 2026-10-06)
+72. [Nvidia, Apple each gave US$25m for Trump's ballroom (Reuters, citing WaPo)](https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/) (Canberra Times, 2026-10-16)
+73. [Nvidia, Microsoft and the White House ballroom](https://aftermath.site/nvidia-microsoft-white-house-ballroom/) (Aftermath, 2026-10)
+74. [SpaceX set to begin trading after raising $75 billion in record IPO](https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/) (CBS News, 2026-06-12)
+75. [MAGA figures cash in big on Elon Musk's space venture](https://www2.thedailybeast.com/maga-figures-cash-in-big-on-elon-musks-space-venture) (The Daily Beast, 2026-06)
+76. [Trump-aligned MAGA Inc super PAC enters 2026 with $300 million stockpile (Reuters)](https://www.spokesman.com/stories/2026/jan/02/trump-aligned-maga-inc-super-pac-enters-2026-with-) (Spokesman-Review, 2026-01-02)
 
 ## Full report
 
@@ -560,7 +568,7 @@ Evidence grades:
 | 2026-06-11/12 | SpaceX IPO: $135 a share, about $1.77T valuation | documented |
 | 2026 summer | DOJ clears Paramount-WBD | documented |
 | 2026-08-04 | EA buyout closes: PIF about 93.4%, Silver Lake about 5.5%, Affinity about 1.1% | documented |
-| about 2026-09-29 | Paramount-WBD closes | documented (day inferred from AP's "Tuesday") |
+| 2026-10-06 | Paramount-WBD closes, after settlements with a coalition of states and a writers' union | documented (AP via KSAT; corrected in audit) |
 | 2026-10-15 | Washington Post leaks the ballroom spreadsheet: Nvidia $25M (anonymous), Microsoft and Palantir $10M each, Meta and Amazon $5M each | documented |
 
 ### Connections
@@ -782,3 +790,14 @@ Trump held Oracle while approving the TikTok structure that gave Oracle 15%. The
 50. Yahoo Finance, Trump praises PLTR after buying it, 2026-05. https://finance.yahoo.com/markets/stocks/articles/trump-praises-palantir-pltr-truth-044917332.html
 
 The full source list, with titles, publishers and dates, is in `data/claims/C68.json`.
+
+### Audit (second review, Nov 2026)
+
+Result: **corrected**.
+- Re-checked: Nvidia's $25M anonymous ballroom pledge; the Paramount/WBD timeline; the SpaceX IPO figures and 1789 Capital's stakes; the Brockmans' $25M to MAGA Inc.
+- **Correction:** Paramount closed the WBD takeover on Tuesday 2026-10-06 (AP via KSAT), not about 2026-09-29 as first inferred. The timeline, finding, source date and relationship date are fixed.
+- **Nvidia:** upheld. Reuters, relaying the Post, said it had not verified the leaked spreadsheet. The Post dates Nvidia's gift to October 2025, after the China chip-sales arrangement. The list excludes in-kind gifts.
+- **SpaceX:** upheld at $135 a share, about $75B raised, priced 2026-06-11 and listed 2026-06-12, about $1.77T at pricing. Later valuations of $2T or more are post-debut.
+- **1789 Capital:** its xAI/SpaceX stakes (more than $50M, reported) are upheld. No source quantifies its IPO gain, so that stays **inferred**.
+- **Brockman:** upheld. The FEC lists $12.5M from each spouse.
+- New sources: KSAT/AP, 2026-10-06 (https://www.ksat.com/news/politics/2026/10/06/paramount-closes-on-81-billion-takeover-of-warner-bros-discovery-joining-two-of-americas-oldest-hollywood-studios/); Canberra Times/Reuters, 2026-10-16 (https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/); Aftermath (https://aftermath.site/nvidia-microsoft-white-house-ballroom/); CBS News (https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/); Daily Beast (https://www2.thedailybeast.com/maga-figures-cash-in-big-on-elon-musks-space-venture); Spokesman-Review/Reuters (https://www.spokesman.com/stories/2026/jan/02/trump-aligned-maga-inc-super-pac-enters-2026-with-).

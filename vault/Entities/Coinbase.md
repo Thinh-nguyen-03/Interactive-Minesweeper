@@ -2,8 +2,8 @@
 id: "coinbase"
 kind: "entity"
 type: "company"
-connections: 15
-claims: 6
+connections: 16
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ Crypto exchange whose SEC lawsuit was dropped.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 6 claims |
-| Connections | 15 |
+| Appears in | 7 claims |
+| Connections | 16 |
 
 ## How other claims describe it
 
@@ -34,6 +34,7 @@ Crypto exchange whose SEC lawsuit was dropped.
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 
 ## Relationships
 

@@ -42,7 +42,7 @@ Self-described UAE fund that bought $100M of WLFI (2025-06-26); not ADGM-registe
 ### Ownership (4)
 
 - [[Aqua 1 GP Limited]] *general-partner vehicle of* [[Aqua 1 Foundation]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Guren 'Bobby' Zhou]] *figure behind $100M purchase (NYT)* [[Aqua 1 Foundation]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Guren 'Bobby' Zhou]] *figure behind $100M purchase (NYT; single-source)* [[Aqua 1 Foundation]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Dave Lee]] *co-founder; denied Web3Port link* [[Aqua 1 Foundation]] · 2025-07 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Guren 'Bobby' Zhou]] *figure behind purchase (per NYT)* [[Aqua 1 Foundation]] · 2026-08-09 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 

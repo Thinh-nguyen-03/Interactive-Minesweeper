@@ -33,7 +33,7 @@ Rock Hill, SC drone/counter-drone maker; Nasdaq PUSA after Aureus merger
 
 ### Money (1)
 
-- [[Pakistan]] *Ministry of Defence placed initial drone order; Army MoU* [[Powerus Corp]] · 2026-09 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Pakistan]] *initial drone order (Army per Reuters; MoD per Quwa/Defense Post) plus Army MoU* [[Powerus Corp]] · 2026-09 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 
 ### Ownership (5)
 

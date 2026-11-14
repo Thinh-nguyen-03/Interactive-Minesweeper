@@ -39,7 +39,7 @@ President's youngest son; Forbes estimates net worth of ~$150M.
 
 - [[Barron Trump]] *co-founder; estimated about 7.5% stake (Forbes)* [[World Liberty Financial]] · 2024-09 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Barron Trump]] *holds a stake (Forbes assumes about 10%)* [[World Liberty Financial]] · 2025 · [[C29 Trump family wealth gains|C29]]
-- [[Barron Trump]] *reported founder (identity unconfirmed by Fox Business)* [[Sollos Yerba Mate Inc]] · 2025-12-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Barron Trump]] *listed director per filings (Fox Business, snippet); identity not confirmed by family* [[Sollos Yerba Mate Inc]] · 2025-12-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 
 ### Family (2)
 

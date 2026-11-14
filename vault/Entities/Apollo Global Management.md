@@ -10,7 +10,7 @@ tags:
 ---
 # Apollo Global Management
 
-Private-equity firm; its trust (partly Qatar-owned) put $100M into the Witkoff Group; its arm Athene financed the Park Lane purchase
+Private-equity firm; per a corrected NYT report it lent $100M to the Witkoff Group directly, not via its Qatar-part-owned trust; its arm Athene financed the Park Lane purchase
 
 | | |
 |---|---|
@@ -29,12 +29,15 @@ Private-equity firm; its trust (partly Qatar-owned) put $100M into the Witkoff G
 
 ## Relationships
 
-### Money (2)
+### Money (1)
 
-- [[Apollo Global Management]] *Apollo-run trust (partly Qatar-owned) provided $100M* [[Witkoff Group]] · 2025-05 · $100M · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Apollo Global Management]] *lent $100M (refinancing)* [[Witkoff Group]] · 2025-05 · $100M · [[C73 Qatar's access network inside and around the administration|C73]]
 
 ### Ownership (2)
 
 - [[Athene Annuity and Life Co]] *subsidiary of* [[Apollo Global Management]] · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Qatar]] *partial owner of the Apollo-run trust that funded the Witkoff Group* [[Apollo Global Management]] · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Qatar]] *investor in an Apollo-run trust (per NYT correction, that trust was not the Witkoff lender)* [[Apollo Global Management]] · [[C53 The Witkoff family's own Gulf money|C53]]
+
+### Commercial (1)
+
+- [[Apollo Global Management]] *lent $100M (Belgrove loan; NYT correction: Apollo itself, not its Qatar-part-owned trust)* [[Witkoff Group]] · 2025-05 · $100M · [[C53 The Witkoff family's own Gulf money|C53]]

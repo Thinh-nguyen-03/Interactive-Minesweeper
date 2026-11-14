@@ -10,7 +10,7 @@ tags:
 ---
 # Checkmate Government Relations
 
-Ches McDowell's firm; Pakistan defence/minerals work via Greystone.
+Ches McDowell's firm (FARA 7534); Pakistan-related government-relations work paid by Dubai-based Greystone.
 
 | | |
 |---|---|
@@ -38,7 +38,7 @@ Ches McDowell's firm; Pakistan defence/minerals work via Greystone.
 ### Money (4)
 
 - [[Greystone Investment & Management LLC]] *$100K Phase 1 contract for Pakistan* [[Checkmate Government Relations]] · 2025-05-15 · $100K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Greystone Investment & Management LLC]] *pays for Pakistan defence/minerals lobbying* [[Checkmate Government Relations]] · 2025-05-15 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Greystone Investment & Management LLC]] *pays for Pakistan-related government-relations work ($100K Phase I, $200K option)* [[Checkmate Government Relations]] · 2025-05-15 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Binance]] *paid for 'executive relief' lobbying* [[Checkmate Government Relations]] · 2025-09 · $450K · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Binance]] *paid ~$450K for 'executive relief' lobbying* [[Checkmate Government Relations]] · 2025-09 · $450K · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 

@@ -124,7 +124,10 @@ The core ownership chains are documented. One Florida revocable trust, with Dona
 - CNN traced the 'Swiss-made' watches to a Sheridan shopping center tied to other Trump-themed sellers.
 - Both companies' sites say they are not owned or controlled by Trump or CIC Ventures.
 - A shared formation agent is common in Wyoming and does not prove shared owners; the licensees' beneficial owners are not public.
-- Dates: 31 Jan 2024; 17 Feb 2024
+- Audit note: Cowboy State Daily says Wyoming Trust and LLC / Cloud Peak Law Group has set up more than 5,000 LLCs, and CNN reports that Pierce's father and business partner, Mark Pierce, said he had no idea two of their clients were connected to Trump.
+- TheBestWatchesOnEarth LLC was created on July 29, 2024 (CNN).
+- Both points further weaken any common-ownership reading; the shared agent remains documented.
+- Dates: 31 Jan 2024; 17 Feb 2024; July 29, 2024
 - Sources: [11](https://cowboystatedaily.com/2024/04/01/company-behind-trumps-flashy-gold-high-top-sneakers-registered-in-wyoming) [12](https://cowboystatedaily.com/2024/10/01/trumps-new-line-of-100k-watches-registered-to-wyoming-company/) [13](https://amp.cnn.com/cnn/2024/10/17/politics/trump-watches-wyoming-invs)
 
 ### 5. The two CIC silos feed each other: CIC Ventures-licensed merchandise sites began accepting the CIC Digital-licensed $TRUMP coin as payment.
@@ -364,8 +367,8 @@ The core ownership chains are documented. One Florida revocable trust, with Dona
 - [[Dar Global]] *pays licence fees to (Dar Al Arkan ~$21.9M 2025)* [[DT Marks KSA LLC]] · 2025 · [[C63 Shell entities and ownership chains|C63]]
 - [[Designers Manager]] *paid NFT/collectibles licence income* [[Melania Trump]] · 2025 · $6.01M · [[C63 Shell entities and ownership chains|C63]]
 - [[WC Digital Fi LLC]] *paid ~$107M 2025 income* [[Steve Witkoff]] · 2025 · $107M · [[C63 Shell entities and ownership chains|C63]]
-- [[Aryam Investment 1]] *~$187M of $250M upfront flowed to Trump-family entities* [[DT Marks DEFI LLC]] · 2025-01 · $187M · [[C63 Shell entities and ownership chains|C63]]
-- [[Aryam Investment 1]] *agreed to buy 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Aryam Investment 1]] *~$187M of $250M upfront flowed to Trump-family entities (WSJ, anonymous sources)* [[DT Marks DEFI LLC]] · 2025-01 · $187M · [[C63 Shell entities and ownership chains|C63]]
+- [[Aryam Investment 1]] *agreed to buy 49% for $500M (WSJ, anonymous sources)* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C63 Shell entities and ownership chains|C63]]
 - [[American Ventures]] *SPV bought stake (FT, anonymous)* [[Skyline Builders Group]] · 2025-08 · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump Jr]] *investor in most vehicles (FT)* [[American Ventures]] · 2025-08 · [[C63 Shell entities and ownership chains|C63]]
 - [[Eric Trump]] *investor in most vehicles (FT)* [[American Ventures]] · 2025-08 · [[C63 Shell entities and ownership chains|C63]]
@@ -423,7 +426,7 @@ The core ownership chains are documented. One Florida revocable trust, with Dona
 ### Advisory (3)
 
 - [[Zach Witkoff]] *President and Chairman* [[World Liberty Trust Company, N.A]] · 2026 · [[C63 Shell entities and ownership chains|C63]]
-- [[G42]] *executives help manage* [[Aryam Investment 1]] · [[C63 Shell entities and ownership chains|C63]]
+- [[G42]] *executives help manage (WSJ)* [[Aryam Investment 1]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Pat O'Brien]] *CEO of* [[Trump Mobile]] · [[C63 Shell entities and ownership chains|C63]]
 
 ### Political (2)
@@ -720,3 +723,14 @@ A shared formation agent, a naming template or a common parent shows structure, 
 47. BNN Bloomberg, Aureus/Powerus (2026-03-09): https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/
 48. Reuters via AOL, Albania approves resort (2024-12-30): https://www.aol.com/news/albania-approves-luxury-resort-project-132236248.html
 49. Bloomberg, Tether loan to Lutnick's children (2026-03-18): https://www.bloomberg.com/news/features/2026-03-18/tether-made-loan-to-lutnick-s-children-as-they-bought-his-assets
+
+### Audit (second-opinion pass, Nov 2026)
+
+Result: **upheld**.
+
+- **Trust.** The 13D language is confirmed: Donald Trump Jr. is sole trustee, with sole voting and investment power over 114.75M DJT shares; Trump is settlor and sole current beneficiary.
+- **StringZ.** The 49% of WLTC Holdings is confirmed as WSJ reporting from people familiar with the matter (Aug 27, 2026), relayed by The Block and Cointelegraph. The OCC decision names StringZ but gives no owner or percentage. It remains single-source, as labelled.
+- **Wyoming agent.** Confirmed by Cowboy State Daily and CNN. Context added that cuts against common ownership: the agent's firm has formed more than 5,000 LLCs, and Mark Pierce told CNN he did not know two clients were Trump-connected. The watch LLC was created July 29, 2024.
+- **Khanna letter.** The Feb 4, 2026 letter to US Attorney Wallace is confirmed (Select Committee PDF). No action by the US Attorney's office was found.
+
+New sources: SEC 13D/A; The Block 2026-08-27; Cowboy State Daily 2024-04-01; CNN 2024-10-17; Select Committee letter 2026-02-04. URLs are in the JSON `audit.new_sources`.

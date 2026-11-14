@@ -26,7 +26,7 @@ Russian president of the International Boxing Association, close to Putin; paid 
 
 ### Money (1)
 
-- [[Umar Kremlev]] *paid for parts of wedding celebrations (island rental, fireworks); later repaid* [[Donald Trump Jr]] · 2026-05 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Umar Kremlev]] *paid for parts of wedding celebrations (island rental, fireworks); Kremlev says repaid* [[Donald Trump Jr]] · 2026-05 · [[C76 Russia-linked money around the family and envoys|C76]]
 
 ### Ownership (1)
 

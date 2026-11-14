@@ -58,10 +58,10 @@ Received Blumenthal's Tether referral; reportedly asked Commerce to pause the Me
 ### Political (5)
 
 - [[Harmeet Dhillon]] *Assistant AG for Civil Rights at* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Todd Blanche]] *Deputy AG, then Attorney General of* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Todd Blanche]] *Deputy AG, acting AG (Apr 2026), then confirmed Attorney General (Aug 8, 2026) of* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Chad Mizelle]] *chief of staff at* [[US Department of Justice (us-doj)]] · 2025-01 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Jack Reed]] *co-signed letters asking for WLF probe* [[US Department of Justice (us-doj)]] · 2025-11-18 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Todd Blanche]] *Deputy AG, later AG* [[US Department of Justice (us-doj)]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Todd Blanche]] *Deputy AG; acting AG from Apr 2, 2026* [[US Department of Justice (us-doj)]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 
 ### Legal (11)
 

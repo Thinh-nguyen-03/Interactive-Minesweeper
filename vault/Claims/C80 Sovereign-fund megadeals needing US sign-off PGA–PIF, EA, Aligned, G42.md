@@ -133,6 +133,8 @@ Most links in the brief are documented, but the approvals behind them are often 
 - Treasury Secretary Bessent chairs CFIUS.
 - The deal's critics are on record: Sens. Blumenthal and Warren (letter of 2025-10-14) wrote that the investors appear to be 'betting $1 billion that Mr. Kushner can deliver' approvals, and Lawfare (Vinita Singh, 2025-10-03) predicted 'the CFIUS review that will never be'.
 - We could not access the primary SEC filing, so the CFIUS clearance rests on press accounts.
+- Audit: GamingBolt, Mobilegamer.biz and Tech-Insider again report that EA's 30 Jul 2026 SEC filing said all required approvals were obtained, with CFIUS the last hurdle that pushed closing past the original 30 Jun target; ABC News (as relayed) gives 5 Aug rather than 4 Aug as the closing date.
+- Still no Treasury statement or mitigation terms.
 - Amounts: $210; $1 billion
 - Dates: 2026-08-04; 2026-07-30; 2026-07-23; 2026-07-31; 2026-09-28
 - Sources: [11](https://gameluster.com/ea-acquisition-pif-leveraged-buyout/) [12](https://thenextweb.com/news/eu-approves-saudi-pif-ea-buyout-subsidy-rules) [13](https://www.hsgac.senate.gov/wp-content/uploads/2025-10-14-Letter-from-Blumenthal-and-Warren-to-Secretary-Bessent-re-Electronic-Arts.pdf) [14](https://www.lawfaremedia.org/article/the-cfius-review-that-will-never-be) <https://startupfortune.com/the-eu-cleared-the-saudi-kushner-buyout-of-electronic-arts-and-now-only-washington-stands-in-the-way/> <https://www.ainvest.com/news/deal-closed-gap-2608/>
@@ -164,8 +166,10 @@ Most links in the brief are documented, but the approvals behind them are often 
 - Single-source (WSJ, relayed): Tahnoon led the lobbying and went directly to the White House after the war began.
 - Sen. Warren (statement of 2026-07-10) called the rule a reward despite diversion risk and tied it to the Tahnoon-linked 49% stake in World Liberty.
 - The White House and WLF deny any link.
+- Audit: law-firm alerts (Latham, Skadden, Morgan Lewis, Akin, Steptoe) give the rule's effective date as 10 Jul 2026, and say the G42/Core42 approval expires on 6 Apr 2027 unless they become 'U.S. companies' or obtain approval via BIS's advisory-opinion process, which is the stated driver of the G42 restructuring talks in the next item.
+- The Tahnoon lobbying account is still known only through relays of the WSJ.
 - Amounts: 49%
-- Dates: 2026-07-10; 2026-07-14; 2027-04-06
+- Dates: 2026-07-10; 2026-07-14; 2027-04-06; 10 Jul 2026; 6 Apr 2027
 - Sources: [18](https://www.skadden.com/insights/publications/2026/07/bis-liberalizes-export) [19](https://www.mondaq.com/bis-upgrades-the-uae-from-country-group-d-to-country-group-a-under-the-ear-allowing-increased-trade-in-advanced-computing-and-defense-items/1818120) [20](https://www.al-monitor.com/originals/2026/07/us-makes-it-easier-export-nvidia-ai-chips-and-military-equipment-uae) [21](https://www.datacenterdynamics.com/en/news/us-govt-eases-ai-chip-export-controls-on-uae-following-countrys-support-in-iran-war/) [22](https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-trump-administrations-removing-export-controls-on-ai-chips-to-uae)
 
 ### 7. G42 is reincorporating as a US company.
@@ -247,8 +251,8 @@ Most links in the brief are documented, but the approvals behind them are often 
 - [[China]] · Country
 - [[Core42]] · Company
 - [[Donald Trump]] · Person
+- [[EA take-private]] · Event
 - [[Electronic Arts]] · Company
-- [[Electronic Arts take-private]] · Event
 - [[Elizabeth Warren]] · Person
 - [[G42]] · Company
 - [[Global Infrastructure Partners (GIP)]] · Fund
@@ -334,7 +338,7 @@ Most links in the brief are documented, but the approvals behind them are often 
 - [[BIS UAE Country Group A 5 rule]] *promised 'favorable review' of licence applications* [[MGX]] · 2026-07-10 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[BIS UAE Country Group A 5 rule]] *moved from D:3/D:4 to A:5* [[United Arab Emirates]] · 2026-07-10 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[US Department of Commerce]] *issued* [[BIS UAE Country Group A 5 rule]] · 2026-07-10 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
-- [[CFIUS]] *reportedly cleared by 30 Jul 2026 (no public terms)* [[Electronic Arts take-private]] · 2026-07-30 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[CFIUS]] *reportedly cleared by 30 Jul 2026 (no public terms)* [[EA take-private]] · 2026-07-30 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 
 ### Political (10)
@@ -352,7 +356,7 @@ Most links in the brief are documented, but the approvals behind them are often 
 
 ### Media (3)
 
-- [[Lawfare]] *predicted 'the CFIUS review that will never be'* [[Electronic Arts take-private]] · 2025-10-03 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Lawfare]] *predicted 'the CFIUS review that will never be'* [[EA take-private]] · 2025-10-03 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[G42]] *reported plan to reincorporate in US (unconfirmed)* [[The Wall Street Journal]] · 2026-07 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Bloomberg]] *reported exploratory talks to sell US-majority stake* [[G42]] · 2026-09-04 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 
@@ -533,3 +537,12 @@ These links are our own cross-referencing. No source asserts them.
 26. Enterprise AM: "kilo of salt" (2026-07-17). https://enterpriseam.com/menaplus/2026/07/17/those-reports-that-g42-is-going-to-be-mostly-us-downed-take-em-with-a-kilo-of-salt/
 27. Enterprise AM: Will G42 become a US company? (2026-11-04). https://enterpriseam.com/uae/2026/11/04/will-g42-become-a-us-company/
 28. Bloomberg: Lunate takes on G42's China fund (2024-07-08). https://www.bloomberg.com/news/articles/2024-07-08/abu-dhabi-investment-firm-lunate-takes-on-ai-firm-g42-s-china-fund
+
+### Audit (second review, Nov 2026)
+
+Result: **upheld**. Re-checked: the EA buyout close and CFIUS; the UAE A:5 rule; Tahnoon's reported lobbying; G42's restructuring.
+
+- **EA buyout.** GamingBolt, Mobilegamer.biz and Tech-Insider report that EA's 30 Jul 2026 filing said all approvals were in hand. CFIUS was the last hurdle and pushed the close past 30 Jun. One relay of ABC News dates the close to 5 Aug rather than 4 Aug. No Treasury statement or mitigation terms were found.
+- **UAE rule.** Law-firm alerts (Latham, Skadden, Morgan Lewis, Akin, Steptoe) give the effective date as 10 Jul 2026. G42/Core42's approved status expires on 6 Apr 2027 unless they become US companies or get approval through BIS's advisory-opinion process. That expiry is the stated driver of the G42 restructuring talks.
+- **Still single-source.** The Tahnoon lobbying account (WSJ, via relays) and the G42 reincorporation report. The latest item found is Bloomberg's September 2026 report of exploratory talks. I found no deal through Nov 2026.
+- **New sources.** https://gamingbolt.com/eas-acquisition-by-saudi-arabias-pif-gets-regulatory-approval-deal-will-close-on-august-4th ; https://www.lw.com/en/insights/us-eases-export-controls-for-the-uae-4-key-takeaways ; https://www.morganlewis.com/pubs/2026/07/bis-upgrades-uae-export-control-status-with-ai-chip-access-limited-to-approved-entities ; https://mobileworldlive.com/ai-cloud/g42-weighs-us-ownership-to-secure-chip-access

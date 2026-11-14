@@ -2,8 +2,8 @@
 id: "gemini"
 kind: "entity"
 type: "company"
-connections: 13
-claims: 6
+connections: 14
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ Crypto exchange whose SEC case was dropped.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 6 claims |
-| Connections | 13 |
+| Appears in | 7 claims |
+| Connections | 14 |
 
 ## How other claims describe it
 
@@ -34,6 +34,7 @@ Crypto exchange whose SEC case was dropped.
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 
 ## Relationships
 
@@ -49,7 +50,7 @@ Crypto exchange whose SEC case was dropped.
 - [[Tyler Winklevoss]] *co-founded* [[Gemini]] · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Tyler Winklevoss]] *co-founder of* [[Gemini]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 
-### Regulatory (7)
+### Regulatory (8)
 
 - [[Securities and Exchange Commission]] *closed investigation* [[Gemini]] · 2025 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Securities and Exchange Commission]] *closed investigation with no action* [[Gemini]] · 2025-02-26 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
@@ -57,6 +58,7 @@ Crypto exchange whose SEC case was dropped.
 - [[Securities and Exchange Commission]] *stipulated dismissal of Gemini Earn suit* [[Gemini]] · 2026-01-23 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Commodity Futures Trading Commission]] *jointly moved to vacate $5M consent order* [[Gemini]] · 2026-05-27 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Commodity Futures Trading Commission]] *joined motion to vacate $5M consent judgment* [[Gemini]] · 2026-05-28 · $5M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Commodity Futures Trading Commission]] *jointly moved to vacate consent order* [[Gemini]] · 2026-05-28 · [[C69 Master timeline money events versus government actions|C69]]
 - [[Securities and Exchange Commission]] *dropped case against* [[Gemini]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 
 ### Legal (1)

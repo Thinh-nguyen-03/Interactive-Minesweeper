@@ -116,7 +116,7 @@ Multi-outlet reporting documents the Web3Port ($10M) and Aqua 1 ($100M) WLFI pur
 - The September 2026 Senate letter repeats the OKX point and notes OKX's guilty plea to US anti-money-laundering violations.
 - Amounts: about $90M; about $80M; $100M
 - Dates: 2025-07-11; late May 2025; June 2025; September 2026
-- Sources: [8](https://whbl.com/2025/07/11/trumps-100-million-crypto-mystery-man/) [9](https://media.dealstreetasia.com/stories/trump-crypto-mystery-man-449016) [10](https://www.cryptopolitan.com/who-is-trumps-100-million-crypto-mystery-man/) [37](https://www.banking.senate.gov/imo/media/doc/20260915lettertobessentandblancheonaqua1.pdf)
+- Sources: [8](https://whbl.com/2025/07/11/trumps-100-million-crypto-mystery-man/) [41](https://media.dealstreetasia.com/stories/trump-crypto-mystery-man-449016) [10](https://www.cryptopolitan.com/who-is-trumps-100-million-crypto-mystery-man/) [37](https://www.banking.senate.gov/imo/media/doc/20260915lettertobessentandblancheonaqua1.pdf)
 
 ### 5. Aqua 1 is a renamed Web3Port vehicle controlled by Guren 'Bobby' Zhou, an uncharged UK money-laundering suspect
 
@@ -134,7 +134,7 @@ Multi-outlet reporting documents the Web3Port ($10M) and Aqua 1 ($100M) WLFI pur
 - Aqua 1 and Lee denied Web3Port ties in July 2025, and Zhou did not respond.
 - Amounts: about $7.6M
 - Dates: 2026-08-09; 2025-06-26; late July 2026; Feb 2024; Nov 2025
-- Sources: [1](https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221) [2](https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump) [3](https://unchainedcrypto.com/world-libertys-100-million-aqua-1-buyer-tied-to-active-uk-money-laundering-probe/) [4](https://crypto.news/world-libertys-100m-wlfi-buyer-linked-to-uk-money-laundering-probe/) [5](https://www.ibtimes.co.uk/trump-crypto-venture-100m-investment-1813193) [6](https://cryip.co/uk-court-records-dissolved-companies-100m-wlfi-buyer/) [7](https://news.bitcoin.com/wlfi-100-million-bobby-zhou-money-laundering/) [11](https://www.theblock.co/news/business/2025-07-15-aqua1-web3port-world-liberty-362612) [40](https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html)
+- Sources: [1](https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221) [2](https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump) [3](https://unchainedcrypto.com/world-libertys-100-million-aqua-1-buyer-tied-to-active-uk-money-laundering-probe/) [4](https://crypto.news/world-libertys-100m-wlfi-buyer-linked-to-uk-money-laundering-probe/) [5](https://www.ibtimes.co.uk/trump-crypto-venture-100m-investment-1813193) [6](https://cryip.co/uk-court-records-dissolved-companies-100m-wlfi-buyer/) [7](https://news.bitcoin.com/wlfi-100-million-bobby-zhou-money-laundering/) [11](https://www.theblock.co/news/business/2025-07-15-aqua1-web3port-world-liberty-362612) [40](https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html) [42](https://www.thedailybeast.com/trump-crypto-business-got-millions-from-chinese-tycoon-under-investigation)
 
 ### 6. Up to 75% of each post-threshold purchase flowed to the Trump-family DT Marks DEFI LLC
 
@@ -271,7 +271,7 @@ Multi-outlet reporting documents the Web3Port ($10M) and Aqua 1 ($100M) WLFI pur
 - [[World Liberty Financial]] *bought ~$1.85-2M MOVE hours before mainnet news* [[MOVE]] · 2025-01-28 · $2M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[OKX]] *account sent ~$90M to aqua1.eth* [[Aqua 1 Foundation]] · 2025-03/2025-06 · $90M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[DWF Labs]] *bought $25M WLFI* [[WLFI token]] · 2025-04-16 · $25M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[World Liberty Financial]] *passed up to $75M of Aqua 1 proceeds (NYT)* [[DT Marks DEFI LLC]] · 2025-06 · $75M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[World Liberty Financial]] *passed up to $75M of Aqua 1 proceeds (NYT; single-source)* [[DT Marks DEFI LLC]] · 2025-06 · $75M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[World Liberty Financial]] *Witkoff family also benefited from Aqua 1 sale (NYT)* [[WC Digital Fi LLC]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Aqua 1 Foundation]] *bought $100M WLFI (~$80M seen on-chain)* [[World Liberty Financial]] · 2025-06-26 · $100M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 
@@ -280,11 +280,11 @@ Multi-outlet reporting documents the Web3Port ($10M) and Aqua 1 ($100M) WLFI pur
 - [[Guren 'Bobby' Zhou]] *ran earlier crypto project* [[Caduceus]] · 2023 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Donald Trump]] *controls with sons* [[DT Marks DEFI LLC]] · 2024-10 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Andrei Grachev]] *managing partner* [[DWF Labs]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Guren 'Bobby' Zhou]] *led (NYT)* [[Web3Port]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Guren 'Bobby' Zhou]] *led (NYT; single-source)* [[Web3Port]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Aryam Investment 1]] *bought 49% (CFIUS review requested)* [[World Liberty Financial]] · 2025-01 · $500M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Aqua 1 GP Limited]] *general-partner vehicle of* [[Aqua 1 Foundation]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Guren 'Bobby' Zhou]] *figure behind $100M purchase (NYT)* [[Aqua 1 Foundation]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Web3Port]] *BVI entity renamed to* [[Aqua 1 GP Limited]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Guren 'Bobby' Zhou]] *figure behind $100M purchase (NYT; single-source)* [[Aqua 1 Foundation]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Web3Port]] *BVI entity renamed to (NYT, from corporate records)* [[Aqua 1 GP Limited]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[ALT5 Sigma]] *holds ~$781M WLFI wallet (Reuters)* [[WLFI token]] · 2025-10 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 
 ### Family (4)
@@ -322,7 +322,7 @@ Multi-outlet reporting documents the Web3Port ($10M) and Aqua 1 ($100M) WLFI pur
 
 - [[Nick Bax]] *rebutted Lazarus link as joke airdrop* [[Accountable.US]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Accountable.US]] *reported WLFI sales to illicit-linked wallets* [[World Liberty Financial]] · 2025-09 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Reuters]] *found 36 of top 50 wallets likely foreign (~$804M)* [[WLFI token]] · 2025-10-28 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Reuters]] *found 36 of top 50 wallets likely foreign (~$804M; single-source analysis)* [[WLFI token]] · 2025-10-28 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[The New York Times]] *identified as buyer behind Aqua 1* [[Guren 'Bobby' Zhou]] · 2026-08-09 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Caixin Global]] *called 'blacklisted'* [[Guren 'Bobby' Zhou]] · 2026-08-26 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 
@@ -354,8 +354,12 @@ Multi-outlet reporting documents the Web3Port ($10M) and Aqua 1 ($100M) WLFI pur
   - About $90M reached aqua1.eth from an OKX account; OKX pleaded guilty to US AML violations.
   - Whose account it was is unknown.
   - [[OKX]] [[Aqua 1 Foundation]] · [Source](https://whbl.com/2025/07/11/trumps-100-million-crypto-mystery-man/)
+- **Reuters: Nobitex (Iran) and WLF backers share the same Tron/Binance networks**
+  - Reuters (2026-05-01) traced at least $2.3B of Nobitex flows through Tron and BNB Chain, run by WLF backers Justin Sun and Binance; Reuters says there is no indication the Trump family knew.
+  - Relevant to the Accountable.US Nobitex-exposure item, but it is about shared networks, not WLFI sales.
+  - [[Justin Sun]] [[Binance]] [[Tron]] [[World Liberty Financial]] [[Iran]] · [Source](https://finance.yahoo.com/markets/crypto/articles/exclusive-trumps-crypto-venture-irans-080805071.html)
 
-## Sources (40)
+## Sources (42)
 
 1. [World Liberty received $100 million from businessman investigated for money laundering: NYT](https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221) (The Block, 2026-08-09)
 2. [UK money laundering suspect bought $100M in Trump crypto business: NYT](https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump) (Cointelegraph, 2026-08-09)
@@ -397,6 +401,8 @@ Multi-outlet reporting documents the Web3Port ($10M) and Aqua 1 ($100M) WLFI pur
 38. [Senators call WLFI national security threat](https://cointelegraph.com/news/senators-trump-linked-wlfi-national-security-threat) (Cointelegraph, 2025-11)
 39. [Did Trump's token reach enemies](https://unhashed.beehiiv.com/p/did-trump-s-token-reach-enemies) (Unhashed, 2025)
 40. [The blacklisted Chinese businessman behind a $100M Trump crypto bet](https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html) (Caixin Global, 2026-08-26)
+41. [The mystery man who bought $100m worth of tokens from Trump's crypto business (Reuters)](https://media.dealstreetasia.com/stories/trump-crypto-mystery-man-449016) (DealStreetAsia, 2025-07-11)
+42. [Trump crypto business got millions from Chinese tycoon under investigation](https://www.thedailybeast.com/trump-crypto-business-got-millions-from-chinese-tycoon-under-investigation) (The Daily Beast, 2026-08)
 
 ## Full report
 
@@ -595,3 +601,12 @@ These are our own cross-references. No source asserts any of them.
 38. Cointelegraph, Senators call WLFI a national security threat (2025-11): https://cointelegraph.com/news/senators-trump-linked-wlfi-national-security-threat
 39. Unhashed newsletter, Did Trump's token reach enemies (Nick Bax rebuttal) (2025): https://unhashed.beehiiv.com/p/did-trump-s-token-reach-enemies
 40. Caixin Global, The blacklisted Chinese businessman behind a $100M Trump crypto bet (2026-08-26; not readable here): https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html
+
+### Audit (second review, Nov 2026)
+
+Result: **upheld**.
+- Re-checked: the NYT identification of Guren "Bobby" Zhou behind Aqua 1 (**single-source**, widely relayed); his 2021 UK arrest, with no charges; up to $75M reaching the Trump-and-sons company; Reuters on ADGM non-registration and about $90M arriving from an OKX account, with about $80M then sent to WLF; Reuters' finding that 36 of the top 50 wallets are likely foreign (about $804M).
+- **Since then:** through mid-Nov 2026 we found no charge against Zhou and no Treasury or DOJ reply to the 2026-09-15 Senate letter.
+- **Labels:** four relationship labels now flag their single-source status.
+- **New lead:** Reuters (2026-05-01) reports that Nobitex and WLF backers (Sun/Tron, Binance) share the same networks. Reuters says there is no indication the Trump family knew.
+- New sources: DealStreetAsia/Reuters (https://media.dealstreetasia.com/stories/trump-crypto-mystery-man-449016); Daily Beast (https://www.thedailybeast.com/trump-crypto-business-got-millions-from-chinese-tycoon-under-investigation); Yahoo/Reuters (https://finance.yahoo.com/markets/crypto/articles/exclusive-trumps-crypto-venture-irans-080805071.html).

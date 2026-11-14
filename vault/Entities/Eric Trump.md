@@ -185,7 +185,7 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Eric Trump]] *co-announced launch of* [[Trump Mobile]] · 2025-06-16 · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Eric Trump]] *launched and marketed* [[Trump National Golf Course & Trump International Hotel, Diriyah]] · 2026-01-11 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Eric Trump]] *publicly launched* [[Trump National Golf Course & Trump International Hotel, Diriyah]] · 2026-01-11 · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Eric Trump]] *visited Hanam site with Kim Sung-jip (single-source)* [[Trump International Golf Club Korea]] · 2026-02-11 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[Eric Trump]] *visited Hanam sites with Base Group, 10-11 Feb 2026 (Korean press; same plot not confirmed)* [[Trump International Golf Club Korea]] · 2026-02-10 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Eric Trump]] *presented project by video* [[Trump Tower Tbilisi]] · 2026-09-15 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Eric Trump]] *consulted by Kushner on branding* [[Trump Tower Belgrade (General Staff site)]] · [[C45 Kushner's Albania and Serbia developments|C45]]
 

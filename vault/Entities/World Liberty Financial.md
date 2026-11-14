@@ -6,8 +6,8 @@ aliases:
   - "WLF"
   - "WLFI"
   - "World Liberty"
-connections: 112
-claims: 40
+connections: 113
+claims: 41
 tags:
   - "entity"
   - "type/company"
@@ -19,8 +19,8 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 40 claims |
-| Connections | 112 |
+| Appears in | 41 claims |
+| Connections | 113 |
 | Also known as | WLF; WLFI; World Liberty |
 
 ## How other claims describe it
@@ -66,6 +66,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
@@ -76,7 +77,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 
 ## Relationships
 
-### Money (50)
+### Money (51)
 
 - [[World Liberty Financial]] *paid about $57.35M of token-sale income (2024 disclosure)* [[Donald Trump]] · 2024 · $57.35M · [[C42 How World Liberty insiders took money out|C42]]
 - [[Axiom Management Group]] *entitled to 25% of net protocol revenue* [[World Liberty Financial]] · 2024-10 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
@@ -102,15 +103,16 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[Steve Witkoff]] *co-founder; family entities paid from Aryam deal* [[World Liberty Financial]] · 2025-01 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Sheikh Tahnoon bin Zayed]] *linked entity bought 49% stake (see C06/C08)* [[World Liberty Financial]] · 2025-01 · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Web3Port]] *bought WLFI ($10M announced; ~$20M traced on-chain)* [[World Liberty Financial]] · 2025-01 · $20M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Aryam Investment 1]] *agreed to buy 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Aryam Investment 1]] *agreed to buy 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Aryam Investment 1]] *agreed to buy 49% for $500M (WSJ, anonymous sources)* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C63 Shell entities and ownership chains|C63]]
 - [[Aryam Investment 1]] *agreed to pay $500M for 49% of* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Aryam Investment 1]] *bought 49% for* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Aryam Investment 1]] *bought 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Aryam Investment 1]] *bought 49% for (WSJ, anonymous sources)* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Tron]] *added $45M WLFI purchase (total $75M)* [[World Liberty Financial]] · 2025-01-20 · $45M · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[World Liberty Financial]] *bought ~$1.85-2M MOVE hours before mainnet news* [[MOVE]] · 2025-01-28 · $2M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Oddiyana Ventures]] *strategic investment, undisclosed* [[World Liberty Financial]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[DWF Labs]] *bought $25M WLFI* [[World Liberty Financial]] · 2025-04-16 · $25M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[World Liberty Financial]] *passed up to $75M of Aqua 1 proceeds (NYT)* [[DT Marks DEFI LLC]] · 2025-06 · $75M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[World Liberty Financial]] *passed up to $75M of Aqua 1 proceeds (NYT; single-source)* [[DT Marks DEFI LLC]] · 2025-06 · $75M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[World Liberty Financial]] *Witkoff family also benefited from Aqua 1 sale (NYT)* [[WC Digital Fi LLC]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Aqua 1 Foundation]] *bought $100M WLFI* [[World Liberty Financial]] · 2025-06-26 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Aqua 1 Foundation]] *bought $100M WLFI (~$80M seen on-chain)* [[World Liberty Financial]] · 2025-06-26 · $100M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]

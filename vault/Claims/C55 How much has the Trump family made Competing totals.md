@@ -76,7 +76,7 @@ All the named estimates exist and are traceable. They diverge because they measu
 - He updated the figure to about $4B (Salon: 'at least $4.05B') around January 2026, and said on WNYC it might be about $4.5B after a later deal.
 - Amounts: about $3.4B; more than $2.3B; about $4B; at least $4.05B; about $4.5B
 - Dates: Aug 2025; 2025-08-18; January 2026
-- Sources: [1](https://www.mediaite.com/politics/trump/3-4-billion-reporter-tells-msnbc-trump-family-turning-down-no-opportunity-for-cash-since-taking-office) [2](https://www.mediamatters.org/donald-trump/cnn-new-yorkers-david-kirkpatrick-discusses-his-reporting-trump-pocketing-presidency) [3](https://www.newyorker.com/magazine/2025/08/18/the-number) [4](https://www.democracynow.org/2025/8/14/headlines/the_new_yorker_trump_family_has_made_34_billion_from_presidency) [6](https://www.salon.com/2026/02/03/trump-familys-4-billion-graft-shows-no-signs-of-stopping) [7](https://www.npr.org/2026/02/08/nx-s1-5704312/how-the-presidency-is-making-trump-richer) [5](https://www.wnycstudios.org/podcasts/bl/articles/a-tally-of-trumps-profits)
+- Sources: [1](https://www.mediaite.com/politics/trump/3-4-billion-reporter-tells-msnbc-trump-family-turning-down-no-opportunity-for-cash-since-taking-office) [2](https://www.mediamatters.org/donald-trump/cnn-new-yorkers-david-kirkpatrick-discusses-his-reporting-trump-pocketing-presidency) [3](https://www.newyorker.com/magazine/2025/08/18/the-number) [4](https://www.democracynow.org/2025/8/14/headlines/the_new_yorker_trump_family_has_made_34_billion_from_presidency) [6](https://www.salon.com/2026/02/03/trump-familys-4-billion-graft-shows-no-signs-of-stopping) [25](https://www.npr.org/2026/02/08/nx-s1-5704312/how-the-presidency-is-making-trump-richer) [5](https://www.wnycstudios.org/podcasts/bl/articles/a-tally-of-trumps-profits)
 
 ### 2. Forbes estimates of the gains.
 
@@ -99,7 +99,7 @@ All the named estimates exist and are traceable. They diverge because they measu
 - A 2026-05-12 revision added $660M from previously undisclosed WLFI token sales, putting family token-sale proceeds at about $1.55B.
 - Amounts: about $620M; $1.3B; $7.7B; about $6.7B; $660M
 - Dates: July 2025; Sept 2025; 2026-05-12
-- Sources: [11](https://www.theblock.co/news/business/2025-07-02-trump-family-saw-620-million-from-crypto-venture-proceeds-in-recent-months-report-360791) [12](https://www.bloomberg.com/news/articles/2025-09-07/trump-family-adds-1-3-billion-of-crypto-wealth-in-span-of-weeks) [13](https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million)
+- Sources: [11](https://www.theblock.co/news/business/2025-07-02-trump-family-saw-620-million-from-crypto-venture-proceeds-in-recent-months-report-360791) [12](https://www.bloomberg.com/news/articles/2025-09-07/trump-family-adds-1-3-billion-of-crypto-wealth-in-span-of-weeks) [24](https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million)
 
 ### 4. Reuters/NYT disclosure tallies: $1.4B from crypto within $2.2B of income.
 
@@ -239,7 +239,7 @@ All the named estimates exist and are traceable. They diverge because they measu
   - WLF token sales that had not been disclosed, which bears on how transparent WLF's disclosures are
   - [[Bloomberg]] [[World Liberty Financial]] [[Donald Trump]] · [Source](https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million)
 
-## Sources (22)
+## Sources (25)
 
 1. ['$3.4 billion': Reporter Tells MSNBC Trump Family Turning Down 'No Opportunity' For Cash](https://www.mediaite.com/politics/trump/3-4-billion-reporter-tells-msnbc-trump-family-turning-down-no-opportunity-for-cash-since-taking-office) (Mediaite, 2025-08)
 2. [Kirkpatrick on CNN: Trump pocketing off the presidency, at least $3.4B](https://www.mediamatters.org/donald-trump/cnn-new-yorkers-david-kirkpatrick-discusses-his-reporting-trump-pocketing-presidency) (Media Matters, 2025-08)
@@ -263,6 +263,9 @@ All the named estimates exist and are traceable. They diverge because they measu
 20. [Trump invested crypto gains in stocks and bonds, filings show](https://www.thestar.com.my/tech/tech-news/2026/07/13/trump-invested-crypto-gains-in-stocks-and-bonds-filings-show) (Reuters via The Star, 2026-07-13)
 21. [Trump reinvested crypto windfall in stocks, bonds as retail buyers lost billions](https://www.investmentnews.com/alternatives/trump-reinvested-crypto-windfall-in-stocks-bonds-as-retail-buyers-lost-billions/267383) (InvestmentNews, 2026-07)
 22. [Trump's Take](https://www.americanprogress.org/feature/trumps-take/) (Center for American Progress, 2025)
+23. [Trump reports more than $2 billion income from crypto](https://www.canberratimes.com.au/story/9302479/trump-reports-more-than-2-billion-income-from-crypto/) (Canberra Times (AAP/Reuters), 2026-07-01)
+24. [Quiet token sales boosted Trump crypto wealth by $660 million](https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million) (Bloomberg, 2026-05-12)
+25. [How the presidency is making Trump richer](https://www.npr.org/2026/02/08/nx-s1-5704312/how-the-presidency-is-making-trump-richer) (NPR, 2026-02-08)
 
 ## Full report
 
@@ -342,3 +345,12 @@ Parents: C29 (Forbes figures and the 2025 OGE disclosure), C01 (TRUMP coin royal
 20. The Star (Reuters), crypto gains in stocks and bonds, https://www.thestar.com.my/tech/tech-news/2026/07/13/trump-invested-crypto-gains-in-stocks-and-bonds-filings-show (2026-07-13)
 21. InvestmentNews, reinvested windfall, https://www.investmentnews.com/alternatives/trump-reinvested-crypto-windfall-in-stocks-bonds-as-retail-buyers-lost-billions/267383 (2026-07)
 22. CAP, Trump's Take, https://www.americanprogress.org/feature/trumps-take/ (2025-2026)
+
+### Audit (second review, Nov 2026)
+
+Result: **upheld** (no factual changes).
+
+- 2025 disclosure: at least $2.2B income, ~$1.4B crypto ($635M TRUMP royalties via "Celebration Coins", ~$800M from WLF) confirmed across outlets. https://www.canberratimes.com.au/story/9302479/trump-reports-more-than-2-billion-income-from-crypto/
+- Bloomberg 2026-05-12: ~$1.55B in WLFI token-sale proceeds, lifting the family fortune by ~$660M; locked tokens excluded. https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million
+- Kirkpatrick's ~$3.4B (Aug 2025) to ~$4B (early 2026): NPR repeats "almost $4 billion". https://www.npr.org/2026/02/08/nx-s1-5704312/how-the-presidency-is-making-trump-richer
+- Not re-checked: Forbes figures, CREW foreign-revenue count, Fight Fight Fight treasury, Reuters portfolio range.

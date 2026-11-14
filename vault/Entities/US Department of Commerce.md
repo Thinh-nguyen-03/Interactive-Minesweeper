@@ -7,8 +7,8 @@ aliases:
   - "US Commerce Department"
   - "US Commerce Department (BIS)"
   - "US Department of Commerce (CHIPS Program Office)"
-connections: 29
-claims: 14
+connections: 30
+claims: 15
 tags:
   - "entity"
   - "type/government"
@@ -20,8 +20,8 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 14 claims |
-| Connections | 29 |
+| Appears in | 15 claims |
+| Connections | 30 |
 | Also known as | U.S. Department of Commerce; US Commerce Department; US Commerce Department (BIS); US Department of Commerce (CHIPS Program Office) |
 
 ## How other claims describe it
@@ -44,6 +44,7 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
@@ -63,10 +64,11 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 
 - [[Bureau of Industry and Security]] *part of* [[US Department of Commerce]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 
-### Regulatory (16)
+### Regulatory (17)
 
 - [[US Department of Commerce]] *rescinded* [[AI Diffusion Rule]] · 2025-05 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[US Department of Commerce]] *licenses chip exports under* [[UAE AI chips deal]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[US Department of Commerce]] *approved UAE Nvidia-chip export licences (~60,400 A100-eq.)* [[Microsoft]] · 2025-09 · [[C69 Master timeline money events versus government actions|C69]]
 - [[US Department of Commerce]] *authorized chip transfers to UAE for* [[Microsoft]] · 2025-09 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[US Department of Commerce]] *licensed Nvidia chip transfers to UAE* [[Microsoft]] · 2025-09 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[US Department of Commerce]] *licensed up to 35,000 GB300-class Nvidia chips to* [[G42]] · 2025-11 · [[C34 David Sacks AI & crypto czar with investments|C34]]
@@ -77,7 +79,7 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 - [[US Department of Commerce]] *authorized up to 35,000 GB300-equivalent chips for* [[G42]] · 2025-11-20 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[US Department of Commerce]] *licensed up to 35,000 GB300-equivalent chips* [[G42]] · 2025-11-20 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[US Department of Commerce]] *issued* [[BIS UAE Country Group A 5 rule]] · 2026-07-10 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
-- [[US Department of Commerce]] *circumvention case; prelim ruling could raise foil rate to ~105.8% (reported)* [[Korea Aluminium]] · 2026-07-13 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[US Department of Commerce]] *AD/circumvention proceedings; prelim ruling reportedly could raise foil rate to ~105.8% (Korean press via NYT; not confirmed in notice)* [[Korea Aluminium]] · 2026-07-13 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[US Department of Commerce]] *oversees* [[NOAA]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[US Department of Commerce]] *licenses AI-chip exports of* [[Nvidia]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[US Department of Commerce]] *licenses chips under* [[UAE AI chips deal]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]

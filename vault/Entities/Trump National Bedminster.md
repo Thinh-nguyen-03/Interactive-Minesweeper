@@ -2,8 +2,8 @@
 id: "trump-national-bedminster"
 kind: "entity"
 type: "asset"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/asset"
@@ -15,14 +15,23 @@ Trump club in New Jersey; LIV host 2022, 2023, 2026
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 2 claims |
+| Connections | 3 |
+
+## How other claims describe it
+
+- Hosted LIV Golf New York 6-9 Aug 2026
 
 ## Appears in claims
 
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 
 ## Relationships
+
+### Money (1)
+
+- [[LIV Golf]] *staged LIV Golf New York at (host fee undisclosed)* [[Trump National Bedminster]] · 2026-08-06 · [[C69 Master timeline money events versus government actions|C69]]
 
 ### Commercial (1)
 

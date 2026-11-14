@@ -26,7 +26,7 @@ Beverage startup reportedly linked to Barron Trump; Palm Beach address
 
 ### Ownership (1)
 
-- [[Barron Trump]] *reported founder (identity unconfirmed by Fox Business)* [[Sollos Yerba Mate Inc]] · 2025-12-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Barron Trump]] *listed director per filings (Fox Business, snippet); identity not confirmed by family* [[Sollos Yerba Mate Inc]] · 2025-12-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 
 ### Commercial (1)
 

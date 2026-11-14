@@ -42,6 +42,7 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
 - The Powerus/Aureus merger was announced in March 2026 and completed around Oct 1, 2026, not in March.
 - The DJI restrictions came via the FY25 NDAA review and the FCC Covered List (Dec 2025); EO 14307 itself did not ban DJI.
 - The Drone Dominance programme is a procurement effort; the equity-stake talks run through the Office of Strategic Capital.
+- PDW's OSC financing is a conditional loan commitment of up to $820M (31 Jul 2026), a figure missing from the original write-up (see C74).
 
 ## What is unproven
 
@@ -81,7 +82,7 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
 - A Manufacturing Dive headline describing it as closed in March is wrong.
 - Amounts: about 3%; 9.9%; roughly 6%; about $9M
 - Dates: 2026-03-09; 2026-10-01
-- Sources: [1](https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/) [2](https://finance.yahoo.com/news/trump-brothers-backed-aureus-merge-123728284.html) [3](https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/) [4](https://dronelife.com/2026/09/30/powerus-merger-drone-company-nasdaq/)
+- Sources: [1](https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/) [2](https://finance.yahoo.com/news/trump-brothers-backed-aureus-merge-123728284.html) [3](https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/) [4](https://dronelife.com/2026/09/30/powerus-merger-drone-company-nasdaq/) [3](https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/)
 
 ### 2. Powerus has won federal drone business since the merger.
 
@@ -92,9 +93,12 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
 - It qualified for Drone Dominance Phase II but was not among the Phase I production winners or the Gauntlet II winners.
 - It also placed a $16.9M components order with Unusual Machines.
 - Advisory board member Keith Kellogg said 'it never hurts to have their name on something.'
-- Amounts: up to $90M; $82M; $130M; $16.9M
-- Dates: Aug 2026; Oct 2026; Nov 2026
-- Sources: [5](https://insideunmannedsystems.com/powerus-subsidiary-wins-up-to-90-million-air-force-idiq-for-group-1-aerial-denial/) [6](https://www.tectonicdefense.com/exclusive-powerus-secures-82m-interceptor-order/) [7](https://insideunmannedsystems.com/19-companies-out-of-49-contenders-qualify-for-drone-dominance-gauntlet-2-trial/) [8](https://defensescoop.com/2026/09/18/drone-dominance-program-gauntlet-2-results/) [9](https://www.newswire.com/news/unusual-machines-receives-16-9-million-purchase-order-from-powerus-for-american) [3](https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/)
+- Audit note: outlets differ on whether the IDIQ was awarded in July or August 2026. It runs to mid-2028.
+- The $82M October order was the second order under an existing government IDIQ.
+- Most outlets tie it to the $90M Tandem vehicle, and one says that link rests on procurement records.
+- Amounts: up to $90M; $82M; $130M; $16.9M; $90M
+- Dates: Aug 2026; Oct 2026; Nov 2026; August 2026; mid-2028
+- Sources: [5](https://insideunmannedsystems.com/powerus-subsidiary-wins-up-to-90-million-air-force-idiq-for-group-1-aerial-denial/) [6](https://www.tectonicdefense.com/exclusive-powerus-secures-82m-interceptor-order/) [7](https://insideunmannedsystems.com/19-companies-out-of-49-contenders-qualify-for-drone-dominance-gauntlet-2-trial/) [8](https://defensescoop.com/2026/09/18/drone-dominance-program-gauntlet-2-results/) [9](https://www.newswire.com/news/unusual-machines-receives-16-9-million-purchase-order-from-powerus-for-american) [3](https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/) [5](https://insideunmannedsystems.com/powerus-subsidiary-wins-up-to-90-million-air-force-idiq-for-group-1-aerial-denial/) [30](https://thedefensepost.com/2026/10/07/powerus-counter-drone-us-order/)
 
 ### 3. The Pentagon is negotiating an equity stake in Don Jr.-advised Unusual Machines under the $1.1B Drone Dominance programme.
 
@@ -103,11 +107,11 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
 - On 2026-05-28 the WSJ reported months of talks with UMAC, PDW and Neros on funding that could combine debt and equity.
 - Coverage tied the talks to the roughly $1.1B Drone Dominance push, but the vehicle is OSC lending.
 - UMAC rose about 57-65% on the report.
-- PDW (2026-07-31) and Neros (up to $450M, 2026-11-02) have since signed conditional OSC loans.
+- PDW (a conditional commitment of up to $820M, 2026-07-31) and Neros (up to $450M, 2026-11-02) have since signed conditional OSC loans.
 - No OSC release or filing naming UMAC was found as of mid-Nov 2026.
-- Amounts: roughly $1.1B; about 57-65%; up to $450M
+- Amounts: roughly $1.1B; about 57-65%; up to $820M; up to $450M
 - Dates: 2026-05-28; 2026-07-31; 2026-11-02; mid-Nov 2026
-- Sources: [10](https://www.cnbc.com/2026/05/28/drone-stocks-unusual-machines-donald-trump-equity-stake.html) [11](https://qz.com/pentagon-drone-company-equity-stakes-unusual-machines-052826) [12](https://dronexl.co/2026/11/02/neros-450m-osc-loan-taxpayer-ownership-stake/)
+- Sources: [10](https://www.cnbc.com/2026/05/28/drone-stocks-unusual-machines-donald-trump-equity-stake.html) [11](https://qz.com/pentagon-drone-company-equity-stakes-unusual-machines-052826) [12](https://dronexl.co/2026/11/02/neros-450m-osc-loan-taxpayer-ownership-stake/) [29](https://soldiersystems.net/2026/07/31/the-office-of-strategic-capital-signs-820-million-conditional-loan-commitment-with-performance-drone-works-to-expand-domestic-drone-component-manufacturing/)
 
 ### 4. Unusual Machines invested in Draganfly.
 
@@ -139,9 +143,11 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
 - On 2026-08-04 Warren, Garcia, Blumenthal and Duckworth asked the IG to review about $3.2B in awards, plus $3.1B in options, to at least 15 companies tied to Trump-son-linked investors.
 - Warren separately wrote to Hegseth about UMAC on 2026-05-06.
 - No IG inquiry has been confirmed.
-- Amounts: about $3.2B; $3.1B
-- Dates: 2026-05-08; 2026-08-04; 2026-05-06
-- Sources: [20](https://oversightdemocrats.house.gov/imo/media/doc/2026-05-08garciatododigretrumpfamilycontracts.pdf) [21](https://www.ibtimes.co.uk/democrats-pentagon-watchdog-trump-sons-defence-deals-1824369) [22](https://www.warren.senate.gov/wp-content/uploads/2026/08/2026.08.04-Letter-to-DoD-IG-re-Corruption-in-Pentagon-Awards-Process.pdf) [23](https://www.inquirer.com/news/nation-world/trump-sons-investments-pentagon-contracts-democrats-investigation-20260805.html) [24](https://news.bgov.com/federal-contracting/unusual-machines-pentagon-contracts-scrutinized-by-sen-warren)
+- Audit note: the $3.2B and $3.1B figures come from a Washington Post analysis, and they cover contracts, loans and investments, some at maximum potential value.
+- An October 2026 ABC News analysis put the total above $6B. ABC then deleted the report, Donald Trump Jr. called it false, and the deletion was not explained, so that figure should not be relied on.
+- Amounts: about $3.2B; $3.1B; $3.2B; $6B
+- Dates: 2026-05-08; 2026-08-04; 2026-05-06; October 2026
+- Sources: [20](https://oversightdemocrats.house.gov/imo/media/doc/2026-05-08garciatododigretrumpfamilycontracts.pdf) [21](https://www.ibtimes.co.uk/democrats-pentagon-watchdog-trump-sons-defence-deals-1824369) [22](https://www.warren.senate.gov/wp-content/uploads/2026/08/2026.08.04-Letter-to-DoD-IG-re-Corruption-in-Pentagon-Awards-Process.pdf) [23](https://www.inquirer.com/news/nation-world/trump-sons-investments-pentagon-contracts-democrats-investigation-20260805.html) [24](https://news.bgov.com/federal-contracting/unusual-machines-pentagon-contracts-scrutinized-by-sen-warren) [31](https://www.warren.senate.gov/newsroom/press-releases/warren-garcia-blumenthal-duckworth-urge-dod-watchdog-to-investigate-3-2-billion-in-government-awards-to-companies-tied-to-trump-sons/) [32](https://wjla.com/news/nation-world/abc-deletes-report-on-trump-sons-investment-ties-to-companies-with-6b-in-dod-contracts-president-anduril-eric-trump-donald-trump-jr-gavin-newsom)
 
 ### 7. Senate Democrats tallied $70M+ in federal contracts to 1789 Capital portfolio companies.
 
@@ -172,6 +178,9 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
 - Demand for drones free of Chinese parts is bipartisan, NDAA-codified policy; most Drone Dominance Gauntlet winners (Skycutter, Neros, Perennial Autonomy) are not Trump-linked.
 - Award totals in the letters (e.g. $3.2B) mix contracts, loans and investments and include ceiling values, not money spent.
 - Direct fetches of warren.senate.gov, oversightdemocrats.house.gov and breakingdefense.com were blocked; letter contents rely on press coverage.
+- An October 2026 ABC News tally of more than $6B in awards to Trump-son-backed firms was deleted by ABC.
+  - Donald Trump Jr. says it was false.
+  - A Pentagon official says investors and political ties play 'absolutely no role' in funding decisions.
 
 ## People and organisations
 
@@ -298,7 +307,7 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
   - A foreign-government order to a Trump-son-backed drone maker, which raises foreign-emoluments-style questions.
   - [[Powerus Corp]] [[Eric Trump]] [[Donald Trump Jr]] · [Source](https://thedefensepost.com/2026/09/24/pakistan-drone-order-us/amp/)
 
-## Sources (28)
+## Sources (32)
 
 1. [Trump brothers-backed Aureus to merge with drone maker Powerus](https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/) (BNN Bloomberg (Reuters), 2026-03-09)
 2. [Trump sons-backed Aureus to merge with drone maker Powerus](https://finance.yahoo.com/news/trump-brothers-backed-aureus-merge-123728284.html) (Yahoo Finance (Reuters), 2026-03-09)
@@ -328,6 +337,10 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
 26. [Democratic senators sound the alarm on Pentagon backing firms linked to Donald Trump Jr.](https://kvia.com/news/business-technology/cnn-business-consumer/2026/01/23/democratic-senators-sound-the-alarm-on-pentagon-backing-firms-linked-to-donald-trump-jr/) (KVIA (CNN), 2026-01-23)
 27. [Unusual Machines secures $12.8 million defense order supplying Strategic Logix's RRSL drone systems](https://stocks.observer-reporter.com/observerreporter/article/accwirecq-2025-9-30-unusual-machines-secures-128-million-defense-order-supplying-strategic-logixs-rrsl-drone-systems) (Observer-Reporter (ACCESSWIRE), 2025-09-30)
 28. [US president's son Eric Trump invests in drone maker with gov't contracts](https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts) (Al Jazeera, 2026-02-17)
+29. [OSC signs $820M conditional loan commitment with Performance Drone Works](https://soldiersystems.net/2026/07/31/the-office-of-strategic-capital-signs-820-million-conditional-loan-commitment-with-performance-drone-works-to-expand-domestic-drone-component-manufacturing/) (Soldier Systems Daily, 2026-07-31)
+30. [Powerus counter-drone US order](https://thedefensepost.com/2026/10/07/powerus-counter-drone-us-order/) (The Defense Post, 2026-10-07)
+31. [Warren, Garcia, Blumenthal, Duckworth urge DoD watchdog to investigate $3.2 billion in government awards to companies tied to Trump sons](https://www.warren.senate.gov/newsroom/press-releases/warren-garcia-blumenthal-duckworth-urge-dod-watchdog-to-investigate-3-2-billion-in-government-awards-to-companies-tied-to-trump-sons/) (Office of Sen. Warren, 2026-08-05)
+32. [ABC deletes report on Trump sons' investment ties to companies with $6B in DOD contracts](https://wjla.com/news/nation-world/abc-deletes-report-on-trump-sons-investment-ties-to-companies-with-6b-in-dod-contracts-president-anduril-eric-trump-donald-trump-jr-gavin-newsom) (WJLA (Sinclair), 2026-10)
 
 ## Full report
 
@@ -366,7 +379,7 @@ What remains unproven is any causal link. No reporting shows a Trump family memb
 3. **The Pentagon is negotiating an equity stake in Unusual Machines under the $1.1B Drone Dominance programme.** *Mostly accurate, with nuance.*
    - On May 28, 2026 the WSJ reported months of talks with Unusual Machines, Performance Drone Works (PDW) and Neros on funding that could combine debt and equity [10][11]. Coverage tied the talks to the roughly $1.1B Drone Dominance push, but the vehicle is OSC lending rather than the Drone Dominance procurement budget itself.
    - UMAC shares rose about 57-65% on the report [10].
-   - The other two firms have since closed financing: PDW signed a conditional OSC loan on July 31, and on November 2, 2026 Neros announced a conditional OSC loan of up to $450M with a small, non-voting stake [12].
+   - The other two firms have since closed financing: PDW signed a conditional OSC loan commitment of up to $820M on July 31 (see C74), and on November 2, 2026 Neros announced a conditional OSC loan of up to $450M with a small, non-voting stake [12].
    - No OSC release or company filing naming Unusual Machines was found as of mid-November 2026, so its talks remain unconsummated.
 
 4. **Unusual Machines invested in Draganfly.** *Confirmed.*
@@ -443,10 +456,24 @@ What remains unproven is any causal link. No reporting shows a Trump family memb
 
 ### Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (language review only; no fresh searches)
+**Result: upheld** (independent re-verification with fresh web searches)
 
 Checked:
-- Language review of summary and sub-claims for unattributed allegations
+- Powerus/Aureus Greenway merger closing (~1 Oct 2026, PUSA) and the brothers' indirect stake
+- Tandem Defense up-to-$90M Air Force IDIQ and the $82M order
+- Pentagon/OSC financing talks with Unusual Machines: status as of Nov 2026, and the PDW and Neros loans
+- Aug 4, 2026 Warren/Garcia/Blumenthal/Duckworth letter to the DoD IG ($3.2B + $3.1B)
 
 Changes:
-- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the Unusual Machines equity stake is marked as talks with no deal, and family influence as unverified with denials included. No changes.
+- Fresh searches (Breaking Defense, DroneLife, Inside Unmanned Systems, The Defense Post, DroneXL, Warren press release) confirm the merger close around 1 Oct 2026, the $90M ceiling and $82M order, and the 4 Aug letter. No OSC deal naming Unusual Machines was found through mid-Nov 2026. Verdict unchanged.
+- Added PDW's conditional OSC commitment of up to $820M (31 Jul 2026), reconciling with C74.
+- IDIQ: noted that outlets differ on a July or August award and that the contract runs to mid-2028. The $82M order is the second under the IDIQ.
+- IG letter: attributed the $3.2B figure to a Washington Post analysis covering contracts, loans and investments, some at maximum value. Noted ABC's later, deleted $6B+ tally and the Trump Jr. and Pentagon denials.
+
+New sources:
+- Soldier Systems Daily, "OSC signs $820M conditional loan commitment with Performance Drone Works", 2026-07-31. https://soldiersystems.net/2026/07/31/the-office-of-strategic-capital-signs-820-million-conditional-loan-commitment-with-performance-drone-works-to-expand-domestic-drone-component-manufacturing/
+- Breaking Defense, "Dronemaker Powerus, backed by Trump brothers, goes public", 2026-10. https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/
+- Inside Unmanned Systems, "Powerus Subsidiary Wins Up to $90 Million Air Force IDIQ for Group 1 Aerial Denial", 2026. https://insideunmannedsystems.com/powerus-subsidiary-wins-up-to-90-million-air-force-idiq-for-group-1-aerial-denial/
+- The Defense Post, "Powerus counter-drone US order", 2026-10-07. https://thedefensepost.com/2026/10/07/powerus-counter-drone-us-order/
+- Office of Sen. Warren, "Warren, Garcia, Blumenthal, Duckworth urge DoD watchdog to investigate $3.2 billion in government awards to companies tied to Trump sons", 2026-08-05. https://www.warren.senate.gov/newsroom/press-releases/warren-garcia-blumenthal-duckworth-urge-dod-watchdog-to-investigate-3-2-billion-in-government-awards-to-companies-tied-to-trump-sons/
+- WJLA (Sinclair), "ABC deletes report on Trump sons' investment ties to companies with $6B in DOD contracts", 2026-10. https://wjla.com/news/nation-world/abc-deletes-report-on-trump-sons-investment-ties-to-companies-with-6b-in-dod-contracts-president-anduril-eric-trump-donald-trump-jr-gavin-newsom

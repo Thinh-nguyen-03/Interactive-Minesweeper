@@ -2,7 +2,7 @@
 id: "scott-glabe"
 kind: "entity"
 type: "person"
-connections: 3
+connections: 4
 claims: 1
 tags:
   - "entity"
@@ -16,13 +16,17 @@ TMTG general counsel; reported BLUW director
 |---|---|
 | Type | Person |
 | Appears in | 1 claim |
-| Connections | 3 |
+| Connections | 4 |
 
 ## Appears in claims
 
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 
 ## Relationships
+
+### Advisory (1)
+
+- [[Scott Glabe]] *director of until Feb 2026 resignation (8-K)* [[Texas Ventures Acquisition III Corp]] · 2025-09/2026-02 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 
 ### Legal (1)
 

@@ -2,8 +2,8 @@
 id: "pakistan"
 kind: "entity"
 type: "country"
-connections: 15
-claims: 4
+connections: 17
+claims: 5
 tags:
   - "entity"
   - "type/country"
@@ -15,31 +15,34 @@ Hired Trump-tied lobbyists in 2025 and signed WLF, minerals and drone deals.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 4 claims |
-| Connections | 15 |
+| Appears in | 5 claims |
+| Connections | 17 |
 
 ## How other claims describe it
 
 - Beach's Jan 2025 investment delegation destination.
+- Signed USD1 MoU with SC Financial (Jan 2026)
 - Hired several Trump-tied firms in 2025
 - State
 
 ## Appears in claims
 
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 
 ## Relationships
 
-### Money (5)
+### Money (6)
 
-- [[Pakistan]] *hired on FATF grey list* [[Ervin Graves Strategy Group]] · 2025 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Pakistan]] *hired on FATF grey list (Oct 2025), then 2-year ~$1.2M defence/minerals contract (May 2026)* [[Ervin Graves Strategy Group]] · 2025 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Pakistan]] *$200K/month six-month contract* [[Seiden Law LLP]] · 2025-04-08 · $1.2M · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Pakistan]] *hired for minerals promotion ($200K/month)* [[Seiden Law LLP]] · 2025-04-08 · $200K · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Pakistan]] *hired for minerals promotion ($200K/month per Nukta/Global Witness; other figures reported)* [[Seiden Law LLP]] · 2025-04-08 · $200K · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Pakistan]] *embassy lobbyist; minerals pitch to US diplomat* [[Squire Patton Boggs]] · 2025-05-14 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
-- [[Pakistan]] *Ministry of Defence placed initial drone order; Army MoU* [[Powerus Corp]] · 2026-09 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Export-Import Bank of the United States]] *$1.25B Reko Diq financing* [[Pakistan]] · 2025-12-10 · $1.25B · [[C69 Master timeline money events versus government actions|C69]]
+- [[Pakistan]] *initial drone order (Army per Reuters; MoD per Quwa/Defense Post) plus Army MoU* [[Powerus Corp]] · 2026-09 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 
 ### Regulatory (1)
 
@@ -54,12 +57,13 @@ Hired Trump-tied lobbyists in 2025 and signed WLF, minerals and drone deals.
 - [[Pakistan]] *Nobel Peace Prize nomination* [[Donald Trump]] · 2025-06-21 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Pakistan]] *brokered US-Iran talks* [[Iran]] · 2026-04 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
-### Commercial (7)
+### Commercial (8)
 
 - [[Gentry Beach]] *led investor delegation to* [[Pakistan]] · 2025-01-30 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Pakistan]] *Checkmate engagement on behalf of* [[Greystone Investment & Management LLC]] · 2025-05 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Pakistan]] *MoU to explore tokenising up to $2B state assets* [[Binance]] · 2025-12 · $2B · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[SC Financial Technologies]] *MOU to integrate USD1* [[Pakistan]] · 2026-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Pakistan]] *signed USD1 payments MoU with* [[SC Financial Technologies]] · 2026-01-14 · [[C69 Master timeline money events versus government actions|C69]]
 - [[SC Financial Technologies]] *non-binding USD1 payments MoU* [[Pakistan]] · 2026-01-14 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[SC Financial Technologies]] *signed USD1 cross-border payments MoU with* [[Pakistan]] · 2026-01-14 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Powerus Corp]] *MoD limited procurement order + Army MoU (value undisclosed)* [[Pakistan]] · 2026-09-17 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]

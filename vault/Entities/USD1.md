@@ -5,8 +5,8 @@ type: "asset"
 aliases:
   - "U.S. D1"
   - "USD1 stablecoin"
-connections: 33
-claims: 17
+connections: 34
+claims: 18
 tags:
   - "entity"
   - "type/asset"
@@ -18,8 +18,8 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 17 claims |
-| Connections | 33 |
+| Appears in | 18 claims |
+| Connections | 34 |
 | Also known as | U.S. D1; USD1 stablecoin |
 
 ## How other claims describe it
@@ -47,6 +47,7 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 
@@ -79,7 +80,7 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[The Wall Street Journal]] *charted Binance-linked jumps in* [[USD1]] · [[C10 Binance driving USD1 adoption|C10]]
 - [[The Wall Street Journal]] *charted adoption of (per video; not independently accessed)* [[USD1]] · [[C10 Binance driving USD1 adoption|C10]]
 
-### Commercial (27)
+### Commercial (28)
 
 - [[Binance]] *reportedly helped build tech for and promoted* [[USD1]] · 2025 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[DWF Labs]] *committed liquidity / reserves* [[USD1]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
@@ -96,6 +97,7 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[Binance]] *listed for spot trading* [[USD1]] · 2025-05-22 · [[C10 Binance driving USD1 adoption|C10]]
 - [[Binance]] *holds most of USD1 supply (~75-87%)* [[USD1]] · 2025-10 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Binance]] *ran up-to-20% APR booster promotion for holders of* [[USD1]] · 2025-12 · [[C10 Binance driving USD1 adoption|C10]]
+- [[Binance]] *converted B-Token reserves into* [[USD1]] · 2025-12-11 · [[C69 Master timeline money events versus government actions|C69]]
 - [[SC Financial Technologies]] *to integrate* [[USD1]] · 2026-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[USAT]] *competes with (US GENIUS-compliant stablecoins)* [[USD1]] · 2026-01 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[USD1]] *overtook in market cap* [[PayPal USD (PYUSD)]] · 2026-01 · [[C11 GENIUS CLARITY Acts and USD1|C11]]

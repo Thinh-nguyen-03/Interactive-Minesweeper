@@ -46,7 +46,7 @@ Would run a swap line via Exchange Stabilization Fund
 
 - [[US Treasury]] *sanctioned* [[Bidzina Ivanishvili]] · 2024-12-27 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[US Treasury]] *deferred sanctions six times, then refused (Oct 2025)* [[NIS (Naftna Industrija Srbije)]] · 2025-01/2025-10 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
-- [[US Treasury]] *issued licence to buy Venezuelan oil (Reuters, anonymous)* [[Reliance Industries]] · 2026-02-13 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[US Treasury]] *issued licence to buy Venezuelan oil (Reuters, anonymous sources; single-source)* [[Reliance Industries]] · 2026-02-13 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Richard Blumenthal]] *referred Tether findings to* [[US Treasury]] · 2026-09-28 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 
 ### Political (2)

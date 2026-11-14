@@ -100,14 +100,16 @@ Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD)
 **Confirmed**
 
 - Evidence grade: documented (ProPublica, Oct 2026, via Defense One/GovExec syndication; contract records).
-- DoD awarded A&M a roughly $67M deal shortly after Kollitides arrived.
-- About two months later it finalised a $281M no-bid contract with Alvarez & Marsal Federal to advise his office, for a combined ceiling of about $350M with about $31M paid.
+- DoD awarded A&M a roughly $67M deal shortly after Kollitides joined the Pentagon.
+- Defense One dates the run of awards to 'since December' 2025, so he appears to have started there before his Feb 2026 EDU appointment; that start date is not otherwise documented, and no contract record found here confirms the $67M award.
+- About two months later it finalised a $281M no-bid contract with Alvarez & Marsal Federal to advise his office, which Defense One calls the Business Operators for National Defense (BOND), for a combined ceiling of about $350M with about $31M paid.
 - Kollitides was a partner at the legally distinct A&M Capital, which says he stopped working as a senior adviser there days before ProPublica's questions arrived.
 - ProPublica did not establish that he chose the firm.
 - The Pentagon says he followed all rules.
 - Experts quoted by GovExec said taking part in a contract affecting one's own finances requires a waiver, and no waiver has been reported.
-- Amounts: roughly $67M; $281M; about $350M; about $31M
-- Dates: Oct 2026
+- A&M Federal has not published a full list of services under the $281M contract.
+- Amounts: roughly $67M; $67M; $281M; about $350M; about $31M
+- Dates: Oct 2026; Feb 2026
 - Sources: [8](https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543) [9](https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/)
 
 ### 4. Kollitides took a board seat and founder shares at D. Boral Acquisition I while in his Pentagon post.
@@ -284,7 +286,7 @@ Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD)
 - [[Pentagon (Department of Defense)]] *$400M equity + $150M loan* [[MP Materials]] · 2025-07 · $550M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[1789 Capital]] *Series A investor* [[Vulcan Elements]] · 2025-08 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Office of Strategic Capital]] *$620M loan* [[Vulcan Elements]] · 2025-11-03 · $620M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
-- [[Pentagon (Department of Defense)]] *no-bid contracts (~$67M + $281M) advising EDU* [[Alvarez & Marsal Federal]] · 2026 · $348M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[Pentagon (Department of Defense)]] *no-bid contracts (~$67M + $281M) advising Kollitides's office* [[Alvarez & Marsal Federal]] · 2025-12/2026 · $348M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Cove Kaz Capital Cove Capital]] *applied for $400M* [[Office of Strategic Capital]] · 2026-05 · $400M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Office of Strategic Capital]] *conditional loan commitment up to $820M* [[Performance Drone Works]] · 2026-07-31 · $820M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Pentagon (Department of Defense)]] *Flight School Next IDIQ up to $10B* [[M1 Support Services]] · 2026-08-13 · $10B · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
@@ -322,7 +324,7 @@ Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD)
 - [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[David Lorch]] *director* [[Office of Strategic Capital]] · 2025-11 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Economic Defense Unit ('Deal Team Six')]] *reports to* [[Stephen Feinberg]] · 2026-02 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
-- [[George Kollitides]] *director (SGE)* [[Economic Defense Unit ('Deal Team Six')]] · 2026-02 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[George Kollitides]] *director (SGE per Bloomberg Government, single-source)* [[Economic Defense Unit ('Deal Team Six')]] · 2026-02 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Elizabeth Warren]] *letters on Cerberus conflicts* [[Stephen Feinberg]] · 2026-04-27 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Pete Hegseth]] *publicly backs him* [[Stephen Feinberg]] · 2026-09-05 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 
@@ -422,8 +424,8 @@ Builds on: C65 (sub-claim on Feinberg and Cerberus), C51 (drone ventures, OSC dr
    - An 8-K reports that Kollitides resigned as an independent director "for personal reasons" effective Sep. 23, 2026. A second 8-K (Nov. 6, 2026) puts McGurn and Ingargiola on its audit and compensation committees after another director left.
    - The board seat is documented. The co-directorship is documented. It shows a shared board, not a transaction.
 2. **The Alvarez & Marsal timeline.** *Documented: ProPublica, Oct. 2026, via Defense One and GovExec syndication.*
-   - DoD gave Alvarez & Marsal a roughly $67M deal shortly after Kollitides started.
-   - About two months later it finalised a $281M no-bid contract with Alvarez & Marsal Federal to advise Kollitides's own office. The combined ceiling is about $350M, of which about $31M had been paid.
+   - DoD gave Alvarez & Marsal a roughly $67M deal shortly after Kollitides started at the Pentagon. Defense One dates the awards to "since December" 2025, which is before his Feb 2026 EDU appointment. No contract record found here confirms the $67M figure.
+   - About two months later it finalised a $281M no-bid contract with Alvarez & Marsal Federal to advise Kollitides's own office, which Defense One calls BOND (Business Operators for National Defense). The combined ceiling is about $350M, of which about $31M had been paid.
    - Kollitides had been a partner at A&M Capital, a legally distinct affiliate. A&M Capital says he stopped working as a senior adviser to it "several days" before ProPublica's questions arrived.
    - ProPublica did not establish that he chose the firm. The Pentagon says he followed all rules. Ethics experts quoted by GovExec said taking part in a contract affecting one's own finances is generally illegal without a waiver. No waiver has been reported.
 3. **Kollitides is a special government employee.** *Single-source: Bloomberg Government; DefenseScoop reports the EDU structure.*
@@ -526,3 +528,11 @@ Direct fetches of news.bloomberglaw.com, sec.gov, defenseone.com and responsible
 29. Orda.kz, Cove Kaz seeks $400M from OSC (2026-05): https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/
 30. ProPublica, Vulcan deal (2026-05-28): https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house
 31. Semafor, Venezuela deal and OSC scrutiny (2026-09-02): https://www.semafor.com/article/09/02/2026/trumps-venezuela-deal-draws-scrutiny-of-obscure-pentagon-office
+
+### Second review (audit)
+
+Result: **upheld**. Re-checked: Kollitides's D. Boral board seat (joined Feb 10, resigned Sep 23, 2026) and his founder shares (Bloomberg Government; SamSearch relay), and the A&M figures ($67M + $281M, about $350M ceiling, about $31M paid; ProPublica via Defense One/GovExec).
+- **Refinement:** the awards run "since December" 2025, so the first came before Kollitides's Feb 2026 EDU appointment. The advised office is named BOND. The $67M award is not matched to a contract record.
+- The SGE status is now flagged as single-source in the relationship label.
+
+New sources: SamSearch, https://samsearch.co/government-contracting-news/pentagon-investment-chief-resigns-from-offshore-company-board-amid-governance-concerns-209127 and https://samsearch.co/government-contracting-news/dod-awards-349-million-in-no-bid-consulting-contracts-to-alvarez-marsal-215723; Cato, https://www.cato.org/blog/get-aligned-or-get-left-behind-pentagon

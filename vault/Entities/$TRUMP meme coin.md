@@ -60,7 +60,7 @@ Official Trump meme coin launched two days before the inauguration; ~$600M to Tr
 - [[Addentax Group]] *talks to buy up to $800M of TRUMP and BTC* [[$TRUMP meme coin]] · 2025-05 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Justin Sun]] *top holder of* [[$TRUMP meme coin]] · 2025-05 · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[GD Culture Group]] *announced up to $300M raise to buy BTC and TRUMP* [[$TRUMP meme coin]] · 2025-05-13 · $300M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Justin Sun]] *top holder; pledged $100M buy* [[$TRUMP meme coin]] · 2025-07-09 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Justin Sun]] *top holder; pledged $100M buy (execution unverified)* [[$TRUMP meme coin]] · 2025-07-09 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Meteora]] *airdropped about $4.2M of MET to TRUMP-team wallets* [[$TRUMP meme coin]] · 2025-10-23 · $4.2M · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[Donald Trump]] *received about $635M in royalties (2025, per June 2026 disclosure)* [[$TRUMP meme coin]] · 2026-06-30 · $635M · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Retail investors Trump supporters]] *lost ~95% on* [[$TRUMP meme coin]] · [[C01 $TRUMP meme coin|C01]] [[C29 Trump family wealth gains|C29]]

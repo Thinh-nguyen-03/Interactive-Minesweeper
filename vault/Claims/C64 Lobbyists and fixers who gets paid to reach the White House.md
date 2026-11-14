@@ -19,7 +19,7 @@ tags:
 
 ## Bottom line
 
-The access layer is well documented. AG Bondi lobbied for Qatar at Ballard before her office cleared the Qatari jet; Patel consulted for Qatar's embassy before signing security deals with it as FBI director; Ballard, Miller Strategies and Checkmate represent crypto firms, Kalshi, the Saudi embassy, most corporate ballroom donors, and Binance in its pardon push; and Pakistan paid three Trump-tied firms (Seiden, Schiller/Sorial's Javelin, Checkmate) in the same weeks WLF signed its Pakistan deal.
+The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied for Qatar at Ballard before her office cleared the Qatari jet; Patel consulted for Qatar's embassy, got a March 2025 waiver for Qatar matters, and signed security deals with Qatar as FBI director after his one-year recusal pledge had lapsed; Ballard, Miller Strategies and Checkmate represent crypto firms, Kalshi, the Saudi embassy, most corporate ballroom donors, and Binance in its pardon push; and Pakistan paid three Trump-tied firms (Seiden, Schiller/Sorial's Javelin, Checkmate) in the same weeks WLF signed its Pakistan deal.
 
 ## What holds up
 
@@ -32,7 +32,7 @@ The access layer is well documented. AG Bondi lobbied for Qatar at Ballard befor
 - Checkmate / Ches McDowell: Binance, Pakistan, Panama and a partnership with Ballard.
 - Pakistan paid three Trump-tied firms (Seiden Law, Javelin Advisors, Checkmate) in Apr-May 2025 while WLF signed its Pakistan deal (mostly accurate)
 - Jason Miller's SHW Partners is paid $1.8M a year by India's embassy.
-- Brad Bondi, the Attorney General's brother, was Trevor Milton's SEC defense lawyer.
+- Brad Bondi, brother of then-Attorney General Pam Bondi, was Trevor Milton's defense lawyer.
 - Roger Stone and Keith Schiller acted as paid pardon intermediaries.
 
 ## What needs correcting
@@ -43,6 +43,8 @@ The access layer is well documented. AG Bondi lobbied for Qatar at Ballard befor
 - The claim that Wiles 'led' Mercury's Qatar work is single-source (Il Foglio), and Mercury's documented Qatar contracts (2015, 2019) predate her arrival in 2022.
 - 2025 Albanian lobbying by Trump-world operatives (Continental, LaCivita, Manafort) is for Berisha's opposition, not Rama's government, Kushner's partner.
 - Ballard's access is contested: Politico reports he was frozen out after the Mar 2025 XRP post.
+- Audit: Patel's one-year Qatar recusal was pledged in Nov 2024 and had expired before he signed the Dec 2025 Doha agreements; it was not a pledge made at the signing.
+- Audit: Bondi is former AG (left Apr 2, 2026); Todd Blanche is AG (acting from Apr 2, confirmed Aug 8, 2026).
 
 ## What is unproven
 
@@ -84,10 +86,12 @@ The access layer is well documented. AG Bondi lobbied for Qatar at Ballard befor
 - Patel's financial disclosure (public 2025-02-01, after his hearing) listed the Qatari embassy as a client of Trishul LLC (about $2.1M total firm income; Qatar portion only reported as >$5,000).
 - He did not register under FARA.
 - A later disclosure shows an ethics waiver dated Mar 4 for a 'particular matter related to Qatar'.
-- In Dec 2025 he signed bilateral security agreements with Qatar and said he would recuse from related work for one year and keep Trishul dormant.
+- Audit correction: his one-year recusal from Qatar matters was a Nov 2024 pledge, and per Jewish Insider it had expired the month before he signed two bilateral security MOUs with his Qatari counterpart in Doha in Dec 2025 (neither the trip nor the agreements were announced by the FBI); the March 2025 waiver had already let him work on Qatar matters.
+- He has said Trishul is dormant.
+- Public Citizen asked OGE to rescind the waiver; its FARA complaint is unresolved (C73).
 - The nature of the Qatar work remains undisclosed.
 - Amounts: about $2.1M; $5,000
-- Dates: 2025-02-01; Mar 4; Dec 2025
+- Dates: 2025-02-01; Mar 4; Nov 2024; Dec 2025; March 2025
 - Sources: [6](https://responsiblestatecraft.org/kash-patel-qatar/) [7](https://practice.motherjones.com/politics/2025/05/kash-patel-qatar-fbi-trump) [8](https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/) [9](https://www.citizen.org/article/letter-to-senate-judiciary-committee-kash-patels-undisclosed-consulting-services-for-qatar-require-immediate-examination/)
 
 ### 3. Susie Wiles came from Ballard and Mercury, both of which have represented Qatar.
@@ -189,14 +193,16 @@ The access layer is well documented. AG Bondi lobbied for Qatar at Ballard befor
 - Dates: 2025-04-24; 2026-04-24; 2027-04-23; Dec 2025
 - Sources: [43](https://theprint.in/diplomacy/india-renews-1-8-mn-contract-with-trump-ally-jason-millers-lobbying-firm-for-another-year/2979822/) [44](https://www.businesstoday.in/india/story/india-renews-lobbying-deal-with-trump-ally-jason-miller-for-rs-17-crore-542123-2026-07-09) [45](https://www.dawn.com/news/1965551)
 
-### 11. Brad Bondi, the Attorney General's brother, was Trevor Milton's SEC defense lawyer.
+### 11. Brad Bondi, brother of then-Attorney General Pam Bondi, was Trevor Milton's defense lawyer.
 
-**Confirmed** · Evidence: Documented (C36)
+**Confirmed** · Evidence: Documented
 
+- Brad Bondi was lead counsel in Milton's 2021-22 criminal fraud defence while at Cahill Gordon & Reindel (Business Wire, Law.com); C36 also describes him as Milton's SEC lawyer, which this audit did not re-check.
+- He joined Paul Hastings in Nov 2024.
 - Milton, a $1.8M+ donor, was pardoned 2025-03-28 and the SEC dropped its case in Sep 2025 (C36, C49).
 - Shows a family tie inside the pardon/enforcement chain; does not show that Pam Bondi intervened.
 - Amounts: $1.8M+
-- Dates: 2025-03-28; Sep 2025
+- Dates: 2021-22; Nov 2024; 2025-03-28; Sep 2025
 - Sources: [59](https://www.law360.com/bankruptcy-authority/articles/2387230)
 
 ### 12. Roger Stone and Keith Schiller acted as paid pardon intermediaries.
@@ -387,7 +393,7 @@ The access layer is well documented. AG Bondi lobbied for Qatar at Ballard befor
 - [[Susie Wiles]] *chief of staff* [[White House Trump administration]] · 2025-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Kash Patel]] *director of* [[FBI]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Pam Bondi]] *heads (Attorney General)* [[US Department of Justice]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named* [[Donald Trump]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named (Politico, anonymous sources)* [[Donald Trump]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[David Sacks]] *complained about Ballard-pushed XRP post* [[Susie Wiles]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[White House Trump administration]] *staff told not to meet (Politico, anonymous)* [[Brian Ballard]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Donald Trump]] *hosted White House lunch* [[Asim Munir]] · 2025-06-18 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
@@ -399,7 +405,7 @@ The access layer is well documented. AG Bondi lobbied for Qatar at Ballard befor
 - [[Donald Trump]] *pardoned* [[Trevor Milton]] · 2025-03-28 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Pam Bondi]] *reportedly signed* [[DOJ memo on the Qatari jet]] · 2025-05 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[DOJ memo on the Qatari jet]] *found acceptance legally permissible* [[Qatar Boeing 747 gift]] · 2025-05 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Brad Bondi]] *SEC defense counsel for* [[Trevor Milton]] · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Brad Bondi]] *lead defence counsel for (criminal case; SEC counsel per C36)* [[Trevor Milton]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
 ### Media (1)
 
@@ -528,7 +534,7 @@ Several named players have no documented link to a client in this project: Mercu
 - **The disclosure:** Patel's financial disclosure, made public on Feb 1, 2025 after his hearing, listed the Qatari embassy as a client of his firm Trishul LLC. Trishul earned about $2.1M, but Qatar's share is reported only as a range of more than $5,000.
 - **No registration:** He did not register under FARA.
 - **Ethics waiver:** A later disclosure shows an ethics waiver, dated Mar 4, for a "particular matter related to Qatar".
-- **The security deals:** In Dec 2025, as FBI director, he signed bilateral security agreements with Qatar (Jewish Insider). He said he would recuse himself from related work for one year and keep Trishul dormant.
+- **The security deals:** In Dec 2025, as FBI director, he signed bilateral security agreements with Qatar (Jewish Insider). **Audit correction:** his one-year Qatar recusal was a Nov 2024 pledge. Per Jewish Insider, it had expired the month before he signed two security MOUs in Doha in Dec 2025, and the FBI announced neither the trip nor the agreements. The March 2025 waiver had already let him engage on Qatar matters (C73).
 - **What is not known:** What the Qatar work involved remains undisclosed.
 
 #### 3. Susie Wiles: Ballard, then Mercury. Evidence: employment documented; any Qatar work single-source. Verdict: partly-accurate
@@ -612,7 +618,7 @@ What remains unsourced:
 - **Kash Patel:** I found no record of foreign clients for Patel beyond Qatar (item 2) in this search.
 
 #### 11. Brad Bondi: the Attorney General's brother as defense counsel. Evidence: documented (C36). Verdict: confirmed
-- **The role:** Brad Bondi was Trevor Milton's SEC lawyer.
+- **The role:** Brad Bondi was lead counsel in Milton's 2021-22 criminal defence while at Cahill Gordon (Business Wire, Law.com). C36 also calls him Milton's SEC lawyer; the audit did not re-check that. He joined Paul Hastings in Nov 2024. Pam Bondi left as AG on Apr 2, 2026.
 - **The outcome:** Milton, a $1.8M donor, was pardoned on Mar 28, 2025. The SEC dropped his case in Sep 2025 (C36, C49).
 - **What this does not show:** It shows a family tie inside the pardon and enforcement chain. It does not show that Pam Bondi intervened.
 
@@ -650,7 +656,7 @@ These links come from our own cross-referencing. No source asserts them.
 
 ### Denials and context
 - **Ballard:** The firm declined to comment to Sludge and did not respond to the Washington Examiner. Ballard, Miller and Priebus declined to comment to CBS on the ballroom.
-- **Patel:** He says Trishul is dormant and that he recused himself from Qatar matters for one year.
+- **Patel:** He says Trishul is dormant. His one-year Qatar recusal pledge (Nov 2024) had lapsed by the Dec 2025 signing.
 - **WLF:** Bin Saqib was unpaid and stepped away from the adviser role on entering government.
 - **White House:** It says there are no conflicts of interest.
 - **McDowell:** He says Trump Jr. did not help Binance.
@@ -717,3 +723,16 @@ These links come from our own cross-referencing. No source asserts them.
 - **TRON DAO:** It moved its lobbying in-house after paying Kelley Drye about $280K (Legis1, single source). https://legis1.com/news/tron-dao-federal-lobbying
 - **Lewandowski:** The question is whether this DHS special government employee kept private clients with business before DHS. https://www.axios.com/2025/09/05/corey-lewandowksi-trump-aide-probe-expands
 - **Pakistan's minerals push:** Seiden Law's minerals focus and the US-Pakistan rare-earths deal. https://sundayguardianlive.com/world/in-trumps-washington-pak-quietly-erects-its-largest-ever-influence-network-133161/
+
+### Audit (second-opinion pass, Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged).
+
+- **Patel.** Corrected. The one-year recusal was pledged in Nov 2024 and had expired before the Dec 2025 Doha agreements; a March 2025 waiver had already allowed Qatar work. Public Citizen asked OGE to rescind the waiver. This is reconciled with C73.
+- **Bondi.** She is described as AG until Apr 2, 2026. Todd Blanche was acting AG, then confirmed on Aug 8, 2026.
+- **Brad Bondi.** His documented role is lead criminal defence counsel for Milton. The SEC-counsel description comes from C36 and was not re-checked.
+- **Pakistan.** Upheld. Seiden Law signed on Apr 8, 2025 at $200K/month (some outlets say $125K). Javelin's FARA registration (Apr 25, 2025) lists Sorial, Schiller and Robert Seiden as co-owners.
+- **Kalshi.** Upheld: $240K to Miller Strategies in H1 2026 (OpenSecrets via Stateline).
+- **Ballard and Saudi Arabia.** Upheld: $60K/month from Mar 31, 2025. Ballard's Mar 2026 FARA supplemental still lists the Saudi embassy.
+
+New sources: Jewish Insider 2025-12; Public Citizen OGE complaint; FARA 7579 registration; Nukta; Stateline/Indiana Capital Chronicle 2026-10-05; Sludge 2026-02-05; FARA 7070 supplemental 2026-03-02; AP/National Newswatch 2026-04-02. URLs are in the JSON `audit.new_sources`.

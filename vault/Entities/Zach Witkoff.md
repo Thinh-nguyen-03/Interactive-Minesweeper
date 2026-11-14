@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Zachary Witkoff"
-connections: 34
-claims: 21
+connections: 35
+claims: 22
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 21 claims |
-| Connections | 34 |
+| Appears in | 22 claims |
+| Connections | 35 |
 | Also known as | Zachary Witkoff |
 
 ## How other claims describe it
@@ -48,6 +48,7 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
@@ -99,7 +100,7 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 - [[Zach Witkoff]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Zach Witkoff]] *announced USD1 for MGX-Binance deal* [[USD1]] · 2025-05-01 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Zach Witkoff]] *announced as settlement currency for MGX deal* [[USD1]] · 2025-05-01 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[Zach Witkoff]] *signed Pakistan MoU for* [[SC Financial Technologies]] · 2026-01-14 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Zach Witkoff]] *signed Pakistan MoU for* [[SC Financial Technologies]] · 2026-01-14 · [[C69 Master timeline money events versus government actions|C69]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Zach Witkoff]] *announced USD1 role in* [[MGX $2B investment in Binance]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 
 ## Themes

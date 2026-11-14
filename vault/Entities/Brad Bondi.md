@@ -10,7 +10,7 @@ tags:
 ---
 # Brad Bondi
 
-Paul Hastings white-collar co-chair; brother of Pam Bondi; Trevor Milton's lead trial counsel.
+Paul Hastings partner (from Nov 2024); Pam Bondi's brother; Trevor Milton's lead defence counsel
 
 | | |
 |---|---|
@@ -20,8 +20,8 @@ Paul Hastings white-collar co-chair; brother of Pam Bondi; Trevor Milton's lead 
 
 ## How other claims describe it
 
+- Paul Hastings white-collar co-chair; brother of Pam Bondi; Trevor Milton's lead trial counsel.
 - Paul Hastings partner; Pam Bondi's brother; counsel to Milton, Amesty, St. Louis developers
-- Lawyer; Pam Bondi's brother; Trevor Milton's SEC counsel
 - Milton's SEC defense lawyer; brother of AG Pam Bondi
 
 ## Appears in claims
@@ -38,10 +38,11 @@ Paul Hastings white-collar co-chair; brother of Pam Bondi; Trevor Milton's lead 
 - [[Brad Bondi]] *brother* [[Pam Bondi]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Brad Bondi]] *brother of* [[Pam Bondi]] · [[C61 Shared lawyers and law firms across the deals|C61]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
-### Legal (4)
+### Legal (5)
 
 - [[Brad Bondi]] *defense counsel; DOJ dropped charges* [[Carolina Amesty]] · 2025-08 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Brad Bondi]] *SEC defense counsel for* [[Trevor Milton]] · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Brad Bondi]] *SEC defense counsel for* [[Trevor Milton]] · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Brad Bondi]] *lead defence counsel for (criminal case; SEC counsel per C36)* [[Trevor Milton]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Brad Bondi]] *lead trial counsel* [[Trevor Milton]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Brad Bondi]] *lead trial counsel for* [[Trevor Milton]] · [[C61 Shared lawyers and law firms across the deals|C61]]
 

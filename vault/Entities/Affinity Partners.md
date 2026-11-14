@@ -4,8 +4,8 @@ kind: "entity"
 type: "fund"
 aliases:
   - "Affinity"
-connections: 33
-claims: 15
+connections: 35
+claims: 16
 tags:
   - "entity"
   - "type/fund"
@@ -19,8 +19,8 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 15 claims |
-| Connections | 33 |
+| Appears in | 16 claims |
+| Connections | 35 |
 | Also known as | Affinity |
 
 ## How other claims describe it
@@ -45,6 +45,7 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
@@ -71,11 +72,12 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 - [[Public Investment Fund (Saudi Arabia)]] *$2B investment; EA co-buyer* [[Affinity Partners]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Public Investment Fund (Saudi Arabia)]] *invested $2B in* [[Affinity Partners]] · $2B · [[C15 Jared Kushner and Affinity Partners|C15]]
 
-### Ownership (13)
+### Ownership (14)
 
 - [[Jared Kushner]] *founder* [[Affinity Partners]] · 2021 · [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Affinity Partners]] *affiliated with (Reuters)* [[Atlantic Incubation Partners LLC]] · 2024-12-30 · [[C63 Shell entities and ownership chains|C63]]
+- [[Affinity Partners]] *~1.1% co-investor* [[EA take-private]] · 2026-08-04 · [[C69 Master timeline money events versus government actions|C69]]
 - [[Affinity Partners]] *acquired ~1.1% of* [[Electronic Arts]] · 2026-08-04 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Affinity Partners]] *co-acquirer (~1.1% reported)* [[Electronic Arts]] · 2026-08-04 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Affinity Partners]] *~1.1% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]

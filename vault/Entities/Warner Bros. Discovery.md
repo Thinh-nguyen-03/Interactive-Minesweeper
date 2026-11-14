@@ -10,7 +10,7 @@ tags:
 ---
 # Warner Bros. Discovery
 
-Acquired by Paramount Skydance (closed ~2026-09-29); owns CNN
+Acquired by Paramount Skydance (closed 2026-10-06); owns CNN
 
 | | |
 |---|---|
@@ -31,7 +31,7 @@ Acquired by Paramount Skydance (closed ~2026-09-29); owns CNN
 
 ### Ownership (2)
 
-- [[Paramount]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-09-29 · $81B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Paramount]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-10-06 · $81B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Warner Bros. Discovery]] *owns* [[CNN]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 
 ### Regulatory (1)

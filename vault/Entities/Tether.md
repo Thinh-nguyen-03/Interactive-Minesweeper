@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Tether (Tether America)"
-connections: 25
-claims: 9
+connections: 26
+claims: 10
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Stablecoin issuer; Miller Strategies client and ballroom donor
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 9 claims |
-| Connections | 25 |
+| Appears in | 10 claims |
+| Connections | 26 |
 | Also known as | Tether (Tether America) |
 
 ## How other claims describe it
@@ -40,6 +40,7 @@ Stablecoin issuer; Miller Strategies client and ballroom donor
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 
 ## Relationships
 

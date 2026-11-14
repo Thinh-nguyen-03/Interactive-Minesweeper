@@ -29,7 +29,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - Two firms whose federal cases closed on the same day, March 27, 2025, became participants in TMTG's bitcoin treasury two months later: DRW/Cumberland as a buyer and Crypto.com as custodian.
 - Yorkville Advisors (Mark Angelo, Mountainside NJ) is TMTG's most persistent financier: equity-line buyer, placement agent, ETF adviser and sponsor, and CRO-SPAC partner.
 - Yorkville's own federal enforcement history: the SEC's 2012 fraud case against Yorkville and Mark Angelo ended in a with-prejudice dismissal in 2018, during Trump's first term.
-- Kevin McGurn ties the Yorkville and Dominari webs together: CEO of Yorkville Acquisition Corp, chairman/CEO/CFO and sponsor of the Trump sons' New America Acquisition I, TMTG adviser and then interim CEO (mostly accurate)
+- Kevin McGurn ties the Yorkville and Dominari webs together: CEO of Yorkville Acquisition Corp, chairman/CEO/CFO and sponsor of the Trump sons' New America Acquisition I (until Aug 5, 2026), TMTG adviser and then interim CEO (mostly accurate)
 - Dominari Securities is the Trump sons' house underwriter across American Bitcoin, New America Acquisition I and Tron Inc., and it faces no federal enforcement.
 - BitGo is USD1's custodian, has a 7.8% holder in David Sacks's Craft Ventures, and won an OCC national trust charter conversion under Trump's Comptroller.
 - Anchorage Digital sits at the junction of TMTG, Tether and Cantor, and had its OCC enforcement order lifted under the Trump OCC.
@@ -46,6 +46,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
   **Record:** I found no Galaxy role at all, and Kraken's link is donations, lobbying and regulatory relief rather than financing. DWF and Web3Port are WLFI token buyers, not financiers of TMTG or the sons' vehicles.
 - The '$375M Jane Street' figure is FT-via-CoinGape. The 13G documents 16.57M shares (6.0%), and Jane Street had largely exited by 2026.
 - A search-indexed report that Cantor 'declined to advise' TMTG conflicts with TMTG's own closing release naming Cantor as financial adviser. The release is treated as authoritative.
+- Audit: McGurn resigned from New America Acquisition I effective Aug 5, 2026; Kyle Wool (chairman since Feb 6, 2026) became CEO. The Wool chairmanship is documented in an 8-K, not single-source.
 
 ## What is unproven
 
@@ -54,7 +55,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 
 ## In more detail
 
-- Documented: Cantor Fitzgerald (Lutnick family) was financial adviser on TMTG's $2.44B bitcoin raise; Yorkville is TMTG's equity-line buyer, placement agent, ETF adviser and SPAC partner; and Kevin McGurn simultaneously runs the Yorkville SPAC and the Dominari-underwritten Trump-sons SPAC while serving as TMTG adviser and then interim CEO.
+- Documented: Cantor Fitzgerald (Lutnick family) was financial adviser on TMTG's $2.44B bitcoin raise; Yorkville is TMTG's equity-line buyer, placement agent, ETF adviser and SPAC partner; and Kevin McGurn ran the Yorkville SPAC and, until he resigned on Aug 5, 2026, the Dominari-underwritten Trump-sons SPAC (Dominari's Kyle Wool, chairman since Feb 2026, then became CEO), while serving as TMTG adviser and then interim CEO.
 - The custodians of TMTG and USD1 (Anchorage, Crypto.com, BitGo) each won OCC relief under Comptroller Gould, and DRW and Crypto.com got SEC closures on the same day before their TMTG roles.
 - Every individual link is sourced.
 - The pattern across them is our own cross-referencing; no source shows any regulatory decision was traded for financing, and the OCC and SEC actions were also extended to non-Trump-linked firms.
@@ -154,7 +155,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - Dates: October 2012; March 2018; Oct 29, 2018
 - Sources: [16](https://www.sec.gov/litigation/litreleases/2018/lr24326.htm) [17](https://www.sec.gov/news/press/2012/2012-209.htm)
 
-### 7. Kevin McGurn ties the Yorkville and Dominari webs together: CEO of Yorkville Acquisition Corp, chairman/CEO/CFO and sponsor of the Trump sons' New America Acquisition I, TMTG adviser and then interim CEO.
+### 7. Kevin McGurn ties the Yorkville and Dominari webs together: CEO of Yorkville Acquisition Corp, chairman/CEO/CFO and sponsor of the Trump sons' New America Acquisition I (until Aug 5, 2026), TMTG adviser and then interim CEO.
 
 **Mostly accurate** · Evidence: The core roles are documented; fee and sponsor details are single-source
 
@@ -164,9 +165,9 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - A Form 4 lists him as a 10% owner, and an independent outlet says he is the sole member of New America Sponsor I LLC (single-source).
 - He has advised TMTG since December 2024 and became interim CEO in April 2026 after Devin Nunes left (C21/C41).
 - A January 2026 AI-generated brief reports $15,000-a-month advisory fees from Yorkville Acquisition, and newstracs reports similar fees from related SPACs including Texas Ventures Acquisition III, whose directors include Trump Organization and TMTG executives. Both are single-source.
-- One headline reports that Dominari's Kyle Wool later became chairman of New America Acquisition I (single-source, details unverified).
-- One executive therefore sits on the TMTG-Yorkville side and the Trump-sons-Dominari side at once.
-- That is documented; any coordinated purpose is not.
+- Audit update (documented, NWAX 8-Ks and releases; see C78): Dominari's Kyle Wool became NAA I chairman on Feb 6, 2026, and McGurn resigned as CEO and director effective Aug 5, 2026 ('not the result of any disagreement'); Wool became CEO and the board went from six to five.
+- So from Dec 2025 to Aug 5, 2026 one executive sat on the TMTG-Yorkville side and the Trump-sons-Dominari side at once; since then control of the sons' SPAC has sat with the Dominari executive.
+- The dual role is documented; any coordinated purpose is not.
 - Amounts: $345M; 10%; $15,000
 - Dates: Mar 31, 2025; December 2025; December 2024; April 2026; January 2026
 - Sources: [20](https://www.sec.gov/Archives/edgar/data/2064658/000121390025059356/ea0237939-05.htm) [21](https://www.barchart.com/story/news/36345446/yorkville-acquisition-corp-mcga-announces-ceo-and-cfo-appointments-for-trump-media-group-cro-strategy) [22](https://www.itiger.com/news/2600701362) [23](https://ground.news/article/trump-media-appoints-media-veteran-kevin-mcgurn-as-interim-chief) [24](https://newstracs.com/trump-org-and-trump-media-execs-are-directors-of-texas-ventures-acquisition-iii-corp/2026/01/16/) [25](https://digitalmedianet.com/new-america-acquisition-i-corp-appoints-kyle-wool-as-chairman-and-adds-stefan-passantino-as-independent-director/amp/)
@@ -203,7 +204,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 **Confirmed** · Evidence: Documented (OCC action, company releases, multiple outlets)
 
 - Anchorage is co-custodian of TMTG's bitcoin (May 2025).
-- On Aug 21, 2025 the OCC terminated Anchorage's April 2022 BSA/AML consent order, saying the deficiencies had been remedied.
+- On Aug 21, 2025 the OCC announced it had terminated (order signed Aug 18, per PYMNTS) Anchorage's April 2022 BSA/AML consent order, saying the deficiencies had been remedied.
 - That was about six weeks after Gould's July 10, 2025 confirmation, though the OCC gave no detail on what changed.
 - Anchorage became issuer of Tether's U.S. stablecoin USAT, launched Jan 27, 2026, with Cantor as reserve custodian and ex-White House crypto director Bo Hines as CEO (C35, C54).
 - Tether bought a $100M equity stake in Anchorage at a $4.2B valuation (Feb 5, 2026), and Anchorage is custodian and collateral manager for Cantor's bitcoin-financing business.
@@ -211,7 +212,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - Each link is documented.
 - No source says the consent-order termination was connected to any of these relationships.
 - Amounts: $100M; $4.2B; 5%
-- Dates: May 2025; Aug 21, 2025; April 2022; July 10, 2025; Jan 27, 2026
+- Dates: May 2025; Aug 21, 2025; Aug 18; April 2022; July 10, 2025
 - Sources: [1](https://www.globenewswire.com/news-release/2025/05/30/3091176/0/en/Trump-Media-Closes-Bitcoin-Treasury-Deal.html) [35](https://www.americanbanker.com/news/occ-terminates-consent-order-against-anchorage-digital) [36](https://www.complianceweek.com/regulatory-enforcement/occ-lifts-aml-consent-order-on-anchorage-digital/36178.article) [37](https://www.anchorage.com/insights/anchorage-digital-announces-100-million-strategic-investment-from-tether-first-ever-employee-tender-offer-4-2-billion-valuation) [38](https://www.bloomberg.com/news/articles/2026-02-05/tether-invests-100-million-in-crypto-bank-anchorage-digital) [39](https://www.anchorage.com/insights/cantor-fitzgerald-selects-anchorage-digital-as-custodian-collateral-manager) [40](https://decrypt.co/356045/tether-launches-us-regulated-stablecoin-issued-anchorage-digital)
 
 ### 11. Crypto.com accumulated the most federal relief of any Trump-vehicle partner: an SEC closure, a CFTC amicus and an OCC conditional charter, while it served as TMTG custodian, ETF partner and CRO-SPAC co-founder.
@@ -414,7 +415,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - [[Eric Trump]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Hut 8]] *80% owner via miner contribution* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Kevin McGurn]] *chairman/CEO/CFO; sponsor member* [[New America Acquisition I Corp]] · 2025-07 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Kevin McGurn]] *chairman/CEO/CFO, then CEO; sponsor member (resigned Aug 5, 2026)* [[New America Acquisition I Corp]] · 2025-07 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Craft Ventures]] *7.8% holder at IPO filing (NYT)* [[BitGo]] · 2025-09 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[World Liberty Financial]] *trust-bank applicant affiliate* [[WLTC Holdings LLC]] · 2026-01 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Crypto.com]] *parent* [[Foris DAX National Trust Bank]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
@@ -459,8 +460,8 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - [[Kevin McGurn]] *CEO and director* [[Yorkville Acquisition Corp]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Eric Trump]] *director* [[ALT5 Sigma]] · 2025-08 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Bo Hines]] *CEO* [[USAT]] · 2025-09-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Kyle Wool]] *board member; reportedly chairman* [[New America Acquisition I Corp]] · 2026 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Kevin McGurn]] *leads SPAC (single-source)* [[Texas Ventures Acquisition III Corp]] · 2026-01 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Kyle Wool]] *chairman from Feb 6, 2026; CEO from Aug 5, 2026* [[New America Acquisition I Corp]] · 2026-02-06 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 
 ### Political (1)
 
@@ -619,7 +620,7 @@ Research limits: direct fetches of globenewswire.com, theblock.co and finance.ya
 
 6. **Yorkville's own SEC history.** *Documented.* The SEC sued Yorkville, Mark Angelo and its CFO in 2012 over inflated valuations (at least $10M in excess fees). The remaining claims were dismissed with prejudice in Oct 2018, during Trump's first term, after a partial summary-judgment loss for the SEC. I found no penalty. No source ties the outcome to Trump.
 
-7. **Kevin McGurn sits in both the Yorkville and Dominari webs.** *Core roles documented; fee and sponsor details single-source.* He has been Yorkville Acquisition CEO and director since Mar 31, 2025 (424B4). He is chairman, CEO and CFO of the Trump sons' New America Acquisition I, which Dominari and D. Boral underwrote (C27), and is listed as a 10% owner and reported sole member of its sponsor. He has been a TMTG adviser since Dec 2024 and became interim CEO in Apr 2026. $15K-a-month advisory fees from his SPACs are single-source. So is a further McGurn SPAC, Texas Ventures Acquisition III, with Trump Org and TMTG executives as directors (newstracs). One headline reports Dominari's Kyle Wool later became chairman of NAA I (single-source). No source describes a coordinated purpose.
+7. **Kevin McGurn sits in both the Yorkville and Dominari webs.** *Core roles documented; fee and sponsor details single-source.* He has been Yorkville Acquisition CEO and director since Mar 31, 2025 (424B4). He was chairman, CEO and CFO (later CEO) of the Trump sons' New America Acquisition I until Aug 5, 2026, which Dominari and D. Boral underwrote (C27), and is listed as a 10% owner and reported sole member of its sponsor. He has been a TMTG adviser since Dec 2024 and became interim CEO in Apr 2026. $15K-a-month advisory fees from his SPACs are single-source. So is a further McGurn SPAC, Texas Ventures Acquisition III, with Trump Org and TMTG executives as directors (newstracs). **Audit update (documented, 8-Ks; see C78):** Dominari's Kyle Wool became NAA I chairman on Feb 6, 2026. McGurn resigned as CEO and director effective Aug 5, 2026, and Wool became CEO. The dual role therefore ran from Dec 2025 to Aug 5, 2026. No source describes a coordinated purpose.
 
 8. **Dominari as the sons' house underwriter.** *Documented (C39, C47; WSJ).* It underwrote about $220M for American Bitcoin, co-led NAA I and placed the Tron Inc. deal. It faces no SEC or FINRA action. Absence of enforcement is a fact, not evidence of forbearance.
 
@@ -691,3 +692,13 @@ Research limits: direct fetches of globenewswire.com, theblock.co and finance.ya
 24. The Block, Tuttle TRUMP/MELANIA ETFs, 2025-01, https://mta-sts.theblock.co/post/337280/tuttle-capital-10-leveraged-crypto-etfs-trump-melania-memecoins
 25. Sludge, Cantor holdings, 2025-08-18, https://readsludge.com/2025/08/18/lutnick-family-firm-invests-in-bitcoin-and-stocks-boosted-by-trump-wh-policies/ ; The Block (WSJ), Cantor–Tether, 2024-11, https://www.theblock.co/post/327961/lutnick-cantor-fitzgerald-negotiated-a-5-ownership-stake-in-tether-wsj
 26. Hut 8 / American Bitcoin release, 2025-03-31, https://www.fintechfutures.com/press-releases/hut-8-and-eric-trump-launch-american-bitcoin-to-set-a-new-standard-in-bitcoin-mining
+
+### Audit (second-opinion pass, Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged).
+
+- **McGurn and NAA I.** McGurn resigned from New America Acquisition I effective Aug 5, 2026. Kyle Wool (chairman since Feb 6, 2026, per an 8-K, so documented rather than single-source) is now CEO. The summary, the McGurn item, the entities and the relationships are updated, consistent with C78.
+- **Anchorage.** The OCC's termination order was signed Aug 18, 2025 and announced Aug 21 (PYMNTS, American Banker).
+- **Upheld.** Cantor Fitzgerald as financial adviser on TMTG's $2.44B raise (closing release; Nelson Mullins was company counsel and Reed Smith was agents' counsel). The Yorkville/Clear Street/BTIG/Cohen syndicate and the Crypto.com/Anchorage custody. BitGo's Dec 12, 2025 conditional approval in a batch of five (Axios).
+
+New sources: NWAX 8-K (SEC EDGAR); NWAX leadership-transition release (Finviz); StreetInsider/GlobeNewswire 2025-05-30; American Banker 2025-08-21; PYMNTS; Axios 2025-12-12. URLs are in the JSON `audit.new_sources`.

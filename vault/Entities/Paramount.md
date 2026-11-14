@@ -52,7 +52,7 @@ Paid $16M '60 Minutes' settlement; merged with Skydance after FCC approval
 ### Ownership (2)
 
 - [[Skydance Media]] *acquired* [[Paramount]] · 2025-08 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Paramount]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-09-29 · $81B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Paramount]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-10-06 · $81B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 
 ### Regulatory (1)
 

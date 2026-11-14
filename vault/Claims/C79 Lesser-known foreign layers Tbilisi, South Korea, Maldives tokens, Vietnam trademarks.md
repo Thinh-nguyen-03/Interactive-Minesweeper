@@ -22,7 +22,7 @@ tags:
 
 ## Bottom line
 
-All five leads are real and documented. The South Korean 'aggregator' lead is NYT-reported: Base Group paid Trump's company $2M in 2025 while its subsidiary Korea Aluminium fought a Commerce circumvention case, and Eric Trump visited the Hanam golf site in Feb 2026, before the payment became public.
+All five leads are real and documented. The South Korean 'aggregator' lead is NYT-reported: Base Group paid Trump's company $2M in 2025 while its subsidiary Korea Aluminium fought a Commerce circumvention case, and Eric Trump visited Hanam with Base's chairman on 10-11 Feb 2026 (several Korean outlets), before the payment became public.
 
 ## What holds up
 
@@ -41,6 +41,7 @@ All five leads are real and documented. The South Korean 'aggregator' lead is NY
 - The Maldives tokens were not cleared by the SEC for US retail buyers. The Feb 2026 structure is an unregistered Reg D 506(c)/Reg S placement for accredited investors, issued with WLF and Securitize.
 - Trump Tower Tbilisi is 62 storeys/282 m in launch materials, not 70 storeys. The Cartu land transfer was not complete as of mid-2026.
 - The ~105.8% Korea Aluminium rate is a reported preliminary rate (matching the China-wide margin), not a final determination.
+- Audit: Eric Trump's Hanam visit was 10-11 Feb 2026 (two days), not only 11 Feb, and is reported by several Korean outlets, so it is no longer single-source.
 
 ## In more detail
 
@@ -69,9 +70,12 @@ All five leads are real and documented. The South Korean 'aggregator' lead is NY
 - No final ruling was found as of Nov 2026.
 - The NYT found no evidence of intervention by Trump or his family.
 - This shows a payment from a party with an open US trade case; it does not show any favourable decision, and the only decision found went against the company.
-- Amounts: 105.8%
+- Audit note: Federal Register summaries found in this pass show Korea Aluminium Co., Ltd. as a separate-rate exporter at 28.01% in the amended final results of the 2023-24 administrative review of the China aluminium-foil AD order (FR doc 2026-10525), and 105.80% is the China-wide entity rate in that order.
+- That fits the 'about fourfold' reading if the Jul 2026 preliminary results of the 2024-25 review denied it a separate rate, but I could not see its line in that notice, so the 105.8% preliminary rate for Korea Aluminium remains as reported by Korean press citing the NYT, not confirmed against the notice.
+- The open case may therefore be the China-order review rather than (or as well as) the 2023 Korea circumvention inquiry; a Korean list of the six circumvention firms names 한국알미늄, which I could not tie with certainty to Base Group's Korea Aluminium.
+- Amounts: 105.8%; 28.01%; 105.80%
 - Dates: 14 Jul 2026; Aug 2025; Mar 2023; 27 Nov 2023; 13 Jul 2026
-- Sources: [1](https://electionlawblog.org/?p=157345) [2](https://politicalwire.com/2026/07/14/trump-pocketed-2-million-from-firm-in-trade-dispute/) [3](https://www.bostonglobe.com/2026/07/14/nation/trump-south-korea-trade-investigation/) [4](https://www.koreajoongangdaily.com/business/korean-firm-under-us-trade-probe-paid-2-million-to-trump-family-business-report-says/12774870) [5](https://dnyuz.com/2026/07/14/trump-paid-2-million-by-south-korean-company-facing-trade-investigation/) [11](https://www.govinfo.gov/content/pkg/FR-2023-11-27/pdf/2023-26030.pdf) [12](https://cm.asiae.co.kr/en/article/2023040400092740874)
+- Sources: [1](https://electionlawblog.org/?p=157345) [2](https://politicalwire.com/2026/07/14/trump-pocketed-2-million-from-firm-in-trade-dispute/) [3](https://www.bostonglobe.com/2026/07/14/nation/trump-south-korea-trade-investigation/) [4](https://www.koreajoongangdaily.com/business/korean-firm-under-us-trade-probe-paid-2-million-to-trump-family-business-report-says/12774870) [5](https://dnyuz.com/2026/07/14/trump-paid-2-million-by-south-korean-company-facing-trade-investigation/) [11](https://www.govinfo.gov/content/pkg/FR-2023-11-27/pdf/2023-26030.pdf) [12](https://cm.asiae.co.kr/en/article/2023040400092740874) <https://policyrisk.com/federal-register/2026-10525>
 
 ### 2. Senators opened inquiries: Warren/Blumenthal/Andy Kim to Base Group chairman Kim Sung-jip, Wyden to Commerce Secretary Lutnick.
 
@@ -88,11 +92,12 @@ All five leads are real and documented. The South Korean 'aggregator' lead is NY
 **Confirmed**
 
 - Project documented (Trump Organization and Base Group announcement, 13 Aug 2026, Hakam-dong, Hanam, Gyeonggi; first Trump golf project in Northeast Asia; Eric Trump quoted).
-- The 11 Feb 2026 site visit with Base chairman Kim and Hanam Mayor Lee Hyun-jae is single-source (Korean business press, via search).
+- The site visit is now documented by several Korean outlets (audit): Kyeongin Ilbo reports Eric Trump visited Hanam on two consecutive days, 10-11 Feb 2026, touring the former Seongnam golf-course site on the 10th and hearing Mayor Lee Hyun-jae's K-culture complex pitch and visiting the K-Star World hotel site on the 11th; Hankyung ran a Base Group photo of his visit and reports Base invited him to its Seoul headquarters that month.
+- No source found states that the site he toured is the same plot as the announced Hakam-dong golf club.
 - The visit came five months before the payment became public.
 - No Korean land-use or permit records were found.
 - Dates: 13 Aug 2026; 11 Feb 2026
-- Sources: [9](https://www.koreatimes.co.kr/business/companies/20260813/korean-firm-behind-2-mil-trump-payment-to-build-golf-club-in-hanam) [10](https://www.trump.com/media/trump-international-golf-club-korea-a-new-chapter-in-hanam/)
+- Sources: [9](https://www.koreatimes.co.kr/business/companies/20260813/korean-firm-behind-2-mil-trump-payment-to-build-golf-club-in-hanam) [10](https://www.trump.com/media/trump-international-golf-club-korea-a-new-chapter-in-hanam/) <https://www.kyeongin.com/article/1758988> <https://www.hankyung.com/article/2026071555787>
 
 ### 4. Trump Tower Tbilisi sits on land linked to the family of US-sanctioned Bidzina Ivanishvili, with partners close to his party.
 
@@ -252,7 +257,7 @@ All five leads are real and documented. The South Korean 'aggregator' lead is NY
 
 - [[US Treasury]] *sanctioned* [[Bidzina Ivanishvili]] · 2024-12-27 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Dar Global]] *discussed planned US token sale with* [[Securities and Exchange Commission]] · 2025-11 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
-- [[US Department of Commerce]] *circumvention case; prelim ruling could raise foil rate to ~105.8% (reported)* [[Korea Aluminium]] · 2026-07-13 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[US Department of Commerce]] *AD/circumvention proceedings; prelim ruling reportedly could raise foil rate to ~105.8% (Korean press via NYT; not confirmed in notice)* [[Korea Aluminium]] · 2026-07-13 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 
 ### Political (11)
 
@@ -281,7 +286,7 @@ All five leads are real and documented. The South Korean 'aggregator' lead is NY
 - [[Trump Organization]] *brand licensor of* [[Trump International Hotel Maldives]] · 2025-11-17 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[DTTM Operations LLC]] *filed five Trump trademark applications* [[Vietnam]] · 2025-11-27 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Sapir Organization]] *co-developer of* [[Trump Tower Tbilisi]] · 2026 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
-- [[Eric Trump]] *visited Hanam site with Kim Sung-jip (single-source)* [[Trump International Golf Club Korea]] · 2026-02-11 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[Eric Trump]] *visited Hanam sites with Base Group, 10-11 Feb 2026 (Korean press; same plot not confirmed)* [[Trump International Golf Club Korea]] · 2026-02-10 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Securitize]] *issuance/compliance partner for Maldives tokens* [[World Liberty Financial]] · 2026-02-18 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Archi Group]] *lead developer of* [[Trump Tower Tbilisi]] · 2026-04-19 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Trump Organization]] *brand licensor of* [[Trump Tower Tbilisi]] · 2026-04-19 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
@@ -370,7 +375,7 @@ Method note: the Guardian, WSJ, NYT, Korea JoongAng Daily, Asia Economy, Senate 
 - **Oversight.** Senators Warren, Blumenthal and Andy Kim wrote to Base Group chairman **Kim Sung-jip** on 6 Aug 2026. They asked for answers by 21 Aug and cited the federal bribery statute. Ranking Member Wyden wrote to Commerce Secretary Lutnick asking whether Commerce officials knew of the payment.
 - **What it shows:** a foreign party paid a Trump business during an open US trade proceeding against its subsidiary. **What it does not show:** any favourable decision. The only decision found so far went against the company.
 
-#### 2. Eric Trump visited the Hanam site with Base's chairman and the Hanam mayor on 11 Feb 2026. Evidence: **single-source** (Korea Times/Asia Economy coverage of the golf announcement, via search). Verdict: confirmed (single-source)
+#### 2. Eric Trump visited Hanam with Base Group and the Hanam mayor on 10-11 Feb 2026. Evidence: **documented** (several Korean outlets, upgraded in audit: Kyeongin Ilbo, Hankyung, Korea Times). No source confirms that the plot he toured is the announced golf site. Verdict: confirmed
 This puts a family member on site months before the disclosure made the payment public. The timeline runs: LOI Aug 2025, payment in 2025, site visit Feb 2026, preliminary ruling 13 Jul 2026, NYT 14 Jul 2026, public announcement 13 Aug 2026.
 
 #### 3. Trump Tower Tbilisi: land tied to the sanctioned Ivanishvili family and partners close to his party. Evidence: **documented**. Verdict: confirmed
@@ -458,3 +463,13 @@ This puts a family member on site months before the disclosure made the payment 
 37. The Star (Bloomberg), "Trump-backed golf resort advances as Vietnam seizes farmland", 2026-06-26. https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/26/trump-backed-golf-resort-advances-as-vietnam-seizes-farmland
 38. VnEconomy, "US imposes 12.5% additional tariff on many export items from Vietnam", 2026-07-26. https://en.vneconomy.vn/us-imposes-125-additional-tariff-on-many-export-items-from-vietnam.htm
 39. TechNode Global, "Vietnam urges swift US trade deal, final text already sent to Washington", 2026-10-14. https://technode.global/2026/10/14/vietnam-urges-swift-us-trade-deal-final-text-already-sent-to-washington/
+
+### Audit (second review, Nov 2026)
+
+Result: **strengthened**, with one clarification. Re-checked: the Base Group $2M fee; the Korea Aluminium trade case; Eric Trump's Hanam visit; WLF's Maldives token role; the Tbilisi land.
+
+- **Hanam visit.** Kyeongin Ilbo reports that Eric Trump spent two days in Hanam, 10-11 Feb 2026. He toured the former Seongnam golf-course site and the K-Star World hotel site, and the mayor briefed him on a K-culture complex. Hankyung carries a Base Group photo of the visit. This is now documented, not single-source. The link between the toured plot and the Hakam-dong golf club is unconfirmed.
+- **Trade case, clarified.** Federal Register summaries show Korea Aluminium Co., Ltd. at a 28.01% separate rate in the amended final results of the 2023-24 review of the China aluminium-foil AD order (FR 2026-10525). They also show 105.80% as the China-wide rate. That fits the reported "about fourfold" rise to 105.8% if the July 2026 preliminary results denied the company a separate rate. I could not see the company's line in that notice, so the 105.8% figure stays attributed to Korean press citing the NYT. The open case may be the China-order review rather than the 2023 Korea circumvention inquiry.
+- **Upheld.** The $2M fee and the denials (multiple outlets). The senators' letters. The WLF/Securitize/DarGlobal Reg D 506(c)/Reg S loan-revenue tokens. The Cartu/Uta Ivanishvili land (Guardian, 25 May 2026, via relays).
+- **Fetch blocked.** I could not fetch the NYT, the Guardian, govinfo.gov or JoongAng Daily directly.
+- **New sources.** https://www.kyeongin.com/article/1758988 ; https://www.hankyung.com/article/2026071555787 ; https://policyrisk.com/federal-register/2026-10525 ; https://decrypt.co/358781/trump-backed-world-liberty-exit-mechanism-maldives-hotel-tokenization

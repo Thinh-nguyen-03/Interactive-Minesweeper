@@ -135,12 +135,11 @@ The core of the lead holds. Kushner-linked companies won Albanian government bac
 **Confirmed**
 
 - Albania's anti-corruption prosecutor SPAK suspects the seller, Miami-based businessman Artur Shehu, of buying the Zvernec land with illicit funds and forged ownership documents.
-- About EUR 110M of sale proceeds was frozen in a notary account; one report gives about $128M and a separate freeze on Albania Land Development's accounts.
+- About EUR 110M of sale proceeds was frozen in a notary account; one report (Lawyer Monthly) gives a provisional seizure value above EUR 128M and describes a separate freeze on Albania Land Development's accounts that was reportedly lifted within days; SPAK has not publicly confirmed that second freeze or its reversal.
 - SPAK is also reported to be examining the 2024 status changes.
 - Per Reuters, the files allege no wrongdoing by Kushner or the investors and show no sign the investors knew of the suspicions.
 - Shehu's lawyer denies the allegations.
 - Villagers have contested Shehu's title since a 2013 court ruling in their favour and say they warned Kushner's side about two years ago.
-- Amounts: about $128M
 - Sources: [8](https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds) [9](https://www.streetinsider.com/Reuters/Businessman+who+sold+land+for+Kushner+resort+in+Albania+suspected+of+faking+the+deeds/26758349.html) [10](https://www.investing.com/news/world-news/kushner-project-being-developed-on-disputed-land-albanian-villagers-say-4741013) [7](https://europeanwesternbalkans.com/2026/06/02/spak-probes-resort-project-linked-to-jared-kushner/) [11](https://www.lawyer-monthly.com/2026/07/spak-128m-asset-freeze-kushner-albania-resort-deal/)
 
 ### 6. The projects need foreign-government approvals while Kushner acts as a US envoy.
@@ -416,7 +415,7 @@ Raskin's probe and Candace Owens's attacks are both confirmed. The brief overrea
    - Vucic denied any forgery in May 2025, offered pardons, and later said Serbia had lost at least EUR 750M of investment.
 5. **Albanian forgery/anti-corruption probe: confirmed.**
    - SPAK suspects the seller, Shehu, of forged deeds and illicit funds.
-   - About EUR 110M of the proceeds is frozen; one report gives about $128M.
+   - About EUR 110M of the proceeds is frozen. One report (Lawyer Monthly) gives a provisional seizure value above EUR 128M and a separate, reportedly short-lived freeze on Albania Land Development's accounts; SPAK has not confirmed either detail publicly.
    - Per Reuters, no wrongdoing is alleged against Kushner or the investors. Shehu's lawyer denies the allegations.
    - Villagers have disputed Shehu's title since 2013.
 6. **Approvals pending while Kushner is envoy: confirmed for Albania.**
@@ -490,10 +489,21 @@ Raskin's probe and Candace Owens's attacks are both confirmed. The brief overrea
 
 ### Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (language review only; no fresh searches)
+**Result: upheld** (fresh re-verification with new web searches; replaces the earlier wording-only review)
 
 Checked:
-- Language review of summary and sub-claims for unattributed allegations
+- Belgrade General Staff case: Dec 2025 indictment of Culture Minister Selakovic and three others for abuse of office and forgery, trial opened 4 Feb 2026 with not-guilty pleas, prosecutors seek 3 years, no verdict yet
+- SPAK case against seller Artur Shehu: about EUR 110M of sale proceeds frozen; no accusation against Kushner, Sazan Real Estate Development, Albania Land Development or other investors
+- Raskin's 24 Aug 2026 letter expanding the probe to the 'suspicious $120 million' Albanian land purchase; Kushner/Affinity non-response
+- Status of approvals: Sazan strategic-investor status (30 Dec 2024) and Kushner's Oct 2026 acknowledgment that approvals were incomplete; no final approval found by mid-Nov 2026
 
 Changes:
-- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed sub-claim wording: the Belgrade forgery case is described as an indictment proposal and trial with not-guilty pleas, SPAK's case as a suspicion, Affinity's denial of the Zvernec role is included, and the quid-pro-quo element is marked unverified. No overstatements found; no changes.
+- Fresh searches (Serbian outlets N1/Beta/Vreme/Tanjug, Reuters-derived coverage of SPAK files, the committee's own release, Tirana Times/Citizens.al) confirmed every checked assertion. The Selakovic trial was still running as of a June 2026 hearing; no verdict found.
+- Refined the second SPAK freeze: the ~128M figure is a provisional seizure value reported in EUR, not USD, and the Albania Land Development account freeze was reportedly lifted within days (unconfirmed by SPAK). Updated sub-claim and .md.
+- Replaces the earlier wording-only audit (no fresh searches).
+
+New sources:
+- Beta Briefing, "Serbia's Minister of Culture Goes on Trial in General Staff Building Case", 2026-02-04. https://betabriefing.com/news/politics/33928-serbias-minister-of-culture-goes-on-trial-in-general-staff-building-case
+- N1, "General Staff trial begins, protesters greet defendants with chants of "Thieves!"", 2026-02-04. https://n1info.rs/english/news/general-staff-trial-begins-protesters-greet-defendants-with-chants-of-thieves/
+- House Judiciary Committee Democrats, "Ranking Member Raskin slams Jared Kushner's failure to respond to Congress and expands probe into suspicious $120 million Albanian land purchase", 2026-08-25. https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-slams-jared-kushner-s-failure-to-respond-to-congress-and-expands-probe-into-suspicious-120-million-albanian-land-purchase
+- Citizens.al, "Jared Kushner talks about the Zvernec project", 2026-10-09. https://citizens.al/en/2026/10/09/Jared-Kushner-talks-about-the-Zvernec-project/

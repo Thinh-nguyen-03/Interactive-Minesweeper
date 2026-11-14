@@ -30,4 +30,4 @@ Barrick/Pakistan copper-gold mine in Balochistan.
 
 ### Ownership (1)
 
-- [[Barrick Mining]] *50% owner* [[Reko Diq]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Barrick]] *50% owner* [[Reko Diq]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]

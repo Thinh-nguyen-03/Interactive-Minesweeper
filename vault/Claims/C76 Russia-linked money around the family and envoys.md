@@ -54,7 +54,8 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 
 ## In more detail
 
-- A Putin-linked oligarch, Umar Kremlev, paid for parts of Don Jr.'s wedding celebrations through a Dubai IBA entity; the family confirmed this and later repaid him.
+- A Putin-linked oligarch, Umar Kremlev, paid for parts of Don Jr.'s wedding celebrations through a Dubai IBA entity; the family confirmed this and pledged to repay him.
+- Kremlev says he was repaid, but how and from which account has not been disclosed.
 - Witkoff's family firm is in active partnership with Len Blavatnik's Access Industries.
 - Dmitriev runs a direct business-flavoured channel with Witkoff and Kushner, which dates back to a 2016-17 plan routed through Kushner.
 - A Trump Jr. friend struck an LNG deal with sanctioned Novatek.
@@ -114,7 +115,9 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 - The money came through IB Challenger, a Dubai entity affiliated with the IBA.
 - Trump Jr.'s spokesperson did not dispute it and called Kremlev 'a personal friend of Don' but 'not someone he has a business relationship with'.
 - Bettina Anderson says he paid for two after-parties, not the wedding itself.
-- The family called it a generous gift and pledged to repay; on 6 Oct 2026 Kremlev said he had been repaid (AP).
+- The family called it a generous gift and pledged to repay; on 18 Sep Trump said his son would repay, and on 6 Oct 2026 Kremlev said he had been repaid (AP).
+- Neither side disclosed the amount, or whether the money went to Kremlev personally or to IB Challenger (Kyiv Post), so the repayment rests on Kremlev's word.
+- The IBA says it paid none of the costs itself.
 - The IOC has previously criticised the IBA for depending on Gazprom sponsorship.
 - Kyiv Post could not identify IB Challenger's own funding sources.
 - Response: Rep. Robert Garcia (Oversight ranking Democrat) sent records requests on 15 Sep 2026.
@@ -123,8 +126,8 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 - AG Todd Blanche asked 'What is there to investigate'.
 - Trump said he had 'no idea who Umar is'.
 - We found no report that Kremlev sought or received any US government benefit.
-- Dates: 14 Sep 2026; 6 Oct 2026; 15 Sep 2026
-- Sources: [8](https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin) [9](https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-payments-investigation) [10](https://www.axios.com/2026/09/14/umar-kremlev-donald-trump-jr-wedding-bahamas) [11](https://www.axios.com/2026/09/15/donald-trump-jr-wedding-investigation-kremlev) [12](https://meduza.io/en/news/2026/09/14/russian-oligarch-umar-kremlev-spent-hundreds-of-thousands-of-dollars-to-help-fund-donald-trump-jr-s-bahamas-wedding) [13](https://meduza.io/en/news/2026/09/16/the-u-s-attorney-general-was-asked-whether-he-d-investigate-russian-boxing-chief-umar-kremlev-s-reported-financing-of-trump-jr-s-wedding-festivities-his-response-what-is-there-to-investigate) [14](https://www.adn.com/nation-world/2026/09/22/gop-senator-calls-for-probe-of-trump-jr-after-wedding-party-bankrolled-by-russian-oligarch/) [15](https://www.wcax.com/2026/10/06/russian-oligarch-says-donald-trump-jr-has-paid-him-back-wedding-celebration-expenses/) [16](https://www.kyivpost.com/post/88580) [17](https://www.flashscore.pt/noticias/iba-too-slow-with-reforms-and-too-dependent-on-russia-s-gazprom-for-funds-according-to-ioc/lEZDblNO/)
+- Dates: 14 Sep 2026; 18 Sep; 6 Oct 2026; 15 Sep 2026
+- Sources: [8](https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin) [9](https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-payments-investigation) [10](https://www.axios.com/2026/09/14/umar-kremlev-donald-trump-jr-wedding-bahamas) [11](https://www.axios.com/2026/09/15/donald-trump-jr-wedding-investigation-kremlev) [12](https://meduza.io/en/news/2026/09/14/russian-oligarch-umar-kremlev-spent-hundreds-of-thousands-of-dollars-to-help-fund-donald-trump-jr-s-bahamas-wedding) [13](https://meduza.io/en/news/2026/09/16/the-u-s-attorney-general-was-asked-whether-he-d-investigate-russian-boxing-chief-umar-kremlev-s-reported-financing-of-trump-jr-s-wedding-festivities-his-response-what-is-there-to-investigate) [14](https://www.adn.com/nation-world/2026/09/22/gop-senator-calls-for-probe-of-trump-jr-after-wedding-party-bankrolled-by-russian-oligarch/) [15](https://www.wcax.com/2026/10/06/russian-oligarch-says-donald-trump-jr-has-paid-him-back-wedding-celebration-expenses/) [16](https://www.kyivpost.com/post/88580) [17](https://www.flashscore.pt/noticias/iba-too-slow-with-reforms-and-too-dependent-on-russia-s-gazprom-for-funds-according-to-ioc/lEZDblNO/) <https://kyivindependent.com/trump-says-son-reimbursed-russian-oligarch-who-funded-wedding-celebrations/>
 
 ### 4. Kirill Dmitriev (RDIF, sanctioned 2022) runs a direct channel to Witkoff and Kushner and pitched US-Russia business deals as part of the peace process ('make money not war').
 
@@ -173,9 +176,13 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 - Any sale needs OFAC and Kremlin approval.
 - Witkoff's spokesperson: he 'has no conflict of interest and no financial stake in this matter'.
 - The NYT found no indication that Witkoff or Kushner would profit personally.
+- Update: OFAC's General License 131K authorises sale negotiations only until 21 Nov 2026; any final transfer needs a separate licence, and the proceeds must go into a blocked account.
+- A separate licence for Lukoil's filling stations and Bulgarian assets runs to 24 Apr 2027.
+- The FT reported that Tahnoon bin Zayed is part of the Boehly consortium.
+- No signed sale was reported as of mid-Nov 2026.
 - Amounts: $1M-$2M
-- Dates: early Oct 2026; 5 Sep 2026; Jan 2026
-- Sources: [28](https://www.pravda.com.ua/eng/news/2026/10/03/8056300/) [29](https://meduza.io/en/news/2026/10/05/lukoil-s-foreign-asset-sale-becomes-part-of-u-s-russia-talks-on-ending-ukraine-war-nyt-reports) [30](https://kyivindependent.com/u-s-peace-negotiations-with-russia-could-now-involve-multi-billion-dollar-lukoil-deal-nyt-reports/) [31](https://www.wionews.com/world/us-russia-talks-lukoil-assets-todd-boehly-trump-investors-1791021292256) [32](https://meduza.io/en/news/2026/09/23/former-chelsea-co-owner-todd-boehly-seeks-to-buy-lukoil-s-foreign-assets)
+- Dates: early Oct 2026; 5 Sep 2026; Jan 2026; 21 Nov 2026; 24 Apr 2027
+- Sources: [28](https://www.pravda.com.ua/eng/news/2026/10/03/8056300/) [29](https://meduza.io/en/news/2026/10/05/lukoil-s-foreign-asset-sale-becomes-part-of-u-s-russia-talks-on-ending-ukraine-war-nyt-reports) [30](https://kyivindependent.com/u-s-peace-negotiations-with-russia-could-now-involve-multi-billion-dollar-lukoil-deal-nyt-reports/) [31](https://www.wionews.com/world/us-russia-talks-lukoil-assets-todd-boehly-trump-investors-1791021292256) [32](https://meduza.io/en/news/2026/09/23/former-chelsea-co-owner-todd-boehly-seeks-to-buy-lukoil-s-foreign-assets) <https://kurs.com.ua/en/novost/1485213-vashington-prodovzhiv-termin-prodazhu-zakordonnogo-biznesu-lukoila> <https://shipandbunker.com/news/world/708441-us-again-extends-deadline-for-lukoil-foreign-assets-sale>
 
 ### 7. Gentry Beach, a friend of Donald Trump Jr., struck an LNG deal with sanctioned Russian gas producer Novatek for an Alaska project.
 
@@ -184,13 +191,15 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 - Documented (NYT, Feb 2026; relayed by Moscow Times, ADN): Beach, a Dallas investor, signed an LNG technology agreement with Novatek after the Aug 2025 Alaska summit, for the North Slope 'Polar Train' project.
 - Beach said it would use a mobile LNG plant built at Novatek's Murmansk site.
 - In Oct 2026 the FT reported (relayed by Ukrainska Pravda) that Novatek was allegedly financing and controlling the ~$25B project and that most of its management left.
-- That part is single-source.
+- That part is single-source and rests mainly on former CEO Joel Riddle.
+- He told the FT that Novatek funded and directed the venture before Treasury approval, and that he had first believed the money came from Beach and Abu Dhabi's Tech Wave.
+- Polar LNG denies wrongdoing, says it complies with US law and says Novatek made no other payments (Alaska Journal of Commerce, 9 Nov 2026).
 - Novatek told the NYT it planned a minority stake.
 - Beach describes a social friendship with the Trump family and denies doing business with them.
 - No source shows US approval was granted because of the friendship.
 - Amounts: ~$25B
-- Dates: Feb 2026; Aug 2025; Oct 2026
-- Sources: [33](https://www.themoscowtimes.com/2026/02/20/us-investor-linked-to-trump-signed-gas-deal-with-russias-novatek-nyt-a92006) [34](https://www.adn.com/business-economy/energy/2026/03/02/texas-investor-with-trump-family-ties-pursues-project-to-tap-north-slope-gas/) [35](https://www.thebarentsobserver.com/news/us-investor-with-ties-to-trump-family-looks-to-murmansk/445637) [36](https://www.pravda.com.ua/eng/news/2026/10/24/8059533/)
+- Dates: Feb 2026; Aug 2025; Oct 2026; 9 Nov 2026
+- Sources: [33](https://www.themoscowtimes.com/2026/02/20/us-investor-linked-to-trump-signed-gas-deal-with-russias-novatek-nyt-a92006) [34](https://www.adn.com/business-economy/energy/2026/03/02/texas-investor-with-trump-family-ties-pursues-project-to-tap-north-slope-gas/) [35](https://www.thebarentsobserver.com/news/us-investor-with-ties-to-trump-family-looks-to-murmansk/445637) [36](https://www.pravda.com.ua/eng/news/2026/10/24/8059533/) <https://www.adn.com/alaska-journal/news/2026/11/09/former-ceo-alleges-russian-company-financed-alaska-project-despite-us-sanctions-polar-lng-denies-the-claims/>
 
 ### 8. World Liberty Financial sold tokens to Russia-linked buyers.
 
@@ -262,6 +271,7 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 - Milner says VTB had no role in his Cadre investment and that he is not a Kushner associate.
 - The White House says the peace plan reflects input from both Ukraine and Russia; proposed US-Russia business deals are state/corporate, not personal to the envoys.
 - Bylinetimes.com and propublica.org could not be fetched here; their findings rest on search summaries and relaying outlets.
+- Polar LNG denies its former CEO's allegation that Novatek secretly financed and controlled the project, and says it complies with US sanctions law.
 
 ## People and organisations
 
@@ -321,7 +331,7 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 - [[Yuri Milner]] *family trust invested $850k in* [[Cadre]] · 2015 · $850K · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[World Liberty Financial]] *allegedly sold WLFI to a wallet that transacted in (Accountable.US, unverified)* [[A7A5]] · 2025 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[IB Challenger]] *made wedding payments via* [[Donald Trump Jr]] · 2026-05 · [[C76 Russia-linked money around the family and envoys|C76]]
-- [[Umar Kremlev]] *paid for parts of wedding celebrations (island rental, fireworks); later repaid* [[Donald Trump Jr]] · 2026-05 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Umar Kremlev]] *paid for parts of wedding celebrations (island rental, fireworks); Kremlev says repaid* [[Donald Trump Jr]] · 2026-05 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[US International Development Finance Corporation]] *reported mid-teens stake in consortium vehicle* [[Lukoil]] · 2026-10 · [[C76 Russia-linked money around the family and envoys|C76]]
 
 ### Ownership (9)
@@ -466,7 +476,7 @@ Evidence grades: **documented** (filings, official records or several outlets), 
 
 #### 1. Kremlev → Don Jr.'s wedding celebrations (documented)
 - ProPublica reported on 14 Sep 2026 that Umar Kremlev spent "hundreds of thousands of dollars" on the May 2026 Bahamas wedding weekend. Kremlev is the Russian president of the International Boxing Association (IBA) and has been photographed with Putin. The spending included renting one of the two private islands and a fireworks show. The money came through **IB Challenger**, a Dubai entity affiliated with the IBA.
-- The family confirmed the payments. A Trump Jr. spokesperson called Kremlev "a personal friend of Don" but "not someone he has a business relationship with." Bettina Anderson says he paid for two after-parties, not the wedding itself. The family called it a gift and promised to repay it, and on 6 Oct 2026 Kremlev said he had been paid back (AP).
+- The family confirmed the payments. A Trump Jr. spokesperson called Kremlev "a personal friend of Don" but "not someone he has a business relationship with." Bettina Anderson says he paid for two after-parties, not the wedding itself. The family called it a gift and promised to repay it, and on 6 Oct 2026 Kremlev said he had been paid back (AP). The amount, and whether the money went to Kremlev or to IB Challenger, were not disclosed, so the repayment rests on Kremlev's word. The IBA says it paid nothing itself.
 - Response: Rep. Robert Garcia sent records requests to the White House and Trump Jr. on 15 Sep 2026, asking among other things about a security clearance and whether Kremlev sought favourable treatment. Because Democrats are in the minority, the requests are voluntary. Sen. John Curtis (R-UT) asked Senate Judiciary to investigate. AG Todd Blanche: "What is there to investigate." Trump: "no idea who Umar is."
 - Layer: the IOC has criticised the IBA for depending on Gazprom sponsorship. Kyiv Post could not identify IB Challenger's own funding sources. We found no report that Kremlev sought or received a US benefit.
 
@@ -492,12 +502,12 @@ Evidence grades: **documented** (filings, official records or several outlets), 
 - NYT (early Oct 2026, three unnamed people): Putin raised the Lukoil asset sale with Witkoff and Kushner in the Kremlin on 5 Sep 2026.
 - The lead bidder is a consortium headed by Todd Boehly, a Trump donor ($1M-$2M; outlets disagree). Reported members are Tahnoon-chaired IHC, Al Hail Holding, the Qatar-based Al-Khayyat brothers and the US DFC (reported mid-teens stake).
 - The Al-Khayyats are reported as former partners of Kushner and Ivanka Trump on the southern Albania resort project (C45). That is single-source in what we saw.
-- Carlyle signed a deal in Jan 2026 and later withdrew. Any sale needs OFAC and Kremlin approval.
+- Carlyle signed a deal in Jan 2026 and later withdrew. Any sale needs OFAC and Kremlin approval. *Update:* OFAC's GL 131K authorises negotiations only to 21 Nov 2026. Transfer needs a separate licence, and the proceeds must be blocked. No signed sale had been reported by mid-Nov 2026.
 - Witkoff's spokesperson: "no conflict of interest and no financial stake in this matter." The NYT found no indication of personal profit for Witkoff or Kushner.
 
 #### 6. Gentry Beach ↔ Novatek (documented; FT layer single-source)
 - Beach is a Dallas investor and friend of Trump Jr. Per the NYT (Feb 2026), he signed an LNG technology agreement with sanctioned Novatek after the Aug 2025 Alaska summit, for the North Slope "Polar Train" project, using a mobile plant built at Novatek's Murmansk site.
-- In Oct 2026 the FT (relayed) reported allegations that Novatek was financing and controlling the ~$25B project, and that most of its management left.
+- In Oct 2026 the FT (relayed) reported allegations that Novatek was financing and controlling the ~$25B project, and that most of its management left. The allegation comes mainly from former CEO Joel Riddle. Polar LNG denies it (Alaska Journal of Commerce, 9 Nov 2026).
 - Beach denies doing business with the Trump family.
 
 #### 7. WLF tokens to Russia-linked wallets (unverified)
@@ -577,3 +587,12 @@ Evidence grades: **documented** (filings, official records or several outlets), 
 46. AllSides, Deters defamation suit, 2026-10-17. https://www.allsides.com/news/2026-10-17-0700/politics-eric-deters-files-defamation-lawsuit-against-kimberly-guilfoyle
 47. Bloomberg, Milner/VTB/Cadre, 2017-11-04. https://www.bloomberg.com/news/articles/2017-11-04/early-backer-of-facebook-linked-to-russia-bank-kushner-platform
 48. Washington Times, Kushner and the Paradise Papers, 2017-11-08. https://m.washingtontimes.com/news/2017/nov/8/jared-kushner-linked-to-man-named-in-paradise-pape/
+
+### Second review (audit)
+
+Result: **upheld**. Re-checked three points.
+- **Kremlev.** The repayment is now attributed to Kremlev, with the amount and route undisclosed.
+- **Lukoil.** The NYT core remains single-source. Status update: OFAC GL 131K covers negotiations to 21 Nov 2026, and no sale was signed.
+- **Beach/Novatek.** The FT layer is attributed to ex-CEO Joel Riddle, and Polar LNG denies it.
+
+New sources: Kyiv Independent https://kyivindependent.com/trump-says-son-reimbursed-russian-oligarch-who-funded-wedding-celebrations/; Kurs.com.ua https://kurs.com.ua/en/novost/1485213-vashington-prodovzhiv-termin-prodazhu-zakordonnogo-biznesu-lukoila; Ship & Bunker https://shipandbunker.com/news/world/708441-us-again-extends-deadline-for-lukoil-foreign-assets-sale; ADN https://www.adn.com/alaska-journal/news/2026/11/09/former-ceo-alleges-russian-company-financed-alaska-project-despite-us-sanctions-polar-lng-denies-the-claims/

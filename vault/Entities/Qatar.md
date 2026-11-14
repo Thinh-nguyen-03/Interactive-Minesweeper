@@ -2,8 +2,8 @@
 id: "qatar"
 kind: "entity"
 type: "country"
-connections: 36
-claims: 12
+connections: 37
+claims: 13
 tags:
   - "entity"
   - "type/country"
@@ -15,8 +15,8 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 12 claims |
-| Connections | 36 |
+| Appears in | 13 claims |
+| Connections | 37 |
 
 ## How other claims describe it
 
@@ -38,6 +38,7 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
@@ -65,15 +66,16 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 ### Ownership (3)
 
 - [[Qatar]] *reported investor base / registration* [[Albania Land Development]] · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Qatar]] *partial owner of the Apollo-run trust that funded the Witkoff Group* [[Apollo Global Management]] · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Qatar]] *investor in an Apollo-run trust (per NYT correction, that trust was not the Witkoff lender)* [[Apollo Global Management]] · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Qatar]] *owns* [[Qatar Investment Authority]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 
-### Regulatory (4)
+### Regulatory (5)
 
 - [[US State Department]] *approved possible MQ-9B sale to* [[Qatar]] · 2025-03-26 · $1.96B · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Kash Patel]] *signed bilateral security agreements with (as FBI director)* [[Qatar]] · 2025-12 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[US State Department]] *approved 10,000 APKWS II sale to* [[Qatar]] · 2026-05 · $992.4M · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[US State Department]] *approved Patriot replenishment sale to* [[Qatar]] · 2026-05 · $4.01B · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[US State Department]] *$4.01B Patriot sale under emergency waiver* [[Qatar]] · 2026-05-01 · $4.01B · [[C69 Master timeline money events versus government actions|C69]]
 
 ### Advisory (1)
 

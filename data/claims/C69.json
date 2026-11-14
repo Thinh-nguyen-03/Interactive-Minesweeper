@@ -1,0 +1,876 @@
+{
+ "id": "C69",
+ "title": "Master timeline: money events versus government actions",
+ "verdict": "partly-accurate",
+ "confidence": "medium",
+ "summary": "We built a 277-event master timeline from the 81 claim files plus 19 verified additions (data/timeline.json). Most close pairs of a money event and an official act involving the same counterparty within 45 days had already been connected by the individual reports (Sun/SEC, MGX/Binance, Paramount/FCC, Winklevoss/CFTC). The new pairs come mainly from dating the October 2025 ballroom donor list against federal actions: Microsoft's UAE chip licences, Lockheed's F-35 contract, Google's OneGov deal, plus Pakistan's EXIM loan followed by the USD1 MoU and the EA/CFIUS clearance followed by LIV at Bedminster. All are timing proximity only, graded inferred, and several have documented innocent explanations or timing that cuts against a favour reading. No source we found asserts that any of the new pairs is linked.",
+ "sub_claims": [
+  {
+   "statement": "Method: a script over all 81 claim files extracted 489 dated events (397 from relationship edges, 92 from dated sentences in sub-claim findings) and found 51 money/official pairs sharing a counterparty within 45 days; after hand review and a report cross-check, nearly all were either already connected by the original reports or artefacts.",
+   "verdict": "confirmed",
+   "finding": "Grade: inferred (our own analysis). Of 51 candidate pairs, 47 crossed claim files, but a date-co-occurrence check showed 47 were already discussed together in at least one report (e.g. Justin Sun/SEC stay in C05, MGX-USD1/SEC Binance dismissal in C09, Paramount/FCC in C33, Winklevoss/CFTC in C43). The 4 the heuristic flagged as new were artefacts (a settlement paired with itself, a court scheduling order, a duplicate pardon date). Further artefacts discarded: ADGM's statement about Aqua 1 (not a US act and not a favour), Cantor's TMTG advisory role paired with an EXIM letter to Critical Metals (reverse money direction), Trump's OGE disclosure paired with DOJ's Paramount-WBD clearance (a disclosure is not a payment). The new pairs below came from hand cross-referencing, mainly of the October 2025 ballroom donor list against federal actions, which no single report had dated against each other.",
+   "sources": []
+  },
+  {
+   "statement": "Microsoft: Commerce approved its UAE Nvidia-chip export licences in September 2025, roughly 2-6 weeks before Microsoft appeared among ballroom donors at the 15 Oct 2025 East Room dinner (list published 23 Oct); a $10M amount was later reported.",
+   "verdict": "confirmed",
+   "finding": "Grade: inferred timing proximity; no source we found links the licence to the donation. Dates: Brad Smith disclosed on 2025-11-03 that the licences (about 60,400 A100-equivalents including GB300s) were approved in September 2025; the exact day is not public, so the gap to the 15 Oct dinner is between about 14 and 44 days. Microsoft was on the White House's 23 Oct 2025 list (CNBC, NBC); WaPo-sourced reporting puts its gift at $10M, but the date of the gift itself is not public. Context that cuts the other way: on 2025-09-02 Microsoft gave GSA a OneGov discount worth an estimated $3.1B in year one (a concession to the government, not a benefit to Microsoft), and on 2025-09-26 Trump publicly demanded Microsoft fire Lisa Monaco (C68). Microsoft framed the licences as the result of stricter safeguards; G42, which Microsoft partly owns, still had to wait until 2025-11-19.",
+   "sources": [
+    "https://www.cnbc.com/2025/11/03/nvidia-shares-rise-after-us-approves-chip-sales-to-the-uae.html",
+    "https://www.datacenterdynamics.com/en/news/microsoft-becomes-first-company-granted-export-license-by-us-govt-to-ship-nvidia-gpus-to-uae/",
+    "https://www.cnbc.com/2025/10/23/trump-white-house-east-wing-ballroom-donors-apple-amazon-meta-microsoft-google.html",
+    "https://thehill.com/homenews/administration/6152301-white-house-ballroom-private-donations/amp/",
+    "https://www.gsa.gov/about-us/newsroom/news-releases/multibillion-dollar-gsa-onegov-agreement-with-microsoft-brings-steep-discounts-09022025"
+   ]
+  },
+  {
+   "statement": "Lockheed Martin: the Pentagon definitized a $12.5B F-35 Lot 18-19 contract on 29 Sep 2025, 16 days before the ballroom donor dinner; the Saudi F-35 sale was announced 18 Nov 2025, 34 days after it. Lockheed's gift was later reported as $10M.",
+   "verdict": "confirmed",
+   "finding": "Grade: inferred; listed under documented innocent explanations. The 29 Sep modification finalized a handshake deal announced on 2024-11-25 under the Biden administration and had to be signed before the 30 Sep end of the fiscal year. Lockheed has been the F-35 prime contractor for decades, so some contract action falls inside any 45-day window. The Saudi F-35 request predates both (C56), and as of Nov 2026 the sale was a 17 Sep 2026 congressional notification, not a contract. Lockheed's presence on the 23 Oct 2025 list is documented; the $10M figure is from WaPo via The Hill.",
+   "sources": [
+    "https://www.defensenews.com/air/2025/09/30/pentagon-awards-contract-for-newest-f-35s/",
+    "https://breakingdefense.com/2025/09/lockheed-pentagon-finalize-deal-for-296-f-35s/",
+    "https://defensenews.com/air/2024/11/25/pentagon-lockheed-reach-handshake-deal-for-next-f-35s",
+    "https://www.cnbc.com/2025/10/23/trump-white-house-east-wing-ballroom-donors-apple-amazon-meta-microsoft-google.html",
+    "https://thehill.com/homenews/administration/6152301-white-house-ballroom-private-donations/amp/"
+   ]
+  },
+  {
+   "statement": "Alphabet/Google: GSA announced the 'Gemini for Government' OneGov deal on 21-22 Aug 2025, 39 days before YouTube agreed (29 Sep 2025) to pay $24.5M to settle Trump's suit, $22M of it to the ballroom.",
+   "verdict": "confirmed",
+   "finding": "Grade: inferred; documented innocent explanation. The OneGov deal is a price concession to the government ($0.47 per agency), on terms GSA was also striking with OpenAI, Anthropic, Microsoft and AWS around the same time. It does not benefit Google the way a licence or a dismissal would. The YouTube settlement ended a suit Trump filed in 2021. No source links the two.",
+   "sources": [
+    "https://www.nextgov.com/acquisition/2025/08/gsa-google-reach-agreement-gemini-availability-and-pricing/407586/",
+    "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom",
+    "https://www.gsa.gov/about-us/newsroom/news-releases/multibillion-dollar-gsa-onegov-agreement-with-microsoft-brings-steep-discounts-09022025"
+   ]
+  },
+  {
+   "statement": "Pakistan: US EXIM's $1.25B financing for the Reko Diq mine (approval reported 28 Nov 2025, announced 10 Dec 2025) came 35-47 days before Pakistan's government signed a USD1 payments MoU (14 Jan 2026) with SC Financial Technologies, the Delaware co-owner of the USD1 brand. Zach Witkoff signed for SC Financial.",
+   "verdict": "confirmed",
+   "finding": "Grade: inferred. C72 lists both events but does not pair them. The direction is the reverse of the usual pattern: a US act toward a country, then that country gives a benefit to a family-linked firm. Innocent context: Reko Diq is a Barrick-led project, the financing had been under negotiation through 2025, EXIM's mandate is to finance US exports (up to $2B of US equipment and services here), and EDC (Canada) co-financed. WLF says it is not paid under the Pakistan MoU (C70). No source asserts a link.",
+   "sources": [
+    "https://www.dawn.com/news/1960428/us-exim-bank-okays-12bn-for-reko-diq",
+    "https://profit.pakistantoday.com.pk/2025/11/28/us-exim-approves-1-25bn-as-reko-diq-secures-half-of-3-5bn-debt-financing/",
+    "https://www.arabnews.pk/node/2625697",
+    "https://finance.yahoo.com/news/exclusive-pakistan-partner-world-liberty-062318246.html"
+   ]
+  },
+  {
+   "statement": "PIF: the EA take-private (PIF about 93.4%, Affinity about 1.1%) cleared its last regulatory sign-offs, reportedly including CFIUS, by 30 Jul 2026 and closed on 4 Aug 2026. Two to seven days later, PIF-funded LIV Golf played LIV Golf New York at Trump National Bedminster (6-9 Aug 2026). The US-Saudi 123 agreement was signed on 22 Jul 2026, 15 days earlier.",
+   "verdict": "confirmed",
+   "finding": "Grade: inferred; documented innocent explanation for the timing. LIV announced the Bedminster event on 2026-01-23, more than six months before the CFIUS outcome, so the event date was fixed before the decision. On 2026-04-30 PIF also said it would stop funding LIV after 2026 (C56). The CFIUS clearance is press-reported only, since CFIUS decisions are confidential (C80), and the host fee is undisclosed. C56 and C80 each list some of these events, but neither puts them side by side.",
+   "sources": [
+    "https://abc7news.com/post/video-game-giant-electronic-arts-closes-55-billion-go-private-sale-business/19631707/",
+    "https://tech-insider.org/ea-buyout-eu-approval-cfius-2026/",
+    "https://www.livgolf.com/news/liv-golf-returns-new-york-bedminster-2026-season",
+    "https://newengland.golf/liv-golf-returns-to-trump-national-bedminster-august-6-9/"
+   ]
+  },
+  {
+   "statement": "Qatar: Affinity's reported $5B+ solicitation of Gulf funds including QIA (NYT, Mar 2026) was followed on 1 May 2026 by a $4.01B Patriot sale to Qatar under an emergency waiver of congressional review.",
+   "verdict": "confirmed",
+   "finding": "Grade: inferred; documented innocent explanation. The same emergency determination covered $2.5B for Kuwait and APKWS rounds for Israel and the UAE, after a March waiver of about $16.5B for the UAE, Jordan and Kuwait. All were tied to replenishment after Iranian strikes. The same relief went to countries with no reported Affinity solicitation. The NYT story is a solicitation, not completed money, and its day in March is not pinned, so the gap is about 30-60 days.",
+   "sources": [
+    "https://www.dawn.com/news/1996915",
+    "https://www.al-monitor.com/originals/2026/03/us-fast-tracks-165b-arms-sales-uae-jordan-kuwait-amid-iran-attacks"
+   ]
+  },
+  {
+   "statement": "Ripple and Palantir, both named ballroom donors on 23 Oct 2025, received federal approvals or contracts just outside the 45-day window: Ripple's conditional OCC trust charter on 12 Dec 2025 (50 days) and Palantir's ShipOS deal of up to $448M on 9 Dec 2025 (47 days).",
+   "verdict": "confirmed",
+   "finding": "Grade: inferred near-misses, recorded so the 45-day cut-off is not read as a clean boundary. Ripple's charter was one of a batch of five issued the same day, alongside Circle, Paxos, Fidelity Digital Assets and BitGo, most of which were not on the donor list. ShipOS is a ceiling, not committed money. Both donors' gift dates are unknown; only the list date is public.",
+   "sources": [
+    "https://www.cnbc.com/2025/10/23/trump-white-house-east-wing-ballroom-donors-apple-amazon-meta-microsoft-google.html",
+    "https://www.theregister.com/2025/12/10/palantir_navy_448_million_contract/",
+    "https://www.businesswire.com/news/home/20251210738739/en/U.S.-Navy-Partners-with-Palantir-to-Modernize-Shipbuilding-Supply-Chain-and-Accelerate-Shipbuilding"
+   ]
+  },
+  {
+   "statement": "Nvidia's $25M anonymous ballroom commitment is dated October 2025 in the WaPo spreadsheet. Commerce approved Nvidia-chip sales to G42 and Humain on 19 Nov 2025 (about 19-49 days later), and Trump allowed H200 sales to China on 8 Dec 2025.",
+   "verdict": "confirmed",
+   "finding": "Grade: single-source for the gift date (WaPo, via TNW and others). C68 already connects the gift with the export decisions, so this pair is not new. The WaPo account places the gift after the August 2025 China chip arrangement. Nvidia says its support is 'independent of any business interests'.",
+   "sources": [
+    "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
+    "https://www.implicator.ai/nvidia-and-apple-each-committed-25-million-to-trumps-ballroom-leaked-list-shows/"
+   ]
+  },
+  {
+   "statement": "Binance: 49 days after CZ's pardon (23 Oct 2025), Binance moved its BUSD-backed B-Token reserves into USD1 (11 Dec 2025).",
+   "verdict": "confirmed",
+   "finding": "Grade: documented sequence. Decrypt and others framed it as 'following founder's pardon', and C10 records the switch, so the pair is not new. A Binance spokesperson told Decrypt there is no connection. It falls just outside the 45-day window.",
+   "sources": [
+    "https://decrypt.co/352035/binance-deepens-ties-trump-backed-stablecoin-following-founders-pardon"
+   ]
+  },
+  {
+   "statement": "Re-verified tight pairs that the original reports had already connected: Justin Sun's $45M WLFI purchase (20 Jan 2025) followed 37 days later by the SEC's joint stay request (26 Feb 2025); and the CFTC's joint motion to vacate Gemini's consent order (27-28 May 2026) followed 22-23 days later by the Winklevoss twins' BTC gifts to MAGA Inc (19 Jun 2026).",
+   "verdict": "confirmed",
+   "finding": "Grade: documented dates; the link is inferred and no source asserts causation. Sun: The Block and Cointelegraph confirm the 26 Feb filing and tie it to his WLF purchases (C05). Gemini: The Block confirms the 28 May amended motion. Judge Hellerstein denied it on 2026-10-16, so the relief was not obtained (C43). In the Gemini case the money came after the act.",
+   "sources": [
+    "https://www.theblock.co/post/343635/sec-and-justin-sun-look-to-explore-a-potential-resolution",
+    "https://cointelegraph.com/news/sec-asks-stay-case-justin-sun-potential-resolution",
+    "https://www.theblock.co/news/business/2026-05-28-cftc-joins-relief-motion-gemini-402827",
+    "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775"
+   ]
+  },
+  {
+   "statement": "Cases where timing cuts against a favour reading: Amazon was on the ballroom donor list three to four weeks after agreeing to pay a $2.5B FTC penalty (25 Sep 2025); Charles Ergen's $25M ballroom commitment (Dec 2025 and Feb 2026) was followed by an FCC approval (12 May 2026) that imposed an 'unprecedented' $2.4B escrow condition on EchoStar.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented events; any reading is inferred. Amazon: the official act nearest the donor list was a penalty, not relief (C44). Ergen: his first $12.5M commitment (Dec 2025, anonymous) and second (Feb 2026) came about 85-160 days before the FCC order, outside the window. The order cleared the $40B AT&T and SpaceX sales but with a condition EchoStar protested. Other counter-timing from the record: Indonesia halted the Trump-linked Lido project on 2025-02-06 during the tariff talks (C59). Justin Sun's case took another year to dismiss and cost Rainberry $10M (C05). G42 waited about six months after MGX's USD1 deal for its own licences (C08).",
+   "sources": [
+    "https://www.billionaires.africa/2026/10/16/american-billionaire-charles-ergen-adelsons-each-gave-25-million-for-trumps-ballroom/",
+    "https://www.advanced-television.com/2026/05/13/fcc-approves-echostars-spectrum-sale-to-spacex-att/",
+    "https://www.telecompetitor.com/fcc-approves-att-and-starlink-purchases-of-echostar-spectrum/"
+   ]
+  }
+ ],
+ "corrections": [
+  "The heuristic 'same counterparty within 45 days' mostly re-finds pairs the reports already made. The new findings rest on manual cross-referencing, and the gift dates for most ballroom donors are not public: only the 15 Oct dinner and the 23 Oct 2025 list are, so day gaps for those pairs are measured from the list, not from the payment.",
+  "Microsoft's licence approval is dated only to 'September 2025', so its gap is a range (about 14-44 days to the dinner)."
+ ],
+ "denials_and_context": [
+  "Nvidia says its ballroom support is independent of business interests. Binance says USD1 integration is unrelated to the pardon. WLF says it is not compensated under the Pakistan MoU. The Trust for the National Mall says anonymous giving is ordinary nonprofit practice.",
+  "Many of the official acts are routine or generic: OneGov discounts went to many vendors, the Ripple charter came in a batch of five, the Lockheed F-35 deal was agreed in Nov 2024, the Qatar emergency arms sales also covered Kuwait, Israel and the UAE, and LIV's Bedminster date was set in January 2026.",
+  "Timing proximity is not evidence of causation, and this report does not claim it."
+ ],
+ "sources": [
+  {
+   "title": "Nvidia stock climbs as U.S. approves chip sale to the UAE under Microsoft deal",
+   "publisher": "CNBC",
+   "url": "https://www.cnbc.com/2025/11/03/nvidia-shares-rise-after-us-approves-chip-sales-to-the-uae.html",
+   "date": "2025-11-03"
+  },
+  {
+   "title": "Microsoft becomes first company granted export license by US gov't to ship Nvidia GPUs to UAE",
+   "publisher": "DCD",
+   "url": "https://www.datacenterdynamics.com/en/news/microsoft-becomes-first-company-granted-export-license-by-us-govt-to-ship-nvidia-gpus-to-uae/",
+   "date": "2025-11-03"
+  },
+  {
+   "title": "Trump White House ballroom financed by Big Tech and other corporate donors",
+   "publisher": "CNBC",
+   "url": "https://www.cnbc.com/2025/10/23/trump-white-house-east-wing-ballroom-donors-apple-amazon-meta-microsoft-google.html",
+   "date": "2025-10-23"
+  },
+  {
+   "title": "See the donor list for Trump ballroom",
+   "publisher": "NBC News",
+   "url": "https://www.nbcnews.com/politics/white-house/list-donors-trump-new-white-house-ballroom-east-wing-rcna239481",
+   "date": "2025-10-23"
+  },
+  {
+   "title": "Washington Post report reveals Trump White House ballroom donors",
+   "publisher": "The Hill",
+   "url": "https://thehill.com/homenews/administration/6152301-white-house-ballroom-private-donations/amp/",
+   "date": "2026-10-15"
+  },
+  {
+   "title": "Pentagon awards contract for newest F-35s",
+   "publisher": "Defense News",
+   "url": "https://www.defensenews.com/air/2025/09/30/pentagon-awards-contract-for-newest-f-35s/",
+   "date": "2025-09-30"
+  },
+  {
+   "title": "Lockheed, Pentagon finalize deal for 296 F-35s",
+   "publisher": "Breaking Defense",
+   "url": "https://breakingdefense.com/2025/09/lockheed-pentagon-finalize-deal-for-296-f-35s/",
+   "date": "2025-09-29"
+  },
+  {
+   "title": "Pentagon, Lockheed reach handshake deal for next F-35s",
+   "publisher": "Defense News",
+   "url": "https://defensenews.com/air/2024/11/25/pentagon-lockheed-reach-handshake-deal-for-next-f-35s",
+   "date": "2024-11-25"
+  },
+  {
+   "title": "GSA, Google reach agreement on Gemini availability and pricing",
+   "publisher": "Nextgov",
+   "url": "https://www.nextgov.com/acquisition/2025/08/gsa-google-reach-agreement-gemini-availability-and-pricing/407586/",
+   "date": "2025-08-21"
+  },
+  {
+   "title": "Multibillion-dollar GSA OneGov agreement with Microsoft brings steep discounts",
+   "publisher": "GSA",
+   "url": "https://www.gsa.gov/about-us/newsroom/news-releases/multibillion-dollar-gsa-onegov-agreement-with-microsoft-brings-steep-discounts-09022025",
+   "date": "2025-09-02"
+  },
+  {
+   "title": "YouTube to pay $22 million for White House ballroom to settle lawsuit from Trump",
+   "publisher": "CBS News",
+   "url": "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom",
+   "date": "2025-09-29"
+  },
+  {
+   "title": "US Navy pledges $448 million to test if Palantir is seaworthy",
+   "publisher": "The Register",
+   "url": "https://www.theregister.com/2025/12/10/palantir_navy_448_million_contract/",
+   "date": "2025-12-10"
+  },
+  {
+   "title": "U.S. Navy Partners with Palantir to Modernize Shipbuilding Supply Chain",
+   "publisher": "Business Wire",
+   "url": "https://www.businesswire.com/news/home/20251210738739/en/U.S.-Navy-Partners-with-Palantir-to-Modernize-Shipbuilding-Supply-Chain-and-Accelerate-Shipbuilding",
+   "date": "2025-12-10"
+  },
+  {
+   "title": "Nvidia and Apple each gave $25M to Trump's ballroom, Washington Post says",
+   "publisher": "The Next Web",
+   "url": "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
+   "date": "2026-10-15"
+  },
+  {
+   "title": "Nvidia and Apple each committed $25 million to Trump's ballroom, leaked list shows",
+   "publisher": "Implicator.ai",
+   "url": "https://www.implicator.ai/nvidia-and-apple-each-committed-25-million-to-trumps-ballroom-leaked-list-shows/",
+   "date": "2026-10-15"
+  },
+  {
+   "title": "Charles Ergen, Adelsons each gave $25 million for Trump's ballroom",
+   "publisher": "Billionaires.Africa",
+   "url": "https://www.billionaires.africa/2026/10/16/american-billionaire-charles-ergen-adelsons-each-gave-25-million-for-trumps-ballroom/",
+   "date": "2026-10-16"
+  },
+  {
+   "title": "FCC approves EchoStar's spectrum sale to SpaceX/AT&T",
+   "publisher": "Advanced Television",
+   "url": "https://www.advanced-television.com/2026/05/13/fcc-approves-echostars-spectrum-sale-to-spacex-att/",
+   "date": "2026-05-13"
+  },
+  {
+   "title": "FCC approves AT&T and Starlink purchases of EchoStar spectrum",
+   "publisher": "Telecompetitor",
+   "url": "https://www.telecompetitor.com/fcc-approves-att-and-starlink-purchases-of-echostar-spectrum/",
+   "date": "2026-05-12"
+  },
+  {
+   "title": "US Exim Bank okays $1.2bn for Reko Diq",
+   "publisher": "Dawn",
+   "url": "https://www.dawn.com/news/1960428/us-exim-bank-okays-12bn-for-reko-diq",
+   "date": "2025-12-10"
+  },
+  {
+   "title": "US EXIM approves $1.25bn as Reko Diq secures half of $3.5bn debt financing",
+   "publisher": "Profit (Pakistan Today)",
+   "url": "https://profit.pakistantoday.com.pk/2025/11/28/us-exim-approves-1-25bn-as-reko-diq-secures-half-of-3-5bn-debt-financing/",
+   "date": "2025-11-28"
+  },
+  {
+   "title": "US commits $1.25 billion EXIM financing for Pakistan's Reko Diq mine",
+   "publisher": "Arab News Pakistan",
+   "url": "https://www.arabnews.pk/node/2625697",
+   "date": "2025-12-10"
+  },
+  {
+   "title": "Exclusive: Pakistan to partner with World Liberty-linked firm on USD1",
+   "publisher": "Reuters via Yahoo Finance",
+   "url": "https://finance.yahoo.com/news/exclusive-pakistan-partner-world-liberty-062318246.html",
+   "date": "2026-01-14"
+  },
+  {
+   "title": "LIV Golf announces return to New York market for 2026 season",
+   "publisher": "LIV Golf",
+   "url": "https://www.livgolf.com/news/liv-golf-returns-new-york-bedminster-2026-season",
+   "date": "2026-01-23"
+  },
+  {
+   "title": "LIV Golf returns to Trump National Bedminster August 6-9",
+   "publisher": "New England Golf",
+   "url": "https://newengland.golf/liv-golf-returns-to-trump-national-bedminster-august-6-9/",
+   "date": "2026-01"
+  },
+  {
+   "title": "Maaden named title partner for LIV Golf Virginia 2026",
+   "publisher": "LIV Golf",
+   "url": "https://www.livgolf.com/news/maaden-named-title-partner-for-liv-golf-virginia-2026",
+   "date": "2026"
+  },
+  {
+   "title": "Video game giant Electronic Arts closes $55 billion go-private sale",
+   "publisher": "ABC7 (AP)",
+   "url": "https://abc7news.com/post/video-game-giant-electronic-arts-closes-55-billion-go-private-sale-business/19631707/",
+   "date": "2026-08-05"
+  },
+  {
+   "title": "EU clears $55B EA buyout, CFIUS approval secured",
+   "publisher": "Tech Insider",
+   "url": "https://tech-insider.org/ea-buyout-eu-approval-cfius-2026/",
+   "date": "2026-08"
+  },
+  {
+   "title": "US bypasses congressional review for military sales of $8.6 billion to Middle East allies",
+   "publisher": "Dawn (Reuters)",
+   "url": "https://www.dawn.com/news/1996915",
+   "date": "2026-05-02"
+  },
+  {
+   "title": "US fast-tracks $16.5B arms sales to UAE, Jordan, Kuwait amid Iran attacks",
+   "publisher": "Al-Monitor",
+   "url": "https://www.al-monitor.com/originals/2026/03/us-fast-tracks-165b-arms-sales-uae-jordan-kuwait-amid-iran-attacks",
+   "date": "2026-03"
+  },
+  {
+   "title": "Binance deepens ties with Trump-backed stablecoin following founder's pardon",
+   "publisher": "Decrypt",
+   "url": "https://decrypt.co/352035/binance-deepens-ties-trump-backed-stablecoin-following-founders-pardon",
+   "date": "2025-12-11"
+  },
+  {
+   "title": "SEC and Justin Sun look to 'explore a potential resolution'",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/343635/sec-and-justin-sun-look-to-explore-a-potential-resolution",
+   "date": "2025-02-26"
+  },
+  {
+   "title": "SEC asks court to stay case against Justin Sun",
+   "publisher": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sec-asks-stay-case-justin-sun-potential-resolution",
+   "date": "2025-02-26"
+  },
+  {
+   "title": "CFTC says it shouldn't have sued Gemini, joins motion to vacate prior judgment",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-05-28-cftc-joins-relief-motion-gemini-402827",
+   "date": "2026-05-28"
+  },
+  {
+   "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
+   "publisher": "The Block",
+   "url": "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+   "date": "2026-10-16"
+  }
+ ],
+ "entities": [
+  {
+   "id": "microsoft",
+   "name": "Microsoft",
+   "type": "company",
+   "description": "UAE chip-export licensee (Sep 2025); named ballroom donor (Oct 2025)"
+  },
+  {
+   "id": "lockheed-martin",
+   "name": "Lockheed Martin",
+   "type": "company",
+   "description": "F-35 prime contractor; named ballroom donor"
+  },
+  {
+   "id": "alphabet",
+   "name": "Alphabet / Google / YouTube",
+   "type": "company",
+   "description": "YouTube paid $22M to the ballroom in a settlement; GSA OneGov Gemini deal"
+  },
+  {
+   "id": "amazon",
+   "name": "Amazon",
+   "type": "company",
+   "description": "Named ballroom donor; paid $2.5B FTC settlement (Sep 2025)"
+  },
+  {
+   "id": "palantir",
+   "name": "Palantir",
+   "type": "company",
+   "description": "Named ballroom donor; Navy ShipOS (Dec 2025)"
+  },
+  {
+   "id": "ripple",
+   "name": "Ripple",
+   "type": "company",
+   "description": "Named ballroom donor; OCC conditional trust charter (Dec 2025)"
+  },
+  {
+   "id": "nvidia",
+   "name": "Nvidia",
+   "type": "company",
+   "description": "$25M anonymous ballroom commitment (Oct 2025, per WaPo)"
+  },
+  {
+   "id": "charles-ergen",
+   "name": "Charles Ergen",
+   "type": "person",
+   "description": "EchoStar chairman; $25M ballroom commitment (Dec 2025 / Feb 2026, per WaPo)"
+  },
+  {
+   "id": "echostar",
+   "name": "EchoStar",
+   "type": "company",
+   "description": "Sold spectrum to AT&T and SpaceX; FCC approval 2026-05-12 with $2.4B escrow"
+  },
+  {
+   "id": "white-house-ballroom",
+   "name": "White House ballroom",
+   "type": "event",
+   "description": "Privately funded East Wing ballroom project"
+  },
+  {
+   "id": "gsa",
+   "name": "General Services Administration",
+   "type": "government",
+   "description": "OneGov discount agreements"
+  },
+  {
+   "id": "ftc",
+   "name": "Federal Trade Commission",
+   "type": "government",
+   "description": "Amazon Prime settlement"
+  },
+  {
+   "id": "fcc",
+   "name": "Federal Communications Commission",
+   "type": "government",
+   "description": "Approved EchoStar spectrum sales"
+  },
+  {
+   "id": "us-commerce-department",
+   "name": "US Department of Commerce",
+   "type": "government",
+   "description": "Chip export licences"
+  },
+  {
+   "id": "pentagon",
+   "name": "US Department of Defense",
+   "type": "government",
+   "description": "F-35 contracts"
+  },
+  {
+   "id": "us-navy",
+   "name": "US Navy",
+   "type": "government",
+   "description": "ShipOS programme with Palantir"
+  },
+  {
+   "id": "exim-bank",
+   "name": "Export-Import Bank of the United States",
+   "type": "government",
+   "description": "$1.25B Reko Diq financing"
+  },
+  {
+   "id": "barrick",
+   "name": "Barrick",
+   "type": "company",
+   "description": "Lead operator of Reko Diq"
+  },
+  {
+   "id": "pakistan",
+   "name": "Pakistan",
+   "type": "country",
+   "description": "Signed USD1 MoU with SC Financial (Jan 2026)"
+  },
+  {
+   "id": "sc-financial-technologies",
+   "name": "SC Financial Technologies",
+   "type": "company",
+   "description": "Delaware co-owner of USD1 brand; Pakistan MoU counterparty"
+  },
+  {
+   "id": "zach-witkoff",
+   "name": "Zach Witkoff",
+   "type": "person",
+   "description": "WLF co-founder; signed Pakistan MoU"
+  },
+  {
+   "id": "usd1",
+   "name": "USD1",
+   "type": "asset",
+   "description": "WLF stablecoin"
+  },
+  {
+   "id": "saudi-pif",
+   "name": "Public Investment Fund",
+   "type": "fund",
+   "description": "Funds LIV Golf; ~93.4% of EA post-buyout"
+  },
+  {
+   "id": "liv-golf",
+   "name": "LIV Golf",
+   "type": "company",
+   "description": "PIF-funded league; events at Trump courses"
+  },
+  {
+   "id": "trump-national-bedminster",
+   "name": "Trump National Bedminster",
+   "type": "asset",
+   "description": "Hosted LIV Golf New York 6-9 Aug 2026"
+  },
+  {
+   "id": "trump-national-golf-club-dc",
+   "name": "Trump National Golf Club Washington DC",
+   "type": "company",
+   "description": "Hosted Maaden LIV Golf Virginia 7-10 May 2026"
+  },
+  {
+   "id": "maaden",
+   "name": "Ma'aden",
+   "type": "company",
+   "description": "Saudi state miner; LIV Virginia title partner"
+  },
+  {
+   "id": "ea-buyout",
+   "name": "EA take-private",
+   "type": "event",
+   "description": "$55B buyout by PIF, Silver Lake, Affinity; closed 2026-08-04"
+  },
+  {
+   "id": "affinity-partners",
+   "name": "Affinity Partners",
+   "type": "fund",
+   "description": "Kushner fund; ~1.1% of EA; reported $5B+ solicitation in 2026"
+  },
+  {
+   "id": "cfius",
+   "name": "CFIUS",
+   "type": "government",
+   "description": "Reportedly cleared EA buyout by 2026-07-30"
+  },
+  {
+   "id": "qatar",
+   "name": "Qatar",
+   "type": "country",
+   "description": "$4.01B Patriot sale under emergency waiver (May 2026)"
+  },
+  {
+   "id": "state-department",
+   "name": "US State Department",
+   "type": "government",
+   "description": "Emergency arms sales"
+  },
+  {
+   "id": "binance",
+   "name": "Binance",
+   "type": "company",
+   "description": "Moved B-Token reserves into USD1 (Dec 2025)"
+  },
+  {
+   "id": "changpeng-zhao",
+   "name": "Changpeng Zhao",
+   "type": "person",
+   "description": "Pardoned 2025-10-23"
+  },
+  {
+   "id": "world-liberty-financial",
+   "name": "World Liberty Financial",
+   "type": "company",
+   "description": "Trump-family crypto venture"
+  },
+  {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "type": "person",
+   "description": "President"
+  },
+  {
+   "id": "justin-sun",
+   "name": "Justin Sun",
+   "type": "person",
+   "description": "WLFI buyer; SEC case stayed Feb 2025"
+  },
+  {
+   "id": "sec",
+   "name": "SEC",
+   "type": "government",
+   "description": "Securities regulator"
+  },
+  {
+   "id": "gemini",
+   "name": "Gemini",
+   "type": "company",
+   "description": "Winklevoss exchange; CFTC vacatur motion May 2026"
+  },
+  {
+   "id": "cftc",
+   "name": "CFTC",
+   "type": "government",
+   "description": "Joined Gemini vacatur motion"
+  },
+  {
+   "id": "maga-inc",
+   "name": "MAGA Inc.",
+   "type": "fund",
+   "description": "Pro-Trump super PAC"
+  },
+  {
+   "id": "tether",
+   "name": "Tether",
+   "type": "company",
+   "description": "Tether America named ballroom donor"
+  },
+  {
+   "id": "coinbase",
+   "name": "Coinbase",
+   "type": "company",
+   "description": "Named ballroom donor"
+  },
+  {
+   "id": "meta",
+   "name": "Meta",
+   "type": "company",
+   "description": "Named ballroom donor ($5M per WaPo)"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "us-commerce-department",
+   "target": "microsoft",
+   "label": "approved UAE Nvidia-chip export licences (~60,400 A100-eq.)",
+   "type": "regulatory",
+   "date": "2025-09"
+  },
+  {
+   "source": "microsoft",
+   "target": "white-house-ballroom",
+   "label": "named donor ($10M per WaPo)",
+   "type": "money",
+   "date": "2025-10-23",
+   "amount_usd": 10000000
+  },
+  {
+   "source": "microsoft",
+   "target": "gsa",
+   "label": "OneGov discount (~$3.1B first-year savings)",
+   "type": "commercial",
+   "date": "2025-09-02"
+  },
+  {
+   "source": "pentagon",
+   "target": "lockheed-martin",
+   "label": "definitized F-35 Lots 18-19 ($12.5B modification)",
+   "type": "commercial",
+   "date": "2025-09-29",
+   "amount_usd": 12500000000
+  },
+  {
+   "source": "lockheed-martin",
+   "target": "white-house-ballroom",
+   "label": "named donor ($10M per WaPo)",
+   "type": "money",
+   "date": "2025-10-23",
+   "amount_usd": 10000000
+  },
+  {
+   "source": "gsa",
+   "target": "alphabet",
+   "label": "OneGov 'Gemini for Government' agreement",
+   "type": "commercial",
+   "date": "2025-08-21"
+  },
+  {
+   "source": "alphabet",
+   "target": "white-house-ballroom",
+   "label": "YouTube settlement, $22M to ballroom",
+   "type": "money",
+   "date": "2025-09-29",
+   "amount_usd": 22000000
+  },
+  {
+   "source": "ftc",
+   "target": "amazon",
+   "label": "$2.5B Prime settlement (penalty)",
+   "type": "legal",
+   "date": "2025-09-25",
+   "amount_usd": 2500000000
+  },
+  {
+   "source": "amazon",
+   "target": "white-house-ballroom",
+   "label": "named donor ($5M per WaPo)",
+   "type": "money",
+   "date": "2025-10-23",
+   "amount_usd": 5000000
+  },
+  {
+   "source": "us-navy",
+   "target": "palantir",
+   "label": "ShipOS, up to $448M",
+   "type": "commercial",
+   "date": "2025-12-09",
+   "amount_usd": 448000000
+  },
+  {
+   "source": "palantir",
+   "target": "white-house-ballroom",
+   "label": "named donor ($10M per WaPo)",
+   "type": "money",
+   "date": "2025-10-23",
+   "amount_usd": 10000000
+  },
+  {
+   "source": "ripple",
+   "target": "white-house-ballroom",
+   "label": "named donor",
+   "type": "money",
+   "date": "2025-10-23"
+  },
+  {
+   "source": "nvidia",
+   "target": "white-house-ballroom",
+   "label": "committed $25M anonymously (per WaPo)",
+   "type": "money",
+   "date": "2025-10",
+   "amount_usd": 25000000
+  },
+  {
+   "source": "charles-ergen",
+   "target": "white-house-ballroom",
+   "label": "committed $25M in two tranches (per WaPo)",
+   "type": "money",
+   "date": "2025-12",
+   "amount_usd": 25000000
+  },
+  {
+   "source": "charles-ergen",
+   "target": "echostar",
+   "label": "chairman of",
+   "type": "ownership"
+  },
+  {
+   "source": "fcc",
+   "target": "echostar",
+   "label": "approved spectrum sales with $2.4B escrow condition",
+   "type": "regulatory",
+   "date": "2026-05-12"
+  },
+  {
+   "source": "exim-bank",
+   "target": "pakistan",
+   "label": "$1.25B Reko Diq financing",
+   "type": "money",
+   "date": "2025-12-10",
+   "amount_usd": 1250000000
+  },
+  {
+   "source": "exim-bank",
+   "target": "barrick",
+   "label": "financed Reko Diq project",
+   "type": "money",
+   "date": "2025-12-10",
+   "amount_usd": 1250000000
+  },
+  {
+   "source": "pakistan",
+   "target": "sc-financial-technologies",
+   "label": "signed USD1 payments MoU with",
+   "type": "commercial",
+   "date": "2026-01-14"
+  },
+  {
+   "source": "zach-witkoff",
+   "target": "sc-financial-technologies",
+   "label": "signed Pakistan MoU for",
+   "type": "commercial",
+   "date": "2026-01-14"
+  },
+  {
+   "source": "cfius",
+   "target": "ea-buyout",
+   "label": "reportedly cleared",
+   "type": "regulatory",
+   "date": "2026-07-30"
+  },
+  {
+   "source": "affinity-partners",
+   "target": "ea-buyout",
+   "label": "~1.1% co-investor",
+   "type": "ownership",
+   "date": "2026-08-04"
+  },
+  {
+   "source": "saudi-pif",
+   "target": "liv-golf",
+   "label": "funds",
+   "type": "ownership"
+  },
+  {
+   "source": "liv-golf",
+   "target": "trump-national-bedminster",
+   "label": "staged LIV Golf New York at (host fee undisclosed)",
+   "type": "money",
+   "date": "2026-08-06"
+  },
+  {
+   "source": "maaden",
+   "target": "trump-national-golf-club-dc",
+   "label": "title partner of LIV event at",
+   "type": "commercial",
+   "date": "2026-05-07"
+  },
+  {
+   "source": "state-department",
+   "target": "qatar",
+   "label": "$4.01B Patriot sale under emergency waiver",
+   "type": "regulatory",
+   "date": "2026-05-01",
+   "amount_usd": 4010000000
+  },
+  {
+   "source": "binance",
+   "target": "usd1",
+   "label": "converted B-Token reserves into",
+   "type": "commercial",
+   "date": "2025-12-11"
+  },
+  {
+   "source": "donald-trump",
+   "target": "changpeng-zhao",
+   "label": "pardoned",
+   "type": "legal",
+   "date": "2025-10-23"
+  },
+  {
+   "source": "sec",
+   "target": "justin-sun",
+   "label": "jointly sought stay",
+   "type": "regulatory",
+   "date": "2025-02-26"
+  },
+  {
+   "source": "cftc",
+   "target": "gemini",
+   "label": "jointly moved to vacate consent order",
+   "type": "regulatory",
+   "date": "2026-05-28"
+  },
+  {
+   "source": "donald-trump",
+   "target": "white-house-ballroom",
+   "label": "hosted donor dinner for",
+   "type": "political",
+   "date": "2025-10-15"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Charles Ergen / EchoStar: $25M ballroom commitment around the FCC spectrum-sale review",
+   "why_connected": "A previously undisclosed $25M ballroom donor whose company needed FCC approval for $40B of spectrum sales. The approval came with a $2.4B escrow condition. No report in this project covers Ergen.",
+   "entities": [
+    "charles-ergen",
+    "echostar",
+    "fcc",
+    "white-house-ballroom"
+   ],
+   "source_url": "https://www.billionaires.africa/2026/10/16/american-billionaire-charles-ergen-adelsons-each-gave-25-million-for-trumps-ballroom/"
+  },
+  {
+   "title": "Ballroom donor list versus federal contracts and approvals, Oct-Dec 2025",
+   "why_connected": "Of the ~37 named donors, several (Microsoft, Lockheed, Palantir, Ripple, Google) had federal licences, contracts or charters within about 50 days of the list. Donation dates are unknown. A fuller pass over all 67 spreadsheet entries (WaPo, Oct 2026) could date each gift.",
+   "entities": [
+    "white-house-ballroom",
+    "microsoft",
+    "lockheed-martin",
+    "palantir",
+    "ripple",
+    "alphabet"
+   ],
+   "source_url": "https://thehill.com/homenews/administration/6152301-white-house-ballroom-private-donations/amp/"
+  },
+  {
+   "title": "Pakistan: EXIM Reko Diq financing and the USD1 MoU",
+   "why_connected": "A US financing decision toward Pakistan preceded Pakistan's MoU with a Witkoff/WLF-linked firm by about five weeks. It is worth checking who in the US government pushed the Reko Diq financing.",
+   "entities": [
+    "exim-bank",
+    "pakistan",
+    "sc-financial-technologies",
+    "zach-witkoff"
+   ],
+   "source_url": "https://www.dawn.com/news/1960428/us-exim-bank-okays-12bn-for-reko-diq"
+  }
+ ]
+}

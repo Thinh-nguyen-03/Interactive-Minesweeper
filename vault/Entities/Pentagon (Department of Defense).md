@@ -11,8 +11,8 @@ aliases:
   - "Pentagon / Space Force"
   - "U.S. Department of Defense"
   - "US Department of Defense"
-connections: 38
-claims: 14
+connections: 40
+claims: 15
 tags:
   - "entity"
   - "type/government"
@@ -24,8 +24,8 @@ Awarded $24M contract to Foundation Future Industries.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 14 claims |
-| Connections | 38 |
+| Appears in | 15 claims |
+| Connections | 40 |
 | Also known as | Department of Defense; Department of Defense / War; DoD; Pentagon; Pentagon / Department of War; Pentagon / Space Force; U.S. Department of Defense; US Department of Defense |
 
 ## How other claims describe it
@@ -49,6 +49,7 @@ Awarded $24M contract to Foundation Future Industries.
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
@@ -62,7 +63,7 @@ Awarded $24M contract to Foundation Future Industries.
 - [[Pentagon (Department of Defense)]] *$400M equity + $150M loan* [[MP Materials]] · 2025-07 · $550M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Pentagon (Department of Defense)]] *equity stake and NdPr price floor* [[MP Materials]] · 2025-07 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Pentagon (Department of Defense)]] *DPA grant application; equity conversion (~8%) discussed* [[Critical Metals Corp]] · 2025-10 · $50M · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
-- [[Pentagon (Department of Defense)]] *no-bid contracts (~$67M + $281M) advising EDU* [[Alvarez & Marsal Federal]] · 2026 · $348M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[Pentagon (Department of Defense)]] *no-bid contracts (~$67M + $281M) advising Kollitides's office* [[Alvarez & Marsal Federal]] · 2025-12/2026 · $348M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Pentagon (Department of Defense)]] *negotiated equity-stake funding under Drone Dominance with* [[Unusual Machines]] · 2026-05 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Pentagon (Department of Defense)]] *no-bid contracts up to ~$350M* [[Alvarez & Marsal Federal]] · 2026-06 · $348.7M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Pentagon (Department of Defense)]] *Flight School Next IDIQ up to $10B* [[M1 Support Services]] · 2026-08-13 · $10B · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
@@ -92,13 +93,14 @@ Awarded $24M contract to Foundation Future Industries.
 - [[Alan Waldenberg]] *represented DoD on MP Materials deal* [[Pentagon (Department of Defense)]] · 2025-07 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Ligado Networks]] *suing for ~$50B* [[Pentagon (Department of Defense)]] · 2026 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 
-### Commercial (7)
+### Commercial (8)
 
 - [[Pentagon (Department of Defense)]] *Air Force SBIR award (~$1.8M), start 2024-11-07* [[Boardwalk Robotics]] · 2024-11 · $1.8M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Pentagon (Department of Defense)]] *awarded $45M to* [[Cerebras Systems]] · 2025-04 · $45M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Pentagon (Department of Defense)]] *awarded 7 NSSL missions (~$2.3B)* [[Blue Origin]] · 2025-04-04 · $2.3B · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Pentagon (Department of Defense)]] *CDAO AI contract (ceiling)* [[xAI]] · 2025-07 · $200M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir Technologies (PLTR)]] · 2025-07-31 · $10B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir]] · 2025-07-31 · $10B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Pentagon (Department of Defense)]] *definitized F-35 Lots 18-19 ($12.5B modification)* [[Lockheed Martin]] · 2025-09-29 · $12.5B · [[C69 Master timeline money events versus government actions|C69]]
 - [[Pentagon (Department of Defense)]] *~$24M in research awards (Army/Navy/Air Force), as promoted* [[Foundation Future Industries]] · 2026-04 · $24M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Pentagon (Department of Defense)]] *deal partner of* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]
 

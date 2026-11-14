@@ -94,12 +94,12 @@ Every thread in the brief is documented. Dominari was exclusive placement agent 
 **Mostly accurate**
 
 - American Ventures Management LLC is 90% owned by Dominari, according to a May 2026 SEC filing.
-- The sons own about 12% of Dominari and, per the FT (May 2026), invested in most of the vehicles; amounts are undisclosed.
+- The sons own roughly 12-13% of Dominari (Reuters reported 6.71% each from February 2025 filings) and, per the FT (May 2026), invested in most of the vehicles; amounts are undisclosed.
 - Its stated focus is drones, AI and crypto.
 - On June 25, 2026, Bloomberg reported hundreds of millions in unrealized, largely warrant-driven gains on at least 10 thinly traded microcaps, and Bloomberg Línea reported stake sales during media-driven price rises.
 - '$1B' is the stated size, not confirmed capital raised.
-- Amounts: 90%; about 12%; $1B
-- Dates: May 2026; June 25, 2026
+- Amounts: 90%; roughly 12-13%; 6.71%; $1B
+- Dates: May 2026; February 2025; June 25, 2026
 - Sources: [7](https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps) [9](https://www.en.politis.com.cy/news/world/1003684/trump-sons-invest-in-fund-targeting-drones-crypto-and-ai) [8](https://thedeepdive.ca/trump-sons-dominari-microcap-fund/) [10](https://www.bloomberglinea.com/mercados/un-fondo-de-los-hijos-de-trump-aprovecho-el-interes-mediatico-para-vender-acciones-a-los-inversores/)
 
 ### 4. Dominari was tied to the Skyline Builders / Cove Kaz Kazakhstan tungsten deal, which has up to $1.6B of US-government-linked financing.
@@ -344,7 +344,7 @@ No source shows that the sons influenced any government decision; that part is i
 - No filing names him at Tron Inc.
 
 #### 3. Dominari launched American Ventures, a roughly $1B microcap fund with the Trump sons as investors: **mostly-accurate**
-- American Ventures is managed by American Ventures Management LLC, and Dominari holds 90% of it (SEC filing, May 2026). The sons own about 12% of Dominari.
+- American Ventures is managed by American Ventures Management LLC, and Dominari holds 90% of it (SEC filing, May 2026). The sons own roughly 12-13% of Dominari (Reuters reported 6.71% each from February 2025 filings).
 - The FT reported in early May 2026 that the brothers had put money into most of its vehicles; the amounts were not disclosed.
 - On June 25, 2026, Bloomberg reported hundreds of millions of dollars in **unrealized** gains on at least 10 thinly traded microcaps. Many gains came from warrants. Bloomberg Línea reported that the fund sold some stakes while media attention was lifting the shares.
 - The "$1B" is the fund's stated size, not money proven to have been raised. The fund's focus is drones, AI and crypto, not microcaps generally; microcaps are what it actually holds.
@@ -445,10 +445,21 @@ Direct fetches of intellinews.com, foxnews.com and the FT mirror were blocked (D
 
 ### Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (language review only; no fresh searches)
+**Result: upheld** (fresh re-verification with new web searches; replaces the earlier wording-only review)
 
 Checked:
-- Language review of summary and sub-claims for unattributed allegations
+- FINRA's October 2026 $800,000 fine of Revere Securities for AML/supervisory failures on foreign small-cap IPOs, settled without admitting or denying
+- House China Select Committee letters (Moolenaar and Khanna, dated 8 Mar 2026, released 9 Mar) to Dominari, D. Boral and Revere; 11 of 29 Dominari Chinese IPOs since 2020 flagged
+- Skyline Builders / Cove Kaz / Kaz Resources timeline, the FT's report of the sons' SPV stake, and the non-binding EXIM ($900M) and DFC ($700M) letters of interest
+- Sons' Dominari stake and American Ventures; whether any SEC or other enforcement action targets Dominari
 
 Changes:
-- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the sons' Skyline stake is attributed to the FT's anonymous sources, and FINRA's Revere fine is noted as not naming Kyle Wool. The House China committee's actions are described as letters, not findings. No changes.
+- Fresh searches (FINRA release and trade press, committee press release, Bloomberg Law, intellinews, Northern Miner, BusinessWire, Senate Banking letter) confirmed all checked assertions. FINRA counts more than 40 Hong Kong/China issuers among Revere's IPOs since 2022, consistent with the file. No SEC or other enforcement action against Dominari or American Ventures was found.
+- Adjusted the sons' Dominari stake from 'about 12%' to 'roughly 12-13%', noting Reuters' 6.71% each from February 2025 filings. Updated .md.
+- Replaces the earlier wording-only audit (no fresh searches).
+
+New sources:
+- FINRA, "FINRA Fines Revere Securities $800,000 for Small-Cap IPO-Related AML and Supervisory Failures", 2026-10-06. https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and
+- House Select Committee on the CCP (Democrats), "Khanna, Moolenaar investigate US underwriters that helped Chinese businesses rip off American investors", 2026-03-09. https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-moolenaar-investigate-us-underwriters-helped-chinese-businesses-rip
+- The Northern Miner, "Trump sons invested in US group developing $1.1B tungsten project in Kazakhstan: FT", 2026-05. https://www.northernminer.com/news/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/1003890636/
+- Senate Banking Committee, "Letter re Kazakhstan mining", 2026. https://www.banking.senate.gov/imo/media/doc/letter_re_kazakhstan_mining.pdf

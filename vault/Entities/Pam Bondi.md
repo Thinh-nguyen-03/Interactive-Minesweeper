@@ -10,7 +10,7 @@ tags:
 ---
 # Pam Bondi
 
-Attorney General from Feb 2025 (succeeded by Blanche in 2026); ex-Ballard lobbyist for Qatar.
+Attorney General Feb 2025 - Apr 2, 2026 (succeeded by Todd Blanche); ex-Ballard lobbyist for Qatar.
 
 | | |
 |---|---|
@@ -20,9 +20,9 @@ Attorney General from Feb 2025 (succeeded by Blanche in 2026); ex-Ballard lobbyi
 
 ## How other claims describe it
 
+- Attorney General Feb 2025 - Apr 2, 2026; former Ballard lobbyist on the Qatar account
 - Former AG; ex-Ballard lobbyist registered for Qatar; signed jet memo
 - Attorney General; ex-Ballard Qatar FARA registrant; signed jet memo
-- Attorney General; former Ballard lobbyist on the Qatar account
 - Former Attorney General; restored Gibson's gun rights
 - U.S. Attorney General; former Ballard lobbyist
 

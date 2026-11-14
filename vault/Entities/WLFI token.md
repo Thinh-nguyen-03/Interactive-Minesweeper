@@ -64,7 +64,7 @@ World Liberty Financial governance token; ~$550M sold.
 
 ### Media (1)
 
-- [[Reuters]] *found 36 of top 50 wallets likely foreign (~$804M)* [[WLFI token]] · 2025-10-28 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Reuters]] *found 36 of top 50 wallets likely foreign (~$804M; single-source analysis)* [[WLFI token]] · 2025-10-28 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 
 ### Commercial (3)
 

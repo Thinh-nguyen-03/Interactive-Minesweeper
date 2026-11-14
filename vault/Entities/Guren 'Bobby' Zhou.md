@@ -32,8 +32,8 @@ Chinese businessman; arrested in UK 2021 on suspicion of money laundering, uncha
 ### Ownership (4)
 
 - [[Guren 'Bobby' Zhou]] *ran earlier crypto project* [[Caduceus]] · 2023 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Guren 'Bobby' Zhou]] *led (NYT)* [[Web3Port]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Guren 'Bobby' Zhou]] *figure behind $100M purchase (NYT)* [[Aqua 1 Foundation]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Guren 'Bobby' Zhou]] *led (NYT; single-source)* [[Web3Port]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Guren 'Bobby' Zhou]] *figure behind $100M purchase (NYT; single-source)* [[Aqua 1 Foundation]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Guren 'Bobby' Zhou]] *figure behind purchase (per NYT)* [[Aqua 1 Foundation]] · 2026-08-09 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 
 ### Legal (2)

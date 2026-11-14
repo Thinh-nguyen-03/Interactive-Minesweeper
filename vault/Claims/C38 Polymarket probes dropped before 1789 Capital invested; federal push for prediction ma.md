@@ -131,8 +131,9 @@ The dated facts in the brief hold up. Bloomberg, CNBC and others reported on 202
 - A New Republic-cited tracker puts the total at nine states, and one report calls Utah the 10th.
 - Every suit seeks declarations that the CEA preempts state gambling law for CFTC-registered exchanges. Courts are split.
 - The 3rd Circuit backed Kalshi (April 2026), while the 9th Circuit (2026-08-28, Nevada) and the 6th Circuit (2026-09-25, Ohio and Tennessee) held that states can regulate.
+- Audit addition: one late-Oct 2026 report lists the CFTC's suits as Arizona, Connecticut, Illinois, Kentucky, Minnesota, New Mexico, New York, Rhode Island, Wisconsin and Utah (Utah being the 10th; D. Utah No. 2:26-cv-01055), and says the CFTC won preliminary injunctions in Arizona, Minnesota and Illinois (single report; not independently confirmed).
 - Dates: 2026-04-02; 2026-04-24; 2026-04-28; 2026-05-19; 2026-10-27
-- Sources: [10](https://www.covers.com/industry/cftc-sues-illinois-arizona-connecticut-prediction-markets-april-2-2026) [11](https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits) [13](https://www.theblock.co/post/398886/cftc-sues-new-york-over-prediction-market-crackdown-as-38-ags-back-massachusetts-kalshi-case) [14](https://courthousenews.com/cftc-sues-new-york-gaming-regulators-over-prediction-markets-crackdown/) [15](https://www.theblock.co/news/regulation/2026-04-28-cftc-sues-wisconsin-federal-state-clash-prediction-market-oversight-399253) [16](https://www.courthousenews.com/articles/cftc-sues-wisconsin-gaming-administration-in-response-to-kalshi-crackdown) [17](https://www.theblock.co/news/regulation/2026-05-19-cftc-sues-minnesota-first-explicit-state-ban-prediction-markets-401917) [32](https://theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922) [33](https://www.sportsbookreview.com/news/cftc-justice-department-sue-utah-over-prediction-market-enforcement-oct-28-2026/) [31](https://newrepublic.com/article/214489/legal-war-prediction-markets-crazier) [24](https://krdo.com/news/2026/08/28/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules) [30](https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets)
+- Sources: [10](https://www.covers.com/industry/cftc-sues-illinois-arizona-connecticut-prediction-markets-april-2-2026) [11](https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits) [13](https://www.theblock.co/post/398886/cftc-sues-new-york-over-prediction-market-crackdown-as-38-ags-back-massachusetts-kalshi-case) [14](https://courthousenews.com/cftc-sues-new-york-gaming-regulators-over-prediction-markets-crackdown/) [15](https://www.theblock.co/news/regulation/2026-04-28-cftc-sues-wisconsin-federal-state-clash-prediction-market-oversight-399253) [16](https://www.courthousenews.com/articles/cftc-sues-wisconsin-gaming-administration-in-response-to-kalshi-crackdown) [17](https://www.theblock.co/news/regulation/2026-05-19-cftc-sues-minnesota-first-explicit-state-ban-prediction-markets-401917) [32](https://theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922) [33](https://www.sportsbookreview.com/news/cftc-justice-department-sue-utah-over-prediction-market-enforcement-oct-28-2026/) [31](https://newrepublic.com/article/214489/legal-war-prediction-markets-crazier) [24](https://krdo.com/news/2026/08/28/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules) [30](https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets) [34](https://defirate.com/news/cftc-sues-utah-block-kalshi-crackdown/)
 
 ### 6. Sen. John Curtis sought a Senate Judiciary probe over Don Jr.'s prediction-market ties.
 
@@ -143,8 +144,9 @@ The dated facts in the brief hold up. Bloomberg, CNBC and others reported on 202
 - He cited Don Jr.'s Kalshi and Polymarket roles and 1789's stake, along with crypto, foreign real estate and defense investments.
 - The brief leaves out that the request was framed as bipartisan, also targeting Hunter Biden.
 - No committee action on it was found.
+- The letter also cited Don Jr.'s acceptance of wedding gifts from Russian businessman Umar Kremlev and his promotion of family crypto ventures, and it says its aim is to establish facts, without alleging that he broke any law.
 - Dates: 2026-09-21
-- Sources: [27](https://www.axios.com/2026/09/22/john-curtis-trump-jr-hunter-biden-subpoenas) [28](https://www.legalsportsreport.com/278593/gop-senator-wants-probe-into-trump-jr-s-prediction-market-ties/) [29](https://sbcamericas.com/2026/09/23/curtis-trump-jr-prediction-markets/) <https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business>
+- Sources: [27](https://www.axios.com/2026/09/22/john-curtis-trump-jr-hunter-biden-subpoenas) [28](https://www.legalsportsreport.com/278593/gop-senator-wants-probe-into-trump-jr-s-prediction-market-ties/) [29](https://sbcamericas.com/2026/09/23/curtis-trump-jr-prediction-markets/) <https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business> [29](https://sbcamericas.com/2026/09/23/curtis-trump-jr-prediction-markets/)
 
 ## Denials and context
 
@@ -288,7 +290,7 @@ The dated facts in the brief hold up. Bloomberg, CNBC and others reported on 202
   - These rulings decide whether the federal push that benefits the Trump-linked platforms succeeds.
   - [[Kalshi]] [[Polymarket]] [[Commodity Futures Trading Commission]] · [Source](https://krdo.com/news/2026/08/28/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules)
 
-## Sources (33)
+## Sources (34)
 
 1. [Polymarket Probe Ended by DOJ in Win for Crypto Bets Under Trump](https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump) (Bloomberg, 2025-07-15)
 2. [US Justice Department and CFTC close probes into Polymarket: Bloomberg](https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703) (The Block, 2025-07-15)
@@ -323,6 +325,7 @@ The dated facts in the brief hold up. Bloomberg, CNBC and others reported on 202
 31. [The legal war over prediction markets is getting crazier](https://newrepublic.com/article/214489/legal-war-prediction-markets-crazier) (The New Republic, 2026-10)
 32. [CFTC sues Utah as battle over prediction market regulation intensifies](https://theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922) (The Block, 2026-10-27)
 33. [CFTC and Justice Department sue Utah over prediction market enforcement](https://www.sportsbookreview.com/news/cftc-justice-department-sue-utah-over-prediction-market-enforcement-oct-28-2026/) (Sportsbook Review, 2026-10-28)
+34. [CFTC Sues Utah to Block Kalshi Crackdown After State's Court Victory](https://defirate.com/news/cftc-sues-utah-block-kalshi-crackdown/) (DeFi Rate, 2026-10)
 
 ## Full report
 
@@ -452,3 +455,11 @@ This is a follow-up lead from C25 (prediction markets, Don Jr.) and C26 (1789 Ca
 26. Axios, 2026-09-22. https://www.axios.com/2026/09/22/john-curtis-trump-jr-hunter-biden-subpoenas
 27. Legal Sports Report, 2026-09-22. https://www.legalsportsreport.com/278593/gop-senator-wants-probe-into-trump-jr-s-prediction-market-ties/
 28. SBC Americas, 2026-09-23. https://sbcamericas.com/2026/09/23/curtis-trump-jr-prediction-markets/
+
+### Audit (second-opinion pass, Nov 2026)
+
+Result: **upheld**.
+
+- **Probe closures.** Several outlets (CNBC via NBC, The Block, Decrypt, Bloomberg Law) agree that formal notices came in early July 2025 and were reported on 15 Jul 2025. Every account rests on Bloomberg and CNBC sources and on Polymarket's own statements. The DOJ and CFTC declined to comment, so the write-up's caution stands.
+- **CFTC state suits.** A late-Oct 2026 report (DeFi Rate) counts Utah as the 10th state, D. Utah No. 2:26-cv-01055. It lists the others as Arizona, Connecticut, Illinois, Kentucky, Minnesota, New Mexico, New York, Rhode Island and Wisconsin, and says the CFTC won preliminary injunctions in Arizona, Minnesota and Illinois. This is a single report and was not independently confirmed.
+- **Curtis letter.** Confirmed (SBC Americas, 23 Sep 2026). Besides the prediction-market ties, the letter cites Don Jr.'s acceptance of wedding gifts from Umar Kremlev and his promotion of the family's crypto ventures. It says it does not allege that he broke any law. No committee action was found.

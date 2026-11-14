@@ -37,4 +37,4 @@ Delaware licensing entity formed July 2025 (same day as the data-centre permitti
 ### Ownership (2)
 
 - [[DT Marks Al Raha Beach LLC]] *Trump licensing entity formed same day as permitting EO (per CREW)* [[Trump Organization]] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
-- [[Trump Organization]] *formed (Delaware) licensing entity, same day as EO per CREW* [[DT Marks Al Raha Beach LLC]] · 2025-07-23 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[Trump Organization]] *formed (Delaware) licensing entity, same day as EO per CREW (single-source)* [[DT Marks Al Raha Beach LLC]] · 2025-07-23 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]

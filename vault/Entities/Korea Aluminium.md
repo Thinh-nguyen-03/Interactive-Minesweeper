@@ -30,4 +30,4 @@ Base Group aluminium-foil subsidiary in a US Commerce circumvention case
 
 ### Regulatory (1)
 
-- [[US Department of Commerce]] *circumvention case; prelim ruling could raise foil rate to ~105.8% (reported)* [[Korea Aluminium]] · 2026-07-13 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[US Department of Commerce]] *AD/circumvention proceedings; prelim ruling reportedly could raise foil rate to ~105.8% (Korean press via NYT; not confirmed in notice)* [[Korea Aluminium]] · 2026-07-13 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]

@@ -6,8 +6,8 @@ aliases:
   - "SEC"
   - "U.S. Securities and Exchange Commission"
   - "US Securities and Exchange Commission"
-connections: 93
-claims: 31
+connections: 94
+claims: 32
 tags:
   - "entity"
   - "type/government"
@@ -19,8 +19,8 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 31 claims |
-| Connections | 93 |
+| Appears in | 32 claims |
+| Connections | 94 |
 | Also known as | SEC; U.S. Securities and Exchange Commission; US Securities and Exchange Commission |
 
 ## How other claims describe it
@@ -60,6 +60,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
@@ -71,7 +72,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 
 - [[Tron]] *lobbying via Kelley Drye/Digital Sovereignty Alliance ($370K; single source)* [[Securities and Exchange Commission]] · 2025 · $370K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
-### Regulatory (80)
+### Regulatory (81)
 
 - [[Securities and Exchange Commission]] *fraud case dismissed with prejudice* [[Yorkville Advisors]] · 2018-10-29 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Securities and Exchange Commission]] *sued for fraud, market manipulation and unregistered securities* [[Justin Sun]] · 2023-03-22 · [[C05 Justin Sun, WLF and the SEC|C05]]
@@ -87,6 +88,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *closed investigation with no action* [[Uniswap Labs]] · 2025-02-25 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *closed investigation with no action* [[Gemini]] · 2025-02-26 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *closed investigation; dismissed Earn suit* [[Gemini]] · 2025-02-26 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *jointly sought stay* [[Justin Sun]] · 2025-02-26 · [[C69 Master timeline money events versus government actions|C69]]
 - [[Securities and Exchange Commission]] *jointly sought stay to explore resolution* [[Justin Sun]] · 2025-02-26 · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Securities and Exchange Commission]] *sought stay of fraud case* [[Justin Sun]] · 2025-02-26 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *dismissed enforcement case with prejudice* [[Coinbase]] · 2025-02-27 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]

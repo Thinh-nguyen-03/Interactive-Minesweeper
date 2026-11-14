@@ -26,4 +26,4 @@ Published 'The CFIUS Review That Will Never Be'
 
 ### Media (1)
 
-- [[Lawfare]] *predicted 'the CFIUS review that will never be'* [[Electronic Arts take-private]] · 2025-10-03 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Lawfare]] *predicted 'the CFIUS review that will never be'* [[EA take-private]] · 2025-10-03 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]

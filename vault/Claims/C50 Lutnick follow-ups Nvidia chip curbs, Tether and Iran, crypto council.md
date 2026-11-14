@@ -92,9 +92,11 @@ Each of the five leads matches real, dated reporting or official documents.
 - This is a minority-staff report, not a committee finding or an enforcement action.
 - Tether says it helped freeze about $550M of Iran-linked USDT in 2026.
 - Ardoino later claimed a 94% drop in Iran-linked volumes but gave no stated methodology.
-- Amounts: 84%; about $550M; 94%
+- Audit note: coverage of the report breaks the 846 wallets down by designating authority.
+- About 87% of the 757 Israel-designated wallets transacted mainly in USDT, against 57% of the 101 OFAC-designated wallets, so the headline 84% is driven mostly by Israeli designations.
+- Amounts: 84%; about $550M; 94%; About 87%; 57%
 - Dates: 28 Sep 2026
-- Sources: [6](https://theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094) [7](https://www.hsgac.senate.gov/wp-content/uploads/2026-09-28-Letter-from-Sen-Blumenthal-to-Sec-Bessent.pdf) [8](https://www.hsgac.senate.gov/wp-content/uploads/2026-09-28-Letter-from-Sen-Blumenthal-to-AG-Blanche.pdf) [12](https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year) [13](https://www.blockhead.co/2026/10/20/tether-says-iran-linked-stablecoin-volumes-fell-94-as-it-rebuts-senate-report/)
+- Sources: [6](https://theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094) [7](https://www.hsgac.senate.gov/wp-content/uploads/2026-09-28-Letter-from-Sen-Blumenthal-to-Sec-Bessent.pdf) [8](https://www.hsgac.senate.gov/wp-content/uploads/2026-09-28-Letter-from-Sen-Blumenthal-to-AG-Blanche.pdf) [12](https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year) [13](https://www.blockhead.co/2026/10/20/tether-says-iran-linked-stablecoin-volumes-fell-94-as-it-rebuts-senate-report/) [6](https://theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094)
 
 ### 3. Blumenthal is also probing the Tether loan to the Lutnick children's trust.
 
@@ -150,9 +152,12 @@ Each of the five leads matches real, dated reporting or official documents.
 - The pitch is documented.
 - A completed trade or any profit is not.
 - Tariffs are set by the President, USTR and Commerce, so the conflict concern is plausible but unproven.
-- Amounts: 20-30%; ~$10M
-- Dates: July 2025; February 2026; 27 Feb 2026
-- Sources: [24](https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-records-from-secretary-lutnick-son-over-appearance-of-tariff-profiteering) [25](https://www.notus.org/congress/jamie-raskin-howard-lutnick-congress-house-investigation-tariffs) [26](https://fortune.com/2026/03/07/winners-supreme-court-tariff-ruling-hedge-funds-creating-100-billion-secondary-market-refunds-brandon-howard-lutnick/) [27](https://www.semafor.com/article/02/20/2026/cantor-fitzgerald-howard-lutnicks-old-firm-did-not-profit-from-supreme-court-tariff-ruling)
+- Audit note: Sens. Wyden and Warren had already written to Brandon Lutnick on 14 Aug 2025 asking how many refund agreements Cantor drafted or sold.
+- Raskin's letter cites internal documents claiming about $10M in trades.
+- Those documents have not been published, so Cantor's 'never executed' denial is contested but not disproved.
+- Amounts: 20-30%; ~$10M; about $10M
+- Dates: July 2025; February 2026; 27 Feb 2026; 14 Aug 2025
+- Sources: [24](https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-records-from-secretary-lutnick-son-over-appearance-of-tariff-profiteering) [25](https://www.notus.org/congress/jamie-raskin-howard-lutnick-congress-house-investigation-tariffs) [26](https://fortune.com/2026/03/07/winners-supreme-court-tariff-ruling-hedge-funds-creating-100-billion-secondary-market-refunds-brandon-howard-lutnick/) [27](https://www.semafor.com/article/02/20/2026/cantor-fitzgerald-howard-lutnicks-old-firm-did-not-profit-from-supreme-court-tariff-ruling) [29](https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets)
 
 ## Denials and context
 
@@ -171,6 +176,9 @@ Each of the five leads matches real, dated reporting or official documents.
 - Research limits: blumenthal.senate.gov did not resolve in this environment, and other direct fetches were not attempted for blocked news sites.
   - Findings rest on search summaries that agree across several outlets.
   - Cantor's replies to the Raskin and Blumenthal letters, and any result of those inquiries, were not found.
+- Commerce (spokesperson Kristen Eichamer) denies the Bessent-Lutnick Situation Room confrontation.
+  - Secondary coverage relays Financial Times reporting that Commerce is holding up the Megaspeed blacklisting.
+  - Megaspeed denies moving chips illegally, and Nvidia says it put Megaspeed on its own block list in June 2025.
 
 ## People and organisations
 
@@ -306,7 +314,7 @@ Each of the five leads matches real, dated reporting or official documents.
   - Examines exposure of Tether's US banking partners, including Cantor, after the PSI Iran report.
   - [[Tether]] [[Cantor Fitzgerald]] [[Iran]] · [Source](https://www.americanbanker.com/news/why-tethers-iran-problem-is-a-bank-partner-problem)
 
-## Sources (27)
+## Sources (30)
 
 1. [Scoop: Lutnick stalled Trump's Nvidia-China chip curbs after Oval talks](https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls) (Axios, 2026-11-11)
 2. [Scoop: Bessent confronts Lutnick in Situation Room over China inaction](https://axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips) (Axios, 2026-11-11)
@@ -335,6 +343,9 @@ Each of the five leads matches real, dated reporting or official documents.
 25. [Raskin presses Lutnick over tariffs](https://www.notus.org/congress/jamie-raskin-howard-lutnick-congress-house-investigation-tariffs) (NOTUS, 2026-02-27)
 26. [Meet the quiet winners of the Supreme Court tariff ruling](https://fortune.com/2026/03/07/winners-supreme-court-tariff-ruling-hedge-funds-creating-100-billion-secondary-market-refunds-brandon-howard-lutnick/) (Fortune, 2026-03-07)
 27. [Howard Lutnick's old firm did not, in fact, profit from Supreme Court tariff ruling](https://www.semafor.com/article/02/20/2026/cantor-fitzgerald-howard-lutnicks-old-firm-did-not-profit-from-supreme-court-tariff-ruling) (Semafor, 2026-02-20)
+28. [Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits](https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick) (Decrypt, 2026-10)
+29. [Wyden, Warren probe Lutnick firm's potential conflicts of interest related to massive tariff bets](https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets) (Senate Finance Committee (ranking member), 2025-08-14)
+30. [Maple Finance, FalconX secure Bitcoin-backed loans from Cantor Fitzgerald](https://www.finanzen.net/nachricht/devisen/maple-finance-falconx-secure-bitcoin-backed-loans-from-cantor-fitzgerald-report-14518733) (finanzen.net (Bloomberg report), 2025-05)
 
 ## Full report
 
@@ -455,10 +466,27 @@ The pitch is documented. A completed trade or profit is not.
 
 ### Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (language review only; no fresh searches)
+**Result: upheld** (independent re-verification with fresh web searches)
 
 Checked:
-- Language review of summary and sub-claims for unattributed allegations
+- Axios (11 Nov 2026): Lutnick stalled Trump-approved curbs on Nvidia-chip diversion, plus the Commerce denial
+- PSI minority 'Tethered to Terrorism' report (28 Sep 2026): 846 wallets, 84% mainly USDT
+- Blumenthal's 8 Oct 2026 letter to Brandon Lutnick: 13 requests, 23 Oct deadline, Tether loan to the children's trust
+- Tether's role in Cantor's $2B bitcoin-lending business (talks only?)
+- Cantor's tariff-refund trades: Wired pitch, Raskin letter, Cantor's denial
 
 Changes:
-- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the Axios Lutnick item is framed as reporting from unnamed sources, and Tether's role in Cantor lending as talks only. No changes.
+- Fresh searches (Axios/Reuters relays, The Block, HSGAC PDFs, Decrypt, Bloomberg relays, NOTUS) confirm all five core findings. Nothing was contradicted, and verdict and confidence are unchanged.
+- Added a wallet breakdown to the Tether-Iran sub-claim: 87% of 757 Israel-designated wallets and 57% of 101 OFAC-designated wallets. This nuance cuts in Tether's favour.
+- Tariff sub-claim: added the earlier Wyden-Warren letter of 14 Aug 2025, and noted that Raskin cites unpublished internal documents claiming about $10M in trades, so the denial is contested.
+- Cantor lending: still no source confirms Tether funding. The first loans (FalconX, Maple) are dated May 2025. The 'talks only' framing is kept.
+- Added to denials: Commerce's denial of the Bessent clash, the FT report (via secondary coverage) of the Megaspeed hold-up, and the Megaspeed and Nvidia statements.
+
+New sources:
+- Magica News, "Commerce Denies Bessent-Lutnick Clash as Megaspeed Blacklist Delay Draws Scrutiny", 2026-11. https://magica.com/news/bessent-lutnick-megaspeed-export-blacklist-dispute
+- GV Wire (Reuters), "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports", 2026-11-11. https://gvwire.com/2026/11/11/lutnick-stalled-trump-crackdown-on-diversion-of-nvidia-chips-to-china-axios-reports/
+- The Block, "Tether's USDT at center of Iran's shadow banking network, new Senate report says", 2026-09-28. https://theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094
+- Senate PSI minority (HSGAC), "Letter from Sen. Blumenthal to Chairman Lutnick (Cantor Fitzgerald)", 2026-10-08. https://www.hsgac.senate.gov/wp-content/uploads/2026-10-08-Letter-from-Sen-Blumenthal-to-Chairman-Lutnick.pdf
+- Decrypt, "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits", 2026-10. https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick
+- Senate Finance Committee (ranking member), "Wyden, Warren probe Lutnick firm's potential conflicts of interest related to massive tariff bets", 2025-08-14. https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets
+- finanzen.net (Bloomberg report), "Maple Finance, FalconX secure Bitcoin-backed loans from Cantor Fitzgerald", 2025-05. https://www.finanzen.net/nachricht/devisen/maple-finance-falconx-secure-bitcoin-backed-loans-from-cantor-fitzgerald-report-14518733

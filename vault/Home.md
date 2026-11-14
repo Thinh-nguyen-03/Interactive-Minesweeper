@@ -13,9 +13,8 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
 - Confirmed: 2
 - Mostly accurate: 72
-- Partly accurate: 5
+- Partly accurate: 6
 - Unverified: 2
-- Pending: 1
 
 ## Claims from the video
 
@@ -93,7 +92,7 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
-- [[C69 Master timeline money events versus government actions]] · Pending
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
@@ -128,8 +127,8 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 ## Most connected
 
 - [[Donald Trump]] (81 claims, 266 connections)
-- [[World Liberty Financial]] (40 claims, 112 connections)
-- [[Securities and Exchange Commission]] (31 claims, 93 connections)
+- [[World Liberty Financial]] (41 claims, 113 connections)
+- [[Securities and Exchange Commission]] (32 claims, 94 connections)
 - [[White House Trump administration]] (53 claims, 90 connections)
 - [[Donald Trump Jr]] (45 claims, 86 connections)
 - [[Eric Trump]] (44 claims, 82 connections)
@@ -141,14 +140,14 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[Steve Witkoff]] (22 claims, 53 connections)
 - [[United Arab Emirates]] (24 claims, 47 connections)
 - [[The New York Times]] (21 claims, 40 connections)
+- [[Pentagon (Department of Defense)]] (15 claims, 40 connections)
 - [[The Wall Street Journal]] (23 claims, 40 connections)
-- [[Pentagon (Department of Defense)]] (14 claims, 38 connections)
-- [[Qatar]] (12 claims, 36 connections)
+- [[Qatar]] (13 claims, 37 connections)
+- [[Affinity Partners]] (16 claims, 35 connections)
+- [[Binance]] (17 claims, 35 connections)
+- [[Commodity Futures Trading Commission]] (11 claims, 35 connections)
 - [[$TRUMP meme coin]] (11 claims, 35 connections)
-- [[Binance]] (16 claims, 34 connections)
+- [[Zach Witkoff]] (22 claims, 35 connections)
 - [[Cantor Fitzgerald]] (8 claims, 34 connections)
-- [[Commodity Futures Trading Commission]] (10 claims, 34 connections)
 - [[Crypto.com]] (12 claims, 34 connections)
 - [[Sheikh Tahnoon bin Zayed]] (19 claims, 34 connections)
-- [[Zach Witkoff]] (21 claims, 34 connections)
-- [[Affinity Partners]] (15 claims, 33 connections)

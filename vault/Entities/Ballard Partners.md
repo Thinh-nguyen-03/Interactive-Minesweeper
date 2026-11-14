@@ -64,7 +64,7 @@ Trump-tied lobbying firm; record $88.1M 2025 revenue; former employer of Bondi a
 ### Political (2)
 
 - [[Kraken]] *hired for lobbying* [[Ballard Partners]] · 2024-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named* [[Donald Trump]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named (Politico, anonymous sources)* [[Donald Trump]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
 ### Commercial (10)
 

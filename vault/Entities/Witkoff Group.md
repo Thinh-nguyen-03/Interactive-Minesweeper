@@ -31,10 +31,9 @@ New York real-estate developer founded by Steve Witkoff in 1997
 
 ## Relationships
 
-### Money (3)
+### Money (2)
 
 - [[Steve Witkoff]] *sold stake for $120M to an undisclosed buyer; remains minority shareholder* [[Witkoff Group]] · 2025 · $120M · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Apollo Global Management]] *Apollo-run trust (partly Qatar-owned) provided $100M* [[Witkoff Group]] · 2025-05 · $100M · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Apollo Global Management]] *lent $100M (refinancing)* [[Witkoff Group]] · 2025-05 · $100M · [[C73 Qatar's access network inside and around the administration|C73]]
 
 ### Ownership (5)
@@ -49,8 +48,9 @@ New York real-estate developer founded by Steve Witkoff in 1997
 
 - [[The New York Times]] *investigated Qatar ties* [[Witkoff Group]] · 2025-09-26 · [[C53 The Witkoff family's own Gulf money|C53]]
 
-### Commercial (3)
+### Commercial (4)
 
 - [[Witkoff Group]] *co-owns One High Line, Banyan Cay and North Beach projects with* [[Access Industries]] · 2021-12 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Witkoff Group]] *reportedly approached sovereign fund (NYT)* [[Kuwait]] · 2024-2025 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Witkoff Group]] *reportedly approached sovereign fund (NYT)* [[United Arab Emirates]] · 2024-2025 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Apollo Global Management]] *lent $100M (Belgrove loan; NYT correction: Apollo itself, not its Qatar-part-owned trust)* [[Witkoff Group]] · 2025-05 · $100M · [[C53 The Witkoff family's own Gulf money|C53]]

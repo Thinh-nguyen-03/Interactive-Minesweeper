@@ -37,7 +37,7 @@ Josh Kushner's venture firm; investor in OpenAI, Databricks and Ramp.
 - [[Thrive Capital]] *invested more than $1B in Oct 2024 round; led 2024 tender* [[OpenAI]] · 2024-10 · $1B · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Thrive Capital]] *major investor* [[OpenAI]] · 2024-10 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Thrive Capital]] *led $10B Series J of* [[Databricks]] · 2024-12 · $10B · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
-- [[Josh Gruenbaum]] *reported investor in a Thrive fund (WSJ via aggregators; single-source)* [[Thrive Capital]] · 2025-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Josh Gruenbaum]] *reported $100,001-$250,000 investor in a Databricks-linked Thrive SPV (WSJ via aggregators; single-source); says he recused* [[Thrive Capital]] · 2025-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Josh Gruenbaum]] *reportedly invested $100,001-$250,000 in Databricks-linked Thrive SPV (single-source, WSJ)* [[Thrive Capital]] · 2025-03 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 - [[Thrive Capital]] *investor in; reportedly co-led ~$1.85B round* [[Ramp]] · 2025-06/2026-10 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 - [[Thrive Capital]] *investor in* [[Databricks]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

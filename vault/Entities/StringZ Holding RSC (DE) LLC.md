@@ -54,7 +54,7 @@ Abu Dhabi/Delaware entity listed in the OCC decision; reportedly Tahnoon-backed 
 
 ### Regulatory (2)
 
-- [[StringZ Holding RSC (DE) LLC]] *registered in Abu Dhabi as RSC (WSJ; register entry not found)* [[Abu Dhabi Global Market]] · 2025-04 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[StringZ Holding RSC (DE) LLC]] *registered in Abu Dhabi as RSC (WSJ, single-source; register entry not found)* [[Abu Dhabi Global Market]] · 2025-04 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Office of the Comptroller of the Currency]] *required passivity commitment from* [[StringZ Holding RSC (DE) LLC]] · 2026-08-14 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 
 ### Legal (1)

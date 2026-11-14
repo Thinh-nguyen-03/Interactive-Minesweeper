@@ -43,6 +43,8 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
 - On 18 Nov 2025 Trump called the F-35 sale approved, but the formal congressional notification (48 jets, ~$24.3B) came only on 17 Sep 2026. It is not a signed contract.
 - Trump said the family had done 'very little' business with Saudi Arabia. Forbes's Dan Alexander, speaking to NPR, said that is not true; Forbes has estimated ~$50M from Saudi-linked deals in 2024 (figure via secondary reporting).
 - Affinity's EA stake is small (~1.1% per press estimates). PIF owns the bulk (~93%), so 'Kushner's EA buyout' overstates his share, though Affinity is a named co-acquirer.
+- The major non-NATO ally status announced on 18 Nov 2025 was formalized by Presidential Determination No. 2026-03 (13 Jan 2026; Federal Register 23 Jan 2026).
+- The 123 agreement is not simply on track: on 23 Jul 2026 Trump said its approval is 'totally subject' to Saudi Arabia joining the Abraham Accords; transmission to Congress is dated 24 Aug (Arms Control Today) or 25 Aug 2026 (other reports).
 
 ## What is unproven
 
@@ -53,6 +55,7 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
 - Those decisions were the 13 May 2025 Riyadh deals, the 18 Nov 2025 MBS visit (F-35 approval, major non-NATO ally status, nuclear declaration, Khashoggi 'things happen'), the 19 Nov 2025 Humain chip licences, the 22 Jul 2026 123 nuclear agreement and the 17 Sep 2026 F-35 notification.
 - Several deals predate the second term, LIV fees are undisclosed, and no evidence links any specific policy action to the family's business.
 - The connection rests on timing, shared counterparties (PIF, MBS) and Trump's misleading 'very little' claim.
+- Audit update: MNNA status was formalized by presidential determination on 13 Jan 2026, Diriyah Company is a PIF portfolio company, the F-35 notification drew a Rand Paul disapproval resolution but no vote (one outlet says the review lapsed on 17 Oct 2026), and Trump publicly made the 123 nuclear deal 'totally subject' to Saudi Arabia joining the Abraham Accords.
 
 ## Lead investigated
 
@@ -80,10 +83,11 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
 - Reuters put the combined Diriyah and Jeddah launches at ~$10B. These are developer headline values.
 - The Trump family's take is licence fees: The National put 2025 Gulf licensing income at ~$38M across four countries (see C31).
 - Diriyah's master developer is Diriyah Company.
-- It is widely described as PIF-owned, but I could not verify that in this session.
+- PIF's own portfolio page lists Diriyah Company as a PIF company (established 2022 to develop the Diriyah project), and C31's audit documented that the Wadi Safar project lies within Diriyah Company's master plan.
+- One profile calls it 'wholly owned' by PIF; that exact wording was not found in an official source, but PIF ownership is documented.
 - Amounts: ~$530M; ~$1B; $6.7M-$24M; ~$10B; ~$38M
 - Dates: July 2024; Dec 2024; Sept 2025; 11 Jan 2026
-- Sources: [26](https://www.thenationalnews.com/business/property/2026/01/11/dar-global-and-trump-organisation-launch-luxury-project-in-riyadhs-diriyah) [27](https://www.streetinsider.com/Reuters/Dar+Global+and+Trump+Organization+launch+%2410+billion+Saudi+developments/25832604.html) [28](https://www.semafor.com/article/01/12/2026/eric-trump-markets-10b-in-saudi-real-estate-projects) [29](https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/)
+- Sources: [26](https://www.thenationalnews.com/business/property/2026/01/11/dar-global-and-trump-organisation-launch-luxury-project-in-riyadhs-diriyah) [27](https://www.streetinsider.com/Reuters/Dar+Global+and+Trump+Organization+launch+%2410+billion+Saudi+developments/25832604.html) [28](https://www.semafor.com/article/01/12/2026/eric-trump-markets-10b-in-saudi-real-estate-projects) [29](https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/) [47](https://pif.gov.sa/en/our-investments/our-portfolio/diriyah-company)
 
 ### 2. PIF-funded LIV Golf has staged events at Trump-owned courses.
 
@@ -123,10 +127,11 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
 - The two governments signed a joint declaration completing civil-nuclear negotiations.
 - MBS raised the Saudi US-investment pledge from $600B to 'close to $1 trillion'.
 - Israel normalization was not secured.
-- I did not locate the formal MNNA designation document before the search budget ran out.
+- The MNNA status was formalized later: Presidential Determination No. 2026-03, 'Designation of the Kingdom of Saudi Arabia as a Major Non-NATO Ally', dated 13 Jan 2026 and published in the Federal Register on 23 Jan 2026 (91 FR 3017, doc. 2026-01421).
+- A follow-on ITAR amendment was flagged by DLA Piper as still to come; its publication was not confirmed.
 - Amounts: $600B; $1 trillion
-- Dates: 18 Nov 2025
-- Sources: [1](https://gulfnews.com/world/gulf/saudi/f-35s-1-trillion-investment-and-non-nato-ally-status-10-takeaways-from-us-saudi-summit-1.500352052) [2](https://www.dailysabah.com/world/mid-east/khashoggi-murder-was-huge-mistake-mbs/amp) [3](https://thisisbeirut.com.lb/articles/1329671/nuclear-partnership-and-f-35-sale-cement-saudi-arabias-new-non-nato-ally-status) [4](https://fortune.com/2025/11/18/trump-mbs-crown-prince-f35-normalization-ai-investments-khashoggi/) [5](https://www.cbsnews.com/news/trump-welcomes-mbs-saudi-crown-prince-white-house)
+- Dates: 18 Nov 2025; 2026-03; 13 Jan 2026; 23 Jan 2026
+- Sources: [1](https://gulfnews.com/world/gulf/saudi/f-35s-1-trillion-investment-and-non-nato-ally-status-10-takeaways-from-us-saudi-summit-1.500352052) [2](https://www.dailysabah.com/world/mid-east/khashoggi-murder-was-huge-mistake-mbs/amp) [3](https://thisisbeirut.com.lb/articles/1329671/nuclear-partnership-and-f-35-sale-cement-saudi-arabias-new-non-nato-ally-status) [4](https://fortune.com/2025/11/18/trump-mbs-crown-prince-f35-normalization-ai-investments-khashoggi/) [5](https://www.cbsnews.com/news/trump-welcomes-mbs-saudi-crown-prince-white-house) [45](https://www.govinfo.gov/content/pkg/FR-2026-01-23/html/2026-01421.htm) [46](https://www.dlapiper.com/insights/publications/2025/11/saudi-arabias-designation-as-a-major-non-nato-ally-practical-defense-trade-implications)
 
 ### 5. The F-35 sale was subsequently formalized.
 
@@ -134,10 +139,14 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
 
 - On 17 Sep 2026 the State Department notified Congress of a possible sale of 48 F-35s, worth ~$24.3B. This is a notification, not a signed contract, and it is subject to congressional review.
 - Some House Democrats, such as Rep. Krishnamoorthi, objected, citing Israel's qualitative edge and the risk of technology leaking to China.
-- I found no reporting on the outcome of the review.
+- Review outcome: no floor vote on the F-35 sale was found.
+- Sen. Rand Paul reportedly filed a resolution of disapproval (reported as S.J.Res. 217, 24 Sep 2026) that stayed in the Foreign Relations Committee.
+- A single outlet (houseofsaud.com) reports that the formal review period lapsed on 17 Oct 2026 without a vote to block, and that the Letter of Offer and Acceptance that would make the sale binding had not yet been issued.
+- Semafor (18 Sep 2026) called the notification a Saudi win.
+- So the sale appears to have cleared congressional review by default, but this rests on one specialist outlet and should be read as likely, not confirmed.
 - Amounts: ~$24.3B
-- Dates: 17 Sep 2026
-- Sources: [15](https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia) [16](https://breakingdefense.com/2026/09/us-clears-24b-f-35-sale-for-saudi-arabia/) [17](https://www.stripes.com/theaters/us/2026-09-18/state-department-approves-sale-of-48-f35s-to-saudi-arabia-22888413.html)
+- Dates: 17 Sep 2026; 24 Sep 2026; 17 Oct 2026; 18 Sep 2026
+- Sources: [15](https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia) [16](https://breakingdefense.com/2026/09/us-clears-24b-f-35-sale-for-saudi-arabia/) [17](https://www.stripes.com/theaters/us/2026-09-18/state-department-approves-sale-of-48-f35s-to-saudi-arabia-22888413.html) [48](https://www.semafor.com/article/09/18/2026/saudi-notches-win-with-f-35-sale) [49](https://houseofsaud.com/congress-f35-saudi-silence/)
 
 ### 6. US-Saudi civil-nuclear (123) deal talks proceeded while the Trump business expanded in Saudi Arabia.
 
@@ -151,8 +160,11 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
 - Forbes (Dan Alexander, 23 Jul 2026) reported that Trump's licensing company moved into a crown-prince-backed development during the nuclear talks.
 - A Trump Organization representative told Forbes the deal was not finalized while the president was negotiating the nuclear agreement.
 - I could only read the Forbes piece through foreign-edition excerpts.
+- Audit update: on 23 Jul 2026, the day after signing, Trump posted on Truth Social that the agreement 'will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords', and Press Secretary Karoline Leavitt said that if the Saudis do not join, the deal is off.
+- That condition is not in the signed text and Riyadh had not accepted it.
+- Arms Control Today gives the signatures as 20 Jul (Wright) and 22 Jul (Abdulaziz) and the transmission to Congress for 90-day review as 24 Aug; other reports say 25 Aug. Brookings' expectation that the deal takes effect by December 2026 has to be read against Trump's public condition.
 - Dates: 22 Jul 2026; 25 Aug 2026; 26 Oct 2026; December 2026; 23 Jul 2026
-- Sources: [18](https://www.al-monitor.com/originals/2026/07/us-reaches-nuclear-power-deal-saudi-arabia) [19](https://www.dailysignal.com/2026/07/23/us-saudi-arabia-nuclear-deal/) [20](https://neutronbytes.com/2026/08/26/saudi-123-agreement-submitted-to-congress/) [21](https://www.brookings.edu/articles/approving-the-us-saudi-nuclear-deal-while-reducing-proliferation-risks/) [22](https://www.armscontrol.org/act/2026-03/news/us-saudi-deal-said-loosen-nonproliferation-vows) [24](https://forbes.it/2026/07/23/tra-nucleare-e-hotel-di-lusso-cosi-trump-espande-i-suoi-affari-in-arabia-saudita/) [23](https://www.forbes.com/sites/danalexander/2026/07/23/trump-bolstered-saudi-business-connections-amid-nuclear-discussions/)
+- Sources: [18](https://www.al-monitor.com/originals/2026/07/us-reaches-nuclear-power-deal-saudi-arabia) [19](https://www.dailysignal.com/2026/07/23/us-saudi-arabia-nuclear-deal/) [53](https://neutronbytes.com/2026/08/26/saudi-123-agreement-submitted-to-congress/) [21](https://www.brookings.edu/articles/approving-the-us-saudi-nuclear-deal-while-reducing-proliferation-risks/) [22](https://www.armscontrol.org/act/2026-03/news/us-saudi-deal-said-loosen-nonproliferation-vows) [24](https://forbes.it/2026/07/23/tra-nucleare-e-hotel-di-lusso-cosi-trump-espande-i-suoi-affari-in-arabia-saudita/) [23](https://www.forbes.com/sites/danalexander/2026/07/23/trump-bolstered-saudi-business-connections-amid-nuclear-discussions/) [50](https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords) [51](https://www.al-monitor.com/originals/2026/07/trump-says-saudi-nuclear-deal-totally-subject-israel-normalization) [52](https://www.armscontrol.org/act/2026-09/news/trump-adds-conditions-us-saudi-nuclear-cooperation-deal)
 
 ### 7. AI-chip sales to Saudi Humain were approved.
 
@@ -200,6 +212,7 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
   - Comparable chip approvals went to the UAE's G42 the same day.
   - LIV's use of Trump courses dates to 2022, when Trump was out of office.
 - LIV host fees to Trump clubs are undisclosed, and PIF is ending LIV funding after 2026, which weakens the golf channel going forward.
+- Trump's Abraham Accords condition on the 123 deal cuts against a simple 'policy delivered for business' reading: the administration has tied the nuclear deal to an Israel-normalization goal Riyadh has resisted.
 
 ## People and organisations
 
@@ -211,8 +224,8 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
 - [[Dar Global]] · Company
 - [[Diriyah Company]] · Company
 - [[Donald Trump]] · Person
+- [[EA take-private]] · Event
 - [[Electronic Arts]] · Company
-- [[Electronic Arts take-private]] · Event
 - [[Elizabeth Warren]] · Person
 - [[Eric Trump]] · Person
 - [[Forbes]] · Media
@@ -236,7 +249,7 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
 - [[Silver Lake]] · Fund
 - [[Trump National Bedminster]] · Asset
 - [[Trump National Doral]] · Asset
-- [[Trump National Golf Club Washington D.C]] · Company
+- [[Trump National Golf Club Washington DC]] · Company
 - [[Trump National Golf Course & Trump International Hotel, Diriyah]] · Asset
 - [[Trump Organization]] · Company
 - [[Trump Plaza Jeddah]] · Asset
@@ -310,7 +323,7 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
 - [[Dar Global]] *develops* [[Trump National Golf Course & Trump International Hotel, Diriyah]] · 2026-01-11 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Eric Trump]] *launched and marketed* [[Trump National Golf Course & Trump International Hotel, Diriyah]] · 2026-01-11 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Trump Organization]] *licenses brand to* [[Trump National Golf Course & Trump International Hotel, Diriyah]] · 2026-01-11 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
-- [[LIV Golf]] *held LIV Golf Virginia at* [[Trump National Golf Club Washington D.C]] · 2026-05 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+- [[LIV Golf]] *held LIV Golf Virginia at* [[Trump National Golf Club Washington DC]] · 2026-05 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Ma'aden]] *title sponsor of LIV Golf Virginia* [[LIV Golf]] · 2026-05 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[LIV Golf]] *held LIV Golf New York at* [[Trump National Bedminster]] · 2026-08 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 
@@ -329,13 +342,13 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
   - [[CFIUS]] [[Jared Kushner]] [[Affinity Partners]] [[Public Investment Fund (Saudi Arabia)]] [[Electronic Arts]] · [Source](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-warren-sound-alarm-on-acquisition-of-american-video-game-producer-by-saudi-arabias-sovereign-wealth-fund_jared-kushners-investment-firm)
 - **Ma'aden sponsorship of a LIV event at a Trump course**
   - A Saudi mining company was title sponsor of LIV Golf Virginia at Trump National DC in May 2026, a second Saudi channel to a Trump property alongside PIF's LIV funding.
-  - [[Ma'aden]] [[LIV Golf]] [[Trump National Golf Club Washington D.C]] · [Source](https://www.livgolf.com/news/maaden-named-title-partner-for-liv-golf-virginia-2026)
+  - [[Ma'aden]] [[LIV Golf]] [[Trump National Golf Club Washington DC]] · [Source](https://www.livgolf.com/news/maaden-named-title-partner-for-liv-golf-virginia-2026)
 - **Forbes's estimate of Trump-family income from Saudi-linked deals**
   - Forbes tallied about $50M from Saudi-linked deals in 2024 and at least nine deals with Saudi investors.
   - A full itemization would quantify the business side of this timeline.
   - [[Donald Trump]] [[Trump Organization]] [[Forbes]] · [Source](https://thedeepdive.ca/what-does-trumps-family-get-out-of-the-saudi-nuclear-deal/)
 
-## Sources (44)
+## Sources (53)
 
 1. [F-35s, $1 trillion investment and non-Nato ally status: 10 takeaways from US-Saudi summit](https://gulfnews.com/world/gulf/saudi/f-35s-1-trillion-investment-and-non-nato-ally-status-10-takeaways-from-us-saudi-summit-1.500352052) (Gulf News, 2025-11-19)
 2. [US designates Saudi major non-NATO ally as MBS visits Washington](https://www.dailysabah.com/world/mid-east/khashoggi-murder-was-huge-mistake-mbs/amp) (Daily Sabah, 2025-11-18)
@@ -381,6 +394,15 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
 42. [Trump's growing pro golf influence on display at Bedminster](https://frontofficesports.com/article/trumps-growing-pro-golf-influence-on-display-at-bedminster/) (Front Office Sports, 2026-08)
 43. [Saudi Arabia to end LIV Golf funding, while league appoints new chairman](https://www.aljazeera.com/sports/2026/4/30/liv-golf-has-a-new-chairman-and-seeks-to-new-funding-without-saudi-backing) (Al Jazeera, 2026-04-30)
 44. [LIV Golf strikes a funding deal with a mystery investor](https://insidersport.com/2026/08/06/liv-golf-lead-investor-pif-exit/) (Insider Sport, 2026-08-06)
+45. [Designation of the Kingdom of Saudi Arabia as a Major Non-NATO Ally (Presidential Determination No. 2026-03)](https://www.govinfo.gov/content/pkg/FR-2026-01-23/html/2026-01421.htm) (Federal Register / GovInfo, 2026-01-23)
+46. [Saudi Arabia's designation as a major non-NATO ally: practical defense trade implications](https://www.dlapiper.com/insights/publications/2025/11/saudi-arabias-designation-as-a-major-non-nato-ally-practical-defense-trade-implications) (DLA Piper, 2025-11-25)
+47. [Diriyah Company (portfolio page)](https://pif.gov.sa/en/our-investments/our-portfolio/diriyah-company) (Public Investment Fund)
+48. [Saudi notches win with F-35 sale](https://www.semafor.com/article/09/18/2026/saudi-notches-win-with-f-35-sale) (Semafor, 2026-09-18)
+49. [Congress silent on Saudi F-35 sale](https://houseofsaud.com/congress-f35-saudi-silence/) (House of Saud (single specialist outlet), 2026-10)
+50. [Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords](https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords) (Al Jazeera, 2026-07-23)
+51. [Trump says Saudi nuclear deal 'totally subject' to Israel normalization](https://www.al-monitor.com/originals/2026/07/trump-says-saudi-nuclear-deal-totally-subject-israel-normalization) (Al-Monitor, 2026-07-23)
+52. [Trump adds conditions to U.S.-Saudi nuclear cooperation deal](https://www.armscontrol.org/act/2026-09/news/trump-adds-conditions-us-saudi-nuclear-cooperation-deal) (Arms Control Today (via search results; not fetchable), 2026-09)
+53. [Saudi 123 Agreement submitted to Congress](https://neutronbytes.com/2026/08/26/saudi-123-agreement-submitted-to-congress/) (Neutron Bytes, 2026-08-26)
 
 ## Full report
 
@@ -419,11 +441,11 @@ This builds on C31 (the Dar Global deals and licence fees), C15 (Kushner, Affini
 
 ### Sub-claims
 
-1. **Dar Global and Diriyah deals run in parallel with policy: confirmed.** Jeddah (2024) and the first Riyadh announcement (Dec 2024) predate the term. Trump Plaza Jeddah (Sep 2025) and the Diriyah launch (Jan 2026) fall inside it. The family's income is licence fees, about $38M across Gulf projects in 2025 per The National (C31). The site's master developer is Diriyah Company, which is widely described as PIF-owned; I did not verify that in this session.
+1. **Dar Global and Diriyah deals run in parallel with policy: confirmed.** Jeddah (2024) and the first Riyadh announcement (Dec 2024) predate the term. Trump Plaza Jeddah (Sep 2025) and the Diriyah launch (Jan 2026) fall inside it. The family's income is licence fees, about $38M across Gulf projects in 2025 per The National (C31). The site's master developer is Diriyah Company, which PIF lists in its own portfolio (audit; see C31's audit for the master-plan link).
 2. **PIF-funded LIV events at Trump courses: confirmed.** Doral (Apr 2025), Trump National DC (May 2026, title sponsor Ma'aden) and Bedminster (Aug 2026). Host fees go to the clubs and are folded into club revenue in Trump's disclosures, so the amounts are unknown. PIF is exiting LIV after 2026.
 3. **Kushner's PIF money and the EA buyout: confirmed.** EA was announced on 29 Sep 2025 and closed on 4 Aug 2026. Affinity's stake is small (~1.1%, press estimate). Senators Blumenthal and Warren asked CFIUS (chaired by Bessent) for close scrutiny, alleging the structure "bets $1 billion that Mr. Kushner can deliver federal approval." That is an allegation. I found no public record of the CFIUS outcome; one outlet (Gameluster) says final approvals came by 30 Jul 2026.
-4. **The 18 Nov 2025 visit produced F-35 approval, MNNA status, a nuclear framework and a $1T pledge: confirmed.** These were announcements. I did not locate the formal MNNA designation document before the search budget ran out.
-5. **F-35 sale formalized: confirmed, as a notification.** On 17 Sep 2026 Congress was notified of 48 jets worth ~$24.3B. This is not a signed contract. Some members, including Rep. Krishnamoorthi, objected. The outcome of the review was not found.
+4. **The 18 Nov 2025 visit produced F-35 approval, MNNA status, a nuclear framework and a $1T pledge: confirmed.** These were announcements. Audit: MNNA status was formalized by Presidential Determination No. 2026-03 (13 Jan 2026; Federal Register 23 Jan 2026, 91 FR 3017).
+5. **F-35 sale formalized: confirmed, as a notification.** On 17 Sep 2026 Congress was notified of 48 jets worth ~$24.3B. This is not a signed contract. Some members, including Rep. Krishnamoorthi, objected. Audit: Sen. Rand Paul reportedly filed a disapproval resolution (S.J.Res. 217, 24 Sep 2026); no floor vote was found, and one specialist outlet reports the review lapsed on 17 Oct 2026 without a block, with the binding LOA not yet issued.
 6. **Nuclear talks ran alongside business expansion: confirmed.** The 123 agreement was signed on 22 Jul 2026 and sent to Congress on 25 Aug. Reporting conflicts on enrichment. Reuters reported a path to enrichment. Wright says that is "just not true", and Brookings says no enrichment is permitted from the outset, but there is no UAE-style renunciation. Forbes (23 Jul 2026) tied a Trump licensing move into a crown-prince-backed project to the same period; a Trump Organization representative said the deal was not finalized while the president was negotiating. The Forbes original could not be fetched; I read it through Forbes Italia and Spain excerpts.
 7. **AI-chip sales to Humain: confirmed.** The Nvidia framework came in May 2025 and the Commerce licences on 19 Nov 2025, the day after the visit, with the same allowance to the UAE's G42.
 8. **Khashoggi remarks: confirmed.** "Things happen, but he knew nothing about it, and we can leave it at that." That contradicts the US intelligence assessment that MBS approved the operation. MBS called the killing a "huge mistake."
@@ -490,3 +512,13 @@ Forbes, TheWrap and Golf Digest could not be fetched directly in this session. T
 42. Front Office Sports, Trump's golf influence at Bedminster, 2026-08. https://frontofficesports.com/article/trumps-growing-pro-golf-influence-on-display-at-bedminster/
 43. Al Jazeera, PIF ends LIV funding, 2026-04-30. https://www.aljazeera.com/sports/2026/4/30/liv-golf-has-a-new-chairman-and-seeks-to-new-funding-without-saudi-backing
 44. Insider Sport, LIV's mystery investor, 2026-08-06. https://insidersport.com/2026/08/06/liv-golf-lead-investor-pif-exit/
+
+### Audit (second review, Nov 2026)
+
+Result: **strengthened** (verdict mostly-accurate kept).
+
+- **MNNA designation:** formalized as Presidential Determination No. 2026-03, dated 13 Jan 2026, published 23 Jan 2026 (doc. 2026-01421). https://www.govinfo.gov/content/pkg/FR-2026-01-23/html/2026-01421.htm ; DLA Piper flagged a follow-on ITAR amendment (publication not confirmed). https://www.dlapiper.com/insights/publications/2025/11/saudi-arabias-designation-as-a-major-non-nato-ally-practical-defense-trade-implications
+- **F-35 review:** no vote found. Rand Paul's resolution sat in committee; houseofsaud.com (single source) says the review expired 17 Oct 2026 without a block. https://houseofsaud.com/congress-f35-saudi-silence/ ; Semafor, 2026-09-18: https://www.semafor.com/article/09/18/2026/saudi-notches-win-with-f-35-sale
+- **Diriyah Company:** listed on PIF's portfolio page. https://pif.gov.sa/en/our-investments/our-portfolio/diriyah-company . "Wholly owned" appears only in an unofficial profile.
+- **123 deal, material update:** on 23 Jul 2026 Trump posted that the deal "will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords"; Leavitt said otherwise "the deal is off." Arms Control Today dates signatures 20/22 Jul and the transmission to Congress 24 Aug (others: 25 Aug). https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords ; https://www.al-monitor.com/originals/2026/07/trump-says-saudi-nuclear-deal-totally-subject-israel-normalization ; https://www.armscontrol.org/act/2026-09/news/trump-adds-conditions-us-saudi-nuclear-cooperation-deal (not fetchable; via search results)
+- Not re-checked: LIV fees, EA stakes/close (see C80's audit), Humain licences.

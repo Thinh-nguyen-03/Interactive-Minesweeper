@@ -27,7 +27,7 @@ London fund of Sheikh Sultan bin Jassim Al Thani
 ### Money (2)
 
 - [[Heritage Advisors]] *invested in Daibes project (Menendez case)* [[Fred Daibes]] · 2022 · [[C73 Qatar's access network inside and around the administration|C73]]
-- [[Heritage Advisors]] *paid consulting fees to* [[Lee Zeldin]] · 2024 · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Heritage Advisors]] *paid consulting fees (>$5K, Apr-Dec 2023) to* [[Lee Zeldin]] · 2023-04 · [[C73 Qatar's access network inside and around the administration|C73]]
 
 ### Ownership (1)
 

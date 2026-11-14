@@ -30,4 +30,4 @@ Mukesh Ambani's conglomerate; unit paid Trump $10M
 
 ### Regulatory (1)
 
-- [[US Treasury]] *issued licence to buy Venezuelan oil (Reuters, anonymous)* [[Reliance Industries]] · 2026-02-13 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[US Treasury]] *issued licence to buy Venezuelan oil (Reuters, anonymous sources; single-source)* [[Reliance Industries]] · 2026-02-13 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]

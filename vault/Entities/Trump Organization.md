@@ -81,7 +81,7 @@ The family's hotel and golf luxury business, incl.
 - [[Trump Organization]] *formed (Delaware) licensing entity* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Trump Organization]] *formed (Delaware) member corp* [[DT Marks Abu Dhabi Member Corp]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[DT Marks Al Raha Beach LLC]] *Trump licensing entity formed same day as permitting EO (per CREW)* [[Trump Organization]] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
-- [[Trump Organization]] *formed (Delaware) licensing entity, same day as EO per CREW* [[DT Marks Al Raha Beach LLC]] · 2025-07-23 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[Trump Organization]] *formed (Delaware) licensing entity, same day as EO per CREW (single-source)* [[DT Marks Al Raha Beach LLC]] · 2025-07-23 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Donald Trump]] *owner (via trust)* [[Trump Organization]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Donald Trump]] *owns* [[Trump Organization]] · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Donald Trump]] *owns (via trust run by his children)* [[Trump Organization]] · [[C56 Saudi Arabia family deals alongside US policy|C56]]

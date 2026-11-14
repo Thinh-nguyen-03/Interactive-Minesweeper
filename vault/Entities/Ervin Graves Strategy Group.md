@@ -26,4 +26,4 @@ Pakistan embassy lobbyist on the FATF grey list.
 
 ### Money (1)
 
-- [[Pakistan]] *hired on FATF grey list* [[Ervin Graves Strategy Group]] · 2025 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Pakistan]] *hired on FATF grey list (Oct 2025), then 2-year ~$1.2M defence/minerals contract (May 2026)* [[Ervin Graves Strategy Group]] · 2025 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]

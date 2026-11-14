@@ -42,8 +42,8 @@ Trump-family entity entitled to 75% of WLF's net token-sale proceeds.
 - [[DT Marks DEFI LLC]] *entitled to 75% of net protocol revenue* [[World Liberty Financial]] · 2024-10 · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[DT Marks DEFI LLC]] *entitled to 75% of net protocol revenue incl. token sales* [[World Liberty Financial]] · 2024-10 · [[C42 How World Liberty insiders took money out|C42]]
 - [[DT Marks DEFI LLC]] *entitled to 75% of net protocol revenue; 22.5B WLFI* [[World Liberty Financial]] · 2024-10 · [[C63 Shell entities and ownership chains|C63]]
-- [[Aryam Investment 1]] *~$187M of $250M upfront flowed to Trump-family entities* [[DT Marks DEFI LLC]] · 2025-01 · $187M · [[C63 Shell entities and ownership chains|C63]]
-- [[World Liberty Financial]] *passed up to $75M of Aqua 1 proceeds (NYT)* [[DT Marks DEFI LLC]] · 2025-06 · $75M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Aryam Investment 1]] *~$187M of $250M upfront flowed to Trump-family entities (WSJ, anonymous sources)* [[DT Marks DEFI LLC]] · 2025-01 · $187M · [[C63 Shell entities and ownership chains|C63]]
+- [[World Liberty Financial]] *passed up to $75M of Aqua 1 proceeds (NYT; single-source)* [[DT Marks DEFI LLC]] · 2025-06 · $75M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[World Liberty Financial]] *reportedly about $500M of ALT5 deal proceeds flowed to (75% proceeds entitlement)* [[DT Marks DEFI LLC]] · 2025-08 · $500M · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[DT Marks DEFI LLC]] *entitled to 75% of net protocol revenue of* [[World Liberty Financial]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 

@@ -51,7 +51,7 @@ $300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from go
 
 - [[New America Sponsor I LLC]] *sponsor of* [[New America Acquisition I Corp]] · 2025 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Kevin McGurn]] *chairman, CEO and CFO; indirect interest in 1M founder shares* [[New America Acquisition I Corp]] · 2025-07 · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Kevin McGurn]] *chairman/CEO/CFO; sponsor member* [[New America Acquisition I Corp]] · 2025-07 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Kevin McGurn]] *chairman/CEO/CFO, then CEO; sponsor member (resigned Aug 5, 2026)* [[New America Acquisition I Corp]] · 2025-07 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump Jr]] *backer* [[New America Acquisition I Corp]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Eric Trump]] *backer* [[New America Acquisition I Corp]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 
@@ -66,7 +66,7 @@ $300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from go
 - [[Donald Trump Jr]] *strategic adviser; holds 2M founder shares (~$20M paper value)* [[New America Acquisition I Corp]] · 2025-08 · $20M · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Eric Trump]] *strategic adviser; holds 3M founder shares (~$30M paper value)* [[New America Acquisition I Corp]] · 2025-08 · $30M · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Kyle Wool]] *board / advisory board member* [[New America Acquisition I Corp]] · 2025-08 · [[C27 New America Acquisition I Corp SPAC|C27]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Kyle Wool]] *board member; reportedly chairman* [[New America Acquisition I Corp]] · 2026 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Kyle Wool]] *chairman from Feb 6, 2026; CEO from Aug 5, 2026* [[New America Acquisition I Corp]] · 2026-02-06 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump Jr]] *adviser to* [[New America Acquisition I Corp]] · [[C27 New America Acquisition I Corp SPAC|C27]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Eric Trump]] *adviser to* [[New America Acquisition I Corp]] · [[C27 New America Acquisition I Corp SPAC|C27]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 

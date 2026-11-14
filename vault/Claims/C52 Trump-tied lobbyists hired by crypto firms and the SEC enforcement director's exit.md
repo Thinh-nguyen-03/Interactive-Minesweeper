@@ -92,6 +92,8 @@ The documented core holds up. Crypto.com (AP) and Gemini (an LDA record and Legi
 - The registration date and fees could not be retrieved because lda.senate.gov and legis1.com were blocked here.
 - Separately, Jeff Miller is reported as a member of the Winklevoss-funded Digital Freedom Fund PAC.
 - No source ties Miller's work to the CFTC reversal.
+- Audit note: a fresh search again surfaced only Legis1 and the LDA client record.
+- A direct LDA API fetch was blocked by the proxy, so the registration date and fees are still unretrieved.
 - Sources: [3](https://legis1.com/news/crypto-regulation-lobbying-gemini) [4](https://lda.senate.gov/api/v1/clients/69134/?format=api)
 
 ### 3. Kraken and Blockchain.com hired Trump-tied Ballard Partners.
@@ -147,9 +149,14 @@ The documented core holds up. Crypto.com (AP) and Gemini (an LDA record and Legi
 - Warren called the motion a sign of a 'CFTC beholden to political pressures', and ex-chair Tim Massad called it 'extraordinarily unusual'.
 - Texts released by Brian Quintenz show Tyler Winklevoss raising the litigation during Quintenz's nomination.
 - No document links the gift to the CFTC decision.
+- Audit note: FEC-based reporting gives Cameron's gift as $5,006,604 and Tyler's as $5,011,860.
+- Hellerstein's 15 Oct 2026 order runs eight pages.
+- It held that facts which already existed when the consent order was entered are not a post-judgment change under Rule 60(b), and it left the injunction and no-denial clause in place.
+- Some outlets report the twins' 2026-cycle giving to MAGA Inc. at about $26M (about $13M each).
+- That figure is press-reported and was not verified against FEC data here.
 - Amounts: $5M; more than $5M; about $10.02M; about $10M; more than $10M
-- Dates: May 27-28, 2026; Jan 2025; June 19, 2026; Oct 15, 2026
-- Sources: [9](https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/) [10](https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal) [8](https://www.theblock.co/post/402827/cftc-joins-relief-motion-gemini) [11](https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775) [12](https://news.bloomberglaw.com/crypto/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement)
+- Dates: May 27-28, 2026; Jan 2025; June 19, 2026; Oct 15, 2026; 15 Oct 2026
+- Sources: [9](https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/) [10](https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal) [8](https://www.theblock.co/post/402827/cftc-joins-relief-motion-gemini) [11](https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775) [12](https://news.bloomberglaw.com/crypto/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement) [11](https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775) [25](https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement) [9](https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/)
 
 ### 7. The SEC enforcement director resigned suddenly in March 2026.
 
@@ -173,7 +180,12 @@ The documented core holds up. Crypto.com (AP) and Gemini (an LDA record and Legi
 - An SEC enforcement official told Reuters that shifting crypto guidance and pending legislation complicated the Sun case.
 - The SEC says it decides enforcement 'based on facts, the law, and policy — not politics' and credited Ryan with a 'critical course correction'.
 - Ryan has not publicly stated a reason.
-- Sources: [15](https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report) <https://ground.news/article/secs-ex-enforcement-chief-clashed-with-bosses-before-leaving-reuters-sources-say>
+- Audit note: secondary coverage of the Reuters piece adds that Ryan's signature did not appear on the Sun settlement filings, though one Reuters-cited account understood she supported the settlement.
+- The SEC and Musk told the court on 17 Mar 2026 that they were in settlement talks.
+- Publicly, Atkins praised Ryan as having 'served with honor and distinction'.
+- The reason for her exit stays unverified.
+- Dates: 17 Mar 2026
+- Sources: [15](https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report) <https://ground.news/article/secs-ex-enforcement-chief-clashed-with-bosses-before-leaving-reuters-sources-say> [15](https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report) [27](https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711)
 
 ### 9. Sen. Blumenthal opened an inquiry into whether crypto cases were involved.
 
@@ -336,7 +348,7 @@ The documented core holds up. Crypto.com (AP) and Gemini (an LDA record and Legi
   - Links the Gemini founders, the Trump family and Gemini's lobbyist in one political vehicle.
   - [[Cameron Winklevoss]] [[Tyler Winklevoss]] [[Digital Freedom Fund]] [[Donald Trump Jr]] [[Jeff Miller]] · [Source](https://bitcoinmagazine.com/news/winklevoss-twins-donated-bitcoin-to-trump)
 
-## Sources (24)
+## Sources (27)
 
 1. [Kraken, Blockchain.com join crowd signing with Trump-tied lobbyists](https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html) (Reuters (via Yahoo Finance), 2025-01-24)
 2. [How a Trump business deal with a crypto firm exposes potential conflicts of interest](https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest) (AP (via PBS NewsHour), 2025-12-16)
@@ -362,6 +374,9 @@ The documented core holds up. Crypto.com (AP) and Gemini (an LDA record and Legi
 22. [Leading crypto PAC has already raised $193M for 2026](https://www.axios.com/2026/01/30/crypto-coinbase-fairshake-pac) (Axios, 2026-01-30)
 23. [Crypto Backing or Trump Pump? Fairshake PAC Claims Primary Victories](https://decrypt.co/368555/crypto-backing-trump-pump-fairshake-pac-claims-primary-victories) (Decrypt, 2026-05)
 24. [Crypto PACs' $170 million midterms came up dry](https://fortune.com/2026/11/04/crypto-pacs-170-million-midterms-came-up-dry/) (Fortune, 2026-11-04)
+25. [Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement](https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement) (Bloomberg Tax, 2026-10)
+26. [Winklevoss twins put roughly $26 million behind pro-Trump super PAC this cycle](https://cryptobriefing.com/winklevoss-twins-26-million-maga-inc/) (Crypto Briefing, 2026)
+27. [SEC enforcement director resigns after just six months in the role](https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711) (InvestmentNews, 2026-03-16)
 
 ## Full report
 
@@ -538,10 +553,24 @@ The Binance lobbying and pardon story is covered in C36. This file builds on tho
 
 ### Audit (second-opinion pass, Nov 2026)
 
-**Result: upheld** (language review only; no fresh searches)
+**Result: upheld** (independent re-verification with fresh web searches)
 
 Checked:
-- Language review of summary and sub-claims for unattributed allegations
+- Winklevoss twins' ~$10.02M BTC gift to MAGA Inc. on 19 Jun 2026, 23 days after the CFTC-Gemini joint motion
+- Judge Hellerstein's 15 Oct 2026 denial of the vacatur motion
+- Margaret Ryan's 16 Mar 2026 resignation and the Reuters anonymous-source account of clashes over Sun and Musk cases
+- Gemini's retention of Miller Strategies
 
 Changes:
-- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the reason for Ryan's exit is attributed to anonymous Reuters sources and marked unverified, and the quid pro quo is marked unverified. No changes.
+- Fresh searches (The Block, Bloomberg Tax, CryptoSlate, Crypto Briefing, InvestmentNews, Cointelegraph's Reuters relay, Legis1) confirm the dates and amounts. Verdict unchanged.
+- Added the per-twin FEC amounts and the reasoning of Hellerstein's order. Added a press-reported ~$26M cycle total, flagged as unverified.
+- Ryan sub-claim: added the unsigned Sun-settlement detail, the Musk settlement talks and Atkins's public praise. It stays unverified because the account rests on anonymous Reuters sources.
+- Gemini/Miller: still rests on Legis1 and the LDA client record, and the LDA fetch was blocked again.
+
+New sources:
+- The Block, "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement", 2026-10-16. https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775
+- Bloomberg Tax, "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement", 2026-10. https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement
+- CryptoSlate, "Winklevoss twins gave Trump's super PAC $10 million 23 days after CFTC joined Gemini relief bid", 2026-07. https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/
+- Crypto Briefing, "Winklevoss twins put roughly $26 million behind pro-Trump super PAC this cycle", 2026. https://cryptobriefing.com/winklevoss-twins-26-million-maga-inc/
+- Cointelegraph, "SEC top enforcer clashed over Trump cases before quitting: report", 2026-03. https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report
+- InvestmentNews, "SEC enforcement director resigns after just six months in the role", 2026-03-16. https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711

@@ -38,6 +38,6 @@ Tokenization firm; Atkins held options; Redfearn became president 2026
 
 ### Commercial (3)
 
-- [[Securitize]] *merging via SPAC* [[Cantor Equity Partners II]] · 2025-10 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Securitize]] *issuance/compliance partner for Maldives tokens* [[World Liberty Financial]] · 2026-02-18 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Brett Redfearn]] *president and director* [[Securitize]] · 2026-04 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Securitize]] *merged via SPAC (closed Jul 1, 2026; NYSE: SECZ)* [[Cantor Equity Partners II]] · 2026-07-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]

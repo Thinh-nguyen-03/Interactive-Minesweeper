@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "CFTC"
-connections: 34
-claims: 10
+connections: 35
+claims: 11
 tags:
   - "entity"
   - "type/government"
@@ -17,8 +17,8 @@ Commodities regulator overseeing prediction markets, chaired by Mike Selig.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 10 claims |
-| Connections | 34 |
+| Appears in | 11 claims |
+| Connections | 35 |
 | Also known as | CFTC |
 
 ## How other claims describe it
@@ -41,10 +41,11 @@ Commodities regulator overseeing prediction markets, chaired by Mike Selig.
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C69 Master timeline money events versus government actions]] · Partly accurate
 
 ## Relationships
 
-### Regulatory (24)
+### Regulatory (25)
 
 - [[Caroline Pham]] *acting chair (2025)* [[Commodity Futures Trading Commission]] · 2025 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Caroline Pham]] *acting chair* [[Commodity Futures Trading Commission]] · 2025-01 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
@@ -65,6 +66,7 @@ Commodities regulator overseeing prediction markets, chaired by Mike Selig.
 - [[Commodity Futures Trading Commission]] *civil insider-trading complaint (first on event contracts)* [[Gannon Ken Van Dyke]] · 2026-04-23 · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Commodity Futures Trading Commission]] *jointly moved to vacate $5M consent order* [[Gemini]] · 2026-05-27 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Commodity Futures Trading Commission]] *joined motion to vacate $5M consent judgment* [[Gemini]] · 2026-05-28 · $5M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Commodity Futures Trading Commission]] *jointly moved to vacate consent order* [[Gemini]] · 2026-05-28 · [[C69 Master timeline money events versus government actions|C69]]
 - [[Commodity Futures Trading Commission]] *conducting* [[CFTC probe into Polymarket]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Commodity Futures Trading Commission]] *enables* [[Sports bets as event contracts theory]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Commodity Futures Trading Commission]] *regulates; asserts exclusive jurisdiction over its event contracts* [[Kalshi]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]

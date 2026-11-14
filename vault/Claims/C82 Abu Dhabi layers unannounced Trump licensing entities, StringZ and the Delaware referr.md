@@ -78,6 +78,7 @@ The entity and date links are documented. DT Marks Abu Dhabi LLC and DT Marks Ab
 - Eric Trump signed the Aryam Investment 1 agreement for 49% of WLF on about 16 Jan 2025 (WSJ).
 - The formation therefore came 14 days later.
 - That sequence is our own observation: no source links the licensing entity to the Aryam deal, and the counterparty that later paid it was Damac, not a Tahnoon vehicle.
+- Audit: Forbes's own Instagram post (relayed) and Forbes Türkiye repeat the 30 Jan 2025 formation of both entities; Forbes Türkiye adds later DT Marks Doha LLC/Member Corp filings.
 - Amounts: 49%
 - Dates: 24 Jul 2025; 30 Jan 2025; 16 Jan 2025
 - Sources: [1](https://www.forbes.com/sites/danalexander/2025/07/24/wed-call-that-corruption-how-trump-used-the-presidency-to-expand-his-global-empire/) [4](https://www.citizensforethics.org/reports-investigations/crew-investigations/dubai-developer-paid-trump-12-5-million-while-bringing-data-centers-to-the-u-s/) <https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931>
@@ -107,7 +108,8 @@ The entity and date links are documented. DT Marks Abu Dhabi LLC and DT Marks Ab
 - As of Nov 2026 I found no public launch of a Trump-branded Abu Dhabi project.
 - Damac did not respond to CNBC.
 - I read the line items through press reports, not from the filing itself.
-- Amounts: $5M; about $12.5M
+- Audit: CREW says Damac paid each new company $5M through its subsidiaries; CNBC (via Times Brasil) reports two new $5M fees for Damac projects in Abu Dhabi and gives a Damac total of $11.3M against CREW's and The National's ~$12.5M. Disclosure forms partly use value ranges, so totals are estimates.
+- Amounts: $5M; about $12.5M; $11.3M; ~$12.5M
 - Dates: 27 Oct 2025; Nov 2026
 - Sources: [4](https://www.citizensforethics.org/reports-investigations/crew-investigations/dubai-developer-paid-trump-12-5-million-while-bringing-data-centers-to-the-u-s/) [5](https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/) [6](https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/) [2](https://www.forbes.com/sites/danalexander/2025/10/27/this-gulf-nation-is-powering-trumps-moneymaking-machine/)
 
@@ -141,6 +143,7 @@ The entity and date links are documented. DT Marks Abu Dhabi LLC and DT Marks Ab
 - No outlet names StringZ's officers or registered address, and none reports a shared officer, agent or address with Aryam Investment 1.
 - Aryam's own Delaware formation is unconfirmed; a non-news dossier's claim of a December 2024 formation remains unverified (C63).
 - The tie between the two vehicles is limited to the reported common Tahnoon backing and the same 49% stake size.
+- Audit: further searches found the April 2025 Abu Dhabi / May 2025 Delaware dates repeated only by relays of the WSJ (e.g. logos-pres.md); still single-source.
 - Amounts: 49%
 - Dates: 27 Aug 2026; April 2025; 1 May 2025; 5 Jan 2026; December 2024
 - Sources: [10](https://forklog.com/en/wsj-uae-investors-take-49-stake-in-trumps-planned-crypto-bank-holding-company/) [11](https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971) [12](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf) <https://www.adgm.com/registration-authority/registration-and-incorporation>
@@ -262,7 +265,7 @@ The entity and date links are documented. DT Marks Abu Dhabi LLC and DT Marks Ab
 - [[DT Marks Abu Dhabi Member Corp]] *member entity of (by naming template; structure inferred)* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Trump Organization]] *formed (Delaware) licensing entity* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Trump Organization]] *formed (Delaware) member corp* [[DT Marks Abu Dhabi Member Corp]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
-- [[Trump Organization]] *formed (Delaware) licensing entity, same day as EO per CREW* [[DT Marks Al Raha Beach LLC]] · 2025-07-23 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[Trump Organization]] *formed (Delaware) licensing entity, same day as EO per CREW (single-source)* [[DT Marks Al Raha Beach LLC]] · 2025-07-23 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[StringZ Holding RSC (DE) LLC]] *holds 49% of (WSJ)* [[WLTC Holdings LLC]] · 2026-08 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Damac Properties]] *parent of* [[Damac Properties Investment LLC]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Damac Properties]] *parent of* [[Damac Sky View Real Estate LLC]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
@@ -274,7 +277,7 @@ The entity and date links are documented. DT Marks Abu Dhabi LLC and DT Marks Ab
 
 ### Regulatory (4)
 
-- [[StringZ Holding RSC (DE) LLC]] *registered in Abu Dhabi as RSC (WSJ; register entry not found)* [[Abu Dhabi Global Market]] · 2025-04 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[StringZ Holding RSC (DE) LLC]] *registered in Abu Dhabi as RSC (WSJ, single-source; register entry not found)* [[Abu Dhabi Global Market]] · 2025-04 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Office of the Comptroller of the Currency]] *required passivity commitment from* [[StringZ Holding RSC (DE) LLC]] · 2026-08-14 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
@@ -427,3 +430,13 @@ It shows that the Trump Organization opened Abu Dhabi licensing vehicles in the 
 25. The National, "IHC has no plans to sell Aldar stake", 2025-11-06. https://www.thenationalnews.com/business/property/2025/11/06/abu-dhabis-ihc-has-no-plans-to-sell-aldar-stake-ceo-says
 26. Fortune, "Trump announces Hussain Sajwani $20 billion US data centers investment", 2025-01-07. https://fortune.com/2025/01/07/trump-announces-hussain-sajwani-20-billion-us-data-centers-investment/
 27. ADGM Registration Authority (registry category reference). https://www.adgm.com/registration-authority/registration-and-incorporation
+
+### Audit (second review, Nov 2026)
+
+Result: **upheld**. Re-checked: the DT Marks Abu Dhabi formation date; Damac's two $5M fees; the StringZ registration dates; the Khanna referral.
+
+- **Formation date.** Forbes's own post (relayed) and Forbes Türkiye repeat the 30 Jan 2025 Delaware formation of DT Marks Abu Dhabi LLC and Member Corp. The Al Raha Beach entity's same-day-as-EO formation remains CREW only.
+- **Damac fees.** CREW says Damac paid each new company $5M through its subsidiaries. CNBC, via Times Brasil, reports two new $5M Abu Dhabi fees. Totals differ: $11.3M (CNBC) against about $12.5M (CREW, The National).
+- **StringZ.** The April/May 2025 registration dates appear only in relays of the WSJ, so they remain single-source. The relationship labels now say so.
+- **Khanna referral.** I found no reply from the Delaware US Attorney and no opened matter through Nov 2026.
+- **New sources.** https://www.forbes.com.tr/dunya/abd-baskani-trump-makamini-islerini-buyutmek-icin-nasil-kullaniyor ; https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/ ; https://www.theblock.co/post/388607/house-launches-probe-world-liberty-financial

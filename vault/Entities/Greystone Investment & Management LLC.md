@@ -10,7 +10,7 @@ tags:
 ---
 # Greystone Investment & Management LLC
 
-Dubai entity paying Checkmate for Pakistan work; ownership undisclosed.
+Dubai entity paying Checkmate for Pakistan-related government-relations work; ownership undisclosed.
 
 | | |
 |---|---|
@@ -32,7 +32,7 @@ Dubai entity paying Checkmate for Pakistan work; ownership undisclosed.
 ### Money (2)
 
 - [[Greystone Investment & Management LLC]] *$100K Phase 1 contract for Pakistan* [[Checkmate Government Relations]] · 2025-05-15 · $100K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Greystone Investment & Management LLC]] *pays for Pakistan defence/minerals lobbying* [[Checkmate Government Relations]] · 2025-05-15 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Greystone Investment & Management LLC]] *pays for Pakistan-related government-relations work ($100K Phase I, $200K option)* [[Checkmate Government Relations]] · 2025-05-15 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
 ### Commercial (1)
 

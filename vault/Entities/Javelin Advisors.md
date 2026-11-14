@@ -58,4 +58,4 @@ Schiller/Sorial firm; Seiden subcontractor for Pakistan (FARA 7579).
 
 ### Political (1)
 
-- [[Javelin Advisors]] *contacted on rare-earths MoU (FARA, reported)* [[Ronny Jackson]] · 2025-05-01 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Javelin Advisors]] *contacted on rare-earths MoU (FARA as reported by Economic Times; single-source)* [[Ronny Jackson]] · 2025-05-01 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]

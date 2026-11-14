@@ -26,4 +26,4 @@ EPA Administrator; disclosed consulting for Heritage Advisors
 
 ### Money (1)
 
-- [[Heritage Advisors]] *paid consulting fees to* [[Lee Zeldin]] · 2024 · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Heritage Advisors]] *paid consulting fees (>$5K, Apr-Dec 2023) to* [[Lee Zeldin]] · 2023-04 · [[C73 Qatar's access network inside and around the administration|C73]]
