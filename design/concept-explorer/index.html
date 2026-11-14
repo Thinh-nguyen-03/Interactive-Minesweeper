@@ -35,7 +35,7 @@
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.55 var(--body);overflow-wrap:break-word}
+body{font-feature-settings:"zero" 0;margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.55 var(--body);overflow-wrap:break-word}
 a{color:var(--link);text-decoration-thickness:1px;text-underline-offset:3px}
 a:hover{text-decoration-thickness:2px}
 :focus-visible{outline:2px solid var(--link);outline-offset:2px;border-radius:4px}
@@ -248,9 +248,9 @@ details.more[open] > summary{color:var(--muted)}
 .circle .edge.alleged{stroke-dasharray:5 4}
 .circle .edge.on{stroke:var(--link);stroke-width:2.5}
 .circle .nd{cursor:pointer}
-.circle .nd text.lab{font:400 12px var(--body);fill:var(--ink)}
+.circle .nd text.lab{font:400 12px var(--body);fill:var(--ink);paint-order:stroke;stroke:var(--bg);stroke-width:4px;stroke-linejoin:round}
 .circle .nd.on text.lab{font-weight:700;fill:var(--link)}
-.circle .nd .ring{fill:none;stroke:transparent;stroke-width:2.5}
+.circle .ring{fill:none;stroke:transparent;stroke-width:2.5}
 .circle .nd.on .ring,.circle .nd:focus-visible .ring{stroke:var(--link)}
 .circle .nd:focus{outline:none}
 .circle .ini{font:700 12px var(--body)}
@@ -386,7 +386,7 @@ R.forEach(function(r){(relsOf[r.s]=relsOf[r.s]||[]).push(r);(relsOf[r.t]=relsOf[
 function dedupe(list){
   var seen={},out=[];
   list.slice().sort(function(a,b){return (b.d||'').length-(a.d||'').length}).forEach(function(r){
-    var k=r.s+'|'+r.t+'|'+r.k+'|'+(r.d?String(r.d).slice(0,7):'');
+    var k=r.s+'|'+r.t+'|'+(r.m?'$'+r.m:r.k+'|'+(r.d?String(r.d).slice(0,7):''));
     if(seen[k]) { seen[k].c=seen[k].c.concat(r.c.filter(function(x){return seen[k].c.indexOf(x)<0})); return; }
     var o={s:r.s,t:r.t,l:r.l,k:r.k,d:r.d,m:r.m,c:r.c.slice()};
     seen[k]=o; out.push(o);
@@ -473,7 +473,7 @@ function timeline(rels,limit,showRef){
     var al=alleged(r);
     return '<li class="'+(al?'alleged':'')+'"><div class="when num">'+fdate(r.d)+(al?' · <span class="tag">Alleged, unverified</span>':'')+'</div>'+
       '<div class="pair">'+elink(r.s)+' <span aria-hidden="true">→</span><span class="sr"> to </span> '+elink(r.t)+'</div>'+
-      '<div class="what">'+esc(cap(r.l))+(r.m?' ('+fmoney(r.m)+')':'')+(showRef?' · '+r.c.slice(0,2).map(cref).join(', '):'')+'</div></li>';
+      '<div class="what">'+esc(cap(r.l))+(r.m&&r.l.indexOf('$')<0?' ('+fmoney(r.m)+')':'')+(showRef?' · '+r.c.slice(0,2).map(cref).join(', '):'')+'</div></li>';
   }
   var a=list.slice(0,limit), b=list.slice(limit);
   return '<ol class="tl">'+a.map(item).join('')+'</ol>'+
@@ -587,7 +587,8 @@ function claimPage(id){
   var holds=c.sub.filter(function(s){return s.v==='confirmed'||s.v==='mostly-accurate'});
   var open=c.sub.filter(function(s){return !(s.v==='confirmed'||s.v==='mostly-accurate')});
   var rx=/not proven|insinuation|no document|not established|unproven|not supported|no reporting|unadjudicated|uncorroborated|no independent|no source links/i;
-  var extra=c.sp.concat(c.den).filter(function(x){return rx.test(x)}).slice(0,4);
+  var extra=c.sp.filter(function(x){return rx.test(x)});
+  if(!extra.length&&!open.length) extra=c.den.filter(function(x){return rx.test(x)}).slice(0,2);
   function checks(list,withLabel){
     return '<ul class="checks">'+list.map(function(s){
       return '<li><details><summary>'+verdict(s.v,{iconOnly:1})+'<span>'+esc(s.s)+(withLabel?'<span class="vl v-'+s.v+'">'+VLAB[s.v]+'</span>':'')+'</span>'+IC.chev+'</summary><p class="find">'+esc(s.f)+'</p></details></li>'}).join('')+'</ul>';
@@ -615,7 +616,7 @@ function claimPage(id){
   if(holds.length) rest+='<section class="block" style="margin-top:0"><h2>'+IC.check+'What holds up</h2><p class="sub">Select a statement to see the evidence for it.</p>'+checks(holds)+'</section>';
   if(c.cor.length) rest+='<section class="block"><h2>'+IC.pen+'What needs correcting</h2><ul class="fix">'+c.cor.map(function(x){
       return x.txt? '<li><span>'+esc(x.txt)+'</span></li>' :
-       '<li><span class="lab">'+(x.who==='video'?'The video said':'As first described')+'</span><span class="was">'+esc(x.said)+'</span><span class="lab">The record shows</span><span>'+esc(x.rec)+'</span></li>'}).join('')+'</ul></section>';
+       '<li><span class="lab">'+(x.who==='video'?'The video said':'As first described')+'</span><span class="was">'+esc(x.said)+'</span><span class="lab">The record shows</span><span>'+esc(cap(x.rec.replace(/^The record shows /,'')))+'</span></li>'}).join('')+'</ul></section>';
   rest+='<section class="block"><h2>'+IC.q+'What is unproven</h2>'+
     (open.length?checks(open,true):'')+
     (extra.length?'<ul class="plain">'+extra.map(function(x){return '<li>'+IC.dot+esc(x)+'</li>'}).join('')+'</ul>':'')+
