@@ -35,3 +35,13 @@ The user wants the map UI to look clean and professional and less "AI-coded", wi
 - Fix data-side casing: entity names and relationship labels coming from the claim files that are all lower-case or inconsistently cased should be normalised in `build.py` (labels start with a capital only where they stand alone as a row; names keep their real spelling).
 - Less templated look: drop the monospace-everywhere treatment (keep tabular numerals for ids, dates, amounts only), reduce the number of chips/pills and bordered boxes, quieter stat strip, more whitespace in the dossier, plain readable type hierarchy, restrained colour. It should read like a finished professional product (a research or analyst tool), not a generated dashboard. Keep all functionality, theming rules, phone layout and the neutral tone.
 - After the change: retest desktop and phone, light and dark, look at screenshots, then republish to the same link.
+- Content presentation (user request, 19:25 Central): findings, descriptions and write-ups must not appear as undifferentiated blocks of text. In every dossier and in the Claims view:
+  - Summary: a one-sentence bottom line first, then "What holds up" / "What needs correcting" / "What is unproven" as short bullet lists. Derive these from `sub_claims` verdicts, `corrections` and unverified items rather than dumping the `summary` paragraph.
+  - Sub-claims: one row or card each with the statement, a verdict marker, the finding broken into short sentences, key figures (amounts, dates) pulled out and aligned, and its sources as numbered links.
+  - Long findings and denials: split into bullets at sentence boundaries; highlight amounts, dates and names consistently; cap line length near 65 characters; clear spacing between items.
+  - Corrections as "Video said → Record shows" pairs where the text allows it.
+  - Sources: grouped by publisher with date, title as the link; show a count.
+  - Connections: grouped by relationship type with headers, each row "label · counterpart · date · amount · claim ids".
+  - Entity descriptions: one-line role first, then facts as label/value rows (type, country, role, appears in N claims), then grouped connections.
+  - Full report: render the markdown properly (headings, lists, tables, links, block quotes) with a small table of contents for long reports.
+  - Where the source data is one long paragraph, restructure it at build time in `build.py` (sentence splitting, figure extraction) so the page receives structured fields; do not change the meaning or drop caveats and denials.
