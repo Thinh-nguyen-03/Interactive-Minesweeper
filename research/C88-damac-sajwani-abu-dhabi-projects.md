@@ -37,7 +37,7 @@ Method note: citizensforethics.org, cnbc.com and tahawultech.com could not be fe
 
 ## Connections (sub-claims)
 
-1. **About $10M for two Abu Dhabi licences, with still no project.** *Documented.* The disclosure facts are in C82. New here: nothing was launched through Nov 2026. CNBC says the Trump Organization has no active Abu Dhabi development. Estimates of cumulative Damac payments vary: about $6M a year (Forbes, Oct 2025); "at least $13M, possibly $19M" across disclosures (CREW, Mar 2026); $11.3M or $12.5M for 2025 alone (CNBC, or CREW and The National).
+1. **About $10M for two Abu Dhabi licences, with still no project.** *Documented* fees; CREW's own wording is that the two entities "appear to be related to unannounced developments in Abu Dhabi". The disclosure facts are in C82. New here: nothing was launched through Nov 2026. CNBC says the Trump Organization has no active Abu Dhabi development. Estimates of cumulative Damac payments vary: about $6M a year (Forbes, Oct 2025); "at least $13M, possibly $19M" across disclosures (CREW, Mar 2026); $11.3M or $12.5M for 2025 alone (CNBC, or CREW and The National).
 2. **The pledge on the ground.** *Documented* (New Jersey details single-source). The $20B has become about $12B of land and power: a $36.5M site in Canton, Ohio (AEP Ohio territory, target 2028, phases to 2033, no MW published), a New Jersey site with no reported details, and an $860M warehouse conversion in Edgerton, Kansas. New Jersey and Kansas were not among the eight states announced. Nothing is operating. Sajwani said 60-70% would be debt-financed and that the $20B depends on "the opportunity, the market".
 3. **Federal permitting or energy benefits.** *Unverified.* The general policies are documented: the 10 Dec 2024 $1B pledge, the 7 Jan 2025 remark, and EO 14318 (FAST-41 eligibility and Commerce financing for projects with $500M+ capex or more than 100MW of load). No source shows a FAST-41 designation, federal loan, or DOE or FERC action for any Damac site. That the sites would meet the order's thresholds is our inference. The approvals actually documented are local: the Edgerton override and the Canton annexation and water service. CNBC found no evidence that the fees influenced policy.
 4. **Same-day formation of DT Marks Al Raha Beach and the EO.** *Single-source (CREW).* No second source was found (see C82).
@@ -99,3 +99,13 @@ It shows a Trump licensee with a decade-long personal relationship with the fami
 18. Apr 2025 visit: https://www.siasat.com/hussain-sajwani-elon-musk-share-memorable-breakfast-at-white-house-3211541/ ; Business Wire (23 Apr 2025): https://www.businesswire.com/news/home/20250423172357/en/Statement-From-Hussain-Sajwani-Chairman-DAMAC ; pool report (16 May 2025): https://www.presidency.ucsb.edu/documents/pool-reports-may-16-2025
 19. MANTRA: https://www.thestar.com.my/tech/tech-news/2025/01/09/dubai-developer-damac-signs-1-billion-deal-with-blockchain-platform-mantra ; The Block (13 Apr 2025): https://www.theblock.co/post/350665/layer-1-mantras-token-falls-90-in-sudden-crash-community-lead-denies-rug-pull-accusations
 20. Misattribution example: https://www.benzinga.com/content/45091183/trumps-1b-dubai-tower-to-accept-crypto-for-property-sales-in-new-gulf-push
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **upheld** (verdict and confidence unchanged).
+
+- **Abu Dhabi fees.** Upheld: $5M to each entity (CREW, from the OGE disclosure). The summary now repeats CREW's "appear to be related" wording. No Damac or Trump Organization Abu Dhabi launch was found through Nov 2026. The Trump-branded Gulf launches we found are Dar Global's.
+- **US sites.** Upheld: ~94 acres in SE Canton (Dec 2025) and the $860M Edgerton conversion (3-2 commission denial, later go-ahead). Neither is operating.
+- **Federal approvals.** None found. The same-day formation of DT Marks Al Raha Beach remains single-source (CREW), and its relationship label now says so.
+
+New sources: The National 2026-09-03; Gulf News 2025-05; More Than Just Parks tracker. URLs are in the JSON `audit.new_sources`.

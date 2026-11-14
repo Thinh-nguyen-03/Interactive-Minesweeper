@@ -44,8 +44,8 @@ The brief holds up partly.
 **The founder shares**
 - The S-1/A summary says Yorkville International Capital Sponsor, LLC (Florida) bought **15,333,333 Class B founder shares for $25,000**, about $0.0016 a share.
 - The subscription letter reads 15,033,333, a discrepancy we could not resolve.
-- MarketChameleon's market value of about $378.7M at $9.88 (30 Oct 2026) implies about 38.3M shares, which matches 23M public plus 15.33M founder shares. On that count, founders hold about **40%** of the company, roughly double the usual 20% promote. This is our arithmetic.
-- At $10 the block is worth about **$153M on paper**, and nothing if the SPAC liquidates.
+- The prospectus (S-1/424B4, via search extracts) sizes the founder shares to convert to **40%** of all shares outstanding (43.4% had the over-allotment not been exercised), roughly double the usual 20% promote. This is documented (audit correction; previously given as our inference). MarketChameleon's market value of about $378.7M at $9.88 (30 Oct 2026) is consistent. Mark Angelo holds voting and investment discretion over the sponsor's shares through YA II PN, Ltd.
+- At $10 the block is worth about **$153M on paper** (our arithmetic), and nothing if the SPAC liquidates.
 
 **Target and scrutiny**
 - The Financial Times first reported the Venezuela plan on 14-15 May 2026 (via La Patilla).
@@ -190,7 +190,7 @@ Who owns the Yorkville sponsor LLCs (Yorkville Advisors / Angelo, and whether Mc
 - **DOT AV strategy and the PlusAI deal.** The same-day timing (3 Sep 2026) is *inferred*; no source links them.
 - **Blue Water IV and YICC.** BWIV/Maha terminated their LOI on 15 May 2026, the day after YICC's S-1 and the FT story. *Inferred* coincidence; no source links them.
 - **McGurn and PlusAI.** McGurn left the TVA III CEO post (22 Apr 2026) the day after PlusAI's Churchill IX deal was terminated (20-21 Apr), the same week he became TMTG interim CEO. *Inferred.* The TMTG appointment is the documented explanation.
-- **YICC's promote.** That founders hold about 40% is *inferred* from share counts and market value.
+- **YICC's promote.** That founders hold about 40% was first inferred from share counts; the audit found the prospectus states it, so it is now *documented*.
 
 ## Leads
 
@@ -239,3 +239,14 @@ Who owns the Yorkville sponsor LLCs (Yorkville Advisors / Angelo, and whether Mc
 36. IISD ITN, Citgo sale contested as Venezuela appeals and OFAC withholds clearance, 2026-09-09. https://www.iisd.org/itn/2026/09/09/court-ordered-sale-of-citgos-parent-contested-as-venezuela-appeals-and-ofac-withholds-clearance/
 37. Law360, Venezuela turns to Greenberg Traurig in Citgo appeal, 2026-06-11. https://www.law360.com/bankruptcy-authority/articles/2488795
 38. Finviz, TMTG/TAE S-4 effective, 2026. https://finviz.com/news/417799/trump-media-technology-group-and-tae-technologies-announce-effectiveness-of-form-s-4-registration-statement-for-proposed-merger
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **strengthened** (verdict and confidence unchanged).
+
+- **YICC founder shares.** S-1 and 424B4 extracts confirm 15,333,333 founder shares for $25,000 (~$0.002 a share), sized to convert to 40% of shares outstanding. The 40% promote is now documented, not inferred. New details: Mark Angelo controls the sponsor's votes; the S-1 dates the purchase to 31 Mar 2026 and the 424B4 to 2 Apr 2026; a June 2026 13G gives the sponsor 15,183,333 shares, against 15,033,333 in the S-1 table.
+- **Truth Social spin-off.** Upheld. Several outlets confirm the 27 Feb 2026 talks with TVA III and the June 2026 decision not to proceed "at this time", with no reason given.
+- **PlusAI.** Upheld. FreightWaves says a year-end 2026 close is targeted. No November redemption tally or closing was found.
+- **Labels.** Founder-block values at $10 are now marked as our arithmetic in the summary and relationship labels.
+
+New sources: YICC 424B4, S-1 and Schedule 13G (SEC); FreightWaves; ValueTheMarkets. URLs are in the JSON `audit.new_sources`.

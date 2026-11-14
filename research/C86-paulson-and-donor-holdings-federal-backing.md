@@ -22,7 +22,7 @@ Fairness requires one caveat: much of Perpetua's federal support (the record of 
 
 ### 1. Paulson → Perpetua → EXIM (documented)
 - **Donor link:** Paulson hosted Trump's Palm Beach fundraiser in April 2024 ($50.5M raised; see C77). He was considered for Treasury Secretary. He gave $250,000 to MAGA KY, a Trump-allied anti-Massie super PAC (2025). We found no MAGA Inc. contribution from him.
-- **Holding:** Paulson & Co. bought $100M of Perpetua's ~$425M raise in June 2025, at $13.20 a share. It is the largest/controlling holder; Bloomberg Government puts his total investment at about $185M.
+- **Holding:** Paulson & Co. bought $100M of Perpetua's ~$425M raise in June 2025, at $13.20 a share. It is the largest holder, at about 25-26% (32.3M shares, Q1 2026, per 13F trackers); Bloomberg Government puts his total investment at about $185M.
 - **Federal actions:**
   - FAST-41 priority listing (April 2025).
   - Army Corps final permit (May 2025).
@@ -35,7 +35,7 @@ Fairness requires one caveat: much of Perpetua's federal support (the record of 
 
 ### 2. Paulson → Trilogy Metals → U.S. equity stake (documented)
 - Paulson held about 8.7% of Trilogy, making him its fourth-largest holder.
-- On 2025-10-06 the U.S. said it would pay $35.6M for about 10%, with warrants that could take it toward 17.5%, and approved the Ambler Road. The stock jumped more than 200%.
+- On 2025-10-06 the Department of War signed a binding LOI to pay $35.6M for about 10%. Only half went to Trilogy: $17.8M for 8,215,570 new units at $2.17. The other $17.8M bought existing shares from South32, plus a call option. All of it is to be reinvested in Ambler Metals. Warrants and the option could take the stake toward 17.5%. The administration also approved the Ambler Road, and the stock jumped more than 200%.
 - Estimated paper gain: $60-70M (Popular Information; Dermot Cole).
 - His 13F shows he sold all 14.3M shares between Oct 1 and Dec 31, 2025. Exact dates and prices are not disclosed, so the realised gain is unknown.
 - The largest holder was Thomas Kaplan's Electrum (about 18.5%, worth more than $136M in March 2026). We did not check Kaplan's political giving.
@@ -171,3 +171,14 @@ These links are our own cross-referencing. No source we saw asserts them.
 48. The Daily Record (Reuters), TikTok joint venture deal, 2026-01-23. https://thedailyrecord.com/2026/01/23/tiktok-bytedance-us-owned-joint-venture-ban/
 49. House Natural Resources Democrats, letter on mineral equity deals, 2026-02-02. https://democrats-naturalresources.house.gov/imo/media/doc/2026-02-02_moc_to_defense_commerce_energy_interior_re_mineral_equity_deals_oversight.pdf
 50. Fortune, $27B in federal stakes, 2026-07-26. https://fortune.com/2026/07/26/the-u-s-government-invested-27-billion-in-corporate-stakes-good-luck-finding-them/
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **upheld** (verdict and confidence unchanged).
+
+- **Perpetua.** Upheld. EXIM's board approved $2.9B. Funds are available only after definitive documents and conditions are met (expected in H2 2026), and no close was found through Nov 2026. 13F trackers put Paulson at ~25-26%, the largest holder.
+- **Trilogy.** Upheld: 8.7% stake; 14.3M shares sold in Q4 2025; dates and prices undisclosed. Clarified that only $17.8M of the $35.6M went to Trilogy itself.
+- **Yass / TikTok.** Upheld. Vastmere is named as a Susquehanna affiliate, and SIG's Mark Dooley holds one of seven board seats.
+- **Labels.** Our own arithmetic (the Perpetua paper gain) and the single-source items (USAR PIPE buyers, Boehly consortium) are labelled.
+
+New sources: Mining Weekly 2026-05-22; Trendlyne 13F history; Mining Technology 2025-10; Motley Fool 2026-02-19; TechCrunch 2026-01-27. URLs are in the JSON `audit.new_sources`.

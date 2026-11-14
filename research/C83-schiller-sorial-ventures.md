@@ -48,7 +48,7 @@ This is a third-layer connection hunt. It builds on C49 (the pardon market), C64
   - Insurance Business says he appeared on Javelin's filings for three quarters.
 - **Opposition:**
   - On 2025-12-23, NC Insurance Commissioner Mike Causey, whom Lindberg was convicted of trying to bribe, urged Trump not to pardon him.
-  - Sen. Thom Tillis was quoted saying he told Pardon Attorney Ed Martin "it was a bad idea".
+  - Sen. Thom Tillis was quoted saying he told Pardon Attorney Ed Martin "it was a bad idea". January 2026 North Carolina coverage (via search extracts) says Sen. Ted Budd also weighed in against a pardon.
 - **Status:** We found no grant or denial. The latest coverage we saw (about March 2026) describes the request as pending.
 - **Precedent:** Lindberg's earlier co-defendant, ex-Rep. Robin Hayes, was pardoned at the end of Trump's first term.
 
@@ -157,3 +157,14 @@ This is a third-layer connection hunt. It builds on C49 (the pardon market), C64
 30. Mining Weekly (Reuters), EXIM $120M Tanbreez, 2025-06-17. https://www.miningweekly.com/article/us-export-import-bank-considers-120m-loan-for-greenland-rare-earths-project-2025-06-17
 31. Environmental Protection Network, EPA and the asbestos ban, 2025. https://www.environmentalprotectionnetwork.org/chemical-lobby-tightens-its-grip-on-epa-undermining-asbestos-ban-and-putting-lives-at-risk/
 32. ithildin.pages.dev, Javelin dossier (unofficial; used only for leads, marked unverified). https://ithildin.pages.dev/dossiers/javelin-advisors-llc
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **upheld** (verdict and confidence unchanged).
+
+- **Three equal owners.** Upheld. Fresh search extracts of FARA 7705 again quote "co-owned and controlled equally by George A Sorial, Keith Schiller, and Robert W. Seiden". The same extract shows a Delaware certificate of formation signed by Sorial dated 2026-03-20, later than the Dec 2024 launch; we could not resolve this (efile.fara.gov does not resolve from this environment).
+- **TECRO.** Upheld on the filing alone: the 7705 short forms and Exhibit AB name the Taipei Economic and Cultural Representative Office. No press coverage of the engagement was found; fee and scope are still unread.
+- **Lindberg.** No pardon found through Nov 2026 (latest coverage, Vanity Fair, Mar 2026: still pending). Added Sen. Ted Budd's opposition.
+- **Labels.** Single-source and inferred items are labelled in findings and relationship labels; no change needed.
+
+New sources: AOL (syndicated NC coverage) 2026-01; NCDOI blog 2026-01-07; FARA 7705 Short Form 2 and Exhibit C. URLs are in the JSON `audit.new_sources`.

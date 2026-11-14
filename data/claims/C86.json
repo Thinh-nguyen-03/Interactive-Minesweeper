@@ -695,7 +695,7 @@
       "description": "UAE national security adviser; IHC chair"
     },
     {
-      "id": "al-khayyat-family",
+      "id": "al-khayyat-brothers",
       "name": "Al-Khayyat family",
       "type": "person",
       "description": "Qatari investors in Boehly consortium"
@@ -1083,7 +1083,7 @@
       "date": ""
     },
     {
-      "source": "al-khayyat-family",
+      "source": "al-khayyat-brothers",
       "target": "lukoil-international",
       "label": "reported consortium member",
       "type": "commercial",

@@ -20,7 +20,7 @@ Many outlets, including Semafor, could not be fetched from this environment. Som
 
 - **What happened.** On 30 Sep 2020, Mubadala bought a minority interest in Silver Lake's management company. It bought from Dyal Capital, which had held a passive, non-voting stake of under 10% since 2016 and kept about half of it.
 - **The $2B strategy.** Mubadala also committed $2B to a Silver Lake strategy with a 25-year horizon. The strategy invests alongside Silver Lake's main funds.
-- **What is not known.** The size of Mubadala's stake and the price were not disclosed.
+- **What is not known.** The parties did not disclose the size of Mubadala's stake or the price. Contemporaneous wire coverage put it at under 5% (audit addition).
 - **Context.** Mubadala is chaired by Mansour bin Zayed, not Tahnoon. Mubadala co-founded Tahnoon's MGX (see C57).
 
 Sources [1–4].
@@ -159,3 +159,14 @@ Sources [34–37].
 35. Fortune, 2022-05-27. https://fortune.com/2022/05/27/twitter-board-elon-musk-ally-egon-durban-stays-despite-shareholder-vote/
 36. Dell, Egon Durban board profile. https://www.dell.com/en-us/lp/egon-durban
 37. NBC News, Dell Trump Accounts pledge, 2025-12-02. https://www.nbcnews.com/business/business-news/dells-billions-donation-trump-accounts-rcna246946
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **upheld** (verdict and confidence unchanged).
+
+- **Altera.** Upheld. MGX joined the Silver Lake-led group after the 2025-09-12 close; its contribution is undisclosed. The ~$3.3B is the filing-based equity figure. Intel's $4.46B headline is 51% of the $8.75B valuation.
+- **Mubadala in Silver Lake.** Upheld. It was a secondary purchase from Dyal's passive under-10% stake. Wire coverage put it at under 5%.
+- **Unity.** Upheld as single-source (Reuters, 5 Nov 2026, people familiar). Silver Lake owns ~8%, and about $25B was discussed. No deal by mid-Nov 2026.
+- **Labels.** The "hub" pattern and the Altera-US government link remain labelled inferred.
+
+New sources: Arabian Business; Enterprise AM 2025-09-17; Investing.com (Reuters) 2020-09-30; Inven Global 2026-11. URLs are in the JSON `audit.new_sources`.

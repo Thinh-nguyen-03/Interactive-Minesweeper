@@ -8,7 +8,7 @@ The fund's three roles in this brief are documented:
 - It was the Qatari investor in Fred Daibes's Edgewater property in the Menendez case.
 
 This pass adds four layers to C73:
-- **The Newsmax stake's size.** An SEC ownership chain shows about 19.7M shares, roughly 15% of the company. At the March 2025 listing that was worth about $1.6B, against about $50M invested.
+- **The Newsmax stake's size.** An SEC ownership chain shows about 19.7M shares, roughly 15% of the company (our arithmetic). At the March 2025 listing that was worth about $1.6B (our arithmetic), against about $50M invested.
 - **The Daibes deal's terms.** Heritage paid $45M for a quarter stake.
 - **The IS EG Halal overlap.** The Daily Beast reports that the joint Heritage-Daibes entity controls the base of co-defendant Wael Hana's IS EG Halal. This is single-source.
 - **The jet.** A Free Beacon claim, from one anonymous source, ties Sheikh Sultan to Hamad bin Jassim, the reported prior owner of the Qatari Air Force One jet.
@@ -96,9 +96,9 @@ We found no FCC or other federal benefit to Newsmax.
 - **Trump businesses.** We found no Heritage investment in any Trump-family business.
 
 ### 9. Daibes, Javelin and the pardon market; Menendez's own bid
-**Grade: documented (LDA filings via NBC; NYT via New Jersey Globe).**
+**Grade: engagement documented (LDA filings via NBC); $1M amount single-source (NBC, three unnamed sources); NYT via New Jersey Globe. Verdict: mostly-accurate (audit).**
 
-- **Daibes.** He paid Keith Schiller's Javelin **$1M in Q1 2025** for "executive relief" and ended the engagement in June 2025.
+- **Daibes.** He reportedly paid Keith Schiller's Javelin **$1M in Q1 2025** (NBC, unnamed sources) for "executive relief" and ended the engagement in June 2025.
 - **Menendez.** He pushed publicly for a Trump pardon. The NYT reported in January 2026 that Trump was not considering it.
 - **Outcome.** We found no clemency for Menendez, Daibes or Hana through November 2026, and no source ties Heritage to Daibes's pardon effort.
 
@@ -174,3 +174,13 @@ We found no FCC or other federal benefit to Newsmax.
 35. Axios, Newsmax-Smartmatic $40M, 2025-03-14. https://www.axios.com/2025/03/14/newsmax-smartmatic-defamation-lawsuit-40-million-settle
 36. Washington Times (AP), Newsmax $67M Dominion settlement, 2025-08-18. https://m.washingtontimes.com/news/2025/aug/18/newsmax-agrees-pay-67m-settlement-defamation-case-2020-election/
 37. The Star (Reuters), Trump Media streaming with Newsmax channel, 2025-07-07. https://www.thestar.com.my/tech/tech-news/2025/07/07/trump-media-launches-tv-streaming-platform-with-newsmax-channel-globally
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **corrected** (overall verdict and confidence unchanged).
+
+- **Daibes's $1M.** Corrected the grade. The engagement and its "executive relief" purpose are documented in LDA filings, but the $1M amount rests on NBC's three unnamed sources; a fresh search found no independent confirmation. Section 9 is now *mostly-accurate* (was confirmed), matching C83, and the relationship label says "reportedly $1M (NBC, unnamed sources)".
+- **Newsmax stake.** The 19.7M-share chain stands. The ~15% and ~$1.6B figures appear elsewhere only in secondary outlets, so the summary and relationship label now mark them as our arithmetic. No later sale was found.
+- **The jet link.** Still single-source (Free Beacon, anonymous). Reference sources say the jet's owner was undisclosed and describe it differently (privately owned per the NYT, or a Qatar Amiri Flight aircraft). The HBJ->jet label now notes that ownership is undisclosed.
+
+New sources: Free Beacon (re-checked); Wikiwand P4-HBJ; whoistheownerof.com (low-authority). URLs are in the JSON `audit.new_sources`.
