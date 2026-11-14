@@ -76,3 +76,12 @@ Parents: C29 (Forbes figures and the 2025 OGE disclosure), C01 (TRUMP coin royal
 20. The Star (Reuters), crypto gains in stocks and bonds, https://www.thestar.com.my/tech/tech-news/2026/07/13/trump-invested-crypto-gains-in-stocks-and-bonds-filings-show (2026-07-13)
 21. InvestmentNews, reinvested windfall, https://www.investmentnews.com/alternatives/trump-reinvested-crypto-windfall-in-stocks-bonds-as-retail-buyers-lost-billions/267383 (2026-07)
 22. CAP, Trump's Take, https://www.americanprogress.org/feature/trumps-take/ (2025-2026)
+
+## Audit (second review, Nov 2026)
+
+Result: **upheld** (no factual changes).
+
+- 2025 disclosure: at least $2.2B income, ~$1.4B crypto ($635M TRUMP royalties via "Celebration Coins", ~$800M from WLF) confirmed across outlets. https://www.canberratimes.com.au/story/9302479/trump-reports-more-than-2-billion-income-from-crypto/
+- Bloomberg 2026-05-12: ~$1.55B in WLFI token-sale proceeds, lifting the family fortune by ~$660M; locked tokens excluded. https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million
+- Kirkpatrick's ~$3.4B (Aug 2025) to ~$4B (early 2026): NPR repeats "almost $4 billion". https://www.npr.org/2026/02/08/nx-s1-5704312/how-the-presidency-is-making-trump-richer
+- Not re-checked: Forbes figures, CREW foreign-revenue count, Fight Fight Fight treasury, Reuters portfolio range.

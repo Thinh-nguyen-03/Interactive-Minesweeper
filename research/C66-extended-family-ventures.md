@@ -12,9 +12,12 @@ Origin: connection hunt (no video claim). Builds on C04/C29 (Barron and WLF), C1
 - Massad Boulos is the father of Michael Boulos, Tiffany Trump's husband. He was named Senior Advisor for Africa in April 2025, alongside his Arab-affairs role. His first stop was Kinshasa (3 Apr 2025). There he said a US-DRC minerals deal would be signed alongside a Congo-Rwanda peace agreement, and that US and Western companies would invest billions afterward (AP, NPR). Five House Democrats demanded the deal's terms (Africa Confidential).
 - What this shows: a family in-law runs diplomacy that trades on minerals access.
 - What it does not show: we found no Boulos-family commercial interest in DRC minerals.
+- C75 (Nov 2026) confirms this: none of the assets awarded under the framework has a documented Boulos or Trump-family stake.
+  - The only family-adjacent bidder is Don Jr.'s friend Gentry Beach, whose Rubaya bid has not closed.
+  - Per the WSJ (single-source), Don Jr.'s lawyer sent Beach a cease-and-desist in August 2025.
 
 ### 2. Boulos's own business: SCOA Nigeria / Fadoul group (documented; disclosure gap single-source)
-- The NYT (Dec 2024, via Naharnet, Mediaite and Business Insider) reported that Boulos spent about 20 years selling trucks for SCOA Nigeria PLC, which his father-in-law's Fadoul group controls. SCOA's profit was under $66K and its market value about $865K, far from the "billionaire" tag. Boulos says he never called himself one, and SCOA's audit-committee chair defended him.
+- The NYT (Dec 2024, via Naharnet, Mediaite and Business Insider) reported that Boulos spent about 20 years selling trucks for SCOA Nigeria PLC, which his father-in-law's Fadoul group controls. SCOA's profit was under $66K and its market value about $865K, far from the "billionaire" tag. Those are December 2024 figures. Since then SCOA's shares have rallied (about 437% year-to-date by February 2026), and it reported an unaudited FY2025 pre-tax profit of N723.8M, roughly $0.5M (Nairametrics). It is still nowhere near billionaire scale. Boulos says he never called himself one, and SCOA's audit-committee chair defended him.
 - Tablet (via KIVU Today) could not find his public OGE 278e. State says he is "compliant with all employment requirements". A confidential OGE 450 would not be public, so a missing 278e does not by itself show he did not file.
 
 ### 3. Nigeria: Chagoury contract and the Tinubu meeting (contract documented; Boulos link single-source)
@@ -29,7 +32,7 @@ Origin: connection hunt (no video claim). Builds on C04/C29 (Barron and WLF), C1
 ### 5. Michael Boulos and the $100K from a Saudi businessman (inquiry documented; facts single-source)
 - The NYT reported that Abdulelah Allam wired $100,000 to Michael Boulos on 22 June 2022, the day of a Virginia meeting arranged by Boulos's cousin James Frangi. An invitation to the Nov 2022 Mar-a-Lago wedding was discussed.
 - Rep. Robert Garcia wrote to Boulos, Allam and Frangi on 29 Aug 2025. His office describes the payment as being for leveraging Trump ties to help Allam recover assets Saudi Arabia seized.
-- The accounts conflict. Boulos's side says Allam settled a debt Frangi's company owed Boulos, while Allam's side calls it a loan. Allam got neither an invitation nor his assets.
+- The accounts conflict. Boulos's side says Allam settled a debt Frangi's company owed Boulos, while Allam's side calls it a loan. Allam got neither an invitation nor his assets. No public reply to Garcia's letters was found as of November 2026.
 
 ### 6. Michael Boulos and the Kushner yacht (single-source: NYT, 21 Aug 2025)
 - Through Frangi's brokerage, Jared Kushner bought the 50m *Solstice*, under construction in Perama, Greece. The NYT reports about a $2.5M overcharge and about $300K to Boulos.
@@ -40,7 +43,7 @@ Origin: connection hunt (no video claim). Builds on C04/C29 (Barron and WLF), C1
 He is a trustee of the Donald J. Trump Presidential Library Foundation, with Eric Trump and James Kiley. The foundation got IRS exemption in 10 days and a state-deeded Miami parcel.
 
 ### 8. Charles Kushner: pardon, then ambassador (documented)
-- Trump pardoned him in Dec 2020 and nominated him in Nov 2024. The Senate confirmed him 51-45 in May 2025, and he took up the Paris post in July 2025. Wikipedia also lists a Monaco accreditation in Oct 2025, which we did not verify elsewhere. In Aug 2025 he rebuked Macron over antisemitism and was summoned by the French foreign ministry.
+- Trump pardoned him in Dec 2020 and nominated him in Nov 2024. The Senate confirmed him 51-45 in May 2025, and he took up the Paris post in July 2025. He presented credentials as ambassador to Monaco on 27 Oct 2025 (Monaco Tribune; verified in audit). In Aug 2025 he rebuked Macron over antisemitism and was summoned by the French foreign ministry.
 - An unsourced dossier's details of his ethics agreement (55 resignations, about 150 divestitures) could not be verified and are not relied on.
 
 ### 9. Kushner Companies' foreign financing (documented but historical)
@@ -53,8 +56,15 @@ He is a trustee of the Donald J. Trump Presidential Library Foundation, with Eri
 - We found no Thrive stake in Stargate itself and no Thrive lobbying. In 2017 Jared Kushner divested Thrive-linked LLCs.
 
 ### 11. GSA's Josh Gruenbaum and Thrive-backed contractors (Ramp courtship documented; personal stake single-source)
-- GSA under Federal Acquisition Service commissioner Josh Gruenbaum courted Thrive-backed Ramp for the roughly $700B SmartPay program. ProPublica counted at least four meetings before the opportunity opened, and Rep. Connolly opened a probe in 2025.
-- A WSJ report, relayed secondhand by aggregators in 2026, says Gruenbaum invested $100,001-$250,000 in a Thrive fund (March 2025) and that GSA later gave Thrive-backed Databricks a sole-source contract. The aggregators give conflicting amounts ($1.8M vs $18M).
+- GSA under Federal Acquisition Service commissioner Josh Gruenbaum courted Ramp for a SmartPay pilot worth up to $25M, within the roughly $700B SmartPay program.
+  - Ramp's first backer was Founders Fund; Thrive joined from June 2025.
+  - ProPublica counted at least four meetings before the opportunity opened, and Rep. Connolly wrote to GSA on 9 May 2025.
+  - No source says Ramp won the pilot.
+- **Databricks order (documented; reconciled with C81).** GSA's TTS, part of FAS, gave Thrive-led Databricks a five-month, fixed-price sole-source order (47QPCA26F0011, justification posted 10 Feb 2026) with a ceiling of **$1,824,000**. Some aggregators said $18M; that is an error, and the WSJ figure is $1.8M.
+- **Gruenbaum's stake (single-source).** A WSJ report from late May 2026, seen only via aggregators, says he put $100,001-$250,000 in March 2025 into a Databricks-linked Thrive vehicle.
+  - He says he disclosed it, got ethics approval and recused himself.
+  - Also single-source: GSA's administrator reportedly blocked a Ramp award in April 2026. Gruenbaum's departure that month is documented; he calls it planned.
+- No source says he steered the Databricks order. His concurrent work for Jared Kushner on Gaza and the Board of Peace is documented, but any link to the investment is inferred (C81).
 - Thrive and Ramp deny any contact or knowledge.
 - This is the only documented point we found where a Kushner-sibling firm's portfolio meets federal procurement decisions.
 
@@ -64,7 +74,7 @@ He is a trustee of the Donald J. Trump Presidential Library Foundation, with Eri
   - its address is a roughly $16M Palm Beach house owned by Trump donor Jay Weitzman ($25K to the 2017 inauguration);
   - Weitzman's grandson Spencer Bernstein is a director;
   - Weitzman's Park America holds federal contracts.
-- Weitzman denies any role. Fox Business could not confirm that the filing's "Barron Trump" is the president's son. The earlier real-estate venture will not be relaunched.
+- Weitzman denies any role. Fox Business at first could not confirm that the filing's "Barron Trump" is the president's son. A later Fox Business report, seen only as a search snippet, says the filings list Barron Trump as one of five directors. The brand launched in May 2026, and there is still no family confirmation. The earlier real-estate venture will not be relaunched.
 
 ### 13. Lara Trump (documented; no federal dependency found)
 Former RNC co-chair. She has hosted Fox News's *My View with Lara Trump* since 22 Feb 2025 and runs the LT Brand activewear line. Her link is a media one, not a regulatory one.
@@ -163,6 +173,27 @@ Everyone named denies wrongdoing; the specific denials are recorded under each c
 ## Leads (not researched here)
 - Kimberly Guilfoyle (ambassador to Greece) and House Democrats' records request over an alleged pay-to-play scheme. https://www.pbs.org/newshour/politics/exclusive-house-democrats-ask-kimberly-guilfoyle-for-records-related-to-alleged-pay-to-pay-scheme
 - Oversight probe of a Russian oligarch reportedly funding Don Jr.'s wedding parties (Axios, 2026-09-15). https://www.axios.com/2026/09/15/donald-trump-jr-wedding-investigation-kremlev
-- Verify the WSJ's Gruenbaum, Thrive and Databricks reporting directly.
+- Verify the WSJ's Gruenbaum, Thrive and Databricks reporting directly (now covered in C81).
 - Which firms gained access under the Boulos-brokered US-DRC minerals framework, including a Reuters report that a key US firm overstated its mining experience. https://finance.yahoo.com/sectors/energy/articles/exclusive-us-firm-key-congo-075755712.html
 - Nigeria's UBA financing for a DRC minerals bid (Semafor, 2026-01-26). https://www.semafor.com/article/01/26/2026/nigerias-uba-preps-50m-financing-for-drc-minerals-bid
+
+## Audit (second review, Nov 2026)
+**Result: corrected.**
+
+Re-verified:
+- Allam's $100K payment and the Garcia letters: upheld; no public reply was found.
+- SCOA's size.
+- Charles Kushner's Monaco post: now verified.
+- Sollos.
+
+Changes:
+- **Gruenbaum (reconciled with C81).** The Databricks order ceiling is $1,824,000, not $18M. The stake and the Ramp block remain single-source (WSJ), and his recusal claim is added.
+- **DRC (reconciled with C75).** There is no Boulos or Trump-family stake in any DRC asset. The cease-and-desist to Gentry Beach is single-source (WSJ).
+- **SCOA.** The NYT figures are a December 2024 snapshot.
+
+New sources:
+- Monaco Tribune (2025-10): https://www.monaco-tribune.com/en/2025/10/prince-albert-ii-and-princess-charlene-welcome-charles-kushner-new-us-ambassador-to-monaco/
+- Nairametrics (2026-02-26): https://nairametrics.com/2026/02/26/scoa-nigeria-records-n723-8-million-fy2025-profit-as-equipment-sales-hit-n7-billion/
+- Fox Business (2026-05): https://www.foxbusiness.com/retail/barron-trump-linked-beverage-brand-launches-first-product-florida-inspired-twist
+- HigherGov contract record (2026-02-10): https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/
+- Federal News Network (2026-04): https://federalnewsnetwork.com/people/2026/04/gruenbaum-leaving-as-gsa-fas-commissioner/?readmore=1

@@ -58,7 +58,7 @@ CREW's list also includes Uruguay, which was not examined here.
    - No US concession to Georgia was found.
 9. **Maldives: confirmed.** This is a Dar Global deal with a tokenisation and SEC angle.
 10. **Romania: partly-accurate.** The projects were announced but are stalled or delayed.
-11. **Fees: unverified** per project. Only aggregate figures are available.
+11. **Fees: partly-accurate (audit).** Vietnam: $5M licence fee from Hung Yen Hospitality via DT Marks Vietnam in the June 2025 disclosure. India: at least $12M in 2024, including a $10M Reliance 4IR Realty development fee (see C70) and ~$2.2M from Tribeca, M3M, Lodha, Unimark and RDB. Other per-project figures remain undisclosed.
 12. **The ethics pledge permits these deals: confirmed.** The 10 Jan 2025 policy bars only deals directly with foreign governments. It does not address government approvals, state land or special laws behind a private partner, nor family meetings with heads of government.
 
 ## Corrections
@@ -128,3 +128,12 @@ CREW's list also includes Uruguay, which was not examined here.
 48. AP via News4Jax, Trump family deal spree (2026-04-13): https://www.news4jax.com/business/2026/04/13/trump-family-deal-spree-could-open-door-for-future-presidents-to-profit-from-office/
 49. NPR transcript, Vietnam ethics (2025-05): https://www.npr.org/transcripts/1254291430
 50. AP via ClickOnDetroit, 2025 ethics policy (2025-01-10): https://www.clickondetroit.com/news/2025/01/10/the-trump-company-is-not-banning-private-foreign-deals-a-break-with-its-first-term-policy/
+
+## Audit (second review, Nov 2026)
+
+Result: **corrected** (overall verdict partly-accurate kept).
+
+- **Vietnam fee:** Trump's June 2025 OGE report lists a $5M fee from Hung Yen Hospitality Services JSC (KBC) through DT Marks Vietnam LLC (79% DTTM Operations, 20% Trump family); Vietnamese reporting suggests part was still a receivable. https://theinvestor.vn/trump-family-to-receive-5-mln-in-license-fees-for-mega-golf-course-development-in-vietnam-d16040.html
+- **India fees:** at least $12M in 2024: $10M "development fee" from Reliance 4IR Realty Development (Mumbai; project unidentified) plus ~$2.2M in licence/royalty fees. https://www.businesstoday.in/personal-finance/real-estate/story/trump-calls-india-a-dead-economy-then-banks-12-mn-from-it-without-spending-1-heres-how-488055-2025-08-06 ; CREW: https://www.citizensforethics.org/reports-investigations/crew-investigations/indias-reliance-industries-paid-trump-10-million-before-he-took-office-it-keeps-getting-wins-from-trump/
+- These payments fall in 2024, before the 2025 tariff talks, so they do not by themselves support the "timed with tariff negotiations" framing. A 2025-specific India breakdown was not found.
+- Not re-checked: tariff paths, Georgia land, Indonesia suspension lift, CREW count.

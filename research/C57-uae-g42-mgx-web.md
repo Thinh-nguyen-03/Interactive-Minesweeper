@@ -70,7 +70,7 @@ Research note: direct fetches of most news sites were blocked in this environmen
   - Oracle, Silver Lake and MGX each own 15% of TikTok USDS Joint Venture LLC.
   - Affiliates of existing ByteDance investors own 30.1%.
   - ByteDance retains 19.9%.
-- **Closing:** Reports date it to about 2026-01-22, after Chinese approval.
+- **Closing:** closed on 2026-01-22 (audit: Axios, Hollywood Reporter). The board named Adam Presser CEO; MGX's David Scott holds a board seat.
 - **Approvals:** The required US approval was the president's own determination under the statute. MGX's price was not disclosed.
 
 ### 5. MGX's investments in OpenAI, xAI and Anthropic: confirmed
@@ -190,3 +190,12 @@ Research note: direct fetches of most news sites were blocked in this environmen
 38. Fortune, G42 CEO Peng Xiao and NYT report on China ties, 2023-11-29. https://fortune.com/2023/11/29/g42-uae-abu-dhabi-ai-ceo-peng-xiao-new-york-times-report-china/
 39. AI Weekly, WSJ: G42 to reincorporate as a US firm, 2026. Single source, unverified. https://aiweekly.co/alerts/wsj-uae-wins-ai-chip-access-g42-to-reincorporate-as-us-firm
 40. Bloomberg, Lunate takes on G42's China fund, 2024-07-08. https://www.bloomberg.com/news/articles/2024-07-08/abu-dhabi-investment-firm-lunate-takes-on-ai-firm-g42-s-china-fund
+
+## Audit (second review, Nov 2026)
+
+Result: **upheld** (verdict and confidence unchanged).
+
+- **TikTok:** closing on 2026-01-22 confirmed; 15% each for Oracle, Silver Lake and MGX, ByteDance 19.9%; CEO Adam Presser; MGX's chief strategy and safety officer David Scott on the seven-member board. https://axios.com/2026/01/23/tiktok-deal-trump-app-ban ; https://www.hollywoodreporter.com/business/digital/tiktok-us-deal-closes-silver-lake-oracle-1236481939/
+- **G42 reincorporation:** still unconfirmed as of mid-Nov 2026. Bloomberg (about 2026-09-04) reported only exploratory talks to sell a US-majority stake or form a US vehicle before the licence-free window ends (about April 2027); G42 has not confirmed. https://mobileworldlive.com/ai-cloud/g42-weighs-us-ownership-to-secure-chip-access . The UAE's 10 Jul 2026 move to Country Group A:5 is documented in C80 (Senate Banking minority statement), so it is no longer described as unverified.
+- **Aryam/WLF:** $500M for 49%, $250M upfront, $187M to Trump entities matched fresh coverage; WLF spokesman David Wachsman confirmed the investment and Trump denied knowledge. https://cointelegraph.com/news/trump-denies-involvement-500m-uae-wlfi-stake
+- Not re-checked: StringZ/OCC, MGX AI-round roles, Larkin.
