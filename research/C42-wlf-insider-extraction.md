@@ -8,7 +8,7 @@ The claim bundles eight follow-up threads from C04, C05, C13, C14 and C29. Most 
 - **Retail losses.** No source quantifies WLFI retail losses in dollars.
 - **StringZ Holding.** Its ownership rests on one Wall Street Journal report citing anonymous sources. The OCC record names StringZ but not who owns it.
 
-**Fetch limits.** Fortune, CoinDesk and the ABC affiliate pages could not be read directly. The WSJ is paywalled. Findings rest on search-result text from several outlets, cross-checked against each other where possible.
+**Source limits.** Fortune, CoinDesk and the ABC affiliate pages could not be read directly. The WSJ is paywalled. Findings rest on search-result text from several outlets, cross-checked against each other where possible.
 
 ## What was checked
 This check asks how money flowed out of World Liberty Financial (WLF) to the Trump and Witkoff families and to insiders, and what happened to the token and its outside holders. 

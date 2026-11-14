@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
- It is a follow-up lead to C35 (Lutnick/Tether), C25 (prediction markets/CFTC), C12 (OCC/WLF charter) and C34 (David Sacks). The claim: administration crypto officials have moved into industry, or come from it, and Trump family business partners hold government posts. The job is to verify each move with dates, ethics and cooling-off facts, and responses.
+This check builds on C35 (Lutnick/Tether), C25 (prediction markets/CFTC), C12 (OCC/WLF charter) and C34 (David Sacks). The claim: administration crypto officials have moved into industry, or come from it, and Trump family business partners hold government posts. The aim is to verify each move with dates, ethics and cooling-off facts, and responses.
 
 ## Summary
 
@@ -24,7 +24,7 @@ What is missing:
 
 ## Research limits
 
-Direct fetches failed because decrypt.co and theintercept.com could not be read directly. Findings rest on search-result summaries checked across several outlets: The Block, Cointelegraph, Bloomberg, Fortune, CoinDesk, Blockworks, Business Wire, IBTimes and AMBCrypto. The WSJ Nxum story is known only through secondary coverage.
+The original pages at decrypt.co and theintercept.com were not read directly. Findings rest on search-result summaries checked across several outlets: The Block, Cointelegraph, Bloomberg, Fortune, CoinDesk, Blockworks, Business Wire, IBTimes and AMBCrypto. The WSJ Nxum story is known only through secondary coverage.
 
 The research ended before I could check three things (all three were checked in the Nov 2026 audit pass below):
 

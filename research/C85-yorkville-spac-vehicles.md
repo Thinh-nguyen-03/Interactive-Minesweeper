@@ -3,7 +3,7 @@
 **Verdict: partly-accurate.** The governance and money links are well documented. The policy links are not.
 **Confidence:** medium.
 
-This is a third-layer hunt from C78; the other parent is C62. C78 already maps the people across the four Yorkville-sponsored SPACs: Kevin McGurn, Mark Angelo, Troy Rillo, Lawrence Glick, Alan Garten, Devin Nunes and Scott Glabe. It is not repeated here. This report adds four things:
+This is a third-layer check building on C78; it also builds on C62. C78 already maps the people across the four Yorkville-sponsored SPACs: Kevin McGurn, Mark Angelo, Troy Rillo, Lawrence Glick, Alan Garten, Devin Nunes and Scott Glabe. It is not repeated here. This report adds four things:
 
 - what each vehicle has done since C78;
 - the Venezuela sanctions and oil-licence record each vehicle is exposed to;
@@ -22,7 +22,7 @@ The claim holds up partly.
   - Its sponsor holds about **15.33M founder shares bought for $25,000**, about 40% of the shares outstanding.
   - It is still hunting for a Latin America/Venezuela target. No target was found as of November 2026, and no reply to Wyden.
 - **Texas Ventures Acquisition III (TVA III)**
-  - It was the planned merger partner for a **spin-off of Truth Social itself**. Trump Media (TMTG), TAE and TVA III announced this on 27 February 2026 and dropped it on 10 June 2026. C78 and the parent files did not cover this.
+  - It was the planned merger partner for a **spin-off of Truth Social itself**. Trump Media (TMTG), TAE and TVA III announced this on 27 February 2026 and dropped it on 10 June 2026. C78 and the earlier checks did not cover this.
   - TVA III's board then included two Trump Organization executives.
   - After the spin-off was dropped, TVA III signed with PlusAI.
   - Shareholders redeemed **about 79%** of the trust at the October 2026 extension vote. That leaves the Yorkville sponsor's 7.5M founder shares outnumbering the 4.8M public shares.

@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate. Confidence: medium.**
 
-*Third-layer connection check from C71, with parents C42 and C67. The original pages at senate.gov, decrypt.co and whbl.com were not read directly, so the findings rest on search results across several outlets plus the primary URLs those results point to.*
+*Third-layer connection check from C71, also building on C42 and C67. The original pages at senate.gov, decrypt.co and whbl.com were not read directly, so the findings rest on search results across several outlets plus the primary URLs those results point to.*
 
 ## Summary
 

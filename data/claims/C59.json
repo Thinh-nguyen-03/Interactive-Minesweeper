@@ -142,10 +142,10 @@
     }
   ],
   "corrections": [
-    "Brief implies the Hung Yen deal arose during tariff talks; it was signed in October 2024, before the election and the April 2025 tariffs. What came during the talks was the fast-tracked approval (May 2025) and groundbreaking (21 May 2025).",
-    "Brief says the Ho Chi Minh City tower advanced; as of Nov 2026 it remains a proposal with in-principle backing, with no confirmed approval or construction.",
-    "Brief says Indonesian MNC/Hary Tanoe resorts 'advanced'; they date from 2015-2019 and were halted by Indonesia's Environment Ministry in February 2025. A lift of the suspension is reported only by one trade outlet (Aug 2026).",
-    "Brief lumps India in as a country granted favours; US tariffs on India rose to 50% in Aug 2025 while Trump-branded launches continued, and the Feb 2026 cut to 18% was tied to Russian oil, not property.",
+    "The claim implies the Hung Yen deal arose during tariff talks; it was signed in October 2024, before the election and the April 2025 tariffs. What came during the talks was the fast-tracked approval (May 2025) and groundbreaking (21 May 2025).",
+    "The claim says the Ho Chi Minh City tower advanced; as of Nov 2026 it remains a proposal with in-principle backing, with no confirmed approval or construction.",
+    "The claim says Indonesian MNC/Hary Tanoe resorts 'advanced'; they date from 2015-2019 and were halted by Indonesia's Environment Ministry in February 2025. A lift of the suspension is reported only by one trade outlet (Aug 2026).",
+    "The claim lumps India in as a country granted favours; US tariffs on India rose to 50% in Aug 2025 while Trump-branded launches continued, and the Feb 2026 cut to 18% was tied to Russian oil, not property.",
     "CREW's count has been 21, 24 and 25 at different times; '~24' is a fair snapshot.",
     "The fees line is not wholly undisclosed: Trump's 2025 disclosure shows a $5M Vietnam licence fee (Hung Yen Hospitality via DT Marks Vietnam) and at least $12M from India for 2024, $10M of it from a Reliance unit."
   ],
@@ -982,7 +982,7 @@
     },
     {
       "title": "Dar Global tokenised Maldives hotel marketed to US retail investors and discussed with the SEC",
-      "why_connected": "It mixes the family brand, a Saudi developer and a US securities regulator the President controls, and overlaps with the crypto threads in the video (WLF, SEC retreat).",
+      "why_connected": "It mixes the family brand, a Saudi developer and a US securities regulator the President controls, and overlaps with the crypto threads covered in other checks (WLF, SEC retreat).",
       "entities": [
         "dar-global",
         "trump-international-maldives",

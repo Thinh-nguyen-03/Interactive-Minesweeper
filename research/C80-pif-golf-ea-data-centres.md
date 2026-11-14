@@ -2,7 +2,7 @@
 
 **Verdict:** mostly-accurate (confidence: medium)
 
-**Type:** connection check, second layer from C56 and C57 (parents C56, C57, C15; also builds on C68)
+**Type:** connection check, second layer from C56 and C57 (builds on C56, C57, C15; also C68)
 
 ## Summary
 

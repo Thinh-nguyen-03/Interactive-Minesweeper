@@ -15,7 +15,7 @@ This check adds four layers to C73:
 
 No source shows the threads were coordinated or that any of them produced a US government benefit. We found no EPA matter involving Qatar. Newsmax is suing to overturn an approval by Trump's FCC rather than benefiting from it. Daibes's $1M pardon bid through Javelin failed.
 
-Parents: C73 (Qatar access network) and C64 (lobbyists and fixers). This report extends them and does not repeat them. icij.org, sec.gov and oge.gov could not be read directly. Findings rest on search-result text across several outlets and filing aggregators.
+Builds on: C73 (Qatar access network) and C64 (lobbyists and fixers). This report extends them and does not repeat them. icij.org, sec.gov and oge.gov could not be read directly. Findings rest on search-result text across several outlets and filing aggregators.
 
 ## What was checked
 

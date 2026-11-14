@@ -10,7 +10,7 @@
 
 Barrack's pipeline push (Reuters) and Bessent's Argentina swap (Mother Jones and Popular Information) are reported by one outlet or a pair of advocacy-leaning ones. For Quintenz, Gould, Kratsios, Patel, Boulos and Charles Kushner we found ties but no benefiting decision. No ethics office, inspector general or court has found a violation in any of these cases. (Audit, Nov 2026: Bondi was fired as AG on Apr 2, 2026; Blanche was acting AG until the Senate confirmed him 50-49 on Aug 8, 2026, and he was sworn in on Aug 10, 2026.)
 
-Method: we mined C12, C14, C16, C25, C26, C34-C36, C38, C43, C49, C52-C54 and C60, then searched outward. Many outlets were not read directly, so most findings rely on search-result text from several outlets. The research ended before every thread could be finished; the gaps are listed at the end.
+Method: we drew on C12, C14, C16, C25, C26, C34-C36, C38, C43, C49, C52-C54 and C60, then searched outward. Many outlets were not read directly, so most findings rely on search-result text from several outlets. The research ended before every thread could be finished; the gaps are listed at the end.
 
 ## What was checked
 This check asks for administration officials whose decisions benefited entities they previously worked for, invested in or were paid by, together with their holdings, recusals, waivers and specific decisions.
@@ -143,7 +143,7 @@ These are our own cross-references. No source asserts them.
   - Gentry Beach: now covered in C75
   - whether the Securitize merger closed: yes, on July 1, 2026
 - Still open: any recusal records for Atkins on Securitize.
-- govexec.com was not reachable for direct fetch, so the Alvarez & Marsal figures come from Defense One and summaries of the ProPublica story.
+- govexec.com was not read directly, so the Alvarez & Marsal figures come from Defense One and summaries of the ProPublica story.
 
 ## Sources
 1. Fact Check: Bondi lobbied for Qatar (Yahoo/USA Today, 2024-12): https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html

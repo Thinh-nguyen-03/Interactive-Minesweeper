@@ -23,7 +23,7 @@
     {
       "statement": "The deals span Dubai, Saudi Arabia (Jeddah/Riyadh), Oman, Qatar and possibly others (e.g., Abu Dhabi).",
       "verdict": "mostly-accurate",
-      "finding": "Confirmed in Dubai (UAE), Jeddah x2, Riyadh/Diriyah (Saudi Arabia), Muscat (Oman) and Simaisma (Qatar). The National's September 2026 overview counts seven projects in four countries. Abu Dhabi has not been substantiated: in December 2024 Eric Trump said 'We'll probably be in Abu Dhabi in the next year or so', and Gulf News in 2025 reported talks were 'pretty serious', but I found no announced deal. The video's 'hotel going up in Dubai or Abu Dhabi' matches the Dubai tower. A separate, older Dubai golf club with Damac also earns the Trumps licensing fees.",
+      "finding": "Confirmed in Dubai (UAE), Jeddah x2, Riyadh/Diriyah (Saudi Arabia), Muscat (Oman) and Simaisma (Qatar). The National's September 2026 overview counts seven projects in four countries. Abu Dhabi has not been substantiated: in December 2024 Eric Trump said 'We'll probably be in Abu Dhabi in the next year or so', and Gulf News in 2025 reported talks were 'pretty serious', but I found no announced deal. The 'hotel going up in Dubai or Abu Dhabi' that is sometimes mentioned is the Dubai tower. A separate, older Dubai golf club with Damac also earns the Trumps licensing fees.",
       "sources": [
         "https://www.thenationalnews.com/business/property/2026/09/03/where-is-trumps-property-empire-expanding-in-the-gulf/",
         "https://www.semafor.com/article/12/16/2024/trump-organization-eyes-gulf-expansion",
@@ -88,9 +88,9 @@
     }
   ],
   "corrections": [
-    "Brief says the deals came 'since the 2024 election'. In fact Oman (March 2022), Trump Tower Jeddah (July 2024) and the first Trump Tower Dubai announcement (July 2024) predate it. Post-election deals are Riyadh/Diriyah, the Dubai formal launch, Qatar and Trump Plaza Jeddah.",
-    "Brief says 'despite a pledge of no new foreign deals'. That pledge applied to the first term only. The January 2025 policy allows private foreign deals and bars only direct deals with foreign governments.",
-    "Video says 'a brand new hotel going up in Dubai or Abu Dhabi'. It is Dubai (Trump International Hotel & Tower, Sheikh Zayed Road). No Abu Dhabi project has been announced; one was only talked about.",
+    "The claim says the deals came 'since the 2024 election'. In fact Oman (March 2022), Trump Tower Jeddah (July 2024) and the first Trump Tower Dubai announcement (July 2024) predate it. Post-election deals are Riyadh/Diriyah, the Dubai formal launch, Qatar and Trump Plaza Jeddah.",
+    "The claim says 'despite a pledge of no new foreign deals'. That pledge applied to the first term only. The January 2025 policy allows private foreign deals and bars only direct deals with foreign governments.",
+    "Claimed: 'a brand new hotel going up in Dubai or Abu Dhabi'. It is Dubai (Trump International Hotel & Tower, Sheikh Zayed Road). No Abu Dhabi project has been announced; one was only talked about.",
     "Qatar's '$5.5 billion' is the value of the whole Simaisma masterplan, not the Trump golf/villa component."
   ],
   "denials_and_context": [

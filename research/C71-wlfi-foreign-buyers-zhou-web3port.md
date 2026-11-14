@@ -191,7 +191,7 @@ These are our own cross-references. No source asserts any of them.
 34. The Block, Warren and Kim demand CFIUS review of UAE stake (2026-02): https://www.theblock.co/post/389958/sens-warren-kim-demand-cfius-review-of-uaes-reported-500-million-stake-in-world-liberty-financial-reuters
 35. Senate Banking minority, Warren and Reed on WLF ties to sanctioned criminals (2026-05-14): https://www.banking.senate.gov/newsroom/minority/ahead-of-committee-crypto-market-structure-markup-warren-and-reed-call-for-investigation-into-world-liberty-financials-latest-apparent-failure-to-detect-ties-to-sanctioned-criminals
 36. Decrypt, WLF partner linked to sanctioned Cambodian scam company (2026-05): https://decrypt.co/363617/partner-trump-backed-world-liberty-sanctioned-cambodian-scam-company
-37. Senate Banking, letter to Bessent and Blanche on Aqua 1 (about 2026-09-15; PDF not fetchable here): https://www.banking.senate.gov/imo/media/doc/20260915lettertobessentandblancheonaqua1.pdf
+37. Senate Banking, letter to Bessent and Blanche on Aqua 1 (about 2026-09-15; PDF original not read): https://www.banking.senate.gov/imo/media/doc/20260915lettertobessentandblancheonaqua1.pdf
 38. Cointelegraph, Senators call WLFI a national security threat (2025-11): https://cointelegraph.com/news/senators-trump-linked-wlfi-national-security-threat
 39. Unhashed newsletter, Did Trump's token reach enemies (Nick Bax rebuttal) (2025): https://unhashed.beehiiv.com/p/did-trump-s-token-reach-enemies
 40. Caixin Global, The blacklisted Chinese businessman behind a $100M Trump crypto bet (2026-08-26; not readable here): https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html

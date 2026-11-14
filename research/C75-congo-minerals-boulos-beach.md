@@ -2,7 +2,7 @@
 
 **Verdict: partly-accurate (confidence: medium)**
 
-This is a second-layer hunt built on C66, C65 and C60. Those files already establish three things:
+This is a second-layer check building on C66, C65 and C60. Those files already establish three things:
 - Massad Boulos holds his role.
 - His business is SCOA Nigeria.
 - KoBold credited him for its Manono deal.

@@ -2,7 +2,7 @@
 
 **Verdict: unverified** (confidence: medium)
 
-The lead correctly describes what the sources allege. The allegations themselves are not substantiated. Every account and money claim (the roughly $750M "Alpha" account at First Abu Dhabi Bank, the routing via Azerbaijan, and the roughly $1B "Beta" account at the Bank of Israel) traces back to one source: Matthew Cole's book *Princes and Thieves*, excerpted by Vanity Fair on 22 Oct 2026. Cole relies on anonymous sources and has published no bank records. No outlet has independently corroborated any of it.
+The claim correctly describes what the sources allege. The allegations themselves are not substantiated. Every account and money claim (the roughly $750M "Alpha" account at First Abu Dhabi Bank, the routing via Azerbaijan, and the roughly $1B "Beta" account at the Bank of Israel) traces back to one source: Matthew Cole's book *Princes and Thieves*, excerpted by Vanity Fair on 22 Oct 2026. Cole relies on anonymous sources and has published no bank records. No outlet has independently corroborated any of it.
 
 The most specific detail, the Bank of Israel "Beta" account, has drawn the most rebuttal:
 
@@ -17,7 +17,7 @@ The Gabbard whistleblower complaint is real and well documented, but it is a **s
 
 This builds on C37, which covers the phone-hack chain (GRU, then the MIVD, then screenshots), the basic Kushner, Trump and Raskin responses, and the 2024 Salt Typhoon targeting. That material is not repeated here. This file goes deeper on the money allegations, the rebuttals, the Gabbard complaint, the legal threats and the official and congressional responses.
 
-**Method note:** direct fetches failed for cbsnews.com, jpost.com, ynetnews.com, commondreams.org and democracynow.org, because those hosts are blocked in this environment. Everything below comes from search-result text across many outlets, including:
+**Method note:** the original pages at cbsnews.com, jpost.com, ynetnews.com, commondreams.org and democracynow.org were not read directly. Everything below comes from search-result text across many outlets, including:
 
 - Mediaite, TheWrap, Newsweek, Sinclair/The National Desk
 - Ynet, i24, Asia Times, JAMnews, Common Dreams

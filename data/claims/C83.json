@@ -52,7 +52,7 @@
     {
       "statement": "Taiwan's de facto embassy (TECRO) is a Javelin foreign principal under a new FARA registration in March 2026.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented (FARA No. 7705 registration statement, short forms and Exhibit AB, received 2026-03-23, seen via search extracts). The foreign principal is the Taipei Economic and Cultural Representative Office in the United States. Schiller signed the Exhibit AB on 2026-03-23. Fee and scope could not be read because efile.fara.gov is not reachable from here. The FARA registry also shows a 2026-09-25 date for No. 7705 whose meaning (possibly an amendment or termination) we could not establish. Bloomberg Government reported in May 2026 that TECRO also retained Checkmate Government Relations ahead of the US-China summit. So both Pakistan (in 2025) and Taiwan (in 2026) hired Javelin and Checkmate in parallel. No reporting found on why TECRO hired Javelin. Note: the Dec 2025 DSCA notice of a Javelin anti-tank missile sale to TECRO concerns the weapon, not this firm.",
+      "finding": "Evidence grade: documented (FARA No. 7705 registration statement, short forms and Exhibit AB, received 2026-03-23, seen via search extracts). The foreign principal is the Taipei Economic and Cultural Representative Office in the United States. Schiller signed the Exhibit AB on 2026-03-23. Fee and scope could not be read because efile.fara.gov could not be read directly. The FARA registry also shows a 2026-09-25 date for No. 7705 whose meaning (possibly an amendment or termination) we could not establish. Bloomberg Government reported in May 2026 that TECRO also retained Checkmate Government Relations ahead of the US-China summit. So both Pakistan (in 2025) and Taiwan (in 2026) hired Javelin and Checkmate in parallel. No reporting found on why TECRO hired Javelin. Note: the Dec 2025 DSCA notice of a Javelin anti-tank missile sale to TECRO concerns the weapon, not this firm.",
       "sources": [
         "https://efile.fara.gov/docs/7705-Registration-Statement-20260323-1.pdf",
         "https://efile.fara.gov/docs/7705-Short-Form-20260323-1.pdf",
@@ -133,9 +133,9 @@
     }
   ],
   "corrections": [
-    "Brief describes Javelin as Schiller and Sorial's firm; FARA filings show a third equal owner, Robert Seiden, whose law firm was Pakistan's prime contractor.",
-    "Brief cites Daibes' '$1M' as established; the amount rests on NBC's three unnamed sources, while the LDA forms establish the engagement and its 'executive relief' purpose.",
-    "Brief implies GreenMet holds Tanbreez equity; it is a development partner, and Critical Metals (92.5%) and European Lithium hold the project (C77)."
+    "The claim describes Javelin as Schiller and Sorial's firm; FARA filings show a third equal owner, Robert Seiden, whose law firm was Pakistan's prime contractor.",
+    "The claim cites Daibes' '$1M' as established; the amount rests on NBC's three unnamed sources, while the LDA forms establish the engagement and its 'executive relief' purpose.",
+    "The claim implies GreenMet holds Tanbreez equity; it is a development partner, and Critical Metals (92.5%) and European Lithium hold the project (C77)."
   ],
   "denials_and_context": [
     "Sorial (to CNBC): 'We are passive minority shareholders in GreenMet and have no management role'; Horn says they hold no management roles. An undated bio still lists Sorial on GreenMet's board.",

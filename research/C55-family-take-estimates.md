@@ -8,7 +8,7 @@ The claim has two weak points:
 - The Fight Fight Fight "$200M-$1B TRUMP treasury" was only a proposal, reported by Bloomberg in October 2025. I found no report that it ever closed.
 - "Where the gains went" (stocks and bonds) is documented only as correlation. The disclosure's value ranges do not trace any crypto dollars into specific securities.
 
-Parents: C29 (Forbes figures and the 2025 OGE disclosure), C01 (TRUMP coin royalties), C31 (Gulf licensing / CREW). This file builds on those and does not repeat them.
+Builds on: C29 (Forbes figures and the 2025 OGE disclosure), C01 (TRUMP coin royalties), C31 (Gulf licensing / CREW). This file builds on those and does not repeat them.
 
 *Method note: the original pages at newyorker.com, citizensforethics.org, npr.org, mediaite.com and democracynow.org were not read directly. The figures below come from search-result text across several outlets that quote these sources, and single-source items are attributed.*
 

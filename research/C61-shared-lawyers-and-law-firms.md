@@ -6,7 +6,7 @@
 - **Some links have only one source.** Four rest on a single outlet: the Edelman–Witkoff friendship, Edelman on the Board of Peace, Roth at Dhillon Law Group, and Goody Guillén acting for Justin Sun.
 - **Wrongdoing.** Every principal denies it.
 
-**Method note:** we mined C06, C14, C15, C27, C33, C34, C36, C37, C46, C48, C49, C52 and C57, then searched the web. Direct fetches failed here, including ProPublica's disclosure database, so some details come from search-result excerpts. These are flagged.
+**Method note:** we drew on C06, C14, C15, C27, C33, C34, C36, C37, C46, C48, C49, C52 and C57, then searched further. Many original pages were not read directly, including ProPublica's disclosure database, so some details come from search-result excerpts. These are flagged.
 
 ## The claim
 

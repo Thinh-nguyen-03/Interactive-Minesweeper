@@ -10,7 +10,7 @@ The policy tailwinds are real: Executive Order 14307 (June 2025) and the FCC's D
 
 What remains unproven is any causal link. No reporting shows a Trump family member intervening in any award, financing talk or policy step. All parties deny it, and the Pentagon Inspector General has not said it opened an inquiry.
 
-**The claim:** this is a follow-up brief, not a quote from the video. It builds on C28 (Eric Trump / Foundation), C32 (Don Jr. / Unusual Machines / 1789 portfolio) and C26 (1789 Capital / Vulcan). Those parents already establish Don Jr.'s Nov 2024 Unusual Machines advisory role and 331,580 shares, the Oct 2025 Army motor order, the Vulcan $620M OSC loan, and denials by Don Jr. and 1789. This report does not repeat them.
+**Background:** this check builds on C28 (Eric Trump / Foundation), C32 (Don Jr. / Unusual Machines / 1789 portfolio) and C26 (1789 Capital / Vulcan). Those earlier checks already establish Don Jr.'s Nov 2024 Unusual Machines advisory role and 331,580 shares, the Oct 2025 Army motor order, the Vulcan $620M OSC loan, and denials by Don Jr. and 1789. This report does not repeat them.
 
 **Research note:** the original pages at breakingdefense.com, warren.senate.gov and oversightdemocrats.house.gov were not read directly. The findings rest on search-result summaries from several outlets (Reuters syndications via BNN Bloomberg/CTV/Yahoo, CNBC, Quartz, DroneXL, DefenseScoop, Inside Unmanned Systems, Tectonic Defense, Bloomberg Government, IBTimes, Inquirer, Manufacturing Dive, Al Jazeera, MoFo, TechCrunch). I could not read the letters themselves, only the coverage of them.
 

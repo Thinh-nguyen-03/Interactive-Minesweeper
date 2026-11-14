@@ -6,9 +6,9 @@ A specific, widely reported allegation exists: Russia's GRU hacked Kushner's per
 
 One related incident is solidly reported. In Oct 2024 Chinese state hackers (Salt Typhoon) **targeted** Kushner's phone and call data through US telecom networks. That reporting does not show any of his data was actually taken. Kushner's camp says there is "no indication that anyone got access."
 
-## What the lead asks
+## What was checked
 
-The lead is a user-requested follow-up to C15 (Kushner and Affinity Partners), and the video does not mention it. It asks whether Kushner's phone or communications were hacked: by whom, when, what was accessed, and how this connects to his envoy role, his negotiations and Affinity's Gulf investors.
+This check builds on C15 (Kushner and Affinity Partners). It asks whether Kushner's phone or communications were hacked: by whom, when, what was accessed, and how this connects to his envoy role, his negotiations and Affinity's Gulf investors.
 
 **Method note:** the original pages at cybernews.com, dailycaller.com and democrats-judiciary.house.gov were not read directly. The findings below come from search-result text across about 30 outlets: Newsweek, The Hill, TheWrap, Mediaite, NL Times, DutchNews, Gizmodo, IBTimes, The Week, Democracy Now, Sinclair/KOMO, La Voce di New York, JAMnews and others. No primary Vanity Fair text was read.
 
@@ -65,7 +65,7 @@ The lead is a user-requested follow-up to C15 (Kushner and Affinity Partners), a
 
 - **Affinity and Gulf investors (C15):** the alleged $750M fund is described as Saudi and Emirati money accessible to Kushner while he was a White House adviser. That money would predate PIF's $2B commitment to Affinity in 2021. If true, it would make the Gulf relationship far older and more personal than the Affinity record shows. Nothing ties the alleged accounts to Affinity itself.
 - **Envoy role:** Raskin used the hacking and fund allegations to demand recusal from the Russia and Iran talks. This adds to CREW's October 2026 lawsuit and the Wyden-Garcia inquiries.
-- **Azerbaijan, Israel and the UAE:** the alleged routing via Azerbaijan and the Abraham Accords-era timing are new threads that are not in the video.
+- **Azerbaijan, Israel and the UAE:** the alleged routing via Azerbaijan and the Abraham Accords-era timing are new threads.
 
 ## Sources
 

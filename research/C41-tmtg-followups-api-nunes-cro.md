@@ -9,7 +9,7 @@ This check builds on C21, C22 and C24. Most of the claim is documented. Two item
 
 The customer names rest on one anonymously sourced Reuters report.
 
-Research note: the original pages at thestandard.com.hk and abc7.com were not read directly, and the Senate LDA API returned 403. Findings below rely on search results across several syndicated outlets.
+Research note: the original pages at thestandard.com.hk and abc7.com were not read directly, and the Senate LDA record could not be read. Findings below rely on search results across several syndicated outlets.
 
 ## Sub-claims
 

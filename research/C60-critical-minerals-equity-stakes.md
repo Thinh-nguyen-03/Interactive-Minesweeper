@@ -1,11 +1,11 @@
 # C60: Government equity stakes and critical-minerals deals: who was positioned to profit
 
 **Verdict: mostly-accurate** (confidence: medium)
-Origin: follow-up lead (parents: C26, C47, C50, C51)
+Builds on: C26, C47, C50, C51
 
 ## Summary
 
-The core of the lead is documented. On 2026-06-28 the New York Times published an investigation by Eric Lipton and Paul Sonne (syndicated by the Boston Globe). It counted **at least 14 critical-minerals companies** with financial ties to the Trump or Lutnick families that had received, or were being considered for, **more than $8.9B** in federal support. Senators Blumenthal, Schiff and Warren built their 2026-07-30/31 letters on those findings.
+The core of the claim is documented. On 2026-06-28 the New York Times published an investigation by Eric Lipton and Paul Sonne (syndicated by the Boston Globe). It counted **at least 14 critical-minerals companies** with financial ties to the Trump or Lutnick families that had received, or were being considered for, **more than $8.9B** in federal support. Senators Blumenthal, Schiff and Warren built their 2026-07-30/31 letters on those findings.
 
 The best-documented instances:
 - **1789 Capital and Vulcan Elements**

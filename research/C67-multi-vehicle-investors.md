@@ -11,7 +11,7 @@ Only a few parties are documented putting money into more than one Trump-family 
 
 Most other names in the claim appear in a single vehicle: DWF Labs, Oddiyana, Hut 8, DRW, Kraken, GD Culture and the other $TRUMP-treasury small caps. Nothing found shows that any investment caused a government decision.
 
-Method note: we first mined C01-C60 for recurring names, then searched outward. The research ended before every thread was checked. Many outlets could not be read directly: NYT, WSJ, Caixin, The Block, Cointelegraph, CryptoSlate and Bitcoin.com. Several findings therefore rest on search-result summaries drawn from multiple outlets.
+Method note: we first drew on C01-C60 for recurring names, then searched outward. The research ended before every thread was checked. Many outlets could not be read directly: NYT, WSJ, Caixin, The Block, Cointelegraph, CryptoSlate and Bitcoin.com. Several findings therefore rest on search-result summaries drawn from multiple outlets.
 
 ## Repeat-investor matrix
 

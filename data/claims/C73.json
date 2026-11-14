@@ -56,7 +56,7 @@
   {
    "statement": "Ballard Partners has a current Qatar embassy contract.",
    "verdict": "unverified",
-   "finding": "UNVERIFIED. The Washington Free Beacon reports a Ballard contract with the Qatari embassy at $175K/month (second payment due 1 May), but the date could not be established (page not fetchable here). Audit note: $175K x 12 matches the $2.1M one-year pact Florida Politics reported when Qatar hired Ballard in spring 2018 ahead of the Emir's visit, so the Free Beacon figure most likely describes the 2018 contract, not a current one (our inference from the matching figures). Sludge's Feb 2026 roster of Ballard foreign clients does not name Qatar. No 2025-26 FARA filing was confirmed.",
+   "finding": "UNVERIFIED. The Washington Free Beacon reports a Ballard contract with the Qatari embassy at $175K/month (second payment due 1 May), but the date could not be established (the page was not read directly). Audit note: $175K x 12 matches the $2.1M one-year pact Florida Politics reported when Qatar hired Ballard in spring 2018 ahead of the Emir's visit, so the Free Beacon figure most likely describes the 2018 contract, not a current one (our inference from the matching figures). Sludge's Feb 2026 roster of Ballard foreign clients does not name Qatar. No 2025-26 FARA filing was confirmed.",
    "sources": [
     "https://freebeacon.com/?p=1007167",
     "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/",
@@ -66,7 +66,7 @@
   {
    "statement": "An Apollo-run trust partly owned by Qatar put $100M into the Witkoff Group in 2025.",
    "verdict": "misleading",
-   "finding": "WEAKENED by a correction. The NYT (Sept 2025) reported $100M 'as recently as May' from an Apollo-run trust partly owned by Qatar. Commercial Observer describes it as a $100M Apollo refinancing of the Witkoff/Access West Palm Beach golf resort. A correction relayed by the Jerusalem Post and others says the lender was Apollo Global Management, not the subsidiary in which Qatar invested. We saw search text only; the page was not fetchable. Apollo says Qatar-linked investors do not direct investments. The QIA purchase of the Park Lane (~$623M, Aug 2023, from a Witkoff-Mubadala JV) remains DOCUMENTED (C53). The Witkoff family's lawyer (Parlatore) threatened the NYT with a defamation suit unless it corrected the story; Qatar's International Media Office also called the report false (Gulf Times/Peninsula).",
+   "finding": "WEAKENED by a correction. The NYT (Sept 2025) reported $100M 'as recently as May' from an Apollo-run trust partly owned by Qatar. Commercial Observer describes it as a $100M Apollo refinancing of the Witkoff/Access West Palm Beach golf resort. A correction relayed by the Jerusalem Post and others says the lender was Apollo Global Management, not the subsidiary in which Qatar invested. We saw search text only; the page was not read directly. Apollo says Qatar-linked investors do not direct investments. The QIA purchase of the Park Lane (~$623M, Aug 2023, from a Witkoff-Mubadala JV) remains DOCUMENTED (C53). The Witkoff family's lawyer (Parlatore) threatened the NYT with a defamation suit unless it corrected the story; Qatar's International Media Office also called the report false (Gulf Times/Peninsula).",
    "sources": [
     "https://commercialobserver.com/2025/05/witkoff-access-west-palm-beach-dutchmans-pipe-golf-club-belgrove-resort-spa/",
     "https://www.jpost.com/american-politics/article-869981",
@@ -141,8 +141,8 @@
   }
  ],
  "corrections": [
-  "Brief: an Apollo trust partly owned by Qatar put $100M into the Witkoff Group. A relayed correction says the lender was Apollo Global Management, not the Qatar-invested subsidiary (a $100M golf-resort refinancing).",
-  "Brief: Kerik hired Apr 2025. Correct, but he died on 29 May 2025, so the engagement lasted under two months.",
+  "Claimed: an Apollo trust partly owned by Qatar put $100M into the Witkoff Group. A relayed correction says the lender was Apollo Global Management, not the Qatar-invested subsidiary (a $100M golf-resort refinancing).",
+  "Claimed: Kerik hired Apr 2025. Correct, but he died on 29 May 2025, so the engagement lasted under two months.",
   "Al Udeid: the May 2025 fact sheet gives a $38B statement of intent (potential investments), not a firm commitment and not $10B.",
   "C64 says Patel would recuse from Qatar work for a year. His Nov 2024 pledge had expired, and a March 2025 waiver allowed participation.",
   "The security EO is dated 29 Sep 2025 and was published 1 Oct 2025; the claim's 'Oct 2025' refers to publication."

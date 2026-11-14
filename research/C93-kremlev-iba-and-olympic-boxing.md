@@ -4,7 +4,7 @@
 
 What the record does **not** show is any US action, request or benefit tied to the gift. The IOC and CAS settled Olympic boxing governance before the wedding. We found no US sanctions or visa decision on Kremlev, and the coverage contains no link between Kremlev and TKO, Dana White or the Ali Act revision. A documented gift between people the family calls friends is not evidence of a quid pro quo.
 
-Origin: a third-layer hunt from C76, which established the payments, the IB Challenger route, the repayment claim and the first responses. This report extends that work and does not repeat it.
+This is a third-layer check building on C76, which established the payments, the IB Challenger route, the repayment claim and the first responses. This report extends that work and does not repeat it.
 
 **Method note.** None of these sites was read directly: axios.com, occrp.org, iba.sport, tovima.com (FT syndication), pravda.com.ua, protothema.gr, liga.net and thesportsexaminer.com. Everything below therefore rests on search-result relays from several outlets, and each point is graded on that basis.
 

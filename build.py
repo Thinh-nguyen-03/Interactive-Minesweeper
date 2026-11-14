@@ -597,41 +597,88 @@ class Entities:
         return out
 
 
-def merge(index, claim_files, reports, base):
+def merge(index, claim_files, reports, base, topic_list):
     ents = Entities()
     rels = {}          # key -> relationship
     claim_ents = defaultdict(dict)   # cid -> {eid: inferred?}
     claims = {}
     order = []
 
-    # ---- claims: index first, then any claim file / report not in the index
+    # ---- topics, in display order
+    topics = []
+    for t in topic_list:
+        tid = slugify(t.get("id"))
+        if tid and tid not in {x["id"] for x in topics}:
+            topics.append({"id": tid, "name": cap_first(tidy(t.get("name"))) or title_from_id(tid),
+                           "description": tidy(t.get("description"))})
+    if not topics:
+        warn("data/topics.json not found or empty: using the built-in topic list")
+        topics = [{"id": i, "name": n, "description": d} for i, n, d, _ in TOPIC_FALLBACK]
+    topic_ids = {t["id"] for t in topics}
+
+    def guess_topic(text):
+        low, best, score = text.lower(), None, 0
+        for tid, _, _, rx in TOPIC_FALLBACK:
+            n = len(re.findall(rx, low))
+            if tid in topic_ids and n > score:
+                best, score = tid, n
+        return best or topics[-1]["id"]
+
+    # ---- items flagged hidden never reach the site: checks, sub-claims, entities, relationships
+    hidden = {str(c["id"]) for c in index if c.get("hidden")}
+    hidden |= {cid for cid, d in claim_files.items() if d.get("hidden")}
+    for d in list(claim_files.values()) + [base]:
+        for e in as_list(d.get("entities")):
+            if isinstance(e, dict) and e.get("id") and e.get("hidden"):
+                HIDDEN_ENTITIES.add(canon(e["id"]))
+
+    # ---- checks: index first, then any claim file / report not in the index
+    guessed = []
     for c in index:
         cid = str(c["id"])
-        claims[cid] = {"id": cid, "slug": clean_str(c.get("slug")),
-                       "title": clean_str(c.get("title")) or cid,
-                       "claim": clean_str(c.get("claim")), "lines": clean_str(c.get("lines")),
-                       "origin": origin_of(c.get("origin")),
+        if cid in hidden:
+            continue
+        title = tidy(c.get("display_title")) or clean_title(c.get("title")) or cid
+        topic = slugify(c.get("topic"))
+        if topic not in topic_ids:
+            if topic:
+                warn(f"{cid}: unknown topic {topic!r}")
+            topic = guess_topic(clean_str(c.get("title")) + " " + clean_str(c.get("claim")))
+            guessed.append(cid)
+        claims[cid] = {"id": cid, "slug": clean_str(c.get("slug")), "title": title,
+                       "has_display_title": bool(tidy(c.get("display_title"))),
+                       "question": tidy(c.get("question")), "topic": topic,
+                       "ctype": ctype_of(c.get("origin")),
                        "parents": [str(x) for x in as_list(c.get("parents")) if x]}
         order.append(cid)
     for cid in sorted(set(claim_files) | set(reports), key=claim_sort_key):
-        if cid not in claims:
+        if cid not in claims and cid not in hidden:
             d = claim_files.get(cid, {})
-            claims[cid] = {"id": cid, "slug": "", "title": clean_str(d.get("title")) or cid,
-                           "claim": clean_str(d.get("claim")), "lines": "",
-                           "origin": origin_of(d.get("origin")),
+            title = clean_title(d.get("title")) or cid
+            claims[cid] = {"id": cid, "slug": "", "title": title, "has_display_title": False,
+                           "question": "", "topic": guess_topic(title),
+                           "ctype": ctype_of(d.get("origin")),
                            "parents": [str(x) for x in as_list(d.get("parents")) if x]}
             order.append(cid)
+            guessed.append(cid)
             if cid not in claim_files:
                 warn(f"{cid}: report exists but claim is in neither the index nor data/claims/")
+    if guessed:
+        warn(f"{len(guessed)} check(s) have no topic in the index and were placed by keyword: " + " ".join(guessed))
+    no_title = [cid for cid in order if not claims[cid]["has_display_title"]]
+    if no_title:
+        warn(f"{len(no_title)} check(s) have no display_title in the index (working title used): " + " ".join(no_title))
+    no_q = [cid for cid in order if not claims[cid]["question"]]
+    if no_q:
+        warn(f"{len(no_q)} check(s) have no question in the index (title shown instead): " + " ".join(no_q))
     order.sort(key=claim_sort_key)
     for cid in order:
-        claims[cid]["claim"] = tidy(claims[cid]["claim"])
-        claims[cid]["claim_points"] = sentences(claims[cid]["claim"])
+        claims[cid]["question_points"] = sentences(claims[cid]["question"])
         kept = []
         for par in claims[cid]["parents"]:
             if par in claims and par != cid:
                 kept.append(par)
-            else:
+            elif par not in hidden:
                 warn(f"{cid}: unknown parent claim {par}")
         claims[cid]["parents"] = kept
 
@@ -642,11 +689,16 @@ def merge(index, claim_files, reports, base):
                      e.get("aliases"), "base-graph", authoritative=True)
 
     def add_rel(r, cid=None, origin=""):
-        if not isinstance(r, dict):
+        if not isinstance(r, dict) or r.get("hidden"):
             return
         s, t = canon(r.get("source")), canon(r.get("target"))
-        if not s or not t or s == t:
+        if not s or not t or s == t or is_hidden_entity(s) or is_hidden_entity(t):
             return
+        if BANNED.search(clean_str(r.get("label"))) and origin == "base-graph":
+            return                  # a line that only describes the original source
+        named = ([cid] if cid else []) + [str(x) for x in as_list(r.get("claims")) if x]
+        if named and all(c2 in hidden for c2 in named):
+            return                  # recorded only under an item that is not shown
         label = clean_label(r.get("label")) or "linked to"
         rtype = slugify(r.get("type")) or "commercial"
         if rtype not in REL_TYPES:
@@ -660,8 +712,8 @@ def merge(index, claim_files, reports, base):
         if rel is None:
             rel = rels[key] = {"source": s, "target": t, "label": label, "type": rtype,
                                "claims": [], "date": "", "amount_usd": None}
-        for c2 in ([cid] if cid else []) + [str(x) for x in as_list(r.get("claims"))]:
-            if c2 and c2 not in rel["claims"]:
+        for c2 in named:
+            if c2 and c2 not in hidden and c2 not in rel["claims"]:
                 rel["claims"].append(c2)
         d = r.get("date")
         if d and not rel["date"]:
@@ -681,8 +733,8 @@ def merge(index, claim_files, reports, base):
         c["report_file"] = rep[0] if rep else ""
         c["verified"] = bool(d)
         if d:
-            if clean_str(d.get("title")) and c["title"] == cid:
-                c["title"] = clean_str(d["title"])
+            if clean_title(d.get("title")) and c["title"] == cid:
+                c["title"] = clean_title(d["title"])
             c["verdict"] = norm_verdict(d.get("verdict"), f"in {cid}")
             c["confidence"] = slugify(d.get("confidence")) or ""
             c["summary"] = tidy(d.get("summary"))
@@ -695,7 +747,7 @@ def merge(index, claim_files, reports, base):
             for s in as_list(d.get("sub_claims")):
                 if isinstance(s, str):
                     s = {"statement": s}
-                if not isinstance(s, dict):
+                if not isinstance(s, dict) or s.get("hidden"):
                     continue
                 finding = tidy(s.get("finding"))
                 grade, points = split_grade(sentences(finding))
@@ -732,25 +784,26 @@ def merge(index, claim_files, reports, base):
             c["sources"] = srcs
             leads = []
             for l in as_list(d.get("leads")):
-                if isinstance(l, dict):
+                if isinstance(l, dict) and not l.get("hidden"):
                     leads.append({"title": cap_first(tidy(l.get("title"))),
                                   "why_connected": tidy(l.get("why_connected")),
                                   "why_points": sentences(l.get("why_connected")),
-                                  "entities": [canon(x) for x in as_list(l.get("entities")) if x],
+                                  "entities": [canon(x) for x in as_list(l.get("entities"))
+                                               if x and not is_hidden_entity(canon(x))],
                                   "source_url": clean_str(l.get("source_url"))})
             c["leads"] = leads
             for e in as_list(d.get("entities")):
-                if isinstance(e, dict) and e.get("id"):
+                if isinstance(e, dict) and e.get("id") and not e.get("hidden"):
                     eid = ents.add(e["id"], e.get("name"), e.get("type"), e.get("description"),
                                    e.get("aliases"), cid)
                     if eid:
                         claim_ents[cid][eid] = False
             for r in as_list(d.get("relationships")):
                 add_rel(r, cid, cid)
-                if isinstance(r, dict):
-                    for k in ("source", "target"):
-                        eid = canon(r.get(k))
-                        if eid:
+                if isinstance(r, dict) and not r.get("hidden"):
+                    ends = [canon(r.get(k)) for k in ("source", "target")]
+                    if all(ends) and not any(is_hidden_entity(e) for e in ends):
+                        for eid in ends:
                             claim_ents[cid].setdefault(eid, False)
         else:
             c.update({"verdict": "pending", "confidence": "", "summary": "", "bottom_line": "", "bottom_parts": [],
@@ -777,11 +830,12 @@ def merge(index, claim_files, reports, base):
         for cid, ids in ce.items():
             cid = str(cid)
             if cid not in claims:
-                warn(f"base-graph claim_entities: unknown claim {cid}")
+                if cid not in hidden:
+                    warn(f"base-graph claim_entities: unknown claim {cid}")
                 continue
             for raw in as_list(ids):
                 eid = canon(raw)
-                if not eid:
+                if not eid or is_hidden_entity(eid):
                     continue
                 if eid not in ents.by_id:
                     ents.add(eid, origin="base-graph claim_entities")
@@ -796,7 +850,7 @@ def merge(index, claim_files, reports, base):
                 kept.append(cid)
                 claim_ents[cid].setdefault(rel["source"], False)
                 claim_ents[cid].setdefault(rel["target"], False)
-            else:
+            elif cid not in hidden:
                 warn(f"relationship {rel['source']} -> {rel['target']}: unknown claim {cid}")
         rel["claims"] = sorted(kept, key=claim_sort_key)
 
@@ -809,8 +863,11 @@ def merge(index, claim_files, reports, base):
                     warn(f"{cid} lead {l['title'][:40]!r}: entity {e} is not defined anywhere (shown as text)")
 
     entities = ents.finish()
+    # a name left with no check and no relationship (its only mentions were hidden) is not shown
+    linked = {e for m in claim_ents.values() for e in m} | {x for r in rels.values() for x in (r["source"], r["target"])}
+    entities = {eid: e for eid, e in entities.items() if eid in linked}
     for eid in sorted(dangling):
-        if entities[eid]["stub"]:
+        if eid in entities and entities[eid]["stub"]:
             warn(f"dangling entity id {eid!r}: referenced but never defined (stub node created)")
 
     # ---- claims still without any entity: infer from names in the claim text
@@ -823,7 +880,7 @@ def merge(index, claim_files, reports, base):
     for cid in order:
         if claim_ents[cid]:
             continue
-        text = claims[cid]["title"] + ". " + claims[cid]["claim"]
+        text = claims[cid]["title"] + ". " + claims[cid]["question"]
         for n, eid in name_index:
             if re.search(r"(?<![A-Za-z0-9])" + re.escape(n) + r"(?![A-Za-z0-9])", text):
                 claim_ents[cid].setdefault(eid, True)
@@ -843,27 +900,30 @@ def merge(index, claim_files, reports, base):
             cid = str(cid)
             if cid in claims:
                 tclaims.append(cid)
-            else:
+            elif cid not in hidden:
                 warn(f"theme {tid}: unknown claim {cid}")
         for raw in as_list(t.get("entities")):
             eid = canon(raw)
             if eid in entities:
                 tents.append(eid)
-            else:
+            elif not is_hidden_entity(eid):
                 warn(f"theme {tid}: unknown entity {raw}")
+        if not tclaims or t.get("hidden"):
+            continue
+        desc = scrub(t.get("description"), f"theme {tid}")
         themes.append({"id": tid, "name": cap_first(clean_name(t.get("name"))) or title_from_id(tid),
-                       "description": tidy(t.get("description")),
-                       "points": sentences(t.get("description")),
+                       "description": desc,
+                       "points": sentences(desc),
                        "claims": sorted(set(tclaims), key=claim_sort_key),
                        "entities": sorted(set(tents))})
 
-    return claims, order, entities, list(rels.values()), claim_ents, themes
+    return claims, order, entities, list(rels.values()), claim_ents, themes, topics
 
 
 # --------------------------------------------------------------------------
 # Graph assembly
 # --------------------------------------------------------------------------
-def assemble(claims, order, entities, rels, claim_ents, themes):
+def assemble(claims, order, entities, rels, claim_ents, themes, topics):
     used = set(c.lower() for c in order)
     nodes = []
     key_of = {}
@@ -937,15 +997,14 @@ def assemble(claims, order, entities, rels, claim_ents, themes):
             "generated": date.today().isoformat(),
             "claims": len(order),
             "verified": sum(1 for c in order if claims[c]["verified"]),
-            "video_claims": sum(1 for c in order if claims[c]["origin"] == "video"),
-            "followups": sum(1 for c in order if claims[c]["origin"] == "follow-up"),
-            "connection_hunts": sum(1 for c in order if claims[c]["origin"] == "connection-hunt"),
+            "checks": sum(1 for c in order if claims[c]["ctype"] == "check"),
+            "connection_checks": sum(1 for c in order if claims[c]["ctype"] == "connection"),
+            "topics": [dict(t) for t in topics],
             "entities": len(entities),
             "themes": len(themes),
             "relationships": len(rel_out),
             "tally": {v: tally.get(v, 0) for v in VERDICTS},
             "verdicts": VERDICTS, "entity_types": ENTITY_TYPES, "rel_types": REL_TYPES,
-            "source": "Coffeezilla, \u201cInvestigating The President\u201d",
         },
         "nodes": nodes,
         "links": links,
@@ -961,17 +1020,6 @@ def assemble(claims, order, entities, rels, claim_ents, themes):
 # --------------------------------------------------------------------------
 HOLDS_UP = ("confirmed", "mostly-accurate")
 NEEDS_CORRECTING = ("partly-accurate", "misleading", "false")
-
-# The 30 video claims in the order the video makes them, in plain chapters.
-CHAPTERS = [
-    ("Meme coins", 1, 3),
-    ("World Liberty Financial and its backers", 4, 7),
-    ("The UAE, Binance and the stablecoin laws", 8, 13),
-    ("Family, envoys and merchandise", 14, 17),
-    ("Bitcoin, Trump Media and the markets", 18, 24),
-    ("Prediction markets, defence and deal vehicles", 25, 28),
-    ("The big picture", 29, 30),
-]
 
 # Sentences that say something is not shown.  They are listed under "what is
 # unproven" as well as where they stand, so a caveat is never only in the small print.
@@ -1083,6 +1131,63 @@ def merge_lines(rels, unverified):
     return out
 
 
+# ---- who is involved: the entry point for people on the home page ---------
+_OFFICIAL = re.compile(
+    r"(?i)\b(secretary|attorney general|deputy ag|acting ag|special envoy|envoy to|chief of staff|czar|"
+    r"(sec|cftc|fcc|ftc|occ|fed|fhfa) (chair|chairman|chief|nominee|commissioner|director)|"
+    r"chair(man)? of the (sec|cftc|fcc|ftc)|trump-appointed|white house (counsel|adviser|advisor|aide|official)|"
+    r"director of national intelligence|administrator|comptroller|ambassador|senior adviser to the president)\b")
+_NOT_OFFICIAL = re.compile(r"(?i)\b(senator|sen\.|representative|rep\.|congress(wo)?man|ranking member|democrat\w*|"
+                           r"journalist|reporter|researcher|writer|professor|watchdog|biden|obama|"
+                           r"foreign minister|prime minister|emir|crown prince|sheikh|king)\b")
+_NOT_PARTNER = re.compile(r"(?i)\b(senator|sen\.|representative|rep\.|congress(wo)?man|ranking member|journalist|reporter|"
+                          r"researcher|writer|author|professor|watchdog|judge|prosecutor|spokes\w+|whistleblower)\b")
+_FOREIGN = re.compile(r"(?i)\b(uae|emirat\w+|abu dhabi|dubai|saudi\w*|qatar\w*|kuwait\w*|bahrain\w*|oman\w*|"
+                      r"sovereign wealth|sovereign fund|pakistan\w*|serbia\w*|albania\w*|vietnam\w*|indonesia\w*|"
+                      r"kazakh\w*|azerbaijan\w*|chinese|china|russia\w*|india\w*)\b")
+_US_BODY = re.compile(r"(?i)\b(u\.?s\.?|united states|america\w*|federal|white house|pentagon|trump|kushner)\b")
+
+
+def who_groups(entities, lines, key_of, per=6):
+    """The most-named people and bodies in four plain groups, derived from types, relationships and roles."""
+    by_ent = defaultdict(list)
+    for r in lines:
+        by_ent[r["s"]].append(r)
+        by_ent[r["t"]].append(r)
+    rank = lambda e: (-e.get("claim_count", 0), -e["degree"], e["name"])
+    people = [e for e in entities if e["type"] == "person" and not e.get("unverified_only")
+              and not re.search(r"(?i)\b(investors|supporters|buyers|holders|family|donors)\b", e["name"])]
+    text = lambda e: " ".join([e["name"], e.get("role") or ""] + list(e.get("details") or []) + list(e.get("more") or []))
+    trump = key_of.get("e:donald-trump")
+    family = set()
+    if trump:
+        family.add(trump["key"])
+        for r in by_ent[trump["key"]]:
+            if r["type"] == "family":
+                other = key_of[r["t"] if r["s"] == trump["key"] else r["s"]]
+                if other["type"] == "person":
+                    family.add(other["key"])
+    family |= {e["key"] for e in people if re.search(r"\bTrump\b", e["name"])}
+    fam = sorted((e for e in people if e["key"] in family), key=lambda e: (e["id"] != "donald-trump",) + rank(e))
+    officials = sorted((e for e in people if e["key"] not in family and _OFFICIAL.search(e.get("role") or "")
+                        and not _NOT_OFFICIAL.search(e.get("role") or "")), key=rank)
+    taken = family | {e["key"] for e in officials}
+    partners = sorted((e for e in people if e["key"] not in taken and not _NOT_PARTNER.search(e.get("role") or "")
+                       and not _OFFICIAL.search(e.get("role") or "")
+                       and sum(1 for r in by_ent[e["key"]] if r["type"] in ("money", "ownership", "commercial")) >= 2), key=rank)
+    foreign = sorted((e for e in entities if not e.get("unverified_only") and (
+        (e["type"] == "country" and e["id"] not in ("united-states", "usa", "us", "america"))
+        or (e["type"] in ("fund", "government", "company") and _FOREIGN.search(e["name"] + " " + (e.get("role") or ""))
+            and not _US_BODY.search(e["name"]) and (e["type"] != "company" or re.search(
+                r"(?i)sovereign|state[- ](owned|backed|linked|fund|investment)|government", e.get("role") or ""))))
+        and any(r["type"] in ("money", "ownership", "commercial") for r in by_ent[e["key"]])), key=rank)
+    groups = [("family", "Trump family", fam), ("officials", "Administration officials", officials),
+              ("partners", "Business partners and investors", partners),
+              ("foreign", "Foreign governments and funds", foreign)]
+    return [{"id": gid, "title": title, "names": [e["id"] for e in grp[:per]], "total": len(grp)}
+            for gid, title, grp in groups if grp]
+
+
 def date_key(d):
     """Sortable form of the loose dates in the data (2025, 2025-03, 2025-Q2, 2025-03/2025-07, 2025-spring)."""
     d = str(d or "").split("/")[0]
@@ -1099,12 +1204,13 @@ def date_key(d):
 
 # ---- map layout -----------------------------------------------------------
 # A force layout computed here so the map appears at once and looks the same on
-# every visit.  The video claims are held on a ring in video order; everything
-# else settles between the claims that name it.  The result is cached by the
-# shape of the graph, so editing text does not move the map.
-RING = 1500
+# every visit.  The checks are held on a ring, grouped into one arc per topic;
+# every name settles between the checks that mention it.  The result is cached by
+# the shape of the graph, so editing text does not move the map.
+RING = 1600
+RING_GAP = 1.8          # empty slots between two topic arcs
 LAYOUT_CACHE = ROOT / ".layout-cache.json"
-LAYOUT_VERSION = 5
+LAYOUT_VERSION = 7
 
 
 def layout_pairs(graph):
@@ -1122,19 +1228,31 @@ def layout_pairs(graph):
 
 
 def ring_targets(graph):
-    video = [i for i, n in enumerate(graph["nodes"]) if n["kind"] == "claim" and n["origin"] == "video"]
-    out = {}
-    for j, i in enumerate(video):
-        a = -math.pi / 2 + 2 * math.pi * (j + 0.5) / len(video)
-        out[i] = (RING * math.cos(a), RING * math.sin(a))
-    return out
+    """Position on the ring for every check, and the arc each topic covers (written into meta.topics)."""
+    idx = {n["key"]: i for i, n in enumerate(graph["nodes"])}
+    topics = [t for t in graph["meta"]["topics"] if t.get("claims")]
+    slots = sum(len(t["claims"]) for t in topics) + RING_GAP * len(topics)
+    out, pos = {}, RING_GAP / 2
+    for t in topics:
+        step = 2 * math.pi / slots
+        t["a0"] = round(-math.pi / 2 + (pos + 0.15) * step, 4)
+        for cid in t["claims"]:
+            a = -math.pi / 2 + (pos + 0.5) * step
+            out[idx[cid]] = (RING * math.cos(a), RING * math.sin(a))
+            pos += 1
+        t["a1"] = round(-math.pi / 2 + (pos - 0.15) * step, 4)
+        pos += RING_GAP
+    return out, slots
 
 
 def compute_layout(graph):
     nodes = graph["nodes"]
     n = len(nodes)
     pairs = layout_pairs(graph)
-    sig = hashlib.sha1(json.dumps([LAYOUT_VERSION, [x["key"] for x in nodes], sorted(pairs.items())],
+    targets, slots = ring_targets(graph)
+    graph["meta"]["ring_slots"] = slots
+    sig = hashlib.sha1(json.dumps([LAYOUT_VERSION, [x["key"] for x in nodes], sorted(pairs.items()),
+                                   sorted((i, round(t[0]), round(t[1])) for i, t in targets.items())],
                                   separators=(",", ":")).encode()).hexdigest()
     cached = load_json(LAYOUT_CACHE, {}) if LAYOUT_CACHE.exists() else {}
     if isinstance(cached, dict) and cached.get("sig") == sig and len(cached.get("xy", [])) == n:
@@ -1147,7 +1265,6 @@ def compute_layout(graph):
     kind = [x["kind"] for x in nodes]
     rad = [3.2 + 1.5 * math.sqrt(deg[i]) if kind[i] == "entity" else
            8 + 0.9 * math.sqrt(deg[i]) if kind[i] == "claim" else 9 + 1.1 * math.sqrt(deg[i]) for i in range(n)]
-    targets = ring_targets(graph)
     x, y = [0.0] * n, [0.0] * n
     for rank, i in enumerate(sorted(range(n), key=lambda i: (-deg[i], nodes[i]["key"]))):
         r, a = 15 * math.sqrt(rank + 0.5), rank * 2.399963
@@ -1252,7 +1369,7 @@ def compute_layout(graph):
         collide()
         for i in range(n):
             t = targets.get(i)
-            if t:                       # the video claims stay on the ring
+            if t:                       # the checks stay on the ring
                 x[i], y[i], vx[i], vy[i] = t[0], t[1], 0.0, 0.0
                 continue
             vx[i] += -x[i] * 0.02 * alpha
@@ -1280,7 +1397,7 @@ def enrich(graph, neigh, key_of):
     for c in claims:
         holds, fix, unp = [], [], []
         for i, s in enumerate(c["sub_claims"]):
-            s["grade_kind"] = grade_kind(s["grade"], s["points"]) if (c["origin"] == "connection-hunt" or s["grade"]) else ""
+            s["grade_kind"] = grade_kind(s["grade"], s["points"]) if (c["ctype"] == "connection" or s["grade"]) else ""
             (holds if s["verdict"] in HOLDS_UP else fix if s["verdict"] in NEEDS_CORRECTING else unp).append({"sub": i})
         tally = [len(holds), len(fix), len(unp)]
         fix += [{"fix": j} for j in range(len(c["corrections"]))]
@@ -1306,20 +1423,13 @@ def enrich(graph, neigh, key_of):
         points["correct"] += tally[1]
         points["unproven"] += tally[2]
 
-    # ---- chapters for the video claims
-    video = [c for c in claims if c["origin"] == "video"]
-    chapters, placed = [], set()
-    for title, lo, hi in CHAPTERS:
-        ids = [c["id"] for c in video if lo <= c["number"] <= hi]
-        if ids:
-            chapters.append({"title": title, "claims": ids})
-            placed.update(ids)
-    rest = [c["id"] for c in video if c["id"] not in placed]
-    if rest:
-        chapters.append({"title": "Other claims in the video", "claims": rest})
-    for ci, ch in enumerate(chapters):
-        for cid in ch["claims"]:
-            key_of[cid]["chapter"] = ci
+    # ---- topics: the checks under each, and how they came out
+    for t in meta["topics"]:
+        mine = [c for c in claims if c["topic"] == t["id"]]
+        t["claims"] = [c["id"] for c in mine]
+        tv = Counter(c["verdict"] for c in mine)
+        t["tally"] = {v: tv[v] for v in VERDICTS if tv[v]}
+    meta["topics"] = [t for t in meta["topics"] if t["claims"]]
 
     # ---- relationships: one line per fact, however many claims restate it
     lines = merge_lines(graph["rels"], unverified)
@@ -1349,9 +1459,8 @@ def enrich(graph, neigh, key_of):
     meta["corrections"] = sum(len(c["corrections"]) for c in claims)
     meta["sources"] = sum(len(c["sources"]) for c in claims)
     meta["second_reviewed"] = sum(1 for c in claims if c.get("audit"))
-    meta["tally_by_origin"] = {o: tally_of([c for c in claims if c["origin"] == o])
-                               for o in ("video", "follow-up", "connection-hunt")}
-    meta["chapters"] = chapters
+    meta["tally_by_kind"] = {o: tally_of([c for c in claims if c["ctype"] == o]) for o in ("check", "connection")}
+    meta["who"] = who_groups(entities, lines, key_of)
     meta["unverified"] = sorted(unverified, key=claim_sort_key)
     meta["lines"] = len(lines)
 
@@ -1363,7 +1472,8 @@ def enrich(graph, neigh, key_of):
     meta["ring"] = RING
 
 
-_DROP_CLAIM = ("summary", "claim", "denials_and_context", "slug", "report_file", "verified")
+_DROP_CLAIM = ("summary", "question", "has_display_title", "denials_and_context", "slug", "report_file", "verified",
+               "lines", "origin", "claim", "claim_points")
 _DROP_ENTITY = ("description", "stub")
 
 

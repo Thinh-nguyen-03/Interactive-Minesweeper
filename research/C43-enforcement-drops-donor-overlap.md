@@ -5,7 +5,7 @@
 The overlap is documented and large. The SEC eased about 60% of the crypto cases it inherited, and many of the firms that benefited donated to Trump or did business with his family. Causation is not shown. Firms with no known Trump ties got the same treatment. The NYT found no evidence of direct pressure. The SEC and its chair deny any political influence.
 
 ## The claim
-This check builds on C23 (parents C22 and C09). It covers five items:
+This check builds on C23 (which builds on C22 and C09). It covers five items:
 - the NYT "about 60%" analysis;
 - Robinhood's closed SEC crypto probe;
 - Public Citizen's tracker;

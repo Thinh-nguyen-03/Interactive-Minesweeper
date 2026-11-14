@@ -67,7 +67,7 @@
     {
       "statement": "Todd Boehly, a Trump donor, leads a bid for Lukoil's foreign assets in which a federal agency (DFC) would take equity.",
       "verdict": "mostly-accurate",
-      "finding": "Evidence grade: documented donations; consortium single-source (FT, relayed by several outlets). Eldridge Industries (Boehly) gave $1M to Trump's inaugural. NBC's FEC analysis lists Boehly among new $1M+ MAGA Inc. donors after the 2024 election, but the exact amount and date could not be confirmed because the article was not fetchable. The FT reported in September 2026 that Boehly's consortium for Lukoil International includes Tahnoon-chaired IHC, the Qatari Al-Khayyat family and the U.S. DFC, which would take a reported mid-teens equity stake. As of the latest OFAC extension (2026-10-21), the license runs to 2026-11-21 and covers negotiations only. No deal was signed and no DFC commitment was announced. Nothing has been realised. C76 covers the Witkoff/Kushner side and their denials.",
+      "finding": "Evidence grade: documented donations; consortium single-source (FT, relayed by several outlets). Eldridge Industries (Boehly) gave $1M to Trump's inaugural. NBC's FEC analysis lists Boehly among new $1M+ MAGA Inc. donors after the 2024 election, but the exact amount and date could not be confirmed because the article was not read directly. The FT reported in September 2026 that Boehly's consortium for Lukoil International includes Tahnoon-chaired IHC, the Qatari Al-Khayyat family and the U.S. DFC, which would take a reported mid-teens equity stake. As of the latest OFAC extension (2026-10-21), the license runs to 2026-11-21 and covers negotiations only. No deal was signed and no DFC commitment was announced. Nothing has been realised. C76 covers the Witkoff/Kushner side and their denials.",
       "sources": [
         "https://frontofficesports.com/trump-inauguration-sports-donations",
         "https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867",
@@ -1291,7 +1291,7 @@
     },
     {
       "title": "Agency answers to the House Natural Resources donor-equity question",
-      "why_connected": "The Feb 2026 letter asked agencies outright whether Trump donors hold equity in stake companies; any reply would settle this hunt.",
+      "why_connected": "The Feb 2026 letter asked agencies outright whether Trump donors hold equity in stake companies; any reply would settle this question.",
       "entities": [
         "house-natural-resources-democrats",
         "us-commerce-department",

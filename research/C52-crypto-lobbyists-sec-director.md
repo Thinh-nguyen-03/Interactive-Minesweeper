@@ -14,7 +14,7 @@ Three things remain unverified:
 - any causal link between lobbying or donations and regulatory outcomes.
 
 ## The claim
-This check builds on C43, C22 and C23. The parent files already established:
+This check builds on C43, C22 and C23. The earlier checks already established:
 - the SEC closing Crypto.com's probe (2025-03-27);
 - the dismissals of Kraken, Coinbase and Binance (C23);
 - AP's report on Crypto.com and Jeff Miller (C43);

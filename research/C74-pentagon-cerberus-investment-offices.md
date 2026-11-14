@@ -4,7 +4,7 @@
 
 Builds on: C65 (sub-claim on Feinberg and Cerberus), C51 (drone ventures, OSC drone loans), C26 (1789 and Vulcan), and C47 and C27 (Dominari, D. Boral and the New America SPAC). This report does not repeat facts those files already establish. It extends them.
 
-## What we found that the parent files did not have
+## What we found that the earlier checks did not have
 
 1. **The D. Boral SPAC board puts Kollitides beside Kevin McGurn, the Trump sons' SPAC CEO.** *Documented: Bloomberg Government plus D. Boral Acquisition I 8-K filings.*
    - Bloomberg Government reported that D. Boral Acquisition I (Nasdaq: DBCA, a Cayman SPAC) appointed Kollitides, Kevin McGurn and Luisa Ingargiola as directors. Kollitides joined on Feb. 10, 2026, days after taking his Pentagon post. He took an indirect interest in 100,000 founder shares, which Bloomberg valued at up to about $1M.

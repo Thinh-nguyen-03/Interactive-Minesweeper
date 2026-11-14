@@ -14,20 +14,20 @@ Three parts of the claim are weaker:
 - **No inquiry or lawsuit.** No SEC, FINRA or Nasdaq inquiry and no filed shareholder suit were found.
 - **The pattern does not generalise.** Of the comparators, only Unusual Machines (documented) and SRM/Tron (single source) show a run-up before the announcement. Thumzup and Gryphon do not.
 
-The hunt also found a new layer: three further Trump Organization executives are Dominari shareholders, and two of them also sit on a Yorkville SPAC board.
+This check also found a new layer: three further Trump Organization executives are Dominari shareholders, and two of them also sit on a Yorkville SPAC board.
 
 **Access note.** sec.gov, panabee.com, quantisnow.com and equibles.com could not be read directly. Filing details below come from search-result excerpts of the filings and from secondary coverage, cross-checked where possible.
 
 ## The claim
 
-This is a third-layer hunt from C39. An analysis cited in C39's leads alleges three things:
+This is a third-layer check building on C39. An analysis cited in C39's leads alleges three things:
 - 10M options were granted on Feb. 10, 2025, the day before the announcement.
 - The stock rose about 530-580% in the six weeks before.
 - Executives were paid about $66M for 2025.
 
 This check looks at the proxy statement and Form 4s, establish who traded, look for any inquiry or lawsuit, and compare Unusual Machines, Thumzup, Gryphon and SRM/Tron.
 
-The parents already establish:
+The earlier checks already establish:
 - the sons' stakes (about 6.7% each), the Trump Tower base, and the 84% jump on the announcement day (C39);
 - the SRM/Tron deal, the House China committee letter and the FINRA fine on Revere (C47);
 - Wool's takeover of the New America SPAC (C78).

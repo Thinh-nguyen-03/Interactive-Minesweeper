@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-**Origin:** follow-up lead from C39 (Dominari and the Trump sons), with C05 (Justin Sun) and C27 (New America SPAC) as parents. The claim is a research lead, not a quote.
+**Builds on:** C39 (Dominari and the Trump sons), with C05 (Justin Sun) and C27 (New America SPAC).
 
 ## Summary
 

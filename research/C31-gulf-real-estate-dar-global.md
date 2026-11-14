@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-The pattern described in the lead is real and well documented. The Trump Organization has a string of Trump-branded tower, hotel and golf licensing deals in the Gulf, nearly all with Dar Global, the London-listed international arm of Saudi developer Dar Al Arkan. They are worth tens of millions of dollars a year in fees. The claim overreaches on two points:
+The pattern described in the claim is real and well documented. The Trump Organization has a string of Trump-branded tower, hotel and golf licensing deals in the Gulf, nearly all with Dar Global, the London-listed international arm of Saudi developer Dar Al Arkan. They are worth tens of millions of dollars a year in fees. The claim overreaches on two points:
 
 - **Timing.** Several deals predate the 2024 election.
 - **The pledge.** The "no new foreign deals" pledge was a first-term policy. The January 2025 second-term policy explicitly allows deals with private foreign companies.
@@ -12,8 +12,8 @@ No Abu Dhabi deal has been announced.
 *Method note:* the original pages at thenationalnews.com, citizensforethics.org, forbes.com, pbs.org and wikipedia.org were not read directly. The research ended before I could check the Diriyah landowner and the Oman land question further. Findings rely on search-result summaries across several outlets.
 
 ## The claim
-- Line 55 (a person quoted by the video): "there's a brand new hotel going up in Dubai or Abu Dhabi. That stuff kind of worries me."
-- Line 861: the Trump portfolio "has exploded since 2025, not just with Middle Eastern golf deals."
+- Claimed: "there's a brand new hotel going up in Dubai or Abu Dhabi. That stuff kind of worries me."
+- Claimed: the Trump portfolio "has exploded since 2025, not just with Middle Eastern golf deals."
 - The Qatar golf deal itself is fact-checked in C16. Kushner/Affinity and the Saudi PIF are in C15.
 
 ## The deals (as documented)
@@ -42,7 +42,7 @@ Status updates on the Dubai tower:
 2. **Dubai, Jeddah/Riyadh, Oman, Qatar, possibly others.** Verdict: *mostly-accurate*.
    - All five locations are confirmed.
    - Abu Dhabi is unverified. Eric Trump said in December 2024 "We'll probably be in Abu Dhabi in the next year or so", and Gulf News reported "pretty serious" talks in 2025, but I found no deal.
-   - The video's "Dubai or Abu Dhabi" hotel is the Dubai tower.
+   - The "Dubai or Abu Dhabi" hotel in the claim is the Dubai tower.
 3. **Largely via Dar Global.** Verdict: *confirmed*. Dar Global is the developer or co-developer on every Gulf project above.
 4. **Values.** Verdict: *confirmed*, with a caveat. These are developer-stated headline figures, not money paid to the Trumps.
 5. **Fees to the Trumps.** Verdict: *mostly-accurate*.
@@ -63,7 +63,7 @@ Status updates on the Dubai tower:
 ## Corrections
 - Not all the deals are post-election: Oman (2022), Trump Tower Jeddah (Jul 2024) and the first Dubai announcement (Jul 2024) predate it.
 - The first-term pledge does not govern the second term. The current policy permits these deals.
-- The video's "Dubai or Abu Dhabi" hotel is Dubai. No Abu Dhabi deal exists yet.
+- The "Dubai or Abu Dhabi" hotel in the claim is Dubai. No Abu Dhabi deal exists yet.
 - The Qatar $5.5B is the masterplan value.
 
 ## Denials and other side

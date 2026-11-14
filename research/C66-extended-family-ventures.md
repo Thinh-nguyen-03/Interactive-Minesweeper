@@ -111,7 +111,7 @@ Everyone named denies wrongdoing; the specific denials are recorded under each c
 4. Africa Confidential, "US lawmakers demand 'clarity' on minerals' role in peace talks", 2025. https://www.africa-confidential.com/article/id/15508/us-lawmakers-demand-%e2%80%98clarity%27-on-minerals%27-role-in-peace-talks
 5. The Africa Report, Boulos profile, 2025. https://www.theafricareport.com/398241/from-congo-to-sudan-time-is-running-out-for-trumps-africa-dealmaker-massad-boulos/
 6. KIVU Today (relaying Tablet), 2025. https://kivutoday.com/the-hidden-war-behind-the-rwanda-congo-peace-deal-who-really-wanted-congos-minerals/
-7. Tablet, Armin Rosen, "Family Business" (fetch blocked; known from search summaries), 2025. https://www.tabletmag.com/sections/news/articles/family-business-armin-rosen
+7. Tablet, Armin Rosen, "Family Business" (original not read; known from search summaries), 2025. https://www.tabletmag.com/sections/news/articles/family-business-armin-rosen
 8. Naharnet (relaying NYT), 2024-12-13. https://www.naharnet.com/stories/en/309825-new-york-times-questions-whether-trump-s-mideast-adviser-boulos-is-truly-a-billionaire
 9. Mediaite (relaying NYT), 2024-12-12. https://www.mediaite.com/politics/trump/nyt-reports-trump-administration-pick-and-tiffany-trump-father-in-law-is-not-as-rich-as-he-claims/
 10. Business Insider, 2024-12. https://www.businessinsider.nl/massad-boulos-hailed-as-a-billionaire-lawyer-advising-trump-on-middle-east-policy-probably-isnt-a-lawyer-or-a-billionaire/

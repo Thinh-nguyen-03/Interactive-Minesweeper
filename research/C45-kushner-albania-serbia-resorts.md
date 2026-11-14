@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-## The lead
+## The claim
 
 This check builds on C15, C37 and C31. The claim: Jared Kushner's Affinity Partners is pursuing a luxury resort on Albania's Sazan island and the Zvernec coast, plus a Belgrade development on the former army HQ site. Both need foreign-government approvals while Kushner acts as a US envoy. Also covered: Rep. Raskin's probe, right-wing criticism such as Candace Owens's, any Trump branding, deal terms, concessions, status (Belgrade reportedly collapsed amid a forgery probe) and denials.
 
@@ -10,7 +10,7 @@ Method note: the original pages at npr.org, intellinews.com, democrats-judiciary
 
 ## Summary
 
-The core of the lead is documented. In Dec 2024 Albania granted a Kushner-linked company strategic-investor status for a roughly EUR 1.4B Sazan island resort. It had already passed a Feb 2024 law opening protected areas to "strategic" tourism. In spring 2026 it gave preliminary approval to a larger Zvernec/Vjosa-Narta project, which set off a mass protest movement. Both projects still await approvals while Kushner serves as Trump's envoy.
+The core of the claim is documented. In Dec 2024 Albania granted a Kushner-linked company strategic-investor status for a roughly EUR 1.4B Sazan island resort. It had already passed a Feb 2024 law opening protected areas to "strategic" tourism. In spring 2026 it gave preliminary approval to a larger Zvernec/Vjosa-Narta project, which set off a mass protest movement. Both projects still await approvals while Kushner serves as Trump's envoy.
 
 The Belgrade General Staff project is confirmed. It came with a 99-year rent-free lease and a Nov 2025 special law, and it was to carry the Trump brand under licence. It collapsed on 15 Dec 2025, hours after prosecutors indicted the culture minister and other officials for forging the documents that lifted the site's heritage protection.
 

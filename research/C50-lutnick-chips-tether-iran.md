@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-Parents: C35 (Lutnick, Cantor and Tether) and C08 (UAE chips and Stargate). This is a follow-up lead the video did not cover. C35 already established the Cantor custody of Tether's reserves, the $600M convertible bond, the May 2025 transfer to the children's trusts and the Bloomberg report of the Tether loan, so this report does not repeat them.
+Builds on: C35 (Lutnick, Cantor and Tether) and C08 (UAE chips and Stargate). C35 already established the Cantor custody of Tether's reserves, the $600M convertible bond, the May 2025 transfer to the children's trusts and the Bloomberg report of the Tether loan, so this report does not repeat them.
 
 ## Summary
 

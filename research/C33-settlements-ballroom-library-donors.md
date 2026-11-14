@@ -2,9 +2,9 @@
 
 **Verdict: mostly accurate (confidence: high on amounts and recipients; low on any documented causal regulatory benefit)**
 
-The video touches it once (transcript line 655), when Molly White says crypto exchanges "have sponsored the ballroom that Trump wants to build." This check asks whether companies with business before the government paid entities linked to Trump. It lists the settlement amounts, the recipients, the ballroom donors, and any regulatory outcome that followed.
+The researcher Molly White has said that crypto exchanges "have sponsored the ballroom that Trump wants to build." This check asks whether companies with business before the government paid entities linked to Trump. It lists the settlement amounts, the recipients, the ballroom donors, and any regulatory outcome that followed.
 
-**Method note:** Direct fetches failed. Wikipedia could not be read directly, and many news sites block fetching. The findings below come from search-result summaries that agree across several outlets, including AP syndications, CBS News, NPR, Al Jazeera, Variety, Bloomberg Law and The Block. They also draw on primary documents from Senator Elizabeth Warren's office and Public Citizen. The research ended before two lines of inquiry were finished:
+**Method note:** Most original pages, including Wikipedia and many news sites, were not read directly. The findings below come from search-result summaries that agree across several outlets, including AP syndications, CBS News, NPR, Al Jazeera, Variety, Bloomberg Law and The Block. They also draw on primary documents from Senator Elizabeth Warren's office and Public Citizen. The research ended before two lines of inquiry were finished:
 - any settlements made in 2026;
 - the regulatory outcomes for Tether and the Winklevoss twins.
 

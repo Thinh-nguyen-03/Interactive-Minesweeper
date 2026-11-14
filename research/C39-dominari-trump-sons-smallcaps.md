@@ -2,7 +2,7 @@
 
 **Verdict:** mostly accurate (medium-high confidence)
 
-**Summary.** The core of the lead holds up. Donald Trump Jr. and Eric Trump joined the advisory board of Dominari Holdings (Nasdaq: DOMH), a Trump Tower-based investment bank and broker, on Feb. 10-11, 2025. Each took about a 6.7% stake (roughly 13% combined), and the stock soared. Dominari co-formed American Data Centers with them; that company became American Bitcoin. Dominari Securities co-led the IPO of New America Acquisition I, whose advisory board includes its president Kyle Wool. The same bank arranged deals for Unusual Machines, Thumzup and SRM/Tron Inc.
+**Summary.** The core of the claim holds up. Donald Trump Jr. and Eric Trump joined the advisory board of Dominari Holdings (Nasdaq: DOMH), a Trump Tower-based investment bank and broker, on Feb. 10-11, 2025. Each took about a 6.7% stake (roughly 13% combined), and the stock soared. Dominari co-formed American Data Centers with them; that company became American Bitcoin. Dominari Securities co-led the IPO of New America Acquisition I, whose advisory board includes its president Kyle Wool. The same bank arranged deals for Unusual Machines, Thumzup and SRM/Tron Inc.
 
 Two parts of the claim overreach:
 - **The "Trump son arrives, stock spikes" pattern is not general.** It fits Dominari and Unusual Machines, and in both cases most of the run-up came *before* the public announcement. It does not fit Thumzup, which fell about 14% when Don Jr.'s stake was disclosed, or GrabAGun, which lost about 30% in its first two trading days.

@@ -141,7 +141,7 @@ This is a third-layer connection check. It builds on C49 (the pardon market), C6
 14. NC Department of Insurance, Causey letter, 2025-12-23. https://www.ncdoi.gov/news/press-releases/2025/12/23/commissioner-causey-urges-president-trump-not-pardon-greg-lindberg
 15. NC Newsline, 2025-12-24. https://ncnewsline.com/2025/12/24/nc-insurance-commissioner-urges-trump-not-to-pardon-convicted-felon-greg-lindberg/
 16. Insurance Journal, 2026-01-09. https://www.insurancejournal.com/news/southeast/2026/01/09/853762.htm
-17. Taiwan News, I-Mei signs Javelin (not fetchable; date unknown). https://www.taiwannews.com.tw/news/6263884
+17. Taiwan News, I-Mei signs Javelin (original not read; date unknown). https://www.taiwannews.com.tw/news/6263884
 18. Bloomberg Government, Taiwan taps Trump-linked lobby firm, 2026-05. https://news.bloomberglaw.com/bloomberg-government-news/taiwan-taps-trump-linked-lobby-firm-in-time-for-us-china-summit
 19. Global Witness, Trump-linked firms and mineral lobbying, 2025-07. https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid
 20. Business Today, Ronny Jackson and the Pakistan deal, 2026-01-07. https://www.businesstoday.in/world/us/story/ronny-jackson-former-white-house-doctor-identified-as-key-link-in-us-pakistans-500-million-mining-deal-509756-2026-01-07

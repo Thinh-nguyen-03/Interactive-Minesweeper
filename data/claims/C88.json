@@ -61,7 +61,7 @@
     {
       "statement": "DT Marks Al Raha Beach LLC was formed the same day as the data-centre permitting order.",
       "verdict": "unverified",
-      "finding": "Evidence grade: single-source (CREW), carried over unchanged from C82. This hunt found no second source and could not reach the Delaware register. The EO date (23 Jul 2025) is documented. The formation-date match is CREW's observation and shows proximity, not causation.",
+      "finding": "Evidence grade: single-source (CREW), carried over unchanged from C82. This check found no second source and could not reach the Delaware register. The EO date (23 Jul 2025) is documented. The formation-date match is CREW's observation and shows proximity, not causation.",
       "sources": [
         "https://www.citizensforethics.org/reports-investigations/crew-investigations/dubai-developer-paid-trump-12-5-million-while-bringing-data-centers-to-the-u-s/",
         "https://www.whitehouse.gov/presidential-actions/2025/07/accelerating-federal-permitting-of-data-center-infrastructure/"
@@ -105,7 +105,7 @@
     {
       "statement": "Damac and Sajwani's public statements about the Trump ties and the 2025-26 payments.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented. Damac did not respond to CNBC about the 2025 fees, and this hunt found no Damac comment on CREW's Abu Dhabi or Ohio reports. Sajwani's public line has been promotional. In Nov 2024 he said he was open to new Trump projects. In Jan 2025 he called the US expansion a milestone and qualified the $20B as dependent on 'the opportunity, the market'. His 2025 posts and releases praised the Oval Office meeting and Trump's Gulf trip. In Jan 2017 Damac confirmed the declined offer. The White House says the president's assets are in a trust managed by his children and that there are no conflicts (C70).",
+      "finding": "Evidence grade: documented. Damac did not respond to CNBC about the 2025 fees, and this check found no Damac comment on CREW's Abu Dhabi or Ohio reports. Sajwani's public line has been promotional. In Nov 2024 he said he was open to new Trump projects. In Jan 2025 he called the US expansion a milestone and qualified the $20B as dependent on 'the opportunity, the market'. His 2025 posts and releases praised the Oval Office meeting and Trump's Gulf trip. In Jan 2017 Damac confirmed the declined offer. The White House says the president's assets are in a trust managed by his children and that there are no conflicts (C70).",
       "sources": [
         "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
         "https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/",
@@ -128,8 +128,8 @@
     }
   ],
   "corrections": [
-    "Brief implies federal permitting or energy decisions benefited Damac's sites; none was found. The documented approvals are local (Edgerton council override, 16 Jul 2026; Canton annexation and water).",
-    "Brief lists 'New Year's Eve at Mar-a-Lago' as one event; the documented on-stage praise is NYE 2016. NYE 2024 attendance rests on Sajwani's own posts as relayed by Raw Story.",
+    "The claim implies federal permitting or energy decisions benefited Damac's sites; none was found. The documented approvals are local (Edgerton council override, 16 Jul 2026; Canton annexation and water).",
+    "The claim lists 'New Year's Eve at Mar-a-Lago' as one event; the documented on-stage praise is NYE 2016. NYE 2024 attendance rests on Sajwani's own posts as relayed by Raw Story.",
     "Some crypto outlets call the crypto-accepting Trump Tower Dubai a Damac project; it is Dar Global's.",
     "Damac's US footprint (New Jersey; Edgerton, Kansas) includes states that were not among the eight announced on 7 Jan 2025.",
     "One syndicated AP summary renders a disclosure figure as Sajwani 'contributing' $1-5M to Trump's 2016 campaign. That looks garbled (foreign nationals cannot donate), and it is not used here."

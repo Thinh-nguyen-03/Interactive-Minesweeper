@@ -7,7 +7,7 @@
 
 No source shows any payment or investment buying a decision. The overlaps in timing are our own cross-referencing.
 
-Parents: C16 (jet, arms, golf), C53 (Witkoff Gulf money), C61 (shared lawyers), C64 (lobbyists), C65 (officials' prior ties). This report extends those files and does not repeat them. Many outlets (jpost.com, freebeacon.com) could not be read directly. Where that happened, findings rest on search-result text from several outlets, and we say so.
+Builds on: C16 (jet, arms, golf), C53 (Witkoff Gulf money), C61 (shared lawyers), C64 (lobbyists), C65 (officials' prior ties). This report extends those files and does not repeat them. Many outlets (jpost.com, freebeacon.com) could not be read directly. Where that happened, findings rest on search-result text from several outlets, and we say so.
 
 ## What was checked
 
@@ -74,7 +74,7 @@ We could not confirm a 2025-26 Ballard-Qatar FARA registration.
 
 - **Park Lane.** QIA bought the Park Lane for about $623M in August 2023 from a Witkoff-Mubadala joint venture.
 - **The $100M.** The NYT reported (September 2025) that the Witkoff Group received $100M "as recently as May" from an Apollo-run trust partly owned by Qatar. Commercial Observer described it as a $100M Apollo refinancing of the Witkoff/Access West Palm Beach golf resort (Dutchman's Pipe/Belgrove).
-- **The correction.** A correction relayed by the Jerusalem Post and others says the lender was **Apollo Global Management, not the subsidiary in which Qatar had invested**. Apollo says Qatar-linked investors have no say in investment choices. We could not fetch the Jerusalem Post page and rely on search-result text.
+- **The correction.** A correction relayed by the Jerusalem Post and others says the lender was **Apollo Global Management, not the subsidiary in which Qatar had invested**. Apollo says Qatar-linked investors have no say in investment choices. The Jerusalem Post page was not read directly and rely on search-result text.
 - **Official responses.** The White House counsel said there was "no evidence" that Qatar's relationship with the Witkoffs affected his diplomacy. The Witkoffs threatened to sue the NYT.
 
 ### 8. Jared Kushner: QIA in Affinity, a new raise while envoy, and the WBD bid
@@ -183,7 +183,7 @@ All of the following are our own cross-referencing; no outlet asserts them.
 17. Responsible Statecraft, Kash Patel and Qatar. https://responsiblestatecraft.org/kash-patel-qatar/
 18. Washington Examiner, "Witkoff's son sought investments from Middle East...", 2025-09. https://www.washingtonexaminer.com/?p=3827497
 19. Commercial Observer, Witkoff/Access $100M Apollo refinancing of West Palm Beach golf resort, 2025-05. https://commercialobserver.com/2025/05/witkoff-access-west-palm-beach-dutchmans-pipe-golf-club-belgrove-resort-spa/
-20. Jerusalem Post, NYT Witkoff report and correction (search text only; not fetchable here), 2025-09. https://www.jpost.com/american-politics/article-869981
+20. Jerusalem Post, NYT Witkoff report and correction (search text only; original not read), 2025-09. https://www.jpost.com/american-politics/article-869981
 21. Fortune, "Jared Kushner, Paramount, Warner...", 2025-12-08. https://fortune.com/2025/12/08/jared-kushner-paramount-warner-netflix-trump-ellison-saudi-antitrust/
 22. TheWrap, "Paramount confirms Middle East sovereign wealth fund investment to back Warner Bros. deal". https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-deal-middle-east-sovereign-wealth-funds-lion-tree-equity-investments/
 23. Mediaite, "Jared Kushner reportedly seeks $5B from Middle East governments for his firm while serving as envoy", 2026-03. https://www.mediaite.com/politics/jared-kushner-reportedly-seeks-5b-from-middle-east-governments-for-his-firm-while-serving-as-envoy/
@@ -201,7 +201,7 @@ All of the following are our own cross-referencing; no outlet asserts them.
 35. IBTimes UK, Qatar-gifted 747 retrofit cost, 2026. https://www.ibtimes.co.uk/trump-qatar-gifted-boeing-747-8-interim-air-force-one-1804428
 36. American Oversight, "DOJ sued for withholding legal memo on ... jet gifted by Qatar", 2025-07. https://americanoversight.org/doj-sued-for-withholding-legal-memo-on-trump-administrations-400-million-jet-gifted-by-qatar/
 37. Freedom of the Press Foundation, "620 days to find one document". https://freedom.press/the-classifieds/620-days-to-find-one-document-in-response-to-fpf-foia-thats-why-we-sued/
-38. Washington Free Beacon, Ballard-Qatar $175K/month contract (date unclear; not fetchable here). https://freebeacon.com/?p=1007167
+38. Washington Free Beacon, Ballard-Qatar $175K/month contract (date unclear; original not read). https://freebeacon.com/?p=1007167
 39. Washington Free Beacon, "Owner of Trump's Qatari Air Force One linked to Bob Menendez corruption scandal" (headline only seen). https://freebeacon.com/?p=2031229
 40. Ynet, "Qatar lobby reaches deep into US conservative media, documents show", 2025. https://www.ynetnews.com/business/article/hjuuz7p11xe
 41. Sludge, "Foreign interests are paying millions to a Trump-linked lobbying firm", 2026-02-05. https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/

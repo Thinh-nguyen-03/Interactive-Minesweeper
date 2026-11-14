@@ -325,8 +325,8 @@
     "title": "Framing: polls, supporters turning, Bannon, lawyer threat",
     "claim": "Polls show public concern about government corruption at its highest level in 20 years; prominent former Trump supporters/campaigners now call this the most corrupt presidency in history; Steve Bannon described the 'flood the zone'/'muzzle velocity' media strategy; Coffeezilla says a lawyer threatened him before publication and that Don Jr., Eric, Melania and Donald Trump did not respond to requests for comment; the video features Molly White, Sam Kessler (WSJ) and Isaac Saul (Tangle).",
     "origin": "video",
-    "display_title": "Public perception of government corruption: the Gallup poll",
-    "question": "Are polls on government corruption at their highest level in 20 years, and what exactly does the Gallup figure measure?",
+    "display_title": "Public concern about government corruption and criticism from prominent supporters",
+    "question": "Is public concern about government corruption at a record level, and have prominent Trump supporters publicly criticised the family's business dealings?",
     "topic": "family-ventures-and-wealth",
     "hidden": false,
     "hidden_note": "Kept as a check of the corruption-perception poll only (sub-claim 1, the Gallup finding). Mark the other sub-claims \"hidden\": true: former supporters' quotes; the unidentified '$600 million' quote; the Bannon 'flood the zone' clip; the lawyer's threat to the creator; the unanswered requests for comment; who appeared as guests; and the Iran-war aside. Rewrite title, summary, corrections and report around the poll alone."

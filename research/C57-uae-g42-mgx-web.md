@@ -2,7 +2,7 @@
 
 **Verdict:** mostly-accurate (confidence: medium)
 
-**Type:** follow-up lead (parents: C06, C07, C08, C12, C15; also builds on C34)
+**Builds on:** C06, C07, C08, C12, C15; also C34
 
 ## Summary
 
@@ -24,7 +24,7 @@ Three points are weaker:
 
 No quid pro quo has been documented. WLF, the White House and Trump deny any link between the UAE money and US policy.
 
-Research note: the original pages at most news sites were not read directly, and the research ended before the TikTok closing details and the G42 reincorporation report could be re-checked. Findings rely on search-result coverage across several outlets, plus the parent claims' sourcing.
+Research note: the original pages at most news sites were not read directly, and the research ended before the TikTok closing details and the G42 reincorporation report could be re-checked. Findings rely on search-result coverage across several outlets, plus the earlier checks' sourcing.
 
 ## Map of entities (who controls what)
 

@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-The lead is accurate as a description of what was **alleged** and what on-chain analysts **reported**. A Burwick Law class action did accuse Meteora co-founder Benjamin Chow and Hayden Davis (Kelsier) of running MELANIA, LIBRA and other tokens as a coordinated pump-and-dump. It called Melania Trump and Javier Milei "props" and attributed about $10M in insider gains to MELANIA. Davis himself admitted he was the "launch strategist" for LIBRA and MELANIA and that his team sniped both.
+The claim is accurate as a description of what was **alleged** and what on-chain analysts **reported**. A Burwick Law class action did accuse Meteora co-founder Benjamin Chow and Hayden Davis (Kelsier) of running MELANIA, LIBRA and other tokens as a coordinated pump-and-dump. It called Melania Trump and Javier Milei "props" and attributed about $10M in insider gains to MELANIA. Davis himself admitted he was the "launch strategist" for LIBRA and MELANIA and that his team sniped both.
 
 The legal track has gone the other way. Judge Jennifer Rochon (SDNY) dismissed the LIBRA/M3M3 suit **with prejudice** on Sept 29, 2026, and refused as futile to add MELANIA. An Argentine federal judge closed the LIBRA criminal case against Milei, his sister and Davis in October 2026. No court has found fraud. No US regulator (SEC, DOJ or CFTC) has brought any action; the only moves are letters from Democratic senators.
 
@@ -83,7 +83,7 @@ This check builds on C01/C02. It claims that:
   - In October 2026, Judge Marcelo Martínez de Giorgi dismissed the criminal case against Milei, Karina Milei, Davis and others for lack of evidence of a specific deception. Opposition lawmakers are contesting the closure.
 
 ## Corrections
-- The lead says the class action alleged a MELANIA pump-and-dump. That is true, but MELANIA was only in a **proposed** amended complaint. The court never allowed it into the case and later rejected it as futile.
+- The claim says the class action alleged a MELANIA pump-and-dump. That is true, but MELANIA was only in a **proposed** amended complaint. The court never allowed it into the case and later rejected it as futile.
 - The "$10M+" figure comes from the complaint. On-chain estimates of team sales run higher (about $30M per Bubblemaps). FT-reported sniper profits (about $100M) are a separate category from team extraction.
 - The litigation did not produce any finding. The SDNY case is dismissed with prejudice, and the Argentine criminal case was dismissed in October 2026.
 

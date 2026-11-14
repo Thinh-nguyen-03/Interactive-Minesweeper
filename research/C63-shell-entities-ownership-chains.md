@@ -1,6 +1,6 @@
 # C63: Shell entities and ownership chains
 
-**Verdict: mostly-accurate (confidence: medium).** The ownership chains we found are mostly documented in SEC filings, the OGE disclosure, the OCC decision, Senate letters and state-registry reporting. The parts the claim cares most about (registered agents, officers, beneficial owners) are mostly *not public*: StringZ, T1 Mobile, NFT INT, Designers Manager, Celebration Cards and the Wyoming licensees. I could not pull registry records from this environment. The original pages at occ.gov, house.gov, protos.com and dlnews.com were not read directly, and the research ended before every thread was checked. Where that leaves a gap, the sections below say so.
+**Verdict: mostly-accurate (confidence: medium).** The ownership chains we found are mostly documented in SEC filings, the OGE disclosure, the OCC decision, Senate letters and state-registry reporting. The parts the claim cares most about (registered agents, officers, beneficial owners) are mostly *not public*: StringZ, T1 Mobile, NFT INT, Designers Manager, Celebration Cards and the Wyoming licensees. Registry records were not consulted directly. The original pages at occ.gov, house.gov, protos.com and dlnews.com were not read directly, and the research ended before every thread was checked. Where that leaves a gap, the sections below say so.
 
 This connection check builds on C01, C02, C03, C06, C07, C12, C17, C20, C22, C35, C39, C40, C41, C42, C45, C47, C50 and C51.
 

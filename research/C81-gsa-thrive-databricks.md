@@ -4,7 +4,7 @@
 
 **Disclosure.** Anthropic makes the model that wrote this report, and it is one of the companies with a GSA OneGov deal. It is treated here exactly like every other vendor. We found no primary source for a Thrive stake in Anthropic, and the report says so.
 
-**Method note.** This report builds on C66 (sub-claim 11, the Thrive/GSA link) and C68 (the OpenAI and Musk/xAI nexus). Fetching Washington Technology, SamSearch, distillintelligence and valorep.com failed here because the hosts were not reachable. The WSJ original could not be reached either. Findings therefore rely on search-result summaries from several outlets, and each one is graded below.
+**Method note.** This report builds on C66 (sub-claim 11, the Thrive/GSA link) and C68 (the OpenAI and Musk/xAI nexus). The original pages at Washington Technology, SamSearch, distillintelligence and valorep.com were not read directly. The WSJ original could not be reached either. Findings therefore rely on search-result summaries from several outlets, and each one is graded below.
 
 ## Connections found
 

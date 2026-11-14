@@ -116,7 +116,7 @@ These links are our own cross-referencing. No source we saw asserts them.
 - **Pending deals:** the Perpetua loan and the Boehly bid were still pending in November 2026.
 
 ## Source limits
-- **Direct fetches failed:** NBC and the Alaska Beacon could not be read directly, and the report relies on search-result summaries for them.
+- **Not read directly:** NBC and the Alaska Beacon could not be read directly, and the report relies on search-result summaries for them.
 - **FEC filings:** these were not queried directly.
 - **Unconfirmed figures:** Boehly's MAGA Inc. amount and Hamm's PAC totals.
 

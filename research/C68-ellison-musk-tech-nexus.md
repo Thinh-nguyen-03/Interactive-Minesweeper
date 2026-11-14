@@ -12,7 +12,7 @@
 - A few of the links below are our own cross-referencing, and are labelled that way.
 
 **Method note.**
-- I mined C08, C20, C32, C33, C34, C44, C50, C56, C57, C66 and C67 first, then searched outward.
+- I drew on C08, C20, C32, C33, C34, C44, C50, C56, C57, C66 and C67 first, then searched outward.
 - Most news sites were not read directly. Findings rest on search-result summaries that agree across several outlets.
 - I did not read the primary OGE 278-T PDFs or the SEC PDFs directly.
 

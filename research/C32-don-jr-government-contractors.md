@@ -10,10 +10,10 @@ The Executive Branch club is documented as a Don Jr. / 1789 venture. No record f
 
 Every denial on record says Don Jr. did not intervene, and no reporting found shows that he did.
 
-**Research note.** The original pages at citizensforethics.org and dronexl.co were not read directly. The research ended before every thread was checked, so I could not run searches on Cerebras/CFIUS, the Anduril/xAI/SpaceX contracts, or 1789's own statements. Findings below rest on search-result summaries from several outlets (NBC/CNBC, FT via TipRanks/The Fly, The Intercept, Quartz, Aviation Week, Fortune, Fox5, CREW) and on the parent report C26 (ProPublica). Anything I could not confirm is marked unverified.
+**Research note.** The original pages at citizensforethics.org and dronexl.co were not read directly. The research ended before every thread was checked, so I could not run searches on Cerebras/CFIUS, the Anduril/xAI/SpaceX contracts, or 1789's own statements. Findings below rest on search-result summaries from several outlets (NBC/CNBC, FT via TipRanks/The Fly, The Intercept, Quartz, Aviation Week, Fortune, Fox5, CREW) and on the earlier check C26 (ProPublica). Anything I could not confirm is marked unverified.
 
 ## The claim
-It suggests that Don Jr. holds advisory roles or stakes in other companies that won federal contracts or policy benefits after he joined. The examples it gives are Unusual Machines (an Army contract), the 1789 portfolio companies Anduril, SpaceX/xAI, Firehawk and Cerebras, and the Executive Branch club. The video itself covers only 1789/Vulcan (C26), the New America SPAC (C27) and Eric Trump's ties to Foundation (C28).
+The claim is that Don Jr. holds advisory roles or stakes in other companies that won federal contracts or policy benefits after he joined. The examples it gives are Unusual Machines (an Army contract), the 1789 portfolio companies Anduril, SpaceX/xAI, Firehawk and Cerebras, and the Executive Branch club. Separate checks cover 1789/Vulcan (C26), the New America SPAC (C27) and Eric Trump's ties to Foundation (C28).
 
 ## Evidence by sub-claim
 

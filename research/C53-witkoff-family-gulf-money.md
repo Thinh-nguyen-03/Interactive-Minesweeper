@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate (confidence: medium)**
 
-This check builds on C14, C42 and C16, so the claim is a research prompt. The main elements are documented:
+This check builds on C14, C42 and C16. The main elements are documented:
 
 - Qatar's sovereign fund bought the Park Lane Hotel in 2023.
 - The Witkoff sons pitched a multibillion-dollar real-estate fund to Gulf sovereign funds.
