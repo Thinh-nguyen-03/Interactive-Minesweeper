@@ -50,7 +50,7 @@ The user wants the map UI to look clean and professional and less "AI-coded", wi
 - Batch 1 launched 23:15: hunts C68, C70; audits C06-C10, C12/C13/C20-C22, C23-C26/C29, C27/C28/C32-C34; map redesign agent.
 - Briefs C71-C82 (second-layer connection hunts) added to the index, not yet launched. Next batches of 6: [C71-C76], [C77-C82], then audits [C35-C39], [C45-C49 fresh searches], [C50-C52,C53,C54], [C55-C60], [C61-C67], then C69 (master timeline) last.
 
-## Status at pause (user instruction, about 01:20 Central 14 Nov): no new agents; let running ones finish; restart 04:30 Central
+## Status at pause (user instruction, about 23:40 Central 13 Nov): no new agents; let running ones finish; restart 04:30 Central
 - Done and pushed: all research C01-C82 except C69; second reviews for C01-C54; map redesign published (version 3) at the same link; README written.
 - Running at pause (finish on their own): C69 master timeline; second reviews for C55-C60, C61-C64, C65-C67, C68/C70-C72, C73-C77, C78-C82.
 - As each finishes: commit and push. When all are in: `python3 build.py`, republish `map/index.html` with `style.css`, `app.js`, `graph-data.js` to the same link, update README counts.
