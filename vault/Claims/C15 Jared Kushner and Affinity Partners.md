@@ -23,7 +23,8 @@ tags:
 
 ## Follow-up checks
 
-- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Pending
+- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
+- [[C37 Jared Kushner's hacked phone]] · Unverified
 
 ## Summary
 
@@ -78,17 +79,25 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 - The Daily Beast (citing Bloomberg) reported that Affinity later dropped its planned new fundraising vehicle and will not take new capital while Kushner serves; this is undated in the available coverage and not independently confirmed.
 - Earlier NYT reporting relayed by The Media Line said Qatar and main Emirati funds declined to invest in a round; this conflicts with the 2024 QIA/Lunate investment and may refer to a different round.
 
+## Themes
+
+- [[Theme - Gulf sovereign money and dual-role envoys]]
+- [[Theme - Secrecy and non-disclosure]]
+
 ## People and organisations
 
 - [[Affinity Partners]]
 - [[Board of Peace]]
 - [[Chad Mizelle]]
 - [[Citizens for Responsibility and Ethics in Washington]]
+- [[Conflict-of-interest laws]]
 - [[Donald Trump]]
 - [[Iran]]
 - [[Jared Kushner]]
 - [[Lunate]]
 - [[Mohammed bin Salman]]
+- [[Molly White]]
+- [[Other Gulf sovereign wealth funds]]
 - [[Public Investment Fund (Saudi Arabia)]]
 - [[Qatar]]
 - [[Qatar Investment Authority]]
@@ -99,32 +108,40 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 - [[The New York Times]]
 - [[United Arab Emirates]]
 - [[US Congress]]
-- [[White House]]
+- [[White House Trump administration]]
 
 ## Relationships documented
 
+- [[Affinity Partners]] *seeking part of $5B from* [[Other Gulf sovereign wealth funds]] ($5B, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Affinity Partners]] *sought part of $5B+ new raise from (per NYT)* [[Public Investment Fund (Saudi Arabia)]] (2026-03, $5B, commercial) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Chad Mizelle]] *chief legal officer of* [[Affinity Partners]] (commercial) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Chad Mizelle]] *attorney for* [[Jared Kushner]] (legal) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Chad Mizelle]] *attorney for* [[Jared Kushner]] (legal) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
 - [[Citizens for Responsibility and Ethics in Washington]] *sued over envoy role and lack of disclosure* [[Jared Kushner]] (2026-10, legal) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Donald Trump]] *named 'envoy of peace' (unofficial, volunteer)* [[Jared Kushner]] (2026-02-19, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] (2021, ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] (2021, ownership) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
+- [[Jared Kushner]] *runs* [[Affinity Partners]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *executive board member of* [[Board of Peace]] (2026-01, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *exempt from disclosure under* [[Conflict-of-interest laws]] (legal) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *son-in-law of* [[Donald Trump]] (family) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *participated in US talks with* [[Iran]] (2026, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *negotiates alongside* [[Steve Witkoff]] (2025, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *travels and negotiates with* [[Steve Witkoff]] (political) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *unofficial 'peace envoy' for* [[White House Trump administration]] (political) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Lunate]] *invested (with QIA, about $1.5B combined) in* [[Affinity Partners]] (2024-12, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Mohammed bin Salman]] *chairs board of* [[Public Investment Fund (Saudi Arabia)]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Molly White]] *describes conflicts of* [[Jared Kushner]] (media) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[The New York Times]] *reported $5B raise by* [[Affinity Partners]] (media) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[The New York Times]] *reported $5B+ fundraising effort by* [[Affinity Partners]] (2026-03, media) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Qatar]] *owns* [[Qatar Investment Authority]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Qatar Investment Authority]] *invested (with Lunate, about $1.5B combined) in* [[Affinity Partners]] (2024-12, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Robert Garcia]] *investigating Gulf fundraising* [[Affinity Partners]] (2026-03-19, regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Ron Wyden]] *investigating Gulf fundraising* [[Affinity Partners]] (2026-03-19, regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Saudi Arabia]] *owns* [[Public Investment Fund (Saudi Arabia)]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Public Investment Fund (Saudi Arabia)]] *committed $2B to (largest investor)* [[Affinity Partners]] (2021-07, $2B, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Public Investment Fund (Saudi Arabia)]] *committed $2B to (largest investor)* [[Affinity Partners]] (2021-07, $2B, money) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
+- [[Public Investment Fund (Saudi Arabia)]] *invested $2B in* [[Affinity Partners]] ($2B, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[United Arab Emirates]] *home jurisdiction of* [[Lunate]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[US Congress]] *Democratic committee inquiries into* [[Affinity Partners]] (2026-03, regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[White House]] *classifies as unpaid volunteer, no disclosure filed* [[Jared Kushner]] (regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[White House Trump administration]] *classifies as unpaid volunteer, no disclosure filed* [[Jared Kushner]] (regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
 
 ## Sources
 

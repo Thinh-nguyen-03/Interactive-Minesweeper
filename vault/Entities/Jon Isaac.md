@@ -20,4 +20,4 @@ ALT5 consultant and major shareholder; denied 2025 reports of an SEC probe.
 
 ## Relationships
 
-- [[Jon Isaac]] *consultant and major shareholder* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Jon Isaac]] *consultant and major shareholder* [[ALT5 Sigma]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]

@@ -20,4 +20,4 @@ White House spokesman
 
 ## Relationships
 
-- [[David Ingle]] *spokesman for* [[White House]] (political) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[David Ingle]] *spokesman for* [[White House Trump administration]] (political) · [[C20 Trump's stock purchases and Truth Social posts|C20]]

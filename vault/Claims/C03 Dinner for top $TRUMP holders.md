@@ -60,13 +60,20 @@ Confirmed. The top 220 $TRUMP holders, ranked by average holdings from April 23 
 - About 80% of the 1B $TRUMP supply is held by Trump-linked CIC Digital LLC and Fight Fight Fight LLC, so buying pressure benefits the Trump side. Estimates of what the top 220 spent range from about $140-148M to about $394M.
 - No court, regulator or ethics office has found that the dinner was illegal. Whether it was corrupt is a matter of characterization.
 
+## Themes
+
+- [[Theme - Blanket denials]]
+- [[Theme - Monetizing the office, brand and access]]
+
 ## People and organisations
 
-- [[$TRUMP (Official Trump)]]
 - [[$TRUMP holders' dinner (May 22, 2025)]]
+- [[$TRUMP meme coin]]
 - [[Andrew Egger]]
 - [[CIC Digital LLC]]
 - [[Coffeezilla]]
+- [[Conflict-of-interest laws]]
+- [[Dinner for top $TRUMP holders]]
 - [[Donald Trump]]
 - [[Elizabeth Warren]]
 - [[Fight Fight Fight LLC]]
@@ -74,28 +81,35 @@ Confirmed. The top 220 $TRUMP holders, ranked by average holdings from April 23 
 - [[Karoline Leavitt]]
 - [[Richard Blumenthal]]
 - [[The Bulwark]]
+- [[Top $TRUMP holders]]
 - [[Trump National Golf Club Washington D.C]]
 - [[Trump Organization]]
-- [[White House]]
+- [[White House Trump administration]]
 
 ## Relationships documented
 
 - [[Andrew Egger]] *questioned about memecoin dinner* [[Karoline Leavitt]] (2025-05-09, media) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Andrew Egger]] *correspondent for* [[The Bulwark]] (media) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[CIC Digital LLC]] *co-owns* [[Fight Fight Fight LLC]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[CIC Digital LLC]] *holds (with Fight Fight Fight) ~80% of supply of* [[$TRUMP (Official Trump)]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[CIC Digital LLC]] *holds (with Fight Fight Fight) ~80% of supply of* [[$TRUMP meme coin]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Coffeezilla]] *reported on* [[$TRUMP holders' dinner (May 22, 2025)]] (media) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Donald Trump]] *owns via revocable trust* [[CIC Digital LLC]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Donald Trump]] *said to abide by* [[Conflict-of-interest laws]] (legal) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Donald Trump]] *attended* [[Dinner for top $TRUMP holders]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Donald Trump]] *attended and spoke at* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-22, political) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Elizabeth Warren]] *denounced as 'an orgy of corruption'* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05, political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Fight Fight Fight LLC]] *issuer/holder of* [[$TRUMP (Official Trump)]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Fight Fight Fight LLC]] *issuer/holder of* [[$TRUMP meme coin]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Fight Fight Fight LLC]] *organized holder contest for* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-04-23, commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Justin Sun]] *top holder of* [[$TRUMP (Official Trump)]] (2025-05, money) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Justin Sun]] *top holder of* [[$TRUMP meme coin]] (2025-05, money) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Justin Sun]] *attended* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-22, political) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Karoline Leavitt]] *said he obeys conflict laws* [[Donald Trump]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Karoline Leavitt]] *defended as compliant with conflict-of-interest laws* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-09, political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Karoline Leavitt]] *press secretary of* [[White House]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Karoline Leavitt]] *press secretary of* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Karoline Leavitt]] *speaks for* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Richard Blumenthal]] *denounced as 'auctioning off access'* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05, political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[$TRUMP (Official Trump)]] *top 220 holders invited to* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-12, commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[$TRUMP meme coin]] *top 220 holders invited to* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-12, commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Top $TRUMP holders]] *hold most of* [[$TRUMP meme coin]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Top $TRUMP holders]] *won seats at* [[Dinner for top $TRUMP holders]] (commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[$TRUMP holders' dinner (May 22, 2025)]] *held at* [[Trump National Golf Club Washington D.C]] (2025-05-22, commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Trump Organization]] *affiliate of* [[CIC Digital LLC]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
 

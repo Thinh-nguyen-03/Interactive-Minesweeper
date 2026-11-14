@@ -1,19 +1,27 @@
 ---
-id: "x-twitter"
+id: "twitter-x"
 kind: "entity"
-type: "media"
-connections: 1
-claims: 1
+type: "company"
+aliases:
+  - "Twitter"
+connections: 4
+claims: 2
 tags:
   - "entity"
-  - "type/media"
+  - "type/company"
 ---
 # X (Twitter)
 
-*media*
+*company*
 
-Platform where Eric Trump promoted USD1
+Platform where a Trump son boasted about USD1 and Sun posted accusations.
 
 ## Appears in claims
 
+- [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
 - [[C11 GENIUS CLARITY Acts and USD1]] · Mostly accurate
+
+## Relationships
+
+- [[Justin Sun]] *posted accusations on* [[X (Twitter)]] (media) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[World Liberty Financial]] *Trump son boasted on* [[X (Twitter)]] (media) · [[C11 GENIUS CLARITY Acts and USD1|C11]]

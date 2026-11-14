@@ -23,7 +23,7 @@ tags:
 
 ## Follow-up checks
 
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Pending
+- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 
 ## Summary
 
@@ -71,38 +71,57 @@ Trump signed EO 14233 creating a Strategic Bitcoin Reserve on 2025-03-06, and th
 - About 50 institutions took part in the raise; Jane Street's ~$375M was nearly four times DRW's stake.
 - TMTG is controlled by Donald J. Trump's revocable trust, so investing in it benefits the President's business; CREW raised 'policy-for-investment' concerns. No quid pro quo is documented, and the link is timing only.
 
+## Themes
+
+- [[Theme - Regulator dropped the case after money flowed]]
+- [[Theme - President appoints the regulator of the family business]]
+- [[Theme - President makes the law for markets the family is in]]
+- [[Theme - Blanket denials]]
+
 ## People and organisations
 
 - [[Anchorage Digital]]
 - [[Bitcoin]]
 - [[Coffeezilla]]
 - [[Crypto.com]]
-- [[Cumberland DRW]]
+- [[Cumberland (DRW)]]
 - [[Don Wilson]]
 - [[Donald Trump]]
 - [[DRW Investments]]
 - [[Jane Street]]
+- [[SEC enforcement case against Cumberland]]
+- [[Securities and Exchange Commission]]
 - [[Strategic Bitcoin Reserve]]
+- [[TMTG bitcoin treasury]]
 - [[Trump Media & Technology Group]]
-- [[U.S. Securities and Exchange Commission]]
-- [[White House]]
+- [[White House Trump administration]]
 
 ## Relationships documented
 
 - [[Anchorage Digital]] *custodian for bitcoin treasury* [[Trump Media & Technology Group]] (2025-05-27, commercial) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Crypto.com]] *custodian for bitcoin treasury* [[Trump Media & Technology Group]] (2025-05-27, commercial) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Cumberland DRW]] *denied quid pro quo in comment to* [[Coffeezilla]] (media) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Cumberland (DRW)]] *denied quid pro quo in comment to* [[Coffeezilla]] (media) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Cumberland (DRW)]] *denies quid pro quo with* [[Trump Media & Technology Group]] (political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Don Wilson]] *owns* [[Cumberland (DRW)]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Don Wilson]] *founded and controls* [[DRW Investments]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Don Wilson]] *invested in* [[Trump Media & Technology Group]] (money) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Donald Trump]] *appoints leadership of* [[Securities and Exchange Commission]] (political) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Donald Trump]] *signed EO 14233 establishing* [[Strategic Bitcoin Reserve]] (2025-03-06, political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Donald Trump]] *controls via revocable trust* [[Trump Media & Technology Group]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[DRW Investments]] *parent of crypto unit* [[Cumberland DRW]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Donald Trump]] *signed order creating* [[Strategic Bitcoin Reserve]] (political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Donald Trump]] *controls via revocable trust* [[Trump Media & Technology Group]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C22 Crypto.com and TMTG|C22]]
+- [[DRW Investments]] *parent of crypto unit* [[Cumberland (DRW)]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[DRW Investments]] *bought ~4M shares (~$100M) in bitcoin-treasury raise* [[Trump Media & Technology Group]] (2025-05, $100M, money) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Jane Street]] *bought ~$375M in bitcoin-treasury raise* [[Trump Media & Technology Group]] (2025-05, $375M, money) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[U.S. Securities and Exchange Commission]] *dismissed enforcement case with prejudice* [[Cumberland DRW]] (2025-03-27, regulatory) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[U.S. Securities and Exchange Commission]] *sued as unregistered dealer* [[Cumberland DRW]] (2024-10, legal) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Securities and Exchange Commission]] *dismissed enforcement case with prejudice* [[Cumberland (DRW)]] (2025-03-27, regulatory) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Securities and Exchange Commission]] *sued as unregistered dealer* [[Cumberland (DRW)]] (2024-10, legal) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Securities and Exchange Commission]] *dismissed with prejudice* [[SEC enforcement case against Cumberland]] (regulatory) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[SEC enforcement case against Cumberland]] *targeted* [[Cumberland (DRW)]] (legal) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Strategic Bitcoin Reserve]] *holds forfeited government* [[Bitcoin]] (2025-03-06, regulatory) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Strategic Bitcoin Reserve]] *stockpiles* [[Bitcoin]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[TMTG bitcoin treasury]] *holds* [[Bitcoin]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Trump Media & Technology Group]] *raised ~$2.44B gross to build treasury in* [[Bitcoin]] (2025-05-30, $2.44B, money) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[White House]] *issued executive order creating* [[Strategic Bitcoin Reserve]] (2025-03-06, political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Trump Media & Technology Group]] *raised $2.5B for* [[TMTG bitcoin treasury]] ($2.5B, money) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[White House Trump administration]] *issued executive order creating* [[Strategic Bitcoin Reserve]] (2025-03-06, political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 
 ## Sources
 

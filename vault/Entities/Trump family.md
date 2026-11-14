@@ -2,8 +2,8 @@
 id: "trump-family"
 kind: "entity"
 type: "person"
-connections: 4
-claims: 2
+connections: 3
+claims: 1
 tags:
   - "entity"
   - "type/person"
@@ -17,7 +17,6 @@ Donald Trump and sons; Bloomberg credits the family with ~$630M stake in WLF's s
 ## Appears in claims
 
 - [[C10 Binance driving USD1 adoption]] · Mostly accurate
-- [[C29 Trump family wealth gains]] · Mostly accurate
 
 ## Relationships
 

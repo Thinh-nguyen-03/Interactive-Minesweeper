@@ -412,5 +412,105 @@
    "C02",
    "C29"
   ]
+ },
+ {
+  "id": "C45",
+  "slug": "kushner-albania-serbia-resorts",
+  "lines": "",
+  "title": "Kushner's Albania and Serbia developments",
+  "claim": "Leads from C30/C37: Jared Kushner's Affinity Partners is pursuing a luxury resort on Albania's Sazan island/Zvernec coast and a Belgrade (Serbia) development on the former army HQ site, both needing foreign-government approvals while he acts as a US envoy; Rep. Raskin's House Judiciary probe; criticism from right-wing figures such as Candace Owens; any Trump-branding. Verify deal terms, government concessions, status (the Belgrade project reportedly collapsed amid a forgery probe), and denials.",
+  "origin": "follow-up",
+  "parents": [
+   "C15",
+   "C37",
+   "C31"
+  ]
+ },
+ {
+  "id": "C46",
+  "slug": "kushner-alleged-gulf-accounts",
+  "lines": "",
+  "title": "The alleged Kushner Gulf accounts: Azerbaijan route, 'Beta' account, Gabbard complaint",
+  "claim": "Deeper follow-up to C37: Matthew Cole's book 'Princes and Thieves' (Vanity Fair excerpt, Oct 2026) alleges a ~$750M First Abu Dhabi Bank account with Kushner as signatory, money of Saudi/UAE origin routed via Azerbaijan, and a ~$1B transfer to an Israeli government ('Beta') account; separately a whistleblower complaint involving DNI Tulsi Gabbard concerns an NSA intercept of foreigners discussing Kushner; Kushner's lawyer threatened Cond\u00e9 Nast and Simon & Schuster. Establish exactly what each source alleges, corroboration or rebuttal by other outlets (Axios's Barak Ravid, Jerusalem Post retraction), official responses, and congressional follow-up. Treat as single-source allegations unless corroborated.",
+  "origin": "follow-up",
+  "parents": [
+   "C37",
+   "C15"
+  ]
+ },
+ {
+  "id": "C47",
+  "slug": "dominari-tron-tungsten-china-ipos",
+  "lines": "",
+  "title": "Dominari's other deals: Tron/SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs",
+  "claim": "Leads from C39: Dominari Securities arranged the SRM Entertainment \u2192 Tron Inc. reverse-merger treasury deal with Justin Sun (Eric Trump reportedly linked, he denies a role); launched American Ventures, a ~$1B microcap fund with Trump-son investors; was tied to the Skyline Builders / Cove Kaz Kazakhstan tungsten deal with up to $1.6B of US-government-linked financing; and faces a House China Select Committee inquiry into Chinese small-cap 'ramp-and-dump' IPOs it underwrote, plus FINRA's fine on Kyle Wool's former firm Revere. Verify each with dates, amounts, and denials.",
+  "origin": "follow-up",
+  "parents": [
+   "C39",
+   "C05",
+   "C27"
+  ]
+ },
+ {
+  "id": "C48",
+  "slug": "trump-library-foundation-money",
+  "lines": "",
+  "title": "Trump presidential library foundation: settlement money, Miami land, IRS status",
+  "claim": "Leads from C33/C16: roughly $60M+ of media/tech lawsuit settlement money earmarked for Trump's presidential library is alleged by Sens. Warren/Blumenthal and Rep. Stansbury to be unaccounted for after the first library fund was dissolved (Sept 2025); a successor foundation received Miami Dade College land worth $67M+ for $10; the foundation reportedly got fast-track IRS approval during the government shutdown; the Qatari 747 is slated to go to it. Verify the entities, officers (Eric Trump, Michael Boulos, James Kiley?), the money trail, lawsuits over the land, and responses.",
+  "origin": "follow-up",
+  "parents": [
+   "C33",
+   "C16"
+  ]
+ },
+ {
+  "id": "C49",
+  "slug": "pardon-lobbying-industry",
+  "lines": "",
+  "title": "The pardon-lobbying market and post-pardon SEC dismissals",
+  "claim": "Leads from C36: a paid pardon-lobbying industry around Trump's second term \u2014 lobbyists and allies (Roger Stone, Ches McDowell/Checkmate, Teresa Goody Guill\u00e9n, others) reportedly charging large fees to seek clemency; reported asking prices of $1M+; pardons of donors or their relatives (Paul Walczak, Trevor Milton, Changpeng Zhao, Carlos Watson commutation, others); the SEC dropping civil cases after criminal pardons; the firing of pardon attorney Liz Oyer and Ed Martin's role as pardon attorney; total restitution wiped out (House Judiciary Democrats' estimate ~$1.3B+). Verify figures, named cases, and official justifications.",
+  "origin": "follow-up",
+  "parents": [
+   "C36",
+   "C09"
+  ]
+ },
+ {
+  "id": "C50",
+  "slug": "lutnick-chips-tether-iran",
+  "lines": "",
+  "title": "Lutnick follow-ups: Nvidia chip curbs, Tether and Iran, crypto council",
+  "claim": "Leads from C35: Axios (Nov 2026) reports Commerce Secretary Lutnick stalled curbs on Nvidia-chip diversion to China; Sen. Blumenthal is probing Tether's alleged role in Iranian shadow banking and the Tether loan to the Lutnick children's trust; Lutnick's possible seat on the White House crypto council; Cantor's ~$2B bitcoin-lending programme with Tether; Lutnick's sons' Cantor deals that depend on Commerce/tariff policy (e.g. tariff-refund claims trading). Verify each and note denials.",
+  "origin": "follow-up",
+  "parents": [
+   "C35",
+   "C08"
+  ]
+ },
+ {
+  "id": "C51",
+  "slug": "trump-sons-drone-ventures",
+  "lines": "",
+  "title": "Trump sons' drone ventures and the Pentagon's Drone Dominance programme",
+  "claim": "Leads from C28/C32: the PowerUS / Aureus Greenway drone merger backed by Eric and Don Jr.; the Pentagon reportedly negotiating an equity stake in Don Jr.-advised Unusual Machines under the $1.1B Drone Dominance programme; Unusual Machines' Draganfly investment; Trump executive orders on drones and restrictions on Chinese DJI that benefit domestic makers; Warren and Garcia letters to the Pentagon Inspector General; Senate Democrats' tally of $70M+ federal contracts to 1789 portfolio companies. Verify timing, amounts, policy benefits and denials.",
+  "origin": "follow-up",
+  "parents": [
+   "C32",
+   "C28",
+   "C26"
+  ]
+ },
+ {
+  "id": "C52",
+  "slug": "crypto-lobbyists-sec-director",
+  "lines": "",
+  "title": "Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit",
+  "claim": "Leads from C43/C22: crypto firms with matters before regulators hired Trump-connected lobbying firms \u2014 Miller Strategies (Jeff Miller; Crypto.com, Gemini), Ballard Partners (Kraken, Blockchain.com), others (Binance's hires) \u2014 with fees and outcomes; the Winklevoss twins' $10M+ bitcoin gift to MAGA Inc. shortly after the CFTC joined Gemini's bid to vacate its judgment; the sudden resignation of the SEC enforcement director in March 2026 and Sen. Blumenthal's inquiry into whether crypto cases were involved; crypto super PAC Fairshake's spending. Verify amounts, dates, and responses.",
+  "origin": "follow-up",
+  "parents": [
+   "C43",
+   "C23",
+   "C22"
+  ]
  }
 ]

@@ -1,0 +1,25 @@
+---
+id: "axiom-management-group"
+kind: "entity"
+type: "company"
+connections: 4
+claims: 1
+tags:
+  - "entity"
+  - "type/company"
+---
+# Axiom Management Group
+
+*company*
+
+Herro/Folkman entity entitled to the other 25% of WLF net revenue
+
+## Appears in claims
+
+- [[C42 How World Liberty insiders took money out]] · Mostly accurate
+
+## Relationships
+
+- [[Axiom Management Group]] *entitled to 25% of net protocol revenue* [[World Liberty Financial]] (2024-10, money) · [[C42 How World Liberty insiders took money out|C42]]
+- [[Chase Herro]] *co-owns* [[Axiom Management Group]] (2024-10, ownership) · [[C42 How World Liberty insiders took money out|C42]]
+- [[Zak Folkman]] *co-owns* [[Axiom Management Group]] (2024-10, ownership) · [[C42 How World Liberty insiders took money out|C42]]

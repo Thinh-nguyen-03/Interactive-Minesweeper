@@ -2,8 +2,11 @@
 id: "donald-trump-jr"
 kind: "entity"
 type: "person"
-connections: 21
-claims: 10
+aliases:
+  - "Don Jr."
+  - "Trump Jr."
+connections: 49
+claims: 20
 tags:
   - "entity"
   - "type/person"
@@ -12,13 +15,13 @@ tags:
 
 *person*
 
-Co-owner of American Bitcoin via American Data Centers; Thumzup investor.
+President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kalshi and Polymarket, SPAC adviser.
 
-- Trustee of the Donald J. Trump Revocable Trust; TMTG board member
-- President's son; SPAC strategic adviser with 2M founder shares.
-- TMTG board member; spoke for the board on the CEO change
+- Trump son; WLF backer and promoter.
+- Trump son and WLF co-founder.
 - Trump son, WLF co-founder; posted about USD1 milestones
 - Co-announced Trump Mobile in June 2025
+- Co-owner of American Bitcoin via American Data Centers; Thumzup investor.
 
 ## Appears in claims
 
@@ -30,23 +33,76 @@ Co-owner of American Bitcoin via American Data Centers; Thumzup investor.
 - [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
 - [[C20 Trump's stock purchases and Truth Social posts]] · Mostly accurate
 - [[C21 TMTG's market-moving 'truths' API and Truth+]] · Mostly accurate
+- [[C24 TMTG ETFs, TAE fusion merger, TMTG losses]] · Mostly accurate
+- [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
+- [[C26 1789 Capital and Vulcan Elements]] · Mostly accurate
 - [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
-- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Pending
+- [[C29 Trump family wealth gains]] · Mostly accurate
+- [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
+- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
+- [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
+- [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
+- [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+- [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
+- [[C42 How World Liberty insiders took money out]] · Mostly accurate
 
 ## Relationships
 
-- [[Donald Trump]] *father of* [[Donald Trump Jr]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Donald Trump Jr]] *co-owner of* [[American Bitcoin Corp. (ABTC)]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Ches McDowell]] *friend of* [[Donald Trump Jr]] (political) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Coffeezilla]] *requested comment from (no reply, per video)* [[Donald Trump Jr]] (2026, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *requested comment, no reply* [[Donald Trump Jr]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Citizens for Responsibility and Ethics in Washington]] *reported on board-role conflicts of* [[Donald Trump Jr]] (media) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Donald Trump Jr]] *co-founder and shareholder* [[American Bitcoin]] (2025-03, ownership) · [[C29 Trump family wealth gains|C29]]
+- [[Donald Trump Jr]] *co-owner of* [[American Bitcoin]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump Jr]] *part-owns* [[American Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump Jr]] *co-founded* [[American Data Centers Inc]] (2025-02, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings]] (2025-02, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump Jr]] *investor (passive)* [[American Ventures]] (2026, money) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] (2025-02-21, $1M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *adviser (advisory board)* [[Dominari Holdings Dominari Securities]] (2025-02-10, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] (2025-02, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Donald Trump Jr]] *trustee of* [[Donald J. Trump Revocable Trust]] (2024-12, family) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Donald Trump Jr]] *brother* [[Eric Trump]] (family) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *brother of* [[Eric Trump]] (family) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[Donald Trump Jr]] *co-founder of* [[Executive Branch]] (2025-04, ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *board member* [[GrabAGun Digital Holdings]] (2025-07, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump Jr]] *director; about 300,000 shares (about $3M)* [[GrabAGun Digital Holdings]] (2025-07, $3M, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] (2025-01, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Donald Trump Jr]] *strategic adviser (paid partly in shares, reportedly >$300k)* [[Kalshi]] (2025-01, $300K, advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *strategic adviser to* [[Kalshi]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *adviser to* [[New America Acquisition I Corp]] (advisory) · [[C27 New America Acquisition I Corp SPAC|C27]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *strategic adviser; holds 2M founder shares (~$20M paper value)* [[New America Acquisition I Corp]] (2025-08, $20M, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump Jr]] *advisory board member* [[Polymarket]] (2025-08-26, advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *advisory board member of* [[Polymarket]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *joined advisory board* [[Polymarket]] (2025-08-26, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Donald Trump Jr]] *urged GOP AGs to leave prediction markets to federal regulators (reported)* [[Republican Attorneys General Association]] (2026-03, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *reportedly urged not to fight prediction markets* [[Republican state attorneys general]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *invested via Dominari-tied vehicle* [[Skyline Builders Group]] (2025-08, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *350,000-share stake (about $4M)* [[Thumzup Media]] (2025-07, $4M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *took stake in* [[Thumzup Media]] (2025-07, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump Jr]] *board director; trustee of father's shares in* [[Trump Media & Technology Group]] (ownership) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Donald Trump Jr]] *board member* [[Trump Media & Technology Group]] (advisory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Donald Trump Jr]] *director of* [[Trump Media & Technology Group]] (advisory) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Donald Trump Jr]] *co-announced launch of* [[Trump Mobile]] (2025-06-16, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Donald Trump Jr]] *adviser and shareholder of* [[Unusual Machines]] (advisory) · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Donald Trump Jr]] *advisory board member and shareholder* [[Unusual Machines]] (2024-11-27, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *advisory board member and shareholder (331,580 shares) of* [[Unusual Machines]] (2024-11-27, advisory) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *backs and promotes* [[World Liberty Financial]] (2024-09, advisory) · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Donald Trump Jr]] *co-founder* [[World Liberty Financial]] (ownership) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[Donald Trump Jr]] *co-founder figure* [[World Liberty Financial]] (ownership) · [[C42 How World Liberty insiders took money out|C42]]
 - [[Donald Trump Jr]] *co-founder of* [[World Liberty Financial]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Donald Trump Jr]] *family co-founder of* [[World Liberty Financial]] (ownership) · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[Forbes]] *estimated net worth about $300M (6x)* [[Donald Trump Jr]] (2025-12-08, $300M, media) · [[C29 Trump family wealth gains|C29]]
+- [[Forbes]] *estimates 6x richer* [[Donald Trump Jr]] (media) · [[C29 Trump family wealth gains|C29]]
+- [[John Curtis]] *sought subpoena of* [[Donald Trump Jr]] (2026-09-21, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[The New York Times]] *reported AG pitch* [[Donald Trump Jr]] (2026-08-27, media) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Peter Navarro]] *described as friend of* [[Donald Trump Jr]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Tarek Mansour]] *would not explain role of* [[Donald Trump Jr]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+
+## Themes
+
+- [[Theme - Family member hired as adviser for the name]]
+- [[Theme - Blanket denials]]

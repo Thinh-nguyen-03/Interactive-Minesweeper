@@ -21,6 +21,10 @@ tags:
 
 > TMTG announced a paid API giving a real-time feed of Truth Social's most market-moving posts; interim CEO Kevin McGurn said 'markets already move on Truth Social posts'; it reportedly costs $100,000 a month with multiple buyers; TMTG also has Truth+, a streaming service with 'Patriot packages' and non-woke content.
 
+## Follow-up checks
+
+- [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
+
 ## Summary
 
 TMTG did announce 'Truth API' on July 16, 2026. It is a paid, real-time licensed feed of 'the platform's most market-moving Truths', and interim CEO Kevin McGurn said 'Markets already move on Truth Social posts.' The FT, via Reuters, reported pricing of up to $100,000 a month, and TMTG later confirmed a $60K-$100K range and more than 10 customer agreements. Truth+ and its 'non-woke' Patriot Package are real, but they launched in 2024-2025, not alongside the API. TMTG also disputes that the feed gives 'early' access rather than faster delivery.
@@ -70,8 +74,13 @@ TMTG did announce 'Truth API' on July 16, 2026. It is a paid, real-time licensed
 - The 'markets already move' premise holds only for some posts. A JPMorgan analysis, reported by Axios in July 2026, found most Trump posts no longer move bond markets.
 - TMTG is heavily loss-making (about $3.7M revenue and a $712M net loss for 2025), and McGurn said only 'modest' API revenue had been recognized.
 
+## Themes
+
+- [[Theme - Monetizing the office, brand and access]]
+
 ## People and organisations
 
+- [[Adam Schiff]]
 - [[Bloomberg LP]]
 - [[Devin Nunes]]
 - [[Donald J. Trump Revocable Trust]]
@@ -85,45 +94,48 @@ TMTG did announce 'Truth API' on July 16, 2026. It is a paid, real-time licensed
 - [[Newsmax]]
 - [[Paul Atkins]]
 - [[Reuters]]
-- [[Sen. Adam Schiff]]
+- [[Securities and Exchange Commission]]
 - [[Susquehanna International Group]]
 - [[Trump Media & Technology Group]]
 - [[Truth API]]
 - [[Truth Social]]
+- [[Truth Social market-moving truths API]]
 - [[Truth+]]
 - [[Truth+ Patriot Package]]
-- [[U.S. Securities and Exchange Commission]]
 - [[US Congress]]
-- [[White House]]
+- [[White House Trump administration]]
 
 ## Relationships documented
 
-- [[Sen. Adam Schiff]] *asked to investigate Truth API* [[U.S. Securities and Exchange Commission]] (2026-07-29, political) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Adam Schiff]] *asked to investigate Truth API* [[Securities and Exchange Commission]] (2026-07-29, political) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Bloomberg LP]] *reported subscriber ($60K-$100K/month range)* [[Truth API]] (2026, $100K, money) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Devin Nunes]] *former CEO, stepped down* [[Trump Media & Technology Group]] (2026-04, advisory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Donald J. Trump Revocable Trust]] *largest shareholder (about 41% per Reuters)* [[Trump Media & Technology Group]] (ownership) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Donald Trump]] *sole beneficiary* [[Donald J. Trump Revocable Trust]] (ownership) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Donald Trump Jr]] *board member* [[Trump Media & Technology Group]] (advisory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Elizabeth Warren]] *asked to investigate Truth API* [[U.S. Securities and Exchange Commission]] (2026-07-29, political) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Elizabeth Warren]] *asked to investigate Truth API* [[Securities and Exchange Commission]] (2026-07-29, political) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Financial Times]] *reported up-to-$100K/month pricing* [[Truth API]] (2026-07-17, media) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Great American Media]] *supplies on-demand catalogue to* [[Truth+ Patriot Package]] (2025-08-07, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Jump Trading]] *reported subscriber* [[Truth API]] (2026, money) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] (2026-04, advisory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] (2026-04, advisory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Newsmax]] *channel carried on* [[Truth+]] (2025-07-07, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Paul Atkins]] *chairs* [[U.S. Securities and Exchange Commission]] (regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[U.S. Securities and Exchange Commission]] *asked to probe Truth API (no probe confirmed)* [[Trump Media & Technology Group]] (2026-07, regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Paul Atkins]] *chairs* [[Securities and Exchange Commission]] (regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C22 Crypto.com and TMTG|C22]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *asked to probe Truth API (no probe confirmed)* [[Trump Media & Technology Group]] (2026-07, regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Susquehanna International Group]] *reported subscriber* [[Truth API]] (2026, money) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Trump Media & Technology Group]] *launched (announced 2026-07-16, live 2026-08-01)* [[Truth API]] (2026-07-16, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Trump Media & Technology Group]] *launched* [[Truth+]] (commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Trump Media & Technology Group]] *operates* [[Truth+]] (2024-08, ownership) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Trump Media & Technology Group]] *owns* [[Truth Social]] (ownership) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Trump Media & Technology Group]] *owns* [[Truth Social]] (ownership) · [[C20 Trump's stock purchases and Truth Social posts|C20]] [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Trump Media & Technology Group]] *sells for ~$100K/month* [[Truth Social market-moving truths API]] ($100K, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Truth+]] *premium tier* [[Truth+ Patriot Package]] (2025-07, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Truth Social]] *posts of top 10 accounts distributed via* [[Truth API]] (commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Truth Social market-moving truths API]] *streams market-moving posts of* [[Truth Social]] (commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 
 ## Leads not covered by the video
 
 - **Bloomberg, Susquehanna and Jump Trading as Truth API subscribers**: Named customers paying a company majority-linked to the president for low-latency access to his posts; their other regulatory exposure (e.g., Jump's crypto history, SEC/CFTC matters) is worth checking for quid-pro-quo concerns. [source](https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say) · [[Bloomberg LP]] [[Susquehanna International Group]] [[Jump Trading]] [[Truth API]]
-- **Warren-Schiff request for an SEC probe of Truth API and the SEC's response**: Tests whether the Trump-appointed SEC under Paul Atkins acts on a complaint about a Trump-owned company, which is the regulator-conflict theme of the video. [source](https://www.banking.senate.gov/newsroom/minority/warren-schiff-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts) · [[U.S. Securities and Exchange Commission]] [[Paul Atkins]] [[Elizabeth Warren]] [[Sen. Adam Schiff]] [[Trump Media & Technology Group]]
-- **Devin Nunes exits TMTG amid a $712M loss to chair the President's Intelligence Advisory Board**: Revolving door between a Trump family company and a White House intelligence advisory post. [source](https://krdo.com/news/2026/04/22/devin-nunes-steps-down-as-head-of-trumps-struggling-media-company/) · [[Devin Nunes]] [[Trump Media & Technology Group]] [[Kevin McGurn]] [[White House]]
+- **Warren-Schiff request for an SEC probe of Truth API and the SEC's response**: Tests whether the Trump-appointed SEC under Paul Atkins acts on a complaint about a Trump-owned company, which is the regulator-conflict theme of the video. [source](https://www.banking.senate.gov/newsroom/minority/warren-schiff-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts) · [[Securities and Exchange Commission]] [[Paul Atkins]] [[Elizabeth Warren]] [[Adam Schiff]] [[Trump Media & Technology Group]]
+- **Devin Nunes exits TMTG amid a $712M loss to chair the President's Intelligence Advisory Board**: Revolving door between a Trump family company and a White House intelligence advisory post. [source](https://krdo.com/news/2026/04/22/devin-nunes-steps-down-as-head-of-trumps-struggling-media-company/) · [[Devin Nunes]] [[Trump Media & Technology Group]] [[Kevin McGurn]] [[White House Trump administration]]
 - **Truth Social / Truth+ 'utility token' plan tied to user engagement**: Another TMTG crypto-adjacent monetization scheme linked to the Patriot Package rewards (gems). [source](https://www.theblock.co/news/business/2025-07-10-truth-social-utlity-token-streaming-361931) · [[Truth Social]] [[Truth+]] [[Truth+ Patriot Package]] [[Trump Media & Technology Group]]
 
 ## Sources

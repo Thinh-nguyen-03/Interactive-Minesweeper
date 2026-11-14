@@ -72,6 +72,11 @@ Every product named exists and pays Trump royalties: NFTs (Dec 2022), watches, g
 - Coffeezilla's estimate of about 30,000 real pre-orders (some outlets say 10,000), against roughly 590,000 claimed earlier, is his own inference from the leaked IDs.
 - Coffeezilla himself says these consumer products matter less than the regulated industries the family is entering.
 
+## Themes
+
+- [[Theme - Secrecy and non-disclosure]]
+- [[Theme - Monetizing the office, brand and access]]
+
 ## People and organisations
 
 - [[CIC Ventures LLC]]
@@ -83,20 +88,31 @@ Every product named exists and pays Trump royalties: NFTs (Dec 2022), watches, g
 - [[Federal Trade Commission]]
 - [[God Bless the USA Bible]]
 - [[NFT INT LLC]]
+- [[T1 phone]]
+- [[Trump Bible]]
 - [[Trump Digital Trading Cards]]
+- [[Trump fragrances]]
+- [[Trump golden sneakers]]
 - [[Trump Mobile]]
-- [[Trump Mobile T1]]
+- [[Trump NFTs]]
 - [[Trump Organization]]
-- [[Trump Sneakers (Never Surrender high-tops)]]
-- [[Trump Watches]]
+- [[Trump watches]]
+- [[United States]]
 - [[US Congress]]
 - [[Victory 47 fragrance]]
 
 ## Relationships documented
 
 - [[CIC Ventures LLC]] *licensor of* [[God Bless the USA Bible]] (2024-03, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
-- [[CIC Ventures LLC]] *licensor of* [[Trump Sneakers (Never Surrender high-tops)]] (2024-02, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[CIC Ventures LLC]] *licensor of* [[Trump golden sneakers]] (2024-02, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Coffeezilla]] *ordered, then was doxxed* [[T1 phone]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Coffeezilla]] *ordered T1; personal data exposed by* [[Trump Mobile]] (2026-05, media) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Donald Trump]] *sells* [[Trump Bible]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Donald Trump]] *sells* [[Trump fragrances]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Donald Trump]] *sells* [[Trump NFTs]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Donald Trump]] *owns* [[Trump Organization]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Donald Trump]] *sells* [[Trump golden sneakers]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Donald Trump]] *sells* [[Trump watches]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Donald Trump]] *lends name to* [[Victory 47 fragrance]] (2024-12, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Donald Trump Jr]] *co-announced launch of* [[Trump Mobile]] (2025-06-16, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Elizabeth Warren]] *urged investigation of Trump Mobile marketing* [[Federal Trade Commission]] (2026-01-15, regulatory) · [[C17 Trump merchandise and the T1 phone|C17]]
@@ -104,10 +120,13 @@ Every product named exists and pays Trump royalties: NFTs (Dec 2022), watches, g
 - [[God Bless the USA Bible]] *paid royalties via Greenwood (2024) to* [[Donald Trump]] (2024, $1.31M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[NFT INT LLC]] *paid NFT licensing income (2024) to* [[Donald Trump]] (2024, $1.16M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[NFT INT LLC]] *issued* [[Trump Digital Trading Cards]] (2022-12-15, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
-- [[Trump Mobile]] *sells; dropped 'Made in the USA' banner for* [[Trump Mobile T1]] (2025-06, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[T1 phone]] *dropped 'made in America' claim* [[United States]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Trump Mobile]] *sells* [[T1 phone]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Trump Mobile]] *sells; dropped 'Made in the USA' banner for* [[T1 phone]] (2025-06, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Trump Organization]] *licenses Trump brand to* [[Trump Mobile]] (2025-06, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
-- [[Trump Sneakers (Never Surrender high-tops)]] *sneaker and fragrance royalties (2024) to* [[Donald Trump]] (2024, $2.5M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
-- [[Trump Watches]] *paid royalties (2024) to* [[Donald Trump]] (2024, $2.8M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Trump Organization]] *licenses name to* [[Trump Mobile]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Trump golden sneakers]] *sneaker and fragrance royalties (2024) to* [[Donald Trump]] (2024, $2.5M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Trump watches]] *paid royalties (2024) to* [[Donald Trump]] (2024, $2.8M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[US Congress]] *Democratic members questioned marketing of* [[Trump Mobile]] (2025-08-05, political) · [[C17 Trump merchandise and the T1 phone|C17]]
 
 ## Sources

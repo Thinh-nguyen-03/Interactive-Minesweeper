@@ -23,7 +23,8 @@ tags:
 
 ## Follow-up checks
 
-- [[C36 Clemency for other crypto and donor-linked figures]] · Pending
+- [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
+- [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 
 ## Summary
 
@@ -73,6 +74,13 @@ The SEC dismissed its case against Binance and Zhao with prejudice on May 29, 20
 - Binance CEO Richard Teng: Binance had no role in MGX choosing USD1, and USD1 was listed elsewhere first.
 - The SEC civil case was separate from the 2023 criminal guilty pleas ($4.3B penalty for Binance; 4 months in prison for Zhao). Dropping the SEC case did not erase the criminal conviction.
 
+## Themes
+
+- [[Theme - Regulator dropped the case after money flowed]]
+- [[Theme - Official favours follow the money]]
+- [[Theme - The 'beat China' justification]]
+- [[Theme - Blanket denials]]
+
 ## People and organisations
 
 - [[All-In Podcast]]
@@ -86,15 +94,17 @@ The SEC dismissed its case against Binance and Zhao with prejudice on May 29, 20
 - [[Eric Trump]]
 - [[Karoline Leavitt]]
 - [[MGX]]
+- [[MGX $2B investment in Binance]]
 - [[Pardon of Changpeng Zhao]]
 - [[Richard Teng]]
-- [[Tahnoon bin Zayed Al Nahyan]]
+- [[SEC lawsuit against Binance]]
+- [[Securities and Exchange Commission]]
+- [[Sheikh Tahnoon bin Zayed]]
 - [[The Wall Street Journal]]
 - [[U.S. Department of Justice]]
-- [[U.S. Securities and Exchange Commission]]
 - [[United Arab Emirates]]
 - [[USD1]]
-- [[White House]]
+- [[White House Trump administration]]
 - [[World Liberty Financial]]
 - [[Zach Witkoff]]
 
@@ -103,28 +113,35 @@ The SEC dismissed its case against Binance and Zhao with prejudice on May 29, 20
 - [[All-In Podcast]] *interviewed on pardon* [[Changpeng Zhao]] (2026-02-10, media) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Binance]] *reportedly helped build tech for and promoted* [[USD1]] (2025, commercial) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[CBS 60 Minutes]] *interviewed on Zhao pardon* [[Donald Trump]] (2025-11-02, media) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Changpeng Zhao]] *founded, beneficial owner of* [[Binance]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Changpeng Zhao]] *founder and major owner of* [[Binance]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Chris Murphy]] *accused of promoting Trump-linked crypto after pardon* [[Binance]] (2025-10, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Pardon of Changpeng Zhao]] *eases US re-entry of* [[Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Pardon of Changpeng Zhao]] *pardoned* [[Changpeng Zhao]] (2025-10-23, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]]
+- [[Donald Trump]] *claims not to know* [[Changpeng Zhao]] (political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Donald Trump]] *granted* [[Pardon of Changpeng Zhao]] (legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Donald Trump]] *signed* [[Pardon of Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Donald Trump]] *family-linked venture of* [[World Liberty Financial]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Donald Trump Jr]] *co-founder of* [[World Liberty Financial]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Elizabeth Warren]] *criticized as corrupt* [[Pardon of Changpeng Zhao]] (2025-10, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Eric Trump]] *co-founder of* [[World Liberty Financial]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Karoline Leavitt]] *defended* [[Pardon of Changpeng Zhao]] (2025-10-23, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[MGX]] *invested $2B (settled in USD1) in* [[Binance]] (2025-03-12, $2B, money) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[MGX]] *based in / state-linked to* [[United Arab Emirates]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[MGX]] *used to settle Binance investment* [[USD1]] (2025-05-01, $2B, commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Richard Teng]] *CEO of* [[Binance]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]]
-- [[U.S. Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Binance]] (2025-05-29, regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[U.S. Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Changpeng Zhao]] (2025-05-29, regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Tahnoon bin Zayed Al Nahyan]] *chairs* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Binance]] (2025-05-29, regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Securities and Exchange Commission]] *dropped lawsuit against* [[Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Changpeng Zhao]] (2025-05-29, regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Securities and Exchange Commission]] *dropped* [[SEC lawsuit against Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[SEC lawsuit against Binance]] *targeted* [[Binance]] (legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[U.S. Department of Justice]] *secured guilty plea (BSA/AML) from* [[Changpeng Zhao]] (2023-11, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[The Wall Street Journal]] *reported Binance helped build USD1* [[Binance]] (2025-10, media) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[White House]] *announced* [[Pardon of Changpeng Zhao]] (2025-10-23, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[White House Trump administration]] *announced* [[Pardon of Changpeng Zhao]] (2025-10-23, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[World Liberty Financial]] *issues* [[USD1]] (2025-03, commercial) · [[C04 World Liberty Financial founding and token sale|C04]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Zach Witkoff]] *announced USD1 for MGX-Binance deal* [[USD1]] (2025-05-01, commercial) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 

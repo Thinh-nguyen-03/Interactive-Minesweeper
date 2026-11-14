@@ -5,15 +5,16 @@ tags:
 ---
 # Trump Claims Map
 
-A fact-check of 30 claims made in Coffeezilla, “Investigating The President”, plus 6 follow-up leads the video did not cover. Each claim was checked independently against public records and reporting. Open the graph view to explore.
+A fact-check of 30 claims made in Coffeezilla, “Investigating The President”, plus 14 follow-up leads the video did not cover. Each claim was checked independently against public records and reporting. Open the graph view to explore.
 
 Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
 ## Verdicts
 
 - Confirmed: 2
-- Mostly accurate: 27
-- Pending: 7
+- Mostly accurate: 40
+- Partly accurate: 1
+- Unverified: 1
 
 ## Claims
 
@@ -46,38 +47,63 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
 - [[C28 Foundation Future Industries robots and Eric Trump]] · Mostly accurate
 - [[C29 Trump family wealth gains]] · Mostly accurate
-- [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Pending
-- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Pending
-- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Pending
-- [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Pending
-- [[C34 David Sacks AI & crypto czar with investments]] · Pending
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Pending
-- [[C36 Clemency for other crypto and donor-linked figures]] · Pending
+- [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
+- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
+- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
+- [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
+- [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
+- [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
+- [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+- [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
+- [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
+- [[C42 How World Liberty insiders took money out]] · Mostly accurate
+- [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+
+## Themes
+
+- [[Theme - Regulator dropped the case after money flowed]]
+- [[Theme - Gulf sovereign money and dual-role envoys]]
+- [[Theme - President appoints the regulator of the family business]]
+- [[Theme - President makes the law for markets the family is in]]
+- [[Theme - Official favours follow the money]]
+- [[Theme - The 'beat China' justification]]
+- [[Theme - Insiders profit, retail investors lose]]
+- [[Theme - Family member hired as adviser for the name]]
+- [[Theme - Government contracts near family-linked firms]]
+- [[Theme - Secrecy and non-disclosure]]
+- [[Theme - Blanket denials]]
+- [[Theme - Monetizing the office, brand and access]]
+- [[Theme - Narrative over product, circular deals]]
+- [[Theme - Flood the zone too much to follow]]
 
 ## Most connected
 
-- [[Donald Trump]] (25 claims, 70 connections)
-- [[World Liberty Financial]] (12 claims, 41 connections)
-- [[U.S. Securities and Exchange Commission]] (9 claims, 34 connections)
-- [[Eric Trump]] (16 claims, 29 connections)
-- [[White House]] (17 claims, 28 connections)
-- [[Donald Trump Jr]] (10 claims, 21 connections)
-- [[United Arab Emirates]] (8 claims, 20 connections)
-- [[Trump Media & Technology Group]] (4 claims, 18 connections)
-- [[USD1]] (7 claims, 18 connections)
-- [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2 claims, 16 connections)
-- [[Coffeezilla]] (9 claims, 15 connections)
-- [[Steve Witkoff]] (5 claims, 15 connections)
-- [[Binance]] (5 claims, 14 connections)
-- [[Elizabeth Warren]] (6 claims, 14 connections)
-- [[US Congress]] (7 claims, 14 connections)
-- [[The Wall Street Journal]] (7 claims, 14 connections)
-- [[Trump Organization]] (7 claims, 13 connections)
-- [[Aryam Investment 1]] (4 claims, 12 connections)
-- [[Justin Sun]] (4 claims, 12 connections)
-- [[Molly White]] (6 claims, 12 connections)
-- [[New America Acquisition I Corp]] (1 claims, 12 connections)
-- [[Zach Witkoff]] (8 claims, 12 connections)
-- [[American Bitcoin Corp. (ABTC)]] (2 claims, 11 connections)
-- [[G42]] (4 claims, 11 connections)
-- [[MGX]] (4 claims, 11 connections)
+- [[Donald Trump]] (44 claims, 145 connections)
+- [[World Liberty Financial]] (19 claims, 70 connections)
+- [[Securities and Exchange Commission]] (17 claims, 61 connections)
+- [[White House Trump administration]] (30 claims, 51 connections)
+- [[Donald Trump Jr]] (20 claims, 49 connections)
+- [[Eric Trump]] (22 claims, 45 connections)
+- [[Trump Media & Technology Group]] (11 claims, 41 connections)
+- [[US Congress]] (19 claims, 35 connections)
+- [[Coffeezilla]] (14 claims, 33 connections)
+- [[Elizabeth Warren]] (14 claims, 33 connections)
+- [[United Arab Emirates]] (12 claims, 31 connections)
+- [[Jared Kushner]] (3 claims, 25 connections)
+- [[$TRUMP meme coin]] (7 claims, 24 connections)
+- [[Trump Organization]] (11 claims, 24 connections)
+- [[USD1]] (10 claims, 24 connections)
+- [[The Wall Street Journal]] (12 claims, 24 connections)
+- [[Commodity Futures Trading Commission]] (4 claims, 23 connections)
+- [[Crypto.com]] (6 claims, 23 connections)
+- [[Molly White]] (12 claims, 23 connections)
+- [[ALT5 Sigma]] (4 claims, 22 connections)
+- [[Steve Witkoff]] (8 claims, 22 connections)
+- [[Binance]] (7 claims, 21 connections)
+- [[Dominari Holdings Dominari Securities]] (3 claims, 21 connections)
+- [[Justin Sun]] (7 claims, 20 connections)
+- [[$MELANIA meme coin]] (5 claims, 18 connections)

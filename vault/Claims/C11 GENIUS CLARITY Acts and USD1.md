@@ -23,8 +23,8 @@ tags:
 
 ## Follow-up checks
 
-- [[C34 David Sacks AI & crypto czar with investments]] · Pending
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Pending
+- [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 
 ## Summary
 
@@ -81,6 +81,10 @@ Trump publicly pushed the GENIUS Act and lobbied House holdouts personally, incl
 - Democratic amendments to bar the president and his family from profiting from stablecoins were not included. Reporting says the ethics provision covers members of Congress but not the president's family.
 - 'GENIUS compliant' is a WLF/Trump-family marketing claim. Implementing rules are not yet effective, and BPI disputes that USD1's reserves would qualify.
 
+## Themes
+
+- [[Theme - President makes the law for markets the family is in]]
+
 ## People and organisations
 
 - [[Bank Policy Institute]]
@@ -92,32 +96,41 @@ Trump publicly pushed the GENIUS Act and lobbied House holdouts personally, incl
 - [[Eric Trump]]
 - [[GENIUS Act]]
 - [[House Freedom Caucus]]
+- [[Molly White]]
 - [[PayPal USD (PYUSD)]]
 - [[US Congress]]
 - [[USD1]]
-- [[White House]]
+- [[White House Trump administration]]
 - [[World Liberty Financial]]
+- [[X (Twitter) (x-twitter)]]
 - [[X (Twitter)]]
 
 ## Relationships documented
 
 - [[Bank Policy Institute]] *argued reserves would not meet GENIUS rules* [[USD1]] (2026-06, regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
-- [[BitGo]] *custodies reserves* [[USD1]] (2025-03-25, commercial) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[BitGo]] *custodies reserves* [[USD1]] (2025-03-25, commercial) · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Donald Trump]] *lobbied House to pass* [[CLARITY Act]] (2025-07, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[Donald Trump]] *pushed* [[CLARITY Act]] (political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Donald Trump]] *lobbied for and signed into law* [[GENIUS Act]] (2025-07-18, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[Donald Trump]] *pushed, lobbied votes for* [[GENIUS Act]] (political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Donald Trump]] *met and called holdouts to flip votes* [[House Freedom Caucus]] (2025-07-15, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[Donald Trump]] *made night-time calls to* [[US Congress]] (political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Donald Trump]] *family holds majority stake / revenue share* [[World Liberty Financial]] (ownership) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Donald Trump Jr]] *co-founder* [[World Liberty Financial]] (ownership) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Elizabeth Warren]] *pushed anti-corruption amendment re Trump/USD1* [[GENIUS Act]] (2025-05, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
-- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Eric Trump]] *promoted on X as passing PYUSD / 'GENIUS Act compliant'* [[USD1]] (2026-01-23, media) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Eric Trump]] *co-founder* [[World Liberty Financial]] (ownership) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[GENIUS Act]] *regulates (USD1 marketed as compliant)* [[USD1]] (regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[GENIUS Act]] *benefits* [[World Liberty Financial]] (regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[US Congress]] *House passed 294-134; Senate cloture failed 49-50* [[CLARITY Act]] (2026-09-15, regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[US Congress]] *passed* [[GENIUS Act]] (2025-07, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[US Congress]] *passed (Senate 68-30, House 308-122)* [[GENIUS Act]] (2025-07-17, regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[USD1]] *marketed as 2nd-largest compliant coin* [[GENIUS Act]] (regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[USD1]] *overtook in market cap* [[PayPal USD (PYUSD)]] (2026-01, commercial) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
-- [[White House]] *denies conflicts of interest* [[Donald Trump]] (political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[White House Trump administration]] *denies conflicts of interest* [[Donald Trump]] (political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[World Liberty Financial]] *Trump son boasted on* [[X (Twitter)]] (media) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[World Liberty Financial]] *issues* [[USD1]] (2025-03, commercial) · [[C04 World Liberty Financial founding and token sale|C04]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C11 GENIUS CLARITY Acts and USD1|C11]]
 
 ## Sources

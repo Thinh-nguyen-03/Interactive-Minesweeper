@@ -77,6 +77,13 @@ Documented: MGX, chaired by Tahnoon bin Zayed, used WLF's weeks-old USD1 to sett
 - Columbia's Omid Malekan noted that WLF earns no yield if Binance redeems the USD1 quickly; Bloomberg and Forbes later found Binance holding most USD1 supply.
 - Senators Warren and Merkley sought documents from MGX and Binance about the deal.
 
+## Themes
+
+- [[Theme - Gulf sovereign money and dual-role envoys]]
+- [[Theme - Secrecy and non-disclosure]]
+- [[Theme - Blanket denials]]
+- [[Theme - Narrative over product, circular deals]]
+
 ## People and organisations
 
 - [[Aryam Investment 1]]
@@ -88,7 +95,9 @@ Documented: MGX, chaired by Tahnoon bin Zayed, used WLF's weeks-old USD1 to sett
 - [[Forbes]]
 - [[G42]]
 - [[MGX]]
-- [[Tahnoon bin Zayed Al Nahyan]]
+- [[MGX $2B investment in Binance]]
+- [[Molly White]]
+- [[Sheikh Tahnoon bin Zayed]]
 - [[The Wall Street Journal]]
 - [[United Arab Emirates]]
 - [[USD1]]
@@ -107,13 +116,24 @@ Documented: MGX, chaired by Tahnoon bin Zayed, used WLF's weeks-old USD1 to sett
 - [[G42]] *founding partner of* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[G42]] *executives took board seats via Aryam deal* [[World Liberty Financial]] (2025-01, advisory) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[MGX]] *invested $2B (minority stake) in, settled in USD1* [[Binance]] (2025-03-12, $2B, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *invested $2B in* [[Binance]] ($2B, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *made* [[MGX $2B investment in Binance]] ($2B, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[MGX]] *state-backed fund of* [[United Arab Emirates]] (political) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *state-linked firm of* [[United Arab Emirates]] (ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[MGX]] *chose as settlement stablecoin* [[USD1]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[MGX]] *used to settle Binance investment* [[USD1]] (2025-05-01, $2B, commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Tahnoon bin Zayed Al Nahyan]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]]
-- [[Tahnoon bin Zayed Al Nahyan]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[Tahnoon bin Zayed Al Nahyan]] *chairs* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[USD1]] *used to settle* [[MGX $2B investment in Binance]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[USD1]] *reserve interest flows to* [[World Liberty Financial]] (money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]]
 - [[The Wall Street Journal]] *revealed secret WLF stake of* [[Aryam Investment 1]] (2026-02-01, media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[World Liberty Financial]] *sent denials to* [[Coffeezilla]] (media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]] [[C12 WLF bank charter from the OCC|C12]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[World Liberty Financial]] *pays president and family* [[Donald Trump]] (money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]] [[C29 Trump family wealth gains|C29]]
+- [[World Liberty Financial]] *did not disclose stake of* [[Sheikh Tahnoon bin Zayed]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[World Liberty Financial]] *issued* [[USD1]] (commercial) · [[C04 World Liberty Financial founding and token sale|C04]] [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[World Liberty Financial]] *issues and earns reserve yield on* [[USD1]] (2025-03-25, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[Zach Witkoff]] *announced USD1 role in* [[MGX $2B investment in Binance]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Zach Witkoff]] *announced USD1 selection for MGX-Binance deal* [[USD1]] (2025-05-01, media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 
 ## Sources

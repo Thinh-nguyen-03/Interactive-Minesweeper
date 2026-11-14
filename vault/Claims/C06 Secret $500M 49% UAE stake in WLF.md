@@ -70,23 +70,31 @@ The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle bac
 - In August 2026 the WSJ reported that Tahnoon and co-investors also hold 49% of WLF's bank-charter holding company.
 - Verification relied on secondary outlets summarizing the paywalled WSJ article; the fetch tool could not reach those pages, so details come from consistent search summaries.
 
+## Themes
+
+- [[Theme - Gulf sovereign money and dual-role envoys]]
+- [[Theme - Secrecy and non-disclosure]]
+
 ## People and organisations
 
 - [[Aryam Investment 1]]
 - [[Donald Trump]]
 - [[Eric Trump]]
 - [[G42]]
+- [[January 2025 inauguration]]
 - [[Justin Sun]]
 - [[Martin Edelman]]
-- [[Mohamed bin Zayed Al Nahyan]]
+- [[Mohamed bin Zayed]]
 - [[Peng Xiao]]
 - [[Sam Kessler]]
+- [[Secret $500M 49% WLF stake deal]]
+- [[Sheikh Tahnoon bin Zayed]]
 - [[Steve Witkoff]]
-- [[Tahnoon bin Zayed Al Nahyan]]
+- [[Tahnoon-linked investment vehicle]]
 - [[The Wall Street Journal]]
 - [[UAE AI chips deal]]
 - [[United Arab Emirates]]
-- [[White House]]
+- [[White House Trump administration]]
 - [[World Liberty Financial]]
 - [[Zach Witkoff]]
 
@@ -95,20 +103,30 @@ The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle bac
 - [[Aryam Investment 1]] *upfront payment of about $187M to Trump-family entities* [[Donald Trump]] (2025-01, $187M, money) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Aryam Investment 1]] *at least $31M to Witkoff-family-linked entities* [[Steve Witkoff]] (2025-01, $31M, money) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Aryam Investment 1]] *agreed to pay $500M for a 49% stake in* [[World Liberty Financial]] (2025-01-16, $500M, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
-- [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *co-created, holds stake in* [[World Liberty Financial]] (ownership) · [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Eric Trump]] *signed the Aryam stake sale on behalf of* [[World Liberty Financial]] (2025-01-16, commercial) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[G42]] *earmarked share of chips under* [[UAE AI chips deal]] (2025-05, regulatory) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Justin Sun]] *bought $75M of WLFI tokens from* [[World Liberty Financial]] (2024-11, $75M, money) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Martin Edelman]] *board member representing Aryam* [[World Liberty Financial]] (2025, advisory) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[Mohamed bin Zayed]] *president of* [[United Arab Emirates]] (political) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Peng Xiao]] *board member representing Aryam* [[World Liberty Financial]] (2025, advisory) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Sam Kessler]] *reporter at* [[The Wall Street Journal]] (media) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[Sam Kessler]] *reports for* [[The Wall Street Journal]] (media) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Sam Kessler]] *investigated* [[World Liberty Financial]] (media) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Steve Witkoff]] *father of* [[Zach Witkoff]] (family) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Tahnoon bin Zayed Al Nahyan]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]]
-- [[Tahnoon bin Zayed Al Nahyan]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[Tahnoon bin Zayed Al Nahyan]] *brother of* [[Mohamed bin Zayed Al Nahyan]] (family) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
-- [[Tahnoon bin Zayed Al Nahyan]] *national security adviser of* [[United Arab Emirates]] (political) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Sheikh Tahnoon bin Zayed]] *brother of* [[Mohamed bin Zayed]] (family) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[Sheikh Tahnoon bin Zayed]] *signed* [[Secret $500M 49% WLF stake deal]] (2025-01-16, $500M, money) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Tahnoon-linked investment vehicle]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[Sheikh Tahnoon bin Zayed]] *national security adviser of* [[United Arab Emirates]] (political) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[Secret $500M 49% WLF stake deal]] *signed four days before* [[January 2025 inauguration]] (2025-01-16, political) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[Tahnoon-linked investment vehicle]] *secretly bought 49% for $500M* [[World Liberty Financial]] (2025-01-16, $500M, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C14 Steve and Zach Witkoff|C14]]
+- [[The Wall Street Journal]] *revealed* [[Secret $500M 49% WLF stake deal]] (media) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[The Wall Street Journal]] *revealed the secret UAE stake in* [[World Liberty Financial]] (2026-02-01, media) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
-- [[White House]] *denied wrongdoing in response to* [[The Wall Street Journal]] (2026-02, political) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[White House Trump administration]] *denied wrongdoing in response to* [[The Wall Street Journal]] (2026-02, political) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[World Liberty Financial]] *kept secret* [[Secret $500M 49% WLF stake deal]] (2025-01-16, commercial) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 
 ## Sources
 

@@ -20,4 +20,4 @@ Sun entity; SEC claims against it dismissed.
 
 ## Relationships
 
-- [[U.S. Securities and Exchange Commission]] *dismissed claims against* [[BitTorrent Foundation Ltd]] (2026-03-05, regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Securities and Exchange Commission]] *dismissed claims against* [[BitTorrent Foundation Ltd]] (2026-03-05, regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]

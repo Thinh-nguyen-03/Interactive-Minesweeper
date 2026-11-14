@@ -1,0 +1,19 @@
+---
+id: "destin-hall"
+kind: "entity"
+type: "person"
+connections: 1
+claims: 1
+tags:
+  - "entity"
+  - "type/person"
+---
+# Destin Hall
+
+*person*
+
+North Carolina House Speaker whose spokesman described the White House briefing.
+
+## Appears in claims
+
+- [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate

@@ -2,8 +2,10 @@
 id: "zach-witkoff"
 kind: "entity"
 type: "person"
-connections: 12
-claims: 8
+aliases:
+  - "Zachary Witkoff"
+connections: 17
+claims: 11
 tags:
   - "entity"
   - "type/person"
@@ -12,16 +14,17 @@ tags:
 
 *person*
 
-Son of Steve Witkoff; WLF co-founder, described as CEO, and board member.
+Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance deal; son of Steve Witkoff.
 
+- WLF CEO/co-founder; called Sun's suit meritless.
+- WLF co-founder and board member.
 - WLF co-founder who announced USD1's selection for the MGX deal.
-- WLF co-founder who announced USD1 would settle the MGX deal.
-- WLF co-founder/CEO; denied favoritism in the charter process
-- WLF co-founder and CEO; ALT5 board chairman since Aug 2025.
 - WLF co-founder; announced USD1 for MGX-Binance deal
+- WLF co-founder who announced USD1 would settle the MGX deal.
 
 ## Appears in claims
 
+- [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
 - [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
 - [[C06 Secret $500M 49% UAE stake in WLF]] · Confirmed
 - [[C07 MGX's $2B Binance investment settled in USD1]] · Mostly accurate
@@ -30,16 +33,28 @@ Son of Steve Witkoff; WLF co-founder, described as CEO, and board member.
 - [[C12 WLF bank charter from the OCC]] · Mostly accurate
 - [[C13 ALT5 Sigma $1.5B WLFI treasury deal]] · Mostly accurate
 - [[C14 Steve and Zach Witkoff]] · Mostly accurate
+- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
+- [[C42 How World Liberty insiders took money out]] · Mostly accurate
 
 ## Relationships
 
+- [[ALT5 Sigma]] *reportedly paid ~$90M to Witkoff family* [[Zach Witkoff]] ($90M, money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Steve Witkoff]] *father of* [[Zach Witkoff]] (family) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Zach Witkoff]] *board chairman of* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2025-08, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Zach Witkoff]] *board chairman of* [[ALT5 Sigma]] (2025-08, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Zach Witkoff]] *helps run* [[ALT5 Sigma]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Zach Witkoff]] *reported co-founder of* [[Executive Branch]] (2025-04, ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[Zach Witkoff]] *announced USD1 role in* [[MGX $2B investment in Binance]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Zach Witkoff]] *son of* [[Steve Witkoff]] (family) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Zach Witkoff]] *announced USD1 for MGX-Binance deal* [[USD1]] (2025-05-01, commercial) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Zach Witkoff]] *announced USD1 selection for MGX-Binance deal* [[USD1]] (2025-05-01, media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Zach Witkoff]] *announced as settlement currency for MGX deal* [[USD1]] (2025-05-01, commercial) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Zach Witkoff]] *CEO* [[World Liberty Financial]] (advisory) · [[C42 How World Liberty insiders took money out|C42]]
 - [[Zach Witkoff]] *CEO of* [[World Liberty Financial]] (ownership) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Zach Witkoff]] *co-founded* [[World Liberty Financial]] (ownership) · [[C04 World Liberty Financial founding and token sale|C04]] [[C14 Steve and Zach Witkoff|C14]]
 - [[Zach Witkoff]] *co-founder and CEO of* [[World Liberty Financial]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Zach Witkoff]] *co-founder, CEO and board member* [[World Liberty Financial]] (2024, ownership) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Zach Witkoff]] *co-founder/CEO of* [[World Liberty Financial]] (ownership) · [[C12 WLF bank charter from the OCC|C12]]
+
+## Themes
+
+- [[Theme - Gulf sovereign money and dual-role envoys]]

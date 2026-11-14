@@ -20,4 +20,4 @@ ALT5 president, later acting CEO.
 
 ## Relationships
 
-- [[Tony Isaac]] *president, then acting CEO* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2025-11, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Tony Isaac]] *president, then acting CEO* [[ALT5 Sigma]] (2025-11, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]

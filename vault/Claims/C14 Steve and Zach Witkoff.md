@@ -21,6 +21,10 @@ tags:
 
 > Zach Witkoff is a WLF co-founder; his father Steve Witkoff is US Special Envoy to the Middle East while WLF's largest shareholder is from the Middle East; WLF says Steve Witkoff has divested his stake.
 
+## Follow-up checks
+
+- [[C42 How World Liberty insiders took money out]] · Mostly accurate
+
 ## Summary
 
 Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's Middle East envoy, later also styled Special Envoy for Peace Missions. WSJ reporting shows that Aryam Investment 1, an Abu Dhabi vehicle backed by Sheikh Tahnoon, bought 49% of WLF for $500M in January 2025, making it the largest outside shareholder. The claim that WLF 'now says' Steve has divested is misattributed and overstated. WLF said in May 2025 that divestment was in process; Bloomberg and Senate Democrats reported it incomplete in September and October 2025; the assertion that he has 'divested' came from the White House in 2026. A 2026 disclosure also shows about $107M in 2025 income from his WLF-linked holding company.
@@ -69,6 +73,10 @@ Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's 
 - At least $31M of Aryam's upfront payment reportedly went to Witkoff-family entities, so the family had a financial stake in the deal regardless of Steve's own status.
 - No source shows the investment caused any specific US policy decision.
 
+## Themes
+
+- [[Theme - Gulf sovereign money and dual-role envoys]]
+
 ## People and organisations
 
 - [[Alex Witkoff]]
@@ -78,13 +86,14 @@ Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's 
 - [[Donald Trump]]
 - [[Eric Trump]]
 - [[G42]]
+- [[Sheikh Tahnoon bin Zayed]]
 - [[Steve Witkoff]]
-- [[Tahnoon bin Zayed Al Nahyan]]
+- [[Tahnoon-linked investment vehicle]]
 - [[The Wall Street Journal]]
 - [[UAE AI chips deal]]
 - [[United Arab Emirates]]
 - [[US Congress]]
-- [[White House]]
+- [[White House Trump administration]]
 - [[World Liberty Financial]]
 - [[Zach Witkoff]]
 
@@ -100,14 +109,19 @@ Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's 
 - [[David Warrington]] *asserted divestment from WLF* [[Steve Witkoff]] (2026-02, political) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Eric Trump]] *signed stake sale with* [[Aryam Investment 1]] (2025-01, commercial) · [[C14 Steve and Zach Witkoff|C14]]
 - [[G42]] *executives manage; hold 2 WLF board seats* [[Aryam Investment 1]] (advisory) · [[C14 Steve and Zach Witkoff|C14]]
+- [[Steve Witkoff]] *negotiates in region of* [[United Arab Emirates]] (political) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Steve Witkoff]] *involved in UAE talks* [[UAE AI chips deal]] (2025, political) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House]] (2024-11, political) · [[C14 Steve and Zach Witkoff|C14]]
+- [[Steve Witkoff]] *Special Envoy to Middle East for* [[White House Trump administration]] (political) · [[C14 Steve and Zach Witkoff|C14]]
+- [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] (2024-11, political) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Steve Witkoff]] *co-founded (later co-founder emeritus)* [[World Liberty Financial]] (2024, ownership) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Tahnoon bin Zayed Al Nahyan]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]]
+- [[Steve Witkoff]] *held stake, said to have divested* [[World Liberty Financial]] (ownership) · [[C14 Steve and Zach Witkoff|C14]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]]
+- [[Tahnoon-linked investment vehicle]] *secretly bought 49% for $500M* [[World Liberty Financial]] (2025-01-16, $500M, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C14 Steve and Zach Witkoff|C14]]
 - [[US Congress]] *Senate Democrats demanded answers on failure to divest* [[Steve Witkoff]] (2025-10, regulatory) · [[C14 Steve and Zach Witkoff|C14]]
 - [[The Wall Street Journal]] *revealed stake* [[Aryam Investment 1]] (2026-02-01, media) · [[C14 Steve and Zach Witkoff|C14]]
 - [[World Liberty Financial]] *about $107M 2025 income via WLF-linked holding company* [[Steve Witkoff]] (2025, $107M, money) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Zach Witkoff]] *son of* [[Steve Witkoff]] (family) · [[C14 Steve and Zach Witkoff|C14]]
+- [[Zach Witkoff]] *co-founded* [[World Liberty Financial]] (ownership) · [[C04 World Liberty Financial founding and token sale|C04]] [[C14 Steve and Zach Witkoff|C14]]
 - [[Zach Witkoff]] *co-founder, CEO and board member* [[World Liberty Financial]] (2024, ownership) · [[C14 Steve and Zach Witkoff|C14]]
 
 ## Sources

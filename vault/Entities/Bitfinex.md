@@ -1,0 +1,23 @@
+---
+id: "bitfinex"
+kind: "entity"
+type: "company"
+connections: 2
+claims: 1
+tags:
+  - "entity"
+  - "type/company"
+---
+# Bitfinex
+
+*company*
+
+Crypto exchange affiliated with Tether; Twenty One co-owner
+
+## Appears in claims
+
+- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+
+## Relationships
+
+- [[Bitfinex]] *co-owner; contributed ~$600M in BTC* [[Twenty One Capital (XXI)]] (2025-04-23, $600M, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]

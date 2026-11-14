@@ -21,6 +21,10 @@ tags:
 
 > Trump launched an official $TRUMP meme coin two days before his January 2025 inauguration; he 'raked in' about $600 million from it via shell companies; the coin has since lost ~95% of its value and almost all buyers lost money; Trump defended crypto involvement by saying the US must lead or China will.
 
+## Follow-up checks
+
+- [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
+
 ## Summary
 
 Trump launched the official $TRUMP meme coin on the evening of January 17, 2025, about 2.5 days before his inauguration. His own 2025 OGE financial disclosure reports about $635-636M in meme-coin royalty and licensing income through CIC Digital LLC, so the '$600M' figure is a slight understatement of self-reported gross income. TRUMP (about 95% down in early 2026, about 98% by November 2026) and MELANIA (about 99% down) have collapsed, and on-chain data shows most buyers lost money, though no exact share exists. Trump did make the 'lead or China takes over' remark (CNBC, July 2026). The suggestion that he launched the coin 'so China wouldn't do it first' is the video's sarcastic paraphrase.
@@ -72,10 +76,18 @@ Trump launched the official $TRUMP meme coin on the evening of January 17, 2025,
 - The income figures come from Trump's self-reported gross licensing income, not audited profit. Estimates from other methods range from about $315M to more than $800M.
 - Critics, including the WSJ editorial board, called the arrangement an 'unseemly display of using the Presidency for family profit.'
 
+## Themes
+
+- [[Theme - The 'beat China' justification]]
+- [[Theme - Insiders profit, retail investors lose]]
+- [[Theme - Secrecy and non-disclosure]]
+- [[Theme - Monetizing the office, brand and access]]
+
 ## People and organisations
 
-- [[$MELANIA]]
-- [[$TRUMP (Official Trump)]]
+- [[$MELANIA meme coin]]
+- [[$TRUMP $MELANIA shell companies]]
+- [[$TRUMP meme coin]]
 - [[Bill Zanker]]
 - [[Chainalysis]]
 - [[China]]
@@ -86,36 +98,46 @@ Trump launched the official $TRUMP meme coin on the evening of January 17, 2025,
 - [[Donald Trump]]
 - [[Eric Trump]]
 - [[Fight Fight Fight LLC]]
+- [[January 2025 inauguration]]
 - [[Joe Kernen]]
 - [[Melania Trump]]
 - [[Molly White]]
+- [[Retail investors Trump supporters]]
 - [[Trump 2025 OGE financial disclosure]]
 - [[Trump Organization]]
 - [[US Office of Government Ethics]]
-- [[White House]]
+- [[White House Trump administration]]
 
 ## Relationships documented
 
-- [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] (ownership) · [[C01 $TRUMP meme coin|C01]]
-- [[Chainalysis]] *found ~764k of ~2M wallets at a loss; 58 wallets >$10M gains* [[$TRUMP (Official Trump)]] (2025-05-06, media) · [[C01 $TRUMP meme coin|C01]]
+- [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] (ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Chainalysis]] *found ~764k of ~2M wallets at a loss; 58 wallets >$10M gains* [[$TRUMP meme coin]] (2025-05-06, media) · [[C01 $TRUMP meme coin|C01]]
 - [[CIC Digital LLC]] *reported 'Celebration Coins' royalties of $635,068,835 for 2025* [[Donald Trump]] (2025, $635.07M, money) · [[C01 $TRUMP meme coin|C01]]
-- [[CIC Digital LLC]] *co-holds 80% of supply (with Fight Fight Fight)* [[$TRUMP (Official Trump)]] (2025-01-17, ownership) · [[C01 $TRUMP meme coin|C01]]
+- [[CIC Digital LLC]] *co-holds 80% of supply (with Fight Fight Fight)* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C01 $TRUMP meme coin|C01]]
 - [[CNBC]] *employs* [[Joe Kernen]] (media) · [[C01 $TRUMP meme coin|C01]]
 - [[Coffeezilla]] *cites research of* [[Molly White]] (media) · [[C01 $TRUMP meme coin|C01]]
+- [[Coffeezilla]] *called a historic grift* [[$TRUMP meme coin]] (media) · [[C01 $TRUMP meme coin|C01]]
 - [[Designers Manager]] *paid >$6M for NFTs/collectibles license in 2025* [[Melania Trump]] (2025, $6M, money) · [[C01 $TRUMP meme coin|C01]]
 - [[Donald Trump]] *cast crypto as race with* [[China]] (2026-07-02, political) · [[C01 $TRUMP meme coin|C01]]
-- [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Donald Trump]] *spouse* [[Melania Trump]] (family) · [[C01 $TRUMP meme coin|C01]]
-- [[Donald Trump]] *launched and promoted* [[$TRUMP (Official Trump)]] (2025-01-17, commercial) · [[C01 $TRUMP meme coin|C01]]
+- [[Donald Trump]] *justifies crypto as beating* [[China]] (political) · [[C01 $TRUMP meme coin|C01]]
+- [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *spouse* [[Melania Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Donald Trump]] *launched* [[$TRUMP meme coin]] (2025-01-17, commercial) · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
+- [[Donald Trump]] *launched and promoted* [[$TRUMP meme coin]] (2025-01-17, commercial) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[Eric Trump]] *runs* [[Trump Organization]] (ownership) · [[C01 $TRUMP meme coin|C01]]
-- [[Fight Fight Fight LLC]] *co-issuer / co-holds 80% of supply* [[$TRUMP (Official Trump)]] (2025-01-17, ownership) · [[C01 $TRUMP meme coin|C01]]
+- [[Fight Fight Fight LLC]] *co-issuer / co-holds 80% of supply* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[Joe Kernen]] *interviewed on family crypto ventures* [[Donald Trump]] (2026-07-02, media) · [[C01 $TRUMP meme coin|C01]]
-- [[Melania Trump]] *promoted* [[$MELANIA]] (2025-01-19, commercial) · [[C01 $TRUMP meme coin|C01]]
+- [[Melania Trump]] *promoted* [[$MELANIA meme coin]] (2025-01-19, commercial) · [[C01 $TRUMP meme coin|C01]]
 - [[Molly White]] *tracks and criticizes crypto income of* [[Donald Trump]] (media) · [[C01 $TRUMP meme coin|C01]]
+- [[Molly White]] *tracked* [[$TRUMP $MELANIA shell companies]] (media) · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
 - [[US Office of Government Ethics]] *released* [[Trump 2025 OGE financial disclosure]] (2026-06-30, regulatory) · [[C01 $TRUMP meme coin|C01]]
+- [[Retail investors Trump supporters]] *lost ~95% on* [[$TRUMP meme coin]] (money) · [[C01 $TRUMP meme coin|C01]] [[C29 Trump family wealth gains|C29]]
 - [[Trump 2025 OGE financial disclosure]] *discloses income of* [[Donald Trump]] (2026-06-30, regulatory) · [[C01 $TRUMP meme coin|C01]]
-- [[Trump Organization]] *affiliate* [[CIC Digital LLC]] (ownership) · [[C01 $TRUMP meme coin|C01]]
-- [[White House]] *defends ethics arrangements of* [[Donald Trump]] (political) · [[C01 $TRUMP meme coin|C01]]
+- [[$TRUMP meme coin]] *generated ~$600M for* [[Donald Trump]] ($600M, money) · [[C01 $TRUMP meme coin|C01]]
+- [[$TRUMP meme coin]] *launched two days before* [[January 2025 inauguration]] (2025-01, political) · [[C01 $TRUMP meme coin|C01]]
+- [[$TRUMP $MELANIA shell companies]] *hold proceeds of* [[$TRUMP meme coin]] (ownership) · [[C01 $TRUMP meme coin|C01]]
+- [[Trump Organization]] *affiliate* [[CIC Digital LLC]] (ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[White House Trump administration]] *defends ethics arrangements of* [[Donald Trump]] (political) · [[C01 $TRUMP meme coin|C01]]
 
 ## Sources
 

@@ -21,6 +21,10 @@ tags:
 
 > Eric Trump became a strategic board adviser to Japanese bitcoin-treasury company Metaplanet; Eric and Don Jr. co-own American Bitcoin, 80% owned by Hut 8, which contributed its mining equipment for that 80% with no known cash changing hands; CEO Matt Prusak told Wired the Trumps brought capital-markets access and 'narrative'; the Trump family is linked to about five crypto treasury companies; American Bitcoin stock has performed poorly.
 
+## Follow-up checks
+
+- [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+
 ## Summary
 
 Every core fact checks out: Eric Trump's Metaplanet advisory role (March 21, 2025), the Trump brothers' stake in American Bitcoin, the 80% equity Hut 8 got for contributing its miners in a cashless deal, Prusak's 'capital markets and narrative' quote to Wired, and the stock's collapse. The framing goes too far in suggesting Hut 8 gave away its whole mining business. Hut 8 kept its energy and data-center assets, controls and consolidates American Bitcoin, and earns colocation fees from it. The 'five treasury companies' count is a rough but defensible estimate.
@@ -84,54 +88,81 @@ Every core fact checks out: Eric Trump's Metaplanet advisory role (March 21, 202
 - Eric Trump blamed the December 2025 drop on pre-merger investors taking profits, said he would not sell, and called the company's fundamentals 'virtually unmatched'.
 - No specific regulatory favour to American Bitcoin is documented. The conflict-of-interest point is inference from the president's crypto policy role, not proof of a quid pro quo.
 
+## Themes
+
+- [[Theme - President makes the law for markets the family is in]]
+- [[Theme - Insiders profit, retail investors lose]]
+- [[Theme - Family member hired as adviser for the name]]
+- [[Theme - Narrative over product, circular deals]]
+
 ## People and organisations
 
-- [[ALT5 Sigma (now AI Financial Corporation, AIFC)]]
-- [[American Bitcoin Corp. (ABTC)]]
+- [[ALT5 Sigma]]
+- [[American Bitcoin]]
 - [[American Data Centers Inc]]
 - [[Asher Genoot]]
 - [[Bitcoin]]
-- [[Dominari Holdings]]
+- [[Dominari Holdings Dominari Securities]]
 - [[Donald Trump]]
 - [[Donald Trump Jr]]
 - [[Eric Trump]]
 - [[Giga Energy]]
 - [[Gryphon Digital Mining]]
-- [[Hut 8 Corp]]
+- [[Hut 8]]
 - [[Japan]]
 - [[Matt Prusak]]
 - [[Metaplanet]]
 - [[Molly White]]
+- [[Retail investors Trump supporters]]
 - [[Thumzup Media]]
 - [[Trump Media & Technology Group]]
+- [[Trump-linked crypto treasury companies]]
 - [[Wired]]
 - [[World Liberty Financial]]
 
 ## Relationships documented
 
-- [[American Bitcoin Corp. (ABTC)]] *mines and holds* [[Bitcoin]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[American Bitcoin Corp. (ABTC)]] *merged (all-stock) to list on Nasdaq via* [[Gryphon Digital Mining]] (2025-09-03, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[American Data Centers Inc]] *renamed as* [[American Bitcoin Corp. (ABTC)]] (2025-03-31, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Asher Genoot]] *CEO of* [[Hut 8 Corp]] (advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Dominari Holdings]] *co-formed and held stake in* [[American Data Centers Inc]] (2025-02, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[American Bitcoin]] *mines and accumulates* [[Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[American Bitcoin]] *mines and holds* [[Bitcoin]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[American Bitcoin]] *one of* [[Trump-linked crypto treasury companies]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[American Bitcoin]] *merged (all-stock) to list on Nasdaq via* [[Gryphon Digital Mining]] (2025-09-03, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[American Data Centers Inc]] *renamed as* [[American Bitcoin]] (2025-03-31, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Asher Genoot]] *CEO of* [[Hut 8]] (advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Asher Genoot]] *leads* [[Hut 8]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Dominari Holdings Dominari Securities]] *co-formed and held stake in* [[American Data Centers Inc]] (2025-02, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump]] *'crypto president' boosted* [[Bitcoin]] (political) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump]] *family linked to ~five* [[Trump-linked crypto treasury companies]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump]] *largest shareholder of* [[Trump Media & Technology Group]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Donald Trump Jr]] *co-owner of* [[American Bitcoin Corp. (ABTC)]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump Jr]] *co-owner of* [[American Bitcoin]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump Jr]] *part-owns* [[American Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump Jr]] *co-founded* [[American Data Centers Inc]] (2025-02, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings]] (2025-02, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] (2025-02, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Donald Trump Jr]] *took stake in* [[Thumzup Media]] (2025-07, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Eric Trump]] *co-founder, chief strategy officer and shareholder of* [[American Bitcoin Corp. (ABTC)]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Eric Trump]] *co-founder, chief strategy officer and shareholder of* [[American Bitcoin]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Eric Trump]] *part-owns* [[American Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Eric Trump]] *co-founded* [[American Data Centers Inc]] (2025-02, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Eric Trump]] *board member/adviser of* [[Dominari Holdings]] (2025-02, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Eric Trump]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] (2025-02, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Eric Trump]] *named to Strategic Board of Advisors of* [[Metaplanet]] (2025-03-21, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Hut 8 Corp]] *contributed ASIC miners for 80% equity in* [[American Bitcoin Corp. (ABTC)]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Hut 8 Corp]] *exclusive colocation and managed-services provider to* [[American Bitcoin Corp. (ABTC)]] (2025-03-31, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Matt Prusak]] *CEO of (later president/interim CFO; left 2026-08)* [[American Bitcoin Corp. (ABTC)]] (2025-03-31, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Eric Trump]] *strategic board adviser to* [[Metaplanet]] (advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Hut 8]] *contributed ASIC miners for 80% equity in* [[American Bitcoin]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Hut 8]] *exclusive colocation and managed-services provider to* [[American Bitcoin]] (2025-03-31, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Hut 8]] *gave mining equipment to* [[American Bitcoin]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Hut 8]] *owns 80% of* [[American Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Matt Prusak]] *CEO of* [[American Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Matt Prusak]] *CEO of (later president/interim CFO; left 2026-08)* [[American Bitcoin]] (2025-03-31, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Matt Prusak]] *joined as chief business officer* [[Giga Energy]] (2026-08-04, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Matt Prusak]] *told brothers bring capital-markets access and 'narrative'* [[Wired]] (2025, media) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Matt Prusak]] *told of Trump 'narrative' value* [[Wired]] (media) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Metaplanet]] *holds as treasury* [[Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Metaplanet]] *holds as treasury asset* [[Bitcoin]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Metaplanet]] *one of* [[Trump-linked crypto treasury companies]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Metaplanet]] *based in* [[Japan]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Metaplanet]] *listed in* [[Japan]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Molly White]] *criticised in video* [[American Bitcoin Corp. (ABTC)]] (media) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[World Liberty Financial]] *WLFI treasury partner of* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2025-08, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Molly White]] *criticised in video* [[American Bitcoin]] (media) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Retail investors Trump supporters]] *hold poorly performing stock of* [[American Bitcoin]] (money) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[World Liberty Financial]] *WLFI treasury partner of* [[ALT5 Sigma]] (2025-08, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 
 ## Sources
 

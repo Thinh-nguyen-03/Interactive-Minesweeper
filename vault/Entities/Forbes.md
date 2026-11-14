@@ -2,8 +2,8 @@
 id: "forbes"
 kind: "entity"
 type: "media"
-connections: 5
-claims: 3
+connections: 11
+claims: 5
 tags:
   - "entity"
   - "type/media"
@@ -12,17 +12,30 @@ tags:
 
 *media*
 
-Reported MGX's 'compliance history' rationale and Binance's USD1 concentration.
+Source of family net-worth estimates.
 
+- Reported MGX's 'compliance history' rationale and Binance's USD1 concentration.
 - Reported Binance holds ~87% of USD1 (2026-02-09).
+- Source of the Trump family net-worth estimates.
+- Reported Dar Global fees and state-owned land links
+- Flagged pre-announcement DOMH trading.
 
 ## Appears in claims
 
 - [[C07 MGX's $2B Binance investment settled in USD1]] · Mostly accurate
 - [[C10 Binance driving USD1 adoption]] · Mostly accurate
 - [[C29 Trump family wealth gains]] · Mostly accurate
+- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
+- [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 
 ## Relationships
 
+- [[Forbes]] *estimated net worth about $150M* [[Barron Trump]] (2025-10-06, $150M, media) · [[C29 Trump family wealth gains|C29]]
+- [[Forbes]] *estimates ~$150M net worth* [[Barron Trump]] ($150M, media) · [[C29 Trump family wealth gains|C29]]
 - [[Forbes]] *reported 87% USD1 concentration at* [[Binance]] (2026-02-09, media) · [[C10 Binance driving USD1 adoption|C10]]
+- [[Forbes]] *flagged pre-announcement trading* [[Dominari Holdings Dominari Securities]] (2025-03, media) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Forbes]] *estimated net worth about $300M (6x)* [[Donald Trump Jr]] (2025-12-08, $300M, media) · [[C29 Trump family wealth gains|C29]]
+- [[Forbes]] *estimates 6x richer* [[Donald Trump Jr]] (media) · [[C29 Trump family wealth gains|C29]]
+- [[Forbes]] *estimated net worth about $400M (10x)* [[Eric Trump]] (2025-12-04, $400M, media) · [[C29 Trump family wealth gains|C29]]
+- [[Forbes]] *estimates 10x richer* [[Eric Trump]] (media) · [[C29 Trump family wealth gains|C29]]
 - [[Forbes]] *reported MGX rationale for choosing USD1* [[MGX]] (2025-10-02, media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]

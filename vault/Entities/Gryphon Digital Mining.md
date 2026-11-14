@@ -20,4 +20,4 @@ Nasdaq-listed miner merged with American Bitcoin (all-stock) in September 2025.
 
 ## Relationships
 
-- [[American Bitcoin Corp. (ABTC)]] *merged (all-stock) to list on Nasdaq via* [[Gryphon Digital Mining]] (2025-09-03, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[American Bitcoin]] *merged (all-stock) to list on Nasdaq via* [[Gryphon Digital Mining]] (2025-09-03, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]

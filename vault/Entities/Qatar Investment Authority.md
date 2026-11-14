@@ -2,8 +2,8 @@
 id: "qatar-investment-authority"
 kind: "entity"
 type: "fund"
-connections: 5
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/fund"
@@ -20,9 +20,11 @@ Qatari sovereign wealth fund; invested in Affinity (part of about $1.5B, Dec 202
 
 - [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
 - [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
+- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
 
 ## Relationships
 
 - [[Qatar]] *owns* [[Qatar Investment Authority]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Qatar Investment Authority]] *invested (with Lunate, about $1.5B combined) in* [[Affinity Partners]] (2024-12, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Qatar Investment Authority]] *owns* [[Qatari Diar]] (ownership) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Qatar Investment Authority]] *parent of* [[Qatari Diar]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]

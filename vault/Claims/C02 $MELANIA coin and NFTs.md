@@ -21,6 +21,11 @@ tags:
 
 > Melania Trump launched her own meme coin right after $TRUMP; she reported ~$6 million from her coin and NFTs; the coin is down ~99%.
 
+## Follow-up checks
+
+- [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
+- [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+
 ## Summary
 
 Melania Trump did launch $MELANIA on Jan 19, 2025, about two days after $TRUMP, and the token is down roughly 99% from its $13+ peak, which is confirmed. The '$6 million' figure is real ($6,011,259 on the President's 2025 disclosure). That income was listed as NFT/digital-collectible sales under a licensing deal, not as meme-coin proceeds. It was also reported as spouse income on Donald Trump's filing, not in a report of her own.
@@ -63,37 +68,51 @@ Melania Trump did launch $MELANIA on Jan 19, 2025, about two days after $TRUMP, 
 - SEC staff said in Feb 2025 that meme coins generally are not securities; no court or regulator has alleged wrongdoing by Melania Trump.
 - Most of Melania's ~$17.2M 2025 income came from the Amazon documentary (~$10.7M net), not crypto.
 
+## Themes
+
+- [[Theme - Insiders profit, retail investors lose]]
+- [[Theme - Secrecy and non-disclosure]]
+- [[Theme - Monetizing the office, brand and access]]
+
 ## People and organisations
 
-- [[$MELANIA]]
-- [[$TRUMP (Official Trump)]]
+- [[$MELANIA meme coin]]
+- [[$TRUMP $MELANIA shell companies]]
+- [[$TRUMP meme coin]]
 - [[Benjamin Chow]]
 - [[Coffeezilla]]
 - [[Designers Manager]]
 - [[Donald Trump]]
 - [[Hayden Davis]]
 - [[Melania Trump]]
-- [[Melania Trump NFTs and digital collectibles]]
+- [[Melania Trump NFTs]]
 - [[Meteora]]
 - [[MKT World LLC]]
 - [[Molly White]]
-- [[U.S. Securities and Exchange Commission]]
+- [[Retail investors Trump supporters]]
+- [[Securities and Exchange Commission]]
 
 ## Relationships documented
 
-- [[Benjamin Chow]] *accused in class action of pump-and-dump of* [[$MELANIA]] (2025-10, legal) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Benjamin Chow]] *accused in class action of pump-and-dump of* [[$MELANIA meme coin]] (2025-10, legal) · [[C02 $MELANIA coin and NFTs|C02]]
 - [[Benjamin Chow]] *co-founded* [[Meteora]] (ownership) · [[C02 $MELANIA coin and NFTs|C02]]
 - [[Designers Manager]] *paid NFT/collectibles license income to* [[Melania Trump]] (2025, $6.01M, money) · [[C02 $MELANIA coin and NFTs|C02]]
 - [[Donald Trump]] *spouse of* [[Melania Trump]] (family) · [[C02 $MELANIA coin and NFTs|C02]]
-- [[Donald Trump]] *launched* [[$TRUMP (Official Trump)]] (2025-01-17, commercial) · [[C02 $MELANIA coin and NFTs|C02]]
-- [[Hayden Davis]] *reported co-creator of; sued over* [[$MELANIA]] (2025, legal) · [[C02 $MELANIA coin and NFTs|C02]]
-- [[$MELANIA]] *launched two days after; triggered sell-off in* [[$TRUMP (Official Trump)]] (2025-01-19, commercial) · [[C02 $MELANIA coin and NFTs|C02]]
-- [[Melania Trump]] *launched* [[$MELANIA]] (2025-01-19, commercial) · [[C02 $MELANIA coin and NFTs|C02]]
-- [[Melania Trump]] *sells* [[Melania Trump NFTs and digital collectibles]] (2025, commercial) · [[C02 $MELANIA coin and NFTs|C02]]
-- [[Melania Trump]] *controls* [[MKT World LLC]] (ownership) · [[C02 $MELANIA coin and NFTs|C02]]
-- [[MKT World LLC]] *issuer of* [[$MELANIA]] (2025-01-19, ownership) · [[C02 $MELANIA coin and NFTs|C02]]
-- [[Molly White]] *tracked (per video; unverified specific work)* [[$MELANIA]] (media) · [[C02 $MELANIA coin and NFTs|C02]]
-- [[U.S. Securities and Exchange Commission]] *staff deemed meme coins generally not securities* [[$MELANIA]] (2025-02, regulatory) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Donald Trump]] *launched* [[$TRUMP meme coin]] (2025-01-17, commercial) · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
+- [[Hayden Davis]] *reported co-creator of; sued over* [[$MELANIA meme coin]] (2025, legal) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[$MELANIA meme coin]] *with NFTs earned ~$6M for* [[Melania Trump]] ($6M, money) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[$MELANIA meme coin]] *launched two days after; triggered sell-off in* [[$TRUMP meme coin]] (2025-01-19, commercial) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Melania Trump]] *wife of* [[Donald Trump]] (family) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Melania Trump]] *launched* [[$MELANIA meme coin]] (2025-01-19, commercial) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Melania Trump]] *sells* [[Melania Trump NFTs]] (2025, commercial) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Melania Trump]] *sold* [[Melania Trump NFTs]] (commercial) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Melania Trump]] *controls* [[MKT World LLC]] (ownership) · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[MKT World LLC]] *issuer of* [[$MELANIA meme coin]] (2025-01-19, ownership) · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Molly White]] *tracked (per video; unverified specific work)* [[$MELANIA meme coin]] (media) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Molly White]] *tracked* [[$TRUMP $MELANIA shell companies]] (media) · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
+- [[Retail investors Trump supporters]] *lost ~99% on* [[$MELANIA meme coin]] (money) · [[C02 $MELANIA coin and NFTs|C02]] [[C29 Trump family wealth gains|C29]]
+- [[Securities and Exchange Commission]] *staff deemed meme coins generally not securities* [[$MELANIA meme coin]] (2025-02, regulatory) · [[C02 $MELANIA coin and NFTs|C02]]
+- [[$TRUMP $MELANIA shell companies]] *hold proceeds of* [[$MELANIA meme coin]] (ownership) · [[C02 $MELANIA coin and NFTs|C02]]
 
 ## Sources
 

@@ -2,8 +2,8 @@
 id: "coinbase"
 kind: "entity"
 type: "company"
-connections: 7
-claims: 2
+connections: 11
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -12,12 +12,19 @@ tags:
 
 *company*
 
-US crypto exchange; SEC suit dismissed Feb 2025; inaugural, parade and ballroom donor
+Crypto exchange whose SEC lawsuit was dropped.
+
+- US crypto exchange; SEC suit dismissed Feb 2025; inaugural, parade and ballroom donor
+- Crypto exchange; ballroom donor; SEC case dismissed Feb 2025
+- Received more than $40M of the borrowed stablecoins via Coinbase Prime
+- SEC suit dismissed Feb 2025; $76.1M political influence spending per Public Citizen
 
 ## Appears in claims
 
 - [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
-- [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Pending
+- [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
+- [[C42 How World Liberty insiders took money out]] · Mostly accurate
+- [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 
 ## Relationships
 
@@ -25,4 +32,13 @@ US crypto exchange; SEC suit dismissed Feb 2025; inaugural, parade and ballroom 
 - [[Coinbase]] *named sponsor of* [[Army 250th Anniversary Parade]] (2025-06-14, commercial) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Coinbase]] *donated $1M to* [[Trump-Vance Inaugural Committee]] (2025-01, $1M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Coinbase]] *donor to* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[U.S. Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Coinbase]] (2025-02-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Coinbase]] *listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Public Citizen]] *cited $76.1M political influence spending by* [[Coinbase]] ($76.1M, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *dismissed enforcement case with prejudice* [[Coinbase]] (2025-02-27, regulatory) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Coinbase]] (2025-02-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *dropped lawsuit against* [[Coinbase]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[World Liberty Financial]] *sent more than $40M of borrowed stablecoins to Coinbase Prime* [[Coinbase]] (2026-04-09, $40M, money) · [[C42 How World Liberty insiders took money out|C42]]
+
+## Themes
+
+- [[Theme - Regulator dropped the case after money flowed]]

@@ -27,5 +27,5 @@ Dinner for the top 220 holders at Trump National Golf Club, Sterling, VA, with a
 - [[Justin Sun]] *attended* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-22, political) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Karoline Leavitt]] *defended as compliant with conflict-of-interest laws* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-09, political) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Richard Blumenthal]] *denounced as 'auctioning off access'* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05, political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[$TRUMP (Official Trump)]] *top 220 holders invited to* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-12, commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[$TRUMP meme coin]] *top 220 holders invited to* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-12, commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[$TRUMP holders' dinner (May 22, 2025)]] *held at* [[Trump National Golf Club Washington D.C]] (2025-05-22, commercial) · [[C03 Dinner for top $TRUMP holders|C03]]

@@ -21,6 +21,10 @@ tags:
 
 > WLF announced a $1.5B deal with Nasdaq-listed ALT5 Sigma, which reportedly sent ~$500M to a Trump-family entity and ~$90M to the Witkoff family; ALT5 is run by the same people who run WLF; ALT5 stock fell ~94% in a year and the company rebranded to 'AI Financial Corporation'.
 
+## Follow-up checks
+
+- [[C42 How World Liberty insiders took money out]] · Mostly accurate
+
 ## Summary
 
 WLF and Nasdaq-listed ALT5 Sigma did announce a $1.5B WLFI-treasury deal on Aug 11, 2025. Reporting does say about $500M went to a Trump-family entity (DT Marks DEFI LLC) and about $90M to the Witkoffs, but these are journalists' estimates from the 75% token-sale-proceeds entitlement, not audited payment records. ALT5's stock lost roughly 90-96% from its pre-deal price, and the company renamed itself AI Financial Corporation (AIFC) in April 2026. The weakest part is 'run by the same people': WLF insiders control ALT5's board, starting with chairman Zach Witkoff, but its CEOs have come from outside WLF.
@@ -80,10 +84,18 @@ WLF and Nasdaq-listed ALT5 Sigma did announce a $1.5B WLFI-treasury deal on Aug 
 - In Aug 2025 ALT5 denied reports that the SEC was probing investor Jon Isaac. The Nevada shareholder suit was reportedly withdrawn with prejudice.
 - The company had a separate governance crisis: the CEO was suspended in Oct 2025, the acting CEO and COO were removed in Nov 2025, and a Rwandan court case involved a company principal. These events are independent of the Trump-family payments.
 
+## Themes
+
+- [[Theme - President appoints the regulator of the family business]]
+- [[Theme - Insiders profit, retail investors lose]]
+- [[Theme - Narrative over product, circular deals]]
+
 ## People and organisations
 
-- [[ALT5 Sigma (now AI Financial Corporation, AIFC)]]
+- [[ALT5 Sigma]]
+- [[ALT5 Sigma $1.5B WLFI deal]]
 - [[Bloomberg]]
+- [[Chase Herro]]
 - [[CNBC]]
 - [[Coffeezilla]]
 - [[Donald Trump]]
@@ -94,41 +106,54 @@ WLF and Nasdaq-listed ALT5 Sigma did announce a $1.5B WLFI-treasury deal on Aug 
 - [[Molly White]]
 - [[Peter Tassiopoulos]]
 - [[Project On Government Oversight]]
+- [[Retail investors Trump supporters]]
+- [[Securities and Exchange Commission]]
 - [[Steve Witkoff]]
 - [[The Wall Street Journal]]
 - [[Tony Isaac]]
-- [[U.S. Securities and Exchange Commission]]
+- [[Trump family-owned WLF entity]]
 - [[WLFI token]]
 - [[World Liberty Financial]]
 - [[Zach Witkoff]]
-- [[Zachary Folkman]]
+- [[Zak Folkman]]
 
 ## Relationships documented
 
-- [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] *treasury holding about 7.5% of supply, bought at $0.20* [[WLFI token]] (2025-08, ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] *used about $750M in investor cash mostly to buy WLFI tokens from* [[World Liberty Financial]] (2025-08, $750M, money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Bloomberg]] *investigated family windfall and 90% investor rout* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2026-07-30, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[CNBC]] *reported family entitled to about $500M while investors lost* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2026-06-09, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Coffeezilla]] *covered the deal in the video* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Donald Trump]] *appoints leadership of* [[U.S. Securities and Exchange Commission]] (political) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[ALT5 Sigma]] *party to* [[ALT5 Sigma $1.5B WLFI deal]] ($1.5B, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[ALT5 Sigma]] *reportedly paid ~$500M to* [[Trump family-owned WLF entity]] ($500M, money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[ALT5 Sigma]] *buys and holds* [[WLFI token]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[ALT5 Sigma]] *treasury holding about 7.5% of supply, bought at $0.20* [[WLFI token]] (2025-08, ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[ALT5 Sigma]] *used about $750M in investor cash mostly to buy WLFI tokens from* [[World Liberty Financial]] (2025-08, $750M, money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[ALT5 Sigma]] *reportedly paid ~$90M to Witkoff family* [[Zach Witkoff]] ($90M, money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Bloomberg]] *investigated family windfall and 90% investor rout* [[ALT5 Sigma]] (2026-07-30, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Chase Herro]] *helps run* [[ALT5 Sigma]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[CNBC]] *reported family entitled to about $500M while investors lost* [[ALT5 Sigma]] (2026-06-09, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Coffeezilla]] *covered the deal in the video* [[ALT5 Sigma]] (media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Donald Trump]] *appoints leadership of* [[Securities and Exchange Commission]] (political) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Donald Trump]] *family owns* [[Trump family-owned WLF entity]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[DT Marks DEFI LLC]] *Trump-family-owned entity* [[Donald Trump]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Eric Trump]] *announced as board director (reported as observer)* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2025-08, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Jon Isaac]] *consultant and major shareholder* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Molly White]] *described conflict of interest in the video* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Peter Tassiopoulos]] *CEO, suspended Oct 2025* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2025-10-16, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Project On Government Oversight]] *reported no SEC probe of the ALT5 deal* [[U.S. Securities and Exchange Commission]] (2026, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[U.S. Securities and Exchange Commission]] *has not opened a probe (per POGO)* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2026, regulatory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Eric Trump]] *announced as board director (reported as observer)* [[ALT5 Sigma]] (2025-08, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Jon Isaac]] *consultant and major shareholder* [[ALT5 Sigma]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Molly White]] *described conflict of interest in the video* [[ALT5 Sigma]] (media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Peter Tassiopoulos]] *CEO, suspended Oct 2025* [[ALT5 Sigma]] (2025-10-16, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Project On Government Oversight]] *reported no SEC probe of the ALT5 deal* [[Securities and Exchange Commission]] (2026, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Retail investors Trump supporters]] *lost ~94% on stock of* [[ALT5 Sigma]] (money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C29 Trump family wealth gains|C29]]
+- [[Securities and Exchange Commission]] *has not opened a probe (per POGO)* [[ALT5 Sigma]] (2026, regulatory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Securities and Exchange Commission]] *oversees listed* [[ALT5 Sigma]] (regulatory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Steve Witkoff]] *father of* [[Zach Witkoff]] (family) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Tony Isaac]] *president, then acting CEO* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2025-11, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[The Wall Street Journal]] *reported deal enriches Trump family by over $500M* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2025-08-31, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[World Liberty Financial]] *lead investor in $1.5B WLFI treasury raise (about $750M in WLFI tokens for shares and warrants)* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2025-08-11, $750M, money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Tony Isaac]] *president, then acting CEO* [[ALT5 Sigma]] (2025-11, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[The Wall Street Journal]] *reported deal enriches Trump family by over $500M* [[ALT5 Sigma]] (2025-08-31, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[World Liberty Financial]] *lead investor in $1.5B WLFI treasury raise (about $750M in WLFI tokens for shares and warrants)* [[ALT5 Sigma]] (2025-08-11, $750M, money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[World Liberty Financial]] *struck $1.5B deal with* [[ALT5 Sigma]] ($1.5B, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[World Liberty Financial]] *party to* [[ALT5 Sigma $1.5B WLFI deal]] (commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[World Liberty Financial]] *reportedly about $500M of ALT5 deal proceeds flowed to (75% proceeds entitlement)* [[DT Marks DEFI LLC]] (2025-08, $500M, money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[World Liberty Financial]] *reportedly about $90M of ALT5 deal proceeds to the Witkoff family* [[Steve Witkoff]] (2025-08, $90M, money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Zach Witkoff]] *board chairman of* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2025-08, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Zach Witkoff]] *board chairman of* [[ALT5 Sigma]] (2025-08, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Zach Witkoff]] *helps run* [[ALT5 Sigma]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Zach Witkoff]] *co-founder and CEO of* [[World Liberty Financial]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Zachary Folkman]] *board director or observer of* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2025, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Zak Folkman]] *board director or observer of* [[ALT5 Sigma]] (2025, advisory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 
 ## Sources
 

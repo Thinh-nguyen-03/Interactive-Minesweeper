@@ -20,4 +20,4 @@ Former SEC chief of staff; criticized the Sun settlement.
 
 ## Relationships
 
-- [[Amanda Fischer]] *criticized Sun settlement by* [[U.S. Securities and Exchange Commission]] (2026-03, political) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Amanda Fischer]] *criticized Sun settlement by* [[Securities and Exchange Commission]] (2026-03, political) · [[C05 Justin Sun, WLF and the SEC|C05]]

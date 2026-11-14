@@ -20,4 +20,4 @@ Reported that the SEC has no probe and uncovered a shareholder suit.
 
 ## Relationships
 
-- [[Project On Government Oversight]] *reported no SEC probe of the ALT5 deal* [[U.S. Securities and Exchange Commission]] (2026, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Project On Government Oversight]] *reported no SEC probe of the ALT5 deal* [[Securities and Exchange Commission]] (2026, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]

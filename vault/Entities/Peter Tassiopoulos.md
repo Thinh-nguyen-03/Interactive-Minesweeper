@@ -20,4 +20,4 @@ ALT5 CEO at the time of the deal; suspended Oct 16, 2025.
 
 ## Relationships
 
-- [[Peter Tassiopoulos]] *CEO, suspended Oct 2025* [[ALT5 Sigma (now AI Financial Corporation, AIFC)]] (2025-10-16, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Peter Tassiopoulos]] *CEO, suspended Oct 2025* [[ALT5 Sigma]] (2025-10-16, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]

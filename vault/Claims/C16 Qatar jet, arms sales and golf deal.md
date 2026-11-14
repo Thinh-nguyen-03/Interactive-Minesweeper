@@ -23,8 +23,8 @@ tags:
 
 ## Follow-up checks
 
-- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Pending
-- [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Pending
+- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
+- [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 
 ## Summary
 
@@ -75,9 +75,19 @@ Documented: the ~$400M Qatari Boeing 747-8 was accepted by the Pentagon on 21 Ma
 - Critics including Sen. Schumer, Sen. Jack Reed and Norman Eisen called the jet an ethics and emoluments problem.
 - The 2026 sales followed Iranian strikes on Gulf states. No source links them to Trump business interests, and the video itself says 'maybe it's all coincidence.'
 
+## Themes
+
+- [[Theme - Gulf sovereign money and dual-role envoys]]
+- [[Theme - Official favours follow the money]]
+
 ## People and organisations
 
+- [[$1.96B Qatar arms deal]]
+- [[$5.5B Qatar development project]]
+- [[2026 possible military sales to Qatar ($5B)]]
 - [[2026 Qatar Patriot and APKWS sales]]
+- [[Advanced Precision Kill Weapon Systems]]
+- [[Air Force One]]
 - [[BAE Systems]]
 - [[Dar Global]]
 - [[Defense Security Cooperation Agency]]
@@ -90,49 +100,71 @@ Documented: the ~$400M Qatari Boeing 747-8 was accepted by the Pentagon on 21 Ma
 - [[Lockheed Martin]]
 - [[Marco Rubio]]
 - [[MQ-9B sale to Qatar]]
+- [[Patriot missile replenishment]]
+- [[Pentagon (Department of Defense)]]
 - [[Pete Hegseth]]
 - [[Qatar]]
+- [[Qatar Boeing 747 gift]]
 - [[Qatar Investment Authority]]
-- [[Qatari Boeing 747-8 (Air Force One)]]
 - [[Qatari Diar]]
 - [[RTX]]
 - [[Simaisma development]]
 - [[Tangle News]]
+- [[Trump golf course in Qatar]]
+- [[Trump hotel in Dubai Abu Dhabi]]
 - [[Trump Organization]]
+- [[Trump presidential library]]
 - [[Trump Presidential Library Foundation]]
+- [[United States]]
 - [[US Air Force]]
 - [[US Congress]]
-- [[US Department of Defense]]
 - [[US State Department]]
-- [[White House]]
+- [[White House Trump administration]]
 
 ## Relationships documented
 
 - [[BAE Systems]] *principal contractor (APKWS)* [[2026 Qatar Patriot and APKWS sales]] (2026-05, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *owns* [[Trump Organization]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Defense Security Cooperation Agency]] *notified MQ-9B sale to* [[US Congress]] (2025-03-26, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Eric Trump]] *executive vice president of* [[Trump Organization]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[General Atomics Aeronautical Systems]] *manufacturer for* [[MQ-9B sale to Qatar]] (2025-03-26, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Iran]] *conflict cited as emergency basis for* [[2026 Qatar Patriot and APKWS sales]] (2026-02-28, political) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Isaac Saul]] *describes* [[Qatar Boeing 747 gift]] (media) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Isaac Saul]] *founded* [[Tangle News]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Isaac Saul]] *founder of* [[Tangle News]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Karoline Leavitt]] *defended legality of accepting* [[Qatari Boeing 747-8 (Air Force One)]] (2025-05-12, political) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Karoline Leavitt]] *defended legality of accepting* [[Qatar Boeing 747 gift]] (2025-05-12, political) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Lockheed Martin]] *principal contractor (PAC-3 MSE)* [[2026 Qatar Patriot and APKWS sales]] (2026-05, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Marco Rubio]] *invoked emergency waiver of congressional review for* [[2026 Qatar Patriot and APKWS sales]] (2026-05, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Pete Hegseth]] *formally accepted* [[Qatari Boeing 747-8 (Air Force One)]] (2025-05-21, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Pete Hegseth]] *formally accepted* [[Qatar Boeing 747 gift]] (2025-05-21, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar]] *signed LOA during Trump visit* [[MQ-9B sale to Qatar]] (2025-05-14, $1.96B, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Qatar]] *donated Boeing 747-8 (accepted 21 May 2025)* [[US Department of Defense]] (2025-05-21, $400M, money) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatar]] *donated Boeing 747-8 (accepted 21 May 2025)* [[Pentagon (Department of Defense)]] (2025-05-21, $400M, money) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatar]] *negotiated* [[$1.96B Qatar arms deal]] ($1.96B, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatar]] *hosts* [[$5.5B Qatar development project]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatar]] *offered* [[Qatar Boeing 747 gift]] ($400M, money) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[2026 possible military sales to Qatar ($5B)]] *includes* [[Advanced Precision Kill Weapon Systems]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[2026 possible military sales to Qatar ($5B)]] *includes* [[Patriot missile replenishment]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[2026 possible military sales to Qatar ($5B)]] *possible sale to* [[Qatar]] (2026, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar Investment Authority]] *parent of* [[Qatari Diar]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Qatari Boeing 747-8 (Air Force One)]] *used as interim Air Force One by* [[Donald Trump]] (2026-06, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Qatari Boeing 747-8 (Air Force One)]] *reportedly to be transferred by 2029-01-01 to* [[Trump Presidential Library Foundation]] (2025-05-11, ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Qatari Diar]] *signed agreement to develop Trump golf club and villas with* [[Dar Global]] (2025-04-30, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatar Boeing 747 gift]] *to serve as* [[Air Force One]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatar Boeing 747 gift]] *gifted for use by* [[Donald Trump]] ($400M, money) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatar Boeing 747 gift]] *used as interim Air Force One by* [[Donald Trump]] (2026-06, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatar Boeing 747 gift]] *to end up in* [[Trump presidential library]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatar Boeing 747 gift]] *reportedly to be transferred by 2029-01-01 to* [[Trump Presidential Library Foundation]] (2025-05-11, ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatari Diar]] *signed agreement to develop Trump golf club and villas with* [[Dar Global]] (2025-04-30, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Qatari Diar]] *master developer of* [[Simaisma development]] ($5.5B, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[RTX]] *principal contractor (Patriot)* [[2026 Qatar Patriot and APKWS sales]] (2026-05, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[US State Department]] *approved 10,000 APKWS II sale to* [[Qatar]] (2026-05, $992.4M, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[US State Department]] *approved Patriot replenishment sale to* [[Qatar]] (2026-05, $4.01B, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[US State Department]] *approved possible MQ-9B sale to* [[Qatar]] (2025-03-26, $1.96B, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Trump Organization]] *licenses Trump brand to* [[Dar Global]] (2025-04-30, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Trump Organization]] *Trump-branded golf club and villas within* [[Simaisma development]] (2025-04-30, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[US Air Force]] *retrofitted and operates* [[Qatari Boeing 747-8 (Air Force One)]] (2026-06, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[US State Department]] *approved* [[2026 possible military sales to Qatar ($5B)]] (2026, $5B, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Trump Organization]] *licenses Trump brand to* [[Dar Global]] (2025-04-30, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Trump Organization]] *Trump-branded golf club and villas within* [[Simaisma development]] (2025-04-30, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Trump Organization]] *building* [[Trump hotel in Dubai Abu Dhabi]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Trump Organization]] *struck deal for* [[Trump golf course in Qatar]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Trump golf course in Qatar]] *part of ~$5.5B* [[$5.5B Qatar development project]] ($5.5B, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[United States]] *sold arms in* [[$1.96B Qatar arms deal]] ($1.96B, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[US Air Force]] *retrofitted and operates* [[Qatar Boeing 747 gift]] (2026-06, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 
 ## Sources
 

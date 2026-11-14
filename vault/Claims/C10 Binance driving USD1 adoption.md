@@ -68,12 +68,19 @@ Binance listed USD1 early (2025-05-22, after HTX, MEXC and KuCoin) and ran a cap
 - It is unclear how much of the USD1 held at Binance belongs to the exchange and how much to its customers.
 - The link to the CZ pardon is inference by critics (e.g., Sens. Warren and Merkley); no documented quid pro quo.
 
+## Themes
+
+- [[Theme - Blanket denials]]
+- [[Theme - Narrative over product, circular deals]]
+
 ## People and organisations
 
 - [[Binance]]
+- [[Binance USD1 yield promotions]]
 - [[BitGo]]
 - [[Bloomberg]]
 - [[Changpeng Zhao]]
+- [[Coffeezilla]]
 - [[Donald Trump]]
 - [[Forbes]]
 - [[MGX]]
@@ -87,22 +94,30 @@ Binance listed USD1 early (2025-05-22, after HTX, MEXC and KuCoin) and ran a cap
 
 ## Relationships documented
 
+- [[Binance]] *offered ~20% yield in* [[Binance USD1 yield promotions]] (commercial) · [[C10 Binance driving USD1 adoption|C10]]
+- [[Binance]] *early lister of* [[USD1]] (commercial) · [[C10 Binance driving USD1 adoption|C10]]
 - [[Binance]] *holds ~85-87% of supply of* [[USD1]] (2026-02-09, $4.7B, ownership) · [[C10 Binance driving USD1 adoption|C10]]
 - [[Binance]] *listed for spot trading* [[USD1]] (2025-05-22, commercial) · [[C10 Binance driving USD1 adoption|C10]]
 - [[Binance]] *ran up-to-20% APR booster promotion for holders of* [[USD1]] (2025-12, commercial) · [[C10 Binance driving USD1 adoption|C10]]
+- [[Binance USD1 yield promotions]] *drove adoption of* [[USD1]] (commercial) · [[C10 Binance driving USD1 adoption|C10]]
 - [[BitGo]] *custodies reserves of* [[USD1]] (2025-03, commercial) · [[C04 World Liberty Financial founding and token sale|C04]] [[C10 Binance driving USD1 adoption|C10]]
 - [[Bloomberg]] *reported Binance-fueled stablecoin profits of* [[World Liberty Financial]] (2026-06-05, media) · [[C10 Binance driving USD1 adoption|C10]]
 - [[Changpeng Zhao]] *co-founder of* [[Binance]] (ownership) · [[C10 Binance driving USD1 adoption|C10]]
-- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]]
+- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Donald Trump]] *head of* [[Trump family]] (family) · [[C10 Binance driving USD1 adoption|C10]]
 - [[Forbes]] *reported 87% USD1 concentration at* [[Binance]] (2026-02-09, media) · [[C10 Binance driving USD1 adoption|C10]]
 - [[MGX]] *invested $2B in, settled in USD1* [[Binance]] (2025-05-01, $2B, money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]]
 - [[MGX]] *state-linked fund of* [[United Arab Emirates]] (ownership) · [[C10 Binance driving USD1 adoption|C10]]
 - [[Richard Teng]] *CEO of* [[Binance]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]]
 - [[Trump family]] *holds ~$630M stake in stablecoin business of* [[World Liberty Financial]] (2026-06, $630M, ownership) · [[C10 Binance driving USD1 adoption|C10]]
+- [[USD1]] *earns ~$159M a year for* [[World Liberty Financial]] ($159M, money) · [[C10 Binance driving USD1 adoption|C10]]
 - [[USD1]] *generates $159.5M annualized revenue run rate (WLF claim) for* [[World Liberty Financial]] (2026-04, $159.5M, money) · [[C10 Binance driving USD1 adoption|C10]]
+- [[USD1]] *reserve interest flows to* [[World Liberty Financial]] (money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]]
+- [[The Wall Street Journal]] *charted Binance-linked jumps in* [[USD1]] (media) · [[C10 Binance driving USD1 adoption|C10]]
 - [[The Wall Street Journal]] *charted adoption of (per video; not independently accessed)* [[USD1]] (media) · [[C10 Binance driving USD1 adoption|C10]]
 - [[World Liberty Financial]] *reportedly provides marketing budget for promotions to* [[Binance]] (2026, money) · [[C10 Binance driving USD1 adoption|C10]]
+- [[World Liberty Financial]] *sent denials to* [[Coffeezilla]] (media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]] [[C12 WLF bank charter from the OCC|C12]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[World Liberty Financial]] *pays president and family* [[Donald Trump]] (money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]] [[C29 Trump family wealth gains|C29]]
 - [[World Liberty Financial]] *issues* [[USD1]] (2025-03, commercial) · [[C04 World Liberty Financial founding and token sale|C04]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C11 GENIUS CLARITY Acts and USD1|C11]]
 
 ## Sources

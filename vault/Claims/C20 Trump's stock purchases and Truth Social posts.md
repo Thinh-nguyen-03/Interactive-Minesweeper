@@ -67,6 +67,12 @@ The Donald J. Trump Revocable Trust holds about 52-53% of TMTG, which owns Truth
 - Critics (Rep. Don Beyer, NOTUS, CREW): it is not a blind trust, Trump missed STOCK Act deadlines and paid late fees, and Palantir sponsored administration events and donated to the ballroom project.
 - The disclosures report only value ranges, and the same filing shows a sale of up to $5M of Palantir on Feb 10, 2026.
 
+## Themes
+
+- [[Theme - President appoints the regulator of the family business]]
+- [[Theme - Blanket denials]]
+- [[Theme - Monetizing the office, brand and access]]
+
 ## People and organisations
 
 - [[David Ingle]]
@@ -74,35 +80,45 @@ The Donald J. Trump Revocable Trust holds about 52-53% of TMTG, which owns Truth
 - [[Donald Trump]]
 - [[Donald Trump Jr]]
 - [[Eric Trump]]
-- [[Intel (INTC)]]
+- [[Intel]]
 - [[Intel Oval Office trading meme]]
+- [[Intel trading meme post]]
 - [[Nvidia]]
 - [[Palantir Technologies (PLTR)]]
 - [[Rep. Don Beyer]]
 - [[STOCK Act]]
+- [[Trump financial disclosures]]
 - [[Trump Media & Technology Group]]
 - [[Trump Organization]]
 - [[Truth Social]]
 - [[US Office of Government Ethics]]
-- [[White House]]
+- [[White House Trump administration]]
 
 ## Relationships documented
 
-- [[David Ingle]] *spokesman for* [[White House]] (political) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[David Ingle]] *spokesman for* [[White House Trump administration]] (political) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Rep. Don Beyer]] *disputed blind-trust claim by* [[Eric Trump]] (2026, political) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald J. Trump Revocable Trust]] *largely owns* [[Trump Media & Technology Group]] (ownership) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Donald J. Trump Revocable Trust]] *owns about 52-53% of* [[Trump Media & Technology Group]] (2024-12, ownership) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald Trump]] *beneficiary of* [[Donald J. Trump Revocable Trust]] (ownership) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Donald Trump]] *sole beneficiary of* [[Donald J. Trump Revocable Trust]] (2024-12, ownership) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald Trump]] *posted* [[Intel trading meme post]] (media) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Donald Trump]] *posted on Truth Social* [[Intel Oval Office trading meme]] (2025-09, media) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Donald Trump]] *accounts bought $247k-$630k of shares (Q1 2026)* [[Palantir Technologies (PLTR)]] (2026-03, $630K, money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Donald Trump]] *endorsed by ticker '(PLTR)' on Truth Social* [[Palantir Technologies (PLTR)]] (2026-04-10, media) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Donald Trump]] *missed 45-day reporting deadline under* [[STOCK Act]] (2026, legal) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald Trump]] *posts stock tickers on* [[Truth Social]] (media) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Donald Trump Jr]] *trustee of* [[Donald J. Trump Revocable Trust]] (2024-12, family) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
-- [[Intel Oval Office trading meme]] *depicts trading of* [[Intel (INTC)]] (2025-09, media) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
-- [[Nvidia]] *invested $5B in* [[Intel (INTC)]] (2025-09, $5B, money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Intel trading meme post]] *preceded price rise of* [[Intel]] (money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Intel Oval Office trading meme]] *depicts trading of* [[Intel]] (2025-09, media) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Nvidia]] *invested $5B in* [[Intel]] (2025-09, $5B, money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[US Office of Government Ethics]] *published 113-page Q1 2026 Form 278-T for* [[Donald Trump]] (2026-05-12, regulatory) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Trump financial disclosures]] *show equity buys before posts by* [[Donald Trump]] (money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Trump Media & Technology Group]] *owns* [[Truth Social]] (ownership) · [[C20 Trump's stock purchases and Truth Social posts|C20]] [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Trump Media & Technology Group]] *owns and operates* [[Truth Social]] (ownership) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Trump Organization]] *says independent managers trade portfolio of* [[Donald Trump]] (2026-05, advisory) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
-- [[White House]] *US government took a 9.9% stake at $20.47/share in* [[Intel (INTC)]] (2025-08-22, money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[White House Trump administration]] *says others trade for* [[Donald Trump]] (political) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[White House Trump administration]] *US government took a 9.9% stake at $20.47/share in* [[Intel]] (2025-08-22, money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 
 ## Sources
 

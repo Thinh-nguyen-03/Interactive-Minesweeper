@@ -68,9 +68,16 @@ WLF's subsidiary WLTC Holdings applied to the OCC in January 2026 for a national
 - Critics include Warren, NCRC, Americans for Financial Reform and House Democrats. On 2026-08-15 Warren and colleagues introduced the Ending Presidential Corruption in Banking Act (S. 5389) to bar such approvals and end this charter.
 - The video's 'never seen anything like this' is opinion, not a checkable fact.
 
+## Themes
+
+- [[Theme - President appoints the regulator of the family business]]
+- [[Theme - Official favours follow the money]]
+- [[Theme - Blanket denials]]
+
 ## People and organisations
 
 - [[BitGo]]
+- [[Coffeezilla]]
 - [[Donald Trump]]
 - [[DT Marks SC LLC]]
 - [[Elizabeth Warren]]
@@ -82,6 +89,7 @@ WLF's subsidiary WLTC Holdings applied to the OCC in January 2026 for a national
 - [[United Arab Emirates]]
 - [[US Congress]]
 - [[USD1]]
+- [[WLF bank charter application]]
 - [[WLTC Holdings LLC]]
 - [[World Liberty Financial]]
 - [[World Liberty Trust Company, N.A]]
@@ -91,17 +99,22 @@ WLF's subsidiary WLTC Holdings applied to the OCC in January 2026 for a national
 
 - [[BitGo]] *current custodian of* [[USD1]] (commercial) · [[C12 WLF bank charter from the OCC|C12]]
 - [[Donald Trump]] *nominated as Comptroller* [[Jonathan Gould]] (2025-02, political) · [[C12 WLF bank charter from the OCC|C12]]
+- [[Donald Trump]] *appoints head of* [[Office of the Comptroller of the Currency]] (regulatory) · [[C12 WLF bank charter from the OCC|C12]] [[C22 Crypto.com and TMTG|C22]]
 - [[Donald Trump]] *family holds stake in* [[World Liberty Financial]] (ownership) · [[C12 WLF bank charter from the OCC|C12]]
 - [[DT Marks SC LLC]] *investor giving passivity commitments in* [[World Liberty Trust Company, N.A]] (2026-08-14, ownership) · [[C12 WLF bank charter from the OCC|C12]]
 - [[Elizabeth Warren]] *introduced* [[Ending Presidential Corruption in Banking Act (S. 5389)]] (2026-08-15, political) · [[C12 WLF bank charter from the OCC|C12]]
 - [[Elizabeth Warren]] *demanded pause of WLF review (refused)* [[Office of the Comptroller of the Currency]] (2026-01-13, political) · [[C12 WLF bank charter from the OCC|C12]]
 - [[Elizabeth Warren]] *questioned UAE shareholder in WLF bank application* [[United Arab Emirates]] (2026-02-26, political) · [[C12 WLF bank charter from the OCC|C12]]
 - [[Jonathan Gould]] *heads* [[Office of the Comptroller of the Currency]] (2025-07, regulatory) · [[C12 WLF bank charter from the OCC|C12]]
+- [[Office of the Comptroller of the Currency]] *provisionally approved* [[WLF bank charter application]] (regulatory) · [[C12 WLF bank charter from the OCC|C12]]
 - [[Office of the Comptroller of the Currency]] *issued* [[OCC preliminary conditional approval (CD 1385)]] (2026-08-14, regulatory) · [[C12 WLF bank charter from the OCC|C12]]
+- [[Office of the Comptroller of the Currency]] *regulates bank arm of* [[World Liberty Financial]] (regulatory) · [[C12 WLF bank charter from the OCC|C12]]
 - [[Office of the Comptroller of the Currency]] *granted preliminary conditional approval to* [[World Liberty Trust Company, N.A]] (2026-08-14, regulatory) · [[C12 WLF bank charter from the OCC|C12]]
 - [[StringZ Holding RSC (DE) LLC]] *investor giving passivity commitments in* [[World Liberty Trust Company, N.A]] (2026-08-14, ownership) · [[C12 WLF bank charter from the OCC|C12]]
 - [[US Congress]] *Senate confirmed 50-45* [[Jonathan Gould]] (2025-07-10, political) · [[C12 WLF bank charter from the OCC|C12]]
 - [[WLTC Holdings LLC]] *applied for national trust bank charter to* [[Office of the Comptroller of the Currency]] (2026-01-05, regulatory) · [[C12 WLF bank charter from the OCC|C12]]
+- [[World Liberty Financial]] *sent denials to* [[Coffeezilla]] (media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]] [[C12 WLF bank charter from the OCC|C12]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[World Liberty Financial]] *applied for* [[WLF bank charter application]] (regulatory) · [[C12 WLF bank charter from the OCC|C12]]
 - [[World Liberty Financial]] *parent of* [[WLTC Holdings LLC]] (2026-01, ownership) · [[C12 WLF bank charter from the OCC|C12]]
 - [[World Liberty Trust Company, N.A]] *to issue and custody* [[USD1]] (commercial) · [[C12 WLF bank charter from the OCC|C12]]
 - [[Zach Witkoff]] *co-founder/CEO of* [[World Liberty Financial]] (ownership) · [[C12 WLF bank charter from the OCC|C12]]

@@ -23,7 +23,8 @@ tags:
 
 ## Follow-up checks
 
-- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Pending
+- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
+- [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 
 ## Summary
 
@@ -77,13 +78,20 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 - The Trump brothers are also large shareholders in Dominari Holdings, whose broker-dealer co-underwrote the IPO and whose president, Kyle Wool, sits on the advisory board. The same Dominari partnership is behind American Bitcoin.
 - Founder shares bought for a nominal price and worth millions are standard in SPACs. What is unusual is the sitting president's sons as advisers combined with the government-incentives targeting language.
 
+## Themes
+
+- [[Theme - President appoints the regulator of the family business]]
+- [[Theme - Family member hired as adviser for the name]]
+- [[Theme - Government contracts near family-linked firms]]
+- [[Theme - Secrecy and non-disclosure]]
+
 ## People and organisations
 
-- [[American Bitcoin Corp. (ABTC)]]
+- [[American Bitcoin]]
 - [[Associated Press]]
 - [[Bloomberg]]
 - [[D. Boral Capital]]
-- [[Dominari Holdings]]
+- [[Dominari Holdings Dominari Securities]]
 - [[Donald Trump]]
 - [[Donald Trump Jr]]
 - [[Eric Trump]]
@@ -94,36 +102,41 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 - [[New America Acquisition I Corp]]
 - [[New York Stock Exchange]]
 - [[Paul Hastings LLP]]
+- [[Pentagon (Department of Defense)]]
+- [[Securities and Exchange Commission]]
 - [[Trump Organization]]
-- [[U.S. Securities and Exchange Commission]]
-- [[US Department of Defense]]
+- [[US federal government]]
 
 ## Relationships documented
 
 - [[Associated Press]] *reported removed incentives language* [[New America Acquisition I Corp]] (2025-08-04, media) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[D. Boral Capital]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Dominari Holdings]] *co-formed American Data Centers (later American Bitcoin) with Trump sons* [[American Bitcoin Corp. (ABTC)]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Dominari Holdings]] *co-lead underwriter of IPO (Dominari Securities)* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Donald Trump]] *father of* [[Donald Trump Jr]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Dominari Holdings Dominari Securities]] *co-formed American Data Centers (later American Bitcoin) with Trump sons* [[American Bitcoin]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO (Dominari Securities)* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Donald Trump Jr]] *board member* [[GrabAGun Digital Holdings]] (2025-07, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump Jr]] *adviser to* [[New America Acquisition I Corp]] (advisory) · [[C27 New America Acquisition I Corp SPAC|C27]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *strategic adviser; holds 2M founder shares (~$20M paper value)* [[New America Acquisition I Corp]] (2025-08, $20M, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Eric Trump]] *major shareholder* [[Dominari Holdings]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Eric Trump]] *major shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Eric Trump]] *adviser to* [[New America Acquisition I Corp]] (advisory) · [[C27 New America Acquisition I Corp SPAC|C27]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Eric Trump]] *strategic adviser; holds 3M founder shares (~$30M paper value)* [[New America Acquisition I Corp]] (2025-08, $30M, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Kathleen Clark]] *criticized as unresolved conflict of interest* [[New America Acquisition I Corp]] (2025-08-04, political) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Kevin McGurn]] *chairman, CEO and CFO; indirect interest in 1M founder shares* [[New America Acquisition I Corp]] (2025-07, ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Kyle Wool]] *president of* [[Dominari Holdings]] (ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Kyle Wool]] *board / advisory board member* [[New America Acquisition I Corp]] (2025-08, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Kyle Wool]] *president of* [[Dominari Holdings Dominari Securities]] (ownership) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Kyle Wool]] *board / advisory board member* [[New America Acquisition I Corp]] (2025-08, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[New America Acquisition I Corp]] *listed $345M IPO (incl. over-allotment) as NWAX* [[New York Stock Exchange]] (2025-12-05, $345M, commercial) · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[New America Acquisition I Corp]] *filed S-1 targeting firms benefiting from government incentives, amended same day to remove it* [[U.S. Securities and Exchange Commission]] (2025-08-04, regulatory) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[New America Acquisition I Corp]] *filed (then edited) prospectus with* [[Securities and Exchange Commission]] (regulatory) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[New America Acquisition I Corp]] *filed S-1 targeting firms benefiting from government incentives, amended same day to remove it* [[Securities and Exchange Commission]] (2025-08-04, regulatory) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[New America Acquisition I Corp]] *targets firms reliant on contracts from* [[US federal government]] ($300M, commercial) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Paul Hastings LLP]] *outside counsel; called removed line a scrivener's error* [[New America Acquisition I Corp]] (2025-08-04, legal) · [[C27 New America Acquisition I Corp SPAC|C27]]
 
 ## Leads not covered by the video
 
-- **Dominari Holdings: Trump sons' stake in the broker that underwrote their SPAC**: The Trump brothers are major Dominari shareholders. Dominari Securities co-underwrote NWAX, and its president sits on the SPAC's board, so the sons may profit on both sides of the deal. Dominari is also the origin of American Bitcoin. [source](https://wendysiegelman.substack.com/p/eric-and-don-jr-partner-with-dominari) · [[Dominari Holdings]] [[Eric Trump]] [[Donald Trump Jr]] [[Kyle Wool]] [[New America Acquisition I Corp]] [[American Bitcoin Corp. (ABTC)]]
+- **Dominari Holdings: Trump sons' stake in the broker that underwrote their SPAC**: The Trump brothers are major Dominari shareholders. Dominari Securities co-underwrote NWAX, and its president sits on the SPAC's board, so the sons may profit on both sides of the deal. Dominari is also the origin of American Bitcoin. [source](https://wendysiegelman.substack.com/p/eric-and-don-jr-partner-with-dominari) · [[Dominari Holdings Dominari Securities]] [[Eric Trump]] [[Donald Trump Jr]] [[Kyle Wool]] [[New America Acquisition I Corp]] [[American Bitcoin]]
 - **GrabAGun / Colombier II: Don Jr.'s earlier SPAC deal**: An earlier 2025 SPAC deal with Don Jr. on the board of a firearms retailer, a sector shaped by federal regulation. The video did not cover it. [source](https://www.gurufocus.com/news/2979153/grabagun-a-mobilefocused-online-firearms-retailer-and-defender-of-the-second-amendment-completes-business-combination-with-colombier-ii-and-will-begin-trading-on-nyse-clbr-stock-news) · [[Donald Trump Jr]] [[GrabAGun Digital Holdings]]
-- **NWAX merger target: does it depend on government contracts?**: Once NWAX announces a business combination, check whether the target relies on federal incentives or procurement, which would test the language that was removed. [source](https://www.renaissancecapital.com/IPO-Center/News/115348/spac-new-america-acquisition-i-prices-300-million-ipo-targeting-us-tech) · [[New America Acquisition I Corp]] [[Eric Trump]] [[Donald Trump Jr]] [[US Department of Defense]]
+- **NWAX merger target: does it depend on government contracts?**: Once NWAX announces a business combination, check whether the target relies on federal incentives or procurement, which would test the language that was removed. [source](https://www.renaissancecapital.com/IPO-Center/News/115348/spac-new-america-acquisition-i-prices-300-million-ipo-targeting-us-tech) · [[New America Acquisition I Corp]] [[Eric Trump]] [[Donald Trump Jr]] [[Pentagon (Department of Defense)]]
 
 ## Sources
 
