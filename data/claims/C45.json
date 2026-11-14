@@ -177,6 +177,7 @@
     {"id": "affinity-partners", "name": "Affinity Partners", "type": "fund", "description": "Kushner's investment firm; sponsor of the withdrawn Belgrade project; denies a role in Zvernec."},
     {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US president; named Kushner envoy."},
     {"id": "eric-trump", "name": "Eric Trump", "type": "person", "description": "Trump Organization executive; consulted on the Trump-branded Belgrade hotel licence."},
+    {"id": "donald-trump-jr", "name": "Donald Trump Jr.", "type": "person", "description": "Trump son; reported business activity in Serbia in 2025 (lead)."},
     {"id": "trump-organization", "name": "Trump Organization", "type": "company", "description": "Was to license the Trump brand for the Belgrade hotel."},
     {"id": "atlantic-incubation-partners", "name": "Atlantic Incubation Partners LLC", "type": "company", "description": "Kushner-linked company granted Albanian strategic-investor status for Sazan (Dec 2024)."},
     {"id": "sazan-real-estate-development", "name": "Sazan Real Estate Development", "type": "company", "description": "Developer of the Kushner-backed Albania project; co-owner of Albania Land Development."},

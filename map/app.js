@@ -408,11 +408,11 @@
     } else {
       ctx.fillStyle = C.v[n.verdict]; ctx.fill(); ctx.lineWidth = 1.2; ctx.strokeStyle = C.bg; ctx.stroke();
       if (r >= 6.5) {
-        var p = iconPath(n.verdict), s = (r * (n.origin === 'follow-up' ? 1.25 : 1.2)) / 16 * 1.15;
+        var p = iconPath(n.verdict), s = r * (p.pie ? 1.5 : 1.3) / 16;
         ctx.save(); ctx.translate(x - 8 * s, y - 8 * s); ctx.scale(s, s);
         ctx.strokeStyle = C.bg; ctx.fillStyle = C.bg; ctx.lineCap = 'round'; ctx.lineJoin = 'round';
         if (p.stroke) { ctx.lineWidth = 2.2; ctx.stroke(p.stroke); }
-        if (p.pie) { ctx.lineWidth = 1.5; ctx.beginPath(); ctx.arc(8, 8, 5.5, 0, 6.2832); ctx.stroke(); ctx.fill(p.pie); }
+        if (p.pie) ctx.fill(p.pie);
         p.dots.forEach(function (d) { ctx.beginPath(); ctx.arc(d[0], d[1], 1.2, 0, 6.2832); ctx.fill(); });
         ctx.restore();
       }
@@ -498,7 +498,7 @@
     cand.sort(function (p, q) { return q.pri - p.pri; });
     var placed = [];
     for (i = 0; i < nodes.length; i++) {   // labels keep clear of the nodes that matter
-      n = nodes[i]; if (!n.vis || (fs ? !fs.nodes.has(n) : (n.kind === 'entity' && !n.hub))) continue;
+      n = nodes[i]; if (!fs || !n.vis || !fs.nodes.has(n)) continue;
       var nr = rs(n) * (n.kind === 'claim' ? 1.1 : 0.9), nx = n.x * k + tx, ny = n.y * k + ty;
       if (nr > 3.5) placed.push([nx - nr, ny - nr, nx + nr, ny + nr]);
     }
@@ -509,7 +509,7 @@
       var w = textW(font, c.text), r = rs(c.n) * (c.n.kind === 'claim' ? 1.22 : 1);
       var cx = w + 12 < W ? Math.min(Math.max(c.x, w / 2 + 6), W - w / 2 - 6) : c.x;   // keep the text on screen
       var y = c.y + r + 9, x0 = cx - w / 2 - 3, x1 = cx + w / 2 + 3;
-      if (overlaps(placed, x0, y - 7, x1, y + 7)) return;
+      if (c.n !== f && overlaps(placed, x0, y - 7, x1, y + 7)) return;
       placed.push([x0, y - 7, x1, y + 7]);
       ctx.font = font; ctx.globalAlpha = c.a;
       ctx.lineWidth = 3.5; ctx.strokeStyle = C.bg; ctx.strokeText(c.text, cx, y);

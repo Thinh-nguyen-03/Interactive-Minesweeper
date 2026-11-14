@@ -232,7 +232,7 @@ p { margin: 0; }
 
 .filters {
   left: var(--gutter-l); top: 10px; width: min(330px, calc(100% - var(--gutter-l) - var(--gutter-r)));
-  max-height: calc(100% - 20px); overflow: auto; padding: 12px 14px 14px; z-index: 20;
+  max-height: calc(100% - 20px); overflow: auto; padding: 12px 14px 14px; z-index: 20; background: var(--surface);
 }
 .filters header { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
 .filters header h3 { font-size: 16px; flex: 1; }
