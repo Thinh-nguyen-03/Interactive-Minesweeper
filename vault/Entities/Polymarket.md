@@ -41,7 +41,7 @@ Prediction market company; Don Jr. on advisory board; subject of CFTC probe.
 
 ## Relationships
 
-### Money (8)
+### Money (9)
 
 - [[Polymarket]] *first federal lobbyist* [[David Urban]] · 2025-07 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Polymarket]] *acquired for $112M* [[QCEX (QCX LLC QC Clearing LLC)]] · 2025-07 · $112M · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
@@ -50,6 +50,7 @@ Prediction market company; Don Jr. on advisory board; subject of CFTC probe.
 - [[1789 Capital]] *strategic investment (double-digit millions, reported)* [[Polymarket]] · 2025-08-26 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[1789 Capital]] *strategic investment (eight figures)* [[Polymarket]] · 2025-08-26 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Gannon Ken Van Dyke]] *allegedly won ~$400K betting on Maduro ouster* [[Polymarket]] · 2026-01 · $400K · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[1789 Capital]] *confirmed plans to invest about $300M in a roughly $1B round at a $21B valuation (total stake reported at about $500M)* [[Polymarket]] · 2026-08 · $300M · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[1789 Capital]] *planned ~$300M in $1B round (total ~$500M)* [[Polymarket]] · 2026-08-31 · $300M · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 
 ### Ownership (1)

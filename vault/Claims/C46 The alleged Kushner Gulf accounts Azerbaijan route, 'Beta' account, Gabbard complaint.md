@@ -20,7 +20,7 @@ tags:
 **Verdict:** Unverified · medium confidence  
 **Origin:** Follow-up lead
 
-> [!warning] Unverified allegation: this could not be independently corroborated. It is reported as an allegation, not as an established fact.
+> [!warning] Unverified single-source allegation: this could not be independently corroborated. It is reported as an allegation, not as an established fact.
 
 ## Bottom line
 
@@ -90,8 +90,9 @@ The lead accurately describes what Matthew Cole's book 'Princes and Thieves' (Va
 
 ### 3. The money was routed via Azerbaijan.
 
-**Unverified** · Evidence: Single source. The book says funds passed through an Azerbaijani bank and that MBZ's ~$1B reached Israel 'through Azerbaijan' by spring 2018
+**Unverified** · Evidence: Single source
 
+- The book says funds passed through an Azerbaijani bank and that MBZ's ~$1B reached Israel 'through Azerbaijan' by spring 2018.
 - No bank, date or amount has been independently identified.
 - JAMnews notes the earlier OCCRP 'Azerbaijani Laundromat' but says there is no confirmed link to the Kushner allegations.
 - No Azerbaijani official response was found.

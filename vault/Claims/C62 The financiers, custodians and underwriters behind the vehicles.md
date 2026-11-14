@@ -244,8 +244,9 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 
 ### 13. DWF Labs and Web3Port were early large WLFI buyers. DWF also committed liquidity and reserves to USD1.
 
-**Mostly accurate** · Evidence: The purchases are documented (company releases, multiple outlets); details are single-source or on-chain
+**Mostly accurate**
 
+- Evidence grade: the purchases are documented (company releases, multiple outlets); details are single-source or on-chain.
 - DWF Labs (Dubai) announced a $25M private WLFI purchase on Apr 16, 2025, together with a New York office and a pledge to provide USD1 liquidity.
 - On-chain analysis cited by CoinMarketCap put the price at $0.10 for about 250M tokens (unverified).
 - DWF's Andrei Grachev posted in September 2025 that DWF would move $250M of reserves into USD1 (single-source).
@@ -294,8 +295,9 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 
 ### 17. Pattern: the custodians of Trump-family vehicles (BitGo for USD1; Anchorage and Crypto.com for TMTG) and WLF itself all received favorable OCC actions under Comptroller Gould between Aug 2025 and Aug 2026.
 
-**Mostly accurate** · Evidence: Each action is documented (OCC decisions and multiple outlets); the pattern is inferred
+**Mostly accurate**
 
+- Evidence grade: each action is documented (OCC decisions and multiple outlets); the pattern is inferred.
 - The actions were: Anchorage's consent order terminated (Aug 21, 2025); BitGo's conversion conditionally approved (Dec 12, 2025); Foris DAX/Crypto.com conditionally approved (Feb 23, 2026); and WLTC/World Liberty Trust preliminarily conditionally approved (Aug 14, 2026, CD 1385).
 - The same OCC also approved non-Trump-linked applicants (Circle, Paxos, Fidelity, Ripple), and the policy shift was industry-wide.
 - That cuts against a targeted-favor reading.
@@ -306,9 +308,8 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 
 ### 18. Galaxy Digital was a financier of a Trump-family vehicle.
 
-**Unverified**
+**Unverified** · Evidence: Not found
 
-- Evidence grade: not found.
 - Searches turned up no Galaxy role in WLF, USD1, TMTG, American Bitcoin or the SPACs.
 - I am not asserting a connection.
 

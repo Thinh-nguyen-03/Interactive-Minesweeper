@@ -67,3 +67,9 @@ Research note: propublica.org and ncnewsline.com could not be fetched from this 
 20. Axios, "1789 Capital fires back at Congressional inquiry", 2026-09-09. https://www.axios.com/2026/09/09/1789-capital-trump-jr-jamie-raskin
 21. House Natural Resources Democrats, "Natural Resources Democrats force vote to subpoena Donald Trump Jr. over $670 million taxpayer-funded deal", 2026. https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-democrats-force-vote-to-subpoena-donald-trump-jr-over-670-million-taxpayer-funded-deal
 22. Cato Institute blog, "White House intervention bolsters Trump Jr.-connected rare earths firm", 2026. https://www.cato.org/blog/white-house-intervention-bolsters-trump-jr-connected-rare-earths-firm
+
+## Audit (second-opinion pass, 2026-11-14)
+**Result: upheld.**
+- **ProPublica findings:** NPR's syndication of ProPublica (May 28, 2026) and House Democrats' letters confirm Navarro's role and the quote "The call came from the White House: We have to get this done" (no word "deal"). They also confirm the weeks-not-months timeline, the Aug 2025 Series A, which came about three months before the $620M OSC loan (the largest in OSC history), and the denials.
+- **Returns:** the roughly 200% figure is still known only from secondhand summaries of the NYT article.
+- **Added context:** in late Aug 2026, 1789 confirmed about $300M more for Polymarket, bringing its reported total to about $500M.

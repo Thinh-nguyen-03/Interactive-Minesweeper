@@ -35,23 +35,22 @@ Unusual Machines is the strongest example.
 ## What needs correcting
 
 - Firehawk won federal awards after 1789's investment (partly accurate)
+- Anduril, SpaceX/xAI and Cerebras won contracts or policy benefits timed to or because of Don Jr.'s involvement (partly accurate)
 - The Executive Branch club is a Don Jr. venture tied to government benefits (partly accurate)
 - The Executive Branch club is a private members' club, not a government contractor. No federal contract or benefit tied to it was found.
 - The value of the Unusual Machines Army order was never disclosed. Dollar figures circulating online, such as $12.8M, are unconfirmed.
-- Among the 1789 companies named, only Firehawk has documented federal awards that followed 1789's investment, and they are small. The government business of SpaceX, xAI, Anduril and Cerebras predates 1789.
+- An earlier version of this file said only Firehawk had federal awards after 1789's investment. That was wrong. Anduril's Army enterprise agreement (ceiling up to $20B, March 2026) and the SpaceX and Anduril Golden Dome interceptor awards (April 2026) also came after 1789's stakes were public. Nothing ties those awards to 1789 or Don Jr., and they were multi-vendor or competitive.
 
 ## What is unproven
 
 - Don Jr. helped secure the Unusual Machines contract.
 - His Unusual Machines advisory role is ongoing.
-- Anduril, SpaceX/xAI and Cerebras won contracts or policy benefits timed to or because of Don Jr.'s involvement.
 
 ## In more detail
 
 - Don Jr. joined its advisory board on Nov 27, 2024 with 331,580 shares, and in Oct 2025 the company announced its largest Army order (3,500 drone motors, value undisclosed); in 2026 it was reported to be negotiating a Pentagon equity stake.
-- Of the 1789 Capital portfolio companies, only Firehawk has documented federal awards after 1789 led its $60M Series C, and they are small.
-- For Anduril, SpaceX, xAI and Cerebras, no contract or policy benefit timed to Don Jr.'s involvement was found.
-- The Executive Branch club is a real Don Jr./1789 venture with no documented federal benefit.
+- Several 1789 portfolio companies won large federal awards after 1789's stakes became public: Anduril's Army enterprise agreement (ceiling up to $20B, Mar 2026), SpaceX and Anduril's Golden Dome interceptor awards (Apr 2026), plus Firehawk's small Air Force and Army awards.
+- Those awards were competitive or multi-vendor, the companies' government business predates 1789, and no reporting ties any of them to 1789 or Don Jr. The Executive Branch club is a real Don Jr./1789 venture with no documented federal benefit.
 - Every side denies intervention, and no reporting shows any.
 
 ## Lead investigated
@@ -117,7 +116,10 @@ Unusual Machines is the strongest example.
 
 - CREW says the advisory agreement appears to have expired automatically after one year.
 - His current shareholding is unclear.
-- Sources: [8](https://www.citizensforethics.org/reports-investigations/crew-reports/companies-see-boost-from-trump-admin-after-adding-don-jr-to-their-board/)
+- 2026 coverage (WSJ via Quartz, May 2026; IBTimes, 2026) still calls him a shareholder and advisory-board member, which conflicts with CREW's reading that the agreement expired.
+- No company filing confirming either was found, so this remains unverified.
+- Dates: May 2026
+- Sources: [8](https://www.citizensforethics.org/reports-investigations/crew-reports/companies-see-boost-from-trump-admin-after-adding-don-jr-to-their-board/) [9](https://qz.com/pentagon-drone-company-equity-stakes-unusual-machines-052826) <https://www.ibtimes.co.uk/trump-sons-invested-millions-drone-firm-after-us-ban-chinese-parts-fuels-iran-war-driven-demand-1784393>
 
 ### 6. 1789 Capital's portfolio includes Anduril, SpaceX, xAI, Cerebras and Firehawk.
 
@@ -142,16 +144,28 @@ Unusual Machines is the strongest example.
 
 ### 8. Anduril, SpaceX/xAI and Cerebras won contracts or policy benefits timed to or because of Don Jr.'s involvement.
 
-**Unverified**
+**Partly accurate**
 
-- These firms hold large federal businesses that predate 1789, which is a minority late-stage investor.
-- No reporting found ties any specific award or regulatory decision to 1789's investment or to Don Jr. Searches on Cerebras/CFIUS and the xAI/Anduril contracts could not be run because the search budget ran out.
-- Sources: [14](https://www.asiae.co.kr/en/article/2026051810171921837)
+- Large federal awards did follow 1789's disclosed stakes, but none is tied by any source to 1789 or Don Jr. Anduril: the Army signed a 10-year enterprise agreement with a ceiling of up to $20B on 2026-03-13.
+- It consolidates about 120 existing contracts, the ceiling is not an obligated amount, and the first task order was about $87M. 1789's Anduril stake was public by mid-May 2025.
+- SpaceX and Anduril: both were among the 12 companies that won space-based-interceptor prototype awards for Golden Dome, worth up to $3.2B in total, in late April 2026.
+- Accountable.US had flagged in May 2025 that 1789-linked firms were positioned for Golden Dome. xAI: the CDAO gave it a prototype deal with a $200M ceiling in July 2025, one of four identical awards (with OpenAI, Google and Anthropic), and later a GSA deal at 42 cents per agency.
+- The date of 1789's xAI investment is not documented, so the sequence cannot be fixed.
+- Cerebras: 1789 joined its $1.1B Series G on 2025-09-30.
+- The CFIUS clearance for G42's stake was announced in March 2025, before 1789 invested.
+- Cerebras listed on Nasdaq in May 2026.
+- No federal contract tied to the investment was found.
+- The big awards were competitive and went to several vendors, and these companies had large government businesses before 1789.
+- Timing is documented; influence is not.
+- Amounts: up to $20B; about $87M; up to $3.2B; $200M; $1.1B
+- Dates: 2026-03-13; mid-May 2025; late April 2026; May 2025; July 2025
+- Sources: <https://finance.yahoo.com/news/ai-chip-firm-cerebras-raises-130319879.html> <https://thenextweb.com/news/cerebras-ipo-4-billion-40-billion-valuation> <https://axios.com/2025/07/14/xai-pentagon-grok-contract> <https://www.nextgov.com/acquisition/2025/07/pentagon-awards-multiple-companies-200m-contracts-ai-tools/406698> <https://www.washingtontechnology.com/contracts/2026/03/army-anduril-enter-new-20b-enterprise-agreement/412143/> <https://www.army.mil/article/291074> <https://news.bloomberglaw.com/federal-contracting/spacex-anduril-among-companies-to-win-space-interceptor-deals> <https://satellitetoday.com/government-military/2026/04/26/space-force-awards-3-2-billion-to-12-companies-for-space-based-interceptor-work>
 
 ### 9. The Executive Branch club is a Don Jr. venture tied to government benefits.
 
-**Partly accurate** · Evidence: The club itself is documented
+**Partly accurate**
 
+- The club itself is documented.
 - It is an invite-only Georgetown club co-founded by Don Jr., Omeed Malik, Chris Buskirk and Alex and Zach Witkoff, with membership reported at about $500k.
 - Its Apr 2025 launch drew at least six administration officials.
 - No federal contract or benefit linked to it was found.
@@ -272,6 +286,10 @@ Unusual Machines is the strongest example.
   - The Daily Beast reports that cabinet and agency officials are members of Don Jr.'s club.
   - That is single-sourced and would mean officials paying into a venture owned by the president's son.
   - [[Executive Branch]] [[Donald Trump Jr]] [[Omeed Malik]] · [Source](https://www.thedailybeast.com/wild-secrets-of-don-jrs-maga-millionaire-club-exposed)
+- **1789-backed firms in the Golden Dome space-based-interceptor awards**
+  - SpaceX and Anduril, both 1789 holdings, were among 12 firms in the up-to-$3.2B April 2026 Golden Dome interceptor awards that Accountable.US had flagged in May 2025.
+  - The awardee list and how they were selected deserve their own check.
+  - [[1789 Capital]] [[Donald Trump Jr]] [[Pentagon (Department of Defense)]] · [Source](https://news.bloomberglaw.com/federal-contracting/spacex-anduril-among-companies-to-win-space-interceptor-deals)
 
 ## Sources (22)
 

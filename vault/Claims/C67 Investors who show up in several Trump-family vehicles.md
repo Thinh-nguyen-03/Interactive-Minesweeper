@@ -143,8 +143,9 @@ Only a few parties are documented putting money into more than one Trump-family 
 
 ### 5. DWF Labs bought $25M of WLFI and became a USD1 liquidity provider. It is a repeat counterparty within the WLF complex, but no other Trump vehicle was found.
 
-**Partly accurate** · Evidence: Documented: DWF Labs (Dubai-based; managing partner Andrei Grachev) bought $25M of WLFI in a private deal announced 2025-04-16
+**Partly accurate**
 
+- Documented: DWF Labs (Dubai-based; managing partner Andrei Grachev) bought $25M of WLFI in a private deal announced 2025-04-16.
 - Accountable.us traced 25M USDC in and 250M WLFI out.
 - Alongside it, DWF opened a New York office and committed to fee-free market-making for USD1.
 - That makes it both a token buyer and a service provider for the same family-linked issuer.
@@ -158,8 +159,9 @@ Only a few parties are documented putting money into more than one Trump-family 
 
 ### 6. Jump Trading appears as WLFI's likely market maker and as a paying subscriber to TMTG's Truth API.
 
-**Partly accurate** · Evidence: Two links, both below 'documented'
+**Partly accurate**
 
+- Two links, both below 'documented'.
 - (1) WLFI: on-chain trackers reported WLF multisig transfers to Jump-associated addresses, about 500M WLFI (about $83M) in one report and about 250M WLFI over three months to November 2025 in another.
 - Analysts infer a liquidity or market-making arrangement, which neither party has confirmed: inferred by on-chain analysts.
 - (2) Truth API: Reuters (2026-10-28, anonymous sources) named Jump, Susquehanna and Bloomberg as subscribers to the $60K-$100K-a-month feed of 'market-moving Truths': single-source.
@@ -215,8 +217,9 @@ Only a few parties are documented putting money into more than one Trump-family 
 
 ### 10. Bill Zanker is a repeat operator rather than an investor: Fight Fight Fight runs $TRUMP, proposed a TRUMP treasury company and clashed with WLF over a wallet.
 
-**Mostly accurate** · Evidence: Documented: Fight Fight Fight LLC (owned by Celebration Cards LLC, run by Zanker) co-holds the TRUMP supply with CIC Digital (C01, C40)
+**Mostly accurate**
 
+- Documented: Fight Fight Fight LLC (owned by Celebration Cards LLC, run by Zanker) co-holds the TRUMP supply with CIC Digital (C01, C40).
 - Bloomberg (2025-10-08) reported it sought $200M to $1B for a TRUMP digital-asset treasury, which remained a proposal (C55).
 - The same coverage says a Trump-branded wallet plan was shelved after a dispute with WLF.
 - Senators wrote to FFF on 2025-05-06 and 2026-04-08.

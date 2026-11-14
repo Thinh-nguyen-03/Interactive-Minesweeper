@@ -133,8 +133,9 @@ The Trump Organization does have a large and growing set of Trump-branded tower,
 
 ### 6. State-linked counterparties are involved.
 
-**Partly accurate** · Evidence: Documented for Qatar: Qatari Diar is owned by the QIA sovereign fund
+**Partly accurate**
 
+- Documented for Qatar: Qatari Diar is owned by the QIA sovereign fund.
 - Forbes also reports that state-owned companies previously owned the land in Oman and Qatar, which it says appears to conflict with Trump's first-term pledge.
 - Dar Global and Dar Al Arkan themselves are private and listed companies, not state entities.
 - Audit update: the Riyadh project (Trump International Golf Club, Wadi Safar, about 2.6M sq m) sits inside the Diriyah master plan developed by Diriyah Company, a wholly owned PIF subsidiary and one of PIF's giga-projects (about $63B).

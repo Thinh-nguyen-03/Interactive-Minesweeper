@@ -66,3 +66,9 @@ Direct fetches of tae.com, ans.org, sec.gov and streetinsider.com failed because
 18. SpendNode, "Trump Media DJT $712 million net loss...", https://www.spendnode.io/blog/trump-media-djt-712-million-net-loss-bitcoin-403-million-mark-to-market-truth-social-3-7-million-revenue/ (2026-02)
 19. The Block, "Trump Media swings to $410 million profit in Q3, driven by crypto gains", https://theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964 (2026-11-09)
 20. CryptoSlate, "Trump Media posts $410M profit but crypto hides an operating loss", https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/ (2026-11)
+
+## Audit (second-opinion pass, 2026-11-14)
+**Result: upheld.**
+- **TAE merger:** company releases confirm the S-4 became effective on Nov 5, 2026 (record date Nov 2, closing expected by year-end), so the deal is still pending. The Dec 14 vote date was not re-confirmed in snippets and rests on the cited S-4/A.
+- **Q3 2026 results:** net income of $409.7M on $3.0M revenue, driven by crypto gains. The nine-month 2026 net loss was about $234.2M.
+- **Changes:** none to the findings.

@@ -75,8 +75,9 @@ The in-law roles are documented.
 
 ### 1. Massad Boulos (Tiffany Trump's father-in-law) was given a senior US government role and fronts the DRC/Rwanda minerals-for-security diplomacy.
 
-**Confirmed** · Evidence: Documented. Boulos was named Senior Advisor for Africa in April 2025, on top of his Arab-affairs remit
+**Confirmed** · Evidence: Documented
 
+- Boulos was named Senior Advisor for Africa in April 2025, on top of his Arab-affairs remit.
 - His first trip was to Kinshasa (3 Apr 2025), where he said a US-DRC minerals deal was being negotiated alongside a Congo-Rwanda peace agreement and that US companies would invest billions once the deals were signed (AP, NPR, Mining.com).
 - Five House Democrats wrote demanding clarity on the minerals terms (Africa Confidential).
 - This shows a family in-law running diplomacy in which minerals access is a bargaining chip.
@@ -111,8 +112,9 @@ The in-law roles are documented.
 
 ### 4. Tiffany Trump and Michael Boulos vacationed on the yacht of a Turkish oil trader (BGN International) that stands to benefit from the Libyan oil output Massad Boulos was promoting.
 
-**Confirmed** · Evidence: Single-source (one NYT investigation, Sept 2025, widely relayed by Middle East Eye, Turkish Minute and Infobae)
+**Confirmed**
 
+- Single-source (one NYT investigation, Sept 2025, widely relayed by Middle East Eye, Turkish Minute and Infobae).
 - In summer 2025 the couple sailed on Phoenix 2, owned by Ercument and Ruya Bayegan of BGN International.
 - Tiffany posted from the yacht a day after Massad Boulos announced plans to raise Libyan oil output, and the NYT reported that BGN trades Libyan oil and stands to benefit.
 - Boulos also dined privately with Libya's national security adviser on 23 July after announcing oil deals in Tripoli; he at first denied the dinner, then acknowledged it.
@@ -139,8 +141,9 @@ The in-law roles are documented.
 
 ### 6. Michael Boulos earned a fee on a superyacht sale to Jared Kushner that the NYT says was overpriced by about $2.5M.
 
-**Confirmed** · Evidence: Single-source (NYT, 21 Aug 2025, relayed by the Spokesman-Review, Daily Beast and Protothema)
+**Confirmed**
 
+- Single-source (NYT, 21 Aug 2025, relayed by the Spokesman-Review, Daily Beast and Protothema).
 - Boulos worked for the yacht brokerage of his cousin Jimmy (James) Frangi.
 - Kushner bought the 50m superyacht Solstice, being built at Perama, Greece, as an investment.
 - The NYT reported a roughly $2.5M overcharge and about $300,000 to Boulos when the sale closed in 2022, with the yacht still unfinished.
@@ -164,8 +167,9 @@ The in-law roles are documented.
 
 ### 8. Charles Kushner, pardoned by Trump in 2020, was made ambassador to France (and Monaco).
 
-**Confirmed** · Evidence: Documented. Trump pardoned Charles Kushner in Dec 2020 for his 2005 tax-evasion, witness-tampering and illegal-campaign-contribution convictions
+**Confirmed** · Evidence: Documented
 
+- Trump pardoned Charles Kushner in Dec 2020 for his 2005 tax-evasion, witness-tampering and illegal-campaign-contribution convictions.
 - Trump nominated him in Nov 2024 (Fortune), the Senate confirmed him 51-45 on 19-20 May 2025 (AP), and he presented credentials in July 2025.
 - Wikipedia adds an October 2025 accreditation to Monaco, which we did not verify elsewhere.
 - In Aug 2025 he publicly rebuked Macron over antisemitism and was summoned by the French foreign ministry.
@@ -191,9 +195,9 @@ The in-law roles are documented.
 
 ### 10. Josh Kushner's Thrive Capital is one of OpenAI's largest backers and is tied into OpenAI through a circular deal, while OpenAI's Stargate project was launched at the White House.
 
-**Confirmed**
+**Confirmed** · Evidence: Documented
 
-- Documented. Thrive led OpenAI's early-2024 employee tender at about $86B and committed more than $1B to the Oct 2024 $6.6B round, with an option to invest more at the same valuation (Maginative/The Information, btw.media).
+- Thrive led OpenAI's early-2024 employee tender at about $86B and committed more than $1B to the Oct 2024 $6.6B round, with an option to invest more at the same valuation (Maginative/The Information, btw.media).
 - On 1 Dec 2025 OpenAI took an equity stake in Thrive Holdings, a Thrive-created vehicle, paid for in services rather than cash (TechCrunch, Bloomberg, The Register).
 - Thrive closed a $10B+ fund in Feb 2026.
 - OpenAI is the operating partner of Stargate, announced by Trump at the White House in Jan 2025 (C08).
@@ -206,8 +210,9 @@ The in-law roles are documented.
 
 ### 11. A senior GSA procurement official who is himself a Thrive investor oversaw federal contracting with Thrive-backed companies (Ramp, Databricks).
 
-**Partly accurate** · Evidence: Documented that GSA under Federal Acquisition Service commissioner Josh Gruenbaum courted Thrive-backed fintech Ramp for the roughly $700B SmartPay card program
+**Partly accurate**
 
+- Documented that GSA under Federal Acquisition Service commissioner Josh Gruenbaum courted Thrive-backed fintech Ramp for the roughly $700B SmartPay card program.
 - ProPublica found at least four meetings with Ramp before the opportunity was opened, and Rep. Gerald Connolly opened a probe in 2025 (ProPublica, Gizmodo, Banking Dive).
 - Single-source, secondhand (a WSJ report relayed by aggregators in 2026; we could not reach the WSJ) that Gruenbaum is personally an investor in a Thrive fund (reported at $100,001-$250,000, March 2025) and that GSA later gave a sole-source contract to Thrive-backed Databricks.
 - The aggregators conflict on the amount ($1.8M vs $18M), so treat it as unverified.
@@ -255,8 +260,9 @@ The in-law roles are documented.
 
 ### 15. Ivanka Trump has ventures that depend on government decisions.
 
-**Partly accurate** · Evidence: Documented. Her new US venture is Planet Harvest, a 'profit-for-purpose' produce company co-founded with Melissa Ackerman and launched publicly in 2025 (CNN via KVIA)
+**Partly accurate** · Evidence: Documented
 
+- Her new US venture is Planet Harvest, a 'profit-for-purpose' produce company co-founded with Melissa Ackerman and launched publicly in 2025 (CNN via KVIA).
 - We found no federal dependency.
 - Her government-dependent exposure is foreign: the Albania (Sazan/Zvernec) resort plans with Jared Kushner need Albanian government approval (C45, Forbes June 2026).
 - She holds no administration role in the second term.
@@ -265,8 +271,9 @@ The in-law roles are documented.
 
 ### 16. Kai Trump (Don Jr.'s daughter) has endorsement deals.
 
-**Confirmed** · Evidence: Documented. Her NIL deals include TaylorMade (Feb 2025), Leaf Trading Cards, and Accelerator Active Energy as an NIL and equity partner (mid-2025)
+**Confirmed** · Evidence: Documented
 
+- Her NIL deals include TaylorMade (Feb 2025), Leaf Trading Cards, and Accelerator Active Energy as an NIL and equity partner (mid-2025).
 - On3 estimates her NIL value at about $1.2M. These are ordinary commercial deals; we found no counterparty with a pending federal matter, and no source suggests one.
 - Amounts: about $1.2M
 - Dates: Feb 2025; mid-2025

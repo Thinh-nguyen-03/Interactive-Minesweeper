@@ -149,8 +149,9 @@ Most of the pattern in the brief is documented.
 
 ### 7. Prediction-market bets were placed ahead of pardon announcements.
 
-**Misleading** · Evidence: The documented case concerns Biden's pardons, not Trump's
+**Misleading**
 
+- The documented case concerns Biden's pardons, not Trump's.
 - Bubblemaps told NPR (16 April 2026) that one Polymarket trader made about $316K on Biden's pre-emptive pardons and the Hunter Biden pardon.
 - I found no documented suspicious wagers ahead of Trump pardons such as CZ's.
 - No prosecutors have announced an investigation into the pardon bets.

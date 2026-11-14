@@ -39,6 +39,7 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
 - The NYT investigation is dated Nov 30, 2025 and counted 449 AI-related holdings out of 708 tech investments.
 - Sacks left the czar post in March 2026 and now co-chairs PCAST.
 - Formal UAE/G42 chip licences were issued by Commerce/BIS; Sacks's documented role was in policy and negotiation.
+- Reports that Sacks sued the NYT appear to be wrong. Only a pre-publication demand letter from Clare Locke (Nov 24, 2025) is documented, and no complaint was found.
 
 ## In more detail
 
@@ -109,9 +110,12 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
 - He coordinated the White House position on the bill and promoted it publicly; Trump signed it on July 18, 2025.
 - The NYT cites Craft's 7.8% stake in BitGo at BitGo's IPO filing, and BitGo custodies USD1 reserves (see C11).
 - No source shows Sacks acting on that overlap.
-- Amounts: 7.8%
-- Dates: July 18, 2025
-- Sources: [17](https://www.theblock.co/post/355355/trump-crypto-czar-david-sacks-stablecoin-bill-trillions-of-dollars-demand-us-treasurys) [4](https://cointelegraph.com/news/david-sacks-nyt-report-conflicts-interest-nothing-burger)
+- Audit: BitGo priced its NYSE IPO (BTGO) on 2026-01-21 at $18, above its $15-17 range.
+- It sold about 11.8M shares (about 795k of them by selling holders) for about $212.8M gross, and trading began 2026-01-22.
+- Craft Ventures and Sacks personally invested in BitGo's 2017 Series B. The 7.8% figure is the NYT's; I could not check it against the prospectus (sec.gov is not reachable here), and one secondary source lists Craft with about 7.5M shares.
+- Amounts: 7.8%; $18; $15-17; about $212.8M
+- Dates: July 18, 2025; 2026-01-21; 2026-01-22
+- Sources: [17](https://www.theblock.co/post/355355/trump-crypto-czar-david-sacks-stablecoin-bill-trillions-of-dollars-demand-us-treasurys) [4](https://cointelegraph.com/news/david-sacks-nyt-report-conflicts-interest-nothing-burger) <https://www.businesswire.com/news/home/20260121850585/en/BitGo-Holdings-Announces-Pricing-of-Initial-Public-Offering> <https://www.theblock.co/news/business/2026-01-21-bitgo-prices-us-ipo-386629>
 
 ### 6. Sacks and the White House deny any conflict
 
@@ -120,8 +124,11 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
 - Sacks called the story a 'nothing burger', said OGE approved his waivers and said he divested hundreds of millions.
 - The White House said OGE required only certain AI divestments.
 - His lawyers at Clare Locke sent the NYT a pre-publication letter, and the NYT stood by its story.
-- Reports of a filed defamation lawsuit are unverified.
-- Sources: [3](https://www.theblock.co/post/380916/white-house-ai-crypto-czar-david-sacks-rejects-conflict-of-interest-claims) [5](https://protos.com/david-sacks-sends-silly-legal-threat-to-the-new-york-times)
+- No filed defamation lawsuit was found as of Nov 2026.
+- The record shows only the Clare Locke letter of 2025-11-24 to NYT deputy general counsel David McCraw.
+- One crypto outlet (AMBCrypto) said he sued, without citing a filing, and other coverage describes a legal threat.
+- Dates: Nov 2026; 2025-11-24
+- Sources: [3](https://www.theblock.co/post/380916/white-house-ai-crypto-czar-david-sacks-rejects-conflict-of-interest-claims) [5](https://protos.com/david-sacks-sends-silly-legal-threat-to-the-new-york-times) [5](https://protos.com/david-sacks-sends-silly-legal-threat-to-the-new-york-times) <https://www.law360.com/articles/2416588>
 
 ## Denials and context
 
@@ -131,6 +138,8 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
 - Critics, including Warren, Slotkin, Stansbury and ethics scholar Kathleen Clark, call the waivers inadequate and question his 130-day SGE count.
 - The New York Times articles and the Senate PDFs could not be fetched directly (blocked hosts); findings rest on multi-outlet search coverage.
   - The search budget ran out before checking BitGo IPO details and post-March-2026 developments.
+- After he left the czar post, Craft Ventures filed a Form D (Aug 7, 2026) for Craft Ventures V, reportedly targeting about $1B (The Information, via secondary coverage).
+  - Sacks remains PCAST co-chair, so the overlap between his advisory role and Craft's AI and crypto portfolio continues.
 
 ## People and organisations
 

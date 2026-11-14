@@ -117,8 +117,9 @@ Most of the named officials have documented prior ties to parties affected by th
 
 ### 4. Todd Blanche held crypto when he signed the Apr 7, 2025 memo disbanding NCET.
 
-**Confirmed** · Evidence: Documented (OGE 278 filings via ProPublica; Jan 28, 2026 letter from six Democratic senators)
+**Confirmed**
 
+- Evidence grade: documented (OGE 278 filings via ProPublica; Jan 28, 2026 letter from six Democratic senators).
 - Blanche held roughly $159K-$485K in crypto assets (bitcoin, ether, solana); outlets give slightly different ranges.
 - His ethics agreement required divestment within 90 days of confirmation.
 - The 'Ending Regulation by Prosecution' memo came on Apr 7, 2025, and the sales and transfers, some to relatives, took place May 31-June 3, 2025.
@@ -162,8 +163,9 @@ Most of the named officials have documented prior ties to parties affected by th
 
 ### 7. Mike Selig's former law-firm clients sit on the side of prediction-market fights his CFTC is now waging.
 
-**Mostly accurate** · Evidence: Documented links (OGE agreement; Intercept; InGame), with the benefit-to-client step inferred
+**Mostly accurate**
 
+- Evidence grade: documented links (OGE agreement; Intercept; InGame), with the benefit-to-client step inferred.
 - As a Willkie Farr partner (2022-25), Selig represented dozens of crypto clients, including eToro, Paradigm and Alluvial Finance (Alluvial met his SEC Crypto Task Force staff).
 - He co-signed a July 2024 Paradigm letter urging the CFTC to permit Kalshi's political event contracts, and Paradigm invested in Kalshi in June 2025.
 - Zeteo reports that Willkie represents Polymarket.
@@ -201,8 +203,9 @@ Most of the named officials have documented prior ties to parties affected by th
 
 ### 10. Peter Navarro, a friend of Don Jr., initiated the Pentagon's $620M loan to 1789-backed Vulcan Elements.
 
-**Confirmed** · Evidence: Documented (ProPublica, May 28, 2026, with DoD records and interviews; follow-up letters from lawmakers)
+**Confirmed**
 
+- Evidence grade: documented (ProPublica, May 28, 2026, with DoD records and interviews; follow-up letters from lawmakers).
 - Navarro is described as a friend of Don Jr. Don Jr. is among the people Navarro dedicated his latest book to, and lawmakers note that Don Jr. visited Navarro in prison.
 - Navarro initiated the OSC loan request, and an unnamed Pentagon official said it was the only deal initiated by a top presidential aide.
 - 1789 Capital invested in Vulcan in its Aug 2025 Series A, and the $1.4B package was announced on Nov 3, 2025.
@@ -243,8 +246,9 @@ Most of the named officials have documented prior ties to parties affected by th
 
 ### 13. Scott Bessent: late divestment of China-exposed farmland, and an Argentina rescue that benefited a friend's fund.
 
-**Mostly accurate** · Evidence: Documented for the farmland, single-source and secondary for the Citrone link
+**Mostly accurate**
 
+- Evidence grade: documented for the farmland, single-source and secondary for the Citrone link.
 - OGE told Senate Finance that Bessent had missed his Apr 28, 2025 divestment deadline.
 - About $25M of North Dakota farmland remained, a crop roughly 70% exported to China, while he led China trade talks.
 - He said in Oct 2025 that he had divested it.
@@ -294,8 +298,9 @@ Most of the named officials have documented prior ties to parties affected by th
 
 ### 17. Tom Barrack kept financial ties to TI Capital while pushing its role in the Iraq-Syria pipeline.
 
-**Mostly accurate** · Evidence: Single-source (Reuters investigation, Oct 9, 2026, seen only via syndication and Al-Monitor)
+**Mostly accurate**
 
+- Evidence grade: single-source (Reuters investigation, Oct 9, 2026, seen only via syndication and Al-Monitor).
 - Barrack and Ziad Ghandour set up a $250M investment venture in 2020, and Barrack disclosed a paid consulting role with it in 2024.
 - As ambassador to Turkey and Syria envoy, he reportedly pressed Iraqi and Syrian officials to include TI Capital in the Kirkuk-Baniyas pipeline.
 - In July 2026 Iraq and Syria signed MoUs with a consortium of TI Capital, Chevron and Qatar's UCC Holding (project cost $15B+).
@@ -320,9 +325,8 @@ Most of the named officials have documented prior ties to parties affected by th
 
 ### 19. Charles Kushner (ambassador to France) made decisions benefiting prior business ties.
 
-**Unverified**
+**Unverified** · Evidence: None found
 
-- Evidence grade: none found.
 - He was confirmed 51-45 in May 2025, after a 2020 pardon.
 - Coverage is about diplomatic rows (summoned by France and absent).
 - We found no reporting of a decision tied to Kushner Companies or Gulf money.

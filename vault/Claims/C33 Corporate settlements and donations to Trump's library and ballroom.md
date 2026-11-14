@@ -153,10 +153,19 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 
 - SEC dismissed Coinbase case (27 Feb 2025) and closed its Gemini probe (see C23); SEC and Ripple dropped cross-appeals 7 Aug 2025 but the $125M penalty and injunction stand.
 - Public Citizen (Jun 2026) says 19 of 27 identified corporate donors got $338B in federal contracts and 14 face or had suspended enforcement actions (advocacy figures, not independently verified).
-- No specific Tether, Meta, Google or Disney regulatory benefit verified in this run.
+- Audit check on Meta, Google and Disney: the record shows continued or adverse federal action, not favorable treatment.
+- Meta: Trump's FTC took its Instagram/WhatsApp monopoly case to trial.
+- Judge Boasberg ruled for Meta on 2025-11-18, and the FTC said in Jan 2026 that it would appeal.
+- Google: DOJ kept up both cases.
+- Judge Mehta's Sep 2025 search remedies rejected a Chrome divestiture, and DOJ and the states cross-appealed in Feb 2026 seeking it.
+- Judge Brinkema's ad-tech remedy (Sep 2026) declined to order an AdX sale.
+- Those are court rulings, not agency favors.
+- Disney/ABC: FCC Chair Carr opened a DEI probe in Mar 2025, ordered early renewal filings for ABC's eight owned stations in Apr 2026, and opened an equal-time probe of The View.
+- Disney calls these unconstitutional, and no ruling was found as of late July 2026.
+- Tether-specific outcomes were not re-checked.
 - Amounts: $125M; $338B
-- Dates: 27 Feb 2025; 7 Aug 2025; Jun 2026
-- Sources: [25](https://news.bloomberglaw.com/litigation/ripple-sec-drop-appeal-after-settlement-path-blocked-by-judge) [19](https://www.citizen.org/article/ballroom-billions/)
+- Dates: 27 Feb 2025; 7 Aug 2025; Jun 2026; 2025-11-18; Jan 2026
+- Sources: [25](https://news.bloomberglaw.com/litigation/ripple-sec-drop-appeal-after-settlement-path-blocked-by-judge) [19](https://www.citizen.org/article/ballroom-billions/) <https://www.washingtontimes.com/news/2026/jan/21/ftc-says-appeal-meta-antitrust-ruling/> <https://news.bloomberglaw.com/ip-law/meta-wins-ftc-antitrust-trial-over-instagram-whatsapp-deals> <https://www.mediapost.com/publications/article/416888/google-search-remedies-too-weak-feds-tell-appeals.html> <https://natlawreview.com/article/court-declines-order-adx-divestiture-google-ad-tech-case> <https://www.wunc.org/2026-06-26/abc-fights-back-against-the-trump-administrations-attacks> <https://www.thewrap.com/industry-news/business/fcc-brendan-carr-disney-abc-misinformation-the-view-broadcast-license/>
 
 ## Denials and context
 
@@ -166,6 +175,7 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 - Claims that settlement money is 'missing' come from Democratic lawmakers (Warren, Blumenthal, Stansbury); no foundation response was found.
 - Public Citizen and Campaign Legal Center analyses are advocacy work; their contract and enforcement tallies were not independently verified.
 - Research limits: direct fetches mostly failed and the web-search budget ran out before checking 2026 settlements and Tether/Winklevoss regulatory outcomes.
+- Against the regulatory-favor reading: for three of the biggest payers, Meta, Google/YouTube and Disney/ABC, the administration kept up or escalated enforcement after the settlements (FTC appeal against Meta, Jan 2026; DOJ cross-appeal seeking Chrome divestiture, Feb 2026; FCC license and equal-time probes of ABC, 2026).
 
 ## People and organisations
 
@@ -272,6 +282,12 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 - **Trump library foundation's IRS fast-track during the government shutdown**
   - The Miami Herald reported that the foundation got special IRS treatment for its tax-exempt application while projecting about $1B in fundraising.
   - [[Donald J. Trump Presidential Library Foundation, Inc]] · [Source](https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/)
+- **Trump's IRS lawsuit settlement and the $1.776B 'anti-weaponization fund'**
+  - A 2026 settlement in which Trump dropped a $10B suit against his own government's IRS.
+  - DOJ created a fund of about $1.8B, paid from the Treasury Judgment Fund and run by a commission the attorney general appoints.
+  - Trump gets an apology and no payment.
+  - It is a different kind of 'settlement benefiting Trump-linked interests' from the corporate ones.
+  - [[Donald Trump]] [[Donald Trump Jr]] [[Eric Trump]] [[Trump Organization]] · [Source](https://www.axios.com/2026/05/18/trump-irs-lawsuit-dropped)
 
 ## Sources (26)
 

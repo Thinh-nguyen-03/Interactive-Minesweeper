@@ -134,8 +134,9 @@ The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar
 
 ### 7. The dismissals coincide with what looks like quid-pro-quo deals.
 
-**Unverified** · Evidence: The donations and the timing are documented
+**Unverified**
 
+- The donations and the timing are documented.
 - No evidence was found that any dismissal was exchanged for a donation.
 - The SEC cites policy and discretion, and firms with no known Trump donations (Uniswap, OpenSea) also had their probes dropped.
 - Sources: [11](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped) [21](https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/)
@@ -287,7 +288,7 @@ The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar
   - A broader tracker of dropped enforcement, including crypto cases.
   - [[Securities and Exchange Commission]] [[Donald Trump]] · [Source](https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/)
 
-## Sources (21)
+## Sources (26)
 
 1. [SEC press release 2025-47: Coinbase dismissal](https://sec.gov/newsroom/press-releases/2025-47) (SEC, 2025-02-27)
 2. [Coinbase case officially dropped by SEC](https://www.theblock.co/post/343835/coinbase-case-officially-dropped-by-sec) (The Block, 2025-02-27)
@@ -310,6 +311,11 @@ The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar
 19. [37 White House ballroom donors funding $300 million build](https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/) (Fortune, 2025-10-26)
 20. [SEC officially closes investigation into Crypto.com](https://cointelegraph.com/news/sec-officially-closes-investigation-crypto-com) (Cointelegraph, 2025-03-27)
 21. [Enforcement Actions Against Over 100 Corporations Stopped by Trump](https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/) (Public Citizen, 2025)
+22. [SEC dismisses civil action against Gemini Trust with prejudice](https://cointelegraph.com/news/sec-dismisses-civil-action-against-gemini-trust-with-prejudice) (Cointelegraph, 2026-01-23)
+23. [The rise and fall of the SEC's case against the Winklevoss's Gemini](https://blockchain.bakermckenzie.com/2026/01/27/the-rise-and-fall-of-the-secs-case-against-the-winklevosss-gemini/) (Baker McKenzie Blockchain blog, 2026-01-27)
+24. [Consensys, Solana, Uniswap donated to Donald Trump's inauguration](https://cointelegraph.com/news/consensys-solana-uniswap-donald-trump-inauguration-donation) (Cointelegraph, 2025-04-21)
+25. [Ripple, Coinbase, Solana among crypto firms contributing over $12M to Trump's inauguration fund](https://www.benzinga.com/markets/cryptocurrency/25/04/44907123/ripple-coinbase-solana-among-crypto-firms-contributing-over-12m-to-trumps-inauguration-fund) (Benzinga, 2025-04-21)
+26. [These are the 37 donors helping pay for Trump's $300 million White House ballroom (AP)](https://www.kptv.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/) (KPTV / AP, 2025-11-13)
 
 ## Full report
 
@@ -397,3 +403,10 @@ Molly White, in an interview segment, says that "basically every major cryptocur
 20. Cointelegraph, "SEC officially closes investigation into Crypto.com," 2025-03-27. https://cointelegraph.com/news/sec-officially-closes-investigation-crypto-com
 
 Note: direct fetches of decrypt.co and theblock.co were blocked in this environment. The findings rely on search-result summaries from several outlets, plus SEC pages as they appear in search results.
+
+### Audit (second-opinion pass, 2026-11-14)
+**Result: upheld.**
+- **Checks:** fresh searches re-checked the Gemini Earn dismissal with prejudice (Jan 23, 2026; Cointelegraph, Baker McKenzie) and the Apr 20, 2025 inaugural FEC filing. That filing shows Coinbase, Kraken/Payward and Crypto.com/Foris DAX at $1M each and Ripple at $4.8-5M (Benzinga, Cointelegraph).
+- **Ballroom list:** the AP's ballroom donor list includes Coinbase, Ripple, Tether America and the Winklevoss twins. The AP calls the list incomplete, so Kraken's and Binance's absence means "not found", not "did not give".
+- **Binance:** no Binance donation was found.
+- **Changes:** none to the findings.

@@ -67,8 +67,9 @@ The access layer is well documented.
 
 ### 1. Pam Bondi lobbied for Qatar at Ballard Partners, then as AG signed the memo clearing the Qatari 747 gift.
 
-**Confirmed** · Evidence: Documented. Ballard registered under FARA for Qatar in 2019 with Bondi named on the contract; the firm (not Bondi personally) was paid $115,000/month
+**Confirmed** · Evidence: Documented
 
+- Ballard registered under FARA for Qatar in 2019 with Bondi named on the contract; the firm (not Bondi personally) was paid $115,000/month.
 - Bondi left Ballard in Nov 2019, returned Mar 2020 and resumed the Qatar work; Quincy says she was registered for Qatar's embassy until 2021.
 - In May 2025 Bondi reportedly signed the DOJ memo finding acceptance 'legally permissible', premised on transfer to the Trump library foundation; American Oversight sued for it in Jul 2025. No recusal found.
 - Shows a prior paid relationship with the donor government; does not show the memo was improper.
@@ -79,9 +80,9 @@ The access layer is well documented.
 
 ### 2. Kash Patel was a paid consultant to Qatar's embassy, then as FBI director signed security agreements with Qatar.
 
-**Confirmed**
+**Confirmed** · Evidence: Documented
 
-- Evidence: documented. Patel's financial disclosure (public 2025-02-01, after his hearing) listed the Qatari embassy as a client of Trishul LLC (about $2.1M total firm income; Qatar portion only reported as >$5,000).
+- Patel's financial disclosure (public 2025-02-01, after his hearing) listed the Qatari embassy as a client of Trishul LLC (about $2.1M total firm income; Qatar portion only reported as >$5,000).
 - He did not register under FARA.
 - A later disclosure shows an ethics waiver dated Mar 4 for a 'particular matter related to Qatar'.
 - In Dec 2025 he signed bilateral security agreements with Qatar and said he would recuse from related work for one year and keep Trishul dormant.
@@ -151,8 +152,9 @@ The access layer is well documented.
 
 ### 8. Checkmate / Ches McDowell: Binance, Pakistan, Panama and a partnership with Ballard.
 
-**Confirmed** · Evidence: Documented. Binance paid Checkmate $450K for Sept 2025 'executive relief' lobbying before the CZ pardon (C36); McDowell says Trump Jr. did not help
+**Confirmed** · Evidence: Documented
 
+- Binance paid Checkmate $450K for Sept 2025 'executive relief' lobbying before the CZ pardon (C36); McDowell says Trump Jr. did not help.
 - Checkmate reported >$22M 2025 federal revenue (Bloomberg Government).
 - Clients also include the Sports Betting Alliance, the Panama Maritime Authority ($195K/month) and Pakistan via Dubai-based Greystone Investment & Management ($100K Phase 1 from 2025-05-15, with an option to expand; amounts vary by outlet).
 - Ballard and Checkmate announced a strategic partnership (Florida Politics; date not established).
@@ -224,9 +226,9 @@ The access layer is well documented.
 
 ### 14. Lewandowski, Arthur Schwartz and Mercury have clients in this project.
 
-**Unverified**
+**Unverified** · Evidence: None found
 
-- Evidence: none found. Lewandowski is a DHS special government employee under House Oversight inquiry (Rep. Garcia) and an American Oversight FOIA suit over his status and any private clients; no client in this project was found.
+- Lewandowski is a DHS special government employee under House Oversight inquiry (Rep. Garcia) and an American Oversight FOIA suit over his status and any private clients; no client in this project was found.
 - Arthur Schwartz appears only as 1789 Capital's spokesman (C51).
 - No 2025 Mercury client in this project was found.
 - Sources: [50](https://www.axios.com/2025/09/05/corey-lewandowksi-trump-aide-probe-expands) [51](https://www.axios.com/2026/01/23/corey-lewandowski-kristi-noem-homeland-security)

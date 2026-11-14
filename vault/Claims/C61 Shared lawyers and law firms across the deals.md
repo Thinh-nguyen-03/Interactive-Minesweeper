@@ -64,9 +64,9 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 ### 1. Teresa Goody Guillen (BakerHostetler) represented World Liberty Financial before Congress while registered as a lobbyist for Binance and Changpeng Zhao, the counterparty in WLF's biggest deal.
 
-**Confirmed**
+**Confirmed** · Evidence: Documented
 
-- Documented. A Senate Banking minority document cites a May 29, 2025 letter from Goody Guillen and fellow BakerHostetler partner Jonathan R. Barr 'on behalf of World Liberty Financial, Inc.' answering Sens. Warren and Merkley's May 14, 2025 questions about MGX's $2B Binance investment being settled in WLF's USD1.
+- A Senate Banking minority document cites a May 29, 2025 letter from Goody Guillen and fellow BakerHostetler partner Jonathan R. Barr 'on behalf of World Liberty Financial, Inc.' answering Sens. Warren and Merkley's May 14, 2025 questions about MGX's $2B Binance investment being settled in WLF's USD1.
 - In the same period Binance and Zhao had registered her as a lobbyist (Bloomberg Law: registration in late March 2025; disclosures show about $290K paid in 2025, see C36/C49).
 - In Nov 2025 she answered Warren on Zhao's behalf (Nov 2, 2025 BakerHostetler letter re Changpeng Zhao).
 - So one lawyer spoke for both WLF and Binance/CZ on the deal Congress was asking about, and then on the CZ pardon (Oct 23, 2025).
@@ -128,8 +128,9 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 ### 6. Dhillon Law Group is a common origin for the White House counsel who signs ethics waivers and the lawyer who incorporated the inaugural committee and the library fund that received settlement money.
 
-**Partly accurate** · Evidence: David Warrington: documented
+**Partly accurate**
 
+- David Warrington: documented.
 - Partner at Dhillon Law Group 6/2021-1/2025 (his OGE disclosure), Trump campaign general counsel, named White House counsel Dec 4, 2024.
 - ProPublica's summary of his disclosure lists Donald J. Trump, Save America, the 2024 campaign and Trump Vance 2025 Transition as firm clients and a ~$1.2M salary; ProPublica also shows officer roles at Trump Vance Inaugural Committee Inc. for Dhillon partners (Warrington as director per the summary we saw; the page could not be fetched here).
 - Yahoo reports the firm took in more than $13M from Trump-related work.
@@ -144,9 +145,9 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 ### 7. Alejandro Brito's firm holds the ABC settlement money and is paid by Trump's PAC to sue other media companies.
 
-**Confirmed**
+**Confirmed** · Evidence: Documented
 
-- Documented. ABC's response to Sen. Warren says its parent wired the settlement on Dec 19, 2024 to the 'Brito Law, PLLC Trust Account', the escrow established by plaintiff's counsel; in 2026 ABC said the $15M was still there (C33).
+- ABC's response to Sen. Warren says its parent wired the settlement on Dec 19, 2024 to the 'Brito Law, PLLC Trust Account', the escrow established by plaintiff's counsel; in 2026 ABC said the $15M was still there (C33).
 - FEC records show Save America paid Brito's firm nearly $300K in 2025 for 'legal consulting' (Florida Bulldog), and later reports show the PAC owing the firm money (figures vary).
 - Brito represents Trump against the NYT, WSJ, the BBC and JPMorgan/Jamie Dimon.
 - Save America also paid Dhillon Law Group and Sullivan & Cromwell (Bloomberg Government).
@@ -158,9 +159,9 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 ### 8. James Kiley, a former Trump personal lawyer, is a trustee of the library foundation that is to receive the Qatari 747 and the Miami land.
 
-**Confirmed**
+**Confirmed** · Evidence: Documented
 
-- Documented. The Donald J. Trump Presidential Library Foundation (incorporated May 2025, address at Trump National Jupiter) lists Eric Trump, Michael Boulos (Tiffany Trump's husband) and James Kiley, a Long Island attorney who represented Trump in 2020-2022, as trustees (CBS, InfluenceWatch; C48).
+- The Donald J. Trump Presidential Library Foundation (incorporated May 2025, address at Trump National Jupiter) lists Eric Trump, Michael Boulos (Tiffany Trump's husband) and James Kiley, a Long Island attorney who represented Trump in 2020-2022, as trustees (CBS, InfluenceWatch; C48).
 - The foundation took title to the Miami Dade College parcel and is slated to receive the Qatari jet by 2029 (C16, C48).
 - Kiley's own role beyond trustee was not found.
 - Dates: May 2025
@@ -168,9 +169,9 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 ### 9. Pam Bondi was a registered foreign agent for Qatar before, as Attorney General, signing the memo that cleared the Qatari jet gift.
 
-**Confirmed**
+**Confirmed** · Evidence: Documented
 
-- Documented. Bondi was listed under FARA as a lobbyist for the Embassy of Qatar at Ballard Partners in 2019-2020; Ballard (not Bondi personally) was paid $115K a month (fact check of DOJ filings).
+- Bondi was listed under FARA as a lobbyist for the Embassy of Qatar at Ballard Partners in 2019-2020; Ballard (not Bondi personally) was paid $115K a month (fact check of DOJ filings).
 - As AG she signed a DOJ memo concluding acceptance of the Qatari 747 for the Air Force and later the library foundation was legally permissible (OLC reportedly approved it first).
 - DOJ says career ethics officials found no conflict; Sen. Durbin says she had 'a clear conflict of interest'.
 - The memo has not been released; American Oversight sued for it on behalf of the Freedom of the Press Foundation (July 2025).
@@ -182,9 +183,9 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 ### 10. Todd Blanche went from Trump's criminal defence lawyer to the DOJ official who dismantled crypto enforcement while holding crypto.
 
-**Confirmed**
+**Confirmed** · Evidence: Documented
 
-- Documented. Blanche (Blanche Law Group) defended Trump in the criminal cases, then as Deputy AG signed the Apr 7, 2025 memo disbanding the NCET - the unit that led the Binance case (C36).
+- Blanche (Blanche Law Group) defended Trump in the criminal cases, then as Deputy AG signed the Apr 7, 2025 memo disbanding the NCET - the unit that led the Binance case (C36).
 - ProPublica: he then held about $158K-$470K in bitcoin and ether plus other tokens and Coinbase stock, began selling only in late May, and divested partly by transferring holdings to adult children and a grandchild.
 - The Campaign Legal Center asked the DOJ OIG (Jan 2026) to examine a possible 18 U.S.C.
 - 208 violation; six Democratic senators pressed him.
@@ -198,9 +199,9 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 ### 11. Chad Mizelle moved from Kushner's Affinity Partners to DOJ chief of staff and back to representing Kushner.
 
-**Confirmed**
+**Confirmed** · Evidence: Documented
 
-- Documented. Bloomberg (Jan 2022) reported Affinity hired Mizelle, a former associate counsel to the president; Florida Bulldog and others describe him as Affinity's chief legal officer before he became DOJ chief of staff under Bondi in Jan 2025.
+- Bloomberg (Jan 2022) reported Affinity hired Mizelle, a former associate counsel to the president; Florida Bulldog and others describe him as Affinity's chief legal officer before he became DOJ chief of staff under Bondi in Jan 2025.
 - He left DOJ around Sept 24, 2025 (Axios, Bloomberg Law).
 - By Oct 2026 he was Kushner's lawyer, calling CREW's suit over Kushner's envoy role 'without merit' (C15) and threatening Conde Nast over the Cole book excerpt (C37, C46).
 - No source alleges he handled any Kushner- or Affinity-related matter at DOJ; the revolving door itself is the documented point.

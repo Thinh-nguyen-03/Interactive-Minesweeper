@@ -100,9 +100,12 @@ Most of the core facts hold up.
 - He joined Polymarket's advisory board on 2025-08-26, the same day 1789 Capital (where he is a partner) made a strategic investment reported as double-digit millions or eight figures.
 - Neither role is a board-of-directors seat.
 - The App Store finance-chart ranking was not verified.
-- Amounts: more than $300k
-- Dates: January 2025; 2025-08-26
-- Sources: [10](https://fortune.com/2025/01/13/donald-trump-jr-kalshi-prediction-market-strategic-adviser/) [11](https://sbcamericas.com/2025/01/13/donald-trump-jr-kalshi-advisor/) [13](https://www.theblock.co/post/368292/donald-trump-jr-invests-in-polymarket-and-joins-advisory-board) [14](https://www.thestar.com.my/tech/tech-news/2025/08/27/polymarket-secures-investment-from-trump-jr-backed-1789-capital) [15](https://blockworks.co/news/donald-trump-jr-polymarket-investment) [12](https://gvwire.com/2026/08/29/clash-between-prediction-markets-and-states-sets-off-a-furious-political-battle/)
+- Update: around Aug 31, 2026, a 1789 Capital spokesperson confirmed plans to invest about $300M in a roughly $1B Polymarket round led by 1789.
+- Bloomberg reported a $21B post-money valuation.
+- Reports put 1789's total Polymarket investment at about $500M, which makes the family-linked financial stake far larger than the 2025 'eight figures'.
+- Amounts: more than $300k; about $300M; roughly $1B; $21B; about $500M
+- Dates: January 2025; 2025-08-26; Aug 31, 2026
+- Sources: [10](https://fortune.com/2025/01/13/donald-trump-jr-kalshi-prediction-market-strategic-adviser/) [11](https://sbcamericas.com/2025/01/13/donald-trump-jr-kalshi-advisor/) [13](https://www.theblock.co/post/368292/donald-trump-jr-invests-in-polymarket-and-joins-advisory-board) [14](https://www.thestar.com.my/tech/tech-news/2025/08/27/polymarket-secures-investment-from-trump-jr-backed-1789-capital) [15](https://blockworks.co/news/donald-trump-jr-polymarket-investment) [12](https://gvwire.com/2026/08/29/clash-between-prediction-markets-and-states-sets-off-a-furious-political-battle/) [32](https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round) [33](https://news.bgov.com/private-equity/polymarket-funding-round-led-by-1789-values-firm-at-21-billion)
 
 ### 4. Selig was asked in Congress whether anyone in the White House asked him to drop the CFTC's probe into Polymarket.
 
@@ -113,7 +116,7 @@ Most of the core facts hold up.
 - Context: the DOJ and CFTC had closed their earlier Polymarket probes in July 2025, before Selig.
 - No evidence of White House interference was found.
 - Dates: 2026-04-16; July 2025
-- Sources: [16](https://krdo.com/news/2026/04/16/trumps-top-regulator-for-prediction-markets-pledges-crackdown-on-insider-trading/) [17](https://axios.com/2026/04/16/prediction-markets-insider-trading-cftc) [18](https://decrypt.co/364611?amp=1) [19](https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703) [20](https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump)
+- Sources: [16](https://krdo.com/news/2026/04/16/trumps-top-regulator-for-prediction-markets-pledges-crackdown-on-insider-trading/) [35](https://axios.com/2026/04/16/prediction-markets-insider-trading-cftc) [18](https://decrypt.co/364611?amp=1) [19](https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703) [20](https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump)
 
 ### 5. Kalshi's CEO could not explain why Kalshi made Don Jr. a strategic adviser ('we have a lot of advisors').
 
@@ -211,9 +214,10 @@ Most of the core facts hold up.
 
 ## Relationships documented
 
-### Money (1)
+### Money (2)
 
 - [[1789 Capital]] *strategic investment (double-digit millions, reported)* [[Polymarket]] · 2025-08-26 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[1789 Capital]] *confirmed plans to invest about $300M in a roughly $1B round at a $21B valuation (total stake reported at about $500M)* [[Polymarket]] · 2026-08 · $300M · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 
 ### Ownership (2)
 
@@ -301,7 +305,7 @@ Most of the core facts hold up.
   - TMTG retreated from its Crypto.com ties while still earning data-licensing revenue from prediction-market operators.
   - [[Trump Media & Technology Group]] [[Crypto.com]] [[Kevin McGurn]] · [Source](https://beincrypto.com/trump-media-rethinks-crypto-ambitions-mcgurn/)
 
-## Sources (31)
+## Sources (36)
 
 1. [Trump Media unveils prediction market Truth Predict](https://blockworks.co/news/trump-media-truth-predict) (Blockworks, 2025-10-28)
 2. [Trump Media prediction markets crypto](https://fortune.com/crypto/2025/10/28/trump-media-prediction-markets-crypto/) (Fortune, 2025-10-28)
@@ -334,6 +338,11 @@ Most of the core facts hold up.
 29. [Warren Calls on State Attorneys General to Release Transcript of Meeting with Donald Trump Jr on Prediction Markets](https://www.banking.senate.gov/newsroom/minority/warren-calls-on-state-attorneys-general-to-release-transcript-of-meeting-with-donald-trump-jr-on-prediction-markets) (US Senate Banking Committee (minority), 2026-08)
 30. [Kalshi rebuts report Trump Jr. pitched GOP attorneys general](https://www.gaming.net/kalshi-rebuts-report-trump-jr-pitched-gop-attorneys-general/) (Gaming.net, 2026-08-27)
 31. [GOP Senator Wants Probe Into Trump Jr.'s Prediction Market Ties](https://www.legalsportsreport.com/?p=278593) (Legal Sports Report, 2026)
+32. [Trump Jr.-linked 1789 Capital leads Polymarket's $1B raise: Report](https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round) (Cointelegraph, 2026-08-31)
+33. [Polymarket Funding Led by 1789 Values Firm at $21 Billion](https://news.bgov.com/private-equity/polymarket-funding-round-led-by-1789-values-firm-at-21-billion) (Bloomberg Government, 2026-08-31)
+34. [Trump media company announces a massive loss and new turnaround effort (AP)](https://abcnews.com/Technology/wireStory/trump-media-company-announces-massive-loss-new-turnaround-135530455) (ABC News / AP, 2026-08-10)
+35. [Prediction markets regulator vows to investigate insider trading](https://axios.com/2026/04/16/prediction-markets-insider-trading-cftc) (Axios, 2026-04-16)
+36. [Trump Jr. Warns Republican Lawmakers to Back Off Prediction Markets](https://newrepublic.com/post/214825/trump-jr-republican-lawmakers-prediction-markets) (The New Republic, 2026-08)
 
 ## Full report
 
@@ -438,3 +447,13 @@ Many outlets could not be fetched directly in this environment: axios.com, gamin
 29. US Senate Banking Committee (minority), "Warren Calls on State Attorneys General to Release Transcript of Meeting with Donald Trump Jr on Prediction Markets", 2026-08. https://www.banking.senate.gov/newsroom/minority/warren-calls-on-state-attorneys-general-to-release-transcript-of-meeting-with-donald-trump-jr-on-prediction-markets
 30. Gaming.net, "Kalshi rebuts report Trump Jr. pitched GOP attorneys general", 2026-08-27. https://www.gaming.net/kalshi-rebuts-report-trump-jr-pitched-gop-attorneys-general/
 31. Legal Sports Report, "GOP Senator Wants Probe Into Trump Jr.'s Prediction Market Ties", 2026. https://www.legalsportsreport.com/?p=278593
+
+### Audit (second-opinion pass, 2026-11-14)
+**Result: strengthened.**
+- **Upheld by AP, Axios and others:**
+  - Truth Predict was shelved on the Aug 10, 2026 call.
+  - The McGovern-Selig exchange took place on Apr 16, 2026.
+  - The NYT reported Don Jr.'s March pitch to GOP AGs.
+- **"Passing comment":** a fresh search again found no such wording, so that sub-claim stays unverified.
+- **New:** around Aug 31, 2026, a 1789 Capital spokesperson confirmed plans to invest about $300M in a roughly $1B Polymarket round led by 1789, at a $21B valuation (Bloomberg, Cointelegraph). 1789's reported total Polymarket stake is now about $500M, far above the 2025 "eight figures". This was added to the Don Jr. link sub-claim and to the relationships.
+- **Sources:** https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round ; https://news.bgov.com/private-equity/polymarket-funding-round-led-by-1789-values-firm-at-21-billion

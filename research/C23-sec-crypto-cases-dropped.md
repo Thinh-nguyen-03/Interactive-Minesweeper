@@ -84,3 +84,10 @@ Molly White, in an interview segment, says that "basically every major cryptocur
 20. Cointelegraph, "SEC officially closes investigation into Crypto.com," 2025-03-27. https://cointelegraph.com/news/sec-officially-closes-investigation-crypto-com
 
 Note: direct fetches of decrypt.co and theblock.co were blocked in this environment. The findings rely on search-result summaries from several outlets, plus SEC pages as they appear in search results.
+
+## Audit (second-opinion pass, 2026-11-14)
+**Result: upheld.**
+- **Checks:** fresh searches re-checked the Gemini Earn dismissal with prejudice (Jan 23, 2026; Cointelegraph, Baker McKenzie) and the Apr 20, 2025 inaugural FEC filing. That filing shows Coinbase, Kraken/Payward and Crypto.com/Foris DAX at $1M each and Ripple at $4.8-5M (Benzinga, Cointelegraph).
+- **Ballroom list:** the AP's ballroom donor list includes Coinbase, Ripple, Tether America and the Winklevoss twins. The AP calls the list incomplete, so Kraken's and Binance's absence means "not found", not "did not give".
+- **Binance:** no Binance donation was found.
+- **Changes:** none to the findings.

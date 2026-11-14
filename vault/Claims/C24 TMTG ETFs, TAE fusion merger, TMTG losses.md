@@ -229,7 +229,7 @@ Trump Media's Truth.Fi brand launched five Truth Social ETFs on 2025-12-30, incl
   - Leadership churn at TMTG in March-April 2026 around the pending TAE deal; worth checking for reasons and disclosures.
   - [[Trump Media & Technology Group]] [[Devin Nunes]] [[Kevin McGurn]] · [Source](https://www.foxbusiness.com/fox-news-politics/trump-media-taps-interim-ceo-devin-nunes-steps-aside)
 
-## Sources (20)
+## Sources (22)
 
 1. [5 'Made in America-Focused' Truth Social ETFs Launch on NYSE](https://401kspecialistmag.com/5-made-in-america-focused-truth-social-etfs-launch-on-nyse/) (401k Specialist, 2025-12-30)
 2. [Truth Social ETFs Launch Today (press release)](https://www.streetinsider.com/Press+Releases/Truth+Social+ETFs+Launch+Today/25788380.html) (StreetInsider, 2025-12-30)
@@ -251,6 +251,8 @@ Trump Media's Truth.Fi brand launched five Truth Social ETFs on 2025-12-30, incl
 18. [Trump Media Says Goodbye to CEO Devin Nunes After Taking $712M Net Loss](https://www.mediaite.com/media/news/trump-media-says-goodbye-to-ceo-devin-nunes-after-taking-712m-net-loss/) (Mediaite, 2026-04)
 19. [Trump Media swings to $410 million profit in Q3, driven by crypto gains](https://theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964) (The Block, 2026-11-09)
 20. [Trump Media posts $410M profit but crypto hides an operating loss](https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/) (CryptoSlate, 2026-11)
+21. [Trump Media Technology Group and TAE Technologies announce effectiveness of Form S-4 registration statement for proposed merger](https://finviz.com/news/417799/trump-media-technology-group-and-tae-technologies-announce-effectiveness-of-form-s-4-registration-statement-for-proposed-merger) (Finviz / company release, 2026-11-05)
+22. [Trump Media Technology Group reports third quarter 2026 results](https://finviz.com/news/419459/trump-media-technology-group-reports-third-quarter-2026-results) (Finviz / company release, 2026-11-09)
 
 ## Full report
 
@@ -320,3 +322,9 @@ Direct fetches of tae.com, ans.org, sec.gov and streetinsider.com failed because
 18. SpendNode, "Trump Media DJT $712 million net loss...", https://www.spendnode.io/blog/trump-media-djt-712-million-net-loss-bitcoin-403-million-mark-to-market-truth-social-3-7-million-revenue/ (2026-02)
 19. The Block, "Trump Media swings to $410 million profit in Q3, driven by crypto gains", https://theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964 (2026-11-09)
 20. CryptoSlate, "Trump Media posts $410M profit but crypto hides an operating loss", https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/ (2026-11)
+
+### Audit (second-opinion pass, 2026-11-14)
+**Result: upheld.**
+- **TAE merger:** company releases confirm the S-4 became effective on Nov 5, 2026 (record date Nov 2, closing expected by year-end), so the deal is still pending. The Dec 14 vote date was not re-confirmed in snippets and rests on the cited S-4/A.
+- **Q3 2026 results:** net income of $409.7M on $3.0M revenue, driven by crypto gains. The nine-month 2026 net loss was about $234.2M.
+- **Changes:** none to the findings.

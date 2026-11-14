@@ -128,7 +128,11 @@ The core claims hold up.
 - The conflict-of-interest concern is documented: Kathleen Clark said, 'They just deleted the language.
 - They haven't committed not to do what they said earlier today they were planning to do.'
 - Specific misuse of influence is not documented.
-- Sources: [1](https://www.clickondetroit.com/business/2025/08/04/company-advised-by-trump-sons-said-it-hoped-to-benefit-from-fed-money-then-took-it-back/) <https://www.roic.ai/quote/NWAX>
+- Audit (Nov 2026): no definitive business-combination agreement or named target was found.
+- A Feb 6, 2026 8-K reports one director resignation and two new directors.
+- Third-party summaries put the liquidation deadline at June 5, 2027, extendable, but that is unverified against the charter.
+- Dates: Nov 2026; Feb 6, 2026; June 5, 2027
+- Sources: [1](https://www.clickondetroit.com/business/2025/08/04/company-advised-by-trump-sons-said-it-hoped-to-benefit-from-fed-money-then-took-it-back/) <https://www.roic.ai/quote/NWAX> <https://www.streetinsider.com/SEC+Filings/Form+8-K+New+America+Acquisition+For%3A+Feb+06/25968632.html>
 
 ## Denials and context
 

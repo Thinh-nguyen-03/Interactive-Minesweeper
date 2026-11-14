@@ -93,9 +93,10 @@ Don Jr. is a 1789 Capital partner.
 
 - The NYT (Maureen Farrell, 2026-07-22) reported roughly or nearly 200% returns for the main fund as of 2026-06-30, driven largely by Polymarket.
 - These are unrealized, early-stage figures; PitchBook puts the average for 2023-vintage funds at about 21%.
-- Amounts: nearly 200%; about 21%
-- Dates: 2026-07-22; 2026-06-30
-- Sources: [3](https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/) [4](https://www.webull.com/news/15278087923966976)
+- Later context: in late Aug 2026, 1789 confirmed about $300M more for a Polymarket round at a $21B valuation, bringing its reported Polymarket total to about $500M. Polymarket is the main driver of the reported returns.
+- Amounts: nearly 200%; about 21%; about $300M; $21B; about $500M
+- Dates: 2026-07-22; 2026-06-30; late Aug 2026
+- Sources: [3](https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/) [25](https://www.webull.com/news/15278087923966976)
 
 ### 4. 1789 invested in Vulcan Elements shortly before Vulcan announced a ~$1B, 10,000-metric-ton magnet facility enabled by a US government partnership.
 
@@ -256,7 +257,7 @@ Don Jr. is a 1789 Capital partner.
   - Natural Resources Democrats forced a subpoena vote over the '$670 million' package; Republicans blocked it.
   - [[Donald Trump Jr]] [[Vulcan Elements]] [[US Congress]] · [Source](https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-democrats-force-vote-to-subpoena-donald-trump-jr-over-670-million-taxpayer-funded-deal)
 
-## Sources (22)
+## Sources (26)
 
 1. [Donald Trump Jr. Opts Out of White House to Join 1789 Capital](https://www.bloomberg.com/news/articles/2024-11-12/don-trump-jr-opts-out-of-white-house-to-join-1789-capital) (Bloomberg, 2024-11-12)
 2. [Trump-linked venture fund 1789 Capital tops US$1 billion in assets](https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/) (Reuters via BNN Bloomberg, 2025-09-08)
@@ -280,6 +281,10 @@ Don Jr. is a 1789 Capital partner.
 20. [1789 Capital fires back at Congressional inquiry](https://www.axios.com/2026/09/09/1789-capital-trump-jr-jamie-raskin) (Axios, 2026-09-09)
 21. [Natural Resources Democrats force vote to subpoena Donald Trump Jr. over $670 million taxpayer-funded deal](https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-democrats-force-vote-to-subpoena-donald-trump-jr-over-670-million-taxpayer-funded-deal) (House Natural Resources Democrats, 2026)
 22. [White House intervention bolsters Trump Jr.-connected rare earths firm](https://www.cato.org/blog/white-house-intervention-bolsters-trump-jr-connected-rare-earths-firm) (Cato Institute, 2026)
+23. [White House asked Pentagon to loan money to a company linked to Trump's oldest son (NPR)](https://www.wunc.org/2026-05-28/white-house-asked-pentagon-to-loan-money-to-a-company-linked-to-trumps-oldest-son) (WUNC / NPR, 2026-05-28)
+24. [Huffman, Garcia demand documents from Vulcan Elements after White House pushed through $620 million loan](https://democrats-naturalresources.house.gov/media/press-releases/huffman-garcia-demand-documents-from-vulcan-elements-after-white-house-pushed-through-620-million-loan-to-company-tied-to-donald-trump-jr) (House Natural Resources Democrats, 2026)
+25. [Trump Jr.'s Investment Firm Posts 200% Returns, Helped by Polymarket's Meteoric Rise](https://www.webull.com/news/15278087923966976) (Crypto Briefing / Webull summary of NYT, 2026-07-23)
+26. [Trump Jr.-linked 1789 Capital leads Polymarket's $1B raise: Report](https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round) (Cointelegraph, 2026-08-31)
 
 ## Full report
 
@@ -350,3 +355,9 @@ Research note: propublica.org and ncnewsline.com could not be fetched from this 
 20. Axios, "1789 Capital fires back at Congressional inquiry", 2026-09-09. https://www.axios.com/2026/09/09/1789-capital-trump-jr-jamie-raskin
 21. House Natural Resources Democrats, "Natural Resources Democrats force vote to subpoena Donald Trump Jr. over $670 million taxpayer-funded deal", 2026. https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-democrats-force-vote-to-subpoena-donald-trump-jr-over-670-million-taxpayer-funded-deal
 22. Cato Institute blog, "White House intervention bolsters Trump Jr.-connected rare earths firm", 2026. https://www.cato.org/blog/white-house-intervention-bolsters-trump-jr-connected-rare-earths-firm
+
+### Audit (second-opinion pass, 2026-11-14)
+**Result: upheld.**
+- **ProPublica findings:** NPR's syndication of ProPublica (May 28, 2026) and House Democrats' letters confirm Navarro's role and the quote "The call came from the White House: We have to get this done" (no word "deal"). They also confirm the weeks-not-months timeline, the Aug 2025 Series A, which came about three months before the $620M OSC loan (the largest in OSC history), and the denials.
+- **Returns:** the roughly 200% figure is still known only from secondhand summaries of the NYT article.
+- **Added context:** in late Aug 2026, 1789 confirmed about $300M more for Polymarket, bringing its reported total to about $500M.

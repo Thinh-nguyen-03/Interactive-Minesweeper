@@ -214,6 +214,8 @@ _ABBR = {"jr", "sr", "inc", "corp", "co", "ltd", "llc", "mr", "mrs", "ms", "dr",
          "ave", "pp", "p", "lit", "rel", "n.d", "s.d", "e.d", "w.d", "cal", "fla", "tex", "ex", "ed",
          "eds", "cir", "supp", "art", "para", "ch", "pres", "amb", "adm", "capt", "cmdr", "sgt", "rev",
          "messrs", "ph.d", "esq", "ft", "mt", "viz", "ca", "c"}
+_GRADE_START = re.compile(r"(?i)^(evidence( grade)?\s*:|grade\s*:|documented\b|single[- ]source\b|inferred\b|"
+                          r"each \w+ is documented|(the )?facts? (are )?documented)")
 _BREAK = re.compile(r"[.!?]+[\"'’”)\]]*\s+")
 
 
@@ -276,7 +278,7 @@ def sentences(text):
     out.append(text[start:].strip())
     merged = []
     for s in out:
-        if merged and (len(s) < 24 or len(merged[-1]) < 24):
+        if merged and (len(s) < 24 or len(merged[-1]) < 24) and not _GRADE_START.match(merged[-1]):
             merged[-1] += " " + s
         elif s:
             merged.append(s)
@@ -285,7 +287,7 @@ def sentences(text):
 
 _MONTH = r"(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|June?|July?|Aug(?:ust)?|Sept?(?:ember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?"
 _QUAL = r"(?:(?:about|around|roughly|nearly|almost|over|under|up to|at least|more than|less than|approximately|an estimated|some)\s+|~\s?)?"
-_NUM = r"\d[\d,]*(?:\.\d+)?"
+_NUM = r"\d+(?:,\d{3})*(?:\.\d+)?"
 _UNIT = r"(?:\s?(?:trillion|billion|million|thousand)\b|[TBMKk]\b|\s?bn\b|\s?mn\b)?"
 AMOUNT_RE = re.compile(
     _QUAL + r"(?:US)?\$\s?" + _NUM + _UNIT + r"(?:\s?(?:-|–|to)\s?\$?" + _NUM + _UNIT + r")?\+?"
@@ -321,11 +323,9 @@ def split_grade(points):
     if not points:
         return "", points
     first = points[0]
-    if len(first) <= 170 and _GRADE_HINT.search(first):
-        if re.match(r"(?i)^(evidence( grade)?\s*:|documented|single[- ]source|inferred|each\b|facts?\b|"
-                    r"the (facts|pieces|pattern|link|ties?)\b|grade\s*:)", first) or len(first) <= 60:
-            g = re.sub(r"(?i)^(evidence( grade)?|grade)\s*:\s*", "", first).rstrip(".")
-            return cap_first(g), points[1:]
+    if len(first) <= 90 and _GRADE_START.match(first) and ": " not in re.sub(r"(?i)^(evidence( grade)?|grade)\s*:\s*", "", first):
+        g = re.sub(r"(?i)^(evidence( grade)?|grade)\s*:\s*", "", first).rstrip(".")
+        return cap_first(g), points[1:]
     return "", points
 
 
@@ -603,6 +603,8 @@ def merge(index, claim_files, reports, base):
             c["correction_pairs"] = [correction_pair(x) for x in c["corrections"]]
             c["denials_and_context"] = [tidy(x) for x in as_list(d.get("denials_and_context")) if isinstance(x, str) and x.strip()]
             c["denial_points"] = [sentences(x) for x in c["denials_and_context"]]
+            blob = " ".join([c["summary"]] + [x["finding"] for x in subs])
+            c["single_source"] = bool(re.search(r"(?i)single[- ]source|sole source|anonymous sources alone", blob))
             au = d.get("audit")
             if isinstance(au, dict) and clean_str(au.get("result")):
                 c["audit"] = {"result": slugify(au.get("result")), "scope": tidy(au.get("scope"))}
@@ -638,7 +640,7 @@ def merge(index, claim_files, reports, base):
                             claim_ents[cid].setdefault(eid, False)
         else:
             c.update({"verdict": "pending", "confidence": "", "summary": "", "bottom_line": "",
-                      "summary_points": [], "sub_claims": [], "corrections": [], "correction_pairs": [],
+                      "summary_points": [], "single_source": False, "sub_claims": [], "corrections": [], "correction_pairs": [],
                       "denials_and_context": [], "denial_points": [], "sources": [], "leads": []})
             if rep:   # a report without its JSON yet: take the headline verdict from it
                 m = re.search(r"\*\*\s*Verdict:?\s*\**\s*([A-Za-z][A-Za-z \-]+?)\s*\**\s*(\(|$|\.|,|;|\u2014|\*)",
@@ -864,7 +866,7 @@ CLAIM_HEAD = {"video": "What the video said", "follow-up": "Lead investigated",
               "connection-hunt": "Connections searched for"}
 HOLDS = ("confirmed", "mostly-accurate")
 CORRECT = ("partly-accurate", "misleading", "false")
-UNPROVEN_NOTE = ("Unverified allegation: this could not be independently corroborated. "
+UNPROVEN_NOTE = ("Unverified {}allegation: this could not be independently corroborated. "
                  "It is reported as an allegation, not as an established fact.")
 
 
@@ -982,7 +984,7 @@ def write_vault(graph, neigh, key_of):
             out.append(f"**Origin:** {ORIGIN_LABEL[n['origin']]}"
                        + (f" · transcript lines {n['lines']}" if n["lines"] else "") + "\n")
             if n["verdict"] == "unverified":
-                out.append(f"> [!warning] {UNPROVEN_NOTE}\n")
+                out.append("> [!warning] " + UNPROVEN_NOTE.format("single-source " if n["single_source"] else "") + "\n")
             if n["verdict"] == "pending":
                 out.append("Verification of this claim has not been completed yet.\n")
             if n["bottom_line"]:

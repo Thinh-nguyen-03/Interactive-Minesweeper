@@ -311,7 +311,7 @@ The errors are in the framing:
 - Crypto.com was the **plaintiff** in the prediction-markets case. It sued Nevada; it was not a defendant.
 - The $36M figure comes from Molly White's tracker. Most of it (about $35M) went to MAGA Inc., and $1M went to the inauguration.
 - The charter approval is conditional. It is not a final approval.
-- The "$50M stock purchase" was announced. I found no report confirming it closed.
+- The $50M of TMTG stock did change hands, but as payment for tokens: on 2025-09-05 TMTG paid for $105M of CRO half in cash and half in its own shares. The larger SPAC treasury plan was terminated on 2026-08-07.
 - No quid pro quo is documented. The link is timing, which Crypto.com denies.
 
 Transcript lines: 643-649.
@@ -321,12 +321,13 @@ TMTG announced a strategic partnership in which Crypto.com agreed to buy $50M of
 
 ### Sub-claims
 
-#### 1. Crypto.com agreed to buy $50M of TMTG stock in a strategic partnership: CONFIRMED (as an announced agreement)
+#### 1. Crypto.com agreed to buy $50M of TMTG stock in a strategic partnership: CONFIRMED (closed as a stock-for-token swap; audit-corrected)
 - On 2025-08-26, TMTG, Crypto.com and Yorkville Acquisition Corp announced "Trump Media Group CRO Strategy," a treasury company holding Crypto.com's CRO token.
   - It was to go public by merging with a SPAC, under the ticker MCGA.
   - Its planned funding was about $1B in CRO, $200M cash, $220M in warrants and a $5B equity line of credit.
 - As part of the deal, Crypto.com agreed to buy $50M of TMTG common stock, and TMTG agreed to buy about $105M of CRO. Both sides' shares carry a lock-up [1][2][3].
-- I found no report confirming that the $50M purchase closed.
+- **Audit correction:** the bilateral deal **closed on 2025-09-05**. TMTG acquired 684.4M CRO (about $105M at about $0.153 per token), paid 50/50 in cash and TMTG stock, so Crypto.com received about $50M of DJT shares (about 2.8M shares per one report). Both sides are locked up [23][24]. This was a swap of stock for tokens, not a cash purchase of stock.
+- The SPAC treasury company (Trump Media Group CRO Strategy) was never completed. TMTG, Crypto.com and Yorkville mutually terminated it on 2026-08-07, citing market conditions. They also dropped the Yorkville ETF servicing deal and the planned direct prediction-market integration in Truth Social, replacing the latter with a marketing deal for Crypto.com's prediction products [25][26].
 - An earlier, non-binding Crypto.com/TMTG ETF partnership was announced on 2025-03-24 and made binding on 2025-04-22 [8][9].
 
 #### 2. The deal came "months after" the SEC closed its investigation with no action: CONFIRMED, with a nuance
@@ -368,7 +369,7 @@ TMTG announced a strategic partnership in which Crypto.com agreed to buy $50M of
 ### Corrections
 - The transcript implies Crypto.com was defending a lawsuit. In fact Crypto.com (through CDNA) was the plaintiff suing Nevada regulators, and it lost at the Ninth Circuit in August 2026.
 - The "$36M" figure is Molly White's tally. It is about $35M to MAGA Inc. plus $1M to the inauguration, not money spread across multiple PACs.
-- The $50M TMTG share purchase was an announced agreement (2025-08-26). I found no public confirmation that it closed.
+- The $50M of TMTG stock went to Crypto.com as half the payment for $105M of CRO in a swap that closed on 2025-09-05, not as a cash purchase. The larger CRO Strategy SPAC plan was terminated on 2026-08-07.
 - The "pro-crypto SEC commissioner" was Paul Atkins, named Chair in December 2024, before the SEC probe was closed.
 - The first Crypto.com/TMTG partnership (the ETFs, 2025-03-24) came three days before the SEC closure, not months after.
 
@@ -403,5 +404,12 @@ TMTG announced a strategic partnership in which Crypto.com agreed to buy $50M of
 20. The Block, "Crypto.com secures conditional OCC approval...," 2026-02-23. https://theblock.co/post/390841/crypto-com-secures-conditional-occ-approval-in-bid-to-become-a-federally-regulated-bank
 21. OCC conditional approval document (cd1367), 2026. https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/2026/cd1367.pdf
 22. Axios, "Trump Media enters prediction market business," 2025-10-28. https://www.axios.com/2025/10/28/truth-social-prediction-markets
+23. The Block, "Trump Media closes deal to buy 684 million CRO tokens," 2025-09-05. https://www.theblock.co/news/business/2025-09-05-trump-media-closes-deal-to-buy-684-million-cro-tokens-369646
+24. Blockworks, "Trump Media finalizes $105M Cronos purchase," 2025-09. https://blockworks.co/news/trump-media-finalizes-cronos-purchase
+25. The Block, "Trump Media and Crypto.com end partnerships as companies shift priorities," 2026-08-07. https://theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198
+26. Axios, "Exclusive: Trump Media unwinds crypto deals," 2026-08-07. https://axios.com/2026/08/07/trump-media-crypto-treasury-deals
 
 Note: decrypt.co, pbs.org and influence.citationneeded.news could not be fetched directly from this environment, and other outlets were not fetched either. All findings rest on search-result summaries checked across several outlets. The OCC PDF appeared in search results under the cd1367 identifier, but I did not open it to confirm its contents.
+
+### Audit (second review, Nov 2026)
+Result: **corrected**. The original said the $50M stock purchase was unconfirmed. The Block and Blockworks report that the swap closed on 2025-09-05, with Crypto.com receiving about $50M of TMTG stock as half the payment for $105M of CRO. Also added the 2026-08-07 termination of the SPAC treasury plan. Upheld: the Ninth Circuit's 3-0 loss for Crypto.com on 2026-08-28 (PYMNTS, Bloomberg Law), the OCC conditional charter of 2026-02-23 (still not final), and about $35M to MAGA Inc. (Decrypt, Popular Information; NOTUS gives $30M at an earlier cutoff). Verdict and confidence unchanged.

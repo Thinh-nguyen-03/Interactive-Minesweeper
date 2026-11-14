@@ -33,12 +33,13 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 
 - The ventures that made the family billions have lost money for most of their actual American investors (partly accurate)
 - **Video said:** About $1.4B from crypto  
-  **Record shows:** That is the NYT/Reuters count; the AP counted about $1.2B, and all of these are revenue, not profit.
+  **Record shows:** That is the Reuters/NYT/Bloomberg count, and it holds. The AP's figure of about $1.2B appears to leave out a roughly $197M Stablecoin Holdco (USD1) line; Bloomberg initially reported $1.2B and corrected to $1.4B when it added that line. All of these figures are revenue, not profit.
 - **Video said:** $2.2B total  
   **Record shows:** That is the NYT's minimum figure; Forbes estimated about $2.4B.
 - The Forbes figures for the sons are from December 2025 and the Barron figure is from Sept/Oct 2025. They predate American Bitcoin's further collapse, so they likely overstate current values.
 - **Video said:** Most 'American' investors lost money  
   **Record shows:** The loss data covers wallets worldwide and does not show nationality.
+- The World Liberty share of the $1.4B is contested and is given here as about $594M-$800M, not a flat $800M. Reuters/NYT report about $800M, including more than $250M from selling interests. Bloomberg, CNBC, NOTUS and The Block report about $515-529M from token sales plus about $65-66M from the WLF Holdco equity sale, about $594M in total. The difference appears to come from whether the about $197M Stablecoin Holdco sale is counted as World Liberty. This is our inference from the figures; no outlet states it. The reading matches C42.
 
 ## What is unproven
 
@@ -46,8 +47,9 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 
 ## In more detail
 
-- The NYT and Reuters count more than $1.4B (about $800M from World Liberty, about $635M from TRUMP coin licensing) within at least $2.2B total; the AP counts about $1.2B from crypto.
-- The Forbes figures are real but dated: Eric about $400M and 10x (Dec 2025), Don Jr. about $300M and 6x (Dec 2025), Barron about $150M (Oct 2025).
+- Reuters, the NYT and Bloomberg count more than $1.4B from crypto within at least $2.2B total; the AP counted about $1.2B, apparently before a Stablecoin Holdco (USD1) line of about $197M was added.
+- The World Liberty share is contested at about $594M-$800M: Reuters/NYT report about $800M (more than $520M from token sales and more than $250M from selling interests), while Bloomberg, CNBC, NOTUS and The Block report about $515-529M from token sales plus only about $65-66M from the WLF Holdco equity sale.
+- TRUMP coin licensing added about $635M. The Forbes figures are real but dated: Eric about $400M and 10x (Dec 2025), Don Jr. about $300M and 6x (Dec 2025), Barron about $150M (Oct 2025).
 - Most TRUMP coin, WLFI and ABTC buyers are underwater.
 - The filing shows revenue, not profit, so 'most profitable year' cannot be verified, and the loss data does not show investors were specifically American.
 
@@ -68,14 +70,20 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 **Confirmed**
 
 - The 927-page 2025 OGE filing was released 2026-06-30.
-- Reuters and the NYT: more than $1.4B from crypto, made up of about $800M from WLF (more than $520M from token sales and more than $250M from selling interests in the business) plus about $635M in TRUMP meme-coin royalties via CIC Digital.
-- NYT: at least $2.2B total, up from a minimum of $622M for 2024.
+- The more-than-$1.4B crypto total holds: Reuters and the NYT report it, and Bloomberg corrected its own headline from $1.2B to $1.4B after adding a Stablecoin Holdco LLC line (about $196.9M from new capital contributions and the sale of units) that it had first left out.
+- The World Liberty component is contested at about $594M-$800M. Reuters reports almost $800M from WLF: more than $520M from token sales and more than $250M from selling interests in the business.
+- Bloomberg, CNBC (via IBTimes), NOTUS and others report about $594M: roughly $515-529M from token sales plus about $65-66M from selling equity in WLF Holdco.
+- The Block itemizes $236.25M of token proceeds distributed by WLF plus $65.6M from the WLF Holdco equity sale.
+- Our own arithmetic (no outlet states it): $65.6M (WLF Holdco) + $196.9M (Stablecoin Holdco) is about $262M, which matches Reuters' 'over $250M' from selling interests.
+- So the gap appears to be whether the USD1 stablecoin entity is counted as World Liberty, not a disagreement about the crypto total.
+- About $635M came from TRUMP meme-coin royalties via CIC Digital.
+- Roughly $594M + $197M + $635M is about $1.43B. NYT: at least $2.2B total income, up from a minimum of $622M for 2024.
 - Forbes: about $2.4B. AP: nearly $1.2B from crypto.
 - Real estate, golf and resorts brought in about $500-575M, so crypto was the largest category.
-- These figures are revenue/income, not profit.
-- Amounts: more than $1.4B; about $800M; more than $520M; more than $250M; about $635M
+- The form reports many entries as ranges, and all these figures are revenue/income, not profit.
+- Amounts: $1.4B; $1.2B to $1.4B; about $196.9M; about $594M-$800M; almost $800M
 - Dates: 2026-06-30
-- Sources: [1](https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures) [3](https://www.local10.com/business/2026/07/01/trump-filing-shows-he-took-in-about-12-billion-from-crypto-businesses-last-year/) [4](https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows) [6](https://news.bloomberglaw.com/crypto/trumps-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker)
+- Sources: [1](https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures) [3](https://www.local10.com/business/2026/07/01/trump-filing-shows-he-took-in-about-12-billion-from-crypto-businesses-last-year/) [4](https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows) [6](https://news.bloomberglaw.com/crypto/trumps-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker) [20](https://theblock.co/post/406782/president-trump-financial-disclosures-hundreds-millions-crypto-related-income) [21](https://news.bloombergtax.com/crypto/trump-reports-at-least-1-2-billion-in-2025-crypto-earnings-1) [22](https://cryptobriefing.com/trump-reports-over-1-4b-in-crypto-earnings-as-bitcoin-nears-yearly-low/) [23](https://www.ibtimes.co.uk/trump-crypto-ventures-2025-earnings-1806107) [2](https://www.thestar.com.my/news/world/2026/07/01/trump-reports-over-14-billion-in-income-from-crypto-ventures)
 
 ### 2. This may have been one of Trump's most profitable years ever.
 
@@ -179,7 +187,7 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 ### Money (9)
 
 - [[$TRUMP meme coin]] *generated about $635M in licensing royalties in 2025* [[Donald Trump]] · 2025 · $635M · [[C29 Trump family wealth gains|C29]]
-- [[World Liberty Financial]] *paid about $800M (token sales plus sale of business interests) in 2025* [[Donald Trump]] · 2025 · $800M · [[C29 Trump family wealth gains|C29]]
+- [[World Liberty Financial]] *paid about $594M-$800M (token sales plus sale of business interests; contested) in 2025* [[Donald Trump]] · 2025 · $594M · [[C29 Trump family wealth gains|C29]]
 - [[Retail investors Trump supporters]] *lost ~94% on stock of* [[ALT5 Sigma]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C29 Trump family wealth gains|C29]]
 - [[Retail investors Trump supporters]] *lost money backing ventures of* [[Donald Trump]] · [[C29 Trump family wealth gains|C29]]
 - [[Retail investors Trump supporters]] *lost ~99% on* [[$MELANIA meme coin]] · [[C02 $MELANIA coin and NFTs|C02]] [[C29 Trump family wealth gains|C29]]
@@ -239,7 +247,7 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
   - Shows where the crypto windfall went; ties to the presidential trading disclosures.
   - [[Donald Trump]] · [Source](https://www.hawaiitribune-herald.com/?p=372869)
 
-## Sources (19)
+## Sources (23)
 
 1. [Trump reports over $1.4 billion in income from crypto ventures (Reuters)](https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures) (KSL / Reuters, 2026-07-01)
 2. [Trump reports over $1.4 billion in income from crypto ventures](https://www.thestar.com.my/news/world/2026/07/01/trump-reports-over-14-billion-in-income-from-crypto-ventures) (The Star / Reuters, 2026-07-01)
@@ -260,6 +268,10 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 17. [Trump Brothers' American Bitcoin Hits BTC Milestone as Stock Falls to Lowest Price Since IPO](https://decrypt.co/362712/trump-bros-american-bitcoin-milestone-stock-falls-lowest-price-ipo) (Decrypt, 2026)
 18. [Trump's wallet: from golf clubs to crypto, a decade of presidential finances](https://www.rollcall.com/2026/06/12/trumps-wallet-from-golf-clubs-to-crypto-a-decade-of-presidential-finances/) (Roll Call, 2026-06-12)
 19. [Trump's $2B income in 2025 raises fresh questions about profiting off presidency](https://www.pbs.org/newshour/show/trumps-2b-income-in-2025-raises-fresh-questions-about-profiting-off-presidency) (PBS NewsHour, 2026-07)
+20. [President Trump's financial disclosures show hundreds of millions in crypto-related income](https://theblock.co/post/406782/president-trump-financial-disclosures-hundreds-millions-crypto-related-income) (The Block, 2026-06-30)
+21. [Trump Reports at Least $1.4 Billion in 2025 Crypto Earnings (corrected from $1.2B)](https://news.bloombergtax.com/crypto/trump-reports-at-least-1-2-billion-in-2025-crypto-earnings-1) (Bloomberg Tax, 2026-06-30)
+22. [Trump reports over $1.4B in crypto earnings as Bitcoin nears yearly low](https://cryptobriefing.com/trump-reports-over-1-4b-in-crypto-earnings-as-bitcoin-nears-yearly-low/) (Crypto Briefing, 2026-07-01)
+23. [Trump Reports $580M in Crypto-Linked Income, Ten Times More Than Last Year (citing CNBC)](https://www.ibtimes.co.uk/trump-crypto-ventures-2025-earnings-1806107) (IBTimes UK, 2026-07-01)
 
 ## Full report
 
@@ -277,10 +289,14 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 
 #### 1. Trump's disclosure shows about $1.4B from crypto out of about $2.2B, and crypto was his biggest business. **Confirmed, with a caveat**
 - Trump's annual OGE disclosure covering calendar 2025 was released on **June 30, 2026**. It is about 927 pages.
-- **Reuters** and the NYT both report **more than $1.4B** in crypto income. Reuters breaks it down as:
-  - nearly **$800M from World Liberty Financial**: more than $520M from token sales and more than $250M from selling interests in the WLF business;
+- **Reuters**, the NYT and Bloomberg all report **more than $1.4B** in crypto income. Bloomberg first reported $1.2B, then corrected its headline to $1.4B after adding a **Stablecoin Holdco LLC** (USD1) line of about **$196.9M** that its first count left out.
+- The **World Liberty share is contested, at about $594M-$800M** (the same reading as C42):
+  - **Reuters/NYT:** nearly **$800M from World Liberty Financial**: more than $520M from token sales and more than $250M from selling interests in the WLF business.
+  - **Bloomberg, CNBC (via IBTimes), NOTUS and others:** about **$594M**: roughly $515-529M from token sales plus only about $65-66M from selling equity in WLF Holdco. The Block itemizes $236.25M of token proceeds distributed by WLF plus $65.6M from the WLF Holdco equity sale.
+  - *Likely reconciliation (our own arithmetic; no outlet states it):* $65.6M (WLF Holdco) + $196.9M (Stablecoin Holdco) is about $262M, which matches Reuters' "over $250M". The two readings appear to differ only in whether the USD1 entity is counted as World Liberty.
+- The rest of the breakdown:
   - about **$635M from TRUMP meme-coin licensing/royalties**, through CIC Digital and Celebration Coin.
-- The **AP** counted it differently and got "**nearly $1.2B**" from crypto businesses.
+- The **AP** got "**nearly $1.2B**" from crypto businesses. That figure appears to leave out the Stablecoin Holdco line. The total still holds: about $594M + $197M + $635M is about $1.43B.
 - The **NYT** put total 2025 income at **at least $2.2B**, more than triple the minimum of $622M reported for 2024. **Forbes** estimated about $2.4B.
 - Crypto was the largest category. Real estate, golf and resorts brought in about $500-575M.
 - Caveat: these numbers are revenue/income as the form reports it. The form does not show profit.
@@ -313,7 +329,8 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 - Wallet data does not reveal nationality, so the claim that these were "American" investors is not supported. Some ventures, such as USD1 and the family's licensing income, did not involve retail buyers losing money.
 
 ### Corrections
-- The $1.4B crypto figure is the NYT/Reuters count. The AP counted about $1.2B. Both are revenue, not profit.
+- The $1.4B crypto figure is the Reuters/NYT/Bloomberg count, and it holds. The AP's about $1.2B appears to omit the roughly $197M Stablecoin Holdco line. All of these figures are revenue, not profit.
+- The World Liberty component is contested: about $594M-$800M, not a flat $800M. See sub-claim 1.
 - The $2.2B is a minimum figure from the NYT tally. Forbes estimated about $2.4B.
 - The Forbes figures for the sons date from Dec 2025 (Eric and Don Jr.) and for Barron from Sept/Oct 2025. They predate ABTC's deeper slide, so current values are probably lower.
 - The investor-loss data covers wallets worldwide, not specifically "American" investors.
@@ -345,3 +362,14 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 17. Decrypt, "American Bitcoin ... stock falls to lowest price since IPO," 2026. https://decrypt.co/362712/trump-bros-american-bitcoin-milestone-stock-falls-lowest-price-ipo
 18. Roll Call, "Trump's wallet: from golf clubs to crypto, a decade of presidential finances," 2026-06-12. https://www.rollcall.com/2026/06/12/trumps-wallet-from-golf-clubs-to-crypto-a-decade-of-presidential-finances/
 19. PBS NewsHour, "Trump's $2B income in 2025 raises fresh questions about profiting off presidency," 2026-07. https://www.pbs.org/newshour/show/trumps-2b-income-in-2025-raises-fresh-questions-about-profiting-off-presidency
+20. The Block, "President Trump's financial disclosures show hundreds of millions in crypto-related income," 2026-06-30. https://theblock.co/post/406782/president-trump-financial-disclosures-hundreds-millions-crypto-related-income
+21. Bloomberg Tax, "Trump Reports at Least $1.4 Billion in 2025 Crypto Earnings" (corrected from $1.2B; snippet only), 2026-06-30. https://news.bloombergtax.com/crypto/trump-reports-at-least-1-2-billion-in-2025-crypto-earnings-1
+22. Crypto Briefing, "Trump reports over $1.4B in crypto earnings as Bitcoin nears yearly low," 2026-07-01. https://cryptobriefing.com/trump-reports-over-1-4b-in-crypto-earnings-as-bitcoin-nears-yearly-low/
+23. IBTimes UK (citing CNBC), "Trump Reports $580M in Crypto-Linked Income, Ten Times More Than Last Year," 2026-07-01. https://www.ibtimes.co.uk/trump-crypto-ventures-2025-earnings-1806107
+
+### Audit (second-opinion pass, 2026-11-14)
+**Result: corrected.**
+- **World Liberty figure:** the flat "about $800M from World Liberty" has been replaced with a contested **$594M-$800M** range, matching C42. Reuters confirms $800M = >$520M + >$250M. Bloomberg, CNBC, The Block and others confirm about $515-529M + about $65-66M.
+- **Crypto total:** the more-than-$1.4B total is upheld. Bloomberg's correction added the about $197M Stablecoin Holdco line, which also likely explains both the AP's $1.2B and Reuters' larger "interests" figure. That last link is our inference.
+- **Forbes figures:** no newer Forbes estimates for the sons or Barron were found.
+- **Method:** direct fetches of Bloomberg Law, GV Wire and CAP were blocked, so this audit relies on search-result snippets.

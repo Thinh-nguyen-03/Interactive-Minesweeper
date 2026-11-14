@@ -312,6 +312,8 @@ Direct fetches of news sites (TheWrap, The Next Web and others) were blocked in 
   - Coverage in Axios of a JPMorgan analysis (July 2026) found that most Trump posts no longer move bond markets, although de-escalation posts still did.
   - A Conversation analysis found prices sometimes moved before the posts.
   - The premise "markets already move" is therefore true for some posts and not for most.
+- **Lawsuit:** On about 2026-08-12, The Intercept and the Freedom of the Press Foundation sued Trump in his official capacity, together with White House aides, in federal court in Manhattan. They allege Truth API violates the First and Fifth Amendments. TMTG is not a defendant, and TMTG says presidential communications already flow through many platforms with subscription APIs. The case was pending as of late Oct 2026 [25][26].
+- **Customer count:** The Reuters report naming Bloomberg, Susquehanna and Jump is dated 2026-10-28. Reuters said it could not independently confirm TMTG's "more than 10" customer figure. Company officials put the speed edge at about 50 ms [27].
 - **Business context:** TMTG is loss-making. It reported about $3.7M in revenue and a $712M net loss for 2025. The API is pitched as a recurring revenue source.
 
 ### Sources
@@ -339,3 +341,9 @@ Direct fetches of news sites (TheWrap, The Next Web and others) were blocked in 
 22. The Block, "Truth Social teases 'utility token' tied to user engagement with streaming subscription", 2025-07-10. https://www.theblock.co/news/business/2025-07-10-truth-social-utlity-token-streaming-361931
 23. The Nightly (NYT), "No ads, no shows, no profits: What Trump's Truth+ really offers subscribers", 2026. https://thenightly.com.au/politics/us-politics/no-ads-no-shows-no-profits-what-trumps-truth-really-offers-subscribers-c-19358314
 24. Axios, "Bond traders are tuning out Trump posts", 2026-07-21. https://www.axios.com/2026/07/21/trump-bonds-social-media-traders
+25. Al Jazeera, "Media groups sue Trump over paid access to public social media posts", 2026-08-12. https://www.aljazeera.com/news/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts
+26. TheWrap, "The Intercept Sues Trump Over $100,000 Truth Social API", 2026-08. https://www.thewrap.com/industry-news/tech/trump-truth-social-api-lawsuit-the-intercept/
+27. 24/7 Wall St., "Wall Street Is Paying Trump's Company to See His Posts First", 2026-10-29. https://247wallst.com/investing/2026/10/29/wall-street-is-paying-trumps-company-to-see-his-posts-first/
+
+### Audit (second review, Nov 2026)
+Result: **upheld**. Re-checked the 2026-07-16 announcement and McGurn quote (Axios, CBS, The Star/Reuters), the $60K-$100K pricing and customer claims, and the named customers. Added the Reuters date (2026-10-28), Reuters' caveat that it could not verify the customer count, the ~50 ms edge, and the Aug 2026 press-freedom lawsuit. Verdict unchanged.

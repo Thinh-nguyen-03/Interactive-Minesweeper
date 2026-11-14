@@ -41,7 +41,7 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 
 ## Relationships
 
-### Money (15)
+### Money (16)
 
 - [[1789 Capital]] *led $60M Series C in* [[Firehawk Aerospace]] · 2025 · $60M · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[1789 Capital]] *invested in* [[Polymarket]] · 2025-08 · [[C26 1789 Capital and Vulcan Elements|C26]] [[C58 Market-moving posts and insider-trading allegations|C58]]
@@ -51,6 +51,7 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 - [[1789 Capital]] *invested* [[Polymarket]] · 2025-08-26 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[1789 Capital]] *strategic investment (double-digit millions, reported)* [[Polymarket]] · 2025-08-26 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[1789 Capital]] *strategic investment (eight figures)* [[Polymarket]] · 2025-08-26 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[1789 Capital]] *confirmed plans to invest about $300M in a roughly $1B round at a $21B valuation (total stake reported at about $500M)* [[Polymarket]] · 2026-08 · $300M · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[1789 Capital]] *planned ~$300M in $1B round (total ~$500M)* [[Polymarket]] · 2026-08-31 · $300M · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[1789 Capital]] *reported investor in* [[Anduril Industries]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[1789 Capital]] *investor in* [[Cerebras Systems]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]

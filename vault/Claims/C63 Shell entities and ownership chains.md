@@ -97,8 +97,9 @@ The core ownership chains are documented.
 
 ### 3. One Zanker-linked network runs Trump's digital licences end to end: NFT INT LLC (trading cards), Fight Fight Fight LLC ($TRUMP) and Celebration Cards LLC.
 
-**Mostly accurate** · Evidence: Documented for the licences, single-source for Celebration Cards' ownership
+**Mostly accurate**
 
+- Evidence grade: documented for the licences, single-source for Celebration Cards' ownership.
 - NFT INT LLC is a Delaware company that issues the Trump Digital Trading Cards under a paid licence from CIC Digital.
 - Public Citizen says its underlying ownership is 'shielded behind a Delaware registered agent'.
 - Zanker spokesman Kevin Mercuri confirmed Zanker's participation in the NFT deal and called it his first deal with Trump since 2015.
@@ -141,8 +142,9 @@ The core ownership chains are documented.
 
 ### 6. MKT World LLC, Melania Trump's vehicle and the $MELANIA issuer, predates the coin and uses Mar-a-Lago as its address.
 
-**Partly accurate** · Evidence: Documented for the issuer role and income; single-source for the Delaware formation and Mar-a-Lago address
+**Partly accurate**
 
+- Evidence grade: documented for the issuer role and income; single-source for the Delaware formation and Mar-a-Lago address.
 - Protos, citing Florida Secretary of State filings, says Melania is president of MKT World, that it was incorporated in Delaware and registered in Florida as a foreign LLC, and that it uses Mar-a-Lago as its mailing address.
 - DL News describes it as Florida-registered, and CoinDesk's token-terms summary says Delaware.
 - Several outlets say it has existed since about 2021.
@@ -167,8 +169,9 @@ The core ownership chains are documented.
 
 ### 8. The same 49% / ~38% split between a Tahnoon-linked vehicle and a Trump-family entity recurs at both WLF (Aryam Investment 1) and the trust bank holding company WLTC Holdings (StringZ Holding RSC (DE) LLC).
 
-**Mostly accurate** · Evidence: Single-source (WSJ, anonymous sources) for each stake; the recurrence of the pattern is our own observation
+**Mostly accurate**
 
+- Evidence grade: single-source (WSJ, anonymous sources) for each stake; the recurrence of the pattern is our own observation.
 - WSJ (reported 1 Feb 2026): Aryam Investment 1 agreed on 16 Jan 2025 to buy 49% of WLF for $500M, and G42 executives helped manage it.
 - WSJ (27 Aug 2026): a Tahnoon-linked group is behind StringZ Holding RSC (DE) LLC, which owns 49% of WLTC Holdings, while a Trump-family affiliate owns about 38%.
 - The OCC's CD #1385 (14 Aug 2026) names StringZ as a passive investor but gives no owner or percentage.
@@ -182,8 +185,9 @@ The core ownership chains are documented.
 
 ### 9. At least one Emirati entity in the Aryam/WLF deal is domiciled in Delaware, and that was referred to the US Attorney there.
 
-**Partly accurate** · Evidence: Documented that the letter exists; the underlying Delaware domicile rests on 'news reports' the letter cites
+**Partly accurate**
 
+- Evidence grade: documented that the letter exists; the underlying Delaware domicile rests on 'news reports' the letter cites.
 - On 4 Feb 2026 Rep. Ro Khanna, ranking member of the House Select Committee on the CCP, wrote to Benjamin Wallace, US Attorney for the District of Delaware, saying one of the Emirati companies involved in the deal is domiciled in his state.
 - He also noted WLF's own Delaware incorporation and raised the foreign emoluments clause.
 - A parallel letter went to Zach Witkoff.
@@ -239,8 +243,9 @@ The core ownership chains are documented.
 
 ### 13. American Ventures is a Dominari-controlled family of SPVs through which the Trump sons hold microcap stakes.
 
-**Mostly accurate** · Evidence: Documented for control (SEC filing); single-source for the sons' SPV holdings (FT, anonymous)
+**Mostly accurate**
 
+- Evidence grade: documented for control (SEC filing); single-source for the sons' SPV holdings (FT, anonymous).
 - A May 2026 SEC filing shows American Ventures Management LLC is 90% owned by Dominari Holdings, in which the sons own about 12%.
 - Per the FT, the sons invested in most American Ventures vehicles.
 - One SPV run by a Dominari subsidiary bought into Skyline Builders in Aug 2025, before Skyline's 31 Oct 2025 purchase of 20% of Kaz Resources (Kazakh tungsten; C47).
@@ -253,8 +258,9 @@ The core ownership chains are documented.
 
 ### 14. Several family-linked vehicles were activated in the four weeks around the 20 Jan 2025 inauguration.
 
-**Confirmed** · Evidence: Each date is documented; the clustering is our own observation (inferred), and no source links these events
+**Confirmed**
 
+- Evidence grade: each date is documented; the clustering is our own observation (inferred), and no source links these events.
 - 30 Dec 2024: Albania grants strategic-investor status to Atlantic Incubation Partners LLC (Kushner/Affinity-affiliated, EUR 1.4B Sazan; C45).
 - Jan 2025: WLF Holdco LLC is formed with DT Marks DEFI at about 60%.
 - 16 Jan 2025: Eric Trump signs the Aryam 49% deal.

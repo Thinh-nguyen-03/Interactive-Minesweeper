@@ -101,3 +101,13 @@ Many outlets could not be fetched directly in this environment: axios.com, gamin
 29. US Senate Banking Committee (minority), "Warren Calls on State Attorneys General to Release Transcript of Meeting with Donald Trump Jr on Prediction Markets", 2026-08. https://www.banking.senate.gov/newsroom/minority/warren-calls-on-state-attorneys-general-to-release-transcript-of-meeting-with-donald-trump-jr-on-prediction-markets
 30. Gaming.net, "Kalshi rebuts report Trump Jr. pitched GOP attorneys general", 2026-08-27. https://www.gaming.net/kalshi-rebuts-report-trump-jr-pitched-gop-attorneys-general/
 31. Legal Sports Report, "GOP Senator Wants Probe Into Trump Jr.'s Prediction Market Ties", 2026. https://www.legalsportsreport.com/?p=278593
+
+## Audit (second-opinion pass, 2026-11-14)
+**Result: strengthened.**
+- **Upheld by AP, Axios and others:**
+  - Truth Predict was shelved on the Aug 10, 2026 call.
+  - The McGovern-Selig exchange took place on Apr 16, 2026.
+  - The NYT reported Don Jr.'s March pitch to GOP AGs.
+- **"Passing comment":** a fresh search again found no such wording, so that sub-claim stays unverified.
+- **New:** around Aug 31, 2026, a 1789 Capital spokesperson confirmed plans to invest about $300M in a roughly $1B Polymarket round led by 1789, at a $21B valuation (Bloomberg, Cointelegraph). 1789's reported total Polymarket stake is now about $500M, far above the 2025 "eight figures". This was added to the Don Jr. link sub-claim and to the relationships.
+- **Sources:** https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round ; https://news.bgov.com/private-equity/polymarket-funding-round-led-by-1789-values-firm-at-21-billion

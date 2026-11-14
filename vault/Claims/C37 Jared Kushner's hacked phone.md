@@ -19,7 +19,7 @@ tags:
 **Verdict:** Unverified · medium confidence  
 **Origin:** Follow-up lead
 
-> [!warning] Unverified allegation: this could not be independently corroborated. It is reported as an allegation, not as an established fact.
+> [!warning] Unverified single-source allegation: this could not be independently corroborated. It is reported as an allegation, not as an established fact.
 
 ## Bottom line
 
