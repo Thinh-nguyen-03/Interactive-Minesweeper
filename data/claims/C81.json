@@ -1,0 +1,925 @@
+{
+  "id": "C81",
+  "title": "A federal procurement chief, Thrive Capital and sole-source awards",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Documented: Josh Gruenbaum, as GSA's FAS commissioner, arranged early meetings with Thrive- and Founders Fund-backed Ramp over a SmartPay pilot of up to $25M, prompting Rep. Connolly's May 2025 letter. FAS's TTS gave Thrive-led Databricks a sole-source order with a $1.824M ceiling in Feb 2026, not $18M. Gruenbaum's own $100,001-$250,000 stake, reportedly in a Databricks-linked Thrive SPV, and the claim that GSA's administrator blocked a Ramp award and pushed him out rest on a single WSJ report seen only via aggregators. He says he disclosed, got ethics approval and recused himself, and Thrive denies discussing contracts. The family layer is that he simultaneously worked for Jared Kushner on Gaza and the Board of Peace; a Thrive stake in OneGov vendor Anthropic is unverified.",
+  "sub_claims": [
+    {
+      "statement": "GSA's Federal Acquisition Service commissioner Josh Gruenbaum (ex-KKR, ex-Moelis) helped arrange early meetings between GSA and Ramp, a startup backed by Thrive and Founders Fund, about a SmartPay charge-card pilot worth up to $25M.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. ProPublica (2025-04-17) reported that senior GSA officials met Ramp executives at least four times before a public SmartPay opportunity opened (a Commercial Solutions Opening, RFI issued 2025-03-20), and that Gruenbaum organized some of the meetings. The pilot was worth up to $25M within SmartPay, which the coverage calls a roughly $700B program. Ramp's first and largest investor is Peter Thiel's Founders Fund (seven rounds). Thrive participated in Ramp's June 2025 Series E and later rounds, and per Bloomberg sources co-led a reported ~$1.85B round at about $60B in Oct 2026 (Ramp has not confirmed). GSA rejected any suggestion of preferential contracting. Gruenbaum had been at KKR for almost five years (director, credit team) and earlier at Moelis. What this does not show: no source says Ramp was ever awarded the pilot.",
+      "sources": [
+        "https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system",
+        "https://www.propublica.org/article/investigation-ramp-gsa-smartpay-trump-peter-thiel-gerald-connolly",
+        "https://gizmodo.com/trump-team-eyes-politically-connected-startup-to-overhaul-700-billion-government-payments-program-2000591587",
+        "https://www.bankingdive.com/news/ramp-angles-700b-smartpay-trump/745959/",
+        "https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge",
+        "https://www.nbcsandiego.com/news/business/money-report/fintech-ramps-valuation-hits-16-billion-in-deal-led-by-peter-thiels-founders-fund/3850034",
+        "https://www.fintechfutures.com/venture-capital-funding/ramp-reportedly-hits-60bn-valuation-in-1.85bn-funding-round",
+        "https://en.wikipedia.org/wiki/Josh_Gruenbaum"
+      ]
+    },
+    {
+      "statement": "Rep. Gerald Connolly opened a congressional probe of the Ramp courtship.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. On 2025-05-09 Connolly, then Oversight ranking member, wrote to Acting GSA Administrator Stephen Ehikian. He asked for Ramp's bids, the RFI timeline and communications with officials tied to the President and DOGE, with a reply due 2025-05-23 (Oversight Democrats release and letter PDF; Banking Dive). Connolly died on 2025-05-21, and we found no public GSA response or follow-up finding. 2026 aggregator write-ups that describe Connolly as 'probing' the Thrive investment repeat the 2025 letter: the letter predates the WSJ disclosure by about a year and does not mention Thrive or Gruenbaum's investment.",
+      "sources": [
+        "https://oversightdemocrats.house.gov/news/press-releases/corruption-watch-ranking-member-connolly-launches-investigation-gsa-plans-give",
+        "https://oversightdemocrats.house.gov/imo/media/doc/2025-05-09.gec-to-gsa-re-smartpay_0.pdf",
+        "https://www.bankingdive.com/news/congressman-connolly-raises-questions-about-ramps-consideration-for-25m-federal-contract/748131/",
+        "https://www.propublica.org/article/investigation-ramp-gsa-smartpay-trump-peter-thiel-gerald-connolly",
+        "https://www.nbcnews.com/politics/congress/rep-gerry-connolly-top-democrat-oversight-committee-dies-75-rcna208183"
+      ]
+    },
+    {
+      "statement": "Gruenbaum personally invested $100,001-$250,000 in a Thrive Capital vehicle in March 2025.",
+      "verdict": "unverified",
+      "finding": "SINGLE-SOURCE (WSJ, late May 2026, seen only through aggregators: Crypto Briefing 2026-05-31, Edgen in several languages, EconoTimes, and Wikipedia). The WSJ itself could not be reached. As relayed, Gruenbaum put $100,001-$250,000 (an OGE disclosure value band) through a private wealth manager into a special-purpose vehicle tied to Databricks, described as a $194M Thrive vehicle. Gruenbaum says he disclosed it, got ethics approval and recused himself from the matters; he provided documentation to the WSJ. Some senior GSA officials reportedly did not know about it. We could not see his OGE 278 form. Rated unverified only because it rests on one outlet seen secondhand; the WSJ is credible and nobody denies the investment itself.",
+      "sources": [
+        "https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/",
+        "https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract",
+        "https://www.edgen.tech/es/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract",
+        "https://econotimes.com/Trump-Advisers-Investment-in-Thrive-Capital-Draws-Scrutiny-Over-Federal-Contracts-1743076",
+        "https://en.wikipedia.org/wiki/Josh_Gruenbaum"
+      ]
+    },
+    {
+      "statement": "GSA later awarded Thrive-backed Databricks a sole-source contract.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED for the award (contract records); the link to the investment is single-source. GSA's Technology Transformation Service (part of FAS, which Gruenbaum ran) posted a sole-source justification on 2026-02-10 for 'Databricks Engineering Services' (order 47QPCA26F0011 under MAS contract 47QTCA25D00D3), citing FAR 8.401(b) and GSAR 538.7104-3(b)(3). The order is fixed-price, five months, with a ceiling of $1,824,000 (HigherGov). That settles the aggregators' '$18M' figure as an error; the WSJ figure is $1.8M. Thrive led Databricks's $10B Series J in Dec 2024 at a $62B valuation (Gunderson Dettmer, Alternatives Watch). Per the WSJ as relayed, the award came about ten months after the investment, and Gruenbaum says he recused himself. What this does not show: no source says Gruenbaum signed or steered this order, and a $1.8M software-services order is immaterial to a ~$100B+ company. The issue is the appearance of a conflict and whether the recusal was effective.",
+      "sources": [
+        "https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/",
+        "https://govcontractfinder.com/contracts/sole-source-justification-for-databricks-engineering-service-47qpca26f0011",
+        "https://www.gunder.com/en/news-insights/client-news/gunderson-dettmer-represents-thrive-capital-in-leading-databricks-dollar10b-series-j",
+        "https://www.alternativeswatch.com/2024/12/17/databricks-raises-10-billion-dollars-series-j-round-62-billion-valuation-thrive-capital-andreessen/",
+        "https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/",
+        "https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract"
+      ]
+    },
+    {
+      "statement": "GSA's administrator blocked a Ramp award in April 2026 and asked Gruenbaum to step aside; he then left FAS.",
+      "verdict": "partly-accurate",
+      "finding": "DEPARTURE DOCUMENTED; THE REASON IS SINGLE-SOURCE. Federal News Network first reported in April 2026 that Gruenbaum was leaving FAS, and Nextgov, Washington Technology and MeriTalk followed. GSA Administrator Ed Forst named Laura Stanton acting commissioner. SINGLE-SOURCE (WSJ via Edgen; people familiar): Forst blocked a ~$25M Ramp award in April and asked Gruenbaum to go. Gruenbaum says his departure was planned and voluntary. Timing tension we could not resolve: an aggregator copy of SAM.gov shows GSA cancelled the commercial-payments CSO (47QRAB25R0002) on 2026-02-11, citing a shift to next-generation SmartPay. So either the Ramp award was a different vehicle, or the 'April block' was of something already wound down. GSA named a permanent FAS commissioner, a former banking executive, in Nov 2026.",
+      "sources": [
+        "https://federalnewsnetwork.com/people/2026/04/gruenbaum-leaving-as-gsa-fas-commissioner/?readmore=1",
+        "https://www.nextgov.com/people/2026/04/gruenbaum-heading-exit-gsa/412938/",
+        "https://meritalk.com/articles/josh-gruenbaum-stepping-down-as-gsa-fas-commissioner/",
+        "https://www.executivegov.com/articles/gsa-laura-stanton-named-acting-fas-commissioner",
+        "https://www.edgen.tech/es/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract",
+        "https://samsearch.co/gov-explore/federal/cancelled-commercial-solutions-opening-cso-commercial-payment-solutions-gsa-inte/47QRAB25R0002",
+        "https://www.nextgov.com/people/2026/11/former-banking-executive-named-gsa-acquisition-lead/417037/"
+      ]
+    },
+    {
+      "statement": "Thrive and Ramp deny any improper contact.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED as statements. Thrive: neither Thrive nor Joshua Kushner discussed government contracts with Gruenbaum (WSJ, as relayed). Ramp said it was unaware of the investment (C66). GSA, in 2025, rejected any suggestion of preferential contracting (ProPublica). Gruenbaum says he disclosed, got ethics approval and recused himself. We found no GSA OIG item on the matter in the Oct 2025-Mar 2026 semiannual report.",
+      "sources": [
+        "https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/",
+        "https://www.propublica.org/article/investigation-ramp-gsa-smartpay-trump-peter-thiel-gerald-connolly",
+        "https://gsaig.gov/content/semiannual-report-congress-october-1-2025-march-31-2026"
+      ]
+    },
+    {
+      "statement": "Gruenbaum, who led GSA's OneGov programme, struck government-wide deals with AI companies in which Thrive holds stakes (OpenAI, Anthropic and others).",
+      "verdict": "partly-accurate",
+      "finding": "DOCUMENTED for OpenAI and Perplexity; UNVERIFIED for Anthropic. GSA's OneGov deals ran through FAS under Gruenbaum. They include OpenAI's ChatGPT Enterprise at $1 per agency (2025-08-06; Gruenbaum quoted in the GSA release urging other AI firms to 'follow OpenAI's lead'), Anthropic's Claude at $1 (2025-08-12), Google Gemini (2025-08), Meta Llama (2025-09) and xAI. Perplexity at $0.25 per agency (2025-11-19) was the first direct-to-government OneGov deal. On 2026-09-10 a follow-on, consumption-based OpenAI deal was signed after he left. Thrive's stakes: OpenAI is documented as a major Thrive holding (C66), and OpenAI took an equity stake in Thrive Holdings on 2025-12-01, about four months after the first OneGov deal. Thrive's Perplexity stake comes from aggregator portfolio tables only (single-source). Anthropic: Anthropic's Series E and F announcements list ICONIQ, Lightspeed, Fidelity and others; one aggregator (F4 Fund) lists Thrive, but no primary source does. We could not confirm a Thrive stake in Anthropic, so that part of the brief is unverified. The $1 deals are near-free and are not shown to have generated revenue for the vendors. No source alleges Gruenbaum's Thrive vehicle held OpenAI or that his recusal covered OneGov. Disclosure: Anthropic, which makes the model that wrote this report, is one of the OneGov companies. It is treated here like every other vendor.",
+      "sources": [
+        "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-announces-new-partnership-with-openai-delivering-deep-discount-to-chatgpt-08062025",
+        "https://techcrunch.com/2025/08/06/openai-is-practically-giving-chatgpt-to-the-government-for-free",
+        "https://www.theregister.com/2025/08/12/gsa_inks_another_1dollar_onegov_deal",
+        "https://www.potomacofficersclub.com/onegov-ai-gsa-openai-xai-google-anthropic/",
+        "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-perplexity-sign-first-direct-to-gov-deal-11192025",
+        "https://www.nextgov.com/acquisition/2025/11/gsa-perplexity-ink-first-direct-government-onegov-deal/409620/",
+        "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-expands-onegov-ai-offerings-with-discounted-openais-chatgpt-09102026",
+        "https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/",
+        "https://www.bloomberg.com/news/articles/2025-09-02/anthropic-completes-new-funding-round-at-183-billion-valuation",
+        "https://f4.fund/firms/thrive-capital"
+      ]
+    },
+    {
+      "statement": "Beyond Josh Kushner: the same official worked directly for Jared Kushner and Steve Witkoff on Gaza diplomacy and the Board of Peace, while holding a Josh Kushner fund investment.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED for the roles; the overlap is INFERRED. While running FAS, Gruenbaum helped Jared Kushner and Witkoff negotiate the Gaza ceasefire (Jewish Insider, 2026-01; Politico via Raw Story). In Jan 2026 the White House named him and Aryeh Lightstone senior advisers to the Trump-chaired Board of Peace, where Kushner sits on the executive board. Politico later reported him dropped from Russia-Ukraine and Iran work; sources describe Kushner and Witkoff as still his allies. Jewish Insider (2026-06) says he left government but remains an unpaid Board of Peace adviser. INFERRED (no source makes the link): during the period of his reported Thrive vehicle investment (from March 2025), Gruenbaum was also working under Jared Kushner, whose brother runs Thrive. Jared Kushner co-founded and divested Thrive interests in 2017 (C66). No source says Jared had any role in Gruenbaum's investment or in GSA contracts.",
+      "sources": [
+        "https://jewishinsider.com/2026/01/josh-gruenbaum-diplomacy-white-house-witkoff-kushner/",
+        "https://jewishinsider.com/2026/06/josh-gruenbaum-ex-head-of-the-federal-acquisition-service-and-international-negotiator-leaving-the-white-house/",
+        "https://www.rawstory.com/gruenbaum-kushner-witkoff/",
+        "https://www.inkl.com/news/trump-aide-josh-gruenbaum-dropped-from-ukraine-iran-roles-here-s-why-he-was-sidelined",
+        "https://signalscv.com/2026/01/trump-appoints-rubio-witkoff-kushner-and-blair-to-gaza-board-of-peace/"
+      ]
+    },
+    {
+      "statement": "After leaving government, Gruenbaum joined Valor Equity Partners, founded by DOGE veteran and Musk ally Antonio Gracias.",
+      "verdict": "unverified",
+      "finding": "SINGLE-SOURCE (the firm's own team page at valorep.com, seen only as a search-result snippet; the site could not be fetched here). The snippet says he joined Valor in 2026 as a Managing Director on the investment team, with KKR and Moelis listed as prior roles. Jewish Insider separately reported in June 2026 that he was 'set to join an investment firm' without naming it. Valor's founder Antonio Gracias led DOGE work at the Social Security Administration until 2025-07-01 (NBC, Fortune), and Gruenbaum was himself one of the Musk-linked DOGE officials brought into GSA. Valor is a long-time SpaceX and Tesla investor (Fortune, NBC). INFERRED: a revolving door from a procurement post to a DOGE-linked investor; no source reports any Valor matter before FAS during his tenure.",
+      "sources": [
+        "https://www.valorep.com/team/josh-gruenbaum",
+        "https://jewishinsider.com/2026/06/josh-gruenbaum-ex-head-of-the-federal-acquisition-service-and-international-negotiator-leaving-the-white-house/",
+        "https://www.nbcnews.com/politics/doge/high-ranking-doge-official-elon-musk-ally-antonio-gracias-left-governm-rcna220611",
+        "https://fortune.com/2025/03/10/elon-musk-private-equity-veterans-doge-cuts-social-security-administration/"
+      ]
+    }
+  ],
+  "corrections": [
+    "Aggregators give the Databricks award as $18M; contract records show a ceiling of $1,824,000 (order 47QPCA26F0011, Feb 2026, five months).",
+    "2026 write-ups describe Rep. Connolly as probing the Thrive investment; his only letter was dated 2025-05-09, was about Ramp's courtship, and he died on 2025-05-21, a year before the WSJ disclosure.",
+    "The Databricks order was issued by GSA's Technology Transformation Service (within FAS), not FAS acquisition centres directly; the brief does not say Gruenbaum signed it and no source does.",
+    "The brief's 'OneGov deals with OpenAI, Anthropic and others in which Thrive holds stakes': Thrive's OpenAI stake is documented, but no primary source shows a Thrive stake in Anthropic.",
+    "Ramp's lead investor is Founders Fund (Thiel); Thrive is a participant, though it reportedly co-led a 2026 round."
+  ],
+  "denials_and_context": [
+    "Gruenbaum: disclosed the investment, received ethics approval, recused himself from the relevant matters; departure planned and voluntary.",
+    "Thrive: neither Thrive nor Joshua Kushner discussed government contracts with Gruenbaum.",
+    "Ramp: unaware of the investment (C66). GSA (2025): rejects any suggestion of unfair or preferential contracting.",
+    "OneGov deals at $1 or $0.25 per agency generate little or no direct revenue; their value to vendors is market access. Many other vendors without Thrive ties (Google, Meta, xAI, Microsoft, AWS, Snowflake) got similar deals.",
+    "A documented relationship is not proof of wrongdoing; no source alleges that the Databricks order was improperly justified or that Jared Kushner had any role.",
+    "Disclosure: Anthropic, maker of the model that produced this report, is one of the OneGov vendors. It is treated like every other company here."
+  ],
+  "sources": [
+    {
+      "title": "Trump team eyes politically connected startup Ramp for SmartPay",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system",
+      "date": "2025-04-17"
+    },
+    {
+      "title": "Investigation into Ramp/GSA SmartPay (Connolly)",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/investigation-ramp-gsa-smartpay-trump-peter-thiel-gerald-connolly",
+      "date": "2025-05"
+    },
+    {
+      "title": "Trump team eyes politically connected startup",
+      "publisher": "Gizmodo",
+      "url": "https://gizmodo.com/trump-team-eyes-politically-connected-startup-to-overhaul-700-billion-government-payments-program-2000591587",
+      "date": "2025-04"
+    },
+    {
+      "title": "Ramp angles for $700B SmartPay",
+      "publisher": "Banking Dive",
+      "url": "https://www.bankingdive.com/news/ramp-angles-700b-smartpay-trump/745959/",
+      "date": "2025-04"
+    },
+    {
+      "title": "Connolly raises questions about Ramp's consideration for $25M contract",
+      "publisher": "Banking Dive",
+      "url": "https://www.bankingdive.com/news/congressman-connolly-raises-questions-about-ramps-consideration-for-25m-federal-contract/748131/",
+      "date": "2025-05"
+    },
+    {
+      "title": "Connolly launches investigation into GSA plans to give Ramp contract",
+      "publisher": "House Oversight Democrats",
+      "url": "https://oversightdemocrats.house.gov/news/press-releases/corruption-watch-ranking-member-connolly-launches-investigation-gsa-plans-give",
+      "date": "2025-05-10"
+    },
+    {
+      "title": "Letter from Ranking Member Connolly to GSA re SmartPay",
+      "publisher": "House Oversight Democrats",
+      "url": "https://oversightdemocrats.house.gov/imo/media/doc/2025-05-09.gec-to-gsa-re-smartpay_0.pdf",
+      "date": "2025-05-09"
+    },
+    {
+      "title": "Ramp is trying to get the US government as a customer",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge",
+      "date": "2025-04-17"
+    },
+    {
+      "title": "Rep. Gerry Connolly dies at 75",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/politics/congress/rep-gerry-connolly-top-democrat-oversight-committee-dies-75-rcna208183",
+      "date": "2025-05-21"
+    },
+    {
+      "title": "Thrive Capital / Trump adviser contract concerns (relaying WSJ)",
+      "publisher": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/",
+      "date": "2026-05-31"
+    },
+    {
+      "title": "Trump adviser's Thrive investment draws scrutiny (FR, relaying WSJ)",
+      "publisher": "Edgen",
+      "url": "https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract",
+      "date": "2026-05"
+    },
+    {
+      "title": "Trump adviser's Thrive investment draws scrutiny (ES, relaying WSJ)",
+      "publisher": "Edgen",
+      "url": "https://www.edgen.tech/es/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract",
+      "date": "2026-05"
+    },
+    {
+      "title": "Trump adviser's investment in Thrive Capital draws scrutiny",
+      "publisher": "EconoTimes",
+      "url": "https://econotimes.com/Trump-Advisers-Investment-in-Thrive-Capital-Draws-Scrutiny-Over-Federal-Contracts-1743076",
+      "date": "2026-05"
+    },
+    {
+      "title": "Josh Gruenbaum",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Josh_Gruenbaum",
+      "date": "2026"
+    },
+    {
+      "title": "Delivery order 47QPCA26F0011, Databricks Engineering Services",
+      "publisher": "HigherGov (federal contract data)",
+      "url": "https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/",
+      "date": "2026-02"
+    },
+    {
+      "title": "Sole Source Justification for Databricks Engineering Services",
+      "publisher": "GovContractFinder (SAM.gov mirror)",
+      "url": "https://govcontractfinder.com/contracts/sole-source-justification-for-databricks-engineering-service-47qpca26f0011",
+      "date": "2026-02-10"
+    },
+    {
+      "title": "Gunderson Dettmer represents Thrive in leading Databricks $10B Series J",
+      "publisher": "Gunderson Dettmer",
+      "url": "https://www.gunder.com/en/news-insights/client-news/gunderson-dettmer-represents-thrive-capital-in-leading-databricks-dollar10b-series-j",
+      "date": "2024-12-17"
+    },
+    {
+      "title": "Databricks raises $10B Series J at $62B",
+      "publisher": "Alternatives Watch",
+      "url": "https://www.alternativeswatch.com/2024/12/17/databricks-raises-10-billion-dollars-series-j-round-62-billion-valuation-thrive-capital-andreessen/",
+      "date": "2024-12-17"
+    },
+    {
+      "title": "Ramp valuation hits $16B in round led by Founders Fund",
+      "publisher": "CNBC (via NBC San Diego)",
+      "url": "https://www.nbcsandiego.com/news/business/money-report/fintech-ramps-valuation-hits-16-billion-in-deal-led-by-peter-thiels-founders-fund/3850034",
+      "date": "2025-06-17"
+    },
+    {
+      "title": "Ramp reportedly hits $60bn valuation in $1.85bn round",
+      "publisher": "FinTech Futures",
+      "url": "https://www.fintechfutures.com/venture-capital-funding/ramp-reportedly-hits-60bn-valuation-in-1.85bn-funding-round",
+      "date": "2026-10"
+    },
+    {
+      "title": "Cancelled CSO Commercial Payment Solutions 47QRAB25R0002",
+      "publisher": "SamSearch (SAM.gov mirror)",
+      "url": "https://samsearch.co/gov-explore/federal/cancelled-commercial-solutions-opening-cso-commercial-payment-solutions-gsa-inte/47QRAB25R0002",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "Gruenbaum leaving as GSA FAS commissioner",
+      "publisher": "Federal News Network",
+      "url": "https://federalnewsnetwork.com/people/2026/04/gruenbaum-leaving-as-gsa-fas-commissioner/?readmore=1",
+      "date": "2026-04"
+    },
+    {
+      "title": "Gruenbaum heading for the exit from GSA",
+      "publisher": "Nextgov",
+      "url": "https://www.nextgov.com/people/2026/04/gruenbaum-heading-exit-gsa/412938/",
+      "date": "2026-04"
+    },
+    {
+      "title": "Josh Gruenbaum stepping down as GSA FAS commissioner",
+      "publisher": "MeriTalk",
+      "url": "https://meritalk.com/articles/josh-gruenbaum-stepping-down-as-gsa-fas-commissioner/",
+      "date": "2026-04"
+    },
+    {
+      "title": "Laura Stanton named acting FAS commissioner",
+      "publisher": "ExecutiveGov",
+      "url": "https://www.executivegov.com/articles/gsa-laura-stanton-named-acting-fas-commissioner",
+      "date": "2026-04"
+    },
+    {
+      "title": "Josh Gruenbaum, diplomacy, Witkoff and Kushner",
+      "publisher": "Jewish Insider",
+      "url": "https://jewishinsider.com/2026/01/josh-gruenbaum-diplomacy-white-house-witkoff-kushner/",
+      "date": "2026-01"
+    },
+    {
+      "title": "Josh Gruenbaum leaving government",
+      "publisher": "Jewish Insider",
+      "url": "https://jewishinsider.com/2026/06/josh-gruenbaum-ex-head-of-the-federal-acquisition-service-and-international-negotiator-leaving-the-white-house/",
+      "date": "2026-06"
+    },
+    {
+      "title": "Rising star benched after rankling top aides (relaying Politico)",
+      "publisher": "Raw Story",
+      "url": "https://www.rawstory.com/gruenbaum-kushner-witkoff/",
+      "date": "2026"
+    },
+    {
+      "title": "Trump aide Gruenbaum dropped from Ukraine, Iran roles",
+      "publisher": "inkl",
+      "url": "https://www.inkl.com/news/trump-aide-josh-gruenbaum-dropped-from-ukraine-iran-roles-here-s-why-he-was-sidelined",
+      "date": "2026"
+    },
+    {
+      "title": "Trump appoints Rubio, Witkoff, Kushner and Blair to Gaza Board of Peace",
+      "publisher": "Signal (SCV)",
+      "url": "https://signalscv.com/2026/01/trump-appoints-rubio-witkoff-kushner-and-blair-to-gaza-board-of-peace/",
+      "date": "2026-01"
+    },
+    {
+      "title": "Josh Gruenbaum team page",
+      "publisher": "Valor Equity Partners",
+      "url": "https://www.valorep.com/team/josh-gruenbaum",
+      "date": "2026"
+    },
+    {
+      "title": "High-ranking DOGE official Antonio Gracias has left government",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/politics/doge/high-ranking-doge-official-elon-musk-ally-antonio-gracias-left-governm-rcna220611",
+      "date": "2025-07"
+    },
+    {
+      "title": "Musk taps private equity veterans for DOGE at SSA",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2025/03/10/elon-musk-private-equity-veterans-doge-cuts-social-security-administration/",
+      "date": "2025-03-10"
+    },
+    {
+      "title": "GSA announces OneGov partnership with OpenAI",
+      "publisher": "GSA",
+      "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-announces-new-partnership-with-openai-delivering-deep-discount-to-chatgpt-08062025",
+      "date": "2025-08-06"
+    },
+    {
+      "title": "OpenAI is practically giving ChatGPT to the government",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2025/08/06/openai-is-practically-giving-chatgpt-to-the-government-for-free",
+      "date": "2025-08-06"
+    },
+    {
+      "title": "GSA inks another $1 OneGov deal, this time with Anthropic",
+      "publisher": "The Register",
+      "url": "https://www.theregister.com/2025/08/12/gsa_inks_another_1dollar_onegov_deal",
+      "date": "2025-08-12"
+    },
+    {
+      "title": "OneGov AI: OpenAI, xAI, Google, Anthropic",
+      "publisher": "Potomac Officers Club",
+      "url": "https://www.potomacofficersclub.com/onegov-ai-gsa-openai-xai-google-anthropic/",
+      "date": "2025"
+    },
+    {
+      "title": "GSA expands OneGov with consumption-based ChatGPT",
+      "publisher": "GSA",
+      "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-expands-onegov-ai-offerings-with-discounted-openais-chatgpt-09102026",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "GSA, Perplexity sign first direct-to-government deal",
+      "publisher": "GSA",
+      "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-perplexity-sign-first-direct-to-gov-deal-11192025",
+      "date": "2025-11-19"
+    },
+    {
+      "title": "GSA, Perplexity ink first direct-to-government OneGov deal",
+      "publisher": "Nextgov",
+      "url": "https://www.nextgov.com/acquisition/2025/11/gsa-perplexity-ink-first-direct-government-onegov-deal/409620/",
+      "date": "2025-11"
+    },
+    {
+      "title": "OpenAI's investment into Thrive Holdings",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Anthropic completes funding round at $183B",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-02/anthropic-completes-new-funding-round-at-183-billion-valuation",
+      "date": "2025-09-02"
+    },
+    {
+      "title": "Thrive Capital firm profile",
+      "publisher": "F4 Fund (aggregator)",
+      "url": "https://f4.fund/firms/thrive-capital",
+      "date": "2026"
+    },
+    {
+      "title": "GSA inks latest OneGov agreement with Snowflake",
+      "publisher": "Nextgov",
+      "url": "https://www.nextgov.com/acquisition/2026/05/gsa-inks-latest-onegov-agreement-snowflake/413688/",
+      "date": "2026-05"
+    },
+    {
+      "title": "GSA OIG semiannual report Oct 2025-Mar 2026",
+      "publisher": "GSA Office of Inspector General",
+      "url": "https://gsaig.gov/content/semiannual-report-congress-october-1-2025-march-31-2026",
+      "date": "2026"
+    },
+    {
+      "title": "Josh Kushner's Thrive raises $10B",
+      "publisher": "Advisor Perspectives/Bloomberg",
+      "url": "https://www.advisorperspectives.com/articles/2026/02/17/josh-kushners-thrive-capital-raises-10-billion",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "Former banking executive named GSA acquisition lead",
+      "publisher": "Nextgov",
+      "url": "https://www.nextgov.com/people/2026/11/former-banking-executive-named-gsa-acquisition-lead/417037/",
+      "date": "2026-11"
+    }
+  ],
+  "entities": [
+    {
+      "id": "josh-gruenbaum",
+      "name": "Josh Gruenbaum",
+      "type": "person",
+      "description": "GSA Federal Acquisition Service commissioner Jan 2025-Apr 2026; ex-KKR/Moelis; Gaza and Board of Peace adviser to Kushner/Witkoff."
+    },
+    {
+      "id": "gsa",
+      "name": "General Services Administration",
+      "type": "government",
+      "description": "Federal procurement agency; runs FAS, TTS, SmartPay and OneGov."
+    },
+    {
+      "id": "thrive-capital",
+      "name": "Thrive Capital",
+      "type": "fund",
+      "description": "Josh Kushner's venture firm; investor in OpenAI, Databricks and Ramp."
+    },
+    {
+      "id": "josh-kushner",
+      "name": "Josh Kushner",
+      "type": "person",
+      "description": "Thrive Capital founder; Jared Kushner's brother."
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Trump son-in-law; Middle East envoy; Board of Peace executive board."
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "Special envoy; worked with Gruenbaum on Gaza."
+    },
+    {
+      "id": "ramp",
+      "name": "Ramp",
+      "type": "company",
+      "description": "Corporate card/expense fintech backed by Founders Fund and Thrive; courted for SmartPay pilot."
+    },
+    {
+      "id": "databricks",
+      "name": "Databricks",
+      "type": "company",
+      "description": "Data/AI company; Thrive led its $10B Series J (Dec 2024); won $1.824M GSA sole-source order (Feb 2026)."
+    },
+    {
+      "id": "founders-fund",
+      "name": "Founders Fund",
+      "type": "fund",
+      "description": "Peter Thiel's venture firm; Ramp's first and largest investor."
+    },
+    {
+      "id": "peter-thiel",
+      "name": "Peter Thiel",
+      "type": "person",
+      "description": "Founders Fund co-founder; Trump ally."
+    },
+    {
+      "id": "kkr",
+      "name": "KKR",
+      "type": "fund",
+      "description": "Investment firm where Gruenbaum was a credit-team director before GSA."
+    },
+    {
+      "id": "gerald-connolly",
+      "name": "Gerald Connolly",
+      "type": "person",
+      "description": "House Oversight ranking member; opened Ramp probe 2025-05-09; died 2025-05-21."
+    },
+    {
+      "id": "ed-forst",
+      "name": "Ed Forst",
+      "type": "person",
+      "description": "GSA Administrator; reportedly blocked Ramp award (single-source)."
+    },
+    {
+      "id": "laura-stanton",
+      "name": "Laura Stanton",
+      "type": "person",
+      "description": "Acting FAS commissioner after Gruenbaum."
+    },
+    {
+      "id": "stephen-ehikian",
+      "name": "Stephen Ehikian",
+      "type": "person",
+      "description": "Acting GSA Administrator addressed by Connolly's 2025 letter."
+    },
+    {
+      "id": "smartpay",
+      "name": "GSA SmartPay",
+      "type": "product",
+      "description": "Government charge-card program (~$700B per coverage)."
+    },
+    {
+      "id": "onegov",
+      "name": "GSA OneGov",
+      "type": "product",
+      "description": "GSA government-wide discount agreements with tech vendors, launched 2025."
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "type": "company",
+      "description": "ChatGPT maker; $1 OneGov deal Aug 2025; major Thrive holding."
+    },
+    {
+      "id": "thrive-holdings",
+      "name": "Thrive Holdings",
+      "type": "company",
+      "description": "Thrive-created vehicle in which OpenAI took a stake on 2025-12-01."
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "type": "company",
+      "description": "Claude maker; $1 OneGov deal Aug 2025; Thrive stake unverified. Maker of the model writing this report."
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "type": "company",
+      "description": "AI search; $0.25 direct OneGov deal Nov 2025; Thrive stake per aggregators only."
+    },
+    {
+      "id": "alphabet",
+      "name": "Alphabet (Google)",
+      "type": "company",
+      "description": "Gemini for Government OneGov deal, Aug 2025."
+    },
+    {
+      "id": "xai",
+      "name": "xAI",
+      "type": "company",
+      "description": "Musk AI firm with OneGov deal."
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "type": "company",
+      "description": "Llama added to OneGov Sept 2025."
+    },
+    {
+      "id": "board-of-peace",
+      "name": "Board of Peace (Gaza)",
+      "type": "government",
+      "description": "Trump-chaired Gaza governance board announced Jan 2026."
+    },
+    {
+      "id": "valor-equity-partners",
+      "name": "Valor Equity Partners",
+      "type": "fund",
+      "description": "Antonio Gracias's firm; SpaceX/Tesla investor; reportedly hired Gruenbaum 2026."
+    },
+    {
+      "id": "antonio-gracias",
+      "name": "Antonio Gracias",
+      "type": "person",
+      "description": "Valor founder; Musk ally; DOGE at SSA to July 2025."
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "type": "person",
+      "description": "DOGE head; Gruenbaum was among Musk-linked officials placed at GSA."
+    },
+    {
+      "id": "doge",
+      "name": "Department of Government Efficiency",
+      "type": "government",
+      "description": "Musk-led cost-cutting effort embedded at GSA."
+    },
+    {
+      "id": "propublica",
+      "name": "ProPublica",
+      "type": "media",
+      "description": "Broke the Ramp/SmartPay story, 2025-04-17."
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "Wall Street Journal",
+      "type": "media",
+      "description": "Reported Gruenbaum's Thrive investment, May 2026."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; chairs the Board of Peace."
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "House Oversight Democrats' 2025 probe."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "josh-gruenbaum",
+      "target": "gsa",
+      "label": "FAS commissioner of",
+      "type": "regulatory",
+      "date": "2025-01/2026-04"
+    },
+    {
+      "source": "josh-gruenbaum",
+      "target": "kkr",
+      "label": "former director, credit team, at",
+      "type": "commercial",
+      "date": "2020-2025"
+    },
+    {
+      "source": "josh-gruenbaum",
+      "target": "thrive-capital",
+      "label": "reportedly invested $100,001-$250,000 in Databricks-linked Thrive SPV (single-source, WSJ)",
+      "type": "money",
+      "date": "2025-03"
+    },
+    {
+      "source": "josh-gruenbaum",
+      "target": "ramp",
+      "label": "organized pre-solicitation meetings with",
+      "type": "commercial",
+      "date": "2025-01/2025-04"
+    },
+    {
+      "source": "gsa",
+      "target": "ramp",
+      "label": "considered for SmartPay pilot up to $25M (not awarded per sources found)",
+      "type": "commercial",
+      "date": "2025",
+      "amount_usd": 25000000
+    },
+    {
+      "source": "gsa",
+      "target": "databricks",
+      "label": "sole-source order 47QPCA26F0011, ceiling $1,824,000",
+      "type": "commercial",
+      "date": "2026-02",
+      "amount_usd": 1824000
+    },
+    {
+      "source": "thrive-capital",
+      "target": "databricks",
+      "label": "led $10B Series J of",
+      "type": "money",
+      "date": "2024-12",
+      "amount_usd": 10000000000
+    },
+    {
+      "source": "thrive-capital",
+      "target": "ramp",
+      "label": "investor in; reportedly co-led ~$1.85B round",
+      "type": "money",
+      "date": "2025-06/2026-10"
+    },
+    {
+      "source": "founders-fund",
+      "target": "ramp",
+      "label": "first and largest investor in",
+      "type": "money",
+      "date": "2019-2025"
+    },
+    {
+      "source": "peter-thiel",
+      "target": "founders-fund",
+      "label": "co-founder of",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "josh-kushner",
+      "target": "thrive-capital",
+      "label": "founder of",
+      "type": "ownership",
+      "date": "2009"
+    },
+    {
+      "source": "josh-kushner",
+      "target": "jared-kushner",
+      "label": "brother of",
+      "type": "family",
+      "date": ""
+    },
+    {
+      "source": "thrive-capital",
+      "target": "openai",
+      "label": "major investor in",
+      "type": "money",
+      "date": "2023-2025"
+    },
+    {
+      "source": "openai",
+      "target": "thrive-holdings",
+      "label": "took equity stake in",
+      "type": "money",
+      "date": "2025-12-01"
+    },
+    {
+      "source": "gsa",
+      "target": "openai",
+      "label": "OneGov ChatGPT Enterprise $1/agency",
+      "type": "commercial",
+      "date": "2025-08-06"
+    },
+    {
+      "source": "gsa",
+      "target": "anthropic",
+      "label": "OneGov Claude $1",
+      "type": "commercial",
+      "date": "2025-08-12"
+    },
+    {
+      "source": "gsa",
+      "target": "perplexity",
+      "label": "OneGov Perplexity $0.25/agency",
+      "type": "commercial",
+      "date": "2025-11-19"
+    },
+    {
+      "source": "gsa",
+      "target": "alphabet",
+      "label": "OneGov Gemini for Government",
+      "type": "commercial",
+      "date": "2025-08"
+    },
+    {
+      "source": "gsa",
+      "target": "meta",
+      "label": "OneGov Llama",
+      "type": "commercial",
+      "date": "2025-09"
+    },
+    {
+      "source": "gsa",
+      "target": "xai",
+      "label": "OneGov Grok",
+      "type": "commercial",
+      "date": "2025-09"
+    },
+    {
+      "source": "josh-gruenbaum",
+      "target": "onegov",
+      "label": "led as FAS commissioner",
+      "type": "regulatory",
+      "date": "2025"
+    },
+    {
+      "source": "gerald-connolly",
+      "target": "gsa",
+      "label": "opened probe of Ramp courtship",
+      "type": "political",
+      "date": "2025-05-09"
+    },
+    {
+      "source": "propublica",
+      "target": "ramp",
+      "label": "reported GSA courtship of",
+      "type": "media",
+      "date": "2025-04-17"
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "josh-gruenbaum",
+      "label": "reported Thrive investment of",
+      "type": "media",
+      "date": "2026-05"
+    },
+    {
+      "source": "ed-forst",
+      "target": "josh-gruenbaum",
+      "label": "reportedly asked to step aside (single-source)",
+      "type": "regulatory",
+      "date": "2026-04"
+    },
+    {
+      "source": "laura-stanton",
+      "target": "gsa",
+      "label": "acting FAS commissioner",
+      "type": "regulatory",
+      "date": "2026-04"
+    },
+    {
+      "source": "josh-gruenbaum",
+      "target": "jared-kushner",
+      "label": "worked for on Gaza ceasefire talks",
+      "type": "advisory",
+      "date": "2025-2026"
+    },
+    {
+      "source": "josh-gruenbaum",
+      "target": "steve-witkoff",
+      "label": "worked for on Gaza, Ukraine, Iran talks",
+      "type": "advisory",
+      "date": "2025-2026"
+    },
+    {
+      "source": "josh-gruenbaum",
+      "target": "board-of-peace",
+      "label": "senior adviser to",
+      "type": "advisory",
+      "date": "2026-01"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "board-of-peace",
+      "label": "executive board member",
+      "type": "political",
+      "date": "2026-01"
+    },
+    {
+      "source": "donald-trump",
+      "target": "board-of-peace",
+      "label": "chairs",
+      "type": "political",
+      "date": "2026-01"
+    },
+    {
+      "source": "josh-gruenbaum",
+      "target": "valor-equity-partners",
+      "label": "managing director at (single-source, firm page)",
+      "type": "commercial",
+      "date": "2026"
+    },
+    {
+      "source": "antonio-gracias",
+      "target": "valor-equity-partners",
+      "label": "founder of",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "antonio-gracias",
+      "target": "doge",
+      "label": "DOGE volunteer at SSA",
+      "type": "political",
+      "date": "2025-03/2025-07"
+    },
+    {
+      "source": "josh-gruenbaum",
+      "target": "doge",
+      "label": "came in with Musk-linked DOGE contingent at GSA",
+      "type": "political",
+      "date": "2025-01"
+    },
+    {
+      "source": "elon-musk",
+      "target": "doge",
+      "label": "led",
+      "type": "political",
+      "date": "2025"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Gruenbaum's move to Valor Equity Partners",
+      "why_connected": "A former federal procurement chief and DOGE-contingent official reportedly joined the investment firm of DOGE veteran Antonio Gracias, a SpaceX investor whose portfolio companies sell to government; check the date, any cooling-off recusal and Valor's portfolio's GSA business.",
+      "entities": [
+        "josh-gruenbaum",
+        "valor-equity-partners",
+        "antonio-gracias",
+        "elon-musk"
+      ],
+      "source_url": "https://www.valorep.com/team/josh-gruenbaum"
+    },
+    {
+      "title": "Fate of the SmartPay commercial-payments CSO and the next-generation SmartPay award",
+      "why_connected": "GSA cancelled the CSO on 2026-02-11, but the WSJ says a Ramp award was blocked in April 2026; find out which vehicle Ramp was in and who won the next-generation SmartPay work.",
+      "entities": [
+        "gsa",
+        "ramp",
+        "smartpay"
+      ],
+      "source_url": "https://samsearch.co/gov-explore/federal/cancelled-commercial-solutions-opening-cso-commercial-payment-solutions-gsa-inte/47QRAB25R0002"
+    },
+    {
+      "title": "Gruenbaum's OGE financial disclosures and ethics approvals",
+      "why_connected": "The investment's exact vehicle, date and recusal scope (including whether OneGov/OpenAI matters were covered) are knowable from OGE 278 filings and recusal memos.",
+      "entities": [
+        "josh-gruenbaum",
+        "thrive-capital",
+        "databricks"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Josh_Gruenbaum"
+    },
+    {
+      "title": "Other Thrive portfolio companies with GSA or MAS business",
+      "why_connected": "Thrive's portfolio (OpenAI, Databricks, Ramp, Perplexity per aggregators, Cursor) overlaps GSA buying; a systematic SAM.gov/USAspending match during 2025-26 would test whether Databricks was a one-off.",
+      "entities": [
+        "thrive-capital",
+        "gsa",
+        "perplexity",
+        "openai"
+      ],
+      "source_url": "https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/"
+    }
+  ]
+}
