@@ -1,0 +1,803 @@
+{
+  "id": "C83",
+  "title": "Keith Schiller and George Sorial: the ex-bodyguard and ex-executive across deals",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Javelin Advisors' FARA filings show it is owned in equal thirds by Schiller, Sorial and Robert Seiden. So Pakistan's $200K/month minerals contract with Seiden Law was partly passed to a firm Seiden co-owns. Beyond Pakistan and Daibes, Javelin's documented clients include Greg Lindberg (a pardon bid that is still unresolved), Taiwan's TECRO (FARA, March 2026), I-Mei Foods and an opaque LLC, Logical Strategies. Schiller and Sorial's other shared vehicle, GreenMet, sells Washington access to foreign miners (Kamituga, DRC: $1M) while partnering on Tanbreez. What is not documented is any White House meeting or access since November 2024, or any US decision credited to them: Daibes got no clemency, and the policy overlaps are our own inference.",
+  "sub_claims": [
+    {
+      "statement": "Javelin Advisors is a three-way partnership: Keith Schiller, George Sorial and Robert Seiden co-own it equally, so Seiden Law's Pakistan subcontract went to a firm Seiden himself co-owns.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (Javelin's own FARA filings). Javelin's FARA registration No. 7705 (received 2026-03-23) says the firm is 'co-owned and controlled equally by George A Sorial, Keith Schiller, and Robert W. Seiden' and lists all three as managing directors; Sorial is the named responsible individual and the address is 1701 Pennsylvania Ave NW, Suite 200, Washington DC. Business Today (2026-01-07) also reports Seiden holds a stake. The earlier Pakistan registration (No. 7579, 2025-04-25) carried the same ownership language per C64's audit. Combined with C64/C72: Pakistan paid Seiden Law $200K/month (FARA 7570, signed 2025-04-08), and Seiden subcontracted about $50K/month to Javelin. So part of the Pakistan fee flowed to a firm owned by the prime contractor's own principal. No source says this was improper; FARA allows it, and it was disclosed. The filings themselves could not be fetched here; their contents are taken from search-engine extracts of the PDFs.",
+      "sources": [
+        "https://efile.fara.gov/docs/7705-Registration-Statement-20260323-1.pdf",
+        "https://efile.fara.gov/docs/7705-Exhibit-AB-20260323-1.pdf",
+        "https://www.businesstoday.in/world/us/story/ronny-jackson-former-white-house-doctor-identified-as-key-link-in-us-pakistans-500-million-mining-deal-509756-2026-01-07",
+        "https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf"
+      ]
+    },
+    {
+      "statement": "Javelin was set up in December 2024, after the election, by Schiller and Sorial, with an LDA registration effective 10 Dec 2024.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented. PR Newswire launch release (Dec 2024) and the Senate LDA registration list Schiller's covered position as Deputy Assistant to the President and Director of Oval Office Operations (about 2017-01-20 to 2017-09-20). The LDA registrant record shows a Boca Raton, FL address in 2025, later a Washington DC address. Global Witness says Pakistan was the firm's first foreign client.",
+      "sources": [
+        "https://prnewswire.com/news-releases/former-trump-advisors-launch-government-relations-and-consulting-firm-javelin-advisors-llc-302335226.html",
+        "https://lda.senate.gov/filings/public/filing/60b0d04c-df82-4b3e-a379-41e7617eb49d/print",
+        "https://lda.senate.gov/api/v1/registrants/401109020/?format=api",
+        "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid"
+      ]
+    },
+    {
+      "statement": "Fred Daibes paid Javelin about $1M in 2025 to seek clemency; he got none and dropped the firm by June 2025.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented for the engagement (LDA filings listing 'executive relief', reported by NBC and NOTUS); the $1M figure is single-source (NBC, three unnamed sources). NBC says Daibes hired Schiller's firm in 2025 for a 'full court press on the White House'. His lawyer Robert Travers said Daibes had not worked with Schiller or Javelin since June 2025. No pardon or commutation has been reported. Schiller and Javelin did not comment; the White House does not comment on pardons. Already in C49/C64; we add only the dates and attribution.",
+      "sources": [
+        "https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278",
+        "https://www.nbcnewyork.com/news/local/crime-and-courts/fred-daibes-hired-lobbying-firm-clemency-trump/6408580/?amp=1",
+        "https://www.notus.org/money/donald-trump-pardons-clemency-lobbyists-roger-stone-boosie-badazz"
+      ]
+    },
+    {
+      "statement": "Greg Lindberg, the insurance magnate who pleaded guilty in a $2B fraud and bribery scheme, hired Javelin in 2025 to lobby for an 'executive pardon'.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (LDA disclosures as reported by NOTUS, Insurance Business and others). NOTUS says Lindberg hired Javelin 'this summer' (2025); another report puts it in late October. Insurance Business says Lindberg appeared on Javelin's filings for three quarters, with 'executive pardon' named only in the first. On 2025-12-23 North Carolina Insurance Commissioner Mike Causey, the official Lindberg was convicted of trying to bribe, publicly urged Trump not to pardon him. Sen. Thom Tillis was quoted saying he told Pardon Attorney Ed Martin it was a bad idea. No grant or denial was found through our search; the latest coverage we found (about March 2026) describes the request as pending. Lindberg's earlier co-defendant, ex-Rep. Robin Hayes, was pardoned at the end of Trump's first term. Lindberg's lawyer said pardons should be given when the facts warrant it. This is a new pardon client not covered in C49 or C64.",
+      "sources": [
+        "https://www.notus.org/money/donald-trump-pardons-clemency-lobbyists-roger-stone-boosie-badazz",
+        "https://www.insurancebusinessmag.com/us/news/breaking-news/greg-lindberg-hires-trumplinked-lobbyists-in-bid-for-presidential-pardon-554551.aspx",
+        "https://www.ncdoi.gov/news/press-releases/2025/12/23/commissioner-causey-urges-president-trump-not-pardon-greg-lindberg",
+        "https://ncnewsline.com/2025/12/24/nc-insurance-commissioner-urges-trump-not-to-pardon-convicted-felon-greg-lindberg/",
+        "https://www.insurancejournal.com/news/southeast/2026/01/09/853762.htm"
+      ]
+    },
+    {
+      "statement": "Taiwan's de facto embassy (TECRO) is a Javelin foreign principal under a new FARA registration in March 2026.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (FARA No. 7705 registration statement, short forms and Exhibit AB, received 2026-03-23, seen via search extracts). The foreign principal is the Taipei Economic and Cultural Representative Office in the United States. Schiller signed the Exhibit AB on 2026-03-23. Fee and scope could not be read because efile.fara.gov is not reachable from here. The FARA registry also shows a 2026-09-25 date for No. 7705 whose meaning (possibly an amendment or termination) we could not establish. Bloomberg Government reported in May 2026 that TECRO also retained Checkmate Government Relations ahead of the US-China summit. So both Pakistan (in 2025) and Taiwan (in 2026) hired Javelin and Checkmate in parallel. No reporting found on why TECRO hired Javelin. Note: the Dec 2025 DSCA notice of a Javelin anti-tank missile sale to TECRO concerns the weapon, not this firm.",
+      "sources": [
+        "https://efile.fara.gov/docs/7705-Registration-Statement-20260323-1.pdf",
+        "https://efile.fara.gov/docs/7705-Short-Form-20260323-1.pdf",
+        "https://efile.fara.gov/docs/7705-Exhibit-AB-20260323-1.pdf",
+        "https://news.bloomberglaw.com/bloomberg-government-news/taiwan-taps-trump-linked-lobby-firm-in-time-for-us-china-summit"
+      ]
+    },
+    {
+      "statement": "Taiwanese food group I-Mei Foods signed Javelin for US government relations tied to potential contracts; Schiller attended the signing in Taiwan.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: single-source (Taiwan News, relayed via search; the article could not be fetched, and its date is unknown). I-Mei said the engagement covers US government relations connected with potential contract opportunities, without naming the area. Schiller reportedly visited I-Mei's Longtan plant for the signing. An unofficial dossier says I-Mei appears on Javelin's LDA filing for Q4 2025 with a defense issue code; that detail is unverified.",
+      "sources": [
+        "https://www.taiwannews.com.tw/news/6263884"
+      ]
+    },
+    {
+      "statement": "Logical Strategies LLC, a New York entity with undisclosed owners, is a Javelin lobbying client; reportedly about $1.2M in Q3 2025 on EPA's asbestos rule.",
+      "verdict": "unverified",
+      "finding": "Evidence grade: documented that an LDA client record for Logical Strategies LLC exists with Schiller as contact (search extract of the Senate LDA API). The $1.2M amount and the asbestos-rule issue come only from an unofficial dossier site (ithildin.pages.dev) and could not be checked; a web search found no press coverage. If accurate, it would be Javelin's largest disclosed fee and would touch an EPA decision: under Administrator Lee Zeldin the EPA moved in 2025 to reconsider the 2024 chrysotile asbestos ban (EPN). Any link between the client and that decision is inferred only.",
+      "sources": [
+        "https://lda.senate.gov/api/v1/clients/68104/?format=api",
+        "https://ithildin.pages.dev/dossiers/javelin-advisors-llc",
+        "https://www.environmentalprotectionnetwork.org/chemical-lobby-tightens-its-grip-on-epa-undermining-asbestos-ban-and-putting-lives-at-risk/"
+      ]
+    },
+    {
+      "statement": "Javelin's Pakistan work had a rare-earths mandate and reached Trump allies in Congress (Ronny Jackson and others).",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented for the mandate (Global Witness, from FARA); single-source for the congressional contacts (Economic Times as relayed by Business Today and Bizz Buzz). Covered in C72. New here: Bizz Buzz says the outreach also targeted Texas Reps. Dan Crenshaw and Morgan Luttrell (spelled 'Dan Renshaw' in its text); we could not confirm which filing (Javelin's or Conscience Point's) records that. There is also an amended Exhibit AB for No. 7579, dated 2025-05-09. The engagement reportedly ended on 2025-10-08 (single-source, C72).",
+      "sources": [
+        "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid",
+        "https://www.businesstoday.in/world/us/story/ronny-jackson-former-white-house-doctor-identified-as-key-link-in-us-pakistans-500-million-mining-deal-509756-2026-01-07",
+        "https://www.bizzbuzz.news/international/trump-ally-ronny-jackson-linked-to-pakistans-500-million-mining-deal-during-op-sindoor-1383465",
+        "https://efile.fara.gov/docs/7579-Exhibit-AB-20250509-2.pdf"
+      ]
+    },
+    {
+      "statement": "Schiller and Sorial are shareholders in GreenMet, whose CEO Drew Horn brokers US-government ties for mining clients; Sorial's 'no management role' statement conflicts with a bio listing him on GreenMet's board.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented for the shareholdings (OCCRP/NPR 2026-01-22; CNBC via CB Insights). CNBC: the two helped set up GreenMet in 2021 and remain shareholders. Sorial told CNBC 'We are passive minority shareholders in GreenMet and have no management role in the company' and 'We are not actively involved with GreenMet or Greenland'. OCCRP/NPR listed Schiller as a director, and Horn said they no longer hold management roles. An undated biography of Sorial on acp-usa.org lists him as a member of GreenMet's board of directors, which conflicts with that statement. The bio may be stale; it is single-source and undated. An unofficial claim that both resigned in early 2025 is unverified.",
+      "sources": [
+        "https://www.hppr.org/2026-01-22/investigation-links-several-of-trumps-associates-to-mining-interests-in-greenland",
+        "https://www.cbinsights.com/company/greenmet/alternatives-competitors",
+        "https://www.acp-usa.org/node/649"
+      ]
+    },
+    {
+      "statement": "Since Nov 2024 GreenMet has sold US-government access to foreign mining clients: a $1M Kamituga Mining (DRC) contract in 2026, Locksley Resources (Australia) in 2025, and reported Nigeria/Cameroon deal-hunting.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented for Kamituga (O'Dwyer's, 2026-10-22, from the contract): a one-year, $1M contract effective Sept 30 (2026), paid in 12 monthly payments of $83,333.37, to reach the 'highest levels' of Washington for Kinshasa-based Kamituga Mining. Single-source for Locksley (E&E News, 2025-08-26: Horn represents the Australian antimony/rare-earth miner) and for Nigeria/Cameroon (billionaires.africa, 2026-06-10). GreenMet's own LDA record shows lobbying since 2021 (Legis1 counts 27 disclosures), on S.789 and other minerals bills, with in-house lobbyist Sabrina Katz registered in Sept 2025. GreenMet also announced a $150M, privately financed rare-earth hub in Rupert, West Virginia (July 2026). As shareholders, Schiller and Sorial stand to benefit from these contracts (NPR); no source says they worked on them.",
+      "sources": [
+        "https://www.odwyerpr.com/story/public/25497/2026-10-22/greenmet-gets-1m-pact-from-drc-mining-co.html",
+        "https://www.eenews.net/articles/former-trump-staffers-allies-angle-for-minerals-cash/",
+        "https://www.billionaires.africa/2026/06/10/trump-linked-greenmet-ceo-drew-horn-targets-nigeria-and-cameroon-for-critical-minerals-deals/",
+        "https://legis1.com/news/critical-minerals-lobbying-greenmet",
+        "https://www.mining.com/greenmet-plans-150m-rare-earth-processing-hub-in-west-virginia/"
+      ]
+    },
+    {
+      "statement": "US decisions touched Schiller/Sorial-linked clients: EXIM's $120M Tanbreez letter (GreenMet partner), Pakistan's 2025 gains, and the US-DRC minerals framework.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented that the decisions happened (C72, C75, C77); inferred that they relate to Schiller/Sorial. EXIM sent a $120M non-binding letter of interest to Critical Metals for Tanbreez in June 2025; GreenMet is Critical Metals' development partner. Pakistan's 2025-26 gains (ceasefire credit, Munir lunch, 19% tariff, USSM minerals MoU) are in C72. The US-DRC strategic minerals partnership (Dec 2025) predates GreenMet's Kamituga contract. Daibes got no clemency, and none has been found for Lindberg. No source credits Schiller, Sorial or their firms with any of these outcomes.",
+      "sources": [
+        "https://www.miningweekly.com/article/us-export-import-bank-considers-120m-loan-for-greenland-rare-earths-project-2025-06-17",
+        "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid",
+        "https://www.odwyerpr.com/story/public/25497/2026-10-22/greenmet-gets-1m-pact-from-drc-mining-co.html",
+        "https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278"
+      ]
+    },
+    {
+      "statement": "Schiller and Sorial have documented White House access or official meetings since Nov 2024.",
+      "verdict": "unverified",
+      "finding": "Evidence grade: none found. We found no visitor-log entry, reported meeting, or White House statement placing Schiller or Sorial with Trump or senior officials since November 2024. NBC's sources say Daibes hired Schiller for a 'full court press on the White House', which describes the pitch, not proven access. Vanity Fair (Mar 2026) reports that a lobbyist asked senior officials to review Lindberg's application; we could not confirm that this was Schiller. Their access is presumed in the coverage because of their history (Schiller was Trump's bodyguard for nearly two decades and Oval Office operations director in 2017; Sorial was Trump Organization EVP and chief compliance counsel), but it is not documented. An unofficial dossier reports a joint $5,000 donation to Sen. Katie Britt's joint fundraising committee in Sept 2025, and C72 notes an unofficial claim of a $4,000 contribution to Ronny Jackson; neither was verified against FEC records.",
+      "sources": [
+        "https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278",
+        "https://lda.senate.gov/filings/public/filing/60b0d04c-df82-4b3e-a379-41e7617eb49d/print"
+      ]
+    }
+  ],
+  "corrections": [
+    "Brief describes Javelin as Schiller and Sorial's firm; FARA filings show a third equal owner, Robert Seiden, whose law firm was Pakistan's prime contractor.",
+    "Brief cites Daibes' '$1M' as established; the amount rests on NBC's three unnamed sources, while the LDA forms establish the engagement and its 'executive relief' purpose.",
+    "Brief implies GreenMet holds Tanbreez equity; it is a development partner, and Critical Metals (92.5%) and European Lithium hold the project (C77)."
+  ],
+  "denials_and_context": [
+    "Sorial (to CNBC): 'We are passive minority shareholders in GreenMet and have no management role'; Horn says they hold no management roles. An undated bio still lists Sorial on GreenMet's board.",
+    "Daibes' lawyer: no work with Schiller or Javelin since June 2025. Schiller and Javelin did not answer NBC. The White House does not comment on pardons.",
+    "Lindberg's lawyer: pardons should be given when the facts warrant it. Opposed by NC Commissioner Causey and Sen. Tillis.",
+    "FARA and LDA registration is disclosure, not wrongdoing. No source alleges that Schiller or Sorial broke the law or produced any government outcome.",
+    "efile.fara.gov, lda.senate.gov and most news sites could not be fetched here; filing contents come from search-engine extracts, and fee and scope details for FARA 7705 remain unread."
+  ],
+  "sources": [
+    {
+      "title": "Former Trump advisors launch government relations and consulting firm Javelin Advisors LLC",
+      "publisher": "PR Newswire",
+      "url": "https://prnewswire.com/news-releases/former-trump-advisors-launch-government-relations-and-consulting-firm-javelin-advisors-llc-302335226.html",
+      "date": "2024-12"
+    },
+    {
+      "title": "Javelin Advisors LDA registration",
+      "publisher": "US Senate LDA",
+      "url": "https://lda.senate.gov/filings/public/filing/60b0d04c-df82-4b3e-a379-41e7617eb49d/print",
+      "date": "2025-01"
+    },
+    {
+      "title": "Javelin Advisors LDA registrant record",
+      "publisher": "US Senate LDA",
+      "url": "https://lda.senate.gov/api/v1/registrants/401109020/?format=api",
+      "date": ""
+    },
+    {
+      "title": "Logical Strategies LLC LDA client record",
+      "publisher": "US Senate LDA",
+      "url": "https://lda.senate.gov/api/v1/clients/68104/?format=api",
+      "date": ""
+    },
+    {
+      "title": "FARA registration statement No. 7579 (Pakistan)",
+      "publisher": "DOJ FARA",
+      "url": "https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf",
+      "date": "2025-04-25"
+    },
+    {
+      "title": "FARA No. 7579 Exhibit AB (amended)",
+      "publisher": "DOJ FARA",
+      "url": "https://efile.fara.gov/docs/7579-Exhibit-AB-20250509-2.pdf",
+      "date": "2025-05-09"
+    },
+    {
+      "title": "FARA registration statement No. 7705 (TECRO)",
+      "publisher": "DOJ FARA",
+      "url": "https://efile.fara.gov/docs/7705-Registration-Statement-20260323-1.pdf",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "FARA No. 7705 Exhibit AB",
+      "publisher": "DOJ FARA",
+      "url": "https://efile.fara.gov/docs/7705-Exhibit-AB-20260323-1.pdf",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "FARA No. 7705 short form",
+      "publisher": "DOJ FARA",
+      "url": "https://efile.fara.gov/docs/7705-Short-Form-20260323-1.pdf",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "New Jersey businessman paid $1M to a lobbying firm to try to get a pardon from Trump",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278",
+      "date": "2025-10"
+    },
+    {
+      "title": "Fred Daibes hired lobbying firm for clemency",
+      "publisher": "NBC New York",
+      "url": "https://www.nbcnewyork.com/news/local/crime-and-courts/fred-daibes-hired-lobbying-firm-clemency-trump/6408580/?amp=1",
+      "date": "2025-10"
+    },
+    {
+      "title": "Trump pardons drive clemency lobbying (Stone, Boosie, Javelin)",
+      "publisher": "NOTUS",
+      "url": "https://www.notus.org/money/donald-trump-pardons-clemency-lobbyists-roger-stone-boosie-badazz",
+      "date": "2025"
+    },
+    {
+      "title": "Greg Lindberg hires Trump-linked lobbyists in bid for presidential pardon",
+      "publisher": "Insurance Business",
+      "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/greg-lindberg-hires-trumplinked-lobbyists-in-bid-for-presidential-pardon-554551.aspx",
+      "date": "2025"
+    },
+    {
+      "title": "Commissioner Causey urges President Trump not to pardon Greg Lindberg",
+      "publisher": "NC Department of Insurance",
+      "url": "https://www.ncdoi.gov/news/press-releases/2025/12/23/commissioner-causey-urges-president-trump-not-pardon-greg-lindberg",
+      "date": "2025-12-23"
+    },
+    {
+      "title": "NC insurance commissioner urges Trump not to pardon Lindberg",
+      "publisher": "NC Newsline",
+      "url": "https://ncnewsline.com/2025/12/24/nc-insurance-commissioner-urges-trump-not-to-pardon-convicted-felon-greg-lindberg/",
+      "date": "2025-12-24"
+    },
+    {
+      "title": "NC Insurance Commissioner urges President to not pardon Greg Lindberg",
+      "publisher": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/southeast/2026/01/09/853762.htm",
+      "date": "2026-01-09"
+    },
+    {
+      "title": "I-Mei Foods signs Javelin Advisors",
+      "publisher": "Taiwan News",
+      "url": "https://www.taiwannews.com.tw/news/6263884",
+      "date": ""
+    },
+    {
+      "title": "Taiwan taps Trump-linked lobby firm in time for US-China summit",
+      "publisher": "Bloomberg Government",
+      "url": "https://news.bloomberglaw.com/bloomberg-government-news/taiwan-taps-trump-linked-lobby-firm-in-time-for-us-china-summit",
+      "date": "2026-05"
+    },
+    {
+      "title": "Revealed: Trump-linked firms cash in on mineral lobbying deals as US cuts aid",
+      "publisher": "Global Witness",
+      "url": "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid",
+      "date": "2025-07"
+    },
+    {
+      "title": "Ronny Jackson identified as key link in US-Pakistan $500M mining deal",
+      "publisher": "Business Today",
+      "url": "https://www.businesstoday.in/world/us/story/ronny-jackson-former-white-house-doctor-identified-as-key-link-in-us-pakistans-500-million-mining-deal-509756-2026-01-07",
+      "date": "2026-01-07"
+    },
+    {
+      "title": "Trump ally Ronny Jackson linked to Pakistan's $500M mining deal",
+      "publisher": "Bizz Buzz",
+      "url": "https://www.bizzbuzz.news/international/trump-ally-ronny-jackson-linked-to-pakistans-500-million-mining-deal-during-op-sindoor-1383465",
+      "date": "2026-01"
+    },
+    {
+      "title": "Investigation links several of Trump's associates to mining interests in Greenland",
+      "publisher": "NPR (via HPPR)",
+      "url": "https://www.hppr.org/2026-01-22/investigation-links-several-of-trumps-associates-to-mining-interests-in-greenland",
+      "date": "2026-01-22"
+    },
+    {
+      "title": "GreenMet profile (citing CNBC)",
+      "publisher": "CB Insights",
+      "url": "https://www.cbinsights.com/company/greenmet/alternatives-competitors",
+      "date": ""
+    },
+    {
+      "title": "George Sorial biography",
+      "publisher": "acp-usa.org",
+      "url": "https://www.acp-usa.org/node/649",
+      "date": ""
+    },
+    {
+      "title": "GreenMet gets $1M pact from DRC mining co.",
+      "publisher": "O'Dwyer's",
+      "url": "https://www.odwyerpr.com/story/public/25497/2026-10-22/greenmet-gets-1m-pact-from-drc-mining-co.html",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Former Trump staffers, allies angle for minerals cash",
+      "publisher": "E&E News",
+      "url": "https://www.eenews.net/articles/former-trump-staffers-allies-angle-for-minerals-cash/",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "Critical minerals lobbying: GreenMet",
+      "publisher": "Legis1",
+      "url": "https://legis1.com/news/critical-minerals-lobbying-greenmet",
+      "date": ""
+    },
+    {
+      "title": "Trump-linked GreenMet CEO Drew Horn targets Nigeria and Cameroon",
+      "publisher": "Billionaires.Africa",
+      "url": "https://www.billionaires.africa/2026/06/10/trump-linked-greenmet-ceo-drew-horn-targets-nigeria-and-cameroon-for-critical-minerals-deals/",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "GreenMet plans $150M rare earth processing hub in West Virginia",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/greenmet-plans-150m-rare-earth-processing-hub-in-west-virginia/",
+      "date": "2026-07"
+    },
+    {
+      "title": "US EXIM considers $120M loan for Greenland rare earths project",
+      "publisher": "Mining Weekly (Reuters)",
+      "url": "https://www.miningweekly.com/article/us-export-import-bank-considers-120m-loan-for-greenland-rare-earths-project-2025-06-17",
+      "date": "2025-06-17"
+    },
+    {
+      "title": "Chemical lobby tightens its grip on EPA, undermining asbestos ban",
+      "publisher": "Environmental Protection Network",
+      "url": "https://www.environmentalprotectionnetwork.org/chemical-lobby-tightens-its-grip-on-epa-undermining-asbestos-ban-and-putting-lives-at-risk/",
+      "date": "2025"
+    },
+    {
+      "title": "Javelin Advisors LLC dossier (unofficial, unverified)",
+      "publisher": "ithildin.pages.dev",
+      "url": "https://ithildin.pages.dev/dossiers/javelin-advisors-llc",
+      "date": ""
+    }
+  ],
+  "entities": [
+    {
+      "id": "keith-schiller",
+      "name": "Keith Schiller",
+      "type": "person",
+      "description": "Trump's longtime bodyguard and 2017 Oval Office operations director; Javelin co-owner/managing director; GreenMet shareholder"
+    },
+    {
+      "id": "george-sorial",
+      "name": "George Sorial",
+      "type": "person",
+      "description": "Former Trump Organization EVP and chief compliance counsel; Javelin co-owner and FARA responsible officer; GreenMet shareholder"
+    },
+    {
+      "id": "robert-seiden",
+      "name": "Robert Seiden",
+      "type": "person",
+      "description": "Seiden Law founder; equal third co-owner of Javelin per FARA 7705"
+    },
+    {
+      "id": "javelin-advisors",
+      "name": "Javelin Advisors",
+      "type": "company",
+      "description": "Lobbying/FARA firm founded Dec 2024; clients include Pakistan (via Seiden), TECRO, Daibes, Lindberg, I-Mei Foods, Logical Strategies"
+    },
+    {
+      "id": "seiden-law",
+      "name": "Seiden Law LLP",
+      "type": "company",
+      "description": "Pakistan's $200K/month FARA contractor (No. 7570); subcontracted Javelin"
+    },
+    {
+      "id": "pakistan",
+      "name": "Pakistan",
+      "type": "country",
+      "description": "Javelin's first foreign client (2025), via Seiden Law"
+    },
+    {
+      "id": "fred-daibes",
+      "name": "Fred Daibes",
+      "type": "person",
+      "description": "Menendez briber; paid Javelin about $1M for clemency push; dropped it by Jun 2025"
+    },
+    {
+      "id": "greg-lindberg",
+      "name": "Greg Lindberg",
+      "type": "person",
+      "description": "Insurance financier who pleaded guilty to fraud and money laundering; hired Javelin for an executive pardon in 2025"
+    },
+    {
+      "id": "mike-causey",
+      "name": "Mike Causey",
+      "type": "person",
+      "description": "North Carolina Insurance Commissioner; urged Trump not to pardon Lindberg (Dec 2025)"
+    },
+    {
+      "id": "ed-martin",
+      "name": "Ed Martin",
+      "type": "person",
+      "description": "US Pardon Attorney"
+    },
+    {
+      "id": "tecro",
+      "name": "Taipei Economic and Cultural Representative Office in the US",
+      "type": "government",
+      "description": "Taiwan's de facto embassy; Javelin foreign principal under FARA 7705 (Mar 2026)"
+    },
+    {
+      "id": "taiwan",
+      "name": "Taiwan",
+      "type": "country",
+      "description": "Principal behind TECRO"
+    },
+    {
+      "id": "i-mei-foods",
+      "name": "I-Mei Foods",
+      "type": "company",
+      "description": "Taiwanese food group; hired Javelin for US government relations"
+    },
+    {
+      "id": "logical-strategies",
+      "name": "Logical Strategies LLC",
+      "type": "company",
+      "description": "New York LLC, owners undisclosed; Javelin LDA client with Schiller as contact"
+    },
+    {
+      "id": "checkmate-government-relations",
+      "name": "Checkmate Government Relations",
+      "type": "company",
+      "description": "Trump-linked lobbying firm; also worked Pakistan-linked (2025) and TECRO (2026) accounts"
+    },
+    {
+      "id": "ronny-jackson",
+      "name": "Ronny Jackson",
+      "type": "person",
+      "description": "Rep. (R-TX), Trump's former physician; reported contact in Pakistan's minerals push"
+    },
+    {
+      "id": "conscience-point-consulting",
+      "name": "Conscience Point Consulting",
+      "type": "company",
+      "description": "Seiden subcontractor on Pakistan"
+    },
+    {
+      "id": "greenmet",
+      "name": "GreenMet (Greentech Minerals Holdings)",
+      "type": "company",
+      "description": "Washington critical-minerals broker; Tanbreez partner; Kamituga $1M client"
+    },
+    {
+      "id": "drew-horn",
+      "name": "Drew Horn",
+      "type": "person",
+      "description": "GreenMet founder/CEO; former Pence policy director"
+    },
+    {
+      "id": "critical-metals-corp",
+      "name": "Critical Metals Corp",
+      "type": "company",
+      "description": "Owns Tanbreez; GreenMet partner"
+    },
+    {
+      "id": "tanbreez-project",
+      "name": "Tanbreez rare earth project",
+      "type": "asset",
+      "description": "Greenland heavy rare-earth deposit"
+    },
+    {
+      "id": "exim-bank",
+      "name": "Export-Import Bank of the US",
+      "type": "government",
+      "description": "Sent $120M letter of interest for Tanbreez (Jun 2025)"
+    },
+    {
+      "id": "kamituga-mining",
+      "name": "Kamituga Mining",
+      "type": "company",
+      "description": "Kinshasa-based miner; $1M GreenMet contract (2026)"
+    },
+    {
+      "id": "locksley-resources",
+      "name": "Locksley Resources",
+      "type": "company",
+      "description": "Australian antimony/rare-earth miner represented by Horn (2025)"
+    },
+    {
+      "id": "drc",
+      "name": "Democratic Republic of the Congo",
+      "type": "country",
+      "description": "US strategic minerals partner (Dec 2025)"
+    },
+    {
+      "id": "epa",
+      "name": "US Environmental Protection Agency",
+      "type": "government",
+      "description": "Reconsidered the 2024 asbestos ban in 2025"
+    },
+    {
+      "id": "lee-zeldin",
+      "name": "Lee Zeldin",
+      "type": "person",
+      "description": "EPA Administrator"
+    },
+    {
+      "id": "office-of-the-pardon-attorney",
+      "name": "Office of the Pardon Attorney",
+      "type": "government",
+      "description": "DOJ clemency office"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Sorial's and Schiller's former employer"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Target of the pardon lobbying"
+    },
+    {
+      "id": "nbc-news",
+      "name": "NBC News",
+      "type": "media",
+      "description": "Reported Daibes' $1M payment"
+    },
+    {
+      "id": "notus",
+      "name": "NOTUS",
+      "type": "media",
+      "description": "Reported Javelin's pardon clients"
+    },
+    {
+      "id": "occrp",
+      "name": "OCCRP",
+      "type": "media",
+      "description": "Exposed GreenMet's shareholders with NPR"
+    },
+    {
+      "id": "global-witness",
+      "name": "Global Witness",
+      "type": "media",
+      "description": "Reported Pakistan's minerals lobbying contracts"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "keith-schiller",
+      "target": "javelin-advisors",
+      "label": "one-third co-owner, managing director",
+      "type": "ownership",
+      "date": "2024-12"
+    },
+    {
+      "source": "george-sorial",
+      "target": "javelin-advisors",
+      "label": "one-third co-owner, managing director, FARA responsible officer",
+      "type": "ownership",
+      "date": "2024-12"
+    },
+    {
+      "source": "robert-seiden",
+      "target": "javelin-advisors",
+      "label": "one-third co-owner, managing director (FARA 7705)",
+      "type": "ownership",
+      "date": "2026-03-23"
+    },
+    {
+      "source": "robert-seiden",
+      "target": "seiden-law",
+      "label": "founder",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "pakistan",
+      "target": "seiden-law",
+      "label": "$200K/month minerals-promotion contract (FARA 7570)",
+      "type": "money",
+      "date": "2025-04-08",
+      "amount_usd": 200000
+    },
+    {
+      "source": "seiden-law",
+      "target": "javelin-advisors",
+      "label": "subcontract about $50K/month (a firm Seiden co-owns)",
+      "type": "money",
+      "date": "2025-04-24",
+      "amount_usd": 50000
+    },
+    {
+      "source": "javelin-advisors",
+      "target": "pakistan",
+      "label": "FARA agent No. 7579; reportedly ended 2025-10-08",
+      "type": "advisory",
+      "date": "2025-04-25"
+    },
+    {
+      "source": "javelin-advisors",
+      "target": "ronny-jackson",
+      "label": "contacted on rare-earths MoU (single-source)",
+      "type": "political",
+      "date": "2025-05-01"
+    },
+    {
+      "source": "fred-daibes",
+      "target": "javelin-advisors",
+      "label": "paid about $1M for clemency lobbying (NBC); ended by Jun 2025",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "greg-lindberg",
+      "target": "javelin-advisors",
+      "label": "hired to lobby for executive pardon",
+      "type": "money",
+      "date": "2025"
+    },
+    {
+      "source": "mike-causey",
+      "target": "donald-trump",
+      "label": "urged no pardon for Lindberg",
+      "type": "political",
+      "date": "2025-12-23"
+    },
+    {
+      "source": "tecro",
+      "target": "javelin-advisors",
+      "label": "foreign principal under FARA 7705",
+      "type": "advisory",
+      "date": "2026-03-23"
+    },
+    {
+      "source": "tecro",
+      "target": "checkmate-government-relations",
+      "label": "retained ahead of US-China summit",
+      "type": "advisory",
+      "date": "2026-05"
+    },
+    {
+      "source": "taiwan",
+      "target": "tecro",
+      "label": "represented by",
+      "type": "political",
+      "date": ""
+    },
+    {
+      "source": "i-mei-foods",
+      "target": "javelin-advisors",
+      "label": "US government-relations contract (Taiwan News)",
+      "type": "commercial",
+      "date": ""
+    },
+    {
+      "source": "logical-strategies",
+      "target": "javelin-advisors",
+      "label": "LDA client, Schiller as contact; $1.2M Q3 2025 unverified",
+      "type": "money",
+      "date": "2025"
+    },
+    {
+      "source": "keith-schiller",
+      "target": "greenmet",
+      "label": "shareholder; director per OCCRP (says passive)",
+      "type": "ownership",
+      "date": "2021"
+    },
+    {
+      "source": "george-sorial",
+      "target": "greenmet",
+      "label": "shareholder; board member per ACP bio (says no management role)",
+      "type": "ownership",
+      "date": "2021"
+    },
+    {
+      "source": "drew-horn",
+      "target": "greenmet",
+      "label": "founder/CEO",
+      "type": "ownership",
+      "date": "2021"
+    },
+    {
+      "source": "greenmet",
+      "target": "critical-metals-corp",
+      "label": "Tanbreez development partner",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "exim-bank",
+      "target": "critical-metals-corp",
+      "label": "$120M letter of interest for Tanbreez",
+      "type": "money",
+      "date": "2025-06",
+      "amount_usd": 120000000
+    },
+    {
+      "source": "kamituga-mining",
+      "target": "greenmet",
+      "label": "$1M one-year US government-relations contract",
+      "type": "money",
+      "date": "2026-09-30",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "drew-horn",
+      "target": "locksley-resources",
+      "label": "represents in Washington",
+      "type": "advisory",
+      "date": "2025-08"
+    },
+    {
+      "source": "keith-schiller",
+      "target": "donald-trump",
+      "label": "former bodyguard; Oval Office operations director 2017",
+      "type": "political",
+      "date": "2017"
+    },
+    {
+      "source": "george-sorial",
+      "target": "trump-organization",
+      "label": "former EVP and chief compliance counsel",
+      "type": "advisory",
+      "date": ""
+    },
+    {
+      "source": "keith-schiller",
+      "target": "trump-organization",
+      "label": "former head of security",
+      "type": "advisory",
+      "date": ""
+    },
+    {
+      "source": "ed-martin",
+      "target": "office-of-the-pardon-attorney",
+      "label": "heads",
+      "type": "political",
+      "date": ""
+    },
+    {
+      "source": "lee-zeldin",
+      "target": "epa",
+      "label": "administrator",
+      "type": "political",
+      "date": "2025-01"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Javelin's TECRO (Taiwan) registration and what Taiwan wanted from the White House in 2026",
+      "why_connected": "Taiwan's de facto embassy hired a firm owned by Trump's ex-bodyguard and ex-Trump Org counsel, and separately Checkmate, before the US-China summit; scope, fees and any outcomes are unknown.",
+      "entities": [
+        "tecro",
+        "javelin-advisors",
+        "checkmate-government-relations",
+        "keith-schiller",
+        "george-sorial"
+      ],
+      "source_url": "https://news.bloomberglaw.com/bloomberg-government-news/taiwan-taps-trump-linked-lobby-firm-in-time-for-us-china-summit"
+    },
+    {
+      "title": "Logical Strategies LLC: who is behind Javelin's largest reported client?",
+      "why_connected": "An anonymous New York LLC reportedly paid Javelin about $1.2M in one quarter on EPA asbestos policy while the EPA reconsidered the asbestos ban; this needs the LDA filings and NY LLC records.",
+      "entities": [
+        "logical-strategies",
+        "javelin-advisors",
+        "keith-schiller",
+        "epa"
+      ],
+      "source_url": "https://lda.senate.gov/api/v1/clients/68104/?format=api"
+    },
+    {
+      "title": "Greg Lindberg clemency request",
+      "why_connected": "A pardon bid run through Trump's ex-bodyguard, opposed by the bribed regulator and Sen. Tillis; whether Pardon Attorney Ed Martin acted on it is open.",
+      "entities": [
+        "greg-lindberg",
+        "javelin-advisors",
+        "ed-martin",
+        "mike-causey"
+      ],
+      "source_url": "https://www.insurancejournal.com/news/southeast/2026/01/09/853762.htm"
+    },
+    {
+      "title": "GreenMet's Kamituga Mining contract and the US-DRC minerals partnership",
+      "why_connected": "A Schiller/Sorial-owned firm is paid $1M to reach the 'highest levels' of Washington for a DRC miner while the US is funding DRC minerals deals (C75).",
+      "entities": [
+        "greenmet",
+        "kamituga-mining",
+        "drc",
+        "drew-horn"
+      ],
+      "source_url": "https://www.odwyerpr.com/story/public/25497/2026-10-22/greenmet-gets-1m-pact-from-drc-mining-co.html"
+    }
+  ]
+}

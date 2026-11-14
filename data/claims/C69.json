@@ -3,7 +3,7 @@
  "title": "Master timeline: money events versus government actions",
  "verdict": "partly-accurate",
  "confidence": "medium",
- "summary": "We built a 277-event master timeline from the 81 claim files plus 19 verified additions (data/timeline.json). Most close pairs of a money event and an official act involving the same counterparty within 45 days had already been connected by the individual reports (Sun/SEC, MGX/Binance, Paramount/FCC, Winklevoss/CFTC). The new pairs come mainly from dating the October 2025 ballroom donor list against federal actions: Microsoft's UAE chip licences, Lockheed's F-35 contract, Google's OneGov deal, plus Pakistan's EXIM loan followed by the USD1 MoU and the EA/CFIUS clearance followed by LIV at Bedminster. All are timing proximity only, graded inferred, and several have documented innocent explanations or timing that cuts against a favour reading. No source we found asserts that any of the new pairs is linked.",
+ "summary": "We built a 272-event master timeline (277 before the Nov 2026 audit merged duplicate pardon and ballroom rows) from the 81 claim files plus 19 verified additions (data/timeline.json). Most close pairs of a money event and an official act involving the same counterparty within 45 days had already been connected by the individual reports (Sun/SEC, MGX/Binance, Paramount/FCC, Winklevoss/CFTC). The new pairs come mainly from dating the October 2025 ballroom donor list against federal actions: Microsoft's UAE chip licences, Lockheed's F-35 contract, Google's OneGov deal, plus Pakistan's EXIM loan followed by the USD1 MoU and the EA/CFIUS clearance followed by LIV at Bedminster. All are timing proximity only, graded inferred, and several have documented innocent explanations or timing that cuts against a favour reading. No source we found asserts that any of the new pairs is linked.",
  "sub_claims": [
   {
    "statement": "Method: a script over all 81 claim files extracted 489 dated events (397 from relationship edges, 92 from dated sentences in sub-claim findings) and found 51 money/official pairs sharing a counterparty within 45 days; after hand review and a report cross-check, nearly all were either already connected by the original reports or artefacts.",
@@ -14,7 +14,7 @@
   {
    "statement": "Microsoft: Commerce approved its UAE Nvidia-chip export licences in September 2025, roughly 2-6 weeks before Microsoft appeared among ballroom donors at the 15 Oct 2025 East Room dinner (list published 23 Oct); a $10M amount was later reported.",
    "verdict": "confirmed",
-   "finding": "Grade: inferred timing proximity; no source we found links the licence to the donation. Dates: Brad Smith disclosed on 2025-11-03 that the licences (about 60,400 A100-equivalents including GB300s) were approved in September 2025; the exact day is not public, so the gap to the 15 Oct dinner is between about 14 and 44 days. Microsoft was on the White House's 23 Oct 2025 list (CNBC, NBC); WaPo-sourced reporting puts its gift at $10M, but the date of the gift itself is not public. Context that cuts the other way: on 2025-09-02 Microsoft gave GSA a OneGov discount worth an estimated $3.1B in year one (a concession to the government, not a benefit to Microsoft), and on 2025-09-26 Trump publicly demanded Microsoft fire Lisa Monaco (C68). Microsoft framed the licences as the result of stricter safeguards; G42, which Microsoft partly owns, still had to wait until 2025-11-19.",
+   "finding": "Grade: inferred timing proximity; no source we found links the licence to the donation. Dates: Brad Smith disclosed on 2025-11-03 that the licences (about 60,400 A100-equivalents including GB300s) were approved in September 2025; the exact day is not public, so the gap to the 15 Oct dinner is between about 15 and 44 days. Microsoft was on the White House's 23 Oct 2025 list (CNBC, NBC); WaPo-sourced reporting puts its gift at $10M, but the date of the gift itself is not public. Context that cuts the other way: on 2025-09-02 Microsoft gave GSA a OneGov discount worth an estimated $3.1B in year one (a concession to the government, not a benefit to Microsoft), and on 2025-09-26 Trump publicly demanded Microsoft fire Lisa Monaco (C68). Microsoft framed the licences as the result of stricter safeguards; G42, which Microsoft partly owns, still had to wait until 2025-11-19.",
    "sources": [
     "https://www.cnbc.com/2025/11/03/nvidia-shares-rise-after-us-approves-chip-sales-to-the-uae.html",
     "https://www.datacenterdynamics.com/en/news/microsoft-becomes-first-company-granted-export-license-by-us-govt-to-ship-nvidia-gpus-to-uae/",
@@ -89,7 +89,7 @@
   {
    "statement": "Nvidia's $25M anonymous ballroom commitment is dated October 2025 in the WaPo spreadsheet. Commerce approved Nvidia-chip sales to G42 and Humain on 19 Nov 2025 (about 19-49 days later), and Trump allowed H200 sales to China on 8 Dec 2025.",
    "verdict": "confirmed",
-   "finding": "Grade: single-source for the gift date (WaPo, via TNW and others). C68 already connects the gift with the export decisions, so this pair is not new. The WaPo account places the gift after the August 2025 China chip arrangement. Nvidia says its support is 'independent of any business interests'.",
+   "finding": "Grade: single-source for the gift date (WaPo, via TNW and others); the link between gift and approvals is inferred, and no source asserts causation. C68 already connects the gift with the export decisions, so this pair is not new. The WaPo account places the gift after the August 2025 China chip arrangement. Nvidia says its support is 'independent of any business interests'.",
    "sources": [
     "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
     "https://www.implicator.ai/nvidia-and-apple-each-committed-25-million-to-trumps-ballroom-leaked-list-shows/"
@@ -98,7 +98,7 @@
   {
    "statement": "Binance: 49 days after CZ's pardon (23 Oct 2025), Binance moved its BUSD-backed B-Token reserves into USD1 (11 Dec 2025).",
    "verdict": "confirmed",
-   "finding": "Grade: documented sequence. Decrypt and others framed it as 'following founder's pardon', and C10 records the switch, so the pair is not new. A Binance spokesperson told Decrypt there is no connection. It falls just outside the 45-day window.",
+   "finding": "Grade: documented sequence; the link is inferred (no source asserts causation). The pardon was signed on 22 Oct and announced on 23 Oct, so the gap is 49-50 days. Decrypt and others framed it as 'following founder's pardon', and C10 records the switch, so the pair is not new. A Binance spokesperson told Decrypt there is no connection. It falls just outside the 45-day window.",
    "sources": [
     "https://decrypt.co/352035/binance-deepens-ties-trump-backed-stablecoin-following-founders-pardon"
    ]
@@ -127,7 +127,7 @@
  ],
  "corrections": [
   "The heuristic 'same counterparty within 45 days' mostly re-finds pairs the reports already made. The new findings rest on manual cross-referencing, and the gift dates for most ballroom donors are not public: only the 15 Oct dinner and the 23 Oct 2025 list are, so day gaps for those pairs are measured from the list, not from the payment.",
-  "Microsoft's licence approval is dated only to 'September 2025', so its gap is a range (about 14-44 days to the dinner)."
+  "Microsoft's licence approval is dated only to 'September 2025', so its gap is a range (about 15-44 days to the dinner)."
  ],
  "denials_and_context": [
   "Nvidia says its ballroom support is independent of business interests. Binance says USD1 integration is unrelated to the pardon. WLF says it is not compensated under the Pakistan MoU. The Trust for the National Mall says anonymous giving is ordinary nonprofit practice.",
@@ -338,6 +338,78 @@
    "publisher": "The Block",
    "url": "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
    "date": "2026-10-16"
+  },
+  {
+   "title": "Microsoft gets a rare U.S. export license for UAE AI chips",
+   "publisher": "Implicator.ai",
+   "url": "https://www.implicator.ai/microsoft-gets-a-rare-u-s-export-license-for-uae-ai-chips/",
+   "date": "2025-11"
+  },
+  {
+   "title": "Microsoft says UAE AI chip approval 'first step' for Emirati access",
+   "publisher": "Semafor",
+   "url": "https://www.semafor.com/article/11/10/2025/microsofts-uae-ai-chip-approval-a-first-step-for-emirati-access-executive",
+   "date": "2025-11-10"
+  },
+  {
+   "title": "JPO and Lockheed Martin finalize F-35 contract for Lots 18 and 19",
+   "publisher": "The Aviationist",
+   "url": "https://theaviationist.com/2025/09/30/f-35-contract-lots-18-and-19/",
+   "date": "2025-09-30"
+  },
+  {
+   "title": "Lockheed Martin secures $12.5 billion Lot 18-19 F-35 production contract",
+   "publisher": "Shephard Media",
+   "url": "https://www.shephardmedia.com/news/air-warfare/lockheed-martin-secures-125-billion-lot-18-19-f-35-production-contract/",
+   "date": "2025-09-30"
+  },
+  {
+   "title": "GSA, Google launch Gemini AI program for US government",
+   "publisher": "TechRepublic",
+   "url": "https://www.techrepublic.com/article/news-google-gemini-for-government/",
+   "date": "2025-08-22"
+  },
+  {
+   "title": "YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension",
+   "publisher": "NPR",
+   "url": "https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement",
+   "date": "2025-09-29"
+  },
+  {
+   "title": "Global lenders secure $3.5bn debt package for Reko Diq",
+   "publisher": "Geo News",
+   "url": "https://www.geo.tv/latest/636072-global-lenders-secure-35bn-debt-package-for-reko-diq",
+   "date": "2025-12"
+  },
+  {
+   "title": "Pakistan signs agreement to explore stablecoin USD1 for cross-border payments",
+   "publisher": "ProPakistani",
+   "url": "https://propakistani.pk/2026/01/14/pakistan-signs-agreement-to-explore-stablecoin-usd1-for-cross-border-payments/",
+   "date": "2026-01-14"
+  },
+  {
+   "title": "Electronic Arts merger sets 4 August close",
+   "publisher": "9fin",
+   "url": "https://9fin.com/insights/electronic-arts-merger-sets-4-august-close",
+   "date": "2026-07"
+  },
+  {
+   "title": "The EU cleared the Saudi-Kushner buyout of Electronic Arts and now only Washington stands in the way",
+   "publisher": "Startup Fortune",
+   "url": "https://startupfortune.com/the-eu-cleared-the-saudi-kushner-buyout-of-electronic-arts-and-now-only-washington-stands-in-the-way/",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "US approves $8.6bn in arms sales to Middle East allies",
+   "publisher": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies",
+   "date": "2026-05-03"
+  },
+  {
+   "title": "US bypasses congressional review for military sales of $8.6 billion to Middle East allies",
+   "publisher": "Reuters via Profit (Pakistan Today)",
+   "url": "https://profit.pakistantoday.com.pk/2026/05/02/us-bypasses-congressional-review-for-military-sales-of-8-6-billion-to-middle-east-allies",
+   "date": "2026-05-02"
   }
  ],
  "entities": [
@@ -872,5 +944,104 @@
    ],
    "source_url": "https://www.dawn.com/news/1960428/us-exim-bank-okays-12bn-for-reko-diq"
   }
- ]
+ ],
+ "audit": {
+  "checked": [
+   "Pair A (Microsoft): Commerce approval of Microsoft's UAE licences in Sep 2025, disclosed 3 Nov 2025, vs the 15 Oct 2025 donor dinner",
+   "Pair B (Lockheed): $12.5B F-35 Lot 18-19 modification on 29 Sep 2025",
+   "Pair C (Google): GSA 'Gemini for Government' OneGov deal on 21 Aug 2025 vs the YouTube $24.5M settlement on 29 Sep 2025",
+   "Pair D (Pakistan): EXIM $1.25B Reko Diq approval (reported 28 Nov, announced 10 Dec 2025) vs the 14 Jan 2026 USD1 MoU signed by Zach Witkoff",
+   "Pair E (PIF): EA 8-K of 30 Jul 2026 (all regulatory approvals), close 4 Aug 2026, vs LIV Golf New York at Bedminster 6-9 Aug 2026",
+   "Pair F (Qatar): Rubio emergency waiver and $4.01B Patriot sale on 1 May 2026",
+   "Every pair is graded inferred and is described without causal wording",
+   "Spot check of 20+ data/timeline.json rows against their claim files"
+  ],
+  "result": "upheld",
+  "changes": [
+   "All six main pairs re-dated with fresh searches through different outlets: Microsoft (Implicator, Semafor, UPI: approval in Sep 2025, disclosed 3 Nov), Lockheed (The Aviationist, Shephard, Air & Space Forces: 29 Sep 2025, $12.5B), Google (TechRepublic, Ground News: announced Thursday 21 Aug 2025) and YouTube (NPR, Al Jazeera: 29 Sep 2025), Pakistan (Geo, Aaj, ProPakistani: EXIM approval late Nov after the shutdown delay, MoU 14 Jan 2026), EA (9fin, Startup Fortune: EU clearance 23 Jul, 8-K 30 Jul saying all approvals obtained without naming CFIUS, close end of trading 4 Aug 2026), Qatar (Al Jazeera, Reuters via Profit: waiver announced 1-2 May 2026). All dates and day gaps upheld.",
+   "Microsoft gap corrected from 'about 14-44 days' to 'about 15-44 days' (an approval anywhere in September is 15 to 44 days before 15 Oct).",
+   "Wording: no causal language found in the pair findings, relationship labels or report. Made 'inferred' explicit for the two pairs that were graded only on their dates: Nvidia (gift date single-source; link inferred) and Binance (sequence documented; link inferred; pardon signed 22 Oct, announced 23 Oct, so 49-50 days).",
+   "timeline.json: Witkoff $100M row said the lender was an 'Apollo-run trust (partly Qatar-owned)'; per the NYT correction recorded in C53/C73 the lender was Apollo itself. Title corrected.",
+   "timeline.json: Justin Sun's 2024-11 row carried the full $75M although only $30M was bought in Nov 2024 (the $45M top-up is dated 2025-01-20 and the $30M is a separate 2024-11-25 row). Amount blanked and title clarified to avoid double counting. The underlying C06/C43 edge still dates the $75M to 2024-11; flagged for those files' owners.",
+   "timeline.json: two personal financial transactions by officials were classified as official acts: Bondi's Apr 2, 2025 TMTG share sale and Gruenbaum's reported Thrive SPV investment. Both reclassified as money, with a note that they are not official acts. Bondi's sale is now given as $1M-$5M (C65).",
+   "timeline.json: duplicates merged. Milton pardon appeared on 27 Mar (C61) and 28 Mar 2025 (C36, C49, C64, C65): kept one row on 28 Mar (White House confirmation; Milton announced it on 27 Mar), with all claims. CZ pardon appeared four times (2025-10, 22 Oct twice, 23 Oct): kept one row on 23 Oct noting the 22 Oct signing, with all claims and parties.",
+   "timeline.json: the five 'committed (WaPo leak)' ballroom rows are dated 2026-10-15, which is the date the leak was published, not the date of the gift. Titles now say so. The Nvidia one duplicated the 2025-10 row (dated per the WaPo spreadsheet) and was removed.",
+   "Event count is now 272 (253 from claim edges plus 19 verified additions): 108 money, 164 official. Summary, report method paragraph and the master table were regenerated to match.",
+   "Spot-checked rows with no change needed: F-35 29 Sep 2025, Gemini OneGov 21 Aug 2025, YouTube 29 Sep 2025, Microsoft licences Sep 2025, EXIM 10 Dec 2025, Pakistan MoU 14 Jan 2026, EA 30 Jul 2026, Rubio waiver 1 May 2026, Bondi appointment Feb 2025, Bondi jet memo May 2025, Patel Doha agreements Dec 2025, Blanche's 16 Sep 2026 refusal (C76), Quintenz withdrawal 30 Sep 2025, Ripple appeal dropped 7 Aug 2025, Sun SEC stay 26 Feb 2025, Gemini CFTC motion 27 May 2026, Winklevoss gifts 19 Jun 2026."
+  ],
+  "new_sources": [
+   {
+    "title": "Microsoft gets a rare U.S. export license for UAE AI chips",
+    "publisher": "Implicator.ai",
+    "url": "https://www.implicator.ai/microsoft-gets-a-rare-u-s-export-license-for-uae-ai-chips/",
+    "date": "2025-11"
+   },
+   {
+    "title": "Microsoft says UAE AI chip approval 'first step' for Emirati access",
+    "publisher": "Semafor",
+    "url": "https://www.semafor.com/article/11/10/2025/microsofts-uae-ai-chip-approval-a-first-step-for-emirati-access-executive",
+    "date": "2025-11-10"
+   },
+   {
+    "title": "JPO and Lockheed Martin finalize F-35 contract for Lots 18 and 19",
+    "publisher": "The Aviationist",
+    "url": "https://theaviationist.com/2025/09/30/f-35-contract-lots-18-and-19/",
+    "date": "2025-09-30"
+   },
+   {
+    "title": "Lockheed Martin secures $12.5 billion Lot 18-19 F-35 production contract",
+    "publisher": "Shephard Media",
+    "url": "https://www.shephardmedia.com/news/air-warfare/lockheed-martin-secures-125-billion-lot-18-19-f-35-production-contract/",
+    "date": "2025-09-30"
+   },
+   {
+    "title": "GSA, Google launch Gemini AI program for US government",
+    "publisher": "TechRepublic",
+    "url": "https://www.techrepublic.com/article/news-google-gemini-for-government/",
+    "date": "2025-08-22"
+   },
+   {
+    "title": "YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement",
+    "date": "2025-09-29"
+   },
+   {
+    "title": "Global lenders secure $3.5bn debt package for Reko Diq",
+    "publisher": "Geo News",
+    "url": "https://www.geo.tv/latest/636072-global-lenders-secure-35bn-debt-package-for-reko-diq",
+    "date": "2025-12"
+   },
+   {
+    "title": "Pakistan signs agreement to explore stablecoin USD1 for cross-border payments",
+    "publisher": "ProPakistani",
+    "url": "https://propakistani.pk/2026/01/14/pakistan-signs-agreement-to-explore-stablecoin-usd1-for-cross-border-payments/",
+    "date": "2026-01-14"
+   },
+   {
+    "title": "Electronic Arts merger sets 4 August close",
+    "publisher": "9fin",
+    "url": "https://9fin.com/insights/electronic-arts-merger-sets-4-august-close",
+    "date": "2026-07"
+   },
+   {
+    "title": "The EU cleared the Saudi-Kushner buyout of Electronic Arts and now only Washington stands in the way",
+    "publisher": "Startup Fortune",
+    "url": "https://startupfortune.com/the-eu-cleared-the-saudi-kushner-buyout-of-electronic-arts-and-now-only-washington-stands-in-the-way/",
+    "date": "2026-07-23"
+   },
+   {
+    "title": "US approves $8.6bn in arms sales to Middle East allies",
+    "publisher": "Al Jazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies",
+    "date": "2026-05-03"
+   },
+   {
+    "title": "US bypasses congressional review for military sales of $8.6 billion to Middle East allies",
+    "publisher": "Reuters via Profit (Pakistan Today)",
+    "url": "https://profit.pakistantoday.com.pk/2026/05/02/us-bypasses-congressional-review-for-military-sales-of-8-6-billion-to-middle-east-allies",
+    "date": "2026-05-02"
+   }
+  ]
+ }
 }
