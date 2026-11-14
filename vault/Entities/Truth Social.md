@@ -2,8 +2,8 @@
 id: "truth-social"
 kind: "entity"
 type: "company"
-connections: 11
-claims: 6
+connections: 12
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -28,9 +28,11 @@ TMTG's social platform, 'the president's Twitter account', where he posts market
 - [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
 - [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
+- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 
 ## Relationships
 
+- [[Donald Trump]] *posted 'THIS IS A GREAT TIME TO BUY!!!' hours before tariff pause* [[Truth Social]] (2025-04-09, media) · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Donald Trump]] *posts stock tickers on* [[Truth Social]] (media) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Trump Media & Technology Group]] *owns* [[Truth Social]] (ownership) · [[C20 Trump's stock purchases and Truth Social posts|C20]] [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Trump Media & Technology Group]] *owns and operates* [[Truth Social]] (ownership) · [[C20 Trump's stock purchases and Truth Social posts|C20]]

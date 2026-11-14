@@ -161,12 +161,12 @@ The lead accurately describes what Matthew Cole's book 'Princes and Thieves' (Va
 - [[Jamie Raskin]] *demanded recusal and bank records from* [[Jared Kushner]] (2026-10, political) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Jared Kushner]] *founded (not named in alleged accounts)* [[Affinity Partners]] (ownership) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Jared Kushner]] *alleged signatory on account of (unverified; denied)* [[Watani Al Emarat Foundation]] (2017, money) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[The Jerusalem Post]] *pulled write-up citing 'significant factual questions' about* [[Princes and Thieves (book)]] (2026-10, media) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
+- [[The Jerusalem Post]] *pulled write-up citing 'significant factual questions' about (per Mediaite)* [[Princes and Thieves (book)]] (2026-10, media) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Jim Himes]] *co-wrote letter protesting complaint delay to* [[Tulsi Gabbard]] (2026-02-24, political) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Mark Warner]] *co-wrote letter protesting complaint delay to* [[Tulsi Gabbard]] (2026-02-24, political) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Matthew Cole]] *alleges (single source) access to ~$2B in Gulf-funded secret accounts* [[Jared Kushner]] (2026-10-22, media) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Mohamed bin Zayed]] *allegedly sent ~$1B via Azerbaijan to 'Beta' account at (unverified; disputed)* [[Bank of Israel]] (2018, $1B, money) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[National Security Agency]] *held intercept of two foreign nationals discussing* [[Jared Kushner]] (2025, regulatory) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
+- [[National Security Agency]] *reportedly held intercept of two foreign nationals discussing (per whistleblower complaint/WSJ; contents unverified)* [[Jared Kushner]] (2025, regulatory) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Simon & Schuster]] *published (released early 26 Oct)* [[Princes and Thieves (book)]] (2026-10-26, commercial) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Sheikh Tahnoon bin Zayed]] *chairs* [[First Abu Dhabi Bank]] (ownership) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Tom Cotton]] *defended; called complaint not credible* [[Tulsi Gabbard]] (2026-02, political) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
@@ -224,7 +224,7 @@ The most specific detail, the Bank of Israel "Beta" account, has drawn the most 
 - The Jerusalem Post pulled its own news write-up of the excerpt.
 - Former US ambassador David Friedman denies the role the book gives him.
 
-The Gabbard whistleblower complaint is real and well documented, but it is a **separate** story. It concerns an NSA-held intercept of two foreign nationals talking about Kushner, which the Wall Street Journal reported in Feb 2026. Its contents are classified, and some sources characterize it as "gossip." No outlet ties it to Cole's accounts. Kushner's legal threats against Condé Nast and Simon & Schuster are confirmed. No lawsuit had been reported by mid-Nov 2026.
+The Gabbard whistleblower complaint is real and well documented, but it is a **separate** story. According to the complaint as the Wall Street Journal reported it in Feb 2026, it concerns an intercept held by the NSA of two foreign nationals talking about Kushner. Its contents are classified, and some sources characterize it as "gossip." No outlet ties it to Cole's accounts. Kushner's legal threats against Condé Nast and Simon & Schuster are confirmed. No lawsuit had been reported by mid-Nov 2026.
 
 ### Scope and method
 
@@ -343,3 +343,16 @@ No primary Vanity Fair, book, WSJ or complaint text was read. Quotations are giv
 24. Sen. Mark Warner, Warner-Himes letter to DNI Gabbard, 2026-02-24. https://www.warner.senate.gov/public/_cache/files/8/3/836f0c01-f86f-426a-974f-dab79fc77b2d/3372B11CEA921CDE0840A871504C65524D34B180DC4A720A79E5C9317C74D43A.2.24.26-wb-letter-to-dni-gabbard.pdf
 25. Daily Beast, "Director of National Intelligence cites Donald Trump's executive privilege to block intel from Democrats", 2026. https://www.thedailybeast.com/director-of-national-intelligence-cites-donald-trumps-executive-privilege-to-block-intel-from-democrats
 26. Al Jazeera, "Tulsi Gabbard resigns as Trump's top US intelligence official", 2026-05-22. https://www.aljazeera.com/news/2026/5/22/tulsi-gabbard-resigns-as-trumps-top-us-intelligence-official
+
+
+### Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld** (language review only; no fresh searches)
+
+Checked:
+- Every account/money claim (FAB 'Alpha' ~$750M, Azerbaijan routing, Bank of Israel 'Beta' ~$1B, ~$2B total) is labelled as an allegation from Cole's book
+- Gabbard complaint: existence presented as fact, contents as unverified
+- Entity and relationship labels on named people and institutions
+
+Changes:
+- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Verdict 'unverified' upheld. Hedged four entity descriptions (First Abu Dhabi Bank, NSA, UAE, Saudi Arabia, MBZ) and two relationship labels (NSA intercept, Jerusalem Post pull) that read as fact rather than as single-source or reported claims. Made the same fix in the .md summary for the 'NSA-held intercept' phrasing. No factual claims re-verified.

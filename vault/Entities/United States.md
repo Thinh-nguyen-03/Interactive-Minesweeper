@@ -5,8 +5,8 @@ type: "country"
 aliases:
   - "America"
   - "US"
-connections: 7
-claims: 4
+connections: 8
+claims: 5
 tags:
   - "entity"
   - "type/country"
@@ -23,6 +23,7 @@ The country whose presidency is at issue.
 - [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
 - [[C17 Trump merchandise and the T1 phone]] · Mostly accurate
 - [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Pending
 
 ## Relationships
 

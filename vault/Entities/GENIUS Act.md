@@ -4,8 +4,8 @@ kind: "entity"
 type: "law"
 aliases:
   - "Genius Act"
-connections: 11
-claims: 3
+connections: 13
+claims: 4
 tags:
   - "entity"
   - "type/law"
@@ -19,15 +19,18 @@ Stablecoin law Trump pushed while his family profits from USD1.
 - Federal stablecoin law signed 2025-07-18
 - 2025 federal stablecoin law signed July 18, 2025
 - US stablecoin law signed July 2025
+- Stablecoin law signed Jul 18 2025
 
 ## Appears in claims
 
 - [[C11 GENIUS CLARITY Acts and USD1]] · Mostly accurate
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 
 ## Relationships
 
+- [[Bo Hines]] *pushed three-year transition period (WSJ)* [[GENIUS Act]] (2025, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[David Sacks]] *coordinated White House push for* [[GENIUS Act]] (2025-07, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Donald Trump]] *lobbied for and signed into law* [[GENIUS Act]] (2025-07-18, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Donald Trump]] *pushed, lobbied votes for* [[GENIUS Act]] (political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]

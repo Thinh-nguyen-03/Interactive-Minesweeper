@@ -6,8 +6,8 @@ aliases:
   - "Michael Selig"
   - "Mike selling"
   - "Mr. Seelig"
-connections: 9
-claims: 4
+connections: 15
+claims: 7
 tags:
   - "entity"
   - "type/person"
@@ -22,6 +22,7 @@ Trump-appointed CFTC chairman; denied favouritism when questioned in Congress ab
 - CFTC chairman, confirmed Dec 18, 2025
 - CFTC Chair from Dec 2025; led suits against states.
 - CFTC Chair; says the twins were 'politically targeted'
+- CFTC Chair since Dec 2025; ex-Willkie Farr crypto lawyer and SEC Crypto Task Force chief counsel
 
 ## Appears in claims
 
@@ -29,17 +30,25 @@ Trump-appointed CFTC chairman; denied favouritism when questioned in Congress ab
 - [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
 - [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Pending
 
 ## Relationships
 
 - [[Donald Trump]] *appointed CFTC chair* [[Mike Selig]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Donald Trump]] *nominated as CFTC Chair* [[Mike Selig]] (2025-10, political) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump]] *nominated as CFTC Chair* [[Mike Selig]] (2025-10, political) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Jim McGovern]] *asked about White House pressure on Polymarket probe* [[Mike Selig]] (2026-04-16, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Jim McGovern]] *asked whether White House sought to drop Polymarket probe* [[Mike Selig]] (2026-04-16, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Mike Selig]] *former client* [[Blockchain Association]] (commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Mike Selig]] *Chair (sworn in)* [[Commodity Futures Trading Commission]] (2025-12-22, regulatory) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Mike Selig]] *chair of* [[Commodity Futures Trading Commission]] (2025-12-18, regulatory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Mike Selig]] *chairman of* [[Commodity Futures Trading Commission]] (2025-12-18, regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] (regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Mike Selig]] *chairs; vowed to pursue insider trading* [[Commodity Futures Trading Commission]] (2026-04, regulatory) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[Mike Selig]] *chief counsel, Crypto Task Force* [[Securities and Exchange Commission]] (2025, regulatory) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Mike Selig]] *testified at* [[Selig congressional hearing]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Mike Selig]] *former partner representing crypto clients* [[Willkie Farr & Gallagher]] (commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Unnamed member of Congress]] *questioned on White House pressure* [[Mike Selig]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 
 ## Themes

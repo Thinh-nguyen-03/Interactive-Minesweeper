@@ -2,8 +2,8 @@
 id: "teresa-goody-guillen"
 kind: "entity"
 type: "person"
-connections: 6
-claims: 3
+connections: 7
+claims: 4
 tags:
   - "entity"
   - "type/person"
@@ -22,6 +22,7 @@ BakerHostetler lawyer-lobbyist for Binance/CZ and counsel to WLF
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Pending
 
 ## Relationships
 

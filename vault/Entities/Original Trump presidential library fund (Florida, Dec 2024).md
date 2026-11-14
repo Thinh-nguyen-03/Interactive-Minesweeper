@@ -25,7 +25,7 @@ First library nonprofit, incorporated 20 Dec 2024 and dissolved Sep 2025; settle
 
 ## Relationships
 
-- [[ABC News (Disney)]] *agreed to pay $15M (held in escrow) to settle defamation suit* [[Original Trump presidential library fund (Florida, Dec 2024)]] (2024-12-14, $15M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[ABC News]] *agreed to pay $15M (held in escrow) to settle defamation suit* [[Original Trump presidential library fund (Florida, Dec 2024)]] (2024-12-14, $15M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Jacob Roth]] *incorporated* [[Original Trump presidential library fund (Florida, Dec 2024)]] (2024-12-20, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Meta Platforms]] *settled suspension suit for $25M (~$22M to library)* [[Original Trump presidential library fund (Florida, Dec 2024)]] (2025-01-29, $22M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Paramount]] *settled '60 Minutes' suit for $16M incl. fees, remainder to library* [[Original Trump presidential library fund (Florida, Dec 2024)]] (2025-07-02, $16M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]

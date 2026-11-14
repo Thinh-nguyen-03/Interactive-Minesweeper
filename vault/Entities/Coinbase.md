@@ -2,8 +2,8 @@
 id: "coinbase"
 kind: "entity"
 type: "company"
-connections: 13
-claims: 5
+connections: 15
+claims: 6
 tags:
   - "entity"
   - "type/company"
@@ -27,9 +27,11 @@ Crypto exchange whose SEC lawsuit was dropped.
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 
 ## Relationships
 
+- [[Brett Redfearn]] *head of capital markets (ex-SEC)* [[Coinbase]] (commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Coinbase]] *donated to (parade sponsorship)* [[America250]] (2025-06, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Coinbase]] *named sponsor of* [[Army 250th Anniversary Parade]] (2025-06-14, commercial) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Coinbase]] *contributed $25M (2025)* [[Fairshake]] (2025, $25M, money) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]

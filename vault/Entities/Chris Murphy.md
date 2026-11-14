@@ -2,8 +2,8 @@
 id: "chris-murphy"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 5
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -14,10 +14,17 @@ tags:
 
 US senator who criticized Binance's promotion of Trump-linked crypto after the pardon.
 
+- US senator; co-led Nov 2025 inquiry into Witkoff's ethics filings
+- Senator co-leading the Witkoff ethics inquiry
+
 ## Appears in claims
 
 - [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
+- [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 
 ## Relationships
 
 - [[Chris Murphy]] *accused of promoting Trump-linked crypto after pardon* [[Binance]] (2025-10, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Chris Murphy]] *ethics inquiry: unsigned disclosure* [[Steve Witkoff]] (2025-11-18, regulatory) · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Chris Murphy]] *opened ethics inquiry (with Warren)* [[Steve Witkoff]] (2025-11-18, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]

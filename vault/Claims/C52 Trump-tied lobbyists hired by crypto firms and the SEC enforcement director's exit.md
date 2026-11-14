@@ -390,3 +390,14 @@ The Binance lobbying and pardon story is covered in C36. This file builds on tho
 - **Warren's claim that Atkins likely misled Congress** over enforcement data. https://cointelegraph.com/news/warren-claims-sec-atkins-likely-misled-congress-over-enforcement-data
 - **The Quintenz texts** showing Tyler Winklevoss pressing him on the Gemini litigation. https://ground.news/article/commodities-regulator-alleges-winklevoss-gemini-crypto-exchange-was-politically-targeted
 - **The Winklevoss-funded Digital Freedom Fund PAC** ($21M in BTC), whose reported members include Trump Jr., Sacks and Jeff Miller. https://bitcoinmagazine.com/news/winklevoss-twins-donated-bitcoin-to-trump
+
+
+### Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld** (language review only; no fresh searches)
+
+Checked:
+- Language review of summary and sub-claims for unattributed allegations
+
+Changes:
+- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the reason for Ryan's exit is attributed to anonymous Reuters sources and marked unverified, and the quid pro quo is marked unverified. No changes.

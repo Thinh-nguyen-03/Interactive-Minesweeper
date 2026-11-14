@@ -5,8 +5,8 @@ type: "media"
 aliases:
   - "WSJ"
   - "Wall Street Journal"
-connections: 27
-claims: 14
+connections: 31
+claims: 17
 tags:
   - "entity"
   - "type/media"
@@ -39,6 +39,9 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 
 ## Relationships
 
@@ -50,6 +53,7 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 - [[The Wall Street Journal]] *revealed stake* [[Aryam Investment 1]] (2026-02-01, media) · [[C14 Steve and Zach Witkoff|C14]]
 - [[The Wall Street Journal]] *reported Binance helped build USD1* [[Binance]] (2025-10, media) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[The Wall Street Journal]] *reported up to $5M success-fee offers* [[Binance]] (2025-12, media) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[The Wall Street Journal]] *reported Tether-Nxum payments* [[Bo Hines]] (2026-10-14, media) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[The Wall Street Journal]] *reported Tether stake* [[Cantor Fitzgerald]] (2024-11-24, media) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[The Wall Street Journal]] *profile 'go-to dealmaker'* [[Dominari Holdings Dominari Securities]] (2025-08-19, media) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[The Wall Street Journal]] *reported rival bids and Melania's >70% share* [[Melania (2026 film)]] (2025-01, media) · [[C44 Melania Trump's Amazon documentary deal|C44]]
@@ -58,6 +62,7 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 - [[The Wall Street Journal]] *reported equity-stake talks involving* [[Unusual Machines]] (2026-05-28, media) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[The Wall Street Journal]] *charted Binance-linked jumps in* [[USD1]] (media) · [[C10 Binance driving USD1 adoption|C10]]
 - [[The Wall Street Journal]] *charted adoption of (per video; not independently accessed)* [[USD1]] (media) · [[C10 Binance driving USD1 adoption|C10]]
+- [[The Wall Street Journal]] *counted at least $1.2B cash to the Trump family* [[World Liberty Financial]] (2026-02, $1.2B, media) · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[The Wall Street Journal]] *revealed the secret UAE stake in* [[World Liberty Financial]] (2026-02-01, media) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[White House Trump administration]] *denied wrongdoing in response to* [[The Wall Street Journal]] (2026-02, political) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 

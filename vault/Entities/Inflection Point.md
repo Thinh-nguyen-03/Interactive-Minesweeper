@@ -1,0 +1,19 @@
+---
+id: "inflection-point"
+kind: "entity"
+type: "fund"
+connections: 1
+claims: 1
+tags:
+  - "entity"
+  - "type/fund"
+---
+# Inflection Point
+
+*fund*
+
+Anchor investor of USA Rare Earth's $1.5B PIPE
+
+## Appears in claims
+
+- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate

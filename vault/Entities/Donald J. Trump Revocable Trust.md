@@ -2,8 +2,8 @@
 id: "donald-j-trump-revocable-trust"
 kind: "entity"
 type: "fund"
-connections: 5
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/fund"
@@ -21,6 +21,7 @@ Trust that largely owns TMTG.
 
 - [[C20 Trump's stock purchases and Truth Social posts]] · Mostly accurate
 - [[C21 TMTG's market-moving 'truths' API and Truth+]] · Mostly accurate
+- [[C63 Shell entities and ownership chains]] · Pending
 
 ## Relationships
 

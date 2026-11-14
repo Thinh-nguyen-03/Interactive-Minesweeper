@@ -2,8 +2,8 @@
 id: "qatari-diar"
 kind: "entity"
 type: "company"
-connections: 5
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -18,6 +18,7 @@ QIA real-estate subsidiary; master developer of Simaisma
 
 - [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
 - [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
 
 ## Relationships
 

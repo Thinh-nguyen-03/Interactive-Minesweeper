@@ -31,10 +31,13 @@ tags:
 ## Follow-up checks
 
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
+- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 
 ## Summary
 
-The Trump Organization does have a large and growing set of Trump-branded tower, hotel and golf licensing deals in the Gulf, mostly with Dar Global, the London-listed international arm of Saudi developer Dar Al Arkan. They are in Oman, Jeddah (two), Dubai, Qatar and Riyadh/Diriyah, and the licensing income runs to tens of millions of dollars a year. The brief overreaches on timing: Oman (2022), Trump Tower Jeddah (July 2024) and the first Dubai announcement (July 2024) came before the 2024 election. It also blurs the pledge. The 'no new foreign deals' promise belonged to the first term only. The January 2025 second-term policy bars deals with foreign governments but explicitly allows deals with private foreign companies. I found no Abu Dhabi deal, only talk of one.
+The Trump Organization does have a large and growing set of Trump-branded tower, hotel and golf licensing deals in the Gulf, mostly with Dar Global, the London-listed international arm of Saudi developer Dar Al Arkan. They are in Oman, Jeddah (two), Dubai, Qatar and Riyadh/Diriyah, and the licensing income runs to tens of millions of dollars a year. The brief overreaches on timing: Oman (2022), Trump Tower Jeddah (July 2024) and the first Dubai announcement (July 2024) came before the 2024 election. It also blurs the pledge. The 'no new foreign deals' promise belonged to the first term only. The January 2025 second-term policy bars deals with foreign governments but explicitly allows deals with private foreign companies. I found no Abu Dhabi deal, only talk of one. The Riyadh golf project sits inside the PIF-owned Diriyah Company's giga-project master plan, though the licence counterparty is Dar Global.
 
 ## Sub-claims
 
@@ -71,10 +74,13 @@ The Trump Organization does have a large and growing set of Trump-branded tower,
   - <https://easternherald.com/2026/07/02/trump-gulf-real-estate-damac-dar-al-arkan-licensing-fees/>
   - <https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/>
 - **Partly accurate**: State-linked counterparties are involved.
-  - Documented for Qatar: Qatari Diar is owned by the QIA sovereign fund. Forbes also reports that state-owned companies previously owned the land in Oman and Qatar, which it says appears to conflict with Trump's first-term pledge. Dar Global and Dar Al Arkan themselves are private and listed companies, not state entities. I could not verify, within this session's search budget, whether the Diriyah project sits on land of the PIF-owned Diriyah Company, so that is unverified.
+  - Documented for Qatar: Qatari Diar is owned by the QIA sovereign fund. Forbes also reports that state-owned companies previously owned the land in Oman and Qatar, which it says appears to conflict with Trump's first-term pledge. Dar Global and Dar Al Arkan themselves are private and listed companies, not state entities. Audit update: the Riyadh project (Trump International Golf Club, Wadi Safar, about 2.6M sq m) sits inside the Diriyah master plan developed by Diriyah Company, a wholly owned PIF subsidiary and one of PIF's giga-projects (about $63B). In Nov. 2025 the NYT reported the Trump Organization was in talks over joining the Saudi government-owned development, and Diriyah Company CEO Jerry Inzerillo said a deal was 'just a matter of time'. The licence itself is with Dar Global, which the company statement calls 'owner and developer of the property'; who holds title to the land parcel was not established.
   - <https://www.forbes.com/sites/giacomotognini/2025/05/17/the-saudi-real-estate-tycoon-whos-a-member-of-the-trump-family/>
   - <https://www.yahoo.com/news/exclusive-trumps-first-real-estate-142302695.html>
   - <https://www.motherjones.com/politics/2026/04/trump-iran-war-oman-golf-hotels/>
+  - <https://www.zawya.com/en/press-release/companies-news/dar-al-arkan-in-collaboration-with-dar-global-and-the-trump-organization-to-develop-trump-international-golf-club-wadi-safar-iqiiabwh>
+  - <https://www.middleeasteye.net/news/trump-organization-eyes-real-estate-deal-saudi-government-development-report>
+  - <https://www.alternet.org/trump-saudi-arabia-2674366440>
 - **Misleading**: These deals come despite a pledge of no new foreign deals.
   - The first-term (2017) pledge barred new foreign deals of any kind. The second-term ethics white paper, released 10 Jan 2025, deliberately dropped that. It bars deals directly with foreign governments but allows deals with private foreign companies, adds an outside ethics adviser, and bars Trump from day-to-day management. The Dar Global deals are therefore permitted under the current policy rather than a breach of it. The Qatar deal is the tension point, because its counterparty is owned by the QIA sovereign fund. Ethics experts called the 2025 agreement remarkably weak.
   - <https://www.clickondetroit.com/news/2025/01/10/the-trump-company-is-not-banning-private-foreign-deals-a-break-with-its-first-term-policy/>
@@ -102,10 +108,13 @@ The Trump Organization does have a large and growing set of Trump-branded tower,
 - [[Damac Properties]]
 - [[Dar Al Arkan]]
 - [[Dar Global]]
+- [[Diriyah Company]]
 - [[Donald Trump]]
 - [[Eric Trump]]
 - [[Forbes]]
+- [[Office of Government Ethics]]
 - [[Oman]]
+- [[Public Investment Fund (Saudi Arabia)]]
 - [[Qatar]]
 - [[Qatar Investment Authority]]
 - [[Qatari Diar]]
@@ -119,7 +128,6 @@ The Trump Organization does have a large and growing set of Trump-branded tower,
 - [[Trump Plaza Jeddah]]
 - [[Trump Tower Jeddah]]
 - [[United Arab Emirates]]
-- [[US Office of Government Ethics]]
 
 ## Relationships documented
 
@@ -133,16 +141,18 @@ The Trump Organization does have a large and growing set of Trump-branded tower,
 - [[Dar Global]] *developer of* [[Trump Plaza Jeddah]] (2025-09-29, $1B, commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Dar Global]] *developer of* [[Trump International Hotel & Tower Dubai]] (2025-04-29, $1B, commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Dar Global]] *developer of* [[Trump Tower Jeddah]] (2024-07-01, $530M, commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Donald Trump]] *files annual disclosure reporting Gulf licence income with* [[US Office of Government Ethics]] (regulatory) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Diriyah Company]] *master-plan host of Trump-branded Wadi Safar project (licensed via Dar Global)* [[Trump Organization]] (2026-01, commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Donald Trump]] *files annual disclosure reporting Gulf licence income with* [[Office of Government Ethics]] (regulatory) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Donald Trump]] *owner (via trust)* [[Trump Organization]] (ownership) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Eric Trump]] *publicly launched* [[Trump National Golf Course & Trump International Hotel, Diriyah]] (2026-01-11, commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Eric Trump]] *executive running* [[Trump Organization]] (ownership) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Qatar Investment Authority]] *owns* [[Qatari Diar]] (ownership) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Qatari Diar]] *signed agreement to develop Trump golf club and villas with* [[Dar Global]] (2025-04-30, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Public Investment Fund (Saudi Arabia)]] *wholly owns* [[Diriyah Company]] (2023, ownership) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Simaisma development]] *located in* [[Qatar]] (commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Trump National Golf Course & Trump International Hotel, Diriyah]] *located in* [[Saudi Arabia]] (commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Trump International Golf Club & Resort Oman (Aida)]] *located in* [[Oman]] (commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Trump Organization 2025 ethics white paper]] *permits private foreign deals for* [[Trump Organization]] (2025-01-10, regulatory) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Trump Organization 2025 ethics white paper]] *permits private foreign deals for* [[Trump Organization]] (2025-01-10, regulatory) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Trump Organization]] *licenses Trump brand to* [[Dar Global]] (2025-04-30, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Trump Organization]] *Trump-branded golf club and villas within* [[Simaisma development]] (2025-04-30, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Trump Plaza Jeddah]] *located in* [[Saudi Arabia]] (commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
@@ -187,6 +197,10 @@ The Trump Organization does have a large and growing set of Trump-branded tower,
 26. [Trump's Mideast visit comes as his family deepens business, crypto ties in region](https://www.timesofisrael.com/trumps-mideast-visit-comes-as-his-family-deepens-business-crypto-ties-in-region/) (Times of Israel (AP), 2025-05)
 27. [Trump's Business Pursued Saudi Deal As He Conducted Nuclear Discussions](https://www.forbes.com/sites/danalexander/2026/07/23/trump-bolstered-saudi-business-connections-amid-nuclear-discussions/) (Forbes, 2026-07-23)
 28. [Trump, the Iran war and Oman golf hotels (headline paraphrased from URL; page not fetched)](https://www.motherjones.com/politics/2026/04/trump-iran-war-oman-golf-hotels/) (Mother Jones, 2026-04)
+29. [Dar Al Arkan, in collaboration with Dar Global and the Trump Organization, to develop Trump International Golf Club Wadi Safar](https://www.zawya.com/en/press-release/companies-news/dar-al-arkan-in-collaboration-with-dar-global-and-the-trump-organization-to-develop-trump-international-golf-club-wadi-safar-iqiiabwh) (Zawya (press release), 2026-01)
+30. [Trump Organization eyes real estate deal at Saudi government development: report](https://www.middleeasteye.net/news/trump-organization-eyes-real-estate-deal-saudi-government-development-report) (Middle East Eye, 2025-11)
+31. ['Just a matter of time' before Trump family business seals Saudi deal](https://www.alternet.org/trump-saudi-arabia-2674366440) (AlterNet, 2025-11)
+32. [Eric Trump markets $10B in Saudi real estate projects](https://www.semafor.com/article/01/12/2026/eric-trump-markets-10b-in-saudi-real-estate-projects) (Semafor, 2026-01-12)
 
 ## Full report
 
@@ -244,7 +258,7 @@ Status updates on the Dubai tower:
    - Qatar: Qatari Diar is owned by the QIA sovereign fund.
    - Forbes reports that state-owned companies previously owned the land in Oman and Qatar.
    - Dar Global and Dar Al Arkan are private and listed companies, not state entities.
-   - Whether the Diriyah land is held by a PIF-owned entity is **unverified**.
+   - Audit update: the Riyadh project (Trump International Golf Club, Wadi Safar, about 2.6M sq m) lies inside the Diriyah master plan developed by Diriyah Company, a wholly owned PIF subsidiary and PIF giga-project (about $63B). The NYT reported in Nov 2025 that the Trump Organization was in talks over joining the Saudi government-owned development, and Diriyah Company CEO Jerry Inzerillo called a deal "just a matter of time". The licence is with Dar Global, described as owner and developer of the property. Who holds title to the specific parcel is still **unverified**.
 7. **"Despite a pledge of no new foreign deals."** Verdict: *misleading*.
    - That pledge applied to 2017-2021.
    - The 10 Jan 2025 ethics white paper bars deals directly with foreign governments but allows private foreign deals. It also adds an outside ethics adviser and bars Trump from day-to-day management.
@@ -298,3 +312,12 @@ Status updates on the Dubai tower:
 26. Times of Israel (AP), Trump's Mideast visit and family business ties, 2025-05. https://www.timesofisrael.com/trumps-mideast-visit-comes-as-his-family-deepens-business-crypto-ties-in-region/
 27. Forbes, "Trump's Business Pursued Saudi Deal As He Conducted Nuclear Discussions," 2026-07-23. https://www.forbes.com/sites/danalexander/2026/07/23/trump-bolstered-saudi-business-connections-amid-nuclear-discussions/
 28. Mother Jones, Oman golf hotels and the Iran war, 2026-04. https://www.motherjones.com/politics/2026/04/trump-iran-war-oman-golf-hotels/
+
+### Audit (second reviewer, Nov 2026)
+Result: **strengthened**. Filled the Diriyah gap: the project sits inside the PIF-owned Diriyah Company's master plan, though the licence counterparty is Dar Global (sub-claim 6). Not re-checked because the shared web-search budget ran out: the Oman land question, the ~$38M 2025 Gulf licensing total, and the "$21.9M again" Dar Al Arkan figure in the 2026 filing. That figure matches the prior-year number exactly and should be re-verified.
+
+Audit sources:
+- Dar Al Arkan, with Dar Global and the Trump Organization, to develop Trump International Golf Club Wadi Safar. Zawya (press release), 2026-01. https://www.zawya.com/en/press-release/companies-news/dar-al-arkan-in-collaboration-with-dar-global-and-the-trump-organization-to-develop-trump-international-golf-club-wadi-safar-iqiiabwh
+- Trump Organization eyes real estate deal at Saudi government development: report. Middle East Eye, 2025-11. https://www.middleeasteye.net/news/trump-organization-eyes-real-estate-deal-saudi-government-development-report
+- 'Just a matter of time' before Trump family business seals Saudi deal. AlterNet, 2025-11. https://www.alternet.org/trump-saudi-arabia-2674366440
+- Eric Trump markets $10B in Saudi real estate projects. Semafor, 2026-01-12. https://www.semafor.com/article/01/12/2026/eric-trump-markets-10b-in-saudi-real-estate-projects

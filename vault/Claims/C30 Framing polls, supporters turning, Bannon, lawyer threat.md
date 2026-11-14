@@ -28,10 +28,11 @@ Gallup's September 2026 poll found a record 89% of Americans say government corr
 ## Sub-claims
 
 - **Confirmed**: Public opinion polls on government corruption are at their highest level in 20 years.
-  - Gallup's 2026 poll (released Sept 2026): 89% say corruption is widespread in government. That is up from 79% in 2025, a record in the 20-year trend that started at 59%, and the 2010-2025 range was 72-79%. Democrats 91% (57% in 2024), independents 90%, Republicans 83% (87% two years earlier). The question measures perceived corruption in government generally, not in this administration specifically.
+  - Gallup's 2026 poll (released Sept 2026): 89% say corruption is widespread in government. That is up from 79% in 2025, a record in the 20-year trend that started at 59%, and the 2010-2025 range was 72-79%. Democrats 91% (57% in 2024), independents 90%, Republicans 83% (87% two years earlier). The question measures perceived corruption in government generally, not in this administration specifically. Syndicated coverage (GV Wire, Truthout) dates the Gallup release to about Sept. 2, 2026.
   - <https://newschannel9.com/news/nation-world/views-of-widespread-government-corruption-at-record-high-gallup>
   - <https://www.ktvu.com/news/gallup-poll-americans-government-corruption>
   - <https://gvwire.com/2026/09/15/record-89-of-americans-say-government-corruption-is-widespread-gallup-finds/>
+  - <https://truthout.org/articles/nearly-9-in-10-americans-say-theres-widespread-corruption-in-us-government/>
 - **Partly accurate**: Some of Trump's biggest former supporters now call him one of the most corrupt presidents in history.
   - Identified clips: Shawn Ryan ('brand new hotel going up in Dubai... worries me') and Tucker Carlson ('it seems like corruption, yeah') on The Shawn Ryan Show, May 2025; Megyn Kelly ('didn't expect the corruption to be quite as widespread... lining of his and his family's pockets'), May 25-26, 2026; Joe Rogan ('This government has done some shit that no government has ever done before... The crypto stuff's nuts'), Aug 2026. Not identified: the 'most corrupt presidency in U.S. history... NFTs and the meme coin' clip, 'sacks of cash', 'rug pulls', and '$600 million'. Most identified critics say 'corruption' or 'self-dealing'. The 'most corrupt in history' superlative was found mainly from Democrats.
   - <https://www.mediaite.com/politics/seems-like-corruption-tucker-carlson-criticizes-trump-deal-to-build-hotels-and-resorts-in-gulf>
@@ -44,10 +45,11 @@ Gallup's September 2026 poll found a record 89% of Americans say government corr
   - <https://startupfortune.com/trumps-financial-disclosure-shows-635-million-in-meme-coin-royalties-while-retail-buyers-lost-more-than-700-million/>
   - <https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/>
 - **Confirmed**: Steve Bannon described a 'flood the zone' / 'muzzle velocity' media strategy.
-  - Secondary sources quote a 2019 PBS Frontline interview: 'All we have to do is flood the zone... But we've got to start with muzzle velocity.' The better-known 'flood the zone with shit' quote is from a 2018 conversation with Michael Lewis. The PBS transcript could not be fetched, so the 'three things a day' wording was not checked word for word. The claim that the strategy is used to bury family-business stories is the video's interpretation.
+  - Secondary sources quote a 2019 PBS Frontline interview: 'All we have to do is flood the zone... But we've got to start with muzzle velocity.' The better-known 'flood the zone with shit' quote is from a 2018 conversation with Michael Lewis. The PBS transcript could not be fetched, but secondary transcriptions (e.g. the Anti-Authoritarian Playbook and Save America Movement Substacks) reproduce the same passage, including 'Every day we hit them with three things', matching the video's audio. A primary transcript was still not read. The claim that the strategy is used to bury family-business stories is the video's interpretation.
   - <https://antiauthoritarianplaybook.substack.com/p/the-flood-the-zone-strategy-59c>
   - <https://abc17news.com/money/cnn-business-consumer/2021/11/16/this-infamous-steve-bannon-quote-is-key-to-understanding-americas-crazy-politics-2/>
   - <https://www.pbs.org/wgbh/frontline/interview/steve-bannon-3>
+  - <https://saveamericamovement.substack.com/p/flood-the-zone>
 - **Unverified**: Days before publishing, Coffeezilla was threatened about the story by a lawyer.
   - No independent report was found, and no lawyer or client is named. Coffeezilla has a documented history of legal threats and suits (FaZe Kay in 2021, Logan Paul's CryptoZoo defamation suit).
   - <https://cointelegraph.com/news/coffeezilla-logan-paul-lawsuit-investigations>
@@ -59,6 +61,11 @@ Gallup's September 2026 poll found a record 89% of Americans say government corr
   - <https://www.citationneeded.news/trump-crypto-empire/>
   - <https://talkingbiznews.com/media-news/wsj-hires-kessler-as-a-data-reporter/>
   - <https://www.thebulwark.com/p/isaac-saul-the-mind-blowing-self>
+- **Mostly accurate**: Aside: 'we were all talking about that guy until we went to war with Iran.'
+  - The factual premise holds: the United States and Israel launched strikes on Iran on Feb. 28, 2026 (the campaign critics nicknamed 'Operation Epstein Fury'). 'That guy' is not named in the transcript; from context it most plausibly means Jeffrey Epstein, whose files dominated coverage in the weeks before. The suggestion that the war was a distraction is opinion: it is argued by critics and op-eds, and a Zeteo poll found 52% of respondents believe it, but no evidence of motive exists, and the DOJ released further Epstein files on Mar. 6, 2026, six days into the war.
+  - <https://www.counterpunch.org/2026/03/06/morbid-symptoms-war-on-iran-and-the-epstein-class/>
+  - <https://thenightly.com.au/world/middle-east/operation-epic-fury-or-operation-epstein-distraction-internet-reacts-to-trumps-strike-on-iran-c-21794830>
+  - <https://www.rawstory.com/trump-launched-iran-war-as-epstein-files-accusations-closed-in>
 
 ## Corrections
 
@@ -74,7 +81,8 @@ Gallup's September 2026 poll found a record 89% of Americans say government corr
 - The rise in Gallup's figure comes mainly from Democrats (57% to 91% since 2024). Republican perception fell from 87% to 83%.
 - Defenders said Shawn Ryan's examples were legal settlements, private investments and an official foreign gift.
 - The montage combines clips from May 2025 to Aug 2026. Several speakers criticize 'corruption' or 'self-dealing' without using the 'most corrupt in history' superlative.
-- Research limits: direct fetches to Gallup, PBS, Daily Beast and several local-news sites were blocked, and the search budget ran out before the Iran-war aside and coverage of the video itself could be checked.
+- Research limits: direct fetches to Gallup, PBS, Daily Beast and several local-news sites were blocked. The Iran-war aside was checked in the audit pass; no independent press coverage of the video itself was found (search returned only aggregator listings).
+- The 'war as Epstein distraction' reading in the video's aside is contested: Rep. Thomas Massie and others voiced it, but no evidence shows the war's motive, and Epstein-file releases continued during it.
 
 ## Themes
 
@@ -205,6 +213,11 @@ Gallup's September 2026 poll found a record 89% of Americans say government corr
 21. [Trump scammed supporters out of $250 million for nonexistent fraud fund](https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/) (Rolling Stone, 2022-06)
 22. [Coffeezilla / Logan Paul lawsuit](https://cointelegraph.com/news/coffeezilla-logan-paul-lawsuit-investigations) (Cointelegraph, 2024)
 23. ['The most corrupt thing a president has ever done'](https://www.murphy.senate.gov/newsroom/in-the-news/the-most-corrupt-thing-a-president-has-ever-done) (Office of Sen. Chris Murphy, 2025)
+24. [Nearly 9 in 10 Americans say there's widespread corruption in US government](https://truthout.org/articles/nearly-9-in-10-americans-say-theres-widespread-corruption-in-us-government/) (Truthout, 2026-09)
+25. [Flood the Zone](https://saveamericamovement.substack.com/p/flood-the-zone) (Save America Movement (Substack))
+26. [Morbid Symptoms: War on Iran and the Epstein Class](https://www.counterpunch.org/2026/03/06/morbid-symptoms-war-on-iran-and-the-epstein-class/) (CounterPunch, 2026-03-06)
+27. [Operation Epic Fury or Operation Epstein Distraction? Internet reacts to Trump's strike on Iran](https://thenightly.com.au/world/middle-east/operation-epic-fury-or-operation-epstein-distraction-internet-reacts-to-trumps-strike-on-iran-c-21794830) (The Nightly, 2026-03)
+28. [Trump launched Iran war as Epstein files accusations closed in](https://www.rawstory.com/trump-launched-iran-war-as-epstein-files-accusations-closed-in) (Raw Story, 2026-03)
 
 ## Full report
 
@@ -260,8 +273,8 @@ Only Coffeezilla can know this. "Alania" is a transcription error for Melania. T
 - **Sam Kessler**: hired by the WSJ as a data reporter (June 2025). He was formerly a CoinDesk deputy managing editor and led CoinDesk's World Liberty investigation. He was the lead reporter on the WSJ's report that Tahnoon bin Zayed secretly bought 49% of WLF.
 - **Isaac Saul**: founder and executive editor of Tangle. In 2026 he compiled an extensive accounting of the family's self-dealing (Bulwark Podcast, May 7, 2026).
 
-#### 7. Iran-war aside: NOT CHECKED
-The aside refers to a U.S.-Iran conflict that pulled attention away from a story. The search budget ran out before this could be checked.
+#### 7. Iran-war aside: MOSTLY ACCURATE (checked in audit pass)
+The premise holds: the United States and Israel launched strikes on Iran on Feb. 28, 2026. "That guy" is not named; from context it most plausibly means Jeffrey Epstein, whose files dominated coverage beforehand (inference). The implied point, that the war buried the story, is opinion. Critics and op-eds argued it (CounterPunch, Raw Story, The Nightly), and a Zeteo poll found 52% of respondents believed it, but no evidence of motive exists, and the DOJ released more Epstein files on Mar. 6, 2026, six days into the war.
 
 ### Corrections
 - "Alania Trump" is Melania Trump (transcription error).
@@ -299,3 +312,14 @@ The aside refers to a U.S.-Iran conflict that pulled attention away from a story
 21. Jan. 6 report: Trump scammed supporters out of $250 million. Rolling Stone, 2022-06. https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/
 22. Coffeezilla / Logan Paul lawsuit. Cointelegraph. https://cointelegraph.com/news/coffeezilla-logan-paul-lawsuit-investigations
 23. Sen. Chris Murphy: 'the most corrupt thing a president has ever done'. murphy.senate.gov. https://www.murphy.senate.gov/newsroom/in-the-news/the-most-corrupt-thing-a-president-has-ever-done
+
+### Audit (second reviewer, Nov 2026)
+Result: **strengthened**. Re-confirmed the Gallup record 89% reading (released about Sept. 2, 2026; GV Wire, Truthout, Fox syndication). Secondary transcriptions reproduce Bannon's "Every day we hit them with three things ... muzzle velocity" passage, matching the video, though the primary PBS transcript was still not read. Filled the Iran-war gap (sub-claim 7). No independent press coverage of the video itself was found. The shared web-search budget ran out mid-audit, so speaker identifications were not re-searched.
+
+Audit sources:
+24. Record 89% of Americans say government corruption is widespread, Gallup finds. GV Wire, 2026-09-15. https://gvwire.com/2026/09/15/record-89-of-americans-say-government-corruption-is-widespread-gallup-finds/
+25. Nearly 9 in 10 Americans say there's widespread corruption in US government. Truthout, 2026-09. https://truthout.org/articles/nearly-9-in-10-americans-say-theres-widespread-corruption-in-us-government/
+26. Flood the Zone. Save America Movement (Substack). https://saveamericamovement.substack.com/p/flood-the-zone
+27. Morbid Symptoms: War on Iran and the Epstein Class. CounterPunch, 2026-03-06. https://www.counterpunch.org/2026/03/06/morbid-symptoms-war-on-iran-and-the-epstein-class/
+28. Operation Epic Fury or Operation Epstein Distraction? The Nightly, 2026-03. https://thenightly.com.au/world/middle-east/operation-epic-fury-or-operation-epstein-distraction-internet-reacts-to-trumps-strike-on-iran-c-21794830
+29. Trump launched Iran war as Epstein files accusations closed in. Raw Story, 2026-03. https://www.rawstory.com/trump-launched-iran-war-as-epstein-files-accusations-closed-in

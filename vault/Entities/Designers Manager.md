@@ -2,8 +2,8 @@
 id: "designers-manager"
 kind: "entity"
 type: "company"
-connections: 3
-claims: 2
+connections: 4
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -20,6 +20,7 @@ Licensing counterparty for Melania's NFT and collectibles sales per 2025 disclos
 
 - [[C01 $TRUMP meme coin]] · Mostly accurate
 - [[C02 $MELANIA coin and NFTs]] · Mostly accurate
+- [[C63 Shell entities and ownership chains]] · Pending
 
 ## Relationships
 

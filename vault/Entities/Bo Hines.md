@@ -2,8 +2,8 @@
 id: "bo-hines"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 9
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -12,12 +12,22 @@ tags:
 
 *person*
 
-Former White House crypto council executive director; CEO of Tether USAT
+Ex-executive director, White House crypto council (Jan-Aug 2025); CEO of Tether's US arm/USAT
+
+- Former White House crypto council executive director; CEO of Tether USAT
 
 ## Appears in claims
 
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 
 ## Relationships
 
+- [[Bo Hines]] *pushed three-year transition period (WSJ)* [[GENIUS Act]] (2025, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Bo Hines]] *co-founder, retained one-third stake while in government* [[Nxum Group]] (2025, ownership) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Bo Hines]] *executive director of* [[President's Council of Advisers on Digital Assets]] (2025-01, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Bo Hines]] *joined as strategic adviser 10 days after leaving White House* [[Tether]] (2025-08-19, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Bo Hines]] *CEO of* [[USAT]] (2025-09-12, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Bo Hines]] *CEO of Tether USAT* [[USAT]] (2025-09, advisory) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Todd Hines]] *father of* [[Bo Hines]] (family) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[The Wall Street Journal]] *reported Tether-Nxum payments* [[Bo Hines]] (2026-10-14, media) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]

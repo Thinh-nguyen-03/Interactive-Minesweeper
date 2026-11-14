@@ -30,6 +30,10 @@ tags:
 - [[C22 Crypto.com and TMTG]]
 - [[C24 TMTG ETFs, TAE fusion merger, TMTG losses]]
 
+## Follow-up checks
+
+- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
+
 ## Summary
 
 Most of the brief holds up. Reuters (Oct 28, 2026, anonymous sources) reported Bloomberg, Susquehanna and Jump Trading as Truth API subscribers. Warren and Schiff wrote to the SEC on July 28, 2026, and the SEC only acknowledged receipt, with no probe found. Lighthizer (effective Mar 6, 2026) and Swider (Apr 6, 2026) resigned from the board. The ~$6.4B CRO treasury venture with Crypto.com and Yorkville was mutually terminated on Aug 7, 2026. Two items are off. Nunes was named PIAB chair in December 2024, not when he left TMTG in April 2026. And TAE's CEO 'lobbying DOE' was an industry meeting urging fusion funding: I found no registered TAE lobbying and nothing tying the meeting to the merger.
@@ -334,3 +338,21 @@ C24 already covered this briefly; this section adds the dates and the lobbying-r
 27. Fortune, 2025-12-18: https://fortune.com/2025/12/18/trump-media-nuclear-fusion-tae-technologies-michl-binderbauer/
 28. E&E News, 2025-12: https://www.eenews.net/articles/trump-media-takes-on-fusion-in-6b-merger/
 29. ProPublica Represent (FIA lobbying filing), 2025: https://projects.propublica.org/represent/lobbying/r/301032919
+
+
+### Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld**
+
+Checked:
+- Reuters (2026-10-28, anonymous sources) reported Bloomberg, Susquehanna and Jump Trading as Truth API subscribers
+- TMTG, Crypto.com and Yorkville terminated the CRO treasury venture on 2026-08-07
+- Lighthizer resigned from the TMTG board effective 2026-03-06 (8-K)
+
+Changes:
+- No changes. Fresh copies of the Reuters story (The Standard HK, 24/7 Wall St) match: up to $100K a month, about a 50ms edge, all three firms declined to comment, and TMTG reports more than 10 customer agreements that Reuters could not confirm. Axios and The Block confirm the 2026-08-07 termination; Axios adds that TMTG also dropped its plan for in-house prediction markets and will market Crypto.com's instead. The SEC 8-K confirms Lighthizer's resignation was effective 2026-03-06 and not due to any disagreement.
+
+New sources:
+- Reuters (via The Standard HK), "Bloomberg, two trading firms agree to pay Trump's Truth Social for faster access to president's posts, sources say", 2026-10-28. https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say
+- Axios, "Exclusive: Trump Media unwinds crypto deals", 2026-08-07. https://axios.com/2026/08/07/trump-media-crypto-treasury-deals
+- SEC EDGAR, "Trump Media & Technology Group Corp. Form 8-K (Lighthizer resignation)", 2026-03-06. https://www.sec.gov/Archives/edgar/data/1849635/000114036126008276/ef20067392_form8k.htm

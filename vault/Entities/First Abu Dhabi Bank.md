@@ -12,7 +12,7 @@ tags:
 
 *company*
 
-UAE bank where the alleged ~$750M 'Alpha' account sat; no public response found.
+UAE bank where Cole's book alleges a ~$750M 'Alpha' account was held (unverified; denied by Kushner); no public response found.
 
 - UAE bank where the alleged foundation account sat (Dubai).
 

@@ -2,8 +2,8 @@
 id: "cameron-winklevoss"
 kind: "entity"
 type: "person"
-connections: 10
-claims: 4
+connections: 12
+claims: 5
 tags:
   - "entity"
   - "type/person"
@@ -16,6 +16,7 @@ Gemini co-founder; ~$1M BTC to Trump campaign 2024; ballroom donor
 
 - Gemini co-founder; 79.35 BTC to MAGA Inc. on June 19, 2026
 - Gemini co-founder; >$5M BTC to MAGA Inc. Jun 2026
+- Gemini co-founder who lobbied against Quintenz
 - Gemini co-founder; listed ballroom donor
 
 ## Appears in claims
@@ -24,9 +25,11 @@ Gemini co-founder; ~$1M BTC to Trump campaign 2024; ballroom donor
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 
 ## Relationships
 
+- [[Cameron Winklevoss]] *lobbied Trump against nomination* [[Brian Quintenz]] (2025-07, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Cameron Winklevoss]] *co-funded with BTC* [[Digital Freedom Fund]] (money) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Cameron Winklevoss]] *co-founded* [[Gemini]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Cameron Winklevoss]] *co-founder of* [[Gemini]] (ownership) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]

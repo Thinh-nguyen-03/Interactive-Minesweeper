@@ -2,8 +2,8 @@
 id: "trump-media-group-cro-strategy"
 kind: "entity"
 type: "company"
-connections: 5
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -20,6 +20,7 @@ CRO treasury company formed by TMTG, Crypto.com and Yorkville; planned ticker MC
 
 - [[C22 Crypto.com and TMTG]] · Mostly accurate
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
+- [[C63 Shell entities and ownership chains]] · Pending
 
 ## Relationships
 

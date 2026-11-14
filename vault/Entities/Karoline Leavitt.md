@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "White House press secretary"
-connections: 15
-claims: 8
+connections: 20
+claims: 11
 tags:
   - "entity"
   - "type/person"
@@ -32,13 +32,19 @@ White House press secretary (unnamed in video) who said the president abides by 
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
+- [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
+- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 
 ## Relationships
 
 - [[Andrew Egger]] *questioned about memecoin dinner* [[Karoline Leavitt]] (2025-05-09, media) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Karoline Leavitt]] *criticized tariff display plan* [[Amazon]] (2025-04-29, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Karoline Leavitt]] *defended* [[Pardon of Changpeng Zhao]] (2025-10-23, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Karoline Leavitt]] *said Witkoff warned Qatar beforehand* [[Israeli strike on Doha (Sept 9, 2025)]] (2025-09-09, media) · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Karoline Leavitt]] *defended as abiding by conflict laws* [[Donald Trump]] (2025-05, political) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Karoline Leavitt]] *said he obeys conflict laws* [[Donald Trump]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Karoline Leavitt]] *called $3.4B tally 'absolutely absurd'* [[The New Yorker]] (2025-08, political) · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[Karoline Leavitt]] *defended legality of accepting* [[Qatar Boeing 747 gift]] (2025-05-12, political) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Karoline Leavitt]] *defended as compliant with conflict-of-interest laws* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-09, political) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Karoline Leavitt]] *press secretary for* [[White House Trump administration]] (political) · [[C22 Crypto.com and TMTG|C22]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]

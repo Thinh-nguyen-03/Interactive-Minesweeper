@@ -2,8 +2,8 @@
 id: "amazon"
 kind: "entity"
 type: "company"
-connections: 12
-claims: 1
+connections: 13
+claims: 2
 tags:
   - "entity"
   - "type/company"
@@ -17,6 +17,7 @@ E-commerce and cloud giant; licensed the Melania film through Amazon MGM Studios
 ## Appears in claims
 
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
 
 ## Relationships
 

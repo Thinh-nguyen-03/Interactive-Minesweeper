@@ -2,8 +2,8 @@
 id: "brian-ballard"
 kind: "entity"
 type: "person"
-connections: 3
-claims: 1
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -17,6 +17,7 @@ Founder of Ballard Partners; longtime Trump fundraiser
 ## Appears in claims
 
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
 
 ## Relationships
 

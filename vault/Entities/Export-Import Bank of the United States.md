@@ -2,8 +2,10 @@
 id: "exim-bank"
 kind: "entity"
 type: "government"
-connections: 3
-claims: 1
+aliases:
+  - "Export-Import Bank of the U.S."
+connections: 8
+claims: 2
 tags:
   - "entity"
   - "type/government"
@@ -12,13 +14,20 @@ tags:
 
 *government*
 
-Issued a letter of interest for up to $900M.
+Issued letters of interest and loans to mineral projects
+
+- Issued a letter of interest for up to $900M.
 
 ## Appears in claims
 
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
+- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 
 ## Relationships
 
 - [[Elizabeth Warren]] *questioned on Kazakh financing* [[Export-Import Bank of the United States]] (2026-07-08, regulatory) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Export-Import Bank of the United States]] *non-binding letter of interest* [[Cove Kaz Capital Cove Capital]] (2025-11, $900M, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Export-Import Bank of the United States]] *letter of interest up to $900M* [[Kaz Resources]] (2025-11, $900M, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Export-Import Bank of the United States]] *advanced ~$2.7-2.9B loan* [[Perpetua Resources]] (2026-05, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Export-Import Bank of the United States]] *financing for graphite project* [[Westwater Resources]] (2026-08, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Richard Blumenthal]] *letter demanding records on 14 deals* [[Export-Import Bank of the United States]] (2026-07-30, political) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

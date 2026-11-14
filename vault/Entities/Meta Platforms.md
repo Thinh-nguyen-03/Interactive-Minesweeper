@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Meta"
-connections: 6
-claims: 2
+connections: 7
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -22,6 +22,7 @@ Paid ~$22-25M settlement toward the library
 
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
 
 ## Relationships
 

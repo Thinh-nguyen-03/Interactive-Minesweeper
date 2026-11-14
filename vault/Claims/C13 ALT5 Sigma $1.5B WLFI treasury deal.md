@@ -142,7 +142,7 @@ WLF and Nasdaq-listed ALT5 Sigma did announce a $1.5B WLFI-treasury deal on Aug 
 - [[Retail investors Trump supporters]] *lost ~94% on stock of* [[ALT5 Sigma]] (money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C29 Trump family wealth gains|C29]]
 - [[Securities and Exchange Commission]] *has not opened a probe (per POGO)* [[ALT5 Sigma]] (2026, regulatory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Securities and Exchange Commission]] *oversees listed* [[ALT5 Sigma]] (regulatory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Steve Witkoff]] *father of* [[Zach Witkoff]] (family) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Steve Witkoff]] *father of* [[Zach Witkoff]] (family) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Tony Isaac]] *president, then acting CEO* [[ALT5 Sigma]] (2025-11, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[The Wall Street Journal]] *reported deal enriches Trump family by over $500M* [[ALT5 Sigma]] (2025-08-31, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[World Liberty Financial]] *lead investor in $1.5B WLFI treasury raise (about $750M in WLFI tokens for shares and warrants)* [[ALT5 Sigma]] (2025-08-11, $750M, money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]

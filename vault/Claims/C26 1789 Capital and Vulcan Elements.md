@@ -26,6 +26,7 @@ tags:
 - [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
 - [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 
 ## Summary
 
@@ -120,12 +121,12 @@ Don Jr. is a 1789 Capital partner. The firm passed $1B in assets in September 20
 
 ## Relationships documented
 
-- [[1789 Capital]] *invested in* [[Polymarket]] (money) · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[1789 Capital]] *invested in* [[Polymarket]] (2025-08, money) · [[C26 1789 Capital and Vulcan Elements|C26]] [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[1789 Capital]] *says it never calls* [[US federal government]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[1789 Capital]] *invested in* [[Vulcan Elements]] (money) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[1789 Capital]] *invested in $65M Series A of* [[Vulcan Elements]] (2025-08, money) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Chris Buskirk]] *co-founder and partner of* [[1789 Capital]] (ownership) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Donald Trump Jr]] *adviser and shareholder of* [[Unusual Machines]] (2024-11, advisory) · [[C26 1789 Capital and Vulcan Elements|C26]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[John Maslin]] *CEO of* [[Vulcan Elements]] (ownership) · [[C26 1789 Capital and Vulcan Elements|C26]]

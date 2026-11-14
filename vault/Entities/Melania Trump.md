@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "Alania Trump"
   - "Melania"
-connections: 15
-claims: 5
+connections: 16
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -30,6 +30,7 @@ First lady; launched the $MELANIA meme coin and NFTs; did not reply to request f
 - [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Pending
 
 ## Relationships
 

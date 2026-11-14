@@ -2,8 +2,8 @@
 id: "bakerhostetler"
 kind: "entity"
 type: "company"
-connections: 4
-claims: 2
+connections: 5
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -20,6 +20,7 @@ Law firm registered to lobby on CZ 'executive relief'
 
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Pending
 
 ## Relationships
 

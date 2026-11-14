@@ -2,8 +2,8 @@
 id: "jacob-roth"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -17,6 +17,7 @@ Florida attorney who incorporated the first library fund
 ## Appears in claims
 
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Pending
 
 ## Relationships
 

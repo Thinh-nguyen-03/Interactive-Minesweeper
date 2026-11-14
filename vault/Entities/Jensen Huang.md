@@ -2,8 +2,8 @@
 id: "jensen-huang"
 kind: "entity"
 type: "person"
-connections: 3
-claims: 1
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -17,6 +17,7 @@ Nvidia CEO; a reported dinner with Sacks was dropped from the NYT story
 ## Appears in claims
 
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
 
 ## Relationships
 

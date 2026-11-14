@@ -4,8 +4,8 @@ kind: "entity"
 type: "event"
 aliases:
   - "CZ pardon"
-connections: 10
-claims: 4
+connections: 11
+claims: 5
 tags:
   - "entity"
   - "type/event"
@@ -26,6 +26,7 @@ Trump's pardon of Binance's founder.
 - [[C10 Binance driving USD1 adoption]] · Mostly accurate
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Pending
 
 ## Relationships
 

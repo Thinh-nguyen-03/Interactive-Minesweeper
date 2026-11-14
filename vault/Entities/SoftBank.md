@@ -2,8 +2,8 @@
 id: "softbank"
 kind: "entity"
 type: "company"
-connections: 4
-claims: 2
+connections: 6
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -16,11 +16,14 @@ Stargate partner.
 
 - Stargate lead equity funder
 - Minority owner of Twenty One Capital; Stargate funder
+- Stargate lead funder; OpenAI round co-lead.
 
 ## Appears in claims
 
 - [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
 
 ## Relationships
 

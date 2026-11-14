@@ -112,6 +112,7 @@ The money is documented. Amazon paid about $40M for the 'Melania' rights (report
 - [[Marc Beckman]]
 - [[Melania (2026 film)]]
 - [[Melania Trump]]
+- [[Office of Government Ethics]]
 - [[Paramount]]
 - [[Pentagon (Department of Defense)]]
 - [[The Wall Street Journal]]
@@ -119,7 +120,6 @@ The money is documented. Amazon paid about $40M for the 'Melania' rights (report
 - [[The Washington Post]]
 - [[Trump-Vance Inaugural Committee]]
 - [[US Congress]]
-- [[US Office of Government Ethics]]
 - [[White House Trump administration]]
 
 ## Relationships documented
@@ -151,7 +151,7 @@ The money is documented. Amazon paid about $40M for the 'Melania' rights (report
 - [[Marc Beckman]] *adviser to* [[Melania Trump]] (advisory) · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Melania Trump]] *spouse of* [[Donald Trump]] (family) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Melania Trump]] *subject and executive producer of* [[Melania (2026 film)]] (2024-12, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[US Office of Government Ethics]] *released 2025 disclosure listing film fee* [[Donald Trump]] (2026-06-30, regulatory) · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Office of Government Ethics]] *released 2025 disclosure listing film fee* [[Donald Trump]] (2026-06-30, regulatory) · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Paramount]] *bid ~$4M (WSJ, unconfirmed)* [[Melania (2026 film)]] (2024-12, $4M, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Pentagon (Department of Defense)]] *awarded 7 NSSL missions (~$2.3B)* [[Blue Origin]] (2025-04-04, $2.3B, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[The Wall Street Journal]] *reported rival bids and Melania's >70% share* [[Melania (2026 film)]] (2025-01, media) · [[C44 Melania Trump's Amazon documentary deal|C44]]
@@ -308,3 +308,20 @@ The video did not cover this. It arose from C02 (Melania's $6M NFT income) and C
 30. TheWrap, "Axed WaPo Column Argued It Was 'Unwise' for Bezos to Revamp Opinion Section", 2025-03. https://www.thewrap.com/washington-post-column-unwise-jeff-bezos-ruth-marcus-quits
 31. Euronews, "New Melania Trump series coming to Amazon Prime after huge losses...", 2026-08-06. https://www.euronews.com/2026/08/06/new-melania-trump-series-coming-to-amazon-prime-after-huge-losses-for-controversial-melani
 32. Rolling Stone, "'Chaos': Behind the Scenes of Amazon's Melania Trump Doc". https://www.rollingstone.com/politics/politics-features/melania-trump-documentary-amazon-behind-the-scenes-1235505208/
+
+
+### Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld**
+
+Checked:
+- Amazon paid about $40M plus about $35M marketing; worldwide gross about $16.6M
+- Amazon's 2026-03-30 Huseman reply and Warren's 2026-04-13 'bribery in plain sight' statement
+- Bezos's public defense of the deal
+
+Changes:
+- No changes. The-Numbers gives a $16.56M worldwide gross, and Warren's own release and Amazon's response letter confirm the March and April 2026 exchange and the $26M gap over Disney. Bezos's 2026-05-20 CNBC Squawk Box defense ('a very wise business decision', 'nothing to do with it') is already in the file. The $10.71M OGE line was not re-verified independently.
+
+New sources:
+- The Numbers, "Melania (2026) box office", 2026. https://www.the-numbers.com/movie/Melania-(2026)
+- Office of Sen. Elizabeth Warren, "Amazon response to Senator Warren and Representative Hank Johnson on investment in Melania movie", 2026-03-30. https://www.warren.senate.gov/imo/media/doc/amazon_response_to_senator_warren_representative_hank_johnson_on_investment_in_melania_movie.pdf

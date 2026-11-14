@@ -21,6 +21,10 @@ tags:
 
 > Per a Wall Street Journal investigation (reporter Sam Kessler), four days before the inauguration the Trump family secretly signed a $500M deal selling 49% of World Liberty Financial to an entity tied to Sheikh Tahnoon bin Zayed, UAE national security adviser and brother of the UAE president ('spy sheikh'); it was not disclosed.
 
+## Follow-up checks
+
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+
 ## Summary
 
 The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle backed by UAE national security adviser Sheikh Tahnoon bin Zayed (brother of President Mohamed bin Zayed), agreed to pay $500M for 49% of World Liberty Financial. Eric Trump signed the deal about 2025-01-16, four days before the inauguration, and it was not publicly disclosed. The figures, timing, roles and secrecy in the video all match the reporting, as relayed by multiple outlets; the WSJ original could not be accessed directly. Trump says he knew nothing about it, and WLF and the White House deny wrongdoing.
@@ -114,9 +118,9 @@ The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle bac
 - [[Sam Kessler]] *reporter at* [[The Wall Street Journal]] (media) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Sam Kessler]] *reports for* [[The Wall Street Journal]] (media) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Sam Kessler]] *investigated* [[World Liberty Financial]] (media) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
-- [[Steve Witkoff]] *father of* [[Zach Witkoff]] (family) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Steve Witkoff]] *father of* [[Zach Witkoff]] (family) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Sheikh Tahnoon bin Zayed]] *brother of* [[Mohamed bin Zayed]] (family) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Sheikh Tahnoon bin Zayed]] *signed* [[Secret $500M 49% WLF stake deal]] (2025-01-16, $500M, money) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Sheikh Tahnoon bin Zayed]] *backs* [[Tahnoon-linked investment vehicle]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]

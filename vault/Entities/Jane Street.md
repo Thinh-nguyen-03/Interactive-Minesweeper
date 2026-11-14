@@ -2,8 +2,8 @@
 id: "jane-street"
 kind: "entity"
 type: "company"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/company"
@@ -17,6 +17,7 @@ Largest reported investor (~$375M) in TMTG's bitcoin-treasury raise
 ## Appears in claims
 
 - [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Pending
 
 ## Relationships
 

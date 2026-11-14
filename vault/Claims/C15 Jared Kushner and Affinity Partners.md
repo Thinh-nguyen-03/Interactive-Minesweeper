@@ -27,6 +27,8 @@ tags:
 - [[C37 Jared Kushner's hacked phone]] · Unverified
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
 - [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 
 ## Summary
 
@@ -124,7 +126,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 - [[Jared Kushner]] *runs* [[Affinity Partners]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *executive board member of* [[Board of Peace]] (2026-01, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *exempt from disclosure under* [[Conflict-of-interest laws]] (legal) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Jared Kushner]] *son-in-law of* [[Donald Trump]] (family) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *son-in-law of* [[Donald Trump]] (family) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Jared Kushner]] *participated in US talks with* [[Iran]] (2026, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *negotiates alongside* [[Steve Witkoff]] (2025, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *travels and negotiates with* [[Steve Witkoff]] (political) · [[C15 Jared Kushner and Affinity Partners|C15]]

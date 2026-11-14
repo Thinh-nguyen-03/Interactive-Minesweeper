@@ -2,8 +2,8 @@
 id: "japan"
 kind: "entity"
 type: "country"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/country"
@@ -19,6 +19,7 @@ Home of Metaplanet.
 ## Appears in claims
 
 - [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
 
 ## Relationships
 

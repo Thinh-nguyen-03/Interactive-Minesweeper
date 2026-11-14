@@ -2,8 +2,8 @@
 id: "ballard-partners"
 kind: "entity"
 type: "company"
-connections: 6
-claims: 1
+connections: 7
+claims: 2
 tags:
   - "entity"
   - "type/company"
@@ -17,6 +17,7 @@ Trump-tied lobbying firm; K Street revenue leader in 2025
 ## Appears in claims
 
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
 
 ## Relationships
 

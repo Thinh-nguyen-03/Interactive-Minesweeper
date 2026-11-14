@@ -26,6 +26,7 @@ tags:
 - [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
+- [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
 
 ## Summary
 
@@ -128,7 +129,7 @@ Documented: the ~$400M Qatari Boeing 747-8 was accepted by the Pentagon on 21 Ma
 - [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump]] *owns* [[Trump Organization]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Defense Security Cooperation Agency]] *notified MQ-9B sale to* [[US Congress]] (2025-03-26, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Eric Trump]] *executive vice president of* [[Trump Organization]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Eric Trump]] *executive vice president of* [[Trump Organization]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[General Atomics Aeronautical Systems]] *manufacturer for* [[MQ-9B sale to Qatar]] (2025-03-26, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Iran]] *conflict cited as emergency basis for* [[2026 Qatar Patriot and APKWS sales]] (2026-02-28, political) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Isaac Saul]] *describes* [[Qatar Boeing 747 gift]] (media) · [[C16 Qatar jet, arms sales and golf deal|C16]]

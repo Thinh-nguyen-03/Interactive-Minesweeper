@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "American Bitcoin Corp. (ABTC)"
-connections: 15
-claims: 4
+connections: 16
+claims: 5
 tags:
   - "entity"
   - "type/company"
@@ -20,6 +20,7 @@ Bitcoin mining/treasury company part-owned by Eric and Don Jr.; 80% owned by Hut
 - Trump-sons-backed miner that also grew out of the Dominari partnership.
 - Bitcoin miner co-founded by Eric and Don Jr.; stock down 75-95% from its Sept 2025 debut.
 - Nasdaq: ABTC; Hut 8-controlled bitcoin miner co-founded by the Trump sons.
+- Sons' mining firm, in the Reuters tally
 
 ## Appears in claims
 
@@ -27,6 +28,7 @@ Bitcoin mining/treasury company part-owned by Eric and Don Jr.; 80% owned by Hut
 - [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
 - [[C29 Trump family wealth gains]] · Mostly accurate
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 
 ## Relationships
 
@@ -40,6 +42,7 @@ Bitcoin mining/treasury company part-owned by Eric and Don Jr.; 80% owned by Hut
 - [[Donald Trump Jr]] *co-founder and shareholder* [[American Bitcoin]] (2025-03, ownership) · [[C29 Trump family wealth gains|C29]]
 - [[Donald Trump Jr]] *co-owner of* [[American Bitcoin]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump Jr]] *part-owns* [[American Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Eric Trump]] *co-founder (Reuters tally venture)* [[American Bitcoin]] (2025, ownership) · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[Eric Trump]] *co-founder and shareholder* [[American Bitcoin]] (2025-03, ownership) · [[C29 Trump family wealth gains|C29]]
 - [[Eric Trump]] *co-founder, chief strategy officer and shareholder of* [[American Bitcoin]] (2025-03-31, ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Eric Trump]] *part-owns* [[American Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]

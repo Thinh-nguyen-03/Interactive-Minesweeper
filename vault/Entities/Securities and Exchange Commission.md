@@ -6,8 +6,8 @@ aliases:
   - "SEC"
   - "U.S. Securities and Exchange Commission"
   - "US Securities and Exchange Commission"
-connections: 70
-claims: 19
+connections: 78
+claims: 22
 tags:
   - "entity"
   - "type/government"
@@ -45,20 +45,28 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
+- [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 
 ## Relationships
 
 - [[Adam Schiff]] *asked to investigate Truth API* [[Securities and Exchange Commission]] (2026-07-29, political) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Adam Schiff]] *co-signed letter seeking tariff-pause probe* [[Securities and Exchange Commission]] (2025-04-11, regulatory) · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Amanda Fischer]] *criticized Sun settlement by* [[Securities and Exchange Commission]] (2026-03, political) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Bloomberg Law]] *reported post-pardon dismissals* [[Securities and Exchange Commission]] (2026-04-09, media) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Chuck Schumer]] *co-led letter seeking tariff-pause probe* [[Securities and Exchange Commission]] (2025-04-11, regulatory) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[Dar Global]] *reportedly in talks over token sales with* [[Securities and Exchange Commission]] (2025-11, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[David Woodcock]] *named Enforcement Director, effective* [[Securities and Exchange Commission]] (2026-05-04, regulatory) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Donald Trump]] *appointed leadership of* [[Securities and Exchange Commission]] (2025, political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Donald Trump]] *appoints leadership of* [[Securities and Exchange Commission]] (political) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Elizabeth Warren]] *asked to investigate Truth API* [[Securities and Exchange Commission]] (2026-07-29, political) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Elizabeth Warren]] *asked to investigate tariff-pause insider trading* [[Securities and Exchange Commission]] (2025-04-11, regulatory) · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Hester Peirce]] *led Crypto Task Force at* [[Securities and Exchange Commission]] (2025-01, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[Securities and Exchange Commission]] (2025, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Margaret 'Meg' Ryan]] *Enforcement Director; resigned* [[Securities and Exchange Commission]] (2026-03-16, regulatory) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Maxine Waters]] *alleged 'pay-to-play' in letter to* [[Securities and Exchange Commission]] (2026-01-15, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Mike Selig]] *chief counsel, Crypto Task Force* [[Securities and Exchange Commission]] (2025, regulatory) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Miller Strategies]] *lobbied for Crypto.com* [[Securities and Exchange Commission]] (political) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Molly White]] *criticized crypto case dismissals by* [[Securities and Exchange Commission]] (media) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[New America Acquisition I Corp]] *filed (then edited) prospectus with* [[Securities and Exchange Commission]] (regulatory) · [[C27 New America Acquisition I Corp SPAC|C27]]
@@ -71,6 +79,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Public Citizen]] *tracks canceled enforcement (23 crypto actions dropped/halted)* [[Securities and Exchange Commission]] (2025, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Rainberry]] *agreed to pay $10M penalty to* [[Securities and Exchange Commission]] (2026-03-05, $10M, legal) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Rainberry]] *agreed to pay civil penalty (wash trading)* [[Securities and Exchange Commission]] (2026-03-05, $10M, legal) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Ron Wyden]] *co-signed letter seeking tariff-pause probe* [[Securities and Exchange Commission]] (2025-04-11, regulatory) · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Securities and Exchange Commission]] *has not opened a probe (per POGO)* [[ALT5 Sigma]] (2026, regulatory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Securities and Exchange Commission]] *oversees listed* [[ALT5 Sigma]] (regulatory) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Securities and Exchange Commission]] *charged over pump-and-dump (2018; settled 2019)* [[Barry Honig]] (2018-09, legal) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
@@ -126,6 +135,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *asked to probe Truth API (no probe confirmed)* [[Trump Media & Technology Group]] (2026-07, regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Securities and Exchange Commission]] *closed investigation with no action* [[Uniswap Labs]] (2025-02-25, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *closed investigation* [[Yuga Labs]] (2025-03-03, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Taylor Lindman]] *Crypto Task Force chief counsel (from Chainlink)* [[Securities and Exchange Commission]] (2026-02-23, regulatory) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[World Liberty Financial]] *filed Form D cutting sale target to $30M* [[Securities and Exchange Commission]] (2024-10-30, $30M, regulatory) · [[C04 World Liberty Financial founding and token sale|C04]]
 
 ## Themes

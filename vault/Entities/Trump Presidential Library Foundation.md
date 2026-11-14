@@ -28,7 +28,7 @@ Nonprofit formed May 2025 to build the Trump library in Miami; successor to a fu
 
 ## Relationships
 
-- [[ABC News (Disney)]] *settlement paid to (per 2025 disclosure)* [[Trump Presidential Library Foundation]] (2024-12, $15M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[ABC News]] *settlement paid to (per 2025 disclosure)* [[Trump Presidential Library Foundation]] (2024-12, $15M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Citizens for Responsibility and Ethics in Washington]] *reported on Trump Organization role and hotel plans* [[Trump Presidential Library Foundation]] (2026, media) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Donald Trump]] *namesake and controlling figure of* [[Trump Presidential Library Foundation]] (2025-05, ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Elizabeth Warren]] *pressed on $6.5M-$14.5M missing and $7M unexplained spending* [[Trump Presidential Library Foundation]] (2026-07-16, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]

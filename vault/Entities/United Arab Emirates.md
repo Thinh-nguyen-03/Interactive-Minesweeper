@@ -6,8 +6,8 @@ aliases:
   - "Abu Dhabi"
   - "Dubai"
   - "UAE"
-connections: 32
-claims: 13
+connections: 36
+claims: 16
 tags:
   - "entity"
   - "type/country"
@@ -39,6 +39,9 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[C37 Jared Kushner's hacked phone]] · Unverified
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
+- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 
 ## Relationships
 
@@ -65,6 +68,7 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[2026 US-Israel war with Iran]] *strained economy, prompting swap talks* [[United Arab Emirates]] (2026-04, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[US Treasury]] *discussed possible swap line with* [[United Arab Emirates]] (2026-04, money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[White House Trump administration]] *agreed AI Acceleration Partnership / chip framework with* [[United Arab Emirates]] (2025-05-15, regulatory) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Witkoff Group]] *reportedly approached sovereign fund (NYT)* [[United Arab Emirates]] (2024-2025, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
 
 ## Themes
 

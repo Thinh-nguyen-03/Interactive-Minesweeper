@@ -2,8 +2,8 @@
 id: "lutnick-dynasty-trust-a"
 kind: "entity"
 type: "fund"
-connections: 5
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/fund"
@@ -20,6 +20,7 @@ Trust for Lutnick's children that took his Cantor interests; reported Tether bor
 
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
+- [[C63 Shell entities and ownership chains]] · Pending
 
 ## Relationships
 

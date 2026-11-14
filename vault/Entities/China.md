@@ -2,8 +2,8 @@
 id: "china"
 kind: "entity"
 type: "country"
-connections: 11
-claims: 6
+connections: 14
+claims: 9
 tags:
   - "entity"
   - "type/country"
@@ -28,6 +28,9 @@ Rival invoked to justify the family's crypto and robotics ventures.
 - [[C37 Jared Kushner's hacked phone]] · Unverified
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
 
 ## Relationships
 

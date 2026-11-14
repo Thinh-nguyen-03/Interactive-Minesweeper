@@ -24,6 +24,7 @@ tags:
 ## Follow-up checks
 
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
+- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 
 ## Summary
 

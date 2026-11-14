@@ -2,8 +2,8 @@
 id: "the-intercept"
 kind: "entity"
 type: "media"
-connections: 2
-claims: 1
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/media"
@@ -12,12 +12,20 @@ tags:
 
 *media*
 
-Co-plaintiff in the SDNY suit against Truth API.
+Plaintiff in suit over Truth API and official posts
+
+- Co-plaintiff in the SDNY suit against Truth API.
+- Reported Selig's former client list
 
 ## Appears in claims
 
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 
 ## Relationships
 
+- [[The Intercept]] *named defendant* [[Dan Scavino]] (2026-08-12, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[The Intercept]] *sued over Truth API* [[Donald Trump]] (2026-08-12, legal) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[The Intercept]] *sued over official posts on paid-access platform* [[Donald Trump]] (2026-08-12, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[The Intercept]] *named defendant* [[Natalie Harp]] (2026-08-12, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]

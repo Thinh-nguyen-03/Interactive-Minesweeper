@@ -25,6 +25,7 @@ tags:
 
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 
 ## Summary
 
@@ -95,12 +96,12 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 - [[Eric Trump]]
 - [[Forbes]]
 - [[Nansen]]
+- [[Office of Government Ethics]]
 - [[Retail investors Trump supporters]]
 - [[The New York Times]]
 - [[Trump financial disclosures]]
 - [[Trump Media & Technology Group]]
 - [[Trump Organization]]
-- [[US Office of Government Ethics]]
 - [[White House Trump administration]]
 - [[WLFI token]]
 - [[World Liberty Financial]]
@@ -115,7 +116,7 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 - [[Donald Trump]] *father of* [[Barron Trump]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C29 Trump family wealth gains|C29]]
 - [[Donald Trump]] *father of* [[Donald Trump Jr]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump]] *filed 2025 annual disclosure (more than $1.4B crypto, at least $2.2B total)* [[US Office of Government Ethics]] (2026-06-30, $2.2B, regulatory) · [[C29 Trump family wealth gains|C29]]
+- [[Donald Trump]] *filed 2025 annual disclosure (more than $1.4B crypto, at least $2.2B total)* [[Office of Government Ethics]] (2026-06-30, $2.2B, regulatory) · [[C29 Trump family wealth gains|C29]]
 - [[Donald Trump Jr]] *co-founder and shareholder* [[American Bitcoin]] (2025-03, ownership) · [[C29 Trump family wealth gains|C29]]
 - [[Eric Trump]] *co-founder and shareholder* [[American Bitcoin]] (2025-03, ownership) · [[C29 Trump family wealth gains|C29]]
 - [[Eric Trump]] *co-founder; holds tokens and USD1-related interest* [[World Liberty Financial]] (2024, ownership) · [[C29 Trump family wealth gains|C29]]

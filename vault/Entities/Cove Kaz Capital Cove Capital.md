@@ -2,8 +2,10 @@
 id: "cove-kaz-capital"
 kind: "entity"
 type: "company"
-connections: 11
-claims: 1
+aliases:
+  - "Cove Kaz Capital"
+connections: 12
+claims: 2
 tags:
   - "entity"
   - "type/company"
@@ -14,9 +16,12 @@ tags:
 
 US group awarded the Kazakh tungsten project; CEO Pini Althaus.
 
+- Developer of the Kazakh tungsten project
+
 ## Appears in claims
 
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
+- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 
 ## Relationships
 

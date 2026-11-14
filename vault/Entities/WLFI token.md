@@ -4,8 +4,8 @@ kind: "entity"
 type: "asset"
 aliases:
   - "WLFI"
-connections: 10
-claims: 5
+connections: 11
+claims: 6
 tags:
   - "entity"
   - "type/asset"
@@ -29,6 +29,7 @@ World Liberty Financial governance token; ~$550M sold.
 - [[C13 ALT5 Sigma $1.5B WLFI treasury deal]] · Mostly accurate
 - [[C29 Trump family wealth gains]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Pending
 
 ## Relationships
 

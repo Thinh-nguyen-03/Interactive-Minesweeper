@@ -98,7 +98,7 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 
 ## People and organisations
 
-- [[ABC News (Disney)]]
+- [[ABC News]]
 - [[Alejandro Brito]]
 - [[Alphabet (Google)]]
 - [[Anna Gomez]]
@@ -133,8 +133,8 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 
 ## Relationships documented
 
-- [[ABC News (Disney)]] *paid $1M legal fees; $15M escrowed with his firm* [[Alejandro Brito]] (2024-12, $1M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[ABC News (Disney)]] *agreed to pay $15M (held in escrow) to settle defamation suit* [[Original Trump presidential library fund (Florida, Dec 2024)]] (2024-12-14, $15M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[ABC News]] *paid $1M legal fees; $15M escrowed with his firm* [[Alejandro Brito]] (2024-12, $1M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[ABC News]] *agreed to pay $15M (held in escrow) to settle defamation suit* [[Original Trump presidential library fund (Florida, Dec 2024)]] (2024-12-14, $15M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Alphabet (Google)]] *paid $22M of $24.5M YouTube settlement for ballroom* [[Trust for the National Mall]] (2025-09-29, $22M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Alphabet (Google)]] *Google listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Anna Gomez]] *dissented on approval of* [[Skydance-Paramount merger]] (2025-07-24, regulatory) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
@@ -142,7 +142,7 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 - [[Cameron Winklevoss]] *co-founded* [[Gemini]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Cameron Winklevoss]] *listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Coinbase]] *listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[The Walt Disney Company]] *parent company of* [[ABC News (Disney)]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[The Walt Disney Company]] *parent company of* [[ABC News]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Donald Trump]] *namesake and controlling figure of* [[Trump Presidential Library Foundation]] (2025-05, ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Donald Trump]] *directs and promotes* [[White House ballroom]] (2025-07, political) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Elizabeth Warren]] *probing missing settlement money at* [[Trump Presidential Library Foundation]] (2026-04-20, political) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
@@ -171,7 +171,7 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 
 ## Leads not covered by the video
 
-- **Missing library settlement money and the dissolved first library fund**: Up to $63M from ABC, Meta, X and Paramount went to a fund later dissolved; lawmakers say companies cannot account for it and opened a Jul 2026 probe of the Foundation. [source](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/) · [[Original Trump presidential library fund (Florida, Dec 2024)]] [[Trump Presidential Library Foundation]] [[Elizabeth Warren]] [[ABC News (Disney)]] [[Meta Platforms]] [[X Corp]] [[Paramount]]
+- **Missing library settlement money and the dissolved first library fund**: Up to $63M from ABC, Meta, X and Paramount went to a fund later dissolved; lawmakers say companies cannot account for it and opened a Jul 2026 probe of the Foundation. [source](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/) · [[Original Trump presidential library fund (Florida, Dec 2024)]] [[Trump Presidential Library Foundation]] [[Elizabeth Warren]] [[ABC News]] [[Meta Platforms]] [[X Corp]] [[Paramount]]
 - **Miami Dade College land transfer to the Trump library foundation**: Public land worth more than $67M was deeded for $10 to the Trump-controlled foundation; it is subject to Sunshine-law and constitutional lawsuits. [source](https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami) · [[Miami Dade College downtown parcel]] [[Trump Presidential Library Foundation]] [[Donald Trump]]
 - **Ballroom donor anonymity contract and government contracts to donors**: The Trust for the National Mall contract shields donor identities. Public Citizen says 19 of 27 identified corporate donors got $338B in federal contracts and 14 had enforcement actions pending or suspended. [source](https://www.citizen.org/article/ballroom-billions/) · [[Trust for the National Mall]] [[White House ballroom]] [[Public Citizen]]
 - **Trump library foundation's IRS fast-track during the government shutdown**: The Miami Herald reported that the foundation got special IRS treatment for its tax-exempt application while projecting about $1B in fundraising. [source](https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/) · [[Trump Presidential Library Foundation]]

@@ -2,8 +2,10 @@
 id: "state-department"
 kind: "entity"
 type: "government"
-connections: 3
-claims: 1
+aliases:
+  - "State Department"
+connections: 5
+claims: 2
 tags:
   - "entity"
   - "type/government"
@@ -15,10 +17,12 @@ tags:
 Approved possible military sales to Qatar.
 
 - Approves foreign military sales
+- Notified Congress of the F-35 sale
 
 ## Appears in claims
 
 - [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
+- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 
 ## Relationships
 
@@ -26,6 +30,7 @@ Approved possible military sales to Qatar.
 - [[US State Department]] *approved Patriot replenishment sale to* [[Qatar]] (2026-05, $4.01B, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[US State Department]] *approved possible MQ-9B sale to* [[Qatar]] (2025-03-26, $1.96B, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[US State Department]] *approved* [[2026 possible military sales to Qatar ($5B)]] (2026, $5B, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[US State Department]] *notified F-35 sale to* [[US Congress]] (2026-09-17, $24.3B, regulatory) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 
 ## Themes
 

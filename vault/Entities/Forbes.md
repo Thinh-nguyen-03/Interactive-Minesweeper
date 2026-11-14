@@ -2,8 +2,8 @@
 id: "forbes"
 kind: "entity"
 type: "media"
-connections: 11
-claims: 5
+connections: 15
+claims: 7
 tags:
   - "entity"
   - "type/media"
@@ -27,6 +27,8 @@ Source of family net-worth estimates.
 - [[C29 Trump family wealth gains]] · Mostly accurate
 - [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
+- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 
 ## Relationships
 
@@ -34,8 +36,10 @@ Source of family net-worth estimates.
 - [[Forbes]] *estimates ~$150M net worth* [[Barron Trump]] ($150M, media) · [[C29 Trump family wealth gains|C29]]
 - [[Forbes]] *reported 87% USD1 concentration at* [[Binance]] (2026-02-09, media) · [[C10 Binance driving USD1 adoption|C10]]
 - [[Forbes]] *flagged pre-announcement trading* [[Dominari Holdings Dominari Securities]] (2025-03, media) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Forbes]] *estimated net worth $6.5B* [[Donald Trump]] (2026-03, $6.5B, media) · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[Forbes]] *estimated net worth about $300M (6x)* [[Donald Trump Jr]] (2025-12-08, $300M, media) · [[C29 Trump family wealth gains|C29]]
 - [[Forbes]] *estimates 6x richer* [[Donald Trump Jr]] (media) · [[C29 Trump family wealth gains|C29]]
 - [[Forbes]] *estimated net worth about $400M (10x)* [[Eric Trump]] (2025-12-04, $400M, media) · [[C29 Trump family wealth gains|C29]]
 - [[Forbes]] *estimates 10x richer* [[Eric Trump]] (media) · [[C29 Trump family wealth gains|C29]]
 - [[Forbes]] *reported MGX rationale for choosing USD1* [[MGX]] (2025-10-02, media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[Forbes]] *reported Saudi expansion during nuclear talks* [[Trump Organization]] (2026-07-23, media) · [[C56 Saudi Arabia family deals alongside US policy|C56]]

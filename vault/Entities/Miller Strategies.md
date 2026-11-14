@@ -2,8 +2,8 @@
 id: "miller-strategies"
 kind: "entity"
 type: "company"
-connections: 8
-claims: 2
+connections: 9
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -20,6 +20,7 @@ Trump-connected lobbying firm of Jeff Miller
 
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
 
 ## Relationships
 

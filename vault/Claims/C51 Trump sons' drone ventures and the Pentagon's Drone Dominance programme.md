@@ -30,6 +30,10 @@ tags:
 - [[C28 Foundation Future Industries robots and Eric Trump]]
 - [[C26 1789 Capital and Vulcan Elements]]
 
+## Follow-up checks
+
+- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+
 ## Summary
 
 The deals and letters are documented: the brothers hold an indirect stake (via American Ventures) in the Powerus/Aureus Greenway merger (announced 2026-03-09, closed ~2026-10-01), which then won an up-to-$90M Air Force IDIQ and an $82M order; the WSJ reported in May 2026 that the Pentagon was negotiating debt-and-equity funding with Unusual Machines, which co-led a $10M investment in Draganfly in Sep 2026. EO 14307 and the FCC's Dec 2025 foreign-drone Covered List do benefit domestic makers, and the Garcia/Warren IG letters and the $70M+ PitchBook tally are real. But no Unusual Machines equity deal had been announced by Nov 2026, the $12.8M 'DoD contract' was a Strategic Logix subcontract, and no evidence shows family intervention; all parties deny it.
@@ -150,7 +154,7 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
 - [[DJI]] *based in* [[China]] (commercial) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Dominari Holdings Dominari Securities]] *arranged ~$9M financing for* [[Aureus Greenway Holdings]] (2026-03, $9M, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Donald Trump]] *signed* [[EO 14307 'Unleashing American Drone Dominance']] (2025-06-06, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Donald Trump Jr]] *holds Powerus stake via* [[American Ventures]] (2026-03, ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Donald Trump Jr]] *~6% shareholder of* [[Dominari Holdings Dominari Securities]] (ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
@@ -334,3 +338,14 @@ What remains unproven is any causal link. No reporting shows a Trump family memb
 26. KVIA (CNN), "Democratic senators sound the alarm on Pentagon backing firms linked to Donald Trump Jr.", 2026-01-23. https://kvia.com/news/business-technology/cnn-business-consumer/2026/01/23/democratic-senators-sound-the-alarm-on-pentagon-backing-firms-linked-to-donald-trump-jr/
 27. Observer-Reporter (ACCESSWIRE), "Unusual Machines secures $12.8 million defense order supplying Strategic Logix's RRSL drone systems", 2025-09-30. https://stocks.observer-reporter.com/observerreporter/article/accwirecq-2025-9-30-unusual-machines-secures-128-million-defense-order-supplying-strategic-logixs-rrsl-drone-systems
 28. Al Jazeera, "US president's son Eric Trump invests in drone maker with gov't contracts", 2026-02-17. https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts
+
+
+### Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld** (language review only; no fresh searches)
+
+Checked:
+- Language review of summary and sub-claims for unattributed allegations
+
+Changes:
+- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the Unusual Machines equity stake is marked as talks with no deal, and family influence as unverified with denials included. No changes.

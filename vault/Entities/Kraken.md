@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Kraken (Payward)"
-connections: 6
-claims: 3
+connections: 8
+claims: 5
 tags:
   - "entity"
   - "type/company"
@@ -25,6 +25,8 @@ Crypto exchange whose SEC lawsuit was dropped.
 - [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Pending
+- [[C67 Investors who show up in several Trump-family vehicles]] · Pending
 
 ## Relationships
 

@@ -6,8 +6,8 @@ aliases:
   - "MBZ"
   - "Mohamed bin Zayed Al Nahyan"
   - "president of the UAE"
-connections: 5
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -19,12 +19,14 @@ tags:
 President of the UAE (not named in the video; referred to as Tahnoon's brother).
 
 - President of the UAE, Tahnoon's brother.
-- UAE President; alleged funder of the accounts and of the ~$1B sent via Azerbaijan.
+- UAE President; Cole's book alleges he funded the accounts and the ~$1B sent via Azerbaijan (unverified).
+- UAE president, Tahnoon's brother.
 
 ## Appears in claims
 
 - [[C06 Secret $500M 49% UAE stake in WLF]] · Confirmed
 - [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 
 ## Relationships
 

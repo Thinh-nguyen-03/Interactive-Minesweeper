@@ -138,7 +138,7 @@ Each core fact is documented. Crypto.com agreed on 2025-08-26 to buy $50M of TMT
 - [[Crypto.com]] *agreed to buy $50M stock of* [[Trump Media & Technology Group]] ($50M, money) · [[C22 Crypto.com and TMTG|C22]]
 - [[Crypto.com Derivatives North America (CDNA, ex-NADEX)]] *sued to block state enforcement (lost PI Oct 2025; lost at 9th Cir. 2026-08-28)* [[Nevada Gaming Control Board]] (2025-06, legal) · [[C22 Crypto.com and TMTG|C22]]
 - [[Crypto.com Derivatives North America (CDNA, ex-NADEX)]] *provides exchange infrastructure for* [[Truth Predict]] (2025-10-28, commercial) · [[C22 Crypto.com and TMTG|C22]]
-- [[Donald Trump]] *nominated as CFTC Chair* [[Mike Selig]] (2025-10, political) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump]] *nominated as CFTC Chair* [[Mike Selig]] (2025-10, political) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Donald Trump]] *appoints head of* [[Office of the Comptroller of the Currency]] (regulatory) · [[C12 WLF bank charter from the OCC|C12]] [[C22 Crypto.com and TMTG|C22]]
 - [[Donald Trump]] *named SEC Chair* [[Paul Atkins]] (2024-12, political) · [[C22 Crypto.com and TMTG|C22]]
 - [[Donald Trump]] *nominated to SEC* [[Paul Atkins]] (regulatory) · [[C22 Crypto.com and TMTG|C22]]

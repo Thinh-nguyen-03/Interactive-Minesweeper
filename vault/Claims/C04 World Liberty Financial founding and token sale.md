@@ -242,3 +242,7 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
 23. Unchained, "World Liberty Financial quietly sold billions in tokens as early investors remained locked out." https://unchainedcrypto.com/world-liberty-financial-quietly-sold-billions-in-tokens-as-early-investors-remained-locked-out/
 
 Note: The Block and DL News pages could not be fetched from this environment. Their figures come from search-result excerpts and agree with CoinDesk and Cointelegraph.
+
+### Audit (second pass, 2026-11-14)
+
+Result: upheld. The Defiant and CoinDesk confirm the 90% target cut (Oct 30-31, 2024); Decrypt confirms Sun's $30M buy closed the initial sale after slightly more than $20M in prior sales; Decrypt confirms World Liberty Markets launched Jan 12, 2026.

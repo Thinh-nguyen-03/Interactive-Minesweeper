@@ -4,8 +4,8 @@ kind: "entity"
 type: "event"
 aliases:
   - "US-UAE AI chips deal"
-connections: 15
-claims: 6
+connections: 16
+claims: 7
 tags:
   - "entity"
   - "type/event"
@@ -30,12 +30,15 @@ US approval of long-refused AI chip exports to the UAE.
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 
 ## Relationships
 
 - [[David Sacks]] *negotiated* [[UAE AI chips deal]] (2025-05, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[David Sacks]] *pushed for Emirati chip access* [[UAE AI chips deal]] (2025, political) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[David Sacks]] *reportedly pushed expansive chip access in* [[UAE AI chips deal]] (2025-05, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[G42]] *earmarked share of chips under* [[UAE AI chips deal]] (2025-05, regulatory) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[G42]] *main beneficiary of* [[UAE AI chips deal]] (2025-05, regulatory) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Steve Witkoff]] *backed UAE chip access alongside Sacks* [[UAE AI chips deal]] (2025-05, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Steve Witkoff]] *backed UAE chip access as envoy* [[UAE AI chips deal]] (2025-05, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Steve Witkoff]] *involved in UAE talks* [[UAE AI chips deal]] (2025, political) · [[C14 Steve and Zach Witkoff|C14]]

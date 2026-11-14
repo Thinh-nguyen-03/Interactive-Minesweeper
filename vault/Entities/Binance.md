@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Binance US"
-connections: 23
-claims: 9
+connections: 26
+claims: 12
 tags:
   - "entity"
   - "type/company"
@@ -33,6 +33,9 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Pending
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
 
 ## Relationships
 
@@ -57,6 +60,7 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[Pardon of Changpeng Zhao]] *eases US re-entry of* [[Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Forbes]] *reported 87% USD1 concentration at* [[Binance]] (2026-02-09, media) · [[C10 Binance driving USD1 adoption|C10]]
 - [[MGX]] *invested $2B (minority stake) in, settled in USD1* [[Binance]] (2025-03-12, $2B, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *invested $2B (settled in USD1)* [[Binance]] (2025-03-12, $2B, money) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[MGX]] *invested $2B (settled in USD1) in* [[Binance]] (2025-03-12, $2B, money) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[MGX]] *invested $2B in* [[Binance]] ($2B, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[MGX]] *invested $2B in, settled in USD1* [[Binance]] (2025-05-01, $2B, money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]]

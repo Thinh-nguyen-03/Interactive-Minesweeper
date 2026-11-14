@@ -41,7 +41,7 @@ The overlap is documented. The NYT (Dec 14, 2025, known only secondhand here) fo
 ## Sub-claims
 
 - **Mostly accurate**: A New York Times analysis found the SEC eased about 60% of the crypto cases it inherited, several of them tied to Trump donors or business partners.
-  - Multiple outlets report the NYT analysis (published about Dec 14, 2025). It found the SEC dismissed, paused or cut penalties in more than 60% of the crypto cases active on Jan 20, 2025, reportedly 14 of 23, against about 4% of inherited non-crypto cases, and filed no new crypto cases. Firms with Trump ties (Binance, Ripple, Justin Sun/Tron, the Winklevoss-backed Gemini) are among the eased cases. Secondhand accounts disagree on how many of the 14 had Trump ties: 'eight' in one, 'all' in another. That breakdown is unverified because the original was not reachable. The NYT found no evidence that Trump directly pressured the SEC.
+  - Multiple outlets report the NYT analysis (published about Dec 14, 2025). It found the SEC dismissed, paused or cut penalties in more than 60% of the crypto cases active on Jan 20, 2025, reportedly 14 of 23, against about 4% of inherited non-crypto cases, and filed no new crypto cases. Firms with Trump ties (Binance, Ripple, Justin Sun/Tron, the Winklevoss-backed Gemini) are among the eased cases. Secondhand accounts disagree on how many of the 14 had Trump ties: 'five' in most (Cointelegraph and others), 'eight' in one, 'all' in another. That breakdown is unverified because the original was not reachable. The NYT found no evidence that Trump directly pressured the SEC.
   - <https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped>
   - <https://yellow.com/news/sec-dropped-60-of-crypto-cases-after-trump-returned-to-office-nyt-finds>
   - <https://tradersunion.com/news/cryptocurrency-news/show/1090367-sec-softened-60/>
@@ -97,6 +97,7 @@ The overlap is documented. The NYT (Dec 14, 2025, known only secondhand here) fo
 - Robinhood's chief legal and compliance officer, Dan Gallagher, said the probe 'never should have been opened.'
 - Non-donor firms (Uniswap, OpenSea, Yuga Labs, Immutable) also had probes closed, which supports the policy-shift explanation. The SEC still settled some matters with payments, e.g. Rainberry's $10M in the Justin Sun case (Mar 2026), and Ripple's $125M judgment stands.
 - Public Citizen and House Democrats are partisan or advocacy sources. Their 'pay-to-play' framing is an inference, and Public Citizen notes that inclusion in its tracker does not mean proven misconduct.
+- Public Citizen's analysis of MAGA Inc.'s first-half 2025 filing also lists Gemini giving $1.5M in April 2025, plus $1M from the Winklevoss twins in Jan 2025. Whether the 1.5M USDC in the January 2026 filing is a separate gift has not been checked against FEC itemized records.
 
 ## People and organisations
 
@@ -332,3 +333,20 @@ No document, testimony or official finding shows an exchange of donations for ou
 23. The Block, Democrats press Atkins, 2026-02-11. https://www.theblock.co/news/regulation/2026-02-11-democrats-press-secs-atkins-over-dropped-crypto-cases-trump-industry-ties-as-agency-shifts-strategy-389503
 24. Coinage, Peirce pushes back on Warren, 2026. https://www.coinage.media/2026/secs-hester-peirce-pushes-back-on-senator-warrens-crypto-enforcement-gripes
 25. Crowdfund Insider, Justin Sun / Rainberry $10M, 2026-03. https://www.crowdfundinsider.com/2026/03/265302-sec-permanently-dismisses-claims-against-justin-sun-and-tron-foundation-bittorrent-dev-rainberry-to-pay-10m-fine/
+
+
+### Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld**
+
+Checked:
+- NYT (2025-12-14) found the SEC eased about 60% (14 of 23) of inherited crypto cases
+- Count of eased cases with Trump ties
+- Gemini 1.5M USDC and Foris DAX 2x$10M to MAGA Inc. in the filing reported Jan 2026
+
+Changes:
+- Core NYT figures re-confirmed by fresh secondary coverage (Cointelegraph, Yellow, Daily Beast), as was 'no evidence' of direct influence. Added that most secondary accounts give 'five' as the number of Trump-tied cases. Added a caveat that an April 2025 $1.5M Gemini gift also appears in Public Citizen's tally, so the 1.5M USDC figure may or may not be a separate donation.
+
+New sources:
+- Cointelegraph, "SEC crypto enforcement under Donald Trump dropped, NYT reports", 2025-12-15. https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped
+- Public Citizen, "Trump's MAGA Inc. SuperPAC Donor List is Littered with Corporate and Billionaire Influence Buyers", 2025-08. https://www.citizen.org/news/trumps-maga-inc-superpac-donor-list-is-littered-with-corporate-and-billionaire-influence-buyers/

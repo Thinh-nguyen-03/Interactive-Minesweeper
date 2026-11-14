@@ -2,8 +2,8 @@
 id: "chad-mizelle"
 kind: "entity"
 type: "person"
-connections: 8
-claims: 3
+connections: 9
+claims: 4
 tags:
   - "entity"
   - "type/person"
@@ -22,6 +22,7 @@ Kushner's attorney and Affinity chief legal officer; disputes conflict allegatio
 - [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
 - [[C37 Jared Kushner's hacked phone]] · Unverified
 - [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C61 Shared lawyers and law firms across the deals]] · Pending
 
 ## Relationships
 

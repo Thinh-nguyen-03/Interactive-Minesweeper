@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Paramount Global"
-connections: 8
-claims: 3
+connections: 9
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -24,6 +24,7 @@ Paid $16M '60 Minutes' settlement; merged with Skydance after FCC approval
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
 
 ## Relationships
 

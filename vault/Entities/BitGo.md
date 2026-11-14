@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "BitGo Bank and Trust"
-connections: 7
-claims: 5
+connections: 8
+claims: 6
 tags:
   - "entity"
   - "type/company"
@@ -27,6 +27,7 @@ Crypto custodian; Craft held 7.8% at its IPO filing; custodies USD1 reserves
 - [[C11 GENIUS CLARITY Acts and USD1]] · Mostly accurate
 - [[C12 WLF bank charter from the OCC]] · Mostly accurate
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Pending
 
 ## Relationships
 

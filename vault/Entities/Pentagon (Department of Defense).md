@@ -10,8 +10,8 @@ aliases:
   - "Pentagon / Space Force"
   - "U.S. Department of Defense"
   - "US Department of Defense"
-connections: 21
-claims: 8
+connections: 23
+claims: 9
 tags:
   - "entity"
   - "type/government"
@@ -38,6 +38,7 @@ Awarded $24M contract to Foundation Future Industries.
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 
 ## Relationships
 
@@ -50,6 +51,7 @@ Awarded $24M contract to Foundation Future Industries.
 - [[Pentagon (Department of Defense)]] *runs* [[Drone Dominance program]] (regulatory) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Pentagon (Department of Defense)]] *awarded $24M contract to* [[Foundation Future Industries]] ($24M, money) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Pentagon (Department of Defense)]] *~$24M in research awards (Army/Navy/Air Force), as promoted* [[Foundation Future Industries]] (2026-04, $24M, commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Pentagon (Department of Defense)]] *equity stake and NdPr price floor* [[MP Materials]] (2025-07, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Pentagon (Department of Defense)]] *houses* [[Office of Strategic Capital]] (ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Pentagon (Department of Defense)]] *awarded* [[$24M Pentagon contract for Foundation]] ($24M, money) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Pentagon (Department of Defense)]] *negotiated equity-stake funding under Drone Dominance with* [[Unusual Machines]] (2026-05, money) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]

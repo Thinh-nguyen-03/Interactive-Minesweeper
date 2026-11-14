@@ -5,16 +5,17 @@ tags:
 ---
 # Trump Claims Map
 
-A fact-check of 30 claims made in Coffeezilla, “Investigating The President”, plus 22 follow-up leads the video did not cover. Each claim was checked independently against public records and reporting. Open the graph view to explore.
+A fact-check of 40 claims made in Coffeezilla, “Investigating The President”, plus 30 follow-up leads the video did not cover. Each claim was checked independently against public records and reporting. Open the graph view to explore.
 
 Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
 ## Verdicts
 
 - Confirmed: 2
-- Mostly accurate: 47
-- Partly accurate: 1
+- Mostly accurate: 54
+- Partly accurate: 2
 - Unverified: 2
+- Pending: 10
 
 ## Claims
 
@@ -70,6 +71,24 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
+- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
+- [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
+- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Pending
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Pending
+- [[C63 Shell entities and ownership chains]] · Pending
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
+- [[C65 Officials who decided matters involving their former clients or partners]] · Pending
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Pending
+- [[C67 Investors who show up in several Trump-family vehicles]] · Pending
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
+- [[C69 Master timeline money events versus government actions]] · Pending
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
 
 ## Themes
 
@@ -90,28 +109,28 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
 ## Most connected
 
-- [[Donald Trump]] (52 claims, 170 connections)
-- [[World Liberty Financial]] (22 claims, 73 connections)
-- [[Securities and Exchange Commission]] (19 claims, 70 connections)
-- [[White House Trump administration]] (37 claims, 61 connections)
-- [[Donald Trump Jr]] (25 claims, 54 connections)
-- [[Eric Trump]] (26 claims, 53 connections)
-- [[Elizabeth Warren]] (19 claims, 48 connections)
-- [[Trump Media & Technology Group]] (11 claims, 41 connections)
-- [[US Congress]] (25 claims, 41 connections)
-- [[Jared Kushner]] (5 claims, 34 connections)
+- [[Donald Trump]] (67 claims, 204 connections)
+- [[World Liberty Financial]] (28 claims, 80 connections)
+- [[Securities and Exchange Commission]] (22 claims, 78 connections)
+- [[White House Trump administration]] (46 claims, 74 connections)
+- [[Donald Trump Jr]] (31 claims, 61 connections)
+- [[Eric Trump]] (32 claims, 61 connections)
+- [[Elizabeth Warren]] (25 claims, 56 connections)
+- [[US Congress]] (31 claims, 50 connections)
+- [[Trump Media & Technology Group]] (16 claims, 47 connections)
+- [[Trump Organization]] (17 claims, 46 connections)
+- [[Jared Kushner]] (12 claims, 41 connections)
+- [[United Arab Emirates]] (16 claims, 36 connections)
+- [[Steve Witkoff]] (12 claims, 34 connections)
 - [[Coffeezilla]] (14 claims, 33 connections)
-- [[United Arab Emirates]] (13 claims, 32 connections)
-- [[Trump Organization]] (14 claims, 30 connections)
-- [[The Wall Street Journal]] (14 claims, 27 connections)
-- [[Commodity Futures Trading Commission]] (5 claims, 25 connections)
-- [[Crypto.com]] (7 claims, 25 connections)
-- [[Dominari Holdings Dominari Securities]] (5 claims, 24 connections)
-- [[$TRUMP meme coin]] (7 claims, 24 connections)
-- [[USD1]] (10 claims, 24 connections)
-- [[Binance]] (9 claims, 23 connections)
-- [[Molly White]] (12 claims, 23 connections)
-- [[ALT5 Sigma]] (4 claims, 22 connections)
-- [[Justin Sun]] (9 claims, 22 connections)
-- [[The New York Times]] (11 claims, 22 connections)
-- [[Steve Witkoff]] (8 claims, 22 connections)
+- [[The New York Times]] (16 claims, 32 connections)
+- [[Commodity Futures Trading Commission]] (8 claims, 31 connections)
+- [[The Wall Street Journal]] (17 claims, 31 connections)
+- [[Crypto.com]] (9 claims, 27 connections)
+- [[$TRUMP meme coin]] (9 claims, 27 connections)
+- [[Binance]] (12 claims, 26 connections)
+- [[USD1]] (12 claims, 26 connections)
+- [[Dominari Holdings Dominari Securities]] (6 claims, 25 connections)
+- [[Howard Lutnick]] (6 claims, 24 connections)
+- [[Richard Blumenthal]] (10 claims, 24 connections)
+- [[Affinity Partners]] (7 claims, 23 connections)

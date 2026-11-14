@@ -2,8 +2,8 @@
 id: "metaplanet"
 kind: "entity"
 type: "company"
-connections: 5
-claims: 1
+connections: 6
+claims: 2
 tags:
   - "entity"
   - "type/company"
@@ -19,6 +19,7 @@ Japanese bitcoin treasury company; Eric Trump is strategic board adviser.
 ## Appears in claims
 
 - [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
 
 ## Relationships
 

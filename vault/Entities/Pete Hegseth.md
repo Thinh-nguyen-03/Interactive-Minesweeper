@@ -2,8 +2,8 @@
 id: "pete-hegseth"
 kind: "entity"
 type: "person"
-connections: 6
-claims: 2
+connections: 7
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -20,6 +20,7 @@ US Defense Secretary; accepted the jet on 21 May 2025
 
 - [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C65 Officials who decided matters involving their former clients or partners]] · Pending
 
 ## Relationships
 

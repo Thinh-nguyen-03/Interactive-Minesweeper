@@ -2,8 +2,8 @@
 id: "reuters"
 kind: "entity"
 type: "media"
-connections: 5
-claims: 3
+connections: 8
+claims: 5
 tags:
   - "entity"
   - "type/media"
@@ -14,16 +14,21 @@ tags:
 
 Syndicated the FT pricing report and named Truth API customers
 
+- Crypto-earnings investigation and disclosure analysis
 - Reported the Truth API customer names on 2026-10-28.
 - Reported SPAK files on the forged-deed suspicions.
+- Reported options spike and CFTC oil probe
 
 ## Appears in claims
 
 - [[C21 TMTG's market-moving 'truths' API and Truth+]] · Mostly accurate
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
+- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 
 ## Relationships
 
+- [[Reuters]] *estimated at least $2.3B family earnings from four crypto ventures* [[Donald Trump]] (2026-06-09, $2.3B, media) · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[Reuters]] *reported case files on forged deeds* [[SPAK (Albanian Special Anti-Corruption Structure)]] (2026-07-11, media) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Reuters]] *reported customer names of* [[Truth API]] (2026-10-28, media) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]

@@ -5,8 +5,8 @@ type: "asset"
 aliases:
   - "White House East Wing ballroom"
   - "ballroom"
-connections: 15
-claims: 2
+connections: 16
+claims: 3
 tags:
   - "entity"
   - "type/asset"
@@ -24,6 +24,7 @@ Ballroom Trump wants to build, sponsored by crypto firms.
 
 - [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
 
 ## Relationships
 

@@ -6,8 +6,8 @@ aliases:
   - "The White House"
   - "Trump administration"
   - "White House"
-connections: 61
-claims: 37
+connections: 74
+claims: 46
 tags:
   - "entity"
   - "type/government"
@@ -63,11 +63,22 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
+- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
+- [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
+- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
 
 ## Relationships
 
 - [[Anna Kelly]] *spokesperson for* [[White House Trump administration]] (political) · [[C29 Trump family wealth gains|C29]]
+- [[David Ingle]] *called insider-trading implications 'baseless'* [[White House Trump administration]] (2026-04, media) · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[David Ingle]] *spokesman for* [[White House Trump administration]] (political) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[David Sacks]] *AI & crypto czar under ethics waivers* [[White House Trump administration]] (2025-03-05, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Jared Kushner]] *unofficial 'peace envoy' for* [[White House Trump administration]] (political) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[White House Trump administration]] (2025, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Karoline Leavitt]] *press secretary for* [[White House Trump administration]] (political) · [[C22 Crypto.com and TMTG|C22]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
@@ -75,9 +86,11 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[Karoline Leavitt]] *press secretary; denies pardon profiteering* [[White House Trump administration]] (political) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Karoline Leavitt]] *speaks for* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Miller Strategies]] *lobbied for Crypto.com* [[White House Trump administration]] (political) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Mohammed bin Salman]] *visited* [[White House Trump administration]] (2025-11-18, political) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[The New York Times]] *reported state outreach by* [[White House Trump administration]] (2026-08-27, media) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Peter Navarro]] *adviser in* [[White House Trump administration]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[President's Working Group on Digital Asset Markets]] *part of* [[White House Trump administration]] (political) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Saudi Arabia]] *pledged ~$1T US investment to* [[White House Trump administration]] (2025-11-18, $1T, political) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Steve Witkoff]] *Special Envoy to Middle East for* [[White House Trump administration]] (political) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] (2024-11, political) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Unnamed top White House aide]] *top aide in* [[White House Trump administration]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
@@ -87,13 +100,17 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[White House Trump administration]] *issued AI ethics waiver to* [[David Sacks]] (2025-06, regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[White House Trump administration]] *defends ethics arrangements of* [[Donald Trump]] (political) · [[C01 $TRUMP meme coin|C01]]
 - [[White House Trump administration]] *denies conflicts of interest* [[Donald Trump]] (political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[White House Trump administration]] *says assets held in trust / discretionary accounts* [[Donald Trump]] (2026-07, political) · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[White House Trump administration]] *says others trade for* [[Donald Trump]] (political) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[White House Trump administration]] *staff warned not to trade on nonpublic info after his Iran pause post* [[Donald Trump]] (2026-03-24, regulatory) · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[White House Trump administration]] *US government took a 9.9% stake at $20.47/share in* [[Intel]] (2025-08-22, money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[White House Trump administration]] *classifies as unpaid volunteer, no disclosure filed* [[Jared Kushner]] (regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[White House Trump administration]] *briefed lawmakers on federal prediction-market policy* [[North Carolina (state government)]] (2026, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[White House Trump administration]] *reportedly contacted state officials on prediction markets* [[Republican Attorneys General Association]] (2026, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[White House Trump administration]] *says he has fully divested* [[Steve Witkoff]] (2026-09, political) · [[C42 How World Liberty insiders took money out|C42]]
 - [[White House Trump administration]] *issued executive order creating* [[Strategic Bitcoin Reserve]] (2025-03-06, political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[White House Trump administration]] *announced ~10% U.S. government stake for $35.6M* [[Trilogy Metals]] (2025-10-06, $35.6M, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[White House Trump administration]] *denies trade talks are related to* [[Trump Organization]] (2025-05, political) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[White House Trump administration]] *agreed AI Acceleration Partnership / chip framework with* [[United Arab Emirates]] (2025-05-15, regulatory) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[White House Trump administration]] *approved* [[UAE AI chips deal]] (regulatory) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[White House Trump administration]] *denied wrongdoing in response to* [[The Wall Street Journal]] (2026-02, political) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]

@@ -28,6 +28,10 @@ tags:
 - [[C08 UAE AI chips deal, Stargate, currency swap]]
 - [[C11 GENIUS CLARITY Acts and USD1]]
 
+## Follow-up checks
+
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+
 ## Summary
 
 Well documented: Sacks served as White House AI and crypto czar under ethics waivers (crypto, March 5, 2025; AI, June/July 2025) while he and Craft Ventures kept 400+ AI-linked investments. The NYT's Nov 30, 2025 investigation counted 708 tech holdings, 449 AI-related and 20 crypto-related, and he coordinated the White House push for the GENIUS Act. His role in the UAE/G42 chip approvals rests on secondary summaries of NYT reporting that he pushed for Emirati chip access; the formal licences came from Commerce/BIS, and no stake in a UAE counterparty is documented. Sacks and the White House deny any conflict, no violation has been found, and the NYT did not allege illegality.
@@ -94,6 +98,7 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
 - [[Kathleen Clark]]
 - [[Melanie Stansbury]]
 - [[Nvidia]]
+- [[Office of Government Ethics]]
 - [[President's Council of Advisors on Science and Technology]]
 - [[Sheikh Tahnoon bin Zayed]]
 - [[Steve Bannon]]
@@ -101,7 +106,6 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
 - [[The New York Times]]
 - [[UAE AI chips deal]]
 - [[US Department of Commerce]]
-- [[US Office of Government Ethics]]
 - [[USD1]]
 - [[White House Trump administration]]
 - [[World Liberty Financial]]
@@ -122,15 +126,15 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
 - [[Donald Trump]] *appointed AI and crypto czar* [[David Sacks]] (2024-12, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Donald Trump]] *signed into law* [[GENIUS Act]] (2025-07-18, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Elizabeth Warren]] *questioned waivers and SGE status* [[David Sacks]] (2025-03-06, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Elizabeth Warren]] *wrote asking about Sacks waiver* [[US Office of Government Ethics]] (2025-05-05, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Elizabeth Warren]] *wrote asking about Sacks waiver* [[Office of Government Ethics]] (2025-05-05, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Jensen Huang]] *CEO of* [[Nvidia]] (ownership) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Kathleen Clark]] *called his waivers 'sham ethics waivers'* [[David Sacks]] (2025-12, media) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Melanie Stansbury]] *co-led ethics investigation into* [[David Sacks]] (2025-09-17, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[The New York Times]] *investigated holdings (708 tech, 449 AI)* [[David Sacks]] (2025-11-30, media) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[US Office of Government Ethics]] *reviewed waivers (per Sacks)* [[David Sacks]] (regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Office of Government Ethics]] *reviewed waivers (per Sacks)* [[David Sacks]] (regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Steve Bannon]] *criticised judgment of* [[David Sacks]] (2025-12, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Steve Witkoff]] *backed UAE chip access alongside Sacks* [[UAE AI chips deal]] (2025-05, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Sheikh Tahnoon bin Zayed]] *linked entity bought 49% stake (see C06/C08)* [[World Liberty Financial]] (2025-01, money) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[US Department of Commerce]] *licensed up to 35,000 GB300-class Nvidia chips to* [[G42]] (2025-11, regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[White House Trump administration]] *issued AI ethics waiver to* [[David Sacks]] (2025-06, regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]

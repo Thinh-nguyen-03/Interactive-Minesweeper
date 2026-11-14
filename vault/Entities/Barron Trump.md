@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Barron"
-connections: 5
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -23,6 +23,7 @@ President's youngest son; Forbes estimates net worth of ~$150M.
 
 - [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
 - [[C29 Trump family wealth gains]] · Mostly accurate
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Pending
 
 ## Relationships
 

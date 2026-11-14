@@ -190,3 +190,7 @@ The statement that $MELANIA has done worse than $TRUMP (about 92-95% down) is co
 18. Democracy Now, Molly White interview on Trump crypto, 2025-05-06. https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics
 
 Note: fortune.com and unchainedcrypto.com could not be fetched from this session because those hosts are not on the network allowlist. Their content is cited from search-result summaries.
+
+### Audit (second pass, 2026-11-14)
+
+Result: upheld. Fortune (2026-07-01) and the CAP memo (2026-07-16) independently confirm $6,011,259 from NFTs/collectibles under the Designers Manager license, with the link to $MELANIA being CAP's inference. Decrypt and Analytics Insight confirm the ~99% drawdown.

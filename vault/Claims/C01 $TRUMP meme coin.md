@@ -24,6 +24,7 @@ tags:
 ## Follow-up checks
 
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 
 ## Summary
 
@@ -54,9 +55,10 @@ Trump launched the official $TRUMP meme coin on the evening of January 17, 2025,
   - <https://www.mediaite.com/media/tv/trump-defends-his-1-4-billion-crypto-profits-claims-he-doesnt-know-the-details-while-maintaining-i-could-know/>
   - <https://www.yahoo.com/news/politics/articles/trump-says-didnt-know-windfall-234408615.html>
 - **Confirmed**: TRUMP has lost about 95% of its value; MELANIA about 99%.
-  - TRUMP peaked at about $73.43 on 2025-01-19. It was about 95% down in early 2026 and about 98% down (about $1.05-1.10) by Nov 9-13, 2026. MELANIA peaked at about $13.73 and is about 99% down.
+  - TRUMP peaked at about $73.43 on 2025-01-19. It was about 95% down in early 2026 and about 98% down by November 2026, with reported record lows of about $1.11-1.22 between Nov 4 and Nov 10 (outlets differ; the earlier write-up's $1.05-1.10 for Nov 9-13 could not be re-confirmed). MELANIA peaked at about $13.73 and is about 99% down.
   - <https://247wallst.com/investing/cryptocurrency/2026/11/09/the-trump-coin-just-hit-an-all-time-low-down-98-from-its-peak-will-trump-coin-ever-go-back-up/>
   - <https://decrypt.co/342717/melania-trump-meme-coin-jumps-after-first-lady-promotes?amp=1>
+  - <https://www.mitrade.com/insights/news/live-news/article-3-2230858-20261105>
 - **Mostly accurate**: Buyers, unless very early, have almost exclusively lost money.
   - In May 2025 Chainalysis data (via CNBC) showed about 764,000 of roughly 2M buyer wallets at a loss, while 58 wallets made more than $10M each (about $1.1B combined). Prices have fallen much further since. Retail losses across TRUMP and MELANIA are estimated at about $4.3B. Wallet counts are not people, and no exact share of losing buyers exists.
   - <https://www.nbcnews.com/tech/crypto/58-crypto-wallets-made-millions-trumps-meme-coin-764000-lost-money-dat-rcna205237>
@@ -102,10 +104,10 @@ Trump launched the official $TRUMP meme coin on the evening of January 17, 2025,
 - [[Joe Kernen]]
 - [[Melania Trump]]
 - [[Molly White]]
+- [[Office of Government Ethics]]
 - [[Retail investors Trump supporters]]
 - [[Trump 2025 OGE financial disclosure]]
 - [[Trump Organization]]
-- [[US Office of Government Ethics]]
 - [[White House Trump administration]]
 
 ## Relationships documented
@@ -130,7 +132,7 @@ Trump launched the official $TRUMP meme coin on the evening of January 17, 2025,
 - [[Melania Trump]] *promoted* [[$MELANIA meme coin]] (2025-01-19, commercial) · [[C01 $TRUMP meme coin|C01]]
 - [[Molly White]] *tracks and criticizes crypto income of* [[Donald Trump]] (media) · [[C01 $TRUMP meme coin|C01]]
 - [[Molly White]] *tracked* [[$TRUMP $MELANIA shell companies]] (media) · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
-- [[US Office of Government Ethics]] *released* [[Trump 2025 OGE financial disclosure]] (2026-06-30, regulatory) · [[C01 $TRUMP meme coin|C01]]
+- [[Office of Government Ethics]] *released* [[Trump 2025 OGE financial disclosure]] (2026-06-30, regulatory) · [[C01 $TRUMP meme coin|C01]]
 - [[Retail investors Trump supporters]] *lost ~95% on* [[$TRUMP meme coin]] (money) · [[C01 $TRUMP meme coin|C01]] [[C29 Trump family wealth gains|C29]]
 - [[Trump 2025 OGE financial disclosure]] *discloses income of* [[Donald Trump]] (2026-06-30, regulatory) · [[C01 $TRUMP meme coin|C01]]
 - [[$TRUMP meme coin]] *generated ~$600M for* [[Donald Trump]] ($600M, money) · [[C01 $TRUMP meme coin|C01]]
@@ -159,6 +161,7 @@ Trump launched the official $TRUMP meme coin on the evening of January 17, 2025,
 16. [Melania Trump Meme Coin Jumps After First Lady Promotes It, Still Down 99% From Peak](https://decrypt.co/342717/melania-trump-meme-coin-jumps-after-first-lady-promotes?amp=1) (Decrypt)
 17. [TRUMP and MELANIA Meme Coins Leave Retail Investors With $4.3 Billion Loss](https://beincrypto.com/trump-meme-coins-took-4-billion-from-retail-investors) (BeInCrypto)
 18. [$324M in fees and no roadmap: what's really going on with the TRUMP memecoin](https://cointelegraph.com/explained/324m-in-fees-and-no-roadmap-whats-really-going-on-with-the-trump-memecoin) (Cointelegraph)
+19. [One Corner of Crypto Missed the Post-Election Rally, and It Carries Trump's Name](https://www.mitrade.com/insights/news/live-news/article-3-2230858-20261105) (Mitrade (wire reprint), 2026-11-05)
 
 ## Full report
 
@@ -194,7 +197,7 @@ Three things need flagging:
 
 6. **Trump's answer about crypto and China: confirmed.** He gave it in a White House interview with CNBC's Joe Kernen around July 2, 2026, after the disclosure came out. Asked whether he knew about his family's crypto ventures, he said he "could know" but didn't, called it "nothing illegal," and said the US must lead or "China's going to take it over." The video then says he launched the coin "so China wouldn't do it first." That is Coffeezilla's sarcastic paraphrase. Trump did not give China as a reason for the meme coin specifically.
 
-7. **TRUMP down about 95%, MELANIA down about 99%: confirmed, and now understated for TRUMP.** TRUMP peaked at about $73.43 on January 19, 2025. A February 2026 snapshot showed it about 95% down, matching the video. By November 9-13, 2026 it was around $1.05-1.10, about 98% down, after falling further when the midterms were held. MELANIA peaked at about $13.73 and is down about 99%.
+7. **TRUMP down about 95%, MELANIA down about 99%: confirmed, and now understated for TRUMP.** TRUMP peaked at about $73.43 on January 19, 2025. A February 2026 snapshot showed it about 95% down, matching the video. By early November 2026 it was about 98% down, with reported record lows of about $1.11-1.22 between November 4 and 10 (outlets differ), after falling further when the midterms were held. MELANIA peaked at about $13.73 and is down about 99%.
 
 8. **Buyers have almost all lost money: directionally supported, not precisely quantified.** In May 2025 Chainalysis data reported by CNBC showed:
    - about 764,000 of roughly 2M buyer wallets were in the red;
@@ -235,3 +238,12 @@ Three things need flagging:
 18. Cointelegraph, "$324M in fees and no roadmap: TRUMP memecoin explained." https://cointelegraph.com/explained/324m-in-fees-and-no-roadmap-whats-really-going-on-with-the-trump-memecoin
 
 Note: several pages could not be fetched directly from this environment because of network restrictions. The figures above come from search-result extracts of those pages and agree across multiple outlets. I did not read the OGE PDF itself.
+
+### Audit (second pass, 2026-11-14)
+
+Result: upheld. Re-checked the $635-636M OGE meme-coin royalty figure (Fox Business, Honolulu Star-Advertiser), the July 2, 2026 CNBC China remark (IBTimes UK) and the November 2026 price. The exact November price was softened: fresh reports give record lows of about $1.11-1.12 (Nov 8-10) and $1.22 (Nov 4) rather than $1.05-1.10; the ~98% drawdown stands. The same disclosure also reports about $526M from WLF token sales. The audit was cut short by the search budget.
+
+- Fox Business, 2026-06-30. https://www.foxbusiness.com/politics/trump-financial-disclosure-reveals-more-than-1b-crypto-income-during-first-year-back-office
+- Honolulu Star-Advertiser, 2026-06-30. https://www.staradvertiser.com/2026/06/30/breaking-news/trump-reports-at-least-1-4-billion-in-2025-crypto-earnings/
+- IBTimes UK, 2026-07-03. https://www.ibtimes.co.uk/trump-defends-family-crypto-ventures-1806732
+- Mitrade (wire reprint), 2026-11-05. https://www.mitrade.com/insights/news/live-news/article-3-2230858-20261105

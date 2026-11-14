@@ -33,6 +33,7 @@ tags:
 ## Follow-up checks
 
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 
 ## Summary
 
@@ -135,7 +136,7 @@ The financial ties are well documented. Cantor custodies Tether's Treasury reser
 ## Relationships documented
 
 - [[26North]] *took minority stake* [[Cantor Fitzgerald]] (2025-05, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Anchorage Digital]] *issuer of* [[USAT]] (2026-01-27, commercial) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Anchorage Digital]] *issuer of* [[USAT]] (2026-01-27, commercial) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[BGC Group]] *repurchased ~16.4M shares from* [[Howard Lutnick]] (2025-05, $151.5M, money) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Bitfinex]] *co-owner; contributed ~$600M in BTC* [[Twenty One Capital (XXI)]] (2025-04-23, $600M, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Bloomberg News]] *reported Tether loan* [[Dynasty Trust A]] (2026-03-18, media) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
@@ -149,9 +150,9 @@ The financial ties are well documented. Cantor custodies Tether's Treasury reser
 - [[Donald Trump]] *signed* [[GENIUS Act]] (2025-07-18, political) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Donald Trump]] *nominated as Commerce Secretary* [[Howard Lutnick]] (2024-11, political) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Elizabeth Warren]] *letter on Tether loan* [[Howard Lutnick]] (2026-04-29, legal) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Howard Lutnick]] *father of* [[Brandon Lutnick]] (family) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Howard Lutnick]] *father of* [[Brandon Lutnick]] (family) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Howard Lutnick]] *former chairman/CEO; divested to children's trusts* [[Cantor Fitzgerald]] (2025-05-16, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Howard Lutnick]] *father of* [[Kyle Lutnick]] (family) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Howard Lutnick]] *father of* [[Kyle Lutnick]] (family) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Howard Lutnick]] *negotiated Cantor investment in* [[Tether]] (2024-04, commercial) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Howard Lutnick]] *Secretary of Commerce* [[US Department of Commerce]] (2025-02-18, political) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Jack Mallers]] *CEO* [[Twenty One Capital (XXI)]] (ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]

@@ -21,6 +21,11 @@ tags:
 
 > World Liberty applied for a national (trust) bank charter and was provisionally/conditionally approved by the OCC, whose head the president appoints; WLF says approval was handled by career staff.
 
+## Follow-up checks
+
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+
 ## Summary
 
 WLF's subsidiary WLTC Holdings applied to the OCC in January 2026 for a national trust bank charter, World Liberty Trust Co., N.A., to issue and custody USD1. The OCC granted preliminary conditional approval on 14 Aug 2026 (CD #1385), and the president does appoint the OCC's head, Comptroller Jonathan Gould. Two details are off: there was one application, not several 'charters', and the 'career staff' line comes mainly from the OCC's own approval letter, while WLF (Zach Witkoff) issued a general denial of favoritism.

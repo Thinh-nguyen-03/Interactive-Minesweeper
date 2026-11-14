@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Kushner"
-connections: 34
-claims: 5
+connections: 41
+claims: 12
 tags:
   - "entity"
   - "type/person"
@@ -29,6 +29,13 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[C37 Jared Kushner's hacked phone]] · Unverified
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
 - [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Pending
+- [[C65 Officials who decided matters involving their former clients or partners]] · Pending
+- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Pending
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
 
 ## Relationships
 
@@ -47,13 +54,16 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[Jamie Raskin]] *demanded recusal and bank records from* [[Jared Kushner]] (2026-10, political) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Jamie Raskin]] *demanded recusal from Russia/Iran envoy role citing hack reports* [[Jared Kushner]] (2026-10, regulatory) · [[C37 Jared Kushner's hacked phone|C37]]
 - [[Jamie Raskin]] *expanded probe into $120M Albanian land purchase, FCPA questions* [[Jared Kushner]] (2026-08-24, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Jared Kushner]] *founded* [[Affinity Partners]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Jared Kushner]] *founded (not named in alleged accounts)* [[Affinity Partners]] (ownership) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
+- [[Jared Kushner]] *founded and runs* [[Affinity Partners]] (ownership) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] (2021, ownership) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
 - [[Jared Kushner]] *founder and head of* [[Affinity Partners]] (ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Jared Kushner]] *founder of* [[Affinity Partners]] (ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Jared Kushner]] *runs* [[Affinity Partners]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *executive board member of* [[Board of Peace]] (2026-01, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *exempt from disclosure under* [[Conflict-of-interest laws]] (legal) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Jared Kushner]] *son-in-law of* [[Donald Trump]] (family) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *son-in-law of* [[Donald Trump]] (family) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Jared Kushner]] *participated in US talks with* [[Iran]] (2026, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *married to* [[Ivanka Trump]] (family) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Jared Kushner]] *reportedly messaged via WhatsApp (single source)* [[Mohammed bin Salman]] (2018, political) · [[C37 Jared Kushner's hacked phone|C37]]
@@ -69,7 +79,7 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[MIVD (Dutch Military Intelligence and Security Service)]] *allegedly viewed phone screen via turned GRU officer* [[Jared Kushner]] (2018, legal) · [[C37 Jared Kushner's hacked phone|C37]]
 - [[Molly White]] *describes conflicts of* [[Jared Kushner]] (media) · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[The New Yorker]] *investigated Albania project; Kushner rebutted* [[Jared Kushner]] (2026-10-08, media) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[National Security Agency]] *held intercept of two foreign nationals discussing* [[Jared Kushner]] (2025, regulatory) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
+- [[National Security Agency]] *reportedly held intercept of two foreign nationals discussing (per whistleblower complaint/WSJ; contents unverified)* [[Jared Kushner]] (2025, regulatory) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Salt Typhoon]] *targeted phone/call data of (access unconfirmed)* [[Jared Kushner]] (2024-10, legal) · [[C37 Jared Kushner's hacked phone|C37]]
 - [[Tulsi Gabbard]] *allegedly restricted NSA intercept of foreigners discussing* [[Jared Kushner]] (2025, regulatory) · [[C37 Jared Kushner's hacked phone|C37]]
 - [[Vanity Fair (Condé Nast)]] *published excerpt alleging phone hack and secret accounts* [[Jared Kushner]] (2026-10-22, media) · [[C37 Jared Kushner's hacked phone|C37]]

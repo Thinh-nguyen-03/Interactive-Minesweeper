@@ -10,8 +10,8 @@ aliases:
   - "GetTrumpMemes.com"
   - "Official Trump"
   - "Trump coin"
-connections: 24
-claims: 7
+connections: 27
+claims: 9
 tags:
   - "entity"
   - "type/asset"
@@ -37,6 +37,8 @@ Official Trump meme coin launched two days before the inauguration; ~$600M to Tr
 - [[C29 Trump family wealth gains]] · Mostly accurate
 - [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
+- [[C67 Investors who show up in several Trump-family vehicles]] · Pending
 
 ## Relationships
 
@@ -64,11 +66,13 @@ Official Trump meme coin launched two days before the inauguration; ~$600M to Tr
 - [[Securities and Exchange Commission]] *staff: meme coins generally not securities; no action* [[$TRUMP meme coin]] (2025-02-27, regulatory) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[$TRUMP meme coin]] *generated about $635M in licensing royalties in 2025* [[Donald Trump]] (2025, $635M, money) · [[C29 Trump family wealth gains|C29]]
 - [[$TRUMP meme coin]] *generated ~$600M for* [[Donald Trump]] ($600M, money) · [[C01 $TRUMP meme coin|C01]]
+- [[$TRUMP meme coin]] *~$635M royalties in 2025 via CIC Digital* [[Donald Trump]] (2025, $635M, money) · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[$TRUMP meme coin]] *generated at least $350M in token sales and fees for operating entities (FT estimate)* [[Fight Fight Fight LLC]] (2025-03, $350M, money) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[$TRUMP meme coin]] *launched two days before* [[January 2025 inauguration]] (2025-01, political) · [[C01 $TRUMP meme coin|C01]]
 - [[$TRUMP meme coin]] *top 220 holders invited to* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-12, commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[$TRUMP $MELANIA shell companies]] *hold proceeds of* [[$TRUMP meme coin]] (ownership) · [[C01 $TRUMP meme coin|C01]]
 - [[Top $TRUMP holders]] *hold most of* [[$TRUMP meme coin]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Proposed $TRUMP digital-asset treasury]] *would buy and hold* [[$TRUMP meme coin]] (2025-10, commercial) · [[C55 How much has the Trump family made Competing totals|C55]]
 
 ## Themes
 

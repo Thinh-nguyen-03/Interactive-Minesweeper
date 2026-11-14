@@ -5,8 +5,8 @@ type: "company"
 aliases:
   - "Hut 8 Corp."
   - "Hut8"
-connections: 3
-claims: 1
+connections: 5
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -22,6 +22,8 @@ Energy infrastructure / bitcoin miner that contributed mining equipment for 80% 
 ## Appears in claims
 
 - [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Pending
+- [[C67 Investors who show up in several Trump-family vehicles]] · Pending
 
 ## Relationships
 

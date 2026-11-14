@@ -2,8 +2,8 @@
 id: "trump-mobile"
 kind: "entity"
 type: "company"
-connections: 7
-claims: 1
+connections: 8
+claims: 2
 tags:
   - "entity"
   - "type/company"
@@ -19,6 +19,7 @@ Trump-branded mobile venture selling the T1 phone.
 ## Appears in claims
 
 - [[C17 Trump merchandise and the T1 phone]] · Mostly accurate
+- [[C63 Shell entities and ownership chains]] · Pending
 
 ## Relationships
 

@@ -128,6 +128,10 @@ Every product named exists and pays Trump royalties: NFTs (Dec 2022), watches, g
 - [[Trump watches]] *paid royalties (2024) to* [[Donald Trump]] (2024, $2.8M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[US Congress]] *Democratic members questioned marketing of* [[Trump Mobile]] (2025-08-05, political) · [[C17 Trump merchandise and the T1 phone|C17]]
 
+## Leads not covered by the video
+
+- **Trump Mobile's 590,000 pre-order claim vs. leaked order data**: The data exposure that hit Coffeezilla reportedly showed about 10,000 unique customers and about 30,000 orders, a fraction of the ~590,000 pre-orders Trump Mobile claimed. This bears on the venture's marketing claims, which Democrats have already asked the FTC to probe. [source](https://gizmodo.com/trump-mobile-leaks-customers-data-and-the-phone-isnt-even-out-yet-2000762600) · [[Trump Mobile]] [[T1 phone]] [[Donald Trump Jr]] [[Eric Trump]] [[Coffeezilla]]
+
 ## Sources
 
 1. [Donald Trump $99 NFTs ... sell out](https://itv.com/news/2022-12-16/trump-releases-nfts-depicting-himself-as-superhero-astronaut-and-cowboy) (ITV News, 2022-12-16)

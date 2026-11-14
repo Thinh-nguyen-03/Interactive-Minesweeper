@@ -6,8 +6,8 @@ aliases:
   - "Cumberland"
   - "Cumberland DRW"
   - "DRW"
-connections: 8
-claims: 2
+connections: 9
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -25,6 +25,7 @@ Don Wilson's crypto trading firm; SEC enforcement case dismissed with prejudice.
 
 - [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]] · Mostly accurate
 - [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Pending
 
 ## Relationships
 

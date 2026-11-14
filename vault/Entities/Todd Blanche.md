@@ -2,8 +2,8 @@
 id: "todd-blanche"
 kind: "entity"
 type: "person"
-connections: 4
-claims: 2
+connections: 6
+claims: 4
 tags:
   - "entity"
   - "type/person"
@@ -20,6 +20,8 @@ Deputy Attorney General; author of the Apr 2025 memo
 
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
+- [[C61 Shared lawyers and law firms across the deals]] · Pending
+- [[C65 Officials who decided matters involving their former clients or partners]] · Pending
 
 ## Relationships
 

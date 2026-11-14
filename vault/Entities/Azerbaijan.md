@@ -2,8 +2,8 @@
 id: "azerbaijan"
 kind: "entity"
 type: "country"
-connections: 3
-claims: 2
+connections: 4
+claims: 3
 tags:
   - "entity"
   - "type/country"
@@ -20,6 +20,7 @@ Alleged routing jurisdiction for the Saudi/UAE funds and an alleged $1B transfer
 
 - [[C37 Jared Kushner's hacked phone]] · Unverified
 - [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
 
 ## Relationships
 

@@ -5,8 +5,8 @@ type: "asset"
 aliases:
   - "U.S. D1"
   - "USD1 stablecoin"
-connections: 24
-claims: 10
+connections: 26
+claims: 12
 tags:
   - "entity"
   - "type/asset"
@@ -35,6 +35,8 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
+- [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Pending
 
 ## Relationships
 
@@ -53,6 +55,7 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[GENIUS Act]] *regulates (USD1 marketed as compliant)* [[USD1]] (regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[MGX]] *chose as settlement stablecoin* [[USD1]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[MGX]] *used for $2B Binance deal* [[USD1]] (2025-05-01, $2B, money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[MGX]] *used to settle Binance deal* [[USD1]] (2025-05-01, commercial) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[MGX]] *used to settle Binance investment* [[USD1]] (2025-05-01, $2B, commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[USAT]] *competes with (US GENIUS-compliant stablecoins)* [[USD1]] (2026-01, commercial) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[USD1]] *marketed as 2nd-largest compliant coin* [[GENIUS Act]] (regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]

@@ -418,3 +418,14 @@ The brief describes a paid pardon-lobbying industry (Roger Stone, Ches McDowell/
 43. Rep. Min, probe escalation, Jun 15, 2026. https://min.house.gov/media/press-releases/representative-dave-min-and-senator-peter-welch-escalate-oversight
 44. VIN News, Schwartz pardon, Nov 15, 2025. https://vinnews.com/2025/11/15/trump-grants-pardon-to-former-monsey-nursing%E2%80%91home-executive/
 45. Reason, 6,000 clemency applications rejected, Jul 26, 2026. https://reason.com/2026/07/26/trump-says-he-believes-in-giving-people-a-second-chance-for-6000-people-the-answer-was-no/
+
+
+### Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld** (language review only; no fresh searches)
+
+Checked:
+- Language review of summary and sub-claims for unattributed allegations
+
+Changes:
+- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: no pardon is stated as bought, and the Daibes, 60 Minutes and Walczak items are attributed to their outlets. Not re-checked: the file's statements that Todd Blanche is now Attorney General and that Ed Martin left the post in Aug 2026. No changes.

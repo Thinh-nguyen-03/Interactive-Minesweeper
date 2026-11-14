@@ -362,3 +362,22 @@ This is a follow-up from C01/C02, not a quote from the video. It claims that:
 33. The Block, "Trump memecoin issuer pursues $200 million funding to build digital asset treasury", 2025-10. https://www.theblock.co/amp/post/373745/trump-memecoin-issuer-plans-funding
 
 **Method note:** direct fetches of protos.com, solanacompass.com, decrypt.co and coindesk.com failed because those hosts are outside this session's network allowlist. Their content, and that of other outlets, is cited from search-result summaries across several publications. The SDNY opinion and the docket were not read directly. Dates marked "2025-10" or similar are approximate.
+
+
+### Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld**
+
+Checked:
+- SDNY Judge Rochon dismissed the LIBRA/M3M3 class action with prejudice on 2026-09-29 and refused to add MELANIA
+- Argentina's LIBRA criminal case dismissed (sobreseimiento) in October 2026
+- TRUMP-team wallets withdrew about $94M USDC from Meteora pools in December 2025
+
+Changes:
+- No changes. The dismissal date, the with-prejudice ruling and the denial of the MELANIA/ENRON/TRUST amendment all match fresh coverage (The Defiant, crypto.news, Bitcoin.com). Judge Marcelo Martinez de Giorgi dismissed Javier and Karina Milei and others on 2026-10-23, at the prosecutor's request (Perfil, Criptonoticias). The ~$94M December 2025 USDC drain comes from on-chain trackers (AMBCrypto, CoinGape), and the team has not confirmed intent, which is consistent with the write-up's framing.
+
+New sources:
+- The Defiant, "Judge dismisses LIBRA, M3M3 class action with prejudice", 2026-09-30. https://thedefiant.io/news/regulation/judge-dismisses-libra-m3m3-class-action-with-prejudice
+- crypto.news, "LIBRA lawsuit dismissed as court rejects claims against Meteora and Chow", 2026-09-30. https://crypto.news/libra-lawsuit-dismissed-as-court-rejects-claims-against-meteora-and-chow/
+- Perfil, "Causa $LIBRA: sobreseyeron a Javier y Karina Milei", 2026-10-23. https://www.perfil.com/politica/causa-libra-sobreseyeron-javier-karina-milei-a03c89A4JP5P
+- AMBCrypto, "Is TRUMP being soft rugged? On-chain data points to a $94mln exit", 2025-12. https://ambcrypto.com/is-trump-being-soft-rugged-on-chain-data-points-to-a-94mln-exit/

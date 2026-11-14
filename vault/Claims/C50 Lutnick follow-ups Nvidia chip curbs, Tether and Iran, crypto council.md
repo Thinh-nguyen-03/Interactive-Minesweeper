@@ -28,6 +28,10 @@ tags:
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]]
 - [[C08 UAE AI chips deal, Stargate, currency swap]]
 
+## Follow-up checks
+
+- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+
 ## Summary
 
 Each of the five leads matches real, dated reporting or official documents. Axios (11 Nov 2026) reported, from unnamed sources, that Lutnick held up Trump-approved curbs on firms suspected of diverting Nvidia chips to China. Blumenthal's PSI minority staff tied Tether's USDT to Iranian shadow banking (28 Sep 2026) and then pressed Cantor (8 Oct 2026) on any Tether loan behind the Lutnick ownership transfer. By executive order, the Commerce Secretary sits on the President's Working Group on Digital Asset Markets. Cantor's $2B bitcoin-lending business exists, but Tether's part in it was only ever reported as talks. On tariff refunds, Cantor salespeople pitched refund-rights trades. Cantor says it never executed one, and no profit is documented. Every policy-for-family-gain link is still an allegation, and Commerce and Cantor deny them.
@@ -154,8 +158,8 @@ Each of the five leads matches real, dated reporting or official documents. Axio
 - [[Donald Trump]] *reportedly approved curbs on chip diverters (3+ times)* [[US Department of Commerce]] (2026, political) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Elizabeth Warren]] *sought loan records from* [[Tether]] (2026-04-29, regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Executive Order 14178]] *established* [[President's Working Group on Digital Asset Markets]] (2025-01-23, regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[Howard Lutnick]] *father of* [[Brandon Lutnick]] (family) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[Howard Lutnick]] *father of* [[Kyle Lutnick]] (family) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Howard Lutnick]] *father of* [[Brandon Lutnick]] (family) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Howard Lutnick]] *father of* [[Kyle Lutnick]] (family) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Howard Lutnick]] *allegedly delayed Entity List action against* [[Megaspeed]] (2026, regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Howard Lutnick]] *member (as Commerce Secretary)* [[President's Working Group on Digital Asset Markets]] (2025-01, advisory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Howard Lutnick]] *heads* [[US Department of Commerce]] (2025-02, political) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
@@ -334,3 +338,14 @@ The pitch is documented. A completed trade or profit is not.
 25. NOTUS, 2026-02-27. https://www.notus.org/congress/jamie-raskin-howard-lutnick-congress-house-investigation-tariffs
 26. Fortune, 2026-03-07. https://fortune.com/2026/03/07/winners-supreme-court-tariff-ruling-hedge-funds-creating-100-billion-secondary-market-refunds-brandon-howard-lutnick/
 27. Semafor, 2026-02-20. https://www.semafor.com/article/02/20/2026/cantor-fitzgerald-howard-lutnicks-old-firm-did-not-profit-from-supreme-court-tariff-ruling
+
+
+### Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld** (language review only; no fresh searches)
+
+Checked:
+- Language review of summary and sub-claims for unattributed allegations
+
+Changes:
+- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the Axios Lutnick item is framed as reporting from unnamed sources, and Tether's role in Cantor lending as talks only. No changes.

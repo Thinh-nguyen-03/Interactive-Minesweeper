@@ -2,8 +2,8 @@
 id: "roger-stone"
 kind: "entity"
 type: "person"
-connections: 4
-claims: 2
+connections: 5
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -20,6 +20,7 @@ Pardoned Trump ally; paid $600K by Roger Ver
 
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
 
 ## Relationships
 

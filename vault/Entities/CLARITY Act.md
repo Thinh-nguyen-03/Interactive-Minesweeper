@@ -4,8 +4,8 @@ kind: "entity"
 type: "law"
 aliases:
   - "Clarity Act"
-connections: 3
-claims: 1
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/law"
@@ -17,10 +17,12 @@ tags:
 Crypto market-structure bill Trump pushed.
 
 - Crypto market-structure bill; passed House 2025, failed Senate cloture 2026-09-15
+- Market-structure bill that stalled in 2026
 
 ## Appears in claims
 
 - [[C11 GENIUS CLARITY Acts and USD1]] · Mostly accurate
+- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 
 ## Relationships
 

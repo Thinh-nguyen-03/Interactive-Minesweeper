@@ -8,7 +8,7 @@
     {
       "statement": "Aryam Investment 1, backed by Tahnoon, bought 49% of World Liberty Financial, and G42's Peng Xiao and lawyer Martin Edelman took WLF board seats.",
       "verdict": "confirmed",
-      "finding": "Per the WSJ (2026-02-01), as relayed by several outlets, Aryam agreed on about 2025-01-16 to pay $500M for 49%. $250M was paid upfront, about $187M of it to Trump-family entities. Two Aryam executives who also hold top G42 posts, Peng Xiao (G42 CEO) and Martin Edelman (G42's general counsel and a long-time Tahnoon lawyer), joined WLF's five-member board. No US approval was sought or disclosed. Sens. Warren and Kim asked Treasury Secretary Bessent in Feb 2026 to have CFIUS review the stake, and a House inquiry opened on 2026-02-05. No public CFIUS outcome was found. An unnamed person familiar with the deal said it involved no G42 money.",
+      "finding": "Per the WSJ (2026-02-01), as relayed by several outlets, Aryam agreed on about 2025-01-16 to pay $500M for 49%. $250M was paid upfront, about $187M of it to Trump-family entities. Two Aryam executives who also hold top G42 posts, Peng Xiao (G42 CEO) and Martin Edelman (a US lawyer listed as a G42 official; one dossier calls him G42's general counsel), joined WLF's five-member board. No US approval was sought or disclosed. Sens. Warren and Kim asked Treasury Secretary Bessent in Feb 2026 to have CFIUS review the stake, and a House inquiry opened on 2026-02-05. No public CFIUS outcome was found. An unnamed person familiar with the deal said it involved no G42 money.",
       "sources": [
         "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
         "https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj",
@@ -174,7 +174,7 @@
     {"id": "chimera-investment", "name": "Chimera Investment LLC", "type": "fund", "description": "Tahnoon-overseen vehicle that majority-owns Lunate."},
     {"id": "adq", "name": "ADQ", "type": "fund", "description": "Abu Dhabi sovereign fund formerly chaired by Tahnoon; folded into L'IMAD in Jan 2026."},
     {"id": "peng-xiao", "name": "Peng Xiao", "type": "person", "description": "G42 CEO; Aryam representative on WLF's board; gave up US citizenship for UAE nationality."},
-    {"id": "martin-edelman", "name": "Martin Edelman", "type": "person", "description": "US lawyer and G42 general counsel; Aryam representative on WLF's board."},
+    {"id": "martin-edelman", "name": "Martin Edelman", "type": "person", "description": "US lawyer and G42 official (reported as general counsel); Aryam representative on WLF's board."},
     {"id": "fiacc-larkin", "name": "Fiacc Larkin", "type": "person", "description": "G42 head of crypto; reported WLF 'chief strategic adviser' from Jan 2025."},
     {"id": "world-liberty-financial", "name": "World Liberty Financial", "type": "company", "description": "Trump-family-linked crypto venture; issuer of USD1."},
     {"id": "wltc-holdings", "name": "WLTC Holdings LLC", "type": "company", "description": "Parent of WLF's proposed national trust bank."},
@@ -226,7 +226,7 @@
     {"source": "peng-xiao", "target": "world-liberty-financial", "label": "board member (Aryam seat)", "type": "advisory", "date": "2025"},
     {"source": "martin-edelman", "target": "world-liberty-financial", "label": "board member (Aryam seat)", "type": "advisory", "date": "2025"},
     {"source": "peng-xiao", "target": "g42", "label": "CEO of", "type": "ownership"},
-    {"source": "martin-edelman", "target": "g42", "label": "general counsel of", "type": "advisory"},
+    {"source": "martin-edelman", "target": "g42", "label": "official (reported general counsel) of", "type": "advisory"},
     {"source": "fiacc-larkin", "target": "world-liberty-financial", "label": "reported chief strategic adviser to", "type": "advisory", "date": "2025-01"},
     {"source": "fiacc-larkin", "target": "g42", "label": "head of crypto at", "type": "commercial"},
     {"source": "tahnoon-bin-zayed", "target": "g42", "label": "chairs", "type": "ownership"},

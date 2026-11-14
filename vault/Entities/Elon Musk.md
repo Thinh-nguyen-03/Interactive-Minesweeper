@@ -2,8 +2,8 @@
 id: "elon-musk"
 kind: "entity"
 type: "person"
-connections: 4
-claims: 3
+connections: 5
+claims: 4
 tags:
   - "entity"
   - "type/person"
@@ -22,6 +22,7 @@ Reportedly consulted by Trump before approving the curbs (per Reuters' summary o
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
 
 ## Relationships
 

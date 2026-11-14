@@ -92,7 +92,7 @@ Documented: the first Trump Presidential Library Fund (incorporated Dec 2024) wa
 
 ## People and organisations
 
-- [[ABC News (Disney)]]
+- [[ABC News]]
 - [[Citizens for Responsibility and Ethics in Washington]]
 - [[Constitutional Accountability Center]]
 - [[Donald Trump]]
@@ -127,10 +127,10 @@ Documented: the first Trump Presidential Library Fund (incorporated Dec 2024) wa
 
 ## Relationships documented
 
-- [[ABC News (Disney)]] *settlement paid to (per 2025 disclosure)* [[Trump Presidential Library Foundation]] (2024-12, $15M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[ABC News]] *settlement paid to (per 2025 disclosure)* [[Trump Presidential Library Foundation]] (2024-12, $15M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Constitutional Accountability Center]] *counsel for plaintiffs in* [[Sistrunk Seeds v. Trump]] (2026-05-13, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Citizens for Responsibility and Ethics in Washington]] *reported on Trump Organization role and hotel plans* [[Trump Presidential Library Foundation]] (2026, media) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Elizabeth Warren]] *questioned on library settlement* [[ABC News (Disney)]] (2026-03-11, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Elizabeth Warren]] *questioned on library settlement* [[ABC News]] (2026-03-11, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Elizabeth Warren]] *questioned on library settlement* [[Meta Platforms]] (2026-03-11, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Elizabeth Warren]] *questioned on library settlement* [[Paramount]] (2026-03-11, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Elizabeth Warren]] *pressed on $6.5M-$14.5M missing and $7M unexplained spending* [[Trump Presidential Library Foundation]] (2026-07-16, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
@@ -289,3 +289,14 @@ Note on sourcing: direct fetches of warren.senate.gov and bostonglobe.com were b
 20. CBS News, Trump library / Democratic congress inquiry — https://cbsnews.com/news/trump-library-democratic-congress
 21. The Pulse of NH (ABC), "'No final decision' on future of Qatar-donated Air Force One after Trump's term", 2026 — https://thepulseofnh.com/no-final-decision-on-future-of-qatar-donated-air-force-one-after-trumps-term-white-house-official-says/
 22. Daily Beast, "Donald Trump library's missing millions mystery targeted in new probe", 2026 — https://www.thedailybeast.com/donald-trumps-librarys-missing-millions-mystery-targeted-in-new-probe
+
+
+### Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld** (language review only; no fresh searches)
+
+Checked:
+- Language review of summary and sub-claims for unattributed allegations
+
+Changes:
+- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the 'unaccounted for' amount is presented as the lawmakers' allegation, and the 747 transfer as a stated plan. No changes.
