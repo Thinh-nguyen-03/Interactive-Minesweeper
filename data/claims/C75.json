@@ -1,0 +1,1017 @@
+{
+  "id": "C75",
+  "title": "Congo minerals diplomacy: Boulos, Gentry Beach and the firms that benefited",
+  "verdict": "partly-accurate",
+  "confidence": "medium",
+  "summary": "The brief's main pieces are documented. Massad Boulos fronted the US minerals-for-security diplomacy that produced the June 27, 2025 DRC-Rwanda peace agreement and the December 4, 2025 Washington Accords. Don Jr.'s friend Gentry Beach (America First Global) led a consortium with Mercuria that sought the M23-held Rubaya coltan mine, and Beach toured Central Africa seeking concessions until Don Jr.'s lawyer sent him a cease-and-desist (WSJ). The assets that actually changed hands under the US framework went to firms with no documented Trump-family tie: Virtus Minerals (Chemaf; Reuters found it overstated its mining experience), KoBold Metals (Manono) and the DFC/ADQ-backed Orion consortium (Glencore stake MOU). Beach is not documented as a bidder for Chemaf; that bid was Virtus/Orion, and UBA's $50M facility was for a rival bidder, Buenassa. Erik Prince's Vectus works for Kinshasa on taxes and security, but State says it has no DRC contract with him. No source documents a Boulos or Trump-family financial stake in any DRC asset.",
+  "sub_claims": [
+    {
+      "statement": "Massad Boulos (Tiffany Trump's father-in-law, Senior Advisor for Africa) led the US minerals-for-security diplomacy that produced the June 27, 2025 DRC-Rwanda peace agreement and the December 4, 2025 Washington Accords.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (multiple outlets; established in C65/C66). Rwanda and the DRC signed a US-brokered peace agreement in Washington in late June 2025 (BusinessDay/Reuters, 29 Jun 2025). On 4 Dec 2025 Trump hosted the signing of the Washington Accords, a set of five documents: a peace agreement, a regional integration framework, a US-DRC Strategic Partnership Agreement, a US-Rwanda economic framework and a US-DRC security MoU (Fox News, Signal SCV/AP, AllAfrica). Under the strategic partnership, the DRC names assets for a 'Strategic Asset Reserve'. Qualifying projects must guarantee control by a US person or entity and send offtake to the US market (Egmont Institute analysis). Africa Confidential called Boulos and Beach 'prime movers' in the business-infused talks (single-source characterisation).",
+      "sources": [
+        "https://www.businessday.co.za/bd/world/2025-06-29-rwanda-congo-sign-peace-deal-in-us-to-end-fighting-attract-investment/",
+        "https://www.foxnews.com/politics/trump-hosts-washington-accords-rwanda-congo-peace-deal-signing-vows-us-rare-earths-purchases.amp",
+        "https://signalscv.com/2025/12/trump-presides-over-peace-signing-between-democratic-republic-of-congo-and-rwanda/",
+        "https://egmontinstitute.be/the-washington-agreements-peace-for-business-is-not-enough/",
+        "https://www.africa-confidential.com/article/id/15443/washington-tries-a-new-push-in-kinshasa"
+      ]
+    },
+    {
+      "statement": "Gentry Beach, a longtime friend of Donald Trump Jr. and former Trump 2016 finance co-chair, led a consortium with Mercuria seeking the rights to the Rubaya coltan mine.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (Reuters, relayed by Mining.com, Miningmx and Northern Miner, June-July 2025; also FT and Africa Confidential). Beach chairs America First Global. He confirmed his interest to Reuters but gave no details. Reuters reported his group proposed taking a majority stake, with Kinshasa keeping about 30%. Swiss trader Mercuria would market the output, and output would flow legally via Rwanda to a proposed Kigali smelter, with investment possibly over $500M. Rubaya is held by AFC/M23. The UN estimates the rebels take at least $800,000 a month in coltan taxes there. In February 2026 Kinshasa put Rubaya on the shortlist of assets offered to the US (Reuters, 19 Feb 2026), and a State Department official said US firms were interested 'contingent on' the peace process. We found NO report of a signed Rubaya deal through Nov 2026. Africa.com relays sources saying the Trump family has no direct involvement. Beach previously ran mining ventures in Congo from 2004 (Reuters).",
+      "sources": [
+        "https://www.mining.com/trump%E2%80%91ally-eyes-congo-mine-vital-to-global-tech/",
+        "https://www.miningmx.com/news/markets/61591-us-investor-targets-congo-mine-for-peace-deal/",
+        "https://www.mining.com/web/mercuria-sizes-up-congo-coltan-mine-as-trump-pursues-peace-deal",
+        "https://www.engineeringnews.co.za/article/congo-offers-tantalum-deposit-under-m23-control-to-us-in-minerals-pact-document-shows-2026-02-19",
+        "https://www.mining.com/web/us-companies-eyeing-congo-mining-assets-state-dept-official-says/",
+        "https://africa.com/top-10-news/trump-ally-eyes-congos-conflict-mine-in-us-backed-peace-deal",
+        "https://www.africa-confidential.com/profile/id/5365/gentry-thomas-beach"
+      ]
+    },
+    {
+      "statement": "Beach traded on his Don Jr. relationship abroad (DRC, Pakistan), and Trump Jr. distanced himself with a cease-and-desist letter.",
+      "verdict": "mostly-accurate",
+      "finding": "SINGLE-SOURCE for the letter (WSJ, about Oct 2025, relayed by the Daily Beast, Raw Story and Ground News; we could not fetch the original). The WSJ reported that Beach toured Central Africa seeking mining concessions under a self-styled 'economic diplomacy' campaign he credited to President Trump, and that he showed senior Congolese officials what they described as text messages with Trump Jr. Per the same report, Trump Jr.'s lawyer sent a cease-and-desist letter in August 2025 telling Beach to stop presenting himself as Don Jr.'s business partner, and Pakistani officials asked Don Jr. whether Beach spoke for the administration; Don Jr. said he was not doing business with Beach. Beach denies ever claiming a business partnership and denies receiving the letter, though the WSJ says it reviewed texts in which he confirmed receipt. DOCUMENTED separately: Beach led an investor delegation (White-Bridge Global) to Islamabad on 30 Jan 2025, pitching billions for minerals, real estate and energy (Arab News, Dawn). Also DOCUMENTED (AP, Dec 2018): Trump Jr. and Beach had business ties, and the Trump Organization called the relationship 'strictly personal'. The NZ Herald reports Beach met Tshisekedi in Kinshasa and separately met US Ambassador Mike Hammer.",
+      "sources": [
+        "https://www.thedailybeast.com/donald-trump-jr-clashes-with-rogue-buddy-gentry-beach-for-playing-diplomat/",
+        "https://www.rawstory.com/trump-jr-destructive-information-friend/",
+        "https://ground.news/article/he-drops-trump-jrs-name-in-pursuit-of-billion-dollar-deals-its-getting-awkward",
+        "https://www.arabnews.pk/node/2588150/pakistan",
+        "https://www.dawn.com/news/1888588/new-us-admin-has-nothing-but-respect-for-pakistan-says-trump-aide",
+        "https://komonews.com/news/nation-world/trump-jr-partners-with-donor-who-pitched-govt",
+        "https://nzherald.co.nz/world/on-the-banks-of-the-congo-river-a-5-star-hotel-for-cobalt-fortune-hunters/KBTJJBU3OPDCNSGNRF3D74YKTE"
+      ]
+    },
+    {
+      "statement": "Beach sought Chemaf.",
+      "verdict": "unverified",
+      "finding": "NOT FOUND. Every source we found names the Chemaf bidders as Virtus Minerals with Orion Resource Partners (and India's Lloyds Metals), the Congolese trader Buenassa (UBA-financed), Gecamines' own counter-offer, and earlier China's Norinco (blocked in 2024). None names Beach or America First Global. Treat the brief's Beach-Chemaf link as unsupported.",
+      "sources": [
+        "https://www.mining.com/web/special-forces-veterans-lead-us-bid-to-buy-congo-cobalt-miner",
+        "https://www.semafor.com/article/01/26/2026/nigerias-uba-preps-50m-financing-for-drc-minerals-bid"
+      ]
+    },
+    {
+      "statement": "Virtus Minerals, the US firm that won Chemaf under the US-DRC pact with strong administration backing, overstated its mining experience (Reuters).",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (Reuters exclusive, 21 Apr 2026, relayed by Kitco, Mining.com, Yahoo and Table.Media). Virtus is a Delaware company founded by US special-forces and intelligence veterans. Its website claimed a Congo track record from operating a copper-cobalt processing plant. Reuters found the plant was idle and that Virtus never acquired it. State said it 'fully supports' Virtus. The chain of events: Orion and Virtus bid in July 2025, and a February 2026 MOU had Orion financing about $600M of debt, with $200M more from Virtus and Lloyds (Mongabay). On 23-24 Feb 2026 Tshisekedi replaced Gecamines' chair and CEO, and three Reuters sources said their opposition to the Virtus bid was part of the reason; Reuters said it was unclear whether the reshuffle was linked to the US talks. On 1 Apr 2026 Under Secretary Jacob Helberg announced Kinshasa's approval: about $30M for the equity plus assumed debt (owed partly to Trafigura) and a $750M capital commitment. Africa Intelligence (single-source) describes an 'aggressive pressure campaign' by Trump officials for Virtus. We found NO Trump-family, Boulos or Beach tie to Virtus or its owners. The benefit is to a US firm the administration picked, not a documented family associate.",
+      "sources": [
+        "https://www.kitco.com/news/off-the-wire/2026-04-22/us-firm-key-congo-minerals-deal-overstated-its-mining-experience",
+        "https://finance.yahoo.com/sectors/energy/articles/exclusive-us-firm-key-congo-075755712.html",
+        "https://table.media/en/africa/news-en/dr-congo-virtus-minerals-accused-of-misrepresenting-its-mining-experience",
+        "https://news.mongabay.com/2026/02/us-firm-virtus-minerals-closes-in-on-deal-for-crucial-drc-copper-and-cobalt-mines/",
+        "https://www.kitco.com/news/off-the-wire/2026-02-24/sacked-congo-state-miner-chiefs-opposed-virtus-chemaf-takeover",
+        "https://www.engineeringnews.co.za/article/us-firm-virtus-minerals-buys-congolese-cobalt-producer-chemaf-2026-04-01",
+        "https://africasacountry.com/2026/05/the-new-scramble-for-congo"
+      ]
+    },
+    {
+      "statement": "Nigeria's UBA prepared financing for a DRC minerals bid.",
+      "verdict": "confirmed",
+      "finding": "SINGLE-SOURCE (Semafor exclusive, 26 Jan 2026). UBA was drafting a $50M working-capital facility for Congolese trader Buenassa's bid for Chemaf, so it backed a rival to the US-favoured Virtus, not the US camp. There is no report it closed, and Virtus won. No source ties UBA, Tony Elumelu or Buenassa to Boulos or his Nigerian business (SCOA/Fadoul). The Boulos-Nigeria overlap is only that both are Nigerian, which is our observation (INFERRED, and weak).",
+      "sources": [
+        "https://www.semafor.com/article/01/26/2026/nigerias-uba-preps-50m-financing-for-drc-minerals-bid"
+      ]
+    },
+    {
+      "statement": "KoBold Metals (Gates/Bezos-backed) got the Manono lithium deposit with administration help, crediting Rubio and Boulos.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. KoBold agreed a framework with AVZ (7 May 2025, KoBold release) and later with Kinshasa, pledging over $1B. KoBold publicly thanked Rubio, Boulos and Tshisekedi. Per Bloomberg (12 Feb 2026), White House officials met AVZ's managing director on 21 Jan 2026 and urged a sale to an American buyer without naming one. AVZ says the KoBold-DRC agreements breach ICSID interim orders. KoBold launched a $50M exploration drive in April 2026. No Trump-family tie to KoBold was found. The documented link is government advocacy for a specific private US firm in a contested title dispute.",
+      "sources": [
+        "https://koboldmetals.com/2025/05/07/kobold-metals-and-avz-agree-on-framework-for-kobold-to-acquire-avzs-interests-in-the-manono-lithium-deposit-in-drc/",
+        "https://www.bloomberg.com/news/articles/2026-02-12/trump-aides-urged-sale-of-congo-lithium-claim-to-a-us-company",
+        "https://www.mining.com/web/trump-aides-urged-sale-of-congo-lithium-claim-to-a-us-company",
+        "https://miningmx.com/news/battery-minerals/2026-04-14-kobold-launches-major-congo-lithium-exploration-drive"
+      ]
+    },
+    {
+      "statement": "Orion's US-government-backed consortium (DFC + Abu Dhabi's ADQ) moved on a 40% stake in Glencore's DRC mines, a deal snagged on sanctioned billionaire Dan Gertler's royalties.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. Orion CMC was launched in Oct 2025 with $600M each from DFC and ADQ ($1.8B total). On 3 Feb 2026 it signed a non-binding MOU for 40% of Glencore's Mutanda and Kamoto (KCC) mines, an enterprise value of about $9B. Deputy Secretary Christopher Landau praised the deal. Bloomberg reported that Gertler's royalty claims were holding it up, and a US official said Gertler's royalties must go to Congo in any sanctions-easing deal. We found no closing through Nov 2026. CROSS-REFERENCE (documented in C57, which described ADQ as formerly chaired by Tahnoon bin Zayed and folded into L'IMAD in Jan 2026): the Abu Dhabi power centre behind the 49% WLF stake (C06) is also the sovereign co-investor beside the US government in the main US Congo minerals vehicle. That this is one network is INFERRED; no source links the two deals.",
+      "sources": [
+        "https://www.aap.com.au/aapreleases/cision20260203ae77602",
+        "https://www.businessday.co.za/companies/2026-02-03-glencore-to-sell-40-of-drc-assets-to-white-house-backed-firm/",
+        "https://www.arabianbusiness.com/industries/banking-finance/abu-dhabis-adq-to-partner-us-government-in-1-8bn-critical-minerals-project",
+        "https://news.metal.com/en/newscontent/103827661-Dan-Gertlers-royalty-claims-are-holding-up-a-9-billion-Western-bid-for-Glencores-copper-and-cobalt-mines-in-Congo",
+        "https://www.mining.com/web/us-says-billionaire-gertlers-royalties-must-go-to-congo-for-sanctions-deal/",
+        "https://www.adq.ae/newsroom/his-highness-sheikh-tahnoon-bin-zayed-commends-adqs-contributions-to-building-global-business-platforms"
+      ]
+    },
+    {
+      "statement": "Erik Prince's Vectus Global has a security/tax deal with the DRC.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (Reuters Apr 2025; UN Group of Experts via AFP and Courthouse News; GI-TOC). Prince is a Trump ally, and his deal with the DRC finance ministry began as mining tax collection and anti-smuggling work in Katanga. The UN experts say a five-year contract was signed in Dec 2024 through companies partly based in the UAE, and that it shifted toward security: drone support around Uvira, and planning to retake Uvira in Feb 2026. GI-TOC put its value at $100-200M. A September 2026 ambush in South Kivu killed an ex-NZ SAS member and wounded Tim Kennedy (Reuters, Oct 2026). State says it has no DRC contracts with Prince. Prince and Vectus did not respond to AFP or the NYT. There is no documented tie to Boulos's diplomacy beyond working for the same client government in the same conflict (INFERRED overlap).",
+      "sources": [
+        "https://www.timeslive.co.za/sunday-times-daily/africa/2025-04-18-trump-supporter-prince-reaches-deal-with-drc-to-secure-mineral-wealth/",
+        "https://www.courthousenews.com/war-and-minerals-erik-prince-and-paramilitaries-in-dr-congo/",
+        "https://www.timeslive.co.za/news/africa/2026-10-10-erik-princes-forces-suffer-battlefield-loss-in-drc-former-ufc-fighter-among-wounded-sources-say/"
+      ]
+    },
+    {
+      "statement": "Kinshasa paid Trump-linked lobbyists while courting a minerals deal.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED that Ballard Partners registered under FARA for the DRC (Florida Politics: a one-year, $900K contract, pitched on climate leadership; a 2026 FARA amendment shows April 2025 consulting for the DRC Ministry of Communication via subcontractor Asterix LLC). Ballard is the firm of Trump fundraiser Brian Ballard and former firm of Chief of Staff Susie Wiles (C64). Africa Confidential (single-source) reports that Tshisekedi signed a lobbying deal aimed at a minerals deal with Trump. Global Witness (Jul 2025) counts the DRC and Rwanda among poor countries that signed contracts with Trump-linked firms. What Ballard's DRC work covered beyond communications is not established.",
+      "sources": [
+        "https://floridapolitics.com/archives/510629-ballard-partners-signs-900k-lobbying-contract-with-democratic-republic-of-the-congo",
+        "https://efile.fara.gov/docs/7070-Amendment-20260804-7.pdf",
+        "https://africa-confidential.com/article/id/15371/tshisekedi-inks-lobbying-deal-to-bag-minerals-deal-with-trump",
+        "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid",
+        "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/"
+      ]
+    },
+    {
+      "statement": "Boulos or the Trump family holds a financial interest in any DRC asset awarded under the framework.",
+      "verdict": "unverified",
+      "finding": "NOT FOUND (consistent with C65/C66). Of the assets that moved (Chemaf to Virtus, Manono to KoBold, the Glencore stake MOU to Orion CMC), none has a documented Boulos-family or Trump-family stake. The only family-adjacent bidder is Beach, a friend Don Jr. has disowned as a business partner, and his Rubaya bid has not closed.",
+      "sources": []
+    }
+  ],
+  "corrections": [
+    "The brief pairs Beach with Chemaf. In the record, the Chemaf bidders were Virtus/Orion (the winner), Buenassa (UBA-financed), Gecamines and earlier Norinco. Beach was associated with Rubaya.",
+    "The brief lists UBA's financing among firms that benefited. It was a drafted $50M facility for Buenassa, a losing rival to the US-backed Virtus, with no reported close.",
+    "Beach's company is reported as America First Global in the Congo coverage and as White-Bridge Global in the Pakistan coverage.",
+    "The 'Washington Accords' were signed on 4 Dec 2025. The June 2025 document was the initial DRC-Rwanda peace agreement."
+  ],
+  "denials_and_context": [
+    "Beach denies claiming a business partnership with the Trump family and denies receiving the cease-and-desist letter. Trump Jr. told inquirers he does not do business with Beach (WSJ).",
+    "Sources told Africa.com the Trump family has no direct involvement in the Rubaya project.",
+    "State 'fully supports' Virtus. Gecamines and Congo's mines ministry did not respond to Reuters on Virtus's credentials.",
+    "State says it has no DRC contracts with Erik Prince. Prince and Vectus did not respond to AFP or the NYT.",
+    "KoBold declined to comment on the White House talks with AVZ. The White House says it named no specific buyer.",
+    "M23/AFC calls the US-DRC partnership unconstitutional. Analysts (Egmont, RANE) say the reserve mostly concerns Katanga, not the war-torn east, and expect the momentum to falter.",
+    "US backing for named US firms is open industrial policy. Steering assets to them is not evidence of a personal benefit to officials."
+  ],
+  "sources": [
+    {
+      "title": "Trump ally eyes Congo mine vital to global tech",
+      "publisher": "Reuters via Mining.com",
+      "url": "https://www.mining.com/trump%E2%80%91ally-eyes-congo-mine-vital-to-global-tech/",
+      "date": "2025-07-01"
+    },
+    {
+      "title": "US investor targets Congo mine for peace deal",
+      "publisher": "Miningmx",
+      "url": "https://www.miningmx.com/news/markets/61591-us-investor-targets-congo-mine-for-peace-deal/",
+      "date": "2025-07"
+    },
+    {
+      "title": "Mercuria sizes up Congo coltan mine as Trump pursues peace deal",
+      "publisher": "Bloomberg via Mining.com",
+      "url": "https://www.mining.com/web/mercuria-sizes-up-congo-coltan-mine-as-trump-pursues-peace-deal",
+      "date": "2025"
+    },
+    {
+      "title": "Congo offers tantalum deposit under M23 control to US in minerals pact, document shows",
+      "publisher": "Reuters via Engineering News",
+      "url": "https://www.engineeringnews.co.za/article/congo-offers-tantalum-deposit-under-m23-control-to-us-in-minerals-pact-document-shows-2026-02-19",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "US companies eyeing Congo mining assets, State Dept official says",
+      "publisher": "Reuters via Mining.com",
+      "url": "https://www.mining.com/web/us-companies-eyeing-congo-mining-assets-state-dept-official-says/",
+      "date": "2026"
+    },
+    {
+      "title": "Trump ally eyes Congo's conflict mine in US-backed peace deal",
+      "publisher": "Africa.com",
+      "url": "https://africa.com/top-10-news/trump-ally-eyes-congos-conflict-mine-in-us-backed-peace-deal",
+      "date": "2025-06"
+    },
+    {
+      "title": "Gentry Thomas Beach (profile)",
+      "publisher": "Africa Confidential",
+      "url": "https://www.africa-confidential.com/profile/id/5365/gentry-thomas-beach",
+      "date": "2025"
+    },
+    {
+      "title": "Washington tries a new push in Kinshasa",
+      "publisher": "Africa Confidential",
+      "url": "https://www.africa-confidential.com/article/id/15443/washington-tries-a-new-push-in-kinshasa",
+      "date": "2025"
+    },
+    {
+      "title": "Donald Trump Jr. clashes with rogue buddy Gentry Beach for playing diplomat",
+      "publisher": "The Daily Beast (citing WSJ)",
+      "url": "https://www.thedailybeast.com/donald-trump-jr-clashes-with-rogue-buddy-gentry-beach-for-playing-diplomat/",
+      "date": "2025-10"
+    },
+    {
+      "title": "'Frustrated': Donald Trump Jr. raging over friend with 'destructive information' about him",
+      "publisher": "Raw Story (citing WSJ)",
+      "url": "https://www.rawstory.com/trump-jr-destructive-information-friend/",
+      "date": "2025-10"
+    },
+    {
+      "title": "He drops Trump Jr.'s name in pursuit of billion-dollar deals. It's getting awkward",
+      "publisher": "Ground News (WSJ aggregation)",
+      "url": "https://ground.news/article/he-drops-trump-jrs-name-in-pursuit-of-billion-dollar-deals-its-getting-awkward",
+      "date": "2025-10-06"
+    },
+    {
+      "title": "Texas investor close to Trump leads investment delegation to Pakistan",
+      "publisher": "Arab News",
+      "url": "https://www.arabnews.pk/node/2588150/pakistan",
+      "date": "2025-01-30"
+    },
+    {
+      "title": "New US admin has nothing but respect for Pakistan, says Trump associate",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/1888588/new-us-admin-has-nothing-but-respect-for-pakistan-says-trump-aide",
+      "date": "2025-01"
+    },
+    {
+      "title": "Trump Jr. partners with donor who pitched government",
+      "publisher": "AP via KOMO",
+      "url": "https://komonews.com/news/nation-world/trump-jr-partners-with-donor-who-pitched-govt",
+      "date": "2018-12"
+    },
+    {
+      "title": "On the banks of the Congo River, a 5-star hotel for cobalt fortune hunters",
+      "publisher": "NZ Herald",
+      "url": "https://nzherald.co.nz/world/on-the-banks-of-the-congo-river-a-5-star-hotel-for-cobalt-fortune-hunters/KBTJJBU3OPDCNSGNRF3D74YKTE",
+      "date": "2025"
+    },
+    {
+      "title": "US firm in key Congo minerals deal overstated its mining experience, documents show",
+      "publisher": "Reuters via Kitco",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-04-22/us-firm-key-congo-minerals-deal-overstated-its-mining-experience",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "Exclusive-US firm in key Congo minerals deal overstated its mining experience",
+      "publisher": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/exclusive-us-firm-key-congo-075755712.html",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "DR Congo: Virtus Minerals accused of misrepresenting its mining experience",
+      "publisher": "Table.Media",
+      "url": "https://table.media/en/africa/news-en/dr-congo-virtus-minerals-accused-of-misrepresenting-its-mining-experience",
+      "date": "2026-04"
+    },
+    {
+      "title": "Special forces veterans lead US bid to buy Congo cobalt miner",
+      "publisher": "Bloomberg via Mining.com",
+      "url": "https://www.mining.com/web/special-forces-veterans-lead-us-bid-to-buy-congo-cobalt-miner",
+      "date": "2025-07"
+    },
+    {
+      "title": "US firm Virtus Minerals closes in on deal for crucial DRC copper and cobalt mines",
+      "publisher": "Mongabay",
+      "url": "https://news.mongabay.com/2026/02/us-firm-virtus-minerals-closes-in-on-deal-for-crucial-drc-copper-and-cobalt-mines/",
+      "date": "2026-02"
+    },
+    {
+      "title": "Sacked Congo state miner chiefs opposed Virtus-Chemaf takeover",
+      "publisher": "Reuters via Kitco",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-02-24/sacked-congo-state-miner-chiefs-opposed-virtus-chemaf-takeover",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "US firm Virtus Minerals buys Congolese cobalt producer Chemaf",
+      "publisher": "Reuters via Engineering News",
+      "url": "https://www.engineeringnews.co.za/article/us-firm-virtus-minerals-buys-congolese-cobalt-producer-chemaf-2026-04-01",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "The new scramble for Congo",
+      "publisher": "Africa Is a Country",
+      "url": "https://africasacountry.com/2026/05/the-new-scramble-for-congo",
+      "date": "2026-05"
+    },
+    {
+      "title": "Exclusive / Nigeria's UBA preps $50M financing for DRC minerals bid",
+      "publisher": "Semafor",
+      "url": "https://www.semafor.com/article/01/26/2026/nigerias-uba-preps-50m-financing-for-drc-minerals-bid",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "KoBold Metals and AVZ agree on framework for KoBold to acquire AVZ's interests in the Manono lithium deposit",
+      "publisher": "KoBold Metals",
+      "url": "https://koboldmetals.com/2025/05/07/kobold-metals-and-avz-agree-on-framework-for-kobold-to-acquire-avzs-interests-in-the-manono-lithium-deposit-in-drc/",
+      "date": "2025-05-07"
+    },
+    {
+      "title": "Trump aides urged sale of Congo lithium claim to a US company",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-12/trump-aides-urged-sale-of-congo-lithium-claim-to-a-us-company",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "KoBold launches major Congo lithium exploration drive",
+      "publisher": "Miningmx",
+      "url": "https://miningmx.com/news/battery-minerals/2026-04-14-kobold-launches-major-congo-lithium-exploration-drive",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "Proposed acquisition by US-backed Orion Critical Mineral Consortium of a strategic stake in Glencore's DRC assets",
+      "publisher": "Glencore/Orion release via AAP",
+      "url": "https://www.aap.com.au/aapreleases/cision20260203ae77602",
+      "date": "2026-02-03"
+    },
+    {
+      "title": "Glencore to sell 40% of DRC assets to White House-backed firm",
+      "publisher": "BusinessDay",
+      "url": "https://www.businessday.co.za/companies/2026-02-03-glencore-to-sell-40-of-drc-assets-to-white-house-backed-firm/",
+      "date": "2026-02-03"
+    },
+    {
+      "title": "Abu Dhabi's ADQ to partner US government in $1.8bn critical minerals project",
+      "publisher": "Arabian Business",
+      "url": "https://www.arabianbusiness.com/industries/banking-finance/abu-dhabis-adq-to-partner-us-government-in-1-8bn-critical-minerals-project",
+      "date": "2025-10"
+    },
+    {
+      "title": "Dan Gertler's royalty claims are holding up a $9 billion Western bid for Glencore's mines",
+      "publisher": "SMM (citing Bloomberg)",
+      "url": "https://news.metal.com/en/newscontent/103827661-Dan-Gertlers-royalty-claims-are-holding-up-a-9-billion-Western-bid-for-Glencores-copper-and-cobalt-mines-in-Congo",
+      "date": "2026-03"
+    },
+    {
+      "title": "US says billionaire Gertler's royalties must go to Congo for sanctions deal",
+      "publisher": "Bloomberg via Mining.com",
+      "url": "https://www.mining.com/web/us-says-billionaire-gertlers-royalties-must-go-to-congo-for-sanctions-deal/",
+      "date": "2026"
+    },
+    {
+      "title": "Trump administration eased sanctions on Israeli mining magnate Gertler",
+      "publisher": "Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/trump-administration-eased-sanctions-on-israeli-mining-magnate-gertler-656624",
+      "date": "2021-01"
+    },
+    {
+      "title": "Sheikh Tahnoon bin Zayed commends ADQ's contributions",
+      "publisher": "ADQ",
+      "url": "https://www.adq.ae/newsroom/his-highness-sheikh-tahnoon-bin-zayed-commends-adqs-contributions-to-building-global-business-platforms",
+      "date": "2025"
+    },
+    {
+      "title": "Trump supporter Prince reaches deal with DRC to secure mineral wealth",
+      "publisher": "Reuters via TimesLIVE",
+      "url": "https://www.timeslive.co.za/sunday-times-daily/africa/2025-04-18-trump-supporter-prince-reaches-deal-with-drc-to-secure-mineral-wealth/",
+      "date": "2025-04-18"
+    },
+    {
+      "title": "War and minerals: Erik Prince and paramilitaries in DR Congo",
+      "publisher": "AFP via Courthouse News",
+      "url": "https://www.courthousenews.com/war-and-minerals-erik-prince-and-paramilitaries-in-dr-congo/",
+      "date": "2026"
+    },
+    {
+      "title": "Erik Prince's forces suffer battlefield loss in DRC, former UFC fighter among wounded",
+      "publisher": "Reuters via TimesLIVE",
+      "url": "https://www.timeslive.co.za/news/africa/2026-10-10-erik-princes-forces-suffer-battlefield-loss-in-drc-former-ufc-fighter-among-wounded-sources-say/",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "Ballard Partners signs $900K lobbying contract with Democratic Republic of the Congo",
+      "publisher": "Florida Politics",
+      "url": "https://floridapolitics.com/archives/510629-ballard-partners-signs-900k-lobbying-contract-with-democratic-republic-of-the-congo",
+      "date": "unknown"
+    },
+    {
+      "title": "FARA registration 7070 amendment (Ballard Partners)",
+      "publisher": "US DOJ FARA eFile",
+      "url": "https://efile.fara.gov/docs/7070-Amendment-20260804-7.pdf",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Tshisekedi inks lobbying deal to bag minerals deal with Trump",
+      "publisher": "Africa Confidential",
+      "url": "https://africa-confidential.com/article/id/15371/tshisekedi-inks-lobbying-deal-to-bag-minerals-deal-with-trump",
+      "date": "2025"
+    },
+    {
+      "title": "Revealed: Trump-linked firms cash in on mineral lobbying deals as US cuts aid",
+      "publisher": "Global Witness",
+      "url": "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid",
+      "date": "2025-07"
+    },
+    {
+      "title": "Foreign interests are paying millions to a Trump-linked lobbying firm",
+      "publisher": "Sludge",
+      "url": "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/",
+      "date": "2026-02-05"
+    },
+    {
+      "title": "Rwanda, Congo sign peace deal in US to end fighting, attract investment",
+      "publisher": "Reuters via BusinessDay",
+      "url": "https://www.businessday.co.za/bd/world/2025-06-29-rwanda-congo-sign-peace-deal-in-us-to-end-fighting-attract-investment/",
+      "date": "2025-06-29"
+    },
+    {
+      "title": "Trump hosts 'Washington Accords' Rwanda-Congo peace deal signing",
+      "publisher": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-hosts-washington-accords-rwanda-congo-peace-deal-signing-vows-us-rare-earths-purchases.amp",
+      "date": "2025-12-04"
+    },
+    {
+      "title": "Trump presides over peace signing between DRC and Rwanda",
+      "publisher": "AP via Signal SCV",
+      "url": "https://signalscv.com/2025/12/trump-presides-over-peace-signing-between-democratic-republic-of-congo-and-rwanda/",
+      "date": "2025-12-04"
+    },
+    {
+      "title": "The Washington Agreements: peace for business is not enough",
+      "publisher": "Egmont Institute",
+      "url": "https://egmontinstitute.be/the-washington-agreements-peace-for-business-is-not-enough/",
+      "date": "2025-12"
+    }
+  ],
+  "entities": [
+    {
+      "id": "massad-boulos",
+      "name": "Massad Boulos",
+      "type": "person",
+      "description": "Senior Advisor for Africa; Tiffany Trump's father-in-law; fronted DRC-Rwanda minerals diplomacy."
+    },
+    {
+      "id": "gentry-beach",
+      "name": "Gentry Beach",
+      "type": "person",
+      "description": "Texas investor, chair of America First Global, Don Jr.'s longtime friend, 2016 Trump finance co-chair; sought Rubaya mine."
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Old friend and past business associate of Beach; sent him a cease-and-desist (WSJ)."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Hosted the 4 Dec 2025 Washington Accords signing."
+    },
+    {
+      "id": "marco-rubio",
+      "name": "Marco Rubio",
+      "type": "person",
+      "description": "Secretary of State; thanked by KoBold for the Manono deal."
+    },
+    {
+      "id": "jacob-helberg",
+      "name": "Jacob Helberg",
+      "type": "person",
+      "description": "Under Secretary of State for Economic Affairs; announced the Virtus-Chemaf approval."
+    },
+    {
+      "id": "christopher-landau",
+      "name": "Christopher Landau",
+      "type": "person",
+      "description": "Deputy Secretary of State; praised the Orion-Glencore MOU."
+    },
+    {
+      "id": "erik-prince",
+      "name": "Erik Prince",
+      "type": "person",
+      "description": "Blackwater founder and Trump ally; Vectus Global contracts with Kinshasa."
+    },
+    {
+      "id": "dan-gertler",
+      "name": "Dan Gertler",
+      "type": "person",
+      "description": "US-sanctioned Israeli mining magnate whose royalties stall the Orion-Glencore deal."
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Tahnoon bin Zayed",
+      "type": "person",
+      "description": "Abu Dhabi security chief; former ADQ chair (per C57); behind the WLF 49% stake."
+    },
+    {
+      "id": "felix-tshisekedi",
+      "name": "Felix Tshisekedi",
+      "type": "person",
+      "description": "DRC president; met Beach; replaced Gecamines leadership in Feb 2026."
+    },
+    {
+      "id": "brian-ballard",
+      "name": "Brian Ballard",
+      "type": "person",
+      "description": "Trump fundraiser; founder of Ballard Partners."
+    },
+    {
+      "id": "susie-wiles",
+      "name": "Susie Wiles",
+      "type": "person",
+      "description": "White House chief of staff; formerly at Ballard Partners."
+    },
+    {
+      "id": "america-first-global",
+      "name": "America First Global",
+      "type": "company",
+      "description": "Beach's investment firm, the lead of the Rubaya consortium."
+    },
+    {
+      "id": "white-bridge-global",
+      "name": "White-Bridge Global",
+      "type": "company",
+      "description": "Beach-chaired firm named in his Jan 2025 Pakistan delegation."
+    },
+    {
+      "id": "mercuria",
+      "name": "Mercuria",
+      "type": "company",
+      "description": "Swiss commodity trader; Beach's Rubaya consortium partner and marketer."
+    },
+    {
+      "id": "rubaya-mine",
+      "name": "Rubaya coltan mine",
+      "type": "asset",
+      "description": "M23-held North Kivu coltan site; on DRC's Feb 2026 shortlist for the US."
+    },
+    {
+      "id": "chemaf",
+      "name": "Chemaf",
+      "type": "company",
+      "description": "DRC copper-cobalt producer (Etoile, Mutoshi), sold to Virtus in 2026."
+    },
+    {
+      "id": "virtus-minerals",
+      "name": "Virtus Minerals",
+      "type": "company",
+      "description": "Delaware firm of US military and intelligence veterans; bought Chemaf; Reuters found it overstated its experience."
+    },
+    {
+      "id": "lloyds-metals",
+      "name": "Lloyds Metals and Energy",
+      "type": "company",
+      "description": "Indian partner in the Virtus-Lloyds Chemaf JV."
+    },
+    {
+      "id": "orion-resource-partners",
+      "name": "Orion Resource Partners",
+      "type": "fund",
+      "description": "New York mining financier; leads Orion CMC; financed the Virtus bid."
+    },
+    {
+      "id": "orion-cmc",
+      "name": "Orion Critical Mineral Consortium",
+      "type": "fund",
+      "description": "$1.8B vehicle of Orion, DFC ($600M) and ADQ ($600M)."
+    },
+    {
+      "id": "adq",
+      "name": "ADQ",
+      "type": "fund",
+      "description": "Abu Dhabi sovereign fund, formerly chaired by Tahnoon; $600M into Orion CMC."
+    },
+    {
+      "id": "us-dfc",
+      "name": "US International Development Finance Corporation",
+      "type": "government",
+      "description": "$600M into Orion CMC."
+    },
+    {
+      "id": "glencore",
+      "name": "Glencore",
+      "type": "company",
+      "description": "Signed an MOU to sell 40% of Mutanda/KCC to Orion CMC."
+    },
+    {
+      "id": "trafigura",
+      "name": "Trafigura",
+      "type": "company",
+      "description": "Chemaf's major creditor ($600M 2022 loan)."
+    },
+    {
+      "id": "gecamines",
+      "name": "Gecamines",
+      "type": "company",
+      "description": "DRC state miner; Chemaf lease holder; leaders replaced Feb 2026."
+    },
+    {
+      "id": "buenassa",
+      "name": "Buenassa",
+      "type": "company",
+      "description": "Congolese trader that bid for Chemaf with UBA financing."
+    },
+    {
+      "id": "united-bank-for-africa",
+      "name": "United Bank for Africa",
+      "type": "company",
+      "description": "Nigerian bank; drafted a $50M facility for Buenassa."
+    },
+    {
+      "id": "kobold-metals",
+      "name": "KoBold Metals",
+      "type": "company",
+      "description": "Gates/Bezos-backed explorer; Manono lithium deal credited to Rubio and Boulos."
+    },
+    {
+      "id": "avz-minerals",
+      "name": "AVZ Minerals",
+      "type": "company",
+      "description": "Australian holder of the contested Manono claim; urged by the White House to sell to a US buyer."
+    },
+    {
+      "id": "vectus-global",
+      "name": "Vectus Global",
+      "type": "company",
+      "description": "Erik Prince's firm doing tax and security work for Kinshasa."
+    },
+    {
+      "id": "ballard-partners",
+      "name": "Ballard Partners",
+      "type": "company",
+      "description": "Trump-linked lobbying firm registered for the DRC."
+    },
+    {
+      "id": "m23",
+      "name": "AFC/M23",
+      "type": "government",
+      "description": "Rwanda-backed rebel movement controlling Rubaya; US-sanctioned."
+    },
+    {
+      "id": "washington-accords",
+      "name": "Washington Accords (DRC-Rwanda)",
+      "type": "event",
+      "description": "4 Dec 2025 peace and minerals package, including the US-DRC Strategic Partnership."
+    },
+    {
+      "id": "drc",
+      "name": "Democratic Republic of the Congo",
+      "type": "country",
+      "description": "Minerals-for-security partner."
+    },
+    {
+      "id": "rwanda",
+      "name": "Rwanda",
+      "type": "country",
+      "description": "Signatory; proposed processing route for Rubaya output."
+    },
+    {
+      "id": "pakistan",
+      "name": "Pakistan",
+      "type": "country",
+      "description": "Beach's Jan 2025 investment delegation destination."
+    },
+    {
+      "id": "nigeria",
+      "name": "Nigeria",
+      "type": "country",
+      "description": "Home of UBA and Boulos's SCOA business."
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "ADQ's home; site of companies in the Prince contract web."
+    },
+    {
+      "id": "state-department",
+      "name": "US State Department",
+      "type": "government",
+      "description": "Backed Virtus, KoBold and Orion; says it has no Prince contract in the DRC."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Officials pressed AVZ to sell Manono to a US buyer."
+    },
+    {
+      "id": "global-witness",
+      "name": "Global Witness",
+      "type": "media",
+      "description": "NGO that tracked Trump-linked minerals lobbying contracts."
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "Wall Street Journal",
+      "type": "media",
+      "description": "Reported the Beach cease-and-desist."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "massad-boulos",
+      "target": "washington-accords",
+      "label": "led US mediation toward",
+      "type": "political",
+      "date": "2025-04/2025-12"
+    },
+    {
+      "source": "donald-trump",
+      "target": "washington-accords",
+      "label": "hosted signing of",
+      "type": "political",
+      "date": "2025-12-04"
+    },
+    {
+      "source": "gentry-beach",
+      "target": "donald-trump-jr",
+      "label": "longtime friend and past business associate of",
+      "type": "commercial",
+      "date": "2010/2018"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "gentry-beach",
+      "label": "lawyer sent cease-and-desist to (WSJ)",
+      "type": "legal",
+      "date": "2025-08"
+    },
+    {
+      "source": "gentry-beach",
+      "target": "america-first-global",
+      "label": "chairs",
+      "type": "ownership"
+    },
+    {
+      "source": "gentry-beach",
+      "target": "white-bridge-global",
+      "label": "chairs",
+      "type": "ownership"
+    },
+    {
+      "source": "america-first-global",
+      "target": "rubaya-mine",
+      "label": "sought majority stake in (with Mercuria)",
+      "type": "commercial",
+      "date": "2025-06",
+      "amount_usd": 500000000
+    },
+    {
+      "source": "mercuria",
+      "target": "america-first-global",
+      "label": "consortium partner of",
+      "type": "commercial",
+      "date": "2025-06"
+    },
+    {
+      "source": "m23",
+      "target": "rubaya-mine",
+      "label": "controls and taxes",
+      "type": "commercial",
+      "date": "2024/2026",
+      "amount_usd": 800000
+    },
+    {
+      "source": "drc",
+      "target": "rubaya-mine",
+      "label": "put on shortlist offered to US",
+      "type": "regulatory",
+      "date": "2026-02-05"
+    },
+    {
+      "source": "gentry-beach",
+      "target": "felix-tshisekedi",
+      "label": "met in Kinshasa",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "gentry-beach",
+      "target": "pakistan",
+      "label": "led investor delegation to",
+      "type": "commercial",
+      "date": "2025-01-30"
+    },
+    {
+      "source": "massad-boulos",
+      "target": "gentry-beach",
+      "label": "described with him as 'prime movers' in DRC talks (Africa Confidential)",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "virtus-minerals",
+      "target": "chemaf",
+      "label": "acquired",
+      "type": "ownership",
+      "date": "2026-04-01",
+      "amount_usd": 30000000
+    },
+    {
+      "source": "orion-resource-partners",
+      "target": "virtus-minerals",
+      "label": "financing partner for Chemaf bid",
+      "type": "money",
+      "date": "2025-07/2026-02",
+      "amount_usd": 600000000
+    },
+    {
+      "source": "lloyds-metals",
+      "target": "virtus-minerals",
+      "label": "JV partner in Chemaf deal",
+      "type": "commercial",
+      "date": "2026-03"
+    },
+    {
+      "source": "jacob-helberg",
+      "target": "virtus-minerals",
+      "label": "announced DRC approval of Chemaf purchase",
+      "type": "regulatory",
+      "date": "2026-04-01"
+    },
+    {
+      "source": "state-department",
+      "target": "virtus-minerals",
+      "label": "'fully supports'",
+      "type": "political",
+      "date": "2026-04"
+    },
+    {
+      "source": "felix-tshisekedi",
+      "target": "gecamines",
+      "label": "replaced chair and CEO who opposed Virtus bid",
+      "type": "regulatory",
+      "date": "2026-02-23"
+    },
+    {
+      "source": "trafigura",
+      "target": "chemaf",
+      "label": "creditor of",
+      "type": "money",
+      "date": "2022",
+      "amount_usd": 600000000
+    },
+    {
+      "source": "united-bank-for-africa",
+      "target": "buenassa",
+      "label": "drafted working-capital facility for Chemaf bid",
+      "type": "money",
+      "date": "2026-01-26",
+      "amount_usd": 50000000
+    },
+    {
+      "source": "buenassa",
+      "target": "chemaf",
+      "label": "rival bidder for",
+      "type": "commercial",
+      "date": "2026-01"
+    },
+    {
+      "source": "kobold-metals",
+      "target": "massad-boulos",
+      "label": "credited for Manono deal",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "kobold-metals",
+      "target": "marco-rubio",
+      "label": "credited for Manono deal",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "white-house",
+      "target": "avz-minerals",
+      "label": "urged to sell Manono claim to US buyer",
+      "type": "political",
+      "date": "2026-01-21"
+    },
+    {
+      "source": "kobold-metals",
+      "target": "drc",
+      "label": "pledged >$1B for Manono under framework",
+      "type": "commercial",
+      "date": "2025",
+      "amount_usd": 1000000000
+    },
+    {
+      "source": "us-dfc",
+      "target": "orion-cmc",
+      "label": "invested in",
+      "type": "money",
+      "date": "2025-10",
+      "amount_usd": 600000000
+    },
+    {
+      "source": "adq",
+      "target": "orion-cmc",
+      "label": "invested in",
+      "type": "money",
+      "date": "2025-10",
+      "amount_usd": 600000000
+    },
+    {
+      "source": "orion-resource-partners",
+      "target": "orion-cmc",
+      "label": "leads",
+      "type": "ownership",
+      "date": "2025-10"
+    },
+    {
+      "source": "orion-cmc",
+      "target": "glencore",
+      "label": "MOU for 40% of Mutanda/KCC",
+      "type": "commercial",
+      "date": "2026-02-03"
+    },
+    {
+      "source": "christopher-landau",
+      "target": "orion-cmc",
+      "label": "praised Glencore deal",
+      "type": "political",
+      "date": "2026-02-03"
+    },
+    {
+      "source": "dan-gertler",
+      "target": "glencore",
+      "label": "royalty claims stall stake sale",
+      "type": "legal",
+      "date": "2026-03"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "adq",
+      "label": "former chair of (per C57)",
+      "type": "ownership"
+    },
+    {
+      "source": "erik-prince",
+      "target": "vectus-global",
+      "label": "runs",
+      "type": "ownership"
+    },
+    {
+      "source": "vectus-global",
+      "target": "drc",
+      "label": "five-year tax/security contract with",
+      "type": "commercial",
+      "date": "2024-12",
+      "amount_usd": 100000000
+    },
+    {
+      "source": "erik-prince",
+      "target": "donald-trump",
+      "label": "described as ally/supporter of",
+      "type": "political"
+    },
+    {
+      "source": "ballard-partners",
+      "target": "drc",
+      "label": "FARA-registered agent of",
+      "type": "commercial",
+      "amount_usd": 900000
+    },
+    {
+      "source": "brian-ballard",
+      "target": "ballard-partners",
+      "label": "founded",
+      "type": "ownership"
+    },
+    {
+      "source": "susie-wiles",
+      "target": "ballard-partners",
+      "label": "formerly worked at",
+      "type": "commercial"
+    },
+    {
+      "source": "massad-boulos",
+      "target": "nigeria",
+      "label": "long-time business base (SCOA)",
+      "type": "commercial"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Dan Gertler sanctions relief and the Orion-Glencore deal",
+      "why_connected": "The first Trump administration issued Gertler an OFAC licence in its final week (Jan 2021). In 2026 his royalties stall the main US-backed DRC deal, and US officials set terms for easing his sanctions. Who is lobbying for him now?",
+      "entities": [
+        "dan-gertler",
+        "glencore",
+        "orion-cmc",
+        "us-dfc"
+      ],
+      "source_url": "https://www.mining.com/web/us-says-billionaire-gertlers-royalties-must-go-to-congo-for-sanctions-deal/"
+    },
+    {
+      "title": "Africa Intelligence: Trump officials' pressure campaign for Virtus",
+      "why_connected": "This could show which officials pushed Kinshasa for an inexperienced US bidder and whether any outside intermediary was paid.",
+      "entities": [
+        "virtus-minerals",
+        "state-department",
+        "felix-tshisekedi"
+      ],
+      "source_url": "https://africasacountry.com/2026/05/the-new-scramble-for-congo"
+    },
+    {
+      "title": "M23 offers to sell critical minerals to the US",
+      "why_connected": "The rebels holding Rubaya are courting the same US buyers Beach's consortium was pitching.",
+      "entities": [
+        "m23",
+        "rubaya-mine"
+      ],
+      "source_url": "https://www.mining.com/?p=1206844"
+    },
+    {
+      "title": "Rwanda's Trump-linked lobbying contracts",
+      "why_connected": "Global Witness lists Rwanda among countries paying Trump-linked firms, and Rwanda is the proposed processing route in Beach's Rubaya plan.",
+      "entities": [
+        "rwanda",
+        "global-witness",
+        "gentry-beach"
+      ],
+      "source_url": "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid"
+    }
+  ]
+}
