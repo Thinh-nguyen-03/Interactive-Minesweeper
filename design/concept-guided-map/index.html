@@ -88,7 +88,7 @@ p{margin:0 0 .8em}
 
 .mapwrap{display:grid;grid-template-columns:minmax(0,1fr) 350px;background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden}
 .mapbox{background:var(--map-bg);position:relative;min-width:0}
-.mapbox svg{display:block;width:100%;height:auto}
+.mapbox>svg{display:block;width:100%;height:auto}
 .panel{border-left:1px solid var(--line);padding:22px 22px 20px;min-width:0}
 .panel h2{margin-bottom:6px}
 .panel p{font-size:.97rem}
@@ -142,6 +142,7 @@ footer p{max-width:80ch}
 .isl-title{font:600 15px var(--head);fill:var(--ink);text-anchor:middle}
 .isl-sub{font:400 12.5px var(--body);text-anchor:middle}
 .lk{fill:none;stroke:var(--ink2);stroke-opacity:.38;stroke-width:1.4}
+.lk.faint{stroke-opacity:.16}
 .lk.hi{stroke:var(--accent);stroke-opacity:1;stroke-width:2.6}
 .nd{cursor:pointer}
 .nd text{font:400 12.5px var(--body);fill:var(--ink);text-anchor:middle;paint-order:stroke;stroke-width:3.5px;stroke-linejoin:round}
@@ -194,7 +195,7 @@ details{margin-top:8px}
 summary{cursor:pointer;color:var(--accent)}
 .names{list-style:none;margin:6px 0 0;padding:0;columns:2;column-gap:18px;font-size:.93rem}
 .names li{padding:2px 0;break-inside:avoid}
-.facts{display:flex;flex-wrap:wrap;gap:6px 34px;margin:16px 0 0;padding:14px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);list-style:none}
+.facts{display:flex;flex-wrap:wrap;gap:8px 34px;margin:16px 0 0;padding:14px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);list-style:none}
 .facts b{font:600 1.3rem var(--head);display:block}
 .facts span{font-size:.9rem;color:var(--ink2)}
 .rel{line-height:1.45}
@@ -230,6 +231,9 @@ summary{cursor:pointer;color:var(--accent)}
   .isl-sub{font-size:11.5px}
   .aside{margin:22px -16px 0;border-radius:0;border-left:0;border-right:0;padding:18px 16px 12px}
   .names{columns:1}
+  .facts{gap:8px 22px}
+  .facts b{font-size:1.15rem}
+  .facts span{font-size:.84rem}
 }
 </style>
 </head>
@@ -436,7 +440,8 @@ function linksSvg(pos,o){
     const c=curve(pos[l.a],pos[l.b],.1);
     if(hi){over+='<path class="lk hi" d="'+c.d+'"/>';
       if(o.number){k++;nums[l.id]=k;badges+='<g class="badge"><circle cx="'+c.mx.toFixed(1)+'" cy="'+c.my.toFixed(1)+'" r="9.5"/><text x="'+c.mx.toFixed(1)+'" y="'+(c.my+4).toFixed(1)+'">'+k+'</text></g>';}}
-    else if(!o.local||NODE[l.a].topic===NODE[l.b].topic)under+='<path class="lk'+((o.hiLinks||o.sel)?' dim':'')+'" d="'+c.d+'"/>';
+    else{const same=NODE[l.a].topic===NODE[l.b].topic;if(o.local&&!same)return;if(o.topic&&NODE[l.a].topic!==o.topic&&NODE[l.b].topic!==o.topic)return;
+      under+='<path class="lk'+((o.hiLinks||o.sel)?' dim':(o.topic&&!same?' faint':''))+'" d="'+c.d+'"/>';}
   });
   return {under,over,badges,nums};
 }
@@ -479,7 +484,7 @@ function drawTopic(t,o){
     pos[n.id]={x:Math.round(ix+(c+.5)*iw/cols+(r%2?(ph?10:26):-(ph?10:26))*(cols>2?1:.6)),y:Math.round(iy+(ph?80:92)+r*(ph?92:120)+(c%2?(ph?14:22):0))};
   });
   outs.forEach((n,j)=>{pos[n.id]={x:Math.round(ix+(j+.5)*iw/outs.length),y:iy+ih+(ph?50:48)}});
-  const L=linksSvg(pos,{sel:o.sel,number:!!o.sel});
+  const L=linksSvg(pos,{sel:o.sel,number:!!o.sel,topic:t});
   let s='<svg viewBox="0 0 '+W+' '+H+'" role="group" aria-label="'+esc(TOPICS[t].name)+': names and how they connect">'
    +'<path d="'+blob(ix,iy,iw,ih,2.2)+'" fill="var(--t-'+t+')" stroke="var(--s-'+t+')" stroke-opacity=".45" stroke-width="1.5"/>'
    +'<text class="isl-title" style="font-size:'+(ph?16:18)+'px" x="'+W/2+'" y="'+(iy+(ph?32:38))+'">'+esc(TOPICS[t].name)+'</text>';
@@ -546,8 +551,9 @@ function viewMap(r){
     panel=sel?panelNode(sel,m.nums,'#/','Whole map'):panelHome();
   }
   const groups={};Object.keys(CLAIM_TOPIC).forEach(c=>(groups[CLAIM_TOPIC[c]]=groups[CLAIM_TOPIC[c]]||[]).push(c));
-  return (tour&&phone()?'':'<section class="intro"><h1>What holds up in "Investigating the President"?</h1><p>An independent check of the 30 claims in Coffeezilla\'s 40-minute video, and of 52 follow-up questions.</p>'+tallyHtml()+'</section>')
-   +'<section class="mapwrap'+(tour?' tour':'')+'" style="'+(tour&&phone()?'margin-top:0':'')+'"><div class="mapbox" id="mapbox">'+m.svg+KEY+'</div><div class="panel" id="panel" aria-live="polite">'+panel+'</div></section>'
+  const compact=phone()&&r.length>0;
+  return (compact?'':'<section class="intro"><h1>What holds up in "Investigating the President"?</h1><p>An independent check of the 30 claims in Coffeezilla\'s 40-minute video, and of 52 follow-up questions.</p>'+tallyHtml()+'</section>')
+   +'<section class="mapwrap'+(tour?' tour':'')+'" style="'+(compact?'margin-top:0;border-top:0':'')+'"><div class="mapbox" id="mapbox">'+m.svg+KEY+'</div><div class="panel" id="panel" aria-live="polite">'+panel+'</div></section>'
    +'<p class="note">Everyone named denies wrongdoing, and nothing here is an accusation of a crime. A line means two names appear in the same documented relationship, not that one caused the other.</p>'
    +'<section class="section"><h2>The same claims as a list</h2><p class="muted">Everything on the map can also be read here, grouped by topic.</p><div class="topicgrid">'
    +Object.keys(groups).map(t=>'<div><h3><span class="sw" style="background:var(--t-'+t+');border-color:var(--s-'+t+')"></span><a href="#/topic/'+t+'" style="color:inherit">'+esc(TOPICS[t].name)+'</a></h3>'+claimList(groups[t])+'</div>').join('')+'</div></section>';
@@ -555,7 +561,7 @@ function viewMap(r){
 function diagram(center,rels){
   /* rels: [{s,t,l}] already numbered in order; center id */
   const others=[];rels.forEach(r=>[r.s,r.t].forEach(x=>{if(x!==center&&!others.includes(x))others.push(x)}));
-  const W=360,H=300,cx=180,cy=150,pos={};pos[center]={x:cx,y:cy};
+  const W=360,H=282,cx=180,cy=140,pos={};pos[center]={x:cx,y:cy};
   others.forEach((id,i)=>{const a=-Math.PI/2+i/others.length*Math.PI*2+(others.length%2?0:Math.PI/others.length);
     pos[id]={x:cx+122*Math.cos(a),y:cy+92*Math.sin(a)}});
   let s='<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="Diagram of the numbered connections listed below">';
@@ -634,7 +640,7 @@ function viewName(id){
   if(n)aside+='<p style="margin:10px 0 6px"><a href="#/topic/'+n.topic+'/'+id+'">Find '+esc(e.name)+' on the map</a></p>';
   const lead='<p class="crumb"><a href="#/">Map</a>'+(n?' / <a href="#/topic/'+n.topic+'">'+esc(TOPICS[n.topic].name)+'</a>':'')+'</p>'
    +'<p class="kicker">'+(TYPE[e.type]||'Name')+'</p><h1>'+esc(e.name)+'</h1><p style="margin-top:10px;font-size:1.08rem;max-width:62ch">'+esc(e.desc)+'</p>'
-   +'<ul class="facts"><li><b>'+e.n+' of '+DATA.meta.claims+'</b><span>checked items mention '+(e.type==='person'?'them':'it')+'</span></li><li><b>'+others.size+'</b><span>connected names in this prototype</span></li><li><b>'+rels.length+'</b><span>documented or reported links</span></li></ul>'
+   +'<ul class="facts"><li><b>'+e.n+' of '+DATA.meta.claims+'</b><span>checked items mention '+(e.type==='person'?'them':'it')+'</span></li><li><b>'+others.size+'</b><span>connected names shown here</span></li><li><b>'+rels.length+'</b><span>recorded links</span></li></ul>'
    +'<p class="note" style="margin-top:16px">Appearing on this page is not an accusation. Everyone named denies wrongdoing, and nothing here alleges a crime.</p>';
   let rest='<section class="block"><h2>Claims that mention '+(e.type==='person'?esc(e.name.split(' ').slice(-1)[0]==='Jr.'?e.name:e.name):esc(e.name))+'</h2><p class="muted">'+e.claims.length+' of the '+e.n+' are included in this prototype.</p>'
     +'<ul class="items">'+e.claims.map(cid=>'<li><a class="st" href="#/claim/'+cid+'">'+esc(C[cid].title)+'</a><span class="fd">'+esc(C[cid].summary.split(/(?<=[.!?])\s/)[0])+'</span>'+vmark(C[cid].verdict)+'</li>').join('')+'</ul>'
