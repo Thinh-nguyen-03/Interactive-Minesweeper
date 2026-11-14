@@ -8,7 +8,7 @@
     {
       "statement": "John Paulson (Trump fundraiser) is Perpetua Resources' largest shareholder, and Perpetua won a $2.9B EXIM loan approval in 2026.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented. This extends C77. Paulson hosted Trump's April 2024 Palm Beach fundraiser ($50.5M raised) and was considered for Treasury Secretary. Paulson & Co. bought $100M of Perpetua's ~$425M June 2025 raise at $13.20 a share. Bloomberg Government says he has put about $185M into the company in total. Under Trump: Stibnite became a FAST-41 priority project in April 2025, received its final Army Corps permit in May 2025, and won EXIM board approval for $2.9B in May 2026 (EXIM had notified Congress of $2.7B in March 2026). The loan is still subject to definitive documents, and no final close was found. Context that cuts the other way: the Forest Service record of decision (2025-01-03), the first ~$1.8B EXIM letter of interest (April 2024) and most of the ~$80M in DoD awards all came under Biden. Paper gain: our own arithmetic, not a sourced figure. The roughly 7.58M June 2025 placement shares were worth about $203M at the 2026-05-21 close of US$26.72, a paper gain of about $100M on that tranche alone. No Paulson statement on a conflict was found.",
+      "finding": "Evidence grade: documented. This extends C77. Paulson hosted Trump's April 2024 Palm Beach fundraiser ($50.5M raised) and was considered for Treasury Secretary. Paulson & Co. bought $100M of Perpetua's ~$425M June 2025 raise at $13.20 a share. Bloomberg Government says he has put about $185M into the company in total. 13F trackers put Paulson & Co. at 32.3M shares, about 25-26% of Perpetua, in Q1 2026, the largest holder by a wide margin (audit re-check; aggregator figures). Under Trump: Stibnite became a FAST-41 priority project in April 2025, received its final Army Corps permit in May 2025, and won EXIM board approval for $2.9B in May 2026 (EXIM had notified Congress of $2.7B in March 2026). The loan is still subject to definitive documents and conditions precedent (expected in H2 2026 per the May 2026 announcement), and no final close was found through Nov 2026. Context that cuts the other way: the Forest Service record of decision (2025-01-03), the first ~$1.8B EXIM letter of interest (April 2024) and most of the ~$80M in DoD awards all came under Biden. Paper gain: our own arithmetic, not a sourced figure. The roughly 7.58M June 2025 placement shares were worth about $203M at the 2026-05-21 close of US$26.72, a paper gain of about $100M on that tranche alone. No Paulson statement on a conflict was found.",
       "sources": [
         "https://news.bgov.com/esg/critical-minerals-project-faces-hurdles-after-trumps-greenlight",
         "https://www.northernminer.com/news/perpetua-secures-400m-financing-for-stibnite-gold-project/1003879534/",
@@ -17,20 +17,24 @@
         "https://wwww.stockwatch.com/News/Item/Z-C!PPTA-3823394/C/PPTA?fmt=orig",
         "https://mining.com/web/biden-administration-issues-permit-for-perpetuas-idaho-antimony-and-gold-mine",
         "https://www.boisestatepublicradio.org/news/2024-04-09/idaho-perpetua-export-import-bank-stibnite",
-        "https://www.mining.com/stibnite-gold-project-in-idaho-named-a-priority-by-white-house/"
+        "https://www.mining.com/stibnite-gold-project-in-idaho-named-a-priority-by-white-house/",
+        "https://us.trendlyne.com/us/equity/holding-lookup/1554638/2158661/perpetua-resources-corp/john-paulson-portfolio",
+        "https://www.miningweekly.com/article/perpetua-secures-29bn-loan-from-us-export-import-bank-that-fully-funds-stibnite-project-2026-05-22"
       ]
     },
     {
       "statement": "Paulson profited from the October 2025 U.S. stake in Trilogy Metals and later sold out.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented. Paulson & Co. held about 8.7% of Trilogy (fourth-largest holder). On 2025-10-06 the U.S. announced it would pay $35.6M for about 10% of Trilogy, with warrants that could take it toward 17.5%, and approved the Ambler Road. The stock rose more than 200%. Popular Information and Dermot Cole estimated Paulson's paper gain at $60-70M. His 13F shows he sold all 14.3M shares between 2025-10-01 and 2025-12-31. The exact dates and prices are not disclosed, so the realised gain is unknown. Paulson has not explained the sale. Context: the largest holder, Thomas Kaplan's Electrum (~18.5%, worth >$136M in March 2026), gained more on paper. We found no reporting that describes Kaplan as a Trump donor, and his giving was not checked.",
+      "finding": "Evidence grade: documented. Paulson & Co. held about 8.7% of Trilogy (fourth-largest holder). On 2025-10-06 the Department of War signed a binding letter of intent to pay $35.6M in total for about 10% of Trilogy, in two parallel halves: $17.8M directly to Trilogy for 8,215,570 units at $2.17 (each with three-quarters of a warrant), and $17.8M to South32 for 8,215,570 existing Trilogy shares plus a call option on 6,161,678 more; all $35.6M is to be reinvested in Ambler Metals. The warrants and option could take the stake toward 17.5%. The administration also approved the Ambler Road. The stock rose more than 200%. Popular Information and Dermot Cole estimated Paulson's paper gain at $60-70M. His 13F shows he sold all 14.3M shares between 2025-10-01 and 2025-12-31. The exact dates and prices are not disclosed, so the realised gain is unknown. Paulson has not explained the sale. Context: the largest holder, Thomas Kaplan's Electrum (~18.5%, worth >$136M in March 2026), gained more on paper. We found no reporting that describes Kaplan as a Trump donor, and his giving was not checked.",
       "sources": [
         "https://popular.info/p/trump-approves-mining-road-delivers",
         "https://www.dermotcole.com/reportingfromalaska/2025/10/7/billionaire-trump-donor-gains-70-million-in-ambler-windfall",
         "https://www.mining.com/web/billionaire-paulson-sells-stake-in-alaska-focused-trilogy-metals/",
         "https://alaskabeacon.com/2026/03/09/after-spending-big-on-donlin-billionaire-sells-stake-in-company-with-ambler-prospects/",
         "https://www.kyuk.org/economy/2026-03-11/after-spending-big-on-donlin-billionaire-sells-stake-in-company-with-ambler-prospects",
-        "https://www.northernminer.com/news/u-s-takes-10-trilogy-stake-in-alaska-push/1003894826/"
+        "https://www.northernminer.com/news/u-s-takes-10-trilogy-stake-in-alaska-push/1003894826/",
+        "https://www.mining-technology.com/news/us-government-buy-stake-trilogy-metals/",
+        "https://www.fool.com/investing/2026/02/19/why-trilogy-metals-stock-is-crashing-this-week/"
       ]
     },
     {
@@ -838,7 +842,7 @@
     {
       "source": "paulson-and-co",
       "target": "perpetua-resources",
-      "label": "largest shareholder; bought $100M of June 2025 raise at $13.20",
+      "label": "largest shareholder (~25% per 13F trackers); bought $100M of June 2025 raise at $13.20",
       "type": "ownership",
       "date": "2025-06",
       "amount_usd": 100000000
@@ -883,7 +887,7 @@
     {
       "source": "donald-trump",
       "target": "trilogy-metals",
-      "label": "US took ~10% stake for $35.6M plus warrants",
+      "label": "US (Department of War) agreed $35.6M for ~10% ($17.8M to Trilogy, $17.8M to South32) plus warrants",
       "type": "money",
       "date": "2025-10-06",
       "amount_usd": 35600000
@@ -1307,5 +1311,51 @@
       ],
       "source_url": "https://technical.ly/entrepreneurship/susquehanna-international-group-jeff-yass-tiktok-board/"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Paulson as Perpetua's largest holder and the $2.9B EXIM loan approval/close",
+      "Paulson's Trilogy Metals stake, the US $35.6M stake and his Q4 2025 exit",
+      "Yass/Susquehanna's position in the TikTok USDS joint venture (Vastmere, board seat)"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Perpetua: upheld. EXIM's board approved $2.9B (largest 'Make More in America' loan), funds available only after definitive documents and conditions; no close found through Nov 2026. Added 13F-tracker figure of ~25-26% (32.3M shares, Q1 2026) for Paulson's holding.",
+      "Trilogy: upheld (8.7%, 14.3M shares sold in Q4 2025 per Bloomberg/13F; dates and prices undisclosed). Clarified that the $35.6M was split: only $17.8M went to Trilogy; the other $17.8M bought existing shares from South32. Relationship label updated.",
+      "TikTok/Yass: upheld. Vastmere Strategic Investments is named as a Susquehanna affiliate and SIG's Mark Dooley holds one of seven board seats; Oracle, Silver Lake and MGX hold 15% each and ByteDance 19.9%. Sources still disagree on the residual 'other investors' share; no change needed.",
+      "Label check: Paulson's ~$100M Perpetua paper gain is marked as our arithmetic; the USAR PIPE purchases are marked single-source; the Boehly consortium is marked single-source (FT)."
+    ],
+    "new_sources": [
+      {
+        "title": "Perpetua secures $2.9bn loan from US Export-Import Bank that fully funds Stibnite project",
+        "publisher": "Mining Weekly",
+        "url": "https://www.miningweekly.com/article/perpetua-secures-29bn-loan-from-us-export-import-bank-that-fully-funds-stibnite-project-2026-05-22",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "John Paulson portfolio: Perpetua Resources holding history",
+        "publisher": "Trendlyne (13F aggregator)",
+        "url": "https://us.trendlyne.com/us/equity/holding-lookup/1554638/2158661/perpetua-resources-corp/john-paulson-portfolio",
+        "date": "2026"
+      },
+      {
+        "title": "US government to buy stake in Trilogy Metals",
+        "publisher": "Mining Technology",
+        "url": "https://www.mining-technology.com/news/us-government-buy-stake-trilogy-metals/",
+        "date": "2025-10"
+      },
+      {
+        "title": "Why Trilogy Metals Stock Is Crashing This Week",
+        "publisher": "The Motley Fool",
+        "url": "https://www.fool.com/investing/2026/02/19/why-trilogy-metals-stock-is-crashing-this-week/",
+        "date": "2026-02-19"
+      },
+      {
+        "title": "What you should know about the owners of US TikTok",
+        "publisher": "TechCrunch",
+        "url": "https://techcrunch.com/2026/01/27/what-you-should-know-about-the-owners-of-us-tiktok",
+        "date": "2026-01-27"
+      }
+    ]
+  }
 }

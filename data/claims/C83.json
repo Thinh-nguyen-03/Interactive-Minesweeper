@@ -40,7 +40,7 @@
     {
       "statement": "Greg Lindberg, the insurance magnate who pleaded guilty in a $2B fraud and bribery scheme, hired Javelin in 2025 to lobby for an 'executive pardon'.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented (LDA disclosures as reported by NOTUS, Insurance Business and others). NOTUS says Lindberg hired Javelin 'this summer' (2025); another report puts it in late October. Insurance Business says Lindberg appeared on Javelin's filings for three quarters, with 'executive pardon' named only in the first. On 2025-12-23 North Carolina Insurance Commissioner Mike Causey, the official Lindberg was convicted of trying to bribe, publicly urged Trump not to pardon him. Sen. Thom Tillis was quoted saying he told Pardon Attorney Ed Martin it was a bad idea. No grant or denial was found through our search; the latest coverage we found (about March 2026) describes the request as pending. Lindberg's earlier co-defendant, ex-Rep. Robin Hayes, was pardoned at the end of Trump's first term. Lindberg's lawyer said pardons should be given when the facts warrant it. This is a new pardon client not covered in C49 or C64.",
+      "finding": "Evidence grade: documented (LDA disclosures as reported by NOTUS, Insurance Business and others). NOTUS says Lindberg hired Javelin 'this summer' (2025); another report puts it in late October. Insurance Business says Lindberg appeared on Javelin's filings for three quarters, with 'executive pardon' named only in the first. On 2025-12-23 North Carolina Insurance Commissioner Mike Causey, the official Lindberg was convicted of trying to bribe, publicly urged Trump not to pardon him. Sen. Thom Tillis was quoted saying he told Pardon Attorney Ed Martin it was a bad idea; January 2026 North Carolina coverage (seen via search extracts) says Sen. Ted Budd also weighed in against a pardon. No grant or denial was found through our search; the latest coverage we found (about March 2026) describes the request as pending. Lindberg's earlier co-defendant, ex-Rep. Robin Hayes, was pardoned at the end of Trump's first term. Lindberg's lawyer said pardons should be given when the facts warrant it. This is a new pardon client not covered in C49 or C64.",
       "sources": [
         "https://www.notus.org/money/donald-trump-pardons-clemency-lobbyists-roger-stone-boosie-badazz",
         "https://www.insurancebusinessmag.com/us/news/breaking-news/greg-lindberg-hires-trumplinked-lobbyists-in-bid-for-presidential-pardon-554551.aspx",
@@ -140,7 +140,7 @@
   "denials_and_context": [
     "Sorial (to CNBC): 'We are passive minority shareholders in GreenMet and have no management role'; Horn says they hold no management roles. An undated bio still lists Sorial on GreenMet's board.",
     "Daibes' lawyer: no work with Schiller or Javelin since June 2025. Schiller and Javelin did not answer NBC. The White House does not comment on pardons.",
-    "Lindberg's lawyer: pardons should be given when the facts warrant it. Opposed by NC Commissioner Causey and Sen. Tillis.",
+    "Lindberg's lawyer: pardons should be given when the facts warrant it. Opposed by NC Commissioner Causey and Sens. Tillis and Budd.",
     "FARA and LDA registration is disclosure, not wrongdoing. No source alleges that Schiller or Sorial broke the law or produced any government outcome.",
     "efile.fara.gov, lda.senate.gov and most news sites could not be fetched here; filing contents come from search-engine extracts, and fee and scope details for FARA 7705 remain unread."
   ],
@@ -799,5 +799,45 @@
       ],
       "source_url": "https://www.odwyerpr.com/story/public/25497/2026-10-22/greenmet-gets-1m-pact-from-drc-mining-co.html"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Javelin Advisors is co-owned in equal thirds by Schiller, Sorial and Robert Seiden (FARA 7705)",
+      "TECRO (Taiwan) is Javelin's foreign principal under FARA 7705, March 2026",
+      "Greg Lindberg's pardon bid: status and opposition through Nov 2026"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Upheld the three-way ownership: fresh search extracts of the 7705 registration statement again quote 'co-owned and controlled equally by George A Sorial, Keith Schiller, and Robert W. Seiden' and list Seiden and Schiller as managing directors. The extract also shows a Delaware certificate of formation signed by Sorial dated 2026-03-20, later than the Dec 2024 launch; this may be a re-formed or newly formed entity for the FARA filing, which we could not resolve (efile.fara.gov is not resolvable from this environment).",
+      "Upheld TECRO as foreign principal: search extracts of the 7705 short forms and Exhibit AB name the Taipei Economic and Cultural Representative Office. No press coverage of the engagement was found, so the single-filing basis stands; fee and scope remain unread.",
+      "Lindberg: no pardon grant found through Nov 2026; the latest coverage found (Vanity Fair, Mar 2026) still describes it as pending. Added that Sen. Ted Budd also opposed a pardon (Jan 2026 NC coverage via search extracts).",
+      "Label check: single-source items (Daibes $1M via NBC, Ronny Jackson contact, I-Mei, Logical Strategies amount) are labelled in findings and relationship labels; the policy overlaps are labelled inferred. No changes needed."
+    ],
+    "new_sources": [
+      {
+        "title": "Greg Lindberg is seeking Trump's pardon. Who from NC has been successful?",
+        "publisher": "AOL (syndicated)",
+        "url": "https://www.aol.com/articles/greg-lindberg-seeking-trump-pardon-090000977.html",
+        "date": "2026-01"
+      },
+      {
+        "title": "I sent a letter to President Trump regarding Greg Lindberg",
+        "publisher": "NC Department of Insurance",
+        "url": "https://www.ncdoi.gov/blog/2026/01/07/i-sent-letter-president-trump-regarding-greg-lindberg",
+        "date": "2026-01-07"
+      },
+      {
+        "title": "7705 Short Form 20260323 2",
+        "publisher": "FARA eFile (DOJ)",
+        "url": "https://efile.fara.gov/docs/7705-Short-Form-20260323-2.pdf",
+        "date": "2026-03-23"
+      },
+      {
+        "title": "7705 Exhibit C 20260323 1",
+        "publisher": "FARA eFile (DOJ)",
+        "url": "https://efile.fara.gov/docs/7705-Exhibit-C-20260323-1.pdf",
+        "date": "2026-03-23"
+      }
+    ]
+  }
 }

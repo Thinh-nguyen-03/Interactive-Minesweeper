@@ -93,7 +93,7 @@ p{margin:0 0 .8em}
 .panel h2{margin-bottom:6px}
 .panel p{font-size:.97rem}
 .back{display:inline-block;font-size:.93rem;margin-bottom:12px}
-.key{display:flex;flex-wrap:wrap;gap:4px 18px;font-size:.86rem;color:var(--ink2);padding:9px 16px;border-top:1px solid var(--line2);background:var(--surface)}
+.key{display:flex;flex-wrap:wrap;gap:4px 18px;font-size:.86rem;color:var(--ink2);padding:4px 16px 12px}
 .key span{display:inline-flex;align-items:center;gap:6px}
 
 .tours{list-style:none;margin:12px 0 18px;padding:0;counter-reset:t}
@@ -271,7 +271,7 @@ const ORDER_P=['hub','crypto','gulf','reg','media','defence'];
 const NODES=[
  ['donald-trump','Donald Trump','hub',1],['eric-trump','Eric Trump','hub',1],['donald-trump-jr','Donald Trump Jr.','hub',1],['trump-organization','Trump Organization','hub',1],['melania-trump','Melania Trump','hub',2],
  ['world-liberty-financial','World Liberty','crypto',1],['justin-sun','Justin Sun','crypto',1],['trump-coin','$TRUMP coin','crypto',1],['binance','Binance','crypto',1],['changpeng-zhao','Changpeng Zhao','crypto',2],['alt5-sigma','ALT5 Sigma','crypto',2],['zach-witkoff','Zach Witkoff','crypto',2],
- ['qatar','Qatar','gulf',1],['jared-kushner','Jared Kushner','gulf',1],['tahnoon-bin-zayed','Sheikh Tahnoon','gulf',1],['qatari-diar','Qatari Diar','gulf',1],['affinity-partners','Affinity Partners','gulf',2],['saudi-pif','Saudi wealth fund','gulf',2],['mgx','MGX','gulf',2],['steve-witkoff','Steve Witkoff','gulf',2],
+ ['qatar','Qatar','gulf',1],['qatari-diar','Qatari Diar','gulf',1],['tahnoon-bin-zayed','Sheikh Tahnoon','gulf',1],['jared-kushner','Jared Kushner','gulf',1],['steve-witkoff','Steve Witkoff','gulf',2],['mgx','MGX','gulf',2],['affinity-partners','Affinity Partners','gulf',2],['saudi-pif','Saudi wealth fund','gulf',2],
  ['sec','SEC','reg',1],['state-department','State Department','reg',1],['ballard-partners','Ballard Partners','reg',1],['pam-bondi','Pam Bondi','reg',2],['susie-wiles','Susie Wiles','reg',2],['coinbase','Coinbase','reg',2],['gemini','Gemini','reg',2],
  ['trump-media-technology-group','Trump Media','media',1],['amazon','Amazon','media',1],['jeff-bezos','Jeff Bezos','media',1],['truth-social','Truth Social','media',2],['melania-documentary','Melania film','media',2],['devin-nunes','Devin Nunes','media',2],
  ['1789-capital','1789 Capital','defence',1],['vulcan-elements','Vulcan Elements','defence',1],['office-of-strategic-capital','Pentagon loan office','defence',1],['pentagon','Pentagon','defence',2],['unusual-machines','Unusual Machines','defence',2],['howard-lutnick','Howard Lutnick','defence',2],['cantor-fitzgerald','Cantor Fitzgerald','defence',2]
@@ -440,7 +440,7 @@ function linksSvg(pos,o){
     const c=curve(pos[l.a],pos[l.b],.1);
     if(hi){over+='<path class="lk hi" d="'+c.d+'"/>';
       if(o.number){k++;nums[l.id]=k;badges+='<g class="badge"><circle cx="'+c.mx.toFixed(1)+'" cy="'+c.my.toFixed(1)+'" r="9.5"/><text x="'+c.mx.toFixed(1)+'" y="'+(c.my+4).toFixed(1)+'">'+k+'</text></g>';}}
-    else{const same=NODE[l.a].topic===NODE[l.b].topic;if(o.local&&!same)return;if(o.topic&&NODE[l.a].topic!==o.topic&&NODE[l.b].topic!==o.topic)return;
+    else{const same=NODE[l.a].topic===NODE[l.b].topic;if(o.local&&!same)return;if(o.topic&&(!same||NODE[l.a].topic!==o.topic)&&!(o.sel&&(NODE[l.a].topic===o.topic||NODE[l.b].topic===o.topic)))return;
       under+='<path class="lk'+((o.hiLinks||o.sel)?' dim':(o.topic&&!same?' faint':''))+'" d="'+c.d+'"/>';}
   });
   return {under,over,badges,nums};
@@ -488,7 +488,7 @@ function drawTopic(t,o){
   let s='<svg viewBox="0 0 '+W+' '+H+'" role="group" aria-label="'+esc(TOPICS[t].name)+': names and how they connect">'
    +'<path d="'+blob(ix,iy,iw,ih,2.2)+'" fill="var(--t-'+t+')" stroke="var(--s-'+t+')" stroke-opacity=".45" stroke-width="1.5"/>'
    +'<text class="isl-title" style="font-size:'+(ph?16:18)+'px" x="'+W/2+'" y="'+(iy+(ph?32:38))+'">'+esc(TOPICS[t].name)+'</text>';
-  if(outs.length)s+='<text class="cap" x="'+(ix+6)+'" y="'+(iy+ih+24)+'">Connected names from other topics</text>';
+  if(outs.length)s+='<text class="cap" x="'+(ix+6)+'" y="'+(iy+ih+24)+'">'+(ph?'Connected names from other topics':'Connected names from other topics. Choose any name to see its links.')+'</text>';
   s+=L.under+L.over;
   inside.forEach(n=>s+=nodeSvg(n,pos[n.id],{sel:o.sel,r:ph?8:9,max:ph?14:16,lh:ph?13.5:15}));
   outs.forEach(n=>s+=nodeSvg(n,pos[n.id],{sel:o.sel,r:ph?7:8,max:ph?11:14,lh:ph?13:14,halo:'x'}));

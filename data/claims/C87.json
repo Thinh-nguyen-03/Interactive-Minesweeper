@@ -8,12 +8,13 @@
     {
       "statement": "Mubadala (Abu Dhabi) owns a minority equity stake in Silver Lake itself and anchors a $2B, 25-year Silver Lake strategy.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: DOCUMENTED (joint Silver Lake/Mubadala release, Business Wire, 2020-09-30; TechCrunch, The National). Mubadala bought a minority interest in Silver Lake's management company in a secondary purchase from Dyal Capital (Neuberger Berman). Dyal had held a passive, non-voting interest of under 10% since 2016 and kept about half of it. Mubadala also committed $2B to a new long-term Silver Lake strategy with a 25-year horizon that co-invests alongside the flagship funds. The size of Mubadala's interest and its price were not disclosed. It is described as passive and non-voting, so it shows an economic link, not control. Mubadala is chaired by Sheikh Mansour bin Zayed, not Tahnoon, but it is a founding partner of Tahnoon's MGX (C57).",
+      "finding": "Evidence grade: DOCUMENTED (joint Silver Lake/Mubadala release, Business Wire, 2020-09-30; TechCrunch, The National). Mubadala bought a minority interest in Silver Lake's management company in a secondary purchase from Dyal Capital (Neuberger Berman). Dyal had held a passive, non-voting interest of under 10% since 2016 and kept about half of it. Mubadala also committed $2B to a new long-term Silver Lake strategy with a 25-year horizon that co-invests alongside the flagship funds. The size of Mubadala's interest and its price were not disclosed by the parties; contemporaneous wire coverage (Investing.com) put it at under 5%, consistent with buying about half of Dyal's under-10% holding. It is described as passive and non-voting, so it shows an economic link, not control. Mubadala is chaired by Sheikh Mansour bin Zayed, not Tahnoon, but it is a founding partner of Tahnoon's MGX (C57).",
       "sources": [
         "https://www.silverlake.com/silver-lake-and-mubadala-partner-to-establish-unique-long-term-investment-strategy",
         "https://www.mubadala.com/en/news/silver-lake-and-mubadala-partner-establish-unique-long-term-investment-strategy",
         "https://www.businesswire.com/news/home/20200930005365/en/Silver-Lake-and-Mubadala-Partner-to-Establish-Unique-Long-term-Investment-Strategy",
-        "https://techcrunch.com/2020/09/30/silverlake-adds-a-2-billion-long-only-hedge-fund-backed-by-abu-dhabi-to-its-tech-finance-toolkit"
+        "https://techcrunch.com/2020/09/30/silverlake-adds-a-2-billion-long-only-hedge-fund-backed-by-abu-dhabi-to-its-tech-finance-toolkit",
+        "https://www.investing.com/news/stock-market-news/mubadala-to-invest-2-billion-in-us-private-equity-firm-silver-lake-2311292"
       ]
     },
     {
@@ -30,14 +31,15 @@
     {
       "statement": "Silver Lake and Tahnoon's MGX co-invested in Intel's Altera chip unit in 2025, the same month the TikTok framework was approved.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: DOCUMENTED (WAM state news agency, Reuters via The Star, Semafor, Altera release). Intel agreed in April 2025 to sell 51% of Altera at an $8.75B valuation, about $3.3B of equity value for the stake. The deal closed on 2025-09-12. On about 2025-09-16, MGX said it had joined the Silver Lake-led buyer group, with its contribution undisclosed, and Intel kept 49%. Before this, Silver Lake and MGX had been treated as separate co-investors only in the TikTok JV (C57/C68). Altera makes the second Silver Lake-MGX co-ownership, and it is in US semiconductors. Separately DOCUMENTED: the US government took a 9.9% Intel stake on 2025-08-22 (433.3M shares at $20.47, funded from CHIPS grants). INFERRED (our cross-reference, asserted by no source): this makes the US government an indirect holder, via Intel, of the 49% of Altera not owned by the Silver Lake/MGX group, three weeks before closing. UNVERIFIED: we found no report of a CFIUS review of MGX's entry into Altera, even though Altera serves defence and aerospace customers.",
+      "finding": "Evidence grade: DOCUMENTED (WAM state news agency, Reuters via The Star, Semafor, Altera release). Intel agreed in April 2025 to sell 51% of Altera at an $8.75B valuation, about $3.3B of equity value for the stake (reports citing a filing; Intel's headline $4.46B is simply 51% of the $8.75B valuation, before debt financing). The deal closed on 2025-09-12. On about 2025-09-16, MGX said it had joined the Silver Lake-led buyer group, with its contribution undisclosed, and Intel kept 49%. Before this, Silver Lake and MGX had been treated as separate co-investors only in the TikTok JV (C57/C68). Altera makes the second Silver Lake-MGX co-ownership, and it is in US semiconductors. Separately DOCUMENTED: the US government took a 9.9% Intel stake on 2025-08-22 (433.3M shares at $20.47, funded from CHIPS grants). INFERRED (our cross-reference, asserted by no source): this makes the US government an indirect holder, via Intel, of the 49% of Altera not owned by the Silver Lake/MGX group, three weeks before closing. UNVERIFIED: we found no report of a CFIUS review of MGX's entry into Altera, even though Altera serves defence and aerospace customers.",
       "sources": [
         "https://www.wam.ae/en/article/blqki86-mgx-joins-silver-lake-altera-acquisition",
         "https://www.thestar.com.my/tech/tech-news/2025/09/16/mgx-co-invests-with-silver-lake-in-altera-acquisition",
         "https://www.semafor.com/article/09/17/2025/abi-dhabi-ai-firm-mgx-lands-stake-in-us-chipmaker-altera",
         "https://www.businesswire.com/news/home/20250915168341/en/Altera-Closes-Silver-Lake-Investment-to-Become-Worlds-Largest-Pure-play-FPGA-Solutions-Provider",
         "https://siliconangle.com/2025/08/22/trump-says-us-government-will-take-10-stake-intel/",
-        "https://www.techrepublic.com/article/news-trump-intel-deal-chip-production/"
+        "https://www.techrepublic.com/article/news-trump-intel-deal-chip-production/",
+        "https://www.arabianbusiness.com/gcc/uae/abu-dhabis-mgx-and-silver-lake-acquire-majority-stake-in-altera"
       ]
     },
     {
@@ -578,7 +580,7 @@
     {
       "source": "mubadala",
       "target": "silver-lake",
-      "label": "bought minority (passive) stake in, plus $2B 25-year strategy",
+      "label": "bought minority (passive, reportedly <5%) stake in, plus $2B 25-year strategy",
       "type": "ownership",
       "date": "2020-09-30",
       "amount_usd": 2000000000
@@ -643,7 +645,7 @@
     {
       "source": "silver-lake",
       "target": "altera",
-      "label": "led purchase of 51% of",
+      "label": "led purchase of 51% of (~$3.3B equity per filing-based reports; $8.75B valuation)",
       "type": "ownership",
       "date": "2025-09-12",
       "amount_usd": 3300000000
@@ -954,5 +956,45 @@
       ],
       "source_url": "https://san.com/cc/ufc-lost-30-million-on-white-house-event-but-says-it-was-worth-it/"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "MGX joining Silver Lake's 51% Altera purchase and the price",
+      "Mubadala's 2020 minority stake in Silver Lake",
+      "Silver Lake-PIF Unity takeover talks (Nov 2026)"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Altera: upheld. MGX joined the Silver Lake-led group after the 2025-09-12 close (Arabian Business, Enterprise AM); MGX's contribution undisclosed. Clarified that ~$3.3B is the equity figure and Intel's $4.46B headline is 51% of $8.75B.",
+      "Mubadala: upheld (secondary purchase from Dyal's passive, non-voting under-10% stake, Sept 2020). Added that wire coverage put the stake at under 5%; parties never disclosed it.",
+      "Unity: upheld as single-source (Reuters, 5 Nov 2026, people familiar; widely relayed). Silver Lake holds ~8%; ~$25B discussed vs ~$21.5B market value; no deal announced by mid-Nov 2026.",
+      "Label check: the 'Silver Lake as hub' pattern and the US-government/Altera link remain labelled inferred; the Durban-Kushner EA origin and G42 price remain single-source in labels."
+    ],
+    "new_sources": [
+      {
+        "title": "Abu Dhabi's MGX and Silver Lake acquire majority stake in Altera",
+        "publisher": "Arabian Business",
+        "url": "https://www.arabianbusiness.com/gcc/uae/abu-dhabis-mgx-and-silver-lake-acquire-majority-stake-in-altera",
+        "date": "2025-09"
+      },
+      {
+        "title": "MGX joins Silver Lake in Altera buyout",
+        "publisher": "Enterprise AM",
+        "url": "https://enterpriseam.com/uae/2025/09/17/mgx-joins-silver-lake-in-altera-buyout/",
+        "date": "2025-09-17"
+      },
+      {
+        "title": "Mubadala to invest $2 billion in US private equity firm Silver Lake",
+        "publisher": "Investing.com (Reuters)",
+        "url": "https://www.investing.com/news/stock-market-news/mubadala-to-invest-2-billion-in-us-private-equity-firm-silver-lake-2311292",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "Silver Lake and Saudi PIF hold talks to buy Unity at about $25bn",
+        "publisher": "Inven Global",
+        "url": "https://www.invenglobal.com/articles/28236/silver-lake-and-saudi-pif-hold-talks-to-buy-unity-at-about-25bn",
+        "date": "2026-11"
+      }
+    ]
+  }
 }

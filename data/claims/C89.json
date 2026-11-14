@@ -1,0 +1,939 @@
+{
+  "id": "C89",
+  "title": "Unannounced Trump Organization deals: Hungary, Serbia and others in the filings",
+  "verdict": "partly-accurate",
+  "confidence": "medium",
+  "summary": "Forbes's July 2025 reading of corporate filings did point to unannounced Serbia and Hungary deals, and CREW's August 2026 FOI requests name DT Marks Budapest LLC and DT Marks Budapest Member Corp. But no partner, fee or project has been disclosed for either country, the Serbian entity's name was not found, and the 2025 disclosure (as summarised by PolitiFact and CNBC) shows no Hungary or Serbia income. The richest new link is Eagle Hills (Mohamed Alabbar), the Gulf partner on both Kushner's Trump-branded Belgrade project and Orbán's dropped EUR 12.3B Grand Budapest plan. Hungary won a run of US sanctions decisions in 2025, but no source ties them to the family's business. Serbia's US relief came only after the Belgrade project collapsed.",
+  "sub_claims": [
+    {
+      "statement": "Forbes: corporate filings point to unannounced Trump deals in Serbia and Hungary",
+      "verdict": "confirmed",
+      "finding": "Single-source (Forbes, 24 Jul 2025, read via snippets and licensed editions): 'Corporate filings point to at least three other unannounced deals—in Abu Dhabi, Serbia and Hungary.' Forbes also says entities were registered after the election for Pune, Noida, Gurgaon, Hungary's capital and the Philippines.",
+      "sources": [
+        "https://www.forbes.com/sites/danalexander/2025/07/24/wed-call-that-corruption-how-trump-used-the-presidency-to-expand-his-global-empire/",
+        "https://www.forbes.com.tr/dunya/abd-baskani-trump-makamini-islerini-buyutmek-icin-nasil-kullaniyor"
+      ]
+    },
+    {
+      "statement": "DT Marks Budapest LLC and DT Marks Budapest Member Corp. exist",
+      "verdict": "confirmed",
+      "finding": "Documented: CREW's Aug 2026 FOI requests to Hungary's Trade Licensing Office and Ministry of Construction and Transport name both companies and ask for records on a Trump property in Budapest and on Kushner's role in 'Grand Budapest'. Exact formation date not found; Forbes places it between the Nov 2024 election and Jul 2025.",
+      "sources": [
+        "https://www.citizensforethics.org/reports-investigations/foia-requests/crew-requests-records-from-the-hungarian-government-on-trump-and-hungarian-officials/",
+        "https://www.citizensforethics.org/wp-content/uploads/2026/08/Hungary-FOI-Request_Trade-Licensing-Office_Redacted.pdf",
+        "https://www.citizensforethics.org/wp-content/uploads/2026/08/Hungary-FOI-Request_Ministry-of-Construction-and-Transport_Redacted.pdf",
+        "https://www.forbes.com/sites/danalexander/2025/07/24/wed-call-that-corruption-how-trump-used-the-presidency-to-expand-his-global-empire/"
+      ]
+    },
+    {
+      "statement": "Partner and fee for the Hungary entity",
+      "verdict": "unverified",
+      "finding": "No partner, project or fee is disclosed. The 2025 disclosure's licensing countries (PolitiFact; CNBC via Times Brasil) are Oman, Qatar, UAE, Saudi Arabia, Romania, the Philippines, Vietnam and India: no Hungary. The OGE form itself was not read.",
+      "sources": [
+        "https://api.politifact.com/factchecks/2026/jul/07/donald-trump/disclosure-crypto-stocks-wealth/",
+        "https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/"
+      ]
+    },
+    {
+      "statement": "Eagle Hills (Alabbar) links the Belgrade and Budapest projects; Kushner floated for Grand Budapest",
+      "verdict": "partly-accurate",
+      "finding": "Documented for each leg. Eagle Hills and Affinity announced the Trump-branded Belgrade project ~17 Jan 2025. Orbán met Vučić in Belgrade on 18 Jan 2025; VSquare's source (single-source) says he briefed Vučić on Grand Budapest. Hungary announced the EUR 12.3B Grand Budapest contract with Eagle Hills on 20 Jan 2025. A VSquare government-linked source said Kushner 'may become involved' (Trump-Tower-style skyscraper); another said Affinity was 'not currently involved'. Kushner's role is unverified. Orbán met Alabbar in Abu Dhabi.",
+      "sources": [
+        "https://vsquare.org/orban-government-anticipates-trump-son-in-law-jared-kushner-joining-budapest-skyscraper-project/",
+        "https://telex.hu/gazdasag/2025/01/23/vsqare-trump-tower-rakosrendezo-mini-dubaj-grand-budapest",
+        "https://insighthungary.444.hu/2025/01/24/jared-kushner-could-join-grand-budapest-project",
+        "https://www.semafor.com/article/01/17/2025/jared-kushner-and-dubai-billionaire-to-partner-on-trump-hotel-in-serbia",
+        "https://www.intellinews.com/hungarian-pm-arrives-in-uae-amid-controversy-surrounding-flagship-real-estate-development-project-364033/"
+      ]
+    },
+    {
+      "statement": "Grand Budapest dropped before any Trump deal surfaced",
+      "verdict": "confirmed",
+      "finding": "Documented: Budapest's municipal company exercised a pre-emption right over Rákosrendező and the government abandoned the project in early 2025. Linking the DT Marks Budapest entities to this project is inferred: no source says so, though CREW asks about both.",
+      "sources": [
+        "https://www.intellinews.com/hungarian-government-abandons-12bn-mini-dubai-project-amid-public-outcry-365888",
+        "https://www.property-forum.eu/news/hungarian-govt-backs-out-of-maxi-dubai-project-in-budapest/19532",
+        "https://www.semafor.com/article/01/22/2025/budapest-pushes-back-on-uae-funded-mini-dubai-project"
+      ]
+    },
+    {
+      "statement": "Don Jr. visited Vučić and Budapest in spring 2025 to expand family business ties",
+      "verdict": "confirmed",
+      "finding": "Documented: Don Jr. met Vučić in Belgrade on 11 Mar 2025 and dined with him again in late April. On 25 Apr 2025 he met FM Szijjártó in Budapest and spoke at the 'Trump Business Vision 2025' forum (organised by Zoltán Aczél/Portfolio; expected meeting with 4iG chairman Gellért Jászai). Bloomberg framed the trip as expanding family business ties. No deal was announced. His spokesperson rejected conflict suggestions.",
+      "sources": [
+        "https://www.intellinews.com/donald-trump-jr-meets-serbian-president-in-belgrade-371096/",
+        "https://www.aol.com/news/donald-trump-jr-meet-hungarys-092711183.html",
+        "https://www.bloomberg.com/news/articles/2025-04-23/trump-jr-heads-to-eastern-europe-to-expand-family-business",
+        "https://news.bloomberglaw.com/crypto/trump-jr-s-east-europe-trip-mixes-money-and-right-wing-politics",
+        "https://intellinews.com/donald-trump-jr-heads-to-budapest-in-push-to-expand-trump-family-s-business-ties-in-cee-377980"
+      ]
+    },
+    {
+      "statement": "US decisions favourable to Orbán's Hungary in the same period",
+      "verdict": "mostly-accurate",
+      "finding": "Each decision documented; link to the family's business inferred (timing only). Rogán delisted 15 Apr 2025, ten days before Don Jr.'s visit. Paks II sanctions relief ~29 Jun 2025 (Hungarian account). One-year Russian oil and gas sanctions exemption 7 Nov 2025 (Orbán claimed open-ended). 'Financial shield'/swap claimed 9 Nov 2025 and denied by Trump in Dec 2025. Vance campaigned for Orbán, who lost on 12 Apr 2026 to Magyar. Post-election status of the US exemption not found.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2025-04-15/us-lifts-sanctions-on-hungary-minister-in-trump-s-gift-to-orban",
+        "https://www.rferl.org/a/hungary-orban-rogan-rubio-sanctions-lifted/33386511.html",
+        "https://www.intellinews.com/us-lifts-sanctions-related-to-paks-nuclear-plant-upgrade-388518",
+        "https://www.nucnet.org/news/us-has-lifted-sanctions-on-hungary-s-paks-ii-nuclear-project-says-foreign-minister-6-1-2025",
+        "https://www.aljazeera.com/news/2025/11/7/hungarian-leader-viktor-orban-to-meet-us-president-donald-trump",
+        "https://www.eenews.net/articles/trump-exempts-hungary-from-russian-oil-sanctions-for-one-year",
+        "https://aljazeera.com/economy/2025/11/9/hungarian-leader-orban-says-he-secured-financial-shield-from-trump",
+        "https://production.telex.hu/english/2025/12/09/trump-denies-pledging-financial-lifeline-to-orban",
+        "https://telex.hu/english/2025/12/09/szijjarto-says-negotiations-with-the-americans-about-financial-protection-still-ongoing",
+        "https://www.rferl.org/a/hungarian-opposition-leader-magyar-landslide-victory-orban/33730633.html",
+        "https://kvia.com/news/us-world/cnn-world/2026/04/14/trump-and-putin-just-lost-their-poster-boy-in-europe-what-now-for-hungary/",
+        "https://www.euronews.com/2026/04/13/can-peter-magyar-break-hungarys-reliance-on-russian-oil"
+      ]
+    },
+    {
+      "statement": "Serbia: Trump licence for the Belgrade project, entity and fee",
+      "verdict": "partly-accurate",
+      "finding": "Documented that Kushner said he and Eric Trump 'agreed on licensing' (Jan 2025) and that Eric said the contract would be with the developer, not the state. Vreme refers to a contract signed at the outset and asks whether Kushner could claim ~EUR 50M (no claim confirmed). The licensing entity's name, formation date and fee were not found, and no Serbia income appears in the 2025 disclosure summaries.",
+      "sources": [
+        "https://betabriefing.com/news/politics/29883-trump-hotel-to-be-built-in-place-of-former-general-staff-building-in-belgrade",
+        "https://vreme.com/en/vesti/dzred-kusner-generalstab-hotel-tramp-beograd-odsteta/",
+        "https://www.intellinews.com/kushner-drops-belgrade-trump-hotel-project-amid-corruption-probe-416899/",
+        "https://www.forbes.com/sites/danalexander/2025/07/24/wed-call-that-corruption-how-trump-used-the-presidency-to-expand-his-global-empire/",
+        "https://api.politifact.com/factchecks/2026/jul/07/donald-trump/disclosure-crypto-stocks-wealth/"
+      ]
+    },
+    {
+      "statement": "Serbia: US policy (NIS sanctions, tariffs) relative to the Belgrade project",
+      "verdict": "misleading",
+      "finding": "Decisions documented; the pairing is inferred and cuts against a favour. The NIS deferral was refused in Oct 2025 while the project was alive. The project collapsed 15 Dec 2025. MOL-Gazprom Neft heads of agreement for 56.15% signed 19 Jan 2026. OFAC repeatedly extended licences; on ~5 Nov 2026 it gave MOL a licence to 28 Feb 2027 for preparatory work only, not closing. The US suspended its 35% tariff on Serbia in Jul 2026 and launched a strategic dialogue on 17 Jul 2026.",
+      "sources": [
+        "https://kyivindependent.com/serbias-russian-owned-oil-company-loses-u-s-sanctions-deferral/",
+        "https://europeanwesternbalkans.com/2025/12/26/hungarian-mol-officially-part-of-talks-on-acquiring-russian-stake-in-serbian-nis/",
+        "https://europeanwesternbalkans.com/2026/10/01/mol-receives-a-new-license-extension-to-continue-talks-on-acquisition-of-russian-stake-in-nis/",
+        "https://interfax.com/newsroom/top-stories/119809/",
+        "https://www.intellinews.com/us-grants-nis-sanctions-reprieve-as-gazprom-mol-near-deal-418113/",
+        "https://www.intellinews.com/us-suspends-35-tariffs-on-serbian-goods-vucic-says-456818/",
+        "https://www.kosovo-online.com/en/news/politics/vucic-strategic-dialogue-marks-step-forward-relations-united-states-14-7-2026"
+      ]
+    },
+    {
+      "statement": "NIS resolution routes through Hungary's MOL with possible ADNOC minority",
+      "verdict": "confirmed",
+      "finding": "Documented that MOL is the buyer and that ADNOC may take a minority stake. The cross-link to the Trump-family story (a Hungary-Serbia-UAE loop alongside Eagle Hills) is our inference; no source asserts it.",
+      "sources": [
+        "https://interfax.com/newsroom/top-stories/119809/",
+        "https://europeanwesternbalkans.com/2025/12/26/hungarian-mol-officially-part-of-talks-on-acquiring-russian-stake-in-serbian-nis/"
+      ]
+    },
+    {
+      "statement": "Complete list of DT Marks/DTTM entities formed since Nov 2024 with country, partner and fee",
+      "verdict": "unverified",
+      "finding": "Not reconstructible from public reporting available here. Documented: DT Marks Abu Dhabi (30 Jan 2025, Damac, $5M) and DT Marks Al Raha Beach (Jul 2025 per CREW, Damac, $5M). Single-source: DT Marks Doha (Forbes Türkiye), DT Marks Tbilisi ('inactive', CREW), and the India and Philippines entities (Forbes). DT Marks Vietnam took $5M (C59). CREW counts at least 34 second-term companies, eight tied to UAE, Vietnam and India developments. CNBC: four new licensing LLCs earned $20.25M in 2025. Neither names Hungary or Serbia.",
+      "sources": [
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-incorporated-dozens-of-new-companies-in-lead-up-to-second-term-and-never-stopped/",
+        "https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/",
+        "https://www.forbes.com.tr/dunya/abd-baskani-trump-makamini-islerini-buyutmek-icin-nasil-kullaniyor",
+        "https://www.forbes.com/sites/danalexander/2025/07/24/wed-call-that-corruption-how-trump-used-the-presidency-to-expand-his-global-empire/"
+      ]
+    }
+  ],
+  "corrections": [
+    "The brief calls Hungary and Serbia 'deals'; the filings show entities, not signed deals with known partners or fees.",
+    "The 'financial shield'/currency swap was claimed by Orbán and denied by Trump in Dec 2025; it is not an established US decision.",
+    "The Russian-energy exemption was for one year per the White House, not open-ended as Orbán claimed.",
+    "The NIS relief came after the Belgrade project collapsed and is tied to a sale to MOL; the waiver was refused in Oct 2025 while the project was alive."
+  ],
+  "denials_and_context": [
+    "White House: the president's dealings are unrelated to the Trump Organization; no conflicts of interest.",
+    "Trump Organization: it only licenses its brand to private developers; its 2025 ethics policy bars only deals directly with foreign governments.",
+    "Eric Trump: the Belgrade hotel contract would be with the developer, not the Serbian state.",
+    "Don Jr.'s spokesperson rejected conflict-of-interest suggestions over his Serbia visit.",
+    "Affinity and Eagle Hills did not answer VSquare; a source said Affinity was not involved in Grand Budapest.",
+    "Orbán was the administration's closest EU ally, which gives an ideological explanation for the Hungary decisions. The Rogán designation was a last-days Biden action, and Hungary and Slovakia also hold EU pipeline-oil carve-outs.",
+    "forbes.com, citizensforethics.org, congress.gov, govinfo.gov and the Delaware register could not be fetched here; findings rest on search snippets from several outlets."
+  ],
+  "sources": [
+    {
+      "title": "We'd Call That Corruption: How Trump Used The Presidency To Expand His Global Empire",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/danalexander/2025/07/24/wed-call-that-corruption-how-trump-used-the-presidency-to-expand-his-global-empire/",
+      "date": "2025-07-24"
+    },
+    {
+      "title": "ABD Başkanı Trump makamını işlerini büyütmek için nasıl kullanıyor",
+      "publisher": "Forbes Türkiye",
+      "url": "https://www.forbes.com.tr/dunya/abd-baskani-trump-makamini-islerini-buyutmek-icin-nasil-kullaniyor",
+      "date": "2025"
+    },
+    {
+      "title": "CREW requests records from the Hungarian government on Trump and Hungarian officials",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/foia-requests/crew-requests-records-from-the-hungarian-government-on-trump-and-hungarian-officials/",
+      "date": "2026-08"
+    },
+    {
+      "title": "Hungary FOI Request, Trade Licensing Office (redacted)",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/wp-content/uploads/2026/08/Hungary-FOI-Request_Trade-Licensing-Office_Redacted.pdf",
+      "date": "2026-08"
+    },
+    {
+      "title": "Hungary FOI Request, Ministry of Construction and Transport (redacted)",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/wp-content/uploads/2026/08/Hungary-FOI-Request_Ministry-of-Construction-and-Transport_Redacted.pdf",
+      "date": "2026-08"
+    },
+    {
+      "title": "Trump incorporated dozens of new companies in lead up to second term—and never stopped",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-incorporated-dozens-of-new-companies-in-lead-up-to-second-term-and-never-stopped/",
+      "date": "2026"
+    },
+    {
+      "title": "Orbán government anticipates Trump son-in-law Jared Kushner joining Budapest skyscraper project",
+      "publisher": "VSquare",
+      "url": "https://vsquare.org/orban-government-anticipates-trump-son-in-law-jared-kushner-joining-budapest-skyscraper-project/",
+      "date": "2025-01"
+    },
+    {
+      "title": "VSquare: Trump Towert építhet a Rákosrendezőre Donald Trump veje a dubajiakkal",
+      "publisher": "Telex",
+      "url": "https://telex.hu/gazdasag/2025/01/23/vsqare-trump-tower-rakosrendezo-mini-dubaj-grand-budapest",
+      "date": "2025-01-23"
+    },
+    {
+      "title": "Jared Kushner could join Grand Budapest project",
+      "publisher": "InsightHungary (444)",
+      "url": "https://insighthungary.444.hu/2025/01/24/jared-kushner-could-join-grand-budapest-project",
+      "date": "2025-01-24"
+    },
+    {
+      "title": "Budapest pushes back on UAE-funded 'Mini Dubai' project",
+      "publisher": "Semafor",
+      "url": "https://www.semafor.com/article/01/22/2025/budapest-pushes-back-on-uae-funded-mini-dubai-project",
+      "date": "2025-01-22"
+    },
+    {
+      "title": "Hungarian government abandons €12bn 'Mini Dubai' project amid public outcry",
+      "publisher": "bne IntelliNews",
+      "url": "https://www.intellinews.com/hungarian-government-abandons-12bn-mini-dubai-project-amid-public-outcry-365888",
+      "date": "2025"
+    },
+    {
+      "title": "Hungarian gov't backs out of 'Maxi Dubai' project in Budapest",
+      "publisher": "Property Forum",
+      "url": "https://www.property-forum.eu/news/hungarian-govt-backs-out-of-maxi-dubai-project-in-budapest/19532",
+      "date": "2025"
+    },
+    {
+      "title": "Hungarian PM arrives in UAE amid controversy surrounding flagship real estate development project",
+      "publisher": "bne IntelliNews",
+      "url": "https://www.intellinews.com/hungarian-pm-arrives-in-uae-amid-controversy-surrounding-flagship-real-estate-development-project-364033/",
+      "date": "2025"
+    },
+    {
+      "title": "Jared Kushner and Dubai billionaire to partner on Trump hotel in Serbia",
+      "publisher": "Semafor",
+      "url": "https://www.semafor.com/article/01/17/2025/jared-kushner-and-dubai-billionaire-to-partner-on-trump-hotel-in-serbia",
+      "date": "2025-01-17"
+    },
+    {
+      "title": "Donald Trump Jr. meets Serbian president in Belgrade",
+      "publisher": "bne IntelliNews",
+      "url": "https://www.intellinews.com/donald-trump-jr-meets-serbian-president-in-belgrade-371096/",
+      "date": "2025-03"
+    },
+    {
+      "title": "Donald Trump Jr to meet Hungary's foreign minister in Budapest on Friday",
+      "publisher": "Reuters via AOL",
+      "url": "https://www.aol.com/news/donald-trump-jr-meet-hungarys-092711183.html",
+      "date": "2025-04-24"
+    },
+    {
+      "title": "Trump Jr. Heads to Eastern Europe to Expand Family Business",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-23/trump-jr-heads-to-eastern-europe-to-expand-family-business",
+      "date": "2025-04-23"
+    },
+    {
+      "title": "Trump Jr.'s East Europe Trip Mixes Money and Right-Wing Politics",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/crypto/trump-jr-s-east-europe-trip-mixes-money-and-right-wing-politics",
+      "date": "2025-04-30"
+    },
+    {
+      "title": "Donald Trump Jr. heads to Budapest in push to expand Trump family's business ties in CEE",
+      "publisher": "bne IntelliNews",
+      "url": "https://intellinews.com/donald-trump-jr-heads-to-budapest-in-push-to-expand-trump-family-s-business-ties-in-cee-377980",
+      "date": "2025-04"
+    },
+    {
+      "title": "US Lifts Sanctions on Hungary Minister in Trump's Gift to Orban",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-15/us-lifts-sanctions-on-hungary-minister-in-trump-s-gift-to-orban",
+      "date": "2025-04-15"
+    },
+    {
+      "title": "US lifts sanctions on Orban aide Rogan",
+      "publisher": "RFE/RL",
+      "url": "https://www.rferl.org/a/hungary-orban-rogan-rubio-sanctions-lifted/33386511.html",
+      "date": "2025-04"
+    },
+    {
+      "title": "US lifts sanctions related to Paks nuclear plant upgrade",
+      "publisher": "bne IntelliNews",
+      "url": "https://www.intellinews.com/us-lifts-sanctions-related-to-paks-nuclear-plant-upgrade-388518",
+      "date": "2025-06"
+    },
+    {
+      "title": "US has lifted sanctions on Hungary's Paks II nuclear project, says foreign minister",
+      "publisher": "NucNet",
+      "url": "https://www.nucnet.org/news/us-has-lifted-sanctions-on-hungary-s-paks-ii-nuclear-project-says-foreign-minister-6-1-2025",
+      "date": "2025"
+    },
+    {
+      "title": "Trump exempts Hungary from Russian oil and gas sanctions: PM Viktor Orban",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/11/7/hungarian-leader-viktor-orban-to-meet-us-president-donald-trump",
+      "date": "2025-11-07"
+    },
+    {
+      "title": "Trump exempts Hungary from Russian oil sanctions for one year",
+      "publisher": "E&E News",
+      "url": "https://www.eenews.net/articles/trump-exempts-hungary-from-russian-oil-sanctions-for-one-year",
+      "date": "2025-11"
+    },
+    {
+      "title": "Hungarian leader Orban says he secured 'financial shield' from Trump",
+      "publisher": "Al Jazeera",
+      "url": "https://aljazeera.com/economy/2025/11/9/hungarian-leader-orban-says-he-secured-financial-shield-from-trump",
+      "date": "2025-11-09"
+    },
+    {
+      "title": "Trump denies pledging financial lifeline to Orbán",
+      "publisher": "Telex",
+      "url": "https://production.telex.hu/english/2025/12/09/trump-denies-pledging-financial-lifeline-to-orban",
+      "date": "2025-12-09"
+    },
+    {
+      "title": "Szijjártó says negotiations with the Americans about financial protection still ongoing",
+      "publisher": "Telex",
+      "url": "https://telex.hu/english/2025/12/09/szijjarto-says-negotiations-with-the-americans-about-financial-protection-still-ongoing",
+      "date": "2025-12-09"
+    },
+    {
+      "title": "Hungarian Opposition Leader Magyar Scores Landslide Win To Oust Orban",
+      "publisher": "RFE/RL",
+      "url": "https://www.rferl.org/a/hungarian-opposition-leader-magyar-landslide-victory-orban/33730633.html",
+      "date": "2026-04"
+    },
+    {
+      "title": "Trump and Putin just lost their poster boy in Europe. What now for Hungary?",
+      "publisher": "CNN via KVIA",
+      "url": "https://kvia.com/news/us-world/cnn-world/2026/04/14/trump-and-putin-just-lost-their-poster-boy-in-europe-what-now-for-hungary/",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "Can Péter Magyar break Hungary's reliance on Russian oil?",
+      "publisher": "Euronews",
+      "url": "https://www.euronews.com/2026/04/13/can-peter-magyar-break-hungarys-reliance-on-russian-oil",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "Trump Hotel to Be Built in Place of Former General Staff Building in Belgrade",
+      "publisher": "Beta Briefing",
+      "url": "https://betabriefing.com/news/politics/29883-trump-hotel-to-be-built-in-place-of-former-general-staff-building-in-belgrade",
+      "date": "2025-01"
+    },
+    {
+      "title": "Kushner General Staff compensation question",
+      "publisher": "Vreme",
+      "url": "https://vreme.com/en/vesti/dzred-kusner-generalstab-hotel-tramp-beograd-odsteta/",
+      "date": "2026"
+    },
+    {
+      "title": "Kushner drops Belgrade Trump hotel project amid corruption probe",
+      "publisher": "bne IntelliNews",
+      "url": "https://www.intellinews.com/kushner-drops-belgrade-trump-hotel-project-amid-corruption-probe-416899/",
+      "date": "2025-12"
+    },
+    {
+      "title": "Serbia's Russian-owned oil company loses US sanctions deferral",
+      "publisher": "Kyiv Independent",
+      "url": "https://kyivindependent.com/serbias-russian-owned-oil-company-loses-u-s-sanctions-deferral/",
+      "date": "2025-10-09"
+    },
+    {
+      "title": "Hungarian MOL officially part of talks on acquiring Russian stake in Serbian NIS",
+      "publisher": "European Western Balkans",
+      "url": "https://europeanwesternbalkans.com/2025/12/26/hungarian-mol-officially-part-of-talks-on-acquiring-russian-stake-in-serbian-nis/",
+      "date": "2025-12-26"
+    },
+    {
+      "title": "MOL receives a new license extension to continue talks on acquisition of Russian stake in NIS",
+      "publisher": "European Western Balkans",
+      "url": "https://europeanwesternbalkans.com/2026/10/01/mol-receives-a-new-license-extension-to-continue-talks-on-acquisition-of-russian-stake-in-nis/",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "NIS/MOL OFAC licence",
+      "publisher": "Interfax",
+      "url": "https://interfax.com/newsroom/top-stories/119809/",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "US grants NIS sanctions reprieve as Gazprom, MOL near deal",
+      "publisher": "bne IntelliNews",
+      "url": "https://www.intellinews.com/us-grants-nis-sanctions-reprieve-as-gazprom-mol-near-deal-418113/",
+      "date": "2026"
+    },
+    {
+      "title": "US suspends 35% tariffs on Serbian goods, Vucic says",
+      "publisher": "bne IntelliNews",
+      "url": "https://www.intellinews.com/us-suspends-35-tariffs-on-serbian-goods-vucic-says-456818/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Vucic: Strategic dialogue marks a step forward in relations with the United States",
+      "publisher": "Kosovo Online",
+      "url": "https://www.kosovo-online.com/en/news/politics/vucic-strategic-dialogue-marks-step-forward-relations-united-states-14-7-2026",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Trump disclosure fact-check",
+      "publisher": "PolitiFact",
+      "url": "https://api.politifact.com/factchecks/2026/jul/07/donald-trump/disclosure-crypto-stocks-wealth/",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "Trump's foreign licensing business rises to $59.5M (CNBC licensee)",
+      "publisher": "Times Brasil",
+      "url": "https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/",
+      "date": "2026"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; ultimate owner of the DT Marks licensing entities."
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Visited Vučić (Mar and Apr 2025) and Budapest (25 Apr 2025) on a trip framed as expanding family business ties."
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump Organization EVP; agreed Belgrade licensing with Kushner."
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Affinity founder; Belgrade developer; floated (unconfirmed) for Grand Budapest."
+    },
+    {
+      "id": "jd-vance",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Vice President; campaigned for Orbán before the April 2026 election."
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Licenses the Trump brand abroad through 'DT Marks <place>' entities."
+    },
+    {
+      "id": "affinity-partners",
+      "name": "Affinity Partners",
+      "type": "fund",
+      "description": "Kushner's firm; Belgrade General Staff project partner."
+    },
+    {
+      "id": "dt-marks-budapest",
+      "name": "DT Marks Budapest LLC",
+      "type": "company",
+      "description": "Trump licensing entity named in CREW's Aug 2026 Hungary FOI requests; formed after Nov 2024; no partner or fee disclosed."
+    },
+    {
+      "id": "dt-marks-budapest-member-corp",
+      "name": "DT Marks Budapest Member Corp.",
+      "type": "company",
+      "description": "Companion entity to DT Marks Budapest LLC."
+    },
+    {
+      "id": "dt-marks-serbia-entity",
+      "name": "Unnamed Trump licensing entity for Serbia",
+      "type": "company",
+      "description": "Entity Forbes says points to an unannounced Serbia deal; name not found."
+    },
+    {
+      "id": "dt-marks-abu-dhabi",
+      "name": "DT Marks Abu Dhabi LLC",
+      "type": "company",
+      "description": "Delaware licensing entity formed 30 Jan 2025 (C82)."
+    },
+    {
+      "id": "dt-marks-al-raha-beach",
+      "name": "DT Marks Al Raha Beach LLC",
+      "type": "company",
+      "description": "Delaware licensing entity formed Jul 2025 per CREW (C82)."
+    },
+    {
+      "id": "dt-marks-doha",
+      "name": "DT Marks Doha LLC",
+      "type": "company",
+      "description": "Trump Organization licensing vehicle for Qatar."
+    },
+    {
+      "id": "dt-marks-tbilisi",
+      "name": "DT Marks Tbilisi LLC",
+      "type": "company",
+      "description": "Undisclosed, 'inactive' Georgia licensing entity per CREW."
+    },
+    {
+      "id": "eagle-hills",
+      "name": "Eagle Hills",
+      "type": "company",
+      "description": "Abu Dhabi-based developer founded by Mohamed Alabbar; Belgrade partner and Grand Budapest developer."
+    },
+    {
+      "id": "mohamed-alabbar",
+      "name": "Mohamed Alabbar",
+      "type": "person",
+      "description": "Dubai developer (Eagle Hills); Kushner's Belgrade partner; met Orbán in Abu Dhabi."
+    },
+    {
+      "id": "grand-budapest-project",
+      "name": "Grand Budapest (Rákosrendező) project",
+      "type": "event",
+      "description": "EUR 12.3B Eagle Hills district announced 20 Jan 2025; dropped in early 2025."
+    },
+    {
+      "id": "hungary",
+      "name": "Hungary",
+      "type": "country",
+      "description": "Orbán-led until Apr 2026; recipient of several US sanctions decisions in 2025."
+    },
+    {
+      "id": "viktor-orban",
+      "name": "Viktor Orbán",
+      "type": "person",
+      "description": "Hungarian PM until his April 2026 defeat; Trump ally."
+    },
+    {
+      "id": "peter-magyar",
+      "name": "Péter Magyar",
+      "type": "person",
+      "description": "Tisza leader; won the 12 Apr 2026 election."
+    },
+    {
+      "id": "peter-szijjarto",
+      "name": "Péter Szijjártó",
+      "type": "person",
+      "description": "Hungarian foreign minister; met Don Jr. on 25 Apr 2025."
+    },
+    {
+      "id": "antal-rogan",
+      "name": "Antal Rogán",
+      "type": "person",
+      "description": "Orbán's cabinet chief; US sanctions lifted 15 Apr 2025."
+    },
+    {
+      "id": "paks-ii",
+      "name": "Paks II nuclear expansion",
+      "type": "asset",
+      "description": "Rosatom-built Hungarian plant; US sanctions relief announced by Hungary in Jun 2025."
+    },
+    {
+      "id": "hungary-russian-energy-exemption",
+      "name": "US one-year exemption for Hungary's Russian oil and gas",
+      "type": "law",
+      "description": "Granted 7 Nov 2025 after the Trump-Orbán meeting."
+    },
+    {
+      "id": "hungary-financial-shield",
+      "name": "Claimed US 'financial shield' / swap line for Hungary",
+      "type": "event",
+      "description": "Claimed by Orbán 9 Nov 2025; denied by Trump Dec 2025."
+    },
+    {
+      "id": "serbia",
+      "name": "Serbia",
+      "type": "country",
+      "description": "Host of the collapsed Trump-branded Belgrade project."
+    },
+    {
+      "id": "aleksandar-vucic",
+      "name": "Aleksandar Vucic",
+      "type": "person",
+      "description": "President of Serbia."
+    },
+    {
+      "id": "nis-serbia",
+      "name": "NIS (Naftna Industrija Srbije)",
+      "type": "company",
+      "description": "Gazprom Neft-controlled Serbian oil company under US sanctions."
+    },
+    {
+      "id": "mol-group",
+      "name": "MOL Group",
+      "type": "company",
+      "description": "Hungarian oil company buying Gazprom Neft's 56.15% of NIS under OFAC licences."
+    },
+    {
+      "id": "adnoc",
+      "name": "ADNOC",
+      "type": "company",
+      "description": "Abu Dhabi state oil company; possible NIS minority buyer from MOL."
+    },
+    {
+      "id": "ofac",
+      "name": "OFAC",
+      "type": "government",
+      "description": "US Treasury sanctions office."
+    },
+    {
+      "id": "us-treasury",
+      "name": "US Treasury",
+      "type": "government",
+      "description": "Delisted Rogán; administers Russia sanctions."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Granted Hungary's energy exemption."
+    },
+    {
+      "id": "crew",
+      "name": "CREW",
+      "type": "media",
+      "description": "Watchdog that filed Hungary FOI requests and counted new Trump companies."
+    },
+    {
+      "id": "forbes",
+      "name": "Forbes",
+      "type": "media",
+      "description": "Reported filings pointing to unannounced Serbia and Hungary deals."
+    },
+    {
+      "id": "vsquare",
+      "name": "VSquare",
+      "type": "media",
+      "description": "Central European investigative outlet that reported Kushner/Grand Budapest talk."
+    },
+    {
+      "id": "serbia-us-strategic-dialogue-2026",
+      "name": "US-Serbia Strategic Dialogue",
+      "type": "event",
+      "description": "Launched 17 Jul 2026."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "trump-organization",
+      "target": "dt-marks-budapest",
+      "label": "registered licensing entity for Hungary's capital (after Nov 2024)",
+      "type": "ownership",
+      "date": "2025",
+      "amount_usd": null
+    },
+    {
+      "source": "dt-marks-budapest-member-corp",
+      "target": "dt-marks-budapest",
+      "label": "member corp of",
+      "type": "ownership",
+      "date": "2025",
+      "amount_usd": null
+    },
+    {
+      "source": "trump-organization",
+      "target": "dt-marks-serbia-entity",
+      "label": "registered entity pointing to unannounced Serbia deal (Forbes)",
+      "type": "ownership",
+      "date": "2025",
+      "amount_usd": null
+    },
+    {
+      "source": "crew",
+      "target": "dt-marks-budapest",
+      "label": "named in Hungary FOI requests",
+      "type": "media",
+      "date": "2026-08",
+      "amount_usd": null
+    },
+    {
+      "source": "forbes",
+      "target": "dt-marks-serbia-entity",
+      "label": "reported filings",
+      "type": "media",
+      "date": "2025-07-24",
+      "amount_usd": null
+    },
+    {
+      "source": "mohamed-alabbar",
+      "target": "eagle-hills",
+      "label": "founder of",
+      "type": "ownership",
+      "date": "",
+      "amount_usd": null
+    },
+    {
+      "source": "eagle-hills",
+      "target": "affinity-partners",
+      "label": "partner on Trump-branded Belgrade project",
+      "type": "commercial",
+      "date": "2025-01-17",
+      "amount_usd": 500000000
+    },
+    {
+      "source": "eagle-hills",
+      "target": "grand-budapest-project",
+      "label": "developer (EUR 12.3B contract, dropped early 2025)",
+      "type": "commercial",
+      "date": "2025-01-20",
+      "amount_usd": null
+    },
+    {
+      "source": "viktor-orban",
+      "target": "grand-budapest-project",
+      "label": "government announced contract on inauguration day",
+      "type": "political",
+      "date": "2025-01-20",
+      "amount_usd": null
+    },
+    {
+      "source": "jared-kushner",
+      "target": "grand-budapest-project",
+      "label": "reportedly may join (single-source, unconfirmed)",
+      "type": "commercial",
+      "date": "2025-01",
+      "amount_usd": null
+    },
+    {
+      "source": "viktor-orban",
+      "target": "mohamed-alabbar",
+      "label": "met during Abu Dhabi state visit",
+      "type": "political",
+      "date": "2025-01",
+      "amount_usd": null
+    },
+    {
+      "source": "viktor-orban",
+      "target": "aleksandar-vucic",
+      "label": "met in Belgrade; reportedly briefed on Grand Budapest (single-source)",
+      "type": "political",
+      "date": "2025-01-18",
+      "amount_usd": null
+    },
+    {
+      "source": "jared-kushner",
+      "target": "eric-trump",
+      "label": "agreed Trump licensing for Belgrade hotel",
+      "type": "commercial",
+      "date": "2025-01",
+      "amount_usd": null
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "aleksandar-vucic",
+      "label": "met in Belgrade",
+      "type": "political",
+      "date": "2025-03-11",
+      "amount_usd": null
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "peter-szijjarto",
+      "label": "met in Budapest during business trip",
+      "type": "political",
+      "date": "2025-04-25",
+      "amount_usd": null
+    },
+    {
+      "source": "us-treasury",
+      "target": "antal-rogan",
+      "label": "lifted sanctions",
+      "type": "regulatory",
+      "date": "2025-04-15",
+      "amount_usd": null
+    },
+    {
+      "source": "us-treasury",
+      "target": "paks-ii",
+      "label": "lifted sanctions (per Hungarian government)",
+      "type": "regulatory",
+      "date": "2025-06-29",
+      "amount_usd": null
+    },
+    {
+      "source": "donald-trump",
+      "target": "hungary-russian-energy-exemption",
+      "label": "granted one-year exemption after Orbán meeting",
+      "type": "regulatory",
+      "date": "2025-11-07",
+      "amount_usd": null
+    },
+    {
+      "source": "hungary-russian-energy-exemption",
+      "target": "hungary",
+      "label": "benefits",
+      "type": "regulatory",
+      "date": "2025-11-07",
+      "amount_usd": null
+    },
+    {
+      "source": "donald-trump",
+      "target": "hungary-financial-shield",
+      "label": "denied pledging",
+      "type": "political",
+      "date": "2025-12-09",
+      "amount_usd": null
+    },
+    {
+      "source": "jd-vance",
+      "target": "viktor-orban",
+      "label": "campaigned for",
+      "type": "political",
+      "date": "2026-04",
+      "amount_usd": null
+    },
+    {
+      "source": "peter-magyar",
+      "target": "viktor-orban",
+      "label": "defeated in election",
+      "type": "political",
+      "date": "2026-04-12",
+      "amount_usd": null
+    },
+    {
+      "source": "ofac",
+      "target": "nis-serbia",
+      "label": "refused sanctions deferral while Belgrade project live",
+      "type": "regulatory",
+      "date": "2025-10-09",
+      "amount_usd": null
+    },
+    {
+      "source": "mol-group",
+      "target": "nis-serbia",
+      "label": "agreed to buy 56.15% from Gazprom Neft",
+      "type": "ownership",
+      "date": "2026-01-19",
+      "amount_usd": null
+    },
+    {
+      "source": "ofac",
+      "target": "mol-group",
+      "label": "licence for preparatory work to 28 Feb 2027 (not closing)",
+      "type": "regulatory",
+      "date": "2026-11-05",
+      "amount_usd": null
+    },
+    {
+      "source": "adnoc",
+      "target": "nis-serbia",
+      "label": "possible minority stake via MOL",
+      "type": "ownership",
+      "date": "2026",
+      "amount_usd": null
+    },
+    {
+      "source": "white-house",
+      "target": "serbia",
+      "label": "suspended 35% tariff",
+      "type": "regulatory",
+      "date": "2026-07",
+      "amount_usd": null
+    },
+    {
+      "source": "serbia",
+      "target": "serbia-us-strategic-dialogue-2026",
+      "label": "launched with US",
+      "type": "political",
+      "date": "2026-07-17",
+      "amount_usd": null
+    },
+    {
+      "source": "trump-organization",
+      "target": "dt-marks-tbilisi",
+      "label": "undisclosed inactive entity (CREW)",
+      "type": "ownership",
+      "date": "",
+      "amount_usd": null
+    },
+    {
+      "source": "trump-organization",
+      "target": "dt-marks-doha",
+      "label": "licensing entity formed 2025 (Forbes Türkiye)",
+      "type": "ownership",
+      "date": "2025",
+      "amount_usd": null
+    },
+    {
+      "source": "trump-organization",
+      "target": "dt-marks-abu-dhabi",
+      "label": "formed 30 Jan 2025",
+      "type": "ownership",
+      "date": "2025-01-30",
+      "amount_usd": null
+    }
+  ],
+  "leads": [
+    {
+      "title": "Registry pull for DT Marks Budapest and the Serbia entity",
+      "why_connected": "Delaware formation dates, registered agent and any amendments would show whether the Budapest entity was formed around the 20 Jan 2025 Grand Budapest announcement, and would name the Serbian entity.",
+      "entities": [
+        "dt-marks-budapest",
+        "dt-marks-serbia-entity",
+        "trump-organization"
+      ],
+      "source_url": "https://www.citizensforethics.org/wp-content/uploads/2026/08/Hungary-FOI-Request_Trade-Licensing-Office_Redacted.pdf"
+    },
+    {
+      "title": "Answers to CREW's Hungary FOI requests under the Magyar government",
+      "why_connected": "A new government may release records on Trump/Kushner contacts, Grand Budapest and payments to Trump-linked products that Orbán's ministries held.",
+      "entities": [
+        "crew",
+        "hungary",
+        "peter-magyar",
+        "jared-kushner"
+      ],
+      "source_url": "https://www.citizensforethics.org/reports-investigations/foia-requests/crew-requests-records-from-the-hungarian-government-on-trump-and-hungarian-officials/"
+    },
+    {
+      "title": "Kushner's possible compensation claim against Serbia over the General Staff contract",
+      "why_connected": "Vreme raises a ~EUR 50M claim; any arbitration would expose the contract and Trump licensing terms.",
+      "entities": [
+        "jared-kushner",
+        "affinity-partners",
+        "serbia"
+      ],
+      "source_url": "https://vreme.com/en/vesti/dzred-kusner-generalstab-hotel-tramp-beograd-odsteta/"
+    },
+    {
+      "title": "OFAC final authorisation of the MOL/NIS deal and ADNOC's role",
+      "why_connected": "Closing requires a separate OFAC licence; an Abu Dhabi state stake would bring UAE capital into a US sanctions decision on Serbia.",
+      "entities": [
+        "ofac",
+        "mol-group",
+        "nis-serbia",
+        "adnoc"
+      ],
+      "source_url": "https://interfax.com/newsroom/top-stories/119809/"
+    },
+    {
+      "title": "Don Jr.'s Budapest hosts: Zoltán Aczél, Portfolio and 4iG's Gellért Jászai",
+      "why_connected": "Forum organisers and expected business contacts during a trip framed as expanding family business; 4iG is a state-favoured Hungarian telecoms/defence group.",
+      "entities": [
+        "donald-trump-jr",
+        "hungary"
+      ],
+      "source_url": "https://intellinews.com/donald-trump-jr-heads-to-budapest-in-push-to-expand-trump-family-s-business-ties-in-cee-377980"
+    }
+  ]
+}

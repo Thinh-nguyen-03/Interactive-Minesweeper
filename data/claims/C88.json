@@ -3,7 +3,7 @@
   "title": "Damac and Hussain Sajwani: fees for unannounced projects and the data-centre pledge",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The money and the relationship are well documented. Damac paid about $10M in 2025 for two Abu Dhabi Trump licences with no launched project by Nov 2026. Sajwani's ties to Trump run from the 2013 golf deal through Mar-a-Lago, an April 2025 Oval Office visit and the May 2025 Abu Dhabi forum. The $20B pledge has become about $12B of land and power: a $36.5M site in Canton, Ohio, a New Jersey site and an $860M Kansas conversion, none of them operating. Every approval found is local. No federal permit, FAST-41 designation or energy decision for a Damac site was found, and no Sajwani link to WLF, USD1 or $TRUMP turned up.",
+  "summary": "The money and the relationship are well documented. Damac paid about $10M in 2025 to two new Trump licensing entities that CREW says appear tied to unannounced Abu Dhabi developments, with no launched project by Nov 2026. Sajwani's ties to Trump run from the 2013 golf deal through Mar-a-Lago, an April 2025 Oval Office visit and the May 2025 Abu Dhabi forum. The $20B pledge has become about $12B of land and power: a $36.5M site in Canton, Ohio, a New Jersey site and an $860M Kansas conversion, none of them operating. Every approval found is local. No federal permit, FAST-41 designation or energy decision for a Damac site was found, and no Sajwani link to WLF, USD1 or $TRUMP turned up.",
   "sub_claims": [
     {
       "statement": "Damac paid about $10M in 2025 for two Abu Dhabi Trump licences, and as of Nov 2026 no Trump-branded Abu Dhabi project has been launched.",
@@ -611,7 +611,7 @@
     {
       "source": "dt-marks-al-raha-beach",
       "target": "trump-organization",
-      "label": "licensing entity of",
+      "label": "licensing entity of (formed same day as data-centre EO, per CREW only)",
       "type": "ownership",
       "date": "2025-07"
     },
@@ -830,5 +830,38 @@
       ],
       "source_url": "https://www.zawya.com/en/business/technology-and-telecom/damac-digitals-planned-it-capacity-landbank-hits-6-000mw-hwz7tzjk"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Damac's two $5M payments to DT Marks Abu Dhabi LLC and DT Marks Al Raha Beach LLC, and whether any Abu Dhabi project launched",
+      "Damac Digital's US sites: $36.5M Canton, Ohio land and $860M Edgerton, Kansas conversion",
+      "Any federal (not local) approval for a Damac data-centre site"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Abu Dhabi fees: upheld ($5M per entity, CREW from Trump's OGE disclosure). CREW's own wording is that the entities 'appear to be related to unannounced developments in Abu Dhabi'; the summary now carries that qualifier. Fresh searches (Gulf News, The National Sept 2026 overview) found no Damac or Trump Organization Abu Dhabi launch through Nov 2026; Trump-branded Gulf launches found are Dar Global's.",
+      "US sites: upheld. Trackers and CREW confirm DAMAC Digital Solution Ohio bought ~94 acres in SE Canton in Dec 2025; Ingram's and DCD confirm the $860M Edgerton conversion, the 3-2 planning-commission denial and the later go-ahead. Nothing operating.",
+      "Federal approvals: none found; upheld as unverified. DT Marks Al Raha Beach's same-day formation remains single-source (CREW) and its relationship label now says so."
+    ],
+    "new_sources": [
+      {
+        "title": "Where is Trump's property empire expanding in the Gulf?",
+        "publisher": "The National",
+        "url": "https://www.thenationalnews.com/business/property/2026/09/03/where-is-trumps-property-empire-expanding-in-the-gulf/",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Trump Tower Abu Dhabi: Buzz builds ahead of Gulf visit and Dubai success",
+        "publisher": "Gulf News",
+        "url": "https://gulfnews.com/business/property/after-dubai-how-soon-will-a-trump-tower-come-to-abu-dhabi-1.500115945",
+        "date": "2025-05"
+      },
+      {
+        "title": "Edgerton Data Center (DAMAC Digital), Kansas",
+        "publisher": "More Than Just Parks data-centre tracker",
+        "url": "https://morethanjustparks.com/data-center-tracker/edgerton-data-center-damac-digital-ks--2b5543d3-376d-464a-830f-4ede025da8a6",
+        "date": "2026"
+      }
+    ]
+  }
 }

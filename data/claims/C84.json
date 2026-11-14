@@ -3,7 +3,7 @@
   "title": "Heritage Advisors and Sheikh Sultan bin Jassim: one Qatari fund across three stories",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The fund's three documented roles hold up. Heritage Advisors / Sheikh Sultan bin Jassim paid EPA chief Lee Zeldin's consultancy in 2023, holds about 15% of Newsmax through a disclosed SEC ownership chain (~19.7M shares, worth ~$1.6B at the March 2025 listing against ~$50M invested), and paid $45M for a quarter of Fred Daibes's Edgewater holdings in the Menendez case. The new layers are a Daily Beast report that the Heritage-Daibes entity controls co-defendant Wael Hana's IS EG Halal site, and a single anonymous-sourced Free Beacon claim tying Sheikh Sultan to Hamad bin Jassim, reported prior owner of the Qatari Air Force One jet. No source shows coordination among the threads or any US government benefit: we found no EPA matter involving Qatar, Newsmax is suing Trump's FCC rather than benefiting from it, and Daibes's $1M Javelin pardon bid failed.",
+  "summary": "The fund's three documented roles hold up. Heritage Advisors / Sheikh Sultan bin Jassim paid EPA chief Lee Zeldin's consultancy in 2023, holds ~19.7M Newsmax shares through a disclosed SEC ownership chain (about 15% and ~$1.6B at the March 2025 listing price, both our arithmetic, against ~$50M invested), and paid $45M for a quarter of Fred Daibes's Edgewater holdings in the Menendez case. The new layers are a Daily Beast report that the Heritage-Daibes entity controls co-defendant Wael Hana's IS EG Halal site, and a single anonymous-sourced Free Beacon claim tying Sheikh Sultan to Hamad bin Jassim, reported prior owner of the Qatari Air Force One jet. No source shows coordination among the threads or any US government benefit: we found no EPA matter involving Qatar, Newsmax is suing Trump's FCC rather than benefiting from it, and Daibes's Javelin pardon bid (reportedly $1M, per NBC's unnamed sources) failed.",
   "sub_claims": [
     {
       "statement": "Heritage Advisors is Sheikh Sultan bin Jassim Al Thani's vehicle, and its Newsmax stake sits in a disclosed US ownership chain (Naples Investment Holdco LLC -> Heritage Investments LP -> Heritage GP -> a trust of which he is sole beneficiary).",
@@ -97,8 +97,8 @@
     },
     {
       "statement": "Daibes paid Javelin Advisors (Keith Schiller) $1M for a pardon bid, and Menendez himself sought a Trump pardon; neither got clemency.",
-      "verdict": "confirmed",
-      "finding": "DOCUMENTED (LDA filings via NBC; three sources). Daibes paid $1M in Q1 2025 to Schiller and Javelin for 'executive relief' from his seven-year sentence (sentenced January 2025). His lawyer said the engagement ended in June 2025. Menendez lobbied publicly for a Trump pardon before reporting to prison in June 2025. NYT (January 2026, via New Jersey Globe) reported Trump was not considering it. We found no clemency for Menendez, Daibes or Hana through November 2026. No source says Heritage or Sheikh Sultan had any role in Daibes's pardon effort.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED for the engagement (LDA filings listing 'executive relief', reported by NBC and NOTUS); the $1M amount is SINGLE-SOURCE (NBC, citing three unnamed sources; audit re-search found no independent confirmation, consistent with C83). Daibes reportedly paid $1M in Q1 2025 to Schiller and Javelin for 'executive relief' from his seven-year sentence (sentenced January 2025). His lawyer said the engagement ended in June 2025. Menendez lobbied publicly for a Trump pardon before reporting to prison in June 2025. NYT (January 2026, via New Jersey Globe) reported Trump was not considering it. We found no clemency for Menendez, Daibes or Hana through November 2026. No source says Heritage or Sheikh Sultan had any role in Daibes's pardon effort.",
       "sources": [
         "https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278",
         "https://www.nbcnewyork.com/news/local/crime-and-courts/fred-daibes-hired-lobbying-firm-clemency-trump/6408580/?amp=1",
@@ -121,7 +121,8 @@
     "C73 gives the Newsmax stake only as the ~$50M invested in 2019-20. SEC filings show 19,737,553 Class B shares, about 15% (our arithmetic), worth roughly $1.65B at the first-day close.",
     "The brief's phrase 'Newsmax's dealings with the administration' implies favourable treatment. The documented record shows Newsmax opposing the FCC's Nexstar-Tegna approval and leaving the Pentagon under Hegseth's rules; its defamation settlements were private disputes.",
     "Heritage's deal with Daibes was finalized in December 2022 for $45M for a quarter stake (FDD, Daily Beast). The indictment's 2023 joint-venture language refers to the same relationship.",
-    "C73 could not read the Free Beacon jet article. Its claim is that Sheikh Sultan is an HBJ confidant and business partner, from an anonymous source; it does not say Heritage owns the jet."
+    "C73 could not read the Free Beacon jet article. Its claim is that Sheikh Sultan is an HBJ confidant and business partner, from an anonymous source; it does not say Heritage owns the jet.",
+    "Audit: the Daibes '$1M' was graded documented here but single-source in C83; it rests on NBC's three unnamed sources (the LDA filings document the engagement). Sub-claim 9 is now mostly-accurate and labels say so."
   ],
   "denials_and_context": [
     "Heritage says it operates independently of any government, invests only for value, and has no editorial or management control over media holdings. Its lawyers say Sheikh Sultan bought the Newsmax stake for profit and not on behalf of Qatar.",
@@ -605,7 +606,7 @@
     {
       "source": "naples-investment-holdco",
       "target": "newsmax",
-      "label": "holds 19,737,553 Class B shares (~15%) of",
+      "label": "holds 19,737,553 Class B shares (~15%, our arithmetic) of",
       "type": "ownership",
       "date": "2025-05"
     },
@@ -698,7 +699,7 @@
     {
       "source": "fred-daibes",
       "target": "javelin-advisors",
-      "label": "paid $1M for pardon bid",
+      "label": "paid reportedly $1M for pardon bid (NBC, unnamed sources)",
       "type": "money",
       "date": "2025-Q1",
       "amount_usd": 1000000
@@ -734,7 +735,7 @@
     {
       "source": "hamad-bin-jassim",
       "target": "qatar-jet",
-      "label": "reported prior owner of (P4-HBJ)",
+      "label": "reported prior owner of (P4-HBJ; current legal ownership undisclosed)",
       "type": "ownership",
       "date": "2025-05"
     },
@@ -907,5 +908,39 @@
       ],
       "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/A9F88F6167796EF985258E04002DDA12/$FILE/Lee-Zeldin-2026-278ANNU.pdf"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Heritage/Naples Investment Holdco's ~19.7M Newsmax shares and the ~15% / ~$1.6B figures",
+      "The single-source Free Beacon claim tying Sheikh Sultan to Hamad bin Jassim and the Qatari 747 (P4-HBJ)",
+      "Daibes's $1M payment to Javelin and the grading of that figure"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Newsmax stake: fresh searches found the ~15% and ~$1.6B figures only in secondary outlets (one notes the stake's current status is not clarified in public disclosures); our share-count arithmetic stands. Summary and the Naples->Newsmax relationship label now say the 15% and $1.6B are our arithmetic.",
+      "Jet link: still single-source. Re-search found only the Free Beacon (anonymous 'source familiar') joining Heritage/Sultan to HBJ; reference sources say the jet's owner was undisclosed, with conflicting descriptions (privately owned per NYT vs a Qatar Amiri Flight aircraft). Relationship label now notes ownership is undisclosed. Upheld as unverified.",
+      "Daibes $1M: changed sub-claim 9 from confirmed to mostly-accurate and relabelled the amount as single-source (NBC, three unnamed sources), matching C83; the engagement and its 'executive relief' purpose remain documented. Summary and relationship label updated.",
+      "No newer reporting found of any sale of the Newsmax block, an EPA matter involving Qatar, or clemency for Daibes or Menendez."
+    ],
+    "new_sources": [
+      {
+        "title": "Owner of Trump's Qatari Air Force One Linked to Bob Menendez Corruption Scandal (re-checked)",
+        "publisher": "Washington Free Beacon",
+        "url": "https://freebeacon.com/national-security/owner-of-trumps-qatari-air-force-one-linked-to-bob-menendez-corruption-scandal/",
+        "date": "2025-05"
+      },
+      {
+        "title": "P4-HBJ",
+        "publisher": "Wikiwand (Wikipedia mirror)",
+        "url": "https://www.wikiwand.com/en/articles/P4-HBJ",
+        "date": ""
+      },
+      {
+        "title": "Who owns Newsmax: the complete ownership 2026",
+        "publisher": "whoistheownerof.com (low-authority)",
+        "url": "https://whoistheownerof.com/who-owns-newsmax-the-complete-ownership-2026/",
+        "date": "2026"
+      }
+    ]
+  }
 }
