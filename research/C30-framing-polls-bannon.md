@@ -52,8 +52,8 @@ Only Coffeezilla can know this. "Alania" is a transcription error for Melania. T
 - **Sam Kessler**: hired by the WSJ as a data reporter (June 2025). He was formerly a CoinDesk deputy managing editor and led CoinDesk's World Liberty investigation. He was the lead reporter on the WSJ's report that Tahnoon bin Zayed secretly bought 49% of WLF.
 - **Isaac Saul**: founder and executive editor of Tangle. In 2026 he compiled an extensive accounting of the family's self-dealing (Bulwark Podcast, May 7, 2026).
 
-### 7. Iran-war aside: NOT CHECKED
-The aside refers to a U.S.-Iran conflict that pulled attention away from a story. The search budget ran out before this could be checked.
+### 7. Iran-war aside: MOSTLY ACCURATE (checked in audit pass)
+The premise holds: the United States and Israel launched strikes on Iran on Feb. 28, 2026. "That guy" is not named; from context it most plausibly means Jeffrey Epstein, whose files dominated coverage beforehand (inference). The implied point, that the war buried the story, is opinion. Critics and op-eds argued it (CounterPunch, Raw Story, The Nightly), and a Zeteo poll found 52% of respondents believed it, but no evidence of motive exists, and the DOJ released more Epstein files on Mar. 6, 2026, six days into the war.
 
 ## Corrections
 - "Alania Trump" is Melania Trump (transcription error).
@@ -91,3 +91,14 @@ The aside refers to a U.S.-Iran conflict that pulled attention away from a story
 21. Jan. 6 report: Trump scammed supporters out of $250 million. Rolling Stone, 2022-06. https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/
 22. Coffeezilla / Logan Paul lawsuit. Cointelegraph. https://cointelegraph.com/news/coffeezilla-logan-paul-lawsuit-investigations
 23. Sen. Chris Murphy: 'the most corrupt thing a president has ever done'. murphy.senate.gov. https://www.murphy.senate.gov/newsroom/in-the-news/the-most-corrupt-thing-a-president-has-ever-done
+
+## Audit (second reviewer, Nov 2026)
+Result: **strengthened**. Re-confirmed the Gallup record 89% reading (released about Sept. 2, 2026; GV Wire, Truthout, Fox syndication). Secondary transcriptions reproduce Bannon's "Every day we hit them with three things ... muzzle velocity" passage, matching the video, though the primary PBS transcript was still not read. Filled the Iran-war gap (sub-claim 7). No independent press coverage of the video itself was found. The shared web-search budget ran out mid-audit, so speaker identifications were not re-searched.
+
+Audit sources:
+24. Record 89% of Americans say government corruption is widespread, Gallup finds. GV Wire, 2026-09-15. https://gvwire.com/2026/09/15/record-89-of-americans-say-government-corruption-is-widespread-gallup-finds/
+25. Nearly 9 in 10 Americans say there's widespread corruption in US government. Truthout, 2026-09. https://truthout.org/articles/nearly-9-in-10-americans-say-theres-widespread-corruption-in-us-government/
+26. Flood the Zone. Save America Movement (Substack). https://saveamericamovement.substack.com/p/flood-the-zone
+27. Morbid Symptoms: War on Iran and the Epstein Class. CounterPunch, 2026-03-06. https://www.counterpunch.org/2026/03/06/morbid-symptoms-war-on-iran-and-the-epstein-class/
+28. Operation Epic Fury or Operation Epstein Distraction? The Nightly, 2026-03. https://thenightly.com.au/world/middle-east/operation-epic-fury-or-operation-epstein-distraction-internet-reacts-to-trumps-strike-on-iran-c-21794830
+29. Trump launched Iran war as Epstein files accusations closed in. Raw Story, 2026-03. https://www.rawstory.com/trump-launched-iran-war-as-epstein-files-accusations-closed-in

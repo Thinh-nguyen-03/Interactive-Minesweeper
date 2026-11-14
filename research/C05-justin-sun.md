@@ -92,3 +92,7 @@ Every factual claim in this segment checks out, with three gaps. The $75M was tw
 18. CBS News, "Trump family's World Liberty Financial sues crypto billionaire Justin Sun for defamation", 2026-05-04. https://www.cbsnews.com/news/trump-world-liberty-financial-justin-sun-cryptocurrency/
 19. Business Wire (WLF), "World Liberty Financial Files Defamation Suit Against Justin Sun in Florida State Court", 2026-05-04. https://www.businesswire.com/news/home/20260504735336/en/
 20. BNN Bloomberg, "Trump's crypto project was a bust until Justin Sun stepped in", 2024-11-29. https://bnnbloomberg.ca/business/company-news/2024/11/29/trumps-crypto-project-was-a-bust-until-justin-sun-stepped-in
+
+## Audit (second pass, 2026-11-14)
+
+Result: upheld. Cointelegraph and Decrypt confirm the Mar 5, 2026 proposed judgment (Rainberry $10M, Sun and the foundations dismissed with prejudice). Fresh reports still describe court approval as pending, matching the write-up. The lawsuit and quote sub-claims were not re-checked.

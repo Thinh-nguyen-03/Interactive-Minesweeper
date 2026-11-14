@@ -19,7 +19,7 @@ Transcript lines 469-481.
 
 3. **"Nighttime calls" to get votes: confirmed, mainly from Trump's own words.** News reports document an evening Oval Office meeting (Trump posted shortly before 9 p.m. ET on July 15, 2025) and "multiple conversations with Trump" before the holdouts switched [5][6][7]. At the signing ceremony, Trump himself said he had been making phone calls "at 2:00, 3:00, 4:00 in the morning" and recalled being "about four short at 3:30 in the morning" [8]. So the late-night calls are documented, but the detail about the hour comes from Trump's own account.
 
-4. **The family profits from USD1: confirmed in substance.** World Liberty Financial (WLF) issues USD1. The Trump family held a reported ~60% stake in WLF, and a Trump-affiliated entity was reported to receive 75% of token-sale revenue [9]. Trump's 2025 financial disclosure reported $57.3M from WLF [10]. USD1 reserve income flows to WLF. The figures for that income and for Binance are covered in C10.
+4. **The family profits from USD1: confirmed in substance.** World Liberty Financial (WLF) issues USD1. The Trump family held a reported ~60% stake in WLF, and a Trump-affiliated entity was reported to receive 75% of token-sale revenue [9]. Trump's June 2025 financial disclosure (covering 2024) reported about $57.3M from WLF token sales; his disclosure for calendar 2025, released June 30, 2026, reported about $526M more from WLF token sales [21]. USD1 reserve income flows to WLF. The figures for that income and for Binance are covered in C10.
 
 5. **A Trump son boasted on X that USD1 is "the second largest GENIUS compliant stablecoin": unverified as worded.** I could not find a post with that exact wording. The closest documented statements are these:
    - On about January 23, 2026, Eric Trump posted on X that USD1 (~$4.4-4.5B) had overtaken PayPal's PYUSD, calling it "a major milestone" [14][15].
@@ -65,3 +65,9 @@ Transcript lines 469-481.
 20. Blockworks, "BitGo to custody reserves of World Liberty Financial's USD1", 2025-03-25. https://blockworks.co/news/bitgo-to-custody-wlfi-usd1
 
 Note: the sources were found by web search. Direct page fetches were blocked in this environment, so quotes rely on search-result excerpts of these pages.
+
+21. Fox Business, "Trump financial disclosure reveals more than $1B in crypto income during first year back in office", 2026-06-30. https://www.foxbusiness.com/politics/trump-financial-disclosure-reveals-more-than-1b-crypto-income-during-first-year-back-office
+
+## Audit (second pass, 2026-11-14)
+
+Result: corrected. The $57.3M WLF figure was from the June 2025 filing covering 2024, not the 2025 disclosure, and the source previously cited for it (NBC on the Senate vote) did not support it. The calendar-2025 filing reports about $526M from WLF token sales, which strengthens the 'family profits' point. The GENIUS/CLARITY vote details and Eric Trump's posts were not re-checked because the search budget ran out.

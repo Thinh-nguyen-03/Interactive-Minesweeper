@@ -5,10 +5,48 @@
   "confidence": "medium",
   "summary": "Melania Trump did launch $MELANIA on Jan 19, 2025, about two days after $TRUMP, and the token is down roughly 99% from its $13+ peak, which is confirmed. The '$6 million' figure is real ($6,011,259 on the President's 2025 disclosure). That income was listed as NFT/digital-collectible sales under a licensing deal, not as meme-coin proceeds. It was also reported as spouse income on Donald Trump's filing, not in a report of her own.",
   "sub_claims": [
-    {"statement": "Melania launched her own meme coin right after $TRUMP, before the inauguration.", "verdict": "confirmed", "finding": "$MELANIA launched on Solana on Jan 19, 2025, announced on X, about two days after $TRUMP (Jan 17/18) and one day before the Jan 20 inauguration. It was issued via MKT World LLC.", "sources": ["https://www.dlnews.com/articles/markets/melania-trump-launches-memecoin-on-solana-after-trump-coin", "https://www.salon.com/2025/01/20/melania-launches-memecoin-joining-donald-crypto-token", "https://www.theblock.co/amp/post/335637/donald-trump-memecoin-crashes-48-as-melania-trump-launches-her-own-memecoin"]},
-    {"statement": "Melania reported ~$6 million from her coin and NFTs.", "verdict": "partly-accurate", "finding": "The 2025 OGE 278e, released Jun 30, 2026, lists $6,011,259 to Melania from the sale of NFTs and other digital collectibles under a license with Designers Manager, about 28x her 2024 figure. It lists no $MELANIA coin proceeds; CAP attributes the income to the coin and digital ventures by its own inference. The filing is Donald Trump's, with this as spouse income. Her total 2025 income was about $17.2M, mostly from the Amazon documentary.", "sources": ["https://www.newsweek.com/trump-financial-disclosure-crypto-melania-movie-income-12143420", "https://fortune.com/2026/07/01/melania-trump-nft-earnings-surge-filing-shows/", "https://voz.us/en/politics/260703/37114/melania-trump-earned-more-than-17-2-million-in-2025-from-her-documentary-book-sales-and-nfts.html", "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"]},
-    {"statement": "Molly White tracked the shell companies behind Melania's coin/NFT income.", "verdict": "unverified", "finding": "MKT World LLC (Florida) issues $MELANIA and receives NFT and speaking income, per DL News. Molly White tracks Trump crypto ventures generally, but no specific piece of hers on Melania's entities was found. 'Shell companies' is the video's characterization.", "sources": ["https://www.dlnews.com/articles/markets/melania-trump-launches-memecoin-on-solana-after-trump-coin", "https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics"]},
-    {"statement": "$MELANIA is down ~99%, worse than $TRUMP (~95%).", "verdict": "confirmed", "finding": "The peak was about $13.05-$13.73 (Jan 19-20, 2025). The ATL was about $0.066 on Jun 6, 2026, and it traded around $0.08-0.087 in late Oct 2026, about 99.4% below peak. It was about 95% down by Mar 2025 and 98% down later in 2025. $TRUMP's drawdown is smaller.", "sources": ["https://www.coingecko.com/en/coins/melania-meme", "https://crypto.news/price/melania/", "https://coincheckup.com/coins/melania-meme/historical-data", "https://coinmarketcap.com/academy/article/melania-token-down-98percent-amid-dollar30m-team-wallet-questions", "https://whale-alert.io/stories/e48d011963d7aa/Official-TRUMP-and-MELANIA-meme-tokens-crash-9299-leaving-2M-wallets-underwater-and-43B-in-retail-losses"]}
+    {
+      "statement": "Melania launched her own meme coin right after $TRUMP, before the inauguration.",
+      "verdict": "confirmed",
+      "finding": "$MELANIA launched on Solana on Jan 19, 2025, announced on X, about two days after $TRUMP (Jan 17/18) and one day before the Jan 20 inauguration. It was issued via MKT World LLC.",
+      "sources": [
+        "https://www.dlnews.com/articles/markets/melania-trump-launches-memecoin-on-solana-after-trump-coin",
+        "https://www.salon.com/2025/01/20/melania-launches-memecoin-joining-donald-crypto-token",
+        "https://www.theblock.co/amp/post/335637/donald-trump-memecoin-crashes-48-as-melania-trump-launches-her-own-memecoin"
+      ]
+    },
+    {
+      "statement": "Melania reported ~$6 million from her coin and NFTs.",
+      "verdict": "partly-accurate",
+      "finding": "The 2025 OGE 278e, released Jun 30, 2026, lists $6,011,259 to Melania from the sale of NFTs and other digital collectibles under a license with Designers Manager, about 28x her 2024 figure. It lists no $MELANIA coin proceeds; CAP attributes the income to the coin and digital ventures by its own inference. The filing is Donald Trump's, with this as spouse income. Her total 2025 income was about $17.2M, mostly from the Amazon documentary.",
+      "sources": [
+        "https://www.newsweek.com/trump-financial-disclosure-crypto-melania-movie-income-12143420",
+        "https://fortune.com/2026/07/01/melania-trump-nft-earnings-surge-filing-shows/",
+        "https://voz.us/en/politics/260703/37114/melania-trump-earned-more-than-17-2-million-in-2025-from-her-documentary-book-sales-and-nfts.html",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"
+      ]
+    },
+    {
+      "statement": "Molly White tracked the shell companies behind Melania's coin/NFT income.",
+      "verdict": "unverified",
+      "finding": "MKT World LLC (Florida) issues $MELANIA and receives NFT and speaking income, per DL News. Molly White tracks Trump crypto ventures generally, but no specific piece of hers on Melania's entities was found. 'Shell companies' is the video's characterization.",
+      "sources": [
+        "https://www.dlnews.com/articles/markets/melania-trump-launches-memecoin-on-solana-after-trump-coin",
+        "https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics"
+      ]
+    },
+    {
+      "statement": "$MELANIA is down ~99%, worse than $TRUMP (~95%).",
+      "verdict": "confirmed",
+      "finding": "The peak was about $13.05-$13.73 (Jan 19-20, 2025). The ATL was about $0.066 on Jun 6, 2026, and it traded around $0.08-0.087 in late Oct 2026, about 99.4% below peak. It was about 95% down by Mar 2025 and 98% down later in 2025. $TRUMP's drawdown is smaller.",
+      "sources": [
+        "https://www.coingecko.com/en/coins/melania-meme",
+        "https://crypto.news/price/melania/",
+        "https://coincheckup.com/coins/melania-meme/historical-data",
+        "https://coinmarketcap.com/academy/article/melania-token-down-98percent-amid-dollar30m-team-wallet-questions",
+        "https://whale-alert.io/stories/e48d011963d7aa/Official-TRUMP-and-MELANIA-meme-tokens-crash-9299-leaving-2M-wallets-underwater-and-43B-in-retail-losses"
+      ]
+    }
   ],
   "corrections": [
     "Transcript says Melania 'reported $6 million on her coin and NFTs'; the disclosure lists $6,011,259 from NFTs/digital collectibles (licensing via Designers Manager) and no meme-coin proceeds.",
@@ -22,53 +60,309 @@
     "Most of Melania's ~$17.2M 2025 income came from the Amazon documentary (~$10.7M net), not crypto."
   ],
   "sources": [
-    {"title": "Trump financial disclosure: crypto, Melania movie income", "publisher": "Newsweek", "url": "https://www.newsweek.com/trump-financial-disclosure-crypto-melania-movie-income-12143420", "date": "2026-07-01"},
-    {"title": "Melania Trump NFT earnings surge, filing shows", "publisher": "Fortune", "url": "https://fortune.com/2026/07/01/melania-trump-nft-earnings-surge-filing-shows/", "date": "2026-07-01"},
-    {"title": "Melania Trump earned more than $17.2 million in 2025 from her documentary, book sales and NFTs", "publisher": "Voz", "url": "https://voz.us/en/politics/260703/37114/melania-trump-earned-more-than-17-2-million-in-2025-from-her-documentary-book-sales-and-nfts.html", "date": "2026-07-03"},
-    {"title": "Memo on Understanding Trump's Crypto Wealth (updated)", "publisher": "Center for American Progress", "url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf", "date": "2026-07-16"},
-    {"title": "Melania Trump raked in over $6 million from NFTs and collectibles in 2025", "publisher": "Unchained", "url": "https://unchainedcrypto.com/melania-trump-raked-in-over-6-million-from-nfts-and-collectibles-in-2025/", "date": "2026-07"},
-    {"title": "Melania Trump launches memecoin on Solana after Trump coin", "publisher": "DL News", "url": "https://www.dlnews.com/articles/markets/melania-trump-launches-memecoin-on-solana-after-trump-coin", "date": "2025-01-20"},
-    {"title": "Donald Trump memecoin crashes 48% as Melania Trump launches her own memecoin", "publisher": "The Block", "url": "https://www.theblock.co/amp/post/335637/donald-trump-memecoin-crashes-48-as-melania-trump-launches-her-own-memecoin", "date": "2025-01-20"},
-    {"title": "Melania launches memecoin, joining Donald's crypto token", "publisher": "Salon", "url": "https://www.salon.com/2025/01/20/melania-launches-memecoin-joining-donald-crypto-token", "date": "2025-01-20"},
-    {"title": "Melania Trump's official memecoin worth over $13 billion barely two months ago is now valued at...", "publisher": "Benzinga", "url": "https://benzinga.com/trading-ideas/movers/25/03/44268979/melania-trumps-official-memecoin-worth-over-13-billion-barely-two-months-ago-is-now-valued-a", "date": "2025-03"},
-    {"title": "MELANIA Meme Coin Now Down 98% From Its All-Time High", "publisher": "CoinMarketCap Academy", "url": "https://coinmarketcap.com/academy/article/melania-token-down-98percent-amid-dollar30m-team-wallet-questions", "date": "2025"},
-    {"title": "Melania Meme price", "publisher": "CoinGecko", "url": "https://www.coingecko.com/en/coins/melania-meme", "date": "2026-11-14"},
-    {"title": "MELANIA price", "publisher": "crypto.news", "url": "https://crypto.news/price/melania/", "date": "2026-11-14"},
-    {"title": "MELANIA historical data", "publisher": "CoinCheckup", "url": "https://coincheckup.com/coins/melania-meme/historical-data", "date": "2026-11-14"},
-    {"title": "Official TRUMP and MELANIA meme tokens crash (92-99%)", "publisher": "Whale Alert", "url": "https://whale-alert.io/stories/e48d011963d7aa/Official-TRUMP-and-MELANIA-meme-tokens-crash-9299-leaving-2M-wallets-underwater-and-43B-in-retail-losses", "date": "2026"},
-    {"title": "Class action lawsuit claims Ben Chow orchestrated Melania, LIBRA memecoin fraud", "publisher": "The Block", "url": "https://www.theblock.co/news/regulation/2025-10-23-ben-chow-melania-libra-memecoin-375832", "date": "2025-10-23"},
-    {"title": "Melania Trump, Javier Milei used as 'props' for meme coin fraud, lawsuit alleges", "publisher": "Decrypt", "url": "https://decrypt.co/345493/melania-trump-javier-milei-props-meme-coin-fraud-lawsuit-alleges?amp=1&rand=52368", "date": "2025-10"},
-    {"title": "Judge dismisses LIBRA and M3M3 memecoin class action against Meteora and Ben Chow", "publisher": "Solana Compass", "url": "https://solanacompass.com/news/judge-dismisses-libra-and-m3m3-memecoin-class-action-against-meteora-and-ben-chow", "date": "2026"},
-    {"title": "Molly White on crypto, Trump memecoin and ethics", "publisher": "Democracy Now", "url": "https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics", "date": "2025-05-06"}
+    {
+      "title": "Trump financial disclosure: crypto, Melania movie income",
+      "publisher": "Newsweek",
+      "url": "https://www.newsweek.com/trump-financial-disclosure-crypto-melania-movie-income-12143420",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Melania Trump NFT earnings surge, filing shows",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/07/01/melania-trump-nft-earnings-surge-filing-shows/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Melania Trump earned more than $17.2 million in 2025 from her documentary, book sales and NFTs",
+      "publisher": "Voz",
+      "url": "https://voz.us/en/politics/260703/37114/melania-trump-earned-more-than-17-2-million-in-2025-from-her-documentary-book-sales-and-nfts.html",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "Memo on Understanding Trump's Crypto Wealth (updated)",
+      "publisher": "Center for American Progress",
+      "url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Melania Trump raked in over $6 million from NFTs and collectibles in 2025",
+      "publisher": "Unchained",
+      "url": "https://unchainedcrypto.com/melania-trump-raked-in-over-6-million-from-nfts-and-collectibles-in-2025/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Melania Trump launches memecoin on Solana after Trump coin",
+      "publisher": "DL News",
+      "url": "https://www.dlnews.com/articles/markets/melania-trump-launches-memecoin-on-solana-after-trump-coin",
+      "date": "2025-01-20"
+    },
+    {
+      "title": "Donald Trump memecoin crashes 48% as Melania Trump launches her own memecoin",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/335637/donald-trump-memecoin-crashes-48-as-melania-trump-launches-her-own-memecoin",
+      "date": "2025-01-20"
+    },
+    {
+      "title": "Melania launches memecoin, joining Donald's crypto token",
+      "publisher": "Salon",
+      "url": "https://www.salon.com/2025/01/20/melania-launches-memecoin-joining-donald-crypto-token",
+      "date": "2025-01-20"
+    },
+    {
+      "title": "Melania Trump's official memecoin worth over $13 billion barely two months ago is now valued at...",
+      "publisher": "Benzinga",
+      "url": "https://benzinga.com/trading-ideas/movers/25/03/44268979/melania-trumps-official-memecoin-worth-over-13-billion-barely-two-months-ago-is-now-valued-a",
+      "date": "2025-03"
+    },
+    {
+      "title": "MELANIA Meme Coin Now Down 98% From Its All-Time High",
+      "publisher": "CoinMarketCap Academy",
+      "url": "https://coinmarketcap.com/academy/article/melania-token-down-98percent-amid-dollar30m-team-wallet-questions",
+      "date": "2025"
+    },
+    {
+      "title": "Melania Meme price",
+      "publisher": "CoinGecko",
+      "url": "https://www.coingecko.com/en/coins/melania-meme",
+      "date": "2026-11-14"
+    },
+    {
+      "title": "MELANIA price",
+      "publisher": "crypto.news",
+      "url": "https://crypto.news/price/melania/",
+      "date": "2026-11-14"
+    },
+    {
+      "title": "MELANIA historical data",
+      "publisher": "CoinCheckup",
+      "url": "https://coincheckup.com/coins/melania-meme/historical-data",
+      "date": "2026-11-14"
+    },
+    {
+      "title": "Official TRUMP and MELANIA meme tokens crash (92-99%)",
+      "publisher": "Whale Alert",
+      "url": "https://whale-alert.io/stories/e48d011963d7aa/Official-TRUMP-and-MELANIA-meme-tokens-crash-9299-leaving-2M-wallets-underwater-and-43B-in-retail-losses",
+      "date": "2026"
+    },
+    {
+      "title": "Class action lawsuit claims Ben Chow orchestrated Melania, LIBRA memecoin fraud",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2025-10-23-ben-chow-melania-libra-memecoin-375832",
+      "date": "2025-10-23"
+    },
+    {
+      "title": "Melania Trump, Javier Milei used as 'props' for meme coin fraud, lawsuit alleges",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/345493/melania-trump-javier-milei-props-meme-coin-fraud-lawsuit-alleges?amp=1&rand=52368",
+      "date": "2025-10"
+    },
+    {
+      "title": "Judge dismisses LIBRA and M3M3 memecoin class action against Meteora and Ben Chow",
+      "publisher": "Solana Compass",
+      "url": "https://solanacompass.com/news/judge-dismisses-libra-and-m3m3-memecoin-class-action-against-meteora-and-ben-chow",
+      "date": "2026"
+    },
+    {
+      "title": "Molly White on crypto, Trump memecoin and ethics",
+      "publisher": "Democracy Now",
+      "url": "https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics",
+      "date": "2025-05-06"
+    }
   ],
   "entities": [
-    {"id": "melania-trump", "name": "Melania Trump", "type": "person", "description": "First Lady; launched $MELANIA meme coin and sells NFTs."},
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "President; his annual OGE disclosure lists Melania's income as spouse."},
-    {"id": "melania-coin", "name": "$MELANIA", "type": "asset", "description": "Solana meme coin launched Jan 19, 2025; ~99% below its peak."},
-    {"id": "trump-coin", "name": "$TRUMP", "type": "asset", "description": "Official Trump meme coin launched Jan 17, 2025."},
-    {"id": "mkt-world-llc", "name": "MKT World LLC", "type": "company", "description": "Florida company tied to Melania Trump; issuer of $MELANIA and vehicle for NFT/speaking income."},
-    {"id": "designers-manager", "name": "Designers Manager", "type": "company", "description": "Licensing counterparty for Melania's NFT and collectibles sales per 2025 disclosure."},
-    {"id": "melania-nfts", "name": "Melania Trump NFTs and digital collectibles", "type": "product", "description": "NFT/collectible line generating $6,011,259 in 2025."},
-    {"id": "molly-white", "name": "Molly White", "type": "person", "description": "Crypto researcher (Citation Needed) cited in the video as mapping Trump crypto entities."},
-    {"id": "benjamin-chow", "name": "Benjamin Chow", "type": "person", "description": "Meteora co-founder accused in a class action of orchestrating MELANIA pump-and-dump."},
-    {"id": "hayden-davis", "name": "Hayden Davis", "type": "person", "description": "Kelsier Ventures figure reported as a creator of MELANIA and LIBRA; defendant in class action."},
-    {"id": "meteora", "name": "Meteora", "type": "company", "description": "Solana DEX/launch platform associated with the MELANIA launch."},
-    {"id": "sec", "name": "U.S. Securities and Exchange Commission", "type": "government", "description": "Staff said in Feb 2025 meme coins are generally not securities."},
-    {"id": "coffeezilla", "name": "Coffeezilla", "type": "media", "description": "YouTuber whose video makes the claim."}
+    {
+      "id": "melania-trump",
+      "name": "Melania Trump",
+      "type": "person",
+      "description": "First Lady; launched $MELANIA meme coin and sells NFTs."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; his annual OGE disclosure lists Melania's income as spouse."
+    },
+    {
+      "id": "melania-coin",
+      "name": "$MELANIA",
+      "type": "asset",
+      "description": "Solana meme coin launched Jan 19, 2025; ~99% below its peak."
+    },
+    {
+      "id": "trump-coin",
+      "name": "$TRUMP",
+      "type": "asset",
+      "description": "Official Trump meme coin launched Jan 17, 2025."
+    },
+    {
+      "id": "mkt-world-llc",
+      "name": "MKT World LLC",
+      "type": "company",
+      "description": "Florida company tied to Melania Trump; issuer of $MELANIA and vehicle for NFT/speaking income."
+    },
+    {
+      "id": "designers-manager",
+      "name": "Designers Manager",
+      "type": "company",
+      "description": "Licensing counterparty for Melania's NFT and collectibles sales per 2025 disclosure."
+    },
+    {
+      "id": "melania-nfts",
+      "name": "Melania Trump NFTs and digital collectibles",
+      "type": "product",
+      "description": "NFT/collectible line generating $6,011,259 in 2025."
+    },
+    {
+      "id": "molly-white",
+      "name": "Molly White",
+      "type": "person",
+      "description": "Crypto researcher (Citation Needed) cited in the video as mapping Trump crypto entities."
+    },
+    {
+      "id": "benjamin-chow",
+      "name": "Benjamin Chow",
+      "type": "person",
+      "description": "Meteora co-founder accused in a class action of orchestrating MELANIA pump-and-dump."
+    },
+    {
+      "id": "hayden-davis",
+      "name": "Hayden Davis",
+      "type": "person",
+      "description": "Kelsier Ventures figure reported as a creator of MELANIA and LIBRA; defendant in class action."
+    },
+    {
+      "id": "meteora",
+      "name": "Meteora",
+      "type": "company",
+      "description": "Solana DEX/launch platform associated with the MELANIA launch."
+    },
+    {
+      "id": "sec",
+      "name": "U.S. Securities and Exchange Commission",
+      "type": "government",
+      "description": "Staff said in Feb 2025 meme coins are generally not securities."
+    },
+    {
+      "id": "coffeezilla",
+      "name": "Coffeezilla",
+      "type": "media",
+      "description": "YouTuber whose video makes the claim."
+    }
   ],
   "relationships": [
-    {"source": "melania-trump", "target": "melania-coin", "label": "launched", "type": "commercial", "date": "2025-01-19"},
-    {"source": "mkt-world-llc", "target": "melania-coin", "label": "issuer of", "type": "ownership", "date": "2025-01-19"},
-    {"source": "melania-trump", "target": "mkt-world-llc", "label": "controls", "type": "ownership"},
-    {"source": "designers-manager", "target": "melania-trump", "label": "paid NFT/collectibles license income to", "type": "money", "date": "2025", "amount_usd": 6011259},
-    {"source": "melania-trump", "target": "melania-nfts", "label": "sells", "type": "commercial", "date": "2025"},
-    {"source": "donald-trump", "target": "melania-trump", "label": "spouse of", "type": "family"},
-    {"source": "donald-trump", "target": "trump-coin", "label": "launched", "type": "commercial", "date": "2025-01-17"},
-    {"source": "melania-coin", "target": "trump-coin", "label": "launched two days after; triggered sell-off in", "type": "commercial", "date": "2025-01-19"},
-    {"source": "hayden-davis", "target": "melania-coin", "label": "reported co-creator of; sued over", "type": "legal", "date": "2025"},
-    {"source": "benjamin-chow", "target": "melania-coin", "label": "accused in class action of pump-and-dump of", "type": "legal", "date": "2025-10"},
-    {"source": "benjamin-chow", "target": "meteora", "label": "co-founded", "type": "ownership"},
-    {"source": "molly-white", "target": "melania-coin", "label": "tracked (per video; unverified specific work)", "type": "media"},
-    {"source": "sec", "target": "melania-coin", "label": "staff deemed meme coins generally not securities", "type": "regulatory", "date": "2025-02"}
-  ]
+    {
+      "source": "melania-trump",
+      "target": "melania-coin",
+      "label": "launched",
+      "type": "commercial",
+      "date": "2025-01-19"
+    },
+    {
+      "source": "mkt-world-llc",
+      "target": "melania-coin",
+      "label": "issuer of",
+      "type": "ownership",
+      "date": "2025-01-19"
+    },
+    {
+      "source": "melania-trump",
+      "target": "mkt-world-llc",
+      "label": "controls",
+      "type": "ownership"
+    },
+    {
+      "source": "designers-manager",
+      "target": "melania-trump",
+      "label": "paid NFT/collectibles license income to",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 6011259
+    },
+    {
+      "source": "melania-trump",
+      "target": "melania-nfts",
+      "label": "sells",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "donald-trump",
+      "target": "melania-trump",
+      "label": "spouse of",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-coin",
+      "label": "launched",
+      "type": "commercial",
+      "date": "2025-01-17"
+    },
+    {
+      "source": "melania-coin",
+      "target": "trump-coin",
+      "label": "launched two days after; triggered sell-off in",
+      "type": "commercial",
+      "date": "2025-01-19"
+    },
+    {
+      "source": "hayden-davis",
+      "target": "melania-coin",
+      "label": "reported co-creator of; sued over",
+      "type": "legal",
+      "date": "2025"
+    },
+    {
+      "source": "benjamin-chow",
+      "target": "melania-coin",
+      "label": "accused in class action of pump-and-dump of",
+      "type": "legal",
+      "date": "2025-10"
+    },
+    {
+      "source": "benjamin-chow",
+      "target": "meteora",
+      "label": "co-founded",
+      "type": "ownership"
+    },
+    {
+      "source": "molly-white",
+      "target": "melania-coin",
+      "label": "tracked (per video; unverified specific work)",
+      "type": "media"
+    },
+    {
+      "source": "sec",
+      "target": "melania-coin",
+      "label": "staff deemed meme coins generally not securities",
+      "type": "regulatory",
+      "date": "2025-02"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "$6,011,259 to Melania from NFTs/digital collectibles under a Designers Manager license on the 2025 OGE 278e (released 2026-06-30), ~28x her 2024 figure",
+      "Attribution of that income to $MELANIA is CAP's inference, not the form's wording",
+      "MELANIA ~99% below its $13.05-13.73 peak"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No changes: Fortune, Newsweek and the CAP memo independently confirm the figure and the licensing wording; Decrypt/Analytics Insight confirm the ~99% drawdown (no fresh price after Feb 2026 found).",
+      "Second-pass audit was cut short: the shared web-search budget ran out partway through, and direct fetches of sec.gov and theblock.co were blocked, so only the assertions listed here were re-checked."
+    ],
+    "new_sources": [
+      {
+        "title": "Melania Trump NFT earnings surge, filing shows",
+        "publisher": "Fortune",
+        "url": "https://fortune.com/2026/07/01/melania-trump-nft-earnings-surge-filing-shows/",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "Memo on Understanding Trump's Crypto Wealth (updated)",
+        "publisher": "Center for American Progress",
+        "url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf",
+        "date": "2026-07-16"
+      }
+    ]
+  }
 }

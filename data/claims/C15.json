@@ -5,13 +5,73 @@
   "confidence": "medium",
   "summary": "The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 2026), and he negotiates alongside Witkoff with no formal title and no financial disclosure. Saudi PIF committed $2B to Affinity in 2021, and the NYT reported in March 2026 that he was seeking $5B or more, largely from Gulf sovereign funds. Two points overreach: PIF is Affinity's largest investor, not just 'one of' them, and 'not subject to' disclosure or divestment is the White House's contested legal position, which CREW is challenging in court. The suggestion that he argues for his own interests in talks is unproven insinuation.",
   "sub_claims": [
-    {"statement": "Trump has called Kushner the 'peace envoy'.", "verdict": "confirmed", "finding": "At the first Board of Peace meeting on 19 Feb 2026, Trump said 'We're making Jared an envoy also, envoy of peace.' The White House then said the role would not be official.", "sources": ["https://justthenews.com/politics-policy/trump-names-kushner-envoy-peace", "https://www.aol.com/articles/trump-says-son-law-kushner-152430541.html", "https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy"]},
-    {"statement": "Kushner takes part in negotiations alongside Steve Witkoff in an unofficial capacity.", "verdict": "confirmed", "finding": "He has worked in tandem with Witkoff on Gaza, Iran (including Geneva talks) and Russia-Ukraine. The White House calls him 'a volunteer and not serving in any official capacity' who pays his own expenses. Witkoff is a formal employee who filed a disclosure.", "sources": ["https://www.news4jax.com/news/politics/2026/10/14/watchdog-group-seeks-to-block-jared-kushner-from-serving-in-his-volunteer-envoy-role/", "https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog"]},
-    {"statement": "Affinity is a multibillion-dollar fund.", "verdict": "confirmed", "finding": "Form ADV dated 22 Mar 2026: about $6.16B in regulatory AUM at end-2025 (Bloomberg rounds to $6.2B), about 99% from non-US clients.", "sources": ["https://www.bloomberg.com/news/articles/2026-03-23/kushner-fund-backed-by-mideast-saw-assets-jump-to-6-2-billion", "https://www.thedailybeast.com/trump-son-in-laws-fund-rakes-in-billions-amid-grifting-accusations"]},
-    {"statement": "Per the NYT, Affinity has been trying to raise $5B, largely from Middle Eastern/Gulf sovereign funds.", "verdict": "confirmed", "finding": "The NYT reported in March 2026, citing five people, that Kushner was seeking '$5 billion or more'. Affinity had met PIF, and other Gulf funds were expected to be approached. Axios said the fund was not formally in market and that PIF held 'first look' rights. This was a solicitation; it has not been confirmed as a completed raise.", "sources": ["https://www.mediaite.com/politics/jared-kushner-reportedly-seeks-5b-from-middle-east-governments-for-his-firm-while-serving-as-envoy/", "https://www.axios.com/2026/03/16/jared-kushner-affinity-partners", "https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf"]},
-    {"statement": "Saudi Arabia's Public Investment Fund put $2B into Affinity and is one of its biggest investors.", "verdict": "confirmed", "finding": "PIF committed $2B in mid-2021, overruling its own screening panel's objections (NYT, 2022). It is Affinity's largest investor. QIA and Abu Dhabi's Lunate added about $1.5B in Dec 2024.", "sources": ["https://businessinsider.in/politics/world/news/jared-kushners-pe-firm-secured-2-billion-from-saudi-arabia-despite-objections-he-was-too-inexperienced-to-manage-the-money-report-says/amp_articleshow/90778526.cms", "https://www.finance.senate.gov/chairmans-news/wyden-probes-kushner-firm-payments-from-gulf-states-potential-fara-loophole", "https://www.bloomberg.com/news/articles/2024-12-20/jared-kushner-s-affinity-gets-1-5-billion-more-from-qatar-abu-dhabi-s-lunate"]},
-    {"statement": "Because he holds no official title, Kushner is not subject to divestment requirements and does not have to file financial disclosures.", "verdict": "partly-accurate", "finding": "He has filed no disclosure and has not divested. 'Not subject to' is the White House position. CREW argues he is at least a special government employee who must file, and it sued in Oct 2026. Kushner's lawyer Chad Mizelle says ethics attorneys found his arrangements compliant. No ruling yet.", "sources": ["https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy", "https://www.nbcnewyork.com/news/national-international/crew-lawsuit-trump-administration-jared-kushner/6559505/", "https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog"]},
-    {"statement": "In closed-door meetings it is unknown whether he argues for the US government or for his own Gulf-backed financial interests.", "verdict": "unverified", "finding": "It is documented that he sought Gulf sovereign money while negotiating in the region, and Wyden and Garcia opened an inquiry on 19 Mar 2026. No evidence has surfaced that he advanced his own interests in any specific negotiation. This is framed as a question and amounts to insinuation.", "sources": ["https://www.finance.senate.gov/ranking-members-news/wyden-garcia-investigate-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy", "https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf"]}
+    {
+      "statement": "Trump has called Kushner the 'peace envoy'.",
+      "verdict": "confirmed",
+      "finding": "At the first Board of Peace meeting on 19 Feb 2026, Trump said 'We're making Jared an envoy also, envoy of peace.' The White House then said the role would not be official.",
+      "sources": [
+        "https://justthenews.com/politics-policy/trump-names-kushner-envoy-peace",
+        "https://www.aol.com/articles/trump-says-son-law-kushner-152430541.html",
+        "https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy"
+      ]
+    },
+    {
+      "statement": "Kushner takes part in negotiations alongside Steve Witkoff in an unofficial capacity.",
+      "verdict": "confirmed",
+      "finding": "He has worked in tandem with Witkoff on Gaza, Iran (including Geneva talks) and Russia-Ukraine. The White House calls him 'a volunteer and not serving in any official capacity' who pays his own expenses. Witkoff is a formal employee who filed a disclosure.",
+      "sources": [
+        "https://www.news4jax.com/news/politics/2026/10/14/watchdog-group-seeks-to-block-jared-kushner-from-serving-in-his-volunteer-envoy-role/",
+        "https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog"
+      ]
+    },
+    {
+      "statement": "Affinity is a multibillion-dollar fund.",
+      "verdict": "confirmed",
+      "finding": "Form ADV dated 22 Mar 2026: about $6.16B in regulatory AUM at end-2025 (Bloomberg rounds to $6.2B), about 99% from non-US clients.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2026-03-23/kushner-fund-backed-by-mideast-saw-assets-jump-to-6-2-billion",
+        "https://www.thedailybeast.com/trump-son-in-laws-fund-rakes-in-billions-amid-grifting-accusations"
+      ]
+    },
+    {
+      "statement": "Per the NYT, Affinity has been trying to raise $5B, largely from Middle Eastern/Gulf sovereign funds.",
+      "verdict": "confirmed",
+      "finding": "The NYT reported in March 2026, citing five people, that Kushner was seeking '$5 billion or more'. Affinity had met PIF, and other Gulf funds were expected to be approached. Axios said the fund was not formally in market and that PIF held 'first look' rights. This was a solicitation; it has not been confirmed as a completed raise.",
+      "sources": [
+        "https://www.mediaite.com/politics/jared-kushner-reportedly-seeks-5b-from-middle-east-governments-for-his-firm-while-serving-as-envoy/",
+        "https://www.axios.com/2026/03/16/jared-kushner-affinity-partners",
+        "https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf"
+      ]
+    },
+    {
+      "statement": "Saudi Arabia's Public Investment Fund put $2B into Affinity and is one of its biggest investors.",
+      "verdict": "confirmed",
+      "finding": "PIF committed $2B in mid-2021, overruling its own screening panel's objections (NYT, 2022). It is Affinity's largest investor. QIA and Abu Dhabi's Lunate added about $1.5B in Dec 2024.",
+      "sources": [
+        "https://businessinsider.in/politics/world/news/jared-kushners-pe-firm-secured-2-billion-from-saudi-arabia-despite-objections-he-was-too-inexperienced-to-manage-the-money-report-says/amp_articleshow/90778526.cms",
+        "https://www.finance.senate.gov/chairmans-news/wyden-probes-kushner-firm-payments-from-gulf-states-potential-fara-loophole",
+        "https://www.bloomberg.com/news/articles/2024-12-20/jared-kushner-s-affinity-gets-1-5-billion-more-from-qatar-abu-dhabi-s-lunate"
+      ]
+    },
+    {
+      "statement": "Because he holds no official title, Kushner is not subject to divestment requirements and does not have to file financial disclosures.",
+      "verdict": "partly-accurate",
+      "finding": "He has filed no disclosure and has not divested. 'Not subject to' is the White House position. CREW argues he is at least a special government employee who must file, and it sued in Oct 2026. Kushner's lawyer Chad Mizelle says ethics attorneys found his arrangements compliant. No ruling yet.",
+      "sources": [
+        "https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy",
+        "https://www.nbcnewyork.com/news/national-international/crew-lawsuit-trump-administration-jared-kushner/6559505/",
+        "https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog"
+      ]
+    },
+    {
+      "statement": "In closed-door meetings it is unknown whether he argues for the US government or for his own Gulf-backed financial interests.",
+      "verdict": "unverified",
+      "finding": "It is documented that he sought Gulf sovereign money while negotiating in the region, and Wyden and Garcia opened an inquiry on 19 Mar 2026. No evidence has surfaced that he advanced his own interests in any specific negotiation. This is framed as a question and amounts to insinuation.",
+      "sources": [
+        "https://www.finance.senate.gov/ranking-members-news/wyden-garcia-investigate-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy",
+        "https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf"
+      ]
+    }
   ],
   "corrections": [
     "Transcript says PIF is 'one of his biggest investors'; the record shows it is Affinity's largest single investor ($2B, 2021). QIA and Lunate are also investors (about $1.5B, Dec 2024).",
@@ -26,69 +86,416 @@
     "Earlier NYT reporting relayed by The Media Line said Qatar and main Emirati funds declined to invest in a round; this conflicts with the 2024 QIA/Lunate investment and may refer to a different round."
   ],
   "sources": [
-    {"title": "Trump names Kushner as 'envoy of peace'", "publisher": "Just the News", "url": "https://justthenews.com/politics-policy/trump-names-kushner-envoy-peace", "date": "2026-02-19"},
-    {"title": "Trump says son-in-law Kushner promoted to 'peace envoy'", "publisher": "AOL / The Hill", "url": "https://www.aol.com/articles/trump-says-son-law-kushner-152430541.html", "date": "2026-02-19"},
-    {"title": "CREW statement on Jared Kushner's role as special peace envoy", "publisher": "CREW", "url": "https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy", "date": "2026-02"},
-    {"title": "Watchdog group seeks to block Jared Kushner from serving in his volunteer envoy role", "publisher": "Associated Press (via News4Jax)", "url": "https://www.news4jax.com/news/politics/2026/10/14/watchdog-group-seeks-to-block-jared-kushner-from-serving-in-his-volunteer-envoy-role/", "date": "2026-10-14"},
-    {"title": "White House Sued Over Kushner's Government Work by Watchdog", "publisher": "Bloomberg Law", "url": "https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog", "date": "2026-10"},
-    {"title": "CREW lawsuit: Trump administration, Jared Kushner", "publisher": "NBC New York", "url": "https://www.nbcnewyork.com/news/national-international/crew-lawsuit-trump-administration-jared-kushner/6559505/", "date": "2026-10"},
-    {"title": "Jared Kushner Reportedly Seeks $5B From Middle East Governments for His Firm While Serving as Envoy", "publisher": "Mediaite", "url": "https://www.mediaite.com/politics/jared-kushner-reportedly-seeks-5b-from-middle-east-governments-for-his-firm-while-serving-as-envoy/", "date": "2026-03"},
-    {"title": "Jared Kushner's new fund raises old questions", "publisher": "Axios", "url": "https://www.axios.com/2026/03/16/jared-kushner-affinity-partners", "date": "2026-03-16"},
-    {"title": "Garcia-Wyden letter to Affinity Partners re Kushner fundraising", "publisher": "House Oversight Democrats", "url": "https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf", "date": "2026-03-19"},
-    {"title": "Wyden, Garcia Investigate Kushner Raising Billions from Middle East Governments While Negotiating U.S. Foreign Policy", "publisher": "Senate Finance Committee", "url": "https://www.finance.senate.gov/ranking-members-news/wyden-garcia-investigate-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy", "date": "2026-03-19"},
-    {"title": "Garcia letter to Jared Kushner re Affinity Partners", "publisher": "House Oversight Democrats", "url": "https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf", "date": "2026-10-05"},
-    {"title": "Kushner Fund Backed by Mideast Saw Assets Jump to $6.2 Billion", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-03-23/kushner-fund-backed-by-mideast-saw-assets-jump-to-6-2-billion", "date": "2026-03-23"},
-    {"title": "Trump son-in-law's fund rakes in billions amid grifting accusations", "publisher": "The Daily Beast", "url": "https://www.thedailybeast.com/trump-son-in-laws-fund-rakes-in-billions-amid-grifting-accusations", "date": "2026-03"},
-    {"title": "Kushner's Affinity Gets Additional $1.5 Billion From Qatar, Abu Dhabi's Lunate", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2024-12-20/jared-kushner-s-affinity-gets-1-5-billion-more-from-qatar-abu-dhabi-s-lunate", "date": "2024-12-20"},
-    {"title": "Jared Kushner's PE firm secured $2 billion from Saudi Arabia despite objections", "publisher": "Business Insider India", "url": "https://businessinsider.in/politics/world/news/jared-kushners-pe-firm-secured-2-billion-from-saudi-arabia-despite-objections-he-was-too-inexperienced-to-manage-the-money-report-says/amp_articleshow/90778526.cms", "date": "2022-04"},
-    {"title": "Wyden probes Kushner firm payments from Gulf states, potential FARA loophole", "publisher": "Senate Finance Committee", "url": "https://www.finance.senate.gov/chairmans-news/wyden-probes-kushner-firm-payments-from-gulf-states-potential-fara-loophole", "date": "2024-06-12"},
-    {"title": "US names Rubio, Blair and Kushner to Gaza board under Trump's plan", "publisher": "Al-Monitor", "url": "https://www.al-monitor.com/originals/2026/01/us-names-rubio-blair-and-kushner-gaza-board-under-trumps-plan", "date": "2026-01"},
-    {"title": "Affinity Partners", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Affinity_Partners", "date": "2026-11"}
+    {
+      "title": "Trump names Kushner as 'envoy of peace'",
+      "publisher": "Just the News",
+      "url": "https://justthenews.com/politics-policy/trump-names-kushner-envoy-peace",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "Trump says son-in-law Kushner promoted to 'peace envoy'",
+      "publisher": "AOL / The Hill",
+      "url": "https://www.aol.com/articles/trump-says-son-law-kushner-152430541.html",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "CREW statement on Jared Kushner's role as special peace envoy",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy",
+      "date": "2026-02"
+    },
+    {
+      "title": "Watchdog group seeks to block Jared Kushner from serving in his volunteer envoy role",
+      "publisher": "Associated Press (via News4Jax)",
+      "url": "https://www.news4jax.com/news/politics/2026/10/14/watchdog-group-seeks-to-block-jared-kushner-from-serving-in-his-volunteer-envoy-role/",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "White House Sued Over Kushner's Government Work by Watchdog",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog",
+      "date": "2026-10"
+    },
+    {
+      "title": "CREW lawsuit: Trump administration, Jared Kushner",
+      "publisher": "NBC New York",
+      "url": "https://www.nbcnewyork.com/news/national-international/crew-lawsuit-trump-administration-jared-kushner/6559505/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Jared Kushner Reportedly Seeks $5B From Middle East Governments for His Firm While Serving as Envoy",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/politics/jared-kushner-reportedly-seeks-5b-from-middle-east-governments-for-his-firm-while-serving-as-envoy/",
+      "date": "2026-03"
+    },
+    {
+      "title": "Jared Kushner's new fund raises old questions",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/03/16/jared-kushner-affinity-partners",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "Garcia-Wyden letter to Affinity Partners re Kushner fundraising",
+      "publisher": "House Oversight Democrats",
+      "url": "https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf",
+      "date": "2026-03-19"
+    },
+    {
+      "title": "Wyden, Garcia Investigate Kushner Raising Billions from Middle East Governments While Negotiating U.S. Foreign Policy",
+      "publisher": "Senate Finance Committee",
+      "url": "https://www.finance.senate.gov/ranking-members-news/wyden-garcia-investigate-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy",
+      "date": "2026-03-19"
+    },
+    {
+      "title": "Garcia letter to Jared Kushner re Affinity Partners",
+      "publisher": "House Oversight Democrats",
+      "url": "https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Kushner Fund Backed by Mideast Saw Assets Jump to $6.2 Billion",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-23/kushner-fund-backed-by-mideast-saw-assets-jump-to-6-2-billion",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "Trump son-in-law's fund rakes in billions amid grifting accusations",
+      "publisher": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/trump-son-in-laws-fund-rakes-in-billions-amid-grifting-accusations",
+      "date": "2026-03"
+    },
+    {
+      "title": "Kushner's Affinity Gets Additional $1.5 Billion From Qatar, Abu Dhabi's Lunate",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2024-12-20/jared-kushner-s-affinity-gets-1-5-billion-more-from-qatar-abu-dhabi-s-lunate",
+      "date": "2024-12-20"
+    },
+    {
+      "title": "Jared Kushner's PE firm secured $2 billion from Saudi Arabia despite objections",
+      "publisher": "Business Insider India",
+      "url": "https://businessinsider.in/politics/world/news/jared-kushners-pe-firm-secured-2-billion-from-saudi-arabia-despite-objections-he-was-too-inexperienced-to-manage-the-money-report-says/amp_articleshow/90778526.cms",
+      "date": "2022-04"
+    },
+    {
+      "title": "Wyden probes Kushner firm payments from Gulf states, potential FARA loophole",
+      "publisher": "Senate Finance Committee",
+      "url": "https://www.finance.senate.gov/chairmans-news/wyden-probes-kushner-firm-payments-from-gulf-states-potential-fara-loophole",
+      "date": "2024-06-12"
+    },
+    {
+      "title": "US names Rubio, Blair and Kushner to Gaza board under Trump's plan",
+      "publisher": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/01/us-names-rubio-blair-and-kushner-gaza-board-under-trumps-plan",
+      "date": "2026-01"
+    },
+    {
+      "title": "Affinity Partners",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Affinity_Partners",
+      "date": "2026-11"
+    }
   ],
   "entities": [
-    {"id": "jared-kushner", "name": "Jared Kushner", "type": "person", "description": "Trump's son-in-law; founder of Affinity Partners; unofficial 'envoy of peace' in the second Trump term."},
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US President; named Kushner an 'envoy of peace' on 19 Feb 2026."},
-    {"id": "steve-witkoff", "name": "Steve Witkoff", "type": "person", "description": "US Special Envoy; formal employee who works in tandem with Kushner."},
-    {"id": "affinity-partners", "name": "Affinity Partners", "type": "fund", "description": "Kushner's Miami-based private equity firm; about $6.16B AUM at end-2025, about 99% foreign money."},
-    {"id": "saudi-pif", "name": "Public Investment Fund (Saudi Arabia)", "type": "fund", "description": "Saudi sovereign wealth fund; Affinity's largest investor ($2B, 2021) with 'first look' rights."},
-    {"id": "qatar-investment-authority", "name": "Qatar Investment Authority", "type": "fund", "description": "Qatari sovereign wealth fund; invested in Affinity (part of about $1.5B, Dec 2024)."},
-    {"id": "lunate", "name": "Lunate", "type": "fund", "description": "Abu Dhabi-based investment manager; invested in Affinity (part of about $1.5B, Dec 2024)."},
-    {"id": "mohammed-bin-salman", "name": "Mohammed bin Salman", "type": "person", "description": "Saudi Crown Prince; chairs the PIF board that overruled its panel to back Affinity."},
-    {"id": "chad-mizelle", "name": "Chad Mizelle", "type": "person", "description": "Kushner's attorney and Affinity chief legal officer; disputes conflict allegations."},
-    {"id": "ron-wyden", "name": "Ron Wyden", "type": "person", "description": "US Senator (D-OR); Senate Finance ranking member investigating Affinity."},
-    {"id": "robert-garcia", "name": "Robert Garcia", "type": "person", "description": "US Representative (D-CA); House Oversight ranking member investigating Affinity."},
-    {"id": "crew", "name": "Citizens for Responsibility and Ethics in Washington", "type": "company", "description": "Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of disclosure."},
-    {"id": "board-of-peace", "name": "Board of Peace", "type": "government", "description": "Trump-led Gaza peace body; Kushner is on its executive board; venue of the 'envoy of peace' announcement."},
-    {"id": "white-house", "name": "White House", "type": "government", "description": "Says Kushner is an unpaid volunteer with no official capacity."},
-    {"id": "us-congress", "name": "US Congress", "type": "government", "description": "Senate Finance and House Oversight Democrats probing Kushner's Gulf fundraising."},
-    {"id": "new-york-times", "name": "The New York Times", "type": "media", "description": "Reported in March 2026 that Kushner was seeking $5B or more from Gulf investors; reported in 2022 on the PIF panel objections."},
-    {"id": "saudi-arabia", "name": "Saudi Arabia", "type": "country", "description": "Owner of the PIF, Affinity's anchor investor."},
-    {"id": "qatar", "name": "Qatar", "type": "country", "description": "Owner of the QIA, an Affinity investor."},
-    {"id": "uae", "name": "United Arab Emirates", "type": "country", "description": "Home of Lunate, an Affinity investor."},
-    {"id": "iran", "name": "Iran", "type": "country", "description": "Counterpart in talks in which Kushner participated while fundraising."}
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Trump's son-in-law; founder of Affinity Partners; unofficial 'envoy of peace' in the second Trump term."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; named Kushner an 'envoy of peace' on 19 Feb 2026."
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "US Special Envoy; formal employee who works in tandem with Kushner."
+    },
+    {
+      "id": "affinity-partners",
+      "name": "Affinity Partners",
+      "type": "fund",
+      "description": "Kushner's Miami-based private equity firm; about $6.16B AUM at end-2025, about 99% foreign money."
+    },
+    {
+      "id": "saudi-pif",
+      "name": "Public Investment Fund (Saudi Arabia)",
+      "type": "fund",
+      "description": "Saudi sovereign wealth fund; Affinity's largest investor ($2B, 2021) with 'first look' rights."
+    },
+    {
+      "id": "qatar-investment-authority",
+      "name": "Qatar Investment Authority",
+      "type": "fund",
+      "description": "Qatari sovereign wealth fund; invested in Affinity (part of about $1.5B, Dec 2024)."
+    },
+    {
+      "id": "lunate",
+      "name": "Lunate",
+      "type": "fund",
+      "description": "Abu Dhabi-based investment manager; invested in Affinity (part of about $1.5B, Dec 2024)."
+    },
+    {
+      "id": "mohammed-bin-salman",
+      "name": "Mohammed bin Salman",
+      "type": "person",
+      "description": "Saudi Crown Prince; chairs the PIF board that overruled its panel to back Affinity."
+    },
+    {
+      "id": "chad-mizelle",
+      "name": "Chad Mizelle",
+      "type": "person",
+      "description": "Kushner's attorney and Affinity chief legal officer; disputes conflict allegations."
+    },
+    {
+      "id": "ron-wyden",
+      "name": "Ron Wyden",
+      "type": "person",
+      "description": "US Senator (D-OR); Senate Finance ranking member investigating Affinity."
+    },
+    {
+      "id": "robert-garcia",
+      "name": "Robert Garcia",
+      "type": "person",
+      "description": "US Representative (D-CA); House Oversight ranking member investigating Affinity."
+    },
+    {
+      "id": "crew",
+      "name": "Citizens for Responsibility and Ethics in Washington",
+      "type": "company",
+      "description": "Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of disclosure."
+    },
+    {
+      "id": "board-of-peace",
+      "name": "Board of Peace",
+      "type": "government",
+      "description": "Trump-led Gaza peace body; Kushner is on its executive board; venue of the 'envoy of peace' announcement."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Says Kushner is an unpaid volunteer with no official capacity."
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Senate Finance and House Oversight Democrats probing Kushner's Gulf fundraising."
+    },
+    {
+      "id": "new-york-times",
+      "name": "The New York Times",
+      "type": "media",
+      "description": "Reported in March 2026 that Kushner was seeking $5B or more from Gulf investors; reported in 2022 on the PIF panel objections."
+    },
+    {
+      "id": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "type": "country",
+      "description": "Owner of the PIF, Affinity's anchor investor."
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "type": "country",
+      "description": "Owner of the QIA, an Affinity investor."
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "Home of Lunate, an Affinity investor."
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "type": "country",
+      "description": "Counterpart in talks in which Kushner participated while fundraising."
+    }
   ],
   "relationships": [
-    {"source": "jared-kushner", "target": "donald-trump", "label": "son-in-law of", "type": "family"},
-    {"source": "donald-trump", "target": "jared-kushner", "label": "named 'envoy of peace' (unofficial, volunteer)", "type": "political", "date": "2026-02-19"},
-    {"source": "jared-kushner", "target": "steve-witkoff", "label": "negotiates alongside", "type": "political", "date": "2025"},
-    {"source": "jared-kushner", "target": "affinity-partners", "label": "founder and CEO of", "type": "ownership", "date": "2021"},
-    {"source": "saudi-pif", "target": "affinity-partners", "label": "committed $2B to (largest investor)", "type": "money", "date": "2021-07", "amount_usd": 2000000000},
-    {"source": "qatar-investment-authority", "target": "affinity-partners", "label": "invested (with Lunate, about $1.5B combined) in", "type": "money", "date": "2024-12"},
-    {"source": "lunate", "target": "affinity-partners", "label": "invested (with QIA, about $1.5B combined) in", "type": "money", "date": "2024-12"},
-    {"source": "affinity-partners", "target": "saudi-pif", "label": "sought part of $5B+ new raise from (per NYT)", "type": "commercial", "date": "2026-03", "amount_usd": 5000000000},
-    {"source": "mohammed-bin-salman", "target": "saudi-pif", "label": "chairs board of", "type": "ownership"},
-    {"source": "saudi-arabia", "target": "saudi-pif", "label": "owns", "type": "ownership"},
-    {"source": "qatar", "target": "qatar-investment-authority", "label": "owns", "type": "ownership"},
-    {"source": "uae", "target": "lunate", "label": "home jurisdiction of", "type": "ownership"},
-    {"source": "jared-kushner", "target": "board-of-peace", "label": "executive board member of", "type": "political", "date": "2026-01"},
-    {"source": "jared-kushner", "target": "iran", "label": "participated in US talks with", "type": "political", "date": "2026"},
-    {"source": "white-house", "target": "jared-kushner", "label": "classifies as unpaid volunteer, no disclosure filed", "type": "regulatory"},
-    {"source": "crew", "target": "jared-kushner", "label": "sued over envoy role and lack of disclosure", "type": "legal", "date": "2026-10"},
-    {"source": "ron-wyden", "target": "affinity-partners", "label": "investigating Gulf fundraising", "type": "regulatory", "date": "2026-03-19"},
-    {"source": "robert-garcia", "target": "affinity-partners", "label": "investigating Gulf fundraising", "type": "regulatory", "date": "2026-03-19"},
-    {"source": "us-congress", "target": "affinity-partners", "label": "Democratic committee inquiries into", "type": "regulatory", "date": "2026-03"},
-    {"source": "chad-mizelle", "target": "jared-kushner", "label": "attorney for", "type": "legal"},
-    {"source": "chad-mizelle", "target": "affinity-partners", "label": "chief legal officer of", "type": "commercial"},
-    {"source": "new-york-times", "target": "affinity-partners", "label": "reported $5B+ fundraising effort by", "type": "media", "date": "2026-03"}
-  ]
+    {
+      "source": "jared-kushner",
+      "target": "donald-trump",
+      "label": "son-in-law of",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump",
+      "target": "jared-kushner",
+      "label": "named 'envoy of peace' (unofficial, volunteer)",
+      "type": "political",
+      "date": "2026-02-19"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "steve-witkoff",
+      "label": "negotiates alongside",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "affinity-partners",
+      "label": "founder and CEO of",
+      "type": "ownership",
+      "date": "2021"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "affinity-partners",
+      "label": "committed $2B to (largest investor)",
+      "type": "money",
+      "date": "2021-07",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "qatar-investment-authority",
+      "target": "affinity-partners",
+      "label": "invested (with Lunate, about $1.5B combined) in",
+      "type": "money",
+      "date": "2024-12"
+    },
+    {
+      "source": "lunate",
+      "target": "affinity-partners",
+      "label": "invested (with QIA, about $1.5B combined) in",
+      "type": "money",
+      "date": "2024-12"
+    },
+    {
+      "source": "affinity-partners",
+      "target": "saudi-pif",
+      "label": "sought part of $5B+ new raise from (per NYT)",
+      "type": "commercial",
+      "date": "2026-03",
+      "amount_usd": 5000000000
+    },
+    {
+      "source": "mohammed-bin-salman",
+      "target": "saudi-pif",
+      "label": "chairs board of",
+      "type": "ownership"
+    },
+    {
+      "source": "saudi-arabia",
+      "target": "saudi-pif",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "qatar",
+      "target": "qatar-investment-authority",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "uae",
+      "target": "lunate",
+      "label": "home jurisdiction of",
+      "type": "ownership"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "board-of-peace",
+      "label": "executive board member of",
+      "type": "political",
+      "date": "2026-01"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "iran",
+      "label": "participated in US talks with",
+      "type": "political",
+      "date": "2026"
+    },
+    {
+      "source": "white-house",
+      "target": "jared-kushner",
+      "label": "classifies as unpaid volunteer, no disclosure filed",
+      "type": "regulatory"
+    },
+    {
+      "source": "crew",
+      "target": "jared-kushner",
+      "label": "sued over envoy role and lack of disclosure",
+      "type": "legal",
+      "date": "2026-10"
+    },
+    {
+      "source": "ron-wyden",
+      "target": "affinity-partners",
+      "label": "investigating Gulf fundraising",
+      "type": "regulatory",
+      "date": "2026-03-19"
+    },
+    {
+      "source": "robert-garcia",
+      "target": "affinity-partners",
+      "label": "investigating Gulf fundraising",
+      "type": "regulatory",
+      "date": "2026-03-19"
+    },
+    {
+      "source": "us-congress",
+      "target": "affinity-partners",
+      "label": "Democratic committee inquiries into",
+      "type": "regulatory",
+      "date": "2026-03"
+    },
+    {
+      "source": "chad-mizelle",
+      "target": "jared-kushner",
+      "label": "attorney for",
+      "type": "legal"
+    },
+    {
+      "source": "chad-mizelle",
+      "target": "affinity-partners",
+      "label": "chief legal officer of",
+      "type": "commercial"
+    },
+    {
+      "source": "new-york-times",
+      "target": "affinity-partners",
+      "label": "reported $5B+ fundraising effort by",
+      "type": "media",
+      "date": "2026-03"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "CREW sued in Oct 2026 arguing Kushner must file disclosures; status of that suit",
+      "Affinity's Form ADV (22 Mar 2026): about $6.16B in regulatory AUM, about 99% from non-US clients",
+      "Kushner's lawyer's response that his arrangements are ethics-compliant"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No factual changes. The CREW suit (filed about 14-15 Oct 2026) is confirmed. It also brings an Appointments Clause claim, seeks his removal or at least disclosure filings, and names Susie Wiles, Marco Rubio and Pete Hegseth in their official capacities. I found no ruling as of mid-Nov 2026. The Form ADV figures and Chad Mizelle's response match. Bloomberg's prior filings showed $4.8B for 2024 and $3B for 2023."
+    ],
+    "new_sources": [
+      {
+        "title": "Watchdog group seeks to block Jared Kushner from serving in his volunteer envoy role",
+        "publisher": "Associated Press (via ClickOnDetroit)",
+        "url": "https://www.clickondetroit.com/news/politics/2026/10/14/watchdog-group-seeks-to-block-jared-kushner-from-serving-in-his-volunteer-envoy-role/",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "White House Sued Over Kushner's Government Work by Watchdog",
+        "publisher": "Bloomberg Government",
+        "url": "https://news.bgov.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog",
+        "date": "2026-10"
+      },
+      {
+        "title": "Kushner Fund Backed by Mideast Saw Assets Jump to $6.2 Billion",
+        "publisher": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-23/kushner-fund-backed-by-mideast-saw-assets-jump-to-6-2-billion",
+        "date": "2026-03-23"
+      }
+    ]
+  }
 }

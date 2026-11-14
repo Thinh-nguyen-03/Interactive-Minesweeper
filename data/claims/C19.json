@@ -332,5 +332,36 @@
       "label": "denied quid pro quo in comment to",
       "type": "media"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Cumberland dismissal agreed in principle with SEC staff on 20 Feb 2025, announced 4 Mar, formally dismissed late Mar 2025",
+      "DRW bought about 4M TMTG shares (~$100M) in the bitcoin-treasury financing; Jane Street largest at ~$375M",
+      "Timing gap between the dismissal and the TMTG purchase"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No factual changes. Decrypt, Cointelegraph and The Block confirm the dates. One outlet puts DRW's filing at 'over 3.8 million' shares, consistent with 'about 4M'. Reports frame the investment as about nine weeks after the case ended, matching the write-up's 8-9 weeks. Still no documented quid pro quo."
+    ],
+    "new_sources": [
+      {
+        "title": "Crypto firm Cumberland says SEC will drop lawsuit",
+        "publisher": "Decrypt",
+        "url": "https://decrypt.co/308645/crypto-firm-cumberland-sec-drop-lawsuit",
+        "date": "2025-03-04"
+      },
+      {
+        "title": "SEC formally dismisses enforcement action against Kraken, Consensys and Cumberland DRW",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/post/348606/sec-formally-dismisses-enforcement-action-against-kraken-consensys-cumberland-drw",
+        "date": "2025-03-28"
+      },
+      {
+        "title": "Trump Media secures $100M investment from DRW to fund its $2.5 billion bitcoin bet",
+        "publisher": "CoinGape",
+        "url": "https://coingape.com/trump-media-secures-100m-investment-from-drw-to-fund-its-2-5-billion-bitcoin-bet",
+        "date": "2025-06"
+      }
+    ]
+  }
 }

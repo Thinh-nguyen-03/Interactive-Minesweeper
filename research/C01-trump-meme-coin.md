@@ -32,7 +32,7 @@ Three things need flagging:
 
 6. **Trump's answer about crypto and China: confirmed.** He gave it in a White House interview with CNBC's Joe Kernen around July 2, 2026, after the disclosure came out. Asked whether he knew about his family's crypto ventures, he said he "could know" but didn't, called it "nothing illegal," and said the US must lead or "China's going to take it over." The video then says he launched the coin "so China wouldn't do it first." That is Coffeezilla's sarcastic paraphrase. Trump did not give China as a reason for the meme coin specifically.
 
-7. **TRUMP down about 95%, MELANIA down about 99%: confirmed, and now understated for TRUMP.** TRUMP peaked at about $73.43 on January 19, 2025. A February 2026 snapshot showed it about 95% down, matching the video. By November 9-13, 2026 it was around $1.05-1.10, about 98% down, after falling further when the midterms were held. MELANIA peaked at about $13.73 and is down about 99%.
+7. **TRUMP down about 95%, MELANIA down about 99%: confirmed, and now understated for TRUMP.** TRUMP peaked at about $73.43 on January 19, 2025. A February 2026 snapshot showed it about 95% down, matching the video. By early November 2026 it was about 98% down, with reported record lows of about $1.11-1.22 between November 4 and 10 (outlets differ), after falling further when the midterms were held. MELANIA peaked at about $13.73 and is down about 99%.
 
 8. **Buyers have almost all lost money: directionally supported, not precisely quantified.** In May 2025 Chainalysis data reported by CNBC showed:
    - about 764,000 of roughly 2M buyer wallets were in the red;
@@ -73,3 +73,12 @@ Three things need flagging:
 18. Cointelegraph, "$324M in fees and no roadmap: TRUMP memecoin explained." https://cointelegraph.com/explained/324m-in-fees-and-no-roadmap-whats-really-going-on-with-the-trump-memecoin
 
 Note: several pages could not be fetched directly from this environment because of network restrictions. The figures above come from search-result extracts of those pages and agree across multiple outlets. I did not read the OGE PDF itself.
+
+## Audit (second pass, 2026-11-14)
+
+Result: upheld. Re-checked the $635-636M OGE meme-coin royalty figure (Fox Business, Honolulu Star-Advertiser), the July 2, 2026 CNBC China remark (IBTimes UK) and the November 2026 price. The exact November price was softened: fresh reports give record lows of about $1.11-1.12 (Nov 8-10) and $1.22 (Nov 4) rather than $1.05-1.10; the ~98% drawdown stands. The same disclosure also reports about $526M from WLF token sales. The audit was cut short by the search budget.
+
+- Fox Business, 2026-06-30. https://www.foxbusiness.com/politics/trump-financial-disclosure-reveals-more-than-1b-crypto-income-during-first-year-back-office
+- Honolulu Star-Advertiser, 2026-06-30. https://www.staradvertiser.com/2026/06/30/breaking-news/trump-reports-at-least-1-4-billion-in-2025-crypto-earnings/
+- IBTimes UK, 2026-07-03. https://www.ibtimes.co.uk/trump-defends-family-crypto-ventures-1806732
+- Mitrade (wire reprint), 2026-11-05. https://www.mitrade.com/insights/news/live-news/article-3-2230858-20261105

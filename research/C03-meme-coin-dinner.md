@@ -39,3 +39,7 @@
 14. CNBC via newsio, "At Trump's $148 million meme coin dinner...," 2025-05-23. https://newsio.com/2025/05/23/at-trumps-148-million-meme-coin-dinner-the-food-sucked-and-security-was-lax-attendee-says/?amp=1
 
 Note: The PBS, NPR/Connecticut Public and Bulwark pages could not be fetched directly from this environment (the network blocked them). Their content above comes from search-result excerpts.
+
+## Audit (second pass, 2026-11-14)
+
+Result: upheld. Mediaite and PBS NewsHour confirm Leavitt's "abiding by all conflict of interest laws" answer to Andrew Egger. A 2026 Trump memecoin luncheon reported by the Guardian may deserve a follow-up lead.

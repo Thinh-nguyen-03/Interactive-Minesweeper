@@ -525,5 +525,36 @@
       "label": "criticised in video",
       "type": "media"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "1-for-15 reverse split of American Bitcoin (effective July 2026) to keep its Nasdaq listing",
+      "Q1 2026 net loss of about $82M",
+      "Matt Prusak's departure on 4 Aug 2026 for Giga Energy"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No factual changes. The reverse split took effect on 2 Jul 2026, with split-adjusted trading from 6 Jul. The Q1 2026 net loss was $81.8M, driven by a $117.2M mark-to-market loss on bitcoin. Prusak left on 4 Aug 2026 to become Giga Energy's chief business officer and interim CFO, and Paul Sacks became ABTC's interim CFO."
+    ],
+    "new_sources": [
+      {
+        "title": "Trump-backed American Bitcoin sets 1-for-15 reverse stock split in bid to maintain Nasdaq listing",
+        "publisher": "The Block",
+        "url": "https://theblock.co/post/406941/trump-backed-american-bitcoin-1-for-15-reverse-stock-split-maintain-nasdaq-listing",
+        "date": "2026-07"
+      },
+      {
+        "title": "Eric Trump's American Bitcoin reports $82 million loss in Q1 amid 'record' mining production",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/post/400327/eric-trump-american-bitcoin-82-million-loss-q1",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "Executive Shift in Bitcoin Mining: Matt Prusak Joins Giga Energy",
+        "publisher": "Value The Markets",
+        "url": "https://www.valuethemarkets.com/cryptocurrency/news/executive-shift-in-bitcoin-mining-matt-prusak-joins-giga-energy",
+        "date": "2026-07"
+      }
+    ]
+  }
 }
