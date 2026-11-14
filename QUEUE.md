@@ -24,6 +24,7 @@ All research agents: model `opus`, effort `medium`, instructions are in `SCHEMA.
 - Evidence rules stay as they are: every link graded documented / single-source / inferred; denials recorded; no allegation stated as fact (especially C37 and C46).
 
 ## 4. Map and repo
+- PUBLISHED 19:10 Central at https://claude.ai/artifact/Hodpp6u6fLoqSvbVs8Y9XP (67 of 70 items; C68-C70 pending). To update: `python3 build.py`, then republish `map/index.html` with the same three supporting files (same file path keeps the link).
 - Website builder agent was still running at 18:45. When `map/` is final: `python3 build.py`, review the page in headless Chromium (desktop and phone width, light and dark), publish `map/index.html` as an Artifact with `files` for `style.css`, `app.js`, `graph-data.js`, and send the user the link. Rebuild and republish to the same link after each research batch.
 - Then: rewrite `README.md` for the project, attempt repo rename and description (no GitHub tool for repo settings was available; if still blocked, give the user a suggested name and description).
 - Network: news and government hosts are blocked for direct fetch; two requests to widen the environment were rejected by the service. If the user has widened Network access in settings, tell agents to read primary documents in full.
