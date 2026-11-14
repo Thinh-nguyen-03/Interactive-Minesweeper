@@ -497,6 +497,11 @@
     }
     cand.sort(function (p, q) { return q.pri - p.pri; });
     var placed = [];
+    for (i = 0; i < nodes.length; i++) {   // labels keep clear of the nodes that matter
+      n = nodes[i]; if (!n.vis || (fs ? !fs.nodes.has(n) : (n.kind === 'entity' && !n.hub))) continue;
+      var nr = rs(n) * (n.kind === 'claim' ? 1.1 : 0.9), nx = n.x * k + tx, ny = n.y * k + ty;
+      if (nr > 3.5) placed.push([nx - nr, ny - nr, nx + nr, ny + nr]);
+    }
     ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.lineJoin = 'round';
     cand.forEach(function (c) {
       var big = c.n === f || c.n.hub || c.n.kind === 'claim';

@@ -406,7 +406,7 @@ details.fold > summary:hover { color: var(--accent); }
   .toolbar .spacer { display: none; }
   .tabs button { flex: 1 1 auto; padding: 5px 6px; font-size: 13px; }
   .panel {
-    position: absolute; left: 0; right: 0; bottom: 0; z-index: 30; flex: none; height: 62%;
+    position: absolute; left: 0; right: 0; bottom: 0; z-index: 30; flex: none; height: 56%;
     border-left: 0; border-top: 1px solid var(--line-strong); border-radius: 12px 12px 0 0;
     box-shadow: 0 -10px 30px var(--shadow);
   }
