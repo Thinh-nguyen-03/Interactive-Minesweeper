@@ -6,7 +6,7 @@ aliases:
   - "Donald J. Trump"
   - "Trump"
   - "the president"
-connections: 251
+connections: 253
 claims: 80
 tags:
   - "entity"
@@ -22,7 +22,7 @@ US president; the video alleges he and his family made billions from regulated i
 |---|---|
 | Type | Person |
 | Appears in | 80 claims |
-| Connections | 251 |
+| Connections | 253 |
 | Also known as | Donald J. Trump; Trump; the president |
 
 ## How other claims describe it
@@ -108,7 +108,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Pending
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
@@ -239,7 +239,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *chief crypto advocate of* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 
-### Political (105)
+### Political (107)
 
 - [[Keith Schiller]] *former bodyguard and Oval Office operations director* [[Donald Trump]] · 2017 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Donald Trump]] *pardoned* [[Bernard Kerik]] · 2020-02 · [[C73 Qatar's access network inside and around the administration|C73]]
@@ -300,6 +300,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *announced* [[Saudi major non-NATO ally status]] · 2025-11-18 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[David Ellison]] *visited, promised CNN changes (reported)* [[Donald Trump]] · 2025-12 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Donald Trump]] *said Netflix deal 'could be a problem'; CNN should be sold* [[Warner Bros. Discovery]] · 2025-12 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Donald Trump]] *hosted signing of* [[Washington Accords (DRC-Rwanda)]] · 2025-12-04 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Donald Trump]] *reportedly approved curbs on chip diverters (3+ times)* [[US Department of Commerce]] · 2026 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Donald Trump]] *named 'envoy of peace'* [[Jared Kushner]] · 2026-02-19 · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Donald Trump]] *named 'envoy of peace' (unofficial, volunteer)* [[Jared Kushner]] · 2026-02-19 · [[C15 Jared Kushner and Affinity Partners|C15]]
@@ -331,6 +332,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *said is under consideration* [[Possible UAE currency swap]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Donald Trump]] *made night-time calls to* [[US Congress]] · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Donald Trump]] *wants to build* [[White House ballroom]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Erik Prince]] *described as ally/supporter of* [[Donald Trump]] · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Former Trump supporters (commentators)]] *now call most corrupt president* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Jeff Miller]] *fundraiser; finance chair of 2025 inaugural festivities* [[Donald Trump]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Karoline Leavitt]] *said he obeys conflict laws* [[Donald Trump]] · [[C03 Dinner for top $TRUMP holders|C03]]

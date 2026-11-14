@@ -324,7 +324,7 @@ kbd { font: 400 11.5px/16px var(--font-body); border: 1px solid var(--line-stron
 .panel-body h3 { font-size: 14px; font-weight: 600; }
 .panel-body h3 .n, .grouphead .n { color: var(--faint); font-weight: 400; margin-left: 6px; font-variant-numeric: tabular-nums; }
 .grouphead { font-size: 13px; font-weight: 500; color: var(--muted); margin-top: 6px; display: flex; align-items: center; }
-.lead { font-size: 15.5px; line-height: 1.5; }
+.lead { font-size: 15px; line-height: 1.5; }
 .note { color: var(--muted); font-size: 13px; }
 .quote { color: var(--muted); padding-left: 14px; border-left: 2px solid var(--line-strong); display: grid; gap: 6px; }
 .fig { font-weight: 600; font-variant-numeric: tabular-nums; }
@@ -342,6 +342,8 @@ kbd { font: 400 11.5px/16px var(--font-body); border: 1px solid var(--line-stron
 .points { margin: 0; padding: 0; list-style: none; display: grid; gap: 7px; }
 .points > li { position: relative; padding-left: 16px; }
 .points > li::before { content: ""; position: absolute; left: 3px; top: 0.72em; width: 4px; height: 4px; border-radius: 50%; background: var(--faint); }
+.points .s { display: block; }
+.points .s + .s { margin-top: 5px; }
 .points .tag { color: var(--muted); font-size: 13px; white-space: nowrap; }
 .points.marked > li { padding-left: 24px; }
 .points.marked > li::before { display: none; }
@@ -401,6 +403,8 @@ kbd { font: 400 11.5px/16px var(--font-body); border: 1px solid var(--line-stron
 .srcgroup { display: grid; gap: 7px; }
 .srclist { list-style: none; margin: 0; padding: 0; display: grid; gap: 7px; }
 .srclist li { display: grid; grid-template-columns: 26px minmax(0, 1fr); gap: 0 6px; align-items: baseline; }
+.srclist a { color: var(--text); text-decoration-color: var(--line-strong); }
+.srclist a:hover { color: var(--accent); text-decoration-color: var(--accent); }
 .srclist .no { color: var(--faint); font-size: 13px; font-variant-numeric: tabular-nums; }
 .srclist .date { display: block; color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
 
@@ -485,6 +489,8 @@ button.rankrow:hover, .rankrow[aria-current="true"] { background: var(--surface-
   background: var(--surface); border-top: 1px solid var(--line); color: var(--muted); font-size: 12.5px; line-height: 1.4;
 }
 
+@media (max-width: 1480px) { .stat.tally, .stats .gap { display: none; } }
+
 /* ---------- phone ---------- */
 @media (max-width: 760px) {
   .narrow { display: inline; }
@@ -497,6 +503,7 @@ button.rankrow:hover, .rankrow[aria-current="true"] { background: var(--surface-
   .tabs { order: 4; flex: 1 1 100%; gap: 22px; }
   .tabs button { min-height: 34px; padding: 0 0 4px; }
   .hint { align-items: flex-start; }
+  .stats { gap: 4px 14px; }
   .rail {
     position: absolute; left: 0; top: 0; bottom: 0; z-index: 40; flex: none; width: min(300px, 86%);
     border-right: 1px solid var(--line-strong);

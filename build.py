@@ -261,7 +261,7 @@ def sentences(text):
         if end >= len(text):
             break
         nxt = text[end]
-        if not (nxt.isupper() or nxt.isdigit() or nxt in "\"'‘“($["):
+        if not (nxt.isupper() or nxt.isdigit() or nxt in "\"'‘“$["):   # a following "(...)" stays with its sentence
             continue
         if depth_at.get(m.start(), 0) > 0:
             close = min([x for x in (text.find(")", m.start()), text.find("]", m.start())) if x >= 0] or [-1])
@@ -313,6 +313,18 @@ def figures(text, limit=5):
                 out.append(v)
         return out[:limit]
     return collect(AMOUNT_RE), collect(DATE_RE)
+
+
+def split_listing(sentence):
+    """A long opening sentence of the form 'Head: a; b; c.' becomes the head plus its items."""
+    if len(sentence) > 240 and ": " in sentence:
+        head, rest = sentence.split(": ", 1)
+        parts = [x.strip() for x in re.split(r";\s+", rest) if x.strip()]
+        if len(head) >= 40 and len(parts) >= 3 and "(" not in head.rsplit(")", 1)[-1]:
+            parts = [cap_first(re.sub(r"^and\s+", "", x)) for x in parts]
+            parts[-1] = parts[-1].rstrip(".")
+            return head + ":", parts
+    return sentence, []
 
 
 _GRADE_HINT = re.compile(r"\b(documented|single[- ]source|inferred)\b", re.I)
@@ -577,7 +589,7 @@ def merge(index, claim_files, reports, base):
             c["confidence"] = slugify(d.get("confidence")) or ""
             c["summary"] = tidy(d.get("summary"))
             sm = sentences(c["summary"])
-            c["bottom_line"] = sm[0] if sm else ""
+            c["bottom_line"], c["bottom_parts"] = split_listing(sm[0]) if sm else ("", [])
             c["summary_points"] = sm[1:]
             subs = []
             for s in as_list(d.get("sub_claims")):
@@ -639,7 +651,7 @@ def merge(index, claim_files, reports, base):
                         if eid:
                             claim_ents[cid].setdefault(eid, False)
         else:
-            c.update({"verdict": "pending", "confidence": "", "summary": "", "bottom_line": "",
+            c.update({"verdict": "pending", "confidence": "", "summary": "", "bottom_line": "", "bottom_parts": [],
                       "summary_points": [], "single_source": False, "sub_claims": [], "corrections": [], "correction_pairs": [],
                       "denials_and_context": [], "denial_points": [], "sources": [], "leads": []})
             if rep:   # a report without its JSON yet: take the headline verdict from it
@@ -989,6 +1001,9 @@ def write_vault(graph, neigh, key_of):
                 out.append("Verification of this claim has not been completed yet.\n")
             if n["bottom_line"]:
                 out.append("## Bottom line\n\n" + n["bottom_line"] + "\n")
+                if n["bottom_parts"]:
+                    out += [f"- {x}" for x in n["bottom_parts"]]
+                    out.append("")
             subs = n["sub_claims"]
             holds = [s for s in subs if s["verdict"] in HOLDS]
             fix = [s for s in subs if s["verdict"] in CORRECT]

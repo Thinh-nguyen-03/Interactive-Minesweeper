@@ -22,7 +22,11 @@ tags:
 
 ## Bottom line
 
-The settlement amounts and recipients are well documented: ABC $15M and Meta ~$22M of $25M and Paramount $16M (less fees) to the Trump library; X ~$10M (press-reported); YouTube $22M of $24.5M to the ballroom via the Trust for the National Mall.
+The settlement amounts and recipients are well documented:
+
+- ABC $15M and Meta ~$22M of $25M and Paramount $16M (less fees) to the Trump library
+- X ~$10M (press-reported)
+- YouTube $22M of $24.5M to the ballroom via the Trust for the National Mall
 
 ## What holds up
 

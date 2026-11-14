@@ -13,9 +13,9 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
 - Confirmed: 2
 - Mostly accurate: 66
-- Partly accurate: 4
+- Partly accurate: 5
 - Unverified: 2
-- Pending: 8
+- Pending: 7
 
 ## Claims from the video
 
@@ -99,7 +99,7 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Pending
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
@@ -127,10 +127,10 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
 ## Most connected
 
-- [[Donald Trump]] (80 claims, 251 connections)
+- [[Donald Trump]] (80 claims, 253 connections)
 - [[World Liberty Financial]] (37 claims, 107 connections)
 - [[Securities and Exchange Commission]] (29 claims, 90 connections)
-- [[White House Trump administration]] (52 claims, 87 connections)
+- [[White House Trump administration]] (53 claims, 89 connections)
 - [[Donald Trump Jr]] (43 claims, 83 connections)
 - [[Eric Trump]] (42 claims, 75 connections)
 - [[Trump Organization]] (25 claims, 63 connections)
@@ -139,14 +139,14 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[Trump Media & Technology Group]] (20 claims, 60 connections)
 - [[US Congress]] (35 claims, 56 connections)
 - [[Steve Witkoff]] (21 claims, 51 connections)
-- [[United Arab Emirates]] (23 claims, 45 connections)
+- [[United Arab Emirates]] (24 claims, 46 connections)
 - [[The New York Times]] (20 claims, 38 connections)
 - [[Qatar]] (12 claims, 36 connections)
 - [[Pentagon (Department of Defense)]] (13 claims, 35 connections)
 - [[$TRUMP meme coin]] (11 claims, 35 connections)
+- [[The Wall Street Journal]] (20 claims, 35 connections)
 - [[Binance]] (16 claims, 34 connections)
 - [[Commodity Futures Trading Commission]] (10 claims, 34 connections)
-- [[The Wall Street Journal]] (19 claims, 34 connections)
 - [[Affinity Partners]] (15 claims, 33 connections)
 - [[Coffeezilla]] (14 claims, 33 connections)
 - [[Crypto.com]] (11 claims, 33 connections)

@@ -1,0 +1,29 @@
+---
+id: "lloyds-metals"
+kind: "entity"
+type: "company"
+connections: 2
+claims: 1
+tags:
+  - "entity"
+  - "type/company"
+---
+# Lloyds Metals and Energy
+
+Indian partner in the Virtus-Lloyds Chemaf JV.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
+
+## Appears in claims
+
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+
+## Relationships
+
+### Commercial (1)
+
+- [[Lloyds Metals and Energy]] *JV partner in Chemaf deal* [[Virtus Minerals]] · 2026-03 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]

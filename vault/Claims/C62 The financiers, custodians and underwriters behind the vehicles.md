@@ -133,13 +133,9 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 **Confirmed** · Evidence: Documented (TMTG filings and multiple outlets)
 
 - The layers: (1) In July 2024 a standby equity purchase agreement let TMTG sell up to $2.5B of stock to the Yorkville vehicle YA II PN at 97.25% of market.
-- TMTG sold Yorkville about 20M shares for about $450M, which Fortune said in February 2025 was more than half of TMTG's cash.
-- (2) Yorkville Securities co-led the May 2025 bitcoin raise.
-- (3) Yorkville America Equities is registered investment adviser and sponsor of the Truth Social ETFs (five launched Dec 30, 2025, with Tuttle Capital as subadviser).
-- By 2026 the lineup reportedly had seven funds and about $110M, and Yorkville agreed to absorb the MAGA and YALL ETFs.
-- (4) Yorkville America Digital sponsors the Truth Social Bitcoin ETF and the Bitcoin & Ethereum ETF filings.
-- The SEC acknowledged the 19b-4 in July 2025, and I found no final SEC decision.
-- (5) Yorkville Acquisition Corp (MCGA) was the SPAC for the ~$6.4B Trump Media Group CRO Strategy with Crypto.com, including a $5B Yorkville-affiliate equity line, which was mutually terminated on Aug 7, 2026 (C41).
+- TMTG sold Yorkville about 20M shares for about $450M, which Fortune said in February 2025 was more than half of TMTG's cash. (2) Yorkville Securities co-led the May 2025 bitcoin raise. (3) Yorkville America Equities is registered investment adviser and sponsor of the Truth Social ETFs (five launched Dec 30, 2025, with Tuttle Capital as subadviser).
+- By 2026 the lineup reportedly had seven funds and about $110M, and Yorkville agreed to absorb the MAGA and YALL ETFs. (4) Yorkville America Digital sponsors the Truth Social Bitcoin ETF and the Bitcoin & Ethereum ETF filings.
+- The SEC acknowledged the 19b-4 in July 2025, and I found no final SEC decision. (5) Yorkville Acquisition Corp (MCGA) was the SPAC for the ~$6.4B Trump Media Group CRO Strategy with Crypto.com, including a $5B Yorkville-affiliate equity line, which was mutually terminated on Aug 7, 2026 (C41).
 - This is a commercial web, not proof of favoritism.
 - Amounts: up to $2.5B; 97.25%; about $450M; about $110M; ~$6.4B
 - Dates: July 2024; February 2025; May 2025; Dec 30, 2025; July 2025

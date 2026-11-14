@@ -72,8 +72,7 @@ The lead accurately describes what Matthew Cole's book 'Princes and Thieves' (Va
 
 - Vanity Fair ran the excerpt on 22 Oct 2026.
 - The book is published by Atria/One Signal (Simon & Schuster) and, per Political Wire citing Status, was released two days early on 26 Oct after Kushner's legal threats.
-- Cole told Democracy Now!
-- (2 Nov) that it rests on 'more than 50 sources' and was fact-checked and legally vetted (via search summaries; fetch blocked).
+- Cole told Democracy Now! (2 Nov) that it rests on 'more than 50 sources' and was fact-checked and legally vetted (via search summaries; fetch blocked).
 - Dates: 22 Oct 2026; 26 Oct; 2 Nov
 - Sources: [1](https://www.mediaite.com/media/news/outrageous-fabrications-jared-kushner-rages-at-bombshell-report-in-vanity-fair/) [13](https://politicalwire.com/2026/10/26/book-on-jared-kushner-released-early/) [14](https://www.simonandschuster.com/books/9781668095324) [16](https://www.democracynow.org/2026/11/2/matthew_cole_jared_kushner_book)
 

@@ -891,7 +891,7 @@
       if (c.verdict === 'unverified') h += unvNotice(c, 'This could not be independently corroborated. It is reported here as an allegation, not as an established fact, and the people named have not been shown to have done what is alleged.');
       if (c.verdict === 'pending') h += '<div class="notice">This item has not been checked yet. The names shown are the ones that appear in its text.</div>';
       else if (c.verdict_from_report) h += '<div class="notice">The verdict is taken from the written report. The structured breakdown has not been added yet.</div>';
-      if (c.bottom_line) h += section('Bottom line', null, '<p class="lead">' + hl(c.bottom_line, names) + '</p>');
+      if (c.bottom_line) h += section('Bottom line', null, '<p class="lead">' + hl(c.bottom_line, names) + '</p>' + (arr(c.bottom_parts).length ? points(c.bottom_parts, names) : ''));
       function marked(list, tag) {
         return '<ul class="points marked">' + list.map(function (s) {
           var t = tag && s.verdict !== 'confirmed' && s.verdict !== 'unverified';
@@ -1212,11 +1212,14 @@
   function renderStats() {
     var cnt = {}, tally = tallyOf(claims);
     claims.forEach(function (c) { cnt[c.origin] = (cnt[c.origin] || 0) + 1; });
-    function stat(n, one, many, cls) { return '<span class="stat' + (cls || '') + '"><b>' + n.toLocaleString('en-US') + '</b> ' + (n === 1 ? one : many) + '</span>'; }
-    var h = stat(cnt.video || 0, 'video claim', 'video claims') + (cnt['follow-up'] ? stat(cnt['follow-up'], 'follow-up lead', 'follow-up leads') : '') +
-      (cnt['connection-hunt'] ? stat(cnt['connection-hunt'], 'connection hunt', 'connection hunts') : '') +
+    function stat(n, one, many, cls, brief) {
+      var word = n === 1 ? one : many;
+      return '<span class="stat' + (cls || '') + '"><b>' + n.toLocaleString('en-US') + '</b> ' + (brief ? '<span class="wide">' + word + '</span><span class="narrow">' + brief + '</span>' : word) + '</span>';
+    }
+    var h = stat(cnt.video || 0, 'video claim', 'video claims', '', 'from the video') + (cnt['follow-up'] ? stat(cnt['follow-up'], 'follow-up lead', 'follow-up leads', '', 'follow-ups') : '') +
+      (cnt['connection-hunt'] ? stat(cnt['connection-hunt'], 'connection hunt', 'connection hunts', '', 'hunts') : '') +
       stat(entities.length, 'person or organisation', 'people and organisations', ' wide') + stat(rels.length, 'relationship', 'relationships', ' wide') + '<span class="gap wide"></span>';
-    VERDICTS.forEach(function (v) { if (tally[v]) h += '<span class="stat wide v-' + v + '" title="' + esc(VMEANS[v]) + '">' + vicon(v, 13) + '<b>' + tally[v] + '</b> ' + VLABEL[v].toLowerCase() + '</span>'; });
+    VERDICTS.forEach(function (v) { if (tally[v]) h += '<span class="stat tally wide v-' + v + '" title="' + esc(VMEANS[v]) + '">' + vicon(v, 13) + '<b>' + tally[v] + '</b> ' + VLABEL[v].toLowerCase() + '</span>'; });
     $('stats').innerHTML = h;
   }
   function renderFilters() {

@@ -2,22 +2,27 @@
 id: "global-witness"
 kind: "entity"
 type: "media"
-connections: 1
-claims: 1
+connections: 2
+claims: 2
 tags:
   - "entity"
   - "type/media"
 ---
 # Global Witness
 
-NGO that analysed Trump-linked minerals lobbying filings.
+NGO that tracked Trump-linked minerals lobbying contracts.
 
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
-| Connections | 1 |
+| Appears in | 2 claims |
+| Connections | 2 |
+
+## How other claims describe it
+
+- NGO that analysed Trump-linked minerals lobbying filings.
 
 ## Appears in claims
 
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate

@@ -103,14 +103,11 @@ Most of the Qatari ties in the brief are documented.
 
 ### 3. EPA Administrator Lee Zeldin consulted for Heritage Advisors, the fund of Qatari royal Sheikh Sultan bin Jassim Al Thani, which also invested $50M in Newsmax and was the Qatari investor in the Menendez-Daibes bribery case.
 
-**Mostly accurate** · Evidence: Each link is documented; the chain is inferred (our cross-reference)
+**Mostly accurate**
 
-- (a) Zeldin's nominee disclosure showed consulting income from Heritage Advisors (The Intercept, 2025-02-11; Jewish Insider).
-- (b) Heritage Advisors, founded by Sheikh Sultan bin Jassim Al Thani, was identified (NYT/ICIJ/Real Deal) as the 'Qatari Investment Co.' in the Jan 2024 superseding Menendez indictment.
+- Each link is documented; the chain is inferred (our cross-reference). (a) Zeldin's nominee disclosure showed consulting income from Heritage Advisors (The Intercept, 2025-02-11; Jewish Insider). (b) Heritage Advisors, founded by Sheikh Sultan bin Jassim Al Thani, was identified (NYT/ICIJ/Real Deal) as the 'Qatari Investment Co.' in the Jan 2024 superseding Menendez indictment.
 - Prosecutors alleged Menendez pushed it to invest with Fred Daibes, partly by taking pro-Qatar actions.
-- The Sheikh and Qatar were not accused.
-- (c) Sheikh Sultan invested about $50M in Newsmax in 2019-20 (Washington Post/ICIJ).
-- (d) Daibes paid Keith Schiller's Javelin Advisors $1M in Q1 2025 in a failed pardon bid (C64).
+- The Sheikh and Qatar were not accused. (c) Sheikh Sultan invested about $50M in Newsmax in 2019-20 (Washington Post/ICIJ). (d) Daibes paid Keith Schiller's Javelin Advisors $1M in Q1 2025 in a failed pardon bid (C64).
 - No source links these threads, and no EPA decision touching Qatar was found.
 - Amounts: about $50M; $1M
 - Dates: 2025-02-11; Jan 2024; 2019-20

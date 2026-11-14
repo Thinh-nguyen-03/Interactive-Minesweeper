@@ -69,15 +69,12 @@ Only a few parties are documented putting money into more than one Trump-family 
 
 ### 1. Justin Sun is the most extensive documented repeat investor: WLF tokens, the $TRUMP coin (top holder, dinner guest, a $100M buy pledge), a Dominari-arranged US listing for Tron, and a pledge to buy ALT5 shares.
 
-**Confirmed** · Evidence: Documented, with Sun's own announcements and multiple outlets
+**Confirmed**
 
-- (1) WLF: $30M on 2024-11-25, then $45M via TRON DAO around 2025-01-20, $75M in all; he was named WLF adviser on 2024-11-26 (C05).
-- (2) $TRUMP: he was the top-ranked holder at the 2025-05-22 dinner (more than 1.43M TRUMP), and on 2025-07-09 he posted 'We are committed to buying $100 million of TRUMP' days before a roughly $474M unlock.
+- Documented, with Sun's own announcements and multiple outlets. (1) WLF: $30M on 2024-11-25, then $45M via TRON DAO around 2025-01-20, $75M in all; he was named WLF adviser on 2024-11-26 (C05). (2) $TRUMP: he was the top-ranked holder at the 2025-05-22 dinner (more than 1.43M TRUMP), and on 2025-07-09 he posted 'We are committed to buying $100 million of TRUMP' days before a roughly $474M unlock.
 - Whether the full $100M was executed is not confirmed.
 - A Yahoo Finance item cites a stake of about 545M tokens, which matches the size of his frozen WLFI rather than any TRUMP holding.
-- No reliable figure for his TRUMP holdings after July 2025 was found.
-- (3) Tron Inc.: Dominari Securities, in which both Trump sons hold about 6.7% each and serve as advisers, was exclusive placement agent on SRM Entertainment's 2025-06-16 $100M (up to $210M) TRX-treasury deal that became Tron Inc. Eric Trump denies any role (C47).
-- (4) ALT5/WLFI: on 2025-09-05, one day after WLF froze his tokens, Sun pledged $10M each in ALT5 Sigma shares and WLFI.
+- No reliable figure for his TRUMP holdings after July 2025 was found. (3) Tron Inc.: Dominari Securities, in which both Trump sons hold about 6.7% each and serve as advisers, was exclusive placement agent on SRM Entertainment's 2025-06-16 $100M (up to $210M) TRX-treasury deal that became Tron Inc. Eric Trump denies any role (C47). (4) ALT5/WLFI: on 2025-09-05, one day after WLF froze his tokens, Sun pledged $10M each in ALT5 Sigma shares and WLFI.
 - Completion is unverified.
 - Nationality: China-born (described by outlets as a Chinese entrepreneur).
 - Tron is a private network, not state-owned.
@@ -110,13 +107,9 @@ Only a few parties are documented putting money into more than one Trump-family 
 
 **Mostly accurate**
 
-- This is the most under-reported repeat buyer, with a chain of three layers.
-- (a) Web3Port announced a WLFI purchase in January 2025 (reported as $10M; Arkham, via the NYT, traced about $20M from a Web3Port-controlled wallet that month).
-- (b) Aqua 1 Foundation, described as UAE-based with a newly created website and little history, announced a $100M WLFI purchase on 2025-06-26 (documented).
-- Arkham attributes about $80M of that to a wallet likely controlled by Aqua 1.
-- (c) In July 2025, independent journalist Jacob Silverman and BeInCrypto alleged shared infrastructure with Web3Port, a market maker accused of manipulation and reportedly expelled from exchanges in 2023 (the MOVE dump).
-- Aqua 1 and co-founder 'Dave Lee' denied any connection.
-- (d) The NYT (2026-08-09, known here only through The Block, Cointelegraph, Unchained, AML Intelligence and IBTimes) reported that a BVI Web3Port entity renamed itself Aqua 1 GP Limited two weeks before the $100M announcement.
+- This is the most under-reported repeat buyer, with a chain of three layers. (a) Web3Port announced a WLFI purchase in January 2025 (reported as $10M; Arkham, via the NYT, traced about $20M from a Web3Port-controlled wallet that month). (b) Aqua 1 Foundation, described as UAE-based with a newly created website and little history, announced a $100M WLFI purchase on 2025-06-26 (documented).
+- Arkham attributes about $80M of that to a wallet likely controlled by Aqua 1. (c) In July 2025, independent journalist Jacob Silverman and BeInCrypto alleged shared infrastructure with Web3Port, a market maker accused of manipulation and reportedly expelled from exchanges in 2023 (the MOVE dump).
+- Aqua 1 and co-founder 'Dave Lee' denied any connection. (d) The NYT (2026-08-09, known here only through The Block, Cointelegraph, Unchained, AML Intelligence and IBTimes) reported that a BVI Web3Port entity renamed itself Aqua 1 GP Limited two weeks before the $100M announcement.
 - It named Zhou as the figure behind the purchase: he was arrested in Britain in 2021 on suspicion of money laundering, has not been charged, and UK officials say the probe remains active.
 - It reported that up to $75M of the $100M went to a company controlled by Trump and his sons, with the Witkoff family also benefiting.
 - Caixin (2026-08-26) calls Zhou a 'blacklisted Chinese businessman'; its text could not be fetched here, so the basis for 'blacklisted' is unverified.
@@ -161,10 +154,8 @@ Only a few parties are documented putting money into more than one Trump-family 
 
 **Partly accurate**
 
-- Two links, both below 'documented'.
-- (1) WLFI: on-chain trackers reported WLF multisig transfers to Jump-associated addresses, about 500M WLFI (about $83M) in one report and about 250M WLFI over three months to November 2025 in another.
-- Analysts infer a liquidity or market-making arrangement, which neither party has confirmed: inferred by on-chain analysts.
-- (2) Truth API: Reuters (2026-10-28, anonymous sources) named Jump, Susquehanna and Bloomberg as subscribers to the $60K-$100K-a-month feed of 'market-moving Truths': single-source.
+- Two links, both below 'documented'. (1) WLFI: on-chain trackers reported WLF multisig transfers to Jump-associated addresses, about 500M WLFI (about $83M) in one report and about 250M WLFI over three months to November 2025 in another.
+- Analysts infer a liquidity or market-making arrangement, which neither party has confirmed: inferred by on-chain analysts. (2) Truth API: Reuters (2026-10-28, anonymous sources) named Jump, Susquehanna and Bloomberg as subscribers to the $60K-$100K-a-month feed of 'market-moving Truths': single-source.
 - Jump declined to comment.
 - Regulatory history: Jump's Tai Mo Shan settled with the SEC for $123M in December 2024, before the inauguration, and a 2024 CFTC probe was reported.
 - We found no record of how that probe ended, so no post-2025 US decision benefiting Jump is documented.

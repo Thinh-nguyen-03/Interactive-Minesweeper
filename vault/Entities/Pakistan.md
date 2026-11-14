@@ -2,7 +2,7 @@
 id: "pakistan"
 kind: "entity"
 type: "country"
-connections: 14
+connections: 15
 claims: 4
 tags:
   - "entity"
@@ -16,10 +16,11 @@ Hired Trump-tied lobbyists in 2025 and signed WLF, minerals and drone deals.
 |---|---|
 | Type | Country |
 | Appears in | 4 claims |
-| Connections | 14 |
+| Connections | 15 |
 
 ## How other claims describe it
 
+- Beach's Jan 2025 investment delegation destination.
 - Hired several Trump-tied firms in 2025
 - State
 
@@ -28,7 +29,7 @@ Hired Trump-tied lobbyists in 2025 and signed WLF, minerals and drone deals.
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 
 ## Relationships
 
@@ -53,8 +54,9 @@ Hired Trump-tied lobbyists in 2025 and signed WLF, minerals and drone deals.
 - [[Pakistan]] *Nobel Peace Prize nomination* [[Donald Trump]] · 2025-06-21 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Pakistan]] *brokered US-Iran talks* [[Iran]] · 2026-04 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
-### Commercial (6)
+### Commercial (7)
 
+- [[Gentry Beach]] *led investor delegation to* [[Pakistan]] · 2025-01-30 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Pakistan]] *Checkmate engagement on behalf of* [[Greystone Investment & Management LLC]] · 2025-05 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Pakistan]] *MoU to explore tokenising up to $2B state assets* [[Binance]] · 2025-12 · $2B · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[SC Financial Technologies]] *MOU to integrate USD1* [[Pakistan]] · 2026-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

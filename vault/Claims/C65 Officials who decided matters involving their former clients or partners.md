@@ -70,7 +70,7 @@ Most of the named officials have documented prior ties to parties affected by th
 
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 
 ## Sub-claims
 

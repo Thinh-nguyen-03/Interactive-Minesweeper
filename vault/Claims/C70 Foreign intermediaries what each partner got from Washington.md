@@ -19,7 +19,15 @@ tags:
 
 ## Bottom line
 
-For most named partners, a family deal and a favourable US decision in the same period are both documented: Damac (about $12.5M in 2025 fees, plus a $20B data-centre pledge announced with Trump and a permitting order); Dar Global and Qatari Diar (Gulf licences, alongside F-35s, chips, the 123 agreement, arms sales and the jet); Kinh Bac (a $5M fee, then a tariff cut from 46% to 20%); the UAE network (WLF and USD1, then chip licences); Binance (USD1 venue, then SEC dismissal and pardon); Kazakhstan (sons' tungsten stake, then $1.6B in EXIM/DFC letters); and Pakistan, the clearest two-way case, where WLF affiliates signed state MoUs and the Pakistani Ministry of Defence ordered drones from Trump-sons-backed Powerus.
+For most named partners, a family deal and a favourable US decision in the same period are both documented:
+
+- Damac (about $12.5M in 2025 fees, plus a $20B data-centre pledge announced with Trump and a permitting order)
+- Dar Global and Qatari Diar (Gulf licences, alongside F-35s, chips, the 123 agreement, arms sales and the jet)
+- Kinh Bac (a $5M fee, then a tariff cut from 46% to 20%)
+- The UAE network (WLF and USD1, then chip licences)
+- Binance (USD1 venue, then SEC dismissal and pardon)
+- Kazakhstan (sons' tungsten stake, then $1.6B in EXIM/DFC letters)
+- Pakistan, the clearest two-way case, where WLF affiliates signed state MoUs and the Pakistani Ministry of Defence ordered drones from Trump-sons-backed Powerus
 
 ## What holds up
 
@@ -220,12 +228,10 @@ For most named partners, a family deal and a favourable US decision in the same 
 
 **Confirmed** · Evidence: Documented
 
-- Deals with the family: (1) WLF's letter of intent with the Pakistan Crypto Council (26 Apr 2025).
-- (2) A 14 Jan 2026 MoU between the government (signed by Finance Minister Aurangzeb) and SC Financial Technologies, the Delaware co-owner of the USD1 brand, signed by Zach Witkoff, to explore USD1 for cross-border payments.
+- Deals with the family: (1) WLF's letter of intent with the Pakistan Crypto Council (26 Apr 2025). (2) A 14 Jan 2026 MoU between the government (signed by Finance Minister Aurangzeb) and SC Financial Technologies, the Delaware co-owner of the USD1 brand, signed by Zach Witkoff, to explore USD1 for cross-border payments.
 - The WLF delegation also met PM Sharif and Field Marshal Munir.
 - WLF says it receives no compensation, and the deal is exploratory.
-- Steve Witkoff's Aug 2025 disclosure lists both WLF and SC Financial.
-- (3) In mid-Sept 2026 Powerus, backed by Eric Trump and Don Jr. through American Ventures (C51) and then merging with Aureus, announced an MoU with the Pakistan Army and an initial 'limited procurement order' from the Ministry of Defence, value undisclosed.
+- Steve Witkoff's Aug 2025 disclosure lists both WLF and SC Financial. (3) In mid-Sept 2026 Powerus, backed by Eric Trump and Don Jr. through American Ventures (C51) and then merging with Aureus, announced an MoU with the Pakistan Army and an initial 'limited procurement order' from the Ministry of Defence, value undisclosed.
 - Munir received the delegation, per Al Jazeera.
 - Don Jr.'s spokesperson says he had no role in negotiating it, and the White House says there is no conflict.
 - Powerus had earlier licensed its interceptor in India (Paras Defence).

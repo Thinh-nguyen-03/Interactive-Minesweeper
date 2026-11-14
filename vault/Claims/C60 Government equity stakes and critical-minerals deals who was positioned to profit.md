@@ -72,7 +72,7 @@ The core of the lead is documented.
 
 ## Follow-up checks
 
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Pending
 
 ## Sub-claims

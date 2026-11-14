@@ -19,7 +19,13 @@ tags:
 
 ## Bottom line
 
-Several lawyers and firms do recur across the Trump-family ventures, their counterparties and the government, and most individual ties are documented in filings or multiple outlets: Teresa Goody Guillen spoke for World Liberty Financial to Congress while registered as a Binance/CZ lobbyist; Paul Hastings is simultaneously the Trump sons' SPAC counsel, home of Aryam/G42's WLF board designee Martin Edelman, and home of the AG's brother Brad Bondi; Dhillon Law Group produced the White House counsel who signs ethics waivers and (per one source) the registrant of the inaugural committee and the library fund; Bondi lobbied for Qatar before signing the jet memo; Blanche and Mizelle moved from Trump/Kushner private counsel to top DOJ posts.
+Several lawyers and firms do recur across the Trump-family ventures, their counterparties and the government, and most individual ties are documented in filings or multiple outlets:
+
+- Teresa Goody Guillen spoke for World Liberty Financial to Congress while registered as a Binance/CZ lobbyist
+- Paul Hastings is simultaneously the Trump sons' SPAC counsel, home of Aryam/G42's WLF board designee Martin Edelman, and home of the AG's brother Brad Bondi
+- Dhillon Law Group produced the White House counsel who signs ethics waivers and (per one source) the registrant of the inaugural committee and the library fund
+- Bondi lobbied for Qatar before signing the jet memo
+- Blanche and Mizelle moved from Trump/Kushner private counsel to top DOJ posts
 
 ## What holds up
 
@@ -88,11 +94,9 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 ### 3. Paul Hastings sits on three separate Trump-adjacent tracks: issuer's counsel to the Trump sons' SPAC, home firm of Aryam/G42 signatory Martin Edelman, and home firm of Brad Bondi.
 
-**Confirmed** · Evidence: Each engagement is documented; the pattern is inferred
+**Confirmed**
 
-- (a) New America Acquisition I's S-1 (Aug 4, 2025) lists Paul Hastings as company counsel; the firm called the 'public policy tailwinds' sentence a scrivener's error (C27); the IPO closed Dec 5, 2025 at $345M, Paul Hastings again company counsel.
-- (b) Martin Edelman is Of Counsel at Paul Hastings (Chambers 2026), G42's general counsel and a long-time adviser to the Abu Dhabi ruling family; he and G42 CEO Peng Xiao took Aryam's two WLF board seats after the Jan 2025 $500M/49% deal (C06, C57).
-- (c) Brad Bondi, brother of then-AG Pam Bondi, co-chairs Paul Hastings' investigations/white-collar practice.
+- Each engagement is documented; the pattern is inferred. (a) New America Acquisition I's S-1 (Aug 4, 2025) lists Paul Hastings as company counsel; the firm called the 'public policy tailwinds' sentence a scrivener's error (C27); the IPO closed Dec 5, 2025 at $345M, Paul Hastings again company counsel. (b) Martin Edelman is Of Counsel at Paul Hastings (Chambers 2026), G42's general counsel and a long-time adviser to the Abu Dhabi ruling family; he and G42 CEO Peng Xiao took Aryam's two WLF board seats after the Jan 2025 $500M/49% deal (C06, C57). (c) Brad Bondi, brother of then-AG Pam Bondi, co-chairs Paul Hastings' investigations/white-collar practice.
 - No source connects these engagements to each other.
 - Paul Hastings is a firm of well over a thousand lawyers, so shared employer alone shows nothing about coordination; it is listed because a reader of any one story would not see it.
 - Amounts: $345M; $500M; 49%

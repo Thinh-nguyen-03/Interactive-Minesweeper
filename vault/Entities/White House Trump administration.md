@@ -6,8 +6,8 @@ aliases:
   - "The White House"
   - "Trump administration"
   - "White House"
-connections: 87
-claims: 52
+connections: 89
+claims: 53
 tags:
   - "entity"
   - "type/government"
@@ -21,8 +21,8 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 52 claims |
-| Connections | 87 |
+| Appears in | 53 claims |
+| Connections | 89 |
 | Also known as | The White House; Trump administration; White House |
 
 ## How other claims describe it
@@ -85,6 +85,7 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
 
@@ -105,7 +106,7 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[White House Trump administration]] *classifies as unpaid volunteer, no disclosure filed* [[Jared Kushner]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[White House Trump administration]] *approved* [[UAE AI chips deal]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 
-### Political (36)
+### Political (37)
 
 - [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] · 2024-11 · [[C14 Steve and Zach Witkoff|C14]]
 - [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[White House Trump administration]] · 2025 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
@@ -123,6 +124,7 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[Saudi Arabia]] *pledged ~$1T US investment to* [[White House Trump administration]] · 2025-11-18 · $1T · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[White House Trump administration]] *briefed lawmakers on federal prediction-market policy* [[North Carolina (state government)]] · 2026 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[White House Trump administration]] *reportedly contacted state officials on prediction markets* [[Republican Attorneys General Association]] · 2026 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[White House Trump administration]] *urged to sell Manono claim to US buyer* [[AVZ Minerals]] · 2026-01-21 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[White House Trump administration]] *denied wrongdoing in response to* [[The Wall Street Journal]] · 2026-02 · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[White House Trump administration]] *denied special-interest influence on deal* [[Cove Kaz Capital Cove Capital]] · 2026-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[White House Trump administration]] *says assets held in trust / discretionary accounts* [[Donald Trump]] · 2026-07 · [[C55 How much has the Trump family made Competing totals|C55]]

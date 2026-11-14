@@ -2,8 +2,8 @@
 id: "susie-wiles"
 kind: "entity"
 type: "person"
-connections: 10
-claims: 5
+connections: 11
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -17,12 +17,13 @@ White House chief of staff; Gabbard allegedly briefed her on the intercept.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 5 claims |
-| Connections | 10 |
+| Appears in | 6 claims |
+| Connections | 11 |
 
 ## How other claims describe it
 
 - White House chief of staff; ex-Ballard and Mercury lobbyist
+- White House chief of staff; formerly at Ballard Partners.
 - White House chief of staff; former Ballard partner
 - White House chief of staff; ex-Ballard and Mercury
 
@@ -33,6 +34,7 @@ White House chief of staff; Gabbard allegedly briefed her on the intercept.
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 
 ## Relationships
 
@@ -47,8 +49,9 @@ White House chief of staff; Gabbard allegedly briefed her on the intercept.
 - [[Susie Wiles]] *chief of staff* [[White House Trump administration]] · 2025-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[David Sacks]] *complained about Ballard-pushed XRP post* [[Susie Wiles]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
-### Commercial (3)
+### Commercial (4)
 
 - [[Susie Wiles]] *co-chaired Florida/DC offices* [[Mercury Public Affairs]] · 2022-02 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Susie Wiles]] *former partner* [[Ballard Partners]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Susie Wiles]] *former partner of* [[Ballard Partners]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Susie Wiles]] *formerly worked at* [[Ballard Partners]] · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]

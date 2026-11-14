@@ -2,8 +2,8 @@
 id: "reuters"
 kind: "entity"
 type: "media"
-connections: 12
-claims: 8
+connections: 11
+claims: 7
 tags:
   - "entity"
   - "type/media"
@@ -15,8 +15,8 @@ Syndicated the FT pricing report and named Truth API customers
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 8 claims |
-| Connections | 12 |
+| Appears in | 7 claims |
+| Connections | 11 |
 
 ## How other claims describe it
 
@@ -35,7 +35,6 @@ Syndicated the FT pricing report and named Truth API customers
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
 
 ## Relationships
 

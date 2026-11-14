@@ -2,7 +2,7 @@
 id: "massad-boulos"
 kind: "entity"
 type: "person"
-connections: 13
+connections: 16
 claims: 3
 tags:
   - "entity"
@@ -10,23 +10,24 @@ tags:
 ---
 # Massad Boulos
 
-Tiffany Trump's father-in-law; Senior Advisor for Africa and Arab affairs since 2025
+Senior Advisor for Africa; Tiffany Trump's father-in-law; fronted DRC-Rwanda minerals diplomacy.
 
 | | |
 |---|---|
 | Type | Person |
 | Appears in | 3 claims |
-| Connections | 13 |
+| Connections | 16 |
 
 ## How other claims describe it
 
+- Tiffany Trump's father-in-law; Senior Advisor for Africa and Arab affairs since 2025
 - Senior adviser for Africa; father-in-law of Tiffany Trump
 
 ## Appears in claims
 
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 
 ## Relationships
 
@@ -40,16 +41,20 @@ Tiffany Trump's father-in-law; Senior Advisor for Africa and Arab affairs since 
 
 - [[Massad Boulos]] *led minerals-for-security talks with* [[Democratic Republic of the Congo]] · 2025-04-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 
-### Political (6)
+### Political (9)
 
+- [[KoBold Metals]] *credited for Manono deal* [[Massad Boulos]] · 2025 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[KoBold Metals]] *credited for opening doors on Manono* [[Massad Boulos]] · 2025 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Massad Boulos]] *described with him as 'prime movers' in DRC talks (Africa Confidential)* [[Gentry Beach]] · 2025 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Donald Trump]] *appointed senior adviser for Africa/Arab affairs* [[Massad Boulos]] · 2025-04 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Massad Boulos]] *met in Paris* [[Bola Tinubu]] · 2025-04 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Massad Boulos]] *senior adviser at* [[US State Department]] · 2025-04 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Massad Boulos]] *led US mediation toward* [[Washington Accords (DRC-Rwanda)]] · 2025-04/2025-12 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Massad Boulos]] *mediated minerals-for-security deal* [[Democratic Republic of the Congo]] · 2025-06-27 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Massad Boulos]] *announced plans to raise oil output* [[Libya]] · 2025-07 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 
-### Commercial (2)
+### Commercial (3)
 
 - [[Gilbert Chagoury]] *reported long-time patron of (Tablet; single-source)* [[Massad Boulos]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Massad Boulos]] *long-time business base (SCOA)* [[Nigeria]] · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Massad Boulos]] *managing director of* [[SCOA Nigeria PLC]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

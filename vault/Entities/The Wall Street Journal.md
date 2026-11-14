@@ -5,8 +5,8 @@ type: "media"
 aliases:
   - "WSJ"
   - "Wall Street Journal"
-connections: 34
-claims: 19
+connections: 35
+claims: 20
 tags:
   - "entity"
   - "type/media"
@@ -18,8 +18,8 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 19 claims |
-| Connections | 34 |
+| Appears in | 20 claims |
+| Connections | 35 |
 | Also known as | WSJ; Wall Street Journal |
 
 ## How other claims describe it
@@ -50,6 +50,7 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 
 ## Relationships

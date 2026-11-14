@@ -6,8 +6,8 @@ aliases:
   - "Abu Dhabi"
   - "Dubai"
   - "UAE"
-connections: 45
-claims: 23
+connections: 46
+claims: 24
 tags:
   - "entity"
   - "type/country"
@@ -21,8 +21,8 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 23 claims |
-| Connections | 45 |
+| Appears in | 24 claims |
+| Connections | 46 |
 | Also known as | Abu Dhabi; Dubai; UAE |
 
 ## How other claims describe it
@@ -56,6 +56,7 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
 

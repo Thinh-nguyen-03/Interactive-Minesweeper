@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "U.S. International Development Finance Corp."
-connections: 8
-claims: 4
+connections: 10
+claims: 5
 tags:
   - "entity"
   - "type/government"
@@ -17,14 +17,15 @@ Reported to take a mid-teens stake in the Lukoil consortium vehicle.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 4 claims |
-| Connections | 8 |
+| Appears in | 5 claims |
+| Connections | 10 |
 | Also known as | U.S. International Development Finance Corp. |
 
 ## How other claims describe it
 
 - Issued letters of interest for Kaz Resources
 - Issued letters of interest for $700M.
+- $600M into Orion CMC.
 - US DFI
 
 ## Appears in claims
@@ -32,12 +33,14 @@ Reported to take a mid-teens stake in the Lukoil consortium vehicle.
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 
 ## Relationships
 
-### Money (4)
+### Money (5)
 
+- [[US International Development Finance Corporation]] *invested in* [[Orion Critical Mineral Consortium]] · 2025-10 · $600M · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[US International Development Finance Corporation]] *letters of interest $700M* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $700M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[US International Development Finance Corporation]] *non-binding letters of interest* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $700M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[US International Development Finance Corporation]] *letters of interest ~$700M* [[Kaz Resources]] · 2025-11 · $700M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

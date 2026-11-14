@@ -201,8 +201,7 @@ The core ownership chains are documented.
 
 **Confirmed** · Evidence: Documented (OCC decision; Senate letter)
 
-- World Liberty Trust Company, N.A.
-- (Bay Harbor Islands, FL) would be wholly owned by WLTC Holdings LLC, a Delaware LLC. The OCC states that WLF LLC and the bank share indirect common owners.
+- World Liberty Trust Company, N.A. (Bay Harbor Islands, FL) would be wholly owned by WLTC Holdings LLC, a Delaware LLC. The OCC states that WLF LLC and the bank share indirect common owners.
 - Zach Witkoff, son of envoy Steve Witkoff, is president and chairman.
 - The application was dated 5 Jan 2026 and announced 7 Jan; conditional approval came 14 Aug 2026; the WSJ reported StringZ's 49% on 27 Aug 2026, after approval.
 - The Witkoff family's WLF interest sits in WC Digital Fi LLC, which paid Steve Witkoff about $107M of 2025 income (C42).
