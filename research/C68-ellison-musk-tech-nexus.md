@@ -57,7 +57,7 @@ Evidence grades:
 | 2026-06-11/12 | SpaceX IPO: $135 a share, about $1.77T valuation | documented |
 | 2026 summer | DOJ clears Paramount-WBD | documented |
 | 2026-08-04 | EA buyout closes: PIF about 93.4%, Silver Lake about 5.5%, Affinity about 1.1% | documented |
-| about 2026-09-29 | Paramount-WBD closes | documented (day inferred from AP's "Tuesday") |
+| 2026-10-06 | Paramount-WBD closes, after settlements with a coalition of states and a writers' union | documented (AP via KSAT; corrected in audit) |
 | 2026-10-15 | Washington Post leaks the ballroom spreadsheet: Nvidia $25M (anonymous), Microsoft and Palantir $10M each, Meta and Amazon $5M each | documented |
 
 ## Connections
@@ -279,3 +279,14 @@ Trump held Oracle while approving the TikTok structure that gave Oracle 15%. The
 50. Yahoo Finance, Trump praises PLTR after buying it, 2026-05. https://finance.yahoo.com/markets/stocks/articles/trump-praises-palantir-pltr-truth-044917332.html
 
 The full source list, with titles, publishers and dates, is in `data/claims/C68.json`.
+
+## Audit (second review, Nov 2026)
+
+Result: **corrected**.
+- Re-checked: Nvidia's $25M anonymous ballroom pledge; the Paramount/WBD timeline; the SpaceX IPO figures and 1789 Capital's stakes; the Brockmans' $25M to MAGA Inc.
+- **Correction:** Paramount closed the WBD takeover on Tuesday 2026-10-06 (AP via KSAT), not about 2026-09-29 as first inferred. The timeline, finding, source date and relationship date are fixed.
+- **Nvidia:** upheld. Reuters, relaying the Post, said it had not verified the leaked spreadsheet. The Post dates Nvidia's gift to October 2025, after the China chip-sales arrangement. The list excludes in-kind gifts.
+- **SpaceX:** upheld at $135 a share, about $75B raised, priced 2026-06-11 and listed 2026-06-12, about $1.77T at pricing. Later valuations of $2T or more are post-debut.
+- **1789 Capital:** its xAI/SpaceX stakes (more than $50M, reported) are upheld. No source quantifies its IPO gain, so that stays **inferred**.
+- **Brockman:** upheld. The FEC lists $12.5M from each spouse.
+- New sources: KSAT/AP, 2026-10-06 (https://www.ksat.com/news/politics/2026/10/06/paramount-closes-on-81-billion-takeover-of-warner-bros-discovery-joining-two-of-americas-oldest-hollywood-studios/); Canberra Times/Reuters, 2026-10-16 (https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/); Aftermath (https://aftermath.site/nvidia-microsoft-white-house-ballroom/); CBS News (https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/); Daily Beast (https://www2.thedailybeast.com/maga-figures-cash-in-big-on-elon-musks-space-venture); Spokesman-Review/Reuters (https://www.spokesman.com/stories/2026/jan/02/trump-aligned-maga-inc-super-pac-enters-2026-with-).

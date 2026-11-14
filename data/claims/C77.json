@@ -32,7 +32,7 @@
     {
       "statement": "Trump-circle figures hold a stake in the firm helping to develop Tanbreez (GreenMet).",
       "verdict": "confirmed",
-      "finding": "Evidence: documented (OCCRP/NPR 2026-01-22, Bloomberg 2025 feature, CNBC via CB Insights, Mining.com). GreenMet, the trade name of Greentech Minerals Holdings (founded 2021), agreed with Critical Metals to help develop Tanbreez. It brokers deals between Washington and critical-minerals companies. CEO Drew Horn was Mike Pence's policy director and a senior adviser to the DNI in Trump's first term. OCCRP found that George Sorial (former Trump Organization EVP and chief compliance counsel) and Keith Schiller (Trump's longtime bodyguard and former Oval Office operations director) are listed as beneficial shareholders, with Schiller also named as a director. Both say they are passive minority investors with no management role, and Sorial says he has no involvement with Greenland. Libra Group, an early backer, sold its non-controlling stake on 2025-11-04. In Oct 2026 GreenMet signed a $1M contract to help a DRC miner (Kamituga Mining) build ties with the U.S. government. What this does not show: that GreenMet's Trump-circle shareholders shaped EXIM's or the Pentagon's handling of Tanbreez. GreenMet's exact economic interest in Tanbreez is reported inconsistently.",
+      "finding": "Evidence: documented (OCCRP/NPR 2026-01-22, Bloomberg 2025 feature, CNBC via CB Insights, Mining.com). GreenMet, the trade name of Greentech Minerals Holdings (founded 2021), agreed with Critical Metals to help develop Tanbreez. It brokers deals between Washington and critical-minerals companies. CEO Drew Horn was Mike Pence's policy director and a senior adviser to the DNI in Trump's first term. OCCRP found that George Sorial (former Trump Organization EVP and chief compliance counsel) and Keith Schiller (Trump's longtime bodyguard and former Oval Office operations director) are listed as beneficial shareholders, with Schiller also named as a director. Both say they are passive minority investors with no management role, and Sorial says he has no involvement with Greenland. Libra Group, an early backer, sold its non-controlling stake on 2025-11-04. In Oct 2026 GreenMet signed a $1M contract to help a DRC miner (Kamituga Mining) build ties with the U.S. government. What this does not show: that GreenMet's Trump-circle shareholders shaped EXIM's or the Pentagon's handling of Tanbreez. GreenMet's exact economic interest in Tanbreez is reported inconsistently. Audit note: the 'director' status for Schiller comes from OCCRP's records. A low-quality dossier site claims both men resigned board and advisory roles in early 2025; we could not confirm that and have not adopted it.",
       "sources": [
         "https://www.npr.org/transcripts/nx-s1-5682258",
         "https://www.bloomberg.com/features/2025-greenland-trump-deals/",
@@ -64,7 +64,7 @@
     {
       "statement": "The Metals Company, advised by Cantor, is seeking the first U.S. deep-sea mining permits from NOAA, which sits under Lutnick; Lutnick's recusal is unclear.",
       "verdict": "mostly-accurate",
-      "finding": "Evidence: the link and timeline are documented (AP, NOAA, company releases); the recusal is unverified. AP (2026-05-21) reports that TMC 'has received financial advice from Cantor Fitzgerald', and other outlets call Cantor one of TMC's leading bankers. AP also notes that Lutnick 'is now in charge of NOAA and could be influential in the final decision on permits'. The April 2025 seabed-mining executive order gave Lutnick 60 days to expedite licences and permits. Timeline: TMC filed within about a week of the order; NOAA's streamlined rule allowing consolidated applications came in January 2026; TMC filed the first consolidated exploration-plus-commercial-recovery application on 2026-02-06; NOAA found it in full compliance around 2026-04-28 to 05-01; Federal Register publication, with a notice of intent for an EIS on 2026-08-17; public comment closed 2026-10-19; TMC expects a decision by end of Q1 2027. No commercial permit had been issued as of Nov 2026. Earthjustice and others are suing over NOAA's certification of a TMC USA exploration application. Recusal: the NYT reported in 2025 that Lutnick's ethics agreement would require him, at least initially, to recuse from matters involving 106 corporate entities. Whether TMC is on that list, and whether Lutnick has stepped back from TMC decisions, was not found. Commerce says he complies with all divestiture and recusal requirements. Korea Zinc took 5% of TMC for $85M in Jun 2025.",
+      "finding": "Evidence: the link and timeline are documented (AP, NOAA, company releases); the recusal is unverified. AP (2026-05-21) reports that TMC 'has received financial advice from Cantor Fitzgerald', and other outlets call Cantor one of TMC's leading bankers. AP also notes that Lutnick 'is now in charge of NOAA and could be influential in the final decision on permits'. The April 2025 seabed-mining executive order gave Lutnick 60 days to expedite licences and permits. Timeline: TMC filed within about a week of the order; NOAA's streamlined rule allowing consolidated applications came in January 2026; TMC filed the first consolidated exploration-plus-commercial-recovery application on 2026-02-06; NOAA found it in substantial compliance around 2026-03-09 and received an amended application on 2026-03-19, then found it in full compliance around 2026-04-28 to 05-01; Federal Register publication, with a notice of intent for an EIS on 2026-08-17; public comment closed 2026-10-19; TMC expects a decision by end of Q1 2027. No commercial permit had been issued as of Nov 2026. Earthjustice and others are suing over NOAA's certification of a TMC USA exploration application. Recusal: the NYT reported in 2025 that Lutnick's ethics agreement would require him, at least initially, to recuse from matters involving 106 corporate entities. Whether TMC is on that list, and whether Lutnick has stepped back from TMC decisions, was not found. Commerce says he complies with all divestiture and recusal requirements. Korea Zinc took 5% of TMC for $85M in Jun 2025.",
       "sources": [
         "https://wtop.com/news/2026/05/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/",
         "https://www.bnnbloomberg.ca/business/2026/05/21/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/",
@@ -73,13 +73,14 @@
         "https://www.barchart.com/story/news/1644737/noaa-determines-tmc-usas-consolidated-deep-seabed-mining-application-is-in-full-compliance",
         "https://earthjustice.org/press/2026/lawsuit-challenges-trump-administration-greenlighting-of-international-deep-sea-mining-exploration-permit",
         "https://www.yahoo.com/news/howard-lutnick-trumps-commerce-pick-194648767.html",
-        "https://www.mining.com/?p=1181501"
+        "https://www.mining.com/?p=1181501",
+        "https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09"
       ]
     },
     {
       "statement": "Cantor also raised money for a second NOAA seabed applicant, American Ocean Minerals (merging with Odyssey Marine).",
       "verdict": "confirmed",
-      "finding": "Evidence: documented (Reuters via Baird Maritime; company releases). On 2026-04-08 American Ocean Minerals Corp (AOMC) agreed an all-stock merger with Odyssey Marine Exploration, giving a combined company worth about $1B, to trade as AOMC. Reuters reported that Citigroup and Cantor Fitzgerald, chaired by Brandon Lutnick, arranged the private placement of more than $150M tied to the deal and serve as AOMC's capital-markets advisers. A $75M pre-public round closed in February. The chairman is Albanese, Rio Tinto CEO from 2007 to 2013. AOMC says two of its DSHMRA exploration applications are in full compliance, and NOAA advanced its Area-1 consolidated application on 2026-07-07. Cantor therefore banks at least two of the companies whose permits Lutnick's NOAA decides. AOMC is also on the NYT list of 14 (C60). Investor names and Cantor's fee are not public.",
+      "finding": "Evidence: documented (Reuters via Baird Maritime; company releases). On 2026-04-08 American Ocean Minerals Corp (AOMC) agreed an all-stock merger with Odyssey Marine Exploration, giving a combined company worth about $1B, to trade as AOMC. Reuters reported that Citigroup and Cantor Fitzgerald, chaired by Brandon Lutnick, arranged the private placement of more than $150M tied to the deal and serve as AOMC's capital-markets advisers. The company release calls them joint private placement agents. Closing was expected in late Q2 or Q3 2026, but we found no closing announcement through Nov 2026. A $75M pre-public round closed in February. The chairman is Albanese, Rio Tinto CEO from 2007 to 2013. AOMC says two of its DSHMRA exploration applications are in full compliance, and NOAA advanced its Area-1 consolidated application on 2026-07-07. Cantor therefore banks at least two of the companies whose permits Lutnick's NOAA decides. AOMC is also on the NYT list of 14 (C60). Investor names and Cantor's fee are not public.",
       "sources": [
         "https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal",
         "https://www.businesswire.com/news/home/20260408786194/en/",
@@ -1341,5 +1342,38 @@
       ],
       "source_url": "https://www.irishtimes.com/world/europe/2026/01/15/an-abandoned-building-a-billionaire-trump-pal-and-the-battle-for-greenland/"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Schiller and Sorial as GreenMet shareholders (OCCRP/NPR) and their response",
+      "Cantor's role with The Metals Company and the status of TMC's NOAA application",
+      "Cantor's role in American Ocean Minerals' >$150M placement and the Odyssey merger"
+    ],
+    "result": "upheld",
+    "changes": [
+      "AOMC: confirmed that Citi and Cantor were joint private placement agents and capital-markets advisers (company release, Reuters). Added that the merger's closing was not found through Nov 2026.",
+      "TMC: added NOAA's substantial-compliance finding (~2026-03-09) and the amended application (2026-03-19) before the full-compliance finding. Still no report of a Lutnick recusal on TMC, and Cantor is again described as one of TMC's leading bankers.",
+      "GreenMet: the shareholdings and the passive-investor denial were re-confirmed via CB Insights/CNBC. Schiller's director status rests on OCCRP. An unverified dossier claim that they left board roles in early 2025 was not adopted."
+    ],
+    "new_sources": [
+      {
+        "title": "TMC says deep-sea mining application makes permitting progress",
+        "publisher": "Mining Weekly",
+        "url": "https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09",
+        "date": "2026-03-09"
+      },
+      {
+        "title": "Odyssey to merge with ex-Rio Tinto CEO's deep-sea mining firm in $1b deal",
+        "publisher": "Baird Maritime (Reuters)",
+        "url": "https://www.bairdmaritime.com/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "Challenges persist for TMC's bid to mine the deep sea even after boost from Trump",
+        "publisher": "Pulitzer Center",
+        "url": "https://pulitzercenter.org/stories/challenges-persist-tmcs-bid-mine-deep-sea-even-after-boost-trump",
+        "date": "2026"
+      }
+    ]
+  }
 }

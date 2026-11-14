@@ -28,7 +28,7 @@
     {
       "statement": "Alvarez & Marsal received no-bid contracts worth up to about $350M to advise Kollitides's office.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented (ProPublica, Oct 2026, via Defense One/GovExec syndication; contract records). DoD awarded A&M a roughly $67M deal shortly after Kollitides arrived. About two months later it finalised a $281M no-bid contract with Alvarez & Marsal Federal to advise his office, for a combined ceiling of about $350M with about $31M paid. Kollitides was a partner at the legally distinct A&M Capital, which says he stopped working as a senior adviser there days before ProPublica's questions arrived. ProPublica did not establish that he chose the firm. The Pentagon says he followed all rules. Experts quoted by GovExec said taking part in a contract affecting one's own finances requires a waiver, and no waiver has been reported.",
+      "finding": "Evidence grade: documented (ProPublica, Oct 2026, via Defense One/GovExec syndication; contract records). DoD awarded A&M a roughly $67M deal shortly after Kollitides joined the Pentagon. Defense One dates the run of awards to 'since December' 2025, so he appears to have started there before his Feb 2026 EDU appointment; that start date is not otherwise documented, and no contract record found here confirms the $67M award. About two months later it finalised a $281M no-bid contract with Alvarez & Marsal Federal to advise his office, which Defense One calls the Business Operators for National Defense (BOND), for a combined ceiling of about $350M with about $31M paid. Kollitides was a partner at the legally distinct A&M Capital, which says he stopped working as a senior adviser there days before ProPublica's questions arrived. ProPublica did not establish that he chose the firm. The Pentagon says he followed all rules. Experts quoted by GovExec said taking part in a contract affecting one's own finances requires a waiver, and no waiver has been reported. A&M Federal has not published a full list of services under the $281M contract.",
       "sources": [
         "https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543",
         "https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/"
@@ -626,7 +626,7 @@
     {
       "source": "george-kollitides",
       "target": "economic-defense-unit",
-      "label": "director (SGE)",
+      "label": "director (SGE per Bloomberg Government, single-source)",
       "type": "political",
       "date": "2026-02"
     },
@@ -652,9 +652,9 @@
     {
       "source": "pentagon",
       "target": "alvarez-marsal-federal",
-      "label": "no-bid contracts (~$67M + $281M) advising EDU",
+      "label": "no-bid contracts (~$67M + $281M) advising Kollitides's office",
       "type": "money",
-      "date": "2026",
+      "date": "2025-12/2026",
       "amount_usd": 348000000
     },
     {
@@ -981,5 +981,38 @@
       ],
       "source_url": "https://www.washingtontechnology.com/contracts/2026/08/army-picks-m1-lead-10b-helicopter-school-transformation/415463/"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Kollitides's board seat, founder shares and resignation at D. Boral Acquisition I",
+      "Alvarez & Marsal no-bid contract figures ($67M + $281M, ~$31M paid) and timing",
+      "Pentagon and other parties' responses"
+    ],
+    "result": "upheld",
+    "changes": [
+      "A&M: kept the figures. Added that Defense One dates the awards to 'since December' 2025, so the first award came before Kollitides's Feb 2026 EDU appointment (he appears to have joined the Pentagon earlier). Added that ProPublica/Defense One name the advised office BOND (Business Operators for National Defense). The relationship date is now 2025-12/2026, and the label no longer says EDU. The $67M award is not confirmed by a contract record found here.",
+      "Marked the SGE status as single-source in the relationship label.",
+      "Board seat, the Feb 10 joining date, founder shares, the Sep 23, 2026 resignation and the Pentagon's declined comment were re-confirmed (Bloomberg Government; SamSearch relays the resignation)."
+    ],
+    "new_sources": [
+      {
+        "title": "Pentagon investment chief resigns from offshore company board amid governance concerns",
+        "publisher": "SamSearch",
+        "url": "https://samsearch.co/government-contracting-news/pentagon-investment-chief-resigns-from-offshore-company-board-amid-governance-concerns-209127",
+        "date": "2026-09"
+      },
+      {
+        "title": "DoD awards $349 million in no-bid consulting contracts to Alvarez & Marsal",
+        "publisher": "SamSearch",
+        "url": "https://samsearch.co/government-contracting-news/dod-awards-349-million-in-no-bid-consulting-contracts-to-alvarez-marsal-215723",
+        "date": "2026-10"
+      },
+      {
+        "title": "Get aligned or get left behind (Pentagon)",
+        "publisher": "Cato Institute",
+        "url": "https://www.cato.org/blog/get-aligned-or-get-left-behind-pentagon",
+        "date": "2026-07-29"
+      }
+    ]
+  }
 }

@@ -3,12 +3,12 @@
   "title": "The SPAC web: McGurn, Yorkville, Texas Ventures, Clear Street",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The SPAC web is real and larger than the brief: Yorkville controls four blank-cheque vehicles (MCGA, Texas Ventures III, Blue Water III, Yorkville International), McGurn is CEO of at least three of them while serving as TMTG interim CEO, and Trump Organization EVPs Glick and Garten sit on Texas Ventures III's board, which is merging with PlusAI at $800M. Two parts of the brief are off: McGurn resigned from the Trump sons' New America SPAC on Aug 5, 2026 (Dominari's Kyle Wool now runs it), and the Dominari/D. Boral underwriting cluster is separate from the Yorkville cluster, joined only through McGurn. Clear Street's tie is limited to the TMTG raise, and its IPO was postponed in Feb 2026. No Truth Social crypto ETF approval was found. The governance overlaps are documented; no source shows a transaction benefiting the Trump family beyond the sons' NWAX founder shares.",
+  "summary": "The SPAC web is real and larger than the brief: Yorkville controls four blank-cheque vehicles (MCGA, Texas Ventures III, Blue Water III, Yorkville International), McGurn is CEO of at least three of them while serving as TMTG interim CEO (and ran Texas Ventures III until Apr 22, 2026), and Trump Organization EVPs Glick and Garten sit on Texas Ventures III's board, which is merging with PlusAI at $800M. Two parts of the brief are off: McGurn resigned from the Trump sons' New America SPAC on Aug 5, 2026 (Dominari's Kyle Wool now runs it), and the Dominari/D. Boral underwriting cluster is separate from the Yorkville cluster, joined only through McGurn. Clear Street's tie is limited to the TMTG raise, and its IPO was postponed in Feb 2026. No Truth Social crypto ETF approval was found. The governance overlaps are documented; no source shows a transaction benefiting the Trump family beyond the sons' NWAX founder shares.",
   "sub_claims": [
     {
       "statement": "Kevin McGurn has run or sat on the board of at least six blank-cheque vehicles since 2025, four of them sponsored by Yorkville, while also advising and then running Trump Media.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented (SEC filings and company releases via search snippets; sec.gov was blocked for direct fetch). The roles: (1) CEO and director of Yorkville Acquisition Corp (MCGA) since Mar 31, 2025. (2) CEO of Blue Water Acquisition Corp III after Yorkville BW Acquisition Sponsor took it over in Nov 2025; the roic.ai filing profile lists him first among the new directors. (3) CEO and director of Yorkville International Capital Corp (YICC), which priced its IPO in June 2026; Renaissance Capital's IPO note calls him 'Interim CEO of Trump Media & Technology Group'. (4) Chairman, CEO and CFO, then CEO, of the Trump sons' New America Acquisition I (NWAX), and sole member of its sponsor, until he resigned on Aug 5, 2026. (5) Director of D. Boral Acquisition I, where he sat with Pentagon official George Kollitides (C74). (6) Siegelman and NewsTRACS also describe him as CEO of Texas Ventures Acquisition III, but the Sept 2026 PlusAI release names Troy Rillo as that SPAC's CEO, so that role is unverified (see the next item). He has advised TMTG since Dec 2024 and became interim CEO on Apr 21, 2026. These roles show heavy concentration in one person, not wrongdoing. SPAC officers often hold several posts, and conflicts are disclosed in the prospectuses.",
+      "finding": "Evidence grade: documented (SEC filings and company releases via search snippets; sec.gov was blocked for direct fetch). The roles: (1) CEO and director of Yorkville Acquisition Corp (MCGA) since Mar 31, 2025. (2) CEO of Blue Water Acquisition Corp III after Yorkville BW Acquisition Sponsor took it over in Nov 2025; the roic.ai filing profile lists him first among the new directors. (3) CEO and director of Yorkville International Capital Corp (YICC), which priced its IPO in June 2026; Renaissance Capital's IPO note calls him 'Interim CEO of Trump Media & Technology Group'. (4) Chairman, CEO and CFO, then CEO, of the Trump sons' New America Acquisition I (NWAX), and sole member of its sponsor, until he resigned on Aug 5, 2026. (5) Director of D. Boral Acquisition I, where he sat with Pentagon official George Kollitides (C74). (6) CEO of Texas Ventures Acquisition III from the Sept 2025 Yorkville takeover until he resigned 'effective immediately' on Apr 22, 2026, the day after he became TMTG interim CEO; the 8-K says the resignation was not due to any disagreement, and Troy Rillo was appointed CEO while staying CFO (TVA III 8-K, Apr 2026; audit). That is why the Sept 2026 PlusAI release names Rillo. He has advised TMTG since Dec 2024 and became interim CEO on Apr 21, 2026. These roles show heavy concentration in one person, not wrongdoing. SPAC officers often hold several posts, and conflicts are disclosed in the prospectuses.",
       "sources": [
         "https://www.sec.gov/Archives/edgar/data/2064658/000110465926037697/mcga-20251231x10k.htm",
         "https://www.roic.ai/quote/BLUWU",
@@ -16,13 +16,14 @@
         "https://www.sec.gov/Archives/edgar/data/0002074878/000149315226036181/form8-k.htm",
         "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
         "https://wendysiegelman.substack.com/p/two-trump-org-execs-and-two-trump",
-        "https://www.thewrap.com/media-platforms/journalism/trump-media-company-kevin-mcgurn-interim-ceo/"
+        "https://www.thewrap.com/media-platforms/journalism/trump-media-company-kevin-mcgurn-interim-ceo/",
+        "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926048534/tm2612658d1_8k.htm"
       ]
     },
     {
       "statement": "Texas Ventures Acquisition III was taken over by a Yorkville sponsor, and Trump Organization executives sit on its board.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented (8-K and FY2025 10-K via search snippets). TVA III closed a $225M IPO (22.5M units) in April 2025 under E. Scott Crist's TV Partners III. Under a Sept 18, 2025 purchase agreement, Yorkville Acquisition Sponsor II, LLC bought 7,500,000 Class B founder shares and 4,700,000 private warrants for $7.4M. That is about $0.99 for each founder share with warrants attached, against $10 per public unit. The whole prior board resigned. The 10-K lists Lawrence Glick (Trump Organization EVP of Development) and Alan Garten (Trump Organization EVP and Chief Legal Officer) as directors, with Mark Angelo as chairman and Omar Hasan as a director. Insider listings name Troy Rillo, a Yorkville Securities co-CEO, as CFO. NewsTRACS and Siegelman also list then-TMTG CEO Devin Nunes as a director. That is single-source and I could not confirm it in the 10-K excerpt. Whether he stayed on after leaving TMTG in April 2026 is unknown. I found no compensation figures for Glick or Garten.",
+      "finding": "Evidence grade: documented (8-K and FY2025 10-K via search snippets). TVA III closed a $225M IPO (22.5M units) in April 2025 under E. Scott Crist's TV Partners III. Under a Sept 18, 2025 purchase agreement, Yorkville Acquisition Sponsor II, LLC bought 7,500,000 Class B founder shares and 4,700,000 private warrants for $7.4M. That is about $0.99 for each founder share with warrants attached, against $10 per public unit. The whole prior board resigned. The 10-K lists Lawrence Glick (Trump Organization EVP of Development) and Alan Garten (Trump Organization EVP and Chief Legal Officer) as directors, with Mark Angelo as chairman and Omar Hasan as a director. Insider listings name Troy Rillo, a Yorkville Securities co-CEO, as CFO. Then-TMTG CEO Devin Nunes and TMTG general counsel Scott Glabe were also directors: a TVA III 8-K (date of report 23 Feb 2026, seen via search-result summaries on Stock Titan/Quantisnow) reports that Glabe and Nunes resigned from the board and its audit and compensation committees, and that Garten and Glick were appointed to those committees. Their directorships are therefore documented, ending Feb 2026 (audit correction; previously single-source). McGurn was CEO until Apr 22, 2026 and Rillo has been CEO and CFO since (8-K). I found no compensation figures for Glick or Garten.",
       "sources": [
         "https://www.sec.gov/Archives/edgar/data/0002033991/000110465925092948/tm2526796d1_8k.htm",
         "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926043863/tva-20251231x10k.htm",
@@ -30,7 +31,9 @@
         "https://www.marketscreener.com/news/texas-ventures-acquisition-iii-corp-announces-board-changes-effective-september-18-2025-ce7d5bdfda8ff023",
         "https://www.tipranks.com/news/company-announcements/texas-ventures-undergoes-major-sponsorship-and-management-shift",
         "https://newstracs.com/trump-org-and-trump-media-execs-are-directors-of-texas-ventures-acquisition-iii-corp/2026/01/16/",
-        "https://wendysiegelman.substack.com/p/two-trump-org-execs-and-two-trump"
+        "https://wendysiegelman.substack.com/p/two-trump-org-execs-and-two-trump",
+        "https://www.stocktitan.net/sec-filings/TVA/8-k-texas-ventures-acquisition-iii-corp-reports-material-event-2566adb1a983.html",
+        "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926048534/tm2612658d1_8k.htm"
       ]
     },
     {
@@ -160,7 +163,7 @@
     {
       "statement": "Trump Organization and Trump Media executives sit on SPAC boards controlled by Trump Media's own largest financier.",
       "verdict": "partly-accurate",
-      "finding": "Evidence grade: the board seats are documented for Glick and Garten (TVA III 10-K) and McGurn (BLUW, YICC, MCGA), and single-source for Nunes and Glabe (BLUW, TVA III). The characterization is inferred. Yorkville bought about $450M of TMTG stock under its 2024 equity line, co-led its 2025 raise, sponsors its ETFs and was partner in the CRO SPAC (C62). In 2025-26 it installed TMTG's CEO, TMTG's general counsel, TMTG's adviser and later interim CEO, and the Trump Organization's chief legal officer and development chief on the boards of SPACs it controls. No source reports what these directors are paid, whether they hold founder shares, or whether any Trump entity benefits. The Trump Organization says the sons have no involvement with Yorkville. This shows overlapping governance between a financier and its client, which is a conflict-of-interest question. It is not evidence of any transaction.",
+      "finding": "Evidence grade: the board seats are documented for Glick and Garten (TVA III 10-K) and McGurn (BLUW, YICC, MCGA), documented for Nunes and Glabe at TVA III (until their Feb 2026 resignations, per 8-K) and single-source for Nunes and Glabe at BLUW. The characterization is inferred. Yorkville bought about $450M of TMTG stock under its 2024 equity line, co-led its 2025 raise, sponsors its ETFs and was partner in the CRO SPAC (C62). In 2025-26 it installed TMTG's CEO, TMTG's general counsel, TMTG's adviser and later interim CEO, and the Trump Organization's chief legal officer and development chief on the boards of SPACs it controls. No source reports what these directors are paid, whether they hold founder shares, or whether any Trump entity benefits. The Trump Organization says the sons have no involvement with Yorkville. This shows overlapping governance between a financier and its client, which is a conflict-of-interest question. It is not evidence of any transaction.",
       "sources": [
         "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926043863/tva-20251231x10k.htm",
         "https://www.roic.ai/quote/BLUWU",
@@ -172,9 +175,9 @@
   ],
   "corrections": [
     "Brief says McGurn runs New America Acquisition I while TMTG interim CEO: he resigned as its CEO and director effective Aug 5, 2026, and Kyle Wool, who became chairman Feb 6, 2026, is now CEO.",
-    "Brief says McGurn runs Texas Ventures III: Siegelman/NewsTRACS say so, but the Sept 2026 PlusAI release names Troy Rillo as CEO, so this is unverified.",
+    "Brief says McGurn runs Texas Ventures III: he did, from the Sept 2025 Yorkville takeover until he resigned as CEO on Apr 22, 2026 (8-K), the day after becoming TMTG interim CEO. Troy Rillo has been CEO and CFO since. (The original pass had marked this unverified.)",
     "Brief lists D. Boral, Dominari and Yorkville as recurring sponsors/underwriters together: Dominari/D. Boral underwrote NWAX and D. Boral's own SPAC, while the Yorkville SPACs used Cohen & Company (YICC) and no Dominari/D. Boral role was found in them.",
-    "C62 lists Texas Ventures III's Trump Org directors as single-source: the FY2025 10-K names Lawrence Glick and Alan Garten, so this is documented. Nunes's directorship remains single-source.",
+    "C62 lists Texas Ventures III's Trump Org directors as single-source: the FY2025 10-K names Lawrence Glick and Alan Garten, so this is documented. Nunes and Glabe were also TVA III directors until they resigned in Feb 2026 (8-K), so that is documented too.",
     "Clear Street's IPO was not completed: it was cut from about $1.05B to about $351-364M and postponed on Feb 12, 2026."
   ],
   "denials_and_context": [
@@ -515,6 +518,12 @@
       "publisher": "TheWrap",
       "url": "https://www.thewrap.com/media-platforms/journalism/trump-media-company-kevin-mcgurn-interim-ceo/",
       "date": "2026-04-21"
+    },
+    {
+      "title": "Texas Ventures Acquisition III Corp Form 8-K (CEO resignation)",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926048534/tm2612658d1_8k.htm",
+      "date": "2026-04-24"
     }
   ],
   "entities": [
@@ -860,9 +869,9 @@
     {
       "source": "kevin-mcgurn",
       "target": "texas-ventures-acquisition-iii",
-      "label": "reported CEO of (unverified; release names Rillo)",
+      "label": "CEO of until resignation (8-K)",
       "type": "commercial",
-      "date": "2025-09"
+      "date": "2025-09/2026-04-22"
     },
     {
       "source": "yorkville-acquisition-sponsor-ii",
@@ -988,9 +997,9 @@
     {
       "source": "devin-nunes",
       "target": "texas-ventures-acquisition-iii",
-      "label": "director of (single-source)",
+      "label": "director of until Feb 2026 resignation (8-K)",
       "type": "commercial",
-      "date": "2025"
+      "date": "2025-09/2026-02"
     },
     {
       "source": "scott-glabe",
@@ -1028,7 +1037,7 @@
     {
       "source": "troy-rillo",
       "target": "texas-ventures-acquisition-iii",
-      "label": "CFO; named CEO in Sept 2026 release",
+      "label": "CFO; also CEO from Apr 22, 2026",
       "type": "commercial",
       "date": "2025-09-18"
     },
@@ -1258,6 +1267,13 @@
       "label": "spokesperson says sons have no involvement with Yorkville",
       "type": "commercial",
       "date": "2026-01"
+    },
+    {
+      "source": "scott-glabe",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "director of until Feb 2026 resignation (8-K)",
+      "type": "advisory",
+      "date": "2025-09/2026-02"
     }
   ],
   "leads": [
@@ -1319,5 +1335,48 @@
       ],
       "source_url": "https://www.theblock.co/news/regulation/2026-02-13-trump-media-and-technology-group-files-two-new-crypto-etf-proposals-following-sec-delay-389896"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Trump Organization EVPs Lawrence Glick and Alan Garten as Texas Ventures Acquisition III directors",
+      "McGurn's roles, especially the TVA III CEO post the original marked unverified",
+      "Nunes/Glabe directorships at TVA III (single-source in the original)",
+      "Wyden's Jun 25, 2026 inquiry into Yorkville International Capital and any reply",
+      "McGurn's Aug 5, 2026 NWAX resignation and Kyle Wool's succession"
+    ],
+    "result": "corrected",
+    "changes": [
+      "McGurn's TVA III CEO role changed from unverified to documented: a TVA III 8-K reports he resigned as CEO effective Apr 22, 2026 (no disagreement) and Rillo was appointed CEO while remaining CFO. This resolves the apparent conflict with the Sept 2026 PlusAI release. Updated sub-claim 0, corrections, summary and the relationship label/date.",
+      "Nunes and Glabe at TVA III upgraded from single-source to documented, with an end date: an 8-K (date of report 23 Feb 2026, seen via search summaries) reports both resigned from the board and committees and Garten/Glick joined the audit and compensation committees. Added a scott-glabe -> TVA III edge; Nunes/Glabe at BLUW remain single-source.",
+      "Glick/Garten directorships upheld (also on the committees as of Feb 2026); no later departure found, but current status after mid-2026 not confirmed.",
+      "Wyden inquiry upheld (Senate Finance release and letter; Trump Org spokesperson denial recorded); still no Yorkville reply or OFAC licence found.",
+      "NWAX handover upheld (8-K: McGurn out Aug 5, 2026, Wool CEO, board cut to five)."
+    ],
+    "new_sources": [
+      {
+        "title": "Texas Ventures Acquisition III Corp Form 8-K (CEO resignation, Rillo appointed)",
+        "publisher": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926048534/tm2612658d1_8k.htm",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "Texas Ventures Acquisition III 8-K summary (director resignations)",
+        "publisher": "Stock Titan",
+        "url": "https://www.stocktitan.net/sec-filings/TVA/8-k-texas-ventures-acquisition-iii-corp-reports-material-event-2566adb1a983.html",
+        "date": "2026-02"
+      },
+      {
+        "title": "New America Acquisition I announces leadership transition",
+        "publisher": "Stock Titan",
+        "url": "https://www.stocktitan.net/news/DOMH/new-america-acquisition-i-corp-announces-leadership-transition-kyle-fdnbjldega1q.html",
+        "date": "2026-08"
+      },
+      {
+        "title": "Senate Democrats probe Yorkville Venezuela fundraising plan",
+        "publisher": "Traders Union",
+        "url": "https://tradersunion.com/news/financial-news/show/2477977-senate-probe-yorkville-venezuela-trump-ties/",
+        "date": "2026-06"
+      }
+    ]
+  }
 }

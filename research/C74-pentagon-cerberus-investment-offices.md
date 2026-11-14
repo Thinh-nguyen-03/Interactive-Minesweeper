@@ -15,8 +15,8 @@ Builds on: C65 (sub-claim on Feinberg and Cerberus), C51 (drone ventures, OSC dr
    - An 8-K reports that Kollitides resigned as an independent director "for personal reasons" effective Sep. 23, 2026. A second 8-K (Nov. 6, 2026) puts McGurn and Ingargiola on its audit and compensation committees after another director left.
    - The board seat is documented. The co-directorship is documented. It shows a shared board, not a transaction.
 2. **The Alvarez & Marsal timeline.** *Documented: ProPublica, Oct. 2026, via Defense One and GovExec syndication.*
-   - DoD gave Alvarez & Marsal a roughly $67M deal shortly after Kollitides started.
-   - About two months later it finalised a $281M no-bid contract with Alvarez & Marsal Federal to advise Kollitides's own office. The combined ceiling is about $350M, of which about $31M had been paid.
+   - DoD gave Alvarez & Marsal a roughly $67M deal shortly after Kollitides started at the Pentagon. Defense One dates the awards to "since December" 2025, which is before his Feb 2026 EDU appointment. No contract record found here confirms the $67M figure.
+   - About two months later it finalised a $281M no-bid contract with Alvarez & Marsal Federal to advise Kollitides's own office, which Defense One calls BOND (Business Operators for National Defense). The combined ceiling is about $350M, of which about $31M had been paid.
    - Kollitides had been a partner at A&M Capital, a legally distinct affiliate. A&M Capital says he stopped working as a senior adviser to it "several days" before ProPublica's questions arrived.
    - ProPublica did not establish that he chose the firm. The Pentagon says he followed all rules. Ethics experts quoted by GovExec said taking part in a contract affecting one's own finances is generally illegal without a waiver. No waiver has been reported.
 3. **Kollitides is a special government employee.** *Single-source: Bloomberg Government; DefenseScoop reports the EDU structure.*
@@ -119,3 +119,11 @@ Direct fetches of news.bloomberglaw.com, sec.gov, defenseone.com and responsible
 29. Orda.kz, Cove Kaz seeks $400M from OSC (2026-05): https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/
 30. ProPublica, Vulcan deal (2026-05-28): https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house
 31. Semafor, Venezuela deal and OSC scrutiny (2026-09-02): https://www.semafor.com/article/09/02/2026/trumps-venezuela-deal-draws-scrutiny-of-obscure-pentagon-office
+
+## Second review (audit)
+
+Result: **upheld**. Re-checked: Kollitides's D. Boral board seat (joined Feb 10, resigned Sep 23, 2026) and his founder shares (Bloomberg Government; SamSearch relay), and the A&M figures ($67M + $281M, about $350M ceiling, about $31M paid; ProPublica via Defense One/GovExec).
+- **Refinement:** the awards run "since December" 2025, so the first came before Kollitides's Feb 2026 EDU appointment. The advised office is named BOND. The $67M award is not matched to a contract record.
+- The SGE status is now flagged as single-source in the relationship label.
+
+New sources: SamSearch, https://samsearch.co/government-contracting-news/pentagon-investment-chief-resigns-from-offshore-company-board-amid-governance-concerns-209127 and https://samsearch.co/government-contracting-news/dod-awards-349-million-in-no-bid-consulting-contracts-to-alvarez-marsal-215723; Cato, https://www.cato.org/blog/get-aligned-or-get-left-behind-pentagon

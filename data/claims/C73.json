@@ -17,7 +17,7 @@
   {
    "statement": "Kash Patel consulted for Qatar's embassy, got a March 2025 waiver for Qatar matters, and signed FBI security agreements in Doha in Dec 2025.",
    "verdict": "confirmed",
-   "finding": "DOCUMENTED. Patel's Trishul LLC listed the Qatari embassy as a client, and he did not register under FARA (C64). Jewish Insider: a March 2025 post-confirmation waiver let him engage on Qatar matters without stated limits. His Nov 2024 one-year recusal pledge had expired the month before he signed bilateral security agreements in Doha (Dec 2025), which the FBI did not announce. Public Citizen asked OGE to rescind the waiver, and a separate FARA complaint is unresolved. The nature of his Qatar work is still undisclosed.",
+   "finding": "DOCUMENTED. Patel's Trishul LLC listed the Qatari embassy as a client, and he did not register under FARA (C64). A waiver issued on 4 Mar 2025 by the FBI's ethics official covers 'a particular matter' related to Qatar; the public filing does not say what that matter is (Responsible Statecraft; Jewish Insider). His Nov 2024 one-year recusal pledge had expired the month before he signed bilateral security agreements in Doha (Dec 2025), which the FBI did not announce. Public Citizen asked OGE to rescind the waiver, and a separate FARA complaint is unresolved. The nature of his Qatar work is still undisclosed.",
    "sources": [
     "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/",
     "https://responsiblestatecraft.org/kash-patel-qatar/"
@@ -26,12 +26,13 @@
   {
    "statement": "EPA Administrator Lee Zeldin consulted for Heritage Advisors, the fund of Qatari royal Sheikh Sultan bin Jassim Al Thani, which also invested $50M in Newsmax and was the Qatari investor in the Menendez-Daibes bribery case.",
    "verdict": "mostly-accurate",
-   "finding": "Each link is DOCUMENTED; the chain is INFERRED (our cross-reference). (a) Zeldin's nominee disclosure showed consulting income from Heritage Advisors (The Intercept, 2025-02-11; Jewish Insider). (b) Heritage Advisors, founded by Sheikh Sultan bin Jassim Al Thani, was identified (NYT/ICIJ/Real Deal) as the 'Qatari Investment Co.' in the Jan 2024 superseding Menendez indictment. Prosecutors alleged Menendez pushed it to invest with Fred Daibes, partly by taking pro-Qatar actions. The Sheikh and Qatar were not accused. (c) Sheikh Sultan invested about $50M in Newsmax in 2019-20 (Washington Post/ICIJ). (d) Daibes paid Keith Schiller's Javelin Advisors $1M in Q1 2025 in a failed pardon bid (C64). No source links these threads, and no EPA decision touching Qatar was found.",
+   "finding": "Each link is DOCUMENTED; the chain is INFERRED (our cross-reference). (a) Zeldin's OGE 278e nominee disclosure lists Heritage Advisors (London) as a consulting client of Zeldin Strategies; Jewish Insider reports compensation above $5,000 for April-December 2023 (The Intercept, 2025-02-11; Jewish Insider). His spokesperson declined to comment; Senate EPW Republicans said he disclosed everything required. (b) Heritage Advisors, founded by Sheikh Sultan bin Jassim Al Thani, was identified (NYT/ICIJ/Real Deal) as the 'Qatari Investment Co.' in the Jan 2024 superseding Menendez indictment. Prosecutors alleged Menendez pushed it to invest with Fred Daibes, partly by taking pro-Qatar actions. The Sheikh and Qatar were not accused. (c) Sheikh Sultan invested about $50M in Newsmax in 2019-20 (Washington Post/ICIJ). (d) Daibes paid Keith Schiller's Javelin Advisors $1M in Q1 2025 in a failed pardon bid (C64). No source links these threads, and no EPA decision touching Qatar was found.",
    "sources": [
     "https://theintercept.com/2025/02/11/trump-qatar-ethics-patel-zeldin-bondi/",
     "https://jewishinsider.com/2025/02/lee-zeldin-epa-administrator-qatar-financial-disclosures/",
     "https://therealdeal.com/new-york/tristate/2024/01/03/updated-menendez-indictment-links-nj-developer-to-qatar",
-    "https://www.icij.org/inside-icij/2024/03/qatari-royal-invested-about-50-million-in-pro-trump-network-newsmax/"
+    "https://www.icij.org/inside-icij/2024/03/qatari-royal-invested-about-50-million-in-pro-trump-network-newsmax/",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B4586F4FD7718EA485258C0F00336FAE/%24FILE/Zeldin%2C Lee  final278.pdf"
    ]
   },
   {
@@ -55,16 +56,17 @@
   {
    "statement": "Ballard Partners has a current Qatar embassy contract.",
    "verdict": "unverified",
-   "finding": "UNVERIFIED. The Washington Free Beacon reports a Ballard contract with the Qatari embassy at $175K/month, but the date could not be established (page not fetchable here). An industry tracker lists a $2.1M one-year pact. Sludge's Feb 2026 roster of Ballard foreign clients does not name Qatar. No 2025-26 FARA filing was confirmed.",
+   "finding": "UNVERIFIED. The Washington Free Beacon reports a Ballard contract with the Qatari embassy at $175K/month (second payment due 1 May), but the date could not be established (page not fetchable here). Audit note: $175K x 12 matches the $2.1M one-year pact Florida Politics reported when Qatar hired Ballard in spring 2018 ahead of the Emir's visit, so the Free Beacon figure most likely describes the 2018 contract, not a current one (our inference from the matching figures). Sludge's Feb 2026 roster of Ballard foreign clients does not name Qatar. No 2025-26 FARA filing was confirmed.",
    "sources": [
     "https://freebeacon.com/?p=1007167",
-    "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/"
+    "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/",
+    "https://floridapolitics.com/archives/260868-qatar-taps-ballard-partners-for-2-1-million-push-ahead-of-emirs-visit"
    ]
   },
   {
    "statement": "An Apollo-run trust partly owned by Qatar put $100M into the Witkoff Group in 2025.",
    "verdict": "misleading",
-   "finding": "WEAKENED by a correction. The NYT (Sept 2025) reported $100M 'as recently as May' from an Apollo-run trust partly owned by Qatar. Commercial Observer describes it as a $100M Apollo refinancing of the Witkoff/Access West Palm Beach golf resort. A correction relayed by the Jerusalem Post and others says the lender was Apollo Global Management, not the subsidiary in which Qatar invested. We saw search text only; the page was not fetchable. Apollo says Qatar-linked investors do not direct investments. The QIA purchase of the Park Lane (~$623M, Aug 2023, from a Witkoff-Mubadala JV) remains DOCUMENTED (C53).",
+   "finding": "WEAKENED by a correction. The NYT (Sept 2025) reported $100M 'as recently as May' from an Apollo-run trust partly owned by Qatar. Commercial Observer describes it as a $100M Apollo refinancing of the Witkoff/Access West Palm Beach golf resort. A correction relayed by the Jerusalem Post and others says the lender was Apollo Global Management, not the subsidiary in which Qatar invested. We saw search text only; the page was not fetchable. Apollo says Qatar-linked investors do not direct investments. The QIA purchase of the Park Lane (~$623M, Aug 2023, from a Witkoff-Mubadala JV) remains DOCUMENTED (C53). The Witkoff family's lawyer (Parlatore) threatened the NYT with a defamation suit unless it corrected the story; Qatar's International Media Office also called the report false (Gulf Times/Peninsula).",
    "sources": [
     "https://commercialobserver.com/2025/05/witkoff-access-west-palm-beach-dutchmans-pipe-golf-club-belgrove-resort-spa/",
     "https://www.jpost.com/american-politics/article-869981",
@@ -151,7 +153,8 @@
   "DOJ says career ethics officials cleared Bondi's role in the jet memo, which remains unreleased.",
   "Newsmax denies softening Qatar coverage; Carlson denies taking Qatari money.",
   "Hegseth says the Idaho facility is not a Qatari base, and the plan dates to 2022. The MQ-9B request predates Trump, and the 2026 sales followed the Iran war.",
-  "Qatar's lobbying is legal and disclosed under FARA; a documented tie is not proof of influence."
+  "Qatar's lobbying is legal and disclosed under FARA; a documented tie is not proof of influence.",
+  "The Witkoff family threatened the NYT with a defamation suit over the Sept 2025 story; Qatar's International Media Office says Qatar declined to invest in Alex Witkoff's fund pitch."
  ],
  "sources": [
   {
@@ -872,9 +875,9 @@
   {
    "source": "heritage-advisors",
    "target": "lee-zeldin",
-   "label": "paid consulting fees to",
+   "label": "paid consulting fees (>$5K, Apr-Dec 2023) to",
    "type": "money",
-   "date": "2024"
+   "date": "2023-04"
   },
   {
    "source": "sultan-bin-jassim-al-thani",
@@ -1315,5 +1318,46 @@
    ],
    "source_url": "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/"
   }
- ]
+ ],
+ "audit": {
+  "checked": [
+   "Zeldin's consulting income from Heritage Advisors (OGE 278e, amount and period)",
+   "Patel's March 2025 Qatar waiver and the Dec 2025 Doha security agreements",
+   "The NYT correction on the Witkoff $100M Apollo loan",
+   "Whether Ballard holds a current Qatar embassy contract ($175K/month)"
+  ],
+  "result": "upheld",
+  "changes": [
+   "Zeldin: added OGE 278e detail (Heritage Advisors, London, a client of Zeldin Strategies; >$5,000, Apr-Dec 2023 per Jewish Insider) and corrected the relationship date from 2024 to 2023. Accountable.US gives 2024; the OGE form and Jewish Insider support 2023.",
+   "Patel: tightened the waiver description. It was issued on 4 Mar 2025 by the FBI ethics official for 'a particular matter' related to Qatar, not an unlimited licence for Qatar matters. The Doha MOUs (Dec 2025, not announced by the FBI) are confirmed by Qatari state media (The Peninsula).",
+   "Ballard: the $175K/month Free Beacon figure matches the 2018 $2.1M one-year Qatar contract, so it is most likely historical. The sub-claim stays unverified, and the label is marked as our inference.",
+   "Witkoff: recorded the family's defamation threat against the NYT and Qatar's denial."
+  ],
+  "new_sources": [
+   {
+    "title": "Zeldin, Lee — OGE Form 278e nominee report",
+    "publisher": "U.S. Office of Government Ethics",
+    "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B4586F4FD7718EA485258C0F00336FAE/%24FILE/Zeldin%2C Lee  final278.pdf",
+    "date": "2025-01"
+   },
+   {
+    "title": "Qatar taps Ballard Partners for $2.1 million push ahead of Emir's visit",
+    "publisher": "Florida Politics",
+    "url": "https://floridapolitics.com/archives/260868-qatar-taps-ballard-partners-for-2-1-million-push-ahead-of-emirs-visit",
+    "date": "2018-04"
+   },
+   {
+    "title": "Minister of Interior meets with FBI Director",
+    "publisher": "The Peninsula",
+    "url": "https://s.thepeninsula.qa/article/09/12/2025/minister-of-interior-meets-with-fbi-director",
+    "date": "2025-12-09"
+   },
+   {
+    "title": "Witkoff family threatens NYT with defamation suit",
+    "publisher": "Yahoo News",
+    "url": "https://www.yahoo.com/news/articles/witkoff-family-threatens-nyt-defamation-212437336.html",
+    "date": "2025-09"
+   }
+  ]
+ }
 }

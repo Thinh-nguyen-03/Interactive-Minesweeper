@@ -42,6 +42,7 @@ Bolton told Forbes that Ronald Lauder gave Trump the idea of buying Greenland. P
   - April 2025: Trump's executive order gave Commerce 60 days to speed up seabed permits.
   - About a week later: TMC filed its applications.
   - 2026-02-06: TMC filed the first combined exploration and commercial-recovery application.
+  - Around 2026-03-09: NOAA found the application in substantial compliance. An amended application followed on 2026-03-19.
   - Around 2026-04-28 to 05-01: NOAA found the application in full compliance.
   - 2026-08-17: NOAA published a notice of intent to prepare an environmental impact statement.
   - 2026-10-19: public comment closed.
@@ -50,7 +51,7 @@ Bolton told Forbes that Ronald Lauder gave Trump the idea of buying Greenland. P
 - **Recusal:** the NYT reported in 2025 that Lutnick would initially recuse himself from matters involving 106 entities. Whether TMC is on that list was not found. *Unverified.*
 
 ### 5. A second Cantor-banked seabed applicant: American Ocean Minerals
-On 2026-04-08, AOMC agreed an all-stock merger with Odyssey Marine Exploration worth about $1B. Reuters reports that Citigroup and Cantor (chaired by Brandon Lutnick) arranged the private placement of more than $150M and act as AOMC's capital-markets advisers. NOAA advanced AOMC's Area-1 application on 2026-07-07. The investors' names and Cantor's fees are not public. *Documented.*
+On 2026-04-08, AOMC agreed an all-stock merger with Odyssey Marine Exploration worth about $1B. Reuters reports that Citigroup and Cantor (chaired by Brandon Lutnick) arranged the private placement of more than $150M and act as AOMC's capital-markets advisers. NOAA advanced AOMC's Area-1 application on 2026-07-07. The investors' names and Cantor's fees are not public. We found no announcement that the merger has closed through Nov 2026. *Documented.*
 
 ### 6. USA Rare Earth PIPE and "Trump allies"
 - **The deal:** the PIPE closed on 2026-01-29: about 69.8M shares at $21.50, with Cantor as lead placement agent and Moelis as co-agent. Commerce signed the final agreements on 2026-06-03: $277M in funding plus a $1.3B loan, for about 16.1M shares and about 17.6M warrants (reported exercise price $17.17).
@@ -137,3 +138,12 @@ On 2026-04-08, AOMC agreed an all-stock merger with Odyssey Marine Exploration w
 53. Dermot Cole, Ambler windfall, 2025-10-07. https://www.dermotcole.com/reportingfromalaska/2025/10/7/billionaire-trump-donor-gains-70-million-in-ambler-windfall
 54. Mining.com, Paulson sells Trilogy stake, 2025. https://www.mining.com/web/billionaire-paulson-sells-stake-in-alaska-focused-trilogy-metals/
 55. E&E News, former Trump staffers angle for minerals cash, 2025-08-26. https://www.eenews.net/articles/former-trump-staffers-allies-angle-for-minerals-cash/
+
+## Second review (audit)
+
+Result: **upheld**. Re-checked:
+- **GreenMet.** Schiller and Sorial are confirmed as shareholders. They say they are passive. Schiller's director status rests on OCCRP. An unverified claim that they resigned roles in early 2025 was not adopted.
+- **TMC.** Cantor is again described as one of TMC's leading bankers, and no Lutnick recusal was found. We added the substantial-compliance step (~2026-03-09) and the amended filing (2026-03-19).
+- **AOMC.** Citi and Cantor are confirmed as joint placement agents for the >$150M raise. No merger closing was found through Nov 2026.
+
+New sources: Mining Weekly https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09; Baird Maritime https://www.bairdmaritime.com/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal; Pulitzer Center https://pulitzercenter.org/stories/challenges-persist-tmcs-bid-mine-deep-sea-even-after-boost-trump

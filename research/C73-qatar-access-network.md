@@ -24,7 +24,7 @@ The new material is about the memo itself. The DOJ memo clearing the jet has sti
 **Grade: documented.**
 
 - Patel's Trishul LLC listed Qatar's embassy as a client. He never registered under FARA.
-- After confirmation he received a **March 2025 ethics waiver** that let him take part in Qatar-related matters. Its scope was not published.
+- After confirmation he received a **4 March 2025 ethics waiver** from the FBI's ethics official for "a particular matter" related to Qatar. The matter is not named in the public filing.
 - In **December 2025** he signed bilateral security agreements in Doha (Jewish Insider). The FBI did not announce the trip or the agreements.
 - Jewish Insider reports that his **November 2024 one-year recusal pledge had expired** the month before.
 - Public Citizen has asked OGE to rescind the waiver, and a separate FARA complaint is open. We found no outcome for either.
@@ -34,7 +34,7 @@ The new material is about the memo itself. The DOJ memo clearing the jet has sti
 ### 3. Lee Zeldin: consulting for a Qatari royal's fund that ties into Newsmax and the Menendez case
 **Grade: each link documented; the chain is our inference.**
 
-**(a) Zeldin's consulting.** Zeldin's 2025 nominee disclosure showed consulting fees from **Heritage Advisors** (The Intercept, 2025-02-11). Jewish Insider described the payer as a Qatari-royal investor.
+**(a) Zeldin's consulting.** Zeldin's 2025 nominee disclosure (OGE 278e) lists **Heritage Advisors** (London) as a consulting client of Zeldin Strategies. Jewish Insider reports compensation above $5,000 for April-December 2023 (The Intercept, 2025-02-11). Jewish Insider described the payer as a Qatari-royal investor.
 
 **(b) Heritage Advisors in the Menendez case.** Heritage Advisors was founded by **Sheikh Sultan bin Jassim Al Thani**. NYT, ICIJ and The Real Deal identify it as the "Qatari Investment Co." in the superseding Menendez indictment (January 2024). Prosecutors alleged that Menendez steered that fund to invest with developer **Fred Daibes**, partly by taking pro-Qatar actions. Neither the Sheikh nor Qatar was accused.
 
@@ -63,7 +63,7 @@ Kerik was pardoned by Trump in 2020 and had worked alongside Giuliani on Trump's
 ### 6. Ballard Partners back on Qatar's payroll?
 **Grade: unverified.**
 
-- The Free Beacon reports an embassy contract at **$175K a month**, but its date could not be established.
+- The Free Beacon reports an embassy contract at **$175K a month**, but its date could not be established. *Audit note:* $175K x 12 matches the $2.1M one-year pact Qatar signed with Ballard in spring 2018 (Florida Politics), so the figure is most likely historical. That is our inference.
 - An industry tracker (everything-pr) lists a **$2.1M one-year** Ballard Qatar pact.
 - Sludge's February 2026 list of Ballard foreign clients, used in C64, does not name Qatar.
 
@@ -205,3 +205,13 @@ All of the following are our own cross-referencing; no outlet asserts them.
 39. Washington Free Beacon, "Owner of Trump's Qatari Air Force One linked to Bob Menendez corruption scandal" (headline only seen). https://freebeacon.com/?p=2031229
 40. Ynet, "Qatar lobby reaches deep into US conservative media, documents show", 2025. https://www.ynetnews.com/business/article/hjuuz7p11xe
 41. Sludge, "Foreign interests are paying millions to a Trump-linked lobbying firm", 2026-02-05. https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/
+
+## Second review (audit)
+
+Result: **upheld**. We re-checked four points with fresh searches.
+- **Zeldin and Heritage Advisors** is confirmed by the OGE 278e, which lists Heritage Advisors, London, as a Zeldin Strategies client. Jewish Insider reports more than $5,000 for April-December 2023. We corrected the relationship date to 2023.
+- **Patel.** We narrowed the waiver wording. It was issued on 4 March 2025 by the FBI ethics official for "a particular matter" related to Qatar. Qatari state media confirm the December 2025 Doha meeting.
+- **Ballard.** The $175K/month figure matches the 2018 contract, so it is likely historical. The claim stays unverified.
+- **The Witkoff correction is upheld.** We added the family's defamation threat and Qatar's denial.
+
+New sources: OGE 278e (Zeldin); Florida Politics, 2018 Ballard-Qatar contract https://floridapolitics.com/archives/260868-qatar-taps-ballard-partners-for-2-1-million-push-ahead-of-emirs-visit; The Peninsula, 2025-12-09 https://s.thepeninsula.qa/article/09/12/2025/minister-of-interior-meets-with-fbi-director; Yahoo News, Witkoff defamation threat https://www.yahoo.com/news/articles/witkoff-family-threatens-nyt-defamation-212437336.html

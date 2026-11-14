@@ -23,7 +23,7 @@
 | 2025-05-07 to 10 | Operation Sindoor. Squire Patton Boggs sends 50+ emails; Javelin contacts Jackson's office | documented (filings as reported) |
 | 2025-05-10 | Trump announces the ceasefire. India denies any US mediation | documented |
 | 2025-05-14 | Squire Patton Boggs emails a US diplomat proposing a partnership "centred on trade, especially mines and minerals" | documented (as reported) |
-| 2025-05-15 | Checkmate's contract starts, paid by Dubai-based Greystone. Scope: defence and minerals | documented; payer's owner unknown |
+| 2025-05-15 | Checkmate's contract starts, paid by Dubai-based Greystone: $100K Phase I, $200K Phase II option, general government relations | documented; payer's owner unknown |
 | 2025-05-28 | Jackson call, followed by an email with a draft MoU ("Delivery of Proposed MoU") | single-source |
 | 2025-06-18 | Trump-Munir lunch, Steve Witkoff present | documented |
 | 2025-06-21 | Pakistan nominates Trump for the Nobel Peace Prize | documented |
@@ -61,14 +61,15 @@ We could not read the filings ourselves and found no comment from Jackson. A cla
 ### 4. Squire Patton Boggs' wartime minerals pitch (confirmed; documented as reported)
 - **During the conflict:** the firm sent 50+ emails between 7 and 10 May.
 - **After the ceasefire:** on 14 May it emailed a US diplomat proposing a trade partnership with minerals at its centre.
-- **Other embassy lobbying:** the embassy also hired Ervin Graves Strategy Group, partly over the FATF grey list.
+- **Other embassy lobbying:** the embassy also hired Ervin Graves Strategy Group. The first contract (Oct 2025, $25K/month) was partly over the FATF grey list. A two-year, ~$1.2M contract followed (effective 2026-05-01), seeking a resumed defence dialogue, with a section on minerals cooperation.
 
 ### 5. Ceasefire, lunch and Nobel nomination (confirmed; documented)
 - **Credit for the ceasefire:** India rejects any US mediation.
 - **Arranging the lunch:** Dawn's insiders say it was secured by "unconventional means" but name no one.
 
-### 6. Checkmate via Greystone (mostly-accurate)
-- **Contract:** Daily Times describes a two-year, $1.2M contract covering defence and minerals. C64 cites a $100K Phase 1.
+### 6. Checkmate via Greystone (partly-accurate; corrected in audit)
+- **Contract:** FARA No. 7534. Greystone paid $100K on 2025-05-14 for a 30-day Phase I, with a $200K Phase II option. The filings describe general government-relations work (O'Dwyer's).
+- **Correction:** the two-year, ~$1.2M defence-and-minerals contract that Daily Times/AFP describe is the embassy's contract with **Ervin Graves Strategy Group** (effective 2026-05-01, $50K/month). It is not Checkmate's.
 - **Who pays:** Greystone's owners are not named in any coverage we found.
 
 ### 7. Trade deal, oil and tariff (confirmed; documented)
@@ -188,3 +189,12 @@ The figure is WLF's 2025 token-sale revenue. It is not Pakistani money, it is no
 - **Greystone (Dubai):** find out who owns it.
 - **Pasni and Reko Diq:** follow US state finance on the minerals corridor.
 - **Powerus:** it licensed its interceptor technology to India and then took a Pakistan MoD order. Check the export-control and emoluments angles.
+
+## Audit (second review, Nov 2026)
+
+Result: **corrected**.
+- Re-checked: Seiden Law (FARA 7570, signed 2025-04-08); Javelin (agreement 2025-04-24, FARA 7579 filed 2025-04-25, about $50K/month as a subcontractor); the Ronny Jackson filings; the Checkmate/Greystone terms; newer Pakistan lobbying coverage.
+- **Correction:** the $1.2M two-year defence/minerals deal belongs to Ervin Graves (May 2026), not to Checkmate. Sub-claim 6 is now partly-accurate.
+- **Seiden fee:** the monthly figure varies, $200K (Nukta, Global Witness) against $125K (CAPSS). The FARA PDFs could not be fetched (host blocked).
+- **Jackson:** stays **single-source**. We found no response from Jackson or Javelin and no independent confirmation outside the Indian outlets.
+- New sources: Arab News/AFP (https://www.arabnews.pk/node/2651238/pakistan); Malay Mail/AFP (https://www.malaymail.com/news/world/2026/07/18/defence-and-minerals-inside-pakistans-lobbying-push-in-washington/227949); Dawn (https://www.dawn.com/news/1998958); CAPSS (https://capssindia.org/wp-content/uploads/2026/01/CAPSS_InFocus_MS_20_01_26.pdf); India News Network (https://www.indianewsnetwork.com/en/ronny-jackson-linked-pakistan-500-million-mining-agreement-20260108).

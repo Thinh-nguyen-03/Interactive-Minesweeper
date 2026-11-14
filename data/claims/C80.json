@@ -41,7 +41,7 @@
     {
       "statement": "CFIUS handled the $55B EA buyout by PIF, Silver Lake and Kushner's Affinity.",
       "verdict": "mostly-accurate",
-      "finding": "DOCUMENTED. The deal closed on 2026-08-04 at $210 a share and EA was delisted. Press reports, Gameluster among them, say the remaining regulatory approvals came by 2026-07-30, and some trade outlets say this was confirmed in an EA SEC filing that included CFIUS. The EU cleared the deal under merger rules on around 2026-07-23 and under its foreign-subsidies rules on around 2026-07-31. As late as July, the merger agreement's outside date (2026-09-28, extendable to 12-28) was described as hinging on CFIUS. SINGLE-SOURCE/UNVERIFIED: we found no Treasury statement and no public mitigation terms. An automated commentary site says no data firewall was disclosed. Treasury Secretary Bessent chairs CFIUS. The deal's critics are on record: Sens. Blumenthal and Warren (letter of 2025-10-14) wrote that the investors appear to be 'betting $1 billion that Mr. Kushner can deliver' approvals, and Lawfare (Vinita Singh, 2025-10-03) predicted 'the CFIUS review that will never be'. We could not access the primary SEC filing, so the CFIUS clearance rests on press accounts.",
+      "finding": "DOCUMENTED. The deal closed on 2026-08-04 at $210 a share and EA was delisted. Press reports, Gameluster among them, say the remaining regulatory approvals came by 2026-07-30, and some trade outlets say this was confirmed in an EA SEC filing that included CFIUS. The EU cleared the deal under merger rules on around 2026-07-23 and under its foreign-subsidies rules on around 2026-07-31. As late as July, the merger agreement's outside date (2026-09-28, extendable to 12-28) was described as hinging on CFIUS. SINGLE-SOURCE/UNVERIFIED: we found no Treasury statement and no public mitigation terms. An automated commentary site says no data firewall was disclosed. Treasury Secretary Bessent chairs CFIUS. The deal's critics are on record: Sens. Blumenthal and Warren (letter of 2025-10-14) wrote that the investors appear to be 'betting $1 billion that Mr. Kushner can deliver' approvals, and Lawfare (Vinita Singh, 2025-10-03) predicted 'the CFIUS review that will never be'. We could not access the primary SEC filing, so the CFIUS clearance rests on press accounts. Audit: GamingBolt, Mobilegamer.biz and Tech-Insider again report that EA's 30 Jul 2026 SEC filing said all required approvals were obtained, with CFIUS the last hurdle that pushed closing past the original 30 Jun target; ABC News (as relayed) gives 5 Aug rather than 4 Aug as the closing date. Still no Treasury statement or mitigation terms.",
       "sources": [
         "https://gameluster.com/ea-acquisition-pif-leveraged-buyout/",
         "https://thenextweb.com/news/eu-approves-saudi-pif-ea-buyout-subsidy-rules",
@@ -65,7 +65,7 @@
     {
       "statement": "In 2026 the UAE got an export-control upgrade that named G42 for licence-free chips, after Tahnoon lobbied the White House.",
       "verdict": "confirmed",
-      "finding": "DOCUMENTED (BIS final rule, Skadden, Mondaq/Akin, Al-Monitor, Khaleej Times, DCD). BIS removed the UAE from Country Groups D:3/D:4 and added it to A:5, announced around 2026-07-10 and published in the Federal Register around 2026-07-14. Group 42 Holding (G42) and Core42 are listed in Supplement 8 to Part 740 as approved recipients of advanced-computing items without a licence, though not under License Exception STA. Their approval lapses after about 270 days, reported as around 2027-04-06, unless BIS extends it. Commerce said it would 'favorably review' MGX licence applications. Commerce cited UAE technology-protection measures and the UAE's support for the US in the 2026 Iran war. SINGLE-SOURCE (WSJ, relayed): Tahnoon led the lobbying and went directly to the White House after the war began. Sen. Warren (statement of 2026-07-10) called the rule a reward despite diversion risk and tied it to the Tahnoon-linked 49% stake in World Liberty. The White House and WLF deny any link.",
+      "finding": "DOCUMENTED (BIS final rule, Skadden, Mondaq/Akin, Al-Monitor, Khaleej Times, DCD). BIS removed the UAE from Country Groups D:3/D:4 and added it to A:5, announced around 2026-07-10 and published in the Federal Register around 2026-07-14. Group 42 Holding (G42) and Core42 are listed in Supplement 8 to Part 740 as approved recipients of advanced-computing items without a licence, though not under License Exception STA. Their approval lapses after about 270 days, reported as around 2027-04-06, unless BIS extends it. Commerce said it would 'favorably review' MGX licence applications. Commerce cited UAE technology-protection measures and the UAE's support for the US in the 2026 Iran war. SINGLE-SOURCE (WSJ, relayed): Tahnoon led the lobbying and went directly to the White House after the war began. Sen. Warren (statement of 2026-07-10) called the rule a reward despite diversion risk and tied it to the Tahnoon-linked 49% stake in World Liberty. The White House and WLF deny any link. Audit: law-firm alerts (Latham, Skadden, Morgan Lewis, Akin, Steptoe) give the rule's effective date as 10 Jul 2026, and say the G42/Core42 approval expires on 6 Apr 2027 unless they become 'U.S. companies' or obtain approval via BIS's advisory-opinion process, which is the stated driver of the G42 restructuring talks in the next item. The Tahnoon lobbying account is still known only through relays of the WSJ.",
       "sources": [
         "https://www.skadden.com/insights/publications/2026/07/bis-liberalizes-export",
         "https://www.mondaq.com/bis-upgrades-the-uae-from-country-group-d-to-country-group-a-under-the-ear-allowing-increased-trade-in-advanced-computing-and-defense-items/1818120",
@@ -122,156 +122,997 @@
     "No CFIUS decisions are published by law. The absence of a public decision is normal and is not itself evidence of a skipped review."
   ],
   "sources": [
-    {"title": "Trump and Jay Monahan meet at White House as PGA Tour deal with Saudis gets closer", "publisher": "AP via WSLS", "url": "https://www.wsls.com/news/politics/2025/02/06/trump-and-jay-monahan-meet-at-white-house-as-pga-tour-deal-with-saudis-gets-closer/", "date": "2025-02-06"},
-    {"title": "Tiger Woods, PGA Tour commissioner and PIF governor meet Thursday with President Trump at White House", "publisher": "Golf Channel", "url": "https://www.golfchannel.com/news/tiger-woods-pga-tour-commissioner-and-pif-governor-meet-thursday-with-president-trump-at-white-house", "date": "2025-02-20"},
-    {"title": "Donald Trump as powerbroker: PGA Tour-PIF deal at the White House", "publisher": "Golf Digest", "url": "https://www.golfdigest.com/story/donald-trump-powerbroker-pga-tour-pif-deal-white-house-2025", "date": "2025-03"},
-    {"title": "'There's No Merger, No Conversations' - Rolapp shuts down LIV talks", "publisher": "Golf Monthly", "url": "https://www.golfmonthly.com/news/theres-no-merger-no-conversations-pga-tour-ceo-brian-rolapp-shuts-down-liv-golf-talks", "date": "2026"},
-    {"title": "PGA Tour returns to Trump Doral for Cadillac Championship, first time since 2016", "publisher": "Fox Sports", "url": "https://www.foxsports.com/articles/golf/pga-tour-returns-to-trump-doral-this-week-for-cadillac-championship-first-time-there-since-2016", "date": "2026-04-27"},
-    {"title": "Cadillac returns as title sponsor for PGA Tour signature event at Doral", "publisher": "NBC Sports", "url": "https://www.nbcsports.com/golf/news/cadillac-returns-as-title-sponsor-for-pga-tour-signature-event-at-doral", "date": "2025-12-15"},
-    {"title": "LIV Golf appoints independent board, targets new investors after loss of Saudi backing", "publisher": "Reuters via The Star", "url": "https://www.thestar.com.my/sport/golf/2026/04/30/golf-liv-golf-appoints-independent-board-targets-new-investors-after-loss-of-saudi-backing", "date": "2026-04-30"},
-    {"title": "LIV Golf has lead investor and planning ahead for another season", "publisher": "AP via Local10", "url": "https://www.local10.com/sports/2026/08/05/liv-golf-has-lead-investor-and-planning-ahead-for-another-season/", "date": "2026-08-05"},
-    {"title": "LIV Golf secures 'lead' investor for player-driven future after Saudi exit", "publisher": "Al Jazeera", "url": "https://www.aljazeera.com/sports/2026/8/5/liv-golf-secures-lead-investor-for-player-driven-life-after-saudi-future", "date": "2026-08-05"},
-    {"title": "LIV Golf strikes a funding deal with a mystery investor", "publisher": "Insider Sport", "url": "https://insidersport.com/2026/08/06/liv-golf-lead-investor-pif-exit/", "date": "2026-08-06"},
-    {"title": "Saudi PIF Completes $55B EA Buyout", "publisher": "Gameluster", "url": "https://gameluster.com/ea-acquisition-pif-leveraged-buyout/", "date": "2026-08-04"},
-    {"title": "The EU clears the $55bn Saudi-led buyout of EA under its subsidy rules", "publisher": "The Next Web", "url": "https://thenextweb.com/news/eu-approves-saudi-pif-ea-buyout-subsidy-rules", "date": "2026-07-31"},
-    {"title": "Letter from Blumenthal and Warren to Secretary Bessent re Electronic Arts", "publisher": "US Senate HSGAC", "url": "https://www.hsgac.senate.gov/wp-content/uploads/2025-10-14-Letter-from-Blumenthal-and-Warren-to-Secretary-Bessent-re-Electronic-Arts.pdf", "date": "2025-10-14"},
-    {"title": "The CFIUS Review That Will Never Be", "publisher": "Lawfare", "url": "https://www.lawfaremedia.org/article/the-cfius-review-that-will-never-be", "date": "2025-10-03"},
-    {"title": "BlackRock-Led Consortium to Acquire Aligned Data Centers in $40 Billion AI Infrastructure Deal", "publisher": "Data Center Frontier", "url": "https://www.datacenterfrontier.com/hyperscale/article/55323360/blackrock-led-consortium-to-acquire-aligned-data-centers-in-40-billion-ai-infrastructure-deal", "date": "2025-10"},
-    {"title": "MGX, AIP and BlackRock's GIP complete $40bn acquisition of Aligned Data Centers", "publisher": "DatacenterDynamics", "url": "https://www.datacenterdynamics.com/en/news/mgx-aip-and-blackrocks-gip-complete-40bn-acquisition-of-aligned-data-centers/", "date": "2026-07"},
-    {"title": "The biggest data-centre deal in history just closed", "publisher": "The Next Web", "url": "https://thenextweb.com/news/aligned-data-centers-40-billion-blackrock-mgx", "date": "2026-07-21"},
-    {"title": "BIS Liberalizes Export Licensing Rules for Shipments to the UAE", "publisher": "Skadden", "url": "https://www.skadden.com/insights/publications/2026/07/bis-liberalizes-export", "date": "2026-07"},
-    {"title": "BIS upgrades the UAE from Country Group D to Country Group A under the EAR", "publisher": "Mondaq", "url": "https://www.mondaq.com/bis-upgrades-the-uae-from-country-group-d-to-country-group-a-under-the-ear-allowing-increased-trade-in-advanced-computing-and-defense-items/1818120", "date": "2026-07"},
-    {"title": "US makes it easier to export Nvidia AI chips and military equipment to UAE", "publisher": "Al-Monitor", "url": "https://www.al-monitor.com/originals/2026/07/us-makes-it-easier-export-nvidia-ai-chips-and-military-equipment-uae", "date": "2026-07"},
-    {"title": "US govt eases AI chip export controls on UAE following country's support in Iran war", "publisher": "DatacenterDynamics", "url": "https://www.datacenterdynamics.com/en/news/us-govt-eases-ai-chip-export-controls-on-uae-following-countrys-support-in-iran-war/", "date": "2026-07"},
-    {"title": "Senator Warren statement on removing export controls on AI chips to UAE", "publisher": "Senate Banking Committee (minority)", "url": "https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-trump-administrations-removing-export-controls-on-ai-chips-to-uae", "date": "2026-07-10"},
-    {"title": "WSJ: UAE wins AI chip access; G42 to reincorporate as US firm", "publisher": "AI Weekly (relaying WSJ)", "url": "https://aiweekly.co/alerts/wsj-uae-wins-ai-chip-access-g42-to-reincorporate-as-us-firm", "date": "2026-07"},
-    {"title": "G42 weighs selling US-majority stake to safeguard AI chips", "publisher": "AI Weekly (relaying Bloomberg)", "url": "https://aiweekly.co/alerts/bloomberg-g42-weighs-selling-majority-stake-to-us-firms-to-safeguard-nvidia", "date": "2026-09-04"},
-    {"title": "G42, US ownership and the export-control endgame", "publisher": "The Next Web", "url": "https://thenextweb.com/news/g42-us-ownership-chip-access-export-control-endgame", "date": "2026-09"},
-    {"title": "Those reports that G42 is going to be mostly US-owned? Take 'em with a kilo of salt", "publisher": "Enterprise AM", "url": "https://enterpriseam.com/menaplus/2026/07/17/those-reports-that-g42-is-going-to-be-mostly-us-downed-take-em-with-a-kilo-of-salt/", "date": "2026-07-17"},
-    {"title": "Will G42 become a US company?", "publisher": "Enterprise AM", "url": "https://enterpriseam.com/uae/2026/11/04/will-g42-become-a-us-company/", "date": "2026-11-04"},
-    {"title": "Abu Dhabi Investment Firm Lunate Takes On AI Firm G42's China Fund", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2024-07-08/abu-dhabi-investment-firm-lunate-takes-on-ai-firm-g42-s-china-fund", "date": "2024-07-08"}
+    {
+      "title": "Trump and Jay Monahan meet at White House as PGA Tour deal with Saudis gets closer",
+      "publisher": "AP via WSLS",
+      "url": "https://www.wsls.com/news/politics/2025/02/06/trump-and-jay-monahan-meet-at-white-house-as-pga-tour-deal-with-saudis-gets-closer/",
+      "date": "2025-02-06"
+    },
+    {
+      "title": "Tiger Woods, PGA Tour commissioner and PIF governor meet Thursday with President Trump at White House",
+      "publisher": "Golf Channel",
+      "url": "https://www.golfchannel.com/news/tiger-woods-pga-tour-commissioner-and-pif-governor-meet-thursday-with-president-trump-at-white-house",
+      "date": "2025-02-20"
+    },
+    {
+      "title": "Donald Trump as powerbroker: PGA Tour-PIF deal at the White House",
+      "publisher": "Golf Digest",
+      "url": "https://www.golfdigest.com/story/donald-trump-powerbroker-pga-tour-pif-deal-white-house-2025",
+      "date": "2025-03"
+    },
+    {
+      "title": "'There's No Merger, No Conversations' - Rolapp shuts down LIV talks",
+      "publisher": "Golf Monthly",
+      "url": "https://www.golfmonthly.com/news/theres-no-merger-no-conversations-pga-tour-ceo-brian-rolapp-shuts-down-liv-golf-talks",
+      "date": "2026"
+    },
+    {
+      "title": "PGA Tour returns to Trump Doral for Cadillac Championship, first time since 2016",
+      "publisher": "Fox Sports",
+      "url": "https://www.foxsports.com/articles/golf/pga-tour-returns-to-trump-doral-this-week-for-cadillac-championship-first-time-there-since-2016",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "Cadillac returns as title sponsor for PGA Tour signature event at Doral",
+      "publisher": "NBC Sports",
+      "url": "https://www.nbcsports.com/golf/news/cadillac-returns-as-title-sponsor-for-pga-tour-signature-event-at-doral",
+      "date": "2025-12-15"
+    },
+    {
+      "title": "LIV Golf appoints independent board, targets new investors after loss of Saudi backing",
+      "publisher": "Reuters via The Star",
+      "url": "https://www.thestar.com.my/sport/golf/2026/04/30/golf-liv-golf-appoints-independent-board-targets-new-investors-after-loss-of-saudi-backing",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "LIV Golf has lead investor and planning ahead for another season",
+      "publisher": "AP via Local10",
+      "url": "https://www.local10.com/sports/2026/08/05/liv-golf-has-lead-investor-and-planning-ahead-for-another-season/",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "LIV Golf secures 'lead' investor for player-driven future after Saudi exit",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/5/liv-golf-secures-lead-investor-for-player-driven-life-after-saudi-future",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "LIV Golf strikes a funding deal with a mystery investor",
+      "publisher": "Insider Sport",
+      "url": "https://insidersport.com/2026/08/06/liv-golf-lead-investor-pif-exit/",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Saudi PIF Completes $55B EA Buyout",
+      "publisher": "Gameluster",
+      "url": "https://gameluster.com/ea-acquisition-pif-leveraged-buyout/",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "The EU clears the $55bn Saudi-led buyout of EA under its subsidy rules",
+      "publisher": "The Next Web",
+      "url": "https://thenextweb.com/news/eu-approves-saudi-pif-ea-buyout-subsidy-rules",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Letter from Blumenthal and Warren to Secretary Bessent re Electronic Arts",
+      "publisher": "US Senate HSGAC",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/2025-10-14-Letter-from-Blumenthal-and-Warren-to-Secretary-Bessent-re-Electronic-Arts.pdf",
+      "date": "2025-10-14"
+    },
+    {
+      "title": "The CFIUS Review That Will Never Be",
+      "publisher": "Lawfare",
+      "url": "https://www.lawfaremedia.org/article/the-cfius-review-that-will-never-be",
+      "date": "2025-10-03"
+    },
+    {
+      "title": "BlackRock-Led Consortium to Acquire Aligned Data Centers in $40 Billion AI Infrastructure Deal",
+      "publisher": "Data Center Frontier",
+      "url": "https://www.datacenterfrontier.com/hyperscale/article/55323360/blackrock-led-consortium-to-acquire-aligned-data-centers-in-40-billion-ai-infrastructure-deal",
+      "date": "2025-10"
+    },
+    {
+      "title": "MGX, AIP and BlackRock's GIP complete $40bn acquisition of Aligned Data Centers",
+      "publisher": "DatacenterDynamics",
+      "url": "https://www.datacenterdynamics.com/en/news/mgx-aip-and-blackrocks-gip-complete-40bn-acquisition-of-aligned-data-centers/",
+      "date": "2026-07"
+    },
+    {
+      "title": "The biggest data-centre deal in history just closed",
+      "publisher": "The Next Web",
+      "url": "https://thenextweb.com/news/aligned-data-centers-40-billion-blackrock-mgx",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "BIS Liberalizes Export Licensing Rules for Shipments to the UAE",
+      "publisher": "Skadden",
+      "url": "https://www.skadden.com/insights/publications/2026/07/bis-liberalizes-export",
+      "date": "2026-07"
+    },
+    {
+      "title": "BIS upgrades the UAE from Country Group D to Country Group A under the EAR",
+      "publisher": "Mondaq",
+      "url": "https://www.mondaq.com/bis-upgrades-the-uae-from-country-group-d-to-country-group-a-under-the-ear-allowing-increased-trade-in-advanced-computing-and-defense-items/1818120",
+      "date": "2026-07"
+    },
+    {
+      "title": "US makes it easier to export Nvidia AI chips and military equipment to UAE",
+      "publisher": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/07/us-makes-it-easier-export-nvidia-ai-chips-and-military-equipment-uae",
+      "date": "2026-07"
+    },
+    {
+      "title": "US govt eases AI chip export controls on UAE following country's support in Iran war",
+      "publisher": "DatacenterDynamics",
+      "url": "https://www.datacenterdynamics.com/en/news/us-govt-eases-ai-chip-export-controls-on-uae-following-countrys-support-in-iran-war/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Senator Warren statement on removing export controls on AI chips to UAE",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-trump-administrations-removing-export-controls-on-ai-chips-to-uae",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "WSJ: UAE wins AI chip access; G42 to reincorporate as US firm",
+      "publisher": "AI Weekly (relaying WSJ)",
+      "url": "https://aiweekly.co/alerts/wsj-uae-wins-ai-chip-access-g42-to-reincorporate-as-us-firm",
+      "date": "2026-07"
+    },
+    {
+      "title": "G42 weighs selling US-majority stake to safeguard AI chips",
+      "publisher": "AI Weekly (relaying Bloomberg)",
+      "url": "https://aiweekly.co/alerts/bloomberg-g42-weighs-selling-majority-stake-to-us-firms-to-safeguard-nvidia",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "G42, US ownership and the export-control endgame",
+      "publisher": "The Next Web",
+      "url": "https://thenextweb.com/news/g42-us-ownership-chip-access-export-control-endgame",
+      "date": "2026-09"
+    },
+    {
+      "title": "Those reports that G42 is going to be mostly US-owned? Take 'em with a kilo of salt",
+      "publisher": "Enterprise AM",
+      "url": "https://enterpriseam.com/menaplus/2026/07/17/those-reports-that-g42-is-going-to-be-mostly-us-downed-take-em-with-a-kilo-of-salt/",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Will G42 become a US company?",
+      "publisher": "Enterprise AM",
+      "url": "https://enterpriseam.com/uae/2026/11/04/will-g42-become-a-us-company/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Abu Dhabi Investment Firm Lunate Takes On AI Firm G42's China Fund",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2024-07-08/abu-dhabi-investment-firm-lunate-takes-on-ai-firm-g42-s-china-fund",
+      "date": "2024-07-08"
+    }
   ],
   "entities": [
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "President; hosted PGA Tour-PIF talks; his Doral resort hosted both LIV and PGA Tour events"},
-    {"id": "jared-kushner", "name": "Jared Kushner", "type": "person", "description": "Affinity Partners founder; co-buyer of EA"},
-    {"id": "tahnoon-bin-zayed", "name": "Sheikh Tahnoon bin Zayed", "type": "person", "description": "UAE NSA; chairs G42 and MGX; reportedly lobbied White House for chip access"},
-    {"id": "yasir-al-rumayyan", "name": "Yasir Al-Rumayyan", "type": "person", "description": "PIF governor; attended Feb 2025 White House golf talks"},
-    {"id": "jay-monahan", "name": "Jay Monahan", "type": "person", "description": "PGA Tour commissioner during 2025 White House talks"},
-    {"id": "tiger-woods", "name": "Tiger Woods", "type": "person", "description": "PGA Tour player director at the 20 Feb 2025 meeting"},
-    {"id": "adam-scott", "name": "Adam Scott", "type": "person", "description": "PGA Tour player director at both Feb 2025 meetings"},
-    {"id": "brian-rolapp", "name": "Brian Rolapp", "type": "person", "description": "PGA Tour CEO from 2025; disavowed a LIV merger"},
-    {"id": "scott-oneil", "name": "Scott O'Neil", "type": "person", "description": "LIV Golf CEO; announced unnamed lead investor Aug 2026"},
-    {"id": "scott-bessent", "name": "Scott Bessent", "type": "person", "description": "Treasury Secretary and CFIUS chair"},
-    {"id": "elizabeth-warren", "name": "Elizabeth Warren", "type": "person", "description": "Senator; challenged EA buyout and UAE export upgrade"},
-    {"id": "richard-blumenthal", "name": "Richard Blumenthal", "type": "person", "description": "Senator; co-wrote EA CFIUS letter"},
-    {"id": "saudi-pif", "name": "Saudi Public Investment Fund", "type": "fund", "description": "Funded LIV (>$5B), offered PGA Tour Enterprises investment, led EA buyout"},
-    {"id": "pga-tour", "name": "PGA Tour", "type": "company", "description": "US golf tour; negotiated with PIF; moved signature event to Trump Doral 2026"},
-    {"id": "pga-tour-enterprises", "name": "PGA Tour Enterprises", "type": "company", "description": "For-profit arm; proposed recipient of ~$1.5B PIF investment"},
-    {"id": "liv-golf", "name": "LIV Golf", "type": "company", "description": "PIF-funded league; PIF funding ends after 2026; new unnamed lead investor"},
-    {"id": "liv-golf-lead-investor-2026", "name": "LIV Golf unnamed lead investor", "type": "fund", "description": "Unidentified investor that signed a term sheet with LIV in Aug 2026"},
-    {"id": "trump-national-doral", "name": "Trump National Doral", "type": "asset", "description": "Trump-owned resort; hosted LIV Miami 2025 and PGA Tour Cadillac Championship 2026"},
-    {"id": "cadillac-championship-2026", "name": "Cadillac Championship 2026", "type": "event", "description": "$20M PGA Tour signature event at Trump Doral, 30 Apr-3 May 2026"},
-    {"id": "trump-organization", "name": "Trump Organization", "type": "company", "description": "Owns Doral, Bedminster, Trump National DC"},
-    {"id": "affinity-partners", "name": "Affinity Partners", "type": "fund", "description": "Kushner's fund; ~1.1% of EA (press estimate)"},
-    {"id": "silver-lake", "name": "Silver Lake", "type": "fund", "description": "EA co-buyer (~5.5%), TikTok JV 15%, G42 investor"},
-    {"id": "electronic-arts", "name": "Electronic Arts", "type": "company", "description": "US game publisher taken private for $55B, closed 4 Aug 2026"},
-    {"id": "ea-buyout", "name": "EA take-private", "type": "event", "description": "$55B PIF/Silver Lake/Affinity buyout, announced 29 Sep 2025, closed 4 Aug 2026"},
-    {"id": "cfius", "name": "CFIUS", "type": "government", "description": "Treasury-chaired foreign-investment review committee"},
-    {"id": "mgx", "name": "MGX", "type": "fund", "description": "Tahnoon-chaired AI investor; Aligned co-buyer; 'favorable review' under July 2026 rule"},
-    {"id": "ai-infrastructure-partnership", "name": "AI Infrastructure Partnership (AIP)", "type": "fund", "description": "BlackRock/GIP/MGX/Microsoft/Nvidia vehicle; KIA and Temasek anchors"},
-    {"id": "blackrock", "name": "BlackRock", "type": "company", "description": "Co-founder of AIP; owner of GIP"},
-    {"id": "global-infrastructure-partners", "name": "Global Infrastructure Partners (GIP)", "type": "fund", "description": "BlackRock infrastructure arm; Aligned co-buyer"},
-    {"id": "aligned-data-centers", "name": "Aligned Data Centers", "type": "company", "description": "Dallas data-centre operator bought for ~$40B EV, closed July 2026"},
-    {"id": "macquarie-asset-management", "name": "Macquarie Asset Management", "type": "fund", "description": "Seller of Aligned"},
-    {"id": "microsoft", "name": "Microsoft", "type": "company", "description": "AIP co-founder; $1.5B G42 investor"},
-    {"id": "nvidia", "name": "Nvidia", "type": "company", "description": "AIP co-founder; chip supplier under UAE licences"},
-    {"id": "g42", "name": "G42", "type": "company", "description": "Tahnoon-chaired AI group; licence-free chip recipient; reportedly weighing US ownership"},
-    {"id": "core42", "name": "Core42", "type": "company", "description": "G42 cloud unit; licence-free chip recipient under July 2026 rule"},
-    {"id": "mubadala", "name": "Mubadala", "type": "fund", "description": "Abu Dhabi fund; G42 investor and MGX co-founder"},
-    {"id": "lunate", "name": "Lunate", "type": "fund", "description": "Abu Dhabi manager; took over G42's 42XFund; Affinity LP"},
-    {"id": "42xfund", "name": "42XFund", "type": "fund", "description": "G42's ~$10B Shanghai-based China tech fund (ByteDance, JD.com stakes)"},
-    {"id": "international-holding-company", "name": "International Holding Company", "type": "company", "description": "Tahnoon-chaired conglomerate; described by Bloomberg as Lunate's parent"},
-    {"id": "chimera-investment", "name": "Chimera Investment", "type": "fund", "description": "Tahnoon-linked vehicle recorded in C57 as Lunate's majority owner"},
-    {"id": "bytedance", "name": "ByteDance", "type": "company", "description": "Held by 42XFund"},
-    {"id": "us-commerce-department", "name": "US Commerce Department (BIS)", "type": "government", "description": "Issued UAE Country Group A:5 rule"},
-    {"id": "uae-country-group-a5-rule", "name": "BIS UAE Country Group A:5 rule", "type": "law", "description": "July 2026 EAR change; G42/Core42 licence-free for ~270 days"},
-    {"id": "us-department-of-justice", "name": "US Department of Justice", "type": "government", "description": "Antitrust review of PGA Tour-PIF framework since 2023"},
-    {"id": "us-iran-war-2026", "name": "2026 US-Iran war", "type": "event", "description": "Commerce cited UAE support in the war as basis for the upgrade"},
-    {"id": "world-liberty-financial", "name": "World Liberty Financial", "type": "company", "description": "Trump-family crypto firm; 49% Tahnoon-linked (C57)"},
-    {"id": "white-house", "name": "White House", "type": "government", "description": "Venue of Feb 2025 golf talks; target of Tahnoon lobbying"},
-    {"id": "uae", "name": "UAE", "type": "country", "description": "Recipient of export-control upgrade"},
-    {"id": "saudi-arabia", "name": "Saudi Arabia", "type": "country", "description": "PIF's sovereign owner"},
-    {"id": "china", "name": "China", "type": "country", "description": "Diversion concern; 42XFund's market"},
-    {"id": "wall-street-journal", "name": "Wall Street Journal", "type": "media", "description": "Reported G42 reincorporation plan and Tahnoon lobbying"},
-    {"id": "bloomberg", "name": "Bloomberg", "type": "media", "description": "Reported Lunate/42XFund and G42 stake-sale talks"},
-    {"id": "lawfare", "name": "Lawfare", "type": "media", "description": "Published 'The CFIUS Review That Will Never Be'"}
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; hosted PGA Tour-PIF talks; his Doral resort hosted both LIV and PGA Tour events"
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Affinity Partners founder; co-buyer of EA"
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Sheikh Tahnoon bin Zayed",
+      "type": "person",
+      "description": "UAE NSA; chairs G42 and MGX; reportedly lobbied White House for chip access"
+    },
+    {
+      "id": "yasir-al-rumayyan",
+      "name": "Yasir Al-Rumayyan",
+      "type": "person",
+      "description": "PIF governor; attended Feb 2025 White House golf talks"
+    },
+    {
+      "id": "jay-monahan",
+      "name": "Jay Monahan",
+      "type": "person",
+      "description": "PGA Tour commissioner during 2025 White House talks"
+    },
+    {
+      "id": "tiger-woods",
+      "name": "Tiger Woods",
+      "type": "person",
+      "description": "PGA Tour player director at the 20 Feb 2025 meeting"
+    },
+    {
+      "id": "adam-scott",
+      "name": "Adam Scott",
+      "type": "person",
+      "description": "PGA Tour player director at both Feb 2025 meetings"
+    },
+    {
+      "id": "brian-rolapp",
+      "name": "Brian Rolapp",
+      "type": "person",
+      "description": "PGA Tour CEO from 2025; disavowed a LIV merger"
+    },
+    {
+      "id": "scott-oneil",
+      "name": "Scott O'Neil",
+      "type": "person",
+      "description": "LIV Golf CEO; announced unnamed lead investor Aug 2026"
+    },
+    {
+      "id": "scott-bessent",
+      "name": "Scott Bessent",
+      "type": "person",
+      "description": "Treasury Secretary and CFIUS chair"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senator; challenged EA buyout and UAE export upgrade"
+    },
+    {
+      "id": "richard-blumenthal",
+      "name": "Richard Blumenthal",
+      "type": "person",
+      "description": "Senator; co-wrote EA CFIUS letter"
+    },
+    {
+      "id": "saudi-pif",
+      "name": "Saudi Public Investment Fund",
+      "type": "fund",
+      "description": "Funded LIV (>$5B), offered PGA Tour Enterprises investment, led EA buyout"
+    },
+    {
+      "id": "pga-tour",
+      "name": "PGA Tour",
+      "type": "company",
+      "description": "US golf tour; negotiated with PIF; moved signature event to Trump Doral 2026"
+    },
+    {
+      "id": "pga-tour-enterprises",
+      "name": "PGA Tour Enterprises",
+      "type": "company",
+      "description": "For-profit arm; proposed recipient of ~$1.5B PIF investment"
+    },
+    {
+      "id": "liv-golf",
+      "name": "LIV Golf",
+      "type": "company",
+      "description": "PIF-funded league; PIF funding ends after 2026; new unnamed lead investor"
+    },
+    {
+      "id": "liv-golf-lead-investor-2026",
+      "name": "LIV Golf unnamed lead investor",
+      "type": "fund",
+      "description": "Unidentified investor that signed a term sheet with LIV in Aug 2026"
+    },
+    {
+      "id": "trump-national-doral",
+      "name": "Trump National Doral",
+      "type": "asset",
+      "description": "Trump-owned resort; hosted LIV Miami 2025 and PGA Tour Cadillac Championship 2026"
+    },
+    {
+      "id": "cadillac-championship-2026",
+      "name": "Cadillac Championship 2026",
+      "type": "event",
+      "description": "$20M PGA Tour signature event at Trump Doral, 30 Apr-3 May 2026"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Owns Doral, Bedminster, Trump National DC"
+    },
+    {
+      "id": "affinity-partners",
+      "name": "Affinity Partners",
+      "type": "fund",
+      "description": "Kushner's fund; ~1.1% of EA (press estimate)"
+    },
+    {
+      "id": "silver-lake",
+      "name": "Silver Lake",
+      "type": "fund",
+      "description": "EA co-buyer (~5.5%), TikTok JV 15%, G42 investor"
+    },
+    {
+      "id": "electronic-arts",
+      "name": "Electronic Arts",
+      "type": "company",
+      "description": "US game publisher taken private for $55B, closed 4 Aug 2026"
+    },
+    {
+      "id": "ea-buyout",
+      "name": "EA take-private",
+      "type": "event",
+      "description": "$55B PIF/Silver Lake/Affinity buyout, announced 29 Sep 2025, closed 4 Aug 2026"
+    },
+    {
+      "id": "cfius",
+      "name": "CFIUS",
+      "type": "government",
+      "description": "Treasury-chaired foreign-investment review committee"
+    },
+    {
+      "id": "mgx",
+      "name": "MGX",
+      "type": "fund",
+      "description": "Tahnoon-chaired AI investor; Aligned co-buyer; 'favorable review' under July 2026 rule"
+    },
+    {
+      "id": "ai-infrastructure-partnership",
+      "name": "AI Infrastructure Partnership (AIP)",
+      "type": "fund",
+      "description": "BlackRock/GIP/MGX/Microsoft/Nvidia vehicle; KIA and Temasek anchors"
+    },
+    {
+      "id": "blackrock",
+      "name": "BlackRock",
+      "type": "company",
+      "description": "Co-founder of AIP; owner of GIP"
+    },
+    {
+      "id": "global-infrastructure-partners",
+      "name": "Global Infrastructure Partners (GIP)",
+      "type": "fund",
+      "description": "BlackRock infrastructure arm; Aligned co-buyer"
+    },
+    {
+      "id": "aligned-data-centers",
+      "name": "Aligned Data Centers",
+      "type": "company",
+      "description": "Dallas data-centre operator bought for ~$40B EV, closed July 2026"
+    },
+    {
+      "id": "macquarie-asset-management",
+      "name": "Macquarie Asset Management",
+      "type": "fund",
+      "description": "Seller of Aligned"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "type": "company",
+      "description": "AIP co-founder; $1.5B G42 investor"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "type": "company",
+      "description": "AIP co-founder; chip supplier under UAE licences"
+    },
+    {
+      "id": "g42",
+      "name": "G42",
+      "type": "company",
+      "description": "Tahnoon-chaired AI group; licence-free chip recipient; reportedly weighing US ownership"
+    },
+    {
+      "id": "core42",
+      "name": "Core42",
+      "type": "company",
+      "description": "G42 cloud unit; licence-free chip recipient under July 2026 rule"
+    },
+    {
+      "id": "mubadala",
+      "name": "Mubadala",
+      "type": "fund",
+      "description": "Abu Dhabi fund; G42 investor and MGX co-founder"
+    },
+    {
+      "id": "lunate",
+      "name": "Lunate",
+      "type": "fund",
+      "description": "Abu Dhabi manager; took over G42's 42XFund; Affinity LP"
+    },
+    {
+      "id": "42xfund",
+      "name": "42XFund",
+      "type": "fund",
+      "description": "G42's ~$10B Shanghai-based China tech fund (ByteDance, JD.com stakes)"
+    },
+    {
+      "id": "international-holding-company",
+      "name": "International Holding Company",
+      "type": "company",
+      "description": "Tahnoon-chaired conglomerate; described by Bloomberg as Lunate's parent"
+    },
+    {
+      "id": "chimera-investment",
+      "name": "Chimera Investment",
+      "type": "fund",
+      "description": "Tahnoon-linked vehicle recorded in C57 as Lunate's majority owner"
+    },
+    {
+      "id": "bytedance",
+      "name": "ByteDance",
+      "type": "company",
+      "description": "Held by 42XFund"
+    },
+    {
+      "id": "us-commerce-department",
+      "name": "US Commerce Department (BIS)",
+      "type": "government",
+      "description": "Issued UAE Country Group A:5 rule"
+    },
+    {
+      "id": "uae-country-group-a5-rule",
+      "name": "BIS UAE Country Group A:5 rule",
+      "type": "law",
+      "description": "July 2026 EAR change; G42/Core42 licence-free for ~270 days"
+    },
+    {
+      "id": "us-department-of-justice",
+      "name": "US Department of Justice",
+      "type": "government",
+      "description": "Antitrust review of PGA Tour-PIF framework since 2023"
+    },
+    {
+      "id": "us-iran-war-2026",
+      "name": "2026 US-Iran war",
+      "type": "event",
+      "description": "Commerce cited UAE support in the war as basis for the upgrade"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto firm; 49% Tahnoon-linked (C57)"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Venue of Feb 2025 golf talks; target of Tahnoon lobbying"
+    },
+    {
+      "id": "uae",
+      "name": "UAE",
+      "type": "country",
+      "description": "Recipient of export-control upgrade"
+    },
+    {
+      "id": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "type": "country",
+      "description": "PIF's sovereign owner"
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "type": "country",
+      "description": "Diversion concern; 42XFund's market"
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "Wall Street Journal",
+      "type": "media",
+      "description": "Reported G42 reincorporation plan and Tahnoon lobbying"
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg",
+      "type": "media",
+      "description": "Reported Lunate/42XFund and G42 stake-sale talks"
+    },
+    {
+      "id": "lawfare",
+      "name": "Lawfare",
+      "type": "media",
+      "description": "Published 'The CFIUS Review That Will Never Be'"
+    }
   ],
   "relationships": [
-    {"source": "donald-trump", "target": "pga-tour", "label": "hosted White House talks with Monahan and Scott (at Tour's request)", "type": "political", "date": "2025-02-04"},
-    {"source": "donald-trump", "target": "yasir-al-rumayyan", "label": "hosted ~4-hour PGA Tour-PIF session with", "type": "political", "date": "2025-02-20"},
-    {"source": "jay-monahan", "target": "donald-trump", "label": "met at White House on PIF deal", "type": "political", "date": "2025-02-20"},
-    {"source": "tiger-woods", "target": "donald-trump", "label": "met at White House on PIF deal", "type": "political", "date": "2025-02-20"},
-    {"source": "adam-scott", "target": "donald-trump", "label": "met at White House on PIF deal", "type": "political", "date": "2025-02-04"},
-    {"source": "yasir-al-rumayyan", "target": "saudi-pif", "label": "governor of", "type": "ownership"},
-    {"source": "saudi-pif", "target": "pga-tour-enterprises", "label": "proposed ~$1.5B investment in (not concluded)", "type": "money", "date": "2025", "amount_usd": 1500000000},
-    {"source": "pga-tour", "target": "pga-tour-enterprises", "label": "operates", "type": "ownership"},
-    {"source": "us-department-of-justice", "target": "pga-tour", "label": "antitrust review of PIF framework", "type": "regulatory", "date": "2023-06"},
-    {"source": "brian-rolapp", "target": "pga-tour", "label": "CEO of", "type": "ownership", "date": "2025"},
-    {"source": "pga-tour", "target": "trump-national-doral", "label": "staged $20M Cadillac Championship at", "type": "commercial", "date": "2026-04-30", "amount_usd": 20000000},
-    {"source": "cadillac-championship-2026", "target": "trump-national-doral", "label": "held at", "type": "commercial", "date": "2026-04-30"},
-    {"source": "trump-organization", "target": "trump-national-doral", "label": "owns", "type": "ownership"},
-    {"source": "liv-golf", "target": "trump-national-doral", "label": "staged LIV Miami at", "type": "commercial", "date": "2025-04"},
-    {"source": "saudi-pif", "target": "liv-golf", "label": "funded (>$5B), ending after 2026 season", "type": "money", "date": "2026-04-30", "amount_usd": 5000000000},
-    {"source": "liv-golf-lead-investor-2026", "target": "liv-golf", "label": "signed term sheet as lead investor", "type": "money", "date": "2026-08-05"},
-    {"source": "scott-oneil", "target": "liv-golf", "label": "CEO of", "type": "ownership"},
-    {"source": "saudi-pif", "target": "electronic-arts", "label": "acquired ~93.4% of (press estimate)", "type": "ownership", "date": "2026-08-04"},
-    {"source": "silver-lake", "target": "electronic-arts", "label": "acquired ~5.5% of", "type": "ownership", "date": "2026-08-04"},
-    {"source": "affinity-partners", "target": "electronic-arts", "label": "acquired ~1.1% of", "type": "ownership", "date": "2026-08-04"},
-    {"source": "jared-kushner", "target": "affinity-partners", "label": "founder and CEO of", "type": "ownership"},
-    {"source": "cfius", "target": "ea-buyout", "label": "reportedly cleared by 30 Jul 2026 (no public terms)", "type": "regulatory", "date": "2026-07-30"},
-    {"source": "scott-bessent", "target": "cfius", "label": "chairs", "type": "regulatory"},
-    {"source": "richard-blumenthal", "target": "scott-bessent", "label": "urged 'searching scrutiny' of EA deal", "type": "political", "date": "2025-10-14"},
-    {"source": "elizabeth-warren", "target": "scott-bessent", "label": "urged 'searching scrutiny' of EA deal", "type": "political", "date": "2025-10-14"},
-    {"source": "lawfare", "target": "ea-buyout", "label": "predicted 'the CFIUS review that will never be'", "type": "media", "date": "2025-10-03"},
-    {"source": "mgx", "target": "aligned-data-centers", "label": "co-acquired (~$40B EV)", "type": "ownership", "date": "2026-07", "amount_usd": 40000000000},
-    {"source": "ai-infrastructure-partnership", "target": "aligned-data-centers", "label": "co-acquired (first deal)", "type": "ownership", "date": "2026-07"},
-    {"source": "global-infrastructure-partners", "target": "aligned-data-centers", "label": "co-acquired", "type": "ownership", "date": "2026-07"},
-    {"source": "macquarie-asset-management", "target": "aligned-data-centers", "label": "sold 100% of", "type": "commercial", "date": "2026-07"},
-    {"source": "blackrock", "target": "global-infrastructure-partners", "label": "owns", "type": "ownership"},
-    {"source": "blackrock", "target": "ai-infrastructure-partnership", "label": "co-founded", "type": "ownership", "date": "2024-09"},
-    {"source": "microsoft", "target": "ai-infrastructure-partnership", "label": "co-founded", "type": "ownership", "date": "2024-09"},
-    {"source": "nvidia", "target": "ai-infrastructure-partnership", "label": "co-founded", "type": "ownership", "date": "2024-09"},
-    {"source": "mgx", "target": "ai-infrastructure-partnership", "label": "co-founded", "type": "ownership", "date": "2024-09"},
-    {"source": "cfius", "target": "aligned-data-centers", "label": "review expected; outcome unreported", "type": "regulatory", "date": "2025-10"},
-    {"source": "us-commerce-department", "target": "uae-country-group-a5-rule", "label": "issued", "type": "regulatory", "date": "2026-07-10"},
-    {"source": "uae-country-group-a5-rule", "target": "g42", "label": "named for licence-free advanced-chip receipt (~270 days)", "type": "regulatory", "date": "2026-07-10"},
-    {"source": "uae-country-group-a5-rule", "target": "core42", "label": "named for licence-free advanced-chip receipt", "type": "regulatory", "date": "2026-07-10"},
-    {"source": "uae-country-group-a5-rule", "target": "mgx", "label": "promised 'favorable review' of licence applications", "type": "regulatory", "date": "2026-07-10"},
-    {"source": "uae-country-group-a5-rule", "target": "uae", "label": "moved from D:3/D:4 to A:5", "type": "regulatory", "date": "2026-07-10"},
-    {"source": "us-iran-war-2026", "target": "uae-country-group-a5-rule", "label": "UAE wartime support cited as basis", "type": "political", "date": "2026-07"},
-    {"source": "tahnoon-bin-zayed", "target": "white-house", "label": "reportedly lobbied directly for chip access (WSJ, single-source)", "type": "political", "date": "2026"},
-    {"source": "tahnoon-bin-zayed", "target": "g42", "label": "chairs", "type": "ownership"},
-    {"source": "tahnoon-bin-zayed", "target": "mgx", "label": "chairs", "type": "ownership"},
-    {"source": "g42", "target": "core42", "label": "owns", "type": "ownership"},
-    {"source": "elizabeth-warren", "target": "uae-country-group-a5-rule", "label": "condemned, citing WLF stake", "type": "political", "date": "2026-07-10"},
-    {"source": "g42", "target": "wall-street-journal", "label": "reported plan to reincorporate in US (unconfirmed)", "type": "media", "date": "2026-07"},
-    {"source": "bloomberg", "target": "g42", "label": "reported exploratory talks to sell US-majority stake", "type": "media", "date": "2026-09-04"},
-    {"source": "microsoft", "target": "g42", "label": "invested $1.5B in", "type": "money", "date": "2024-04-16", "amount_usd": 1500000000},
-    {"source": "silver-lake", "target": "g42", "label": "investor in", "type": "ownership"},
-    {"source": "mubadala", "target": "g42", "label": "investor in", "type": "ownership"},
-    {"source": "lunate", "target": "42xfund", "label": "took over management of", "type": "ownership", "date": "2024-07-08"},
-    {"source": "g42", "target": "42xfund", "label": "launched (~$10B) and formerly managed", "type": "ownership", "date": "2022", "amount_usd": 10000000000},
-    {"source": "42xfund", "target": "bytedance", "label": "holds stake in", "type": "ownership"},
-    {"source": "42xfund", "target": "china", "label": "Shanghai-based China tech fund", "type": "commercial"},
-    {"source": "international-holding-company", "target": "lunate", "label": "parent (per Bloomberg)", "type": "ownership"},
-    {"source": "chimera-investment", "target": "lunate", "label": "majority owner (per C57)", "type": "ownership"},
-    {"source": "lunate", "target": "affinity-partners", "label": "LP (with QIA added $1.5B, Dec 2024)", "type": "money", "date": "2024-12"},
-    {"source": "tahnoon-bin-zayed", "target": "world-liberty-financial", "label": "linked Aryam holds 49% of (C57)", "type": "ownership", "date": "2025-01"}
+    {
+      "source": "donald-trump",
+      "target": "pga-tour",
+      "label": "hosted White House talks with Monahan and Scott (at Tour's request)",
+      "type": "political",
+      "date": "2025-02-04"
+    },
+    {
+      "source": "donald-trump",
+      "target": "yasir-al-rumayyan",
+      "label": "hosted ~4-hour PGA Tour-PIF session with",
+      "type": "political",
+      "date": "2025-02-20"
+    },
+    {
+      "source": "jay-monahan",
+      "target": "donald-trump",
+      "label": "met at White House on PIF deal",
+      "type": "political",
+      "date": "2025-02-20"
+    },
+    {
+      "source": "tiger-woods",
+      "target": "donald-trump",
+      "label": "met at White House on PIF deal",
+      "type": "political",
+      "date": "2025-02-20"
+    },
+    {
+      "source": "adam-scott",
+      "target": "donald-trump",
+      "label": "met at White House on PIF deal",
+      "type": "political",
+      "date": "2025-02-04"
+    },
+    {
+      "source": "yasir-al-rumayyan",
+      "target": "saudi-pif",
+      "label": "governor of",
+      "type": "ownership"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "pga-tour-enterprises",
+      "label": "proposed ~$1.5B investment in (not concluded)",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 1500000000
+    },
+    {
+      "source": "pga-tour",
+      "target": "pga-tour-enterprises",
+      "label": "operates",
+      "type": "ownership"
+    },
+    {
+      "source": "us-department-of-justice",
+      "target": "pga-tour",
+      "label": "antitrust review of PIF framework",
+      "type": "regulatory",
+      "date": "2023-06"
+    },
+    {
+      "source": "brian-rolapp",
+      "target": "pga-tour",
+      "label": "CEO of",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "pga-tour",
+      "target": "trump-national-doral",
+      "label": "staged $20M Cadillac Championship at",
+      "type": "commercial",
+      "date": "2026-04-30",
+      "amount_usd": 20000000
+    },
+    {
+      "source": "cadillac-championship-2026",
+      "target": "trump-national-doral",
+      "label": "held at",
+      "type": "commercial",
+      "date": "2026-04-30"
+    },
+    {
+      "source": "trump-organization",
+      "target": "trump-national-doral",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "liv-golf",
+      "target": "trump-national-doral",
+      "label": "staged LIV Miami at",
+      "type": "commercial",
+      "date": "2025-04"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "liv-golf",
+      "label": "funded (>$5B), ending after 2026 season",
+      "type": "money",
+      "date": "2026-04-30",
+      "amount_usd": 5000000000
+    },
+    {
+      "source": "liv-golf-lead-investor-2026",
+      "target": "liv-golf",
+      "label": "signed term sheet as lead investor",
+      "type": "money",
+      "date": "2026-08-05"
+    },
+    {
+      "source": "scott-oneil",
+      "target": "liv-golf",
+      "label": "CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "electronic-arts",
+      "label": "acquired ~93.4% of (press estimate)",
+      "type": "ownership",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "silver-lake",
+      "target": "electronic-arts",
+      "label": "acquired ~5.5% of",
+      "type": "ownership",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "affinity-partners",
+      "target": "electronic-arts",
+      "label": "acquired ~1.1% of",
+      "type": "ownership",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "affinity-partners",
+      "label": "founder and CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "cfius",
+      "target": "ea-buyout",
+      "label": "reportedly cleared by 30 Jul 2026 (no public terms)",
+      "type": "regulatory",
+      "date": "2026-07-30"
+    },
+    {
+      "source": "scott-bessent",
+      "target": "cfius",
+      "label": "chairs",
+      "type": "regulatory"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "scott-bessent",
+      "label": "urged 'searching scrutiny' of EA deal",
+      "type": "political",
+      "date": "2025-10-14"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "scott-bessent",
+      "label": "urged 'searching scrutiny' of EA deal",
+      "type": "political",
+      "date": "2025-10-14"
+    },
+    {
+      "source": "lawfare",
+      "target": "ea-buyout",
+      "label": "predicted 'the CFIUS review that will never be'",
+      "type": "media",
+      "date": "2025-10-03"
+    },
+    {
+      "source": "mgx",
+      "target": "aligned-data-centers",
+      "label": "co-acquired (~$40B EV)",
+      "type": "ownership",
+      "date": "2026-07",
+      "amount_usd": 40000000000
+    },
+    {
+      "source": "ai-infrastructure-partnership",
+      "target": "aligned-data-centers",
+      "label": "co-acquired (first deal)",
+      "type": "ownership",
+      "date": "2026-07"
+    },
+    {
+      "source": "global-infrastructure-partners",
+      "target": "aligned-data-centers",
+      "label": "co-acquired",
+      "type": "ownership",
+      "date": "2026-07"
+    },
+    {
+      "source": "macquarie-asset-management",
+      "target": "aligned-data-centers",
+      "label": "sold 100% of",
+      "type": "commercial",
+      "date": "2026-07"
+    },
+    {
+      "source": "blackrock",
+      "target": "global-infrastructure-partners",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "blackrock",
+      "target": "ai-infrastructure-partnership",
+      "label": "co-founded",
+      "type": "ownership",
+      "date": "2024-09"
+    },
+    {
+      "source": "microsoft",
+      "target": "ai-infrastructure-partnership",
+      "label": "co-founded",
+      "type": "ownership",
+      "date": "2024-09"
+    },
+    {
+      "source": "nvidia",
+      "target": "ai-infrastructure-partnership",
+      "label": "co-founded",
+      "type": "ownership",
+      "date": "2024-09"
+    },
+    {
+      "source": "mgx",
+      "target": "ai-infrastructure-partnership",
+      "label": "co-founded",
+      "type": "ownership",
+      "date": "2024-09"
+    },
+    {
+      "source": "cfius",
+      "target": "aligned-data-centers",
+      "label": "review expected; outcome unreported",
+      "type": "regulatory",
+      "date": "2025-10"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "uae-country-group-a5-rule",
+      "label": "issued",
+      "type": "regulatory",
+      "date": "2026-07-10"
+    },
+    {
+      "source": "uae-country-group-a5-rule",
+      "target": "g42",
+      "label": "named for licence-free advanced-chip receipt (~270 days)",
+      "type": "regulatory",
+      "date": "2026-07-10"
+    },
+    {
+      "source": "uae-country-group-a5-rule",
+      "target": "core42",
+      "label": "named for licence-free advanced-chip receipt",
+      "type": "regulatory",
+      "date": "2026-07-10"
+    },
+    {
+      "source": "uae-country-group-a5-rule",
+      "target": "mgx",
+      "label": "promised 'favorable review' of licence applications",
+      "type": "regulatory",
+      "date": "2026-07-10"
+    },
+    {
+      "source": "uae-country-group-a5-rule",
+      "target": "uae",
+      "label": "moved from D:3/D:4 to A:5",
+      "type": "regulatory",
+      "date": "2026-07-10"
+    },
+    {
+      "source": "us-iran-war-2026",
+      "target": "uae-country-group-a5-rule",
+      "label": "UAE wartime support cited as basis",
+      "type": "political",
+      "date": "2026-07"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "white-house",
+      "label": "reportedly lobbied directly for chip access (WSJ, single-source)",
+      "type": "political",
+      "date": "2026"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "g42",
+      "label": "chairs",
+      "type": "ownership"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "mgx",
+      "label": "chairs",
+      "type": "ownership"
+    },
+    {
+      "source": "g42",
+      "target": "core42",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "uae-country-group-a5-rule",
+      "label": "condemned, citing WLF stake",
+      "type": "political",
+      "date": "2026-07-10"
+    },
+    {
+      "source": "g42",
+      "target": "wall-street-journal",
+      "label": "reported plan to reincorporate in US (unconfirmed)",
+      "type": "media",
+      "date": "2026-07"
+    },
+    {
+      "source": "bloomberg",
+      "target": "g42",
+      "label": "reported exploratory talks to sell US-majority stake",
+      "type": "media",
+      "date": "2026-09-04"
+    },
+    {
+      "source": "microsoft",
+      "target": "g42",
+      "label": "invested $1.5B in",
+      "type": "money",
+      "date": "2024-04-16",
+      "amount_usd": 1500000000
+    },
+    {
+      "source": "silver-lake",
+      "target": "g42",
+      "label": "investor in",
+      "type": "ownership"
+    },
+    {
+      "source": "mubadala",
+      "target": "g42",
+      "label": "investor in",
+      "type": "ownership"
+    },
+    {
+      "source": "lunate",
+      "target": "42xfund",
+      "label": "took over management of",
+      "type": "ownership",
+      "date": "2024-07-08"
+    },
+    {
+      "source": "g42",
+      "target": "42xfund",
+      "label": "launched (~$10B) and formerly managed",
+      "type": "ownership",
+      "date": "2022",
+      "amount_usd": 10000000000
+    },
+    {
+      "source": "42xfund",
+      "target": "bytedance",
+      "label": "holds stake in",
+      "type": "ownership"
+    },
+    {
+      "source": "42xfund",
+      "target": "china",
+      "label": "Shanghai-based China tech fund",
+      "type": "commercial"
+    },
+    {
+      "source": "international-holding-company",
+      "target": "lunate",
+      "label": "parent (per Bloomberg)",
+      "type": "ownership"
+    },
+    {
+      "source": "chimera-investment",
+      "target": "lunate",
+      "label": "majority owner (per C57)",
+      "type": "ownership"
+    },
+    {
+      "source": "lunate",
+      "target": "affinity-partners",
+      "label": "LP (with QIA added $1.5B, Dec 2024)",
+      "type": "money",
+      "date": "2024-12"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "world-liberty-financial",
+      "label": "linked Aryam holds 49% of (C57)",
+      "type": "ownership",
+      "date": "2025-01"
+    }
   ],
   "leads": [
-    {"title": "Identity of LIV Golf's post-PIF lead investor and whether the September 2026 close happened", "why_connected": "LIV has staged events at three Trump courses; a new owner could be Gulf, US-political or Trump-adjacent capital, and no outlet has named it.", "entities": ["liv-golf", "liv-golf-lead-investor-2026", "trump-national-doral"], "source_url": "https://insidersport.com/2026/08/06/liv-golf-lead-investor-pif-exit/"},
-    {"title": "Terms and fee of the PGA Tour's 2026 Cadillac Championship at Trump Doral", "why_connected": "The PGA Tour moved a $20M signature event to Trump's resort while Trump mediated its talks with PIF; host fees and any Trump Organization revenue are undisclosed.", "entities": ["pga-tour", "trump-national-doral", "trump-organization"], "source_url": "https://www.nbcsports.com/golf/news/cadillac-returns-as-title-sponsor-for-pga-tour-signature-event-at-doral"},
-    {"title": "Any CFIUS mitigation agreement for EA and Aligned", "why_connected": "Two of the largest sovereign-backed US acquisitions closed in July-August 2026 with no published mitigation; Affinity's role makes the EA review a conflict-of-interest question.", "entities": ["cfius", "electronic-arts", "aligned-data-centers", "affinity-partners", "mgx"], "source_url": "https://www.lawfaremedia.org/article/the-cfius-review-that-will-never-be"},
-    {"title": "Which US companies are in talks to take majority control of G42, and BIS's decision at the April 2027 sunset", "why_connected": "The buyer of a Tahnoon-chaired firm and the renewal of its licence-free status are pending US decisions in the same network that holds 49% of World Liberty.", "entities": ["g42", "us-commerce-department", "tahnoon-bin-zayed", "world-liberty-financial"], "source_url": "https://thenextweb.com/news/g42-us-ownership-chip-access-export-control-endgame"}
-  ]
+    {
+      "title": "Identity of LIV Golf's post-PIF lead investor and whether the September 2026 close happened",
+      "why_connected": "LIV has staged events at three Trump courses; a new owner could be Gulf, US-political or Trump-adjacent capital, and no outlet has named it.",
+      "entities": [
+        "liv-golf",
+        "liv-golf-lead-investor-2026",
+        "trump-national-doral"
+      ],
+      "source_url": "https://insidersport.com/2026/08/06/liv-golf-lead-investor-pif-exit/"
+    },
+    {
+      "title": "Terms and fee of the PGA Tour's 2026 Cadillac Championship at Trump Doral",
+      "why_connected": "The PGA Tour moved a $20M signature event to Trump's resort while Trump mediated its talks with PIF; host fees and any Trump Organization revenue are undisclosed.",
+      "entities": [
+        "pga-tour",
+        "trump-national-doral",
+        "trump-organization"
+      ],
+      "source_url": "https://www.nbcsports.com/golf/news/cadillac-returns-as-title-sponsor-for-pga-tour-signature-event-at-doral"
+    },
+    {
+      "title": "Any CFIUS mitigation agreement for EA and Aligned",
+      "why_connected": "Two of the largest sovereign-backed US acquisitions closed in July-August 2026 with no published mitigation; Affinity's role makes the EA review a conflict-of-interest question.",
+      "entities": [
+        "cfius",
+        "electronic-arts",
+        "aligned-data-centers",
+        "affinity-partners",
+        "mgx"
+      ],
+      "source_url": "https://www.lawfaremedia.org/article/the-cfius-review-that-will-never-be"
+    },
+    {
+      "title": "Which US companies are in talks to take majority control of G42, and BIS's decision at the April 2027 sunset",
+      "why_connected": "The buyer of a Tahnoon-chaired firm and the renewal of its licence-free status are pending US decisions in the same network that holds 49% of World Liberty.",
+      "entities": [
+        "g42",
+        "us-commerce-department",
+        "tahnoon-bin-zayed",
+        "world-liberty-financial"
+      ],
+      "source_url": "https://thenextweb.com/news/g42-us-ownership-chip-access-export-control-endgame"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "EA $55B buyout closing date and CFIUS clearance",
+      "UAE move to Country Group A:5 and G42/Core42 licence-free status",
+      "Tahnoon's reported White House lobbying (WSJ, single-source)",
+      "G42 US reincorporation / majority-stake sale (single-source, contested)"
+    ],
+    "result": "upheld",
+    "changes": [
+      "EA close (4 Aug 2026; one relay of ABC says 5 Aug), ownership split 93.4/5.5/1.1 and press-reported CFIUS clearance upheld; CFIUS still rests on press accounts of the EA filing. Added note to sub-claim 3.",
+      "UAE A:5 rule upheld; added the effective date (10 Jul 2026) and the 6 Apr 2027 expiry with its US-company/advisory-opinion exit to sub-claim 5.",
+      "Tahnoon lobbying remains single-source (WSJ via relays); label already says so.",
+      "G42 restructuring: no Oct-Nov 2026 report of a deal or reincorporation found; Bloomberg's Sept 2026 'exploratory talks' remains the latest. Verdict unverified upheld."
+    ],
+    "new_sources": [
+      {
+        "title": "EA's acquisition by Saudi Arabia's PIF gets regulatory approval, deal will close on August 4th",
+        "publisher": "GamingBolt",
+        "url": "https://gamingbolt.com/eas-acquisition-by-saudi-arabias-pif-gets-regulatory-approval-deal-will-close-on-august-4th",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "EA's $55bn sale to Saudi-led consortium is officially complete",
+        "publisher": "Mobilegamer.biz",
+        "url": "https://mobilegamer.biz/eas-55bn-sale-to-saudi-led-consortium-is-officially-complete/",
+        "date": "2026-08"
+      },
+      {
+        "title": "US eases export controls for the UAE: 4 key takeaways",
+        "publisher": "Latham & Watkins",
+        "url": "https://www.lw.com/en/insights/us-eases-export-controls-for-the-uae-4-key-takeaways",
+        "date": "2026-07"
+      },
+      {
+        "title": "BIS upgrades UAE export control status with AI chip access limited to approved entities",
+        "publisher": "Morgan Lewis",
+        "url": "https://www.morganlewis.com/pubs/2026/07/bis-upgrades-uae-export-control-status-with-ai-chip-access-limited-to-approved-entities",
+        "date": "2026-07"
+      },
+      {
+        "title": "G42 weighs US ownership to secure chip access",
+        "publisher": "Mobile World Live",
+        "url": "https://mobileworldlive.com/ai-cloud/g42-weighs-us-ownership-to-secure-chip-access",
+        "date": "2026-09"
+      }
+    ]
+  }
 }

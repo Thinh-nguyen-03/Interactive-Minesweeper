@@ -120,3 +120,11 @@ This report builds on C31, C45, C56, C57, C59, C64 and C67 and does not repeat t
 38. Decrypt, Eric Trump joins Metaplanet's advisory board, 2025-03-21. https://decrypt.co/311041/metaplanet-appoints-eric-trump-to-newly-formed-strategic-advisory-board
 39. Malay Mail, Eric Trump and the Metaplanet raise, 2025-09-01. https://www.malaymail.com/news/money/2025/09/01/eric-trump-rallies-metaplanet-shareholders-as-firm-plans-rm374b-bitcoin-raise/189657
 40. investingLive, SoftBank in the $550B plan, 2025-10-28. https://investinglive.com/news/softbank-and-hitachi-among-investors-in-550-billion-us-plan-20251028
+
+## Audit (second review, Nov 2026)
+
+Result: **upheld**.
+- Re-checked: the 14 Jan 2026 USD1 MoU (Aurangzeb and Zach Witkoff signed, Sharif and Munir witnessed, non-binding); the Powerus Pakistan MoU and order of 16-17 Sep 2026 (value undisclosed); Reliance 4IR Realty's $10M development fee; the Reuters report of a Reliance Venezuelan-oil licence.
+- **Powerus buyer:** outlets differ. Reuters (via Arab News/Tribune) describes an Army MoU that includes an initial order. Quwa and The Defense Post call it a "limited procurement order" from the Ministry of Defence.
+- **Reliance licence:** **single-source**. Reuters cites two anonymous sources (13 Feb 2026), and no public OFAC statement was found.
+- New sources: Express Tribune (https://tribune.com.pk/story/2587065/pakistan-signs-crypto-deal-linked-to-trump-family-to-explore-stablecoin-payments?amp=1); Geo (https://www.geo.tv/latest/682471-pakistan-army-us-drone-maker-powerus-sign-mou-including-initial-order); Quwa (https://quwa.org/pakistan-defence-news/powerus-wins-pakistan-ministry-of-defence-drone-order-and-mou/); Business Standard (https://www.business-standard.com/economy/news/ril-gets-us-license-to-buy-venezuelan-crude-oil-126021301510_1.html); IBTimes UK (https://www.ibtimes.co.uk/scrutiny-over-10-million-payment-reliance-trump-1787530).

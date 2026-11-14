@@ -195,3 +195,12 @@ These are our own cross-references. No source asserts any of them.
 38. Cointelegraph, Senators call WLFI a national security threat (2025-11): https://cointelegraph.com/news/senators-trump-linked-wlfi-national-security-threat
 39. Unhashed newsletter, Did Trump's token reach enemies (Nick Bax rebuttal) (2025): https://unhashed.beehiiv.com/p/did-trump-s-token-reach-enemies
 40. Caixin Global, The blacklisted Chinese businessman behind a $100M Trump crypto bet (2026-08-26; not readable here): https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html
+
+## Audit (second review, Nov 2026)
+
+Result: **upheld**.
+- Re-checked: the NYT identification of Guren "Bobby" Zhou behind Aqua 1 (**single-source**, widely relayed); his 2021 UK arrest, with no charges; up to $75M reaching the Trump-and-sons company; Reuters on ADGM non-registration and about $90M arriving from an OKX account, with about $80M then sent to WLF; Reuters' finding that 36 of the top 50 wallets are likely foreign (about $804M).
+- **Since then:** through mid-Nov 2026 we found no charge against Zhou and no Treasury or DOJ reply to the 2026-09-15 Senate letter.
+- **Labels:** four relationship labels now flag their single-source status.
+- **New lead:** Reuters (2026-05-01) reports that Nobitex and WLF backers (Sun/Tron, Binance) share the same networks. Reuters says there is no indication the Trump family knew.
+- New sources: DealStreetAsia/Reuters (https://media.dealstreetasia.com/stories/trump-crypto-mystery-man-449016); Daily Beast (https://www.thedailybeast.com/trump-crypto-business-got-millions-from-chinese-tycoon-under-investigation); Yahoo/Reuters (https://finance.yahoo.com/markets/crypto/articles/exclusive-trumps-crypto-venture-irans-080805071.html).

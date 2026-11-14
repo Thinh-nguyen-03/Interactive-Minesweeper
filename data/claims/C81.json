@@ -35,19 +35,21 @@
     {
       "statement": "Gruenbaum personally invested $100,001-$250,000 in a Thrive Capital vehicle in March 2025.",
       "verdict": "unverified",
-      "finding": "SINGLE-SOURCE (WSJ, late May 2026, seen only through aggregators: Crypto Briefing 2026-05-31, Edgen in several languages, EconoTimes, and Wikipedia). The WSJ itself could not be reached. As relayed, Gruenbaum put $100,001-$250,000 (an OGE disclosure value band) through a private wealth manager into a special-purpose vehicle tied to Databricks, described as a $194M Thrive vehicle. Gruenbaum says he disclosed it, got ethics approval and recused himself from the matters; he provided documentation to the WSJ. Some senior GSA officials reportedly did not know about it. We could not see his OGE 278 form. Rated unverified only because it rests on one outlet seen secondhand; the WSJ is credible and nobody denies the investment itself.",
+      "finding": "SINGLE-SOURCE (WSJ, late May 2026, seen only through aggregators: Crypto Briefing 2026-05-31, Edgen in several languages, EconoTimes, and Wikipedia). The WSJ itself could not be reached. As relayed, Gruenbaum put $100,001-$250,000 (an OGE disclosure value band) through a private wealth manager into a special-purpose vehicle tied to Databricks, described as a $194M Thrive vehicle. Gruenbaum says he disclosed it, got ethics approval and recused himself from the matters; he provided documentation to the WSJ. Some senior GSA officials reportedly did not know about it. We could not see his OGE 278 form. Rated unverified only because it rests on one outlet seen secondhand; the WSJ is credible and nobody denies the investment itself. Audit: the WSJ's own Threads post ('Disclosure documents show Josh Gruenbaum was an investor in a Thrive Capital fund while the firm's portfolio companies were up for contracts') and an Investing.com relay ('DOGE official discussed contracts tied to firm he invested in, WSJ reports') confirm that the WSJ published the story; the investment is still one outlet's reporting. A GSA official told the WSJ that Gruenbaum recused himself and did not advocate for Ramp specifically; a contracting-news summary (samsearch/Govly, single-source) adds that he was subject to an internal GSA review of his Ramp communications in Feb 2026.",
       "sources": [
         "https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/",
         "https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract",
         "https://www.edgen.tech/es/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract",
         "https://econotimes.com/Trump-Advisers-Investment-in-Thrive-Capital-Draws-Scrutiny-Over-Federal-Contracts-1743076",
-        "https://en.wikipedia.org/wiki/Josh_Gruenbaum"
+        "https://en.wikipedia.org/wiki/Josh_Gruenbaum",
+        "https://www.threads.com/@wsj/post/DY-JanlFPIw/disclosure-documents-show-josh-gruenbaum-was-an-investor-in-a-thrive-capital/",
+        "https://ca.investing.com/news/economy-news/doge-official-discussed-contracts-tied-to-firm-he-invested-in-wsj-reports-4667420"
       ]
     },
     {
       "statement": "GSA later awarded Thrive-backed Databricks a sole-source contract.",
       "verdict": "confirmed",
-      "finding": "DOCUMENTED for the award (contract records); the link to the investment is single-source. GSA's Technology Transformation Service (part of FAS, which Gruenbaum ran) posted a sole-source justification on 2026-02-10 for 'Databricks Engineering Services' (order 47QPCA26F0011 under MAS contract 47QTCA25D00D3), citing FAR 8.401(b) and GSAR 538.7104-3(b)(3). The order is fixed-price, five months, with a ceiling of $1,824,000 (HigherGov). That settles the aggregators' '$18M' figure as an error; the WSJ figure is $1.8M. Thrive led Databricks's $10B Series J in Dec 2024 at a $62B valuation (Gunderson Dettmer, Alternatives Watch). Per the WSJ as relayed, the award came about ten months after the investment, and Gruenbaum says he recused himself. What this does not show: no source says Gruenbaum signed or steered this order, and a $1.8M software-services order is immaterial to a ~$100B+ company. The issue is the appearance of a conflict and whether the recusal was effective.",
+      "finding": "DOCUMENTED for the award (contract records); the link to the investment is single-source. GSA's Technology Transformation Service (part of FAS, which Gruenbaum ran) posted a sole-source justification on 2026-02-10 for 'Databricks Engineering Services' (order 47QPCA26F0011 under MAS contract 47QTCA25D00D3), citing FAR 8.401(b) and GSAR 538.7104-3(b)(3). The order is fixed-price, five months, with a ceiling of $1,824,000 (HigherGov). That settles the aggregators' '$18M' figure as an error; the WSJ figure is $1.8M. Thrive led Databricks's $10B Series J in Dec 2024 at a $62B valuation (Gunderson Dettmer, Alternatives Watch). Per the WSJ as relayed, the award came about ten months after the investment, and Gruenbaum says he recused himself. What this does not show: no source says Gruenbaum signed or steered this order, and a $1.8M software-services order is immaterial to a ~$100B+ company. The issue is the appearance of a conflict and whether the recusal was effective. Audit: HigherGov, govcontractfinder and samsearch mirrors again show Databricks Federal LLC, order 47QPCA26F0011, ceiling $1,824,000, five months, one bidder, posted 10 Feb 2026 by TTS.",
       "sources": [
         "https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/",
         "https://govcontractfinder.com/contracts/sole-source-justification-for-databricks-engineering-service-47qpca26f0011",
@@ -135,7 +137,8 @@
     "Ramp: unaware of the investment (C66). GSA (2025): rejects any suggestion of unfair or preferential contracting.",
     "OneGov deals at $1 or $0.25 per agency generate little or no direct revenue; their value to vendors is market access. Many other vendors without Thrive ties (Google, Meta, xAI, Microsoft, AWS, Snowflake) got similar deals.",
     "A documented relationship is not proof of wrongdoing; no source alleges that the Databricks order was improperly justified or that Jared Kushner had any role.",
-    "Disclosure: Anthropic, maker of the model that produced this report, is one of the OneGov vendors. It is treated like every other company here."
+    "Disclosure: Anthropic, maker of the model that produced this report, is one of the OneGov vendors. It is treated like every other company here.",
+    "GSA official (per WSJ, relayed): Gruenbaum recused himself from the procurement and did not advocate for Ramp's business specifically."
   ],
   "sources": [
     {
@@ -921,5 +924,44 @@
       ],
       "source_url": "https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Databricks sole-source order ceiling ($1.824M, not $18M)",
+      "WSJ report of Gruenbaum's $100,001-$250,000 Thrive stake (single-source)",
+      "Gruenbaum's recusal and the Ramp dimension"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Databricks order 47QPCA26F0011 ceiling $1,824,000 upheld across three contract-data mirrors.",
+      "Thrive stake still single-source but now confirmed as WSJ reporting via WSJ's own social post and an Investing.com relay; added GSA's recusal/no-advocacy statement to denials and the single-source report of a Feb 2026 internal GSA review of his Ramp communications. Verdict unverified kept (one outlet, form not seen). Note the WSJ post says 'a Thrive Capital fund', while relays call it a Databricks-linked SPV.",
+      "No Nov 2026 reporting found of any IG, congressional or DOJ action on the matter."
+    ],
+    "new_sources": [
+      {
+        "title": "Disclosure documents show Josh Gruenbaum was an investor in a Thrive Capital fund (post)",
+        "publisher": "The Wall Street Journal (Threads)",
+        "url": "https://www.threads.com/@wsj/post/DY-JanlFPIw/disclosure-documents-show-josh-gruenbaum-was-an-investor-in-a-thrive-capital/",
+        "date": "2026-05"
+      },
+      {
+        "title": "DOGE official discussed contracts tied to firm he invested in, WSJ reports",
+        "publisher": "Investing.com",
+        "url": "https://ca.investing.com/news/economy-news/doge-official-discussed-contracts-tied-to-firm-he-invested-in-wsj-reports-4667420",
+        "date": "2026-05"
+      },
+      {
+        "title": "Scrutiny on GSA's Gruenbaum highlights ethics in federal contracting",
+        "publisher": "SAMSearch",
+        "url": "https://samsearch.co/government-contracting-news/scrutiny-on-gsas-gruenbaum-highlights-ethics-in-federal-contracting-105931",
+        "date": "2026"
+      },
+      {
+        "title": "47QTCA25D00D3 / 47QPCA26F0011 Databricks Engineering Services",
+        "publisher": "HigherGov",
+        "url": "https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/",
+        "date": "2026-02"
+      }
+    ]
+  }
 }
