@@ -1,0 +1,884 @@
+{
+  "id": "C42",
+  "title": "How World Liberty insiders took money out",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The documented record supports most of the brief. Trump-owned DT Marks DEFI is entitled to 75% of WLF's net revenue, including token-sale proceeds. Trump disclosed about $57M from WLF for 2024 and about $800M for 2025. Steve Witkoff reported about $107M of 2025 income from a WLF-linked holding company while the White House says he has divested, though no buyer or certificate has been shown. WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI as the token hit record lows. Sun's wallet and 271 others were frozen, WLF promoted the $SPSC memecoin, and WLFI fell about 80-85% from its $0.33 peak. Three points need correction or remain open: the borrower was WLF's own treasury, not individual insiders; no source puts a dollar figure on retail losses; and StringZ Holding's reported Tahnoon backing rests on a single WSJ report citing anonymous sources, which the OCC record does not confirm.",
+  "sub_claims": [
+    {
+      "statement": "DT Marks DEFI LLC is entitled to 75% of WLF's net token-sale and protocol revenue.",
+      "verdict": "confirmed",
+      "finding": "The October 2024 Gold Paper gives DT Marks DEFI 22.5B WLFI and 75% of 'net protocol revenues'. These cover revenue from any source, including token-sale proceeds and fees, after a $30M reserve and agreed expenses. The other 25% goes to Axiom Management Group, owned by Herro and Folkman. On the $550M raised, Decrypt estimated about $390M for Trump-side entities, though one analyst disputes that reading. This entitlement is separate from DT Marks DEFI's equity in WLF Holdco, which was reported at about 60%, then 40%, then 38.25%.",
+      "sources": [
+        "https://www.nbcnews.com/tech/crypto/trump-family-gets-75-crypto-coin-revenue-no-liability-new-document-rev-rcna176088",
+        "https://benzinga.com/markets/cryptocurrency/24/10/41395007/trump-affiliated-entity-will-get-75-of-world-liberty-financials-revenue-and-22-of-wlfi-tok",
+        "https://decrypt.co/310250/trump-390-million-payday-world-liberty-token-sale",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf"
+      ]
+    },
+    {
+      "statement": "Trump disclosed income from WLF.",
+      "verdict": "confirmed",
+      "finding": "The 2024 OGE filing, released June 2025, shows about $57.35M from WLF token sales ($57.7M per Bloomberg Tax). The 2025 filing, released June 30, 2026, shows about $800M: more than $520M from token sales and more than $250M from selling interests in the business. The 22.5B-token stake was valued at about $1.3B. These are revenue figures, not profit.",
+      "sources": [
+        "https://www.ctvnews.ca/world/article/trump-pocketed-over-57-million-from-crypto-coin-sales/",
+        "https://news.bloombergtax.com/crypto/trump-earned-57-7-million-from-crypto-venture-disclosure-shows",
+        "https://unchainedcrypto.com/trumps-2025-financial-disclosure-shows-over-1-billion-in-crypto-income-as-bitcoin-slid-50/",
+        "https://www.citationneeded.news/trumps-crypto-disclosure/"
+      ]
+    },
+    {
+      "statement": "Steve Witkoff received about $107M of 2025 income from his WLF-linked holding company.",
+      "verdict": "confirmed",
+      "finding": "His 2025 OGE disclosure, reported by ABC in September 2026 from a watchdog's copy, shows nearly $107M from a WLF-affiliated holding company, up from $34M in 2024. One outlet splits it into about $69M cash and $38M in digital assets. The filing does not show how much came from WLF itself and had not been certified. His 2025 new-entrant report listed WC Digital Fi LLC, which WLF's documents describe as an affiliate of Witkoff and his family.",
+      "sources": [
+        "https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300",
+        "https://yellow.com/news/witkoff-107m-world-liberty-financial",
+        "https://ground.news/daily-briefing/ba32a445-8595-4aa0-867f-7d43da64fc50"
+      ]
+    },
+    {
+      "statement": "Witkoff's divestment from WLF is disputed.",
+      "verdict": "unverified",
+      "finding": "WLF said in May 2025 that he was 'in the process' of divesting. Bloomberg (Sept 2025) and Senate Democrats (Oct 2025) said he still held WLF assets. The White House said in February 2026 that he had divested, and in September 2026 that he had 'fully divested'. No divestiture certificate, buyer or price has been published, so whether the divestment is complete cannot be verified.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets",
+        "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/",
+        "https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300"
+      ]
+    },
+    {
+      "statement": "WLF insiders borrowed stablecoins against about 5B WLFI tokens as the price hit lows.",
+      "verdict": "mostly-accurate",
+      "finding": "WLF-controlled treasury or multisig wallets, not individual insiders, pledged about 5B WLFI on Dolomite and borrowed about $75M (about 65.4M USD1 plus 10.3M USDC). More than $40M was sent to Coinbase Prime, and the USD1 pool was drained to about 93-100% utilization. Dolomite's co-founder Corey Caplan is a WLF adviser. WLFI fell 12-19% to then-record lows of about $0.077-0.080, erasing about $427M of market value. WLF called the concern 'FUD' and said it repaid $25M by April 11, leaving about $50M. The larger $150M and $261M estimates are unverified. In August 2026 CryptoSlate reported a 112.6M USD1 position near liquidation.",
+      "sources": [
+        "https://www.coindesk.com/markets/2026/04/09/trump-s-world-liberty-financial-borrows-usd75-million-against-its-own-token-trapping-depositors-on-dolomite",
+        "https://unchainedcrypto.com/world-liberty-financial-borrows-75-million-against-its-own-token-on-a-protocol-its-advisor-co-founded-unchained/",
+        "https://www.theblock.co/news/defi/2026-04-10-world-liberty-rebuts-dolomite-criticism-396967",
+        "https://decrypt.co/363928/trump-linked-wlfi-erases-427-million-token-unlock-proposal-defi-loan",
+        "https://fortune.com/2026/04/10/trump-world-liberty-financial-crypto-tokens-insider-loans/",
+        "https://beincrypto.com/world-liberty-financial-repays-25-million-loan",
+        "https://cryptoslate.com/trump-linked-world-liberty-financial-wins-occ-bank-approval-as-112-million-defi-position-sits-near-liquidation/"
+      ]
+    },
+    {
+      "statement": "WLF froze the tokens of Justin Sun and other holders.",
+      "verdict": "confirmed",
+      "finding": "WLF blacklisted Sun's address around Sept 4-5, 2025, after about $9M of WLFI moved, freezing about 540-600M unlocked tokens plus a reported 2.4B locked tokens. WLF said 272 wallets were frozen in total, mostly over phishing. In November 2025 it burned and reallocated about 166.7M WLFI to holders who passed new KYC checks. Sun was still frozen in December 2025, with his stake down more than $60M. A vesting vote in May 2026 locked 17B early-supporter tokens for two years. Sun said he could not vote because his tokens were frozen.",
+      "sources": [
+        "https://www.theblock.co/post/369534/world-liberty-blacklists-justin-sun-wallet-after-tron-founder-moves-9-million-in-wlfi-tokens",
+        "https://unchainedcrypto.com/world-liberty-blacklists-justin-sun-linked-wallet/",
+        "https://www.scmp.com/tech/tech-trends/article/3324540/trump-family-backed-blockchain-project-freezes-tokens-major-backer-justin-sun",
+        "https://www.theblock.co/post/369601/justin-sun-wlfi",
+        "https://coingape.com/world-liberty-financial-discloses-reason-for-blacklisting-272-wallets",
+        "https://cointelegraph.com/news/wlfi-wallet-freeze-trump-crypto-centralization-fears",
+        "https://www.theblock.co/post/383577/justin-suns-locked-world-liberty-tokens",
+        "https://www.theblock.co/news/ecosystems/2026-04-15-trump-backed-world-liberty-proposes-vesting-overhaul-for-62-3-billion-tokens-would-burn-up-to-10-of-insider-allocation-397597",
+        "https://cointelegraph.com/news/wlfi-governance-vote-passes-stake-lock-up-incentives",
+        "https://protos.com/wlfi-token-falls-18-as-governance-vote-branded-a-scam/"
+      ]
+    },
+    {
+      "statement": "WLF promoted the $SPSC memecoin.",
+      "verdict": "confirmed",
+      "finding": "On Nov 24, 2025, WLF said it would invest in $SPSC, a Solana memecoin named after Chase Herro's 'shit in a can' rant and paired with USD1. It rose 130-143%, to a market cap of about $6.8M. Arkham data showed WLF had not yet bought any. No reliable figure exists for a later crash.",
+      "sources": [
+        "https://theblock.co/news/defi/2025-11-24-irreverent-memecoin-inspired-world-liberty-founder-rallies-380275",
+        "https://gizmodo.com/trump-crypto-bitcoin-btc-price-shit-piss-skin-can-wlfi-2000692230"
+      ]
+    },
+    {
+      "statement": "WLFI price history and retail losses.",
+      "verdict": "partly-accurate",
+      "finding": "Presale prices were $0.015 and $0.05. The token peaked at about $0.33 on Sept 1, 2025, its first trading day. It hit lows of about $0.077 in April 2026 and about $0.05 in early May 2026, and traded around $0.05-0.06 through October 2026, down about 80-85% from the peak. Open-market buyers are deep underwater and most early-supporter tokens are still locked. No source puts a dollar figure on WLFI retail losses.",
+      "sources": [
+        "https://defillama.com/token/WLFI",
+        "https://cfgi.io/wlfi-history/",
+        "https://decrypt.co/363928/trump-linked-wlfi-erases-427-million-token-unlock-proposal-defi-loan"
+      ]
+    },
+    {
+      "statement": "Who owns StringZ Holding.",
+      "verdict": "unverified",
+      "finding": "The OCC's Aug 14, 2026 conditional charter decision names StringZ Holding RSC (DE) LLC as a passive investor in WLTC Holdings, without naming its owner or stake size. The WSJ (Aug 27, 2026), citing anonymous sources, reported that a group linked to Tahnoon bin Zayed is behind StringZ, which holds 49%, and that a Trump-family entity holds about 38%. No primary document confirms this, and StringZ's link to Aryam Investment 1 is unknown.",
+      "sources": [
+        "https://cryptaur.com/wltc-holdings-49-stake-one-wsj-source-two-outlets-one-occ-filing/",
+        "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj",
+        "https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
+        "https://unchainedcrypto.com/uae-national-security-adviser-backs-49-of-the-holding-company-behind-the-trump-familys-bank-charter-bid/"
+      ]
+    }
+  ],
+  "corrections": [
+    "The brief says 'WLF insiders' borrowed. The reporting shows WLF's own treasury or multisig wallets borrowed on Dolomite, and no personal borrowing by Trump or Witkoff family members is documented. Loan size: about $75M per CoinDesk; the $150M and $261M estimates are unverified.",
+    "'75% of net revenue' is the Gold Paper revenue entitlement. DT Marks DEFI's equity stake in WLF Holdco is now reported at about 38.25%.",
+    "Witkoff's about $107M came from a WLF-linked holding company, and the filing does not show how much came from WLF itself.",
+    "Entity id note: C04 uses dt-marks-defi-llc and C13 uses dt-marks-defi for the same company. This file uses dt-marks-defi-llc."
+  ],
+  "denials_and_context": [
+    "WLF says the freezes protect users from phishing, calls concerns about the Dolomite loan 'FUD' because the position is overcollateralized, and calls Sun's allegations baseless.",
+    "The White House (Anna Kelly, David Warrington) says Witkoff has fully divested and recuses from matters affecting his interests.",
+    "The OCC says career staff reviewed the WLF trust charter, and says the major shareholders, including StringZ, signed passivity commitments.",
+    "'Extraction' is a characterization. The money flows are documented, but no regulator or court has found wrongdoing, and the SEC has opened no probe (see C13).",
+    "Fetch limits: Fortune, CoinDesk and the ABC affiliate pages could not be fetched here, and the WSJ is paywalled. Findings rely on search-result text cross-checked across outlets."
+  ],
+  "sources": [
+    {
+      "title": "Trump family gets 75% of crypto coin revenue, has no liability, new document reveals",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/tech/crypto/trump-family-gets-75-crypto-coin-revenue-no-liability-new-document-rev-rcna176088",
+      "date": "2024-10"
+    },
+    {
+      "title": "Trump-affiliated entity will get 75% of World Liberty Financial's revenue and 22% of WLFI tokens",
+      "publisher": "Benzinga",
+      "url": "https://benzinga.com/markets/cryptocurrency/24/10/41395007/trump-affiliated-entity-will-get-75-of-world-liberty-financials-revenue-and-22-of-wlfi-tok",
+      "date": "2024-10"
+    },
+    {
+      "title": "Trump, Associates Net $390 Million Payday From World Liberty Token Sale",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/310250/trump-390-million-payday-world-liberty-token-sale",
+      "date": "2025-03"
+    },
+    {
+      "title": "Trump's 2025 financial disclosure shows over $1 billion in crypto income",
+      "publisher": "Unchained",
+      "url": "https://unchainedcrypto.com/trumps-2025-financial-disclosure-shows-over-1-billion-in-crypto-income-as-bitcoin-slid-50/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Memo on Understanding Trump's Crypto Wealth",
+      "publisher": "Center for American Progress",
+      "url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Trump pocketed over $57 million from crypto coin sales",
+      "publisher": "CTV News / Reuters",
+      "url": "https://www.ctvnews.ca/world/article/trump-pocketed-over-57-million-from-crypto-coin-sales/",
+      "date": "2025-06"
+    },
+    {
+      "title": "Trump Earned $57.7 Million From Crypto Venture, Disclosure Shows",
+      "publisher": "Bloomberg Tax",
+      "url": "https://news.bloombergtax.com/crypto/trump-earned-57-7-million-from-crypto-venture-disclosure-shows",
+      "date": "2025-06"
+    },
+    {
+      "title": "Trump's crypto disclosure",
+      "publisher": "Citation Needed (Molly White)",
+      "url": "https://www.citationneeded.news/trumps-crypto-disclosure/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Steve Witkoff earned $107M from Trump-affiliated crypto venture, disclosures show",
+      "publisher": "ABC News",
+      "url": "https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300",
+      "date": "2026-09"
+    },
+    {
+      "title": "Witkoff Reported $107M From A World Liberty Holding Before Senate Vote",
+      "publisher": "Yellow.com",
+      "url": "https://yellow.com/news/witkoff-107m-world-liberty-financial",
+      "date": "2026-09"
+    },
+    {
+      "title": "Witkoff Reports $107 Million Income From Crypto Holding, Ethics Filing Shows",
+      "publisher": "Ground News",
+      "url": "https://ground.news/daily-briefing/ba32a445-8595-4aa0-867f-7d43da64fc50",
+      "date": "2026-09"
+    },
+    {
+      "title": "Steve Witkoff Is Still Holding Trump-Linked Crypto Assets",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets",
+      "date": "2025-09-17"
+    },
+    {
+      "title": "Sen. Schiff leads Senate Democrats in demanding answers from Witkoff on failure to divest WLF assets",
+      "publisher": "US Senate (Office of Sen. Schiff)",
+      "url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/",
+      "date": "2025-10-22"
+    },
+    {
+      "title": "Trump's World Liberty Financial uses 5 billion WLFI to borrow $75 million from a platform its adviser co-founded",
+      "publisher": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/09/trump-s-world-liberty-financial-borrows-usd75-million-against-its-own-token-trapping-depositors-on-dolomite",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "World Liberty Financial borrows $75 million against its own token on a protocol its advisor co-founded",
+      "publisher": "Unchained",
+      "url": "https://unchainedcrypto.com/world-liberty-financial-borrows-75-million-against-its-own-token-on-a-protocol-its-advisor-co-founded-unchained/",
+      "date": "2026-04"
+    },
+    {
+      "title": "World Liberty defends borrowing position on Dolomite, dismisses liquidation concerns as 'FUD'",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/defi/2026-04-10-world-liberty-rebuts-dolomite-criticism-396967",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Trump-Linked WLFI Erases $427 Million From Market Cap on DeFi Loan, Token Unlock Proposal",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/363928/trump-linked-wlfi-erases-427-million-token-unlock-proposal-defi-loan",
+      "date": "2026-04"
+    },
+    {
+      "title": "Trump-backed World Liberty Financial tokens hit all-time low on reports of insider loans",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/04/10/trump-world-liberty-financial-crypto-tokens-insider-loans/",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "World Liberty Financial repays $25 million loan",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/world-liberty-financial-repays-25-million-loan",
+      "date": "2026-04"
+    },
+    {
+      "title": "Trump-linked World Liberty Financial wins OCC bank approval as $112 million DeFi position sits near liquidation",
+      "publisher": "CryptoSlate",
+      "url": "https://cryptoslate.com/trump-linked-world-liberty-financial-wins-occ-bank-approval-as-112-million-defi-position-sits-near-liquidation/",
+      "date": "2026-08"
+    },
+    {
+      "title": "World Liberty blacklists Justin Sun wallet after Tron founder moves $9 million in WLFI tokens",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/369534/world-liberty-blacklists-justin-sun-wallet-after-tron-founder-moves-9-million-in-wlfi-tokens",
+      "date": "2025-09-04"
+    },
+    {
+      "title": "World Liberty blacklists Justin Sun-linked wallet",
+      "publisher": "Unchained",
+      "url": "https://unchainedcrypto.com/world-liberty-blacklists-justin-sun-linked-wallet/",
+      "date": "2025-09"
+    },
+    {
+      "title": "Trump family-backed blockchain project freezes tokens of major backer Justin Sun",
+      "publisher": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3324540/trump-family-backed-blockchain-project-freezes-tokens-major-backer-justin-sun",
+      "date": "2025-09"
+    },
+    {
+      "title": "'I am innocent': Justin Sun calls for World Liberty Financial to unfreeze his WLFI tokens",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/369601/justin-sun-wlfi",
+      "date": "2025-09"
+    },
+    {
+      "title": "World Liberty Financial discloses reason for blacklisting 272 wallets",
+      "publisher": "CoinGape",
+      "url": "https://coingape.com/world-liberty-financial-discloses-reason-for-blacklisting-272-wallets",
+      "date": "2025-09"
+    },
+    {
+      "title": "WLFI wallet freeze sparks Trump crypto centralization fears",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/wlfi-wallet-freeze-trump-crypto-centralization-fears",
+      "date": "2025"
+    },
+    {
+      "title": "Justin Sun's locked World Liberty tokens down $60 million since September: Bubblemaps",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/383577/justin-suns-locked-world-liberty-tokens",
+      "date": "2025-12"
+    },
+    {
+      "title": "Trump-backed World Liberty proposes vesting overhaul for 62.3 billion tokens",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/ecosystems/2026-04-15-trump-backed-world-liberty-proposes-vesting-overhaul-for-62-3-billion-tokens-would-burn-up-to-10-of-insider-allocation-397597",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "WLFI governance vote passes",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/wlfi-governance-vote-passes-stake-lock-up-incentives",
+      "date": "2026-05"
+    },
+    {
+      "title": "WLFI token falls 18% as governance vote branded a 'scam'",
+      "publisher": "Protos",
+      "url": "https://protos.com/wlfi-token-falls-18-as-governance-vote-branded-a-scam/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Irreverent memecoin inspired by World Liberty founder rallies 130% after endorsement",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/defi/2025-11-24-irreverent-memecoin-inspired-world-liberty-founder-rallies-380275",
+      "date": "2025-11-24"
+    },
+    {
+      "title": "WLFI promotes 'shit piss skin can' coin",
+      "publisher": "Gizmodo",
+      "url": "https://gizmodo.com/trump-crypto-bitcoin-btc-price-shit-piss-skin-can-wlfi-2000692230",
+      "date": "2025-11"
+    },
+    {
+      "title": "WLFI token page",
+      "publisher": "DefiLlama",
+      "url": "https://defillama.com/token/WLFI",
+      "date": "2026"
+    },
+    {
+      "title": "WLFI price history",
+      "publisher": "CFGI",
+      "url": "https://cfgi.io/wlfi-history/",
+      "date": "2026"
+    },
+    {
+      "title": "WLTC Holdings' 49% stake: one WSJ source, two outlets, one OCC filing",
+      "publisher": "Cryptaur",
+      "url": "https://cryptaur.com/wltc-holdings-49-stake-one-wsj-source-two-outlets-one-occ-filing/",
+      "date": "2026-08"
+    },
+    {
+      "title": "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "UAE 'spy sheikh' takes 49% stake in Trump family's bank venture: WSJ",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "UAE national security adviser backs 49% of the holding company behind the Trump family's bank charter bid",
+      "publisher": "Unchained",
+      "url": "https://unchainedcrypto.com/uae-national-security-adviser-backs-49-of-the-holding-company-behind-the-trump-familys-bank-charter-bid/",
+      "date": "2026-08"
+    }
+  ],
+  "entities": [
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family-backed crypto venture issuing WLFI and USD1"
+    },
+    {
+      "id": "dt-marks-defi-llc",
+      "name": "DT Marks DEFI LLC",
+      "type": "company",
+      "description": "Trump-owned entity holding 22.5B WLFI and 75% of WLF net revenue"
+    },
+    {
+      "id": "axiom-management-group",
+      "name": "Axiom Management Group",
+      "type": "company",
+      "description": "Herro/Folkman entity entitled to the other 25% of WLF net revenue"
+    },
+    {
+      "id": "wlf-holdco",
+      "name": "WLF Holdco LLC",
+      "type": "company",
+      "description": "Holding company that owns World Liberty Financial"
+    },
+    {
+      "id": "wc-digital-fi",
+      "name": "WC Digital Fi LLC",
+      "type": "company",
+      "description": "Witkoff-family affiliate holding WLF interests"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president; beneficiary of DT Marks DEFI"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "WLF co-founder figure"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "WLF co-founder figure"
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "US special envoy; WLF co-founder emeritus"
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF co-founder and CEO"
+    },
+    {
+      "id": "chase-herro",
+      "name": "Chase Herro",
+      "type": "person",
+      "description": "WLF co-founder; namesake of the $SPSC memecoin"
+    },
+    {
+      "id": "zak-folkman",
+      "name": "Zak Folkman",
+      "type": "person",
+      "description": "WLF co-founder"
+    },
+    {
+      "id": "justin-sun",
+      "name": "Justin Sun",
+      "type": "person",
+      "description": "Tron founder; $75M WLF investor whose tokens were frozen"
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Tahnoon bin Zayed Al Nahyan",
+      "type": "person",
+      "description": "UAE national security adviser; reported backer of Aryam and StringZ"
+    },
+    {
+      "id": "corey-caplan",
+      "name": "Corey Caplan",
+      "type": "person",
+      "description": "Dolomite co-founder; WLF adviser/CTO"
+    },
+    {
+      "id": "anna-kelly",
+      "name": "Anna Kelly",
+      "type": "person",
+      "description": "White House spokeswoman"
+    },
+    {
+      "id": "adam-schiff",
+      "name": "Adam Schiff",
+      "type": "person",
+      "description": "US senator who led the October 2025 letter on Witkoff's divestment"
+    },
+    {
+      "id": "wlfi-token",
+      "name": "WLFI",
+      "type": "asset",
+      "description": "WLF governance token"
+    },
+    {
+      "id": "usd1",
+      "name": "USD1",
+      "type": "asset",
+      "description": "WLF stablecoin"
+    },
+    {
+      "id": "spsc-memecoin",
+      "name": "$SPSC",
+      "type": "asset",
+      "description": "Solana memecoin named after Herro's rant, promoted by WLF in November 2025"
+    },
+    {
+      "id": "dolomite",
+      "name": "Dolomite",
+      "type": "company",
+      "description": "DeFi lending protocol behind World Liberty Markets"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "type": "company",
+      "description": "Received more than $40M of the borrowed stablecoins via Coinbase Prime"
+    },
+    {
+      "id": "stringz-holding",
+      "name": "StringZ Holding RSC (DE) LLC",
+      "type": "company",
+      "description": "Investor in WLTC Holdings, reportedly holding 49% and backed by Tahnoon"
+    },
+    {
+      "id": "wltc-holdings",
+      "name": "WLTC Holdings",
+      "type": "company",
+      "description": "Parent of World Liberty Trust Company"
+    },
+    {
+      "id": "world-liberty-trust-company",
+      "name": "World Liberty Trust Company",
+      "type": "company",
+      "description": "Proposed national trust bank, conditionally approved by the OCC"
+    },
+    {
+      "id": "aryam-investment-1",
+      "name": "Aryam Investment 1",
+      "type": "fund",
+      "description": "Tahnoon-backed vehicle that bought 49% of WLF"
+    },
+    {
+      "id": "occ",
+      "name": "Office of the Comptroller of the Currency",
+      "type": "government",
+      "description": "Bank regulator that conditionally approved the WLF trust charter"
+    },
+    {
+      "id": "office-of-government-ethics",
+      "name": "Office of Government Ethics",
+      "type": "government",
+      "description": "Receives federal officials' financial disclosures"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Says Witkoff has divested"
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Senate Democrats questioned Witkoff's divestment"
+    },
+    {
+      "id": "bubblemaps",
+      "name": "Bubblemaps",
+      "type": "company",
+      "description": "On-chain analytics firm tracking WLFI positions"
+    },
+    {
+      "id": "alt5-sigma",
+      "name": "ALT5 Sigma",
+      "type": "company",
+      "description": "WLFI treasury company (C13)"
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "Home of Tahnoon-linked investors"
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "Wall Street Journal",
+      "type": "media",
+      "description": "Reported Tahnoon's backing of StringZ"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "dt-marks-defi-llc",
+      "target": "world-liberty-financial",
+      "label": "entitled to 75% of net protocol revenue incl. token sales",
+      "type": "money",
+      "date": "2024-10"
+    },
+    {
+      "source": "axiom-management-group",
+      "target": "world-liberty-financial",
+      "label": "entitled to 25% of net protocol revenue",
+      "type": "money",
+      "date": "2024-10"
+    },
+    {
+      "source": "chase-herro",
+      "target": "axiom-management-group",
+      "label": "co-owns",
+      "type": "ownership",
+      "date": "2024-10"
+    },
+    {
+      "source": "zak-folkman",
+      "target": "axiom-management-group",
+      "label": "co-owns",
+      "type": "ownership",
+      "date": "2024-10"
+    },
+    {
+      "source": "donald-trump",
+      "target": "dt-marks-defi-llc",
+      "label": "owns (with family)",
+      "type": "ownership",
+      "date": "2024"
+    },
+    {
+      "source": "dt-marks-defi-llc",
+      "target": "wlfi-token",
+      "label": "holds 22.5B tokens (about $1.3B per 2025 filing)",
+      "type": "ownership",
+      "date": "2025-12",
+      "amount_usd": 1300000000
+    },
+    {
+      "source": "dt-marks-defi-llc",
+      "target": "wlf-holdco",
+      "label": "owns about 38.25% (earlier about 60%)",
+      "type": "ownership",
+      "date": "2026"
+    },
+    {
+      "source": "wlf-holdco",
+      "target": "world-liberty-financial",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "donald-trump",
+      "label": "paid about $57.35M of token-sale income (2024 disclosure)",
+      "type": "money",
+      "date": "2024",
+      "amount_usd": 57350000
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "donald-trump",
+      "label": "paid about $800M of income (2025 disclosure)",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 800000000
+    },
+    {
+      "source": "wc-digital-fi",
+      "target": "steve-witkoff",
+      "label": "paid about $107M of 2025 income (WLF-linked holding company)",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 107000000
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "wc-digital-fi",
+      "label": "holds interest in (divestment claimed, unverified)",
+      "type": "ownership",
+      "date": "2025-08"
+    },
+    {
+      "source": "wc-digital-fi",
+      "target": "world-liberty-financial",
+      "label": "holds interest in",
+      "type": "ownership"
+    },
+    {
+      "source": "white-house",
+      "target": "steve-witkoff",
+      "label": "says he has fully divested",
+      "type": "political",
+      "date": "2026-09"
+    },
+    {
+      "source": "us-congress",
+      "target": "steve-witkoff",
+      "label": "questioned failure to divest",
+      "type": "political",
+      "date": "2025-10-22"
+    },
+    {
+      "source": "adam-schiff",
+      "target": "steve-witkoff",
+      "label": "led senators' letter on WLF holdings",
+      "type": "political",
+      "date": "2025-10-22"
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "office-of-government-ethics",
+      "label": "filed 2025 disclosure with",
+      "type": "regulatory",
+      "date": "2026"
+    },
+    {
+      "source": "donald-trump",
+      "target": "office-of-government-ethics",
+      "label": "filed 2025 disclosure with",
+      "type": "regulatory",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "dolomite",
+      "label": "borrowed about $75M of stablecoins against about 5B WLFI",
+      "type": "money",
+      "date": "2026-04-09",
+      "amount_usd": 75000000
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "coinbase",
+      "label": "sent more than $40M of borrowed stablecoins to Coinbase Prime",
+      "type": "money",
+      "date": "2026-04-09",
+      "amount_usd": 40000000
+    },
+    {
+      "source": "corey-caplan",
+      "target": "dolomite",
+      "label": "co-founded",
+      "type": "ownership"
+    },
+    {
+      "source": "corey-caplan",
+      "target": "world-liberty-financial",
+      "label": "adviser / reported CTO",
+      "type": "advisory"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "justin-sun",
+      "label": "froze about 540-600M unlocked plus 2.4B locked WLFI",
+      "type": "legal",
+      "date": "2025-09-04"
+    },
+    {
+      "source": "justin-sun",
+      "target": "world-liberty-financial",
+      "label": "sued over the freeze (C05)",
+      "type": "legal",
+      "date": "2026-04"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "spsc-memecoin",
+      "label": "promoted / said it would invest in",
+      "type": "commercial",
+      "date": "2025-11-24"
+    },
+    {
+      "source": "chase-herro",
+      "target": "spsc-memecoin",
+      "label": "namesake of",
+      "type": "media",
+      "date": "2025-11"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "wlfi-token",
+      "label": "issues",
+      "type": "ownership"
+    },
+    {
+      "source": "stringz-holding",
+      "target": "wltc-holdings",
+      "label": "reportedly owns 49% (WSJ, anonymous sources)",
+      "type": "ownership",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "stringz-holding",
+      "label": "reportedly backs (unverified)",
+      "type": "ownership",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "aryam-investment-1",
+      "label": "backs",
+      "type": "ownership"
+    },
+    {
+      "source": "aryam-investment-1",
+      "target": "world-liberty-financial",
+      "label": "bought 49% for $500M (C14)",
+      "type": "money",
+      "date": "2025-01",
+      "amount_usd": 500000000
+    },
+    {
+      "source": "wltc-holdings",
+      "target": "world-liberty-trust-company",
+      "label": "parent of",
+      "type": "ownership"
+    },
+    {
+      "source": "occ",
+      "target": "world-liberty-trust-company",
+      "label": "conditionally approved charter; StringZ passivity commitment",
+      "type": "regulatory",
+      "date": "2026-08-14"
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "stringz-holding",
+      "label": "reported Tahnoon backing",
+      "type": "media",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "world-liberty-financial",
+      "label": "CEO",
+      "type": "advisory"
+    },
+    {
+      "source": "eric-trump",
+      "target": "world-liberty-financial",
+      "label": "co-founder figure",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "world-liberty-financial",
+      "label": "co-founder figure",
+      "type": "ownership"
+    },
+    {
+      "source": "bubblemaps",
+      "target": "justin-sun",
+      "label": "tracked frozen stake losses of more than $60M",
+      "type": "media",
+      "date": "2025-12"
+    },
+    {
+      "source": "alt5-sigma",
+      "target": "wlfi-token",
+      "label": "WLFI treasury buyer (C13)",
+      "type": "money",
+      "date": "2025-08"
+    }
+  ],
+  "leads": [
+    {
+      "title": "WLF sold billions of tokens to insiders and partners while early investors stayed locked",
+      "why_connected": "A direct extraction route alongside the 75% revenue share: WLF sold tokens while retail presale holders could not sell.",
+      "entities": [
+        "world-liberty-financial",
+        "wlfi-token",
+        "alt5-sigma"
+      ],
+      "source_url": "https://unchainedcrypto.com/world-liberty-financial-quietly-sold-billions-in-tokens-as-early-investors-remained-locked-out/"
+    },
+    {
+      "title": "WLF's Dolomite multisig position at a 1.07 health factor around the OCC charter approval",
+      "why_connected": "The Dolomite borrowing was still near liquidation in August 2026, just as the OCC was approving WLF's trust bank. The current balance needs checking.",
+      "entities": [
+        "world-liberty-financial",
+        "dolomite",
+        "occ",
+        "usd1"
+      ],
+      "source_url": "https://cryptoslate.com/trump-linked-world-liberty-financial-wins-occ-bank-approval-as-112-million-defi-position-sits-near-liquidation/"
+    },
+    {
+      "title": "Burn and KYC-gated reallocation of 166.7M WLFI from frozen wallets",
+      "why_connected": "WLF unilaterally burned and reissued holders' tokens. The governance and legal basis is unexamined.",
+      "entities": [
+        "world-liberty-financial",
+        "wlfi-token"
+      ],
+      "source_url": "https://cointelegraph.com/news/wlfi-wallet-freeze-trump-crypto-centralization-fears"
+    },
+    {
+      "title": "Witkoff's reported $120M sale of a stake in his real-estate firm with no buyer named",
+      "why_connected": "Part of the same divestiture planning in his 2025 disclosure. The buyer's identity matters for conflict-of-interest questions.",
+      "entities": [
+        "steve-witkoff",
+        "office-of-government-ethics"
+      ],
+      "source_url": "https://yellow.com/news/witkoff-107m-world-liberty-financial"
+    },
+    {
+      "title": "Inconsistent DT Marks DEFI ownership figures (60%, 40%, 38%)",
+      "why_connected": "CAP's memo documents WLF's own shifting statements about how much of the venture the Trump family owns.",
+      "entities": [
+        "dt-marks-defi-llc",
+        "wlf-holdco",
+        "donald-trump"
+      ],
+      "source_url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf"
+    }
+  ]
+}

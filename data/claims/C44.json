@@ -1,0 +1,722 @@
+{
+  "id": "C44",
+  "title": "Melania Trump's Amazon documentary deal",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The money is documented. Amazon paid about $40M for the 'Melania' rights (reported by Puck and the WSJ, not officially confirmed) plus about $35M in marketing, and the film grossed $16.6M. Trump's 2025 OGE report lists a $10.71M licensing fee for the film. Amazon and Bezos do have large business before the government: the FTC case and $2.5B settlement, AWS federal deals, Blue Origin launch awards, the Amazon Leo FCC waiver, and the tariff spat. The rival-bid figures (Disney about $14M, Paramount about $4M) rest on one anonymously sourced WSJ report, and the bribery or pay-to-play theory remains an unproven allegation by Democratic lawmakers, denied by Amazon, Bezos and Melania's office.",
+  "sub_claims": [
+    {
+      "statement": "Amazon paid about $40M to license the Melania documentary.",
+      "verdict": "confirmed",
+      "finding": "Puck first reported it in Jan 2025 and the WSJ and others followed; Amazon confirmed the licensing deal (theatrical, Prime Video and a follow-up docuseries) but not the price. Amazon MGM reportedly spent about $35M more on marketing (about $75M total). The film opened Jan 30, 2026, took about $7M on opening weekend and about $16.6M globally, and has streamed on Prime since Mar 9, 2026. A two-part follow-up series is due Nov 20, 2026.",
+      "sources": [
+        "https://salon.com/2025/01/07/paid-40-million-for-the-rights-to-a-melania-documentary-directed-by-an-alleged-abuser",
+        "https://www.nbcnewyork.com/news/business/money-report/amazon-licenses-melania-trump-documentary-as-jeff-bezos-cozies-up-to-president-elect/6094465/?amp=1",
+        "https://www.nbcnews.com/pop-culture/movies/melania-documentary-beats-box-office-expectations-amazon-mgm-studios-rcna256947",
+        "https://www.euronews.com/2026/08/06/new-melania-trump-series-coming-to-amazon-prime-after-huge-losses-for-controversial-melani"
+      ]
+    },
+    {
+      "statement": "Amazon's bid was far above rival bids.",
+      "verdict": "partly-accurate",
+      "finding": "The WSJ reported Disney at about $14M and Paramount at about $4M, with Netflix and Apple not bidding, putting Amazon at nearly three times the next bid. Warren and Johnson cite a $26M gap over Disney. Puck and the Daily Beast said the losing bids were not public. Amazon called the process 'thorough and competitive' but did not disclose the rival bids. No primary confirmation was found.",
+      "sources": [
+        "https://thedailybeast.com/streamers-fought-to-line-trumps-pockets-in-melania-doc-bidding-war",
+        "https://au.variety.com/2026/film/news/elizabeth-warren-melania-doc-bribe-amazon-mgm-response-35242/",
+        "https://www.washingtontimes.com/news/2026/apr/14/elizabeth-warren-accuses-amazon-mgm-bribery-melania-documentary-deal/"
+      ]
+    },
+    {
+      "statement": "Melania netted about $10.7M+ from the film in 2025.",
+      "verdict": "mostly-accurate",
+      "finding": "Trump's 2025 OGE 278e (released 2026-06-30) lists a $10.71M licensing fee for 'Melania'. Variety and TheWrap call it Trump's income; Newsweek and Notus call it the First Lady's net proceeds (spouse income). Her 2025 total was about $17.2M, including about $6.01M from NFTs and $521K from the memoir license. The WSJ had reported her share at more than 70% of $40M (about $28M); the gap is unexplained and may be timing.",
+      "sources": [
+        "https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/",
+        "https://www.thewrap.com/industry-news/business/trump-was-paid-10-7-million-for-amazons-melania-doc/",
+        "https://www.newsweek.com/trump-financial-disclosure-crypto-melania-movie-income-12143420",
+        "https://www.notus.org/trump-white-house/trump-annual-financial-disclosure-crypto-earnings"
+      ]
+    },
+    {
+      "statement": "Amazon and Bezos had major business before the administration (antitrust, cloud, Blue Origin/Kuiper, tariffs).",
+      "verdict": "confirmed",
+      "finding": "FTC: the monopolization trial is set for 2027-03-29 (on 2026-10-09 the judge refused a further delay), and Amazon settled the Prime case on 2025-09-25 for $2.5B. AWS: the GSA OneGov deal (Aug 2025) and a $50B government AI infrastructure pledge (Nov 2025). Blue Origin: 7 NSSL missions worth about $2.3B (Apr 2025). Amazon Leo (formerly Kuiper): an FCC deadline waiver (Jun 2026). Tariffs: on 2025-04-29 the White House called a reported tariff-cost display 'hostile and political'; Trump said Bezos 'solved the problem very quickly'.",
+      "sources": [
+        "https://au.variety.com/2025/digital/news/amazon-pay-2-5-billion-ftc-settlement-prime-program-2-28235",
+        "https://www.mlex.com/mlex/antitrust/articles/2536525/amazon-s-bid-to-delay-us-ftc-monopolization-trial-rejected-by-judge",
+        "https://www.nextgov.com/emerging-tech/2025/11/aws-invest-50b-ai-and-supercomputing-infrastructure-government-customers/409744/",
+        "https://www.bloomberg.com/news/articles/2025-04-04/spacex-ula-blue-origin-win-13b-in-pentagon-launch-contracts",
+        "https://www.satelliteinternet.com/resources/fcc-grants-amazon-leo-extension/",
+        "https://www.cbsnews.com/amp/news/amazon-tariffs-tariff-price-karoline-leavitt-trump-hostile-political-act",
+        "https://www.thewrap.com/trump-jeff-bezos-amazon-tariff-disclaimer"
+      ]
+    },
+    {
+      "statement": "The deal's timing lines up with government decisions favorable to Amazon.",
+      "verdict": "partly-accurate",
+      "finding": "The chronology is real. Bezos dined with Trump at Mar-a-Lago in mid-Dec 2024, Amazon pledged $1M to the inauguration fund, and the deal was reported Jan 5-7, 2025, before the inauguration. Later actions (the FTC settlement, AWS and GSA deals, the NSSL award, the FCC waiver) followed. No document ties any decision to the film, the NSSL award was a multi-vendor competition, and the FTC antitrust case is still going to trial.",
+      "sources": [
+        "https://bgr.com/business/amazon-which-is-donating-1m-to-trumps-inauguration-is-releasing-a-film-about-melania-trump",
+        "https://www.nbcnewyork.com/news/business/money-report/amazon-licenses-melania-trump-documentary-as-jeff-bezos-cozies-up-to-president-elect/6094465/?amp=1"
+      ]
+    },
+    {
+      "statement": "Bezos/Amazon made an inauguration donation and Bezos changed the Washington Post's opinion section.",
+      "verdict": "confirmed",
+      "finding": "Amazon gave $1M to the inauguration plus in-kind Prime streaming. On 2025-02-26 Bezos said Post opinion pages would defend 'personal liberties and free markets'; editor David Shipley left, and Ruth Marcus resigned in Mar 2025 after a critical column was killed. Linking these to the film is interpretation.",
+      "sources": [
+        "https://bgr.com/business/amazon-which-is-donating-1m-to-trumps-inauguration-is-releasing-a-film-about-melania-trump",
+        "https://www.inquirer.com/politics/nation/jeff-bezos-opinion-pages-washington-post-free-market-personal-liberties-20250226.html",
+        "https://www.thewrap.com/washington-post-column-unwise-jeff-bezos-ruth-marcus-quits"
+      ]
+    },
+    {
+      "statement": "The deal was a bribe or pay-to-play arrangement.",
+      "verdict": "unverified",
+      "finding": "Warren, Johnson, Lujan, Jayapal and Goldman wrote to Andy Jassy on 2026-03-15/16 citing possible bribery-law exposure. Amazon's VP Brian Huseman replied (reported as dated 2026-03-30) denying impropriety. On 2026-04-13 Warren called the deal 'bribery in plain sight'. No DOJ, IG or majority-led probe and no official finding was found.",
+      "sources": [
+        "https://news.bloomberglaw.com/tech-and-telecom-law/amazon-asked-by-senators-if-melania-film-is-pay-to-play-scheme",
+        "https://www.aol.com/articles/dem-lawmakers-amazon-melania-documentary-140000153.html",
+        "https://au.variety.com/2026/film/news/elizabeth-warren-melania-doc-bribe-amazon-mgm-response-35242/"
+      ]
+    }
+  ],
+  "corrections": [
+    "The $10.71M appears on Donald Trump's 2025 OGE report; outlets split on whether it is labelled as his or as Melania's spouse income. Melania filed no separate report.",
+    "The rival bids (Disney about $14M, Paramount about $4M) come from one anonymously sourced WSJ report, never confirmed by Amazon.",
+    "Kuiper is now Amazon Leo; its 2026 FCC action was a deadline waiver, not a contract. Blue Origin's big federal award was the Apr 2025 NSSL launch contract (about $2.3B).",
+    "The WSJ reported Melania's share as more than 70% of $40M (about $28M), versus $10.71M disclosed for 2025. The two are not reconciled."
+  ],
+  "denials_and_context": [
+    "Amazon (VP Public Policy Brian Huseman): the bidding was 'thorough and competitive'; the choice rested on 'the access, the story, and its cultural and historical relevance'; nothing improper.",
+    "Jeff Bezos (CNBC, 2026-05-20): he had 'nothing to do with' the deal, the curry-favor claim is 'a falsehood that will not die', and the film was a 'very wise business decision'.",
+    "Marc Beckman (Melania's adviser): the film is 'not political at all'; Melania pitched it herself after the 2024 election.",
+    "Against the bribery theory: the FTC still got a record $2.5B Prime settlement and is taking the antitrust case to a 2027 trial; the NSSL awards went to three vendors.",
+    "Toward it: the film lost money theatrically (break-even about $40-45M domestic vs $16.6M global), yet Amazon ordered a follow-up series. Amazon is also a White House ballroom donor (see C33).",
+    "The official Warren and Hank Johnson pages and PDFs could not be fetched from this environment; their content is taken from outlets quoting them."
+  ],
+  "sources": [
+    {
+      "title": "Amazon paid $40 million for the rights to a Melania Trump documentary...",
+      "publisher": "Salon",
+      "url": "https://salon.com/2025/01/07/paid-40-million-for-the-rights-to-a-melania-documentary-directed-by-an-alleged-abuser",
+      "date": "2025-01-07"
+    },
+    {
+      "title": "Streamers fought to line Trump's pockets in Melania doc bidding war",
+      "publisher": "Daily Beast",
+      "url": "https://thedailybeast.com/streamers-fought-to-line-trumps-pockets-in-melania-doc-bidding-war",
+      "date": "2025-01"
+    },
+    {
+      "title": "Report: Amazon Is Paying $40M for Melania Documentary",
+      "publisher": "Newser",
+      "url": "https://amp.newser.com/story/362122/report-amazon-is-paying-40m-for-melania-documentary.html",
+      "date": "2025-01"
+    },
+    {
+      "title": "Amazon licenses Melania Trump documentary as Jeff Bezos cozies up to president-elect",
+      "publisher": "CNBC/NBC New York",
+      "url": "https://www.nbcnewyork.com/news/business/money-report/amazon-licenses-melania-trump-documentary-as-jeff-bezos-cozies-up-to-president-elect/6094465/?amp=1",
+      "date": "2025-01-05"
+    },
+    {
+      "title": "Amazon, Which Is Donating $1 Million To Trump's Inauguration, Is Releasing A Film About Melania Trump",
+      "publisher": "BGR",
+      "url": "https://bgr.com/business/amazon-which-is-donating-1m-to-trumps-inauguration-is-releasing-a-film-about-melania-trump",
+      "date": "2025-01"
+    },
+    {
+      "title": "'Melania' doc beats box office expectations despite criticism, poor reviews",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/pop-culture/movies/melania-documentary-beats-box-office-expectations-amazon-mgm-studios-rcna256947",
+      "date": "2026-02-01"
+    },
+    {
+      "title": "Melania documentary box office debut $7 million",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/02/01/melania-documentary-box-office-ticket-sales-debut-7-million-amazon-mgm-studios/",
+      "date": "2026-02-01"
+    },
+    {
+      "title": "Trump Received $10.7 Million Fee for Amazon's 'Melania' Documentary",
+      "publisher": "Variety",
+      "url": "https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Trump Was Paid $10.7 Million for Amazon's 'Melania' Doc",
+      "publisher": "TheWrap",
+      "url": "https://www.thewrap.com/industry-news/business/trump-was-paid-10-7-million-for-amazons-melania-doc/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Trump financial disclosure: crypto, Melania movie income",
+      "publisher": "Newsweek",
+      "url": "https://www.newsweek.com/trump-financial-disclosure-crypto-melania-movie-income-12143420",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Trump Discloses More Than $1.1 Billion In Crypto Earnings",
+      "publisher": "Notus",
+      "url": "https://www.notus.org/trump-white-house/trump-annual-financial-disclosure-crypto-earnings",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Letter from Sen. Warren and Rep. Hank Johnson to Amazon on $75M Melania documentary deal and anti-bribery concerns",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/wp-content/uploads/media/doc/letter_from_senator_warren_representative_hank_johnson_to_amazon_on_75_million_dollar_melania_documentary_deal_and_anti-bribery_concerns.pdf",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "Amazon response to Senator Warren, Representative Hank Johnson on investment in Melania movie",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/imo/media/doc/amazon_response_to_senator_warren_representative_hank_johnson_on_investment_in_melania_movie.pdf",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "Amazon claims to Warren, Hank Johnson no improper bids in Melania movie...",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/amazon-claims-to-warren-hank-johnson-no-improper-bids-in-melania-movie-despite-reportedly-paying-three-times-as-much-as-next-highest-bidder",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "Elizabeth Warren calls Melania doc a bribe; Amazon MGM responds",
+      "publisher": "Variety",
+      "url": "https://au.variety.com/2026/film/news/elizabeth-warren-melania-doc-bribe-amazon-mgm-response-35242/",
+      "date": "2026-04"
+    },
+    {
+      "title": "Elizabeth Warren accuses Amazon MGM of bribery over Melania documentary deal",
+      "publisher": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/apr/14/elizabeth-warren-accuses-amazon-mgm-bribery-melania-documentary-deal/",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "Amazon Asked by Senators if Melania Film Is 'Pay-to-Play' Scheme",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/tech-and-telecom-law/amazon-asked-by-senators-if-melania-film-is-pay-to-play-scheme",
+      "date": "2026-03"
+    },
+    {
+      "title": "Dem lawmakers question Amazon on 'Melania' documentary",
+      "publisher": "The Hill via AOL",
+      "url": "https://www.aol.com/articles/dem-lawmakers-amazon-melania-documentary-140000153.html",
+      "date": "2026-03"
+    },
+    {
+      "title": "Jeff Bezos denies role in Melania Trump documentary",
+      "publisher": "Fox Business",
+      "url": "https://www.foxbusiness.com/media/jeff-bezos-denies-role-melania-trump-documentary-people-very-curious-about-first-lady",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "Jeff Bezos Defends $75M Melania Movie as a 'Good Business Decision'",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/media/tv/jeff-bezos-defends-75m-melania-movie-as-a-good-business-decision-but-claims-he-had-nothing-to-do-with-it/",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "Melania Trump and Brett Ratner documentary interview",
+      "publisher": "Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/melania-trump-brett-ratner-documentary-interview-1236489826/",
+      "date": "2026"
+    },
+    {
+      "title": "Amazon to Pay $2.5 Billion to Settle FTC Charges...",
+      "publisher": "Variety",
+      "url": "https://au.variety.com/2025/digital/news/amazon-pay-2-5-billion-ftc-settlement-prime-program-2-28235",
+      "date": "2025-09-25"
+    },
+    {
+      "title": "Amazon's bid to delay US FTC monopolization trial rejected by judge",
+      "publisher": "MLex",
+      "url": "https://www.mlex.com/mlex/antitrust/articles/2536525/amazon-s-bid-to-delay-us-ftc-monopolization-trial-rejected-by-judge",
+      "date": "2026-10"
+    },
+    {
+      "title": "AWS to invest $50B in AI and supercomputing infrastructure for government customers",
+      "publisher": "Nextgov",
+      "url": "https://www.nextgov.com/emerging-tech/2025/11/aws-invest-50b-ai-and-supercomputing-infrastructure-government-customers/409744/",
+      "date": "2025-11"
+    },
+    {
+      "title": "SpaceX, ULA, Blue Origin Win $13B in Pentagon Launch Contracts",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-04/spacex-ula-blue-origin-win-13b-in-pentagon-launch-contracts",
+      "date": "2025-04-04"
+    },
+    {
+      "title": "FCC Grants Amazon Leo a Lifeline on Satellite Rollout",
+      "publisher": "SatelliteInternet.com",
+      "url": "https://www.satelliteinternet.com/resources/fcc-grants-amazon-leo-extension/",
+      "date": "2026-06"
+    },
+    {
+      "title": "White House calls Amazon's reported move to display tariff prices 'a hostile and political act'",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/amp/news/amazon-tariffs-tariff-price-karoline-leavitt-trump-hostile-political-act",
+      "date": "2025-04-29"
+    },
+    {
+      "title": "Trump Says Jeff Bezos 'Solved the Problem Very Quickly'...",
+      "publisher": "TheWrap",
+      "url": "https://www.thewrap.com/trump-jeff-bezos-amazon-tariff-disclaimer",
+      "date": "2025-04-29"
+    },
+    {
+      "title": "Jeff Bezos says Washington Post opinion pages will defend free market and personal liberties",
+      "publisher": "Philadelphia Inquirer",
+      "url": "https://www.inquirer.com/politics/nation/jeff-bezos-opinion-pages-washington-post-free-market-personal-liberties-20250226.html",
+      "date": "2025-02-26"
+    },
+    {
+      "title": "Axed WaPo Column Argued It Was 'Unwise' for Bezos to Revamp Opinion Section",
+      "publisher": "TheWrap",
+      "url": "https://www.thewrap.com/washington-post-column-unwise-jeff-bezos-ruth-marcus-quits",
+      "date": "2025-03"
+    },
+    {
+      "title": "New Melania Trump series coming to Amazon Prime after huge losses",
+      "publisher": "Euronews",
+      "url": "https://www.euronews.com/2026/08/06/new-melania-trump-series-coming-to-amazon-prime-after-huge-losses-for-controversial-melani",
+      "date": "2026-08-06"
+    }
+  ],
+  "entities": [
+    {
+      "id": "melania-trump",
+      "name": "Melania Trump",
+      "type": "person",
+      "description": "First Lady; subject and executive producer of the Amazon 'Melania' documentary."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; his 2025 OGE report lists the $10.71M film licensing fee."
+    },
+    {
+      "id": "jeff-bezos",
+      "name": "Jeff Bezos",
+      "type": "person",
+      "description": "Amazon founder and executive chair; owner of Blue Origin and the Washington Post."
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "type": "company",
+      "description": "E-commerce and cloud giant; licensed the Melania film through Amazon MGM Studios."
+    },
+    {
+      "id": "amazon-mgm-studios",
+      "name": "Amazon MGM Studios",
+      "type": "company",
+      "description": "Amazon's film arm; paid about $40M for the rights and about $35M for marketing."
+    },
+    {
+      "id": "aws",
+      "name": "Amazon Web Services",
+      "type": "company",
+      "description": "Amazon cloud unit; GSA OneGov deal and $50B government AI pledge."
+    },
+    {
+      "id": "blue-origin",
+      "name": "Blue Origin",
+      "type": "company",
+      "description": "Bezos's rocket company; won about $2.3B in NSSL Phase 3 launches in Apr 2025."
+    },
+    {
+      "id": "amazon-leo",
+      "name": "Amazon Leo (formerly Project Kuiper)",
+      "type": "product",
+      "description": "Amazon satellite-internet constellation; got an FCC deployment waiver in Jun 2026."
+    },
+    {
+      "id": "melania-documentary",
+      "name": "Melania (2026 film)",
+      "type": "product",
+      "description": "Brett Ratner-directed documentary released Jan 30, 2026; about $16.6M global gross."
+    },
+    {
+      "id": "washington-post",
+      "name": "The Washington Post",
+      "type": "media",
+      "description": "Bezos-owned paper; opinion section refocused on 'personal liberties and free markets' in Feb 2025."
+    },
+    {
+      "id": "ftc",
+      "name": "Federal Trade Commission",
+      "type": "government",
+      "description": "Pursuing a monopolization case against Amazon (trial Mar 2027); got a $2.5B Prime settlement."
+    },
+    {
+      "id": "fcc",
+      "name": "Federal Communications Commission",
+      "type": "government",
+      "description": "Granted Amazon Leo a deployment-milestone waiver."
+    },
+    {
+      "id": "gsa",
+      "name": "General Services Administration",
+      "type": "government",
+      "description": "Signed a OneGov cloud agreement with AWS in Aug 2025."
+    },
+    {
+      "id": "pentagon",
+      "name": "Pentagon / Space Force",
+      "type": "government",
+      "description": "Awarded NSSL Phase 3 Lane 2 launch contracts, including to Blue Origin."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Attacked Amazon's reported tariff-cost display in Apr 2025."
+    },
+    {
+      "id": "karoline-leavitt",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "White House press secretary; called the tariff display a 'hostile and political act'."
+    },
+    {
+      "id": "us-congress",
+      "name": "U.S. Congress",
+      "type": "government",
+      "description": "Democratic members opened an inquiry into the deal."
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "U.S. senator (D-MA); called the deal 'bribery in plain sight'."
+    },
+    {
+      "id": "hank-johnson",
+      "name": "Hank Johnson",
+      "type": "person",
+      "description": "U.S. representative (D-GA); co-led the inquiry letter to Amazon."
+    },
+    {
+      "id": "andy-jassy",
+      "name": "Andy Jassy",
+      "type": "person",
+      "description": "Amazon CEO; recipient of the lawmakers' letter."
+    },
+    {
+      "id": "brian-huseman",
+      "name": "Brian Huseman",
+      "type": "person",
+      "description": "Amazon VP of public policy; wrote Amazon's reply denying impropriety."
+    },
+    {
+      "id": "brett-ratner",
+      "name": "Brett Ratner",
+      "type": "person",
+      "description": "Director of 'Melania'."
+    },
+    {
+      "id": "marc-beckman",
+      "name": "Marc Beckman",
+      "type": "person",
+      "description": "Melania Trump's adviser; says the film is 'not political at all'."
+    },
+    {
+      "id": "disney",
+      "name": "The Walt Disney Company",
+      "type": "company",
+      "description": "Reported runner-up bidder (about $14M, per the WSJ)."
+    },
+    {
+      "id": "paramount",
+      "name": "Paramount",
+      "type": "company",
+      "description": "Reported low bidder (about $4M, per the WSJ)."
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "The Wall Street Journal",
+      "type": "media",
+      "description": "Reported the rival bids and Melania's more-than-70% share."
+    },
+    {
+      "id": "office-of-government-ethics",
+      "name": "Office of Government Ethics",
+      "type": "government",
+      "description": "Released Trump's 2025 OGE 278e on Jun 30, 2026."
+    },
+    {
+      "id": "trump-inaugural-committee",
+      "name": "Trump-Vance Inaugural Committee",
+      "type": "fund",
+      "description": "Received $1M from Amazon."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "amazon-mgm-studios",
+      "target": "melania-documentary",
+      "label": "paid ~$40M to license (reported)",
+      "type": "money",
+      "date": "2025-01",
+      "amount_usd": 40000000
+    },
+    {
+      "source": "amazon-mgm-studios",
+      "target": "melania-documentary",
+      "label": "spent ~$35M marketing (reported)",
+      "type": "money",
+      "date": "2026-01",
+      "amount_usd": 35000000
+    },
+    {
+      "source": "amazon",
+      "target": "amazon-mgm-studios",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "amazon",
+      "target": "aws",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "amazon",
+      "target": "amazon-leo",
+      "label": "operates",
+      "type": "ownership"
+    },
+    {
+      "source": "amazon",
+      "target": "melania-trump",
+      "label": "film licensing fee ($10.71M on 2025 OGE report)",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 10710000
+    },
+    {
+      "source": "melania-trump",
+      "target": "melania-documentary",
+      "label": "subject and executive producer of",
+      "type": "commercial",
+      "date": "2024-12"
+    },
+    {
+      "source": "brett-ratner",
+      "target": "melania-documentary",
+      "label": "directed",
+      "type": "commercial"
+    },
+    {
+      "source": "marc-beckman",
+      "target": "melania-trump",
+      "label": "adviser to",
+      "type": "advisory"
+    },
+    {
+      "source": "melania-trump",
+      "target": "donald-trump",
+      "label": "spouse of",
+      "type": "family"
+    },
+    {
+      "source": "office-of-government-ethics",
+      "target": "donald-trump",
+      "label": "released 2025 disclosure listing film fee",
+      "type": "regulatory",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "disney",
+      "target": "melania-documentary",
+      "label": "bid ~$14M (WSJ, unconfirmed)",
+      "type": "commercial",
+      "date": "2024-12",
+      "amount_usd": 14000000
+    },
+    {
+      "source": "paramount",
+      "target": "melania-documentary",
+      "label": "bid ~$4M (WSJ, unconfirmed)",
+      "type": "commercial",
+      "date": "2024-12",
+      "amount_usd": 4000000
+    },
+    {
+      "source": "jeff-bezos",
+      "target": "amazon",
+      "label": "founder and executive chair of",
+      "type": "ownership"
+    },
+    {
+      "source": "jeff-bezos",
+      "target": "blue-origin",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "jeff-bezos",
+      "target": "washington-post",
+      "label": "owns; refocused opinion section",
+      "type": "media",
+      "date": "2025-02-26"
+    },
+    {
+      "source": "jeff-bezos",
+      "target": "donald-trump",
+      "label": "dined with at Mar-a-Lago",
+      "type": "political",
+      "date": "2024-12"
+    },
+    {
+      "source": "amazon",
+      "target": "trump-inaugural-committee",
+      "label": "donated $1M",
+      "type": "money",
+      "date": "2024-12",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "ftc",
+      "target": "amazon",
+      "label": "monopolization suit, trial set 2027-03-29",
+      "type": "legal",
+      "date": "2023-09"
+    },
+    {
+      "source": "amazon",
+      "target": "ftc",
+      "label": "settled Prime case for $2.5B",
+      "type": "legal",
+      "date": "2025-09-25",
+      "amount_usd": 2500000000
+    },
+    {
+      "source": "gsa",
+      "target": "aws",
+      "label": "OneGov cloud agreement (up to $1B savings)",
+      "type": "commercial",
+      "date": "2025-08"
+    },
+    {
+      "source": "pentagon",
+      "target": "blue-origin",
+      "label": "awarded 7 NSSL missions (~$2.3B)",
+      "type": "commercial",
+      "date": "2025-04-04",
+      "amount_usd": 2300000000
+    },
+    {
+      "source": "fcc",
+      "target": "amazon-leo",
+      "label": "granted deployment-milestone waiver",
+      "type": "regulatory",
+      "date": "2026-06"
+    },
+    {
+      "source": "white-house",
+      "target": "amazon",
+      "label": "called tariff-cost display 'hostile and political act'",
+      "type": "political",
+      "date": "2025-04-29"
+    },
+    {
+      "source": "karoline-leavitt",
+      "target": "amazon",
+      "label": "criticized tariff display plan",
+      "type": "political",
+      "date": "2025-04-29"
+    },
+    {
+      "source": "donald-trump",
+      "target": "jeff-bezos",
+      "label": "phoned over tariff display; said Bezos 'solved the problem'",
+      "type": "political",
+      "date": "2025-04-29"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "amazon",
+      "label": "inquiry letter on possible bribery; 'bribery in plain sight'",
+      "type": "political",
+      "date": "2026-03-16"
+    },
+    {
+      "source": "hank-johnson",
+      "target": "andy-jassy",
+      "label": "co-led inquiry letter to",
+      "type": "political",
+      "date": "2026-03-16"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "us-congress",
+      "label": "member of",
+      "type": "political"
+    },
+    {
+      "source": "brian-huseman",
+      "target": "elizabeth-warren",
+      "label": "replied denying impropriety",
+      "type": "political",
+      "date": "2026-03-30"
+    },
+    {
+      "source": "andy-jassy",
+      "target": "amazon",
+      "label": "CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "melania-documentary",
+      "label": "reported rival bids and Melania's >70% share",
+      "type": "media",
+      "date": "2025-01"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Amazon's 'Melania, The Series' follow-up despite theatrical loss",
+      "why_connected": "Amazon is putting more money into Melania content (a two-part series premiering 2026-11-20) after the film lost money theatrically; payment terms to Melania are undisclosed.",
+      "entities": [
+        "amazon-mgm-studios",
+        "melania-trump",
+        "melania-documentary"
+      ],
+      "source_url": "https://www.euronews.com/2026/08/06/new-melania-trump-series-coming-to-amazon-prime-after-huge-losses-for-controversial-melani"
+    },
+    {
+      "title": "Amazon Leo FCC waiver over SpaceX objections",
+      "why_connected": "A regulatory benefit to Bezos-linked Amazon granted by a Trump-appointed FCC after the Melania deal; worth checking the process and who voted.",
+      "entities": [
+        "amazon-leo",
+        "fcc",
+        "amazon"
+      ],
+      "source_url": "https://www.satelliteinternet.com/resources/fcc-grants-amazon-leo-extension/"
+    },
+    {
+      "title": "AWS $50B government AI pledge and OneGov deal",
+      "why_connected": "Large AWS federal commitments under the administration, cited by lawmakers as business Amazon has before the government.",
+      "entities": [
+        "aws",
+        "gsa",
+        "white-house"
+      ],
+      "source_url": "https://www.nextgov.com/emerging-tech/2025/11/aws-invest-50b-ai-and-supercomputing-infrastructure-government-customers/409744/"
+    },
+    {
+      "title": "Rolling Stone on chaos behind the Melania documentary production",
+      "why_connected": "Reporting on how the film was made and who drove the deal, relevant to Amazon's claim of a normal commercial process.",
+      "entities": [
+        "melania-documentary",
+        "brett-ratner",
+        "melania-trump"
+      ],
+      "source_url": "https://www.rollingstone.com/politics/politics-features/melania-trump-documentary-amazon-behind-the-scenes-1235505208/"
+    }
+  ]
+}
