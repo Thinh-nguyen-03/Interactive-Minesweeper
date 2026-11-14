@@ -3,7 +3,7 @@
   "title": "Foreign Trump Organization deals timed with tariff negotiations",
   "verdict": "partly-accurate",
   "confidence": "medium",
-  "summary": "The list of foreign Trump-branded projects outside the Gulf is real: Vietnam, Indonesia, India, Serbia, Georgia, the Maldives and Romania, with CREW counting 21-25 foreign projects. Vietnam is the strong case: Hanoi fast-tracked the $1.5B Hung Yen project, reportedly bypassing its own legal steps, while negotiating down a threatened 46% tariff to 20%. Elsewhere the 'deals timed with tariff favours' framing does not hold up. Indonesia halted the MNC Lido project in Feb 2025. India's tariffs rose to 50% while Trump towers kept launching. No direct quid pro quo is documented anywhere. Every counterparty is a private developer, so the 2025 ethics policy permits the deals, though in several cases state approvals or state-linked land sit behind them.",
+  "summary": "The list of foreign Trump-branded projects outside the Gulf is real: Vietnam, Indonesia, India, Serbia, Georgia, the Maldives and Romania, with CREW counting 21-25 foreign projects. Vietnam is the strong case: Hanoi fast-tracked the $1.5B Hung Yen project, reportedly bypassing its own legal steps, while negotiating down a threatened 46% tariff to 20%. Elsewhere the 'deals timed with tariff favours' framing does not hold up. Indonesia halted the MNC Lido project in Feb 2025. India's tariffs rose to 50% while Trump towers kept launching. No direct quid pro quo is documented anywhere. Every counterparty is a private developer, so the 2025 ethics policy permits the deals, though in several cases state approvals or state-linked land sit behind them. Audit update: per-project fees are partly documented: a $5M Vietnam licence fee from KBC's Hung Yen vehicle and at least $12M from India in 2024 (including a $10M Reliance development fee) appear in Trump's 2025 disclosure.",
   "sub_claims": [
     {
       "statement": "CREW counts roughly two dozen foreign Trump-branded projects during the second term.",
@@ -120,11 +120,14 @@
     },
     {
       "statement": "Fees paid to the Trump Organization for these foreign projects.",
-      "verdict": "unverified",
-      "finding": "Per-project fees outside the Gulf are mostly undisclosed. The Trump model is licensing: developers finance and build, and pay upfront and ongoing royalties. Aggregate figures exist (CREW: >$117M foreign revenue in 2025; FT: $63M licensing/management). The financial-disclosure line items for Vietnam, India, Indonesia, Georgia, Romania and the Maldives were not individually verified in this session.",
+      "verdict": "partly-accurate",
+      "finding": "Some per-project fees outside the Gulf are now documented from Trump's disclosures, though most remain undisclosed. Vietnam: Trump's June 2025 OGE report lists a $5M licence fee from Hung Yen Hospitality Services JSC (KBC's local vehicle) via DT Marks Vietnam LLC (79% DTTM Operations, 20% Trump family); Vietnamese reports suggest part of it was still a receivable. India: the same 2025 report (covering 2024) shows at least $12M from India, of which $10M was a 'development fee' from Reliance 4IR Realty Development (a Reliance Industries unit) for a Mumbai project that has not been identified (see C70), and about $2.2M in licence and royalty fees from Tribeca, M3M units, Lodha, Unimark and RDB. These fees were paid before or around the start of the term, not as tariff-era payments. Per-project 2025 figures for India, Indonesia, Georgia, Romania and the Maldives were not found; aggregates remain CREW's >$117M foreign revenue in 2025 and the FT's $63M in licensing/management.",
       "sources": [
         "https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/",
-        "https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/"
+        "https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/",
+        "https://theinvestor.vn/trump-family-to-receive-5-mln-in-license-fees-for-mega-golf-course-development-in-vietnam-d16040.html",
+        "https://www.businesstoday.in/personal-finance/real-estate/story/trump-calls-india-a-dead-economy-then-banks-12-mn-from-it-without-spending-1-heres-how-488055-2025-08-06",
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/indias-reliance-industries-paid-trump-10-million-before-he-took-office-it-keeps-getting-wins-from-trump/"
       ]
     },
     {
@@ -143,7 +146,8 @@
     "Brief says the Ho Chi Minh City tower advanced; as of Nov 2026 it remains a proposal with in-principle backing, with no confirmed approval or construction.",
     "Brief says Indonesian MNC/Hary Tanoe resorts 'advanced'; they date from 2015-2019 and were halted by Indonesia's Environment Ministry in February 2025. A lift of the suspension is reported only by one trade outlet (Aug 2026).",
     "Brief lumps India in as a country granted favours; US tariffs on India rose to 50% in Aug 2025 while Trump-branded launches continued, and the Feb 2026 cut to 18% was tied to Russian oil, not property.",
-    "CREW's count has been 21, 24 and 25 at different times; '~24' is a fair snapshot."
+    "CREW's count has been 21, 24 and 25 at different times; '~24' is a fair snapshot.",
+    "The fees line is not wholly undisclosed: Trump's 2025 disclosure shows a $5M Vietnam licence fee (Hung Yen Hospitality via DT Marks Vietnam) and at least $12M from India for 2024, $10M of it from a Reliance unit."
   ],
   "denials_and_context": [
     "The White House told the NYT that 'all of the president's trade discussions are totally unrelated to the Trump Organization', and has said neither the president nor his family has ever engaged in conflicts of interest.",
@@ -454,6 +458,24 @@
       "publisher": "AP via ClickOnDetroit",
       "url": "https://www.clickondetroit.com/news/2025/01/10/the-trump-company-is-not-banning-private-foreign-deals-a-break-with-its-first-term-policy/",
       "date": "2025-01-10"
+    },
+    {
+      "title": "Trump family to receive $5 mln in license fees for mega golf course development in Vietnam",
+      "publisher": "The Investor (Vietnam)",
+      "url": "https://theinvestor.vn/trump-family-to-receive-5-mln-in-license-fees-for-mega-golf-course-development-in-vietnam-d16040.html",
+      "date": "2025-06"
+    },
+    {
+      "title": "Trump calls India a 'dead economy', then banks $12 mn from it",
+      "publisher": "Business Today",
+      "url": "https://www.businesstoday.in/personal-finance/real-estate/story/trump-calls-india-a-dead-economy-then-banks-12-mn-from-it-without-spending-1-heres-how-488055-2025-08-06",
+      "date": "2025-08-06"
+    },
+    {
+      "title": "India's Reliance Industries paid Trump $10 million before he took office. It keeps getting wins from Trump",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/indias-reliance-industries-paid-trump-10-million-before-he-took-office-it-keeps-getting-wins-from-trump/",
+      "date": "2026"
     }
   ],
   "entities": [
@@ -988,5 +1010,38 @@
       ],
       "source_url": "https://worldtradescanner.com/Trump%20Received%20$2%20Million%20from%20South%20Korean%20Firm%20Facing.htm"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Per-project fees for India (gap flagged; C70's $10M Reliance fee)",
+      "Per-project fee for the Vietnam Hung Yen project",
+      "2025 disclosure India breakdown"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Fees sub-claim moved from unverified to partly-accurate: added the $5M Vietnam fee and India's >=$12M in 2024 ($10M Reliance development fee, ~$2.2M from Tribeca, M3M, Lodha, Unimark, RDB). Noted the payments predate the tariff talks.",
+      "Summary and corrections updated; overall verdict partly-accurate kept.",
+      "Not re-checked: Vietnam tariff path, Georgia land/Ivanishvili, Indonesia suspension lift, CREW project count. A 2025-specific India breakdown was not found."
+    ],
+    "new_sources": [
+      {
+        "title": "Trump family to receive $5 mln in license fees for mega golf course development in Vietnam",
+        "publisher": "The Investor (Vietnam)",
+        "url": "https://theinvestor.vn/trump-family-to-receive-5-mln-in-license-fees-for-mega-golf-course-development-in-vietnam-d16040.html",
+        "date": "2025-06"
+      },
+      {
+        "title": "Trump calls India a 'dead economy', then banks $12 mn from it",
+        "publisher": "Business Today",
+        "url": "https://www.businesstoday.in/personal-finance/real-estate/story/trump-calls-india-a-dead-economy-then-banks-12-mn-from-it-without-spending-1-heres-how-488055-2025-08-06",
+        "date": "2025-08-06"
+      },
+      {
+        "title": "India's Reliance Industries paid Trump $10 million before he took office. It keeps getting wins from Trump",
+        "publisher": "CREW",
+        "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/indias-reliance-industries-paid-trump-10-million-before-he-took-office-it-keeps-getting-wins-from-trump/",
+        "date": "2026"
+      }
+    ]
+  }
 }

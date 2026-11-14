@@ -8,7 +8,7 @@
 - Navarro and the Vulcan loan
 - Feinberg's Cerberus alumni running Pentagon investment offices
 
-Barrack's pipeline push (Reuters) and Bessent's Argentina swap (Mother Jones and Popular Information) are reported by one outlet or a pair of advocacy-leaning ones. For Quintenz, Gould, Kratsios, Patel, Boulos and Charles Kushner we found ties but no benefiting decision. No ethics office, inspector general or court has found a violation in any of these cases.
+Barrack's pipeline push (Reuters) and Bessent's Argentina swap (Mother Jones and Popular Information) are reported by one outlet or a pair of advocacy-leaning ones. For Quintenz, Gould, Kratsios, Patel, Boulos and Charles Kushner we found ties but no benefiting decision. No ethics office, inspector general or court has found a violation in any of these cases. (Audit, Nov 2026: Bondi was fired as AG on Apr 2, 2026 and Blanche became acting AG.)
 
 Method: we mined C12, C14, C16, C25, C26, C34-C36, C38, C43, C49, C52-C54 and C60, then ran web searches. Many outlets block direct fetch, so most findings rely on search-result text from several outlets. The search budget ran out before every thread could be finished; the gaps are listed at the end.
 
@@ -35,13 +35,15 @@ The brief asks for administration officials whose decisions benefited entities t
 - **DOJ response:** "the Attorney General had no role in them."
 
 ### 3. Bondi's Trump Media stock (documented)
-- Bondi's periodic transaction report, disclosed May 14, 2025, shows a sale of more than $1M of DJT stock on April 2, 2025 ("Liberation Day").
+- Bondi's periodic transaction report, disclosed May 14, 2025, shows a sale of $1M-$5M of DJT stock plus $250K-$500K of warrants on April 2, 2025 ("Liberation Day").
+- Her ethics agreement required her to sell the stake within 90 days of confirmation, so the sale itself was mandated; the issue is its timing.
 - Rep. Raskin referred the sale to the DOJ IG.
 - This is a holding in the president's company, not a decision.
 
 ### 4. Blanche, crypto holdings and the NCET memo (documented)
 - **Holdings and timing.** Blanche held about $159K-$485K of BTC, ETH and SOL when he signed the April 7, 2025 "Ending Regulation by Prosecution" memo, which disbanded NCET.
-- **Divestment.** He divested May 31-June 3, 2025. Part of the holdings went by transfer to relatives rather than sale.
+- **Divestment.** He divested May 31-June 3, 2025. As reported by the Daily Beast, his June 2025 filing says the holdings "were gifted in their entirety to my grandchild and adult children" rather than sold.
+- He became acting AG on April 2, 2026, when Trump fired Bondi.
 - **Ethics questions.** Former ethics officials told ProPublica this likely breached 18 U.S.C. 208 and his ethics agreement. Six senators asked on January 28, 2026 whether he had a 208(b)(1) waiver. None has been published.
 - The benefit went to the crypto sector as a whole, not to a former client.
 
@@ -50,11 +52,11 @@ The brief asks for administration officials whose decisions benefited entities t
 - **Holdings.** His disclosure showed up to ~$6M of crypto-related assets: Anchorage Digital equity, Securitize options plus a board seat (which he resigned in February 2025), and a stake in Off the Chain Capital. Reported ranges vary between outlets.
 - **Ethics terms.** He agreed to divest, with a one-year bar on specific-party matters. He certified compliance on July 18, 2025.
   - The bar does not reach industry-wide policy, which is how most crypto relief came (C23, C43).
-  - Warren's question about who bought Patomak has not been answered publicly.
+  - Warren's question about who bought Patomak has not been answered publicly. An audit re-check (Nov 2026) found only Patomak's April 22, 2025 announcement of a new supervisory board chaired by Richard Breeden and a seven-partner executive committee. The buyer is still unverified.
 
 ### 6. Securitize, Cantor and the SEC (documented pieces; conflict link inferred)
 - Securitize agreed in October 2025 to merge with Cantor Equity Partners II, a SPAC sponsored by an affiliate of the Lutnick-family firm Cantor.
-- The SEC declared the S-4 effective on June 5, 2026.
+- The SEC declared the S-4 effective on June 5, 2026. The merger closed on July 1, 2026, and Securitize began trading on the NYSE as SECZ on July 2.
 - Atkins's one-year Securitize bar would have lapsed around February 2026, and S-4 effectiveness is normally a staff action.
 - **No source alleges impropriety.** The link is our own cross-reference.
 
@@ -88,8 +90,9 @@ The brief asks for administration officials whose decisions benefited entities t
 
 ### 12. Hegseth's Pentagon, Feinberg and Cerberus (documented; steering unverified)
 - **OSC.** Director David Lorch (since November 2025) is a former Cerberus managing director and is also a senior adviser to Deputy Secretary Feinberg, Cerberus's co-founder.
-- **BOND.** George Kollitides, who heads the Economic Defense Unit/BOND, is a former Cerberus MD and a former partner at Alvarez & Marsal Capital.
-  - He joined the board of D. Boral Acquisition I six days after his February 4, 2026 appointment, and later resigned.
+- **EDU/BOND.** George Kollitides heads the Economic Defense Unit, which runs BOND; he does not run OSC (C74). He is a former Cerberus MD and a former partner at Alvarez & Marsal Capital.
+  - He joined the board of D. Boral Acquisition I six days after his February 4, 2026 appointment. He resigned "for personal reasons" effective September 23, 2026 (8-K, per C74).
+  - On that board he sat with Kevin McGurn, CEO of the Trump sons' New America Acquisition I and interim TMTG CEO (Bloomberg Government, per C74). This is a shared board seat, not evidence of a transaction.
   - Alvarez & Marsal Federal won no-bid DoD work worth up to ~$350M, of which about $31M has been paid. ProPublica did not establish that Kollitides chose the firm.
 - **Feinberg.** He placed his Cerberus interests in trusts for his adult children and kept a Cerberus services contract. Warren counts at least four Cerberus-related firms among Golden Dome awardees.
 
@@ -102,9 +105,9 @@ The brief asks for administration officials whose decisions benefited entities t
 - Patel says he declined them. Mother Jones reports he had a $120K-a-year TMTG consulting role.
 - We found no FBI action benefiting TMTG.
 
-### 15. Kratsios (holding documented; no decision)
-- Kratsios holds $1M-$5M of Scale AI Class B shares, per ProPublica's disclosure tracker.
-- His 2026 annual OGE report was certified compliant.
+### 15. Kratsios (earlier holding documented; current status unverified; no decision)
+- ProPublica's disclosure tracker lists $1M-$5M of Scale AI Class B shares from an earlier filing.
+- His 2026 annual OGE report was certified compliant. A search excerpt of it shows a $5M-$25M bank cash account. The excerpt is partial, so we could not tell whether Scale shares remain. A cash-out when Meta bought 49% of Scale (June 2025) is possible, but that is our own inference.
 - We found no OSTP decision benefiting Scale.
 
 ### 16. Witkoff (documented; see C14, C53)
@@ -118,26 +121,28 @@ The brief asks for administration officials whose decisions benefited entities t
 
 ### 18. Boulos (role documented; no personal benefit found)
 - Boulos ran SCOA Nigeria; how large it is remains disputed. He mediated the June 27, 2025 DRC minerals-for-security deal, and KoBold Metals credits him for its Manono lithium deal.
-- Africa Confidential (single source) says Gentry Beach, a Don Jr. associate, was a prime mover in the talks.
+- Africa Confidential (single source) says Gentry Beach, a longtime Don Jr. friend, was a prime mover in the talks.
+- The WSJ (single source, relayed; see C75) reports that Don Jr.'s lawyer sent Beach a cease-and-desist in August 2025 telling him to stop presenting himself as Don Jr.'s business partner. Beach denies receiving it.
+- C75 found no Boulos or Trump-family stake in any DRC asset awarded under the framework.
 
 ### 19. Charles Kushner (nothing found)
 - Coverage concerns diplomatic rows with France. We found no decision tied to his business interests.
 
 ## Not connected in the coverage we found
 These are our own cross-references. No source asserts them.
-- **Kollitides and the Trump sons' SPAC underwriter (inferred).** Kollitides's board seat was at D. Boral Acquisition I, an affiliate of D. Boral Capital. D. Boral Capital co-underwrote the Trump-sons-linked New America Acquisition I IPO (C27, C39) and received a House CCP committee letter (C47). No coverage of Kollitides mentions this.
+- **Kollitides and the Trump sons' SPAC underwriter (now partly documented).** Kollitides's board seat was at D. Boral Acquisition I, an affiliate of D. Boral Capital. D. Boral Capital co-underwrote the Trump-sons-linked New America Acquisition I IPO (C27, C39) and received a House CCP committee letter (C47). C74 later found that Bloomberg Government reported his co-directorship with New America's CEO Kevin McGurn. The shared board is documented; any transaction or influence remains unverified.
 - **Securitize, Cantor and the SEC (inferred).** An SEC chair's former holding (Securitize) merged into a Commerce secretary's family-controlled SPAC (Cantor Equity Partners II) with an SEC effectiveness order on June 5, 2026.
 - **Anchorage Digital (inferred).** Anchorage, an Atkins pre-office holding, is TMTG's bitcoin custodian and the issuer of Tether's USAT, with Cantor as reserve custodian (C35, C54). No source ties Atkins to SEC matters involving Anchorage.
 - **Quintenz, Selig and Gemini (inferred sequencing).** The Winklevoss opposition sank Quintenz. Selig then joined Gemini's vacate motion, and a donation followed (C52). The pieces are documented; any causal sequence is our observation.
 - **Selig's channel (inferred).** Selig's former firm and clients (Paradigm, Polymarket) and Don Jr. (Kalshi, Polymarket) sit on the same side of CFTC litigation. No source links Selig to Don Jr.
 
 ## Gaps
-- The web-search budget ran out before we could check the following, all of which remain open:
-  - who bought Patomak
-  - whether Kratsios divested after the Meta-Scale deal
-  - more on Gentry Beach
-  - whether the Securitize merger closed
-  - any recusal records for Atkins on Securitize
+- Re-checked in the November 2026 audit:
+  - who bought Patomak: still not public
+  - whether Kratsios divested after the Meta-Scale deal: still unverified
+  - Gentry Beach: now covered in C75
+  - whether the Securitize merger closed: yes, on July 1, 2026
+- Still open: any recusal records for Atkins on Securitize.
 - govexec.com was not reachable for direct fetch, so the Alvarez & Marsal figures come from Defense One and summaries of the ProPublica story.
 
 ## Sources
@@ -201,3 +206,33 @@ These are our own cross-references. No source asserts them.
 58. Africa Confidential, push in Kinshasa: https://www.africa-confidential.com/article/id/15443/washington-tries-a-new-push-in-kinshasa
 59. KoBold Metals, Manono framework (2025-05-07): https://koboldmetals.com/2025/05/07/kobold-metals-and-avz-agree-on-framework-for-kobold-to-acquire-avzs-interests-in-the-manono-lithium-deposit-in-drc/
 60. Axios, Charles Kushner (2026-02-24): https://www.axios.com/2026/02/24/kushner-trump-ambassadors-diplomatic-drama
+
+## Audit (second review, Nov 2026)
+**Result: corrected.**
+
+Re-verified:
+- Bondi's TMTG sale.
+- Blanche's crypto holdings.
+- Navarro and the Vulcan loan: upheld; ProPublica, syndicated by NPR stations and AP.
+- Barrack and TI Capital: upheld; still single-source Reuters, and State denies any interest.
+
+Changes:
+- Bondi was fired on April 2, 2026, and Blanche is acting AG, not AG.
+- Blanche's crypto was reportedly gifted in full to relatives.
+- Bondi's sale was required by her ethics agreement.
+- The Securitize merger closed on July 1, 2026.
+- Patomak's buyer is still not public.
+- The Kratsios holding has been downgraded to unverified.
+- Kollitides heads the EDU, not OSC, and resigned from the D. Boral board effective September 23, 2026. The McGurn overlap is now documented.
+- Added the Boulos and Beach findings from C75.
+
+New sources:
+- CBS News, Bondi's TMTG sale (2025-05): https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day
+- CNN via KVIA, Trump fires Bondi (2026-04-02): https://kvia.com/politics/cnn-us-politics/2026/04/02/trump-fires-pam-bondi-as-attorney-general/
+- Al Jazeera, Bondi and Blanche (2026-04-03): https://www.aljazeera.com/amp/news/2026/4/3/why-did-trump-fire-pam-bondi-from-justice-department-who-is-todd-blanche
+- Daily Beast, Blanche's crypto: https://www.thedailybeast.com/trump-legal-goon-accused-of-breaking-law-over-massive-crypto-holding
+- Business Wire, Patomak supervisory board (2025-04-22): https://www.businesswire.com/news/home/20250422466307/en/Patomak-Global-Partners-Announces-New-Supervisory-Board-and-Executive-Committee
+- PR Newswire via StreetInsider, Securitize completes merger (2026-07-01): https://www.streetinsider.com/PRNewswire/Securitize+Completes+Business+Combination+with+Cantor+Equity+Partners+II/26720802.html
+- Hughes Hubbard, CEPT closing: https://www.hugheshubbard.com/news-insights/news/cantor-equity-partners-ii-inc-completes-business-combination-with-securitize
+- ProPublica via WRAL, Vulcan (2026-05-28): https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/
+- Reuters via AJOT, Barrack (2026-10): https://www.ajot.com/news/trump-envoy-kept-financial-ties-to-firm-behind-15-billion-hormuz-bypass-oil-pipeline-plan

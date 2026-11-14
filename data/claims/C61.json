@@ -877,7 +877,7 @@
     {
       "source": "aryam-investment-1",
       "target": "world-liberty-financial",
-      "label": "bought 49% for",
+      "label": "bought 49% for (WSJ, anonymous sources)",
       "type": "money",
       "date": "2025-01-16",
       "amount_usd": 500000000
@@ -1265,7 +1265,8 @@
       "Brad Bondi: joined Paul Hastings Nov 2024 from Cahill Gordon; the Milton defence was at Cahill, so it predates his Paul Hastings tenure.",
       "Noted Holland & Knight as a second firm on the NAA I filing (Law360).",
       "Added the ABC-reported detail (anonymous sources, single-source) that Bondi's jet memo went to White House counsel Warrington, a Dhillon alumnus.",
-      "Upheld: Goody Guillen's dual representation, Edelman's roles, Paul Hastings's NAA I role, and Mizelle as Kushner's counsel (CREW suit filed Oct 14, 2026). Verdict and confidence unchanged."
+      "Upheld: Goody Guillen's dual representation, Edelman's roles, Paul Hastings's NAA I role, and Mizelle as Kushner's counsel (CREW suit filed Oct 14, 2026). Verdict and confidence unchanged.",
+      "Relationship labels resting on anonymous or single-outlet reporting now name that sourcing: aryam-investment-1 -> world-liberty-financial."
     ],
     "new_sources": [
       {

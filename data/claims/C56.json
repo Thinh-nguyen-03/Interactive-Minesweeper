@@ -3,17 +3,18 @@
   "title": "Saudi Arabia: family deals alongside US policy",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah launch Jan 2026; Jeddah towers), PIF-funded LIV events at Doral, Trump National DC and Bedminster, and PIF's $2B in Affinity plus the PIF/Affinity $55B EA buyout all ran alongside major US-Saudi decisions. Those decisions were the 13 May 2025 Riyadh deals, the 18 Nov 2025 MBS visit (F-35 approval, major non-NATO ally status, nuclear declaration, Khashoggi 'things happen'), the 19 Nov 2025 Humain chip licences, the 22 Jul 2026 123 nuclear agreement and the 17 Sep 2026 F-35 notification. Several deals predate the second term, LIV fees are undisclosed, and no evidence links any specific policy action to the family's business. The connection rests on timing, shared counterparties (PIF, MBS) and Trump's misleading 'very little' claim.",
+  "summary": "The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah launch Jan 2026; Jeddah towers), PIF-funded LIV events at Doral, Trump National DC and Bedminster, and PIF's $2B in Affinity plus the PIF/Affinity $55B EA buyout all ran alongside major US-Saudi decisions. Those decisions were the 13 May 2025 Riyadh deals, the 18 Nov 2025 MBS visit (F-35 approval, major non-NATO ally status, nuclear declaration, Khashoggi 'things happen'), the 19 Nov 2025 Humain chip licences, the 22 Jul 2026 123 nuclear agreement and the 17 Sep 2026 F-35 notification. Several deals predate the second term, LIV fees are undisclosed, and no evidence links any specific policy action to the family's business. The connection rests on timing, shared counterparties (PIF, MBS) and Trump's misleading 'very little' claim. Audit update: MNNA status was formalized by presidential determination on 13 Jan 2026, Diriyah Company is a PIF portfolio company, the F-35 notification drew a Rand Paul disapproval resolution but no vote (one outlet says the review lapsed on 17 Oct 2026), and Trump publicly made the 123 nuclear deal 'totally subject' to Saudi Arabia joining the Abraham Accords.",
   "sub_claims": [
     {
       "statement": "The Trump Organization has Saudi real-estate licensing deals (Dar Global towers in Jeddah, the Diriyah golf/hotel project) running in parallel with US-Saudi policy.",
       "verdict": "confirmed",
-      "finding": "Trump Tower Jeddah (~$530M, announced July 2024) and two Riyadh projects (announced Dec 2024) predate the second term. Trump Plaza Jeddah (~$1B) followed in Sept 2025. On 11 Jan 2026 Dar Global and Eric Trump launched the Trump International Golf Club and hotel at Wadi Safar, Diriyah, with ~500 mansions at $6.7M-$24M each. Reuters put the combined Diriyah and Jeddah launches at ~$10B. These are developer headline values. The Trump family's take is licence fees: The National put 2025 Gulf licensing income at ~$38M across four countries (see C31). Diriyah's master developer is Diriyah Company. It is widely described as PIF-owned, but I could not verify that in this session.",
+      "finding": "Trump Tower Jeddah (~$530M, announced July 2024) and two Riyadh projects (announced Dec 2024) predate the second term. Trump Plaza Jeddah (~$1B) followed in Sept 2025. On 11 Jan 2026 Dar Global and Eric Trump launched the Trump International Golf Club and hotel at Wadi Safar, Diriyah, with ~500 mansions at $6.7M-$24M each. Reuters put the combined Diriyah and Jeddah launches at ~$10B. These are developer headline values. The Trump family's take is licence fees: The National put 2025 Gulf licensing income at ~$38M across four countries (see C31). Diriyah's master developer is Diriyah Company. PIF's own portfolio page lists Diriyah Company as a PIF company (established 2022 to develop the Diriyah project), and C31's audit documented that the Wadi Safar project lies within Diriyah Company's master plan. One profile calls it 'wholly owned' by PIF; that exact wording was not found in an official source, but PIF ownership is documented.",
       "sources": [
         "https://www.thenationalnews.com/business/property/2026/01/11/dar-global-and-trump-organisation-launch-luxury-project-in-riyadhs-diriyah",
         "https://www.streetinsider.com/Reuters/Dar+Global+and+Trump+Organization+launch+%2410+billion+Saudi+developments/25832604.html",
         "https://www.semafor.com/article/01/12/2026/eric-trump-markets-10b-in-saudi-real-estate-projects",
-        "https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/"
+        "https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/",
+        "https://pif.gov.sa/en/our-investments/our-portfolio/diriyah-company"
       ]
     },
     {
@@ -45,29 +46,33 @@
     {
       "statement": "MBS's 18 Nov 2025 White House visit produced F-35 approval, major non-NATO ally status, a civil-nuclear framework and a larger investment pledge.",
       "verdict": "confirmed",
-      "finding": "On 18 Nov 2025 Trump said he would sell Saudi Arabia F-35s, and the White House said the leaders formalized the F-35 agreement and a deal for nearly 300 tanks. Trump announced major non-NATO ally status. The two governments signed a joint declaration completing civil-nuclear negotiations. MBS raised the Saudi US-investment pledge from $600B to 'close to $1 trillion'. Israel normalization was not secured. I did not locate the formal MNNA designation document before the search budget ran out.",
+      "finding": "On 18 Nov 2025 Trump said he would sell Saudi Arabia F-35s, and the White House said the leaders formalized the F-35 agreement and a deal for nearly 300 tanks. Trump announced major non-NATO ally status. The two governments signed a joint declaration completing civil-nuclear negotiations. MBS raised the Saudi US-investment pledge from $600B to 'close to $1 trillion'. Israel normalization was not secured. The MNNA status was formalized later: Presidential Determination No. 2026-03, 'Designation of the Kingdom of Saudi Arabia as a Major Non-NATO Ally', dated 13 Jan 2026 and published in the Federal Register on 23 Jan 2026 (91 FR 3017, doc. 2026-01421). A follow-on ITAR amendment was flagged by DLA Piper as still to come; its publication was not confirmed.",
       "sources": [
         "https://gulfnews.com/world/gulf/saudi/f-35s-1-trillion-investment-and-non-nato-ally-status-10-takeaways-from-us-saudi-summit-1.500352052",
         "https://www.dailysabah.com/world/mid-east/khashoggi-murder-was-huge-mistake-mbs/amp",
         "https://thisisbeirut.com.lb/articles/1329671/nuclear-partnership-and-f-35-sale-cement-saudi-arabias-new-non-nato-ally-status",
         "https://fortune.com/2025/11/18/trump-mbs-crown-prince-f35-normalization-ai-investments-khashoggi/",
-        "https://www.cbsnews.com/news/trump-welcomes-mbs-saudi-crown-prince-white-house"
+        "https://www.cbsnews.com/news/trump-welcomes-mbs-saudi-crown-prince-white-house",
+        "https://www.govinfo.gov/content/pkg/FR-2026-01-23/html/2026-01421.htm",
+        "https://www.dlapiper.com/insights/publications/2025/11/saudi-arabias-designation-as-a-major-non-nato-ally-practical-defense-trade-implications"
       ]
     },
     {
       "statement": "The F-35 sale was subsequently formalized.",
       "verdict": "confirmed",
-      "finding": "On 17 Sep 2026 the State Department notified Congress of a possible sale of 48 F-35s, worth ~$24.3B. This is a notification, not a signed contract, and it is subject to congressional review. Some House Democrats, such as Rep. Krishnamoorthi, objected, citing Israel's qualitative edge and the risk of technology leaking to China. I found no reporting on the outcome of the review.",
+      "finding": "On 17 Sep 2026 the State Department notified Congress of a possible sale of 48 F-35s, worth ~$24.3B. This is a notification, not a signed contract, and it is subject to congressional review. Some House Democrats, such as Rep. Krishnamoorthi, objected, citing Israel's qualitative edge and the risk of technology leaking to China. Review outcome: no floor vote on the F-35 sale was found. Sen. Rand Paul reportedly filed a resolution of disapproval (reported as S.J.Res. 217, 24 Sep 2026) that stayed in the Foreign Relations Committee. A single outlet (houseofsaud.com) reports that the formal review period lapsed on 17 Oct 2026 without a vote to block, and that the Letter of Offer and Acceptance that would make the sale binding had not yet been issued. Semafor (18 Sep 2026) called the notification a Saudi win. So the sale appears to have cleared congressional review by default, but this rests on one specialist outlet and should be read as likely, not confirmed.",
       "sources": [
         "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia",
         "https://breakingdefense.com/2026/09/us-clears-24b-f-35-sale-for-saudi-arabia/",
-        "https://www.stripes.com/theaters/us/2026-09-18/state-department-approves-sale-of-48-f35s-to-saudi-arabia-22888413.html"
+        "https://www.stripes.com/theaters/us/2026-09-18/state-department-approves-sale-of-48-f35s-to-saudi-arabia-22888413.html",
+        "https://www.semafor.com/article/09/18/2026/saudi-notches-win-with-f-35-sale",
+        "https://houseofsaud.com/congress-f35-saudi-silence/"
       ]
     },
     {
       "statement": "US-Saudi civil-nuclear (123) deal talks proceeded while the Trump business expanded in Saudi Arabia.",
       "verdict": "confirmed",
-      "finding": "Energy Secretary Chris Wright and Prince Abdulaziz bin Salman signed the 123 agreement on 22 Jul 2026, and it went to Congress on 25 Aug 2026. Reports conflict on enrichment. Reuters reported the deal allows a path to enrichment. Wright called that 'just not true', and Brookings says no enrichment is permitted from the outset, but the deal lacks a UAE-style renunciation. Brookings (26 Oct 2026) expects it to take effect, probably by December 2026. Forbes (Dan Alexander, 23 Jul 2026) reported that Trump's licensing company moved into a crown-prince-backed development during the nuclear talks. A Trump Organization representative told Forbes the deal was not finalized while the president was negotiating the nuclear agreement. I could only read the Forbes piece through foreign-edition excerpts.",
+      "finding": "Energy Secretary Chris Wright and Prince Abdulaziz bin Salman signed the 123 agreement on 22 Jul 2026, and it went to Congress on 25 Aug 2026. Reports conflict on enrichment. Reuters reported the deal allows a path to enrichment. Wright called that 'just not true', and Brookings says no enrichment is permitted from the outset, but the deal lacks a UAE-style renunciation. Brookings (26 Oct 2026) expects it to take effect, probably by December 2026. Forbes (Dan Alexander, 23 Jul 2026) reported that Trump's licensing company moved into a crown-prince-backed development during the nuclear talks. A Trump Organization representative told Forbes the deal was not finalized while the president was negotiating the nuclear agreement. I could only read the Forbes piece through foreign-edition excerpts. Audit update: on 23 Jul 2026, the day after signing, Trump posted on Truth Social that the agreement 'will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords', and Press Secretary Karoline Leavitt said that if the Saudis do not join, the deal is off. That condition is not in the signed text and Riyadh had not accepted it. Arms Control Today gives the signatures as 20 Jul (Wright) and 22 Jul (Abdulaziz) and the transmission to Congress for 90-day review as 24 Aug; other reports say 25 Aug. Brookings' expectation that the deal takes effect by December 2026 has to be read against Trump's public condition.",
       "sources": [
         "https://www.al-monitor.com/originals/2026/07/us-reaches-nuclear-power-deal-saudi-arabia",
         "https://www.dailysignal.com/2026/07/23/us-saudi-arabia-nuclear-deal/",
@@ -75,7 +80,10 @@
         "https://www.brookings.edu/articles/approving-the-us-saudi-nuclear-deal-while-reducing-proliferation-risks/",
         "https://www.armscontrol.org/act/2026-03/news/us-saudi-deal-said-loosen-nonproliferation-vows",
         "https://forbes.it/2026/07/23/tra-nucleare-e-hotel-di-lusso-cosi-trump-espande-i-suoi-affari-in-arabia-saudita/",
-        "https://www.forbes.com/sites/danalexander/2026/07/23/trump-bolstered-saudi-business-connections-amid-nuclear-discussions/"
+        "https://www.forbes.com/sites/danalexander/2026/07/23/trump-bolstered-saudi-business-connections-amid-nuclear-discussions/",
+        "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords",
+        "https://www.al-monitor.com/originals/2026/07/trump-says-saudi-nuclear-deal-totally-subject-israel-normalization",
+        "https://www.armscontrol.org/act/2026-09/news/trump-adds-conditions-us-saudi-nuclear-cooperation-deal"
       ]
     },
     {
@@ -115,7 +123,9 @@
     "The brief lists 'Dar Global towers' among deals that 'proceeded alongside' the November 2025 decisions. Trump Tower Jeddah (Jul 2024) and the first Riyadh announcement (Dec 2024) came before the second term. The Diriyah launch (Jan 2026) and Trump Plaza Jeddah (Sep 2025) fall inside it.",
     "On 18 Nov 2025 Trump called the F-35 sale approved, but the formal congressional notification (48 jets, ~$24.3B) came only on 17 Sep 2026. It is not a signed contract.",
     "Trump said the family had done 'very little' business with Saudi Arabia. Forbes's Dan Alexander, speaking to NPR, said that is not true; Forbes has estimated ~$50M from Saudi-linked deals in 2024 (figure via secondary reporting).",
-    "Affinity's EA stake is small (~1.1% per press estimates). PIF owns the bulk (~93%), so 'Kushner's EA buyout' overstates his share, though Affinity is a named co-acquirer."
+    "Affinity's EA stake is small (~1.1% per press estimates). PIF owns the bulk (~93%), so 'Kushner's EA buyout' overstates his share, though Affinity is a named co-acquirer.",
+    "The major non-NATO ally status announced on 18 Nov 2025 was formalized by Presidential Determination No. 2026-03 (13 Jan 2026; Federal Register 23 Jan 2026).",
+    "The 123 agreement is not simply on track: on 23 Jul 2026 Trump said its approval is 'totally subject' to Saudi Arabia joining the Abraham Accords; transmission to Congress is dated 24 Aug (Arms Control Today) or 25 Aug 2026 (other reports)."
   ],
   "denials_and_context": [
     "Before the May 2025 trip, Karoline Leavitt called the suggestion that Trump was acting for his own benefit 'ridiculous' and said he 'is abiding by all conflict of interest laws'. The White House points to the trust run by his children and to the 2025 ethics agreement, which bars deals with foreign governments but allows deals with private foreign firms.",
@@ -123,7 +133,8 @@
     "A Trump Organization representative told Forbes the Diriyah-related deal was not finalized while the nuclear agreement was being negotiated.",
     "Critics such as AEI's Timothy Carney note that Trump still profits when the company does well. Blumenthal and Warren allege Kushner's role in EA is about delivering federal approval; that is an allegation, not a finding.",
     "Context cutting the other way: Saudi pursuit of F-35s, a 123 agreement and advanced chips long predates the Trump business deals. Comparable chip approvals went to the UAE's G42 the same day. LIV's use of Trump courses dates to 2022, when Trump was out of office.",
-    "LIV host fees to Trump clubs are undisclosed, and PIF is ending LIV funding after 2026, which weakens the golf channel going forward."
+    "LIV host fees to Trump clubs are undisclosed, and PIF is ending LIV funding after 2026, which weakens the golf channel going forward.",
+    "Trump's Abraham Accords condition on the 123 deal cuts against a simple 'policy delivered for business' reading: the administration has tied the nuclear deal to an Israel-normalization goal Riyadh has resisted."
   ],
   "sources": [
     {
@@ -389,6 +400,60 @@
       "publisher": "Insider Sport",
       "url": "https://insidersport.com/2026/08/06/liv-golf-lead-investor-pif-exit/",
       "date": "2026-08-06"
+    },
+    {
+      "title": "Designation of the Kingdom of Saudi Arabia as a Major Non-NATO Ally (Presidential Determination No. 2026-03)",
+      "publisher": "Federal Register / GovInfo",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-23/html/2026-01421.htm",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "Saudi Arabia's designation as a major non-NATO ally: practical defense trade implications",
+      "publisher": "DLA Piper",
+      "url": "https://www.dlapiper.com/insights/publications/2025/11/saudi-arabias-designation-as-a-major-non-nato-ally-practical-defense-trade-implications",
+      "date": "2025-11-25"
+    },
+    {
+      "title": "Diriyah Company (portfolio page)",
+      "publisher": "Public Investment Fund",
+      "url": "https://pif.gov.sa/en/our-investments/our-portfolio/diriyah-company",
+      "date": ""
+    },
+    {
+      "title": "Saudi notches win with F-35 sale",
+      "publisher": "Semafor",
+      "url": "https://www.semafor.com/article/09/18/2026/saudi-notches-win-with-f-35-sale",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Congress silent on Saudi F-35 sale",
+      "publisher": "House of Saud (single specialist outlet)",
+      "url": "https://houseofsaud.com/congress-f35-saudi-silence/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Trump says Saudi nuclear deal 'totally subject' to Israel normalization",
+      "publisher": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/07/trump-says-saudi-nuclear-deal-totally-subject-israel-normalization",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Trump adds conditions to U.S.-Saudi nuclear cooperation deal",
+      "publisher": "Arms Control Today (via search results; not fetchable)",
+      "url": "https://www.armscontrol.org/act/2026-09/news/trump-adds-conditions-us-saudi-nuclear-cooperation-deal",
+      "date": "2026-09"
+    },
+    {
+      "title": "Saudi 123 Agreement submitted to Congress",
+      "publisher": "Neutron Bytes",
+      "url": "https://neutronbytes.com/2026/08/26/saudi-123-agreement-submitted-to-congress/",
+      "date": "2026-08-26"
     }
   ],
   "entities": [
@@ -1010,5 +1075,77 @@
       ],
       "source_url": "https://thedeepdive.ca/what-does-trumps-family-get-out-of-the-saudi-nuclear-deal/"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Formal major non-NATO ally designation (gap flagged by first researcher)",
+      "Outcome of congressional review of the 17 Sep 2026 F-35 notification",
+      "Diriyah Company ownership (PIF)",
+      "123 nuclear agreement signing, transmission and status"
+    ],
+    "result": "strengthened",
+    "changes": [
+      "MNNA sub-claim: added Presidential Determination No. 2026-03 (13 Jan 2026; 91 FR 3017, 23 Jan 2026).",
+      "F-35 sub-claim: added Rand Paul disapproval resolution and no floor vote; single-source report that review lapsed 17 Oct 2026 without a vote and no LOA yet.",
+      "Diriyah: PIF portfolio page lists Diriyah Company; 'could not verify' removed; 'wholly owned' wording flagged as unconfirmed.",
+      "123 sub-claim: added Trump's 23 Jul 2026 Abraham Accords condition and Leavitt's 'deal is off' remark; noted 24 vs 25 Aug transmission date conflict. Summary, corrections and context updated. Verdict mostly-accurate kept.",
+      "Not re-checked: LIV host fees, EA stake percentages and close date (covered by C80's audit), Humain chip licences."
+    ],
+    "new_sources": [
+      {
+        "title": "Designation of the Kingdom of Saudi Arabia as a Major Non-NATO Ally (Presidential Determination No. 2026-03)",
+        "publisher": "Federal Register / GovInfo",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-23/html/2026-01421.htm",
+        "date": "2026-01-23"
+      },
+      {
+        "title": "Saudi Arabia's designation as a major non-NATO ally: practical defense trade implications",
+        "publisher": "DLA Piper",
+        "url": "https://www.dlapiper.com/insights/publications/2025/11/saudi-arabias-designation-as-a-major-non-nato-ally-practical-defense-trade-implications",
+        "date": "2025-11-25"
+      },
+      {
+        "title": "Diriyah Company (portfolio page)",
+        "publisher": "Public Investment Fund",
+        "url": "https://pif.gov.sa/en/our-investments/our-portfolio/diriyah-company",
+        "date": ""
+      },
+      {
+        "title": "Saudi notches win with F-35 sale",
+        "publisher": "Semafor",
+        "url": "https://www.semafor.com/article/09/18/2026/saudi-notches-win-with-f-35-sale",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Congress silent on Saudi F-35 sale",
+        "publisher": "House of Saud (single specialist outlet)",
+        "url": "https://houseofsaud.com/congress-f35-saudi-silence/",
+        "date": "2026-10"
+      },
+      {
+        "title": "Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords",
+        "publisher": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "Trump says Saudi nuclear deal 'totally subject' to Israel normalization",
+        "publisher": "Al-Monitor",
+        "url": "https://www.al-monitor.com/originals/2026/07/trump-says-saudi-nuclear-deal-totally-subject-israel-normalization",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "Trump adds conditions to U.S.-Saudi nuclear cooperation deal",
+        "publisher": "Arms Control Today (via search results; not fetchable)",
+        "url": "https://www.armscontrol.org/act/2026-09/news/trump-adds-conditions-us-saudi-nuclear-cooperation-deal",
+        "date": "2026-09"
+      },
+      {
+        "title": "Saudi 123 Agreement submitted to Congress",
+        "publisher": "Neutron Bytes",
+        "url": "https://neutronbytes.com/2026/08/26/saudi-123-agreement-submitted-to-congress/",
+        "date": "2026-08-26"
+      }
+    ]
+  }
 }

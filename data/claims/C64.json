@@ -1131,7 +1131,7 @@
   {
    "source": "ballard-partners",
    "target": "donald-trump",
-   "label": "employee pressed for crypto-reserve post; XRP named",
+   "label": "employee pressed for crypto-reserve post; XRP named (Politico, anonymous sources)",
    "type": "political",
    "date": "2025-03"
   },
@@ -1562,7 +1562,8 @@
    "Patel: corrected the recusal framing (Nov 2024 one-year pledge expired before the Dec 2025 signing; March 2025 waiver), reconciled with C73, in the finding and summary.",
    "Bondi: summary and entity now say she was AG until Apr 2, 2026 (Blanche acting AG, then confirmed Aug 8, 2026).",
    "Brad Bondi: documented role is lead criminal defence counsel while at Cahill; the 'SEC counsel' description is from C36 and was not re-checked, so the statement and relationship label were adjusted.",
-   "Upheld: Seiden Law Apr 8, 2025 at $200K/month (some outlets say $125K) and Javelin's Apr 25, 2025 FARA registration, which lists Sorial, Schiller and Robert Seiden as co-owners; Kalshi-Miller $240K (OpenSecrets via Stateline); Ballard-Saudi $60K/month from Mar 31, 2025, still listed in a Mar 2026 FARA supplemental. Verdict and confidence unchanged."
+   "Upheld: Seiden Law Apr 8, 2025 at $200K/month (some outlets say $125K) and Javelin's Apr 25, 2025 FARA registration, which lists Sorial, Schiller and Robert Seiden as co-owners; Kalshi-Miller $240K (OpenSecrets via Stateline); Ballard-Saudi $60K/month from Mar 31, 2025, still listed in a Mar 2026 FARA supplemental. Verdict and confidence unchanged.",
+   "Relationship labels resting on anonymous or single-outlet reporting now name that sourcing: ballard-partners -> donald-trump."
   ],
   "new_sources": [
    {

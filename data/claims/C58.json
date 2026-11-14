@@ -3,7 +3,7 @@
   "title": "Market-moving posts and insider-trading allegations",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Most of the pattern in the brief is documented. On 9 April 2025 Trump posted 'THIS IS A GREAT TIME TO BUY!!!' less than four hours before the 90-day tariff pause, Reuters documented a burst of bullish options buying minutes before the pause post, Senate and House Democrats asked the SEC to investigate, and Trump bragged on camera that friends had made billions. Later episodes are documented too: a CFTC/DOJ probe of oil-futures trades placed before Trump's Iran posts (March-April 2026), suspicious Polymarket bets before the Maduro raid and the Iran strikes, a White House email warning staff not to trade on nonpublic information, the Intercept/FPF suit over the paid Truth API, and a Rogan podcast exchange calling the API 'insider trading'. No public evidence or official finding ties Trump, his family or named officials to any of these trades. The one criminal case is a soldier charged over the Maduro bets. The Intel and Fed 'well-timed trades' threads are thin, and the best-known pardon bets were on Biden's pardons, not Trump's.",
+  "summary": "Most of the pattern in the brief is documented. On 9 April 2025 Trump posted 'THIS IS A GREAT TIME TO BUY!!!' less than four hours before the 90-day tariff pause, Reuters documented a burst of bullish options buying minutes before the pause post, Senate and House Democrats asked the SEC to investigate, and Trump bragged on camera that friends had made billions. Later episodes are documented too: a CFTC/DOJ probe of oil-futures trades placed before Trump's Iran posts (March-April 2026), suspicious Polymarket bets before the Maduro raid and the Iran strikes, a White House email warning staff not to trade on nonpublic information, the Intercept/FPF suit over the paid Truth API, and a Rogan podcast exchange calling the API 'insider trading'. No public evidence or official finding ties Trump, his family or named officials to any of these trades. The one criminal case is a soldier charged over the Maduro bets. The Intel and Fed 'well-timed trades' threads are thin, and the best-known pardon bets were on Biden's pardons, not Trump's. Audit update: Bloomberg reported in October 2026 that an adviser to CFTC Chair Selig had staff retract an enforcement referral over the 23 March 2026 oil bets (the CFTC says enforcement work continues), and House Democrats said in February 2026 the SEC never substantively answered the April 2025 requests.",
   "sub_claims": [
     {
       "statement": "Trump posted 'THIS IS A GREAT TIME TO BUY' on 9 April 2025, hours before announcing the tariff pause.",
@@ -26,11 +26,12 @@
     {
       "statement": "Democrats asked the SEC to investigate.",
       "verdict": "confirmed",
-      "finding": "On 11 April 2025 Sens. Warren and Schumer, joined by Schiff, Wyden, Gallego, Kelly and others, wrote to SEC Chair Paul Atkins. They asked whether Trump, Cabinet members, donors or other insiders had engaged in insider trading or market manipulation, and whether the White House had contacted the SEC. Maxine Waters sent a separate House letter on 10 April 2025. Rep. Ocasio-Cortez urged members of Congress to disclose their trades. An SEC spokesperson declined to comment. I found no public SEC response, investigation or enforcement action.",
+      "finding": "On 11 April 2025 Sens. Warren and Schumer, joined by Schiff, Wyden, Gallego, Kelly and others, wrote to SEC Chair Paul Atkins. They asked whether Trump, Cabinet members, donors or other insiders had engaged in insider trading or market manipulation, and whether the White House had contacted the SEC. Maxine Waters sent a separate House letter on 10 April 2025. Rep. Ocasio-Cortez urged members of Congress to disclose their trades. An SEC spokesperson declined to comment. In a 2026-02-24 letter, House Financial Services Democrats said that nearly a year after their April 2025 request to SEC Chair Atkins, the SEC Inspector General and GAO they had 'received no substantive response', and that GAO said it lacks authority to compel an investigation. Senators Warner and Schiff sent a further letter in April 2026 on trading ahead of policy announcements. No public SEC response, investigation or enforcement action was found through Nov 2026.",
       "sources": [
         "https://www.banking.senate.gov/imo/media/doc/20250411 Letter to SEC re DJT Tariff Insider Trading.pdf",
         "https://www.wyden.senate.gov/news/press-releases/wyden-warren-schumer-senate-colleagues-call-on-sec-to-launch-investigation-into-possible-trump-tariff-market-manipulation-insider-trading",
-        "https://democrats-financialservices.house.gov/UploadedFiles/04.10.2025-_Ltr_SEC.GAOIT.pdf"
+        "https://democrats-financialservices.house.gov/UploadedFiles/04.10.2025-_Ltr_SEC.GAOIT.pdf",
+        "https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf"
       ]
     },
     {
@@ -45,13 +46,15 @@
     {
       "statement": "Well-timed trades came before other Trump announcements on Iran, Intel and the Fed.",
       "verdict": "partly-accurate",
-      "finding": "Iran: documented. Reuters reported in mid-April 2026 that the CFTC, working with DOJ, was probing oil-futures trades on CME and ICE made shortly before Trump's Iran posts of 23 March 2026 (a pause in strikes and talks with Iran) and 7 April 2026. The CFTC sought 'Tag 50' trader identities. Estimates of the bets range from about $2.6B (ABC) to about $7B (Reuters). CFTC Chair Selig said the agency would pursue insider trading but did not comment on specifics. I found no charges. Intel: thin. A trading-platform blog noted unusual Intel options activity before the 22 August 2025 government-stake news, and Rep. Tim Moore bought Intel shares on 29 July 2025. Neither shows insider trading, and no probe was found. Fed: Warsh's odds on Polymarket and Kalshi jumped before his nomination, but that tracked press reports, and no investigation was found.",
+      "finding": "Iran: documented. Reuters reported in mid-April 2026 that the CFTC, working with DOJ, was probing oil-futures trades on CME and ICE made shortly before Trump's Iran posts of 23 March 2026 (a pause in strikes and talks with Iran) and 7 April 2026. The CFTC sought 'Tag 50' trader identities. Estimates of the bets range from about $2.6B (ABC) to about $7B (Reuters). CFTC Chair Selig said the agency would pursue insider trading but did not comment on specifics. Update: Bloomberg reported on 2026-10-13, citing people familiar, that Mel Gunewardena, a senior adviser to Selig, told a market-oversight supervisor to retract a staff referral to enforcement over oil bets placed minutes before the 23 March post (reported at roughly $500-760M), an intervention described as unusual; the supervisor had left the agency by July. A source quoted afterwards said the enforcement division is still examining the trades and that all referred entities are under investigation; the CFTC does not confirm or deny investigations. Sen. Whitehouse had asked Selig in April to examine the 23 March trades and a roughly $950M short bet before the 7 April ceasefire post. No charges had been reported as of mid-Nov 2026. Intel: thin. A trading-platform blog noted unusual Intel options activity before the 22 August 2025 government-stake news, and Rep. Tim Moore bought Intel shares on 29 July 2025. Neither shows insider trading, and no probe was found. Fed: Warsh's odds on Polymarket and Kalshi jumped before his nomination, but that tracked press reports, and no investigation was found.",
       "sources": [
         "https://finance.yahoo.com/markets/commodities/articles/us-probes-suspicious-oil-trades-185104849.html",
         "https://www.cbsnews.com/news/insider-trading-oil-futures-trump-iran-post",
         "https://abcnews4.com/news/nation-world/feds-probe-oil-futures-trades-ahead-of-trump-iran-strait-of-hormuz-announcements-prices-trading-activity-report",
         "https://blog.deriv.com/blog/intel-stock-price-surge-2025-trump-semiconductor-policy",
-        "https://www.theblock.co/news/regulation/2026-01-30-kevin-warsh-polymarket-odds-fed-chair-387788"
+        "https://www.theblock.co/news/regulation/2026-01-30-kevin-warsh-polymarket-odds-fed-chair-387788",
+        "https://www.ibtimes.co.uk/cftc-insider-trading-referral-iran-oil-bet-1825415",
+        "https://financefeeds.com/cftc-staff-told-to-withdraw-insider-trading-referral-on-oil-bets-before-trumps-iran-post/"
       ]
     },
     {
@@ -113,7 +116,8 @@
     "Gillis, not Rogan, used the phrase 'literally insider trading' about the Truth API. Rogan questioned its legality.",
     "The '$2.5 billion' (Schwab) and '$900 million' (Penske) figures are Trump's on-camera claims about paper gains, not documented trading profits.",
     "Estimates of the oil-futures bets before Trump's Iran posts conflict: about $2.6B (ABC) versus about $7B (Reuters).",
-    "Secondary-site claims that a $2.5M options position became $70M+ on 9 April 2025 are not confirmed by Reuters, which put one SPY call block at about $624K rising to about $10M."
+    "Secondary-site claims that a $2.5M options position became $70M+ on 9 April 2025 are not confirmed by Reuters, which put one SPY call block at about $624K rising to about $10M.",
+    "Size estimates for the 23 March 2026 oil bet vary further: about $500-760M in the trades covered by the retracted CFTC referral (Bloomberg via secondary outlets), separate from the roughly $950M bet before the 7 April post."
   ],
   "denials_and_context": [
     "The White House denied market manipulation in April 2025, saying the 'great time to buy' post was meant to calm markets. Sen. Cornyn called the insider-trading allegations ridiculous.",
@@ -122,149 +126,798 @@
     "No public evidence identifies who placed the 9 April 2025 options trades, the Iran oil-futures trades or the Iran-strike Polymarket bets. The only person charged (Van Dyke) is a soldier, not a political appointee or Trump associate.",
     "Experts note that market moves around presidential statements can reflect fast reaction, leaks to the press or informed speculation, not only insider trading. Prediction-market odds on the Fed chair tracked press reporting.",
     "Trump Jr. advises both Kalshi and Polymarket (see C25), and 1789 Capital invested in Polymarket. That ties the family to the platforms on which the suspicious bets were placed, but not to the bets themselves.",
-    "Coverage after mid-2026 of whether the CFTC oil probe produced charges, and of any ruling in the Intercept suit, could not be checked: the web-search budget ran out and direct fetches of CourtListener, Inner City Press and Mediaite were blocked in this environment."
+    "Coverage after mid-2026 of whether the CFTC oil probe produced charges, and of any ruling in the Intercept suit, could not be checked: the web-search budget ran out and direct fetches of CourtListener, Inner City Press and Mediaite were blocked in this environment.",
+    "The CFTC does not confirm or deny investigations; after the Bloomberg referral report a source said all entities referred to enforcement remain under investigation. The referral account rests on anonymous sourcing."
   ],
   "sources": [
-    {"title": "Why some are accusing Trump of manipulating stock markets", "publisher": "NPR", "url": "https://www.npr.org/2025/04/10/nx-s1-5360062/why-some-are-accusing-trump-of-manipulating-stock-markets", "date": "2025-04-10"},
-    {"title": "Trump told people to buy. Hours later his tariff pause sent markets soaring", "publisher": "AP via Anchorage Daily News", "url": "https://www.adn.com/nation-world/2025/04/09/trump-told-people-to-buy-hours-later-his-tariff-pause-sent-markets-soaring/", "date": "2025-04-09"},
-    {"title": "Well-timed options trades ahead of Trump's tariff pause draw questions", "publisher": "Reuters via Yahoo Finance", "url": "https://finance.yahoo.com/news/well-timed-options-trades-ahead-211154780.html", "date": "2025-04-10"},
-    {"title": "SPY, QQQ call volumes spiked minutes before tariff pause announcement; AOC demands disclosure", "publisher": "Benzinga", "url": "https://www.benzinga.com/government/regulations/25/04/44728276/spy-qqq-call-volumes-spiked-minutes-before-tariff-pause-announcement-alexandria-ocasio-cortez-demands-disclosure-from-congress-members", "date": "2025-04-10"},
-    {"title": "Letter to SEC re DJT tariff insider trading", "publisher": "Senate Banking Committee (minority)", "url": "https://www.banking.senate.gov/imo/media/doc/20250411 Letter to SEC re DJT Tariff Insider Trading.pdf", "date": "2025-04-11"},
-    {"title": "Wyden, Warren, Schumer, Senate colleagues call on SEC to launch investigation into possible Trump tariff market manipulation, insider trading", "publisher": "Office of Sen. Ron Wyden", "url": "https://www.wyden.senate.gov/news/press-releases/wyden-warren-schumer-senate-colleagues-call-on-sec-to-launch-investigation-into-possible-trump-tariff-market-manipulation-insider-trading", "date": "2025-04-11"},
-    {"title": "Waters letter to SEC Chair Atkins", "publisher": "House Financial Services Committee Democrats", "url": "https://democrats-financialservices.house.gov/UploadedFiles/04.10.2025-_Ltr_SEC.GAOIT.pdf", "date": "2025-04-10"},
-    {"title": "Trump brags tariff pause made billionaires richer", "publisher": "The New Republic", "url": "https://newrepublic.com/post/193860/donald-trump-brags-tariff-pause-made-billionaires-richer", "date": "2025-04-10"},
-    {"title": "Video of Trump bragging about enriching his billionaire pals draws outrage", "publisher": "Common Dreams", "url": "https://www.commondreams.org/news/trump-brags-billionaire-friends", "date": "2025-04-10"},
-    {"title": "US probes suspicious oil trades made before Trump Iran pivots, source says", "publisher": "Reuters via Yahoo Finance", "url": "https://finance.yahoo.com/markets/commodities/articles/us-probes-suspicious-oil-trades-185104849.html", "date": "2026-04-15"},
-    {"title": "Insider trading in oil futures around Trump Iran post", "publisher": "CBS News", "url": "https://www.cbsnews.com/news/insider-trading-oil-futures-trump-iran-post", "date": "2026-04"},
-    {"title": "Feds probe oil futures trades ahead of Trump Iran, Strait of Hormuz announcements", "publisher": "ABC News 4 (Sinclair)", "url": "https://abcnews4.com/news/nation-world/feds-probe-oil-futures-trades-ahead-of-trump-iran-strait-of-hormuz-announcements-prices-trading-activity-report", "date": "2026-04"},
-    {"title": "A $400,000 profit on Maduro's capture raises insider trading questions on Polymarket", "publisher": "NPR", "url": "https://www.npr.org/transcripts/nx-s1-5667232", "date": "2026-01-06"},
-    {"title": "Polymarket insider trading charges illustrate DOJ and CFTC prediction markets enforcement strategy", "publisher": "Debevoise & Plimpton", "url": "https://www.debevoise.com/insights/publications/2026/04/polymarket-insider-trading-charges-illustrate-doj", "date": "2026-04"},
-    {"title": "DOJ and CFTC criminal and civil insider trading charges", "publisher": "DLA Piper", "url": "https://www.dlapiper.com/insights/publications/2026/05/doj-and-cftc-criminal-and-civil-insider-trading-charges", "date": "2026-05-12"},
-    {"title": "Fresh accounts netted $1 million on Polymarket hours before US airstrikes on Iran: Bubblemaps", "publisher": "The Block", "url": "https://www.theblock.co/post/391650/fresh-accounts-netted-1-million-on-polymarket-hours-before-us-airstrikes-on-iran-bubblemaps", "date": "2026-03"},
-    {"title": "Gamblers make big profits on Iran strikes, raising insider trading concerns", "publisher": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/3/4/traders-mint-money-on-betting-platforms-on-us-israel-strike-on-iran", "date": "2026-03-04"},
-    {"title": "Large Polymarket, Wall Street bets on Trump's war news under scrutiny", "publisher": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/3/25/large-polymarket-wall-street-bets-on-trumps-war-news-under-scrutiny", "date": "2026-03-25"},
-    {"title": "A Polymarket trader made $300,000 betting on Biden's pardons, a new analysis shows", "publisher": "NPR", "url": "https://www.npr.org/2026/04/16/nx-s1-5786580/a-polymarket-trader-made-300-000-betting-on-bidens-pardons", "date": "2026-04-16"},
-    {"title": "White House staff warned about prediction markets and insider trading", "publisher": "Quartz", "url": "https://qz.com/white-house-staff-warning-prediction-markets-insider-trading-041026", "date": "2026-04-10"},
-    {"title": "White House warns staff against prediction market bets", "publisher": "Deseret News", "url": "https://www.deseret.com/politics/2026/04/10/white-house-warn-staff-against-prediction-market-bets-insider-trading-iran-war", "date": "2026-04-10"},
-    {"title": "White House warns staff after mysteriously well-timed bets on Donald Trump's decisions", "publisher": "The Daily Beast", "url": "https://www.thedailybeast.com/white-house-warns-staff-after-mysteriously-well-timed-bets-on-donald-trumps-decisions", "date": "2026-04-10"},
-    {"title": "Trump Media's Truth Social premium feed violates First Amendment, lawsuit says", "publisher": "The Intercept", "url": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/", "date": "2026-08-12"},
-    {"title": "Lawsuit: early-access fee for Trump Truth Social posts unconstitutional", "publisher": "Freedom of the Press Foundation", "url": "https://freedom.press/issues/lawsuit-early-access-fee-for-trump-truth-social-posts-unconstitutional/", "date": "2026-08-12"},
-    {"title": "'Profoundly corrupt': Trump sued over scheme to charge $100K for early Truth Social access", "publisher": "Courthouse News Service", "url": "https://www.courthousenews.com/profoundly-corrupt-trump-sued-over-scheme-to-charge-100k-for-early-truth-social-access/", "date": "2026-08-12"},
-    {"title": "Clinic files for preliminary injunction against paid Truth API service", "publisher": "Yale Law School", "url": "https://law.yale.edu/yls-today/news/clinic-files-preliminary-injunction-against-paid-truth-api-service", "date": "2026-08"},
-    {"title": "Trump, Natalie Harp ordered to answer Truth lawsuit before midterms", "publisher": "Newsweek", "url": "https://www.newsweek.com/donald-trump-natalie-harp-ordered-to-answer-truth-lawsuit-before-midterms-12567210", "date": "2026-09"},
-    {"title": "Judge weighs case against Trump, Natalie Harp after Truth Social change", "publisher": "Newsweek", "url": "https://www.newsweek.com/judge-weighs-injunction-over-trump-truth-api-service-12515987", "date": "2026-10"},
-    {"title": "'Oh my God!' Joe Rogan stunned over Truth Social selling access to Trump's posts", "publisher": "Mediaite", "url": "https://www.mediaite.com/media/podcasts/oh-my-god-joe-rogan-stunned-over-truth-social-selling-access-to-trumps-posts/", "date": "2026-08"},
-    {"title": "Trump Media Truth API insider trading", "publisher": "Fortune", "url": "https://fortune.com/2026/08/12/trump-media-truth-api-insider-trading/", "date": "2026-08-12"},
-    {"title": "Kevin Warsh odds jump to 93% on Polymarket as Trump's Fed chair pick looms", "publisher": "The Block", "url": "https://www.theblock.co/news/regulation/2026-01-30-kevin-warsh-polymarket-odds-fed-chair-387788", "date": "2026-01-30"},
-    {"title": "Is Intel's stock price surge a turning point or a temporary boost?", "publisher": "Deriv (blog)", "url": "https://blog.deriv.com/blog/intel-stock-price-surge-2025-trump-semiconductor-policy", "date": "2025-08"}
+    {
+      "title": "Why some are accusing Trump of manipulating stock markets",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2025/04/10/nx-s1-5360062/why-some-are-accusing-trump-of-manipulating-stock-markets",
+      "date": "2025-04-10"
+    },
+    {
+      "title": "Trump told people to buy. Hours later his tariff pause sent markets soaring",
+      "publisher": "AP via Anchorage Daily News",
+      "url": "https://www.adn.com/nation-world/2025/04/09/trump-told-people-to-buy-hours-later-his-tariff-pause-sent-markets-soaring/",
+      "date": "2025-04-09"
+    },
+    {
+      "title": "Well-timed options trades ahead of Trump's tariff pause draw questions",
+      "publisher": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/well-timed-options-trades-ahead-211154780.html",
+      "date": "2025-04-10"
+    },
+    {
+      "title": "SPY, QQQ call volumes spiked minutes before tariff pause announcement; AOC demands disclosure",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/government/regulations/25/04/44728276/spy-qqq-call-volumes-spiked-minutes-before-tariff-pause-announcement-alexandria-ocasio-cortez-demands-disclosure-from-congress-members",
+      "date": "2025-04-10"
+    },
+    {
+      "title": "Letter to SEC re DJT tariff insider trading",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/imo/media/doc/20250411 Letter to SEC re DJT Tariff Insider Trading.pdf",
+      "date": "2025-04-11"
+    },
+    {
+      "title": "Wyden, Warren, Schumer, Senate colleagues call on SEC to launch investigation into possible Trump tariff market manipulation, insider trading",
+      "publisher": "Office of Sen. Ron Wyden",
+      "url": "https://www.wyden.senate.gov/news/press-releases/wyden-warren-schumer-senate-colleagues-call-on-sec-to-launch-investigation-into-possible-trump-tariff-market-manipulation-insider-trading",
+      "date": "2025-04-11"
+    },
+    {
+      "title": "Waters letter to SEC Chair Atkins",
+      "publisher": "House Financial Services Committee Democrats",
+      "url": "https://democrats-financialservices.house.gov/UploadedFiles/04.10.2025-_Ltr_SEC.GAOIT.pdf",
+      "date": "2025-04-10"
+    },
+    {
+      "title": "Trump brags tariff pause made billionaires richer",
+      "publisher": "The New Republic",
+      "url": "https://newrepublic.com/post/193860/donald-trump-brags-tariff-pause-made-billionaires-richer",
+      "date": "2025-04-10"
+    },
+    {
+      "title": "Video of Trump bragging about enriching his billionaire pals draws outrage",
+      "publisher": "Common Dreams",
+      "url": "https://www.commondreams.org/news/trump-brags-billionaire-friends",
+      "date": "2025-04-10"
+    },
+    {
+      "title": "US probes suspicious oil trades made before Trump Iran pivots, source says",
+      "publisher": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/us-probes-suspicious-oil-trades-185104849.html",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Insider trading in oil futures around Trump Iran post",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/news/insider-trading-oil-futures-trump-iran-post",
+      "date": "2026-04"
+    },
+    {
+      "title": "Feds probe oil futures trades ahead of Trump Iran, Strait of Hormuz announcements",
+      "publisher": "ABC News 4 (Sinclair)",
+      "url": "https://abcnews4.com/news/nation-world/feds-probe-oil-futures-trades-ahead-of-trump-iran-strait-of-hormuz-announcements-prices-trading-activity-report",
+      "date": "2026-04"
+    },
+    {
+      "title": "A $400,000 profit on Maduro's capture raises insider trading questions on Polymarket",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/transcripts/nx-s1-5667232",
+      "date": "2026-01-06"
+    },
+    {
+      "title": "Polymarket insider trading charges illustrate DOJ and CFTC prediction markets enforcement strategy",
+      "publisher": "Debevoise & Plimpton",
+      "url": "https://www.debevoise.com/insights/publications/2026/04/polymarket-insider-trading-charges-illustrate-doj",
+      "date": "2026-04"
+    },
+    {
+      "title": "DOJ and CFTC criminal and civil insider trading charges",
+      "publisher": "DLA Piper",
+      "url": "https://www.dlapiper.com/insights/publications/2026/05/doj-and-cftc-criminal-and-civil-insider-trading-charges",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Fresh accounts netted $1 million on Polymarket hours before US airstrikes on Iran: Bubblemaps",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/391650/fresh-accounts-netted-1-million-on-polymarket-hours-before-us-airstrikes-on-iran-bubblemaps",
+      "date": "2026-03"
+    },
+    {
+      "title": "Gamblers make big profits on Iran strikes, raising insider trading concerns",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/3/4/traders-mint-money-on-betting-platforms-on-us-israel-strike-on-iran",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "Large Polymarket, Wall Street bets on Trump's war news under scrutiny",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/3/25/large-polymarket-wall-street-bets-on-trumps-war-news-under-scrutiny",
+      "date": "2026-03-25"
+    },
+    {
+      "title": "A Polymarket trader made $300,000 betting on Biden's pardons, a new analysis shows",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2026/04/16/nx-s1-5786580/a-polymarket-trader-made-300-000-betting-on-bidens-pardons",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "White House staff warned about prediction markets and insider trading",
+      "publisher": "Quartz",
+      "url": "https://qz.com/white-house-staff-warning-prediction-markets-insider-trading-041026",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "White House warns staff against prediction market bets",
+      "publisher": "Deseret News",
+      "url": "https://www.deseret.com/politics/2026/04/10/white-house-warn-staff-against-prediction-market-bets-insider-trading-iran-war",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "White House warns staff after mysteriously well-timed bets on Donald Trump's decisions",
+      "publisher": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/white-house-warns-staff-after-mysteriously-well-timed-bets-on-donald-trumps-decisions",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Trump Media's Truth Social premium feed violates First Amendment, lawsuit says",
+      "publisher": "The Intercept",
+      "url": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Lawsuit: early-access fee for Trump Truth Social posts unconstitutional",
+      "publisher": "Freedom of the Press Foundation",
+      "url": "https://freedom.press/issues/lawsuit-early-access-fee-for-trump-truth-social-posts-unconstitutional/",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "'Profoundly corrupt': Trump sued over scheme to charge $100K for early Truth Social access",
+      "publisher": "Courthouse News Service",
+      "url": "https://www.courthousenews.com/profoundly-corrupt-trump-sued-over-scheme-to-charge-100k-for-early-truth-social-access/",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Clinic files for preliminary injunction against paid Truth API service",
+      "publisher": "Yale Law School",
+      "url": "https://law.yale.edu/yls-today/news/clinic-files-preliminary-injunction-against-paid-truth-api-service",
+      "date": "2026-08"
+    },
+    {
+      "title": "Trump, Natalie Harp ordered to answer Truth lawsuit before midterms",
+      "publisher": "Newsweek",
+      "url": "https://www.newsweek.com/donald-trump-natalie-harp-ordered-to-answer-truth-lawsuit-before-midterms-12567210",
+      "date": "2026-09"
+    },
+    {
+      "title": "Judge weighs case against Trump, Natalie Harp after Truth Social change",
+      "publisher": "Newsweek",
+      "url": "https://www.newsweek.com/judge-weighs-injunction-over-trump-truth-api-service-12515987",
+      "date": "2026-10"
+    },
+    {
+      "title": "'Oh my God!' Joe Rogan stunned over Truth Social selling access to Trump's posts",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/media/podcasts/oh-my-god-joe-rogan-stunned-over-truth-social-selling-access-to-trumps-posts/",
+      "date": "2026-08"
+    },
+    {
+      "title": "Trump Media Truth API insider trading",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/08/12/trump-media-truth-api-insider-trading/",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Kevin Warsh odds jump to 93% on Polymarket as Trump's Fed chair pick looms",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2026-01-30-kevin-warsh-polymarket-odds-fed-chair-387788",
+      "date": "2026-01-30"
+    },
+    {
+      "title": "Is Intel's stock price surge a turning point or a temporary boost?",
+      "publisher": "Deriv (blog)",
+      "url": "https://blog.deriv.com/blog/intel-stock-price-surge-2025-trump-semiconductor-policy",
+      "date": "2025-08"
+    },
+    {
+      "title": "Officials flagged a $580M oil bet made minutes before Trump's Iran reversal, then were told to back off",
+      "publisher": "International Business Times UK (relaying Bloomberg)",
+      "url": "https://www.ibtimes.co.uk/cftc-insider-trading-referral-iran-oil-bet-1825415",
+      "date": "2026-10"
+    },
+    {
+      "title": "CFTC staff told to withdraw insider-trading referral on oil bets before Trump's Iran post",
+      "publisher": "FinanceFeeds (relaying Bloomberg)",
+      "url": "https://financefeeds.com/cftc-staff-told-to-withdraw-insider-trading-referral-on-oil-bets-before-trumps-iran-post/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Traders bet big minutes before Trump's Iran post. Then a top regulator's adviser reportedly stepped in",
+      "publisher": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/13/cftc-oil-trades-insider-trading-referral-mel-gunewardena-michael-selig-iran-bloomberg/",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Letter requesting investigation of trading ahead of tariff announcements",
+      "publisher": "House Financial Services Committee Democrats",
+      "url": "https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf",
+      "date": "2026-02-24"
+    }
   ],
   "entities": [
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "President whose Truth Social posts moved markets"},
-    {"id": "truth-social", "name": "Truth Social", "type": "product", "description": "TMTG platform used for official announcements"},
-    {"id": "trump-media-technology-group", "name": "Trump Media & Technology Group", "type": "company", "description": "Owner of Truth Social and the Truth API"},
-    {"id": "truth-api", "name": "Truth API", "type": "product", "description": "Paid real-time feed of Truth Social posts ($60K-$100K/month)"},
-    {"id": "white-house", "name": "White House", "type": "government", "description": "Executive office; warned staff on nonpublic-info trading"},
-    {"id": "sec", "name": "Securities and Exchange Commission", "type": "government", "description": "Asked by Democrats to probe the April 2025 tariff-pause trading"},
-    {"id": "cftc", "name": "Commodity Futures Trading Commission", "type": "government", "description": "Probing Iran-linked oil-futures trades; charged first event-contract insider case"},
-    {"id": "doj", "name": "Department of Justice", "type": "government", "description": "SDNY charged Van Dyke; assisting CFTC oil probe; defending Trump in Intercept suit"},
-    {"id": "us-congress", "name": "US Congress", "type": "government", "description": "Democratic members sought SEC investigations"},
-    {"id": "paul-atkins", "name": "Paul Atkins", "type": "person", "description": "SEC chair, recipient of the April 2025 Democratic letters"},
-    {"id": "mike-selig", "name": "Mike Selig", "type": "person", "description": "CFTC chair; said agency will pursue insider trading"},
-    {"id": "elizabeth-warren", "name": "Elizabeth Warren", "type": "person", "description": "Senator who led SEC letter and pressed on oil probe"},
-    {"id": "adam-schiff", "name": "Adam Schiff", "type": "person", "description": "Senator, co-signer of April 2025 SEC letter"},
-    {"id": "chuck-schumer", "name": "Chuck Schumer", "type": "person", "description": "Senate Democratic leader, co-led April 2025 SEC letter"},
-    {"id": "ron-wyden", "name": "Ron Wyden", "type": "person", "description": "Senator, co-signer of April 2025 SEC letter"},
-    {"id": "maxine-waters", "name": "Maxine Waters", "type": "person", "description": "House Financial Services ranking Democrat; separate SEC letter"},
-    {"id": "alexandria-ocasio-cortez", "name": "Alexandria Ocasio-Cortez", "type": "person", "description": "Representative who demanded congressional trade disclosures"},
-    {"id": "john-cornyn", "name": "John Cornyn", "type": "person", "description": "Senator who dismissed insider-trading allegations"},
-    {"id": "charles-schwab", "name": "Charles Schwab", "type": "person", "description": "Billionaire Trump said 'made two-and-a-half billion today'"},
-    {"id": "roger-penske", "name": "Roger Penske", "type": "person", "description": "Billionaire Trump said made $900 million on 9 April 2025"},
-    {"id": "april-2025-tariff-pause", "name": "90-day reciprocal tariff pause (9 Apr 2025)", "type": "event", "description": "Announcement preceded by 'great time to buy' post"},
-    {"id": "reuters", "name": "Reuters", "type": "media", "description": "Reported options spike and CFTC oil probe"},
-    {"id": "iran", "name": "Iran", "type": "country", "description": "Subject of strikes and pause posts that preceded suspicious trades"},
-    {"id": "polymarket", "name": "Polymarket", "type": "company", "description": "Prediction market used for Maduro, Iran and pardon bets"},
-    {"id": "kalshi", "name": "Kalshi", "type": "company", "description": "CFTC-regulated prediction market"},
-    {"id": "donald-trump-jr", "name": "Donald Trump Jr.", "type": "person", "description": "Adviser to Kalshi and Polymarket"},
-    {"id": "1789-capital", "name": "1789 Capital", "type": "fund", "description": "Don Jr.-linked fund that invested in Polymarket"},
-    {"id": "gannon-van-dyke", "name": "Gannon Ken Van Dyke", "type": "person", "description": "Army Master Sgt. charged over Polymarket Maduro bets"},
-    {"id": "nicolas-maduro", "name": "Nicolas Maduro", "type": "person", "description": "Venezuelan leader captured 3 Jan 2026"},
-    {"id": "bubblemaps", "name": "Bubblemaps", "type": "company", "description": "Blockchain analytics firm flagging suspicious Polymarket wallets"},
-    {"id": "new-york-times", "name": "New York Times", "type": "media", "description": "Found 150+ accounts betting before Iran strikes"},
-    {"id": "david-ingle", "name": "David Ingle", "type": "person", "description": "White House spokesman"},
-    {"id": "the-intercept", "name": "The Intercept", "type": "media", "description": "Plaintiff in suit over Truth API and official posts"},
-    {"id": "freedom-of-the-press-foundation", "name": "Freedom of the Press Foundation", "type": "company", "description": "Co-plaintiff in Intercept v. Trump"},
-    {"id": "intercept-v-trump", "name": "The Intercept Media, Inc. v. Trump (1:26-cv-06867, SDNY)", "type": "event", "description": "First/Fifth Amendment suit filed 12 Aug 2026"},
-    {"id": "natalie-harp", "name": "Natalie Harp", "type": "person", "description": "Trump executive assistant, defendant"},
-    {"id": "dan-scavino", "name": "Dan Scavino", "type": "person", "description": "Deputy chief of staff, defendant"},
-    {"id": "j-paul-oetken", "name": "J. Paul Oetken", "type": "person", "description": "SDNY judge in Intercept v. Trump"},
-    {"id": "joe-rogan", "name": "Joe Rogan", "type": "person", "description": "Podcaster who questioned legality of Truth API"},
-    {"id": "shane-gillis", "name": "Shane Gillis", "type": "person", "description": "Comedian who called Truth API 'literally insider trading'"},
-    {"id": "intel", "name": "Intel", "type": "company", "description": "Chipmaker in which the US took a ~10% stake in Aug 2025"},
-    {"id": "kevin-warsh", "name": "Kevin Warsh", "type": "person", "description": "Trump's Fed chair nominee, heavily bet on in prediction markets"}
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President whose Truth Social posts moved markets"
+    },
+    {
+      "id": "truth-social",
+      "name": "Truth Social",
+      "type": "product",
+      "description": "TMTG platform used for official announcements"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Owner of Truth Social and the Truth API"
+    },
+    {
+      "id": "truth-api",
+      "name": "Truth API",
+      "type": "product",
+      "description": "Paid real-time feed of Truth Social posts ($60K-$100K/month)"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Executive office; warned staff on nonpublic-info trading"
+    },
+    {
+      "id": "sec",
+      "name": "Securities and Exchange Commission",
+      "type": "government",
+      "description": "Asked by Democrats to probe the April 2025 tariff-pause trading"
+    },
+    {
+      "id": "cftc",
+      "name": "Commodity Futures Trading Commission",
+      "type": "government",
+      "description": "Probing Iran-linked oil-futures trades; charged first event-contract insider case"
+    },
+    {
+      "id": "doj",
+      "name": "Department of Justice",
+      "type": "government",
+      "description": "SDNY charged Van Dyke; assisting CFTC oil probe; defending Trump in Intercept suit"
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Democratic members sought SEC investigations"
+    },
+    {
+      "id": "paul-atkins",
+      "name": "Paul Atkins",
+      "type": "person",
+      "description": "SEC chair, recipient of the April 2025 Democratic letters"
+    },
+    {
+      "id": "mike-selig",
+      "name": "Mike Selig",
+      "type": "person",
+      "description": "CFTC chair; said agency will pursue insider trading"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senator who led SEC letter and pressed on oil probe"
+    },
+    {
+      "id": "adam-schiff",
+      "name": "Adam Schiff",
+      "type": "person",
+      "description": "Senator, co-signer of April 2025 SEC letter"
+    },
+    {
+      "id": "chuck-schumer",
+      "name": "Chuck Schumer",
+      "type": "person",
+      "description": "Senate Democratic leader, co-led April 2025 SEC letter"
+    },
+    {
+      "id": "ron-wyden",
+      "name": "Ron Wyden",
+      "type": "person",
+      "description": "Senator, co-signer of April 2025 SEC letter"
+    },
+    {
+      "id": "maxine-waters",
+      "name": "Maxine Waters",
+      "type": "person",
+      "description": "House Financial Services ranking Democrat; separate SEC letter"
+    },
+    {
+      "id": "alexandria-ocasio-cortez",
+      "name": "Alexandria Ocasio-Cortez",
+      "type": "person",
+      "description": "Representative who demanded congressional trade disclosures"
+    },
+    {
+      "id": "john-cornyn",
+      "name": "John Cornyn",
+      "type": "person",
+      "description": "Senator who dismissed insider-trading allegations"
+    },
+    {
+      "id": "charles-schwab",
+      "name": "Charles Schwab",
+      "type": "person",
+      "description": "Billionaire Trump said 'made two-and-a-half billion today'"
+    },
+    {
+      "id": "roger-penske",
+      "name": "Roger Penske",
+      "type": "person",
+      "description": "Billionaire Trump said made $900 million on 9 April 2025"
+    },
+    {
+      "id": "april-2025-tariff-pause",
+      "name": "90-day reciprocal tariff pause (9 Apr 2025)",
+      "type": "event",
+      "description": "Announcement preceded by 'great time to buy' post"
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "type": "media",
+      "description": "Reported options spike and CFTC oil probe"
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "type": "country",
+      "description": "Subject of strikes and pause posts that preceded suspicious trades"
+    },
+    {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "type": "company",
+      "description": "Prediction market used for Maduro, Iran and pardon bets"
+    },
+    {
+      "id": "kalshi",
+      "name": "Kalshi",
+      "type": "company",
+      "description": "CFTC-regulated prediction market"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Adviser to Kalshi and Polymarket"
+    },
+    {
+      "id": "1789-capital",
+      "name": "1789 Capital",
+      "type": "fund",
+      "description": "Don Jr.-linked fund that invested in Polymarket"
+    },
+    {
+      "id": "gannon-van-dyke",
+      "name": "Gannon Ken Van Dyke",
+      "type": "person",
+      "description": "Army Master Sgt. charged over Polymarket Maduro bets"
+    },
+    {
+      "id": "nicolas-maduro",
+      "name": "Nicolas Maduro",
+      "type": "person",
+      "description": "Venezuelan leader captured 3 Jan 2026"
+    },
+    {
+      "id": "bubblemaps",
+      "name": "Bubblemaps",
+      "type": "company",
+      "description": "Blockchain analytics firm flagging suspicious Polymarket wallets"
+    },
+    {
+      "id": "new-york-times",
+      "name": "New York Times",
+      "type": "media",
+      "description": "Found 150+ accounts betting before Iran strikes"
+    },
+    {
+      "id": "david-ingle",
+      "name": "David Ingle",
+      "type": "person",
+      "description": "White House spokesman"
+    },
+    {
+      "id": "the-intercept",
+      "name": "The Intercept",
+      "type": "media",
+      "description": "Plaintiff in suit over Truth API and official posts"
+    },
+    {
+      "id": "freedom-of-the-press-foundation",
+      "name": "Freedom of the Press Foundation",
+      "type": "company",
+      "description": "Co-plaintiff in Intercept v. Trump"
+    },
+    {
+      "id": "intercept-v-trump",
+      "name": "The Intercept Media, Inc. v. Trump (1:26-cv-06867, SDNY)",
+      "type": "event",
+      "description": "First/Fifth Amendment suit filed 12 Aug 2026"
+    },
+    {
+      "id": "natalie-harp",
+      "name": "Natalie Harp",
+      "type": "person",
+      "description": "Trump executive assistant, defendant"
+    },
+    {
+      "id": "dan-scavino",
+      "name": "Dan Scavino",
+      "type": "person",
+      "description": "Deputy chief of staff, defendant"
+    },
+    {
+      "id": "j-paul-oetken",
+      "name": "J. Paul Oetken",
+      "type": "person",
+      "description": "SDNY judge in Intercept v. Trump"
+    },
+    {
+      "id": "joe-rogan",
+      "name": "Joe Rogan",
+      "type": "person",
+      "description": "Podcaster who questioned legality of Truth API"
+    },
+    {
+      "id": "shane-gillis",
+      "name": "Shane Gillis",
+      "type": "person",
+      "description": "Comedian who called Truth API 'literally insider trading'"
+    },
+    {
+      "id": "intel",
+      "name": "Intel",
+      "type": "company",
+      "description": "Chipmaker in which the US took a ~10% stake in Aug 2025"
+    },
+    {
+      "id": "kevin-warsh",
+      "name": "Kevin Warsh",
+      "type": "person",
+      "description": "Trump's Fed chair nominee, heavily bet on in prediction markets"
+    }
   ],
   "relationships": [
-    {"source": "donald-trump", "target": "truth-social", "label": "posted 'THIS IS A GREAT TIME TO BUY!!!' hours before tariff pause", "type": "media", "date": "2025-04-09"},
-    {"source": "donald-trump", "target": "april-2025-tariff-pause", "label": "announced", "type": "political", "date": "2025-04-09"},
-    {"source": "donald-trump", "target": "charles-schwab", "label": "boasted 'made two-and-a-half billion today'", "type": "political", "date": "2025-04-09", "amount_usd": 2500000000},
-    {"source": "donald-trump", "target": "roger-penske", "label": "boasted 'made $900 million'", "type": "political", "date": "2025-04-09", "amount_usd": 900000000},
-    {"source": "elizabeth-warren", "target": "sec", "label": "asked to investigate tariff-pause insider trading", "type": "regulatory", "date": "2025-04-11"},
-    {"source": "chuck-schumer", "target": "sec", "label": "co-led letter seeking tariff-pause probe", "type": "regulatory", "date": "2025-04-11"},
-    {"source": "adam-schiff", "target": "sec", "label": "co-signed letter seeking tariff-pause probe", "type": "regulatory", "date": "2025-04-11"},
-    {"source": "ron-wyden", "target": "sec", "label": "co-signed letter seeking tariff-pause probe", "type": "regulatory", "date": "2025-04-11"},
-    {"source": "maxine-waters", "target": "paul-atkins", "label": "requested insider-trading investigation", "type": "regulatory", "date": "2025-04-10"},
-    {"source": "cftc", "target": "iran", "label": "probing oil-futures trades placed before Trump Iran posts", "type": "regulatory", "date": "2026-04"},
-    {"source": "doj", "target": "cftc", "label": "assisting oil-futures insider probe", "type": "legal", "date": "2026-04"},
-    {"source": "doj", "target": "gannon-van-dyke", "label": "indicted for Polymarket bets on Maduro raid", "type": "legal", "date": "2026-04-23"},
-    {"source": "cftc", "target": "gannon-van-dyke", "label": "civil insider-trading complaint (first on event contracts)", "type": "regulatory", "date": "2026-04-23"},
-    {"source": "gannon-van-dyke", "target": "polymarket", "label": "allegedly won ~$400K betting on Maduro ouster", "type": "money", "date": "2026-01", "amount_usd": 400000},
-    {"source": "polymarket", "target": "doj", "label": "referred suspicious Maduro trades", "type": "legal", "date": "2026"},
-    {"source": "bubblemaps", "target": "polymarket", "label": "flagged six wallets making ~$1M on Iran-strike contract", "type": "media", "date": "2026-03", "amount_usd": 1000000},
-    {"source": "white-house", "target": "donald-trump", "label": "staff warned not to trade on nonpublic info after his Iran pause post", "type": "regulatory", "date": "2026-03-24"},
-    {"source": "david-ingle", "target": "white-house", "label": "called insider-trading implications 'baseless'", "type": "media", "date": "2026-04"},
-    {"source": "mike-selig", "target": "cftc", "label": "chairs; vowed to pursue insider trading", "type": "regulatory", "date": "2026-04"},
-    {"source": "donald-trump-jr", "target": "polymarket", "label": "advisory board member", "type": "advisory"},
-    {"source": "donald-trump-jr", "target": "kalshi", "label": "strategic adviser", "type": "advisory"},
-    {"source": "1789-capital", "target": "polymarket", "label": "invested in", "type": "money", "date": "2025-08"},
-    {"source": "the-intercept", "target": "donald-trump", "label": "sued over official posts on paid-access platform", "type": "legal", "date": "2026-08-12"},
-    {"source": "freedom-of-the-press-foundation", "target": "donald-trump", "label": "co-sued in Intercept v. Trump", "type": "legal", "date": "2026-08-12"},
-    {"source": "the-intercept", "target": "natalie-harp", "label": "named defendant", "type": "legal", "date": "2026-08-12"},
-    {"source": "the-intercept", "target": "dan-scavino", "label": "named defendant", "type": "legal", "date": "2026-08-12"},
-    {"source": "j-paul-oetken", "target": "intercept-v-trump", "label": "presiding judge; PI decision reserved", "type": "legal", "date": "2026-10"},
-    {"source": "intercept-v-trump", "target": "truth-api", "label": "challenges", "type": "legal", "date": "2026-08-12"},
-    {"source": "trump-media-technology-group", "target": "truth-api", "label": "operates", "type": "ownership", "date": "2026-08-01"},
-    {"source": "shane-gillis", "target": "truth-api", "label": "called it 'literally insider trading'", "type": "media", "date": "2026-08"},
-    {"source": "joe-rogan", "target": "truth-api", "label": "questioned how it is legal", "type": "media", "date": "2026-08"}
+    {
+      "source": "donald-trump",
+      "target": "truth-social",
+      "label": "posted 'THIS IS A GREAT TIME TO BUY!!!' hours before tariff pause",
+      "type": "media",
+      "date": "2025-04-09"
+    },
+    {
+      "source": "donald-trump",
+      "target": "april-2025-tariff-pause",
+      "label": "announced",
+      "type": "political",
+      "date": "2025-04-09"
+    },
+    {
+      "source": "donald-trump",
+      "target": "charles-schwab",
+      "label": "boasted 'made two-and-a-half billion today'",
+      "type": "political",
+      "date": "2025-04-09",
+      "amount_usd": 2500000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "roger-penske",
+      "label": "boasted 'made $900 million'",
+      "type": "political",
+      "date": "2025-04-09",
+      "amount_usd": 900000000
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "sec",
+      "label": "asked to investigate tariff-pause insider trading",
+      "type": "regulatory",
+      "date": "2025-04-11"
+    },
+    {
+      "source": "chuck-schumer",
+      "target": "sec",
+      "label": "co-led letter seeking tariff-pause probe",
+      "type": "regulatory",
+      "date": "2025-04-11"
+    },
+    {
+      "source": "adam-schiff",
+      "target": "sec",
+      "label": "co-signed letter seeking tariff-pause probe",
+      "type": "regulatory",
+      "date": "2025-04-11"
+    },
+    {
+      "source": "ron-wyden",
+      "target": "sec",
+      "label": "co-signed letter seeking tariff-pause probe",
+      "type": "regulatory",
+      "date": "2025-04-11"
+    },
+    {
+      "source": "maxine-waters",
+      "target": "paul-atkins",
+      "label": "requested insider-trading investigation",
+      "type": "regulatory",
+      "date": "2025-04-10"
+    },
+    {
+      "source": "cftc",
+      "target": "iran",
+      "label": "probing oil-futures trades placed before Trump Iran posts",
+      "type": "regulatory",
+      "date": "2026-04"
+    },
+    {
+      "source": "doj",
+      "target": "cftc",
+      "label": "assisting oil-futures insider probe",
+      "type": "legal",
+      "date": "2026-04"
+    },
+    {
+      "source": "doj",
+      "target": "gannon-van-dyke",
+      "label": "indicted for Polymarket bets on Maduro raid",
+      "type": "legal",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "cftc",
+      "target": "gannon-van-dyke",
+      "label": "civil insider-trading complaint (first on event contracts)",
+      "type": "regulatory",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "gannon-van-dyke",
+      "target": "polymarket",
+      "label": "allegedly won ~$400K betting on Maduro ouster",
+      "type": "money",
+      "date": "2026-01",
+      "amount_usd": 400000
+    },
+    {
+      "source": "polymarket",
+      "target": "doj",
+      "label": "referred suspicious Maduro trades",
+      "type": "legal",
+      "date": "2026"
+    },
+    {
+      "source": "bubblemaps",
+      "target": "polymarket",
+      "label": "flagged six wallets making ~$1M on Iran-strike contract",
+      "type": "media",
+      "date": "2026-03",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "white-house",
+      "target": "donald-trump",
+      "label": "staff warned not to trade on nonpublic info after his Iran pause post",
+      "type": "regulatory",
+      "date": "2026-03-24"
+    },
+    {
+      "source": "david-ingle",
+      "target": "white-house",
+      "label": "called insider-trading implications 'baseless'",
+      "type": "media",
+      "date": "2026-04"
+    },
+    {
+      "source": "mike-selig",
+      "target": "cftc",
+      "label": "chairs; vowed to pursue insider trading",
+      "type": "regulatory",
+      "date": "2026-04"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "polymarket",
+      "label": "advisory board member",
+      "type": "advisory"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "kalshi",
+      "label": "strategic adviser",
+      "type": "advisory"
+    },
+    {
+      "source": "1789-capital",
+      "target": "polymarket",
+      "label": "invested in",
+      "type": "money",
+      "date": "2025-08"
+    },
+    {
+      "source": "the-intercept",
+      "target": "donald-trump",
+      "label": "sued over official posts on paid-access platform",
+      "type": "legal",
+      "date": "2026-08-12"
+    },
+    {
+      "source": "freedom-of-the-press-foundation",
+      "target": "donald-trump",
+      "label": "co-sued in Intercept v. Trump",
+      "type": "legal",
+      "date": "2026-08-12"
+    },
+    {
+      "source": "the-intercept",
+      "target": "natalie-harp",
+      "label": "named defendant",
+      "type": "legal",
+      "date": "2026-08-12"
+    },
+    {
+      "source": "the-intercept",
+      "target": "dan-scavino",
+      "label": "named defendant",
+      "type": "legal",
+      "date": "2026-08-12"
+    },
+    {
+      "source": "j-paul-oetken",
+      "target": "intercept-v-trump",
+      "label": "presiding judge; PI decision reserved",
+      "type": "legal",
+      "date": "2026-10"
+    },
+    {
+      "source": "intercept-v-trump",
+      "target": "truth-api",
+      "label": "challenges",
+      "type": "legal",
+      "date": "2026-08-12"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "truth-api",
+      "label": "operates",
+      "type": "ownership",
+      "date": "2026-08-01"
+    },
+    {
+      "source": "shane-gillis",
+      "target": "truth-api",
+      "label": "called it 'literally insider trading'",
+      "type": "media",
+      "date": "2026-08"
+    },
+    {
+      "source": "joe-rogan",
+      "target": "truth-api",
+      "label": "questioned how it is legal",
+      "type": "media",
+      "date": "2026-08"
+    }
   ],
   "leads": [
     {
       "title": "Outcome of the CFTC/DOJ probe into oil-futures trades before Trump's Iran posts",
       "why_connected": "The largest documented case of trades placed minutes before presidential posts ($2.6B-$7B). It could identify traders or show links to officials. No charges had been found as of the last search.",
-      "entities": ["cftc", "doj", "donald-trump", "iran", "mike-selig"],
+      "entities": [
+        "cftc",
+        "doj",
+        "donald-trump",
+        "iran",
+        "mike-selig"
+      ],
       "source_url": "https://finance.yahoo.com/markets/commodities/articles/us-probes-suspicious-oil-trades-185104849.html"
     },
     {
       "title": "Van Dyke prosecution and the CFTC 'Eddie Murphy Rule' theory",
       "why_connected": "The first federal insider-trading case on a prediction market (Polymarket, where Don Jr. is an adviser). It sets the template for charging misuse of government information on event contracts.",
-      "entities": ["gannon-van-dyke", "polymarket", "cftc", "doj", "donald-trump-jr"],
+      "entities": [
+        "gannon-van-dyke",
+        "polymarket",
+        "cftc",
+        "doj",
+        "donald-trump-jr"
+      ],
       "source_url": "https://www.debevoise.com/insights/publications/2026/04/polymarket-insider-trading-charges-illustrate-doj"
     },
     {
       "title": "NYT analysis of 80+ Polymarket accounts with signs of insider trading tied to US military operations",
       "why_connected": "This extends the Iran/Maduro pattern. Rep. Mike Levin and Rep. Ritchie Torres (Public Integrity in Financial Prediction Markets Act) are pressing for rules.",
-      "entities": ["new-york-times", "polymarket", "us-congress"],
+      "entities": [
+        "new-york-times",
+        "polymarket",
+        "us-congress"
+      ],
       "source_url": "https://www.aljazeera.com/economy/2026/3/25/large-polymarket-wall-street-bets-on-trumps-war-news-under-scrutiny"
     },
     {
       "title": "Ruling in The Intercept Media v. Trump (SDNY 1:26-cv-06867)",
       "why_connected": "A pending preliminary-injunction decision on whether official announcements can run through TMTG's paid-access platform.",
-      "entities": ["intercept-v-trump", "truth-api", "trump-media-technology-group", "natalie-harp", "dan-scavino"],
+      "entities": [
+        "intercept-v-trump",
+        "truth-api",
+        "trump-media-technology-group",
+        "natalie-harp",
+        "dan-scavino"
+      ],
       "source_url": "https://www.newsweek.com/judge-weighs-injunction-over-trump-truth-api-service-12515987"
     },
     {
       "title": "House Financial Services Democrats' Feb 2026 letter on insider trading",
       "why_connected": "A follow-on congressional request that appeared alongside the April 2025 SEC letters. Its contents and any SEC reply were not checked.",
-      "entities": ["us-congress", "sec", "maxine-waters"],
+      "entities": [
+        "us-congress",
+        "sec",
+        "maxine-waters"
+      ],
       "source_url": "https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Status of the CFTC/DOJ oil-futures probe after April 2026 (gap flagged)",
+      "Any SEC reply to the April 2025 congressional letters (gap flagged)",
+      "Letter date and signatories of the 11 April 2025 Senate letter"
+    ],
+    "result": "strengthened",
+    "changes": [
+      "Iran/CFTC sub-claim: added Bloomberg's 2026-10-13 report that a Selig adviser had staff retract the enforcement referral, the CFTC's response that enforcement continues, and no charges as of Nov 2026; attributed to anonymous sourcing.",
+      "SEC sub-claim: added House FSC Democrats' Feb 2026 letter saying no substantive SEC response in nearly a year and GAO lacks authority; none found through Nov 2026.",
+      "Summary, corrections and context updated. Verdict and confidence unchanged.",
+      "Not re-checked: Polymarket/Maduro indictment, Truth API lawsuit status, Rogan/Gillis exchange."
+    ],
+    "new_sources": [
+      {
+        "title": "Officials flagged a $580M oil bet made minutes before Trump's Iran reversal, then were told to back off",
+        "publisher": "International Business Times UK (relaying Bloomberg)",
+        "url": "https://www.ibtimes.co.uk/cftc-insider-trading-referral-iran-oil-bet-1825415",
+        "date": "2026-10"
+      },
+      {
+        "title": "CFTC staff told to withdraw insider-trading referral on oil bets before Trump's Iran post",
+        "publisher": "FinanceFeeds (relaying Bloomberg)",
+        "url": "https://financefeeds.com/cftc-staff-told-to-withdraw-insider-trading-referral-on-oil-bets-before-trumps-iran-post/",
+        "date": "2026-10"
+      },
+      {
+        "title": "Traders bet big minutes before Trump's Iran post. Then a top regulator's adviser reportedly stepped in",
+        "publisher": "Daily Caller",
+        "url": "https://dailycaller.com/2026/10/13/cftc-oil-trades-insider-trading-referral-mel-gunewardena-michael-selig-iran-bloomberg/",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Letter requesting investigation of trading ahead of tariff announcements",
+        "publisher": "House Financial Services Committee Democrats",
+        "url": "https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf",
+        "date": "2026-02-24"
+      }
+    ]
+  }
 }

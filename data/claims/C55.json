@@ -230,6 +230,24 @@
       "publisher": "Center for American Progress",
       "url": "https://www.americanprogress.org/feature/trumps-take/",
       "date": "2025"
+    },
+    {
+      "title": "Trump reports more than $2 billion income from crypto",
+      "publisher": "Canberra Times (AAP/Reuters)",
+      "url": "https://www.canberratimes.com.au/story/9302479/trump-reports-more-than-2-billion-income-from-crypto/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Quiet token sales boosted Trump crypto wealth by $660 million",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "How the presidency is making Trump richer",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5704312/how-the-presidency-is-making-trump-richer",
+      "date": "2026-02-08"
     }
   ],
   "entities": [
@@ -533,5 +551,37 @@
       ],
       "source_url": "https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "2025 OGE disclosure: at least $2.2B income, about $1.4B crypto ($635M TRUMP royalties via Celebration Coins, ~$800M from WLF)",
+      "Bloomberg 2026-05-12 revision: ~$1.55B WLFI token-sale proceeds lifting fortune by ~$660M",
+      "Kirkpatrick update from ~$3.4B (Aug 2025) to ~$4B (early 2026)"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No factual changes; all three assertions matched fresh coverage (NPR repeats 'almost $4 billion'; Bloomberg's $660M/$1.55B and the disclosure figures confirmed in multiple outlets). Added corroborating sources only.",
+      "Not re-checked: Forbes net-worth figures, CREW foreign-revenue count, Fight Fight Fight treasury status, Reuters portfolio-growth range."
+    ],
+    "new_sources": [
+      {
+        "title": "Trump reports more than $2 billion income from crypto",
+        "publisher": "Canberra Times (AAP/Reuters)",
+        "url": "https://www.canberratimes.com.au/story/9302479/trump-reports-more-than-2-billion-income-from-crypto/",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "Quiet token sales boosted Trump crypto wealth by $660 million",
+        "publisher": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "How the presidency is making Trump richer",
+        "publisher": "NPR",
+        "url": "https://www.npr.org/2026/02/08/nx-s1-5704312/how-the-presidency-is-making-trump-richer",
+        "date": "2026-02-08"
+      }
+    ]
+  }
 }

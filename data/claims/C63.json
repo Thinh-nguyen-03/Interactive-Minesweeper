@@ -1165,7 +1165,7 @@
     {
       "source": "aryam-investment-1",
       "target": "world-liberty-financial",
-      "label": "agreed to buy 49% for $500M",
+      "label": "agreed to buy 49% for $500M (WSJ, anonymous sources)",
       "type": "money",
       "date": "2025-01-16",
       "amount_usd": 500000000
@@ -1173,7 +1173,7 @@
     {
       "source": "aryam-investment-1",
       "target": "dt-marks-defi-llc",
-      "label": "~$187M of $250M upfront flowed to Trump-family entities",
+      "label": "~$187M of $250M upfront flowed to Trump-family entities (WSJ, anonymous sources)",
       "type": "money",
       "date": "2025-01",
       "amount_usd": 187000000
@@ -1195,7 +1195,7 @@
     {
       "source": "g42",
       "target": "aryam-investment-1",
-      "label": "executives help manage",
+      "label": "executives help manage (WSJ)",
       "type": "advisory"
     },
     {
@@ -1477,7 +1477,8 @@
     "result": "upheld",
     "changes": [
       "Added context to the Wyoming-agent item: the agent's firm has formed more than 5,000 LLCs and its principal told CNN he did not know the clients were Trump-connected; the watch LLC was created July 29, 2024. Grades unchanged.",
-      "Upheld: the 13D trust language, the WSJ/OCC StringZ reporting (still anonymous-source WSJ for the owner and percentage, as labelled), and the Khanna letter (no US Attorney action found). Verdict and confidence unchanged."
+      "Upheld: the 13D trust language, the WSJ/OCC StringZ reporting (still anonymous-source WSJ for the owner and percentage, as labelled), and the Khanna letter (no US Attorney action found). Verdict and confidence unchanged.",
+      "Relationship labels resting on anonymous or single-outlet reporting now name that sourcing: aryam-investment-1 -> world-liberty-financial; aryam-investment-1 -> dt-marks-defi-llc; g42 -> aryam-investment-1."
     ],
     "new_sources": [
       {
