@@ -61,7 +61,7 @@
     {
       "statement": "The Metals Company, a Cantor client, sought deep-sea mining permits from NOAA, which sits under Lutnick's Commerce Department.",
       "verdict": "confirmed",
-      "finding": "Cantor Fitzgerald is reported as one of TMC's leading bankers and financial advisers. TMC filed U.S. applications under the Deep Seabed Hard Mineral Resources Act in March 2025, within about a week of Trump's April 2025 seabed-mining executive order per later coverage, and refiled under NOAA's streamlined rules in January 2026. NOAA certified an exploration application, the first since Trump took office, and Earthjustice and conservation groups sued in 2026. No commercial recovery permit had been reported issued. Whether Lutnick recused himself from TMC matters was not established. This is a permit, not money, so it presumably counts toward the 14 but not the $8.9B.",
+      "finding": "Cantor Fitzgerald is reported as one of TMC's leading bankers and financial advisers. TMC said in March 2025 it would seek U.S. licences, filed its applications under the Deep Seabed Hard Mineral Resources Act within about a week of Trump's April 2025 seabed-mining executive order, and refiled under NOAA's streamlined rules in January 2026. NOAA certified an exploration application, the first since Trump took office, and Earthjustice and conservation groups sued in 2026. No commercial recovery permit had been reported issued. Whether Lutnick recused himself from TMC matters was not established. This is a permit, not money, so it presumably counts toward the 14 but not the $8.9B.",
       "sources": [
         "https://news.mongabay.com/2025/03/deep-sea-miner-tmc-seeks-u-s-approval-potentially-bypassing-global-regulator/",
         "https://www.engineeringnews.co.za/article/deep-sea-mining-company-seeks-international-permit-under-new-trump-rules-2026-01-23",
@@ -943,9 +943,9 @@
       "date": "2026-08"
     },
     {
-      "source": "us-commerce-department",
+      "source": "white-house",
       "target": "trilogy-metals",
-      "label": "U.S. government ~10% stake for $35.6M (lead agency not confirmed here)",
+      "label": "announced ~10% U.S. government stake for $35.6M",
       "type": "money",
       "date": "2025-10-06",
       "amount_usd": 35600000

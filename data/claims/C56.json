@@ -874,8 +874,8 @@
     },
     {
       "source": "saudi-arabia",
-      "target": "us-congress",
-      "label": "pledged ~$1T US investment (announced at White House)",
+      "target": "white-house",
+      "label": "pledged ~$1T US investment to",
       "type": "political",
       "date": "2025-11-18",
       "amount_usd": 1000000000000
