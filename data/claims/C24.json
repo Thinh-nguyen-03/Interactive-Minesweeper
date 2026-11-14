@@ -3,7 +3,7 @@
   "title": "TMTG ETFs, TAE fusion merger, TMTG losses",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Trump Media's Truth.Fi brand launched five Truth Social ETFs on 2025-12-30, including the three the video names. TMTG announced an all-stock merger with fusion developer TAE Technologies valued at more than $6B on 2025-12-18. FY2025 revenue was about $3.7M against a net loss of $712.3M, and DJT stock is near multi-year lows. Several details are off: the ETFs are thematic baskets, not an 'S&P 500 but not woke'; the $712M loss was mostly unrealized crypto markdowns and dates from 2025 (Q3 2026 showed a $410M paper profit); and the TAE deal is still pending, with a vote set for 2026-12-14.",
+  "summary": "Trump Media's Truth.Fi brand launched five Truth Social ETFs on 2025-12-30, including the three named in the claim. TMTG announced an all-stock merger with fusion developer TAE Technologies valued at more than $6B on 2025-12-18. FY2025 revenue was about $3.7M against a net loss of $712.3M, and DJT stock is near multi-year lows. Several details are off: the ETFs are thematic baskets, not an 'S&P 500 but not woke'; the $712M loss was mostly unrealized crypto markdowns and dates from 2025 (Q3 2026 showed a $410M paper profit); and the TAE deal is still pending, with a vote set for 2026-12-14.",
   "sub_claims": [
     {
       "statement": "TMTG sells Truth Social American Security & Defense, American Next Frontiers and American Icons ETFs that are basically a non-woke S&P 500.",
@@ -29,7 +29,7 @@
     {
       "statement": "Fusion is not commercially viable yet and depends heavily on regulation and government approval.",
       "verdict": "confirmed",
-      "finding": "No fusion company sells commercial power. The planned 50 MWe plant is 'subject to required approvals', and filings say there is no obligation to build it. Richard Painter (via the Washington Post) and Axios both flagged the regulatory dependence and conflict risk. TAE's CEO lobbied DOE for federal funding days before the announcement. The 'commentator' in the video is unnamed.",
+      "finding": "No fusion company sells commercial power. The planned 50 MWe plant is 'subject to required approvals', and filings say there is no obligation to build it. Richard Painter (via the Washington Post) and Axios both flagged the regulatory dependence and conflict risk. TAE's CEO lobbied DOE for federal funding days before the announcement. The point about regulatory dependence is widely made.",
       "sources": [
         "https://abc7.com/post/trump-media-merge-california-nuclear-fusion-company-tae-technologies-wants-power-ai-6-billion-deal/18298408/",
         "https://www.enr.com/articles/62247-trump-mediatae-merger-sets-no-obligation-to-build-fusion-plant",
@@ -63,8 +63,8 @@
     }
   ],
   "corrections": [
-    "Transcript says 'Tay Technologies Inc'; the company is TAE Technologies.",
-    "Video calls the ETFs 'basically the S&P 500, but not woke'; they are narrow thematic, screened baskets (defense, frontier tech, iconic brands) from a five-fund lineup.",
+    "The company's name is TAE Technologies (sometimes misrendered as 'Tay Technologies Inc').",
+    "Claimed: the ETFs are 'basically the S&P 500, but not woke'. The record shows: they are narrow thematic, screened baskets (defense, frontier tech, iconic brands) from a five-fund lineup.",
     "The $712M loss is the FY2025 figure and was mostly unrealized crypto markdowns. Q3 2026 showed a ~$410M paper profit, and the nine-month 2026 loss is ~$234M.",
     "The TAE merger is announced but not completed: the shareholder vote is 2026-12-14. Devin Nunes, the planned co-CEO, stepped down as TMTG CEO in April 2026."
   ],

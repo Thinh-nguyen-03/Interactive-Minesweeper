@@ -24,7 +24,7 @@
     {
       "statement": "This may have been one of Trump's most profitable years ever.",
       "verdict": "unverified",
-      "finding": "Forbes and the Daily Beast describe 2025 as his most lucrative year, at about three times the roughly $760M of 2024. The AP and NYT note the disclosure shows revenue, not profit, so profitability cannot be established. The video's hedged wording ('may have been') is reasonable.",
+      "finding": "Forbes and the Daily Beast describe 2025 as his most lucrative year, at about three times the roughly $760M of 2024. The AP and NYT note the disclosure shows revenue, not profit, so profitability cannot be established. The claim's hedged wording ('may have been') is reasonable.",
       "sources": [
         "https://www.thedailybeast.com/trump-made-3-times-more-in-white-house-than-in-business/",
         "https://www.bostonglobe.com/2026/07/01/nation/trump-pulled-least-2-billion-after-returning-white-house/"
@@ -70,10 +70,10 @@
     }
   ],
   "corrections": [
-    "Transcript says about $1.4B from crypto. That is the Reuters/NYT/Bloomberg count, and it holds. The AP's figure of about $1.2B appears to leave out a roughly $197M Stablecoin Holdco (USD1) line; Bloomberg initially reported $1.2B and corrected to $1.4B when it added that line. All of these figures are revenue, not profit.",
-    "Transcript says $2.2B total. That is the NYT's minimum figure; Forbes estimated about $2.4B.",
+    "Claimed: about $1.4B from crypto. The record shows: that is the Reuters/NYT/Bloomberg count, and it holds. The AP's figure of about $1.2B appears to leave out a roughly $197M Stablecoin Holdco (USD1) line; Bloomberg initially reported $1.2B and corrected to $1.4B when it added that line. All of these figures are revenue, not profit.",
+    "Claimed: $2.2B total. The record shows: that is the NYT's minimum figure; Forbes estimated about $2.4B.",
     "The Forbes figures for the sons are from December 2025 and the Barron figure is from Sept/Oct 2025. They predate American Bitcoin's further collapse, so they likely overstate current values.",
-    "Transcript says most 'American' investors lost money. The loss data covers wallets worldwide and does not show nationality.",
+    "Claimed: most 'American' investors lost money. The record shows: the loss data covers wallets worldwide and does not show nationality.",
     "The World Liberty share of the $1.4B is contested and is given here as about $594M-$800M, not a flat $800M. Reuters/NYT report about $800M, including more than $250M from selling interests. Bloomberg, CNBC, NOTUS and The Block report about $515-529M from token sales plus about $65-66M from the WLF Holdco equity sale, about $594M in total. The difference appears to come from whether the about $197M Stablecoin Holdco sale is counted as World Liberty. This is our inference from the figures; no outlet states it. The reading matches C42."
   ],
   "denials_and_context": [

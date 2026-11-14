@@ -2,8 +2,8 @@
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-## What the video says (transcript lines 827-857)
-The video plays a Fox Business clip in which the host says Foundation Future Industries "just secured a twenty four million dollar contract with the Pentagon for its phantom robot to begin tests with the Marine Corps." It introduces founder and CEO "Sam Patak" (really **Sankaet Pathak**) and "chief strategy adviser, Eric Trump." The narrator adds that "Wired reported that many of these contracts were old news, even though Fox News reported them as if they had just landed," and that "the government contracts were in place much earlier. Maybe that's why Eric Trump got involved." Eric Trump then explains his involvement as part of beating China in robotics.
+## The claim
+A Fox Business segment said Foundation Future Industries "just secured a twenty four million dollar contract with the Pentagon for its phantom robot to begin tests with the Marine Corps." Its founder and CEO is **Sankaet Pathak**, and Eric Trump is its chief strategy adviser. The claim adds that "Wired reported that many of these contracts were old news, even though Fox News reported them as if they had just landed," and that "the government contracts were in place much earlier. Maybe that's why Eric Trump got involved." Eric Trump explains his involvement as part of beating China in robotics.
 
 ## Research limits
 I could not fetch any primary page directly. Fox Business, WIRED, The Next Web, Gizmodo, Yahoo, Democracy Now, SBIR.gov, house.gov and mikekalil.com all fail DNS in this sandbox. Everything below comes from search-result snippets across several outlets. I could not locate the WIRED article's URL, so it is described only through outlets that cite it.
@@ -14,7 +14,7 @@ I could not fetch any primary page directly. Fox Business, WIRED, The Next Web, 
    - It is a San Francisco company founded in 2024 by Pathak, Arjun Sethi (formerly of Tribe Capital) and Mike LeBlanc (a Cobalt Robotics co-founder and Marine Corps veteran).
    - Pathak previously ran the fintech Synapse, which went bankrupt in 2024.
    - Its robot is the Phantom (MK-1). Two units were sent to Ukraine for pilot demonstrations.
-   - The transcript's "Sam Patak" is an auto-transcription error.
+   - The name is sometimes misrendered as "Sam Patak".
 
 2. **There is a ~$24M Pentagon contract for the Phantom, with Marine Corps tests: partly accurate.**
    - The $24M figure is what the company and Fox Business promoted on April 23, 2026 ("Mornings with Maria"). It is not a single Pentagon contract.
@@ -32,16 +32,16 @@ I could not fetch any primary page directly. Fox Business, WIRED, The Next Web, 
 4. **Fox presented the contracts as new: confirmed.** The Fox Business segment and headline ("Eric Trump-backed robot startup lands $24M Pentagon deal") framed the money as freshly landed.
 
 5. **WIRED reported the contracts were old news or predated Eric Trump's involvement: mostly accurate.**
-   - Secondary coverage of WIRED supports the video's point: the money was largely inherited (Boardwalk) or routed through IHMC, not newly won.
+   - Secondary coverage of WIRED supports the claim: the money was largely inherited (Boardwalk) or routed through IHMC, not newly won.
    - At least the Boardwalk Air Force SBIR (start Nov 2024) predates Eric Trump's 2026 role.
    - One summary says the total includes a "significant procurement award issued after Eric Trump joined." I could not confirm this. So "the contracts were in place much earlier" may not hold for every component.
-   - The narrator's line "maybe that's why Eric Trump got involved" is his own speculation, not something WIRED reported.
+   - The suggestion that "maybe that's why Eric Trump got involved" is speculation, not something WIRED reported.
 
 ## Corrections
 - The CEO's name is Sankaet Pathak, not "Sam Patak."
 - The "$24M contract" is a bundle of roughly five research awards across services. Some were inherited from Boardwalk Robotics, and some were routed through IHMC. It is not a single new Pentagon contract.
 - Marine Corps tests were planned, not under way, at the time of the segment.
-- The video cites "Fox News"; the segment aired on **Fox Business** (Mornings with Maria, April 23, 2026).
+- The claim cites "Fox News"; the segment aired on **Fox Business** (Mornings with Maria, April 23, 2026).
 
 ## Denials and other side
 - Foundation's spokespeople say Eric Trump has no role in management, operations or government contract negotiations. Co-founder LeBlanc denied that Eric Trump helped the company win contracts.

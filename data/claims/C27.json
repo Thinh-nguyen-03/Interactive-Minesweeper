@@ -3,7 +3,7 @@
  "title": "New America Acquisition I Corp SPAC",
  "verdict": "mostly-accurate",
  "confidence": "high",
- "summary": "The core claims hold up. New America Acquisition I Corp filed with the SEC on Aug. 4, 2025 for a $300M NYSE IPO, with Donald Trump Jr. and Eric Trump on its advisory board. The two hold 5 million founder shares, worth about $50M on paper at $10 a share. The original S-1 said the SPAC would target firms 'well-positioned to benefit from federal or state-level incentives, such as grants, tax credits, government contracts or preferential procurement programs', and an amendment filed later the same day removed that language after AP asked about it. The caveats: the IPO priced in December 2025 and closed at $345M with the over-allotment, the video's quote drops 'grants, tax credits', the 'identifiable economic or security interest' phrase could not be checked against the filing, and the idea that the sons would phone the Pentagon is the video's inference, not a documented act.",
+ "summary": "The core claims hold up. New America Acquisition I Corp filed with the SEC on Aug. 4, 2025 for a $300M NYSE IPO, with Donald Trump Jr. and Eric Trump on its advisory board. The two hold 5 million founder shares, worth about $50M on paper at $10 a share. The original S-1 said the SPAC would target firms 'well-positioned to benefit from federal or state-level incentives, such as grants, tax credits, government contracts or preferential procurement programs', and an amendment filed later the same day removed that language after AP asked about it. The caveats: the IPO priced in December 2025 and closed at $345M with the over-allotment, the commonly quoted version of the filing language drops 'grants, tax credits', the 'identifiable economic or security interest' phrase could not be checked against the filing, and the idea that the sons would phone the Pentagon is an inference, not a documented act.",
  "sub_claims": [
   {
    "statement": "New America Acquisition I Corp is a SPAC raising $300 million.",
@@ -39,7 +39,7 @@
   {
    "statement": "The filing said it would target companies well positioned to benefit from federal or state-level incentives such as government contracts or preferential procurement programs.",
    "verdict": "confirmed",
-   "finding": "AP and Bloomberg Law quote the original Aug. 4, 2025 S-1 as targeting a firm 'well-positioned to benefit from federal or state-level incentives, such as grants, tax credits, government contracts or preferential procurement programs.' The video's quote leaves out 'grants, tax credits'. I could not confirm that the follow-on phrase about 'sectors where the U.S. government has an identifiable economic or security interest' was in the filing.",
+   "finding": "AP and Bloomberg Law quote the original Aug. 4, 2025 S-1 as targeting a firm 'well-positioned to benefit from federal or state-level incentives, such as grants, tax credits, government contracts or preferential procurement programs.' The claim's version of the quote leaves out 'grants, tax credits'. I could not confirm that the follow-on phrase about 'sectors where the U.S. government has an identifiable economic or security interest' was in the filing.",
    "sources": [
     "https://www.clickondetroit.com/business/2025/08/04/company-advised-by-trump-sons-said-it-hoped-to-benefit-from-fed-money-then-took-it-back/",
     "https://news.bloomberglaw.com/banking-law/spac-advised-by-trumps-sons-snips-mention-of-federal-incentives",
@@ -59,7 +59,7 @@
   {
    "statement": "Implied: the Trump sons' advisory role gives the SPAC an edge in winning government contracts (for example, by calling the Pentagon).",
    "verdict": "unverified",
-   "finding": "This is the video's inference. It ties the SPAC to an earlier interview quote about strategic investors calling the Pentagon. No search result shows a business combination target for NWAX or any contact with an agency. As of the latest reporting I could find, no merger had been announced, and low-quality aggregator pages dated 2026 could not be verified. The conflict-of-interest concern is documented: Kathleen Clark said, 'They just deleted the language. They haven't committed not to do what they said earlier today they were planning to do.' Specific misuse of influence is not documented. Audit (Nov 2026): no definitive business-combination agreement or named target was found. A Feb 6, 2026 8-K reports one director resignation and two new directors. Third-party summaries put the liquidation deadline at June 5, 2027, extendable, but that is unverified against the charter.",
+   "finding": "This is an inference. It rests on linking the SPAC to a separate remark about strategic investors calling the Pentagon. No search result shows a business combination target for NWAX or any contact with an agency. As of the latest reporting I could find, no merger had been announced, and low-quality aggregator pages dated 2026 could not be verified. The conflict-of-interest concern is documented: Kathleen Clark said, 'They just deleted the language. They haven't committed not to do what they said earlier today they were planning to do.' Specific misuse of influence is not documented. Audit (Nov 2026): no definitive business-combination agreement or named target was found. A Feb 6, 2026 8-K reports one director resignation and two new directors. Third-party summaries put the liquidation deadline at June 5, 2027, extendable, but that is unverified against the charter.",
    "sources": [
     "https://www.clickondetroit.com/business/2025/08/04/company-advised-by-trump-sons-said-it-hoped-to-benefit-from-fed-money-then-took-it-back/",
     "https://www.roic.ai/quote/NWAX",
@@ -68,10 +68,10 @@
   }
  ],
  "corrections": [
-  "The transcript says the SPAC 'has been raising three hundred million dollars'. It filed for $300M in August 2025, priced at $300M on Dec. 3, 2025, and closed at $345M after the over-allotment was exercised.",
-  "The video's quote of the filing omits 'grants, tax credits'. The original reads 'federal or state-level incentives, such as grants, tax credits, government contracts or preferential procurement programs.'",
+  "Claimed: the SPAC 'has been raising three hundred million dollars'. The record shows: it filed for $300M in August 2025, priced at $300M on Dec. 3, 2025, and closed at $345M after the over-allotment was exercised.",
+  "The claim's quote of the filing omits 'grants, tax credits'. The original reads 'federal or state-level incentives, such as grants, tax credits, government contracts or preferential procurement programs.'",
   "The sons' 'tens of millions' is about $50M in paper value from 5 million founder shares (3M Eric, 2M Don Jr.) at $10. It is not realized cash, and it depends on a completed merger.",
-  "The auto-transcript's 'New American acquisition, one corp' is New America Acquisition I Corp (NYSE: NWAX)."
+  "The company's name is New America Acquisition I Corp (NYSE: NWAX), sometimes misrendered as 'New American acquisition, one corp'."
  ],
  "denials_and_context": [
   "The filing's law firm, Paul Hastings, called the incentives sentence a scrivener's 'mistake'. A company spokesperson called it a clerical error.",
@@ -231,7 +231,7 @@
    "id": "pentagon",
    "name": "U.S. Department of Defense",
    "type": "government",
-   "description": "Invoked in the video as a hypothetical source of government contracts."
+   "description": "Cited in the claim as a hypothetical source of government contracts."
   },
   {
    "id": "nyse",
@@ -408,7 +408,7 @@
   },
   {
    "title": "GrabAGun / Colombier II: Don Jr.'s earlier SPAC deal",
-   "why_connected": "An earlier 2025 SPAC deal with Don Jr. on the board of a firearms retailer, a sector shaped by federal regulation. The video did not cover it.",
+   "why_connected": "An earlier 2025 SPAC deal with Don Jr. on the board of a firearms retailer, a sector shaped by federal regulation.",
    "entities": [
     "donald-trump-jr",
     "grabagun"

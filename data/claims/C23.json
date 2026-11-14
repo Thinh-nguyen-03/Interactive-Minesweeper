@@ -3,7 +3,7 @@
   "title": "SEC drops crypto-exchange cases; donors",
   "verdict": "mostly-accurate",
   "confidence": "high",
-  "summary": "The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar 27, 2025), Binance (May 29, 2025) and Gemini (investigation closed Feb 2025; Earn suit dismissed Jan 2026), plus many other crypto matters. Coinbase, Kraken, Crypto.com and Ripple each gave $1M or more to the inauguration, the Winklevoss twins gave about $1M each to the 2024 campaign (the excess was refunded), Coinbase sponsored the Army parade, and Coinbase, Ripple, Tether and the Winklevosses gave to the ballroom. The video overstates it in three ways: some dismissals came months later; formal lawsuit dismissals number about 7-8 (over a dozen only if closed probes are counted); and no Binance donation was found. The quid-pro-quo framing rests on timing, not on proof, and the SEC denies any political favoritism.",
+  "summary": "The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar 27, 2025), Binance (May 29, 2025) and Gemini (investigation closed Feb 2025; Earn suit dismissed Jan 2026), plus many other crypto matters. Coinbase, Kraken, Crypto.com and Ripple each gave $1M or more to the inauguration, the Winklevoss twins gave about $1M each to the 2024 campaign (the excess was refunded), Coinbase sponsored the Army parade, and Coinbase, Ripple, Tether and the Winklevosses gave to the ballroom. The claim is overstated in three ways: some dismissals came months later; formal lawsuit dismissals number about 7-8 (over a dozen only if closed probes are counted); and no Binance donation was found. The quid-pro-quo framing rests on timing, not on proof, and the SEC denies any political favoritism.",
   "sub_claims": [
     {
       "statement": "Coinbase, Kraken, Binance and Gemini all faced SEC enforcement.",
@@ -79,8 +79,8 @@
     }
   ],
   "corrections": [
-    "Transcript says the cases were dropped 'very shortly after Trump took office'. Coinbase, Kraken and the Gemini investigation fell within about 10 weeks, but Binance's dismissal came in May 2025, Ripple's in August 2025 (with the $125M penalty upheld), and the Gemini Earn suit's in January 2026.",
-    "Transcript says 'over a dozen lawsuits against cryptocurrency exchanges'. The SEC formally dismissed about 7-8 crypto lawsuits. Counts above a dozen (Decrypt: at least 17) include closed investigations and non-exchange firms.",
+    "Claimed: the cases were dropped 'very shortly after Trump took office'. The record shows: Coinbase, Kraken and the Gemini investigation fell within about 10 weeks, but Binance's dismissal came in May 2025, Ripple's in August 2025 (with the $125M penalty upheld), and the Gemini Earn suit's in January 2026.",
+    "Claimed: 'over a dozen lawsuits against cryptocurrency exchanges' were dropped. The record shows: the SEC formally dismissed about 7-8 crypto lawsuits. Counts above a dozen (Decrypt: at least 17) include closed investigations and non-exchange firms.",
     "Gemini's $1M gifts were personal 2024 campaign contributions from the Winklevoss twins, partly refunded as over the limit, not donations from the company to the inauguration.",
     "No Binance donation to Trump's campaign or inauguration was found; Binance's Trump links run through the MGX/USD1 deal and the CZ pardon.",
     "Of the exchanges, only Coinbase is documented as a sponsor of the military parade."
@@ -339,7 +339,7 @@
       "id": "molly-white",
       "name": "Molly White",
       "type": "person",
-      "description": "Crypto researcher interviewed in the video"
+      "description": "Crypto researcher and critic of the industry's political spending"
     },
     {
       "id": "trump-inaugural-committee",
@@ -634,7 +634,7 @@
   "leads": [
     {
       "title": "Robinhood: an inaugural donor whose SEC crypto probe was closed in Feb 2025",
-      "why_connected": "Same pattern as the exchanges: Robinhood's SEC crypto investigation was closed early in the term, and search results list Robinhood as an inaugural donor (a reported $2M, not verified here). The video does not cover it.",
+      "why_connected": "Same pattern as the exchanges: Robinhood's SEC crypto investigation was closed early in the term, and search results list Robinhood as an inaugural donor (a reported $2M, not verified here).",
       "entities": [
         "sec",
         "donald-trump",

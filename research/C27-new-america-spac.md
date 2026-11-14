@@ -2,25 +2,25 @@
 
 **Verdict:** mostly accurate (high confidence)
 
-## What the video says (transcript lines 801-821)
-- New America Acquisition I Corp (auto-transcribed as "New American acquisition, one corp") is a SPAC raising $300M.
+## The claim
+- New America Acquisition I Corp is a SPAC raising $300M.
 - Don Jr. and Eric Trump are advisers who stand to make tens of millions.
 - The SEC filing cites the strategic advisory board's relationships as a competitive edge.
 - It says it will target companies "well positioned to benefit from federal or state level incentives, such as government contracts or preferential procurement programs."
-- The video asks why the president's sons would want that, and links it to an earlier interview quote about calling the Pentagon.
-- It says "to be fair", some of the preferential-contracts language was removed later that day.
+- Implied: the president's sons' advisory role would help the SPAC win government contracts, for example by calling the Pentagon.
+- Some of the preferential-contracts language was removed later that day.
 
 ## Evidence by sub-claim
 
 1. **A $300M SPAC: confirmed, with an update.** New America filed its S-1 on Aug. 4, 2025 for a $300M NYSE IPO: 30M units at $10, each with half a warrant at an $11.50 strike. It is a Florida company. It priced the $300M IPO on Dec. 3, 2025, units began trading Dec. 4, and with the over-allotment exercised it closed at **$345M** (34.5M units) on Dec. 5. Dominari Securities and D. Boral Capital were the underwriters. Kevin McGurn was chairman, CEO and CFO at the IPO; Kyle Wool became chairman on Feb. 6, 2026, and McGurn resigned as CEO and director effective Aug. 5, 2026 (8-K; see C62, C78). [4][7][8][9][10]
 2. **The sons are advisers who stand to make tens of millions: confirmed.** Both sit on the strategic advisory board. Eric got 3M founder shares and Don Jr. 2M [4]. At $10 a share that is about **$50M in paper value** [1][5]. The value depends on the SPAC completing a merger and on where the stock trades afterwards.
 3. **"Leverage our strategic advisory board and management's comprehensive industry relationships": unverified wording.** The advisory board (the two sons plus Dominari's Kyle Wool) is confirmed [11]. I could not find the exact quote because sec.gov is blocked in this environment. It reads like standard SPAC boilerplate.
-4. **The targeting language on federal and state incentives: confirmed.** AP and Bloomberg quote the original S-1: "well-positioned to benefit from federal or state-level incentives, such as grants, tax credits, government contracts or preferential procurement programs" [1][2][3]. The video's quote leaves out "grants, tax credits". I could not confirm that the "identifiable economic or security interest" sentence was in the filing.
-5. **Removed later the same day: confirmed.** An amended S-1 filed later on Aug. 4 removed the sentence and other descriptions, after AP asked the Trump Organization about the apparent conflict. Paul Hastings called the sentence a "mistake" by "scriveners" [1][6]. The amended filing still mentions targets that can use "public policy tailwinds", so "some" of the language was removed, as the video says.
+4. **The targeting language on federal and state incentives: confirmed.** AP and Bloomberg quote the original S-1: "well-positioned to benefit from federal or state-level incentives, such as grants, tax credits, government contracts or preferential procurement programs" [1][2][3]. The claim's version of the quote leaves out "grants, tax credits". I could not confirm that the "identifiable economic or security interest" sentence was in the filing.
+5. **Removed later the same day: confirmed.** An amended S-1 filed later on Aug. 4 removed the sentence and other descriptions, after AP asked the Trump Organization about the apparent conflict. Paul Hastings called the sentence a "mistake" by "scriveners" [1][6]. The amended filing still mentions targets that can use "public policy tailwinds", so "some" of the language was removed, as claimed.
 6. **Implied plan to win government contracts through the sons: unverified insinuation.** I found no announced merger target and no documented contact with any agency. The concern rests on the deleted language and on ethics experts' criticism. Kathleen Clark said: "They just deleted the language. They haven't committed not to do what they said earlier today they were planning to do." [1]
 
 ## Corrections
-- The IPO priced at $300M and closed at $345M with the over-allotment. When the video was made it was not still "raising" money.
+- The IPO priced at $300M and closed at $345M with the over-allotment. After the IPO closed on Dec. 5, 2025 it was no longer "raising" money.
 - The quote leaves out "grants, tax credits".
 - "Tens of millions" means about $50M in paper value from founder shares, not cash in hand.
 

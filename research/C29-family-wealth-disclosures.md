@@ -2,9 +2,12 @@
 
 **Verdict: mostly-accurate (confidence: medium)**
 
-## What the video says (transcript lines 869-879)
+## The claim
 
-> "The president made more from crypto than any of his other businesses, about one point four billion dollars and two point two billion. This may have been one of his most profitable years ever. Meanwhile, Eric Trump has gotten 10 X richer since the election, according to Forbes. Don Jr. has gotten six times richer, according to Forbes. Barron Trump ... is estimated to have a net worth of one hundred fifty million dollars, according to Forbes. Meanwhile, many of the investments that made the Trump family so much money ... they've lost money for most of their actual American investors."
+- The president made more from crypto than from any of his other businesses: about $1.4 billion out of about $2.2 billion.
+- This "may have been" one of his most profitable years ever.
+- According to Forbes, Eric Trump has become 10 times richer since the election and Don Jr. six times richer, and Barron Trump has an estimated net worth of $150 million.
+- Many of the investments that made the Trump family so much money have lost money for most of their actual American investors.
 
 ## Method note
 
@@ -28,7 +31,7 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 
 ### 2. "This may have been one of his most profitable years ever." **Plausible but unverifiable as worded**
 - Forbes said the year was about three times the roughly $760M Trump took in for 2024, and the Daily Beast called it his "most lucrative year." Several outlets noted the haul tops his entire first term's income.
-- However, the AP and NYT both point out that the disclosure gives **revenue, not profit**. "Most profitable" therefore cannot be shown from the filing. The video's hedge ("may have been") is fair.
+- However, the AP and NYT both point out that the disclosure gives **revenue, not profit**. "Most profitable" therefore cannot be shown from the filing. The claim's hedge ("may have been") is fair.
 
 ### 3. Per Forbes, Eric Trump is about 10x richer since the election. **Confirmed (as of Dec 2025)**
 - Forbes (Kyle Mullins, **Dec 4, 2025**) ran the headline "Eric Trump has gotten 10 times richer since dad's election." It put him at about **$400M**.

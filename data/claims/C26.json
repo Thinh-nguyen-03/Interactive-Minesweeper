@@ -3,7 +3,7 @@
   "title": "1789 Capital and Vulcan Elements",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Don Jr. is a 1789 Capital partner. The firm passed $1B in assets in September 2025 and later grew to roughly $2-3.5B. The NYT reported returns of roughly 200% as of mid-2026. 1789 invested in Vulcan Elements in August 2025, about three months before a $1.4B government-backed package that included a $620M Pentagon Office of Strategic Capital loan. ProPublica did report that the deal was the only one initiated by a top White House aide (Peter Navarro) and quoted 'The call came from the White House: We have to get this done.' The video compresses the timing, calls the loan a 'contract', and implies Don Jr. anticipated or arranged the deal, which no reporting documents; he and 1789 deny any role.",
+  "summary": "Don Jr. is a 1789 Capital partner. The firm passed $1B in assets in September 2025 and later grew to roughly $2-3.5B. The NYT reported returns of roughly 200% as of mid-2026. 1789 invested in Vulcan Elements in August 2025, about three months before a $1.4B government-backed package that included a $620M Pentagon Office of Strategic Capital loan. ProPublica did report that the deal was the only one initiated by a top White House aide (Peter Navarro) and quoted 'The call came from the White House: We have to get this done.' The claim as usually stated compresses the timing, calls the loan a 'contract', and implies Don Jr. anticipated or arranged the deal, which no reporting documents; he and 1789 deny any role.",
   "sub_claims": [
     {
       "statement": "Don Jr. is a partner at 1789 Capital.",
@@ -17,7 +17,7 @@
     {
       "statement": "1789 Capital has over $1 billion in assets.",
       "verdict": "confirmed",
-      "finding": "Reuters reported over $1B on 2025-09-08. Later 2026 reporting puts it at about $2B (growth fund) to about $3.5B in total, plus a $1.2B real-estate fund closed in August 2026, so the video's figure is dated and understated.",
+      "finding": "Reuters reported over $1B on 2025-09-08. Later 2026 reporting puts it at about $2B (growth fund) to about $3.5B in total, plus a $1.2B real-estate fund closed in August 2026, so the $1 billion figure is dated and understated.",
       "sources": [
         "https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/",
         "https://foxbusiness.com/markets/trump-jr-backed-investment-fund-explodes-200m-2b-single-year-closing-doors",
@@ -56,7 +56,7 @@
     {
       "statement": "ProPublica reported 'the call came from the White House: we have to get this deal done' and that Vulcan's was the only deal initiated by a top aide to the president.",
       "verdict": "confirmed",
-      "finding": "ProPublica (Robert Faturechi, 2026-05-28) reported that White House adviser Peter Navarro, described as a friend of Don Jr., initiated the deal. A Pentagon official is quoted: 'The call came from the White House: We have to get this done.' The video inserts the word 'deal'. Of the dozens of companies under consideration, Vulcan's was the only one initiated by a top presidential aide, and it closed in weeks rather than months.",
+      "finding": "ProPublica (Robert Faturechi, 2026-05-28) reported that White House adviser Peter Navarro, described as a friend of Don Jr., initiated the deal. A Pentagon official is quoted: 'The call came from the White House: We have to get this done.' The claimed version of the quote inserts the word 'deal'. Of the dozens of companies under consideration, Vulcan's was the only one initiated by a top presidential aide, and it closed in weeks rather than months.",
       "sources": [
         "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
         "https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/",
@@ -66,7 +66,7 @@
     {
       "statement": "1789 says it is a passive minority growth-equity investor and does not call the government.",
       "verdict": "confirmed",
-      "finding": "This is the firm's stated position. 1789 told ProPublica it played no role and did not know of the loan before it was public. A Trump Jr. spokesperson said he does not discuss portfolio companies with officials and did not speak to Navarro about Vulcan. The exact quoted wording and the speaker in the clip could not be independently located.",
+      "finding": "This is the firm's stated position. 1789 told ProPublica it played no role and did not know of the loan before it was public. A Trump Jr. spokesperson said he does not discuss portfolio companies with officials and did not speak to Navarro about Vulcan. The exact wording attributed to the firm, and who said it, could not be independently located.",
       "sources": [
         "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
         "https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/"
@@ -74,11 +74,11 @@
     }
   ],
   "corrections": [
-    "Transcript says 1789 bought 'right before' the government got involved; it invested in August 2025, about three months before the 2025-11-03 announcement.",
-    "Transcript frames it as a Pentagon 'contract'; it was a $620M Office of Strategic Capital direct loan (initially conditional) plus $50M in Commerce CHIPS incentives and government warrants or equity.",
-    "Transcript quotes 'We have to get this deal done'; ProPublica's quote is 'The call came from the White House: We have to get this done.'",
-    "Transcript says 'over one billion dollars in assets'; that was the September 2025 figure, and 2026 reports put 1789 at about $2-3.5B.",
-    "Transcript says returns of 'over 200 percent'; the NYT reported roughly or nearly 200% (unrealized) as of 2026-06-30.",
+    "Claimed: 1789 bought 'right before' the government got involved. The record shows: it invested in August 2025, about three months before the 2025-11-03 announcement.",
+    "Claimed: it was a Pentagon 'contract'. The record shows: it was a $620M Office of Strategic Capital direct loan (initially conditional) plus $50M in Commerce CHIPS incentives and government warrants or equity.",
+    "Claimed quote: 'We have to get this deal done'. The record shows: ProPublica's quote is 'The call came from the White House: We have to get this done.'",
+    "Claimed: 'over one billion dollars in assets'. The record shows: that was the September 2025 figure, and 2026 reports put 1789 at about $2-3.5B.",
+    "Claimed: returns of 'over 200 percent'. The record shows: the NYT reported roughly or nearly 200% (unrealized) as of 2026-06-30.",
     "ProPublica identifies the White House aide who initiated the deal as Peter Navarro, not Don Jr. or 1789."
   ],
   "denials_and_context": [

@@ -43,7 +43,7 @@
    - He coordinated the White House position on the bill and promoted it publicly, saying it could create "trillions" in demand for US Treasurys (The Block, CNBC via NBC DFW).
    - He spoke at the July 18, 2025 signing. Trump signed the bill.
    - The NYT cited Craft's 7.8% stake in BitGo, a crypto infrastructure firm, as of BitGo's IPO filing.
-   - *Audit:* BitGo priced its NYSE IPO (BTGO) on January 21, 2026 at $18, above its $15-17 range. It sold about 11.8M shares for about $212.8M gross, and trading began January 22 [A1][A2]. Craft and Sacks personally invested in BitGo's 2017 Series B. I could not check the 7.8% figure against the prospectus because sec.gov is unreachable here, so it remains the NYT's figure.
+   - *Audit:* BitGo priced its NYSE IPO (BTGO) on January 21, 2026 at $18, above its $15-17 range. It sold about 11.8M shares for about $212.8M gross, and trading began January 22 [A1][A2]. Craft and Sacks personally invested in BitGo's 2017 Series B. I could not check the 7.8% figure against the prospectus because sec.gov could not be read directly, so it remains the NYT's figure.
    - Separately, C11 records that BitGo custodies the reserves of World Liberty Financial's USD1 stablecoin. That overlap is documented, but no source shows Sacks acted on it.
 
 6. **Sacks and the White House deny any conflict. Confirmed.**

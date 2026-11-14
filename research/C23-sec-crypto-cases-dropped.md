@@ -2,8 +2,8 @@
 
 **Verdict: mostly accurate (confidence: high on the facts, low on any causal link)**
 
-## What the video says (transcript lines 139 and 651-655)
-Molly White, in an interview segment, says that "basically every major cryptocurrency exchange," including Coinbase, Kraken, Binance and Gemini, faced SEC enforcement. She says "over a dozen lawsuits" against exchanges "were one by one dropped very shortly after Trump took office." She also says several of these exchanges gave "a million dollars or more" to Trump's campaign or inauguration fund, sponsored the military parade, and sponsored the White House ballroom. She frames this as something that "looks an awful lot like" a quid pro quo. Earlier, the narrator says SEC cases were "getting dropped left and right."
+## The claim
+Crypto researcher Molly White has argued that "basically every major cryptocurrency exchange," including Coinbase, Kraken, Binance and Gemini, faced SEC enforcement. She says "over a dozen lawsuits" against exchanges "were one by one dropped very shortly after Trump took office." She also says several of these exchanges gave "a million dollars or more" to Trump's campaign or inauguration fund, sponsored the military parade, and sponsored the White House ballroom. She frames this as something that "looks an awful lot like" a quid pro quo. A broader version of the claim is that SEC cases were "getting dropped left and right."
 
 ## Evidence by sub-claim
 

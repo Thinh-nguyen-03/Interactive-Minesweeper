@@ -132,7 +132,7 @@ Sources [34–37].
 8. AI Weekly (Bloomberg relay), G42 weighs selling majority stake, ~2026-09. https://aiweekly.co/alerts/bloomberg-g42-weighs-selling-majority-stake-to-us-firms-to-safeguard-nvidia
 9. WAM, "MGX joins Silver Lake in Altera acquisition", 2025-09-16. https://www.wam.ae/en/article/blqki86-mgx-joins-silver-lake-altera-acquisition
 10. The Star (Reuters), 2025-09-16. https://www.thestar.com.my/tech/tech-news/2025/09/16/mgx-co-invests-with-silver-lake-in-altera-acquisition
-11. Semafor, 2025-09-17 (not fetchable here). https://www.semafor.com/article/09/17/2025/abi-dhabi-ai-firm-mgx-lands-stake-in-us-chipmaker-altera
+11. Semafor, 2025-09-17 (original not read). https://www.semafor.com/article/09/17/2025/abi-dhabi-ai-firm-mgx-lands-stake-in-us-chipmaker-altera
 12. Business Wire, Altera closes Silver Lake investment, 2025-09-15. https://www.businesswire.com/news/home/20250915168341/en/Altera-Closes-Silver-Lake-Investment-to-Become-Worlds-Largest-Pure-play-FPGA-Solutions-Provider
 13. SiliconANGLE, US government Intel stake, 2025-08-22. https://siliconangle.com/2025/08/22/trump-says-us-government-will-take-10-stake-intel/
 14. TechRepublic, 2025-08. https://www.techrepublic.com/article/news-trump-intel-deal-chip-production/

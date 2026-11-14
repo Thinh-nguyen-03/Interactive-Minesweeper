@@ -100,7 +100,7 @@ This builds on C20 (stock posts), C21 and C41 (Truth API, the Warren-Schiff lett
 - TMTG and DOJ defend the Truth API as faster delivery of public data.
 - No one tied to the administration has been publicly identified as a trader. The only person charged is a soldier.
 - Fast markets, press leaks and informed speculation can explain some price moves.
-- **Limits of this check.** The research ended before I could check post-mid-2026 updates on the CFTC oil probe or the SEC's handling of the April 2025 letters. Direct fetches of CourtListener, Inner City Press and Mediaite were blocked here, so the Intercept docket status rests on search snippets.
+- **Limits of this check.** The research ended before I could check post-mid-2026 updates on the CFTC oil probe or the SEC's handling of the April 2025 letters. The original pages at CourtListener, Inner City Press and Mediaite were not read directly, so the Intercept docket status rests on search snippets.
 
 ## Sources
 1. NPR, "Why some are accusing Trump of manipulating stock markets," 2025-04-10. https://www.npr.org/2025/04/10/nx-s1-5360062/why-some-are-accusing-trump-of-manipulating-stock-markets

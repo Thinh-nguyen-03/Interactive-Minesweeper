@@ -175,7 +175,7 @@ These links come from our own cross-referencing. No source asserts them.
 16. CryptoPotato, XRP post fallout. https://cryptopotato.com/trumps-ripple-xrp-post-fallout-how-the-white-house-sidelined-lobbyist-report/
 17. Florida Politics, Ballard drops Politico's parent. https://floridapolitics.com/archives/738108-ballard-partners-dumps-politicos-parent-company-after-report-firm-was-iced-out-of-white-house
 18. Yahoo (Politico), "From Trump whisperer to West Wing pariah". https://www.yahoo.com/news/trump-whisperer-west-wing-pariah-085500000.html
-19. Sludge, "Foreign interests are paying millions to a Trump-linked lobbying firm", 2026-02-05 (not fetchable; seen via search). https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/
+19. Sludge, "Foreign interests are paying millions to a Trump-linked lobbying firm", 2026-02-05 (original not read; seen via search). https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/
 20. Sludge, "K Street's Trump boom", 2026-02-13. https://readsludge.com/2026/02/13/k-streets-trump-boom/
 21. Washington Examiner, "Saudi cash buys meetings with senators and prime media coverage", 2025-05-22. https://www.coloradopolitics.com/2025/05/22/saudi-cash-buys-meetings-with-senators-and-prime-media-coverage-8b3969b0-686c-5fdb-8e16-d48edba59452/
 22. Public Citizen, "Three of D.C.'s biggest lobbyists represent two-thirds of the corporate donors to Trump's White House ballroom", 2025-11. https://www.citizen.org/news/three-of-d-c-s-biggest-lobbyists-represent-two-thirds-of-the-corporate-donors-to-trumps-white-house-ballroom/
@@ -189,7 +189,7 @@ These links come from our own cross-referencing. No source asserts them.
 30. Nukta, "Pakistan's multi-million dollar lobbying push to reset its image in the US". https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us
 31. Dawn, Pakistan and India hire lobbyists. https://www.dawn.com/news/1907874
 32. Sunday Guardian, "In Trump's Washington, Pak quietly erects its largest ever influence network". https://sundayguardianlive.com/world/in-trumps-washington-pak-quietly-erects-its-largest-ever-influence-network-133161/
-33. FARA eFile, Javelin Advisors registration statement (No. 7579), 2025-04-25 (not fetchable; seen via search). https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf
+33. FARA eFile, Javelin Advisors registration statement (No. 7579), 2025-04-25 (original not read; seen via search). https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf
 34. PR Newswire, former Trump advisers launch Javelin Advisors. https://prnewswire.com/news-releases/former-trump-advisors-launch-government-relations-and-consulting-firm-javelin-advisors-llc-302335226.html
 35. ProPakistani, Pakistan Crypto Council partners with WLF, 2025-04-26. https://propakistani.pk/2025/04/26/pakistan-crypto-council-partners-with-trump-backed-wlf-to-boost-crypto-adoption/
 36. Cointelegraph, WLF partners with Pakistan Crypto Council. https://cointelegraph.com/news/trump-world-liberty-financial-partners-with-pakistan-crypto-council

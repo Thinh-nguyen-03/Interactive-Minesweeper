@@ -58,7 +58,7 @@
     {
       "statement": "Kalshi's CEO could not explain why Kalshi made Don Jr. a strategic adviser ('we have a lot of advisors').",
       "verdict": "unverified",
-      "finding": "Tarek Mansour has been questioned about Don Jr. repeatedly, including on The Axios Show in April 2026. He cites a politically diverse roster of advisers, says Kalshi 'never asked for any favors', and describes Don Jr.'s role as marketing advice. The exact clip wording was not located in text form, though the substance matches his reported answers.",
+      "finding": "Tarek Mansour has been questioned about Don Jr. repeatedly, including on The Axios Show in April 2026. He cites a politically diverse roster of advisers, says Kalshi 'never asked for any favors', and describes Don Jr.'s role as marketing advice. The exact quoted wording was not located in text form, though the substance matches his reported answers.",
       "sources": [
         "https://www.axios.com/2026/04/09/kalshi-axios-show-mansour-lopes-lara",
         "https://nbcmiami.com/news/business/money-report/kalshi-names-donald-trump-jr-as-strategic-adviser-to-prediction-market-firm/3514027"
@@ -97,11 +97,11 @@
     }
   ],
   "corrections": [
-    "Transcript says 'Mike selling' and 'Seelig'; the CFTC chairman is Michael (Mike) Selig, confirmed 2025-12-18.",
-    "Transcript says 'CallSheet'; the company is Kalshi.",
-    "Transcript says Don Jr. is 'on the board of both'; he is a strategic adviser to Kalshi and on Polymarket's advisory board. Neither is a board-of-directors seat. His firm 1789 Capital invested in Polymarket.",
-    "Transcript implies Truth Predict launched and failed; it was announced in Oct 2025 and shelved in Aug 2026 before a full launch.",
-    "Transcript says sports prediction markets are 'only possible thanks to' Selig; Kalshi's sports contracts began in Jan 2025 under Acting Chair Pham. Selig is the theory's leading federal defender, not its origin.",
+    "The CFTC chairman is Michael (Mike) Selig, confirmed 2025-12-18 (his name is sometimes misrendered as 'Seelig' or 'Mike selling').",
+    "The company's name is Kalshi (sometimes misrendered as 'CallSheet').",
+    "Claimed: Don Jr. is 'on the board of both'. The record shows: he is a strategic adviser to Kalshi and on Polymarket's advisory board. Neither is a board-of-directors seat. His firm 1789 Capital invested in Polymarket.",
+    "Claimed: Truth Predict launched and failed. The record shows: it was announced in Oct 2025 and shelved in Aug 2026 before a full launch.",
+    "Claimed: sports prediction markets are 'only possible thanks to' Selig. The record shows: Kalshi's sports contracts began in Jan 2025 under Acting Chair Pham. Selig is the theory's leading federal defender, not its origin.",
     "The earlier DOJ and CFTC probes into Polymarket were closed in July 2025, before Selig became chair.",
     "The 'passing comment' wording of Don Jr.'s denial was not found; the public denials came from his spokesperson and from Kalshi."
   ],
@@ -110,8 +110,8 @@
     "Don Jr.'s spokesperson: he does not trade on prediction platforms and does not engage with federal officials on behalf of companies he advises or invests in.",
     "Kalshi: Don Jr. advises on marketing, not regulation. Mansour says Kalshi never asked him for regulatory favors and points to politically diverse advisers.",
     "TMTG: Truth Predict was dropped for competitive reasons (a crowded market), not regulatory ones.",
-    "Context cutting against the video: the CFTC's jurisdiction claim is contested in the courts, and 44 AGs (including Republicans) told the CFTC it lacks authority over sports wagering, so the policy outcome Don Jr. favors is not assured.",
-    "Context supporting the video: Sen. John Curtis (R-Utah) has called for a Senate Judiciary probe of presidential family members profiting from access, naming Don Jr.'s prediction-market ties."
+    "Context cutting against the claim: the CFTC's jurisdiction claim is contested in the courts, and 44 AGs (including Republicans) told the CFTC it lacks authority over sports wagering, so the policy outcome Don Jr. favors is not assured.",
+    "Context supporting the claim: Sen. John Curtis (R-Utah) has called for a Senate Judiciary probe of presidential family members profiting from access, naming Don Jr.'s prediction-market ties."
   ],
   "sources": [
     {
@@ -692,7 +692,7 @@
     "result": "strengthened",
     "changes": [
       "Core findings upheld by AP, Axios, The New Republic and others. A fresh search again found no 'passing comment' wording, so that sub-claim stays unverified.",
-      "Sub-claim 3 now notes the Aug 2026 update: 1789 confirmed about $300M in a roughly $1B Polymarket round at a $21B valuation, with its reported total stake about $500M. This strengthens the video's family-link point. A matching 1789-capital -> polymarket relationship was added."
+      "Sub-claim 3 now notes the Aug 2026 update: 1789 confirmed about $300M in a roughly $1B Polymarket round at a $21B valuation, with its reported total stake about $500M. This strengthens the family-link point. A matching 1789-capital -> polymarket relationship was added."
     ],
     "new_sources": [
       {

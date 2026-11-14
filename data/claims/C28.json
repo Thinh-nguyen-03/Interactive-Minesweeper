@@ -3,10 +3,10 @@
   "title": "Foundation Future Industries robots and Eric Trump",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Foundation Future Industries is a 2024 San Francisco humanoid-robot startup led by CEO Sankaet Pathak. Eric Trump, already an investor, became its chief strategy adviser around March 2026 and promoted a '$24M Pentagon contract' on Fox Business on April 23, 2026. Per coverage of WIRED's reporting, the $24M is a 'fuzzy' bundle of research awards across the Army, Navy and Air Force, largely inherited from Boardwalk Robotics or routed through IHMC; at least one of those awards predates Eric Trump's role. Marine Corps tests were planned, not under way, and the video's suggestion about why Eric Trump joined is speculation.",
+  "summary": "Foundation Future Industries is a 2024 San Francisco humanoid-robot startup led by CEO Sankaet Pathak. Eric Trump, already an investor, became its chief strategy adviser around March 2026 and promoted a '$24M Pentagon contract' on Fox Business on April 23, 2026. Per coverage of WIRED's reporting, the $24M is a 'fuzzy' bundle of research awards across the Army, Navy and Air Force, largely inherited from Boardwalk Robotics or routed through IHMC; at least one of those awards predates Eric Trump's role. Marine Corps tests were planned, not under way, and the suggestion that the contracts explain why Eric Trump joined is speculation.",
   "sub_claims": [
     {
-      "statement": "Foundation Future Industries is a humanoid-robot startup whose founder and CEO is Sankaet Pathak ('Sam Patak' in the transcript).",
+      "statement": "Foundation Future Industries is a humanoid-robot startup whose founder and CEO is Sankaet Pathak.",
       "verdict": "confirmed",
       "finding": "Founded in 2024 in San Francisco by Pathak (ex-Synapse, which went bankrupt in 2024), Arjun Sethi and Mike LeBlanc. It builds the Phantom MK-1 humanoid robot, two of which were sent to Ukraine for demonstrations.",
       "sources": [
@@ -45,7 +45,7 @@
     {
       "statement": "Wired reported many of the contracts were old news and in place before Eric Trump got involved.",
       "verdict": "mostly-accurate",
-      "finding": "Secondary coverage of WIRED's reporting says the contracts were inherited from Boardwalk or routed through IHMC rather than newly won, and at least the Air Force SBIR from Nov 2024 predates his 2026 role. One summary claims a significant award was issued after he joined, which I could not confirm. 'Maybe that's why Eric Trump got involved' is the narrator's speculation. I could not locate or fetch the WIRED article itself.",
+      "finding": "Secondary coverage of WIRED's reporting says the contracts were inherited from Boardwalk or routed through IHMC rather than newly won, and at least the Air Force SBIR from Nov 2024 predates his 2026 role. One summary claims a significant award was issued after he joined, which I could not confirm. The suggestion that 'maybe that's why Eric Trump got involved' is speculation. I could not locate or fetch the WIRED article itself.",
       "sources": [
         "https://forklog.com/en/eric-trump-backed-foundation-plans-to-equip-humanoid-robots-with-weapons/",
         "https://gizmodo.com/the-killer-robots-have-an-eric-trump-problem-2000787112",
@@ -54,8 +54,8 @@
     }
   ],
   "corrections": [
-    "Transcript says 'Sam Patak'; the CEO is Sankaet Pathak.",
-    "Transcript implies a single new $24M Pentagon contract; reporting describes about five research awards across services, partly inherited from Boardwalk Robotics and partly routed through IHMC.",
+    "The CEO's name is Sankaet Pathak (sometimes misrendered as 'Sam Patak').",
+    "Claimed: a single new $24M Pentagon contract. The record shows: reporting describes about five research awards across services, partly inherited from Boardwalk Robotics and partly routed through IHMC.",
     "Marine Corps tests were planned, not under way.",
     "The segment aired on Fox Business (Mornings with Maria, 2026-04-23), not Fox News."
   ],

@@ -1,6 +1,6 @@
 # C22: Crypto.com and TMTG
 
-**Verdict: mostly accurate (confidence: medium-high).** Every main fact in the segment is documented:
+**Verdict: mostly accurate (confidence: medium-high).** Every main fact in the claim is documented:
 - Crypto.com agreed to buy $50M of TMTG stock.
 - The SEC closed its probe of Crypto.com with no action.
 - Crypto.com gave about $36M to Trump-linked committees.
@@ -14,9 +14,7 @@ The errors are in the framing:
 - The $50M of TMTG stock did change hands, but as payment for tokens: on 2025-09-05 TMTG paid for $105M of CRO half in cash and half in its own shares. The larger SPAC treasury plan was terminated on 2026-08-07.
 - No quid pro quo is documented. The link is timing, which Crypto.com denies.
 
-Transcript lines: 643-649.
-
-## What the video says
+## The claim
 TMTG announced a strategic partnership in which Crypto.com agreed to buy $50M of TMTG stock. This came months after the SEC closed its investigation of Crypto.com, and after Trump nominated a new pro-crypto SEC commissioner. "They spent $36 million on Trump contributions to Trump affiliated PACs." The SEC probe ended with no action. The CFTC later filed an amicus brief for Crypto.com "in a prediction markets-related lawsuit that they were facing." Crypto.com's national trust bank charter application was "provisionally approved."
 
 ## Sub-claims
@@ -34,18 +32,18 @@ TMTG announced a strategic partnership in which Crypto.com agreed to buy $50M of
 - Crypto.com CEO Kris Marszalek and Chief Legal Officer Nick Lundgren announced on 2025-03-27 that the SEC had closed its investigation with no action [4][5].
   - The SEC had sent a Wells notice in August 2024, and Crypto.com sued the SEC in October 2024.
 - The $50M share deal came about five months later, so "months after" is accurate.
-- However, the first TMTG/Crypto.com partnership (the ETFs) was announced on 2025-03-24, three days **before** the probe was closed [5][8]. That makes the overlap closer than the video implies, but it also means the partnership was not purely a reward after the closure.
+- However, the first TMTG/Crypto.com partnership (the ETFs) was announced on 2025-03-24, three days **before** the probe was closed [5][8]. That makes the overlap closer than the claim implies, but it also means the partnership was not purely a reward after the closure.
 
 ### 3. "This follows Trump nominating a new pro-crypto SEC commissioner": ACCURATE in substance, imprecise
 - Trump named Paul Atkins, a crypto-friendly pick, as SEC **Chair** in December 2024, and made Mark Uyeda acting chair in January 2025 [10].
-- I found no 2026 SEC commissioner nomination that fits the video.
+- I found no 2026 SEC commissioner nomination that fits the claim.
 
 ### 4. $36M in contributions to Trump-affiliated PACs: MOSTLY CONFIRMED
 - The figure matches Molly White's "quid pro quo" tracker: $36M "to Trump's campaign, inauguration, and pro-Trump PACs (since 2024)". The tracker page could not be fetched; I relied on search snippets [6].
 - AP (Dec 2025) reported a $1M inauguration gift plus $10M to MAGA Inc. in February 2025 [7].
 - FEC filings show two more $10M gifts from parent company Foris DAX between September and October 2025, and $5M in January 2026 [11][12].
 - That adds up to about $35M to MAGA Inc. plus $1M to the inauguration, which equals $36M.
-- Nearly all of the money went to one super PAC (MAGA Inc.), plus the inauguration fund. The transcript garbles who gave it ("They spent ... and then and crypto.com"), but the giver is Crypto.com.
+- Nearly all of the money went to one super PAC (MAGA Inc.), plus the inauguration fund. The giver is Crypto.com.
 
 ### 5. The SEC investigation ended with no action: CONFIRMED
 - The probe was closed with no enforcement action and no settlement [4][5].
@@ -67,7 +65,7 @@ TMTG announced a strategic partnership in which Crypto.com agreed to buy $50M of
 - Other crypto firms received similar conditional charters in the same period, so this was not unique to Crypto.com.
 
 ## Corrections
-- The transcript implies Crypto.com was defending a lawsuit. In fact Crypto.com (through CDNA) was the plaintiff suing Nevada regulators, and it lost at the Ninth Circuit in August 2026.
+- The claim implies Crypto.com was defending a lawsuit. In fact Crypto.com (through CDNA) was the plaintiff suing Nevada regulators, and it lost at the Ninth Circuit in August 2026.
 - The "$36M" figure is Molly White's tally. It is about $35M to MAGA Inc. plus $1M to the inauguration, not money spread across multiple PACs.
 - The $50M of TMTG stock went to Crypto.com as half the payment for $105M of CRO in a swap that closed on 2025-09-05, not as a cash purchase. The larger CRO Strategy SPAC plan was terminated on 2026-08-07.
 - The "pro-crypto SEC commissioner" was Paul Atkins, named Chair in December 2024, before the SEC probe was closed.

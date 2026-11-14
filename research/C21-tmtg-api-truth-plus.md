@@ -2,7 +2,7 @@
 
 **Verdict: mostly-accurate** (confidence: high on the API, medium on the Truth+ framing)
 
-## What the video says (transcript lines 635-641)
+## The claim
 - TMTG announced a paid API giving a "real time feed of the platform's most market moving truths."
 - Interim CEO Kevin McGurn said: "markets already move on Truth Social posts."
 - The company "is reportedly charging $100,000 a month and has multiple buyers."
@@ -16,7 +16,7 @@ Direct fetches of news sites (TheWrap, The Next Web and others) were blocked in 
 
 ### 1. TMTG announced a paid API with a real-time feed of the "most market-moving Truths": CONFIRMED
 - **Announcement:** On July 16, 2026, Trump Media & Technology Group announced **Truth API** in a GlobeNewswire release. It is a licensed data service that gives financial-services partners "the fastest access to Truth Social's most influential posts."
-- **The release quote:** McGurn is quoted saying Truth API "delivers a direct, licensed, real-time feed of the platform's most market-moving Truths while advancing our strategy to monetize proprietary assets through a high-margin, recurring revenue stream." The video's wording matches.
+- **The release quote:** McGurn is quoted saying Truth API "delivers a direct, licensed, real-time feed of the platform's most market-moving Truths while advancing our strategy to monetize proprietary assets through a high-margin, recurring revenue stream." The claim's wording matches.
 - **Coverage and launch:** The feed covers the 10 most-followed or most influential accounts, which reportedly include Trump's. It includes an archive back to 2022 and is aimed at high-frequency and algorithmic trading firms. It went live on August 1, 2026.
 
 ### 2. McGurn: "markets already move on Truth Social posts": CONFIRMED
@@ -24,7 +24,7 @@ Direct fetches of news sites (TheWrap, The Next Web and others) were blocked in 
 - **His role:** McGurn became interim CEO on about April 21-22, 2026, when Devin Nunes stepped down to chair the President's Intelligence Advisory Board.
 
 ### 3. "Reportedly charging $100,000 a month and has multiple buyers": CONFIRMED, with nuance
-- **Original report:** On July 17, 2026, the Financial Times reported that TMTG had pitched traders up to **$100,000 a month**, with a discounted roughly **$60,000 a month** rate on a three-year commitment. Reuters syndicated the story and said it could not verify it independently. At announcement, CNN said no pricing was available. The video's "reportedly" is therefore apt.
+- **Original report:** On July 17, 2026, the Financial Times reported that TMTG had pitched traders up to **$100,000 a month**, with a discounted roughly **$60,000 a month** rate on a three-year commitment. Reuters syndicated the story and said it could not verify it independently. At announcement, CNN said no pricing was available. The claim's "reportedly" is therefore apt.
 - **Company confirmation:** In August 2026, on its first-ever analyst earnings call, Trump Media said it had signed **more than 10 customer agreements**, mostly with HFT firms. It said customers pay **between $60,000 and $100,000 a month**. McGurn said only "a modest amount of revenue" had been recognized so far.
 - **Named customers:** Reuters, citing sources, later named **Bloomberg LP, Susquehanna International Group and Jump Trading** as subscribers. All three declined to comment.
 - **Correction:** $100,000 is the top of the price range, not a flat fee.
@@ -32,14 +32,14 @@ Direct fetches of news sites (TheWrap, The Next Web and others) were blocked in 
 ### 4. "Pay money to get access to the president's market-moving truths early, or at least in real time": PARTLY ACCURATE (characterization)
 - **The company's position:** TMTG says every user sees posts at the same time. In its account, the API only provides "fractionally faster" machine-readable delivery of public information (McGurn), and it calls the API an "industry-standard" product.
 - **How others describe it:** A spokesperson said delivery is "significantly faster" than a push notification. Some outlets (PhoneArena, Scripps headlines) described it as "early access."
-- **Video's hedge:** The video's own fallback phrase, "or at least in real time," is the defensible reading. Whether the latency gap gives a trading edge is the point in dispute, not an established fact of pre-publication access.
+- **The hedge:** The claim's own fallback phrase, "or at least in real time," is the defensible reading. Whether the latency gap gives a trading edge is the point in dispute, not an established fact of pre-publication access.
 - **Ownership:** Trump is TMTG's largest shareholder through his revocable trust. Fortune and Reuters, citing filings, put the stake at roughly 41%; earlier figures were about 52-53%. Revenue from the feed therefore accrues in part to him.
 
 ### 5. Truth+ is a subscription streaming service with "Patriot packages" and non-woke content: CONFIRMED, but not a new announcement
 - **Not new:** Truth+ (originally "TMTG+") debuted in 2024, came to Roku in March 2025 (marketed as "the singular option for non-woke TV") and launched globally on July 7, 2025.
 - **Patriot Package:** This paid tier ($9.99/month, free during beta) went into beta around early July 2025. It carries channels such as Newsmax, OAN, Real America's Voice, Salem and RSBN.
 - **Films:** On August 7, 2025, Trump Media added Great American Media's on-demand catalogue to the Patriot Package. CEO Devin Nunes pitched it as "non-woke entertainment that affirms American values."
-- **Timing issue:** The video's "Meanwhile, they also announced" implies the launch came at the same time as the July 2026 API. Truth+ and the Patriot Package predate the API by one to two years.
+- **Timing issue:** The phrase "Meanwhile, they also announced" implies the launch came at the same time as the July 2026 API. Truth+ and the Patriot Package predate the API by one to two years.
 - **NYT criticism:** The New York Times (via The Nightly) noted that Truth+ produces no original content and that much of its programming is available elsewhere, often free.
 
 ## Corrections

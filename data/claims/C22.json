@@ -3,7 +3,7 @@
   "title": "Crypto.com and TMTG",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Each core fact is documented. Crypto.com agreed on 2025-08-26 to take $50M of TMTG stock as part of a CRO-treasury deal, and that swap closed on 2025-09-05 (TMTG paid for $105M of CRO half in its own shares); the larger SPAC treasury plan was terminated on 2026-08-07. The SEC closed its Crypto.com probe with no action on 2025-03-27. Crypto.com gave about $36M ($35M to MAGA Inc. plus $1M to the inauguration). The CFTC filed an amicus brief for Crypto.com on 2026-02-17, and the OCC conditionally approved its trust charter on 2026-02-23. The video errs in calling Crypto.com the party 'facing' the lawsuit: it was the plaintiff, and it lost at the Ninth Circuit. Beyond timing, no quid pro quo is documented, and Crypto.com denies any link.",
+  "summary": "Each core fact is documented. Crypto.com agreed on 2025-08-26 to take $50M of TMTG stock as part of a CRO-treasury deal, and that swap closed on 2025-09-05 (TMTG paid for $105M of CRO half in its own shares); the larger SPAC treasury plan was terminated on 2026-08-07. The SEC closed its Crypto.com probe with no action on 2025-03-27. Crypto.com gave about $36M ($35M to MAGA Inc. plus $1M to the inauguration). The CFTC filed an amicus brief for Crypto.com on 2026-02-17, and the OCC conditionally approved its trust charter on 2026-02-23. The claim errs in describing Crypto.com as the party 'facing' the lawsuit: it was the plaintiff, and it lost at the Ninth Circuit. Beyond timing, no quid pro quo is documented, and Crypto.com denies any link.",
   "sub_claims": [
     {
       "statement": "Crypto.com agreed to purchase $50M in TMTG stock in a strategic partnership.",
@@ -72,11 +72,11 @@
     }
   ],
   "corrections": [
-    "Transcript says Crypto.com was 'facing' a prediction-markets lawsuit. Crypto.com (through CDNA) was the plaintiff suing Nevada regulators, and it lost at the Ninth Circuit on 2026-08-28 despite the CFTC brief.",
-    "Transcript says $36M went to 'Trump affiliated PACs'. The figure is Molly White's tally: about $35M to MAGA Inc. plus $1M to the inauguration.",
+    "Claimed: Crypto.com was 'facing' a prediction-markets lawsuit. The record shows: Crypto.com (through CDNA) was the plaintiff suing Nevada regulators, and it lost at the Ninth Circuit on 2026-08-28 despite the CFTC brief.",
+    "Claimed: $36M went to 'Trump affiliated PACs'. The record shows: the figure is Molly White's tally: about $35M to MAGA Inc. plus $1M to the inauguration.",
     "The 'new pro-crypto SEC commissioner' was Paul Atkins, named Chair in December 2024, before the probe closed.",
     "The first Crypto.com/TMTG partnership (ETFs) was announced 2025-03-24, three days before the SEC closure, not months after.",
-    "Transcript says the charter was 'provisionally approved'. The OCC's approval is conditional, and final approval is pending.",
+    "Claimed: the charter was 'provisionally approved'. The record shows: the OCC's approval is conditional, and final approval is pending.",
     "The $50M of TMTG stock did change hands: on 2025-09-05 TMTG paid for 684.4M CRO (about $105M) half in cash and half in its own stock. Crypto.com received the shares as payment for tokens, not through a cash purchase. The larger CRO Strategy SPAC treasury plan was terminated on 2026-08-07."
   ],
   "denials_and_context": [
@@ -315,7 +315,7 @@
       "id": "molly-white",
       "name": "Molly White",
       "type": "person",
-      "description": "Crypto critic whose tracker gives the $36M figure; interviewed in the video"
+      "description": "Crypto researcher and critic whose tracker gives the $36M figure"
     },
     {
       "id": "kris-marszalek",

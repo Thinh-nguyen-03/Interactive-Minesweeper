@@ -141,8 +141,8 @@ The Binance lobbying and pardon story is covered in C36. This file builds on tho
 ## Sources
 1. Reuters via Yahoo Finance, "Kraken, Blockchain.com join crowd signing with Trump-tied lobbyists", 2025-01-24. https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html
 2. AP via PBS, "How a Trump business deal with a crypto firm exposes potential conflicts of interest", 2025-12-16. https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest
-3. Legis1, Gemini hires Miller Strategies (not fetchable; seen via search). https://legis1.com/news/crypto-regulation-lobbying-gemini
-4. Senate LDA client record 69134 (not fetchable; seen via search). https://lda.senate.gov/api/v1/clients/69134/?format=api
+3. Legis1, Gemini hires Miller Strategies (original not read; seen via search). https://legis1.com/news/crypto-regulation-lobbying-gemini
+4. Senate LDA client record 69134 (original not read; seen via search). https://lda.senate.gov/api/v1/clients/69134/?format=api
 5. NOTUS, Q2 2025 lobbying disclosures. https://www.notus.org/money/lobbying-disclosure-second-quarter
 6. Bloomberg Law, "Trump-Aligned Ballard Takes Over as Revenue Leader on K Street". https://news.bloomberglaw.com/business-and-practice/trump-aligned-ballard-takes-over-as-revenue-leader-on-k-street
 7. Cointelegraph, Binance lobbying before the CZ pardon, 2025-10. https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington

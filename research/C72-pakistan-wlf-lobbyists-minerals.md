@@ -133,9 +133,9 @@ The figure is WLF's 2025 token-sale revenue. It is not Pakistani money, it is no
 - **The $4,000 contribution to Jackson:** unverified, and discarded.
 
 ## Sources
-1. Global Witness, "Revealed: Trump-linked firms cash in on mineral lobbying deals as US cuts aid" (not fetchable). https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid
+1. Global Witness, "Revealed: Trump-linked firms cash in on mineral lobbying deals as US cuts aid" (original not read). https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid
 2. Nukta, Pakistan's multi-million dollar lobbying push. https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us
-3. FARA eFile, Javelin registration No. 7579, 2025-04-25 (not fetchable). https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf
+3. FARA eFile, Javelin registration No. 7579, 2025-04-25 (original not read). https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf
 4. Dawn, Pakistan and India hire lobbyists. https://www.dawn.com/news/1907874
 5. Dawn, WLF partners with Pakistan Crypto Council, 2025-04-26. https://www.dawn.com/news/1906732
 6. Arab News Pakistan, WLF delegation and Crypto Council, 2025-04-26. https://www.arabnews.pk/node/2598563
@@ -151,7 +151,7 @@ The figure is WLF's 2025 token-sale revenue. It is not Pakistani money, it is no
 16. Dawn, army chief's White House lunch. https://www.dawn.com/news/1918044/army-chief-joins-trump-for-historic-white-house-lunch
 17. Dawn, meeting secured via "unconventional means". https://www.dawn.com/news/1918057/trump-coas-meeting-secured-via-unconventional-means-say-insiders
 18. O'Dwyer's, Checkmate checks for Pakistan, 2025-06-18. https://www.odwyerpr.com/story/public/23166/2025-06-18/checkmate-checks-for-pakistan.html
-19. Daily Times, defence and minerals lobbying (not fetchable). https://dailytimes.com.pk/1524579/defence-and-minerals-inside-pakistans-lobbying-push-in-washington/
+19. Daily Times, defence and minerals lobbying (original not read). https://dailytimes.com.pk/1524579/defence-and-minerals-inside-pakistans-lobbying-push-in-washington/
 20. Express Tribune, first US oil shipment. https://tribune.com.pk/story/2559037/1
 21. Hydrocarbon Processing (Reuters), Cnergyico/Vitol cargo. https://hydrocarbonprocessing.com/news/2025/07/pakistan-to-buy-first-ever-us-oil-cargo-in-cnergyico-deal-with-vitol/
 22. Dawn, 1M barrels of US oil to arrive in October. https://www.dawn.com/news/1928182/1m-barrels-of-us-oil-to-arrive-in-oct
@@ -175,7 +175,7 @@ The figure is WLF's 2025 token-sale revenue. It is not Pakistani money, it is no
 40. ThePrint (Bloomberg syndication). https://theprint.in/world/how-a-35-year-old-crypto-bro-helped-pak-win-over-trump-world/2891895/
 41. Mother Jones, Iran negotiations and Trump's crypto firm, 2026-04. https://www.motherjones.com/politics/2026/04/parkistan-iran-trump-witkoff-world-liberty-financial/
 42. Fortune, Witkoff/Kushner Pakistan trip called off, 2026-04-25. https://fortune.com/2026/04/25/trump-witkoff-kushner-pakistan-ceasefire-talks-iran-war-hormuz/
-43. Al Jazeera, "$500m for Trump, access for Pakistan", 2026-07-03 (not fetchable). https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off
+43. Al Jazeera, "$500m for Trump, access for Pakistan", 2026-07-03 (original not read). https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off
 44. Al Jazeera, Pakistan's drone deal with a Trump-backed firm also selling to India, 2026-09-23. https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india
 45. The Defense Post, Pakistan drone order, 2026-09-24. https://thedefensepost.com/2026/09/24/pakistan-drone-order-us/
 46. Dawn, CDF Munir and Powerus, 2026-09-16. https://www.dawn.com/news/2030390

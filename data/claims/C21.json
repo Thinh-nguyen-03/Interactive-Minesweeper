@@ -50,7 +50,7 @@
     {
       "statement": "TMTG also announced Truth+, a subscription streaming service offering Patriot packages with non-woke movies.",
       "verdict": "partly-accurate",
-      "finding": "The product is real. Truth+ (formerly TMTG+) debuted in 2024 and came to Roku in March 2025, marketed as 'the singular option for non-woke TV.' It launched globally on July 7, 2025. The $9.99 Patriot Package tier entered beta in July 2025, and on Aug 7, 2025 the Great American Media catalogue was added, pitched as 'non-woke entertainment.' None of this was announced alongside the July 2026 API, as the video's 'meanwhile' implies.",
+      "finding": "The product is real. Truth+ (formerly TMTG+) debuted in 2024 and came to Roku in March 2025, marketed as 'the singular option for non-woke TV.' It launched globally on July 7, 2025. The $9.99 Patriot Package tier entered beta in July 2025, and on Aug 7, 2025 the Great American Media catalogue was added, pitched as 'non-woke entertainment.' None of this was announced alongside the July 2026 API, contrary to what the claim implies.",
       "sources": [
         "https://benzinga.com/trading-ideas/movers/25/03/44398390/trump-media-launches-truth-on-roku-calling-it-the-singular-option-for-non-woke-tv",
         "https://www.thestar.com.my/tech/tech-news/2025/07/07/trump-media-launches-tv-streaming-platform-with-newsmax-channel-globally",
@@ -541,7 +541,7 @@
     },
     {
       "title": "Warren-Schiff request for an SEC probe of Truth API and the SEC's response",
-      "why_connected": "Tests whether the Trump-appointed SEC under Paul Atkins acts on a complaint about a Trump-owned company, which is the regulator-conflict theme of the video.",
+      "why_connected": "Tests whether the Trump-appointed SEC under Paul Atkins acts on a complaint about a Trump-owned company, which goes to the question of regulator conflicts.",
       "entities": [
         "sec",
         "paul-atkins",

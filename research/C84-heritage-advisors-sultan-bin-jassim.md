@@ -148,7 +148,7 @@ We found no FCC or other federal benefit to Newsmax.
 9. PBS NewsHour (AP), Menendez and Qatari royal, 2024-01. https://www.pbs.org/newshour/politics/prosecutors-say-sen-menendez-cashed-in-by-linking-qatari-royal-family-member-with-new-jersey-businessman
 10. New Jersey Globe, new Menendez indictment (Qatar), 2024-01-02. https://newjerseyglobe.com/congress/new-menendez-indictment-alleges-corrupt-involvement-with-qatari-government/
 11. Washington Free Beacon, "Owner of Trump's Qatari Air Force One linked to Bob Menendez corruption scandal", 2025-05 (search text). https://freebeacon.com/national-security/owner-of-trumps-qatari-air-force-one-linked-to-bob-menendez-corruption-scandal/
-12. SEC EDGAR, Form 3, Naples Investment Holdco LLC, 2025-05 (not fetchable here). https://www.sec.gov/Archives/edgar/data/1391405/0000897069-25-000688-index.html
+12. SEC EDGAR, Form 3, Naples Investment Holdco LLC, 2025-05 (original not read). https://www.sec.gov/Archives/edgar/data/1391405/0000897069-25-000688-index.html
 13. Quantisnow, Naples Investment Holdco claimed 19,737,553 Class B shares, 2025-05. https://quantisnow.com/insight/new-insider-naples-investment-holdco-llc-claimed-ownership-of-19737553-6013846
 14. Bloomberg, "Newsmax founder Ruddy ... is now a billionaire", 2025-03-31. https://www.bloomberg.com/news/articles/2025-03-31/newsmax-founder-ruddy-ex-ny-post-journalist-is-now-billionaire
 15. TipRanks, Newsmax up 735% in IPO debut, 2025-03-31. https://www.tipranks.com/news/newsmax-explodes-735-in-ipo-debut-as-trump-era-fuels-investor-frenzy
@@ -157,7 +157,7 @@ We found no FCC or other federal benefit to Newsmax.
 18. The National, Will Lewis and The News Movement, 2023-11-07. https://www.thenationalnews.com/opinion/uk/2023/11/07/will-lewis-turns-back-on-telegraph-takeover-for-lure-of-american-news
 19. Jewish Insider, "Lee Zeldin reveals Qatar ties in financial disclosures", 2025-02. https://jewishinsider.com/2025/02/lee-zeldin-epa-administrator-qatar-financial-disclosures/
 20. The Intercept, Trump nominees' Qatar ties, 2025-02-11. https://theintercept.com/2025/02/11/trump-qatar-ethics-patel-zeldin-bondi/
-21. OGE, Lee Zeldin nominee 278e (not fetchable here). https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B4586F4FD7718EA485258C0F00336FAE/%24FILE/Zeldin%2C Lee  final278.pdf
+21. OGE, Lee Zeldin nominee 278e (original not read). https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B4586F4FD7718EA485258C0F00336FAE/%24FILE/Zeldin%2C Lee  final278.pdf
 22. OGE, Lee Zeldin ethics agreement (search text only). https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/D3877B196637270685258C0F0033721F/$FILE/Zeldin%2C%20Lee%20%20finalEA.pdf
 23. OGE, Lee Zeldin 2026 annual 278e, certified 2026-05-22 (entries not read). https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/A9F88F6167796EF985258E04002DDA12/$FILE/Lee-Zeldin-2026-278ANNU.pdf
 24. E&E News, "Zeldin raked in consulting and op-ed fees", 2025-01. https://eenews.net/articles/zeldin-raked-in-consulting-and-op-ed-fees-and-won-big-at-casinos

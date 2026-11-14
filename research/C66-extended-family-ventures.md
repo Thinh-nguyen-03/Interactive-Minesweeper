@@ -4,7 +4,7 @@
 
 This connection check builds on C04/C29 (Barron and WLF), C15/C46 (Affinity), C25 (Don Jr. and prediction markets), C45 (Albania) and C48 (library foundation).
 
-**Method note.** Direct fetches of Tablet, the Spokesman-Review (NYT syndication) and Wikipedia were blocked here, so the NYT and Tablet findings rely on search-result summaries from several relaying outlets. The research ended before the WSJ's Gruenbaum report could be checked directly. Points that depend on those sources are graded accordingly.
+**Method note.** The original pages at Tablet, the Spokesman-Review (NYT syndication) and Wikipedia were not read directly, so the NYT and Tablet findings rely on search-result summaries from several relaying outlets. The research ended before the WSJ's Gruenbaum report could be checked directly. Points that depend on those sources are graded accordingly.
 
 ## Connections found
 

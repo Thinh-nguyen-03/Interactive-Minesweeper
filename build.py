@@ -2,7 +2,8 @@
 """Build the claims map.
 
 Merges
-  data/claims-index.json      claim list
+  data/claims-index.json      list of checks (display_title, question, topic, hidden)
+  data/topics.json            the topics the checks are grouped under, in display order
   data/claims/Cxx.json        per-claim verification (see SCHEMA.md)
   data/base-graph.json        shared entities / relationships / themes (optional)
   research/Cxx-<slug>.md      long-form reports (optional)
@@ -129,6 +130,44 @@ REL_TYPES = ["money", "ownership", "family", "regulatory", "advisory",
 RESERVED_HASHES = {"settings", "sidebar", "customize", "upgrade", "downloads",
                    "map", "claims", "common", "names", "method", "home"}
 RESERVED_PREFIXES = ("comment-", "name-", "map-")
+
+# Nothing shown on the site or in the vault refers to where the first claims were collected from.
+# Entities that exist only to describe that source are left out, and the build lists every
+# reader-facing string that still matches BANNED so that the data can be reworded.
+BANNED = re.compile(r"video|coffeezilla|transcript|narrator", re.I)
+HIDDEN_ENTITIES = {"coffeezilla", "unnamed-lawyer", "patreon", "investigating-the-president-video",
+                   "hyper-gamblification-video", "voidzilla"}
+
+# Used only when data/topics.json is missing or a check has no topic in the index.
+TOPIC_FALLBACK = [
+    ("crypto-ventures", "Crypto ventures",
+     "Meme coins, World Liberty Financial, its stablecoin and the people who bought in.",
+     r"meme coin|\$trump|\$melania|world liberty|wlf|usd1|token|binance|alt5|bitcoin|crypto"),
+    ("gulf-money", "Gulf money",
+     "Investments, property deals and gifts involving the UAE, Saudi Arabia and Qatar.",
+     r"uae|gulf|qatar|saudi|abu dhabi|tahnoon|mgx|affinity|damac|silver lake|sovereign"),
+    ("regulators-and-enforcement", "Regulators and enforcement",
+     "Cases dropped or settled, new laws, and the agencies that oversee family-linked firms.",
+     r"\bsec\b|cftc|occ\b|enforcement|genius|clarity|charter|dropped|probes|revolving door|officials who"),
+    ("pardons-lobbyists-and-access", "Pardons, lobbyists and access",
+     "Clemency, paid intermediaries, donors and officials with earlier clients.",
+     r"pardon|clemency|lobby|fixer|donor|ballroom|library|lawyers|schiller|dinner"),
+    ("trump-media-and-markets", "Trump Media and markets",
+     "Trump Media, Truth Social posts, stock trades and prediction markets.",
+     r"tmtg|trump media|truth|stock|prediction market|polymarket|etf|market-moving|spac|yorkville"),
+    ("defence-minerals-and-contracts", "Defence, minerals and contracts",
+     "Federal contracts, loans and equity stakes near firms the family invests in or advises.",
+     r"pentagon|drone|vulcan|mineral|rare earth|contract|robots|procurement|greenland|congo|federal backing"),
+    ("family-ventures-and-wealth", "Family ventures and wealth",
+     "What the family sells, owns and has earned, and who runs the vehicles.",
+     r"wealth|merchandise|t1 phone|family|dominari|witkoff|kushner|melania|eric trump|don jr|shell"),
+    ("foreign-deals", "Foreign deals",
+     "Trump Organization and envoy-linked deals outside the Gulf.",
+     r"foreign|albania|serbia|pakistan|russia|lukoil|hungary|tariff|kremlev|azerbaijan|tbilisi"),
+    ("tech-and-media-companies", "Tech and media companies",
+     "Settlements, donations and deals involving large technology and media firms.",
+     r"tech|amazon|documentary|settlement|sacks|nvidia|chips|ellison|musk"),
+]
 
 warnings = []
 
@@ -350,13 +389,21 @@ _SAID = re.compile(r"^(?:the\s+)?(transcript|video|brief|lead)\s+"
                    r"suggests|suggested|claims|claimed)\b\s*(?:that\s+)?", re.I)
 
 
+_CLAIMED = re.compile(r"^(?:claimed|claim|the claim|as claimed)\s*:\s*(.+?)[.;]?\s+(?:the\s+)?record(?:\s+shows)?\s*:\s*(.+)$", re.I)
+
+
 def correction_pair(text):
-    """'Transcript says X; the record says Y.' -> {who, said, record}.  None when it does not parse."""
+    """'Claimed: X. The record shows: Y.' -> {said, record}.  None when it does not parse.
+
+    The older wording ('<source> says X; the record says Y') is still read, and comes out the same way.
+    """
     text = tidy(text)
+    m = _CLAIMED.match(text)
+    if m and len(m.group(2)) >= 12:
+        return {"said": cap_first(m.group(1).rstrip(".")), "record": cap_first(m.group(2))}
     m = _SAID.match(text)
     if not m:
         return None
-    who = "video" if m.group(1).lower() in ("transcript", "video") else "brief"
     cut = None
     for rx in (r";\s+", r"\.\s+In fact,?\s+", r",\s+but\s+", r"\.\s+But\s+", r"\.\s+(?=[A-Z\"'$0-9])"):
         mm = re.search(rx, text[m.end():])
@@ -369,9 +416,16 @@ def correction_pair(text):
     if len(record) < 12:
         return None
     plain_verb = m.group(2).lower() in ("says", "said", "states", "stated")
-    said = text[m.end():m.end() + cut[0]].strip() if plain_verb else said_full.strip()
+    said = text[m.end():m.end() + cut[0]].strip()
+    if not plain_verb:      # "... implies X" -> "The claim implies X"
+        verb = m.group(2).lower()
+        verb = {"said": "says", "stated": "states", "called": "calls", "listed": "lists", "implied": "implies",
+                "framed": "frames", "grouped": "groups", "quoted": "quotes", "gave": "gives",
+                "described": "describes", "named": "names", "suggested": "suggests", "claimed": "says"}.get(verb, verb)
+        said = "The claim " + verb + " " + ("that " if re.search(r"\bthat\s*$", m.group(0)) else "") + said
     record = re.sub(r"^(in fact,?|but)\s+", "", record, flags=re.I)
-    return {"who": who, "plain": plain_verb, "said": cap_first(said.rstrip(".")), "record": cap_first(record)}
+    record = re.sub(r"^the record (shows|says|states)\s*(that\s+)?:?\s*", "", record, flags=re.I)
+    return {"said": cap_first(said.rstrip(".")), "record": cap_first(record)}
 
 
 def clean_name(name):
@@ -382,16 +436,53 @@ def clean_name(name):
     return name
 
 
+_SCRUB_PAREN = re.compile(r"\s*\((?:[^()]*)\)")
+_SCRUB_PHRASE = re.compile(r",?\s*(?:per|according to|for|in|by|of)\s+(?:the|this|that)\s+video\b,?", re.I)
+scrubbed = []
+
+
+def scrub(text, where=""):
+    """Remove a reference to the original source from a short description, keeping the rest.
+
+    Used for entity and theme descriptions only (never for findings): a bracket that mentions it is
+    dropped, then a short phrase such as 'per the video', then any clause or sentence that still does.
+    """
+    text = tidy(text)
+    if not text or not BANNED.search(text):
+        return text
+    out = _SCRUB_PAREN.sub(lambda m: "" if BANNED.search(m.group(0)) else m.group(0), text)
+    out = _SCRUB_PHRASE.sub("", out)
+    if BANNED.search(out):
+        kept = []
+        for sent in sentences(out):
+            clauses = [c for c in re.split(r";\s+", sent) if not BANNED.search(c)]
+            if clauses:
+                kept.append("; ".join(clauses))
+        out = " ".join(kept)
+    out = re.sub(r"\s+([,.;])", r"\1", re.sub(r"\s{2,}", " ", out)).strip(" ;,")
+    if out and out[-1] not in ".!?" and text[-1] in ".!?":
+        out += "."
+    scrubbed.append((where, text, out))
+    return out
+
+
+def clean_title(title):
+    """Fallback display title: the working title without an internal prefix."""
+    return re.sub(r"(?i)^(follow-up|connection hunt|lead|framing)\s*:\s*", "", clean_str(title)).strip()
+
+
+def is_hidden_entity(eid, name=""):
+    return eid in HIDDEN_ENTITIES or bool(BANNED.search(eid.replace("-", " "))) or bool(BANNED.search(name or ""))
+
+
 def clean_label(label):
     """Relationship labels read mid-sentence ('X invested in Y'): no trailing full stop, grade words lower-cased."""
     return tidy(label).rstrip(".")
 
 
-def origin_of(raw):
-    o = slugify(raw)
-    if o in ("", "video"):
-        return "video"
-    return "connection-hunt" if o in ("connection-hunt", "connection-hunts", "hunt") else "follow-up"
+def ctype_of(raw):
+    """Two kinds of item: a check of a claim, and a connection check across several checks."""
+    return "connection" if slugify(raw) in ("connection-hunt", "connection-hunts", "hunt", "connection") else "check"
 
 
 # --------------------------------------------------------------------------
@@ -426,7 +517,11 @@ def load_inputs():
     base = load_json(DATA / "base-graph.json", {})
     if not isinstance(base, dict):
         base = {}
-    return index, claim_files, reports, base
+    topics = load_json(DATA / "topics.json", [])
+    if isinstance(topics, dict):
+        topics = topics.get("topics", [])
+    topics = [t for t in as_list(topics) if isinstance(t, dict) and t.get("id")]
+    return index, claim_files, reports, base, topics
 
 
 # --------------------------------------------------------------------------
@@ -439,7 +534,7 @@ class Entities:
     def add(self, raw_id, name=None, etype=None, description=None, aliases=None,
             origin="", authoritative=False):
         eid = canon(raw_id)
-        if not eid:
+        if not eid or is_hidden_entity(eid, clean_str(name)):
             return None
         e = self.by_id.get(eid)
         if e is None:
@@ -465,7 +560,7 @@ class Entities:
                 e["types"][etype] += 1
                 if authoritative and not e["base_type"]:
                     e["base_type"] = etype
-        description = tidy(description)
+        description = scrub(description, f"entity {eid}")
         if description and description.lower() not in {d.lower() for d in e["descs"]}:
             if authoritative:
                 e["descs"].insert(0, description)

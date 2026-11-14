@@ -2,16 +2,16 @@
 
 **Verdict: mostly-accurate (confidence: medium)**
 
-Transcript lines 659-735. "Mike selling" / "Seelig" means CFTC Chairman **Michael (Mike) Selig**. "CallSheet" means **Kalshi**.
+Names: the CFTC chairman is **Michael (Mike) Selig** (sometimes misrendered as "Seelig" or "Mike selling"), and the prediction-market company is **Kalshi** (sometimes misrendered as "CallSheet").
 
-## What the video says
+## The claim
 1. TMTG announced "Truth Predict", its move into prediction markets, and the product flopped.
-2. Sports prediction markets rest on a new legal theory: that sports bets are financial event contracts (swaps). The video says this is "really only possible" thanks to Trump's CFTC chairman Mike Selig.
-3. Polymarket and Kalshi top the App Store finance charts, and both are linked to the Trump family through Don Jr. The video says he is "on the board of both".
+2. Sports prediction markets rest on a new legal theory: that sports bets are financial event contracts (swaps). This is said to be "really only possible" thanks to Trump's CFTC chairman Mike Selig.
+3. Polymarket and Kalshi top the App Store finance charts, and both are linked to the Trump family through Don Jr. He is said to be "on the board of both".
 4. In Congress, Selig was asked whether the White House had ever asked him to drop the CFTC's probe into Polymarket.
 5. Kalshi's CEO could not explain why Kalshi made Don Jr. a strategic adviser.
 6. Trump posted that prediction markets are "a major industry and we need to protect it."
-7. Don Jr. reportedly told Republican state attorneys general not to fight prediction markets. The video says he denies it and calls it a passing comment.
+7. Don Jr. reportedly told Republican state attorneys general not to fight prediction markets. He is said to deny it and to call it a passing comment.
 
 ## Evidence by sub-claim
 
@@ -25,7 +25,7 @@ On the Q2 2026 earnings call (around Aug 7-10, 2026), interim CEO Kevin McGurn s
 **2. The legal theory depends on Selig: partly accurate.**
 The theory is real: the CFTC treats sports event contracts as "swaps" under the Commodity Exchange Act, which would put them under exclusive federal jurisdiction and preempt state gambling laws. Selig has championed it. Under Selig, the CFTC sued Arizona, Connecticut and Illinois in April 2026, later took action against New York and other states, and filed amicus briefs supporting the platforms [6][7][8].
 
-Selig was confirmed as CFTC chair on Dec 18, 2025 by a 53-43 vote [9], so he did not create the theory. Kalshi's sports contracts launched in January 2025 under Acting Chair Caroline Pham, after Kalshi's 2024 court win on election contracts. The video's framing ("only possible thanks to") overstates Selig's role: he is the theory's chief federal defender now, not its source. Courts are split on it, including a Nevada ruling against the platforms, so it is not settled law [8].
+Selig was confirmed as CFTC chair on Dec 18, 2025 by a 53-43 vote [9], so he did not create the theory. Kalshi's sports contracts launched in January 2025 under Acting Chair Caroline Pham, after Kalshi's 2024 court win on election contracts. The framing ("only possible thanks to") overstates Selig's role: he is the theory's chief federal defender now, not its source. Courts are split on it, including a Nevada ruling against the platforms, so it is not settled law [8].
 
 **3. Don Jr. is linked to both companies: confirmed. "On the board of both" is imprecise.**
 - **Kalshi:** Kalshi named Don Jr. a strategic adviser in January 2025 [10][11]. Later reporting, citing the NYT, says his pay included more than $300,000 in Kalshi shares [12].
@@ -34,12 +34,12 @@ Selig was confirmed as CFTC chair on Dec 18, 2025 by a 53-43 vote [9], so he did
 Neither role is a corporate board-of-directors seat. Both are adviser roles, so "on the board of both" is loose wording, though Polymarket does call it an advisory board. Both companies have been valued in the billions, so "multibillion-dollar" is consistent with reporting. The App Store finance-chart ranking was not independently verified.
 
 **4. Selig asked about the White House and the Polymarket probe: confirmed.**
-At a House Agriculture Committee hearing on April 16, 2026, Rep. Jim McGovern (D-Mass.) asked Selig whether anyone in the White House had asked the CFTC to drop an investigation into Polymarket [16][17][18]. Selig replied "we treat all market participants alike" and called the insinuation "insulting". McGovern answered: "It smells like corruption." The quotes match the transcript.
+At a House Agriculture Committee hearing on April 16, 2026, Rep. Jim McGovern (D-Mass.) asked Selig whether anyone in the White House had asked the CFTC to drop an investigation into Polymarket [16][17][18]. Selig replied "we treat all market participants alike" and called the insinuation "insulting". McGovern answered: "It smells like corruption." The quotes match the claim.
 
-Context the video omits: the DOJ and the CFTC had already closed their earlier probes into Polymarket (over US users getting around its geoblock) in July 2025, under Acting Chair Pham and before Selig took over [19][20]. Nothing found shows that the White House asked for any probe to be dropped. The exchange documents a question and a non-answer, not interference.
+Context often omitted: the DOJ and the CFTC had already closed their earlier probes into Polymarket (over US users getting around its geoblock) in July 2025, under Acting Chair Pham and before Selig took over [19][20]. Nothing found shows that the White House asked for any probe to be dropped. The exchange documents a question and a non-answer, not interference.
 
 **5. Kalshi CEO evasive on Don Jr.: partly verified.**
-Kalshi co-founder and CEO Tarek Mansour has been questioned repeatedly about Don Jr., including on The Axios Show in April 2026 [21]. His reported answers stress a politically diverse adviser roster, say that Kalshi "never asked for any favors", and describe Don Jr. as giving marketing advice [21][22]. The exact clip ("We have a lot of advisors") was not located in text form, so the wording is unverified, but the substance fits his reported answers.
+Kalshi co-founder and CEO Tarek Mansour has been questioned repeatedly about Don Jr., including on The Axios Show in April 2026 [21]. His reported answers stress a politically diverse adviser roster, say that Kalshi "never asked for any favors", and describe Don Jr. as giving marketing advice [21][22]. The exact quote ("We have a lot of advisors") was not located in text form, so the wording is unverified, but the substance fits his reported answers.
 
 **6. Trump's "major industry" post: confirmed.**
 On May 26, 2026, Trump posted on Truth Social that the CFTC's "exclusive authority over Prediction Markets" must be maintained and wrote: "It is a major industry, and we must protect it." In the same post he attacked Walz, Pritzker, Letitia James and Chris Christie [23][24][25]. The post followed Minnesota's ban on prediction markets.
@@ -54,7 +54,7 @@ The responses found are:
 No source found quotes Don Jr. calling it a "passing comment". The gist of a downplaying denial is supported, but that exact phrasing is unverified. The same reporting says the White House also directly contacted state officials about prediction markets [26][27].
 
 ## Corrections
-- "Mike selling" / "Seelig" should be Mike Selig. "CallSheet" should be Kalshi.
+- The CFTC chairman's name is Mike Selig (not "Seelig" or "Mike selling"), and the company's name is Kalshi (not "CallSheet").
 - Don Jr. is not on either company's board of directors. He is a strategic adviser to Kalshi and sits on Polymarket's advisory board, and his firm 1789 Capital invested in Polymarket.
 - Truth Predict was shelved before launch (Aug 2026). It did not launch and then fail.
 - The sports-as-swaps theory predates Selig: Kalshi's sports contracts launched in January 2025 under Acting Chair Pham. Selig became chair on Dec 18, 2025 and has been its leading enforcer since.
