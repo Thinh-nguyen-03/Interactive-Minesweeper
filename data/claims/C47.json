@@ -1,0 +1,835 @@
+{
+  "id": "C47",
+  "title": "Dominari's other deals: Tron/SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Every thread in the brief is documented. Dominari was exclusive placement agent on SRM Entertainment's June 2025 $100M (up to $210M) TRX treasury deal that made it Tron Inc. Eric Trump denies any role. Dominari controls 90% of the roughly $1B American Ventures, in which both sons are passive investors. The sons reportedly bought into Skyline Builders through a Dominari-linked SPV before Skyline took 20% of Cove's Kaz Resources, which holds up to $1.6B in non-binding EXIM/DFC letters of interest. The China-IPO scrutiny is a March 2026 House committee letter with no finding yet, and FINRA's October 2026 $800K Revere fine does not name Kyle Wool. No evidence shows the sons influenced any government decision.",
+  "sub_claims": [
+    {
+      "statement": "Dominari Securities arranged the SRM Entertainment to Tron Inc. reverse-merger treasury deal with Justin Sun.",
+      "verdict": "confirmed",
+      "finding": "On June 16, 2025, SRM announced a $100M Series B convertible preferred sale (convertible at $0.50) plus 220M warrants, up to $210M in total, to fund a TRX treasury. SRM was renamed Tron Inc., Sun became an adviser, and Dominari Securities was exclusive placement agent. SRM rose roughly 460-580%. The investor, Bravemorning, exercised $110M of warrants in September 2025, bringing its total to $210M and about 86.6% ownership. The claim that Sun's father, Weike Sun, got board control rests on a single source and is unverified.",
+      "sources": [
+        "https://www.nbcnewyork.com/news/business/money-report/justin-suns-tron-to-go-public-through-reverse-merger-in-deal-led-by-trump-linked-bank/6304541/",
+        "https://decrypt.co/325352/srm-stock-soars-580-justin-suns-tron-eyes-nasdaq-debut",
+        "https://cointelegraph.com/news/nasdaq-firm-tron-inc-210m-trx-treasury",
+        "https://www.barchart.com/story/news/34538833/tron-inc-expands-trx-treasury-with-110-000-000-new-investment-from-largest-shareholder"
+      ]
+    },
+    {
+      "statement": "Eric Trump is reportedly linked to the Tron deal and denies a role.",
+      "verdict": "confirmed",
+      "finding": "His documented link is the Dominari advisory board and his stake in Dominari. Early reports said he was expected to take a role at Tron Inc. In June 2025 he posted on X: 'I am not involved in Tron's public listing plans.' No filing names him at Tron Inc.",
+      "sources": [
+        "https://decrypt.co/325516/eric-trump-denies-involvement-tron-nasdaq-deal",
+        "https://cointelegraph.com/news/eric-trump-denies-tron-us-public-offering-justin-sun"
+      ]
+    },
+    {
+      "statement": "Dominari launched American Ventures, a roughly $1B microcap fund with Trump-son investors.",
+      "verdict": "mostly-accurate",
+      "finding": "American Ventures Management LLC is 90% owned by Dominari, according to a May 2026 SEC filing. The sons own about 12% of Dominari and, per the FT (May 2026), invested in most of the vehicles; amounts are undisclosed. Its stated focus is drones, AI and crypto. On June 25, 2026, Bloomberg reported hundreds of millions in unrealized, largely warrant-driven gains on at least 10 thinly traded microcaps, and Bloomberg Línea reported stake sales during media-driven price rises. '$1B' is the stated size, not confirmed capital raised.",
+      "sources": [
+        "https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps",
+        "https://www.en.politis.com.cy/news/world/1003684/trump-sons-invest-in-fund-targeting-drones-crypto-and-ai",
+        "https://thedeepdive.ca/trump-sons-dominari-microcap-fund/",
+        "https://www.bloomberglinea.com/mercados/un-fondo-de-los-hijos-de-trump-aprovecho-el-interes-mediatico-para-vender-acciones-a-los-inversores/"
+      ]
+    },
+    {
+      "statement": "Dominari was tied to the Skyline Builders / Cove Kaz Kazakhstan tungsten deal, which has up to $1.6B of US-government-linked financing.",
+      "verdict": "mostly-accurate",
+      "finding": "The FT (about May 2026) reported that the sons bought into Skyline (SKBL) in August 2025 through an SPV run by a Dominari subsidiary / American Ventures. Its sources were anonymous, and SEC filings do not name the brothers. Timeline: Sept. 22, 2025, Tokayev reportedly tells Trump Cove Kaz will get the project; Oct. 28, an almost $24M Skyline placement in which the sons reportedly added to their stake; Oct. 31, Skyline agrees to pay $20M for 20% of Kaz Resources; Nov. 6, the deal is signed; then EXIM issues a letter of interest for up to $900M and DFC letters for $700M, all non-binding. In May 2026 Cove sought about $400M more from the Pentagon's Office of Strategic Capital. Skyline and Cove Kaz signed a merger agreement to form Kaz Resources (KAZR) in August 2026. The FT found no evidence of foreknowledge or influence.",
+      "sources": [
+        "https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/",
+        "https://www.northernminer.com/news/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/1003890636/",
+        "https://www.intellinews.com/trump-sons-hold-stake-in-kazakh-tungsten-venture-backed-by-1-6bn-in-us-government-funds-440589/",
+        "https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/",
+        "https://www.bostonglobe.com/2026/06/28/world/trump-cut-billion-dollar-mining-deal-his-sons-stand-profit/",
+        "https://www.mining-technology.com/news/cove-kaz-skyline-sign-merger-agreement/"
+      ]
+    },
+    {
+      "statement": "The House China Select Committee is probing Chinese small-cap 'ramp-and-dump' IPOs that Dominari underwrote.",
+      "verdict": "confirmed",
+      "finding": "On March 8, 2026, Moolenaar and Khanna sent information-request letters to Dominari Securities, D. Boral Capital and Revere Securities, asking for records back to 2020. The committee says 11 of Dominari's 29 Chinese IPOs since 2020 fit a manipulative profile. These are letters, not subpoenas; one aggregator's subpoena claim is unconfirmed. No hearing, referral or finding had been located as of November 2026.",
+      "sources": [
+        "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-moolenaar-investigate-us-underwriters-helped-chinese-businesses-rip",
+        "https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/letter_dominari.pdf",
+        "https://www.caixinglobal.com/2026-03-11/us-lawmakers-probe-underwriters-over-chinese-ipo-manipulation-claims-102421674.html",
+        "https://www.barchart.com/story/news/768316/dominari-releases-letter-to-shareholders-and-clients"
+      ]
+    },
+    {
+      "statement": "FINRA fined Kyle Wool's former firm, Revere Securities.",
+      "verdict": "mostly-accurate",
+      "finding": "In October 2026 FINRA fined Revere $800,000 for AML and supervisory failures on foreign small-cap IPOs with ramp-and-dump hallmarks (about 60 IPOs since 2022). Revere did not admit or deny the findings. Wool was president of Revere Securities from about April to October 2022 and non-executive chairman until about April 2023, then became CEO of Dominari Securities in March 2023. The conduct period partly overlaps his tenure, but FINRA does not name him.",
+      "sources": [
+        "https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and",
+        "https://www.investmentexecutive.com/news/regulation/finra-sanctions-firm-for-foreign-small-cap-dealings/",
+        "https://www.marketscreener.com/quote/stock/DOMINARI-HOLDINGS-INC-58256244/news/Dominari-Holdings-Inc-Appoints-Kyle-Wool-as-CEO-of-Dominari-Securities-LLC-43945138/"
+      ]
+    }
+  ],
+  "corrections": [
+    "The $1.6B in 'US-government-linked financing' is non-binding letters of interest (EXIM up to $900M, DFC $700M), not disbursed funding. The project's development cost is about $1.1B.",
+    "Dominari's tie to the tungsten deal is indirect. The sons' Skyline stake reportedly went through a Dominari-subsidiary / American Ventures SPV, and Skyline then bought 20% of Kaz Resources.",
+    "The House committee action is information-request letters, not subpoenas or findings.",
+    "The FINRA action names Revere Securities, not Kyle Wool; whether the conduct overlaps his tenure is only partly established.",
+    "American Ventures' stated focus is drones, AI and crypto; 'microcap' describes what it holds, and '$1B' is its stated size."
+  ],
+  "denials_and_context": [
+    "Eric Trump: 'I'm the biggest fan of Tron… I am not involved in Tron's public listing plans.'",
+    "Trump Organization retraction demand to the NYT: suggestions of the brothers' involvement are 'categorically false, misleading and libelous'; they had 'absolutely no involvement in the award.' The NYT said the letter 'does not deny the main point of our story.'",
+    "Eric Trump says he is 'a passive investor with absolutely no management role'; a Don Jr. spokesman says he 'does not interface with the federal government on behalf of any company.' Both call themselves passive investors in American Ventures.",
+    "Cove CEO Pini Althaus credited support from President Trump, Rubio and Lutnick, but said he never spoke to either Trump brother.",
+    "White House: 'The only special interest guiding the Trump administration's decision-making is the best interest of the American people.'",
+    "Dominari (March 16, 2026) said it will cooperate with the committee, that IPOs are under 10% of its banking revenue, and that it stopped Chinese IPO work in 2024 and Hong Kong IPO work in mid-2025.",
+    "Revere settled with FINRA without admitting or denying the findings.",
+    "Oversight so far is from Democrats: Warren's letters to Lutnick, Hegseth and EXIM (July 2026), a Blumenthal-Schiff-Warren letter, and CREW FOIA requests. No outcomes were found.",
+    "intellinews.com, foxnews.com and FT mirror pages were blocked for direct fetch; findings rely on search excerpts across multiple outlets."
+  ],
+  "sources": [
+    {
+      "title": "Justin Sun's Tron to go public through reverse merger in deal led by Trump-linked bank",
+      "publisher": "NBC New York / CNBC",
+      "url": "https://www.nbcnewyork.com/news/business/money-report/justin-suns-tron-to-go-public-through-reverse-merger-in-deal-led-by-trump-linked-bank/6304541/",
+      "date": "2025-06-16"
+    },
+    {
+      "title": "SRM stock soars 580% as Justin Sun's Tron eyes Nasdaq debut",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/325352/srm-stock-soars-580-justin-suns-tron-eyes-nasdaq-debut",
+      "date": "2025-06-16"
+    },
+    {
+      "title": "Eric Trump denies involvement in Tron Nasdaq deal",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/325516/eric-trump-denies-involvement-tron-nasdaq-deal",
+      "date": "2025-06-17"
+    },
+    {
+      "title": "Eric Trump denies Tron US public offering",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/eric-trump-denies-tron-us-public-offering-justin-sun",
+      "date": "2025-06-17"
+    },
+    {
+      "title": "Nasdaq firm Tron Inc $210M TRX treasury",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/nasdaq-firm-tron-inc-210m-trx-treasury",
+      "date": "2025-06-16"
+    },
+    {
+      "title": "Tron Inc. expands TRX treasury with $110,000,000 new investment from largest shareholder",
+      "publisher": "Barchart / Business Wire",
+      "url": "https://www.barchart.com/story/news/34538833/tron-inc-expands-trx-treasury-with-110-000-000-new-investment-from-largest-shareholder",
+      "date": "2025-09"
+    },
+    {
+      "title": "Trump Sons Invested in Private Fund Making Millions on Microcaps",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Micro Caps, Macro Gains: Trump-Linked Fund Turns Warrants Into Paper Gains",
+      "publisher": "The Deep Dive",
+      "url": "https://thedeepdive.ca/trump-sons-dominari-microcap-fund/",
+      "date": "2026-06"
+    },
+    {
+      "title": "Trump Sons Invest in Fund Targeting Drones, Crypto and AI",
+      "publisher": "Politis (FT summary)",
+      "url": "https://www.en.politis.com.cy/news/world/1003684/trump-sons-invest-in-fund-targeting-drones-crypto-and-ai",
+      "date": "2026-05"
+    },
+    {
+      "title": "Un fondo de los hijos de Trump aprovechó el interés mediático para vender acciones a los inversores",
+      "publisher": "Bloomberg Línea",
+      "url": "https://www.bloomberglinea.com/mercados/un-fondo-de-los-hijos-de-trump-aprovecho-el-interes-mediatico-para-vender-acciones-a-los-inversores/",
+      "date": "2026-06"
+    },
+    {
+      "title": "Trump sons invested in US group developing $1.1B tungsten project in Kazakhstan: FT",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Trump sons invested in US group developing $1.1B tungsten project in Kazakhstan: FT",
+      "publisher": "Northern Miner",
+      "url": "https://www.northernminer.com/news/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/1003890636/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Trump sons hold stake in Kazakh tungsten venture backed by $1.6bn in US government funds",
+      "publisher": "bne Intellinews",
+      "url": "https://www.intellinews.com/trump-sons-hold-stake-in-kazakh-tungsten-venture-backed-by-1-6bn-in-us-government-funds-440589/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Pentagon may add $400 million to Kazakh tungsten project linked to Trump's sons",
+      "publisher": "Orda.kz",
+      "url": "https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Trump cut a billion-dollar mining deal. His sons stand to profit.",
+      "publisher": "Boston Globe / New York Times",
+      "url": "https://www.bostonglobe.com/2026/06/28/world/trump-cut-billion-dollar-mining-deal-his-sons-stand-profit/",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "'Libelous' NYT report tying Trump family to government-backed deal sparks legal demand",
+      "publisher": "Fox News",
+      "url": "https://www.foxnews.com/politics/libelous-nyt-report-tying-trump-family-government-backed-deal-sparks-legal-demand",
+      "date": "2026-07"
+    },
+    {
+      "title": "Cove Kaz, Skyline sign merger agreement",
+      "publisher": "Mining Technology",
+      "url": "https://www.mining-technology.com/news/cove-kaz-skyline-sign-merger-agreement/",
+      "date": "2026-08"
+    },
+    {
+      "title": "Warren questions agency heads following reports of Trump family ties to a $2 billion federal assistance package for Kazakhstan mining deal",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-questions-agency-heads-following-reports-of-trump-family-ties-to-a-2-billion-federal-assistance-package-for-kazakhstan-mining-deal",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "Blumenthal, Schiff and Warren raise concerns about taxpayer dollars toward critical mining companies linked to Trump, Lutnick families",
+      "publisher": "Office of Sen. Blumenthal",
+      "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-schiff-and-warren-raise-concerns-about-trump-administration-directing-taxpayer-dollars-toward-critical-mining-companies-linked-to-trump_lutnick-families",
+      "date": "2026-07"
+    },
+    {
+      "title": "CREW requests records on communications between Secretary Lutnick's and President Trump's adult children and the mining industry",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/foia-requests/crew-requests-records-on-communications-between-secretary-lutnicks-and-president-trumps-adult-children-and-the-mining-industry/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Khanna, Moolenaar investigate US underwriters that helped Chinese businesses rip off Americans",
+      "publisher": "House Select Committee on the CCP",
+      "url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-moolenaar-investigate-us-underwriters-helped-chinese-businesses-rip",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "Letter to Dominari Securities",
+      "publisher": "House Select Committee on the CCP",
+      "url": "https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/letter_dominari.pdf",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "US lawmakers probe underwriters over Chinese IPO manipulation claims",
+      "publisher": "Caixin Global",
+      "url": "https://www.caixinglobal.com/2026-03-11/us-lawmakers-probe-underwriters-over-chinese-ipo-manipulation-claims-102421674.html",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "Dominari releases letter to shareholders and clients",
+      "publisher": "Barchart",
+      "url": "https://www.barchart.com/story/news/768316/dominari-releases-letter-to-shareholders-and-clients",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "FINRA fines Revere Securities $800,000 for small-cap IPO-related AML and supervisory failures",
+      "publisher": "FINRA",
+      "url": "https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and",
+      "date": "2026-10"
+    },
+    {
+      "title": "FINRA sanctions firm for foreign, small-cap dealings",
+      "publisher": "Investment Executive",
+      "url": "https://www.investmentexecutive.com/news/regulation/finra-sanctions-firm-for-foreign-small-cap-dealings/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Dominari Holdings appoints Kyle Wool as CEO of Dominari Securities LLC",
+      "publisher": "MarketScreener",
+      "url": "https://www.marketscreener.com/quote/stock/DOMINARI-HOLDINGS-INC-58256244/news/Dominari-Holdings-Inc-Appoints-Kyle-Wool-as-CEO-of-Dominari-Securities-LLC-43945138/",
+      "date": "2023-03"
+    }
+  ],
+  "entities": [
+    {
+      "id": "dominari-holdings",
+      "name": "Dominari Holdings / Dominari Securities",
+      "type": "company",
+      "description": "Trump Tower-based boutique bank in which the Trump sons are advisers and hold about 12%."
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Dominari adviser and shareholder; investor in American Ventures and Skyline."
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Dominari adviser and shareholder; denies a role in Tron Inc."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president who struck the tungsten deal with Tokayev."
+    },
+    {
+      "id": "kyle-wool",
+      "name": "Kyle Wool",
+      "type": "person",
+      "description": "Dominari president and CEO of Dominari Securities; former Revere Securities president."
+    },
+    {
+      "id": "justin-sun",
+      "name": "Justin Sun",
+      "type": "person",
+      "description": "Tron founder, WLF investor, adviser to Tron Inc."
+    },
+    {
+      "id": "tron",
+      "name": "Tron",
+      "type": "company",
+      "description": "Justin Sun's blockchain; TRX is its token."
+    },
+    {
+      "id": "srm-entertainment",
+      "name": "SRM Entertainment / Tron Inc.",
+      "type": "company",
+      "description": "Nasdaq merchandise maker rebranded Tron Inc. with a TRX treasury."
+    },
+    {
+      "id": "bravemorning",
+      "name": "Bravemorning Ltd.",
+      "type": "company",
+      "description": "Private investor that put $210M into Tron Inc. and holds about 86.6%."
+    },
+    {
+      "id": "american-ventures",
+      "name": "American Ventures",
+      "type": "fund",
+      "description": "Roughly $1B Dominari-controlled (90%) investment vehicle; the Trump sons are passive investors."
+    },
+    {
+      "id": "skyline-builders",
+      "name": "Skyline Builders Group",
+      "type": "company",
+      "description": "Nasdaq-listed company (SKBL) that bought 20% of Kaz Resources and is merging with Cove Kaz."
+    },
+    {
+      "id": "cove-kaz-capital",
+      "name": "Cove Kaz Capital / Cove Capital",
+      "type": "company",
+      "description": "US group awarded the Kazakh tungsten project; CEO Pini Althaus."
+    },
+    {
+      "id": "kaz-resources",
+      "name": "Kaz Resources",
+      "type": "company",
+      "description": "Cove unit holding 70% of the Northern Katpar/Upper Kairakty tungsten deposits; post-merger ticker KAZR."
+    },
+    {
+      "id": "pini-althaus",
+      "name": "Pini Althaus",
+      "type": "person",
+      "description": "CEO of Cove Capital."
+    },
+    {
+      "id": "kassym-jomart-tokayev",
+      "name": "Kassym-Jomart Tokayev",
+      "type": "person",
+      "description": "President of Kazakhstan."
+    },
+    {
+      "id": "kazakhstan",
+      "name": "Kazakhstan",
+      "type": "country",
+      "description": "Host country of the tungsten project."
+    },
+    {
+      "id": "tau-ken-samruk",
+      "name": "Tau-Ken Samruk",
+      "type": "company",
+      "description": "Kazakh state miner holding 30% of the project."
+    },
+    {
+      "id": "exim-bank",
+      "name": "Export-Import Bank of the United States",
+      "type": "government",
+      "description": "Issued a letter of interest for up to $900M."
+    },
+    {
+      "id": "us-dfc",
+      "name": "US International Development Finance Corporation",
+      "type": "government",
+      "description": "Issued letters of interest for $700M."
+    },
+    {
+      "id": "office-of-strategic-capital",
+      "name": "Pentagon Office of Strategic Capital",
+      "type": "government",
+      "description": "Asked for about $400M more by Cove."
+    },
+    {
+      "id": "pentagon",
+      "name": "Pentagon",
+      "type": "government",
+      "description": "US Department of Defense."
+    },
+    {
+      "id": "howard-lutnick",
+      "name": "Howard Lutnick",
+      "type": "person",
+      "description": "Commerce Secretary credited by Cove; sits on the EXIM and DFC boards per CREW."
+    },
+    {
+      "id": "marco-rubio",
+      "name": "Marco Rubio",
+      "type": "person",
+      "description": "Secretary of State credited by Cove."
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senate Banking ranking member who questioned EXIM, Commerce and DoD."
+    },
+    {
+      "id": "crew",
+      "name": "CREW",
+      "type": "company",
+      "description": "Watchdog that filed FOIA requests on the mining deal."
+    },
+    {
+      "id": "house-select-committee-ccp",
+      "name": "House Select Committee on the CCP",
+      "type": "government",
+      "description": "Sent the March 2026 letters to IPO underwriters."
+    },
+    {
+      "id": "john-moolenaar",
+      "name": "John Moolenaar",
+      "type": "person",
+      "description": "Chair of the House China committee."
+    },
+    {
+      "id": "ro-khanna",
+      "name": "Ro Khanna",
+      "type": "person",
+      "description": "Ranking member of the House China committee."
+    },
+    {
+      "id": "d-boral-capital",
+      "name": "D. Boral Capital",
+      "type": "company",
+      "description": "Underwriter that also received a committee letter; co-led the sons' SPAC IPO."
+    },
+    {
+      "id": "revere-securities",
+      "name": "Revere Securities LLC",
+      "type": "company",
+      "description": "Broker-dealer fined $800K by FINRA; Wool's former firm."
+    },
+    {
+      "id": "finra",
+      "name": "FINRA",
+      "type": "government",
+      "description": "Self-regulatory broker-dealer regulator."
+    },
+    {
+      "id": "new-america-acquisition-i",
+      "name": "New America Acquisition I Corp",
+      "type": "company",
+      "description": "Trump sons' SPAC, co-led by Dominari and D. Boral (C27)."
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Sent the NYT a retraction demand."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Denied special-interest influence."
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture Sun invested in (C05)."
+    },
+    {
+      "id": "new-york-times",
+      "name": "New York Times",
+      "type": "media",
+      "description": "Reported the tungsten story on June 28, 2026."
+    },
+    {
+      "id": "financial-times",
+      "name": "Financial Times",
+      "type": "media",
+      "description": "Broke the Skyline/tungsten and American Ventures stories."
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg",
+      "type": "media",
+      "description": "Reported American Ventures' microcap gains."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "dominari-holdings",
+      "target": "srm-entertainment",
+      "label": "exclusive placement agent for TRX treasury deal",
+      "type": "commercial",
+      "date": "2025-06",
+      "amount_usd": 100000000
+    },
+    {
+      "source": "bravemorning",
+      "target": "srm-entertainment",
+      "label": "invested up to $210M, ~86.6% owner",
+      "type": "money",
+      "date": "2025-09",
+      "amount_usd": 210000000
+    },
+    {
+      "source": "justin-sun",
+      "target": "srm-entertainment",
+      "label": "adviser to Tron Inc.",
+      "type": "advisory",
+      "date": "2025-06"
+    },
+    {
+      "source": "srm-entertainment",
+      "target": "tron",
+      "label": "holds TRX treasury",
+      "type": "commercial",
+      "date": "2025-06"
+    },
+    {
+      "source": "eric-trump",
+      "target": "srm-entertainment",
+      "label": "denies involvement in listing",
+      "type": "commercial",
+      "date": "2025-06"
+    },
+    {
+      "source": "eric-trump",
+      "target": "dominari-holdings",
+      "label": "adviser and shareholder",
+      "type": "ownership",
+      "date": "2025-02"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "dominari-holdings",
+      "label": "adviser and shareholder",
+      "type": "ownership",
+      "date": "2025-02"
+    },
+    {
+      "source": "justin-sun",
+      "target": "world-liberty-financial",
+      "label": "invested $75M in",
+      "type": "money",
+      "date": "2025-01",
+      "amount_usd": 75000000
+    },
+    {
+      "source": "dominari-holdings",
+      "target": "american-ventures",
+      "label": "owns 90% of manager",
+      "type": "ownership",
+      "date": "2026-05"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "american-ventures",
+      "label": "passive investor in",
+      "type": "money",
+      "date": "2026"
+    },
+    {
+      "source": "eric-trump",
+      "target": "american-ventures",
+      "label": "passive investor in",
+      "type": "money",
+      "date": "2026"
+    },
+    {
+      "source": "american-ventures",
+      "target": "skyline-builders",
+      "label": "SPV through which the sons reportedly bought in",
+      "type": "money",
+      "date": "2025-08"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "skyline-builders",
+      "label": "reported indirect stake",
+      "type": "ownership",
+      "date": "2025-08"
+    },
+    {
+      "source": "eric-trump",
+      "target": "skyline-builders",
+      "label": "reported indirect stake",
+      "type": "ownership",
+      "date": "2025-08"
+    },
+    {
+      "source": "skyline-builders",
+      "target": "kaz-resources",
+      "label": "agreed to pay $20M for 20%",
+      "type": "money",
+      "date": "2025-10-31",
+      "amount_usd": 20000000
+    },
+    {
+      "source": "skyline-builders",
+      "target": "cove-kaz-capital",
+      "label": "merger agreement forming Kaz Resources (KAZR)",
+      "type": "commercial",
+      "date": "2026-08"
+    },
+    {
+      "source": "cove-kaz-capital",
+      "target": "kaz-resources",
+      "label": "parent of",
+      "type": "ownership"
+    },
+    {
+      "source": "tau-ken-samruk",
+      "target": "kaz-resources",
+      "label": "30% partner in tungsten project",
+      "type": "ownership"
+    },
+    {
+      "source": "exim-bank",
+      "target": "cove-kaz-capital",
+      "label": "non-binding letter of interest",
+      "type": "money",
+      "date": "2025-11",
+      "amount_usd": 900000000
+    },
+    {
+      "source": "us-dfc",
+      "target": "cove-kaz-capital",
+      "label": "non-binding letters of interest",
+      "type": "money",
+      "date": "2025-11",
+      "amount_usd": 700000000
+    },
+    {
+      "source": "cove-kaz-capital",
+      "target": "office-of-strategic-capital",
+      "label": "sought additional funding from",
+      "type": "money",
+      "date": "2026-05",
+      "amount_usd": 400000000
+    },
+    {
+      "source": "office-of-strategic-capital",
+      "target": "pentagon",
+      "label": "part of",
+      "type": "ownership"
+    },
+    {
+      "source": "kassym-jomart-tokayev",
+      "target": "cove-kaz-capital",
+      "label": "awarded tungsten project to",
+      "type": "political",
+      "date": "2025-11-06"
+    },
+    {
+      "source": "donald-trump",
+      "target": "kassym-jomart-tokayev",
+      "label": "struck tungsten deal with",
+      "type": "political",
+      "date": "2025-11-06"
+    },
+    {
+      "source": "pini-althaus",
+      "target": "cove-kaz-capital",
+      "label": "CEO of",
+      "type": "commercial"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "cove-kaz-capital",
+      "label": "credited by Cove with direct support",
+      "type": "political"
+    },
+    {
+      "source": "marco-rubio",
+      "target": "cove-kaz-capital",
+      "label": "credited by Cove with direct support",
+      "type": "political"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "exim-bank",
+      "label": "questioned on Kazakh financing",
+      "type": "regulatory",
+      "date": "2026-07-08"
+    },
+    {
+      "source": "crew",
+      "target": "howard-lutnick",
+      "label": "FOIA on mining communications",
+      "type": "legal",
+      "date": "2026-07"
+    },
+    {
+      "source": "trump-organization",
+      "target": "new-york-times",
+      "label": "demanded retraction of tungsten story",
+      "type": "legal",
+      "date": "2026-07"
+    },
+    {
+      "source": "house-select-committee-ccp",
+      "target": "dominari-holdings",
+      "label": "information-request letter on Chinese IPOs",
+      "type": "regulatory",
+      "date": "2026-03-08"
+    },
+    {
+      "source": "house-select-committee-ccp",
+      "target": "d-boral-capital",
+      "label": "information-request letter on Chinese IPOs",
+      "type": "regulatory",
+      "date": "2026-03-08"
+    },
+    {
+      "source": "house-select-committee-ccp",
+      "target": "revere-securities",
+      "label": "information-request letter on Chinese IPOs",
+      "type": "regulatory",
+      "date": "2026-03-08"
+    },
+    {
+      "source": "john-moolenaar",
+      "target": "house-select-committee-ccp",
+      "label": "chair of",
+      "type": "political"
+    },
+    {
+      "source": "ro-khanna",
+      "target": "house-select-committee-ccp",
+      "label": "ranking member of",
+      "type": "political"
+    },
+    {
+      "source": "finra",
+      "target": "revere-securities",
+      "label": "fined for AML/supervisory failures",
+      "type": "regulatory",
+      "date": "2026-10",
+      "amount_usd": 800000
+    },
+    {
+      "source": "kyle-wool",
+      "target": "revere-securities",
+      "label": "former president/chairman (2021-2023)",
+      "type": "commercial",
+      "date": "2022"
+    },
+    {
+      "source": "kyle-wool",
+      "target": "dominari-holdings",
+      "label": "president; CEO of Dominari Securities",
+      "type": "commercial",
+      "date": "2023-03"
+    },
+    {
+      "source": "dominari-holdings",
+      "target": "new-america-acquisition-i",
+      "label": "co-led IPO",
+      "type": "commercial",
+      "date": "2025-12"
+    },
+    {
+      "source": "d-boral-capital",
+      "target": "new-america-acquisition-i",
+      "label": "co-led IPO",
+      "type": "commercial",
+      "date": "2025-12"
+    },
+    {
+      "source": "financial-times",
+      "target": "skyline-builders",
+      "label": "reported Trump sons' stake",
+      "type": "media",
+      "date": "2026-05"
+    },
+    {
+      "source": "bloomberg",
+      "target": "american-ventures",
+      "label": "reported microcap paper gains",
+      "type": "media",
+      "date": "2026-06-25"
+    },
+    {
+      "source": "white-house",
+      "target": "cove-kaz-capital",
+      "label": "denied special-interest influence on deal",
+      "type": "political",
+      "date": "2026-06"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Pentagon Office of Strategic Capital request of about $400M for the Trump-sons-linked Kazakh tungsten project",
+      "why_connected": "Additional US defense funding sought by Cove after the $1.6B in letters of interest; the outcome is unknown.",
+      "entities": [
+        "cove-kaz-capital",
+        "office-of-strategic-capital",
+        "donald-trump-jr",
+        "eric-trump"
+      ],
+      "source_url": "https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/"
+    },
+    {
+      "title": "Trump and Lutnick family ties to at least 14 critical-minerals companies working with the federal government",
+      "why_connected": "The NYT's broader finding beyond Kazakhstan; Lutnick sits on the EXIM and DFC boards, which issued the tungsten letters of interest.",
+      "entities": [
+        "howard-lutnick",
+        "donald-trump-jr",
+        "eric-trump",
+        "exim-bank",
+        "us-dfc"
+      ],
+      "source_url": "https://www.bostonglobe.com/2026/06/28/world/trump-cut-billion-dollar-mining-deal-his-sons-stand-profit/"
+    },
+    {
+      "title": "Senate Banking (Warren) questions to EXIM on the Kazakh financing and its unanswered conflict-of-interest responses",
+      "why_connected": "Congressional oversight of the US financing behind the Trump-sons-linked deal; EXIM's May 22, 2026 reply was called inadequate.",
+      "entities": [
+        "elizabeth-warren",
+        "exim-bank",
+        "howard-lutnick"
+      ],
+      "source_url": "https://www.banking.senate.gov/newsroom/minority/warren-questions-agency-heads-following-reports-of-trump-family-ties-to-a-2-billion-federal-assistance-package-for-kazakhstan-mining-deal"
+    },
+    {
+      "title": "American Ventures stake sales during media-driven microcap rallies",
+      "why_connected": "Bloomberg Línea reports that the Dominari/Trump-sons vehicle sold some stakes while promotion lifted prices, which may warrant a market-conduct check.",
+      "entities": [
+        "american-ventures",
+        "dominari-holdings",
+        "donald-trump-jr",
+        "eric-trump"
+      ],
+      "source_url": "https://www.bloomberglinea.com/mercados/un-fondo-de-los-hijos-de-trump-aprovecho-el-interes-mediatico-para-vender-acciones-a-los-inversores/"
+    }
+  ]
+}
