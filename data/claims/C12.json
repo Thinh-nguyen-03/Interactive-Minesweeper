@@ -1,0 +1,378 @@
+{
+  "id": "C12",
+  "title": "WLF bank charter from the OCC",
+  "verdict": "mostly-accurate",
+  "confidence": "high",
+  "summary": "WLF's subsidiary WLTC Holdings applied to the OCC in January 2026 for a national trust bank charter, World Liberty Trust Co., N.A., to issue and custody USD1. The OCC granted preliminary conditional approval on 14 Aug 2026 (CD #1385), and the president does appoint the OCC's head, Comptroller Jonathan Gould. Two details are off: there was one application, not several 'charters', and the 'career staff' line comes mainly from the OCC's own approval letter, while WLF (Zach Witkoff) issued a general denial of favoritism.",
+  "sub_claims": [
+    {
+      "statement": "World Liberty is applying for bank charters.",
+      "verdict": "confirmed",
+      "finding": "WLTC Holdings LLC filed a single de novo national trust bank charter application with the OCC (dated 2026-01-05, announced 2026-01-07). The proposed bank would issue, redeem and custody USD1, would carry no FDIC insurance, and would not take deposits or make loans. The video's plural 'charters' overstates it.",
+      "sources": [
+        "https://secure.businesswire.com/news/home/20260107876750/en/World-Liberty-Financial-Announces-that-WLTC-Holdings-LLC-has-Submitted-an-Application-for-a-National-Trust-Bank-Charter-to-Issue-and-Custody-USD1-Stablecoins",
+        "https://www.theblock.co/news/business/2026-01-07-trump-backed-world-liberty-financial-seeks-us-bank-charter-to-bring-usd1-stablecoin-fully-onshore-384708",
+        "https://www.occ.gov/topics/charters-and-licensing/public-comment/world-liberty-trust-company-n-a.pdf"
+      ]
+    },
+    {
+      "statement": "WLF was provisionally approved.",
+      "verdict": "confirmed",
+      "finding": "The OCC granted preliminary conditional approval on 2026-08-14 (Corporate Decision #1385), about 221 days after filing. Conditions include at least $20M of tier 1 capital and liquid assets equal to the greater of $10M or 50% of that capital. The capital is due within 12 months and the bank must open within 18 months. The approval is not final and can be rescinded.",
+      "sources": [
+        "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf",
+        "https://foxbusiness.com/politics/trump-linked-world-liberty-crypto-venture-gets-preliminary-approval-from-currency-comptroller",
+        "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+        "https://www.crowdfundinsider.com/2026/08/297127-world-liberty-trust-company-secures-preliminary-conditional-approval-for-national-trust-bank-charter-from-occ/"
+      ]
+    },
+    {
+      "statement": "The president appoints the head of the OCC, which regulates the bank.",
+      "verdict": "confirmed",
+      "finding": "The Comptroller is nominated by the president and confirmed by the Senate for a 5-year term. Trump nominated Jonathan Gould, who was confirmed 50-45 on 2025-07-10 on a party-line vote. The OCC would charter and supervise the trust bank.",
+      "sources": [
+        "https://www.bankingdive.com/news/occ-jonathan-gould-confirmed-senate-banking-hood/752743/",
+        "https://www.pymnts.com/legal/2025/senate-confirms-jonathan-gould-comptroller-currency-occ/"
+      ]
+    },
+    {
+      "statement": "The company benefits the president.",
+      "verdict": "confirmed",
+      "finding": "The Trump family holds a large WLF stake; one outlet reported the family owns 38.25% of the bank (exact figure not verified against a primary filing). CD #1385 lists passivity commitments from affiliated investors, including DT Marks SC LLC and StringZ Holding RSC (DE) LLC. Warren asked whether a UAE company was a principal shareholder; who owns StringZ was not verified.",
+      "sources": [
+        "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf",
+        "https://www.newsweek.com/elizabeth-warren-trump-crypto-bank-approval-ethics-bill-12329410",
+        "https://www.banking.senate.gov/imo/media/doc/20260226lettertoocccomptrollergouldrewlfuaeapplication.pdf"
+      ]
+    },
+    {
+      "statement": "WLF denies special treatment and says the approval was conducted by career staffers.",
+      "verdict": "partly-accurate",
+      "finding": "Zach Witkoff denied favoritism and said WLF welcomes 'continuous scrutiny from federal regulators.' The 'career OCC staff reviewed the application' language is in the OCC's decision letter, which also rejected the conflict-of-interest comments and said nonpolitical examiners would supervise the bank. No primary WLF quote crediting career staff was found.",
+      "sources": [
+        "https://foxbusiness.com/politics/trump-linked-world-liberty-crypto-venture-gets-preliminary-approval-from-currency-comptroller",
+        "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+        "https://cryptorank.io/news/feed/c622a-world-liberty-ceo-denies-favoritism-claims-usd1-charter"
+      ]
+    }
+  ],
+  "corrections": [
+    "Transcript says 'bank charters' (plural); the record shows one OCC national trust bank charter application by WLTC Holdings LLC for World Liberty Trust Company, N.A.",
+    "Transcript attributes the 'career staffers' claim to WLF; the record shows it appears in the OCC's own preliminary conditional approval letter (CD #1385), and WLF's public response was a general denial of favoritism.",
+    "The charter is a limited-purpose trust charter (no deposits, no lending, no FDIC insurance), and the approval is conditional, not final."
+  ],
+  "denials_and_context": [
+    "The OCC says career staff reviewed the application under statutory criteria, rejected conflict-of-interest objections as grounds for denial, and says nonpolitical examiners will supervise the bank.",
+    "Comptroller Gould refused Sen. Warren's Jan 2026 request to pause the review until Trump divests, calling the charter process 'apolitical and nonpartisan.'",
+    "Zach Witkoff denies favoritism and says the charter ensures permanent OCC supervision that 'will outlast the Trump administration.'",
+    "Context: in Dec 2025 the OCC conditionally approved similar crypto trust charters for Circle, Ripple, BitGo, Fidelity Digital Assets and Paxos, so WLF's approval fits a broader policy, though critics say Gould pushed charters that career staff once viewed skeptically.",
+    "Critics include Warren, NCRC, Americans for Financial Reform and House Democrats. On 2026-08-15 Warren and colleagues introduced the Ending Presidential Corruption in Banking Act (S. 5389) to bar such approvals and end this charter.",
+    "The video's 'never seen anything like this' is opinion, not a checkable fact."
+  ],
+  "sources": [
+    {
+      "title": "World Liberty Financial Announces that WLTC Holdings LLC has Submitted an Application for a National Trust Bank Charter",
+      "publisher": "Business Wire",
+      "url": "https://secure.businesswire.com/news/home/20260107876750/en/World-Liberty-Financial-Announces-that-WLTC-Holdings-LLC-has-Submitted-an-Application-for-a-National-Trust-Bank-Charter-to-Issue-and-Custody-USD1-Stablecoins",
+      "date": "2026-01-07"
+    },
+    {
+      "title": "Trump-backed World Liberty Financial seeks US bank charter to bring USD1 stablecoin fully onshore",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2026-01-07-trump-backed-world-liberty-financial-seeks-us-bank-charter-to-bring-usd1-stablecoin-fully-onshore-384708",
+      "date": "2026-01-07"
+    },
+    {
+      "title": "Application to organize World Liberty Trust Company, N.A.",
+      "publisher": "OCC",
+      "url": "https://www.occ.gov/topics/charters-and-licensing/public-comment/world-liberty-trust-company-n-a.pdf",
+      "date": "2026-01-05"
+    },
+    {
+      "title": "Corporate Decision #1385",
+      "publisher": "OCC",
+      "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump-linked World Liberty crypto venture gets preliminary approval from currency comptroller",
+      "publisher": "Fox Business",
+      "url": "https://foxbusiness.com/politics/trump-linked-world-liberty-crypto-venture-gets-preliminary-approval-from-currency-comptroller",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "World Liberty Trust Company Secures Preliminary Conditional Approval",
+      "publisher": "Crowdfund Insider",
+      "url": "https://www.crowdfundinsider.com/2026/08/297127-world-liberty-trust-company-secures-preliminary-conditional-approval-for-national-trust-bank-charter-from-occ/",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Senate confirms Jonathan Gould as comptroller",
+      "publisher": "Banking Dive",
+      "url": "https://www.bankingdive.com/news/occ-jonathan-gould-confirmed-senate-banking-hood/752743/",
+      "date": "2025-07-10"
+    },
+    {
+      "title": "Senate Confirms Jonathan Gould as Comptroller of the Currency",
+      "publisher": "PYMNTS",
+      "url": "https://www.pymnts.com/legal/2025/senate-confirms-jonathan-gould-comptroller-currency-occ/",
+      "date": "2025-07-10"
+    },
+    {
+      "title": "Warren presses Gould on World Liberty charter application",
+      "publisher": "Banking Dive",
+      "url": "https://www.bankingdive.com/news/warren-gould-occ-world-liberty-charter-application/813335/",
+      "date": "2026-01-13"
+    },
+    {
+      "title": "Warren letter to Comptroller Gould re WLF UAE application",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/imo/media/doc/20260226lettertoocccomptrollergouldrewlfuaeapplication.pdf",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "Elizabeth Warren Trump crypto bank approval ethics bill",
+      "publisher": "Newsweek",
+      "url": "https://www.newsweek.com/elizabeth-warren-trump-crypto-bank-approval-ethics-bill-12329410",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "World Liberty CEO denies favoritism claims over USD1 charter",
+      "publisher": "CryptoRank",
+      "url": "https://cryptorank.io/news/feed/c622a-world-liberty-ceo-denies-favoritism-claims-usd1-charter",
+      "date": "2026-08"
+    },
+    {
+      "title": "Warren statement on OCC proceeding with review of WLF bank charter application",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-statement-on-occs-proceeding-with-review-of-bank-charter-application-submitted-by-trumps-crypto-company-world-liberty-financial",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "Warren and colleagues to introduce the Ending Presidential Corruption in Banking Act",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/newsroom/minority/following-approval-of-trump-crypto-company-bank-application-warren-and-colleagues-to-introduce-the-ending-presidential-corruption-in-banking-act",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "NCRC Urges OCC To Reject World Liberty Holdings' Bank Charter Application",
+      "publisher": "NCRC",
+      "url": "https://ncrc.org/ncrc-urges-occ-to-reject-world-liberty-holdings-bank-charter-application/",
+      "date": "2026"
+    }
+  ],
+  "entities": [
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family-linked crypto venture; issuer of USD1"
+    },
+    {
+      "id": "wltc-holdings",
+      "name": "WLTC Holdings LLC",
+      "type": "company",
+      "description": "WLF subsidiary that filed the OCC trust bank charter application"
+    },
+    {
+      "id": "world-liberty-trust-company",
+      "name": "World Liberty Trust Company, N.A.",
+      "type": "company",
+      "description": "Proposed national trust bank to issue and custody USD1; conditionally approved 2026-08-14"
+    },
+    {
+      "id": "occ",
+      "name": "Office of the Comptroller of the Currency",
+      "type": "government",
+      "description": "Federal bank regulator that charters and supervises national banks"
+    },
+    {
+      "id": "jonathan-gould",
+      "name": "Jonathan Gould",
+      "type": "person",
+      "description": "Comptroller of the Currency, Trump nominee confirmed July 2025"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "U.S. president; nominated the Comptroller; family holds WLF stake"
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF co-founder/CEO; denied favoritism in the charter process"
+    },
+    {
+      "id": "dt-marks-sc",
+      "name": "DT Marks SC LLC",
+      "type": "company",
+      "description": "Trump-affiliated investor entity giving passivity commitments in CD #1385"
+    },
+    {
+      "id": "stringz-holding",
+      "name": "StringZ Holding RSC (DE) LLC",
+      "type": "company",
+      "description": "Investor giving passivity commitments in CD #1385; ownership not verified"
+    },
+    {
+      "id": "usd1",
+      "name": "USD1",
+      "type": "asset",
+      "description": "WLF dollar stablecoin the trust bank would issue and custody"
+    },
+    {
+      "id": "bitgo",
+      "name": "BitGo Bank and Trust",
+      "type": "company",
+      "description": "Current USD1 custodian, to be replaced by WLTC"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senate Banking ranking member; opposed the charter"
+    },
+    {
+      "id": "us-congress",
+      "name": "U.S. Congress",
+      "type": "government",
+      "description": "Senate confirmed Gould; Democrats introduced S. 5389"
+    },
+    {
+      "id": "ending-presidential-corruption-in-banking-act",
+      "name": "Ending Presidential Corruption in Banking Act (S. 5389)",
+      "type": "law",
+      "description": "Bill introduced 2026-08-15 to bar bank approvals for firms owned by senior officials"
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "Warren asked whether a UAE company was a principal shareholder of the proposed bank"
+    },
+    {
+      "id": "wlf-trust-charter-approval",
+      "name": "OCC preliminary conditional approval (CD #1385)",
+      "type": "event",
+      "description": "2026-08-14 approval of World Liberty Trust Co. charter"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "world-liberty-financial",
+      "target": "wltc-holdings",
+      "label": "parent of",
+      "type": "ownership",
+      "date": "2026-01"
+    },
+    {
+      "source": "wltc-holdings",
+      "target": "occ",
+      "label": "applied for national trust bank charter to",
+      "type": "regulatory",
+      "date": "2026-01-05"
+    },
+    {
+      "source": "occ",
+      "target": "world-liberty-trust-company",
+      "label": "granted preliminary conditional approval to",
+      "type": "regulatory",
+      "date": "2026-08-14"
+    },
+    {
+      "source": "donald-trump",
+      "target": "jonathan-gould",
+      "label": "nominated as Comptroller",
+      "type": "political",
+      "date": "2025-02"
+    },
+    {
+      "source": "us-congress",
+      "target": "jonathan-gould",
+      "label": "Senate confirmed 50-45",
+      "type": "political",
+      "date": "2025-07-10"
+    },
+    {
+      "source": "jonathan-gould",
+      "target": "occ",
+      "label": "heads",
+      "type": "regulatory",
+      "date": "2025-07"
+    },
+    {
+      "source": "donald-trump",
+      "target": "world-liberty-financial",
+      "label": "family holds stake in",
+      "type": "ownership"
+    },
+    {
+      "source": "dt-marks-sc",
+      "target": "world-liberty-trust-company",
+      "label": "investor giving passivity commitments in",
+      "type": "ownership",
+      "date": "2026-08-14"
+    },
+    {
+      "source": "stringz-holding",
+      "target": "world-liberty-trust-company",
+      "label": "investor giving passivity commitments in",
+      "type": "ownership",
+      "date": "2026-08-14"
+    },
+    {
+      "source": "world-liberty-trust-company",
+      "target": "usd1",
+      "label": "to issue and custody",
+      "type": "commercial"
+    },
+    {
+      "source": "bitgo",
+      "target": "usd1",
+      "label": "current custodian of",
+      "type": "commercial"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "world-liberty-financial",
+      "label": "co-founder/CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "occ",
+      "label": "demanded pause of WLF review (refused)",
+      "type": "political",
+      "date": "2026-01-13"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "ending-presidential-corruption-in-banking-act",
+      "label": "introduced",
+      "type": "political",
+      "date": "2026-08-15"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "uae",
+      "label": "questioned UAE shareholder in WLF bank application",
+      "type": "political",
+      "date": "2026-02-26"
+    },
+    {
+      "source": "occ",
+      "target": "wlf-trust-charter-approval",
+      "label": "issued",
+      "type": "regulatory",
+      "date": "2026-08-14"
+    }
+  ]
+}

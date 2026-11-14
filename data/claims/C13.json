@@ -1,0 +1,497 @@
+{
+  "id": "C13",
+  "title": "ALT5 Sigma $1.5B WLFI treasury deal",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "WLF and Nasdaq-listed ALT5 Sigma did announce a $1.5B WLFI-treasury deal on Aug 11, 2025. Reporting does say about $500M went to a Trump-family entity (DT Marks DEFI LLC) and about $90M to the Witkoffs, but these are journalists' estimates from the 75% token-sale-proceeds entitlement, not audited payment records. ALT5's stock lost roughly 90-96% from its pre-deal price, and the company renamed itself AI Financial Corporation (AIFC) in April 2026. The weakest part is 'run by the same people': WLF insiders control ALT5's board, starting with chairman Zach Witkoff, but its CEOs have come from outside WLF.",
+  "sub_claims": [
+    {
+      "statement": "World Liberty announced a $1.5 billion deal with ALT5 Sigma.",
+      "verdict": "confirmed",
+      "finding": "Announced Aug 11, 2025: 200M ALT5 shares at $7.50 in a registered direct offering plus a concurrent private placement, with WLF as lead investor. About $750M was paid in WLFI tokens (priced at $0.20) and about $750M in cash from outside investors, which went mostly to buying WLFI from WLF. Strictly, the $1.5B was ALT5's raise with WLF as lead investor. It was not WLF itself 'going to the stock markets'.",
+      "sources": [
+        "https://www.theblock.co/news/deals/2025-08-11-alt5-sigma-wlfi-token-treasury-strategy-eric-trump-366348",
+        "https://fortune.com/crypto/2025/08/11/world-liberty-financial-1-5-billion-alt5-sigma-alts-crypto-treasury-company-trump/",
+        "https://www.businesswire.com/news/home/20250811959222/en/ALT5-Sigma-Corporation-Announces-$1.5-Billion-Registered-Direct-"
+      ]
+    },
+    {
+      "statement": "The deal reportedly made $500 million for a Trump family-owned entity.",
+      "verdict": "mostly-accurate",
+      "finding": "The WSJ (Aug 31, 2025) said the deal 'stands to earn over half a billion dollars' for the Trump family. CNBC (June 9, 2026) said company disclosures show the family was 'entitled to roughly $500 million'. The entity is DT Marks DEFI LLC, which under WLF's token-offering documents gets 75% of net token-sale proceeds. The figure is an estimate after fees; no filing shows the actual amount paid. 'Reportedly' is the right qualifier.",
+      "sources": [
+        "https://www-web.itiger.com/news/2563830850",
+        "https://www.cnbc.com/2026/06/09/trump-world-liberty-financial-crypto-alt5-sigma.html",
+        "https://seekingalpha.com/news/4491102-trump-family-set-to-land-500m-payday-via-circular-wlfi-deal---report",
+        "https://www.pogo.org/investigates/no-sec-probe-of-trump-crypto-deal-despite-alleged-illegality"
+      ]
+    },
+    {
+      "statement": "The deal reportedly made $90 million for the Witkoff family.",
+      "verdict": "partly-accurate",
+      "finding": "Coverage of a Feb 2026 WSJ feature (via crypto.news and Benzinga) says 'more than $500 million flowed to Trump entities and $90 million to Witkoffs through this structure'. I could not read the WSJ text myself, so this rests on secondary reporting. Separately, the same WSJ reporting puts total Witkoff earnings from WLF at $200M or more.",
+      "sources": [
+        "https://crypto.news/world-liberty-crypto-deals-net-trump-witkoff-tons-cash/",
+        "https://www.benzinga.com/crypto/cryptocurrency/26/02/50477908/trump-family-affiliated-world-liberty-financial-generated-1-4-billion-in-16-months",
+        "https://www.tokenpost.com/news/business/56914"
+      ]
+    },
+    {
+      "statement": "ALT5 Sigma is run by the same people who run World Liberty Financial.",
+      "verdict": "partly-accurate",
+      "finding": "There is real overlap at board level. WLF CEO Zach Witkoff became ALT5's chairman, Eric Trump was announced as a director, and WLF co-founder Zak Folkman later joined as a director (some reports call Trump and Folkman board observers). Executive management did not come from WLF: CEO Peter Tassiopoulos (suspended Oct 2025), then acting CEO Jonathan Hugh, then Tony Isaac. 'Controlled at board level by WLF insiders' is accurate. 'Run by the same people' overstates it.",
+      "sources": [
+        "https://www.theblock.co/news/deals/2025-08-11-alt5-sigma-wlfi-token-treasury-strategy-eric-trump-366348",
+        "https://ng.investing.com/news/sec-filings/alt5-sigma-suspends-ceo-peter-tassiopoulos-appoints-jonathan-hugh-as-acting-chief-93CH-2159130",
+        "https://cryptorank.io/news/feed/b10a6-trump-linked-crypto-firm-alt5-sigma-fires-ceo-and-coo-amid-legal-scrutiny"
+      ]
+    },
+    {
+      "statement": "ALT5 Sigma stock fell about 94% in one year.",
+      "verdict": "confirmed",
+      "finding": "Outlets report declines of 90-96% depending on start and end dates. Protos measures from $8.97 before the deal to $0.35 (about 96%). Bloomberg Law (July 30, 2026) calls it a '90% rout', and TipRanks shows about 92%. About 94% is within that range.",
+      "sources": [
+        "https://protos.com/trump-associated-alt5-sigma-down-96-since-wlfi-deal/",
+        "https://news.bloomberglaw.com/banking-law/trump-family-crypto-deal-ends-in-a-90-rout-for-alt5-investors",
+        "https://www.tipranks.com/stocks/aifc/stock-analysis"
+      ]
+    },
+    {
+      "statement": "ALT5 rebranded from crypto to AI and is now AI Financial Corporation.",
+      "verdict": "confirmed",
+      "finding": "The name changed on April 28, 2026, through a short-form merger, and the stock began trading as Nasdaq: AIFC on April 29, 2026. The company's own filing says it does not currently offer AI-enabled financial services. It is still a WLFI treasury and payments company, and in May 2026 it posted a $271M quarterly loss with a going-concern warning (a warning it later said had been mitigated).",
+      "sources": [
+        "https://www.boardroomalpha.com/sec/aifc-8-k-2026-05-04-0001493152-26-020950",
+        "https://www.newswire.com/news/ai-financial-corporation-formerly-alt5-sigma-begins-trading-under-new-nasdaq",
+        "https://www.theblock.co/news/business/2026-05-19-wlfi-treasury-ai-financial-posts-loss-401788"
+      ]
+    },
+    {
+      "statement": "The SEC, whose leadership the president appoints, is the regulator that would have to act, implying it won't.",
+      "verdict": "unverified",
+      "finding": "This is commentary, not a checkable fact. POGO reports the SEC has not opened a probe despite a shareholder suit (in Nevada state court) alleging 'illegality' and 'unjust enrichment'. Gizmodo reports that suit was later withdrawn with prejudice. Former regulators quoted by the WSJ said the deal likely complies with securities law if it is fully disclosed. No evidence of political interference by the SEC was found.",
+      "sources": [
+        "https://www.pogo.org/investigates/no-sec-probe-of-trump-crypto-deal-despite-alleged-illegality",
+        "https://gizmodo.com/legal-experts-are-alarmed-the-sec-isnt-investigating-trump-linked-crypto-venture-2000802953",
+        "https://www-web.itiger.com/news/2563830850"
+      ]
+    }
+  ],
+  "corrections": [
+    "The transcript says 'when World Liberty went to the stock markets'. In fact ALT5 Sigma, an already-listed Nasdaq company, raised up to $1.5B, with WLF as lead investor contributing about $750M in WLFI tokens. The other roughly $750M was cash from outside investors.",
+    "The transcript says ALT5 is 'run by the same people who run World Liberty Financial'. WLF insiders sit on ALT5's board (Zach Witkoff is chairman; Eric Trump and Zak Folkman are director or observer), but its CEOs (Tassiopoulos, Hugh, Tony Isaac) were not WLF executives.",
+    "The $500M (Trump) and $90M (Witkoff) figures are journalists' estimates of entitlements from token-sale proceeds (DT Marks DEFI gets 75%), not documented payments.",
+    "The stock decline is reported as 90-96% depending on dates; about 94% is consistent with that."
+  ],
+  "denials_and_context": [
+    "A Trump Organization spokesperson said Eric Trump and Donald Trump Jr. have no involvement in ALT5 and no visibility into the company, as quoted in coverage of the CNBC/Bloomberg reporting.",
+    "The White House denies conflicts of interest. It says the president's assets are in a trust managed by his children and that the companies operate independently.",
+    "WLF rejects allegations of improper conduct and says it followed the required regulatory procedures.",
+    "Former regulators quoted by the WSJ said the insider deal would once have drawn scrutiny but likely complies with securities law if fully disclosed.",
+    "In Aug 2025 ALT5 denied reports that the SEC was probing investor Jon Isaac. The Nevada shareholder suit was reportedly withdrawn with prejudice.",
+    "The company had a separate governance crisis: the CEO was suspended in Oct 2025, the acting CEO and COO were removed in Nov 2025, and a Rwandan court case involved a company principal. These events are independent of the Trump-family payments."
+  ],
+  "sources": [
+    {
+      "title": "ALT5 Sigma to raise $1.5 billion for WLFI token treasury strategy, to add Eric Trump to board",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/deals/2025-08-11-alt5-sigma-wlfi-token-treasury-strategy-eric-trump-366348",
+      "date": "2025-08-11"
+    },
+    {
+      "title": "World Liberty Financial $1.5 billion ALT5 Sigma crypto treasury company",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/crypto/2025/08/11/world-liberty-financial-1-5-billion-alt5-sigma-alts-crypto-treasury-company-trump/",
+      "date": "2025-08-11"
+    },
+    {
+      "title": "ALT5 Sigma Corporation Announces $1.5 Billion Registered Direct Offering",
+      "publisher": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20250811959222/en/ALT5-Sigma-Corporation-Announces-$1.5-Billion-Registered-Direct-",
+      "date": "2025-08-11"
+    },
+    {
+      "title": "The Trumps' New Crypto Money Maker: Deals With Themselves (WSJ, syndicated)",
+      "publisher": "Wall Street Journal via Tiger Brokers",
+      "url": "https://www-web.itiger.com/news/2563830850",
+      "date": "2025-08-31"
+    },
+    {
+      "title": "Trump family set to land $500M payday via circular WLFI deal - report",
+      "publisher": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4491102-trump-family-set-to-land-500m-payday-via-circular-wlfi-deal---report",
+      "date": null
+    },
+    {
+      "title": "Alt5 Sigma suspends CEO Peter Tassiopoulos, appoints Jonathan Hugh as acting chief",
+      "publisher": "Investing.com",
+      "url": "https://ng.investing.com/news/sec-filings/alt5-sigma-suspends-ceo-peter-tassiopoulos-appoints-jonathan-hugh-as-acting-chief-93CH-2159130",
+      "date": "2025-10-16"
+    },
+    {
+      "title": "Trump-linked crypto firm ALT5 Sigma fires CEO and COO amid legal scrutiny",
+      "publisher": "CryptoRank",
+      "url": "https://cryptorank.io/news/feed/b10a6-trump-linked-crypto-firm-alt5-sigma-fires-ceo-and-coo-amid-legal-scrutiny",
+      "date": null
+    },
+    {
+      "title": "Trump Family-Affiliated World Liberty Financial Generated $1.4 Billion In 16 Months",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/02/50477908/trump-family-affiliated-world-liberty-financial-generated-1-4-billion-in-16-months",
+      "date": null
+    },
+    {
+      "title": "World Liberty crypto deals net Trump, Witkoff tons of cash",
+      "publisher": "crypto.news",
+      "url": "https://crypto.news/world-liberty-crypto-deals-net-trump-witkoff-tons-cash/",
+      "date": null
+    },
+    {
+      "title": "AIFC 8-K: name change to AI Financial Corporation",
+      "publisher": "Boardroom Alpha (SEC filing mirror)",
+      "url": "https://www.boardroomalpha.com/sec/aifc-8-k-2026-05-04-0001493152-26-020950",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "AI Financial Corporation (Formerly ALT5 Sigma) Begins Trading Under New Nasdaq Ticker Symbol 'AIFC'",
+      "publisher": "Newswire",
+      "url": "https://www.newswire.com/news/ai-financial-corporation-formerly-alt5-sigma-begins-trading-under-new-nasdaq",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "WLFI treasury firm AI Financial posts $271 million quarterly net loss, flags doubt over survival",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2026-05-19-wlfi-treasury-ai-financial-posts-loss-401788",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "Trump family Alt5 Sigma crypto venture left investors with steep losses",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/09/trump-world-liberty-financial-crypto-alt5-sigma.html",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "How a Trump Crypto Deal Enriched the Family While Investors Lost",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/how-a-trump-crypto-deal-enriched-the-family-while-investors-lost",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Trump Family Crypto Deal Ends in a 90% Rout for ALT5 Investors",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/banking-law/trump-family-crypto-deal-ends-in-a-90-rout-for-alt5-investors",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Trump-associated ALT5 Sigma down 96% since WLFI deal",
+      "publisher": "Protos",
+      "url": "https://protos.com/trump-associated-alt5-sigma-down-96-since-wlfi-deal/",
+      "date": null
+    },
+    {
+      "title": "No SEC Probe of Trump Crypto Deal Despite Alleged \"Illegality\"",
+      "publisher": "Project On Government Oversight",
+      "url": "https://www.pogo.org/investigates/no-sec-probe-of-trump-crypto-deal-despite-alleged-illegality",
+      "date": null
+    },
+    {
+      "title": "Legal experts are alarmed the SEC isn't investigating Trump-linked crypto venture",
+      "publisher": "Gizmodo",
+      "url": "https://gizmodo.com/legal-experts-are-alarmed-the-sec-isnt-investigating-trump-linked-crypto-venture-2000802953",
+      "date": null
+    },
+    {
+      "title": "Coffeezilla and Molly White Examine Trump Crypto Wealth and Investor Losses",
+      "publisher": "TokenPost",
+      "url": "https://www.tokenpost.com/news/business/56914",
+      "date": null
+    }
+  ],
+  "entities": [
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family-linked crypto venture behind the WLFI token and the USD1 stablecoin; lead investor in ALT5's treasury raise."
+    },
+    {
+      "id": "alt5-sigma",
+      "name": "ALT5 Sigma (now AI Financial Corporation, AIFC)",
+      "type": "company",
+      "description": "Nasdaq-listed fintech that became a WLFI treasury company in Aug 2025; renamed AI Financial Corporation in April 2026."
+    },
+    {
+      "id": "wlfi-token",
+      "name": "WLFI token",
+      "type": "asset",
+      "description": "World Liberty Financial governance token that ALT5 bought at $0.20."
+    },
+    {
+      "id": "dt-marks-defi",
+      "name": "DT Marks DEFI LLC",
+      "type": "company",
+      "description": "Trump-family entity entitled to 75% of WLF's net token-sale proceeds."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president; WLF co-founder whose family controls DT Marks DEFI."
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump son and WLF co-founder; announced as an ALT5 director (some reports say board observer)."
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Trump son and WLF co-founder."
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF co-founder and CEO; ALT5 board chairman since Aug 2025."
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "US special envoy; father of WLF co-founders Zach and Alex Witkoff."
+    },
+    {
+      "id": "zak-folkman",
+      "name": "Zak Folkman",
+      "type": "person",
+      "description": "WLF co-founder; later an ALT5 director or observer."
+    },
+    {
+      "id": "peter-tassiopoulos",
+      "name": "Peter Tassiopoulos",
+      "type": "person",
+      "description": "ALT5 CEO at the time of the deal; suspended Oct 16, 2025."
+    },
+    {
+      "id": "tony-isaac",
+      "name": "Tony Isaac",
+      "type": "person",
+      "description": "ALT5 president, later acting CEO."
+    },
+    {
+      "id": "jon-isaac",
+      "name": "Jon Isaac",
+      "type": "person",
+      "description": "ALT5 consultant and major shareholder; denied 2025 reports of an SEC probe."
+    },
+    {
+      "id": "sec",
+      "name": "US Securities and Exchange Commission",
+      "type": "government",
+      "description": "Securities regulator; per POGO, it has not opened a probe of the ALT5 deal."
+    },
+    {
+      "id": "molly-white",
+      "name": "Molly White",
+      "type": "person",
+      "description": "Crypto researcher interviewed in the video about the conflict of interest."
+    },
+    {
+      "id": "coffeezilla",
+      "name": "Coffeezilla",
+      "type": "media",
+      "description": "YouTube investigator who made the video."
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "The Wall Street Journal",
+      "type": "media",
+      "description": "Reported the 'over half a billion' payout (Aug 2025) and the Witkoff earnings (Feb 2026)."
+    },
+    {
+      "id": "cnbc",
+      "name": "CNBC",
+      "type": "media",
+      "description": "Reported in June 2026 that the family was entitled to about $500M."
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg",
+      "type": "media",
+      "description": "July 2026 investigation of family windfall versus investor losses."
+    },
+    {
+      "id": "pogo",
+      "name": "Project On Government Oversight",
+      "type": "media",
+      "description": "Reported that the SEC has no probe and uncovered a shareholder suit."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "world-liberty-financial",
+      "target": "alt5-sigma",
+      "label": "lead investor in $1.5B WLFI treasury raise (about $750M in WLFI tokens for shares and warrants)",
+      "type": "money",
+      "date": "2025-08-11",
+      "amount_usd": 750000000
+    },
+    {
+      "source": "alt5-sigma",
+      "target": "world-liberty-financial",
+      "label": "used about $750M in investor cash mostly to buy WLFI tokens from",
+      "type": "money",
+      "date": "2025-08",
+      "amount_usd": 750000000
+    },
+    {
+      "source": "alt5-sigma",
+      "target": "wlfi-token",
+      "label": "treasury holding about 7.5% of supply, bought at $0.20",
+      "type": "ownership",
+      "date": "2025-08"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "dt-marks-defi",
+      "label": "reportedly about $500M of ALT5 deal proceeds flowed to (75% proceeds entitlement)",
+      "type": "money",
+      "date": "2025-08",
+      "amount_usd": 500000000
+    },
+    {
+      "source": "dt-marks-defi",
+      "target": "donald-trump",
+      "label": "Trump-family-owned entity",
+      "type": "ownership"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "steve-witkoff",
+      "label": "reportedly about $90M of ALT5 deal proceeds to the Witkoff family",
+      "type": "money",
+      "date": "2025-08",
+      "amount_usd": 90000000
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "alt5-sigma",
+      "label": "board chairman of",
+      "type": "advisory",
+      "date": "2025-08"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "world-liberty-financial",
+      "label": "co-founder and CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "eric-trump",
+      "target": "alt5-sigma",
+      "label": "announced as board director (reported as observer)",
+      "type": "advisory",
+      "date": "2025-08"
+    },
+    {
+      "source": "zak-folkman",
+      "target": "alt5-sigma",
+      "label": "board director or observer of",
+      "type": "advisory",
+      "date": "2025"
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "zach-witkoff",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "eric-trump",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "peter-tassiopoulos",
+      "target": "alt5-sigma",
+      "label": "CEO, suspended Oct 2025",
+      "type": "commercial",
+      "date": "2025-10-16"
+    },
+    {
+      "source": "tony-isaac",
+      "target": "alt5-sigma",
+      "label": "president, then acting CEO",
+      "type": "commercial",
+      "date": "2025-11"
+    },
+    {
+      "source": "jon-isaac",
+      "target": "alt5-sigma",
+      "label": "consultant and major shareholder",
+      "type": "ownership"
+    },
+    {
+      "source": "sec",
+      "target": "alt5-sigma",
+      "label": "has not opened a probe (per POGO)",
+      "type": "regulatory",
+      "date": "2026"
+    },
+    {
+      "source": "donald-trump",
+      "target": "sec",
+      "label": "appoints leadership of",
+      "type": "political"
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "alt5-sigma",
+      "label": "reported deal enriches Trump family by over $500M",
+      "type": "media",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "cnbc",
+      "target": "alt5-sigma",
+      "label": "reported family entitled to about $500M while investors lost",
+      "type": "media",
+      "date": "2026-06-09"
+    },
+    {
+      "source": "bloomberg",
+      "target": "alt5-sigma",
+      "label": "investigated family windfall and 90% investor rout",
+      "type": "media",
+      "date": "2026-07-30"
+    },
+    {
+      "source": "pogo",
+      "target": "sec",
+      "label": "reported no SEC probe of the ALT5 deal",
+      "type": "media",
+      "date": "2026"
+    },
+    {
+      "source": "molly-white",
+      "target": "alt5-sigma",
+      "label": "described conflict of interest in the video",
+      "type": "media"
+    },
+    {
+      "source": "coffeezilla",
+      "target": "alt5-sigma",
+      "label": "covered the deal in the video",
+      "type": "media"
+    }
+  ]
+}

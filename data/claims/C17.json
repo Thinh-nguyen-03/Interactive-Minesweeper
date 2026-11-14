@@ -1,0 +1,82 @@
+{
+  "id": "C17",
+  "title": "Trump merchandise and the T1 phone",
+  "verdict": "mostly-accurate",
+  "confidence": "high",
+  "summary": "Every product named exists and pays Trump royalties: NFTs (Dec 2022), watches, gold sneakers, the God Bless the USA Bible, Victory 47 fragrances and the Trump Mobile T1. The T1 site did drop its 'Made in the USA' banner in late June 2025. Coffeezilla's own address and email were exposed in a May 2026 Trump Mobile pre-order data leak. 'The family sells' glosses over the fact that these are mostly licensing deals run by third parties, and 'doxxed' describes a site vulnerability, not a targeted act.",
+  "sub_claims": [
+    {"statement": "The Trump family has an NFT business.", "verdict": "confirmed", "finding": "Trump Digital Trading Cards ($99) launched 15 Dec 2022, sold about 44-45k for about $4.45M, and were licensed via NFT INT LLC. The 2025 OGE disclosure listed about $1.16M in NFT licensing income.", "sources": ["https://itv.com/news/2022-12-16/trump-releases-nfts-depicting-himself-as-superhero-astronaut-and-cowboy", "https://fortune.com/crypto/2023/01/10/trump-nfts-trading-volume-falls-crypto/", "https://www.nbcwashington.com/news/national-international/trump-financial-disclosures-reveal-millions-income-guitars-bibles-watches/3936046/?amp=1"]},
+    {"statement": "Trump sells watches.", "verdict": "confirmed", "finding": "Trump-branded watches launched Sept 2024, with some models up to $100,000. The disclosure reported $2.8M in Trump Watches royalties.", "sources": ["https://www.fortune.com/2024/09/27/donald-trump-watches/", "https://www.nbcwashington.com/news/national-international/trump-financial-disclosures-reveal-millions-income-guitars-bibles-watches/3936046/?amp=1"]},
+    {"statement": "Trump sells (golden) shoes.", "verdict": "confirmed", "finding": "Gold 'Never Surrender' high-tops ($399) were unveiled at Sneaker Con in Feb 2024, licensed via CIC Ventures. Sneakers plus fragrances earned about $2.5M of 2024 income.", "sources": ["https://www.canberratimes.com.au/story/8525193/trump-hawks-600-branded-high-top-shoes-at-sneaker-con/", "https://www.theday.com/nation/20240327/trump-has-sold-60-bibles-399-sneakers-and-more-since-leaving-office/"]},
+    {"statement": "There is a Trump Bible.", "verdict": "confirmed", "finding": "The 'God Bless the USA Bible' ($59.99, Mar 2024) paid $1,306,035 in royalties via Greenwood according to the 2025 disclosure.", "sources": ["https://www.theday.com/nation/20240327/trump-has-sold-60-bibles-399-sneakers-and-more-since-leaving-office/", "https://www.nbcwashington.com/news/national-international/trump-financial-disclosures-reveal-millions-income-guitars-bibles-watches/3936046/?amp=1"]},
+    {"statement": "There are Trump fragrances.", "verdict": "confirmed", "finding": "'Victory 47' cologne and perfume ($99) went on sale in late 2024.", "sources": ["https://www.ppai.org/media-hub/trump-s-latest-merch-drop-includes-sneakers-and-scents/"]},
+    {"statement": "The T1 phone was said to be made in America until the website was changed.", "verdict": "confirmed", "finding": "Trump Mobile launched 16 June 2025: a $499 T1 and a $47.45/month plan, announced by Don Jr. and Eric Trump. The 'MADE IN THE USA' banner was replaced around 25-26 June 2025 by 'designed with American values in mind' / 'American-proud design'. The spokesperson insisted the phones are made in America. Shipping began May 2026 with units described as 'assembled in the U.S.' Warren-led Democrats asked the FTC to investigate in Aug 2025 and Jan 2026.", "sources": ["https://www.nbcwashington.com/news/business/money-report/trump-organization-scraps-made-in-the-usa-tag-for-its-gold-t1-smartphone/3944876/", "https://www.tomsguide.com/phones/trump-phone-no-longer-claims-to-be-made-in-the-usa-but-it-does-have-an-america-proud-design", "https://www.ksl.com/article/51497278/trump-mobile-starts-shipping-us-assembled-t1-phones-after-months-long-delay", "https://www.warren.senate.gov/newsroom/press-releases/warren-lawmakers-question-federal-trade-commission-on-trump-mobiles-questionable-marketing-practices"]},
+    {"statement": "Coffeezilla ordered a T1 and got doxxed.", "verdict": "partly-accurate", "finding": "In May 2026 a researcher found a flaw exposing Trump Mobile pre-order customers' names, emails, addresses, phone numbers and order IDs. Coffeezilla said his own address and email were in the data. Trump Mobile confirmed the exposure, blamed a third-party platform and patched it. This was a mass data exposure, not targeted doxxing.", "sources": ["https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/", "https://www.ibtimes.co.uk/trump-mobile-data-breach-exposes-customer-info-1798004", "https://gizmodo.com/trump-mobile-leaks-customers-data-and-the-phone-isnt-even-out-yet-2000762600"]}
+  ],
+  "corrections": [
+    "The transcript implies the family sells these goods directly. Most are licensing deals (CIC Ventures, NFT INT LLC, Trump Mobile's operators) that pay royalties to Trump, and Trump Mobile's site disclaims Trump Organization manufacture or sale.",
+    "'Doxxed' is a loose word: Coffeezilla's data was exposed in a site-wide pre-order vulnerability (May 2026), not published by anyone targeting him.",
+    "The company never fully dropped the U.S. claim. It later said the first T1 units are 'assembled in the U.S.', which has not been independently verified."
+  ],
+  "denials_and_context": [
+    "Trump Mobile spokesperson Chris Walker (June 2025): 'T1 phones are proudly being made in America. Speculation to the contrary is simply inaccurate.'",
+    "Trump Mobile confirmed the data exposure, attributed it to a third-party platform, and said it was evaluating whether to notify customers.",
+    "Coffeezilla's estimate of about 30,000 real pre-orders (some outlets say 10,000), against roughly 590,000 claimed earlier, is his own inference from the leaked IDs.",
+    "Coffeezilla himself says these consumer products matter less than the regulated industries the family is entering."
+  ],
+  "sources": [
+    {"title": "Donald Trump $99 NFTs ... sell out", "publisher": "ITV News", "url": "https://itv.com/news/2022-12-16/trump-releases-nfts-depicting-himself-as-superhero-astronaut-and-cowboy", "date": "2022-12-16"},
+    {"title": "Trump NFTs trading volume falls", "publisher": "Fortune", "url": "https://fortune.com/crypto/2023/01/10/trump-nfts-trading-volume-falls-crypto/", "date": "2023-01-10"},
+    {"title": "Trump financial disclosures reveal millions in income from guitars, Bibles, watches", "publisher": "NBC News", "url": "https://www.nbcwashington.com/news/national-international/trump-financial-disclosures-reveal-millions-income-guitars-bibles-watches/3936046/?amp=1", "date": "2025-06-13"},
+    {"title": "Donald Trump watches", "publisher": "Fortune", "url": "https://www.fortune.com/2024/09/27/donald-trump-watches/", "date": "2024-09-27"},
+    {"title": "Trump hawks $399 branded high-top shoes at Sneaker Con", "publisher": "Canberra Times (AP)", "url": "https://www.canberratimes.com.au/story/8525193/trump-hawks-600-branded-high-top-shoes-at-sneaker-con/", "date": "2024-02-17"},
+    {"title": "Trump has sold $60 Bibles, $399 sneakers and more since leaving office", "publisher": "The Day (AP)", "url": "https://www.theday.com/nation/20240327/trump-has-sold-60-bibles-399-sneakers-and-more-since-leaving-office/", "date": "2024-03-27"},
+    {"title": "Trump's latest merch drop includes sneakers and scents", "publisher": "PPAI", "url": "https://www.ppai.org/media-hub/trump-s-latest-merch-drop-includes-sneakers-and-scents/", "date": "2024-12"},
+    {"title": "Trump Mobile for 'Real Americans' and $499 Gold-Accented T1 Phone Announced", "publisher": "eWeek", "url": "https://www.eweek.com/news/trump-mobile-t1-phone/", "date": "2025-06"},
+    {"title": "Trump Organization scraps 'Made in the USA' tag for its gold T1 smartphone", "publisher": "CNBC via NBC Washington", "url": "https://www.nbcwashington.com/news/business/money-report/trump-organization-scraps-made-in-the-usa-tag-for-its-gold-t1-smartphone/3944876/", "date": "2025-06-26"},
+    {"title": "Trump Phone no longer claims to be made in the USA", "publisher": "Tom's Guide", "url": "https://www.tomsguide.com/phones/trump-phone-no-longer-claims-to-be-made-in-the-usa-but-it-does-have-an-america-proud-design", "date": "2025-06"},
+    {"title": "Trump Mobile starts shipping US-assembled T1 phones after months-long delay", "publisher": "KSL", "url": "https://www.ksl.com/article/51497278/trump-mobile-starts-shipping-us-assembled-t1-phones-after-months-long-delay", "date": "2026-05"},
+    {"title": "Warren, lawmakers question FTC on Trump Mobile's questionable marketing practices", "publisher": "Office of Sen. Elizabeth Warren", "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-lawmakers-question-federal-trade-commission-on-trump-mobiles-questionable-marketing-practices", "date": "2026-01-15"},
+    {"title": "Warren, members of Congress sound the alarm on potential Trump corruption using new cell phone venture", "publisher": "Office of Sen. Elizabeth Warren", "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-members-of-congress-sound-the-alarm-on-potential-trump-corruption-using-new-cell-phone-venture", "date": "2025-08-05"},
+    {"title": "Customers say Trump Mobile is leaking their personal information", "publisher": "TechCrunch", "url": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/", "date": "2026-05-20"},
+    {"title": "Coffeezilla says Trump Mobile exposed his own address in a major security flaw", "publisher": "IBTimes UK", "url": "https://www.ibtimes.co.uk/trump-mobile-data-breach-exposes-customer-info-1798004", "date": "2026-05"},
+    {"title": "Trump Mobile leaks customers' data and the phone isn't even out yet", "publisher": "Gizmodo", "url": "https://gizmodo.com/trump-mobile-leaks-customers-data-and-the-phone-isnt-even-out-yet-2000762600", "date": "2026-05"},
+    {"title": "Trump Mobile website reportedly leaking customers' personal data", "publisher": "Notebookcheck", "url": "https://www.notebookcheck.net/Trump-Mobile-website-reportedly-leaking-customers-personal-data.1301041.0.html", "date": "2026-05"}
+  ],
+  "entities": [
+    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US President; licenses his name to merchandise and collects the royalties"},
+    {"id": "donald-trump-jr", "name": "Donald Trump Jr.", "type": "person", "description": "Co-announced Trump Mobile in June 2025"},
+    {"id": "eric-trump", "name": "Eric Trump", "type": "person", "description": "Co-announced Trump Mobile in June 2025"},
+    {"id": "coffeezilla", "name": "Coffeezilla", "type": "media", "description": "YouTube investigator; ordered a T1 and his data was exposed in the May 2026 leak"},
+    {"id": "trump-organization", "name": "Trump Organization", "type": "company", "description": "Trump family company; brand licensor"},
+    {"id": "trump-mobile", "name": "Trump Mobile", "type": "company", "description": "Trump-branded MVNO launched 16 June 2025"},
+    {"id": "t1-phone", "name": "Trump Mobile T1", "type": "product", "description": "$499 gold smartphone, once marketed as 'Made in the USA'; shipped May 2026"},
+    {"id": "trump-digital-trading-cards", "name": "Trump Digital Trading Cards", "type": "asset", "description": "$99 NFT series launched Dec 2022"},
+    {"id": "nft-int-llc", "name": "NFT INT LLC", "type": "company", "description": "Licensee that issued the Trump NFTs"},
+    {"id": "trump-watches", "name": "Trump Watches", "type": "product", "description": "Branded watch line launched Sept 2024, up to $100,000"},
+    {"id": "trump-sneakers", "name": "Trump Sneakers (Never Surrender high-tops)", "type": "product", "description": "Gold $399 high-tops unveiled at Sneaker Con in Feb 2024"},
+    {"id": "cic-ventures", "name": "CIC Ventures LLC", "type": "company", "description": "Trump-linked licensing company tied to the sneakers and the Bible"},
+    {"id": "god-bless-the-usa-bible", "name": "God Bless the USA Bible", "type": "product", "description": "$59.99 Trump-endorsed Bible (Mar 2024)"},
+    {"id": "victory-47-fragrance", "name": "Victory 47 fragrance", "type": "product", "description": "$99 Trump-branded cologne and perfume (late 2024)"},
+    {"id": "elizabeth-warren", "name": "Elizabeth Warren", "type": "person", "description": "US Senator who led letters asking the FTC to examine Trump Mobile"},
+    {"id": "ftc", "name": "Federal Trade Commission", "type": "government", "description": "US consumer-protection regulator asked to probe the T1 marketing"},
+    {"id": "us-congress", "name": "US Congress", "type": "government", "description": "Democratic members wrote to the FTC about Trump Mobile"}
+  ],
+  "relationships": [
+    {"source": "donald-trump-jr", "target": "trump-mobile", "label": "co-announced launch of", "type": "commercial", "date": "2025-06-16"},
+    {"source": "eric-trump", "target": "trump-mobile", "label": "co-announced launch of", "type": "commercial", "date": "2025-06-16"},
+    {"source": "trump-organization", "target": "trump-mobile", "label": "licenses Trump brand to", "type": "commercial", "date": "2025-06"},
+    {"source": "trump-mobile", "target": "t1-phone", "label": "sells; dropped 'Made in the USA' banner for", "type": "commercial", "date": "2025-06"},
+    {"source": "coffeezilla", "target": "trump-mobile", "label": "ordered T1; personal data exposed by", "type": "media", "date": "2026-05"},
+    {"source": "nft-int-llc", "target": "trump-digital-trading-cards", "label": "issued", "type": "commercial", "date": "2022-12-15"},
+    {"source": "nft-int-llc", "target": "donald-trump", "label": "paid NFT licensing income (2024) to", "type": "money", "date": "2024", "amount_usd": 1157490},
+    {"source": "trump-watches", "target": "donald-trump", "label": "paid royalties (2024) to", "type": "money", "date": "2024", "amount_usd": 2800000},
+    {"source": "god-bless-the-usa-bible", "target": "donald-trump", "label": "paid royalties via Greenwood (2024) to", "type": "money", "date": "2024", "amount_usd": 1306035},
+    {"source": "trump-sneakers", "target": "donald-trump", "label": "sneaker and fragrance royalties (2024) to", "type": "money", "date": "2024", "amount_usd": 2500000},
+    {"source": "cic-ventures", "target": "trump-sneakers", "label": "licensor of", "type": "commercial", "date": "2024-02"},
+    {"source": "cic-ventures", "target": "god-bless-the-usa-bible", "label": "licensor of", "type": "commercial", "date": "2024-03"},
+    {"source": "donald-trump", "target": "victory-47-fragrance", "label": "lends name to", "type": "commercial", "date": "2024-12"},
+    {"source": "elizabeth-warren", "target": "ftc", "label": "urged investigation of Trump Mobile marketing", "type": "regulatory", "date": "2026-01-15"},
+    {"source": "us-congress", "target": "trump-mobile", "label": "Democratic members questioned marketing of", "type": "political", "date": "2025-08-05"}
+  ]
+}

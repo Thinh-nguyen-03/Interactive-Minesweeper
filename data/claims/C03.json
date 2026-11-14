@@ -1,0 +1,113 @@
+{
+  "id": "C03",
+  "title": "Dinner for top $TRUMP holders",
+  "verdict": "confirmed",
+  "confidence": "high",
+  "summary": "Confirmed. The top 220 $TRUMP holders, ranked by average holdings from April 23 to May 12, 2025, were invited to a dinner with Trump on May 22, 2025 at Trump National Golf Club in Sterling, Virginia. The top 25 were promised a VIP reception. Trump attended. Press Secretary Karoline Leavitt answered Bulwark reporter Andrew Egger's question at the May 9, 2025 briefing almost exactly as the video quotes her. The 'successful businessman' sentence could not be matched word for word in written reports.",
+  "sub_claims": [
+    {
+      "statement": "Top holders of $TRUMP got a dinner with the president.",
+      "verdict": "confirmed",
+      "finding": "Contest announced April 23, 2025. The top 220 holders by time-weighted average balance (April 23 to May 12) were invited after a background check. Dinner held May 22, 2025 at Trump National Golf Club, Sterling, VA. The top 25 got a VIP reception, and a promised White House tour was later dropped from the site. Trump spoke for about 20-25 minutes and left by helicopter. Justin Sun, the top holder, attended.",
+      "sources": [
+        "https://www.upi.com/Top_News/US/2025/04/24/top-Trump-meme-coin-holders-invited-dinner/1201745453178/",
+        "https://www.axios.com/2025/05/22/trump-meme-coin-dinner",
+        "https://www.washingtontimes.com/news/2025/may/22/trumps-crypto-dinner-raises-questions/",
+        "https://krdo.com/politics/cnn-us-politics/2025/05/23/inside-the-room-at-trumps-meme-coin-dinner/",
+        "https://www.theblock.co/amp/post/355633/lamar-odom-justin-sun-party-at-trumps-memecoin-gala-as-lawmakers-blast-selling-access"
+      ]
+    },
+    {
+      "statement": "Asked why the president planned to attend a dinner for his coin's top investors, the White House press secretary said he is abiding by all conflict-of-interest laws and has been incredibly transparent about his finances.",
+      "verdict": "confirmed",
+      "finding": "Karoline Leavitt, May 9, 2025 briefing, answering Andrew Egger of The Bulwark: 'Look, the president is abiding by all conflict of interest laws. The president has been incredibly transparent with his own personal financial obligations throughout the years.' Some outlets record 'all applicable conflict of interest laws.'",
+      "sources": [
+        "https://www.pbs.org/newshour/economy/watch-white-house-weighs-in-on-why-trump-plans-to-attend-memecoin-dinner",
+        "https://www.mediaite.com/tv/reporter-confronts-karoline-leavitt-on-trump-meme-coin-are-those-seeking-to-influence-president-wasting-their-money",
+        "https://www.thebulwark.com/p/the-bulwark-at-the-briefing"
+      ]
+    },
+    {
+      "statement": "She added that the president is a successful businessman and that this is one reason people reelected him.",
+      "verdict": "unverified",
+      "finding": "This sentence appears to be a continuation of the same answer in the clip, but I could not match the exact wording in any written report. Spectrum News reported a similar line from Leavitt saying Trump was 'incredibly successful' before entering public service.",
+      "sources": [
+        "https://spectrumlocalnews.com/us/snplus/politics/2025/05/22/trump-meme-coin-gala-golf-course-"
+      ]
+    },
+    {
+      "statement": "The White House denies the dinner is corrupt.",
+      "verdict": "confirmed",
+      "finding": "This is accurate in substance, though Leavitt did not use the word 'corrupt.' The White House said Trump attended on his 'personal time,' that it was 'not a White House dinner,' and that he complies with conflict-of-interest laws. It did not commit to releasing the guest list.",
+      "sources": [
+        "https://www.mediaite.com/media/news/karoline-leavitt-insists-trump-is-attending-shady-crypto-dinner-with-foreign-investors-in-his-personal-time",
+        "https://www.ctpublic.org/2025-05-22/white-house-denies-conflicts-of-interest-as-trump-joins-dinner-for-meme-coin-investors"
+      ]
+    }
+  ],
+  "corrections": [
+    "The video does not identify the questioner. It was The Bulwark's Andrew Egger, at the May 9, 2025 briefing, about two weeks before the May 22 dinner.",
+    "'Top holders' means the top 220 by average holdings from April 23 to May 12, 2025, with a separate top-25 VIP tier. The White House tour originally promised to the top 25 was later removed from the promotion.",
+    "Leavitt did not literally deny 'corruption.' She said Trump abides by conflict-of-interest laws and was attending in his personal time."
+  ],
+  "denials_and_context": [
+    "The White House position: the dinner was a private event on Trump's personal time, not a White House function, and Trump complies with all conflict-of-interest laws. It has also cited the trust that holds his assets. That trust is a family-managed revocable trust, not an independent blind trust.",
+    "Critics: Sen. Elizabeth Warren ('an orgy of corruption'), Sen. Richard Blumenthal ('auctioning off access') and other Democrats. Analyses found that most top wallets used non-US exchanges, which raised foreign-influence concerns.",
+    "About 80% of the 1B $TRUMP supply is held by Trump-linked CIC Digital LLC and Fight Fight Fight LLC, so buying pressure benefits the Trump side. Estimates of what the top 220 spent range from about $140-148M to about $394M.",
+    "No court, regulator or ethics office has found that the dinner was illegal. Whether it was corrupt is a matter of characterization."
+  ],
+  "sources": [
+    {"title": "Top Trump meme coin holders invited to dinner", "publisher": "UPI", "url": "https://www.upi.com/Top_News/US/2025/04/24/top-Trump-meme-coin-holders-invited-dinner/1201745453178/", "date": "2025-04-24"},
+    {"title": "Trump defies ethics warnings with private meme coin dinner", "publisher": "Axios", "url": "https://www.axios.com/2025/05/22/trump-meme-coin-dinner", "date": "2025-05-22"},
+    {"title": "Trump's crypto dinner raises questions", "publisher": "The Washington Times", "url": "https://www.washingtontimes.com/news/2025/may/22/trumps-crypto-dinner-raises-questions/", "date": "2025-05-22"},
+    {"title": "WATCH: White House weighs in on why Trump plans to attend memecoin dinner", "publisher": "PBS NewsHour", "url": "https://www.pbs.org/newshour/economy/watch-white-house-weighs-in-on-why-trump-plans-to-attend-memecoin-dinner", "date": "2025-05-09"},
+    {"title": "Reporter Confronts Karoline Leavitt on Trump Meme Coin", "publisher": "Mediaite", "url": "https://www.mediaite.com/tv/reporter-confronts-karoline-leavitt-on-trump-meme-coin-are-those-seeking-to-influence-president-wasting-their-money", "date": "2025-05-09"},
+    {"title": "The Bulwark at the briefing", "publisher": "The Bulwark", "url": "https://www.thebulwark.com/p/the-bulwark-at-the-briefing", "date": "2025-05-10"},
+    {"title": "Karoline Leavitt Insists Trump Is Attending Shady Crypto Dinner With Foreign Investors in His 'Personal Time'", "publisher": "Mediaite", "url": "https://www.mediaite.com/media/news/karoline-leavitt-insists-trump-is-attending-shady-crypto-dinner-with-foreign-investors-in-his-personal-time", "date": "2025-05"},
+    {"title": "White House denies conflicts of interest as Trump joins dinner for meme coin investors", "publisher": "NPR / Connecticut Public", "url": "https://www.ctpublic.org/2025-05-22/white-house-denies-conflicts-of-interest-as-trump-joins-dinner-for-meme-coin-investors", "date": "2025-05-22"},
+    {"title": "Inside the room at Trump's meme coin dinner", "publisher": "CNN (via KRDO)", "url": "https://krdo.com/politics/cnn-us-politics/2025/05/23/inside-the-room-at-trumps-meme-coin-dinner/", "date": "2025-05-23"},
+    {"title": "Trump meme coin dinner likely to include mostly non-Americans based on top $TRUMP holders", "publisher": "CNBC (via NBC Miami)", "url": "https://www.nbcmiami.com/news/business/money-report/trump-meme-coin-dinner-likely-to-include-mostly-non-americans-based-on-top-trump-holders/3617229/", "date": "2025-05"},
+    {"title": "Lamar Odom, Justin Sun party at Trump's memecoin gala as lawmakers blast 'selling access'", "publisher": "The Block", "url": "https://www.theblock.co/amp/post/355633/lamar-odom-justin-sun-party-at-trumps-memecoin-gala-as-lawmakers-blast-selling-access", "date": "2025-05-23"},
+    {"title": "Trump memecoin dinner: US senator, Justin Sun, billionaire", "publisher": "Fortune", "url": "https://fortune.com/crypto/2025/05/20/trump-memecoin-dinner-us-senator-justin-sun-billionaire/", "date": "2025-05-20"},
+    {"title": "TRUMP memecoin, explained", "publisher": "Cointelegraph", "url": "https://cointelegraph.com/explained/324m-in-fees-and-no-roadmap-whats-really-going-on-with-the-trump-memecoin", "date": "2025"},
+    {"title": "At Trump's $148 million meme coin dinner, the food sucked and security was lax, attendee says", "publisher": "CNBC (via newsio)", "url": "https://newsio.com/2025/05/23/at-trumps-148-million-meme-coin-dinner-the-food-sucked-and-security-was-lax-attendee-says/?amp=1", "date": "2025-05-23"},
+    {"title": "Trump meme coin gala at golf course", "publisher": "Spectrum News", "url": "https://spectrumlocalnews.com/us/snplus/politics/2025/05/22/trump-meme-coin-gala-golf-course-", "date": "2025-05-22"}
+  ],
+  "entities": [
+    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US President. Hosted the May 22, 2025 dinner for top $TRUMP holders."},
+    {"id": "karoline-leavitt", "name": "Karoline Leavitt", "type": "person", "description": "White House Press Secretary. Defended the dinner at the May 9, 2025 briefing."},
+    {"id": "andrew-egger", "name": "Andrew Egger", "type": "person", "description": "The Bulwark White House correspondent who asked about the dinner."},
+    {"id": "justin-sun", "name": "Justin Sun", "type": "person", "description": "Tron founder. Top $TRUMP holder and dinner attendee."},
+    {"id": "elizabeth-warren", "name": "Elizabeth Warren", "type": "person", "description": "US Senator (D-MA). Called the dinner 'an orgy of corruption.'"},
+    {"id": "richard-blumenthal", "name": "Richard Blumenthal", "type": "person", "description": "US Senator (D-CT). Said the dinner was 'auctioning off access.'"},
+    {"id": "trump-coin", "name": "$TRUMP (Official Trump meme coin)", "type": "asset", "description": "Solana meme coin launched January 2025. About 80% of supply held by Trump-linked entities."},
+    {"id": "cic-digital", "name": "CIC Digital LLC", "type": "company", "description": "Trump-owned entity, held via his revocable trust, that holds $TRUMP tokens and co-owns Fight Fight Fight LLC."},
+    {"id": "fight-fight-fight-llc", "name": "Fight Fight Fight LLC", "type": "company", "description": "Entity behind $TRUMP that ran the dinner contest."},
+    {"id": "trump-organization", "name": "Trump Organization", "type": "company", "description": "Trump family business. Its affiliate CIC Digital controls the coin."},
+    {"id": "white-house", "name": "White House", "type": "government", "description": "Said the dinner was private, on Trump's personal time, and compliant with conflict-of-interest laws."},
+    {"id": "trump-memecoin-dinner", "name": "$TRUMP holders' dinner (May 22, 2025)", "type": "event", "description": "Dinner for the top 220 holders at Trump National Golf Club, Sterling, VA, with a top-25 VIP reception."},
+    {"id": "trump-national-golf-club-dc", "name": "Trump National Golf Club Washington D.C.", "type": "company", "description": "Trump-owned golf club in Sterling/Potomac Falls, VA, where the dinner was held."},
+    {"id": "the-bulwark", "name": "The Bulwark", "type": "media", "description": "Outlet whose reporter asked the question in the briefing clip."},
+    {"id": "coffeezilla", "name": "Coffeezilla", "type": "person", "description": "YouTuber who made the video under review."}
+  ],
+  "relationships": [
+    {"source": "donald-trump", "target": "trump-memecoin-dinner", "label": "attended and spoke at", "type": "political", "date": "2025-05-22"},
+    {"source": "fight-fight-fight-llc", "target": "trump-memecoin-dinner", "label": "organized holder contest for", "type": "commercial", "date": "2025-04-23"},
+    {"source": "trump-coin", "target": "trump-memecoin-dinner", "label": "top 220 holders invited to", "type": "commercial", "date": "2025-05-12"},
+    {"source": "justin-sun", "target": "trump-coin", "label": "top holder of", "type": "money", "date": "2025-05"},
+    {"source": "justin-sun", "target": "trump-memecoin-dinner", "label": "attended", "type": "political", "date": "2025-05-22"},
+    {"source": "trump-memecoin-dinner", "target": "trump-national-golf-club-dc", "label": "held at", "type": "commercial", "date": "2025-05-22"},
+    {"source": "donald-trump", "target": "cic-digital", "label": "owns via revocable trust", "type": "ownership"},
+    {"source": "cic-digital", "target": "fight-fight-fight-llc", "label": "co-owns", "type": "ownership"},
+    {"source": "cic-digital", "target": "trump-coin", "label": "holds (with Fight Fight Fight) ~80% of supply of", "type": "ownership"},
+    {"source": "fight-fight-fight-llc", "target": "trump-coin", "label": "issuer/holder of", "type": "ownership"},
+    {"source": "trump-organization", "target": "cic-digital", "label": "affiliate of", "type": "ownership"},
+    {"source": "karoline-leavitt", "target": "white-house", "label": "press secretary of", "type": "political"},
+    {"source": "karoline-leavitt", "target": "trump-memecoin-dinner", "label": "defended as compliant with conflict-of-interest laws", "type": "political", "date": "2025-05-09"},
+    {"source": "andrew-egger", "target": "the-bulwark", "label": "correspondent for", "type": "media"},
+    {"source": "andrew-egger", "target": "karoline-leavitt", "label": "questioned about memecoin dinner", "type": "media", "date": "2025-05-09"},
+    {"source": "elizabeth-warren", "target": "trump-memecoin-dinner", "label": "denounced as 'an orgy of corruption'", "type": "political", "date": "2025-05"},
+    {"source": "richard-blumenthal", "target": "trump-memecoin-dinner", "label": "denounced as 'auctioning off access'", "type": "political", "date": "2025-05"},
+    {"source": "coffeezilla", "target": "trump-memecoin-dinner", "label": "reported on", "type": "media"}
+  ]
+}

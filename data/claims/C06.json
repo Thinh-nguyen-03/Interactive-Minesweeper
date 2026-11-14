@@ -1,0 +1,370 @@
+{
+  "id": "C06",
+  "title": "Secret $500M / 49% UAE stake in WLF",
+  "verdict": "confirmed",
+  "confidence": "medium",
+  "summary": "The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle backed by UAE national security adviser Sheikh Tahnoon bin Zayed (brother of President Mohamed bin Zayed), agreed to pay $500M for 49% of World Liberty Financial. Eric Trump signed the deal about 2025-01-16, four days before the inauguration, and it was not publicly disclosed. The figures, timing, roles and secrecy in the video all match the reporting, as relayed by multiple outlets; the WSJ original could not be accessed directly. Trump says he knew nothing about it, and WLF and the White House deny wrongdoing.",
+  "sub_claims": [
+    {
+      "statement": "A Wall Street Journal investigation, with Sam Kessler among the reporters, uncovered the deal.",
+      "verdict": "confirmed",
+      "finding": "WSJ published 'Abu Dhabi Royal Secretly Bought Stake in Trump Crypto Firm' on 2026-02-01. Secondary reports credit Sam Kessler with Rebecca Ballhaus, Eliot Brown and Angus Berwick.",
+      "sources": [
+        "https://ground.news/article/abu-dhabi-royal-secretly-bought-stake-in-trump-crypto-firm_a173ab",
+        "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931"
+      ]
+    },
+    {
+      "statement": "The deal was $500M for 49% of World Liberty Financial.",
+      "verdict": "confirmed",
+      "finding": "Aryam Investment 1 agreed to pay $500M for 49%. $250M was paid upfront, of which about $187M went to Trump-family entities and at least $31M to Witkoff-linked entities. The remaining $250M was due by 2025-07-15, and its distribution could not be determined.",
+      "sources": [
+        "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
+        "https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj",
+        "https://www.ledgerinsights.com/trump-linked-crypto-venture-world-liberty-sold-49-stake-to-uae-state-affiliated-firm/",
+        "https://ground.news/article/abu-dhabi-royal-secretly-bought-stake-in-trump-crypto-firm_a173ab"
+      ]
+    },
+    {
+      "statement": "It was signed four days before Trump's inauguration.",
+      "verdict": "confirmed",
+      "finding": "Eric Trump signed it in January 2025; outlets give the date as 2025-01-16, four days before the 2025-01-20 inauguration.",
+      "sources": [
+        "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
+        "https://krdo.com/politics/cnn-us-politics/2026/02/02/uae-linked-firm-bought-major-stake-in-trump-family-crypto-company-wall-street-journal-reports/",
+        "https://cointelegraph.com/news/trump-denies-involvement-500m-uae-wlfi-stake"
+      ]
+    },
+    {
+      "statement": "The counterparty was tied to Sheikh Tahnoon bin Zayed, UAE national security adviser, brother of the UAE president, called the 'spy sheikh'.",
+      "verdict": "confirmed",
+      "finding": "The buyer was the vehicle Aryam Investment 1, backed by Tahnoon, not Tahnoon personally. Tahnoon is national security adviser and a brother of President Mohamed bin Zayed, and 'spy sheikh' is a common press nickname. Two Aryam executives who are also G42 officials (Peng Xiao, Martin Edelman) joined WLF's five-member board.",
+      "sources": [
+        "https://www.wusf.org/2026-02-02/emirati-politician-known-as-the-spy-sheikh-made-secret-deal-with-trump-company",
+        "https://cointelegraph.com/news/trump-denies-involvement-500m-uae-wlfi-stake",
+        "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931"
+      ]
+    },
+    {
+      "statement": "Tahnoon's investment was bigger than Justin Sun's, who was the largest public investor.",
+      "verdict": "confirmed",
+      "finding": "$500M versus Sun's publicly announced $75M token purchase.",
+      "sources": [
+        "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931"
+      ]
+    },
+    {
+      "statement": "The deal was kept secret and not disclosed to the public.",
+      "verdict": "confirmed",
+      "finding": "The buyer and the terms were not disclosed before the WSJ story. Reports say WLF later revealed that the Trump family's stake had fallen, without naming the buyer, and its spokesperson acknowledged that it never named the outside party. Justin Sun's lawyers separately allege that WLF delayed disclosing UAE ownership in litigation; this is an allegation only.",
+      "sources": [
+        "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
+        "https://decrypt.co/382813/trump-says-he-knows-nothing-about-world-liberty-financial-as-he-defends-uae-ties",
+        "https://ground.news/article/abu-dhabi-royal-secretly-bought-stake-in-trump-crypto-firm_a173ab"
+      ]
+    }
+  ],
+  "corrections": [
+    "The transcript spells the name 'Tahoon'; it is Tahnoon bin Zayed Al Nahyan.",
+    "The buyer was Aryam Investment 1, a Tahnoon-backed vehicle, not Tahnoon personally.",
+    "Transcript lines 307-309 are garbled by auto-transcription; the $500M and 49% figures are given clearly in lines 317-322."
+  ],
+  "denials_and_context": [
+    "Trump said in the Oval Office in early February 2026: 'I don't know about it ... My sons are handling that.' He later told CBS he knows 'nothing' about the firm.",
+    "WLF and the White House deny wrongdoing. WLF says Trump and Steve Witkoff were not involved, that the deal gave no influence over US policy, and that it takes its ethical obligations seriously.",
+    "Some outlets link the deal to the May 2025 US agreement allowing the UAE to buy up to 500,000 advanced AI chips a year, with a share for G42. Any causal connection is insinuation and unproven, and reports say the money did not come from G42.",
+    "In August 2026 the WSJ reported that Tahnoon and co-investors also hold 49% of WLF's bank-charter holding company.",
+    "Verification relied on secondary outlets summarizing the paywalled WSJ article; the fetch tool could not reach those pages, so details come from consistent search summaries."
+  ],
+  "sources": [
+    {
+      "title": "UAE Sheikh secretly acquired 49% of Trump's World Liberty Financial days before inauguration: WSJ",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
+      "date": "2026-02-01"
+    },
+    {
+      "title": "UAE-backed firm buys 49 percent of Trump-linked World Liberty: WSJ",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj",
+      "date": "2026-02-01"
+    },
+    {
+      "title": "UAE-linked firm bought major stake in Trump family crypto company, Wall Street Journal reports",
+      "publisher": "CNN (via KRDO)",
+      "url": "https://krdo.com/politics/cnn-us-politics/2026/02/02/uae-linked-firm-bought-major-stake-in-trump-family-crypto-company-wall-street-journal-reports/",
+      "date": "2026-02-02"
+    },
+    {
+      "title": "Emirati politician known as the 'Spy Sheikh' made secret deal with Trump company",
+      "publisher": "NPR (via WUSF)",
+      "url": "https://www.wusf.org/2026-02-02/emirati-politician-known-as-the-spy-sheikh-made-secret-deal-with-trump-company",
+      "date": "2026-02-02"
+    },
+    {
+      "title": "Trump-linked crypto venture World Liberty sold 49% stake to UAE state-affiliated firm",
+      "publisher": "Ledger Insights",
+      "url": "https://www.ledgerinsights.com/trump-linked-crypto-venture-world-liberty-sold-49-stake-to-uae-state-affiliated-firm/",
+      "date": "2026-02-02"
+    },
+    {
+      "title": "President Trump says he was unaware of $500 million UAE investment in World Liberty Financial",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/deals/2026-02-03-president-trump-says-he-was-unaware-of-500-million-uae-investment-in-world-liberty-financial-388191",
+      "date": "2026-02-03"
+    },
+    {
+      "title": "Trump denies involvement in $500M UAE WLFI stake",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-denies-involvement-500m-uae-wlfi-stake",
+      "date": "2026-02-03"
+    },
+    {
+      "title": "Trump Denies Knowledge of $500 Million Abu Dhabi Crypto Stake",
+      "publisher": "Bloomberg Government",
+      "url": "https://news.bgov.com/crypto/trump-denies-knowledge-of-500-million-abu-dhabi-crypto-stake",
+      "date": "2026-02-02"
+    },
+    {
+      "title": "Trump Says He Knows 'Nothing' About World Liberty Financial as He Defends UAE Ties",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/382813/trump-says-he-knows-nothing-about-world-liberty-financial-as-he-defends-uae-ties",
+      "date": "2026-11"
+    },
+    {
+      "title": "Abu Dhabi Royal Secretly Bought Stake in Trump Crypto Firm (WSJ, aggregated)",
+      "publisher": "Ground News / Wall Street Journal",
+      "url": "https://ground.news/article/abu-dhabi-royal-secretly-bought-stake-in-trump-crypto-firm_a173ab",
+      "date": "2026-02-01"
+    },
+    {
+      "title": "UAE 'spy sheikh' takes 49% stake in Trump family's bank venture: WSJ",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
+      "date": "2026-08-27"
+    }
+  ],
+  "entities": [
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Tahnoon bin Zayed Al Nahyan",
+      "type": "person",
+      "description": "UAE national security adviser, brother of President Mohamed bin Zayed; chairs G42 and MGX."
+    },
+    {
+      "id": "aryam-investment-1",
+      "name": "Aryam Investment 1",
+      "type": "fund",
+      "description": "Abu Dhabi vehicle backed by Tahnoon that bought 49% of WLF."
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family-linked crypto venture."
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Signed the Aryam deal for WLF; WLF board member."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president; family entities received about $187M of the upfront payment."
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "US special envoy and WLF co-founder; family-linked entities received at least $31M."
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF co-founder and board member."
+    },
+    {
+      "id": "g42",
+      "name": "G42",
+      "type": "company",
+      "description": "Abu Dhabi AI firm chaired by Tahnoon; its executives took WLF board seats."
+    },
+    {
+      "id": "peng-xiao",
+      "name": "Peng Xiao",
+      "type": "person",
+      "description": "G42 CEO; Aryam representative on the WLF board."
+    },
+    {
+      "id": "martin-edelman",
+      "name": "Martin Edelman",
+      "type": "person",
+      "description": "G42 official; Aryam representative on the WLF board."
+    },
+    {
+      "id": "mohamed-bin-zayed",
+      "name": "Mohamed bin Zayed Al Nahyan",
+      "type": "person",
+      "description": "President of the UAE, Tahnoon's brother."
+    },
+    {
+      "id": "justin-sun",
+      "name": "Justin Sun",
+      "type": "person",
+      "description": "Largest publicly known WLF investor ($75M)."
+    },
+    {
+      "id": "sam-kessler",
+      "name": "Sam Kessler",
+      "type": "person",
+      "description": "WSJ reporter on the investigation."
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "The Wall Street Journal",
+      "type": "media",
+      "description": "Published the 2026-02-01 investigation."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Denied wrongdoing."
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "Home country of the buyer."
+    },
+    {
+      "id": "uae-chips-deal",
+      "name": "UAE AI chips deal",
+      "type": "event",
+      "description": "May 2025 US-UAE agreement on advanced AI chip exports, cited by critics as context."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "aryam-investment-1",
+      "target": "world-liberty-financial",
+      "label": "agreed to pay $500M for a 49% stake in",
+      "type": "ownership",
+      "date": "2025-01-16",
+      "amount_usd": 500000000
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "aryam-investment-1",
+      "label": "backs",
+      "type": "ownership",
+      "date": "2025-01"
+    },
+    {
+      "source": "eric-trump",
+      "target": "world-liberty-financial",
+      "label": "signed the Aryam stake sale on behalf of",
+      "type": "commercial",
+      "date": "2025-01-16"
+    },
+    {
+      "source": "aryam-investment-1",
+      "target": "donald-trump",
+      "label": "upfront payment of about $187M to Trump-family entities",
+      "type": "money",
+      "date": "2025-01",
+      "amount_usd": 187000000
+    },
+    {
+      "source": "aryam-investment-1",
+      "target": "steve-witkoff",
+      "label": "at least $31M to Witkoff-family-linked entities",
+      "type": "money",
+      "date": "2025-01",
+      "amount_usd": 31000000
+    },
+    {
+      "source": "peng-xiao",
+      "target": "world-liberty-financial",
+      "label": "board member representing Aryam",
+      "type": "advisory",
+      "date": "2025"
+    },
+    {
+      "source": "martin-edelman",
+      "target": "world-liberty-financial",
+      "label": "board member representing Aryam",
+      "type": "advisory",
+      "date": "2025"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "g42",
+      "label": "chairs",
+      "type": "ownership"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "mohamed-bin-zayed",
+      "label": "brother of",
+      "type": "family"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "uae",
+      "label": "national security adviser of",
+      "type": "political"
+    },
+    {
+      "source": "donald-trump",
+      "target": "eric-trump",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "zach-witkoff",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "justin-sun",
+      "target": "world-liberty-financial",
+      "label": "bought $75M of WLFI tokens from",
+      "type": "money",
+      "date": "2024-11",
+      "amount_usd": 75000000
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "world-liberty-financial",
+      "label": "revealed the secret UAE stake in",
+      "type": "media",
+      "date": "2026-02-01"
+    },
+    {
+      "source": "sam-kessler",
+      "target": "wall-street-journal",
+      "label": "reporter at",
+      "type": "media"
+    },
+    {
+      "source": "white-house",
+      "target": "wall-street-journal",
+      "label": "denied wrongdoing in response to",
+      "type": "political",
+      "date": "2026-02"
+    },
+    {
+      "source": "g42",
+      "target": "uae-chips-deal",
+      "label": "earmarked share of chips under",
+      "type": "regulatory",
+      "date": "2025-05"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "C14",
+  "title": "Steve and Zach Witkoff",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's Middle East envoy, later also styled Special Envoy for Peace Missions. WSJ reporting shows that Aryam Investment 1, an Abu Dhabi vehicle backed by Sheikh Tahnoon, bought 49% of WLF for $500M in January 2025, making it the largest outside shareholder. The claim that WLF 'now says' Steve has divested is misattributed and overstated. WLF said in May 2025 that divestment was in process; Bloomberg and Senate Democrats reported it incomplete in September and October 2025; the assertion that he has 'divested' came from the White House in 2026. A 2026 disclosure also shows about $107M in 2025 income from his WLF-linked holding company.",
+  "sub_claims": [
+    {"statement": "The Witkoffs, including Zach Witkoff, are co-founders of World Liberty Financial.", "verdict": "confirmed", "finding": "Steve Witkoff co-founded WLF in 2024 with his sons Zach and Alex. Zach is a co-founder, has been described as CEO, and sits on WLF's board. Steve was later listed as 'co-founder emeritus'.", "sources": ["https://www.bisnow.com/news/national/commercial-real-estate/trumps-middle-east-envoy-divesting-from-real-estate-firm-he-founded-128498", "https://en.wikipedia.org/wiki/Zach_Witkoff"]},
+    {"statement": "Steve Witkoff is the US Special Envoy to the Middle East.", "verdict": "confirmed", "finding": "Trump named him Special Envoy to the Middle East days after the November 2024 election. By 2026 the White House was also calling him Special Envoy for Peace Missions.", "sources": ["https://www.bisnow.com/news/national/commercial-real-estate/trumps-middle-east-envoy-divesting-from-real-estate-firm-he-founded-128498", "https://www.aol.com/articles/uae-linked-firm-bought-major-043021118.html"]},
+    {"statement": "WLF's largest shareholder is from the Middle East.", "verdict": "mostly-accurate", "finding": "Per the WSJ (2026-02-01), Aryam Investment 1, an Abu Dhabi vehicle backed by Tahnoon bin Zayed, agreed in January 2025 to buy 49% of WLF for $500M. Eric Trump signed about four days before the inauguration. Of the $250M paid upfront, about $187M went to Trump-family entities and at least $31M to Witkoff-family entities. Aryam took 2 of 5 board seats. It is described as the largest outside shareholder; WLF's site showed the Trump family stake falling from 75% to 38%. WLF never disclosed the buyer.", "sources": ["https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931", "https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj", "https://decrypt.co/356591/uae-royals-trump-crypto-venture-ethical-concerns"]},
+    {"statement": "This creates a possible conflict of interest.", "verdict": "unverified", "finding": "This is opinion, though the concern is documented: Senate Democrats sent letters in October 2025, and the WSJ reported that the UAE gained AI-chip access months after the investment. No source establishes a quid pro quo or a causal link to policy.", "sources": ["https://www.slotkin.senate.gov/wp-content/uploads/2025/10/2025.10.22-Sen.-Slotkin-Colleagues-Letter-to-Witkoff-on-WLF-Assets.pdf", "https://decrypt.co/356591/uae-royals-trump-crypto-venture-ethical-concerns"]},
+    {"statement": "World Liberty Financial now says Steve Witkoff has divested his stake.", "verdict": "partly-accurate", "finding": "WLF posted in May 2025 only that he was 'in the process' of divesting. Bloomberg reported on 2025-09-17 that he still held the WLF assets, and Senate Democrats said in October 2025 that his disclosure still showed WLF crypto. White House counsel David Warrington told CNN in February 2026 that he 'has also divested', and spokeswoman Anna Kelly told ABC in September 2026 that he had 'fully divested'. The disclosure ABC reported shows about $107M in 2025 income from a WLF-linked holding company. No divestiture certificate or recipient of the stake was found.", "sources": ["https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets", "https://www.aol.com/articles/uae-linked-firm-bought-major-043021118.html", "https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300", "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/"]},
+    {"statement": "The divestment seems intended to avoid precisely these conflict questions.", "verdict": "unverified", "finding": "This is interpretation. Divestment was announced in May 2025, before the Aryam stake became public in February 2026. Ethics divestment exists to address conflicts, so the inference is plausible but not evidence of any wrongdoing.", "sources": ["https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets"]}
+  ],
+  "corrections": [
+    "Transcript says WLF 'now says' Steve Witkoff divested. WLF said in May 2025 only that divestment was in process; the claim that it was complete came from White House counsel David Warrington (February 2026) and spokeswoman Anna Kelly (September 2026).",
+    "Divestment was reported incomplete as of September–October 2025 (Bloomberg; Senate Democrats). Witkoff also reported about $107M in 2025 income from his WLF-linked holding company, up from $34M in 2024.",
+    "The 'largest shareholder from the Middle East' is Aryam Investment 1 (Abu Dhabi/UAE, backed by Sheikh Tahnoon) with 49%, described as the largest outside shareholder.",
+    "Witkoff's title by 2026 was also given as Special Envoy for Peace Missions."
+  ],
+  "denials_and_context": [
+    "WLF spokesman David Wachsman said neither Trump nor Steve Witkoff had any involvement in the Aryam transaction.",
+    "Trump said he was unaware of the $500M UAE investment.",
+    "The White House says Witkoff does not take part in official matters affecting his financial interests and has fully divested from WLF. A Witkoff spokesman says he does not discuss WLF in his official duties.",
+    "At least $31M of Aryam's upfront payment reportedly went to Witkoff-family entities, so the family had a financial stake in the deal regardless of Steve's own status.",
+    "No source shows the investment caused any specific US policy decision."
+  ],
+  "sources": [
+    {"title": "UAE Sheikh secretly acquired 49% of Trump's World Liberty Financial days before inauguration: WSJ", "publisher": "The Block", "url": "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931", "date": "2026-02-01"},
+    {"title": "President Trump says he was unaware of $500 million UAE investment in World Liberty Financial", "publisher": "The Block", "url": "https://www.theblock.co/news/deals/2026-02-03-president-trump-says-he-was-unaware-of-500-million-uae-investment-in-world-liberty-financial-388191", "date": "2026-02-03"},
+    {"title": "UAE-linked firm bought major stake in Trump family crypto company, Wall Street Journal reports", "publisher": "CNN (via AOL)", "url": "https://www.aol.com/articles/uae-linked-firm-bought-major-043021118.html", "date": "2026-02-02"},
+    {"title": "UAE-backed firm buys 49 percent of Trump-linked World Liberty: WSJ", "publisher": "Cointelegraph", "url": "https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj", "date": "2026-02"},
+    {"title": "UAE Royal's Alleged Stake in Trump Crypto Venture Raises Ethical Concerns", "publisher": "Decrypt", "url": "https://decrypt.co/356591/uae-royals-trump-crypto-venture-ethical-concerns", "date": "2026-02"},
+    {"title": "Steve Witkoff Is Still Holding Trump-Linked Crypto Assets", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets", "date": "2025-09-17"},
+    {"title": "Sen. Slotkin & Colleagues Letter to Witkoff on WLF Assets", "publisher": "US Senate (Office of Sen. Slotkin)", "url": "https://www.slotkin.senate.gov/wp-content/uploads/2025/10/2025.10.22-Sen.-Slotkin-Colleagues-Letter-to-Witkoff-on-WLF-Assets.pdf", "date": "2025-10-22"},
+    {"title": "Sen. Schiff Leads Senate Democrats in Demanding Answers from Trump Envoy Steve Witkoff on Failure to Divest Ownership of World Liberty Financial Crypto Assets", "publisher": "US Senate (Office of Sen. Schiff)", "url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/", "date": "2025-10"},
+    {"title": "Steve Witkoff earned nearly $107M from Trump-affiliated crypto venture, disclosures show", "publisher": "ABC News", "url": "https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300", "date": "2026-09"},
+    {"title": "Trump Envoy Witkoff's Income Triples to $107M From World Liberty Crypto Entity", "publisher": "The Crypto Times", "url": "https://www.cryptotimes.io/2026/09/09/trump-envoy-witkoffs-income-triples-to-107m-from-world-liberty-crypto-entity/", "date": "2026-09-09"},
+    {"title": "Steve Witkoff To Divest From CRE Firm As His White House Influence Grows", "publisher": "Bisnow", "url": "https://www.bisnow.com/news/national/commercial-real-estate/trumps-middle-east-envoy-divesting-from-real-estate-firm-he-founded-128498", "date": "2025-03"},
+    {"title": "Zach Witkoff", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Zach_Witkoff", "date": "2026-11"}
+  ],
+  "entities": [
+    {"id": "steve-witkoff", "name": "Steve Witkoff", "type": "person", "description": "Real-estate developer, WLF co-founder (later 'co-founder emeritus'), US Special Envoy to the Middle East / for Peace Missions."},
+    {"id": "zach-witkoff", "name": "Zach Witkoff", "type": "person", "description": "Son of Steve Witkoff; WLF co-founder, described as CEO, and board member."},
+    {"id": "alex-witkoff", "name": "Alex Witkoff", "type": "person", "description": "Son of Steve Witkoff; WLF co-founder; runs the Witkoff Group."},
+    {"id": "world-liberty-financial", "name": "World Liberty Financial", "type": "company", "description": "Trump- and Witkoff-linked crypto venture (WLFI token, USD1 stablecoin)."},
+    {"id": "aryam-investment-1", "name": "Aryam Investment 1", "type": "fund", "description": "Abu Dhabi vehicle backed by Sheikh Tahnoon; bought 49% of WLF for $500M in January 2025."},
+    {"id": "tahnoon-bin-zayed", "name": "Sheikh Tahnoon bin Zayed Al Nahyan", "type": "person", "description": "UAE national security adviser; backer of Aryam."},
+    {"id": "g42", "name": "G42", "type": "company", "description": "Abu Dhabi AI group whose executives manage Aryam and hold WLF board seats."},
+    {"id": "eric-trump", "name": "Eric Trump", "type": "person", "description": "Signed the Aryam deal for WLF."},
+    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US President; WLF co-founder emeritus; says he was unaware of the Aryam investment."},
+    {"id": "david-warrington", "name": "David Warrington", "type": "person", "description": "White House counsel; told CNN in February 2026 that Witkoff had divested from WLF."},
+    {"id": "anna-kelly", "name": "Anna Kelly", "type": "person", "description": "White House spokeswoman; said Witkoff 'fully divested' from WLF."},
+    {"id": "white-house", "name": "White House", "type": "government", "description": "Source of the claims that Witkoff completed divestment."},
+    {"id": "us-congress", "name": "US Congress", "type": "government", "description": "Senate Democrats (Schiff, Slotkin) questioned Witkoff's failure to divest in October 2025."},
+    {"id": "uae", "name": "United Arab Emirates", "type": "country", "description": "Home of Aryam/Tahnoon; received expanded US AI-chip access in 2025."},
+    {"id": "uae-chips-deal", "name": "UAE AI chips deal", "type": "event", "description": "2025 US commitment giving the UAE access to about 500,000 advanced AI chips a year."},
+    {"id": "wall-street-journal", "name": "The Wall Street Journal", "type": "media", "description": "Broke the Aryam 49% stake story on 2026-02-01."}
+  ],
+  "relationships": [
+    {"source": "zach-witkoff", "target": "steve-witkoff", "label": "son of", "type": "family"},
+    {"source": "alex-witkoff", "target": "steve-witkoff", "label": "son of", "type": "family"},
+    {"source": "steve-witkoff", "target": "world-liberty-financial", "label": "co-founded (later co-founder emeritus)", "type": "ownership", "date": "2024"},
+    {"source": "zach-witkoff", "target": "world-liberty-financial", "label": "co-founder, CEO and board member", "type": "ownership", "date": "2024"},
+    {"source": "alex-witkoff", "target": "world-liberty-financial", "label": "co-founder", "type": "ownership", "date": "2024"},
+    {"source": "steve-witkoff", "target": "white-house", "label": "Special Envoy to the Middle East / for Peace Missions", "type": "political", "date": "2024-11"},
+    {"source": "aryam-investment-1", "target": "world-liberty-financial", "label": "bought 49% stake for", "type": "money", "date": "2025-01", "amount_usd": 500000000},
+    {"source": "tahnoon-bin-zayed", "target": "aryam-investment-1", "label": "backs", "type": "ownership"},
+    {"source": "g42", "target": "aryam-investment-1", "label": "executives manage; hold 2 WLF board seats", "type": "advisory"},
+    {"source": "aryam-investment-1", "target": "uae", "label": "Abu Dhabi-based vehicle of", "type": "political"},
+    {"source": "eric-trump", "target": "aryam-investment-1", "label": "signed stake sale with", "type": "commercial", "date": "2025-01"},
+    {"source": "aryam-investment-1", "target": "steve-witkoff", "label": "at least $31M of upfront payment to Witkoff-family entities", "type": "money", "date": "2025", "amount_usd": 31000000},
+    {"source": "aryam-investment-1", "target": "donald-trump", "label": "about $187M of upfront payment to Trump-family entities", "type": "money", "date": "2025", "amount_usd": 187000000},
+    {"source": "world-liberty-financial", "target": "steve-witkoff", "label": "about $107M 2025 income via WLF-linked holding company", "type": "money", "date": "2025", "amount_usd": 107000000},
+    {"source": "david-warrington", "target": "steve-witkoff", "label": "asserted divestment from WLF", "type": "political", "date": "2026-02"},
+    {"source": "anna-kelly", "target": "steve-witkoff", "label": "asserted 'fully divested' from WLF", "type": "political", "date": "2026-09"},
+    {"source": "us-congress", "target": "steve-witkoff", "label": "Senate Democrats demanded answers on failure to divest", "type": "regulatory", "date": "2025-10"},
+    {"source": "steve-witkoff", "target": "uae-chips-deal", "label": "involved in UAE talks", "type": "political", "date": "2025"},
+    {"source": "wall-street-journal", "target": "aryam-investment-1", "label": "revealed stake", "type": "media", "date": "2026-02-01"}
+  ]
+}
