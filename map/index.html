@@ -1,6 +1,6 @@
 <title>Trump Claims Map</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@500;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap">
 <link rel="stylesheet" href="style.css">
 
 <div class="app" id="app">
@@ -29,17 +29,17 @@
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M2 4h12M4.5 8h7M7 12h2"></path></svg>
       Filters <span class="count" id="filter-count" hidden></span>
     </button>
-    <div class="stats" id="stats" aria-label="Summary figures"></div>
+    <div class="stats" id="stats" role="group" aria-label="Summary figures"></div>
   </div>
 
   <div class="hint" id="hint">
-    <p><strong>How to read this.</strong> <span class="wide">Diamonds are claims, coloured and marked by verdict. Other glyphs are the people, companies and agencies they involve; lines are documented relationships, coloured by type. Select a node to open its file; double-click to isolate its network. </span><span class="narrow">Diamonds are claims, marked by verdict. Other glyphs are people and organisations. Tap a node to open its file. </span>Everyone named denies wrongdoing; nothing here is an accusation of a crime.</p>
-    <button class="btn small" id="hint-close">Dismiss</button>
+    <p><strong>How to read this.</strong> <span class="wide">Diamonds are claims, coloured and marked by verdict. Other shapes are the people, companies and agencies they involve; lines are documented relationships, coloured by type. Select a node to open its file; double-click to isolate its network. </span><span class="narrow">Diamonds are claims, marked by verdict. Other shapes are people and organisations. Tap a node to open its file. </span>Everyone named denies wrongdoing; nothing here is an accusation of a crime.</p>
+    <button class="textbtn" id="hint-close">Dismiss</button>
   </div>
 
   <div class="main" id="main">
     <aside class="rail" id="rail" aria-label="Filters and key">
-      <div class="rail-head"><span>Filters and key</span><button type="button" class="btn small" data-act="reset-filters" title="Turn every filter back on">Reset</button><button type="button" class="iconbtn narrow-flex" data-act="close-filters" aria-label="Close filters"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3.5 3.5l9 9M12.5 3.5l-9 9"></path></svg></button></div>
+      <div class="rail-head"><span>Filters and key</span><button type="button" class="textbtn" data-act="reset-filters" title="Turn every filter back on">Reset</button><button type="button" class="iconbtn narrow-flex" data-act="close-filters" aria-label="Close filters"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3.5 3.5l9 9M12.5 3.5l-9 9"></path></svg></button></div>
       <form class="rail-body" id="filters"></form>
     </aside>
 
@@ -68,7 +68,7 @@
       </div>
     </div>
 
-    <aside class="panel" id="panel" aria-label="Dossier">
+    <aside class="panel" id="panel" aria-label="File">
       <div class="panel-head">
         <span class="crumb" id="panel-crumb">Guide</span>
         <button class="iconbtn sheet-only" id="panel-size" aria-label="Expand panel" title="Expand or shrink" aria-pressed="false">

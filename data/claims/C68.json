@@ -1,0 +1,1491 @@
+{
+  "id": "C68",
+  "title": "The tech-billionaire nexus: Ellison, Musk, Altman, Zuckerberg, Bezos",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Nearly every principal named in the brief is documented as both paying Trump, his family or his projects and receiving a federal decision. The Ellisons settled for $16M, then won FCC approval and the WBD contest in which Kushner's Affinity briefly co-invested. Oracle sits beside Tahnoon's MGX in Stargate and the TikTok JV. Don Jr.'s 1789 holds xAI/SpaceX stakes ahead of SpaceX's record IPO. OpenAI's Brockman gave $25M to MAGA Inc. before the state-AI preemption order. Nvidia ($25M), Palantir and Microsoft ($10M each), and Meta and Amazon ($5M each) funded the ballroom while their matters were pending. The money and the decisions are documented; causation is not, and several links (Silver Lake as hub, Ellison-X-settlement, TikTok-Meta ruling) are our own inference.",
+  "sub_claims": [
+    {
+      "statement": "Ellison family / Paramount: a $16M settlement with Trump was followed by FCC approval of Skydance-Paramount, then by a Trump-commented contest for Warner Bros. Discovery that the Ellisons won.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (multiple outlets, SEC filings). Paramount settled Trump's '60 Minutes' suit for $16M on 2025-07-01/02; the FCC approved the ~$8B Skydance deal 2-1 on 2025-07-24 (C33). David Ellison then bid for WBD. In early-mid December 2025, after Netflix signed for WBD's studios/streaming, Trump said the Netflix deal 'could be a problem' on market share, that he might be 'involved' in the decision, and that CNN should be sold; reports said David Ellison had visited Trump and promised 'significant changes' at CNN (WSJ, relayed by NBC). On 2025-12-22 Larry Ellison gave an 'irrevocable personal guarantee' of $40.4B of the bid's equity. WBD dropped Netflix on 2026-02-27 (Paramount paid Netflix's $2.8B break fee); shareholders approved $31/share (~$81B equity, ~$110-111B with debt) in April 2026; the Trump DOJ cleared it in the summer; it closed on about 2026-09-29 (AP 'Tuesday', our date inference). The Ellisons now control CBS (Bari Weiss as editor-in-chief) and CNN. What this does not show: no source documents a quid pro quo. Trump said none of the bidders were 'particularly great friends'; Paramount denies any link between the settlement and approvals.",
+      "sources": [
+        "https://www.cbsnews.com/amp/news/paramount-trump-60-minutes-lawsuit-settlement",
+        "https://au.variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-25630",
+        "https://www.nbcnewyork.com/news/national-international/donald-trump-cnn-warner-bros-deal/6428839/",
+        "https://www.thewrap.com/industry-news/business/larry-ellison-personal-guarantee-paramount-amended-warner-bros-discovery-bid/",
+        "https://www.adn.com/business-economy/2025/12/22/larry-ellison-guarantees-404b-in-paramounts-hostile-bid-for-warner-bros-discovery/",
+        "https://www.britannica.com/money/netflix-paramount-skydance-battle-for-warner-bros",
+        "https://finance.yahoo.com/news/warner-bros-investors-approve-110-billion-sale-to-paramount-skydance-following-long-battle-with-netflix-150428059.html",
+        "https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060",
+        "https://www.nbcwashington.com/news/business/paramount-completes-warner-bros-merger-to-form-skydance/",
+        "https://www.bworldonline.com/bloomberg/2026/03/03/733619/david-ellison-is-shaking-up-cbs-news-cnn-looks-to-be-next/"
+      ]
+    },
+    {
+      "statement": "Jared Kushner's Affinity Partners was a named backer of the Ellisons' hostile WBD bid alongside Saudi PIF, QIA and Abu Dhabi's L'imad, then withdrew.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (Paramount's SEC tender filing reported by Deadline, Yahoo/TheWrap; CNBC). The December 2025 filing listed $24B from three Gulf sovereign funds (PIF, QIA, L'imad Holding) plus Affinity, all as non-voting equity with no board rights. Affinity exited on 2025-12-16. The Gulf funds stayed in, with commitments re-confirmed in April 2026; Paramount argued no CFIUS review was needed because the funds had no governance rights. So the President's son-in-law was briefly a co-investor in a deal the President publicly commented on. Affinity's own investors include PIF (C15).",
+      "sources": [
+        "https://deadline.com/2025/12/paramount-warner-bros-bid-jared-kushner-middle-east-funds-1236642045/",
+        "https://finance.yahoo.com/news/paramount-warners-bid-includes-24-154015038.html",
+        "https://www.cnbc.com/2025/12/16/kushner-affinity-paramount-wbd-netflix.html",
+        "https://deadline.com/2026/04/paramount-wbd-merger-foreign-backing-gulf-funds-deal-1236780058/"
+      ]
+    },
+    {
+      "statement": "Oracle (Larry Ellison) is a counterparty in three administration-blessed deals: Stargate, the TikTok US joint venture (with MGX), and a ~$300B OpenAI compute contract.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. Stargate was announced at the White House on 2025-01-21 with SoftBank, OpenAI, Oracle and MGX (C08). The WSJ reported on about 2025-09-10 that OpenAI would spend about $300B over five years on Oracle compute from 2027; Ellison briefly became the world's richest person. Trump's executive order of 2025-09-25 approved the TikTok divestiture framework. The JV closed on 2026-01-22, with Oracle, Silver Lake and MGX at 15% each, ByteDance at 19.9%, and Oracle as 'trusted security partner'. MGX is chaired by Tahnoon bin Zayed, whose Aryam bought 49% of WLF (C06, C57), so Oracle's TikTok co-owner is also the Trump family's biggest crypto counterparty. The TikTok structure was a presidential decision.",
+      "sources": [
+        "https://openai.com/index/announcing-the-stargate-project/",
+        "https://www.theregister.com/2025/09/11/openai_reportedly_on_the_hook/",
+        "https://www.rte.ie/news/business/2025/0911/1532890-oracle-shares-surge",
+        "https://www.macrumors.com/2025/09/25/tiktok-trump-executive-order/",
+        "https://fortune.com/2025/12/19/tiktok-agrees-u-s-joint-venture-deal-with-oracle-silver-lake-and-mgx/",
+        "https://finance.yahoo.com/news/deal-us-ownership-tiktok-closed-002520253.html"
+      ]
+    },
+    {
+      "statement": "Silver Lake sits in two Trump-adjacent consortia: the TikTok JV (with Oracle and MGX) and the $55B Electronic Arts buyout (with PIF and Kushner's Affinity).",
+      "verdict": "confirmed",
+      "finding": "Each deal is DOCUMENTED; the overlap is INFERRED (our cross-reference, and no source we found frames Silver Lake as a link). The EA take-private was agreed on 2025-09-29 and closed on 2026-08-04 after US approvals: PIF about 93.4%, Silver Lake about 5.5%, Affinity about 1.1%; JPMorgan committed $20B of debt (AP). The TikTok JV closed on 2026-01-22. In the same window, Silver Lake was a co-owner with both the Tahnoon network (MGX) and Kushner/PIF. This shows a shared deal partner, not coordination.",
+      "sources": [
+        "https://abcnews.com/Technology/wireStory/video-game-giant-electronic-arts-closes-55-billion-135394606",
+        "https://wtop.com/news/2026/08/video-game-giant-electronic-arts-closes-55-billion-go-private-sale-of-its-business/",
+        "https://fortune.com/2025/12/19/tiktok-agrees-u-s-joint-venture-deal-with-oracle-silver-lake-and-mgx/",
+        "https://finance.yahoo.com/news/deal-us-ownership-tiktok-closed-002520253.html"
+      ]
+    },
+    {
+      "statement": "Elon Musk: the largest 2024 Trump donor, then DOGE head; his companies won federal AI business and went public in a record IPO, and Don Jr.'s 1789 Capital holds stakes in xAI and SpaceX.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED: Musk's 2024 political spending was about $277-290M per FEC-based tallies, mostly via America PAC. He then led DOGE. xAI was one of four firms (with Google, OpenAI and Anthropic) given a contract with a ceiling of up to $200M by the Pentagon's CDAO in July 2025, and launched 'Grok for Government' on the GSA schedule. SpaceX acquired xAI in an all-stock merger in early February 2026 (about $1.25T). SpaceX priced a record ~$75B IPO at $135 on 2026-06-11, valuing it at about $1.77T, and listed on Nasdaq on 2026-06-12. 1789 Capital, where Don Jr. has been a partner since Nov 2024, invested in SpaceX, xAI and Neuralink, reportedly more than $50M across xAI and SpaceX (Reuters, relayed by SMH and Marine Link), after Omeed Malik met Musk during the campaign (Reuters sources). INFERRED, not sourced: 1789's xAI stake converted into SpaceX stock and gained value in the IPO; no source gives 1789's gain. Musk fell out with Trump in 2025, reconciled, and America PAC re-entered the 2026 midterms ($50.3M raised as of 2026-06-30, almost all from Musk, per FactCheck.org). 1789 says Don Jr. recuses himself from dealing with the federal government (C32).",
+      "sources": [
+        "https://www.adn.com/nation-world/2024/12/06/elon-musk-spent-at-least-277m-backing-trump-and-other-republicans-fec-filings-show/",
+        "https://spokesman.com/stories/2025/feb/01/elon-musk-donated-288-million-in-2024-election-fin",
+        "https://www.nextgov.com/acquisition/2025/07/pentagon-awards-multiple-companies-200m-contracts-ai-tools/406698",
+        "https://www.cbsnews.com/news/grok-elon-musk-xai-pentagon-contract",
+        "https://www.investmentnews.com/equities/musk-merger-creates-125t-privately-held-company-ripe-for-ipo-but-what-about-tesla/265106",
+        "https://dealstreetasia.com/stories/musk-spacex-ipo-485300",
+        "https://www.thestar.com.my/news/world/2026/06/12/musk039s-spacex-prices-record-75-billion-ipo-at-135-a-share",
+        "https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/",
+        "https://www.marinelink.com/blogs/blog/1789-capital-a-trumplinked-venture-capital-fund-has-assets-of-103282",
+        "https://www.asiae.co.kr/en/article/2026051810171921837",
+        "https://www.factcheck.org/2026/09/america-pac-2/",
+        "https://washingtonexaminer.com/news/4711280/elon-musk-america-pac-2026-midterm-elections-spending"
+      ]
+    },
+    {
+      "statement": "Larry Ellison financed Musk's Twitter takeover, and X later paid about $10M to settle Trump's suit.",
+      "verdict": "confirmed",
+      "finding": "Both ends are DOCUMENTED; the chain is INFERRED. A 2022 SEC filing shows Ellison committed $1B to Musk's $44B Twitter buyout, making him the largest outside backer, and texts later released in court show 'A billion...or whatever you recommend'. Ellison was then a Tesla board member. X paid about $10M to settle Trump's account-suspension suit in February 2025 (WSJ/CNBC; C33). No source connects Ellison to the X settlement. This shows only that the Ellison and Musk camps are financially intertwined.",
+      "sources": [
+        "https://www.channelfutures.com/business-models/oracle-co-founder-larry-ellison-biggest-backer-of-elon-musks-twitter-takeover",
+        "https://www.streetinsider.com/General+News/Oracles+Ellison+Offered+Musk+Billions+to+Fund+Twitter+Deal+Like+it+Was+Pocket+Change/20649387.html",
+        "https://www.nbcwashington.com/news/business/money-report/elon-musks-company-x-settles-trump-lawsuit-over-account-suspension/3843538/"
+      ]
+    },
+    {
+      "statement": "OpenAI's leaders gave heavily to Trump vehicles and to an AI super PAC, and Trump then signed an order attacking state AI laws.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (FEC-based reporting). Sam Altman gave $1M personally to the inaugural fund (Dec 2024). Greg Brockman, OpenAI's president, and his wife Anna gave $25M to MAGA Inc. (received 2025-09-12), nearly a quarter of its H2-2025 haul (Bloomberg, 2026-01-02). They also gave $25M to Leading the Future, the >$100M pro-AI super PAC launched on 2025-08-25 with Andreessen Horowitz, Joe Lonsdale and others, which works with Fairshake's strategist. On 2025-12-11 Trump signed 'Ensuring a National Policy Framework for Artificial Intelligence', creating a DOJ AI Litigation Task Force to challenge state AI laws and tying broadband funds to state policy. a16z and OpenAI had pushed for a federal moratorium on state AI laws. The link between the donations and the order is a timing pattern only, and no source asserts causation. OpenAI says Brockman's giving is personal. The Kushner layer: Josh Kushner's Thrive is a major OpenAI investor, and OpenAI took a stake in Thrive Holdings on 2025-12-01 (C66).",
+      "sources": [
+        "https://abcnews.go.com/US/wireStory/openais-altman-donate-1-million-trumps-inaugural-fund-116771112",
+        "https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest",
+        "https://the-decoder.com/openai-co-founder-greg-brockman-donates-25-million-to-trumps-maga-inc-super-pac/",
+        "https://gizmodo.com/openai-really-doesnt-like-the-attention-its-co-founders-political-donations-are-getting-2000766386",
+        "https://fortune.com/2025/08/26/openai-president-greg-brockman-andreessen-horowitz-super-pac-ai-pro-innovation/",
+        "https://siliconangle.com/2025/08/25/silicon-valley-ai-leaders-launch-100m-leading-future-super-pac/",
+        "https://axios.com/2025/12/11/trump-signs-executive-order-state-ai-laws",
+        "https://nextgov.com/artificial-intelligence/2025/12/trump-signs-order-targeting-cumbersome-state-ai-regulation/410120",
+        "https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-executive-order-targets-state-ai-laws-states-show-no-signs-of-backing-down",
+        "https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/"
+      ]
+    },
+    {
+      "statement": "Meta/Zuckerberg: inaugural donation, a $25M settlement, a ballroom gift, and the FTC breakup case lost by the government.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED: Meta gave $1M to the inauguration (Dec 2024) and settled Trump's suspension suit for $25M (about $22M to the library) on 2025-01-29 (C33). The leaked ballroom spreadsheet (Washington Post, 2026-10-15) shows Meta at $5M. Bloomberg reported that Meta lobbied the FTC chair and other officials to settle the monopoly case in 2025 and failed. On 2025-11-18 Judge Boasberg ruled for Meta, finding that TikTok and YouTube are in the market. That is a court ruling, not an administration favour. INFERRED, not sourced: TikTok's survival under Trump's JV deal is part of the market reality the court relied on. We found no source that ties the two.",
+      "sources": [
+        "https://www.npr.org/2024/12/13/nx-s1-5227874/trump-bezos-zuckerberg-amazon-facebook-open-ai-meta-inauguration-fund",
+        "https://www.salon.com/2025/01/29/meta-settles-with-for-25-million",
+        "https://news.bloomberglaw.com/antitrust/meta-wins-ftc-antitrust-trial-over-instagram-whatsapp-deals",
+        "https://abc7news.com/post/meta-prevails-historic-ftc-antitrust-case-have-break-off-whatsapp-instagram/18170444/",
+        "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors"
+      ]
+    },
+    {
+      "statement": "Amazon/Bezos paid the First Lady via the 'Melania' documentary, gave to the inauguration and ballroom, and has major matters before the government.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (C44): about $40M for the rights (Puck/WSJ; Amazon has not confirmed the price), and Trump's 2025 OGE report shows a $10.71M licensing fee to Melania. Amazon gave $1M to the inauguration and $5M to the ballroom (WaPo leak). Its matters include the FTC monopoly trial (set for 2027-03-29), the $2.5B Prime settlement (2025-09-25), the Amazon Leo FCC waiver, and AWS federal contracts. Bezos says he had 'nothing to do with' the film deal.",
+      "sources": [
+        "https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/",
+        "https://www.npr.org/2024/12/13/nx-s1-5227874/trump-bezos-zuckerberg-amazon-facebook-open-ai-meta-inauguration-fund",
+        "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors"
+      ]
+    },
+    {
+      "statement": "Nvidia/Jensen Huang gave $25M to the ballroom anonymously while winning export decisions from the President, whose portfolio bought Nvidia stock.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. The Washington Post's leaked spreadsheet (2026-10-15) shows Nvidia committed $25M, the joint-top gift with Apple, and asked for anonymity; it was not on the White House's October 2025 list of 37 donors. Nvidia says the gift went to a nonpartisan trust. Policy: a 15% revenue-share arrangement for China sales was floated in summer 2025. On 2025-12-08 Trump allowed H200 sales to approved Chinese customers with 25% to the US government. Commerce licensed UAE/Saudi shipments in October and November 2025 (C34, C56). Axios (2026-11-11) reports Lutnick stalled curbs on chip diversion to China (C50). Trump's Q1 2026 OGE 278-T shows Nvidia purchases, including $1M-$5M on 2026-02-10 (Capitol Trades). No source shows the ballroom gift bought any decision, and the White House says the trades are run by third-party managers and comply with the STOCK Act.",
+      "sources": [
+        "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
+        "https://www.implicator.ai/nvidia-and-apple-each-committed-25-million-to-trumps-ballroom-leaked-list-shows/",
+        "https://www.wypr.org/2026-10-16/investigation-details-who-donated-to-the-white-house-ballroom-project",
+        "https://axios.com/2025/12/09/trump-nvidia-ai-h200-china",
+        "https://techcrunch.com/2025/12/08/department-of-commerce-may-approve-nvidia-h200-chip-exports-to-china",
+        "https://www.thenationalnews.com/future/technology/2025/11/20/uae-ai-nvidia-chips-us/",
+        "https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+        "https://www.capitoltrades.com/articles/3700-trades-half-a-billion-dollars-inside-trump-s-q1-stock-spree-2026-05-18"
+      ]
+    },
+    {
+      "statement": "Palantir/Thiel: Vance's patron's company won large federal contracts, gave to the ballroom, and was touted by Trump by ticker after his portfolio bought it.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. Thiel backed Vance's 2022 Senate run with about $15M (via a super PAC) and had employed him earlier. Palantir won an ICE contract of about $30M for 'ImmigrationOS' in April 2025, and the Army signed a 10-year enterprise agreement with a $10B ceiling on 2025-07-31 (a ceiling, not obligated money). The WaPo spreadsheet shows Palantir committed $10M to the ballroom. Trump's disclosures show PLTR purchases, and on 2026-04-10 he praised Palantir with its ticker on Truth Social (C20). Palantir and the White House deny any improper link.",
+      "sources": [
+        "https://www.mediamatters.org/joe-rogan-experience/were-headed-surveillance-state-right-wing-figures-and-podcasters-are",
+        "https://www.theregister.com/2025/04/21/ice_enlists_palantir_to_develop/",
+        "https://defensescoop.com/2025/07/31/army-palantir-software-enterprise-agreement-10-billion/",
+        "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
+        "https://finance.yahoo.com/markets/stocks/articles/trump-praises-palantir-pltr-truth-044917332.html"
+      ]
+    },
+    {
+      "statement": "Microsoft gave $10M to the ballroom, and Trump publicly demanded it fire a former DOJ official, citing its government contracts.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. Microsoft committed $10M to the ballroom (WaPo leak) and was on the October 2025 list of 37 donors. On 2025-09-26 Trump posted that Microsoft should 'immediately terminate' global-affairs president Lisa Monaco, calling her 'a menace' 'especially given the major contracts that Microsoft has with the United States Government'. Microsoft declined to comment, and we found no report of her being fired. Microsoft also invested $1.5B in G42 (C57) and co-founded the AI Infrastructure Partnership with MGX. This shows the President linking a contractor's federal business to its personnel; it does not show what Microsoft did in response.",
+      "sources": [
+        "https://m.washingtontimes.com/news/2025/sep/26/trump-demands-microsoft-fire-former-biden-justice-department-official/",
+        "https://gizmodo.com/trump-demands-microsoft-fire-head-of-global-affairs-2000664696",
+        "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
+        "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/"
+      ]
+    },
+    {
+      "statement": "The President personally traded the stocks of the tech companies whose deals his administration approved (Oracle, Nvidia, Microsoft, Meta, Amazon, Palantir).",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED, via press summaries of the OGE 278-T filings, not the primary PDF. Q1 2026 had about 3,642-3,700 transactions. Purchases included Oracle ($2.2M-$10.6M), Nvidia, Microsoft and Apple; there were large sales of Amazon, Meta and Microsoft ($5M-$25M bands). INFERRED: Trump held Oracle while Oracle took 15% of the TikTok JV he approved. No source asserts that the trades were directed with knowledge of policy. The filings do not say who directed them, and the White House says they comply.",
+      "sources": [
+        "https://www.capitoltrades.com/articles/3700-trades-half-a-billion-dollars-inside-trump-s-q1-stock-spree-2026-05-18",
+        "https://streetinsider.com/Basic+Content/Trump+revamps+stock+portfolio%2C+adding+Nvidia+and+other+AI+names/26492651.html",
+        "https://ground.news/article/trump-traded-hundreds-of-millions-in-us-securities-including-nvidia-and-apple-in-2026_47acf8"
+      ]
+    }
+  ],
+  "corrections": [
+    "The brief implies the Ellisons bought Warner outright on administration approval. In fact WBD first chose Netflix; Paramount won through a hostile bid. Netflix declined to match on 2026-02-26. DOJ clearance came in summer 2026 and the deal closed in about late September 2026.",
+    "Oracle, not Larry Ellison personally, owns 15% of the TikTok JV. Early reports of a 45-50% Oracle/Silver Lake/MGX block were superseded at closing (15% each).",
+    "xAI's Pentagon award is a contract ceiling of up to $200M shared in form with Google, OpenAI and Anthropic, not a $200M payment. Palantir's $10B Army deal is also a ceiling.",
+    "The Meta FTC outcome was a court ruling (Boasberg, 2025-11-18), not an administration decision. Meta's attempt to settle with the administration reportedly failed.",
+    "'Ballroom?' for Nvidia: confirmed. $25M, anonymous, per the Washington Post's leaked spreadsheet (2026-10-15).",
+    "Brockman's $25M MAGA Inc gift is filed as $12.5M each from Greg and Anna Brockman."
+  ],
+  "denials_and_context": [
+    "Paramount says the settlement was unrelated to merger reviews. Trump said none of the WBD bidders were 'particularly great friends'.",
+    "1789 Capital says Don Jr. recuses himself from dealing with the federal government. The firm describes itself as a passive minority investor.",
+    "OpenAI frames Brockman's donations as personal. Nvidia says its ballroom gift went to a nonpartisan trust.",
+    "Bezos says he had 'nothing to do with' the Melania deal. Amazon cites a competitive process.",
+    "The White House says the ballroom is privately funded and Trump's trades comply with the STOCK Act; the filings do not say who directs them.",
+    "Many decisions (Stargate, chip exports, AI preemption) follow stated administration policy and benefit whole industries, including non-donors. Timing alone does not show a quid pro quo.",
+    "Several outlets were not fetchable here. Findings rely on search-result summaries across outlets; the primary OGE and SEC PDFs were not read directly."
+  ],
+  "sources": [
+    {
+      "title": "Paramount unveils Jared Kushner, Middle East sovereign funds as backers of hostile WBD bid",
+      "publisher": "Deadline",
+      "url": "https://deadline.com/2025/12/paramount-warner-bros-bid-jared-kushner-middle-east-funds-1236642045/",
+      "date": "2025-12-08"
+    },
+    {
+      "title": "Kushner's Affinity Partners exits Paramount bid for Warner Bros. Discovery",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2025/12/16/kushner-affinity-paramount-wbd-netflix.html",
+      "date": "2025-12-16"
+    },
+    {
+      "title": "Paramount's Warners bid includes $24 billion from Middle Eastern funds",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/paramount-warners-bid-includes-24-154015038.html",
+      "date": "2025-12"
+    },
+    {
+      "title": "Paramount secures agreements for Gulf state funds to back WBD acquisition",
+      "publisher": "Deadline",
+      "url": "https://deadline.com/2026/04/paramount-wbd-merger-foreign-backing-gulf-funds-deal-1236780058/",
+      "date": "2026-04"
+    },
+    {
+      "title": "Larry Ellison makes 'irrevocable personal guarantee' of $40.4 billion",
+      "publisher": "TheWrap",
+      "url": "https://www.thewrap.com/industry-news/business/larry-ellison-personal-guarantee-paramount-amended-warner-bros-discovery-bid/",
+      "date": "2025-12-22"
+    },
+    {
+      "title": "Larry Ellison guarantees $40.4B in Paramount's hostile bid (AP)",
+      "publisher": "Anchorage Daily News",
+      "url": "https://www.adn.com/business-economy/2025/12/22/larry-ellison-guarantees-404b-in-paramounts-hostile-bid-for-warner-bros-discovery/",
+      "date": "2025-12-22"
+    },
+    {
+      "title": "Trump on CNN and the Warner Bros. deal",
+      "publisher": "NBC New York",
+      "url": "https://www.nbcnewyork.com/news/national-international/donald-trump-cnn-warner-bros-deal/6428839/",
+      "date": "2025-12"
+    },
+    {
+      "title": "Warner Bros. Discovery signs merger agreement with Paramount Skydance",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/business/media/warner-bros-discovery-signs-merger-agreement-paramount-skydance-rcna261035",
+      "date": "2026-02"
+    },
+    {
+      "title": "Warner Bros. investors approve $110 billion sale to Paramount Skydance",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/warner-bros-investors-approve-110-billion-sale-to-paramount-skydance-following-long-battle-with-netflix-150428059.html",
+      "date": "2026-04"
+    },
+    {
+      "title": "Paramount Skydance wins Warner Bros. Discovery after Netflix drops out",
+      "publisher": "Britannica Money",
+      "url": "https://www.britannica.com/money/netflix-paramount-skydance-battle-for-warner-bros",
+      "date": "2026"
+    },
+    {
+      "title": "Paramount completes its takeover of Warner Bros (AP)",
+      "publisher": "ABC News",
+      "url": "https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Paramount completes Warner Bros merger to form Skydance",
+      "publisher": "NBC Washington",
+      "url": "https://www.nbcwashington.com/news/business/paramount-completes-warner-bros-merger-to-form-skydance/",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "David Ellison is shaking up CBS News; CNN looks to be next (Bloomberg)",
+      "publisher": "BusinessWorld",
+      "url": "https://www.bworldonline.com/bloomberg/2026/03/03/733619/david-ellison-is-shaking-up-cbs-news-cnn-looks-to-be-next/",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "Paramount, President Trump reach $16 million settlement",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/amp/news/paramount-trump-60-minutes-lawsuit-settlement",
+      "date": "2025-07-02"
+    },
+    {
+      "title": "FCC approves Paramount-Skydance deal",
+      "publisher": "Variety",
+      "url": "https://au.variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-25630",
+      "date": "2025-07-24"
+    },
+    {
+      "title": "Announcing The Stargate Project",
+      "publisher": "OpenAI",
+      "url": "https://openai.com/index/announcing-the-stargate-project/",
+      "date": "2025-01-21"
+    },
+    {
+      "title": "OpenAI reportedly on the hook for $300B Oracle Cloud bill",
+      "publisher": "The Register",
+      "url": "https://www.theregister.com/2025/09/11/openai_reportedly_on_the_hook/",
+      "date": "2025-09-11"
+    },
+    {
+      "title": "Oracle shares surge",
+      "publisher": "RTE",
+      "url": "https://www.rte.ie/news/business/2025/0911/1532890-oracle-shares-surge",
+      "date": "2025-09-11"
+    },
+    {
+      "title": "Trump signs TikTok executive order",
+      "publisher": "MacRumors",
+      "url": "https://www.macrumors.com/2025/09/25/tiktok-trump-executive-order/",
+      "date": "2025-09-25"
+    },
+    {
+      "title": "TikTok agrees US joint venture deal with Oracle, Silver Lake and MGX",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2025/12/19/tiktok-agrees-u-s-joint-venture-deal-with-oracle-silver-lake-and-mgx/",
+      "date": "2025-12-19"
+    },
+    {
+      "title": "TikTok lands $14B deal to avoid US ban",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/deal-us-ownership-tiktok-closed-002520253.html",
+      "date": "2026-01-22"
+    },
+    {
+      "title": "Electronic Arts closes $55 billion go-private sale (AP)",
+      "publisher": "ABC News",
+      "url": "https://abcnews.com/Technology/wireStory/video-game-giant-electronic-arts-closes-55-billion-135394606",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Electronic Arts closes $55 billion go-private sale (AP)",
+      "publisher": "WTOP",
+      "url": "https://wtop.com/news/2026/08/video-game-giant-electronic-arts-closes-55-billion-go-private-sale-of-its-business/",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Oracle co-founder Larry Ellison biggest backer of Musk's Twitter takeover",
+      "publisher": "Channel Futures",
+      "url": "https://www.channelfutures.com/business-models/oracle-co-founder-larry-ellison-biggest-backer-of-elon-musks-twitter-takeover",
+      "date": "2022-05"
+    },
+    {
+      "title": "Oracle's Ellison offered Musk billions to fund Twitter deal",
+      "publisher": "StreetInsider",
+      "url": "https://www.streetinsider.com/General+News/Oracles+Ellison+Offered+Musk+Billions+to+Fund+Twitter+Deal+Like+it+Was+Pocket+Change/20649387.html",
+      "date": "2022-09"
+    },
+    {
+      "title": "Elon Musk's company X settles Trump lawsuit (CNBC)",
+      "publisher": "NBC Washington",
+      "url": "https://www.nbcwashington.com/news/business/money-report/elon-musks-company-x-settles-trump-lawsuit-over-account-suspension/3843538/",
+      "date": "2025-02"
+    },
+    {
+      "title": "Elon Musk spent at least $277M backing Trump and other Republicans",
+      "publisher": "Anchorage Daily News (AP)",
+      "url": "https://www.adn.com/nation-world/2024/12/06/elon-musk-spent-at-least-277m-backing-trump-and-other-republicans-fec-filings-show/",
+      "date": "2024-12-06"
+    },
+    {
+      "title": "Elon Musk donated $288 million in 2024 election",
+      "publisher": "Spokesman-Review",
+      "url": "https://spokesman.com/stories/2025/feb/01/elon-musk-donated-288-million-in-2024-election-fin",
+      "date": "2025-02-01"
+    },
+    {
+      "title": "America PAC",
+      "publisher": "FactCheck.org",
+      "url": "https://www.factcheck.org/2026/09/america-pac-2/",
+      "date": "2026-09"
+    },
+    {
+      "title": "Elon Musk's America PAC enters the 2026 midterm elections",
+      "publisher": "Washington Examiner",
+      "url": "https://washingtonexaminer.com/news/4711280/elon-musk-america-pac-2026-midterm-elections-spending",
+      "date": "2026-09"
+    },
+    {
+      "title": "Pentagon awards multiple companies $200M contracts for AI tools",
+      "publisher": "Nextgov",
+      "url": "https://www.nextgov.com/acquisition/2025/07/pentagon-awards-multiple-companies-200m-contracts-ai-tools/406698",
+      "date": "2025-07"
+    },
+    {
+      "title": "Pentagon contract for Musk's xAI / Grok",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/news/grok-elon-musk-xai-pentagon-contract",
+      "date": "2025-07"
+    },
+    {
+      "title": "Musk merger creates $1.25T privately-held company",
+      "publisher": "InvestmentNews",
+      "url": "https://www.investmentnews.com/equities/musk-merger-creates-125t-privately-held-company-ripe-for-ipo-but-what-about-tesla/265106",
+      "date": "2026-02"
+    },
+    {
+      "title": "SpaceX raises $75b in largest IPO ever",
+      "publisher": "DealStreetAsia",
+      "url": "https://dealstreetasia.com/stories/musk-spacex-ipo-485300",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "Musk's SpaceX prices record $75 billion IPO at $135 a share (Reuters)",
+      "publisher": "The Star",
+      "url": "https://www.thestar.com.my/news/world/2026/06/12/musk039s-spacex-prices-record-75-billion-ipo-at-135-a-share",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "Trump-linked venture fund 1789 Capital tops US$1 billion in assets (Bloomberg)",
+      "publisher": "BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/",
+      "date": "2025-09-08"
+    },
+    {
+      "title": "1789 Capital, a Trump-linked venture capital fund",
+      "publisher": "Marine Link (Reuters)",
+      "url": "https://www.marinelink.com/blogs/blog/1789-capital-a-trumplinked-venture-capital-fund-has-assets-of-103282",
+      "date": "2025"
+    },
+    {
+      "title": "1789 Capital scales up 17-fold with Trump Jr.",
+      "publisher": "Asia Economy",
+      "url": "https://www.asiae.co.kr/en/article/2026051810171921837",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Tech moguls Altman, Bezos and Zuckerberg donate to Trump's inauguration fund",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2024/12/13/nx-s1-5227874/trump-bezos-zuckerberg-amazon-facebook-open-ai-meta-inauguration-fund",
+      "date": "2024-12-13"
+    },
+    {
+      "title": "OpenAI's Altman will donate $1 million to Trump's inaugural fund (AP)",
+      "publisher": "ABC News",
+      "url": "https://abcnews.go.com/US/wireStory/openais-altman-donate-1-million-trumps-inaugural-fund-116771112",
+      "date": "2024-12-13"
+    },
+    {
+      "title": "Schwarzman, OpenAI's Brockman boost $102 million Trump war chest",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest",
+      "date": "2026-01-02"
+    },
+    {
+      "title": "OpenAI co-founder Greg Brockman donates $25 million to MAGA Inc",
+      "publisher": "The Decoder",
+      "url": "https://the-decoder.com/openai-co-founder-greg-brockman-donates-25-million-to-trumps-maga-inc-super-pac/",
+      "date": "2026-01"
+    },
+    {
+      "title": "OpenAI doesn't like the attention its co-founder's political donations are getting",
+      "publisher": "Gizmodo",
+      "url": "https://gizmodo.com/openai-really-doesnt-like-the-attention-its-co-founders-political-donations-are-getting-2000766386",
+      "date": "2026"
+    },
+    {
+      "title": "OpenAI's Brockman and Andreessen Horowitz back pro-AI super PAC",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2025/08/26/openai-president-greg-brockman-andreessen-horowitz-super-pac-ai-pro-innovation/",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "Silicon Valley AI leaders launch $100M Leading the Future super PAC",
+      "publisher": "SiliconANGLE",
+      "url": "https://siliconangle.com/2025/08/25/silicon-valley-ai-leaders-launch-100m-leading-future-super-pac/",
+      "date": "2025-08-25"
+    },
+    {
+      "title": "Trump signs executive order targeting state AI laws",
+      "publisher": "Axios",
+      "url": "https://axios.com/2025/12/11/trump-signs-executive-order-state-ai-laws",
+      "date": "2025-12-11"
+    },
+    {
+      "title": "Trump signs order targeting 'cumbersome' state AI regulation",
+      "publisher": "Nextgov",
+      "url": "https://nextgov.com/artificial-intelligence/2025/12/trump-signs-order-targeting-cumbersome-state-ai-regulation/410120",
+      "date": "2025-12"
+    },
+    {
+      "title": "New executive order targets state AI laws",
+      "publisher": "Kelley Drye",
+      "url": "https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-executive-order-targets-state-ai-laws-states-show-no-signs-of-backing-down",
+      "date": "2025-12"
+    },
+    {
+      "title": "Meta settles with Trump for $25 million",
+      "publisher": "Salon",
+      "url": "https://www.salon.com/2025/01/29/meta-settles-with-for-25-million",
+      "date": "2025-01-29"
+    },
+    {
+      "title": "Meta wins FTC antitrust trial over Instagram, WhatsApp deals",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/antitrust/meta-wins-ftc-antitrust-trial-over-instagram-whatsapp-deals",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Meta prevails in historic FTC antitrust case",
+      "publisher": "ABC7 (AP)",
+      "url": "https://abc7news.com/post/meta-prevails-historic-ftc-antitrust-case-have-break-off-whatsapp-instagram/18170444/",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Nvidia and Apple each gave $25M to Trump's ballroom, Washington Post says",
+      "publisher": "The Next Web",
+      "url": "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Nvidia and Apple each committed $25 million to Trump's ballroom, leaked list shows",
+      "publisher": "Implicator.ai",
+      "url": "https://www.implicator.ai/nvidia-and-apple-each-committed-25-million-to-trumps-ballroom-leaked-list-shows/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Investigation details who donated to the White House ballroom project (NPR)",
+      "publisher": "WYPR",
+      "url": "https://www.wypr.org/2026-10-16/investigation-details-who-donated-to-the-white-house-ballroom-project",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "37 White House ballroom donors funding $300 million build",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/",
+      "date": "2025-10-26"
+    },
+    {
+      "title": "Trump opens door for Nvidia in China",
+      "publisher": "Axios",
+      "url": "https://axios.com/2025/12/09/trump-nvidia-ai-h200-china",
+      "date": "2025-12-09"
+    },
+    {
+      "title": "Department of Commerce may approve Nvidia H200 chip exports to China",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2025/12/08/department-of-commerce-may-approve-nvidia-h200-chip-exports-to-china",
+      "date": "2025-12-08"
+    },
+    {
+      "title": "US approves export of Nvidia AI chips to UAE and Saudi Arabia",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/future/technology/2025/11/20/uae-ai-nvidia-chips-us/",
+      "date": "2025-11-20"
+    },
+    {
+      "title": "Scoop: Lutnick stalled Trump's Nvidia-China chip curbs",
+      "publisher": "Axios",
+      "url": "https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "3,700 trades, half a billion dollars: inside Trump's Q1 stock spree",
+      "publisher": "Capitol Trades",
+      "url": "https://www.capitoltrades.com/articles/3700-trades-half-a-billion-dollars-inside-trump-s-q1-stock-spree-2026-05-18",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Trump revamps stock portfolio, adding Nvidia and other AI names",
+      "publisher": "StreetInsider",
+      "url": "https://streetinsider.com/Basic+Content/Trump+revamps+stock+portfolio%2C+adding+Nvidia+and+other+AI+names/26492651.html",
+      "date": "2026-05"
+    },
+    {
+      "title": "Trump traded hundreds of millions in US securities in 2026",
+      "publisher": "Ground News",
+      "url": "https://ground.news/article/trump-traded-hundreds-of-millions-in-us-securities-including-nvidia-and-apple-in-2026_47acf8",
+      "date": "2026-05"
+    },
+    {
+      "title": "Trump praises Palantir (PLTR) after buying the company's stock",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-praises-palantir-pltr-truth-044917332.html",
+      "date": "2026-05"
+    },
+    {
+      "title": "Army, Palantir sign $10 billion software enterprise agreement",
+      "publisher": "DefenseScoop",
+      "url": "https://defensescoop.com/2025/07/31/army-palantir-software-enterprise-agreement-10-billion/",
+      "date": "2025-07-31"
+    },
+    {
+      "title": "ICE enlists Palantir to develop 'ImmigrationOS'",
+      "publisher": "The Register",
+      "url": "https://www.theregister.com/2025/04/21/ice_enlists_palantir_to_develop/",
+      "date": "2025-04-21"
+    },
+    {
+      "title": "Right-wing figures on surveillance state (Thiel-Vance funding)",
+      "publisher": "Media Matters",
+      "url": "https://www.mediamatters.org/joe-rogan-experience/were-headed-surveillance-state-right-wing-figures-and-podcasters-are",
+      "date": "2025"
+    },
+    {
+      "title": "Trump demands Microsoft fire former Biden Justice Department official",
+      "publisher": "Washington Times",
+      "url": "https://m.washingtontimes.com/news/2025/sep/26/trump-demands-microsoft-fire-former-biden-justice-department-official/",
+      "date": "2025-09-26"
+    },
+    {
+      "title": "Trump demands Microsoft fire head of global affairs",
+      "publisher": "Gizmodo",
+      "url": "https://gizmodo.com/trump-demands-microsoft-fire-head-of-global-affairs-2000664696",
+      "date": "2025-09-26"
+    },
+    {
+      "title": "Trump received $10.7 million fee for Amazon's 'Melania' documentary",
+      "publisher": "Variety",
+      "url": "https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "OpenAI's investment into Thrive Holdings",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/",
+      "date": "2025-12-01"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; approves deals, holds a traded stock portfolio"
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Son-in-law; Affinity Partners founder"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Partner at 1789 Capital"
+    },
+    {
+      "id": "melania-trump",
+      "name": "Melania Trump",
+      "type": "person",
+      "description": "First Lady; paid for the Amazon documentary"
+    },
+    {
+      "id": "josh-kushner",
+      "name": "Josh Kushner",
+      "type": "person",
+      "description": "Thrive Capital founder; Jared's brother"
+    },
+    {
+      "id": "larry-ellison",
+      "name": "Larry Ellison",
+      "type": "person",
+      "description": "Oracle co-founder and largest shareholder; guaranteed the Paramount-WBD equity"
+    },
+    {
+      "id": "david-ellison",
+      "name": "David Ellison",
+      "type": "person",
+      "description": "CEO of Paramount Skydance / Skydance"
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "type": "person",
+      "description": "SpaceX/xAI/Tesla/X owner; top 2024 Trump donor; ex-DOGE head"
+    },
+    {
+      "id": "sam-altman",
+      "name": "Sam Altman",
+      "type": "person",
+      "description": "OpenAI CEO"
+    },
+    {
+      "id": "greg-brockman",
+      "name": "Greg Brockman",
+      "type": "person",
+      "description": "OpenAI president; MAGA Inc. megadonor"
+    },
+    {
+      "id": "mark-zuckerberg",
+      "name": "Mark Zuckerberg",
+      "type": "person",
+      "description": "Meta CEO"
+    },
+    {
+      "id": "jeff-bezos",
+      "name": "Jeff Bezos",
+      "type": "person",
+      "description": "Amazon founder"
+    },
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "type": "person",
+      "description": "Nvidia CEO"
+    },
+    {
+      "id": "peter-thiel",
+      "name": "Peter Thiel",
+      "type": "person",
+      "description": "Palantir co-founder; JD Vance's patron"
+    },
+    {
+      "id": "jd-vance",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "US Vice President"
+    },
+    {
+      "id": "omeed-malik",
+      "name": "Omeed Malik",
+      "type": "person",
+      "description": "1789 Capital co-founder"
+    },
+    {
+      "id": "lisa-monaco",
+      "name": "Lisa Monaco",
+      "type": "person",
+      "description": "Microsoft president of global affairs; ex-Deputy AG"
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Tahnoon bin Zayed",
+      "type": "person",
+      "description": "MGX chair; WLF investor via Aryam"
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "type": "company",
+      "description": "Stargate partner; 15% of the TikTok US JV"
+    },
+    {
+      "id": "paramount",
+      "name": "Paramount Skydance",
+      "type": "company",
+      "description": "Ellison-controlled media company; bought WBD"
+    },
+    {
+      "id": "skydance",
+      "name": "Skydance",
+      "type": "company",
+      "description": "Ellison company merged with Paramount (2025), name of the combined group (2026)"
+    },
+    {
+      "id": "warner-bros-discovery",
+      "name": "Warner Bros. Discovery",
+      "type": "company",
+      "description": "Acquired by Paramount Skydance (closed ~2026-09-29); owns CNN"
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "type": "company",
+      "description": "Losing WBD bidder; received a $2.8B break fee"
+    },
+    {
+      "id": "cnn",
+      "name": "CNN",
+      "type": "media",
+      "description": "WBD news network now under Ellison control"
+    },
+    {
+      "id": "affinity-partners",
+      "name": "Affinity Partners",
+      "type": "fund",
+      "description": "Kushner's fund; briefly in the WBD bid; 1.1% of EA"
+    },
+    {
+      "id": "saudi-pif",
+      "name": "Saudi Public Investment Fund",
+      "type": "fund",
+      "description": "WBD bid financier; 93.4% of EA"
+    },
+    {
+      "id": "qatar-investment-authority",
+      "name": "Qatar Investment Authority",
+      "type": "fund",
+      "description": "WBD bid financier"
+    },
+    {
+      "id": "limad-holding",
+      "name": "L'imad Holding Company",
+      "type": "fund",
+      "description": "Abu Dhabi vehicle in the WBD bid"
+    },
+    {
+      "id": "silver-lake",
+      "name": "Silver Lake",
+      "type": "fund",
+      "description": "15% of the TikTok JV; 5.5% of EA"
+    },
+    {
+      "id": "electronic-arts",
+      "name": "Electronic Arts",
+      "type": "company",
+      "description": "Taken private for $55B (closed 2026-08-04)"
+    },
+    {
+      "id": "tiktok-usds-joint-venture",
+      "name": "TikTok USDS Joint Venture",
+      "type": "company",
+      "description": "US TikTok entity approved by Trump's EO"
+    },
+    {
+      "id": "mgx",
+      "name": "MGX",
+      "type": "fund",
+      "description": "Abu Dhabi AI fund; Stargate, TikTok JV, OpenAI/xAI rounds"
+    },
+    {
+      "id": "stargate",
+      "name": "Stargate",
+      "type": "product",
+      "description": "OpenAI/SoftBank/Oracle/MGX AI infrastructure venture"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "type": "company",
+      "description": "Stargate operator; $300B Oracle compute contract"
+    },
+    {
+      "id": "thrive-capital",
+      "name": "Thrive Capital",
+      "type": "fund",
+      "description": "Josh Kushner's fund; major OpenAI investor"
+    },
+    {
+      "id": "xai",
+      "name": "xAI",
+      "type": "company",
+      "description": "Musk AI company; merged into SpaceX Feb 2026"
+    },
+    {
+      "id": "spacex",
+      "name": "SpaceX",
+      "type": "company",
+      "description": "Musk company; record IPO June 2026"
+    },
+    {
+      "id": "x-corp",
+      "name": "X Corp",
+      "type": "company",
+      "description": "Musk's social network; ~$10M Trump settlement"
+    },
+    {
+      "id": "1789-capital",
+      "name": "1789 Capital",
+      "type": "fund",
+      "description": "Don Jr.-affiliated VC holding SpaceX/xAI stakes"
+    },
+    {
+      "id": "america-pac",
+      "name": "America PAC",
+      "type": "fund",
+      "description": "Musk's super PAC"
+    },
+    {
+      "id": "maga-inc",
+      "name": "MAGA Inc.",
+      "type": "fund",
+      "description": "Pro-Trump super PAC"
+    },
+    {
+      "id": "leading-the-future",
+      "name": "Leading the Future",
+      "type": "fund",
+      "description": "Pro-AI super PAC (a16z, Brockman)"
+    },
+    {
+      "id": "andreessen-horowitz",
+      "name": "Andreessen Horowitz",
+      "type": "fund",
+      "description": "VC; backer of Leading the Future and Fairshake"
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "type": "company",
+      "description": "$25M settlement; $5M ballroom"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "type": "company",
+      "description": "Melania documentary; ballroom donor"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "type": "company",
+      "description": "$25M ballroom (anonymous); export decisions"
+    },
+    {
+      "id": "palantir",
+      "name": "Palantir",
+      "type": "company",
+      "description": "Federal contractor; $10M ballroom; PLTR trades"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "type": "company",
+      "description": "$10M ballroom; Monaco episode"
+    },
+    {
+      "id": "white-house-ballroom",
+      "name": "White House ballroom",
+      "type": "event",
+      "description": "Privately funded East Wing ballroom"
+    },
+    {
+      "id": "ai-preemption-eo",
+      "name": "EO 'Ensuring a National Policy Framework for AI'",
+      "type": "law",
+      "description": "2025-12-11 order targeting state AI laws"
+    },
+    {
+      "id": "fcc",
+      "name": "FCC",
+      "type": "government",
+      "description": "Approved Skydance-Paramount"
+    },
+    {
+      "id": "ftc",
+      "name": "FTC",
+      "type": "government",
+      "description": "Lost the Meta monopoly case"
+    },
+    {
+      "id": "us-department-of-justice",
+      "name": "US Department of Justice",
+      "type": "government",
+      "description": "Cleared Paramount-WBD"
+    },
+    {
+      "id": "pentagon",
+      "name": "Pentagon",
+      "type": "government",
+      "description": "CDAO AI contracts; Army Palantir EA"
+    },
+    {
+      "id": "us-commerce-department",
+      "name": "US Commerce Department",
+      "type": "government",
+      "description": "Chip export licences"
+    },
+    {
+      "id": "ice",
+      "name": "ICE",
+      "type": "government",
+      "description": "ImmigrationOS contract"
+    },
+    {
+      "id": "office-of-government-ethics",
+      "name": "Office of Government Ethics",
+      "type": "government",
+      "description": "Receives Trump's 278-T filings"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "paramount",
+      "target": "donald-trump",
+      "label": "settled '60 Minutes' suit for (to library)",
+      "type": "money",
+      "date": "2025-07-02",
+      "amount_usd": 16000000
+    },
+    {
+      "source": "fcc",
+      "target": "paramount",
+      "label": "approved Skydance merger",
+      "type": "regulatory",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "david-ellison",
+      "target": "donald-trump",
+      "label": "visited, promised CNN changes (reported)",
+      "type": "political",
+      "date": "2025-12"
+    },
+    {
+      "source": "donald-trump",
+      "target": "warner-bros-discovery",
+      "label": "said Netflix deal 'could be a problem'; CNN should be sold",
+      "type": "political",
+      "date": "2025-12"
+    },
+    {
+      "source": "larry-ellison",
+      "target": "paramount",
+      "label": "personally guaranteed bid equity",
+      "type": "money",
+      "date": "2025-12-22",
+      "amount_usd": 40400000000
+    },
+    {
+      "source": "affinity-partners",
+      "target": "paramount",
+      "label": "named backer of WBD bid, exited 2025-12-16",
+      "type": "money",
+      "date": "2025-12"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "paramount",
+      "label": "co-financed WBD bid (with QIA, L'imad: $24B total)",
+      "type": "money",
+      "date": "2025-12"
+    },
+    {
+      "source": "qatar-investment-authority",
+      "target": "paramount",
+      "label": "co-financed WBD bid",
+      "type": "money",
+      "date": "2025-12"
+    },
+    {
+      "source": "limad-holding",
+      "target": "paramount",
+      "label": "co-financed WBD bid",
+      "type": "money",
+      "date": "2025-12"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "affinity-partners",
+      "label": "founder",
+      "type": "ownership",
+      "date": "2021"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "donald-trump",
+      "label": "son-in-law",
+      "type": "family",
+      "date": ""
+    },
+    {
+      "source": "paramount",
+      "target": "netflix",
+      "label": "paid termination fee",
+      "type": "money",
+      "date": "2026-02-27",
+      "amount_usd": 2800000000
+    },
+    {
+      "source": "us-department-of-justice",
+      "target": "warner-bros-discovery",
+      "label": "cleared Paramount acquisition",
+      "type": "regulatory",
+      "date": "2026-06"
+    },
+    {
+      "source": "paramount",
+      "target": "warner-bros-discovery",
+      "label": "acquired (~$81B equity)",
+      "type": "ownership",
+      "date": "2026-09-29",
+      "amount_usd": 81000000000
+    },
+    {
+      "source": "warner-bros-discovery",
+      "target": "cnn",
+      "label": "owns",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "larry-ellison",
+      "target": "oracle",
+      "label": "co-founder, largest shareholder",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "larry-ellison",
+      "target": "david-ellison",
+      "label": "father",
+      "type": "family",
+      "date": ""
+    },
+    {
+      "source": "oracle",
+      "target": "stargate",
+      "label": "initial equity partner",
+      "type": "commercial",
+      "date": "2025-01-21"
+    },
+    {
+      "source": "openai",
+      "target": "oracle",
+      "label": "~$300B 5-year compute contract (WSJ)",
+      "type": "commercial",
+      "date": "2025-09-10",
+      "amount_usd": 300000000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "tiktok-usds-joint-venture",
+      "label": "approved by executive order",
+      "type": "regulatory",
+      "date": "2025-09-25"
+    },
+    {
+      "source": "oracle",
+      "target": "tiktok-usds-joint-venture",
+      "label": "15% owner, security partner",
+      "type": "ownership",
+      "date": "2026-01-22"
+    },
+    {
+      "source": "mgx",
+      "target": "tiktok-usds-joint-venture",
+      "label": "15% owner",
+      "type": "ownership",
+      "date": "2026-01-22"
+    },
+    {
+      "source": "silver-lake",
+      "target": "tiktok-usds-joint-venture",
+      "label": "15% owner",
+      "type": "ownership",
+      "date": "2026-01-22"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "mgx",
+      "label": "chairman",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "silver-lake",
+      "target": "electronic-arts",
+      "label": "~5.5% owner after buyout",
+      "type": "ownership",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "electronic-arts",
+      "label": "~93.4% owner after buyout",
+      "type": "ownership",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "affinity-partners",
+      "target": "electronic-arts",
+      "label": "~1.1% owner after buyout",
+      "type": "ownership",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "larry-ellison",
+      "target": "x-corp",
+      "label": "committed to Twitter buyout",
+      "type": "money",
+      "date": "2022-05",
+      "amount_usd": 1000000000
+    },
+    {
+      "source": "x-corp",
+      "target": "donald-trump",
+      "label": "settled suspension suit (reported)",
+      "type": "money",
+      "date": "2025-02",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "elon-musk",
+      "target": "america-pac",
+      "label": "funded 2024 pro-Trump spending (~$277-290M total politics)",
+      "type": "political",
+      "date": "2024",
+      "amount_usd": 277000000
+    },
+    {
+      "source": "elon-musk",
+      "target": "donald-trump",
+      "label": "DOGE head; donor",
+      "type": "political",
+      "date": "2025-01"
+    },
+    {
+      "source": "pentagon",
+      "target": "xai",
+      "label": "CDAO AI contract (ceiling)",
+      "type": "commercial",
+      "date": "2025-07",
+      "amount_usd": 200000000
+    },
+    {
+      "source": "spacex",
+      "target": "xai",
+      "label": "acquired in all-stock merger",
+      "type": "ownership",
+      "date": "2026-02"
+    },
+    {
+      "source": "1789-capital",
+      "target": "spacex",
+      "label": "investor (pre-IPO)",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "1789-capital",
+      "target": "xai",
+      "label": "investor (>$50M across xAI and SpaceX, reported)",
+      "type": "ownership",
+      "date": "2025",
+      "amount_usd": 50000000
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "1789-capital",
+      "label": "partner",
+      "type": "ownership",
+      "date": "2024-11"
+    },
+    {
+      "source": "omeed-malik",
+      "target": "1789-capital",
+      "label": "co-founder",
+      "type": "ownership",
+      "date": "2022"
+    },
+    {
+      "source": "sam-altman",
+      "target": "donald-trump",
+      "label": "inaugural fund donation",
+      "type": "money",
+      "date": "2024-12",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "greg-brockman",
+      "target": "maga-inc",
+      "label": "donation (with wife Anna)",
+      "type": "political",
+      "date": "2025-09-12",
+      "amount_usd": 25000000
+    },
+    {
+      "source": "greg-brockman",
+      "target": "leading-the-future",
+      "label": "donation (with wife Anna)",
+      "type": "political",
+      "date": "2025",
+      "amount_usd": 25000000
+    },
+    {
+      "source": "andreessen-horowitz",
+      "target": "leading-the-future",
+      "label": "founding backer",
+      "type": "political",
+      "date": "2025-08-25"
+    },
+    {
+      "source": "donald-trump",
+      "target": "ai-preemption-eo",
+      "label": "signed",
+      "type": "regulatory",
+      "date": "2025-12-11"
+    },
+    {
+      "source": "josh-kushner",
+      "target": "thrive-capital",
+      "label": "founder",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "thrive-capital",
+      "target": "openai",
+      "label": "major investor",
+      "type": "money",
+      "date": "2024-10"
+    },
+    {
+      "source": "meta",
+      "target": "donald-trump",
+      "label": "settled suspension suit (~$22M to library)",
+      "type": "money",
+      "date": "2025-01-29",
+      "amount_usd": 25000000
+    },
+    {
+      "source": "meta",
+      "target": "white-house-ballroom",
+      "label": "committed (WaPo leak)",
+      "type": "money",
+      "date": "2026-10-15",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "ftc",
+      "target": "meta",
+      "label": "lost monopoly case (Boasberg)",
+      "type": "legal",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "amazon",
+      "target": "melania-trump",
+      "label": "documentary licence fee to Melania (OGE)",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 10710000
+    },
+    {
+      "source": "amazon",
+      "target": "white-house-ballroom",
+      "label": "committed (WaPo leak)",
+      "type": "money",
+      "date": "2026-10-15",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "nvidia",
+      "target": "white-house-ballroom",
+      "label": "committed, anonymously (WaPo leak)",
+      "type": "money",
+      "date": "2026-10-15",
+      "amount_usd": 25000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "nvidia",
+      "label": "allowed H200 China sales with 25% cut to US",
+      "type": "regulatory",
+      "date": "2025-12-08"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "nvidia",
+      "label": "licensed UAE/Saudi chip exports",
+      "type": "regulatory",
+      "date": "2025-11"
+    },
+    {
+      "source": "donald-trump",
+      "target": "nvidia",
+      "label": "bought shares ($1M-$5M on 2026-02-10, 278-T)",
+      "type": "money",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "donald-trump",
+      "target": "oracle",
+      "label": "bought shares ($2.2M-$10.6M, Q1 2026 278-T)",
+      "type": "money",
+      "date": "2026-Q1"
+    },
+    {
+      "source": "peter-thiel",
+      "target": "jd-vance",
+      "label": "funded 2022 Senate run (~$15M via super PAC)",
+      "type": "political",
+      "date": "2022",
+      "amount_usd": 15000000
+    },
+    {
+      "source": "peter-thiel",
+      "target": "palantir",
+      "label": "co-founder",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "pentagon",
+      "target": "palantir",
+      "label": "Army enterprise agreement (ceiling)",
+      "type": "commercial",
+      "date": "2025-07-31",
+      "amount_usd": 10000000000
+    },
+    {
+      "source": "ice",
+      "target": "palantir",
+      "label": "ImmigrationOS contract",
+      "type": "commercial",
+      "date": "2025-04",
+      "amount_usd": 30000000
+    },
+    {
+      "source": "palantir",
+      "target": "white-house-ballroom",
+      "label": "committed (WaPo leak)",
+      "type": "money",
+      "date": "2026-10-15",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "palantir",
+      "label": "bought PLTR; touted ticker on Truth Social",
+      "type": "money",
+      "date": "2026-04-10"
+    },
+    {
+      "source": "microsoft",
+      "target": "white-house-ballroom",
+      "label": "committed (WaPo leak)",
+      "type": "money",
+      "date": "2026-10-15",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "microsoft",
+      "label": "demanded firing of Lisa Monaco citing contracts",
+      "type": "political",
+      "date": "2025-09-26"
+    },
+    {
+      "source": "lisa-monaco",
+      "target": "microsoft",
+      "label": "president of global affairs",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "mgx",
+      "target": "openai",
+      "label": "co-lead investor in $122B round",
+      "type": "money",
+      "date": "2026-03-31"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Ellison control of CNN and CBS after WBD: editorial changes, the state AG settlement's monitoring terms, and any administration contact",
+      "why_connected": "The Ellisons won WBD after Trump called for CNN to be sold; the 12-state AG settlement includes CNN/CBS editorial monitoring.",
+      "entities": [
+        "david-ellison",
+        "larry-ellison",
+        "cnn",
+        "paramount",
+        "donald-trump"
+      ],
+      "source_url": "https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060"
+    },
+    {
+      "title": "Gulf sovereign funds' $24B non-voting stake in Paramount-WBD and the no-CFIUS position",
+      "why_connected": "PIF, QIA and an Abu Dhabi vehicle, all counterparties of Trump-family ventures, financed the deal; Paramount argued CFIUS review was not needed.",
+      "entities": [
+        "saudi-pif",
+        "qatar-investment-authority",
+        "limad-holding",
+        "paramount"
+      ],
+      "source_url": "https://deadline.com/2026/04/paramount-wbd-merger-foreign-backing-gulf-funds-deal-1236780058/"
+    },
+    {
+      "title": "1789 Capital's gain from the SpaceX IPO and xAI conversion",
+      "why_connected": "Don Jr.'s fund held xAI/SpaceX stakes before the record June 2026 IPO; size and gain undisclosed.",
+      "entities": [
+        "1789-capital",
+        "donald-trump-jr",
+        "spacex",
+        "xai"
+      ],
+      "source_url": "https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/"
+    },
+    {
+      "title": "Leading the Future's 2026 midterm spending and the DOJ AI Litigation Task Force's first targets",
+      "why_connected": "The PAC (Brockman, a16z) sought federal preemption; Trump's EO created the task force.",
+      "entities": [
+        "leading-the-future",
+        "greg-brockman",
+        "andreessen-horowitz",
+        "ai-preemption-eo"
+      ],
+      "source_url": "https://axios.com/2025/12/11/trump-signs-executive-order-state-ai-laws"
+    },
+    {
+      "title": "Washington Post ballroom spreadsheet: anonymous donors vs. pending decisions",
+      "why_connected": "Nvidia's $25M was hidden from the October 2025 list; 67 donations total ~$333M.",
+      "entities": [
+        "nvidia",
+        "white-house-ballroom",
+        "palantir",
+        "microsoft"
+      ],
+      "source_url": "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors"
+    }
+  ]
+}
