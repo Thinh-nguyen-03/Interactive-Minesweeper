@@ -836,7 +836,7 @@
   function entityDossier(e) {
     var cl = e.cl, unv = cl.filter(function (c) { return c.verdict === 'unverified'; });
     var th = themes.filter(function (t) { return arr(t.entities).indexOf(e.key) >= 0; });
-    var top = '<div class="chipline"><span class="chip">' + nodeGlyph(e, 11) + esc(TLABEL[e.type]) + '</span><span class="chip">' + esc(e.id) + '</span>' + (unv.length ? UNV_FLAG : '') + '</div><h2>' + esc(e.name) + '</h2>' + actions(e);
+    var top = '<div class="chipline"><span class="chip">' + nodeGlyph(e, 11) + esc(TLABEL[e.type]) + '</span><span class="chip">' + esc(e.id) + '</span>' + (unv.length && unv.length === cl.length ? UNV_FLAG : '') + '</div><h2>' + esc(e.name) + '</h2>' + actions(e);
     var tabs = [{ id: 'summary', label: 'Summary', html: function () {
       var h = hiddenNotice(e);
       if (unv.length) h += '<div class="notice warn"><strong>Appears in ' + (unv.length === cl.length ? 'only ' : '') + 'an unverified allegation.</strong> ' + unv.map(function (c) { return '<button type="button" class="linkbtn mono" data-key="' + esc(c.key) + '">' + esc(c.id) + '</button>'; }).join(', ') +
@@ -1035,7 +1035,7 @@
   // ------------------------------------------------------------------ stat strip / rail
   function renderStats() {
     var fu = claims.filter(function (c) { return c.origin === 'follow-up'; }).length, tally = tallyOf(claims);
-    var h = '<span class="stat"><b>' + (claims.length - fu) + '</b><span>Claims</span></span><span class="stat"><b>' + fu + '</b><span>Follow-ups</span></span><span class="stat"><b>' + entities.length +
+    var h = '<span class="stat"><b>' + (claims.length - fu) + '</b><span>Video claims</span></span><span class="stat"><b>' + fu + '</b><span>Follow-ups</span></span><span class="stat"><b>' + entities.length +
       '</b><span>Entities</span></span><span class="stat"><b>' + rels.length + '</b><span>Connections</span></span>';
     VERDICTS.forEach(function (v) { if (tally[v]) h += '<span class="stat v v-' + v + '" title="' + esc(VMEANS[v]) + '">' + vicon(v, 13) + '<b>' + tally[v] + '</b><span>' + VLABEL[v] + '</span></span>'; });
     $('stats').innerHTML = h;
@@ -1049,7 +1049,7 @@
       }).join('') + (note ? '<p class="note">' + note + '</p>' : '') + '</fieldset>';
     }
     $('filters').innerHTML =
-      group('kind', 'Node kind', function (v) { return { claim: 'Claims', entity: 'People and organisations', theme: 'Themes' }[v]; },
+      group('kind', 'Node kind', function (v) { return { claim: 'Claims', entity: 'Entities', theme: 'Themes' }[v]; },
         function (v) { return v === 'claim' ? glyph('diamond', 'c-claim') : v === 'theme' ? glyph('octagon', 'c-theme', { hollow: true }) : glyph('circle', 'c-claim'); }) +
       group('origin', 'Claim origin', function (v) { return v === 'video' ? 'From the video' : 'Follow-up leads'; }, function (v) { return glyph('diamond', 'c-claim', { double: v !== 'video' }); }) +
       group('verdict', 'Claim verdict', function (v) { return VLABEL[v]; }, function (v) { return '<i class="v-' + v + '" style="display:inline-flex">' + vicon(v, 14) + '</i>'; }) +
