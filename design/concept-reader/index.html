@@ -1,0 +1,644 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The claims, checked</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap">
+<style>
+:root{
+  --bg:#ffffff; --band:#f2f5f9; --ink:#17212f; --ink2:#4b5666; --rule:#d8dee7; --link:#1c4a9c;
+  --hold:#17754a; --part:#925600; --unp:#6a4c9f; --wrong:#b0281f;
+  --hold-bg:#e4f3ea; --part-bg:#fbeed6; --unp-bg:#eee9f8;
+  --serif:"Source Serif 4","Bitstream Charter",Charter,Georgia,"Times New Roman",serif;
+  --sans:"Source Sans 3",Inter,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#12161d; --band:#1a202a; --ink:#e9ecf1; --ink2:#a8b1bf; --rule:#2d3542; --link:#93b6ff;
+  --hold:#62c794; --part:#e3ab52; --unp:#bca6ee; --wrong:#f28d83;
+  --hold-bg:#16301f; --part-bg:#33260f; --unp-bg:#272040;
+}}
+:root[data-theme="dark"]{
+  --bg:#12161d; --band:#1a202a; --ink:#e9ecf1; --ink2:#a8b1bf; --rule:#2d3542; --link:#93b6ff;
+  --hold:#62c794; --part:#e3ab52; --unp:#bca6ee; --wrong:#f28d83;
+  --hold-bg:#16301f; --part-bg:#33260f; --unp-bg:#272040;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 17px/1.55 var(--sans)}
+a{color:var(--link);text-underline-offset:.16em;text-decoration-thickness:1px}
+a:hover{text-decoration-thickness:2px}
+:focus-visible{outline:2px solid var(--link);outline-offset:2px;border-radius:2px}
+h1,h2,h3{font-family:var(--serif);font-weight:700;line-height:1.18;margin:0;text-wrap:balance}
+h1:focus{outline:none}
+p{margin:0}
+button{font:inherit;color:inherit}
+.wrap{max-width:1168px;margin:0 auto;padding:0 24px}
+.muted{color:var(--ink2)}
+.small{font-size:15px;line-height:1.45}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* header */
+.top{border-bottom:1px solid var(--rule)}
+.top .wrap{display:flex;align-items:center;gap:8px 28px;flex-wrap:wrap;padding-top:14px;padding-bottom:14px}
+.site{font:700 21px/1.2 var(--serif);color:var(--ink);text-decoration:none;margin-right:auto}
+.top nav{display:flex;gap:22px}
+.top nav a{color:var(--ink);text-decoration:none;font-weight:600;font-size:16px;padding:4px 0;border-bottom:2px solid transparent}
+.top nav a:hover,.top nav a[aria-current="page"]{border-bottom-color:var(--ink)}
+.themebtn{background:none;border:1px solid var(--rule);border-radius:6px;padding:4px 10px;font-size:15px;cursor:pointer}
+.themebtn:hover{border-color:var(--ink2)}
+
+/* verdict marks */
+.mark{width:1.05em;height:1.05em;flex:none;vertical-align:-.16em}
+.v{display:inline-flex;align-items:center;gap:.4em;font-weight:600;white-space:nowrap}
+.v-hold{color:var(--hold)} .v-part{color:var(--part)} .v-unp{color:var(--unp)} .v-wrong{color:var(--wrong)}
+
+/* tally bar: pattern carries the meaning as well as colour */
+.bar{display:flex;gap:2px;height:14px;width:100%}
+.bar i{display:block;min-width:4px;border-radius:2px}
+.bar .hold{background:var(--hold)}
+.bar .part{background:repeating-linear-gradient(135deg,var(--part) 0 3px,var(--part-bg) 3px 6px)}
+.bar .unp{background:var(--unp-bg);border:1.5px dashed var(--unp)}
+.bar .wrong{background:repeating-linear-gradient(90deg,var(--wrong) 0 2px,transparent 2px 4px)}
+.bar.mini{width:64px;height:8px;display:inline-flex;vertical-align:.02em;margin-right:8px}
+.bar.mini .unp{border-width:1px}
+
+/* home hero */
+.hero{padding:44px 0 8px;max-width:820px}
+.kicker{color:var(--ink2);font-size:16px;margin-bottom:12px}
+.hero h1{font-size:44px;letter-spacing:-.01em}
+.lede{font-size:20px;line-height:1.5;margin-top:18px}
+.answer{margin:36px 0 0}
+.answer .bar{height:18px}
+.answer-cols{display:grid;grid-template-columns:repeat(3,1fr);gap:32px;margin-top:18px}
+.answer-cols h2{font:700 19px/1.25 var(--sans);display:flex;align-items:center;gap:.45em}
+.answer-cols .num{font:700 30px/1.1 var(--serif);margin:10px 0 4px;font-variant-numeric:tabular-nums}
+.note{background:var(--band);border-left:4px solid var(--ink2);padding:14px 18px;margin:36px 0 0;font-size:16px;line-height:1.5;border-radius:0 6px 6px 0}
+.note strong{font-weight:700}
+
+/* sections */
+.sec{margin-top:60px}
+.sec > h2{font-size:30px}
+.sec > .intro{margin-top:8px;max-width:720px;color:var(--ink2)}
+.find{margin-top:20px;display:flex;align-items:center;gap:10px;max-width:420px}
+.find input{flex:1;font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--ink2);border-radius:6px;padding:8px 12px;min-width:0}
+.chapter{display:grid;grid-template-columns:230px minmax(0,1fr);gap:0 48px;margin-top:36px}
+.chapter-h{align-self:start;position:sticky;top:16px;padding-top:16px;border-top:3px solid var(--ink)}
+.chapter-h h3{font-size:21px}
+.rows{list-style:none;margin:0;padding:0}
+.row{position:relative;display:grid;grid-template-columns:2.4rem minmax(0,1fr) auto;gap:2px 14px;padding:16px 0 17px;border-top:1px solid var(--rule)}
+.chapter .rows .row:first-child{border-top:3px solid var(--rule)}
+.row .n{font:400 22px/1.3 var(--serif);color:var(--ink2);font-variant-numeric:tabular-nums}
+.row .t{font-weight:700;font-size:18.5px;line-height:1.3;color:var(--ink);text-decoration:none}
+.row .t::after{content:"";position:absolute;inset:0}
+.row:hover .t{text-decoration:underline;text-decoration-thickness:2px}
+.row .vd{grid-column:3;grid-row:1;font-size:15.5px;padding-top:2px}
+.row .line{grid-column:2/4;color:var(--ink);max-width:66ch}
+.row .meta{grid-column:2/4;color:var(--ink2);font-size:15px;margin-top:4px}
+.row.unv{background:var(--unp-bg);padding-left:14px;padding-right:14px;border-top-color:transparent;border-radius:6px;margin:6px 0}
+.more{background:none;border:0;padding:10px 0;margin-top:6px;color:var(--link);font-weight:600;cursor:pointer;text-decoration:underline;text-underline-offset:.16em}
+.names{list-style:none;padding:0;margin:20px 0 0;columns:2;column-gap:48px;max-width:820px}
+.names li{break-inside:avoid;padding:10px 0;border-top:1px solid var(--rule);display:flex;gap:10px;align-items:baseline}
+.names a{font-weight:600}
+.names .cnt{margin-left:auto;color:var(--ink2);font-size:15px;white-space:nowrap}
+.steps{margin:20px 0 0;padding-left:1.3em;max-width:720px}
+.steps li{margin:8px 0;padding-left:4px}
+.twocol{display:grid;grid-template-columns:1fr 1fr;gap:48px}
+.twocol h3{font:700 19px/1.3 var(--sans);margin-top:24px}
+ul.plain{margin:12px 0 0;padding-left:1.2em}
+ul.plain li{margin:8px 0}
+
+/* article pages */
+.back{display:inline-block;margin:26px 0 0;font-size:16px}
+.page{display:grid;grid-template-columns:minmax(0,700px) 340px;grid-template-areas:"lead aside" "body aside";gap:0 64px;justify-content:space-between;margin-top:14px}
+.lead{grid-area:lead}
+.body{grid-area:body}
+.aside{grid-area:aside;align-self:start;position:sticky;top:20px;padding-top:6px}
+.lead h1{font-size:40px;letter-spacing:-.01em}
+.said{margin:22px 0 0;padding-left:18px;border-left:3px solid var(--rule)}
+.said .lab{color:var(--ink2);font-size:15.5px;font-weight:600}
+.said p + p{margin-top:2px}
+.verdict{margin-top:26px;display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 14px}
+.verdict .v{font:700 24px/1.2 var(--serif)}
+.bottom{margin-top:10px;font-size:21px;line-height:1.48}
+.morep{margin-top:12px}
+.flag{margin-top:22px;background:var(--unp-bg);border-left:4px solid var(--unp);padding:14px 18px;border-radius:0 6px 6px 0}
+.flag strong{color:var(--unp)}
+.body section{margin-top:44px}
+.body h2{font-size:25px;display:flex;align-items:center;gap:.45em;padding-top:14px;border-top:3px solid var(--ink)}
+.body h2 .cnt{font:400 17px var(--sans);color:var(--ink2);margin-left:auto}
+.body .sub{color:var(--ink2);margin-top:6px}
+.item{padding:15px 0;border-bottom:1px solid var(--rule)}
+.item .st{font-weight:600;display:flex;gap:.5em;align-items:flex-start}
+.item .st .mark{margin-top:.22em}
+.item .fi{margin:4px 0 0 1.55em}
+.item details{margin:6px 0 0 1.55em}
+.item summary{cursor:pointer;color:var(--link);font-size:15.5px;font-weight:600;width:fit-content}
+.item details ul{margin:6px 0 0;padding-left:1.1em}
+.item details li{margin:5px 0}
+.fix{display:grid;grid-template-columns:1fr 1fr;gap:6px 28px;padding:15px 0;border-bottom:1px solid var(--rule)}
+.fix.one{grid-template-columns:1fr}
+.fix .lab{font-size:15px;font-weight:600;color:var(--ink2);display:block;margin-bottom:1px}
+.fix .rec .lab{color:var(--part)}
+.srcs{margin:8px 0 0;padding-left:2em}
+.srcs li{padding:8px 0 8px 4px;border-bottom:1px solid var(--rule)}
+.srcs li::marker{color:var(--ink2);font-variant-numeric:tabular-nums}
+.srcs a{overflow-wrap:anywhere}
+.aside h2{font:700 18px/1.3 var(--sans);margin-bottom:10px}
+.aside .block + .block{margin-top:30px;padding-top:22px;border-top:1px solid var(--rule)}
+.glance{list-style:none;margin:12px 0 0;padding:0;font-size:16px}
+.glance li{display:flex;gap:.5em;align-items:baseline;padding:3px 0}
+.glance b{font-variant-numeric:tabular-nums;min-width:1.4em;text-align:right}
+.fig svg{display:block;width:100%;max-width:400px;height:auto;margin:0 auto;overflow:visible}
+.fig .edge{stroke:var(--rule);stroke-width:1.5}
+.fig .edge.on{stroke:var(--link);stroke-width:2.2}
+.fig .nd{cursor:pointer}
+.fig .nd .shape{fill:var(--bg);stroke:var(--ink);stroke-width:1.6}
+.fig .nd.center .shape{fill:var(--ink)}
+.fig .nd text{font:600 12px var(--sans);fill:var(--ink)}
+.fig .nd.on .shape{fill:var(--link);stroke:var(--link)}
+.fig .nd.on text{fill:var(--link)}
+.fig .nd.off{opacity:.38}
+.fig .nd:focus-visible{outline:none}
+.fig .nd:focus-visible text{text-decoration:underline}
+.figkey{font-size:14.5px;color:var(--ink2);margin-top:6px}
+.figcap{margin-top:10px;font-size:15.5px;line-height:1.45;min-height:3em}
+.figcap ul{margin:4px 0 6px;padding-left:1.1em}
+.inv{list-style:none;margin:14px 0 0;padding:0;columns:2;column-gap:32px}
+.inv li{break-inside:avoid;padding:5px 0}
+.inv .ty{color:var(--ink2);font-size:15px}
+.tl{list-style:none;margin:10px 0 0;padding:0}
+.tl li{display:grid;grid-template-columns:104px minmax(0,1fr);gap:0 18px;padding:13px 0;border-bottom:1px solid var(--rule)}
+.tl .when{font-weight:600;font-variant-numeric:tabular-nums}
+.tl .who{color:var(--ink2);font-size:15.5px;margin-top:1px}
+.tl .who a{color:inherit}
+.crows .row{grid-template-columns:minmax(0,1fr) auto}
+.crows .row .line,.crows .row .meta{grid-column:1/3}
+.crows .row .vd{grid-column:2}
+.pager{display:flex;justify-content:space-between;gap:24px;margin-top:44px;padding-top:18px;border-top:1px solid var(--rule)}
+.pager a{max-width:46%}
+.pager span{display:block;color:var(--ink2);font-size:15px}
+
+footer{margin-top:72px;background:var(--band);padding:28px 0 36px;font-size:15.5px;line-height:1.5}
+footer p{max-width:820px}
+footer p + p{margin-top:8px;color:var(--ink2)}
+
+@media (max-width:900px){
+  .page{display:block}
+  .aside{position:static;margin-top:30px;padding:20px 0 4px;border-top:3px solid var(--ink)}
+  .chapter{display:block}
+  .chapter-h{position:static;margin-bottom:8px}
+  .chapter .rows .row:first-child{border-top:1px solid var(--rule)}
+  .twocol{grid-template-columns:1fr;gap:0}
+}
+@media (max-width:640px){
+  body{font-size:16.5px}
+  .wrap{padding:0 16px}
+  .top .wrap{padding-top:10px;padding-bottom:0;gap:6px 12px}
+  .site{font-size:19px}
+  .top nav{order:3;width:100%;gap:20px;overflow-x:auto}
+  .top nav a{font-size:15.5px;padding:6px 0 8px;white-space:nowrap}
+  .hero{padding-top:26px}
+  .hero h1{font-size:30px}
+  .lede{font-size:18px;margin-top:14px}
+  .answer{margin-top:26px}
+  .answer-cols{grid-template-columns:1fr;gap:0}
+  .answer-cols > div{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:0 12px;padding:12px 0;border-bottom:1px solid var(--rule)}
+  .answer-cols h2{font-size:17.5px}
+  .answer-cols .num{grid-column:2;grid-row:1;margin:0;font-size:24px}
+  .answer-cols p{grid-column:1/3;margin-top:2px}
+  .note{margin-top:26px;padding:12px 14px}
+  .sec{margin-top:44px}
+  .sec > h2{font-size:25px}
+  .chapter{margin-top:28px}
+  .row{grid-template-columns:1.9rem minmax(0,1fr);gap:2px 8px;padding:14px 0}
+  .row .n{font-size:19px}
+  .row .t{font-size:17.5px}
+  .row .vd{grid-column:2;grid-row:auto;font-size:15px;padding:0}
+  .row .line,.row .meta{grid-column:2}
+  .crows .row{grid-template-columns:minmax(0,1fr)}
+  .crows .row .vd,.crows .row .line,.crows .row .meta{grid-column:1}
+  .names{columns:1}
+  .lead h1{font-size:29px}
+  .back{margin-top:18px}
+  .said{padding-left:14px;margin-top:16px}
+  .verdict{margin-top:20px}
+  .verdict .v{font-size:21px}
+  .bottom{font-size:18.5px}
+  .body section{margin-top:36px}
+  .body h2{font-size:22px}
+  .fix{grid-template-columns:1fr}
+  .inv{columns:1}
+  .tl li{grid-template-columns:84px minmax(0,1fr);gap:0 12px}
+  .pager{flex-direction:column;gap:14px}
+  .pager a{max-width:none}
+  footer{margin-top:52px}
+}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="site" href="#/">The claims, checked</a>
+    <nav aria-label="Main">
+      <a href="#/" data-nav="claims">Claims</a>
+      <a href="#/names" data-nav="names">Who is involved</a>
+      <a href="#/method" data-nav="method">How we checked</a>
+    </nav>
+    <button class="themebtn" id="theme" type="button">Dark</button>
+  </div>
+</header>
+<main class="wrap" id="app"></main>
+<footer>
+  <div class="wrap">
+    <p><strong>Everyone named denies wrongdoing, and nothing here is an accusation of a crime.</strong> This is a check of what a video said against the public record. When two names are linked, it means they appear in the same documented claim or relationship. It does not show that one caused the other.</p>
+    <p>Research ran in November 2026; later developments are not reflected. This is a design prototype: 12 of the 82 items have full pages here, the rest show their summary.</p>
+  </div>
+</footer>
+
+<script>
+/*DATA-START*/const DATA={};/*DATA-END*/
+</script>
+<script>
+(function(){
+"use strict";
+var D=DATA, app=document.getElementById('app');
+var CL={}; D.claims.forEach(function(c){CL[c.id]=c;});
+var VIDEO=D.claims.filter(function(c){return c.origin==='video';});
+var CHAPTERS=[
+  ['Meme coins',1,3],
+  ['World Liberty Financial and its backers',4,7],
+  ['The UAE, Binance and the stablecoin laws',8,13],
+  ['Family and envoys',14,17],
+  ['Bitcoin, Trump Media and the markets',18,24],
+  ['Prediction markets, defence and deal vehicles',25,28],
+  ['The big picture',29,30]
+];
+var VL={'confirmed':'Confirmed','mostly-accurate':'Mostly accurate','partly-accurate':'Partly accurate','misleading':'Misleading','unverified':'Unverified','false':'False'};
+var VG={'confirmed':'hold','mostly-accurate':'hold','partly-accurate':'part','misleading':'wrong','unverified':'unp','false':'wrong'};
+var TY={person:'Person',company:'Company',government:'Government body',fund:'Fund',asset:'Asset',country:'Country',law:'Law',media:'News outlet',event:'Event',product:'Product'};
+var KIND={money:'Money',ownership:'Ownership',family:'Family',regulatory:'Regulation',advisory:'Advice and roles',political:'Politics',legal:'Legal action',media:'Reporting',commercial:'Business deals'};
+var MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+function num(n){return String(n).replace(/\B(?=(\d{3})+(?!\d))/g,',');}
+function cap(s){return s?s.charAt(0).toUpperCase()+s.slice(1):s;}
+function plural(n,w,ws){return n+' '+(n===1?w:(ws||w+'s'));}
+function fmtDate(d){
+  var m=/^(\d{4})(?:-(\d{2}))?(?:-(\d{2}))?$/.exec(d||'');
+  if(!m) return d||'';
+  if(m[3]) return (+m[3])+' '+MON[m[2]-1]+' '+m[1];
+  if(m[2]) return MON[m[2]-1]+' '+m[1];
+  return m[1];
+}
+function firstSentence(s){var m=/^(.+?[.!?])(\s+[A-Z'"(]|$)/.exec(s);return m?m[1]:s;}
+function cnum(c){return +c.id.slice(1);}
+
+/* Verdict marks: each has its own shape so the meaning never rests on colour alone. */
+function mark(v){
+  var a='<svg class="mark" viewBox="0 0 16 16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">';
+  if(v==='confirmed') a+='<circle cx="8" cy="8" r="7.1" fill="currentColor" stroke="none"/><path d="M4.6 8.3l2.3 2.3 4.5-5" stroke="var(--bg)"/>';
+  else if(v==='mostly-accurate'||v==='hold') a+='<circle cx="8" cy="8" r="6.6"/><path d="M4.9 8.3l2.2 2.2 4.1-4.6"/>';
+  else if(v==='partly-accurate'||v==='part') a+='<circle cx="8" cy="8" r="6.6"/><path d="M8 1.4a6.6 6.6 0 0 0 0 13.2z" fill="currentColor" stroke="none"/>';
+  else if(v==='unverified'||v==='unp') a+='<circle cx="8" cy="8" r="6.6" stroke-dasharray="2.4 2.2"/><path d="M6.3 6.3a1.8 1.8 0 1 1 2.6 1.7c-.6.4-.9.7-.9 1.4M8 11.6v.1"/>';
+  else if(v==='other') a+='<path d="M2 3.2h12v8H7.2L4 13.8v-2.6H2z"/>';
+  else a+='<circle cx="8" cy="8" r="6.6"/><path d="M5.4 5.4l5.2 5.2M10.6 5.4l-5.2 5.2"/>';
+  return a+'</svg>';
+}
+function verdict(v){return '<span class="v v-'+VG[v]+'">'+mark(v)+esc(VL[v])+'</span>';}
+function bar(t,cls){
+  var k=['hold','part','unp','wrong'],h='<span class="bar '+(cls||'')+'" aria-hidden="true">';
+  t.forEach(function(n,i){if(n) h+='<i class="'+k[i]+'" style="flex:'+n+'"></i>';});
+  return h+'</span>';
+}
+function tallyText(c){
+  var t=c.tally,tot=t[0]+t[1]+t[2]+t[3],p=[];
+  if(t[0]===tot) p.push('All '+tot+' points checked hold up');
+  else{
+    p.push(t[0]+' of '+tot+' points hold up');
+    if(t[1]) p.push(t[1]+' partly');
+    if(t[2]) p.push(t[2]+' unproven');
+    if(t[3]) p.push(t[3]+' wrong or misleading');
+  }
+  var s=p.join(', ');
+  if(c.fixes) s+=' · '+plural(c.fixes,'correction');
+  return s;
+}
+function claimHref(id){return '#/claim/'+id;}
+function entHref(id){return '#/name/'+id;}
+function entLink(id,short){var e=D.entities[id];return e?'<a href="'+entHref(id)+'">'+esc(short?e.sh:e.n)+'</a>':esc(id);}
+function label(c){return c.origin==='video'?String(cnum(c)):'';}
+function originText(c){
+  if(c.origin==='video') return 'Claim '+cnum(c)+' of '+VIDEO.length+' in the video';
+  if(c.origin==='follow-up') return 'Follow-up lead, not in the video';
+  return 'Connection check across several claims, not in the video';
+}
+function row(c,opts){
+  opts=opts||{};
+  var unv=c.verdict==='unverified';
+  return '<li class="row'+(unv?' unv':'')+'" data-text="'+esc((c.title+' '+c.line).toLowerCase())+'">'+
+    (opts.nonum?'':'<span class="n" aria-hidden="true">'+label(c)+'</span>')+
+    '<a class="t" href="'+claimHref(c.id)+'">'+esc(c.title)+'</a>'+
+    '<span class="vd">'+verdict(c.verdict)+'</span>'+
+    '<p class="line">'+esc(firstSentence(c.line))+'</p>'+
+    '<p class="meta">'+bar(c.tally,'mini')+esc(tallyText(c))+(unv?' · rests on a single source':'')+'</p></li>';
+}
+
+/* ---------- home ---------- */
+function home(){
+  var p=D.meta.points,tot=p[0]+p[1]+p[2]+p[3],fixes=0;
+  D.claims.forEach(function(c){fixes+=c.fixes;});
+  var vt={};VIDEO.forEach(function(c){vt[c.verdict]=(vt[c.verdict]||0)+1;});
+  var h='<section class="hero">'+
+    '<p class="kicker">An independent fact-check of Coffeezilla’s video “Investigating the President”</p>'+
+    '<h1 tabindex="-1">A 40-minute video made 30 claims about the President’s money. Most of them hold up.</h1>'+
+    '<p class="lede">We checked every claim against news reports, filings and official records, and a second reviewer re-checked the key facts. None of the 30 was found false: '+(vt.confirmed||0)+' are confirmed outright and '+(vt['mostly-accurate']||0)+' are mostly accurate, meaning the core facts stand but a figure, date or framing needed correcting.</p>'+
+    '</section>'+
+    '<section class="answer" aria-label="The short answer">'+
+    bar(p)+
+    '<div class="answer-cols">'+
+      '<div><h2 class="v-hold">'+mark('hold')+'What holds up</h2><p class="num">'+num(p[0])+' <span class="small muted" style="font:400 16px var(--sans)">of '+num(tot)+' points</span></p><p class="small">Each claim was split into separate points. About seven in ten are confirmed or mostly accurate.</p></div>'+
+      '<div><h2 class="v-part">'+mark('part')+'What needed correcting</h2><p class="num">'+num(p[1]+p[3])+' <span class="small muted" style="font:400 16px var(--sans)">points</span></p><p class="small">'+num(p[1])+' are only partly right and '+p[3]+' are wrong or misleading. We list '+num(fixes)+' specific corrections.</p></div>'+
+      '<div><h2 class="v-unp">'+mark('unp')+'What is unproven</h2><p class="num">'+num(p[2])+' <span class="small muted" style="font:400 16px var(--sans)">points</span></p><p class="small">Above all, no item shows that a payment bought an official act. Two follow-up items rest on a single book.</p></div>'+
+    '</div></section>'+
+    '<p class="note"><strong>Everyone named denies wrongdoing, and nothing here is an accusation of a crime.</strong> A link between two names means they appear in the same documented claim. It does not show that one caused the other.</p>';
+
+  h+='<section class="sec" id="claims"><h2>The 30 claims, in the order the video makes them</h2>'+
+    '<p class="intro">Each one opens a page with the bottom line, what holds up, what needs correcting, what is unproven, the other side and the sources.</p>'+
+    '<label class="find"><span class="sr">Find a claim</span><input id="find" type="search" placeholder="Find a claim, for example Qatar or Binance" autocomplete="off"></label>'+
+    '<p class="small muted" id="findmsg" role="status" style="margin-top:8px" hidden></p>';
+  CHAPTERS.forEach(function(ch){
+    var list=VIDEO.filter(function(c){var n=cnum(c);return n>=ch[1]&&n<=ch[2];});
+    h+='<div class="chapter"><div class="chapter-h"><h3>'+esc(ch[0])+'</h3><p class="small muted">Claims '+ch[1]+' to '+ch[2]+'</p></div><ul class="rows">'+list.map(function(c){return row(c);}).join('')+'</ul></div>';
+  });
+  h+='</section>';
+
+  var fu=D.claims.filter(function(c){return c.origin==='follow-up';}),
+      ch=D.claims.filter(function(c){return c.origin==='connection-hunt';}),
+      unv=D.claims.filter(function(c){return c.verdict==='unverified';});
+  function fold(list,id,name){
+    var show=list.filter(function(c){return c.verdict!=='unverified';});
+    return '<ul class="rows crows" id="'+id+'">'+show.map(function(c,i){return row(c,{nonum:1}).replace('<li class="row','<li '+(i>=4?'hidden data-fold ':'')+'class="row');}).join('')+'</ul>'+
+      '<button class="more" type="button" data-unfold="'+id+'">Show all '+show.length+' '+name+'</button>';
+  }
+  h+='<section class="sec" id="beyond"><h2>Beyond the video</h2>'+
+    '<p class="intro">Checking the video turned up leads it did not cover. We researched '+fu.length+' of them the same way, then ran '+ch.length+' checks for names that recur across claims.</p>'+
+    '<div class="chapter"><div class="chapter-h"><h3>Unverified items</h3><p class="small muted">Read these as allegations, not findings</p></div><ul class="rows crows">'+unv.map(function(c){return row(c,{nonum:1});}).join('')+'</ul></div>'+
+    '<div class="chapter"><div class="chapter-h"><h3>Follow-up leads</h3><p class="small muted">Stories the video did not tell</p></div><div>'+fold(fu,'fu','follow-up leads')+'</div></div>'+
+    '<div class="chapter"><div class="chapter-h"><h3>Connection checks</h3><p class="small muted">Lawyers, lobbyists, investors and partners who appear more than once</p></div><div>'+fold(ch,'ch','connection checks')+'</div></div>'+
+    '</section>';
+
+  h+='<section class="sec" id="names"><h2>Who is involved</h2>'+
+    '<p class="intro">The people and organisations that come up most often. Each has a page showing what the record says about them, in date order, and who they connect to. About '+num(D.meta.entities)+' names appear in total.</p>'+
+    '<ul class="names">'+D.top.map(function(id){var e=D.entities[id];return '<li><span><a href="'+entHref(id)+'">'+esc(e.n)+'</a> <span class="small muted">'+esc(TY[e.t]||'')+'</span></span><span class="cnt">in '+e.c.length+' items</span></li>';}).join('')+'</ul></section>';
+
+  h+='<section class="sec" id="method"><h2>How we checked</h2><div class="twocol"><div>'+
+    '<ol class="steps"><li>The video transcript was split into 30 claims.</li><li>Each claim was researched separately: every figure, date and name was checked against news reporting, filings and official releases, and the other side’s response was recorded.</li><li>Leads that came up along the way were researched the same way.</li><li>A second, independent reviewer re-checked the most important facts in each item and corrected the files where needed.</li></ol></div>'+
+    '<div><h3>Limits you should know about</h3><ul class="plain"><li>Most findings rest on search excerpts that agree across several outlets, not on reading every original filing in full. That is why most items are rated medium confidence.</li><li>Two items about Jared Kushner come from one book and are denied by everyone named. They are marked unverified wherever they appear.</li><li>About '+num(D.meta.sources)+' sources are cited. Each claim page lists its own.</li></ul></div></div></section>';
+  app.innerHTML=h;
+
+  var find=document.getElementById('find'),msg=document.getElementById('findmsg');
+  find.addEventListener('input',function(){
+    var q=find.value.trim().toLowerCase(),n=0;
+    document.querySelectorAll('#claims .row').forEach(function(r){var ok=!q||r.getAttribute('data-text').indexOf(q)>=0;r.hidden=!ok;if(ok)n++;});
+    document.querySelectorAll('#claims .chapter').forEach(function(c){c.hidden=!c.querySelector('.row:not([hidden])');});
+    msg.hidden=!q;msg.textContent=q?(n?plural(n,'claim')+' in the video match':'No claim in the video matches. Try a name or a company.'):'';
+  });
+  app.querySelectorAll('[data-unfold]').forEach(function(b){b.addEventListener('click',function(){
+    document.querySelectorAll('#'+b.getAttribute('data-unfold')+' [data-fold]').forEach(function(r){r.hidden=false;});b.remove();
+  });});
+}
+
+/* ---------- small network figure ---------- */
+function wrapLabel(s,max){
+  if(s.length<=max) return [s];
+  var w=s.split(' '),a='',b='',i=0;
+  for(;i<w.length;i++){if((a+' '+w[i]).trim().length<=max||!a) a=(a+' '+w[i]).trim(); else break;}
+  b=w.slice(i).join(' ');
+  if(b.length>max) b=b.slice(0,max-1).replace(/\s+\S*$/,'')+'…';
+  return b?[a,b]:[a];
+}
+function figure(centerId,ids,edges,describe){
+  /* centerId may be null. ids: ring nodes. edges: [a,b] pairs. describe(id) returns caption html. */
+  var W=360,H=centerId?300:290,cx=W/2,cy=H/2,rx=84,ry=centerId?104:98,pos={},n=ids.length,s='';
+  ids.forEach(function(id,i){var a=2*Math.PI*i/n+(n%2?0:Math.PI/n);pos[id]={x:cx+rx*Math.sin(a),y:cy-ry*Math.cos(a),sx:Math.sin(a),sy:-Math.cos(a)};});
+  if(centerId) pos[centerId]={x:cx,y:cy,center:1};
+  edges.forEach(function(e){var a=pos[e[0]],b=pos[e[1]];if(a&&b) s+='<line class="edge" data-a="'+esc(e[0])+'" data-b="'+esc(e[1])+'" x1="'+a.x.toFixed(1)+'" y1="'+a.y.toFixed(1)+'" x2="'+b.x.toFixed(1)+'" y2="'+b.y.toFixed(1)+'"/>';});
+  Object.keys(pos).forEach(function(id){
+    var p=pos[id],e=D.entities[id],lines=wrapLabel(e.sh,p.center?16:15),r=p.center?8:6.5,t='';
+    var shape=e.t==='person'?'<circle class="shape" cx="'+p.x.toFixed(1)+'" cy="'+p.y.toFixed(1)+'" r="'+r+'"/>':'<rect class="shape" x="'+(p.x-r).toFixed(1)+'" y="'+(p.y-r).toFixed(1)+'" width="'+2*r+'" height="'+2*r+'" rx="2"/>';
+    var anchor,tx,ty;
+    if(p.center){anchor='middle';tx=p.x;ty=p.y+r+15;}
+    else if(Math.abs(p.sx)<0.35){anchor='middle';tx=p.x;ty=p.sy<0?p.y-r-6-(lines.length-1)*14:p.y+r+15;}
+    else{anchor=p.sx>0?'start':'end';tx=p.x+(p.sx>0?r+7:-r-7);ty=p.y+4-(lines.length-1)*7;}
+    lines.forEach(function(l,i){t+='<tspan x="'+tx.toFixed(1)+'" dy="'+(i?14:0)+'">'+esc(l)+'</tspan>';});
+    s+='<g class="nd'+(p.center?' center':'')+'" data-id="'+esc(id)+'" tabindex="0" role="button" aria-label="'+esc(e.n)+': show connections">'+
+      '<rect x="'+(p.x-16)+'" y="'+(p.y-16)+'" width="32" height="32" fill="transparent"/>'+shape+
+      '<text text-anchor="'+anchor+'" x="'+tx.toFixed(1)+'" y="'+ty.toFixed(1)+'"'+(p.center?' paint-order="stroke" stroke="var(--bg)" stroke-width="4"':'')+'>'+t+'</text></g>';
+  });
+  var el=document.createElement('div');el.className='fig';
+  el.innerHTML='<svg viewBox="0 0 '+W+' '+H+'" role="group" aria-label="Diagram of connections">'+s+'</svg>'+
+    '<p class="figkey">Circles are people. Squares are organisations and other things.</p>'+
+    '<div class="figcap" aria-live="polite">Select a name to see how it connects.</div>';
+  var capEl=el.querySelector('.figcap');
+  function pick(id){
+    el.querySelectorAll('.nd').forEach(function(g){
+      var gid=g.getAttribute('data-id'),linked=gid===id||edges.some(function(e){return (e[0]===id&&e[1]===gid)||(e[1]===id&&e[0]===gid);});
+      g.classList.toggle('on',gid===id);g.classList.toggle('off',!linked);
+    });
+    el.querySelectorAll('.edge').forEach(function(l){l.classList.toggle('on',l.getAttribute('data-a')===id||l.getAttribute('data-b')===id);});
+    capEl.innerHTML=describe(id);
+  }
+  el.querySelectorAll('.nd').forEach(function(g){
+    g.addEventListener('click',function(){pick(g.getAttribute('data-id'));});
+    g.addEventListener('keydown',function(ev){if(ev.key==='Enter'||ev.key===' '){ev.preventDefault();pick(g.getAttribute('data-id'));}});
+  });
+  return el;
+}
+function relSentence(r){
+  return entLink(r.s,1)+' → '+entLink(r.t,1)+': '+esc(r.l)+(r.d?' <span class="muted">('+esc(fmtDate(r.d))+')</span>':'');
+}
+function dedupe(rels){
+  var seen={},out=[];
+  rels.slice().sort(function(a,b){return (b.d||'').length-(a.d||'').length;}).forEach(function(r){
+    var k=r.s+'|'+r.t+'|'+(r.d?r.d.slice(0,7):r.l.slice(0,14));
+    if(!seen[k]){seen[k]=1;out.push(r);}
+  });
+  return out;
+}
+
+/* ---------- claim page ---------- */
+function claim(id){
+  var c=CL[id]; if(!c) return home();
+  var f=D.full[id],grp=VG[c.verdict],isVideo=c.origin==='video';
+  var conf={high:'High confidence',medium:'Medium confidence',low:'Low confidence'};
+  var aud={upheld:'a second review upheld the findings',corrected:'a second review corrected some details',weakened:'a second review weakened some findings',strengthened:'a second review strengthened the findings'};
+  var h='<a class="back" href="#/">← All claims</a><article class="page"><div class="lead">'+
+    '<p class="kicker">'+esc(originText(c))+'</p><h1 tabindex="-1">'+esc(c.title)+'</h1>';
+  if(f) h+='<div class="said"><p class="lab">'+(isVideo?'What the video says':'What we set out to check')+'</p><p>'+esc(f.claim)+'</p></div>';
+  h+='<div class="verdict">'+verdict(c.verdict)+(f?'<span class="muted small">'+esc(conf[f.confidence]||'')+(aud[f.audit]?'; '+aud[f.audit]:'')+'</span>':'')+'</div>';
+  if(c.verdict==='unverified') h+='<p class="flag"><strong>Unverified.</strong> The central allegation rests on one source and has not been corroborated. Everyone named denies it. Read this page as a record of what has been alleged and what is known about the allegation, not as a finding that it happened.</p>';
+  h+='<p class="bottom">'+esc(c.line)+'</p>';
+  if(f) f.more.forEach(function(m){h+='<p class="morep">'+esc(m)+'</p>';});
+  h+='</div>';
+
+  /* aside */
+  var t=c.tally,tot=t[0]+t[1]+t[2]+t[3];
+  h+='<aside class="aside"><div class="block"><h2>At a glance</h2>'+bar(t)+'<ul class="glance">'+
+    '<li class="v-hold">'+mark('hold')+'<b>'+t[0]+'</b> of '+tot+' points hold up</li>'+
+    (t[1]?'<li class="v-part">'+mark('part')+'<b>'+t[1]+'</b> partly right</li>':'')+
+    (t[3]?'<li class="v-wrong">'+mark('false')+'<b>'+t[3]+'</b> wrong or misleading</li>':'')+
+    '<li class="v-unp">'+mark('unp')+'<b>'+t[2]+'</b> unproven</li>'+
+    '<li class="muted" style="padding-left:1.55em"><b style="color:var(--ink)">'+c.fixes+'</b> '+(c.fixes===1?'correction':'corrections')+' to how it was told</li></ul></div>'+
+    (f?'<div class="block" id="figblock"><h2>Who is involved</h2></div>':'')+'</aside>';
+
+  h+='<div class="body">';
+  if(!f){
+    h+='<section><p class="note" style="margin-top:0">This prototype carries the full page for 12 of the 82 items. This one shows its summary only. Try <a href="#/claim/C05">Justin Sun, WLF and the SEC</a>, <a href="#/claim/C16">the Qatar jet</a> or <a href="#/claim/C46">an unverified item</a>.</p></section>';
+  } else {
+    var holds=f.subs.filter(function(s){return VG[s.v]==='hold';}),
+        partial=f.subs.filter(function(s){return VG[s.v]==='part'||VG[s.v]==='wrong';}),
+        unp=f.subs.filter(function(s){return VG[s.v]==='unp';});
+    function item(s){
+      var rest=s.p.slice(1),src=s.src.length?'<li class="muted">Sources: '+s.src.map(function(n){return '<a href="#src-'+n+'" data-src="'+n+'">'+n+'</a>';}).join(', ')+'</li>':'';
+      return '<div class="item"><p class="st v-'+VG[s.v]+'">'+mark(s.v)+'<span style="color:var(--ink)">'+esc(s.s)+(VG[s.v]!=='hold'||s.v==='mostly-accurate'?' <span class="small v-'+VG[s.v]+'" style="font-weight:600">'+esc(VL[s.v])+'</span>':'')+'</span></p>'+
+        '<p class="fi">'+esc(s.p[0]||'')+'</p>'+
+        (rest.length||src?'<details><summary>More detail</summary><ul>'+rest.map(function(x){return '<li>'+esc(x)+'</li>';}).join('')+src+'</ul></details>':'')+'</div>';
+    }
+    h+='<section id="holds"><h2 class="v-hold">'+mark('hold')+'<span style="color:var(--ink)">What holds up</span><span class="cnt">'+plural(holds.length,'point')+'</span></h2>'+
+      (holds.length?holds.map(item).join(''):'<p class="sub">No point in this item is confirmed outright.</p>')+'</section>';
+
+    h+='<section id="fixes"><h2 class="v-part">'+mark('part')+'<span style="color:var(--ink)">What needs correcting</span><span class="cnt">'+plural(f.fixes.length+partial.length,'point')+'</span></h2>';
+    var who=isVideo?'The video said':'The lead said';
+    f.fixes.forEach(function(x){
+      if(x.said) h+='<div class="fix"><p><span class="lab">'+who+'</span>'+esc(x.said.replace(/^The (transcript|video|brief|lead) (implies|says|states|calls it|suggests)\s*/i,function(m,a,b){return cap(b)+' ';}))+'</p><p class="rec"><span class="lab">The record shows</span>'+esc(x.record.replace(/^The record shows\s*/i,'').replace(/^./,function(ch){return ch.toUpperCase();}))+'</p></div>';
+      else h+='<div class="fix one"><p class="rec"><span class="lab">Correction</span>'+esc(x.text)+'</p></div>';
+    });
+    h+=partial.map(item).join('')+'</section>';
+
+    h+='<section id="unproven"><h2 class="v-unp">'+mark('unp')+'<span style="color:var(--ink)">What is unproven</span><span class="cnt">'+plural(unp.length||f.unproven.length,'point')+'</span></h2>';
+    if(unp.length) h+=unp.map(item).join('');
+    else if(f.unproven.length) h+=f.unproven.map(function(x){return '<div class="item"><p class="st v-unp">'+mark('unp')+'<span style="color:var(--ink);font-weight:400">'+esc(x)+'</span></p></div>';}).join('');
+    else h+='<p class="sub">Nothing in this item was left unproven.</p>';
+    h+='</section>';
+
+    h+='<section id="other"><h2>'+mark('other')+'The other side</h2><p class="sub">What the people and organisations named say, and context that cuts the other way.</p>'+
+      f.other.map(function(x){return '<div class="item"><p>'+esc(x)+'</p></div>';}).join('')+'</section>';
+
+    h+='<section id="who"><h2>Everyone named in this item</h2><ul class="inv">'+f.ents.map(function(e){var x=D.entities[e];return x?'<li>'+entLink(e)+' <span class="ty">'+esc((TY[x.t]||'').toLowerCase())+'</span></li>':'';}).join('')+'</ul></section>';
+
+    h+='<section id="sources"><h2>Sources<span class="cnt">'+f.sources.length+'</span></h2><ol class="srcs">'+
+      f.sources.map(function(s,i){return '<li id="src-'+(i+1)+'"'+(i>=6?' hidden data-fold':'')+'><a href="'+esc(s[2])+'" rel="noopener noreferrer" target="_blank">'+esc(s[0]||s[2])+'</a><br><span class="small muted">'+esc(s[1])+(s[3]?', '+esc(fmtDate(s[3])):'')+'</span></li>';}).join('')+'</ol>'+
+      (f.sources.length>6?'<button class="more" type="button" id="allsrc">Show all '+f.sources.length+' sources</button>':'')+'</section>';
+  }
+  /* pager */
+  var order=D.claims.filter(function(x){return x.origin===c.origin;}),i=order.indexOf(c),pv=order[i-1],nx=order[i+1];
+  h+='<nav class="pager" aria-label="More claims">'+(pv?'<a href="'+claimHref(pv.id)+'"><span>Previous</span>'+esc(pv.title)+'</a>':'<span></span>')+(nx?'<a href="'+claimHref(nx.id)+'" style="text-align:right"><span>Next</span>'+esc(nx.title)+'</a>':'')+'</nav>';
+  h+='</div></article>';
+  app.innerHTML=h;
+
+  if(f){
+    var rels=D.rels.filter(function(r){return r.c.indexOf(id)>=0&&f.ents.indexOf(r.s)>=0&&f.ents.indexOf(r.t)>=0;});
+    var deg={};rels.forEach(function(r){deg[r.s]=(deg[r.s]||0)+1;deg[r.t]=(deg[r.t]||0)+1;});
+    var ids=f.ents.filter(function(e){return deg[e];}).slice(0,8),pairs={},edges=[];
+    rels.forEach(function(r){if(ids.indexOf(r.s)>=0&&ids.indexOf(r.t)>=0){var k=[r.s,r.t].sort().join('|');if(!pairs[k]){pairs[k]=1;edges.push([r.s,r.t]);}}});
+    var fig=figure(null,ids,edges,function(eid){
+      var mine=dedupe(rels.filter(function(r){return r.s===eid||r.t===eid;})).slice(0,4);
+      return '<strong>'+esc(D.entities[eid].n)+'</strong> in this claim:<ul>'+mine.map(function(r){return '<li>'+relSentence(r)+'</li>';}).join('')+'</ul><a href="'+entHref(eid)+'">Open the page for '+esc(D.entities[eid].sh)+' →</a>';
+    });
+    var blk=document.getElementById('figblock');blk.appendChild(fig);
+    if(f.ents.length>ids.length){var p=document.createElement('p');p.className='small muted';p.style.marginTop='8px';p.innerHTML='Showing the '+ids.length+' most connected of '+f.ents.length+' names. <a href="#who" data-jump="who">See everyone named</a>.';blk.appendChild(p);}
+    var b=document.getElementById('allsrc');
+    function openSrc(){app.querySelectorAll('.srcs [data-fold]').forEach(function(li){li.hidden=false;});if(b)b.remove();}
+    if(b) b.addEventListener('click',openSrc);
+    app.addEventListener('click',function(ev){
+      var a=ev.target.closest&&ev.target.closest('[data-src],[data-jump]');if(!a||!app.contains(a))return;
+      ev.preventDefault();
+      var tgt;
+      if(a.hasAttribute('data-src')){openSrc();tgt=document.getElementById('src-'+a.getAttribute('data-src'));}
+      else tgt=document.getElementById(a.getAttribute('data-jump'));
+      if(tgt) tgt.scrollIntoView({block:'start'});
+    });
+  }
+}
+
+/* ---------- person or organisation page ---------- */
+function entity(id){
+  var e=D.entities[id]; if(!e) return home();
+  var all=D.rels.filter(function(r){return r.s===id||r.t===id;}),rels=dedupe(all);
+  var dated=rels.filter(function(r){return r.d;}).sort(function(a,b){return a.d<b.d?-1:a.d>b.d?1:0;});
+  var cls=e.c.map(function(x){return CL[x];}).filter(Boolean);
+  var inVideo=cls.filter(function(c){return c.origin==='video';}).length;
+  var h='<a class="back" href="#/names">← Who is involved</a><article class="page"><div class="lead">'+
+    '<p class="kicker">'+esc(TY[e.t]||'Name')+'</p><h1 tabindex="-1">'+esc(e.n)+'</h1>'+
+    '<p class="bottom">'+esc(e.d)+'</p>'+
+    '<p class="morep muted">Appears in '+plural(cls.length,'item')+' of '+D.meta.claims+(inVideo?', including '+plural(inVideo,'claim')+' made in the video':'')+'. '+(e.t==='person'?'Being named here is not an accusation.':'Being named here is not an accusation against it or its people.')+'</p></div>';
+  h+='<aside class="aside"><div class="block" id="figblock"><h2>Closest connections</h2></div></aside><div class="body">';
+
+  if(dated.length){
+    h+='<section id="timeline"><h2>In date order<span class="cnt">'+plural(dated.length,'dated event')+'</span></h2><p class="sub">What the record shows, earliest first. Each line comes from a claim we checked.</p><ol class="tl">'+
+      dated.map(function(r,i){return '<li'+(i>=9?' hidden data-fold':'')+'><span class="when">'+esc(fmtDate(r.d.split('/')[0]))+'</span><div><p>'+esc(cap(r.l))+'</p><p class="who">'+entLink(r.s,1)+' → '+entLink(r.t,1)+' · from '+r.c.slice(0,2).map(function(x){return CL[x]?'<a href="'+claimHref(x)+'">'+(CL[x].origin==='video'?'claim '+cnum(CL[x]):'a follow-up')+'</a>':'';}).join(', ')+'</p></div></li>';}).join('')+'</ol>'+
+      (dated.length>9?'<button class="more" type="button" id="alltl">Show all '+dated.length+' events</button>':'')+'</section>';
+  }
+  var groups={};rels.forEach(function(r){(groups[r.k]=groups[r.k]||[]).push(r);});
+  var gk=Object.keys(groups).sort(function(a,b){return groups[b].length-groups[a].length;});
+  if(gk.length){
+    h+='<section id="links"><h2>Connections, by kind<span class="cnt">'+rels.length+'</span></h2><p class="sub">A connection is a documented relationship. It is not proof of wrongdoing.</p>';
+    gk.slice(0,5).forEach(function(k){
+      var seen={},names=[];groups[k].forEach(function(r){var o=r.s===id?r.t:r.s;if(!seen[o]){seen[o]=1;names.push(o);}});
+      h+='<div class="item"><p><strong>'+esc(KIND[k]||cap(k))+'</strong> <span class="muted small">'+plural(names.length,'name')+'</span></p><p class="small" style="margin-top:3px">'+names.slice(0,12).map(function(n){return entLink(n);}).join(', ')+(names.length>12?' and '+(names.length-12)+' more':'')+'</p></div>';
+    });
+    h+='</section>';
+  }
+  /* what they say */
+  var keys=[e.n].concat(e.a||[]).filter(function(x){return x.length>2;}),says=[];
+  if(e.t==='person') keys.push(e.n.split(' ').pop());
+  e.c.forEach(function(cid){var f=D.full[cid];if(!f)return;f.other.forEach(function(x){
+    if(/den(y|ies|ied)|rejects?|disputes?|says|said|calls?|without admitting/i.test(x)&&keys.some(function(k){return x.indexOf(k)>=0;})&&says.length<4) says.push([x,cid]);});});
+  if(says.length){
+    h+='<section id="says"><h2>'+mark('other')+'The other side</h2><p class="sub">Responses and context recorded in the claims that name '+esc(e.sh)+'.</p>'+
+      says.map(function(s){return '<div class="item"><p>'+esc(s[0])+'</p><p class="small muted" style="margin-top:2px">From <a href="'+claimHref(s[1])+'">'+esc(CL[s[1]].title)+'</a></p></div>';}).join('')+'</section>';
+  }
+  h+='<section id="in"><h2>Claims that name '+esc(e.sh)+'<span class="cnt">'+cls.length+'</span></h2><ul class="rows crows">'+
+    cls.map(function(c,i){return row(c,{nonum:1}).replace('<li class="row','<li '+(i>=6?'hidden data-fold ':'')+'class="row');}).join('')+'</ul>'+
+    (cls.length>6?'<button class="more" type="button" id="allin">Show all '+cls.length+' claims</button>':'')+'</section>';
+  h+='</div></article>';
+  app.innerHTML=h;
+
+  var cnt={};all.forEach(function(r){var o=r.s===id?r.t:r.s;cnt[o]=(cnt[o]||0)+1;});
+  var ids=Object.keys(cnt).filter(function(x){return D.entities[x]&&x!==id;}).sort(function(a,b){return cnt[b]-cnt[a]||(D.entities[b].c.length-D.entities[a].c.length);}).slice(0,8);
+  var fig=figure(id,ids,ids.map(function(x){return [id,x];}),function(eid){
+    if(eid===id) return '<strong>'+esc(e.n)+'</strong> has documented connections to '+plural(Object.keys(cnt).length,'name')+'. The '+ids.length+' with the most links are shown.';
+    var mine=dedupe(all.filter(function(r){return r.s===eid||r.t===eid;})).sort(function(a,b){return (a.d||'9')<(b.d||'9')?-1:1;}).slice(0,4);
+    return '<strong>'+esc(D.entities[eid].n)+'</strong> and '+esc(e.sh)+':<ul>'+mine.map(function(r){return '<li>'+relSentence(r)+'</li>';}).join('')+'</ul><a href="'+entHref(eid)+'">Open the page for '+esc(D.entities[eid].sh)+' →</a>';
+  });
+  document.getElementById('figblock').appendChild(fig);
+  [['alltl','.tl'],['allin','#in .rows']].forEach(function(p){var b=document.getElementById(p[0]);if(b)b.addEventListener('click',function(){app.querySelectorAll(p[1]+' [data-fold]').forEach(function(li){li.hidden=false;});b.remove();});});
+}
+
+/* ---------- routing and theme ---------- */
+function route(){
+  var h=location.hash.replace(/^#\/?/,''),parts=h.split('/'),nav='claims',anchor=null;
+  var fresh=app.cloneNode(false);app.parentNode.replaceChild(fresh,app);app=fresh; /* drops old listeners */
+  if(parts[0]==='claim') claim(parts[1]);
+  else if(parts[0]==='name'){entity(parts[1]);nav='names';}
+  else{home();if(parts[0]==='names'||parts[0]==='method'){anchor=parts[0];nav=parts[0];}}
+  document.querySelectorAll('[data-nav]').forEach(function(a){if(a.getAttribute('data-nav')===nav)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
+  var t=anchor&&document.getElementById(anchor);
+  if(t) t.scrollIntoView(); else window.scrollTo(0,0);
+  var h1=app.querySelector('h1');if(h1&&!anchor) h1.focus({preventScroll:true});
+  document.title=(h1&&parts[0]&&!anchor?h1.textContent+' · ':'')+'The claims, checked';
+}
+window.addEventListener('hashchange',route);
+var root=document.documentElement,tb=document.getElementById('theme');
+function isDark(){var t=root.getAttribute('data-theme');return t?t==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;}
+function paintBtn(){tb.textContent=isDark()?'Light theme':'Dark theme';}
+try{var saved=localStorage.getItem('theme');if(saved)root.setAttribute('data-theme',saved);}catch(e){}
+tb.addEventListener('click',function(){var n=isDark()?'light':'dark';root.setAttribute('data-theme',n);try{localStorage.setItem('theme',n);}catch(e){}paintBtn();});
+paintBtn();route();
+})();
+</script>
+</body>
+</html>

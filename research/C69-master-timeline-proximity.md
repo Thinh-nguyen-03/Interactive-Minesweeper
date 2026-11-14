@@ -11,13 +11,13 @@
 3. Result: **489 events** (397 from edges, 92 from text) and **51 candidate pairs** within 45 days, 47 of them across claim files. A check for whether both dates appear in one report showed 47 of the 51 were already discussed together. The 4 left over were artefacts: a settlement paired with itself, a court scheduling order, and duplicate pardon dates. Other artefacts discarded by hand: ADGM's statement on Aqua 1 (not a US act, not a favour), Cantor's TMTG advisory role paired with an EXIM letter to Critical Metals (wrong money direction), and Trump's OGE disclosure paired with DOJ's Paramount clearance (a disclosure is not a payment).
 4. The automated pass mostly re-found known pairs, so we cross-referenced by hand. The main gap was that no report had dated the **October 2025 ballroom donor list** against federal actions. We then used about 20 searches to verify dates for 13 pairs.
 
-The master timeline below has **277 events**: 258 from claim edges, collapsed across duplicates, plus 19 verified additions. It is saved as `data/timeline.json`. Grades are a heuristic: `single-source` where the edge label cites one outlet, a leak or anonymous sourcing, `inferred` where the label says so, and `documented` otherwise. Month-precision dates are shown as YYYY-MM.
+The master timeline below has **272 events**: 253 from claim edges, collapsed across duplicates, plus 19 verified additions. (It had 277 before the Nov 2026 audit merged duplicate Milton, CZ and Nvidia rows; see the audit section.) It is saved as `data/timeline.json`. Grades are a heuristic: `single-source` where the edge label cites one outlet, a leak or anonymous sourcing, `inferred` where the label says so, and `documented` otherwise. Month-precision dates are shown as YYYY-MM.
 
 ## 1. Proximity pairs not connected by the individual reports (all `inferred`)
 
 | # | Money / benefit side | Official side | Gap | Grade | Section |
 |---|---|---|---|---|---|
-| A | Microsoft named ballroom donor at the 15 Oct 2025 dinner, list published 23 Oct ($10M per WaPo) | Commerce approves Microsoft's UAE Nvidia-chip licences, **Sep 2025** (disclosed 3 Nov) | ~14-44 days (licence first) | inferred | pair |
+| A | Microsoft named ballroom donor at the 15 Oct 2025 dinner, list published 23 Oct ($10M per WaPo) | Commerce approves Microsoft's UAE Nvidia-chip licences, **Sep 2025** (disclosed 3 Nov) | ~15-44 days (licence first) | inferred | pair |
 | B | Lockheed Martin named ballroom donor ($10M per WaPo) | F-35 Lot 18-19 $12.5B definitized **29 Sep 2025**; Saudi F-35 sale announced **18 Nov 2025** | 16 days before / 34 days after the dinner | inferred | innocent explanation |
 | C | YouTube pays $22M to the ballroom in a settlement, **29 Sep 2025** | GSA OneGov "Gemini for Government", **21-22 Aug 2025** | 39 days (act first) | inferred | innocent explanation |
 | D | Pakistan's government signs USD1 MoU with SC Financial (USD1 brand co-owner), signed by Zach Witkoff, **14 Jan 2026** | US EXIM $1.25B Reko Diq financing, approval reported **28 Nov**, announced **10 Dec 2025** | 35-47 days (act first) | inferred | pair |
@@ -37,8 +37,8 @@ The master timeline below has **277 events**: 258 from claim edges, collapsed ac
 Listed for completeness. These are the closest pairs in the dataset. Fresh searches confirmed the dates.
 - **Justin Sun:** $45M WLFI purchase (20 Jan 2025), then a joint SEC stay request **37 days** later (26 Feb 2025). C05, C67. Confirmed by The Block and Cointelegraph.
 - **Gemini / Winklevoss:** CFTC joint motion to vacate the consent order (27-28 May 2026), then twin BTC gifts of more than $5M each to MAGA Inc. **22-23 days** later (19 Jun 2026). C43, C52. Judge Hellerstein denied the motion on 16 Oct 2026.
-- **Nvidia:** $25M anonymous ballroom commitment dated Oct 2025 (WaPo, single-source), then Commerce approvals of Nvidia-chip sales to G42 and Humain (19 Nov 2025) and Trump's H200-to-China decision (8 Dec 2025). C68.
-- **Binance:** CZ pardon (23 Oct 2025), then BUSD-to-USD1 reserve switch **49 days** later (11 Dec 2025). C10. Decrypt reported it as "following founder's pardon", and Binance denies a connection.
+- **Nvidia:** $25M anonymous ballroom commitment dated Oct 2025 (WaPo, single-source; the link is `inferred`), then Commerce approvals of Nvidia-chip sales to G42 and Humain (19 Nov 2025) and Trump's H200-to-China decision (8 Dec 2025). C68.
+- **Binance:** CZ pardon (signed 22 Oct, announced 23 Oct 2025), then BUSD-to-USD1 reserve switch **49-50 days** later (11 Dec 2025). The sequence is documented; the link is `inferred`. C10. Decrypt reported it as "following founder's pardon", and Binance denies a connection.
 - **Others found by the script and already paired:**
   - Crypto.com Truth.Fi ETF deal (24 Mar 2025) and SEC closing its probe (27 Mar, **3 days**). C22.
   - MGX settles $2B in USD1 (1 May 2025), then the UAE chip framework (15 May, **14 days**) and the SEC's Binance dismissal (29 May, **28 days**). C07, C08, C09.
@@ -121,10 +121,48 @@ These links are our own cross-referencing. No outlet we found pairs them.
 32. Cointelegraph, SEC stay request, 2025-02-26. https://cointelegraph.com/news/sec-asks-stay-case-justin-sun-potential-resolution
 33. The Block, CFTC joins Gemini motion, 2026-05-28. https://www.theblock.co/news/business/2026-05-28-cftc-joins-relief-motion-gemini-402827
 34. The Block, judge denies Gemini-CFTC bid, 2026-10-16. https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775
+Audit sources are listed in the audit section below.
 
 Other dates in the timeline come from the cited claim files (column "Claims"). We did not re-verify them here, except where they appear above.
 
-## Master timeline (277 events; also in `data/timeline.json`)
+## Audit (second review, Nov 2026)
+
+**Result: upheld** (verdict and confidence unchanged). An independent reviewer re-dated the six most significant pairs with fresh searches through outlets other than those cited above, checked the grading and wording of every pair, and spot-checked more than 20 timeline rows against their claim files.
+
+**Pairs re-verified (dates and gaps upheld):**
+- A, Microsoft: approval in September 2025, disclosed 3 Nov 2025 (Implicator, Semafor, UPI). The gap range is corrected from about 14-44 to about 15-44 days.
+- B, Lockheed: $12.5B Lot 18-19 modification on 29 Sep 2025 (The Aviationist, Shephard, Air & Space Forces).
+- C, Google: GSA announced Gemini for Government on Thursday 21 Aug 2025 (TechRepublic, Ground News). YouTube settled on 29 Sep 2025 (NPR, Al Jazeera).
+- D, Pakistan: EXIM approved the $1.25B in late November 2025 after the shutdown delayed board decisions, and announced it on 10 Dec (Geo, Aaj). The MoU was signed on 14 Jan 2026 (ProPakistani, Business Recorder).
+- E, PIF: the EU cleared the deal on 23 Jul 2026. EA's 8-K of 30 Jul 2026 says all regulatory approvals were obtained but does not name CFIUS, so the CFIUS clearance stays press-reported. The deal closed at the end of trading on 4 Aug 2026 (9fin, Startup Fortune, AP).
+- F, Qatar: the emergency waiver and $4.01B Patriot sale were announced on 1-2 May 2026 (Al Jazeera, Reuters via Profit).
+
+**Grading and wording.** Every pair is graded `inferred`, and we found no causal wording in the findings, the relationship labels or this report. For the Nvidia and Binance pairs, which had been graded only on their dates, the text now says explicitly that the link is inferred.
+
+**Timeline fixes (`data/timeline.json` and the table below):**
+- Witkoff $100M (2025-05): the row named an 'Apollo-run trust (partly Qatar-owned)' as the lender. Per the NYT correction recorded in C53 and C73, the lender was Apollo itself. Corrected.
+- Justin Sun (2024-11): the row carried the full $75M, but only $30M was bought in Nov 2024. That $30M is a separate 2024-11-25 row, and the $45M top-up is dated 2025-01-20. The amount is blanked to avoid double counting. The underlying C06/C43 edge still dates the $75M to 2024-11.
+- Bondi's Apr 2, 2025 TMTG share sale and Gruenbaum's reported Thrive SPV investment were classified as official acts. Both are personal transactions, so they are now classified as money, with a note.
+- Duplicates merged: the Milton pardon (27 and 28 Mar 2025) is now one row on 28 Mar, noting that Milton announced it on 27 Mar. The CZ pardon (four rows) is now one row on 23 Oct, noting the 22 Oct signing.
+- The five 'committed (WaPo leak)' ballroom rows are dated 2026-10-15. That is the date the leak was published, not the date of the gift, and the titles now say so. The Nvidia row duplicated the 2025-10 Nvidia row and was removed.
+- Result: 272 events (108 money, 164 official).
+- Rows checked with no change needed: the six pairs above, plus Bondi's appointment (Feb 2025), the jet memo (May 2025), Patel's Doha agreements (Dec 2025), Blanche's 16 Sep 2026 refusal (C76), Quintenz's withdrawal (30 Sep 2025), Ripple's dropped appeal (7 Aug 2025), the Sun stay (26 Feb 2025), the Gemini CFTC motion (27 May 2026) and the Winklevoss gifts (19 Jun 2026).
+
+**Audit sources:**
+- Implicator.ai, Microsoft gets a rare U.S. export license for UAE AI chips, 2025-11. https://www.implicator.ai/microsoft-gets-a-rare-u-s-export-license-for-uae-ai-chips/
+- Semafor, Microsoft says UAE AI chip approval 'first step' for Emirati access, 2025-11-10. https://www.semafor.com/article/11/10/2025/microsofts-uae-ai-chip-approval-a-first-step-for-emirati-access-executive
+- The Aviationist, JPO and Lockheed Martin finalize F-35 contract for Lots 18 and 19, 2025-09-30. https://theaviationist.com/2025/09/30/f-35-contract-lots-18-and-19/
+- Shephard Media, Lockheed Martin secures $12.5 billion Lot 18-19 F-35 production contract, 2025-09-30. https://www.shephardmedia.com/news/air-warfare/lockheed-martin-secures-125-billion-lot-18-19-f-35-production-contract/
+- TechRepublic, GSA, Google launch Gemini AI program for US government, 2025-08-22. https://www.techrepublic.com/article/news-google-gemini-for-government/
+- NPR, YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension, 2025-09-29. https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement
+- Geo News, Global lenders secure $3.5bn debt package for Reko Diq, 2025-12. https://www.geo.tv/latest/636072-global-lenders-secure-35bn-debt-package-for-reko-diq
+- ProPakistani, Pakistan signs agreement to explore stablecoin USD1 for cross-border payments, 2026-01-14. https://propakistani.pk/2026/01/14/pakistan-signs-agreement-to-explore-stablecoin-usd1-for-cross-border-payments/
+- 9fin, Electronic Arts merger sets 4 August close, 2026-07. https://9fin.com/insights/electronic-arts-merger-sets-4-august-close
+- Startup Fortune, The EU cleared the Saudi-Kushner buyout of Electronic Arts and now only Washington stands in the way, 2026-07-23. https://startupfortune.com/the-eu-cleared-the-saudi-kushner-buyout-of-electronic-arts-and-now-only-washington-stands-in-the-way/
+- Al Jazeera, US approves $8.6bn in arms sales to Middle East allies, 2026-05-03. https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies
+- Reuters via Profit (Pakistan Today), US bypasses congressional review for military sales of $8.6 billion to Middle East allies, 2026-05-02. https://profit.pakistantoday.com.pk/2026/05/02/us-bypasses-congressional-review-for-military-sales-of-8-6-billion-to-middle-east-allies
+
+## Master timeline (272 events; also in `data/timeline.json`)
 
 | Date | Kind | Event | Parties | Amount (USD) | Claims | Grade |
 |---|---|---|---|---|---|---|
@@ -139,7 +177,7 @@ Other dates in the timeline come from the cited claim files (column "Claims"). W
 | 2024-07 | money | Yorkville Advisors equity-line buyer, placement agent, ETF adviser Trump Media & Technology Group | yorkville-advisors, trump-media-technology-group |  | C78 | documented |
 | 2024-10 | money | Trevor Milton donated (with wife) to Trump-aligned committees Donald Trump | trevor-milton, donald-trump | 1,800,000 | C36, C49 | documented |
 | 2024-10 | official | U.S. Securities and Exchange Commission sued as unregistered dealer Cumberland DRW | sec, cumberland-drw |  | C19 | documented |
-| 2024-11 | money | Justin Sun bought $75M of WLFI tokens from World Liberty Financial | justin-sun, world-liberty-financial | 75,000,000 | C06, C43 | documented |
+| 2024-11 | money | Justin Sun bought WLFI tokens from World Liberty Financial: $30M in Nov 2024 (see 2024-11-25), topped up by $45M on 2025-01-20 to $75M total; amount left blank here to avoid double counting | justin-sun, world-liberty-financial |  | C06, C43 | documented |
 | 2024-11 | official | US Department of Defense Air Force SBIR award (~$1.8M), start 2024-11-07 Boardwalk Robotics | pentagon, boardwalk-robotics | 1,800,000 | C28 | documented |
 | 2024-11 | official | Donald Trump nominated as Commerce Secretary Howard Lutnick | donald-trump, howard-lutnick |  | C35 | documented |
 | 2024-11-25 | money | Justin Sun bought $30M of WLFI token | justin-sun, wlfi-token, world-liberty-financial | 30,000,000 | C04, C05 | documented |
@@ -194,7 +232,7 @@ Other dates in the timeline come from the cited claim files (column "Claims"). W
 | 2025-03 | official | Donald Trump pardoned Devon Archer | donald-trump, devon-archer |  | C49 | documented |
 | 2025-03 | official | U.S. Securities and Exchange Commission dismissed case Kraken (Payward) | sec, kraken |  | C67 | documented |
 | 2025-03 | official | Donald Trump appointed Stephen Feinberg | donald-trump, steve-feinberg |  | C74 | documented |
-| 2025-03 | official | Josh Gruenbaum reportedly invested $100,001-$250,000 in Databricks-linked Thrive SPV (single-source, WSJ) Thrive Capital | josh-gruenbaum, thrive-capital |  | C81 | single-source |
+| 2025-03 | money | Josh Gruenbaum reportedly invested $100,001-$250,000 in Databricks-linked Thrive SPV (single-source, WSJ) Thrive Capital (a personal investment by an official, not an official act) | josh-gruenbaum, thrive-capital |  | C81 | single-source |
 | 2025-03-03 | official | U.S. Securities and Exchange Commission closed investigation Yuga Labs | sec, yuga-labs |  | C43 | documented |
 | 2025-03-06 | official | Donald Trump signed EO 14233 establishing Strategic Bitcoin Reserve | donald-trump, strategic-bitcoin-reserve, white-house |  | C19 | documented |
 | 2025-03-24 | money | Crypto.com ETF partnership for Truth.Fi (non-binding, then binding 2025-04-22) Trump Media & Technology Group | crypto-com, trump-media-technology-group, truth-social-etfs |  | C22, C67 | documented |
@@ -210,22 +248,21 @@ Other dates in the timeline come from the cited claim files (column "Claims"). W
 | 2025-03-27 | official | Donald Trump pardoned Samuel Reed | donald-trump, samuel-reed |  | C36 | documented |
 | 2025-03-27 | official | Donald Trump pardoned Gregory Dwyer | donald-trump, gregory-dwyer |  | C36 | documented |
 | 2025-03-27 | official | Donald Trump pardoned operator HDR Global Trading BitMEX (HDR Global Trading) | donald-trump, bitmex |  | C36 | documented |
-| 2025-03-27 | official | Donald Trump pardoned Trevor Milton | donald-trump, trevor-milton |  | C61 | documented |
-| 2025-03-28 | official | Donald Trump pardoned Trevor Milton | donald-trump, trevor-milton |  | C36, C49, C64, C65 | documented |
+| 2025-03-28 | official | Donald Trump pardoned Trevor Milton (Milton announced it 27 Mar; White House confirmed 28 Mar 2025) | donald-trump, trevor-milton |  | C36, C49, C61, C64, C65 | documented |
 | 2025-03-28 | official | Donald Trump commuted sentence (voiding ~$36M restitution, ~$60M forfeiture) Carlos Watson | donald-trump, carlos-watson | 96,000,000 | C49 | documented |
 | 2025-04 | money | Freight Technologies (Fr8Tech) $20M TRUMP treasury plan $TRUMP (Official Trump) | freight-technologies, trump-coin | 20,000,000 | C67 | documented |
 | 2025-04 | official | US Department of Defense awarded $45M to Cerebras Systems | pentagon, cerebras | 45,000,000 | C51 | documented |
 | 2025-04 | official | Donald Trump appointed senior adviser for Africa/Arab affairs Massad Boulos | donald-trump, massad-boulos |  | C66 | documented |
 | 2025-04 | official | ICE ImmigrationOS contract Palantir Technologies (PLTR) | ice, palantir | 30,000,000 | C68 | documented |
 | 2025-04 | official | Donald Trump signed April 2025 offshore critical minerals executive order | donald-trump, seabed-mining-eo |  | C77 | documented |
-| 2025-04-02 | official | Pam Bondi sold >$1M of shares on Apr 2, 2025 Trump Media & Technology Group | pam-bondi, trump-media-technology-group | 1,000,000 | C65 | documented |
+| 2025-04-02 | money | Pam Bondi (then AG) sold $1M-$5M of Trump Media & Technology Group shares on Apr 2, 2025 (a personal transaction by an official, not an official act) | pam-bondi, trump-media-technology-group | 1,000,000 | C65 | documented |
 | 2025-04-04 | official | US Department of Defense awarded 7 NSSL missions (~$2.3B) Blue Origin | pentagon, blue-origin | 2,300,000,000 | C44 | documented |
 | 2025-04-16 | money | DWF Labs bought $25M WLFI token | dwf-labs, usd1, wlfi-token, world-liberty-financial | 25,000,000 | C62, C67, C71 | documented |
 | 2025-04-23 | official | Donald Trump pardoned Paul Walczak | donald-trump, paul-walczak |  | C36, C49 | documented |
 | 2025-04-30 | money | Qatari Diar Simaisma golf/villa partner Trump Organization | qatari-diar, trump-organization |  | C67 | documented |
 | 2025-05 | money | DRW Investments bought ~4M shares (~$100M) in bitcoin-treasury raise Trump Media & Technology Group | drw-investments, trump-media-technology-group | 100,000,000 | C19, C62, C67 | documented |
 | 2025-05 | money | Jane Street bought ~$375M in bitcoin-treasury raise Trump Media & Technology Group | jane-street, trump-media-technology-group | 375,000,000 | C19 | documented |
-| 2025-05 | money | Apollo Global Management Apollo-run trust (partly Qatar-owned) provided $100M Witkoff Group | apollo-global-management, witkoff-group | 100,000,000 | C53, C73 | documented |
+| 2025-05 | money | Apollo Global Management lent $100M (golf-resort refinancing) to the Witkoff Group; per the NYT correction the lender was Apollo itself, not its Qatar-part-owned trust | apollo-global-management, witkoff-group | 100,000,000 | C53, C73 | documented |
 | 2025-05 | money | Cantor Fitzgerald financial adviser on bitcoin-treasury raise Trump Media & Technology Group | cantor-fitzgerald, trump-media-technology-group |  | C62 | documented |
 | 2025-05 | money | Yorkville Advisors co-lead placement agent (Yorkville Securities) Trump Media & Technology Group | yorkville-advisors, trump-media-technology-group |  | C62 | documented |
 | 2025-05 | money | Clear Street co-lead placement agent on bitcoin raise Trump Media & Technology Group | clear-street, trump-media-technology-group |  | C62 | documented |
@@ -296,7 +333,6 @@ Other dates in the timeline come from the cited claim files (column "Claims"). W
 | 2025-10 | money | Trust for the National Mall receives and administers donations for White House ballroom | trust-for-the-national-mall, white-house-ballroom |  | C33 | documented |
 | 2025-10 | money | Crypto.com gave $20M (two $10M gifts via Foris DAX) in filing period MAGA Inc. | crypto-com, maga-inc | 20,000,000 | C43 | documented |
 | 2025-10 | money | Nvidia commits $25M to the White House ballroom, anonymously (dated Oct 2025 per WaPo spreadsheet) | nvidia, white-house-ballroom | 25,000,000 | C68, C69 | single-source |
-| 2025-10 | official | Donald Trump pardoned Changpeng Zhao (CZ) | donald-trump, changpeng-zhao |  | C10, C49 | documented |
 | 2025-10 | official | Donald Trump nominated as CFTC Chair Mike Selig | donald-trump, mike-selig |  | C22, C54 | documented |
 | 2025-10 | official | U.S. Department of Energy ~5% equity stake in loan restructuring Lithium Americas | us-department-of-energy, lithium-americas |  | C60 | documented |
 | 2025-10 | official | US International Development Finance Corporation invested in Orion Critical Mineral Consortium | us-dfc, orion-cmc | 600,000,000 | C75 | documented |
@@ -306,10 +342,8 @@ Other dates in the timeline come from the cited claim files (column "Claims"). W
 | 2025-10-15 | money | East Room dinner for ballroom donors; White House names ~37 donors on 2025-10-23 (incl. Amazon, Apple, Google, Meta, Microsoft, Lockheed Martin, Palantir, Coinbase, Ripple, Tether America, Winklevoss twins); amounts later leaked (Lockheed, Microsoft, Palantir $10M each; Meta, Amazon $5M each) | white-house-ballroom, microsoft, lockheed-martin, amazon, alphabet, meta, palantir, coinbase, ripple, tether |  | C33, C68, C69 | documented |
 | 2025-10-15 | official | US Army ordered 3,500 drone motors (value undisclosed) from Unusual Machines | us-army, unusual-machines |  | C32 | documented |
 | 2025-10-20 | official | Internal Revenue Service granted tax exemption in 10 days during shutdown Trump Presidential Library Foundation | irs, trump-presidential-library-foundation |  | C48 | documented |
-| 2025-10-22 | official | Donald Trump pardoned Changpeng Zhao (CZ) | donald-trump, changpeng-zhao |  | C09 | documented |
-| 2025-10-22 | official | Donald Trump signed Pardon of Changpeng Zhao | donald-trump, cz-pardon |  | C09 | documented |
 | 2025-10-23 | money | Meteora airdropped about $4.2M of MET to TRUMP-team wallets $TRUMP (Official Trump) | meteora, trump-coin | 4,200,000 | C40 | documented |
-| 2025-10-23 | official | Donald Trump pardoned Changpeng Zhao (CZ) | changpeng-zhao, donald-trump, white-house |  | C36, C67, C70 | documented |
+| 2025-10-23 | official | Donald Trump pardoned Changpeng Zhao (CZ) (signed 22 Oct, announced by the White House 23 Oct 2025) | changpeng-zhao, donald-trump, white-house, cz-pardon |  | C09, C10, C36, C49, C67, C70 | documented |
 | 2025-10-28 | money | Crypto.com prediction-market partner Truth Predict | crypto-com, truth-predict |  | C67 | documented |
 | 2025-11 | official | US Department of Commerce licensed ~35,000 Nvidia chips to G42 | g42, us-commerce-department, white-house |  | C08, C34, C67 | documented |
 | 2025-11 | official | Office of Strategic Capital $620M loan to Vulcan Elements | office-of-strategic-capital, vulcan-elements | 620,000,000 | C51 | documented |
@@ -397,11 +431,10 @@ Other dates in the timeline come from the cited claim files (column "Claims"). W
 | 2026-10 | money | Susquehanna International Group reportedly subscribes to Truth API | susquehanna-international-group, trump-media-technology-group, truth-api | 100,000 | C41 | single-source |
 | 2026-10 | money | Jump Trading reportedly subscribes to Truth API | jump-trading, trump-media-technology-group, truth-api |  | C41, C62 | single-source |
 | 2026-10 | official | US Air Force placed $82M order with Powerus Corp. | us-air-force, powerus | 82,000,000 | C51 | documented |
-| 2026-10-15 | money | Meta Platforms committed (WaPo leak) White House ballroom | meta, white-house-ballroom | 5,000,000 | C68 | single-source |
-| 2026-10-15 | money | Amazon committed (WaPo leak) White House ballroom | amazon, white-house-ballroom | 5,000,000 | C68 | single-source |
-| 2026-10-15 | money | Nvidia committed, anonymously (WaPo leak) White House ballroom | nvidia, white-house-ballroom | 25,000,000 | C68 | single-source |
-| 2026-10-15 | money | Palantir Technologies (PLTR) committed (WaPo leak) White House ballroom | palantir, white-house-ballroom | 10,000,000 | C68 | single-source |
-| 2026-10-15 | money | Microsoft committed (WaPo leak) White House ballroom | microsoft, white-house-ballroom | 10,000,000 | C68 | single-source |
+| 2026-10-15 | money | Meta Platforms committed to the White House ballroom; amount disclosed in the WaPo leak of 2026-10-15 (this is the disclosure date: the gift date is not public, and the donor was named on the 2025-10-23 list) | meta, white-house-ballroom | 5,000,000 | C68 | single-source |
+| 2026-10-15 | money | Amazon committed to the White House ballroom; amount disclosed in the WaPo leak of 2026-10-15 (this is the disclosure date: the gift date is not public, and the donor was named on the 2025-10-23 list) | amazon, white-house-ballroom | 5,000,000 | C68 | single-source |
+| 2026-10-15 | money | Palantir Technologies (PLTR) committed to the White House ballroom; amount disclosed in the WaPo leak of 2026-10-15 (this is the disclosure date: the gift date is not public, and the donor was named on the 2025-10-23 list) | palantir, white-house-ballroom | 10,000,000 | C68 | single-source |
+| 2026-10-15 | money | Microsoft committed to the White House ballroom; amount disclosed in the WaPo leak of 2026-10-15 (this is the disclosure date: the gift date is not public, and the donor was named on the 2025-10-23 list) | microsoft, white-house-ballroom | 10,000,000 | C68 | single-source |
 | 2026-10-28 | money | Jump Trading subscriber (Reuters, anonymous sources) Truth API | jump-trading, truth-api |  | C67 | single-source |
 | 2026-11 | official | Office of Strategic Capital conditional loan up to $450M to Neros Technologies | office-of-strategic-capital, neros | 450,000,000 | C51 | documented |
 | 2026-11-02 | official | Office of Strategic Capital conditional loan commitment up to $450M Neros Technologies | office-of-strategic-capital, neros | 450,000,000 | C74 | documented |
