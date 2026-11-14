@@ -1,892 +1,893 @@
 {
-  "id": "C52",
-  "title": "Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit",
-  "verdict": "mostly-accurate",
-  "confidence": "medium",
-  "summary": "The documented core holds up. Crypto.com (AP) and Gemini (an LDA record and Legis1) retained Jeff Miller's Miller Strategies. Kraken and Blockchain.com hired Ballard Partners in Dec 2024 for a combined $60K (Reuters). Binance hired Trump-adjacent lobbyists, already established in C36. The Winklevoss twins gave about $10.0M in BTC to MAGA Inc. on June 19, 2026, 23 days after the CFTC joined Gemini's motion to vacate; the judge denied that motion on Oct 15, 2026. SEC Enforcement Director Margaret Ryan resigned on Mar 16, 2026, and Sen. Blumenthal's Mar 30 letter asked whether crypto cases, notably Justin Sun's, were involved. Fairshake had about $193M in January 2026 and spent roughly $150-170M in the midterms. Still unverified: most per-client lobbying fees, any causal link between lobbying or gifts and regulatory outcomes, and the reason for Ryan's exit, which rests on anonymous Reuters sources.",
-  "sub_claims": [
-    {
-      "statement": "Crypto.com hired Trump-connected Miller Strategies (Jeff Miller).",
-      "verdict": "confirmed",
-      "finding": "Established in C43. AP (Dec 2025) reports that Crypto.com ramped up payments to Jeff Miller from late 2024; per the disclosures he lobbied the White House and the SEC. Miller is a GOP fundraiser and was finance chair of Trump's inaugural festivities. Crypto.com says Miller had no involvement in the SEC probe, which closed with no action on 2025-03-27. A per-client fee total was not found.",
-      "sources": [
-        "https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest"
-      ]
-    },
-    {
-      "statement": "Gemini hired Miller Strategies.",
-      "verdict": "mostly-accurate",
-      "finding": "Legis1 reports that Gemini Space Station Inc., a first-time lobbying client, retained Miller Strategies for 'issues around cryptocurrency regulation'. The listed lobbyists are Jeffrey Miller and Jessica Anne Mandel, who previously lobbied for Crypto.com. A Senate LDA client record (client 69134) shows the client as 'Baughman Kroup Bosse PLLC on behalf of Gemini Space Station, Inc.' with Miller Strategies as registrant. The registration date and fees could not be retrieved because lda.senate.gov and legis1.com were blocked here. Separately, Jeff Miller is reported as a member of the Winklevoss-funded Digital Freedom Fund PAC. No source ties Miller's work to the CFTC reversal. Audit note: a fresh search again surfaced only Legis1 and the LDA client record. A direct LDA API fetch was blocked by the proxy, so the registration date and fees are still unretrieved.",
-      "sources": [
-        "https://legis1.com/news/crypto-regulation-lobbying-gemini",
-        "https://lda.senate.gov/api/v1/clients/69134/?format=api"
-      ]
-    },
-    {
-      "statement": "Kraken and Blockchain.com hired Trump-tied Ballard Partners.",
-      "verdict": "confirmed",
-      "finding": "Reuters (Jan 24, 2025): Payward (Kraken) and Blockchain (US) Inc. hired Ballard in Dec 2024, together paying $60,000 for crypto-policy lobbying in the last weeks of 2024. Blockchain.com had not used a DC lobbying firm in six years. Ballard signed 40 new clients after the election. Its founder, Brian Ballard, is a longtime Trump fundraiser, and two former Ballard partners, Susie Wiles and Pam Bondi, joined the administration. Kraken said it works 'with a number of lobbying firms in our key markets.' Legis1 puts Kraken's 2025 lobbying at about $2.3M across in-house staff and four firms including Ballard; a Ballard-specific 2025 fee was not found. Outcome: the SEC dismissed its Kraken suit with prejudice on Mar 27, 2025 (C23), with no documented link to the hire. No Blockchain.com regulatory outcome was identified.",
-      "sources": [
-        "https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html",
-        "https://www.streetinsider.com/Reuters/Kraken%2C+Blockchain.com+join+crowd+signing+with+Trump-tied+lobbyists/24245649.html"
-      ]
-    },
-    {
-      "statement": "Binance hired Trump-connected lobbyists.",
-      "verdict": "confirmed",
-      "finding": "Already established in C36 and not repeated in full. Per Politico-based reporting, Binance hired Ches McDowell (Checkmate Government Relations, a friend of Donald Trump Jr.) in Sept 2025 for 'executive relief', with about $450K billed, and retained Teresa Goody Guillén (about $290K) from about Feb 2025. The CZ pardon followed in Oct 2025. McDowell says Trump Jr. did not help.",
-      "sources": [
-        "https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington"
-      ]
-    },
-    {
-      "statement": "The lobbying fees and outcomes are documented.",
-      "verdict": "partly-accurate",
-      "finding": "Fees are documented only in part: Ballard's $60K (Kraken plus Blockchain.com, Dec 2024) and Binance's roughly $450K and $290K. Crypto.com's and Gemini's payments to Miller Strategies were not found. For scale, Miller Strategies reported about $12.9M firm-wide in Q2 2025 (NOTUS), and Ballard led K Street with about $88M in 2025. On outcomes, the SEC dropped Kraken, closed Crypto.com and dismissed Binance (C23/C22), and CZ was pardoned (C36). No record shows that a lobbying contact produced any of these outcomes.",
-      "sources": [
-        "https://www.notus.org/money/lobbying-disclosure-second-quarter",
-        "https://news.bloomberglaw.com/business-and-practice/trump-aligned-ballard-takes-over-as-revenue-leader-on-k-street"
-      ]
-    },
-    {
-      "statement": "The Winklevoss twins gave $10M+ in bitcoin to MAGA Inc. shortly after the CFTC joined Gemini's bid to vacate its judgment.",
-      "verdict": "mostly-accurate",
-      "finding": "On May 27-28, 2026, the CFTC under Chair Mike Selig and Gemini jointly moved in SDNY (1:22-cv-04563-AKH) to vacate the Jan 2025 $5M consent order. The CFTC said the complaint 'should not have been filed' and that the twins were 'politically targeted'. On June 19, 2026 each twin gave 79.35 BTC (more than $5M each, about $10.02M in total) to MAGA Inc., which liquidated them. That was 23 days after the joint motion. The total is 'about $10M' rather than clearly 'more than $10M', and some outlets double-counted the liquidation entries. Judge Alvin Hellerstein denied the motion on Oct 15, 2026; the $5M penalty (already paid, no refund sought) and the injunction stand. Warren called the motion a sign of a 'CFTC beholden to political pressures', and ex-chair Tim Massad called it 'extraordinarily unusual'. Texts released by Brian Quintenz show Tyler Winklevoss raising the litigation during Quintenz's nomination. No document links the gift to the CFTC decision. Audit note: FEC-based reporting gives Cameron's gift as $5,006,604 and Tyler's as $5,011,860. Hellerstein's 15 Oct 2026 order runs eight pages. It held that facts which already existed when the consent order was entered are not a post-judgment change under Rule 60(b), and it left the injunction and no-denial clause in place. Some outlets report the twins' 2026-cycle giving to MAGA Inc. at about $26M (about $13M each). That figure is press-reported and was not verified against FEC data here.",
-      "sources": [
-        "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/",
-        "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal",
-        "https://www.theblock.co/post/402827/cftc-joins-relief-motion-gemini",
-        "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
-        "https://news.bloomberglaw.com/crypto/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
-        "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
-        "https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
-        "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/"
-      ]
-    },
-    {
-      "statement": "The SEC enforcement director resigned suddenly in March 2026.",
-      "verdict": "confirmed",
-      "finding": "Margaret 'Meg' Ryan, a former senior judge on the U.S. Court of Appeals for the Armed Forces, was named director on Aug 21, 2025 and started on Sept 2, 2025. She resigned on Mar 16, 2026, after just over six months. Neither the SEC announcement nor her letter gave a reason. Sam Waldon became acting director again. The SEC later named David Woodcock (Gibson Dunn, former head of the SEC's Fort Worth office) director, effective May 4, 2026. About 11 days before she left, the SEC settled its Justin Sun case: Rainberry paid $10M and the claims against Sun were dismissed.",
-      "sources": [
-        "https://www.planadviser.com/margaret-ryan-to-join-sec-as-director-of-enforcement-division/",
-        "https://old.investmentexecutive.com/news/secs-new-enforcement-chief-resigns/",
-        "https://www.thinkadvisor.com/2026/03/30/senator-seeks-answers-on-sec-enforcement-heads-sudden-resignation/"
-      ]
-    },
-    {
-      "statement": "Ryan left over clashes about crypto or Trump-linked cases.",
-      "verdict": "unverified",
-      "finding": "Reuters, citing anonymous sources, reported that Ryan clashed with Chair Paul Atkins and other Republican appointees because she wanted tougher action in some fraud cases, including matters tied to Justin Sun and Elon Musk. An SEC enforcement official told Reuters that shifting crypto guidance and pending legislation complicated the Sun case. The SEC says it decides enforcement 'based on facts, the law, and policy — not politics' and credited Ryan with a 'critical course correction'. Ryan has not publicly stated a reason. Audit note: secondary coverage of the Reuters piece adds that Ryan's signature did not appear on the Sun settlement filings, though one Reuters-cited account understood she supported the settlement. The SEC and Musk told the court on 17 Mar 2026 that they were in settlement talks. Publicly, Atkins praised Ryan as having 'served with honor and distinction'. The reason for her exit stays unverified.",
-      "sources": [
-        "https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report",
-        "https://ground.news/article/secs-ex-enforcement-chief-clashed-with-bosses-before-leaving-reuters-sources-say",
-        "https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report",
-        "https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711"
-      ]
-    },
-    {
-      "statement": "Sen. Blumenthal opened an inquiry into whether crypto cases were involved.",
-      "verdict": "confirmed",
-      "finding": "On Mar 30, 2026, Blumenthal, Ranking Member of the Permanent Subcommittee on Investigations, wrote to Atkins. He cited reports that leadership blocked Enforcement from pursuing parties close to Trump and the possibility of 'preferential treatment for financial partners of President Trump'. He asked for records on crypto settlements since Jan 20, 2025, including those involving companies tied to Justin Sun and Changpeng Zhao, a list of cases where the director's recommendations were overruled, and records by Apr 13. Warren wrote separately the same day and again on Apr 15, with an Apr 28 deadline. The SEC declined to comment. Binance says it has not discussed matters with Atkins. No SEC reply was found.",
-      "sources": [
-        "https://www.hsgac.senate.gov/wp-content/uploads/2026-03-30-Letter-from-Sen-Blumenthal-to-Chairman-Atkins-1.pdf",
-        "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sec-chairman-over-preferential-treatment-of-trump-crypto-backers",
-        "https://decrypt.co/362821/senator-questions-sec-treatment-trump-linked-crypto",
-        "https://www.banking.senate.gov/download/20260415-letter-to-sec-on-enforcement&download=1"
-      ]
-    },
-    {
-      "statement": "The crypto super PAC Fairshake's spending.",
-      "verdict": "mostly-accurate",
-      "finding": "Fairshake and its affiliates (Defend American Jobs, Protect Progress) reported about $193M cash on hand in Jan 2026, including $25M from Coinbase in 2025 plus money from Ripple and a16z. Spending reached about $150.8M through Oct 20, 2026 (Bitcoin Magazine), and Fortune (Nov 4, 2026) puts crypto PAC midterm spending at more than $170M. Results were mixed. Fairshake's GOP primary winners (Barry Moore, Andy Barr and others) were all Trump-endorsed, and its ads touted Trump's endorsement rather than crypto. It spent about $10M against Juliana Stratton, who won her Illinois Senate seat anyway. Fairshake is formally bipartisan, and no direct Fairshake-to-Trump money was found. Final post-election totals are unverified pending FEC filings.",
-      "sources": [
-        "https://www.theblock.co/news/regulation/2026-01-28-crypto-pac-fairshake-amasses-war-chest-ahead-november-midterms-387514",
-        "https://www.axios.com/2026/01/30/crypto-coinbase-fairshake-pac",
-        "https://decrypt.co/368555/crypto-backing-trump-pump-fairshake-pac-claims-primary-victories",
-        "https://fortune.com/2026/11/04/crypto-pacs-170-million-midterms-came-up-dry/"
-      ]
-    },
-    {
-      "statement": "Lobbying, gifts and regulatory outcomes are linked (implied quid pro quo).",
-      "verdict": "unverified",
-      "finding": "Timing and access are documented, but no record shows any lobbying contact or donation was exchanged for a regulatory outcome. The Gemini vacatur failed in court despite the CFTC's support, and the SEC denies any political influence.",
-      "sources": []
-    }
-  ],
-  "corrections": [
-    "The brief says the Winklevoss gift was '$10M+'. FEC data show 2 x 79.35 BTC on June 19, 2026, more than $5M each and about $10.02M in total. Some reports double-count the liquidation entries.",
-    "The CFTC joined Gemini's motion on May 27-28, 2026; the gift came 23 days later. The motion was denied by Judge Hellerstein on Oct 15, 2026 (one outlet's Feb 2026 date is wrong).",
-    "Ryan's resignation letter and the SEC's announcement gave no reason. The 'clash over crypto/Trump cases' account rests on anonymous Reuters sources.",
-    "Fairshake is formally bipartisan and did not give money to Trump. Its connection to Trump is that it backed Trump-endorsed Republicans."
-  ],
-  "denials_and_context": [
-    "Crypto.com says Jeff Miller had no involvement in the SEC investigation, and Miller did not comment (AP).",
-    "Kraken says it works with a number of lobbying firms in its key markets.",
-    "CFTC Chair Selig says the Biden-era CFTC 'politically targeted' the Winklevoss twins and that the complaint should not have been filed. No refund of the $5M was sought.",
-    "The SEC says enforcement decisions are 'based on facts, the law, and policy — not politics', and it declined to comment on the Blumenthal and Warren letters.",
-    "Binance says it has not discussed matters with Atkins beyond general policy talks over a year earlier. McDowell says Trump Jr. did not help (C36).",
-    "Kraken, Crypto.com and Binance were among firms whose cases were eased under a sector-wide SEC policy shift that also covered firms with no Trump ties (C43)."
-  ],
-  "sources": [
-    {
-      "title": "Kraken, Blockchain.com join crowd signing with Trump-tied lobbyists",
-      "publisher": "Reuters (via Yahoo Finance)",
-      "url": "https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html",
-      "date": "2025-01-24"
-    },
-    {
-      "title": "How a Trump business deal with a crypto firm exposes potential conflicts of interest",
-      "publisher": "AP (via PBS NewsHour)",
-      "url": "https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest",
-      "date": "2025-12-16"
-    },
-    {
-      "title": "Gemini hires Miller Strategies on crypto regulation",
-      "publisher": "Legis1",
-      "url": "https://legis1.com/news/crypto-regulation-lobbying-gemini",
-      "date": ""
-    },
-    {
-      "title": "LDA client record 69134 (Baughman Kroup Bosse PLLC on behalf of Gemini Space Station)",
-      "publisher": "U.S. Senate LDA",
-      "url": "https://lda.senate.gov/api/v1/clients/69134/?format=api",
-      "date": ""
-    },
-    {
-      "title": "Lobbying disclosure, second quarter",
-      "publisher": "NOTUS",
-      "url": "https://www.notus.org/money/lobbying-disclosure-second-quarter",
-      "date": "2025-07"
-    },
-    {
-      "title": "Trump-Aligned Ballard Takes Over as Revenue Leader on K Street",
-      "publisher": "Bloomberg Law",
-      "url": "https://news.bloomberglaw.com/business-and-practice/trump-aligned-ballard-takes-over-as-revenue-leader-on-k-street",
-      "date": ""
-    },
-    {
-      "title": "CZ pardon followed Binance lobbying in Trump's Washington",
-      "publisher": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington",
-      "date": "2025-10"
-    },
-    {
-      "title": "CFTC says it shouldn't have sued Gemini, joins motion to vacate prior judgment",
-      "publisher": "The Block",
-      "url": "https://www.theblock.co/post/402827/cftc-joins-relief-motion-gemini",
-      "date": "2026-05-28"
-    },
-    {
-      "title": "Winklevoss twins gave Trump's super PAC $10 million 23 days after CFTC joined Gemini relief bid",
-      "publisher": "CryptoSlate",
-      "url": "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/",
-      "date": "2026-07"
-    },
-    {
-      "title": "Gemini Winklevoss bitcoin to Trump PAC after CFTC deal",
-      "publisher": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal",
-      "date": "2026-07"
-    },
-    {
-      "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
-      "publisher": "The Block",
-      "url": "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
-      "date": "2026-10-16"
-    },
-    {
-      "title": "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement",
-      "publisher": "Bloomberg Law",
-      "url": "https://news.bloomberglaw.com/crypto/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "Margaret Ryan to Join SEC as Director of Enforcement Division",
-      "publisher": "PlanAdviser",
-      "url": "https://www.planadviser.com/margaret-ryan-to-join-sec-as-director-of-enforcement-division/",
-      "date": "2025-08-21"
-    },
-    {
-      "title": "SEC's new enforcement chief resigns",
-      "publisher": "Investment Executive",
-      "url": "https://old.investmentexecutive.com/news/secs-new-enforcement-chief-resigns/",
-      "date": "2026-03-16"
-    },
-    {
-      "title": "SEC top enforcer clashed over Trump cases before quitting: report",
-      "publisher": "Cointelegraph (citing Reuters)",
-      "url": "https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report",
-      "date": "2026-03"
-    },
-    {
-      "title": "Senator Seeks Answers on SEC Enforcement Head's Sudden Resignation",
-      "publisher": "ThinkAdvisor",
-      "url": "https://www.thinkadvisor.com/2026/03/30/senator-seeks-answers-on-sec-enforcement-heads-sudden-resignation/",
-      "date": "2026-03-30"
-    },
-    {
-      "title": "Letter from Sen. Blumenthal to Chairman Atkins",
-      "publisher": "Senate HSGAC / PSI minority",
-      "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-03-30-Letter-from-Sen-Blumenthal-to-Chairman-Atkins-1.pdf",
-      "date": "2026-03-30"
-    },
-    {
-      "title": "Blumenthal demands answers from SEC Chairman over preferential treatment of Trump crypto backers",
-      "publisher": "Office of Sen. Blumenthal",
-      "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sec-chairman-over-preferential-treatment-of-trump-crypto-backers",
-      "date": "2026-03-30"
-    },
-    {
-      "title": "Senator Questions SEC Over Treatment of Trump-Linked Crypto Businesses",
-      "publisher": "Decrypt",
-      "url": "https://decrypt.co/362821/senator-questions-sec-treatment-trump-linked-crypto",
-      "date": "2026-03-30"
-    },
-    {
-      "title": "Warren letter to SEC on enforcement",
-      "publisher": "Senate Banking Committee minority",
-      "url": "https://www.banking.senate.gov/download/20260415-letter-to-sec-on-enforcement&download=1",
-      "date": "2026-04-15"
-    },
-    {
-      "title": "Crypto PAC Fairshake amasses $193 million war chest ahead of November midterms",
-      "publisher": "The Block",
-      "url": "https://www.theblock.co/news/regulation/2026-01-28-crypto-pac-fairshake-amasses-war-chest-ahead-november-midterms-387514",
-      "date": "2026-01-28"
-    },
-    {
-      "title": "Leading crypto PAC has already raised $193M for 2026",
-      "publisher": "Axios",
-      "url": "https://www.axios.com/2026/01/30/crypto-coinbase-fairshake-pac",
-      "date": "2026-01-30"
-    },
-    {
-      "title": "Crypto Backing or Trump Pump? Fairshake PAC Claims Primary Victories",
-      "publisher": "Decrypt",
-      "url": "https://decrypt.co/368555/crypto-backing-trump-pump-fairshake-pac-claims-primary-victories",
-      "date": "2026-05"
-    },
-    {
-      "title": "Crypto PACs' $170 million midterms came up dry",
-      "publisher": "Fortune",
-      "url": "https://fortune.com/2026/11/04/crypto-pacs-170-million-midterms-came-up-dry/",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement",
-      "publisher": "Bloomberg Tax",
-      "url": "https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
-      "date": "2026-10"
-    },
-    {
-      "title": "Winklevoss twins put roughly $26 million behind pro-Trump super PAC this cycle",
-      "publisher": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/winklevoss-twins-26-million-maga-inc/",
-      "date": "2026"
-    },
-    {
-      "title": "SEC enforcement director resigns after just six months in the role",
-      "publisher": "InvestmentNews",
-      "url": "https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711",
-      "date": "2026-03-16"
-    }
-  ],
-  "entities": [
-    {
-      "id": "jeff-miller",
-      "name": "Jeff Miller",
-      "type": "person",
-      "description": "Miller Strategies founder; Trump inaugural finance chair; lobbies for Crypto.com and Gemini"
-    },
-    {
-      "id": "miller-strategies",
-      "name": "Miller Strategies",
-      "type": "company",
-      "description": "Trump-connected lobbying firm of Jeff Miller"
-    },
-    {
-      "id": "jessica-mandel",
-      "name": "Jessica Anne Mandel",
-      "type": "person",
-      "description": "Miller Strategies lobbyist on the Gemini and Crypto.com accounts"
-    },
-    {
-      "id": "ballard-partners",
-      "name": "Ballard Partners",
-      "type": "company",
-      "description": "Trump-tied lobbying firm; K Street revenue leader in 2025"
-    },
-    {
-      "id": "brian-ballard",
-      "name": "Brian Ballard",
-      "type": "person",
-      "description": "Founder of Ballard Partners; longtime Trump fundraiser"
-    },
-    {
-      "id": "susie-wiles",
-      "name": "Susie Wiles",
-      "type": "person",
-      "description": "White House chief of staff; former Ballard partner"
-    },
-    {
-      "id": "pam-bondi",
-      "name": "Pam Bondi",
-      "type": "person",
-      "description": "U.S. Attorney General; former Ballard lobbyist"
-    },
-    {
-      "id": "crypto-com",
-      "name": "Crypto.com",
-      "type": "company",
-      "description": "Exchange; Miller Strategies client; SEC probe closed Mar 2025"
-    },
-    {
-      "id": "gemini",
-      "name": "Gemini",
-      "type": "company",
-      "description": "Winklevoss exchange; first-time Miller Strategies client; CFTC vacatur bid denied"
-    },
-    {
-      "id": "kraken",
-      "name": "Kraken (Payward)",
-      "type": "company",
-      "description": "Exchange; hired Ballard Dec 2024; SEC suit dismissed Mar 2025"
-    },
-    {
-      "id": "blockchain-com",
-      "name": "Blockchain.com",
-      "type": "company",
-      "description": "Crypto firm; hired Ballard Dec 2024, its first DC firm in six years"
-    },
-    {
-      "id": "binance",
-      "name": "Binance",
-      "type": "company",
-      "description": "Exchange; hired Trump-adjacent lobbyists before the CZ pardon"
-    },
-    {
-      "id": "changpeng-zhao",
-      "name": "Changpeng Zhao",
-      "type": "person",
-      "description": "Binance founder; pardoned Oct 2025"
-    },
-    {
-      "id": "ches-mcdowell",
-      "name": "Ches McDowell",
-      "type": "person",
-      "description": "Checkmate Government Relations lobbyist; friend of Donald Trump Jr."
-    },
-    {
-      "id": "checkmate-government-relations",
-      "name": "Checkmate Government Relations",
-      "type": "company",
-      "description": "McDowell's lobbying firm; Binance client"
-    },
-    {
-      "id": "teresa-goody-guillen",
-      "name": "Teresa Goody Guillén",
-      "type": "person",
-      "description": "Lawyer-lobbyist for Binance and CZ"
-    },
-    {
-      "id": "donald-trump-jr",
-      "name": "Donald Trump Jr.",
-      "type": "person",
-      "description": "Friend of Ches McDowell"
-    },
-    {
-      "id": "cameron-winklevoss",
-      "name": "Cameron Winklevoss",
-      "type": "person",
-      "description": "Gemini co-founder; 79.35 BTC to MAGA Inc. on June 19, 2026"
-    },
-    {
-      "id": "tyler-winklevoss",
-      "name": "Tyler Winklevoss",
-      "type": "person",
-      "description": "Gemini co-founder; 79.35 BTC to MAGA Inc. on June 19, 2026"
-    },
-    {
-      "id": "maga-inc",
-      "name": "MAGA Inc.",
-      "type": "fund",
-      "description": "Pro-Trump super PAC"
-    },
-    {
-      "id": "digital-freedom-fund",
-      "name": "Digital Freedom Fund",
-      "type": "fund",
-      "description": "Winklevoss-funded pro-crypto PAC; Jeff Miller reported as a member"
-    },
-    {
-      "id": "cftc",
-      "name": "CFTC",
-      "type": "government",
-      "description": "Commodities regulator; joined Gemini's vacatur motion May 2026"
-    },
-    {
-      "id": "mike-selig",
-      "name": "Mike Selig",
-      "type": "person",
-      "description": "CFTC Chair; says the twins were 'politically targeted'"
-    },
-    {
-      "id": "brian-quintenz",
-      "name": "Brian Quintenz",
-      "type": "person",
-      "description": "Withdrawn CFTC nominee; released texts with Tyler Winklevoss"
-    },
-    {
-      "id": "alvin-hellerstein",
-      "name": "Alvin Hellerstein",
-      "type": "person",
-      "description": "SDNY judge; denied the Gemini-CFTC vacatur Oct 15, 2026"
-    },
-    {
-      "id": "sec",
-      "name": "SEC",
-      "type": "government",
-      "description": "Securities regulator"
-    },
-    {
-      "id": "paul-atkins",
-      "name": "Paul Atkins",
-      "type": "person",
-      "description": "SEC Chair; reportedly clashed with Ryan"
-    },
-    {
-      "id": "margaret-ryan",
-      "name": "Margaret 'Meg' Ryan",
-      "type": "person",
-      "description": "SEC Enforcement Director Sept 2, 2025 - Mar 16, 2026; ex-CAAF judge"
-    },
-    {
-      "id": "sam-waldon",
-      "name": "Sam Waldon",
-      "type": "person",
-      "description": "SEC acting enforcement director before and after Ryan"
-    },
-    {
-      "id": "david-woodcock",
-      "name": "David Woodcock",
-      "type": "person",
-      "description": "SEC Enforcement Director from May 4, 2026"
-    },
-    {
-      "id": "justin-sun",
-      "name": "Justin Sun",
-      "type": "person",
-      "description": "Tron founder; SEC claims dismissed Mar 2026 ($10M paid by Rainberry)"
-    },
-    {
-      "id": "rainberry",
-      "name": "Rainberry",
-      "type": "company",
-      "description": "Sun-linked BitTorrent developer; paid the $10M SEC settlement"
-    },
-    {
-      "id": "richard-blumenthal",
-      "name": "Richard Blumenthal",
-      "type": "person",
-      "description": "US Senator (D-CT); PSI Ranking Member; Mar 30, 2026 letter to Atkins"
-    },
-    {
-      "id": "elizabeth-warren",
-      "name": "Elizabeth Warren",
-      "type": "person",
-      "description": "US Senator (D-MA); letters on Ryan's exit and the Gemini vacatur"
-    },
-    {
-      "id": "fairshake",
-      "name": "Fairshake",
-      "type": "fund",
-      "description": "Crypto industry super PAC network (with Defend American Jobs, Protect Progress)"
-    },
-    {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "type": "company",
-      "description": "Fairshake's top donor ($25M in 2025)"
-    },
-    {
-      "id": "donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
-      "description": "President"
-    },
-    {
-      "id": "white-house",
-      "name": "White House",
-      "type": "government",
-      "description": "Lobbied by Miller for Crypto.com; by McDowell for Binance"
-    },
-    {
-      "id": "us-congress",
-      "name": "U.S. Congress",
-      "type": "government",
-      "description": "Senate letters and oversight"
-    },
-    {
-      "id": "tether",
-      "name": "Tether",
-      "type": "company",
-      "description": "Stablecoin issuer; in Blumenthal's PSI inquiry"
-    },
-    {
-      "id": "world-liberty-financial",
-      "name": "World Liberty Financial",
-      "type": "company",
-      "description": "Trump-family crypto venture; in Blumenthal's PSI inquiry"
-    }
-  ],
-  "relationships": [
-    {
-      "source": "jeff-miller",
-      "target": "miller-strategies",
-      "label": "founder of",
-      "type": "ownership"
-    },
-    {
-      "source": "jeff-miller",
-      "target": "donald-trump",
-      "label": "fundraiser; finance chair of 2025 inaugural festivities",
-      "type": "political"
-    },
-    {
-      "source": "crypto-com",
-      "target": "miller-strategies",
-      "label": "ramped up lobbying payments to (from late 2024)",
-      "type": "money",
-      "date": "2024-12"
-    },
-    {
-      "source": "miller-strategies",
-      "target": "sec",
-      "label": "lobbied for Crypto.com",
-      "type": "political"
-    },
-    {
-      "source": "miller-strategies",
-      "target": "white-house",
-      "label": "lobbied for Crypto.com",
-      "type": "political"
-    },
-    {
-      "source": "gemini",
-      "target": "miller-strategies",
-      "label": "retained (first-time lobbying client) on crypto regulation",
-      "type": "commercial"
-    },
-    {
-      "source": "jessica-mandel",
-      "target": "miller-strategies",
-      "label": "lobbyist at; on Gemini and Crypto.com accounts",
-      "type": "commercial"
-    },
-    {
-      "source": "jeff-miller",
-      "target": "digital-freedom-fund",
-      "label": "reported member of",
-      "type": "political"
-    },
-    {
-      "source": "cameron-winklevoss",
-      "target": "digital-freedom-fund",
-      "label": "co-funded with BTC",
-      "type": "money"
-    },
-    {
-      "source": "kraken",
-      "target": "ballard-partners",
-      "label": "hired (with Blockchain.com, $60K combined Dec 2024)",
-      "type": "money",
-      "date": "2024-12",
-      "amount_usd": 60000
-    },
-    {
-      "source": "blockchain-com",
-      "target": "ballard-partners",
-      "label": "hired (with Kraken, $60K combined Dec 2024)",
-      "type": "money",
-      "date": "2024-12"
-    },
-    {
-      "source": "brian-ballard",
-      "target": "ballard-partners",
-      "label": "founder of",
-      "type": "ownership"
-    },
-    {
-      "source": "brian-ballard",
-      "target": "donald-trump",
-      "label": "longtime fundraiser for",
-      "type": "political"
-    },
-    {
-      "source": "susie-wiles",
-      "target": "ballard-partners",
-      "label": "former partner of",
-      "type": "commercial"
-    },
-    {
-      "source": "pam-bondi",
-      "target": "ballard-partners",
-      "label": "former lobbyist at",
-      "type": "commercial"
-    },
-    {
-      "source": "sec",
-      "target": "kraken",
-      "label": "dismissed suit with prejudice",
-      "type": "regulatory",
-      "date": "2025-03-27"
-    },
-    {
-      "source": "sec",
-      "target": "crypto-com",
-      "label": "closed investigation with no action",
-      "type": "regulatory",
-      "date": "2025-03-27"
-    },
-    {
-      "source": "binance",
-      "target": "checkmate-government-relations",
-      "label": "paid ~$450K for 'executive relief' lobbying",
-      "type": "money",
-      "date": "2025-09",
-      "amount_usd": 450000
-    },
-    {
-      "source": "ches-mcdowell",
-      "target": "donald-trump-jr",
-      "label": "friend and hunting partner of",
-      "type": "political"
-    },
-    {
-      "source": "binance",
-      "target": "teresa-goody-guillen",
-      "label": "retained (~$290K with CZ)",
-      "type": "money",
-      "date": "2025-02",
-      "amount_usd": 290000
-    },
-    {
-      "source": "cftc",
-      "target": "gemini",
-      "label": "jointly moved to vacate $5M consent order",
-      "type": "regulatory",
-      "date": "2026-05-27"
-    },
-    {
-      "source": "mike-selig",
-      "target": "cftc",
-      "label": "chairs",
-      "type": "regulatory"
-    },
-    {
-      "source": "cameron-winklevoss",
-      "target": "maga-inc",
-      "label": "gave 79.35 BTC (>$5M)",
-      "type": "money",
-      "date": "2026-06-19",
-      "amount_usd": 5009000
-    },
-    {
-      "source": "tyler-winklevoss",
-      "target": "maga-inc",
-      "label": "gave 79.35 BTC (>$5M)",
-      "type": "money",
-      "date": "2026-06-19",
-      "amount_usd": 5009000
-    },
-    {
-      "source": "maga-inc",
-      "target": "donald-trump",
-      "label": "super PAC supporting",
-      "type": "political"
-    },
-    {
-      "source": "alvin-hellerstein",
-      "target": "gemini",
-      "label": "denied CFTC-Gemini vacatur; $5M penalty and injunction stand",
-      "type": "legal",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "elizabeth-warren",
-      "target": "cftc",
-      "label": "letter criticizing Gemini vacatur motion",
-      "type": "political",
-      "date": "2026-06"
-    },
-    {
-      "source": "brian-quintenz",
-      "target": "tyler-winklevoss",
-      "label": "released texts in which Winklevoss raised Gemini litigation",
-      "type": "political"
-    },
-    {
-      "source": "margaret-ryan",
-      "target": "sec",
-      "label": "Enforcement Director; resigned",
-      "type": "regulatory",
-      "date": "2026-03-16"
-    },
-    {
-      "source": "margaret-ryan",
-      "target": "paul-atkins",
-      "label": "reportedly clashed with (anonymous Reuters sources)",
-      "type": "regulatory",
-      "date": "2026-03"
-    },
-    {
-      "source": "david-woodcock",
-      "target": "sec",
-      "label": "named Enforcement Director, effective",
-      "type": "regulatory",
-      "date": "2026-05-04"
-    },
-    {
-      "source": "sec",
-      "target": "justin-sun",
-      "label": "dismissed claims; Rainberry paid $10M",
-      "type": "regulatory",
-      "date": "2026-03",
-      "amount_usd": 10000000
-    },
-    {
-      "source": "rainberry",
-      "target": "justin-sun",
-      "label": "Sun-linked company",
-      "type": "ownership"
-    },
-    {
-      "source": "richard-blumenthal",
-      "target": "paul-atkins",
-      "label": "letter demanding records on crypto settlements and Ryan's exit",
-      "type": "political",
-      "date": "2026-03-30"
-    },
-    {
-      "source": "elizabeth-warren",
-      "target": "paul-atkins",
-      "label": "letters on Ryan's exit and enforcement decline",
-      "type": "political",
-      "date": "2026-04-15"
-    },
-    {
-      "source": "coinbase",
-      "target": "fairshake",
-      "label": "contributed $25M (2025)",
-      "type": "money",
-      "date": "2025",
-      "amount_usd": 25000000
-    },
-    {
-      "source": "fairshake",
-      "target": "donald-trump",
-      "label": "backed Trump-endorsed GOP primary candidates; ads touted his endorsement",
-      "type": "political",
-      "date": "2026-05"
-    }
-  ],
-  "leads": [
-    {
-      "title": "Blumenthal's PSI inquiry into Binance, Tether and Trump-linked firms (records deadline Jan 4, 2027)",
-      "why_connected": "The same senator, extending his Ryan/SEC inquiry to Binance's sanctions-related transactions and WLF ties.",
-      "entities": [
-        "richard-blumenthal",
-        "binance",
-        "world-liberty-financial",
-        "tether"
-      ],
-      "source_url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline"
-    },
-    {
-      "title": "Warren: SEC Chair Atkins may have misled Congress over enforcement data",
-      "why_connected": "A follow-on to Ryan's exit and the drop in enforcement; tests Atkins's testimony.",
-      "entities": [
-        "elizabeth-warren",
-        "paul-atkins",
-        "sec"
-      ],
-      "source_url": "https://cointelegraph.com/news/warren-claims-sec-atkins-likely-misled-congress-over-enforcement-data"
-    },
-    {
-      "title": "Quintenz texts: Tyler Winklevoss pressed the CFTC nominee on Gemini litigation",
-      "why_connected": "Shows direct lobbying by the donor on the case the CFTC later moved to vacate.",
-      "entities": [
-        "brian-quintenz",
-        "tyler-winklevoss",
-        "cftc",
-        "gemini"
-      ],
-      "source_url": "https://ground.news/article/commodities-regulator-alleges-winklevoss-gemini-crypto-exchange-was-politically-targeted"
-    },
-    {
-      "title": "Winklevoss-funded Digital Freedom Fund PAC ($21M in BTC) with Trump Jr., Sacks and Jeff Miller",
-      "why_connected": "Links the Gemini founders, the Trump family and Gemini's lobbyist in one political vehicle.",
-      "entities": [
-        "cameron-winklevoss",
-        "tyler-winklevoss",
-        "digital-freedom-fund",
-        "donald-trump-jr",
-        "jeff-miller"
-      ],
-      "source_url": "https://bitcoinmagazine.com/news/winklevoss-twins-donated-bitcoin-to-trump"
-    }
-  ],
-  "audit": {
-    "checked": [
-      "Winklevoss twins' ~$10.02M BTC gift to MAGA Inc. on 19 Jun 2026, 23 days after the CFTC-Gemini joint motion",
-      "Judge Hellerstein's 15 Oct 2026 denial of the vacatur motion",
-      "Margaret Ryan's 16 Mar 2026 resignation and the Reuters anonymous-source account of clashes over Sun and Musk cases",
-      "Gemini's retention of Miller Strategies"
-    ],
-    "result": "upheld",
-    "changes": [
-      "Fresh searches (The Block, Bloomberg Tax, CryptoSlate, Crypto Briefing, InvestmentNews, Cointelegraph's Reuters relay, Legis1) confirm the dates and amounts. Verdict unchanged.",
-      "Added the per-twin FEC amounts and the reasoning of Hellerstein's order. Added a press-reported ~$26M cycle total, flagged as unverified.",
-      "Ryan sub-claim: added the unsigned Sun-settlement detail, the Musk settlement talks and Atkins's public praise. It stays unverified because the account rests on anonymous Reuters sources.",
-      "Gemini/Miller: still rests on Legis1 and the LDA client record, and the LDA fetch was blocked again."
-    ],
-    "new_sources": [
-      {
-        "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
-        "publisher": "The Block",
-        "url": "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement",
-        "publisher": "Bloomberg Tax",
-        "url": "https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
-        "date": "2026-10"
-      },
-      {
-        "title": "Winklevoss twins gave Trump's super PAC $10 million 23 days after CFTC joined Gemini relief bid",
-        "publisher": "CryptoSlate",
-        "url": "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/",
-        "date": "2026-07"
-      },
-      {
-        "title": "Winklevoss twins put roughly $26 million behind pro-Trump super PAC this cycle",
-        "publisher": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/winklevoss-twins-26-million-maga-inc/",
-        "date": "2026"
-      },
-      {
-        "title": "SEC top enforcer clashed over Trump cases before quitting: report",
-        "publisher": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report",
-        "date": "2026-03"
-      },
-      {
-        "title": "SEC enforcement director resigns after just six months in the role",
-        "publisher": "InvestmentNews",
-        "url": "https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711",
-        "date": "2026-03-16"
-      }
-    ]
+ "id": "C52",
+ "title": "Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit",
+ "verdict": "mostly-accurate",
+ "confidence": "medium",
+ "summary": "The documented core holds up. Crypto.com (AP) and Gemini (an LDA record and Legis1) retained Jeff Miller's Miller Strategies. Kraken and Blockchain.com hired Ballard Partners in Dec 2024 for a combined $60K (Reuters). Binance hired Trump-adjacent lobbyists, already established in C36. The Winklevoss twins gave about $10.0M in BTC to MAGA Inc. on June 19, 2026, 23 days after the CFTC joined Gemini's motion to vacate; the judge denied that motion on Oct 15, 2026. SEC Enforcement Director Margaret Ryan resigned on Mar 16, 2026, and Sen. Blumenthal's Mar 30 letter asked whether crypto cases, notably Justin Sun's, were involved. Fairshake had about $193M in January 2026 and spent roughly $150-170M in the midterms. Still unverified: most per-client lobbying fees, any causal link between lobbying or gifts and regulatory outcomes, and the reason for Ryan's exit, which rests on anonymous Reuters sources.",
+ "sub_claims": [
+  {
+   "statement": "Crypto.com hired Trump-connected Miller Strategies (Jeff Miller).",
+   "verdict": "confirmed",
+   "finding": "Established in C43. AP (Dec 2025) reports that Crypto.com ramped up payments to Jeff Miller from late 2024; per the disclosures he lobbied the White House and the SEC. Miller is a GOP fundraiser and was finance chair of Trump's inaugural festivities. Crypto.com says Miller had no involvement in the SEC probe, which closed with no action on 2025-03-27. A per-client fee total was not found.",
+   "sources": [
+    "https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest"
+   ]
+  },
+  {
+   "statement": "Gemini hired Miller Strategies.",
+   "verdict": "mostly-accurate",
+   "finding": "Legis1 reports that Gemini Space Station Inc., a first-time lobbying client, retained Miller Strategies for 'issues around cryptocurrency regulation'. The listed lobbyists are Jeffrey Miller and Jessica Anne Mandel, who previously lobbied for Crypto.com. A Senate LDA client record (client 69134) shows the client as 'Baughman Kroup Bosse PLLC on behalf of Gemini Space Station, Inc.' with Miller Strategies as registrant. The registration date and fees could not be retrieved because lda.senate.gov and legis1.com were blocked here. Separately, Jeff Miller is reported as a member of the Winklevoss-funded Digital Freedom Fund PAC. No source ties Miller's work to the CFTC reversal. Audit note: a fresh search again surfaced only Legis1 and the LDA client record. A direct LDA API fetch was blocked by the proxy, so the registration date and fees are still unretrieved.",
+   "sources": [
+    "https://legis1.com/news/crypto-regulation-lobbying-gemini",
+    "https://lda.senate.gov/api/v1/clients/69134/?format=api"
+   ]
+  },
+  {
+   "statement": "Kraken and Blockchain.com hired Trump-tied Ballard Partners.",
+   "verdict": "confirmed",
+   "finding": "Reuters (Jan 24, 2025): Payward (Kraken) and Blockchain (US) Inc. hired Ballard in Dec 2024, together paying $60,000 for crypto-policy lobbying in the last weeks of 2024. Blockchain.com had not used a DC lobbying firm in six years. Ballard signed 40 new clients after the election. Its founder, Brian Ballard, is a longtime Trump fundraiser, and two former Ballard partners, Susie Wiles and Pam Bondi, joined the administration. Kraken said it works 'with a number of lobbying firms in our key markets.' Legis1 puts Kraken's 2025 lobbying at about $2.3M across in-house staff and four firms including Ballard; a Ballard-specific 2025 fee was not found. Outcome: the SEC dismissed its Kraken suit with prejudice on Mar 27, 2025 (C23), with no documented link to the hire. No Blockchain.com regulatory outcome was identified.",
+   "sources": [
+    "https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html",
+    "https://www.streetinsider.com/Reuters/Kraken%2C+Blockchain.com+join+crowd+signing+with+Trump-tied+lobbyists/24245649.html"
+   ]
+  },
+  {
+   "statement": "Binance hired Trump-connected lobbyists.",
+   "verdict": "confirmed",
+   "finding": "Already established in C36 and not repeated in full. Per Politico-based reporting, Binance hired Ches McDowell (Checkmate Government Relations, a friend of Donald Trump Jr.) in Sept 2025 for 'executive relief', with about $450K billed, and retained Teresa Goody Guillén (about $290K) from about Feb 2025. The CZ pardon followed in Oct 2025. McDowell says Trump Jr. did not help.",
+   "sources": [
+    "https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington"
+   ]
+  },
+  {
+   "statement": "The lobbying fees and outcomes are documented.",
+   "verdict": "partly-accurate",
+   "finding": "Fees are documented only in part: Ballard's $60K (Kraken plus Blockchain.com, Dec 2024) and Binance's roughly $450K and $290K. Crypto.com's and Gemini's payments to Miller Strategies were not found. For scale, Miller Strategies reported about $12.9M firm-wide in Q2 2025 (NOTUS), and Ballard led K Street with about $88M in 2025. On outcomes, the SEC dropped Kraken, closed Crypto.com and dismissed Binance (C23/C22), and CZ was pardoned (C36). No record shows that a lobbying contact produced any of these outcomes.",
+   "sources": [
+    "https://www.notus.org/money/lobbying-disclosure-second-quarter",
+    "https://news.bloomberglaw.com/business-and-practice/trump-aligned-ballard-takes-over-as-revenue-leader-on-k-street"
+   ]
+  },
+  {
+   "statement": "The Winklevoss twins gave $10M+ in bitcoin to MAGA Inc. shortly after the CFTC joined Gemini's bid to vacate its judgment.",
+   "verdict": "mostly-accurate",
+   "finding": "On May 27-28, 2026, the CFTC under Chair Mike Selig and Gemini jointly moved in SDNY (1:22-cv-04563-AKH) to vacate the Jan 2025 $5M consent order. The CFTC said the complaint 'should not have been filed' and that the twins were 'politically targeted'. On June 19, 2026 each twin gave 79.35 BTC (more than $5M each, about $10.02M in total) to MAGA Inc., which liquidated them. That was 23 days after the joint motion. The total is 'about $10M' rather than clearly 'more than $10M', and some outlets double-counted the liquidation entries. Judge Alvin Hellerstein denied the motion on Oct 15, 2026; the $5M penalty (already paid, no refund sought) and the injunction stand. Warren called the motion a sign of a 'CFTC beholden to political pressures', and ex-chair Tim Massad called it 'extraordinarily unusual'. Texts released by Brian Quintenz show Tyler Winklevoss raising the litigation during Quintenz's nomination. No document links the gift to the CFTC decision. Audit note: FEC-based reporting gives Cameron's gift as $5,006,604 and Tyler's as $5,011,860. Hellerstein's 15 Oct 2026 order runs eight pages. It held that facts which already existed when the consent order was entered are not a post-judgment change under Rule 60(b), and it left the injunction and no-denial clause in place. Some outlets report the twins' 2026-cycle giving to MAGA Inc. at about $26M (about $13M each). That figure is press-reported and was not verified against FEC data here.",
+   "sources": [
+    "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/",
+    "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal",
+    "https://www.theblock.co/post/402827/cftc-joins-relief-motion-gemini",
+    "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+    "https://news.bloomberglaw.com/crypto/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
+    "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+    "https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
+    "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/"
+   ]
+  },
+  {
+   "statement": "The SEC enforcement director resigned suddenly in March 2026.",
+   "verdict": "confirmed",
+   "finding": "Margaret 'Meg' Ryan, a former senior judge on the U.S. Court of Appeals for the Armed Forces, was named director on Aug 21, 2025 and started on Sept 2, 2025. She resigned on Mar 16, 2026, after just over six months. Neither the SEC announcement nor her letter gave a reason. Sam Waldon became acting director again. The SEC later named David Woodcock (Gibson Dunn, former head of the SEC's Fort Worth office) director, effective May 4, 2026. About 11 days before she left, the SEC settled its Justin Sun case: Rainberry paid $10M and the claims against Sun were dismissed.",
+   "sources": [
+    "https://www.planadviser.com/margaret-ryan-to-join-sec-as-director-of-enforcement-division/",
+    "https://old.investmentexecutive.com/news/secs-new-enforcement-chief-resigns/",
+    "https://www.thinkadvisor.com/2026/03/30/senator-seeks-answers-on-sec-enforcement-heads-sudden-resignation/"
+   ]
+  },
+  {
+   "statement": "Ryan left over clashes about crypto or Trump-linked cases.",
+   "verdict": "unverified",
+   "finding": "Reuters, citing anonymous sources, reported that Ryan clashed with Chair Paul Atkins and other Republican appointees because she wanted tougher action in some fraud cases, including matters tied to Justin Sun and Elon Musk. An SEC enforcement official told Reuters that shifting crypto guidance and pending legislation complicated the Sun case. The SEC says it decides enforcement 'based on facts, the law, and policy — not politics' and credited Ryan with a 'critical course correction'. Ryan has not publicly stated a reason. Audit note: secondary coverage of the Reuters piece adds that Ryan's signature did not appear on the Sun settlement filings, though one Reuters-cited account understood she supported the settlement. The SEC and Musk told the court on 17 Mar 2026 that they were in settlement talks. Publicly, Atkins praised Ryan as having 'served with honor and distinction'. The reason for her exit stays unverified.",
+   "sources": [
+    "https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report",
+    "https://ground.news/article/secs-ex-enforcement-chief-clashed-with-bosses-before-leaving-reuters-sources-say",
+    "https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report",
+    "https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711"
+   ]
+  },
+  {
+   "statement": "Sen. Blumenthal opened an inquiry into whether crypto cases were involved.",
+   "verdict": "confirmed",
+   "finding": "On Mar 30, 2026, Blumenthal, Ranking Member of the Permanent Subcommittee on Investigations, wrote to Atkins. He cited reports that leadership blocked Enforcement from pursuing parties close to Trump and the possibility of 'preferential treatment for financial partners of President Trump'. He asked for records on crypto settlements since Jan 20, 2025, including those involving companies tied to Justin Sun and Changpeng Zhao, a list of cases where the director's recommendations were overruled, and records by Apr 13. Warren wrote separately the same day and again on Apr 15, with an Apr 28 deadline. The SEC declined to comment. Binance says it has not discussed matters with Atkins. No SEC reply was found.",
+   "sources": [
+    "https://www.hsgac.senate.gov/wp-content/uploads/2026-03-30-Letter-from-Sen-Blumenthal-to-Chairman-Atkins-1.pdf",
+    "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sec-chairman-over-preferential-treatment-of-trump-crypto-backers",
+    "https://decrypt.co/362821/senator-questions-sec-treatment-trump-linked-crypto",
+    "https://www.banking.senate.gov/download/20260415-letter-to-sec-on-enforcement&download=1"
+   ]
+  },
+  {
+   "statement": "The crypto super PAC Fairshake's spending.",
+   "verdict": "mostly-accurate",
+   "finding": "Fairshake and its affiliates (Defend American Jobs, Protect Progress) reported about $193M cash on hand in Jan 2026, including $25M from Coinbase in 2025 plus money from Ripple and a16z. Spending reached about $150.8M through Oct 20, 2026 (Bitcoin Magazine), and Fortune (Nov 4, 2026) puts crypto PAC midterm spending at more than $170M. Results were mixed. Fairshake's GOP primary winners (Barry Moore, Andy Barr and others) were all Trump-endorsed, and its ads touted Trump's endorsement rather than crypto. It spent about $10M against Juliana Stratton, who won her Illinois Senate seat anyway. Fairshake is formally bipartisan, and no direct Fairshake-to-Trump money was found. Final post-election totals are unverified pending FEC filings.",
+   "sources": [
+    "https://www.theblock.co/news/regulation/2026-01-28-crypto-pac-fairshake-amasses-war-chest-ahead-november-midterms-387514",
+    "https://www.axios.com/2026/01/30/crypto-coinbase-fairshake-pac",
+    "https://decrypt.co/368555/crypto-backing-trump-pump-fairshake-pac-claims-primary-victories",
+    "https://fortune.com/2026/11/04/crypto-pacs-170-million-midterms-came-up-dry/"
+   ]
+  },
+  {
+   "statement": "Lobbying, gifts and regulatory outcomes are linked (implied quid pro quo).",
+   "verdict": "unverified",
+   "finding": "Timing and access are documented, but no record shows any lobbying contact or donation was exchanged for a regulatory outcome. The Gemini vacatur failed in court despite the CFTC's support, and the SEC denies any political influence.",
+   "sources": []
   }
+ ],
+ "corrections": [
+  "The brief says the Winklevoss gift was '$10M+'. FEC data show 2 x 79.35 BTC on June 19, 2026, more than $5M each and about $10.02M in total. Some reports double-count the liquidation entries.",
+  "The CFTC joined Gemini's motion on May 27-28, 2026; the gift came 23 days later. The motion was denied by Judge Hellerstein on Oct 15, 2026 (one outlet's Feb 2026 date is wrong).",
+  "Ryan's resignation letter and the SEC's announcement gave no reason. The 'clash over crypto/Trump cases' account rests on anonymous Reuters sources.",
+  "Fairshake is formally bipartisan and did not give money to Trump. Its connection to Trump is that it backed Trump-endorsed Republicans."
+ ],
+ "denials_and_context": [
+  "Crypto.com says Jeff Miller had no involvement in the SEC investigation, and Miller did not comment (AP).",
+  "Kraken says it works with a number of lobbying firms in its key markets.",
+  "CFTC Chair Selig says the Biden-era CFTC 'politically targeted' the Winklevoss twins and that the complaint should not have been filed. No refund of the $5M was sought.",
+  "The SEC says enforcement decisions are 'based on facts, the law, and policy — not politics', and it declined to comment on the Blumenthal and Warren letters.",
+  "Binance says it has not discussed matters with Atkins beyond general policy talks over a year earlier. McDowell says Trump Jr. did not help (C36).",
+  "Kraken, Crypto.com and Binance were among firms whose cases were eased under a sector-wide SEC policy shift that also covered firms with no Trump ties (C43)."
+ ],
+ "sources": [
+  {
+   "title": "Kraken, Blockchain.com join crowd signing with Trump-tied lobbyists",
+   "publisher": "Reuters (via Yahoo Finance)",
+   "url": "https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html",
+   "date": "2025-01-24"
+  },
+  {
+   "title": "How a Trump business deal with a crypto firm exposes potential conflicts of interest",
+   "publisher": "AP (via PBS NewsHour)",
+   "url": "https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest",
+   "date": "2025-12-16"
+  },
+  {
+   "title": "Gemini hires Miller Strategies on crypto regulation",
+   "publisher": "Legis1",
+   "url": "https://legis1.com/news/crypto-regulation-lobbying-gemini",
+   "date": ""
+  },
+  {
+   "title": "LDA client record 69134 (Baughman Kroup Bosse PLLC on behalf of Gemini Space Station)",
+   "publisher": "U.S. Senate LDA",
+   "url": "https://lda.senate.gov/api/v1/clients/69134/?format=api",
+   "date": ""
+  },
+  {
+   "title": "Lobbying disclosure, second quarter",
+   "publisher": "NOTUS",
+   "url": "https://www.notus.org/money/lobbying-disclosure-second-quarter",
+   "date": "2025-07"
+  },
+  {
+   "title": "Trump-Aligned Ballard Takes Over as Revenue Leader on K Street",
+   "publisher": "Bloomberg Law",
+   "url": "https://news.bloomberglaw.com/business-and-practice/trump-aligned-ballard-takes-over-as-revenue-leader-on-k-street",
+   "date": ""
+  },
+  {
+   "title": "CZ pardon followed Binance lobbying in Trump's Washington",
+   "publisher": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington",
+   "date": "2025-10"
+  },
+  {
+   "title": "CFTC says it shouldn't have sued Gemini, joins motion to vacate prior judgment",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/402827/cftc-joins-relief-motion-gemini",
+   "date": "2026-05-28"
+  },
+  {
+   "title": "Winklevoss twins gave Trump's super PAC $10 million 23 days after CFTC joined Gemini relief bid",
+   "publisher": "CryptoSlate",
+   "url": "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/",
+   "date": "2026-07"
+  },
+  {
+   "title": "Gemini Winklevoss bitcoin to Trump PAC after CFTC deal",
+   "publisher": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal",
+   "date": "2026-07"
+  },
+  {
+   "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
+   "publisher": "The Block",
+   "url": "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+   "date": "2026-10-16"
+  },
+  {
+   "title": "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement",
+   "publisher": "Bloomberg Law",
+   "url": "https://news.bloomberglaw.com/crypto/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
+   "date": "2026-10-15"
+  },
+  {
+   "title": "Margaret Ryan to Join SEC as Director of Enforcement Division",
+   "publisher": "PlanAdviser",
+   "url": "https://www.planadviser.com/margaret-ryan-to-join-sec-as-director-of-enforcement-division/",
+   "date": "2025-08-21"
+  },
+  {
+   "title": "SEC's new enforcement chief resigns",
+   "publisher": "Investment Executive",
+   "url": "https://old.investmentexecutive.com/news/secs-new-enforcement-chief-resigns/",
+   "date": "2026-03-16"
+  },
+  {
+   "title": "SEC top enforcer clashed over Trump cases before quitting: report",
+   "publisher": "Cointelegraph (citing Reuters)",
+   "url": "https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report",
+   "date": "2026-03"
+  },
+  {
+   "title": "Senator Seeks Answers on SEC Enforcement Head's Sudden Resignation",
+   "publisher": "ThinkAdvisor",
+   "url": "https://www.thinkadvisor.com/2026/03/30/senator-seeks-answers-on-sec-enforcement-heads-sudden-resignation/",
+   "date": "2026-03-30"
+  },
+  {
+   "title": "Letter from Sen. Blumenthal to Chairman Atkins",
+   "publisher": "Senate HSGAC / PSI minority",
+   "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-03-30-Letter-from-Sen-Blumenthal-to-Chairman-Atkins-1.pdf",
+   "date": "2026-03-30"
+  },
+  {
+   "title": "Blumenthal demands answers from SEC Chairman over preferential treatment of Trump crypto backers",
+   "publisher": "Office of Sen. Blumenthal",
+   "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sec-chairman-over-preferential-treatment-of-trump-crypto-backers",
+   "date": "2026-03-30"
+  },
+  {
+   "title": "Senator Questions SEC Over Treatment of Trump-Linked Crypto Businesses",
+   "publisher": "Decrypt",
+   "url": "https://decrypt.co/362821/senator-questions-sec-treatment-trump-linked-crypto",
+   "date": "2026-03-30"
+  },
+  {
+   "title": "Warren letter to SEC on enforcement",
+   "publisher": "Senate Banking Committee minority",
+   "url": "https://www.banking.senate.gov/download/20260415-letter-to-sec-on-enforcement&download=1",
+   "date": "2026-04-15"
+  },
+  {
+   "title": "Crypto PAC Fairshake amasses $193 million war chest ahead of November midterms",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-01-28-crypto-pac-fairshake-amasses-war-chest-ahead-november-midterms-387514",
+   "date": "2026-01-28"
+  },
+  {
+   "title": "Leading crypto PAC has already raised $193M for 2026",
+   "publisher": "Axios",
+   "url": "https://www.axios.com/2026/01/30/crypto-coinbase-fairshake-pac",
+   "date": "2026-01-30"
+  },
+  {
+   "title": "Crypto Backing or Trump Pump? Fairshake PAC Claims Primary Victories",
+   "publisher": "Decrypt",
+   "url": "https://decrypt.co/368555/crypto-backing-trump-pump-fairshake-pac-claims-primary-victories",
+   "date": "2026-05"
+  },
+  {
+   "title": "Crypto PACs' $170 million midterms came up dry",
+   "publisher": "Fortune",
+   "url": "https://fortune.com/2026/11/04/crypto-pacs-170-million-midterms-came-up-dry/",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement",
+   "publisher": "Bloomberg Tax",
+   "url": "https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
+   "date": "2026-10"
+  },
+  {
+   "title": "Winklevoss twins put roughly $26 million behind pro-Trump super PAC this cycle",
+   "publisher": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/winklevoss-twins-26-million-maga-inc/",
+   "date": "2026"
+  },
+  {
+   "title": "SEC enforcement director resigns after just six months in the role",
+   "publisher": "InvestmentNews",
+   "url": "https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711",
+   "date": "2026-03-16"
+  }
+ ],
+ "entities": [
+  {
+   "id": "jeff-miller",
+   "name": "Jeff Miller",
+   "type": "person",
+   "description": "Miller Strategies founder; Trump inaugural finance chair; lobbies for Crypto.com and Gemini"
+  },
+  {
+   "id": "miller-strategies",
+   "name": "Miller Strategies",
+   "type": "company",
+   "description": "Trump-connected lobbying firm of Jeff Miller"
+  },
+  {
+   "id": "jessica-mandel",
+   "name": "Jessica Anne Mandel",
+   "type": "person",
+   "description": "Miller Strategies lobbyist on the Gemini and Crypto.com accounts"
+  },
+  {
+   "id": "ballard-partners",
+   "name": "Ballard Partners",
+   "type": "company",
+   "description": "Trump-tied lobbying firm; K Street revenue leader in 2025"
+  },
+  {
+   "id": "brian-ballard",
+   "name": "Brian Ballard",
+   "type": "person",
+   "description": "Founder of Ballard Partners; longtime Trump fundraiser"
+  },
+  {
+   "id": "susie-wiles",
+   "name": "Susie Wiles",
+   "type": "person",
+   "description": "White House chief of staff; former Ballard partner"
+  },
+  {
+   "id": "pam-bondi",
+   "name": "Pam Bondi",
+   "type": "person",
+   "description": "U.S. Attorney General Feb 2025 - Apr 2, 2026 (fired; succeeded by Todd Blanche); former Ballard lobbyist"
+  },
+  {
+   "id": "crypto-com",
+   "name": "Crypto.com",
+   "type": "company",
+   "description": "Exchange; Miller Strategies client; SEC probe closed Mar 2025"
+  },
+  {
+   "id": "gemini",
+   "name": "Gemini",
+   "type": "company",
+   "description": "Winklevoss exchange; first-time Miller Strategies client; CFTC vacatur bid denied"
+  },
+  {
+   "id": "kraken",
+   "name": "Kraken (Payward)",
+   "type": "company",
+   "description": "Exchange; hired Ballard Dec 2024; SEC suit dismissed Mar 2025"
+  },
+  {
+   "id": "blockchain-com",
+   "name": "Blockchain.com",
+   "type": "company",
+   "description": "Crypto firm; hired Ballard Dec 2024, its first DC firm in six years"
+  },
+  {
+   "id": "binance",
+   "name": "Binance",
+   "type": "company",
+   "description": "Exchange; hired Trump-adjacent lobbyists before the CZ pardon"
+  },
+  {
+   "id": "changpeng-zhao",
+   "name": "Changpeng Zhao",
+   "type": "person",
+   "description": "Binance founder; pardoned Oct 2025"
+  },
+  {
+   "id": "ches-mcdowell",
+   "name": "Ches McDowell",
+   "type": "person",
+   "description": "Checkmate Government Relations lobbyist; friend of Donald Trump Jr."
+  },
+  {
+   "id": "checkmate-government-relations",
+   "name": "Checkmate Government Relations",
+   "type": "company",
+   "description": "McDowell's lobbying firm; Binance client"
+  },
+  {
+   "id": "teresa-goody-guillen",
+   "name": "Teresa Goody Guillén",
+   "type": "person",
+   "description": "Lawyer-lobbyist for Binance and CZ"
+  },
+  {
+   "id": "donald-trump-jr",
+   "name": "Donald Trump Jr.",
+   "type": "person",
+   "description": "Friend of Ches McDowell"
+  },
+  {
+   "id": "cameron-winklevoss",
+   "name": "Cameron Winklevoss",
+   "type": "person",
+   "description": "Gemini co-founder; 79.35 BTC to MAGA Inc. on June 19, 2026"
+  },
+  {
+   "id": "tyler-winklevoss",
+   "name": "Tyler Winklevoss",
+   "type": "person",
+   "description": "Gemini co-founder; 79.35 BTC to MAGA Inc. on June 19, 2026"
+  },
+  {
+   "id": "maga-inc",
+   "name": "MAGA Inc.",
+   "type": "fund",
+   "description": "Pro-Trump super PAC"
+  },
+  {
+   "id": "digital-freedom-fund",
+   "name": "Digital Freedom Fund",
+   "type": "fund",
+   "description": "Winklevoss-funded pro-crypto PAC; Jeff Miller reported as a member"
+  },
+  {
+   "id": "cftc",
+   "name": "CFTC",
+   "type": "government",
+   "description": "Commodities regulator; joined Gemini's vacatur motion May 2026"
+  },
+  {
+   "id": "mike-selig",
+   "name": "Mike Selig",
+   "type": "person",
+   "description": "CFTC Chair; says the twins were 'politically targeted'"
+  },
+  {
+   "id": "brian-quintenz",
+   "name": "Brian Quintenz",
+   "type": "person",
+   "description": "Withdrawn CFTC nominee; released texts with Tyler Winklevoss"
+  },
+  {
+   "id": "alvin-hellerstein",
+   "name": "Alvin Hellerstein",
+   "type": "person",
+   "description": "SDNY judge; denied the Gemini-CFTC vacatur Oct 15, 2026"
+  },
+  {
+   "id": "sec",
+   "name": "SEC",
+   "type": "government",
+   "description": "Securities regulator"
+  },
+  {
+   "id": "paul-atkins",
+   "name": "Paul Atkins",
+   "type": "person",
+   "description": "SEC Chair; reportedly clashed with Ryan"
+  },
+  {
+   "id": "margaret-ryan",
+   "name": "Margaret 'Meg' Ryan",
+   "type": "person",
+   "description": "SEC Enforcement Director Sept 2, 2025 - Mar 16, 2026; ex-CAAF judge"
+  },
+  {
+   "id": "sam-waldon",
+   "name": "Sam Waldon",
+   "type": "person",
+   "description": "SEC acting enforcement director before and after Ryan"
+  },
+  {
+   "id": "david-woodcock",
+   "name": "David Woodcock",
+   "type": "person",
+   "description": "SEC Enforcement Director from May 4, 2026"
+  },
+  {
+   "id": "justin-sun",
+   "name": "Justin Sun",
+   "type": "person",
+   "description": "Tron founder; SEC claims dismissed Mar 2026 ($10M paid by Rainberry)"
+  },
+  {
+   "id": "rainberry",
+   "name": "Rainberry",
+   "type": "company",
+   "description": "Sun-linked BitTorrent developer; paid the $10M SEC settlement"
+  },
+  {
+   "id": "richard-blumenthal",
+   "name": "Richard Blumenthal",
+   "type": "person",
+   "description": "US Senator (D-CT); PSI Ranking Member; Mar 30, 2026 letter to Atkins"
+  },
+  {
+   "id": "elizabeth-warren",
+   "name": "Elizabeth Warren",
+   "type": "person",
+   "description": "US Senator (D-MA); letters on Ryan's exit and the Gemini vacatur"
+  },
+  {
+   "id": "fairshake",
+   "name": "Fairshake",
+   "type": "fund",
+   "description": "Crypto industry super PAC network (with Defend American Jobs, Protect Progress)"
+  },
+  {
+   "id": "coinbase",
+   "name": "Coinbase",
+   "type": "company",
+   "description": "Fairshake's top donor ($25M in 2025)"
+  },
+  {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "type": "person",
+   "description": "President"
+  },
+  {
+   "id": "white-house",
+   "name": "White House",
+   "type": "government",
+   "description": "Lobbied by Miller for Crypto.com; by McDowell for Binance"
+  },
+  {
+   "id": "us-congress",
+   "name": "U.S. Congress",
+   "type": "government",
+   "description": "Senate letters and oversight"
+  },
+  {
+   "id": "tether",
+   "name": "Tether",
+   "type": "company",
+   "description": "Stablecoin issuer; in Blumenthal's PSI inquiry"
+  },
+  {
+   "id": "world-liberty-financial",
+   "name": "World Liberty Financial",
+   "type": "company",
+   "description": "Trump-family crypto venture; in Blumenthal's PSI inquiry"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "jeff-miller",
+   "target": "miller-strategies",
+   "label": "founder of",
+   "type": "ownership"
+  },
+  {
+   "source": "jeff-miller",
+   "target": "donald-trump",
+   "label": "fundraiser; finance chair of 2025 inaugural festivities",
+   "type": "political"
+  },
+  {
+   "source": "crypto-com",
+   "target": "miller-strategies",
+   "label": "ramped up lobbying payments to (from late 2024)",
+   "type": "money",
+   "date": "2024-12"
+  },
+  {
+   "source": "miller-strategies",
+   "target": "sec",
+   "label": "lobbied for Crypto.com",
+   "type": "political"
+  },
+  {
+   "source": "miller-strategies",
+   "target": "white-house",
+   "label": "lobbied for Crypto.com",
+   "type": "political"
+  },
+  {
+   "source": "gemini",
+   "target": "miller-strategies",
+   "label": "retained (first-time lobbying client) on crypto regulation",
+   "type": "commercial"
+  },
+  {
+   "source": "jessica-mandel",
+   "target": "miller-strategies",
+   "label": "lobbyist at; on Gemini and Crypto.com accounts",
+   "type": "commercial"
+  },
+  {
+   "source": "jeff-miller",
+   "target": "digital-freedom-fund",
+   "label": "reported member of",
+   "type": "political"
+  },
+  {
+   "source": "cameron-winklevoss",
+   "target": "digital-freedom-fund",
+   "label": "co-funded with BTC",
+   "type": "money"
+  },
+  {
+   "source": "kraken",
+   "target": "ballard-partners",
+   "label": "hired (with Blockchain.com, $60K combined Dec 2024)",
+   "type": "money",
+   "date": "2024-12",
+   "amount_usd": 60000
+  },
+  {
+   "source": "blockchain-com",
+   "target": "ballard-partners",
+   "label": "hired (with Kraken, $60K combined Dec 2024)",
+   "type": "money",
+   "date": "2024-12"
+  },
+  {
+   "source": "brian-ballard",
+   "target": "ballard-partners",
+   "label": "founder of",
+   "type": "ownership"
+  },
+  {
+   "source": "brian-ballard",
+   "target": "donald-trump",
+   "label": "longtime fundraiser for",
+   "type": "political"
+  },
+  {
+   "source": "susie-wiles",
+   "target": "ballard-partners",
+   "label": "former partner of",
+   "type": "commercial"
+  },
+  {
+   "source": "pam-bondi",
+   "target": "ballard-partners",
+   "label": "former lobbyist at",
+   "type": "commercial"
+  },
+  {
+   "source": "sec",
+   "target": "kraken",
+   "label": "dismissed suit with prejudice",
+   "type": "regulatory",
+   "date": "2025-03-27"
+  },
+  {
+   "source": "sec",
+   "target": "crypto-com",
+   "label": "closed investigation with no action",
+   "type": "regulatory",
+   "date": "2025-03-27"
+  },
+  {
+   "source": "binance",
+   "target": "checkmate-government-relations",
+   "label": "paid ~$450K for 'executive relief' lobbying",
+   "type": "money",
+   "date": "2025-09",
+   "amount_usd": 450000
+  },
+  {
+   "source": "ches-mcdowell",
+   "target": "donald-trump-jr",
+   "label": "friend and hunting partner of",
+   "type": "political"
+  },
+  {
+   "source": "binance",
+   "target": "teresa-goody-guillen",
+   "label": "retained (~$290K with CZ)",
+   "type": "money",
+   "date": "2025-02",
+   "amount_usd": 290000
+  },
+  {
+   "source": "cftc",
+   "target": "gemini",
+   "label": "jointly moved to vacate $5M consent order",
+   "type": "regulatory",
+   "date": "2026-05-27"
+  },
+  {
+   "source": "mike-selig",
+   "target": "cftc",
+   "label": "chairs",
+   "type": "regulatory"
+  },
+  {
+   "source": "cameron-winklevoss",
+   "target": "maga-inc",
+   "label": "gave 79.35 BTC (>$5M)",
+   "type": "money",
+   "date": "2026-06-19",
+   "amount_usd": 5009000
+  },
+  {
+   "source": "tyler-winklevoss",
+   "target": "maga-inc",
+   "label": "gave 79.35 BTC (>$5M)",
+   "type": "money",
+   "date": "2026-06-19",
+   "amount_usd": 5009000
+  },
+  {
+   "source": "maga-inc",
+   "target": "donald-trump",
+   "label": "super PAC supporting",
+   "type": "political"
+  },
+  {
+   "source": "alvin-hellerstein",
+   "target": "gemini",
+   "label": "denied CFTC-Gemini vacatur; $5M penalty and injunction stand",
+   "type": "legal",
+   "date": "2026-10-15"
+  },
+  {
+   "source": "elizabeth-warren",
+   "target": "cftc",
+   "label": "letter criticizing Gemini vacatur motion",
+   "type": "political",
+   "date": "2026-06"
+  },
+  {
+   "source": "brian-quintenz",
+   "target": "tyler-winklevoss",
+   "label": "released texts in which Winklevoss raised Gemini litigation",
+   "type": "political"
+  },
+  {
+   "source": "margaret-ryan",
+   "target": "sec",
+   "label": "Enforcement Director; resigned",
+   "type": "regulatory",
+   "date": "2026-03-16"
+  },
+  {
+   "source": "margaret-ryan",
+   "target": "paul-atkins",
+   "label": "reportedly clashed with (anonymous Reuters sources)",
+   "type": "regulatory",
+   "date": "2026-03"
+  },
+  {
+   "source": "david-woodcock",
+   "target": "sec",
+   "label": "named Enforcement Director, effective",
+   "type": "regulatory",
+   "date": "2026-05-04"
+  },
+  {
+   "source": "sec",
+   "target": "justin-sun",
+   "label": "dismissed claims; Rainberry paid $10M",
+   "type": "regulatory",
+   "date": "2026-03",
+   "amount_usd": 10000000
+  },
+  {
+   "source": "rainberry",
+   "target": "justin-sun",
+   "label": "Sun-linked company",
+   "type": "ownership"
+  },
+  {
+   "source": "richard-blumenthal",
+   "target": "paul-atkins",
+   "label": "letter demanding records on crypto settlements and Ryan's exit",
+   "type": "political",
+   "date": "2026-03-30"
+  },
+  {
+   "source": "elizabeth-warren",
+   "target": "paul-atkins",
+   "label": "letters on Ryan's exit and enforcement decline",
+   "type": "political",
+   "date": "2026-04-15"
+  },
+  {
+   "source": "coinbase",
+   "target": "fairshake",
+   "label": "contributed $25M (2025)",
+   "type": "money",
+   "date": "2025",
+   "amount_usd": 25000000
+  },
+  {
+   "source": "fairshake",
+   "target": "donald-trump",
+   "label": "backed Trump-endorsed GOP primary candidates; ads touted his endorsement",
+   "type": "political",
+   "date": "2026-05"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Blumenthal's PSI inquiry into Binance, Tether and Trump-linked firms (records deadline Jan 4, 2027)",
+   "why_connected": "The same senator, extending his Ryan/SEC inquiry to Binance's sanctions-related transactions and WLF ties.",
+   "entities": [
+    "richard-blumenthal",
+    "binance",
+    "world-liberty-financial",
+    "tether"
+   ],
+   "source_url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline"
+  },
+  {
+   "title": "Warren: SEC Chair Atkins may have misled Congress over enforcement data",
+   "why_connected": "A follow-on to Ryan's exit and the drop in enforcement; tests Atkins's testimony.",
+   "entities": [
+    "elizabeth-warren",
+    "paul-atkins",
+    "sec"
+   ],
+   "source_url": "https://cointelegraph.com/news/warren-claims-sec-atkins-likely-misled-congress-over-enforcement-data"
+  },
+  {
+   "title": "Quintenz texts: Tyler Winklevoss pressed the CFTC nominee on Gemini litigation",
+   "why_connected": "Shows direct lobbying by the donor on the case the CFTC later moved to vacate.",
+   "entities": [
+    "brian-quintenz",
+    "tyler-winklevoss",
+    "cftc",
+    "gemini"
+   ],
+   "source_url": "https://ground.news/article/commodities-regulator-alleges-winklevoss-gemini-crypto-exchange-was-politically-targeted"
+  },
+  {
+   "title": "Winklevoss-funded Digital Freedom Fund PAC ($21M in BTC) with Trump Jr., Sacks and Jeff Miller",
+   "why_connected": "Links the Gemini founders, the Trump family and Gemini's lobbyist in one political vehicle.",
+   "entities": [
+    "cameron-winklevoss",
+    "tyler-winklevoss",
+    "digital-freedom-fund",
+    "donald-trump-jr",
+    "jeff-miller"
+   ],
+   "source_url": "https://bitcoinmagazine.com/news/winklevoss-twins-donated-bitcoin-to-trump"
+  }
+ ],
+ "audit": {
+  "checked": [
+   "Winklevoss twins' ~$10.02M BTC gift to MAGA Inc. on 19 Jun 2026, 23 days after the CFTC-Gemini joint motion",
+   "Judge Hellerstein's 15 Oct 2026 denial of the vacatur motion",
+   "Margaret Ryan's 16 Mar 2026 resignation and the Reuters anonymous-source account of clashes over Sun and Musk cases",
+   "Gemini's retention of Miller Strategies"
+  ],
+  "result": "upheld",
+  "changes": [
+   "Fresh searches (The Block, Bloomberg Tax, CryptoSlate, Crypto Briefing, InvestmentNews, Cointelegraph's Reuters relay, Legis1) confirm the dates and amounts. Verdict unchanged.",
+   "Added the per-twin FEC amounts and the reasoning of Hellerstein's order. Added a press-reported ~$26M cycle total, flagged as unverified.",
+   "Ryan sub-claim: added the unsigned Sun-settlement detail, the Musk settlement talks and Atkins's public praise. It stays unverified because the account rests on anonymous Reuters sources.",
+   "Gemini/Miller: still rests on Legis1 and the LDA client record, and the LDA fetch was blocked again.",
+   "Cross-file consistency: pam-bondi entity described her as the current Attorney General; Trump removed her on Apr 2, 2026 and Todd Blanche was confirmed AG on Aug 8, 2026 (sworn in Aug 10) (C61, C65)."
+  ],
+  "new_sources": [
+   {
+    "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
+    "publisher": "The Block",
+    "url": "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+    "date": "2026-10-16"
+   },
+   {
+    "title": "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement",
+    "publisher": "Bloomberg Tax",
+    "url": "https://news.bloombergtax.com/securities-law/judge-rejects-gemini-cftc-bid-to-undo-5-million-settlement",
+    "date": "2026-10"
+   },
+   {
+    "title": "Winklevoss twins gave Trump's super PAC $10 million 23 days after CFTC joined Gemini relief bid",
+    "publisher": "CryptoSlate",
+    "url": "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/",
+    "date": "2026-07"
+   },
+   {
+    "title": "Winklevoss twins put roughly $26 million behind pro-Trump super PAC this cycle",
+    "publisher": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/winklevoss-twins-26-million-maga-inc/",
+    "date": "2026"
+   },
+   {
+    "title": "SEC top enforcer clashed over Trump cases before quitting: report",
+    "publisher": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report",
+    "date": "2026-03"
+   },
+   {
+    "title": "SEC enforcement director resigns after just six months in the role",
+    "publisher": "InvestmentNews",
+    "url": "https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-director-resigns-after-just-six-months-in-the-role/265711",
+    "date": "2026-03-16"
+   }
+  ]
+ }
 }

@@ -103,7 +103,7 @@ These are our own cross-references. No source asserts them.
 ## Corrections
 - The SPAC counsel role and Edelman are unrelated engagements at Paul Hastings.
 - The CBS/Paramount $16M case was handled by Edward Paltzik, not Brito.
-- Bondi is no longer AG. Trump announced her departure on Apr 2, 2026; Todd Blanche was acting AG from then and was confirmed by the Senate 50-49 on Aug 8, 2026.
+- Bondi is no longer AG. Trump announced her departure on Apr 2, 2026; Todd Blanche was acting AG from then, was confirmed by the Senate 50-49 on Aug 8, 2026, and was sworn in on Aug 10, 2026.
 - Qatar paid Ballard, not Bondi personally, $115K a month.
 - Mizelle's Kushner roles came before and after his DOJ stint, not during it.
 
@@ -173,10 +173,10 @@ Result: **corrected** (verdict and confidence unchanged).
 Re-checked: Goody Guillen's WLF letter and Binance/CZ lobbying registration; Paul Hastings on the NAA I filing; Martin Edelman's G42, Paul Hastings and WLF board roles; Brad Bondi's firm history; the Qatar-jet memo; the current Attorney General; Mizelle as Kushner's counsel.
 
 - **Goody Guillen.** Her letter for Zhao was dated Oct 28, 2025 (The Block). The Nov 2 document is reported as Warren's counsel's reply. Legis1 says, from a single source, that she left the Binance engagement in July 2025 for Bellementis. Later coverage contradicts this, and it remains unresolved. The dual WLF and Binance/CZ representation is upheld (LDA filing, Bloomberg Law, Senate Banking document).
-- **Attorney General.** Pam Bondi left on Apr 2, 2026. Todd Blanche was acting AG, then confirmed 50-49 on Aug 8, 2026, with Collins and Murkowski voting no (AP, Axios, NOTUS).
+- **Attorney General.** Pam Bondi left on Apr 2, 2026. Todd Blanche was acting AG, then confirmed 50-49 on Aug 8, 2026, with Collins and Murkowski voting no (AP, Axios, NOTUS), and sworn in on Aug 10, 2026 (AP via WTOP). Cross-file consistency check: C49, C61, C64 and C65 now all give both the Aug 8 confirmation and the Aug 10 swearing-in.
 - **Brad Bondi.** He joined Paul Hastings in Nov 2024. He represented Milton while at Cahill Gordon (Business Wire, 2021).
 - **Paul Hastings and NAA I.** Law360 says the filing had "guidance from Paul Hastings LLP and Holland & Knight LLP".
 - **Jet memo.** Per anonymous ABC sources, it was addressed to White House counsel David Warrington's office at his request (single-source on this point). That links item 8 to the Dhillon item.
 - **Mizelle.** Upheld: Kushner's counsel in CREW's Oct 14, 2026 suit (D.D.C. 26-cv-3580).
 
-New sources: AP/National Newswatch 2026-04-02; Axios 2026-08-08; NOTUS 2026-08-08; The Block (CZ retraction letter); Lawdragon 2024-11-13; Business Wire 2021-07-29; Law360 2025-08-04; Senate Banking minority staff report; Yahoo/CNN (jet memo); AP/ClickOnDetroit 2026-10-14. URLs are in the JSON `audit.new_sources`.
+New sources: AP/National Newswatch 2026-04-02; Axios 2026-08-08; NOTUS 2026-08-08; The Block (CZ retraction letter); Lawdragon 2024-11-13; Business Wire 2021-07-29; Law360 2025-08-04; Senate Banking minority staff report; Yahoo/CNN (jet memo); AP/ClickOnDetroit 2026-10-14; WTOP (AP) 2026-08-10. URLs are in the JSON `audit.new_sources`.

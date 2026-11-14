@@ -222,10 +222,10 @@ These links come from our own cross-referencing. No source asserts them.
 Result: **corrected** (verdict and confidence unchanged).
 
 - **Patel.** Corrected. The one-year recusal was pledged in Nov 2024 and had expired before the Dec 2025 Doha agreements; a March 2025 waiver had already allowed Qatar work. Public Citizen asked OGE to rescind the waiver. This is reconciled with C73.
-- **Bondi.** She is described as AG until Apr 2, 2026. Todd Blanche was acting AG, then confirmed on Aug 8, 2026.
+- **Bondi.** She is described as AG until Apr 2, 2026. Todd Blanche was acting AG, then confirmed 50-49 on Aug 8, 2026 and sworn in on Aug 10, 2026 (Axios; AP via WTOP). The Bondi-DOJ relationship label now uses the past tense (Feb 2025 - Apr 2, 2026). This matches C49, C61 and C65.
 - **Brad Bondi.** His documented role is lead criminal defence counsel for Milton. The SEC-counsel description comes from C36 and was not re-checked.
 - **Pakistan.** Upheld. Seiden Law signed on Apr 8, 2025 at $200K/month (some outlets say $125K). Javelin's FARA registration (Apr 25, 2025) lists Sorial, Schiller and Robert Seiden as co-owners.
 - **Kalshi.** Upheld: $240K to Miller Strategies in H1 2026 (OpenSecrets via Stateline).
 - **Ballard and Saudi Arabia.** Upheld: $60K/month from Mar 31, 2025. Ballard's Mar 2026 FARA supplemental still lists the Saudi embassy.
 
-New sources: Jewish Insider 2025-12; Public Citizen OGE complaint; FARA 7579 registration; Nukta; Stateline/Indiana Capital Chronicle 2026-10-05; Sludge 2026-02-05; FARA 7070 supplemental 2026-03-02; AP/National Newswatch 2026-04-02. URLs are in the JSON `audit.new_sources`.
+New sources: Jewish Insider 2025-12; Public Citizen OGE complaint; FARA 7579 registration; Nukta; Stateline/Indiana Capital Chronicle 2026-10-05; Sludge 2026-02-05; FARA 7070 supplemental 2026-03-02; AP/National Newswatch 2026-04-02; Axios 2026-08-08; WTOP (AP) 2026-08-10. URLs are in the JSON `audit.new_sources`.

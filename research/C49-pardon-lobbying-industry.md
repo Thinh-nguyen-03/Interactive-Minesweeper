@@ -53,7 +53,7 @@ The brief describes a paid pardon-lobbying industry (Roger Stone, Ches McDowell/
 
 7. **Oyer fired; Martin as pardon attorney: confirmed, with an update.**
    - Then-Deputy AG Todd Blanche fired Oyer on Mar 7, 2025, after she declined to recommend restoring Mel Gibson's gun rights. Bondi restored them in Apr 2025.
-   - Oyer sued in federal court in Washington on Sep 3, 2026 for reinstatement and back pay, alleging due-process, First Amendment and civil-service violations (untested). Blanche, confirmed 50-49 and sworn in as AG on Aug 10, 2026 after Trump removed Bondi in April, denies knowing about the Gibson matter.
+   - Oyer sued in federal court in Washington on Sep 3, 2026 for reinstatement and back pay, alleging due-process, First Amendment and civil-service violations (untested). Blanche, confirmed by the Senate 50-49 on Aug 8, 2026 and sworn in as AG on Aug 10, 2026 after Trump removed Bondi in April, denies knowing about the Gibson matter.
    - Martin was named pardon attorney on May 8, 2025, and posted "No MAGA left behind" after the Scott Jenkins pardon.
    - He lost the Weaponization Working Group in Feb 2026. Trump announced his departure on Aug 21, 2026. No successor was found.
 
@@ -80,7 +80,7 @@ The brief describes a paid pardon-lobbying industry (Roger Stone, Ches McDowell/
 - Stone's $600K from Ver was disclosed as exit-tax lobbying, and Ver got a DOJ deferred prosecution deal, not clemency.
 - Ed Martin left the pardon attorney post (announced Aug 21, 2026).
 - CZ is not a personal donor.
-- Blanche is now Attorney General (sworn in Aug 10, 2026).
+- Blanche is now Attorney General (confirmed Aug 8, sworn in Aug 10, 2026).
 
 ## Denials and context
 - The White House denies pay-to-play.
@@ -148,15 +148,17 @@ Checked:
 - SEC dismissal of the Milton civil case after his pardon
 
 Changes:
-- Blanche confirmed: the Senate confirmed him 50-49 and he was sworn in on Aug 10, 2026 (AP via WTOP/Federal News Network; Euronews; Boston Globe), after Trump removed Bondi in April 2026 and Blanche served as acting AG. Added the date to the Oyer sub-claim.
+- Blanche confirmed: the Senate confirmed him 50-49 on Aug 8, 2026 and he was sworn in on Aug 10, 2026 (AP via WTOP/Federal News Network; Euronews; Boston Globe), after Trump removed Bondi in April 2026 and Blanche served as acting AG. Added the date to the Oyer sub-claim.
 - Martin confirmed: Trump announced on Aug 21, 2026 that Martin was leaving DOJ to fight election 'legal battles' (AP via Local10; CBS; Good Morning America); AG Blanche thanked him.
 - Oyer suit, the $1.7B report and the Sep 2025 Milton SEC dismissal confirmed (AP via ABC/Local10, ABA Journal, GovExec; committee release; Law360, Bloomberg Law).
 - Clarified that the 'SEC initiated contact' quote came from Milton's own spokesperson, not the SEC, and noted that Milton's SEC counsel was Brad Bondi. Added the claims in Oyer's complaint. Updated .md.
 - Replaces the earlier wording-only audit (no fresh searches).
+- Cross-file consistency check (Nov 2026): the confirmation vote (50-49, pre-dawn Saturday Aug 8, 2026; Axios) and the swearing-in (Monday Aug 10, 2026; AP) are separate dates. C49, C61, C64 and C65 now all give both.
 
 New sources:
 - WTOP (AP), "Todd Blanche is sworn in as attorney general after bruising confirmation fight", 2026-08-10. https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/
 - Euronews, "Todd Blanche sworn in as US attorney general after bruising confirmation fight", 2026-08-10. https://www.euronews.com/2026/08/10/todd-blanche-sworn-in-as-us-attorney-general-after-bruising-confirmation-fight
+- Axios, "Senate confirms Todd Blanche as attorney general", 2026-08-08. https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed
 - Local10 (AP), "Trump loyalist Ed Martin is leaving the Justice Department to focus on election 'legal battles'", 2026-08-21. https://www.local10.com/news/politics/2026/08/21/trump-loyalist-ed-martin-is-leaving-the-justice-department-to-focus-on-election-legal-battles/
 - CBS News, "Ed Martin leaving Trump administration DOJ", 2026-08-21. https://www.cbsnews.com/news/ed-martin-leaving-trump-administration-doj/
 - ABC News (AP), "Justice Department pardon lawyer who says she was fired in dispute over Mel Gibson's gun rights sues", 2026-09-03. https://abcnews.com/Politics/wireStory/justice-department-pardon-lawyer-fired-dispute-mel-gibsons-136185902

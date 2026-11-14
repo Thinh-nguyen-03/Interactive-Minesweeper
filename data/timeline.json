@@ -158,12 +158,12 @@
  {
   "date": "2024-11",
   "kind": "money",
-  "title": "Justin Sun bought $75M of WLFI tokens from World Liberty Financial",
+  "title": "Justin Sun bought WLFI tokens from World Liberty Financial: $30M in Nov 2024 (see 2024-11-25), topped up by $45M on 2025-01-20 to $75M total; amount left blank here to avoid double counting",
   "parties": [
    "justin-sun",
    "world-liberty-financial"
   ],
-  "amount_usd": 75000000,
+  "amount_usd": null,
   "claims": [
    "C06",
    "C43"
@@ -950,8 +950,8 @@
  },
  {
   "date": "2025-03",
-  "kind": "official",
-  "title": "Josh Gruenbaum reportedly invested $100,001-$250,000 in Databricks-linked Thrive SPV (single-source, WSJ) Thrive Capital",
+  "kind": "money",
+  "title": "Josh Gruenbaum reportedly invested $100,001-$250,000 in Databricks-linked Thrive SPV (single-source, WSJ) Thrive Capital (a personal investment by an official, not an official act)",
   "parties": [
    "josh-gruenbaum",
    "thrive-capital"
@@ -1186,23 +1186,9 @@
   "grade": "documented"
  },
  {
-  "date": "2025-03-27",
-  "kind": "official",
-  "title": "Donald Trump pardoned Trevor Milton",
-  "parties": [
-   "donald-trump",
-   "trevor-milton"
-  ],
-  "amount_usd": null,
-  "claims": [
-   "C61"
-  ],
-  "grade": "documented"
- },
- {
   "date": "2025-03-28",
   "kind": "official",
-  "title": "Donald Trump pardoned Trevor Milton",
+  "title": "Donald Trump pardoned Trevor Milton (Milton announced it 27 Mar; White House confirmed 28 Mar 2025)",
   "parties": [
    "donald-trump",
    "trevor-milton"
@@ -1211,6 +1197,7 @@
   "claims": [
    "C36",
    "C49",
+   "C61",
    "C64",
    "C65"
   ],
@@ -1302,8 +1289,8 @@
  },
  {
   "date": "2025-04-02",
-  "kind": "official",
-  "title": "Pam Bondi sold >$1M of shares on Apr 2, 2025 Trump Media & Technology Group",
+  "kind": "money",
+  "title": "Pam Bondi (then AG) sold $1M-$5M of Trump Media & Technology Group shares on Apr 2, 2025 (a personal transaction by an official, not an official act)",
   "parties": [
    "pam-bondi",
    "trump-media-technology-group"
@@ -1408,7 +1395,7 @@
  {
   "date": "2025-05",
   "kind": "money",
-  "title": "Apollo Global Management Apollo-run trust (partly Qatar-owned) provided $100M Witkoff Group",
+  "title": "Apollo Global Management lent $100M (golf-resort refinancing) to the Witkoff Group; per the NYT correction the lender was Apollo itself, not its Qatar-part-owned trust",
   "parties": [
    "apollo-global-management",
    "witkoff-group"
@@ -2441,21 +2428,6 @@
  {
   "date": "2025-10",
   "kind": "official",
-  "title": "Donald Trump pardoned Changpeng Zhao (CZ)",
-  "parties": [
-   "donald-trump",
-   "changpeng-zhao"
-  ],
-  "amount_usd": null,
-  "claims": [
-   "C10",
-   "C49"
-  ],
-  "grade": "documented"
- },
- {
-  "date": "2025-10",
-  "kind": "official",
   "title": "Donald Trump nominated as CFTC Chair Mike Selig",
   "parties": [
    "donald-trump",
@@ -2591,34 +2563,6 @@
   "grade": "documented"
  },
  {
-  "date": "2025-10-22",
-  "kind": "official",
-  "title": "Donald Trump pardoned Changpeng Zhao (CZ)",
-  "parties": [
-   "donald-trump",
-   "changpeng-zhao"
-  ],
-  "amount_usd": null,
-  "claims": [
-   "C09"
-  ],
-  "grade": "documented"
- },
- {
-  "date": "2025-10-22",
-  "kind": "official",
-  "title": "Donald Trump signed Pardon of Changpeng Zhao",
-  "parties": [
-   "donald-trump",
-   "cz-pardon"
-  ],
-  "amount_usd": null,
-  "claims": [
-   "C09"
-  ],
-  "grade": "documented"
- },
- {
   "date": "2025-10-23",
   "kind": "money",
   "title": "Meteora airdropped about $4.2M of MET to TRUMP-team wallets $TRUMP (Official Trump)",
@@ -2635,15 +2579,19 @@
  {
   "date": "2025-10-23",
   "kind": "official",
-  "title": "Donald Trump pardoned Changpeng Zhao (CZ)",
+  "title": "Donald Trump pardoned Changpeng Zhao (CZ) (signed 22 Oct, announced by the White House 23 Oct 2025)",
   "parties": [
    "changpeng-zhao",
    "donald-trump",
-   "white-house"
+   "white-house",
+   "cz-pardon"
   ],
   "amount_usd": null,
   "claims": [
+   "C09",
+   "C10",
    "C36",
+   "C49",
    "C67",
    "C70"
   ],
@@ -3926,7 +3874,7 @@
  {
   "date": "2026-10-15",
   "kind": "money",
-  "title": "Meta Platforms committed (WaPo leak) White House ballroom",
+  "title": "Meta Platforms committed to the White House ballroom; amount disclosed in the WaPo leak of 2026-10-15 (this is the disclosure date: the gift date is not public, and the donor was named on the 2025-10-23 list)",
   "parties": [
    "meta",
    "white-house-ballroom"
@@ -3940,7 +3888,7 @@
  {
   "date": "2026-10-15",
   "kind": "money",
-  "title": "Amazon committed (WaPo leak) White House ballroom",
+  "title": "Amazon committed to the White House ballroom; amount disclosed in the WaPo leak of 2026-10-15 (this is the disclosure date: the gift date is not public, and the donor was named on the 2025-10-23 list)",
   "parties": [
    "amazon",
    "white-house-ballroom"
@@ -3954,21 +3902,7 @@
  {
   "date": "2026-10-15",
   "kind": "money",
-  "title": "Nvidia committed, anonymously (WaPo leak) White House ballroom",
-  "parties": [
-   "nvidia",
-   "white-house-ballroom"
-  ],
-  "amount_usd": 25000000,
-  "claims": [
-   "C68"
-  ],
-  "grade": "single-source"
- },
- {
-  "date": "2026-10-15",
-  "kind": "money",
-  "title": "Palantir Technologies (PLTR) committed (WaPo leak) White House ballroom",
+  "title": "Palantir Technologies (PLTR) committed to the White House ballroom; amount disclosed in the WaPo leak of 2026-10-15 (this is the disclosure date: the gift date is not public, and the donor was named on the 2025-10-23 list)",
   "parties": [
    "palantir",
    "white-house-ballroom"
@@ -3982,7 +3916,7 @@
  {
   "date": "2026-10-15",
   "kind": "money",
-  "title": "Microsoft committed (WaPo leak) White House ballroom",
+  "title": "Microsoft committed to the White House ballroom; amount disclosed in the WaPo leak of 2026-10-15 (this is the disclosure date: the gift date is not public, and the donor was named on the 2025-10-23 list)",
   "parties": [
    "microsoft",
    "white-house-ballroom"

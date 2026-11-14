@@ -9,7 +9,7 @@ Builds on: C65 (sub-claim on Feinberg and Cerberus), C51 (drone ventures, OSC dr
 1. **The D. Boral SPAC board puts Kollitides beside Kevin McGurn, the Trump sons' SPAC CEO.** *Documented: Bloomberg Government plus D. Boral Acquisition I 8-K filings.*
    - Bloomberg Government reported that D. Boral Acquisition I (Nasdaq: DBCA, a Cayman SPAC) appointed Kollitides, Kevin McGurn and Luisa Ingargiola as directors. Kollitides joined on Feb. 10, 2026, days after taking his Pentagon post. He took an indirect interest in 100,000 founder shares, which Bloomberg valued at up to about $1M.
    - The SPAC's IPO priced on Feb. 10-11, 2026. D. Boral Capital was sole book-runner, and the offering closed at $287.5M.
-   - McGurn is chairman, CEO and CFO of the Trump sons' New America Acquisition I (C27). D. Boral Capital co-led that SPAC's $345M IPO in Dec. 2025. McGurn also became interim CEO of Trump Media on Apr. 21, 2026.
+   - McGurn was chairman, CEO and CFO of the Trump sons' New America Acquisition I (C27); Kyle Wool became chairman on Feb. 6, 2026, and McGurn resigned as CEO and director effective Aug. 5, 2026 (C62, C78). D. Boral Capital co-led that SPAC's $345M IPO in Dec. 2025. McGurn also became interim CEO of Trump Media on Apr. 21, 2026.
    - So for about seven months (Feb. 10 to Sep. 23, 2026) the Pentagon's Economic Defense Unit chief sat on a SPAC board with the man running both the Trump sons' SPAC and the president's media company.
    - Bloomberg says McGurn and Ingargiola serve on boards of several defense-related companies that count Don Jr. and Eric Trump as investors or advisers. That is Bloomberg's characterisation; we did not verify which boards.
    - An 8-K reports that Kollitides resigned as an independent director "for personal reasons" effective Sep. 23, 2026. A second 8-K (Nov. 6, 2026) puts McGurn and Ingargiola on its audit and compensation committees after another director left.
@@ -127,3 +127,5 @@ Result: **upheld**. Re-checked: Kollitides's D. Boral board seat (joined Feb 10,
 - The SGE status is now flagged as single-source in the relationship label.
 
 New sources: SamSearch, https://samsearch.co/government-contracting-news/pentagon-investment-chief-resigns-from-offshore-company-board-amid-governance-concerns-209127 and https://samsearch.co/government-contracting-news/dod-awards-349-million-in-no-bid-consulting-contracts-to-alvarez-marsal-215723; Cato, https://www.cato.org/blog/get-aligned-or-get-left-behind-pentagon
+
+Cross-file consistency (Nov 2026): McGurn is no longer described as CEO of New America Acquisition I; he resigned effective Aug. 5, 2026 (C62, C78). Section 1, the kevin-mcgurn entity and the kevin-mcgurn -> new-america-acquisition-i label are updated.

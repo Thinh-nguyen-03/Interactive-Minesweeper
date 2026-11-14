@@ -8,7 +8,7 @@
 - Navarro and the Vulcan loan
 - Feinberg's Cerberus alumni running Pentagon investment offices
 
-Barrack's pipeline push (Reuters) and Bessent's Argentina swap (Mother Jones and Popular Information) are reported by one outlet or a pair of advocacy-leaning ones. For Quintenz, Gould, Kratsios, Patel, Boulos and Charles Kushner we found ties but no benefiting decision. No ethics office, inspector general or court has found a violation in any of these cases. (Audit, Nov 2026: Bondi was fired as AG on Apr 2, 2026 and Blanche became acting AG.)
+Barrack's pipeline push (Reuters) and Bessent's Argentina swap (Mother Jones and Popular Information) are reported by one outlet or a pair of advocacy-leaning ones. For Quintenz, Gould, Kratsios, Patel, Boulos and Charles Kushner we found ties but no benefiting decision. No ethics office, inspector general or court has found a violation in any of these cases. (Audit, Nov 2026: Bondi was fired as AG on Apr 2, 2026; Blanche was acting AG until the Senate confirmed him 50-49 on Aug 8, 2026, and he was sworn in on Aug 10, 2026.)
 
 Method: we mined C12, C14, C16, C25, C26, C34-C36, C38, C43, C49, C52-C54 and C60, then ran web searches. Many outlets block direct fetch, so most findings rely on search-result text from several outlets. The search budget ran out before every thread could be finished; the gaps are listed at the end.
 
@@ -43,7 +43,7 @@ The brief asks for administration officials whose decisions benefited entities t
 ### 4. Blanche, crypto holdings and the NCET memo (documented)
 - **Holdings and timing.** Blanche held about $159K-$485K of BTC, ETH and SOL when he signed the April 7, 2025 "Ending Regulation by Prosecution" memo, which disbanded NCET.
 - **Divestment.** He divested May 31-June 3, 2025. As reported by the Daily Beast, his June 2025 filing says the holdings "were gifted in their entirety to my grandchild and adult children" rather than sold.
-- He became acting AG on April 2, 2026, when Trump fired Bondi.
+- He became acting AG on April 2, 2026, when Trump fired Bondi. The Senate confirmed him as AG 50-49 on August 8, 2026, and he was sworn in on August 10, 2026 (Axios; AP via WTOP, PBS).
 - **Ethics questions.** Former ethics officials told ProPublica this likely breached 18 U.S.C. 208 and his ethics agreement. Six senators asked on January 28, 2026 whether he had a 208(b)(1) waiver. None has been published.
 - The benefit went to the crypto sector as a whole, not to a former client.
 
@@ -92,7 +92,7 @@ The brief asks for administration officials whose decisions benefited entities t
 - **OSC.** Director David Lorch (since November 2025) is a former Cerberus managing director and is also a senior adviser to Deputy Secretary Feinberg, Cerberus's co-founder.
 - **EDU/BOND.** George Kollitides heads the Economic Defense Unit, which runs BOND; he does not run OSC (C74). He is a former Cerberus MD and a former partner at Alvarez & Marsal Capital.
   - He joined the board of D. Boral Acquisition I six days after his February 4, 2026 appointment. He resigned "for personal reasons" effective September 23, 2026 (8-K, per C74).
-  - On that board he sat with Kevin McGurn, CEO of the Trump sons' New America Acquisition I and interim TMTG CEO (Bloomberg Government, per C74). This is a shared board seat, not evidence of a transaction.
+  - On that board he sat with Kevin McGurn, then CEO of the Trump sons' New America Acquisition I (he resigned effective August 5, 2026) and TMTG interim CEO from April 21, 2026 (Bloomberg Government, per C74). This is a shared board seat, not evidence of a transaction.
   - Alvarez & Marsal Federal won no-bid DoD work worth up to ~$350M, of which about $31M has been paid. ProPublica did not establish that Kollitides chose the firm.
 - **Feinberg.** He placed his Cerberus interests in trusts for his adult children and kept a Cerberus services contract. Warren counts at least four Cerberus-related firms among Golden Dome awardees.
 
@@ -217,7 +217,7 @@ Re-verified:
 - Barrack and TI Capital: upheld; still single-source Reuters, and State denies any interest.
 
 Changes:
-- Bondi was fired on April 2, 2026, and Blanche is acting AG, not AG.
+- Bondi was fired on April 2, 2026, and Blanche became acting AG. (Superseded by the cross-file check below: he was confirmed as AG on August 8, 2026 and sworn in on August 10, 2026.)
 - Blanche's crypto was reportedly gifted in full to relatives.
 - Bondi's sale was required by her ethics agreement.
 - The Securitize merger closed on July 1, 2026.
@@ -225,12 +225,17 @@ Changes:
 - The Kratsios holding has been downgraded to unverified.
 - Kollitides heads the EDU, not OSC, and resigned from the D. Boral board effective September 23, 2026. The McGurn overlap is now documented.
 - Added the Boulos and Beach findings from C75.
+- Cross-file consistency check (Nov 2026): the earlier audit line saying Blanche was only acting AG and that the current holder was not established is superseded. The Senate confirmed Blanche 50-49 in a pre-dawn Saturday vote on August 8, 2026, and he was sworn in at the White House on Monday, August 10, 2026. Summary, Bondi and Blanche findings, correction, entity description and the Blanche-DOJ label are updated to match C49, C61 and C64.
+- Kevin McGurn's entity description no longer calls him CEO of New America Acquisition I; he resigned effective August 5, 2026 (C62, C78).
 
 New sources:
 - CBS News, Bondi's TMTG sale (2025-05): https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day
 - CNN via KVIA, Trump fires Bondi (2026-04-02): https://kvia.com/politics/cnn-us-politics/2026/04/02/trump-fires-pam-bondi-as-attorney-general/
 - Al Jazeera, Bondi and Blanche (2026-04-03): https://www.aljazeera.com/amp/news/2026/4/3/why-did-trump-fire-pam-bondi-from-justice-department-who-is-todd-blanche
 - Daily Beast, Blanche's crypto: https://www.thedailybeast.com/trump-legal-goon-accused-of-breaking-law-over-massive-crypto-holding
+- Axios, Senate confirms Blanche (2026-08-08): https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed
+- WTOP (AP), Blanche sworn in (2026-08-10): https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/
+- PBS NewsHour (AP), Blanche sworn in (2026-08-10): https://www.pbs.org/newshour/politics/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-battle
 - Business Wire, Patomak supervisory board (2025-04-22): https://www.businesswire.com/news/home/20250422466307/en/Patomak-Global-Partners-Announces-New-Supervisory-Board-and-Executive-Committee
 - PR Newswire via StreetInsider, Securitize completes merger (2026-07-01): https://www.streetinsider.com/PRNewswire/Securitize+Completes+Business+Combination+with+Cantor+Equity+Partners+II/26720802.html
 - Hughes Hubbard, CEPT closing: https://www.hugheshubbard.com/news-insights/news/cantor-equity-partners-ii-inc-completes-business-combination-with-securitize

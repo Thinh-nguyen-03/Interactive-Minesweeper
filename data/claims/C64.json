@@ -169,7 +169,7 @@
   "2025 Albanian lobbying by Trump-world operatives (Continental, LaCivita, Manafort) is for Berisha's opposition, not Rama's government, Kushner's partner.",
   "Ballard's access is contested: Politico reports he was frozen out after the Mar 2025 XRP post.",
   "Audit: Patel's one-year Qatar recusal was pledged in Nov 2024 and had expired before he signed the Dec 2025 Doha agreements; it was not a pledge made at the signing.",
-  "Audit: Bondi is former AG (left Apr 2, 2026); Todd Blanche is AG (acting from Apr 2, confirmed Aug 8, 2026)."
+  "Audit: Bondi is former AG (left Apr 2, 2026); Todd Blanche is AG (acting from Apr 2, confirmed 50-49 on Aug 8, sworn in Aug 10, 2026)."
  ],
  "denials_and_context": [
   "Ballard declined to comment to Sludge; Ballard, Miller and Priebus declined comment to CBS on the ballroom.",
@@ -533,6 +533,18 @@
    "publisher": "Law360",
    "url": "https://www.law360.com/bankruptcy-authority/articles/2387230",
    "date": "2025-09"
+  },
+  {
+   "title": "Senate confirms Todd Blanche as attorney general",
+   "publisher": "Axios",
+   "url": "https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed",
+   "date": "2026-08-08"
+  },
+  {
+   "title": "Todd Blanche is sworn in as attorney general after bruising confirmation fight",
+   "publisher": "WTOP (AP)",
+   "url": "https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/",
+   "date": "2026-08-10"
   }
  ],
  "entities": [
@@ -1015,7 +1027,7 @@
   {
    "source": "pam-bondi",
    "target": "us-department-of-justice",
-   "label": "heads (Attorney General)",
+   "label": "headed (Attorney General, Feb 2025 - Apr 2, 2026)",
    "type": "political",
    "date": "2025-02"
   },
@@ -1555,7 +1567,8 @@
    "Pakistan's Seiden Law and Javelin Advisors (Schiller/Sorial) FARA contracts, Apr 2025",
    "Kalshi's $240K to Miller Strategies in H1 2026",
    "Ballard's $60K/month Saudi embassy contract",
-   "Brad Bondi's role for Trevor Milton; Bondi's AG status"
+   "Brad Bondi's role for Trevor Milton; Bondi's AG status",
+   "Blanche's confirmation vs swearing-in dates (cross-file consistency)"
   ],
   "result": "corrected",
   "changes": [
@@ -1563,7 +1576,8 @@
    "Bondi: summary and entity now say she was AG until Apr 2, 2026 (Blanche acting AG, then confirmed Aug 8, 2026).",
    "Brad Bondi: documented role is lead criminal defence counsel while at Cahill; the 'SEC counsel' description is from C36 and was not re-checked, so the statement and relationship label were adjusted.",
    "Upheld: Seiden Law Apr 8, 2025 at $200K/month (some outlets say $125K) and Javelin's Apr 25, 2025 FARA registration, which lists Sorial, Schiller and Robert Seiden as co-owners; Kalshi-Miller $240K (OpenSecrets via Stateline); Ballard-Saudi $60K/month from Mar 31, 2025, still listed in a Mar 2026 FARA supplemental. Verdict and confidence unchanged.",
-   "Relationship labels resting on anonymous or single-outlet reporting now name that sourcing: ballard-partners -> donald-trump."
+   "Relationship labels resting on anonymous or single-outlet reporting now name that sourcing: ballard-partners -> donald-trump.",
+   "AG succession reconciled across C49, C61, C64 and C65: Bondi out Apr 2, 2026; Blanche acting AG from Apr 2, confirmed by the Senate 50-49 in a pre-dawn Saturday vote on Aug 8, 2026 (Axios), sworn in at the White House on Monday Aug 10, 2026 (AP via WTOP, PBS). C64: added the 50-49 vote and Aug 10 swearing-in to the correction; the pam-bondi -> us-department-of-justice label said she 'heads' DOJ and now reads 'headed (Attorney General, Feb 2025 - Apr 2, 2026)'."
   ],
   "new_sources": [
    {
@@ -1613,6 +1627,18 @@
     "publisher": "AP via National Newswatch",
     "url": "https://nationalnewswatch.com/2026/04/02/the-latest-trump-says-pam-bondi-out-as-his-attorney-general-blanche-will-serve-as-acting-ag",
     "date": "2026-04-02"
+   },
+   {
+    "title": "Senate confirms Todd Blanche as attorney general",
+    "publisher": "Axios",
+    "url": "https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed",
+    "date": "2026-08-08"
+   },
+   {
+    "title": "Todd Blanche is sworn in as attorney general after bruising confirmation fight",
+    "publisher": "WTOP (AP)",
+    "url": "https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/",
+    "date": "2026-08-10"
    }
   ]
  }

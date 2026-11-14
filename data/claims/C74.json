@@ -1,1018 +1,1020 @@
 {
-  "id": "C74",
-  "title": "Pentagon investment offices: Cerberus alumni, no-bid contracts and the Trump sons' SPAC underwriter",
-  "verdict": "mostly-accurate",
-  "confidence": "medium",
-  "summary": "Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD) runs OSC, and Kollitides (ex-Cerberus, ex-A&M Capital, a special government employee) runs Feinberg's Economic Defense Unit, which A&M Federal advises under no-bid deals worth up to about $350M. Kollitides sat on D. Boral Acquisition I's board from Feb 10 to Sep 23, 2026, alongside Kevin McGurn, CEO of the Trump sons' D. Boral-underwritten SPAC and interim CEO of Trump Media. OSC lent to Vulcan, PDW and Neros, but not, so far, to Unusual Machines. The Pentagon says Feinberg is recused from Cerberus matters, a single-source report says Lutnick screens Cerberus deals, and no recusal or waiver for Kollitides or Lorch has been published. No reporting shows any Cerberus alum steering a decision toward a Trump-family interest.",
-  "sub_claims": [
-    {
-      "statement": "Deputy Secretary Feinberg is linked to OSC Director David Lorch through Cerberus.",
-      "verdict": "confirmed",
-      "finding": "Evidence grade: documented. The official DoW bio says Lorch has directed OSC since Nov 2025 and is also a senior adviser to Feinberg. Lorch was a managing director on Cerberus's Supply Chain and Strategic Opportunities team. Feinberg co-founded Cerberus. No reporting ties Lorch personally to any specific loan decision.",
-      "sources": [
-        "https://www.war.gov/About/Biographies/Biography/Article/4506870/david-lorch/",
-        "https://www.semafor.com/article/09/02/2026/trumps-venezuela-deal-draws-scrutiny-of-obscure-pentagon-office"
-      ]
-    },
-    {
-      "statement": "Feinberg is linked to George Kollitides through Cerberus; Kollitides heads the Economic Defense Unit.",
-      "verdict": "confirmed",
-      "finding": "Evidence grade: documented for the role and Cerberus history; single-source (Bloomberg Government) for his status as a special government employee. Feinberg appointed Kollitides, a former Cerberus MD who headed its aerospace, government and defense group, to lead the EDU ('Deal Team Six') in Feb 2026 (appointed Feb 4 per C65). The EDU director reports to Feinberg. The unit got more than $266M in FY2026 RDT&E funding. Semafor's recruiting document floated $200B of deals over three years, an aspirational, unaudited figure. The brief's wording ('related offices') is right: Kollitides heads the EDU, not OSC.",
-      "sources": [
-        "https://axios.com/2026/05/06/economic-defense-unit-kollitides-pentagon",
-        "https://www.militarytimes.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/",
-        "https://www.semafor.com/article/03/11/2026/pentagon-headhunting-goldman-jpmorgan-bankers-for-economic-defense-unit",
-        "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties"
-      ]
-    },
-    {
-      "statement": "Alvarez & Marsal received no-bid contracts worth up to about $350M to advise Kollitides's office.",
-      "verdict": "confirmed",
-      "finding": "Evidence grade: documented (ProPublica, Oct 2026, via Defense One/GovExec syndication; contract records). DoD awarded A&M a roughly $67M deal shortly after Kollitides joined the Pentagon. Defense One dates the run of awards to 'since December' 2025, so he appears to have started there before his Feb 2026 EDU appointment; that start date is not otherwise documented, and no contract record found here confirms the $67M award. About two months later it finalised a $281M no-bid contract with Alvarez & Marsal Federal to advise his office, which Defense One calls the Business Operators for National Defense (BOND), for a combined ceiling of about $350M with about $31M paid. Kollitides was a partner at the legally distinct A&M Capital, which says he stopped working as a senior adviser there days before ProPublica's questions arrived. ProPublica did not establish that he chose the firm. The Pentagon says he followed all rules. Experts quoted by GovExec said taking part in a contract affecting one's own finances requires a waiver, and no waiver has been reported. A&M Federal has not published a full list of services under the $281M contract.",
-      "sources": [
-        "https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543",
-        "https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/"
-      ]
-    },
-    {
-      "statement": "Kollitides took a board seat and founder shares at D. Boral Acquisition I while in his Pentagon post.",
-      "verdict": "confirmed",
-      "finding": "Evidence grade: documented (Bloomberg Government; SEC 8-Ks seen via search snippets). He joined the board of the Cayman SPAC on Feb 10, 2026, the week of its IPO, which priced Feb 10-11 and closed at $287.5M with D. Boral Capital as sole book-runner. SEC filings show an indirect interest in 100,000 founder shares, which Bloomberg valued at up to about $1M and which become sellable only on a completed merger. An 8-K reports he resigned 'for personal reasons' effective Sep 23, 2026. The Pentagon declined comment to Bloomberg.",
-      "sources": [
-        "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
-        "https://www.sec.gov/Archives/edgar/data/0002095161/000121390026104218/ea0306801-8k_dboralacq1.htm",
-        "https://finviz.com/news/309854/d-boral-acquisition-i-corp-announces-closing-of-287500000-initial-public-offering-including-full-exercise-of-underwriters-over-allotment-option"
-      ]
-    },
-    {
-      "statement": "On that board Kollitides sat with Kevin McGurn, CEO of the Trump sons' SPAC and interim CEO of Trump Media.",
-      "verdict": "confirmed",
-      "finding": "Evidence grade: documented (Bloomberg Government; Nov 6, 2026 8-K naming McGurn and Luisa Ingargiola to the audit and compensation committees). McGurn is chairman, CEO and CFO of New America Acquisition I (C27) and became TMTG interim CEO on Apr 21, 2026. Kollitides and McGurn were co-directors from about Feb 10 to Sep 23, 2026. Bloomberg says McGurn and Ingargiola sit on boards of several defense-related companies with Trump sons as investors or advisers; we did not verify which boards. This is a shared board seat, not evidence of any transaction between them.",
-      "sources": [
-        "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
-        "https://www.sec.gov/Archives/edgar/data/0002095161/000121390026116912/ea0309298-8k_dboralacq1.htm",
-        "https://www.thewrap.com/media-platforms/journalism/trump-media-company-kevin-mcgurn-interim-ceo/",
-        "https://be.marketscreener.com/insider/LUISA-INGARGIOLA-A0KWO9/"
-      ]
-    },
-    {
-      "statement": "D. Boral Capital, the SPAC's affiliate, co-underwrote the Trump sons' New America SPAC.",
-      "verdict": "confirmed",
-      "finding": "Evidence grade: documented. D. Boral Capital was co-lead book-runner with Dominari Securities on New America Acquisition I's $345M IPO (Dec 2025; C27/C39). D. Boral Capital also received the House CCP committee's March 2026 letter on Chinese small-cap IPOs (C47). David Boral chairs the affiliates, and the SPAC's filings acknowledge possible conflicting interests. D. Boral did not respond to Bloomberg.",
-      "sources": [
-        "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/d.-boral-capital-acted-as-co-lead-bookrunner-to-new-america-acquisit-1115436",
-        "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties"
-      ]
-    },
-    {
-      "statement": "Cerberus-linked firms won Golden Dome work and other large DoD contracts.",
-      "verdict": "mostly-accurate",
-      "finding": "Evidence grade: documented that the awards exist; their values are undisclosed. Per Warren's Apr 27 and Jul 27, 2026 letters, the Pentagon acknowledged that at least four Cerberus-owned or partly owned companies hold Golden Dome contracts, and the letters name North Wind, Stratolaunch and Red River Technology. Eos Energy is also reported. Context: MDA's SHIELD vehicle ($151B ceiling) gave slots to about 2,100 firms, so a slot is not funding. Separately, M1 Support Services ('a Cerberus Capital Management company') won the Army's Flight School Next IDIQ (up to $10B, 26 years) on Aug 13, 2026, against 10 other bidders. DoD says Feinberg has no direct responsibility for Golden Dome acquisitions, although program head Gen. Guetlein reports to him.",
-      "sources": [
-        "https://www.warren.senate.gov/newsroom/press-releases/warren-questions-deputy-secretary-of-defense-on-conflicts-of-interest-involving-dods-golden-dome-missile-defense-program",
-        "https://www.warren.senate.gov/wp-content/uploads/2026/07/Follow-Up-Letter-from-Senator-Warren-to-Stephen-Feinberg-on-Golden-Dome.pdf",
-        "https://www.washingtontechnology.com/contracts/2025/12/mda-awards-1014-companies-slots-151b-golden-dome-contract-vehicle/409903/",
-        "https://www.washingtontechnology.com/contracts/2026/08/army-picks-m1-lead-10b-helicopter-school-transformation/415463/"
-      ]
-    },
-    {
-      "statement": "Feinberg's personal lawyer and Cerberus trust manager represented DoD in the MP Materials deal.",
-      "verdict": "mostly-accurate",
-      "finding": "Evidence grade: single-source (American Prospect, Aug 21, 2026; Waldenberg confirmed it on the record). Alan Waldenberg, outside counsel to Cerberus and to Feinberg and manager of the trust holding Feinberg's Cerberus assets, represented DoD in the July 2025 MP Materials deal: a $400M equity stake, a $150M loan and a 15% government stake. He says Feinberg chose him and ethics staff were informed. DoD says the arrangement complied with the rules. Richard Painter criticised it.",
-      "sources": [
-        "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/"
-      ]
-    },
-    {
-      "statement": "Feinberg's Cerberus trust is exposed to a possible Ligado settlement with DoD.",
-      "verdict": "partly-accurate",
-      "finding": "Evidence grade: single-source (American Prospect, Jul 17, 2026). Ligado, which is Cerberus-backed, is suing DoD; the claim rose from $39-40B to about $50B. The Prospect says Feinberg's trust interest could rise if DoD settles. DoD says any Ligado profit to him would go to a veterans' charity, which it did not name. As of Nov 2, 2026, DOJ was seeking dismissal and no settlement had been reported, so the windfall remains hypothetical.",
-      "sources": [
-        "https://prospect.org/2026/07/17/top-defense-official-could-reap-windfall-from-dod-settlement/",
-        "https://www.advanced-television.com/2026/11/02/us-doj-wants-ligado-50-billion-lawsuit-dismissed/"
-      ]
-    },
-    {
-      "statement": "OSC lent to Vulcan (1789), PDW and Neros, and held talks with Unusual Machines (Don Jr.).",
-      "verdict": "mostly-accurate",
-      "finding": "Evidence grade: documented. Vulcan got a $620M loan (Nov 3, 2025), initiated by Navarro (C26/C65). PDW got a conditional commitment of up to $820M (Jul 31, 2026). Neros got up to $450M (Nov 2, 2026) alongside $165M in equity; DroneXL says the OSC release does not mention a government stake. Unusual Machines was named in the WSJ-reported talks (May 28, 2026), but no OSC release naming it had appeared as of early Nov 2026. Trump-sons-linked Cove Kaz applied to OSC for $400M (FT, May 2026), not reported as approved. All of these came under Lorch's directorship, but nothing ties Lorch or Kollitides to the Vulcan decision; ProPublica attributes that push to Navarro.",
-      "sources": [
-        "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
-        "https://soldiersystems.net/2026/07/31/the-office-of-strategic-capital-signs-820-million-conditional-loan-commitment-with-performance-drone-works-to-expand-domestic-drone-component-manufacturing/",
-        "https://www.suasnews.com/2026/11/department-of-wars-office-of-strategic-capital-signs-conditional-loan-commitment-of-up-to-450-million-with-neros-inc/",
-        "https://dronexl.co/2026/11/02/neros-450m-osc-loan-taxpayer-ownership-stake/",
-        "https://dronexl.co/2026/05/28/pentagon-drone-funding-equity-neros-unusual-machines-pdw/",
-        "https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/"
-      ]
-    },
-    {
-      "statement": "Recusal arrangements exist for Feinberg and the Cerberus alumni.",
-      "verdict": "partly-accurate",
-      "finding": "Evidence grade: partly documented, partly single-source. DoD spokesman Parnell says Feinberg 'has completely divested' from Cerberus and is recused from executive-branch dealings with it. His OGE agreement actually placed his interests in trusts for his adult children (C65). Warren asked him to extend the recusal to his whole tenure and refuse waivers, and no public reply has been found. A US official told Bloomberg (Sep 4, 2026; seen via Briefs and CryptoBriefing) that Cerberus alumni must recuse from Cerberus matters and that such deals are routed to Commerce Secretary Lutnick. Whether Lutnick reviewed M1 or Stratolaunch is unknown. No recusal, waiver or financial disclosure for Kollitides (an SGE) or Lorch has been published. Reuters (Sep 5, 2026) reported that the White House reviewed possible Feinberg successors; Hegseth said he 'isn't going anywhere.'",
-      "sources": [
-        "https://www.briefs.co/news/pentagon-taps-howard-lutnick-to-screen-pentagon-deals-linked/",
-        "https://cryptobriefing.com/lutnick-review-pentagon-cerberus-capital-deals/",
-        "https://www.warren.senate.gov/wp-content/uploads/2026/07/Follow-Up-Letter-from-Senator-Warren-to-Stephen-Feinberg-on-Golden-Dome.pdf",
-        "https://www.militarytimes.com/news/pentagon-congress/2026/09/05/white-house-reviews-candidates-to-replace-hegseth-deputy-sources-say/"
-      ]
-    },
-    {
-      "statement": "Cerberus alumni steered awards or loans toward Trump-family-linked companies.",
-      "verdict": "unverified",
-      "finding": "Evidence grade: none found. No reporting shows Lorch, Kollitides or Feinberg acting on Vulcan, Unusual Machines, Cove Kaz or New America. The D. Boral and McGurn overlap is a shared board, not a transaction. Any steering is inferred only from co-occurrence.",
-      "sources": [
-        "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
-        "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house"
-      ]
-    }
-  ],
-  "corrections": [
-    "C51 gave no figure for PDW's OSC deal: it is a conditional loan commitment of up to $820M (Jul 31, 2026).",
-    "C65 says Kollitides 'later resigned' from D. Boral Acquisition I: the 8-K dates it Sep 23, 2026, citing 'personal reasons'.",
-    "The brief puts Kollitides in OSC-related offices: he heads the separate Economic Defense Unit, which reports to Feinberg; Lorch is the OSC director."
-  ],
-  "denials_and_context": [
-    "Pentagon (Sean Parnell): 'There are no conflicts of interest between Deputy Secretary of War Steve Feinberg and Cerberus'; Kollitides and the department followed all applicable rules; OSC has a multi-layered ethics process.",
-    "Cerberus says Feinberg is not involved in its operations.",
-    "A&M Capital and Alvarez & Marsal Federal are legally distinct; the consulting arm did not answer ProPublica.",
-    "D. Boral Capital and David Boral did not respond to Bloomberg Government.",
-    "SHIELD gave slots to about 2,100 vendors and Flight School Next was competed against 10 other bidders, so winning one is not evidence of favouritism.",
-    "Don Jr. and 1789 deny contacting officials about Vulcan or UMAC (C26/C51).",
-    "No IG or OGE finding of wrongdoing has been reported."
-  ],
-  "sources": [
-    {
-      "title": "Pentagon Investment Arm Director Joined Firm With Defense Ties",
-      "publisher": "Bloomberg Government",
-      "url": "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
-      "date": "2026"
-    },
-    {
-      "title": "D. Boral Acquisition I Form 8-K (Kollitides resignation)",
-      "publisher": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/0002095161/000121390026104218/ea0306801-8k_dboralacq1.htm",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "D. Boral Acquisition I Form 8-K (committee appointments)",
-      "publisher": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/0002095161/000121390026116912/ea0309298-8k_dboralacq1.htm",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "D. Boral Acquisition I closes $287.5M IPO",
-      "publisher": "GlobeNewswire via Finviz",
-      "url": "https://finviz.com/news/309854/d-boral-acquisition-i-corp-announces-closing-of-287500000-initial-public-offering-including-full-exercise-of-underwriters-over-allotment-option",
-      "date": "2026-02-12"
-    },
-    {
-      "title": "D. Boral Capital co-lead bookrunner to New America Acquisition I",
-      "publisher": "ACCESS Newswire",
-      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/d.-boral-capital-acted-as-co-lead-bookrunner-to-new-america-acquisit-1115436",
-      "date": "2025-12-08"
-    },
-    {
-      "title": "Trump Media names Kevin McGurn interim CEO",
-      "publisher": "TheWrap",
-      "url": "https://www.thewrap.com/media-platforms/journalism/trump-media-company-kevin-mcgurn-interim-ceo/",
-      "date": "2026-04-21"
-    },
-    {
-      "title": "Luisa Ingargiola insider profile",
-      "publisher": "MarketScreener",
-      "url": "https://be.marketscreener.com/insider/LUISA-INGARGIOLA-A0KWO9/",
-      "date": "2026"
-    },
-    {
-      "title": "Pentagon gave $350 million in contracts to firm tied to official (ProPublica)",
-      "publisher": "Defense One",
-      "url": "https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543",
-      "date": "2026-10"
-    },
-    {
-      "title": "Pentagon gave $350 million contracts to firm closely tied to senior official (ProPublica)",
-      "publisher": "Government Executive",
-      "url": "https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/",
-      "date": "2026-10"
-    },
-    {
-      "title": "Pentagon's 'Deal Team Six' has big-money ambitions",
-      "publisher": "Axios",
-      "url": "https://axios.com/2026/05/06/economic-defense-unit-kollitides-pentagon",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "Hegseth aims to cut through the bureaucracy with 'Deal Team Six'",
-      "publisher": "Military Times",
-      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/",
-      "date": "2026-05-08"
-    },
-    {
-      "title": "Pentagon headhunting Goldman, JPMorgan bankers for Economic Defense Unit",
-      "publisher": "Semafor",
-      "url": "https://www.semafor.com/article/03/11/2026/pentagon-headhunting-goldman-jpmorgan-bankers-for-economic-defense-unit",
-      "date": "2026-03-11"
-    },
-    {
-      "title": "David Lorch biography",
-      "publisher": "Department of War",
-      "url": "https://www.war.gov/About/Biographies/Biography/Article/4506870/david-lorch/",
-      "date": "2025-11"
-    },
-    {
-      "title": "Warren questions Feinberg on Golden Dome conflicts",
-      "publisher": "Office of Sen. Warren",
-      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-questions-deputy-secretary-of-defense-on-conflicts-of-interest-involving-dods-golden-dome-missile-defense-program",
-      "date": "2026-04-27"
-    },
-    {
-      "title": "Follow-up letter to Feinberg on Golden Dome",
-      "publisher": "Office of Sen. Warren",
-      "url": "https://www.warren.senate.gov/wp-content/uploads/2026/07/Follow-Up-Letter-from-Senator-Warren-to-Stephen-Feinberg-on-Golden-Dome.pdf",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "MDA awards 1,014 companies slots on $151B Golden Dome contract vehicle",
-      "publisher": "Washington Technology",
-      "url": "https://www.washingtontechnology.com/contracts/2025/12/mda-awards-1014-companies-slots-151b-golden-dome-contract-vehicle/409903/",
-      "date": "2025-12"
-    },
-    {
-      "title": "Top Pentagon official contracted personal lawyer to handle minerals deal",
-      "publisher": "The American Prospect",
-      "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Top defense official could reap windfall from DOD settlement",
-      "publisher": "The American Prospect",
-      "url": "https://prospect.org/2026/07/17/top-defense-official-could-reap-windfall-from-dod-settlement/",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "US DoJ wants Ligado $50 billion lawsuit dismissed",
-      "publisher": "Advanced Television",
-      "url": "https://www.advanced-television.com/2026/11/02/us-doj-wants-ligado-50-billion-lawsuit-dismissed/",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "Army picks M1 to lead $10B helicopter-school transformation",
-      "publisher": "Washington Technology",
-      "url": "https://www.washingtontechnology.com/contracts/2026/08/army-picks-m1-lead-10b-helicopter-school-transformation/415463/",
-      "date": "2026-08"
-    },
-    {
-      "title": "Pentagon taps Howard Lutnick to screen Pentagon deals linked to Cerberus",
-      "publisher": "Briefs (citing Bloomberg)",
-      "url": "https://www.briefs.co/news/pentagon-taps-howard-lutnick-to-screen-pentagon-deals-linked/",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Commerce Secretary Lutnick tapped to review Pentagon's Cerberus Capital deals",
-      "publisher": "CryptoBriefing",
-      "url": "https://cryptobriefing.com/lutnick-review-pentagon-cerberus-capital-deals/",
-      "date": "2026-09"
-    },
-    {
-      "title": "White House reviews candidates to replace Hegseth deputy Feinberg (Reuters)",
-      "publisher": "Military Times",
-      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/09/05/white-house-reviews-candidates-to-replace-hegseth-deputy-sources-say/",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "OSC signs $820M conditional loan commitment with Performance Drone Works",
-      "publisher": "Soldier Systems Daily",
-      "url": "https://soldiersystems.net/2026/07/31/the-office-of-strategic-capital-signs-820-million-conditional-loan-commitment-with-performance-drone-works-to-expand-domestic-drone-component-manufacturing/",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "OSC signs conditional loan commitment of up to $450M with Neros",
-      "publisher": "sUAS News",
-      "url": "https://www.suasnews.com/2026/11/department-of-wars-office-of-strategic-capital-signs-conditional-loan-commitment-of-up-to-450-million-with-neros-inc/",
-      "date": "2026-11"
-    },
-    {
-      "title": "Neros $450M OSC loan",
-      "publisher": "DroneXL",
-      "url": "https://dronexl.co/2026/11/02/neros-450m-osc-loan-taxpayer-ownership-stake/",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "Pentagon drone funding talks with Neros, Unusual Machines, PDW",
-      "publisher": "DroneXL",
-      "url": "https://dronexl.co/2026/05/28/pentagon-drone-funding-equity-neros-unusual-machines-pdw/",
-      "date": "2026-05-28"
-    },
-    {
-      "title": "Pentagon may add $400 million to Kazakh tungsten project linked to Trump's sons",
-      "publisher": "Orda.kz",
-      "url": "https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/",
-      "date": "2026-05"
-    },
-    {
-      "title": "White House intervened to get $620M deal for Vulcan Elements",
-      "publisher": "ProPublica",
-      "url": "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
-      "date": "2026-05-28"
-    }
-  ],
-  "entities": [
-    {
-      "id": "steve-feinberg",
-      "name": "Stephen Feinberg",
-      "type": "person",
-      "description": "Deputy Secretary of Defense; Cerberus co-founder"
-    },
-    {
-      "id": "cerberus-capital-management",
-      "name": "Cerberus Capital Management",
-      "type": "fund",
-      "description": "Feinberg's firm; alumni lead OSC and the EDU"
-    },
-    {
-      "id": "david-lorch",
-      "name": "David Lorch",
-      "type": "person",
-      "description": "OSC director since Nov 2025; ex-Cerberus MD; senior adviser to Feinberg"
-    },
-    {
-      "id": "george-kollitides",
-      "name": "George Kollitides",
-      "type": "person",
-      "description": "Economic Defense Unit director (SGE); ex-Cerberus MD; ex-A&M Capital partner"
-    },
-    {
-      "id": "economic-defense-unit",
-      "name": "Economic Defense Unit ('Deal Team Six')",
-      "type": "government",
-      "description": "Pentagon deal unit reporting to Feinberg"
-    },
-    {
-      "id": "office-of-strategic-capital",
-      "name": "Office of Strategic Capital",
-      "type": "government",
-      "description": "Pentagon lender; director David Lorch"
-    },
-    {
-      "id": "pentagon",
-      "name": "Pentagon / Department of War",
-      "type": "government",
-      "description": "US Department of Defense"
-    },
-    {
-      "id": "pete-hegseth",
-      "name": "Pete Hegseth",
-      "type": "person",
-      "description": "Secretary of Defense/War"
-    },
-    {
-      "id": "alvarez-marsal-federal",
-      "name": "Alvarez & Marsal Federal",
-      "type": "company",
-      "description": "Consultancy with up to ~$350M in no-bid DoD contracts advising the EDU"
-    },
-    {
-      "id": "am-capital",
-      "name": "A&M Capital",
-      "type": "fund",
-      "description": "Alvarez & Marsal-affiliated investment firm; Kollitides a former partner and senior adviser"
-    },
-    {
-      "id": "d-boral-acquisition-i",
-      "name": "D. Boral Acquisition I",
-      "type": "company",
-      "description": "Cayman SPAC (DBCA), $287.5M IPO Feb 2026; Kollitides a director Feb-Sep 2026"
-    },
-    {
-      "id": "d-boral-capital",
-      "name": "D. Boral Capital",
-      "type": "company",
-      "description": "Investment bank; co-led the Trump sons' NWAX SPAC IPO"
-    },
-    {
-      "id": "david-boral",
-      "name": "David Boral",
-      "type": "person",
-      "description": "Chairman of D. Boral Capital and its SPAC affiliates"
-    },
-    {
-      "id": "kevin-mcgurn",
-      "name": "Kevin McGurn",
-      "type": "person",
-      "description": "CEO of New America Acquisition I; interim CEO of TMTG; D. Boral Acquisition I director"
-    },
-    {
-      "id": "luisa-ingargiola",
-      "name": "Luisa Ingargiola",
-      "type": "person",
-      "description": "D. Boral Acquisition I director; boards of several small caps"
-    },
-    {
-      "id": "new-america-acquisition-i",
-      "name": "New America Acquisition I",
-      "type": "company",
-      "description": "Trump sons-linked SPAC, $345M IPO Dec 2025"
-    },
-    {
-      "id": "trump-media-technology-group",
-      "name": "Trump Media & Technology Group",
-      "type": "company",
-      "description": "Trump's media company; McGurn interim CEO from Apr 2026"
-    },
-    {
-      "id": "dominari-holdings",
-      "name": "Dominari Holdings",
-      "type": "company",
-      "description": "Trump sons-linked broker; co-underwriter of NWAX"
-    },
-    {
-      "id": "donald-trump-jr",
-      "name": "Donald Trump Jr.",
-      "type": "person",
-      "description": "President's son; 1789 partner; Unusual Machines adviser"
-    },
-    {
-      "id": "eric-trump",
-      "name": "Eric Trump",
-      "type": "person",
-      "description": "President's son; backer of New America and Dominari ventures"
-    },
-    {
-      "id": "donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
-      "description": "President"
-    },
-    {
-      "id": "1789-capital",
-      "name": "1789 Capital",
-      "type": "fund",
-      "description": "Don Jr.-linked fund; invested in Vulcan Elements"
-    },
-    {
-      "id": "vulcan-elements",
-      "name": "Vulcan Elements",
-      "type": "company",
-      "description": "Magnet maker; $620M OSC loan"
-    },
-    {
-      "id": "peter-navarro",
-      "name": "Peter Navarro",
-      "type": "person",
-      "description": "White House adviser who initiated the Vulcan loan"
-    },
-    {
-      "id": "performance-drone-works",
-      "name": "Performance Drone Works (PDW)",
-      "type": "company",
-      "description": "Drone maker; up to $820M conditional OSC loan"
-    },
-    {
-      "id": "neros",
-      "name": "Neros",
-      "type": "company",
-      "description": "Drone maker; up to $450M conditional OSC loan"
-    },
-    {
-      "id": "unusual-machines",
-      "name": "Unusual Machines",
-      "type": "company",
-      "description": "Don Jr.-advised drone parts maker; in OSC talks, no loan announced"
-    },
-    {
-      "id": "cove-kaz-capital",
-      "name": "Cove Kaz Capital",
-      "type": "company",
-      "description": "Kazakh tungsten developer; requested $400M from OSC"
-    },
-    {
-      "id": "howard-lutnick",
-      "name": "Howard Lutnick",
-      "type": "person",
-      "description": "Commerce Secretary; reportedly screens Cerberus-linked Pentagon deals"
-    },
-    {
-      "id": "cantor-fitzgerald",
-      "name": "Cantor Fitzgerald",
-      "type": "company",
-      "description": "Lutnick family firm; reported backer and prime broker of Cerberus funds"
-    },
-    {
-      "id": "alan-waldenberg",
-      "name": "Alan Waldenberg",
-      "type": "person",
-      "description": "Cerberus and Feinberg lawyer and trust manager; represented DoD on MP Materials deal"
-    },
-    {
-      "id": "mp-materials",
-      "name": "MP Materials",
-      "type": "company",
-      "description": "Rare-earth miner; July 2025 DoD equity and loan deal"
-    },
-    {
-      "id": "ligado-networks",
-      "name": "Ligado Networks",
-      "type": "company",
-      "description": "Cerberus-backed satellite firm suing DoD for ~$50B"
-    },
-    {
-      "id": "m1-support-services",
-      "name": "M1 Support Services",
-      "type": "company",
-      "description": "Cerberus company; won up-to-$10B Army Flight School Next"
-    },
-    {
-      "id": "stratolaunch",
-      "name": "Stratolaunch",
-      "type": "company",
-      "description": "Cerberus-owned hypersonic test firm; Golden Dome awardee per Warren"
-    },
-    {
-      "id": "north-wind",
-      "name": "North Wind",
-      "type": "company",
-      "description": "Cerberus-related Golden Dome awardee per Warren"
-    },
-    {
-      "id": "red-river-technology",
-      "name": "Red River Technology",
-      "type": "company",
-      "description": "Cerberus-related Golden Dome awardee per Warren"
-    },
-    {
-      "id": "golden-dome",
-      "name": "Golden Dome",
-      "type": "product",
-      "description": "US missile-defense program; SHIELD vehicle $151B ceiling"
-    },
-    {
-      "id": "elizabeth-warren",
-      "name": "Elizabeth Warren",
-      "type": "person",
-      "description": "Senator pressing Feinberg on Cerberus conflicts"
-    },
-    {
-      "id": "sean-parnell",
-      "name": "Sean Parnell",
-      "type": "person",
-      "description": "Pentagon spokesman"
-    },
-    {
-      "id": "propublica",
-      "name": "ProPublica",
-      "type": "media",
-      "description": "Reported the A&M contracts and the Vulcan deal"
-    },
-    {
-      "id": "bloomberg",
-      "name": "Bloomberg / Bloomberg Government",
-      "type": "media",
-      "description": "Reported Kollitides's SPAC board seat and the Lutnick screening"
-    },
-    {
-      "id": "american-prospect",
-      "name": "The American Prospect",
-      "type": "media",
-      "description": "Reported the Waldenberg and Ligado stories"
-    },
-    {
-      "id": "white-house",
-      "name": "White House",
-      "type": "government",
-      "description": "Executive Office of the President"
-    }
-  ],
-  "relationships": [
-    {
-      "source": "steve-feinberg",
-      "target": "cerberus-capital-management",
-      "label": "co-founder; interests in trusts for children",
-      "type": "ownership",
-      "date": "2025"
-    },
-    {
-      "source": "steve-feinberg",
-      "target": "pentagon",
-      "label": "Deputy Secretary",
-      "type": "political",
-      "date": "2025-03"
-    },
-    {
-      "source": "david-lorch",
-      "target": "cerberus-capital-management",
-      "label": "former managing director",
-      "type": "commercial"
-    },
-    {
-      "source": "david-lorch",
-      "target": "office-of-strategic-capital",
-      "label": "director",
-      "type": "political",
-      "date": "2025-11"
-    },
-    {
-      "source": "david-lorch",
-      "target": "steve-feinberg",
-      "label": "senior adviser to",
-      "type": "advisory",
-      "date": "2025-11"
-    },
-    {
-      "source": "george-kollitides",
-      "target": "cerberus-capital-management",
-      "label": "former MD, aerospace/government/defense",
-      "type": "commercial"
-    },
-    {
-      "source": "george-kollitides",
-      "target": "economic-defense-unit",
-      "label": "director (SGE per Bloomberg Government, single-source)",
-      "type": "political",
-      "date": "2026-02"
-    },
-    {
-      "source": "economic-defense-unit",
-      "target": "steve-feinberg",
-      "label": "reports to",
-      "type": "political",
-      "date": "2026-02"
-    },
-    {
-      "source": "george-kollitides",
-      "target": "am-capital",
-      "label": "former partner; senior adviser until ~Oct 2026",
-      "type": "commercial"
-    },
-    {
-      "source": "am-capital",
-      "target": "alvarez-marsal-federal",
-      "label": "affiliate",
-      "type": "ownership"
-    },
-    {
-      "source": "pentagon",
-      "target": "alvarez-marsal-federal",
-      "label": "no-bid contracts (~$67M + $281M) advising Kollitides's office",
-      "type": "money",
-      "date": "2025-12/2026",
-      "amount_usd": 348000000
-    },
-    {
-      "source": "george-kollitides",
-      "target": "d-boral-acquisition-i",
-      "label": "director with 100,000 founder shares; resigned Sep 23, 2026",
-      "type": "commercial",
-      "date": "2026-02-10"
-    },
-    {
-      "source": "kevin-mcgurn",
-      "target": "d-boral-acquisition-i",
-      "label": "director",
-      "type": "commercial",
-      "date": "2026"
-    },
-    {
-      "source": "luisa-ingargiola",
-      "target": "d-boral-acquisition-i",
-      "label": "director",
-      "type": "commercial",
-      "date": "2026"
-    },
-    {
-      "source": "george-kollitides",
-      "target": "kevin-mcgurn",
-      "label": "co-directors at D. Boral Acquisition I (Feb-Sep 2026)",
-      "type": "commercial",
-      "date": "2026-02"
-    },
-    {
-      "source": "d-boral-capital",
-      "target": "d-boral-acquisition-i",
-      "label": "affiliate; sole book-runner of $287.5M IPO",
-      "type": "ownership",
-      "date": "2026-02",
-      "amount_usd": 287500000
-    },
-    {
-      "source": "david-boral",
-      "target": "d-boral-capital",
-      "label": "chairman",
-      "type": "ownership"
-    },
-    {
-      "source": "d-boral-capital",
-      "target": "new-america-acquisition-i",
-      "label": "co-lead underwriter of $345M IPO",
-      "type": "commercial",
-      "date": "2025-12",
-      "amount_usd": 345000000
-    },
-    {
-      "source": "dominari-holdings",
-      "target": "new-america-acquisition-i",
-      "label": "co-lead underwriter",
-      "type": "commercial",
-      "date": "2025-12"
-    },
-    {
-      "source": "kevin-mcgurn",
-      "target": "new-america-acquisition-i",
-      "label": "chairman, CEO and CFO",
-      "type": "commercial"
-    },
-    {
-      "source": "kevin-mcgurn",
-      "target": "trump-media-technology-group",
-      "label": "interim CEO",
-      "type": "commercial",
-      "date": "2026-04-21"
-    },
-    {
-      "source": "eric-trump",
-      "target": "new-america-acquisition-i",
-      "label": "backer",
-      "type": "ownership"
-    },
-    {
-      "source": "donald-trump-jr",
-      "target": "new-america-acquisition-i",
-      "label": "backer",
-      "type": "ownership"
-    },
-    {
-      "source": "office-of-strategic-capital",
-      "target": "vulcan-elements",
-      "label": "$620M loan",
-      "type": "money",
-      "date": "2025-11-03",
-      "amount_usd": 620000000
-    },
-    {
-      "source": "1789-capital",
-      "target": "vulcan-elements",
-      "label": "Series A investor",
-      "type": "money",
-      "date": "2025-08"
-    },
-    {
-      "source": "peter-navarro",
-      "target": "vulcan-elements",
-      "label": "initiated OSC loan request",
-      "type": "political",
-      "date": "2025"
-    },
-    {
-      "source": "office-of-strategic-capital",
-      "target": "performance-drone-works",
-      "label": "conditional loan commitment up to $820M",
-      "type": "money",
-      "date": "2026-07-31",
-      "amount_usd": 820000000
-    },
-    {
-      "source": "office-of-strategic-capital",
-      "target": "neros",
-      "label": "conditional loan commitment up to $450M",
-      "type": "money",
-      "date": "2026-11-02",
-      "amount_usd": 450000000
-    },
-    {
-      "source": "office-of-strategic-capital",
-      "target": "unusual-machines",
-      "label": "reported funding talks; no deal announced",
-      "type": "commercial",
-      "date": "2026-05-28"
-    },
-    {
-      "source": "donald-trump-jr",
-      "target": "unusual-machines",
-      "label": "adviser and shareholder",
-      "type": "advisory"
-    },
-    {
-      "source": "cove-kaz-capital",
-      "target": "office-of-strategic-capital",
-      "label": "applied for $400M",
-      "type": "money",
-      "date": "2026-05",
-      "amount_usd": 400000000
-    },
-    {
-      "source": "howard-lutnick",
-      "target": "cerberus-capital-management",
-      "label": "reportedly screens Pentagon deals involving it",
-      "type": "regulatory",
-      "date": "2026-09"
-    },
-    {
-      "source": "cantor-fitzgerald",
-      "target": "cerberus-capital-management",
-      "label": "reported backer and prime broker since 2012",
-      "type": "commercial"
-    },
-    {
-      "source": "howard-lutnick",
-      "target": "cantor-fitzgerald",
-      "label": "former chairman; family-controlled",
-      "type": "family"
-    },
-    {
-      "source": "alan-waldenberg",
-      "target": "steve-feinberg",
-      "label": "personal lawyer; manages Cerberus trust",
-      "type": "legal"
-    },
-    {
-      "source": "alan-waldenberg",
-      "target": "cerberus-capital-management",
-      "label": "outside counsel",
-      "type": "legal"
-    },
-    {
-      "source": "alan-waldenberg",
-      "target": "pentagon",
-      "label": "represented DoD on MP Materials deal",
-      "type": "legal",
-      "date": "2025-07"
-    },
-    {
-      "source": "pentagon",
-      "target": "mp-materials",
-      "label": "$400M equity + $150M loan",
-      "type": "money",
-      "date": "2025-07",
-      "amount_usd": 550000000
-    },
-    {
-      "source": "ligado-networks",
-      "target": "pentagon",
-      "label": "suing for ~$50B",
-      "type": "legal",
-      "date": "2026"
-    },
-    {
-      "source": "cerberus-capital-management",
-      "target": "ligado-networks",
-      "label": "backer",
-      "type": "ownership"
-    },
-    {
-      "source": "cerberus-capital-management",
-      "target": "m1-support-services",
-      "label": "owner",
-      "type": "ownership"
-    },
-    {
-      "source": "pentagon",
-      "target": "m1-support-services",
-      "label": "Flight School Next IDIQ up to $10B",
-      "type": "money",
-      "date": "2026-08-13",
-      "amount_usd": 10000000000
-    },
-    {
-      "source": "cerberus-capital-management",
-      "target": "stratolaunch",
-      "label": "owner",
-      "type": "ownership"
-    },
-    {
-      "source": "stratolaunch",
-      "target": "golden-dome",
-      "label": "awardee (per Warren)",
-      "type": "commercial",
-      "date": "2026"
-    },
-    {
-      "source": "north-wind",
-      "target": "golden-dome",
-      "label": "awardee (per Warren)",
-      "type": "commercial",
-      "date": "2026"
-    },
-    {
-      "source": "red-river-technology",
-      "target": "golden-dome",
-      "label": "awardee (per Warren)",
-      "type": "commercial",
-      "date": "2026"
-    },
-    {
-      "source": "elizabeth-warren",
-      "target": "steve-feinberg",
-      "label": "letters on Cerberus conflicts",
-      "type": "political",
-      "date": "2026-04-27"
-    },
-    {
-      "source": "pete-hegseth",
-      "target": "steve-feinberg",
-      "label": "publicly backs him",
-      "type": "political",
-      "date": "2026-09-05"
-    },
-    {
-      "source": "donald-trump",
-      "target": "steve-feinberg",
-      "label": "appointed",
-      "type": "political",
-      "date": "2025-03"
-    }
-  ],
-  "leads": [
-    {
-      "title": "Kollitides co-director Luisa Ingargiola's other boards",
-      "why_connected": "Bloomberg says she and McGurn sit on boards of defense-related firms with Trump-son investors; which ones is unverified.",
-      "entities": [
-        "luisa-ingargiola",
-        "kevin-mcgurn",
-        "d-boral-acquisition-i"
-      ],
-      "source_url": "https://be.marketscreener.com/insider/LUISA-INGARGIOLA-A0KWO9/"
-    },
-    {
-      "title": "Lutnick as screener of Cerberus-linked Pentagon deals",
-      "why_connected": "Cantor reportedly backs Cerberus funds; scope and use of the screening unknown (M1, Stratolaunch).",
-      "entities": [
-        "howard-lutnick",
-        "cantor-fitzgerald",
-        "cerberus-capital-management"
-      ],
-      "source_url": "https://www.briefs.co/news/pentagon-taps-howard-lutnick-to-screen-pentagon-deals-linked/"
-    },
-    {
-      "title": "Ligado-DoD ~$50B takings case and Feinberg's trust",
-      "why_connected": "A settlement would benefit a Cerberus portfolio firm whose owner is the Deputy Secretary; DOJ seeking dismissal.",
-      "entities": [
-        "ligado-networks",
-        "steve-feinberg",
-        "cerberus-capital-management"
-      ],
-      "source_url": "https://prospect.org/2026/07/17/top-defense-official-could-reap-windfall-from-dod-settlement/"
-    },
-    {
-      "title": "Waldenberg's role on other DoD deals",
-      "why_connected": "Feinberg's personal and trust lawyer acted for DoD on MP Materials; DoD did not say whether he worked on others.",
-      "entities": [
-        "alan-waldenberg",
-        "mp-materials",
-        "steve-feinberg"
-      ],
-      "source_url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/"
-    },
-    {
-      "title": "OSC/White House Venezuela oil equity stake",
-      "why_connected": "Semafor reports scrutiny of OSC's role in a 35% Venezuelan oil equity stake despite loan-only statute.",
-      "entities": [
-        "office-of-strategic-capital",
-        "david-lorch",
-        "white-house"
-      ],
-      "source_url": "https://www.semafor.com/article/09/02/2026/trumps-venezuela-deal-draws-scrutiny-of-obscure-pentagon-office"
-    },
-    {
-      "title": "M1 Support Services' $10B Flight School Next award",
-      "why_connected": "Cerberus company wins one of the largest Army training contracts under Feinberg; recusal/Lutnick review unknown.",
-      "entities": [
-        "m1-support-services",
-        "cerberus-capital-management",
-        "steve-feinberg"
-      ],
-      "source_url": "https://www.washingtontechnology.com/contracts/2026/08/army-picks-m1-lead-10b-helicopter-school-transformation/415463/"
-    }
-  ],
-  "audit": {
-    "checked": [
-      "Kollitides's board seat, founder shares and resignation at D. Boral Acquisition I",
-      "Alvarez & Marsal no-bid contract figures ($67M + $281M, ~$31M paid) and timing",
-      "Pentagon and other parties' responses"
-    ],
-    "result": "upheld",
-    "changes": [
-      "A&M: kept the figures. Added that Defense One dates the awards to 'since December' 2025, so the first award came before Kollitides's Feb 2026 EDU appointment (he appears to have joined the Pentagon earlier). Added that ProPublica/Defense One name the advised office BOND (Business Operators for National Defense). The relationship date is now 2025-12/2026, and the label no longer says EDU. The $67M award is not confirmed by a contract record found here.",
-      "Marked the SGE status as single-source in the relationship label.",
-      "Board seat, the Feb 10 joining date, founder shares, the Sep 23, 2026 resignation and the Pentagon's declined comment were re-confirmed (Bloomberg Government; SamSearch relays the resignation)."
-    ],
-    "new_sources": [
-      {
-        "title": "Pentagon investment chief resigns from offshore company board amid governance concerns",
-        "publisher": "SamSearch",
-        "url": "https://samsearch.co/government-contracting-news/pentagon-investment-chief-resigns-from-offshore-company-board-amid-governance-concerns-209127",
-        "date": "2026-09"
-      },
-      {
-        "title": "DoD awards $349 million in no-bid consulting contracts to Alvarez & Marsal",
-        "publisher": "SamSearch",
-        "url": "https://samsearch.co/government-contracting-news/dod-awards-349-million-in-no-bid-consulting-contracts-to-alvarez-marsal-215723",
-        "date": "2026-10"
-      },
-      {
-        "title": "Get aligned or get left behind (Pentagon)",
-        "publisher": "Cato Institute",
-        "url": "https://www.cato.org/blog/get-aligned-or-get-left-behind-pentagon",
-        "date": "2026-07-29"
-      }
-    ]
+ "id": "C74",
+ "title": "Pentagon investment offices: Cerberus alumni, no-bid contracts and the Trump sons' SPAC underwriter",
+ "verdict": "mostly-accurate",
+ "confidence": "medium",
+ "summary": "Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD) runs OSC, and Kollitides (ex-Cerberus, ex-A&M Capital, a special government employee) runs Feinberg's Economic Defense Unit, which A&M Federal advises under no-bid deals worth up to about $350M. Kollitides sat on D. Boral Acquisition I's board from Feb 10 to Sep 23, 2026, alongside Kevin McGurn, CEO of the Trump sons' D. Boral-underwritten SPAC and interim CEO of Trump Media. OSC lent to Vulcan, PDW and Neros, but not, so far, to Unusual Machines. The Pentagon says Feinberg is recused from Cerberus matters, a single-source report says Lutnick screens Cerberus deals, and no recusal or waiver for Kollitides or Lorch has been published. No reporting shows any Cerberus alum steering a decision toward a Trump-family interest.",
+ "sub_claims": [
+  {
+   "statement": "Deputy Secretary Feinberg is linked to OSC Director David Lorch through Cerberus.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented. The official DoW bio says Lorch has directed OSC since Nov 2025 and is also a senior adviser to Feinberg. Lorch was a managing director on Cerberus's Supply Chain and Strategic Opportunities team. Feinberg co-founded Cerberus. No reporting ties Lorch personally to any specific loan decision.",
+   "sources": [
+    "https://www.war.gov/About/Biographies/Biography/Article/4506870/david-lorch/",
+    "https://www.semafor.com/article/09/02/2026/trumps-venezuela-deal-draws-scrutiny-of-obscure-pentagon-office"
+   ]
+  },
+  {
+   "statement": "Feinberg is linked to George Kollitides through Cerberus; Kollitides heads the Economic Defense Unit.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented for the role and Cerberus history; single-source (Bloomberg Government) for his status as a special government employee. Feinberg appointed Kollitides, a former Cerberus MD who headed its aerospace, government and defense group, to lead the EDU ('Deal Team Six') in Feb 2026 (appointed Feb 4 per C65). The EDU director reports to Feinberg. The unit got more than $266M in FY2026 RDT&E funding. Semafor's recruiting document floated $200B of deals over three years, an aspirational, unaudited figure. The brief's wording ('related offices') is right: Kollitides heads the EDU, not OSC.",
+   "sources": [
+    "https://axios.com/2026/05/06/economic-defense-unit-kollitides-pentagon",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/",
+    "https://www.semafor.com/article/03/11/2026/pentagon-headhunting-goldman-jpmorgan-bankers-for-economic-defense-unit",
+    "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties"
+   ]
+  },
+  {
+   "statement": "Alvarez & Marsal received no-bid contracts worth up to about $350M to advise Kollitides's office.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (ProPublica, Oct 2026, via Defense One/GovExec syndication; contract records). DoD awarded A&M a roughly $67M deal shortly after Kollitides joined the Pentagon. Defense One dates the run of awards to 'since December' 2025, so he appears to have started there before his Feb 2026 EDU appointment; that start date is not otherwise documented, and no contract record found here confirms the $67M award. About two months later it finalised a $281M no-bid contract with Alvarez & Marsal Federal to advise his office, which Defense One calls the Business Operators for National Defense (BOND), for a combined ceiling of about $350M with about $31M paid. Kollitides was a partner at the legally distinct A&M Capital, which says he stopped working as a senior adviser there days before ProPublica's questions arrived. ProPublica did not establish that he chose the firm. The Pentagon says he followed all rules. Experts quoted by GovExec said taking part in a contract affecting one's own finances requires a waiver, and no waiver has been reported. A&M Federal has not published a full list of services under the $281M contract.",
+   "sources": [
+    "https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543",
+    "https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/"
+   ]
+  },
+  {
+   "statement": "Kollitides took a board seat and founder shares at D. Boral Acquisition I while in his Pentagon post.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (Bloomberg Government; SEC 8-Ks seen via search snippets). He joined the board of the Cayman SPAC on Feb 10, 2026, the week of its IPO, which priced Feb 10-11 and closed at $287.5M with D. Boral Capital as sole book-runner. SEC filings show an indirect interest in 100,000 founder shares, which Bloomberg valued at up to about $1M and which become sellable only on a completed merger. An 8-K reports he resigned 'for personal reasons' effective Sep 23, 2026. The Pentagon declined comment to Bloomberg.",
+   "sources": [
+    "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
+    "https://www.sec.gov/Archives/edgar/data/0002095161/000121390026104218/ea0306801-8k_dboralacq1.htm",
+    "https://finviz.com/news/309854/d-boral-acquisition-i-corp-announces-closing-of-287500000-initial-public-offering-including-full-exercise-of-underwriters-over-allotment-option"
+   ]
+  },
+  {
+   "statement": "On that board Kollitides sat with Kevin McGurn, CEO of the Trump sons' SPAC and interim CEO of Trump Media.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (Bloomberg Government; Nov 6, 2026 8-K naming McGurn and Luisa Ingargiola to the audit and compensation committees). McGurn was CEO (earlier also chairman and CFO) of New America Acquisition I until he resigned effective Aug 5, 2026 (C27, C62, C78) and became TMTG interim CEO on Apr 21, 2026. Kollitides and McGurn were co-directors from about Feb 10 to Sep 23, 2026. Bloomberg says McGurn and Ingargiola sit on boards of several defense-related companies with Trump sons as investors or advisers; we did not verify which boards. This is a shared board seat, not evidence of any transaction between them.",
+   "sources": [
+    "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
+    "https://www.sec.gov/Archives/edgar/data/0002095161/000121390026116912/ea0309298-8k_dboralacq1.htm",
+    "https://www.thewrap.com/media-platforms/journalism/trump-media-company-kevin-mcgurn-interim-ceo/",
+    "https://be.marketscreener.com/insider/LUISA-INGARGIOLA-A0KWO9/"
+   ]
+  },
+  {
+   "statement": "D. Boral Capital, the SPAC's affiliate, co-underwrote the Trump sons' New America SPAC.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented. D. Boral Capital was co-lead book-runner with Dominari Securities on New America Acquisition I's $345M IPO (Dec 2025; C27/C39). D. Boral Capital also received the House CCP committee's March 2026 letter on Chinese small-cap IPOs (C47). David Boral chairs the affiliates, and the SPAC's filings acknowledge possible conflicting interests. D. Boral did not respond to Bloomberg.",
+   "sources": [
+    "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/d.-boral-capital-acted-as-co-lead-bookrunner-to-new-america-acquisit-1115436",
+    "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties"
+   ]
+  },
+  {
+   "statement": "Cerberus-linked firms won Golden Dome work and other large DoD contracts.",
+   "verdict": "mostly-accurate",
+   "finding": "Evidence grade: documented that the awards exist; their values are undisclosed. Per Warren's Apr 27 and Jul 27, 2026 letters, the Pentagon acknowledged that at least four Cerberus-owned or partly owned companies hold Golden Dome contracts, and the letters name North Wind, Stratolaunch and Red River Technology. Eos Energy is also reported. Context: MDA's SHIELD vehicle ($151B ceiling) gave slots to about 2,100 firms, so a slot is not funding. Separately, M1 Support Services ('a Cerberus Capital Management company') won the Army's Flight School Next IDIQ (up to $10B, 26 years) on Aug 13, 2026, against 10 other bidders. DoD says Feinberg has no direct responsibility for Golden Dome acquisitions, although program head Gen. Guetlein reports to him.",
+   "sources": [
+    "https://www.warren.senate.gov/newsroom/press-releases/warren-questions-deputy-secretary-of-defense-on-conflicts-of-interest-involving-dods-golden-dome-missile-defense-program",
+    "https://www.warren.senate.gov/wp-content/uploads/2026/07/Follow-Up-Letter-from-Senator-Warren-to-Stephen-Feinberg-on-Golden-Dome.pdf",
+    "https://www.washingtontechnology.com/contracts/2025/12/mda-awards-1014-companies-slots-151b-golden-dome-contract-vehicle/409903/",
+    "https://www.washingtontechnology.com/contracts/2026/08/army-picks-m1-lead-10b-helicopter-school-transformation/415463/"
+   ]
+  },
+  {
+   "statement": "Feinberg's personal lawyer and Cerberus trust manager represented DoD in the MP Materials deal.",
+   "verdict": "mostly-accurate",
+   "finding": "Evidence grade: single-source (American Prospect, Aug 21, 2026; Waldenberg confirmed it on the record). Alan Waldenberg, outside counsel to Cerberus and to Feinberg and manager of the trust holding Feinberg's Cerberus assets, represented DoD in the July 2025 MP Materials deal: a $400M equity stake, a $150M loan and a 15% government stake. He says Feinberg chose him and ethics staff were informed. DoD says the arrangement complied with the rules. Richard Painter criticised it.",
+   "sources": [
+    "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/"
+   ]
+  },
+  {
+   "statement": "Feinberg's Cerberus trust is exposed to a possible Ligado settlement with DoD.",
+   "verdict": "partly-accurate",
+   "finding": "Evidence grade: single-source (American Prospect, Jul 17, 2026). Ligado, which is Cerberus-backed, is suing DoD; the claim rose from $39-40B to about $50B. The Prospect says Feinberg's trust interest could rise if DoD settles. DoD says any Ligado profit to him would go to a veterans' charity, which it did not name. As of Nov 2, 2026, DOJ was seeking dismissal and no settlement had been reported, so the windfall remains hypothetical.",
+   "sources": [
+    "https://prospect.org/2026/07/17/top-defense-official-could-reap-windfall-from-dod-settlement/",
+    "https://www.advanced-television.com/2026/11/02/us-doj-wants-ligado-50-billion-lawsuit-dismissed/"
+   ]
+  },
+  {
+   "statement": "OSC lent to Vulcan (1789), PDW and Neros, and held talks with Unusual Machines (Don Jr.).",
+   "verdict": "mostly-accurate",
+   "finding": "Evidence grade: documented. Vulcan got a $620M loan (Nov 3, 2025), initiated by Navarro (C26/C65). PDW got a conditional commitment of up to $820M (Jul 31, 2026). Neros got up to $450M (Nov 2, 2026) alongside $165M in equity; DroneXL says the OSC release does not mention a government stake. Unusual Machines was named in the WSJ-reported talks (May 28, 2026), but no OSC release naming it had appeared as of early Nov 2026. Trump-sons-linked Cove Kaz applied to OSC for $400M (FT, May 2026), not reported as approved. All of these came under Lorch's directorship, but nothing ties Lorch or Kollitides to the Vulcan decision; ProPublica attributes that push to Navarro.",
+   "sources": [
+    "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
+    "https://soldiersystems.net/2026/07/31/the-office-of-strategic-capital-signs-820-million-conditional-loan-commitment-with-performance-drone-works-to-expand-domestic-drone-component-manufacturing/",
+    "https://www.suasnews.com/2026/11/department-of-wars-office-of-strategic-capital-signs-conditional-loan-commitment-of-up-to-450-million-with-neros-inc/",
+    "https://dronexl.co/2026/11/02/neros-450m-osc-loan-taxpayer-ownership-stake/",
+    "https://dronexl.co/2026/05/28/pentagon-drone-funding-equity-neros-unusual-machines-pdw/",
+    "https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/"
+   ]
+  },
+  {
+   "statement": "Recusal arrangements exist for Feinberg and the Cerberus alumni.",
+   "verdict": "partly-accurate",
+   "finding": "Evidence grade: partly documented, partly single-source. DoD spokesman Parnell says Feinberg 'has completely divested' from Cerberus and is recused from executive-branch dealings with it. His OGE agreement actually placed his interests in trusts for his adult children (C65). Warren asked him to extend the recusal to his whole tenure and refuse waivers, and no public reply has been found. A US official told Bloomberg (Sep 4, 2026; seen via Briefs and CryptoBriefing) that Cerberus alumni must recuse from Cerberus matters and that such deals are routed to Commerce Secretary Lutnick. Whether Lutnick reviewed M1 or Stratolaunch is unknown. No recusal, waiver or financial disclosure for Kollitides (an SGE) or Lorch has been published. Reuters (Sep 5, 2026) reported that the White House reviewed possible Feinberg successors; Hegseth said he 'isn't going anywhere.'",
+   "sources": [
+    "https://www.briefs.co/news/pentagon-taps-howard-lutnick-to-screen-pentagon-deals-linked/",
+    "https://cryptobriefing.com/lutnick-review-pentagon-cerberus-capital-deals/",
+    "https://www.warren.senate.gov/wp-content/uploads/2026/07/Follow-Up-Letter-from-Senator-Warren-to-Stephen-Feinberg-on-Golden-Dome.pdf",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/05/white-house-reviews-candidates-to-replace-hegseth-deputy-sources-say/"
+   ]
+  },
+  {
+   "statement": "Cerberus alumni steered awards or loans toward Trump-family-linked companies.",
+   "verdict": "unverified",
+   "finding": "Evidence grade: none found. No reporting shows Lorch, Kollitides or Feinberg acting on Vulcan, Unusual Machines, Cove Kaz or New America. The D. Boral and McGurn overlap is a shared board, not a transaction. Any steering is inferred only from co-occurrence.",
+   "sources": [
+    "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
+    "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house"
+   ]
   }
+ ],
+ "corrections": [
+  "C51 gave no figure for PDW's OSC deal: it is a conditional loan commitment of up to $820M (Jul 31, 2026).",
+  "C65 says Kollitides 'later resigned' from D. Boral Acquisition I: the 8-K dates it Sep 23, 2026, citing 'personal reasons'.",
+  "The brief puts Kollitides in OSC-related offices: he heads the separate Economic Defense Unit, which reports to Feinberg; Lorch is the OSC director."
+ ],
+ "denials_and_context": [
+  "Pentagon (Sean Parnell): 'There are no conflicts of interest between Deputy Secretary of War Steve Feinberg and Cerberus'; Kollitides and the department followed all applicable rules; OSC has a multi-layered ethics process.",
+  "Cerberus says Feinberg is not involved in its operations.",
+  "A&M Capital and Alvarez & Marsal Federal are legally distinct; the consulting arm did not answer ProPublica.",
+  "D. Boral Capital and David Boral did not respond to Bloomberg Government.",
+  "SHIELD gave slots to about 2,100 vendors and Flight School Next was competed against 10 other bidders, so winning one is not evidence of favouritism.",
+  "Don Jr. and 1789 deny contacting officials about Vulcan or UMAC (C26/C51).",
+  "No IG or OGE finding of wrongdoing has been reported."
+ ],
+ "sources": [
+  {
+   "title": "Pentagon Investment Arm Director Joined Firm With Defense Ties",
+   "publisher": "Bloomberg Government",
+   "url": "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
+   "date": "2026"
+  },
+  {
+   "title": "D. Boral Acquisition I Form 8-K (Kollitides resignation)",
+   "publisher": "SEC EDGAR",
+   "url": "https://www.sec.gov/Archives/edgar/data/0002095161/000121390026104218/ea0306801-8k_dboralacq1.htm",
+   "date": "2026-09-28"
+  },
+  {
+   "title": "D. Boral Acquisition I Form 8-K (committee appointments)",
+   "publisher": "SEC EDGAR",
+   "url": "https://www.sec.gov/Archives/edgar/data/0002095161/000121390026116912/ea0309298-8k_dboralacq1.htm",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "D. Boral Acquisition I closes $287.5M IPO",
+   "publisher": "GlobeNewswire via Finviz",
+   "url": "https://finviz.com/news/309854/d-boral-acquisition-i-corp-announces-closing-of-287500000-initial-public-offering-including-full-exercise-of-underwriters-over-allotment-option",
+   "date": "2026-02-12"
+  },
+  {
+   "title": "D. Boral Capital co-lead bookrunner to New America Acquisition I",
+   "publisher": "ACCESS Newswire",
+   "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/d.-boral-capital-acted-as-co-lead-bookrunner-to-new-america-acquisit-1115436",
+   "date": "2025-12-08"
+  },
+  {
+   "title": "Trump Media names Kevin McGurn interim CEO",
+   "publisher": "TheWrap",
+   "url": "https://www.thewrap.com/media-platforms/journalism/trump-media-company-kevin-mcgurn-interim-ceo/",
+   "date": "2026-04-21"
+  },
+  {
+   "title": "Luisa Ingargiola insider profile",
+   "publisher": "MarketScreener",
+   "url": "https://be.marketscreener.com/insider/LUISA-INGARGIOLA-A0KWO9/",
+   "date": "2026"
+  },
+  {
+   "title": "Pentagon gave $350 million in contracts to firm tied to official (ProPublica)",
+   "publisher": "Defense One",
+   "url": "https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543",
+   "date": "2026-10"
+  },
+  {
+   "title": "Pentagon gave $350 million contracts to firm closely tied to senior official (ProPublica)",
+   "publisher": "Government Executive",
+   "url": "https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/",
+   "date": "2026-10"
+  },
+  {
+   "title": "Pentagon's 'Deal Team Six' has big-money ambitions",
+   "publisher": "Axios",
+   "url": "https://axios.com/2026/05/06/economic-defense-unit-kollitides-pentagon",
+   "date": "2026-05-06"
+  },
+  {
+   "title": "Hegseth aims to cut through the bureaucracy with 'Deal Team Six'",
+   "publisher": "Military Times",
+   "url": "https://www.militarytimes.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/",
+   "date": "2026-05-08"
+  },
+  {
+   "title": "Pentagon headhunting Goldman, JPMorgan bankers for Economic Defense Unit",
+   "publisher": "Semafor",
+   "url": "https://www.semafor.com/article/03/11/2026/pentagon-headhunting-goldman-jpmorgan-bankers-for-economic-defense-unit",
+   "date": "2026-03-11"
+  },
+  {
+   "title": "David Lorch biography",
+   "publisher": "Department of War",
+   "url": "https://www.war.gov/About/Biographies/Biography/Article/4506870/david-lorch/",
+   "date": "2025-11"
+  },
+  {
+   "title": "Warren questions Feinberg on Golden Dome conflicts",
+   "publisher": "Office of Sen. Warren",
+   "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-questions-deputy-secretary-of-defense-on-conflicts-of-interest-involving-dods-golden-dome-missile-defense-program",
+   "date": "2026-04-27"
+  },
+  {
+   "title": "Follow-up letter to Feinberg on Golden Dome",
+   "publisher": "Office of Sen. Warren",
+   "url": "https://www.warren.senate.gov/wp-content/uploads/2026/07/Follow-Up-Letter-from-Senator-Warren-to-Stephen-Feinberg-on-Golden-Dome.pdf",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "MDA awards 1,014 companies slots on $151B Golden Dome contract vehicle",
+   "publisher": "Washington Technology",
+   "url": "https://www.washingtontechnology.com/contracts/2025/12/mda-awards-1014-companies-slots-151b-golden-dome-contract-vehicle/409903/",
+   "date": "2025-12"
+  },
+  {
+   "title": "Top Pentagon official contracted personal lawyer to handle minerals deal",
+   "publisher": "The American Prospect",
+   "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "Top defense official could reap windfall from DOD settlement",
+   "publisher": "The American Prospect",
+   "url": "https://prospect.org/2026/07/17/top-defense-official-could-reap-windfall-from-dod-settlement/",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "US DoJ wants Ligado $50 billion lawsuit dismissed",
+   "publisher": "Advanced Television",
+   "url": "https://www.advanced-television.com/2026/11/02/us-doj-wants-ligado-50-billion-lawsuit-dismissed/",
+   "date": "2026-11-02"
+  },
+  {
+   "title": "Army picks M1 to lead $10B helicopter-school transformation",
+   "publisher": "Washington Technology",
+   "url": "https://www.washingtontechnology.com/contracts/2026/08/army-picks-m1-lead-10b-helicopter-school-transformation/415463/",
+   "date": "2026-08"
+  },
+  {
+   "title": "Pentagon taps Howard Lutnick to screen Pentagon deals linked to Cerberus",
+   "publisher": "Briefs (citing Bloomberg)",
+   "url": "https://www.briefs.co/news/pentagon-taps-howard-lutnick-to-screen-pentagon-deals-linked/",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "Commerce Secretary Lutnick tapped to review Pentagon's Cerberus Capital deals",
+   "publisher": "CryptoBriefing",
+   "url": "https://cryptobriefing.com/lutnick-review-pentagon-cerberus-capital-deals/",
+   "date": "2026-09"
+  },
+  {
+   "title": "White House reviews candidates to replace Hegseth deputy Feinberg (Reuters)",
+   "publisher": "Military Times",
+   "url": "https://www.militarytimes.com/news/pentagon-congress/2026/09/05/white-house-reviews-candidates-to-replace-hegseth-deputy-sources-say/",
+   "date": "2026-09-05"
+  },
+  {
+   "title": "OSC signs $820M conditional loan commitment with Performance Drone Works",
+   "publisher": "Soldier Systems Daily",
+   "url": "https://soldiersystems.net/2026/07/31/the-office-of-strategic-capital-signs-820-million-conditional-loan-commitment-with-performance-drone-works-to-expand-domestic-drone-component-manufacturing/",
+   "date": "2026-07-31"
+  },
+  {
+   "title": "OSC signs conditional loan commitment of up to $450M with Neros",
+   "publisher": "sUAS News",
+   "url": "https://www.suasnews.com/2026/11/department-of-wars-office-of-strategic-capital-signs-conditional-loan-commitment-of-up-to-450-million-with-neros-inc/",
+   "date": "2026-11"
+  },
+  {
+   "title": "Neros $450M OSC loan",
+   "publisher": "DroneXL",
+   "url": "https://dronexl.co/2026/11/02/neros-450m-osc-loan-taxpayer-ownership-stake/",
+   "date": "2026-11-02"
+  },
+  {
+   "title": "Pentagon drone funding talks with Neros, Unusual Machines, PDW",
+   "publisher": "DroneXL",
+   "url": "https://dronexl.co/2026/05/28/pentagon-drone-funding-equity-neros-unusual-machines-pdw/",
+   "date": "2026-05-28"
+  },
+  {
+   "title": "Pentagon may add $400 million to Kazakh tungsten project linked to Trump's sons",
+   "publisher": "Orda.kz",
+   "url": "https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/",
+   "date": "2026-05"
+  },
+  {
+   "title": "White House intervened to get $620M deal for Vulcan Elements",
+   "publisher": "ProPublica",
+   "url": "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
+   "date": "2026-05-28"
+  }
+ ],
+ "entities": [
+  {
+   "id": "steve-feinberg",
+   "name": "Stephen Feinberg",
+   "type": "person",
+   "description": "Deputy Secretary of Defense; Cerberus co-founder"
+  },
+  {
+   "id": "cerberus-capital-management",
+   "name": "Cerberus Capital Management",
+   "type": "fund",
+   "description": "Feinberg's firm; alumni lead OSC and the EDU"
+  },
+  {
+   "id": "david-lorch",
+   "name": "David Lorch",
+   "type": "person",
+   "description": "OSC director since Nov 2025; ex-Cerberus MD; senior adviser to Feinberg"
+  },
+  {
+   "id": "george-kollitides",
+   "name": "George Kollitides",
+   "type": "person",
+   "description": "Economic Defense Unit director (SGE); ex-Cerberus MD; ex-A&M Capital partner"
+  },
+  {
+   "id": "economic-defense-unit",
+   "name": "Economic Defense Unit ('Deal Team Six')",
+   "type": "government",
+   "description": "Pentagon deal unit reporting to Feinberg"
+  },
+  {
+   "id": "office-of-strategic-capital",
+   "name": "Office of Strategic Capital",
+   "type": "government",
+   "description": "Pentagon lender; director David Lorch"
+  },
+  {
+   "id": "pentagon",
+   "name": "Pentagon / Department of War",
+   "type": "government",
+   "description": "US Department of Defense"
+  },
+  {
+   "id": "pete-hegseth",
+   "name": "Pete Hegseth",
+   "type": "person",
+   "description": "Secretary of Defense/War"
+  },
+  {
+   "id": "alvarez-marsal-federal",
+   "name": "Alvarez & Marsal Federal",
+   "type": "company",
+   "description": "Consultancy with up to ~$350M in no-bid DoD contracts advising the EDU"
+  },
+  {
+   "id": "am-capital",
+   "name": "A&M Capital",
+   "type": "fund",
+   "description": "Alvarez & Marsal-affiliated investment firm; Kollitides a former partner and senior adviser"
+  },
+  {
+   "id": "d-boral-acquisition-i",
+   "name": "D. Boral Acquisition I",
+   "type": "company",
+   "description": "Cayman SPAC (DBCA), $287.5M IPO Feb 2026; Kollitides a director Feb-Sep 2026"
+  },
+  {
+   "id": "d-boral-capital",
+   "name": "D. Boral Capital",
+   "type": "company",
+   "description": "Investment bank; co-led the Trump sons' NWAX SPAC IPO"
+  },
+  {
+   "id": "david-boral",
+   "name": "David Boral",
+   "type": "person",
+   "description": "Chairman of D. Boral Capital and its SPAC affiliates"
+  },
+  {
+   "id": "kevin-mcgurn",
+   "name": "Kevin McGurn",
+   "type": "person",
+   "description": "Former CEO of New America Acquisition I (resigned Aug 5, 2026); interim CEO of TMTG from Apr 21, 2026; D. Boral Acquisition I director"
+  },
+  {
+   "id": "luisa-ingargiola",
+   "name": "Luisa Ingargiola",
+   "type": "person",
+   "description": "D. Boral Acquisition I director; boards of several small caps"
+  },
+  {
+   "id": "new-america-acquisition-i",
+   "name": "New America Acquisition I",
+   "type": "company",
+   "description": "Trump sons-linked SPAC, $345M IPO Dec 2025"
+  },
+  {
+   "id": "trump-media-technology-group",
+   "name": "Trump Media & Technology Group",
+   "type": "company",
+   "description": "Trump's media company; McGurn interim CEO from Apr 2026"
+  },
+  {
+   "id": "dominari-holdings",
+   "name": "Dominari Holdings",
+   "type": "company",
+   "description": "Trump sons-linked broker; co-underwriter of NWAX"
+  },
+  {
+   "id": "donald-trump-jr",
+   "name": "Donald Trump Jr.",
+   "type": "person",
+   "description": "President's son; 1789 partner; Unusual Machines adviser"
+  },
+  {
+   "id": "eric-trump",
+   "name": "Eric Trump",
+   "type": "person",
+   "description": "President's son; backer of New America and Dominari ventures"
+  },
+  {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "type": "person",
+   "description": "President"
+  },
+  {
+   "id": "1789-capital",
+   "name": "1789 Capital",
+   "type": "fund",
+   "description": "Don Jr.-linked fund; invested in Vulcan Elements"
+  },
+  {
+   "id": "vulcan-elements",
+   "name": "Vulcan Elements",
+   "type": "company",
+   "description": "Magnet maker; $620M OSC loan"
+  },
+  {
+   "id": "peter-navarro",
+   "name": "Peter Navarro",
+   "type": "person",
+   "description": "White House adviser who initiated the Vulcan loan"
+  },
+  {
+   "id": "performance-drone-works",
+   "name": "Performance Drone Works (PDW)",
+   "type": "company",
+   "description": "Drone maker; up to $820M conditional OSC loan"
+  },
+  {
+   "id": "neros",
+   "name": "Neros",
+   "type": "company",
+   "description": "Drone maker; up to $450M conditional OSC loan"
+  },
+  {
+   "id": "unusual-machines",
+   "name": "Unusual Machines",
+   "type": "company",
+   "description": "Don Jr.-advised drone parts maker; in OSC talks, no loan announced"
+  },
+  {
+   "id": "cove-kaz-capital",
+   "name": "Cove Kaz Capital",
+   "type": "company",
+   "description": "Kazakh tungsten developer; requested $400M from OSC"
+  },
+  {
+   "id": "howard-lutnick",
+   "name": "Howard Lutnick",
+   "type": "person",
+   "description": "Commerce Secretary; reportedly screens Cerberus-linked Pentagon deals"
+  },
+  {
+   "id": "cantor-fitzgerald",
+   "name": "Cantor Fitzgerald",
+   "type": "company",
+   "description": "Lutnick family firm; reported backer and prime broker of Cerberus funds"
+  },
+  {
+   "id": "alan-waldenberg",
+   "name": "Alan Waldenberg",
+   "type": "person",
+   "description": "Cerberus and Feinberg lawyer and trust manager; represented DoD on MP Materials deal"
+  },
+  {
+   "id": "mp-materials",
+   "name": "MP Materials",
+   "type": "company",
+   "description": "Rare-earth miner; July 2025 DoD equity and loan deal"
+  },
+  {
+   "id": "ligado-networks",
+   "name": "Ligado Networks",
+   "type": "company",
+   "description": "Cerberus-backed satellite firm suing DoD for ~$50B"
+  },
+  {
+   "id": "m1-support-services",
+   "name": "M1 Support Services",
+   "type": "company",
+   "description": "Cerberus company; won up-to-$10B Army Flight School Next"
+  },
+  {
+   "id": "stratolaunch",
+   "name": "Stratolaunch",
+   "type": "company",
+   "description": "Cerberus-owned hypersonic test firm; Golden Dome awardee per Warren"
+  },
+  {
+   "id": "north-wind",
+   "name": "North Wind",
+   "type": "company",
+   "description": "Cerberus-related Golden Dome awardee per Warren"
+  },
+  {
+   "id": "red-river-technology",
+   "name": "Red River Technology",
+   "type": "company",
+   "description": "Cerberus-related Golden Dome awardee per Warren"
+  },
+  {
+   "id": "golden-dome",
+   "name": "Golden Dome",
+   "type": "product",
+   "description": "US missile-defense program; SHIELD vehicle $151B ceiling"
+  },
+  {
+   "id": "elizabeth-warren",
+   "name": "Elizabeth Warren",
+   "type": "person",
+   "description": "Senator pressing Feinberg on Cerberus conflicts"
+  },
+  {
+   "id": "sean-parnell",
+   "name": "Sean Parnell",
+   "type": "person",
+   "description": "Pentagon spokesman"
+  },
+  {
+   "id": "propublica",
+   "name": "ProPublica",
+   "type": "media",
+   "description": "Reported the A&M contracts and the Vulcan deal"
+  },
+  {
+   "id": "bloomberg",
+   "name": "Bloomberg / Bloomberg Government",
+   "type": "media",
+   "description": "Reported Kollitides's SPAC board seat and the Lutnick screening"
+  },
+  {
+   "id": "american-prospect",
+   "name": "The American Prospect",
+   "type": "media",
+   "description": "Reported the Waldenberg and Ligado stories"
+  },
+  {
+   "id": "white-house",
+   "name": "White House",
+   "type": "government",
+   "description": "Executive Office of the President"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "steve-feinberg",
+   "target": "cerberus-capital-management",
+   "label": "co-founder; interests in trusts for children",
+   "type": "ownership",
+   "date": "2025"
+  },
+  {
+   "source": "steve-feinberg",
+   "target": "pentagon",
+   "label": "Deputy Secretary",
+   "type": "political",
+   "date": "2025-03"
+  },
+  {
+   "source": "david-lorch",
+   "target": "cerberus-capital-management",
+   "label": "former managing director",
+   "type": "commercial"
+  },
+  {
+   "source": "david-lorch",
+   "target": "office-of-strategic-capital",
+   "label": "director",
+   "type": "political",
+   "date": "2025-11"
+  },
+  {
+   "source": "david-lorch",
+   "target": "steve-feinberg",
+   "label": "senior adviser to",
+   "type": "advisory",
+   "date": "2025-11"
+  },
+  {
+   "source": "george-kollitides",
+   "target": "cerberus-capital-management",
+   "label": "former MD, aerospace/government/defense",
+   "type": "commercial"
+  },
+  {
+   "source": "george-kollitides",
+   "target": "economic-defense-unit",
+   "label": "director (SGE per Bloomberg Government, single-source)",
+   "type": "political",
+   "date": "2026-02"
+  },
+  {
+   "source": "economic-defense-unit",
+   "target": "steve-feinberg",
+   "label": "reports to",
+   "type": "political",
+   "date": "2026-02"
+  },
+  {
+   "source": "george-kollitides",
+   "target": "am-capital",
+   "label": "former partner; senior adviser until ~Oct 2026",
+   "type": "commercial"
+  },
+  {
+   "source": "am-capital",
+   "target": "alvarez-marsal-federal",
+   "label": "affiliate",
+   "type": "ownership"
+  },
+  {
+   "source": "pentagon",
+   "target": "alvarez-marsal-federal",
+   "label": "no-bid contracts (~$67M + $281M) advising Kollitides's office",
+   "type": "money",
+   "date": "2025-12/2026",
+   "amount_usd": 348000000
+  },
+  {
+   "source": "george-kollitides",
+   "target": "d-boral-acquisition-i",
+   "label": "director with 100,000 founder shares; resigned Sep 23, 2026",
+   "type": "commercial",
+   "date": "2026-02-10"
+  },
+  {
+   "source": "kevin-mcgurn",
+   "target": "d-boral-acquisition-i",
+   "label": "director",
+   "type": "commercial",
+   "date": "2026"
+  },
+  {
+   "source": "luisa-ingargiola",
+   "target": "d-boral-acquisition-i",
+   "label": "director",
+   "type": "commercial",
+   "date": "2026"
+  },
+  {
+   "source": "george-kollitides",
+   "target": "kevin-mcgurn",
+   "label": "co-directors at D. Boral Acquisition I (Feb-Sep 2026)",
+   "type": "commercial",
+   "date": "2026-02"
+  },
+  {
+   "source": "d-boral-capital",
+   "target": "d-boral-acquisition-i",
+   "label": "affiliate; sole book-runner of $287.5M IPO",
+   "type": "ownership",
+   "date": "2026-02",
+   "amount_usd": 287500000
+  },
+  {
+   "source": "david-boral",
+   "target": "d-boral-capital",
+   "label": "chairman",
+   "type": "ownership"
+  },
+  {
+   "source": "d-boral-capital",
+   "target": "new-america-acquisition-i",
+   "label": "co-lead underwriter of $345M IPO",
+   "type": "commercial",
+   "date": "2025-12",
+   "amount_usd": 345000000
+  },
+  {
+   "source": "dominari-holdings",
+   "target": "new-america-acquisition-i",
+   "label": "co-lead underwriter",
+   "type": "commercial",
+   "date": "2025-12"
+  },
+  {
+   "source": "kevin-mcgurn",
+   "target": "new-america-acquisition-i",
+   "label": "chairman, CEO and CFO (later CEO only); resigned effective Aug 5, 2026",
+   "type": "commercial",
+   "date": "2025-07/2026-08-05"
+  },
+  {
+   "source": "kevin-mcgurn",
+   "target": "trump-media-technology-group",
+   "label": "interim CEO",
+   "type": "commercial",
+   "date": "2026-04-21"
+  },
+  {
+   "source": "eric-trump",
+   "target": "new-america-acquisition-i",
+   "label": "backer",
+   "type": "ownership"
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "new-america-acquisition-i",
+   "label": "backer",
+   "type": "ownership"
+  },
+  {
+   "source": "office-of-strategic-capital",
+   "target": "vulcan-elements",
+   "label": "$620M loan",
+   "type": "money",
+   "date": "2025-11-03",
+   "amount_usd": 620000000
+  },
+  {
+   "source": "1789-capital",
+   "target": "vulcan-elements",
+   "label": "Series A investor",
+   "type": "money",
+   "date": "2025-08"
+  },
+  {
+   "source": "peter-navarro",
+   "target": "vulcan-elements",
+   "label": "initiated OSC loan request",
+   "type": "political",
+   "date": "2025"
+  },
+  {
+   "source": "office-of-strategic-capital",
+   "target": "performance-drone-works",
+   "label": "conditional loan commitment up to $820M",
+   "type": "money",
+   "date": "2026-07-31",
+   "amount_usd": 820000000
+  },
+  {
+   "source": "office-of-strategic-capital",
+   "target": "neros",
+   "label": "conditional loan commitment up to $450M",
+   "type": "money",
+   "date": "2026-11-02",
+   "amount_usd": 450000000
+  },
+  {
+   "source": "office-of-strategic-capital",
+   "target": "unusual-machines",
+   "label": "reported funding talks; no deal announced",
+   "type": "commercial",
+   "date": "2026-05-28"
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "unusual-machines",
+   "label": "adviser and shareholder",
+   "type": "advisory"
+  },
+  {
+   "source": "cove-kaz-capital",
+   "target": "office-of-strategic-capital",
+   "label": "applied for $400M",
+   "type": "money",
+   "date": "2026-05",
+   "amount_usd": 400000000
+  },
+  {
+   "source": "howard-lutnick",
+   "target": "cerberus-capital-management",
+   "label": "reportedly screens Pentagon deals involving it",
+   "type": "regulatory",
+   "date": "2026-09"
+  },
+  {
+   "source": "cantor-fitzgerald",
+   "target": "cerberus-capital-management",
+   "label": "reported backer and prime broker since 2012",
+   "type": "commercial"
+  },
+  {
+   "source": "howard-lutnick",
+   "target": "cantor-fitzgerald",
+   "label": "former chairman; family-controlled",
+   "type": "family"
+  },
+  {
+   "source": "alan-waldenberg",
+   "target": "steve-feinberg",
+   "label": "personal lawyer; manages Cerberus trust",
+   "type": "legal"
+  },
+  {
+   "source": "alan-waldenberg",
+   "target": "cerberus-capital-management",
+   "label": "outside counsel",
+   "type": "legal"
+  },
+  {
+   "source": "alan-waldenberg",
+   "target": "pentagon",
+   "label": "represented DoD on MP Materials deal",
+   "type": "legal",
+   "date": "2025-07"
+  },
+  {
+   "source": "pentagon",
+   "target": "mp-materials",
+   "label": "$400M equity + $150M loan",
+   "type": "money",
+   "date": "2025-07",
+   "amount_usd": 550000000
+  },
+  {
+   "source": "ligado-networks",
+   "target": "pentagon",
+   "label": "suing for ~$50B",
+   "type": "legal",
+   "date": "2026"
+  },
+  {
+   "source": "cerberus-capital-management",
+   "target": "ligado-networks",
+   "label": "backer",
+   "type": "ownership"
+  },
+  {
+   "source": "cerberus-capital-management",
+   "target": "m1-support-services",
+   "label": "owner",
+   "type": "ownership"
+  },
+  {
+   "source": "pentagon",
+   "target": "m1-support-services",
+   "label": "Flight School Next IDIQ up to $10B",
+   "type": "money",
+   "date": "2026-08-13",
+   "amount_usd": 10000000000
+  },
+  {
+   "source": "cerberus-capital-management",
+   "target": "stratolaunch",
+   "label": "owner",
+   "type": "ownership"
+  },
+  {
+   "source": "stratolaunch",
+   "target": "golden-dome",
+   "label": "awardee (per Warren)",
+   "type": "commercial",
+   "date": "2026"
+  },
+  {
+   "source": "north-wind",
+   "target": "golden-dome",
+   "label": "awardee (per Warren)",
+   "type": "commercial",
+   "date": "2026"
+  },
+  {
+   "source": "red-river-technology",
+   "target": "golden-dome",
+   "label": "awardee (per Warren)",
+   "type": "commercial",
+   "date": "2026"
+  },
+  {
+   "source": "elizabeth-warren",
+   "target": "steve-feinberg",
+   "label": "letters on Cerberus conflicts",
+   "type": "political",
+   "date": "2026-04-27"
+  },
+  {
+   "source": "pete-hegseth",
+   "target": "steve-feinberg",
+   "label": "publicly backs him",
+   "type": "political",
+   "date": "2026-09-05"
+  },
+  {
+   "source": "donald-trump",
+   "target": "steve-feinberg",
+   "label": "appointed",
+   "type": "political",
+   "date": "2025-03"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Kollitides co-director Luisa Ingargiola's other boards",
+   "why_connected": "Bloomberg says she and McGurn sit on boards of defense-related firms with Trump-son investors; which ones is unverified.",
+   "entities": [
+    "luisa-ingargiola",
+    "kevin-mcgurn",
+    "d-boral-acquisition-i"
+   ],
+   "source_url": "https://be.marketscreener.com/insider/LUISA-INGARGIOLA-A0KWO9/"
+  },
+  {
+   "title": "Lutnick as screener of Cerberus-linked Pentagon deals",
+   "why_connected": "Cantor reportedly backs Cerberus funds; scope and use of the screening unknown (M1, Stratolaunch).",
+   "entities": [
+    "howard-lutnick",
+    "cantor-fitzgerald",
+    "cerberus-capital-management"
+   ],
+   "source_url": "https://www.briefs.co/news/pentagon-taps-howard-lutnick-to-screen-pentagon-deals-linked/"
+  },
+  {
+   "title": "Ligado-DoD ~$50B takings case and Feinberg's trust",
+   "why_connected": "A settlement would benefit a Cerberus portfolio firm whose owner is the Deputy Secretary; DOJ seeking dismissal.",
+   "entities": [
+    "ligado-networks",
+    "steve-feinberg",
+    "cerberus-capital-management"
+   ],
+   "source_url": "https://prospect.org/2026/07/17/top-defense-official-could-reap-windfall-from-dod-settlement/"
+  },
+  {
+   "title": "Waldenberg's role on other DoD deals",
+   "why_connected": "Feinberg's personal and trust lawyer acted for DoD on MP Materials; DoD did not say whether he worked on others.",
+   "entities": [
+    "alan-waldenberg",
+    "mp-materials",
+    "steve-feinberg"
+   ],
+   "source_url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/"
+  },
+  {
+   "title": "OSC/White House Venezuela oil equity stake",
+   "why_connected": "Semafor reports scrutiny of OSC's role in a 35% Venezuelan oil equity stake despite loan-only statute.",
+   "entities": [
+    "office-of-strategic-capital",
+    "david-lorch",
+    "white-house"
+   ],
+   "source_url": "https://www.semafor.com/article/09/02/2026/trumps-venezuela-deal-draws-scrutiny-of-obscure-pentagon-office"
+  },
+  {
+   "title": "M1 Support Services' $10B Flight School Next award",
+   "why_connected": "Cerberus company wins one of the largest Army training contracts under Feinberg; recusal/Lutnick review unknown.",
+   "entities": [
+    "m1-support-services",
+    "cerberus-capital-management",
+    "steve-feinberg"
+   ],
+   "source_url": "https://www.washingtontechnology.com/contracts/2026/08/army-picks-m1-lead-10b-helicopter-school-transformation/415463/"
+  }
+ ],
+ "audit": {
+  "checked": [
+   "Kollitides's board seat, founder shares and resignation at D. Boral Acquisition I",
+   "Alvarez & Marsal no-bid contract figures ($67M + $281M, ~$31M paid) and timing",
+   "Pentagon and other parties' responses"
+  ],
+  "result": "upheld",
+  "changes": [
+   "A&M: kept the figures. Added that Defense One dates the awards to 'since December' 2025, so the first award came before Kollitides's Feb 2026 EDU appointment (he appears to have joined the Pentagon earlier). Added that ProPublica/Defense One name the advised office BOND (Business Operators for National Defense). The relationship date is now 2025-12/2026, and the label no longer says EDU. The $67M award is not confirmed by a contract record found here.",
+   "Marked the SGE status as single-source in the relationship label.",
+   "Board seat, the Feb 10 joining date, founder shares, the Sep 23, 2026 resignation and the Pentagon's declined comment were re-confirmed (Bloomberg Government; SamSearch relays the resignation).",
+   "Cross-file consistency: McGurn's New America Acquisition I role was stated in the present tense; he resigned as CEO and director effective Aug 5, 2026 (8-K, C62/C78). Sub-claim finding, entity description and the kevin-mcgurn -> new-america-acquisition-i label updated (label now notes the resignation)."
+  ],
+  "new_sources": [
+   {
+    "title": "Pentagon investment chief resigns from offshore company board amid governance concerns",
+    "publisher": "SamSearch",
+    "url": "https://samsearch.co/government-contracting-news/pentagon-investment-chief-resigns-from-offshore-company-board-amid-governance-concerns-209127",
+    "date": "2026-09"
+   },
+   {
+    "title": "DoD awards $349 million in no-bid consulting contracts to Alvarez & Marsal",
+    "publisher": "SamSearch",
+    "url": "https://samsearch.co/government-contracting-news/dod-awards-349-million-in-no-bid-consulting-contracts-to-alvarez-marsal-215723",
+    "date": "2026-10"
+   },
+   {
+    "title": "Get aligned or get left behind (Pentagon)",
+    "publisher": "Cato Institute",
+    "url": "https://www.cato.org/blog/get-aligned-or-get-left-behind-pentagon",
+    "date": "2026-07-29"
+   }
+  ]
+ }
 }
