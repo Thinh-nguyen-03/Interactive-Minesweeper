@@ -620,5 +620,95 @@
    "C50",
    "C51"
   ]
+ },
+ {
+  "id": "C61",
+  "slug": "shared-lawyers-and-law-firms",
+  "lines": "",
+  "title": "Shared lawyers and law firms across the deals",
+  "claim": "Connection hunt: lawyers and law firms that recur across Trump-family ventures, their counterparties and the government \u2014 e.g. Teresa Goody Guill\u00e9n/BakerHostetler (World Liberty and the Binance/CZ pardon effort), Paul Hastings (SPAC filing), Alejandro Brito (settlement escrow), Jacob Roth and James Kiley (library entities), Chad Mizelle (Kushner; ex-DOJ chief of staff), Martin Edelman (G42/WLF board; adviser to UAE royals), Clare Locke, Sullivan & Cromwell, Todd Blanche's and Pam Bondi's former clients, ethics counsel who signed waivers (David Warrington). Find every overlap and prior tie.",
+  "origin": "connection-hunt",
+  "parents": []
+ },
+ {
+  "id": "C62",
+  "slug": "financiers-custodians-underwriters",
+  "lines": "",
+  "title": "The financiers, custodians and underwriters behind the vehicles",
+  "claim": "Connection hunt: financial intermediaries that recur across Trump-linked vehicles and also have matters before Trump-appointed regulators \u2014 Yorkville Advisors/Yorkville America (TMTG ETFs, CRO SPAC, TMTG financing), Dominari, Cantor Fitzgerald, Anchorage Digital, BitGo (USD1 custody; Craft stake; OCC charter), Jane Street, DRW/Cumberland, Jump, Galaxy, Kraken, Crypto.com, DWF Labs, Web3Port, Hut 8, Tuttle Capital, Clear Street, plus who received OCC charters, SEC dismissals or CFTC relief in the same period. Map who financed what and which regulator decisions each obtained.",
+  "origin": "connection-hunt",
+  "parents": []
+ },
+ {
+  "id": "C63",
+  "slug": "shell-entities-ownership-chains",
+  "lines": "",
+  "title": "Shell entities and ownership chains",
+  "claim": "Connection hunt: the LLCs, trusts and offshore vehicles in this story and who sits behind them \u2014 CIC Digital, CIC Ventures, Fight Fight Fight, Celebration Cards, DT Marks DEFI, DT Marks entities generally, WLTC Holdings, StringZ Holding RSC, Aryam Investment 1, MKT World, Designers Manager, Dynasty Trust A, Atlantic Incubation Partners, Axiom Management, American Ventures SPVs, the Donald J. Trump Revocable Trust (trustees), Trump Media Group CRO Strategy, T1/Trump Mobile licensees. Trace registered agents, officers, addresses, formation dates relative to deals, and any overlaps between them.",
+  "origin": "connection-hunt",
+  "parents": []
+ },
+ {
+  "id": "C64",
+  "slug": "lobbyists-and-fixers-network",
+  "lines": "",
+  "title": "Lobbyists and fixers: who gets paid to reach the White House",
+  "claim": "Connection hunt: the lobbying and access layer \u2014 Ballard Partners (Brian Ballard; former employer of AG Pam Bondi and chief of staff Susie Wiles; clients incl. Qatar, crypto firms, foreign governments), Mercury, Miller Strategies, Checkmate/Ches McDowell, Continental Strategy (Carlos Trujillo), Roger Stone, Keith Schiller, Corey Lewandowski, Jason Miller/Kash Patel's former foreign clients, Arthur Schwartz. Find which clients in this project hired them, fees, the dates versus outcomes, and officials' prior client relationships with beneficiaries (e.g. Bondi's Qatar work before the jet memo).",
+  "origin": "connection-hunt",
+  "parents": []
+ },
+ {
+  "id": "C65",
+  "slug": "officials-prior-ties-to-beneficiaries",
+  "lines": "",
+  "title": "Officials who decided matters involving their former clients or partners",
+  "claim": "Connection hunt: administration officials whose decisions benefited entities they previously worked for, invested in or were paid by \u2014 Pam Bondi (Ballard/Qatar; legal memo on the jet), Todd Blanche (NCET memo; crypto holdings disclosed), Paul Atkins (Patomak crypto clients; holdings), Mike Selig, Jonathan Gould, Brian Quintenz, Howard Lutnick, David Sacks, Scott Bessent, Kash Patel, Pete Hegseth's office and Office of Strategic Capital leadership, Peter Navarro (Vulcan), Michael Kratsios, Steve Witkoff, Charles Kushner (ambassador to France), Massad Boulos (Africa adviser), Tom Barrack (ambassador to Turkey/Syria envoy; Gulf investor ties). Establish holdings/recusals/waivers and specific decisions.",
+  "origin": "connection-hunt",
+  "parents": []
+ },
+ {
+  "id": "C66",
+  "slug": "extended-family-ventures",
+  "lines": "",
+  "title": "The extended family: Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka",
+  "claim": "Connection hunt beyond Don Jr., Eric, Melania and Jared: Massad Boulos (Tiffany's father-in-law; senior Africa/Arab adviser) and Michael Boulos's business activity incl. minerals/Congo deals and library trustee role; Charles Kushner (pardoned; ambassador) and Kushner Companies' foreign financing; Josh Kushner/Thrive Capital's stakes (OpenAI, Stargate beneficiaries, Kalshi/Polymarket?); Lara Trump (Fox show, ventures); Barron Trump's WLF stake and reported ventures; Ivanka; Kai Trump endorsements; in-laws given roles. Establish each person's ventures that depend on government decisions.",
+  "origin": "connection-hunt",
+  "parents": []
+ },
+ {
+  "id": "C67",
+  "slug": "multi-vehicle-investors",
+  "lines": "",
+  "title": "Investors who show up in several Trump-family vehicles",
+  "claim": "Connection hunt: parties that put money into more than one Trump-family venture or bought several products \u2014 Justin Sun (WLF, top $TRUMP holder/dinner, Tron via Dominari), DWF Labs, Web3Port, Oddiyana, Aqua 1 (UAE fund that bought $100M WLFI), MGX/Aryam, Hut 8, Crypto.com, Jump, Kraken, GD Culture Group and other foreign/Chinese-linked $TRUMP treasury buyers, Bill Zanker, Gulf developers, 1789 LPs, attendees of the $TRUMP dinner who had regulatory matters. Identify every repeat investor, their nationality/state links, amounts, and any US government decision affecting them afterwards.",
+  "origin": "connection-hunt",
+  "parents": []
+ },
+ {
+  "id": "C68",
+  "slug": "ellison-musk-tech-nexus",
+  "lines": "",
+  "title": "The tech-billionaire nexus: Ellison, Musk, Altman, Zuckerberg, Bezos",
+  "claim": "Connection hunt: tech principals who are simultaneously counterparties of the Trump family and beneficiaries of administration decisions \u2014 Larry/David Ellison (Oracle in Stargate and the TikTok US joint venture alongside MGX; Skydance\u2013Paramount approval after the settlement; Warner bid), Elon Musk (xAI/SpaceX in 1789's portfolio; DOGE; contracts), Sam Altman/OpenAI (Stargate; MGX; Thrive/Josh Kushner), Zuckerberg/Meta (settlement), Bezos/Amazon (documentary), Nvidia/Jensen Huang (chips to UAE/Saudi/China; ballroom?), Andreessen Horowitz, Peter Thiel/Palantir (Trump's PLTR trades; contracts), Microsoft. Map each money flow to the family and each government decision, with dates.",
+  "origin": "connection-hunt",
+  "parents": []
+ },
+ {
+  "id": "C69",
+  "slug": "master-timeline-proximity",
+  "lines": "",
+  "title": "Master timeline: money events versus government actions",
+  "claim": "Connection hunt by data analysis: from every `data/claims/*.json` (relationships with dates, sub-claim findings) and research report, build one dated master timeline of (a) money or benefits flowing to Trump-family-linked entities and (b) official acts (dismissals, pardons, approvals, licences, contracts, appointments, executive orders, sales). Write it to the report as a table, then identify pairs involving the same counterparty within 45 days of each other that the individual reports did not connect, verify the dates of the 15 closest pairs with fresh searches, and present them graded as `inferred` timing proximity unless a source asserts a link. Also list proximities that look suspicious but have an innocent documented explanation.",
+  "origin": "connection-hunt",
+  "parents": []
+ },
+ {
+  "id": "C70",
+  "slug": "foreign-intermediaries-us-benefits",
+  "lines": "",
+  "title": "Foreign intermediaries: what each partner got from Washington",
+  "claim": "Connection hunt: the foreign business partners of the Trump family and what their countries or companies obtained from the US government in the same period \u2014 Hussain Sajwani/Damac ($20B data-centre pledge; Trump licence fees), Dar Global/Dar Al Arkan (Saudi), Qatari Diar/QIA, Hary Tanoesoedibjo/MNC (Indonesia tariff deal), Kinh Bac/Vietnam (tariffs), Indian licensees (Tribeca/Mehta), Aryam/MGX/G42 (chips), Binance/CZ (pardon), Bilt? Serbian and Albanian governments, Pakistan (WLF deal with Pakistan Crypto Council; tariff/treatment; Powerus order), El Salvador, Azerbaijan, Kazakhstan (tungsten), Japan's Metaplanet/SoftBank. For each: the deal with the family, date, value, and the US decision, with denials.",
+  "origin": "connection-hunt",
+  "parents": []
  }
 ]
