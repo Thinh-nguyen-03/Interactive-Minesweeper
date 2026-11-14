@@ -20,7 +20,7 @@ White House chief of staff; Gabbard allegedly briefed her on the intercept.
 
 - [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
-- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 
 ## Relationships
 

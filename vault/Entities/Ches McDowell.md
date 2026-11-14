@@ -22,7 +22,7 @@ Checkmate Government Relations lobbyist; friend of Donald Trump Jr.
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
-- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 
 ## Relationships
 

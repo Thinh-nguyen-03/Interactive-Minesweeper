@@ -28,7 +28,7 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
-- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Pending
 
 ## Relationships

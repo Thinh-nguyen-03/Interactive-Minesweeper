@@ -17,7 +17,7 @@ Ex-Trump bodyguard; Javelin Advisors lobbyist
 ## Appears in claims
 
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
-- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 
 ## Relationships
 

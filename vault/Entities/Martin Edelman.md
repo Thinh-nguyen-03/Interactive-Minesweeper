@@ -12,7 +12,7 @@ tags:
 
 *person*
 
-US lawyer and G42 general counsel; Aryam representative on WLF's board.
+US lawyer and G42 official (reported as general counsel); Aryam representative on WLF's board.
 
 - G42 official; Aryam representative on the WLF board.
 
@@ -24,6 +24,6 @@ US lawyer and G42 general counsel; Aryam representative on WLF's board.
 
 ## Relationships
 
-- [[Martin Edelman]] *general counsel of* [[G42]] (advisory) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Martin Edelman]] *official (reported general counsel) of* [[G42]] (advisory) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Martin Edelman]] *board member (Aryam seat)* [[World Liberty Financial]] (2025, advisory) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Martin Edelman]] *board member representing Aryam* [[World Liberty Financial]] (2025, advisory) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]

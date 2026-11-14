@@ -20,7 +20,7 @@ Pardoned Trump ally; paid $600K by Roger Ver
 
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
-- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 
 ## Relationships
 

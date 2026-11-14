@@ -17,7 +17,7 @@ Founder of Ballard Partners; longtime Trump fundraiser
 ## Appears in claims
 
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
-- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 
 ## Relationships
 

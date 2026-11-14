@@ -71,7 +71,7 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 
 ## Relationships
 

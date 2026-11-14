@@ -12,10 +12,10 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 ## Verdicts
 
 - Confirmed: 2
-- Mostly accurate: 54
+- Mostly accurate: 55
 - Partly accurate: 2
 - Unverified: 2
-- Pending: 10
+- Pending: 9
 
 ## Claims
 
@@ -82,7 +82,7 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[C61 Shared lawyers and law firms across the deals]] · Pending
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Pending
 - [[C63 Shell entities and ownership chains]] · Pending
-- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Pending
+- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Pending
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Pending
 - [[C67 Investors who show up in several Trump-family vehicles]] · Pending
