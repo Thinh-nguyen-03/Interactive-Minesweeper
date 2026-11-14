@@ -2,7 +2,7 @@
 id: "microsoft"
 kind: "entity"
 type: "company"
-connections: 9
+connections: 10
 claims: 4
 tags:
   - "entity"
@@ -16,11 +16,12 @@ Invested $1.5B in G42 in 2024; AIP founding member.
 |---|---|
 | Type | Company |
 | Appears in | 4 claims |
-| Connections | 9 |
+| Connections | 10 |
 
 ## How other claims describe it
 
 - G42 partner licensed to ship Nvidia chips to UAE
+- AIP co-founder; $1.5B G42 investor
 - $10M ballroom; Monaco episode
 
 ## Appears in claims
@@ -28,14 +29,18 @@ Invested $1.5B in G42 in 2024; AIP founding member.
 - [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Microsoft]] *invested $1.5B in* [[G42]] · 2024-04-16 · $1.5B · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Microsoft]] *invested $1.5B in* [[G42]] · 2024-04-16 · $1.5B · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Microsoft]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+
+### Ownership (1)
+
+- [[Microsoft]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 
 ### Regulatory (2)
 

@@ -192,7 +192,7 @@ kbd { font: 400 11.5px/16px var(--font-body); border: 1px solid var(--line-stron
   border: 1px solid var(--line-strong); background: var(--bg); color: var(--text);
 }
 .searchbox input::placeholder { color: var(--faint); }
-.searchbox svg { position: absolute; left: 10px; top: 9px; color: var(--faint); pointer-events: none; }
+.searchbox > svg { position: absolute; left: 10px; top: 9px; color: var(--faint); pointer-events: none; }
 .searchbox kbd { position: absolute; right: 8px; top: 7px; pointer-events: none; }
 .results {
   position: absolute; z-index: 60; top: 37px; left: 0; right: 0; max-height: min(60vh, 440px); overflow: auto;
@@ -200,8 +200,8 @@ kbd { font: 400 11.5px/16px var(--font-body); border: 1px solid var(--line-stron
 }
 .results li { display: flex; align-items: center; gap: 9px; padding: 6px 8px; border-radius: 4px; cursor: pointer; min-width: 0; }
 .results li[aria-selected="true"], .results li:hover { background: var(--surface-2); }
-.results .r-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.results .r-kind { color: var(--muted); font-size: 12.5px; flex: none; }
+.results .r-name { flex: 1 1 55%; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.results .r-kind { color: var(--muted); font-size: 12.5px; flex: 0 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .results .empty { color: var(--muted); cursor: default; }
 
 .btn {
@@ -499,7 +499,7 @@ button.rankrow:hover, .rankrow[aria-current="true"] { background: var(--surface-
   .topbar { gap: 8px 10px; padding-top: 8px; }
   .searchbox { order: 3; flex: 1 1 100%; }
   .searchbox input { height: 36px; padding-right: 10px; }
-  .searchbox svg { top: 11px; }
+  .searchbox > svg { top: 11px; }
   .tabs { order: 4; flex: 1 1 100%; gap: 22px; }
   .tabs button { min-height: 34px; padding: 0 0 4px; }
   .hint { align-items: flex-start; }

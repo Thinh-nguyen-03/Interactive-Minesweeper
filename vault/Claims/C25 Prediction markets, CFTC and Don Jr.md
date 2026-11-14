@@ -20,7 +20,7 @@ tags:
 
 ## Bottom line
 
-Most of the core facts hold up.
+Most of the core facts hold up. TMTG announced Truth Predict in Oct 2025 and shelved it in Aug 2026 before a full launch.
 
 ## What holds up
 
@@ -53,7 +53,6 @@ Most of the core facts hold up.
 
 ## In more detail
 
-- TMTG announced Truth Predict in Oct 2025 and shelved it in Aug 2026 before a full launch.
 - Don Jr. is a Kalshi strategic adviser and sits on Polymarket's advisory board, and his firm 1789 Capital invested in Polymarket.
 - Rep. McGovern asked Selig on Apr 16, 2026 whether the White House had sought to drop a Polymarket probe.
 - Trump posted 'It is a major industry, and we must protect it' on May 26, 2026, and the NYT reported Don Jr.'s March 2026 pitch to GOP attorneys general.

@@ -23,7 +23,7 @@ tags:
 
 ## Bottom line
 
-The documented core holds up.
+The documented core holds up. Crypto.com (AP) and Gemini (an LDA record and Legis1) retained Jeff Miller's Miller Strategies.
 
 ## What holds up
 
@@ -52,7 +52,6 @@ The documented core holds up.
 
 ## In more detail
 
-- Crypto.com (AP) and Gemini (an LDA record and Legis1) retained Jeff Miller's Miller Strategies.
 - Kraken and Blockchain.com hired Ballard Partners in Dec 2024 for a combined $60K (Reuters).
 - Binance hired Trump-adjacent lobbyists, already established in C36.
 - The Winklevoss twins gave about $10.0M in BTC to MAGA Inc. on June 19, 2026, 23 days after the CFTC joined Gemini's motion to vacate; the judge denied that motion on Oct 15, 2026.

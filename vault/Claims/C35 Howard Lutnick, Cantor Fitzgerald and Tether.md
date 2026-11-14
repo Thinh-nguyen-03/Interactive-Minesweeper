@@ -23,7 +23,7 @@ tags:
 
 ## Bottom line
 
-The financial ties are well documented.
+The financial ties are well documented. Cantor custodies Tether's Treasury reserves and holds a $600M convertible bond convertible into ~5% of Tether, negotiated in 2024 under Lutnick.
 
 ## What holds up
 
@@ -46,7 +46,6 @@ The financial ties are well documented.
 
 ## In more detail
 
-- Cantor custodies Tether's Treasury reserves and holds a $600M convertible bond convertible into ~5% of Tether, negotiated in 2024 under Lutnick.
 - Lutnick's Cantor interests passed to trusts for his children in May 2025 (Brandon Lutnick is chairman and CEO), and Bloomberg reported that Tether lent to one of those trusts.
 - Cantor's SPAC took the Tether/Bitfinex/SoftBank-backed Twenty One Capital public, and Cantor is custodian for Tether's GENIUS-compliant USAT.
 - No policy action by Lutnick or Commerce benefiting Tether is documented, and no link between Tether and chip-export licences was found.
@@ -65,7 +64,7 @@ The financial ties are well documented.
 
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Pending
+- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
 
 ## Sub-claims
 
@@ -209,7 +208,7 @@ The financial ties are well documented.
 - [[SoftBank]] *minority owner; ~$900M* [[Twenty One Capital (XXI)]] · 2025-04-23 · $900M · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Tether]] *majority owner; contributed ~$1.6B in BTC* [[Twenty One Capital (XXI)]] · 2025-04-23 · $1.6B · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[26North]] *took minority stake* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Kyle Lutnick]] *executive vice chair* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Kyle Lutnick]] *executive vice chair* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Dynasty Trust A]] *holds Lutnick's former Cantor interests* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Howard Lutnick]] *former chairman/CEO; divested to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Brandon Lutnick]] *chairman and CEO* [[Cantor Equity Partners]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]

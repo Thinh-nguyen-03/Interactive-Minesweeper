@@ -6,7 +6,7 @@ aliases:
   - "Donald J. Trump"
   - "Trump"
   - "the president"
-connections: 253
+connections: 263
 claims: 80
 tags:
   - "entity"
@@ -22,7 +22,7 @@ US president; the video alleges he and his family made billions from regulated i
 |---|---|
 | Type | Person |
 | Appears in | 80 claims |
-| Connections | 253 |
+| Connections | 263 |
 | Also known as | Donald J. Trump; Trump; the president |
 
 ## How other claims describe it
@@ -110,10 +110,10 @@ US president; the video alleges he and his family made billions from regulated i
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Pending
+- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
-- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Pending
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
 
 ## Relationships
@@ -232,18 +232,20 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *files annual disclosure reporting Gulf licence income with* [[Office of Government Ethics]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Donald Trump]] *nominated to SEC* [[Paul Atkins]] · [[C22 Crypto.com and TMTG|C22]]
 
-### Advisory (4)
+### Advisory (5)
 
 - [[Donald Trump]] *promotes as chief crypto advocate; launched via X Spaces* [[World Liberty Financial]] · 2024-09-16 · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Trump Organization]] *says independent managers trade portfolio of* [[Donald Trump]] · 2026-05 · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Donald Trump]] *chief crypto advocate of* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[George Sorial]] *former Trump Organization EVP/chief compliance counsel* [[Donald Trump]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 
-### Political (107)
+### Political (117)
 
 - [[Keith Schiller]] *former bodyguard and Oval Office operations director* [[Donald Trump]] · 2017 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Donald Trump]] *pardoned* [[Bernard Kerik]] · 2020-02 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Brian Ballard]] *fundraiser for (>$50M reported, 2024)* [[Donald Trump]] · 2024 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[John Paulson]] *hosted $50.5M fundraiser* [[Donald Trump]] · 2024-04 · $50.5M · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Donald Trump]] *pledged Ulbricht pardon at its convention* [[Libertarian Party]] · 2024-05 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Donald Trump]] *nominated as Commerce Secretary* [[Howard Lutnick]] · 2024-11 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Donald Trump]] *nominated ambassador to France* [[Charles Kushner]] · 2024-11-30 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
@@ -261,13 +263,20 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Jeff Miller]] *inaugural festivities finance chair* [[Donald Trump]] · 2025-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Hussain Sajwani]] *announced $20B US data-centre pledge with* [[Donald Trump]] · 2025-01-07 · $20B · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Donald Trump]] *announced at White House* [[Project Stargate]] · 2025-01-21 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Donald Trump]] *appointed Commerce Secretary* [[Howard Lutnick]] · 2025-02 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Donald Trump]] *nominated as Comptroller* [[Jonathan Gould]] · 2025-02 · [[C12 WLF bank charter from the OCC|C12]]
 - [[Donald Trump]] *appointed Attorney General* [[Pam Bondi]] · 2025-02 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Adam Scott]] *met at White House on PIF deal* [[Donald Trump]] · 2025-02-04 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Donald Trump]] *hosted White House talks with Monahan and Scott (at Tour's request)* [[PGA Tour]] · 2025-02-04 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Donald Trump]] *named pardon czar* [[Alice Marie Johnson]] · 2025-02-20 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Donald Trump]] *hosted ~4-hour PGA Tour-PIF session with* [[Yasir Al-Rumayyan]] · 2025-02-20 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Jay Monahan]] *met at White House on PIF deal* [[Donald Trump]] · 2025-02-20 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Tiger Woods]] *met at White House on PIF deal* [[Donald Trump]] · 2025-02-20 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named* [[Donald Trump]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Donald Trump]] *appointed* [[Stephen Feinberg]] · 2025-03 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Donald Trump]] *signed EO 14233 establishing* [[Strategic Bitcoin Reserve]] · 2025-03-06 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Donald Trump]] *appointed senior adviser for Africa/Arab affairs* [[Massad Boulos]] · 2025-04 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Donald Trump]] *signed* [[April 2025 offshore critical minerals executive order]] · 2025-04 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Donald Trump]] *announced* [[90-day reciprocal tariff pause (9 Apr 2025)]] · 2025-04-09 · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Donald Trump]] *boasted 'made two-and-a-half billion today'* [[Charles Schwab]] · 2025-04-09 · $2.5B · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Donald Trump]] *boasted 'made $900 million'* [[Roger Penske]] · 2025-04-09 · $900M · [[C58 Market-moving posts and insider-trading allegations|C58]]
@@ -302,6 +311,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *said Netflix deal 'could be a problem'; CNN should be sold* [[Warner Bros. Discovery]] · 2025-12 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Donald Trump]] *hosted signing of* [[Washington Accords (DRC-Rwanda)]] · 2025-12-04 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Donald Trump]] *reportedly approved curbs on chip diverters (3+ times)* [[US Department of Commerce]] · 2026 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Donald Trump]] *pushed to acquire* [[Greenland]] · 2026-01 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Donald Trump]] *named 'envoy of peace'* [[Jared Kushner]] · 2026-02-19 · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Donald Trump]] *named 'envoy of peace' (unofficial, volunteer)* [[Jared Kushner]] · 2026-02-19 · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Donald Trump]] *said currency swap 'under consideration'; called 'good ally'* [[United Arab Emirates]] · 2026-04-21 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
@@ -336,7 +346,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Former Trump supporters (commentators)]] *now call most corrupt president* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Jeff Miller]] *fundraiser; finance chair of 2025 inaugural festivities* [[Donald Trump]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Karoline Leavitt]] *said he obeys conflict laws* [[Donald Trump]] · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Keith Schiller]] *former bodyguard / Oval Office operations director* [[Donald Trump]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Keith Schiller]] *former bodyguard / Oval Office operations director* [[Donald Trump]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[MAGA Inc]] *super PAC backing* [[Donald Trump]] · [[C22 Crypto.com and TMTG|C22]]
 - [[MAGA Inc]] *super PAC supporting* [[Donald Trump]] · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Ronny Jackson]] *former White House physician* [[Donald Trump]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
@@ -348,6 +358,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[White House Trump administration]] *defends ethics arrangements of* [[Donald Trump]] · [[C01 $TRUMP meme coin|C01]]
 - [[White House Trump administration]] *denies conflicts of interest* [[Donald Trump]] · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[White House Trump administration]] *says others trade for* [[Donald Trump]] · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Ronald Lauder]] *longtime friend; suggested buying Greenland (per Bolton)* [[Donald Trump]] · first term · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 
 ### Legal (33)
 

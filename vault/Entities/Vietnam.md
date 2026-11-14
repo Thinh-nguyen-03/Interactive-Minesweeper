@@ -26,7 +26,7 @@ Faced a 46% tariff threat; fast-tracked the Trump Hung Yen project
 
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
-- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Pending
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 
 ## Relationships
 

@@ -22,7 +22,7 @@ tags:
 
 ## Bottom line
 
-The lead accurately describes the allegations.
+The lead accurately describes the allegations. A Burwick Law class action accused Meteora's Benjamin Chow and Kelsier's Hayden Davis of running MELANIA, LIBRA and other tokens as a pump-and-dump, calling Melania Trump and Milei 'props' and alleging about $10M in MELANIA insider gains.
 
 ## What holds up
 
@@ -44,7 +44,6 @@ The lead accurately describes the allegations.
 
 ## In more detail
 
-- A Burwick Law class action accused Meteora's Benjamin Chow and Kelsier's Hayden Davis of running MELANIA, LIBRA and other tokens as a pump-and-dump, calling Melania Trump and Milei 'props' and alleging about $10M in MELANIA insider gains.
 - Davis admitted he was the launch strategist for both tokens and that his team sniped them.
 - Neither court found fraud: SDNY Judge Rochon dismissed the suit with prejudice on 2026-09-29 and refused to add MELANIA, and Argentina dropped its LIBRA criminal case in October 2026.
 - No US regulator has acted.

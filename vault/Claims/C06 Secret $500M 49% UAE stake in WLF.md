@@ -167,7 +167,7 @@ The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle bac
 - [[Aryam Investment 1]] *agreed to pay $500M for a 49% stake in* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Tahnoon-linked investment vehicle]] *secretly bought 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C14 Steve and Zach Witkoff|C14]]
 - [[Donald Trump]] *co-created, holds stake in* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Sheikh Tahnoon bin Zayed]] *backs* [[Tahnoon-linked investment vehicle]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 
 ### Family (3)

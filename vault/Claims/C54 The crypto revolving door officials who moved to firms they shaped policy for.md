@@ -24,7 +24,7 @@ tags:
 
 ## Bottom line
 
-Most of the named moves are documented.
+Most of the named moves are documented. Bo Hines left the White House crypto council on 9 Aug 2025, joined Tether on 19 Aug and became CEO of its US arm (USAT) on 12 Sep 2025.
 
 ## What holds up
 
@@ -52,7 +52,6 @@ Most of the named moves are documented.
 
 ## In more detail
 
-- Bo Hines left the White House crypto council on 9 Aug 2025, joined Tether on 19 Aug and became CEO of its US arm (USAT) on 12 Sep 2025.
 - Per the WSJ (14 Oct 2026), a firm he co-owned, Nxum, had a $415K-a-month Tether deal from May 2025 and received about $6.3M, and Sen. Blumenthal opened an inquiry on 22 Oct 2026.
 - Caroline Pham (CFTC to MoonPay), Summer Mersinger (CFTC to Blockchain Association) and Brian Quintenz (a16z/Kalshi to a withdrawn CFTC nomination to SUI Group's board) are also documented.
 - So are the industry ties Mike Selig, Paul Atkins and Jonathan Gould brought into office, and Steve Witkoff's retained World Liberty holdings as special envoy.

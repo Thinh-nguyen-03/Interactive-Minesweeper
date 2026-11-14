@@ -2,7 +2,7 @@
 id: "china"
 kind: "entity"
 type: "country"
-connections: 16
+connections: 17
 claims: 11
 tags:
   - "entity"
@@ -18,7 +18,7 @@ Rival invoked to justify the family's crypto and robotics ventures.
 |---|---|
 | Type | Country |
 | Appears in | 11 claims |
-| Connections | 16 |
+| Connections | 17 |
 
 ## How other claims describe it
 
@@ -40,7 +40,7 @@ Rival invoked to justify the family's crypto and robotics ventures.
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Relationships
 
@@ -54,8 +54,9 @@ Rival invoked to justify the family's crypto and robotics ventures.
 - [[Donald Trump]] *justifies crypto as beating* [[China]] · [[C01 $TRUMP meme coin|C01]]
 - [[Eric Trump]] *justifies ventures as beating* [[China]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 
-### Commercial (2)
+### Commercial (3)
 
+- [[42XFund]] *Shanghai-based China tech fund* [[China]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[DJI]] *based in* [[China]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Megaspeed]] *suspected of diverting chips to* [[China]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 

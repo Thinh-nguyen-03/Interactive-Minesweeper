@@ -20,7 +20,7 @@ tags:
 
 ## Bottom line
 
-TMTG did announce 'Truth API' on July 16, 2026.
+TMTG did announce 'Truth API' on July 16, 2026. It is a paid, real-time licensed feed of 'the platform's most market-moving Truths', and interim CEO Kevin McGurn said 'Markets already move on Truth Social posts.'
 
 ## What holds up
 
@@ -39,7 +39,6 @@ TMTG did announce 'Truth API' on July 16, 2026.
 
 ## In more detail
 
-- It is a paid, real-time licensed feed of 'the platform's most market-moving Truths', and interim CEO Kevin McGurn said 'Markets already move on Truth Social posts.'
 - The FT, via Reuters, reported pricing of up to $100,000 a month, and TMTG later confirmed a $60K-$100K range and more than 10 customer agreements.
 - Truth+ and its 'non-woke' Patriot Package are real, but they launched in 2024-2025, not alongside the API.
 - TMTG also disputes that the feed gives 'early' access rather than faster delivery.

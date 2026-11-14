@@ -23,7 +23,7 @@ tags:
 
 ## Bottom line
 
-The parallel timeline is well documented.
+The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah launch Jan 2026; Jeddah towers), PIF-funded LIV events at Doral, Trump National DC and Bedminster, and PIF's $2B in Affinity plus the PIF/Affinity $55B EA buyout all ran alongside major US-Saudi decisions.
 
 ## What holds up
 
@@ -50,7 +50,6 @@ The parallel timeline is well documented.
 
 ## In more detail
 
-- Trump-branded Saudi projects (Diriyah launch Jan 2026; Jeddah towers), PIF-funded LIV events at Doral, Trump National DC and Bedminster, and PIF's $2B in Affinity plus the PIF/Affinity $55B EA buyout all ran alongside major US-Saudi decisions.
 - Those decisions were the 13 May 2025 Riyadh deals, the 18 Nov 2025 MBS visit (F-35 approval, major non-NATO ally status, nuclear declaration, Khashoggi 'things happen'), the 19 Nov 2025 Humain chip licences, the 22 Jul 2026 123 nuclear agreement and the 17 Sep 2026 F-35 notification.
 - Several deals predate the second term, LIV fees are undisclosed, and no evidence links any specific policy action to the family's business.
 - The connection rests on timing, shared counterparties (PIF, MBS) and Trump's misleading 'very little' claim.
@@ -67,7 +66,7 @@ The parallel timeline is well documented.
 
 ## Follow-up checks
 
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Sub-claims
 
@@ -281,7 +280,7 @@ The parallel timeline is well documented.
 - [[Chris Wright]] *signed* [[US-Saudi 123 civil nuclear agreement]] · 2026-07-22 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[US Department of Energy]] *submitted 123 agreement to* [[US Congress]] · 2026-08-25 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[US State Department]] *notified F-35 sale to* [[US Congress]] · 2026-09-17 · $24.3B · [[C56 Saudi Arabia family deals alongside US policy|C56]]
-- [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 
 ### Political (9)
 

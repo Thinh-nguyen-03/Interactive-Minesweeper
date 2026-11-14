@@ -589,6 +589,8 @@ def merge(index, claim_files, reports, base):
             c["confidence"] = slugify(d.get("confidence")) or ""
             c["summary"] = tidy(d.get("summary"))
             sm = sentences(c["summary"])
+            if len(sm) > 1 and len(sm[0]) < 60:      # "The money is documented." needs its next sentence
+                sm[:2] = [sm[0] + " " + sm[1]]
             c["bottom_line"], c["bottom_parts"] = split_listing(sm[0]) if sm else ("", [])
             c["summary_points"] = sm[1:]
             subs = []

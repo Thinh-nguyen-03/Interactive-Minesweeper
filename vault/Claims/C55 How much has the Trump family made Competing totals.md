@@ -23,7 +23,11 @@ tags:
 
 ## Bottom line
 
-All the named estimates exist and are traceable.
+All the named estimates exist and are traceable. They diverge because they measure different things:
+
+- Cash received (Kirkpatrick about $3.4B in Aug 2025, rising to about $4B by Jan 2026
+- WSJ at least $1.2B from WLF
+- Reuters at least $2.3B from crypto), changes in net worth on paper (Forbes, Bloomberg), self-reported gross income on the disclosure (at least $2.2B and more than $1.4B from crypto, Trump only, 2025), and foreign revenue only (CREW, more than $117M)
 
 ## What holds up
 
@@ -45,7 +49,6 @@ All the named estimates exist and are traceable.
 
 ## In more detail
 
-- They diverge because they measure different things: cash received (Kirkpatrick about $3.4B in Aug 2025, rising to about $4B by Jan 2026; WSJ at least $1.2B from WLF; Reuters at least $2.3B from crypto), changes in net worth on paper (Forbes, Bloomberg), self-reported gross income on the disclosure (at least $2.2B and more than $1.4B from crypto, Trump only, 2025), and foreign revenue only (CREW, more than $117M).
 - Read on those terms they are broadly compatible.
 - The weak points are the Fight Fight Fight $200M-$1B TRUMP treasury, which was only a proposal with no confirmed raise, and the 'reinvested in stocks/bonds' finding, which is a portfolio-growth correlation shown in value ranges, not a traced flow of money.
 - The White House denies any profiteering and claims Trump has lost money.

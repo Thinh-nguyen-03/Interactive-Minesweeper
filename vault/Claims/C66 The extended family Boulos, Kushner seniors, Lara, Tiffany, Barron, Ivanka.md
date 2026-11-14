@@ -19,7 +19,7 @@ tags:
 
 ## Bottom line
 
-The in-law roles are documented.
+The in-law roles are documented. Massad Boulos runs US Africa diplomacy, including DRC minerals and Libyan oil, and Charles Kushner, whom Trump pardoned, is ambassador to France.
 
 ## What holds up
 
@@ -55,7 +55,6 @@ The in-law roles are documented.
 
 ## In more detail
 
-- Massad Boulos runs US Africa diplomacy, including DRC minerals and Libyan oil, and Charles Kushner, whom Trump pardoned, is ambassador to France.
 - A single NYT investigation (Aug-Sept 2025) documents Boulos-family money and access channels: a $100K payment from a Saudi businessman, now under a House Oversight inquiry; a yacht fee on a sale to Jared Kushner; and a vacation on a Turkish oil trader's yacht that would benefit from Libyan output.
 - The strongest Kushner-sibling link to government decisions is a GSA procurement chief reported to be a Thrive investor while dealing with Thrive-backed Ramp and Databricks, and the investment itself is single-source.
 - Barron's Sollos venture uses a Trump donor's house as its address.

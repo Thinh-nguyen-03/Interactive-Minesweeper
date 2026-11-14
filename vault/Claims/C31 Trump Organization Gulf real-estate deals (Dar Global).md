@@ -69,7 +69,7 @@ The Trump Organization does have a large and growing set of Trump-branded tower,
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
-- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Pending
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 
 ## Sub-claims
 

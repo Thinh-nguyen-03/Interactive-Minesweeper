@@ -412,7 +412,7 @@ For most named partners, a family deal and a favourable US decision in the same 
 
 ### Ownership (13)
 
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Edgnex Data Centers by Damac]] *data-centre arm of* [[Damac Properties]] · 2025 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Hussain Sajwani]] *founder and chairman of* [[Damac Properties]] · 2025 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[DT Marks Al Raha Beach LLC]] *Trump licensing entity formed same day as permitting EO (per CREW)* [[Trump Organization]] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]

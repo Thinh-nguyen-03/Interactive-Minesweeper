@@ -6,8 +6,8 @@ aliases:
   - "WLF"
   - "WLFI"
   - "World Liberty"
-connections: 107
-claims: 37
+connections: 108
+claims: 38
 tags:
   - "entity"
   - "type/company"
@@ -19,8 +19,8 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 37 claims |
-| Connections | 107 |
+| Appears in | 38 claims |
+| Connections | 108 |
 | Also known as | WLF; WLFI; World Liberty |
 
 ## How other claims describe it
@@ -70,6 +70,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Relationships
 
@@ -125,7 +126,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[USD1]] *reserve interest flows to* [[World Liberty Financial]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]]
 - [[World Liberty Financial]] *pays president and family* [[Donald Trump]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]] [[C29 Trump family wealth gains|C29]]
 
-### Ownership (45)
+### Ownership (46)
 
 - [[Alex Witkoff]] *co-founder* [[World Liberty Financial]] · 2024 · [[C14 Steve and Zach Witkoff|C14]]
 - [[Donald Trump Jr]] *co-founder* [[World Liberty Financial]] · 2024 · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C55 How much has the Trump family made Competing totals|C55]]
@@ -139,6 +140,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[Barron Trump]] *holds a stake (Forbes assumes about 10%)* [[World Liberty Financial]] · 2025 · [[C29 Trump family wealth gains|C29]]
 - [[Martin Edelman]] *board member of* [[World Liberty Financial]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Aryam Investment 1]] *bought 49% (CFIUS review requested)* [[World Liberty Financial]] · 2025-01 · $500M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Sheikh Tahnoon bin Zayed]] *linked Aryam holds 49% of (C57)* [[World Liberty Financial]] · 2025-01 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[WLF Holdco LLC]] *owns* [[World Liberty Financial]] · 2025-01 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
 - [[Aryam Investment 1]] *agreed to pay $500M for a 49% stake in* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Aryam Investment 1]] *reportedly agreed to buy 49% of* [[World Liberty Financial]] · 2025-01-16 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]

@@ -2,29 +2,38 @@
 id: "chimera-investment"
 kind: "entity"
 type: "fund"
-connections: 3
-claims: 1
+aliases:
+  - "Chimera Investment"
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/fund"
 ---
 # Chimera Investment LLC
 
-Tahnoon-overseen vehicle that majority-owns Lunate.
+Tahnoon-linked vehicle recorded in C57 as Lunate's majority owner
 
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
-| Connections | 3 |
+| Appears in | 2 claims |
+| Connections | 4 |
+| Also known as | Chimera Investment |
+
+## How other claims describe it
+
+- Tahnoon-overseen vehicle that majority-owns Lunate.
 
 ## Appears in claims
 
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Relationships
 
-### Ownership (2)
+### Ownership (3)
 
 - [[Chimera Investment LLC]] *majority owner of* [[Lunate]] · 2023-09 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Chimera Investment LLC]] *majority owner (per C57)* [[Lunate]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Sheikh Tahnoon bin Zayed]] *oversees* [[Chimera Investment LLC]] · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]

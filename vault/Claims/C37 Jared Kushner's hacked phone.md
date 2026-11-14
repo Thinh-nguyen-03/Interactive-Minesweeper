@@ -224,7 +224,7 @@ One specific allegation exists, but it rests on a single source.
 
 ### Ownership (4)
 
-- [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
+- [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[China]] *state sponsor of (per US officials)* [[Salt Typhoon]] · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
 - [[Netherlands]] *operates* [[MIVD (Dutch Military Intelligence and Security Service)]] · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
 - [[Russia]] *operates* [[GRU (Russian military intelligence)]] · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation

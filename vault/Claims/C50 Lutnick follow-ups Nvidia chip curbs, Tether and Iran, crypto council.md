@@ -63,7 +63,7 @@ Each of the five leads matches real, dated reporting or official documents.
 ## Follow-up checks
 
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Pending
+- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
 
 ## Sub-claims
 

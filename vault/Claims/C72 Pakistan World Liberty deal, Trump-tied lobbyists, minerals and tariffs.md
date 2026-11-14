@@ -364,7 +364,7 @@ Every dated step in the brief is documented: the Seiden/Javelin/Checkmate hires,
 - [[Asim Munir]] *presented mineral samples in Oval Office* [[Donald Trump]] · 2025-09-26 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Pakistan]] *brokered US-Iran talks* [[Iran]] · 2026-04 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Ches McDowell]] *associate* [[Donald Trump Jr]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
-- [[Keith Schiller]] *former bodyguard / Oval Office operations director* [[Donald Trump]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Keith Schiller]] *former bodyguard / Oval Office operations director* [[Donald Trump]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Ronny Jackson]] *former White House physician* [[Donald Trump]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
 ### Commercial (10)

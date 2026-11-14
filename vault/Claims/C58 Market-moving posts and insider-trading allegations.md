@@ -24,7 +24,7 @@ tags:
 
 ## Bottom line
 
-Most of the pattern in the brief is documented.
+Most of the pattern in the brief is documented. On 9 April 2025 Trump posted 'THIS IS A GREAT TIME TO BUY!!!' less than four hours before the 90-day tariff pause, Reuters documented a burst of bullish options buying minutes before the pause post, Senate and House Democrats asked the SEC to investigate, and Trump bragged on camera that friends had made billions.
 
 ## What holds up
 
@@ -49,7 +49,6 @@ Most of the pattern in the brief is documented.
 
 ## In more detail
 
-- On 9 April 2025 Trump posted 'THIS IS A GREAT TIME TO BUY!!!' less than four hours before the 90-day tariff pause, Reuters documented a burst of bullish options buying minutes before the pause post, Senate and House Democrats asked the SEC to investigate, and Trump bragged on camera that friends had made billions.
 - Later episodes are documented too: a CFTC/DOJ probe of oil-futures trades placed before Trump's Iran posts (March-April 2026), suspicious Polymarket bets before the Maduro raid and the Iran strikes, a White House email warning staff not to trade on nonpublic information, the Intercept/FPF suit over the paid Truth API, and a Rogan podcast exchange calling the API 'insider trading'.
 - No public evidence or official finding ties Trump, his family or named officials to any of these trades.
 - The one criminal case is a soldier charged over the Maduro bets.

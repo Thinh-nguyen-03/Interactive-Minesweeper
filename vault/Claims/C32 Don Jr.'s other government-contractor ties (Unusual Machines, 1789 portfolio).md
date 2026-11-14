@@ -23,7 +23,7 @@ tags:
 
 ## Bottom line
 
-Unusual Machines is the strongest example.
+Unusual Machines is the strongest example. Don Jr. joined its advisory board on Nov 27, 2024 with 331,580 shares, and in Oct 2025 the company announced its largest Army order (3,500 drone motors, value undisclosed); in 2026 it was reported to be negotiating a Pentagon equity stake.
 
 ## What holds up
 
@@ -48,7 +48,6 @@ Unusual Machines is the strongest example.
 
 ## In more detail
 
-- Don Jr. joined its advisory board on Nov 27, 2024 with 331,580 shares, and in Oct 2025 the company announced its largest Army order (3,500 drone motors, value undisclosed); in 2026 it was reported to be negotiating a Pentagon equity stake.
 - Several 1789 portfolio companies won large federal awards after 1789's stakes became public: Anduril's Army enterprise agreement (ceiling up to $20B, Mar 2026), SpaceX and Anduril's Golden Dome interceptor awards (Apr 2026), plus Firehawk's small Air Force and Army awards.
 - Those awards were competitive or multi-vendor, the companies' government business predates 1789, and no reporting ties any of them to 1789 or Don Jr. The Executive Branch club is a real Don Jr./1789 venture with no documented federal benefit.
 - Every side denies intervention, and no reporting shows any.

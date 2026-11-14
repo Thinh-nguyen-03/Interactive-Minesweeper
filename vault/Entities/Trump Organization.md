@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "family business"
-connections: 63
-claims: 25
+connections: 65
+claims: 26
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ The family's hotel and golf luxury business, incl.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 25 claims |
-| Connections | 63 |
+| Appears in | 26 claims |
+| Connections | 65 |
 | Also known as | family business |
 
 ## Background
@@ -59,6 +59,7 @@ The family's hotel and golf luxury business, incl.
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
 
 ## Relationships
@@ -72,7 +73,7 @@ The family's hotel and golf luxury business, incl.
 - [[Damac Properties]] *pays licence fees for Trump golf club Dubai (2025 est. ~$12.5M)* [[Trump Organization]] · 2025 · $12.5M · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Dar Global]] *pays licence fees to (Saudi/Gulf projects)* [[Trump Organization]] · 2025 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 
-### Ownership (16)
+### Ownership (17)
 
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks Oman LLC]] · 2022-11 · [[C63 Shell entities and ownership chains|C63]]
 - [[DT Marks Al Raha Beach LLC]] *Trump licensing entity formed same day as permitting EO (per CREW)* [[Trump Organization]] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
@@ -90,6 +91,7 @@ The family's hotel and golf luxury business, incl.
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks Doha LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks KSA LLC]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Trump Organization]] *owns* [[Trump National Doral]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 
 ### Regulatory (1)
 

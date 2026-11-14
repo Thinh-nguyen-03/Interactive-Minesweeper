@@ -22,7 +22,7 @@ tags:
 
 ## Bottom line
 
-The dated facts in the brief hold up.
+The dated facts in the brief hold up. Bloomberg, CNBC and others reported on 2025-07-15 that the DOJ (Manhattan U.S. Attorney's Office) and the CFTC had closed their Polymarket probes with no charges.
 
 ## What holds up
 
@@ -48,7 +48,6 @@ The dated facts in the brief hold up.
 
 ## In more detail
 
-- Bloomberg, CNBC and others reported on 2025-07-15 that the DOJ (Manhattan U.S. Attorney's Office) and the CFTC had closed their Polymarket probes with no charges.
 - That was six weeks before 1789 Capital's 2025-08-26 investment and Don Jr.'s move to the advisory board.
 - The CFTC under Selig sued AZ, CT and IL (2026-04-02), NY (2026-04-24) and WI (2026-04-28), and later MN and UT, and Sen. Curtis asked Senate Judiciary on 2026-09-21 to investigate.
 - What the record does not show: who decided to close the probes (neither agency ever said, and the notices were never published), or any link between the closure and the Trump family.

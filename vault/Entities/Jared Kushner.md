@@ -52,7 +52,7 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Pending
 
 ## Relationships
@@ -68,7 +68,7 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 
 - [[Jared Kushner]] *divested Thrive-linked LLCs (2017 ethics filing)* [[Thrive Capital]] · 2017-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Jared Kushner]] *founder* [[Affinity Partners]] · 2021 · [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]] [[C73 Qatar's access network inside and around the administration|C73]]
-- [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
+- [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Jared Kushner]] *affiliated via Affinity partners; minority partner* [[Atlantic Incubation Partners LLC]] · 2024-12-30 · [[C63 Shell entities and ownership chains|C63]]
 - [[Jared Kushner]] *self-described minority partner in* [[Zvernec Vjosa-Narta coastal project]] · 2026-10 · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Jared Kushner]] *founded* [[Affinity Partners]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

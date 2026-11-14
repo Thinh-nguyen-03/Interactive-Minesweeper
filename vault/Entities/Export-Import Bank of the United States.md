@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "Export-Import Bank of the U.S."
-connections: 11
-claims: 4
+connections: 13
+claims: 5
 tags:
   - "entity"
   - "type/government"
@@ -17,12 +17,13 @@ Issued letters of interest and loans to mineral projects
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 4 claims |
-| Connections | 11 |
+| Appears in | 5 claims |
+| Connections | 13 |
 | Also known as | Export-Import Bank of the U.S. |
 
 ## How other claims describe it
 
+- Lender to Perpetua; issued an LOI to Critical Metals
 - Issued a letter of interest for up to $900M.
 - Approved $1.25B for Reko Diq, Dec 2025.
 - US export credit agency
@@ -33,16 +34,19 @@ Issued letters of interest and loans to mineral projects
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
 
 ## Relationships
 
-### Money (6)
+### Money (8)
 
+- [[Export-Import Bank of the United States]] *letter of interest for up to $120M loan* [[Critical Metals Corp]] · 2025-06 · $120M · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Export-Import Bank of the United States]] *letter of interest up to $900M* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $900M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Export-Import Bank of the United States]] *non-binding letter of interest* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $900M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Export-Import Bank of the United States]] *letter of interest up to $900M* [[Kaz Resources]] · 2025-11 · $900M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Export-Import Bank of the United States]] *$1.25B financing* [[Reko Diq]] · 2025-12-10 · $1.25B · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Export-Import Bank of the United States]] *advanced ~$2.7-2.9B loan* [[Perpetua Resources]] · 2026-05 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Export-Import Bank of the United States]] *board approved $2.9B loan* [[Perpetua Resources]] · 2026-05 · $2.9B · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Export-Import Bank of the United States]] *financing for graphite project* [[Westwater Resources]] · 2026-08 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 
 ### Regulatory (1)

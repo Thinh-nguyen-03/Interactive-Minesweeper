@@ -22,7 +22,7 @@ tags:
 
 ## Bottom line
 
-A paid clemency-lobbying market is well documented.
+A paid clemency-lobbying market is well documented. The WSJ (Dec 2025) reported a $1M going rate and success-fee offers of up to $5-6M. NOTUS counted more than $2.1M in 2025 lobbying disclosures that name pardons.
 
 ## What holds up
 
@@ -52,7 +52,6 @@ A paid clemency-lobbying market is well documented.
 
 ## In more detail
 
-- The WSJ (Dec 2025) reported a $1M going rate and success-fee offers of up to $5-6M. NOTUS counted more than $2.1M in 2025 lobbying disclosures that name pardons.
 - NBC reported Fred Daibes paid Keith Schiller's firm $1M, and 60 Minutes filmed Burkman and Wohl pitching a $300K pardon.
 - The SEC dropped its civil cases against Milton, Watson, Ozy and Archer after clemency, and Liz Oyer was fired and replaced by Ed Martin.
 - Several details in the brief need correcting: Watson is not a documented donor, the House Democrats' estimate is now about $1.7B, Stone's $600K from Ver was disclosed as exit-tax lobbying, and Martin left the post in Aug 2026.
@@ -310,7 +309,7 @@ A paid clemency-lobbying market is well documented.
 - [[House Judiciary Committee Democrats]] *estimated pardons erased $1.3B (2025), then $1.7B (2026)* [[Donald Trump]] · 2026-08-21 · $1.7B · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Jamie Raskin]] *ranking member of* [[House Judiciary Committee Democrats]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Karoline Leavitt]] *press secretary; denies pardon profiteering* [[White House Trump administration]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Keith Schiller]] *former bodyguard / Oval Office operations director* [[Donald Trump]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Keith Schiller]] *former bodyguard / Oval Office operations director* [[Donald Trump]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 
 ### Legal (13)
 

@@ -6,8 +6,8 @@ aliases:
   - "Abu Dhabi"
   - "Dubai"
   - "UAE"
-connections: 46
-claims: 24
+connections: 48
+claims: 25
 tags:
   - "entity"
   - "type/country"
@@ -21,8 +21,8 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 24 claims |
-| Connections | 46 |
+| Appears in | 25 claims |
+| Connections | 48 |
 | Also known as | Abu Dhabi; Dubai; UAE |
 
 ## How other claims describe it
@@ -58,6 +58,7 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
 
 ## Relationships
@@ -75,10 +76,11 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[MGX]] *state-linked fund of* [[United Arab Emirates]] · [[C10 Binance driving USD1 adoption|C10]]
 - [[United Arab Emirates]] *home jurisdiction of* [[Lunate]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 
-### Regulatory (2)
+### Regulatory (3)
 
 - [[AI Diffusion Rule]] *placed in restricted tier 2* [[United Arab Emirates]] · 2025-01 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[White House Trump administration]] *agreed AI Acceleration Partnership / chip framework with* [[United Arab Emirates]] · 2025-05-15 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[BIS UAE Country Group A 5 rule]] *moved from D:3/D:4 to A:5* [[United Arab Emirates]] · 2026-07-10 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 
 ### Political (12)
 

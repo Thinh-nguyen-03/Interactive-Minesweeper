@@ -23,7 +23,7 @@ tags:
 
 ## Bottom line
 
-The core of the lead is documented.
+The core of the lead is documented. Qatar's sovereign fund (QIA) bought the Park Lane Hotel for about $623M in August 2023.
 
 ## What holds up
 
@@ -46,7 +46,6 @@ The core of the lead is documented.
 
 ## In more detail
 
-- Qatar's sovereign fund (QIA) bought the Park Lane Hotel for about $623M in August 2023.
 - Alex Witkoff pitched QIA a planned $4B real-estate credit fund, and per the NYT the sons also approached UAE and Kuwaiti funds.
 - Steve Witkoff disclosed a $120M sale of a Witkoff Group stake with no buyer, date or percentage named, and his disclosures went uncertified while Congress pressed for investigations.
 - Corrections: the Park Lane seller was a Witkoff–Mubadala joint venture, and Qatar says the hotel was not Witkoff's.
@@ -159,7 +158,7 @@ The core of the lead is documented.
 - [[Karoline Leavitt]] · Person
 - [[Kuwait]] · Country
 - [[Leonard Blavatnik]] · Person
-- [[Mubadala Investment Company]] · Fund
+- [[Mubadala]] · Fund
 - [[Office of Government Ethics]] · Government body
 - [[Park Lane Hotel (36 Central Park South)]] · Asset
 - [[Qatar]] · Country
@@ -189,7 +188,7 @@ The core of the lead is documented.
 
 - [[Jho Low]] *co-bought with Witkoff for ~$654M (stake later forfeited)* [[Park Lane Hotel (36 Central Park South)]] · 2013 · $654M · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Steve Witkoff]] *co-owned via JV with Mubadala (share undisclosed), sold to QIA* [[Park Lane Hotel (36 Central Park South)]] · 2013-2023 · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Mubadala Investment Company]] *co-owner; bought Jho Low's ~38% stake from the DOJ for $139.6M* [[Park Lane Hotel (36 Central Park South)]] · 2018-12 · $139.6M · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Mubadala]] *co-owner; bought Jho Low's ~38% stake from the DOJ for $139.6M* [[Park Lane Hotel (36 Central Park South)]] · 2018-12 · $139.6M · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Steve Witkoff]] *co-founder (see C14/C42)* [[World Liberty Financial]] · 2024 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Alex Witkoff]] *CEO of* [[Witkoff Group]] · 2025 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Athene Annuity and Life Co]] *subsidiary of* [[Apollo Global Management]] · [[C53 The Witkoff family's own Gulf money|C53]]

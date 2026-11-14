@@ -36,7 +36,7 @@ London-listed international arm of Dar Al Arkan; developer of most Trump Gulf pr
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
-- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Pending
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 
 ## Relationships
 

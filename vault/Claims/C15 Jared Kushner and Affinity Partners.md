@@ -62,7 +62,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Sub-claims
 
@@ -188,7 +188,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 
 ### Ownership (6)
 
-- [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
+- [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Jared Kushner]] *runs* [[Affinity Partners]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Mohammed bin Salman]] *chairs board of* [[Public Investment Fund (Saudi Arabia)]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Qatar]] *owns* [[Qatar Investment Authority]] · [[C15 Jared Kushner and Affinity Partners|C15]]

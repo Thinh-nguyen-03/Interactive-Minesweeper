@@ -1231,7 +1231,7 @@
       }).join('') + (note ? '<p class="note">' + note + '</p>' : '') + '</fieldset>';
     }
     $('filters').innerHTML =
-      group('kind', 'Show', function (v) { return { claim: 'Claims', entity: 'People and organisations', theme: 'Themes' }[v]; },
+      group('kind', 'Show', function (v) { return { claim: 'Claims', entity: 'Names', theme: 'Themes' }[v]; },
         function (v) { return v === 'claim' ? glyph('diamond', 'c-claim') : v === 'theme' ? glyph('octagon', 'c-theme', { hollow: true }) : glyph('circle', 'c-claim'); }) +
       group('origin', 'Claim origin', function (v) { return { 'video': 'From the video', 'follow-up': 'Follow-up lead', 'connection-hunt': 'Connection hunt' }[v]; }, function (v) { return originGlyph(v); }) +
       group('verdict', 'Verdict', function (v) { return VLABEL[v]; }, function (v) { return '<i class="v-' + v + '" style="display:inline-flex">' + vicon(v, 14) + '</i>'; }) +
@@ -1277,7 +1277,7 @@
     box.innerHTML = results.length ? results.map(function (r, i) {
       var n = r.n;
       return '<li role="option" id="res-' + i + '" data-i="' + i + '" aria-selected="' + (i === active) + '">' + nodeGlyph(n, 14) + '<span class="r-name">' + esc(n.kind === 'claim' ? n.id + ' ' + n.title : n.name) + '</span><span class="r-kind">' +
-        (n.kind === 'claim' ? (n.verdict === 'unverified' ? flagText(n.single_source) : VLABEL[n.verdict]) : n.kind === 'theme' ? 'Theme' : TLABEL[n.type]) + '</span></li>';
+        (n.kind === 'claim' ? (n.verdict === 'unverified' ? (n.single_source ? 'Unverified, single source' : 'Unverified allegation') : VLABEL[n.verdict]) : n.kind === 'theme' ? 'Theme' : TLABEL[n.type]) + '</span></li>';
     }).join('') : '<li class="empty">Nothing matches “' + esc(q) + '”. Try a surname, a company name or a claim number such as C05.</li>';
     box.hidden = false; input.setAttribute('aria-expanded', 'true');
     input.setAttribute('aria-activedescendant', active >= 0 ? 'res-0' : '');

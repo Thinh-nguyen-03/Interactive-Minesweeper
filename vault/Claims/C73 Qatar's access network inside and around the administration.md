@@ -25,7 +25,7 @@ tags:
 
 ## Bottom line
 
-Most of the Qatari ties in the brief are documented.
+Most of the Qatari ties in the brief are documented. They include Bondi's Ballard FARA work, Patel's embassy consulting plus a March 2025 waiver and Dec 2025 FBI-Qatar agreements, Kerik's April 2025 contract, QIA money in Kushner's Affinity and the WBD bid, the QIA Park Lane purchase, Barrack's Colony-QIA history and his attendance at UCC's Syria signing, the Qatari Diar licence, and a Qatari royal's $50M Newsmax stake.
 
 ## What holds up
 
@@ -56,7 +56,6 @@ Most of the Qatari ties in the brief are documented.
 
 ## In more detail
 
-- They include Bondi's Ballard FARA work, Patel's embassy consulting plus a March 2025 waiver and Dec 2025 FBI-Qatar agreements, Kerik's April 2025 contract, QIA money in Kushner's Affinity and the WBD bid, the QIA Park Lane purchase, Barrack's Colony-QIA history and his attendance at UCC's Syria signing, the Qatari Diar licence, and a Qatari royal's $50M Newsmax stake.
 - Also documented: Zeldin's consulting for the same royal's Heritage Advisors, the fund in the Menendez-Daibes case.
 - The US decisions (security EO, Idaho facility, $38B Al Udeid statement, arms sales up to the $4.5B KC-46A) are documented.
 - Weaker than briefed: the Witkoff $100M Qatar-trust link was corrected (the lender was Apollo itself), Wiles's Mercury-Qatar tie predates her, and a current Ballard-Qatar contract is unverified.

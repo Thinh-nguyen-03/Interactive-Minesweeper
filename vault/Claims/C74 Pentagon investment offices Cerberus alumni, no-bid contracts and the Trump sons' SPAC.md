@@ -24,7 +24,7 @@ tags:
 
 ## Bottom line
 
-Every role, contract and loan in the brief is documented.
+Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD) runs OSC, and Kollitides (ex-Cerberus, ex-A&M Capital, a special government employee) runs Feinberg's Economic Defense Unit, which A&M Federal advises under no-bid deals worth up to about $350M. Kollitides sat on D. Boral Acquisition I's board from Feb 10 to Sep 23, 2026, alongside Kevin McGurn, CEO of the Trump sons' D. Boral-underwritten SPAC and interim CEO of Trump Media.
 
 ## What holds up
 
@@ -53,7 +53,6 @@ Every role, contract and loan in the brief is documented.
 
 ## In more detail
 
-- Lorch (ex-Cerberus MD) runs OSC, and Kollitides (ex-Cerberus, ex-A&M Capital, a special government employee) runs Feinberg's Economic Defense Unit, which A&M Federal advises under no-bid deals worth up to about $350M. Kollitides sat on D. Boral Acquisition I's board from Feb 10 to Sep 23, 2026, alongside Kevin McGurn, CEO of the Trump sons' D. Boral-underwritten SPAC and interim CEO of Trump Media.
 - OSC lent to Vulcan, PDW and Neros, but not, so far, to Unusual Machines.
 - The Pentagon says Feinberg is recused from Cerberus matters, a single-source report says Lutnick screens Cerberus deals, and no recusal or waiver for Kollitides or Lorch has been published.
 - No reporting shows any Cerberus alum steering a decision toward a Trump-family interest.
@@ -320,7 +319,7 @@ Every role, contract and loan in the brief is documented.
 
 - [[Peter Navarro]] *initiated OSC loan request* [[Vulcan Elements]] · 2025 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Donald Trump]] *appointed* [[Stephen Feinberg]] · 2025-03 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
-- [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[David Lorch]] *director* [[Office of Strategic Capital]] · 2025-11 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Economic Defense Unit ('Deal Team Six')]] *reports to* [[Stephen Feinberg]] · 2026-02 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[George Kollitides]] *director (SGE)* [[Economic Defense Unit ('Deal Team Six')]] · 2026-02 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]

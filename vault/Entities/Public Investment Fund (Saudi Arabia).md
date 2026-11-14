@@ -6,8 +6,8 @@ aliases:
   - "PIF"
   - "Public Investment Fund (PIF)"
   - "Saudi Public Investment Fund"
-connections: 17
-claims: 9
+connections: 20
+claims: 10
 tags:
   - "entity"
   - "type/fund"
@@ -21,8 +21,8 @@ Saudi sovereign wealth fund; put $2B into Affinity Partners.
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 9 claims |
-| Connections | 17 |
+| Appears in | 10 claims |
+| Connections | 20 |
 | Also known as | PIF; Public Investment Fund (PIF); Saudi Public Investment Fund |
 
 ## How other claims describe it
@@ -44,28 +44,33 @@ Saudi sovereign wealth fund; put $2B into Affinity Partners.
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Relationships
 
-### Money (7)
+### Money (9)
 
 - [[Public Investment Fund (Saudi Arabia)]] *committed $2B to* [[Affinity Partners]] · 2021 · $2B · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Public Investment Fund (Saudi Arabia)]] *largest investor ($2B)* [[Affinity Partners]] · 2021 · $2B · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Public Investment Fund (Saudi Arabia)]] *committed $2B to (largest investor)* [[Affinity Partners]] · 2021-07 · $2B · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
 - [[Public Investment Fund (Saudi Arabia)]] *funds (ending after 2026 season)* [[LIV Golf]] · 2022 · $5B · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+- [[Public Investment Fund (Saudi Arabia)]] *proposed ~$1.5B investment in (not concluded)* [[PGA Tour Enterprises]] · 2025 · $1.5B · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Public Investment Fund (Saudi Arabia)]] *co-financed WBD bid (with QIA, L'imad: $24B total)* [[Paramount]] · 2025-12 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Public Investment Fund (Saudi Arabia)]] *funded (>$5B), ending after 2026 season* [[LIV Golf]] · 2026-04-30 · $5B · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Public Investment Fund (Saudi Arabia)]] *$2B investment; EA co-buyer* [[Affinity Partners]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Public Investment Fund (Saudi Arabia)]] *invested $2B in* [[Affinity Partners]] · $2B · [[C15 Jared Kushner and Affinity Partners|C15]]
 
-### Ownership (7)
+### Ownership (9)
 
 - [[Public Investment Fund (Saudi Arabia)]] *wholly owns* [[Diriyah Company]] · 2023 · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Public Investment Fund (Saudi Arabia)]] *owns/backs* [[Humain]] · 2025-05 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Public Investment Fund (Saudi Arabia)]] *acquired ~93% of (with partners)* [[Electronic Arts]] · 2026-08-04 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+- [[Public Investment Fund (Saudi Arabia)]] *acquired ~93.4% of (press estimate)* [[Electronic Arts]] · 2026-08-04 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Public Investment Fund (Saudi Arabia)]] *~93.4% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Mohammed bin Salman]] *chairs* [[Public Investment Fund (Saudi Arabia)]] · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Mohammed bin Salman]] *chairs board of* [[Public Investment Fund (Saudi Arabia)]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Saudi Arabia]] *owns* [[Public Investment Fund (Saudi Arabia)]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Yasir Al-Rumayyan]] *governor of* [[Public Investment Fund (Saudi Arabia)]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 
 ### Commercial (1)
 

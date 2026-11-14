@@ -19,7 +19,7 @@ tags:
 
 ## Bottom line
 
-The access layer is well documented.
+The access layer is well documented. AG Bondi lobbied for Qatar at Ballard before her office cleared the Qatari jet; Patel consulted for Qatar's embassy before signing security deals with it as FBI director; Ballard, Miller Strategies and Checkmate represent crypto firms, Kalshi, the Saudi embassy, most corporate ballroom donors, and Binance in its pardon push; and Pakistan paid three Trump-tied firms (Seiden, Schiller/Sorial's Javelin, Checkmate) in the same weeks WLF signed its Pakistan deal.
 
 ## What holds up
 
@@ -50,7 +50,6 @@ The access layer is well documented.
 
 ## In more detail
 
-- AG Bondi lobbied for Qatar at Ballard before her office cleared the Qatari jet; Patel consulted for Qatar's embassy before signing security deals with it as FBI director; Ballard, Miller Strategies and Checkmate represent crypto firms, Kalshi, the Saudi embassy, most corporate ballroom donors, and Binance in its pardon push; and Pakistan paid three Trump-tied firms (Seiden, Schiller/Sorial's Javelin, Checkmate) in the same weeks WLF signed its Pakistan deal.
 - No source shows a payment buying an outcome, Ballard was reportedly frozen out of the White House after the XRP post, and the WLF-lobbyist and Saudi-decision overlaps are our own inference.
 - No client in this project was found for Lewandowski, Arthur Schwartz or Mercury in 2025.
 
@@ -352,10 +351,10 @@ The access layer is well documented.
 - [[Brian Ballard]] *founder* [[Ballard Partners]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Carlos Trujillo]] *founder* [[Continental Strategy]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Ches McDowell]] *managing partner* [[Checkmate Government Relations]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[George Sorial]] *co-founder* [[Javelin Advisors]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[George Sorial]] *co-founder* [[Javelin Advisors]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Jason Miller]] *heads* [[SHW Partners]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Jeff Miller]] *founder* [[Miller Strategies]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Keith Schiller]] *co-founder* [[Javelin Advisors]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Keith Schiller]] *co-founder* [[Javelin Advisors]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[SC Financial Technologies]] *affiliate of* [[World Liberty Financial]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
 ### Family (1)

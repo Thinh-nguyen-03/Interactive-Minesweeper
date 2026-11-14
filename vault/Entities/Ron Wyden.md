@@ -2,8 +2,8 @@
 id: "ron-wyden"
 kind: "entity"
 type: "person"
-connections: 12
-claims: 7
+connections: 13
+claims: 8
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 7 claims |
-| Connections | 12 |
+| Appears in | 8 claims |
+| Connections | 13 |
 
 ## How other claims describe it
 
@@ -35,6 +35,7 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
 
 ## Relationships
 
@@ -43,6 +44,10 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 - [[Ron Wyden]] *co-signed letter seeking tariff-pause probe* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Ron Wyden]] *investigating Gulf fundraising* [[Affinity Partners]] · 2026-03-19 · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Ron Wyden]] *sought loan records from* [[Howard Lutnick]] · 2026-04-29 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+
+### Political (1)
+
+- [[Ron Wyden]] *letter on USAR conflicts* [[Howard Lutnick]] · 2026-02-26 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 
 ### Legal (2)
 

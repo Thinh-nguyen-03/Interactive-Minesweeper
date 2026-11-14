@@ -23,7 +23,7 @@ tags:
 
 ## Bottom line
 
-Most of the brief holds up.
+Most of the brief holds up. Reuters (Oct 28, 2026, anonymous sources) reported Bloomberg, Susquehanna and Jump Trading as Truth API subscribers.
 
 ## What holds up
 
@@ -45,7 +45,6 @@ Most of the brief holds up.
 
 ## In more detail
 
-- Reuters (Oct 28, 2026, anonymous sources) reported Bloomberg, Susquehanna and Jump Trading as Truth API subscribers.
 - Warren and Schiff wrote to the SEC on July 28, 2026, and the SEC only acknowledged receipt, with no probe found.
 - Lighthizer (effective Mar 6, 2026) and Swider (Apr 6, 2026) resigned from the board.
 - The ~$6.4B CRO treasury venture with Crypto.com and Yorkville was mutually terminated on Aug 7, 2026. Two items are off.

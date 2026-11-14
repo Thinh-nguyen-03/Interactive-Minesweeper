@@ -2,7 +2,7 @@
 id: "nvidia"
 kind: "entity"
 type: "company"
-connections: 17
+connections: 18
 claims: 9
 tags:
   - "entity"
@@ -16,15 +16,15 @@ AI-chip maker whose chips are allegedly diverted to China
 |---|---|
 | Type | Company |
 | Appears in | 9 claims |
-| Connections | 17 |
+| Connections | 18 |
 
 ## How other claims describe it
 
 - Maker of the advanced AI chips exported to the UAE
 - Chip supplier for UAE licences and Stargate UAE.
+- AIP co-founder; chip supplier under UAE licences
 - Maker of the advanced AI chips exported to UAE
 - AI-chip maker whose exports Commerce licenses
-- $25M ballroom (anonymous); export decisions
 
 ## Appears in claims
 
@@ -36,7 +36,7 @@ AI-chip maker whose chips are allegedly diverted to China
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Relationships
 
@@ -46,8 +46,9 @@ AI-chip maker whose chips are allegedly diverted to China
 - [[Donald Trump]] *bought shares ($1M-$5M on 2026-02-10, 278-T)* [[Nvidia]] · 2026-02-10 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Nvidia]] *committed, anonymously (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $25M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 
-### Ownership (1)
+### Ownership (2)
 
+- [[Nvidia]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Jensen Huang]] *CEO of* [[Nvidia]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
 
 ### Regulatory (3)

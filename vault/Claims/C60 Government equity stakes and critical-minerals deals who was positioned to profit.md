@@ -24,7 +24,7 @@ tags:
 
 ## Bottom line
 
-The core of the lead is documented.
+The core of the lead is documented. A June 28, 2026 NYT investigation (Lipton and Sonne) counted at least 14 critical-minerals companies tied to the Trump or Lutnick families that had received or were seeking more than $8.9B in federal support (mostly commitments and letters of interest), and Senate Democrats built July 2026 letters on it.
 
 ## What holds up
 
@@ -53,7 +53,6 @@ The core of the lead is documented.
 
 ## In more detail
 
-- A June 28, 2026 NYT investigation (Lipton and Sonne) counted at least 14 critical-minerals companies tied to the Trump or Lutnick families that had received or were seeking more than $8.9B in federal support (mostly commitments and letters of interest), and Senate Democrats built July 2026 letters on it.
 - The strongest instances are 1789/Vulcan, Dominari/American Ventures via Skyline-Kaz Resources (with Cantor raising $210M for a project partner), and Cantor as lead placement agent on USA Rare Earth's $1.5B PIPE alongside a $1.6B Commerce LOI.
 - The Cantor-TMC and Cantor-Critical Metals links are also real.
 - But MP Materials, Lithium Americas and Intel are not on the reported list and no family tie to them was found.
@@ -73,7 +72,7 @@ The core of the lead is documented.
 ## Follow-up checks
 
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Pending
+- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
 
 ## Sub-claims
 

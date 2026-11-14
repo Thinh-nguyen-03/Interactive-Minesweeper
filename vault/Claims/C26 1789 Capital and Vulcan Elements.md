@@ -20,7 +20,7 @@ tags:
 
 ## Bottom line
 
-Don Jr. is a 1789 Capital partner.
+Don Jr. is a 1789 Capital partner. The firm passed $1B in assets in September 2025 and later grew to roughly $2-3.5B. The NYT reported returns of roughly 200% as of mid-2026.
 
 ## What holds up
 
@@ -48,7 +48,6 @@ Don Jr. is a 1789 Capital partner.
 
 ## In more detail
 
-- The firm passed $1B in assets in September 2025 and later grew to roughly $2-3.5B. The NYT reported returns of roughly 200% as of mid-2026.
 - 1789 invested in Vulcan Elements in August 2025, about three months before a $1.4B government-backed package that included a $620M Pentagon Office of Strategic Capital loan.
 - ProPublica did report that the deal was the only one initiated by a top White House aide (Peter Navarro) and quoted 'The call came from the White House: We have to get this done.'
 - The video compresses the timing, calls the loan a 'contract', and implies Don Jr. anticipated or arranged the deal, which no reporting documents; he and 1789 deny any role.

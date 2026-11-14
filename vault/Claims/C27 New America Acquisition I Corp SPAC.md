@@ -20,7 +20,7 @@ tags:
 
 ## Bottom line
 
-The core claims hold up.
+The core claims hold up. New America Acquisition I Corp filed with the SEC on Aug. 4, 2025 for a $300M NYSE IPO, with Donald Trump Jr. and Eric Trump on its advisory board.
 
 ## What holds up
 
@@ -44,7 +44,6 @@ The core claims hold up.
 
 ## In more detail
 
-- New America Acquisition I Corp filed with the SEC on Aug. 4, 2025 for a $300M NYSE IPO, with Donald Trump Jr. and Eric Trump on its advisory board.
 - The two hold 5 million founder shares, worth about $50M on paper at $10 a share.
 - The original S-1 said the SPAC would target firms 'well-positioned to benefit from federal or state-level incentives, such as grants, tax credits, government contracts or preferential procurement programs', and an amendment filed later the same day removed that language after AP asked about it.
 - The caveats: the IPO priced in December 2025 and closed at $345M with the over-allotment, the video's quote drops 'grants, tax credits', the 'identifiable economic or security interest' phrase could not be checked against the filing, and the idea that the sons would phone the Pentagon is the video's inference, not a documented act.

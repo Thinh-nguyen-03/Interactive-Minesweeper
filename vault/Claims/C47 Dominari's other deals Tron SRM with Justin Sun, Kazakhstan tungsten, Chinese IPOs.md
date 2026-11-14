@@ -23,7 +23,7 @@ tags:
 
 ## Bottom line
 
-Every thread in the brief is documented.
+Every thread in the brief is documented. Dominari was exclusive placement agent on SRM Entertainment's June 2025 $100M (up to $210M) TRX treasury deal that made it Tron Inc. Eric Trump denies any role.
 
 ## What holds up
 
@@ -44,7 +44,6 @@ Every thread in the brief is documented.
 
 ## In more detail
 
-- Dominari was exclusive placement agent on SRM Entertainment's June 2025 $100M (up to $210M) TRX treasury deal that made it Tron Inc. Eric Trump denies any role.
 - Dominari controls 90% of the roughly $1B American Ventures, in which both sons are passive investors.
 - The sons reportedly bought into Skyline Builders through a Dominari-linked SPV before Skyline took 20% of Cove's Kaz Resources, which holds up to $1.6B in non-binding EXIM/DFC letters of interest.
 - The China-IPO scrutiny is a March 2026 House committee letter with no finding yet, and FINRA's October 2026 $800K Revere fine does not name Kyle Wool.

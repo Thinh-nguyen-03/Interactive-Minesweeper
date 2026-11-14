@@ -23,7 +23,7 @@ tags:
 
 ## Bottom line
 
-The core of the lead holds.
+The core of the lead holds. Kushner-linked companies won Albanian government backing for a roughly EUR 1.4B Sazan island resort and a larger Zvernec coastal project, both still awaiting approvals while he serves as Trump's envoy.
 
 ## What holds up
 
@@ -52,7 +52,6 @@ The core of the lead holds.
 
 ## In more detail
 
-- Kushner-linked companies won Albanian government backing for a roughly EUR 1.4B Sazan island resort and a larger Zvernec coastal project, both still awaiting approvals while he serves as Trump's envoy.
 - Rep. Raskin's Judiciary Democrats are probing the deals, Candace Owens has attacked them, and the Trump-branded Belgrade hotel on the former army HQ site collapsed in Dec 2025 when Serbian prosecutors charged officials with forging the paperwork that lifted its heritage protection.
 - Two points overreach: Affinity Partners denies being the investor or developer in Zvernec, where Kushner calls himself a personal minority partner, and no Trump branding is documented in Albania.
 - That Kushner's envoy role bought him concessions is insinuation; no proof was found.

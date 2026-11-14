@@ -22,7 +22,7 @@ tags:
 
 ## Bottom line
 
-The money is documented.
+The money is documented. Amazon paid about $40M for the 'Melania' rights (reported by Puck and the WSJ, not officially confirmed) plus about $35M in marketing, and the film grossed $16.6M. Trump's 2025 OGE report lists a $10.71M licensing fee for the film.
 
 ## What holds up
 
@@ -46,7 +46,6 @@ The money is documented.
 
 ## In more detail
 
-- Amazon paid about $40M for the 'Melania' rights (reported by Puck and the WSJ, not officially confirmed) plus about $35M in marketing, and the film grossed $16.6M. Trump's 2025 OGE report lists a $10.71M licensing fee for the film.
 - Amazon and Bezos do have large business before the government: the FTC case and $2.5B settlement, AWS federal deals, Blue Origin launch awards, the Amazon Leo FCC waiver, and the tariff spat.
 - The rival-bid figures (Disney about $14M, Paramount about $4M) rest on one anonymously sourced WSJ report, and the bribery or pay-to-play theory remains an unproven allegation by Democratic lawmakers, denied by Amazon, Bezos and Melania's office.
 

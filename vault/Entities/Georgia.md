@@ -21,4 +21,4 @@ South Caucasus state; ruling Georgian Dream seeking a US reset
 ## Appears in claims
 
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
-- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Pending
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate

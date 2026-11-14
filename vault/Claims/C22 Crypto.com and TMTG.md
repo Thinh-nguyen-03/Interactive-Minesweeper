@@ -20,7 +20,7 @@ tags:
 
 ## Bottom line
 
-Each core fact is documented.
+Each core fact is documented. Crypto.com agreed on 2025-08-26 to take $50M of TMTG stock as part of a CRO-treasury deal, and that swap closed on 2025-09-05 (TMTG paid for $105M of CRO half in its own shares); the larger SPAC treasury plan was terminated on 2026-08-07.
 
 ## What holds up
 
@@ -45,7 +45,6 @@ Each core fact is documented.
 
 ## In more detail
 
-- Crypto.com agreed on 2025-08-26 to take $50M of TMTG stock as part of a CRO-treasury deal, and that swap closed on 2025-09-05 (TMTG paid for $105M of CRO half in its own shares); the larger SPAC treasury plan was terminated on 2026-08-07.
 - The SEC closed its Crypto.com probe with no action on 2025-03-27.
 - Crypto.com gave about $36M ($35M to MAGA Inc. plus $1M to the inauguration).
 - The CFTC filed an amicus brief for Crypto.com on 2026-02-17, and the OCC conditionally approved its trust charter on 2026-02-23.

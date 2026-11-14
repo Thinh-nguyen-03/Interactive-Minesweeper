@@ -25,7 +25,7 @@ tags:
 
 ## Bottom line
 
-The documented record supports most of the brief.
+The documented record supports most of the brief. Trump-owned DT Marks DEFI is entitled to 75% of WLF's net revenue, including token-sale proceeds.
 
 ## What holds up
 
@@ -53,7 +53,6 @@ The documented record supports most of the brief.
 
 ## In more detail
 
-- Trump-owned DT Marks DEFI is entitled to 75% of WLF's net revenue, including token-sale proceeds.
 - Trump disclosed about $57M from WLF for 2024 and about $594M-$800M for 2025; outlets disagree on the size of the equity-sale line, which is reported as $65M by some and more than $250M by others.
 - Steve Witkoff reported about $107M of 2025 income from a WLF-linked holding company while the White House says he has divested, though no buyer or certificate has been shown.
 - WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI as the token hit record lows.

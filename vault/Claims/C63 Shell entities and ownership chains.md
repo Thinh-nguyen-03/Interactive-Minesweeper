@@ -19,7 +19,7 @@ tags:
 
 ## Bottom line
 
-The core ownership chains are documented.
+The core ownership chains are documented. One Florida revocable trust, with Donald Trump Jr. as sole trustee, sits above TMTG, CIC Digital (digital licences, $TRUMP) and CIC Ventures (merchandise).
 
 ## What holds up
 
@@ -48,7 +48,6 @@ The core ownership chains are documented.
 
 ## In more detail
 
-- One Florida revocable trust, with Donald Trump Jr. as sole trustee, sits above TMTG, CIC Digital (digital licences, $TRUMP) and CIC Ventures (merchandise).
 - DT Marks DEFI and DT Marks SC use the Trump Organization's naming template for foreign licensing vehicles.
 - Tahnoon-linked vehicles reportedly hold 49% of both WLF (Aryam Investment 1) and the trust-bank parent WLTC Holdings (StringZ), each time beside a Trump-family stake of about 38%.
 - The most concrete registry-level overlaps are a shared Sheridan, Wyoming formation agent for two CIC Ventures licensees, and CIC Ventures merchandise sites that accept the CIC Digital-licensed coin.

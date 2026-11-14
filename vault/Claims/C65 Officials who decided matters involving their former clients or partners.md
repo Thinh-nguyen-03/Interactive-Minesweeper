@@ -491,7 +491,7 @@ Most of the named officials have documented prior ties to parties affected by th
 - [[Pete Hegseth]] *Secretary* [[Pentagon (Department of Defense)]] · 2025-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Scott Bessent]] *Secretary* [[US Treasury]] · 2025-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Donald Trump]] *appointed Attorney General* [[Pam Bondi]] · 2025-02 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Paul Atkins]] *chair* [[Securities and Exchange Commission]] · 2025-04 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Donald Trump]] *appointed ambassador to France; pardoned 2020* [[Charles Kushner]] · 2025-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Massad Boulos]] *mediated minerals-for-security deal* [[Democratic Republic of the Congo]] · 2025-06-27 · [[C65 Officials who decided matters involving their former clients or partners|C65]]

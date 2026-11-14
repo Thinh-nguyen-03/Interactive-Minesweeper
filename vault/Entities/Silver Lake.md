@@ -2,7 +2,7 @@
 id: "silver-lake"
 kind: "entity"
 type: "fund"
-connections: 6
+connections: 7
 claims: 4
 tags:
   - "entity"
@@ -10,16 +10,17 @@ tags:
 ---
 # Silver Lake
 
-US private-equity firm in the EA consortium
+EA co-buyer (~5.5%), TikTok JV 15%, G42 investor
 
 | | |
 |---|---|
 | Type | Fund |
 | Appears in | 4 claims |
-| Connections | 6 |
+| Connections | 7 |
 
 ## How other claims describe it
 
+- US private-equity firm in the EA consortium
 - 15% of the TikTok JV; 5.5% of EA
 - 15% owner of TikTok US JV.
 
@@ -28,13 +29,15 @@ US private-equity firm in the EA consortium
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Relationships
 
-### Ownership (4)
+### Ownership (6)
 
 - [[Silver Lake]] *15% owner* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Silver Lake]] *owns 15% of* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Silver Lake]] *acquired ~5.5% of* [[Electronic Arts]] · 2026-08-04 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Silver Lake]] *co-acquirer* [[Electronic Arts]] · 2026-08-04 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Silver Lake]] *~5.5% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Silver Lake]] *investor in* [[G42]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
