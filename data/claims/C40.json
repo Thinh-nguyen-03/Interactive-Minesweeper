@@ -871,5 +871,42 @@
       ],
       "source_url": "https://theblock.co/news/regulation/2026-08-04-senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week-410624"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "SDNY Judge Rochon dismissed the LIBRA/M3M3 class action with prejudice on 2026-09-29 and refused to add MELANIA",
+      "Argentina's LIBRA criminal case dismissed (sobreseimiento) in October 2026",
+      "TRUMP-team wallets withdrew about $94M USDC from Meteora pools in December 2025"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No changes. The dismissal date, the with-prejudice ruling and the denial of the MELANIA/ENRON/TRUST amendment all match fresh coverage (The Defiant, crypto.news, Bitcoin.com). Judge Marcelo Martinez de Giorgi dismissed Javier and Karina Milei and others on 2026-10-23, at the prosecutor's request (Perfil, Criptonoticias). The ~$94M December 2025 USDC drain comes from on-chain trackers (AMBCrypto, CoinGape), and the team has not confirmed intent, which is consistent with the write-up's framing."
+    ],
+    "new_sources": [
+      {
+        "title": "Judge dismisses LIBRA, M3M3 class action with prejudice",
+        "publisher": "The Defiant",
+        "url": "https://thedefiant.io/news/regulation/judge-dismisses-libra-m3m3-class-action-with-prejudice",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "LIBRA lawsuit dismissed as court rejects claims against Meteora and Chow",
+        "publisher": "crypto.news",
+        "url": "https://crypto.news/libra-lawsuit-dismissed-as-court-rejects-claims-against-meteora-and-chow/",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Causa $LIBRA: sobreseyeron a Javier y Karina Milei",
+        "publisher": "Perfil",
+        "url": "https://www.perfil.com/politica/causa-libra-sobreseyeron-javier-karina-milei-a03c89A4JP5P",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Is TRUMP being soft rugged? On-chain data points to a $94mln exit",
+        "publisher": "AMBCrypto",
+        "url": "https://ambcrypto.com/is-trump-being-soft-rugged-on-chain-data-points-to-a-94mln-exit/",
+        "date": "2025-12"
+      }
+    ]
+  }
 }

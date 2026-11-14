@@ -1,0 +1,1014 @@
+{
+  "id": "C56",
+  "title": "Saudi Arabia: family deals alongside US policy",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah launch Jan 2026; Jeddah towers), PIF-funded LIV events at Doral, Trump National DC and Bedminster, and PIF's $2B in Affinity plus the PIF/Affinity $55B EA buyout all ran alongside major US-Saudi decisions. Those decisions were the 13 May 2025 Riyadh deals, the 18 Nov 2025 MBS visit (F-35 approval, major non-NATO ally status, nuclear declaration, Khashoggi 'things happen'), the 19 Nov 2025 Humain chip licences, the 22 Jul 2026 123 nuclear agreement and the 17 Sep 2026 F-35 notification. Several deals predate the second term, LIV fees are undisclosed, and no evidence links any specific policy action to the family's business. The connection rests on timing, shared counterparties (PIF, MBS) and Trump's misleading 'very little' claim.",
+  "sub_claims": [
+    {
+      "statement": "The Trump Organization has Saudi real-estate licensing deals (Dar Global towers in Jeddah, the Diriyah golf/hotel project) running in parallel with US-Saudi policy.",
+      "verdict": "confirmed",
+      "finding": "Trump Tower Jeddah (~$530M, announced July 2024) and two Riyadh projects (announced Dec 2024) predate the second term. Trump Plaza Jeddah (~$1B) followed in Sept 2025. On 11 Jan 2026 Dar Global and Eric Trump launched the Trump International Golf Club and hotel at Wadi Safar, Diriyah, with ~500 mansions at $6.7M-$24M each. Reuters put the combined Diriyah and Jeddah launches at ~$10B. These are developer headline values. The Trump family's take is licence fees: The National put 2025 Gulf licensing income at ~$38M across four countries (see C31). Diriyah's master developer is Diriyah Company. It is widely described as PIF-owned, but I could not verify that in this session.",
+      "sources": [
+        "https://www.thenationalnews.com/business/property/2026/01/11/dar-global-and-trump-organisation-launch-luxury-project-in-riyadhs-diriyah",
+        "https://www.streetinsider.com/Reuters/Dar+Global+and+Trump+Organization+launch+%2410+billion+Saudi+developments/25832604.html",
+        "https://www.semafor.com/article/01/12/2026/eric-trump-markets-10b-in-saudi-real-estate-projects",
+        "https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/"
+      ]
+    },
+    {
+      "statement": "PIF-funded LIV Golf has staged events at Trump-owned courses.",
+      "verdict": "confirmed",
+      "finding": "LIV has used Trump courses since its 2022 debut at Bedminster, with the 2022 season finale at Doral. In the second term: LIV Golf Miami at Doral, 4-6 Apr 2025, which Trump attended, arriving by Marine One on 3 Apr; Maaden LIV Golf Virginia at Trump National DC (Sterling), 7-10 May 2026, title-sponsored by the Saudi mining company Ma'aden; and LIV Golf New York at Bedminster, 6-9 Aug 2026, where Trump spent the weekend. Host fees have never been disclosed. They go to the individual clubs and are folded into club revenue in Trump's disclosures, so the amount is unknown. On 30 Apr 2026 PIF said it would stop funding LIV after the 2026 season, having spent over $5B.",
+      "sources": [
+        "https://thegolfnewsnet.com/golfnewsnetteam/2025/04/04/president-donald-trump-visits-liv-golf-tournament-at-his-miami-area-resort-as-world-markets-react-to-tariffs-135976/",
+        "https://www.livgolf.com/news/liv-golf-confirms-return-to-virginia-for-2026-season",
+        "https://www.livgolf.com/news/maaden-named-title-partner-for-liv-golf-virginia-2026",
+        "https://www.livgolf.com/news/liv-golf-returns-new-york-bedminster-2026-season",
+        "https://www.trump.com/media/trump-national-bedminster-hosts-liv-golf-new-york/",
+        "https://www.ktnv.com/sports/trumps-role-as-liv-golf-host-renews-scrutiny-over-conflicts-of-interest",
+        "https://www.aljazeera.com/sports/2026/4/30/liv-golf-has-a-new-chairman-and-seeks-to-new-funding-without-saudi-backing"
+      ]
+    },
+    {
+      "statement": "Kushner's Affinity Partners holds PIF money and joined PIF in the Electronic Arts buyout.",
+      "verdict": "confirmed",
+      "finding": "PIF committed $2B to Affinity in 2021 (see C15). EA announced the $55B take-private by PIF, Silver Lake and Affinity on 29 Sep 2025, seven weeks before MBS's White House visit. Shareholders approved it on 22 Dec 2025 at $210 a share, and it closed on 4 Aug 2026. Reported stakes are PIF ~93.4%, Silver Lake ~5.5% and Affinity ~1.1%; these come from press estimates (Gameluster, TNW), not the official releases. Senators Blumenthal and Warren wrote to Treasury Secretary and CFIUS chair Bessent asking for close scrutiny. They said the deal structure 'bets $1 billion that Mr. Kushner can deliver federal approval', a reference to the reported breakup fee. Gameluster says remaining approvals came by 30 Jul 2026 (single source). I found no public record of how CFIUS ruled.",
+      "sources": [
+        "https://www.ea.com/news/ea-announces-completion-of-acquisition",
+        "https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/",
+        "https://gameluster.com/ea-acquisition-pif-leveraged-buyout/",
+        "https://thenextweb.com/news/ea-saudi-pif-buyout-closed-private-55bn-debt",
+        "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-warren-sound-alarm-on-acquisition-of-american-video-game-producer-by-saudi-arabias-sovereign-wealth-fund_jared-kushners-investment-firm"
+      ]
+    },
+    {
+      "statement": "MBS's 18 Nov 2025 White House visit produced F-35 approval, major non-NATO ally status, a civil-nuclear framework and a larger investment pledge.",
+      "verdict": "confirmed",
+      "finding": "On 18 Nov 2025 Trump said he would sell Saudi Arabia F-35s, and the White House said the leaders formalized the F-35 agreement and a deal for nearly 300 tanks. Trump announced major non-NATO ally status. The two governments signed a joint declaration completing civil-nuclear negotiations. MBS raised the Saudi US-investment pledge from $600B to 'close to $1 trillion'. Israel normalization was not secured. I did not locate the formal MNNA designation document before the search budget ran out.",
+      "sources": [
+        "https://gulfnews.com/world/gulf/saudi/f-35s-1-trillion-investment-and-non-nato-ally-status-10-takeaways-from-us-saudi-summit-1.500352052",
+        "https://www.dailysabah.com/world/mid-east/khashoggi-murder-was-huge-mistake-mbs/amp",
+        "https://thisisbeirut.com.lb/articles/1329671/nuclear-partnership-and-f-35-sale-cement-saudi-arabias-new-non-nato-ally-status",
+        "https://fortune.com/2025/11/18/trump-mbs-crown-prince-f35-normalization-ai-investments-khashoggi/",
+        "https://www.cbsnews.com/news/trump-welcomes-mbs-saudi-crown-prince-white-house"
+      ]
+    },
+    {
+      "statement": "The F-35 sale was subsequently formalized.",
+      "verdict": "confirmed",
+      "finding": "On 17 Sep 2026 the State Department notified Congress of a possible sale of 48 F-35s, worth ~$24.3B. This is a notification, not a signed contract, and it is subject to congressional review. Some House Democrats, such as Rep. Krishnamoorthi, objected, citing Israel's qualitative edge and the risk of technology leaking to China. I found no reporting on the outcome of the review.",
+      "sources": [
+        "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia",
+        "https://breakingdefense.com/2026/09/us-clears-24b-f-35-sale-for-saudi-arabia/",
+        "https://www.stripes.com/theaters/us/2026-09-18/state-department-approves-sale-of-48-f35s-to-saudi-arabia-22888413.html"
+      ]
+    },
+    {
+      "statement": "US-Saudi civil-nuclear (123) deal talks proceeded while the Trump business expanded in Saudi Arabia.",
+      "verdict": "confirmed",
+      "finding": "Energy Secretary Chris Wright and Prince Abdulaziz bin Salman signed the 123 agreement on 22 Jul 2026, and it went to Congress on 25 Aug 2026. Reports conflict on enrichment. Reuters reported the deal allows a path to enrichment. Wright called that 'just not true', and Brookings says no enrichment is permitted from the outset, but the deal lacks a UAE-style renunciation. Brookings (26 Oct 2026) expects it to take effect, probably by December 2026. Forbes (Dan Alexander, 23 Jul 2026) reported that Trump's licensing company moved into a crown-prince-backed development during the nuclear talks. A Trump Organization representative told Forbes the deal was not finalized while the president was negotiating the nuclear agreement. I could only read the Forbes piece through foreign-edition excerpts.",
+      "sources": [
+        "https://www.al-monitor.com/originals/2026/07/us-reaches-nuclear-power-deal-saudi-arabia",
+        "https://www.dailysignal.com/2026/07/23/us-saudi-arabia-nuclear-deal/",
+        "https://neutronbytes.com/2026/08/26/saudi-123-agreement-submitted-to-congress/",
+        "https://www.brookings.edu/articles/approving-the-us-saudi-nuclear-deal-while-reducing-proliferation-risks/",
+        "https://www.armscontrol.org/act/2026-03/news/us-saudi-deal-said-loosen-nonproliferation-vows",
+        "https://forbes.it/2026/07/23/tra-nucleare-e-hotel-di-lusso-cosi-trump-espande-i-suoi-affari-in-arabia-saudita/",
+        "https://www.forbes.com/sites/danalexander/2026/07/23/trump-bolstered-saudi-business-connections-amid-nuclear-discussions/"
+      ]
+    },
+    {
+      "statement": "AI-chip sales to Saudi Humain were approved.",
+      "verdict": "confirmed",
+      "finding": "Humain (PIF-backed) launched during Trump's 13 May 2025 Riyadh visit. At that visit the White House announced a $600B investment pledge and a ~$142B arms package, and Nvidia committed 18,000 GB300 chips as a first phase, with several hundred thousand over five years. On 19 Nov 2025, the day after the MBS visit, Commerce approved sales of the equivalent of up to 35,000 Blackwell GB300 chips each to Humain and the UAE's G42, subject to security and reporting conditions.",
+      "sources": [
+        "https://news.bgov.com/artificial-intelligence/nvidia-chip-sales-to-g42-humain-approved-by-commerce-department",
+        "https://www.thenationalnews.com/future/technology/2025/11/20/uae-ai-nvidia-chips-us/",
+        "https://agbi.com/analysis/finance/2025/05/the-multi-trillion-dollar-deals-agreed-on-trumps-trip",
+        "https://theregister.com/2025/05/14/saudi_spending_spree",
+        "https://interestingengineering.com/culture/trump-secures-142b-arms-sale-in-saudi"
+      ]
+    },
+    {
+      "statement": "Trump's remarks on Khashoggi during the visit.",
+      "verdict": "confirmed",
+      "finding": "In the Oval Office on 18 Nov 2025, ABC's Mary Bruce asked about the killing and about the family's Saudi business. Trump said of Khashoggi, 'Things happen, but he knew nothing about it, and we can leave it at that.' That contradicts the 2021 US intelligence assessment that MBS approved the operation. MBS called the killing a 'huge mistake'. Trump called ABC 'fake news' and later said it should lose its licence.",
+      "sources": [
+        "https://abc7news.com/post/trump-says-hell-sell-saudis-35s-crown-prince-set-visit-white-house/18168946/",
+        "https://www.dailysabah.com/world/mid-east/khashoggi-murder-was-huge-mistake-mbs/amp",
+        "https://fortune.com/2025/11/18/trump-mbs-crown-prince-f35-normalization-ai-investments-khashoggi/"
+      ]
+    },
+    {
+      "statement": "Something links the business deals to the policy decisions (quid pro quo).",
+      "verdict": "unverified",
+      "finding": "The overlap in timing and counterparties is documented: PIF is behind LIV, EA and Affinity, and Saudi developers pay Trump licence fees. No document, testimony or official finding shows that any policy decision was traded for business, or that a business deal was conditioned on policy. Several major policy items have clear separate drivers and long histories, including the Saudi F-35 request, 123 talks dating back to the Obama and Biden years, and normalization diplomacy. The link remains inference and insinuation.",
+      "sources": [
+        "https://www.nbcwashington.com/news/national-international/trump-middle-east-visit-deepens-business-crypto-ties/",
+        "https://www.al-monitor.com/originals/2025/11/trump-says-he-has-nothing-do-family-business",
+        "https://www.wyso.org/2025-11-21/fact-checking-trumps-claim-his-family-has-done-little-business-with-saudi-arabia"
+      ]
+    }
+  ],
+  "corrections": [
+    "The brief lists 'Dar Global towers' among deals that 'proceeded alongside' the November 2025 decisions. Trump Tower Jeddah (Jul 2024) and the first Riyadh announcement (Dec 2024) came before the second term. The Diriyah launch (Jan 2026) and Trump Plaza Jeddah (Sep 2025) fall inside it.",
+    "On 18 Nov 2025 Trump called the F-35 sale approved, but the formal congressional notification (48 jets, ~$24.3B) came only on 17 Sep 2026. It is not a signed contract.",
+    "Trump said the family had done 'very little' business with Saudi Arabia. Forbes's Dan Alexander, speaking to NPR, said that is not true; Forbes has estimated ~$50M from Saudi-linked deals in 2024 (figure via secondary reporting).",
+    "Affinity's EA stake is small (~1.1% per press estimates). PIF owns the bulk (~93%), so 'Kushner's EA buyout' overstates his share, though Affinity is a named co-acquirer."
+  ],
+  "denials_and_context": [
+    "Before the May 2025 trip, Karoline Leavitt called the suggestion that Trump was acting for his own benefit 'ridiculous' and said he 'is abiding by all conflict of interest laws'. The White House points to the trust run by his children and to the 2025 ethics agreement, which bars deals with foreign governments but allows deals with private foreign firms.",
+    "Trump, 18 Nov 2025: 'I have nothing to do with the family business.' He said in May 2025 that he did not discuss LIV Golf in Saudi Arabia.",
+    "A Trump Organization representative told Forbes the Diriyah-related deal was not finalized while the nuclear agreement was being negotiated.",
+    "Critics such as AEI's Timothy Carney note that Trump still profits when the company does well. Blumenthal and Warren allege Kushner's role in EA is about delivering federal approval; that is an allegation, not a finding.",
+    "Context cutting the other way: Saudi pursuit of F-35s, a 123 agreement and advanced chips long predates the Trump business deals. Comparable chip approvals went to the UAE's G42 the same day. LIV's use of Trump courses dates to 2022, when Trump was out of office.",
+    "LIV host fees to Trump clubs are undisclosed, and PIF is ending LIV funding after 2026, which weakens the golf channel going forward."
+  ],
+  "sources": [
+    {
+      "title": "F-35s, $1 trillion investment and non-Nato ally status: 10 takeaways from US-Saudi summit",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/world/gulf/saudi/f-35s-1-trillion-investment-and-non-nato-ally-status-10-takeaways-from-us-saudi-summit-1.500352052",
+      "date": "2025-11-19"
+    },
+    {
+      "title": "US designates Saudi major non-NATO ally as MBS visits Washington",
+      "publisher": "Daily Sabah",
+      "url": "https://www.dailysabah.com/world/mid-east/khashoggi-murder-was-huge-mistake-mbs/amp",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Nuclear Partnership and F-35 Sale Cement Saudi Arabia's New Non-NATO Ally Status",
+      "publisher": "This Is Beirut",
+      "url": "https://thisisbeirut.com.lb/articles/1329671/nuclear-partnership-and-f-35-sale-cement-saudi-arabias-new-non-nato-ally-status",
+      "date": "2025-11"
+    },
+    {
+      "title": "Trump, MBS: F-35s, normalization, AI investments, Khashoggi",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2025/11/18/trump-mbs-crown-prince-f35-normalization-ai-investments-khashoggi/",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Trump welcomes MBS to the White House",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-welcomes-mbs-saudi-crown-prince-white-house",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Trump defends Saudi crown prince over Khashoggi murder: 'Things happen'",
+      "publisher": "ABC News (ABC7)",
+      "url": "https://abc7news.com/post/trump-says-hell-sell-saudis-35s-crown-prince-set-visit-white-house/18168946/",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Trump says he has nothing to do with family business",
+      "publisher": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2025/11/trump-says-he-has-nothing-do-family-business",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Fact-checking Trump's claim his family has done little business with Saudi Arabia",
+      "publisher": "NPR (via WYSO)",
+      "url": "https://www.wyso.org/2025-11-21/fact-checking-trumps-claim-his-family-has-done-little-business-with-saudi-arabia",
+      "date": "2025-11-21"
+    },
+    {
+      "title": "Nvidia Chip Sales to G42, Humain Approved by Commerce Department",
+      "publisher": "Bloomberg Government",
+      "url": "https://news.bgov.com/artificial-intelligence/nvidia-chip-sales-to-g42-humain-approved-by-commerce-department",
+      "date": "2025-11-19"
+    },
+    {
+      "title": "US approves export of Nvidia AI chips to UAE and Saudi Arabia",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/future/technology/2025/11/20/uae-ai-nvidia-chips-us/",
+      "date": "2025-11-20"
+    },
+    {
+      "title": "The multi-trillion-dollar deals agreed on Trump's trip",
+      "publisher": "AGBI",
+      "url": "https://agbi.com/analysis/finance/2025/05/the-multi-trillion-dollar-deals-agreed-on-trumps-trip",
+      "date": "2025-05"
+    },
+    {
+      "title": "Saudi spending spree",
+      "publisher": "The Register",
+      "url": "https://theregister.com/2025/05/14/saudi_spending_spree",
+      "date": "2025-05-14"
+    },
+    {
+      "title": "Trump secures $142B arms sale in Saudi",
+      "publisher": "Interesting Engineering",
+      "url": "https://interestingengineering.com/culture/trump-secures-142b-arms-sale-in-saudi",
+      "date": "2025-05-13"
+    },
+    {
+      "title": "Trump's Middle East visit comes as his family deepens business, crypto ties (AP)",
+      "publisher": "NBC Washington",
+      "url": "https://www.nbcwashington.com/news/national-international/trump-middle-east-visit-deepens-business-crypto-ties/",
+      "date": "2025-05"
+    },
+    {
+      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "US clears $24B F-35 sale for Saudi Arabia",
+      "publisher": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/09/us-clears-24b-f-35-sale-for-saudi-arabia/",
+      "date": "2026-09"
+    },
+    {
+      "title": "State Department approves sale of 48 F-35s to Saudi Arabia",
+      "publisher": "Stars and Stripes",
+      "url": "https://www.stripes.com/theaters/us/2026-09-18/state-department-approves-sale-of-48-f35s-to-saudi-arabia-22888413.html",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "US reaches nuclear power deal with Saudi Arabia",
+      "publisher": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/07/us-reaches-nuclear-power-deal-saudi-arabia",
+      "date": "2026-07"
+    },
+    {
+      "title": "US Reaches Nuclear Power Deal With Saudi Arabia",
+      "publisher": "Daily Signal",
+      "url": "https://www.dailysignal.com/2026/07/23/us-saudi-arabia-nuclear-deal/",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Saudi 123 Agreement Submitted to Congress",
+      "publisher": "NeutronBytes",
+      "url": "https://neutronbytes.com/2026/08/26/saudi-123-agreement-submitted-to-congress/",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Approving the US-Saudi nuclear deal while reducing proliferation risks",
+      "publisher": "Brookings",
+      "url": "https://www.brookings.edu/articles/approving-the-us-saudi-nuclear-deal-while-reducing-proliferation-risks/",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "U.S.-Saudi Deal Said to Loosen Nonproliferation Vows",
+      "publisher": "Arms Control Association",
+      "url": "https://www.armscontrol.org/act/2026-03/news/us-saudi-deal-said-loosen-nonproliferation-vows",
+      "date": "2026-03"
+    },
+    {
+      "title": "Trump bolstered Saudi business connections amid nuclear discussions",
+      "publisher": "Forbes (not directly fetchable; read via Forbes Italia/Spain excerpts)",
+      "url": "https://www.forbes.com/sites/danalexander/2026/07/23/trump-bolstered-saudi-business-connections-amid-nuclear-discussions/",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Tra nucleare e hotel di lusso: così Trump espande i suoi affari in Arabia Saudita",
+      "publisher": "Forbes Italia",
+      "url": "https://forbes.it/2026/07/23/tra-nucleare-e-hotel-di-lusso-cosi-trump-espande-i-suoi-affari-in-arabia-saudita/",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "What does Trump's family get out of the Saudi nuclear deal?",
+      "publisher": "The Deep Dive",
+      "url": "https://thedeepdive.ca/what-does-trumps-family-get-out-of-the-saudi-nuclear-deal/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Dar Global and Trump Organisation launch luxury project in Riyadh's Diriyah",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/property/2026/01/11/dar-global-and-trump-organisation-launch-luxury-project-in-riyadhs-diriyah",
+      "date": "2026-01-11"
+    },
+    {
+      "title": "Dar Global and Trump Organization launch $10 billion Saudi developments",
+      "publisher": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/Reuters/Dar+Global+and+Trump+Organization+launch+%2410+billion+Saudi+developments/25832604.html",
+      "date": "2026-01-11"
+    },
+    {
+      "title": "Eric Trump markets $10B in Saudi real estate projects",
+      "publisher": "Semafor",
+      "url": "https://www.semafor.com/article/01/12/2026/eric-trump-markets-10b-in-saudi-real-estate-projects",
+      "date": "2026-01-12"
+    },
+    {
+      "title": "Gulf developers bring windfall to Trump family",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "EA announces completion of acquisition",
+      "publisher": "Electronic Arts",
+      "url": "https://www.ea.com/news/ea-announces-completion-of-acquisition",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Electronic Arts announces completion of acquisition by PIF, Silver Lake, and Affinity Partners",
+      "publisher": "PIF",
+      "url": "https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Saudi PIF Completes $55B EA Buyout",
+      "publisher": "Gameluster",
+      "url": "https://gameluster.com/ea-acquisition-pif-leveraged-buyout/",
+      "date": "2026-08"
+    },
+    {
+      "title": "The biggest leveraged buyout in history just took EA private",
+      "publisher": "The Next Web",
+      "url": "https://thenextweb.com/news/ea-saudi-pif-buyout-closed-private-55bn-debt",
+      "date": "2026-08"
+    },
+    {
+      "title": "Blumenthal and Warren sound alarm on acquisition of American video game producer by Saudi Arabia's sovereign wealth fund, Jared Kushner's investment firm",
+      "publisher": "Office of Sen. Blumenthal",
+      "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-warren-sound-alarm-on-acquisition-of-american-video-game-producer-by-saudi-arabias-sovereign-wealth-fund_jared-kushners-investment-firm",
+      "date": "2025"
+    },
+    {
+      "title": "President Donald Trump visits LIV Golf tournament at his Miami-area resort",
+      "publisher": "The Golf News Net",
+      "url": "https://thegolfnewsnet.com/golfnewsnetteam/2025/04/04/president-donald-trump-visits-liv-golf-tournament-at-his-miami-area-resort-as-world-markets-react-to-tariffs-135976/",
+      "date": "2025-04-04"
+    },
+    {
+      "title": "LIV Golf confirms return to Virginia for 2026 season",
+      "publisher": "LIV Golf",
+      "url": "https://www.livgolf.com/news/liv-golf-confirms-return-to-virginia-for-2026-season",
+      "date": "2025-08"
+    },
+    {
+      "title": "Maaden named title partner for LIV Golf Virginia 2026",
+      "publisher": "LIV Golf",
+      "url": "https://www.livgolf.com/news/maaden-named-title-partner-for-liv-golf-virginia-2026",
+      "date": "2026"
+    },
+    {
+      "title": "LIV Golf announces return to New York market for 2026 season",
+      "publisher": "LIV Golf",
+      "url": "https://www.livgolf.com/news/liv-golf-returns-new-york-bedminster-2026-season",
+      "date": "2026-01"
+    },
+    {
+      "title": "Trump National Bedminster hosts LIV Golf New York",
+      "publisher": "Trump Organization",
+      "url": "https://www.trump.com/media/trump-national-bedminster-hosts-liv-golf-new-york/",
+      "date": "2026-08"
+    },
+    {
+      "title": "Trump's role as LIV Golf host renews scrutiny over conflicts of interest",
+      "publisher": "KTNV (AP)",
+      "url": "https://www.ktnv.com/sports/trumps-role-as-liv-golf-host-renews-scrutiny-over-conflicts-of-interest",
+      "date": "2023"
+    },
+    {
+      "title": "LIV Golf-PGA merger and Trump",
+      "publisher": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2023/06/live-golf-pga-trump/",
+      "date": "2023-06"
+    },
+    {
+      "title": "Trump's growing pro golf influence on display at Bedminster",
+      "publisher": "Front Office Sports",
+      "url": "https://frontofficesports.com/article/trumps-growing-pro-golf-influence-on-display-at-bedminster/",
+      "date": "2026-08"
+    },
+    {
+      "title": "Saudi Arabia to end LIV Golf funding, while league appoints new chairman",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/30/liv-golf-has-a-new-chairman-and-seeks-to-new-funding-without-saudi-backing",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "LIV Golf strikes a funding deal with a mystery investor",
+      "publisher": "Insider Sport",
+      "url": "https://insidersport.com/2026/08/06/liv-golf-lead-investor-pif-exit/",
+      "date": "2026-08-06"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president; owner/beneficiary of the Trump Organization"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump Organization EVP; fronted the Diriyah launch"
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Founder of Affinity Partners; unofficial envoy"
+    },
+    {
+      "id": "mohammed-bin-salman",
+      "name": "Mohammed bin Salman",
+      "type": "person",
+      "description": "Saudi crown prince and prime minister; PIF chairman"
+    },
+    {
+      "id": "jamal-khashoggi",
+      "name": "Jamal Khashoggi",
+      "type": "person",
+      "description": "Journalist killed in 2018 in the Saudi consulate in Istanbul"
+    },
+    {
+      "id": "karoline-leavitt",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "White House press secretary"
+    },
+    {
+      "id": "chris-wright",
+      "name": "Chris Wright",
+      "type": "person",
+      "description": "US Energy Secretary; signed the Saudi 123 agreement"
+    },
+    {
+      "id": "scott-bessent",
+      "name": "Scott Bessent",
+      "type": "person",
+      "description": "Treasury Secretary and CFIUS chair"
+    },
+    {
+      "id": "richard-blumenthal",
+      "name": "Richard Blumenthal",
+      "type": "person",
+      "description": "US senator (D-CT); questioned the EA buyout"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "US senator (D-MA); questioned the EA buyout"
+    },
+    {
+      "id": "mary-bruce",
+      "name": "Mary Bruce",
+      "type": "person",
+      "description": "ABC News chief White House correspondent"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Trump family business; licenses its brand to Gulf developers"
+    },
+    {
+      "id": "dar-global",
+      "name": "Dar Global",
+      "type": "company",
+      "description": "London-listed international arm of Dar Al Arkan; Trump licensing partner"
+    },
+    {
+      "id": "dar-al-arkan",
+      "name": "Dar Al Arkan",
+      "type": "company",
+      "description": "Riyadh-based developer, parent of Dar Global"
+    },
+    {
+      "id": "diriyah-company",
+      "name": "Diriyah Company",
+      "type": "company",
+      "description": "Master developer of the Diriyah giga-project (reported as PIF-owned; not verified here)"
+    },
+    {
+      "id": "trump-diriyah-project",
+      "name": "Trump International Golf Club & Hotel, Diriyah",
+      "type": "asset",
+      "description": "Dar Global/Trump project at Wadi Safar, launched 11 Jan 2026"
+    },
+    {
+      "id": "trump-tower-jeddah",
+      "name": "Trump Tower Jeddah",
+      "type": "asset",
+      "description": "~$530M Dar Global tower announced July 2024"
+    },
+    {
+      "id": "trump-plaza-jeddah",
+      "name": "Trump Plaza Jeddah",
+      "type": "asset",
+      "description": "~$1B Dar Global project announced Sept 2025"
+    },
+    {
+      "id": "saudi-pif",
+      "name": "Public Investment Fund (PIF)",
+      "type": "fund",
+      "description": "Saudi sovereign wealth fund chaired by MBS"
+    },
+    {
+      "id": "affinity-partners",
+      "name": "Affinity Partners",
+      "type": "fund",
+      "description": "Kushner's investment firm; PIF its largest investor"
+    },
+    {
+      "id": "liv-golf",
+      "name": "LIV Golf",
+      "type": "company",
+      "description": "PIF-funded golf league; hosts events at Trump courses"
+    },
+    {
+      "id": "maaden",
+      "name": "Ma'aden",
+      "type": "company",
+      "description": "Saudi mining company; title sponsor of LIV Golf Virginia 2026"
+    },
+    {
+      "id": "trump-national-doral",
+      "name": "Trump National Doral",
+      "type": "asset",
+      "description": "Trump resort in Miami; LIV host 2022-2025"
+    },
+    {
+      "id": "trump-national-bedminster",
+      "name": "Trump National Bedminster",
+      "type": "asset",
+      "description": "Trump club in New Jersey; LIV host 2022, 2023, 2026"
+    },
+    {
+      "id": "trump-national-golf-club-dc",
+      "name": "Trump National Golf Club Washington DC",
+      "type": "asset",
+      "description": "Trump club in Sterling, VA; LIV host 2023, 2026"
+    },
+    {
+      "id": "electronic-arts",
+      "name": "Electronic Arts",
+      "type": "company",
+      "description": "US video-game publisher taken private for $55B in Aug 2026"
+    },
+    {
+      "id": "silver-lake",
+      "name": "Silver Lake",
+      "type": "fund",
+      "description": "US private-equity firm in the EA consortium"
+    },
+    {
+      "id": "humain",
+      "name": "Humain",
+      "type": "company",
+      "description": "PIF-backed Saudi AI company launched May 2025"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "type": "company",
+      "description": "US chipmaker supplying Humain"
+    },
+    {
+      "id": "g42",
+      "name": "G42",
+      "type": "company",
+      "description": "Abu Dhabi AI firm approved for chips the same day as Humain"
+    },
+    {
+      "id": "us-commerce-department",
+      "name": "US Commerce Department",
+      "type": "government",
+      "description": "Approved Blackwell chip exports to Humain/G42"
+    },
+    {
+      "id": "us-energy-department",
+      "name": "US Department of Energy",
+      "type": "government",
+      "description": "Negotiated the Saudi 123 agreement"
+    },
+    {
+      "id": "cfius",
+      "name": "CFIUS",
+      "type": "government",
+      "description": "Committee on Foreign Investment in the United States"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Hosted MBS on 18 Nov 2025"
+    },
+    {
+      "id": "state-department",
+      "name": "State Department",
+      "type": "government",
+      "description": "Notified Congress of the F-35 sale"
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Reviews the F-35 sale and the 123 agreement"
+    },
+    {
+      "id": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "type": "country",
+      "description": "Kingdom ruled de facto by MBS"
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "G42's home; parallel chip approval"
+    },
+    {
+      "id": "mbs-white-house-visit-2025",
+      "name": "MBS White House visit",
+      "type": "event",
+      "description": "18-19 Nov 2025 state-style visit and US-Saudi investment forum"
+    },
+    {
+      "id": "trump-riyadh-visit-2025",
+      "name": "Trump Riyadh visit",
+      "type": "event",
+      "description": "13 May 2025 visit: $600B pledge, ~$142B arms package, Humain/Nvidia deal"
+    },
+    {
+      "id": "saudi-f35-sale",
+      "name": "Saudi F-35 sale",
+      "type": "event",
+      "description": "48 F-35s, ~$24.3B, notified to Congress 17 Sep 2026"
+    },
+    {
+      "id": "saudi-mnna-designation",
+      "name": "Saudi major non-NATO ally status",
+      "type": "event",
+      "description": "Announced by Trump during the Nov 2025 visit"
+    },
+    {
+      "id": "us-saudi-123-agreement",
+      "name": "US-Saudi 123 civil nuclear agreement",
+      "type": "law",
+      "description": "Signed 22 Jul 2026; sent to Congress 25 Aug 2026"
+    },
+    {
+      "id": "ea-buyout",
+      "name": "Electronic Arts take-private",
+      "type": "event",
+      "description": "$55B LBO by PIF, Silver Lake and Affinity; closed 4 Aug 2026"
+    },
+    {
+      "id": "forbes",
+      "name": "Forbes",
+      "type": "media",
+      "description": "Reported Trump's Saudi business during the nuclear talks"
+    },
+    {
+      "id": "abc-news",
+      "name": "ABC News",
+      "type": "media",
+      "description": "Its reporter asked about Khashoggi and family business"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "dar-global",
+      "target": "trump-organization",
+      "label": "pays licence fees to (Saudi/Gulf projects)",
+      "type": "money",
+      "date": "2025"
+    },
+    {
+      "source": "dar-global",
+      "target": "trump-diriyah-project",
+      "label": "develops",
+      "type": "commercial",
+      "date": "2026-01-11"
+    },
+    {
+      "source": "trump-organization",
+      "target": "trump-diriyah-project",
+      "label": "licenses brand to",
+      "type": "commercial",
+      "date": "2026-01-11"
+    },
+    {
+      "source": "diriyah-company",
+      "target": "trump-diriyah-project",
+      "label": "master developer of site for",
+      "type": "commercial",
+      "date": "2026-01"
+    },
+    {
+      "source": "eric-trump",
+      "target": "trump-diriyah-project",
+      "label": "launched and marketed",
+      "type": "commercial",
+      "date": "2026-01-11"
+    },
+    {
+      "source": "dar-al-arkan",
+      "target": "dar-global",
+      "label": "parent of",
+      "type": "ownership"
+    },
+    {
+      "source": "trump-organization",
+      "target": "trump-tower-jeddah",
+      "label": "licenses brand to",
+      "type": "commercial",
+      "date": "2024-07",
+      "amount_usd": 530000000
+    },
+    {
+      "source": "trump-organization",
+      "target": "trump-plaza-jeddah",
+      "label": "licenses brand to",
+      "type": "commercial",
+      "date": "2025-09",
+      "amount_usd": 1000000000
+    },
+    {
+      "source": "saudi-pif",
+      "target": "liv-golf",
+      "label": "funds (ending after 2026 season)",
+      "type": "money",
+      "date": "2022",
+      "amount_usd": 5000000000
+    },
+    {
+      "source": "liv-golf",
+      "target": "trump-national-doral",
+      "label": "held LIV Golf Miami at",
+      "type": "commercial",
+      "date": "2025-04"
+    },
+    {
+      "source": "liv-golf",
+      "target": "trump-national-golf-club-dc",
+      "label": "held LIV Golf Virginia at",
+      "type": "commercial",
+      "date": "2026-05"
+    },
+    {
+      "source": "liv-golf",
+      "target": "trump-national-bedminster",
+      "label": "held LIV Golf New York at",
+      "type": "commercial",
+      "date": "2026-08"
+    },
+    {
+      "source": "maaden",
+      "target": "liv-golf",
+      "label": "title sponsor of LIV Golf Virginia",
+      "type": "commercial",
+      "date": "2026-05"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-organization",
+      "label": "owns (via trust run by his children)",
+      "type": "ownership"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "affinity-partners",
+      "label": "founded and runs",
+      "type": "ownership"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "donald-trump",
+      "label": "son-in-law of",
+      "type": "family"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "affinity-partners",
+      "label": "committed $2B to",
+      "type": "money",
+      "date": "2021",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "saudi-pif",
+      "target": "electronic-arts",
+      "label": "acquired ~93% of (with partners)",
+      "type": "ownership",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "affinity-partners",
+      "target": "electronic-arts",
+      "label": "co-acquirer (~1.1% reported)",
+      "type": "ownership",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "silver-lake",
+      "target": "electronic-arts",
+      "label": "co-acquirer",
+      "type": "ownership",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "cfius",
+      "label": "asked to scrutinize EA buyout",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "cfius",
+      "label": "asked to scrutinize EA buyout",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "scott-bessent",
+      "target": "cfius",
+      "label": "chairs",
+      "type": "regulatory"
+    },
+    {
+      "source": "mohammed-bin-salman",
+      "target": "saudi-pif",
+      "label": "chairs",
+      "type": "ownership"
+    },
+    {
+      "source": "mohammed-bin-salman",
+      "target": "white-house",
+      "label": "visited",
+      "type": "political",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "mohammed-bin-salman",
+      "target": "mbs-white-house-visit-2025",
+      "label": "led Saudi side of",
+      "type": "political",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "donald-trump",
+      "target": "saudi-f35-sale",
+      "label": "announced approval of",
+      "type": "political",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "state-department",
+      "target": "us-congress",
+      "label": "notified F-35 sale to",
+      "type": "regulatory",
+      "date": "2026-09-17",
+      "amount_usd": 24300000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "saudi-mnna-designation",
+      "label": "announced",
+      "type": "political",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "saudi-arabia",
+      "target": "us-congress",
+      "label": "pledged ~$1T US investment (announced at White House)",
+      "type": "political",
+      "date": "2025-11-18",
+      "amount_usd": 1000000000000
+    },
+    {
+      "source": "chris-wright",
+      "target": "us-saudi-123-agreement",
+      "label": "signed",
+      "type": "regulatory",
+      "date": "2026-07-22"
+    },
+    {
+      "source": "us-energy-department",
+      "target": "us-congress",
+      "label": "submitted 123 agreement to",
+      "type": "regulatory",
+      "date": "2026-08-25"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "humain",
+      "label": "approved up to 35,000 GB300-equivalent chips for",
+      "type": "regulatory",
+      "date": "2025-11-19"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "g42",
+      "label": "approved up to 35,000 GB300-equivalent chips for",
+      "type": "regulatory",
+      "date": "2025-11-19"
+    },
+    {
+      "source": "nvidia",
+      "target": "humain",
+      "label": "to supply 18,000 GB300 chips (first phase)",
+      "type": "commercial",
+      "date": "2025-05-13"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "humain",
+      "label": "owns/backs",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "donald-trump",
+      "target": "jamal-khashoggi",
+      "label": "said of killing 'things happen' and MBS 'knew nothing'",
+      "type": "media",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "mary-bruce",
+      "target": "donald-trump",
+      "label": "questioned on Khashoggi and family business",
+      "type": "media",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "karoline-leavitt",
+      "target": "donald-trump",
+      "label": "defended as abiding by conflict laws",
+      "type": "political",
+      "date": "2025-05"
+    },
+    {
+      "source": "forbes",
+      "target": "trump-organization",
+      "label": "reported Saudi expansion during nuclear talks",
+      "type": "media",
+      "date": "2026-07-23"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-riyadh-visit-2025",
+      "label": "made",
+      "type": "political",
+      "date": "2025-05-13"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Trump's role brokering the PGA Tour-PIF merger talks from the White House",
+      "why_connected": "Trump hosted and pushed PGA Tour-PIF/LIV unification talks in 2025 while his courses hosted PIF-funded LIV events.",
+      "entities": [
+        "donald-trump",
+        "saudi-pif",
+        "liv-golf"
+      ],
+      "source_url": "https://www.golfdigest.com/story/donald-trump-powerbroker-pga-tour-pif-deal-white-house-2025"
+    },
+    {
+      "title": "Identity of LIV Golf's post-PIF 'mystery' lead investor",
+      "why_connected": "LIV, whose events have been held at Trump courses, announced an unnamed new lead investor in Aug 2026 as PIF exits. Who it is and what ties it has to the Trump circle are unknown.",
+      "entities": [
+        "liv-golf",
+        "saudi-pif"
+      ],
+      "source_url": "https://insidersport.com/2026/08/06/liv-golf-lead-investor-pif-exit/"
+    },
+    {
+      "title": "CFIUS review of the PIF/Affinity EA buyout",
+      "why_connected": "Blumenthal and Warren alleged Kushner's role was about delivering federal approval. How CFIUS handled the review, and any mitigation terms, are undocumented.",
+      "entities": [
+        "cfius",
+        "jared-kushner",
+        "affinity-partners",
+        "saudi-pif",
+        "electronic-arts"
+      ],
+      "source_url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-warren-sound-alarm-on-acquisition-of-american-video-game-producer-by-saudi-arabias-sovereign-wealth-fund_jared-kushners-investment-firm"
+    },
+    {
+      "title": "Ma'aden sponsorship of a LIV event at a Trump course",
+      "why_connected": "A Saudi mining company was title sponsor of LIV Golf Virginia at Trump National DC in May 2026, a second Saudi channel to a Trump property alongside PIF's LIV funding.",
+      "entities": [
+        "maaden",
+        "liv-golf",
+        "trump-national-golf-club-dc"
+      ],
+      "source_url": "https://www.livgolf.com/news/maaden-named-title-partner-for-liv-golf-virginia-2026"
+    },
+    {
+      "title": "Forbes's estimate of Trump-family income from Saudi-linked deals",
+      "why_connected": "Forbes tallied about $50M from Saudi-linked deals in 2024 and at least nine deals with Saudi investors. A full itemization would quantify the business side of this timeline.",
+      "entities": [
+        "donald-trump",
+        "trump-organization",
+        "forbes"
+      ],
+      "source_url": "https://thedeepdive.ca/what-does-trumps-family-get-out-of-the-saudi-nuclear-deal/"
+    }
+  ]
+}

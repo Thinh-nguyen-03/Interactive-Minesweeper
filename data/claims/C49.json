@@ -1121,5 +1121,16 @@
       ],
       "source_url": "https://bsky.app/profile/propublica.org/post/3mrbuhksdhm25"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Language review of summary and sub-claims for unattributed allegations"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: no pardon is stated as bought, and the Daibes, 60 Minutes and Walczak items are attributed to their outlets. Not re-checked: the file's statements that Todd Blanche is now Attorney General and that Ed Martin left the post in Aug 2026. No changes."
+    ],
+    "new_sources": [],
+    "scope": "language review only; no fresh searches"
+  }
 }

@@ -115,3 +115,14 @@ Raskin's probe and Candace Owens's attacks are both confirmed. The brief overrea
 33. AP via US News, trial opens (2026-02-04): https://www.usnews.com/news/world/articles/2026-02-04/serbian-government-official-faces-forgery-trial-over-withdrawn-kushner-linked-project
 34. Balkan Insight (2026-04-15): https://balkaninsight.com/2026/04/15/serbian-minister-denies-allegations-over-removal-of-ex-military-hqs-protected-status/bi/
 35. Wikipedia, "Trump Tower Belgrade": https://en.wikipedia.org/wiki/Trump_Tower_Belgrade
+
+
+## Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld** (language review only; no fresh searches)
+
+Checked:
+- Language review of summary and sub-claims for unattributed allegations
+
+Changes:
+- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed sub-claim wording: the Belgrade forgery case is described as an indictment proposal and trial with not-guilty pleas, SPAK's case as a suspicion, Affinity's denial of the Zvernec role is included, and the quid-pro-quo element is marked unverified. No overstatements found; no changes.

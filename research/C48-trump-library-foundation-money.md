@@ -92,3 +92,14 @@ Note on sourcing: direct fetches of warren.senate.gov and bostonglobe.com were b
 20. CBS News, Trump library / Democratic congress inquiry — https://cbsnews.com/news/trump-library-democratic-congress
 21. The Pulse of NH (ABC), "'No final decision' on future of Qatar-donated Air Force One after Trump's term", 2026 — https://thepulseofnh.com/no-final-decision-on-future-of-qatar-donated-air-force-one-after-trumps-term-white-house-official-says/
 22. Daily Beast, "Donald Trump library's missing millions mystery targeted in new probe", 2026 — https://www.thedailybeast.com/donald-trumps-librarys-missing-millions-mystery-targeted-in-new-probe
+
+
+## Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld** (language review only; no fresh searches)
+
+Checked:
+- Language review of summary and sub-claims for unattributed allegations
+
+Changes:
+- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the 'unaccounted for' amount is presented as the lawmakers' allegation, and the 747 transfer as a stated plan. No changes.

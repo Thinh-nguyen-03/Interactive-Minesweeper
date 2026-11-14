@@ -831,5 +831,16 @@
       ],
       "source_url": "https://www.bloomberglinea.com/mercados/un-fondo-de-los-hijos-de-trump-aprovecho-el-interes-mediatico-para-vender-acciones-a-los-inversores/"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Language review of summary and sub-claims for unattributed allegations"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the sons' Skyline stake is attributed to the FT's anonymous sources, and FINRA's Revere fine is noted as not naming Kyle Wool. The House China committee's actions are described as letters, not findings. No changes."
+    ],
+    "new_sources": [],
+    "scope": "language review only; no fresh searches"
+  }
 }

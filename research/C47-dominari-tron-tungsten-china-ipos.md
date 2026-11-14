@@ -131,3 +131,14 @@ Direct fetches of intellinews.com, foxnews.com and the FT mirror were blocked (D
 24. FINRA, "FINRA fines Revere Securities $800,000 for small-cap IPO-related AML and supervisory failures," 2026-10. https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and
 25. Investment Executive, "FINRA sanctions firm for foreign, small-cap dealings," 2026-10. https://www.investmentexecutive.com/news/regulation/finra-sanctions-firm-for-foreign-small-cap-dealings/
 26. MarketScreener, "Dominari Holdings appoints Kyle Wool as CEO of Dominari Securities LLC," 2023. https://www.marketscreener.com/quote/stock/DOMINARI-HOLDINGS-INC-58256244/news/Dominari-Holdings-Inc-Appoints-Kyle-Wool-as-CEO-of-Dominari-Securities-LLC-43945138/
+
+
+## Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld** (language review only; no fresh searches)
+
+Checked:
+- Language review of summary and sub-claims for unattributed allegations
+
+Changes:
+- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the sons' Skyline stake is attributed to the FT's anonymous sources, and FINRA's Revere fine is noted as not naming Kyle Wool. The House China committee's actions are described as letters, not findings. No changes.

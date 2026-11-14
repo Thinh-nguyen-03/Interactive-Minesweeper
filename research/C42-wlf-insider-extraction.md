@@ -22,7 +22,7 @@ The brief asks how money flowed out of World Liberty Financial (WLF) to the Trum
 
 ### 2. Trump's disclosed WLF income: confirmed
 - **2024 OGE filing (released June 2025):** about $57.35M from WLF token sales via DT Marks DEFI. Bloomberg Tax reported $57.7M. [6][7]
-- **2025 filing (released June 30, 2026):** about $800M from WLF. This breaks down into more than $520M from token sales and more than $250M from selling interests in the business. The 22.5B-token allocation was valued at about $1.3B. These are revenue figures, not profit. C29 covers the full totals. [4][8]
+- **2025 filing (released June 30, 2026):** outlets disagree on the total, which runs from about $594M to about $800M from WLF. Reuters and the NYT (C29) report about $800M: more than $520M from token sales and more than $250M from selling interests in the business. Bloomberg, NOTUS and others report about $594M: about $515-529M from token sales plus about $65-66M from the WLF Holdco equity sale. The Block itemizes $236.25M of distributed token proceeds plus $65.6M from the equity sale. The form reports ranges, so no exact figure can be fixed. *(Audit correction; see below.)* The 22.5B-token allocation was valued at about $1.3B. These are revenue figures, not profit. C29 covers the full totals. [4][8]
 
 ### 3. Steve Witkoff's about $107M of 2025 income and the disputed divestment: confirmed for the income, unresolved for the divestment
 - ABC News reported (September 2026, from filings a government watchdog obtained) that Witkoff's 2025 OGE disclosure shows nearly $107M of income from a holding company affiliated with WLF, up from $34M in 2024. One outlet reports a split of about $69M in cash and $38M in digital assets. [9][10][11]
@@ -120,3 +120,24 @@ The brief asks how money flowed out of World Liberty Financial (WLF) to the Trum
 36. Cointelegraph, "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ", 2026-08-28. https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj
 37. The Block, "UAE 'spy sheikh' takes 49% stake in Trump family's bank venture: WSJ", 2026-08-27. https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971
 38. Unchained, UAE national security adviser backs 49% of the holding company behind the Trump family's bank charter bid, 2026-08. https://unchainedcrypto.com/uae-national-security-adviser-backs-49-of-the-holding-company-behind-the-trump-familys-bank-charter-bid/
+
+
+## Audit (second-opinion pass, Nov 2026)
+
+**Result: corrected**
+
+Checked:
+- Trump's 2025 OGE disclosure shows about $800M from WLF, including more than $250M from selling interests
+- Witkoff reported about $107M of 2025 income from a WLF-linked holding company
+- WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI
+
+Changes:
+- Corrected the 2025 WLF income figure from a flat 'about $800M' to a $594M-$800M range. Bloomberg, NOTUS and InvestmentNews report about $515-529M from token sales plus about $65-66M from the WLF Holdco equity sale, which does not match the '>$250M from selling interests' figure; The Block's itemization is lower again. The relationship amount_usd is now set to the conservative $594M. The same '$800M / >$250M' reading appears in C29 (not edited here; flagged for that file's auditor).
+- Witkoff $107M upheld: Bloomberg Government confirms it, with the caveat that the holding company also has resort, golf, hotel and residential businesses, so the WLF share is unknown (already noted).
+- Dolomite borrowing (about 5B WLFI collateral, about $75M borrowed, more than $40M to Coinbase Prime, utilization at 93% to near 100%) upheld per CoinDesk, The Defiant and Gizmodo. One detail is reported differently: Gizmodo/Unchained describe Corey Caplan as WLF's CTO rather than an adviser; that wording was left unchanged.
+
+New sources:
+- Bloomberg Government, "Witkoff Reports $107 Million From Entity That Held Crypto Stake", 2026-09. https://news.bgov.com/crypto/witkoff-reports-107-million-from-entity-that-held-crypto-stake
+- NOTUS, "Trump Discloses More Than $1.1 Billion In Crypto Earnings", 2026-06-30. https://www.notus.org/trump-white-house/trump-annual-financial-disclosure-crypto-earnings
+- The Block, "President Trump's financial disclosures show hundreds of millions in crypto-related income", 2026-06-30. https://www.theblock.co/news/regulation/2026-06-30-president-trump-financial-disclosures-hundreds-millions-crypto-related-income-406782
+- CoinDesk, "Trump's World Liberty Financial uses 5 billion WLFI to borrow $75 million from a platform its adviser co-founded", 2026-04-09. https://www.coindesk.com/markets/2026/04/09/trump-s-world-liberty-financial-borrows-usd75-million-against-its-own-token-trapping-depositors-on-dolomite

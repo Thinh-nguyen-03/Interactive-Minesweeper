@@ -113,3 +113,14 @@ The pitch is documented. A completed trade or profit is not.
 25. NOTUS, 2026-02-27. https://www.notus.org/congress/jamie-raskin-howard-lutnick-congress-house-investigation-tariffs
 26. Fortune, 2026-03-07. https://fortune.com/2026/03/07/winners-supreme-court-tariff-ruling-hedge-funds-creating-100-billion-secondary-market-refunds-brandon-howard-lutnick/
 27. Semafor, 2026-02-20. https://www.semafor.com/article/02/20/2026/cantor-fitzgerald-howard-lutnicks-old-firm-did-not-profit-from-supreme-court-tariff-ruling
+
+
+## Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld** (language review only; no fresh searches)
+
+Checked:
+- Language review of summary and sub-claims for unattributed allegations
+
+Changes:
+- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the Axios Lutnick item is framed as reporting from unnamed sources, and Tether's role in Cantor lending as talks only. No changes.

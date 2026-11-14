@@ -812,5 +812,16 @@
       ],
       "source_url": "https://bitcoinmagazine.com/news/winklevoss-twins-donated-bitcoin-to-trump"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Language review of summary and sub-claims for unattributed allegations"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the reason for Ryan's exit is attributed to anonymous Reuters sources and marked unverified, and the quid pro quo is marked unverified. No changes."
+    ],
+    "new_sources": [],
+    "scope": "language review only; no fresh searches"
+  }
 }

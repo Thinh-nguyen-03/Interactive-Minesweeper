@@ -718,5 +718,30 @@
       ],
       "source_url": "https://www.rollingstone.com/politics/politics-features/melania-trump-documentary-amazon-behind-the-scenes-1235505208/"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Amazon paid about $40M plus about $35M marketing; worldwide gross about $16.6M",
+      "Amazon's 2026-03-30 Huseman reply and Warren's 2026-04-13 'bribery in plain sight' statement",
+      "Bezos's public defense of the deal"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No changes. The-Numbers gives a $16.56M worldwide gross, and Warren's own release and Amazon's response letter confirm the March and April 2026 exchange and the $26M gap over Disney. Bezos's 2026-05-20 CNBC Squawk Box defense ('a very wise business decision', 'nothing to do with it') is already in the file. The $10.71M OGE line was not re-verified independently."
+    ],
+    "new_sources": [
+      {
+        "title": "Melania (2026) box office",
+        "publisher": "The Numbers",
+        "url": "https://www.the-numbers.com/movie/Melania-(2026)",
+        "date": "2026"
+      },
+      {
+        "title": "Amazon response to Senator Warren and Representative Hank Johnson on investment in Melania movie",
+        "publisher": "Office of Sen. Elizabeth Warren",
+        "url": "https://www.warren.senate.gov/imo/media/doc/amazon_response_to_senator_warren_representative_hank_johnson_on_investment_in_melania_movie.pdf",
+        "date": "2026-03-30"
+      }
+    ]
+  }
 }

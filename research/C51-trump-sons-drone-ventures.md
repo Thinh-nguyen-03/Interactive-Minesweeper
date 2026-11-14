@@ -108,3 +108,14 @@ What remains unproven is any causal link. No reporting shows a Trump family memb
 26. KVIA (CNN), "Democratic senators sound the alarm on Pentagon backing firms linked to Donald Trump Jr.", 2026-01-23. https://kvia.com/news/business-technology/cnn-business-consumer/2026/01/23/democratic-senators-sound-the-alarm-on-pentagon-backing-firms-linked-to-donald-trump-jr/
 27. Observer-Reporter (ACCESSWIRE), "Unusual Machines secures $12.8 million defense order supplying Strategic Logix's RRSL drone systems", 2025-09-30. https://stocks.observer-reporter.com/observerreporter/article/accwirecq-2025-9-30-unusual-machines-secures-128-million-defense-order-supplying-strategic-logixs-rrsl-drone-systems
 28. Al Jazeera, "US president's son Eric Trump invests in drone maker with gov't contracts", 2026-02-17. https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts
+
+
+## Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld** (language review only; no fresh searches)
+
+Checked:
+- Language review of summary and sub-claims for unattributed allegations
+
+Changes:
+- Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the Unusual Machines equity stake is marked as talks with no deal, and family influence as unverified with denials included. No changes.

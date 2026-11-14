@@ -1,0 +1,537 @@
+{
+  "id": "C55",
+  "title": "How much has the Trump family made? Competing totals",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "All the named estimates exist and are traceable. They diverge because they measure different things: cash received (Kirkpatrick about $3.4B in Aug 2025, rising to about $4B by Jan 2026; WSJ at least $1.2B from WLF; Reuters at least $2.3B from crypto), changes in net worth on paper (Forbes, Bloomberg), self-reported gross income on the disclosure (at least $2.2B and more than $1.4B from crypto, Trump only, 2025), and foreign revenue only (CREW, more than $117M). Read on those terms they are broadly compatible. The weak points are the Fight Fight Fight $200M-$1B TRUMP treasury, which was only a proposal with no confirmed raise, and the 'reinvested in stocks/bonds' finding, which is a portfolio-growth correlation shown in value ranges, not a traced flow of money. The White House denies any profiteering and claims Trump has lost money.",
+  "sub_claims": [
+    {
+      "statement": "The New Yorker's David Kirkpatrick estimated the family took in about $3.4B in cash from the presidency.",
+      "verdict": "mostly-accurate",
+      "finding": "'The Number' (New Yorker, Aug 2025, issue dated 2025-08-18) put the total for Trump and his immediate family at about $3.4B, more than $2.3B of it from crypto. Kirkpatrick says it counts cash actually paid to the family, conservatively, and excludes money they would have made anyway. He says it includes some money from the 2024 run-up, so it is not strictly second-term. Secondary breakdowns conflict, for example on whether the meme coins were included and on how much of the crypto total came through Trump Media's bitcoin-treasury raise. He updated the figure to about $4B (Salon: 'at least $4.05B') around January 2026, and said on WNYC it might be about $4.5B after a later deal.",
+      "sources": [
+        "https://www.mediaite.com/politics/trump/3-4-billion-reporter-tells-msnbc-trump-family-turning-down-no-opportunity-for-cash-since-taking-office",
+        "https://www.mediamatters.org/donald-trump/cnn-new-yorkers-david-kirkpatrick-discusses-his-reporting-trump-pocketing-presidency",
+        "https://www.newyorker.com/magazine/2025/08/18/the-number",
+        "https://www.democracynow.org/2025/8/14/headlines/the_new_yorker_trump_family_has_made_34_billion_from_presidency",
+        "https://www.salon.com/2026/02/03/trump-familys-4-billion-graft-shows-no-signs-of-stopping",
+        "https://www.npr.org/2026/02/08/nx-s1-5704312/how-the-presidency-is-making-trump-richer",
+        "https://www.wnycstudios.org/podcasts/bl/articles/a-tally-of-trumps-profits"
+      ]
+    },
+    {
+      "statement": "Forbes estimates of the gains.",
+      "verdict": "confirmed",
+      "finding": "Forbes tracks net worth, not cash. It estimated Trump at $7.3B in Sept 2025 (+$3B in a year), with the family collectively at about $10B. By March 2026 it had Trump at $6.5B (+$1.4B year on year) after the crypto drawdown. Its figures for the individual sons are in C29.",
+      "sources": [
+        "https://www.newser.com/story/386272/forbes-has-a-new-estimate-of-trumps-net-worth.html",
+        "https://www.forbes.com.au/?p=158228"
+      ]
+    },
+    {
+      "statement": "Bloomberg estimates of the gains.",
+      "verdict": "confirmed",
+      "finding": "The Bloomberg Billionaires Index estimated that crypto had added about $620M by July 2025, then $1.3B in a few weeks, taking the family to $7.7B (Sept 2025). The family then fell to about $6.7B as crypto sank. Locked tokens are excluded. A 2026-05-12 revision added $660M from previously undisclosed WLFI token sales, putting family token-sale proceeds at about $1.55B.",
+      "sources": [
+        "https://www.theblock.co/news/business/2025-07-02-trump-family-saw-620-million-from-crypto-venture-proceeds-in-recent-months-report-360791",
+        "https://www.bloomberg.com/news/articles/2025-09-07/trump-family-adds-1-3-billion-of-crypto-wealth-in-span-of-weeks",
+        "https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million"
+      ]
+    },
+    {
+      "statement": "Reuters/NYT disclosure tallies: $1.4B from crypto within $2.2B of income.",
+      "verdict": "confirmed",
+      "finding": "These come from the 2025 OGE disclosure released 2026-06-30, and are Trump's personal, self-reported gross income for calendar 2025, much of it given in ranges. The NYT counted at least $2.2B in total; crypto was more than $1.4B (about $800M from WLF and about $635M in TRUMP royalties). The figures exclude the sons' separate ventures. A separate Reuters investigation (2026-06-09) estimated at least $2.3B to the family from four crypto ventures (TRUMP, WLF, American Bitcoin, AI Financial) since the return to office, against about $2.3B in realized and unrealized investor losses as of 2026-04-30. The WSJ (Feb 2026) counted at least $1.2B in cash to the family from WLF, plus about $2.25B in paper gains.",
+      "sources": [
+        "https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows",
+        "https://www.thestandard.com.hk/world/article/334176/Under-the-Trump-crypto-playbook-the-family-always-wins-Investors-dont",
+        "https://finviz.com/news/304187/trump-family-affiliated-world-liberty-financial-generated-14-billion-in-16-months"
+      ]
+    },
+    {
+      "statement": "CREW's foreign-revenue count and 24 foreign projects.",
+      "verdict": "confirmed",
+      "finding": "CREW's analysis of the 2025 disclosure found more than $117M in foreign revenue, a record and up more than 15% on 2024. It also found 28 foreign-linked accounts reporting at least $50K, UAE revenue above $32M, licensing and development fees of about $59M, and 24 Trump-branded foreign projects in development, 13 of them announced since 2022. These are revenue figures, not profit.",
+      "sources": [
+        "https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/"
+      ]
+    },
+    {
+      "statement": "Fight Fight Fight proposed a $200M-$1B $TRUMP treasury.",
+      "verdict": "partly-accurate",
+      "finding": "Bloomberg reported on 2025-10-08 that Bill Zanker's Fight Fight Fight LLC sought at least $200M, possibly up to $1B, for a digital-asset treasury company to buy and hold TRUMP. The deal was unconfirmed and still in development. I found no report that it closed or launched through Nov 2026. It was a vehicle to support the token, not family income.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2025-10-08/trump-memecoin-issuer-zanker-is-planning-digital-asset-treasury-company",
+        "https://www.theblock.co/news/business/2025-10-08-trump-memecoin-issuer-plans-funding-373745"
+      ]
+    },
+    {
+      "statement": "The gains were reinvested in stocks and bonds.",
+      "verdict": "mostly-accurate",
+      "finding": "Reuters (July 2026) found Trump's stock and bond portfolios grew at least fourfold, to an estimated $703M-$2.6B at the end of 2025, up from $225M-$608M a year earlier. Because the disclosure gives value ranges, specific crypto dollars cannot be traced into specific securities. The White House says the accounts are fully discretionary and run by independent institutions.",
+      "sources": [
+        "https://www.thestar.com.my/tech/tech-news/2026/07/13/trump-invested-crypto-gains-in-stocks-and-bonds-filings-show",
+        "https://www.investmentnews.com/alternatives/trump-reinvested-crypto-windfall-in-stocks-bonds-as-retail-buyers-lost-billions/267383"
+      ]
+    },
+    {
+      "statement": "The estimates can be reconciled.",
+      "verdict": "mostly-accurate",
+      "finding": "Cash-flow counts (Kirkpatrick about $4B; Reuters at least $2.3B in crypto; WSJ at least $1.2B from WLF; CAP's tracker about $2.9B at one snapshot) and gross disclosure income (at least $2.2B for Trump in 2025) cluster in the low billions. Net-worth trackers show smaller net gains (Forbes +$1.4B over the year to March 2026) because crypto holdings were marked down after the 2025-26 crash. CREW's $117M is a foreign-only subset. Different scopes (Trump alone vs. family), dates and cash-vs-paper treatment explain most of the spread.",
+      "sources": [
+        "https://www.americanprogress.org/feature/trumps-take/",
+        "https://www.newser.com/story/386272/forbes-has-a-new-estimate-of-trumps-net-worth.html",
+        "https://www.thestandard.com.hk/world/article/334176/Under-the-Trump-crypto-playbook-the-family-always-wins-Investors-dont",
+        "https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows"
+      ]
+    }
+  ],
+  "corrections": [
+    "The $3.4B New Yorker figure is from Aug 2025; Kirkpatrick's own update is about $4B (around Jan 2026).",
+    "Kirkpatrick's total includes some 2024 run-up money, so it is not strictly second-term.",
+    "$1.4B crypto / $2.2B is Trump's personal gross income for calendar 2025, not a family total and not profit.",
+    "The Fight Fight Fight treasury was a reported fundraising plan; no raise has been confirmed."
+  ],
+  "denials_and_context": [
+    "Karoline Leavitt called the New Yorker figure 'absolutely absurd' and said Trump has lost hundreds of millions of dollars by serving. No records support that claim.",
+    "The White House says Trump's assets are in a trust run by his children and in discretionary accounts managed by independent institutions; the Trump Organization says the disclosure shows a strong financial position.",
+    "Eric Trump disputed Forbes' valuation without offering an alternative (C29).",
+    "CREW, CAP and Kirkpatrick are administration critics, though Kirkpatrick says his assumptions are conservative. Forbes and Bloomberg mark-to-market estimates swing with crypto prices. Disclosure figures are revenue, often in ranges."
+  ],
+  "sources": [
+    {
+      "title": "'$3.4 billion': Reporter Tells MSNBC Trump Family Turning Down 'No Opportunity' For Cash",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/politics/trump/3-4-billion-reporter-tells-msnbc-trump-family-turning-down-no-opportunity-for-cash-since-taking-office",
+      "date": "2025-08"
+    },
+    {
+      "title": "Kirkpatrick on CNN: Trump pocketing off the presidency, at least $3.4B",
+      "publisher": "Media Matters",
+      "url": "https://www.mediamatters.org/donald-trump/cnn-new-yorkers-david-kirkpatrick-discusses-his-reporting-trump-pocketing-presidency",
+      "date": "2025-08"
+    },
+    {
+      "title": "The Number",
+      "publisher": "The New Yorker",
+      "url": "https://www.newyorker.com/magazine/2025/08/18/the-number",
+      "date": "2025-08-18"
+    },
+    {
+      "title": "The New Yorker: Trump family has made $3.4 billion from presidency",
+      "publisher": "Democracy Now",
+      "url": "https://www.democracynow.org/2025/8/14/headlines/the_new_yorker_trump_family_has_made_34_billion_from_presidency",
+      "date": "2025-08-14"
+    },
+    {
+      "title": "A Tally of Trump's Profits",
+      "publisher": "WNYC",
+      "url": "https://www.wnycstudios.org/podcasts/bl/articles/a-tally-of-trumps-profits",
+      "date": "2025"
+    },
+    {
+      "title": "Trump family's $4 billion graft shows no signs of stopping",
+      "publisher": "Salon",
+      "url": "https://www.salon.com/2026/02/03/trump-familys-4-billion-graft-shows-no-signs-of-stopping",
+      "date": "2026-02-03"
+    },
+    {
+      "title": "How the presidency is making Trump richer",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5704312/how-the-presidency-is-making-trump-richer",
+      "date": "2026-02-08"
+    },
+    {
+      "title": "White House insists Trump has lost money since being president",
+      "publisher": "Latin Times",
+      "url": "https://www.latintimes.com/white-house-insists-trump-has-lost-money-since-being-president-despite-corruption-accusations-582757",
+      "date": "2025-08"
+    },
+    {
+      "title": "Forbes Has a New Estimate of Trump's Net Worth",
+      "publisher": "Newser",
+      "url": "https://www.newser.com/story/386272/forbes-has-a-new-estimate-of-trumps-net-worth.html",
+      "date": "2026-03"
+    },
+    {
+      "title": "Here's how much the Trump kids have made because of the presidency",
+      "publisher": "Forbes Australia",
+      "url": "https://www.forbes.com.au/?p=158228",
+      "date": "2025-09"
+    },
+    {
+      "title": "Trump family saw $620 million from crypto venture proceeds",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2025-07-02-trump-family-saw-620-million-from-crypto-venture-proceeds-in-recent-months-report-360791",
+      "date": "2025-07-02"
+    },
+    {
+      "title": "Trump Family Adds $1.3 Billion of Crypto Wealth in Span of Weeks",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-07/trump-family-adds-1-3-billion-of-crypto-wealth-in-span-of-weeks",
+      "date": "2025-09-07"
+    },
+    {
+      "title": "Quiet Token Sales Boosted Trump Crypto Wealth by $660 Million",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Under the Trump crypto playbook, the family always wins. Investors don't",
+      "publisher": "Reuters via The Standard",
+      "url": "https://www.thestandard.com.hk/world/article/334176/Under-the-Trump-crypto-playbook-the-family-always-wins-Investors-dont",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Trump Family-Affiliated World Liberty Financial Generated $1.4 Billion In 16 Months",
+      "publisher": "Finviz (citing WSJ)",
+      "url": "https://finviz.com/news/304187/trump-family-affiliated-world-liberty-financial-generated-14-billion-in-16-months",
+      "date": "2026-02"
+    },
+    {
+      "title": "Trump Made at Least $2.2 Billion in First Year Back in Office, Filing Shows",
+      "publisher": "Politis (NYT)",
+      "url": "https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Trump's foreign revenue exploded during his first year back in office",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Trump Memecoin Issuer Zanker Is Planning Digital Asset Treasury Company",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-08/trump-memecoin-issuer-zanker-is-planning-digital-asset-treasury-company",
+      "date": "2025-10-08"
+    },
+    {
+      "title": "Trump memecoin issuer pursues $200 million funding to build digital asset treasury",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2025-10-08-trump-memecoin-issuer-plans-funding-373745",
+      "date": "2025-10-08"
+    },
+    {
+      "title": "Trump invested crypto gains in stocks and bonds, filings show",
+      "publisher": "Reuters via The Star",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/13/trump-invested-crypto-gains-in-stocks-and-bonds-filings-show",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump reinvested crypto windfall in stocks, bonds as retail buyers lost billions",
+      "publisher": "InvestmentNews",
+      "url": "https://www.investmentnews.com/alternatives/trump-reinvested-crypto-windfall-in-stocks-bonds-as-retail-buyers-lost-billions/267383",
+      "date": "2026-07"
+    },
+    {
+      "title": "Trump's Take",
+      "publisher": "Center for American Progress",
+      "url": "https://www.americanprogress.org/feature/trumps-take/",
+      "date": "2025"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; subject of all the tallies"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Son; WLF and American Bitcoin co-founder"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Son; WLF co-founder"
+    },
+    {
+      "id": "karoline-leavitt",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "White House press secretary; disputed the tallies"
+    },
+    {
+      "id": "david-kirkpatrick",
+      "name": "David D. Kirkpatrick",
+      "type": "person",
+      "description": "New Yorker reporter; author of 'The Number' cash tally"
+    },
+    {
+      "id": "new-yorker",
+      "name": "The New Yorker",
+      "type": "media",
+      "description": "Published Kirkpatrick's tally"
+    },
+    {
+      "id": "forbes",
+      "name": "Forbes",
+      "type": "media",
+      "description": "Net-worth estimates"
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg / Billionaires Index",
+      "type": "media",
+      "description": "Net-worth and token-sale estimates"
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "type": "media",
+      "description": "Crypto-earnings investigation and disclosure analysis"
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "The Wall Street Journal",
+      "type": "media",
+      "description": "WLF cash tally"
+    },
+    {
+      "id": "new-york-times",
+      "name": "The New York Times",
+      "type": "media",
+      "description": "Disclosure tally ($2.2B)"
+    },
+    {
+      "id": "crew",
+      "name": "Citizens for Responsibility and Ethics in Washington",
+      "type": "company",
+      "description": "Watchdog; counts foreign revenue"
+    },
+    {
+      "id": "center-for-american-progress",
+      "name": "Center for American Progress",
+      "type": "company",
+      "description": "Progressive think tank; 'Trump's Take' tracker"
+    },
+    {
+      "id": "fight-fight-fight-llc",
+      "name": "Fight Fight Fight LLC",
+      "type": "company",
+      "description": "TRUMP coin co-issuer run by Bill Zanker"
+    },
+    {
+      "id": "bill-zanker",
+      "name": "Bill Zanker",
+      "type": "person",
+      "description": "Head of Fight Fight Fight LLC"
+    },
+    {
+      "id": "trump-coin-treasury-proposal",
+      "name": "Proposed $TRUMP digital-asset treasury",
+      "type": "product",
+      "description": "$200M-$1B treasury vehicle reported Oct 2025; not confirmed"
+    },
+    {
+      "id": "trump-2025-financial-disclosure",
+      "name": "Trump 2025 OGE financial disclosure",
+      "type": "event",
+      "description": "Released 2026-06-30; basis of the $2.2B / $1.4B tallies"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Family crypto venture; largest cash source"
+    },
+    {
+      "id": "trump-coin",
+      "name": "$TRUMP",
+      "type": "asset",
+      "description": "Meme coin; ~$635M royalties in 2025"
+    },
+    {
+      "id": "american-bitcoin",
+      "name": "American Bitcoin",
+      "type": "company",
+      "description": "Sons' mining firm, in the Reuters tally"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Bitcoin-treasury raise reportedly counted by Kirkpatrick"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Foreign licensing revenue counted by CREW"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Denies profiteering"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "david-kirkpatrick",
+      "target": "donald-trump",
+      "label": "estimated family presidency cash take at ~$3.4B, later ~$4B",
+      "type": "media",
+      "date": "2025-08",
+      "amount_usd": 3400000000
+    },
+    {
+      "source": "new-yorker",
+      "target": "david-kirkpatrick",
+      "label": "published 'The Number'",
+      "type": "media",
+      "date": "2025-08"
+    },
+    {
+      "source": "forbes",
+      "target": "donald-trump",
+      "label": "estimated net worth $6.5B",
+      "type": "media",
+      "date": "2026-03",
+      "amount_usd": 6500000000
+    },
+    {
+      "source": "bloomberg",
+      "target": "world-liberty-financial",
+      "label": "found $660M in undisclosed token-sale gains to the Trumps",
+      "type": "media",
+      "date": "2026-05-12",
+      "amount_usd": 660000000
+    },
+    {
+      "source": "reuters",
+      "target": "donald-trump",
+      "label": "estimated at least $2.3B family earnings from four crypto ventures",
+      "type": "media",
+      "date": "2026-06-09",
+      "amount_usd": 2300000000
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "world-liberty-financial",
+      "label": "counted at least $1.2B cash to the Trump family",
+      "type": "media",
+      "date": "2026-02",
+      "amount_usd": 1200000000
+    },
+    {
+      "source": "new-york-times",
+      "target": "trump-2025-financial-disclosure",
+      "label": "tallied at least $2.2B income, more than $1.4B from crypto",
+      "type": "media",
+      "date": "2026-07-01",
+      "amount_usd": 2200000000
+    },
+    {
+      "source": "crew",
+      "target": "trump-organization",
+      "label": "counted more than $117M foreign revenue in 2025 and 24 foreign projects",
+      "type": "media",
+      "date": "2026-07",
+      "amount_usd": 117000000
+    },
+    {
+      "source": "fight-fight-fight-llc",
+      "target": "trump-coin-treasury-proposal",
+      "label": "sought $200M-$1B to fund",
+      "type": "money",
+      "date": "2025-10-08",
+      "amount_usd": 200000000
+    },
+    {
+      "source": "bill-zanker",
+      "target": "fight-fight-fight-llc",
+      "label": "leads",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "trump-coin-treasury-proposal",
+      "target": "trump-coin",
+      "label": "would buy and hold",
+      "type": "commercial",
+      "date": "2025-10"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "donald-trump",
+      "label": "~$800M income in 2025 per disclosure",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 800000000
+    },
+    {
+      "source": "trump-coin",
+      "target": "donald-trump",
+      "label": "~$635M royalties in 2025 via CIC Digital",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 635000000
+    },
+    {
+      "source": "karoline-leavitt",
+      "target": "new-yorker",
+      "label": "called $3.4B tally 'absolutely absurd'",
+      "type": "political",
+      "date": "2025-08"
+    },
+    {
+      "source": "white-house",
+      "target": "donald-trump",
+      "label": "says assets held in trust / discretionary accounts",
+      "type": "political",
+      "date": "2026-07"
+    },
+    {
+      "source": "eric-trump",
+      "target": "american-bitcoin",
+      "label": "co-founder (Reuters tally venture)",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "world-liberty-financial",
+      "label": "co-founder",
+      "type": "ownership",
+      "date": "2024"
+    },
+    {
+      "source": "center-for-american-progress",
+      "target": "donald-trump",
+      "label": "tracks 'Trump's Take' cash and gifts (~$2.9B snapshot)",
+      "type": "media",
+      "date": "2025"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Reuters: Trump crypto ventures earned family at least $2.3B while investors lost about $2.3B",
+      "why_connected": "An independent cash-earnings tally that covers the sons' ventures (American Bitcoin, AI Financial) as well as WLF and TRUMP; worth a fact-check of its own",
+      "entities": [
+        "reuters",
+        "world-liberty-financial",
+        "american-bitcoin",
+        "trump-coin",
+        "eric-trump"
+      ],
+      "source_url": "https://www.thestandard.com.hk/world/article/334176/Under-the-Trump-crypto-playbook-the-family-always-wins-Investors-dont"
+    },
+    {
+      "title": "Bloomberg: undisclosed WLFI token sales boosted Trump crypto wealth by $660M",
+      "why_connected": "WLF token sales that had not been disclosed, which bears on how transparent WLF's disclosures are",
+      "entities": [
+        "bloomberg",
+        "world-liberty-financial",
+        "donald-trump"
+      ],
+      "source_url": "https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million"
+    }
+  ]
+}

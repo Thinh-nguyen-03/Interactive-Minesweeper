@@ -91,127 +91,768 @@
     "Research limits: blumenthal.senate.gov did not resolve in this environment, and other direct fetches were not attempted for blocked news sites. Findings rest on search summaries that agree across several outlets. Cantor's replies to the Raskin and Blumenthal letters, and any result of those inquiries, were not found."
   ],
   "sources": [
-    {"title": "Scoop: Lutnick stalled Trump's Nvidia-China chip curbs after Oval talks", "publisher": "Axios", "url": "https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls", "date": "2026-11-11"},
-    {"title": "Scoop: Bessent confronts Lutnick in Situation Room over China inaction", "publisher": "Axios", "url": "https://axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips", "date": "2026-11-11"},
-    {"title": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports", "publisher": "GV Wire (Reuters)", "url": "https://gvwire.com/2026/11/11/lutnick-stalled-trump-crackdown-on-diversion-of-nvidia-chips-to-china-axios-reports/", "date": "2026-11-11"},
-    {"title": "Howard Lutnick doesn't want to stop the flow of Nvidia chips overseas: report", "publisher": "Gizmodo", "url": "https://gizmodo.com/howard-lutnick-doesnt-want-to-stop-the-flow-of-nvidia-chips-overseas-report-2000838506", "date": "2026-11-11"},
-    {"title": "Commerce Denies Bessent-Lutnick Clash as Megaspeed Blacklist Delay Draws Scrutiny", "publisher": "Magica", "url": "https://magica.com/news/bessent-lutnick-megaspeed-export-blacklist-dispute", "date": "2026-11"},
-    {"title": "Tether's USDT at center of Iran's shadow banking network, new Senate Report says", "publisher": "The Block", "url": "https://theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094", "date": "2026-09-28"},
-    {"title": "Letter from Sen. Blumenthal to Sec. Bessent", "publisher": "Senate HSGAC / PSI minority", "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-09-28-Letter-from-Sen-Blumenthal-to-Sec-Bessent.pdf", "date": "2026-09-28"},
-    {"title": "Letter from Sen. Blumenthal to AG Blanche", "publisher": "Senate HSGAC / PSI minority", "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-09-28-Letter-from-Sen-Blumenthal-to-AG-Blanche.pdf", "date": "2026-09-28"},
-    {"title": "Letter from Sen. Blumenthal to Chairman Lutnick", "publisher": "Senate HSGAC / PSI minority", "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-08-Letter-from-Sen-Blumenthal-to-Chairman-Lutnick.pdf", "date": "2026-10-08"},
-    {"title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits", "publisher": "Decrypt", "url": "https://decrypt.co/380619?amp=1", "date": "2026-10-08"},
-    {"title": "Cantor Fitzgerald faces Senate Democrats probe over Tether ties", "publisher": "Cointelegraph", "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties", "date": "2026-10-09"},
-    {"title": "Tether says it helped freeze $550M in Iran-linked USDT this year", "publisher": "Cointelegraph", "url": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year", "date": "2026-09-28"},
-    {"title": "Tether says Iran-linked stablecoin volumes fell 94% as it rebuts Senate report", "publisher": "Blockhead", "url": "https://www.blockhead.co/2026/10/20/tether-says-iran-linked-stablecoin-volumes-fell-94-as-it-rebuts-senate-report/", "date": "2026-10-20"},
-    {"title": "Tether made loan to Lutnick's children as they bought his assets", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/features/2026-03-18/tether-made-loan-to-lutnick-s-children-as-they-bought-his-assets", "date": "2026-03-18"},
-    {"title": "Lutnick could sit on crypto council despite conflicts", "publisher": "Sludge", "url": "https://readsludge.com/2025/02/04/lutnick-could-sit-on-crypto-council-despite-conflicts/", "date": "2025-02-04"},
-    {"title": "Howard Lutnick, Trump's commerce pick, is on crypto task force despite conflicts", "publisher": "Salon", "url": "https://www.salon.com/2025/02/06/howard-lutnick-commerce-pick-is-on-crypto-task-force-despite-conflicts", "date": "2025-02-06"},
-    {"title": "Fact Sheet: The President's Working Group on Digital Asset Markets releases recommendations", "publisher": "White House", "url": "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-the-presidents-working-group-on-digital-asset-markets-releases-recommendations-to-strengthen-american-leadership-in-digital-financial-technology/?query-11-page=1", "date": "2025-07-30"},
-    {"title": "White House group lays out roadmap for 'golden age' of digital assets", "publisher": "The Block", "url": "https://www.theblock.co/news/regulation/2025-07-30-white-house-group-lays-out-roadmap-for-golden-age-of-digital-assets-in-fact-sheet-with-no-mention-of-bitcoin-reserve-364860", "date": "2025-07-30"},
-    {"title": "Howard Lutnick's Cantor Fitzgerald in talks with Tether on $2 billion bitcoin lending", "publisher": "Fortune", "url": "https://fortune.com/crypto/2024/11/24/howard-lutnick-cantor-fitzgerald-tether-stablecoin-2-billion-bitcoin-lending/", "date": "2024-11-24"},
-    {"title": "Report: Cantor Fitzgerald Seeks Tether's Support for Bitcoin Lending Project", "publisher": "PYMNTS", "url": "https://www.pymnts.com/cryptocurrency/2024/report-cantor-fitzgerald-seeks-tethers-support-for-bitcoin-lending-project/", "date": "2024-11"},
-    {"title": "Cantor Fitzgerald announces $2B Bitcoin financing business", "publisher": "Cointelegraph", "url": "https://cointelegraph.com/news/cantor-fitzgerald-announces-2b-bitcoin-financing-business", "date": "2024-07"},
-    {"title": "Cantor's Bitcoin financing business announces first transactions", "publisher": "Blockworks", "url": "https://blockworks.co/news/cantor-bitcoin-financing-business", "date": "2025"},
-    {"title": "Cantor Fitzgerald Launches $2 Billion Bitcoin-Backed Lending Program, Completes First Loans to FalconX and Maple Finance", "publisher": "The Defiant", "url": "https://thedefiant.io/news/cefi/cantor-fitzgerald-launches-2-billion-bitcoin-backed-lending-program-completes-to-ca68af4e", "date": "2025"},
-    {"title": "Ranking Member Raskin demands records from Secretary Lutnick, son over appearance of tariff profiteering", "publisher": "House Judiciary Democrats", "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-records-from-secretary-lutnick-son-over-appearance-of-tariff-profiteering", "date": "2026-02-27"},
-    {"title": "Raskin presses Lutnick over tariffs", "publisher": "NOTUS", "url": "https://www.notus.org/congress/jamie-raskin-howard-lutnick-congress-house-investigation-tariffs", "date": "2026-02-27"},
-    {"title": "Meet the quiet winners of the Supreme Court tariff ruling", "publisher": "Fortune", "url": "https://fortune.com/2026/03/07/winners-supreme-court-tariff-ruling-hedge-funds-creating-100-billion-secondary-market-refunds-brandon-howard-lutnick/", "date": "2026-03-07"},
-    {"title": "Howard Lutnick's old firm did not, in fact, profit from Supreme Court tariff ruling", "publisher": "Semafor", "url": "https://www.semafor.com/article/02/20/2026/cantor-fitzgerald-howard-lutnicks-old-firm-did-not-profit-from-supreme-court-tariff-ruling", "date": "2026-02-20"}
+    {
+      "title": "Scoop: Lutnick stalled Trump's Nvidia-China chip curbs after Oval talks",
+      "publisher": "Axios",
+      "url": "https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Scoop: Bessent confronts Lutnick in Situation Room over China inaction",
+      "publisher": "Axios",
+      "url": "https://axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports",
+      "publisher": "GV Wire (Reuters)",
+      "url": "https://gvwire.com/2026/11/11/lutnick-stalled-trump-crackdown-on-diversion-of-nvidia-chips-to-china-axios-reports/",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Howard Lutnick doesn't want to stop the flow of Nvidia chips overseas: report",
+      "publisher": "Gizmodo",
+      "url": "https://gizmodo.com/howard-lutnick-doesnt-want-to-stop-the-flow-of-nvidia-chips-overseas-report-2000838506",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Commerce Denies Bessent-Lutnick Clash as Megaspeed Blacklist Delay Draws Scrutiny",
+      "publisher": "Magica",
+      "url": "https://magica.com/news/bessent-lutnick-megaspeed-export-blacklist-dispute",
+      "date": "2026-11"
+    },
+    {
+      "title": "Tether's USDT at center of Iran's shadow banking network, new Senate Report says",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Letter from Sen. Blumenthal to Sec. Bessent",
+      "publisher": "Senate HSGAC / PSI minority",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-09-28-Letter-from-Sen-Blumenthal-to-Sec-Bessent.pdf",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Letter from Sen. Blumenthal to AG Blanche",
+      "publisher": "Senate HSGAC / PSI minority",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-09-28-Letter-from-Sen-Blumenthal-to-AG-Blanche.pdf",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Letter from Sen. Blumenthal to Chairman Lutnick",
+      "publisher": "Senate HSGAC / PSI minority",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-08-Letter-from-Sen-Blumenthal-to-Chairman-Lutnick.pdf",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/380619?amp=1",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Cantor Fitzgerald faces Senate Democrats probe over Tether ties",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Tether says Iran-linked stablecoin volumes fell 94% as it rebuts Senate report",
+      "publisher": "Blockhead",
+      "url": "https://www.blockhead.co/2026/10/20/tether-says-iran-linked-stablecoin-volumes-fell-94-as-it-rebuts-senate-report/",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "Tether made loan to Lutnick's children as they bought his assets",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2026-03-18/tether-made-loan-to-lutnick-s-children-as-they-bought-his-assets",
+      "date": "2026-03-18"
+    },
+    {
+      "title": "Lutnick could sit on crypto council despite conflicts",
+      "publisher": "Sludge",
+      "url": "https://readsludge.com/2025/02/04/lutnick-could-sit-on-crypto-council-despite-conflicts/",
+      "date": "2025-02-04"
+    },
+    {
+      "title": "Howard Lutnick, Trump's commerce pick, is on crypto task force despite conflicts",
+      "publisher": "Salon",
+      "url": "https://www.salon.com/2025/02/06/howard-lutnick-commerce-pick-is-on-crypto-task-force-despite-conflicts",
+      "date": "2025-02-06"
+    },
+    {
+      "title": "Fact Sheet: The President's Working Group on Digital Asset Markets releases recommendations",
+      "publisher": "White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-the-presidents-working-group-on-digital-asset-markets-releases-recommendations-to-strengthen-american-leadership-in-digital-financial-technology/?query-11-page=1",
+      "date": "2025-07-30"
+    },
+    {
+      "title": "White House group lays out roadmap for 'golden age' of digital assets",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2025-07-30-white-house-group-lays-out-roadmap-for-golden-age-of-digital-assets-in-fact-sheet-with-no-mention-of-bitcoin-reserve-364860",
+      "date": "2025-07-30"
+    },
+    {
+      "title": "Howard Lutnick's Cantor Fitzgerald in talks with Tether on $2 billion bitcoin lending",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/crypto/2024/11/24/howard-lutnick-cantor-fitzgerald-tether-stablecoin-2-billion-bitcoin-lending/",
+      "date": "2024-11-24"
+    },
+    {
+      "title": "Report: Cantor Fitzgerald Seeks Tether's Support for Bitcoin Lending Project",
+      "publisher": "PYMNTS",
+      "url": "https://www.pymnts.com/cryptocurrency/2024/report-cantor-fitzgerald-seeks-tethers-support-for-bitcoin-lending-project/",
+      "date": "2024-11"
+    },
+    {
+      "title": "Cantor Fitzgerald announces $2B Bitcoin financing business",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cantor-fitzgerald-announces-2b-bitcoin-financing-business",
+      "date": "2024-07"
+    },
+    {
+      "title": "Cantor's Bitcoin financing business announces first transactions",
+      "publisher": "Blockworks",
+      "url": "https://blockworks.co/news/cantor-bitcoin-financing-business",
+      "date": "2025"
+    },
+    {
+      "title": "Cantor Fitzgerald Launches $2 Billion Bitcoin-Backed Lending Program, Completes First Loans to FalconX and Maple Finance",
+      "publisher": "The Defiant",
+      "url": "https://thedefiant.io/news/cefi/cantor-fitzgerald-launches-2-billion-bitcoin-backed-lending-program-completes-to-ca68af4e",
+      "date": "2025"
+    },
+    {
+      "title": "Ranking Member Raskin demands records from Secretary Lutnick, son over appearance of tariff profiteering",
+      "publisher": "House Judiciary Democrats",
+      "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-records-from-secretary-lutnick-son-over-appearance-of-tariff-profiteering",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "Raskin presses Lutnick over tariffs",
+      "publisher": "NOTUS",
+      "url": "https://www.notus.org/congress/jamie-raskin-howard-lutnick-congress-house-investigation-tariffs",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "Meet the quiet winners of the Supreme Court tariff ruling",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/03/07/winners-supreme-court-tariff-ruling-hedge-funds-creating-100-billion-secondary-market-refunds-brandon-howard-lutnick/",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "Howard Lutnick's old firm did not, in fact, profit from Supreme Court tariff ruling",
+      "publisher": "Semafor",
+      "url": "https://www.semafor.com/article/02/20/2026/cantor-fitzgerald-howard-lutnicks-old-firm-did-not-profit-from-supreme-court-tariff-ruling",
+      "date": "2026-02-20"
+    }
   ],
   "entities": [
-    {"id": "howard-lutnick", "name": "Howard Lutnick", "type": "person", "description": "US Commerce Secretary; former Cantor Fitzgerald chairman/CEO"},
-    {"id": "brandon-lutnick", "name": "Brandon Lutnick", "type": "person", "description": "Cantor Fitzgerald chairman/CEO; Howard Lutnick's son"},
-    {"id": "kyle-lutnick", "name": "Kyle Lutnick", "type": "person", "description": "Cantor executive vice chair; Howard Lutnick's son"},
-    {"id": "cantor-fitzgerald", "name": "Cantor Fitzgerald", "type": "company", "description": "Wall Street firm; Tether reserve custodian and convertible-bond holder"},
-    {"id": "lutnick-dynasty-trust-a", "name": "Dynasty Trust A", "type": "fund", "description": "Trust for Lutnick's children that took his Cantor interests; reported Tether borrower"},
-    {"id": "tether", "name": "Tether", "type": "company", "description": "Issuer of USDT, the largest stablecoin"},
-    {"id": "paolo-ardoino", "name": "Paolo Ardoino", "type": "person", "description": "Tether CEO"},
-    {"id": "us-commerce-department", "name": "US Department of Commerce", "type": "government", "description": "Runs export controls through BIS; led by Lutnick"},
-    {"id": "bureau-of-industry-and-security", "name": "Bureau of Industry and Security", "type": "government", "description": "Commerce agency that maintains the Entity List and chip-export licensing"},
-    {"id": "nvidia", "name": "Nvidia", "type": "company", "description": "AI-chip maker whose chips are allegedly diverted to China"},
-    {"id": "megaspeed", "name": "Megaspeed", "type": "company", "description": "Singapore firm at the centre of suspected Nvidia-chip diversion; not on the Entity List"},
-    {"id": "china", "name": "China", "type": "country", "description": "Alleged destination of diverted Nvidia chips"},
-    {"id": "scott-bessent", "name": "Scott Bessent", "type": "person", "description": "US Treasury Secretary; reportedly pressed Lutnick over Megaspeed"},
-    {"id": "us-treasury", "name": "US Treasury", "type": "government", "description": "Received Blumenthal's Tether referral"},
-    {"id": "doj", "name": "US Department of Justice", "type": "government", "description": "Received Blumenthal's Tether referral; reportedly asked Commerce to pause the Megaspeed probe"},
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US President; reportedly approved the chip-diversion curbs"},
-    {"id": "elon-musk", "name": "Elon Musk", "type": "person", "description": "Reportedly consulted by Trump before approving the curbs (per Reuters' summary of Axios)"},
-    {"id": "richard-blumenthal", "name": "Richard Blumenthal", "type": "person", "description": "US Senator (D-CT), PSI ranking member"},
-    {"id": "senate-psi", "name": "Senate Permanent Subcommittee on Investigations", "type": "government", "description": "HSGAC subcommittee whose minority staff issued the Tether/Iran report"},
-    {"id": "iran", "name": "Iran", "type": "country", "description": "Sanctioned state whose shadow banking allegedly relies on USDT"},
-    {"id": "elizabeth-warren", "name": "Elizabeth Warren", "type": "person", "description": "US Senator; co-led the April 2026 Tether-loan letters"},
-    {"id": "ron-wyden", "name": "Ron Wyden", "type": "person", "description": "US Senator; co-led the April 2026 Tether-loan letters"},
-    {"id": "presidents-working-group-digital-assets", "name": "President's Working Group on Digital Asset Markets", "type": "government", "description": "White House crypto policy group created by EO 14178"},
-    {"id": "eo-14178", "name": "Executive Order 14178", "type": "law", "description": "23 Jan 2025 order on digital financial technology that created the working group"},
-    {"id": "david-sacks", "name": "David Sacks", "type": "person", "description": "White House AI & crypto czar; chairs the working group"},
-    {"id": "white-house", "name": "White House", "type": "government", "description": "Executive Office of the President"},
-    {"id": "bitcoin", "name": "Bitcoin", "type": "asset", "description": "Collateral for Cantor's lending programme"},
-    {"id": "cantor-bitcoin-financing", "name": "Cantor bitcoin financing business", "type": "product", "description": "Cantor's $2B bitcoin-backed lending programme"},
-    {"id": "falconx", "name": "FalconX", "type": "company", "description": "Crypto prime broker; early borrower from Cantor's programme"},
-    {"id": "maple-finance", "name": "Maple Finance", "type": "company", "description": "Crypto lender; early borrower from Cantor's programme"},
-    {"id": "anchorage-digital", "name": "Anchorage Digital", "type": "company", "description": "Crypto bank; reported custodian for Cantor's lending programme"},
-    {"id": "copper", "name": "Copper", "type": "company", "description": "Crypto custodian for Cantor's lending programme"},
-    {"id": "jamie-raskin", "name": "Jamie Raskin", "type": "person", "description": "US Rep., House Judiciary ranking member"},
-    {"id": "tariff-refund-claims", "name": "IEEPA tariff-refund claims market", "type": "product", "description": "Secondary market in importers' rights to tariff refunds"},
-    {"id": "scotus-ieepa-tariff-ruling", "name": "Supreme Court IEEPA tariff ruling", "type": "event", "description": "February 2026 ruling against IEEPA tariffs that opened refunds"},
-    {"id": "wired", "name": "Wired", "type": "media", "description": "Reported Cantor's tariff-refund pitch (Jul 2025)"},
-    {"id": "axios", "name": "Axios", "type": "media", "description": "Broke the chip-curb stalling story (Nov 2026)"},
-    {"id": "bloomberg-news", "name": "Bloomberg News", "type": "media", "description": "Reported the Tether loan and the Cantor-Tether lending talks"},
-    {"id": "uae-chips-deal", "name": "US-UAE AI chips deal", "type": "event", "description": "Commerce-licensed chip exports to the UAE (C08)"}
+    {
+      "id": "howard-lutnick",
+      "name": "Howard Lutnick",
+      "type": "person",
+      "description": "US Commerce Secretary; former Cantor Fitzgerald chairman/CEO"
+    },
+    {
+      "id": "brandon-lutnick",
+      "name": "Brandon Lutnick",
+      "type": "person",
+      "description": "Cantor Fitzgerald chairman/CEO; Howard Lutnick's son"
+    },
+    {
+      "id": "kyle-lutnick",
+      "name": "Kyle Lutnick",
+      "type": "person",
+      "description": "Cantor executive vice chair; Howard Lutnick's son"
+    },
+    {
+      "id": "cantor-fitzgerald",
+      "name": "Cantor Fitzgerald",
+      "type": "company",
+      "description": "Wall Street firm; Tether reserve custodian and convertible-bond holder"
+    },
+    {
+      "id": "lutnick-dynasty-trust-a",
+      "name": "Dynasty Trust A",
+      "type": "fund",
+      "description": "Trust for Lutnick's children that took his Cantor interests; reported Tether borrower"
+    },
+    {
+      "id": "tether",
+      "name": "Tether",
+      "type": "company",
+      "description": "Issuer of USDT, the largest stablecoin"
+    },
+    {
+      "id": "paolo-ardoino",
+      "name": "Paolo Ardoino",
+      "type": "person",
+      "description": "Tether CEO"
+    },
+    {
+      "id": "us-commerce-department",
+      "name": "US Department of Commerce",
+      "type": "government",
+      "description": "Runs export controls through BIS; led by Lutnick"
+    },
+    {
+      "id": "bureau-of-industry-and-security",
+      "name": "Bureau of Industry and Security",
+      "type": "government",
+      "description": "Commerce agency that maintains the Entity List and chip-export licensing"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "type": "company",
+      "description": "AI-chip maker whose chips are allegedly diverted to China"
+    },
+    {
+      "id": "megaspeed",
+      "name": "Megaspeed",
+      "type": "company",
+      "description": "Singapore firm at the centre of suspected Nvidia-chip diversion; not on the Entity List"
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "type": "country",
+      "description": "Alleged destination of diverted Nvidia chips"
+    },
+    {
+      "id": "scott-bessent",
+      "name": "Scott Bessent",
+      "type": "person",
+      "description": "US Treasury Secretary; reportedly pressed Lutnick over Megaspeed"
+    },
+    {
+      "id": "us-treasury",
+      "name": "US Treasury",
+      "type": "government",
+      "description": "Received Blumenthal's Tether referral"
+    },
+    {
+      "id": "doj",
+      "name": "US Department of Justice",
+      "type": "government",
+      "description": "Received Blumenthal's Tether referral; reportedly asked Commerce to pause the Megaspeed probe"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; reportedly approved the chip-diversion curbs"
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "type": "person",
+      "description": "Reportedly consulted by Trump before approving the curbs (per Reuters' summary of Axios)"
+    },
+    {
+      "id": "richard-blumenthal",
+      "name": "Richard Blumenthal",
+      "type": "person",
+      "description": "US Senator (D-CT), PSI ranking member"
+    },
+    {
+      "id": "senate-psi",
+      "name": "Senate Permanent Subcommittee on Investigations",
+      "type": "government",
+      "description": "HSGAC subcommittee whose minority staff issued the Tether/Iran report"
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "type": "country",
+      "description": "Sanctioned state whose shadow banking allegedly relies on USDT"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "US Senator; co-led the April 2026 Tether-loan letters"
+    },
+    {
+      "id": "ron-wyden",
+      "name": "Ron Wyden",
+      "type": "person",
+      "description": "US Senator; co-led the April 2026 Tether-loan letters"
+    },
+    {
+      "id": "presidents-working-group-digital-assets",
+      "name": "President's Working Group on Digital Asset Markets",
+      "type": "government",
+      "description": "White House crypto policy group created by EO 14178"
+    },
+    {
+      "id": "eo-14178",
+      "name": "Executive Order 14178",
+      "type": "law",
+      "description": "23 Jan 2025 order on digital financial technology that created the working group"
+    },
+    {
+      "id": "david-sacks",
+      "name": "David Sacks",
+      "type": "person",
+      "description": "White House AI & crypto czar; chairs the working group"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Executive Office of the President"
+    },
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "type": "asset",
+      "description": "Collateral for Cantor's lending programme"
+    },
+    {
+      "id": "cantor-bitcoin-financing",
+      "name": "Cantor bitcoin financing business",
+      "type": "product",
+      "description": "Cantor's $2B bitcoin-backed lending programme"
+    },
+    {
+      "id": "falconx",
+      "name": "FalconX",
+      "type": "company",
+      "description": "Crypto prime broker; early borrower from Cantor's programme"
+    },
+    {
+      "id": "maple-finance",
+      "name": "Maple Finance",
+      "type": "company",
+      "description": "Crypto lender; early borrower from Cantor's programme"
+    },
+    {
+      "id": "anchorage-digital",
+      "name": "Anchorage Digital",
+      "type": "company",
+      "description": "Crypto bank; reported custodian for Cantor's lending programme"
+    },
+    {
+      "id": "copper",
+      "name": "Copper",
+      "type": "company",
+      "description": "Crypto custodian for Cantor's lending programme"
+    },
+    {
+      "id": "jamie-raskin",
+      "name": "Jamie Raskin",
+      "type": "person",
+      "description": "US Rep., House Judiciary ranking member"
+    },
+    {
+      "id": "tariff-refund-claims",
+      "name": "IEEPA tariff-refund claims market",
+      "type": "product",
+      "description": "Secondary market in importers' rights to tariff refunds"
+    },
+    {
+      "id": "scotus-ieepa-tariff-ruling",
+      "name": "Supreme Court IEEPA tariff ruling",
+      "type": "event",
+      "description": "February 2026 ruling against IEEPA tariffs that opened refunds"
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "type": "media",
+      "description": "Reported Cantor's tariff-refund pitch (Jul 2025)"
+    },
+    {
+      "id": "axios",
+      "name": "Axios",
+      "type": "media",
+      "description": "Broke the chip-curb stalling story (Nov 2026)"
+    },
+    {
+      "id": "bloomberg-news",
+      "name": "Bloomberg News",
+      "type": "media",
+      "description": "Reported the Tether loan and the Cantor-Tether lending talks"
+    },
+    {
+      "id": "uae-chips-deal",
+      "name": "US-UAE AI chips deal",
+      "type": "event",
+      "description": "Commerce-licensed chip exports to the UAE (C08)"
+    }
   ],
   "relationships": [
-    {"source": "axios", "target": "howard-lutnick", "label": "reported stalled chip-diversion curbs", "type": "media", "date": "2026-11-11"},
-    {"source": "donald-trump", "target": "us-commerce-department", "label": "reportedly approved curbs on chip diverters (3+ times)", "type": "political", "date": "2026"},
-    {"source": "howard-lutnick", "target": "megaspeed", "label": "allegedly delayed Entity List action against", "type": "regulatory", "date": "2026"},
-    {"source": "scott-bessent", "target": "howard-lutnick", "label": "reportedly confronted over Megaspeed (Commerce denies)", "type": "political", "date": "2026-11"},
-    {"source": "megaspeed", "target": "nvidia", "label": "suspected diverter of chips from", "type": "commercial"},
-    {"source": "megaspeed", "target": "china", "label": "suspected of diverting chips to", "type": "commercial"},
-    {"source": "bureau-of-industry-and-security", "target": "megaspeed", "label": "paused export-control probe of", "type": "regulatory"},
-    {"source": "doj", "target": "bureau-of-industry-and-security", "label": "reportedly asked to pause Megaspeed probe", "type": "legal"},
-    {"source": "howard-lutnick", "target": "us-commerce-department", "label": "heads", "type": "political", "date": "2025-02"},
-    {"source": "bureau-of-industry-and-security", "target": "us-commerce-department", "label": "part of", "type": "ownership"},
-    {"source": "us-commerce-department", "target": "uae-chips-deal", "label": "licenses chips under", "type": "regulatory"},
-    {"source": "richard-blumenthal", "target": "senate-psi", "label": "ranking member of", "type": "political"},
-    {"source": "senate-psi", "target": "tether", "label": "minority report ties USDT to Iranian shadow banking", "type": "regulatory", "date": "2026-09-28"},
-    {"source": "tether", "target": "iran", "label": "USDT allegedly used for sanctions evasion by", "type": "legal"},
-    {"source": "richard-blumenthal", "target": "us-treasury", "label": "referred Tether findings to", "type": "regulatory", "date": "2026-09-28"},
-    {"source": "richard-blumenthal", "target": "doj", "label": "referred Tether findings to", "type": "legal", "date": "2026-09-28"},
-    {"source": "richard-blumenthal", "target": "brandon-lutnick", "label": "sent 13-point records request to", "type": "regulatory", "date": "2026-10-08"},
-    {"source": "richard-blumenthal", "target": "cantor-fitzgerald", "label": "probing Tether ties and Lutnick exit financing", "type": "regulatory", "date": "2026-10-08"},
-    {"source": "cantor-fitzgerald", "target": "howard-lutnick", "label": "made distribution cited by Blumenthal", "type": "money", "amount_usd": 192000000},
-    {"source": "tether", "target": "lutnick-dynasty-trust-a", "label": "lent undisclosed sum to", "type": "money", "date": "2025"},
-    {"source": "elizabeth-warren", "target": "tether", "label": "sought loan records from", "type": "regulatory", "date": "2026-04-29"},
-    {"source": "ron-wyden", "target": "howard-lutnick", "label": "sought loan records from", "type": "regulatory", "date": "2026-04-29"},
-    {"source": "paolo-ardoino", "target": "tether", "label": "CEO of; rebutted Senate report", "type": "ownership"},
-    {"source": "cantor-fitzgerald", "target": "tether", "label": "custodies reserves and holds convertible bond in", "type": "commercial", "amount_usd": 600000000},
-    {"source": "brandon-lutnick", "target": "cantor-fitzgerald", "label": "chairman and CEO of", "type": "ownership", "date": "2025-05"},
-    {"source": "kyle-lutnick", "target": "cantor-fitzgerald", "label": "executive vice chair of", "type": "ownership"},
-    {"source": "howard-lutnick", "target": "brandon-lutnick", "label": "father of", "type": "family"},
-    {"source": "howard-lutnick", "target": "kyle-lutnick", "label": "father of", "type": "family"},
-    {"source": "eo-14178", "target": "presidents-working-group-digital-assets", "label": "established", "type": "regulatory", "date": "2025-01-23"},
-    {"source": "howard-lutnick", "target": "presidents-working-group-digital-assets", "label": "member (as Commerce Secretary)", "type": "advisory", "date": "2025-01"},
-    {"source": "david-sacks", "target": "presidents-working-group-digital-assets", "label": "chairs", "type": "advisory"},
-    {"source": "presidents-working-group-digital-assets", "target": "white-house", "label": "part of", "type": "political"},
-    {"source": "cantor-fitzgerald", "target": "cantor-bitcoin-financing", "label": "launched", "type": "ownership", "date": "2024-07", "amount_usd": 2000000000},
-    {"source": "cantor-fitzgerald", "target": "tether", "label": "sought backing for bitcoin lending from (talks reported)", "type": "commercial", "date": "2024-11"},
-    {"source": "cantor-bitcoin-financing", "target": "falconx", "label": "lent to", "type": "money", "date": "2025", "amount_usd": 100000000},
-    {"source": "cantor-bitcoin-financing", "target": "maple-finance", "label": "lent to", "type": "money", "date": "2025"},
-    {"source": "anchorage-digital", "target": "cantor-bitcoin-financing", "label": "custodian for", "type": "commercial"},
-    {"source": "copper", "target": "cantor-bitcoin-financing", "label": "custodian for", "type": "commercial"},
-    {"source": "cantor-bitcoin-financing", "target": "bitcoin", "label": "collateralised by", "type": "commercial"},
-    {"source": "wired", "target": "cantor-fitzgerald", "label": "reported tariff-refund rights pitch at 20-30%", "type": "media", "date": "2025-07"},
-    {"source": "cantor-fitzgerald", "target": "tariff-refund-claims", "label": "pitched buying (denies executing)", "type": "commercial", "date": "2025-07"},
-    {"source": "scotus-ieepa-tariff-ruling", "target": "tariff-refund-claims", "label": "triggered refunds for", "type": "legal", "date": "2026-02"},
-    {"source": "jamie-raskin", "target": "howard-lutnick", "label": "demanded tariff records from", "type": "regulatory", "date": "2026-02-27"},
-    {"source": "jamie-raskin", "target": "brandon-lutnick", "label": "demanded tariff records from", "type": "regulatory", "date": "2026-02-27"},
-    {"source": "bloomberg-news", "target": "lutnick-dynasty-trust-a", "label": "reported Tether loan to", "type": "media", "date": "2026-03-18"}
+    {
+      "source": "axios",
+      "target": "howard-lutnick",
+      "label": "reported stalled chip-diversion curbs",
+      "type": "media",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "donald-trump",
+      "target": "us-commerce-department",
+      "label": "reportedly approved curbs on chip diverters (3+ times)",
+      "type": "political",
+      "date": "2026"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "megaspeed",
+      "label": "allegedly delayed Entity List action against",
+      "type": "regulatory",
+      "date": "2026"
+    },
+    {
+      "source": "scott-bessent",
+      "target": "howard-lutnick",
+      "label": "reportedly confronted over Megaspeed (Commerce denies)",
+      "type": "political",
+      "date": "2026-11"
+    },
+    {
+      "source": "megaspeed",
+      "target": "nvidia",
+      "label": "suspected diverter of chips from",
+      "type": "commercial"
+    },
+    {
+      "source": "megaspeed",
+      "target": "china",
+      "label": "suspected of diverting chips to",
+      "type": "commercial"
+    },
+    {
+      "source": "bureau-of-industry-and-security",
+      "target": "megaspeed",
+      "label": "paused export-control probe of",
+      "type": "regulatory"
+    },
+    {
+      "source": "doj",
+      "target": "bureau-of-industry-and-security",
+      "label": "reportedly asked to pause Megaspeed probe",
+      "type": "legal"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "us-commerce-department",
+      "label": "heads",
+      "type": "political",
+      "date": "2025-02"
+    },
+    {
+      "source": "bureau-of-industry-and-security",
+      "target": "us-commerce-department",
+      "label": "part of",
+      "type": "ownership"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "uae-chips-deal",
+      "label": "licenses chips under",
+      "type": "regulatory"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "senate-psi",
+      "label": "ranking member of",
+      "type": "political"
+    },
+    {
+      "source": "senate-psi",
+      "target": "tether",
+      "label": "minority report ties USDT to Iranian shadow banking",
+      "type": "regulatory",
+      "date": "2026-09-28"
+    },
+    {
+      "source": "tether",
+      "target": "iran",
+      "label": "USDT allegedly used for sanctions evasion by",
+      "type": "legal"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "us-treasury",
+      "label": "referred Tether findings to",
+      "type": "regulatory",
+      "date": "2026-09-28"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "doj",
+      "label": "referred Tether findings to",
+      "type": "legal",
+      "date": "2026-09-28"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "brandon-lutnick",
+      "label": "sent 13-point records request to",
+      "type": "regulatory",
+      "date": "2026-10-08"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "cantor-fitzgerald",
+      "label": "probing Tether ties and Lutnick exit financing",
+      "type": "regulatory",
+      "date": "2026-10-08"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "howard-lutnick",
+      "label": "made distribution cited by Blumenthal",
+      "type": "money",
+      "amount_usd": 192000000
+    },
+    {
+      "source": "tether",
+      "target": "lutnick-dynasty-trust-a",
+      "label": "lent undisclosed sum to",
+      "type": "money",
+      "date": "2025"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "tether",
+      "label": "sought loan records from",
+      "type": "regulatory",
+      "date": "2026-04-29"
+    },
+    {
+      "source": "ron-wyden",
+      "target": "howard-lutnick",
+      "label": "sought loan records from",
+      "type": "regulatory",
+      "date": "2026-04-29"
+    },
+    {
+      "source": "paolo-ardoino",
+      "target": "tether",
+      "label": "CEO of; rebutted Senate report",
+      "type": "ownership"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "tether",
+      "label": "custodies reserves and holds convertible bond in",
+      "type": "commercial",
+      "amount_usd": 600000000
+    },
+    {
+      "source": "brandon-lutnick",
+      "target": "cantor-fitzgerald",
+      "label": "chairman and CEO of",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "kyle-lutnick",
+      "target": "cantor-fitzgerald",
+      "label": "executive vice chair of",
+      "type": "ownership"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "brandon-lutnick",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "kyle-lutnick",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "eo-14178",
+      "target": "presidents-working-group-digital-assets",
+      "label": "established",
+      "type": "regulatory",
+      "date": "2025-01-23"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "presidents-working-group-digital-assets",
+      "label": "member (as Commerce Secretary)",
+      "type": "advisory",
+      "date": "2025-01"
+    },
+    {
+      "source": "david-sacks",
+      "target": "presidents-working-group-digital-assets",
+      "label": "chairs",
+      "type": "advisory"
+    },
+    {
+      "source": "presidents-working-group-digital-assets",
+      "target": "white-house",
+      "label": "part of",
+      "type": "political"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "cantor-bitcoin-financing",
+      "label": "launched",
+      "type": "ownership",
+      "date": "2024-07",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "tether",
+      "label": "sought backing for bitcoin lending from (talks reported)",
+      "type": "commercial",
+      "date": "2024-11"
+    },
+    {
+      "source": "cantor-bitcoin-financing",
+      "target": "falconx",
+      "label": "lent to",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 100000000
+    },
+    {
+      "source": "cantor-bitcoin-financing",
+      "target": "maple-finance",
+      "label": "lent to",
+      "type": "money",
+      "date": "2025"
+    },
+    {
+      "source": "anchorage-digital",
+      "target": "cantor-bitcoin-financing",
+      "label": "custodian for",
+      "type": "commercial"
+    },
+    {
+      "source": "copper",
+      "target": "cantor-bitcoin-financing",
+      "label": "custodian for",
+      "type": "commercial"
+    },
+    {
+      "source": "cantor-bitcoin-financing",
+      "target": "bitcoin",
+      "label": "collateralised by",
+      "type": "commercial"
+    },
+    {
+      "source": "wired",
+      "target": "cantor-fitzgerald",
+      "label": "reported tariff-refund rights pitch at 20-30%",
+      "type": "media",
+      "date": "2025-07"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "tariff-refund-claims",
+      "label": "pitched buying (denies executing)",
+      "type": "commercial",
+      "date": "2025-07"
+    },
+    {
+      "source": "scotus-ieepa-tariff-ruling",
+      "target": "tariff-refund-claims",
+      "label": "triggered refunds for",
+      "type": "legal",
+      "date": "2026-02"
+    },
+    {
+      "source": "jamie-raskin",
+      "target": "howard-lutnick",
+      "label": "demanded tariff records from",
+      "type": "regulatory",
+      "date": "2026-02-27"
+    },
+    {
+      "source": "jamie-raskin",
+      "target": "brandon-lutnick",
+      "label": "demanded tariff records from",
+      "type": "regulatory",
+      "date": "2026-02-27"
+    },
+    {
+      "source": "bloomberg-news",
+      "target": "lutnick-dynasty-trust-a",
+      "label": "reported Tether loan to",
+      "type": "media",
+      "date": "2026-03-18"
+    }
   ],
   "leads": [
-    {"title": "NYT: Commerce under secretary halted the Megaspeed probe after Nvidia intervened", "why_connected": "A second account of Commerce leadership shielding a suspected Nvidia-chip diverter, beyond the Axios scoop.", "entities": ["bureau-of-industry-and-security", "megaspeed", "nvidia", "us-commerce-department"], "source_url": "https://magica.com/news/bessent-lutnick-megaspeed-export-blacklist-dispute"},
-    {"title": "Commerce has made no Entity List additions since Oct 2025", "why_connected": "A record-long gap in export blacklisting under Lutnick, with implications for chip-diversion enforcement and the China trade deal.", "entities": ["bureau-of-industry-and-security", "howard-lutnick", "china"], "source_url": "https://fourweekmba.com/ai-bessent-vs-lutnick-on-nvidia-buyer-398-days-no-entity-adds/"},
-    {"title": "Trump paused export controls to bolster a China trade deal (FT)", "why_connected": "The policy backdrop for the stalled chip curbs and Lutnick's 'trade war' rationale.", "entities": ["donald-trump", "china", "us-commerce-department"], "source_url": "https://tech.yahoo.com/business/articles/trump-pauses-export-controls-bolster-050939612.html"},
-    {"title": "Democrats press Lutnick on Epstein ties and rare-earth conflicts", "why_connected": "Further congressional conflict-of-interest questioning of Lutnick and his family beyond the tariff refunds.", "entities": ["howard-lutnick", "us-congress"], "source_url": "https://wjla.com/news/nation-world/the-heat-is-on-commerce-secretary-lutnick-over-epstein-familys-tariff-refund-wagers"},
-    {"title": "Why Tether's Iran problem is a bank partner problem", "why_connected": "Examines exposure of Tether's US banking partners, including Cantor, after the PSI Iran report.", "entities": ["tether", "cantor-fitzgerald", "iran"], "source_url": "https://www.americanbanker.com/news/why-tethers-iran-problem-is-a-bank-partner-problem"}
-  ]
+    {
+      "title": "NYT: Commerce under secretary halted the Megaspeed probe after Nvidia intervened",
+      "why_connected": "A second account of Commerce leadership shielding a suspected Nvidia-chip diverter, beyond the Axios scoop.",
+      "entities": [
+        "bureau-of-industry-and-security",
+        "megaspeed",
+        "nvidia",
+        "us-commerce-department"
+      ],
+      "source_url": "https://magica.com/news/bessent-lutnick-megaspeed-export-blacklist-dispute"
+    },
+    {
+      "title": "Commerce has made no Entity List additions since Oct 2025",
+      "why_connected": "A record-long gap in export blacklisting under Lutnick, with implications for chip-diversion enforcement and the China trade deal.",
+      "entities": [
+        "bureau-of-industry-and-security",
+        "howard-lutnick",
+        "china"
+      ],
+      "source_url": "https://fourweekmba.com/ai-bessent-vs-lutnick-on-nvidia-buyer-398-days-no-entity-adds/"
+    },
+    {
+      "title": "Trump paused export controls to bolster a China trade deal (FT)",
+      "why_connected": "The policy backdrop for the stalled chip curbs and Lutnick's 'trade war' rationale.",
+      "entities": [
+        "donald-trump",
+        "china",
+        "us-commerce-department"
+      ],
+      "source_url": "https://tech.yahoo.com/business/articles/trump-pauses-export-controls-bolster-050939612.html"
+    },
+    {
+      "title": "Democrats press Lutnick on Epstein ties and rare-earth conflicts",
+      "why_connected": "Further congressional conflict-of-interest questioning of Lutnick and his family beyond the tariff refunds.",
+      "entities": [
+        "howard-lutnick",
+        "us-congress"
+      ],
+      "source_url": "https://wjla.com/news/nation-world/the-heat-is-on-commerce-secretary-lutnick-over-epstein-familys-tariff-refund-wagers"
+    },
+    {
+      "title": "Why Tether's Iran problem is a bank partner problem",
+      "why_connected": "Examines exposure of Tether's US banking partners, including Cantor, after the PSI Iran report.",
+      "entities": [
+        "tether",
+        "cantor-fitzgerald",
+        "iran"
+      ],
+      "source_url": "https://www.americanbanker.com/news/why-tethers-iran-problem-is-a-bank-partner-problem"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Language review of summary and sub-claims for unattributed allegations"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the Axios Lutnick item is framed as reporting from unnamed sources, and Tether's role in Cantor lending as talks only. No changes."
+    ],
+    "new_sources": [],
+    "scope": "language review only; no fresh searches"
+  }
 }

@@ -337,7 +337,7 @@
       "id": "first-abu-dhabi-bank",
       "name": "First Abu Dhabi Bank",
       "type": "company",
-      "description": "UAE bank where the alleged ~$750M 'Alpha' account sat; no public response found."
+      "description": "UAE bank where Cole's book alleges a ~$750M 'Alpha' account was held (unverified; denied by Kushner); no public response found."
     },
     {
       "id": "watani-al-emarat-foundation",
@@ -355,7 +355,7 @@
       "id": "mohamed-bin-zayed",
       "name": "Mohamed bin Zayed",
       "type": "person",
-      "description": "UAE President; alleged funder of the accounts and of the ~$1B sent via Azerbaijan."
+      "description": "UAE President; Cole's book alleges he funded the accounts and the ~$1B sent via Azerbaijan (unverified)."
     },
     {
       "id": "mohammed-bin-salman",
@@ -415,13 +415,13 @@
       "id": "uae",
       "name": "United Arab Emirates",
       "type": "country",
-      "description": "Alleged co-funder of the accounts."
+      "description": "Alleged co-funder of the accounts, per Cole's book only (unverified; no official response found)."
     },
     {
       "id": "saudi-arabia",
       "name": "Saudi Arabia",
       "type": "country",
-      "description": "Alleged co-funder of the accounts."
+      "description": "Alleged co-funder of the accounts, per Cole's book only (unverified; no official response found)."
     },
     {
       "id": "tulsi-gabbard",
@@ -433,7 +433,7 @@
       "id": "nsa",
       "name": "National Security Agency",
       "type": "government",
-      "description": "Held the foreign-collected intercept of two foreign nationals discussing Kushner."
+      "description": "Reportedly held (per the whistleblower complaint as described by the WSJ) a foreign-collected intercept of two foreign nationals discussing Kushner."
     },
     {
       "id": "odni",
@@ -589,7 +589,7 @@
     {
       "source": "jerusalem-post",
       "target": "princes-and-thieves",
-      "label": "pulled write-up citing 'significant factual questions' about",
+      "label": "pulled write-up citing 'significant factual questions' about (per Mediaite)",
       "type": "media",
       "date": "2026-10"
     },
@@ -644,7 +644,7 @@
     {
       "source": "nsa",
       "target": "jared-kushner",
-      "label": "held intercept of two foreign nationals discussing",
+      "label": "reportedly held intercept of two foreign nationals discussing (per whistleblower complaint/WSJ; contents unverified)",
       "type": "regulatory",
       "date": "2025"
     },
@@ -723,5 +723,18 @@
       ],
       "source_url": "https://ynetnews.com/article/b1avqqu2zl"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Every account/money claim (FAB 'Alpha' ~$750M, Azerbaijan routing, Bank of Israel 'Beta' ~$1B, ~$2B total) is labelled as an allegation from Cole's book",
+      "Gabbard complaint: existence presented as fact, contents as unverified",
+      "Entity and relationship labels on named people and institutions"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Verdict 'unverified' upheld. Hedged four entity descriptions (First Abu Dhabi Bank, NSA, UAE, Saudi Arabia, MBZ) and two relationship labels (NSA intercept, Jerusalem Post pull) that read as fact rather than as single-source or reported claims. Made the same fix in the .md summary for the 'NSA-held intercept' phrasing. No factual claims re-verified."
+    ],
+    "new_sources": [],
+    "scope": "language review only; no fresh searches"
+  }
 }

@@ -8,7 +8,7 @@
     {
       "statement": "A New York Times analysis found the SEC eased about 60% of the crypto cases it inherited, several of them tied to Trump donors or business partners.",
       "verdict": "mostly-accurate",
-      "finding": "Multiple outlets report the NYT analysis (published about Dec 14, 2025). It found the SEC dismissed, paused or cut penalties in more than 60% of the crypto cases active on Jan 20, 2025, reportedly 14 of 23, against about 4% of inherited non-crypto cases, and filed no new crypto cases. Firms with Trump ties (Binance, Ripple, Justin Sun/Tron, the Winklevoss-backed Gemini) are among the eased cases. Secondhand accounts disagree on how many of the 14 had Trump ties: 'eight' in one, 'all' in another. That breakdown is unverified because the original was not reachable. The NYT found no evidence that Trump directly pressured the SEC.",
+      "finding": "Multiple outlets report the NYT analysis (published about Dec 14, 2025). It found the SEC dismissed, paused or cut penalties in more than 60% of the crypto cases active on Jan 20, 2025, reportedly 14 of 23, against about 4% of inherited non-crypto cases, and filed no new crypto cases. Firms with Trump ties (Binance, Ripple, Justin Sun/Tron, the Winklevoss-backed Gemini) are among the eased cases. Secondhand accounts disagree on how many of the 14 had Trump ties: 'five' in most (Cointelegraph and others), 'eight' in one, 'all' in another. That breakdown is unverified because the original was not reachable. The NYT found no evidence that Trump directly pressured the SEC.",
       "sources": [
         "https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped",
         "https://yellow.com/news/sec-dropped-60-of-crypto-cases-after-trump-returned-to-office-nyt-finds",
@@ -99,146 +99,743 @@
     "Crypto.com says its SEC probe closed for lack of merit, with 'absolutely no connection' to its political activity, and that Miller had no involvement.",
     "Robinhood's chief legal and compliance officer, Dan Gallagher, said the probe 'never should have been opened.'",
     "Non-donor firms (Uniswap, OpenSea, Yuga Labs, Immutable) also had probes closed, which supports the policy-shift explanation. The SEC still settled some matters with payments, e.g. Rainberry's $10M in the Justin Sun case (Mar 2026), and Ripple's $125M judgment stands.",
-    "Public Citizen and House Democrats are partisan or advocacy sources. Their 'pay-to-play' framing is an inference, and Public Citizen notes that inclusion in its tracker does not mean proven misconduct."
+    "Public Citizen and House Democrats are partisan or advocacy sources. Their 'pay-to-play' framing is an inference, and Public Citizen notes that inclusion in its tracker does not mean proven misconduct.",
+    "Public Citizen's analysis of MAGA Inc.'s first-half 2025 filing also lists Gemini giving $1.5M in April 2025, plus $1M from the Winklevoss twins in Jan 2025. Whether the 1.5M USDC in the January 2026 filing is a separate gift has not been checked against FEC itemized records."
   ],
   "sources": [
-    {"title": "SEC has dismissed or paused most crypto enforcement cases under Trump: Report", "publisher": "Cointelegraph", "url": "https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped", "date": "2025-12-15"},
-    {"title": "SEC Dropped 60% of Crypto Cases After Trump Returned to Office, NYT Finds", "publisher": "Yellow.com", "url": "https://yellow.com/news/sec-dropped-60-of-crypto-cases-after-trump-returned-to-office-nyt-finds", "date": "2025-12"},
-    {"title": "SEC softened 60% of crypto cases under Trump, NYT reports", "publisher": "Traders Union", "url": "https://tradersunion.com/news/cryptocurrency-news/show/1090367-sec-softened-60/", "date": "2025-12"},
-    {"title": "Billionaire Trump's crypto pals let off easy as investigators back down", "publisher": "The Daily Beast", "url": "https://www.thedailybeast.com/billionaire-trumps-crypto-pals-let-off-easy-as-investigators-back-down", "date": "2025-12"},
-    {"title": "SEC Closes Investigation into Robinhood Crypto With No Action", "publisher": "Robinhood", "url": "https://robinhood.com/us/en/newsroom/sec-closes-investigation-into-robinhood-crypto-with-no-action", "date": "2025-02-24"},
-    {"title": "SEC Ends Robinhood Investigation 'With No Action'", "publisher": "Decrypt", "url": "https://decrypt.co/307477/sec-ends-robinhood-investigation-with-no-action", "date": "2025-02-24"},
-    {"title": "Robinhood, Coinbase among Trump inauguration committee donors", "publisher": "InvestmentNews", "url": "https://investmentnews.com/industry-news/robinhood-coinbase-among-trump-inauguration-committee-donors/259135", "date": "2025-01"},
-    {"title": "Tracker: Corporate Enforcement at Risk", "publisher": "Public Citizen", "url": "https://www.citizen.org/article/corporate-enforcement-trump-tracker/", "date": "2025"},
-    {"title": "Corporate Crime Enforcement Plummets in Trump's First Year, Rewards Top Donors", "publisher": "Public Citizen", "url": "https://www.citizen.org/news/corporate-crime-enforcement-plummets-in-trumps-first-year-rewards-top-donors/", "date": "2026-01"},
-    {"title": "Trump's Cascade of Canceled Corporate Enforcement Against Over 200 Corporations", "publisher": "Public Citizen", "url": "https://www.citizen.org/article/trump-cascade-canceled-enforcement-200-corporations/", "date": "2026-09"},
-    {"title": "Deleting Tech Enforcement", "publisher": "Public Citizen", "url": "https://www.citizen.org/article/deleting-enforcement-trump-big-tech-billion-report/", "date": "2025"},
-    {"title": "How a Trump business deal with a crypto firm exposes potential conflicts of interest", "publisher": "AP via PBS NewsHour", "url": "https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest", "date": "2025-12-16"},
-    {"title": "How a Trump Media deal with a crypto firm exposes potential conflicts of interest", "publisher": "AP via BNN Bloomberg", "url": "https://www.bnnbloomberg.ca/business/2025/12/16/how-a-trump-media-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest/", "date": "2025-12-16"},
-    {"title": "Foris Inc. lobbies on digital asset regulation framework", "publisher": "Legis1", "url": "https://legis1.com/news/foris-inc-lobbies-digital-asset-regulation-framework", "date": "2025"},
-    {"title": "Gemini and Crypto.com Parent Company Donate $21M to Pro-Trump Super PAC", "publisher": "KuCoin News", "url": "https://www.kucoin.com/news/flash/gemini-and-crypto-com-parent-company-donate-21m-to-pro-trump-super-pac", "date": "2026-01"},
-    {"title": "Winklevoss twins gave Trump's super PAC $10 million 23 days after CFTC joined Gemini relief bid", "publisher": "CryptoSlate", "url": "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/", "date": "2026-07"},
-    {"title": "CFTC says it shouldn't have sued Gemini, joins motion to vacate prior judgment", "publisher": "The Block", "url": "https://www.theblock.co/news/business/2026-05-28-cftc-joins-relief-motion-gemini-402827", "date": "2026-05-28"},
-    {"title": "Federal Judge Rejects Gemini and CFTC Joint Bid to Vacate $5 Million Settlement", "publisher": "Crowdfund Insider", "url": "https://www.crowdfundinsider.com/2026/10/318811-federal-judge-rejects-gemini-and-cftc-joint-bid-to-vacate-5-million-settlement/", "date": "2026-10"},
-    {"title": "SEC drops Uniswap Labs investigation as agency continues crypto-friendly push", "publisher": "The Block", "url": "https://theblock.co/post/343353/sec-drops-uniswap-labs-investigation-as-agency-continues-crypto-friendly-push-wsj", "date": "2025-02-25"},
-    {"title": "Yuga Labs says SEC has closed its investigation into the company", "publisher": "The Block", "url": "https://www.theblock.co/post/344348/yuga-labs-says-sec-has-closed-its-investigation-into-the-company-nfts-are-not-securities", "date": "2025-03-03"},
-    {"title": "SEC drops investigation into Australian crypto firm Immutable", "publisher": "The Block", "url": "https://www.theblock.co/post/348115/sec-drops-investigation-into-australian-crypto-firm-immutable-as-regulatory-shift-continues", "date": "2025-03-25"},
-    {"title": "From Coinbase to Ripple: The Biggest Crypto Cases Dumped by Trump's SEC", "publisher": "Decrypt", "url": "https://decrypt.co/308273/trump-sec-ending-crypto-lawsuits-investigations", "date": "2025"},
-    {"title": "Democrats press SEC's Atkins over dropped crypto cases, Trump industry ties", "publisher": "The Block", "url": "https://www.theblock.co/news/regulation/2026-02-11-democrats-press-secs-atkins-over-dropped-crypto-cases-trump-industry-ties-as-agency-shifts-strategy-389503", "date": "2026-02-11"},
-    {"title": "SEC's Hester Peirce Pushes Back on Elizabeth Warren's Crypto Enforcement Claims", "publisher": "Coinage", "url": "https://www.coinage.media/2026/secs-hester-peirce-pushes-back-on-senator-warrens-crypto-enforcement-gripes", "date": "2026"},
-    {"title": "SEC dismisses claims against Justin Sun and Tron Foundation; Rainberry to pay $10M", "publisher": "Crowdfund Insider", "url": "https://www.crowdfundinsider.com/2026/03/265302-sec-permanently-dismisses-claims-against-justin-sun-and-tron-foundation-bittorrent-dev-rainberry-to-pay-10m-fine/", "date": "2026-03"}
+    {
+      "title": "SEC has dismissed or paused most crypto enforcement cases under Trump: Report",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped",
+      "date": "2025-12-15"
+    },
+    {
+      "title": "SEC Dropped 60% of Crypto Cases After Trump Returned to Office, NYT Finds",
+      "publisher": "Yellow.com",
+      "url": "https://yellow.com/news/sec-dropped-60-of-crypto-cases-after-trump-returned-to-office-nyt-finds",
+      "date": "2025-12"
+    },
+    {
+      "title": "SEC softened 60% of crypto cases under Trump, NYT reports",
+      "publisher": "Traders Union",
+      "url": "https://tradersunion.com/news/cryptocurrency-news/show/1090367-sec-softened-60/",
+      "date": "2025-12"
+    },
+    {
+      "title": "Billionaire Trump's crypto pals let off easy as investigators back down",
+      "publisher": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/billionaire-trumps-crypto-pals-let-off-easy-as-investigators-back-down",
+      "date": "2025-12"
+    },
+    {
+      "title": "SEC Closes Investigation into Robinhood Crypto With No Action",
+      "publisher": "Robinhood",
+      "url": "https://robinhood.com/us/en/newsroom/sec-closes-investigation-into-robinhood-crypto-with-no-action",
+      "date": "2025-02-24"
+    },
+    {
+      "title": "SEC Ends Robinhood Investigation 'With No Action'",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/307477/sec-ends-robinhood-investigation-with-no-action",
+      "date": "2025-02-24"
+    },
+    {
+      "title": "Robinhood, Coinbase among Trump inauguration committee donors",
+      "publisher": "InvestmentNews",
+      "url": "https://investmentnews.com/industry-news/robinhood-coinbase-among-trump-inauguration-committee-donors/259135",
+      "date": "2025-01"
+    },
+    {
+      "title": "Tracker: Corporate Enforcement at Risk",
+      "publisher": "Public Citizen",
+      "url": "https://www.citizen.org/article/corporate-enforcement-trump-tracker/",
+      "date": "2025"
+    },
+    {
+      "title": "Corporate Crime Enforcement Plummets in Trump's First Year, Rewards Top Donors",
+      "publisher": "Public Citizen",
+      "url": "https://www.citizen.org/news/corporate-crime-enforcement-plummets-in-trumps-first-year-rewards-top-donors/",
+      "date": "2026-01"
+    },
+    {
+      "title": "Trump's Cascade of Canceled Corporate Enforcement Against Over 200 Corporations",
+      "publisher": "Public Citizen",
+      "url": "https://www.citizen.org/article/trump-cascade-canceled-enforcement-200-corporations/",
+      "date": "2026-09"
+    },
+    {
+      "title": "Deleting Tech Enforcement",
+      "publisher": "Public Citizen",
+      "url": "https://www.citizen.org/article/deleting-enforcement-trump-big-tech-billion-report/",
+      "date": "2025"
+    },
+    {
+      "title": "How a Trump business deal with a crypto firm exposes potential conflicts of interest",
+      "publisher": "AP via PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest",
+      "date": "2025-12-16"
+    },
+    {
+      "title": "How a Trump Media deal with a crypto firm exposes potential conflicts of interest",
+      "publisher": "AP via BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/business/2025/12/16/how-a-trump-media-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest/",
+      "date": "2025-12-16"
+    },
+    {
+      "title": "Foris Inc. lobbies on digital asset regulation framework",
+      "publisher": "Legis1",
+      "url": "https://legis1.com/news/foris-inc-lobbies-digital-asset-regulation-framework",
+      "date": "2025"
+    },
+    {
+      "title": "Gemini and Crypto.com Parent Company Donate $21M to Pro-Trump Super PAC",
+      "publisher": "KuCoin News",
+      "url": "https://www.kucoin.com/news/flash/gemini-and-crypto-com-parent-company-donate-21m-to-pro-trump-super-pac",
+      "date": "2026-01"
+    },
+    {
+      "title": "Winklevoss twins gave Trump's super PAC $10 million 23 days after CFTC joined Gemini relief bid",
+      "publisher": "CryptoSlate",
+      "url": "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/",
+      "date": "2026-07"
+    },
+    {
+      "title": "CFTC says it shouldn't have sued Gemini, joins motion to vacate prior judgment",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2026-05-28-cftc-joins-relief-motion-gemini-402827",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Federal Judge Rejects Gemini and CFTC Joint Bid to Vacate $5 Million Settlement",
+      "publisher": "Crowdfund Insider",
+      "url": "https://www.crowdfundinsider.com/2026/10/318811-federal-judge-rejects-gemini-and-cftc-joint-bid-to-vacate-5-million-settlement/",
+      "date": "2026-10"
+    },
+    {
+      "title": "SEC drops Uniswap Labs investigation as agency continues crypto-friendly push",
+      "publisher": "The Block",
+      "url": "https://theblock.co/post/343353/sec-drops-uniswap-labs-investigation-as-agency-continues-crypto-friendly-push-wsj",
+      "date": "2025-02-25"
+    },
+    {
+      "title": "Yuga Labs says SEC has closed its investigation into the company",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/344348/yuga-labs-says-sec-has-closed-its-investigation-into-the-company-nfts-are-not-securities",
+      "date": "2025-03-03"
+    },
+    {
+      "title": "SEC drops investigation into Australian crypto firm Immutable",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/348115/sec-drops-investigation-into-australian-crypto-firm-immutable-as-regulatory-shift-continues",
+      "date": "2025-03-25"
+    },
+    {
+      "title": "From Coinbase to Ripple: The Biggest Crypto Cases Dumped by Trump's SEC",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/308273/trump-sec-ending-crypto-lawsuits-investigations",
+      "date": "2025"
+    },
+    {
+      "title": "Democrats press SEC's Atkins over dropped crypto cases, Trump industry ties",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2026-02-11-democrats-press-secs-atkins-over-dropped-crypto-cases-trump-industry-ties-as-agency-shifts-strategy-389503",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "SEC's Hester Peirce Pushes Back on Elizabeth Warren's Crypto Enforcement Claims",
+      "publisher": "Coinage",
+      "url": "https://www.coinage.media/2026/secs-hester-peirce-pushes-back-on-senator-warrens-crypto-enforcement-gripes",
+      "date": "2026"
+    },
+    {
+      "title": "SEC dismisses claims against Justin Sun and Tron Foundation; Rainberry to pay $10M",
+      "publisher": "Crowdfund Insider",
+      "url": "https://www.crowdfundinsider.com/2026/03/265302-sec-permanently-dismisses-claims-against-justin-sun-and-tron-foundation-bittorrent-dev-rainberry-to-pay-10m-fine/",
+      "date": "2026-03"
+    }
   ],
   "entities": [
-    {"id": "sec", "name": "U.S. Securities and Exchange Commission", "type": "government", "description": "Eased about 60% of inherited crypto cases (NYT)"},
-    {"id": "cftc", "name": "Commodity Futures Trading Commission", "type": "government", "description": "Joined Gemini's bid to vacate its $5M consent judgment (May 2026)"},
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US President; recipient of the donations at issue"},
-    {"id": "paul-atkins", "name": "Paul Atkins", "type": "person", "description": "SEC Chair; denied White House pressure on enforcement"},
-    {"id": "hester-peirce", "name": "Hester Peirce", "type": "person", "description": "SEC Commissioner leading the Crypto Task Force; left Oct 2026"},
-    {"id": "new-york-times", "name": "The New York Times", "type": "media", "description": "Dec 2025 analysis of SEC crypto case outcomes"},
-    {"id": "public-citizen", "name": "Public Citizen", "type": "company", "description": "Consumer advocacy group running the Corporate Enforcement Tracker"},
-    {"id": "robinhood", "name": "Robinhood Markets", "type": "company", "description": "Brokerage and crypto platform; $2M inaugural donor; SEC crypto probe closed Feb 2025"},
-    {"id": "dan-gallagher", "name": "Dan Gallagher", "type": "person", "description": "Robinhood chief legal, compliance and corporate affairs officer"},
-    {"id": "crypto-com", "name": "Crypto.com", "type": "company", "description": "Exchange; SEC probe closed Mar 2025; MAGA Inc. and inaugural donor"},
-    {"id": "jeff-miller", "name": "Jeff Miller", "type": "person", "description": "Miller Strategies lobbyist; GOP fundraiser and finance chair of Trump's inaugural festivities"},
-    {"id": "miller-strategies", "name": "Miller Strategies", "type": "company", "description": "Lobbying firm of Jeff Miller"},
-    {"id": "gemini", "name": "Gemini", "type": "company", "description": "Winklevoss exchange; gave 1.5M USDC to MAGA Inc."},
-    {"id": "cameron-winklevoss", "name": "Cameron Winklevoss", "type": "person", "description": "Gemini co-founder; >$5M BTC to MAGA Inc. Jun 2026"},
-    {"id": "tyler-winklevoss", "name": "Tyler Winklevoss", "type": "person", "description": "Gemini co-founder; >$5M BTC to MAGA Inc. Jun 2026"},
-    {"id": "maga-inc", "name": "MAGA Inc.", "type": "fund", "description": "Pro-Trump super PAC"},
-    {"id": "trump-inaugural-committee", "name": "Trump-Vance Inaugural Committee", "type": "fund", "description": "2025 inauguration fund"},
-    {"id": "binance", "name": "Binance", "type": "company", "description": "SEC suit dismissed May 2025; cited by NYT among Trump-tied cases"},
-    {"id": "changpeng-zhao", "name": "Changpeng Zhao", "type": "person", "description": "Binance founder; co-defendant in dismissed SEC suit; pardoned Oct 2025"},
-    {"id": "ripple", "name": "Ripple", "type": "company", "description": "SEC appeals dropped Aug 2025; inaugural donor"},
-    {"id": "coinbase", "name": "Coinbase", "type": "company", "description": "SEC suit dismissed Feb 2025; $76.1M political influence spending per Public Citizen"},
-    {"id": "kraken", "name": "Kraken (Payward)", "type": "company", "description": "SEC suit dismissed Mar 2025; hired Trump-tied Ballard Partners Dec 2024"},
-    {"id": "justin-sun", "name": "Justin Sun", "type": "person", "description": "Tron founder; SEC case paused Feb 2025, claims against him dismissed Mar 2026"},
-    {"id": "rainberry", "name": "Rainberry", "type": "company", "description": "BitTorrent developer; agreed to $10M SEC penalty in Sun case"},
-    {"id": "world-liberty-financial", "name": "World Liberty Financial", "type": "company", "description": "Trump-family crypto venture Sun invested in"},
-    {"id": "uniswap-labs", "name": "Uniswap Labs", "type": "company", "description": "DeFi developer; SEC probe closed Feb 2025; no known Trump donation"},
-    {"id": "opensea", "name": "OpenSea", "type": "company", "description": "NFT marketplace; SEC probe closed Feb 2025"},
-    {"id": "yuga-labs", "name": "Yuga Labs", "type": "company", "description": "NFT company; SEC probe closed Mar 2025"},
-    {"id": "immutable", "name": "Immutable", "type": "company", "description": "Web3 gaming firm; SEC probe closed Mar 2025"},
-    {"id": "maxine-waters", "name": "Maxine Waters", "type": "person", "description": "Ranking member, House Financial Services; led Jan 2026 letter"},
-    {"id": "sylvia-garcia", "name": "Sylvia Garcia", "type": "person", "description": "House Democrat who questioned Atkins on White House requests"},
-    {"id": "us-congress", "name": "U.S. Congress", "type": "government", "description": "House Financial Services Committee oversight"},
-    {"id": "white-house", "name": "White House", "type": "government", "description": "Denies conflicts of interest"},
-    {"id": "karoline-leavitt", "name": "Karoline Leavitt", "type": "person", "description": "White House press secretary"},
-    {"id": "trump-media-technology-group", "name": "Trump Media & Technology Group", "type": "company", "description": "Trump-owned company in a CRO-treasury deal with Crypto.com"}
+    {
+      "id": "sec",
+      "name": "U.S. Securities and Exchange Commission",
+      "type": "government",
+      "description": "Eased about 60% of inherited crypto cases (NYT)"
+    },
+    {
+      "id": "cftc",
+      "name": "Commodity Futures Trading Commission",
+      "type": "government",
+      "description": "Joined Gemini's bid to vacate its $5M consent judgment (May 2026)"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; recipient of the donations at issue"
+    },
+    {
+      "id": "paul-atkins",
+      "name": "Paul Atkins",
+      "type": "person",
+      "description": "SEC Chair; denied White House pressure on enforcement"
+    },
+    {
+      "id": "hester-peirce",
+      "name": "Hester Peirce",
+      "type": "person",
+      "description": "SEC Commissioner leading the Crypto Task Force; left Oct 2026"
+    },
+    {
+      "id": "new-york-times",
+      "name": "The New York Times",
+      "type": "media",
+      "description": "Dec 2025 analysis of SEC crypto case outcomes"
+    },
+    {
+      "id": "public-citizen",
+      "name": "Public Citizen",
+      "type": "company",
+      "description": "Consumer advocacy group running the Corporate Enforcement Tracker"
+    },
+    {
+      "id": "robinhood",
+      "name": "Robinhood Markets",
+      "type": "company",
+      "description": "Brokerage and crypto platform; $2M inaugural donor; SEC crypto probe closed Feb 2025"
+    },
+    {
+      "id": "dan-gallagher",
+      "name": "Dan Gallagher",
+      "type": "person",
+      "description": "Robinhood chief legal, compliance and corporate affairs officer"
+    },
+    {
+      "id": "crypto-com",
+      "name": "Crypto.com",
+      "type": "company",
+      "description": "Exchange; SEC probe closed Mar 2025; MAGA Inc. and inaugural donor"
+    },
+    {
+      "id": "jeff-miller",
+      "name": "Jeff Miller",
+      "type": "person",
+      "description": "Miller Strategies lobbyist; GOP fundraiser and finance chair of Trump's inaugural festivities"
+    },
+    {
+      "id": "miller-strategies",
+      "name": "Miller Strategies",
+      "type": "company",
+      "description": "Lobbying firm of Jeff Miller"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "type": "company",
+      "description": "Winklevoss exchange; gave 1.5M USDC to MAGA Inc."
+    },
+    {
+      "id": "cameron-winklevoss",
+      "name": "Cameron Winklevoss",
+      "type": "person",
+      "description": "Gemini co-founder; >$5M BTC to MAGA Inc. Jun 2026"
+    },
+    {
+      "id": "tyler-winklevoss",
+      "name": "Tyler Winklevoss",
+      "type": "person",
+      "description": "Gemini co-founder; >$5M BTC to MAGA Inc. Jun 2026"
+    },
+    {
+      "id": "maga-inc",
+      "name": "MAGA Inc.",
+      "type": "fund",
+      "description": "Pro-Trump super PAC"
+    },
+    {
+      "id": "trump-inaugural-committee",
+      "name": "Trump-Vance Inaugural Committee",
+      "type": "fund",
+      "description": "2025 inauguration fund"
+    },
+    {
+      "id": "binance",
+      "name": "Binance",
+      "type": "company",
+      "description": "SEC suit dismissed May 2025; cited by NYT among Trump-tied cases"
+    },
+    {
+      "id": "changpeng-zhao",
+      "name": "Changpeng Zhao",
+      "type": "person",
+      "description": "Binance founder; co-defendant in dismissed SEC suit; pardoned Oct 2025"
+    },
+    {
+      "id": "ripple",
+      "name": "Ripple",
+      "type": "company",
+      "description": "SEC appeals dropped Aug 2025; inaugural donor"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "type": "company",
+      "description": "SEC suit dismissed Feb 2025; $76.1M political influence spending per Public Citizen"
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken (Payward)",
+      "type": "company",
+      "description": "SEC suit dismissed Mar 2025; hired Trump-tied Ballard Partners Dec 2024"
+    },
+    {
+      "id": "justin-sun",
+      "name": "Justin Sun",
+      "type": "person",
+      "description": "Tron founder; SEC case paused Feb 2025, claims against him dismissed Mar 2026"
+    },
+    {
+      "id": "rainberry",
+      "name": "Rainberry",
+      "type": "company",
+      "description": "BitTorrent developer; agreed to $10M SEC penalty in Sun case"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture Sun invested in"
+    },
+    {
+      "id": "uniswap-labs",
+      "name": "Uniswap Labs",
+      "type": "company",
+      "description": "DeFi developer; SEC probe closed Feb 2025; no known Trump donation"
+    },
+    {
+      "id": "opensea",
+      "name": "OpenSea",
+      "type": "company",
+      "description": "NFT marketplace; SEC probe closed Feb 2025"
+    },
+    {
+      "id": "yuga-labs",
+      "name": "Yuga Labs",
+      "type": "company",
+      "description": "NFT company; SEC probe closed Mar 2025"
+    },
+    {
+      "id": "immutable",
+      "name": "Immutable",
+      "type": "company",
+      "description": "Web3 gaming firm; SEC probe closed Mar 2025"
+    },
+    {
+      "id": "maxine-waters",
+      "name": "Maxine Waters",
+      "type": "person",
+      "description": "Ranking member, House Financial Services; led Jan 2026 letter"
+    },
+    {
+      "id": "sylvia-garcia",
+      "name": "Sylvia Garcia",
+      "type": "person",
+      "description": "House Democrat who questioned Atkins on White House requests"
+    },
+    {
+      "id": "us-congress",
+      "name": "U.S. Congress",
+      "type": "government",
+      "description": "House Financial Services Committee oversight"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Denies conflicts of interest"
+    },
+    {
+      "id": "karoline-leavitt",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "White House press secretary"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Trump-owned company in a CRO-treasury deal with Crypto.com"
+    }
   ],
   "relationships": [
-    {"source": "new-york-times", "target": "sec", "label": "found eased ~60% (reportedly 14 of 23) of inherited crypto cases", "type": "media", "date": "2025-12-14"},
-    {"source": "sec", "target": "robinhood", "label": "closed crypto investigation with no action", "type": "regulatory", "date": "2025-02-21"},
-    {"source": "robinhood", "target": "trump-inaugural-committee", "label": "donated $2M to", "type": "money", "date": "2025-01", "amount_usd": 2000000},
-    {"source": "dan-gallagher", "target": "robinhood", "label": "chief legal and compliance officer of", "type": "commercial"},
-    {"source": "trump-inaugural-committee", "target": "donald-trump", "label": "inaugural fund for", "type": "political"},
-    {"source": "public-citizen", "target": "sec", "label": "tracks canceled enforcement (23 crypto actions dropped/halted)", "type": "media", "date": "2025"},
-    {"source": "public-citizen", "target": "coinbase", "label": "cited $76.1M political influence spending by", "type": "media", "amount_usd": 76100000},
-    {"source": "public-citizen", "target": "ripple", "label": "cited $55M political influence spending by", "type": "media", "amount_usd": 55000000},
-    {"source": "crypto-com", "target": "jeff-miller", "label": "increased lobbying payments to (AP)", "type": "commercial", "date": "2024-12"},
-    {"source": "jeff-miller", "target": "miller-strategies", "label": "runs", "type": "ownership"},
-    {"source": "jeff-miller", "target": "trump-inaugural-committee", "label": "finance chair of inaugural festivities", "type": "political", "date": "2025-01"},
-    {"source": "jeff-miller", "target": "sec", "label": "lobbied on behalf of Crypto.com", "type": "political", "date": "2025"},
-    {"source": "jeff-miller", "target": "white-house", "label": "lobbied on behalf of Crypto.com", "type": "political", "date": "2025"},
-    {"source": "sec", "target": "crypto-com", "label": "closed investigation with no action", "type": "regulatory", "date": "2025-03-27"},
-    {"source": "crypto-com", "target": "maga-inc", "label": "gave $20M (two $10M gifts via Foris DAX) in filing period", "type": "money", "date": "2025-10", "amount_usd": 20000000},
-    {"source": "crypto-com", "target": "trump-media-technology-group", "label": "CRO-treasury deal partner of", "type": "commercial", "date": "2025-08"},
-    {"source": "gemini", "target": "maga-inc", "label": "donated 1.5M USDC to", "type": "money", "date": "2025-12", "amount_usd": 1500000},
-    {"source": "cameron-winklevoss", "target": "maga-inc", "label": "gave >$5M in BTC to", "type": "money", "date": "2026-06-19", "amount_usd": 5000000},
-    {"source": "tyler-winklevoss", "target": "maga-inc", "label": "gave >$5M in BTC to", "type": "money", "date": "2026-06-19", "amount_usd": 5000000},
-    {"source": "cameron-winklevoss", "target": "gemini", "label": "co-founder of", "type": "ownership"},
-    {"source": "tyler-winklevoss", "target": "gemini", "label": "co-founder of", "type": "ownership"},
-    {"source": "cftc", "target": "gemini", "label": "joined motion to vacate $5M consent judgment", "type": "regulatory", "date": "2026-05-28", "amount_usd": 5000000},
-    {"source": "sec", "target": "gemini", "label": "closed investigation; dismissed Earn suit", "type": "regulatory", "date": "2025-02-26"},
-    {"source": "maga-inc", "target": "donald-trump", "label": "super PAC supporting", "type": "political"},
-    {"source": "sec", "target": "binance", "label": "dismissed lawsuit with prejudice", "type": "regulatory", "date": "2025-05-29"},
-    {"source": "changpeng-zhao", "target": "binance", "label": "founder of", "type": "ownership"},
-    {"source": "sec", "target": "ripple", "label": "dropped appeal", "type": "legal", "date": "2025-08-07"},
-    {"source": "sec", "target": "coinbase", "label": "dismissed lawsuit with prejudice", "type": "regulatory", "date": "2025-02-27"},
-    {"source": "sec", "target": "justin-sun", "label": "paused, then dismissed claims against", "type": "legal", "date": "2026-03-05"},
-    {"source": "rainberry", "target": "sec", "label": "agreed to pay $10M penalty to", "type": "legal", "date": "2026-03-05", "amount_usd": 10000000},
-    {"source": "justin-sun", "target": "world-liberty-financial", "label": "investor in", "type": "money", "date": "2024-11"},
-    {"source": "sec", "target": "uniswap-labs", "label": "closed investigation with no action", "type": "regulatory", "date": "2025-02-25"},
-    {"source": "sec", "target": "opensea", "label": "closed investigation", "type": "regulatory", "date": "2025-02-21"},
-    {"source": "sec", "target": "yuga-labs", "label": "closed investigation", "type": "regulatory", "date": "2025-03-03"},
-    {"source": "sec", "target": "immutable", "label": "closed investigation", "type": "regulatory", "date": "2025-03-25"},
-    {"source": "paul-atkins", "target": "sec", "label": "chairs", "type": "regulatory"},
-    {"source": "hester-peirce", "target": "sec", "label": "led Crypto Task Force at", "type": "regulatory", "date": "2025-01"},
-    {"source": "donald-trump", "target": "paul-atkins", "label": "appointed", "type": "political", "date": "2025"},
-    {"source": "maxine-waters", "target": "sec", "label": "alleged 'pay-to-play' in letter to", "type": "political", "date": "2026-01-15"},
-    {"source": "sylvia-garcia", "target": "paul-atkins", "label": "questioned at hearing", "type": "political", "date": "2026-02-11"},
-    {"source": "maxine-waters", "target": "us-congress", "label": "member of", "type": "political"},
-    {"source": "karoline-leavitt", "target": "white-house", "label": "press secretary of", "type": "political"}
+    {
+      "source": "new-york-times",
+      "target": "sec",
+      "label": "found eased ~60% (reportedly 14 of 23) of inherited crypto cases",
+      "type": "media",
+      "date": "2025-12-14"
+    },
+    {
+      "source": "sec",
+      "target": "robinhood",
+      "label": "closed crypto investigation with no action",
+      "type": "regulatory",
+      "date": "2025-02-21"
+    },
+    {
+      "source": "robinhood",
+      "target": "trump-inaugural-committee",
+      "label": "donated $2M to",
+      "type": "money",
+      "date": "2025-01",
+      "amount_usd": 2000000
+    },
+    {
+      "source": "dan-gallagher",
+      "target": "robinhood",
+      "label": "chief legal and compliance officer of",
+      "type": "commercial"
+    },
+    {
+      "source": "trump-inaugural-committee",
+      "target": "donald-trump",
+      "label": "inaugural fund for",
+      "type": "political"
+    },
+    {
+      "source": "public-citizen",
+      "target": "sec",
+      "label": "tracks canceled enforcement (23 crypto actions dropped/halted)",
+      "type": "media",
+      "date": "2025"
+    },
+    {
+      "source": "public-citizen",
+      "target": "coinbase",
+      "label": "cited $76.1M political influence spending by",
+      "type": "media",
+      "amount_usd": 76100000
+    },
+    {
+      "source": "public-citizen",
+      "target": "ripple",
+      "label": "cited $55M political influence spending by",
+      "type": "media",
+      "amount_usd": 55000000
+    },
+    {
+      "source": "crypto-com",
+      "target": "jeff-miller",
+      "label": "increased lobbying payments to (AP)",
+      "type": "commercial",
+      "date": "2024-12"
+    },
+    {
+      "source": "jeff-miller",
+      "target": "miller-strategies",
+      "label": "runs",
+      "type": "ownership"
+    },
+    {
+      "source": "jeff-miller",
+      "target": "trump-inaugural-committee",
+      "label": "finance chair of inaugural festivities",
+      "type": "political",
+      "date": "2025-01"
+    },
+    {
+      "source": "jeff-miller",
+      "target": "sec",
+      "label": "lobbied on behalf of Crypto.com",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "jeff-miller",
+      "target": "white-house",
+      "label": "lobbied on behalf of Crypto.com",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "sec",
+      "target": "crypto-com",
+      "label": "closed investigation with no action",
+      "type": "regulatory",
+      "date": "2025-03-27"
+    },
+    {
+      "source": "crypto-com",
+      "target": "maga-inc",
+      "label": "gave $20M (two $10M gifts via Foris DAX) in filing period",
+      "type": "money",
+      "date": "2025-10",
+      "amount_usd": 20000000
+    },
+    {
+      "source": "crypto-com",
+      "target": "trump-media-technology-group",
+      "label": "CRO-treasury deal partner of",
+      "type": "commercial",
+      "date": "2025-08"
+    },
+    {
+      "source": "gemini",
+      "target": "maga-inc",
+      "label": "donated 1.5M USDC to",
+      "type": "money",
+      "date": "2025-12",
+      "amount_usd": 1500000
+    },
+    {
+      "source": "cameron-winklevoss",
+      "target": "maga-inc",
+      "label": "gave >$5M in BTC to",
+      "type": "money",
+      "date": "2026-06-19",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "tyler-winklevoss",
+      "target": "maga-inc",
+      "label": "gave >$5M in BTC to",
+      "type": "money",
+      "date": "2026-06-19",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "cameron-winklevoss",
+      "target": "gemini",
+      "label": "co-founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "tyler-winklevoss",
+      "target": "gemini",
+      "label": "co-founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "cftc",
+      "target": "gemini",
+      "label": "joined motion to vacate $5M consent judgment",
+      "type": "regulatory",
+      "date": "2026-05-28",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "sec",
+      "target": "gemini",
+      "label": "closed investigation; dismissed Earn suit",
+      "type": "regulatory",
+      "date": "2025-02-26"
+    },
+    {
+      "source": "maga-inc",
+      "target": "donald-trump",
+      "label": "super PAC supporting",
+      "type": "political"
+    },
+    {
+      "source": "sec",
+      "target": "binance",
+      "label": "dismissed lawsuit with prejudice",
+      "type": "regulatory",
+      "date": "2025-05-29"
+    },
+    {
+      "source": "changpeng-zhao",
+      "target": "binance",
+      "label": "founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "sec",
+      "target": "ripple",
+      "label": "dropped appeal",
+      "type": "legal",
+      "date": "2025-08-07"
+    },
+    {
+      "source": "sec",
+      "target": "coinbase",
+      "label": "dismissed lawsuit with prejudice",
+      "type": "regulatory",
+      "date": "2025-02-27"
+    },
+    {
+      "source": "sec",
+      "target": "justin-sun",
+      "label": "paused, then dismissed claims against",
+      "type": "legal",
+      "date": "2026-03-05"
+    },
+    {
+      "source": "rainberry",
+      "target": "sec",
+      "label": "agreed to pay $10M penalty to",
+      "type": "legal",
+      "date": "2026-03-05",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "justin-sun",
+      "target": "world-liberty-financial",
+      "label": "investor in",
+      "type": "money",
+      "date": "2024-11"
+    },
+    {
+      "source": "sec",
+      "target": "uniswap-labs",
+      "label": "closed investigation with no action",
+      "type": "regulatory",
+      "date": "2025-02-25"
+    },
+    {
+      "source": "sec",
+      "target": "opensea",
+      "label": "closed investigation",
+      "type": "regulatory",
+      "date": "2025-02-21"
+    },
+    {
+      "source": "sec",
+      "target": "yuga-labs",
+      "label": "closed investigation",
+      "type": "regulatory",
+      "date": "2025-03-03"
+    },
+    {
+      "source": "sec",
+      "target": "immutable",
+      "label": "closed investigation",
+      "type": "regulatory",
+      "date": "2025-03-25"
+    },
+    {
+      "source": "paul-atkins",
+      "target": "sec",
+      "label": "chairs",
+      "type": "regulatory"
+    },
+    {
+      "source": "hester-peirce",
+      "target": "sec",
+      "label": "led Crypto Task Force at",
+      "type": "regulatory",
+      "date": "2025-01"
+    },
+    {
+      "source": "donald-trump",
+      "target": "paul-atkins",
+      "label": "appointed",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "maxine-waters",
+      "target": "sec",
+      "label": "alleged 'pay-to-play' in letter to",
+      "type": "political",
+      "date": "2026-01-15"
+    },
+    {
+      "source": "sylvia-garcia",
+      "target": "paul-atkins",
+      "label": "questioned at hearing",
+      "type": "political",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "maxine-waters",
+      "target": "us-congress",
+      "label": "member of",
+      "type": "political"
+    },
+    {
+      "source": "karoline-leavitt",
+      "target": "white-house",
+      "label": "press secretary of",
+      "type": "political"
+    }
   ],
   "leads": [
     {
       "title": "Gemini's CFTC consent-judgment vacatur bid and the Winklevoss $10M BTC gift to MAGA Inc.",
       "why_connected": "The CFTC joined Gemini's bid to erase a $5M penalty; 23 days later the Winklevoss twins gave over $10M to MAGA Inc. A judge reportedly denied the bid in Oct 2026.",
-      "entities": ["cftc", "gemini", "cameron-winklevoss", "tyler-winklevoss", "maga-inc"],
+      "entities": [
+        "cftc",
+        "gemini",
+        "cameron-winklevoss",
+        "tyler-winklevoss",
+        "maga-inc"
+      ],
       "source_url": "https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/"
     },
     {
       "title": "SEC settles Justin Sun case: Rainberry pays $10M, all claims against Sun dismissed",
       "why_connected": "A WLF investor's SEC case was paused after his Trump-venture purchases and then resolved with no personal penalty. Whether the court approved it is unconfirmed.",
-      "entities": ["sec", "justin-sun", "rainberry", "world-liberty-financial"],
+      "entities": [
+        "sec",
+        "justin-sun",
+        "rainberry",
+        "world-liberty-financial"
+      ],
       "source_url": "https://www.crowdfundinsider.com/2026/03/265302-sec-permanently-dismisses-claims-against-justin-sun-and-tron-foundation-bittorrent-dev-rainberry-to-pay-10m-fine/"
     },
     {
       "title": "Sudden resignation of the SEC enforcement director (Mar 2026) and Blumenthal's inquiry into whether crypto cases were involved",
       "why_connected": "Possible internal dissent over the crypto enforcement retreat.",
-      "entities": ["sec", "us-congress"],
+      "entities": [
+        "sec",
+        "us-congress"
+      ],
       "source_url": "https://www.thinkadvisor.com/amp/2026/03/30/senator-seeks-answers-on-sec-enforcement-heads-sudden-resignation/"
     },
     {
       "title": "Gemini hires Miller Strategies, the Trump-linked lobbying firm also tied to Crypto.com",
       "why_connected": "The same Trump-connected lobbyist network appears at two exchanges whose enforcement was eased.",
-      "entities": ["gemini", "miller-strategies", "jeff-miller", "crypto-com"],
+      "entities": [
+        "gemini",
+        "miller-strategies",
+        "jeff-miller",
+        "crypto-com"
+      ],
       "source_url": "https://legis1.com/news/crypto-regulation-lobbying-gemini"
     },
     {
       "title": "Kraken and Blockchain.com hire Trump-tied Ballard Partners",
       "why_connected": "Kraken's SEC suit was dismissed in Mar 2025 after it hired Ballard (Dec 2024, $60K with Blockchain.com).",
-      "entities": ["kraken", "sec"],
+      "entities": [
+        "kraken",
+        "sec"
+      ],
       "source_url": "https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "NYT (2025-12-14) found the SEC eased about 60% (14 of 23) of inherited crypto cases",
+      "Count of eased cases with Trump ties",
+      "Gemini 1.5M USDC and Foris DAX 2x$10M to MAGA Inc. in the filing reported Jan 2026"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Core NYT figures re-confirmed by fresh secondary coverage (Cointelegraph, Yellow, Daily Beast), as was 'no evidence' of direct influence. Added that most secondary accounts give 'five' as the number of Trump-tied cases. Added a caveat that an April 2025 $1.5M Gemini gift also appears in Public Citizen's tally, so the 1.5M USDC figure may or may not be a separate donation."
+    ],
+    "new_sources": [
+      {
+        "title": "SEC crypto enforcement under Donald Trump dropped, NYT reports",
+        "publisher": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped",
+        "date": "2025-12-15"
+      },
+      {
+        "title": "Trump's MAGA Inc. SuperPAC Donor List is Littered with Corporate and Billionaire Influence Buyers",
+        "publisher": "Public Citizen",
+        "url": "https://www.citizen.org/news/trumps-maga-inc-superpac-donor-list-is-littered-with-corporate-and-billionaire-influence-buyers/",
+        "date": "2025-08"
+      }
+    ]
+  }
 }

@@ -852,5 +852,16 @@
       ],
       "source_url": "https://thedefensepost.com/2026/09/24/pakistan-drone-order-us/amp/"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Language review of summary and sub-claims for unattributed allegations"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the Unusual Machines equity stake is marked as talks with no deal, and family influence as unverified with denials included. No changes."
+    ],
+    "new_sources": [],
+    "scope": "language review only; no fresh searches"
+  }
 }

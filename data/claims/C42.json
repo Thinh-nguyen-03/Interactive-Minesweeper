@@ -3,7 +3,7 @@
   "title": "How World Liberty insiders took money out",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The documented record supports most of the brief. Trump-owned DT Marks DEFI is entitled to 75% of WLF's net revenue, including token-sale proceeds. Trump disclosed about $57M from WLF for 2024 and about $800M for 2025. Steve Witkoff reported about $107M of 2025 income from a WLF-linked holding company while the White House says he has divested, though no buyer or certificate has been shown. WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI as the token hit record lows. Sun's wallet and 271 others were frozen, WLF promoted the $SPSC memecoin, and WLFI fell about 80-85% from its $0.33 peak. Three points need correction or remain open: the borrower was WLF's own treasury, not individual insiders; no source puts a dollar figure on retail losses; and StringZ Holding's reported Tahnoon backing rests on a single WSJ report citing anonymous sources, which the OCC record does not confirm.",
+  "summary": "The documented record supports most of the brief. Trump-owned DT Marks DEFI is entitled to 75% of WLF's net revenue, including token-sale proceeds. Trump disclosed about $57M from WLF for 2024 and about $594M-$800M for 2025; outlets disagree on the size of the equity-sale line, which is reported as $65M by some and more than $250M by others. Steve Witkoff reported about $107M of 2025 income from a WLF-linked holding company while the White House says he has divested, though no buyer or certificate has been shown. WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI as the token hit record lows. Sun's wallet and 271 others were frozen, WLF promoted the $SPSC memecoin, and WLFI fell about 80-85% from its $0.33 peak. Three points need correction or remain open: the borrower was WLF's own treasury, not individual insiders; no source puts a dollar figure on retail losses; and StringZ Holding's reported Tahnoon backing rests on a single WSJ report citing anonymous sources, which the OCC record does not confirm.",
   "sub_claims": [
     {
       "statement": "DT Marks DEFI LLC is entitled to 75% of WLF's net token-sale and protocol revenue.",
@@ -19,12 +19,15 @@
     {
       "statement": "Trump disclosed income from WLF.",
       "verdict": "confirmed",
-      "finding": "The 2024 OGE filing, released June 2025, shows about $57.35M from WLF token sales ($57.7M per Bloomberg Tax). The 2025 filing, released June 30, 2026, shows about $800M: more than $520M from token sales and more than $250M from selling interests in the business. The 22.5B-token stake was valued at about $1.3B. These are revenue figures, not profit.",
+      "finding": "The 2024 OGE filing, released June 2025, shows about $57.35M from WLF token sales ($57.7M per Bloomberg Tax). For the 2025 filing, released June 30, 2026, outlets disagree on the WLF total. Reuters and the NYT (see C29) report about $800M: more than $520M from token sales and more than $250M from selling interests in the business. Bloomberg, NOTUS and others report about $594M: roughly $515-529M from token sales plus about $65-66M from selling equity in WLF Holdco. The Block itemizes $236.25M of token proceeds distributed by WLF plus $65.6M from the equity sale. Many entries on the form are ranges, so no exact figure can be pinned down. The token-sale figure of more than $500M is consistent across outlets; the size of the equity-sale line is not. The 22.5B-token stake was valued at about $1.3B. These are revenue figures, not profit.",
       "sources": [
         "https://www.ctvnews.ca/world/article/trump-pocketed-over-57-million-from-crypto-coin-sales/",
         "https://news.bloombergtax.com/crypto/trump-earned-57-7-million-from-crypto-venture-disclosure-shows",
         "https://unchainedcrypto.com/trumps-2025-financial-disclosure-shows-over-1-billion-in-crypto-income-as-bitcoin-slid-50/",
-        "https://www.citationneeded.news/trumps-crypto-disclosure/"
+        "https://www.citationneeded.news/trumps-crypto-disclosure/",
+        "https://news.bgov.com/crypto/witkoff-reports-107-million-from-entity-that-held-crypto-stake",
+        "https://www.notus.org/trump-white-house/trump-annual-financial-disclosure-crypto-earnings",
+        "https://www.theblock.co/news/regulation/2026-06-30-president-trump-financial-disclosures-hundreds-millions-crypto-related-income-406782"
       ]
     },
     {
@@ -113,7 +116,8 @@
     "The brief says 'WLF insiders' borrowed. The reporting shows WLF's own treasury or multisig wallets borrowed on Dolomite, and no personal borrowing by Trump or Witkoff family members is documented. Loan size: about $75M per CoinDesk; the $150M and $261M estimates are unverified.",
     "'75% of net revenue' is the Gold Paper revenue entitlement. DT Marks DEFI's equity stake in WLF Holdco is now reported at about 38.25%.",
     "Witkoff's about $107M came from a WLF-linked holding company, and the filing does not show how much came from WLF itself.",
-    "Entity id note: C04 uses dt-marks-defi-llc and C13 uses dt-marks-defi for the same company. This file uses dt-marks-defi-llc."
+    "Entity id note: C04 uses dt-marks-defi-llc and C13 uses dt-marks-defi for the same company. This file uses dt-marks-defi-llc.",
+    "The 2025 WLF income figure is contested. 'About $800M', with more than $250M from selling interests, is the Reuters/NYT reading. Bloomberg, NOTUS and others report about $594M: about $515-529M from token sales plus about $65-66M from the WLF Holdco equity sale. The form reports ranges, so the figure is given here as $594M-$800M."
   ],
   "denials_and_context": [
     "WLF says the freezes protect users from phishing, calls concerns about the Dolomite loan 'FUD' because the position is overcollateralized, and calls Sun's allegations baseless.",
@@ -350,6 +354,24 @@
       "publisher": "Unchained",
       "url": "https://unchainedcrypto.com/uae-national-security-adviser-backs-49-of-the-holding-company-behind-the-trump-familys-bank-charter-bid/",
       "date": "2026-08"
+    },
+    {
+      "title": "Witkoff Reports $107 Million From Entity That Held Crypto Stake",
+      "publisher": "Bloomberg Government",
+      "url": "https://news.bgov.com/crypto/witkoff-reports-107-million-from-entity-that-held-crypto-stake",
+      "date": "2026-09"
+    },
+    {
+      "title": "Trump Discloses More Than $1.1 Billion In Crypto Earnings",
+      "publisher": "NOTUS",
+      "url": "https://www.notus.org/trump-white-house/trump-annual-financial-disclosure-crypto-earnings",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "President Trump's financial disclosures show hundreds of millions in crypto-related income",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2026-06-30-president-trump-financial-disclosures-hundreds-millions-crypto-related-income-406782",
+      "date": "2026-06-30"
     }
   ],
   "entities": [
@@ -626,10 +648,10 @@
     {
       "source": "world-liberty-financial",
       "target": "donald-trump",
-      "label": "paid about $800M of income (2025 disclosure)",
+      "label": "paid about $594M-$800M of income (2025 disclosure; outlets differ)",
       "type": "money",
       "date": "2025",
-      "amount_usd": 800000000
+      "amount_usd": 594000000
     },
     {
       "source": "wc-digital-fi",
@@ -880,5 +902,44 @@
       ],
       "source_url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Trump's 2025 OGE disclosure shows about $800M from WLF, including more than $250M from selling interests",
+      "Witkoff reported about $107M of 2025 income from a WLF-linked holding company",
+      "WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Corrected the 2025 WLF income figure from a flat 'about $800M' to a $594M-$800M range. Bloomberg, NOTUS and InvestmentNews report about $515-529M from token sales plus about $65-66M from the WLF Holdco equity sale, which does not match the '>$250M from selling interests' figure; The Block's itemization is lower again. The relationship amount_usd is now set to the conservative $594M. The same '$800M / >$250M' reading appears in C29 (not edited here; flagged for that file's auditor).",
+      "Witkoff $107M upheld: Bloomberg Government confirms it, with the caveat that the holding company also has resort, golf, hotel and residential businesses, so the WLF share is unknown (already noted).",
+      "Dolomite borrowing (about 5B WLFI collateral, about $75M borrowed, more than $40M to Coinbase Prime, utilization at 93% to near 100%) upheld per CoinDesk, The Defiant and Gizmodo. One detail is reported differently: Gizmodo/Unchained describe Corey Caplan as WLF's CTO rather than an adviser; that wording was left unchanged."
+    ],
+    "new_sources": [
+      {
+        "title": "Witkoff Reports $107 Million From Entity That Held Crypto Stake",
+        "publisher": "Bloomberg Government",
+        "url": "https://news.bgov.com/crypto/witkoff-reports-107-million-from-entity-that-held-crypto-stake",
+        "date": "2026-09"
+      },
+      {
+        "title": "Trump Discloses More Than $1.1 Billion In Crypto Earnings",
+        "publisher": "NOTUS",
+        "url": "https://www.notus.org/trump-white-house/trump-annual-financial-disclosure-crypto-earnings",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "President Trump's financial disclosures show hundreds of millions in crypto-related income",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/news/regulation/2026-06-30-president-trump-financial-disclosures-hundreds-millions-crypto-related-income-406782",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "Trump's World Liberty Financial uses 5 billion WLFI to borrow $75 million from a platform its adviser co-founded",
+        "publisher": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/09/trump-s-world-liberty-financial-borrows-usd75-million-against-its-own-token-trapping-depositors-on-dolomite",
+        "date": "2026-04-09"
+      }
+    ]
+  }
 }

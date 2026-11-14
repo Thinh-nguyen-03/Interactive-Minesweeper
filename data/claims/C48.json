@@ -708,5 +708,16 @@
       ],
       "source_url": "https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Language review of summary and sub-claims for unattributed allegations"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Language-only review. Fresh web verification was cut short: the shared web-search budget for this run ran out after C44, and direct fetches are blocked in this environment. Reviewed wording: the 'unaccounted for' amount is presented as the lawmakers' allegation, and the 747 transfer as a stated plan. No changes."
+    ],
+    "new_sources": [],
+    "scope": "language review only; no fresh searches"
+  }
 }

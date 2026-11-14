@@ -113,3 +113,20 @@ No document, testimony or official finding shows an exchange of donations for ou
 23. The Block, Democrats press Atkins, 2026-02-11. https://www.theblock.co/news/regulation/2026-02-11-democrats-press-secs-atkins-over-dropped-crypto-cases-trump-industry-ties-as-agency-shifts-strategy-389503
 24. Coinage, Peirce pushes back on Warren, 2026. https://www.coinage.media/2026/secs-hester-peirce-pushes-back-on-senator-warrens-crypto-enforcement-gripes
 25. Crowdfund Insider, Justin Sun / Rainberry $10M, 2026-03. https://www.crowdfundinsider.com/2026/03/265302-sec-permanently-dismisses-claims-against-justin-sun-and-tron-foundation-bittorrent-dev-rainberry-to-pay-10m-fine/
+
+
+## Audit (second-opinion pass, Nov 2026)
+
+**Result: upheld**
+
+Checked:
+- NYT (2025-12-14) found the SEC eased about 60% (14 of 23) of inherited crypto cases
+- Count of eased cases with Trump ties
+- Gemini 1.5M USDC and Foris DAX 2x$10M to MAGA Inc. in the filing reported Jan 2026
+
+Changes:
+- Core NYT figures re-confirmed by fresh secondary coverage (Cointelegraph, Yellow, Daily Beast), as was 'no evidence' of direct influence. Added that most secondary accounts give 'five' as the number of Trump-tied cases. Added a caveat that an April 2025 $1.5M Gemini gift also appears in Public Citizen's tally, so the 1.5M USDC figure may or may not be a separate donation.
+
+New sources:
+- Cointelegraph, "SEC crypto enforcement under Donald Trump dropped, NYT reports", 2025-12-15. https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped
+- Public Citizen, "Trump's MAGA Inc. SuperPAC Donor List is Littered with Corporate and Billionaire Influence Buyers", 2025-08. https://www.citizen.org/news/trumps-maga-inc-superpac-donor-list-is-littered-with-corporate-and-billionaire-influence-buyers/
