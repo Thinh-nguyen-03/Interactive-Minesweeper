@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Extracts the small data subset embedded in the prototype from map/graph-data.js.
-Writes data-subset.json next to this file. Standard library only."""
+Injects it into index.html between the DATA-START and DATA-END markers. Standard library only."""
 import json, re, os, collections
 here = os.path.dirname(os.path.abspath(__file__))
 t = open(os.path.join(here, '..', '..', 'map', 'graph-data.js')).read()
@@ -82,15 +82,18 @@ for r in g['rels']:
         rels.append(o)
 
 def short(n):
-    if len(n['name']) <= 22: return n['name']
-    al = [a for a in n.get('aliases', []) if 3 <= len(a) < len(n['name'])]
-    return min(al, key=len) if al else n['name']
+    name = n['name']
+    if len(name) <= 24: return name
+    base = re.split(r' [(/]', name)[0].strip()
+    if len(base) <= 24: return base
+    al = [a for a in n.get('aliases', []) if a.isupper() and 2 <= len(a) <= 6]
+    return al[0] if al else name
 
 entities = {}
 for k in sorted(keep_e):
     n = N[k]
     entities[n['id']] = {'n': n['name'], 'sh': short(n), 't': n['type'], 'd': n.get('description', ''),
-                         'more': (n.get('more') or [])[:5] if n['id'] in FEATURED else [],
+                         'a': (n.get('aliases') or [])[:4],
                          'c': sorted(set(ent_claims[k]))}
 out = {'meta': {k: g['meta'][k] for k in ['generated', 'claims', 'video_claims', 'followups', 'connection_hunts', 'entities', 'relationships', 'tally']},
        'top': [n['id'] for n in top], 'claims': light, 'full': full, 'entities': entities, 'rels': rels}
@@ -99,5 +102,9 @@ for c in claims:
     for i, v in enumerate(tally(c)): sub[i] += v
 out['meta']['points'] = [sub[i] for i in range(4)]
 out['meta']['sources'] = sum(len(c['sources']) for c in claims)
-json.dump(out, open(os.path.join(here, 'data-subset.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
+blob = json.dumps(out, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
+page = os.path.join(here, 'index.html')
+html = open(page).read()
+a, b = html.index('/*DATA-START*/'), html.index('/*DATA-END*/')
+open(page, 'w').write(html[:a] + '/*DATA-START*/const DATA=' + blob + ';' + html[b:])
 print(len(json.dumps(out)), len(entities), len(rels), out['meta'])
