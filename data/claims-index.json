@@ -512,5 +512,113 @@
    "C23",
    "C22"
   ]
+ },
+ {
+  "id": "C53",
+  "slug": "witkoff-family-gulf-money",
+  "lines": "",
+  "title": "The Witkoff family's own Gulf money",
+  "claim": "Leads from C14/C42: beyond World Liberty, the Witkoff family has Gulf financial ties while Steve Witkoff is special envoy \u2014 Qatar's sovereign fund bought the Witkoff Group's Park Lane hotel stake (2023); Alex/Zach Witkoff reportedly sought billions from Qatar, UAE and Kuwait funds for real-estate vehicles in 2025; Steve Witkoff's reported ~$120M sale of a stake in his firm with no buyer named; his ethics agreement, disclosures and the timing versus Gaza/Qatar/Iran/Russia negotiations (incl. the Qatar jet and Doha strike aftermath). Verify amounts, dates, counterparties and denials.",
+  "origin": "follow-up",
+  "parents": [
+   "C14",
+   "C42",
+   "C16"
+  ]
+ },
+ {
+  "id": "C54",
+  "slug": "crypto-revolving-door",
+  "lines": "",
+  "title": "The crypto revolving door: officials who moved to firms they shaped policy for",
+  "claim": "Leads from C35/C25/C12: administration crypto officials moving to industry (and vice versa) \u2014 Bo Hines (White House crypto council director \u2192 CEO of Tether's US arm/USAT), Brian Quintenz (Kalshi board; withdrawn CFTC nomination), Mike Selig's and Paul Atkins's prior crypto clients, Jonathan Gould (OCC; ex-Bitfury), David Sacks, SEC/CFTC staff departures to Coinbase, a16z, etc.; plus Trump family business partners placed in government roles. Verify each move with dates, cooling-off/ethics-waiver facts and responses.",
+  "origin": "follow-up",
+  "parents": [
+   "C35",
+   "C25",
+   "C12",
+   "C34"
+  ]
+ },
+ {
+  "id": "C55",
+  "slug": "family-take-estimates",
+  "lines": "",
+  "title": "How much has the Trump family made? Competing totals",
+  "claim": "Leads from C29/C30/C31: estimates of the family's second-term take differ widely \u2014 the New Yorker's David Kirkpatrick (~$3.4B cash), Forbes, Bloomberg, Reuters/NYT disclosure tallies ($1.4B crypto / $2.2B income), CREW's foreign-revenue count and 24 foreign projects, Fight Fight Fight's proposed $200M\u2013$1B $TRUMP treasury, and where the gains went (reinvested in stocks/bonds). Establish each estimate's methodology, date, what it includes (cash vs paper), and reconcile them; note the family's own responses.",
+  "origin": "follow-up",
+  "parents": [
+   "C29",
+   "C01",
+   "C31"
+  ]
+ },
+ {
+  "id": "C56",
+  "slug": "saudi-deals-and-policy",
+  "lines": "",
+  "title": "Saudi Arabia: family deals alongside US policy",
+  "claim": "Leads from C31/C15: Trump-family business with Saudi-linked parties (Dar Global towers, Diriyah, LIV Golf events at Trump courses funded by PIF, Kushner's PIF money, PIF's stake in EA buyout with Affinity) proceeded alongside major US\u2013Saudi government decisions \u2014 MBS's Nov 2025 White House visit, F-35 sale approval, civil-nuclear deal talks, AI-chip sales to Humain, major-non-NATO-ally status, Trump's remarks on Khashoggi. Build the dated timeline of business deals vs policy actions, with amounts, and record denials and what, if anything, links them.",
+  "origin": "follow-up",
+  "parents": [
+   "C31",
+   "C15",
+   "C08"
+  ]
+ },
+ {
+  "id": "C57",
+  "slug": "uae-g42-mgx-web",
+  "lines": "",
+  "title": "The UAE network: Tahnoon, G42, MGX and their US deals",
+  "claim": "Leads from C06/C08/C34: map Sheikh Tahnoon's entities and their US-linked deals \u2014 Aryam's 49% of World Liberty (board seats for G42's Peng Xiao and lawyer Martin Edelman), MGX (Binance $2B in USD1; Stargate; a stake in the TikTok US joint venture approved by Trump; OpenAI/xAI/Anthropic investments), G42 (chip licences, Microsoft, Stargate UAE campus), a G42 crypto executive reportedly advising WLF, StringZ Holding in WLF's trust bank, ADQ/Lunate in Kushner's Affinity. Verify each link, date and amount; note which US approvals each needed and all denials.",
+  "origin": "follow-up",
+  "parents": [
+   "C06",
+   "C07",
+   "C08",
+   "C12",
+   "C15"
+  ]
+ },
+ {
+  "id": "C58",
+  "slug": "market-moving-posts-insider-trading",
+  "lines": "",
+  "title": "Market-moving posts and insider-trading allegations",
+  "claim": "Leads from C20/C21/C30/C41: allegations that people traded ahead of Trump's market-moving statements \u2014 the 9 April 2025 'THIS IS A GREAT TIME TO BUY' post hours before the tariff pause (options activity, Democrats' requests to the SEC, Trump boasting about friends' gains), well-timed trades before other tariff/Iran/Intel/Fed announcements, prediction-market bets ahead of policy news (e.g. Polymarket/Kalshi wagers before military or pardon announcements), the Intercept/Freedom of the Press Foundation suit over Truth Social-exclusive announcements, Rogan's 'insider trading' remark. Verify what is documented, any investigations, and official responses.",
+  "origin": "follow-up",
+  "parents": [
+   "C20",
+   "C21",
+   "C41",
+   "C25"
+  ]
+ },
+ {
+  "id": "C59",
+  "slug": "foreign-deals-and-tariffs",
+  "lines": "",
+  "title": "Foreign Trump Organization deals timed with tariff negotiations",
+  "claim": "Leads from C31: outside the Gulf, Trump Organization projects advanced in countries negotiating tariffs or other favours with the administration \u2014 Vietnam ($1.5B Hung Yen golf project fast-tracked; Ho Chi Minh tower), Indonesia (MNC/Hary Tanoe resorts), India (multiple licensed towers), Serbia, Georgia, Maldives, Romania, etc. CREW counts ~24 foreign projects. Build the list with dates, counterparties (state-linked?), fees, and the corresponding tariff/policy outcomes; record denials and the second-term ethics pledge's limits.",
+  "origin": "follow-up",
+  "parents": [
+   "C31",
+   "C45"
+  ]
+ },
+ {
+  "id": "C60",
+  "slug": "critical-minerals-equity-stakes",
+  "lines": "",
+  "title": "Government equity stakes and critical-minerals deals: who was positioned to profit",
+  "claim": "Leads from C26/C47/C50: the administration took equity stakes or gave loans/price floors to companies (MP Materials, Lithium Americas, Trilogy Metals, Vulcan Elements, Intel, USA Rare Earth, others); reporting (e.g. NYT/FT/Bloomberg) says Trump-family or Lutnick-family-linked firms (1789 Capital, Cantor Fitzgerald as banker/investor, Dominari/American Ventures via Skyline\u2013Cove Kaz tungsten) held positions in or advised around a dozen-plus critical-minerals firms that received federal backing. Verify each named instance, timing of investment vs government action, gains, and denials.",
+  "origin": "follow-up",
+  "parents": [
+   "C26",
+   "C47",
+   "C50",
+   "C51"
+  ]
  }
 ]
