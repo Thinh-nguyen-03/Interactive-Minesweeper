@@ -12,10 +12,10 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 ## Verdicts
 
 - Confirmed: 2
-- Mostly accurate: 60
+- Mostly accurate: 63
 - Partly accurate: 3
 - Unverified: 2
-- Pending: 15
+- Pending: 12
 
 ## Claims from the video
 
@@ -92,10 +92,10 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 - [[C69 Master timeline money events versus government actions]] · Pending
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Pending
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Pending
 - [[C73 Qatar's access network inside and around the administration]] · Pending
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
@@ -127,28 +127,28 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
 ## Most connected
 
-- [[Donald Trump]] (80 claims, 231 connections)
-- [[World Liberty Financial]] (35 claims, 97 connections)
-- [[Securities and Exchange Commission]] (27 claims, 88 connections)
+- [[Donald Trump]] (80 claims, 243 connections)
+- [[World Liberty Financial]] (36 claims, 102 connections)
+- [[Securities and Exchange Commission]] (29 claims, 90 connections)
 - [[White House Trump administration]] (50 claims, 84 connections)
-- [[Donald Trump Jr]] (39 claims, 71 connections)
-- [[Eric Trump]] (37 claims, 67 connections)
+- [[Donald Trump Jr]] (42 claims, 76 connections)
+- [[Eric Trump]] (39 claims, 71 connections)
+- [[Trump Organization]] (24 claims, 61 connections)
 - [[Trump Media & Technology Group]] (19 claims, 59 connections)
-- [[Trump Organization]] (23 claims, 57 connections)
-- [[Elizabeth Warren]] (25 claims, 56 connections)
-- [[Jared Kushner]] (19 claims, 54 connections)
-- [[US Congress]] (33 claims, 53 connections)
-- [[Steve Witkoff]] (18 claims, 43 connections)
-- [[United Arab Emirates]] (20 claims, 41 connections)
-- [[The New York Times]] (18 claims, 35 connections)
+- [[Elizabeth Warren]] (26 claims, 58 connections)
+- [[Jared Kushner]] (20 claims, 55 connections)
+- [[US Congress]] (34 claims, 55 connections)
+- [[Steve Witkoff]] (20 claims, 46 connections)
+- [[United Arab Emirates]] (22 claims, 44 connections)
+- [[The New York Times]] (19 claims, 37 connections)
 - [[$TRUMP meme coin]] (11 claims, 35 connections)
 - [[Commodity Futures Trading Commission]] (10 claims, 34 connections)
 - [[Coffeezilla]] (14 claims, 33 connections)
 - [[Crypto.com]] (11 claims, 33 connections)
-- [[USD1]] (16 claims, 32 connections)
+- [[USD1]] (17 claims, 33 connections)
+- [[Affinity Partners]] (15 claims, 32 connections)
 - [[The Wall Street Journal]] (18 claims, 32 connections)
-- [[Dominari Holdings Dominari Securities]] (9 claims, 30 connections)
-- [[Qatar]] (11 claims, 30 connections)
-- [[Affinity Partners]] (13 claims, 29 connections)
-- [[Binance]] (14 claims, 28 connections)
-- [[Justin Sun]] (12 claims, 28 connections)
+- [[Binance]] (15 claims, 31 connections)
+- [[Pentagon (Department of Defense)]] (12 claims, 31 connections)
+- [[Qatar]] (12 claims, 31 connections)
+- [[Zach Witkoff]] (19 claims, 31 connections)

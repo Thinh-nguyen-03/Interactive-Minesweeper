@@ -2,8 +2,10 @@
 id: "andreessen-horowitz"
 kind: "entity"
 type: "fund"
-connections: 2
-claims: 1
+aliases:
+  - "Andreessen Horowitz"
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/fund"
@@ -15,14 +17,24 @@ VC firm where Quintenz was global head of policy
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 2 claims |
+| Connections | 4 |
+| Also known as | Andreessen Horowitz |
+
+## How other claims describe it
+
+- VC; backer of Leading the Future and Fairshake
 
 ## Appears in claims
 
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 
 ## Relationships
+
+### Political (1)
+
+- [[Andreessen Horowitz (a16z crypto)]] *founding backer* [[Leading the Future]] · 2025-08-25 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 
 ### Commercial (1)
 

@@ -5,8 +5,8 @@ type: "government"
 aliases:
   - "Congress"
   - "U.S. Congress"
-connections: 53
-claims: 33
+connections: 55
+claims: 34
 tags:
   - "entity"
   - "type/government"
@@ -20,8 +20,8 @@ Passed crypto legislation; questioned Selig.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 33 claims |
-| Connections | 53 |
+| Appears in | 34 claims |
+| Connections | 55 |
 | Also known as | Congress; U.S. Congress |
 
 ## How other claims describe it
@@ -67,6 +67,7 @@ Passed crypto legislation; questioned Selig.
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Relationships
 
@@ -82,12 +83,13 @@ Passed crypto legislation; questioned Selig.
 - [[US Congress]] *House passed 294-134; Senate cloture failed 49-50* [[CLARITY Act]] · 2026-09-15 · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[US State Department]] *notified F-35 sale to* [[US Congress]] · 2026-09-17 · $24.3B · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 
-### Political (12)
+### Political (13)
 
 - [[US Congress]] *passed* [[GENIUS Act]] · 2025-07 · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[US Congress]] *Senate confirmed 50-45* [[Jonathan Gould]] · 2025-07-10 · [[C12 WLF bank charter from the OCC|C12]]
 - [[US Congress]] *Democratic members questioned marketing of* [[Trump Mobile]] · 2025-08-05 · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[US Congress]] *questioned failure to divest* [[Steve Witkoff]] · 2025-10-22 · [[C42 How World Liberty insiders took money out|C42]]
+- [[US Congress]] *Senate Banking Democrats asked Treasury/DOJ to investigate* [[Aqua 1 Foundation]] · 2026-09-15 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Donald Trump]] *made night-time calls to* [[US Congress]] · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Elizabeth Warren]] *member of* [[US Congress]] · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[House Select Committee on the CCP]] *committee of the House* [[US Congress]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]

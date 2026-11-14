@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Binance US"
-connections: 28
-claims: 14
+connections: 31
+claims: 15
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 14 claims |
-| Connections | 28 |
+| Appears in | 15 claims |
+| Connections | 31 |
 | Also known as | Binance US |
 
 ## How other claims describe it
@@ -44,11 +44,12 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Relationships
 
-### Money (12)
+### Money (13)
 
 - [[Binance]] *paid (with Zhao) for lobbying* [[Teresa Goody Guillén]] · 2025 · $290K · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Binance]] *paid for pardon lobbying* [[Teresa Goody Guillén]] · 2025 · $290K · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
@@ -58,6 +59,7 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[MGX]] *invested $2B (settled in USD1) in* [[Binance]] · 2025-03-12 · $2B · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[MGX]] *$2B investment settled in USD1* [[Binance]] · 2025-05-01 · $2B · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[MGX]] *invested $2B in, settled in USD1* [[Binance]] · 2025-05-01 · $2B · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]]
+- [[MGX]] *settled $2B investment in USD1* [[Binance]] · 2025-05-01 · $2B · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Binance]] *paid for 'executive relief' lobbying* [[Checkmate Government Relations]] · 2025-09 · $450K · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Binance]] *paid ~$450K for 'executive relief' lobbying* [[Checkmate Government Relations]] · 2025-09 · $450K · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[World Liberty Financial]] *reportedly provides marketing budget for promotions to* [[Binance]] · 2026 · [[C10 Binance driving USD1 adoption|C10]]
@@ -73,9 +75,12 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[Changpeng Zhao]] *founder of* [[Binance]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Richard Teng]] *CEO of* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]]
 
-### Regulatory (5)
+### Regulatory (8)
 
+- [[Binance]] *staff found ~$300M wash trading; Binance deemed evidence insufficient (WSJ)* [[DWF Labs]] · 2024-05 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Binance]] *offboarded as MOVE market maker, froze proceeds* [[Web3Port]] · 2025-03-18 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Securities and Exchange Commission]] *dismissed case* [[Binance]] · 2025-05-29 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Binance]] · 2025-05-29 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Binance]] · 2025-05-29 · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Binance]] · 2025-05-29 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Pardon of Changpeng Zhao]] *eases US re-entry of* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]

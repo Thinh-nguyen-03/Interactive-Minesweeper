@@ -2,8 +2,8 @@
 id: "arkham-intelligence"
 kind: "entity"
 type: "company"
-connections: 3
-claims: 2
+connections: 4
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -15,17 +15,19 @@ On-chain analytics firm that tracked TRUMP-team wallets
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
-| Connections | 3 |
+| Appears in | 3 claims |
+| Connections | 4 |
 
 ## How other claims describe it
 
 - On-chain analytics traced Web3Port/Aqua 1 wallets
+- On-chain analytics firm
 
 ## Appears in claims
 
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Relationships
 

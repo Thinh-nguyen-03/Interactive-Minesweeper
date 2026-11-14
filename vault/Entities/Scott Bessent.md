@@ -2,8 +2,8 @@
 id: "scott-bessent"
 kind: "entity"
 type: "person"
-connections: 10
-claims: 5
+connections: 11
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ US Treasury Secretary; reportedly pressed Lutnick over Megaspeed
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 5 claims |
-| Connections | 10 |
+| Appears in | 6 claims |
+| Connections | 11 |
 
 ## How other claims describe it
 
@@ -32,11 +32,13 @@ US Treasury Secretary; reportedly pressed Lutnick over Megaspeed
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Relationships
 
-### Regulatory (1)
+### Regulatory (2)
 
+- [[Scott Bessent]] *chairs; no public answer on WLF reviews* [[CFIUS]] · 2026 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 
 ### Political (4)

@@ -21,9 +21,10 @@ Host country of the tungsten project.
 ## How other claims describe it
 
 - Host of the tungsten project
+- State
 
 ## Appears in claims
 
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate

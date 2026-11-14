@@ -8,8 +8,8 @@ aliases:
   - "ALT5 Sigma (now AI Financial Corporation, AIFC)"
   - "Alt 5"
   - "Alt-5 Sigma"
-connections: 27
-claims: 6
+connections: 28
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -21,8 +21,8 @@ Listed company in a $1.5B WLFI treasury deal; stock down ~94%; rebranded AI Fina
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 6 claims |
-| Connections | 27 |
+| Appears in | 7 claims |
+| Connections | 28 |
 | Also known as | AI Financial Corporation; ALT5 Sigma (now AI Financial Corp.); ALT5 Sigma (now AI Financial Corporation, AIFC); Alt 5; Alt-5 Sigma |
 
 ## How other claims describe it
@@ -41,6 +41,7 @@ Listed company in a $1.5B WLFI treasury deal; stock down ~94%; rebranded AI Fina
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Relationships
 
@@ -55,10 +56,11 @@ Listed company in a $1.5B WLFI treasury deal; stock down ~94%; rebranded AI Fina
 - [[ALT5 Sigma]] *reportedly paid ~$90M to Witkoff family* [[Zach Witkoff]] · $90M · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Retail investors Trump supporters]] *lost ~94% on stock of* [[ALT5 Sigma]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C29 Trump family wealth gains|C29]]
 
-### Ownership (6)
+### Ownership (7)
 
 - [[ALT5 Sigma]] *treasury holding about 7.5% of supply, bought at $0.20* [[WLFI token]] · 2025-08 · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Zach Witkoff]] *chairman* [[ALT5 Sigma]] · 2025-08 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[ALT5 Sigma]] *holds ~$781M WLFI wallet (Reuters)* [[WLFI token]] · 2025-10 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[ALT5 Sigma]] *buys and holds* [[WLFI token]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Chase Herro]] *helps run* [[ALT5 Sigma]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Jon Isaac]] *consultant and major shareholder* [[ALT5 Sigma]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]

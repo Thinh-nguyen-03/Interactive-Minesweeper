@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Skyline Builders"
-connections: 10
-claims: 4
+connections: 11
+claims: 5
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Microcap the sons invested in via a Dominari-tied vehicle; merged with Cove Kaz 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 4 claims |
-| Connections | 10 |
+| Appears in | 5 claims |
+| Connections | 11 |
 | Also known as | Skyline Builders |
 
 ## How other claims describe it
@@ -26,6 +26,7 @@ Microcap the sons invested in via a Dominari-tied vehicle; merged with Cove Kaz 
 - Nasdaq-listed company (SKBL) that bought 20% of Kaz Resources and is merging with Cove Kaz.
 - Microcap bought into via a Dominari SPV; acquired 20% of Kaz Resources
 - Nasdaq microcap that took 20% of Kaz Resources; merged with Cove Kaz
+- Buyer of 20% of Kaz Resources
 
 ## Appears in claims
 
@@ -33,6 +34,7 @@ Microcap the sons invested in via a Dominari-tied vehicle; merged with Cove Kaz 
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 
@@ -43,12 +45,14 @@ Microcap the sons invested in via a Dominari-tied vehicle; merged with Cove Kaz 
 - [[American Ventures]] *SPV through which the sons reportedly bought in* [[Skyline Builders Group]] · 2025-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Skyline Builders Group]] *agreed to pay $20M for 20%* [[Kaz Resources]] · 2025-10-31 · $20M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 
-### Ownership (5)
+### Ownership (7)
 
 - [[Donald Trump Jr]] *invested via Dominari-tied vehicle* [[Skyline Builders Group]] · 2025-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *reported indirect stake* [[Skyline Builders Group]] · 2025-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Donald Trump Jr]] *reportedly invested via Dominari SPV (FT)* [[Skyline Builders Group]] · 2025-08 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Eric Trump]] *invested via Dominari-tied vehicle* [[Skyline Builders Group]] · 2025-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Eric Trump]] *reported indirect stake* [[Skyline Builders Group]] · 2025-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Eric Trump]] *reportedly invested via Dominari SPV (FT)* [[Skyline Builders Group]] · 2025-08 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Skyline Builders Group]] *bought 20% for $20M* [[Kaz Resources]] · 2025-10-31 · $20M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 
 ### Media (1)

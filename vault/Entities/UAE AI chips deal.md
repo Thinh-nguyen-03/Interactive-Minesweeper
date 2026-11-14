@@ -3,9 +3,10 @@ id: "uae-chips-deal"
 kind: "entity"
 type: "event"
 aliases:
+  - "US-UAE AI chip framework"
   - "US-UAE AI chips deal"
-connections: 17
-claims: 8
+connections: 18
+claims: 9
 tags:
   - "entity"
   - "type/event"
@@ -17,9 +18,9 @@ US approval of long-refused AI chip exports to the UAE.
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 8 claims |
-| Connections | 17 |
-| Also known as | US-UAE AI chips deal |
+| Appears in | 9 claims |
+| Connections | 18 |
+| Also known as | US-UAE AI chip framework; US-UAE AI chips deal |
 
 ## How other claims describe it
 
@@ -39,6 +40,7 @@ US approval of long-refused AI chip exports to the UAE.
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 

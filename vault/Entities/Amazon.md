@@ -2,7 +2,7 @@
 id: "amazon"
 kind: "entity"
 type: "company"
-connections: 13
+connections: 14
 claims: 2
 tags:
   - "entity"
@@ -16,19 +16,25 @@ E-commerce and cloud giant; licensed the Melania film through Amazon MGM Studios
 |---|---|
 | Type | Company |
 | Appears in | 2 claims |
-| Connections | 13 |
+| Connections | 14 |
+
+## How other claims describe it
+
+- Melania documentary; ballroom donor
 
 ## Appears in claims
 
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 
 ## Relationships
 
-### Money (2)
+### Money (4)
 
 - [[Amazon]] *donated $1M* [[Trump-Vance Inaugural Committee]] · 2024-12 · $1M · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Amazon]] *documentary licence fee to Melania (OGE)* [[Melania Trump]] · 2025 · $10.71M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Amazon]] *film licensing fee ($10.71M on 2025 OGE report)* [[Melania Trump]] · 2025 · $10.71M · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Amazon]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 
 ### Ownership (5)
 

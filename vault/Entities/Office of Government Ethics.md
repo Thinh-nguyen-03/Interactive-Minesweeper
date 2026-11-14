@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "US Office of Government Ethics"
-connections: 17
-claims: 10
+connections: 18
+claims: 11
 tags:
   - "entity"
   - "type/government"
@@ -17,8 +17,8 @@ Released Trump's annual financial disclosure on June 30, 2026.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 10 claims |
-| Connections | 17 |
+| Appears in | 11 claims |
+| Connections | 18 |
 | Also known as | US Office of Government Ethics |
 
 ## How other claims describe it
@@ -41,6 +41,7 @@ Released Trump's annual financial disclosure on June 30, 2026.
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 
 ## Relationships
 

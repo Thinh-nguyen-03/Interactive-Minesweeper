@@ -2,8 +2,8 @@
 id: "jeff-bezos"
 kind: "entity"
 type: "person"
-connections: 5
-claims: 1
+connections: 6
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -15,12 +15,17 @@ Amazon founder and executive chair; owner of Blue Origin and the Washington Post
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
-| Connections | 5 |
+| Appears in | 2 claims |
+| Connections | 6 |
+
+## How other claims describe it
+
+- Amazon founder
 
 ## Appears in claims
 
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 
 ## Relationships
 

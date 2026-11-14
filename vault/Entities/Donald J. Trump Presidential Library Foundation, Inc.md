@@ -43,7 +43,7 @@ Nonprofit formed May 2025 to build the Trump library in Miami; successor to a fu
 ### Money (4)
 
 - [[ABC News]] *settlement paid to (per 2025 disclosure)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2024-12 · $15M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Meta Platforms]] *settlement paid to (part of $56.5M with ABC, Paramount)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Meta]] *settlement paid to (part of $56.5M with ABC, Paramount)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Paramount]] *settlement paid to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-07 · $16M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Florida Board of Trustees of the Internal Improvement Trust Fund]] *deeded $67M+ parcel for $10* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-09-30 · $67M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 

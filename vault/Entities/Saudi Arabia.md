@@ -2,8 +2,8 @@
 id: "saudi-arabia"
 kind: "entity"
 type: "country"
-connections: 14
-claims: 7
+connections: 15
+claims: 8
 tags:
   - "entity"
   - "type/country"
@@ -17,8 +17,8 @@ Gulf state whose PIF backs Kushner's fund.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 7 claims |
-| Connections | 14 |
+| Appears in | 8 claims |
+| Connections | 15 |
 
 ## How other claims describe it
 
@@ -37,6 +37,7 @@ Gulf state whose PIF backs Kushner's fund.
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 

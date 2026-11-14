@@ -6,8 +6,8 @@ aliases:
   - "Abu Dhabi"
   - "Dubai"
   - "UAE"
-connections: 41
-claims: 20
+connections: 44
+claims: 22
 tags:
   - "entity"
   - "type/country"
@@ -21,8 +21,8 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 20 claims |
-| Connections | 41 |
+| Appears in | 22 claims |
+| Connections | 44 |
 | Also known as | Abu Dhabi; Dubai; UAE |
 
 ## How other claims describe it
@@ -54,6 +54,8 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
 
 ## Relationships
@@ -91,8 +93,9 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[Steve Witkoff]] *negotiates in region of* [[United Arab Emirates]] · [[C14 Steve and Zach Witkoff|C14]]
 - [[Sheikh Tahnoon bin Zayed]] *national security adviser of* [[United Arab Emirates]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 
-### Commercial (4)
+### Commercial (5)
 
+- [[Caduceus]] *falsely claimed Bin Zayed Group backing (denied)* [[United Arab Emirates]] · 2023 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Witkoff Group]] *reportedly approached sovereign fund (NYT)* [[United Arab Emirates]] · 2024-2025 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Trump Organization]] *Trump-branded projects in (Dubai)* [[United Arab Emirates]] · 2025-05 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Trump International Hotel & Tower Dubai]] *located in* [[United Arab Emirates]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]

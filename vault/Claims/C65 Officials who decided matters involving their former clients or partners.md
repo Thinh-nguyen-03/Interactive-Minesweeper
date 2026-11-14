@@ -451,7 +451,7 @@ Most of the named officials have documented prior ties to parties affected by th
 ### Ownership (11)
 
 - [[Michael Kratsios]] *holds Class B shares ($1M-$5M); ex-MD* [[Scale AI]] · 2024-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Donald Trump Jr]] *partner* [[1789 Capital]] · 2024-11 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Donald Trump Jr]] *partner* [[1789 Capital]] · 2024-11 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Paul Atkins]] *founder/CEO; divested on confirmation* [[Patomak Global Partners]] · 2025 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Stephen Feinberg]] *co-founder; interests to children's trusts; services contract* [[Cerberus Capital Management]] · 2025 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Paul Atkins]] *board seat and call options until Feb 2025* [[Securitize]] · 2025-02 · [[C65 Officials who decided matters involving their former clients or partners|C65]]

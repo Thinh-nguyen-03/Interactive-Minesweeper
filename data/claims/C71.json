@@ -1,0 +1,1068 @@
+{
+  "id": "C71",
+  "title": "Who actually bought World Liberty tokens: Zhou, Web3Port, Aqua 1 and foreign wallets",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Multi-outlet reporting documents the Web3Port ($10M) and Aqua 1 ($100M) WLFI purchases, Web3Port's role in the $38M MOVE dump, WLF's own MOVE buys, and Reuters' finding that 36 of the top 50 WLFI wallets are likely foreign (~$804M). The NYT ties Aqua 1 to a renamed Web3Port entity and to uncharged UK laundering suspect Bobby Zhou, and reports up to $75M flowed to the Trump-and-sons company. The source of the funds is unknown beyond about $90M arriving from an OKX account, and no US agency is known to have reviewed any purchase despite four Senate Democratic letters. The link between Web3Port's buy and WLF's MOVE buy is only our own inference.",
+  "sub_claims": [
+    {
+      "statement": "Web3Port bought WLFI right after the inauguration",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: DOCUMENTED. On 2025-01-27, Web3Port Foundation announced it had bought 200M WLFI for $10M, calling it a 'long-term partnership' with more purchases planned. CB Insights lists co-investors Comma3, KuCoin and Sui. Arkham, cited by the NYT, traced about $20M from a Web3Port-controlled wallet that month (see C67). The $10M figure is Web3Port's own claim.",
+      "sources": [
+        "https://www.cbinsights.com/company/web3port/financials",
+        "https://www.theblock.co/news/business/2025-07-15-aqua1-web3port-world-liberty-362612",
+        "https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221"
+      ]
+    },
+    {
+      "statement": "Web3Port was the market maker behind the $38M MOVE dump and was offboarded by Binance",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: DOCUMENTED. About a day after MOVE listed (2024-12-09/10), wallets tied to Rentech and Web3Port sold about 66M MOVE (about $38M), and the price fell about 47%. On 2025-03-18, Binance offboarded the unnamed market maker and froze the proceeds; Movement turned them into a $38M buyback. ZachXBT (via Blockworks) and CoinDesk named Web3Port, which did not comment. CoinDesk reported that the Rentech contract lent about half of MOVE's circulating supply to one counterparty. Rentech denies misrepresentation. Co-founder Rushi Manche was suspended, then ousted. One relayed summary dates Web3Port's 'expulsion' to 2023; the documented exchange action is from March 2025.",
+      "sources": [
+        "https://blockworks.co/news/binance-movement-market-maker-investigation",
+        "https://www.theblock.co/amp/post/347931/binance-move-market-maker-movement-38-million-usdt-buyback-program",
+        "https://finance.yahoo.com/news/binance-offboards-market-maker-said-100720331.html",
+        "https://decrypt.co/317524/movement-labs-suspends-co-founder-amid-market-maker-controversy?amp=1",
+        "https://rekt.news/all-the-wrong-moves",
+        "https://crypto.news/wlfi-linked-move-and-web3port-implicated-in-38m-token-dump-scandal/"
+      ]
+    },
+    {
+      "statement": "WLF itself bought MOVE, the day after Web3Port's WLFI purchase, matching a reported token-swap template",
+      "verdict": "partly-accurate",
+      "finding": "Purchases DOCUMENTED; the link is INFERRED. On 2025-01-28, Arkham recorded WLF buying about 2.4M MOVE (about $1.85-2M) via CoW Swap, about two hours before Movement's mainnet announcement. WLF bought more in February 2025, and later transfers to Ceffu show a loss of about 60-70%. Blockworks (Feb 2025) reported that WLF pitched protocols a deal: buy $10M of WLFI plus a 10% fee, and WLF buys the protocol's token. Tron and Movement denied any swap, and Manche denied coordination. Our own observation: MOVE's market maker bought exactly $10M of WLFI one day before WLF bought MOVE. No source asserts that the two purchases were linked.",
+      "sources": [
+        "https://www.theblock.co/post/337497",
+        "https://info.arkm.com/research/wlf-purchases-1-85m-move",
+        "https://www.theblock.co/post/340838/trump-backed-world-liberty-financial-buys-more-wbtc-move-tokens",
+        "https://www.theblock.co/news/markets/2025-01-28-i-dont-think-anything-was-coordinated-movement-labs-rushi-manche-insider-trading-allegations-trump-world-liberty-337575",
+        "https://dev.coindesk.com/markets/2025/02/04/tron-move-deny-token-swap-deal-for-world-liberty-fi-inclusion"
+      ]
+    },
+    {
+      "statement": "Aqua 1 presented as a UAE fund but is unregistered there and was funded from an OKX account",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: DOCUMENTED, mainly Reuters (2025-07-11). ADGM said Aqua 1 'is not registered, licensed, or affiliated' with it. The website dates from late May 2025, and the founder 'Dave Lee' has little public footprint. The wallet aqua1.eth received about $90M from an OKX account between March and June 2025; its only large outflows were about $80M in two transfers to WLF. The gap between that and the $100M headline is unexplained. Cryptopolitan found no UAE SCA licence. The September 2026 Senate letter repeats the OKX point and notes OKX's guilty plea to US anti-money-laundering violations.",
+      "sources": [
+        "https://whbl.com/2025/07/11/trumps-100-million-crypto-mystery-man/",
+        "https://media.dealstreetasia.com/stories/trump-crypto-mystery-man-449016",
+        "https://www.cryptopolitan.com/who-is-trumps-100-million-crypto-mystery-man/",
+        "https://www.banking.senate.gov/imo/media/doc/20260915lettertobessentandblancheonaqua1.pdf"
+      ]
+    },
+    {
+      "statement": "Aqua 1 is a renamed Web3Port vehicle controlled by Guren 'Bobby' Zhou, an uncharged UK money-laundering suspect",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: the purchases and records are DOCUMENTED; the identification is SINGLE-SOURCE (the NYT, 2026-08-09, relayed by six or more outlets). A BVI Web3Port entity became Aqua 1 GP Limited about two weeks before the 2025-06-26 announcement. Zhou was arrested in the UK in 2021 and is uncharged; officials said the case was still open in late July 2026. A Feb 2024 Court of Appeal judgment confirms he was released under investigation, and a Nov 2025 filing alleges a laundering scheme with five others dating from 2019. Two employees were reportedly charged in Sept 2025 (single-source). He was a director of about 13 UK flooring companies (2008-2019). His Caduceus project (about $7.6M raised) falsely claimed backing from China Merchants Securities UK and the 'Bin Zayed Group'; both denied it. The source of the funds is unknown. Caixin's 'blacklisted' label is UNVERIFIED. Aqua 1 and Lee denied Web3Port ties in July 2025, and Zhou did not respond.",
+      "sources": [
+        "https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221",
+        "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump",
+        "https://unchainedcrypto.com/world-libertys-100-million-aqua-1-buyer-tied-to-active-uk-money-laundering-probe/",
+        "https://crypto.news/world-libertys-100m-wlfi-buyer-linked-to-uk-money-laundering-probe/",
+        "https://www.ibtimes.co.uk/trump-crypto-venture-100m-investment-1813193",
+        "https://cryip.co/uk-court-records-dissolved-companies-100m-wlfi-buyer/",
+        "https://news.bitcoin.com/wlfi-100-million-bobby-zhou-money-laundering/",
+        "https://www.theblock.co/news/business/2025-07-15-aqua1-web3port-world-liberty-362612",
+        "https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html"
+      ]
+    },
+    {
+      "statement": "Up to 75% of each post-threshold purchase flowed to the Trump-family DT Marks DEFI LLC",
+      "verdict": "mostly-accurate",
+      "finding": "The rule is DOCUMENTED (Gold Paper, see C42): 75% of net revenue after a $30M reserve and expenses. The NYT reports that up to $75M of Aqua 1's $100M went to the company controlled by Trump and his sons, with Witkoff family affiliates also benefiting (single-source as relayed; the split is unclear). For Web3Port ($10M → up to about $7.5M), DWF ($25M → up to about $18.75M) and Sun's January 2025 $45M (→ up to about $33.75M), the figures are our INFERRED gross ceilings before expenses. No source publishes per-buyer payouts.",
+      "sources": [
+        "https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221",
+        "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump",
+        "https://www.banking.senate.gov/newsroom/minority/as-congress-considers-potential-market-structure-legislation-warren-and-reed-press-doj-and-treasury-on-national-security-risks-posed-by-trump-affiliated-crypto-ventures-sale-of-tokens-to-illicit-actors"
+      ]
+    },
+    {
+      "statement": "Reuters found 36 of the 50 largest WLFI wallets likely foreign-controlled (~$804M)",
+      "verdict": "mostly-accurate",
+      "finding": "SINGLE-SOURCE analysis (Reuters special report, 2025-10-28), known here via Cointelegraph and Cryptopolitan. 36 of the top 50 wallets were likely overseas, holding about $804M. Only 4 were US-linked, including ALT5 Sigma (about $781M) and a WLF security adviser (about $35M); 10 were unclassified. More than a dozen experts reviewed the analysis and called it reasonable. WLF's lawyer called it inaccurate and misleading. Attribution is probabilistic, and foreign predominance is expected under the Reg S sale design.",
+      "sources": [
+        "https://www.dailymaverick.co.za/article/2025-10-28-special-report-inside-the-trump-familys-global-crypto-cash-machine/",
+        "https://cointelegraph.com/news/how-the-trump-family-turned-crypto-into-an-800m-gold-rush",
+        "https://www.cryptopolitan.com/global-wallets-help-build-trump-familys-1b/"
+      ]
+    },
+    {
+      "statement": "DWF Labs, another Dubai-based WLFI buyer, has a reported manipulation history",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: DOCUMENTED reporting, with the allegation disputed. DWF bought $25M of WLFI on 2025-04-16 (C67). The WSJ (May 2024) reported that Binance surveillance staff found about $300M of DWF wash trading in 2023; Binance deemed the evidence insufficient, and the investigator was let go. DWF and Grachev deny the allegations. Any link between DWF and Web3Port is INFERRED co-occurrence only.",
+      "sources": [
+        "https://www.theblock.co/news/business/2024-05-09-dwf-labs-denies-report-that-it-did-300-million-of-wash-trading-on-binance-last-year-293429",
+        "https://hotfix.coindesk.com/business/2024/05/09/binance-fired-investigator-who-uncovered-market-manipulation-at-client-dwf-labs-wsj"
+      ]
+    },
+    {
+      "statement": "No US agency (CFIUS, Treasury/FinCEN, DOJ, SEC) is known to have reviewed these purchases",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: a DOCUMENTED absence of any public review, and DOCUMENTED requests for one. WLF sold under Reg D (accredited US buyers) and Reg S (non-US buyers), with US sales capped and about 90% aimed abroad. WLF says all of more than 85,000 participants passed KYC, and its spokesman says the company 'meets or exceeds industry standards'. Senate Democrats wrote four times: Warren/Reed to DOJ and Treasury on 2025-11-18 (illicit wallets); Warren/Kim to Bessent on 2026-02-13 (CFIUS review of Aryam); Warren/Reed to Bessent and Blanche on 2026-05-14 (AB partner and Prince Group-sanctioned people); and about 2026-09-15 on Aqua 1, Zhou and OKX. No public reply or opened inquiry was found. That CFIUS may lack reach over governance-token purchases is our own INFERRED analysis.",
+      "sources": [
+        "https://www.theblock.co/news/defi/2024-09-30-trump-backed-world-liberty-financial-opens-up-kyc-verification-on-website-318680",
+        "https://cryptoslate.com/donald-trumps-world-liberty-will-limit-token-sales-in-the-us-to-30-million/",
+        "https://www.businesswire.com/news/home/20250317855322/en/Trump-Inspired-World-Liberty-Financial-Closes-$550-Million-Across-Token-Sales",
+        "https://www.banking.senate.gov/newsroom/minority/as-congress-considers-potential-market-structure-legislation-warren-and-reed-press-doj-and-treasury-on-national-security-risks-posed-by-trump-affiliated-crypto-ventures-sale-of-tokens-to-illicit-actors",
+        "https://www.theblock.co/post/389958/sens-warren-kim-demand-cfius-review-of-uaes-reported-500-million-stake-in-world-liberty-financial-reuters",
+        "https://www.banking.senate.gov/newsroom/minority/ahead-of-committee-crypto-market-structure-markup-warren-and-reed-call-for-investigation-into-world-liberty-financials-latest-apparent-failure-to-detect-ties-to-sanctioned-criminals",
+        "https://www.banking.senate.gov/imo/media/doc/20260915lettertobessentandblancheonaqua1.pdf"
+      ]
+    },
+    {
+      "statement": "WLFI was sold to wallets with illicit-actor exposure",
+      "verdict": "partly-accurate",
+      "finding": "Accountable.US (Sept 2025) reported WLFI sales to wallets that had touched a Lazarus-labelled address, Nobitex (Iran), a ruble platform, and Tornado Cash (at least 62 users). Researcher Nick Bax showed the 'Lazarus' link came from a joke Dream Cash airdrop, and a falsely flagged user had about $95K of WLFI frozen. The Nobitex and Tornado Cash items were not rebutted in what we found. Evidence grade: SINGLE-SOURCE (watchdog), partly rebutted.",
+      "sources": [
+        "https://cointelegraph.com/news/senators-trump-linked-wlfi-national-security-threat",
+        "https://unhashed.beehiiv.com/p/did-trump-s-token-reach-enemies",
+        "https://www.banking.senate.gov/newsroom/minority/as-congress-considers-potential-market-structure-legislation-warren-and-reed-press-doj-and-treasury-on-national-security-risks-posed-by-trump-affiliated-crypto-ventures-sale-of-tokens-to-illicit-actors"
+      ]
+    }
+  ],
+  "corrections": [
+    "One relayed summary says Web3Port was 'expelled in 2023'; the documented Binance offboarding was 2025-03-18.",
+    "Aqua 1's announced $100M compares with about $80M seen moving on-chain to WLF (Reuters); the difference is unexplained.",
+    "Caixin's 'blacklisted' description of Zhou has no basis we could verify; Caixin searches returned only the unrelated Qian Zhimin case."
+  ],
+  "denials_and_context": [
+    "WLF says it follows all laws and runs an industry-standard KYC program, and called Reuters' analysis inaccurate and misleading.",
+    "Aqua 1 and Dave Lee denied Web3Port ties (July 2025); Zhou did not respond to the NYT and is uncharged.",
+    "Movement Labs and Tron deny any token-swap deal; Manche denies insider coordination; Rentech denies misrepresentation.",
+    "DWF Labs and Grachev deny the wash-trading allegations; Binance said they were not fully substantiated.",
+    "Reg S made non-US buyers lawful and expected; wallet attribution is probabilistic.",
+    "Accountable.US's Lazarus link was rebutted as a joke-airdrop artifact."
+  ],
+  "sources": [
+    {
+      "title": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "World Liberty's $100M Aqua 1 buyer tied to active UK money laundering probe",
+      "publisher": "Unchained",
+      "url": "https://unchainedcrypto.com/world-libertys-100-million-aqua-1-buyer-tied-to-active-uk-money-laundering-probe/",
+      "date": "2026-08"
+    },
+    {
+      "title": "WLFI buyer linked to UK money laundering probe",
+      "publisher": "crypto.news",
+      "url": "https://crypto.news/world-libertys-100m-wlfi-buyer-linked-to-uk-money-laundering-probe/",
+      "date": "2026-08"
+    },
+    {
+      "title": "The Due-Diligence Gap",
+      "publisher": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/trump-crypto-venture-100m-investment-1813193",
+      "date": "2026-08"
+    },
+    {
+      "title": "UK court records, dissolved companies of $100M WLFI buyer",
+      "publisher": "Cryip",
+      "url": "https://cryip.co/uk-court-records-dissolved-companies-100m-wlfi-buyer/",
+      "date": "2026-08"
+    },
+    {
+      "title": "WLFI $100M Bobby Zhou",
+      "publisher": "Bitcoin.com News",
+      "url": "https://news.bitcoin.com/wlfi-100-million-bobby-zhou-money-laundering/",
+      "date": "2026-08"
+    },
+    {
+      "title": "Trump's $100 million crypto mystery man",
+      "publisher": "Reuters (via WHBL)",
+      "url": "https://whbl.com/2025/07/11/trumps-100-million-crypto-mystery-man/",
+      "date": "2025-07-11"
+    },
+    {
+      "title": "The mystery man who bought $100m of tokens",
+      "publisher": "DealStreetAsia",
+      "url": "https://media.dealstreetasia.com/stories/trump-crypto-mystery-man-449016",
+      "date": "2025-07"
+    },
+    {
+      "title": "Who is Trump's $100 million crypto mystery man",
+      "publisher": "Cryptopolitan",
+      "url": "https://www.cryptopolitan.com/who-is-trumps-100-million-crypto-mystery-man/",
+      "date": "2025-07"
+    },
+    {
+      "title": "Aqua 1 denies connection to Web3Port",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2025-07-15-aqua1-web3port-world-liberty-362612",
+      "date": "2025-07-15"
+    },
+    {
+      "title": "Aqua1, WLFI top investor, and banned market maker Web3Port",
+      "publisher": "CCN",
+      "url": "https://www.ccn.com/news/crypto/aqua1-trump-linked-wlfis-top-investor-banned-market-maker-web3port/",
+      "date": "2025-07"
+    },
+    {
+      "title": "Web3Port financials",
+      "publisher": "CB Insights",
+      "url": "https://www.cbinsights.com/company/web3port/financials",
+      "date": ""
+    },
+    {
+      "title": "Movement Labs scrutiny after Binance market maker investigation",
+      "publisher": "Blockworks",
+      "url": "https://blockworks.co/news/binance-movement-market-maker-investigation",
+      "date": "2025-03"
+    },
+    {
+      "title": "Binance MOVE market maker, $38M buyback",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/347931/binance-move-market-maker-movement-38-million-usdt-buyback-program",
+      "date": "2025-03"
+    },
+    {
+      "title": "Binance offboards market maker that made $38M on MOVE",
+      "publisher": "CoinDesk via Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/binance-offboards-market-maker-said-100720331.html",
+      "date": "2025-03"
+    },
+    {
+      "title": "Movement Labs suspends co-founder",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/317524/movement-labs-suspends-co-founder-amid-market-maker-controversy?amp=1",
+      "date": "2025-05"
+    },
+    {
+      "title": "All the Wrong Moves",
+      "publisher": "Rekt News",
+      "url": "https://rekt.news/all-the-wrong-moves",
+      "date": "2025"
+    },
+    {
+      "title": "WLFI-linked MOVE and Web3Port implicated in $38M dump",
+      "publisher": "crypto.news",
+      "url": "https://crypto.news/wlfi-linked-move-and-web3port-implicated-in-38m-token-dump-scandal/",
+      "date": "2025-04"
+    },
+    {
+      "title": "WLF purchases $2M MOVE",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/337497",
+      "date": "2025-01-28"
+    },
+    {
+      "title": "WLF purchases $1.85M MOVE",
+      "publisher": "Arkham Research",
+      "url": "https://info.arkm.com/research/wlf-purchases-1-85m-move",
+      "date": "2025-01-28"
+    },
+    {
+      "title": "WLF buys more WBTC, MOVE",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/340838/trump-backed-world-liberty-financial-buys-more-wbtc-move-tokens",
+      "date": "2025-02"
+    },
+    {
+      "title": "Manche refutes insider trading allegations",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/markets/2025-01-28-i-dont-think-anything-was-coordinated-movement-labs-rushi-manche-insider-trading-allegations-trump-world-liberty-337575",
+      "date": "2025-01-28"
+    },
+    {
+      "title": "Tron, Movement deny token swap deal for WLF inclusion",
+      "publisher": "CoinDesk",
+      "url": "https://dev.coindesk.com/markets/2025/02/04/tron-move-deny-token-swap-deal-for-world-liberty-fi-inclusion",
+      "date": "2025-02-04"
+    },
+    {
+      "title": "Inside the Trump family's global crypto cash machine",
+      "publisher": "Reuters (via Daily Maverick)",
+      "url": "https://www.dailymaverick.co.za/article/2025-10-28-special-report-inside-the-trump-familys-global-crypto-cash-machine/",
+      "date": "2025-10-28"
+    },
+    {
+      "title": "How the Trump family turned crypto into an $800M gold rush",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/how-the-trump-family-turned-crypto-into-an-800m-gold-rush",
+      "date": "2025-11"
+    },
+    {
+      "title": "Global wallets help build Trump family's $1B crypto cash stack",
+      "publisher": "Cryptopolitan",
+      "url": "https://www.cryptopolitan.com/global-wallets-help-build-trump-familys-1b/",
+      "date": "2025-10"
+    },
+    {
+      "title": "DWF Labs denies $300M wash trading report",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2024-05-09-dwf-labs-denies-report-that-it-did-300-million-of-wash-trading-on-binance-last-year-293429",
+      "date": "2024-05-09"
+    },
+    {
+      "title": "Binance fired investigator who uncovered DWF manipulation (WSJ)",
+      "publisher": "CoinDesk",
+      "url": "https://hotfix.coindesk.com/business/2024/05/09/binance-fired-investigator-who-uncovered-market-manipulation-at-client-dwf-labs-wsj",
+      "date": "2024-05-09"
+    },
+    {
+      "title": "WLF opens KYC verification",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/defi/2024-09-30-trump-backed-world-liberty-financial-opens-up-kyc-verification-on-website-318680",
+      "date": "2024-09-30"
+    },
+    {
+      "title": "WLF limits US token sales to $30M",
+      "publisher": "CryptoSlate",
+      "url": "https://cryptoslate.com/donald-trumps-world-liberty-will-limit-token-sales-in-the-us-to-30-million/",
+      "date": "2024-10"
+    },
+    {
+      "title": "WLF closes $550M across token sales",
+      "publisher": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20250317855322/en/Trump-Inspired-World-Liberty-Financial-Closes-$550-Million-Across-Token-Sales",
+      "date": "2025-03-17"
+    },
+    {
+      "title": "Warren and Reed press DOJ and Treasury on token sales to illicit actors",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/newsroom/minority/as-congress-considers-potential-market-structure-legislation-warren-and-reed-press-doj-and-treasury-on-national-security-risks-posed-by-trump-affiliated-crypto-ventures-sale-of-tokens-to-illicit-actors",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Warren, Kim demand CFIUS review of UAE stake",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/389958/sens-warren-kim-demand-cfius-review-of-uaes-reported-500-million-stake-in-world-liberty-financial-reuters",
+      "date": "2026-02"
+    },
+    {
+      "title": "Warren and Reed call for investigation into WLF ties to sanctioned criminals",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/newsroom/minority/ahead-of-committee-crypto-market-structure-markup-warren-and-reed-call-for-investigation-into-world-liberty-financials-latest-apparent-failure-to-detect-ties-to-sanctioned-criminals",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "WLF partner linked to sanctioned Cambodian scam company",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/363617/partner-trump-backed-world-liberty-sanctioned-cambodian-scam-company",
+      "date": "2026-05"
+    },
+    {
+      "title": "Letter to Bessent and Blanche on Aqua 1",
+      "publisher": "Senate Banking Committee",
+      "url": "https://www.banking.senate.gov/imo/media/doc/20260915lettertobessentandblancheonaqua1.pdf",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Senators call WLFI national security threat",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/senators-trump-linked-wlfi-national-security-threat",
+      "date": "2025-11"
+    },
+    {
+      "title": "Did Trump's token reach enemies",
+      "publisher": "Unhashed",
+      "url": "https://unhashed.beehiiv.com/p/did-trump-s-token-reach-enemies",
+      "date": "2025"
+    },
+    {
+      "title": "The blacklisted Chinese businessman behind a $100M Trump crypto bet",
+      "publisher": "Caixin Global",
+      "url": "https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html",
+      "date": "2026-08-26"
+    }
+  ],
+  "entities": [
+    {
+      "id": "guren-bobby-zhou",
+      "name": "Guren 'Bobby' Zhou",
+      "type": "person",
+      "description": "Chinese businessman; arrested in UK 2021 on suspicion of money laundering, uncharged; tied by NYT to Web3Port and Aqua 1"
+    },
+    {
+      "id": "web3port",
+      "name": "Web3Port",
+      "type": "company",
+      "description": "Crypto market maker/fund; $10M WLFI buyer; MOVE market maker offboarded by Binance"
+    },
+    {
+      "id": "aqua-1-foundation",
+      "name": "Aqua 1 Foundation",
+      "type": "fund",
+      "description": "Self-described UAE fund that bought $100M of WLFI (2025-06-26); not ADGM-registered"
+    },
+    {
+      "id": "aqua-1-gp-limited",
+      "name": "Aqua 1 GP Limited",
+      "type": "company",
+      "description": "BVI entity, formerly a Web3Port entity, renamed about two weeks before the Aqua 1 purchase (NYT)"
+    },
+    {
+      "id": "dave-lee",
+      "name": "Dave Lee",
+      "type": "person",
+      "description": "Named co-founder/CEO of Aqua 1 from April 2025; denied Web3Port link"
+    },
+    {
+      "id": "caduceus",
+      "name": "Caduceus",
+      "type": "company",
+      "description": "Zhou's earlier crypto project (~$7.6M raised); falsely claimed Bin Zayed Group backing"
+    },
+    {
+      "id": "rentech",
+      "name": "Rentech",
+      "type": "company",
+      "description": "Intermediary in the Movement/Web3Port market-making contract"
+    },
+    {
+      "id": "movement-labs",
+      "name": "Movement Labs / Movement Network Foundation",
+      "type": "company",
+      "description": "Issuer of the MOVE token"
+    },
+    {
+      "id": "move-token",
+      "name": "MOVE",
+      "type": "asset",
+      "description": "Movement Network token; dumped after listing; bought by WLF"
+    },
+    {
+      "id": "rushi-manche",
+      "name": "Rushi Manche",
+      "type": "person",
+      "description": "Movement Labs co-founder, suspended and ousted over the market-maker deal"
+    },
+    {
+      "id": "okx",
+      "name": "OKX",
+      "type": "company",
+      "description": "Crypto exchange; account sent about $90M to aqua1.eth; pleaded guilty to US AML violations"
+    },
+    {
+      "id": "dwf-labs",
+      "name": "DWF Labs",
+      "type": "company",
+      "description": "Dubai-based market maker; $25M WLFI buyer"
+    },
+    {
+      "id": "andrei-grachev",
+      "name": "Andrei Grachev",
+      "type": "person",
+      "description": "DWF Labs managing partner"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture"
+    },
+    {
+      "id": "wlfi-token",
+      "name": "WLFI",
+      "type": "asset",
+      "description": "World Liberty governance token"
+    },
+    {
+      "id": "dt-marks-defi-llc",
+      "name": "DT Marks DEFI LLC",
+      "type": "company",
+      "description": "Trump-family entity entitled to 75% of WLF net revenue"
+    },
+    {
+      "id": "wc-digital-fi",
+      "name": "WC Digital Fi LLC",
+      "type": "company",
+      "description": "Witkoff-family affiliate in WLF"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; owner in DT Marks DEFI"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "WLF co-founder"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "WLF co-founder"
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF co-founder"
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "Special envoy; family affiliate in WLF"
+    },
+    {
+      "id": "justin-sun",
+      "name": "Justin Sun",
+      "type": "person",
+      "description": "Largest early WLFI buyer"
+    },
+    {
+      "id": "alt5-sigma",
+      "name": "ALT5 Sigma",
+      "type": "company",
+      "description": "WLFI treasury company; holds about $781M wallet per Reuters"
+    },
+    {
+      "id": "aryam-investment-1",
+      "name": "Aryam Investment 1",
+      "type": "fund",
+      "description": "Tahnoon-linked buyer of 49% of WLF"
+    },
+    {
+      "id": "binance",
+      "name": "Binance",
+      "type": "company",
+      "description": "Exchange that offboarded the MOVE market maker"
+    },
+    {
+      "id": "tron",
+      "name": "Tron",
+      "type": "company",
+      "description": "Justin Sun's blockchain; denied a WLF token swap"
+    },
+    {
+      "id": "accountable-us",
+      "name": "Accountable.US",
+      "type": "media",
+      "description": "Watchdog that reported WLFI sales to illicit-linked wallets"
+    },
+    {
+      "id": "nick-bax",
+      "name": "Nick Bax",
+      "type": "person",
+      "description": "On-chain researcher who rebutted the Lazarus link"
+    },
+    {
+      "id": "ab-network",
+      "name": "AB (AB DAO)",
+      "type": "company",
+      "description": "WLF partner whose Timor-Leste project involved Prince Group-sanctioned people (OCCRP/Guardian)"
+    },
+    {
+      "id": "prince-group",
+      "name": "Prince Holding Group",
+      "type": "company",
+      "description": "Cambodian conglomerate sanctioned by OFAC in Oct 2025"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senate Banking ranking member; wrote letters on WLF buyers"
+    },
+    {
+      "id": "jack-reed",
+      "name": "Jack Reed",
+      "type": "person",
+      "description": "Senator; co-signed WLF letters"
+    },
+    {
+      "id": "andy-kim",
+      "name": "Andy Kim",
+      "type": "person",
+      "description": "Senator; co-signed CFIUS letter"
+    },
+    {
+      "id": "scott-bessent",
+      "name": "Scott Bessent",
+      "type": "person",
+      "description": "Treasury Secretary and CFIUS chair"
+    },
+    {
+      "id": "todd-blanche",
+      "name": "Todd Blanche",
+      "type": "person",
+      "description": "Acting Attorney General, addressee of 2026 letters"
+    },
+    {
+      "id": "cfius",
+      "name": "CFIUS",
+      "type": "government",
+      "description": "Committee on Foreign Investment in the United States"
+    },
+    {
+      "id": "us-treasury",
+      "name": "US Treasury",
+      "type": "government",
+      "description": "Department of the Treasury"
+    },
+    {
+      "id": "doj",
+      "name": "US Department of Justice",
+      "type": "government",
+      "description": "Justice Department"
+    },
+    {
+      "id": "adgm",
+      "name": "Abu Dhabi Global Market",
+      "type": "government",
+      "description": "Abu Dhabi financial centre; said Aqua 1 is not registered"
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Legislature"
+    },
+    {
+      "id": "sec",
+      "name": "SEC",
+      "type": "government",
+      "description": "Securities and Exchange Commission"
+    },
+    {
+      "id": "uae",
+      "name": "UAE",
+      "type": "country",
+      "description": "United Arab Emirates"
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "type": "country",
+      "description": "People's Republic of China"
+    },
+    {
+      "id": "united-kingdom",
+      "name": "United Kingdom",
+      "type": "country",
+      "description": "UK; site of Zhou investigation"
+    },
+    {
+      "id": "new-york-times",
+      "name": "New York Times",
+      "type": "media",
+      "description": "Identified Zhou behind Aqua 1 (2026-08-09)"
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "type": "media",
+      "description": "Aqua 1 mystery-man report; 36/50 foreign-wallet analysis"
+    },
+    {
+      "id": "caixin",
+      "name": "Caixin",
+      "type": "media",
+      "description": "Called Zhou 'blacklisted'"
+    },
+    {
+      "id": "arkham-intelligence",
+      "name": "Arkham Intelligence",
+      "type": "company",
+      "description": "On-chain analytics firm"
+    },
+    {
+      "id": "coindesk",
+      "name": "CoinDesk",
+      "type": "media",
+      "description": "Investigated the MOVE/Rentech/Web3Port deal"
+    },
+    {
+      "id": "blockworks",
+      "name": "Blockworks",
+      "type": "media",
+      "description": "Reported the WLF token-swap pitch"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "web3port",
+      "target": "wlfi-token",
+      "label": "announced purchase of 200M WLFI",
+      "type": "money",
+      "date": "2025-01-27",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "web3port",
+      "target": "world-liberty-financial",
+      "label": "announced 'long-term partnership' with",
+      "type": "commercial",
+      "date": "2025-01-27"
+    },
+    {
+      "source": "web3port",
+      "target": "move-token",
+      "label": "market maker that sold ~$38M after listing (Binance offboarded 2025-03-18)",
+      "type": "commercial",
+      "date": "2024-12",
+      "amount_usd": 38000000
+    },
+    {
+      "source": "rentech",
+      "target": "web3port",
+      "label": "intermediary in market-making contract, claimed to be its subsidiary",
+      "type": "commercial",
+      "date": "2024"
+    },
+    {
+      "source": "rentech",
+      "target": "movement-labs",
+      "label": "agent in market-making contract",
+      "type": "commercial",
+      "date": "2024"
+    },
+    {
+      "source": "binance",
+      "target": "web3port",
+      "label": "offboarded as MOVE market maker, froze proceeds",
+      "type": "regulatory",
+      "date": "2025-03-18"
+    },
+    {
+      "source": "rushi-manche",
+      "target": "movement-labs",
+      "label": "co-founder, ousted",
+      "type": "advisory",
+      "date": "2025-05"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "move-token",
+      "label": "bought ~$1.85-2M MOVE hours before mainnet news",
+      "type": "money",
+      "date": "2025-01-28",
+      "amount_usd": 2000000
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "movement-labs",
+      "label": "reported token-swap pitch (denied by Movement)",
+      "type": "commercial",
+      "date": "2025-02"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "tron",
+      "label": "reported token-swap pitch (denied by Tron)",
+      "type": "commercial",
+      "date": "2025-02"
+    },
+    {
+      "source": "guren-bobby-zhou",
+      "target": "web3port",
+      "label": "led (NYT)",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "guren-bobby-zhou",
+      "target": "aqua-1-foundation",
+      "label": "figure behind $100M purchase (NYT)",
+      "type": "ownership",
+      "date": "2025-06"
+    },
+    {
+      "source": "guren-bobby-zhou",
+      "target": "caduceus",
+      "label": "ran earlier crypto project",
+      "type": "ownership",
+      "date": "2023"
+    },
+    {
+      "source": "web3port",
+      "target": "aqua-1-gp-limited",
+      "label": "BVI entity renamed to",
+      "type": "ownership",
+      "date": "2025-06"
+    },
+    {
+      "source": "aqua-1-gp-limited",
+      "target": "aqua-1-foundation",
+      "label": "general-partner vehicle of",
+      "type": "ownership",
+      "date": "2025-06"
+    },
+    {
+      "source": "dave-lee",
+      "target": "aqua-1-foundation",
+      "label": "co-founder and CEO",
+      "type": "advisory",
+      "date": "2025-04"
+    },
+    {
+      "source": "okx",
+      "target": "aqua-1-foundation",
+      "label": "account sent ~$90M to aqua1.eth",
+      "type": "money",
+      "date": "2025-03/2025-06",
+      "amount_usd": 90000000
+    },
+    {
+      "source": "aqua-1-foundation",
+      "target": "world-liberty-financial",
+      "label": "bought $100M WLFI (~$80M seen on-chain)",
+      "type": "money",
+      "date": "2025-06-26",
+      "amount_usd": 100000000
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "dt-marks-defi-llc",
+      "label": "passed up to $75M of Aqua 1 proceeds (NYT)",
+      "type": "money",
+      "date": "2025-06",
+      "amount_usd": 75000000
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "wc-digital-fi",
+      "label": "Witkoff family also benefited from Aqua 1 sale (NYT)",
+      "type": "money",
+      "date": "2025-06"
+    },
+    {
+      "source": "donald-trump",
+      "target": "dt-marks-defi-llc",
+      "label": "controls with sons",
+      "type": "ownership",
+      "date": "2024-10"
+    },
+    {
+      "source": "eric-trump",
+      "target": "dt-marks-defi-llc",
+      "label": "owner",
+      "type": "family",
+      "date": "2024-10"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "dt-marks-defi-llc",
+      "label": "owner",
+      "type": "family",
+      "date": "2024-10"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "wc-digital-fi",
+      "label": "family affiliate",
+      "type": "family",
+      "date": "2025"
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "wc-digital-fi",
+      "label": "family affiliate",
+      "type": "family",
+      "date": "2025"
+    },
+    {
+      "source": "united-kingdom",
+      "target": "guren-bobby-zhou",
+      "label": "arrested 2021 on suspicion of money laundering; uncharged, probe open",
+      "type": "legal",
+      "date": "2021"
+    },
+    {
+      "source": "adgm",
+      "target": "aqua-1-foundation",
+      "label": "states Aqua 1 is not registered or licensed",
+      "type": "regulatory",
+      "date": "2025-07"
+    },
+    {
+      "source": "caduceus",
+      "target": "uae",
+      "label": "falsely claimed Bin Zayed Group backing (denied)",
+      "type": "commercial",
+      "date": "2023"
+    },
+    {
+      "source": "dwf-labs",
+      "target": "wlfi-token",
+      "label": "bought $25M WLFI",
+      "type": "money",
+      "date": "2025-04-16",
+      "amount_usd": 25000000
+    },
+    {
+      "source": "andrei-grachev",
+      "target": "dwf-labs",
+      "label": "managing partner",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "binance",
+      "target": "dwf-labs",
+      "label": "staff found ~$300M wash trading; Binance deemed evidence insufficient (WSJ)",
+      "type": "regulatory",
+      "date": "2024-05"
+    },
+    {
+      "source": "justin-sun",
+      "target": "wlfi-token",
+      "label": "bought $45M tranche (up to ~$33.75M to DT Marks, inferred)",
+      "type": "money",
+      "date": "2025-01-20",
+      "amount_usd": 45000000
+    },
+    {
+      "source": "alt5-sigma",
+      "target": "wlfi-token",
+      "label": "holds ~$781M WLFI wallet (Reuters)",
+      "type": "ownership",
+      "date": "2025-10"
+    },
+    {
+      "source": "reuters",
+      "target": "wlfi-token",
+      "label": "found 36 of top 50 wallets likely foreign (~$804M)",
+      "type": "media",
+      "date": "2025-10-28"
+    },
+    {
+      "source": "new-york-times",
+      "target": "guren-bobby-zhou",
+      "label": "identified as buyer behind Aqua 1",
+      "type": "media",
+      "date": "2026-08-09"
+    },
+    {
+      "source": "caixin",
+      "target": "guren-bobby-zhou",
+      "label": "called 'blacklisted'",
+      "type": "media",
+      "date": "2026-08-26"
+    },
+    {
+      "source": "accountable-us",
+      "target": "world-liberty-financial",
+      "label": "reported WLFI sales to illicit-linked wallets",
+      "type": "media",
+      "date": "2025-09"
+    },
+    {
+      "source": "nick-bax",
+      "target": "accountable-us",
+      "label": "rebutted Lazarus link as joke airdrop",
+      "type": "media",
+      "date": "2025"
+    },
+    {
+      "source": "ab-network",
+      "target": "world-liberty-financial",
+      "label": "WLF partner",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "prince-group",
+      "target": "ab-network",
+      "label": "sanctioned individuals involved in AB Timor-Leste project (OCCRP/Guardian)",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "us-treasury",
+      "label": "letters on WLF illicit wallets, Aryam, AB, Aqua 1",
+      "type": "political",
+      "date": "2025-11-18/2026-09-15"
+    },
+    {
+      "source": "jack-reed",
+      "target": "doj",
+      "label": "co-signed letters asking for WLF probe",
+      "type": "political",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "andy-kim",
+      "target": "cfius",
+      "label": "asked for review of Aryam 49% stake",
+      "type": "political",
+      "date": "2026-02-13"
+    },
+    {
+      "source": "scott-bessent",
+      "target": "cfius",
+      "label": "chairs; no public answer on WLF reviews",
+      "type": "regulatory",
+      "date": "2026"
+    },
+    {
+      "source": "todd-blanche",
+      "target": "doj",
+      "label": "addressee of May and Sept 2026 WLF letters; no public answer",
+      "type": "regulatory",
+      "date": "2026"
+    },
+    {
+      "source": "aryam-investment-1",
+      "target": "world-liberty-financial",
+      "label": "bought 49% (CFIUS review requested)",
+      "type": "ownership",
+      "date": "2025-01",
+      "amount_usd": 500000000
+    },
+    {
+      "source": "us-congress",
+      "target": "aqua-1-foundation",
+      "label": "Senate Banking Democrats asked Treasury/DOJ to investigate",
+      "type": "political",
+      "date": "2026-09-15"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Web3Port's other market-making clients (KAITO, GoPlus, MyShell) and exchange bans",
+      "why_connected": "The same market maker that bought WLFI and became Aqua 1 also took a KAITO loan and was tied to GoPlus/MyShell offboardings; this could show a pattern relevant to the source of Aqua 1's funds.",
+      "entities": [
+        "web3port",
+        "binance",
+        "guren-bobby-zhou"
+      ],
+      "source_url": "https://blockworks.co/news/binance-movement-market-maker-investigation"
+    },
+    {
+      "title": "WLF's AB partner and Prince Group-sanctioned individuals",
+      "why_connected": "A second foreign counterparty with sanctioned links, the subject of the May 2026 Warren/Reed letter; not covered in C42/C67.",
+      "entities": [
+        "ab-network",
+        "prince-group",
+        "world-liberty-financial"
+      ],
+      "source_url": "https://decrypt.co/363617/partner-trump-backed-world-liberty-sanctioned-cambodian-scam-company"
+    },
+    {
+      "title": "WLF token-swap pitch to protocols (Blockworks, Feb 2025)",
+      "why_connected": "WLF reportedly offered to buy protocols' tokens in exchange for $10M WLFI purchases plus fees; Tron and Movement denied it. This needs its own check against WLF's treasury buys.",
+      "entities": [
+        "world-liberty-financial",
+        "tron",
+        "movement-labs"
+      ],
+      "source_url": "https://dev.coindesk.com/markets/2025/02/04/tron-move-deny-token-swap-deal-for-world-liberty-fi-inclusion"
+    },
+    {
+      "title": "OKX account that funded Aqua 1",
+      "why_connected": "About $90M reached aqua1.eth from an OKX account; OKX pleaded guilty to US AML violations. Whose account it was is unknown.",
+      "entities": [
+        "okx",
+        "aqua-1-foundation"
+      ],
+      "source_url": "https://whbl.com/2025/07/11/trumps-100-million-crypto-mystery-man/"
+    }
+  ]
+}

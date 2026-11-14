@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Sun"
-connections: 28
-claims: 12
+connections: 29
+claims: 13
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 12 claims |
-| Connections | 28 |
+| Appears in | 13 claims |
+| Connections | 29 |
 | Also known as | Sun |
 
 ## How other claims describe it
@@ -43,10 +43,11 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Relationships
 
-### Money (9)
+### Money (10)
 
 - [[Justin Sun]] *bought $75M of WLFI tokens from* [[World Liberty Financial]] · 2024-11 · $75M · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Justin Sun]] *investor in* [[World Liberty Financial]] · 2024-11 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
@@ -54,6 +55,7 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[Justin Sun]] *bought $30M of WLFI tokens (via HTX)* [[World Liberty Financial]] · 2024-11-25 · $30M · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *bought WLFI tokens ($30M + $45M)* [[World Liberty Financial]] · 2024-11/2025-01 · $75M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Justin Sun]] *invested $75M in* [[World Liberty Financial]] · 2025-01 · $75M · [[C05 Justin Sun, WLF and the SEC|C05]] [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Justin Sun]] *bought $45M tranche (up to ~$33.75M to DT Marks, inferred)* [[WLFI token]] · 2025-01-20 · $45M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Justin Sun]] *top holder of* [[$TRUMP meme coin]] · 2025-05 · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Justin Sun]] *top holder; pledged $100M buy* [[$TRUMP meme coin]] · 2025-07-09 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Justin Sun]] *pledged $10M share purchase (completion unverified)* [[ALT5 Sigma]] · 2025-09-05 · $10M · [[C67 Investors who show up in several Trump-family vehicles|C67]]

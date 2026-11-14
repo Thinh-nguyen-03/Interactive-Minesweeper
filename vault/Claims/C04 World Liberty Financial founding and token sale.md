@@ -54,7 +54,7 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
 ## Follow-up checks
 
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Pending
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Sub-claims
 

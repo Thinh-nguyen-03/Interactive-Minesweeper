@@ -4,8 +4,8 @@ kind: "entity"
 type: "fund"
 aliases:
   - "American Ventures (Management LLC and SPVs)"
-connections: 11
-claims: 5
+connections: 12
+claims: 6
 tags:
   - "entity"
   - "type/fund"
@@ -17,8 +17,8 @@ $1B Dominari-created microcap investment vehicle (about 90% Dominari-owned) with
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 5 claims |
-| Connections | 11 |
+| Appears in | 6 claims |
+| Connections | 12 |
 | Also known as | American Ventures (Management LLC and SPVs) |
 
 ## How other claims describe it
@@ -27,6 +27,7 @@ $1B Dominari-created microcap investment vehicle (about 90% Dominari-owned) with
 - Fund through which the Trump brothers hold their Aureus/Powerus stake
 - Dominari-controlled vehicles holding Trump sons' microcap stakes
 - Dominari-controlled fund with Trump-son investors
+- Dominari-controlled SPV family
 
 ## Appears in claims
 
@@ -35,6 +36,7 @@ $1B Dominari-created microcap investment vehicle (about 90% Dominari-owned) with
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 

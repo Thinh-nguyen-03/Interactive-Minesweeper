@@ -168,7 +168,7 @@ Documented: the first Trump Presidential Library Fund (incorporated Dec 2024) wa
 - [[Marvin Dunn]] · Person
 - [[Mavel Ruiz]] · Person
 - [[Melanie Stansbury]] · Person
-- [[Meta Platforms]] · Company
+- [[Meta]] · Company
 - [[Miami Dade College]] · Government body
 - [[Miami Dade College downtown parcel]] · Asset
 - [[Michael Boulos]] · Person
@@ -191,7 +191,7 @@ Documented: the first Trump Presidential Library Fund (incorporated Dec 2024) wa
 ### Money (6)
 
 - [[ABC News]] *settlement paid to (per 2025 disclosure)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2024-12 · $15M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Meta Platforms]] *settlement paid to (part of $56.5M with ABC, Paramount)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Meta]] *settlement paid to (part of $56.5M with ABC, Paramount)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[X Corp]] *settlement paid personally (per 2025 OGE disclosure)* [[Donald Trump]] · 2025 · $8M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Qatar]] *gifted* [[Qatar Boeing 747 gift]] · 2025-05 · $400M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Paramount]] *settlement paid to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-07 · $16M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
@@ -221,7 +221,7 @@ Documented: the first Trump Presidential Library Fund (incorporated Dec 2024) wa
 ### Political (8)
 
 - [[Elizabeth Warren]] *questioned on library settlement* [[ABC News]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Elizabeth Warren]] *questioned on library settlement* [[Meta Platforms]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Elizabeth Warren]] *questioned on library settlement* [[Meta]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Elizabeth Warren]] *questioned on library settlement* [[Paramount]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Elizabeth Warren]] *questioned on library settlement* [[X Corp]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Elizabeth Warren]] *pressed on $6.5M-$14.5M missing and $7M unexplained spending* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-07-16 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]

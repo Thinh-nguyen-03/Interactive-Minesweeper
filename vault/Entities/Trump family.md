@@ -2,8 +2,8 @@
 id: "trump-family"
 kind: "entity"
 type: "person"
-connections: 7
-claims: 5
+connections: 5
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -15,14 +15,12 @@ Donald Trump and sons; Bloomberg credits the family with ~$630M stake in WLF's s
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 5 claims |
-| Connections | 7 |
+| Appears in | 3 claims |
+| Connections | 5 |
 
 ## Appears in claims
 
 - [[C10 Binance driving USD1 adoption]] · Mostly accurate
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
 

@@ -304,6 +304,7 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
    - He coordinated the White House position on the bill and promoted it publicly, saying it could create "trillions" in demand for US Treasurys (The Block, CNBC via NBC DFW).
    - He spoke at the July 18, 2025 signing. Trump signed the bill.
    - The NYT cited Craft's 7.8% stake in BitGo, a crypto infrastructure firm, as of BitGo's IPO filing.
+   - *Audit:* BitGo priced its NYSE IPO (BTGO) on January 21, 2026 at $18, above its $15-17 range. It sold about 11.8M shares for about $212.8M gross, and trading began January 22 [A1][A2]. Craft and Sacks personally invested in BitGo's 2017 Series B. I could not check the 7.8% figure against the prospectus because sec.gov is unreachable here, so it remains the NYT's figure.
    - Separately, C11 records that BitGo custodies the reserves of World Liberty Financial's USD1 stablecoin. That overlap is documented, but no source shows Sacks acted on it.
 
 6. **Sacks and the White House deny any conflict. Confirmed.**
@@ -313,7 +314,7 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
      - The letter disputed the story's claims about the All-In podcast's role in a White House AI event.
      - It also said the Times dropped a reference to a dinner with Nvidia CEO Jensen Huang that, it said, never happened.
    - The NYT stood by its story.
-   - Some outlets said he sued the paper. No filed lawsuit could be confirmed, so that claim is unverified.
+   - Some outlets said he sued the paper. *Audit:* no filed lawsuit was found as of November 2026. The documented step is the Clare Locke letter of November 24, 2025 to NYT deputy general counsel David McCraw [A3][A4]. AMBCrypto's report of a suit cites no filing. Treat "Sacks sued the NYT" as incorrect.
 
 ### Other side and context
 
@@ -353,3 +354,17 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
 19. DL News, "President Trump's crypto czar is stepping down — and into this new role", 2026-03. https://dlnews.com/articles/regulation/president-trump-crypto-czar-stepping-down-and-into-new-role
 20. SFist, "Trump's SF AI and crypto czar David Sacks apparently enriching himself and his friends", 2025-12-01. https://sfist.com/2025/12/01/trumps-sf-ai-and-crypto-czar-david-sacks-apparently-enriching-himself-and-his-friends-in-white-house-role
 21. Nonzero, "The David Sacks Problem(s)", 2025-12. https://www.nonzero.org/p/the-david-sacks-problems
+
+### Audit (second review, Nov 2026)
+Result: **upheld**.
+- **Lawsuit.** No suit against the NYT was found; only the demand letter is documented. A correction was added.
+- **BitGo.** The IPO details were added. The 7.8% stake is still attributed to the NYT.
+- **After March 2026.** Sacks left the czar post on March 26, 2026 at the 130-day limit and co-chairs PCAST [A6]. Craft filed a Form D for Craft Ventures V on August 7, 2026, reportedly targeting about $1B [A5]. The overlap between his advisory role and Craft's portfolio continues.
+- The verdict is unchanged.
+
+A1. Business Wire, "BitGo Holdings Announces Pricing of Initial Public Offering", 2026-01-21. https://www.businesswire.com/news/home/20260121850585/en/BitGo-Holdings-Announces-Pricing-of-Initial-Public-Offering
+A2. The Block, "BitGo prices US IPO above marketed range", 2026-01-21. https://www.theblock.co/news/business/2026-01-21-bitgo-prices-us-ipo-386629
+A3. Protos, "David Sacks sends silly legal threat to the New York Times", 2025-11. https://protos.com/david-sacks-sends-silly-legal-threat-to-the-new-york-times
+A4. Law360, "White House Crypto Czar Hired Clare Locke Amid NYT Probe", 2025-11. https://www.law360.com/articles/2416588
+A5. Tech Startups, "David Sacks' Craft Ventures targets $1 billion for first new fund since leaving White House", 2026-08-11. https://techstartups.com/2026/08/11/david-sacks-craft-ventures-targets-1-billion-for-first-new-fund-since-leaving-white-house/
+A6. TechCrunch, "David Sacks is done as AI czar", 2026-03-26. https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/

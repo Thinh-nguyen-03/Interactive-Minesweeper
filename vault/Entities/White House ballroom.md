@@ -5,8 +5,8 @@ type: "asset"
 aliases:
   - "White House East Wing ballroom"
   - "ballroom"
-connections: 20
-claims: 4
+connections: 26
+claims: 5
 tags:
   - "entity"
   - "type/asset"
@@ -18,8 +18,8 @@ Ballroom Trump wants to build, sponsored by crypto firms.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 4 claims |
-| Connections | 20 |
+| Appears in | 5 claims |
+| Connections | 26 |
 | Also known as | White House East Wing ballroom; ballroom |
 
 ## How other claims describe it
@@ -27,17 +27,20 @@ Ballroom Trump wants to build, sponsored by crypto firms.
 - ~$300M East Wing ballroom funded by private donors
 - Privately funded ballroom project; cost estimate $200M rising to $400M
 - Privately funded East Wing ballroom project
+- Privately funded East Wing ballroom
+- Donor-funded ballroom
 
 ## Appears in claims
 
 - [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 
-### Money (15)
+### Money (21)
 
 - [[Cameron Winklevoss]] *donor to* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Coinbase]] *donor to* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
@@ -50,10 +53,16 @@ Ballroom Trump wants to build, sponsored by crypto firms.
 - [[Alphabet (Google)]] *Google listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Cameron Winklevoss]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Coinbase]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Meta Platforms]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Meta]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Ripple]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Tether]] *Tether America listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Tyler Winklevoss]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Konstantin Sokolov]] *donated to* [[White House ballroom]] · 2025/2026 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Amazon]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Meta]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Microsoft]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Nvidia]] *committed, anonymously (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $25M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Palantir Technologies (PLTR)]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 
 ### Political (6)
 

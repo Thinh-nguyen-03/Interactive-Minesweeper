@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "Alania Trump"
   - "Melania"
-connections: 16
-claims: 6
+connections: 17
+claims: 7
 tags:
   - "entity"
   - "type/person"
@@ -18,8 +18,8 @@ First lady; launched the $MELANIA meme coin and NFTs; did not reply to request f
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 6 claims |
-| Connections | 16 |
+| Appears in | 7 claims |
+| Connections | 17 |
 | Also known as | Alania Trump; Melania |
 
 ## How other claims describe it
@@ -38,11 +38,13 @@ First lady; launched the $MELANIA meme coin and NFTs; did not reply to request f
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 
 ## Relationships
 
-### Money (5)
+### Money (6)
 
+- [[Amazon]] *documentary licence fee to Melania (OGE)* [[Melania Trump]] · 2025 · $10.71M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Amazon]] *film licensing fee ($10.71M on 2025 OGE report)* [[Melania Trump]] · 2025 · $10.71M · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Designers Manager]] *paid >$6M for NFTs/collectibles license in 2025* [[Melania Trump]] · 2025 · $6M · [[C01 $TRUMP meme coin|C01]]
 - [[Designers Manager]] *paid NFT/collectibles licence income* [[Melania Trump]] · 2025 · $6.01M · [[C63 Shell entities and ownership chains|C63]]

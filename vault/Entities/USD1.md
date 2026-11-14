@@ -5,8 +5,8 @@ type: "asset"
 aliases:
   - "U.S. D1"
   - "USD1 stablecoin"
-connections: 32
-claims: 16
+connections: 33
+claims: 17
 tags:
   - "entity"
   - "type/asset"
@@ -18,8 +18,8 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 16 claims |
-| Connections | 32 |
+| Appears in | 17 claims |
+| Connections | 33 |
 | Also known as | U.S. D1; USD1 stablecoin |
 
 ## How other claims describe it
@@ -47,6 +47,7 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Pending
 
 ## Relationships

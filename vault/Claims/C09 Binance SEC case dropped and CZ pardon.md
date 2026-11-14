@@ -174,7 +174,7 @@ The SEC dismissed its case against Binance and Zhao with prejudice on May 29, 20
 
 ### Ownership (8)
 
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Changpeng Zhao]] *founded, beneficial owner of* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Changpeng Zhao]] *founder and major owner of* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Donald Trump]] *family-linked venture of* [[World Liberty Financial]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
@@ -207,7 +207,7 @@ The SEC dismissed its case against Binance and Zhao with prejudice on May 29, 20
 ### Legal (6)
 
 - [[US Department of Justice (us-doj)]] *secured guilty plea (BSA/AML) from* [[Changpeng Zhao]] · 2023-11 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Donald Trump]] *signed* [[Pardon of Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Pardon of Changpeng Zhao]] *pardoned* [[Changpeng Zhao]] · 2025-10-23 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Donald Trump]] *granted* [[Pardon of Changpeng Zhao]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]

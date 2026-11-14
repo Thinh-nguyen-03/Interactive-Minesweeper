@@ -2,8 +2,8 @@
 id: "us-vietnam-trade-framework-2025"
 kind: "entity"
 type: "event"
-connections: 3
-claims: 1
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/event"
@@ -15,12 +15,17 @@ tags:
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
-| Connections | 3 |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
+
+- 2025 tariff framework
 
 ## Appears in claims
 
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 

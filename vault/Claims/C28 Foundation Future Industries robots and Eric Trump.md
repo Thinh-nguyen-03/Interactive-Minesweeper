@@ -287,3 +287,15 @@ I could not fetch any primary page directly. Fox Business, WIRED, The Next Web, 
 12. Sen. Warren press release on Hegseth and Trump-family Pentagon contracts, 2026-05-06. https://www.warren.senate.gov/newsroom/press-releases/following-armed-services-committee-hearing-warren-questions-hegseth-on-trump-family-pentagon-contracts/
 13. Sen. Warren letter to DoD IG, 2026-08-04. https://www.warren.senate.gov/wp-content/uploads/2026/08/2026.08.04-Letter-to-DoD-IG-re-Corruption-in-Pentagon-Awards-Process.pdf
 14. GV Wire (Reuters), Foundation partners with AMD, 2026-07-23. https://gvwire.com/2026/07/23/eric-trump-backed-foundation-partners-with-amd-to-develop-humanoid-robots/
+
+### Audit (second review, Nov 2026)
+Result: **upheld**.
+- **Re-confirmed.** The "fuzzy" $24M (two awards inherited from Boardwalk and three routed through IHMC, per secondary summaries of WIRED), Eric Trump's appointment around March 2026, and the Fox Business segment on April 23, 2026 were all re-confirmed through Democracy Now and Mediaite.
+- **Award values.** A critical blog, a single source, lists database awards of about $1.88M from the USAF, about $1.3M from the Army and $156k from NASA. That is consistent with the WIRED characterization, but I did not verify it.
+- **Marine Corps.** The Marine Corps detail still rests on company and Fox framing.
+- **Later development.** Foundation announced a partnership with AMD in July 2026.
+
+A1. Democracy Now!, 2026-04-24. https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company
+A2. Mediaite, 2026-04-23. https://www.mediaite.com/media/tv/greatest-economy-in-the-world-eric-trump-hits-fox-to-take-a-victory-lap-for-one-of-his-companies-scoring-a-24m-pentagon-contract/
+A3. Mike Kalil (blog), 2026. https://mikekalil.com/blog/foundation-military-claims/
+A4. GV Wire (Reuters), 2026-07-23. https://gvwire.com/2026/07/23/eric-trump-backed-foundation-partners-with-amd-to-develop-humanoid-robots/

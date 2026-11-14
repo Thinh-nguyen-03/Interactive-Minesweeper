@@ -9,8 +9,8 @@ aliases:
   - "Qatari 747 for Air Force One"
   - "Qatari Boeing 747-8"
   - "Qatari Boeing 747-8 (Air Force One)"
-connections: 19
-claims: 8
+connections: 20
+claims: 9
 tags:
   - "entity"
   - "type/asset"
@@ -22,8 +22,8 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 8 claims |
-| Connections | 19 |
+| Appears in | 9 claims |
+| Connections | 20 |
 | Also known as | Air Force One gift; Qatar plane; Qatari 747; Qatari 747 for Air Force One; Qatari Boeing 747-8; Qatari Boeing 747-8 (Air Force One) |
 
 ## How other claims describe it
@@ -44,6 +44,7 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 
@@ -67,11 +68,12 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 - [[Pam Bondi]] *signed OLC memo calling acceptance legally permissible* [[Qatar Boeing 747 gift]] · 2025-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Pete Hegseth]] *formally accepted* [[Qatar Boeing 747 gift]] · 2025-05-21 · [[C16 Qatar jet, arms sales and golf deal|C16]]
 
-### Political (3)
+### Political (4)
 
 - [[Qatar]] *provided 747-8 (see C16)* [[Qatar Boeing 747 gift]] · 2025-05 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Karoline Leavitt]] *defended legality of accepting* [[Qatar Boeing 747 gift]] · 2025-05-12 · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar]] *gifted 747-8 to US* [[Qatar Boeing 747 gift]] · 2025-05-21 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Qatar]] *gifted to US government* [[Qatar Boeing 747 gift]] · 2025-05-21 · $400M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 
 ### Legal (1)
 

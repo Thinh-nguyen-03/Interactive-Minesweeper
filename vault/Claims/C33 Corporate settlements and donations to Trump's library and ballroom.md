@@ -192,7 +192,7 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 - [[Elon Musk]] · Person
 - [[Federal Communications Commission]] · Government body
 - [[Gemini]] · Company
-- [[Meta Platforms]] · Company
+- [[Meta]] · Company
 - [[Miami Dade College downtown parcel]] · Asset
 - [[National Trust for Historic Preservation]] · Company
 - [[Paramount]] · Company
@@ -218,14 +218,14 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 
 - [[ABC News]] *paid $1M legal fees; $15M escrowed with his firm* [[Alejandro Brito]] · 2024-12 · $1M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[ABC News]] *agreed to pay $15M (held in escrow) to settle defamation suit* [[Trump Presidential Library Fund, Inc]] · 2024-12-14 · $15M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Meta Platforms]] *settled suspension suit for $25M (~$22M to library)* [[Trump Presidential Library Fund, Inc]] · 2025-01-29 · $22M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Meta]] *settled suspension suit for $25M (~$22M to library)* [[Trump Presidential Library Fund, Inc]] · 2025-01-29 · $22M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Paramount]] *settled '60 Minutes' suit for $16M incl. fees, remainder to library* [[Trump Presidential Library Fund, Inc]] · 2025-07-02 · $16M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Alphabet (Google)]] *paid $22M of $24.5M YouTube settlement for ballroom* [[Trust for the National Mall]] · 2025-09-29 · $22M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Trust for the National Mall]] *receives and administers donations for* [[White House ballroom]] · 2025-10 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Alphabet (Google)]] *Google listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Cameron Winklevoss]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Coinbase]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Meta Platforms]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Meta]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Ripple]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Tether]] *Tether America listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Tyler Winklevoss]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
@@ -271,7 +271,7 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 
 - **Missing library settlement money and the dissolved first library fund**
   - Up to $63M from ABC, Meta, X and Paramount went to a fund later dissolved; lawmakers say companies cannot account for it and opened a Jul 2026 probe of the Foundation.
-  - [[Trump Presidential Library Fund, Inc]] [[Donald J. Trump Presidential Library Foundation, Inc]] [[Elizabeth Warren]] [[ABC News]] [[Meta Platforms]] [[X Corp]] [[Paramount]] · [Source](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/)
+  - [[Trump Presidential Library Fund, Inc]] [[Donald J. Trump Presidential Library Foundation, Inc]] [[Elizabeth Warren]] [[ABC News]] [[Meta]] [[X Corp]] [[Paramount]] · [Source](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/)
 - **Miami Dade College land transfer to the Trump library foundation**
   - Public land worth more than $67M was deeded for $10 to the Trump-controlled foundation; it is subject to Sunshine-law and constitutional lawsuits.
   - [[Miami Dade College downtown parcel]] [[Donald J. Trump Presidential Library Foundation, Inc]] [[Donald Trump]] · [Source](https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami)
@@ -378,6 +378,10 @@ This is a follow-up lead, not a claim made in the video. The video touches it on
    - Ripple: the SEC and Ripple dropped their cross-appeals on 7 Aug 2025. The judgment against Ripple, a $125M penalty plus an injunction, still stands, because Judge Torres refused to cut it. That is a partial benefit only.
    - Gemini: the SEC closed its investigation in 2025. See C23.
    - Tether: I did not verify any specific regulatory benefit in this run. Its link to the GENIUS Act is covered in C11.
+   - *Audit, Meta, Google and Disney:* the record shows continued or adverse federal action, not favors.
+     - **Meta.** Trump's FTC took its Instagram/WhatsApp case to trial. Judge Boasberg ruled for Meta on November 18, 2025, and the FTC said in January 2026 that it would appeal [A1][A2].
+     - **Google.** Judge Mehta's September 2025 search remedies rejected a Chrome divestiture, and DOJ and the states cross-appealed in February 2026 seeking it [A3]. Judge Brinkema's September 2026 ad-tech remedy declined to order an AdX sale [A4]. These are court rulings.
+     - **Disney/ABC.** The FCC under Carr opened a DEI probe in March 2025, ordered early renewal filings for ABC's eight owned stations in April 2026, and opened an equal-time probe of The View. Disney calls these actions unconstitutional, and no ruling was found as of late July 2026 [A5][A6].
    - Public Citizen's "Ballroom Billions" report (June 2026) says 19 of 27 identified corporate donors received $338B in federal contracts over about 5.5 years. It says 14 face federal enforcement actions, or had them suspended under the Trump administration. Those are an advocacy group's figures and I did not check them against USASpending.gov.
    - The Meta, Google and Disney outcomes cited by critics, such as the antitrust cases, were not verified in this run.
 
@@ -422,3 +426,20 @@ This is a follow-up lead, not a claim made in the video. The video touches it on
 24. WLRN, "Trump presidential library nonprofit dissolved...", 2025-10-16. https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami
 25. Bloomberg Law, "Ripple, SEC Drop Appeal After Settlement Path Blocked by Judge", 2025-08. https://news.bloomberglaw.com/litigation/ripple-sec-drop-appeal-after-settlement-path-blocked-by-judge
 26. Banking Dive, SEC drops Ripple case / $125M penalty, 2025. https://www.bankingdive.com/news/sec-drop-ripple-case-xrp-lawsuit-125-million-penalty-garlinghouse-alderoty-gensler/
+
+### Audit (second review, Nov 2026)
+Result: **upheld**.
+- The settlement amounts, the recipients and the ballroom donor list were re-confirmed by AP, Fortune and The Block.
+- **Meta, Google and Disney gap.** It is now filled (see sub-claim 9), and the finding cuts against an implied quid pro quo for those three payers.
+- **2026 settlements.** No new corporate settlement routed to the library or ballroom was found. The notable 2026 settlement is a different kind. On May 18, 2026 Trump dropped his $10B suit against the IRS. In return, DOJ created a $1.776B "anti-weaponization fund" from the Treasury Judgment Fund, run by a commission the attorney general appoints. Trump, his sons and the Trump Organization get an apology but no payment [A7][A8]. It is added as a lead.
+- Tether-specific outcomes were not re-checked.
+
+A1. AP via Washington Times, "FTC says it will appeal Meta antitrust ruling", 2026-01-21. https://www.washingtontimes.com/news/2026/jan/21/ftc-says-appeal-meta-antitrust-ruling/
+A2. Bloomberg Law, "Meta Wins FTC Antitrust Trial Over Instagram, WhatsApp Deals", 2025-11-18. https://news.bloomberglaw.com/ip-law/meta-wins-ftc-antitrust-trial-over-instagram-whatsapp-deals
+A3. MediaPost, "Google Search Remedies Too Weak, Feds Tell Appeals Court", 2026-07. https://www.mediapost.com/publications/article/416888/google-search-remedies-too-weak-feds-tell-appeals.html
+A4. National Law Review, "Court declines to order AdX divestiture in Google ad tech case", 2026-09. https://natlawreview.com/article/court-declines-order-adx-divestiture-google-ad-tech-case
+A5. NPR via WUNC, "ABC fights back against the Trump administration's attacks", 2026-06-26. https://www.wunc.org/2026-06-26/abc-fights-back-against-the-trump-administrations-attacks
+A6. TheWrap, Carr / ABC / The View license reviews, 2026. https://www.thewrap.com/industry-news/business/fcc-brendan-carr-disney-abc-misinformation-the-view-broadcast-license/
+A7. Axios, "Trump creates $1.8B 'anti-weaponization' fund after dropping IRS suit", 2026-05-18. https://www.axios.com/2026/05/18/trump-irs-lawsuit-dropped
+A8. Bloomberg Law, "DOJ Creates $1.8 Billion Fund in Trump IRS Settlement Accord", 2026-05-18. https://news.bloomberglaw.com/us-law-week/president-trump-moves-to-drop-10-billion-lawsuit-against-irs
+A9. AP via KPTV, "These are the 37 donors helping pay for Trump's $300 million White House ballroom", 2025-11-13. https://www.kptv.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/

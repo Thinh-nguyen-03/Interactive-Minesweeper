@@ -2,8 +2,8 @@
 id: "india"
 kind: "entity"
 type: "country"
-connections: 5
-claims: 3
+connections: 6
+claims: 4
 tags:
   - "entity"
   - "type/country"
@@ -15,17 +15,19 @@ Largest foreign market for Trump-branded towers; tariffs 50% then 18%
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 3 claims |
-| Connections | 5 |
+| Appears in | 4 claims |
+| Connections | 6 |
 
 ## How other claims describe it
 
 - Hired SHW Partners in 2025
+- State
 
 ## Appears in claims
 
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Pending
 
 ## Relationships

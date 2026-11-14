@@ -2,8 +2,8 @@
 id: "1789-capital"
 kind: "entity"
 type: "fund"
-connections: 25
-claims: 10
+connections: 26
+claims: 11
 tags:
   - "entity"
   - "type/fund"
@@ -15,8 +15,8 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 10 claims |
-| Connections | 25 |
+| Appears in | 11 claims |
+| Connections | 26 |
 
 ## How other claims describe it
 
@@ -38,6 +38,7 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 
 ## Relationships
 
@@ -60,11 +61,14 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 - [[1789 Capital]] *invested in* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[1789 Capital]] *reported investor in* [[xAI]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 
-### Ownership (7)
+### Ownership (10)
 
+- [[Omeed Malik]] *co-founder* [[1789 Capital]] · 2022 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Omeed Malik]] *co-founder and CEO of* [[1789 Capital]] · 2022 · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Donald Trump Jr]] *partner* [[1789 Capital]] · 2024-11 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Donald Trump Jr]] *partner* [[1789 Capital]] · 2024-11 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[1789 Capital]] *investor (pre-IPO)* [[SpaceX]] · 2025 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[1789 Capital]] *investor (>$50M across xAI and SpaceX, reported)* [[xAI]] · 2025 · $50M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Chris Buskirk]] *co-founder and partner of* [[1789 Capital]] · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Chris Buskirk]] *co-founder/partner of* [[1789 Capital]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Omeed Malik]] *co-founder of* [[1789 Capital]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]

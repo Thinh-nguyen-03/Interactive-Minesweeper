@@ -2,25 +2,33 @@
 id: "skydance"
 kind: "entity"
 type: "company"
-connections: 2
-claims: 1
+aliases:
+  - "Skydance"
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/company"
 ---
 # Skydance Media
 
-Acquirer of Paramount; made ombudsman/anti-DEI commitments to the FCC
+Ellison company merged with Paramount (2025), name of the combined group (2026)
 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 2 claims |
+| Connections | 3 |
+| Also known as | Skydance |
+
+## How other claims describe it
+
+- Acquirer of Paramount; made ombudsman/anti-DEI commitments to the FCC
 
 ## Appears in claims
 
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 
 ## Relationships
 

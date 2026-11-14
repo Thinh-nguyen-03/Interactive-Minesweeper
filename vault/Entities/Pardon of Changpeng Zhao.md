@@ -4,8 +4,8 @@ kind: "entity"
 type: "event"
 aliases:
   - "CZ pardon"
-connections: 11
-claims: 5
+connections: 12
+claims: 6
 tags:
   - "entity"
   - "type/event"
@@ -17,8 +17,8 @@ Trump's pardon of Binance's founder.
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 5 claims |
-| Connections | 11 |
+| Appears in | 6 claims |
+| Connections | 12 |
 | Also known as | CZ pardon |
 
 ## How other claims describe it
@@ -27,6 +27,7 @@ Trump's pardon of Binance's founder.
 - Trump's October 2025 pardon of Changpeng Zhao.
 - Trump's Oct 2025 pardon of Changpeng Zhao
 - Trump's Oct 23, 2025 pardon of Changpeng Zhao.
+- Oct 2025
 
 ## Appears in claims
 
@@ -35,6 +36,7 @@ Trump's pardon of Binance's founder.
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 

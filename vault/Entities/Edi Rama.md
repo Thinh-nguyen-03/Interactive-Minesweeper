@@ -2,8 +2,8 @@
 id: "edi-rama"
 kind: "entity"
 type: "person"
-connections: 3
-claims: 1
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -15,12 +15,17 @@ Albanian prime minister; chairs the Strategic Investment Committee and defends t
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
-| Connections | 3 |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
+
+- PM of Albania
 
 ## Appears in claims
 
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 

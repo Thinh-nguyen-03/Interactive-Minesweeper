@@ -7,8 +7,8 @@ aliases:
   - "US Commerce Department"
   - "US Commerce Department (BIS)"
   - "US Department of Commerce (CHIPS Program Office)"
-connections: 21
-claims: 9
+connections: 23
+claims: 11
 tags:
   - "entity"
   - "type/government"
@@ -20,8 +20,8 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 9 claims |
-| Connections | 21 |
+| Appears in | 11 claims |
+| Connections | 23 |
 | Also known as | U.S. Department of Commerce; US Commerce Department; US Commerce Department (BIS); US Department of Commerce (CHIPS Program Office) |
 
 ## How other claims describe it
@@ -43,6 +43,8 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 
@@ -57,7 +59,7 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 
 - [[Bureau of Industry and Security]] *part of* [[US Department of Commerce]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 
-### Regulatory (11)
+### Regulatory (13)
 
 - [[US Department of Commerce]] *rescinded* [[AI Diffusion Rule]] · 2025-05 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[US Department of Commerce]] *licenses chip exports under* [[UAE AI chips deal]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
@@ -65,9 +67,11 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 - [[US Department of Commerce]] *licensed Nvidia chip transfers to UAE* [[Microsoft]] · 2025-09 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[US Department of Commerce]] *licensed up to 35,000 GB300-class Nvidia chips to* [[G42]] · 2025-11 · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[US Department of Commerce]] *licensed ~35,000 Nvidia chips to* [[G42]] · 2025-11 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[US Department of Commerce]] *licensed UAE/Saudi chip exports* [[Nvidia]] · 2025-11 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[US Department of Commerce]] *approved up to 35,000 GB300-equivalent chips for* [[G42]] · 2025-11-19 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[US Department of Commerce]] *approved up to 35,000 GB300-equivalent chips for* [[Humain]] · 2025-11-19 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[US Department of Commerce]] *authorized up to 35,000 GB300-equivalent chips for* [[G42]] · 2025-11-20 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[US Department of Commerce]] *licensed up to 35,000 GB300-equivalent chips* [[G42]] · 2025-11-20 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[US Department of Commerce]] *licenses AI-chip exports of* [[Nvidia]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[US Department of Commerce]] *licenses chips under* [[UAE AI chips deal]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 

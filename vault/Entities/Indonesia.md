@@ -18,10 +18,14 @@ Halted the MNC Lido project Feb 2025; got a 19% tariff deal July 2025
 | Appears in | 2 claims |
 | Connections | 4 |
 
+## How other claims describe it
+
+- State
+
 ## Appears in claims
 
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 

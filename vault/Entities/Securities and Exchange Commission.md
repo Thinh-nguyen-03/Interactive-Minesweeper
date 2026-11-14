@@ -6,8 +6,8 @@ aliases:
   - "SEC"
   - "U.S. Securities and Exchange Commission"
   - "US Securities and Exchange Commission"
-connections: 88
-claims: 27
+connections: 90
+claims: 29
 tags:
   - "entity"
   - "type/government"
@@ -19,8 +19,8 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 27 claims |
-| Connections | 88 |
+| Appears in | 29 claims |
+| Connections | 90 |
 | Also known as | SEC; U.S. Securities and Exchange Commission; US Securities and Exchange Commission |
 
 ## How other claims describe it
@@ -60,6 +60,8 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Relationships
 
@@ -67,7 +69,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 
 - [[Tron]] *lobbying via Kelley Drye/Digital Sovereignty Alliance ($370K; single source)* [[Securities and Exchange Commission]] · 2025 · $370K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
-### Regulatory (77)
+### Regulatory (78)
 
 - [[Securities and Exchange Commission]] *fraud case dismissed with prejudice* [[Yorkville Advisors]] · 2018-10-29 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Securities and Exchange Commission]] *sued for fraud, market manipulation and unregistered securities* [[Justin Sun]] · 2023-03-22 · [[C05 Justin Sun, WLF and the SEC|C05]]
@@ -105,6 +107,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Elizabeth Warren]] *asked to investigate tariff-pause insider trading* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Ron Wyden]] *co-signed letter seeking tariff-pause probe* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Securities and Exchange Commission]] *dismissed case* [[Binance]] · 2025-05-29 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Binance]] · 2025-05-29 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Binance]] · 2025-05-29 · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Binance]] · 2025-05-29 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Changpeng Zhao]] · 2025-05-29 · [[C23 SEC drops crypto-exchange cases; donors|C23]]

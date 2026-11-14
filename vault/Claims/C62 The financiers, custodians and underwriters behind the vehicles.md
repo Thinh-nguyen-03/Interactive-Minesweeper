@@ -412,6 +412,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 ### Ownership (19)
 
 - [[Cantor Fitzgerald]] *reserve custodian; ~5% convertible holder* [[Tether]] · 2024 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Andrei Grachev]] *managing partner* [[DWF Labs]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Brandon Lutnick]] *chairman/CEO* [[Cantor Fitzgerald]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump Jr]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Eric Trump]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
@@ -420,7 +421,6 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - [[Kevin McGurn]] *chairman/CEO/CFO; sponsor member* [[New America Acquisition I Corp]] · 2025-07 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Craft Ventures]] *7.8% holder at IPO filing (NYT)* [[BitGo]] · 2025-09 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[World Liberty Financial]] *trust-bank applicant affiliate* [[WLTC Holdings LLC]] · 2026-01 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Andrei Grachev]] *managing partner* [[DWF Labs]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Crypto.com]] *parent* [[Foris DAX National Trust Bank]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[David Sacks]] *co-founder* [[Craft Ventures]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Don Wilson]] *founder/controller* [[DRW Investments]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]

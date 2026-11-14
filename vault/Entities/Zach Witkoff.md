@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Zachary Witkoff"
-connections: 27
-claims: 17
+connections: 31
+claims: 19
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 17 claims |
-| Connections | 27 |
+| Appears in | 19 claims |
+| Connections | 31 |
 | Also known as | Zachary Witkoff |
 
 ## How other claims describe it
@@ -48,6 +48,8 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Relationships
 
@@ -66,8 +68,9 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 - [[Zach Witkoff]] *co-founder and CEO of* [[World Liberty Financial]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Zach Witkoff]] *co-founder/CEO of* [[World Liberty Financial]] · [[C12 WLF bank charter from the OCC|C12]]
 
-### Family (2)
+### Family (3)
 
+- [[Zach Witkoff]] *family affiliate* [[WC Digital Fi LLC]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Steve Witkoff]] *father of* [[Zach Witkoff]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Zach Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]]
 
@@ -85,12 +88,13 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 
 - [[Zach Witkoff]] *announced USD1 selection for MGX-Binance deal* [[USD1]] · 2025-05-01 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 
-### Commercial (5)
+### Commercial (6)
 
 - [[Zach Witkoff]] *reportedly involved in fundraising (NYT)* [[Special Situations Real Estate Credit Fund]] · 2024-2025 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Zach Witkoff]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Zach Witkoff]] *announced USD1 for MGX-Binance deal* [[USD1]] · 2025-05-01 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Zach Witkoff]] *announced as settlement currency for MGX deal* [[USD1]] · 2025-05-01 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Zach Witkoff]] *signed Pakistan MoU for* [[SC Financial Technologies]] · 2026-01-14 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Zach Witkoff]] *announced USD1 role in* [[MGX $2B investment in Binance]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 
 ## Themes

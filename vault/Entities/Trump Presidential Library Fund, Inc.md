@@ -37,7 +37,7 @@ First library nonprofit, incorporated 20 Dec 2024 and dissolved Sep 2025; settle
 ### Money (3)
 
 - [[ABC News]] *agreed to pay $15M (held in escrow) to settle defamation suit* [[Trump Presidential Library Fund, Inc]] · 2024-12-14 · $15M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Meta Platforms]] *settled suspension suit for $25M (~$22M to library)* [[Trump Presidential Library Fund, Inc]] · 2025-01-29 · $22M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Meta]] *settled suspension suit for $25M (~$22M to library)* [[Trump Presidential Library Fund, Inc]] · 2025-01-29 · $22M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Paramount]] *settled '60 Minutes' suit for $16M incl. fees, remainder to library* [[Trump Presidential Library Fund, Inc]] · 2025-07-02 · $16M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 
 ### Ownership (1)

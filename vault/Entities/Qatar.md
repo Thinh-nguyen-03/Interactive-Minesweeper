@@ -2,8 +2,8 @@
 id: "qatar"
 kind: "entity"
 type: "country"
-connections: 30
-claims: 11
+connections: 31
+claims: 12
 tags:
   - "entity"
   - "type/country"
@@ -15,8 +15,8 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 11 claims |
-| Connections | 30 |
+| Appears in | 12 claims |
+| Connections | 31 |
 
 ## How other claims describe it
 
@@ -38,6 +38,7 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Pending
 
 ## Relationships
@@ -71,11 +72,12 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 
 - [[Pam Bondi]] *lobbied for (via Ballard; FARA)* [[Qatar]] · 2019-2021 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
-### Political (3)
+### Political (4)
 
 - [[Steve Witkoff]] *lead negotiator in Qatar-mediated Gaza talks; relayed Doha strike warning* [[Qatar]] · 2025 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Qatar]] *provided 747-8 (see C16)* [[Qatar Boeing 747 gift]] · 2025-05 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Qatar]] *gifted 747-8 to US* [[Qatar Boeing 747 gift]] · 2025-05-21 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Qatar]] *gifted to US government* [[Qatar Boeing 747 gift]] · 2025-05-21 · $400M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 
 ### Media (1)
 

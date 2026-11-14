@@ -2,8 +2,8 @@
 id: "kassym-jomart-tokayev"
 kind: "entity"
 type: "person"
-connections: 3
-claims: 1
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -15,12 +15,17 @@ President of Kazakhstan.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
-| Connections | 3 |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
+
+- President of Kazakhstan
 
 ## Appears in claims
 
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 

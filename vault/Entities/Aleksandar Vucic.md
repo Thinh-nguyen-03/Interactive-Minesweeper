@@ -2,8 +2,8 @@
 id: "aleksandar-vucic"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -15,12 +15,17 @@ Serbian president; lobbied for the project, denied forgery, offered pardons.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 2 claims |
+| Connections | 3 |
+
+## How other claims describe it
+
+- President of Serbia
 
 ## Appears in claims
 
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 

@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Sen. Elizabeth Warren"
-connections: 56
-claims: 25
+connections: 58
+claims: 26
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 25 claims |
-| Connections | 56 |
+| Appears in | 26 claims |
+| Connections | 58 |
 | Also known as | Sen. Elizabeth Warren |
 
 ## How other claims describe it
@@ -56,6 +56,7 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Relationships
 
@@ -69,7 +70,7 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 - [[Elizabeth Warren]] *questioned on Kazakh financing* [[Export-Import Bank of the United States]] · 2026-07-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Elizabeth Warren]] *asked SEC to investigate $TRUMP (with Blumenthal)* [[Paul Atkins]] · 2026-08-04 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 
-### Political (31)
+### Political (32)
 
 - [[Elizabeth Warren]] *asked to scrutinize EA buyout* [[CFIUS]] · 2025 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Elizabeth Warren]] *questioned waivers and SGE status* [[David Sacks]] · 2025-03-06 · [[C34 David Sacks AI & crypto czar with investments|C34]]
@@ -79,13 +80,14 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 - [[Elizabeth Warren]] *demanded identity of Patomak buyer* [[Paul Atkins]] · 2025-08-06 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Elizabeth Warren]] *criticized as corrupt* [[Pardon of Changpeng Zhao]] · 2025-10 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Elizabeth Warren]] *opened ethics inquiry (with Murphy)* [[Steve Witkoff]] · 2025-11-18 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Elizabeth Warren]] *letters on WLF illicit wallets, Aryam, AB, Aqua 1* [[US Treasury]] · 2025-11-18/2026-09-15 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Elizabeth Warren]] *demanded pause of WLF review (refused)* [[Office of the Comptroller of the Currency]] · 2026-01-13 · [[C12 WLF bank charter from the OCC|C12]]
 - [[Elizabeth Warren]] *tallied $70M+ in contracts to portfolio of (with Blumenthal, Kim)* [[1789 Capital]] · 2026-01-22 · $70M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Elizabeth Warren]] *asked to review Aryam stake* [[CFIUS]] · 2026-02 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Elizabeth Warren]] *conflict-of-interest letters (USAR; 14 deals)* [[Howard Lutnick]] · 2026-02-26 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Elizabeth Warren]] *questioned UAE shareholder in WLF bank application* [[United Arab Emirates]] · 2026-02-26 · [[C12 WLF bank charter from the OCC|C12]]
 - [[Elizabeth Warren]] *questioned on library settlement* [[ABC News]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Elizabeth Warren]] *questioned on library settlement* [[Meta Platforms]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Elizabeth Warren]] *questioned on library settlement* [[Meta]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Elizabeth Warren]] *questioned on library settlement* [[Paramount]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Elizabeth Warren]] *questioned on library settlement* [[X Corp]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Elizabeth Warren]] *inquiry letter on possible bribery; 'bribery in plain sight'* [[Amazon]] · 2026-03-16 · [[C44 Melania Trump's Amazon documentary deal|C44]]

@@ -5,8 +5,8 @@ type: "government"
 aliases:
   - "Department of Justice"
   - "U.S. Department of Justice"
-connections: 24
-claims: 9
+connections: 26
+claims: 10
 tags:
   - "entity"
   - "type/government"
@@ -18,8 +18,8 @@ Received Blumenthal's Tether referral; reportedly asked Commerce to pause the Me
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 9 claims |
-| Connections | 24 |
+| Appears in | 10 claims |
+| Connections | 26 |
 | Also known as | Department of Justice; U.S. Department of Justice |
 
 ## How other claims describe it
@@ -41,6 +41,7 @@ Received Blumenthal's Tether referral; reportedly asked Commerce to pause the Me
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Relationships
 
@@ -49,15 +50,17 @@ Received Blumenthal's Tether referral; reportedly asked Commerce to pause the Me
 - [[Office of the Pardon Attorney]] *office within* [[US Department of Justice (us-doj)]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[U.S. Attorney's Office, Southern District of New York]] *component of* [[US Department of Justice (us-doj)]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 
-### Regulatory (1)
+### Regulatory (2)
 
 - [[US Department of Justice (us-doj)]] *housed and disbanded* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Todd Blanche]] *addressee of May and Sept 2026 WLF letters; no public answer* [[US Department of Justice (us-doj)]] · 2026 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 
-### Political (4)
+### Political (5)
 
 - [[Harmeet Dhillon]] *Assistant AG for Civil Rights at* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Todd Blanche]] *Deputy AG, then Attorney General of* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Chad Mizelle]] *chief of staff at* [[US Department of Justice (us-doj)]] · 2025-01 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Jack Reed]] *co-signed letters asking for WLF probe* [[US Department of Justice (us-doj)]] · 2025-11-18 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Todd Blanche]] *Deputy AG, later AG* [[US Department of Justice (us-doj)]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 
 ### Legal (11)

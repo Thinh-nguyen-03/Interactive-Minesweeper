@@ -10,8 +10,8 @@ aliases:
   - "Pentagon / Space Force"
   - "U.S. Department of Defense"
   - "US Department of Defense"
-connections: 28
-claims: 11
+connections: 31
+claims: 12
 tags:
   - "entity"
   - "type/government"
@@ -23,8 +23,8 @@ Awarded $24M contract to Foundation Future Industries.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 11 claims |
-| Connections | 28 |
+| Appears in | 12 claims |
+| Connections | 31 |
 | Also known as | Department of Defense / War; DoD; Pentagon; Pentagon / Department of War; Pentagon / Space Force; U.S. Department of Defense; US Department of Defense |
 
 ## How other claims describe it
@@ -47,6 +47,7 @@ Awarded $24M contract to Foundation Future Industries.
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
 
 ## Relationships
@@ -78,11 +79,13 @@ Awarded $24M contract to Foundation Future Industries.
 - [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[US Marine Corps]] *branch under* [[Pentagon (Department of Defense)]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 
-### Commercial (5)
+### Commercial (7)
 
 - [[Pentagon (Department of Defense)]] *Air Force SBIR award (~$1.8M), start 2024-11-07* [[Boardwalk Robotics]] · 2024-11 · $1.8M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Pentagon (Department of Defense)]] *awarded $45M to* [[Cerebras Systems]] · 2025-04 · $45M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Pentagon (Department of Defense)]] *awarded 7 NSSL missions (~$2.3B)* [[Blue Origin]] · 2025-04-04 · $2.3B · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Pentagon (Department of Defense)]] *CDAO AI contract (ceiling)* [[xAI]] · 2025-07 · $200M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir Technologies (PLTR)]] · 2025-07-31 · $10B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Pentagon (Department of Defense)]] *~$24M in research awards (Army/Navy/Air Force), as promoted* [[Foundation Future Industries]] · 2026-04 · $24M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Pentagon (Department of Defense)]] *deal partner of* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]
 

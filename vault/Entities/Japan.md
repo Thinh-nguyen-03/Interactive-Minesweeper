@@ -21,11 +21,12 @@ Home of Metaplanet.
 ## How other claims describe it
 
 - Home country of Metaplanet.
+- State
 
 ## Appears in claims
 
 - [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 

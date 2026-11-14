@@ -322,7 +322,7 @@ Unusual Machines is the strongest example.
 
 The best-documented part of this lead is Unusual Machines. Donald Trump Jr. joined its advisory board on November 27, 2024 and was issued 331,580 shares. About eleven months later, on October 15, 2025, the company announced its largest US government order: 3,500 drone motors for the Army's 101st Airborne Division. In May 2026 it was reported to be in talks for a Pentagon equity-stake deal under the $1.1B Drone Dominance program.
 
-The 1789 Capital part holds up less well. The holdings themselves are real: SpaceX, xAI, Anduril and Cerebras are listed as portfolio companies, and 1789 led Firehawk Aerospace's $60M Series C. Firehawk has since won small Air Force and Army awards. But for SpaceX, xAI, Anduril and Cerebras I could not document any contract or policy benefit that is tied, by timing or otherwise, to Don Jr.'s involvement. All of them had large government businesses before 1789 invested.
+The 1789 Capital part holds up less well. The holdings themselves are real: SpaceX, xAI, Anduril and Cerebras are listed as portfolio companies, and 1789 led Firehawk Aerospace's $60M Series C. Firehawk has since won small Air Force and Army awards. The audit found that large awards also came after 1789's stakes were public: Anduril's Army enterprise agreement (ceiling up to $20B, March 2026) and the SpaceX and Anduril Golden Dome interceptor awards (April 2026). Those awards were competitive or multi-vendor, the companies had large government businesses before 1789 invested, and no reporting ties any award to 1789 or Don Jr.
 
 The Executive Branch club is documented as a Don Jr. / 1789 venture. No record found connects it to a federal contract.
 
@@ -360,7 +360,7 @@ This is a follow-up brief, not a quote from the video. It suggests that Don Jr. 
    - ProPublica (cited in C26) reported that Unusual Machines was under review for its own Pentagon loan [11].
    - I found no report that either deal had closed. A July 2026 prediction-market write-up still treated "no stake this year" as the likeliest outcome.
 
-5. **Don Jr.'s Unusual Machines advisory role is ongoing: unverified.** CREW reports that his advisory agreement appears to have expired automatically after one year, by which point the company had become an Army supplier [8]. I could not confirm whether he still holds the shares or the role.
+5. **Don Jr.'s Unusual Machines advisory role is ongoing: unverified.** CREW reports that his advisory agreement appears to have expired automatically after one year, by which point the company had become an Army supplier [8]. I could not confirm whether he still holds the shares or the role. *Audit:* 2026 coverage, including the WSJ via Quartz in May 2026 [9] and IBTimes, still calls him a shareholder and advisory-board member. That conflicts with CREW, and no filing settling the question was found.
 
 6. **1789 Capital's portfolio includes Anduril, SpaceX, xAI, Cerebras and Firehawk: mostly accurate.**
    - Firehawk is firmly documented. 1789 led its $60M Series C, reported at about a $290M valuation [12][13]. Outlets disagree on whether the round was in January or September 2025.
@@ -374,7 +374,13 @@ This is a follow-up brief, not a quote from the video. It suggests that Don Jr. 
    - Hanwha Defense USA made a strategic investment later.
    - The amounts are small, and nothing ties them to Don Jr.
 
-8. **Anduril, SpaceX/xAI and Cerebras won contracts or policy benefits because of, or timed to, Don Jr.'s involvement: unverified.**
+8. **Anduril, SpaceX/xAI and Cerebras won contracts or policy benefits because of, or timed to, Don Jr.'s involvement: partly accurate (changed from unverified at audit). Timing is documented; causation is not.**
+   - *Audit additions (Nov 2026):*
+     - **Anduril.** On March 13, 2026 the Army signed a 10-year enterprise agreement with Anduril with a ceiling of up to $20B. It consolidates about 120 existing contracts, the ceiling is not an obligated amount, and the first task order was about $87M [A2][A3]. 1789's Anduril stake was public by mid-May 2025 [A5].
+     - **SpaceX and Anduril.** Both were among the 12 companies in the Space Force's Golden Dome space-based-interceptor awards in April 2026, worth up to $3.2B in total [A4]. Accountable.US had flagged in May 2025 that 1789-linked firms were positioned for Golden Dome [A5].
+     - **xAI.** In July 2025 the CDAO gave xAI a prototype deal with a $200M ceiling. It was one of four identical awards, alongside OpenAI, Google and Anthropic [A6]. When 1789 invested in xAI is not documented.
+     - **Cerebras.** 1789 joined Cerebras's $1.1B Series G on September 30, 2025 [A1]. The CFIUS clearance for G42's stake was announced in March 2025, before 1789 invested. Cerebras listed on Nasdaq in May 2026, and I found no federal contract tied to the investment.
+     - **What this shows.** These awards were competitive or went to several vendors, and no source ties any of them to 1789 or Don Jr.
    - Anduril is building the YFQ-44 autonomous fighter for the Air Force, and all of these companies hold major federal business or face federal regulators [14].
    - I found no reporting that dates any specific award or regulatory decision relative to 1789's investment, and none linking one to Don Jr.
    - These are late-stage companies in which 1789 holds minority stakes, and their government relationships predate the fund.
@@ -390,7 +396,7 @@ This is a follow-up brief, not a quote from the video. It suggests that Don Jr. 
 ### Corrections
 - The brief lists the Executive Branch club alongside government contractors. It is a private members' club, and no federal contract or benefit to it was found.
 - The value of the Unusual Machines Army order was never disclosed. Treat any dollar figure, including $12.8M, as unconfirmed.
-- Of the 1789 companies named, only Firehawk has documented federal awards that followed 1789's investment, and they are small ($4M Air Force and Army prototype agreements). The SpaceX, xAI, Anduril and Cerebras government business predates 1789.
+- *(Corrected at audit.)* An earlier version said only Firehawk had federal awards after 1789's investment. That was wrong. Anduril's Army enterprise agreement (ceiling up to $20B, March 2026) and the SpaceX and Anduril Golden Dome interceptor awards (April 2026) also came after 1789's stakes were public. Those awards were competitive or multi-vendor, the companies had large government businesses before 1789, and nothing ties the awards to 1789 or Don Jr.
 
 ### Denials and context
 - **Trump Jr. spokesperson:** Don Jr. "has never communicated with anyone in the administration on behalf of Unusual Machines or about the contract in question." This is the wording reported in summaries of the FT story [4][7].
@@ -422,3 +428,14 @@ This is a follow-up brief, not a quote from the video. It suggests that Don Jr. 
 20. NBC San Diego (CNBC), "Donald Trump Jr. launches new private members club Executive Branch with a $500,000 fee", 2025. https://www.nbcsandiego.com/news/business/money-report/donald-trump-jr-launches-new-private-members-club-executive-branch-with-a-500000-fee/3813352
 21. Political Wire, "Trump-aligned club for ultra-rich launches in D.C.", 2025-04-26. https://politicalwire.com/2025/04/26/trump-aligned-club-for-ultra-rich-launches-in-d-c
 22. Al Jazeera, "Republicans targeted Hunter Biden's board role, but overlook Trump Jr's", 2024-12-10. https://www.aljazeera.com/economy/2024/12/10/two-presidents-two-sons-different-standards-of-outrage
+
+### Audit (second review, Nov 2026)
+Result: **corrected**. The audit filled the searches the first run could not complete. Sub-claim 8 moved from unverified to partly accurate, because large awards after 1789's investments are documented but none is tied to 1789 or Don Jr. The summary and the matching correction were fixed. The advisory-role conflict was noted. The overall verdict is unchanged.
+
+A1. Reuters via Yahoo Finance, "AI chip firm Cerebras raises $1.1 billion, adds Trump-linked 1789 Capital as investor", 2025-09-30. https://finance.yahoo.com/news/ai-chip-firm-cerebras-raises-130319879.html
+A2. Washington Technology, "Army, Anduril enter into new $20B enterprise agreement", 2026-03. https://www.washingtontechnology.com/contracts/2026/03/army-anduril-enter-new-20b-enterprise-agreement/412143/
+A3. U.S. Army, "U.S. Army awards enterprise contract for IT commercial solutions", 2026-03-13. https://www.army.mil/article/291074
+A4. Bloomberg Law, "SpaceX, Anduril Among Companies to Win Golden Dome Contracts", 2026-04-24. https://news.bloomberglaw.com/federal-contracting/spacex-anduril-among-companies-to-win-space-interceptor-deals ; Via Satellite, 2026-04-26. https://satellitetoday.com/government-military/2026/04/26/space-force-awards-3-2-billion-to-12-companies-for-space-based-interceptor-work
+A5. Accountable.US, Golden Dome / Musk / Trump Jr., 2025-05-12. https://accountable.us/2025-05-12-the-trump-administration-appears-poised-to-hand-out-lofty-golden-dome-contract-to-companies-owned-by-elon-musk-donald-trump-jr-and-other-wealthy-donors-and-allies
+A6. Axios, "Musk's xAI announces $200 million contract with Pentagon", 2025-07-14. https://axios.com/2025/07/14/xai-pentagon-grok-contract ; Nextgov, 2025-07. https://www.nextgov.com/acquisition/2025/07/pentagon-awards-multiple-companies-200m-contracts-ai-tools/406698
+A7. The Next Web, Cerebras IPO, 2026-05-02. https://thenextweb.com/news/cerebras-ipo-4-billion-40-billion-valuation

@@ -285,7 +285,7 @@ def sentences(text):
     return merged
 
 
-_MONTH = r"(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|June?|July?|Aug(?:ust)?|Sept?(?:ember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?"
+_MONTH = r"(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|June?|July?|Aug(?:ust)?|Sept?(?:ember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\b\.?"
 _QUAL = r"(?:(?:about|around|roughly|nearly|almost|over|under|up to|at least|more than|less than|approximately|an estimated|some)\s+|~\s?)?"
 _NUM = r"\d+(?:,\d{3})*(?:\.\d+)?"
 _UNIT = r"(?:\s?(?:trillion|billion|million|thousand)\b|[TBMKk]\b|\s?bn\b|\s?mn\b)?"

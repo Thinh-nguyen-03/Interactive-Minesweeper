@@ -5,8 +5,8 @@ type: "media"
 aliases:
   - "NYT"
   - "New York Times"
-connections: 35
-claims: 18
+connections: 37
+claims: 19
 tags:
   - "entity"
   - "type/media"
@@ -18,8 +18,8 @@ Reported Affinity's $5B raise.
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 18 claims |
-| Connections | 35 |
+| Appears in | 19 claims |
+| Connections | 37 |
 | Also known as | NYT; New York Times |
 
 ## How other claims describe it
@@ -50,6 +50,7 @@ Reported Affinity's $5B raise.
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Relationships
 
@@ -59,7 +60,7 @@ Reported Affinity's $5B raise.
 - [[Clare Locke LLP]] *sent pre-publication legal letter on Sacks's behalf* [[The New York Times]] · 2025-11 · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Trump Organization]] *demanded retraction of tungsten story* [[The New York Times]] · 2026-07 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 
-### Media (16)
+### Media (17)
 
 - [[The New York Times]] *broke the dinner-pardon story* [[Paul Walczak]] · 2025-05-27 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[The New York Times]] *investigated deals after Tiffany engagement* [[Michael Boulos]] · 2025-08-21 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
@@ -74,6 +75,7 @@ Reported Affinity's $5B raise.
 - [[The New York Times]] *tallied at least $2.2B in 2025 income* [[Donald Trump]] · 2026-07-01 · $2.2B · [[C29 Trump family wealth gains|C29]]
 - [[The New York Times]] *tallied at least $2.2B income, more than $1.4B from crypto* [[Trump 2025 OGE financial disclosure]] · 2026-07-01 · $2.2B · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[The New York Times]] *reported ~200% returns of* [[1789 Capital]] · 2026-07-22 · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[The New York Times]] *identified as buyer behind Aqua 1* [[Guren 'Bobby' Zhou]] · 2026-08-09 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[The New York Times]] *reported AG pitch* [[Donald Trump Jr]] · 2026-08-27 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[The New York Times]] *reported state outreach by* [[White House Trump administration]] · 2026-08-27 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[The New York Times]] *reported $5B raise by* [[Affinity Partners]] · [[C15 Jared Kushner and Affinity Partners|C15]]

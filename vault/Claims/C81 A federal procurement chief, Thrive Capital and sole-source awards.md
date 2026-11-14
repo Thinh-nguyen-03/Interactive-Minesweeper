@@ -28,7 +28,7 @@ Verification of this claim has not been completed yet.
 ## Follows up on
 
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 
 ## People and organisations
 
@@ -36,6 +36,7 @@ Verification of this claim has not been completed yet.
 - [[Databricks]] · Company (named in the claim text)
 - [[Jared Kushner]] · Person (named in the claim text)
 - [[Josh Gruenbaum]] · Person (named in the claim text)
+- [[Joshua Kushner]] · Person (named in the claim text)
 - [[OpenAI]] · Company (named in the claim text)
 - [[ProPublica]] · Media (named in the claim text)
 - [[Ramp]] · Company (named in the claim text)

@@ -7,8 +7,8 @@ aliases:
   - "TRON DAO"
   - "Tron (TRON DAO / Tron Foundation)"
   - "Tron Foundation"
-connections: 10
-claims: 6
+connections: 11
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -20,8 +20,8 @@ Justin Sun's company, which the SEC settled with.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 6 claims |
-| Connections | 10 |
+| Appears in | 7 claims |
+| Connections | 11 |
 | Also known as | Sun's company; TRON DAO; Tron (TRON DAO / Tron Foundation); Tron Foundation |
 
 ## How other claims describe it
@@ -40,6 +40,7 @@ Justin Sun's company, which the SEC settled with.
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 
 ## Relationships
 
@@ -58,8 +59,9 @@ Justin Sun's company, which the SEC settled with.
 
 - [[Securities and Exchange Commission]] *settled with* [[Tron]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 
-### Commercial (1)
+### Commercial (2)
 
+- [[World Liberty Financial]] *reported token-swap pitch (denied by Tron)* [[Tron]] · 2025-02 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[SRM Entertainment Tron Inc]] *holds TRX treasury* [[Tron]] · 2025-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 
 ## Themes

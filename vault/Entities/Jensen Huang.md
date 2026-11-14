@@ -18,10 +18,14 @@ Nvidia CEO; a reported dinner with Sacks was dropped from the NYT story
 | Appears in | 2 claims |
 | Connections | 4 |
 
+## How other claims describe it
+
+- Nvidia CEO
+
 ## Appears in claims
 
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Pending
+- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 
 ## Relationships
 

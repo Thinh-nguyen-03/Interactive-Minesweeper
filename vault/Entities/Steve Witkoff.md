@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Witkoff"
-connections: 43
-claims: 18
+connections: 46
+claims: 20
 tags:
   - "entity"
   - "type/person"
@@ -19,8 +19,8 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 18 claims |
-| Connections | 43 |
+| Appears in | 20 claims |
+| Connections | 46 |
 | Also known as | Witkoff |
 
 ## How other claims describe it
@@ -49,6 +49,8 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Pending
 - [[C76 Russia-linked money around the family and envoys]] · Pending
 
@@ -66,18 +68,20 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[Steve Witkoff]] *co-founder; family entities paid from Aryam deal* [[World Liberty Financial]] · 2025-01 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[World Liberty Financial]] *reportedly about $90M of ALT5 deal proceeds to the Witkoff family* [[Steve Witkoff]] · 2025-08 · $90M · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 
-### Ownership (7)
+### Ownership (8)
 
 - [[Steve Witkoff]] *co-owned via JV with Mubadala (share undisclosed), sold to QIA* [[Park Lane Hotel (36 Central Park South)]] · 2013-2023 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Steve Witkoff]] *co-founded (later co-founder emeritus)* [[World Liberty Financial]] · 2024 · [[C14 Steve and Zach Witkoff|C14]]
 - [[Steve Witkoff]] *co-founder (see C14/C42)* [[World Liberty Financial]] · 2024 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Steve Witkoff]] *holds interest in (divestment claimed, unverified)* [[WC Digital Fi LLC]] · 2025-08 · [[C42 How World Liberty insiders took money out|C42]]
+- [[Steve Witkoff]] *lists as asset on Aug 2025 disclosure* [[SC Financial Technologies]] · 2025-08-13 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Steve Witkoff]] *co-founder; retained holdings per Aug 2025 disclosure* [[World Liberty Financial]] · 2025-08-13 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Steve Witkoff]] *co-founded* [[World Liberty Financial]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Steve Witkoff]] *held stake, said to have divested* [[World Liberty Financial]] · [[C14 Steve and Zach Witkoff|C14]]
 
-### Family (4)
+### Family (5)
 
+- [[Steve Witkoff]] *family affiliate* [[WC Digital Fi LLC]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Alex Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]]
 - [[Steve Witkoff]] *father of* [[Alex Witkoff]] · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Steve Witkoff]] *father of* [[Zach Witkoff]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C53 The Witkoff family's own Gulf money|C53]]

@@ -21,11 +21,12 @@ Japanese bitcoin treasury company; Eric Trump is strategic board adviser.
 ## How other claims describe it
 
 - Tokyo-listed bitcoin treasury company.
+- Japanese bitcoin treasury firm; Eric Trump adviser
 
 ## Appears in claims
 
 - [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Pending
+- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 
 ## Relationships
 
@@ -33,9 +34,10 @@ Japanese bitcoin treasury company; Eric Trump is strategic board adviser.
 
 - [[Metaplanet]] *holds as treasury* [[Bitcoin]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 
-### Advisory (2)
+### Advisory (3)
 
 - [[Eric Trump]] *named to Strategic Board of Advisors of* [[Metaplanet]] · 2025-03-21 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Eric Trump]] *strategic adviser to* [[Metaplanet]] · 2025-03-21 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Eric Trump]] *strategic board adviser to* [[Metaplanet]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 
 ### Commercial (4)

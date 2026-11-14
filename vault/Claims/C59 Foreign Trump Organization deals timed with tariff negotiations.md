@@ -302,13 +302,13 @@ The list of foreign Trump-branded projects outside the Gulf is real: Vietnam, In
 ### Ownership (8)
 
 - [[Kinh Bac City Development Holding Corp (KBC)]] *develops* [[Trump International Hung Yen]] · 2025-05 · $1.5B · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Dang Thanh Tam]] *chairs* [[Kinh Bac City Development Holding Corp (KBC)]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Dang Thanh Tam]] *chairs* [[Kinh Bac City Development Holding Corp (KBC)]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Donald Trump]] *owns via trust* [[Trump Organization]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Donald Trump Jr]] *executive vice president of* [[Trump Organization]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Eric Trump]] *executive vice president of* [[Trump Organization]] · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Hary Tanoesoedibjo]] *controls* [[MNC Group MNC Land]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Hary Tanoesoedibjo]] *controls* [[MNC Group MNC Land]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Jared Kushner]] *founded* [[Affinity Partners]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Kalpesh Mehta]] *founded* [[Tribeca Developers]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Kalpesh Mehta]] *founded* [[Tribeca Developers]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 
 ### Regulatory (9)
 

@@ -174,7 +174,7 @@ Binance listed USD1 early (2025-05-22, after HTX, MEXC and KuCoin) and ran a cap
 
 ### Legal (1)
 
-- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 
 ### Media (5)
 
