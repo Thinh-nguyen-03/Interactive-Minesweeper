@@ -165,3 +165,12 @@
 - Which vehicle the "blocked" Ramp award was in, and who won next-generation SmartPay.
 - Gruenbaum's OGE 278 filings and recusal memos, including whether the recusal covered OneGov and OpenAI matters.
 - A systematic SAM.gov match of Thrive portfolio companies against GSA awards for 2025-26.
+
+## Audit (second review, Nov 2026)
+
+Result: **upheld**. Re-checked: the Databricks order ceiling; the WSJ report of Gruenbaum's Thrive stake; his recusal.
+
+- **Databricks order.** Order 47QPCA26F0011 (Databricks Federal LLC, TTS, posted 10 Feb 2026, five months, one bidder) has a ceiling of $1,824,000 in HigherGov, govcontractfinder and samsearch. The "$18M" figure is still wrong.
+- **Thrive stake.** The WSJ's own Threads post says disclosure documents show Gruenbaum invested in "a Thrive Capital fund" while its portfolio companies were up for contracts. An Investing.com relay ("DOGE official discussed contracts tied to firm he invested in, WSJ reports") confirms that the WSJ published the story. It is still one outlet's reporting, so the rating stays unverified. Note that the WSJ post says "fund", while relays describe a Databricks-linked SPV.
+- **Recusal and Ramp.** A GSA official told the WSJ that Gruenbaum recused himself and did not advocate for Ramp specifically; this is added to the denials. A contracting-news summary (single-source) reports an internal GSA review of his Ramp communications in Feb 2026.
+- **New sources.** https://www.threads.com/@wsj/post/DY-JanlFPIw/disclosure-documents-show-josh-gruenbaum-was-an-investor-in-a-thrive-capital/ ; https://ca.investing.com/news/economy-news/doge-official-discussed-contracts-tied-to-firm-he-invested-in-wsj-reports-4667420 ; https://samsearch.co/government-contracting-news/scrutiny-on-gsas-gruenbaum-highlights-ethics-in-federal-contracting-105931 ; https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/

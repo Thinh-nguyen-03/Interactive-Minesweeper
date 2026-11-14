@@ -121,3 +121,12 @@ These links are our own cross-referencing. No source asserts them.
 26. Enterprise AM: "kilo of salt" (2026-07-17). https://enterpriseam.com/menaplus/2026/07/17/those-reports-that-g42-is-going-to-be-mostly-us-downed-take-em-with-a-kilo-of-salt/
 27. Enterprise AM: Will G42 become a US company? (2026-11-04). https://enterpriseam.com/uae/2026/11/04/will-g42-become-a-us-company/
 28. Bloomberg: Lunate takes on G42's China fund (2024-07-08). https://www.bloomberg.com/news/articles/2024-07-08/abu-dhabi-investment-firm-lunate-takes-on-ai-firm-g42-s-china-fund
+
+## Audit (second review, Nov 2026)
+
+Result: **upheld**. Re-checked: the EA buyout close and CFIUS; the UAE A:5 rule; Tahnoon's reported lobbying; G42's restructuring.
+
+- **EA buyout.** GamingBolt, Mobilegamer.biz and Tech-Insider report that EA's 30 Jul 2026 filing said all approvals were in hand. CFIUS was the last hurdle and pushed the close past 30 Jun. One relay of ABC News dates the close to 5 Aug rather than 4 Aug. No Treasury statement or mitigation terms were found.
+- **UAE rule.** Law-firm alerts (Latham, Skadden, Morgan Lewis, Akin, Steptoe) give the effective date as 10 Jul 2026. G42/Core42's approved status expires on 6 Apr 2027 unless they become US companies or get approval through BIS's advisory-opinion process. That expiry is the stated driver of the G42 restructuring talks.
+- **Still single-source.** The Tahnoon lobbying account (WSJ, via relays) and the G42 reincorporation report. The latest item found is Bloomberg's September 2026 report of exploratory talks. I found no deal through Nov 2026.
+- **New sources.** https://gamingbolt.com/eas-acquisition-by-saudi-arabias-pif-gets-regulatory-approval-deal-will-close-on-august-4th ; https://www.lw.com/en/insights/us-eases-export-controls-for-the-uae-4-key-takeaways ; https://www.morganlewis.com/pubs/2026/07/bis-upgrades-uae-export-control-status-with-ai-chip-access-limited-to-approved-entities ; https://mobileworldlive.com/ai-cloud/g42-weighs-us-ownership-to-secure-chip-access

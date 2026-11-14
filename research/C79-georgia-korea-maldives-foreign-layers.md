@@ -22,7 +22,7 @@ Method note: the Guardian, WSJ, NYT, Korea JoongAng Daily, Asia Economy, Senate 
 - **Oversight.** Senators Warren, Blumenthal and Andy Kim wrote to Base Group chairman **Kim Sung-jip** on 6 Aug 2026. They asked for answers by 21 Aug and cited the federal bribery statute. Ranking Member Wyden wrote to Commerce Secretary Lutnick asking whether Commerce officials knew of the payment.
 - **What it shows:** a foreign party paid a Trump business during an open US trade proceeding against its subsidiary. **What it does not show:** any favourable decision. The only decision found so far went against the company.
 
-### 2. Eric Trump visited the Hanam site with Base's chairman and the Hanam mayor on 11 Feb 2026. Evidence: **single-source** (Korea Times/Asia Economy coverage of the golf announcement, via search). Verdict: confirmed (single-source)
+### 2. Eric Trump visited Hanam with Base Group and the Hanam mayor on 10-11 Feb 2026. Evidence: **documented** (several Korean outlets, upgraded in audit: Kyeongin Ilbo, Hankyung, Korea Times). No source confirms that the plot he toured is the announced golf site. Verdict: confirmed
 This puts a family member on site months before the disclosure made the payment public. The timeline runs: LOI Aug 2025, payment in 2025, site visit Feb 2026, preliminary ruling 13 Jul 2026, NYT 14 Jul 2026, public announcement 13 Aug 2026.
 
 ### 3. Trump Tower Tbilisi: land tied to the sanctioned Ivanishvili family and partners close to his party. Evidence: **documented**. Verdict: confirmed
@@ -110,3 +110,13 @@ This puts a family member on site months before the disclosure made the payment 
 37. The Star (Bloomberg), "Trump-backed golf resort advances as Vietnam seizes farmland", 2026-06-26. https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/26/trump-backed-golf-resort-advances-as-vietnam-seizes-farmland
 38. VnEconomy, "US imposes 12.5% additional tariff on many export items from Vietnam", 2026-07-26. https://en.vneconomy.vn/us-imposes-125-additional-tariff-on-many-export-items-from-vietnam.htm
 39. TechNode Global, "Vietnam urges swift US trade deal, final text already sent to Washington", 2026-10-14. https://technode.global/2026/10/14/vietnam-urges-swift-us-trade-deal-final-text-already-sent-to-washington/
+
+## Audit (second review, Nov 2026)
+
+Result: **strengthened**, with one clarification. Re-checked: the Base Group $2M fee; the Korea Aluminium trade case; Eric Trump's Hanam visit; WLF's Maldives token role; the Tbilisi land.
+
+- **Hanam visit.** Kyeongin Ilbo reports that Eric Trump spent two days in Hanam, 10-11 Feb 2026. He toured the former Seongnam golf-course site and the K-Star World hotel site, and the mayor briefed him on a K-culture complex. Hankyung carries a Base Group photo of the visit. This is now documented, not single-source. The link between the toured plot and the Hakam-dong golf club is unconfirmed.
+- **Trade case, clarified.** Federal Register summaries show Korea Aluminium Co., Ltd. at a 28.01% separate rate in the amended final results of the 2023-24 review of the China aluminium-foil AD order (FR 2026-10525). They also show 105.80% as the China-wide rate. That fits the reported "about fourfold" rise to 105.8% if the July 2026 preliminary results denied the company a separate rate. I could not see the company's line in that notice, so the 105.8% figure stays attributed to Korean press citing the NYT. The open case may be the China-order review rather than the 2023 Korea circumvention inquiry.
+- **Upheld.** The $2M fee and the denials (multiple outlets). The senators' letters. The WLF/Securitize/DarGlobal Reg D 506(c)/Reg S loan-revenue tokens. The Cartu/Uta Ivanishvili land (Guardian, 25 May 2026, via relays).
+- **Fetch blocked.** I could not fetch the NYT, the Guardian, govinfo.gov or JoongAng Daily directly.
+- **New sources.** https://www.kyeongin.com/article/1758988 ; https://www.hankyung.com/article/2026071555787 ; https://policyrisk.com/federal-register/2026-10525 ; https://decrypt.co/358781/trump-backed-world-liberty-exit-mechanism-maldives-hotel-tokenization

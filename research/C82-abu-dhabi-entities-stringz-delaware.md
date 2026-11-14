@@ -88,3 +88,13 @@ It shows that the Trump Organization opened Abu Dhabi licensing vehicles in the 
 25. The National, "IHC has no plans to sell Aldar stake", 2025-11-06. https://www.thenationalnews.com/business/property/2025/11/06/abu-dhabis-ihc-has-no-plans-to-sell-aldar-stake-ceo-says
 26. Fortune, "Trump announces Hussain Sajwani $20 billion US data centers investment", 2025-01-07. https://fortune.com/2025/01/07/trump-announces-hussain-sajwani-20-billion-us-data-centers-investment/
 27. ADGM Registration Authority (registry category reference). https://www.adgm.com/registration-authority/registration-and-incorporation
+
+## Audit (second review, Nov 2026)
+
+Result: **upheld**. Re-checked: the DT Marks Abu Dhabi formation date; Damac's two $5M fees; the StringZ registration dates; the Khanna referral.
+
+- **Formation date.** Forbes's own post (relayed) and Forbes Türkiye repeat the 30 Jan 2025 Delaware formation of DT Marks Abu Dhabi LLC and Member Corp. The Al Raha Beach entity's same-day-as-EO formation remains CREW only.
+- **Damac fees.** CREW says Damac paid each new company $5M through its subsidiaries. CNBC, via Times Brasil, reports two new $5M Abu Dhabi fees. Totals differ: $11.3M (CNBC) against about $12.5M (CREW, The National).
+- **StringZ.** The April/May 2025 registration dates appear only in relays of the WSJ, so they remain single-source. The relationship labels now say so.
+- **Khanna referral.** I found no reply from the Delaware US Attorney and no opened matter through Nov 2026.
+- **New sources.** https://www.forbes.com.tr/dunya/abd-baskani-trump-makamini-islerini-buyutmek-icin-nasil-kullaniyor ; https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/ ; https://www.theblock.co/post/388607/house-launches-probe-world-liberty-financial

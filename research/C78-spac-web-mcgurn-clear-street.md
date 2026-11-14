@@ -31,7 +31,7 @@ Evidence grades used below:
 | Vehicle | Raised / trust | Sponsor / control | Insiders | Underwriter | Target / status |
 |---|---|---|---|---|---|
 | **Yorkville Acquisition Corp (MCGA)** | $172.5M IPO (Jun 30, 2025); trust $181.2M at Sep 30, 2026 | Yorkville sponsor (351,825 private units, $3.52M) | McGurn CEO/director since Mar 31, 2025 | n/f | Trump Media Group CRO Strategy (~$6.42B) **terminated Aug 7, 2026**. No new target found. Going-concern flag in Q1 2026. |
-| **Texas Ventures Acquisition III (TVA)** | $225M IPO (Apr 2025); ~$236M in trust (Sep 2026) | Yorkville Acquisition Sponsor II bought 7.5M founder shares + 4.7M warrants for **$7.4M** (Sep 18, 2025) | Mark Angelo (chair); **Lawrence Glick and Alan Garten (Trump Org EVPs)**; Omar Hasan; Troy Rillo (CFO, CEO per Sep 2026 release); Nunes reported (single-source); McGurn reported CEO (unverified) | n/f | **PlusAI**, $800M pre-money, signed Sep 2-3, 2026; S-4 Oct 9, 2026; Yorkville funds in committed financing. Aggregator: deadline extended to Jul 24, 2027 with 17.7M shares redeemed. |
+| **Texas Ventures Acquisition III (TVA)** | $225M IPO (Apr 2025); ~$236M in trust (Sep 2026) | Yorkville Acquisition Sponsor II bought 7.5M founder shares + 4.7M warrants for **$7.4M** (Sep 18, 2025) | Mark Angelo (chair); **Lawrence Glick and Alan Garten (Trump Org EVPs)**; Omar Hasan; Troy Rillo (CFO; CEO since Apr 22, 2026); Nunes and Glabe directors until Feb 2026 (8-K); McGurn CEO until Apr 22, 2026 (8-K) | n/f | **PlusAI**, $800M pre-money, signed Sep 2-3, 2026; S-4 Oct 9, 2026; Yorkville funds in committed financing. Aggregator: deadline extended to Jul 24, 2027 with 17.7M shares redeemed. |
 | **Blue Water Acquisition Corp III (BLUW)** | $253M IPO (Jun 2025) | Yorkville BW Acquisition Sponsor took over (Nov 2025; $7.2M per Siegelman) | McGurn CEO; Nunes, Scott Glabe (TMTG GC), Angelo directors (single-source) | n/f | Prior founder bid ~$10B for Citgo's parent (Sep 2025, abandoned). No target found since. |
 | **Yorkville International Capital (YICC)** | $200M IPO (Jun 2026) | Yorkville Advisors Global | McGurn CEO; Rillo CFO; Angelo chair; Owen May, Mark Hiltwein, Jean-Paul Colaco | Cohen & Company Capital Markets (sole) | Latin America and Venezuela focus. Wyden inquiry Jun 25, 2026. |
 | **New America Acquisition I (NWAX)** | $345M IPO (Dec 2025) | New America Sponsor I LLC (McGurn sole member) | Eric Trump 3M and Don Jr. 2M founder-share interests; McGurn 1M; Wool chair (Feb 6, 2026) then CEO (Aug 5, 2026); Stefan Passantino director | Dominari Securities and D. Boral Capital | No target announced (Trefis, Jul 2026) |
@@ -47,13 +47,13 @@ n/f = not found.
    - Director of D. Boral Acquisition I.
    - TMTG adviser since December 2024 and interim CEO since Apr 21, 2026.
 
-   Renaissance Capital's YICC note describes him as TMTG's interim CEO. His reported TVA III CEO role is contradicted by the PlusAI release, which names Troy Rillo, so that role is *unverified*. Multiple SPAC directorships are common, and conflicts are disclosed in the prospectuses.
+   Renaissance Capital's YICC note describes him as TMTG's interim CEO. He was also CEO of TVA III from the Sept 2025 takeover until he resigned on Apr 22, 2026, the day after becoming TMTG interim CEO (8-K; *documented*, audit correction). Rillo then became CEO while staying CFO, which is why the PlusAI release names him. Multiple SPAC directorships are common, and conflicts are disclosed in the prospectuses.
 
 2. **Texas Ventures III: a Yorkville takeover with Trump Organization directors.** *Documented (8-K, 10-K).*
    - TV Partners III sold control to Yorkville Acquisition Sponsor II for $7.4M. That covered 7.5M founder shares and 4.7M warrants, about $0.99 per founder share, against $10 per public unit.
    - The old board resigned.
    - The 10-K lists Glick (Trump Org EVP of Development) and Garten (Trump Org EVP and Chief Legal Officer) as directors.
-   - Then-TMTG CEO Nunes is listed as a director only by NewsTRACS and Siegelman (*single-source*).
+   - Then-TMTG CEO Nunes and TMTG general counsel Glabe were directors until they resigned in Feb 2026: an 8-K (date of report Feb 23, 2026, seen via search summaries) records their resignations and Garten and Glick joining the audit and compensation committees (*documented*, audit correction; previously single-source).
    - I found no director pay or founder-share grants for the Trump Org executives.
 
 3. **PlusAI merger.** *Documented.* The deal was signed Sep 2-3, 2026:
@@ -117,12 +117,12 @@ n/f = not found.
     - The named custodian was Foris DAX (Crypto.com). Crypto.com's servicing of Yorkville America ETFs ended Aug 7, 2026 (C41), so the custody arrangement is now unclear.
     - The equity Truth Social ETFs did launch, on Dec 30, 2025 (C24).
 
-13. **Financier-client governance overlap.** The seats are *documented* for Glick, Garten and McGurn and *single-source* for Nunes and Glabe; the characterization is *inferred*. Yorkville is TMTG's largest outside financier: about $450M in equity-line purchases, co-lead on the 2025 raise, ETF adviser and partner in the CRO SPAC (C62). It has placed TMTG's CEO, general counsel and interim CEO, and the Trump Org's chief legal officer and development chief, on boards it controls. This is a conflict-of-interest question, not evidence of any payment.
+13. **Financier-client governance overlap.** The seats are *documented* for Glick, Garten and McGurn *documented* for Nunes and Glabe at TVA III until Feb 2026, and *single-source* for them at BLUW; the characterization is *inferred*. Yorkville is TMTG's largest outside financier: about $450M in equity-line purchases, co-lead on the 2025 raise, ETF adviser and partner in the CRO SPAC (C62). It has placed TMTG's CEO, general counsel and interim CEO, and the Trump Org's chief legal officer and development chief, on boards it controls. This is a conflict-of-interest question, not evidence of any payment.
 
 ## Corrections to the brief and to earlier files
 
 - McGurn resigned from NWAX on Aug 5, 2026. The brief's "while interim CEO" holds for only about 3.5 months of overlap, from Apr 21 to Aug 5, 2026.
-- McGurn as CEO of TVA III is unverified. The Sep 2026 release names Rillo.
+- McGurn was CEO of TVA III until Apr 22, 2026 (8-K); Rillo has been CEO since. (The first pass had this as unverified.)
 - "D. Boral, Dominari and Yorkville as recurring sponsors/underwriters": these are two distinct clusters. Yorkville's SPACs used Cohen & Company, as far as found.
 - C62 grades TVA III's Trump Org directors as single-source. The 10-K makes them documented.
 - Clear Street's IPO did not price. It was postponed on Feb 12, 2026.
@@ -210,3 +210,12 @@ These are our own cross-references:
 53. Five Truth Social ETFs launch (ETF Database, 2025-12-30): https://etfdb.com/news/2025/12/30/5-truth-social-etfs-launch-anti-dei-screening/
 54. Eric Trump invests in drone maker (Al Jazeera, 2026-02-17): https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts
 55. Trump Media names McGurn interim CEO (TheWrap, 2026-04-21): https://www.thewrap.com/media-platforms/journalism/trump-media-company-kevin-mcgurn-interim-ceo/
+
+## Audit (second review, Nov 2026)
+
+Result: **corrected**. Re-checked: Glick and Garten on the TVA III board; McGurn's roles; Nunes/Glabe at TVA III; the Wyden inquiry; the NWAX handover.
+
+- **McGurn at TVA III, now documented.** A TVA III 8-K (filed Apr 24, 2026) reports that McGurn resigned as CEO effective Apr 22, 2026, with no disagreement. Troy Rillo was appointed CEO and stays CFO. This resolves the apparent conflict with the PlusAI release.
+- **Nunes and Glabe at TVA III, now documented.** An 8-K (date of report Feb 23, 2026, seen through Stock Titan/Quantisnow search summaries) reports that both resigned from the board and its committees, and that Garten and Glick joined the audit and compensation committees. Their seats at BLUW remain single-source.
+- **Upheld.** The Glick/Garten directorships, though their status after mid-2026 is not confirmed. The Wyden letter of Jun 25, 2026; I found no Yorkville reply and no OFAC licence. The NWAX transition on Aug 5, 2026.
+- **New sources.** TVA III 8-K, https://www.sec.gov/Archives/edgar/data/0002033991/000110465926048534/tm2612658d1_8k.htm ; Stock Titan TVA 8-K summary, https://www.stocktitan.net/sec-filings/TVA/8-k-texas-ventures-acquisition-iii-corp-reports-material-event-2566adb1a983.html ; Traders Union on the Wyden probe, https://tradersunion.com/news/financial-news/show/2477977-senate-probe-yorkville-venezuela-trump-ties/
