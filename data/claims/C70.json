@@ -1,0 +1,1321 @@
+{
+  "id": "C70",
+  "title": "Foreign intermediaries: what each partner got from Washington",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "For most named partners, a family deal and a favourable US decision in the same period are both documented: Damac (about $12.5M in 2025 fees, plus a $20B data-centre pledge announced with Trump and a permitting order); Dar Global and Qatari Diar (Gulf licences, alongside F-35s, chips, the 123 agreement, arms sales and the jet); Kinh Bac (a $5M fee, then a tariff cut from 46% to 20%); the UAE network (WLF and USD1, then chip licences); Binance (USD1 venue, then SEC dismissal and pardon); Kazakhstan (sons' tungsten stake, then $1.6B in EXIM/DFC letters); and Pakistan, the clearest two-way case, where WLF affiliates signed state MoUs and the Pakistani Ministry of Defence ordered drones from Trump-sons-backed Powerus. Indonesia, India's tariffs and Serbia's NIS waivers cut against a favour narrative. No family deal was found for El Salvador, Azerbaijan, Albania-side US concessions, Japan/SoftBank or 'Bilt'. No case shows causation, and all parties deny a link.",
+  "sub_claims": [
+    {
+      "statement": "Damac / Hussain Sajwani (UAE): licence fees to the Trump Organization alongside a $20B US data-centre pledge and a data-centre permitting order.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED. Deal with the family: Damac built the Trump International Golf Club Dubai (first term) and still pays management/licence fees. Trump's 2026 disclosure (covering 2025) shows about $12.5M from Damac-linked entities per The National and CREW, or $11.3M per CNBC's analysis, the outlets disagree. The total includes two new $5M licence fees paid by Damac subsidiaries to new Trump entities, including DT Marks Al Raha Beach LLC, for Abu Dhabi projects that have not been announced (CREW; CNBC via Times Brasil). On the US side: on 7 Jan 2025 at Mar-a-Lago, President-elect Trump announced Sajwani's pledge of $20B or more for US data centres through Damac's Edgnex arm, in eight states, about 2GW over four years. Trump suggested expedited reviews. In July 2025 Trump signed the 'Accelerating Federal Permitting of Data Center Infrastructure' order, and CREW reports DT Marks Al Raha Beach LLC was formed in Delaware the same day. That date match is CREW's finding (single-source); it shows proximity, not causation. In Jan 2026 at Davos Sajwani said Damac had secured US land and power worth about $12B (about 1GW). I found no confirmed US site in operation. The permitting order is a general policy, not a Damac-specific approval. CNBC found no evidence any Damac payment influenced it, and the White House says there are no conflicts.",
+      "sources": [
+        "https://www.thenationalnews.com/business/2025/01/07/uaes-damac-to-invest-20-billion-in-us-data-centres/",
+        "https://fortune.com/2025/01/07/trump-announces-hussain-sajwani-20-billion-us-data-centers-investment/",
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/dubai-developer-paid-trump-12-5-million-while-bringing-data-centers-to-the-u-s/",
+        "https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/",
+        "https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/",
+        "https://menatech.net/en/?p=451453"
+      ]
+    },
+    {
+      "statement": "Dar Global / Dar Al Arkan (Saudi Arabia): Trump licensing deals running alongside major US-Saudi decisions.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (C31, C56). Deals with the family: Trump-branded projects in Oman (2022), Jeddah (July 2024, ~$530M), Dubai (~$1B, launched 29 Apr 2025), Simaisma Qatar (30 Apr 2025), Trump Plaza Jeddah (Sep 2025, ~$1B), Diriyah/Riyadh (launched 11 Jan 2026; Reuters put the Saudi launches at ~$10B), and Maldives (17 Nov 2025). Dar Al Arkan/Dar Global paid about $21.9M in licence fees in 2024 and about $21.9M again in 2025. US decisions in the same period: the 13 May 2025 Riyadh package; F-35 approval and major non-NATO ally status (18 Nov 2025); the Humain chip licences (19 Nov 2025); the 123 nuclear agreement (22 Jul 2026); and the F-35 notification (17 Sep 2026). Dar Global is private, but the Diriyah site sits in a PIF giga-project. No document links a decision to a deal. The Trump Organization told Forbes the Diriyah deal was not finalized while the president was negotiating the nuclear agreement.",
+      "sources": [
+        "https://www.marketscreener.com/news/dar-global-and-trump-organization-launch-10-billion-saudi-developments-ce7e58dad98ef32d",
+        "https://www.forbes.com/sites/giacomotognini/2025/06/16/trump-just-disclosed-he-received-millions-of-dollars-from-this-saudi-real-estate-developer-last-year/",
+        "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia"
+      ]
+    },
+    {
+      "statement": "Qatari Diar / QIA (Qatar): Trump golf deal with a sovereign-owned developer, then the jet and arms approvals.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (C16, C31, C64, C67). Deal: on 30 Apr 2025 QIA's real-estate arm Qatari Diar signed with Dar Global for the Trump International Golf Club and Trump Villas at Simaisma, inside a $5.5B masterplan. The Trump component's value is undisclosed. Because the counterparty is state-owned, this is the deal that sits closest to the 2025 ethics policy's ban on deals with foreign governments. QIA is also an LP in Kushner's Affinity. US decisions: the MQ-9B sale ($1.96B, approved 26 Mar 2025, signed 14 May 2025); the Pentagon's acceptance of the ~$400M 747-8 on 21 May 2025; the DOJ memo clearing the gift, reportedly signed by AG Bondi, Qatar's former lobbyist (C64); and the 2026 Patriot ($4.01B) and APKWS sales. The arms approval came before the golf deal, and the 2026 sales were Iran-war replenishments. That the gifts and the arms are linked is insinuation drawn from timing.",
+      "sources": [
+        "https://www.trump.com/media/qatari-diar-signs-strategic-agreement-with-dar-global-to-develop-trump-international-golf-club-and-trump-villas-a-beachside-ultra-luxury-community-within-simaisma-masterplan",
+        "https://www.dsca.mil/Press-Media/Major-Arms-Sales/Article-Display/Article/4136302/qatar-mq-9b-remotely-piloted-aircraft",
+        "https://readsludge.com/2025/05/12/former-qatar-lobbyist-pam-bondi-approves-jet-deal/"
+      ]
+    },
+    {
+      "statement": "Hary Tanoesoedibjo / MNC (Indonesia): Trump resort partner, with the Indonesian tariff deal and Prabowo's hot-mic request to meet Eric.",
+      "verdict": "partly-accurate",
+      "finding": "DOCUMENTED, with the favour framing not supported. Deal: the Trump-branded Lido (West Java) and Bali projects with MNC date from 2015-2019. Indonesia's own government acted against the partner: the Environment Ministry halted Lido on 6 Feb 2025, and its enforcement arm named a suspect in the Lido case in September 2025. US decision: the 32% tariff threat was cut to 19% (July 2025 deal, finalized Feb 2026). The link that is documented is the 13 Oct 2025 Sharm el-Sheikh hot-mic exchange: Prabowo asked to meet 'Eric or Don Jr.' and mentioned 'Hary', and Trump said he would have Eric call. Foreign Minister Sugiono said he had not heard the recording. Who 'Hary' means is unconfirmed. No source ties the tariff outcome to MNC. Per-project MNC fees in the 2025 disclosure were not found in this pass.",
+      "sources": [
+        "https://www.malaymail.com/news/money/2025/02/06/indonesia-orders-developer-mnc-land-to-halt-project-linked-to-trump/165769",
+        "https://www.thestandard.com.hk/world/article/314044/Indonesian-president-asks-Trump-for-meeting-with-son-Eric-in-hot-mic-moment",
+        "https://www.asiasentinel.com/p/hot-mic-halted-project-trump-troubles-indonesia"
+      ]
+    },
+    {
+      "statement": "Kinh Bac City / Dang Thanh Tam (Vietnam): $1.5B Trump golf project fast-tracked during tariff talks.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED (C59, updated). Deal: announced Oct 2024. The OGE disclosure shows a $5M licence fee from Hung Yen Hospitality Services (a KBC subsidiary) to DT Marks Vietnam LLC, with $4M recorded as receivable. US decision: the threatened 46% tariff became 20% (2 Jul 2025), with a framework joint statement on 26 Oct 2025. Hanoi's in-principle approval (mid-May 2025) and the groundbreaking with PM Chinh (21 May 2025) came during the talks. The NYT reported that legally required steps were skipped. In 2026 the project kept moving: eviction notices to farmers (Reuters, June 2026) and an extra 81 ha leased to KBC. A broker expects no revenue before about 2030. Forbes (Oct 2025, read via its Portuguese and Spanish editions) adds that Dang's industrial-park business grew on tariff-driven supply-chain shifts, so the partner has a direct commercial stake in US tariff policy toward Vietnam, not only in the golf licence. The White House says trade talks are 'totally unrelated' to the Trump Organization.",
+      "sources": [
+        "https://theinvestor.vn/trump-family-to-receive-5-mln-in-license-fees-for-mega-golf-course-development-in-vietnam-d16040.html",
+        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/26/trump-backed-golf-resort-advances-as-vietnam-seizes-farmland",
+        "https://forbes.co/2025/10/17/negocios/trump-salvo-la-fortuna-de-este-magnate-inmobiliario-vietnamita/",
+        "https://www.aljazeera.com/economy/2025/7/2/trump-announces-deal-to-impose-20-tariff-on-trade-with-vietnam"
+      ]
+    },
+    {
+      "statement": "Indian licensees (Tribeca/Kalpesh Mehta; Reliance 4IR Realty): Trump licence fees alongside US decisions on India and on Reliance.",
+      "verdict": "partly-accurate",
+      "finding": "DOCUMENTED payments, with the timing cutting both ways. Tribeca (Mehta) is the Trump brand's main Indian licensee, with about eight projects, and the counterparties are private (C59). At the country level, US tariffs on India rose to 50% in Aug 2025 while Trump launches continued, then fell to 18% in Feb 2026. That is not a favour pattern. New layer: Trump's 2025 disclosure (covering 2024) shows Reliance 4IR Realty Development, a unit of Mukesh Ambani's Reliance, paid a $10M 'development fee' for a Mumbai licence. The WSJ said the project could not be identified, and CREW says it appears not to exist yet. Reliance declined to comment. Separately, Reuters (13 Feb 2026, anonymous sources) reported that the US issued Reliance a licence to buy Venezuelan oil directly, shortly after the Russian-oil tariff on India was lifted. CREW frames this as Reliance 'getting wins'. No source shows the fee influenced the licence. That the two are connected is CREW's framing, and our own pairing is INFERRED.",
+      "sources": [
+        "https://www.thestatesman.com/business/reliance-real-estate-unit-pays-trump-10-million-fee-for-mumbai-project-1503447379.html",
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/indias-reliance-industries-paid-trump-10-million-before-he-took-office-it-keeps-getting-wins-from-trump/",
+        "https://finance.yahoo.com/news/exclusive-indias-reliance-wins-us-083951862.html",
+        "https://businesstoday.in/real-estate/story/trump-towers-is-coming-to-hyderabad-65-storey-800-foot-towers-set-to-become-south-indias-tallest-548563-2026-08-11"
+      ]
+    },
+    {
+      "statement": "Aryam / MGX / G42 (UAE, Tahnoon network): money into WLF and USD1, then the US chip approvals.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (C06-C08, C57, C67). Deals: Aryam paid $500M for 49% of WLF, signed about 16 Jan 2025, with about $187M to family entities (WSJ). MGX's $2B Binance stake was settled in USD1 (announced 1 May 2025). StringZ reportedly holds 49% of WLF's trust-bank parent (WSJ, anonymous; OCC conditional approval 14 Aug 2026). US decisions: the US-UAE AI chip framework (May 2025, about two weeks after the USD1 announcement); Commerce licences for up to 35,000 GB300-equivalent chips for G42 (about 20 Nov 2025); and the TikTok JV in which MGX holds 15% (EO 25 Sep 2025). No US review of the Aryam stake was disclosed. WLF, MGX and the White House deny any link.",
+      "sources": [
+        "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
+        "https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal",
+        "https://www.thenationalnews.com/future/technology/2025/11/20/uae-ai-nvidia-chips-us/"
+      ]
+    },
+    {
+      "statement": "Binance / Changpeng Zhao: USD1 settlement through Binance, then the SEC dismissal, the pardon and the monitor talks.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (C07, C09, C10, C36). Deal: Binance hosted the MGX $2B investment paid in USD1 (May 2025) and became the stablecoin's main venue (C10). US decisions: the SEC dismissed its case against Binance and CZ with prejudice (29 May 2025); Trump pardoned CZ (22-23 Oct 2025) after Binance paid Checkmate $450K for 'executive relief' lobbying; and in Sept 2025 Bloomberg reported Binance was in talks with DOJ to end its compliance monitor early. I found no confirmation that the monitor was ended. Trump said 'I don't know who he is'. CZ says he 'didn't do much' to get the pardon.",
+      "sources": [
+        "https://finance.yahoo.com/news/us-sec-voluntarily-dismisses-lawsuit-211512870.html",
+        "https://kvia.com/politics/cnn-us-politics/2025/10/23/trump-pardons-binance-founder-changpeng-zhao",
+        "https://www.theblock.co/amp/post/370929/binance-in-talks-with-doj-over-dropping-independent-compliance-monitor-bloomberg"
+      ]
+    },
+    {
+      "statement": "Serbia: Kushner/Trump-branded Belgrade hotel and US sanctions treatment of Serbia's Russian-owned oil company NIS.",
+      "verdict": "partly-accurate",
+      "finding": "Project DOCUMENTED (C45); the US-decision link is INFERRED and cuts against a favour narrative. Deal: Affinity's ~$500M Trump-branded General Staff project, backed by the special law of 7 Nov 2025, collapsed on 15-16 Dec 2025 amid a forgery indictment. US decision in the same window: Treasury's January 2025 sanctions on NIS (Gazprom Neft-controlled) were deferred six times during 2025 at Belgrade's request. A seventh request was refused, and the last one-week waiver lapsed on 8-9 Oct 2025, while the Kushner project was still alive. Waivers resumed in 2026 tied to MOL's purchase of the Russian stake and the Iran-war oil shock. No source connects NIS to the Kushner project. Our pairing is INFERRED, and the refusal while the project was alive argues against a quid pro quo.",
+      "sources": [
+        "https://europeanwesternbalkans.com/2025/12/16/kushners-company-withdraws-from-a-controversial-project-in-belgrade/",
+        "https://kyivindependent.com/serbias-russian-owned-oil-company-loses-u-s-sanctions-deferral/",
+        "https://www.hydrocarbonprocessing.com/news/2026/03/serbia-secures-us-sanctions-waiver-for-its-nis-oil-firm/"
+      ]
+    },
+    {
+      "statement": "Albania: Kushner's Sazan/Zvernec projects and any US decision in Albania's favour.",
+      "verdict": "unverified",
+      "finding": "The project side is DOCUMENTED (C45): strategic-investor status on 30 Dec 2024, Law 21/2024, Zvernec preliminary approval in spring 2026, and the SPAK land probe. For the US-decision side, I found no Albania-specific US concession, such as a deportee agreement, a tariff carve-out or aid, in the coverage searched. Rama calls reports of a sale 'lies' and says a joint venture is still being negotiated. Raskin has raised the FCPA question. The lead's 'what Albania got' half is unsubstantiated.",
+      "sources": [
+        "https://english.gazetatema.net/politics/albanias-rama-rejects-criticism-of-kushner-linked-luxury-resort-plans-i345865",
+        "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-slams-jared-kushner-s-failure-to-respond-to-congress-and-expands-probe-into-suspicious-120-million-albanian-land-purchase"
+      ]
+    },
+    {
+      "statement": "Pakistan: WLF deals with the Pakistani state and an order for a Trump-sons-backed drone maker, alongside tariff and diplomatic gains.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. Deals with the family: (1) WLF's letter of intent with the Pakistan Crypto Council (26 Apr 2025). (2) A 14 Jan 2026 MoU between the government (signed by Finance Minister Aurangzeb) and SC Financial Technologies, the Delaware co-owner of the USD1 brand, signed by Zach Witkoff, to explore USD1 for cross-border payments. The WLF delegation also met PM Sharif and Field Marshal Munir. WLF says it receives no compensation, and the deal is exploratory. Steve Witkoff's Aug 2025 disclosure lists both WLF and SC Financial. (3) In mid-Sept 2026 Powerus, backed by Eric Trump and Don Jr. through American Ventures (C51) and then merging with Aureus, announced an MoU with the Pakistan Army and an initial 'limited procurement order' from the Ministry of Defence, value undisclosed. Munir received the delegation, per Al Jazeera. Don Jr.'s spokesperson says he had no role in negotiating it, and the White House says there is no conflict. Powerus had earlier licensed its interceptor in India (Paras Defence). US decisions: the 31 Jul 2025 trade deal set 19%, below India's rate at the time, plus Trump's oil-reserves pledge; Munir's White House lunch (18 Jun 2025); and paid lobbying by three Trump-tied firms (C64). The Powerus order runs the other way, Pakistani state money into a family-linked firm, and is the clearest foreign-government payment in this set. Causation is not shown.",
+      "sources": [
+        "https://finance.yahoo.com/news/exclusive-pakistan-partner-world-liberty-062318246.html",
+        "https://www.arabnews.pk/node/2629279",
+        "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india",
+        "https://thedefensepost.com/2026/09/24/pakistan-drone-order-us/",
+        "https://www.arabnews.com/node/2610999/pakistan"
+      ]
+    },
+    {
+      "statement": "El Salvador: a Trump-family business deal paired with US favours (CECOT deportations, bitcoin).",
+      "verdict": "unverified",
+      "finding": "No Trump-family or WLF business deal with El Salvador, Bukele or Salvadoran entities was found. The documented government-to-government items, the CECOT detention arrangement, Bukele's 14 Apr 2025 White House visit and bitcoin-policy talks with Bo Hines in June 2025, are policy, not family business. Discarded as a family-business connection.",
+      "sources": [
+        "https://cointelegraph.com/news/bitcoin-takes-back-seat-trump-bukele-trade-immigration",
+        "https://elsalvadorinenglish.com/2025/06/05/bukele-meets-with-trumps-top-bitcoin-advisor-to-advance-u-s-el-salvador-digital-asset-alliance/"
+      ]
+    },
+    {
+      "statement": "Azerbaijan: a Trump-family deal paired with US decisions (the TRIPP corridor, the strategic partnership).",
+      "verdict": "partly-accurate",
+      "finding": "No second-term Trump-family business in Azerbaijan was found. The Trump Tower Baku licence (2012, partner linked to the Mammadov family) was cancelled in Dec 2016. US decisions for Azerbaijan are documented: the Aug 2025 TRIPP peace framework, the Feb 2026 Charter of Strategic Partnership, and a US interest in pipeline stakes (June 2026). One adjacent link is DOCUMENTED by the Guardian, Reuters and others: the State Department named Konstantin Sokolov, a Russian-born investor and White House ballroom donor with Armenian telecom and mining holdings, to chair the $201M 'Tripp+' enterprise fund (July 2026), which covers Azerbaijan, Armenia and Central Asia. That is a donor-to-appointment link, not a family deal. The Vanity Fair allegation of Kushner-linked funds routed via an Azerbaijani bank remains unverified and denied (C37, C46).",
+      "sources": [
+        "https://www.al-monitor.com/originals/2026/07/trump-taps-russia-born-investor-oversee-200m-fund-backing-armenia-azerbaijan",
+        "https://arka.am/en/news/business/a-trump-ballroom-donor-will-lead-the-us-state-department-s-200-million-armenia-fund-the-guardian/",
+        "https://gvwire.com/2026/10/15/trump-donor-leading-caucasus-fund-has-major-armenia-holdings-russia-business-history/",
+        "https://euronews.com/2026/06/04/us-eyes-stake-in-azerbaijans-pipelines-as-economic-ties-enter-new-phase-after-trump-broker",
+        "https://www.intellinews.com/trump-org-s-azerbaijan-deal-could-open-it-up-to-prosecution-claims-new-yorker-117192/"
+      ]
+    },
+    {
+      "statement": "Kazakhstan: Trump sons' stake in the Cove Kaz tungsten venture, then US financing and diplomacy.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED (C47, C60, C63), with the sons' holding single-source. The FT (anonymous sources) reported that the sons entered Skyline Builders through a Dominari/American Ventures SPV in Aug 2025, before Skyline took 20% of Kaz Resources (31 Oct 2025). The Tau-Ken Samruk / Cove Kaz agreement (70% of a ~$1.1B project) was signed on the sidelines of the 6 Nov 2025 C5+1 summit, where Tokayev announced Kazakhstan would join the Abraham Accords and about $17B of deals was claimed. US decisions: an EXIM letter of interest for up to $900M, DFC letters for $700M (non-binding), and a later ~$400M request to the Pentagon's Office of Strategic Capital. The FT found no evidence of influence, and both sons say they are passive investors.",
+      "sources": [
+        "https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/",
+        "https://www.rferl.org/a/central-asia-trump-critical-minerals-diplomatic-deals-summit/33583397.html",
+        "https://timesca.com/tokayev-secures-17b-in-u-s-deals-trump-hints-at-kazakhstan-visit/"
+      ]
+    },
+    {
+      "statement": "Japan (Metaplanet / SoftBank): Eric Trump's Metaplanet role alongside the US-Japan $550B deal and SoftBank's projects.",
+      "verdict": "partly-accurate",
+      "finding": "Each element DOCUMENTED; the connection is not. Eric Trump has been on Metaplanet's strategic advisory board since 21 Mar 2025 and backed its ~¥130B (~$884M) overseas share raise in Sept 2025. Separately, the July 2025 US-Japan deal cut tariffs to 15% in exchange for a $550B investment vehicle. SoftBank leads a $33.3B gas-plant project and $25B of power infrastructure in its first wave (METI, 18 Feb 2026), and it is a Stargate founder (Jan 2025). No source links Metaplanet or any family business to SoftBank or to the trade deal. The pairing is INFERRED and weak.",
+      "sources": [
+        "https://decrypt.co/311041/metaplanet-appoints-eric-trump-to-newly-formed-strategic-advisory-board",
+        "https://www.malaymail.com/news/money/2025/09/01/eric-trump-rallies-metaplanet-shareholders-as-firm-plans-rm374b-bitcoin-raise/189657",
+        "https://investinglive.com/news/softbank-and-hitachi-among-investors-in-550-billion-us-plan-20251028"
+      ]
+    },
+    {
+      "statement": "'Bilt' as a foreign partner of the Trump family.",
+      "verdict": "unverified",
+      "finding": "The brief itself flagged this with a question mark. I found no reporting linking Bilt Rewards or its founder Ankur Jain to the Trump family, Kushner, or a US government decision. Discarded.",
+      "sources": [
+        "https://www.forbes.com.au/news/entrepreneurs/billionaire-rewarding-home-renters"
+      ]
+    }
+  ],
+  "corrections": [
+    "The brief's 'Bilt' has no documented Trump-family connection.",
+    "Damac's 2025 fee total is reported as $12.5M (The National, CREW) or $11.3M (CNBC); the two outlets disagree.",
+    "El Salvador and Azerbaijan have documented US policy actions, but no second-term Trump-family business deal was found.",
+    "The Indonesian government halted, rather than fast-tracked, the MNC Lido project (Feb 2025), and named a suspect in Sept 2025.",
+    "The NIS sanctions waiver for Serbia was refused in Oct 2025 while the Kushner project was still live."
+  ],
+  "denials_and_context": [
+    "White House: the president 'only acts in the best interests of the American public' and there are no conflicts of interest; trade talks are 'totally unrelated to the Trump Organization'.",
+    "CNBC found no evidence a Damac payment influenced the data-centre order.",
+    "Don Jr.'s spokesperson: no role in Powerus management or in the Pakistan deal; Powerus calls the brothers passive investors.",
+    "WLF says it receives no compensation from the Pakistan MoU; White House counsel says Steve Witkoff is divesting from WLF.",
+    "Trump Organization: Diriyah deal not finalized while the president negotiated the Saudi nuclear agreement; the company says it is 'fully compliant' with ethics laws.",
+    "Reliance declined to comment; CZ says he 'didn't do much' to get his pardon; Rama calls reports of a Sazan sale 'lies'.",
+    "Most counterparties are private companies, so the 2025 ethics policy permits the deals; the exceptions are Qatari Diar (QIA-owned) and the Pakistani state counterparties."
+  ],
+  "sources": [
+    {
+      "title": "UAE billionaire Hussain Sajwani to invest $20 billion in US data centres, Trump says",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/2025/01/07/uaes-damac-to-invest-20-billion-in-us-data-centres/",
+      "date": "2025-01-07"
+    },
+    {
+      "title": "Trump announces Hussain Sajwani $20 billion US data centers investment",
+      "publisher": "Fortune/AP",
+      "url": "https://fortune.com/2025/01/07/trump-announces-hussain-sajwani-20-billion-us-data-centers-investment/",
+      "date": "2025-01-07"
+    },
+    {
+      "title": "Dubai developer paid Trump $12.5 million while bringing data centers to the U.S.",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/dubai-developer-paid-trump-12-5-million-while-bringing-data-centers-to-the-u-s/",
+      "date": "2026"
+    },
+    {
+      "title": "Gulf developers bring windfall to Trump family",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Negocio de licenciamento imobiliario de Trump no exterior dispara para US$59,5 milhoes (CNBC)",
+      "publisher": "Times Brasil / CNBC",
+      "url": "https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/",
+      "date": "2026-08"
+    },
+    {
+      "title": "Damac secures $12 billion in land and power for US data center expansion",
+      "publisher": "MenaTech",
+      "url": "https://menatech.net/en/?p=451453",
+      "date": "2026-01"
+    },
+    {
+      "title": "Dar Global and Trump Organization launch $10 billion Saudi developments",
+      "publisher": "MarketScreener/Reuters",
+      "url": "https://www.marketscreener.com/news/dar-global-and-trump-organization-launch-10-billion-saudi-developments-ce7e58dad98ef32d",
+      "date": "2026-01-11"
+    },
+    {
+      "title": "Trump just disclosed he received millions from this Saudi developer",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/giacomotognini/2025/06/16/trump-just-disclosed-he-received-millions-of-dollars-from-this-saudi-real-estate-developer-last-year/",
+      "date": "2025-06-16"
+    },
+    {
+      "title": "Qatari Diar signs strategic agreement with Dar Global for Trump International Golf Club",
+      "publisher": "Trump Organization",
+      "url": "https://www.trump.com/media/qatari-diar-signs-strategic-agreement-with-dar-global-to-develop-trump-international-golf-club-and-trump-villas-a-beachside-ultra-luxury-community-within-simaisma-masterplan",
+      "date": "2025-04-30"
+    },
+    {
+      "title": "Indonesia orders developer MNC Land to halt project linked to Trump",
+      "publisher": "Malay Mail",
+      "url": "https://www.malaymail.com/news/money/2025/02/06/indonesia-orders-developer-mnc-land-to-halt-project-linked-to-trump/165769",
+      "date": "2025-02-06"
+    },
+    {
+      "title": "Indonesian president asks Trump for meeting with son Eric in hot mic moment",
+      "publisher": "The Standard (Reuters)",
+      "url": "https://www.thestandard.com.hk/world/article/314044/Indonesian-president-asks-Trump-for-meeting-with-son-Eric-in-hot-mic-moment",
+      "date": "2025-10-14"
+    },
+    {
+      "title": "A 'hot mic,' a halted project and Trump's troubles in Indonesia",
+      "publisher": "Asia Sentinel",
+      "url": "https://www.asiasentinel.com/p/hot-mic-halted-project-trump-troubles-indonesia",
+      "date": "2025-10"
+    },
+    {
+      "title": "Trump family to receive $5 mln in license fees for mega golf course development in Vietnam",
+      "publisher": "The Investor",
+      "url": "https://theinvestor.vn/trump-family-to-receive-5-mln-in-license-fees-for-mega-golf-course-development-in-vietnam-d16040.html",
+      "date": "2025-06"
+    },
+    {
+      "title": "Trump-backed golf resort advances as Vietnam seizes farmland",
+      "publisher": "The Star (Reuters)",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/26/trump-backed-golf-resort-advances-as-vietnam-seizes-farmland",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "Trump salvo la fortuna de este magnate inmobiliario vietnamita",
+      "publisher": "Forbes Colombia",
+      "url": "https://forbes.co/2025/10/17/negocios/trump-salvo-la-fortuna-de-este-magnate-inmobiliario-vietnamita/",
+      "date": "2025-10-17"
+    },
+    {
+      "title": "Reliance real estate unit pays Trump $10-million fee for Mumbai project",
+      "publisher": "The Statesman",
+      "url": "https://www.thestatesman.com/business/reliance-real-estate-unit-pays-trump-10-million-fee-for-mumbai-project-1503447379.html",
+      "date": "2025-06"
+    },
+    {
+      "title": "India's Reliance Industries paid Trump $10 million before he took office. It keeps getting wins from Trump",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/indias-reliance-industries-paid-trump-10-million-before-he-took-office-it-keeps-getting-wins-from-trump/",
+      "date": "2026"
+    },
+    {
+      "title": "Exclusive: India's Reliance wins US licence for Venezuelan oil, sources say",
+      "publisher": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/exclusive-indias-reliance-wins-us-083951862.html",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "Binance in talks with DOJ over dropping independent compliance monitor (Bloomberg)",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/370929/binance-in-talks-with-doj-over-dropping-independent-compliance-monitor-bloomberg",
+      "date": "2025-09"
+    },
+    {
+      "title": "Serbia's Russian-owned oil company loses US sanctions deferral",
+      "publisher": "Kyiv Independent",
+      "url": "https://kyivindependent.com/serbias-russian-owned-oil-company-loses-u-s-sanctions-deferral/",
+      "date": "2025-10-09"
+    },
+    {
+      "title": "Serbia secures US sanctions waiver for its NIS oil firm",
+      "publisher": "Hydrocarbon Processing (Reuters)",
+      "url": "https://www.hydrocarbonprocessing.com/news/2026/03/serbia-secures-us-sanctions-waiver-for-its-nis-oil-firm/",
+      "date": "2026-03"
+    },
+    {
+      "title": "Albania's Rama rejects criticism of Kushner-linked luxury resort plans (DPA)",
+      "publisher": "Gazeta Tema",
+      "url": "https://english.gazetatema.net/politics/albanias-rama-rejects-criticism-of-kushner-linked-luxury-resort-plans-i345865",
+      "date": "2026-06"
+    },
+    {
+      "title": "Pakistan to partner with affiliate of Trump family's World Liberty Financial on USD1 stablecoin",
+      "publisher": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/exclusive-pakistan-partner-world-liberty-062318246.html",
+      "date": "2026-01-14"
+    },
+    {
+      "title": "Pakistan signs pact with Trump-linked crypto firm to explore digital payments",
+      "publisher": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2629279",
+      "date": "2026-01-14"
+    },
+    {
+      "title": "Pakistan's latest Trump bet is on drone firm already selling to India",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "Pakistan drone order from US firm Powerus",
+      "publisher": "The Defense Post",
+      "url": "https://thedefensepost.com/2026/09/24/pakistan-drone-order-us/",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "US drone maker Powerus signs Pakistan army MoU, gets initial order",
+      "publisher": "Arab News Pakistan (Reuters)",
+      "url": "https://www.arabnews.pk/pakistan/us-drone-maker-powerus-signs-pakistan-army-mou-gets-initial-order-3001484",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Pakistan to get export boost after US slashed tariffs in new trade deal",
+      "publisher": "Arab News",
+      "url": "https://www.arabnews.com/node/2610999/pakistan",
+      "date": "2025-08"
+    },
+    {
+      "title": "Bitcoin takes back seat as Trump, Bukele focus on trade and immigration",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-takes-back-seat-trump-bukele-trade-immigration",
+      "date": "2025-04-14"
+    },
+    {
+      "title": "Trump taps Russia-born investor to oversee $200M fund backing Armenia, Azerbaijan",
+      "publisher": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/07/trump-taps-russia-born-investor-oversee-200m-fund-backing-armenia-azerbaijan",
+      "date": "2026-07"
+    },
+    {
+      "title": "A Trump ballroom donor will lead the US State Department's $200 million Armenia fund - The Guardian",
+      "publisher": "ARKA",
+      "url": "https://arka.am/en/news/business/a-trump-ballroom-donor-will-lead-the-us-state-department-s-200-million-armenia-fund-the-guardian/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Trump donor leading Caucasus fund has major Armenia holdings, Russia business history (Reuters)",
+      "publisher": "GV Wire",
+      "url": "https://gvwire.com/2026/10/15/trump-donor-leading-caucasus-fund-has-major-armenia-holdings-russia-business-history/",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "US eyes stake in Azerbaijan's pipelines after Trump-brokered deal",
+      "publisher": "Euronews",
+      "url": "https://euronews.com/2026/06/04/us-eyes-stake-in-azerbaijans-pipelines-as-economic-ties-enter-new-phase-after-trump-broker",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "Trump Org's Azerbaijan deal could open it up to prosecution claims - New Yorker",
+      "publisher": "bne IntelliNews",
+      "url": "https://www.intellinews.com/trump-org-s-azerbaijan-deal-could-open-it-up-to-prosecution-claims-new-yorker-117192/",
+      "date": "2017-03"
+    },
+    {
+      "title": "Trump sons invested in US group developing $1.1B tungsten project in Kazakhstan (FT)",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Trump and Central Asia reach critical minerals deal at Washington summit",
+      "publisher": "RFE/RL",
+      "url": "https://www.rferl.org/a/central-asia-trump-critical-minerals-diplomatic-deals-summit/33583397.html",
+      "date": "2025-11-07"
+    },
+    {
+      "title": "Tokayev secures $17B in U.S. deals",
+      "publisher": "Times of Central Asia",
+      "url": "https://timesca.com/tokayev-secures-17b-in-u-s-deals-trump-hints-at-kazakhstan-visit/",
+      "date": "2025-11"
+    },
+    {
+      "title": "Metaplanet appoints Eric Trump to newly formed strategic advisory board",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/311041/metaplanet-appoints-eric-trump-to-newly-formed-strategic-advisory-board",
+      "date": "2025-03-21"
+    },
+    {
+      "title": "Eric Trump rallies Metaplanet shareholders as firm plans bitcoin raise",
+      "publisher": "Malay Mail",
+      "url": "https://www.malaymail.com/news/money/2025/09/01/eric-trump-rallies-metaplanet-shareholders-as-firm-plans-rm374b-bitcoin-raise/189657",
+      "date": "2025-09-01"
+    },
+    {
+      "title": "SoftBank and Hitachi among investors in $550 billion U.S. plan",
+      "publisher": "investingLive",
+      "url": "https://investinglive.com/news/softbank-and-hitachi-among-investors-in-550-billion-us-plan-20251028",
+      "date": "2025-10-28"
+    }
+  ],
+  "entities": [
+    {
+      "id": "hussain-sajwani",
+      "name": "Hussain Sajwani",
+      "type": "person",
+      "description": "Founder/chairman of Dubai developer Damac; Trump golf partner; $20B US data-centre pledge"
+    },
+    {
+      "id": "damac-properties",
+      "name": "Damac Properties",
+      "type": "company",
+      "description": "Dubai developer; Trump International Golf Club Dubai licensee"
+    },
+    {
+      "id": "edgnex",
+      "name": "Edgnex Data Centers by Damac",
+      "type": "company",
+      "description": "Damac's data-centre arm behind the US pledge"
+    },
+    {
+      "id": "data-center-permitting-eo",
+      "name": "EO 'Accelerating Federal Permitting of Data Center Infrastructure'",
+      "type": "law",
+      "description": "July 2025 executive order"
+    },
+    {
+      "id": "dt-marks-al-raha-beach",
+      "name": "DT Marks Al Raha Beach LLC",
+      "type": "company",
+      "description": "Trump licensing entity paid $5M by a Damac subsidiary for an unannounced Abu Dhabi project"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump Organization EVP"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Trump son, investor"
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Affinity Partners founder; envoy"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Family licensing/real-estate company"
+    },
+    {
+      "id": "dar-global",
+      "name": "Dar Global",
+      "type": "company",
+      "description": "London-listed arm of Saudi Dar Al Arkan; main Trump licensee in Gulf"
+    },
+    {
+      "id": "dar-al-arkan",
+      "name": "Dar Al Arkan",
+      "type": "company",
+      "description": "Saudi developer"
+    },
+    {
+      "id": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "type": "country",
+      "description": "Kingdom"
+    },
+    {
+      "id": "saudi-pif",
+      "name": "Public Investment Fund (Saudi Arabia)",
+      "type": "fund",
+      "description": "Saudi sovereign fund"
+    },
+    {
+      "id": "qatari-diar",
+      "name": "Qatari Diar",
+      "type": "company",
+      "description": "QIA real-estate subsidiary"
+    },
+    {
+      "id": "qatar-investment-authority",
+      "name": "Qatar Investment Authority",
+      "type": "fund",
+      "description": "Qatar sovereign fund"
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "type": "country",
+      "description": "State"
+    },
+    {
+      "id": "qatar-jet",
+      "name": "Qatari Boeing 747-8 (Air Force One)",
+      "type": "asset",
+      "description": "Gifted jet"
+    },
+    {
+      "id": "hary-tanoesoedibjo",
+      "name": "Hary Tanoesoedibjo",
+      "type": "person",
+      "description": "MNC Group owner, Trump partner in Indonesia"
+    },
+    {
+      "id": "mnc-group",
+      "name": "MNC Group / MNC Land",
+      "type": "company",
+      "description": "Indonesian conglomerate"
+    },
+    {
+      "id": "indonesia",
+      "name": "Indonesia",
+      "type": "country",
+      "description": "State"
+    },
+    {
+      "id": "prabowo-subianto",
+      "name": "Prabowo Subianto",
+      "type": "person",
+      "description": "President of Indonesia"
+    },
+    {
+      "id": "kinh-bac-city",
+      "name": "Kinh Bac City Development Holding Corp (KBC)",
+      "type": "company",
+      "description": "Vietnamese industrial-park developer, Trump golf partner"
+    },
+    {
+      "id": "dang-thanh-tam",
+      "name": "Dang Thanh Tam",
+      "type": "person",
+      "description": "KBC chairman"
+    },
+    {
+      "id": "vietnam",
+      "name": "Vietnam",
+      "type": "country",
+      "description": "State"
+    },
+    {
+      "id": "us-vietnam-trade-framework-2025",
+      "name": "US-Vietnam reciprocal trade framework",
+      "type": "event",
+      "description": "2025 tariff framework"
+    },
+    {
+      "id": "tribeca-developers",
+      "name": "Tribeca Developers",
+      "type": "company",
+      "description": "Main Indian Trump licensee"
+    },
+    {
+      "id": "kalpesh-mehta",
+      "name": "Kalpesh Mehta",
+      "type": "person",
+      "description": "Tribeca founder"
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "type": "country",
+      "description": "State"
+    },
+    {
+      "id": "reliance-industries",
+      "name": "Reliance Industries",
+      "type": "company",
+      "description": "Mukesh Ambani's conglomerate; unit paid Trump $10M"
+    },
+    {
+      "id": "mukesh-ambani",
+      "name": "Mukesh Ambani",
+      "type": "person",
+      "description": "Reliance chairman"
+    },
+    {
+      "id": "aryam-investment-1",
+      "name": "Aryam Investment 1",
+      "type": "fund",
+      "description": "Tahnoon-backed buyer of 49% of WLF"
+    },
+    {
+      "id": "mgx",
+      "name": "MGX",
+      "type": "fund",
+      "description": "Abu Dhabi AI investor chaired by Tahnoon"
+    },
+    {
+      "id": "g42",
+      "name": "G42",
+      "type": "company",
+      "description": "Abu Dhabi AI firm"
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Tahnoon bin Zayed",
+      "type": "person",
+      "description": "UAE national security adviser"
+    },
+    {
+      "id": "uae",
+      "name": "UAE",
+      "type": "country",
+      "description": "State"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture"
+    },
+    {
+      "id": "usd1",
+      "name": "USD1",
+      "type": "asset",
+      "description": "WLF stablecoin"
+    },
+    {
+      "id": "uae-chips-deal",
+      "name": "US-UAE AI chip framework",
+      "type": "event",
+      "description": "May 2025"
+    },
+    {
+      "id": "binance",
+      "name": "Binance",
+      "type": "company",
+      "description": "Crypto exchange"
+    },
+    {
+      "id": "changpeng-zhao",
+      "name": "Changpeng Zhao",
+      "type": "person",
+      "description": "Binance founder"
+    },
+    {
+      "id": "cz-pardon",
+      "name": "CZ pardon",
+      "type": "event",
+      "description": "Oct 2025"
+    },
+    {
+      "id": "sec",
+      "name": "SEC",
+      "type": "government",
+      "description": "US regulator"
+    },
+    {
+      "id": "serbia",
+      "name": "Serbia",
+      "type": "country",
+      "description": "State"
+    },
+    {
+      "id": "aleksandar-vucic",
+      "name": "Aleksandar Vucic",
+      "type": "person",
+      "description": "President of Serbia"
+    },
+    {
+      "id": "affinity-partners",
+      "name": "Affinity Partners",
+      "type": "fund",
+      "description": "Kushner's fund"
+    },
+    {
+      "id": "nis-serbia",
+      "name": "NIS (Naftna Industrija Srbije)",
+      "type": "company",
+      "description": "Gazprom Neft-controlled Serbian oil company under US sanctions"
+    },
+    {
+      "id": "us-treasury",
+      "name": "US Treasury",
+      "type": "government",
+      "description": "Sanctions authority (OFAC)"
+    },
+    {
+      "id": "albania",
+      "name": "Albania",
+      "type": "country",
+      "description": "State"
+    },
+    {
+      "id": "edi-rama",
+      "name": "Edi Rama",
+      "type": "person",
+      "description": "PM of Albania"
+    },
+    {
+      "id": "pakistan",
+      "name": "Pakistan",
+      "type": "country",
+      "description": "State"
+    },
+    {
+      "id": "pakistan-crypto-council",
+      "name": "Pakistan Crypto Council",
+      "type": "government",
+      "description": "Government crypto body"
+    },
+    {
+      "id": "sc-financial-technologies",
+      "name": "SC Financial Technologies",
+      "type": "company",
+      "description": "Delaware WLF affiliate co-owning USD1 brand"
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF CEO"
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "US special envoy"
+    },
+    {
+      "id": "asim-munir",
+      "name": "Asim Munir",
+      "type": "person",
+      "description": "Pakistan army chief"
+    },
+    {
+      "id": "powerus",
+      "name": "Powerus Corp.",
+      "type": "company",
+      "description": "Drone maker backed by Trump sons"
+    },
+    {
+      "id": "american-ventures",
+      "name": "American Ventures",
+      "type": "fund",
+      "description": "Dominari-controlled SPV family"
+    },
+    {
+      "id": "paras-defence",
+      "name": "Paras Defence and Space Technologies",
+      "type": "company",
+      "description": "Indian licensee of Powerus interceptor"
+    },
+    {
+      "id": "el-salvador",
+      "name": "El Salvador",
+      "type": "country",
+      "description": "State"
+    },
+    {
+      "id": "nayib-bukele",
+      "name": "Nayib Bukele",
+      "type": "person",
+      "description": "President of El Salvador"
+    },
+    {
+      "id": "azerbaijan",
+      "name": "Azerbaijan",
+      "type": "country",
+      "description": "State"
+    },
+    {
+      "id": "tripp-corridor",
+      "name": "Trump Route for International Peace and Prosperity (TRIPP)",
+      "type": "event",
+      "description": "US-brokered South Caucasus corridor"
+    },
+    {
+      "id": "tripp-plus-fund",
+      "name": "Tripp+ enterprise fund",
+      "type": "fund",
+      "description": "State Department $201M fund for South Caucasus/Central Asia"
+    },
+    {
+      "id": "konstantin-sokolov",
+      "name": "Konstantin Sokolov",
+      "type": "person",
+      "description": "Russian-born investor, ballroom donor, Tripp+ chair"
+    },
+    {
+      "id": "white-house-ballroom",
+      "name": "White House ballroom",
+      "type": "asset",
+      "description": "Donor-funded ballroom"
+    },
+    {
+      "id": "state-department",
+      "name": "State Department",
+      "type": "government",
+      "description": "US agency"
+    },
+    {
+      "id": "kazakhstan",
+      "name": "Kazakhstan",
+      "type": "country",
+      "description": "State"
+    },
+    {
+      "id": "kassym-jomart-tokayev",
+      "name": "Kassym-Jomart Tokayev",
+      "type": "person",
+      "description": "President of Kazakhstan"
+    },
+    {
+      "id": "cove-kaz-capital",
+      "name": "Cove Kaz Capital / Cove Capital",
+      "type": "company",
+      "description": "US tungsten developer"
+    },
+    {
+      "id": "skyline-builders",
+      "name": "Skyline Builders Group",
+      "type": "company",
+      "description": "Buyer of 20% of Kaz Resources"
+    },
+    {
+      "id": "tau-ken-samruk",
+      "name": "Tau-Ken Samruk",
+      "type": "company",
+      "description": "Kazakh state mining company"
+    },
+    {
+      "id": "exim-bank",
+      "name": "Export-Import Bank of the United States",
+      "type": "government",
+      "description": "US export credit agency"
+    },
+    {
+      "id": "us-dfc",
+      "name": "US International Development Finance Corporation",
+      "type": "government",
+      "description": "US DFI"
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "type": "country",
+      "description": "State"
+    },
+    {
+      "id": "metaplanet",
+      "name": "Metaplanet",
+      "type": "company",
+      "description": "Japanese bitcoin treasury firm; Eric Trump adviser"
+    },
+    {
+      "id": "softbank",
+      "name": "SoftBank",
+      "type": "company",
+      "description": "Japanese investor"
+    },
+    {
+      "id": "us-japan-trade-deal-2025",
+      "name": "US-Japan trade deal ($550B vehicle)",
+      "type": "event",
+      "description": "July 2025 tariff deal"
+    },
+    {
+      "id": "crew",
+      "name": "Citizens for Responsibility and Ethics in Washington",
+      "type": "company",
+      "description": "Ethics watchdog"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "damac-properties",
+      "target": "trump-organization",
+      "label": "paid ~$11.3-12.5M in licence/management fees (2025)",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 12500000
+    },
+    {
+      "source": "damac-properties",
+      "target": "dt-marks-al-raha-beach",
+      "label": "paid $5M licence fee via subsidiary",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "hussain-sajwani",
+      "target": "damac-properties",
+      "label": "founder and chairman of",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "edgnex",
+      "target": "damac-properties",
+      "label": "data-centre arm of",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "hussain-sajwani",
+      "target": "donald-trump",
+      "label": "announced $20B US data-centre pledge with",
+      "type": "political",
+      "date": "2025-01-07",
+      "amount_usd": 20000000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "data-center-permitting-eo",
+      "label": "signed",
+      "type": "regulatory",
+      "date": "2025-07"
+    },
+    {
+      "source": "dt-marks-al-raha-beach",
+      "target": "trump-organization",
+      "label": "Trump licensing entity formed same day as permitting EO (per CREW)",
+      "type": "ownership",
+      "date": "2025-07"
+    },
+    {
+      "source": "dar-al-arkan",
+      "target": "trump-organization",
+      "label": "paid ~$21.9M licence fees (2024)",
+      "type": "money",
+      "date": "2024",
+      "amount_usd": 21900000
+    },
+    {
+      "source": "dar-global",
+      "target": "trump-organization",
+      "label": "licensee for Jeddah, Dubai, Riyadh/Diriyah, Oman, Maldives projects",
+      "type": "commercial",
+      "date": "2022/2026"
+    },
+    {
+      "source": "qatari-diar",
+      "target": "dar-global",
+      "label": "signed Trump golf/villas agreement with",
+      "type": "commercial",
+      "date": "2025-04-30"
+    },
+    {
+      "source": "qatari-diar",
+      "target": "qatar-investment-authority",
+      "label": "subsidiary of",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "qatar",
+      "target": "qatar-jet",
+      "label": "gifted to US government",
+      "type": "political",
+      "date": "2025-05-21",
+      "amount_usd": 400000000
+    },
+    {
+      "source": "hary-tanoesoedibjo",
+      "target": "mnc-group",
+      "label": "controls",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "mnc-group",
+      "target": "trump-organization",
+      "label": "licensee for Lido and Bali Trump projects",
+      "type": "commercial",
+      "date": "2015/2019"
+    },
+    {
+      "source": "prabowo-subianto",
+      "target": "eric-trump",
+      "label": "asked Trump for a meeting with (hot mic)",
+      "type": "political",
+      "date": "2025-10-13"
+    },
+    {
+      "source": "kinh-bac-city",
+      "target": "trump-organization",
+      "label": "pays $5M licence fee for Hung Yen golf project",
+      "type": "money",
+      "date": "2024/2025",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "dang-thanh-tam",
+      "target": "kinh-bac-city",
+      "label": "chairs",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "vietnam",
+      "target": "kinh-bac-city",
+      "label": "fast-tracked in-principle approval for Trump project of",
+      "type": "regulatory",
+      "date": "2025-05"
+    },
+    {
+      "source": "tribeca-developers",
+      "target": "trump-organization",
+      "label": "main Indian licensee of",
+      "type": "commercial",
+      "date": "2025-2026"
+    },
+    {
+      "source": "kalpesh-mehta",
+      "target": "tribeca-developers",
+      "label": "founded",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "reliance-industries",
+      "target": "trump-organization",
+      "label": "unit paid $10M development fee for Mumbai licence",
+      "type": "money",
+      "date": "2024",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "us-treasury",
+      "target": "reliance-industries",
+      "label": "issued licence to buy Venezuelan oil (Reuters, anonymous)",
+      "type": "regulatory",
+      "date": "2026-02-13"
+    },
+    {
+      "source": "aryam-investment-1",
+      "target": "world-liberty-financial",
+      "label": "bought 49% for $500M",
+      "type": "money",
+      "date": "2025-01-16",
+      "amount_usd": 500000000
+    },
+    {
+      "source": "mgx",
+      "target": "binance",
+      "label": "settled $2B investment in USD1",
+      "type": "money",
+      "date": "2025-05-01",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "mgx",
+      "label": "chairs",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "g42",
+      "label": "licensed up to 35,000 GB300-equivalent chips",
+      "type": "regulatory",
+      "date": "2025-11-20"
+    },
+    {
+      "source": "sec",
+      "target": "binance",
+      "label": "dismissed case with prejudice",
+      "type": "regulatory",
+      "date": "2025-05-29"
+    },
+    {
+      "source": "donald-trump",
+      "target": "changpeng-zhao",
+      "label": "pardoned",
+      "type": "legal",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "affinity-partners",
+      "target": "serbia",
+      "label": "pursued Trump-branded Belgrade hotel with",
+      "type": "commercial",
+      "date": "2024-2025",
+      "amount_usd": 500000000
+    },
+    {
+      "source": "us-treasury",
+      "target": "nis-serbia",
+      "label": "deferred sanctions six times, then refused (Oct 2025)",
+      "type": "regulatory",
+      "date": "2025-01/2025-10"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "albania",
+      "label": "pursuing Sazan/Zvernec resorts approved by",
+      "type": "commercial",
+      "date": "2024-2026"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "pakistan-crypto-council",
+      "label": "signed letter of intent with",
+      "type": "commercial",
+      "date": "2025-04-26"
+    },
+    {
+      "source": "sc-financial-technologies",
+      "target": "pakistan",
+      "label": "signed USD1 cross-border payments MoU with",
+      "type": "commercial",
+      "date": "2026-01-14"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "sc-financial-technologies",
+      "label": "signed Pakistan MoU for",
+      "type": "commercial",
+      "date": "2026-01-14"
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "sc-financial-technologies",
+      "label": "lists as asset on Aug 2025 disclosure",
+      "type": "ownership",
+      "date": "2025-08-13"
+    },
+    {
+      "source": "pakistan",
+      "target": "powerus",
+      "label": "Ministry of Defence placed initial drone order; Army MoU",
+      "type": "money",
+      "date": "2026-09"
+    },
+    {
+      "source": "eric-trump",
+      "target": "powerus",
+      "label": "indirect investor via American Ventures",
+      "type": "ownership",
+      "date": "2026"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "powerus",
+      "label": "indirect investor via American Ventures",
+      "type": "ownership",
+      "date": "2026"
+    },
+    {
+      "source": "powerus",
+      "target": "paras-defence",
+      "label": "licensed interceptor technology in India to",
+      "type": "commercial",
+      "date": "2026-06"
+    },
+    {
+      "source": "asim-munir",
+      "target": "powerus",
+      "label": "received company delegation",
+      "type": "political",
+      "date": "2026-09"
+    },
+    {
+      "source": "konstantin-sokolov",
+      "target": "white-house-ballroom",
+      "label": "donated to",
+      "type": "money",
+      "date": "2025/2026"
+    },
+    {
+      "source": "state-department",
+      "target": "konstantin-sokolov",
+      "label": "named chair of Tripp+ fund",
+      "type": "political",
+      "date": "2026-07"
+    },
+    {
+      "source": "tripp-plus-fund",
+      "target": "azerbaijan",
+      "label": "authorized to invest in",
+      "type": "money",
+      "date": "2026",
+      "amount_usd": 201000000
+    },
+    {
+      "source": "eric-trump",
+      "target": "skyline-builders",
+      "label": "reportedly invested via Dominari SPV (FT)",
+      "type": "ownership",
+      "date": "2025-08"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "skyline-builders",
+      "label": "reportedly invested via Dominari SPV (FT)",
+      "type": "ownership",
+      "date": "2025-08"
+    },
+    {
+      "source": "tau-ken-samruk",
+      "target": "cove-kaz-capital",
+      "label": "granted 70% of tungsten project",
+      "type": "commercial",
+      "date": "2025-11-06",
+      "amount_usd": 1100000000
+    },
+    {
+      "source": "exim-bank",
+      "target": "cove-kaz-capital",
+      "label": "letter of interest up to $900M",
+      "type": "money",
+      "date": "2025-11",
+      "amount_usd": 900000000
+    },
+    {
+      "source": "us-dfc",
+      "target": "cove-kaz-capital",
+      "label": "letters of interest $700M",
+      "type": "money",
+      "date": "2025-11",
+      "amount_usd": 700000000
+    },
+    {
+      "source": "eric-trump",
+      "target": "metaplanet",
+      "label": "strategic adviser to",
+      "type": "advisory",
+      "date": "2025-03-21"
+    },
+    {
+      "source": "softbank",
+      "target": "us-japan-trade-deal-2025",
+      "label": "leads first-wave projects in",
+      "type": "money",
+      "date": "2026-02-18",
+      "amount_usd": 33300000000
+    }
+  ],
+  "leads": [
+    {
+      "title": "Damac's unannounced Abu Dhabi Trump licences ($10M)",
+      "why_connected": "Two $5M fees paid in 2025 for Abu Dhabi projects that have never been announced; one paying-to entity formed the day of the data-centre permitting EO. What is being licensed and whether any US data-centre permits/power deals followed is open.",
+      "entities": [
+        "damac-properties",
+        "dt-marks-al-raha-beach",
+        "edgnex"
+      ],
+      "source_url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/dubai-developer-paid-trump-12-5-million-while-bringing-data-centers-to-the-u-s/"
+    },
+    {
+      "title": "Reliance $10M fee for a Mumbai project that may not exist, and Reliance's Venezuelan oil licence",
+      "why_connected": "A major Indian conglomerate paid the Trump Organization for an unidentified project and later received a rare US sanctions licence.",
+      "entities": [
+        "reliance-industries",
+        "mukesh-ambani",
+        "trump-organization",
+        "us-treasury"
+      ],
+      "source_url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/indias-reliance-industries-paid-trump-10-million-before-he-took-office-it-keeps-getting-wins-from-trump/"
+    },
+    {
+      "title": "Konstantin Sokolov: ballroom donor to chair of State Department's Tripp+ fund",
+      "why_connected": "A White House ballroom donor with Armenian mining/telecom holdings and a Kremlin-adjacent investment past now steers US money into the region where he does business.",
+      "entities": [
+        "konstantin-sokolov",
+        "tripp-plus-fund",
+        "white-house-ballroom",
+        "azerbaijan"
+      ],
+      "source_url": "https://gvwire.com/2026/10/15/trump-donor-leading-caucasus-fund-has-major-armenia-holdings-russia-business-history/"
+    },
+    {
+      "title": "Powerus selling interceptors to both Pakistan and India",
+      "why_connected": "A Trump-sons-backed drone maker took a Pakistani state order three months after licensing its tech in India; export-licence (ITAR/EAR) approvals for the Pakistan sale have not been reported.",
+      "entities": [
+        "powerus",
+        "pakistan",
+        "paras-defence",
+        "eric-trump",
+        "donald-trump-jr"
+      ],
+      "source_url": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india"
+    }
+  ]
+}
