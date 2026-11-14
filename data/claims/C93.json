@@ -885,8 +885,8 @@
     {
       "source": "umar-kremlev",
       "target": "donald-trump-jr",
-      "label": "joined his hunting camp in Mongolia for about two days (FT)",
-      "type": "family",
+      "label": "joined his hunting camp in Mongolia for about two days (FT); described by his side as personal friendship",
+      "type": "political",
       "date": "2026-08"
     },
     {
@@ -962,7 +962,7 @@
       "source": "melania-trump",
       "target": "umar-kremlev",
       "label": "spokesman denies any relationship",
-      "type": "family",
+      "type": "political",
       "date": "2026-09"
     },
     {
