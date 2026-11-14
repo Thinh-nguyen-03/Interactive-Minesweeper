@@ -10,9 +10,13 @@ tags:
 ---
 # KoBold Metals
 
-*company*
-
 Credited Boulos for Manono lithium deal
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Credited Boulos for Manono lithium deal
 
 ## Relationships
 
-- [[KoBold Metals]] *credited for opening doors on Manono* [[Massad Boulos]] (2025, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Political (1)
+
+- [[KoBold Metals]] *credited for opening doors on Manono* [[Massad Boulos]] · 2025 · [[C65 Officials who decided matters involving their former clients or partners|C65]]

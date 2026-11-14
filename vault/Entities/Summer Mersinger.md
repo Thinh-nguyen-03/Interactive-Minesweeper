@@ -10,9 +10,13 @@ tags:
 ---
 # Summer Mersinger
 
-*person*
-
 Ex-CFTC commissioner; Blockchain Association CEO from Jun 2025
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Ex-CFTC commissioner; Blockchain Association CEO from Jun 2025
 
 ## Relationships
 
-- [[Summer Mersinger]] *CEO after leaving CFTC early* [[Blockchain Association]] (2025-06-02, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+### Commercial (1)
+
+- [[Summer Mersinger]] *CEO after leaving CFTC early* [[Blockchain Association]] · 2025-06-02 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]

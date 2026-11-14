@@ -10,9 +10,13 @@ tags:
 ---
 # Samuel Reed
 
-*person*
-
 BitMEX co-founder, pardoned Mar 2025
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ BitMEX co-founder, pardoned Mar 2025
 
 ## Relationships
 
-- [[Donald Trump]] *pardoned* [[Samuel Reed]] (2025-03-27, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Samuel Reed]] *co-founded* [[BitMEX (HDR Global Trading)]] (ownership) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+### Ownership (1)
+
+- [[Samuel Reed]] *co-founded* [[BitMEX (HDR Global Trading)]] · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+
+### Legal (1)
+
+- [[Donald Trump]] *pardoned* [[Samuel Reed]] · 2025-03-27 · [[C36 Clemency for other crypto and donor-linked figures|C36]]

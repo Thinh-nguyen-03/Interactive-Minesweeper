@@ -6,7 +6,7 @@ tags:
 ---
 # Enforcement cases dropped near money flows
 
-A firm or founder facing SEC/CFTC action invests in, partners with or donates to a Trump venture, and the enforcement matter is dismissed, closed or settled.
+- A firm or founder facing SEC/CFTC action invests in, partners with or donates to a Trump venture, and the enforcement matter is dismissed, closed or settled.
 
 ## Claims
 

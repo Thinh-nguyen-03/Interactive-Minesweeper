@@ -10,9 +10,13 @@ tags:
 ---
 # Sazan Island Resort
 
-*asset*
-
 Proposed ~EUR 1.4B luxury resort on state-owned Sazan island, Albania.
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Proposed ~EUR 1.4B luxury resort on state-owned Sazan island, Albania.
 
 ## Relationships
 
-- [[Atlantic Incubation Partners LLC]] *proposed developer of* [[Sazan Island Resort]] (commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Commercial (1)
+
+- [[Atlantic Incubation Partners LLC]] *proposed developer of* [[Sazan Island Resort]] · [[C45 Kushner's Albania and Serbia developments|C45]]

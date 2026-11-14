@@ -12,9 +12,16 @@ tags:
 ---
 # Intel
 
-*company*
-
 Stock featured in a meme of Trump trading in the Oval Office; price rose after his post.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 3 claims |
+| Connections | 8 |
+| Also known as | Intel (INTC) |
+
+## How other claims describe it
 
 - Chipmaker in which the US government took a 9.9% stake in Aug 2025
 - Chipmaker in which the US took a ~10% stake in Aug 2025
@@ -28,8 +35,13 @@ Stock featured in a meme of Trump trading in the Oval Office; price rose after h
 
 ## Relationships
 
-- [[Intel trading meme post]] *preceded price rise of* [[Intel]] (money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
-- [[Intel Oval Office trading meme]] *depicts trading of* [[Intel]] (2025-09, media) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
-- [[Nvidia]] *invested $5B in* [[Intel]] (2025-09, $5B, money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
-- [[US Department of Commerce]] *~10% government stake* [[Intel]] (2025-08, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[White House Trump administration]] *US government took a 9.9% stake at $20.47/share in* [[Intel]] (2025-08-22, money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+### Money (4)
+
+- [[US Department of Commerce]] *~10% government stake* [[Intel]] · 2025-08 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[White House Trump administration]] *US government took a 9.9% stake at $20.47/share in* [[Intel]] · 2025-08-22 · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Nvidia]] *invested $5B in* [[Intel]] · 2025-09 · $5B · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Intel trading meme post]] *preceded price rise of* [[Intel]] · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+
+### Media (1)
+
+- [[Intel Oval Office trading meme]] *depicts trading of* [[Intel]] · 2025-09 · [[C20 Trump's stock purchases and Truth Social posts|C20]]

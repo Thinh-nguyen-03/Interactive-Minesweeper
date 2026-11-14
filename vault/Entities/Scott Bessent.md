@@ -10,9 +10,15 @@ tags:
 ---
 # Scott Bessent
 
-*person*
-
 US Treasury Secretary; reportedly pressed Lutnick over Megaspeed
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 5 claims |
+| Connections | 10 |
+
+## How other claims describe it
 
 - Treasury secretary, CFIUS chair; recipient of Warren/Kim letter.
 - Treasury Secretary; late farmland divestment; Argentina swap
@@ -29,8 +35,13 @@ US Treasury Secretary; reportedly pressed Lutnick over Megaspeed
 
 ## Relationships
 
-- [[Rob Citrone]] *friend and former Soros colleague* [[Scott Bessent]] (political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Scott Bessent]] *chairs* [[CFIUS]] (regulatory) · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Scott Bessent]] *reportedly confronted over Megaspeed (Commerce denies)* [[Howard Lutnick]] (2026-11, political) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[Scott Bessent]] *said swap line would benefit both countries* [[United Arab Emirates]] (2026-04, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[Scott Bessent]] *Secretary* [[US Treasury]] (2025-01, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Regulatory (1)
+
+- [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+
+### Political (4)
+
+- [[Scott Bessent]] *Secretary* [[US Treasury]] · 2025-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Scott Bessent]] *said swap line would benefit both countries* [[United Arab Emirates]] · 2026-04 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Scott Bessent]] *reportedly confronted over Megaspeed (Commerce denies)* [[Howard Lutnick]] · 2026-11 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Rob Citrone]] *friend and former Soros colleague* [[Scott Bessent]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]

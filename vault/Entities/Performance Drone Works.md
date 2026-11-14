@@ -10,9 +10,13 @@ tags:
 ---
 # Performance Drone Works
 
-*company*
-
 Drone maker; conditional OSC loan (Jul 2026)
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Drone maker; conditional OSC loan (Jul 2026)
 
 ## Relationships
 
-- [[Office of Strategic Capital]] *conditional loan to* [[Performance Drone Works]] (2026-07, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+### Money (1)
+
+- [[Office of Strategic Capital]] *conditional loan to* [[Performance Drone Works]] · 2026-07 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]

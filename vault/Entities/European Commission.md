@@ -10,9 +10,13 @@ tags:
 ---
 # European Commission
 
-*government*
-
 Warned Albania the project may breach EU environmental rules; told construction was suspended pending an EIA.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Warned Albania the project may breach EU environmental rules; told construction 
 
 ## Relationships
 
-- [[European Commission]] *warned on EU environmental rules; told construction suspended* [[Albania]] (2026, regulatory) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Regulatory (1)
+
+- [[European Commission]] *warned on EU environmental rules; told construction suspended* [[Albania]] · 2026 · [[C45 Kushner's Albania and Serbia developments|C45]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Gallup 2026 government corruption poll
 
-*event*
-
 Record 89% say government corruption is widespread (Sept 2026)
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Record 89% say government corruption is widespread (Sept 2026)
 
 ## Relationships
 
-- [[Gallup]] *published (record 89% see widespread govt corruption)* [[Gallup 2026 government corruption poll]] (2026-09, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Media (1)
+
+- [[Gallup]] *published (record 89% see widespread govt corruption)* [[Gallup 2026 government corruption poll]] · 2026-09 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]

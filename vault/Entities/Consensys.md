@@ -10,9 +10,13 @@ tags:
 ---
 # Consensys
 
-*company*
-
 Ethereum software firm; SEC suit dismissed Mar 2025
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Ethereum software firm; SEC suit dismissed Mar 2025
 
 ## Relationships
 
-- [[Securities and Exchange Commission]] *dismissed lawsuit* [[Consensys]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+### Regulatory (1)
+
+- [[Securities and Exchange Commission]] *dismissed lawsuit* [[Consensys]] · 2025-03-27 · [[C23 SEC drops crypto-exchange cases; donors|C23]]

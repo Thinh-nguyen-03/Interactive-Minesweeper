@@ -14,9 +14,16 @@ tags:
 ---
 # Trump golden sneakers
 
-*product*
-
 Trump-branded gold shoes.
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 3 |
+| Also known as | Trump Sneakers (Never Surrender high-tops); golden shoes; shoes |
+
+## How other claims describe it
 
 - Gold $399 high-tops unveiled at Sneaker Con in Feb 2024
 
@@ -26,9 +33,14 @@ Trump-branded gold shoes.
 
 ## Relationships
 
-- [[CIC Ventures LLC]] *licensor of* [[Trump golden sneakers]] (2024-02, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
-- [[Donald Trump]] *sells* [[Trump golden sneakers]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
-- [[Trump golden sneakers]] *sneaker and fragrance royalties (2024) to* [[Donald Trump]] (2024, $2.5M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
+### Money (1)
+
+- [[Trump golden sneakers]] *sneaker and fragrance royalties (2024) to* [[Donald Trump]] · 2024 · $2.5M · [[C17 Trump merchandise and the T1 phone|C17]]
+
+### Commercial (2)
+
+- [[CIC Ventures LLC]] *licensor of* [[Trump golden sneakers]] · 2024-02 · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Donald Trump]] *sells* [[Trump golden sneakers]] · [[C17 Trump merchandise and the T1 phone|C17]]
 
 ## Themes
 

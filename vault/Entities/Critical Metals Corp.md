@@ -10,9 +10,13 @@ tags:
 ---
 # Critical Metals Corp
 
-*company*
-
 Owner of Greenland's Tanbreez rare-earth project; Cantor-backed
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Owner of Greenland's Tanbreez rare-earth project; Cantor-backed
 
 ## Relationships
 
-- [[Cantor Fitzgerald]] *major investor in (reported)* [[Critical Metals Corp]] (ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+### Ownership (1)
+
+- [[Cantor Fitzgerald]] *major investor in (reported)* [[Critical Metals Corp]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

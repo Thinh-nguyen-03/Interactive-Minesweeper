@@ -76,72 +76,443 @@
     "The ETFs are run by Yorkville America Equities and Tuttle Capital under a Truth.Fi brand license; TMTG is not the fund manager."
   ],
   "sources": [
-    {"title": "5 'Made in America-Focused' Truth Social ETFs Launch on NYSE", "publisher": "401k Specialist", "url": "https://401kspecialistmag.com/5-made-in-america-focused-truth-social-etfs-launch-on-nyse/", "date": "2025-12-30"},
-    {"title": "Truth Social ETFs Launch Today (press release)", "publisher": "StreetInsider", "url": "https://www.streetinsider.com/Press+Releases/Truth+Social+ETFs+Launch+Today/25788380.html", "date": "2025-12-30"},
-    {"title": "5 Truth Social ETFs launch with anti-DEI screening", "publisher": "ETFdb", "url": "https://etfdb.com/news/2025/12/30/5-truth-social-etfs-launch-anti-dei-screening/", "date": "2025-12-30"},
-    {"title": "Trump Media Launches 5 Truth Social ETFs", "publisher": "Webull/Benzinga", "url": "https://www.webull.com/news/14117613140788224", "date": "2025-12-31"},
-    {"title": "Trump Media and Technology Group to Merge with TAE Technologies", "publisher": "TAE Technologies", "url": "https://tae.com/trump-media-and-technology-group-to-merge-with-tae-technologies/", "date": "2025-12-18"},
-    {"title": "Trump's media company to merge with nuclear fusion startup", "publisher": "Axios", "url": "https://axios.com/2025/12/18/trump-nuclear-fusion", "date": "2025-12-18"},
-    {"title": "Trump Media to merge with TAE Technologies in $6 billion deal", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/news/trump-media-merge-tae-technologies-145054621.html", "date": "2025-12-18"},
-    {"title": "Trump Media to merge with fusion startup TAE Technologies in $6B deal", "publisher": "American Nuclear Society", "url": "https://www.ans.org/news/2025-12-19/article-7632/trump-media-to-merge-with-fusion-startup-tae-technologies-in-6b-deal/", "date": "2025-12-19"},
-    {"title": "Trump Media to merge with CA nuclear fusion company that wants to power AI in $6B deal", "publisher": "ABC7 / AP", "url": "https://abc7.com/post/trump-media-merge-california-nuclear-fusion-company-tae-technologies-wants-power-ai-6-billion-deal/18298408/", "date": "2025-12-18"},
-    {"title": "Trump Media-TAE merger sets no obligation to build fusion plant", "publisher": "ENR", "url": "https://www.enr.com/articles/62247-trump-mediatae-merger-sets-no-obligation-to-build-fusion-plant", "date": "2026"},
-    {"title": "Trump Media-TAE merger S-4 effective; vote Dec. 14", "publisher": "StockTitan", "url": "https://www.stocktitan.net/news/DJT/trump-media-technology-group-and-tae-technologies-announce-ngk2520nvhgn.html", "date": "2026-11"},
-    {"title": "TMTG Form S-4/A", "publisher": "SEC EDGAR", "url": "https://www.sec.gov/Archives/edgar/data/0001849635/000143774926034438/djt20261029_s4a.htm", "date": "2026-10-29"},
-    {"title": "Trump Media taps interim CEO as Devin Nunes steps aside", "publisher": "Fox Business", "url": "https://www.foxbusiness.com/fox-news-politics/trump-media-taps-interim-ceo-devin-nunes-steps-aside", "date": "2026-04-21"},
-    {"title": "Trump Media Drops Truth Social Spinoff, Refocuses on $6 Billion Fusion Merger", "publisher": "Pulse", "url": "https://www.pulse.bot/finance/news/trump-media-drops-truth-social-spinoff-refocuses-on-6-billion-fusion-merger-with-tae-technologies-bcf53690-95fc-4e16-bb0f-7199d378a5ef/", "date": "2026"},
-    {"title": "DJT share price", "publisher": "Upstox", "url": "https://upstox.com/us-stocks/djt-share-price/", "date": "2026-10-30"},
-    {"title": "Trump Media & Technology Group Reports Full-Year 2025 Results", "publisher": "StockTitan", "url": "https://www.stocktitan.net/news/DJT/trump-media-technology-group-reports-full-year-2025-4mvfx7xljcai.html", "date": "2026-02-27"},
-    {"title": "Trump Media DJT $712 million net loss, bitcoin $403 million mark-to-market", "publisher": "SpendNode", "url": "https://www.spendnode.io/blog/trump-media-djt-712-million-net-loss-bitcoin-403-million-mark-to-market-truth-social-3-7-million-revenue/", "date": "2026-02"},
-    {"title": "Trump Media Says Goodbye to CEO Devin Nunes After Taking $712M Net Loss", "publisher": "Mediaite", "url": "https://www.mediaite.com/media/news/trump-media-says-goodbye-to-ceo-devin-nunes-after-taking-712m-net-loss/", "date": "2026-04"},
-    {"title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains", "publisher": "The Block", "url": "https://theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964", "date": "2026-11-09"},
-    {"title": "Trump Media posts $410M profit but crypto hides an operating loss", "publisher": "CryptoSlate", "url": "https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/", "date": "2026-11"}
+    {
+      "title": "5 'Made in America-Focused' Truth Social ETFs Launch on NYSE",
+      "publisher": "401k Specialist",
+      "url": "https://401kspecialistmag.com/5-made-in-america-focused-truth-social-etfs-launch-on-nyse/",
+      "date": "2025-12-30"
+    },
+    {
+      "title": "Truth Social ETFs Launch Today (press release)",
+      "publisher": "StreetInsider",
+      "url": "https://www.streetinsider.com/Press+Releases/Truth+Social+ETFs+Launch+Today/25788380.html",
+      "date": "2025-12-30"
+    },
+    {
+      "title": "5 Truth Social ETFs launch with anti-DEI screening",
+      "publisher": "ETFdb",
+      "url": "https://etfdb.com/news/2025/12/30/5-truth-social-etfs-launch-anti-dei-screening/",
+      "date": "2025-12-30"
+    },
+    {
+      "title": "Trump Media Launches 5 Truth Social ETFs",
+      "publisher": "Webull/Benzinga",
+      "url": "https://www.webull.com/news/14117613140788224",
+      "date": "2025-12-31"
+    },
+    {
+      "title": "Trump Media and Technology Group to Merge with TAE Technologies",
+      "publisher": "TAE Technologies",
+      "url": "https://tae.com/trump-media-and-technology-group-to-merge-with-tae-technologies/",
+      "date": "2025-12-18"
+    },
+    {
+      "title": "Trump's media company to merge with nuclear fusion startup",
+      "publisher": "Axios",
+      "url": "https://axios.com/2025/12/18/trump-nuclear-fusion",
+      "date": "2025-12-18"
+    },
+    {
+      "title": "Trump Media to merge with TAE Technologies in $6 billion deal",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/trump-media-merge-tae-technologies-145054621.html",
+      "date": "2025-12-18"
+    },
+    {
+      "title": "Trump Media to merge with fusion startup TAE Technologies in $6B deal",
+      "publisher": "American Nuclear Society",
+      "url": "https://www.ans.org/news/2025-12-19/article-7632/trump-media-to-merge-with-fusion-startup-tae-technologies-in-6b-deal/",
+      "date": "2025-12-19"
+    },
+    {
+      "title": "Trump Media to merge with CA nuclear fusion company that wants to power AI in $6B deal",
+      "publisher": "ABC7 / AP",
+      "url": "https://abc7.com/post/trump-media-merge-california-nuclear-fusion-company-tae-technologies-wants-power-ai-6-billion-deal/18298408/",
+      "date": "2025-12-18"
+    },
+    {
+      "title": "Trump Media-TAE merger sets no obligation to build fusion plant",
+      "publisher": "ENR",
+      "url": "https://www.enr.com/articles/62247-trump-mediatae-merger-sets-no-obligation-to-build-fusion-plant",
+      "date": "2026"
+    },
+    {
+      "title": "Trump Media-TAE merger S-4 effective; vote Dec. 14",
+      "publisher": "StockTitan",
+      "url": "https://www.stocktitan.net/news/DJT/trump-media-technology-group-and-tae-technologies-announce-ngk2520nvhgn.html",
+      "date": "2026-11"
+    },
+    {
+      "title": "TMTG Form S-4/A",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001849635/000143774926034438/djt20261029_s4a.htm",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Trump Media taps interim CEO as Devin Nunes steps aside",
+      "publisher": "Fox Business",
+      "url": "https://www.foxbusiness.com/fox-news-politics/trump-media-taps-interim-ceo-devin-nunes-steps-aside",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "Trump Media Drops Truth Social Spinoff, Refocuses on $6 Billion Fusion Merger",
+      "publisher": "Pulse",
+      "url": "https://www.pulse.bot/finance/news/trump-media-drops-truth-social-spinoff-refocuses-on-6-billion-fusion-merger-with-tae-technologies-bcf53690-95fc-4e16-bb0f-7199d378a5ef/",
+      "date": "2026"
+    },
+    {
+      "title": "DJT share price",
+      "publisher": "Upstox",
+      "url": "https://upstox.com/us-stocks/djt-share-price/",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "Trump Media & Technology Group Reports Full-Year 2025 Results",
+      "publisher": "StockTitan",
+      "url": "https://www.stocktitan.net/news/DJT/trump-media-technology-group-reports-full-year-2025-4mvfx7xljcai.html",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "Trump Media DJT $712 million net loss, bitcoin $403 million mark-to-market",
+      "publisher": "SpendNode",
+      "url": "https://www.spendnode.io/blog/trump-media-djt-712-million-net-loss-bitcoin-403-million-mark-to-market-truth-social-3-7-million-revenue/",
+      "date": "2026-02"
+    },
+    {
+      "title": "Trump Media Says Goodbye to CEO Devin Nunes After Taking $712M Net Loss",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/trump-media-says-goodbye-to-ceo-devin-nunes-after-taking-712m-net-loss/",
+      "date": "2026-04"
+    },
+    {
+      "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "Trump Media posts $410M profit but crypto hides an operating loss",
+      "publisher": "CryptoSlate",
+      "url": "https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/",
+      "date": "2026-11"
+    },
+    {
+      "title": "Trump Media Technology Group and TAE Technologies announce effectiveness of Form S-4 registration statement for proposed merger",
+      "publisher": "Finviz / company release",
+      "url": "https://finviz.com/news/417799/trump-media-technology-group-and-tae-technologies-announce-effectiveness-of-form-s-4-registration-statement-for-proposed-merger",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "Trump Media Technology Group reports third quarter 2026 results",
+      "publisher": "Finviz / company release",
+      "url": "https://finviz.com/news/419459/trump-media-technology-group-reports-third-quarter-2026-results",
+      "date": "2026-11-09"
+    }
   ],
   "entities": [
-    {"id": "trump-media-technology-group", "name": "Trump Media & Technology Group (DJT)", "type": "company", "description": "Nasdaq-listed parent of Truth Social; FY2025 net loss $712.3M on ~$3.7M revenue."},
-    {"id": "truth-social", "name": "Truth Social", "type": "media", "description": "TMTG's social network; brand used on the ETFs."},
-    {"id": "truth-social-etfs", "name": "Truth Social ETFs (TSSD, TSNF, TSIC and others)", "type": "product", "description": "Five Truth.Fi-branded thematic ETFs launched on NYSE 2025-12-30."},
-    {"id": "yorkville-america-equities", "name": "Yorkville America Equities", "type": "company", "description": "Investment adviser to the Truth Social ETFs."},
-    {"id": "tuttle-capital-management", "name": "Tuttle Capital Management", "type": "company", "description": "Subadviser to the Truth Social ETFs."},
-    {"id": "tae-technologies", "name": "TAE Technologies", "type": "company", "description": "California fusion-energy developer merging with TMTG in an all-stock deal valued at more than $6B."},
-    {"id": "tmtg-tae-merger", "name": "TMTG-TAE merger", "type": "event", "description": "Announced 2025-12-18; shareholder vote scheduled 2026-12-14; not yet closed."},
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US President; largest TMTG shareholder via a revocable trust."},
-    {"id": "donald-trump-jr", "name": "Donald Trump Jr.", "type": "person", "description": "TMTG director; manages the trust holding his father's TMTG shares."},
-    {"id": "devin-nunes", "name": "Devin Nunes", "type": "person", "description": "TMTG CEO 2022 to April 2026; planned co-CEO of the merged company; chairs the President's Intelligence Advisory Board."},
-    {"id": "kevin-mcgurn", "name": "Kevin McGurn", "type": "person", "description": "Interim TMTG CEO from April 2026."},
-    {"id": "michl-binderbauer", "name": "Michl Binderbauer", "type": "person", "description": "TAE Technologies CEO; planned co-CEO of the merged company."},
-    {"id": "richard-painter", "name": "Richard Painter", "type": "person", "description": "Former Bush White House ethics lawyer who called the deal a huge conflict of interest."},
-    {"id": "karoline-leavitt", "name": "Karoline Leavitt", "type": "person", "description": "White House press secretary; denied any family conflicts of interest."},
-    {"id": "alphabet", "name": "Alphabet (Google)", "type": "company", "description": "Investor in TAE Technologies."},
-    {"id": "sec", "name": "U.S. Securities and Exchange Commission", "type": "government", "description": "Declared the TMTG S-4 for the TAE merger effective 2026-11-05."},
-    {"id": "department-of-energy", "name": "U.S. Department of Energy", "type": "government", "description": "Fusion funding and policy agency that TAE lobbied for support."},
-    {"id": "white-house", "name": "White House", "type": "government", "description": "Denied conflict-of-interest concerns over the deal."},
-    {"id": "bitcoin", "name": "Bitcoin", "type": "asset", "description": "Main TMTG treasury asset; price swings drive TMTG's paper losses and gains."}
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group (DJT)",
+      "type": "company",
+      "description": "Nasdaq-listed parent of Truth Social; FY2025 net loss $712.3M on ~$3.7M revenue."
+    },
+    {
+      "id": "truth-social",
+      "name": "Truth Social",
+      "type": "media",
+      "description": "TMTG's social network; brand used on the ETFs."
+    },
+    {
+      "id": "truth-social-etfs",
+      "name": "Truth Social ETFs (TSSD, TSNF, TSIC and others)",
+      "type": "product",
+      "description": "Five Truth.Fi-branded thematic ETFs launched on NYSE 2025-12-30."
+    },
+    {
+      "id": "yorkville-america-equities",
+      "name": "Yorkville America Equities",
+      "type": "company",
+      "description": "Investment adviser to the Truth Social ETFs."
+    },
+    {
+      "id": "tuttle-capital-management",
+      "name": "Tuttle Capital Management",
+      "type": "company",
+      "description": "Subadviser to the Truth Social ETFs."
+    },
+    {
+      "id": "tae-technologies",
+      "name": "TAE Technologies",
+      "type": "company",
+      "description": "California fusion-energy developer merging with TMTG in an all-stock deal valued at more than $6B."
+    },
+    {
+      "id": "tmtg-tae-merger",
+      "name": "TMTG-TAE merger",
+      "type": "event",
+      "description": "Announced 2025-12-18; shareholder vote scheduled 2026-12-14; not yet closed."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; largest TMTG shareholder via a revocable trust."
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "TMTG director; manages the trust holding his father's TMTG shares."
+    },
+    {
+      "id": "devin-nunes",
+      "name": "Devin Nunes",
+      "type": "person",
+      "description": "TMTG CEO 2022 to April 2026; planned co-CEO of the merged company; chairs the President's Intelligence Advisory Board."
+    },
+    {
+      "id": "kevin-mcgurn",
+      "name": "Kevin McGurn",
+      "type": "person",
+      "description": "Interim TMTG CEO from April 2026."
+    },
+    {
+      "id": "michl-binderbauer",
+      "name": "Michl Binderbauer",
+      "type": "person",
+      "description": "TAE Technologies CEO; planned co-CEO of the merged company."
+    },
+    {
+      "id": "richard-painter",
+      "name": "Richard Painter",
+      "type": "person",
+      "description": "Former Bush White House ethics lawyer who called the deal a huge conflict of interest."
+    },
+    {
+      "id": "karoline-leavitt",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "White House press secretary; denied any family conflicts of interest."
+    },
+    {
+      "id": "alphabet",
+      "name": "Alphabet (Google)",
+      "type": "company",
+      "description": "Investor in TAE Technologies."
+    },
+    {
+      "id": "sec",
+      "name": "U.S. Securities and Exchange Commission",
+      "type": "government",
+      "description": "Declared the TMTG S-4 for the TAE merger effective 2026-11-05."
+    },
+    {
+      "id": "department-of-energy",
+      "name": "U.S. Department of Energy",
+      "type": "government",
+      "description": "Fusion funding and policy agency that TAE lobbied for support."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Denied conflict-of-interest concerns over the deal."
+    },
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "type": "asset",
+      "description": "Main TMTG treasury asset; price swings drive TMTG's paper losses and gains."
+    }
   ],
   "relationships": [
-    {"source": "trump-media-technology-group", "target": "truth-social-etfs", "label": "licenses Truth Social brand to / launched via Truth.Fi", "type": "commercial", "date": "2025-12-30"},
-    {"source": "yorkville-america-equities", "target": "truth-social-etfs", "label": "investment adviser of", "type": "commercial", "date": "2025-12-30"},
-    {"source": "tuttle-capital-management", "target": "truth-social-etfs", "label": "subadviser of", "type": "commercial", "date": "2025-12-30"},
-    {"source": "trump-media-technology-group", "target": "tae-technologies", "label": "agreed all-stock merger valued at more than $6B with", "type": "ownership", "date": "2025-12-18", "amount_usd": 6000000000},
-    {"source": "trump-media-technology-group", "target": "tae-technologies", "label": "committed up to $200M cash at signing (+$100M on SEC filing) to", "type": "money", "date": "2025-12-18", "amount_usd": 300000000},
-    {"source": "tae-technologies", "target": "tmtg-tae-merger", "label": "party to", "type": "commercial", "date": "2025-12-18"},
-    {"source": "trump-media-technology-group", "target": "tmtg-tae-merger", "label": "party to", "type": "commercial", "date": "2025-12-18"},
-    {"source": "sec", "target": "tmtg-tae-merger", "label": "declared S-4 effective for", "type": "regulatory", "date": "2026-11-05"},
-    {"source": "donald-trump", "target": "trump-media-technology-group", "label": "largest shareholder (via trust) of", "type": "ownership"},
-    {"source": "donald-trump-jr", "target": "trump-media-technology-group", "label": "board director; trustee of father's shares in", "type": "ownership"},
-    {"source": "donald-trump-jr", "target": "donald-trump", "label": "son of", "type": "family"},
-    {"source": "devin-nunes", "target": "trump-media-technology-group", "label": "CEO until April 2026 of", "type": "advisory", "date": "2026-04-21"},
-    {"source": "kevin-mcgurn", "target": "trump-media-technology-group", "label": "interim CEO of", "type": "advisory", "date": "2026-04-21"},
-    {"source": "michl-binderbauer", "target": "tae-technologies", "label": "CEO of", "type": "advisory"},
-    {"source": "alphabet", "target": "tae-technologies", "label": "investor in", "type": "money"},
-    {"source": "michl-binderbauer", "target": "department-of-energy", "label": "met officials to urge federal fusion funding", "type": "political", "date": "2025-12"},
-    {"source": "richard-painter", "target": "tmtg-tae-merger", "label": "criticized as conflict of interest", "type": "political", "date": "2025-12"},
-    {"source": "karoline-leavitt", "target": "white-house", "label": "press secretary for", "type": "political"},
-    {"source": "trump-media-technology-group", "target": "bitcoin", "label": "holds as treasury asset; marked-down losses drove FY2025 $712M loss", "type": "money", "date": "2025", "amount_usd": 712300000}
+    {
+      "source": "trump-media-technology-group",
+      "target": "truth-social-etfs",
+      "label": "licenses Truth Social brand to / launched via Truth.Fi",
+      "type": "commercial",
+      "date": "2025-12-30"
+    },
+    {
+      "source": "yorkville-america-equities",
+      "target": "truth-social-etfs",
+      "label": "investment adviser of",
+      "type": "commercial",
+      "date": "2025-12-30"
+    },
+    {
+      "source": "tuttle-capital-management",
+      "target": "truth-social-etfs",
+      "label": "subadviser of",
+      "type": "commercial",
+      "date": "2025-12-30"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "tae-technologies",
+      "label": "agreed all-stock merger valued at more than $6B with",
+      "type": "ownership",
+      "date": "2025-12-18",
+      "amount_usd": 6000000000
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "tae-technologies",
+      "label": "committed up to $200M cash at signing (+$100M on SEC filing) to",
+      "type": "money",
+      "date": "2025-12-18",
+      "amount_usd": 300000000
+    },
+    {
+      "source": "tae-technologies",
+      "target": "tmtg-tae-merger",
+      "label": "party to",
+      "type": "commercial",
+      "date": "2025-12-18"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "tmtg-tae-merger",
+      "label": "party to",
+      "type": "commercial",
+      "date": "2025-12-18"
+    },
+    {
+      "source": "sec",
+      "target": "tmtg-tae-merger",
+      "label": "declared S-4 effective for",
+      "type": "regulatory",
+      "date": "2026-11-05"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-media-technology-group",
+      "label": "largest shareholder (via trust) of",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "trump-media-technology-group",
+      "label": "board director; trustee of father's shares in",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "devin-nunes",
+      "target": "trump-media-technology-group",
+      "label": "CEO until April 2026 of",
+      "type": "advisory",
+      "date": "2026-04-21"
+    },
+    {
+      "source": "kevin-mcgurn",
+      "target": "trump-media-technology-group",
+      "label": "interim CEO of",
+      "type": "advisory",
+      "date": "2026-04-21"
+    },
+    {
+      "source": "michl-binderbauer",
+      "target": "tae-technologies",
+      "label": "CEO of",
+      "type": "advisory"
+    },
+    {
+      "source": "alphabet",
+      "target": "tae-technologies",
+      "label": "investor in",
+      "type": "money"
+    },
+    {
+      "source": "michl-binderbauer",
+      "target": "department-of-energy",
+      "label": "met officials to urge federal fusion funding",
+      "type": "political",
+      "date": "2025-12"
+    },
+    {
+      "source": "richard-painter",
+      "target": "tmtg-tae-merger",
+      "label": "criticized as conflict of interest",
+      "type": "political",
+      "date": "2025-12"
+    },
+    {
+      "source": "karoline-leavitt",
+      "target": "white-house",
+      "label": "press secretary for",
+      "type": "political"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "bitcoin",
+      "label": "holds as treasury asset; marked-down losses drove FY2025 $712M loss",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 712300000
+    }
   ],
   "leads": [
-    {"title": "TMTG sells faster access to Trump's posts (Truth API) to trading firms", "why_connected": "Q3 2026 revenue tripled partly from selling low-latency access to Trump's own Truth Social posts to clients such as Bloomberg and Susquehanna; this monetizes market-moving presidential statements.", "entities": ["trump-media-technology-group", "truth-social", "donald-trump"], "source_url": "https://www.adn.com/nation-world/2026/11/10/sales-of-faster-access-to-trumps-social-posts-helped-triple-his-media-companys-revenue/"},
-    {"title": "TAE / fusion industry lobbying DOE for federal funding during merger talks", "why_connected": "TAE's CEO met DOE officials days before the TMTG merger; check for any subsequent DOE fusion awards or policy favoring TAE.", "entities": ["tae-technologies", "michl-binderbauer", "department-of-energy", "trump-media-technology-group"], "source_url": "https://abc7.com/post/trump-media-merge-california-nuclear-fusion-company-tae-technologies-wants-power-ai-6-billion-deal/18298408/"},
-    {"title": "TMTG board exits: Lighthizer and Swider resignations, Nunes departure", "why_connected": "Leadership churn at TMTG in March-April 2026 around the pending TAE deal; worth checking for reasons and disclosures.", "entities": ["trump-media-technology-group", "devin-nunes", "kevin-mcgurn"], "source_url": "https://www.foxbusiness.com/fox-news-politics/trump-media-taps-interim-ceo-devin-nunes-steps-aside"}
-  ]
+    {
+      "title": "TMTG sells faster access to Trump's posts (Truth API) to trading firms",
+      "why_connected": "Q3 2026 revenue tripled partly from selling low-latency access to Trump's own Truth Social posts to clients such as Bloomberg and Susquehanna; this monetizes market-moving presidential statements.",
+      "entities": [
+        "trump-media-technology-group",
+        "truth-social",
+        "donald-trump"
+      ],
+      "source_url": "https://www.adn.com/nation-world/2026/11/10/sales-of-faster-access-to-trumps-social-posts-helped-triple-his-media-companys-revenue/"
+    },
+    {
+      "title": "TAE / fusion industry lobbying DOE for federal funding during merger talks",
+      "why_connected": "TAE's CEO met DOE officials days before the TMTG merger; check for any subsequent DOE fusion awards or policy favoring TAE.",
+      "entities": [
+        "tae-technologies",
+        "michl-binderbauer",
+        "department-of-energy",
+        "trump-media-technology-group"
+      ],
+      "source_url": "https://abc7.com/post/trump-media-merge-california-nuclear-fusion-company-tae-technologies-wants-power-ai-6-billion-deal/18298408/"
+    },
+    {
+      "title": "TMTG board exits: Lighthizer and Swider resignations, Nunes departure",
+      "why_connected": "Leadership churn at TMTG in March-April 2026 around the pending TAE deal; worth checking for reasons and disclosures.",
+      "entities": [
+        "trump-media-technology-group",
+        "devin-nunes",
+        "kevin-mcgurn"
+      ],
+      "source_url": "https://www.foxbusiness.com/fox-news-politics/trump-media-taps-interim-ceo-devin-nunes-steps-aside"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "TAE merger still pending: S-4 effective Nov 5, 2026, record date Nov 2, closing expected by year-end",
+      "Q3 2026 net income of $409.7M on $3.0M revenue, driven by crypto gains; nine-month 2026 net loss about $234.2M",
+      "Merger terms: all-stock, more than $6B, about 50/50 split"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No factual changes. The company releases and The Block/CryptoSlate coverage match the file. The Dec 14, 2026 vote date was not independently re-confirmed in search snippets, which show only the Nov 2 record date and a year-end close target; it rests on the S-4/A already cited. The FY2025 $712.3M loss and the ETF details were not re-searched, since they are sourced to the 10-K and fund launch releases."
+    ],
+    "new_sources": [
+      {
+        "title": "Trump Media Technology Group and TAE Technologies announce effectiveness of Form S-4 registration statement for proposed merger",
+        "publisher": "Finviz / company release",
+        "url": "https://finviz.com/news/417799/trump-media-technology-group-and-tae-technologies-announce-effectiveness-of-form-s-4-registration-statement-for-proposed-merger",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Trump Media Technology Group reports third quarter 2026 results",
+        "publisher": "Finviz / company release",
+        "url": "https://finviz.com/news/419459/trump-media-technology-group-reports-third-quarter-2026-results",
+        "date": "2026-11-09"
+      }
+    ]
+  }
 }

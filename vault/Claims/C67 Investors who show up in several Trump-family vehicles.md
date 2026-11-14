@@ -4,341 +4,493 @@ kind: "claim"
 title: "Investors who show up in several Trump-family vehicles"
 verdict: "mostly-accurate"
 confidence: "medium"
-origin: "follow-up"
+origin: "connection-hunt"
 aliases:
   - "C67"
 tags:
   - "claim"
-  - "origin/follow-up"
+  - "origin/connection-hunt"
   - "verdict/mostly-accurate"
 ---
 # C67: Investors who show up in several Trump-family vehicles
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Connection hunt
 
-## Lead investigated
+## Bottom line
 
-> Connection hunt: parties that put money into more than one Trump-family venture or bought several products — Justin Sun (WLF, top $TRUMP holder/dinner, Tron via Dominari), DWF Labs, Web3Port, Oddiyana, Aqua 1 (UAE fund that bought $100M WLFI), MGX/Aryam, Hut 8, Crypto.com, Jump, Kraken, GD Culture Group and other foreign/Chinese-linked $TRUMP treasury buyers, Bill Zanker, Gulf developers, 1789 LPs, attendees of the $TRUMP dinner who had regulatory matters. Identify every repeat investor, their nationality/state links, amounts, and any US government decision affecting them afterwards.
+Only a few parties are documented putting money into more than one Trump-family vehicle.
 
-## Summary
+## What holds up
 
-Only a few parties are documented putting money into more than one Trump-family vehicle. Justin Sun is the clearest case: WLF ($75M), $TRUMP (top holder, dinner, a $100M pledge), a Dominari-placed Tron listing and an ALT5 pledge, followed by an SEC dismissal in 2026. The Tahnoon network funded WLF equity, USD1 and reportedly WLF's trust bank, and holds 15% of the Trump-approved TikTok JV. Per the NYT, Web3Port and the 'UAE' Aqua 1 trace to one UK money-laundering suspect, Bobby Zhou, for about $100M+ of WLFI. Crypto.com is the most frequent commercial counterparty and donor. Most other names in the brief (DWF, Oddiyana, Hut 8, DRW, Kraken, GD Culture) appear in a single vehicle, and no investment is shown to have caused any government decision.
+- Justin Sun is the most extensive documented repeat investor: WLF tokens, the $TRUMP coin (top holder, dinner guest, a $100M buy pledge), a Dominari-arranged US listing for Tron, and a pledge to buy ALT5 shares.
+- Tahnoon bin Zayed's network shows up in at least four Trump-family or Trump-ally vehicles: WLF equity (Aryam), USD1 (MGX), WLF's trust bank (StringZ, reported), and Kushner's Affinity (Lunate) (mostly accurate)
+- Web3Port and Aqua 1, presented as unrelated buyers (a Hong Kong-linked market maker in January 2025, a 'UAE fund' in June 2025), trace to the same person, Guren 'Bobby' Zhou, who is under a UK money-laundering investigation (mostly accurate)
+- Crypto.com is the most frequent commercial counterparty across Trump Media products, and it is also a top donor to the main pro-Trump super PAC.
+- Kraken and DRW each have one documented role in a Trump-family vehicle and a dropped SEC case. Hut 8 has one large vehicle (American Bitcoin) (mostly accurate)
+- The top $TRUMP holders and dinner guests were mostly foreign, and at least one (Sun) had a pending US enforcement matter (mostly accurate)
+- China-linked Nasdaq small caps (GD Culture Group, Addentax) announced $TRUMP-coin treasury purchases, reportedly to keep their listings alive (mostly accurate)
+- Bill Zanker is a repeat operator rather than an investor: Fight Fight Fight runs $TRUMP, proposed a TRUMP treasury company and clashed with WLF over a wallet (mostly accurate)
+- Gulf state-linked developers and funds are repeat counterparties across the Trump Organization, Kushner and Witkoff (Qatar: Qatari Diar and QIA; Saudi: PIF and Dar Global).
 
-## Sub-claims
+## What needs correcting
 
-- **Confirmed**: Justin Sun is the most extensive documented repeat investor: WLF tokens, the $TRUMP coin (top holder, dinner guest, a $100M buy pledge), a Dominari-arranged US listing for Tron, and a pledge to buy ALT5 shares.
-  - DOCUMENTED, with Sun's own announcements and multiple outlets. (1) WLF: $30M on 2024-11-25, then $45M via TRON DAO around 2025-01-20, $75M in all; he was named WLF adviser on 2024-11-26 (C05). (2) $TRUMP: he was the top-ranked holder at the 2025-05-22 dinner (more than 1.43M TRUMP), and on 2025-07-09 he posted 'We are committed to buying $100 million of TRUMP' days before a roughly $474M unlock. Whether the full $100M was executed is not confirmed. A Yahoo Finance item cites a stake of about 545M tokens, which matches the size of his frozen WLFI rather than any TRUMP holding. No reliable figure for his TRUMP holdings after July 2025 was found. (3) Tron Inc.: Dominari Securities, in which both Trump sons hold about 6.7% each and serve as advisers, was exclusive placement agent on SRM Entertainment's 2025-06-16 $100M (up to $210M) TRX-treasury deal that became Tron Inc. Eric Trump denies any role (C47). (4) ALT5/WLFI: on 2025-09-05, one day after WLF froze his tokens, Sun pledged $10M each in ALT5 Sigma shares and WLFI. Completion is UNVERIFIED. Nationality: China-born (described by outlets as a Chinese entrepreneur). Tron is a private network, not state-owned. US government decisions afterwards: the SEC jointly sought a stay of its 2023 fraud case on 2025-02-26, and on 2026-03-05 it dismissed all claims against Sun while Rainberry paid $10M. Context: the SEC's Kraken, Coinbase and Binance retreats show a sector-wide shift. The relationship later collapsed into cross-lawsuits (April-May 2026). Nothing shows the investments bought the SEC outcome.
-  - <https://cointelegraph.com/news/justin-sun-invests-30-million-trump-world-liberty-financial>
-  - <https://invezz.com/news/2025/01/20/tron-dao-raises-investment-to-75m-in-trump-backed-world-liberty-financial-ahead-of-inauguration/>
-  - <https://www.theblock.co/amp/post/355633/lamar-odom-justin-sun-party-at-trumps-memecoin-gala-as-lawmakers-blast-selling-access>
-  - <https://www.theblock.co/post/361874/justin-sun-commits-to-buying-100-million-in-trump-memecoins>
-  - <https://www.dlnews.com/articles/people-culture/justin-sun-pledges-to-buy-trump-memecoin-days-before-token-unlock>
-  - <https://www.nbcnewyork.com/news/business/money-report/justin-suns-tron-to-go-public-through-reverse-merger-in-deal-led-by-trump-linked-bank/6304541/>
-  - <https://decrypt.co/325516/eric-trump-denies-involvement-tron-nasdaq-deal>
-  - <https://crypto.news/justin-sun-plans-to-invest-20m-in-wlfi-and-alts/>
-  - <https://cryptobriefing.com/justin-sun-world-liberty-token-freeze>
-  - <https://www.theblock.co/post/343635/sec-and-justin-sun-look-to-explore-a-potential-resolution>
-  - <https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26496>
-- **Mostly accurate**: Tahnoon bin Zayed's network shows up in at least four Trump-family or Trump-ally vehicles: WLF equity (Aryam), USD1 (MGX), WLF's trust bank (StringZ, reported), and Kushner's Affinity (Lunate).
-  - Aryam Investment 1: $500M for 49% of WLF, signed around 2025-01-16. This is DOCUMENTED by the WSJ and many outlets; WLF acknowledged an unnamed outside investor. MGX: settled its $2B Binance stake in USD1, announced 2025-05-01 (DOCUMENTED). StringZ Holding: a passive investor in WLTC Holdings per the OCC's 2026-08-14 conditional approval; its Tahnoon backing and 49% stake are SINGLE-SOURCE (WSJ, anonymous sources, 2026-08-27). Lunate: Bloomberg reported on 2024-12-20 that it put more money into Affinity; Lunate's tie to Tahnoon runs through a Tahnoon-overseen parent, per C57 (DOCUMENTED, but one step removed). These are separate legal entities. Treating them as one 'investor' is our own aggregation by common patron, and we mark that aggregation INFERRED; no source calls them a single investor. US decisions affecting the network afterwards: the US-UAE AI chip framework (May 2025) and G42 licences (about Nov 2025); Trump's 2025-09-25 executive order approving the TikTok divestiture framework, with MGX taking 15% of TikTok USDS Joint Venture at closing on 2026-01-22; and the OCC's conditional charter for WLF's trust company with StringZ as an investor. MGX had already joined Stargate in January 2025. WLF, MGX, the White House and Trump deny any link to policy.
-  - <https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931>
-  - <https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal>
-  - <https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971>
-  - <https://www.bloomberg.com/news/articles/2024-12-20/jared-kushner-s-affinity-gets-1-5-billion-more-from-qatar-abu-dhabi-s-lunate>
-  - <https://www.macrumors.com/2025/09/25/tiktok-trump-executive-order/>
-  - <https://fortune.com/2025/12/19/tiktok-agrees-u-s-joint-venture-deal-with-oracle-silver-lake-and-mgx/>
-  - <https://www.marketscreener.com/news/a-joint-venture-between-oracle-corporation-silver-lake-technology-management-l-l-c-and-mgx-fund-m-ce7e58d3de80f020>
-  - <https://www.middleeastainews.com/p/us-approves-up-to-70000-advanced>
-  - <https://openai.com/index/announcing-the-stargate-project/>
-  - <https://www.forbes.com/sites/zacheverson/2025/10/15/mgx-abu-dhabi-tiktok-trump-usd1-binance-aligned-data-centers/>
-- **Mostly accurate**: Web3Port and Aqua 1, presented as unrelated buyers (a Hong Kong-linked market maker in January 2025, a 'UAE fund' in June 2025), trace to the same person, Guren 'Bobby' Zhou, who is under a UK money-laundering investigation.
-  - This is the most under-reported repeat buyer, with a chain of three layers. (a) Web3Port announced a WLFI purchase in January 2025 (reported as $10M; Arkham, via the NYT, traced about $20M from a Web3Port-controlled wallet that month). (b) Aqua 1 Foundation, described as UAE-based with a newly created website and little history, announced a $100M WLFI purchase on 2025-06-26 (DOCUMENTED). Arkham attributes about $80M of that to a wallet likely controlled by Aqua 1. (c) In July 2025, independent journalist Jacob Silverman and BeInCrypto alleged shared infrastructure with Web3Port, a market maker accused of manipulation and reportedly expelled from exchanges in 2023 (the MOVE dump). Aqua 1 and co-founder 'Dave Lee' denied any connection. (d) The NYT (2026-08-09, known here only through The Block, Cointelegraph, Unchained, AML Intelligence and IBTimes) reported that a BVI Web3Port entity renamed itself Aqua 1 GP Limited two weeks before the $100M announcement. It named Zhou as the figure behind the purchase: he was arrested in Britain in 2021 on suspicion of money laundering, has not been charged, and UK officials say the probe remains active. It reported that up to $75M of the $100M went to a company controlled by Trump and his sons, with the Witkoff family also benefiting. Caixin (2026-08-26) calls Zhou a 'blacklisted Chinese businessman'; its text could not be fetched here, so the basis for 'blacklisted' is UNVERIFIED. Evidence grade: DOCUMENTED for the purchases and the denial; the Zhou identification is SINGLE-SOURCE (NYT investigation, with Reuters reportedly also identifying him), relayed by several outlets. Zhou's representatives disputed the portrayal without naming errors, and the source of funds is unknown. US government action afterwards: none found. No US probe of the purchase is reported, which is itself notable.
-  - <https://www.theblock.co/news/defi/2025-06-26-trump-linked-world-liberty-sells-100-million-in-wlfi-tokens-to-uae-based-fund-359870>
-  - <https://decrypt.co/327205/trump-world-liberty-crypto-project-100-million-uae-fund>
-  - <https://www.theblock.co/news/business/2025-07-15-aqua1-web3port-world-liberty-362612>
-  - <https://cointelegraph.com/magazine/wlf-investor-aqua1-offers-few-answers-web3port>
-  - <https://beincrypto.com/shadowy-entity-trump-crypto-windfall-revealed>
-  - <https://forklog.com/en/buyer-of-trump-tokens-suspected-in-move-token-dump/>
-  - <https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221>
-  - <https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump>
-  - <https://unchainedcrypto.com/world-libertys-100-million-aqua-1-buyer-tied-to-active-uk-money-laundering-probe/>
-  - <https://www.amlintelligence.com/2026/08/news-trump-crypto-firm-got-100m-from-businessman-under-uk-money-laundering-investigation/>
-  - <https://www.ibtimes.co.uk/trump-crypto-venture-100m-investment-1813193>
-  - <https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html>
-- **Confirmed**: Crypto.com is the most frequent commercial counterparty across Trump Media products, and it is also a top donor to the main pro-Trump super PAC.
-  - DOCUMENTED (company releases, FEC filings, OCC record). Ties to Trump-family vehicles, in order: the Truth.Fi/'Made in America' ETF partnership with TMTG (2025-03-24); custodian of TMTG's bitcoin treasury (2025-05-27, alongside Anchorage); the $6.4B Trump Media Group CRO Strategy plus an agreed $50M purchase of TMTG stock (2025-08-26; closing of the $50M unconfirmed; the venture was mutually terminated on 2026-08-07); the Truth Predict partner (2025-10-28; shelved August 2026 for a marketing deal); and minter and custodian of TMTG's shareholder token (announced 2025-12-31). Political money: about $35M to MAGA Inc. plus $1M to the inauguration. US decisions afterwards: the SEC closed its probe with no action on 2025-03-27 (three days after the ETF tie-up); the CFTC filed an amicus brief backing Crypto.com's side on 2026-02-17; and the OCC conditionally approved Foris DAX National Trust Bank on 2026-02-23. Crypto.com is a services and commercial partner, not an equity investor in a family entity except through the $50M TMTG share purchase. Crypto.com denies any link, and no quid pro quo is documented.
-  - <https://www.theblock.co/amp/post/347850/trumps-media-company-partners-with-crypto-com-to-launch-etfs-made-up-of-digital-assets-and-stocks-made-in-america>
-  - <https://www.theblock.co/post/355829/trump-media-establishes-corporate-bitcoin-treasury-with-2-5-billion-offering>
-  - <https://decrypt.co/336876/trump-media-crypto-com-reveal-6-4-billion-cronos-treasury-plan>
-  - <https://www.axios.com/2025/10/28/truth-social-prediction-markets>
-  - <https://cryptobriefing.com/trump-media-and-crypto-com-terminate-planned-cro-treasury-deal/>
-  - <https://decrypt.co/359029/after-donating-35-million-trump-pac-crypto-com-scores-wins-regulators>
-  - <https://www.theblock.co/post/348558/crypto-com-says-secs-investigation-has-been-shut-with-no-plan-to-pursue-charges>
-  - <https://www.theblock.co/post/390241/cftc-claims-exclusive-federal-authority-over-prediction-markets-in-new-brief-clashing-with-states>
-  - <https://www.americanbanker.com/payments/news/crypto-com-gets-conditional-approval-for-occ-trust-charter>
-  - <https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest>
-- **Partly accurate**: DWF Labs bought $25M of WLFI and became a USD1 liquidity provider. It is a repeat counterparty within the WLF complex, but no other Trump vehicle was found.
-  - DOCUMENTED: DWF Labs (Dubai-based; managing partner Andrei Grachev) bought $25M of WLFI in a private deal announced 2025-04-16. Accountable.us traced 25M USDC in and 250M WLFI out. Alongside it, DWF opened a New York office and committed to fee-free market-making for USD1. That makes it both a token buyer and a service provider for the same family-linked issuer. Background: watchdogs (Accountable.us) and The Nation cite manipulation allegations against DWF and a disputed Russian legal history for Grachev; these are allegations, and DWF disputes them. In this pass we found no DWF purchase of $TRUMP or of a family-linked listed company, so the 'several vehicles' premise is UNVERIFIED for DWF. US government action afterwards: none found. 'Engage more directly with U.S. regulators' was DWF's own stated aim.
-  - <https://www.dwf-labs.com/news/541-us-expansion-wlfi-crypto-investment-announcement>
-  - <https://www.zawya.com/en/world/americas/crypto-firm-dwf-labs-buys-25mln-of-trumps-world-liberty-financial-tokens-kwepxemq>
-  - <https://cointelegraph.com/news/wlfi-investment-25-million-dwf-labs-usd1-stablecoin>
-  - <https://accountable.us/report-trumps-crypto-venture-sold-25m-in-tokens-to-dubai-based-firm-suspected-of-market-manipulation>
-  - <https://www.thenation.com/article/society/andrei-grachev-dlw-labs-world-liberty-financial-trump/tnamp/>
-- **Partly accurate**: Jump Trading appears as WLFI's likely market maker and as a paying subscriber to TMTG's Truth API.
-  - Two links, both below 'documented'. (1) WLFI: on-chain trackers reported WLF multisig transfers to Jump-associated addresses, about 500M WLFI (about $83M) in one report and about 250M WLFI over three months to November 2025 in another. Analysts infer a liquidity or market-making arrangement, which neither party has confirmed: INFERRED by on-chain analysts. (2) Truth API: Reuters (2026-10-28, anonymous sources) named Jump, Susquehanna and Bloomberg as subscribers to the $60K-$100K-a-month feed of 'market-moving Truths': SINGLE-SOURCE. Jump declined to comment. Regulatory history: Jump's Tai Mo Shan settled with the SEC for $123M in December 2024, before the inauguration, and a 2024 CFTC probe was reported. We found no record of how that probe ended, so no post-2025 US decision benefiting Jump is documented.
-  - <https://www.kucoin.com/news/flash/world-liberty-financial-transfers-83-1m-wlfi-to-jump-trading>
-  - <https://www.cryptopolitan.com/world-liberty-250m-wlfi-to-jump-trading/>
-  - <https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say>
-  - <https://theblock.co/news/regulation/2024-12-21-sec-fines-jump-trading-subsidiary-123-million-for-propping-up-terrausd-stablecoin-during-depeg-332096>
-  - <https://www.theblock.co/post/301113/us-cftc-investigating-trading-firm-jumps-crypto-activity-fortune>
-- **Mostly accurate**: Kraken and DRW each have one documented role in a Trump-family vehicle and a dropped SEC case. Hut 8 has one large vehicle (American Bitcoin).
-  - Kraken: ALT5 Sigma's 2025-08-11 release names Kraken as 'Asset Manager' for the WLFI treasury (DOCUMENTED, company release). The SEC dropped its Kraken case in March 2025, before this role, and the Kansas City Fed granted Kraken Financial a limited ('skinny') master account in March 2026, the first for a crypto firm (DOCUMENTED). We found no Kraken investment in other family vehicles. DRW: DRW Investments bought about $100M of TMTG stock in the May 2025 bitcoin-treasury raise; the SEC dismissed Cumberland DRW with prejudice on 2025-03-27, agreed in principle on 2025-02-20 (DOCUMENTED, C19). Hut 8: it contributed about 61,000 miners for 80% of American Bitcoin (2025-03-31; DOCUMENTED, C18); no second vehicle and no US decision affecting it were found. None of these is a multi-vehicle investor on the current record; each is a single-vehicle counterparty with a regulatory matter that sits nearby in time.
-  - <https://www.businesswire.com/news/home/20250811959222/en/ALT5-Sigma-Corporation-Announces-$1.5-Billion-Registered-Direct-Offering-and-Concurrent-Private-Placement-to-Initiate-World-Liberty-Financial-$WLFI-Treasury-Strategy>
-  - <https://decrypt.co/312072/sec-drops-cases-kraken-consensys-cumberland-drw>
-  - <https://news.bloomberglaw.com/crypto/kraken-is-first-crypto-firm-to-secure-fed-payment-access-2>
-  - <https://www.lummis.senate.gov/press-releases/lummis-annouces-historic-approval-of-federal-reserve-master-account-for-kraken/>
-  - <https://coingape.com/trump-media-secures-100m-investment-from-drw-to-fund-its-2-5-billion-bitcoin-bet>
-  - <https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26276>
-  - <https://fortune.com/crypto/2025/03/31/eric-trump-donald-trump-jr-american-bitcoin-hut-8/>
-- **Mostly accurate**: The top $TRUMP holders and dinner guests were mostly foreign, and at least one (Sun) had a pending US enforcement matter.
-  - DOCUMENTED analyses of exchange use, which is a proxy, not proof of nationality. Bloomberg found that 19 of the top 25 leaderboard wallets used exchanges that exclude US customers, and at least 56% of the top 220. CBS found at least 52 of the top 100. Fortune found 18 of the top 25 had touched Binance. Binance, Bybit and OKX were the main funding venues. Identified guests include Justin Sun (SEC case pending at the time) and Singapore-based MemeCore, whose wallet kept its full balance while most top-10 wallets sold. The full guest list was never released. Beyond Sun, we found no guest with a documented US regulatory matter, so that part of the brief is UNVERIFIED.
-  - <https://www.bloomberg.com/graphics/2025-trump-memecoin-foreign-crypto-traders>
-  - <https://cbsnews.com/news/trump-meme-coin-dinner-foreign-top-bidders>
-  - <https://www.nbcmiami.com/news/business/money-report/trump-meme-coin-dinner-likely-to-include-mostly-non-americans-based-on-top-trump-holders/3617229/>
-  - <https://theintercept.com/2025/05/22/trump-crypto-memecoin-dinner-guests/>
-  - <https://decrypt.co/321333/trump-crypto-dinner-who-is-going>
-  - <https://decrypt.co/321849/trump-crypto-dinner-vips-dumped-coins?amp=1>
-  - <https://www.theblock.co/amp/post/355633/lamar-odom-justin-sun-party-at-trumps-memecoin-gala-as-lawmakers-blast-selling-access>
-- **Mostly accurate**: China-linked Nasdaq small caps (GD Culture Group, Addentax) announced $TRUMP-coin treasury purchases, reportedly to keep their listings alive.
-  - DOCUMENTED, from company announcements and WSJ and Semafor reporting. GD Culture (GDC) announced up to $300M in share sales to a BVI investor to buy bitcoin and TRUMP (2025-05-13), then took over BVI-registered Pallas Capital for more than 39M shares, adding 7,500 BTC (September 2025); in February 2026 its board authorized selling BTC for a buyback. Addentax, a Chinese garment maker, said it was in talks to buy up to $800M of TRUMP and bitcoin. Houston-based Fr8Tech set up a $20M TRUMP treasury (about $2M reportedly bought), framed around US-Mexico trade. The WSJ framed the China-linked purchases as delisting-avoidance plays. These are single-product buyers, not repeat investors. The claim that a Hong Kong fund was among Pallas's sellers rests on one dossier site and is UNVERIFIED. How much TRUMP any of them actually bought is not confirmed, and no US government decision affecting them was found.
-  - <https://www.theblock.co/news/business/2025-05-13-nasdaq-listed-gd-culture-group-bitcoin-354030>
-  - <https://www.theblock.co/amp/post/371148/nasdaq-listed-crypto-treasury-gd-culture-to-add-7500-btc-after-pallas-capital-acquisition-closes>
-  - <https://cointelegraph.com/news/gd-culture-board-bitcoin-treasury-sales>
-  - <https://feeds2.benzinga.com/markets/cryptocurrency/25/05/45397930/trump-memecoin-adopted-by-china-linked-nasdaq-company-as-treasury-reserve-asset>
-  - <https://www.itiger.com/news/2537939621>
-  - <https://www.semafor.com/article/05/22/2025/trump-purchases-help-chinese-firms>
-  - <https://www.theblock.co/post/352884/nasdaq-listed-fr8tech-to-create-20-million-trump-treasury-to-support-fair-us-mexico-trade>
-- **Mostly accurate**: Bill Zanker is a repeat operator rather than an investor: Fight Fight Fight runs $TRUMP, proposed a TRUMP treasury company and clashed with WLF over a wallet.
-  - DOCUMENTED: Fight Fight Fight LLC (owned by Celebration Cards LLC, run by Zanker) co-holds the TRUMP supply with CIC Digital (C01, C40). Bloomberg (2025-10-08) reported it sought $200M to $1B for a TRUMP digital-asset treasury, which remained a proposal (C55). The same coverage says a Trump-branded wallet plan was shelved after a dispute with WLF. Senators wrote to FFF on 2025-05-06 and 2026-04-08. Zanker earns from the coin as a licensee and operator; no source shows him investing his own money in other family vehicles. That the 'Celebration Cards LLC' owner and the 'Celebration Coins' royalty line on Trump's OGE filing share a name is our own observation (INFERRED); no source explains it.
-  - <https://www.theblock.co/news/business/2025-10-08-trump-memecoin-issuer-plans-funding-373745>
-  - <https://www.bloomberg.com/news/articles/2025-10-08/trump-memecoin-issuer-zanker-is-planning-digital-asset-treasury-company>
-  - <https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf>
-- **Confirmed**: Gulf state-linked developers and funds are repeat counterparties across the Trump Organization, Kushner and Witkoff (Qatar: Qatari Diar and QIA; Saudi: PIF and Dar Global).
-  - DOCUMENTED (C16, C31, C53, C56, C57). Qatar: Qatari Diar is the partner on the Trump golf and villa project at Simaisma (2025-04-30); QIA is an Affinity LP and bought the Park Lane Hotel from a Witkoff-Mubadala JV (2023); and the Qatari state supplied the 747-8 accepted on 2025-05-21. Arms-sale approvals followed in 2025-26. Saudi Arabia: PIF put $2B into Affinity and co-led the $55B EA buyout with Affinity (closed August 2026), and PIF-funded LIV events ran at Trump courses. Dar Global (Dar Al Arkan) is the Trump Organization's licensee in Oman, Jeddah, Dubai, Riyadh/Diriyah and on the Qatar project. US decisions afterwards include the May 2025 Riyadh deals, F-35 approval and major non-NATO ally status (November 2025), and the 123 nuclear agreement (July 2026). No link between any deal and any decision is documented, and all parties deny one.
-  - <https://www.yahoo.com/news/exclusive-trumps-first-real-estate-142302695.html>
-  - <https://www.marketscreener.com/news/dar-global-and-trump-organization-launch-10-billion-saudi-developments-ce7e58dad98ef32d>
-  - <https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/>
-  - <https://www.bloomberg.com/news/articles/2024-12-20/jared-kushner-s-affinity-gets-1-5-billion-more-from-qatar-abu-dhabi-s-lunate>
-- **Unverified**: 1789 Capital's limited partners overlap with other Trump-family investors.
-  - 1789's LP base is not public. Rep. Raskin's 2026-08-26 letter seeks information on insider access, and 1789 rejected the inquiry (2026-09-09). We found no source naming an LP who also invested in WLF, $TRUMP, TMTG or another family vehicle. Discarded for lack of sourcing.
-  - <https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-malik-buskirk-trump-jr-1789-capital-re-insider-access.pdf>
-  - <https://www.axios.com/2026/09/09/1789-capital-trump-jr-jamie-raskin>
-
-## Corrections
-
-- The brief calls Aqua 1 a 'UAE fund'. The NYT reports it traces to Chinese businessman Guren 'Bobby' Zhou via a renamed BVI Web3Port entity, so Web3Port and Aqua 1 are likely one buyer, not two.
+- DWF Labs bought $25M of WLFI and became a USD1 liquidity provider. It is a repeat counterparty within the WLF complex, but no other Trump vehicle was found (partly accurate)
+- Jump Trading appears as WLFI's likely market maker and as a paying subscriber to TMTG's Truth API (partly accurate)
+- **Claim:** The brief calls Aqua 1 a 'UAE fund'  
+  **Record:** The NYT reports it traces to Chinese businessman Guren 'Bobby' Zhou via a renamed BVI Web3Port entity, so Web3Port and Aqua 1 are likely one buyer, not two.
 - DWF Labs, Oddiyana, Hut 8, DRW and Kraken are not documented in more than one Trump-family vehicle. Each appears in one, sometimes in more than one role.
 - GD Culture Group announced plans to buy TRUMP. Actual TRUMP holdings are not confirmed, and the Hong Kong seller claim about Pallas is unverified.
 - Bill Zanker is an operator and licensee of $TRUMP, not an outside investor.
 - Sun's $100M $TRUMP buy and his $10M ALT5 and $10M WLFI buys were public pledges; completion is unconfirmed.
 
+## What is unproven
+
+- 1789 Capital's limited partners overlap with other Trump-family investors.
+
+## In more detail
+
+- Justin Sun is the clearest case: WLF ($75M), $TRUMP (top holder, dinner, a $100M pledge), a Dominari-placed Tron listing and an ALT5 pledge, followed by an SEC dismissal in 2026.
+- The Tahnoon network funded WLF equity, USD1 and reportedly WLF's trust bank, and holds 15% of the Trump-approved TikTok JV.
+- Per the NYT, Web3Port and the 'UAE' Aqua 1 trace to one UK money-laundering suspect, Bobby Zhou, for about $100M+ of WLFI.
+- Crypto.com is the most frequent commercial counterparty and donor.
+- Most other names in the brief (DWF, Oddiyana, Hut 8, DRW, Kraken, GD Culture) appear in a single vehicle, and no investment is shown to have caused any government decision.
+
+## Connections searched for
+
+> Connection hunt: parties that put money into more than one Trump-family venture or bought several products — Justin Sun (WLF, top $TRUMP holder/dinner, Tron via Dominari), DWF Labs, Web3Port, Oddiyana, Aqua 1 (UAE fund that bought $100M WLFI), MGX/Aryam, Hut 8, Crypto.com, Jump, Kraken, GD Culture Group and other foreign/Chinese-linked $TRUMP treasury buyers, Bill Zanker, Gulf developers, 1789 LPs, attendees of the $TRUMP dinner who had regulatory matters. Identify every repeat investor, their nationality/state links, amounts, and any US government decision affecting them afterwards.
+
+## Follow-up checks
+
+- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Pending
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Pending
+
+## Sub-claims
+
+### 1. Justin Sun is the most extensive documented repeat investor: WLF tokens, the $TRUMP coin (top holder, dinner guest, a $100M buy pledge), a Dominari-arranged US listing for Tron, and a pledge to buy ALT5 shares.
+
+**Confirmed** · Evidence: Documented, with Sun's own announcements and multiple outlets
+
+- (1) WLF: $30M on 2024-11-25, then $45M via TRON DAO around 2025-01-20, $75M in all; he was named WLF adviser on 2024-11-26 (C05).
+- (2) $TRUMP: he was the top-ranked holder at the 2025-05-22 dinner (more than 1.43M TRUMP), and on 2025-07-09 he posted 'We are committed to buying $100 million of TRUMP' days before a roughly $474M unlock.
+- Whether the full $100M was executed is not confirmed.
+- A Yahoo Finance item cites a stake of about 545M tokens, which matches the size of his frozen WLFI rather than any TRUMP holding.
+- No reliable figure for his TRUMP holdings after July 2025 was found.
+- (3) Tron Inc.: Dominari Securities, in which both Trump sons hold about 6.7% each and serve as advisers, was exclusive placement agent on SRM Entertainment's 2025-06-16 $100M (up to $210M) TRX-treasury deal that became Tron Inc. Eric Trump denies any role (C47).
+- (4) ALT5/WLFI: on 2025-09-05, one day after WLF froze his tokens, Sun pledged $10M each in ALT5 Sigma shares and WLFI.
+- Completion is unverified.
+- Nationality: China-born (described by outlets as a Chinese entrepreneur).
+- Tron is a private network, not state-owned.
+- US government decisions afterwards: the SEC jointly sought a stay of its 2023 fraud case on 2025-02-26, and on 2026-03-05 it dismissed all claims against Sun while Rainberry paid $10M. Context: the SEC's Kraken, Coinbase and Binance retreats show a sector-wide shift.
+- The relationship later collapsed into cross-lawsuits (April-May 2026).
+- Nothing shows the investments bought the SEC outcome.
+- Amounts: $30M; $45M; $75M; $100 million; roughly $474M
+- Dates: 2024-11-25; 2025-01-20; 2024-11-26; 2025-05-22; 2025-07-09
+- Sources: [5](https://cointelegraph.com/news/justin-sun-invests-30-million-trump-world-liberty-financial) [6](https://invezz.com/news/2025/01/20/tron-dao-raises-investment-to-75m-in-trump-backed-world-liberty-financial-ahead-of-inauguration/) [7](https://www.theblock.co/amp/post/355633/lamar-odom-justin-sun-party-at-trumps-memecoin-gala-as-lawmakers-blast-selling-access) [1](https://www.theblock.co/post/361874/justin-sun-commits-to-buying-100-million-in-trump-memecoins) [2](https://www.dlnews.com/articles/people-culture/justin-sun-pledges-to-buy-trump-memecoin-days-before-token-unlock) [8](https://www.nbcnewyork.com/news/business/money-report/justin-suns-tron-to-go-public-through-reverse-merger-in-deal-led-by-trump-linked-bank/6304541/) [9](https://decrypt.co/325516/eric-trump-denies-involvement-tron-nasdaq-deal) [3](https://crypto.news/justin-sun-plans-to-invest-20m-in-wlfi-and-alts/) [4](https://cryptobriefing.com/justin-sun-world-liberty-token-freeze) [10](https://www.theblock.co/post/343635/sec-and-justin-sun-look-to-explore-a-potential-resolution) [11](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26496)
+
+### 2. Tahnoon bin Zayed's network shows up in at least four Trump-family or Trump-ally vehicles: WLF equity (Aryam), USD1 (MGX), WLF's trust bank (StringZ, reported), and Kushner's Affinity (Lunate).
+
+**Mostly accurate**
+
+- Aryam Investment 1: $500M for 49% of WLF, signed around 2025-01-16.
+- This is documented by the WSJ and many outlets; WLF acknowledged an unnamed outside investor.
+- MGX: settled its $2B Binance stake in USD1, announced 2025-05-01 (documented).
+- StringZ Holding: a passive investor in WLTC Holdings per the OCC's 2026-08-14 conditional approval; its Tahnoon backing and 49% stake are single-source (WSJ, anonymous sources, 2026-08-27).
+- Lunate: Bloomberg reported on 2024-12-20 that it put more money into Affinity; Lunate's tie to Tahnoon runs through a Tahnoon-overseen parent, per C57 (documented, but one step removed).
+- These are separate legal entities.
+- Treating them as one 'investor' is our own aggregation by common patron, and we mark that aggregation inferred; no source calls them a single investor.
+- US decisions affecting the network afterwards: the US-UAE AI chip framework (May 2025) and G42 licences (about Nov 2025); Trump's 2025-09-25 executive order approving the TikTok divestiture framework, with MGX taking 15% of TikTok USDS Joint Venture at closing on 2026-01-22; and the OCC's conditional charter for WLF's trust company with StringZ as an investor.
+- MGX had already joined Stargate in January 2025.
+- WLF, MGX, the White House and Trump deny any link to policy.
+- Amounts: $500M; 49%; $2B; 15%
+- Dates: 2025-01-16; 2025-05-01; 2026-08-14; 2026-08-27; 2024-12-20
+- Sources: [12](https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931) [13](https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal) [14](https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971) [15](https://www.bloomberg.com/news/articles/2024-12-20/jared-kushner-s-affinity-gets-1-5-billion-more-from-qatar-abu-dhabi-s-lunate) [16](https://www.macrumors.com/2025/09/25/tiktok-trump-executive-order/) [17](https://fortune.com/2025/12/19/tiktok-agrees-u-s-joint-venture-deal-with-oracle-silver-lake-and-mgx/) [18](https://www.marketscreener.com/news/a-joint-venture-between-oracle-corporation-silver-lake-technology-management-l-l-c-and-mgx-fund-m-ce7e58d3de80f020) [19](https://www.middleeastainews.com/p/us-approves-up-to-70000-advanced) [20](https://openai.com/index/announcing-the-stargate-project/) [21](https://www.forbes.com/sites/zacheverson/2025/10/15/mgx-abu-dhabi-tiktok-trump-usd1-binance-aligned-data-centers/)
+
+### 3. Web3Port and Aqua 1, presented as unrelated buyers (a Hong Kong-linked market maker in January 2025, a 'UAE fund' in June 2025), trace to the same person, Guren 'Bobby' Zhou, who is under a UK money-laundering investigation.
+
+**Mostly accurate**
+
+- This is the most under-reported repeat buyer, with a chain of three layers.
+- (a) Web3Port announced a WLFI purchase in January 2025 (reported as $10M; Arkham, via the NYT, traced about $20M from a Web3Port-controlled wallet that month).
+- (b) Aqua 1 Foundation, described as UAE-based with a newly created website and little history, announced a $100M WLFI purchase on 2025-06-26 (documented).
+- Arkham attributes about $80M of that to a wallet likely controlled by Aqua 1.
+- (c) In July 2025, independent journalist Jacob Silverman and BeInCrypto alleged shared infrastructure with Web3Port, a market maker accused of manipulation and reportedly expelled from exchanges in 2023 (the MOVE dump).
+- Aqua 1 and co-founder 'Dave Lee' denied any connection.
+- (d) The NYT (2026-08-09, known here only through The Block, Cointelegraph, Unchained, AML Intelligence and IBTimes) reported that a BVI Web3Port entity renamed itself Aqua 1 GP Limited two weeks before the $100M announcement.
+- It named Zhou as the figure behind the purchase: he was arrested in Britain in 2021 on suspicion of money laundering, has not been charged, and UK officials say the probe remains active.
+- It reported that up to $75M of the $100M went to a company controlled by Trump and his sons, with the Witkoff family also benefiting.
+- Caixin (2026-08-26) calls Zhou a 'blacklisted Chinese businessman'; its text could not be fetched here, so the basis for 'blacklisted' is unverified.
+- Evidence grade: documented for the purchases and the denial; the Zhou identification is single-source (NYT investigation, with Reuters reportedly also identifying him), relayed by several outlets.
+- Zhou's representatives disputed the portrayal without naming errors, and the source of funds is unknown.
+- US government action afterwards: none found.
+- No US probe of the purchase is reported, which is itself notable.
+- Amounts: $10M; about $20M; $100M; about $80M; up to $75M
+- Dates: January 2025; 2025-06-26; July 2025; 2026-08-09; 2026-08-26
+- Sources: [22](https://www.theblock.co/news/defi/2025-06-26-trump-linked-world-liberty-sells-100-million-in-wlfi-tokens-to-uae-based-fund-359870) [23](https://decrypt.co/327205/trump-world-liberty-crypto-project-100-million-uae-fund) [24](https://www.theblock.co/news/business/2025-07-15-aqua1-web3port-world-liberty-362612) [25](https://cointelegraph.com/magazine/wlf-investor-aqua1-offers-few-answers-web3port) [26](https://beincrypto.com/shadowy-entity-trump-crypto-windfall-revealed) [27](https://forklog.com/en/buyer-of-trump-tokens-suspected-in-move-token-dump/) [28](https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221) [29](https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump) [30](https://unchainedcrypto.com/world-libertys-100-million-aqua-1-buyer-tied-to-active-uk-money-laundering-probe/) [31](https://www.amlintelligence.com/2026/08/news-trump-crypto-firm-got-100m-from-businessman-under-uk-money-laundering-investigation/) [32](https://www.ibtimes.co.uk/trump-crypto-venture-100m-investment-1813193) [33](https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html)
+
+### 4. Crypto.com is the most frequent commercial counterparty across Trump Media products, and it is also a top donor to the main pro-Trump super PAC.
+
+**Confirmed** · Evidence: Documented (company releases, FEC filings, OCC record)
+
+- Ties to Trump-family vehicles, in order: the Truth.Fi/'Made in America' ETF partnership with TMTG (2025-03-24); custodian of TMTG's bitcoin treasury (2025-05-27, alongside Anchorage); the $6.4B Trump Media Group CRO Strategy plus an agreed $50M purchase of TMTG stock (2025-08-26; closing of the $50M unconfirmed; the venture was mutually terminated on 2026-08-07); the Truth Predict partner (2025-10-28; shelved August 2026 for a marketing deal); and minter and custodian of TMTG's shareholder token (announced 2025-12-31).
+- Political money: about $35M to MAGA Inc. plus $1M to the inauguration.
+- US decisions afterwards: the SEC closed its probe with no action on 2025-03-27 (three days after the ETF tie-up); the CFTC filed an amicus brief backing Crypto.com's side on 2026-02-17; and the OCC conditionally approved Foris DAX National Trust Bank on 2026-02-23.
+- Crypto.com is a services and commercial partner, not an equity investor in a family entity except through the $50M TMTG share purchase.
+- Crypto.com denies any link, and no quid pro quo is documented.
+- Amounts: $6.4B; $50M; about $35M; $1M
+- Dates: 2025-03-24; 2025-05-27; 2025-08-26; 2026-08-07; 2025-10-28
+- Sources: [52](https://www.theblock.co/amp/post/347850/trumps-media-company-partners-with-crypto-com-to-launch-etfs-made-up-of-digital-assets-and-stocks-made-in-america) [53](https://www.theblock.co/post/355829/trump-media-establishes-corporate-bitcoin-treasury-with-2-5-billion-offering) [54](https://decrypt.co/336876/trump-media-crypto-com-reveal-6-4-billion-cronos-treasury-plan) [55](https://www.axios.com/2025/10/28/truth-social-prediction-markets) [56](https://cryptobriefing.com/trump-media-and-crypto-com-terminate-planned-cro-treasury-deal/) [57](https://decrypt.co/359029/after-donating-35-million-trump-pac-crypto-com-scores-wins-regulators) [58](https://www.theblock.co/post/348558/crypto-com-says-secs-investigation-has-been-shut-with-no-plan-to-pursue-charges) [59](https://www.theblock.co/post/390241/cftc-claims-exclusive-federal-authority-over-prediction-markets-in-new-brief-clashing-with-states) [60](https://www.americanbanker.com/payments/news/crypto-com-gets-conditional-approval-for-occ-trust-charter) [61](https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest)
+
+### 5. DWF Labs bought $25M of WLFI and became a USD1 liquidity provider. It is a repeat counterparty within the WLF complex, but no other Trump vehicle was found.
+
+**Partly accurate** · Evidence: Documented: DWF Labs (Dubai-based; managing partner Andrei Grachev) bought $25M of WLFI in a private deal announced 2025-04-16
+
+- Accountable.us traced 25M USDC in and 250M WLFI out.
+- Alongside it, DWF opened a New York office and committed to fee-free market-making for USD1.
+- That makes it both a token buyer and a service provider for the same family-linked issuer.
+- Background: watchdogs (Accountable.us) and The Nation cite manipulation allegations against DWF and a disputed Russian legal history for Grachev; these are allegations, and DWF disputes them.
+- In this pass we found no DWF purchase of $TRUMP or of a family-linked listed company, so the 'several vehicles' premise is unverified for DWF.
+- US government action afterwards: none found.
+- 'Engage more directly with U.S. regulators' was DWF's own stated aim.
+- Amounts: $25M
+- Dates: 2025-04-16
+- Sources: [34](https://www.dwf-labs.com/news/541-us-expansion-wlfi-crypto-investment-announcement) [35](https://www.zawya.com/en/world/americas/crypto-firm-dwf-labs-buys-25mln-of-trumps-world-liberty-financial-tokens-kwepxemq) [36](https://cointelegraph.com/news/wlfi-investment-25-million-dwf-labs-usd1-stablecoin) [37](https://accountable.us/report-trumps-crypto-venture-sold-25m-in-tokens-to-dubai-based-firm-suspected-of-market-manipulation) [38](https://www.thenation.com/article/society/andrei-grachev-dlw-labs-world-liberty-financial-trump/tnamp/)
+
+### 6. Jump Trading appears as WLFI's likely market maker and as a paying subscriber to TMTG's Truth API.
+
+**Partly accurate** · Evidence: Two links, both below 'documented'
+
+- (1) WLFI: on-chain trackers reported WLF multisig transfers to Jump-associated addresses, about 500M WLFI (about $83M) in one report and about 250M WLFI over three months to November 2025 in another.
+- Analysts infer a liquidity or market-making arrangement, which neither party has confirmed: inferred by on-chain analysts.
+- (2) Truth API: Reuters (2026-10-28, anonymous sources) named Jump, Susquehanna and Bloomberg as subscribers to the $60K-$100K-a-month feed of 'market-moving Truths': single-source.
+- Jump declined to comment.
+- Regulatory history: Jump's Tai Mo Shan settled with the SEC for $123M in December 2024, before the inauguration, and a 2024 CFTC probe was reported.
+- We found no record of how that probe ended, so no post-2025 US decision benefiting Jump is documented.
+- Amounts: about $83M; $60K-$100K; $123M
+- Dates: November 2025; 2026-10-28; December 2024
+- Sources: [68](https://www.kucoin.com/news/flash/world-liberty-financial-transfers-83-1m-wlfi-to-jump-trading) [69](https://www.cryptopolitan.com/world-liberty-250m-wlfi-to-jump-trading/) [70](https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say) [71](https://theblock.co/news/regulation/2024-12-21-sec-fines-jump-trading-subsidiary-123-million-for-propping-up-terrausd-stablecoin-during-depeg-332096) [72](https://www.theblock.co/post/301113/us-cftc-investigating-trading-firm-jumps-crypto-activity-fortune)
+
+### 7. Kraken and DRW each have one documented role in a Trump-family vehicle and a dropped SEC case. Hut 8 has one large vehicle (American Bitcoin).
+
+**Mostly accurate**
+
+- Kraken: ALT5 Sigma's 2025-08-11 release names Kraken as 'Asset Manager' for the WLFI treasury (documented, company release).
+- The SEC dropped its Kraken case in March 2025, before this role, and the Kansas City Fed granted Kraken Financial a limited ('skinny') master account in March 2026, the first for a crypto firm (documented).
+- We found no Kraken investment in other family vehicles.
+- DRW: DRW Investments bought about $100M of TMTG stock in the May 2025 bitcoin-treasury raise; the SEC dismissed Cumberland DRW with prejudice on 2025-03-27, agreed in principle on 2025-02-20 (documented, C19).
+- Hut 8: it contributed about 61,000 miners for 80% of American Bitcoin (2025-03-31; documented, C18); no second vehicle and no US decision affecting it were found.
+- None of these is a multi-vehicle investor on the current record; each is a single-vehicle counterparty with a regulatory matter that sits nearby in time.
+- Amounts: about $100M; 80%
+- Dates: 2025-08-11; March 2025; March 2026; May 2025; 2025-03-27
+- Sources: [65](https://www.businesswire.com/news/home/20250811959222/en/ALT5-Sigma-Corporation-Announces-$1.5-Billion-Registered-Direct-Offering-and-Concurrent-Private-Placement-to-Initiate-World-Liberty-Financial-$WLFI-Treasury-Strategy) [64](https://decrypt.co/312072/sec-drops-cases-kraken-consensys-cumberland-drw) [66](https://news.bloomberglaw.com/crypto/kraken-is-first-crypto-firm-to-secure-fed-payment-access-2) [67](https://www.lummis.senate.gov/press-releases/lummis-annouces-historic-approval-of-federal-reserve-master-account-for-kraken/) [62](https://coingape.com/trump-media-secures-100m-investment-from-drw-to-fund-its-2-5-billion-bitcoin-bet) [63](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26276) [73](https://fortune.com/crypto/2025/03/31/eric-trump-donald-trump-jr-american-bitcoin-hut-8/)
+
+### 8. The top $TRUMP holders and dinner guests were mostly foreign, and at least one (Sun) had a pending US enforcement matter.
+
+**Mostly accurate** · Evidence: Documented analyses of exchange use, which is a proxy, not proof of nationality
+
+- Bloomberg found that 19 of the top 25 leaderboard wallets used exchanges that exclude US customers, and at least 56% of the top 220.
+- CBS found at least 52 of the top 100.
+- Fortune found 18 of the top 25 had touched Binance.
+- Binance, Bybit and OKX were the main funding venues.
+- Identified guests include Justin Sun (SEC case pending at the time) and Singapore-based MemeCore, whose wallet kept its full balance while most top-10 wallets sold.
+- The full guest list was never released.
+- Beyond Sun, we found no guest with a documented US regulatory matter, so that part of the brief is unverified.
+- Amounts: at least 56%
+- Sources: [41](https://www.bloomberg.com/graphics/2025-trump-memecoin-foreign-crypto-traders) [42](https://cbsnews.com/news/trump-meme-coin-dinner-foreign-top-bidders) [43](https://www.nbcmiami.com/news/business/money-report/trump-meme-coin-dinner-likely-to-include-mostly-non-americans-based-on-top-trump-holders/3617229/) [44](https://theintercept.com/2025/05/22/trump-crypto-memecoin-dinner-guests/) [39](https://decrypt.co/321333/trump-crypto-dinner-who-is-going) [40](https://decrypt.co/321849/trump-crypto-dinner-vips-dumped-coins?amp=1) [7](https://www.theblock.co/amp/post/355633/lamar-odom-justin-sun-party-at-trumps-memecoin-gala-as-lawmakers-blast-selling-access)
+
+### 9. China-linked Nasdaq small caps (GD Culture Group, Addentax) announced $TRUMP-coin treasury purchases, reportedly to keep their listings alive.
+
+**Mostly accurate** · Evidence: Documented, from company announcements and WSJ and Semafor reporting
+
+- GD Culture (GDC) announced up to $300M in share sales to a BVI investor to buy bitcoin and TRUMP (2025-05-13), then took over BVI-registered Pallas Capital for more than 39M shares, adding 7,500 BTC (September 2025); in February 2026 its board authorized selling BTC for a buyback.
+- Addentax, a Chinese garment maker, said it was in talks to buy up to $800M of TRUMP and bitcoin.
+- Houston-based Fr8Tech set up a $20M TRUMP treasury (about $2M reportedly bought), framed around US-Mexico trade.
+- The WSJ framed the China-linked purchases as delisting-avoidance plays.
+- These are single-product buyers, not repeat investors.
+- The claim that a Hong Kong fund was among Pallas's sellers rests on one dossier site and is unverified.
+- How much TRUMP any of them actually bought is not confirmed, and no US government decision affecting them was found.
+- Amounts: up to $300M; up to $800M; $20M; about $2M
+- Dates: 2025-05-13; September 2025; February 2026
+- Sources: [45](https://www.theblock.co/news/business/2025-05-13-nasdaq-listed-gd-culture-group-bitcoin-354030) [46](https://www.theblock.co/amp/post/371148/nasdaq-listed-crypto-treasury-gd-culture-to-add-7500-btc-after-pallas-capital-acquisition-closes) [47](https://cointelegraph.com/news/gd-culture-board-bitcoin-treasury-sales) [48](https://feeds2.benzinga.com/markets/cryptocurrency/25/05/45397930/trump-memecoin-adopted-by-china-linked-nasdaq-company-as-treasury-reserve-asset) [49](https://www.itiger.com/news/2537939621) [50](https://www.semafor.com/article/05/22/2025/trump-purchases-help-chinese-firms) [51](https://www.theblock.co/post/352884/nasdaq-listed-fr8tech-to-create-20-million-trump-treasury-to-support-fair-us-mexico-trade)
+
+### 10. Bill Zanker is a repeat operator rather than an investor: Fight Fight Fight runs $TRUMP, proposed a TRUMP treasury company and clashed with WLF over a wallet.
+
+**Mostly accurate** · Evidence: Documented: Fight Fight Fight LLC (owned by Celebration Cards LLC, run by Zanker) co-holds the TRUMP supply with CIC Digital (C01, C40)
+
+- Bloomberg (2025-10-08) reported it sought $200M to $1B for a TRUMP digital-asset treasury, which remained a proposal (C55).
+- The same coverage says a Trump-branded wallet plan was shelved after a dispute with WLF.
+- Senators wrote to FFF on 2025-05-06 and 2026-04-08.
+- Zanker earns from the coin as a licensee and operator; no source shows him investing his own money in other family vehicles.
+- That the 'Celebration Cards LLC' owner and the 'Celebration Coins' royalty line on Trump's OGE filing share a name is our own observation (inferred); no source explains it.
+- Amounts: $200M to $1B
+- Dates: 2025-10-08; 2025-05-06; 2026-04-08
+- Sources: [74](https://www.theblock.co/news/business/2025-10-08-trump-memecoin-issuer-plans-funding-373745) [75](https://www.bloomberg.com/news/articles/2025-10-08/trump-memecoin-issuer-zanker-is-planning-digital-asset-treasury-company) [76](https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf)
+
+### 11. Gulf state-linked developers and funds are repeat counterparties across the Trump Organization, Kushner and Witkoff (Qatar: Qatari Diar and QIA; Saudi: PIF and Dar Global).
+
+**Confirmed** · Evidence: Documented (C16, C31, C53, C56, C57)
+
+- Qatar: Qatari Diar is the partner on the Trump golf and villa project at Simaisma (2025-04-30); QIA is an Affinity LP and bought the Park Lane Hotel from a Witkoff-Mubadala JV (2023); and the Qatari state supplied the 747-8 accepted on 2025-05-21.
+- Arms-sale approvals followed in 2025-26.
+- Saudi Arabia: PIF put $2B into Affinity and co-led the $55B EA buyout with Affinity (closed August 2026), and PIF-funded LIV events ran at Trump courses.
+- Dar Global (Dar Al Arkan) is the Trump Organization's licensee in Oman, Jeddah, Dubai, Riyadh/Diriyah and on the Qatar project.
+- US decisions afterwards include the May 2025 Riyadh deals, F-35 approval and major non-NATO ally status (November 2025), and the 123 nuclear agreement (July 2026).
+- No link between any deal and any decision is documented, and all parties deny one.
+- Amounts: $2B; $55B
+- Dates: 2025-04-30; 2025-05-21; 2025-26; August 2026; May 2025
+- Sources: [79](https://www.yahoo.com/news/exclusive-trumps-first-real-estate-142302695.html) [80](https://www.marketscreener.com/news/dar-global-and-trump-organization-launch-10-billion-saudi-developments-ce7e58dad98ef32d) [81](https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/) [15](https://www.bloomberg.com/news/articles/2024-12-20/jared-kushner-s-affinity-gets-1-5-billion-more-from-qatar-abu-dhabi-s-lunate)
+
+### 12. 1789 Capital's limited partners overlap with other Trump-family investors.
+
+**Unverified**
+
+- 1789's LP base is not public.
+- Rep. Raskin's 2026-08-26 letter seeks information on insider access, and 1789 rejected the inquiry (2026-09-09).
+- We found no source naming an LP who also invested in WLF, $TRUMP, TMTG or another family vehicle.
+- Discarded for lack of sourcing.
+- Dates: 2026-08-26; 2026-09-09
+- Sources: [82](https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-malik-buskirk-trump-jr-1789-capital-re-insider-access.pdf) [83](https://www.axios.com/2026/09/09/1789-capital-trump-jr-jamie-raskin)
+
 ## Denials and context
 
-- WLF, the White House and Trump deny any link between investments and policy. Trump says he knew nothing about the Aryam deal.
-- Aqua 1 and co-founder Dave Lee denied any Web3Port connection (July 2025). Zhou's representative disputed the NYT portrayal without naming errors. Zhou has not been charged.
+- WLF, the White House and Trump deny any link between investments and policy.
+  - Trump says he knew nothing about the Aryam deal.
+- Aqua 1 and co-founder Dave Lee denied any Web3Port connection (July 2025).
+  - Zhou's representative disputed the NYT portrayal without naming errors.
+  - Zhou has not been charged.
 - Eric Trump denies any role in Tron Inc.'s listing.
 - Crypto.com denies any link between its Trump deals, its donations and regulatory outcomes.
 - The SEC's 2025 retreat covered firms with no Trump ties (Uniswap, OpenSea and others), which points to a sector-wide policy shift.
 - Exchange-use analyses of $TRUMP holders show likely foreign residence, not nationality or government ties.
-- Several searches were exhausted, and many outlets (NYT, WSJ, Caixin, The Block, Cointelegraph) could not be fetched directly. Findings rely on search-result summaries across outlets.
+- Several searches were exhausted, and many outlets (NYT, WSJ, Caixin, The Block, Cointelegraph) could not be fetched directly.
+  - Findings rely on search-result summaries across outlets.
 
 ## People and organisations
 
-- [[$TRUMP holders' dinner (May 22, 2025)]]
-- [[$TRUMP meme coin]]
-- [[1789 Capital]]
-- [[Addentax Group]]
-- [[Affinity Partners]]
-- [[ALT5 Sigma]]
-- [[American Bitcoin]]
-- [[Andrei Grachev]]
-- [[Aqua 1 Foundation]]
-- [[Aqua 1 GP Limited]]
-- [[Arkham Intelligence]]
-- [[Aryam Investment 1]]
-- [[Bill Zanker]]
-- [[Binance]]
-- [[Bloomberg]]
-- [[Caixin Global]]
-- [[Celebration Cards LLC]]
-- [[Changpeng Zhao]]
-- [[China]]
-- [[CIC Digital LLC]]
-- [[Commodity Futures Trading Commission]]
-- [[Crypto.com]]
-- [[Cumberland (DRW)]]
-- [[Dar Global]]
-- [[Dave Lee]]
-- [[Dominari Holdings Dominari Securities]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[DRW Investments]]
-- [[DWF Labs]]
-- [[Eric Trump]]
-- [[Federal Reserve Bank of Kansas City]]
-- [[Fight Fight Fight LLC]]
-- [[Foris DAX National Trust Bank]]
-- [[Freight Technologies (Fr8Tech)]]
-- [[G42]]
-- [[GD Culture Group]]
-- [[Guren 'Bobby' Zhou]]
-- [[Hut 8]]
-- [[Jacob Silverman]]
-- [[Jared Kushner]]
-- [[Jump Trading]]
-- [[Justin Sun]]
-- [[Kraken]]
-- [[Lunate]]
-- [[MAGA Inc]]
-- [[MemeCore]]
-- [[MGX]]
-- [[Oddiyana Ventures]]
-- [[Office of the Comptroller of the Currency]]
-- [[Pallas Capital]]
-- [[Public Investment Fund (Saudi Arabia)]]
-- [[Qatar]]
-- [[Qatar Boeing 747 gift]]
-- [[Qatar Investment Authority]]
-- [[Qatari Diar]]
-- [[Rainberry]]
-- [[Reuters]]
-- [[Saudi Arabia]]
-- [[Securities and Exchange Commission]]
-- [[Sheikh Tahnoon bin Zayed]]
-- [[SRM Entertainment Tron Inc]]
-- [[Steve Witkoff]]
-- [[StringZ Holding RSC (DE) LLC]]
-- [[Tai Mo Shan]]
-- [[The New York Times]]
-- [[The Wall Street Journal]]
-- [[TikTok USDS Joint Venture LLC]]
-- [[Tron]]
-- [[Tron Inc. (formerly SRM Entertainment)]]
-- [[Trump Media & Technology Group]]
-- [[Trump Organization]]
-- [[Truth API]]
-- [[Truth Predict]]
-- [[Truth Social ETFs]]
-- [[UAE AI chips deal]]
-- [[United Arab Emirates]]
-- [[United Kingdom]]
-- [[USD1]]
-- [[Web3Port]]
-- [[White House Trump administration]]
-- [[WLFI token]]
-- [[WLTC Holdings LLC]]
-- [[World Liberty Financial]]
-- [[World Liberty Trust Company, N.A]]
-- [[Yorkville Acquisition Corp]]
-- [[Zach Witkoff]]
+- [[$TRUMP holders' dinner (May 22, 2025)]] · Event
+- [[$TRUMP meme coin]] · Asset
+- [[1789 Capital]] · Fund
+- [[Addentax Group]] · Company
+- [[Affinity Partners]] · Fund
+- [[ALT5 Sigma]] · Company
+- [[American Bitcoin]] · Company
+- [[Andrei Grachev]] · Person
+- [[Aqua 1 Foundation]] · Fund
+- [[Aqua 1 GP Limited]] · Company
+- [[Arkham Intelligence]] · Company
+- [[Aryam Investment 1]] · Fund
+- [[Bill Zanker]] · Person
+- [[Binance]] · Company
+- [[Bloomberg]] · Media
+- [[Caixin Global]] · Media
+- [[Celebration Cards LLC]] · Company
+- [[Changpeng Zhao]] · Person
+- [[China]] · Country
+- [[CIC Digital LLC]] · Company
+- [[Commodity Futures Trading Commission]] · Government body
+- [[Crypto.com]] · Company
+- [[Cumberland (DRW)]] · Company
+- [[Dar Global]] · Company
+- [[Dave Lee]] · Person
+- [[Dominari Holdings Dominari Securities]] · Company
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[DRW Investments]] · Company
+- [[DWF Labs]] · Company
+- [[Eric Trump]] · Person
+- [[Federal Reserve Bank of Kansas City]] · Government body
+- [[Fight Fight Fight LLC]] · Company
+- [[Foris DAX National Trust Bank]] · Company
+- [[Freight Technologies (Fr8Tech)]] · Company
+- [[G42]] · Company
+- [[GD Culture Group]] · Company
+- [[Guren 'Bobby' Zhou]] · Person
+- [[Hut 8]] · Company
+- [[Jacob Silverman]] · Person
+- [[Jared Kushner]] · Person
+- [[Jump Trading]] · Company
+- [[Justin Sun]] · Person
+- [[Kraken]] · Company
+- [[Lunate]] · Fund
+- [[MAGA Inc]] · Fund
+- [[MemeCore]] · Company
+- [[MGX]] · Company
+- [[Oddiyana Ventures]] · Fund
+- [[Office of the Comptroller of the Currency]] · Government body
+- [[Pallas Capital]] · Company
+- [[Public Investment Fund (Saudi Arabia)]] · Fund
+- [[Qatar]] · Country
+- [[Qatar Boeing 747 gift]] · Asset
+- [[Qatar Investment Authority]] · Fund
+- [[Qatari Diar]] · Company
+- [[Rainberry]] · Company
+- [[Reuters]] · Media
+- [[Saudi Arabia]] · Country
+- [[Securities and Exchange Commission]] · Government body
+- [[Sheikh Tahnoon bin Zayed]] · Person
+- [[SRM Entertainment Tron Inc]] · Company
+- [[Steve Witkoff]] · Person
+- [[StringZ Holding RSC (DE) LLC]] · Company
+- [[Tai Mo Shan]] · Company
+- [[The New York Times]] · Media
+- [[The Wall Street Journal]] · Media
+- [[TikTok USDS Joint Venture LLC]] · Company
+- [[Tron]] · Company
+- [[Tron Inc. (formerly SRM Entertainment)]] · Company
+- [[Trump Media & Technology Group]] · Company
+- [[Trump Organization]] · Company
+- [[Truth API]] · Product
+- [[Truth Predict]] · Product
+- [[Truth Social ETFs]] · Product
+- [[UAE AI chips deal]] · Event
+- [[United Arab Emirates]] · Country
+- [[United Kingdom]] · Country
+- [[USD1]] · Asset
+- [[Web3Port]] · Company
+- [[White House Trump administration]] · Government body
+- [[WLFI token]] · Asset
+- [[WLTC Holdings LLC]] · Company
+- [[World Liberty Financial]] · Company
+- [[World Liberty Trust Company, N.A]] · Company
+- [[Yorkville Acquisition Corp]] · Company
+- [[Zach Witkoff]] · Person
 
 ## Relationships documented
 
-- [[Addentax Group]] *talks to buy up to $800M of TRUMP and BTC* [[$TRUMP meme coin]] (2025-05, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Andrei Grachev]] *managing partner* [[DWF Labs]] (ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Aqua 1 Foundation]] *up to $75M of purchase reached Trump-and-sons company (per NYT)* [[Donald Trump]] (2025-06, $75M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Aqua 1 Foundation]] *bought $100M WLFI* [[World Liberty Financial]] (2025-06-26, $100M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Aryam Investment 1]] *agreed to buy 49% for $500M* [[World Liberty Financial]] (2025-01-16, $500M, money) · [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] (2025-01, ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Binance]] *main venue (~85% of supply)* [[USD1]] (commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Celebration Cards LLC]] *owns* [[Fight Fight Fight LLC]] (ownership) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Commodity Futures Trading Commission]] *amicus brief supporting its position* [[Crypto.com]] (2026-02-17, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[CIC Digital LLC]] *co-holder* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Crypto.com]] *~$35M in contributions* [[MAGA Inc]] (2025-2026, $35M, political) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Crypto.com]] *agreed $50M stock purchase in CRO treasury deal* [[Trump Media & Technology Group]] (2025-08-26, $50M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Crypto.com]] *bitcoin treasury custodian* [[Trump Media & Technology Group]] (2025-05-27, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Crypto.com]] *prediction-market partner* [[Truth Predict]] (2025-10-28, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Crypto.com]] *ETF partner* [[Truth Social ETFs]] (2025-03-24, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Crypto.com]] *CRO treasury SPAC partner (terminated 2026-08-07)* [[Yorkville Acquisition Corp]] (2025-08-26, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Dar Global]] *licensing partner (Oman, Jeddah, Dubai, Riyadh, Qatar)* [[Trump Organization]] (commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Dave Lee]] *co-founder; denied Web3Port link* [[Aqua 1 Foundation]] (2025-07, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Dominari Holdings Dominari Securities]] *exclusive placement agent on TRX-treasury financing* [[Tron Inc. (formerly SRM Entertainment)]] (2025-06-16, $100M, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Donald Trump]] *owns* [[CIC Digital LLC]] (ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Donald Trump]] *majority shareholder (via trust)* [[Trump Media & Technology Group]] (ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Donald Trump Jr]] *partner* [[1789 Capital]] (2024-11, ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Donald Trump Jr]] *adviser and ~6.7% shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[DRW Investments]] *bought ~$100M of shares* [[Trump Media & Technology Group]] (2025-05, $100M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[DWF Labs]] *fee-free liquidity provider* [[USD1]] (2025-04-16, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[DWF Labs]] *bought $25M WLFI* [[World Liberty Financial]] (2025-04-16, $25M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Eric Trump]] *director* [[ALT5 Sigma]] (2025-08, advisory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Eric Trump]] *co-founder* [[American Bitcoin]] (2025-03-31, ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Eric Trump]] *adviser and ~6.7% shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Eric Trump]] *co-founder* [[World Liberty Financial]] (ownership) · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Federal Reserve Bank of Kansas City]] *limited master account* [[Kraken]] (2026-03, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Fight Fight Fight LLC]] *co-issuer* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Fight Fight Fight LLC]] *wallet dispute* [[World Liberty Financial]] (2025, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Freight Technologies (Fr8Tech)]] *$20M TRUMP treasury plan* [[$TRUMP meme coin]] (2025-04, $20M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[GD Culture Group]] *acquired for 7,500 BTC via share swap* [[Pallas Capital]] (2025-09, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[GD Culture Group]] *announced up to $300M raise to buy BTC and TRUMP* [[$TRUMP meme coin]] (2025-05-13, $300M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Guren 'Bobby' Zhou]] *figure behind purchase (per NYT)* [[Aqua 1 Foundation]] (2026-08-09, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Hut 8]] *80% owner via miner contribution* [[American Bitcoin]] (2025-03-31, ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Jared Kushner]] *founder* [[Affinity Partners]] (ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Jump Trading]] *subscriber (Reuters, anonymous sources)* [[Truth API]] (2026-10-28, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Jump Trading]] *received WLFI transfers; inferred market maker* [[World Liberty Financial]] (2025, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Justin Sun]] *pledged $10M share purchase (completion unverified)* [[ALT5 Sigma]] (2025-09-05, $10M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Justin Sun]] *adviser; Tron treasury sponsor* [[Tron Inc. (formerly SRM Entertainment)]] (2025-06, advisory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Justin Sun]] *top holder; pledged $100M buy* [[$TRUMP meme coin]] (2025-07-09, $100M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Justin Sun]] *attended as top-ranked holder* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-22, political) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Justin Sun]] *bought WLFI tokens ($30M + $45M)* [[World Liberty Financial]] (2024-11/2025-01, $75M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Justin Sun]] *named adviser* [[World Liberty Financial]] (2024-11-26, advisory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Kraken]] *named Asset Manager of WLFI treasury* [[ALT5 Sigma]] (2025-08-11, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Lunate]] *invested in* [[Affinity Partners]] (2024-12-20, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[MemeCore]] *founder attended* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-22, political) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[MGX]] *$2B investment settled in USD1* [[Binance]] (2025-05-01, $2B, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[MGX]] *15% stake* [[TikTok USDS Joint Venture LLC]] (2026-01-22, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[MGX]] *used for Binance settlement* [[USD1]] (2025-05-01, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Office of the Comptroller of the Currency]] *conditional trust charter* [[Foris DAX National Trust Bank]] (2026-02-23, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Office of the Comptroller of the Currency]] *conditional charter approval* [[World Liberty Trust Company, N.A]] (2026-08-14, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Oddiyana Ventures]] *strategic investment, undisclosed* [[World Liberty Financial]] (2025-02, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Qatar]] *gifted 747-8 to US* [[Qatar Boeing 747 gift]] (2025-05-21, political) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Qatar Investment Authority]] *LP* [[Affinity Partners]] (money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Qatari Diar]] *Simaisma golf/villa partner* [[Trump Organization]] (2025-04-30, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Rainberry]] *Sun-linked company* [[Justin Sun]] (ownership) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Public Investment Fund (Saudi Arabia)]] *$2B investment; EA co-buyer* [[Affinity Partners]] (money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Securities and Exchange Commission]] *dismissed case* [[Binance]] (2025-05-29, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Cumberland (DRW)]] (2025-03-27, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Securities and Exchange Commission]] *dismissed claims; Rainberry pays $10M* [[Justin Sun]] (2026-03-05, $10M, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Securities and Exchange Commission]] *sought stay of fraud case* [[Justin Sun]] (2025-02-26, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Securities and Exchange Commission]] *dismissed case* [[Kraken]] (2025-03, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Securities and Exchange Commission]] *$123M settlement (pre-term)* [[Tai Mo Shan]] (2024-12-20, $123M, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[SRM Entertainment Tron Inc]] *renamed to* [[Tron Inc. (formerly SRM Entertainment)]] (2025-06, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[StringZ Holding RSC (DE) LLC]] *passive investor; reportedly 49% (WSJ, anonymous)* [[WLTC Holdings LLC]] (2026-08, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Sheikh Tahnoon bin Zayed]] *reportedly linked (single-source)* [[StringZ Holding RSC (DE) LLC]] (2026-08-27, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Tai Mo Shan]] *subsidiary of* [[Jump Trading]] (ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[United Kingdom]] *arrested 2021 on suspicion of money laundering; probe active, uncharged* [[Guren 'Bobby' Zhou]] (2021, legal) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Web3Port]] *BVI entity renamed Aqua 1 GP Limited (per NYT)* [[Aqua 1 GP Limited]] (2025-06, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Web3Port]] *bought WLFI ($10M announced; ~$20M traced on-chain)* [[World Liberty Financial]] (2025-01, $20M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[White House Trump administration]] *pardon* [[Changpeng Zhao]] (2025-10-23, legal) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[White House Trump administration]] *approved advanced-chip exports* [[G42]] (2025-11, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[White House Trump administration]] *executive order approving divestiture framework* [[TikTok USDS Joint Venture LLC]] (2025-09-25, regulatory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[WLTC Holdings LLC]] *holding company of* [[World Liberty Trust Company, N.A]] (ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Zach Witkoff]] *chairman* [[ALT5 Sigma]] (2025-08, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Zach Witkoff]] *CEO* [[World Liberty Financial]] (advisory) · [[C42 How World Liberty insiders took money out|C42]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+### Money (18)
 
-## Leads not covered by the video
+- [[Justin Sun]] *bought WLFI tokens ($30M + $45M)* [[World Liberty Financial]] · 2024-11/2025-01 · $75M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Lunate]] *invested in* [[Affinity Partners]] · 2024-12-20 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Web3Port]] *bought WLFI ($10M announced; ~$20M traced on-chain)* [[World Liberty Financial]] · 2025-01 · $20M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Aryam Investment 1]] *agreed to buy 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Oddiyana Ventures]] *strategic investment, undisclosed* [[World Liberty Financial]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Freight Technologies (Fr8Tech)]] *$20M TRUMP treasury plan* [[$TRUMP meme coin]] · 2025-04 · $20M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[DWF Labs]] *bought $25M WLFI* [[World Liberty Financial]] · 2025-04-16 · $25M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Addentax Group]] *talks to buy up to $800M of TRUMP and BTC* [[$TRUMP meme coin]] · 2025-05 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[DRW Investments]] *bought ~$100M of shares* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[MGX]] *$2B investment settled in USD1* [[Binance]] · 2025-05-01 · $2B · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[GD Culture Group]] *announced up to $300M raise to buy BTC and TRUMP* [[$TRUMP meme coin]] · 2025-05-13 · $300M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Aqua 1 Foundation]] *up to $75M of purchase reached Trump-and-sons company (per NYT)* [[Donald Trump]] · 2025-06 · $75M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Aqua 1 Foundation]] *bought $100M WLFI* [[World Liberty Financial]] · 2025-06-26 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Justin Sun]] *top holder; pledged $100M buy* [[$TRUMP meme coin]] · 2025-07-09 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Crypto.com]] *agreed $50M stock purchase in CRO treasury deal* [[Trump Media & Technology Group]] · 2025-08-26 · $50M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Justin Sun]] *pledged $10M share purchase (completion unverified)* [[ALT5 Sigma]] · 2025-09-05 · $10M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Qatar Investment Authority]] *LP* [[Affinity Partners]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Public Investment Fund (Saudi Arabia)]] *$2B investment; EA co-buyer* [[Affinity Partners]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 
-- **Who funded Guren 'Bobby' Zhou's $100M WLFI purchase, and did any US agency look at it?**: The NYT says the source of funds is unknown and a UK probe is active. No US AML, OFAC or FinCEN review is reported, even though up to $75M reportedly reached a Trump-and-sons company. [source](https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221) · [[Guren 'Bobby' Zhou]] [[Aqua 1 Foundation]] [[Web3Port]] [[World Liberty Financial]]
-- **Web3Port, the MOVE token dump and WLF's own MOVE holdings**: ForkLog and others tie the Aqua 1 buyer to the Movement (MOVE) market-making scandal. WLF had bought MOVE, so the same counterparty may sit on both sides of WLF's token portfolio. [source](https://forklog.com/en/buyer-of-trump-tokens-suspected-in-move-token-dump/) · [[Web3Port]] [[Aqua 1 Foundation]] [[World Liberty Financial]]
-- **Did Justin Sun complete his $100M $TRUMP and $10M ALT5 pledges?**: Both were announced around token unlocks or freezes. Whether they executed determines how much Sun put into Trump-family vehicles beyond the $75M in WLF. [source](https://crypto.news/justin-sun-plans-to-invest-20m-in-wlfi-and-alts/) · [[Justin Sun]] [[$TRUMP meme coin]] [[ALT5 Sigma]]
-- **Caixin's 'blacklisted' description of Zhou**: If a Chinese or other blacklist applies, that changes the foreign-influence picture for the WLF purchase. The article could not be read here. [source](https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html) · [[Guren 'Bobby' Zhou]] [[Caixin Global]] [[China]]
-- **Jump Trading: WLFI market-making terms and the fate of the 2024 CFTC probe**: Jump appears on both the WLF and TMTG sides. If the CFTC probe was closed under the Selig CFTC, it would add a government decision to the chain. [source](https://www.theblock.co/post/301113/us-cftc-investigating-trading-firm-jumps-crypto-activity-fortune) · [[Jump Trading]] [[World Liberty Financial]] [[Truth API]] [[Commodity Futures Trading Commission]]
-- **Reuters: 36 of the 50 largest WLFI wallets likely foreign-controlled (~$804M)**: This is the WLFI counterpart of Bloomberg's $TRUMP foreign-holder analysis. Identifying those wallets may surface more repeat buyers. We saw it only via a secondary repost, so the Reuters original needs locating. [source](https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221) · [[World Liberty Financial]] [[WLFI token]]
+### Ownership (29)
 
-## Sources
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Donald Trump Jr]] *partner* [[1789 Capital]] · 2024-11 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] · 2025-01 · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[CIC Digital LLC]] *co-holder* [[$TRUMP meme coin]] · 2025-01-17 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Fight Fight Fight LLC]] *co-issuer* [[$TRUMP meme coin]] · 2025-01-17 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Donald Trump Jr]] *adviser and ~6.7% shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Eric Trump]] *adviser and ~6.7% shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Hut 8]] *80% owner via miner contribution* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[SRM Entertainment Tron Inc]] *renamed to* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Web3Port]] *BVI entity renamed Aqua 1 GP Limited (per NYT)* [[Aqua 1 GP Limited]] · 2025-06 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Dave Lee]] *co-founder; denied Web3Port link* [[Aqua 1 Foundation]] · 2025-07 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Zach Witkoff]] *chairman* [[ALT5 Sigma]] · 2025-08 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[GD Culture Group]] *acquired for 7,500 BTC via share swap* [[Pallas Capital]] · 2025-09 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[MGX]] *15% stake* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[StringZ Holding RSC (DE) LLC]] *passive investor; reportedly 49% (WSJ, anonymous)* [[WLTC Holdings LLC]] · 2026-08 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Guren 'Bobby' Zhou]] *figure behind purchase (per NYT)* [[Aqua 1 Foundation]] · 2026-08-09 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Sheikh Tahnoon bin Zayed]] *reportedly linked (single-source)* [[StringZ Holding RSC (DE) LLC]] · 2026-08-27 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Andrei Grachev]] *managing partner* [[DWF Labs]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Celebration Cards LLC]] *owns* [[Fight Fight Fight LLC]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Donald Trump]] *owns* [[CIC Digital LLC]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Donald Trump]] *majority shareholder (via trust)* [[Trump Media & Technology Group]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Eric Trump]] *co-founder* [[World Liberty Financial]] · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Jared Kushner]] *founder* [[Affinity Partners]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Rainberry]] *Sun-linked company* [[Justin Sun]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Tai Mo Shan]] *subsidiary of* [[Jump Trading]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[WLTC Holdings LLC]] *holding company of* [[World Liberty Trust Company, N.A]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+
+### Regulatory (13)
+
+- [[Securities and Exchange Commission]] *$123M settlement (pre-term)* [[Tai Mo Shan]] · 2024-12-20 · $123M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Securities and Exchange Commission]] *sought stay of fraud case* [[Justin Sun]] · 2025-02-26 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Securities and Exchange Commission]] *dismissed case* [[Kraken]] · 2025-03 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] · 2025-03-27 · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Cumberland (DRW)]] · 2025-03-27 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Securities and Exchange Commission]] *dismissed case* [[Binance]] · 2025-05-29 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[White House Trump administration]] *executive order approving divestiture framework* [[TikTok USDS Joint Venture LLC]] · 2025-09-25 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[White House Trump administration]] *approved advanced-chip exports* [[G42]] · 2025-11 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Commodity Futures Trading Commission]] *amicus brief supporting its position* [[Crypto.com]] · 2026-02-17 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Office of the Comptroller of the Currency]] *conditional trust charter* [[Foris DAX National Trust Bank]] · 2026-02-23 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Federal Reserve Bank of Kansas City]] *limited master account* [[Kraken]] · 2026-03 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Securities and Exchange Commission]] *dismissed claims; Rainberry pays $10M* [[Justin Sun]] · 2026-03-05 · $10M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Office of the Comptroller of the Currency]] *conditional charter approval* [[World Liberty Trust Company, N.A]] · 2026-08-14 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+
+### Advisory (4)
+
+- [[Justin Sun]] *named adviser* [[World Liberty Financial]] · 2024-11-26 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Justin Sun]] *adviser; Tron treasury sponsor* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Eric Trump]] *director* [[ALT5 Sigma]] · 2025-08 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Zach Witkoff]] *CEO* [[World Liberty Financial]] · [[C42 How World Liberty insiders took money out|C42]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+
+### Political (4)
+
+- [[Qatar]] *gifted 747-8 to US* [[Qatar Boeing 747 gift]] · 2025-05-21 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Justin Sun]] *attended as top-ranked holder* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-22 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[MemeCore]] *founder attended* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-22 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Crypto.com]] *~$35M in contributions* [[MAGA Inc]] · 2025-2026 · $35M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+
+### Legal (2)
+
+- [[United Kingdom]] *arrested 2021 on suspicion of money laundering; probe active, uncharged* [[Guren 'Bobby' Zhou]] · 2021 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[White House Trump administration]] *pardon* [[Changpeng Zhao]] · 2025-10-23 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+
+### Commercial (14)
+
+- [[Fight Fight Fight LLC]] *wallet dispute* [[World Liberty Financial]] · 2025 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Jump Trading]] *received WLFI transfers; inferred market maker* [[World Liberty Financial]] · 2025 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Crypto.com]] *ETF partner* [[Truth Social ETFs]] · 2025-03-24 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[DWF Labs]] *fee-free liquidity provider* [[USD1]] · 2025-04-16 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Qatari Diar]] *Simaisma golf/villa partner* [[Trump Organization]] · 2025-04-30 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[MGX]] *used for Binance settlement* [[USD1]] · 2025-05-01 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Crypto.com]] *bitcoin treasury custodian* [[Trump Media & Technology Group]] · 2025-05-27 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Dominari Holdings Dominari Securities]] *exclusive placement agent on TRX-treasury financing* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06-16 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Kraken]] *named Asset Manager of WLFI treasury* [[ALT5 Sigma]] · 2025-08-11 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Crypto.com]] *CRO treasury SPAC partner (terminated 2026-08-07)* [[Yorkville Acquisition Corp]] · 2025-08-26 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Crypto.com]] *prediction-market partner* [[Truth Predict]] · 2025-10-28 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Jump Trading]] *subscriber (Reuters, anonymous sources)* [[Truth API]] · 2026-10-28 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Binance]] *main venue (~85% of supply)* [[USD1]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Dar Global]] *licensing partner (Oman, Jeddah, Dubai, Riyadh, Qatar)* [[Trump Organization]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+
+## Leads not covered here
+
+- **Who funded Guren 'Bobby' Zhou's $100M WLFI purchase, and did any US agency look at it?**
+  - The NYT says the source of funds is unknown and a UK probe is active.
+  - No US AML, OFAC or FinCEN review is reported, even though up to $75M reportedly reached a Trump-and-sons company.
+  - [[Guren 'Bobby' Zhou]] [[Aqua 1 Foundation]] [[Web3Port]] [[World Liberty Financial]] · [Source](https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221)
+- **Web3Port, the MOVE token dump and WLF's own MOVE holdings**
+  - ForkLog and others tie the Aqua 1 buyer to the Movement (MOVE) market-making scandal.
+  - WLF had bought MOVE, so the same counterparty may sit on both sides of WLF's token portfolio.
+  - [[Web3Port]] [[Aqua 1 Foundation]] [[World Liberty Financial]] · [Source](https://forklog.com/en/buyer-of-trump-tokens-suspected-in-move-token-dump/)
+- **Did Justin Sun complete his $100M $TRUMP and $10M ALT5 pledges?**
+  - Both were announced around token unlocks or freezes.
+  - Whether they executed determines how much Sun put into Trump-family vehicles beyond the $75M in WLF.
+  - [[Justin Sun]] [[$TRUMP meme coin]] [[ALT5 Sigma]] · [Source](https://crypto.news/justin-sun-plans-to-invest-20m-in-wlfi-and-alts/)
+- **Caixin's 'blacklisted' description of Zhou**
+  - If a Chinese or other blacklist applies, that changes the foreign-influence picture for the WLF purchase.
+  - The article could not be read here.
+  - [[Guren 'Bobby' Zhou]] [[Caixin Global]] [[China]] · [Source](https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html)
+- **Jump Trading: WLFI market-making terms and the fate of the 2024 CFTC probe**
+  - Jump appears on both the WLF and TMTG sides.
+  - If the CFTC probe was closed under the Selig CFTC, it would add a government decision to the chain.
+  - [[Jump Trading]] [[World Liberty Financial]] [[Truth API]] [[Commodity Futures Trading Commission]] · [Source](https://www.theblock.co/post/301113/us-cftc-investigating-trading-firm-jumps-crypto-activity-fortune)
+- **Reuters: 36 of the 50 largest WLFI wallets likely foreign-controlled (~$804M)**
+  - This is the WLFI counterpart of Bloomberg's $TRUMP foreign-holder analysis.
+  - Identifying those wallets may surface more repeat buyers.
+  - We saw it only via a secondary repost, so the Reuters original needs locating.
+  - [[World Liberty Financial]] [[WLFI token]] · [Source](https://theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221)
+
+## Sources (83)
 
 1. [Justin Sun commits to buying $100 million in TRUMP memecoins](https://www.theblock.co/post/361874/justin-sun-commits-to-buying-100-million-in-trump-memecoins) (The Block, 2025-07-09)
 2. [Justin Sun pledges to buy Trump memecoin days before token unlock](https://www.dlnews.com/articles/people-culture/justin-sun-pledges-to-buy-trump-memecoin-days-before-token-unlock) (DL News, 2025-07-09)

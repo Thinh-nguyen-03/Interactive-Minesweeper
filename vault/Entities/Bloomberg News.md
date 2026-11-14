@@ -10,9 +10,15 @@ tags:
 ---
 # Bloomberg News
 
-*media*
-
 Reported the Tether loan to the Lutnick children's trust (Mar 2026)
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 2 claims |
+| Connections | 3 |
+
+## How other claims describe it
 
 - Reported the Tether loan and the Cantor-Tether lending talks
 
@@ -23,5 +29,7 @@ Reported the Tether loan to the Lutnick children's trust (Mar 2026)
 
 ## Relationships
 
-- [[Bloomberg News]] *reported Tether loan* [[Dynasty Trust A]] (2026-03-18, media) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Bloomberg News]] *reported Tether loan to* [[Dynasty Trust A]] (2026-03-18, media) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+### Media (2)
+
+- [[Bloomberg News]] *reported Tether loan* [[Dynasty Trust A]] · 2026-03-18 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Bloomberg News]] *reported Tether loan to* [[Dynasty Trust A]] · 2026-03-18 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]

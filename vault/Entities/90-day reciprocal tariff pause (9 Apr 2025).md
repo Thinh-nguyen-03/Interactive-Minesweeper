@@ -10,9 +10,13 @@ tags:
 ---
 # 90-day reciprocal tariff pause (9 Apr 2025)
 
-*event*
-
 Announcement preceded by 'great time to buy' post
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Announcement preceded by 'great time to buy' post
 
 ## Relationships
 
-- [[Donald Trump]] *announced* [[90-day reciprocal tariff pause (9 Apr 2025)]] (2025-04-09, political) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+### Political (1)
+
+- [[Donald Trump]] *announced* [[90-day reciprocal tariff pause (9 Apr 2025)]] · 2025-04-09 · [[C58 Market-moving posts and insider-trading allegations|C58]]

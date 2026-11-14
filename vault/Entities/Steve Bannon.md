@@ -12,9 +12,16 @@ tags:
 ---
 # Steve Bannon
 
-*person*
-
 Political operative and media strategist; articulated the 'flood the zone' / 'muzzle velocity' strategy.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 6 |
+| Also known as | Bannon |
+
+## How other claims describe it
 
 - Former Trump chief strategist; coined the 'flood the zone' / 'muzzle velocity' media strategy
 - Criticised Sacks's judgment
@@ -26,10 +33,18 @@ Political operative and media strategist; articulated the 'flood the zone' / 'mu
 
 ## Relationships
 
-- [[Steve Bannon]] *criticised judgment of* [[David Sacks]] (2025-12, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] (advisory) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Steve Bannon]] *devised* [['Flood the zone' strategy]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Steve Bannon]] *described 'flood the zone / muzzle velocity' in interview with* [[PBS Frontline]] (2019, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Advisory (1)
+
+- [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+
+### Political (1)
+
+- [[Steve Bannon]] *criticised judgment of* [[David Sacks]] · 2025-12 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+
+### Media (2)
+
+- [[Steve Bannon]] *described 'flood the zone / muzzle velocity' in interview with* [[PBS Frontline]] · 2019 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Steve Bannon]] *devised* [['Flood the zone' strategy]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 
 ## Themes
 

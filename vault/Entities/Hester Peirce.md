@@ -10,9 +10,13 @@ tags:
 ---
 # Hester Peirce
 
-*person*
-
 SEC Commissioner leading the Crypto Task Force; left Oct 2026
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ SEC Commissioner leading the Crypto Task Force; left Oct 2026
 
 ## Relationships
 
-- [[Hester Peirce]] *led Crypto Task Force at* [[Securities and Exchange Commission]] (2025-01, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+### Regulatory (1)
+
+- [[Hester Peirce]] *led Crypto Task Force at* [[Securities and Exchange Commission]] · 2025-01 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]

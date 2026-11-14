@@ -10,9 +10,13 @@ tags:
 ---
 # 26North
 
-*fund*
-
 Private investment firm that took a minority stake in Cantor
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Private investment firm that took a minority stake in Cantor
 
 ## Relationships
 
-- [[26North]] *took minority stake* [[Cantor Fitzgerald]] (2025-05, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+### Ownership (1)
+
+- [[26North]] *took minority stake* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]

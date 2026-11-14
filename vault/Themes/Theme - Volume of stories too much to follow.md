@@ -6,7 +6,7 @@ tags:
 ---
 # Volume of stories: too much to follow
 
-The sheer volume and speed of deals prevents sustained scrutiny; the video's premise for aggregating everything.
+- The sheer volume and speed of deals prevents sustained scrutiny; the video's premise for aggregating everything.
 
 ## Claims
 

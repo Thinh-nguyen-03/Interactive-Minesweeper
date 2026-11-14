@@ -10,9 +10,13 @@ tags:
 ---
 # Stargate UAE
 
-*product*
-
 1GW G42-built AI cluster in Abu Dhabi with OpenAI, Oracle, Nvidia, Cisco, SoftBank.
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ tags:
 
 ## Relationships
 
-- [[G42]] *builds* [[Stargate UAE]] (2025-05, commercial) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[OpenAI]] *operates with Oracle* [[Stargate UAE]] (2025-05, commercial) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+### Commercial (2)
+
+- [[G42]] *builds* [[Stargate UAE]] · 2025-05 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[OpenAI]] *operates with Oracle* [[Stargate UAE]] · 2025-05 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]

@@ -10,9 +10,13 @@ tags:
 ---
 # TMTG shareholder rewards token
 
-*asset*
-
 Non-transferable token, one per DJT share, record date 2026-02-02; distribution unconfirmed.
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ Non-transferable token, one per DJT share, record date 2026-02-02; distribution 
 
 ## Relationships
 
-- [[Crypto.com]] *mints and custodies* [[TMTG shareholder rewards token]] (2025-12-31, commercial) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
-- [[Trump Media & Technology Group]] *announced shareholder token* [[TMTG shareholder rewards token]] (2025-12-31, commercial) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+### Commercial (2)
+
+- [[Crypto.com]] *mints and custodies* [[TMTG shareholder rewards token]] · 2025-12-31 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Trump Media & Technology Group]] *announced shareholder token* [[TMTG shareholder rewards token]] · 2025-12-31 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]

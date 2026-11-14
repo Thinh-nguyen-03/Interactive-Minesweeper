@@ -10,9 +10,13 @@ tags:
 ---
 # NBC News
 
-*media*
-
 Reported the Daibes-Schiller payment
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Reported the Daibes-Schiller payment
 
 ## Relationships
 
-- [[NBC News]] *reported $1M lobbying payment* [[Fred Daibes]] (2025, media) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+### Media (1)
+
+- [[NBC News]] *reported $1M lobbying payment* [[Fred Daibes]] · 2025 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

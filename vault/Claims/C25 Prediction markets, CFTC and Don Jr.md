@@ -15,7 +15,49 @@ tags:
 ---
 # C25: Prediction markets, CFTC and Don Jr.
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Claim from the video · transcript lines 659-735
+
+## Bottom line
+
+Most of the core facts hold up.
+
+## What holds up
+
+- TMTG announced Truth Predict, its entry into prediction markets, and it flopped.
+- Polymarket and Kalshi are both linked to the president's family through Don Jr., who is 'on the board of both' multibillion-dollar companies (mostly accurate)
+- Selig was asked in Congress whether anyone in the White House asked him to drop the CFTC's probe into Polymarket.
+- Trump posted that prediction markets are a major industry we need to protect.
+- Don Jr. spoke to Republican state AGs and reportedly told them not to fight prediction markets.
+
+## What needs correcting
+
+- Sports prediction markets rely on a new legal theory (sports bets as financial event contracts) that is really only possible thanks to Trump's CFTC chairman Mike Selig (partly accurate)
+- **Video said:** 'Mike selling' and 'Seelig'  
+  **Record shows:** The CFTC chairman is Michael (Mike) Selig, confirmed 2025-12-18.
+- **Video said:** 'CallSheet'  
+  **Record shows:** The company is Kalshi.
+- **Video said:** Don Jr. is 'on the board of both'  
+  **Record shows:** He is a strategic adviser to Kalshi and on Polymarket's advisory board. Neither is a board-of-directors seat. His firm 1789 Capital invested in Polymarket.
+- **Claim:** Transcript implies Truth Predict launched and failed  
+  **Record:** It was announced in Oct 2025 and shelved in Aug 2026 before a full launch.
+- **Video said:** Sports prediction markets are 'only possible thanks to' Selig  
+  **Record shows:** Kalshi's sports contracts began in Jan 2025 under Acting Chair Pham. Selig is the theory's leading federal defender, not its origin.
+- The earlier DOJ and CFTC probes into Polymarket were closed in July 2025, before Selig became chair.
+- The 'passing comment' wording of Don Jr.'s denial was not found; the public denials came from his spokesperson and from Kalshi.
+
+## What is unproven
+
+- Kalshi's CEO could not explain why Kalshi made Don Jr. a strategic adviser ('we have a lot of advisors').
+- Don Jr. denies it and says it was basically a passing comment.
+
+## In more detail
+
+- TMTG announced Truth Predict in Oct 2025 and shelved it in Aug 2026 before a full launch.
+- Don Jr. is a Kalshi strategic adviser and sits on Polymarket's advisory board, and his firm 1789 Capital invested in Polymarket.
+- Rep. McGovern asked Selig on Apr 16, 2026 whether the White House had sought to drop a Polymarket probe.
+- Trump posted 'It is a major industry, and we must protect it' on May 26, 2026, and the NYT reported Don Jr.'s March 2026 pitch to GOP attorneys general.
+- The weak points: the sports-as-swaps theory predates Selig, 'on the board of both' is loose (both roles are advisory), the earlier DOJ and CFTC Polymarket probes had closed in July 2025, and no source has Don Jr. calling his remarks a 'passing comment'.
 
 ## What the video said
 
@@ -27,76 +69,96 @@ tags:
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 
-## Summary
-
-Most of the core facts hold up. TMTG announced Truth Predict in Oct 2025 and shelved it in Aug 2026 before a full launch. Don Jr. is a Kalshi strategic adviser and sits on Polymarket's advisory board, and his firm 1789 Capital invested in Polymarket. Rep. McGovern asked Selig on Apr 16, 2026 whether the White House had sought to drop a Polymarket probe. Trump posted 'It is a major industry, and we must protect it' on May 26, 2026, and the NYT reported Don Jr.'s March 2026 pitch to GOP attorneys general. The weak points: the sports-as-swaps theory predates Selig, 'on the board of both' is loose (both roles are advisory), the earlier DOJ and CFTC Polymarket probes had closed in July 2025, and no source has Don Jr. calling his remarks a 'passing comment'.
-
 ## Sub-claims
 
-- **Confirmed**: TMTG announced Truth Predict, its entry into prediction markets, and it flopped.
-  - TMTG announced Truth Predict on 2025-10-28 with Crypto.com Derivatives North America as the partner. On the Q2 2026 earnings call (about Aug 7-10, 2026), interim CEO Kevin McGurn shelved it in favor of a marketing deal promoting Crypto.com's prediction products, citing a crowded market. It never fully launched, so 'flopped' means it was abandoned before launch, not that it launched and failed.
-  - <https://blockworks.co/news/trump-media-truth-predict>
-  - <https://fortune.com/crypto/2025/10/28/trump-media-prediction-markets-crypto/>
-  - <https://www.legalsportsreport.com/272817/trump-media-shelves-truth-social-prediction-market-plan/>
-  - <https://casinobeats.com/2026/08/10/trump-media-drops-plans-for-crypto-com-prediction-markets-on-truth-social/>
-  - <https://beincrypto.com/trump-media-rethinks-crypto-ambitions-mcgurn/>
-- **Partly accurate**: Sports prediction markets rely on a new legal theory (sports bets as financial event contracts) that is really only possible thanks to Trump's CFTC chairman Mike Selig.
-  - The theory is real: the CFTC treats event contracts as CEA 'swaps' under exclusive federal jurisdiction, which would preempt state gambling law. Selig, confirmed on 2025-12-18 by a 53-43 vote, is its leading enforcer: the CFTC sued AZ, CT and IL in April 2026, later moved against other states including NY, and filed amicus briefs. But the theory predates him. Kalshi's sports contracts went live in January 2025 under Acting Chair Pham, and courts remain split, including a Nevada ruling against the platforms.
-  - <https://www.theblock.co/news/regulation/2025-12-18-senate-confirm-cftc-chair-michael-selig-383083>
-  - <https://www.covers.com/industry/cftc-sues-illinois-arizona-connecticut-prediction-markets-april-2-2026>
-  - <https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits>
-  - <https://www.theblock.co/post/390241/cftc-claims-exclusive-federal-authority-over-prediction-markets-in-new-brief-clashing-with-states>
-- **Mostly accurate**: Polymarket and Kalshi are both linked to the president's family through Don Jr., who is 'on the board of both' multibillion-dollar companies.
-  - Kalshi named Don Jr. a strategic adviser in January 2025; per NYT-sourced reporting, his pay included more than $300k in Kalshi shares. He joined Polymarket's advisory board on 2025-08-26, the same day 1789 Capital (where he is a partner) made a strategic investment reported as double-digit millions or eight figures. Neither role is a board-of-directors seat. The App Store finance-chart ranking was not verified.
-  - <https://fortune.com/2025/01/13/donald-trump-jr-kalshi-prediction-market-strategic-adviser/>
-  - <https://sbcamericas.com/2025/01/13/donald-trump-jr-kalshi-advisor/>
-  - <https://www.theblock.co/post/368292/donald-trump-jr-invests-in-polymarket-and-joins-advisory-board>
-  - <https://www.thestar.com.my/tech/tech-news/2025/08/27/polymarket-secures-investment-from-trump-jr-backed-1789-capital>
-  - <https://blockworks.co/news/donald-trump-jr-polymarket-investment>
-  - <https://gvwire.com/2026/08/29/clash-between-prediction-markets-and-states-sets-off-a-furious-political-battle/>
-- **Confirmed**: Selig was asked in Congress whether anyone in the White House asked him to drop the CFTC's probe into Polymarket.
-  - At the House Agriculture Committee hearing on 2026-04-16, Rep. Jim McGovern asked the question. Selig replied 'we treat all market participants alike' and called the insinuation 'insulting', and McGovern said 'It smells like corruption.' Context: the DOJ and CFTC had closed their earlier Polymarket probes in July 2025, before Selig. No evidence of White House interference was found.
-  - <https://krdo.com/news/2026/04/16/trumps-top-regulator-for-prediction-markets-pledges-crackdown-on-insider-trading/>
-  - <https://axios.com/2026/04/16/prediction-markets-insider-trading-cftc>
-  - <https://decrypt.co/364611?amp=1>
-  - <https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703>
-  - <https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump>
-- **Unverified**: Kalshi's CEO could not explain why Kalshi made Don Jr. a strategic adviser ('we have a lot of advisors').
-  - Tarek Mansour has been questioned about Don Jr. repeatedly, including on The Axios Show in April 2026. He cites a politically diverse roster of advisers, says Kalshi 'never asked for any favors', and describes Don Jr.'s role as marketing advice. The exact clip wording was not located in text form, though the substance matches his reported answers.
-  - <https://www.axios.com/2026/04/09/kalshi-axios-show-mansour-lopes-lara>
-  - <https://nbcmiami.com/news/business/money-report/kalshi-names-donald-trump-jr-as-strategic-adviser-to-prediction-market-firm/3514027>
-- **Confirmed**: Trump posted that prediction markets are a major industry we need to protect.
-  - His Truth Social post of 2026-05-26 said the CFTC's 'exclusive authority over Prediction Markets' must be maintained and that 'It is a major industry, and we must protect it.' The post followed Minnesota's ban and attacked Walz, Pritzker, Letitia James and Christie.
-  - <https://www.washingtonexaminer.com/policy/finance-and-economy/4582966/trump-supports-cftc-regulate-prediction-markets/>
-  - <https://cointelegraph.com/news/trump-demands-cftc-maintains-authority-over-prediction-markets>
-  - <https://www.crowdfundinsider.com/2026/05/281923-president-trump-posts-on-truth-social-that-cftc-must-oversee-prediction-markets/>
-- **Confirmed**: Don Jr. spoke to Republican state AGs and reportedly told them not to fight prediction markets.
-  - On 2026-08-27 the NYT, citing four people, reported that at an early-March 2026 closed-door retreat of GOP AGs in New Orleans (a Q&A with Montana AG Austin Knudsen), Don Jr. argued that federal regulators, not state AGs, should oversee prediction markets and that opposition came from gambling firms protecting 'monopolies'. Sen. Warren asked RAGA to release the transcript, and the same reporting says the White House also contacted state officials.
-  - <https://gvwire.com/2026/08/29/clash-between-prediction-markets-and-states-sets-off-a-furious-political-battle/>
-  - <https://www.gambling.com/news/trump-jr-and-white-house-both-lobbied-states-over-prediction-markets>
-  - <https://gamblinginsider.com/news/193604/trump-jr-white-house-state-prediction-market-fight>
-  - <https://mediaite.com/media/news/donald-trump-jr-encouraged-state-ags-to-leave-prediction-market-regulation-to-the-feds-report>
-  - <https://www.banking.senate.gov/newsroom/minority/warren-calls-on-state-attorneys-general-to-release-transcript-of-meeting-with-donald-trump-jr-on-prediction-markets>
-- **Unverified**: Don Jr. denies it and says it was basically a passing comment.
-  - His spokesperson said he 'does not engage with the federal government on behalf of any company he invests in or advises'. Kalshi's 2026-08-27 rebuttal said he 'advises on marketing strategy' and 'does not advise on regulatory matters'. No source found quotes Don Jr. calling the remarks a 'passing comment'.
-  - <https://gvwire.com/2026/08/29/clash-between-prediction-markets-and-states-sets-off-a-furious-political-battle/>
-  - <https://www.gaming.net/kalshi-rebuts-report-trump-jr-pitched-gop-attorneys-general/>
+### 1. TMTG announced Truth Predict, its entry into prediction markets, and it flopped.
 
-## Corrections
+**Confirmed**
 
-- Transcript says 'Mike selling' and 'Seelig'; the CFTC chairman is Michael (Mike) Selig, confirmed 2025-12-18.
-- Transcript says 'CallSheet'; the company is Kalshi.
-- Transcript says Don Jr. is 'on the board of both'; he is a strategic adviser to Kalshi and on Polymarket's advisory board. Neither is a board-of-directors seat. His firm 1789 Capital invested in Polymarket.
-- Transcript implies Truth Predict launched and failed; it was announced in Oct 2025 and shelved in Aug 2026 before a full launch.
-- Transcript says sports prediction markets are 'only possible thanks to' Selig; Kalshi's sports contracts began in Jan 2025 under Acting Chair Pham. Selig is the theory's leading federal defender, not its origin.
-- The earlier DOJ and CFTC probes into Polymarket were closed in July 2025, before Selig became chair.
-- The 'passing comment' wording of Don Jr.'s denial was not found; the public denials came from his spokesperson and from Kalshi.
+- TMTG announced Truth Predict on 2025-10-28 with Crypto.com Derivatives North America as the partner.
+- On the Q2 2026 earnings call (about Aug 7-10, 2026), interim CEO Kevin McGurn shelved it in favor of a marketing deal promoting Crypto.com's prediction products, citing a crowded market.
+- It never fully launched, so 'flopped' means it was abandoned before launch, not that it launched and failed.
+- Dates: 2025-10-28; Aug 7-10, 2026
+- Sources: [1](https://blockworks.co/news/trump-media-truth-predict) [2](https://fortune.com/crypto/2025/10/28/trump-media-prediction-markets-crypto/) [3](https://www.legalsportsreport.com/272817/trump-media-shelves-truth-social-prediction-market-plan/) [4](https://casinobeats.com/2026/08/10/trump-media-drops-plans-for-crypto-com-prediction-markets-on-truth-social/) [5](https://beincrypto.com/trump-media-rethinks-crypto-ambitions-mcgurn/)
+
+### 2. Sports prediction markets rely on a new legal theory (sports bets as financial event contracts) that is really only possible thanks to Trump's CFTC chairman Mike Selig.
+
+**Partly accurate**
+
+- The theory is real: the CFTC treats event contracts as CEA 'swaps' under exclusive federal jurisdiction, which would preempt state gambling law.
+- Selig, confirmed on 2025-12-18 by a 53-43 vote, is its leading enforcer: the CFTC sued AZ, CT and IL in April 2026, later moved against other states including NY, and filed amicus briefs.
+- But the theory predates him.
+- Kalshi's sports contracts went live in January 2025 under Acting Chair Pham, and courts remain split, including a Nevada ruling against the platforms.
+- Dates: 2025-12-18; April 2026; January 2025
+- Sources: [9](https://www.theblock.co/news/regulation/2025-12-18-senate-confirm-cftc-chair-michael-selig-383083) [6](https://www.covers.com/industry/cftc-sues-illinois-arizona-connecticut-prediction-markets-april-2-2026) [7](https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits) [8](https://www.theblock.co/post/390241/cftc-claims-exclusive-federal-authority-over-prediction-markets-in-new-brief-clashing-with-states)
+
+### 3. Polymarket and Kalshi are both linked to the president's family through Don Jr., who is 'on the board of both' multibillion-dollar companies.
+
+**Mostly accurate**
+
+- Kalshi named Don Jr. a strategic adviser in January 2025; per NYT-sourced reporting, his pay included more than $300k in Kalshi shares.
+- He joined Polymarket's advisory board on 2025-08-26, the same day 1789 Capital (where he is a partner) made a strategic investment reported as double-digit millions or eight figures.
+- Neither role is a board-of-directors seat.
+- The App Store finance-chart ranking was not verified.
+- Amounts: more than $300k
+- Dates: January 2025; 2025-08-26
+- Sources: [10](https://fortune.com/2025/01/13/donald-trump-jr-kalshi-prediction-market-strategic-adviser/) [11](https://sbcamericas.com/2025/01/13/donald-trump-jr-kalshi-advisor/) [13](https://www.theblock.co/post/368292/donald-trump-jr-invests-in-polymarket-and-joins-advisory-board) [14](https://www.thestar.com.my/tech/tech-news/2025/08/27/polymarket-secures-investment-from-trump-jr-backed-1789-capital) [15](https://blockworks.co/news/donald-trump-jr-polymarket-investment) [12](https://gvwire.com/2026/08/29/clash-between-prediction-markets-and-states-sets-off-a-furious-political-battle/)
+
+### 4. Selig was asked in Congress whether anyone in the White House asked him to drop the CFTC's probe into Polymarket.
+
+**Confirmed**
+
+- At the House Agriculture Committee hearing on 2026-04-16, Rep. Jim McGovern asked the question.
+- Selig replied 'we treat all market participants alike' and called the insinuation 'insulting', and McGovern said 'It smells like corruption.'
+- Context: the DOJ and CFTC had closed their earlier Polymarket probes in July 2025, before Selig.
+- No evidence of White House interference was found.
+- Dates: 2026-04-16; July 2025
+- Sources: [16](https://krdo.com/news/2026/04/16/trumps-top-regulator-for-prediction-markets-pledges-crackdown-on-insider-trading/) [17](https://axios.com/2026/04/16/prediction-markets-insider-trading-cftc) [18](https://decrypt.co/364611?amp=1) [19](https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703) [20](https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump)
+
+### 5. Kalshi's CEO could not explain why Kalshi made Don Jr. a strategic adviser ('we have a lot of advisors').
+
+**Unverified**
+
+- Tarek Mansour has been questioned about Don Jr. repeatedly, including on The Axios Show in April 2026.
+- He cites a politically diverse roster of advisers, says Kalshi 'never asked for any favors', and describes Don Jr.'s role as marketing advice.
+- The exact clip wording was not located in text form, though the substance matches his reported answers.
+- Dates: April 2026
+- Sources: [21](https://www.axios.com/2026/04/09/kalshi-axios-show-mansour-lopes-lara) [22](https://nbcmiami.com/news/business/money-report/kalshi-names-donald-trump-jr-as-strategic-adviser-to-prediction-market-firm/3514027)
+
+### 6. Trump posted that prediction markets are a major industry we need to protect.
+
+**Confirmed**
+
+- His Truth Social post of 2026-05-26 said the CFTC's 'exclusive authority over Prediction Markets' must be maintained and that 'It is a major industry, and we must protect it.'
+- The post followed Minnesota's ban and attacked Walz, Pritzker, Letitia James and Christie.
+- Dates: 2026-05-26
+- Sources: [23](https://www.washingtonexaminer.com/policy/finance-and-economy/4582966/trump-supports-cftc-regulate-prediction-markets/) [24](https://cointelegraph.com/news/trump-demands-cftc-maintains-authority-over-prediction-markets) [25](https://www.crowdfundinsider.com/2026/05/281923-president-trump-posts-on-truth-social-that-cftc-must-oversee-prediction-markets/)
+
+### 7. Don Jr. spoke to Republican state AGs and reportedly told them not to fight prediction markets.
+
+**Confirmed**
+
+- On 2026-08-27 the NYT, citing four people, reported that at an early-March 2026 closed-door retreat of GOP AGs in New Orleans (a Q&A with Montana AG Austin Knudsen), Don Jr. argued that federal regulators, not state AGs, should oversee prediction markets and that opposition came from gambling firms protecting 'monopolies'.
+- Sen. Warren asked RAGA to release the transcript, and the same reporting says the White House also contacted state officials.
+- Dates: 2026-08-27; early-March 2026
+- Sources: [12](https://gvwire.com/2026/08/29/clash-between-prediction-markets-and-states-sets-off-a-furious-political-battle/) [26](https://www.gambling.com/news/trump-jr-and-white-house-both-lobbied-states-over-prediction-markets) [27](https://gamblinginsider.com/news/193604/trump-jr-white-house-state-prediction-market-fight) [28](https://mediaite.com/media/news/donald-trump-jr-encouraged-state-ags-to-leave-prediction-market-regulation-to-the-feds-report) [29](https://www.banking.senate.gov/newsroom/minority/warren-calls-on-state-attorneys-general-to-release-transcript-of-meeting-with-donald-trump-jr-on-prediction-markets)
+
+### 8. Don Jr. denies it and says it was basically a passing comment.
+
+**Unverified**
+
+- His spokesperson said he 'does not engage with the federal government on behalf of any company he invests in or advises'.
+- Kalshi's 2026-08-27 rebuttal said he 'advises on marketing strategy' and 'does not advise on regulatory matters'.
+- No source found quotes Don Jr. calling the remarks a 'passing comment'.
+- Dates: 2026-08-27
+- Sources: [12](https://gvwire.com/2026/08/29/clash-between-prediction-markets-and-states-sets-off-a-furious-political-battle/) [30](https://www.gaming.net/kalshi-rebuts-report-trump-jr-pitched-gop-attorneys-general/)
 
 ## Denials and context
 
 - Selig: the CFTC treats all market participants alike and does not bring politics into matters; he called McGovern's insinuation insulting.
 - Don Jr.'s spokesperson: he does not trade on prediction platforms and does not engage with federal officials on behalf of companies he advises or invests in.
-- Kalshi: Don Jr. advises on marketing, not regulation. Mansour says Kalshi never asked him for regulatory favors and points to politically diverse advisers.
+- Kalshi: Don Jr. advises on marketing, not regulation.
+  - Mansour says Kalshi never asked him for regulatory favors and points to politically diverse advisers.
 - TMTG: Truth Predict was dropped for competitive reasons (a crowded market), not regulatory ones.
 - Context cutting against the video: the CFTC's jurisdiction claim is contested in the courts, and 44 AGs (including Republicans) told the CFTC it lacks authority over sports wagering, so the policy outcome Don Jr. favors is not assured.
 - Context supporting the video: Sen. John Curtis (R-Utah) has called for a Senate Judiciary probe of presidential family members profiting from access, naming Don Jr.'s prediction-market ties.
@@ -112,98 +174,134 @@ Most of the core facts hold up. TMTG announced Truth Predict in Oct 2025 and she
 
 ## People and organisations
 
-- [[1789 Capital]]
-- [[Apple App Store]]
-- [[Austin Knudsen]]
-- [[Caroline Pham]]
-- [[CFTC probe into Polymarket]]
-- [[Coffeezilla]]
-- [[Coffeezilla prediction-markets video]]
-- [[Commodity Futures Trading Commission]]
-- [[Crypto.com]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[Elizabeth Warren]]
-- [[Jim McGovern]]
-- [[John Curtis]]
-- [[Kalshi]]
-- [[Kevin McGurn]]
-- [[Mike Selig]]
-- [[PayPal]]
-- [[Polymarket]]
-- [[Prediction markets industry]]
-- [[Republican Attorneys General Association]]
-- [[Republican state attorneys general]]
-- [[Selig congressional hearing]]
-- [[Sports bets as event contracts theory]]
-- [[Tarek Mansour]]
-- [[The New York Times]]
-- [[Trump Media & Technology Group]]
-- [[Truth Predict]]
-- [[Truth Social]]
-- [[Unnamed member of Congress]]
-- [[US Congress]]
-- [[US Department of Justice (us-doj)]]
-- [[Venmo]]
-- [[White House Trump administration]]
+- [[1789 Capital]] · Fund
+- [[Apple App Store]] · Company
+- [[Austin Knudsen]] · Person
+- [[Caroline Pham]] · Person
+- [[CFTC probe into Polymarket]] · Event
+- [[Coffeezilla]] · Person
+- [[Coffeezilla prediction-markets video]] · Media
+- [[Commodity Futures Trading Commission]] · Government body
+- [[Crypto.com]] · Company
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[Elizabeth Warren]] · Person
+- [[Jim McGovern]] · Person
+- [[John Curtis]] · Person
+- [[Kalshi]] · Company
+- [[Kevin McGurn]] · Person
+- [[Mike Selig]] · Person
+- [[PayPal]] · Company
+- [[Polymarket]] · Company
+- [[Prediction markets industry]] · Asset
+- [[Republican Attorneys General Association]] · Government body
+- [[Republican state attorneys general]] · Government body
+- [[Selig congressional hearing]] · Event
+- [[Sports bets as event contracts theory]] · Law or policy
+- [[Tarek Mansour]] · Person
+- [[The New York Times]] · Media
+- [[Trump Media & Technology Group]] · Company
+- [[Truth Predict]] · Product
+- [[Truth Social]] · Company
+- [[Unnamed member of Congress]] · Person
+- [[US Congress]] · Government body
+- [[US Department of Justice (us-doj)]] · Government body
+- [[Venmo]] · Company
+- [[White House Trump administration]] · Government body
 
 ## Relationships documented
 
-- [[1789 Capital]] *strategic investment (double-digit millions, reported)* [[Polymarket]] (2025-08-26, money) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Apple App Store]] *formerly topped by* [[PayPal]] (commercial) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Apple App Store]] *formerly topped by* [[Venmo]] (commercial) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Caroline Pham]] *acting chair (2025)* [[Commodity Futures Trading Commission]] (2025, regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Commodity Futures Trading Commission]] *conducting* [[CFTC probe into Polymarket]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Commodity Futures Trading Commission]] *enables* [[Sports bets as event contracts theory]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Commodity Futures Trading Commission]] *regulates; asserts exclusive jurisdiction over its event contracts* [[Kalshi]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Commodity Futures Trading Commission]] *closed earlier probe* [[Polymarket]] (2025-07, regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Commodity Futures Trading Commission]] *regulates* [[Prediction markets industry]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[CFTC probe into Polymarket]] *targets* [[Polymarket]] (legal) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Coffeezilla]] *made* [[Coffeezilla prediction-markets video]] (media) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Donald Trump]] *posted that CFTC exclusive authority must be kept ('major industry')* [[Commodity Futures Trading Commission]] (2026-05-26, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Donald Trump]] *father of* [[Donald Trump Jr]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump]] *appointed CFTC chair* [[Mike Selig]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Donald Trump]] *nominated as CFTC Chair* [[Mike Selig]] (2025-10, political) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Donald Trump]] *posted that industry must be protected* [[Prediction markets industry]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *strategic adviser (paid partly in shares, reportedly >$300k)* [[Kalshi]] (2025-01, $300K, advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Donald Trump Jr]] *strategic adviser to* [[Kalshi]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Donald Trump Jr]] *advisory board member* [[Polymarket]] (2025-08-26, advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C58 Market-moving posts and insider-trading allegations|C58]]
-- [[Donald Trump Jr]] *advisory board member of* [[Polymarket]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Donald Trump Jr]] *urged GOP AGs to leave prediction markets to federal regulators (reported)* [[Republican Attorneys General Association]] (2026-03, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Donald Trump Jr]] *reportedly urged not to fight prediction markets* [[Republican state attorneys general]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Elizabeth Warren]] *demanded transcript of Don Jr. remarks* [[Republican Attorneys General Association]] (2026-08, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Sports bets as event contracts theory]] *legalises sports bets on* [[Prediction markets industry]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Coffeezilla prediction-markets video]] *covered* [[Sports bets as event contracts theory]] (media) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Jim McGovern]] *asked whether White House sought to drop Polymarket probe* [[Mike Selig]] (2026-04-16, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Kalshi]] *tops finance chart of* [[Apple App Store]] (commercial) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Kevin McGurn]] *shelved* [[Truth Predict]] (2026-08, commercial) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Mike Selig]] *chairman of* [[Commodity Futures Trading Commission]] (2025-12-18, regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] (regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Mike Selig]] *testified at* [[Selig congressional hearing]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[The New York Times]] *reported AG pitch* [[Donald Trump Jr]] (2026-08-27, media) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Polymarket]] *tops finance chart of* [[Apple App Store]] (commercial) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Tarek Mansour]] *would not explain role of* [[Donald Trump Jr]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Tarek Mansour]] *CEO of* [[Kalshi]] (ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Trump Media & Technology Group]] *partnered for Truth Predict; switched to marketing deal* [[Crypto.com]] (2026-08, commercial) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Trump Media & Technology Group]] *announced (flopped)* [[Truth Predict]] (commercial) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Trump Media & Technology Group]] *announced, then shelved* [[Truth Predict]] (2025-10-28, commercial) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Truth Predict]] *entered* [[Prediction markets industry]] (commercial) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Unnamed member of Congress]] *questioned on White House pressure* [[Mike Selig]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[US Congress]] *held* [[Selig congressional hearing]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[US Department of Justice (us-doj)]] *closed probe* [[Polymarket]] (2025-07, legal) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[White House Trump administration]] *reportedly contacted state officials on prediction markets* [[Republican Attorneys General Association]] (2026, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+### Money (1)
 
-## Leads not covered by the video
+- [[1789 Capital]] *strategic investment (double-digit millions, reported)* [[Polymarket]] · 2025-08-26 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 
-- **White House directly lobbied states over prediction markets**: The same NYT reporting says the White House, not only Don Jr., contacted state officials about prediction markets while the family holds stakes in Kalshi and Polymarket. [source](https://www.gambling.com/news/trump-jr-and-white-house-both-lobbied-states-over-prediction-markets) · [[White House Trump administration]] [[Donald Trump Jr]] [[Kalshi]] [[Polymarket]]
-- **DOJ and CFTC dropped Polymarket probes in July 2025, a month before 1789 Capital invested**: Polymarket's enforcement relief came shortly before Don Jr.'s firm invested and he joined its advisory board; the timing deserves its own check. [source](https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703) · [[Polymarket]] [[US Department of Justice (us-doj)]] [[Commodity Futures Trading Commission]] [[1789 Capital]] [[Donald Trump Jr]]
-- **Sen. Curtis seeks Senate Judiciary probe of Don Jr.'s prediction-market ties**: Republican congressional scrutiny of the same conflict. [source](https://www.legalsportsreport.com/?p=278593) · [[John Curtis]] [[Donald Trump Jr]] [[Kalshi]] [[Polymarket]]
-- **CFTC sues states (AZ, CT, IL, NY, WI) to defend prediction markets**: Selig's CFTC is litigating for the industry in which the president's son holds stakes. [source](https://www.covers.com/industry/cftc-sues-illinois-arizona-connecticut-prediction-markets-april-2-2026) · [[Commodity Futures Trading Commission]] [[Mike Selig]] [[Kalshi]] [[Polymarket]]
-- **TMTG ends $6.4B CRO treasury deal with Crypto.com and Yorkville; pursues prediction-market data licensing**: TMTG retreated from its Crypto.com ties while still earning data-licensing revenue from prediction-market operators. [source](https://beincrypto.com/trump-media-rethinks-crypto-ambitions-mcgurn/) · [[Trump Media & Technology Group]] [[Crypto.com]] [[Kevin McGurn]]
+### Ownership (2)
 
-## Sources
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Tarek Mansour]] *CEO of* [[Kalshi]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+
+### Family (2)
+
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
+
+### Regulatory (10)
+
+- [[Caroline Pham]] *acting chair (2025)* [[Commodity Futures Trading Commission]] · 2025 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Commodity Futures Trading Commission]] *closed earlier probe* [[Polymarket]] · 2025-07 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Mike Selig]] *chairman of* [[Commodity Futures Trading Commission]] · 2025-12-18 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Commodity Futures Trading Commission]] *conducting* [[CFTC probe into Polymarket]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Commodity Futures Trading Commission]] *enables* [[Sports bets as event contracts theory]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Commodity Futures Trading Commission]] *regulates; asserts exclusive jurisdiction over its event contracts* [[Kalshi]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Commodity Futures Trading Commission]] *regulates* [[Prediction markets industry]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump]] *appointed CFTC chair* [[Mike Selig]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Sports bets as event contracts theory]] *legalises sports bets on* [[Prediction markets industry]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+
+### Advisory (5)
+
+- [[Donald Trump Jr]] *strategic adviser (paid partly in shares, reportedly >$300k)* [[Kalshi]] · 2025-01 · $300K · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *advisory board member* [[Polymarket]] · 2025-08-26 · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[Donald Trump Jr]] *strategic adviser to* [[Kalshi]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *advisory board member of* [[Polymarket]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Tarek Mansour]] *would not explain role of* [[Donald Trump Jr]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+
+### Political (11)
+
+- [[Donald Trump]] *nominated as CFTC Chair* [[Mike Selig]] · 2025-10 · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[White House Trump administration]] *reportedly contacted state officials on prediction markets* [[Republican Attorneys General Association]] · 2026 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *urged GOP AGs to leave prediction markets to federal regulators (reported)* [[Republican Attorneys General Association]] · 2026-03 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Jim McGovern]] *asked whether White House sought to drop Polymarket probe* [[Mike Selig]] · 2026-04-16 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump]] *posted that CFTC exclusive authority must be kept ('major industry')* [[Commodity Futures Trading Commission]] · 2026-05-26 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Elizabeth Warren]] *demanded transcript of Don Jr. remarks* [[Republican Attorneys General Association]] · 2026-08 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump]] *posted that industry must be protected* [[Prediction markets industry]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *reportedly urged not to fight prediction markets* [[Republican state attorneys general]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Mike Selig]] *testified at* [[Selig congressional hearing]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Unnamed member of Congress]] *questioned on White House pressure* [[Mike Selig]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[US Congress]] *held* [[Selig congressional hearing]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+
+### Legal (2)
+
+- [[US Department of Justice (us-doj)]] *closed probe* [[Polymarket]] · 2025-07 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[CFTC probe into Polymarket]] *targets* [[Polymarket]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+
+### Media (3)
+
+- [[The New York Times]] *reported AG pitch* [[Donald Trump Jr]] · 2026-08-27 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Coffeezilla]] *made* [[Coffeezilla prediction-markets video]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Coffeezilla prediction-markets video]] *covered* [[Sports bets as event contracts theory]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+
+### Commercial (9)
+
+- [[Trump Media & Technology Group]] *announced, then shelved* [[Truth Predict]] · 2025-10-28 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Kevin McGurn]] *shelved* [[Truth Predict]] · 2026-08 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Trump Media & Technology Group]] *partnered for Truth Predict; switched to marketing deal* [[Crypto.com]] · 2026-08 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Apple App Store]] *formerly topped by* [[PayPal]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Apple App Store]] *formerly topped by* [[Venmo]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Kalshi]] *tops finance chart of* [[Apple App Store]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Polymarket]] *tops finance chart of* [[Apple App Store]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Trump Media & Technology Group]] *announced (flopped)* [[Truth Predict]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Truth Predict]] *entered* [[Prediction markets industry]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+
+## Leads not covered here
+
+- **White House directly lobbied states over prediction markets**
+  - The same NYT reporting says the White House, not only Don Jr., contacted state officials about prediction markets while the family holds stakes in Kalshi and Polymarket.
+  - [[White House Trump administration]] [[Donald Trump Jr]] [[Kalshi]] [[Polymarket]] · [Source](https://www.gambling.com/news/trump-jr-and-white-house-both-lobbied-states-over-prediction-markets)
+- **DOJ and CFTC dropped Polymarket probes in July 2025, a month before 1789 Capital invested**
+  - Polymarket's enforcement relief came shortly before Don Jr.'s firm invested and he joined its advisory board; the timing deserves its own check.
+  - [[Polymarket]] [[US Department of Justice (us-doj)]] [[Commodity Futures Trading Commission]] [[1789 Capital]] [[Donald Trump Jr]] · [Source](https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703)
+- **Sen. Curtis seeks Senate Judiciary probe of Don Jr.'s prediction-market ties**
+  - Republican congressional scrutiny of the same conflict.
+  - [[John Curtis]] [[Donald Trump Jr]] [[Kalshi]] [[Polymarket]] · [Source](https://www.legalsportsreport.com/?p=278593)
+- **CFTC sues states (AZ, CT, IL, NY, WI) to defend prediction markets**
+  - Selig's CFTC is litigating for the industry in which the president's son holds stakes.
+  - [[Commodity Futures Trading Commission]] [[Mike Selig]] [[Kalshi]] [[Polymarket]] · [Source](https://www.covers.com/industry/cftc-sues-illinois-arizona-connecticut-prediction-markets-april-2-2026)
+- **TMTG ends $6.4B CRO treasury deal with Crypto.com and Yorkville; pursues prediction-market data licensing**
+  - TMTG retreated from its Crypto.com ties while still earning data-licensing revenue from prediction-market operators.
+  - [[Trump Media & Technology Group]] [[Crypto.com]] [[Kevin McGurn]] · [Source](https://beincrypto.com/trump-media-rethinks-crypto-ambitions-mcgurn/)
+
+## Sources (31)
 
 1. [Trump Media unveils prediction market Truth Predict](https://blockworks.co/news/trump-media-truth-predict) (Blockworks, 2025-10-28)
 2. [Trump Media prediction markets crypto](https://fortune.com/crypto/2025/10/28/trump-media-prediction-markets-crypto/) (Fortune, 2025-10-28)

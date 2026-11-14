@@ -10,9 +10,13 @@ tags:
 ---
 # Andy Jassy
 
-*person*
-
 Amazon CEO; recipient of the lawmakers' letter.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Amazon CEO; recipient of the lawmakers' letter.
 
 ## Relationships
 
-- [[Andy Jassy]] *CEO of* [[Amazon]] (ownership) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Hank Johnson]] *co-led inquiry letter to* [[Andy Jassy]] (2026-03-16, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
+### Ownership (1)
+
+- [[Andy Jassy]] *CEO of* [[Amazon]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+
+### Political (1)
+
+- [[Hank Johnson]] *co-led inquiry letter to* [[Andy Jassy]] · 2026-03-16 · [[C44 Melania Trump's Amazon documentary deal|C44]]

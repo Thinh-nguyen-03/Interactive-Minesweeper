@@ -10,9 +10,13 @@ tags:
 ---
 # Kalpesh Mehta
 
-*person*
-
 Tribeca Developers founder
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Tribeca Developers founder
 
 ## Relationships
 
-- [[Kalpesh Mehta]] *founded* [[Tribeca Developers]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Ownership (1)
+
+- [[Kalpesh Mehta]] *founded* [[Tribeca Developers]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

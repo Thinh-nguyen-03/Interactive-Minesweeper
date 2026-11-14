@@ -10,9 +10,13 @@ tags:
 ---
 # Andreessen Horowitz (a16z crypto)
 
-*fund*
-
 VC firm where Quintenz was global head of policy
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ VC firm where Quintenz was global head of policy
 
 ## Relationships
 
-- [[Brian Quintenz]] *global head of policy, a16z crypto* [[Andreessen Horowitz (a16z crypto)]] (commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+### Commercial (1)
+
+- [[Brian Quintenz]] *global head of policy, a16z crypto* [[Andreessen Horowitz (a16z crypto)]] · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]

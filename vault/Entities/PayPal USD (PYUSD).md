@@ -10,9 +10,13 @@ tags:
 ---
 # PayPal USD (PYUSD)
 
-*asset*
-
 Paxos-issued stablecoin USD1 overtook in Jan 2026
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Paxos-issued stablecoin USD1 overtook in Jan 2026
 
 ## Relationships
 
-- [[USD1]] *overtook in market cap* [[PayPal USD (PYUSD)]] (2026-01, commercial) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+### Commercial (1)
+
+- [[USD1]] *overtook in market cap* [[PayPal USD (PYUSD)]] · 2026-01 · [[C11 GENIUS CLARITY Acts and USD1|C11]]

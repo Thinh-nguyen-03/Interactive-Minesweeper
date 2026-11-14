@@ -10,9 +10,13 @@ tags:
 ---
 # Brian Huseman
 
-*person*
-
 Amazon VP of public policy; wrote Amazon's reply denying impropriety.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Amazon VP of public policy; wrote Amazon's reply denying impropriety.
 
 ## Relationships
 
-- [[Brian Huseman]] *replied denying impropriety* [[Elizabeth Warren]] (2026-03-30, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
+### Political (1)
+
+- [[Brian Huseman]] *replied denying impropriety* [[Elizabeth Warren]] · 2026-03-30 · [[C44 Melania Trump's Amazon documentary deal|C44]]

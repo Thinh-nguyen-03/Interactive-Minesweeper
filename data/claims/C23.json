@@ -218,6 +218,36 @@
       "publisher": "Public Citizen",
       "url": "https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/",
       "date": "2025"
+    },
+    {
+      "title": "SEC dismisses civil action against Gemini Trust with prejudice",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sec-dismisses-civil-action-against-gemini-trust-with-prejudice",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "The rise and fall of the SEC's case against the Winklevoss's Gemini",
+      "publisher": "Baker McKenzie Blockchain blog",
+      "url": "https://blockchain.bakermckenzie.com/2026/01/27/the-rise-and-fall-of-the-secs-case-against-the-winklevosss-gemini/",
+      "date": "2026-01-27"
+    },
+    {
+      "title": "Consensys, Solana, Uniswap donated to Donald Trump's inauguration",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/consensys-solana-uniswap-donald-trump-inauguration-donation",
+      "date": "2025-04-21"
+    },
+    {
+      "title": "Ripple, Coinbase, Solana among crypto firms contributing over $12M to Trump's inauguration fund",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/markets/cryptocurrency/25/04/44907123/ripple-coinbase-solana-among-crypto-firms-contributing-over-12m-to-trumps-inauguration-fund",
+      "date": "2025-04-21"
+    },
+    {
+      "title": "These are the 37 donors helping pay for Trump's $300 million White House ballroom (AP)",
+      "publisher": "KPTV / AP",
+      "url": "https://www.kptv.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/",
+      "date": "2025-11-13"
     }
   ],
   "entities": [
@@ -644,5 +674,49 @@
       ],
       "source_url": "https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Gemini Earn suit dismissed with prejudice by stipulation on Jan 23, 2026",
+      "Coinbase, Kraken (Payward) and Crypto.com (Foris DAX) each gave $1M, and Ripple about $4.8-5M, to the inaugural committee (FEC filing of Apr 20, 2025)",
+      "White House ballroom donor list includes Coinbase, Ripple, Tether America and the Winklevoss twins, with no Kraken or Binance",
+      "No Binance donation to the campaign or inauguration"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No factual changes. Independent outlets (Cointelegraph, Baker McKenzie, Benzinga, AP) match the dates, amounts and donor lists. Ripple's inaugural gift is reported as $4.8M (Benzinga) to $5M, consistent with the file's $4.9-5M. AP notes the ballroom list is incomplete and amounts are undisclosed, so the absence of Kraken and Binance means 'not found', not 'did not give'. Fresh searches turned up no Binance donation."
+    ],
+    "new_sources": [
+      {
+        "title": "SEC dismisses civil action against Gemini Trust with prejudice",
+        "publisher": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/sec-dismisses-civil-action-against-gemini-trust-with-prejudice",
+        "date": "2026-01-23"
+      },
+      {
+        "title": "The rise and fall of the SEC's case against the Winklevoss's Gemini",
+        "publisher": "Baker McKenzie Blockchain blog",
+        "url": "https://blockchain.bakermckenzie.com/2026/01/27/the-rise-and-fall-of-the-secs-case-against-the-winklevosss-gemini/",
+        "date": "2026-01-27"
+      },
+      {
+        "title": "Consensys, Solana, Uniswap donated to Donald Trump's inauguration",
+        "publisher": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/consensys-solana-uniswap-donald-trump-inauguration-donation",
+        "date": "2025-04-21"
+      },
+      {
+        "title": "Ripple, Coinbase, Solana among crypto firms contributing over $12M to Trump's inauguration fund",
+        "publisher": "Benzinga",
+        "url": "https://www.benzinga.com/markets/cryptocurrency/25/04/44907123/ripple-coinbase-solana-among-crypto-firms-contributing-over-12m-to-trumps-inauguration-fund",
+        "date": "2025-04-21"
+      },
+      {
+        "title": "These are the 37 donors helping pay for Trump's $300 million White House ballroom (AP)",
+        "publisher": "KPTV / AP",
+        "url": "https://www.kptv.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/",
+        "date": "2025-11-13"
+      }
+    ]
+  }
 }

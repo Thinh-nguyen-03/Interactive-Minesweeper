@@ -10,9 +10,13 @@ tags:
 ---
 # Truth+ Patriot Package
 
-*product*
-
 $9.99/month premium Truth+ tier launched July 2025 with conservative news channels and Great American Media films
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ $9.99/month premium Truth+ tier launched July 2025 with conservative news channe
 
 ## Relationships
 
-- [[Great American Media]] *supplies on-demand catalogue to* [[Truth+ Patriot Package]] (2025-08-07, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Truth+]] *premium tier* [[Truth+ Patriot Package]] (2025-07, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+### Commercial (2)
+
+- [[Truth+]] *premium tier* [[Truth+ Patriot Package]] · 2025-07 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Great American Media]] *supplies on-demand catalogue to* [[Truth+ Patriot Package]] · 2025-08-07 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]

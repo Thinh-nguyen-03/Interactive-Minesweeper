@@ -10,9 +10,13 @@ tags:
 ---
 # Possible UAE currency swap
 
-*event*
-
 Financial help for the UAE during the Iran crisis that Trump said was under consideration.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,9 +24,14 @@ Financial help for the UAE during the Iran crisis that Trump said was under cons
 
 ## Relationships
 
-- [[Donald Trump]] *said is under consideration* [[Possible UAE currency swap]] (political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[Iran war crisis]] *prompted* [[Possible UAE currency swap]] (political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[Possible UAE currency swap]] *would aid* [[United Arab Emirates]] (money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+### Money (1)
+
+- [[Possible UAE currency swap]] *would aid* [[United Arab Emirates]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+
+### Political (2)
+
+- [[Donald Trump]] *said is under consideration* [[Possible UAE currency swap]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Iran war crisis]] *prompted* [[Possible UAE currency swap]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 
 ## Themes
 

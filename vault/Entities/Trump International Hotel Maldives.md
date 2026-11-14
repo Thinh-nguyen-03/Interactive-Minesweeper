@@ -10,9 +10,13 @@ tags:
 ---
 # Trump International Hotel Maldives
 
-*asset*
-
 ~$300M tokenised resort announced 17 Nov 2025
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ tags:
 
 ## Relationships
 
-- [[Dar Global]] *develops (tokenised)* [[Trump International Hotel Maldives]] (2025-11-17, $300M, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Commercial (1)
+
+- [[Dar Global]] *develops (tokenised)* [[Trump International Hotel Maldives]] · 2025-11-17 · $300M · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

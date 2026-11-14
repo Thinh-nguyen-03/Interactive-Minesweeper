@@ -10,9 +10,13 @@ tags:
 ---
 # Polls on government corruption
 
-*event*
-
 Public concern at highest level in 20 years.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,7 +24,9 @@ Public concern at highest level in 20 years.
 
 ## Relationships
 
-- [[Polls on government corruption]] *show 20-year high concern about* [[US federal government]] (political) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Political (1)
+
+- [[Polls on government corruption]] *show 20-year high concern about* [[US federal government]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 
 ## Themes
 

@@ -10,9 +10,13 @@ tags:
 ---
 # Hank Johnson
 
-*person*
-
 U.S. representative (D-GA); co-led the inquiry letter to Amazon.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ U.S. representative (D-GA); co-led the inquiry letter to Amazon.
 
 ## Relationships
 
-- [[Hank Johnson]] *co-led inquiry letter to* [[Andy Jassy]] (2026-03-16, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
+### Political (1)
+
+- [[Hank Johnson]] *co-led inquiry letter to* [[Andy Jassy]] · 2026-03-16 · [[C44 Melania Trump's Amazon documentary deal|C44]]

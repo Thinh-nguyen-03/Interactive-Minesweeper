@@ -10,9 +10,13 @@ tags:
 ---
 # Mel Gibson
 
-*person*
-
 Actor whose gun-rights restoration Oyer opposed
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ Actor whose gun-rights restoration Oyer opposed
 
 ## Relationships
 
-- [[Liz Oyer]] *opposed gun-rights restoration for* [[Mel Gibson]] (2025-03, legal) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Pam Bondi]] *restored gun rights* [[Mel Gibson]] (2025-04, legal) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+### Legal (2)
+
+- [[Liz Oyer]] *opposed gun-rights restoration for* [[Mel Gibson]] · 2025-03 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Pam Bondi]] *restored gun rights* [[Mel Gibson]] · 2025-04 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

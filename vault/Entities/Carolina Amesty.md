@@ -10,9 +10,13 @@ tags:
 ---
 # Carolina Amesty
 
-*person*
-
 Ex-Florida legislator; charges dropped after hiring Brad Bondi
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Ex-Florida legislator; charges dropped after hiring Brad Bondi
 
 ## Relationships
 
-- [[Brad Bondi]] *defense counsel; DOJ dropped charges* [[Carolina Amesty]] (2025-08, legal) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Legal (1)
+
+- [[Brad Bondi]] *defense counsel; DOJ dropped charges* [[Carolina Amesty]] · 2025-08 · [[C65 Officials who decided matters involving their former clients or partners|C65]]

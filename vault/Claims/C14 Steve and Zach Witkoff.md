@@ -15,7 +15,39 @@ tags:
 ---
 # C14: Steve and Zach Witkoff
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Claim from the video · transcript lines 523-533
+
+## Bottom line
+
+Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's Middle East envoy, later also styled Special Envoy for Peace Missions.
+
+## What holds up
+
+- The Witkoffs, including Zach Witkoff, are co-founders of World Liberty Financial.
+- Steve Witkoff is the US Special Envoy to the Middle East.
+- WLF's largest shareholder is from the Middle East (mostly accurate)
+
+## What needs correcting
+
+- World Liberty Financial now says Steve Witkoff has divested his stake (partly accurate)
+- **Video said:** WLF 'now says' Steve Witkoff divested  
+  **Record shows:** WLF said in May 2025 only that divestment was in process; the claim that it was complete came from White House counsel David Warrington (February 2026) and spokeswoman Anna Kelly (September 2026).
+- Divestment was reported incomplete as of September–October 2025 (Bloomberg; Senate Democrats). Witkoff also reported about $107M in 2025 income from his WLF-linked holding company, up from $34M in 2024.
+- The 'largest shareholder from the Middle East' is Aryam Investment 1 (Abu Dhabi/UAE, backed by Sheikh Tahnoon) with 49%, described as the largest outside shareholder.
+- Witkoff's title by 2026 was also given as Special Envoy for Peace Missions.
+
+## What is unproven
+
+- This creates a possible conflict of interest.
+- The divestment seems intended to avoid precisely these conflict questions.
+
+## In more detail
+
+- WSJ reporting shows that Aryam Investment 1, an Abu Dhabi vehicle backed by Sheikh Tahnoon, bought 49% of WLF for $500M in January 2025, making it the largest outside shareholder.
+- The claim that WLF 'now says' Steve has divested is misattributed and overstated.
+- WLF said in May 2025 that divestment was in process; Bloomberg and Senate Democrats reported it incomplete in September and October 2025; the assertion that he has 'divested' came from the White House in 2026.
+- A 2026 disclosure also shows about $107M in 2025 income from his WLF-linked holding company.
 
 ## What the video said
 
@@ -26,51 +58,76 @@ tags:
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
 
-## Summary
-
-Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's Middle East envoy, later also styled Special Envoy for Peace Missions. WSJ reporting shows that Aryam Investment 1, an Abu Dhabi vehicle backed by Sheikh Tahnoon, bought 49% of WLF for $500M in January 2025, making it the largest outside shareholder. The claim that WLF 'now says' Steve has divested is misattributed and overstated. WLF said in May 2025 that divestment was in process; Bloomberg and Senate Democrats reported it incomplete in September and October 2025; the assertion that he has 'divested' came from the White House in 2026. A 2026 disclosure also shows about $107M in 2025 income from his WLF-linked holding company.
-
 ## Sub-claims
 
-- **Confirmed**: The Witkoffs, including Zach Witkoff, are co-founders of World Liberty Financial.
-  - Steve Witkoff co-founded WLF in 2024 with his sons Zach and Alex. Zach is a co-founder, has been described as CEO, and sits on WLF's board. Steve was later listed as 'co-founder emeritus'.
-  - <https://www.bisnow.com/news/national/commercial-real-estate/trumps-middle-east-envoy-divesting-from-real-estate-firm-he-founded-128498>
-  - <https://en.wikipedia.org/wiki/Zach_Witkoff>
-- **Confirmed**: Steve Witkoff is the US Special Envoy to the Middle East.
-  - Trump named him Special Envoy to the Middle East days after the November 2024 election. By 2026 the White House was also calling him Special Envoy for Peace Missions.
-  - <https://www.bisnow.com/news/national/commercial-real-estate/trumps-middle-east-envoy-divesting-from-real-estate-firm-he-founded-128498>
-  - <https://www.aol.com/articles/uae-linked-firm-bought-major-043021118.html>
-- **Mostly accurate**: WLF's largest shareholder is from the Middle East.
-  - Per the WSJ (2026-02-01), Aryam Investment 1, an Abu Dhabi vehicle backed by Tahnoon bin Zayed, agreed in January 2025 to buy 49% of WLF for $500M. Eric Trump signed about four days before the inauguration. Of the $250M paid upfront, about $187M went to Trump-family entities and at least $31M to Witkoff-family entities. Aryam took 2 of 5 board seats. It is described as the largest outside shareholder; WLF's site showed the Trump family stake falling from 75% to 38%. WLF never disclosed the buyer.
-  - <https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931>
-  - <https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj>
-  - <https://decrypt.co/356591/uae-royals-trump-crypto-venture-ethical-concerns>
-- **Unverified**: This creates a possible conflict of interest.
-  - This is opinion, though the concern is documented: Senate Democrats sent letters in October 2025, and the WSJ reported that the UAE gained AI-chip access months after the investment. No source establishes a quid pro quo or a causal link to policy.
-  - <https://www.slotkin.senate.gov/wp-content/uploads/2025/10/2025.10.22-Sen.-Slotkin-Colleagues-Letter-to-Witkoff-on-WLF-Assets.pdf>
-  - <https://decrypt.co/356591/uae-royals-trump-crypto-venture-ethical-concerns>
-- **Partly accurate**: World Liberty Financial now says Steve Witkoff has divested his stake.
-  - WLF posted in May 2025 only that he was 'in the process' of divesting. Bloomberg reported on 2025-09-17 that he still held the WLF assets, and Senate Democrats said in October 2025 that his disclosure still showed WLF crypto. White House counsel David Warrington told CNN in February 2026 that he 'has also divested', and spokeswoman Anna Kelly told ABC in September 2026 that he had 'fully divested'. The disclosure ABC reported shows about $107M in 2025 income from a WLF-linked holding company. No divestiture certificate or recipient of the stake was found.
-  - <https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets>
-  - <https://www.aol.com/articles/uae-linked-firm-bought-major-043021118.html>
-  - <https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300>
-  - <https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/>
-- **Unverified**: The divestment seems intended to avoid precisely these conflict questions.
-  - This is interpretation. Divestment was announced in May 2025, before the Aryam stake became public in February 2026. Ethics divestment exists to address conflicts, so the inference is plausible but not evidence of any wrongdoing.
-  - <https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets>
+### 1. The Witkoffs, including Zach Witkoff, are co-founders of World Liberty Financial.
 
-## Corrections
+**Confirmed**
 
-- Transcript says WLF 'now says' Steve Witkoff divested. WLF said in May 2025 only that divestment was in process; the claim that it was complete came from White House counsel David Warrington (February 2026) and spokeswoman Anna Kelly (September 2026).
-- Divestment was reported incomplete as of September–October 2025 (Bloomberg; Senate Democrats). Witkoff also reported about $107M in 2025 income from his WLF-linked holding company, up from $34M in 2024.
-- The 'largest shareholder from the Middle East' is Aryam Investment 1 (Abu Dhabi/UAE, backed by Sheikh Tahnoon) with 49%, described as the largest outside shareholder.
-- Witkoff's title by 2026 was also given as Special Envoy for Peace Missions.
+- Steve Witkoff co-founded WLF in 2024 with his sons Zach and Alex.
+- Zach is a co-founder, has been described as CEO, and sits on WLF's board.
+- Steve was later listed as 'co-founder emeritus'.
+- Sources: [11](https://www.bisnow.com/news/national/commercial-real-estate/trumps-middle-east-envoy-divesting-from-real-estate-firm-he-founded-128498) [12](https://en.wikipedia.org/wiki/Zach_Witkoff)
+
+### 2. Steve Witkoff is the US Special Envoy to the Middle East.
+
+**Confirmed**
+
+- Trump named him Special Envoy to the Middle East days after the November 2024 election.
+- By 2026 the White House was also calling him Special Envoy for Peace Missions.
+- Dates: November 2024
+- Sources: [11](https://www.bisnow.com/news/national/commercial-real-estate/trumps-middle-east-envoy-divesting-from-real-estate-firm-he-founded-128498) [3](https://www.aol.com/articles/uae-linked-firm-bought-major-043021118.html)
+
+### 3. WLF's largest shareholder is from the Middle East.
+
+**Mostly accurate**
+
+- Per the WSJ (2026-02-01), Aryam Investment 1, an Abu Dhabi vehicle backed by Tahnoon bin Zayed, agreed in January 2025 to buy 49% of WLF for $500M. Eric Trump signed about four days before the inauguration.
+- Of the $250M paid upfront, about $187M went to Trump-family entities and at least $31M to Witkoff-family entities.
+- Aryam took 2 of 5 board seats.
+- It is described as the largest outside shareholder; WLF's site showed the Trump family stake falling from 75% to 38%.
+- WLF never disclosed the buyer.
+- Amounts: 49%; $500M; $250M; about $187M; at least $31M
+- Dates: 2026-02-01; January 2025
+- Sources: [1](https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931) [4](https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj) [5](https://decrypt.co/356591/uae-royals-trump-crypto-venture-ethical-concerns)
+
+### 4. This creates a possible conflict of interest.
+
+**Unverified**
+
+- This is opinion, though the concern is documented: Senate Democrats sent letters in October 2025, and the WSJ reported that the UAE gained AI-chip access months after the investment.
+- No source establishes a quid pro quo or a causal link to policy.
+- Dates: October 2025
+- Sources: [7](https://www.slotkin.senate.gov/wp-content/uploads/2025/10/2025.10.22-Sen.-Slotkin-Colleagues-Letter-to-Witkoff-on-WLF-Assets.pdf) [5](https://decrypt.co/356591/uae-royals-trump-crypto-venture-ethical-concerns)
+
+### 5. World Liberty Financial now says Steve Witkoff has divested his stake.
+
+**Partly accurate**
+
+- WLF posted in May 2025 only that he was 'in the process' of divesting.
+- Bloomberg reported on 2025-09-17 that he still held the WLF assets, and Senate Democrats said in October 2025 that his disclosure still showed WLF crypto.
+- White House counsel David Warrington told CNN in February 2026 that he 'has also divested', and spokeswoman Anna Kelly told ABC in September 2026 that he had 'fully divested'.
+- The disclosure ABC reported shows about $107M in 2025 income from a WLF-linked holding company.
+- No divestiture certificate or recipient of the stake was found.
+- Amounts: about $107M
+- Dates: May 2025; 2025-09-17; October 2025; February 2026; September 2026
+- Sources: [6](https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets) [3](https://www.aol.com/articles/uae-linked-firm-bought-major-043021118.html) [9](https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300) [8](https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/)
+
+### 6. The divestment seems intended to avoid precisely these conflict questions.
+
+**Unverified**
+
+- This is interpretation. Divestment was announced in May 2025, before the Aryam stake became public in February 2026.
+- Ethics divestment exists to address conflicts, so the inference is plausible but not evidence of any wrongdoing.
+- Dates: May 2025; February 2026
+- Sources: [6](https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets)
 
 ## Denials and context
 
 - WLF spokesman David Wachsman said neither Trump nor Steve Witkoff had any involvement in the Aryam transaction.
 - Trump said he was unaware of the $500M UAE investment.
-- The White House says Witkoff does not take part in official matters affecting his financial interests and has fully divested from WLF. A Witkoff spokesman says he does not discuss WLF in his official duties.
+- The White House says Witkoff does not take part in official matters affecting his financial interests and has fully divested from WLF.
+  - A Witkoff spokesman says he does not discuss WLF in his official duties.
 - At least $31M of Aryam's upfront payment reportedly went to Witkoff-family entities, so the family had a financial stake in the deal regardless of Steve's own status.
 - No source shows the investment caused any specific US policy decision.
 
@@ -80,52 +137,75 @@ Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's 
 
 ## People and organisations
 
-- [[Alex Witkoff]]
-- [[Anna Kelly]]
-- [[Aryam Investment 1]]
-- [[David Warrington]]
-- [[Donald Trump]]
-- [[Eric Trump]]
-- [[G42]]
-- [[Sheikh Tahnoon bin Zayed]]
-- [[Steve Witkoff]]
-- [[Tahnoon-linked investment vehicle]]
-- [[The Wall Street Journal]]
-- [[UAE AI chips deal]]
-- [[United Arab Emirates]]
-- [[US Congress]]
-- [[White House Trump administration]]
-- [[World Liberty Financial]]
-- [[Zach Witkoff]]
+- [[Alex Witkoff]] · Person
+- [[Anna Kelly]] · Person
+- [[Aryam Investment 1]] · Fund
+- [[David Warrington]] · Person
+- [[Donald Trump]] · Person
+- [[Eric Trump]] · Person
+- [[G42]] · Company
+- [[Sheikh Tahnoon bin Zayed]] · Person
+- [[Steve Witkoff]] · Person
+- [[Tahnoon-linked investment vehicle]] · Company
+- [[The Wall Street Journal]] · Media
+- [[UAE AI chips deal]] · Event
+- [[United Arab Emirates]] · Country
+- [[US Congress]] · Government body
+- [[White House Trump administration]] · Government body
+- [[World Liberty Financial]] · Company
+- [[Zach Witkoff]] · Person
 
 ## Relationships documented
 
-- [[Alex Witkoff]] *son of* [[Steve Witkoff]] (family) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Alex Witkoff]] *co-founder* [[World Liberty Financial]] (2024, ownership) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Anna Kelly]] *asserted 'fully divested' from WLF* [[Steve Witkoff]] (2026-09, political) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Aryam Investment 1]] *about $187M of upfront payment to Trump-family entities* [[Donald Trump]] (2025, $187M, money) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Aryam Investment 1]] *at least $31M of upfront payment to Witkoff-family entities* [[Steve Witkoff]] (2025, $31M, money) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Aryam Investment 1]] *Abu Dhabi-based vehicle of* [[United Arab Emirates]] (political) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Aryam Investment 1]] *bought 49% stake for* [[World Liberty Financial]] (2025-01, $500M, money) · [[C14 Steve and Zach Witkoff|C14]]
-- [[David Warrington]] *asserted divestment from WLF* [[Steve Witkoff]] (2026-02, political) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Eric Trump]] *signed stake sale with* [[Aryam Investment 1]] (2025-01, commercial) · [[C14 Steve and Zach Witkoff|C14]]
-- [[G42]] *executives manage; hold 2 WLF board seats* [[Aryam Investment 1]] (advisory) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Steve Witkoff]] *negotiates in region of* [[United Arab Emirates]] (political) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Steve Witkoff]] *involved in UAE talks* [[UAE AI chips deal]] (2025, political) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Steve Witkoff]] *Special Envoy to Middle East for* [[White House Trump administration]] (political) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] (2024-11, political) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Steve Witkoff]] *co-founded (later co-founder emeritus)* [[World Liberty Financial]] (2024, ownership) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Steve Witkoff]] *held stake, said to have divested* [[World Liberty Financial]] (ownership) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Tahnoon-linked investment vehicle]] *secretly bought 49% for $500M* [[World Liberty Financial]] (2025-01-16, $500M, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C14 Steve and Zach Witkoff|C14]]
-- [[US Congress]] *Senate Democrats demanded answers on failure to divest* [[Steve Witkoff]] (2025-10, regulatory) · [[C14 Steve and Zach Witkoff|C14]]
-- [[The Wall Street Journal]] *revealed stake* [[Aryam Investment 1]] (2026-02-01, media) · [[C14 Steve and Zach Witkoff|C14]]
-- [[World Liberty Financial]] *about $107M 2025 income via WLF-linked holding company* [[Steve Witkoff]] (2025, $107M, money) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Zach Witkoff]] *son of* [[Steve Witkoff]] (family) · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]]
-- [[Zach Witkoff]] *co-founded* [[World Liberty Financial]] (ownership) · [[C04 World Liberty Financial founding and token sale|C04]] [[C14 Steve and Zach Witkoff|C14]]
-- [[Zach Witkoff]] *co-founder, CEO and board member* [[World Liberty Financial]] (2024, ownership) · [[C14 Steve and Zach Witkoff|C14]]
+### Money (4)
 
-## Sources
+- [[Aryam Investment 1]] *about $187M of upfront payment to Trump-family entities* [[Donald Trump]] · 2025 · $187M · [[C14 Steve and Zach Witkoff|C14]]
+- [[Aryam Investment 1]] *at least $31M of upfront payment to Witkoff-family entities* [[Steve Witkoff]] · 2025 · $31M · [[C14 Steve and Zach Witkoff|C14]]
+- [[World Liberty Financial]] *about $107M 2025 income via WLF-linked holding company* [[Steve Witkoff]] · 2025 · $107M · [[C14 Steve and Zach Witkoff|C14]]
+- [[Aryam Investment 1]] *bought 49% stake for* [[World Liberty Financial]] · 2025-01 · $500M · [[C14 Steve and Zach Witkoff|C14]]
+
+### Ownership (7)
+
+- [[Alex Witkoff]] *co-founder* [[World Liberty Financial]] · 2024 · [[C14 Steve and Zach Witkoff|C14]]
+- [[Steve Witkoff]] *co-founded (later co-founder emeritus)* [[World Liberty Financial]] · 2024 · [[C14 Steve and Zach Witkoff|C14]]
+- [[Zach Witkoff]] *co-founder, CEO and board member* [[World Liberty Financial]] · 2024 · [[C14 Steve and Zach Witkoff|C14]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Tahnoon-linked investment vehicle]] *secretly bought 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C14 Steve and Zach Witkoff|C14]]
+- [[Steve Witkoff]] *held stake, said to have divested* [[World Liberty Financial]] · [[C14 Steve and Zach Witkoff|C14]]
+- [[Zach Witkoff]] *co-founded* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C14 Steve and Zach Witkoff|C14]]
+
+### Family (2)
+
+- [[Alex Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]]
+- [[Zach Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]]
+
+### Regulatory (1)
+
+- [[US Congress]] *Senate Democrats demanded answers on failure to divest* [[Steve Witkoff]] · 2025-10 · [[C14 Steve and Zach Witkoff|C14]]
+
+### Advisory (1)
+
+- [[G42]] *executives manage; hold 2 WLF board seats* [[Aryam Investment 1]] · [[C14 Steve and Zach Witkoff|C14]]
+
+### Political (7)
+
+- [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] · 2024-11 · [[C14 Steve and Zach Witkoff|C14]]
+- [[Steve Witkoff]] *involved in UAE talks* [[UAE AI chips deal]] · 2025 · [[C14 Steve and Zach Witkoff|C14]]
+- [[David Warrington]] *asserted divestment from WLF* [[Steve Witkoff]] · 2026-02 · [[C14 Steve and Zach Witkoff|C14]]
+- [[Anna Kelly]] *asserted 'fully divested' from WLF* [[Steve Witkoff]] · 2026-09 · [[C14 Steve and Zach Witkoff|C14]]
+- [[Aryam Investment 1]] *Abu Dhabi-based vehicle of* [[United Arab Emirates]] · [[C14 Steve and Zach Witkoff|C14]]
+- [[Steve Witkoff]] *negotiates in region of* [[United Arab Emirates]] · [[C14 Steve and Zach Witkoff|C14]]
+- [[Steve Witkoff]] *Special Envoy to Middle East for* [[White House Trump administration]] · [[C14 Steve and Zach Witkoff|C14]]
+
+### Media (1)
+
+- [[The Wall Street Journal]] *revealed stake* [[Aryam Investment 1]] · 2026-02-01 · [[C14 Steve and Zach Witkoff|C14]]
+
+### Commercial (1)
+
+- [[Eric Trump]] *signed stake sale with* [[Aryam Investment 1]] · 2025-01 · [[C14 Steve and Zach Witkoff|C14]]
+
+## Sources (12)
 
 1. [UAE Sheikh secretly acquired 49% of Trump's World Liberty Financial days before inauguration: WSJ](https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931) (The Block, 2026-02-01)
 2. [President Trump says he was unaware of $500 million UAE investment in World Liberty Financial](https://www.theblock.co/news/deals/2026-02-03-president-trump-says-he-was-unaware-of-500-million-uae-investment-in-world-liberty-financial-388191) (The Block, 2026-02-03)

@@ -10,9 +10,13 @@ tags:
 ---
 # Albania Law 21/2024 (Protected Areas amendment)
 
-*law*
-
 Feb 2024 amendment allowing strategic tourism investment in protected areas.
+
+| | |
+|---|---|
+| Type | Law or policy |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Feb 2024 amendment allowing strategic tourism investment in protected areas.
 
 ## Relationships
 
-- [[Albania]] *enacted protected-areas amendment* [[Albania Law 21 2024 (Protected Areas amendment)]] (2024-02-22, regulatory) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Regulatory (1)
+
+- [[Albania]] *enacted protected-areas amendment* [[Albania Law 21 2024 (Protected Areas amendment)]] · 2024-02-22 · [[C45 Kushner's Albania and Serbia developments|C45]]

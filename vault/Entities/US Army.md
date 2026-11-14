@@ -10,9 +10,15 @@ tags:
 ---
 # US Army
 
-*government*
-
 Purchaser of UMAC motors (101st Airborne) and Firehawk Hydra-70 prototypes.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 2 claims |
+| Connections | 5 |
+
+## How other claims describe it
 
 - Customer for UMAC drone motors (see C32)
 
@@ -23,6 +29,11 @@ Purchaser of UMAC motors (101st Airborne) and Firehawk Hydra-70 prototypes.
 
 ## Relationships
 
-- [[US Army]] *Hydra-70 prototype agreement with* [[Firehawk Aerospace]] (2026-08, commercial) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
-- [[US Army]] *part of* [[Pentagon (Department of Defense)]] (regulatory) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
-- [[US Army]] *ordered 3,500 drone motors (value undisclosed) from* [[Unusual Machines]] (2025-10-15, commercial) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+### Regulatory (1)
+
+- [[US Army]] *part of* [[Pentagon (Department of Defense)]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+
+### Commercial (2)
+
+- [[US Army]] *ordered 3,500 drone motors (value undisclosed) from* [[Unusual Machines]] · 2025-10-15 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[US Army]] *Hydra-70 prototype agreement with* [[Firehawk Aerospace]] · 2026-08 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]

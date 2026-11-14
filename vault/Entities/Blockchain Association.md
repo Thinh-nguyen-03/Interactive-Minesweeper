@@ -10,9 +10,13 @@ tags:
 ---
 # Blockchain Association
 
-*company*
-
 Crypto trade/lobby group; Selig former client; Mersinger CEO
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ Crypto trade/lobby group; Selig former client; Mersinger CEO
 
 ## Relationships
 
-- [[Mike Selig]] *former client* [[Blockchain Association]] (commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Summer Mersinger]] *CEO after leaving CFTC early* [[Blockchain Association]] (2025-06-02, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+### Commercial (2)
+
+- [[Summer Mersinger]] *CEO after leaving CFTC early* [[Blockchain Association]] · 2025-06-02 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Mike Selig]] *former client* [[Blockchain Association]] · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]

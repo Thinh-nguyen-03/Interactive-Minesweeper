@@ -10,9 +10,13 @@ tags:
 ---
 # Sergio Gor
 
-*person*
-
 US ambassador to India
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ US ambassador to India
 
 ## Relationships
 
-- [[Jason Miller]] *met three times* [[Sergio Gor]] (2025-11, advisory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Advisory (1)
+
+- [[Jason Miller]] *met three times* [[Sergio Gor]] · 2025-11 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

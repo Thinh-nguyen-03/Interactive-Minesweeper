@@ -10,9 +10,13 @@ tags:
 ---
 # Inflection Point
 
-*fund*
-
 Anchor investor of USA Rare Earth's $1.5B PIPE
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

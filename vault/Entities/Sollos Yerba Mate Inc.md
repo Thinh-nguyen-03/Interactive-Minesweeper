@@ -10,9 +10,13 @@ tags:
 ---
 # Sollos Yerba Mate Inc.
 
-*company*
-
 Beverage startup reportedly linked to Barron Trump; Palm Beach address
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Beverage startup reportedly linked to Barron Trump; Palm Beach address
 
 ## Relationships
 
-- [[Barron Trump]] *reported founder (identity unconfirmed by Fox Business)* [[Sollos Yerba Mate Inc]] (2025-12-03, ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Jay Weitzman]] *owns house used as company address (denies involvement)* [[Sollos Yerba Mate Inc]] (2026-01, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Ownership (1)
+
+- [[Barron Trump]] *reported founder (identity unconfirmed by Fox Business)* [[Sollos Yerba Mate Inc]] · 2025-12-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+
+### Commercial (1)
+
+- [[Jay Weitzman]] *owns house used as company address (denies involvement)* [[Sollos Yerba Mate Inc]] · 2026-01 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

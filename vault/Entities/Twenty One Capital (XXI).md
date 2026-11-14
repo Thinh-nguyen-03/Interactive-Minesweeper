@@ -10,9 +10,13 @@ tags:
 ---
 # Twenty One Capital (XXI)
 
-*company*
-
 Bitcoin treasury company backed by Tether, Bitfinex and SoftBank; listed via Cantor SPAC
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 6 |
 
 ## Appears in claims
 
@@ -20,8 +24,13 @@ Bitcoin treasury company backed by Tether, Bitfinex and SoftBank; listed via Can
 
 ## Relationships
 
-- [[Bitfinex]] *co-owner; contributed ~$600M in BTC* [[Twenty One Capital (XXI)]] (2025-04-23, $600M, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Cantor Equity Partners]] *SPAC merger partner* [[Twenty One Capital (XXI)]] (2025-12-09, commercial) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Jack Mallers]] *CEO* [[Twenty One Capital (XXI)]] (ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[SoftBank]] *minority owner; ~$900M* [[Twenty One Capital (XXI)]] (2025-04-23, $900M, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Tether]] *majority owner; contributed ~$1.6B in BTC* [[Twenty One Capital (XXI)]] (2025-04-23, $1.6B, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+### Ownership (4)
+
+- [[Bitfinex]] *co-owner; contributed ~$600M in BTC* [[Twenty One Capital (XXI)]] · 2025-04-23 · $600M · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[SoftBank]] *minority owner; ~$900M* [[Twenty One Capital (XXI)]] · 2025-04-23 · $900M · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Tether]] *majority owner; contributed ~$1.6B in BTC* [[Twenty One Capital (XXI)]] · 2025-04-23 · $1.6B · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Jack Mallers]] *CEO* [[Twenty One Capital (XXI)]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+
+### Commercial (1)
+
+- [[Cantor Equity Partners]] *SPAC merger partner* [[Twenty One Capital (XXI)]] · 2025-12-09 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]

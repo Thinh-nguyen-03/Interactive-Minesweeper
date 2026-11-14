@@ -10,9 +10,13 @@ tags:
 ---
 # BitTorrent Foundation Ltd.
 
-*company*
-
 Sun entity; SEC claims against it dismissed.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Sun entity; SEC claims against it dismissed.
 
 ## Relationships
 
-- [[Securities and Exchange Commission]] *dismissed claims against* [[BitTorrent Foundation Ltd]] (2026-03-05, regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
+### Regulatory (1)
+
+- [[Securities and Exchange Commission]] *dismissed claims against* [[BitTorrent Foundation Ltd]] · 2026-03-05 · [[C05 Justin Sun, WLF and the SEC|C05]]

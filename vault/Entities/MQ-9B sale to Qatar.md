@@ -10,9 +10,13 @@ tags:
 ---
 # MQ-9B sale to Qatar
 
-*event*
-
 $1.96B FMS of 8 MQ-9B drones and munitions
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ $1.96B FMS of 8 MQ-9B drones and munitions
 
 ## Relationships
 
-- [[General Atomics Aeronautical Systems]] *manufacturer for* [[MQ-9B sale to Qatar]] (2025-03-26, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Qatar]] *signed LOA during Trump visit* [[MQ-9B sale to Qatar]] (2025-05-14, $1.96B, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+### Commercial (2)
+
+- [[General Atomics Aeronautical Systems]] *manufacturer for* [[MQ-9B sale to Qatar]] · 2025-03-26 · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatar]] *signed LOA during Trump visit* [[MQ-9B sale to Qatar]] · 2025-05-14 · $1.96B · [[C16 Qatar jet, arms sales and golf deal|C16]]

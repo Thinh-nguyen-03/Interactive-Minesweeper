@@ -10,9 +10,13 @@ tags:
 ---
 # SDC Imobiliare
 
-*company*
-
 Cluj developer of Trump projects in Romania
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ Cluj developer of Trump projects in Romania
 
 ## Relationships
 
-- [[SDC Imobiliare]] *develops* [[Trump Tower Bucharest]] (2025-07, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Trump Organization]] *licensing partner* [[SDC Imobiliare]] (2025-07, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Commercial (2)
+
+- [[SDC Imobiliare]] *develops* [[Trump Tower Bucharest]] · 2025-07 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Trump Organization]] *licensing partner* [[SDC Imobiliare]] · 2025-07 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Candace Owens
 
-*person*
-
 Right-wing commentator who attacked Ivanka and Kushner over the Albania resort.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Right-wing commentator who attacked Ivanka and Kushner over the Albania resort.
 
 ## Relationships
 
-- [[Candace Owens]] *attacked over Albania resort* [[Ivanka Trump]] (2026-06, media) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Media (1)
+
+- [[Candace Owens]] *attacked over Albania resort* [[Ivanka Trump]] · 2026-06 · [[C45 Kushner's Albania and Serbia developments|C45]]

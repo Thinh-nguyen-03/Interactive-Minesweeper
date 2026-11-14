@@ -10,9 +10,13 @@ tags:
 ---
 # General Atomics Aeronautical Systems
 
-*company*
-
 MQ-9B manufacturer
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ MQ-9B manufacturer
 
 ## Relationships
 
-- [[General Atomics Aeronautical Systems]] *manufacturer for* [[MQ-9B sale to Qatar]] (2025-03-26, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+### Commercial (1)
+
+- [[General Atomics Aeronautical Systems]] *manufacturer for* [[MQ-9B sale to Qatar]] · 2025-03-26 · [[C16 Qatar jet, arms sales and golf deal|C16]]

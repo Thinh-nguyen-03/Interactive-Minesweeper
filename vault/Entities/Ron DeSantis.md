@@ -10,9 +10,13 @@ tags:
 ---
 # Ron DeSantis
 
-*person*
-
 Florida governor; chaired the Cabinet vote; defendant in the federal emoluments suit
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Florida governor; chaired the Cabinet vote; defendant in the federal emoluments 
 
 ## Relationships
 
-- [[Ron DeSantis]] *chairs* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] (political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+### Political (1)
+
+- [[Ron DeSantis]] *chairs* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]

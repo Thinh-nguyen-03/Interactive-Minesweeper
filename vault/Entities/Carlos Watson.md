@@ -10,9 +10,13 @@ tags:
 ---
 # Carlos Watson
 
-*person*
-
 Ozy Media founder; sentence commuted Mar 28, 2025
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -20,7 +24,18 @@ Ozy Media founder; sentence commuted Mar 28, 2025
 
 ## Relationships
 
-- [[Alice Marie Johnson]] *handled clemency case* [[Carlos Watson]] (2025-03, advisory) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Carlos Watson]] *founder of* [[Ozy Media]] (ownership) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Donald Trump]] *commuted sentence (voiding ~$36M restitution, ~$60M forfeiture)* [[Carlos Watson]] (2025-03-28, $96M, legal) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Securities and Exchange Commission]] *dismissed civil claims after commutation* [[Carlos Watson]] (2025-09, regulatory) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+### Ownership (1)
+
+- [[Carlos Watson]] *founder of* [[Ozy Media]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+
+### Regulatory (1)
+
+- [[Securities and Exchange Commission]] *dismissed civil claims after commutation* [[Carlos Watson]] · 2025-09 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+
+### Advisory (1)
+
+- [[Alice Marie Johnson]] *handled clemency case* [[Carlos Watson]] · 2025-03 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+
+### Legal (1)
+
+- [[Donald Trump]] *commuted sentence (voiding ~$36M restitution, ~$60M forfeiture)* [[Carlos Watson]] · 2025-03-28 · $96M · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

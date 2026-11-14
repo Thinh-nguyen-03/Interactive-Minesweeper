@@ -10,9 +10,13 @@ tags:
 ---
 # Pat O'Brien
 
-*person*
-
 Trump Mobile CEO; co-owner of VMed Mobile; Ensurety Ventures
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Trump Mobile CEO; co-owner of VMed Mobile; Ensurety Ventures
 
 ## Relationships
 
-- [[Pat O'Brien]] *CEO of* [[Trump Mobile]] (advisory) · [[C63 Shell entities and ownership chains|C63]]
+### Advisory (1)
+
+- [[Pat O'Brien]] *CEO of* [[Trump Mobile]] · [[C63 Shell entities and ownership chains|C63]]

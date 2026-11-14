@@ -10,9 +10,13 @@ tags:
 ---
 # Defense Security Cooperation Agency
 
-*government*
-
 Notifies Congress of FMS cases
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Notifies Congress of FMS cases
 
 ## Relationships
 
-- [[Defense Security Cooperation Agency]] *notified MQ-9B sale to* [[US Congress]] (2025-03-26, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+### Regulatory (1)
+
+- [[Defense Security Cooperation Agency]] *notified MQ-9B sale to* [[US Congress]] · 2025-03-26 · [[C16 Qatar jet, arms sales and golf deal|C16]]

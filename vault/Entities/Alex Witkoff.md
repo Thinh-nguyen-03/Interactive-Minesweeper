@@ -10,9 +10,15 @@ tags:
 ---
 # Alex Witkoff
 
-*person*
-
 Son of Steve Witkoff; CEO of the Witkoff Group; pitched QIA a $4B credit fund
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 3 claims |
+| Connections | 9 |
+
+## How other claims describe it
 
 - Son of Steve Witkoff; WLF co-founder; runs the Witkoff Group.
 - Son of Steve Witkoff; reported Executive Branch co-founder.
@@ -25,10 +31,18 @@ Son of Steve Witkoff; CEO of the Witkoff Group; pitched QIA a $4B credit fund
 
 ## Relationships
 
-- [[Alex Witkoff]] *reported co-founder of* [[Executive Branch]] (2025-04, ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
-- [[Alex Witkoff]] *pitched $4B credit fund (declined)* [[Qatar Investment Authority]] (2024, $4B, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Alex Witkoff]] *proposed* [[Special Situations Real Estate Credit Fund]] (2024, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Alex Witkoff]] *son of* [[Steve Witkoff]] (family) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Alex Witkoff]] *CEO of* [[Witkoff Group]] (2025, ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Alex Witkoff]] *co-founder* [[World Liberty Financial]] (2024, ownership) · [[C14 Steve and Zach Witkoff|C14]]
-- [[Steve Witkoff]] *father of* [[Alex Witkoff]] (family) · [[C53 The Witkoff family's own Gulf money|C53]]
+### Ownership (3)
+
+- [[Alex Witkoff]] *co-founder* [[World Liberty Financial]] · 2024 · [[C14 Steve and Zach Witkoff|C14]]
+- [[Alex Witkoff]] *CEO of* [[Witkoff Group]] · 2025 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Alex Witkoff]] *reported co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+
+### Family (2)
+
+- [[Alex Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]]
+- [[Steve Witkoff]] *father of* [[Alex Witkoff]] · [[C53 The Witkoff family's own Gulf money|C53]]
+
+### Commercial (2)
+
+- [[Alex Witkoff]] *pitched $4B credit fund (declined)* [[Qatar Investment Authority]] · 2024 · $4B · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Alex Witkoff]] *proposed* [[Special Situations Real Estate Credit Fund]] · 2024 · [[C53 The Witkoff family's own Gulf money|C53]]

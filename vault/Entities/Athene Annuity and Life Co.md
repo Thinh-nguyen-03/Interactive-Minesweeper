@@ -10,9 +10,13 @@ tags:
 ---
 # Athene Annuity and Life Co.
 
-*company*
-
 Apollo subsidiary that lent $400M for QIA's Park Lane purchase
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Apollo subsidiary that lent $400M for QIA's Park Lane purchase
 
 ## Relationships
 
-- [[Athene Annuity and Life Co]] *subsidiary of* [[Apollo Global Management]] (ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Athene Annuity and Life Co]] *lent $400M for the Park Lane purchase* [[Qatar Investment Authority]] (2023-08, $400M, money) · [[C53 The Witkoff family's own Gulf money|C53]]
+### Money (1)
+
+- [[Athene Annuity and Life Co]] *lent $400M for the Park Lane purchase* [[Qatar Investment Authority]] · 2023-08 · $400M · [[C53 The Witkoff family's own Gulf money|C53]]
+
+### Ownership (1)
+
+- [[Athene Annuity and Life Co]] *subsidiary of* [[Apollo Global Management]] · [[C53 The Witkoff family's own Gulf money|C53]]

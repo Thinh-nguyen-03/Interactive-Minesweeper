@@ -10,9 +10,13 @@ tags:
 ---
 # Binance USD1 yield promotions
 
-*event*
-
 Binance offering ~20% annual yield to hold USD1.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,8 +24,10 @@ Binance offering ~20% annual yield to hold USD1.
 
 ## Relationships
 
-- [[Binance]] *offered ~20% yield in* [[Binance USD1 yield promotions]] (commercial) · [[C10 Binance driving USD1 adoption|C10]]
-- [[Binance USD1 yield promotions]] *drove adoption of* [[USD1]] (commercial) · [[C10 Binance driving USD1 adoption|C10]]
+### Commercial (2)
+
+- [[Binance]] *offered ~20% yield in* [[Binance USD1 yield promotions]] · [[C10 Binance driving USD1 adoption|C10]]
+- [[Binance USD1 yield promotions]] *drove adoption of* [[USD1]] · [[C10 Binance driving USD1 adoption|C10]]
 
 ## Themes
 

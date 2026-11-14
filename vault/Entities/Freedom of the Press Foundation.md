@@ -10,9 +10,15 @@ tags:
 ---
 # Freedom of the Press Foundation
 
-*company*
-
 Nonprofit co-plaintiff in the SDNY suit against Truth API.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 3 |
+
+## How other claims describe it
 
 - Co-plaintiff in Intercept v. Trump
 
@@ -23,5 +29,7 @@ Nonprofit co-plaintiff in the SDNY suit against Truth API.
 
 ## Relationships
 
-- [[Freedom of the Press Foundation]] *co-sued in Intercept v. Trump* [[Donald Trump]] (2026-08-12, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]
-- [[Freedom of the Press Foundation]] *sued over Truth API* [[Donald Trump]] (2026-08-12, legal) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+### Legal (2)
+
+- [[Freedom of the Press Foundation]] *co-sued in Intercept v. Trump* [[Donald Trump]] · 2026-08-12 · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[Freedom of the Press Foundation]] *sued over Truth API* [[Donald Trump]] · 2026-08-12 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]

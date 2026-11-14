@@ -10,9 +10,13 @@ tags:
 ---
 # Brendan Carr
 
-*person*
-
 FCC chair who led the Skydance-Paramount approval
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ FCC chair who led the Skydance-Paramount approval
 
 ## Relationships
 
-- [[Brendan Carr]] *chairs* [[Federal Communications Commission]] (regulatory) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+### Regulatory (1)
+
+- [[Brendan Carr]] *chairs* [[Federal Communications Commission]] · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]

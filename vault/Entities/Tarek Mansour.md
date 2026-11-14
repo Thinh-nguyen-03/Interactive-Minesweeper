@@ -12,9 +12,16 @@ tags:
 ---
 # Tarek Mansour
 
-*person*
-
 Kalshi CEO (unnamed in the video) who would not explain what Don Jr. does as strategic adviser.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
+| Also known as | Kalshi's CEO |
+
+## How other claims describe it
 
 - Kalshi co-founder and CEO
 
@@ -24,8 +31,13 @@ Kalshi CEO (unnamed in the video) who would not explain what Don Jr. does as str
 
 ## Relationships
 
-- [[Tarek Mansour]] *would not explain role of* [[Donald Trump Jr]] (advisory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Tarek Mansour]] *CEO of* [[Kalshi]] (ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+### Ownership (1)
+
+- [[Tarek Mansour]] *CEO of* [[Kalshi]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+
+### Advisory (1)
+
+- [[Tarek Mansour]] *would not explain role of* [[Donald Trump Jr]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 
 ## Themes
 

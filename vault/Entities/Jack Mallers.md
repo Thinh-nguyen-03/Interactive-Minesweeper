@@ -10,9 +10,13 @@ tags:
 ---
 # Jack Mallers
 
-*person*
-
 CEO of Twenty One Capital; founder of Strike
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ CEO of Twenty One Capital; founder of Strike
 
 ## Relationships
 
-- [[Jack Mallers]] *CEO* [[Twenty One Capital (XXI)]] (ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+### Ownership (1)
+
+- [[Jack Mallers]] *CEO* [[Twenty One Capital (XXI)]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]

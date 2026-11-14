@@ -10,9 +10,13 @@ tags:
 ---
 # Campaign Legal Center
 
-*company*
-
 Watchdog that filed an OIG complaint over Blanche's crypto holdings.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Watchdog that filed an OIG complaint over Blanche's crypto holdings.
 
 ## Relationships
 
-- [[Campaign Legal Center]] *filed OIG complaint over crypto holdings* [[Todd Blanche]] (2026-01, legal) · [[C61 Shared lawyers and law firms across the deals|C61]]
+### Legal (1)
+
+- [[Campaign Legal Center]] *filed OIG complaint over crypto holdings* [[Todd Blanche]] · 2026-01 · [[C61 Shared lawyers and law firms across the deals|C61]]

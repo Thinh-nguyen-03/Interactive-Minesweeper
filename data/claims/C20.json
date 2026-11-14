@@ -5,11 +5,57 @@
   "confidence": "medium",
   "summary": "The Donald J. Trump Revocable Trust holds about 52-53% of TMTG, which owns Truth Social. Trump named a company by its ticker in office (Palantir, 'PLTR', April 10, 2026). OGE filings, including a 113-page Q1 2026 Form 278-T with about 3,600-3,700 trades, show Palantir buys weeks before that post, and the Trump side says independent managers or his children handle the trades. The Intel Oval Office meme is real: Trump posted it in Sept 2025 and again in Sept 2026. It refers to the government's Intel stake, not a personal trade, and nothing shows the post caused any price move. After the 2025 post the stock actually dipped.",
   "sub_claims": [
-    {"statement": "TMTG is largely owned by the Donald J. Trump Revocable Trust and owns Truth Social.", "verdict": "confirmed", "finding": "In Dec 2024 Trump transferred about 114.75M DJT shares (about 52-53%) to the revocable trust. Trump is the sole beneficiary and Donald Trump Jr. is the trustee. Truth Social is TMTG's platform.", "sources": ["https://www.benzinga.com/markets/equities/24/12/42609228/trump-transfers-entire-djt-stake-to-revocable-trust-ahead-of-inauguration", "https://www.fortune.com/2025/04/02/trump-media-stock-price-net-worth"]},
-    {"statement": "Trump promotes stocks on Truth Social, even naming companies by ticker while in office.", "verdict": "confirmed", "finding": "On April 10, 2026, Trump praised Palantir and included '(PLTR)', reported as a first for a sitting president. Shares briefly rose about 3% from intraday lows but closed lower.", "sources": ["https://finance.yahoo.com/markets/stocks/articles/trump-name-drops-palantir-ticker-154500129.html", "https://finance.yahoo.com/markets/stocks/articles/trump-praises-palantir-pltr-truth-044917332.html"]},
-    {"statement": "Hundreds of pages of financial disclosures show the president bought equities before posting about them.", "verdict": "confirmed", "finding": "The Q1 2026 Form 278-T is 113 pages long and lists about 3,642-3,711 trades worth $220M-$750M. A 2025 disclosure listed more than 21,000 trades. It shows $247k-$630k of Palantir buys in Q1 2026, including at least seven in March, before the April 10 post. The filings give only value ranges. Most trades were never followed by a related post, and there is no evidence that Trump directed them.", "sources": ["https://cbsnews.com/news/trump-stock-trades-2026", "https://fortune.com/2026/05/23/trump-stock-portfolio-trading-market-strategies-indexing-tax-loss-harvesting/", "https://www.newstribune.com/news/2026/jul/05/trump-financial-disclosure-shows-21000-trades-in/", "https://ground.news/article/trump-touted-palantir-on-truth-social-after-buying-the-companys-stock-records-show"]},
-    {"statement": "His office says someone else traded on his behalf, so he couldn't have known.", "verdict": "confirmed", "finding": "The Trump Organization says independent third-party managers make all trading decisions with no family input. White House spokesman David Ingle said the assets are in a trust managed by his children and that 'there are no conflicts of interest.' It is not a blind trust: Trump certifies he knows the holdings.", "sources": ["https://www.notus.org/money/donald-trump-stock-investments-portfolio-disclosure", "https://ground.news/article/trump-touted-palantir-on-truth-social-after-buying-the-companys-stock-records-show", "https://cbsnews.com/news/trump-stock-trades-2026"]},
-    {"statement": "Trump posted a meme of himself trading Intel stock in the Oval Office, and the price went up afterward.", "verdict": "partly-accurate", "finding": "The meme is real. In Sept 2025 an AI image read 'Bought Intel at $20 / Intel now at $30', referring to the US government's 9.9% stake bought at $20.47 a share. Intel slipped after hours and fell more than 2% premarket after that post, and its 23% jump that week came from the Nvidia deal. In Sept 2026 a $20-to-$95 version was followed by a gain of more than 4% overnight within an existing rally. Nothing shows the post caused either move.", "sources": ["https://www.tomshardware.com/tech-industry/president-trump-posts-an-ai-generated-image-of-him-trading-intel-stock-inside-the-white-house-imaginary-share-was-bought-at-usd20-and-sold-at-usd30-reflective-of-real-world-prices", "https://stocktwits.com/news-articles/markets/equity/intel-stock-gets-a-trump-bump-as-potus-cryptic-meme-sends-retail-traders-spinning/chDdrofR3Rd", "https://stocktwits.com/news-articles/markets/equity/intc-jumps-overnight-trump-touts-intel-stock-in-ai-generated-trading-image-claims-he-made-billions-for-us/cZt3ndORJxU", "https://beincrypto.com/trump-intel-stock-ai-image/"]}
+    {
+      "statement": "TMTG is largely owned by the Donald J. Trump Revocable Trust and owns Truth Social.",
+      "verdict": "confirmed",
+      "finding": "In Dec 2024 Trump transferred about 114.75M DJT shares (about 52-53%) to the revocable trust. Trump is the sole beneficiary and Donald Trump Jr. is the trustee. Truth Social is TMTG's platform.",
+      "sources": [
+        "https://www.benzinga.com/markets/equities/24/12/42609228/trump-transfers-entire-djt-stake-to-revocable-trust-ahead-of-inauguration",
+        "https://www.fortune.com/2025/04/02/trump-media-stock-price-net-worth"
+      ]
+    },
+    {
+      "statement": "Trump promotes stocks on Truth Social, even naming companies by ticker while in office.",
+      "verdict": "confirmed",
+      "finding": "On April 10, 2026, Trump praised Palantir and included '(PLTR)', reported as a first for a sitting president. Shares briefly rose about 3% from intraday lows but closed lower.",
+      "sources": [
+        "https://finance.yahoo.com/markets/stocks/articles/trump-name-drops-palantir-ticker-154500129.html",
+        "https://finance.yahoo.com/markets/stocks/articles/trump-praises-palantir-pltr-truth-044917332.html"
+      ]
+    },
+    {
+      "statement": "Hundreds of pages of financial disclosures show the president bought equities before posting about them.",
+      "verdict": "confirmed",
+      "finding": "The Q1 2026 Form 278-T is 113 pages long and lists about 3,642-3,711 trades worth $220M-$750M. A 2025 disclosure listed more than 21,000 trades. It shows $247k-$630k of Palantir buys in Q1 2026, including at least seven in March, before the April 10 post. The filings give only value ranges. Most trades were never followed by a related post, and there is no evidence that Trump directed them.",
+      "sources": [
+        "https://cbsnews.com/news/trump-stock-trades-2026",
+        "https://fortune.com/2026/05/23/trump-stock-portfolio-trading-market-strategies-indexing-tax-loss-harvesting/",
+        "https://www.newstribune.com/news/2026/jul/05/trump-financial-disclosure-shows-21000-trades-in/",
+        "https://ground.news/article/trump-touted-palantir-on-truth-social-after-buying-the-companys-stock-records-show"
+      ]
+    },
+    {
+      "statement": "His office says someone else traded on his behalf, so he couldn't have known.",
+      "verdict": "confirmed",
+      "finding": "The Trump Organization says independent third-party managers make all trading decisions with no family input. White House spokesman David Ingle said the assets are in a trust managed by his children and that 'there are no conflicts of interest.' It is not a blind trust: Trump certifies he knows the holdings. Audit note: CNBC (as relayed by Mediaite and others) reported that several of the Q1 2026 Palantir purchases were marked 'unsolicited' on the filing, meaning they were not made on a broker's or adviser's recommendation. That marking does not show who directed them, but it sits awkwardly with the 'independently managed' defense. The Trump Organization says the family gets 'no advance notice of trading activity.'",
+      "sources": [
+        "https://www.notus.org/money/donald-trump-stock-investments-portfolio-disclosure",
+        "https://ground.news/article/trump-touted-palantir-on-truth-social-after-buying-the-companys-stock-records-show",
+        "https://cbsnews.com/news/trump-stock-trades-2026",
+        "https://www.mediaite.com/media/news/trump-hyped-palantir-after-buying-more-than-500k-of-companys-stock/"
+      ]
+    },
+    {
+      "statement": "Trump posted a meme of himself trading Intel stock in the Oval Office, and the price went up afterward.",
+      "verdict": "partly-accurate",
+      "finding": "The meme is real. In Sept 2025 an AI image read 'Bought Intel at $20 / Intel now at $30', referring to the US government's 9.9% stake bought at $20.47 a share. Intel slipped after hours and fell more than 2% premarket after that post, and its 23% jump that week came from the Nvidia deal. In Sept 2026 (posted 2026-09-06) a $20-to-$95 version was followed by a gain of more than 4% overnight within an existing rally. Nothing shows the post caused either move.",
+      "sources": [
+        "https://www.tomshardware.com/tech-industry/president-trump-posts-an-ai-generated-image-of-him-trading-intel-stock-inside-the-white-house-imaginary-share-was-bought-at-usd20-and-sold-at-usd30-reflective-of-real-world-prices",
+        "https://stocktwits.com/news-articles/markets/equity/intel-stock-gets-a-trump-bump-as-potus-cryptic-meme-sends-retail-traders-spinning/chDdrofR3Rd",
+        "https://stocktwits.com/news-articles/markets/equity/intc-jumps-overnight-trump-touts-intel-stock-in-ai-generated-trading-image-claims-he-made-billions-for-us/cZt3ndORJxU",
+        "https://beincrypto.com/trump-intel-stock-ai-image/"
+      ]
+    }
   ],
   "corrections": [
     "The Intel meme depicts the US government's Intel stake (bought at $20.47 a share in Aug 2025), framed as a gain for the country, not Trump's personal trade.",
@@ -21,57 +67,338 @@
     "White House spokesman David Ingle: the assets are in a trust managed by his children, and 'there are no conflicts of interest.'",
     "Fortune's analysis: the trade pattern looks like direct indexing and tax-loss harvesting. CNN: most trades were never followed by a related post.",
     "Critics (Rep. Don Beyer, NOTUS, CREW): it is not a blind trust, Trump missed STOCK Act deadlines and paid late fees, and Palantir sponsored administration events and donated to the ballroom project.",
-    "The disclosures report only value ranges, and the same filing shows a sale of up to $5M of Palantir on Feb 10, 2026."
+    "The disclosures report only value ranges, and the same filing shows a sale of up to $5M of Palantir on Feb 10, 2026.",
+    "CNBC reported that several Palantir buys were marked 'unsolicited' (not on adviser recommendation). The filing format does not show who placed the trades, so this neither proves nor disproves Trump's involvement."
   ],
   "sources": [
-    {"title": "Trump transfers entire DJT stake to revocable trust ahead of inauguration", "publisher": "Benzinga", "url": "https://www.benzinga.com/markets/equities/24/12/42609228/trump-transfers-entire-djt-stake-to-revocable-trust-ahead-of-inauguration", "date": "2024-12-19"},
-    {"title": "Trump Media stock price and Trump's net worth", "publisher": "Fortune", "url": "https://www.fortune.com/2025/04/02/trump-media-stock-price-net-worth", "date": "2025-04-02"},
-    {"title": "Trump name-drops Palantir ticker", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/trump-name-drops-palantir-ticker-154500129.html", "date": "2026-04-10"},
-    {"title": "Trump praises Palantir (PLTR) on Truth Social after buying the company's stock, records show", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/trump-praises-palantir-pltr-truth-044917332.html", "date": "2026-05"},
-    {"title": "Trump stock trades 2026", "publisher": "CBS News", "url": "https://cbsnews.com/news/trump-stock-trades-2026", "date": "2026-05"},
-    {"title": "What Donald Trump knows about his stock investments", "publisher": "NOTUS", "url": "https://www.notus.org/money/donald-trump-stock-investments-portfolio-disclosure", "date": "2026"},
-    {"title": "Trump's stock portfolio trading: indexing and tax-loss harvesting", "publisher": "Fortune", "url": "https://fortune.com/2026/05/23/trump-stock-portfolio-trading-market-strategies-indexing-tax-loss-harvesting/", "date": "2026-05-23"},
-    {"title": "Trump financial disclosure shows 21,000 trades", "publisher": "News Tribune (AP)", "url": "https://www.newstribune.com/news/2026/jul/05/trump-financial-disclosure-shows-21000-trades-in/", "date": "2026-07-05"},
-    {"title": "Trump touted Palantir on Truth Social after buying the company's stock, records show", "publisher": "Ground News (CNBC aggregation)", "url": "https://ground.news/article/trump-touted-palantir-on-truth-social-after-buying-the-companys-stock-records-show", "date": "2026-05"},
-    {"title": "Eric Trump says family assets...", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/eric-trump-says-family-assets-192500434.html", "date": "2026"},
-    {"title": "President Trump posts an AI-generated image of him trading Intel stock inside the White House", "publisher": "Tom's Hardware", "url": "https://www.tomshardware.com/tech-industry/president-trump-posts-an-ai-generated-image-of-him-trading-intel-stock-inside-the-white-house-imaginary-share-was-bought-at-usd20-and-sold-at-usd30-reflective-of-real-world-prices", "date": "2025-09"},
-    {"title": "Intel stock gets a Trump bump as POTUS' cryptic meme sends retail traders spinning after $5B Nvidia deal", "publisher": "Stocktwits", "url": "https://stocktwits.com/news-articles/markets/equity/intel-stock-gets-a-trump-bump-as-potus-cryptic-meme-sends-retail-traders-spinning/chDdrofR3Rd", "date": "2025-09"},
-    {"title": "INTC jumps overnight: Trump touts Intel stock in AI-generated trading image", "publisher": "Stocktwits", "url": "https://stocktwits.com/news-articles/markets/equity/intc-jumps-overnight-trump-touts-intel-stock-in-ai-generated-trading-image-claims-he-made-billions-for-us/cZt3ndORJxU", "date": "2026-09"},
-    {"title": "Trump again touts Intel stock gains in AI image", "publisher": "BeInCrypto", "url": "https://beincrypto.com/trump-intel-stock-ai-image/", "date": "2026-09"}
+    {
+      "title": "Trump transfers entire DJT stake to revocable trust ahead of inauguration",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/markets/equities/24/12/42609228/trump-transfers-entire-djt-stake-to-revocable-trust-ahead-of-inauguration",
+      "date": "2024-12-19"
+    },
+    {
+      "title": "Trump Media stock price and Trump's net worth",
+      "publisher": "Fortune",
+      "url": "https://www.fortune.com/2025/04/02/trump-media-stock-price-net-worth",
+      "date": "2025-04-02"
+    },
+    {
+      "title": "Trump name-drops Palantir ticker",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-name-drops-palantir-ticker-154500129.html",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Trump praises Palantir (PLTR) on Truth Social after buying the company's stock, records show",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-praises-palantir-pltr-truth-044917332.html",
+      "date": "2026-05"
+    },
+    {
+      "title": "Trump stock trades 2026",
+      "publisher": "CBS News",
+      "url": "https://cbsnews.com/news/trump-stock-trades-2026",
+      "date": "2026-05"
+    },
+    {
+      "title": "What Donald Trump knows about his stock investments",
+      "publisher": "NOTUS",
+      "url": "https://www.notus.org/money/donald-trump-stock-investments-portfolio-disclosure",
+      "date": "2026"
+    },
+    {
+      "title": "Trump's stock portfolio trading: indexing and tax-loss harvesting",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/05/23/trump-stock-portfolio-trading-market-strategies-indexing-tax-loss-harvesting/",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "Trump financial disclosure shows 21,000 trades",
+      "publisher": "News Tribune (AP)",
+      "url": "https://www.newstribune.com/news/2026/jul/05/trump-financial-disclosure-shows-21000-trades-in/",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "Trump touted Palantir on Truth Social after buying the company's stock, records show",
+      "publisher": "Ground News (CNBC aggregation)",
+      "url": "https://ground.news/article/trump-touted-palantir-on-truth-social-after-buying-the-companys-stock-records-show",
+      "date": "2026-05"
+    },
+    {
+      "title": "Eric Trump says family assets...",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eric-trump-says-family-assets-192500434.html",
+      "date": "2026"
+    },
+    {
+      "title": "President Trump posts an AI-generated image of him trading Intel stock inside the White House",
+      "publisher": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/president-trump-posts-an-ai-generated-image-of-him-trading-intel-stock-inside-the-white-house-imaginary-share-was-bought-at-usd20-and-sold-at-usd30-reflective-of-real-world-prices",
+      "date": "2025-09"
+    },
+    {
+      "title": "Intel stock gets a Trump bump as POTUS' cryptic meme sends retail traders spinning after $5B Nvidia deal",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/intel-stock-gets-a-trump-bump-as-potus-cryptic-meme-sends-retail-traders-spinning/chDdrofR3Rd",
+      "date": "2025-09"
+    },
+    {
+      "title": "INTC jumps overnight: Trump touts Intel stock in AI-generated trading image",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/intc-jumps-overnight-trump-touts-intel-stock-in-ai-generated-trading-image-claims-he-made-billions-for-us/cZt3ndORJxU",
+      "date": "2026-09"
+    },
+    {
+      "title": "Trump again touts Intel stock gains in AI image",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/trump-intel-stock-ai-image/",
+      "date": "2026-09"
+    },
+    {
+      "title": "Trump Hyped Palantir After Buying More Than $500k of Company's Stock",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/trump-hyped-palantir-after-buying-more-than-500k-of-companys-stock/",
+      "date": "2026-05"
+    }
   ],
   "entities": [
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US President; beneficial owner of the TMTG stake; posts on Truth Social"},
-    {"id": "donald-trump-jr", "name": "Donald Trump Jr.", "type": "person", "description": "Trustee of the Donald J. Trump Revocable Trust; TMTG board member"},
-    {"id": "eric-trump", "name": "Eric Trump", "type": "person", "description": "Trump son; called the family assets a blind trust"},
-    {"id": "donald-j-trump-revocable-trust", "name": "Donald J. Trump Revocable Trust", "type": "fund", "description": "Trust holding about 52-53% of TMTG; Trump is the sole beneficiary"},
-    {"id": "trump-media-technology-group", "name": "Trump Media & Technology Group (DJT)", "type": "company", "description": "Public company that owns Truth Social"},
-    {"id": "truth-social", "name": "Truth Social", "type": "media", "description": "Social platform Trump uses to post about companies and stocks"},
-    {"id": "trump-organization", "name": "Trump Organization", "type": "company", "description": "Says independent third-party managers run Trump's portfolio"},
-    {"id": "white-house", "name": "White House", "type": "government", "description": "Spokesman David Ingle said there are no conflicts of interest"},
-    {"id": "david-ingle", "name": "David Ingle", "type": "person", "description": "White House spokesman"},
-    {"id": "office-of-government-ethics", "name": "US Office of Government Ethics", "type": "government", "description": "Releases Trump's Form 278-T transaction reports"},
-    {"id": "palantir", "name": "Palantir Technologies (PLTR)", "type": "company", "description": "Defense AI company Trump endorsed by ticker on Apr 10, 2026"},
-    {"id": "intel", "name": "Intel (INTC)", "type": "company", "description": "Chipmaker in which the US government took a 9.9% stake in Aug 2025"},
-    {"id": "nvidia", "name": "Nvidia", "type": "company", "description": "Invested $5B in Intel in Sept 2025"},
-    {"id": "intel-oval-office-meme", "name": "Intel Oval Office trading meme", "type": "event", "description": "AI images of Trump 'trading' Intel, posted Sept 2025 and Sept 2026"},
-    {"id": "don-beyer", "name": "Rep. Don Beyer", "type": "person", "description": "Democratic congressman who disputed the blind-trust claim"},
-    {"id": "stock-act", "name": "STOCK Act", "type": "law", "description": "Requires reporting of securities transactions within 45 days"}
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; beneficial owner of the TMTG stake; posts on Truth Social"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Trustee of the Donald J. Trump Revocable Trust; TMTG board member"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump son; called the family assets a blind trust"
+    },
+    {
+      "id": "donald-j-trump-revocable-trust",
+      "name": "Donald J. Trump Revocable Trust",
+      "type": "fund",
+      "description": "Trust holding about 52-53% of TMTG; Trump is the sole beneficiary"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group (DJT)",
+      "type": "company",
+      "description": "Public company that owns Truth Social"
+    },
+    {
+      "id": "truth-social",
+      "name": "Truth Social",
+      "type": "media",
+      "description": "Social platform Trump uses to post about companies and stocks"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Says independent third-party managers run Trump's portfolio"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Spokesman David Ingle said there are no conflicts of interest"
+    },
+    {
+      "id": "david-ingle",
+      "name": "David Ingle",
+      "type": "person",
+      "description": "White House spokesman"
+    },
+    {
+      "id": "office-of-government-ethics",
+      "name": "US Office of Government Ethics",
+      "type": "government",
+      "description": "Releases Trump's Form 278-T transaction reports"
+    },
+    {
+      "id": "palantir",
+      "name": "Palantir Technologies (PLTR)",
+      "type": "company",
+      "description": "Defense AI company Trump endorsed by ticker on Apr 10, 2026"
+    },
+    {
+      "id": "intel",
+      "name": "Intel (INTC)",
+      "type": "company",
+      "description": "Chipmaker in which the US government took a 9.9% stake in Aug 2025"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "type": "company",
+      "description": "Invested $5B in Intel in Sept 2025"
+    },
+    {
+      "id": "intel-oval-office-meme",
+      "name": "Intel Oval Office trading meme",
+      "type": "event",
+      "description": "AI images of Trump 'trading' Intel, posted Sept 2025 and Sept 2026"
+    },
+    {
+      "id": "don-beyer",
+      "name": "Rep. Don Beyer",
+      "type": "person",
+      "description": "Democratic congressman who disputed the blind-trust claim"
+    },
+    {
+      "id": "stock-act",
+      "name": "STOCK Act",
+      "type": "law",
+      "description": "Requires reporting of securities transactions within 45 days"
+    }
   ],
   "relationships": [
-    {"source": "donald-j-trump-revocable-trust", "target": "trump-media-technology-group", "label": "owns about 52-53% of", "type": "ownership", "date": "2024-12"},
-    {"source": "donald-trump", "target": "donald-j-trump-revocable-trust", "label": "sole beneficiary of", "type": "ownership", "date": "2024-12"},
-    {"source": "donald-trump-jr", "target": "donald-j-trump-revocable-trust", "label": "trustee of", "type": "family", "date": "2024-12"},
-    {"source": "trump-media-technology-group", "target": "truth-social", "label": "owns and operates", "type": "ownership"},
-    {"source": "donald-trump", "target": "palantir", "label": "endorsed by ticker '(PLTR)' on Truth Social", "type": "media", "date": "2026-04-10"},
-    {"source": "donald-trump", "target": "palantir", "label": "accounts bought $247k-$630k of shares (Q1 2026)", "type": "money", "date": "2026-03", "amount_usd": 630000},
-    {"source": "office-of-government-ethics", "target": "donald-trump", "label": "published 113-page Q1 2026 Form 278-T for", "type": "regulatory", "date": "2026-05-12"},
-    {"source": "trump-organization", "target": "donald-trump", "label": "says independent managers trade portfolio of", "type": "advisory", "date": "2026-05"},
-    {"source": "david-ingle", "target": "white-house", "label": "spokesman for", "type": "political"},
-    {"source": "donald-trump", "target": "intel-oval-office-meme", "label": "posted on Truth Social", "type": "media", "date": "2025-09"},
-    {"source": "intel-oval-office-meme", "target": "intel", "label": "depicts trading of", "type": "media", "date": "2025-09"},
-    {"source": "white-house", "target": "intel", "label": "US government took a 9.9% stake at $20.47/share in", "type": "money", "date": "2025-08-22"},
-    {"source": "nvidia", "target": "intel", "label": "invested $5B in", "type": "money", "date": "2025-09", "amount_usd": 5000000000},
-    {"source": "don-beyer", "target": "eric-trump", "label": "disputed blind-trust claim by", "type": "political", "date": "2026"},
-    {"source": "donald-trump", "target": "stock-act", "label": "missed 45-day reporting deadline under", "type": "legal", "date": "2026"}
-  ]
+    {
+      "source": "donald-j-trump-revocable-trust",
+      "target": "trump-media-technology-group",
+      "label": "owns about 52-53% of",
+      "type": "ownership",
+      "date": "2024-12"
+    },
+    {
+      "source": "donald-trump",
+      "target": "donald-j-trump-revocable-trust",
+      "label": "sole beneficiary of",
+      "type": "ownership",
+      "date": "2024-12"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "donald-j-trump-revocable-trust",
+      "label": "trustee of",
+      "type": "family",
+      "date": "2024-12"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "truth-social",
+      "label": "owns and operates",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump",
+      "target": "palantir",
+      "label": "endorsed by ticker '(PLTR)' on Truth Social",
+      "type": "media",
+      "date": "2026-04-10"
+    },
+    {
+      "source": "donald-trump",
+      "target": "palantir",
+      "label": "accounts bought $247k-$630k of shares (Q1 2026)",
+      "type": "money",
+      "date": "2026-03",
+      "amount_usd": 630000
+    },
+    {
+      "source": "office-of-government-ethics",
+      "target": "donald-trump",
+      "label": "published 113-page Q1 2026 Form 278-T for",
+      "type": "regulatory",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "trump-organization",
+      "target": "donald-trump",
+      "label": "says independent managers trade portfolio of",
+      "type": "advisory",
+      "date": "2026-05"
+    },
+    {
+      "source": "david-ingle",
+      "target": "white-house",
+      "label": "spokesman for",
+      "type": "political"
+    },
+    {
+      "source": "donald-trump",
+      "target": "intel-oval-office-meme",
+      "label": "posted on Truth Social",
+      "type": "media",
+      "date": "2025-09"
+    },
+    {
+      "source": "intel-oval-office-meme",
+      "target": "intel",
+      "label": "depicts trading of",
+      "type": "media",
+      "date": "2025-09"
+    },
+    {
+      "source": "white-house",
+      "target": "intel",
+      "label": "US government took a 9.9% stake at $20.47/share in",
+      "type": "money",
+      "date": "2025-08-22"
+    },
+    {
+      "source": "nvidia",
+      "target": "intel",
+      "label": "invested $5B in",
+      "type": "money",
+      "date": "2025-09",
+      "amount_usd": 5000000000
+    },
+    {
+      "source": "don-beyer",
+      "target": "eric-trump",
+      "label": "disputed blind-trust claim by",
+      "type": "political",
+      "date": "2026"
+    },
+    {
+      "source": "donald-trump",
+      "target": "stock-act",
+      "label": "missed 45-day reporting deadline under",
+      "type": "legal",
+      "date": "2026"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Palantir '(PLTR)' post on 2026-04-10 and the $247k-$630k of Q1 Palantir buys before it",
+      "113-page Q1 2026 Form 278-T with about 3,642 trades",
+      "Trump-side defense (independent managers)",
+      "Sept 2026 Intel $20-to-$95 meme and price move"
+    ],
+    "result": "upheld",
+    "changes": [
+      "All checked figures upheld by different outlets (Mediaite, Digital Today, Benzinga, Crypto Briefing). The 3,642-trade count, the 113 pages and the late filing (certified May 8, received May 12) are confirmed.",
+      "Added context to sub-claim 4 and to denials: CNBC reported that several Palantir buys were marked 'unsolicited'. The verdict is unchanged because the filing does not show who placed the trades.",
+      "Added the exact date (2026-09-06) of the Intel repost."
+    ],
+    "new_sources": [
+      {
+        "title": "Trump Hyped Palantir After Buying More Than $500k of Company's Stock",
+        "publisher": "Mediaite",
+        "url": "https://www.mediaite.com/media/news/trump-hyped-palantir-after-buying-more-than-500k-of-companys-stock/",
+        "date": "2026-05"
+      },
+      {
+        "title": "Trump made 3,642 stock trades in Q1, including Big Tech and crypto",
+        "publisher": "Digital Today",
+        "url": "https://www.digitaltoday.co.kr/en/view/55592/trump-made-3642-stock-trades-in-q1-including-big-tech-and-crypto",
+        "date": "2026-05"
+      },
+      {
+        "title": "Trump touts Intel's stock surge from $20 to $95 amid government stake",
+        "publisher": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/trump-intel-stock-surge-government-stake/",
+        "date": "2026-09"
+      }
+    ]
+  }
 }

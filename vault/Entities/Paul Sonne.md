@@ -10,9 +10,13 @@ tags:
 ---
 # Paul Sonne
 
-*person*
-
 NYT reporter
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

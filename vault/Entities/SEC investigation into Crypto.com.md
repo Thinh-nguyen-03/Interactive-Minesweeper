@@ -10,9 +10,13 @@ tags:
 ---
 # SEC investigation into Crypto.com
 
-*event*
-
 Closed with no action.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 2 claims |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -21,8 +25,13 @@ Closed with no action.
 
 ## Relationships
 
-- [[Securities and Exchange Commission]] *closed with no action* [[SEC investigation into Crypto.com]] (regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[SEC investigation into Crypto.com]] *targeted* [[Crypto.com]] (legal) · [[C22 Crypto.com and TMTG|C22]]
+### Regulatory (1)
+
+- [[Securities and Exchange Commission]] *closed with no action* [[SEC investigation into Crypto.com]] · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Legal (1)
+
+- [[SEC investigation into Crypto.com]] *targeted* [[Crypto.com]] · [[C22 Crypto.com and TMTG|C22]]
 
 ## Themes
 

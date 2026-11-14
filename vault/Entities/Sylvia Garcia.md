@@ -10,9 +10,13 @@ tags:
 ---
 # Sylvia Garcia
 
-*person*
-
 House Democrat who questioned Atkins on White House requests
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ House Democrat who questioned Atkins on White House requests
 
 ## Relationships
 
-- [[Sylvia Garcia]] *questioned at hearing* [[Paul Atkins]] (2026-02-11, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+### Political (1)
+
+- [[Sylvia Garcia]] *questioned at hearing* [[Paul Atkins]] · 2026-02-11 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]

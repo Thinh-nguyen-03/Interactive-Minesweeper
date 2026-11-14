@@ -10,9 +10,13 @@ tags:
 ---
 # Advanced AI chips
 
-*product*
-
 Sensitive AI chips the US had refused to export to the UAE.
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Sensitive AI chips the US had refused to export to the UAE.
 
 ## Relationships
 
-- [[UAE AI chips deal]] *covers export of* [[Advanced AI chips]] (commercial) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+### Commercial (1)
+
+- [[UAE AI chips deal]] *covers export of* [[Advanced AI chips]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]

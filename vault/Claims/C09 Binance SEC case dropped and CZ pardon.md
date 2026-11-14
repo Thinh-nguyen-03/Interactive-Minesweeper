@@ -15,7 +15,41 @@ tags:
 ---
 # C09: Binance SEC case dropped and CZ pardon
 
-**Verdict:** Mostly accurate (confidence: high)
+**Verdict:** Mostly accurate · high confidence  
+**Origin:** Claim from the video · transcript lines 407-453
+
+## Bottom line
+
+The SEC dismissed its case against Binance and Zhao with prejudice on May 29, 2025.
+
+## What holds up
+
+- The SEC lawsuit against Binance was dropped.
+- Later, Trump pardoned Binance founder Changpeng Zhao.
+- Trump said 'I don't know who he is' about Zhao.
+- CZ said he didn't do anything to get the pardon but that without it Binance is severely limited in the US (mostly accurate)
+
+## What needs correcting
+
+- Binance is doing the $2 billion stablecoin deal (partly accurate)
+- **Video said:** Binance is 'doing' the $2B stablecoin deal  
+  **Record shows:** The record shows MGX invested $2B into Binance, with the deal settled in USD1.
+- **Video said:** Trump 'firmly denies knowing' Zhao  
+  **Record shows:** Trump said he didn't think he had met him and added 'maybe I did'.
+- The SEC dismissal (May 29, 2025) was with prejudice and also covered Zhao personally. The pardon followed on Oct 22-23, 2025.
+- The CZ quote comes from the All-In podcast (about Feb 2026). Its 'UBO' and 'severely limited' wording is not independently verified.
+- The write-up attributed the 'Binance helped build USD1' report to the WSJ alone; it originated with Bloomberg (July 2025, anonymous sources) and was later echoed by the WSJ. It is disputed by Binance, Zhao and WLF, so it is an allegation, not an established fact.
+
+## What is unproven
+
+- Implied: the USD1 investment, benefit to the Trump family and the pardon are linked ('just a couple of coincidences').
+
+## In more detail
+
+- Trump pardoned Zhao on Oct 22-23, 2025, and on 60 Minutes (Nov 2, 2025) said 'I don't know who he is'.
+- On the All-In podcast (about Feb 2026), Zhao said he 'didn't do much' to get the pardon and that without it Binance could hardly enter the US properly.
+- The video wrongly has Binance doing the $2B deal: MGX invested $2B in Binance, settled in USD1.
+- Its quid-pro-quo insinuation rests on a documented sequence of events, with no proof of causation.
 
 ## What the video said
 
@@ -27,53 +61,76 @@ tags:
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 
-## Summary
-
-The SEC dismissed its case against Binance and Zhao with prejudice on May 29, 2025. Trump pardoned Zhao on Oct 22-23, 2025, and on 60 Minutes (Nov 2, 2025) said 'I don't know who he is'. On the All-In podcast (about Feb 2026), Zhao said he 'didn't do much' to get the pardon and that without it Binance could hardly enter the US properly. The video wrongly has Binance doing the $2B deal: MGX invested $2B in Binance, settled in USD1. Its quid-pro-quo insinuation rests on a documented sequence of events, with no proof of causation.
-
 ## Sub-claims
 
-- **Confirmed**: The SEC lawsuit against Binance was dropped.
-  - The SEC, Binance and Zhao filed a joint stipulation of dismissal with prejudice on May 29, 2025 (reported May 30), ending the June 2023 civil suit. The SEC cited discretion and policy. This was separate from the 2023 DOJ guilty pleas, which stand.
-  - <https://finance.yahoo.com/news/us-sec-voluntarily-dismisses-lawsuit-211512870.html>
-  - <https://www.reedsmith.com/our-insights/blogs/viewpoints/102kcye/sec-drops-binance-suit/>
-- **Confirmed**: Later, Trump pardoned Binance founder Changpeng Zhao.
-  - Trump signed the pardon on Oct 22, 2025, and the White House announced it on Oct 23, about five months after the SEC dismissal. Leavitt called the prosecution Biden overreach with no fraud victims and said the White House Counsel reviewed the pardon.
-  - <https://kvia.com/politics/cnn-us-politics/2025/10/23/trump-pardons-binance-founder-changpeng-zhao>
-  - <https://www.theblock.co/post/375917/president-trump-pardons-former-binance-ceo-changpeng-zhao/>
-- **Partly accurate**: Binance is doing the $2 billion stablecoin deal.
-  - MGX (Abu Dhabi) invested $2B in Binance, announced Mar 12, 2025. On May 1, 2025, Zach Witkoff said the deal would settle in WLF's USD1. Binance was the recipient, and its CEO denies any role in choosing USD1.
-  - <https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal>
-  - <https://cointelegraph.com/news/binance-richard-teng-denies-donald-trump-stablecoin>
-- **Confirmed**: Trump said 'I don't know who he is' about Zhao.
-  - On CBS 60 Minutes (aired Nov 2, 2025), Trump said 'Okay, are you ready? I don't know who he is', said he didn't think he had met Zhao ('maybe I did'), and called the case a 'Biden witch hunt'.
-  - <https://nbcnews.com/politics/donald-trump/trump-knows-nothing-crypto-billionaire-cz-binance-pardon-biden-rcna241584>
-  - <https://www.nationalreview.com/corner/trump-on-changpeng-zhao-who-he-pardoned-i-dont-know-who-he-is/amp/>
-  - <https://gizmodo.com/trump-60-minutes-edited-crypto-binance-2000680807>
-- **Mostly accurate**: CZ said he didn't do anything to get the pardon but that without it Binance is severely limited in the US.
-  - DL News reports Zhao said on the All-In podcast (about Feb 10, 2026) that he 'didn't do much' and that 'without the pardon it's quite hard for Binance to enter the US in a proper way'. The 'UBO' and 'severely limited' lines are consistent with this but were not verified verbatim. Zhao had applied for the pardon in about May 2025.
-  - <https://www.dlnews.com/articles/people-culture/binance-founder-cz-says-he-didnt-do-much-to-get-trump-pardon/>
-  - <https://podwise.ai/episodes/7155582>
-  - <https://www.theblock.co/news/business/2025-05-08-binance-founder-cz-confirms-filing-for-presidential-pardon-from-trump-353570>
-- **Unverified**: Implied: the USD1 investment, benefit to the Trump family and the pardon are linked ('just a couple of coincidences').
-  - The sequence is documented: the $2B in USD1, a WSJ report that Binance engineers helped build USD1, Zhao's lobbying, then the pardon. No public evidence shows a quid pro quo, and Zhao and Binance deny any link.
-  - <https://san.com/cc/ex-binance-ceo-pardoned-after-his-firm-helped-trump-family-make-billions-wsj/>
-  - <https://www.foxnews.com/media/crypto-founder-pardoned-trump-denies-having-ties-trump-family>
+### 1. The SEC lawsuit against Binance was dropped.
 
-## Corrections
+**Confirmed**
 
-- Transcript says Binance is 'doing' the $2B stablecoin deal; the record shows MGX invested $2B into Binance, with the deal settled in USD1.
-- Transcript says Trump 'firmly denies knowing' Zhao; Trump said he didn't think he had met him and added 'maybe I did'.
-- The SEC dismissal (May 29, 2025) was with prejudice and also covered Zhao personally. The pardon followed on Oct 22-23, 2025.
-- The CZ quote comes from the All-In podcast (about Feb 2026). Its 'UBO' and 'severely limited' wording is not independently verified.
+- The SEC, Binance and Zhao filed a joint stipulation of dismissal with prejudice on May 29, 2025 (reported May 30), ending the June 2023 civil suit.
+- The SEC cited discretion and policy.
+- This was separate from the 2023 DOJ guilty pleas, which stand.
+- Dates: May 29, 2025; May 30; June 2023
+- Sources: [1](https://finance.yahoo.com/news/us-sec-voluntarily-dismisses-lawsuit-211512870.html) [3](https://www.reedsmith.com/our-insights/blogs/viewpoints/102kcye/sec-drops-binance-suit/)
+
+### 2. Later, Trump pardoned Binance founder Changpeng Zhao.
+
+**Confirmed**
+
+- Trump signed the pardon on Oct 22, 2025, and the White House announced it on Oct 23, about five months after the SEC dismissal.
+- Leavitt called the prosecution Biden overreach with no fraud victims and said the White House Counsel reviewed the pardon.
+- Dates: Oct 22, 2025; Oct 23
+- Sources: [4](https://kvia.com/politics/cnn-us-politics/2025/10/23/trump-pardons-binance-founder-changpeng-zhao) [5](https://www.theblock.co/post/375917/president-trump-pardons-former-binance-ceo-changpeng-zhao/)
+
+### 3. Binance is doing the $2 billion stablecoin deal.
+
+**Partly accurate**
+
+- MGX (Abu Dhabi) invested $2B in Binance, announced Mar 12, 2025.
+- On May 1, 2025, Zach Witkoff said the deal would settle in WLF's USD1.
+- Binance was the recipient, and its CEO denies any role in choosing USD1.
+- Amounts: $2B
+- Dates: Mar 12, 2025; May 1, 2025
+- Sources: [6](https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal) [8](https://cointelegraph.com/news/binance-richard-teng-denies-donald-trump-stablecoin)
+
+### 4. Trump said 'I don't know who he is' about Zhao.
+
+**Confirmed**
+
+- On CBS 60 Minutes (aired Nov 2, 2025), Trump said 'Okay, are you ready?
+- I don't know who he is', said he didn't think he had met Zhao ('maybe I did'), and called the case a 'Biden witch hunt'.
+- Dates: Nov 2, 2025
+- Sources: [9](https://nbcnews.com/politics/donald-trump/trump-knows-nothing-crypto-billionaire-cz-binance-pardon-biden-rcna241584) [11](https://www.nationalreview.com/corner/trump-on-changpeng-zhao-who-he-pardoned-i-dont-know-who-he-is/amp/) [12](https://gizmodo.com/trump-60-minutes-edited-crypto-binance-2000680807)
+
+### 5. CZ said he didn't do anything to get the pardon but that without it Binance is severely limited in the US.
+
+**Mostly accurate**
+
+- DL News reports Zhao said on the All-In podcast (about Feb 10, 2026) that he 'didn't do much' and that 'without the pardon it's quite hard for Binance to enter the US in a proper way'.
+- The 'UBO' and 'severely limited' lines are consistent with this but were not verified verbatim.
+- Zhao had applied for the pardon in about May 2025.
+- Dates: Feb 10, 2026; May 2025
+- Sources: [13](https://www.dlnews.com/articles/people-culture/binance-founder-cz-says-he-didnt-do-much-to-get-trump-pardon/) [14](https://podwise.ai/episodes/7155582) [15](https://www.theblock.co/news/business/2025-05-08-binance-founder-cz-confirms-filing-for-presidential-pardon-from-trump-353570)
+
+### 6. Implied: the USD1 investment, benefit to the Trump family and the pardon are linked ('just a couple of coincidences').
+
+**Unverified**
+
+- The sequence is documented: the $2B in USD1, reports (first Bloomberg in July 2025, citing three anonymous sources, then the WSJ) that Binance wrote USD1's basic smart-contract code or helped build its technology, which Binance, Zhao ('FUD') and WLF ('factually deficient') dispute, Zhao's lobbying, then the pardon.
+- No public evidence shows a quid pro quo, and Zhao and Binance deny any link.
+- Amounts: $2B
+- Dates: July 2025
+- Sources: [17](https://san.com/cc/ex-binance-ceo-pardoned-after-his-firm-helped-trump-family-make-billions-wsj/) [16](https://www.foxnews.com/media/crypto-founder-pardoned-trump-denies-having-ties-trump-family) [20](https://www.dlnews.com/articles/people-culture/binance-changpeng-cz-zhao-bloomberg-trump-stablecoin-fud/) [21](https://cointelegraph.com/news/binance-cz-sue-bloomberg-trump-stablecoin-report)
 
 ## Denials and context
 
 - White House (Leavitt): the Biden DOJ overreached, there were no fraud victims, and the White House Counsel vetted the pardon.
 - Trump: he was told it was a 'Biden witch hunt', he doesn't know Zhao, and his sons are in crypto.
-- Zhao: he did not do much to get the pardon and has no business relationship with World Liberty Financial. His lawyers threatened to sue Sen. Warren over her claim that he 'financed President Trump's stablecoin and lobbied for a pardon'.
+- Zhao: he did not do much to get the pardon and has no business relationship with World Liberty Financial.
+  - His lawyers threatened to sue Sen. Warren over her claim that he 'financed President Trump's stablecoin and lobbied for a pardon'.
 - Binance CEO Richard Teng: Binance had no role in MGX choosing USD1, and USD1 was listed elsewhere first.
-- The SEC civil case was separate from the 2023 criminal guilty pleas ($4.3B penalty for Binance; 4 months in prison for Zhao). Dropping the SEC case did not erase the criminal conviction.
+- The SEC civil case was separate from the 2023 criminal guilty pleas ($4.3B penalty for Binance; 4 months in prison for Zhao).
+  - Dropping the SEC case did not erase the criminal conviction.
 
 ## Themes
 
@@ -84,69 +141,92 @@ The SEC dismissed its case against Binance and Zhao with prejudice on May 29, 20
 
 ## People and organisations
 
-- [[All-In Podcast]]
-- [[Binance]]
-- [[CBS 60 Minutes]]
-- [[Changpeng Zhao]]
-- [[Chris Murphy]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[Elizabeth Warren]]
-- [[Eric Trump]]
-- [[Karoline Leavitt]]
-- [[MGX]]
-- [[MGX $2B investment in Binance]]
-- [[Pardon of Changpeng Zhao]]
-- [[Richard Teng]]
-- [[SEC lawsuit against Binance]]
-- [[Securities and Exchange Commission]]
-- [[Sheikh Tahnoon bin Zayed]]
-- [[The Wall Street Journal]]
-- [[United Arab Emirates]]
-- [[US Department of Justice (us-doj)]]
-- [[USD1]]
-- [[White House Trump administration]]
-- [[World Liberty Financial]]
-- [[Zach Witkoff]]
+- [[All-In Podcast]] · Media
+- [[Binance]] · Company
+- [[CBS 60 Minutes]] · Media
+- [[Changpeng Zhao]] · Person
+- [[Chris Murphy]] · Person
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[Elizabeth Warren]] · Person
+- [[Eric Trump]] · Person
+- [[Karoline Leavitt]] · Person
+- [[MGX]] · Company
+- [[MGX $2B investment in Binance]] · Event
+- [[Pardon of Changpeng Zhao]] · Event
+- [[Richard Teng]] · Person
+- [[SEC lawsuit against Binance]] · Event
+- [[Securities and Exchange Commission]] · Government body
+- [[Sheikh Tahnoon bin Zayed]] · Person
+- [[The Wall Street Journal]] · Media
+- [[United Arab Emirates]] · Country
+- [[US Department of Justice (us-doj)]] · Government body
+- [[USD1]] · Asset
+- [[White House Trump administration]] · Government body
+- [[World Liberty Financial]] · Company
+- [[Zach Witkoff]] · Person
 
 ## Relationships documented
 
-- [[All-In Podcast]] *interviewed on pardon* [[Changpeng Zhao]] (2026-02-10, media) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Binance]] *reportedly helped build tech for and promoted* [[USD1]] (2025, commercial) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[CBS 60 Minutes]] *interviewed on Zhao pardon* [[Donald Trump]] (2025-11-02, media) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Changpeng Zhao]] *founded, beneficial owner of* [[Binance]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Changpeng Zhao]] *founder and major owner of* [[Binance]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Chris Murphy]] *accused of promoting Trump-linked crypto after pardon* [[Binance]] (2025-10, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Pardon of Changpeng Zhao]] *eases US re-entry of* [[Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Pardon of Changpeng Zhao]] *pardoned* [[Changpeng Zhao]] (2025-10-23, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Donald Trump]] *claims not to know* [[Changpeng Zhao]] (political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Donald Trump]] *granted* [[Pardon of Changpeng Zhao]] (legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Donald Trump]] *signed* [[Pardon of Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Donald Trump]] *family-linked venture of* [[World Liberty Financial]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *co-founder of* [[World Liberty Financial]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Elizabeth Warren]] *criticized as corrupt* [[Pardon of Changpeng Zhao]] (2025-10, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Eric Trump]] *co-founder of* [[World Liberty Financial]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Karoline Leavitt]] *defended* [[Pardon of Changpeng Zhao]] (2025-10-23, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[MGX]] *invested $2B (settled in USD1) in* [[Binance]] (2025-03-12, $2B, money) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[MGX]] *based in / state-linked to* [[United Arab Emirates]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[MGX]] *used to settle Binance investment* [[USD1]] (2025-05-01, $2B, commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Richard Teng]] *CEO of* [[Binance]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]]
-- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Binance]] (2025-05-29, regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Securities and Exchange Commission]] *dropped lawsuit against* [[Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Changpeng Zhao]] (2025-05-29, regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Securities and Exchange Commission]] *dropped* [[SEC lawsuit against Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[SEC lawsuit against Binance]] *targeted* [[Binance]] (legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[US Department of Justice (us-doj)]] *secured guilty plea (BSA/AML) from* [[Changpeng Zhao]] (2023-11, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[The Wall Street Journal]] *reported Binance helped build USD1* [[Binance]] (2025-10, media) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[White House Trump administration]] *announced* [[Pardon of Changpeng Zhao]] (2025-10-23, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[World Liberty Financial]] *issues* [[USD1]] (2025-03, commercial) · [[C04 World Liberty Financial founding and token sale|C04]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C11 GENIUS CLARITY Acts and USD1|C11]]
-- [[Zach Witkoff]] *announced USD1 for MGX-Binance deal* [[USD1]] (2025-05-01, commercial) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+### Money (1)
 
-## Sources
+- [[MGX]] *invested $2B (settled in USD1) in* [[Binance]] · 2025-03-12 · $2B · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+
+### Ownership (8)
+
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Changpeng Zhao]] *founded, beneficial owner of* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Changpeng Zhao]] *founder and major owner of* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Donald Trump]] *family-linked venture of* [[World Liberty Financial]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Donald Trump Jr]] *co-founder of* [[World Liberty Financial]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Eric Trump]] *co-founder of* [[World Liberty Financial]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[MGX]] *based in / state-linked to* [[United Arab Emirates]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Richard Teng]] *CEO of* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]]
+
+### Family (2)
+
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
+- [[Eric Trump]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+### Regulatory (5)
+
+- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Binance]] · 2025-05-29 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Changpeng Zhao]] · 2025-05-29 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Pardon of Changpeng Zhao]] *eases US re-entry of* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Securities and Exchange Commission]] *dropped lawsuit against* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dropped* [[SEC lawsuit against Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Political (5)
+
+- [[Chris Murphy]] *accused of promoting Trump-linked crypto after pardon* [[Binance]] · 2025-10 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Elizabeth Warren]] *criticized as corrupt* [[Pardon of Changpeng Zhao]] · 2025-10 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Karoline Leavitt]] *defended* [[Pardon of Changpeng Zhao]] · 2025-10-23 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[White House Trump administration]] *announced* [[Pardon of Changpeng Zhao]] · 2025-10-23 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Donald Trump]] *claims not to know* [[Changpeng Zhao]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+
+### Legal (6)
+
+- [[US Department of Justice (us-doj)]] *secured guilty plea (BSA/AML) from* [[Changpeng Zhao]] · 2023-11 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Donald Trump]] *signed* [[Pardon of Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Pardon of Changpeng Zhao]] *pardoned* [[Changpeng Zhao]] · 2025-10-23 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Donald Trump]] *granted* [[Pardon of Changpeng Zhao]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[SEC lawsuit against Binance]] *targeted* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Media (3)
+
+- [[The Wall Street Journal]] *reported Binance helped build USD1* [[Binance]] · 2025-10 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[CBS 60 Minutes]] *interviewed on Zhao pardon* [[Donald Trump]] · 2025-11-02 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[All-In Podcast]] *interviewed on pardon* [[Changpeng Zhao]] · 2026-02-10 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+
+### Commercial (4)
+
+- [[Binance]] *reportedly helped build tech for and promoted* [[USD1]] · 2025 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[World Liberty Financial]] *issues* [[USD1]] · 2025-03 · [[C04 World Liberty Financial founding and token sale|C04]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[MGX]] *used to settle Binance investment* [[USD1]] · 2025-05-01 · $2B · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Zach Witkoff]] *announced USD1 for MGX-Binance deal* [[USD1]] · 2025-05-01 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+
+## Sources (23)
 
 1. [US SEC dismisses lawsuit against Binance crypto exchange](https://finance.yahoo.com/news/us-sec-voluntarily-dismisses-lawsuit-211512870.html) (Reuters via Yahoo Finance, 2025-05-30)
 2. [SEC Dismisses Lawsuit Against Binance Crypto Exchange](https://amp.insurancejournal.com/news/national/2025/05/30/825659.htm) (Insurance Journal (Reuters), 2025-05-30)
@@ -167,6 +247,10 @@ The SEC dismissed its case against Binance and Zhao with prejudice on May 29, 20
 17. [Ex-Binance CEO pardoned after his firm helped Trump family make billions: WSJ](https://san.com/cc/ex-binance-ceo-pardoned-after-his-firm-helped-trump-family-make-billions-wsj/) (Straight Arrow News, 2025-10)
 18. [Binance.US responds to criticism over Trump-linked crypto listings after Chris Murphy accuses platform](https://benzinga.com/crypto/cryptocurrency/25/10/48519650/binance-us-responds-to-criticism-over-trump-linked-crypto-listings-after-chris-murphy-accuses-platform-of-promotion-after-czs-pardon) (Benzinga, 2025-10)
 19. [Pardoned Binance founder Zhao says his business relationship with the Trumps was 'misconstrued'](https://www.cnbc.com/2026/01/23/pardon-binance-founder-cz-trump.html) (CNBC, 2026-01-23)
+20. [CZ calls Bloomberg report on Trump stablecoin FUD (title paraphrased from URL)](https://www.dlnews.com/articles/people-culture/binance-changpeng-cz-zhao-bloomberg-trump-stablecoin-fud/) (DL News, 2025-07)
+21. [Binance's CZ threatens to sue Bloomberg over Trump stablecoin report](https://cointelegraph.com/news/binance-cz-sue-bloomberg-trump-stablecoin-report) (Cointelegraph, 2025-07)
+22. [US SEC dismisses lawsuit against Binance crypto exchange](https://www.pymnts.com/cpi-posts/sec-ends-binance-lawsuit-amid-shift-in-crypto-policy) (PYMNTS, 2025-05-30)
+23. [Trump pardons Changpeng Zhao](https://m.washingtontimes.com/news/2025/oct/23/trump-pardons-changpeng-zhao-founded-one-worlds-largest-crypto/) (The Washington Times, 2025-10-23)
 
 ## Full report
 
@@ -206,7 +290,7 @@ Separately, Zhao confirmed in May 2025 that he had applied for a pardon. That ap
 #### 6. The implied link (USD1 investment, benefit to the Trump family, pardon): documented sequence, causation unproven
 These facts are documented:
 - Binance received the $2B in USD1, which helped make USD1 one of the largest stablecoins.
-- The WSJ reported that Binance engineers helped build USD1's technology, and that Zhao's representatives sought talks with Trump allies to resolve Binance's legal problems.
+- Bloomberg first reported in July 2025, citing three anonymous sources, that Binance wrote USD1's basic smart-contract code. The WSJ later reported that Binance helped build USD1's technology, and that Zhao's representatives sought talks with Trump allies to resolve Binance's legal problems. Binance says it followed standard listing processes, Zhao called the Bloomberg report "FUD" and threatened to sue, and WLF called it "factually deficient". This is reported allegation, not established fact. (Audit correction.)
 - Zhao lobbied for and received a pardon.
 
 No public evidence shows a quid pro quo. Zhao says "there is no business relationship between me, Binance, and World Liberty Finance." Teng denies Binance took part in MGX's choice of USD1. Zhao's lawyers threatened to sue Sen. Elizabeth Warren over her statement that he "financed President Trump's stablecoin and lobbied for a pardon." Warren, Sen. Chris Murphy and others call the pardon corrupt. [16][17][18][19]
@@ -223,6 +307,13 @@ No public evidence shows a quid pro quo. Zhao says "there is no business relatio
 - Zhao: he was surprised by the pardon and did not do much to get it, he has no business ties to World Liberty Financial, and rivals lobbied against his pardon.
 - Binance (Teng): it had no role in MGX choosing USD1, and USD1 was listed elsewhere first.
 - Critics (Warren, Murphy): the pardon followed Binance's help to a Trump-family venture.
+
+### Second-review audit (2026-11-14)
+- Re-checked: the SEC dismissal (joint stipulation with prejudice, 2025-05-29, covering Binance entities and Zhao), the pardon (signed Wednesday 2025-10-22, announced 2025-10-23), Zhao's All-In remarks, and the report that Binance helped build USD1. **Result: corrected (attribution).**
+- The "Binance helped build USD1" report originated with Bloomberg in July 2025 (three anonymous sources), not the WSJ alone. It is disputed by Binance, Zhao and WLF, and is now framed as an allegation.
+- The other points were re-confirmed. Zhao's All-In quotes are still known only via secondary reports.
+- New sources: DL News (2025-07) https://www.dlnews.com/articles/people-culture/binance-changpeng-cz-zhao-bloomberg-trump-stablecoin-fud/ ; Cointelegraph (2025-07) https://cointelegraph.com/news/binance-cz-sue-bloomberg-trump-stablecoin-report ; PYMNTS (2025-05-30) https://www.pymnts.com/cpi-posts/sec-ends-binance-lawsuit-amid-shift-in-crypto-policy ; Washington Times (2025-10-23) https://m.washingtontimes.com/news/2025/oct/23/trump-pardons-changpeng-zhao-founded-one-worlds-largest-crypto/
+
 
 ### Sources
 1. Reuters via Yahoo Finance, "US SEC dismisses lawsuit against Binance crypto exchange", 2025-05-30. https://finance.yahoo.com/news/us-sec-voluntarily-dismisses-lawsuit-211512870.html

@@ -10,9 +10,13 @@ tags:
 ---
 # Pini Althaus
 
-*person*
-
 CEO of Cove Capital.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ CEO of Cove Capital.
 
 ## Relationships
 
-- [[Pini Althaus]] *CEO of* [[Cove Kaz Capital Cove Capital]] (commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+### Commercial (1)
+
+- [[Pini Althaus]] *CEO of* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]

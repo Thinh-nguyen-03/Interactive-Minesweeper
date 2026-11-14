@@ -10,9 +10,15 @@ tags:
 ---
 # FINRA
 
-*government*
-
 Broker-dealer self-regulatory organization.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 2 claims |
+| Connections | 3 |
+
+## How other claims describe it
 
 - Self-regulatory broker-dealer regulator.
 
@@ -23,5 +29,7 @@ Broker-dealer self-regulatory organization.
 
 ## Relationships
 
-- [[FINRA]] *fined $800,000 (AML/supervision, small-cap IPOs)* [[Revere Securities LLC]] (2026, $800K, regulatory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[FINRA]] *fined for AML/supervisory failures* [[Revere Securities LLC]] (2026-10, $800K, regulatory) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+### Regulatory (2)
+
+- [[FINRA]] *fined $800,000 (AML/supervision, small-cap IPOs)* [[Revere Securities LLC]] · 2026 · $800K · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[FINRA]] *fined for AML/supervisory failures* [[Revere Securities LLC]] · 2026-10 · $800K · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]

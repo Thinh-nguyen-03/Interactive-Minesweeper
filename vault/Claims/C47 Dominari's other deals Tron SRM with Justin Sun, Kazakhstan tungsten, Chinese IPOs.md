@@ -18,65 +18,23 @@ tags:
 ---
 # C47: Dominari's other deals: Tron/SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Follow-up lead
 
-## Lead investigated
+## Bottom line
 
-> Leads from C39: Dominari Securities arranged the SRM Entertainment → Tron Inc. reverse-merger treasury deal with Justin Sun (Eric Trump reportedly linked, he denies a role); launched American Ventures, a ~$1B microcap fund with Trump-son investors; was tied to the Skyline Builders / Cove Kaz Kazakhstan tungsten deal with up to $1.6B of US-government-linked financing; and faces a House China Select Committee inquiry into Chinese small-cap 'ramp-and-dump' IPOs it underwrote, plus FINRA's fine on Kyle Wool's former firm Revere. Verify each with dates, amounts, and denials.
+Every thread in the brief is documented.
 
-## Follows up on
+## What holds up
 
-- [[C39 Dominari Holdings and the Trump sons' small-cap network]]
-- [[C05 Justin Sun, WLF and the SEC]]
-- [[C27 New America Acquisition I Corp SPAC]]
+- Dominari Securities arranged the SRM Entertainment to Tron Inc. reverse-merger treasury deal with Justin Sun.
+- Eric Trump is reportedly linked to the Tron deal and denies a role.
+- Dominari launched American Ventures, a roughly $1B microcap fund with Trump-son investors (mostly accurate)
+- Dominari was tied to the Skyline Builders / Cove Kaz Kazakhstan tungsten deal, which has up to $1.6B of US-government-linked financing (mostly accurate)
+- The House China Select Committee is probing Chinese small-cap 'ramp-and-dump' IPOs that Dominari underwrote.
+- FINRA fined Kyle Wool's former firm, Revere Securities (mostly accurate)
 
-## Follow-up checks
-
-- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-
-## Summary
-
-Every thread in the brief is documented. Dominari was exclusive placement agent on SRM Entertainment's June 2025 $100M (up to $210M) TRX treasury deal that made it Tron Inc. Eric Trump denies any role. Dominari controls 90% of the roughly $1B American Ventures, in which both sons are passive investors. The sons reportedly bought into Skyline Builders through a Dominari-linked SPV before Skyline took 20% of Cove's Kaz Resources, which holds up to $1.6B in non-binding EXIM/DFC letters of interest. The China-IPO scrutiny is a March 2026 House committee letter with no finding yet, and FINRA's October 2026 $800K Revere fine does not name Kyle Wool. No evidence shows the sons influenced any government decision.
-
-## Sub-claims
-
-- **Confirmed**: Dominari Securities arranged the SRM Entertainment to Tron Inc. reverse-merger treasury deal with Justin Sun.
-  - On June 16, 2025, SRM announced a $100M Series B convertible preferred sale (convertible at $0.50) plus 220M warrants, up to $210M in total, to fund a TRX treasury. SRM was renamed Tron Inc., Sun became an adviser, and Dominari Securities was exclusive placement agent. SRM rose roughly 460-580%. The investor, Bravemorning, exercised $110M of warrants in September 2025, bringing its total to $210M and about 86.6% ownership. The claim that Sun's father, Weike Sun, got board control rests on a single source and is unverified.
-  - <https://www.nbcnewyork.com/news/business/money-report/justin-suns-tron-to-go-public-through-reverse-merger-in-deal-led-by-trump-linked-bank/6304541/>
-  - <https://decrypt.co/325352/srm-stock-soars-580-justin-suns-tron-eyes-nasdaq-debut>
-  - <https://cointelegraph.com/news/nasdaq-firm-tron-inc-210m-trx-treasury>
-  - <https://www.barchart.com/story/news/34538833/tron-inc-expands-trx-treasury-with-110-000-000-new-investment-from-largest-shareholder>
-- **Confirmed**: Eric Trump is reportedly linked to the Tron deal and denies a role.
-  - His documented link is the Dominari advisory board and his stake in Dominari. Early reports said he was expected to take a role at Tron Inc. In June 2025 he posted on X: 'I am not involved in Tron's public listing plans.' No filing names him at Tron Inc.
-  - <https://decrypt.co/325516/eric-trump-denies-involvement-tron-nasdaq-deal>
-  - <https://cointelegraph.com/news/eric-trump-denies-tron-us-public-offering-justin-sun>
-- **Mostly accurate**: Dominari launched American Ventures, a roughly $1B microcap fund with Trump-son investors.
-  - American Ventures Management LLC is 90% owned by Dominari, according to a May 2026 SEC filing. The sons own about 12% of Dominari and, per the FT (May 2026), invested in most of the vehicles; amounts are undisclosed. Its stated focus is drones, AI and crypto. On June 25, 2026, Bloomberg reported hundreds of millions in unrealized, largely warrant-driven gains on at least 10 thinly traded microcaps, and Bloomberg Línea reported stake sales during media-driven price rises. '$1B' is the stated size, not confirmed capital raised.
-  - <https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps>
-  - <https://www.en.politis.com.cy/news/world/1003684/trump-sons-invest-in-fund-targeting-drones-crypto-and-ai>
-  - <https://thedeepdive.ca/trump-sons-dominari-microcap-fund/>
-  - <https://www.bloomberglinea.com/mercados/un-fondo-de-los-hijos-de-trump-aprovecho-el-interes-mediatico-para-vender-acciones-a-los-inversores/>
-- **Mostly accurate**: Dominari was tied to the Skyline Builders / Cove Kaz Kazakhstan tungsten deal, which has up to $1.6B of US-government-linked financing.
-  - The FT (about May 2026) reported that the sons bought into Skyline (SKBL) in August 2025 through an SPV run by a Dominari subsidiary / American Ventures. Its sources were anonymous, and SEC filings do not name the brothers. Timeline: Sept. 22, 2025, Tokayev reportedly tells Trump Cove Kaz will get the project; Oct. 28, an almost $24M Skyline placement in which the sons reportedly added to their stake; Oct. 31, Skyline agrees to pay $20M for 20% of Kaz Resources; Nov. 6, the deal is signed; then EXIM issues a letter of interest for up to $900M and DFC letters for $700M, all non-binding. In May 2026 Cove sought about $400M more from the Pentagon's Office of Strategic Capital. Skyline and Cove Kaz signed a merger agreement to form Kaz Resources (KAZR) in August 2026. The FT found no evidence of foreknowledge or influence.
-  - <https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/>
-  - <https://www.northernminer.com/news/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/1003890636/>
-  - <https://www.intellinews.com/trump-sons-hold-stake-in-kazakh-tungsten-venture-backed-by-1-6bn-in-us-government-funds-440589/>
-  - <https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/>
-  - <https://www.bostonglobe.com/2026/06/28/world/trump-cut-billion-dollar-mining-deal-his-sons-stand-profit/>
-  - <https://www.mining-technology.com/news/cove-kaz-skyline-sign-merger-agreement/>
-- **Confirmed**: The House China Select Committee is probing Chinese small-cap 'ramp-and-dump' IPOs that Dominari underwrote.
-  - On March 8, 2026, Moolenaar and Khanna sent information-request letters to Dominari Securities, D. Boral Capital and Revere Securities, asking for records back to 2020. The committee says 11 of Dominari's 29 Chinese IPOs since 2020 fit a manipulative profile. These are letters, not subpoenas; one aggregator's subpoena claim is unconfirmed. No hearing, referral or finding had been located as of November 2026.
-  - <https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-moolenaar-investigate-us-underwriters-helped-chinese-businesses-rip>
-  - <https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/letter_dominari.pdf>
-  - <https://www.caixinglobal.com/2026-03-11/us-lawmakers-probe-underwriters-over-chinese-ipo-manipulation-claims-102421674.html>
-  - <https://www.barchart.com/story/news/768316/dominari-releases-letter-to-shareholders-and-clients>
-- **Mostly accurate**: FINRA fined Kyle Wool's former firm, Revere Securities.
-  - In October 2026 FINRA fined Revere $800,000 for AML and supervisory failures on foreign small-cap IPOs with ramp-and-dump hallmarks (about 60 IPOs since 2022). Revere did not admit or deny the findings. Wool was president of Revere Securities from about April to October 2022 and non-executive chairman until about April 2023, then became CEO of Dominari Securities in March 2023. The conduct period partly overlaps his tenure, but FINRA does not name him.
-  - <https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and>
-  - <https://www.investmentexecutive.com/news/regulation/finra-sanctions-firm-for-foreign-small-cap-dealings/>
-  - <https://www.marketscreener.com/quote/stock/DOMINARI-HOLDINGS-INC-58256244/news/Dominari-Holdings-Inc-Appoints-Kyle-Wool-as-CEO-of-Dominari-Securities-LLC-43945138/>
-
-## Corrections
+## What needs correcting
 
 - The $1.6B in 'US-government-linked financing' is non-binding letters of interest (EXIM up to $900M, DFC $700M), not disbursed funding. The project's development cost is about $1.1B.
 - Dominari's tie to the tungsten deal is indirect. The sons' Skyline stake reportedly went through a Dominari-subsidiary / American Ventures SPV, and Skyline then bought 20% of Kaz Resources.
@@ -84,11 +42,111 @@ Every thread in the brief is documented. Dominari was exclusive placement agent 
 - The FINRA action names Revere Securities, not Kyle Wool; whether the conduct overlaps his tenure is only partly established.
 - American Ventures' stated focus is drones, AI and crypto; 'microcap' describes what it holds, and '$1B' is its stated size.
 
+## In more detail
+
+- Dominari was exclusive placement agent on SRM Entertainment's June 2025 $100M (up to $210M) TRX treasury deal that made it Tron Inc. Eric Trump denies any role.
+- Dominari controls 90% of the roughly $1B American Ventures, in which both sons are passive investors.
+- The sons reportedly bought into Skyline Builders through a Dominari-linked SPV before Skyline took 20% of Cove's Kaz Resources, which holds up to $1.6B in non-binding EXIM/DFC letters of interest.
+- The China-IPO scrutiny is a March 2026 House committee letter with no finding yet, and FINRA's October 2026 $800K Revere fine does not name Kyle Wool.
+- No evidence shows the sons influenced any government decision.
+
+## Lead investigated
+
+> Leads from C39: Dominari Securities arranged the SRM Entertainment → Tron Inc. reverse-merger treasury deal with Justin Sun (Eric Trump reportedly linked, he denies a role); launched American Ventures, a ~$1B microcap fund with Trump-son investors; was tied to the Skyline Builders / Cove Kaz Kazakhstan tungsten deal with up to $1.6B of US-government-linked financing; and faces a House China Select Committee inquiry into Chinese small-cap 'ramp-and-dump' IPOs it underwrote, plus FINRA's fine on Kyle Wool's former firm Revere. Verify each with dates, amounts, and denials.
+
+## Follows up on
+
+- [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+- [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
+- [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
+
+## Follow-up checks
+
+- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
+
+## Sub-claims
+
+### 1. Dominari Securities arranged the SRM Entertainment to Tron Inc. reverse-merger treasury deal with Justin Sun.
+
+**Confirmed**
+
+- On June 16, 2025, SRM announced a $100M Series B convertible preferred sale (convertible at $0.50) plus 220M warrants, up to $210M in total, to fund a TRX treasury.
+- SRM was renamed Tron Inc., Sun became an adviser, and Dominari Securities was exclusive placement agent.
+- SRM rose roughly 460-580%.
+- The investor, Bravemorning, exercised $110M of warrants in September 2025, bringing its total to $210M and about 86.6% ownership.
+- The claim that Sun's father, Weike Sun, got board control rests on a single source and is unverified.
+- Amounts: $100M; $0.50; up to $210M; roughly 460-580%; $110M
+- Dates: June 16, 2025; September 2025
+- Sources: [1](https://www.nbcnewyork.com/news/business/money-report/justin-suns-tron-to-go-public-through-reverse-merger-in-deal-led-by-trump-linked-bank/6304541/) [2](https://decrypt.co/325352/srm-stock-soars-580-justin-suns-tron-eyes-nasdaq-debut) [5](https://cointelegraph.com/news/nasdaq-firm-tron-inc-210m-trx-treasury) [6](https://www.barchart.com/story/news/34538833/tron-inc-expands-trx-treasury-with-110-000-000-new-investment-from-largest-shareholder)
+
+### 2. Eric Trump is reportedly linked to the Tron deal and denies a role.
+
+**Confirmed**
+
+- His documented link is the Dominari advisory board and his stake in Dominari.
+- Early reports said he was expected to take a role at Tron Inc. In June 2025 he posted on X: 'I am not involved in Tron's public listing plans.'
+- No filing names him at Tron Inc.
+- Dates: June 2025
+- Sources: [3](https://decrypt.co/325516/eric-trump-denies-involvement-tron-nasdaq-deal) [4](https://cointelegraph.com/news/eric-trump-denies-tron-us-public-offering-justin-sun)
+
+### 3. Dominari launched American Ventures, a roughly $1B microcap fund with Trump-son investors.
+
+**Mostly accurate**
+
+- American Ventures Management LLC is 90% owned by Dominari, according to a May 2026 SEC filing.
+- The sons own about 12% of Dominari and, per the FT (May 2026), invested in most of the vehicles; amounts are undisclosed.
+- Its stated focus is drones, AI and crypto.
+- On June 25, 2026, Bloomberg reported hundreds of millions in unrealized, largely warrant-driven gains on at least 10 thinly traded microcaps, and Bloomberg Línea reported stake sales during media-driven price rises.
+- '$1B' is the stated size, not confirmed capital raised.
+- Amounts: 90%; about 12%; $1B
+- Dates: May 2026; June 25, 2026
+- Sources: [7](https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps) [9](https://www.en.politis.com.cy/news/world/1003684/trump-sons-invest-in-fund-targeting-drones-crypto-and-ai) [8](https://thedeepdive.ca/trump-sons-dominari-microcap-fund/) [10](https://www.bloomberglinea.com/mercados/un-fondo-de-los-hijos-de-trump-aprovecho-el-interes-mediatico-para-vender-acciones-a-los-inversores/)
+
+### 4. Dominari was tied to the Skyline Builders / Cove Kaz Kazakhstan tungsten deal, which has up to $1.6B of US-government-linked financing.
+
+**Mostly accurate**
+
+- The FT (about May 2026) reported that the sons bought into Skyline (SKBL) in August 2025 through an SPV run by a Dominari subsidiary / American Ventures.
+- Its sources were anonymous, and SEC filings do not name the brothers.
+- Timeline: Sept. 22, 2025, Tokayev reportedly tells Trump Cove Kaz will get the project; Oct. 28, an almost $24M Skyline placement in which the sons reportedly added to their stake; Oct. 31, Skyline agrees to pay $20M for 20% of Kaz Resources; Nov. 6, the deal is signed; then EXIM issues a letter of interest for up to $900M and DFC letters for $700M, all non-binding.
+- In May 2026 Cove sought about $400M more from the Pentagon's Office of Strategic Capital.
+- Skyline and Cove Kaz signed a merger agreement to form Kaz Resources (KAZR) in August 2026.
+- The FT found no evidence of foreknowledge or influence.
+- Amounts: almost $24M; $20M; 20%; up to $900M; $700M
+- Dates: May 2026; August 2025; Sept. 22, 2025; Oct. 28; Oct. 31
+- Sources: [11](https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/) [12](https://www.northernminer.com/news/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/1003890636/) [13](https://www.intellinews.com/trump-sons-hold-stake-in-kazakh-tungsten-venture-backed-by-1-6bn-in-us-government-funds-440589/) [14](https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/) [15](https://www.bostonglobe.com/2026/06/28/world/trump-cut-billion-dollar-mining-deal-his-sons-stand-profit/) [17](https://www.mining-technology.com/news/cove-kaz-skyline-sign-merger-agreement/)
+
+### 5. The House China Select Committee is probing Chinese small-cap 'ramp-and-dump' IPOs that Dominari underwrote.
+
+**Confirmed**
+
+- On March 8, 2026, Moolenaar and Khanna sent information-request letters to Dominari Securities, D. Boral Capital and Revere Securities, asking for records back to 2020.
+- The committee says 11 of Dominari's 29 Chinese IPOs since 2020 fit a manipulative profile.
+- These are letters, not subpoenas; one aggregator's subpoena claim is unconfirmed.
+- No hearing, referral or finding had been located as of November 2026.
+- Dates: March 8, 2026; November 2026
+- Sources: [21](https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-moolenaar-investigate-us-underwriters-helped-chinese-businesses-rip) [22](https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/letter_dominari.pdf) [23](https://www.caixinglobal.com/2026-03-11/us-lawmakers-probe-underwriters-over-chinese-ipo-manipulation-claims-102421674.html) [24](https://www.barchart.com/story/news/768316/dominari-releases-letter-to-shareholders-and-clients)
+
+### 6. FINRA fined Kyle Wool's former firm, Revere Securities.
+
+**Mostly accurate**
+
+- In October 2026 FINRA fined Revere $800,000 for AML and supervisory failures on foreign small-cap IPOs with ramp-and-dump hallmarks (about 60 IPOs since 2022).
+- Revere did not admit or deny the findings.
+- Wool was president of Revere Securities from about April to October 2022 and non-executive chairman until about April 2023, then became CEO of Dominari Securities in March 2023.
+- The conduct period partly overlaps his tenure, but FINRA does not name him.
+- Amounts: $800,000
+- Dates: October 2026; October 2022; April 2023; March 2023
+- Sources: [25](https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and) [26](https://www.investmentexecutive.com/news/regulation/finra-sanctions-firm-for-foreign-small-cap-dealings/) [27](https://www.marketscreener.com/quote/stock/DOMINARI-HOLDINGS-INC-58256244/news/Dominari-Holdings-Inc-Appoints-Kyle-Wool-as-CEO-of-Dominari-Securities-LLC-43945138/)
+
 ## Denials and context
 
 - Eric Trump: 'I'm the biggest fan of Tron… I am not involved in Tron's public listing plans.'
-- Trump Organization retraction demand to the NYT: suggestions of the brothers' involvement are 'categorically false, misleading and libelous'; they had 'absolutely no involvement in the award.' The NYT said the letter 'does not deny the main point of our story.'
-- Eric Trump says he is 'a passive investor with absolutely no management role'; a Don Jr. spokesman says he 'does not interface with the federal government on behalf of any company.' Both call themselves passive investors in American Ventures.
+- Trump Organization retraction demand to the NYT: suggestions of the brothers' involvement are 'categorically false, misleading and libelous'; they had 'absolutely no involvement in the award.'
+  - The NYT said the letter 'does not deny the main point of our story.'
+- Eric Trump says he is 'a passive investor with absolutely no management role'; a Don Jr. spokesman says he 'does not interface with the federal government on behalf of any company.'
+  - Both call themselves passive investors in American Ventures.
 - Cove CEO Pini Althaus credited support from President Trump, Rubio and Lutnick, but said he never spoke to either Trump brother.
 - White House: 'The only special interest guiding the Trump administration's decision-making is the best interest of the American people.'
 - Dominari (March 16, 2026) said it will cooperate with the committee, that IPOs are under 10% of its banking revenue, and that it stopped Chinese IPO work in 2024 and Hong Kong IPO work in mid-2025.
@@ -98,99 +156,130 @@ Every thread in the brief is documented. Dominari was exclusive placement agent 
 
 ## People and organisations
 
-- [[American Ventures]]
-- [[Bloomberg]]
-- [[Bravemorning Ltd]]
-- [[Citizens for Responsibility and Ethics in Washington]]
-- [[Cove Kaz Capital Cove Capital]]
-- [[D. Boral Capital]]
-- [[Dominari Holdings Dominari Securities]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[Elizabeth Warren]]
-- [[Eric Trump]]
-- [[Export-Import Bank of the United States]]
-- [[Financial Times]]
-- [[FINRA]]
-- [[House Select Committee on the CCP]]
-- [[Howard Lutnick]]
-- [[John Moolenaar]]
-- [[Justin Sun]]
-- [[Kassym-Jomart Tokayev]]
-- [[Kaz Resources]]
-- [[Kazakhstan]]
-- [[Kyle Wool]]
-- [[Marco Rubio]]
-- [[New America Acquisition I Corp]]
-- [[Office of Strategic Capital]]
-- [[Pentagon (Department of Defense)]]
-- [[Pini Althaus]]
-- [[Revere Securities LLC]]
-- [[Ro Khanna]]
-- [[Skyline Builders Group]]
-- [[SRM Entertainment Tron Inc]]
-- [[Tau-Ken Samruk]]
-- [[The New York Times]]
-- [[Tron]]
-- [[Trump Organization]]
-- [[US International Development Finance Corporation]]
-- [[White House Trump administration]]
-- [[World Liberty Financial]]
+- [[American Ventures]] · Fund
+- [[Bloomberg]] · Media
+- [[Bravemorning Ltd]] · Company
+- [[Citizens for Responsibility and Ethics in Washington]] · Company
+- [[Cove Kaz Capital Cove Capital]] · Company
+- [[D. Boral Capital]] · Company
+- [[Dominari Holdings Dominari Securities]] · Company
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[Elizabeth Warren]] · Person
+- [[Eric Trump]] · Person
+- [[Export-Import Bank of the United States]] · Government body
+- [[Financial Times]] · Media
+- [[FINRA]] · Government body
+- [[House Select Committee on the CCP]] · Government body
+- [[Howard Lutnick]] · Person
+- [[John Moolenaar]] · Person
+- [[Justin Sun]] · Person
+- [[Kassym-Jomart Tokayev]] · Person
+- [[Kaz Resources]] · Company
+- [[Kazakhstan]] · Country
+- [[Kyle Wool]] · Person
+- [[Marco Rubio]] · Person
+- [[New America Acquisition I Corp]] · Company
+- [[Office of Strategic Capital]] · Government body
+- [[Pentagon (Department of Defense)]] · Government body
+- [[Pini Althaus]] · Person
+- [[Revere Securities LLC]] · Company
+- [[Ro Khanna]] · Person
+- [[Skyline Builders Group]] · Company
+- [[SRM Entertainment Tron Inc]] · Company
+- [[Tau-Ken Samruk]] · Company
+- [[The New York Times]] · Media
+- [[Tron]] · Company
+- [[Trump Organization]] · Company
+- [[US International Development Finance Corporation]] · Government body
+- [[White House Trump administration]] · Government body
+- [[World Liberty Financial]] · Company
 
 ## Relationships documented
 
-- [[American Ventures]] *SPV through which the sons reportedly bought in* [[Skyline Builders Group]] (2025-08, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Bloomberg]] *reported microcap paper gains* [[American Ventures]] (2026-06-25, media) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Bravemorning Ltd]] *invested up to $210M, ~86.6% owner* [[SRM Entertainment Tron Inc]] (2025-09, $210M, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Cove Kaz Capital Cove Capital]] *parent of* [[Kaz Resources]] (ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Cove Kaz Capital Cove Capital]] *sought additional funding from* [[Office of Strategic Capital]] (2026-05, $400M, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Citizens for Responsibility and Ethics in Washington]] *FOIA on mining communications* [[Howard Lutnick]] (2026-07, legal) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[D. Boral Capital]] *co-led IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Dominari Holdings Dominari Securities]] *owns 90% of manager* [[American Ventures]] (2026-05, ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Dominari Holdings Dominari Securities]] *co-led IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Dominari Holdings Dominari Securities]] *exclusive placement agent for TRX treasury deal* [[SRM Entertainment Tron Inc]] (2025-06, $100M, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Donald Trump]] *struck tungsten deal with* [[Kassym-Jomart Tokayev]] (2025-11-06, political) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Donald Trump Jr]] *passive investor in* [[American Ventures]] (2026, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Donald Trump Jr]] *adviser and shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Donald Trump Jr]] *reported indirect stake* [[Skyline Builders Group]] (2025-08, ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Elizabeth Warren]] *questioned on Kazakh financing* [[Export-Import Bank of the United States]] (2026-07-08, regulatory) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Eric Trump]] *passive investor in* [[American Ventures]] (2026, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Eric Trump]] *adviser and shareholder* [[Dominari Holdings Dominari Securities]] (2025-02, ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Eric Trump]] *reported indirect stake* [[Skyline Builders Group]] (2025-08, ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Eric Trump]] *denies involvement in listing* [[SRM Entertainment Tron Inc]] (2025-06, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Export-Import Bank of the United States]] *non-binding letter of interest* [[Cove Kaz Capital Cove Capital]] (2025-11, $900M, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Financial Times]] *reported Trump sons' stake* [[Skyline Builders Group]] (2026-05, media) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[FINRA]] *fined for AML/supervisory failures* [[Revere Securities LLC]] (2026-10, $800K, regulatory) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[D. Boral Capital]] (2026-03-08, regulatory) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[Dominari Holdings Dominari Securities]] (2026-03-08, regulatory) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[Revere Securities LLC]] (2026-03-08, regulatory) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Howard Lutnick]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] (political) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[John Moolenaar]] *chair of* [[House Select Committee on the CCP]] (political) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Justin Sun]] *adviser to Tron Inc.* [[SRM Entertainment Tron Inc]] (2025-06, advisory) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Justin Sun]] *invested $75M in* [[World Liberty Financial]] (2025-01, $75M, money) · [[C05 Justin Sun, WLF and the SEC|C05]] [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Kassym-Jomart Tokayev]] *awarded tungsten project to* [[Cove Kaz Capital Cove Capital]] (2025-11-06, political) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Kyle Wool]] *president; CEO of Dominari Securities* [[Dominari Holdings Dominari Securities]] (2023-03, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]] [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Kyle Wool]] *former president/chairman (2021-2023)* [[Revere Securities LLC]] (2022, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Marco Rubio]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] (political) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Office of Strategic Capital]] *part of* [[Pentagon (Department of Defense)]] (ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Pini Althaus]] *CEO of* [[Cove Kaz Capital Cove Capital]] (commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Ro Khanna]] *ranking member of* [[House Select Committee on the CCP]] (political) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Skyline Builders Group]] *merger agreement forming Kaz Resources (KAZR)* [[Cove Kaz Capital Cove Capital]] (2026-08, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Skyline Builders Group]] *agreed to pay $20M for 20%* [[Kaz Resources]] (2025-10-31, $20M, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[SRM Entertainment Tron Inc]] *holds TRX treasury* [[Tron]] (2025-06, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Tau-Ken Samruk]] *30% partner in tungsten project* [[Kaz Resources]] (ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Trump Organization]] *demanded retraction of tungsten story* [[The New York Times]] (2026-07, legal) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[US International Development Finance Corporation]] *non-binding letters of interest* [[Cove Kaz Capital Cove Capital]] (2025-11, $700M, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[White House Trump administration]] *denied special-interest influence on deal* [[Cove Kaz Capital Cove Capital]] (2026-06, political) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+### Money (9)
 
-## Leads not covered by the video
+- [[Justin Sun]] *invested $75M in* [[World Liberty Financial]] · 2025-01 · $75M · [[C05 Justin Sun, WLF and the SEC|C05]] [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[American Ventures]] *SPV through which the sons reportedly bought in* [[Skyline Builders Group]] · 2025-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Bravemorning Ltd]] *invested up to $210M, ~86.6% owner* [[SRM Entertainment Tron Inc]] · 2025-09 · $210M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Skyline Builders Group]] *agreed to pay $20M for 20%* [[Kaz Resources]] · 2025-10-31 · $20M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Export-Import Bank of the United States]] *non-binding letter of interest* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $900M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[US International Development Finance Corporation]] *non-binding letters of interest* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $700M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Donald Trump Jr]] *passive investor in* [[American Ventures]] · 2026 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Eric Trump]] *passive investor in* [[American Ventures]] · 2026 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Cove Kaz Capital Cove Capital]] *sought additional funding from* [[Office of Strategic Capital]] · 2026-05 · $400M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 
-- **Pentagon Office of Strategic Capital request of about $400M for the Trump-sons-linked Kazakh tungsten project**: Additional US defense funding sought by Cove after the $1.6B in letters of interest; the outcome is unknown. [source](https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/) · [[Cove Kaz Capital Cove Capital]] [[Office of Strategic Capital]] [[Donald Trump Jr]] [[Eric Trump]]
-- **Trump and Lutnick family ties to at least 14 critical-minerals companies working with the federal government**: The NYT's broader finding beyond Kazakhstan; Lutnick sits on the EXIM and DFC boards, which issued the tungsten letters of interest. [source](https://www.bostonglobe.com/2026/06/28/world/trump-cut-billion-dollar-mining-deal-his-sons-stand-profit/) · [[Howard Lutnick]] [[Donald Trump Jr]] [[Eric Trump]] [[Export-Import Bank of the United States]] [[US International Development Finance Corporation]]
-- **Senate Banking (Warren) questions to EXIM on the Kazakh financing and its unanswered conflict-of-interest responses**: Congressional oversight of the US financing behind the Trump-sons-linked deal; EXIM's May 22, 2026 reply was called inadequate. [source](https://www.banking.senate.gov/newsroom/minority/warren-questions-agency-heads-following-reports-of-trump-family-ties-to-a-2-billion-federal-assistance-package-for-kazakhstan-mining-deal) · [[Elizabeth Warren]] [[Export-Import Bank of the United States]] [[Howard Lutnick]]
-- **American Ventures stake sales during media-driven microcap rallies**: Bloomberg Línea reports that the Dominari/Trump-sons vehicle sold some stakes while promotion lifted prices, which may warrant a market-conduct check. [source](https://www.bloomberglinea.com/mercados/un-fondo-de-los-hijos-de-trump-aprovecho-el-interes-mediatico-para-vender-acciones-a-los-inversores/) · [[American Ventures]] [[Dominari Holdings Dominari Securities]] [[Donald Trump Jr]] [[Eric Trump]]
+### Ownership (8)
 
-## Sources
+- [[Donald Trump Jr]] *adviser and shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Eric Trump]] *adviser and shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Donald Trump Jr]] *reported indirect stake* [[Skyline Builders Group]] · 2025-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Eric Trump]] *reported indirect stake* [[Skyline Builders Group]] · 2025-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Dominari Holdings Dominari Securities]] *owns 90% of manager* [[American Ventures]] · 2026-05 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Cove Kaz Capital Cove Capital]] *parent of* [[Kaz Resources]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Office of Strategic Capital]] *part of* [[Pentagon (Department of Defense)]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Tau-Ken Samruk]] *30% partner in tungsten project* [[Kaz Resources]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+
+### Regulatory (5)
+
+- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[D. Boral Capital]] · 2026-03-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[Revere Securities LLC]] · 2026-03-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Elizabeth Warren]] *questioned on Kazakh financing* [[Export-Import Bank of the United States]] · 2026-07-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[FINRA]] *fined for AML/supervisory failures* [[Revere Securities LLC]] · 2026-10 · $800K · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+
+### Advisory (1)
+
+- [[Justin Sun]] *adviser to Tron Inc* [[SRM Entertainment Tron Inc]] · 2025-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+
+### Political (7)
+
+- [[Donald Trump]] *struck tungsten deal with* [[Kassym-Jomart Tokayev]] · 2025-11-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Kassym-Jomart Tokayev]] *awarded tungsten project to* [[Cove Kaz Capital Cove Capital]] · 2025-11-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[White House Trump administration]] *denied special-interest influence on deal* [[Cove Kaz Capital Cove Capital]] · 2026-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Howard Lutnick]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[John Moolenaar]] *chair of* [[House Select Committee on the CCP]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Marco Rubio]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Ro Khanna]] *ranking member of* [[House Select Committee on the CCP]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+
+### Legal (2)
+
+- [[Citizens for Responsibility and Ethics in Washington]] *FOIA on mining communications* [[Howard Lutnick]] · 2026-07 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Trump Organization]] *demanded retraction of tungsten story* [[The New York Times]] · 2026-07 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+
+### Media (2)
+
+- [[Financial Times]] *reported Trump sons' stake* [[Skyline Builders Group]] · 2026-05 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Bloomberg]] *reported microcap paper gains* [[American Ventures]] · 2026-06-25 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+
+### Commercial (9)
+
+- [[Kyle Wool]] *former president/chairman (2021-2023)* [[Revere Securities LLC]] · 2022 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Kyle Wool]] *president; CEO of Dominari Securities* [[Dominari Holdings Dominari Securities]] · 2023-03 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]] [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Dominari Holdings Dominari Securities]] *exclusive placement agent for TRX treasury deal* [[SRM Entertainment Tron Inc]] · 2025-06 · $100M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Eric Trump]] *denies involvement in listing* [[SRM Entertainment Tron Inc]] · 2025-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[SRM Entertainment Tron Inc]] *holds TRX treasury* [[Tron]] · 2025-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[D. Boral Capital]] *co-led IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Dominari Holdings Dominari Securities]] *co-led IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Skyline Builders Group]] *merger agreement forming Kaz Resources (KAZR)* [[Cove Kaz Capital Cove Capital]] · 2026-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Pini Althaus]] *CEO of* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+
+## Leads not covered here
+
+- **Pentagon Office of Strategic Capital request of about $400M for the Trump-sons-linked Kazakh tungsten project**
+  - Additional US defense funding sought by Cove after the $1.6B in letters of interest; the outcome is unknown.
+  - [[Cove Kaz Capital Cove Capital]] [[Office of Strategic Capital]] [[Donald Trump Jr]] [[Eric Trump]] · [Source](https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/)
+- **Trump and Lutnick family ties to at least 14 critical-minerals companies working with the federal government**
+  - The NYT's broader finding beyond Kazakhstan; Lutnick sits on the EXIM and DFC boards, which issued the tungsten letters of interest.
+  - [[Howard Lutnick]] [[Donald Trump Jr]] [[Eric Trump]] [[Export-Import Bank of the United States]] [[US International Development Finance Corporation]] · [Source](https://www.bostonglobe.com/2026/06/28/world/trump-cut-billion-dollar-mining-deal-his-sons-stand-profit/)
+- **Senate Banking (Warren) questions to EXIM on the Kazakh financing and its unanswered conflict-of-interest responses**
+  - Congressional oversight of the US financing behind the Trump-sons-linked deal; EXIM's May 22, 2026 reply was called inadequate.
+  - [[Elizabeth Warren]] [[Export-Import Bank of the United States]] [[Howard Lutnick]] · [Source](https://www.banking.senate.gov/newsroom/minority/warren-questions-agency-heads-following-reports-of-trump-family-ties-to-a-2-billion-federal-assistance-package-for-kazakhstan-mining-deal)
+- **American Ventures stake sales during media-driven microcap rallies**
+  - Bloomberg Línea reports that the Dominari/Trump-sons vehicle sold some stakes while promotion lifted prices, which may warrant a market-conduct check.
+  - [[American Ventures]] [[Dominari Holdings Dominari Securities]] [[Donald Trump Jr]] [[Eric Trump]] · [Source](https://www.bloomberglinea.com/mercados/un-fondo-de-los-hijos-de-trump-aprovecho-el-interes-mediatico-para-vender-acciones-a-los-inversores/)
+
+## Sources (27)
 
 1. [Justin Sun's Tron to go public through reverse merger in deal led by Trump-linked bank](https://www.nbcnewyork.com/news/business/money-report/justin-suns-tron-to-go-public-through-reverse-merger-in-deal-led-by-trump-linked-bank/6304541/) (NBC New York / CNBC, 2025-06-16)
 2. [SRM stock soars 580% as Justin Sun's Tron eyes Nasdaq debut](https://decrypt.co/325352/srm-stock-soars-580-justin-suns-tron-eyes-nasdaq-debut) (Decrypt, 2025-06-16)

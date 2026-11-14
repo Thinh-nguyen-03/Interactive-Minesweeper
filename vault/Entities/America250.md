@@ -10,9 +10,13 @@ tags:
 ---
 # America250
 
-*company*
-
 Nonpartisan semiquincentennial organizer through which parade sponsorships flowed
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Nonpartisan semiquincentennial organizer through which parade sponsorships flowe
 
 ## Relationships
 
-- [[America250]] *organized sponsorship of* [[Army 250th Anniversary Parade]] (2025-06-14, commercial) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Coinbase]] *donated to (parade sponsorship)* [[America250]] (2025-06, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+### Money (1)
+
+- [[Coinbase]] *donated to (parade sponsorship)* [[America250]] · 2025-06 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Commercial (1)
+
+- [[America250]] *organized sponsorship of* [[Army 250th Anniversary Parade]] · 2025-06-14 · [[C23 SEC drops crypto-exchange cases; donors|C23]]

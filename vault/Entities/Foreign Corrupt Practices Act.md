@@ -10,9 +10,13 @@ tags:
 ---
 # Foreign Corrupt Practices Act
 
-*law*
-
 US anti-bribery statute Raskin cited.
+
+| | |
+|---|---|
+| Type | Law or policy |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ US anti-bribery statute Raskin cited.
 
 ## Relationships
 
-- [[Jamie Raskin]] *cited as possible basis for scrutiny* [[Foreign Corrupt Practices Act]] (2026-08-24, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Legal (1)
+
+- [[Jamie Raskin]] *cited as possible basis for scrutiny* [[Foreign Corrupt Practices Act]] · 2026-08-24 · [[C45 Kushner's Albania and Serbia developments|C45]]

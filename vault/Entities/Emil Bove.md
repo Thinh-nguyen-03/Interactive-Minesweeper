@@ -10,9 +10,13 @@ tags:
 ---
 # Emil Bove
 
-*person*
-
 Blanche's former law partner and Trump defence lawyer; DOJ deputy.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Blanche's former law partner and Trump defence lawyer; DOJ deputy.
 
 ## Relationships
 
-- [[Emil Bove]] *former law partner of* [[Todd Blanche]] (commercial) · [[C61 Shared lawyers and law firms across the deals|C61]]
+### Commercial (1)
+
+- [[Emil Bove]] *former law partner of* [[Todd Blanche]] · [[C61 Shared lawyers and law firms across the deals|C61]]

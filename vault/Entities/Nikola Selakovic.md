@@ -10,9 +10,13 @@ tags:
 ---
 # Nikola Selakovic
 
-*person*
-
 Serbian culture minister on trial for abuse of office and forgery over lifting the site's protection.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Serbian culture minister on trial for abuse of office and forgery over lifting t
 
 ## Relationships
 
-- [[Nikola Selakovic]] *on trial for forging documents lifting site's protection* [[Trump Tower Belgrade (General Staff site)]] (2026-02-04, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Legal (1)
+
+- [[Nikola Selakovic]] *on trial for forging documents lifting site's protection* [[Trump Tower Belgrade (General Staff site)]] · 2026-02-04 · [[C45 Kushner's Albania and Serbia developments|C45]]

@@ -10,9 +10,13 @@ tags:
 ---
 # American Ocean Minerals
 
-*company*
-
 Seabed-minerals company; on NYT list
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

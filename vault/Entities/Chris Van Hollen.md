@@ -10,9 +10,13 @@ tags:
 ---
 # Chris Van Hollen
 
-*person*
-
 Senator; USAR conflict letter
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

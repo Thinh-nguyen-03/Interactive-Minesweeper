@@ -17,7 +17,50 @@ tags:
 ---
 # C59: Foreign Trump Organization deals timed with tariff negotiations
 
-**Verdict:** Partly accurate (confidence: medium)
+**Verdict:** Partly accurate · medium confidence  
+**Origin:** Follow-up lead
+
+## Bottom line
+
+The list of foreign Trump-branded projects outside the Gulf is real: Vietnam, Indonesia, India, Serbia, Georgia, the Maldives and Romania, with CREW counting 21-25 foreign projects.
+
+## What holds up
+
+- CREW counts roughly two dozen foreign Trump-branded projects during the second term.
+- Vietnam: the $1.5B Hung Yen golf/urban project was fast-tracked while Vietnam negotiated tariffs.
+- India: multiple licensed Trump towers (mostly accurate)
+- Serbia: Trump-branded Belgrade project.
+- Georgia: Trump Tower Tbilisi (mostly accurate)
+- Maldives: Trump-branded resort.
+- The second-term ethics pledge permits these deals, and its limits.
+
+## What needs correcting
+
+- Vietnam's corresponding tariff outcome (partly accurate)
+- Vietnam: a Ho Chi Minh City Trump Tower (partly accurate)
+- Indonesia: MNC/Hary Tanoesoedibjo Trump resorts advanced while Indonesia negotiated tariffs (misleading)
+- Romania: Trump projects (partly accurate)
+- **Claim:** Brief implies the Hung Yen deal arose during tariff talks  
+  **Record:** It was signed in October 2024, before the election and the April 2025 tariffs. What came during the talks was the fast-tracked approval (May 2025) and groundbreaking (21 May 2025).
+- **Brief said:** The Ho Chi Minh City tower advanced  
+  **Record shows:** As of Nov 2026 it remains a proposal with in-principle backing, with no confirmed approval or construction.
+- **Brief said:** Indonesian MNC/Hary Tanoe resorts 'advanced'  
+  **Record shows:** They date from 2015-2019 and were halted by Indonesia's Environment Ministry in February 2025. A lift of the suspension is reported only by one trade outlet (Aug 2026).
+- Brief lumps India in as a country granted favours; US tariffs on India rose to 50% in Aug 2025 while Trump-branded launches continued, and the Feb 2026 cut to 18% was tied to Russian oil, not property.
+- CREW's count has been 21, 24 and 25 at different times; '~24' is a fair snapshot.
+
+## What is unproven
+
+- Fees paid to the Trump Organization for these foreign projects.
+
+## In more detail
+
+- Vietnam is the strong case: Hanoi fast-tracked the $1.5B Hung Yen project, reportedly bypassing its own legal steps, while negotiating down a threatened 46% tariff to 20%.
+- Elsewhere the 'deals timed with tariff favours' framing does not hold up.
+- Indonesia halted the MNC Lido project in Feb 2025.
+- India's tariffs rose to 50% while Trump towers kept launching.
+- No direct quid pro quo is documented anywhere.
+- Every counterparty is a private developer, so the 2025 ethics policy permits the deals, though in several cases state approvals or state-linked land sit behind them.
 
 ## Lead investigated
 
@@ -25,95 +68,178 @@ tags:
 
 ## Follows up on
 
-- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]]
-- [[C45 Kushner's Albania and Serbia developments]]
+- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
+- [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
 
-## Summary
+## Follow-up checks
 
-The list of foreign Trump-branded projects outside the Gulf is real: Vietnam, Indonesia, India, Serbia, Georgia, the Maldives and Romania, with CREW counting 21-25 foreign projects. Vietnam is the strong case: Hanoi fast-tracked the $1.5B Hung Yen project, reportedly bypassing its own legal steps, while negotiating down a threatened 46% tariff to 20%. Elsewhere the 'deals timed with tariff favours' framing does not hold up. Indonesia halted the MNC Lido project in Feb 2025. India's tariffs rose to 50% while Trump towers kept launching. No direct quid pro quo is documented anywhere. Every counterparty is a private developer, so the 2025 ethics policy permits the deals, though in several cases state approvals or state-linked land sit behind them.
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Pending
 
 ## Sub-claims
 
-- **Confirmed**: CREW counts roughly two dozen foreign Trump-branded projects during the second term.
-  - CREW's foreign development tracker has been retitled as it grew: 21, then 24, then 25 projects 'developed in foreign countries during Trump's presidency'. The current page was not fetchable here (host blocked), so the latest count rests on search snippets. CREW says 13 were first announced after Trump became a candidate in 2022. CREW's analysis of the 2026 disclosure (covering 2025) puts foreign revenue above $117M in 2025, against at least $149M over the whole first term, with 28 foreign-project accounts reporting at least $50,000 (nine in 2020). The FT, as summarised in search results, puts foreign licensing, development and management revenue at $63M in 2025, up 40%. The totals depend on which categories are counted; CREW's figure includes foreign golf/hotel operating revenue, not just new licence fees.
-  - <https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-development-tracker/>
-  - <https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/>
-  - <https://mpamag.com/us/news/general/trump-continues-to-expand-real-estate-empire-abroad-while-in-office/530377>
-- **Confirmed**: Vietnam: the $1.5B Hung Yen golf/urban project was fast-tracked while Vietnam negotiated tariffs.
-  - The deal with Kinh Bac City Development (KBC, a private Hanoi-listed industrial-park developer chaired by Dang Thanh Tam) was announced in October 2024, before the election. Its local vehicle is Hung Yen Hospitality Services. After Trump's 2 April 2025 threat of a 46% tariff on Vietnam, Deputy PM Tran Hong Ha signed in-principle investment approval in mid-May 2025 for the ~990-hectare, ~$1.5B Khoai Chau project. Eric Trump and PM Pham Minh Chinh broke ground on 21 May 2025. Chinh said Eric Trump's visit 'motivated us to expedite this project' and promised 'maximum support'. The New York Times (25 May 2025, via syndication and summaries; the original was not fetched) reported that legal experts said Vietnam skipped at least half a dozen legally required steps. It also published an official letter saying the project was receiving 'special attention from the Trump administration and President Donald Trump personally'. Reuters (Aug 2025) described Vietnam as having 'fast-tracked approvals as it negotiated a crucial trade deal with Washington'. The state pays farmer compensation of about $12-30/m2, though developers fund it; the Trump Organization says it is not involved in investment or compensation. Eviction notices were issued by June 2026, and the first phase is targeted for late 2027, around APEC in Vietnam.
-  - <https://english.alarabiya.net/News/world/2024/10/08/trump-organization-to-develop-1-5-billion-golf-course-and-hotel-project-in-vietnam>
-  - <https://fortune.com/2025/05/16/trump-organization-vietnam-golf-resort/>
-  - <https://vietnamnews.vn/economy/1717813/trump-group-s-1-5-billion-project-in-hung-yen-approved-for-investment.html>
-  - <https://foxbusiness.com/fox-news-world/vietnams-pm-eric-trump-break-ground-1-5b-luxury-golf-resort-amid-us-tariff-talks>
-  - <https://www.yahoo.com/news/vietnam-bypassing-own-laws-fast-175733614.html>
-  - <https://www.thestar.com.my/aseanplus/aseanplus-news/2025/05/25/rush-to-rip-up-land-in-vietnam-for-a-trump-golf-complex>
-  - <https://www.thestar.com.my/news/world/2025/08/11/exclusive-fistful-of-dollars-and-rice-for-vietnam-farmers-displaced-for-15-billion-trump-golf-club>
-  - <https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/26/trump-backed-golf-resort-advances-as-vietnam-seizes-farmland>
-- **Partly accurate**: Vietnam's corresponding tariff outcome.
-  - Trump announced on 2 July 2025 that Vietnamese goods would pay 20% and transshipments 40%, down from the 46% threatened in April. A framework 'Agreement on Reciprocal, Fair, and Balanced Trade' joint statement followed on 26 Oct 2025 at the ASEAN summit, keeping 20% with some goods possibly going to zero. Vietnam did get substantial relief from the threatened rate. But 20% is still among the higher rates in the region, the deal was not finalised as of June 2026, and the US later opened trade-practice investigations into Vietnam. No source shows the golf project was part of the negotiation, and the White House says trade talks are 'totally unrelated to the Trump Organization'. The link is temporal and circumstantial.
-  - <https://www.aljazeera.com/economy/2025/7/2/trump-announces-deal-to-impose-20-tariff-on-trade-with-vietnam>
-  - <https://www.thestar.com.my/aseanplus/aseanplus-news/2025/10/26/vietnam-and-us-agree-to-boost-trade-tariffs-on-some-vietnamese-goods-may-be-removed>
-  - <https://www.vietnam-briefing.com/news/us-vietnam-framework-for-trade-agreement-key-terms-and-expectations.html/>
-  - <https://www.yahoo.com/news/vietnam-bypassing-own-laws-fast-175733614.html>
-- **Partly accurate**: Vietnam: a Ho Chi Minh City Trump Tower.
-  - A Vietnamese government document reported by Reuters on 19 May 2025 showed the Trump Organization exploring a tower of at least 60 storeys and ~$1B in Thu Thiem, promoted by KBC and Saigon Invest Group, with in-principle government approval of the 'Trump Vietnam' programme. Reuters' source said work could start in 2026. I found no confirmed site approval, licence or groundbreaking as of Nov 2026, so the tower remains a proposal. CREW separately reported five new Trump trademark applications in Vietnam filed months after the lower tariff rate was agreed.
-  - <https://www.thestar.com.my/news/world/2025/05/19/exclusive-vietnam-government-document-says-trump-organization-exploring-tower-in-ho-chi-minh-city>
-  - <https://www.thestar.com.my/aseanplus/aseanplus-news/2025/05/30/work-on-us1-bil-trump-tower-in-vietnam-could-start-next-year-source-says>
-  - <https://theinvestor.vn/hcmc-authorities-to-work-with-the-trump-organization-on-tower-project-d15707.html>
-  - <https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-continues-conflicts-in-vietnam-with-five-new-trademark-applications/>
-- **Misleading**: Indonesia: MNC/Hary Tanoesoedibjo Trump resorts advanced while Indonesia negotiated tariffs.
-  - The Lido (West Java) and Bali (Tanah Lot) Trump projects with MNC Group/MNC Land, controlled by Hary Tanoesoedibjo, date from 2015-2019 and are not new second-term deals. Far from being fast-tracked, Indonesia's Environment Ministry ordered MNC Land on 6 Feb 2025 to halt development at Lido over water management and environmental violations. MNC Land denied fault and in March 2025 still announced the Trump-linked golf club. A single trade outlet (Golf Industry Asia, Aug 2026) reports the suspension was lifted after compliance, with the Trump golf course operating; that is uncorroborated. On the tariff side, the 32% threat was cut to 19% in a July 2025 deal, finalised in February 2026. The documented link is the 13 Oct 2025 Sharm el-Sheikh hot-mic exchange: Prabowo asked Trump to arrange a meeting with Eric and mentioned 'Hary', and Trump said he would have Eric call. Eric Trump later said he had not met Prabowo. That shows a foreign leader seeking to engage the family business, but no deal or tariff concession tied to it was found.
-  - <https://www.malaymail.com/news/money/2025/02/06/indonesia-orders-developer-mnc-land-to-halt-project-linked-to-trump/165769>
-  - <https://www.thejakartapost.com/business/2025/03/10/mnc-land-announces-trump-linked-golf-club-after-suspension>
-  - <https://www.golfindustry.asia/?p=8834>
-  - <https://www.dailymaverick.co.za/article/2025-10-14-indonesian-president-asks-trump-for-meeting-with-son-eric-in-hot-mic-moment>
-  - <https://www.yahoo.com/news/articles/eric-trump-explains-father-hot-142216922.html>
-  - <https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-the-united-states-and-indonesia-reach-historic-trade-deal/>
-  - <https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-trump-administration-finalizes-trade-deal-with-indonesia>
-  - <https://www.axios.com/2025/07/15/trump-tariffs-indonesia>
-- **Mostly accurate**: India: multiple licensed Trump towers.
-  - India is the largest foreign market for the brand. Business Today (Aug 2026) describes Trump Towers Hyderabad (Kokapet, two 65-storey towers, Tribeca Developers with Ira Realty) as the eighth Trump-branded project in India. Others include Trump World Center Pune, a commercial project with Kundan Spaces announced March 2025. Tribeca plans more in Gurgaon, Mumbai and elsewhere. The counterparties are private Indian developers led by Tribeca's Kalpesh Mehta, who attended the 2025 inauguration; none is state-linked. The tariff story cuts against a 'favour' narrative. The US raised India's tariff to 50% in August 2025 (25% reciprocal plus a 25% Russian-oil penalty) while Indian Trump launches continued, then cut it to 18% in February 2026 after India agreed to curb Russian oil purchases. I found no evidence connecting the licences to those decisions. Per-project India fees were not checked against the disclosure (search budget exhausted).
-  - <https://businesstoday.in/real-estate/story/trump-towers-is-coming-to-hyderabad-65-storey-800-foot-towers-set-to-become-south-indias-tallest-548563-2026-08-11>
-  - <https://www.outlookbusiness.com/corporate/tribeca-kundan-spaces-to-develop-rs-2500-crore-commercial-project-under-trump-brand>
-  - <https://www.asianhospitality.com/india-to-be-largest-foreign-hub-for-trump-towers>
-  - <https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent>
-- **Confirmed**: Serbia: Trump-branded Belgrade project.
-  - Already covered in C45. Kushner's Affinity Partners planned a ~$500M Trump-branded hotel/residential project on the former Yugoslav General Staff site under a 2024 deal with a 99-year rent-free lease. Parliament passed a special law on 7 Nov 2025 stripping the site's heritage status. The project collapsed on 15-16 Dec 2025 when prosecutors charged officials with forging the delisting documents and Affinity withdrew. This is a state counterparty (the Serbian government), but the Trump Organization's role was licensing via Kushner's fund. No tariff linkage was established here.
-  - <https://www.rferl.org/a/serbian-parliament-law-kushner-project-belgrade-trump-vucic/33584209.html>
-  - <https://europeanwesternbalkans.com/2025/12/16/kushners-company-withdraws-from-a-controversial-project-in-belgrade/>
-- **Mostly accurate**: Georgia: Trump Tower Tbilisi.
-  - The project was reported by the WSJ and unveiled in April 2026: a ~70-storey mixed-use tower with Georgian developers (Archi Group, Biograpi Living, Blox Group, Finvest Georgia) and the US Sapir Organization, with a branding agreement reportedly signed in May 2026. Per the Guardian (May 2026) and WSJ (13 Sep 2026), as relayed by JAMnews and inkl, the land, a former racecourse, was bought by developers in 2023 for up to $85M from the Cartu fund linked to the family of Bidzina Ivanishvili. The US Treasury sanctioned Ivanishvili in December 2024. Georgian Dream officials presented the deal as a sign that relations 'have been restored', while the US had suspended its strategic partnership in November 2024 and the House passed the MEGOBARI sanctions bill. This is a favour-seeking pattern by a foreign ruling party rather than a tariff deal, and I found no US policy concession to Georgia tied to it. The White House says neither the president nor his family engages in conflicts of interest, and Ivanishvili's lawyer says most of the racecourse land was donated to the state for a park. The WSJ was not accessed directly.
-  - <https://jam-news.net/trump-tower-in-georgia/>
-  - <https://jam-news.net/trump-tower-presentation-in-tbilisi/>
-  - <https://www.inkl.com/news/trump-tower-in-georgia-to-be-built-on-land-part-owned-by-son-of-us-sanctions-hit-leader>
-  - <https://www.veridica.ro/en/opinions/georgia-wants-to-name-a-skyscraper-trump-to-repair-relations-with-the-us>
-  - <https://www.intellinews.com/tbilisi-counts-the-cost-of-trump-tower-445245/>
-  - <https://www.thestar.com.my/news/world/2024/12/28/us-imposes-sanctions-on-georgian-ex-prime-minister-billionaire-ivanishvili>
-- **Confirmed**: Maldives: Trump-branded resort.
-  - Trump International Hotel Maldives was announced on 17 Nov 2025 with Dar Global (the private Saudi developer covered in C31): about 80 villas near Male, opening around end-2028. It is billed as the world's first tokenised hotel development, and Reuters (via The Block) reports Dar Global planned to fund up to 70% of the ~$300M project by selling tokens to US retail investors and was talking to the SEC. Neither a Maldivian state counterparty nor any Maldives-US policy outcome was found.
-  - <https://www.trump.com/media/dar-global-and-the-trump-organization-announce-two-global-firsts-trump-international-hotel-maldives-and-the-worlds-first-tokenized-hotel-development-project>
-  - <https://www.theblock.co/news/business/2025-11-19-saudi-tokenize-trump-hotel-379431>
-- **Partly accurate**: Romania: Trump projects.
-  - Trump Tower Bucharest was announced in July 2025 with SDC Imobiliare, a private Cluj developer, and a larger Cluj-Napoca golf/hotel project (>$500M per a Bloomberg-derived abstract) was planned for 2026. The Real Deal (March 2026) described the Bucharest site as stalled, with the rendering about double the zoning height limit, and a launch was delayed in December 2025. I found no state counterparty and no Romania-specific US concession.
-  - <https://www.romania-insider.com/trump-organization-luxury-project-romania-2025>
-  - <https://therealdeal.com/international/2026/03/20/trumps-target-romania-for-next-european-real-estate-conquest>
-- **Unverified**: Fees paid to the Trump Organization for these foreign projects.
-  - Per-project fees outside the Gulf are mostly undisclosed. The Trump model is licensing: developers finance and build, and pay upfront and ongoing royalties. Aggregate figures exist (CREW: >$117M foreign revenue in 2025; FT: $63M licensing/management). The financial-disclosure line items for Vietnam, India, Indonesia, Georgia, Romania and the Maldives were not individually verified in this session.
-  - <https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/>
-  - <https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/>
-- **Confirmed**: The second-term ethics pledge permits these deals, and its limits.
-  - As established in C31, the 10 Jan 2025 Trump Organization ethics policy dropped the first-term ban on new foreign deals. It bars deals directly with foreign governments but allows deals with private foreign companies, adds an outside ethics adviser, and keeps Trump out of day-to-day management. Every project here has a private developer as counterparty (KBC, MNC, Tribeca, SDC, Dar Global, Georgian developers), so all are permitted on paper. The pledge's limits are that it does not cover deals whose approvals, land or permits come from foreign governments: Vietnam's deputy-PM approval and state land clearance, Serbia's special law, and Georgia's land bought from a fund linked to the sanctioned ruling-party founder. It also does not stop family members meeting heads of government. The Trump Organization says it is 'fully compliant with all applicable ethics and conflicts of interest laws'.
-  - <https://www.clickondetroit.com/news/2025/01/10/the-trump-company-is-not-banning-private-foreign-deals-a-break-with-its-first-term-policy/>
-  - <https://www.news4jax.com/business/2026/04/13/trump-family-deal-spree-could-open-door-for-future-presidents-to-profit-from-office/>
-  - <https://www.npr.org/transcripts/1254291430>
+### 1. CREW counts roughly two dozen foreign Trump-branded projects during the second term.
 
-## Corrections
+**Confirmed**
 
-- Brief implies the Hung Yen deal arose during tariff talks; it was signed in October 2024, before the election and the April 2025 tariffs. What came during the talks was the fast-tracked approval (May 2025) and groundbreaking (21 May 2025).
-- Brief says the Ho Chi Minh City tower advanced; as of Nov 2026 it remains a proposal with in-principle backing, with no confirmed approval or construction.
-- Brief says Indonesian MNC/Hary Tanoe resorts 'advanced'; they date from 2015-2019 and were halted by Indonesia's Environment Ministry in February 2025. A lift of the suspension is reported only by one trade outlet (Aug 2026).
-- Brief lumps India in as a country granted favours; US tariffs on India rose to 50% in Aug 2025 while Trump-branded launches continued, and the Feb 2026 cut to 18% was tied to Russian oil, not property.
-- CREW's count has been 21, 24 and 25 at different times; '~24' is a fair snapshot.
+- CREW's foreign development tracker has been retitled as it grew: 21, then 24, then 25 projects 'developed in foreign countries during Trump's presidency'.
+- The current page was not fetchable here (host blocked), so the latest count rests on search snippets.
+- CREW says 13 were first announced after Trump became a candidate in 2022.
+- CREW's analysis of the 2026 disclosure (covering 2025) puts foreign revenue above $117M in 2025, against at least $149M over the whole first term, with 28 foreign-project accounts reporting at least $50,000 (nine in 2020).
+- The FT, as summarised in search results, puts foreign licensing, development and management revenue at $63M in 2025, up 40%.
+- The totals depend on which categories are counted; CREW's figure includes foreign golf/hotel operating revenue, not just new licence fees.
+- Amounts: $117M; at least $149M; at least $50,000; $63M; 40%
+- Sources: [1](https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-development-tracker/) [2](https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/) [47](https://mpamag.com/us/news/general/trump-continues-to-expand-real-estate-empire-abroad-while-in-office/530377)
+
+### 2. Vietnam: the $1.5B Hung Yen golf/urban project was fast-tracked while Vietnam negotiated tariffs.
+
+**Confirmed**
+
+- The deal with Kinh Bac City Development (KBC, a private Hanoi-listed industrial-park developer chaired by Dang Thanh Tam) was announced in October 2024, before the election.
+- Its local vehicle is Hung Yen Hospitality Services.
+- After Trump's 2 April 2025 threat of a 46% tariff on Vietnam, Deputy PM Tran Hong Ha signed in-principle investment approval in mid-May 2025 for the ~990-hectare, ~$1.5B Khoai Chau project.
+- Eric Trump and PM Pham Minh Chinh broke ground on 21 May 2025.
+- Chinh said Eric Trump's visit 'motivated us to expedite this project' and promised 'maximum support'.
+- The New York Times (25 May 2025, via syndication and summaries; the original was not fetched) reported that legal experts said Vietnam skipped at least half a dozen legally required steps.
+- It also published an official letter saying the project was receiving 'special attention from the Trump administration and President Donald Trump personally'.
+- Reuters (Aug 2025) described Vietnam as having 'fast-tracked approvals as it negotiated a crucial trade deal with Washington'.
+- The state pays farmer compensation of about $12-30/m2, though developers fund it; the Trump Organization says it is not involved in investment or compensation.
+- Eviction notices were issued by June 2026, and the first phase is targeted for late 2027, around APEC in Vietnam.
+- Amounts: 46%; ~$1.5B; about $12-30
+- Dates: October 2024; 2 April 2025; mid-May 2025; 21 May 2025; 25 May 2025
+- Sources: [5](https://english.alarabiya.net/News/world/2024/10/08/trump-organization-to-develop-1-5-billion-golf-course-and-hotel-project-in-vietnam) [6](https://fortune.com/2025/05/16/trump-organization-vietnam-golf-resort/) [7](https://vietnamnews.vn/economy/1717813/trump-group-s-1-5-billion-project-in-hung-yen-approved-for-investment.html) [8](https://foxbusiness.com/fox-news-world/vietnams-pm-eric-trump-break-ground-1-5b-luxury-golf-resort-amid-us-tariff-talks) [10](https://www.yahoo.com/news/vietnam-bypassing-own-laws-fast-175733614.html) [11](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/05/25/rush-to-rip-up-land-in-vietnam-for-a-trump-golf-complex) [12](https://www.thestar.com.my/news/world/2025/08/11/exclusive-fistful-of-dollars-and-rice-for-vietnam-farmers-displaced-for-15-billion-trump-golf-club) [13](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/26/trump-backed-golf-resort-advances-as-vietnam-seizes-farmland)
+
+### 3. Vietnam's corresponding tariff outcome.
+
+**Partly accurate**
+
+- Trump announced on 2 July 2025 that Vietnamese goods would pay 20% and transshipments 40%, down from the 46% threatened in April.
+- A framework 'Agreement on Reciprocal, Fair, and Balanced Trade' joint statement followed on 26 Oct 2025 at the ASEAN summit, keeping 20% with some goods possibly going to zero.
+- Vietnam did get substantial relief from the threatened rate.
+- But 20% is still among the higher rates in the region, the deal was not finalised as of June 2026, and the US later opened trade-practice investigations into Vietnam.
+- No source shows the golf project was part of the negotiation, and the White House says trade talks are 'totally unrelated to the Trump Organization'.
+- The link is temporal and circumstantial.
+- Amounts: 20%; 40%; 46%
+- Dates: 2 July 2025; 26 Oct 2025; June 2026
+- Sources: [17](https://www.aljazeera.com/economy/2025/7/2/trump-announces-deal-to-impose-20-tariff-on-trade-with-vietnam) [18](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/10/26/vietnam-and-us-agree-to-boost-trade-tariffs-on-some-vietnamese-goods-may-be-removed) [19](https://www.vietnam-briefing.com/news/us-vietnam-framework-for-trade-agreement-key-terms-and-expectations.html/) [10](https://www.yahoo.com/news/vietnam-bypassing-own-laws-fast-175733614.html)
+
+### 4. Vietnam: a Ho Chi Minh City Trump Tower.
+
+**Partly accurate**
+
+- A Vietnamese government document reported by Reuters on 19 May 2025 showed the Trump Organization exploring a tower of at least 60 storeys and ~$1B in Thu Thiem, promoted by KBC and Saigon Invest Group, with in-principle government approval of the 'Trump Vietnam' programme.
+- Reuters' source said work could start in 2026.
+- I found no confirmed site approval, licence or groundbreaking as of Nov 2026, so the tower remains a proposal.
+- CREW separately reported five new Trump trademark applications in Vietnam filed months after the lower tariff rate was agreed.
+- Amounts: ~$1B
+- Dates: 19 May 2025; Nov 2026
+- Sources: [14](https://www.thestar.com.my/news/world/2025/05/19/exclusive-vietnam-government-document-says-trump-organization-exploring-tower-in-ho-chi-minh-city) [15](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/05/30/work-on-us1-bil-trump-tower-in-vietnam-could-start-next-year-source-says) [16](https://theinvestor.vn/hcmc-authorities-to-work-with-the-trump-organization-on-tower-project-d15707.html) [4](https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-continues-conflicts-in-vietnam-with-five-new-trademark-applications/)
+
+### 5. Indonesia: MNC/Hary Tanoesoedibjo Trump resorts advanced while Indonesia negotiated tariffs.
+
+**Misleading**
+
+- The Lido (West Java) and Bali (Tanah Lot) Trump projects with MNC Group/MNC Land, controlled by Hary Tanoesoedibjo, date from 2015-2019 and are not new second-term deals.
+- Far from being fast-tracked, Indonesia's Environment Ministry ordered MNC Land on 6 Feb 2025 to halt development at Lido over water management and environmental violations.
+- MNC Land denied fault and in March 2025 still announced the Trump-linked golf club.
+- A single trade outlet (Golf Industry Asia, Aug 2026) reports the suspension was lifted after compliance, with the Trump golf course operating; that is uncorroborated.
+- On the tariff side, the 32% threat was cut to 19% in a July 2025 deal, finalised in February 2026.
+- The documented link is the 13 Oct 2025 Sharm el-Sheikh hot-mic exchange: Prabowo asked Trump to arrange a meeting with Eric and mentioned 'Hary', and Trump said he would have Eric call.
+- Eric Trump later said he had not met Prabowo.
+- That shows a foreign leader seeking to engage the family business, but no deal or tariff concession tied to it was found.
+- Amounts: 32%; 19%
+- Dates: 6 Feb 2025; March 2025; Aug 2026; July 2025; February 2026
+- Sources: [21](https://www.malaymail.com/news/money/2025/02/06/indonesia-orders-developer-mnc-land-to-halt-project-linked-to-trump/165769) [22](https://www.thejakartapost.com/business/2025/03/10/mnc-land-announces-trump-linked-golf-club-after-suspension) [23](https://www.golfindustry.asia/?p=8834) [24](https://www.dailymaverick.co.za/article/2025-10-14-indonesian-president-asks-trump-for-meeting-with-son-eric-in-hot-mic-moment) [25](https://www.yahoo.com/news/articles/eric-trump-explains-father-hot-142216922.html) [27](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-the-united-states-and-indonesia-reach-historic-trade-deal/) [28](https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-trump-administration-finalizes-trade-deal-with-indonesia) [29](https://www.axios.com/2025/07/15/trump-tariffs-indonesia)
+
+### 6. India: multiple licensed Trump towers.
+
+**Mostly accurate**
+
+- India is the largest foreign market for the brand.
+- Business Today (Aug 2026) describes Trump Towers Hyderabad (Kokapet, two 65-storey towers, Tribeca Developers with Ira Realty) as the eighth Trump-branded project in India.
+- Others include Trump World Center Pune, a commercial project with Kundan Spaces announced March 2025.
+- Tribeca plans more in Gurgaon, Mumbai and elsewhere.
+- The counterparties are private Indian developers led by Tribeca's Kalpesh Mehta, who attended the 2025 inauguration; none is state-linked.
+- The tariff story cuts against a 'favour' narrative.
+- The US raised India's tariff to 50% in August 2025 (25% reciprocal plus a 25% Russian-oil penalty) while Indian Trump launches continued, then cut it to 18% in February 2026 after India agreed to curb Russian oil purchases.
+- I found no evidence connecting the licences to those decisions.
+- Per-project India fees were not checked against the disclosure (search budget exhausted).
+- Amounts: 50%; 25%; 18%
+- Dates: Aug 2026; March 2025; August 2025; February 2026
+- Sources: [30](https://businesstoday.in/real-estate/story/trump-towers-is-coming-to-hyderabad-65-storey-800-foot-towers-set-to-become-south-indias-tallest-548563-2026-08-11) [31](https://www.outlookbusiness.com/corporate/tribeca-kundan-spaces-to-develop-rs-2500-crore-commercial-project-under-trump-brand) [32](https://www.asianhospitality.com/india-to-be-largest-foreign-hub-for-trump-towers) [33](https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent)
+
+### 7. Serbia: Trump-branded Belgrade project.
+
+**Confirmed**
+
+- Already covered in C45. Kushner's Affinity Partners planned a ~$500M Trump-branded hotel/residential project on the former Yugoslav General Staff site under a 2024 deal with a 99-year rent-free lease.
+- Parliament passed a special law on 7 Nov 2025 stripping the site's heritage status.
+- The project collapsed on 15-16 Dec 2025 when prosecutors charged officials with forging the delisting documents and Affinity withdrew.
+- This is a state counterparty (the Serbian government), but the Trump Organization's role was licensing via Kushner's fund.
+- No tariff linkage was established here.
+- Amounts: ~$500M
+- Dates: 7 Nov 2025; 16 Dec 2025
+- Sources: [45](https://www.rferl.org/a/serbian-parliament-law-kushner-project-belgrade-trump-vucic/33584209.html) [44](https://europeanwesternbalkans.com/2025/12/16/kushners-company-withdraws-from-a-controversial-project-in-belgrade/)
+
+### 8. Georgia: Trump Tower Tbilisi.
+
+**Mostly accurate**
+
+- The project was reported by the WSJ and unveiled in April 2026: a ~70-storey mixed-use tower with Georgian developers (Archi Group, Biograpi Living, Blox Group, Finvest Georgia) and the US Sapir Organization, with a branding agreement reportedly signed in May 2026.
+- Per the Guardian (May 2026) and WSJ (13 Sep 2026), as relayed by JAMnews and inkl, the land, a former racecourse, was bought by developers in 2023 for up to $85M from the Cartu fund linked to the family of Bidzina Ivanishvili.
+- The US Treasury sanctioned Ivanishvili in December 2024.
+- Georgian Dream officials presented the deal as a sign that relations 'have been restored', while the US had suspended its strategic partnership in November 2024 and the House passed the MEGOBARI sanctions bill.
+- This is a favour-seeking pattern by a foreign ruling party rather than a tariff deal, and I found no US policy concession to Georgia tied to it.
+- The White House says neither the president nor his family engages in conflicts of interest, and Ivanishvili's lawyer says most of the racecourse land was donated to the state for a park.
+- The WSJ was not accessed directly.
+- Amounts: up to $85M
+- Dates: April 2026; May 2026; 13 Sep 2026; December 2024; November 2024
+- Sources: [36](https://jam-news.net/trump-tower-in-georgia/) [37](https://jam-news.net/trump-tower-presentation-in-tbilisi/) [38](https://www.inkl.com/news/trump-tower-in-georgia-to-be-built-on-land-part-owned-by-son-of-us-sanctions-hit-leader) [39](https://www.veridica.ro/en/opinions/georgia-wants-to-name-a-skyscraper-trump-to-repair-relations-with-the-us) [40](https://www.intellinews.com/tbilisi-counts-the-cost-of-trump-tower-445245/) [41](https://www.thestar.com.my/news/world/2024/12/28/us-imposes-sanctions-on-georgian-ex-prime-minister-billionaire-ivanishvili)
+
+### 9. Maldives: Trump-branded resort.
+
+**Confirmed**
+
+- Trump International Hotel Maldives was announced on 17 Nov 2025 with Dar Global (the private Saudi developer covered in C31): about 80 villas near Male, opening around end-2028.
+- It is billed as the world's first tokenised hotel development, and Reuters (via The Block) reports Dar Global planned to fund up to 70% of the ~$300M project by selling tokens to US retail investors and was talking to the SEC.
+- Neither a Maldivian state counterparty nor any Maldives-US policy outcome was found.
+- Amounts: up to 70%; ~$300M
+- Dates: 17 Nov 2025
+- Sources: [34](https://www.trump.com/media/dar-global-and-the-trump-organization-announce-two-global-firsts-trump-international-hotel-maldives-and-the-worlds-first-tokenized-hotel-development-project) [35](https://www.theblock.co/news/business/2025-11-19-saudi-tokenize-trump-hotel-379431)
+
+### 10. Romania: Trump projects.
+
+**Partly accurate**
+
+- Trump Tower Bucharest was announced in July 2025 with SDC Imobiliare, a private Cluj developer, and a larger Cluj-Napoca golf/hotel project (>$500M per a Bloomberg-derived abstract) was planned for 2026.
+- The Real Deal (March 2026) described the Bucharest site as stalled, with the rendering about double the zoning height limit, and a launch was delayed in December 2025.
+- I found no state counterparty and no Romania-specific US concession.
+- Amounts: $500M
+- Dates: July 2025; March 2026; December 2025
+- Sources: [42](https://www.romania-insider.com/trump-organization-luxury-project-romania-2025) [43](https://therealdeal.com/international/2026/03/20/trumps-target-romania-for-next-european-real-estate-conquest)
+
+### 11. Fees paid to the Trump Organization for these foreign projects.
+
+**Unverified**
+
+- Per-project fees outside the Gulf are mostly undisclosed.
+- The Trump model is licensing: developers finance and build, and pay upfront and ongoing royalties.
+- Aggregate figures exist (CREW: >$117M foreign revenue in 2025; FT: $63M licensing/management).
+- The financial-disclosure line items for Vietnam, India, Indonesia, Georgia, Romania and the Maldives were not individually verified in this session.
+- Amounts: $117M; $63M
+- Sources: [2](https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/) [3](https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/)
+
+### 12. The second-term ethics pledge permits these deals, and its limits.
+
+**Confirmed**
+
+- As established in C31, the 10 Jan 2025 Trump Organization ethics policy dropped the first-term ban on new foreign deals.
+- It bars deals directly with foreign governments but allows deals with private foreign companies, adds an outside ethics adviser, and keeps Trump out of day-to-day management.
+- Every project here has a private developer as counterparty (KBC, MNC, Tribeca, SDC, Dar Global, Georgian developers), so all are permitted on paper.
+- The pledge's limits are that it does not cover deals whose approvals, land or permits come from foreign governments: Vietnam's deputy-PM approval and state land clearance, Serbia's special law, and Georgia's land bought from a fund linked to the sanctioned ruling-party founder.
+- It also does not stop family members meeting heads of government.
+- The Trump Organization says it is 'fully compliant with all applicable ethics and conflicts of interest laws'.
+- Dates: 10 Jan 2025
+- Sources: [50](https://www.clickondetroit.com/news/2025/01/10/the-trump-company-is-not-banning-private-foreign-deals-a-break-with-its-first-term-policy/) [48](https://www.news4jax.com/business/2026/04/13/trump-family-deal-spree-could-open-door-for-future-presidents-to-profit-from-office/) [49](https://www.npr.org/transcripts/1254291430)
 
 ## Denials and context
 
@@ -121,99 +247,134 @@ The list of foreign Trump-branded projects outside the Gulf is real: Vietnam, In
 - The Trump Organization says it is fully compliant with ethics and conflict laws, that it only licenses its brand, and that in Vietnam it is not involved in investment or farmer compensation.
 - Eric Trump said he had not met Prabowo after the hot-mic exchange.
 - Ivanishvili's lawyer says the family donated most of the former racecourse land to the state for a public park.
-- Context: the 2025 ethics policy, unlike 2017's, allows private foreign deals and bars only deals directly with foreign governments. Counterparties here are private, but approvals, land and laws come from governments, which the policy does not address.
+- Context: the 2025 ethics policy, unlike 2017's, allows private foreign deals and bars only deals directly with foreign governments.
+  - Counterparties here are private, but approvals, land and laws come from governments, which the policy does not address.
 - Vietnam's tariff relief (46% to 20%) is similar to outcomes for neighbours without Trump projects; a counterfactual comparison was not done here, so causation is not established.
-- Research limits: CREW, Asia Sentinel, WSJ and NYT pages could not be fetched; several findings rest on syndications and search summaries. The search budget ran out before India fee figures and the AP April 2026 piece could be checked in detail.
+- Research limits: CREW, Asia Sentinel, WSJ and NYT pages could not be fetched; several findings rest on syndications and search summaries.
+  - The search budget ran out before India fee figures and the AP April 2026 piece could be checked in detail.
 
 ## People and organisations
 
-- [[Affinity Partners]]
-- [[Bidzina Ivanishvili]]
-- [[Citizens for Responsibility and Ethics in Washington]]
-- [[Dang Thanh Tam]]
-- [[Dar Global]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[Eric Trump]]
-- [[Georgia]]
-- [[Hary Tanoesoedibjo]]
-- [[India]]
-- [[Indonesia]]
-- [[Jared Kushner]]
-- [[Kalpesh Mehta]]
-- [[Kinh Bac City Development Holding Corp (KBC)]]
-- [[Maldives]]
-- [[MNC Group MNC Land]]
-- [[Pham Minh Chinh]]
-- [[Prabowo Subianto]]
-- [[Romania]]
-- [[SDC Imobiliare]]
-- [[Securities and Exchange Commission]]
-- [[Serbia]]
-- [[Tribeca Developers]]
-- [[Trump International Hotel Maldives]]
-- [[Trump International Hung Yen]]
-- [[Trump Lido and Bali resorts]]
-- [[Trump Organization]]
-- [[Trump Organization 2025 ethics white paper]]
-- [[Trump Tower Belgrade (General Staff site)]]
-- [[Trump Tower Bucharest]]
-- [[Trump Tower Ho Chi Minh City (proposed)]]
-- [[Trump Tower Tbilisi]]
-- [[Trump-branded projects in India]]
-- [[US-Vietnam reciprocal trade framework]]
-- [[Vietnam]]
-- [[White House Trump administration]]
+- [[Affinity Partners]] · Fund
+- [[Bidzina Ivanishvili]] · Person
+- [[Citizens for Responsibility and Ethics in Washington]] · Company
+- [[Dang Thanh Tam]] · Person
+- [[Dar Global]] · Company
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[Eric Trump]] · Person
+- [[Georgia]] · Country
+- [[Hary Tanoesoedibjo]] · Person
+- [[India]] · Country
+- [[Indonesia]] · Country
+- [[Jared Kushner]] · Person
+- [[Kalpesh Mehta]] · Person
+- [[Kinh Bac City Development Holding Corp (KBC)]] · Company
+- [[Maldives]] · Country
+- [[MNC Group MNC Land]] · Company
+- [[Pham Minh Chinh]] · Person
+- [[Prabowo Subianto]] · Person
+- [[Romania]] · Country
+- [[SDC Imobiliare]] · Company
+- [[Securities and Exchange Commission]] · Government body
+- [[Serbia]] · Country
+- [[Tribeca Developers]] · Company
+- [[Trump International Hotel Maldives]] · Asset
+- [[Trump International Hung Yen]] · Asset
+- [[Trump Lido and Bali resorts]] · Asset
+- [[Trump Organization]] · Company
+- [[Trump Organization 2025 ethics white paper]] · Law or policy
+- [[Trump Tower Belgrade (General Staff site)]] · Asset
+- [[Trump Tower Bucharest]] · Asset
+- [[Trump Tower Ho Chi Minh City (proposed)]] · Asset
+- [[Trump Tower Tbilisi]] · Asset
+- [[Trump-branded projects in India]] · Asset
+- [[US-Vietnam reciprocal trade framework]] · Event
+- [[Vietnam]] · Country
+- [[White House Trump administration]] · Government body
 
 ## Relationships documented
 
-- [[Affinity Partners]] *sponsored (withdrawn)* [[Trump Tower Belgrade (General Staff site)]] (2025-12, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Bidzina Ivanishvili]] *family fund sold land for* [[Trump Tower Tbilisi]] (2023, $85M, money) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Citizens for Responsibility and Ethics in Washington]] *tracks ~24 foreign projects of* [[Trump Organization]] (2026, media) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Dang Thanh Tam]] *chairs* [[Kinh Bac City Development Holding Corp (KBC)]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Dar Global]] *reportedly in talks over token sales with* [[Securities and Exchange Commission]] (2025-11, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Dar Global]] *develops (tokenised)* [[Trump International Hotel Maldives]] (2025-11-17, $300M, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Donald Trump]] *administration keeps sanctions on* [[Bidzina Ivanishvili]] (2025, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Donald Trump]] *raised tariffs to 50%, then cut to 18%* [[India]] (2026-02, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Donald Trump]] *cut tariff from 32% to 19% in deal with* [[Indonesia]] (2025-07-15, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Donald Trump]] *owns via trust* [[Trump Organization]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Donald Trump]] *announced 20% tariff deal* [[US-Vietnam reciprocal trade framework]] (2025-07-02, political) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Donald Trump Jr]] *executive vice president of* [[Trump Organization]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Eric Trump]] *attended groundbreaking* [[Trump International Hung Yen]] (2025-05-21, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Eric Trump]] *executive vice president of* [[Trump Organization]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Hary Tanoesoedibjo]] *controls* [[MNC Group MNC Land]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Indonesia]] *ordered halt of Lido development* [[MNC Group MNC Land]] (2025-02-06, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Jared Kushner]] *founded* [[Affinity Partners]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Kalpesh Mehta]] *founded* [[Tribeca Developers]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Kinh Bac City Development Holding Corp (KBC)]] *develops* [[Trump International Hung Yen]] (2025-05, $1.5B, ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Kinh Bac City Development Holding Corp (KBC)]] *promotes proposed* [[Trump Tower Ho Chi Minh City (proposed)]] (2025-05, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[MNC Group MNC Land]] *develops* [[Trump Lido and Bali resorts]] (commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Pham Minh Chinh]] *broke ground with Eric Trump* [[Trump International Hung Yen]] (2025-05-21, political) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Prabowo Subianto]] *asked Trump for a meeting with* [[Eric Trump]] (2025-10-13, political) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[SDC Imobiliare]] *develops* [[Trump Tower Bucharest]] (2025-07, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Serbia]] *passed special law for* [[Trump Tower Belgrade (General Staff site)]] (2025-11-07, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Tribeca Developers]] *licenses Trump brand from* [[Trump Organization]] (commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Tribeca Developers]] *develops* [[Trump-branded projects in India]] (commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Trump Organization 2025 ethics white paper]] *permits private foreign deals for* [[Trump Organization]] (2025-01-10, regulatory) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Trump Organization]] *licensing partner* [[Dar Global]] (2025-11-17, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Trump Organization]] *licensing partner for Hung Yen project* [[Kinh Bac City Development Holding Corp (KBC)]] (2024-10, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Trump Organization]] *licensing/management partner* [[MNC Group MNC Land]] (commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Trump Organization]] *licensing partner* [[SDC Imobiliare]] (2025-07, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Trump Organization]] *licenses brand to* [[Trump Tower Tbilisi]] (2026-04, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[US-Vietnam reciprocal trade framework]] *cut threatened tariff from 46% to 20% for* [[Vietnam]] (2025-07, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Vietnam]] *fast-tracked investment approval for* [[Trump International Hung Yen]] (2025-05, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[White House Trump administration]] *denies trade talks are related to* [[Trump Organization]] (2025-05, political) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Money (1)
 
-## Leads not covered by the video
+- [[Bidzina Ivanishvili]] *family fund sold land for* [[Trump Tower Tbilisi]] · 2023 · $85M · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 
-- **Indonesian 'hot mic' exchange: Prabowo seeks a meeting with Eric Trump and mentions 'Hary'**: A head of government asking the President to connect him to the family business, alongside a halted MNC/Trump project and a tariff deal. Worth a standalone check of what followed. [source](https://www.dailymaverick.co.za/article/2025-10-14-indonesian-president-asks-trump-for-meeting-with-son-eric-in-hot-mic-moment) · [[Prabowo Subianto]] [[Eric Trump]] [[Hary Tanoesoedibjo]] [[Indonesia]]
-- **Trump Tower Tbilisi built on land sold by sanctioned Ivanishvili family's fund**: A potential sanctions and conflict issue: a Trump-branded project financially benefits the family of a US-sanctioned foreign political boss while the administration decides Georgia policy. [source](https://www.inkl.com/news/trump-tower-in-georgia-to-be-built-on-land-part-owned-by-son-of-us-sanctions-hit-leader) · [[Trump Tower Tbilisi]] [[Bidzina Ivanishvili]] [[Trump Organization]] [[Georgia]]
-- **Trump trademark filings in Vietnam after the tariff deal**: CREW reports five new Trump trademark applications in Vietnam after the lower tariff rate. This could signal more Vietnamese projects (HCMC tower). [source](https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-continues-conflicts-in-vietnam-with-five-new-trademark-applications/) · [[Trump Organization]] [[Vietnam]]
-- **Dar Global tokenised Maldives hotel marketed to US retail investors and discussed with the SEC**: It mixes the family brand, a Saudi developer and a US securities regulator the President controls, and overlaps with the crypto threads in the video (WLF, SEC retreat). [source](https://www.theblock.co/news/business/2025-11-19-saudi-tokenize-trump-hotel-379431) · [[Dar Global]] [[Trump International Hotel Maldives]] [[Securities and Exchange Commission]] [[Trump Organization]]
-- **Vietnamese farmers displaced for the Trump Hung Yen golf project**: Human-rights and land-seizure angle of the fast-tracked approval. Reuters documented compensation of $12-30/m2 and eviction notices in 2026. [source](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/26/trump-backed-golf-resort-advances-as-vietnam-seizes-farmland) · [[Trump International Hung Yen]] [[Vietnam]] [[Kinh Bac City Development Holding Corp (KBC)]]
-- **Trump received ~$2M from a South Korean firm facing a US trade investigation (unverified aggregator lead)**: Another reported case of foreign-firm payments overlapping with trade enforcement. Seen only on a low-quality aggregator and needs primary sourcing. [source](https://worldtradescanner.com/Trump%20Received%20$2%20Million%20from%20South%20Korean%20Firm%20Facing.htm) · [[Donald Trump]] [[Trump Organization]]
+### Ownership (8)
 
-## Sources
+- [[Kinh Bac City Development Holding Corp (KBC)]] *develops* [[Trump International Hung Yen]] · 2025-05 · $1.5B · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Dang Thanh Tam]] *chairs* [[Kinh Bac City Development Holding Corp (KBC)]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Donald Trump]] *owns via trust* [[Trump Organization]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Donald Trump Jr]] *executive vice president of* [[Trump Organization]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Eric Trump]] *executive vice president of* [[Trump Organization]] · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Hary Tanoesoedibjo]] *controls* [[MNC Group MNC Land]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Jared Kushner]] *founded* [[Affinity Partners]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Kalpesh Mehta]] *founded* [[Tribeca Developers]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Regulatory (9)
+
+- [[Donald Trump]] *administration keeps sanctions on* [[Bidzina Ivanishvili]] · 2025 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Trump Organization 2025 ethics white paper]] *permits private foreign deals for* [[Trump Organization]] · 2025-01-10 · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Indonesia]] *ordered halt of Lido development* [[MNC Group MNC Land]] · 2025-02-06 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Vietnam]] *fast-tracked investment approval for* [[Trump International Hung Yen]] · 2025-05 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[US-Vietnam reciprocal trade framework]] *cut threatened tariff from 46% to 20% for* [[Vietnam]] · 2025-07 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Donald Trump]] *cut tariff from 32% to 19% in deal with* [[Indonesia]] · 2025-07-15 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Dar Global]] *reportedly in talks over token sales with* [[Securities and Exchange Commission]] · 2025-11 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Serbia]] *passed special law for* [[Trump Tower Belgrade (General Staff site)]] · 2025-11-07 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Donald Trump]] *raised tariffs to 50%, then cut to 18%* [[India]] · 2026-02 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Political (4)
+
+- [[White House Trump administration]] *denies trade talks are related to* [[Trump Organization]] · 2025-05 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Pham Minh Chinh]] *broke ground with Eric Trump* [[Trump International Hung Yen]] · 2025-05-21 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Donald Trump]] *announced 20% tariff deal* [[US-Vietnam reciprocal trade framework]] · 2025-07-02 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Prabowo Subianto]] *asked Trump for a meeting with* [[Eric Trump]] · 2025-10-13 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Media (1)
+
+- [[Citizens for Responsibility and Ethics in Washington]] *tracks ~24 foreign projects of* [[Trump Organization]] · 2026 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Commercial (13)
+
+- [[Trump Organization]] *licensing partner for Hung Yen project* [[Kinh Bac City Development Holding Corp (KBC)]] · 2024-10 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Kinh Bac City Development Holding Corp (KBC)]] *promotes proposed* [[Trump Tower Ho Chi Minh City (proposed)]] · 2025-05 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Eric Trump]] *attended groundbreaking* [[Trump International Hung Yen]] · 2025-05-21 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[SDC Imobiliare]] *develops* [[Trump Tower Bucharest]] · 2025-07 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Trump Organization]] *licensing partner* [[SDC Imobiliare]] · 2025-07 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Dar Global]] *develops (tokenised)* [[Trump International Hotel Maldives]] · 2025-11-17 · $300M · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Trump Organization]] *licensing partner* [[Dar Global]] · 2025-11-17 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Affinity Partners]] *sponsored (withdrawn)* [[Trump Tower Belgrade (General Staff site)]] · 2025-12 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Trump Organization]] *licenses brand to* [[Trump Tower Tbilisi]] · 2026-04 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[MNC Group MNC Land]] *develops* [[Trump Lido and Bali resorts]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Tribeca Developers]] *licenses Trump brand from* [[Trump Organization]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Tribeca Developers]] *develops* [[Trump-branded projects in India]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Trump Organization]] *licensing/management partner* [[MNC Group MNC Land]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+## Leads not covered here
+
+- **Indonesian 'hot mic' exchange: Prabowo seeks a meeting with Eric Trump and mentions 'Hary'**
+  - A head of government asking the President to connect him to the family business, alongside a halted MNC/Trump project and a tariff deal.
+  - Worth a standalone check of what followed.
+  - [[Prabowo Subianto]] [[Eric Trump]] [[Hary Tanoesoedibjo]] [[Indonesia]] · [Source](https://www.dailymaverick.co.za/article/2025-10-14-indonesian-president-asks-trump-for-meeting-with-son-eric-in-hot-mic-moment)
+- **Trump Tower Tbilisi built on land sold by sanctioned Ivanishvili family's fund**
+  - A potential sanctions and conflict issue: a Trump-branded project financially benefits the family of a US-sanctioned foreign political boss while the administration decides Georgia policy.
+  - [[Trump Tower Tbilisi]] [[Bidzina Ivanishvili]] [[Trump Organization]] [[Georgia]] · [Source](https://www.inkl.com/news/trump-tower-in-georgia-to-be-built-on-land-part-owned-by-son-of-us-sanctions-hit-leader)
+- **Trump trademark filings in Vietnam after the tariff deal**
+  - CREW reports five new Trump trademark applications in Vietnam after the lower tariff rate.
+  - This could signal more Vietnamese projects (HCMC tower).
+  - [[Trump Organization]] [[Vietnam]] · [Source](https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-continues-conflicts-in-vietnam-with-five-new-trademark-applications/)
+- **Dar Global tokenised Maldives hotel marketed to US retail investors and discussed with the SEC**
+  - It mixes the family brand, a Saudi developer and a US securities regulator the President controls, and overlaps with the crypto threads in the video (WLF, SEC retreat).
+  - [[Dar Global]] [[Trump International Hotel Maldives]] [[Securities and Exchange Commission]] [[Trump Organization]] · [Source](https://www.theblock.co/news/business/2025-11-19-saudi-tokenize-trump-hotel-379431)
+- **Vietnamese farmers displaced for the Trump Hung Yen golf project**
+  - Human-rights and land-seizure angle of the fast-tracked approval.
+  - Reuters documented compensation of $12-30/m2 and eviction notices in 2026.
+  - [[Trump International Hung Yen]] [[Vietnam]] [[Kinh Bac City Development Holding Corp (KBC)]] · [Source](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/26/trump-backed-golf-resort-advances-as-vietnam-seizes-farmland)
+- **Trump received ~$2M from a South Korean firm facing a US trade investigation (unverified aggregator lead)**
+  - Another reported case of foreign-firm payments overlapping with trade enforcement.
+  - Seen only on a low-quality aggregator and needs primary sourcing.
+  - [[Donald Trump]] [[Trump Organization]] · [Source](https://worldtradescanner.com/Trump%20Received%20$2%20Million%20from%20South%20Korean%20Firm%20Facing.htm)
+
+## Sources (50)
 
 1. [Twenty-four Trump-branded real estate projects will be developed in foreign countries during Trump's presidency (foreign development tracker)](https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-development-tracker/) (CREW, 2026)
 2. [Trump's foreign revenue exploded during his first year back in office](https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/) (CREW, 2026-06)

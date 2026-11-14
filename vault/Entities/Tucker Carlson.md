@@ -10,9 +10,13 @@ tags:
 ---
 # Tucker Carlson
 
-*person*
-
 Conservative host; said Trump Gulf deals 'seem like corruption' (May 2025)
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Conservative host; said Trump Gulf deals 'seem like corruption' (May 2025)
 
 ## Relationships
 
-- [[Tucker Carlson]] *said Gulf deals 'seem like corruption'* [[Trump Organization]] (2025-05, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Media (1)
+
+- [[Tucker Carlson]] *said Gulf deals 'seem like corruption'* [[Trump Organization]] · 2025-05 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Skydance Media
 
-*company*
-
 Acquirer of Paramount; made ombudsman/anti-DEI commitments to the FCC
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Acquirer of Paramount; made ombudsman/anti-DEI commitments to the FCC
 
 ## Relationships
 
-- [[Skydance Media]] *acquired* [[Paramount]] (2025-08, ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+### Ownership (1)
+
+- [[Skydance Media]] *acquired* [[Paramount]] · 2025-08 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]

@@ -10,9 +10,15 @@ tags:
 ---
 # Designers Manager
 
-*company*
-
 Licensing counterparty for Melania's NFT and collectibles sales per 2025 disclosure.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 3 claims |
+| Connections | 4 |
+
+## How other claims describe it
 
 - Unidentified licensee paying Melania $6.01M for NFTs/collectibles in 2025
 - Licensee in Melania's disclosure for NFTs and collectibles (>$6M)
@@ -25,6 +31,8 @@ Licensing counterparty for Melania's NFT and collectibles sales per 2025 disclos
 
 ## Relationships
 
-- [[Designers Manager]] *paid >$6M for NFTs/collectibles license in 2025* [[Melania Trump]] (2025, $6M, money) · [[C01 $TRUMP meme coin|C01]]
-- [[Designers Manager]] *paid NFT/collectibles licence income* [[Melania Trump]] (2025, $6.01M, money) · [[C63 Shell entities and ownership chains|C63]]
-- [[Designers Manager]] *paid NFT/collectibles license income to* [[Melania Trump]] (2025, $6.01M, money) · [[C02 $MELANIA coin and NFTs|C02]]
+### Money (3)
+
+- [[Designers Manager]] *paid >$6M for NFTs/collectibles license in 2025* [[Melania Trump]] · 2025 · $6M · [[C01 $TRUMP meme coin|C01]]
+- [[Designers Manager]] *paid NFT/collectibles licence income* [[Melania Trump]] · 2025 · $6.01M · [[C63 Shell entities and ownership chains|C63]]
+- [[Designers Manager]] *paid NFT/collectibles license income to* [[Melania Trump]] · 2025 · $6.01M · [[C02 $MELANIA coin and NFTs|C02]]

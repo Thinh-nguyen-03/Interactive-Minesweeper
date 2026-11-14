@@ -10,9 +10,15 @@ tags:
 ---
 # Metaplanet
 
-*company*
-
 Japanese bitcoin treasury company; Eric Trump is strategic board adviser.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 6 |
+
+## How other claims describe it
 
 - Tokyo-listed bitcoin treasury company.
 
@@ -23,13 +29,21 @@ Japanese bitcoin treasury company; Eric Trump is strategic board adviser.
 
 ## Relationships
 
-- [[Eric Trump]] *named to Strategic Board of Advisors of* [[Metaplanet]] (2025-03-21, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Eric Trump]] *strategic board adviser to* [[Metaplanet]] (advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Metaplanet]] *holds as treasury* [[Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Metaplanet]] *holds as treasury asset* [[Bitcoin]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Metaplanet]] *one of* [[Trump-linked crypto treasury companies]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Metaplanet]] *based in* [[Japan]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Metaplanet]] *listed in* [[Japan]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+### Ownership (1)
+
+- [[Metaplanet]] *holds as treasury* [[Bitcoin]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+
+### Advisory (2)
+
+- [[Eric Trump]] *named to Strategic Board of Advisors of* [[Metaplanet]] · 2025-03-21 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Eric Trump]] *strategic board adviser to* [[Metaplanet]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+
+### Commercial (4)
+
+- [[Metaplanet]] *holds as treasury asset* [[Bitcoin]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Metaplanet]] *one of* [[Trump-linked crypto treasury companies]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Metaplanet]] *based in* [[Japan]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Metaplanet]] *listed in* [[Japan]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 
 ## Themes
 

@@ -5,15 +5,98 @@
   "confidence": "medium",
   "summary": "The settlement amounts and recipients are well documented: ABC $15M and Meta ~$22M of $25M and Paramount $16M (less fees) to the Trump library; X ~$10M (press-reported); YouTube $22M of $24.5M to the ballroom via the Trust for the National Mall. The Oct 2025 White House ballroom donor list does include Coinbase, Ripple, Tether America and both Winklevoss twins, but discloses no amounts. Favorable regulatory outcomes followed for several payers/donors (FCC approval of Skydance-Paramount three weeks after the settlement; SEC dismissals for Coinbase, Gemini, Ripple appeal), but no quid pro quo is documented and the companies deny any link.",
   "sub_claims": [
-    {"statement": "ABC/Disney paid $15M to settle Trump's defamation suit, directed to his presidential library.", "verdict": "confirmed", "finding": "Signed 13-14 Dec 2024; $15M 'charitable contribution' to a future presidential foundation/museum via escrow at Alejandro Brito's firm, plus $1M legal fees and an editor's note. In 2026 ABC told lawmakers the $15M was still in that escrow.", "sources": ["https://whyy.org/articles/abc-donald-trump-presidential-library-defamation-lawsuit-money", "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/"]},
-    {"statement": "Meta paid $25M to settle Trump's account-suspension suit, directed to his library.", "verdict": "confirmed", "finding": "Reported 29 Jan 2025; ~$22M earmarked for the library, remainder legal fees and co-plaintiffs. Meta also gave $1M to the inaugural fund.", "sources": ["https://www.salon.com/2025/01/29/meta-settles-with-for-25-million", "https://wjla.com/news/nation-world/meta-agrees-to-25-million-settlement-with-trump-over-jan-6-account-suspension-president-capitol-rotunda-mark-zuckerberg-tech-company-amazon-jeff-bezos-tesla-x-elon-musk-censorship-twitter-facebook-google"]},
-    {"statement": "Paramount paid $16M to settle the '60 Minutes' suit, directed to the library.", "verdict": "confirmed", "finding": "Announced 1-2 Jul 2025; $16M including plaintiff fees, remainder to the future library; no apology; no payment to Trump personally per Paramount. Trump's claim of ~$20M extra in PSAs is denied by Paramount and unverified.", "sources": ["https://www.cbsnews.com/amp/news/paramount-trump-60-minutes-lawsuit-settlement", "https://www.thewrap.com/paramount-disputes-trump-settlement-psa-term"]},
-    {"statement": "X settled Trump's suspension suit with a payment.", "verdict": "mostly-accurate", "finding": "About $10M per WSJ/CNBC reporting (Feb 2025), confirmed as 'resolved' by Trump lawyer John Kelly; no court filing with the figure found. Democratic lawmakers' letters treat X's payment as going to the (since-dissolved) library fund; recipient not independently confirmed here.", "sources": ["https://www.nbcwashington.com/news/business/money-report/elon-musks-company-x-settles-trump-lawsuit-over-account-suspension/3843538/", "https://theedgemalaysia.com/node/744205", "https://www.warren.senate.gov/imo/media/doc/letter_to_x_re_trump_library_fund_donation.pdf"]},
-    {"statement": "YouTube/Alphabet paid $24.5M, directed to the White House ballroom.", "verdict": "confirmed", "finding": "Court filing 29 Sep 2025: $22M (Trump's share) to the Trust for the National Mall for ballroom construction; $2.5M to co-plaintiffs (ACU, Naomi Wolf, others); no admission of liability.", "sources": ["https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom", "https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement", "https://www.aljazeera.com/economy/2025/9/30/youtube-to-pay-24-5m-to-settle-lawsuit-over-trumps-account-suspension"]},
-    {"statement": "The library money went to Trump-linked entities whose handling is opaque.", "verdict": "partly-accurate", "finding": "Original fund incorporated in Florida 20 Dec 2024, dissolved Sep 2025 for failing to file an annual report; successor Donald J. Trump Presidential Library Foundation Inc. formed May 2025, took title to Miami Dade College land (valued >$67M, deeded for $10) in Feb 2026. Warren/Blumenthal/Stansbury say up to $63M in settlements is unaccounted for. That is an allegation; no foundation response found.", "sources": ["https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/", "https://newrepublic.com/article/209254/trump-library-funding-millions-media-companies", "https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami", "https://www.cpapracticeadvisor.com/2025/11/19/tax-documents-show-trump-library-is-counting-on-a-1-billion-fundraising-haul/173534/"]},
-    {"statement": "Ballroom donors include crypto firms Coinbase, Ripple, Tether and Gemini's Winklevoss twins.", "verdict": "confirmed", "finding": "White House list of ~37 donors released 23-24 Oct 2025 includes Coinbase, Ripple, Tether America and Cameron and Tyler Winklevoss (listed separately), plus Amazon, Apple, Google, Meta, Microsoft, Micron, Lockheed Martin. No amounts disclosed; list admitted incomplete; contract with the Trust for the National Mall allows anonymity. Cost estimate grew $200M to $300M to $400M.", "sources": ["https://www.theblock.co/news/markets/2025-10-24-crypto-donors-trump-white-house-ballroom-376062", "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/", "https://www.khaleejtimes.com/world/americas/trump-ballroom-deal-shields-donor-identities-limits-conflict-safeguards"]},
-    {"statement": "Paramount obtained FCC approval of the Skydance merger after settling.", "verdict": "confirmed", "finding": "FCC approved the ~$8B deal 2-1 on 24 Jul 2025, about three weeks after the settlement and 250+ days into review, with Skydance commitments to a CBS ombudsman (2+ years), no DEI programs, and 'viewpoint diversity'. Commissioner Gomez dissented. Timing is documented; causation is not. Paramount says the suit was unrelated.", "sources": ["https://au.variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-25630", "https://krdo.com/news/2025/07/24/fcc-approves-skydance-merger-with-paramount-ending-a-yearlong-saga-of-uncertainty/"]},
-    {"statement": "Other payer/donor companies obtained favorable regulatory outcomes.", "verdict": "partly-accurate", "finding": "SEC dismissed Coinbase case (27 Feb 2025) and closed its Gemini probe (see C23); SEC and Ripple dropped cross-appeals 7 Aug 2025 but the $125M penalty and injunction stand. Public Citizen (Jun 2026) says 19 of 27 identified corporate donors got $338B in federal contracts and 14 face or had suspended enforcement actions (advocacy figures, not independently verified). No specific Tether, Meta, Google or Disney regulatory benefit verified in this run.", "sources": ["https://news.bloomberglaw.com/litigation/ripple-sec-drop-appeal-after-settlement-path-blocked-by-judge", "https://www.citizen.org/article/ballroom-billions/"]}
+    {
+      "statement": "ABC/Disney paid $15M to settle Trump's defamation suit, directed to his presidential library.",
+      "verdict": "confirmed",
+      "finding": "Signed 13-14 Dec 2024; $15M 'charitable contribution' to a future presidential foundation/museum via escrow at Alejandro Brito's firm, plus $1M legal fees and an editor's note. In 2026 ABC told lawmakers the $15M was still in that escrow.",
+      "sources": [
+        "https://whyy.org/articles/abc-donald-trump-presidential-library-defamation-lawsuit-money",
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/"
+      ]
+    },
+    {
+      "statement": "Meta paid $25M to settle Trump's account-suspension suit, directed to his library.",
+      "verdict": "confirmed",
+      "finding": "Reported 29 Jan 2025; ~$22M earmarked for the library, remainder legal fees and co-plaintiffs. Meta also gave $1M to the inaugural fund.",
+      "sources": [
+        "https://www.salon.com/2025/01/29/meta-settles-with-for-25-million",
+        "https://wjla.com/news/nation-world/meta-agrees-to-25-million-settlement-with-trump-over-jan-6-account-suspension-president-capitol-rotunda-mark-zuckerberg-tech-company-amazon-jeff-bezos-tesla-x-elon-musk-censorship-twitter-facebook-google"
+      ]
+    },
+    {
+      "statement": "Paramount paid $16M to settle the '60 Minutes' suit, directed to the library.",
+      "verdict": "confirmed",
+      "finding": "Announced 1-2 Jul 2025; $16M including plaintiff fees, remainder to the future library; no apology; no payment to Trump personally per Paramount. Trump's claim of ~$20M extra in PSAs is denied by Paramount and unverified.",
+      "sources": [
+        "https://www.cbsnews.com/amp/news/paramount-trump-60-minutes-lawsuit-settlement",
+        "https://www.thewrap.com/paramount-disputes-trump-settlement-psa-term"
+      ]
+    },
+    {
+      "statement": "X settled Trump's suspension suit with a payment.",
+      "verdict": "mostly-accurate",
+      "finding": "About $10M per WSJ/CNBC reporting (Feb 2025), confirmed as 'resolved' by Trump lawyer John Kelly; no court filing with the figure found. Democratic lawmakers' letters treat X's payment as going to the (since-dissolved) library fund; recipient not independently confirmed here.",
+      "sources": [
+        "https://www.nbcwashington.com/news/business/money-report/elon-musks-company-x-settles-trump-lawsuit-over-account-suspension/3843538/",
+        "https://theedgemalaysia.com/node/744205",
+        "https://www.warren.senate.gov/imo/media/doc/letter_to_x_re_trump_library_fund_donation.pdf"
+      ]
+    },
+    {
+      "statement": "YouTube/Alphabet paid $24.5M, directed to the White House ballroom.",
+      "verdict": "confirmed",
+      "finding": "Court filing 29 Sep 2025: $22M (Trump's share) to the Trust for the National Mall for ballroom construction; $2.5M to co-plaintiffs (ACU, Naomi Wolf, others); no admission of liability.",
+      "sources": [
+        "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom",
+        "https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement",
+        "https://www.aljazeera.com/economy/2025/9/30/youtube-to-pay-24-5m-to-settle-lawsuit-over-trumps-account-suspension"
+      ]
+    },
+    {
+      "statement": "The library money went to Trump-linked entities whose handling is opaque.",
+      "verdict": "partly-accurate",
+      "finding": "Original fund incorporated in Florida 20 Dec 2024, dissolved Sep 2025 for failing to file an annual report; successor Donald J. Trump Presidential Library Foundation Inc. formed May 2025, took title to Miami Dade College land (valued >$67M, deeded for $10) in Feb 2026. Warren/Blumenthal/Stansbury say up to $63M in settlements is unaccounted for. That is an allegation; no foundation response found.",
+      "sources": [
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/",
+        "https://newrepublic.com/article/209254/trump-library-funding-millions-media-companies",
+        "https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami",
+        "https://www.cpapracticeadvisor.com/2025/11/19/tax-documents-show-trump-library-is-counting-on-a-1-billion-fundraising-haul/173534/"
+      ]
+    },
+    {
+      "statement": "Ballroom donors include crypto firms Coinbase, Ripple, Tether and Gemini's Winklevoss twins.",
+      "verdict": "confirmed",
+      "finding": "White House list of ~37 donors released 23-24 Oct 2025 includes Coinbase, Ripple, Tether America and Cameron and Tyler Winklevoss (listed separately), plus Amazon, Apple, Google, Meta, Microsoft, Micron, Lockheed Martin. No amounts disclosed; list admitted incomplete; contract with the Trust for the National Mall allows anonymity. Cost estimate grew $200M to $300M to $400M.",
+      "sources": [
+        "https://www.theblock.co/news/markets/2025-10-24-crypto-donors-trump-white-house-ballroom-376062",
+        "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/",
+        "https://www.khaleejtimes.com/world/americas/trump-ballroom-deal-shields-donor-identities-limits-conflict-safeguards"
+      ]
+    },
+    {
+      "statement": "Paramount obtained FCC approval of the Skydance merger after settling.",
+      "verdict": "confirmed",
+      "finding": "FCC approved the ~$8B deal 2-1 on 24 Jul 2025, about three weeks after the settlement and 250+ days into review, with Skydance commitments to a CBS ombudsman (2+ years), no DEI programs, and 'viewpoint diversity'. Commissioner Gomez dissented. Timing is documented; causation is not. Paramount says the suit was unrelated.",
+      "sources": [
+        "https://au.variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-25630",
+        "https://krdo.com/news/2025/07/24/fcc-approves-skydance-merger-with-paramount-ending-a-yearlong-saga-of-uncertainty/"
+      ]
+    },
+    {
+      "statement": "Other payer/donor companies obtained favorable regulatory outcomes.",
+      "verdict": "partly-accurate",
+      "finding": "SEC dismissed Coinbase case (27 Feb 2025) and closed its Gemini probe (see C23); SEC and Ripple dropped cross-appeals 7 Aug 2025 but the $125M penalty and injunction stand. Public Citizen (Jun 2026) says 19 of 27 identified corporate donors got $338B in federal contracts and 14 face or had suspended enforcement actions (advocacy figures, not independently verified). Audit check on Meta, Google and Disney: the record shows continued or adverse federal action, not favorable treatment. Meta: Trump's FTC took its Instagram/WhatsApp monopoly case to trial. Judge Boasberg ruled for Meta on 2025-11-18, and the FTC said in Jan 2026 that it would appeal. Google: DOJ kept up both cases. Judge Mehta's Sep 2025 search remedies rejected a Chrome divestiture, and DOJ and the states cross-appealed in Feb 2026 seeking it. Judge Brinkema's ad-tech remedy (Sep 2026) declined to order an AdX sale. Those are court rulings, not agency favors. Disney/ABC: FCC Chair Carr opened a DEI probe in Mar 2025, ordered early renewal filings for ABC's eight owned stations in Apr 2026, and opened an equal-time probe of The View. Disney calls these unconstitutional, and no ruling was found as of late July 2026. Tether-specific outcomes were not re-checked.",
+      "sources": [
+        "https://news.bloomberglaw.com/litigation/ripple-sec-drop-appeal-after-settlement-path-blocked-by-judge",
+        "https://www.citizen.org/article/ballroom-billions/",
+        "https://www.washingtontimes.com/news/2026/jan/21/ftc-says-appeal-meta-antitrust-ruling/",
+        "https://news.bloomberglaw.com/ip-law/meta-wins-ftc-antitrust-trial-over-instagram-whatsapp-deals",
+        "https://www.mediapost.com/publications/article/416888/google-search-remedies-too-weak-feds-tell-appeals.html",
+        "https://natlawreview.com/article/court-declines-order-adx-divestiture-google-ad-tech-case",
+        "https://www.wunc.org/2026-06-26/abc-fights-back-against-the-trump-administrations-attacks",
+        "https://www.thewrap.com/industry-news/business/fcc-brendan-carr-disney-abc-misinformation-the-view-broadcast-license/"
+      ]
+    }
   ],
   "corrections": [
     "The brief groups all settlements with the library; YouTube's $22M went to the White House ballroom via the Trust for the National Mall, not the library.",
@@ -27,111 +110,733 @@
     "The White House says the ballroom is privately funded at no taxpayer cost; donors have not acknowledged any link to regulatory outcomes.",
     "Claims that settlement money is 'missing' come from Democratic lawmakers (Warren, Blumenthal, Stansbury); no foundation response was found.",
     "Public Citizen and Campaign Legal Center analyses are advocacy work; their contract and enforcement tallies were not independently verified.",
-    "Research limits: direct fetches mostly failed and the web-search budget ran out before checking 2026 settlements and Tether/Winklevoss regulatory outcomes."
+    "Research limits: direct fetches mostly failed and the web-search budget ran out before checking 2026 settlements and Tether/Winklevoss regulatory outcomes.",
+    "Against the regulatory-favor reading: for three of the biggest payers, Meta, Google/YouTube and Disney/ABC, the administration kept up or escalated enforcement after the settlements (FTC appeal against Meta, Jan 2026; DOJ cross-appeal seeking Chrome divestiture, Feb 2026; FCC license and equal-time probes of ABC, 2026)."
   ],
   "sources": [
-    {"title": "ABC News agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit", "publisher": "AP via WHYY", "url": "https://whyy.org/articles/abc-donald-trump-presidential-library-defamation-lawsuit-money", "date": "2024-12-14"},
-    {"title": "ABC agrees to give $15 million to Donald Trump's presidential library", "publisher": "AP via WTOP", "url": "https://wtop.com/national/2024/12/abc-agrees-to-give-15-million-to-donald-trumps-presidential-library-to-settle-defamation-lawsuit", "date": "2024-12-14"},
-    {"title": "Meta settles with Trump for $25 million", "publisher": "Salon", "url": "https://www.salon.com/2025/01/29/meta-settles-with-for-25-million", "date": "2025-01-29"},
-    {"title": "Meta agrees to $25 million settlement with Trump over Jan. 6 account suspension", "publisher": "WJLA (Sinclair)", "url": "https://wjla.com/news/nation-world/meta-agrees-to-25-million-settlement-with-trump-over-jan-6-account-suspension-president-capitol-rotunda-mark-zuckerberg-tech-company-amazon-jeff-bezos-tesla-x-elon-musk-censorship-twitter-facebook-google", "date": "2025-01-29"},
-    {"title": "Elon Musk's company X settles Trump lawsuit over account suspension", "publisher": "CNBC via NBC Washington", "url": "https://www.nbcwashington.com/news/business/money-report/elon-musks-company-x-settles-trump-lawsuit-over-account-suspension/3843538/", "date": "2025-02"},
-    {"title": "Musk's X agrees to pay about US$10 mil to settle Trump's lawsuit, WSJ reports", "publisher": "The Edge Malaysia (Reuters)", "url": "https://theedgemalaysia.com/node/744205", "date": "2025-02"},
-    {"title": "Paramount, President Trump reach $16 million settlement over '60 Minutes' lawsuit", "publisher": "CBS News", "url": "https://www.cbsnews.com/amp/news/paramount-trump-60-minutes-lawsuit-settlement", "date": "2025-07-02"},
-    {"title": "Paramount Says Trump Settlement Doesn't Include PSAs", "publisher": "TheWrap", "url": "https://www.thewrap.com/paramount-disputes-trump-settlement-psa-term", "date": "2025-07"},
-    {"title": "FCC Approves Paramount-Skydance Deal After Skydance's CBS Ombudsman, Anti-DEI Pledges", "publisher": "Variety", "url": "https://au.variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-25630", "date": "2025-07-24"},
-    {"title": "FCC approves Skydance merger with Paramount, ending a yearlong saga of uncertainty", "publisher": "CNN via KRDO", "url": "https://krdo.com/news/2025/07/24/fcc-approves-skydance-merger-with-paramount-ending-a-yearlong-saga-of-uncertainty/", "date": "2025-07-24"},
-    {"title": "YouTube to pay $22 million for White House ballroom to settle lawsuit from Trump", "publisher": "CBS News", "url": "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom", "date": "2025-09-29"},
-    {"title": "YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension", "publisher": "NPR", "url": "https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement", "date": "2025-09-29"},
-    {"title": "YouTube to pay $24.5m to settle lawsuit over Trump's account suspension", "publisher": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2025/9/30/youtube-to-pay-24-5m-to-settle-lawsuit-over-trumps-account-suspension", "date": "2025-09-30"},
-    {"title": "Coinbase, Ripple among crypto titans donating to Trump's new White House ballroom", "publisher": "The Block", "url": "https://www.theblock.co/news/markets/2025-10-24-crypto-donors-trump-white-house-ballroom-376062", "date": "2025-10-24"},
-    {"title": "These are the 37 donors helping pay for Trump's $300 million White House ballroom", "publisher": "Fortune", "url": "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/", "date": "2025-10-26"},
-    {"title": "Trump ballroom deal shields donor identities, limits conflict safeguards", "publisher": "Reuters via Khaleej Times", "url": "https://www.khaleejtimes.com/world/americas/trump-ballroom-deal-shields-donor-identities-limits-conflict-safeguards", "date": "2026-04-22"},
-    {"title": "National Trust says it won't drop suit against Trump's White House ballroom after DOJ request", "publisher": "Fortune", "url": "https://fortune.com/2026/04/27/national-trust-sues-white-house-ballroom-doj/", "date": "2026-04-27"},
-    {"title": "Challenging Corruption at the Foundation of President Trump's East Wing Ballroom", "publisher": "Campaign Legal Center", "url": "https://campaignlegal.org/update/challenging-corruption-foundation-president-trumps-east-wing-ballroom", "date": "2026"},
-    {"title": "Ballroom Billions", "publisher": "Public Citizen", "url": "https://www.citizen.org/article/ballroom-billions/", "date": "2026-06-04"},
-    {"title": "Warren, Blumenthal, Stansbury Press Trump on Missing Millions Donated to Dissolved Trump Library Fund", "publisher": "Office of Sen. Elizabeth Warren", "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/", "date": "2026-04-20"},
-    {"title": "Letter to X re Trump library fund donation", "publisher": "Office of Sen. Elizabeth Warren", "url": "https://www.warren.senate.gov/imo/media/doc/letter_to_x_re_trump_library_fund_donation.pdf", "date": "2026"},
-    {"title": "Trump Library Saga Takes Dark Turn: Where Did Millions in Funding Go?", "publisher": "The New Republic", "url": "https://newrepublic.com/article/209254/trump-library-funding-millions-media-companies", "date": "2026-04"},
-    {"title": "Tax Documents Show Trump Library is Counting on a $1 Billion Fundraising Haul", "publisher": "Miami Herald via CPA Practice Advisor", "url": "https://www.cpapracticeadvisor.com/2025/11/19/tax-documents-show-trump-library-is-counting-on-a-1-billion-fundraising-haul/173534/", "date": "2025-11-19"},
-    {"title": "Trump presidential library nonprofit dissolved before Miami land transfer", "publisher": "WLRN", "url": "https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami", "date": "2025-10-16"},
-    {"title": "Ripple, SEC Drop Appeal After Settlement Path Blocked by Judge", "publisher": "Bloomberg Law", "url": "https://news.bloomberglaw.com/litigation/ripple-sec-drop-appeal-after-settlement-path-blocked-by-judge", "date": "2025-08"},
-    {"title": "SEC drops Ripple case; $125 million penalty stands", "publisher": "Banking Dive", "url": "https://www.bankingdive.com/news/sec-drop-ripple-case-xrp-lawsuit-125-million-penalty-garlinghouse-alderoty-gensler/", "date": "2025"}
+    {
+      "title": "ABC News agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit",
+      "publisher": "AP via WHYY",
+      "url": "https://whyy.org/articles/abc-donald-trump-presidential-library-defamation-lawsuit-money",
+      "date": "2024-12-14"
+    },
+    {
+      "title": "ABC agrees to give $15 million to Donald Trump's presidential library",
+      "publisher": "AP via WTOP",
+      "url": "https://wtop.com/national/2024/12/abc-agrees-to-give-15-million-to-donald-trumps-presidential-library-to-settle-defamation-lawsuit",
+      "date": "2024-12-14"
+    },
+    {
+      "title": "Meta settles with Trump for $25 million",
+      "publisher": "Salon",
+      "url": "https://www.salon.com/2025/01/29/meta-settles-with-for-25-million",
+      "date": "2025-01-29"
+    },
+    {
+      "title": "Meta agrees to $25 million settlement with Trump over Jan. 6 account suspension",
+      "publisher": "WJLA (Sinclair)",
+      "url": "https://wjla.com/news/nation-world/meta-agrees-to-25-million-settlement-with-trump-over-jan-6-account-suspension-president-capitol-rotunda-mark-zuckerberg-tech-company-amazon-jeff-bezos-tesla-x-elon-musk-censorship-twitter-facebook-google",
+      "date": "2025-01-29"
+    },
+    {
+      "title": "Elon Musk's company X settles Trump lawsuit over account suspension",
+      "publisher": "CNBC via NBC Washington",
+      "url": "https://www.nbcwashington.com/news/business/money-report/elon-musks-company-x-settles-trump-lawsuit-over-account-suspension/3843538/",
+      "date": "2025-02"
+    },
+    {
+      "title": "Musk's X agrees to pay about US$10 mil to settle Trump's lawsuit, WSJ reports",
+      "publisher": "The Edge Malaysia (Reuters)",
+      "url": "https://theedgemalaysia.com/node/744205",
+      "date": "2025-02"
+    },
+    {
+      "title": "Paramount, President Trump reach $16 million settlement over '60 Minutes' lawsuit",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/amp/news/paramount-trump-60-minutes-lawsuit-settlement",
+      "date": "2025-07-02"
+    },
+    {
+      "title": "Paramount Says Trump Settlement Doesn't Include PSAs",
+      "publisher": "TheWrap",
+      "url": "https://www.thewrap.com/paramount-disputes-trump-settlement-psa-term",
+      "date": "2025-07"
+    },
+    {
+      "title": "FCC Approves Paramount-Skydance Deal After Skydance's CBS Ombudsman, Anti-DEI Pledges",
+      "publisher": "Variety",
+      "url": "https://au.variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-25630",
+      "date": "2025-07-24"
+    },
+    {
+      "title": "FCC approves Skydance merger with Paramount, ending a yearlong saga of uncertainty",
+      "publisher": "CNN via KRDO",
+      "url": "https://krdo.com/news/2025/07/24/fcc-approves-skydance-merger-with-paramount-ending-a-yearlong-saga-of-uncertainty/",
+      "date": "2025-07-24"
+    },
+    {
+      "title": "YouTube to pay $22 million for White House ballroom to settle lawsuit from Trump",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom",
+      "date": "2025-09-29"
+    },
+    {
+      "title": "YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement",
+      "date": "2025-09-29"
+    },
+    {
+      "title": "YouTube to pay $24.5m to settle lawsuit over Trump's account suspension",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2025/9/30/youtube-to-pay-24-5m-to-settle-lawsuit-over-trumps-account-suspension",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "Coinbase, Ripple among crypto titans donating to Trump's new White House ballroom",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/markets/2025-10-24-crypto-donors-trump-white-house-ballroom-376062",
+      "date": "2025-10-24"
+    },
+    {
+      "title": "These are the 37 donors helping pay for Trump's $300 million White House ballroom",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/",
+      "date": "2025-10-26"
+    },
+    {
+      "title": "Trump ballroom deal shields donor identities, limits conflict safeguards",
+      "publisher": "Reuters via Khaleej Times",
+      "url": "https://www.khaleejtimes.com/world/americas/trump-ballroom-deal-shields-donor-identities-limits-conflict-safeguards",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "National Trust says it won't drop suit against Trump's White House ballroom after DOJ request",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/04/27/national-trust-sues-white-house-ballroom-doj/",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "Challenging Corruption at the Foundation of President Trump's East Wing Ballroom",
+      "publisher": "Campaign Legal Center",
+      "url": "https://campaignlegal.org/update/challenging-corruption-foundation-president-trumps-east-wing-ballroom",
+      "date": "2026"
+    },
+    {
+      "title": "Ballroom Billions",
+      "publisher": "Public Citizen",
+      "url": "https://www.citizen.org/article/ballroom-billions/",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "Warren, Blumenthal, Stansbury Press Trump on Missing Millions Donated to Dissolved Trump Library Fund",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "Letter to X re Trump library fund donation",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/imo/media/doc/letter_to_x_re_trump_library_fund_donation.pdf",
+      "date": "2026"
+    },
+    {
+      "title": "Trump Library Saga Takes Dark Turn: Where Did Millions in Funding Go?",
+      "publisher": "The New Republic",
+      "url": "https://newrepublic.com/article/209254/trump-library-funding-millions-media-companies",
+      "date": "2026-04"
+    },
+    {
+      "title": "Tax Documents Show Trump Library is Counting on a $1 Billion Fundraising Haul",
+      "publisher": "Miami Herald via CPA Practice Advisor",
+      "url": "https://www.cpapracticeadvisor.com/2025/11/19/tax-documents-show-trump-library-is-counting-on-a-1-billion-fundraising-haul/173534/",
+      "date": "2025-11-19"
+    },
+    {
+      "title": "Trump presidential library nonprofit dissolved before Miami land transfer",
+      "publisher": "WLRN",
+      "url": "https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami",
+      "date": "2025-10-16"
+    },
+    {
+      "title": "Ripple, SEC Drop Appeal After Settlement Path Blocked by Judge",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/litigation/ripple-sec-drop-appeal-after-settlement-path-blocked-by-judge",
+      "date": "2025-08"
+    },
+    {
+      "title": "SEC drops Ripple case; $125 million penalty stands",
+      "publisher": "Banking Dive",
+      "url": "https://www.bankingdive.com/news/sec-drop-ripple-case-xrp-lawsuit-125-million-penalty-garlinghouse-alderoty-gensler/",
+      "date": "2025"
+    }
   ],
   "entities": [
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US president; plaintiff in the settled suits; controls the library foundation and the ballroom project"},
-    {"id": "trump-presidential-library-foundation", "name": "Donald J. Trump Presidential Library Foundation Inc.", "type": "fund", "description": "Nonprofit formed May 2025 to build the Trump library in Miami; successor to a fund dissolved Sep 2025"},
-    {"id": "trump-presidential-library-fund", "name": "Original Trump presidential library fund (Florida, Dec 2024)", "type": "fund", "description": "First library nonprofit, incorporated 20 Dec 2024 and dissolved Sep 2025; settlement recipient per lawmakers"},
-    {"id": "white-house-ballroom", "name": "White House East Wing ballroom", "type": "asset", "description": "Privately funded ballroom project; cost estimate $200M rising to $400M"},
-    {"id": "trust-for-the-national-mall", "name": "Trust for the National Mall", "type": "fund", "description": "Nonprofit receiving ballroom donations and YouTube's $22M"},
-    {"id": "white-house", "name": "White House", "type": "government", "description": "Released the ballroom donor list"},
-    {"id": "abc-news", "name": "ABC News (Disney)", "type": "media", "description": "Paid $15M to settle the Stephanopoulos defamation suit"},
-    {"id": "disney", "name": "The Walt Disney Company", "type": "company", "description": "Parent of ABC News"},
-    {"id": "meta", "name": "Meta Platforms", "type": "company", "description": "Paid $25M settlement; ballroom donor"},
-    {"id": "paramount", "name": "Paramount Global", "type": "company", "description": "Paid $16M '60 Minutes' settlement; merged with Skydance after FCC approval"},
-    {"id": "skydance", "name": "Skydance Media", "type": "company", "description": "Acquirer of Paramount; made ombudsman/anti-DEI commitments to the FCC"},
-    {"id": "x-corp", "name": "X Corp", "type": "company", "description": "Musk-owned platform that paid ~$10M to settle Trump's suspension suit"},
-    {"id": "elon-musk", "name": "Elon Musk", "type": "person", "description": "Owner of X; led DOGE when the X settlement was made"},
-    {"id": "alphabet", "name": "Alphabet / Google / YouTube", "type": "company", "description": "Paid $24.5M YouTube settlement; Google is a ballroom donor"},
-    {"id": "fcc", "name": "Federal Communications Commission", "type": "government", "description": "Approved Skydance-Paramount 2-1 on 24 Jul 2025"},
-    {"id": "brendan-carr", "name": "Brendan Carr", "type": "person", "description": "FCC chair who led the Skydance-Paramount approval"},
-    {"id": "anna-gomez", "name": "Anna Gomez", "type": "person", "description": "FCC commissioner who dissented on the Skydance approval"},
-    {"id": "skydance-paramount-merger", "name": "Skydance-Paramount merger", "type": "event", "description": "~$8B merger approved by the FCC on 24 Jul 2025"},
-    {"id": "sec", "name": "SEC", "type": "government", "description": "Dropped crypto cases against several ballroom donors"},
-    {"id": "coinbase", "name": "Coinbase", "type": "company", "description": "Crypto exchange; ballroom donor; SEC case dismissed Feb 2025"},
-    {"id": "ripple", "name": "Ripple Labs", "type": "company", "description": "Crypto firm; ballroom donor; SEC appeals dropped Aug 2025"},
-    {"id": "tether", "name": "Tether (Tether America)", "type": "company", "description": "Stablecoin issuer; Tether America listed as a ballroom donor"},
-    {"id": "gemini", "name": "Gemini", "type": "company", "description": "Winklevoss-founded exchange; SEC probe closed 2025"},
-    {"id": "cameron-winklevoss", "name": "Cameron Winklevoss", "type": "person", "description": "Gemini co-founder; listed ballroom donor"},
-    {"id": "tyler-winklevoss", "name": "Tyler Winklevoss", "type": "person", "description": "Gemini co-founder; listed ballroom donor"},
-    {"id": "alejandro-brito", "name": "Alejandro Brito", "type": "person", "description": "Trump lawyer whose firm held ABC's $15M in escrow"},
-    {"id": "elizabeth-warren", "name": "Elizabeth Warren", "type": "person", "description": "US senator investigating the library fund settlements"},
-    {"id": "public-citizen", "name": "Public Citizen", "type": "company", "description": "Advocacy group; author of 'Ballroom Billions' donor analysis"},
-    {"id": "national-trust-for-historic-preservation", "name": "National Trust for Historic Preservation", "type": "company", "description": "Sued over the ballroom construction in Dec 2025"},
-    {"id": "miami-dade-college-land", "name": "Miami Dade College downtown parcel", "type": "asset", "description": "Land valued at more than $67M, deeded to the library foundation in Feb 2026"},
-    {"id": "qatar-jet", "name": "Qatari Boeing 747-8", "type": "asset", "description": "Gifted jet reportedly destined for the Trump library (see C16)"},
-    {"id": "us-congress", "name": "US Congress", "type": "government", "description": "Democratic members probing the library fund"}
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president; plaintiff in the settled suits; controls the library foundation and the ballroom project"
+    },
+    {
+      "id": "trump-presidential-library-foundation",
+      "name": "Donald J. Trump Presidential Library Foundation Inc.",
+      "type": "fund",
+      "description": "Nonprofit formed May 2025 to build the Trump library in Miami; successor to a fund dissolved Sep 2025"
+    },
+    {
+      "id": "trump-presidential-library-fund",
+      "name": "Original Trump presidential library fund (Florida, Dec 2024)",
+      "type": "fund",
+      "description": "First library nonprofit, incorporated 20 Dec 2024 and dissolved Sep 2025; settlement recipient per lawmakers"
+    },
+    {
+      "id": "white-house-ballroom",
+      "name": "White House East Wing ballroom",
+      "type": "asset",
+      "description": "Privately funded ballroom project; cost estimate $200M rising to $400M"
+    },
+    {
+      "id": "trust-for-the-national-mall",
+      "name": "Trust for the National Mall",
+      "type": "fund",
+      "description": "Nonprofit receiving ballroom donations and YouTube's $22M"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Released the ballroom donor list"
+    },
+    {
+      "id": "abc-news",
+      "name": "ABC News (Disney)",
+      "type": "media",
+      "description": "Paid $15M to settle the Stephanopoulos defamation suit"
+    },
+    {
+      "id": "disney",
+      "name": "The Walt Disney Company",
+      "type": "company",
+      "description": "Parent of ABC News"
+    },
+    {
+      "id": "meta",
+      "name": "Meta Platforms",
+      "type": "company",
+      "description": "Paid $25M settlement; ballroom donor"
+    },
+    {
+      "id": "paramount",
+      "name": "Paramount Global",
+      "type": "company",
+      "description": "Paid $16M '60 Minutes' settlement; merged with Skydance after FCC approval"
+    },
+    {
+      "id": "skydance",
+      "name": "Skydance Media",
+      "type": "company",
+      "description": "Acquirer of Paramount; made ombudsman/anti-DEI commitments to the FCC"
+    },
+    {
+      "id": "x-corp",
+      "name": "X Corp",
+      "type": "company",
+      "description": "Musk-owned platform that paid ~$10M to settle Trump's suspension suit"
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "type": "person",
+      "description": "Owner of X; led DOGE when the X settlement was made"
+    },
+    {
+      "id": "alphabet",
+      "name": "Alphabet / Google / YouTube",
+      "type": "company",
+      "description": "Paid $24.5M YouTube settlement; Google is a ballroom donor"
+    },
+    {
+      "id": "fcc",
+      "name": "Federal Communications Commission",
+      "type": "government",
+      "description": "Approved Skydance-Paramount 2-1 on 24 Jul 2025"
+    },
+    {
+      "id": "brendan-carr",
+      "name": "Brendan Carr",
+      "type": "person",
+      "description": "FCC chair who led the Skydance-Paramount approval"
+    },
+    {
+      "id": "anna-gomez",
+      "name": "Anna Gomez",
+      "type": "person",
+      "description": "FCC commissioner who dissented on the Skydance approval"
+    },
+    {
+      "id": "skydance-paramount-merger",
+      "name": "Skydance-Paramount merger",
+      "type": "event",
+      "description": "~$8B merger approved by the FCC on 24 Jul 2025"
+    },
+    {
+      "id": "sec",
+      "name": "SEC",
+      "type": "government",
+      "description": "Dropped crypto cases against several ballroom donors"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "type": "company",
+      "description": "Crypto exchange; ballroom donor; SEC case dismissed Feb 2025"
+    },
+    {
+      "id": "ripple",
+      "name": "Ripple Labs",
+      "type": "company",
+      "description": "Crypto firm; ballroom donor; SEC appeals dropped Aug 2025"
+    },
+    {
+      "id": "tether",
+      "name": "Tether (Tether America)",
+      "type": "company",
+      "description": "Stablecoin issuer; Tether America listed as a ballroom donor"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "type": "company",
+      "description": "Winklevoss-founded exchange; SEC probe closed 2025"
+    },
+    {
+      "id": "cameron-winklevoss",
+      "name": "Cameron Winklevoss",
+      "type": "person",
+      "description": "Gemini co-founder; listed ballroom donor"
+    },
+    {
+      "id": "tyler-winklevoss",
+      "name": "Tyler Winklevoss",
+      "type": "person",
+      "description": "Gemini co-founder; listed ballroom donor"
+    },
+    {
+      "id": "alejandro-brito",
+      "name": "Alejandro Brito",
+      "type": "person",
+      "description": "Trump lawyer whose firm held ABC's $15M in escrow"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "US senator investigating the library fund settlements"
+    },
+    {
+      "id": "public-citizen",
+      "name": "Public Citizen",
+      "type": "company",
+      "description": "Advocacy group; author of 'Ballroom Billions' donor analysis"
+    },
+    {
+      "id": "national-trust-for-historic-preservation",
+      "name": "National Trust for Historic Preservation",
+      "type": "company",
+      "description": "Sued over the ballroom construction in Dec 2025"
+    },
+    {
+      "id": "miami-dade-college-land",
+      "name": "Miami Dade College downtown parcel",
+      "type": "asset",
+      "description": "Land valued at more than $67M, deeded to the library foundation in Feb 2026"
+    },
+    {
+      "id": "qatar-jet",
+      "name": "Qatari Boeing 747-8",
+      "type": "asset",
+      "description": "Gifted jet reportedly destined for the Trump library (see C16)"
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Democratic members probing the library fund"
+    }
   ],
   "relationships": [
-    {"source": "abc-news", "target": "trump-presidential-library-fund", "label": "agreed to pay $15M (held in escrow) to settle defamation suit", "type": "money", "date": "2024-12-14", "amount_usd": 15000000},
-    {"source": "abc-news", "target": "alejandro-brito", "label": "paid $1M legal fees; $15M escrowed with his firm", "type": "money", "date": "2024-12", "amount_usd": 1000000},
-    {"source": "disney", "target": "abc-news", "label": "parent company of", "type": "ownership"},
-    {"source": "meta", "target": "trump-presidential-library-fund", "label": "settled suspension suit for $25M (~$22M to library)", "type": "money", "date": "2025-01-29", "amount_usd": 22000000},
-    {"source": "x-corp", "target": "donald-trump", "label": "settled suspension suit for ~$10M (reported)", "type": "legal", "date": "2025-02", "amount_usd": 10000000},
-    {"source": "elon-musk", "target": "x-corp", "label": "owns", "type": "ownership"},
-    {"source": "paramount", "target": "trump-presidential-library-fund", "label": "settled '60 Minutes' suit for $16M incl. fees, remainder to library", "type": "money", "date": "2025-07-02", "amount_usd": 16000000},
-    {"source": "alphabet", "target": "trust-for-the-national-mall", "label": "paid $22M of $24.5M YouTube settlement for ballroom", "type": "money", "date": "2025-09-29", "amount_usd": 22000000},
-    {"source": "trust-for-the-national-mall", "target": "white-house-ballroom", "label": "receives and administers donations for", "type": "money", "date": "2025-10"},
-    {"source": "donald-trump", "target": "white-house-ballroom", "label": "directs and promotes", "type": "political", "date": "2025-07"},
-    {"source": "donald-trump", "target": "trump-presidential-library-foundation", "label": "namesake and controlling figure of", "type": "ownership", "date": "2025-05"},
-    {"source": "trump-presidential-library-fund", "target": "trump-presidential-library-foundation", "label": "dissolved and succeeded by", "type": "legal", "date": "2025-09"},
-    {"source": "miami-dade-college-land", "target": "trump-presidential-library-foundation", "label": "deeded for $10 to", "type": "ownership", "date": "2026-02", "amount_usd": 67000000},
-    {"source": "qatar-jet", "target": "trump-presidential-library-foundation", "label": "reportedly to be transferred to", "type": "ownership", "date": "2025-05-11"},
-    {"source": "fcc", "target": "skydance-paramount-merger", "label": "approved 2-1 with ombudsman/anti-DEI conditions", "type": "regulatory", "date": "2025-07-24"},
-    {"source": "brendan-carr", "target": "fcc", "label": "chairs", "type": "regulatory"},
-    {"source": "anna-gomez", "target": "skydance-paramount-merger", "label": "dissented on approval of", "type": "regulatory", "date": "2025-07-24"},
-    {"source": "skydance", "target": "paramount", "label": "acquired", "type": "ownership", "date": "2025-08"},
-    {"source": "coinbase", "target": "white-house-ballroom", "label": "listed donor (amount undisclosed)", "type": "money", "date": "2025-10-23"},
-    {"source": "ripple", "target": "white-house-ballroom", "label": "listed donor (amount undisclosed)", "type": "money", "date": "2025-10-23"},
-    {"source": "tether", "target": "white-house-ballroom", "label": "Tether America listed donor (amount undisclosed)", "type": "money", "date": "2025-10-23"},
-    {"source": "cameron-winklevoss", "target": "white-house-ballroom", "label": "listed donor (amount undisclosed)", "type": "money", "date": "2025-10-23"},
-    {"source": "tyler-winklevoss", "target": "white-house-ballroom", "label": "listed donor (amount undisclosed)", "type": "money", "date": "2025-10-23"},
-    {"source": "meta", "target": "white-house-ballroom", "label": "listed donor (amount undisclosed)", "type": "money", "date": "2025-10-23"},
-    {"source": "alphabet", "target": "white-house-ballroom", "label": "Google listed donor (amount undisclosed)", "type": "money", "date": "2025-10-23"},
-    {"source": "cameron-winklevoss", "target": "gemini", "label": "co-founded", "type": "ownership"},
-    {"source": "tyler-winklevoss", "target": "gemini", "label": "co-founded", "type": "ownership"},
-    {"source": "sec", "target": "coinbase", "label": "dismissed enforcement case with prejudice", "type": "regulatory", "date": "2025-02-27"},
-    {"source": "sec", "target": "ripple", "label": "dropped cross-appeal; $125M penalty stands", "type": "regulatory", "date": "2025-08-07", "amount_usd": 125035150},
-    {"source": "sec", "target": "gemini", "label": "closed investigation", "type": "regulatory", "date": "2025"},
-    {"source": "white-house", "target": "white-house-ballroom", "label": "released partial donor list for", "type": "political", "date": "2025-10-23"},
-    {"source": "national-trust-for-historic-preservation", "target": "white-house-ballroom", "label": "sued to halt construction of", "type": "legal", "date": "2025-12"},
-    {"source": "elizabeth-warren", "target": "trump-presidential-library-foundation", "label": "probing missing settlement money at", "type": "political", "date": "2026-04-20"},
-    {"source": "elizabeth-warren", "target": "us-congress", "label": "member of", "type": "political"},
-    {"source": "public-citizen", "target": "white-house-ballroom", "label": "published donor-conflict analysis of", "type": "media", "date": "2026-06-04"}
+    {
+      "source": "abc-news",
+      "target": "trump-presidential-library-fund",
+      "label": "agreed to pay $15M (held in escrow) to settle defamation suit",
+      "type": "money",
+      "date": "2024-12-14",
+      "amount_usd": 15000000
+    },
+    {
+      "source": "abc-news",
+      "target": "alejandro-brito",
+      "label": "paid $1M legal fees; $15M escrowed with his firm",
+      "type": "money",
+      "date": "2024-12",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "disney",
+      "target": "abc-news",
+      "label": "parent company of",
+      "type": "ownership"
+    },
+    {
+      "source": "meta",
+      "target": "trump-presidential-library-fund",
+      "label": "settled suspension suit for $25M (~$22M to library)",
+      "type": "money",
+      "date": "2025-01-29",
+      "amount_usd": 22000000
+    },
+    {
+      "source": "x-corp",
+      "target": "donald-trump",
+      "label": "settled suspension suit for ~$10M (reported)",
+      "type": "legal",
+      "date": "2025-02",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "elon-musk",
+      "target": "x-corp",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "paramount",
+      "target": "trump-presidential-library-fund",
+      "label": "settled '60 Minutes' suit for $16M incl. fees, remainder to library",
+      "type": "money",
+      "date": "2025-07-02",
+      "amount_usd": 16000000
+    },
+    {
+      "source": "alphabet",
+      "target": "trust-for-the-national-mall",
+      "label": "paid $22M of $24.5M YouTube settlement for ballroom",
+      "type": "money",
+      "date": "2025-09-29",
+      "amount_usd": 22000000
+    },
+    {
+      "source": "trust-for-the-national-mall",
+      "target": "white-house-ballroom",
+      "label": "receives and administers donations for",
+      "type": "money",
+      "date": "2025-10"
+    },
+    {
+      "source": "donald-trump",
+      "target": "white-house-ballroom",
+      "label": "directs and promotes",
+      "type": "political",
+      "date": "2025-07"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-presidential-library-foundation",
+      "label": "namesake and controlling figure of",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "trump-presidential-library-fund",
+      "target": "trump-presidential-library-foundation",
+      "label": "dissolved and succeeded by",
+      "type": "legal",
+      "date": "2025-09"
+    },
+    {
+      "source": "miami-dade-college-land",
+      "target": "trump-presidential-library-foundation",
+      "label": "deeded for $10 to",
+      "type": "ownership",
+      "date": "2026-02",
+      "amount_usd": 67000000
+    },
+    {
+      "source": "qatar-jet",
+      "target": "trump-presidential-library-foundation",
+      "label": "reportedly to be transferred to",
+      "type": "ownership",
+      "date": "2025-05-11"
+    },
+    {
+      "source": "fcc",
+      "target": "skydance-paramount-merger",
+      "label": "approved 2-1 with ombudsman/anti-DEI conditions",
+      "type": "regulatory",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "brendan-carr",
+      "target": "fcc",
+      "label": "chairs",
+      "type": "regulatory"
+    },
+    {
+      "source": "anna-gomez",
+      "target": "skydance-paramount-merger",
+      "label": "dissented on approval of",
+      "type": "regulatory",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "skydance",
+      "target": "paramount",
+      "label": "acquired",
+      "type": "ownership",
+      "date": "2025-08"
+    },
+    {
+      "source": "coinbase",
+      "target": "white-house-ballroom",
+      "label": "listed donor (amount undisclosed)",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "ripple",
+      "target": "white-house-ballroom",
+      "label": "listed donor (amount undisclosed)",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "tether",
+      "target": "white-house-ballroom",
+      "label": "Tether America listed donor (amount undisclosed)",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "cameron-winklevoss",
+      "target": "white-house-ballroom",
+      "label": "listed donor (amount undisclosed)",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "tyler-winklevoss",
+      "target": "white-house-ballroom",
+      "label": "listed donor (amount undisclosed)",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "meta",
+      "target": "white-house-ballroom",
+      "label": "listed donor (amount undisclosed)",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "alphabet",
+      "target": "white-house-ballroom",
+      "label": "Google listed donor (amount undisclosed)",
+      "type": "money",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "cameron-winklevoss",
+      "target": "gemini",
+      "label": "co-founded",
+      "type": "ownership"
+    },
+    {
+      "source": "tyler-winklevoss",
+      "target": "gemini",
+      "label": "co-founded",
+      "type": "ownership"
+    },
+    {
+      "source": "sec",
+      "target": "coinbase",
+      "label": "dismissed enforcement case with prejudice",
+      "type": "regulatory",
+      "date": "2025-02-27"
+    },
+    {
+      "source": "sec",
+      "target": "ripple",
+      "label": "dropped cross-appeal; $125M penalty stands",
+      "type": "regulatory",
+      "date": "2025-08-07",
+      "amount_usd": 125035150
+    },
+    {
+      "source": "sec",
+      "target": "gemini",
+      "label": "closed investigation",
+      "type": "regulatory",
+      "date": "2025"
+    },
+    {
+      "source": "white-house",
+      "target": "white-house-ballroom",
+      "label": "released partial donor list for",
+      "type": "political",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "national-trust-for-historic-preservation",
+      "target": "white-house-ballroom",
+      "label": "sued to halt construction of",
+      "type": "legal",
+      "date": "2025-12"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "trump-presidential-library-foundation",
+      "label": "probing missing settlement money at",
+      "type": "political",
+      "date": "2026-04-20"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "us-congress",
+      "label": "member of",
+      "type": "political"
+    },
+    {
+      "source": "public-citizen",
+      "target": "white-house-ballroom",
+      "label": "published donor-conflict analysis of",
+      "type": "media",
+      "date": "2026-06-04"
+    }
   ],
   "leads": [
-    {"title": "Missing library settlement money and the dissolved first library fund", "why_connected": "Up to $63M from ABC, Meta, X and Paramount went to a fund later dissolved; lawmakers say companies cannot account for it and opened a Jul 2026 probe of the Foundation.", "entities": ["trump-presidential-library-fund", "trump-presidential-library-foundation", "elizabeth-warren", "abc-news", "meta", "x-corp", "paramount"], "source_url": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/"},
-    {"title": "Miami Dade College land transfer to the Trump library foundation", "why_connected": "Public land worth more than $67M was deeded for $10 to the Trump-controlled foundation; it is subject to Sunshine-law and constitutional lawsuits.", "entities": ["miami-dade-college-land", "trump-presidential-library-foundation", "donald-trump"], "source_url": "https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami"},
-    {"title": "Ballroom donor anonymity contract and government contracts to donors", "why_connected": "The Trust for the National Mall contract shields donor identities. Public Citizen says 19 of 27 identified corporate donors got $338B in federal contracts and 14 had enforcement actions pending or suspended.", "entities": ["trust-for-the-national-mall", "white-house-ballroom", "public-citizen"], "source_url": "https://www.citizen.org/article/ballroom-billions/"},
-    {"title": "Trump library foundation's IRS fast-track during the government shutdown", "why_connected": "The Miami Herald reported that the foundation got special IRS treatment for its tax-exempt application while projecting about $1B in fundraising.", "entities": ["trump-presidential-library-foundation"], "source_url": "https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/"}
-  ]
+    {
+      "title": "Missing library settlement money and the dissolved first library fund",
+      "why_connected": "Up to $63M from ABC, Meta, X and Paramount went to a fund later dissolved; lawmakers say companies cannot account for it and opened a Jul 2026 probe of the Foundation.",
+      "entities": [
+        "trump-presidential-library-fund",
+        "trump-presidential-library-foundation",
+        "elizabeth-warren",
+        "abc-news",
+        "meta",
+        "x-corp",
+        "paramount"
+      ],
+      "source_url": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/"
+    },
+    {
+      "title": "Miami Dade College land transfer to the Trump library foundation",
+      "why_connected": "Public land worth more than $67M was deeded for $10 to the Trump-controlled foundation; it is subject to Sunshine-law and constitutional lawsuits.",
+      "entities": [
+        "miami-dade-college-land",
+        "trump-presidential-library-foundation",
+        "donald-trump"
+      ],
+      "source_url": "https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami"
+    },
+    {
+      "title": "Ballroom donor anonymity contract and government contracts to donors",
+      "why_connected": "The Trust for the National Mall contract shields donor identities. Public Citizen says 19 of 27 identified corporate donors got $338B in federal contracts and 14 had enforcement actions pending or suspended.",
+      "entities": [
+        "trust-for-the-national-mall",
+        "white-house-ballroom",
+        "public-citizen"
+      ],
+      "source_url": "https://www.citizen.org/article/ballroom-billions/"
+    },
+    {
+      "title": "Trump library foundation's IRS fast-track during the government shutdown",
+      "why_connected": "The Miami Herald reported that the foundation got special IRS treatment for its tax-exempt application while projecting about $1B in fundraising.",
+      "entities": [
+        "trump-presidential-library-foundation"
+      ],
+      "source_url": "https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/"
+    },
+    {
+      "title": "Trump's IRS lawsuit settlement and the $1.776B 'anti-weaponization fund'",
+      "why_connected": "A 2026 settlement in which Trump dropped a $10B suit against his own government's IRS. DOJ created a fund of about $1.8B, paid from the Treasury Judgment Fund and run by a commission the attorney general appoints. Trump gets an apology and no payment. It is a different kind of 'settlement benefiting Trump-linked interests' from the corporate ones.",
+      "entities": [
+        "donald-trump",
+        "donald-trump-jr",
+        "eric-trump",
+        "trump-organization"
+      ],
+      "source_url": "https://www.axios.com/2026/05/18/trump-irs-lawsuit-dropped"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Regulatory outcomes for Meta, Google and Disney after their settlements (flagged gap)",
+      "Whether any new corporate settlements directed money to the library or ballroom in 2026 (flagged gap)",
+      "Ballroom donor list including Coinbase, Ripple, Tether America and the Winklevoss twins, with no amounts disclosed",
+      "Settlement amounts and dates for Meta (Jan 2025), X (Feb 2025) and YouTube ($24.5M, $22M to the Trust for the National Mall)"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Amounts, recipients and the donor list were re-confirmed by AP, Fortune and The Block.",
+      "Filled the Meta/Google/Disney gap. All three faced continued or adverse federal action after settling (the FTC is appealing its Meta loss; DOJ is seeking Chrome divestiture on appeal; the FCC is running ABC license and equal-time probes). Added this to sub-claim 9 and to denials_and_context, which cuts against the implied quid pro quo for these payers.",
+      "2026 settlements: no new corporate settlement routed to the library or ballroom was found. Added as a lead the May 18, 2026 IRS settlement, which created a $1.776B 'anti-weaponization fund' and paid Trump no money. Verdict unchanged."
+    ],
+    "new_sources": [
+      {
+        "title": "FTC says it will appeal Meta antitrust ruling",
+        "publisher": "AP via Washington Times",
+        "url": "https://www.washingtontimes.com/news/2026/jan/21/ftc-says-appeal-meta-antitrust-ruling/",
+        "date": "2026-01-21"
+      },
+      {
+        "title": "Meta Wins FTC Antitrust Trial Over Instagram, WhatsApp Deals",
+        "publisher": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/ip-law/meta-wins-ftc-antitrust-trial-over-instagram-whatsapp-deals",
+        "date": "2025-11-18"
+      },
+      {
+        "title": "Google Search Remedies Too Weak, Feds Tell Appeals Court",
+        "publisher": "MediaPost",
+        "url": "https://www.mediapost.com/publications/article/416888/google-search-remedies-too-weak-feds-tell-appeals.html",
+        "date": "2026-07"
+      },
+      {
+        "title": "Court declines to order AdX divestiture in Google ad tech case",
+        "publisher": "National Law Review",
+        "url": "https://natlawreview.com/article/court-declines-order-adx-divestiture-google-ad-tech-case",
+        "date": "2026-09"
+      },
+      {
+        "title": "ABC fights back against the Trump administration's attacks",
+        "publisher": "NPR via WUNC",
+        "url": "https://www.wunc.org/2026-06-26/abc-fights-back-against-the-trump-administrations-attacks",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "FCC Chairman Brendan Carr Accuses Disney's ABC of 'Misinformation Campaign' Amid 'The View,' Broadcast License Reviews",
+        "publisher": "TheWrap",
+        "url": "https://www.thewrap.com/industry-news/business/fcc-brendan-carr-disney-abc-misinformation-the-view-broadcast-license/",
+        "date": "2026"
+      },
+      {
+        "title": "Trump creates $1.8B \"anti-weaponization\" fund after dropping IRS suit",
+        "publisher": "Axios",
+        "url": "https://www.axios.com/2026/05/18/trump-irs-lawsuit-dropped",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "DOJ Creates $1.8 Billion Fund in Trump IRS Settlement Accord",
+        "publisher": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/us-law-week/president-trump-moves-to-drop-10-billion-lawsuit-against-irs",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "These are the 37 donors helping pay for Trump's $300 million White House ballroom",
+        "publisher": "AP via KPTV",
+        "url": "https://www.kptv.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/",
+        "date": "2025-11-13"
+      }
+    ]
+  }
 }

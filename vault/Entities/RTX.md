@@ -10,9 +10,13 @@ tags:
 ---
 # RTX
 
-*company*
-
 Patriot prime contractor
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Patriot prime contractor
 
 ## Relationships
 
-- [[RTX]] *principal contractor (Patriot)* [[2026 Qatar Patriot and APKWS sales]] (2026-05, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+### Commercial (1)
+
+- [[RTX]] *principal contractor (Patriot)* [[2026 Qatar Patriot and APKWS sales]] · 2026-05 · [[C16 Qatar jet, arms sales and golf deal|C16]]

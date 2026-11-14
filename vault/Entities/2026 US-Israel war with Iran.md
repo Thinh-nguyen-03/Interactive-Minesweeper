@@ -10,9 +10,13 @@ tags:
 ---
 # 2026 US-Israel war with Iran
 
-*event*
-
 Conflict that prompted UAE swap-line talks
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Conflict that prompted UAE swap-line talks
 
 ## Relationships
 
-- [[2026 US-Israel war with Iran]] *strained economy, prompting swap talks* [[United Arab Emirates]] (2026-04, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+### Political (1)
+
+- [[2026 US-Israel war with Iran]] *strained economy, prompting swap talks* [[United Arab Emirates]] · 2026-04 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]

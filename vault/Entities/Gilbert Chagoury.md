@@ -10,9 +10,13 @@ tags:
 ---
 # Gilbert Chagoury
 
-*person*
-
 Lebanese-Nigerian tycoon close to Tinubu; reported Boulos patron (Tablet)
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Lebanese-Nigerian tycoon close to Tinubu; reported Boulos patron (Tablet)
 
 ## Relationships
 
-- [[Gilbert Chagoury]] *owns* [[ITB Nigeria]] (ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Gilbert Chagoury]] *reported long-time patron of (Tablet; single-source)* [[Massad Boulos]] (commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Ownership (1)
+
+- [[Gilbert Chagoury]] *owns* [[ITB Nigeria]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+
+### Commercial (1)
+
+- [[Gilbert Chagoury]] *reported long-time patron of (Tablet; single-source)* [[Massad Boulos]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

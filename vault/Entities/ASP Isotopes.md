@@ -10,9 +10,13 @@ tags:
 ---
 # ASP Isotopes
 
-*company*
-
 Isotope enrichment company; Cantor book-runner; on NYT list
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Isotope enrichment company; Cantor book-runner; on NYT list
 
 ## Relationships
 
-- [[Cantor Fitzgerald]] *joint book-runner on $50M offering* [[ASP Isotopes]] (2025-06, $50M, commercial) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+### Commercial (1)
+
+- [[Cantor Fitzgerald]] *joint book-runner on $50M offering* [[ASP Isotopes]] · 2025-06 · $50M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Tron Inc. (formerly SRM Entertainment)
 
-*company*
-
 Nasdaq TRX-treasury company; Dominari-placed financing
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,14 @@ Nasdaq TRX-treasury company; Dominari-placed financing
 
 ## Relationships
 
-- [[Dominari Holdings Dominari Securities]] *exclusive placement agent on TRX-treasury financing* [[Tron Inc. (formerly SRM Entertainment)]] (2025-06-16, $100M, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Justin Sun]] *adviser; Tron treasury sponsor* [[Tron Inc. (formerly SRM Entertainment)]] (2025-06, advisory) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[SRM Entertainment Tron Inc]] *renamed to* [[Tron Inc. (formerly SRM Entertainment)]] (2025-06, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+### Ownership (1)
+
+- [[SRM Entertainment Tron Inc]] *renamed to* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+
+### Advisory (1)
+
+- [[Justin Sun]] *adviser; Tron treasury sponsor* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+
+### Commercial (1)
+
+- [[Dominari Holdings Dominari Securities]] *exclusive placement agent on TRX-treasury financing* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06-16 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]

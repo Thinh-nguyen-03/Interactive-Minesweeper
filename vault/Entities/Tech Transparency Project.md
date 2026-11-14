@@ -10,9 +10,13 @@ tags:
 ---
 # Tech Transparency Project
 
-*media*
-
 Watchdog that counted crypto revolving-door hires (2022)
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

@@ -10,9 +10,13 @@ tags:
 ---
 # Copper
 
-*company*
-
 Crypto custodian for Cantor's lending programme
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Crypto custodian for Cantor's lending programme
 
 ## Relationships
 
-- [[Copper]] *custodian for* [[Cantor bitcoin financing business]] (commercial) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+### Commercial (1)
+
+- [[Copper]] *custodian for* [[Cantor bitcoin financing business]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]

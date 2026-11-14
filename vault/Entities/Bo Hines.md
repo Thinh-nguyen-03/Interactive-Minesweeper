@@ -10,9 +10,15 @@ tags:
 ---
 # Bo Hines
 
-*person*
-
 Ex-executive director, White House crypto council (Jan-Aug 2025); CEO of Tether's US arm/USAT
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 3 claims |
+| Connections | 10 |
+
+## How other claims describe it
 
 - Former White House crypto council executive director; CEO of Tether USAT
 - Ex-White House crypto council director; USAT CEO
@@ -25,12 +31,29 @@ Ex-executive director, White House crypto council (Jan-Aug 2025); CEO of Tether'
 
 ## Relationships
 
-- [[Bo Hines]] *pushed three-year transition period (WSJ)* [[GENIUS Act]] (2025, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Bo Hines]] *co-founder, retained one-third stake while in government* [[Nxum Group]] (2025, ownership) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Bo Hines]] *executive director of* [[President's Council of Advisers on Digital Assets]] (2025-01, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Bo Hines]] *joined as strategic adviser 10 days after leaving White House* [[Tether]] (2025-08-19, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Bo Hines]] *CEO* [[USAT]] (2025-09-12, advisory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Bo Hines]] *CEO of* [[USAT]] (2025-09-12, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Bo Hines]] *CEO of Tether USAT* [[USAT]] (2025-09, advisory) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Todd Hines]] *father of* [[Bo Hines]] (family) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[The Wall Street Journal]] *reported Tether-Nxum payments* [[Bo Hines]] (2026-10-14, media) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+### Ownership (1)
+
+- [[Bo Hines]] *co-founder, retained one-third stake while in government* [[Nxum Group]] · 2025 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+
+### Family (1)
+
+- [[Todd Hines]] *father of* [[Bo Hines]] · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+
+### Advisory (2)
+
+- [[Bo Hines]] *CEO of Tether USAT* [[USAT]] · 2025-09 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Bo Hines]] *CEO* [[USAT]] · 2025-09-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+
+### Political (2)
+
+- [[Bo Hines]] *pushed three-year transition period (WSJ)* [[GENIUS Act]] · 2025 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Bo Hines]] *executive director of* [[President's Council of Advisers on Digital Assets]] · 2025-01 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+
+### Media (1)
+
+- [[The Wall Street Journal]] *reported Tether-Nxum payments* [[Bo Hines]] · 2026-10-14 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+
+### Commercial (2)
+
+- [[Bo Hines]] *joined as strategic adviser 10 days after leaving White House* [[Tether]] · 2025-08-19 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Bo Hines]] *CEO of* [[USAT]] · 2025-09-12 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]

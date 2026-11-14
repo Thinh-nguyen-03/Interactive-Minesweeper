@@ -17,7 +17,38 @@ tags:
 ---
 # C44: Melania Trump's Amazon documentary deal
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Follow-up lead
+
+## Bottom line
+
+The money is documented.
+
+## What holds up
+
+- Amazon paid about $40M to license the Melania documentary.
+- Melania netted about $10.7M+ from the film in 2025 (mostly accurate)
+- Amazon and Bezos had major business before the administration (antitrust, cloud, Blue Origin/Kuiper, tariffs).
+- Bezos/Amazon made an inauguration donation and Bezos changed the Washington Post's opinion section.
+
+## What needs correcting
+
+- Amazon's bid was far above rival bids (partly accurate)
+- The deal's timing lines up with government decisions favorable to Amazon (partly accurate)
+- The $10.71M appears on Donald Trump's 2025 OGE report; outlets split on whether it is labelled as his or as Melania's spouse income. Melania filed no separate report.
+- The rival bids (Disney about $14M, Paramount about $4M) come from one anonymously sourced WSJ report, never confirmed by Amazon.
+- Kuiper is now Amazon Leo; its 2026 FCC action was a deadline waiver, not a contract. Blue Origin's big federal award was the Apr 2025 NSSL launch contract (about $2.3B).
+- The WSJ reported Melania's share as more than 70% of $40M (about $28M), versus $10.71M disclosed for 2025. The two are not reconciled.
+
+## What is unproven
+
+- The deal was a bribe or pay-to-play arrangement.
+
+## In more detail
+
+- Amazon paid about $40M for the 'Melania' rights (reported by Puck and the WSJ, not officially confirmed) plus about $35M in marketing, and the film grossed $16.6M. Trump's 2025 OGE report lists a $10.71M licensing fee for the film.
+- Amazon and Bezos do have large business before the government: the FTC case and $2.5B settlement, AWS federal deals, Blue Origin launch awards, the Amazon Leo FCC waiver, and the tariff spat.
+- The rival-bid figures (Disney about $14M, Paramount about $4M) rest on one anonymously sourced WSJ report, and the bribery or pay-to-play theory remains an unproven allegation by Democratic lawmakers, denied by Amazon, Bezos and Melania's office.
 
 ## Lead investigated
 
@@ -25,62 +56,91 @@ tags:
 
 ## Follows up on
 
-- [[C02 $MELANIA coin and NFTs]]
-- [[C29 Trump family wealth gains]]
-
-## Summary
-
-The money is documented. Amazon paid about $40M for the 'Melania' rights (reported by Puck and the WSJ, not officially confirmed) plus about $35M in marketing, and the film grossed $16.6M. Trump's 2025 OGE report lists a $10.71M licensing fee for the film. Amazon and Bezos do have large business before the government: the FTC case and $2.5B settlement, AWS federal deals, Blue Origin launch awards, the Amazon Leo FCC waiver, and the tariff spat. The rival-bid figures (Disney about $14M, Paramount about $4M) rest on one anonymously sourced WSJ report, and the bribery or pay-to-play theory remains an unproven allegation by Democratic lawmakers, denied by Amazon, Bezos and Melania's office.
+- [[C02 $MELANIA coin and NFTs]] · Mostly accurate
+- [[C29 Trump family wealth gains]] · Mostly accurate
 
 ## Sub-claims
 
-- **Confirmed**: Amazon paid about $40M to license the Melania documentary.
-  - Puck first reported it in Jan 2025 and the WSJ and others followed; Amazon confirmed the licensing deal (theatrical, Prime Video and a follow-up docuseries) but not the price. Amazon MGM reportedly spent about $35M more on marketing (about $75M total). The film opened Jan 30, 2026, took about $7M on opening weekend and about $16.6M globally, and has streamed on Prime since Mar 9, 2026. A two-part follow-up series is due Nov 20, 2026.
-  - <https://salon.com/2025/01/07/paid-40-million-for-the-rights-to-a-melania-documentary-directed-by-an-alleged-abuser>
-  - <https://www.nbcnewyork.com/news/business/money-report/amazon-licenses-melania-trump-documentary-as-jeff-bezos-cozies-up-to-president-elect/6094465/?amp=1>
-  - <https://www.nbcnews.com/pop-culture/movies/melania-documentary-beats-box-office-expectations-amazon-mgm-studios-rcna256947>
-  - <https://www.euronews.com/2026/08/06/new-melania-trump-series-coming-to-amazon-prime-after-huge-losses-for-controversial-melani>
-- **Partly accurate**: Amazon's bid was far above rival bids.
-  - The WSJ reported Disney at about $14M and Paramount at about $4M, with Netflix and Apple not bidding, putting Amazon at nearly three times the next bid. Warren and Johnson cite a $26M gap over Disney. Puck and the Daily Beast said the losing bids were not public. Amazon called the process 'thorough and competitive' but did not disclose the rival bids. No primary confirmation was found.
-  - <https://thedailybeast.com/streamers-fought-to-line-trumps-pockets-in-melania-doc-bidding-war>
-  - <https://au.variety.com/2026/film/news/elizabeth-warren-melania-doc-bribe-amazon-mgm-response-35242/>
-  - <https://www.washingtontimes.com/news/2026/apr/14/elizabeth-warren-accuses-amazon-mgm-bribery-melania-documentary-deal/>
-- **Mostly accurate**: Melania netted about $10.7M+ from the film in 2025.
-  - Trump's 2025 OGE 278e (released 2026-06-30) lists a $10.71M licensing fee for 'Melania'. Variety and TheWrap call it Trump's income; Newsweek and Notus call it the First Lady's net proceeds (spouse income). Her 2025 total was about $17.2M, including about $6.01M from NFTs and $521K from the memoir license. The WSJ had reported her share at more than 70% of $40M (about $28M); the gap is unexplained and may be timing.
-  - <https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/>
-  - <https://www.thewrap.com/industry-news/business/trump-was-paid-10-7-million-for-amazons-melania-doc/>
-  - <https://www.newsweek.com/trump-financial-disclosure-crypto-melania-movie-income-12143420>
-  - <https://www.notus.org/trump-white-house/trump-annual-financial-disclosure-crypto-earnings>
-- **Confirmed**: Amazon and Bezos had major business before the administration (antitrust, cloud, Blue Origin/Kuiper, tariffs).
-  - FTC: the monopolization trial is set for 2027-03-29 (on 2026-10-09 the judge refused a further delay), and Amazon settled the Prime case on 2025-09-25 for $2.5B. AWS: the GSA OneGov deal (Aug 2025) and a $50B government AI infrastructure pledge (Nov 2025). Blue Origin: 7 NSSL missions worth about $2.3B (Apr 2025). Amazon Leo (formerly Kuiper): an FCC deadline waiver (Jun 2026). Tariffs: on 2025-04-29 the White House called a reported tariff-cost display 'hostile and political'; Trump said Bezos 'solved the problem very quickly'.
-  - <https://au.variety.com/2025/digital/news/amazon-pay-2-5-billion-ftc-settlement-prime-program-2-28235>
-  - <https://www.mlex.com/mlex/antitrust/articles/2536525/amazon-s-bid-to-delay-us-ftc-monopolization-trial-rejected-by-judge>
-  - <https://www.nextgov.com/emerging-tech/2025/11/aws-invest-50b-ai-and-supercomputing-infrastructure-government-customers/409744/>
-  - <https://www.bloomberg.com/news/articles/2025-04-04/spacex-ula-blue-origin-win-13b-in-pentagon-launch-contracts>
-  - <https://www.satelliteinternet.com/resources/fcc-grants-amazon-leo-extension/>
-  - <https://www.cbsnews.com/amp/news/amazon-tariffs-tariff-price-karoline-leavitt-trump-hostile-political-act>
-  - <https://www.thewrap.com/trump-jeff-bezos-amazon-tariff-disclaimer>
-- **Partly accurate**: The deal's timing lines up with government decisions favorable to Amazon.
-  - The chronology is real. Bezos dined with Trump at Mar-a-Lago in mid-Dec 2024, Amazon pledged $1M to the inauguration fund, and the deal was reported Jan 5-7, 2025, before the inauguration. Later actions (the FTC settlement, AWS and GSA deals, the NSSL award, the FCC waiver) followed. No document ties any decision to the film, the NSSL award was a multi-vendor competition, and the FTC antitrust case is still going to trial.
-  - <https://bgr.com/business/amazon-which-is-donating-1m-to-trumps-inauguration-is-releasing-a-film-about-melania-trump>
-  - <https://www.nbcnewyork.com/news/business/money-report/amazon-licenses-melania-trump-documentary-as-jeff-bezos-cozies-up-to-president-elect/6094465/?amp=1>
-- **Confirmed**: Bezos/Amazon made an inauguration donation and Bezos changed the Washington Post's opinion section.
-  - Amazon gave $1M to the inauguration plus in-kind Prime streaming. On 2025-02-26 Bezos said Post opinion pages would defend 'personal liberties and free markets'; editor David Shipley left, and Ruth Marcus resigned in Mar 2025 after a critical column was killed. Linking these to the film is interpretation.
-  - <https://bgr.com/business/amazon-which-is-donating-1m-to-trumps-inauguration-is-releasing-a-film-about-melania-trump>
-  - <https://www.inquirer.com/politics/nation/jeff-bezos-opinion-pages-washington-post-free-market-personal-liberties-20250226.html>
-  - <https://www.thewrap.com/washington-post-column-unwise-jeff-bezos-ruth-marcus-quits>
-- **Unverified**: The deal was a bribe or pay-to-play arrangement.
-  - Warren, Johnson, Lujan, Jayapal and Goldman wrote to Andy Jassy on 2026-03-15/16 citing possible bribery-law exposure. Amazon's VP Brian Huseman replied (reported as dated 2026-03-30) denying impropriety. On 2026-04-13 Warren called the deal 'bribery in plain sight'. No DOJ, IG or majority-led probe and no official finding was found.
-  - <https://news.bloomberglaw.com/tech-and-telecom-law/amazon-asked-by-senators-if-melania-film-is-pay-to-play-scheme>
-  - <https://www.aol.com/articles/dem-lawmakers-amazon-melania-documentary-140000153.html>
-  - <https://au.variety.com/2026/film/news/elizabeth-warren-melania-doc-bribe-amazon-mgm-response-35242/>
+### 1. Amazon paid about $40M to license the Melania documentary.
 
-## Corrections
+**Confirmed**
 
-- The $10.71M appears on Donald Trump's 2025 OGE report; outlets split on whether it is labelled as his or as Melania's spouse income. Melania filed no separate report.
-- The rival bids (Disney about $14M, Paramount about $4M) come from one anonymously sourced WSJ report, never confirmed by Amazon.
-- Kuiper is now Amazon Leo; its 2026 FCC action was a deadline waiver, not a contract. Blue Origin's big federal award was the Apr 2025 NSSL launch contract (about $2.3B).
-- The WSJ reported Melania's share as more than 70% of $40M (about $28M), versus $10.71M disclosed for 2025. The two are not reconciled.
+- Puck first reported it in Jan 2025 and the WSJ and others followed; Amazon confirmed the licensing deal (theatrical, Prime Video and a follow-up docuseries) but not the price.
+- Amazon MGM reportedly spent about $35M more on marketing (about $75M total).
+- The film opened Jan 30, 2026, took about $7M on opening weekend and about $16.6M globally, and has streamed on Prime since Mar 9, 2026.
+- A two-part follow-up series is due Nov 20, 2026.
+- Amounts: about $35M; about $75M; about $7M; about $16.6M
+- Dates: Jan 2025; Jan 30, 2026; Mar 9, 2026; Nov 20, 2026
+- Sources: [1](https://salon.com/2025/01/07/paid-40-million-for-the-rights-to-a-melania-documentary-directed-by-an-alleged-abuser) [4](https://www.nbcnewyork.com/news/business/money-report/amazon-licenses-melania-trump-documentary-as-jeff-bezos-cozies-up-to-president-elect/6094465/?amp=1) [6](https://www.nbcnews.com/pop-culture/movies/melania-documentary-beats-box-office-expectations-amazon-mgm-studios-rcna256947) [31](https://www.euronews.com/2026/08/06/new-melania-trump-series-coming-to-amazon-prime-after-huge-losses-for-controversial-melani)
+
+### 2. Amazon's bid was far above rival bids.
+
+**Partly accurate**
+
+- The WSJ reported Disney at about $14M and Paramount at about $4M, with Netflix and Apple not bidding, putting Amazon at nearly three times the next bid.
+- Warren and Johnson cite a $26M gap over Disney.
+- Puck and the Daily Beast said the losing bids were not public.
+- Amazon called the process 'thorough and competitive' but did not disclose the rival bids.
+- No primary confirmation was found.
+- Amounts: about $14M; about $4M; $26M
+- Sources: [2](https://thedailybeast.com/streamers-fought-to-line-trumps-pockets-in-melania-doc-bidding-war) [15](https://au.variety.com/2026/film/news/elizabeth-warren-melania-doc-bribe-amazon-mgm-response-35242/) [16](https://www.washingtontimes.com/news/2026/apr/14/elizabeth-warren-accuses-amazon-mgm-bribery-melania-documentary-deal/)
+
+### 3. Melania netted about $10.7M+ from the film in 2025.
+
+**Mostly accurate**
+
+- Trump's 2025 OGE 278e (released 2026-06-30) lists a $10.71M licensing fee for 'Melania'.
+- Variety and TheWrap call it Trump's income; Newsweek and Notus call it the First Lady's net proceeds (spouse income).
+- Her 2025 total was about $17.2M, including about $6.01M from NFTs and $521K from the memoir license.
+- The WSJ had reported her share at more than 70% of $40M (about $28M); the gap is unexplained and may be timing.
+- Amounts: $10.71M; about $17.2M; about $6.01M; $521K; more than 70%
+- Dates: 2026-06-30
+- Sources: [8](https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/) [9](https://www.thewrap.com/industry-news/business/trump-was-paid-10-7-million-for-amazons-melania-doc/) [10](https://www.newsweek.com/trump-financial-disclosure-crypto-melania-movie-income-12143420) [11](https://www.notus.org/trump-white-house/trump-annual-financial-disclosure-crypto-earnings)
+
+### 4. Amazon and Bezos had major business before the administration (antitrust, cloud, Blue Origin/Kuiper, tariffs).
+
+**Confirmed**
+
+- FTC: the monopolization trial is set for 2027-03-29 (on 2026-10-09 the judge refused a further delay), and Amazon settled the Prime case on 2025-09-25 for $2.5B. AWS: the GSA OneGov deal (Aug 2025) and a $50B government AI infrastructure pledge (Nov 2025).
+- Blue Origin: 7 NSSL missions worth about $2.3B (Apr 2025).
+- Amazon Leo (formerly Kuiper): an FCC deadline waiver (Jun 2026).
+- Tariffs: on 2025-04-29 the White House called a reported tariff-cost display 'hostile and political'; Trump said Bezos 'solved the problem very quickly'.
+- Amounts: $2.5B; $50B; about $2.3B
+- Dates: 2027-03-29; 2026-10-09; 2025-09-25; Aug 2025; Nov 2025
+- Sources: [22](https://au.variety.com/2025/digital/news/amazon-pay-2-5-billion-ftc-settlement-prime-program-2-28235) [23](https://www.mlex.com/mlex/antitrust/articles/2536525/amazon-s-bid-to-delay-us-ftc-monopolization-trial-rejected-by-judge) [24](https://www.nextgov.com/emerging-tech/2025/11/aws-invest-50b-ai-and-supercomputing-infrastructure-government-customers/409744/) [25](https://www.bloomberg.com/news/articles/2025-04-04/spacex-ula-blue-origin-win-13b-in-pentagon-launch-contracts) [26](https://www.satelliteinternet.com/resources/fcc-grants-amazon-leo-extension/) [27](https://www.cbsnews.com/amp/news/amazon-tariffs-tariff-price-karoline-leavitt-trump-hostile-political-act) [28](https://www.thewrap.com/trump-jeff-bezos-amazon-tariff-disclaimer)
+
+### 5. The deal's timing lines up with government decisions favorable to Amazon.
+
+**Partly accurate**
+
+- The chronology is real. Bezos dined with Trump at Mar-a-Lago in mid-Dec 2024, Amazon pledged $1M to the inauguration fund, and the deal was reported Jan 5-7, 2025, before the inauguration.
+- Later actions (the FTC settlement, AWS and GSA deals, the NSSL award, the FCC waiver) followed.
+- No document ties any decision to the film, the NSSL award was a multi-vendor competition, and the FTC antitrust case is still going to trial.
+- Amounts: $1M
+- Dates: mid-Dec 2024; Jan 5-7, 2025
+- Sources: [5](https://bgr.com/business/amazon-which-is-donating-1m-to-trumps-inauguration-is-releasing-a-film-about-melania-trump) [4](https://www.nbcnewyork.com/news/business/money-report/amazon-licenses-melania-trump-documentary-as-jeff-bezos-cozies-up-to-president-elect/6094465/?amp=1)
+
+### 6. Bezos/Amazon made an inauguration donation and Bezos changed the Washington Post's opinion section.
+
+**Confirmed**
+
+- Amazon gave $1M to the inauguration plus in-kind Prime streaming.
+- On 2025-02-26 Bezos said Post opinion pages would defend 'personal liberties and free markets'; editor David Shipley left, and Ruth Marcus resigned in Mar 2025 after a critical column was killed.
+- Linking these to the film is interpretation.
+- Amounts: $1M
+- Dates: 2025-02-26; Mar 2025
+- Sources: [5](https://bgr.com/business/amazon-which-is-donating-1m-to-trumps-inauguration-is-releasing-a-film-about-melania-trump) [29](https://www.inquirer.com/politics/nation/jeff-bezos-opinion-pages-washington-post-free-market-personal-liberties-20250226.html) [30](https://www.thewrap.com/washington-post-column-unwise-jeff-bezos-ruth-marcus-quits)
+
+### 7. The deal was a bribe or pay-to-play arrangement.
+
+**Unverified**
+
+- Warren, Johnson, Lujan, Jayapal and Goldman wrote to Andy Jassy on 2026-03-15/16 citing possible bribery-law exposure.
+- Amazon's VP Brian Huseman replied (reported as dated 2026-03-30) denying impropriety.
+- On 2026-04-13 Warren called the deal 'bribery in plain sight'.
+- No DOJ, IG or majority-led probe and no official finding was found.
+- Dates: 2026-03-15; 2026-03-30; 2026-04-13
+- Sources: [17](https://news.bloomberglaw.com/tech-and-telecom-law/amazon-asked-by-senators-if-melania-film-is-pay-to-play-scheme) [18](https://www.aol.com/articles/dem-lawmakers-amazon-melania-documentary-140000153.html) [15](https://au.variety.com/2026/film/news/elizabeth-warren-melania-doc-bribe-amazon-mgm-response-35242/)
 
 ## Denials and context
 
@@ -88,83 +148,118 @@ The money is documented. Amazon paid about $40M for the 'Melania' rights (report
 - Jeff Bezos (CNBC, 2026-05-20): he had 'nothing to do with' the deal, the curry-favor claim is 'a falsehood that will not die', and the film was a 'very wise business decision'.
 - Marc Beckman (Melania's adviser): the film is 'not political at all'; Melania pitched it herself after the 2024 election.
 - Against the bribery theory: the FTC still got a record $2.5B Prime settlement and is taking the antitrust case to a 2027 trial; the NSSL awards went to three vendors.
-- Toward it: the film lost money theatrically (break-even about $40-45M domestic vs $16.6M global), yet Amazon ordered a follow-up series. Amazon is also a White House ballroom donor (see C33).
+- Toward it: the film lost money theatrically (break-even about $40-45M domestic vs $16.6M global), yet Amazon ordered a follow-up series.
+  - Amazon is also a White House ballroom donor (see C33).
 - The official Warren and Hank Johnson pages and PDFs could not be fetched from this environment; their content is taken from outlets quoting them.
 
 ## People and organisations
 
-- [[Amazon]]
-- [[Amazon Leo (formerly Project Kuiper)]]
-- [[Amazon MGM Studios]]
-- [[Amazon Web Services]]
-- [[Andy Jassy]]
-- [[Blue Origin]]
-- [[Brett Ratner]]
-- [[Brian Huseman]]
-- [[Donald Trump]]
-- [[Elizabeth Warren]]
-- [[Federal Communications Commission]]
-- [[Federal Trade Commission]]
-- [[General Services Administration]]
-- [[Hank Johnson]]
-- [[Jeff Bezos]]
-- [[Karoline Leavitt]]
-- [[Marc Beckman]]
-- [[Melania (2026 film)]]
-- [[Melania Trump]]
-- [[Office of Government Ethics]]
-- [[Paramount]]
-- [[Pentagon (Department of Defense)]]
-- [[The Wall Street Journal]]
-- [[The Walt Disney Company]]
-- [[The Washington Post]]
-- [[Trump-Vance Inaugural Committee]]
-- [[US Congress]]
-- [[White House Trump administration]]
+- [[Amazon]] · Company
+- [[Amazon Leo (formerly Project Kuiper)]] · Product
+- [[Amazon MGM Studios]] · Company
+- [[Amazon Web Services]] · Company
+- [[Andy Jassy]] · Person
+- [[Blue Origin]] · Company
+- [[Brett Ratner]] · Person
+- [[Brian Huseman]] · Person
+- [[Donald Trump]] · Person
+- [[Elizabeth Warren]] · Person
+- [[Federal Communications Commission]] · Government body
+- [[Federal Trade Commission]] · Government body
+- [[General Services Administration]] · Government body
+- [[Hank Johnson]] · Person
+- [[Jeff Bezos]] · Person
+- [[Karoline Leavitt]] · Person
+- [[Marc Beckman]] · Person
+- [[Melania (2026 film)]] · Product
+- [[Melania Trump]] · Person
+- [[Office of Government Ethics]] · Government body
+- [[Paramount]] · Company
+- [[Pentagon (Department of Defense)]] · Government body
+- [[The Wall Street Journal]] · Media
+- [[The Walt Disney Company]] · Company
+- [[The Washington Post]] · Media
+- [[Trump-Vance Inaugural Committee]] · Fund
+- [[US Congress]] · Government body
+- [[White House Trump administration]] · Government body
 
 ## Relationships documented
 
-- [[Amazon]] *operates* [[Amazon Leo (formerly Project Kuiper)]] (ownership) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Amazon]] *owns* [[Amazon MGM Studios]] (ownership) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Amazon]] *owns* [[Amazon Web Services]] (ownership) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Amazon]] *settled Prime case for $2.5B* [[Federal Trade Commission]] (2025-09-25, $2.5B, legal) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Amazon]] *film licensing fee ($10.71M on 2025 OGE report)* [[Melania Trump]] (2025, $10.71M, money) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Amazon]] *donated $1M* [[Trump-Vance Inaugural Committee]] (2024-12, $1M, money) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Amazon MGM Studios]] *paid ~$40M to license (reported)* [[Melania (2026 film)]] (2025-01, $40M, money) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Amazon MGM Studios]] *spent ~$35M marketing (reported)* [[Melania (2026 film)]] (2026-01, $35M, money) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Andy Jassy]] *CEO of* [[Amazon]] (ownership) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Brett Ratner]] *directed* [[Melania (2026 film)]] (commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Brian Huseman]] *replied denying impropriety* [[Elizabeth Warren]] (2026-03-30, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[The Walt Disney Company]] *bid ~$14M (WSJ, unconfirmed)* [[Melania (2026 film)]] (2024-12, $14M, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Donald Trump]] *phoned over tariff display; said Bezos 'solved the problem'* [[Jeff Bezos]] (2025-04-29, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Elizabeth Warren]] *inquiry letter on possible bribery; 'bribery in plain sight'* [[Amazon]] (2026-03-16, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Elizabeth Warren]] *member of* [[US Congress]] (political) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Federal Communications Commission]] *granted deployment-milestone waiver* [[Amazon Leo (formerly Project Kuiper)]] (2026-06, regulatory) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Federal Trade Commission]] *monopolization suit, trial set 2027-03-29* [[Amazon]] (2023-09, legal) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[General Services Administration]] *OneGov cloud agreement (up to $1B savings)* [[Amazon Web Services]] (2025-08, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Hank Johnson]] *co-led inquiry letter to* [[Andy Jassy]] (2026-03-16, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Jeff Bezos]] *founder and executive chair of* [[Amazon]] (ownership) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Jeff Bezos]] *owns* [[Blue Origin]] (ownership) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Jeff Bezos]] *dined with at Mar-a-Lago* [[Donald Trump]] (2024-12, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Jeff Bezos]] *owns; refocused opinion section* [[The Washington Post]] (2025-02-26, media) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Karoline Leavitt]] *criticized tariff display plan* [[Amazon]] (2025-04-29, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Marc Beckman]] *adviser to* [[Melania Trump]] (advisory) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Melania Trump]] *spouse of* [[Donald Trump]] (family) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C44 Melania Trump's Amazon documentary deal|C44]] [[C63 Shell entities and ownership chains|C63]]
-- [[Melania Trump]] *subject and executive producer of* [[Melania (2026 film)]] (2024-12, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Office of Government Ethics]] *released 2025 disclosure listing film fee* [[Donald Trump]] (2026-06-30, regulatory) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Paramount]] *bid ~$4M (WSJ, unconfirmed)* [[Melania (2026 film)]] (2024-12, $4M, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Pentagon (Department of Defense)]] *awarded 7 NSSL missions (~$2.3B)* [[Blue Origin]] (2025-04-04, $2.3B, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[The Wall Street Journal]] *reported rival bids and Melania's >70% share* [[Melania (2026 film)]] (2025-01, media) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[White House Trump administration]] *called tariff-cost display 'hostile and political act'* [[Amazon]] (2025-04-29, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
+### Money (4)
 
-## Leads not covered by the video
+- [[Amazon]] *donated $1M* [[Trump-Vance Inaugural Committee]] · 2024-12 · $1M · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Amazon]] *film licensing fee ($10.71M on 2025 OGE report)* [[Melania Trump]] · 2025 · $10.71M · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Amazon MGM Studios]] *paid ~$40M to license (reported)* [[Melania (2026 film)]] · 2025-01 · $40M · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Amazon MGM Studios]] *spent ~$35M marketing (reported)* [[Melania (2026 film)]] · 2026-01 · $35M · [[C44 Melania Trump's Amazon documentary deal|C44]]
 
-- **Amazon's 'Melania, The Series' follow-up despite theatrical loss**: Amazon is putting more money into Melania content (a two-part series premiering 2026-11-20) after the film lost money theatrically; payment terms to Melania are undisclosed. [source](https://www.euronews.com/2026/08/06/new-melania-trump-series-coming-to-amazon-prime-after-huge-losses-for-controversial-melani) · [[Amazon MGM Studios]] [[Melania Trump]] [[Melania (2026 film)]]
-- **Amazon Leo FCC waiver over SpaceX objections**: A regulatory benefit to Bezos-linked Amazon granted by a Trump-appointed FCC after the Melania deal; worth checking the process and who voted. [source](https://www.satelliteinternet.com/resources/fcc-grants-amazon-leo-extension/) · [[Amazon Leo (formerly Project Kuiper)]] [[Federal Communications Commission]] [[Amazon]]
-- **AWS $50B government AI pledge and OneGov deal**: Large AWS federal commitments under the administration, cited by lawmakers as business Amazon has before the government. [source](https://www.nextgov.com/emerging-tech/2025/11/aws-invest-50b-ai-and-supercomputing-infrastructure-government-customers/409744/) · [[Amazon Web Services]] [[General Services Administration]] [[White House Trump administration]]
-- **Rolling Stone on chaos behind the Melania documentary production**: Reporting on how the film was made and who drove the deal, relevant to Amazon's claim of a normal commercial process. [source](https://www.rollingstone.com/politics/politics-features/melania-trump-documentary-amazon-behind-the-scenes-1235505208/) · [[Melania (2026 film)]] [[Brett Ratner]] [[Melania Trump]]
+### Ownership (6)
 
-## Sources
+- [[Amazon]] *operates* [[Amazon Leo (formerly Project Kuiper)]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Amazon]] *owns* [[Amazon MGM Studios]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Amazon]] *owns* [[Amazon Web Services]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Andy Jassy]] *CEO of* [[Amazon]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Jeff Bezos]] *founder and executive chair of* [[Amazon]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Jeff Bezos]] *owns* [[Blue Origin]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+
+### Family (1)
+
+- [[Melania Trump]] *spouse of* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C44 Melania Trump's Amazon documentary deal|C44]] [[C63 Shell entities and ownership chains|C63]]
+
+### Regulatory (2)
+
+- [[Federal Communications Commission]] *granted deployment-milestone waiver* [[Amazon Leo (formerly Project Kuiper)]] · 2026-06 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Office of Government Ethics]] *released 2025 disclosure listing film fee* [[Donald Trump]] · 2026-06-30 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+
+### Advisory (1)
+
+- [[Marc Beckman]] *adviser to* [[Melania Trump]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+
+### Political (8)
+
+- [[Jeff Bezos]] *dined with at Mar-a-Lago* [[Donald Trump]] · 2024-12 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Donald Trump]] *phoned over tariff display; said Bezos 'solved the problem'* [[Jeff Bezos]] · 2025-04-29 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Karoline Leavitt]] *criticized tariff display plan* [[Amazon]] · 2025-04-29 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[White House Trump administration]] *called tariff-cost display 'hostile and political act'* [[Amazon]] · 2025-04-29 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Elizabeth Warren]] *inquiry letter on possible bribery; 'bribery in plain sight'* [[Amazon]] · 2026-03-16 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Hank Johnson]] *co-led inquiry letter to* [[Andy Jassy]] · 2026-03-16 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Brian Huseman]] *replied denying impropriety* [[Elizabeth Warren]] · 2026-03-30 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Elizabeth Warren]] *member of* [[US Congress]] · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C44 Melania Trump's Amazon documentary deal|C44]]
+
+### Legal (2)
+
+- [[Federal Trade Commission]] *monopolization suit, trial set 2027-03-29* [[Amazon]] · 2023-09 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Amazon]] *settled Prime case for $2.5B* [[Federal Trade Commission]] · 2025-09-25 · $2.5B · [[C44 Melania Trump's Amazon documentary deal|C44]]
+
+### Media (2)
+
+- [[The Wall Street Journal]] *reported rival bids and Melania's >70% share* [[Melania (2026 film)]] · 2025-01 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Jeff Bezos]] *owns; refocused opinion section* [[The Washington Post]] · 2025-02-26 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+
+### Commercial (6)
+
+- [[The Walt Disney Company]] *bid ~$14M (WSJ, unconfirmed)* [[Melania (2026 film)]] · 2024-12 · $14M · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Melania Trump]] *subject and executive producer of* [[Melania (2026 film)]] · 2024-12 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Paramount]] *bid ~$4M (WSJ, unconfirmed)* [[Melania (2026 film)]] · 2024-12 · $4M · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Pentagon (Department of Defense)]] *awarded 7 NSSL missions (~$2.3B)* [[Blue Origin]] · 2025-04-04 · $2.3B · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[General Services Administration]] *OneGov cloud agreement (up to $1B savings)* [[Amazon Web Services]] · 2025-08 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Brett Ratner]] *directed* [[Melania (2026 film)]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+
+## Leads not covered here
+
+- **Amazon's 'Melania, The Series' follow-up despite theatrical loss**
+  - Amazon is putting more money into Melania content (a two-part series premiering 2026-11-20) after the film lost money theatrically; payment terms to Melania are undisclosed.
+  - [[Amazon MGM Studios]] [[Melania Trump]] [[Melania (2026 film)]] · [Source](https://www.euronews.com/2026/08/06/new-melania-trump-series-coming-to-amazon-prime-after-huge-losses-for-controversial-melani)
+- **Amazon Leo FCC waiver over SpaceX objections**
+  - A regulatory benefit to Bezos-linked Amazon granted by a Trump-appointed FCC after the Melania deal; worth checking the process and who voted.
+  - [[Amazon Leo (formerly Project Kuiper)]] [[Federal Communications Commission]] [[Amazon]] · [Source](https://www.satelliteinternet.com/resources/fcc-grants-amazon-leo-extension/)
+- **AWS $50B government AI pledge and OneGov deal**
+  - Large AWS federal commitments under the administration, cited by lawmakers as business Amazon has before the government.
+  - [[Amazon Web Services]] [[General Services Administration]] [[White House Trump administration]] · [Source](https://www.nextgov.com/emerging-tech/2025/11/aws-invest-50b-ai-and-supercomputing-infrastructure-government-customers/409744/)
+- **Rolling Stone on chaos behind the Melania documentary production**
+  - Reporting on how the film was made and who drove the deal, relevant to Amazon's claim of a normal commercial process.
+  - [[Melania (2026 film)]] [[Brett Ratner]] [[Melania Trump]] · [Source](https://www.rollingstone.com/politics/politics-features/melania-trump-documentary-amazon-behind-the-scenes-1235505208/)
+
+## Sources (31)
 
 1. [Amazon paid $40 million for the rights to a Melania Trump documentary...](https://salon.com/2025/01/07/paid-40-million-for-the-rights-to-a-melania-documentary-directed-by-an-alleged-abuser) (Salon, 2025-01-07)
 2. [Streamers fought to line Trump's pockets in Melania doc bidding war](https://thedailybeast.com/streamers-fought-to-line-trumps-pockets-in-melania-doc-bidding-war) (Daily Beast, 2025-01)

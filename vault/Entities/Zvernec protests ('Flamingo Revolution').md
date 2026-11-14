@@ -10,9 +10,13 @@ tags:
 ---
 # Zvernec protests ('Flamingo Revolution')
 
-*event*
-
 Albanian protest movement from May 2026 against the Kushner-linked project.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Albanian protest movement from May 2026 against the Kushner-linked project.
 
 ## Relationships
 
-- [[Zvernec protests ('Flamingo Revolution')]] *demands resignation of* [[Edi Rama]] (2026-05, political) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Political (1)
+
+- [[Zvernec protests ('Flamingo Revolution')]] *demands resignation of* [[Edi Rama]] · 2026-05 · [[C45 Kushner's Albania and Serbia developments|C45]]

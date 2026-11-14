@@ -10,9 +10,13 @@ tags:
 ---
 # Alexandria Ocasio-Cortez
 
-*person*
-
 Representative who demanded congressional trade disclosures
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

@@ -10,9 +10,13 @@ tags:
 ---
 # Federal Reserve Bank of Kansas City
 
-*government*
-
 Approved Kraken master account
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Approved Kraken master account
 
 ## Relationships
 
-- [[Federal Reserve Bank of Kansas City (federal-reserve-bank-of-kansas-city)]] *approved limited master account* [[Kraken Financial]] (2026-03-04, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+### Regulatory (1)
+
+- [[Federal Reserve Bank of Kansas City (federal-reserve-bank-of-kansas-city)]] *approved limited master account* [[Kraken Financial]] · 2026-03-04 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]

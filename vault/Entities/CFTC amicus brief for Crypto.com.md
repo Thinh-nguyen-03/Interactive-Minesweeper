@@ -10,9 +10,13 @@ tags:
 ---
 # CFTC amicus brief for Crypto.com
 
-*event*
-
 Filed in a prediction-markets lawsuit.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,8 +24,10 @@ Filed in a prediction-markets lawsuit.
 
 ## Relationships
 
-- [[Commodity Futures Trading Commission]] *filed* [[CFTC amicus brief for Crypto.com]] (legal) · [[C22 Crypto.com and TMTG|C22]]
-- [[CFTC amicus brief for Crypto.com]] *supported* [[Crypto.com]] (legal) · [[C22 Crypto.com and TMTG|C22]]
+### Legal (2)
+
+- [[Commodity Futures Trading Commission]] *filed* [[CFTC amicus brief for Crypto.com]] · [[C22 Crypto.com and TMTG|C22]]
+- [[CFTC amicus brief for Crypto.com]] *supported* [[Crypto.com]] · [[C22 Crypto.com and TMTG|C22]]
 
 ## Themes
 

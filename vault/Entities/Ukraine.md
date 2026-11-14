@@ -10,9 +10,13 @@ tags:
 ---
 # Ukraine
 
-*country*
-
 Two Phantom MK-1 units were sent there for pilot demonstrations.
+
+| | |
+|---|---|
+| Type | Country |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Two Phantom MK-1 units were sent there for pilot demonstrations.
 
 ## Relationships
 
-- [[Foundation Future Industries]] *sent two Phantom units for demonstrations* [[Ukraine]] (2026, commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+### Commercial (1)
+
+- [[Foundation Future Industries]] *sent two Phantom units for demonstrations* [[Ukraine]] · 2026 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Corey Lewandowski
 
-*person*
-
 DHS special government employee under oversight inquiry
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ DHS special government employee under oversight inquiry
 
 ## Relationships
 
-- [[Corey Lewandowski]] *special government employee* [[Department of Homeland Security]] (2025, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Political (1)
+
+- [[Corey Lewandowski]] *special government employee* [[Department of Homeland Security]] · 2025 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

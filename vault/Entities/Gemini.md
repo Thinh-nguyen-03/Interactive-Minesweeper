@@ -10,9 +10,15 @@ tags:
 ---
 # Gemini
 
-*company*
-
 Crypto exchange whose SEC case was dropped.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 6 claims |
+| Connections | 13 |
+
+## How other claims describe it
 
 - Winklevoss-founded exchange; SEC probe closed Feb 2025, Earn suit dismissed Jan 2026
 - Winklevoss-founded exchange; SEC probe closed 2025
@@ -31,21 +37,35 @@ Crypto exchange whose SEC case was dropped.
 
 ## Relationships
 
-- [[Alvin Hellerstein]] *denied CFTC-Gemini vacatur; $5M penalty and injunction stand* [[Gemini]] (2026-10-15, legal) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Cameron Winklevoss]] *co-founded* [[Gemini]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Cameron Winklevoss]] *co-founder of* [[Gemini]] (ownership) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Commodity Futures Trading Commission]] *joined motion to vacate $5M consent judgment* [[Gemini]] (2026-05-28, $5M, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Commodity Futures Trading Commission]] *jointly moved to vacate $5M consent order* [[Gemini]] (2026-05-27, regulatory) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Gemini]] *donated 1.5M USDC to* [[MAGA Inc]] (2025-12, $1.5M, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Gemini]] *hired* [[Miller Strategies]] (2025, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Gemini]] *retained (first-time lobbying client) on crypto regulation* [[Miller Strategies]] (commercial) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Securities and Exchange Commission]] *closed investigation* [[Gemini]] (2025, regulatory) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Securities and Exchange Commission]] *closed investigation with no action* [[Gemini]] (2025-02-26, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *closed investigation; dismissed Earn suit* [[Gemini]] (2025-02-26, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *dropped case against* [[Gemini]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *stipulated dismissal of Gemini Earn suit* [[Gemini]] (2026-01-23, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Tyler Winklevoss]] *co-founded* [[Gemini]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Tyler Winklevoss]] *co-founder of* [[Gemini]] (ownership) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+### Money (2)
+
+- [[Gemini]] *hired* [[Miller Strategies]] · 2025 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Gemini]] *donated 1.5M USDC to* [[MAGA Inc]] · 2025-12 · $1.5M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Ownership (4)
+
+- [[Cameron Winklevoss]] *co-founded* [[Gemini]] · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Cameron Winklevoss]] *co-founder of* [[Gemini]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Tyler Winklevoss]] *co-founded* [[Gemini]] · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Tyler Winklevoss]] *co-founder of* [[Gemini]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Regulatory (7)
+
+- [[Securities and Exchange Commission]] *closed investigation* [[Gemini]] · 2025 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Securities and Exchange Commission]] *closed investigation with no action* [[Gemini]] · 2025-02-26 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *closed investigation; dismissed Earn suit* [[Gemini]] · 2025-02-26 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *stipulated dismissal of Gemini Earn suit* [[Gemini]] · 2026-01-23 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Commodity Futures Trading Commission]] *jointly moved to vacate $5M consent order* [[Gemini]] · 2026-05-27 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Commodity Futures Trading Commission]] *joined motion to vacate $5M consent judgment* [[Gemini]] · 2026-05-28 · $5M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *dropped case against* [[Gemini]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Legal (1)
+
+- [[Alvin Hellerstein]] *denied CFTC-Gemini vacatur; $5M penalty and injunction stand* [[Gemini]] · 2026-10-15 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+
+### Commercial (1)
+
+- [[Gemini]] *retained (first-time lobbying client) on crypto regulation* [[Miller Strategies]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 
 ## Themes
 

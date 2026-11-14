@@ -10,9 +10,13 @@ tags:
 ---
 # FBI
 
-*government*
-
 Federal Bureau of Investigation
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Federal Bureau of Investigation
 
 ## Relationships
 
-- [[Kash Patel]] *director of* [[FBI]] (2025-02, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Political (1)
+
+- [[Kash Patel]] *director of* [[FBI]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

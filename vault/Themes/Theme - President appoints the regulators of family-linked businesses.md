@@ -6,7 +6,7 @@ tags:
 ---
 # President appoints the regulators of family-linked businesses
 
-Trump nominates or oversees the heads of the SEC, CFTC and OCC, which regulate or license companies that pay or are owned by his family.
+- Trump nominates or oversees the heads of the SEC, CFTC and OCC, which regulate or license companies that pay or are owned by his family.
 
 ## Claims
 

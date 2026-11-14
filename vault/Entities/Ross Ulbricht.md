@@ -10,9 +10,13 @@ tags:
 ---
 # Ross Ulbricht
 
-*person*
-
 Silk Road founder, pardoned Jan 21, 2025
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Silk Road founder, pardoned Jan 21, 2025
 
 ## Relationships
 
-- [[Donald Trump]] *pardoned* [[Ross Ulbricht]] (2025-01-21, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+### Legal (1)
+
+- [[Donald Trump]] *pardoned* [[Ross Ulbricht]] · 2025-01-21 · [[C36 Clemency for other crypto and donor-linked figures|C36]]

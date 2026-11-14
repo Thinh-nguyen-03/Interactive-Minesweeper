@@ -10,9 +10,13 @@ tags:
 ---
 # Truth Social American Next Frontiers ETF
 
-*product*
-
 One of the Truth Social ETFs.
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ One of the Truth Social ETFs.
 
 ## Relationships
 
-- [[Truth Social ETFs]] *includes* [[Truth Social American Next Frontiers ETF]] (commercial) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+### Commercial (1)
+
+- [[Truth Social ETFs]] *includes* [[Truth Social American Next Frontiers ETF]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]

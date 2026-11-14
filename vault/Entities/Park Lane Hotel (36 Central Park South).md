@@ -10,9 +10,13 @@ tags:
 ---
 # Park Lane Hotel (36 Central Park South)
 
-*asset*
-
 Manhattan hotel bought by QIA for about $623M in Aug 2023
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -20,7 +24,12 @@ Manhattan hotel bought by QIA for about $623M in Aug 2023
 
 ## Relationships
 
-- [[Jho Low]] *co-bought with Witkoff for ~$654M (stake later forfeited)* [[Park Lane Hotel (36 Central Park South)]] (2013, $654M, ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Mubadala Investment Company]] *co-owner; bought Jho Low's ~38% stake from the DOJ for $139.6M* [[Park Lane Hotel (36 Central Park South)]] (2018-12, $139.6M, ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Qatar Investment Authority]] *bought for ~$623M* [[Park Lane Hotel (36 Central Park South)]] (2023-08, $623M, money) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Steve Witkoff]] *co-owned via JV with Mubadala (share undisclosed), sold to QIA* [[Park Lane Hotel (36 Central Park South)]] (2013-2023, ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
+### Money (1)
+
+- [[Qatar Investment Authority]] *bought for ~$623M* [[Park Lane Hotel (36 Central Park South)]] · 2023-08 · $623M · [[C53 The Witkoff family's own Gulf money|C53]]
+
+### Ownership (3)
+
+- [[Jho Low]] *co-bought with Witkoff for ~$654M (stake later forfeited)* [[Park Lane Hotel (36 Central Park South)]] · 2013 · $654M · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Steve Witkoff]] *co-owned via JV with Mubadala (share undisclosed), sold to QIA* [[Park Lane Hotel (36 Central Park South)]] · 2013-2023 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Mubadala Investment Company]] *co-owner; bought Jho Low's ~38% stake from the DOJ for $139.6M* [[Park Lane Hotel (36 Central Park South)]] · 2018-12 · $139.6M · [[C53 The Witkoff family's own Gulf money|C53]]

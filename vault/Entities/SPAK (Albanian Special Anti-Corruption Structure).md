@@ -10,9 +10,13 @@ tags:
 ---
 # SPAK (Albanian Special Anti-Corruption Structure)
 
-*government*
-
 Albania's anti-corruption prosecutor; investigating the land seller and 2024 status changes; froze funds.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,11 @@ Albania's anti-corruption prosecutor; investigating the land seller and 2024 sta
 
 ## Relationships
 
-- [[Reuters]] *reported case files on forged deeds* [[SPAK (Albanian Special Anti-Corruption Structure)]] (2026-07-11, media) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[SPAK (Albanian Special Anti-Corruption Structure)]] *froze sale proceeds/accounts* [[Albania Land Development]] (2026-06, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[SPAK (Albanian Special Anti-Corruption Structure)]] *investigating for forged deeds and illicit funds* [[Artur Shehu]] (2026-06, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Legal (2)
+
+- [[SPAK (Albanian Special Anti-Corruption Structure)]] *froze sale proceeds/accounts* [[Albania Land Development]] · 2026-06 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[SPAK (Albanian Special Anti-Corruption Structure)]] *investigating for forged deeds and illicit funds* [[Artur Shehu]] · 2026-06 · [[C45 Kushner's Albania and Serbia developments|C45]]
+
+### Media (1)
+
+- [[Reuters]] *reported case files on forged deeds* [[SPAK (Albanian Special Anti-Corruption Structure)]] · 2026-07-11 · [[C45 Kushner's Albania and Serbia developments|C45]]

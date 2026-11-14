@@ -17,7 +17,38 @@ tags:
 ---
 # C40: Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Follow-up lead
+
+## Bottom line
+
+The lead accurately describes the allegations.
+
+## What holds up
+
+- A class action alleged Chow/Meteora and Davis/Kelsier ran MELANIA and LIBRA as a pump-and-dump, using Melania Trump and Milei as 'props'.
+- Insiders took about $10M+ from MELANIA (mostly accurate)
+- Hayden Davis/Kelsier ran the MELANIA and LIBRA launches.
+- $TRUMP was operated by Bill Zanker's Fight Fight Fight LLC and CIC Digital, not by Davis/Kelsier.
+- Early wallets made large sniping profits (mostly accurate)
+- The $TRUMP operators earned large trading-fee revenue.
+
+## What needs correcting
+
+- The litigation is ongoing (false)
+- Regulators have taken action (false)
+- MELANIA was only in a proposed amended complaint; the court never admitted it and later denied the amendment as futile.
+- The '$10M+' insider figure is the complaint's. Bubblemaps' estimate of team sales is about $30M, and FT-reported sniper profits (about $100M) are a separate category.
+- The litigation has not established wrongdoing. The SDNY case was dismissed with prejudice on 2026-09-29 and Argentina's criminal case was dismissed in October 2026.
+- No source shows Davis/Kelsier operated $TRUMP. Its issuers are Fight Fight Fight LLC and CIC Digital.
+
+## In more detail
+
+- A Burwick Law class action accused Meteora's Benjamin Chow and Kelsier's Hayden Davis of running MELANIA, LIBRA and other tokens as a pump-and-dump, calling Melania Trump and Milei 'props' and alleging about $10M in MELANIA insider gains.
+- Davis admitted he was the launch strategist for both tokens and that his team sniped them.
+- Neither court found fraud: SDNY Judge Rochon dismissed the suit with prejudice on 2026-09-29 and refused to add MELANIA, and Argentina dropped its LIBRA criminal case in October 2026.
+- No US regulator has acted.
+- $TRUMP was operated by Fight Fight Fight LLC (Bill Zanker) and CIC Digital on Meteora, earning an estimated $350M+ in sales and fees; no source shows Davis ran it.
 
 ## Lead investigated
 
@@ -25,72 +56,108 @@ tags:
 
 ## Follows up on
 
-- [[C01 $TRUMP meme coin]]
-- [[C02 $MELANIA coin and NFTs]]
-
-## Summary
-
-The lead accurately describes the allegations. A Burwick Law class action accused Meteora's Benjamin Chow and Kelsier's Hayden Davis of running MELANIA, LIBRA and other tokens as a pump-and-dump, calling Melania Trump and Milei 'props' and alleging about $10M in MELANIA insider gains. Davis admitted he was the launch strategist for both tokens and that his team sniped them. Neither court found fraud: SDNY Judge Rochon dismissed the suit with prejudice on 2026-09-29 and refused to add MELANIA, and Argentina dropped its LIBRA criminal case in October 2026. No US regulator has acted. $TRUMP was operated by Fight Fight Fight LLC (Bill Zanker) and CIC Digital on Meteora, earning an estimated $350M+ in sales and fees; no source shows Davis ran it.
+- [[C01 $TRUMP meme coin]] · Mostly accurate
+- [[C02 $MELANIA coin and NFTs]] · Mostly accurate
 
 ## Sub-claims
 
-- **Confirmed**: A class action alleged Chow/Meteora and Davis/Kelsier ran MELANIA and LIBRA as a pump-and-dump, using Melania Trump and Milei as 'props'.
-  - Hurlock v. Kelsier (SDNY 1:25-cv-03891-JLR) was filed by Burwick Law in March 2025 over LIBRA. The proposed second amended complaint (2025-10-21) named Chow, Meteora, Kelsier, and Hayden, Gideon and Charles Davis. It alleged a scheme across at least 15 tokens, focusing on LIBRA, MELANIA, ENRON, TRUST and M3M3, and called the celebrities 'props'. Melania Trump was not a defendant and is not accused of wrongdoing.
-  - <https://fortune.com/crypto/2025/10/23/melania-trump-memecoin-conspiracy-court-filing-benjamin-chow-hayden-davis/>
-  - <https://decrypt.co/345493/melania-trump-javier-milei-props-meme-coin-fraud-lawsuit-alleges>
-  - <https://www.theblock.co/post/375832/ben-chow-melania-libra-memecoin/>
-  - <https://storage.courtlistener.com/recap/gov.uscourts.nysd.642202/gov.uscourts.nysd.642202.205.2.pdf>
-- **Mostly accurate**: Insiders took about $10M+ from MELANIA.
-  - Coverage of the complaint says plaintiffs allege that insider wallets tied to Chow and Davis took about $10M from MELANIA. Bubblemaps separately reported about $30M of 'community' tokens moved and sold (Apr 2025) and an earlier about $2M single-sided liquidity extraction tied to Davis. EmberCN reported about $14.75M sold in one month. All are untested allegations and estimates. Davis said the MELANIA team 'made no money'.
-  - <https://www.theblock.co/post/375832/ben-chow-melania-libra-memecoin/>
-  - <https://blog.bubblemaps.io/huge-sell-offs-on-melania>
-  - <https://cointelegraph.com/news/melania-trump-memecoin-team-sold-30-million-bubblemaps>
-  - <https://beincrypto.com/melania-plunges-to-all-time-low-insider-sell-off>
-  - <https://www.coindesk.com/business/2025/02/17/javier-milei-memecoin-creator-also-launched-melania-admits-to-sniping-tokens>
-- **Confirmed**: Hayden Davis/Kelsier ran the MELANIA and LIBRA launches.
-  - Davis told Coffeezilla (Feb 2025) that he was launch strategist for LIBRA and MELANIA and that his team sniped both. Bubblemaps' wallet clustering ties the two launches together. Chow resigned as Meteora CEO on 2025-02-18; Meow (Jupiter) said Fenwick & West would investigate, but no published findings were located. The issuer of record for MELANIA remains MKT World LLC.
-  - <https://www.coindesk.com/business/2025/02/17/javier-milei-memecoin-creator-also-launched-melania-admits-to-sniping-tokens>
-  - <https://www.dlnews.com/articles/people-culture/man-behind-milei-memecoin-also-worked-on-melania-trump-coin/>
-  - <https://decrypt.co/306498/co-founder-of-crypto-firm-behind-trump-melania-tokens-resigns-amid-insider-trading-allegations>
-- **Confirmed**: $TRUMP was operated by Bill Zanker's Fight Fight Fight LLC and CIC Digital, not by Davis/Kelsier.
-  - Fight Fight Fight LLC (run by Zanker and owned by Celebration Cards LLC) and CIC Digital LLC (a Trump Organization affiliate) hold 80% of supply. The token launched on Meteora, and its creators take a share of trading fees. Chow said the team dealt with co-founder Meow. TRUMP-team wallets received about $4.2M in Meteora's MET airdrop (Oct 2025). No source shows Davis operating $TRUMP; a second-hand report of him describing a pre-launch Trump-associated sale is unverified.
-  - <https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf>
-  - <https://www.bnnbloomberg.ca/markets/crypto/2025/02/03/trumps-meme-coin-made-nearly-100-million-in-trading-fees-as-small-traders-lost-money/>
-  - <https://cryptonews.com/news/meteora-gave-trump-team-4-2m-airdrop-hours-after-founder-sued-for-memecoin-scams/>
-- **Mostly accurate**: Early wallets made large sniping profits.
-  - MELANIA: the FT reported 24 wallets spent about $2.6M roughly 2.5 minutes before the announcement and made nearly $100M; Lookonchain reported 3 wallets bought more than 420M tokens pre-listing. A claimed Arkham link from one wallet to a Barron Trump address is unverified. TRUMP: 58 wallets made more than $10M each (Chainalysis, see C01), and individual snipers made up to about $100M+. No credible evidence shows the operators sniped their own launch. Aggregator figures of $1.2B-$4B in 'insider' gains are unverified.
-  - <https://cryptoslate.com/melania-memecoin-insiders-reportedly-make-over-150-million-including-pre-sale-trades/>
-  - <https://www.tipranks.com/news/melania-trump-memecoin-explodes-as-traders-strike-early-and-pocket-100m>
-  - <https://www.dlnews.com/articles/markets/winners-and-losers-of-official-trump-memecoin/>
-  - <https://decrypt.co/302126/lucky-crypto-trader-over-100-million-trump-meme-coin>
-- **Confirmed**: The $TRUMP operators earned large trading-fee revenue.
-  - Fee estimates for 2025-01-17 to 01-30 are about $86M-$100M (Merkle Science, Chainalysis). The FT put the total at at least $350M by March 2025 ($314M in token sales plus $36M in fees). CoinDesk/Chainalysis put fees at about $320M by May 2025, with about 5% to Meteora. TRUMP-team wallets withdrew about $94M USDC from Meteora pools in December 2025. Trump's OGE-reported $635M in royalties (C01) is a different measure.
-  - <https://www.bnnbloomberg.ca/markets/crypto/2025/02/03/trumps-meme-coin-made-nearly-100-million-in-trading-fees-as-small-traders-lost-money/>
-  - <https://cointelegraph.com/news/trump-memecoin-generated-350-million-creators-report>
-  - <https://hotfix.coindesk.com/business/2025/05/09/trump-family-profited-usd320m-on-memecoin-despite-87-decline-since-day-one>
-  - <https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december>
-- **False**: The litigation is ongoing.
-  - Rochon unfroze about $57.6M USDC on 2025-08-19. On 2026-09-29 she dismissed the LIBRA/M3M3 class action with prejudice: RICO failed for no adequate pattern, state claims failed for lack of personal jurisdiction over Kelsier, and the claims against Chow and Meteora were deficient. Adding MELANIA was denied as futile. There was no merits finding on fraud, and no appeal was reported as of early October 2026. In Argentina, Judge Martínez de Giorgi dismissed the LIBRA criminal case against Milei, Karina Milei, Davis and others in October 2026; the opposition is contesting it.
-  - <https://decrypt.co/336060/libra-promoters-regain-access-57-6-million-crypto-judge-unfreezes-assets>
-  - <https://solanacompass.com/news/judge-dismisses-libra-and-m3m3-memecoin-class-action-against-meteora-and-ben-chow>
-  - <https://www.cryptotimes.io/2026/10/01/us-judge-dismisses-libra-m3m3-case-against-davis-kelsier/>
-  - <https://cryptoslate.com/us-judge-kills-mileis-libra-memecoin-lawsuit-leaving-investors-stranded/>
-  - <https://protos.com/burwick-law-loses-libra-lawsuit-against-hayden-davis/>
-  - <https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra>
-- **False**: Regulators have taken action.
-  - No SEC, DOJ or CFTC action against Davis, Kelsier, Chow, Meteora or Fight Fight Fight was found. SEC staff said in February 2025 that meme coins are generally not securities. Democratic senators sent letters: Blumenthal to Fight Fight Fight (2025-05-06), Warren/Schiff/Blumenthal to Zanker (2026-04-08), and Warren/Blumenthal asking SEC Chair Atkins to investigate (2026-08). Reports of a DOJ LIBRA probe are unconfirmed. An Argentine congressional commission (Nov 2025) found Milei may have breached ethics law.
-  - <https://www.axios.com/2025/03/03/meme-coins-sec>
-  - <https://www.hsgac.senate.gov/wp-content/uploads/2025-05-06-Letter-from-Sen.-Richard-Blumenthal-to-Fight-Fight-Fight.pdf>
-  - <https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf>
-  - <https://theblock.co/news/regulation/2026-08-04-senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week-410624>
-  - <https://en.mercopress.com/2025/11/19/argentina-s-libra-scandal-report-says-milei-promoted-private-scheme-violated-ethics-rules>
+### 1. A class action alleged Chow/Meteora and Davis/Kelsier ran MELANIA and LIBRA as a pump-and-dump, using Melania Trump and Milei as 'props'.
 
-## Corrections
+**Confirmed**
 
-- MELANIA was only in a proposed amended complaint; the court never admitted it and later denied the amendment as futile.
-- The '$10M+' insider figure is the complaint's. Bubblemaps' estimate of team sales is about $30M, and FT-reported sniper profits (about $100M) are a separate category.
-- The litigation has not established wrongdoing. The SDNY case was dismissed with prejudice on 2026-09-29 and Argentina's criminal case was dismissed in October 2026.
-- No source shows Davis/Kelsier operated $TRUMP. Its issuers are Fight Fight Fight LLC and CIC Digital.
+- Hurlock v. Kelsier (SDNY 1:25-cv-03891-JLR) was filed by Burwick Law in March 2025 over LIBRA.
+- The proposed second amended complaint (2025-10-21) named Chow, Meteora, Kelsier, and Hayden, Gideon and Charles Davis.
+- It alleged a scheme across at least 15 tokens, focusing on LIBRA, MELANIA, ENRON, TRUST and M3M3, and called the celebrities 'props'.
+- Melania Trump was not a defendant and is not accused of wrongdoing.
+- Dates: March 2025; 2025-10-21
+- Sources: [1](https://fortune.com/crypto/2025/10/23/melania-trump-memecoin-conspiracy-court-filing-benjamin-chow-hayden-davis/) [2](https://decrypt.co/345493/melania-trump-javier-milei-props-meme-coin-fraud-lawsuit-alleges) [3](https://www.theblock.co/post/375832/ben-chow-melania-libra-memecoin/) [4](https://storage.courtlistener.com/recap/gov.uscourts.nysd.642202/gov.uscourts.nysd.642202.205.2.pdf)
+
+### 2. Insiders took about $10M+ from MELANIA.
+
+**Mostly accurate**
+
+- Coverage of the complaint says plaintiffs allege that insider wallets tied to Chow and Davis took about $10M from MELANIA.
+- Bubblemaps separately reported about $30M of 'community' tokens moved and sold (Apr 2025) and an earlier about $2M single-sided liquidity extraction tied to Davis.
+- EmberCN reported about $14.75M sold in one month.
+- All are untested allegations and estimates.
+- Davis said the MELANIA team 'made no money'.
+- Amounts: about $10M; about $30M; about $2M; about $14.75M
+- Dates: Apr 2025
+- Sources: [3](https://www.theblock.co/post/375832/ben-chow-melania-libra-memecoin/) [7](https://blog.bubblemaps.io/huge-sell-offs-on-melania) [8](https://cointelegraph.com/news/melania-trump-memecoin-team-sold-30-million-bubblemaps) [9](https://beincrypto.com/melania-plunges-to-all-time-low-insider-sell-off) [5](https://www.coindesk.com/business/2025/02/17/javier-milei-memecoin-creator-also-launched-melania-admits-to-sniping-tokens)
+
+### 3. Hayden Davis/Kelsier ran the MELANIA and LIBRA launches.
+
+**Confirmed**
+
+- Davis told Coffeezilla (Feb 2025) that he was launch strategist for LIBRA and MELANIA and that his team sniped both.
+- Bubblemaps' wallet clustering ties the two launches together.
+- Chow resigned as Meteora CEO on 2025-02-18; Meow (Jupiter) said Fenwick & West would investigate, but no published findings were located.
+- The issuer of record for MELANIA remains MKT World LLC.
+- Dates: Feb 2025; 2025-02-18
+- Sources: [5](https://www.coindesk.com/business/2025/02/17/javier-milei-memecoin-creator-also-launched-melania-admits-to-sniping-tokens) [6](https://www.dlnews.com/articles/people-culture/man-behind-milei-memecoin-also-worked-on-melania-trump-coin/) [18](https://decrypt.co/306498/co-founder-of-crypto-firm-behind-trump-melania-tokens-resigns-amid-insider-trading-allegations)
+
+### 4. $TRUMP was operated by Bill Zanker's Fight Fight Fight LLC and CIC Digital, not by Davis/Kelsier.
+
+**Confirmed**
+
+- Fight Fight Fight LLC (run by Zanker and owned by Celebration Cards LLC) and CIC Digital LLC (a Trump Organization affiliate) hold 80% of supply.
+- The token launched on Meteora, and its creators take a share of trading fees.
+- Chow said the team dealt with co-founder Meow.
+- TRUMP-team wallets received about $4.2M in Meteora's MET airdrop (Oct 2025).
+- No source shows Davis operating $TRUMP; a second-hand report of him describing a pre-launch Trump-associated sale is unverified.
+- Amounts: 80%; about $4.2M
+- Dates: Oct 2025
+- Sources: [30](https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf) [19](https://www.bnnbloomberg.ca/markets/crypto/2025/02/03/trumps-meme-coin-made-nearly-100-million-in-trading-fees-as-small-traders-lost-money/) [23](https://cryptonews.com/news/meteora-gave-trump-team-4-2m-airdrop-hours-after-founder-sued-for-memecoin-scams/)
+
+### 5. Early wallets made large sniping profits.
+
+**Mostly accurate**
+
+- MELANIA: the FT reported 24 wallets spent about $2.6M roughly 2.5 minutes before the announcement and made nearly $100M; Lookonchain reported 3 wallets bought more than 420M tokens pre-listing.
+- A claimed Arkham link from one wallet to a Barron Trump address is unverified.
+- TRUMP: 58 wallets made more than $10M each (Chainalysis, see C01), and individual snipers made up to about $100M+.
+- No credible evidence shows the operators sniped their own launch.
+- Aggregator figures of $1.2B-$4B in 'insider' gains are unverified.
+- Amounts: about $2.6M; nearly $100M; more than $10M; about $100M+; $1.2B-$4B
+- Sources: [25](https://cryptoslate.com/melania-memecoin-insiders-reportedly-make-over-150-million-including-pre-sale-trades/) [26](https://www.tipranks.com/news/melania-trump-memecoin-explodes-as-traders-strike-early-and-pocket-100m) [27](https://www.dlnews.com/articles/markets/winners-and-losers-of-official-trump-memecoin/) [28](https://decrypt.co/302126/lucky-crypto-trader-over-100-million-trump-meme-coin)
+
+### 6. The $TRUMP operators earned large trading-fee revenue.
+
+**Confirmed**
+
+- Fee estimates for 2025-01-17 to 01-30 are about $86M-$100M (Merkle Science, Chainalysis).
+- The FT put the total at at least $350M by March 2025 ($314M in token sales plus $36M in fees).
+- CoinDesk/Chainalysis put fees at about $320M by May 2025, with about 5% to Meteora.
+- TRUMP-team wallets withdrew about $94M USDC from Meteora pools in December 2025.
+- Trump's OGE-reported $635M in royalties (C01) is a different measure.
+- Amounts: about $86M-$100M; at least $350M; $314M; $36M; about $320M
+- Dates: 2025-01-17; March 2025; May 2025; December 2025
+- Sources: [19](https://www.bnnbloomberg.ca/markets/crypto/2025/02/03/trumps-meme-coin-made-nearly-100-million-in-trading-fees-as-small-traders-lost-money/) [20](https://cointelegraph.com/news/trump-memecoin-generated-350-million-creators-report) [21](https://hotfix.coindesk.com/business/2025/05/09/trump-family-profited-usd320m-on-memecoin-despite-87-decline-since-day-one) [22](https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december)
+
+### 7. The litigation is ongoing.
+
+**False**
+
+- Rochon unfroze about $57.6M USDC on 2025-08-19.
+- On 2026-09-29 she dismissed the LIBRA/M3M3 class action with prejudice: RICO failed for no adequate pattern, state claims failed for lack of personal jurisdiction over Kelsier, and the claims against Chow and Meteora were deficient.
+- Adding MELANIA was denied as futile.
+- There was no merits finding on fraud, and no appeal was reported as of early October 2026.
+- In Argentina, Judge Martínez de Giorgi dismissed the LIBRA criminal case against Milei, Karina Milei, Davis and others in October 2026; the opposition is contesting it.
+- Amounts: about $57.6M
+- Dates: 2025-08-19; 2026-09-29; early October 2026; October 2026
+- Sources: [10](https://decrypt.co/336060/libra-promoters-regain-access-57-6-million-crypto-judge-unfreezes-assets) [12](https://solanacompass.com/news/judge-dismisses-libra-and-m3m3-memecoin-class-action-against-meteora-and-ben-chow) [13](https://www.cryptotimes.io/2026/10/01/us-judge-dismisses-libra-m3m3-case-against-davis-kelsier/) [14](https://cryptoslate.com/us-judge-kills-mileis-libra-memecoin-lawsuit-leaving-investors-stranded/) [15](https://protos.com/burwick-law-loses-libra-lawsuit-against-hayden-davis/) [16](https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra)
+
+### 8. Regulators have taken action.
+
+**False**
+
+- No SEC, DOJ or CFTC action against Davis, Kelsier, Chow, Meteora or Fight Fight Fight was found.
+- SEC staff said in February 2025 that meme coins are generally not securities.
+- Democratic senators sent letters: Blumenthal to Fight Fight Fight (2025-05-06), Warren/Schiff/Blumenthal to Zanker (2026-04-08), and Warren/Blumenthal asking SEC Chair Atkins to investigate (2026-08).
+- Reports of a DOJ LIBRA probe are unconfirmed.
+- An Argentine congressional commission (Nov 2025) found Milei may have breached ethics law.
+- Dates: February 2025; 2025-05-06; 2026-04-08; 2026-08; Nov 2025
+- Sources: [32](https://www.axios.com/2025/03/03/meme-coins-sec) [29](https://www.hsgac.senate.gov/wp-content/uploads/2025-05-06-Letter-from-Sen.-Richard-Blumenthal-to-Fight-Fight-Fight.pdf) [30](https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf) [31](https://theblock.co/news/regulation/2026-08-04-senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week-410624) [17](https://en.mercopress.com/2025/11/19/argentina-s-libra-scandal-report-says-milei-promoted-private-scheme-violated-ethics-rules)
 
 ## Denials and context
 
@@ -102,98 +169,129 @@ The lead accurately describes the allegations. A Burwick Law class action accuse
 
 ## People and organisations
 
-- [[$LIBRA]]
-- [[$MELANIA meme coin]]
-- [[$TRUMP meme coin]]
-- [[Adam Schiff]]
-- [[Argentina]]
-- [[Arkham Intelligence]]
-- [[Benjamin Chow]]
-- [[Bill Zanker]]
-- [[Bubblemaps]]
-- [[Burwick Law]]
-- [[Celebration Cards LLC]]
-- [[Chainalysis]]
-- [[CIC Digital LLC]]
-- [[Coffeezilla]]
-- [[Donald Trump]]
-- [[Elizabeth Warren]]
-- [[Fight Fight Fight LLC]]
-- [[Financial Times]]
-- [[Hayden Davis]]
-- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]]
-- [[Javier Milei]]
-- [[Judge Jennifer L. Rochon]]
-- [[Judge Marcelo Martínez de Giorgi]]
-- [[Karina Milei]]
-- [[Kelsier Ventures]]
-- [[Lookonchain]]
-- [[Melania Trump]]
-- [[Meow]]
-- [[Meteora]]
-- [[MKT World LLC]]
-- [[Paul Atkins]]
-- [[Richard Blumenthal]]
-- [[Securities and Exchange Commission]]
-- [[Trump Organization]]
-- [[US Congress]]
+- [[$LIBRA]] · Asset
+- [[$MELANIA meme coin]] · Asset
+- [[$TRUMP meme coin]] · Asset
+- [[Adam Schiff]] · Person
+- [[Argentina]] · Country
+- [[Arkham Intelligence]] · Company
+- [[Benjamin Chow]] · Person
+- [[Bill Zanker]] · Person
+- [[Bubblemaps]] · Company
+- [[Burwick Law]] · Company
+- [[Celebration Cards LLC]] · Company
+- [[Chainalysis]] · Company
+- [[CIC Digital LLC]] · Company
+- [[Coffeezilla]] · Person
+- [[Donald Trump]] · Person
+- [[Elizabeth Warren]] · Person
+- [[Fight Fight Fight LLC]] · Company
+- [[Financial Times]] · Media
+- [[Hayden Davis]] · Person
+- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] · Event
+- [[Javier Milei]] · Person
+- [[Judge Jennifer L. Rochon]] · Person
+- [[Judge Marcelo Martínez de Giorgi]] · Person
+- [[Karina Milei]] · Person
+- [[Kelsier Ventures]] · Company
+- [[Lookonchain]] · Company
+- [[Melania Trump]] · Person
+- [[Meow]] · Person
+- [[Meteora]] · Company
+- [[MKT World LLC]] · Company
+- [[Paul Atkins]] · Person
+- [[Richard Blumenthal]] · Person
+- [[Securities and Exchange Commission]] · Government body
+- [[Trump Organization]] · Company
+- [[US Congress]] · Government body
 
 ## Relationships documented
 
-- [[Adam Schiff]] *co-signed oversight letter* [[Fight Fight Fight LLC]] (2026-04-08, regulatory) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Arkham Intelligence]] *identified team wallets in MET airdrop* [[$TRUMP meme coin]] (2025-10-23, media) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Benjamin Chow]] *co-founded; resigned as CEO* [[Meteora]] (2025-02-18, ownership) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] (2025-01, ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Bubblemaps]] *reported about $30M of community tokens sold; linked wallets to LIBRA* [[$MELANIA meme coin]] (2025-04, media) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Burwick Law]] *plaintiffs' counsel in* [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] (2025-03, legal) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Celebration Cards LLC]] *owns* [[Fight Fight Fight LLC]] (ownership) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Chainalysis]] *estimated about $94M in early fees and about $320M by May 2025* [[$TRUMP meme coin]] (media) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[CIC Digital LLC]] *pays meme-coin royalties ($635M in 2025)* [[Donald Trump]] (2025, $635.07M, money) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[CIC Digital LLC]] *co-issuer; co-holds 80% of supply* [[$TRUMP meme coin]] (ownership) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Coffeezilla]] *interviewed; Davis admitted sniping* [[Hayden Davis]] (2025-02, media) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Donald Trump]] *spouse* [[Melania Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Donald Trump]] *launched and promoted* [[$TRUMP meme coin]] (2025-01-17, commercial) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Elizabeth Warren]] *letter on Mar-a-Lago memecoin conference (with Schiff, Blumenthal)* [[Bill Zanker]] (2026-04-08, regulatory) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Elizabeth Warren]] *asked SEC to investigate $TRUMP (with Blumenthal)* [[Paul Atkins]] (2026-08-04, regulatory) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Fight Fight Fight LLC]] *co-issuer / co-holds 80% of supply* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Financial Times]] *reported 24 pre-announcement wallets made about $100M* [[$MELANIA meme coin]] (2025-03, media) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Hayden Davis]] *CEO of* [[Kelsier Ventures]] (ownership) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Hayden Davis]] *launched and managed liquidity for* [[$LIBRA]] (2025-02, commercial) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Hayden Davis]] *self-described launch strategist; team sniped launch* [[$MELANIA meme coin]] (2025-01, commercial) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *named as alleged orchestrator* [[Benjamin Chow]] (2025-10-21, legal) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *defendant* [[Hayden Davis]] (legal) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *defendant* [[Kelsier Ventures]] (legal) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *proposed to add; denied as futile* [[$MELANIA meme coin]] (2026-09-29, legal) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *described as a 'prop'; not a defendant* [[Melania Trump]] (2025-10-21, legal) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *defendant* [[Meteora]] (legal) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Javier Milei]] *president of* [[Argentina]] (political) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Javier Milei]] *promoted* [[$LIBRA]] (2025-02-14, political) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Judge Jennifer L. Rochon]] *unfroze $57.6M USDC; dismissed with prejudice* [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] (2026-09-29, $57.6M, legal) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Karina Milei]] *sister and chief of staff* [[Javier Milei]] (family) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Lookonchain]] *tracked about $94M USDC pulled from Meteora pools by team wallets* [[$TRUMP meme coin]] (2025-12-31, $94M, media) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Judge Marcelo Martínez de Giorgi]] *dismissed LIBRA criminal case against* [[Hayden Davis]] (2026-10, legal) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Judge Marcelo Martínez de Giorgi]] *dismissed LIBRA criminal case against* [[Javier Milei]] (2026-10, legal) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Melania Trump]] *controls* [[MKT World LLC]] (ownership) · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Meow]] *co-founder; ordered Fenwick & West review* [[Meteora]] (ownership) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Meteora]] *hosted launch* [[$LIBRA]] (2025-02-14, commercial) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Meteora]] *hosted launch* [[$MELANIA meme coin]] (2025-01-19, commercial) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Meteora]] *airdropped about $4.2M of MET to TRUMP-team wallets* [[$TRUMP meme coin]] (2025-10-23, $4.2M, money) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Meteora]] *hosted launch; takes about 5% of fees* [[$TRUMP meme coin]] (2025-01-17, commercial) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[MKT World LLC]] *issuer of* [[$MELANIA meme coin]] (2025-01-19, ownership) · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]]
-- [[Paul Atkins]] *chairs* [[Securities and Exchange Commission]] (regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C22 Crypto.com and TMTG|C22]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Richard Blumenthal]] *oversight letter citing $350M in fees* [[Fight Fight Fight LLC]] (2025-05-06, regulatory) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Securities and Exchange Commission]] *staff: meme coins generally not securities; no action* [[$TRUMP meme coin]] (2025-02-27, regulatory) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[$TRUMP meme coin]] *generated at least $350M in token sales and fees for operating entities (FT estimate)* [[Fight Fight Fight LLC]] (2025-03, $350M, money) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Trump Organization]] *affiliate* [[CIC Digital LLC]] (ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+### Money (3)
 
-## Leads not covered by the video
+- [[CIC Digital LLC]] *pays meme-coin royalties ($635M in 2025)* [[Donald Trump]] · 2025 · $635.07M · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[$TRUMP meme coin]] *generated at least $350M in token sales and fees for operating entities (FT estimate)* [[Fight Fight Fight LLC]] · 2025-03 · $350M · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Meteora]] *airdropped about $4.2M of MET to TRUMP-team wallets* [[$TRUMP meme coin]] · 2025-10-23 · $4.2M · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 
-- **TRUMP-team wallets pulled about $94M USDC from Meteora liquidity in December 2025**: This shows ongoing cash extraction by the $TRUMP operators via single-sided liquidity, the same technique Davis is accused of using on MELANIA and LIBRA. [source](https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december) · [[$TRUMP meme coin]] [[Fight Fight Fight LLC]] [[CIC Digital LLC]] [[Meteora]]
-- **Meteora's MET airdrop gave about $4.2M to TRUMP-team wallets and $1.2M to MELANIA-launch wallets**: These are direct payments from the DEX whose co-founder was sued to the Trump-family token teams, arriving hours after the amended complaint was filed. [source](https://cryptonews.com/news/meteora-gave-trump-team-4-2m-airdrop-hours-after-founder-sued-for-memecoin-scams/) · [[Meteora]] [[$TRUMP meme coin]] [[$MELANIA meme coin]] [[Benjamin Chow]]
-- **Fight Fight Fight seeks $200M-$1B for a TRUMP digital-asset treasury**: This would be a new vehicle to buy up the collapsing token, run by the same operator (Zanker) that shares revenue with CIC Digital. [source](https://www.theblock.co/amp/post/373745/trump-memecoin-issuer-plans-funding) · [[Fight Fight Fight LLC]] [[Bill Zanker]] [[$TRUMP meme coin]]
-- **Warren/Blumenthal ask SEC Chair Atkins to investigate $TRUMP as a possible 'rug pull'**: This is the only formal request for federal regulatory action on the Trump memecoin and tests whether the SEC's hands-off meme-coin stance holds. [source](https://theblock.co/news/regulation/2026-08-04-senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week-410624) · [[Elizabeth Warren]] [[Richard Blumenthal]] [[Paul Atkins]] [[Securities and Exchange Commission]] [[$TRUMP meme coin]]
+### Ownership (10)
 
-## Sources
+- [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] · 2025-01 · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Fight Fight Fight LLC]] *co-issuer / co-holds 80% of supply* [[$TRUMP meme coin]] · 2025-01-17 · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[MKT World LLC]] *issuer of* [[$MELANIA meme coin]] · 2025-01-19 · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]]
+- [[Benjamin Chow]] *co-founded; resigned as CEO* [[Meteora]] · 2025-02-18 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Celebration Cards LLC]] *owns* [[Fight Fight Fight LLC]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[CIC Digital LLC]] *co-issuer; co-holds 80% of supply* [[$TRUMP meme coin]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Hayden Davis]] *CEO of* [[Kelsier Ventures]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Melania Trump]] *controls* [[MKT World LLC]] · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Meow]] *co-founder; ordered Fenwick & West review* [[Meteora]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Trump Organization]] *affiliate* [[CIC Digital LLC]] · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+
+### Family (2)
+
+- [[Donald Trump]] *spouse* [[Melania Trump]] · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Karina Milei]] *sister and chief of staff* [[Javier Milei]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+
+### Regulatory (6)
+
+- [[Securities and Exchange Commission]] *staff: meme coins generally not securities; no action* [[$TRUMP meme coin]] · 2025-02-27 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Richard Blumenthal]] *oversight letter citing $350M in fees* [[Fight Fight Fight LLC]] · 2025-05-06 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Adam Schiff]] *co-signed oversight letter* [[Fight Fight Fight LLC]] · 2026-04-08 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Elizabeth Warren]] *letter on Mar-a-Lago memecoin conference (with Schiff, Blumenthal)* [[Bill Zanker]] · 2026-04-08 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Elizabeth Warren]] *asked SEC to investigate $TRUMP (with Blumenthal)* [[Paul Atkins]] · 2026-08-04 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Paul Atkins]] *chairs* [[Securities and Exchange Commission]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C22 Crypto.com and TMTG|C22]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Political (2)
+
+- [[Javier Milei]] *promoted* [[$LIBRA]] · 2025-02-14 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Javier Milei]] *president of* [[Argentina]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+
+### Legal (10)
+
+- [[Burwick Law]] *plaintiffs' counsel in* [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] · 2025-03 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *named as alleged orchestrator* [[Benjamin Chow]] · 2025-10-21 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *described as a 'prop'; not a defendant* [[Melania Trump]] · 2025-10-21 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *proposed to add; denied as futile* [[$MELANIA meme coin]] · 2026-09-29 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Judge Jennifer L. Rochon]] *unfroze $57.6M USDC; dismissed with prejudice* [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] · 2026-09-29 · $57.6M · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Judge Marcelo Martínez de Giorgi]] *dismissed LIBRA criminal case against* [[Hayden Davis]] · 2026-10 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Judge Marcelo Martínez de Giorgi]] *dismissed LIBRA criminal case against* [[Javier Milei]] · 2026-10 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *defendant* [[Hayden Davis]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *defendant* [[Kelsier Ventures]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *defendant* [[Meteora]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+
+### Media (6)
+
+- [[Coffeezilla]] *interviewed; Davis admitted sniping* [[Hayden Davis]] · 2025-02 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Financial Times]] *reported 24 pre-announcement wallets made about $100M* [[$MELANIA meme coin]] · 2025-03 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Bubblemaps]] *reported about $30M of community tokens sold; linked wallets to LIBRA* [[$MELANIA meme coin]] · 2025-04 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Arkham Intelligence]] *identified team wallets in MET airdrop* [[$TRUMP meme coin]] · 2025-10-23 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Lookonchain]] *tracked about $94M USDC pulled from Meteora pools by team wallets* [[$TRUMP meme coin]] · 2025-12-31 · $94M · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Chainalysis]] *estimated about $94M in early fees and about $320M by May 2025* [[$TRUMP meme coin]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+
+### Commercial (6)
+
+- [[Hayden Davis]] *self-described launch strategist; team sniped launch* [[$MELANIA meme coin]] · 2025-01 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Donald Trump]] *launched and promoted* [[$TRUMP meme coin]] · 2025-01-17 · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Meteora]] *hosted launch; takes about 5% of fees* [[$TRUMP meme coin]] · 2025-01-17 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Meteora]] *hosted launch* [[$MELANIA meme coin]] · 2025-01-19 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Hayden Davis]] *launched and managed liquidity for* [[$LIBRA]] · 2025-02 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Meteora]] *hosted launch* [[$LIBRA]] · 2025-02-14 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+
+## Leads not covered here
+
+- **TRUMP-team wallets pulled about $94M USDC from Meteora liquidity in December 2025**
+  - This shows ongoing cash extraction by the $TRUMP operators via single-sided liquidity, the same technique Davis is accused of using on MELANIA and LIBRA.
+  - [[$TRUMP meme coin]] [[Fight Fight Fight LLC]] [[CIC Digital LLC]] [[Meteora]] · [Source](https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december)
+- **Meteora's MET airdrop gave about $4.2M to TRUMP-team wallets and $1.2M to MELANIA-launch wallets**
+  - These are direct payments from the DEX whose co-founder was sued to the Trump-family token teams, arriving hours after the amended complaint was filed.
+  - [[Meteora]] [[$TRUMP meme coin]] [[$MELANIA meme coin]] [[Benjamin Chow]] · [Source](https://cryptonews.com/news/meteora-gave-trump-team-4-2m-airdrop-hours-after-founder-sued-for-memecoin-scams/)
+- **Fight Fight Fight seeks $200M-$1B for a TRUMP digital-asset treasury**
+  - This would be a new vehicle to buy up the collapsing token, run by the same operator (Zanker) that shares revenue with CIC Digital.
+  - [[Fight Fight Fight LLC]] [[Bill Zanker]] [[$TRUMP meme coin]] · [Source](https://www.theblock.co/amp/post/373745/trump-memecoin-issuer-plans-funding)
+- **Warren/Blumenthal ask SEC Chair Atkins to investigate $TRUMP as a possible 'rug pull'**
+  - This is the only formal request for federal regulatory action on the Trump memecoin and tests whether the SEC's hands-off meme-coin stance holds.
+  - [[Elizabeth Warren]] [[Richard Blumenthal]] [[Paul Atkins]] [[Securities and Exchange Commission]] [[$TRUMP meme coin]] · [Source](https://theblock.co/news/regulation/2026-08-04-senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week-410624)
+
+## Sources (33)
 
 1. [Melania Trump memecoin team 'weaponized fame to disarm diligence'](https://fortune.com/crypto/2025/10/23/melania-trump-memecoin-conspiracy-court-filing-benjamin-chow-hayden-davis/) (Fortune, 2025-10-23)
 2. [Melania Trump, Javier Milei used as 'props' for meme coin fraud, lawsuit alleges](https://decrypt.co/345493/melania-trump-javier-milei-props-meme-coin-fraud-lawsuit-alleges) (Decrypt, 2025-10-22)

@@ -10,9 +10,15 @@ tags:
 ---
 # Dar Al Arkan
 
-*company*
-
 Riyadh-based Saudi real-estate developer; parent of Dar Global
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 3 claims |
+| Connections | 5 |
+
+## How other claims describe it
 
 - Riyadh-based developer, parent of Dar Global
 
@@ -24,6 +30,11 @@ Riyadh-based Saudi real-estate developer; parent of Dar Global
 
 ## Relationships
 
-- [[Dar Al Arkan]] *parent company of* [[Dar Global]] (ownership) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Dar Al Arkan]] *parent of* [[Dar Global]] (ownership) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
-- [[Dar Al Arkan]] *reportedly ~$21.9M licence revenue in 2025 disclosure (estimate)* [[Donald Trump]] (2025, $21.9M, money) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+### Money (1)
+
+- [[Dar Al Arkan]] *reportedly ~$21.9M licence revenue in 2025 disclosure (estimate)* [[Donald Trump]] · 2025 · $21.9M · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+
+### Ownership (2)
+
+- [[Dar Al Arkan]] *parent company of* [[Dar Global]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Dar Al Arkan]] *parent of* [[Dar Global]] · [[C56 Saudi Arabia family deals alongside US policy|C56]]

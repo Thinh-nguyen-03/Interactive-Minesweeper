@@ -10,9 +10,13 @@ tags:
 ---
 # Alvarez & Marsal Federal
 
-*company*
-
 Won ~$350M max no-bid DoD consulting contracts
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Won ~$350M max no-bid DoD consulting contracts
 
 ## Relationships
 
-- [[George Kollitides]] *ex-partner at affiliate A&M Capital; listed senior adviser Apr 2026* [[Alvarez & Marsal Federal]] (2026-04, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Pentagon (Department of Defense)]] *no-bid contracts up to ~$350M* [[Alvarez & Marsal Federal]] (2026-06, $348.7M, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Money (1)
+
+- [[Pentagon (Department of Defense)]] *no-bid contracts up to ~$350M* [[Alvarez & Marsal Federal]] · 2026-06 · $348.7M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Commercial (1)
+
+- [[George Kollitides]] *ex-partner at affiliate A&M Capital; listed senior adviser Apr 2026* [[Alvarez & Marsal Federal]] · 2026-04 · [[C65 Officials who decided matters involving their former clients or partners|C65]]

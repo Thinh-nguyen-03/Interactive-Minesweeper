@@ -13,9 +13,16 @@ tags:
 ---
 # Fox News
 
-*media*
-
 Aired Foundation's Pentagon contract as new.
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 2 claims |
+| Connections | 6 |
+| Also known as | Fox; Fox News / Fox Business |
+
+## How other claims describe it
 
 - Fox Business 'Mornings with Maria' aired the segment presenting the $24M as a new deal.
 - Hosts 'My View with Lara Trump' since Feb 2025
@@ -27,7 +34,9 @@ Aired Foundation's Pentagon contract as new.
 
 ## Relationships
 
-- [[Fox News]] *presented $24M contract as new* [[Foundation Future Industries]] (2026-04-23, media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Fox News]] *presented as new* [[$24M Pentagon contract for Foundation]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Lara Trump]] *hosts 'My View with Lara Trump'* [[Fox News]] (2025-02-22, media) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Maria Bartiromo]] *host on* [[Fox News]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+### Media (4)
+
+- [[Lara Trump]] *hosts 'My View with Lara Trump'* [[Fox News]] · 2025-02-22 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Fox News]] *presented $24M contract as new* [[Foundation Future Industries]] · 2026-04-23 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Fox News]] *presented as new* [[$24M Pentagon contract for Foundation]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Maria Bartiromo]] *host on* [[Fox News]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]

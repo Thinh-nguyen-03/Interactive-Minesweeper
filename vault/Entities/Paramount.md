@@ -12,9 +12,16 @@ tags:
 ---
 # Paramount
 
-*company*
-
 Paid $16M '60 Minutes' settlement; merged with Skydance after FCC approval
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 4 claims |
+| Connections | 9 |
+| Also known as | Paramount Global |
+
+## How other claims describe it
 
 - Reported low bidder (about $4M, per the WSJ).
 - Paid $16M settlement toward the library
@@ -28,8 +35,19 @@ Paid $16M '60 Minutes' settlement; merged with Skydance after FCC approval
 
 ## Relationships
 
-- [[Elizabeth Warren]] *questioned on library settlement* [[Paramount]] (2026-03-11, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Paramount]] *bid ~$4M (WSJ, unconfirmed)* [[Melania (2026 film)]] (2024-12, $4M, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Paramount]] *settlement paid to* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-07, $16M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Paramount]] *settled '60 Minutes' suit for $16M incl. fees, remainder to library* [[Trump Presidential Library Fund, Inc]] (2025-07-02, $16M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Skydance Media]] *acquired* [[Paramount]] (2025-08, ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+### Money (2)
+
+- [[Paramount]] *settlement paid to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-07 · $16M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Paramount]] *settled '60 Minutes' suit for $16M incl. fees, remainder to library* [[Trump Presidential Library Fund, Inc]] · 2025-07-02 · $16M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+
+### Ownership (1)
+
+- [[Skydance Media]] *acquired* [[Paramount]] · 2025-08 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+
+### Political (1)
+
+- [[Elizabeth Warren]] *questioned on library settlement* [[Paramount]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+
+### Commercial (1)
+
+- [[Paramount]] *bid ~$4M (WSJ, unconfirmed)* [[Melania (2026 film)]] · 2024-12 · $4M · [[C44 Melania Trump's Amazon documentary deal|C44]]

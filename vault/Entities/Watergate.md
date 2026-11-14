@@ -10,9 +10,13 @@ tags:
 ---
 # Watergate
 
-*event*
-
 Scandal the video says this dwarfs.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Scandal the video says this dwarfs.
 
 ## Relationships
 
-- [['Investigating The President' (video)]] *says this dwarfs* [[Watergate]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Media (1)
+
+- [['Investigating The President' (video)]] *says this dwarfs* [[Watergate]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]

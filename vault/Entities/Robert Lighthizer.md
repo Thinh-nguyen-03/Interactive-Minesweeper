@@ -10,9 +10,13 @@ tags:
 ---
 # Robert Lighthizer
 
-*person*
-
 Former USTR; TMTG director until 2026-03-06.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Former USTR; TMTG director until 2026-03-06.
 
 ## Relationships
 
-- [[Robert Lighthizer]] *resigned from board of* [[Trump Media & Technology Group]] (2026-03-06, advisory) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+### Advisory (1)
+
+- [[Robert Lighthizer]] *resigned from board of* [[Trump Media & Technology Group]] · 2026-03-06 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]

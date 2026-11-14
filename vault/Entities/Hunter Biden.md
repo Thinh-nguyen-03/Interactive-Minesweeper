@@ -10,9 +10,15 @@ tags:
 ---
 # Hunter Biden
 
-*person*
-
 Mentioned in the closing skit as the whataboutism benchmark ('did you at least criticize Hunter Biden?').
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
 
 - Also named in Curtis's subpoena request.
 
@@ -23,5 +29,10 @@ Mentioned in the closing skit as the whataboutism benchmark ('did you at least c
 
 ## Relationships
 
-- [['Investigating The President' (video)]] *skit invokes whataboutism on* [[Hunter Biden]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[John Curtis]] *sought subpoena of* [[Hunter Biden]] (2026-09-21, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+### Political (1)
+
+- [[John Curtis]] *sought subpoena of* [[Hunter Biden]] · 2026-09-21 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+
+### Media (1)
+
+- [['Investigating The President' (video)]] *skit invokes whataboutism on* [[Hunter Biden]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]

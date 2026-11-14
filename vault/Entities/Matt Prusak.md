@@ -10,9 +10,15 @@ tags:
 ---
 # Matt Prusak
 
-*person*
-
 American Bitcoin CEO; told Wired the Trump brothers brought capital-markets access and 'narrative'.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 4 |
+
+## How other claims describe it
 
 - Former Hut 8 executive; American Bitcoin CEO at launch; left in August 2026 for Giga Energy.
 
@@ -22,11 +28,22 @@ American Bitcoin CEO; told Wired the Trump brothers brought capital-markets acce
 
 ## Relationships
 
-- [[Matt Prusak]] *CEO of* [[American Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Matt Prusak]] *CEO of (later president/interim CFO; left 2026-08)* [[American Bitcoin]] (2025-03-31, advisory) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Matt Prusak]] *joined as chief business officer* [[Giga Energy]] (2026-08-04, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Matt Prusak]] *told brothers bring capital-markets access and 'narrative'* [[Wired]] (2025, media) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Matt Prusak]] *told of Trump 'narrative' value* [[Wired]] (media) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+### Ownership (1)
+
+- [[Matt Prusak]] *CEO of* [[American Bitcoin]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+
+### Advisory (1)
+
+- [[Matt Prusak]] *CEO of (later president/interim CFO; left 2026-08)* [[American Bitcoin]] · 2025-03-31 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+
+### Media (2)
+
+- [[Matt Prusak]] *told brothers bring capital-markets access and 'narrative'* [[Wired]] · 2025 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Matt Prusak]] *told of Trump 'narrative' value* [[Wired]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+
+### Commercial (1)
+
+- [[Matt Prusak]] *joined as chief business officer* [[Giga Energy]] · 2026-08-04 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 
 ## Themes
 

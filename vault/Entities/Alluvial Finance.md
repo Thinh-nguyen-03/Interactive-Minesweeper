@@ -10,9 +10,13 @@ tags:
 ---
 # Alluvial Finance
 
-*company*
-
 Selig ex-client; met SEC Crypto Task Force staff
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Selig ex-client; met SEC Crypto Task Force staff
 
 ## Relationships
 
-- [[Mike Selig]] *former client* [[Alluvial Finance]] (legal) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Legal (1)
+
+- [[Mike Selig]] *former client* [[Alluvial Finance]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]

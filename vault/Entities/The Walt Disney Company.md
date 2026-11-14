@@ -10,9 +10,15 @@ tags:
 ---
 # The Walt Disney Company
 
-*company*
-
 Reported runner-up bidder (about $14M, per the WSJ).
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
 
 - Parent of ABC News
 
@@ -23,5 +29,10 @@ Reported runner-up bidder (about $14M, per the WSJ).
 
 ## Relationships
 
-- [[The Walt Disney Company]] *parent company of* [[ABC News]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[The Walt Disney Company]] *bid ~$14M (WSJ, unconfirmed)* [[Melania (2026 film)]] (2024-12, $14M, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
+### Ownership (1)
+
+- [[The Walt Disney Company]] *parent company of* [[ABC News]] · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+
+### Commercial (1)
+
+- [[The Walt Disney Company]] *bid ~$14M (WSJ, unconfirmed)* [[Melania (2026 film)]] · 2024-12 · $14M · [[C44 Melania Trump's Amazon documentary deal|C44]]

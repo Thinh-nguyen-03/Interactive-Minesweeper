@@ -10,9 +10,13 @@ tags:
 ---
 # Army 250th Anniversary Parade
 
-*event*
-
 June 14, 2025 military parade in Washington DC; Coinbase a sponsor
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ June 14, 2025 military parade in Washington DC; Coinbase a sponsor
 
 ## Relationships
 
-- [[America250]] *organized sponsorship of* [[Army 250th Anniversary Parade]] (2025-06-14, commercial) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Coinbase]] *named sponsor of* [[Army 250th Anniversary Parade]] (2025-06-14, commercial) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+### Commercial (2)
+
+- [[America250]] *organized sponsorship of* [[Army 250th Anniversary Parade]] · 2025-06-14 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Coinbase]] *named sponsor of* [[Army 250th Anniversary Parade]] · 2025-06-14 · [[C23 SEC drops crypto-exchange cases; donors|C23]]

@@ -10,9 +10,13 @@ tags:
 ---
 # President's Council of Advisors on Science and Technology
 
-*government*
-
 Advisory council Sacks co-chairs after leaving the czar post
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Advisory council Sacks co-chairs after leaving the czar post
 
 ## Relationships
 
-- [[David Sacks]] *became co-chair* [[President's Council of Advisors on Science and Technology]] (2026-03, advisory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
+### Advisory (1)
+
+- [[David Sacks]] *became co-chair* [[President's Council of Advisors on Science and Technology]] · 2026-03 · [[C34 David Sacks AI & crypto czar with investments|C34]]

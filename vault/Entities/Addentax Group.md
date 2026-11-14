@@ -10,9 +10,13 @@ tags:
 ---
 # Addentax Group
 
-*company*
-
 Chinese garment maker; announced TRUMP/BTC buying talks
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Chinese garment maker; announced TRUMP/BTC buying talks
 
 ## Relationships
 
-- [[Addentax Group]] *talks to buy up to $800M of TRUMP and BTC* [[$TRUMP meme coin]] (2025-05, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+### Money (1)
+
+- [[Addentax Group]] *talks to buy up to $800M of TRUMP and BTC* [[$TRUMP meme coin]] · 2025-05 · [[C67 Investors who show up in several Trump-family vehicles|C67]]

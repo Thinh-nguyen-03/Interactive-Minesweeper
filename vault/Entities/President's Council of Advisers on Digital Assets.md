@@ -10,9 +10,13 @@ tags:
 ---
 # President's Council of Advisers on Digital Assets
 
-*government*
-
 White House crypto council led by Hines, then Witt
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ White House crypto council led by Hines, then Witt
 
 ## Relationships
 
-- [[Bo Hines]] *executive director of* [[President's Council of Advisers on Digital Assets]] (2025-01, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Patrick Witt]] *executive director (Aug 2025-Oct 2026)* [[President's Council of Advisers on Digital Assets]] (2025-08, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+### Political (2)
+
+- [[Bo Hines]] *executive director of* [[President's Council of Advisers on Digital Assets]] · 2025-01 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Patrick Witt]] *executive director (Aug 2025-Oct 2026)* [[President's Council of Advisers on Digital Assets]] · 2025-08 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]

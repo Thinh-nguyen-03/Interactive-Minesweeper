@@ -10,9 +10,13 @@ tags:
 ---
 # Gregory Dwyer
 
-*person*
-
 Early BitMEX executive, pardoned Mar 2025
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Early BitMEX executive, pardoned Mar 2025
 
 ## Relationships
 
-- [[Donald Trump]] *pardoned* [[Gregory Dwyer]] (2025-03-27, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+### Legal (1)
+
+- [[Donald Trump]] *pardoned* [[Gregory Dwyer]] · 2025-03-27 · [[C36 Clemency for other crypto and donor-linked figures|C36]]

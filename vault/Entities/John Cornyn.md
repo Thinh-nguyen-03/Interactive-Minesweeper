@@ -10,9 +10,13 @@ tags:
 ---
 # John Cornyn
 
-*person*
-
 Senator who dismissed insider-trading allegations
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

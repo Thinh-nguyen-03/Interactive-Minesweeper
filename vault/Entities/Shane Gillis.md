@@ -10,9 +10,13 @@ tags:
 ---
 # Shane Gillis
 
-*person*
-
 Comedian who called Truth API 'literally insider trading'
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Comedian who called Truth API 'literally insider trading'
 
 ## Relationships
 
-- [[Shane Gillis]] *called it 'literally insider trading'* [[Truth API]] (2026-08, media) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+### Media (1)
+
+- [[Shane Gillis]] *called it 'literally insider trading'* [[Truth API]] · 2026-08 · [[C58 Market-moving posts and insider-trading allegations|C58]]

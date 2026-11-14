@@ -10,9 +10,13 @@ tags:
 ---
 # CFTC probe into Polymarket
 
-*event*
-
 Probe a congressman asked Selig about.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,8 +24,13 @@ Probe a congressman asked Selig about.
 
 ## Relationships
 
-- [[Commodity Futures Trading Commission]] *conducting* [[CFTC probe into Polymarket]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[CFTC probe into Polymarket]] *targets* [[Polymarket]] (legal) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+### Regulatory (1)
+
+- [[Commodity Futures Trading Commission]] *conducting* [[CFTC probe into Polymarket]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+
+### Legal (1)
+
+- [[CFTC probe into Polymarket]] *targets* [[Polymarket]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 
 ## Themes
 

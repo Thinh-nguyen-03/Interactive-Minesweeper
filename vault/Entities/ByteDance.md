@@ -10,9 +10,13 @@ tags:
 ---
 # ByteDance
 
-*company*
-
 TikTok parent, retains 19.9% of US JV.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ TikTok parent, retains 19.9% of US JV.
 
 ## Relationships
 
-- [[ByteDance]] *retains 19.9% of* [[TikTok USDS Joint Venture LLC]] (2026-01-22, ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+### Ownership (1)
+
+- [[ByteDance]] *retains 19.9% of* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]

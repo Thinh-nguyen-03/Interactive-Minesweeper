@@ -10,9 +10,13 @@ tags:
 ---
 # SEC lawsuit against Binance
 
-*event*
-
 Dropped.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 2 claims |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -21,8 +25,13 @@ Dropped.
 
 ## Relationships
 
-- [[Securities and Exchange Commission]] *dropped* [[SEC lawsuit against Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[SEC lawsuit against Binance]] *targeted* [[Binance]] (legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+### Regulatory (1)
+
+- [[Securities and Exchange Commission]] *dropped* [[SEC lawsuit against Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Legal (1)
+
+- [[SEC lawsuit against Binance]] *targeted* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
 
 ## Themes
 

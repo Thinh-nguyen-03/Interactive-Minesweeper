@@ -10,9 +10,15 @@ tags:
 ---
 # DRW Investments
 
-*company*
-
 Chicago trading firm founded and controlled by Don Wilson; bought ~4M TMTG shares
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 3 claims |
+| Connections | 6 |
+
+## How other claims describe it
 
 - Don Wilson firm; ~$100M TMTG share buyer
 - Don Wilson's firm; ~$100M TMTG buyer
@@ -25,9 +31,14 @@ Chicago trading firm founded and controlled by Don Wilson; bought ~4M TMTG share
 
 ## Relationships
 
-- [[Don Wilson]] *founded and controls* [[DRW Investments]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Don Wilson]] *founder/controller* [[DRW Investments]] (ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[DRW Investments]] *parent of crypto unit* [[Cumberland (DRW)]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[DRW Investments]] *bought ~$100M of shares* [[Trump Media & Technology Group]] (2025-05, $100M, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[DRW Investments]] *bought ~4M shares* [[Trump Media & Technology Group]] (2025-05, $100M, money) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[DRW Investments]] *bought ~4M shares (~$100M) in bitcoin-treasury raise* [[Trump Media & Technology Group]] (2025-05, $100M, money) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+### Money (3)
+
+- [[DRW Investments]] *bought ~$100M of shares* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[DRW Investments]] *bought ~4M shares* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[DRW Investments]] *bought ~4M shares (~$100M) in bitcoin-treasury raise* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+
+### Ownership (3)
+
+- [[Don Wilson]] *founded and controls* [[DRW Investments]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Don Wilson]] *founder/controller* [[DRW Investments]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[DRW Investments]] *parent of crypto unit* [[Cumberland (DRW)]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]

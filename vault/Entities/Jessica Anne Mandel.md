@@ -10,9 +10,13 @@ tags:
 ---
 # Jessica Anne Mandel
 
-*person*
-
 Miller Strategies lobbyist on the Gemini and Crypto.com accounts
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Miller Strategies lobbyist on the Gemini and Crypto.com accounts
 
 ## Relationships
 
-- [[Jessica Anne Mandel]] *lobbyist at; on Gemini and Crypto.com accounts* [[Miller Strategies]] (commercial) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+### Commercial (1)
+
+- [[Jessica Anne Mandel]] *lobbyist at; on Gemini and Crypto.com accounts* [[Miller Strategies]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]

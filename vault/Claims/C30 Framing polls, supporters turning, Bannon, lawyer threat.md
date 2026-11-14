@@ -15,73 +15,150 @@ tags:
 ---
 # C30: Framing: polls, supporters turning, Bannon, lawyer threat
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Claim from the video · transcript lines 23-99,141-175
+
+## Bottom line
+
+Gallup's September 2026 poll found a record 89% of Americans say government corruption is widespread, the highest reading in its 20-year trend.
+
+## What holds up
+
+- Public opinion polls on government corruption are at their highest level in 20 years.
+- Steve Bannon described a 'flood the zone' / 'muzzle velocity' media strategy.
+- The video features Molly White, Sam Kessler (WSJ) and Isaac Saul (Tangle).
+- Aside: 'we were all talking about that guy until we went to war with Iran.' (mostly accurate)
+
+## What needs correcting
+
+- Some of Trump's biggest former supporters now call him one of the most corrupt presidents in history (partly accurate)
+- **Video said:** 'Alania Trump'  
+  **Record shows:** This is Melania Trump.
+- The 'it seems like corruption, yeah' clip is Tucker Carlson in May 2025, about Trump Organization Gulf real-estate deals. It is neither recent nor about crypto.
+- No published source supports '$600 million'. The documented figures are about $635M in meme-coin royalties to Trump and $2B-$3.8B in estimated buyer losses.
+- Gallup's 89% is not merely a 20-year high. It is the highest reading in the entire 20-year series, and it measures perceived corruption in 'government' generally.
+
+## What is unproven
+
+- A quoted critic says the president scammed his supporters out of $600 million.
+- Days before publishing, Coffeezilla was threatened about the story by a lawyer.
+- Don Jr., Eric Trump, Melania Trump and Donald Trump did not respond to requests for comment.
+
+## In more detail
+
+- The rise is driven by Democrats; Republican perception fell slightly.
+- Several montage speakers are real, MAGA-friendly commentators who have turned critical: Tucker Carlson and Shawn Ryan (May 2025), Megyn Kelly (May 2026) and Joe Rogan (Aug 2026).
+- The 'most corrupt presidency' line and the '$600 million' scam clip could not be tied to a named former supporter.
+- The Bannon 'flood the zone / muzzle velocity' audio matches a documented 2019 PBS Frontline interview.
+- The guests are real journalists with the stated affiliations.
+- The lawyer threat and the unanswered requests for comment rest only on the video.
 
 ## What the video said
 
 > Polls show public concern about government corruption at its highest level in 20 years; prominent former Trump supporters/campaigners now call this the most corrupt presidency in history; Steve Bannon described the 'flood the zone'/'muzzle velocity' media strategy; Coffeezilla says a lawyer threatened him before publication and that Don Jr., Eric, Melania and Donald Trump did not respond to requests for comment; the video features Molly White, Sam Kessler (WSJ) and Isaac Saul (Tangle).
 
-## Summary
-
-Gallup's September 2026 poll found a record 89% of Americans say government corruption is widespread, the highest reading in its 20-year trend. The rise is driven by Democrats; Republican perception fell slightly. Several montage speakers are real, MAGA-friendly commentators who have turned critical: Tucker Carlson and Shawn Ryan (May 2025), Megyn Kelly (May 2026) and Joe Rogan (Aug 2026). The 'most corrupt presidency' line and the '$600 million' scam clip could not be tied to a named former supporter. The Bannon 'flood the zone / muzzle velocity' audio matches a documented 2019 PBS Frontline interview. The guests are real journalists with the stated affiliations. The lawyer threat and the unanswered requests for comment rest only on the video.
-
 ## Sub-claims
 
-- **Confirmed**: Public opinion polls on government corruption are at their highest level in 20 years.
-  - Gallup's 2026 poll (released Sept 2026): 89% say corruption is widespread in government. That is up from 79% in 2025, a record in the 20-year trend that started at 59%, and the 2010-2025 range was 72-79%. Democrats 91% (57% in 2024), independents 90%, Republicans 83% (87% two years earlier). The question measures perceived corruption in government generally, not in this administration specifically. Syndicated coverage (GV Wire, Truthout) dates the Gallup release to about Sept. 2, 2026.
-  - <https://newschannel9.com/news/nation-world/views-of-widespread-government-corruption-at-record-high-gallup>
-  - <https://www.ktvu.com/news/gallup-poll-americans-government-corruption>
-  - <https://gvwire.com/2026/09/15/record-89-of-americans-say-government-corruption-is-widespread-gallup-finds/>
-  - <https://truthout.org/articles/nearly-9-in-10-americans-say-theres-widespread-corruption-in-us-government/>
-- **Partly accurate**: Some of Trump's biggest former supporters now call him one of the most corrupt presidents in history.
-  - Identified clips: Shawn Ryan ('brand new hotel going up in Dubai... worries me') and Tucker Carlson ('it seems like corruption, yeah') on The Shawn Ryan Show, May 2025; Megyn Kelly ('didn't expect the corruption to be quite as widespread... lining of his and his family's pockets'), May 25-26, 2026; Joe Rogan ('This government has done some shit that no government has ever done before... The crypto stuff's nuts'), Aug 2026. Not identified: the 'most corrupt presidency in U.S. history... NFTs and the meme coin' clip, 'sacks of cash', 'rug pulls', and '$600 million'. Most identified critics say 'corruption' or 'self-dealing'. The 'most corrupt in history' superlative was found mainly from Democrats.
-  - <https://www.mediaite.com/politics/seems-like-corruption-tucker-carlson-criticizes-trump-deal-to-build-hotels-and-resorts-in-gulf>
-  - <https://politicalwire.com/2026/05/26/bonus-quote-of-the-day-2374/>
-  - <https://tyla.com/news/politics/megyn-kelly-donald-trump-interview-corruption-906950-20260525>
-  - <https://www.newsweek.com/joe-rogan-calls-out-trump-family-for-making-billions-during-presidency-12320634>
-  - <https://www.mediamatters.org/donald-trump/trumps-self-dealing-president-under-microscope-some-right-wing-media-are-speaking>
-- **Unverified**: A quoted critic says the president scammed his supporters out of $600 million.
-  - The speaker was not identified, and no published figure of $600M was found. The closest figures are about $635M in meme-coin royalties on Trump's June 2026 disclosure and $2B-$3.8B in estimated losses for $TRUMP buyers. The Jan. 6 committee's 'election defense fund' figure was $250M.
-  - <https://startupfortune.com/trumps-financial-disclosure-shows-635-million-in-meme-coin-royalties-while-retail-buyers-lost-more-than-700-million/>
-  - <https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/>
-- **Confirmed**: Steve Bannon described a 'flood the zone' / 'muzzle velocity' media strategy.
-  - Secondary sources quote a 2019 PBS Frontline interview: 'All we have to do is flood the zone... But we've got to start with muzzle velocity.' The better-known 'flood the zone with shit' quote is from a 2018 conversation with Michael Lewis. The PBS transcript could not be fetched, but secondary transcriptions (e.g. the Anti-Authoritarian Playbook and Save America Movement Substacks) reproduce the same passage, including 'Every day we hit them with three things', matching the video's audio. A primary transcript was still not read. The claim that the strategy is used to bury family-business stories is the video's interpretation.
-  - <https://antiauthoritarianplaybook.substack.com/p/the-flood-the-zone-strategy-59c>
-  - <https://abc17news.com/money/cnn-business-consumer/2021/11/16/this-infamous-steve-bannon-quote-is-key-to-understanding-americas-crazy-politics-2/>
-  - <https://www.pbs.org/wgbh/frontline/interview/steve-bannon-3>
-  - <https://saveamericamovement.substack.com/p/flood-the-zone>
-- **Unverified**: Days before publishing, Coffeezilla was threatened about the story by a lawyer.
-  - No independent report was found, and no lawyer or client is named. Coffeezilla has a documented history of legal threats and suits (FaZe Kay in 2021, Logan Paul's CryptoZoo defamation suit).
-  - <https://cointelegraph.com/news/coffeezilla-logan-paul-lawsuit-investigations>
-- **Unverified**: Don Jr., Eric Trump, Melania Trump and Donald Trump did not respond to requests for comment.
-  - Only the author can know this. 'Alania' is a transcription error for Melania. WLF did supply denials.
-- **Confirmed**: The video features Molly White, Sam Kessler (WSJ) and Isaac Saul (Tangle).
-  - Molly White runs Citation Needed and Web3 Is Going Just Great and tracks Trump-family crypto ventures. Sam Kessler was hired as a WSJ data reporter in June 2025. He was formerly at CoinDesk, where he led its WLF investigation, and he was lead reporter on the WSJ report about Tahnoon's 49% WLF stake. Isaac Saul is the founder and executive editor of Tangle and compiled an extensive account of the family's self-dealing (Bulwark, May 2026).
-  - <https://en.wikipedia.org/wiki/Molly_White>
-  - <https://www.citationneeded.news/trump-crypto-empire/>
-  - <https://talkingbiznews.com/media-news/wsj-hires-kessler-as-a-data-reporter/>
-  - <https://www.thebulwark.com/p/isaac-saul-the-mind-blowing-self>
-- **Mostly accurate**: Aside: 'we were all talking about that guy until we went to war with Iran.'
-  - The factual premise holds: the United States and Israel launched strikes on Iran on Feb. 28, 2026 (the campaign critics nicknamed 'Operation Epstein Fury'). 'That guy' is not named in the transcript; from context it most plausibly means Jeffrey Epstein, whose files dominated coverage in the weeks before. The suggestion that the war was a distraction is opinion: it is argued by critics and op-eds, and a Zeteo poll found 52% of respondents believe it, but no evidence of motive exists, and the DOJ released further Epstein files on Mar. 6, 2026, six days into the war.
-  - <https://www.counterpunch.org/2026/03/06/morbid-symptoms-war-on-iran-and-the-epstein-class/>
-  - <https://thenightly.com.au/world/middle-east/operation-epic-fury-or-operation-epstein-distraction-internet-reacts-to-trumps-strike-on-iran-c-21794830>
-  - <https://www.rawstory.com/trump-launched-iran-war-as-epstein-files-accusations-closed-in>
+### 1. Public opinion polls on government corruption are at their highest level in 20 years.
 
-## Corrections
+**Confirmed**
 
-- Transcript says 'Alania Trump'; this is Melania Trump.
-- The 'it seems like corruption, yeah' clip is Tucker Carlson in May 2025, about Trump Organization Gulf real-estate deals. It is neither recent nor about crypto.
-- No published source supports '$600 million'. The documented figures are about $635M in meme-coin royalties to Trump and $2B-$3.8B in estimated buyer losses.
-- Gallup's 89% is not merely a 20-year high. It is the highest reading in the entire 20-year series, and it measures perceived corruption in 'government' generally.
+- Gallup's 2026 poll (released Sept 2026): 89% say corruption is widespread in government.
+- That is up from 79% in 2025, a record in the 20-year trend that started at 59%, and the 2010-2025 range was 72-79%.
+- Democrats 91% (57% in 2024), independents 90%, Republicans 83% (87% two years earlier).
+- The question measures perceived corruption in government generally, not in this administration specifically.
+- Syndicated coverage (GV Wire, Truthout) dates the Gallup release to about Sept. 2, 2026.
+- Amounts: 89%; 79%; 59%; 72-79%; 91%
+- Dates: Sept 2026; Sept. 2, 2026
+- Sources: [1](https://newschannel9.com/news/nation-world/views-of-widespread-government-corruption-at-record-high-gallup) [2](https://www.ktvu.com/news/gallup-poll-americans-government-corruption) [3](https://gvwire.com/2026/09/15/record-89-of-americans-say-government-corruption-is-widespread-gallup-finds/) [24](https://truthout.org/articles/nearly-9-in-10-americans-say-theres-widespread-corruption-in-us-government/)
+
+### 2. Some of Trump's biggest former supporters now call him one of the most corrupt presidents in history.
+
+**Partly accurate**
+
+- Identified clips: Shawn Ryan ('brand new hotel going up in Dubai... worries me') and Tucker Carlson ('it seems like corruption, yeah') on The Shawn Ryan Show, May 2025; Megyn Kelly ('didn't expect the corruption to be quite as widespread... lining of his and his family's pockets'), May 25-26, 2026; Joe Rogan ('This government has done some shit that no government has ever done before... The crypto stuff's nuts'), Aug 2026.
+- Not identified: the 'most corrupt presidency in U.S. history...
+- NFTs and the meme coin' clip, 'sacks of cash', 'rug pulls', and '$600 million'.
+- Most identified critics say 'corruption' or 'self-dealing'.
+- The 'most corrupt in history' superlative was found mainly from Democrats.
+- Amounts: $600 million
+- Dates: May 2025; May 25-26, 2026; Aug 2026
+- Sources: [4](https://www.mediaite.com/politics/seems-like-corruption-tucker-carlson-criticizes-trump-deal-to-build-hotels-and-resorts-in-gulf) [6](https://politicalwire.com/2026/05/26/bonus-quote-of-the-day-2374/) [7](https://tyla.com/news/politics/megyn-kelly-donald-trump-interview-corruption-906950-20260525) [10](https://www.newsweek.com/joe-rogan-calls-out-trump-family-for-making-billions-during-presidency-12320634) [12](https://www.mediamatters.org/donald-trump/trumps-self-dealing-president-under-microscope-some-right-wing-media-are-speaking)
+
+### 3. A quoted critic says the president scammed his supporters out of $600 million.
+
+**Unverified**
+
+- The speaker was not identified, and no published figure of $600M was found.
+- The closest figures are about $635M in meme-coin royalties on Trump's June 2026 disclosure and $2B-$3.8B in estimated losses for $TRUMP buyers.
+- The Jan. 6 committee's 'election defense fund' figure was $250M.
+- Amounts: $600M; about $635M; $2B-$3.8B; $250M
+- Dates: June 2026; Jan. 6
+- Sources: [20](https://startupfortune.com/trumps-financial-disclosure-shows-635-million-in-meme-coin-royalties-while-retail-buyers-lost-more-than-700-million/) [21](https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/)
+
+### 4. Steve Bannon described a 'flood the zone' / 'muzzle velocity' media strategy.
+
+**Confirmed**
+
+- Secondary sources quote a 2019 PBS Frontline interview: 'All we have to do is flood the zone...
+- But we've got to start with muzzle velocity.'
+- The better-known 'flood the zone with shit' quote is from a 2018 conversation with Michael Lewis.
+- The PBS transcript could not be fetched, but secondary transcriptions (e.g. the Anti-Authoritarian Playbook and Save America Movement Substacks) reproduce the same passage, including 'Every day we hit them with three things', matching the video's audio.
+- A primary transcript was still not read.
+- The claim that the strategy is used to bury family-business stories is the video's interpretation.
+- Sources: [14](https://antiauthoritarianplaybook.substack.com/p/the-flood-the-zone-strategy-59c) [13](https://abc17news.com/money/cnn-business-consumer/2021/11/16/this-infamous-steve-bannon-quote-is-key-to-understanding-americas-crazy-politics-2/) [15](https://www.pbs.org/wgbh/frontline/interview/steve-bannon-3) [25](https://saveamericamovement.substack.com/p/flood-the-zone)
+
+### 5. Days before publishing, Coffeezilla was threatened about the story by a lawyer.
+
+**Unverified**
+
+- No independent report was found, and no lawyer or client is named.
+- Coffeezilla has a documented history of legal threats and suits (FaZe Kay in 2021, Logan Paul's CryptoZoo defamation suit).
+- Sources: [22](https://cointelegraph.com/news/coffeezilla-logan-paul-lawsuit-investigations)
+
+### 6. Don Jr., Eric Trump, Melania Trump and Donald Trump did not respond to requests for comment.
+
+**Unverified**
+
+- Only the author can know this.
+- 'Alania' is a transcription error for Melania. WLF did supply denials.
+
+### 7. The video features Molly White, Sam Kessler (WSJ) and Isaac Saul (Tangle).
+
+**Confirmed**
+
+- Molly White runs Citation Needed and Web3 Is Going Just Great and tracks Trump-family crypto ventures.
+- Sam Kessler was hired as a WSJ data reporter in June 2025.
+- He was formerly at CoinDesk, where he led its WLF investigation, and he was lead reporter on the WSJ report about Tahnoon's 49% WLF stake.
+- Isaac Saul is the founder and executive editor of Tangle and compiled an extensive account of the family's self-dealing (Bulwark, May 2026).
+- Amounts: 49%
+- Dates: June 2025; May 2026
+- Sources: [17](https://en.wikipedia.org/wiki/Molly_White) [18](https://www.citationneeded.news/trump-crypto-empire/) [16](https://talkingbiznews.com/media-news/wsj-hires-kessler-as-a-data-reporter/) [19](https://www.thebulwark.com/p/isaac-saul-the-mind-blowing-self)
+
+### 8. Aside: 'we were all talking about that guy until we went to war with Iran.'
+
+**Mostly accurate**
+
+- The factual premise holds: the United States and Israel launched strikes on Iran on Feb. 28, 2026 (the campaign critics nicknamed 'Operation Epstein Fury').
+- 'That guy' is not named in the transcript; from context it most plausibly means Jeffrey Epstein, whose files dominated coverage in the weeks before.
+- The suggestion that the war was a distraction is opinion: it is argued by critics and op-eds, and a Zeteo poll found 52% of respondents believe it, but no evidence of motive exists, and the DOJ released further Epstein files on Mar. 6, 2026, six days into the war.
+- Amounts: 52%
+- Dates: Feb. 28, 2026; Mar. 6, 2026
+- Sources: [26](https://www.counterpunch.org/2026/03/06/morbid-symptoms-war-on-iran-and-the-epstein-class/) [27](https://thenightly.com.au/world/middle-east/operation-epic-fury-or-operation-epstein-distraction-internet-reacts-to-trumps-strike-on-iran-c-21794830) [28](https://www.rawstory.com/trump-launched-iran-war-as-epstein-files-accusations-closed-in)
 
 ## Denials and context
 
-- White House: 'President Trump has been the most transparent president in history.' Trump Organization: 'fully compliant with all applicable ethics and conflicts of interest laws.' Trump calls the family's crypto income 'nothing illegal.'
+- White House: 'President Trump has been the most transparent president in history.'
+  - Trump Organization: 'fully compliant with all applicable ethics and conflicts of interest laws.'
+  - Trump calls the family's crypto income 'nothing illegal.'
 - Rogan himself said the crypto dealings are 'shady... but it's legal.'
-- The rise in Gallup's figure comes mainly from Democrats (57% to 91% since 2024). Republican perception fell from 87% to 83%.
+- The rise in Gallup's figure comes mainly from Democrats (57% to 91% since 2024).
+  - Republican perception fell from 87% to 83%.
 - Defenders said Shawn Ryan's examples were legal settlements, private investments and an official foreign gift.
-- The montage combines clips from May 2025 to Aug 2026. Several speakers criticize 'corruption' or 'self-dealing' without using the 'most corrupt in history' superlative.
-- Research limits: direct fetches to Gallup, PBS, Daily Beast and several local-news sites were blocked. The Iran-war aside was checked in the audit pass; no independent press coverage of the video itself was found (search returned only aggregator listings).
+- The montage combines clips from May 2025 to Aug 2026.
+  - Several speakers criticize 'corruption' or 'self-dealing' without using the 'most corrupt in history' superlative.
+- Research limits: direct fetches to Gallup, PBS, Daily Beast and several local-news sites were blocked.
+  - The Iran-war aside was checked in the audit pass; no independent press coverage of the video itself was found (search returned only aggregator listings).
 - The 'war as Epstein distraction' reading in the video's aside is contested: Rep. Thomas Massie and others voiced it, but no evidence shows the war's motive, and Epstein-file releases continued during it.
 
 ## Themes
@@ -91,104 +168,135 @@ Gallup's September 2026 poll found a record 89% of Americans say government corr
 
 ## People and organisations
 
-- [[$TRUMP meme coin]]
-- [['Drain the swamp']]
-- [['Flood the zone' strategy]]
-- [['Investigating The President' (video)]]
-- [[Citation Needed]]
-- [[Coffeezilla]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[Eric Trump]]
-- [[Former Trump supporters (commentators)]]
-- [[Gallup]]
-- [[Gallup 2026 government corruption poll]]
-- [[Hunter Biden]]
-- [[Iran]]
-- [[Iran war crisis]]
-- [[Isaac Saul]]
-- [[Jared Kushner]]
-- [[Jimmy Carter]]
-- [[Joe Rogan]]
-- [[Megyn Kelly]]
-- [[Melania Trump]]
-- [[Molly White]]
-- [[Patreon]]
-- [[PBS Frontline]]
-- [[Polls on government corruption]]
-- [[Sam Kessler]]
-- [[Shawn Ryan]]
-- [[Steve Bannon]]
-- [[Tangle News]]
-- [[The Wall Street Journal]]
-- [[Trump Media & Technology Group]]
-- [[Trump Organization]]
-- [[Truth Social]]
-- [[Tucker Carlson]]
-- [[United Arab Emirates]]
-- [[United States]]
-- [[Unnamed lawyer]]
-- [[US federal government]]
-- [[Watergate]]
-- [[White House Trump administration]]
-- [[World Liberty Financial]]
-- [[YouTube]]
+- [[$TRUMP meme coin]] · Asset
+- [['Drain the swamp']] · Event
+- [['Flood the zone' strategy]] · Event
+- [['Investigating The President' (video)]] · Media
+- [[Citation Needed]] · Media
+- [[Coffeezilla]] · Person
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[Eric Trump]] · Person
+- [[Former Trump supporters (commentators)]] · Person
+- [[Gallup]] · Company
+- [[Gallup 2026 government corruption poll]] · Event
+- [[Hunter Biden]] · Person
+- [[Iran]] · Country
+- [[Iran war crisis]] · Event
+- [[Isaac Saul]] · Person
+- [[Jared Kushner]] · Person
+- [[Jimmy Carter]] · Person
+- [[Joe Rogan]] · Person
+- [[Megyn Kelly]] · Person
+- [[Melania Trump]] · Person
+- [[Molly White]] · Person
+- [[Patreon]] · Company
+- [[PBS Frontline]] · Media
+- [[Polls on government corruption]] · Event
+- [[Sam Kessler]] · Person
+- [[Shawn Ryan]] · Person
+- [[Steve Bannon]] · Person
+- [[Tangle News]] · Media
+- [[The Wall Street Journal]] · Media
+- [[Trump Media & Technology Group]] · Company
+- [[Trump Organization]] · Company
+- [[Truth Social]] · Company
+- [[Tucker Carlson]] · Person
+- [[United Arab Emirates]] · Country
+- [[United States]] · Country
+- [[Unnamed lawyer]] · Person
+- [[US federal government]] · Government body
+- [[Watergate]] · Event
+- [[White House Trump administration]] · Government body
+- [[World Liberty Financial]] · Company
+- [[YouTube]] · Company
 
 ## Relationships documented
 
-- [[Coffeezilla]] *requested comment from (no reply, per video)* [[Donald Trump]] (2026, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *requested comment, no reply* [[Donald Trump]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *requested comment from (no reply, per video)* [[Donald Trump Jr]] (2026, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *requested comment, no reply* [[Donald Trump Jr]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *requested comment from (no reply, per video)* [[Eric Trump]] (2026, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *requested comment, no reply* [[Eric Trump]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *made* [['Investigating The President' (video)]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *interviewed* [[Isaac Saul]] (2026, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *requested comment from (no reply, per video)* [[Melania Trump]] (2026, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *requested comment, no reply* [[Melania Trump]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *interviewed* [[Molly White]] (2026, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *asks support via* [[Patreon]] (money) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *interviewed* [[Sam Kessler]] (2026, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Polls on government corruption]] *show 20-year high concern about* [[US federal government]] (political) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Donald Trump]] *campaigned on* [['Drain the swamp']] (political) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Donald Trump]] *received about $635M in royalties (2025, per June 2026 disclosure)* [[$TRUMP meme coin]] (2026-06-30, $635M, money) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
-- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [['Flood the zone' strategy]] *illustrated by attention shift to* [[Iran war crisis]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Former Trump supporters (commentators)]] *now call most corrupt president* [[Donald Trump]] (political) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Gallup]] *published (record 89% see widespread govt corruption)* [[Gallup 2026 government corruption poll]] (2026-09, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [['Investigating The President' (video)]] *skit invokes whataboutism on* [[Hunter Biden]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [['Investigating The President' (video)]] *contrasts with peanut farm of* [[Jimmy Carter]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [['Investigating The President' (video)]] *says this dwarfs* [[Watergate]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [['Investigating The President' (video)]] *published on* [[YouTube]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Isaac Saul]] *founded* [[Tangle News]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Isaac Saul]] *founder and executive editor of* [[Tangle News]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Joe Rogan]] *called family crypto deals 'nuts' and 'shady but legal'* [[Donald Trump]] (2026-08, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Megyn Kelly]] *said corruption and self-dealing more widespread than expected* [[Donald Trump]] (2026-05, political) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Melania Trump]] *spouse of* [[Donald Trump]] (family) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C44 Melania Trump's Amazon documentary deal|C44]] [[C63 Shell entities and ownership chains|C63]]
-- [[Molly White]] *author of* [[Citation Needed]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Molly White]] *helped map the web for* [[Coffeezilla]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Sam Kessler]] *data reporter at* [[The Wall Street Journal]] (2025-06, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Sam Kessler]] *reports for* [[The Wall Street Journal]] (media) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Shawn Ryan]] *former supporter turned critic; 'very self-serving'* [[Donald Trump]] (2026-06, political) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] (advisory) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Steve Bannon]] *devised* [['Flood the zone' strategy]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Steve Bannon]] *described 'flood the zone / muzzle velocity' in interview with* [[PBS Frontline]] (2019, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Trump Organization]] *Trump-branded projects in (Dubai)* [[United Arab Emirates]] (2025-05, commercial) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Tucker Carlson]] *said Gulf deals 'seem like corruption'* [[Trump Organization]] (2025-05, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[United States]] *went to war with* [[Iran]] (political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Unnamed lawyer]] *threatened over story* [[Coffeezilla]] (legal) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[World Liberty Financial]] *sent denials to* [[Coffeezilla]] (media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]] [[C12 WLF bank charter from the OCC|C12]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[World Liberty Financial]] *supplied denials to* [[Coffeezilla]] (2026, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Money (2)
 
-## Leads not covered by the video
+- [[Donald Trump]] *received about $635M in royalties (2025, per June 2026 disclosure)* [[$TRUMP meme coin]] · 2026-06-30 · $635M · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *asks support via* [[Patreon]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 
-- **Candace Owens and right-wing critics on the Trump family's Albanian island resort push**: Another former ally attacking a family venture not covered in the video (Kushner/Trump-linked Albania project). [source](https://www.mediamatters.org/donald-trump/trumps-self-dealing-president-under-microscope-some-right-wing-media-are-speaking) · [[Jared Kushner]] [[Trump Organization]]
-- **Shawn Ryan's claim that Todd Blanche arranged for Trump/family never to be audited by the IRS**: A specific allegation from a former supporter quoted in the montage; it needs its own check. [source](https://www.mediaite.com/media/what-the-fck-is-that-sht-shawn-ryan-goes-off-on-very-self-serving-trump-and-cronies-in-stunning-exchange-with-megyn-kelly/) · [[Donald Trump]]
-- **Rogan and Shane Gillis call the Truth Social subscription plan 'literally insider trading'**: Same Rogan critique window; it ties to TMTG/Truth Social products. [source](https://pro.edgex.exchange/en-US/news/article/joe-rogan-shane-gillis-trump-truth-social-plan) · [[Truth Social]] [[Trump Media & Technology Group]]
-- **New Yorker's David Kirkpatrick estimate: Trump family made $3.4B in cash during the second term**: Independent tally of the family's take, useful for checking the video's aggregate figures. [source](https://www.mediaite.com/politics/trump/3-4-billion-reporter-tells-msnbc-trump-family-turning-down-no-opportunity-for-cash-since-taking-office) · [[Donald Trump]] [[Trump Organization]]
+### Ownership (1)
 
-## Sources
+- [[Isaac Saul]] *founded* [[Tangle News]] · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+
+### Family (3)
+
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
+- [[Eric Trump]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Melania Trump]] *spouse of* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C44 Melania Trump's Amazon documentary deal|C44]] [[C63 Shell entities and ownership chains|C63]]
+
+### Advisory (1)
+
+- [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+
+### Political (6)
+
+- [[Megyn Kelly]] *said corruption and self-dealing more widespread than expected* [[Donald Trump]] · 2026-05 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Shawn Ryan]] *former supporter turned critic; 'very self-serving'* [[Donald Trump]] · 2026-06 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Polls on government corruption]] *show 20-year high concern about* [[US federal government]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Donald Trump]] *campaigned on* [['Drain the swamp']] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Former Trump supporters (commentators)]] *now call most corrupt president* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[United States]] *went to war with* [[Iran]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+
+### Legal (1)
+
+- [[Unnamed lawyer]] *threatened over story* [[Coffeezilla]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+
+### Media (29)
+
+- [[Steve Bannon]] *described 'flood the zone / muzzle velocity' in interview with* [[PBS Frontline]] · 2019 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Tucker Carlson]] *said Gulf deals 'seem like corruption'* [[Trump Organization]] · 2025-05 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Sam Kessler]] *data reporter at* [[The Wall Street Journal]] · 2025-06 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *requested comment from (no reply, per video)* [[Donald Trump]] · 2026 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *requested comment from (no reply, per video)* [[Donald Trump Jr]] · 2026 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *requested comment from (no reply, per video)* [[Eric Trump]] · 2026 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *interviewed* [[Isaac Saul]] · 2026 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *requested comment from (no reply, per video)* [[Melania Trump]] · 2026 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *interviewed* [[Molly White]] · 2026 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *interviewed* [[Sam Kessler]] · 2026 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[World Liberty Financial]] *supplied denials to* [[Coffeezilla]] · 2026 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Joe Rogan]] *called family crypto deals 'nuts' and 'shady but legal'* [[Donald Trump]] · 2026-08 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Gallup]] *published (record 89% see widespread govt corruption)* [[Gallup 2026 government corruption poll]] · 2026-09 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *requested comment, no reply* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *requested comment, no reply* [[Donald Trump Jr]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *requested comment, no reply* [[Eric Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *made* [['Investigating The President' (video)]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *requested comment, no reply* [[Melania Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [['Flood the zone' strategy]] *illustrated by attention shift to* [[Iran war crisis]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [['Investigating The President' (video)]] *skit invokes whataboutism on* [[Hunter Biden]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [['Investigating The President' (video)]] *contrasts with peanut farm of* [[Jimmy Carter]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [['Investigating The President' (video)]] *says this dwarfs* [[Watergate]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [['Investigating The President' (video)]] *published on* [[YouTube]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Isaac Saul]] *founder and executive editor of* [[Tangle News]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Molly White]] *author of* [[Citation Needed]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Molly White]] *helped map the web for* [[Coffeezilla]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Sam Kessler]] *reports for* [[The Wall Street Journal]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Steve Bannon]] *devised* [['Flood the zone' strategy]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[World Liberty Financial]] *sent denials to* [[Coffeezilla]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]] [[C12 WLF bank charter from the OCC|C12]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+
+### Commercial (1)
+
+- [[Trump Organization]] *Trump-branded projects in (Dubai)* [[United Arab Emirates]] · 2025-05 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+
+## Leads not covered here
+
+- **Candace Owens and right-wing critics on the Trump family's Albanian island resort push**
+  - Another former ally attacking a family venture not covered in the video (Kushner/Trump-linked Albania project).
+  - [[Jared Kushner]] [[Trump Organization]] · [Source](https://www.mediamatters.org/donald-trump/trumps-self-dealing-president-under-microscope-some-right-wing-media-are-speaking)
+- **Shawn Ryan's claim that Todd Blanche arranged for Trump/family never to be audited by the IRS**
+  - A specific allegation from a former supporter quoted in the montage; it needs its own check.
+  - [[Donald Trump]] · [Source](https://www.mediaite.com/media/what-the-fck-is-that-sht-shawn-ryan-goes-off-on-very-self-serving-trump-and-cronies-in-stunning-exchange-with-megyn-kelly/)
+- **Rogan and Shane Gillis call the Truth Social subscription plan 'literally insider trading'**
+  - Same Rogan critique window; it ties to TMTG/Truth Social products.
+  - [[Truth Social]] [[Trump Media & Technology Group]] · [Source](https://pro.edgex.exchange/en-US/news/article/joe-rogan-shane-gillis-trump-truth-social-plan)
+- **New Yorker's David Kirkpatrick estimate: Trump family made $3.4B in cash during the second term**
+  - Independent tally of the family's take, useful for checking the video's aggregate figures.
+  - [[Donald Trump]] [[Trump Organization]] · [Source](https://www.mediaite.com/politics/trump/3-4-billion-reporter-tells-msnbc-trump-family-turning-down-no-opportunity-for-cash-since-taking-office)
+
+## Sources (28)
 
 1. [Views of widespread government corruption at record high: Gallup](https://newschannel9.com/news/nation-world/views-of-widespread-government-corruption-at-record-high-gallup) (Sinclair / NewsChannel 9, 2026-09)
 2. [More Americans than ever say government corruption is 'widespread,' poll finds](https://www.ktvu.com/news/gallup-poll-americans-government-corruption) (FOX TV Stations (KTVU), 2026-09)

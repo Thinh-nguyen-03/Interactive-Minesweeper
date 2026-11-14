@@ -12,9 +12,16 @@ tags:
 ---
 # Karoline Leavitt
 
-*person*
-
 White House press secretary (unnamed in video) who said the president abides by all conflict-of-interest laws.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 11 claims |
+| Connections | 20 |
+| Also known as | White House press secretary |
+
+## How other claims describe it
 
 - White House Press Secretary. Defended the dinner at the May 9, 2025 briefing.
 - White House press secretary who defended the pardon.
@@ -38,19 +45,24 @@ White House press secretary (unnamed in video) who said the president abides by 
 
 ## Relationships
 
-- [[Andrew Egger]] *questioned about memecoin dinner* [[Karoline Leavitt]] (2025-05-09, media) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Karoline Leavitt]] *criticized tariff display plan* [[Amazon]] (2025-04-29, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Karoline Leavitt]] *defended* [[Pardon of Changpeng Zhao]] (2025-10-23, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Karoline Leavitt]] *said Witkoff warned Qatar beforehand* [[Israeli strike on Doha (Sept 9, 2025)]] (2025-09-09, media) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Karoline Leavitt]] *defended as abiding by conflict laws* [[Donald Trump]] (2025-05, political) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
-- [[Karoline Leavitt]] *said he obeys conflict laws* [[Donald Trump]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Karoline Leavitt]] *called $3.4B tally 'absolutely absurd'* [[The New Yorker]] (2025-08, political) · [[C55 How much has the Trump family made Competing totals|C55]]
-- [[Karoline Leavitt]] *defended legality of accepting* [[Qatar Boeing 747 gift]] (2025-05-12, political) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Karoline Leavitt]] *defended as compliant with conflict-of-interest laws* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-09, political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Karoline Leavitt]] *press secretary for* [[White House Trump administration]] (political) · [[C22 Crypto.com and TMTG|C22]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
-- [[Karoline Leavitt]] *press secretary of* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Karoline Leavitt]] *press secretary; denies pardon profiteering* [[White House Trump administration]] (political) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Karoline Leavitt]] *speaks for* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
+### Political (11)
+
+- [[Karoline Leavitt]] *criticized tariff display plan* [[Amazon]] · 2025-04-29 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Karoline Leavitt]] *defended as abiding by conflict laws* [[Donald Trump]] · 2025-05 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+- [[Karoline Leavitt]] *defended as compliant with conflict-of-interest laws* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-09 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Karoline Leavitt]] *defended legality of accepting* [[Qatar Boeing 747 gift]] · 2025-05-12 · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Karoline Leavitt]] *called $3.4B tally 'absolutely absurd'* [[The New Yorker]] · 2025-08 · [[C55 How much has the Trump family made Competing totals|C55]]
+- [[Karoline Leavitt]] *defended* [[Pardon of Changpeng Zhao]] · 2025-10-23 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Karoline Leavitt]] *said he obeys conflict laws* [[Donald Trump]] · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Karoline Leavitt]] *press secretary for* [[White House Trump administration]] · [[C22 Crypto.com and TMTG|C22]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+- [[Karoline Leavitt]] *press secretary of* [[White House Trump administration]] · [[C03 Dinner for top $TRUMP holders|C03]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Karoline Leavitt]] *press secretary; denies pardon profiteering* [[White House Trump administration]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Karoline Leavitt]] *speaks for* [[White House Trump administration]] · [[C03 Dinner for top $TRUMP holders|C03]]
+
+### Media (2)
+
+- [[Andrew Egger]] *questioned about memecoin dinner* [[Karoline Leavitt]] · 2025-05-09 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Karoline Leavitt]] *said Witkoff warned Qatar beforehand* [[Israeli strike on Doha (Sept 9, 2025)]] · 2025-09-09 · [[C53 The Witkoff family's own Gulf money|C53]]
 
 ## Themes
 

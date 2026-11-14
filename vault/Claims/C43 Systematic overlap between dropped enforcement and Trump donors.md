@@ -18,7 +18,40 @@ tags:
 ---
 # C43: Systematic overlap between dropped enforcement and Trump donors
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Follow-up lead
+
+## Bottom line
+
+The overlap is documented.
+
+## What holds up
+
+- A New York Times analysis found the SEC eased about 60% of the crypto cases it inherited, several of them tied to Trump donors or business partners (mostly accurate)
+- Robinhood, an inaugural donor, had its SEC crypto probe closed.
+- Public Citizen tracks halted corporate enforcement actions against companies with Trump ties.
+- Crypto.com hired a Trump-connected lobbyist (mostly accurate)
+- Gemini donated to MAGA Inc.
+- Counter-argument: the policy shift also covered firms with no Trump ties.
+- Official responses.
+
+## What needs correcting
+
+- The 'about 60%' NYT figure covers cases dismissed, paused or given reduced penalties (eased), not only cases dropped. Secondhand accounts disagree on how many of those cases had Trump ties.
+- Gemini's 1.5M USDC MAGA Inc. gift came from Gemini Trust Company. The larger June 2026 BTC gifts (>$5M each) came from Cameron and Tyler Winklevoss personally, made via Gemini.
+- Crypto.com runs mostly in-house lobbying. Its link to Jeff Miller is reported by AP, but the fee amounts were not confirmed.
+
+## What is unproven
+
+- The overlap is systematic evidence of pay-to-play.
+
+## In more detail
+
+- The NYT (Dec 14, 2025, known only secondhand here) found the SEC eased about 60% of the crypto cases it inherited (reportedly 14 of 23), against roughly 4% for other cases, with Trump-tied firms common among them.
+- Robinhood gave $2M to the inauguration and had its SEC crypto probe closed.
+- Public Citizen counts hundreds of halted corporate actions, 23 of them crypto.
+- Gemini gave 1.5M USDC to MAGA Inc. Causation is not shown: firms with no known Trump donations (Uniswap, OpenSea, Yuga, Immutable) got the same treatment, the NYT found no evidence of direct pressure, and the SEC and Atkins deny political influence.
+- The fee for Crypto.com's Trump-linked lobbyist (Jeff Miller) is unconfirmed.
 
 ## Lead investigated
 
@@ -26,171 +59,255 @@ tags:
 
 ## Follows up on
 
-- [[C23 SEC drops crypto-exchange cases; donors]]
-- [[C22 Crypto.com and TMTG]]
-- [[C09 Binance SEC case dropped and CZ pardon]]
+- [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
+- [[C22 Crypto.com and TMTG]] · Mostly accurate
+- [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
 
 ## Follow-up checks
 
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 
-## Summary
-
-The overlap is documented. The NYT (Dec 14, 2025, known only secondhand here) found the SEC eased about 60% of the crypto cases it inherited (reportedly 14 of 23), against roughly 4% for other cases, with Trump-tied firms common among them. Robinhood gave $2M to the inauguration and had its SEC crypto probe closed. Public Citizen counts hundreds of halted corporate actions, 23 of them crypto. Gemini gave 1.5M USDC to MAGA Inc. Causation is not shown: firms with no known Trump donations (Uniswap, OpenSea, Yuga, Immutable) got the same treatment, the NYT found no evidence of direct pressure, and the SEC and Atkins deny political influence. The fee for Crypto.com's Trump-linked lobbyist (Jeff Miller) is unconfirmed.
-
 ## Sub-claims
 
-- **Mostly accurate**: A New York Times analysis found the SEC eased about 60% of the crypto cases it inherited, several of them tied to Trump donors or business partners.
-  - Multiple outlets report the NYT analysis (published about Dec 14, 2025). It found the SEC dismissed, paused or cut penalties in more than 60% of the crypto cases active on Jan 20, 2025, reportedly 14 of 23, against about 4% of inherited non-crypto cases, and filed no new crypto cases. Firms with Trump ties (Binance, Ripple, Justin Sun/Tron, the Winklevoss-backed Gemini) are among the eased cases. Secondhand accounts disagree on how many of the 14 had Trump ties: 'five' in most (Cointelegraph and others), 'eight' in one, 'all' in another. That breakdown is unverified because the original was not reachable. The NYT found no evidence that Trump directly pressured the SEC.
-  - <https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped>
-  - <https://yellow.com/news/sec-dropped-60-of-crypto-cases-after-trump-returned-to-office-nyt-finds>
-  - <https://tradersunion.com/news/cryptocurrency-news/show/1090367-sec-softened-60/>
-  - <https://www.thedailybeast.com/billionaire-trumps-crypto-pals-let-off-easy-as-investigators-back-down>
-- **Confirmed**: Robinhood, an inaugural donor, had its SEC crypto probe closed.
-  - The SEC Enforcement Division told Robinhood on Feb 21, 2025 that it was closing its Robinhood Crypto investigation with no action. That probe had produced a Wells notice in May 2024. Robinhood announced the closure on Feb 24, 2025. Robinhood gave $2M to the Trump-Vance Inaugural Committee, per filings reported by Bloomberg and InvestmentNews. Timing aside, no link between the two is documented, and the closure came in the same week as the Coinbase, Uniswap and OpenSea closures.
-  - <https://robinhood.com/us/en/newsroom/sec-closes-investigation-into-robinhood-crypto-with-no-action>
-  - <https://decrypt.co/307477/sec-ends-robinhood-investigation-with-no-action>
-  - <https://investmentnews.com/industry-news/robinhood-coinbase-among-trump-inauguration-committee-donors/259135>
-- **Confirmed**: Public Citizen tracks halted corporate enforcement actions against companies with Trump ties.
-  - Public Citizen's Corporate Enforcement Tracker counted 109 thwarted actions in early 2025 and 159 canceled or halted actions against 166 corporations by the end of year one. Its September 2026 update says inherited actions against 205 corporations were canceled. Its 'Deleting Tech Enforcement' report found that 23 of the dropped or halted tech actions involved crypto firms (20 withdrawn, 3 halted). It links them to about $1.2B in tech-sector political influence spending, including Coinbase ($76.1M) and Ripple ($55M). Public Citizen is an advocacy group, and its counts mix investigations with cases. Its own statement that 'firms close to Trump benefit' is framing rather than a measured correlation.
-  - <https://www.citizen.org/article/corporate-enforcement-trump-tracker/>
-  - <https://www.citizen.org/news/corporate-crime-enforcement-plummets-in-trumps-first-year-rewards-top-donors/>
-  - <https://www.citizen.org/article/trump-cascade-canceled-enforcement-200-corporations/>
-  - <https://www.citizen.org/article/deleting-enforcement-trump-big-tech-billion-report/>
-- **Mostly accurate**: Crypto.com hired a Trump-connected lobbyist.
-  - AP (Dec 2025) reports that from late 2024 Crypto.com increased its lobbying payments to Jeff Miller of Miller Strategies, a GOP fundraiser and finance chair of Trump's inaugural festivities. Per the disclosures, he lobbied the White House and the SEC. AP also reports that Biden-era commissioners had authorized charges and that Crypto.com negotiated to delay any filing until after the inauguration. Crypto.com says Miller 'had no involvement' with the SEC investigation, and Miller did not comment. The fee amounts paid to Miller were not found, so they are unverified. Crypto.com's parent reported $500K of in-house lobbying in Q3 2025.
-  - <https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest>
-  - <https://www.bnnbloomberg.ca/business/2025/12/16/how-a-trump-media-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest/>
-  - <https://legis1.com/news/foris-inc-lobbies-digital-asset-regulation-framework>
-- **Confirmed**: Gemini donated to MAGA Inc.
-  - An FEC filing reported in early January 2026 shows Gemini Trust Company gave 1.5M USDC to MAGA Inc., liquidated on receipt, alongside two $10M gifts from Crypto.com's parent Foris DAX. MAGA Inc.'s July 2026 report then showed the Winklevoss twins giving two contributions of more than $5M each in BTC on June 19, 2026. Those came about three weeks after the CFTC joined Gemini's May 27-28, 2026 motion to vacate its $5M 2025 consent judgment. Judge Hellerstein (SDNY) denied that motion in Oct 2026, a ruling found in one report only. No link between the gifts and the CFTC's move is documented.
-  - <https://www.kucoin.com/news/flash/gemini-and-crypto-com-parent-company-donate-21m-to-pro-trump-super-pac>
-  - <https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/>
-  - <https://www.theblock.co/news/business/2026-05-28-cftc-joins-relief-motion-gemini-402827>
-  - <https://www.crowdfundinsider.com/2026/10/318811-federal-judge-rejects-gemini-and-cftc-joint-bid-to-vacate-5-million-settlement/>
-- **Confirmed**: Counter-argument: the policy shift also covered firms with no Trump ties.
-  - The SEC closed probes into Uniswap Labs (Feb 25, 2025), OpenSea (Feb 21), Yuga Labs (Mar 3) and Immutable (Mar 25) with no action. None of these firms is a known Trump donor. The SEC said its Crypto Task Force under Peirce was reassessing how securities law applies to digital assets. The near-total crypto retreat suggests a sector-wide policy change, not a donor-specific one. Still, the NYT's crypto-versus-non-crypto gap (about 60% vs 4%) and the many donors among the beneficiaries are why critics see favoritism.
-  - <https://theblock.co/post/343353/sec-drops-uniswap-labs-investigation-as-agency-continues-crypto-friendly-push-wsj>
-  - <https://www.theblock.co/post/344348/yuga-labs-says-sec-has-closed-its-investigation-into-the-company-nfts-are-not-securities>
-  - <https://www.theblock.co/post/348115/sec-drops-investigation-into-australian-crypto-firm-immutable-as-regulatory-shift-continues>
-  - <https://decrypt.co/308273/trump-sec-ending-crypto-lawsuits-investigations>
-- **Confirmed**: Official responses.
-  - The SEC told the NYT that politics played no role and that its decisions were legal and policy calls. At a Feb 11, 2026 House Financial Services hearing, Atkins answered 'no' when Rep. Sylvia Garcia asked whether Trump, his family, cabinet or White House staff had ever asked him to take or decline an enforcement action. He added 'we are bringing cases' and would not speak to the Trump family's business. Reps. Waters, Casten and Sherman wrote on Jan 15, 2026 that the dismissals create 'the unmistakable inference of a pay-to-play scheme.' Peirce said there is 'not a pass on securities violations.' The White House (Leavitt) says neither the President nor his family engage in conflicts of interest.
-  - <https://www.theblock.co/news/regulation/2026-02-11-democrats-press-secs-atkins-over-dropped-crypto-cases-trump-industry-ties-as-agency-shifts-strategy-389503>
-  - <https://www.coinage.media/2026/secs-hester-peirce-pushes-back-on-senator-warrens-crypto-enforcement-gripes>
-  - <https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest>
-- **Unverified**: The overlap is systematic evidence of pay-to-play.
-  - No document, testimony or official finding shows a donation or deal was exchanged for an enforcement outcome. The case rests on correlation and timing, the crypto-versus-non-crypto disparity and the prominence of donors. All of it is consistent with favoritism but also with a sector-wide deregulatory policy.
-  - <https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped>
-  - <https://www.theblock.co/news/regulation/2026-02-11-democrats-press-secs-atkins-over-dropped-crypto-cases-trump-industry-ties-as-agency-shifts-strategy-389503>
+### 1. A New York Times analysis found the SEC eased about 60% of the crypto cases it inherited, several of them tied to Trump donors or business partners.
 
-## Corrections
+**Mostly accurate**
 
-- The 'about 60%' NYT figure covers cases dismissed, paused or given reduced penalties (eased), not only cases dropped. Secondhand accounts disagree on how many of those cases had Trump ties.
-- Gemini's 1.5M USDC MAGA Inc. gift came from Gemini Trust Company. The larger June 2026 BTC gifts (>$5M each) came from Cameron and Tyler Winklevoss personally, made via Gemini.
-- Crypto.com runs mostly in-house lobbying. Its link to Jeff Miller is reported by AP, but the fee amounts were not confirmed.
+- Multiple outlets report the NYT analysis (published about Dec 14, 2025).
+- It found the SEC dismissed, paused or cut penalties in more than 60% of the crypto cases active on Jan 20, 2025, reportedly 14 of 23, against about 4% of inherited non-crypto cases, and filed no new crypto cases.
+- Firms with Trump ties (Binance, Ripple, Justin Sun/Tron, the Winklevoss-backed Gemini) are among the eased cases.
+- Secondhand accounts disagree on how many of the 14 had Trump ties: 'five' in most (Cointelegraph and others), 'eight' in one, 'all' in another.
+- That breakdown is unverified because the original was not reachable.
+- The NYT found no evidence that Trump directly pressured the SEC.
+- Amounts: more than 60%; about 4%
+- Dates: Dec 14, 2025; Jan 20, 2025
+- Sources: [1](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped) [2](https://yellow.com/news/sec-dropped-60-of-crypto-cases-after-trump-returned-to-office-nyt-finds) [3](https://tradersunion.com/news/cryptocurrency-news/show/1090367-sec-softened-60/) [4](https://www.thedailybeast.com/billionaire-trumps-crypto-pals-let-off-easy-as-investigators-back-down)
+
+### 2. Robinhood, an inaugural donor, had its SEC crypto probe closed.
+
+**Confirmed**
+
+- The SEC Enforcement Division told Robinhood on Feb 21, 2025 that it was closing its Robinhood Crypto investigation with no action.
+- That probe had produced a Wells notice in May 2024.
+- Robinhood announced the closure on Feb 24, 2025.
+- Robinhood gave $2M to the Trump-Vance Inaugural Committee, per filings reported by Bloomberg and InvestmentNews.
+- Timing aside, no link between the two is documented, and the closure came in the same week as the Coinbase, Uniswap and OpenSea closures.
+- Amounts: $2M
+- Dates: Feb 21, 2025; May 2024; Feb 24, 2025
+- Sources: [5](https://robinhood.com/us/en/newsroom/sec-closes-investigation-into-robinhood-crypto-with-no-action) [6](https://decrypt.co/307477/sec-ends-robinhood-investigation-with-no-action) [7](https://investmentnews.com/industry-news/robinhood-coinbase-among-trump-inauguration-committee-donors/259135)
+
+### 3. Public Citizen tracks halted corporate enforcement actions against companies with Trump ties.
+
+**Confirmed**
+
+- Public Citizen's Corporate Enforcement Tracker counted 109 thwarted actions in early 2025 and 159 canceled or halted actions against 166 corporations by the end of year one.
+- Its September 2026 update says inherited actions against 205 corporations were canceled.
+- Its 'Deleting Tech Enforcement' report found that 23 of the dropped or halted tech actions involved crypto firms (20 withdrawn, 3 halted).
+- It links them to about $1.2B in tech-sector political influence spending, including Coinbase ($76.1M) and Ripple ($55M).
+- Public Citizen is an advocacy group, and its counts mix investigations with cases.
+- Its own statement that 'firms close to Trump benefit' is framing rather than a measured correlation.
+- Amounts: about $1.2B; $76.1M; $55M
+- Dates: early 2025; September 2026
+- Sources: [8](https://www.citizen.org/article/corporate-enforcement-trump-tracker/) [9](https://www.citizen.org/news/corporate-crime-enforcement-plummets-in-trumps-first-year-rewards-top-donors/) [10](https://www.citizen.org/article/trump-cascade-canceled-enforcement-200-corporations/) [11](https://www.citizen.org/article/deleting-enforcement-trump-big-tech-billion-report/)
+
+### 4. Crypto.com hired a Trump-connected lobbyist.
+
+**Mostly accurate**
+
+- AP (Dec 2025) reports that from late 2024 Crypto.com increased its lobbying payments to Jeff Miller of Miller Strategies, a GOP fundraiser and finance chair of Trump's inaugural festivities.
+- Per the disclosures, he lobbied the White House and the SEC.
+- AP also reports that Biden-era commissioners had authorized charges and that Crypto.com negotiated to delay any filing until after the inauguration.
+- Crypto.com says Miller 'had no involvement' with the SEC investigation, and Miller did not comment.
+- The fee amounts paid to Miller were not found, so they are unverified.
+- Crypto.com's parent reported $500K of in-house lobbying in Q3 2025.
+- Amounts: $500K
+- Dates: Dec 2025; late 2024
+- Sources: [12](https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest) [13](https://www.bnnbloomberg.ca/business/2025/12/16/how-a-trump-media-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest/) [14](https://legis1.com/news/foris-inc-lobbies-digital-asset-regulation-framework)
+
+### 5. Gemini donated to MAGA Inc.
+
+**Confirmed**
+
+- An FEC filing reported in early January 2026 shows Gemini Trust Company gave 1.5M USDC to MAGA Inc., liquidated on receipt, alongside two $10M gifts from Crypto.com's parent Foris DAX.
+- MAGA Inc.'s July 2026 report then showed the Winklevoss twins giving two contributions of more than $5M each in BTC on June 19, 2026.
+- Those came about three weeks after the CFTC joined Gemini's May 27-28, 2026 motion to vacate its $5M 2025 consent judgment.
+- Judge Hellerstein (SDNY) denied that motion in Oct 2026, a ruling found in one report only.
+- No link between the gifts and the CFTC's move is documented.
+- Amounts: $10M; more than $5M; $5M
+- Dates: early January 2026; July 2026; June 19, 2026; May 27-28, 2026; Oct 2026
+- Sources: [15](https://www.kucoin.com/news/flash/gemini-and-crypto-com-parent-company-donate-21m-to-pro-trump-super-pac) [16](https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/) [17](https://www.theblock.co/news/business/2026-05-28-cftc-joins-relief-motion-gemini-402827) [18](https://www.crowdfundinsider.com/2026/10/318811-federal-judge-rejects-gemini-and-cftc-joint-bid-to-vacate-5-million-settlement/)
+
+### 6. Counter-argument: the policy shift also covered firms with no Trump ties.
+
+**Confirmed**
+
+- The SEC closed probes into Uniswap Labs (Feb 25, 2025), OpenSea (Feb 21), Yuga Labs (Mar 3) and Immutable (Mar 25) with no action.
+- None of these firms is a known Trump donor.
+- The SEC said its Crypto Task Force under Peirce was reassessing how securities law applies to digital assets.
+- The near-total crypto retreat suggests a sector-wide policy change, not a donor-specific one.
+- Still, the NYT's crypto-versus-non-crypto gap (about 60% vs 4%) and the many donors among the beneficiaries are why critics see favoritism.
+- Amounts: about 60%; 4%
+- Dates: Feb 25, 2025; Feb 21; Mar 3; Mar 25
+- Sources: [19](https://theblock.co/post/343353/sec-drops-uniswap-labs-investigation-as-agency-continues-crypto-friendly-push-wsj) [20](https://www.theblock.co/post/344348/yuga-labs-says-sec-has-closed-its-investigation-into-the-company-nfts-are-not-securities) [21](https://www.theblock.co/post/348115/sec-drops-investigation-into-australian-crypto-firm-immutable-as-regulatory-shift-continues) [22](https://decrypt.co/308273/trump-sec-ending-crypto-lawsuits-investigations)
+
+### 7. Official responses.
+
+**Confirmed**
+
+- The SEC told the NYT that politics played no role and that its decisions were legal and policy calls.
+- At a Feb 11, 2026 House Financial Services hearing, Atkins answered 'no' when Rep. Sylvia Garcia asked whether Trump, his family, cabinet or White House staff had ever asked him to take or decline an enforcement action.
+- He added 'we are bringing cases' and would not speak to the Trump family's business.
+- Reps. Waters, Casten and Sherman wrote on Jan 15, 2026 that the dismissals create 'the unmistakable inference of a pay-to-play scheme.'
+- Peirce said there is 'not a pass on securities violations.'
+- The White House (Leavitt) says neither the President nor his family engage in conflicts of interest.
+- Dates: Feb 11, 2026; Jan 15, 2026
+- Sources: [23](https://www.theblock.co/news/regulation/2026-02-11-democrats-press-secs-atkins-over-dropped-crypto-cases-trump-industry-ties-as-agency-shifts-strategy-389503) [24](https://www.coinage.media/2026/secs-hester-peirce-pushes-back-on-senator-warrens-crypto-enforcement-gripes) [12](https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest)
+
+### 8. The overlap is systematic evidence of pay-to-play.
+
+**Unverified**
+
+- No document, testimony or official finding shows a donation or deal was exchanged for an enforcement outcome.
+- The case rests on correlation and timing, the crypto-versus-non-crypto disparity and the prominence of donors.
+- All of it is consistent with favoritism but also with a sector-wide deregulatory policy.
+- Sources: [1](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped) [23](https://www.theblock.co/news/regulation/2026-02-11-democrats-press-secs-atkins-over-dropped-crypto-cases-trump-industry-ties-as-agency-shifts-strategy-389503)
 
 ## Denials and context
 
-- The SEC told the NYT that political favoritism played no role. Atkins testified that no one in Trump's circle asked him to take or decline an enforcement action.
+- The SEC told the NYT that political favoritism played no role.
+  - Atkins testified that no one in Trump's circle asked him to take or decline an enforcement action.
 - Crypto.com says its SEC probe closed for lack of merit, with 'absolutely no connection' to its political activity, and that Miller had no involvement.
 - Robinhood's chief legal and compliance officer, Dan Gallagher, said the probe 'never should have been opened.'
-- Non-donor firms (Uniswap, OpenSea, Yuga Labs, Immutable) also had probes closed, which supports the policy-shift explanation. The SEC still settled some matters with payments, e.g. Rainberry's $10M in the Justin Sun case (Mar 2026), and Ripple's $125M judgment stands.
-- Public Citizen and House Democrats are partisan or advocacy sources. Their 'pay-to-play' framing is an inference, and Public Citizen notes that inclusion in its tracker does not mean proven misconduct.
-- Public Citizen's analysis of MAGA Inc.'s first-half 2025 filing also lists Gemini giving $1.5M in April 2025, plus $1M from the Winklevoss twins in Jan 2025. Whether the 1.5M USDC in the January 2026 filing is a separate gift has not been checked against FEC itemized records.
+- Non-donor firms (Uniswap, OpenSea, Yuga Labs, Immutable) also had probes closed, which supports the policy-shift explanation.
+  - The SEC still settled some matters with payments, e.g. Rainberry's $10M in the Justin Sun case (Mar 2026), and Ripple's $125M judgment stands.
+- Public Citizen and House Democrats are partisan or advocacy sources.
+  - Their 'pay-to-play' framing is an inference, and Public Citizen notes that inclusion in its tracker does not mean proven misconduct.
+- Public Citizen's analysis of MAGA Inc.'s first-half 2025 filing also lists Gemini giving $1.5M in April 2025, plus $1M from the Winklevoss twins in Jan 2025.
+  - Whether the 1.5M USDC in the January 2026 filing is a separate gift has not been checked against FEC itemized records.
 
 ## People and organisations
 
-- [[Binance]]
-- [[Cameron Winklevoss]]
-- [[Changpeng Zhao]]
-- [[Coinbase]]
-- [[Commodity Futures Trading Commission]]
-- [[Crypto.com]]
-- [[Dan Gallagher]]
-- [[Donald Trump]]
-- [[Gemini]]
-- [[Hester Peirce]]
-- [[Immutable]]
-- [[Jeff Miller]]
-- [[Justin Sun]]
-- [[Karoline Leavitt]]
-- [[Kraken]]
-- [[MAGA Inc]]
-- [[Maxine Waters]]
-- [[Miller Strategies]]
-- [[OpenSea]]
-- [[Paul Atkins]]
-- [[Public Citizen]]
-- [[Rainberry]]
-- [[Ripple]]
-- [[Robinhood Markets]]
-- [[Securities and Exchange Commission]]
-- [[Sylvia Garcia]]
-- [[The New York Times]]
-- [[Trump Media & Technology Group]]
-- [[Trump-Vance Inaugural Committee]]
-- [[Tyler Winklevoss]]
-- [[Uniswap Labs]]
-- [[US Congress]]
-- [[White House Trump administration]]
-- [[World Liberty Financial]]
-- [[Yuga Labs]]
+- [[Binance]] · Company
+- [[Cameron Winklevoss]] · Person
+- [[Changpeng Zhao]] · Person
+- [[Coinbase]] · Company
+- [[Commodity Futures Trading Commission]] · Government body
+- [[Crypto.com]] · Company
+- [[Dan Gallagher]] · Person
+- [[Donald Trump]] · Person
+- [[Gemini]] · Company
+- [[Hester Peirce]] · Person
+- [[Immutable]] · Company
+- [[Jeff Miller]] · Person
+- [[Justin Sun]] · Person
+- [[Karoline Leavitt]] · Person
+- [[Kraken]] · Company
+- [[MAGA Inc]] · Fund
+- [[Maxine Waters]] · Person
+- [[Miller Strategies]] · Company
+- [[OpenSea]] · Company
+- [[Paul Atkins]] · Person
+- [[Public Citizen]] · Company
+- [[Rainberry]] · Company
+- [[Ripple]] · Company
+- [[Robinhood Markets]] · Company
+- [[Securities and Exchange Commission]] · Government body
+- [[Sylvia Garcia]] · Person
+- [[The New York Times]] · Media
+- [[Trump Media & Technology Group]] · Company
+- [[Trump-Vance Inaugural Committee]] · Fund
+- [[Tyler Winklevoss]] · Person
+- [[Uniswap Labs]] · Company
+- [[US Congress]] · Government body
+- [[White House Trump administration]] · Government body
+- [[World Liberty Financial]] · Company
+- [[Yuga Labs]] · Company
 
 ## Relationships documented
 
-- [[Cameron Winklevoss]] *co-founder of* [[Gemini]] (ownership) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Cameron Winklevoss]] *gave >$5M in BTC to* [[MAGA Inc]] (2026-06-19, $5M, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Commodity Futures Trading Commission]] *joined motion to vacate $5M consent judgment* [[Gemini]] (2026-05-28, $5M, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Changpeng Zhao]] *founder of* [[Binance]] (ownership) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Crypto.com]] *increased lobbying payments to (AP)* [[Jeff Miller]] (2024-12, commercial) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Crypto.com]] *gave $20M (two $10M gifts via Foris DAX) in filing period* [[MAGA Inc]] (2025-10, $20M, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Crypto.com]] *CRO-treasury deal partner of* [[Trump Media & Technology Group]] (2025-08, commercial) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Dan Gallagher]] *chief legal and compliance officer of* [[Robinhood Markets]] (commercial) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Donald Trump]] *appointed* [[Paul Atkins]] (2025, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Gemini]] *donated 1.5M USDC to* [[MAGA Inc]] (2025-12, $1.5M, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Hester Peirce]] *led Crypto Task Force at* [[Securities and Exchange Commission]] (2025-01, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Jeff Miller]] *runs* [[Miller Strategies]] (ownership) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[Securities and Exchange Commission]] (2025, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Jeff Miller]] *finance chair of inaugural festivities* [[Trump-Vance Inaugural Committee]] (2025-01, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[White House Trump administration]] (2025, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Justin Sun]] *investor in* [[World Liberty Financial]] (2024-11, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Karoline Leavitt]] *press secretary of* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[MAGA Inc]] *super PAC supporting* [[Donald Trump]] (political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Maxine Waters]] *alleged 'pay-to-play' in letter to* [[Securities and Exchange Commission]] (2026-01-15, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Maxine Waters]] *member of* [[US Congress]] (political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[The New York Times]] *found eased ~60% (reportedly 14 of 23) of inherited crypto cases* [[Securities and Exchange Commission]] (2025-12-14, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Paul Atkins]] *chairs* [[Securities and Exchange Commission]] (regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C22 Crypto.com and TMTG|C22]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Public Citizen]] *cited $76.1M political influence spending by* [[Coinbase]] ($76.1M, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Public Citizen]] *cited $55M political influence spending by* [[Ripple]] ($55M, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Public Citizen]] *tracks canceled enforcement (23 crypto actions dropped/halted)* [[Securities and Exchange Commission]] (2025, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Rainberry]] *agreed to pay $10M penalty to* [[Securities and Exchange Commission]] (2026-03-05, $10M, legal) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Robinhood Markets]] *donated $2M to* [[Trump-Vance Inaugural Committee]] (2025-01, $2M, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Binance]] (2025-05-29, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Coinbase]] (2025-02-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Securities and Exchange Commission]] *closed investigation; dismissed Earn suit* [[Gemini]] (2025-02-26, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *closed investigation* [[Immutable]] (2025-03-25, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *paused, then dismissed claims against* [[Justin Sun]] (2026-03-05, legal) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *closed investigation* [[OpenSea]] (2025-02-21, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *dropped appeal* [[Ripple]] (2025-08-07, legal) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *closed crypto investigation with no action* [[Robinhood Markets]] (2025-02-21, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *closed investigation with no action* [[Uniswap Labs]] (2025-02-25, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *closed investigation* [[Yuga Labs]] (2025-03-03, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Sylvia Garcia]] *questioned at hearing* [[Paul Atkins]] (2026-02-11, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Trump-Vance Inaugural Committee]] *inaugural fund for* [[Donald Trump]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Tyler Winklevoss]] *co-founder of* [[Gemini]] (ownership) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Tyler Winklevoss]] *gave >$5M in BTC to* [[MAGA Inc]] (2026-06-19, $5M, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+### Money (6)
 
-## Leads not covered by the video
+- [[Justin Sun]] *investor in* [[World Liberty Financial]] · 2024-11 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Robinhood Markets]] *donated $2M to* [[Trump-Vance Inaugural Committee]] · 2025-01 · $2M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Crypto.com]] *gave $20M (two $10M gifts via Foris DAX) in filing period* [[MAGA Inc]] · 2025-10 · $20M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Gemini]] *donated 1.5M USDC to* [[MAGA Inc]] · 2025-12 · $1.5M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Cameron Winklevoss]] *gave >$5M in BTC to* [[MAGA Inc]] · 2026-06-19 · $5M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Tyler Winklevoss]] *gave >$5M in BTC to* [[MAGA Inc]] · 2026-06-19 · $5M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 
-- **Gemini's CFTC consent-judgment vacatur bid and the Winklevoss $10M BTC gift to MAGA Inc.**: The CFTC joined Gemini's bid to erase a $5M penalty; 23 days later the Winklevoss twins gave over $10M to MAGA Inc. A judge reportedly denied the bid in Oct 2026. [source](https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/) · [[Commodity Futures Trading Commission]] [[Gemini]] [[Cameron Winklevoss]] [[Tyler Winklevoss]] [[MAGA Inc]]
-- **SEC settles Justin Sun case: Rainberry pays $10M, all claims against Sun dismissed**: A WLF investor's SEC case was paused after his Trump-venture purchases and then resolved with no personal penalty. Whether the court approved it is unconfirmed. [source](https://www.crowdfundinsider.com/2026/03/265302-sec-permanently-dismisses-claims-against-justin-sun-and-tron-foundation-bittorrent-dev-rainberry-to-pay-10m-fine/) · [[Securities and Exchange Commission]] [[Justin Sun]] [[Rainberry]] [[World Liberty Financial]]
-- **Sudden resignation of the SEC enforcement director (Mar 2026) and Blumenthal's inquiry into whether crypto cases were involved**: Possible internal dissent over the crypto enforcement retreat. [source](https://www.thinkadvisor.com/amp/2026/03/30/senator-seeks-answers-on-sec-enforcement-heads-sudden-resignation/) · [[Securities and Exchange Commission]] [[US Congress]]
-- **Gemini hires Miller Strategies, the Trump-linked lobbying firm also tied to Crypto.com**: The same Trump-connected lobbyist network appears at two exchanges whose enforcement was eased. [source](https://legis1.com/news/crypto-regulation-lobbying-gemini) · [[Gemini]] [[Miller Strategies]] [[Jeff Miller]] [[Crypto.com]]
-- **Kraken and Blockchain.com hire Trump-tied Ballard Partners**: Kraken's SEC suit was dismissed in Mar 2025 after it hired Ballard (Dec 2024, $60K with Blockchain.com). [source](https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html) · [[Kraken]] [[Securities and Exchange Commission]]
+### Ownership (4)
 
-## Sources
+- [[Cameron Winklevoss]] *co-founder of* [[Gemini]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Changpeng Zhao]] *founder of* [[Binance]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Jeff Miller]] *runs* [[Miller Strategies]] · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Tyler Winklevoss]] *co-founder of* [[Gemini]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Regulatory (12)
+
+- [[Hester Peirce]] *led Crypto Task Force at* [[Securities and Exchange Commission]] · 2025-01 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *closed investigation* [[OpenSea]] · 2025-02-21 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *closed crypto investigation with no action* [[Robinhood Markets]] · 2025-02-21 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *closed investigation with no action* [[Uniswap Labs]] · 2025-02-25 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *closed investigation; dismissed Earn suit* [[Gemini]] · 2025-02-26 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Coinbase]] · 2025-02-27 · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *closed investigation* [[Yuga Labs]] · 2025-03-03 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *closed investigation* [[Immutable]] · 2025-03-25 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] · 2025-03-27 · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Binance]] · 2025-05-29 · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Commodity Futures Trading Commission]] *joined motion to vacate $5M consent judgment* [[Gemini]] · 2026-05-28 · $5M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Paul Atkins]] *chairs* [[Securities and Exchange Commission]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C22 Crypto.com and TMTG|C22]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Political (10)
+
+- [[Donald Trump]] *appointed* [[Paul Atkins]] · 2025 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[Securities and Exchange Commission]] · 2025 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[White House Trump administration]] · 2025 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Jeff Miller]] *finance chair of inaugural festivities* [[Trump-Vance Inaugural Committee]] · 2025-01 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Maxine Waters]] *alleged 'pay-to-play' in letter to* [[Securities and Exchange Commission]] · 2026-01-15 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Sylvia Garcia]] *questioned at hearing* [[Paul Atkins]] · 2026-02-11 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Karoline Leavitt]] *press secretary of* [[White House Trump administration]] · [[C03 Dinner for top $TRUMP holders|C03]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[MAGA Inc]] *super PAC supporting* [[Donald Trump]] · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Maxine Waters]] *member of* [[US Congress]] · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Trump-Vance Inaugural Committee]] *inaugural fund for* [[Donald Trump]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Legal (3)
+
+- [[Securities and Exchange Commission]] *dropped appeal* [[Ripple]] · 2025-08-07 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Rainberry]] *agreed to pay $10M penalty to* [[Securities and Exchange Commission]] · 2026-03-05 · $10M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *paused, then dismissed claims against* [[Justin Sun]] · 2026-03-05 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Media (4)
+
+- [[Public Citizen]] *tracks canceled enforcement (23 crypto actions dropped/halted)* [[Securities and Exchange Commission]] · 2025 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[The New York Times]] *found eased ~60% (reportedly 14 of 23) of inherited crypto cases* [[Securities and Exchange Commission]] · 2025-12-14 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Public Citizen]] *cited $76.1M political influence spending by* [[Coinbase]] · $76.1M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Public Citizen]] *cited $55M political influence spending by* [[Ripple]] · $55M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Commercial (3)
+
+- [[Crypto.com]] *increased lobbying payments to (AP)* [[Jeff Miller]] · 2024-12 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Crypto.com]] *CRO-treasury deal partner of* [[Trump Media & Technology Group]] · 2025-08 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Dan Gallagher]] *chief legal and compliance officer of* [[Robinhood Markets]] · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+## Leads not covered here
+
+- **Gemini's CFTC consent-judgment vacatur bid and the Winklevoss $10M BTC gift to MAGA Inc.**
+  - The CFTC joined Gemini's bid to erase a $5M penalty; 23 days later the Winklevoss twins gave over $10M to MAGA Inc. A judge reportedly denied the bid in Oct 2026.
+  - [[Commodity Futures Trading Commission]] [[Gemini]] [[Cameron Winklevoss]] [[Tyler Winklevoss]] [[MAGA Inc]] · [Source](https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/)
+- **SEC settles Justin Sun case: Rainberry pays $10M, all claims against Sun dismissed**
+  - A WLF investor's SEC case was paused after his Trump-venture purchases and then resolved with no personal penalty.
+  - Whether the court approved it is unconfirmed.
+  - [[Securities and Exchange Commission]] [[Justin Sun]] [[Rainberry]] [[World Liberty Financial]] · [Source](https://www.crowdfundinsider.com/2026/03/265302-sec-permanently-dismisses-claims-against-justin-sun-and-tron-foundation-bittorrent-dev-rainberry-to-pay-10m-fine/)
+- **Sudden resignation of the SEC enforcement director (Mar 2026) and Blumenthal's inquiry into whether crypto cases were involved**
+  - Possible internal dissent over the crypto enforcement retreat.
+  - [[Securities and Exchange Commission]] [[US Congress]] · [Source](https://www.thinkadvisor.com/amp/2026/03/30/senator-seeks-answers-on-sec-enforcement-heads-sudden-resignation/)
+- **Gemini hires Miller Strategies, the Trump-linked lobbying firm also tied to Crypto.com**
+  - The same Trump-connected lobbyist network appears at two exchanges whose enforcement was eased.
+  - [[Gemini]] [[Miller Strategies]] [[Jeff Miller]] [[Crypto.com]] · [Source](https://legis1.com/news/crypto-regulation-lobbying-gemini)
+- **Kraken and Blockchain.com hire Trump-tied Ballard Partners**
+  - Kraken's SEC suit was dismissed in Mar 2025 after it hired Ballard (Dec 2024, $60K with Blockchain.com).
+  - [[Kraken]] [[Securities and Exchange Commission]] · [Source](https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html)
+
+## Sources (25)
 
 1. [SEC has dismissed or paused most crypto enforcement cases under Trump: Report](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped) (Cointelegraph, 2025-12-15)
 2. [SEC Dropped 60% of Crypto Cases After Trump Returned to Office, NYT Finds](https://yellow.com/news/sec-dropped-60-of-crypto-cases-after-trump-returned-to-office-nyt-finds) (Yellow.com, 2025-12)

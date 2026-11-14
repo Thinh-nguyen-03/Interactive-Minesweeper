@@ -10,9 +10,13 @@ tags:
 ---
 # Tau-Ken Samruk
 
-*company*
-
 Kazakh state miner holding 30% of the project.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Kazakh state miner holding 30% of the project.
 
 ## Relationships
 
-- [[Tau-Ken Samruk]] *30% partner in tungsten project* [[Kaz Resources]] (ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+### Ownership (1)
+
+- [[Tau-Ken Samruk]] *30% partner in tungsten project* [[Kaz Resources]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]

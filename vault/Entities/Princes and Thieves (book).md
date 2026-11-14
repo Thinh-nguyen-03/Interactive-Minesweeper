@@ -12,23 +12,40 @@ tags:
 ---
 # Princes and Thieves (book)
 
-*media*
-
 Cole's 2026 book (Simon & Schuster/Atria) alleging the phone hack and secret Gulf-funded accounts.
+
+> [!warning] Appears in only an unverified, single-source allegation ([[C37 Jared Kushner's hacked phone|C37]], [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]). Nothing in it has been independently corroborated.
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 2 claims |
+| Connections | 8 |
+| Also known as | Princes and Thieves |
+
+## How other claims describe it
 
 - Cole's 2026 book (Atria/One Signal, Simon & Schuster), released early on 26 Oct 2026.
 
 ## Appears in claims
 
-- [[C37 Jared Kushner's hacked phone]] · Unverified
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
-- [[Anna Kelly]] *called reporting 'baseless smears'* [[Princes and Thieves (book)]] (2026-10, political) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[Barak Ravid]] *publicly questioned Bank of Israel claim in* [[Princes and Thieves (book)]] (2026-10, media) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[The Jerusalem Post]] *pulled write-up citing 'significant factual questions' about (per Mediaite)* [[Princes and Thieves (book)]] (2026-10, media) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[Matthew Cole]] *author of* [[Princes and Thieves (book)]] (2026, media) · [[C37 Jared Kushner's hacked phone|C37]]
-- [[Simon & Schuster]] *published (released early 26 Oct)* [[Princes and Thieves (book)]] (2026-10-26, commercial) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[Simon & Schuster]] *publisher of* [[Princes and Thieves (book)]] (2026, commercial) · [[C37 Jared Kushner's hacked phone|C37]]
-- [[Vanity Fair (Condé Nast)]] *published excerpt of* [[Princes and Thieves (book)]] (2026-10-22, media) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
+### Political (1)
+
+- [[Anna Kelly]] *called reporting 'baseless smears'* [[Princes and Thieves (book)]] · 2026-10 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
+
+### Media (4)
+
+- [[Matthew Cole]] *author of* [[Princes and Thieves (book)]] · 2026 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+- [[Barak Ravid]] *publicly questioned Bank of Israel claim in* [[Princes and Thieves (book)]] · 2026-10 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
+- [[The Jerusalem Post]] *pulled write-up citing 'significant factual questions' about (per Mediaite)* [[Princes and Thieves (book)]] · 2026-10 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
+- [[Vanity Fair (Condé Nast)]] *published excerpt of* [[Princes and Thieves (book)]] · 2026-10-22 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
+
+### Commercial (2)
+
+- [[Simon & Schuster]] *publisher of* [[Princes and Thieves (book)]] · 2026 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+- [[Simon & Schuster]] *published (released early 26 Oct)* [[Princes and Thieves (book)]] · 2026-10-26 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation

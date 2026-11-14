@@ -2,22 +2,29 @@
 id: "newsmax"
 kind: "entity"
 type: "media"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/media"
 ---
 # Newsmax
 
-*media*
-
 Conservative channel carried on Truth+
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 2 claims |
+| Connections | 3 |
 
 ## Appears in claims
 
 - [[C21 TMTG's market-moving 'truths' API and Truth+]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Pending
 
 ## Relationships
 
-- [[Newsmax]] *channel carried on* [[Truth+]] (2025-07-07, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+### Commercial (1)
+
+- [[Newsmax]] *channel carried on* [[Truth+]] · 2025-07-07 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]

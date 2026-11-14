@@ -10,9 +10,13 @@ tags:
 ---
 # Leonard Blavatnik
 
-*person*
-
 Billionaire with a reported real-estate tie to Witkoff (Byline Times)
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Billionaire with a reported real-estate tie to Witkoff (Byline Times)
 
 ## Relationships
 
-- [[Leonard Blavatnik]] *reported real-estate partnership (Byline Times)* [[Steve Witkoff]] (2025-12, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
+### Commercial (1)
+
+- [[Leonard Blavatnik]] *reported real-estate partnership (Byline Times)* [[Steve Witkoff]] · 2025-12 · [[C53 The Witkoff family's own Gulf money|C53]]

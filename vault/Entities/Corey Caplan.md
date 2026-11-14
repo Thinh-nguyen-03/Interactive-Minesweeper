@@ -10,9 +10,13 @@ tags:
 ---
 # Corey Caplan
 
-*person*
-
 Dolomite co-founder; WLF adviser/CTO
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Dolomite co-founder; WLF adviser/CTO
 
 ## Relationships
 
-- [[Corey Caplan]] *co-founded* [[Dolomite]] (ownership) · [[C42 How World Liberty insiders took money out|C42]]
-- [[Corey Caplan]] *adviser / reported CTO* [[World Liberty Financial]] (advisory) · [[C42 How World Liberty insiders took money out|C42]]
+### Ownership (1)
+
+- [[Corey Caplan]] *co-founded* [[Dolomite]] · [[C42 How World Liberty insiders took money out|C42]]
+
+### Advisory (1)
+
+- [[Corey Caplan]] *adviser / reported CTO* [[World Liberty Financial]] · [[C42 How World Liberty insiders took money out|C42]]

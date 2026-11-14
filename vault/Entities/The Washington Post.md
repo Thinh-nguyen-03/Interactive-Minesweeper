@@ -10,9 +10,13 @@ tags:
 ---
 # The Washington Post
 
-*media*
-
 Bezos-owned paper; opinion section refocused on 'personal liberties and free markets' in Feb 2025.
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Bezos-owned paper; opinion section refocused on 'personal liberties and free mar
 
 ## Relationships
 
-- [[Jeff Bezos]] *owns; refocused opinion section* [[The Washington Post]] (2025-02-26, media) · [[C44 Melania Trump's Amazon documentary deal|C44]]
+### Media (1)
+
+- [[Jeff Bezos]] *owns; refocused opinion section* [[The Washington Post]] · 2025-02-26 · [[C44 Melania Trump's Amazon documentary deal|C44]]

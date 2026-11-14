@@ -10,9 +10,13 @@ tags:
 ---
 # Lara Trump
 
-*person*
-
 Eric Trump's wife; Fox News host; ex-RNC co-chair
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Eric Trump's wife; Fox News host; ex-RNC co-chair
 
 ## Relationships
 
-- [[Lara Trump]] *married to* [[Eric Trump]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Lara Trump]] *hosts 'My View with Lara Trump'* [[Fox News]] (2025-02-22, media) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Family (1)
+
+- [[Lara Trump]] *married to* [[Eric Trump]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+
+### Media (1)
+
+- [[Lara Trump]] *hosts 'My View with Lara Trump'* [[Fox News]] · 2025-02-22 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

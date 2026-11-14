@@ -10,9 +10,13 @@ tags:
 ---
 # Andrew Pierce
 
-*person*
-
 Sheridan paralegal; registered agent of 45Footwear and organizer of TheBestWatchesOnEarth
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,11 @@ Sheridan paralegal; registered agent of 45Footwear and organizer of TheBestWatch
 
 ## Relationships
 
-- [[Andrew Pierce]] *registered agent of* [[45Footwear LLC]] (2024-01-31, legal) · [[C63 Shell entities and ownership chains|C63]]
-- [[Andrew Pierce]] *paralegal at* [[Cloud Peak Law Group Wyoming Trust and LLC]] (commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Andrew Pierce]] *organizer of* [[TheBestWatchesOnEarth LLC]] (2024, legal) · [[C63 Shell entities and ownership chains|C63]]
+### Legal (2)
+
+- [[Andrew Pierce]] *organizer of* [[TheBestWatchesOnEarth LLC]] · 2024 · [[C63 Shell entities and ownership chains|C63]]
+- [[Andrew Pierce]] *registered agent of* [[45Footwear LLC]] · 2024-01-31 · [[C63 Shell entities and ownership chains|C63]]
+
+### Commercial (1)
+
+- [[Andrew Pierce]] *paralegal at* [[Cloud Peak Law Group Wyoming Trust and LLC]] · [[C63 Shell entities and ownership chains|C63]]

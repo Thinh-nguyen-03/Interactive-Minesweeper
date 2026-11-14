@@ -15,7 +15,41 @@ tags:
 ---
 # C23: SEC drops crypto-exchange cases; donors
 
-**Verdict:** Mostly accurate (confidence: high)
+**Verdict:** Mostly accurate · high confidence  
+**Origin:** Claim from the video · transcript lines 139,651-655
+
+## Bottom line
+
+The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar 27, 2025), Binance (May 29, 2025) and Gemini (investigation closed Feb 2025; Earn suit dismissed Jan 2026), plus many other crypto matters.
+
+## What holds up
+
+- Coinbase, Kraken, Binance and Gemini all faced SEC enforcement.
+- The cases were dropped one by one, very shortly after Trump took office (mostly accurate)
+- Multiple of these exchanges gave $1M or more to Trump's campaign or inauguration fund (mostly accurate)
+- They sponsored the White House ballroom.
+
+## What needs correcting
+
+- Over a dozen lawsuits against cryptocurrency exchanges were dropped (partly accurate)
+- They sponsored Trump's military parade (partly accurate)
+- **Video said:** The cases were dropped 'very shortly after Trump took office'  
+  **Record shows:** Coinbase, Kraken and the Gemini investigation fell within about 10 weeks, but Binance's dismissal came in May 2025, Ripple's in August 2025 (with the $125M penalty upheld), and the Gemini Earn suit's in January 2026.
+- **Video said:** 'over a dozen lawsuits against cryptocurrency exchanges'  
+  **Record shows:** The SEC formally dismissed about 7-8 crypto lawsuits. Counts above a dozen (Decrypt: at least 17) include closed investigations and non-exchange firms.
+- Gemini's $1M gifts were personal 2024 campaign contributions from the Winklevoss twins, partly refunded as over the limit, not donations from the company to the inauguration.
+- No Binance donation to Trump's campaign or inauguration was found; Binance's Trump links run through the MGX/USD1 deal and the CZ pardon.
+- Of the exchanges, only Coinbase is documented as a sponsor of the military parade.
+
+## What is unproven
+
+- The dismissals coincide with what looks like quid-pro-quo deals.
+
+## In more detail
+
+- Coinbase, Kraken, Crypto.com and Ripple each gave $1M or more to the inauguration, the Winklevoss twins gave about $1M each to the 2024 campaign (the excess was refunded), Coinbase sponsored the Army parade, and Coinbase, Ripple, Tether and the Winklevosses gave to the ballroom.
+- The video overstates it in three ways: some dismissals came months later; formal lawsuit dismissals number about 7-8 (over a dozen only if closed probes are counted); and no Binance donation was found.
+- The quid-pro-quo framing rests on timing, not on proof, and the SEC denies any political favoritism.
 
 ## What the video said
 
@@ -28,62 +62,89 @@ tags:
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 
-## Summary
-
-The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar 27, 2025), Binance (May 29, 2025) and Gemini (investigation closed Feb 2025; Earn suit dismissed Jan 2026), plus many other crypto matters. Coinbase, Kraken, Crypto.com and Ripple each gave $1M or more to the inauguration, the Winklevoss twins gave about $1M each to the 2024 campaign (the excess was refunded), Coinbase sponsored the Army parade, and Coinbase, Ripple, Tether and the Winklevosses gave to the ballroom. The video overstates it in three ways: some dismissals came months later; formal lawsuit dismissals number about 7-8 (over a dozen only if closed probes are counted); and no Binance donation was found. The quid-pro-quo framing rests on timing, not on proof, and the SEC denies any political favoritism.
-
 ## Sub-claims
 
-- **Confirmed**: Coinbase, Kraken, Binance and Gemini all faced SEC enforcement.
-  - The SEC sued Coinbase (Jun 2023), Kraken/Payward (Nov 2023), Binance and Zhao (Jun 2023), and Gemini over Gemini Earn (Jan 2023). Gemini also faced a separate investigation, with a Wells notice in 2024.
-  - <https://www.theblock.co/post/343835/coinbase-case-officially-dropped-by-sec>
-  - <https://www.theblock.co/post/348606/sec-formally-dismisses-enforcement-action-against-kraken-consensys-cumberland-drw>
-  - <https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316>
-  - <https://www.theblock.co/news/business/2026-01-24-sec-to-dismiss-gemini-earn-lawsuit-with-prejudice-after-full-investor-recovery-ending-three-year-battle-386931>
-  - <https://theblock.co/news/regulation/2025-02-26-sec-closes-investigation-into-crypto-exchange-gemini-cameron-winklevoss-says-343643>
-- **Mostly accurate**: The cases were dropped one by one, very shortly after Trump took office.
-  - Coinbase was dismissed with prejudice on Feb 27, 2025. Gemini's investigation was closed on Feb 26, 2025. Kraken was dismissed with prejudice on Mar 27, 2025, together with Consensys and Cumberland. Binance was stayed in Feb 2025 and dismissed with prejudice on May 29, 2025. Ripple's appeals were dropped on Aug 7, 2025, with the $125M judgment intact. The Gemini Earn suit was dismissed by stipulation on Jan 23, 2026. The first wave came within weeks; other cases took months, up to a year.
-  - <https://sec.gov/newsroom/press-releases/2025-47>
-  - <https://www.theblock.co/post/348606/sec-formally-dismisses-enforcement-action-against-kraken-consensys-cumberland-drw>
-  - <https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316>
-  - <https://theblock.co/news/regulation/2025-02-26-sec-closes-investigation-into-crypto-exchange-gemini-cameron-winklevoss-says-343643>
-  - <https://www.theblock.co/news/business/2026-01-24-sec-to-dismiss-gemini-earn-lawsuit-with-prejudice-after-full-investor-recovery-ending-three-year-battle-386931>
-  - <https://cointelegraph.com/news/sec-ripple-drop-appeals-enforcement-action>
-- **Partly accurate**: Over a dozen lawsuits against cryptocurrency exchanges were dropped.
-  - The SEC's own FY2025 accounting lists 7 crypto enforcement actions dismissed between Feb and May 2025: Coinbase, Binance, Cumberland, Consensys, Kraken, Dragonchain and Balina. Gemini Earn was added in Jan 2026. Decrypt counts at least 17 firms once closed probes are included (Robinhood, Uniswap, OpenSea, Crypto.com, Yuga, Gemini). The NYT, as reported secondhand, found about 60% of inherited crypto cases paused, dropped or dismissed. Over a dozen holds for crypto companies and probes combined, but not for lawsuits against exchanges specifically.
-  - <https://decrypt.co/356030/how-the-sec-is-handling-crypto-cases-12-months-into-trumps-presidency>
-  - <https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped>
-- **Mostly accurate**: Multiple of these exchanges gave $1M or more to Trump's campaign or inauguration fund.
-  - Coinbase, Kraken and Crypto.com each gave $1M to the inaugural committee, and Ripple gave about $4.9-5M in XRP. Cameron and Tyler Winklevoss (Gemini) each gave about $1M in BTC to the Trump campaign in Jun 2024; about $155K each over the $844,600 limit was refunded. No Binance contribution to the campaign or inauguration was found.
-  - <https://www.bloomberg.com/news/articles/2025-01-31/trump-raised-millions-from-crypto-firms-for-his-inauguration>
-  - <https://decrypt.co/300274/every-crypto-firm-donated-donald-trump-inauguration>
-  - <https://bnnbloomberg.ca/business/company-news/2024/12/20/crypto-companies-kraken-ripple-ondo-donate-to-trumps-inauguration>
-  - <https://www.bloomberg.com/news/articles/2024-06-21/winklevoss-twins-refunded-after-trump-crypto-gift-exceeded-limit>
-- **Partly accurate**: They sponsored Trump's military parade.
-  - Coinbase was a named sponsor of the June 14, 2025 Army 250th parade and festival, via a donation to the nonpartisan America250. No other exchange was found among the sponsors. Total sponsorship was reported at about $885K.
-  - <https://www.mediaite.com/media/tv/trumps-military-parade-gives-shoutouts-to-corporate-donors-special-thanks-to-our-sponsor-coinbase>
-  - <https://dc.fortune.com/crypto/2025/06/16/coinbase-faces-crypto-backlash-over-sponsoring-military-parade-in-d-c>
-- **Confirmed**: They sponsored the White House ballroom.
-  - The White House's Oct 2025 list of 37 ballroom donors includes Coinbase, Ripple, Tether America, and Cameron and Tyler Winklevoss. Kraken and Binance were not found on it.
-  - <https://www.theblock.co/post/376062/crypto-donors-trump-white-house-ballroom>
-  - <https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/>
-- **Unverified**: The dismissals coincide with what looks like quid-pro-quo deals.
-  - The donations and the timing are documented. No evidence was found that any dismissal was exchanged for a donation. The SEC cites policy and discretion, and firms with no known Trump donations (Uniswap, OpenSea) also had their probes dropped.
-  - <https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped>
-  - <https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/>
+### 1. Coinbase, Kraken, Binance and Gemini all faced SEC enforcement.
 
-## Corrections
+**Confirmed**
 
-- Transcript says the cases were dropped 'very shortly after Trump took office'. Coinbase, Kraken and the Gemini investigation fell within about 10 weeks, but Binance's dismissal came in May 2025, Ripple's in August 2025 (with the $125M penalty upheld), and the Gemini Earn suit's in January 2026.
-- Transcript says 'over a dozen lawsuits against cryptocurrency exchanges'. The SEC formally dismissed about 7-8 crypto lawsuits. Counts above a dozen (Decrypt: at least 17) include closed investigations and non-exchange firms.
-- Gemini's $1M gifts were personal 2024 campaign contributions from the Winklevoss twins, partly refunded as over the limit, not donations from the company to the inauguration.
-- No Binance donation to Trump's campaign or inauguration was found; Binance's Trump links run through the MGX/USD1 deal and the CZ pardon.
-- Of the exchanges, only Coinbase is documented as a sponsor of the military parade.
+- The SEC sued Coinbase (Jun 2023), Kraken/Payward (Nov 2023), Binance and Zhao (Jun 2023), and Gemini over Gemini Earn (Jan 2023).
+- Gemini also faced a separate investigation, with a Wells notice in 2024.
+- Dates: Jun 2023; Nov 2023; Jan 2023
+- Sources: [2](https://www.theblock.co/post/343835/coinbase-case-officially-dropped-by-sec) [3](https://www.theblock.co/post/348606/sec-formally-dismisses-enforcement-action-against-kraken-consensys-cumberland-drw) [4](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316) [7](https://www.theblock.co/news/business/2026-01-24-sec-to-dismiss-gemini-earn-lawsuit-with-prejudice-after-full-investor-recovery-ending-three-year-battle-386931) [6](https://theblock.co/news/regulation/2025-02-26-sec-closes-investigation-into-crypto-exchange-gemini-cameron-winklevoss-says-343643)
+
+### 2. The cases were dropped one by one, very shortly after Trump took office.
+
+**Mostly accurate**
+
+- Coinbase was dismissed with prejudice on Feb 27, 2025.
+- Gemini's investigation was closed on Feb 26, 2025.
+- Kraken was dismissed with prejudice on Mar 27, 2025, together with Consensys and Cumberland.
+- Binance was stayed in Feb 2025 and dismissed with prejudice on May 29, 2025.
+- Ripple's appeals were dropped on Aug 7, 2025, with the $125M judgment intact.
+- The Gemini Earn suit was dismissed by stipulation on Jan 23, 2026.
+- The first wave came within weeks; other cases took months, up to a year.
+- Amounts: $125M
+- Dates: Feb 27, 2025; Feb 26, 2025; Mar 27, 2025; Feb 2025; May 29, 2025
+- Sources: [1](https://sec.gov/newsroom/press-releases/2025-47) [3](https://www.theblock.co/post/348606/sec-formally-dismisses-enforcement-action-against-kraken-consensys-cumberland-drw) [4](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316) [6](https://theblock.co/news/regulation/2025-02-26-sec-closes-investigation-into-crypto-exchange-gemini-cameron-winklevoss-says-343643) [7](https://www.theblock.co/news/business/2026-01-24-sec-to-dismiss-gemini-earn-lawsuit-with-prejudice-after-full-investor-recovery-ending-three-year-battle-386931) [9](https://cointelegraph.com/news/sec-ripple-drop-appeals-enforcement-action)
+
+### 3. Over a dozen lawsuits against cryptocurrency exchanges were dropped.
+
+**Partly accurate**
+
+- The SEC's own FY2025 accounting lists 7 crypto enforcement actions dismissed between Feb and May 2025: Coinbase, Binance, Cumberland, Consensys, Kraken, Dragonchain and Balina.
+- Gemini Earn was added in Jan 2026.
+- Decrypt counts at least 17 firms once closed probes are included (Robinhood, Uniswap, OpenSea, Crypto.com, Yuga, Gemini).
+- The NYT, as reported secondhand, found about 60% of inherited crypto cases paused, dropped or dismissed.
+- Over a dozen holds for crypto companies and probes combined, but not for lawsuits against exchanges specifically.
+- Amounts: about 60%
+- Dates: May 2025; Jan 2026
+- Sources: [10](https://decrypt.co/356030/how-the-sec-is-handling-crypto-cases-12-months-into-trumps-presidency) [11](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped)
+
+### 4. Multiple of these exchanges gave $1M or more to Trump's campaign or inauguration fund.
+
+**Mostly accurate**
+
+- Coinbase, Kraken and Crypto.com each gave $1M to the inaugural committee, and Ripple gave about $4.9-5M in XRP.
+- Cameron and Tyler Winklevoss (Gemini) each gave about $1M in BTC to the Trump campaign in Jun 2024; about $155K each over the $844,600 limit was refunded.
+- No Binance contribution to the campaign or inauguration was found.
+- Amounts: $1M; about $4.9-5M; about $1M; about $155K; $844,600
+- Dates: Jun 2024
+- Sources: [12](https://www.bloomberg.com/news/articles/2025-01-31/trump-raised-millions-from-crypto-firms-for-his-inauguration) [13](https://decrypt.co/300274/every-crypto-firm-donated-donald-trump-inauguration) [14](https://bnnbloomberg.ca/business/company-news/2024/12/20/crypto-companies-kraken-ripple-ondo-donate-to-trumps-inauguration) [15](https://www.bloomberg.com/news/articles/2024-06-21/winklevoss-twins-refunded-after-trump-crypto-gift-exceeded-limit)
+
+### 5. They sponsored Trump's military parade.
+
+**Partly accurate**
+
+- Coinbase was a named sponsor of the June 14, 2025 Army 250th parade and festival, via a donation to the nonpartisan America250.
+- No other exchange was found among the sponsors.
+- Total sponsorship was reported at about $885K.
+- Amounts: about $885K
+- Dates: June 14, 2025
+- Sources: [16](https://www.mediaite.com/media/tv/trumps-military-parade-gives-shoutouts-to-corporate-donors-special-thanks-to-our-sponsor-coinbase) [17](https://dc.fortune.com/crypto/2025/06/16/coinbase-faces-crypto-backlash-over-sponsoring-military-parade-in-d-c)
+
+### 6. They sponsored the White House ballroom.
+
+**Confirmed**
+
+- The White House's Oct 2025 list of 37 ballroom donors includes Coinbase, Ripple, Tether America, and Cameron and Tyler Winklevoss.
+- Kraken and Binance were not found on it.
+- Dates: Oct 2025
+- Sources: [18](https://www.theblock.co/post/376062/crypto-donors-trump-white-house-ballroom) [19](https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/)
+
+### 7. The dismissals coincide with what looks like quid-pro-quo deals.
+
+**Unverified** · Evidence: The donations and the timing are documented
+
+- No evidence was found that any dismissal was exchanged for a donation.
+- The SEC cites policy and discretion, and firms with no known Trump donations (Uniswap, OpenSea) also had their probes dropped.
+- Sources: [11](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped) [21](https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/)
 
 ## Denials and context
 
 - The SEC says political favoritism played no role and that its decisions rest on legal and policy considerations; its dismissals cite 'the exercise of its discretion and as a policy matter.'
-- The SEC later acknowledged 'flaws' in its earlier crypto enforcement. The industry calls the Gensler-era cases 'regulation by enforcement', and courts had split on the legal theories (e.g., the Ripple programmatic-sales ruling).
+- The SEC later acknowledged 'flaws' in its earlier crypto enforcement.
+  - The industry calls the Gensler-era cases 'regulation by enforcement', and courts had split on the legal theories (e.g., the Ripple programmatic-sales ruling).
 - The Gemini Earn dismissal followed full return of investor assets through the Genesis bankruptcy, and Gemini had already paid NYAG settlements.
 - The parade sponsorship went through the nonpartisan America250, and the ballroom donor list includes many non-crypto firms.
 - Public Citizen and Democrats argue that crypto's political spending 'paid off'; that is advocacy, not proof of a quid pro quo.
@@ -96,105 +157,137 @@ The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar
 
 ## People and organisations
 
-- [[America250]]
-- [[Army 250th Anniversary Parade]]
-- [[Binance]]
-- [[Cameron Winklevoss]]
-- [[Changpeng Zhao]]
-- [[Coinbase]]
-- [[Consensys]]
-- [[Crypto.com]]
-- [[Cumberland (DRW)]]
-- [[Donald Trump]]
-- [[Gemini]]
-- [[January 2025 inauguration]]
-- [[Kraken]]
-- [[Molly White]]
-- [[Ripple]]
-- [[SEC crypto cases dropped (wave)]]
-- [[SEC enforcement case against Cumberland]]
-- [[SEC fraud case against Justin Sun]]
-- [[SEC investigation into Crypto.com]]
-- [[SEC lawsuit against Binance]]
-- [[Securities and Exchange Commission]]
-- [[Tether]]
-- [[The New York Times]]
-- [[Trump 2024 election campaign]]
-- [[Trump 47 Committee]]
-- [[Trump inauguration fund]]
-- [[Trump military parade]]
-- [[Trump-affiliated PACs]]
-- [[Trump-Vance Inaugural Committee]]
-- [[Tyler Winklevoss]]
-- [[White House Trump administration]]
-- [[White House ballroom]]
+- [[America250]] · Company
+- [[Army 250th Anniversary Parade]] · Event
+- [[Binance]] · Company
+- [[Cameron Winklevoss]] · Person
+- [[Changpeng Zhao]] · Person
+- [[Coinbase]] · Company
+- [[Consensys]] · Company
+- [[Crypto.com]] · Company
+- [[Cumberland (DRW)]] · Company
+- [[Donald Trump]] · Person
+- [[Gemini]] · Company
+- [[January 2025 inauguration]] · Event
+- [[Kraken]] · Company
+- [[Molly White]] · Person
+- [[Ripple]] · Company
+- [[SEC crypto cases dropped (wave)]] · Event
+- [[SEC enforcement case against Cumberland]] · Event
+- [[SEC fraud case against Justin Sun]] · Event
+- [[SEC investigation into Crypto.com]] · Event
+- [[SEC lawsuit against Binance]] · Event
+- [[Securities and Exchange Commission]] · Government body
+- [[Tether]] · Company
+- [[The New York Times]] · Media
+- [[Trump 2024 election campaign]] · Fund
+- [[Trump 47 Committee]] · Fund
+- [[Trump inauguration fund]] · Fund
+- [[Trump military parade]] · Event
+- [[Trump-affiliated PACs]] · Fund
+- [[Trump-Vance Inaugural Committee]] · Fund
+- [[Tyler Winklevoss]] · Person
+- [[White House Trump administration]] · Government body
+- [[White House ballroom]] · Asset
 
 ## Relationships documented
 
-- [[America250]] *organized sponsorship of* [[Army 250th Anniversary Parade]] (2025-06-14, commercial) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Cameron Winklevoss]] *co-founder of* [[Gemini]] (ownership) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Cameron Winklevoss]] *gave ~$1M in BTC (excess refunded)* [[Trump 47 Committee]] (2024-06, $1M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Cameron Winklevoss]] *twin brother of* [[Tyler Winklevoss]] (family) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Cameron Winklevoss]] *donor to* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Changpeng Zhao]] *founder of* [[Binance]] (ownership) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Coinbase]] *donated to (parade sponsorship)* [[America250]] (2025-06, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Coinbase]] *named sponsor of* [[Army 250th Anniversary Parade]] (2025-06-14, commercial) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Coinbase]] *donated $1M to* [[Trump-Vance Inaugural Committee]] (2025-01, $1M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Coinbase]] *donor to* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Crypto.com]] *donated $1M to* [[Trump-Vance Inaugural Committee]] (2025-01, $1M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Donald Trump]] *wanted to hold* [[Trump military parade]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Donald Trump]] *appointed leadership of* [[Securities and Exchange Commission]] (2025, political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Donald Trump]] *appoints leadership of* [[Securities and Exchange Commission]] (political) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Donald Trump]] *commissioned* [[White House ballroom]] (2025, political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Donald Trump]] *wants to build* [[White House ballroom]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Kraken]] *donated $1M to* [[Trump-Vance Inaugural Committee]] (2024-12, $1M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Molly White]] *criticized crypto case dismissals by* [[Securities and Exchange Commission]] (media) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[The New York Times]] *analyzed crypto case outcomes of* [[Securities and Exchange Commission]] (2025-12, media) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Ripple]] *donated ~$4.9-5M in XRP to* [[Trump-Vance Inaugural Committee]] (2024-12, $4.9M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Ripple]] *donor to* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Binance]] (2025-05-29, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *dropped lawsuit against* [[Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Changpeng Zhao]] (2025-05-29, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Coinbase]] (2025-02-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *dropped lawsuit against* [[Coinbase]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dismissed lawsuit* [[Consensys]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Securities and Exchange Commission]] *dismissed lawsuit* [[Cumberland (DRW)]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *closed investigation with no action* [[Gemini]] (2025-02-26, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dropped case against* [[Gemini]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *stipulated dismissal of Gemini Earn suit* [[Gemini]] (2026-01-23, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Kraken]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dropped lawsuit against* [[Kraken]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dropped appeal; $125M judgment stands* [[Ripple]] (2025-08-07, $125.04M, legal) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dropped over a dozen cases in* [[SEC crypto cases dropped (wave)]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *closed with no action* [[SEC investigation into Crypto.com]] (regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dropped* [[SEC lawsuit against Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dismissed with prejudice* [[SEC enforcement case against Cumberland]] (regulatory) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *dismissed* [[SEC fraud case against Justin Sun]] (regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[SEC crypto cases dropped (wave)]] *coincided with sponsorship of* [[Trump military parade]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[SEC crypto cases dropped (wave)]] *coincided with $1M+ donations to* [[Trump 2024 election campaign]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[SEC crypto cases dropped (wave)]] *coincided with donations to* [[Trump inauguration fund]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[SEC crypto cases dropped (wave)]] *coincided with sponsorship of* [[White House ballroom]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[SEC lawsuit against Binance]] *targeted* [[Binance]] (legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Tether]] *donor to (via Tether America)* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Trump 2024 election campaign]] *funded election of* [[Donald Trump]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Trump 47 Committee]] *campaign committee for* [[Donald Trump]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Trump-affiliated PACs]] *support* [[Donald Trump]] (political) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Trump-Vance Inaugural Committee]] *inaugural fund for* [[Donald Trump]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Trump inauguration fund]] *funded* [[January 2025 inauguration]] (money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Tyler Winklevoss]] *co-founder of* [[Gemini]] (ownership) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Tyler Winklevoss]] *gave ~$1M in BTC (excess refunded)* [[Trump 47 Committee]] (2024-06, $1M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Tyler Winklevoss]] *donor to* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[White House Trump administration]] *released donor list for* [[White House ballroom]] (2025-10, political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+### Money (13)
 
-## Leads not covered by the video
+- [[Cameron Winklevoss]] *gave ~$1M in BTC (excess refunded)* [[Trump 47 Committee]] · 2024-06 · $1M · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Tyler Winklevoss]] *gave ~$1M in BTC (excess refunded)* [[Trump 47 Committee]] · 2024-06 · $1M · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Kraken]] *donated $1M to* [[Trump-Vance Inaugural Committee]] · 2024-12 · $1M · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Ripple]] *donated ~$4.9-5M in XRP to* [[Trump-Vance Inaugural Committee]] · 2024-12 · $4.9M · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Coinbase]] *donated $1M to* [[Trump-Vance Inaugural Committee]] · 2025-01 · $1M · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Crypto.com]] *donated $1M to* [[Trump-Vance Inaugural Committee]] · 2025-01 · $1M · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Coinbase]] *donated to (parade sponsorship)* [[America250]] · 2025-06 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Cameron Winklevoss]] *donor to* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Coinbase]] *donor to* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Ripple]] *donor to* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Tether]] *donor to (via Tether America)* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Tyler Winklevoss]] *donor to* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Trump inauguration fund]] *funded* [[January 2025 inauguration]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 
-- **Robinhood: an inaugural donor whose SEC crypto probe was closed in Feb 2025**: Same pattern as the exchanges: Robinhood's SEC crypto investigation was closed early in the term, and search results list Robinhood as an inaugural donor (a reported $2M, not verified here). The video does not cover it. [source](https://decrypt.co/356030/how-the-sec-is-handling-crypto-cases-12-months-into-trumps-presidency) · [[Securities and Exchange Commission]] [[Donald Trump]] [[Trump-Vance Inaugural Committee]]
-- **NYT analysis: SEC eased ~60% of inherited crypto cases, with several tied to Trump donors**: A systematic version of this claim; the full case list and the donor overlaps deserve their own check. [source](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped) · [[The New York Times]] [[Securities and Exchange Commission]] [[Binance]] [[Ripple]] [[Coinbase]]
-- **Tether America among White House ballroom donors**: Stablecoin issuer funding Trump's ballroom while stablecoin law (GENIUS Act) and USD1 competition are in play. [source](https://www.theblock.co/post/376062/crypto-donors-trump-white-house-ballroom) · [[Tether]] [[White House ballroom]] [[GENIUS Act]] [[USD1]]
-- **Public Citizen tracker of halted corporate enforcement actions**: A broader tracker of dropped enforcement, including crypto cases. [source](https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/) · [[Securities and Exchange Commission]] [[Donald Trump]]
+### Ownership (3)
 
-## Sources
+- [[Cameron Winklevoss]] *co-founder of* [[Gemini]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Changpeng Zhao]] *founder of* [[Binance]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Tyler Winklevoss]] *co-founder of* [[Gemini]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Family (1)
+
+- [[Cameron Winklevoss]] *twin brother of* [[Tyler Winklevoss]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Regulatory (18)
+
+- [[Securities and Exchange Commission]] *closed investigation with no action* [[Gemini]] · 2025-02-26 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Coinbase]] · 2025-02-27 · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *dismissed lawsuit* [[Consensys]] · 2025-03-27 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] · 2025-03-27 · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Securities and Exchange Commission]] *dismissed lawsuit* [[Cumberland (DRW)]] · 2025-03-27 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Kraken]] · 2025-03-27 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Binance]] · 2025-05-29 · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Changpeng Zhao]] · 2025-05-29 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *stipulated dismissal of Gemini Earn suit* [[Gemini]] · 2026-01-23 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dropped lawsuit against* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dropped lawsuit against* [[Coinbase]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dropped case against* [[Gemini]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dropped lawsuit against* [[Kraken]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dropped over a dozen cases in* [[SEC crypto cases dropped (wave)]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *closed with no action* [[SEC investigation into Crypto.com]] · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dropped* [[SEC lawsuit against Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dismissed with prejudice* [[SEC enforcement case against Cumberland]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dismissed* [[SEC fraud case against Justin Sun]] · [[C05 Justin Sun, WLF and the SEC|C05]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Political (14)
+
+- [[Donald Trump]] *appointed leadership of* [[Securities and Exchange Commission]] · 2025 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Donald Trump]] *commissioned* [[White House ballroom]] · 2025 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[White House Trump administration]] *released donor list for* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Donald Trump]] *wanted to hold* [[Trump military parade]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Donald Trump]] *appoints leadership of* [[Securities and Exchange Commission]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Donald Trump]] *wants to build* [[White House ballroom]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[SEC crypto cases dropped (wave)]] *coincided with sponsorship of* [[Trump military parade]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[SEC crypto cases dropped (wave)]] *coincided with $1M+ donations to* [[Trump 2024 election campaign]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[SEC crypto cases dropped (wave)]] *coincided with donations to* [[Trump inauguration fund]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[SEC crypto cases dropped (wave)]] *coincided with sponsorship of* [[White House ballroom]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Trump 2024 election campaign]] *funded election of* [[Donald Trump]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Trump 47 Committee]] *campaign committee for* [[Donald Trump]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Trump-affiliated PACs]] *support* [[Donald Trump]] · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Trump-Vance Inaugural Committee]] *inaugural fund for* [[Donald Trump]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Legal (2)
+
+- [[Securities and Exchange Commission]] *dropped appeal; $125M judgment stands* [[Ripple]] · 2025-08-07 · $125.04M · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[SEC lawsuit against Binance]] *targeted* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Media (2)
+
+- [[The New York Times]] *analyzed crypto case outcomes of* [[Securities and Exchange Commission]] · 2025-12 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Molly White]] *criticized crypto case dismissals by* [[Securities and Exchange Commission]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Commercial (2)
+
+- [[America250]] *organized sponsorship of* [[Army 250th Anniversary Parade]] · 2025-06-14 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Coinbase]] *named sponsor of* [[Army 250th Anniversary Parade]] · 2025-06-14 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+## Leads not covered here
+
+- **Robinhood: an inaugural donor whose SEC crypto probe was closed in Feb 2025**
+  - Same pattern as the exchanges: Robinhood's SEC crypto investigation was closed early in the term, and search results list Robinhood as an inaugural donor (a reported $2M, not verified here).
+  - The video does not cover it.
+  - [[Securities and Exchange Commission]] [[Donald Trump]] [[Trump-Vance Inaugural Committee]] · [Source](https://decrypt.co/356030/how-the-sec-is-handling-crypto-cases-12-months-into-trumps-presidency)
+- **NYT analysis: SEC eased ~60% of inherited crypto cases, with several tied to Trump donors**
+  - A systematic version of this claim; the full case list and the donor overlaps deserve their own check.
+  - [[The New York Times]] [[Securities and Exchange Commission]] [[Binance]] [[Ripple]] [[Coinbase]] · [Source](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped)
+- **Tether America among White House ballroom donors**
+  - Stablecoin issuer funding Trump's ballroom while stablecoin law (GENIUS Act) and USD1 competition are in play.
+  - [[Tether]] [[White House ballroom]] [[GENIUS Act]] [[USD1]] · [Source](https://www.theblock.co/post/376062/crypto-donors-trump-white-house-ballroom)
+- **Public Citizen tracker of halted corporate enforcement actions**
+  - A broader tracker of dropped enforcement, including crypto cases.
+  - [[Securities and Exchange Commission]] [[Donald Trump]] · [Source](https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/)
+
+## Sources (21)
 
 1. [SEC press release 2025-47: Coinbase dismissal](https://sec.gov/newsroom/press-releases/2025-47) (SEC, 2025-02-27)
 2. [Coinbase case officially dropped by SEC](https://www.theblock.co/post/343835/coinbase-case-officially-dropped-by-sec) (The Block, 2025-02-27)

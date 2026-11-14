@@ -10,9 +10,13 @@ tags:
 ---
 # Asher Abehsera
 
-*person*
-
 New York developer Kushner names as CEO and day-to-day lead of the Albania project.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ New York developer Kushner names as CEO and day-to-day lead of the Albania proje
 
 ## Relationships
 
-- [[Asher Abehsera]] *CEO / day-to-day lead (per Kushner)* [[Zvernec Vjosa-Narta coastal project]] (commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Commercial (1)
+
+- [[Asher Abehsera]] *CEO / day-to-day lead (per Kushner)* [[Zvernec Vjosa-Narta coastal project]] · [[C45 Kushner's Albania and Serbia developments|C45]]

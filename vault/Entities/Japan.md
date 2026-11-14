@@ -10,9 +10,15 @@ tags:
 ---
 # Japan
 
-*country*
-
 Home of Metaplanet.
+
+| | |
+|---|---|
+| Type | Country |
+| Appears in | 2 claims |
+| Connections | 3 |
+
+## How other claims describe it
 
 - Home country of Metaplanet.
 
@@ -23,5 +29,7 @@ Home of Metaplanet.
 
 ## Relationships
 
-- [[Metaplanet]] *based in* [[Japan]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Metaplanet]] *listed in* [[Japan]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+### Commercial (2)
+
+- [[Metaplanet]] *based in* [[Japan]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Metaplanet]] *listed in* [[Japan]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]

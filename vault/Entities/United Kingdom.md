@@ -10,9 +10,13 @@ tags:
 ---
 # United Kingdom
 
-*country*
-
 Where Zhou is under investigation
+
+| | |
+|---|---|
+| Type | Country |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Where Zhou is under investigation
 
 ## Relationships
 
-- [[United Kingdom]] *arrested 2021 on suspicion of money laundering; probe active, uncharged* [[Guren 'Bobby' Zhou]] (2021, legal) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+### Legal (1)
+
+- [[United Kingdom]] *arrested 2021 on suspicion of money laundering; probe active, uncharged* [[Guren 'Bobby' Zhou]] · 2021 · [[C67 Investors who show up in several Trump-family vehicles|C67]]

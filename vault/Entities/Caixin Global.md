@@ -10,9 +10,13 @@ tags:
 ---
 # Caixin Global
 
-*media*
-
 Called Zhou a 'blacklisted Chinese businessman'
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

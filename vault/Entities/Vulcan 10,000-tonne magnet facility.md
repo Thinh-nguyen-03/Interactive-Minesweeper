@@ -10,9 +10,13 @@ tags:
 ---
 # Vulcan 10,000-tonne magnet facility
 
-*asset*
-
 $1B commercial rare-earth magnet facility enabled by US government partnership.
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,7 +24,9 @@ $1B commercial rare-earth magnet facility enabled by US government partnership.
 
 ## Relationships
 
-- [[Vulcan Elements]] *announced* [[Vulcan 10,000-tonne magnet facility]] ($1B, commercial) · [[C26 1789 Capital and Vulcan Elements|C26]]
+### Commercial (1)
+
+- [[Vulcan Elements]] *announced* [[Vulcan 10,000-tonne magnet facility]] · $1B · [[C26 1789 Capital and Vulcan Elements|C26]]
 
 ## Themes
 

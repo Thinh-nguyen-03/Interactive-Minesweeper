@@ -10,9 +10,13 @@ tags:
 ---
 # MNC Group / MNC Land
 
-*company*
-
 Developer of Trump-branded Lido and Bali projects
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -20,7 +24,15 @@ Developer of Trump-branded Lido and Bali projects
 
 ## Relationships
 
-- [[Hary Tanoesoedibjo]] *controls* [[MNC Group MNC Land]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Indonesia]] *ordered halt of Lido development* [[MNC Group MNC Land]] (2025-02-06, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[MNC Group MNC Land]] *develops* [[Trump Lido and Bali resorts]] (commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Trump Organization]] *licensing/management partner* [[MNC Group MNC Land]] (commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Ownership (1)
+
+- [[Hary Tanoesoedibjo]] *controls* [[MNC Group MNC Land]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Regulatory (1)
+
+- [[Indonesia]] *ordered halt of Lido development* [[MNC Group MNC Land]] · 2025-02-06 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Commercial (2)
+
+- [[MNC Group MNC Land]] *develops* [[Trump Lido and Bali resorts]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Trump Organization]] *licensing/management partner* [[MNC Group MNC Land]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

@@ -10,23 +10,39 @@ tags:
 ---
 # Tulsi Gabbard
 
-*person*
-
 DNI until 30 Jun 2026; subject of a whistleblower complaint over restricting an NSA intercept about Kushner; denies.
+
+> [!warning] Appears in only an unverified, single-source allegation ([[C37 Jared Kushner's hacked phone|C37]], [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]). Nothing in it has been independently corroborated.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 9 |
+
+## How other claims describe it
 
 - DNI; subject of a whistleblower complaint about restricting an NSA intercept in which foreigners discussed Kushner.
 
 ## Appears in claims
 
-- [[C37 Jared Kushner's hacked phone]] · Unverified
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
-- [[Andrew Bakaj]] *represents whistleblower complaining about* [[Tulsi Gabbard]] (2025-05-21, legal) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[Jim Himes]] *co-wrote letter protesting complaint delay to* [[Tulsi Gabbard]] (2026-02-24, political) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[Mark Warner]] *co-wrote letter protesting complaint delay to* [[Tulsi Gabbard]] (2026-02-24, political) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[Tom Cotton]] *defended; called complaint not credible* [[Tulsi Gabbard]] (2026-02, political) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[Tulsi Gabbard]] *allegedly restricted NSA intercept of foreigners discussing* [[Jared Kushner]] (2025, regulatory) · [[C37 Jared Kushner's hacked phone|C37]]
-- [[Tulsi Gabbard]] *allegedly restricted distribution of intercept held by* [[National Security Agency]] (2025, regulatory) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[Tulsi Gabbard]] *allegedly briefed on Kushner intercept* [[Susie Wiles]] (2025, political) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
+### Regulatory (2)
+
+- [[Tulsi Gabbard]] *allegedly restricted NSA intercept of foreigners discussing* [[Jared Kushner]] · 2025 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+- [[Tulsi Gabbard]] *allegedly restricted distribution of intercept held by* [[National Security Agency]] · 2025 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
+
+### Political (4)
+
+- [[Tulsi Gabbard]] *allegedly briefed on Kushner intercept* [[Susie Wiles]] · 2025 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
+- [[Tom Cotton]] *defended; called complaint not credible* [[Tulsi Gabbard]] · 2026-02 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
+- [[Jim Himes]] *co-wrote letter protesting complaint delay to* [[Tulsi Gabbard]] · 2026-02-24 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
+- [[Mark Warner]] *co-wrote letter protesting complaint delay to* [[Tulsi Gabbard]] · 2026-02-24 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
+
+### Legal (1)
+
+- [[Andrew Bakaj]] *represents whistleblower complaining about* [[Tulsi Gabbard]] · 2025-05-21 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation

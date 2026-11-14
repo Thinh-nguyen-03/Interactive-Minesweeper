@@ -10,9 +10,13 @@ tags:
 ---
 # Unnamed top White House aide
 
-*person*
-
 Per ProPublica, the top aide to the president who initiated the Vulcan Elements deal ('the call came from the White House').
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,8 +24,10 @@ Per ProPublica, the top aide to the president who initiated the Vulcan Elements 
 
 ## Relationships
 
-- [[Unnamed top White House aide]] *initiated government deal for* [[Vulcan Elements]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Unnamed top White House aide]] *top aide in* [[White House Trump administration]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
+### Political (2)
+
+- [[Unnamed top White House aide]] *initiated government deal for* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Unnamed top White House aide]] *top aide in* [[White House Trump administration]] · [[C26 1789 Capital and Vulcan Elements|C26]]
 
 ## Themes
 

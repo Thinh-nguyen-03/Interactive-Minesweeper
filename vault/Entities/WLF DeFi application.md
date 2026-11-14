@@ -10,9 +10,13 @@ tags:
 ---
 # WLF DeFi application
 
-*product*
-
 Promised trading/borrowing/lending app that had not launched.
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,7 +24,9 @@ Promised trading/borrowing/lending app that had not launched.
 
 ## Relationships
 
-- [[World Liberty Financial]] *promised but not launched* [[WLF DeFi application]] (commercial) · [[C04 World Liberty Financial founding and token sale|C04]]
+### Commercial (1)
+
+- [[World Liberty Financial]] *promised but not launched* [[WLF DeFi application]] · [[C04 World Liberty Financial founding and token sale|C04]]
 
 ## Themes
 

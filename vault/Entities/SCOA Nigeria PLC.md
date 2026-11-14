@@ -10,9 +10,13 @@ tags:
 ---
 # SCOA Nigeria PLC
 
-*company*
-
 Lagos truck/equipment dealer run by Massad Boulos; part of the Fadoul group
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Lagos truck/equipment dealer run by Massad Boulos; part of the Fadoul group
 
 ## Relationships
 
-- [[Fadoul Group]] *controls* [[SCOA Nigeria PLC]] (ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Massad Boulos]] *managing director of* [[SCOA Nigeria PLC]] (commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Ownership (1)
+
+- [[Fadoul Group]] *controls* [[SCOA Nigeria PLC]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+
+### Commercial (1)
+
+- [[Massad Boulos]] *managing director of* [[SCOA Nigeria PLC]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

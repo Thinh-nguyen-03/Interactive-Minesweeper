@@ -10,9 +10,13 @@ tags:
 ---
 # Sistrunk Seeds v. Trump
 
-*event*
-
 Federal Domestic Emoluments Clause suit over the land gift, filed 13 May 2026
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -20,7 +24,9 @@ Federal Domestic Emoluments Clause suit over the land gift, filed 13 May 2026
 
 ## Relationships
 
-- [[Constitutional Accountability Center]] *counsel for plaintiffs in* [[Sistrunk Seeds v. Trump]] (2026-05-13, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Rodolfo A. Ruiz II]] *stayed discovery pending immunity/standing* [[Sistrunk Seeds v. Trump]] (2026-09, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Sistrunk Seeds v. Trump]] *emoluments suit against* [[Donald Trump]] (2026-05-13, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Sistrunk Seeds v. Trump]] *seeks to void land gift to* [[Donald J. Trump Presidential Library Foundation, Inc]] (2026-05-13, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+### Legal (4)
+
+- [[Constitutional Accountability Center]] *counsel for plaintiffs in* [[Sistrunk Seeds v. Trump]] · 2026-05-13 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Sistrunk Seeds v. Trump]] *emoluments suit against* [[Donald Trump]] · 2026-05-13 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Sistrunk Seeds v. Trump]] *seeks to void land gift to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-05-13 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Rodolfo A. Ruiz II]] *stayed discovery pending immunity/standing* [[Sistrunk Seeds v. Trump]] · 2026-09 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]

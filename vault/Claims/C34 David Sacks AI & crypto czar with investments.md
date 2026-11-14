@@ -17,7 +17,34 @@ tags:
 ---
 # C34: David Sacks: AI & crypto czar with investments
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Follow-up lead
+
+## Bottom line
+
+Well documented: Sacks served as White House AI and crypto czar under ethics waivers (crypto, March 5, 2025; AI, June/July 2025) while he and Craft Ventures kept 400+ AI-linked investments.
+
+## What holds up
+
+- Sacks was the White House AI and crypto czar, serving as a special government employee
+- He kept AI and crypto interests through Craft Ventures under ethics waivers
+- A late-2025 NYT investigation detailed hundreds of AI-related holdings
+- Sacks drove the GENIUS Act while Craft held crypto infrastructure stakes (mostly accurate)
+- Sacks and the White House deny any conflict
+
+## What needs correcting
+
+- Sacks helped drive the UAE/G42 chip approvals (partly accurate)
+- There were two waivers: crypto (March 5, 2025) and AI (June or July 2025; outlets differ).
+- The NYT investigation is dated Nov 30, 2025 and counted 449 AI-related holdings out of 708 tech investments.
+- Sacks left the czar post in March 2026 and now co-chairs PCAST.
+- Formal UAE/G42 chip licences were issued by Commerce/BIS; Sacks's documented role was in policy and negotiation.
+
+## In more detail
+
+- The NYT's Nov 30, 2025 investigation counted 708 tech holdings, 449 AI-related and 20 crypto-related, and he coordinated the White House push for the GENIUS Act.
+- His role in the UAE/G42 chip approvals rests on secondary summaries of NYT reporting that he pushed for Emirati chip access; the formal licences came from Commerce/BIS, and no stake in a UAE counterparty is documented.
+- Sacks and the White House deny any conflict, no violation has been found, and the NYT did not allege illegality.
 
 ## Lead investigated
 
@@ -25,54 +52,76 @@ tags:
 
 ## Follows up on
 
-- [[C08 UAE AI chips deal, Stargate, currency swap]]
-- [[C11 GENIUS CLARITY Acts and USD1]]
+- [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
+- [[C11 GENIUS CLARITY Acts and USD1]] · Mostly accurate
 
 ## Follow-up checks
 
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 
-## Summary
-
-Well documented: Sacks served as White House AI and crypto czar under ethics waivers (crypto, March 5, 2025; AI, June/July 2025) while he and Craft Ventures kept 400+ AI-linked investments. The NYT's Nov 30, 2025 investigation counted 708 tech holdings, 449 AI-related and 20 crypto-related, and he coordinated the White House push for the GENIUS Act. His role in the UAE/G42 chip approvals rests on secondary summaries of NYT reporting that he pushed for Emirati chip access; the formal licences came from Commerce/BIS, and no stake in a UAE counterparty is documented. Sacks and the White House deny any conflict, no violation has been found, and the NYT did not allege illegality.
-
 ## Sub-claims
 
-- **Confirmed**: Sacks was the White House AI and crypto czar, serving as a special government employee
-  - He served as an SGE (capped at 130 days a year) while remaining a Craft Ventures partner. He stepped down as czar around March 26-27, 2026 and became PCAST co-chair.
-  - <https://cryptobriefing.com/david-sacks-ai-crypto-czar-resigns/>
-  - <https://dlnews.com/articles/regulation/president-trump-crypto-czar-stepping-down-and-into-new-role>
-  - <https://techcrunch.com/2025/07/19/david-sacks-and-the-blurred-lines-of-government-service>
-- **Confirmed**: He kept AI and crypto interests through Craft Ventures under ethics waivers
-  - White House Counsel David Warrington's March 5, 2025 crypto waiver acknowledged Craft's remaining crypto stakes (about 3.7% of its assets). A second, AI waiver followed in June or July 2025. More than $200M in crypto holdings was divested ($85M+ of it Sacks's own), but 400+ AI-linked investments remain. The filings give neither the timing of sales nor the value of what remains.
-  - <https://levernews.com/trump-issues-ethics-waiver-for-his-ai-crypto-czar>
-  - <https://jacobin.com/2025/03/crypto-ai-czar-ethics-trump>
-  - <https://www.nextgov.com/people/2025/09/democrats-launch-ethics-investigation-ai-and-crypto-czar-david-sacks/408175>
-  - <https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts/page/2>
-- **Confirmed**: A late-2025 NYT investigation detailed hundreds of AI-related holdings
-  - The NYT story ran Nov 30, 2025 ('Silicon Valley's Man in the White House Is Benefiting Himself and His Friends'). It counted 708 tech investments, 449 AI-related and 20 crypto-related. That is the NYT's own classification; Sacks's filings label 438 holdings as software or hardware.
-  - <https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role>
-  - <https://cointelegraph.com/news/david-sacks-nyt-report-conflicts-interest-nothing-burger>
-- **Partly accurate**: Sacks helped drive the UAE/G42 chip approvals
-  - Summaries of the NYT's Sept 15, 2025 piece say Sacks was central in pushing for broad chip access for the Emirates, and he took part in negotiating the May 2025 framework. The formal licences came from Commerce/BIS: first Nvidia licences for the UAE in Oct 2025, then up to 35,000 GB300-class chips for G42 in Nov 2025. No source names Sacks as approver or shows him holding a stake in G42 or MGX.
-  - <https://the-decoder.com/nyt-uae-poured-billions-into-trump-linked-crypto-firm-as-u-s-weighed-chip-deal/>
-  - <https://www.business-standard.com/amp/world-news/trump-envoy-steve-witkoff-uae-deals-crypto-chips-tahnoon-125091600331_1.html>
-  - <https://www.thenationalnews.com/future/technology/2025/11/20/uae-ai-nvidia-chips-us/>
-- **Mostly accurate**: Sacks drove the GENIUS Act while Craft held crypto infrastructure stakes
-  - He coordinated the White House position on the bill and promoted it publicly; Trump signed it on July 18, 2025. The NYT cites Craft's 7.8% stake in BitGo at BitGo's IPO filing, and BitGo custodies USD1 reserves (see C11). No source shows Sacks acting on that overlap.
-  - <https://www.theblock.co/post/355355/trump-crypto-czar-david-sacks-stablecoin-bill-trillions-of-dollars-demand-us-treasurys>
-  - <https://cointelegraph.com/news/david-sacks-nyt-report-conflicts-interest-nothing-burger>
-- **Confirmed**: Sacks and the White House deny any conflict
-  - Sacks called the story a 'nothing burger', said OGE approved his waivers and said he divested hundreds of millions. The White House said OGE required only certain AI divestments. His lawyers at Clare Locke sent the NYT a pre-publication letter, and the NYT stood by its story. Reports of a filed defamation lawsuit are unverified.
-  - <https://www.theblock.co/post/380916/white-house-ai-crypto-czar-david-sacks-rejects-conflict-of-interest-claims>
-  - <https://protos.com/david-sacks-sends-silly-legal-threat-to-the-new-york-times>
+### 1. Sacks was the White House AI and crypto czar, serving as a special government employee
 
-## Corrections
+**Confirmed**
 
-- There were two waivers: crypto (March 5, 2025) and AI (June or July 2025; outlets differ).
-- The NYT investigation is dated Nov 30, 2025 and counted 449 AI-related holdings out of 708 tech investments.
-- Sacks left the czar post in March 2026 and now co-chairs PCAST.
-- Formal UAE/G42 chip licences were issued by Commerce/BIS; Sacks's documented role was in policy and negotiation.
+- He served as an SGE (capped at 130 days a year) while remaining a Craft Ventures partner.
+- He stepped down as czar around March 26-27, 2026 and became PCAST co-chair.
+- Dates: March 26-27, 2026
+- Sources: [18](https://cryptobriefing.com/david-sacks-ai-crypto-czar-resigns/) [19](https://dlnews.com/articles/regulation/president-trump-crypto-czar-stepping-down-and-into-new-role) [12](https://techcrunch.com/2025/07/19/david-sacks-and-the-blurred-lines-of-government-service)
+
+### 2. He kept AI and crypto interests through Craft Ventures under ethics waivers
+
+**Confirmed**
+
+- White House Counsel David Warrington's March 5, 2025 crypto waiver acknowledged Craft's remaining crypto stakes (about 3.7% of its assets).
+- A second, AI waiver followed in June or July 2025.
+- More than $200M in crypto holdings was divested ($85M+ of it Sacks's own), but 400+ AI-linked investments remain.
+- The filings give neither the timing of sales nor the value of what remains.
+- Amounts: about 3.7%; More than $200M; $85M+
+- Dates: March 5, 2025; July 2025
+- Sources: [6](https://levernews.com/trump-issues-ethics-waiver-for-his-ai-crypto-czar) [7](https://jacobin.com/2025/03/crypto-ai-czar-ethics-trump) [8](https://www.nextgov.com/people/2025/09/democrats-launch-ethics-investigation-ai-and-crypto-czar-david-sacks/408175) [2](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts/page/2)
+
+### 3. A late-2025 NYT investigation detailed hundreds of AI-related holdings
+
+**Confirmed**
+
+- The NYT story ran Nov 30, 2025 ('Silicon Valley's Man in the White House Is Benefiting Himself and His Friends').
+- It counted 708 tech investments, 449 AI-related and 20 crypto-related.
+- That is the NYT's own classification; Sacks's filings label 438 holdings as software or hardware.
+- Dates: Nov 30, 2025
+- Sources: [1](https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role) [4](https://cointelegraph.com/news/david-sacks-nyt-report-conflicts-interest-nothing-burger)
+
+### 4. Sacks helped drive the UAE/G42 chip approvals
+
+**Partly accurate**
+
+- Summaries of the NYT's Sept 15, 2025 piece say Sacks was central in pushing for broad chip access for the Emirates, and he took part in negotiating the May 2025 framework.
+- The formal licences came from Commerce/BIS: first Nvidia licences for the UAE in Oct 2025, then up to 35,000 GB300-class chips for G42 in Nov 2025.
+- No source names Sacks as approver or shows him holding a stake in G42 or MGX.
+- Dates: Sept 15, 2025; May 2025; Oct 2025; Nov 2025
+- Sources: [13](https://the-decoder.com/nyt-uae-poured-billions-into-trump-linked-crypto-firm-as-u-s-weighed-chip-deal/) [14](https://www.business-standard.com/amp/world-news/trump-envoy-steve-witkoff-uae-deals-crypto-chips-tahnoon-125091600331_1.html) [16](https://www.thenationalnews.com/future/technology/2025/11/20/uae-ai-nvidia-chips-us/)
+
+### 5. Sacks drove the GENIUS Act while Craft held crypto infrastructure stakes
+
+**Mostly accurate**
+
+- He coordinated the White House position on the bill and promoted it publicly; Trump signed it on July 18, 2025.
+- The NYT cites Craft's 7.8% stake in BitGo at BitGo's IPO filing, and BitGo custodies USD1 reserves (see C11).
+- No source shows Sacks acting on that overlap.
+- Amounts: 7.8%
+- Dates: July 18, 2025
+- Sources: [17](https://www.theblock.co/post/355355/trump-crypto-czar-david-sacks-stablecoin-bill-trillions-of-dollars-demand-us-treasurys) [4](https://cointelegraph.com/news/david-sacks-nyt-report-conflicts-interest-nothing-burger)
+
+### 6. Sacks and the White House deny any conflict
+
+**Confirmed**
+
+- Sacks called the story a 'nothing burger', said OGE approved his waivers and said he divested hundreds of millions.
+- The White House said OGE required only certain AI divestments.
+- His lawyers at Clare Locke sent the NYT a pre-publication letter, and the NYT stood by its story.
+- Reports of a filed defamation lawsuit are unverified.
+- Sources: [3](https://www.theblock.co/post/380916/white-house-ai-crypto-czar-david-sacks-rejects-conflict-of-interest-claims) [5](https://protos.com/david-sacks-sends-silly-legal-threat-to-the-new-york-times)
 
 ## Denials and context
 
@@ -80,73 +129,105 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
 - White House: Sacks acted appropriately; OGE required divestment only of certain AI holdings.
 - The NYT did not allege illegality, and no ethics agency has found a violation.
 - Critics, including Warren, Slotkin, Stansbury and ethics scholar Kathleen Clark, call the waivers inadequate and question his 130-day SGE count.
-- The New York Times articles and the Senate PDFs could not be fetched directly (blocked hosts); findings rest on multi-outlet search coverage. The search budget ran out before checking BitGo IPO details and post-March-2026 developments.
+- The New York Times articles and the Senate PDFs could not be fetched directly (blocked hosts); findings rest on multi-outlet search coverage.
+  - The search budget ran out before checking BitGo IPO details and post-March-2026 developments.
 
 ## People and organisations
 
-- [[All-In Podcast]]
-- [[BitGo]]
-- [[Clare Locke LLP]]
-- [[Craft Ventures]]
-- [[David Sacks]]
-- [[David Warrington]]
-- [[Donald Trump]]
-- [[Elizabeth Warren]]
-- [[G42]]
-- [[GENIUS Act]]
-- [[Jensen Huang]]
-- [[Kathleen Clark]]
-- [[Melanie Stansbury]]
-- [[Nvidia]]
-- [[Office of Government Ethics]]
-- [[President's Council of Advisors on Science and Technology]]
-- [[Sheikh Tahnoon bin Zayed]]
-- [[Steve Bannon]]
-- [[Steve Witkoff]]
-- [[The New York Times]]
-- [[UAE AI chips deal]]
-- [[US Department of Commerce]]
-- [[USD1]]
-- [[White House Trump administration]]
-- [[World Liberty Financial]]
+- [[All-In Podcast]] · Media
+- [[BitGo]] · Company
+- [[Clare Locke LLP]] · Company
+- [[Craft Ventures]] · Fund
+- [[David Sacks]] · Person
+- [[David Warrington]] · Person
+- [[Donald Trump]] · Person
+- [[Elizabeth Warren]] · Person
+- [[G42]] · Company
+- [[GENIUS Act]] · Law or policy
+- [[Jensen Huang]] · Person
+- [[Kathleen Clark]] · Person
+- [[Melanie Stansbury]] · Person
+- [[Nvidia]] · Company
+- [[Office of Government Ethics]] · Government body
+- [[President's Council of Advisors on Science and Technology]] · Government body
+- [[Sheikh Tahnoon bin Zayed]] · Person
+- [[Steve Bannon]] · Person
+- [[Steve Witkoff]] · Person
+- [[The New York Times]] · Media
+- [[UAE AI chips deal]] · Event
+- [[US Department of Commerce]] · Government body
+- [[USD1]] · Asset
+- [[White House Trump administration]] · Government body
+- [[World Liberty Financial]] · Company
 
 ## Relationships documented
 
-- [[BitGo]] *custodies reserves* [[USD1]] (2025-03-25, commercial) · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Clare Locke LLP]] *sent pre-publication legal letter on Sacks's behalf* [[The New York Times]] (2025-11, legal) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Craft Ventures]] *held 7.8% stake at IPO filing* [[BitGo]] (ownership) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[David Sacks]] *co-hosts* [[All-In Podcast]] (media) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[David Sacks]] *co-founder and partner; retained interests* [[Craft Ventures]] (ownership) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[David Sacks]] *divested crypto holdings with Craft (>$200M total, $85M+ his)* [[Craft Ventures]] (2025-01, $200M, money) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[David Sacks]] *coordinated White House push for* [[GENIUS Act]] (2025-07, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[David Sacks]] *reported dinner disputed, dropped from NYT story* [[Jensen Huang]] (commercial) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[David Sacks]] *became co-chair* [[President's Council of Advisors on Science and Technology]] (2026-03, advisory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[David Sacks]] *reportedly pushed expansive chip access in* [[UAE AI chips deal]] (2025-05, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[David Warrington]] *signed crypto ethics waiver for* [[David Sacks]] (2025-03-05, regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Donald Trump]] *appointed AI and crypto czar* [[David Sacks]] (2024-12, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Donald Trump]] *signed into law* [[GENIUS Act]] (2025-07-18, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Elizabeth Warren]] *questioned waivers and SGE status* [[David Sacks]] (2025-03-06, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Elizabeth Warren]] *wrote asking about Sacks waiver* [[Office of Government Ethics]] (2025-05-05, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Jensen Huang]] *CEO of* [[Nvidia]] (ownership) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Kathleen Clark]] *called his waivers 'sham ethics waivers'* [[David Sacks]] (2025-12, media) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Melanie Stansbury]] *co-led ethics investigation into* [[David Sacks]] (2025-09-17, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[The New York Times]] *investigated holdings (708 tech, 449 AI)* [[David Sacks]] (2025-11-30, media) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Office of Government Ethics]] *reviewed waivers (per Sacks)* [[David Sacks]] (regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Steve Bannon]] *criticised judgment of* [[David Sacks]] (2025-12, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Steve Witkoff]] *backed UAE chip access alongside Sacks* [[UAE AI chips deal]] (2025-05, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Sheikh Tahnoon bin Zayed]] *linked entity bought 49% stake (see C06/C08)* [[World Liberty Financial]] (2025-01, money) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[US Department of Commerce]] *licensed up to 35,000 GB300-class Nvidia chips to* [[G42]] (2025-11, regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[White House Trump administration]] *issued AI ethics waiver to* [[David Sacks]] (2025-06, regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
+### Money (2)
 
-## Leads not covered by the video
+- [[David Sacks]] *divested crypto holdings with Craft (>$200M total, $85M+ his)* [[Craft Ventures]] · 2025-01 · $200M · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Sheikh Tahnoon bin Zayed]] *linked entity bought 49% stake (see C06/C08)* [[World Liberty Financial]] · 2025-01 · [[C34 David Sacks AI & crypto czar with investments|C34]]
 
-- **Craft Ventures' BitGo stake and BitGo's custody of USD1 reserves**: Sacks's fund held 7.8% of BitGo, which custodies the reserves of World Liberty Financial's USD1, while Sacks drove the GENIUS Act that governs stablecoins. [source](https://cointelegraph.com/news/david-sacks-nyt-report-conflicts-interest-nothing-burger) · [[Craft Ventures]] [[BitGo]] [[USD1]] [[World Liberty Financial]] [[David Sacks]]
-- **Sacks's 130-day special-government-employee limit inquiry**: Warren and Stansbury opened an investigation into whether Sacks exceeded the 130-day SGE cap; he left the czar post in March 2026 at that limit. [source](https://www.warren.senate.gov/newsroom/press-releases/warren-stansbury-members-of-congress-launch-investigation-into-trump-crypto-and-ai-czars-ethics-conflicts) · [[David Sacks]] [[Elizabeth Warren]] [[Melanie Stansbury]] [[White House Trump administration]]
-- **G42 crypto head simultaneously advising World Liberty Financial**: Per NYT summaries, G42's head of crypto, Fiacc Larkin, was also WLF's chief strategic adviser from January 2025, linking the chip recipient directly to the Trump venture. [source](https://the-decoder.com/nyt-uae-poured-billions-into-trump-linked-crypto-firm-as-u-s-weighed-chip-deal/) · [[G42]] [[World Liberty Financial]] [[Sheikh Tahnoon bin Zayed]]
-- **All-In podcast and the White House AI event**: The NYT questioned whether Sacks's All-In podcast benefited from co-hosting a White House AI event; Sacks's lawyers say he forfeited AI- and crypto-related revenue. [source](https://protos.com/david-sacks-sends-silly-legal-threat-to-the-new-york-times) · [[All-In Podcast]] [[David Sacks]] [[White House Trump administration]]
+### Ownership (4)
 
-## Sources
+- [[Craft Ventures]] *held 7.8% stake at IPO filing* [[BitGo]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[David Sacks]] *co-founder and partner; retained interests* [[Craft Ventures]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Jensen Huang]] *CEO of* [[Nvidia]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+
+### Regulatory (4)
+
+- [[David Warrington]] *signed crypto ethics waiver for* [[David Sacks]] · 2025-03-05 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[White House Trump administration]] *issued AI ethics waiver to* [[David Sacks]] · 2025-06 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[US Department of Commerce]] *licensed up to 35,000 GB300-class Nvidia chips to* [[G42]] · 2025-11 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Office of Government Ethics]] *reviewed waivers (per Sacks)* [[David Sacks]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
+
+### Advisory (1)
+
+- [[David Sacks]] *became co-chair* [[President's Council of Advisors on Science and Technology]] · 2026-03 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+
+### Political (9)
+
+- [[Donald Trump]] *appointed AI and crypto czar* [[David Sacks]] · 2024-12 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Elizabeth Warren]] *questioned waivers and SGE status* [[David Sacks]] · 2025-03-06 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[David Sacks]] *reportedly pushed expansive chip access in* [[UAE AI chips deal]] · 2025-05 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Steve Witkoff]] *backed UAE chip access alongside Sacks* [[UAE AI chips deal]] · 2025-05 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Elizabeth Warren]] *wrote asking about Sacks waiver* [[Office of Government Ethics]] · 2025-05-05 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[David Sacks]] *coordinated White House push for* [[GENIUS Act]] · 2025-07 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Donald Trump]] *signed into law* [[GENIUS Act]] · 2025-07-18 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Melanie Stansbury]] *co-led ethics investigation into* [[David Sacks]] · 2025-09-17 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Steve Bannon]] *criticised judgment of* [[David Sacks]] · 2025-12 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+
+### Legal (1)
+
+- [[Clare Locke LLP]] *sent pre-publication legal letter on Sacks's behalf* [[The New York Times]] · 2025-11 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+
+### Media (3)
+
+- [[The New York Times]] *investigated holdings (708 tech, 449 AI)* [[David Sacks]] · 2025-11-30 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Kathleen Clark]] *called his waivers 'sham ethics waivers'* [[David Sacks]] · 2025-12 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[David Sacks]] *co-hosts* [[All-In Podcast]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
+
+### Commercial (2)
+
+- [[BitGo]] *custodies reserves* [[USD1]] · 2025-03-25 · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[David Sacks]] *reported dinner disputed, dropped from NYT story* [[Jensen Huang]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
+
+## Leads not covered here
+
+- **Craft Ventures' BitGo stake and BitGo's custody of USD1 reserves**
+  - Sacks's fund held 7.8% of BitGo, which custodies the reserves of World Liberty Financial's USD1, while Sacks drove the GENIUS Act that governs stablecoins.
+  - [[Craft Ventures]] [[BitGo]] [[USD1]] [[World Liberty Financial]] [[David Sacks]] · [Source](https://cointelegraph.com/news/david-sacks-nyt-report-conflicts-interest-nothing-burger)
+- **Sacks's 130-day special-government-employee limit inquiry**
+  - Warren and Stansbury opened an investigation into whether Sacks exceeded the 130-day SGE cap; he left the czar post in March 2026 at that limit.
+  - [[David Sacks]] [[Elizabeth Warren]] [[Melanie Stansbury]] [[White House Trump administration]] · [Source](https://www.warren.senate.gov/newsroom/press-releases/warren-stansbury-members-of-congress-launch-investigation-into-trump-crypto-and-ai-czars-ethics-conflicts)
+- **G42 crypto head simultaneously advising World Liberty Financial**
+  - Per NYT summaries, G42's head of crypto, Fiacc Larkin, was also WLF's chief strategic adviser from January 2025, linking the chip recipient directly to the Trump venture.
+  - [[G42]] [[World Liberty Financial]] [[Sheikh Tahnoon bin Zayed]] · [Source](https://the-decoder.com/nyt-uae-poured-billions-into-trump-linked-crypto-firm-as-u-s-weighed-chip-deal/)
+- **All-In podcast and the White House AI event**
+  - The NYT questioned whether Sacks's All-In podcast benefited from co-hosting a White House AI event; Sacks's lawyers say he forfeited AI- and crypto-related revenue.
+  - [[All-In Podcast]] [[David Sacks]] [[White House Trump administration]] · [Source](https://protos.com/david-sacks-sends-silly-legal-threat-to-the-new-york-times)
+
+## Sources (20)
 
 1. [New report examines how David Sacks might profit from Trump administration role](https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role) (TechCrunch, 2025-11-30)
 2. [Trump tech adviser David Sacks under fire over vast AI investments](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts/page/2) (NPR, 2025-12-12)

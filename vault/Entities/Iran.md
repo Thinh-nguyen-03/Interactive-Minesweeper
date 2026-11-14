@@ -10,9 +10,17 @@ tags:
 ---
 # Iran
 
-*country*
-
 Country the US went to war with; 'Iran crisis'.
+
+> [!warning] Appears in an unverified, single-source allegation ([[C37 Jared Kushner's hacked phone|C37]], [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]). Nothing in it has been independently corroborated.
+
+| | |
+|---|---|
+| Type | Country |
+| Appears in | 9 claims |
+| Connections | 15 |
+
+## How other claims describe it
 
 - Party to the 2026 war that strained the UAE economy
 - Counterpart in talks in which Kushner participated while fundraising.
@@ -27,16 +35,24 @@ Country the US went to war with; 'Iran crisis'.
 - [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
 - [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
-- [[C37 Jared Kushner's hacked phone]] · Unverified
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 
 ## Relationships
 
-- [[Commodity Futures Trading Commission]] *probing oil-futures trades placed before Trump Iran posts* [[Iran]] (2026-04, regulatory) · [[C58 Market-moving posts and insider-trading allegations|C58]]
-- [[Iran]] *conflict cited as emergency basis for* [[2026 Qatar Patriot and APKWS sales]] (2026-02-28, political) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Iran]] *missile/drone attacks and Hormuz blockade* [[United Arab Emirates]] (2026, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[Jared Kushner]] *participated in US talks with* [[Iran]] (2026, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Tether]] *USDT allegedly used for sanctions evasion by* [[Iran]] (legal) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[United States]] *went to war with* [[Iran]] (political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Regulatory (1)
+
+- [[Commodity Futures Trading Commission]] *probing oil-futures trades placed before Trump Iran posts* [[Iran]] · 2026-04 · [[C58 Market-moving posts and insider-trading allegations|C58]]
+
+### Political (4)
+
+- [[Iran]] *missile/drone attacks and Hormuz blockade* [[United Arab Emirates]] · 2026 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Jared Kushner]] *participated in US talks with* [[Iran]] · 2026 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Iran]] *conflict cited as emergency basis for* [[2026 Qatar Patriot and APKWS sales]] · 2026-02-28 · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[United States]] *went to war with* [[Iran]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+
+### Legal (1)
+
+- [[Tether]] *USDT allegedly used for sanctions evasion by* [[Iran]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]

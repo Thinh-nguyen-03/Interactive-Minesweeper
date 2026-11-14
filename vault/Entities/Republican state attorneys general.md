@@ -10,9 +10,13 @@ tags:
 ---
 # Republican state attorneys general
 
-*government*
-
 Group Don Jr. reportedly told not to fight prediction markets.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Group Don Jr. reportedly told not to fight prediction markets.
 
 ## Relationships
 
-- [[Donald Trump Jr]] *reportedly urged not to fight prediction markets* [[Republican state attorneys general]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+### Political (1)
+
+- [[Donald Trump Jr]] *reportedly urged not to fight prediction markets* [[Republican state attorneys general]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]

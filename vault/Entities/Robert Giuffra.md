@@ -10,9 +10,13 @@ tags:
 ---
 # Robert Giuffra
 
-*person*
-
 Sullivan & Cromwell co-chair leading Trump's hush-money appeal.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Sullivan & Cromwell co-chair leading Trump's hush-money appeal.
 
 ## Relationships
 
-- [[Robert Giuffra]] *co-chair of* [[Sullivan & Cromwell]] (commercial) · [[C61 Shared lawyers and law firms across the deals|C61]]
+### Commercial (1)
+
+- [[Robert Giuffra]] *co-chair of* [[Sullivan & Cromwell]] · [[C61 Shared lawyers and law firms across the deals|C61]]

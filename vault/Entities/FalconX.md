@@ -10,9 +10,13 @@ tags:
 ---
 # FalconX
 
-*company*
-
 Crypto prime broker; early borrower from Cantor's programme
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Crypto prime broker; early borrower from Cantor's programme
 
 ## Relationships
 
-- [[Cantor bitcoin financing business]] *lent to* [[FalconX]] (2025, $100M, money) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+### Money (1)
+
+- [[Cantor bitcoin financing business]] *lent to* [[FalconX]] · 2025 · $100M · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]

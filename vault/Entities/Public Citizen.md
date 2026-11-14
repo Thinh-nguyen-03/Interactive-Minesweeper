@@ -10,9 +10,15 @@ tags:
 ---
 # Public Citizen
 
-*company*
-
 Consumer advocacy group running the Corporate Enforcement Tracker
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 6 |
+
+## How other claims describe it
 
 - Advocacy group; author of 'Ballroom Billions' donor analysis
 
@@ -23,7 +29,9 @@ Consumer advocacy group running the Corporate Enforcement Tracker
 
 ## Relationships
 
-- [[Public Citizen]] *cited $76.1M political influence spending by* [[Coinbase]] ($76.1M, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Public Citizen]] *cited $55M political influence spending by* [[Ripple]] ($55M, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Public Citizen]] *tracks canceled enforcement (23 crypto actions dropped/halted)* [[Securities and Exchange Commission]] (2025, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Public Citizen]] *published donor-conflict analysis of* [[White House ballroom]] (2026-06-04, media) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+### Media (4)
+
+- [[Public Citizen]] *tracks canceled enforcement (23 crypto actions dropped/halted)* [[Securities and Exchange Commission]] · 2025 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Public Citizen]] *published donor-conflict analysis of* [[White House ballroom]] · 2026-06-04 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Public Citizen]] *cited $76.1M political influence spending by* [[Coinbase]] · $76.1M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Public Citizen]] *cited $55M political influence spending by* [[Ripple]] · $55M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]

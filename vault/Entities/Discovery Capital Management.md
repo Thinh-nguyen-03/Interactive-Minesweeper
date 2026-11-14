@@ -10,9 +10,13 @@ tags:
 ---
 # Discovery Capital Management
 
-*fund*
-
 Citrone's hedge fund
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Citrone's hedge fund
 
 ## Relationships
 
-- [[Discovery Capital Management]] *large bond positions* [[Argentina]] (2025-09, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Rob Citrone]] *co-founder* [[Discovery Capital Management]] (ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Money (1)
+
+- [[Discovery Capital Management]] *large bond positions* [[Argentina]] · 2025-09 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Ownership (1)
+
+- [[Rob Citrone]] *co-founder* [[Discovery Capital Management]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]

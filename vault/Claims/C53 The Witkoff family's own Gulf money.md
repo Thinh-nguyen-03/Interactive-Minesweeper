@@ -18,7 +18,40 @@ tags:
 ---
 # C53: The Witkoff family's own Gulf money
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Follow-up lead
+
+## Bottom line
+
+The core of the lead is documented.
+
+## What holds up
+
+- Qatar's sovereign fund bought the Witkoff Group's Park Lane hotel stake in 2023 (mostly accurate)
+- Steve Witkoff sold a stake in his firm for about $120M, with no buyer named.
+- Witkoff's ethics agreement and disclosures leave the Gulf conflicts unresolved (mostly accurate)
+
+## What needs correcting
+
+- Alex and Zach Witkoff sought billions from Qatar, UAE and Kuwait sovereign funds for real-estate vehicles in 2025 (partly accurate)
+- **Brief said:** Qatar bought 'the Witkoff Group's Park Lane hotel stake'  
+  **Record shows:** QIA bought the whole hotel (about $623M, Aug 2023) from a Witkoff–Mubadala JV. Witkoff's share is undisclosed, and Qatar says the hotel was not owned by Witkoff or his companies.
+- The brief dates the sons' fundraising to 2025. QIA dates Alex's pitch to 2024, before Witkoff took office. The NYT reported it in Sept 2025, and QIA declined, so the fund was shelved.
+- **Claim:** The brief names 'Alex/Zach'  
+  **Record:** Only Alex's approach to QIA is confirmed by the counterparty. Zach's role and the UAE and Kuwait approaches rest on NYT sourcing.
+
+## What is unproven
+
+- The family's Gulf money overlaps with Witkoff's Gaza, Qatar, Iran and Russia negotiations, including the Qatar jet and the Doha strike aftermath.
+
+## In more detail
+
+- Qatar's sovereign fund (QIA) bought the Park Lane Hotel for about $623M in August 2023.
+- Alex Witkoff pitched QIA a planned $4B real-estate credit fund, and per the NYT the sons also approached UAE and Kuwaiti funds.
+- Steve Witkoff disclosed a $120M sale of a Witkoff Group stake with no buyer, date or percentage named, and his disclosures went uncertified while Congress pressed for investigations.
+- Corrections: the Park Lane seller was a Witkoff–Mubadala joint venture, and Qatar says the hotel was not Witkoff's.
+- The QIA pitch dates to 2024, not 2025, and QIA declined, so the fund was shelved.
+- No source shows the family's business influenced Gaza, Qatar, Iran or Russia diplomacy.
 
 ## Lead investigated
 
@@ -26,137 +59,200 @@ tags:
 
 ## Follows up on
 
-- [[C14 Steve and Zach Witkoff]]
-- [[C42 How World Liberty insiders took money out]]
-- [[C16 Qatar jet, arms sales and golf deal]]
+- [[C14 Steve and Zach Witkoff]] · Mostly accurate
+- [[C42 How World Liberty insiders took money out]] · Mostly accurate
+- [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
 
-## Summary
+## Follow-up checks
 
-The core of the lead is documented. Qatar's sovereign fund (QIA) bought the Park Lane Hotel for about $623M in August 2023. Alex Witkoff pitched QIA a planned $4B real-estate credit fund, and per the NYT the sons also approached UAE and Kuwaiti funds. Steve Witkoff disclosed a $120M sale of a Witkoff Group stake with no buyer, date or percentage named, and his disclosures went uncertified while Congress pressed for investigations. Corrections: the Park Lane seller was a Witkoff–Mubadala joint venture, and Qatar says the hotel was not Witkoff's. The QIA pitch dates to 2024, not 2025, and QIA declined, so the fund was shelved. No source shows the family's business influenced Gaza, Qatar, Iran or Russia diplomacy.
+- [[C73 Qatar's access network inside and around the administration]] · Pending
+- [[C76 Russia-linked money around the family and envoys]] · Pending
 
 ## Sub-claims
 
-- **Mostly accurate**: Qatar's sovereign fund bought the Witkoff Group's Park Lane hotel stake in 2023.
-  - In August 2023 QIA bought the Park Lane Hotel at 36 Central Park South for about $623M ($622.9M) in an entity-level deal, with $400M of financing from Athene, Apollo's annuity arm. The seller was a joint venture of Witkoff and Abu Dhabi's Mubadala. Mubadala had bought Jho Low's roughly 38% stake from the DOJ for $139.6M in 2018, and the 2013 purchase price was about $654M. Witkoff's share at the sale was not disclosed. Qatar's International Media Office says the hotel was not owned by Witkoff or his companies, and Witkoff says he partnered with Mubadala, never with QIA.
-  - <https://bisnow.com/new-york/news/hotel/qatari-fund-pays-623m-to-acquire-park-lane-hotel-120410>
-  - <https://www.pincusco.com/qatar-fund-acquires-park-lane-hotel-for-622-9m-in-midtown-west>
-  - <https://crenews.com/2023/08/28/qatar-fund-pays-623mln-for-park-lane-hotel-in-manhattan-athene-lends-400mln/>
-  - <https://commercialobserver.com/2023/08/qatar-sovereign-fund-acquires-park-lane-hotel-for-623m/>
-  - <https://therealdeal.com/2017/05/23/witkoff-and-mubadala-to-split-proceeds-from-park-lane-hotel-sale>
-  - <https://thepeninsulaqatar.com/article/27/09/2025/international-media-office-of-the-state-of-qatar-issues-statement-in-response-to-false-accusations-in-the-new-york-times>
-- **Partly accurate**: Alex and Zach Witkoff sought billions from Qatar, UAE and Kuwait sovereign funds for real-estate vehicles in 2025.
-  - The NYT (2025-09-26, Kamin and Hope) reported that the sons sought billions from sovereign funds in Qatar, the UAE and Kuwait. The vehicle was a proposed $4B 'Special Situations Real Estate Credit Fund' expected to earn about $80M a year in fees. QIA spokeswoman Melanie Dunn confirmed that Alex pitched QIA, in 2024, and said QIA declined. The UAE and Kuwait approaches rest on the NYT alone. The Witkoff Group called the plans preliminary and shelved. The NYT also reported that the Witkoff Group received $100M (as recently as May 2025) from an Apollo-run trust partly owned by Qatar.
-  - <https://www.washingtonexaminer.com/?p=3827497>
-  - <https://www.ynetnews.com/article/bkukver2ll>
-  - <https://www.jpost.com/american-politics/article-869981>
-  - <https://www.yahoo.com/news/articles/witkoff-family-threatens-nyt-defamation-212437336.html>
-  - <https://accountable.us/2025-09-22-research-on-steve-witkoff-special-government-employee-status>
-- **Confirmed**: Steve Witkoff sold a stake in his firm for about $120M, with no buyer named.
-  - Bloomberg reported on 2025-09-15/16, from his OGE disclosure, that he sold a Witkoff Group stake for $120M. The filing gave no buyer, date or percentage. A spokesperson says he remains a minority shareholder with no operating role since 2024, and Alex runs the firm. Witkoff first said in March 2025 that he was divesting. No buyer identity surfaced through Nov 2026.
-  - <https://therealdeal.com/national/2025/09/16/steve-witkoff-sells-stake-in-real-estate-firm-for-120m>
-  - <https://www.bisnow.com/national/news/commercial-real-estate/steve-witkoff-sells-120m-stake-in-his-real-estate-firm-130993>
-  - <https://dfnihf8fcqrzv.cloudfront.net/forbes/giacomo-tognini/how-peace-envoy-steve-witkoff-got-richer-thanks-to-trump-and-elon-musk/188276197>
-  - <https://therealdeal.com/national/2025/03/13/steve-witkoff-divesting-from-eponymous-real-estate-firm>
-- **Mostly accurate**: Witkoff's ethics agreement and disclosures leave the Gulf conflicts unresolved.
-  - No published ethics agreement surfaced. Warren and Murphy (2025-11-18) said no ethics official had signed his disclosure, and asked about divestment and waivers. Schiff and seven other senators (2025-10-22) pressed him on his WLF assets. Meeks, Amo and Garcia (2026-01-08) asked the State and Commerce IGs and OGE to investigate him over the UAE AI-chip deal overlapping WLF's Emirati deal. No IG outcome was found. The WLF income and divestment questions are covered in C14 and C42.
-  - <https://www.warren.senate.gov/newsroom/press-releases/warren-murphy-investigate-ethics-conflicts-related-to-trumps-envoy-to-the-middle-east>
-  - <https://fortune.com/img-assets/wp-content/uploads/2025/10/2025.10.22-Sen.-Schiff-Colleagues-Letter-to-Witkoff-on-WLF-Assets.pdf>
-  - <https://democrats-foreignaffairs.house.gov/2026/1/meeks-amo-garcia-demand-investigation-into-trump-despot-whisperer-witkoff-s-sketchy-business-dealings>
-- **Unverified**: The family's Gulf money overlaps with Witkoff's Gaza, Qatar, Iran and Russia negotiations, including the Qatar jet and the Doha strike aftermath.
-  - The overlap in time is real. He led the January and October 2025 Gaza ceasefire talks with Qatar as mediator, and the NYT story ran in between. On the 2025-09-09 Israeli strike on Doha, the White House said Witkoff warned Qatar in advance, while Qatar said the call came about 10 minutes after the strike began. No source shows any business tie influenced policy. Qatar says investment is kept separate from diplomacy. On Russia, Byline Times reports an undisclosed real-estate tie to Leonard Blavatnik, and Witkoff's spokeswoman denies any financial stake in the Russian asset talks.
-  - <https://app.al-monitor.com/originals/2025/09/trump-directed-top-aide-warn-qatar-israel-attack-was-coming-white-house-says>
-  - <https://www.newarab.com/news/qatar-says-us-warning-came-after-israeli-strike-started>
-  - <https://www.gulf-times.com/article/711590/qatar/qatar-debunks-nyt-claims-about-witkoff>
-  - <https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/>
+### 1. Qatar's sovereign fund bought the Witkoff Group's Park Lane hotel stake in 2023.
 
-## Corrections
+**Mostly accurate**
 
-- The brief says Qatar bought 'the Witkoff Group's Park Lane hotel stake'. In fact QIA bought the whole hotel (about $623M, Aug 2023) from a Witkoff–Mubadala JV. Witkoff's share is undisclosed, and Qatar says the hotel was not owned by Witkoff or his companies.
-- The brief dates the sons' fundraising to 2025. QIA dates Alex's pitch to 2024, before Witkoff took office. The NYT reported it in Sept 2025, and QIA declined, so the fund was shelved.
-- The brief names 'Alex/Zach'. Only Alex's approach to QIA is confirmed by the counterparty. Zach's role and the UAE and Kuwait approaches rest on NYT sourcing.
+- In August 2023 QIA bought the Park Lane Hotel at 36 Central Park South for about $623M ($622.9M) in an entity-level deal, with $400M of financing from Athene, Apollo's annuity arm.
+- The seller was a joint venture of Witkoff and Abu Dhabi's Mubadala.
+- Mubadala had bought Jho Low's roughly 38% stake from the DOJ for $139.6M in 2018, and the 2013 purchase price was about $654M. Witkoff's share at the sale was not disclosed.
+- Qatar's International Media Office says the hotel was not owned by Witkoff or his companies, and Witkoff says he partnered with Mubadala, never with QIA.
+- Amounts: about $623M; $622.9M; $400M; roughly 38%; $139.6M
+- Dates: August 2023
+- Sources: [1](https://bisnow.com/new-york/news/hotel/qatari-fund-pays-623m-to-acquire-park-lane-hotel-120410) [2](https://www.pincusco.com/qatar-fund-acquires-park-lane-hotel-for-622-9m-in-midtown-west) [3](https://crenews.com/2023/08/28/qatar-fund-pays-623mln-for-park-lane-hotel-in-manhattan-athene-lends-400mln/) [4](https://commercialobserver.com/2023/08/qatar-sovereign-fund-acquires-park-lane-hotel-for-623m/) [5](https://therealdeal.com/2017/05/23/witkoff-and-mubadala-to-split-proceeds-from-park-lane-hotel-sale) [11](https://thepeninsulaqatar.com/article/27/09/2025/international-media-office-of-the-state-of-qatar-issues-statement-in-response-to-false-accusations-in-the-new-york-times)
+
+### 2. Alex and Zach Witkoff sought billions from Qatar, UAE and Kuwait sovereign funds for real-estate vehicles in 2025.
+
+**Partly accurate**
+
+- The NYT (2025-09-26, Kamin and Hope) reported that the sons sought billions from sovereign funds in Qatar, the UAE and Kuwait.
+- The vehicle was a proposed $4B 'Special Situations Real Estate Credit Fund' expected to earn about $80M a year in fees.
+- QIA spokeswoman Melanie Dunn confirmed that Alex pitched QIA, in 2024, and said QIA declined.
+- The UAE and Kuwait approaches rest on the NYT alone.
+- The Witkoff Group called the plans preliminary and shelved.
+- The NYT also reported that the Witkoff Group received $100M (as recently as May 2025) from an Apollo-run trust partly owned by Qatar.
+- Amounts: $4B; about $80M; $100M
+- Dates: 2025-09-26; May 2025
+- Sources: [6](https://www.washingtonexaminer.com/?p=3827497) [7](https://www.ynetnews.com/article/bkukver2ll) [9](https://www.jpost.com/american-politics/article-869981) [8](https://www.yahoo.com/news/articles/witkoff-family-threatens-nyt-defamation-212437336.html) [23](https://accountable.us/2025-09-22-research-on-steve-witkoff-special-government-employee-status)
+
+### 3. Steve Witkoff sold a stake in his firm for about $120M, with no buyer named.
+
+**Confirmed**
+
+- Bloomberg reported on 2025-09-15/16, from his OGE disclosure, that he sold a Witkoff Group stake for $120M. The filing gave no buyer, date or percentage.
+- A spokesperson says he remains a minority shareholder with no operating role since 2024, and Alex runs the firm.
+- Witkoff first said in March 2025 that he was divesting.
+- No buyer identity surfaced through Nov 2026.
+- Amounts: $120M
+- Dates: 2025-09-15; March 2025; Nov 2026
+- Sources: [13](https://therealdeal.com/national/2025/09/16/steve-witkoff-sells-stake-in-real-estate-firm-for-120m) [14](https://www.bisnow.com/national/news/commercial-real-estate/steve-witkoff-sells-120m-stake-in-his-real-estate-firm-130993) [15](https://dfnihf8fcqrzv.cloudfront.net/forbes/giacomo-tognini/how-peace-envoy-steve-witkoff-got-richer-thanks-to-trump-and-elon-musk/188276197) [12](https://therealdeal.com/national/2025/03/13/steve-witkoff-divesting-from-eponymous-real-estate-firm)
+
+### 4. Witkoff's ethics agreement and disclosures leave the Gulf conflicts unresolved.
+
+**Mostly accurate**
+
+- No published ethics agreement surfaced.
+- Warren and Murphy (2025-11-18) said no ethics official had signed his disclosure, and asked about divestment and waivers.
+- Schiff and seven other senators (2025-10-22) pressed him on his WLF assets.
+- Meeks, Amo and Garcia (2026-01-08) asked the State and Commerce IGs and OGE to investigate him over the UAE AI-chip deal overlapping WLF's Emirati deal.
+- No IG outcome was found.
+- The WLF income and divestment questions are covered in C14 and C42.
+- Dates: 2025-11-18; 2025-10-22; 2026-01-08
+- Sources: [16](https://www.warren.senate.gov/newsroom/press-releases/warren-murphy-investigate-ethics-conflicts-related-to-trumps-envoy-to-the-middle-east) [17](https://fortune.com/img-assets/wp-content/uploads/2025/10/2025.10.22-Sen.-Schiff-Colleagues-Letter-to-Witkoff-on-WLF-Assets.pdf) [18](https://democrats-foreignaffairs.house.gov/2026/1/meeks-amo-garcia-demand-investigation-into-trump-despot-whisperer-witkoff-s-sketchy-business-dealings)
+
+### 5. The family's Gulf money overlaps with Witkoff's Gaza, Qatar, Iran and Russia negotiations, including the Qatar jet and the Doha strike aftermath.
+
+**Unverified**
+
+- The overlap in time is real.
+- He led the January and October 2025 Gaza ceasefire talks with Qatar as mediator, and the NYT story ran in between.
+- On the 2025-09-09 Israeli strike on Doha, the White House said Witkoff warned Qatar in advance, while Qatar said the call came about 10 minutes after the strike began.
+- No source shows any business tie influenced policy.
+- Qatar says investment is kept separate from diplomacy.
+- On Russia, Byline Times reports an undisclosed real-estate tie to Leonard Blavatnik, and Witkoff's spokeswoman denies any financial stake in the Russian asset talks.
+- Dates: October 2025; 2025-09-09
+- Sources: [19](https://app.al-monitor.com/originals/2025/09/trump-directed-top-aide-warn-qatar-israel-attack-was-coming-white-house-says) [20](https://www.newarab.com/news/qatar-says-us-warning-came-after-israeli-strike-started) [10](https://www.gulf-times.com/article/711590/qatar/qatar-debunks-nyt-claims-about-witkoff) [22](https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/)
 
 ## Denials and context
 
 - Qatar's International Media Office (2025-09-27) called the NYT's claim that Qatar cultivated Witkoff false and 'absurd', and said Qatari entities had dealt with him for years before Trump's election.
-- The Witkoff family's lawyer, Timothy Parlatore, threatened the NYT with a defamation suit on 2025-10-02 and demanded a retraction. No suit was found. The NYT corrected a lender name on a separate (Belgrove) loan.
-- Apollo says its investors do not direct its investments. The White House counsel says Witkoff takes ethics compliance seriously.
-- Against the family: the disclosures were uncertified, the $120M buyer is unnamed, and his son runs a firm that takes Qatar-linked capital. For the family: the QIA pitch predates his appointment and was rejected, and the Park Lane sale predates his government role.
+- The Witkoff family's lawyer, Timothy Parlatore, threatened the NYT with a defamation suit on 2025-10-02 and demanded a retraction. No suit was found.
+  - The NYT corrected a lender name on a separate (Belgrove) loan.
+- Apollo says its investors do not direct its investments.
+  - The White House counsel says Witkoff takes ethics compliance seriously.
+- Against the family: the disclosures were uncertified, the $120M buyer is unnamed, and his son runs a firm that takes Qatar-linked capital.
+  - For the family: the QIA pitch predates his appointment and was rejected, and the Park Lane sale predates his government role.
 
 ## People and organisations
 
-- [[Adam Schiff]]
-- [[Alex Witkoff]]
-- [[Apollo Global Management]]
-- [[Athene Annuity and Life Co]]
-- [[Chris Murphy]]
-- [[David Warrington]]
-- [[Elizabeth Warren]]
-- [[Gregory Meeks]]
-- [[Israeli strike on Doha (Sept 9, 2025)]]
-- [[Jho Low]]
-- [[Karoline Leavitt]]
-- [[Kuwait]]
-- [[Leonard Blavatnik]]
-- [[Mubadala Investment Company]]
-- [[Office of Government Ethics]]
-- [[Park Lane Hotel (36 Central Park South)]]
-- [[Qatar]]
-- [[Qatar Boeing 747 gift]]
-- [[Qatar Investment Authority]]
-- [[Special Situations Real Estate Credit Fund]]
-- [[Steve Witkoff]]
-- [[The New York Times]]
-- [[Timothy Parlatore]]
-- [[United Arab Emirates]]
-- [[US Congress]]
-- [[White House Trump administration]]
-- [[Witkoff Group]]
-- [[World Liberty Financial]]
-- [[Zach Witkoff]]
+- [[Adam Schiff]] · Person
+- [[Alex Witkoff]] · Person
+- [[Apollo Global Management]] · Company
+- [[Athene Annuity and Life Co]] · Company
+- [[Chris Murphy]] · Person
+- [[David Warrington]] · Person
+- [[Elizabeth Warren]] · Person
+- [[Gregory Meeks]] · Person
+- [[Israeli strike on Doha (Sept 9, 2025)]] · Event
+- [[Jho Low]] · Person
+- [[Karoline Leavitt]] · Person
+- [[Kuwait]] · Country
+- [[Leonard Blavatnik]] · Person
+- [[Mubadala Investment Company]] · Fund
+- [[Office of Government Ethics]] · Government body
+- [[Park Lane Hotel (36 Central Park South)]] · Asset
+- [[Qatar]] · Country
+- [[Qatar Boeing 747 gift]] · Asset
+- [[Qatar Investment Authority]] · Fund
+- [[Special Situations Real Estate Credit Fund]] · Fund
+- [[Steve Witkoff]] · Person
+- [[The New York Times]] · Media
+- [[Timothy Parlatore]] · Person
+- [[United Arab Emirates]] · Country
+- [[US Congress]] · Government body
+- [[White House Trump administration]] · Government body
+- [[Witkoff Group]] · Company
+- [[World Liberty Financial]] · Company
+- [[Zach Witkoff]] · Person
 
 ## Relationships documented
 
-- [[Adam Schiff]] *letter on WLF assets* [[Steve Witkoff]] (2025-10-22, regulatory) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Alex Witkoff]] *pitched $4B credit fund (declined)* [[Qatar Investment Authority]] (2024, $4B, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Alex Witkoff]] *proposed* [[Special Situations Real Estate Credit Fund]] (2024, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Alex Witkoff]] *CEO of* [[Witkoff Group]] (2025, ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Apollo Global Management]] *Apollo-run trust (partly Qatar-owned) provided $100M* [[Witkoff Group]] (2025-05, $100M, money) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Athene Annuity and Life Co]] *subsidiary of* [[Apollo Global Management]] (ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Athene Annuity and Life Co]] *lent $400M for the Park Lane purchase* [[Qatar Investment Authority]] (2023-08, $400M, money) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Chris Murphy]] *ethics inquiry: unsigned disclosure* [[Steve Witkoff]] (2025-11-18, regulatory) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[David Warrington]] *White House counsel defending his ethics compliance* [[Steve Witkoff]] (2025, advisory) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Elizabeth Warren]] *ethics inquiry: unsigned disclosure* [[Steve Witkoff]] (2025-11-18, regulatory) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Gregory Meeks]] *sought IG/OGE investigation* [[Steve Witkoff]] (2026-01-08, regulatory) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Jho Low]] *co-bought with Witkoff for ~$654M (stake later forfeited)* [[Park Lane Hotel (36 Central Park South)]] (2013, $654M, ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Karoline Leavitt]] *said Witkoff warned Qatar beforehand* [[Israeli strike on Doha (Sept 9, 2025)]] (2025-09-09, media) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Leonard Blavatnik]] *reported real-estate partnership (Byline Times)* [[Steve Witkoff]] (2025-12, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Mubadala Investment Company]] *co-owner; bought Jho Low's ~38% stake from the DOJ for $139.6M* [[Park Lane Hotel (36 Central Park South)]] (2018-12, $139.6M, ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[The New York Times]] *investigated Qatar ties* [[Witkoff Group]] (2025-09-26, media) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Qatar]] *partial owner of the Apollo-run trust that funded the Witkoff Group* [[Apollo Global Management]] (ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Qatar]] *rejected the report as 'absurd'* [[The New York Times]] (2025-09-27, media) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Qatar]] *provided 747-8 (see C16)* [[Qatar Boeing 747 gift]] (2025-05, political) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Qatar Investment Authority]] *bought for ~$623M* [[Park Lane Hotel (36 Central Park South)]] (2023-08, $623M, money) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Steve Witkoff]] *father of* [[Alex Witkoff]] (family) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Steve Witkoff]] *told by Trump to warn Qatar (timing disputed)* [[Israeli strike on Doha (Sept 9, 2025)]] (2025-09-09, political) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Steve Witkoff]] *co-owned via JV with Mubadala (share undisclosed), sold to QIA* [[Park Lane Hotel (36 Central Park South)]] (2013-2023, ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Steve Witkoff]] *lead negotiator in Qatar-mediated Gaza talks; relayed Doha strike warning* [[Qatar]] (2025, political) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Steve Witkoff]] *sold stake for $120M to an undisclosed buyer; remains minority shareholder* [[Witkoff Group]] (2025, $120M, money) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Steve Witkoff]] *co-founder (see C14/C42)* [[World Liberty Financial]] (2024, ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Steve Witkoff]] *father of* [[Zach Witkoff]] (family) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Timothy Parlatore]] *threatened defamation suit on behalf of the Witkoffs* [[The New York Times]] (2025-10-02, legal) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[US Congress]] *asked to review Witkoff's filings* [[Office of Government Ethics]] (2025-11, regulatory) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Witkoff Group]] *reportedly approached sovereign fund (NYT)* [[Kuwait]] (2024-2025, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Witkoff Group]] *reportedly approached sovereign fund (NYT)* [[United Arab Emirates]] (2024-2025, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Zach Witkoff]] *reportedly involved in fundraising (NYT)* [[Special Situations Real Estate Credit Fund]] (2024-2025, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
+### Money (4)
 
-## Leads not covered by the video
+- [[Athene Annuity and Life Co]] *lent $400M for the Park Lane purchase* [[Qatar Investment Authority]] · 2023-08 · $400M · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Qatar Investment Authority]] *bought for ~$623M* [[Park Lane Hotel (36 Central Park South)]] · 2023-08 · $623M · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Steve Witkoff]] *sold stake for $120M to an undisclosed buyer; remains minority shareholder* [[Witkoff Group]] · 2025 · $120M · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Apollo Global Management]] *Apollo-run trust (partly Qatar-owned) provided $100M* [[Witkoff Group]] · 2025-05 · $100M · [[C53 The Witkoff family's own Gulf money|C53]]
 
-- **Apollo trust partly owned by Qatar put $100M into the Witkoff Group in 2025**: Direct Qatar-linked capital flowing into the envoy's family firm while he was in office; terms and Qatar's share are undisclosed. [source](https://www.jpost.com/american-politics/article-869981) · [[Apollo Global Management]] [[Witkoff Group]] [[Qatar]] [[Steve Witkoff]]
-- **Witkoff's undisclosed real-estate tie to Leonard Blavatnik during Russia talks**: Alleged undisclosed financial interest overlapping with Witkoff's Russia/Ukraine negotiation role with Kirill Dmitriev. [source](https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/) · [[Steve Witkoff]] [[Leonard Blavatnik]]
-- **House Democrats' request for State/Commerce IG probe of Witkoff and Sacks (Jan 2026)**: Formal oversight request tying Witkoff's UAE chip-deal role to WLF's Emirati deal; the outcome is unknown. [source](https://democrats-foreignaffairs.house.gov/2026/1/meeks-amo-garcia-demand-investigation-into-trump-despot-whisperer-witkoff-s-sketchy-business-dealings) · [[Steve Witkoff]] [[Gregory Meeks]] [[Office of Government Ethics]] [[UAE AI chips deal]] [[World Liberty Financial]]
-- **Former Qatar lobbyist's account of a 2017 Qatari outreach campaign cited by the NYT**: NYT used it to frame Qatar's cultivation of Trump allies, including Witkoff; Qatar calls it false. [source](https://thepeninsulaqatar.com/article/27/09/2025/international-media-office-of-the-state-of-qatar-issues-statement-in-response-to-false-accusations-in-the-new-york-times) · [[Qatar]] [[Steve Witkoff]] [[The New York Times]]
+### Ownership (7)
 
-## Sources
+- [[Jho Low]] *co-bought with Witkoff for ~$654M (stake later forfeited)* [[Park Lane Hotel (36 Central Park South)]] · 2013 · $654M · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Steve Witkoff]] *co-owned via JV with Mubadala (share undisclosed), sold to QIA* [[Park Lane Hotel (36 Central Park South)]] · 2013-2023 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Mubadala Investment Company]] *co-owner; bought Jho Low's ~38% stake from the DOJ for $139.6M* [[Park Lane Hotel (36 Central Park South)]] · 2018-12 · $139.6M · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Steve Witkoff]] *co-founder (see C14/C42)* [[World Liberty Financial]] · 2024 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Alex Witkoff]] *CEO of* [[Witkoff Group]] · 2025 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Athene Annuity and Life Co]] *subsidiary of* [[Apollo Global Management]] · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Qatar]] *partial owner of the Apollo-run trust that funded the Witkoff Group* [[Apollo Global Management]] · [[C53 The Witkoff family's own Gulf money|C53]]
+
+### Family (2)
+
+- [[Steve Witkoff]] *father of* [[Alex Witkoff]] · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Steve Witkoff]] *father of* [[Zach Witkoff]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C53 The Witkoff family's own Gulf money|C53]]
+
+### Regulatory (5)
+
+- [[Adam Schiff]] *letter on WLF assets* [[Steve Witkoff]] · 2025-10-22 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[US Congress]] *asked to review Witkoff's filings* [[Office of Government Ethics]] · 2025-11 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Chris Murphy]] *ethics inquiry: unsigned disclosure* [[Steve Witkoff]] · 2025-11-18 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Elizabeth Warren]] *ethics inquiry: unsigned disclosure* [[Steve Witkoff]] · 2025-11-18 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Gregory Meeks]] *sought IG/OGE investigation* [[Steve Witkoff]] · 2026-01-08 · [[C53 The Witkoff family's own Gulf money|C53]]
+
+### Advisory (1)
+
+- [[David Warrington]] *White House counsel defending his ethics compliance* [[Steve Witkoff]] · 2025 · [[C53 The Witkoff family's own Gulf money|C53]]
+
+### Political (3)
+
+- [[Steve Witkoff]] *lead negotiator in Qatar-mediated Gaza talks; relayed Doha strike warning* [[Qatar]] · 2025 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Qatar]] *provided 747-8 (see C16)* [[Qatar Boeing 747 gift]] · 2025-05 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Steve Witkoff]] *told by Trump to warn Qatar (timing disputed)* [[Israeli strike on Doha (Sept 9, 2025)]] · 2025-09-09 · [[C53 The Witkoff family's own Gulf money|C53]]
+
+### Legal (1)
+
+- [[Timothy Parlatore]] *threatened defamation suit on behalf of the Witkoffs* [[The New York Times]] · 2025-10-02 · [[C53 The Witkoff family's own Gulf money|C53]]
+
+### Media (3)
+
+- [[Karoline Leavitt]] *said Witkoff warned Qatar beforehand* [[Israeli strike on Doha (Sept 9, 2025)]] · 2025-09-09 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[The New York Times]] *investigated Qatar ties* [[Witkoff Group]] · 2025-09-26 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Qatar]] *rejected the report as 'absurd'* [[The New York Times]] · 2025-09-27 · [[C53 The Witkoff family's own Gulf money|C53]]
+
+### Commercial (6)
+
+- [[Alex Witkoff]] *pitched $4B credit fund (declined)* [[Qatar Investment Authority]] · 2024 · $4B · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Alex Witkoff]] *proposed* [[Special Situations Real Estate Credit Fund]] · 2024 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Witkoff Group]] *reportedly approached sovereign fund (NYT)* [[Kuwait]] · 2024-2025 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Witkoff Group]] *reportedly approached sovereign fund (NYT)* [[United Arab Emirates]] · 2024-2025 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Zach Witkoff]] *reportedly involved in fundraising (NYT)* [[Special Situations Real Estate Credit Fund]] · 2024-2025 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Leonard Blavatnik]] *reported real-estate partnership (Byline Times)* [[Steve Witkoff]] · 2025-12 · [[C53 The Witkoff family's own Gulf money|C53]]
+
+## Leads not covered here
+
+- **Apollo trust partly owned by Qatar put $100M into the Witkoff Group in 2025**
+  - Direct Qatar-linked capital flowing into the envoy's family firm while he was in office; terms and Qatar's share are undisclosed.
+  - [[Apollo Global Management]] [[Witkoff Group]] [[Qatar]] [[Steve Witkoff]] · [Source](https://www.jpost.com/american-politics/article-869981)
+- **Witkoff's undisclosed real-estate tie to Leonard Blavatnik during Russia talks**
+  - Alleged undisclosed financial interest overlapping with Witkoff's Russia/Ukraine negotiation role with Kirill Dmitriev.
+  - [[Steve Witkoff]] [[Leonard Blavatnik]] · [Source](https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/)
+- **House Democrats' request for State/Commerce IG probe of Witkoff and Sacks (Jan 2026)**
+  - Formal oversight request tying Witkoff's UAE chip-deal role to WLF's Emirati deal; the outcome is unknown.
+  - [[Steve Witkoff]] [[Gregory Meeks]] [[Office of Government Ethics]] [[UAE AI chips deal]] [[World Liberty Financial]] · [Source](https://democrats-foreignaffairs.house.gov/2026/1/meeks-amo-garcia-demand-investigation-into-trump-despot-whisperer-witkoff-s-sketchy-business-dealings)
+- **Former Qatar lobbyist's account of a 2017 Qatari outreach campaign cited by the NYT**
+  - NYT used it to frame Qatar's cultivation of Trump allies, including Witkoff; Qatar calls it false.
+  - [[Qatar]] [[Steve Witkoff]] [[The New York Times]] · [Source](https://thepeninsulaqatar.com/article/27/09/2025/international-media-office-of-the-state-of-qatar-issues-statement-in-response-to-false-accusations-in-the-new-york-times)
+
+## Sources (23)
 
 1. [Qatari fund pays $623M to acquire Park Lane Hotel](https://bisnow.com/new-york/news/hotel/qatari-fund-pays-623m-to-acquire-park-lane-hotel-120410) (Bisnow, 2023-08-29)
 2. [Qatar fund acquires Park Lane hotel for $622.9M in Midtown West](https://www.pincusco.com/qatar-fund-acquires-park-lane-hotel-for-622-9m-in-midtown-west) (PincusCo, 2023-08-28)

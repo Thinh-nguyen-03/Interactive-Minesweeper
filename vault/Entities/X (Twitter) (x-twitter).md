@@ -10,9 +10,13 @@ tags:
 ---
 # X (Twitter)
 
-*media*
-
 Platform where Eric Trump promoted USD1
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

@@ -4,290 +4,481 @@ kind: "claim"
 title: "Shell entities and ownership chains"
 verdict: "mostly-accurate"
 confidence: "medium"
-origin: "follow-up"
+origin: "connection-hunt"
 aliases:
   - "C63"
 tags:
   - "claim"
-  - "origin/follow-up"
+  - "origin/connection-hunt"
   - "verdict/mostly-accurate"
 ---
 # C63: Shell entities and ownership chains
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Connection hunt
 
-## Lead investigated
+## Bottom line
 
-> Connection hunt: the LLCs, trusts and offshore vehicles in this story and who sits behind them — CIC Digital, CIC Ventures, Fight Fight Fight, Celebration Cards, DT Marks DEFI, DT Marks entities generally, WLTC Holdings, StringZ Holding RSC, Aryam Investment 1, MKT World, Designers Manager, Dynasty Trust A, Atlantic Incubation Partners, Axiom Management, American Ventures SPVs, the Donald J. Trump Revocable Trust (trustees), Trump Media Group CRO Strategy, T1/Trump Mobile licensees. Trace registered agents, officers, addresses, formation dates relative to deals, and any overlaps between them.
+The core ownership chains are documented.
 
-## Summary
+## What holds up
 
-The core ownership chains are documented. One Florida revocable trust, with Donald Trump Jr. as sole trustee, sits above TMTG, CIC Digital (digital licences, $TRUMP) and CIC Ventures (merchandise). DT Marks DEFI and DT Marks SC use the Trump Organization's naming template for foreign licensing vehicles. Tahnoon-linked vehicles reportedly hold 49% of both WLF (Aryam Investment 1) and the trust-bank parent WLTC Holdings (StringZ), each time beside a Trump-family stake of about 38%. The most concrete registry-level overlaps are a shared Sheridan, Wyoming formation agent for two CIC Ventures licensees, and CIC Ventures merchandise sites that accept the CIC Digital-licensed coin. Most beneficial owners (StringZ, T1 Mobile, Designers Manager, NFT INT, the Wyoming licensees) remain undisclosed, and registry lookups could not be done from here.
+- CIC Digital LLC and CIC Ventures LLC are sister licensing vehicles, both wholly owned by the Donald J. Trump Revocable Trust, with Trump himself as their officer.
+- The Donald J. Trump Revocable Trust is the top of most chains, and its sole trustee is Donald Trump Jr.
+- One Zanker-linked network runs Trump's digital licences end to end: NFT INT LLC (trading cards), Fight Fight Fight LLC ($TRUMP) and Celebration Cards LLC (mostly accurate)
+- Two CIC Ventures licensees, the sneaker company and the watch company, were set up by the same Sheridan, Wyoming formation agent.
+- The two CIC silos feed each other: CIC Ventures-licensed merchandise sites began accepting the CIC Digital-licensed $TRUMP coin as payment.
+- DT Marks DEFI uses the Trump Organization's naming template for foreign brand-licensing LLCs, and a second 'DT Marks' entity (DT Marks SC) appears in the trust-bank approval (mostly accurate)
+- The same 49% / ~38% split between a Tahnoon-linked vehicle and a Trump-family entity recurs at both WLF (Aryam Investment 1) and the trust bank holding company WLTC Holdings (StringZ Holding RSC (DE) LLC) (mostly accurate)
+- WLTC Holdings LLC is a Delaware vehicle sharing indirect common owners with WLF, chaired by Zach Witkoff.
+- Trump Mobile is a licence chain: DTTM Operations (Trump trademarks) licenses T1 Mobile LLC, which runs on Liberty Mobile Wireless, a small Florida MVNO, and ultimate ownership is undisclosed (mostly accurate)
+- Trump Media Group CRO Strategy was a special-purpose treasury vehicle under the trust-controlled TMTG, built with Yorkville, and was dissolved before listing.
+- American Ventures is a Dominari-controlled family of SPVs through which the Trump sons hold microcap stakes (mostly accurate)
+- Several family-linked vehicles were activated in the four weeks around the 20 Jan 2025 inauguration.
 
-## Sub-claims
+## What needs correcting
 
-- **Confirmed**: CIC Digital LLC and CIC Ventures LLC are sister licensing vehicles, both wholly owned by the Donald J. Trump Revocable Trust, with Trump himself as their officer.
-  - Evidence grade: documented. Trump's disclosures list him as manager, president, secretary and treasurer of CIC Ventures (2023 disclosure, per Cowboy State Daily). Reporting on the disclosures lists the same roles at CIC Digital. Both are described as wholly owned by the revocable trust. Public Citizen says Trump created CIC Digital in 2022 to receive NFT licence fees. The two have since split the work. CIC Digital licenses digital products: the Trump Digital Trading Cards through NFT INT LLC, and the $TRUMP coin, which brought about $635M in 'Celebration Coins' royalties in the 2025 OGE filing (see C01). It also holds bitcoin valued at 'over $50,000,000'. CIC Ventures licenses physical merchandise: sneakers, fragrances and watches. The 2025 OGE filing gives CIC Digital a Palm Beach, FL location. I could not confirm the state of formation; one non-news dossier says Delaware, and that is unverified.
-  - <https://www.citizen.org/article/donald-trump-crypto-investors-4-7-billion-underwater/>
-  - <https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump, Donald J. 2025 Annual 278.pdf>
-  - <https://bitcoinmagazine.com/news/president-donald-trump-50-million-bitcoin>
-  - <https://cowboystatedaily.com/2024/04/01/company-behind-trumps-flashy-gold-high-top-sneakers-registered-in-wyoming>
-- **Confirmed**: The Donald J. Trump Revocable Trust is the top of most chains, and its sole trustee is Donald Trump Jr.
-  - Evidence grade: documented (SEC Schedule 13D filings). The trust is the 'Donald J. Trump Revocable Trust dated April 7, 2014', established under Florida law. Trump is its settlor and sole beneficiary. Donald Trump Jr. is sole trustee, with 'sole voting and investment power' over the roughly 114.75M DJT shares Trump gifted to it in December 2024, and he also sits on TMTG's board. Through the trust, the same trustee sits above TMTG and its subsidiary Trump Media Group CRO Strategy, CIC Digital and CIC Ventures. What I add, not asserted by any source: the trustee is also an active dealmaker on his own account, including American Ventures/Dominari (C39, C47, C51), 1789 Capital (C26) and drone ventures (C51). So the person with legal control of the President's assets is also a counterparty in deals that touch federal policy. The trust is revocable and family-run, not blind (C03).
-  - <https://www.nbcnews.com/business/business-news/trump-transfers-djt-shares-revocable-trust-sec-filings-show-rcna184966>
-  - <https://www.thewrap.com/donald-trump-media-and-technology-group-transfers-stake-trust>
-  - <https://www.secform4.com/13dg/947033/0001140361-25-046424.html>
-- **Mostly accurate**: One Zanker-linked network runs Trump's digital licences end to end: NFT INT LLC (trading cards), Fight Fight Fight LLC ($TRUMP) and Celebration Cards LLC.
-  - Evidence grade: documented for the licences, single-source for Celebration Cards' ownership. NFT INT LLC is a Delaware company that issues the Trump Digital Trading Cards under a paid licence from CIC Digital. Public Citizen says its underlying ownership is 'shielded behind a Delaware registered agent'. Zanker spokesman Kevin Mercuri confirmed Zanker's participation in the NFT deal and called it his first deal with Trump since 2015. Fight Fight Fight LLC, run by Zanker, and CIC Digital together hold 80% of $TRUMP supply. The Warren/Schiff/Blumenthal letter of 8 Apr 2026 describes Celebration Cards LLC as the owner of Fight Fight Fight. Schiff's office says CIC Digital and Celebration Cards receive trading revenue from 'Trump Meme Cards'. Only the Senate letter states that Celebration Cards owns Fight Fight Fight, and Fight Fight Fight has not answered. Our own observation, which no source makes: the OGE filing labels CIC Digital's coin royalties 'Celebration Coins', the same brand word as Zanker's Celebration Cards. That suggests the same counterparty, but it is inferred.
-  - <https://www.citizen.org/article/donald-trump-crypto-investors-4-7-billion-underwater/>
-  - <https://www.theblock.co/post/267294/trump-hawks-new-nfts-for-a-chance-to-win-a-piece-of-his-mugshot-suit>
-  - <https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf>
-  - <https://www.schiff.senate.gov/?p=12266>
-  - <https://www.hsgac.senate.gov/wp-content/uploads/2025-05-06-Letter-from-Sen.-Richard-Blumenthal-to-Fight-Fight-Fight.pdf>
-- **Confirmed**: Two CIC Ventures licensees, the sneaker company and the watch company, were set up by the same Sheridan, Wyoming formation agent.
-  - Evidence grade: documented for the shared agent; inferred for any common ownership. Cowboy State Daily (Wyoming Secretary of State records) reports the following. 45Footwear LLC, which licenses 'Trump Sneakers' from CIC Ventures, was filed in Wyoming on 31 Jan 2024, less than three weeks before the 17 Feb 2024 Sneaker Con launch. Its registered agent is Andrew Pierce, a Sheridan paralegal with Wyoming Trust and LLC / Cloud Peak Law Group, at that firm's address. TheBestWatchesOnEarth LLC, which sells Trump-licensed watches, is registered at 1309 Coffeen Ave., Sheridan, with Pierce as organizer. Cowboy State Daily says it is 'unknown if the two efforts are connected'. CNN traced the 'Swiss-made' watches to a Sheridan shopping center tied to other Trump-themed sellers. Both companies' sites say they are not owned or controlled by Trump or CIC Ventures. A shared formation agent is common in Wyoming and does not prove shared owners; the licensees' beneficial owners are not public.
-  - <https://cowboystatedaily.com/2024/04/01/company-behind-trumps-flashy-gold-high-top-sneakers-registered-in-wyoming>
-  - <https://cowboystatedaily.com/2024/10/01/trumps-new-line-of-100k-watches-registered-to-wyoming-company/>
-  - <https://amp.cnn.com/cnn/2024/10/17/politics/trump-watches-wyoming-invs>
-- **Confirmed**: The two CIC silos feed each other: CIC Ventures-licensed merchandise sites began accepting the CIC Digital-licensed $TRUMP coin as payment.
-  - Evidence grade: documented for the payment integration; inferred for the 'loop'. Around 29-30 Jan 2025, roughly 12 days after $TRUMP launched, GetTrumpSneakers.com, GetTrumpFragrances.com and (per Bloomberg, via Cointelegraph) GetTrumpWatches.com began accepting $TRUMP via Solana Pay. The Block says they also accepted $MELANIA, and says all three sites 'appear to operate under license from CIC Ventures, which is linked to the firm that launched the memecoins'. The Victory 45-47 and 'Fight, Fight, Fight' fragrances are sold through the same licensing group. Our observation, which no source frames this way: one trust-owned licensor's merchandise channel created spending demand for a token whose royalties flow to another trust-owned licensor. No data on payment volumes was found.
-  - <https://www.theblock.co/post/337940/trump-melania-memecoin-payments>
-  - <https://cointelegraph.com/news/trump-crypto-footprint-memecoin-merch-purchases>
-  - <https://hotfix.coindesk.com/markets/2025/01/30/trump-memecoins-can-now-be-used-to-buy-donald-trump-merchandise>
-  - <https://theintercept.com/2025/07/01/trump-fragrance-crypto/>
-- **Partly accurate**: MKT World LLC, Melania Trump's vehicle and the $MELANIA issuer, predates the coin and uses Mar-a-Lago as its address.
-  - Evidence grade: documented for the issuer role and income; single-source for the Delaware formation and Mar-a-Lago address. Protos, citing Florida Secretary of State filings, says Melania is president of MKT World, that it was incorporated in Delaware and registered in Florida as a foreign LLC, and that it uses Mar-a-Lago as its mailing address. DL News describes it as Florida-registered, and CoinDesk's token-terms summary says Delaware. Several outlets say it has existed since about 2021. Disclosures route NFT sales, speaking fees, Skyhorse book income and $MELANIA to it (2023 income $1-5M per DL News). The 2025 filing's separate $6.01M 'Designers Manager' NFT licence (C02) has no identified counterparty: I found nothing on who owns Designers Manager.
-  - <https://protos.com/trump-coin-may-doing-poorly-but-melania-coin-is-an-atrocity/>
-  - <https://dlnews.com/articles/people-culture/inside-the-trump-family-crypto-empire/>
-  - <https://www.theblock.co/amp/post/335637/donald-trump-memecoin-crashes-48-as-melania-trump-launches-her-own-memecoin>
-  - <https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump, Donald J. 2025 Annual 278.pdf>
-- **Mostly accurate**: DT Marks DEFI uses the Trump Organization's naming template for foreign brand-licensing LLCs, and a second 'DT Marks' entity (DT Marks SC) appears in the trust-bank approval.
-  - Evidence grade: documented for the entity names; inferred for the structural parallel. The Trump Organization collects foreign licence fees through 'DT Marks <place>' LLCs. Examples are DT Marks KSA LLC (about $15.9M in Saudi fees), DT Marks Oman LLC (the Nov 2022 Dar Oman agreement in Dar Global's prospectus), DT Marks Doha LLC / Member Corp, DT Marks Abu Dhabi LLC and DT Marks Al Raha Beach LLC (CREW calls these new Delaware entities tied to unannounced Abu Dhabi projects), and DT Marks Worli (ProPublica). DT Marks DEFI LLC, which holds 22.5B WLFI and 75% of WLF net protocol revenue (C42), follows the same template. The OCC's CD #1385 lists a separate 'DT Marks SC LLC' among passive investors in WLTC Holdings (C12). Our inference, which no outlet states: the family's WLF position is built like a brand licence rather than an operating stake, and the Trump Organization opened Abu Dhabi licensing entities in the same period that Abu Dhabi vehicles bought 49% of WLF and WLTC. What 'SC' stands for, and how DT Marks SC relates to DT Marks DEFI, is unverified.
-  - <https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/>
-  - <https://wendysiegelman.substack.com/p/the-500-million-trump-international>
-  - <https://projects.propublica.org/trump-town/organizations/dt-marks-worli-member-corp-pass-thru-company-for-dt-marks-worli-llc-license-deal>
-  - <https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/>
-  - <https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf>
-- **Mostly accurate**: The same 49% / ~38% split between a Tahnoon-linked vehicle and a Trump-family entity recurs at both WLF (Aryam Investment 1) and the trust bank holding company WLTC Holdings (StringZ Holding RSC (DE) LLC).
-  - Evidence grade: single-source (WSJ, anonymous sources) for each stake; the recurrence of the pattern is our own observation. WSJ (reported 1 Feb 2026): Aryam Investment 1 agreed on 16 Jan 2025 to buy 49% of WLF for $500M, and G42 executives helped manage it. WSJ (27 Aug 2026): a Tahnoon-linked group is behind StringZ Holding RSC (DE) LLC, which owns 49% of WLTC Holdings, while a Trump-family affiliate owns about 38%. The OCC's CD #1385 (14 Aug 2026) names StringZ as a passive investor but gives no owner or percentage. The upper-tier org chart and WLTC cap table were kept confidential (Sen. Reed letter). 'RSC' is a company category in the Abu Dhabi Global Market (ADGM) registry, so StringZ is probably an ADGM restricted-scope company with a Delaware ('DE') counterpart; that is inferred from the name, and I found no ADGM register entry. StringZ's relationship to Aryam is unknown. No outlet reports them as the same vehicle.
-  - <https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html>
-  - <https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931>
-  - <https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj>
-  - <https://crypto.news/sheikh-tahnoon-reportedly-controls-49-stake-in-world-liberty-bank-holding-firm/>
-  - <https://www.reed.senate.gov/imo/media/doc/22426lettertooccreworldlibertyfinancial1.pdf>
-  - <https://www.adgm.com/registration-authority/registration-and-incorporation>
-- **Partly accurate**: At least one Emirati entity in the Aryam/WLF deal is domiciled in Delaware, and that was referred to the US Attorney there.
-  - Evidence grade: documented that the letter exists; the underlying Delaware domicile rests on 'news reports' the letter cites. On 4 Feb 2026 Rep. Ro Khanna, ranking member of the House Select Committee on the CCP, wrote to Benjamin Wallace, US Attorney for the District of Delaware, saying one of the Emirati companies involved in the deal is domiciled in his state. He also noted WLF's own Delaware incorporation and raised the foreign emoluments clause. A parallel letter went to Zach Witkoff. No response or opened matter was found. A non-news dossier site claims Aryam Investment 1 exists as twin Delaware and Abu Dhabi companies incorporated on consecutive days in December 2024, about a week after a Steve Witkoff UAE trip. No outlet or registry record confirms this, so it stays unverified and is not relied on.
-  - <https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/ranking-member-ro-khanna-presses-world-liberty-financial-information-trump>
-  - <https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/2-4-26-scc-letter-to-wallace.pdf>
-  - <https://www.theblock.co/post/388607/house-launches-probe-world-liberty-financial>
-- **Confirmed**: WLTC Holdings LLC is a Delaware vehicle sharing indirect common owners with WLF, chaired by Zach Witkoff.
-  - Evidence grade: documented (OCC decision; Senate letter). World Liberty Trust Company, N.A. (Bay Harbor Islands, FL) would be wholly owned by WLTC Holdings LLC, a Delaware LLC. The OCC states that WLF LLC and the bank share indirect common owners. Zach Witkoff, son of envoy Steve Witkoff, is president and chairman. The application was dated 5 Jan 2026 and announced 7 Jan; conditional approval came 14 Aug 2026; the WSJ reported StringZ's 49% on 27 Aug 2026, after approval. The Witkoff family's WLF interest sits in WC Digital Fi LLC, which paid Steve Witkoff about $107M of 2025 income (C42). Herro's and Folkman's 25% revenue share sits in Axiom Management Group (C42). I found no formation dates or registered agents for Axiom, WC Digital Fi or WLF Holdco.
-  - <https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf>
-  - <https://www.reed.senate.gov/imo/media/doc/22426lettertooccreworldlibertyfinancial1.pdf>
-  - <https://theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906>
-  - <https://www.nbcnews.com/tech/crypto/trump-family-gets-75-crypto-coin-revenue-no-liability-new-document-rev-rcna176088>
-- **Mostly accurate**: Trump Mobile is a licence chain: DTTM Operations (Trump trademarks) licenses T1 Mobile LLC, which runs on Liberty Mobile Wireless, a small Florida MVNO, and ultimate ownership is undisclosed.
-  - Evidence grade: documented for the chain; single-source for the Trump Towers address. Trump Mobile is operated by T1 Mobile LLC, a Florida-registered company doing business as 'Trump SM Mobile', under a trademark licence managed by DTTM Operations, the entity that holds Trump's marks and filed the 'T1' telecom applications. Network operations run through Liberty Mobile Wireless. Florida records show Liberty Mobile was registered in 2018 by Miami-area entrepreneur Matthew Lopatin, whom the FT links to several dissolved ventures. Pat O'Brien, described as Trump Mobile's CEO, co-owns VMed Mobile with Don Hendrickson and Eric Thomas, and his Ensurety Ventures controls Drive America and Omega Mobile Care, which Trump Mobile cross-sells. One report places Liberty Mobile at 16001 Collins Ave., Sunny Isles Beach, the Trump Towers building. That would put the operator inside a Trump-licensed property; it is single-source. Sen. Warner's letter of 18 May 2026 sought ownership details. T1 Mobile's beneficial owners remain undisclosed.
-  - <https://rcrwireless.com/20250616/business/trump-mobile-phone>
-  - <https://www.androidauthority.com/trump-phone-origin-canelo-liberty-mobile-3640986>
-  - <https://www.mobileworldlive.com/spanish/trump-mobile-vinculada-a-una-pequena-firma-de-florida/>
-  - <https://www.warner.senate.gov/wp-content/uploads/2026/05/260518.Trump_Mobile_letter.FINAL_.SIGN_-2.pdf>
-  - <https://www.myjoyonline.com/trump-mobile-wants-to-sell-you-telehealth-car-care-and-insurance/>
-- **Confirmed**: Trump Media Group CRO Strategy was a special-purpose treasury vehicle under the trust-controlled TMTG, built with Yorkville, and was dissolved before listing.
-  - Evidence grade: documented (company announcements; see C22/C41). The vehicle was announced on 26 Aug 2025 as a roughly $6.42B CRO treasury to list via Yorkville Acquisition Corp (MCGA). The package was $1B in CRO, $200M cash, $220M in warrants and a $5B equity line from a Yorkville affiliate. On 7 Aug 2026 TMTG, Crypto.com and Yorkville mutually terminated the business combination. Yorkville also sits on TMTG's Truth Social ETF side (C24/C41), so the same financier appears in two TMTG vehicles. The chain runs from the revocable trust (trustee Don Jr.) to TMTG to CRO Strategy. I found no registered agent or formation filing for the vehicle itself.
-  - <https://decrypt.co/336876/trump-media-crypto-com-reveal-6-4-billion-cronos-treasury-plan>
-  - <https://axios.com/2026/08/07/trump-media-crypto-treasury-deals>
-  - <https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market>
-- **Mostly accurate**: American Ventures is a Dominari-controlled family of SPVs through which the Trump sons hold microcap stakes.
-  - Evidence grade: documented for control (SEC filing); single-source for the sons' SPV holdings (FT, anonymous). A May 2026 SEC filing shows American Ventures Management LLC is 90% owned by Dominari Holdings, in which the sons own about 12%. Per the FT, the sons invested in most American Ventures vehicles. One SPV run by a Dominari subsidiary bought into Skyline Builders in Aug 2025, before Skyline's 31 Oct 2025 purchase of 20% of Kaz Resources (Kazakh tungsten; C47). The brothers' Powerus/Aureus stake is also held indirectly through American Ventures (C51). SEC filings do not name the brothers in the Skyline SPV. Both sons say they are passive investors.
-  - <https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps>
-  - <https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/>
-  - <https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/>
-- **Confirmed**: Several family-linked vehicles were activated in the four weeks around the 20 Jan 2025 inauguration.
-  - Evidence grade: each date is documented; the clustering is our own observation (inferred), and no source links these events. 30 Dec 2024: Albania grants strategic-investor status to Atlantic Incubation Partners LLC (Kushner/Affinity-affiliated, EUR 1.4B Sazan; C45). Jan 2025: WLF Holdco LLC is formed with DT Marks DEFI at about 60%. 16 Jan 2025: Eric Trump signs the Aryam 49% deal. 17/18 Jan: $TRUMP launches via CIC Digital and Fight Fight Fight. 19 Jan: $MELANIA launches via MKT World. Late Jan: CIC Ventures licensee sites accept $TRUMP. Earlier vehicles pre-date the campaign deals: the revocable trust (2014), MKT World (about 2021), CIC Digital (2022) and 45Footwear (31 Jan 2024). For Dynasty Trust A (the Lutnick children's trust that Tether reportedly lent to, Bloomberg 18 Mar 2026; C35/C50), I found no overlap with any Trump-family entity, agent or address.
-  - <https://www.aol.com/news/albania-approves-luxury-resort-project-132236248.html>
-  - <https://www.theblock.co/amp/post/348917/trump-family-now-controls-at-least-60-stake-over-world-liberty-financial-through-new-holding-company-reuters>
-  - <https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html>
-  - <https://www.bloomberg.com/news/features/2026-03-18/tether-made-loan-to-lutnick-s-children-as-they-bought-his-assets>
-
-## Corrections
-
-- The brief lists 'StringZ Holding RSC' as offshore. 'RSC' points to an Abu Dhabi Global Market restricted-scope company, and the '(DE)' suffix to a Delaware LLC. Neither is confirmed by a registry record, and its link to Aryam Investment 1 is unknown.
+- MKT World LLC, Melania Trump's vehicle and the $MELANIA issuer, predates the coin and uses Mar-a-Lago as its address (partly accurate)
+- At least one Emirati entity in the Aryam/WLF deal is domiciled in Delaware, and that was referred to the US Attorney there (partly accurate)
+- **Claim:** The brief lists 'StringZ Holding RSC' as offshore  
+  **Record:** 'RSC' points to an Abu Dhabi Global Market restricted-scope company, and the '(DE)' suffix to a Delaware LLC. Neither is confirmed by a registry record, and its link to Aryam Investment 1 is unknown.
 - CIC Ventures is not a 2024 vehicle. Trump listed it on his 2023 disclosure; the 2024 formation was the licensee 45Footwear LLC (31 Jan 2024).
 - MKT World LLC is variously described as Florida-registered (DL News) and Delaware-incorporated and registered in Florida as a foreign LLC (Protos). Both can be true; the state of formation is unverified.
 - The claim that Aryam Investment 1 was formed as twin Delaware and Abu Dhabi companies in Dec 2024 appears only on a non-news dossier site and is unverified.
 
+## In more detail
+
+- One Florida revocable trust, with Donald Trump Jr. as sole trustee, sits above TMTG, CIC Digital (digital licences, $TRUMP) and CIC Ventures (merchandise).
+- DT Marks DEFI and DT Marks SC use the Trump Organization's naming template for foreign licensing vehicles.
+- Tahnoon-linked vehicles reportedly hold 49% of both WLF (Aryam Investment 1) and the trust-bank parent WLTC Holdings (StringZ), each time beside a Trump-family stake of about 38%.
+- The most concrete registry-level overlaps are a shared Sheridan, Wyoming formation agent for two CIC Ventures licensees, and CIC Ventures merchandise sites that accept the CIC Digital-licensed coin.
+- Most beneficial owners (StringZ, T1 Mobile, Designers Manager, NFT INT, the Wyoming licensees) remain undisclosed, and registry lookups could not be done from here.
+
+## Connections searched for
+
+> Connection hunt: the LLCs, trusts and offshore vehicles in this story and who sits behind them — CIC Digital, CIC Ventures, Fight Fight Fight, Celebration Cards, DT Marks DEFI, DT Marks entities generally, WLTC Holdings, StringZ Holding RSC, Aryam Investment 1, MKT World, Designers Manager, Dynasty Trust A, Atlantic Incubation Partners, Axiom Management, American Ventures SPVs, the Donald J. Trump Revocable Trust (trustees), Trump Media Group CRO Strategy, T1/Trump Mobile licensees. Trace registered agents, officers, addresses, formation dates relative to deals, and any overlaps between them.
+
+## Follow-up checks
+
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
+
+## Sub-claims
+
+### 1. CIC Digital LLC and CIC Ventures LLC are sister licensing vehicles, both wholly owned by the Donald J. Trump Revocable Trust, with Trump himself as their officer.
+
+**Confirmed** · Evidence: Documented
+
+- Trump's disclosures list him as manager, president, secretary and treasurer of CIC Ventures (2023 disclosure, per Cowboy State Daily).
+- Reporting on the disclosures lists the same roles at CIC Digital.
+- Both are described as wholly owned by the revocable trust.
+- Public Citizen says Trump created CIC Digital in 2022 to receive NFT licence fees.
+- The two have since split the work.
+- CIC Digital licenses digital products: the Trump Digital Trading Cards through NFT INT LLC, and the $TRUMP coin, which brought about $635M in 'Celebration Coins' royalties in the 2025 OGE filing (see C01).
+- It also holds bitcoin valued at 'over $50,000,000'.
+- CIC Ventures licenses physical merchandise: sneakers, fragrances and watches.
+- The 2025 OGE filing gives CIC Digital a Palm Beach, FL location.
+- I could not confirm the state of formation; one non-news dossier says Delaware, and that is unverified.
+- Amounts: about $635M; over $50,000,000
+- Sources: [2](https://www.citizen.org/article/donald-trump-crypto-investors-4-7-billion-underwater/) [1](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump, Donald J. 2025 Annual 278.pdf) [3](https://bitcoinmagazine.com/news/president-donald-trump-50-million-bitcoin) [11](https://cowboystatedaily.com/2024/04/01/company-behind-trumps-flashy-gold-high-top-sneakers-registered-in-wyoming)
+
+### 2. The Donald J. Trump Revocable Trust is the top of most chains, and its sole trustee is Donald Trump Jr.
+
+**Confirmed** · Evidence: Documented (SEC Schedule 13D filings)
+
+- The trust is the 'Donald J. Trump Revocable Trust dated April 7, 2014', established under Florida law.
+- Trump is its settlor and sole beneficiary.
+- Donald Trump Jr. is sole trustee, with 'sole voting and investment power' over the roughly 114.75M DJT shares Trump gifted to it in December 2024, and he also sits on TMTG's board.
+- Through the trust, the same trustee sits above TMTG and its subsidiary Trump Media Group CRO Strategy, CIC Digital and CIC Ventures.
+- What I add, not asserted by any source: the trustee is also an active dealmaker on his own account, including American Ventures/Dominari (C39, C47, C51), 1789 Capital (C26) and drone ventures (C51).
+- So the person with legal control of the President's assets is also a counterparty in deals that touch federal policy.
+- The trust is revocable and family-run, not blind (C03).
+- Dates: April 7, 2014; December 2024
+- Sources: [4](https://www.nbcnews.com/business/business-news/trump-transfers-djt-shares-revocable-trust-sec-filings-show-rcna184966) [5](https://www.thewrap.com/donald-trump-media-and-technology-group-transfers-stake-trust) [6](https://www.secform4.com/13dg/947033/0001140361-25-046424.html)
+
+### 3. One Zanker-linked network runs Trump's digital licences end to end: NFT INT LLC (trading cards), Fight Fight Fight LLC ($TRUMP) and Celebration Cards LLC.
+
+**Mostly accurate** · Evidence: Documented for the licences, single-source for Celebration Cards' ownership
+
+- NFT INT LLC is a Delaware company that issues the Trump Digital Trading Cards under a paid licence from CIC Digital.
+- Public Citizen says its underlying ownership is 'shielded behind a Delaware registered agent'.
+- Zanker spokesman Kevin Mercuri confirmed Zanker's participation in the NFT deal and called it his first deal with Trump since 2015.
+- Fight Fight Fight LLC, run by Zanker, and CIC Digital together hold 80% of $TRUMP supply.
+- The Warren/Schiff/Blumenthal letter of 8 Apr 2026 describes Celebration Cards LLC as the owner of Fight Fight Fight.
+- Schiff's office says CIC Digital and Celebration Cards receive trading revenue from 'Trump Meme Cards'.
+- Only the Senate letter states that Celebration Cards owns Fight Fight Fight, and Fight Fight Fight has not answered.
+- Our own observation, which no source makes: the OGE filing labels CIC Digital's coin royalties 'Celebration Coins', the same brand word as Zanker's Celebration Cards.
+- That suggests the same counterparty, but it is inferred.
+- Amounts: 80%
+- Dates: 8 Apr 2026
+- Sources: [2](https://www.citizen.org/article/donald-trump-crypto-investors-4-7-billion-underwater/) [7](https://www.theblock.co/post/267294/trump-hawks-new-nfts-for-a-chance-to-win-a-piece-of-his-mugshot-suit) [8](https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf) [9](https://www.schiff.senate.gov/?p=12266) [10](https://www.hsgac.senate.gov/wp-content/uploads/2025-05-06-Letter-from-Sen.-Richard-Blumenthal-to-Fight-Fight-Fight.pdf)
+
+### 4. Two CIC Ventures licensees, the sneaker company and the watch company, were set up by the same Sheridan, Wyoming formation agent.
+
+**Confirmed** · Evidence: Documented for the shared agent; inferred for any common ownership
+
+- Cowboy State Daily (Wyoming Secretary of State records) reports the following.
+- 45Footwear LLC, which licenses 'Trump Sneakers' from CIC Ventures, was filed in Wyoming on 31 Jan 2024, less than three weeks before the 17 Feb 2024 Sneaker Con launch.
+- Its registered agent is Andrew Pierce, a Sheridan paralegal with Wyoming Trust and LLC / Cloud Peak Law Group, at that firm's address.
+- TheBestWatchesOnEarth LLC, which sells Trump-licensed watches, is registered at 1309 Coffeen Ave., Sheridan, with Pierce as organizer.
+- Cowboy State Daily says it is 'unknown if the two efforts are connected'.
+- CNN traced the 'Swiss-made' watches to a Sheridan shopping center tied to other Trump-themed sellers.
+- Both companies' sites say they are not owned or controlled by Trump or CIC Ventures.
+- A shared formation agent is common in Wyoming and does not prove shared owners; the licensees' beneficial owners are not public.
+- Dates: 31 Jan 2024; 17 Feb 2024
+- Sources: [11](https://cowboystatedaily.com/2024/04/01/company-behind-trumps-flashy-gold-high-top-sneakers-registered-in-wyoming) [12](https://cowboystatedaily.com/2024/10/01/trumps-new-line-of-100k-watches-registered-to-wyoming-company/) [13](https://amp.cnn.com/cnn/2024/10/17/politics/trump-watches-wyoming-invs)
+
+### 5. The two CIC silos feed each other: CIC Ventures-licensed merchandise sites began accepting the CIC Digital-licensed $TRUMP coin as payment.
+
+**Confirmed** · Evidence: Documented for the payment integration; inferred for the 'loop'
+
+- Around 29-30 Jan 2025, roughly 12 days after $TRUMP launched, GetTrumpSneakers.com, GetTrumpFragrances.com and (per Bloomberg, via Cointelegraph) GetTrumpWatches.com began accepting $TRUMP via Solana Pay.
+- The Block says they also accepted $MELANIA, and says all three sites 'appear to operate under license from CIC Ventures, which is linked to the firm that launched the memecoins'.
+- The Victory 45-47 and 'Fight, Fight, Fight' fragrances are sold through the same licensing group.
+- Our observation, which no source frames this way: one trust-owned licensor's merchandise channel created spending demand for a token whose royalties flow to another trust-owned licensor.
+- No data on payment volumes was found.
+- Dates: 30 Jan 2025
+- Sources: [14](https://www.theblock.co/post/337940/trump-melania-memecoin-payments) [15](https://cointelegraph.com/news/trump-crypto-footprint-memecoin-merch-purchases) [16](https://hotfix.coindesk.com/markets/2025/01/30/trump-memecoins-can-now-be-used-to-buy-donald-trump-merchandise) [17](https://theintercept.com/2025/07/01/trump-fragrance-crypto/)
+
+### 6. MKT World LLC, Melania Trump's vehicle and the $MELANIA issuer, predates the coin and uses Mar-a-Lago as its address.
+
+**Partly accurate** · Evidence: Documented for the issuer role and income; single-source for the Delaware formation and Mar-a-Lago address
+
+- Protos, citing Florida Secretary of State filings, says Melania is president of MKT World, that it was incorporated in Delaware and registered in Florida as a foreign LLC, and that it uses Mar-a-Lago as its mailing address.
+- DL News describes it as Florida-registered, and CoinDesk's token-terms summary says Delaware.
+- Several outlets say it has existed since about 2021.
+- Disclosures route NFT sales, speaking fees, Skyhorse book income and $MELANIA to it (2023 income $1-5M per DL News).
+- The 2025 filing's separate $6.01M 'Designers Manager' NFT licence (C02) has no identified counterparty: I found nothing on who owns Designers Manager.
+- Amounts: $1-5M; $6.01M
+- Sources: [18](https://protos.com/trump-coin-may-doing-poorly-but-melania-coin-is-an-atrocity/) [19](https://dlnews.com/articles/people-culture/inside-the-trump-family-crypto-empire/) <https://www.theblock.co/amp/post/335637/donald-trump-memecoin-crashes-48-as-melania-trump-launches-her-own-memecoin> [1](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump, Donald J. 2025 Annual 278.pdf)
+
+### 7. DT Marks DEFI uses the Trump Organization's naming template for foreign brand-licensing LLCs, and a second 'DT Marks' entity (DT Marks SC) appears in the trust-bank approval.
+
+**Mostly accurate** · Evidence: Documented for the entity names; inferred for the structural parallel
+
+- The Trump Organization collects foreign licence fees through 'DT Marks <place>' LLCs.
+- Examples are DT Marks KSA LLC (about $15.9M in Saudi fees), DT Marks Oman LLC (the Nov 2022 Dar Oman agreement in Dar Global's prospectus), DT Marks Doha LLC / Member Corp, DT Marks Abu Dhabi LLC and DT Marks Al Raha Beach LLC (CREW calls these new Delaware entities tied to unannounced Abu Dhabi projects), and DT Marks Worli (ProPublica).
+- DT Marks DEFI LLC, which holds 22.5B WLFI and 75% of WLF net protocol revenue (C42), follows the same template.
+- The OCC's CD #1385 lists a separate 'DT Marks SC LLC' among passive investors in WLTC Holdings (C12).
+- Our inference, which no outlet states: the family's WLF position is built like a brand licence rather than an operating stake, and the Trump Organization opened Abu Dhabi licensing entities in the same period that Abu Dhabi vehicles bought 49% of WLF and WLTC.
+- What 'SC' stands for, and how DT Marks SC relates to DT Marks DEFI, is unverified.
+- Amounts: about $15.9M; 75%; 49%
+- Dates: Nov 2022
+- Sources: [20](https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/) [21](https://wendysiegelman.substack.com/p/the-500-million-trump-international) [22](https://projects.propublica.org/trump-town/organizations/dt-marks-worli-member-corp-pass-thru-company-for-dt-marks-worli-llc-license-deal) [23](https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/) [24](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf)
+
+### 8. The same 49% / ~38% split between a Tahnoon-linked vehicle and a Trump-family entity recurs at both WLF (Aryam Investment 1) and the trust bank holding company WLTC Holdings (StringZ Holding RSC (DE) LLC).
+
+**Mostly accurate** · Evidence: Single-source (WSJ, anonymous sources) for each stake; the recurrence of the pattern is our own observation
+
+- WSJ (reported 1 Feb 2026): Aryam Investment 1 agreed on 16 Jan 2025 to buy 49% of WLF for $500M, and G42 executives helped manage it.
+- WSJ (27 Aug 2026): a Tahnoon-linked group is behind StringZ Holding RSC (DE) LLC, which owns 49% of WLTC Holdings, while a Trump-family affiliate owns about 38%.
+- The OCC's CD #1385 (14 Aug 2026) names StringZ as a passive investor but gives no owner or percentage.
+- The upper-tier org chart and WLTC cap table were kept confidential (Sen. Reed letter).
+- 'RSC' is a company category in the Abu Dhabi Global Market (ADGM) registry, so StringZ is probably an ADGM restricted-scope company with a Delaware ('DE') counterpart; that is inferred from the name, and I found no ADGM register entry.
+- StringZ's relationship to Aryam is unknown.
+- No outlet reports them as the same vehicle.
+- Amounts: 49%; $500M; about 38%
+- Dates: 1 Feb 2026; 16 Jan 2025; 27 Aug 2026; 14 Aug 2026
+- Sources: [25](https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html) [26](https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931) [27](https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj) [28](https://crypto.news/sheikh-tahnoon-reportedly-controls-49-stake-in-world-liberty-bank-holding-firm/) [29](https://www.reed.senate.gov/imo/media/doc/22426lettertooccreworldlibertyfinancial1.pdf) [30](https://www.adgm.com/registration-authority/registration-and-incorporation)
+
+### 9. At least one Emirati entity in the Aryam/WLF deal is domiciled in Delaware, and that was referred to the US Attorney there.
+
+**Partly accurate** · Evidence: Documented that the letter exists; the underlying Delaware domicile rests on 'news reports' the letter cites
+
+- On 4 Feb 2026 Rep. Ro Khanna, ranking member of the House Select Committee on the CCP, wrote to Benjamin Wallace, US Attorney for the District of Delaware, saying one of the Emirati companies involved in the deal is domiciled in his state.
+- He also noted WLF's own Delaware incorporation and raised the foreign emoluments clause.
+- A parallel letter went to Zach Witkoff.
+- No response or opened matter was found.
+- A non-news dossier site claims Aryam Investment 1 exists as twin Delaware and Abu Dhabi companies incorporated on consecutive days in December 2024, about a week after a Steve Witkoff UAE trip.
+- No outlet or registry record confirms this, so it stays unverified and is not relied on.
+- Dates: 4 Feb 2026; December 2024
+- Sources: [31](https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/ranking-member-ro-khanna-presses-world-liberty-financial-information-trump) [32](https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/2-4-26-scc-letter-to-wallace.pdf) [33](https://www.theblock.co/post/388607/house-launches-probe-world-liberty-financial)
+
+### 10. WLTC Holdings LLC is a Delaware vehicle sharing indirect common owners with WLF, chaired by Zach Witkoff.
+
+**Confirmed** · Evidence: Documented (OCC decision; Senate letter)
+
+- World Liberty Trust Company, N.A.
+- (Bay Harbor Islands, FL) would be wholly owned by WLTC Holdings LLC, a Delaware LLC. The OCC states that WLF LLC and the bank share indirect common owners.
+- Zach Witkoff, son of envoy Steve Witkoff, is president and chairman.
+- The application was dated 5 Jan 2026 and announced 7 Jan; conditional approval came 14 Aug 2026; the WSJ reported StringZ's 49% on 27 Aug 2026, after approval.
+- The Witkoff family's WLF interest sits in WC Digital Fi LLC, which paid Steve Witkoff about $107M of 2025 income (C42).
+- Herro's and Folkman's 25% revenue share sits in Axiom Management Group (C42).
+- I found no formation dates or registered agents for Axiom, WC Digital Fi or WLF Holdco.
+- Amounts: 49%; about $107M; 25%
+- Dates: 5 Jan 2026; 7 Jan; 14 Aug 2026; 27 Aug 2026
+- Sources: [24](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf) [29](https://www.reed.senate.gov/imo/media/doc/22426lettertooccreworldlibertyfinancial1.pdf) [34](https://theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906) [35](https://www.nbcnews.com/tech/crypto/trump-family-gets-75-crypto-coin-revenue-no-liability-new-document-rev-rcna176088)
+
+### 11. Trump Mobile is a licence chain: DTTM Operations (Trump trademarks) licenses T1 Mobile LLC, which runs on Liberty Mobile Wireless, a small Florida MVNO, and ultimate ownership is undisclosed.
+
+**Mostly accurate** · Evidence: Documented for the chain; single-source for the Trump Towers address
+
+- Trump Mobile is operated by T1 Mobile LLC, a Florida-registered company doing business as 'Trump SM Mobile', under a trademark licence managed by DTTM Operations, the entity that holds Trump's marks and filed the 'T1' telecom applications.
+- Network operations run through Liberty Mobile Wireless.
+- Florida records show Liberty Mobile was registered in 2018 by Miami-area entrepreneur Matthew Lopatin, whom the FT links to several dissolved ventures.
+- Pat O'Brien, described as Trump Mobile's CEO, co-owns VMed Mobile with Don Hendrickson and Eric Thomas, and his Ensurety Ventures controls Drive America and Omega Mobile Care, which Trump Mobile cross-sells.
+- One report places Liberty Mobile at 16001 Collins Ave., Sunny Isles Beach, the Trump Towers building.
+- That would put the operator inside a Trump-licensed property; it is single-source.
+- Sen. Warner's letter of 18 May 2026 sought ownership details.
+- T1 Mobile's beneficial owners remain undisclosed.
+- Dates: 18 May 2026
+- Sources: [37](https://rcrwireless.com/20250616/business/trump-mobile-phone) [38](https://www.androidauthority.com/trump-phone-origin-canelo-liberty-mobile-3640986) [39](https://www.mobileworldlive.com/spanish/trump-mobile-vinculada-a-una-pequena-firma-de-florida/) [40](https://www.warner.senate.gov/wp-content/uploads/2026/05/260518.Trump_Mobile_letter.FINAL_.SIGN_-2.pdf) [41](https://www.myjoyonline.com/trump-mobile-wants-to-sell-you-telehealth-car-care-and-insurance/)
+
+### 12. Trump Media Group CRO Strategy was a special-purpose treasury vehicle under the trust-controlled TMTG, built with Yorkville, and was dissolved before listing.
+
+**Confirmed** · Evidence: Documented (company announcements; see C22/C41)
+
+- The vehicle was announced on 26 Aug 2025 as a roughly $6.42B CRO treasury to list via Yorkville Acquisition Corp (MCGA).
+- The package was $1B in CRO, $200M cash, $220M in warrants and a $5B equity line from a Yorkville affiliate.
+- On 7 Aug 2026 TMTG, Crypto.com and Yorkville mutually terminated the business combination.
+- Yorkville also sits on TMTG's Truth Social ETF side (C24/C41), so the same financier appears in two TMTG vehicles.
+- The chain runs from the revocable trust (trustee Don Jr.) to TMTG to CRO Strategy.
+- I found no registered agent or formation filing for the vehicle itself.
+- Amounts: roughly $6.42B; $1B; $200M; $220M; $5B
+- Dates: 26 Aug 2025; 7 Aug 2026
+- Sources: [42](https://decrypt.co/336876/trump-media-crypto-com-reveal-6-4-billion-cronos-treasury-plan) [43](https://axios.com/2026/08/07/trump-media-crypto-treasury-deals) [44](https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market)
+
+### 13. American Ventures is a Dominari-controlled family of SPVs through which the Trump sons hold microcap stakes.
+
+**Mostly accurate** · Evidence: Documented for control (SEC filing); single-source for the sons' SPV holdings (FT, anonymous)
+
+- A May 2026 SEC filing shows American Ventures Management LLC is 90% owned by Dominari Holdings, in which the sons own about 12%.
+- Per the FT, the sons invested in most American Ventures vehicles.
+- One SPV run by a Dominari subsidiary bought into Skyline Builders in Aug 2025, before Skyline's 31 Oct 2025 purchase of 20% of Kaz Resources (Kazakh tungsten; C47).
+- The brothers' Powerus/Aureus stake is also held indirectly through American Ventures (C51).
+- SEC filings do not name the brothers in the Skyline SPV.
+- Both sons say they are passive investors.
+- Amounts: 90%; about 12%; 20%
+- Dates: May 2026; Aug 2025; 31 Oct 2025
+- Sources: [45](https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps) [46](https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/) [47](https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/)
+
+### 14. Several family-linked vehicles were activated in the four weeks around the 20 Jan 2025 inauguration.
+
+**Confirmed** · Evidence: Each date is documented; the clustering is our own observation (inferred), and no source links these events
+
+- 30 Dec 2024: Albania grants strategic-investor status to Atlantic Incubation Partners LLC (Kushner/Affinity-affiliated, EUR 1.4B Sazan; C45).
+- Jan 2025: WLF Holdco LLC is formed with DT Marks DEFI at about 60%.
+- 16 Jan 2025: Eric Trump signs the Aryam 49% deal.
+- 17/18 Jan: $TRUMP launches via CIC Digital and Fight Fight Fight.
+- 19 Jan: $MELANIA launches via MKT World.
+- Late Jan: CIC Ventures licensee sites accept $TRUMP.
+- Earlier vehicles pre-date the campaign deals: the revocable trust (2014), MKT World (about 2021), CIC Digital (2022) and 45Footwear (31 Jan 2024).
+- For Dynasty Trust A (the Lutnick children's trust that Tether reportedly lent to, Bloomberg 18 Mar 2026; C35/C50), I found no overlap with any Trump-family entity, agent or address.
+- Amounts: about 60%; 49%
+- Dates: 30 Dec 2024; Jan 2025; 16 Jan 2025; 18 Jan; 19 Jan
+- Sources: [48](https://www.aol.com/news/albania-approves-luxury-resort-project-132236248.html) [36](https://www.theblock.co/amp/post/348917/trump-family-now-controls-at-least-60-stake-over-world-liberty-financial-through-new-holding-company-reuters) [25](https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html) [49](https://www.bloomberg.com/news/features/2026-03-18/tether-made-loan-to-lutnick-s-children-as-they-bought-his-assets)
+
 ## Denials and context
 
 - NFT INT LLC, 45Footwear LLC and TheBestWatchesOnEarth LLC all state they are not owned, managed or controlled by Trump, the Trump Organization or the CIC entities. They pay licence fees.
-- WLF and the White House told the WSJ that Trump was not involved in the Aryam deal. The OCC says career staff reviewed the WLTC charter and that StringZ signed passivity commitments.
+- WLF and the White House told the WSJ that Trump was not involved in the Aryam deal.
+  - The OCC says career staff reviewed the WLTC charter and that StringZ signed passivity commitments.
 - Eric Trump and Donald Trump Jr. call themselves passive investors in American Ventures.
-- Affinity says it is neither investor nor developer in Albania. Kushner calls himself a minority partner.
+- Affinity says it is neither investor nor developer in Albania.
+  - Kushner calls himself a minority partner.
 - A shared registered agent or formation firm is routine and is not evidence of common ownership or wrongdoing.
-- Fight Fight Fight has not publicly answered the Senate letters. Trump Mobile, the Trump Organization and Liberty Mobile did not answer questions about the Oct 2026 breach reports.
-- Method limits: state and ADGM registries, OCC and House PDFs, Protos and DL News could not be fetched from this environment, and the web-search budget ran out mid-research. Formation dates and agents for Axiom, WC Digital Fi, WLF Holdco, CRO Strategy, Designers Manager and Celebration Cards were not found.
+- Fight Fight Fight has not publicly answered the Senate letters.
+  - Trump Mobile, the Trump Organization and Liberty Mobile did not answer questions about the Oct 2026 breach reports.
+- Method limits: state and ADGM registries, OCC and House PDFs, Protos and DL News could not be fetched from this environment, and the web-search budget ran out mid-research.
+  - Formation dates and agents for Axiom, WC Digital Fi, WLF Holdco, CRO Strategy, Designers Manager and Celebration Cards were not found.
 
 ## People and organisations
 
-- [[$MELANIA meme coin]]
-- [[$TRUMP meme coin]]
-- [[45Footwear LLC]]
-- [[Abu Dhabi Global Market]]
-- [[Affinity Partners]]
-- [[American Ventures]]
-- [[Andrew Pierce]]
-- [[Aryam Investment 1]]
-- [[Atlantic Incubation Partners LLC]]
-- [[Axiom Management Group]]
-- [[Bill Zanker]]
-- [[Celebration Cards LLC]]
-- [[Chase Herro]]
-- [[CIC Digital LLC]]
-- [[CIC Ventures LLC]]
-- [[Cloud Peak Law Group Wyoming Trust and LLC]]
-- [[Crypto.com]]
-- [[Dar Global]]
-- [[Designers Manager]]
-- [[Dominari Holdings Dominari Securities]]
-- [[Donald J. Trump Revocable Trust]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]]
-- [[DT Marks DEFI LLC]]
-- [[DT Marks Doha LLC]]
-- [[DT Marks KSA LLC]]
-- [[DT Marks Oman LLC]]
-- [[DT Marks SC LLC]]
-- [[DTTM Operations LLC]]
-- [[Dynasty Trust A]]
-- [[Eric Trump]]
-- [[Fight Fight Fight LLC]]
-- [[G42]]
-- [[Jared Kushner]]
-- [[Liberty Mobile Wireless]]
-- [[Matthew Lopatin]]
-- [[Melania Trump]]
-- [[MKT World LLC]]
-- [[NFT INT LLC]]
-- [[Office of the Comptroller of the Currency]]
-- [[Pat O'Brien]]
-- [[Ro Khanna]]
-- [[Sheikh Tahnoon bin Zayed]]
-- [[Skyline Builders Group]]
-- [[Steve Witkoff]]
-- [[StringZ Holding RSC (DE) LLC]]
-- [[T1 Mobile LLC]]
-- [[T1 phone]]
-- [[Tether]]
-- [[TheBestWatchesOnEarth LLC]]
-- [[Trump Media & Technology Group]]
-- [[Trump Media Group CRO Strategy]]
-- [[Trump Mobile]]
-- [[Trump Organization]]
-- [[United Arab Emirates]]
-- [[US Attorney for the District of Delaware (Benjamin Wallace)]]
-- [[USD1]]
-- [[WC Digital Fi LLC]]
-- [[WLF Holdco LLC]]
-- [[WLTC Holdings LLC]]
-- [[World Liberty Financial]]
-- [[World Liberty Trust Company, N.A]]
-- [[Yorkville Acquisition Corp]]
-- [[Zach Witkoff]]
-- [[Zak Folkman]]
+- [[$MELANIA meme coin]] · Asset
+- [[$TRUMP meme coin]] · Asset
+- [[45Footwear LLC]] · Company
+- [[Abu Dhabi Global Market]] · Government body
+- [[Affinity Partners]] · Fund
+- [[American Ventures]] · Fund
+- [[Andrew Pierce]] · Person
+- [[Aryam Investment 1]] · Fund
+- [[Atlantic Incubation Partners LLC]] · Company
+- [[Axiom Management Group]] · Company
+- [[Bill Zanker]] · Person
+- [[Celebration Cards LLC]] · Company
+- [[Chase Herro]] · Person
+- [[CIC Digital LLC]] · Company
+- [[CIC Ventures LLC]] · Company
+- [[Cloud Peak Law Group Wyoming Trust and LLC]] · Company
+- [[Crypto.com]] · Company
+- [[Dar Global]] · Company
+- [[Designers Manager]] · Company
+- [[Dominari Holdings Dominari Securities]] · Company
+- [[Donald J. Trump Revocable Trust]] · Fund
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · Company
+- [[DT Marks DEFI LLC]] · Company
+- [[DT Marks Doha LLC]] · Company
+- [[DT Marks KSA LLC]] · Company
+- [[DT Marks Oman LLC]] · Company
+- [[DT Marks SC LLC]] · Company
+- [[DTTM Operations LLC]] · Company
+- [[Dynasty Trust A]] · Fund
+- [[Eric Trump]] · Person
+- [[Fight Fight Fight LLC]] · Company
+- [[G42]] · Company
+- [[Jared Kushner]] · Person
+- [[Liberty Mobile Wireless]] · Company
+- [[Matthew Lopatin]] · Person
+- [[Melania Trump]] · Person
+- [[MKT World LLC]] · Company
+- [[NFT INT LLC]] · Company
+- [[Office of the Comptroller of the Currency]] · Government body
+- [[Pat O'Brien]] · Person
+- [[Ro Khanna]] · Person
+- [[Sheikh Tahnoon bin Zayed]] · Person
+- [[Skyline Builders Group]] · Company
+- [[Steve Witkoff]] · Person
+- [[StringZ Holding RSC (DE) LLC]] · Company
+- [[T1 Mobile LLC]] · Company
+- [[T1 phone]] · Product
+- [[Tether]] · Company
+- [[TheBestWatchesOnEarth LLC]] · Company
+- [[Trump Media & Technology Group]] · Company
+- [[Trump Media Group CRO Strategy]] · Company
+- [[Trump Mobile]] · Company
+- [[Trump Organization]] · Company
+- [[United Arab Emirates]] · Country
+- [[US Attorney for the District of Delaware (Benjamin Wallace)]] · Government body
+- [[USD1]] · Asset
+- [[WC Digital Fi LLC]] · Company
+- [[WLF Holdco LLC]] · Company
+- [[WLTC Holdings LLC]] · Company
+- [[World Liberty Financial]] · Company
+- [[World Liberty Trust Company, N.A]] · Company
+- [[Yorkville Acquisition Corp]] · Company
+- [[Zach Witkoff]] · Person
+- [[Zak Folkman]] · Person
 
 ## Relationships documented
 
-- [[45Footwear LLC]] *accepts as payment* [[$TRUMP meme coin]] (2025-01-30, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Affinity Partners]] *affiliated with (Reuters)* [[Atlantic Incubation Partners LLC]] (2024-12-30, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[American Ventures]] *SPV bought stake (FT, anonymous)* [[Skyline Builders Group]] (2025-08, money) · [[C63 Shell entities and ownership chains|C63]]
-- [[Andrew Pierce]] *registered agent of* [[45Footwear LLC]] (2024-01-31, legal) · [[C63 Shell entities and ownership chains|C63]]
-- [[Andrew Pierce]] *paralegal at* [[Cloud Peak Law Group Wyoming Trust and LLC]] (commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Andrew Pierce]] *organizer of* [[TheBestWatchesOnEarth LLC]] (2024, legal) · [[C63 Shell entities and ownership chains|C63]]
-- [[Aryam Investment 1]] *~$187M of $250M upfront flowed to Trump-family entities* [[DT Marks DEFI LLC]] (2025-01, $187M, money) · [[C63 Shell entities and ownership chains|C63]]
-- [[Aryam Investment 1]] *agreed to buy 49% for $500M* [[World Liberty Financial]] (2025-01-16, $500M, money) · [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Axiom Management Group]] *entitled to 25% of net protocol revenue* [[World Liberty Financial]] (2024-10, money) · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
-- [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] (2025-01, ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Bill Zanker]] *participated in (per spokesman)* [[NFT INT LLC]] (2022-12, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Celebration Cards LLC]] *shares Trump Meme Cards trading revenue with* [[CIC Digital LLC]] (2026, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Celebration Cards LLC]] *owns (per Senate letter)* [[Fight Fight Fight LLC]] (2026-04-08, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Chase Herro]] *co-owns* [[Axiom Management Group]] (2024-10, ownership) · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
-- [[CIC Digital LLC]] *paid 'Celebration Coins' royalties (2025 OGE)* [[Donald Trump]] (2025, $635.07M, money) · [[C63 Shell entities and ownership chains|C63]]
-- [[CIC Digital LLC]] *licenses Trump name/likeness to* [[NFT INT LLC]] (2022-12, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[CIC Digital LLC]] *co-holds 80% of supply with Fight Fight Fight; royalties* [[$TRUMP meme coin]] (2025-01-17, $635.07M, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[CIC Ventures LLC]] *licenses Trump name to (sneakers, fragrances)* [[45Footwear LLC]] (2024-02, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[CIC Ventures LLC]] *licenses Trump name to (watches, per The Block)* [[TheBestWatchesOnEarth LLC]] (2024-09, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Crypto.com]] *partner/CRO contributor* [[Trump Media Group CRO Strategy]] (2025-08-26, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Dar Global]] *pays licence fees to (Dar Al Arkan ~$21.9M 2025)* [[DT Marks KSA LLC]] (2025, money) · [[C63 Shell entities and ownership chains|C63]]
-- [[Dar Global]] *licence agreement with* [[DT Marks Oman LLC]] (2022-11, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Designers Manager]] *paid NFT/collectibles licence income* [[Melania Trump]] (2025, $6.01M, money) · [[C63 Shell entities and ownership chains|C63]]
-- [[Dominari Holdings Dominari Securities]] *owns 90% of American Ventures Management LLC* [[American Ventures]] (2026-05, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald J. Trump Revocable Trust]] *wholly owns* [[CIC Digital LLC]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald J. Trump Revocable Trust]] *wholly owns* [[CIC Ventures LLC]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald J. Trump Revocable Trust]] *holds ~114.75M shares of* [[Trump Media & Technology Group]] (2024-12, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump]] *manager, president, secretary, treasurer of* [[CIC Digital LLC]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump]] *manager, president, secretary, treasurer of* [[CIC Ventures LLC]] (2023, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump]] *settlor and sole beneficiary of* [[Donald J. Trump Revocable Trust]] (2014-04-07, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump]] *beneficial owner (with family) of* [[DT Marks DEFI LLC]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *investor in most vehicles (FT)* [[American Ventures]] (2025-08, money) · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *sole trustee with sole voting/investment power over* [[Donald J. Trump Revocable Trust]] (2024-12, legal) · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *co-announced* [[Trump Mobile]] (2025-06-16, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[DT Marks DEFI LLC]] *holds ~60%, then 40%, then ~38% equity in* [[WLF Holdco LLC]] (2025-01, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[DT Marks DEFI LLC]] *entitled to 75% of net protocol revenue; 22.5B WLFI* [[World Liberty Financial]] (2024-10, money) · [[C63 Shell entities and ownership chains|C63]]
-- [[DT Marks SC LLC]] *passive investor in (OCC CD #1385); ~38% Trump-family stake reported* [[WLTC Holdings LLC]] (2026-08-14, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[DTTM Operations LLC]] *licenses Trump marks to* [[T1 Mobile LLC]] (2025-06, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Eric Trump]] *investor in most vehicles (FT)* [[American Ventures]] (2025-08, money) · [[C63 Shell entities and ownership chains|C63]]
-- [[Eric Trump]] *signed deal with* [[Aryam Investment 1]] (2025-01-16, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Eric Trump]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Eric Trump]] *co-announced* [[Trump Mobile]] (2025-06-16, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Fight Fight Fight LLC]] *co-holds 80% of supply* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[G42]] *executives help manage* [[Aryam Investment 1]] (advisory) · [[C63 Shell entities and ownership chains|C63]]
-- [[Jared Kushner]] *affiliated via Affinity partners; minority partner* [[Atlantic Incubation Partners LLC]] (2024-12-30, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Liberty Mobile Wireless]] *runs MVNO network operations for* [[Trump Mobile]] (2025, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Matthew Lopatin]] *registered (2018) and president of* [[Liberty Mobile Wireless]] (2018, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Melania Trump]] *spouse of* [[Donald Trump]] (family) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C44 Melania Trump's Amazon documentary deal|C44]] [[C63 Shell entities and ownership chains|C63]]
-- [[Melania Trump]] *president of* [[MKT World LLC]] (2021, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[MKT World LLC]] *issuer of* [[$MELANIA meme coin]] (2025-01-19, ownership) · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]]
-- [[Office of the Comptroller of the Currency]] *preliminary conditional charter approval* [[World Liberty Trust Company, N.A]] (2026-08-14, regulatory) · [[C63 Shell entities and ownership chains|C63]]
-- [[Pat O'Brien]] *CEO of* [[Trump Mobile]] (advisory) · [[C63 Shell entities and ownership chains|C63]]
-- [[Ro Khanna]] *flagged Delaware-domiciled Emirati entity in Aryam deal* [[US Attorney for the District of Delaware (Benjamin Wallace)]] (2026-02-04, political) · [[C63 Shell entities and ownership chains|C63]]
-- [[Ro Khanna]] *sent inquiry letter to* [[Zach Witkoff]] (2026-02-04, political) · [[C63 Shell entities and ownership chains|C63]]
-- [[StringZ Holding RSC (DE) LLC]] *name indicates ADGM 'RSC' company type (inferred)* [[Abu Dhabi Global Market]] (legal) · [[C63 Shell entities and ownership chains|C63]]
-- [[StringZ Holding RSC (DE) LLC]] *reported 49% owner; OCC-listed passive investor* [[WLTC Holdings LLC]] (2026-08-14, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[T1 Mobile LLC]] *operates (d/b/a Trump SM Mobile)* [[Trump Mobile]] (2025-06-16, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Sheikh Tahnoon bin Zayed]] *reportedly behind (WSJ, anonymous sources)* [[StringZ Holding RSC (DE) LLC]] (2026-08-27, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Tether]] *lent undisclosed sum to (Bloomberg)* [[Dynasty Trust A]] (2026-03-18, money) · [[C63 Shell entities and ownership chains|C63]]
-- [[TheBestWatchesOnEarth LLC]] *accepts as payment (per Bloomberg)* [[$TRUMP meme coin]] (2025-01-30, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Trump Media & Technology Group]] *formed treasury vehicle* [[Trump Media Group CRO Strategy]] (2025-08-26, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Trump Mobile]] *sells* [[T1 phone]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]] [[C63 Shell entities and ownership chains|C63]]
-- [[Trump Organization]] *licensing vehicle of* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Trump Organization]] *licensing vehicle of* [[DT Marks Doha LLC]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Trump Organization]] *licensing vehicle of* [[DT Marks KSA LLC]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[Trump Organization]] *licensing vehicle of* [[DT Marks Oman LLC]] (2022-11, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[WC Digital Fi LLC]] *paid ~$107M 2025 income* [[Steve Witkoff]] (2025, $107M, money) · [[C63 Shell entities and ownership chains|C63]]
-- [[WC Digital Fi LLC]] *holds interest in* [[World Liberty Financial]] (ownership) · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
-- [[WLF Holdco LLC]] *owns* [[World Liberty Financial]] (2025-01, ownership) · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
-- [[WLTC Holdings LLC]] *shares indirect common owners with (OCC)* [[World Liberty Financial]] (2026-08-14, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[WLTC Holdings LLC]] *wholly owns* [[World Liberty Trust Company, N.A]] (2026-01-05, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[World Liberty Trust Company, N.A]] *would issue and custody* [[USD1]] (commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Yorkville Acquisition Corp]] *planned merger partner; terminated* [[Trump Media Group CRO Strategy]] (2026-08-07, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Zach Witkoff]] *son of* [[Steve Witkoff]] (family) · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]]
-- [[Zach Witkoff]] *President and Chairman* [[World Liberty Trust Company, N.A]] (2026, advisory) · [[C63 Shell entities and ownership chains|C63]]
-- [[Zak Folkman]] *co-owns* [[Axiom Management Group]] (2024-10, ownership) · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
+### Money (12)
 
-## Leads not covered by the video
+- [[Axiom Management Group]] *entitled to 25% of net protocol revenue* [[World Liberty Financial]] · 2024-10 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
+- [[DT Marks DEFI LLC]] *entitled to 75% of net protocol revenue; 22.5B WLFI* [[World Liberty Financial]] · 2024-10 · [[C63 Shell entities and ownership chains|C63]]
+- [[CIC Digital LLC]] *paid 'Celebration Coins' royalties (2025 OGE)* [[Donald Trump]] · 2025 · $635.07M · [[C63 Shell entities and ownership chains|C63]]
+- [[Dar Global]] *pays licence fees to (Dar Al Arkan ~$21.9M 2025)* [[DT Marks KSA LLC]] · 2025 · [[C63 Shell entities and ownership chains|C63]]
+- [[Designers Manager]] *paid NFT/collectibles licence income* [[Melania Trump]] · 2025 · $6.01M · [[C63 Shell entities and ownership chains|C63]]
+- [[WC Digital Fi LLC]] *paid ~$107M 2025 income* [[Steve Witkoff]] · 2025 · $107M · [[C63 Shell entities and ownership chains|C63]]
+- [[Aryam Investment 1]] *~$187M of $250M upfront flowed to Trump-family entities* [[DT Marks DEFI LLC]] · 2025-01 · $187M · [[C63 Shell entities and ownership chains|C63]]
+- [[Aryam Investment 1]] *agreed to buy 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[American Ventures]] *SPV bought stake (FT, anonymous)* [[Skyline Builders Group]] · 2025-08 · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald Trump Jr]] *investor in most vehicles (FT)* [[American Ventures]] · 2025-08 · [[C63 Shell entities and ownership chains|C63]]
+- [[Eric Trump]] *investor in most vehicles (FT)* [[American Ventures]] · 2025-08 · [[C63 Shell entities and ownership chains|C63]]
+- [[Tether]] *lent undisclosed sum to (Bloomberg)* [[Dynasty Trust A]] · 2026-03-18 · [[C63 Shell entities and ownership chains|C63]]
 
-- **Sheridan, Wyoming licensee network behind Trump merchandise**: The same formation agent set up the CIC Ventures sneaker and watch licensees, and CNN traced the watches to a Sheridan strip mall used by other Trump-themed sellers. The fragrance and Bible licensees' agents and beneficial owners should be checked for the same pattern. [source](https://cowboystatedaily.com/2024/10/01/trumps-new-line-of-100k-watches-registered-to-wyoming-company/) · [[CIC Ventures LLC]] [[45Footwear LLC]] [[TheBestWatchesOnEarth LLC]] [[Andrew Pierce]]
-- **Unannounced Trump Organization Abu Dhabi licensing entities**: CREW found new Delaware DT Marks Abu Dhabi / Al Raha Beach entities, set up in the same period Tahnoon-linked vehicles took 49% of WLF and WLTC. The developer counterparty is unknown. [source](https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/) · [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] [[Trump Organization]] [[Aryam Investment 1]] [[StringZ Holding RSC (DE) LLC]]
-- **Is StringZ Holding RSC on the ADGM register, and does it share officers with Aryam?**: Both vehicles hold 49% and both are reportedly Tahnoon-linked. An ADGM registry pull plus a Delaware search on the '(DE)' entity would settle ownership and dates. [source](https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj) · [[StringZ Holding RSC (DE) LLC]] [[Aryam Investment 1]] [[Abu Dhabi Global Market]] [[WLTC Holdings LLC]]
-- **Trump Mobile operator located in Trump Towers Sunny Isles and its insurance and roadside cross-sells**: Liberty Mobile reportedly sits in a Trump-branded building. O'Brien's Ensurety companies are cross-sold to Trump Mobile customers, and T1 Mobile's owners are undisclosed despite Sen. Warner's letter. [source](https://www.warner.senate.gov/wp-content/uploads/2026/05/260518.Trump_Mobile_letter.FINAL_.SIGN_-2.pdf) · [[Trump Mobile]] [[T1 Mobile LLC]] [[Liberty Mobile Wireless]] [[Pat O'Brien]] [[DTTM Operations LLC]]
-- **Khanna referral to the Delaware US Attorney over the Emirati WLF investor**: This is the only official referral naming a Delaware-domiciled Emirati entity in the Aryam deal. No response or opened matter has been reported. [source](https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/ranking-member-ro-khanna-presses-world-liberty-financial-information-trump) · [[Ro Khanna]] [[US Attorney for the District of Delaware (Benjamin Wallace)]] [[Aryam Investment 1]] [[World Liberty Financial]]
+### Ownership (36)
 
-## Sources
+- [[Donald Trump]] *settlor and sole beneficiary of* [[Donald J. Trump Revocable Trust]] · 2014-04-07 · [[C63 Shell entities and ownership chains|C63]]
+- [[Matthew Lopatin]] *registered (2018) and president of* [[Liberty Mobile Wireless]] · 2018 · [[C63 Shell entities and ownership chains|C63]]
+- [[Melania Trump]] *president of* [[MKT World LLC]] · 2021 · [[C63 Shell entities and ownership chains|C63]]
+- [[Trump Organization]] *licensing vehicle of* [[DT Marks Oman LLC]] · 2022-11 · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald Trump]] *manager, president, secretary, treasurer of* [[CIC Ventures LLC]] · 2023 · [[C63 Shell entities and ownership chains|C63]]
+- [[Chase Herro]] *co-owns* [[Axiom Management Group]] · 2024-10 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
+- [[Zak Folkman]] *co-owns* [[Axiom Management Group]] · 2024-10 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
+- [[Donald J. Trump Revocable Trust]] *holds ~114.75M shares of* [[Trump Media & Technology Group]] · 2024-12 · [[C63 Shell entities and ownership chains|C63]]
+- [[Affinity Partners]] *affiliated with (Reuters)* [[Atlantic Incubation Partners LLC]] · 2024-12-30 · [[C63 Shell entities and ownership chains|C63]]
+- [[Jared Kushner]] *affiliated via Affinity partners; minority partner* [[Atlantic Incubation Partners LLC]] · 2024-12-30 · [[C63 Shell entities and ownership chains|C63]]
+- [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] · 2025-01 · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[DT Marks DEFI LLC]] *holds ~60%, then 40%, then ~38% equity in* [[WLF Holdco LLC]] · 2025-01 · [[C63 Shell entities and ownership chains|C63]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[WLF Holdco LLC]] *owns* [[World Liberty Financial]] · 2025-01 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
+- [[CIC Digital LLC]] *co-holds 80% of supply with Fight Fight Fight; royalties* [[$TRUMP meme coin]] · 2025-01-17 · $635.07M · [[C63 Shell entities and ownership chains|C63]]
+- [[Fight Fight Fight LLC]] *co-holds 80% of supply* [[$TRUMP meme coin]] · 2025-01-17 · [[C63 Shell entities and ownership chains|C63]]
+- [[MKT World LLC]] *issuer of* [[$MELANIA meme coin]] · 2025-01-19 · [[C02 $MELANIA coin and NFTs|C02]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]]
+- [[T1 Mobile LLC]] *operates (d/b/a Trump SM Mobile)* [[Trump Mobile]] · 2025-06-16 · [[C63 Shell entities and ownership chains|C63]]
+- [[Trump Media & Technology Group]] *formed treasury vehicle* [[Trump Media Group CRO Strategy]] · 2025-08-26 · [[C63 Shell entities and ownership chains|C63]]
+- [[WLTC Holdings LLC]] *wholly owns* [[World Liberty Trust Company, N.A]] · 2026-01-05 · [[C63 Shell entities and ownership chains|C63]]
+- [[Celebration Cards LLC]] *owns (per Senate letter)* [[Fight Fight Fight LLC]] · 2026-04-08 · [[C63 Shell entities and ownership chains|C63]]
+- [[Dominari Holdings Dominari Securities]] *owns 90% of American Ventures Management LLC* [[American Ventures]] · 2026-05 · [[C63 Shell entities and ownership chains|C63]]
+- [[DT Marks SC LLC]] *passive investor in (OCC CD #1385); ~38% Trump-family stake reported* [[WLTC Holdings LLC]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
+- [[StringZ Holding RSC (DE) LLC]] *reported 49% owner; OCC-listed passive investor* [[WLTC Holdings LLC]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
+- [[WLTC Holdings LLC]] *shares indirect common owners with (OCC)* [[World Liberty Financial]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
+- [[Sheikh Tahnoon bin Zayed]] *reportedly behind (WSJ, anonymous sources)* [[StringZ Holding RSC (DE) LLC]] · 2026-08-27 · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald J. Trump Revocable Trust]] *wholly owns* [[CIC Digital LLC]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald J. Trump Revocable Trust]] *wholly owns* [[CIC Ventures LLC]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald Trump]] *manager, president, secretary, treasurer of* [[CIC Digital LLC]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald Trump]] *beneficial owner (with family) of* [[DT Marks DEFI LLC]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald Trump Jr]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Eric Trump]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Trump Organization]] *licensing vehicle of* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Trump Organization]] *licensing vehicle of* [[DT Marks Doha LLC]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Trump Organization]] *licensing vehicle of* [[DT Marks KSA LLC]] · [[C63 Shell entities and ownership chains|C63]]
+- [[WC Digital Fi LLC]] *holds interest in* [[World Liberty Financial]] · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
+
+### Family (3)
+
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
+- [[Melania Trump]] *spouse of* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C44 Melania Trump's Amazon documentary deal|C44]] [[C63 Shell entities and ownership chains|C63]]
+- [[Zach Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]]
+
+### Regulatory (1)
+
+- [[Office of the Comptroller of the Currency]] *preliminary conditional charter approval* [[World Liberty Trust Company, N.A]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
+
+### Advisory (3)
+
+- [[Zach Witkoff]] *President and Chairman* [[World Liberty Trust Company, N.A]] · 2026 · [[C63 Shell entities and ownership chains|C63]]
+- [[G42]] *executives help manage* [[Aryam Investment 1]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Pat O'Brien]] *CEO of* [[Trump Mobile]] · [[C63 Shell entities and ownership chains|C63]]
+
+### Political (2)
+
+- [[Ro Khanna]] *flagged Delaware-domiciled Emirati entity in Aryam deal* [[US Attorney for the District of Delaware (Benjamin Wallace)]] · 2026-02-04 · [[C63 Shell entities and ownership chains|C63]]
+- [[Ro Khanna]] *sent inquiry letter to* [[Zach Witkoff]] · 2026-02-04 · [[C63 Shell entities and ownership chains|C63]]
+
+### Legal (4)
+
+- [[Andrew Pierce]] *organizer of* [[TheBestWatchesOnEarth LLC]] · 2024 · [[C63 Shell entities and ownership chains|C63]]
+- [[Andrew Pierce]] *registered agent of* [[45Footwear LLC]] · 2024-01-31 · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald Trump Jr]] *sole trustee with sole voting/investment power over* [[Donald J. Trump Revocable Trust]] · 2024-12 · [[C63 Shell entities and ownership chains|C63]]
+- [[StringZ Holding RSC (DE) LLC]] *name indicates ADGM 'RSC' company type (inferred)* [[Abu Dhabi Global Market]] · [[C63 Shell entities and ownership chains|C63]]
+
+### Commercial (18)
+
+- [[Dar Global]] *licence agreement with* [[DT Marks Oman LLC]] · 2022-11 · [[C63 Shell entities and ownership chains|C63]]
+- [[Bill Zanker]] *participated in (per spokesman)* [[NFT INT LLC]] · 2022-12 · [[C63 Shell entities and ownership chains|C63]]
+- [[CIC Digital LLC]] *licenses Trump name/likeness to* [[NFT INT LLC]] · 2022-12 · [[C63 Shell entities and ownership chains|C63]]
+- [[CIC Ventures LLC]] *licenses Trump name to (sneakers, fragrances)* [[45Footwear LLC]] · 2024-02 · [[C63 Shell entities and ownership chains|C63]]
+- [[CIC Ventures LLC]] *licenses Trump name to (watches, per The Block)* [[TheBestWatchesOnEarth LLC]] · 2024-09 · [[C63 Shell entities and ownership chains|C63]]
+- [[Liberty Mobile Wireless]] *runs MVNO network operations for* [[Trump Mobile]] · 2025 · [[C63 Shell entities and ownership chains|C63]]
+- [[Eric Trump]] *signed deal with* [[Aryam Investment 1]] · 2025-01-16 · [[C63 Shell entities and ownership chains|C63]]
+- [[45Footwear LLC]] *accepts as payment* [[$TRUMP meme coin]] · 2025-01-30 · [[C63 Shell entities and ownership chains|C63]]
+- [[TheBestWatchesOnEarth LLC]] *accepts as payment (per Bloomberg)* [[$TRUMP meme coin]] · 2025-01-30 · [[C63 Shell entities and ownership chains|C63]]
+- [[DTTM Operations LLC]] *licenses Trump marks to* [[T1 Mobile LLC]] · 2025-06 · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald Trump Jr]] *co-announced* [[Trump Mobile]] · 2025-06-16 · [[C63 Shell entities and ownership chains|C63]]
+- [[Eric Trump]] *co-announced* [[Trump Mobile]] · 2025-06-16 · [[C63 Shell entities and ownership chains|C63]]
+- [[Crypto.com]] *partner/CRO contributor* [[Trump Media Group CRO Strategy]] · 2025-08-26 · [[C63 Shell entities and ownership chains|C63]]
+- [[Celebration Cards LLC]] *shares Trump Meme Cards trading revenue with* [[CIC Digital LLC]] · 2026 · [[C63 Shell entities and ownership chains|C63]]
+- [[Yorkville Acquisition Corp]] *planned merger partner; terminated* [[Trump Media Group CRO Strategy]] · 2026-08-07 · [[C63 Shell entities and ownership chains|C63]]
+- [[Andrew Pierce]] *paralegal at* [[Cloud Peak Law Group Wyoming Trust and LLC]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Trump Mobile]] *sells* [[T1 phone]] · [[C17 Trump merchandise and the T1 phone|C17]] [[C63 Shell entities and ownership chains|C63]]
+- [[World Liberty Trust Company, N.A]] *would issue and custody* [[USD1]] · [[C63 Shell entities and ownership chains|C63]]
+
+## Leads not covered here
+
+- **Sheridan, Wyoming licensee network behind Trump merchandise**
+  - The same formation agent set up the CIC Ventures sneaker and watch licensees, and CNN traced the watches to a Sheridan strip mall used by other Trump-themed sellers.
+  - The fragrance and Bible licensees' agents and beneficial owners should be checked for the same pattern.
+  - [[CIC Ventures LLC]] [[45Footwear LLC]] [[TheBestWatchesOnEarth LLC]] [[Andrew Pierce]] · [Source](https://cowboystatedaily.com/2024/10/01/trumps-new-line-of-100k-watches-registered-to-wyoming-company/)
+- **Unannounced Trump Organization Abu Dhabi licensing entities**
+  - CREW found new Delaware DT Marks Abu Dhabi / Al Raha Beach entities, set up in the same period Tahnoon-linked vehicles took 49% of WLF and WLTC.
+  - The developer counterparty is unknown.
+  - [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] [[Trump Organization]] [[Aryam Investment 1]] [[StringZ Holding RSC (DE) LLC]] · [Source](https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/)
+- **Is StringZ Holding RSC on the ADGM register, and does it share officers with Aryam?**
+  - Both vehicles hold 49% and both are reportedly Tahnoon-linked.
+  - An ADGM registry pull plus a Delaware search on the '(DE)' entity would settle ownership and dates.
+  - [[StringZ Holding RSC (DE) LLC]] [[Aryam Investment 1]] [[Abu Dhabi Global Market]] [[WLTC Holdings LLC]] · [Source](https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj)
+- **Trump Mobile operator located in Trump Towers Sunny Isles and its insurance and roadside cross-sells**
+  - Liberty Mobile reportedly sits in a Trump-branded building.
+  - O'Brien's Ensurety companies are cross-sold to Trump Mobile customers, and T1 Mobile's owners are undisclosed despite Sen. Warner's letter.
+  - [[Trump Mobile]] [[T1 Mobile LLC]] [[Liberty Mobile Wireless]] [[Pat O'Brien]] [[DTTM Operations LLC]] · [Source](https://www.warner.senate.gov/wp-content/uploads/2026/05/260518.Trump_Mobile_letter.FINAL_.SIGN_-2.pdf)
+- **Khanna referral to the Delaware US Attorney over the Emirati WLF investor**
+  - This is the only official referral naming a Delaware-domiciled Emirati entity in the Aryam deal.
+  - No response or opened matter has been reported.
+  - [[Ro Khanna]] [[US Attorney for the District of Delaware (Benjamin Wallace)]] [[Aryam Investment 1]] [[World Liberty Financial]] · [Source](https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/ranking-member-ro-khanna-presses-world-liberty-financial-information-trump)
+
+## Sources (49)
 
 1. [Trump, Donald J. 2025 Annual OGE 278e](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump, Donald J. 2025 Annual 278.pdf) (US Office of Government Ethics, 2026-06-30)
 2. [Donald Trump crypto investors $4.7 billion underwater](https://www.citizen.org/article/donald-trump-crypto-investors-4-7-billion-underwater/) (Public Citizen)

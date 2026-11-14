@@ -10,9 +10,13 @@ tags:
 ---
 # Marc Beckman
 
-*person*
-
 Melania Trump's adviser; says the film is 'not political at all'.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Melania Trump's adviser; says the film is 'not political at all'.
 
 ## Relationships
 
-- [[Marc Beckman]] *adviser to* [[Melania Trump]] (advisory) · [[C44 Melania Trump's Amazon documentary deal|C44]]
+### Advisory (1)
+
+- [[Marc Beckman]] *adviser to* [[Melania Trump]] · [[C44 Melania Trump's Amazon documentary deal|C44]]

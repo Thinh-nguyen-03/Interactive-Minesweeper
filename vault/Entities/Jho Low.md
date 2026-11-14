@@ -10,9 +10,13 @@ tags:
 ---
 # Jho Low
 
-*person*
-
 1MDB financier; original majority co-buyer of the Park Lane in 2013
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ tags:
 
 ## Relationships
 
-- [[Jho Low]] *co-bought with Witkoff for ~$654M (stake later forfeited)* [[Park Lane Hotel (36 Central Park South)]] (2013, $654M, ownership) · [[C53 The Witkoff family's own Gulf money|C53]]
+### Ownership (1)
+
+- [[Jho Low]] *co-bought with Witkoff for ~$654M (stake later forfeited)* [[Park Lane Hotel (36 Central Park South)]] · 2013 · $654M · [[C53 The Witkoff family's own Gulf money|C53]]

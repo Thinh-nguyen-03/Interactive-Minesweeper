@@ -10,9 +10,13 @@ tags:
 ---
 # Dave Min
 
-*person*
-
 House Democrat co-leading pardon probe
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ House Democrat co-leading pardon probe
 
 ## Relationships
 
-- [[Dave Min]] *co-leads pay-to-play pardon probe* [[Donald Trump]] (2026-05-07, political) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+### Political (1)
+
+- [[Dave Min]] *co-leads pay-to-play pardon probe* [[Donald Trump]] · 2026-05-07 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

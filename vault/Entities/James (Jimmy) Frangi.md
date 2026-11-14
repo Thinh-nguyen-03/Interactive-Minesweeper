@@ -10,9 +10,13 @@ tags:
 ---
 # James (Jimmy) Frangi
 
-*person*
-
 Michael Boulos's cousin; yacht broker; arranged the Allam meeting
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Michael Boulos's cousin; yacht broker; arranged the Allam meeting
 
 ## Relationships
 
-- [[James (Jimmy) Frangi]] *cousin; arranged Allam meeting; yacht-brokerage employer* [[Michael Boulos]] (2022, family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Family (1)
+
+- [[James (Jimmy) Frangi]] *cousin; arranged Allam meeting; yacht-brokerage employer* [[Michael Boulos]] · 2022 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

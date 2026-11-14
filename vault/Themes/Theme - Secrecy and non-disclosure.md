@@ -6,7 +6,7 @@ tags:
 ---
 # Secrecy and non-disclosure
 
-Material ties are hidden or quietly edited: the secret 49% stake, undisclosed MGX link, shell companies, an envoy with no disclosure duty, filing and website language removed.
+- Material ties are hidden or quietly edited: the secret 49% stake, undisclosed MGX link, shell companies, an envoy with no disclosure duty, filing and website language removed.
 
 ## Claims
 

@@ -10,9 +10,13 @@ tags:
 ---
 # Amazon Web Services
 
-*company*
-
 Amazon cloud unit; GSA OneGov deal and $50B government AI pledge.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Amazon cloud unit; GSA OneGov deal and $50B government AI pledge.
 
 ## Relationships
 
-- [[Amazon]] *owns* [[Amazon Web Services]] (ownership) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[General Services Administration]] *OneGov cloud agreement (up to $1B savings)* [[Amazon Web Services]] (2025-08, commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
+### Ownership (1)
+
+- [[Amazon]] *owns* [[Amazon Web Services]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+
+### Commercial (1)
+
+- [[General Services Administration]] *OneGov cloud agreement (up to $1B savings)* [[Amazon Web Services]] · 2025-08 · [[C44 Melania Trump's Amazon documentary deal|C44]]

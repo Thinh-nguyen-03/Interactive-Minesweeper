@@ -10,9 +10,13 @@ tags:
 ---
 # Amanda Fischer
 
-*person*
-
 Former SEC chief of staff; criticized the Sun settlement.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Former SEC chief of staff; criticized the Sun settlement.
 
 ## Relationships
 
-- [[Amanda Fischer]] *criticized Sun settlement by* [[Securities and Exchange Commission]] (2026-03, political) · [[C05 Justin Sun, WLF and the SEC|C05]]
+### Political (1)
+
+- [[Amanda Fischer]] *criticized Sun settlement by* [[Securities and Exchange Commission]] · 2026-03 · [[C05 Justin Sun, WLF and the SEC|C05]]

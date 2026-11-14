@@ -13,9 +13,18 @@ tags:
 ---
 # US Congress
 
-*government*
-
 Passed crypto legislation; questioned Selig.
+
+> [!warning] Appears in an unverified, single-source allegation ([[C37 Jared Kushner's hacked phone|C37]], [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]). Nothing in it has been independently corroborated.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 33 claims |
+| Connections | 53 |
+| Also known as | Congress; U.S. Congress |
+
+## How other claims describe it
 
 - Passed GENIUS; CLARITY stalled in Senate
 - Senate confirmed Gould; Democrats introduced S. 5389
@@ -37,7 +46,7 @@ Passed crypto legislation; questioned Selig.
 - [[C28 Foundation Future Industries robots and Eric Trump]] · Mostly accurate
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
-- [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
 - [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
@@ -45,7 +54,7 @@ Passed crypto legislation; questioned Selig.
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
@@ -61,29 +70,37 @@ Passed crypto legislation; questioned Selig.
 
 ## Relationships
 
-- [[Donald Trump]] *made night-time calls to* [[US Congress]] (political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
-- [[Defense Security Cooperation Agency]] *notified MQ-9B sale to* [[US Congress]] (2025-03-26, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Elizabeth Warren]] *member of* [[US Congress]] (political) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[House Select Committee on the CCP]] *committee of the House* [[US Congress]] (political) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Jamie Raskin]] *House Judiciary ranking member* [[US Congress]] (political) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Jamie Raskin]] *House Judiciary ranking member in* [[US Congress]] (political) · [[C37 Jared Kushner's hacked phone|C37]]
-- [[Maxine Waters]] *member of* [[US Congress]] (political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Senate Judiciary Committee]] *committee of* [[US Congress]] (political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[US State Department]] *notified F-35 sale to* [[US Congress]] (2026-09-17, $24.3B, regulatory) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
-- [[US Congress]] *Raskin inquiry into* [[1789 Capital]] (2026-08-26, legal) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[US Congress]] *Democratic committee inquiries into* [[Affinity Partners]] (2026-03, regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[US Congress]] *House passed 294-134; Senate cloture failed 49-50* [[CLARITY Act]] (2026-09-15, regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
-- [[US Congress]] *House China Select Committee information request* [[Dominari Holdings Dominari Securities]] (2026-03-08, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[US Congress]] *passed* [[GENIUS Act]] (2025-07, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[US Congress]] *passed (Senate 68-30, House 308-122)* [[GENIUS Act]] (2025-07-17, regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
-- [[US Congress]] *Senate confirmed 50-45* [[Jonathan Gould]] (2025-07-10, political) · [[C12 WLF bank charter from the OCC|C12]]
-- [[US Congress]] *asked to review Witkoff's filings* [[Office of Government Ethics]] (2025-11, regulatory) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[US Congress]] *held* [[Selig congressional hearing]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[US Congress]] *Senate Democrats demanded answers on failure to divest* [[Steve Witkoff]] (2025-10, regulatory) · [[C14 Steve and Zach Witkoff|C14]]
-- [[US Congress]] *questioned failure to divest* [[Steve Witkoff]] (2025-10-22, political) · [[C42 How World Liberty insiders took money out|C42]]
-- [[US Congress]] *Democratic members questioned marketing of* [[Trump Mobile]] (2025-08-05, political) · [[C17 Trump merchandise and the T1 phone|C17]]
-- [[US Congress]] *Democrats demanded documents from* [[Vulcan Elements]] (2026-08-11, legal) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[US Department of Energy]] *submitted 123 agreement to* [[US Congress]] (2026-08-25, regulatory) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+### Regulatory (9)
+
+- [[Defense Security Cooperation Agency]] *notified MQ-9B sale to* [[US Congress]] · 2025-03-26 · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[US Congress]] *passed (Senate 68-30, House 308-122)* [[GENIUS Act]] · 2025-07-17 · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[US Congress]] *Senate Democrats demanded answers on failure to divest* [[Steve Witkoff]] · 2025-10 · [[C14 Steve and Zach Witkoff|C14]]
+- [[US Congress]] *asked to review Witkoff's filings* [[Office of Government Ethics]] · 2025-11 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[US Congress]] *Democratic committee inquiries into* [[Affinity Partners]] · 2026-03 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[US Congress]] *House China Select Committee information request* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[US Department of Energy]] *submitted 123 agreement to* [[US Congress]] · 2026-08-25 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+- [[US Congress]] *House passed 294-134; Senate cloture failed 49-50* [[CLARITY Act]] · 2026-09-15 · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[US State Department]] *notified F-35 sale to* [[US Congress]] · 2026-09-17 · $24.3B · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+
+### Political (12)
+
+- [[US Congress]] *passed* [[GENIUS Act]] · 2025-07 · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[US Congress]] *Senate confirmed 50-45* [[Jonathan Gould]] · 2025-07-10 · [[C12 WLF bank charter from the OCC|C12]]
+- [[US Congress]] *Democratic members questioned marketing of* [[Trump Mobile]] · 2025-08-05 · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[US Congress]] *questioned failure to divest* [[Steve Witkoff]] · 2025-10-22 · [[C42 How World Liberty insiders took money out|C42]]
+- [[Donald Trump]] *made night-time calls to* [[US Congress]] · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[Elizabeth Warren]] *member of* [[US Congress]] · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[House Select Committee on the CCP]] *committee of the House* [[US Congress]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Jamie Raskin]] *House Judiciary ranking member* [[US Congress]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Jamie Raskin]] *House Judiciary ranking member in* [[US Congress]] · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+- [[Maxine Waters]] *member of* [[US Congress]] · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Senate Judiciary Committee]] *committee of* [[US Congress]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[US Congress]] *held* [[Selig congressional hearing]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+
+### Legal (2)
+
+- [[US Congress]] *Democrats demanded documents from* [[Vulcan Elements]] · 2026-08-11 · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[US Congress]] *Raskin inquiry into* [[1789 Capital]] · 2026-08-26 · [[C26 1789 Capital and Vulcan Elements|C26]]
 
 ## Themes
 

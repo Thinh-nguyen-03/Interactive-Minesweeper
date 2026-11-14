@@ -10,9 +10,13 @@ tags:
 ---
 # Republican Attorneys General Association
 
-*government*
-
 GOP state AGs whose March 2026 New Orleans retreat Don Jr. addressed
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,8 @@ GOP state AGs whose March 2026 New Orleans retreat Don Jr. addressed
 
 ## Relationships
 
-- [[Donald Trump Jr]] *urged GOP AGs to leave prediction markets to federal regulators (reported)* [[Republican Attorneys General Association]] (2026-03, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Elizabeth Warren]] *demanded transcript of Don Jr. remarks* [[Republican Attorneys General Association]] (2026-08, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[White House Trump administration]] *reportedly contacted state officials on prediction markets* [[Republican Attorneys General Association]] (2026, political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+### Political (3)
+
+- [[White House Trump administration]] *reportedly contacted state officials on prediction markets* [[Republican Attorneys General Association]] · 2026 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Donald Trump Jr]] *urged GOP AGs to leave prediction markets to federal regulators (reported)* [[Republican Attorneys General Association]] · 2026-03 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Elizabeth Warren]] *demanded transcript of Don Jr. remarks* [[Republican Attorneys General Association]] · 2026-08 · [[C25 Prediction markets, CFTC and Don Jr|C25]]

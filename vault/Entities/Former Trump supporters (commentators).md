@@ -10,9 +10,13 @@ tags:
 ---
 # Former Trump supporters (commentators)
 
-*person*
-
 Unnamed prominent supporters/campaigners shown calling this the most corrupt presidency in US history.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,7 +24,9 @@ Unnamed prominent supporters/campaigners shown calling this the most corrupt pre
 
 ## Relationships
 
-- [[Former Trump supporters (commentators)]] *now call most corrupt president* [[Donald Trump]] (political) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Political (1)
+
+- [[Former Trump supporters (commentators)]] *now call most corrupt president* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 
 ## Themes
 

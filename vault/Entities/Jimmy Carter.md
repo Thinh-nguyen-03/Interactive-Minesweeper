@@ -12,9 +12,14 @@ tags:
 ---
 # Jimmy Carter
 
-*person*
-
 Former president; his peanut farm is cited as trivial by comparison.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
+| Also known as | Jimmy Carter's farm |
 
 ## Appears in claims
 
@@ -22,4 +27,6 @@ Former president; his peanut farm is cited as trivial by comparison.
 
 ## Relationships
 
-- [['Investigating The President' (video)]] *contrasts with peanut farm of* [[Jimmy Carter]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Media (1)
+
+- [['Investigating The President' (video)]] *contrasts with peanut farm of* [[Jimmy Carter]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]

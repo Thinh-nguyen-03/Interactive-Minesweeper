@@ -10,9 +10,13 @@ tags:
 ---
 # Dang Thanh Tam
 
-*person*
-
 Chairman of Kinh Bac City
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Chairman of Kinh Bac City
 
 ## Relationships
 
-- [[Dang Thanh Tam]] *chairs* [[Kinh Bac City Development Holding Corp (KBC)]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Ownership (1)
+
+- [[Dang Thanh Tam]] *chairs* [[Kinh Bac City Development Holding Corp (KBC)]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

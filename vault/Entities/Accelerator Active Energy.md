@@ -10,9 +10,13 @@ tags:
 ---
 # Accelerator Active Energy
 
-*company*
-
 Energy-drink brand; Kai Trump NIL and equity partner
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Energy-drink brand; Kai Trump NIL and equity partner
 
 ## Relationships
 
-- [[Kai Trump]] *NIL and equity partner* [[Accelerator Active Energy]] (2025, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Commercial (1)
+
+- [[Kai Trump]] *NIL and equity partner* [[Accelerator Active Energy]] · 2025 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

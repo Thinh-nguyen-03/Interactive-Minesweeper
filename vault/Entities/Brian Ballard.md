@@ -10,9 +10,15 @@ tags:
 ---
 # Brian Ballard
 
-*person*
-
 Founder of Ballard Partners; longtime Trump fundraiser
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 3 claims |
+| Connections | 6 |
+
+## How other claims describe it
 
 - Founder of Ballard Partners; major Trump fundraiser
 - Founder of Ballard Partners; Trump fundraiser
@@ -25,8 +31,13 @@ Founder of Ballard Partners; longtime Trump fundraiser
 
 ## Relationships
 
-- [[Brian Ballard]] *founder* [[Ballard Partners]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Brian Ballard]] *founder of* [[Ballard Partners]] (ownership) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Brian Ballard]] *fundraiser for (>$50M reported, 2024)* [[Donald Trump]] (2024, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Brian Ballard]] *longtime fundraiser for* [[Donald Trump]] (political) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[White House Trump administration]] *staff told not to meet (Politico, anonymous)* [[Brian Ballard]] (2025-03, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Ownership (2)
+
+- [[Brian Ballard]] *founder* [[Ballard Partners]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Brian Ballard]] *founder of* [[Ballard Partners]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+
+### Political (3)
+
+- [[Brian Ballard]] *fundraiser for (>$50M reported, 2024)* [[Donald Trump]] · 2024 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[White House Trump administration]] *staff told not to meet (Politico, anonymous)* [[Brian Ballard]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Brian Ballard]] *longtime fundraiser for* [[Donald Trump]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]

@@ -10,9 +10,15 @@ tags:
 ---
 # Qatar Investment Authority
 
-*fund*
-
 Qatari sovereign wealth fund; invested in Affinity (part of about $1.5B, Dec 2024).
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 8 claims |
+| Connections | 16 |
+
+## How other claims describe it
 
 - Qatari sovereign fund; Brookfield investor; Affinity investor
 - Bought Park Lane from Witkoff-Mubadala JV for ~$623M (2023)
@@ -33,14 +39,22 @@ Qatari sovereign wealth fund; invested in Affinity (part of about $1.5B, Dec 202
 
 ## Relationships
 
-- [[Alex Witkoff]] *pitched $4B credit fund (declined)* [[Qatar Investment Authority]] (2024, $4B, commercial) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Athene Annuity and Life Co]] *lent $400M for the Park Lane purchase* [[Qatar Investment Authority]] (2023-08, $400M, money) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Qatar]] *owns* [[Qatar Investment Authority]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Qatar Investment Authority]] *LP* [[Affinity Partners]] (money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Qatar Investment Authority]] *invested (with Lunate) in* [[Affinity Partners]] (2024-12-20, money) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Qatar Investment Authority]] *invested (with Lunate, about $1.5B combined) in* [[Affinity Partners]] (2024-12, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Qatar Investment Authority]] *major investor in (Brookfield denies Qatari role in 666 deal)* [[Brookfield]] (money) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Qatar Investment Authority]] *bought for ~$623M* [[Park Lane Hotel (36 Central Park South)]] (2023-08, $623M, money) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Qatar Investment Authority]] *owns* [[Qatari Diar]] (ownership) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Qatar Investment Authority]] *parent of* [[Qatari Diar]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Qatar Investment Authority]] *bought Park Lane from Witkoff-Mubadala JV* [[Steve Witkoff]] (2023-08, $623M, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Money (7)
+
+- [[Athene Annuity and Life Co]] *lent $400M for the Park Lane purchase* [[Qatar Investment Authority]] · 2023-08 · $400M · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Qatar Investment Authority]] *bought for ~$623M* [[Park Lane Hotel (36 Central Park South)]] · 2023-08 · $623M · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Qatar Investment Authority]] *bought Park Lane from Witkoff-Mubadala JV* [[Steve Witkoff]] · 2023-08 · $623M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Qatar Investment Authority]] *invested (with Lunate, about $1.5B combined) in* [[Affinity Partners]] · 2024-12 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Qatar Investment Authority]] *invested (with Lunate) in* [[Affinity Partners]] · 2024-12-20 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Qatar Investment Authority]] *LP* [[Affinity Partners]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Qatar Investment Authority]] *major investor in (Brookfield denies Qatari role in 666 deal)* [[Brookfield]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+
+### Ownership (3)
+
+- [[Qatar]] *owns* [[Qatar Investment Authority]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Qatar Investment Authority]] *owns* [[Qatari Diar]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Qatar Investment Authority]] *parent of* [[Qatari Diar]] · [[C16 Qatar jet, arms sales and golf deal|C16]]
+
+### Commercial (1)
+
+- [[Alex Witkoff]] *pitched $4B credit fund (declined)* [[Qatar Investment Authority]] · 2024 · $4B · [[C53 The Witkoff family's own Gulf money|C53]]

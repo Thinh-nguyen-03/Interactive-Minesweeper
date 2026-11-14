@@ -10,9 +10,13 @@ tags:
 ---
 # Jacob Silverman
 
-*person*
-
 Independent journalist who first alleged Aqua 1-Web3Port ties
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

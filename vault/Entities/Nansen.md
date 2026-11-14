@@ -10,9 +10,13 @@ tags:
 ---
 # Nansen
 
-*company*
-
 Blockchain analytics firm; counted about 989K TRUMP wallets in loss by June 2026.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Blockchain analytics firm; counted about 989K TRUMP wallets in loss by June 2026
 
 ## Relationships
 
-- [[Nansen]] *counted about 989K wallets in loss, about $3.8B* [[$TRUMP meme coin]] (2026-06, $3.81B, media) · [[C29 Trump family wealth gains|C29]]
+### Media (1)
+
+- [[Nansen]] *counted about 989K wallets in loss, about $3.8B* [[$TRUMP meme coin]] · 2026-06 · $3.81B · [[C29 Trump family wealth gains|C29]]

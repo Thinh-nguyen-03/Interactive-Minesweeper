@@ -10,16 +10,27 @@ tags:
 ---
 # Salt Typhoon
 
-*government*
-
 China-linked state hacking group that breached US telecoms and targeted Trump-family phones in 2024.
+
+> [!warning] Appears in only an unverified, single-source allegation ([[C37 Jared Kushner's hacked phone|C37]]). Nothing in it has been independently corroborated.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
-- [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
-- [[China]] *state sponsor of (per US officials)* [[Salt Typhoon]] (ownership) · [[C37 Jared Kushner's hacked phone|C37]]
-- [[Salt Typhoon]] *targeted phone/call data of* [[Eric Trump]] (2024-10, legal) · [[C37 Jared Kushner's hacked phone|C37]]
-- [[Salt Typhoon]] *targeted phone/call data of (access unconfirmed)* [[Jared Kushner]] (2024-10, legal) · [[C37 Jared Kushner's hacked phone|C37]]
+### Ownership (1)
+
+- [[China]] *state sponsor of (per US officials)* [[Salt Typhoon]] · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+
+### Legal (2)
+
+- [[Salt Typhoon]] *targeted phone/call data of* [[Eric Trump]] · 2024-10 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+- [[Salt Typhoon]] *targeted phone/call data of (access unconfirmed)* [[Jared Kushner]] · 2024-10 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation

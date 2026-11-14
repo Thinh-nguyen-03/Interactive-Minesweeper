@@ -10,9 +10,13 @@ tags:
 ---
 # Jim Harrell
 
-*person*
-
 Former NC legislator, Kalshi lobbyist, reportedly helped shape NC provision.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Former NC legislator, Kalshi lobbyist, reportedly helped shape NC provision.
 
 ## Relationships
 
-- [[Jim Harrell]] *lobbyist for* [[Kalshi]] (commercial) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+### Commercial (1)
+
+- [[Jim Harrell]] *lobbyist for* [[Kalshi]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]

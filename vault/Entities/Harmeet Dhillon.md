@@ -10,9 +10,13 @@ tags:
 ---
 # Harmeet Dhillon
 
-*person*
-
 Dhillon Law Group founder; Assistant AG for Civil Rights.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Dhillon Law Group founder; Assistant AG for Civil Rights.
 
 ## Relationships
 
-- [[Harmeet Dhillon]] *founder of* [[Dhillon Law Group]] (ownership) · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Harmeet Dhillon]] *Assistant AG for Civil Rights at* [[US Department of Justice (us-doj)]] (2025, political) · [[C61 Shared lawyers and law firms across the deals|C61]]
+### Ownership (1)
+
+- [[Harmeet Dhillon]] *founder of* [[Dhillon Law Group]] · [[C61 Shared lawyers and law firms across the deals|C61]]
+
+### Political (1)
+
+- [[Harmeet Dhillon]] *Assistant AG for Civil Rights at* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]

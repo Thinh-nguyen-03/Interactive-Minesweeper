@@ -10,9 +10,13 @@ tags:
 ---
 # BitMEX (HDR Global Trading)
 
-*company*
-
 Crypto derivatives exchange; operator pardoned after $100M BSA fine
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -20,7 +24,12 @@ Crypto derivatives exchange; operator pardoned after $100M BSA fine
 
 ## Relationships
 
-- [[Arthur Hayes]] *co-founded* [[BitMEX (HDR Global Trading)]] (ownership) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Benjamin Delo]] *co-founded* [[BitMEX (HDR Global Trading)]] (ownership) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Donald Trump]] *pardoned operator HDR Global Trading* [[BitMEX (HDR Global Trading)]] (2025-03-27, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Samuel Reed]] *co-founded* [[BitMEX (HDR Global Trading)]] (ownership) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+### Ownership (3)
+
+- [[Arthur Hayes]] *co-founded* [[BitMEX (HDR Global Trading)]] · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Benjamin Delo]] *co-founded* [[BitMEX (HDR Global Trading)]] · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Samuel Reed]] *co-founded* [[BitMEX (HDR Global Trading)]] · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+
+### Legal (1)
+
+- [[Donald Trump]] *pardoned operator HDR Global Trading* [[BitMEX (HDR Global Trading)]] · 2025-03-27 · [[C36 Clemency for other crypto and donor-linked figures|C36]]

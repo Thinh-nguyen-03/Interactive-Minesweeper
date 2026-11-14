@@ -10,9 +10,13 @@ tags:
 ---
 # Off the Chain Capital
 
-*fund*
-
 Crypto fund in Atkins's disclosure
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Crypto fund in Atkins's disclosure
 
 ## Relationships
 
-- [[Paul Atkins]] *fund stake* [[Off the Chain Capital]] (2025-03, ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Ownership (1)
+
+- [[Paul Atkins]] *fund stake* [[Off the Chain Capital]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]]

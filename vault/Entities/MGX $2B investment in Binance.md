@@ -10,9 +10,13 @@ tags:
 ---
 # MGX $2B investment in Binance
 
-*event*
-
 Investment closed in USD1.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 2 claims |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -21,9 +25,14 @@ Investment closed in USD1.
 
 ## Relationships
 
-- [[MGX]] *made* [[MGX $2B investment in Binance]] ($2B, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[USD1]] *used to settle* [[MGX $2B investment in Binance]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[Zach Witkoff]] *announced USD1 role in* [[MGX $2B investment in Binance]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+### Money (1)
+
+- [[MGX]] *made* [[MGX $2B investment in Binance]] · $2B · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+
+### Commercial (2)
+
+- [[USD1]] *used to settle* [[MGX $2B investment in Binance]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[Zach Witkoff]] *announced USD1 role in* [[MGX $2B investment in Binance]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 
 ## Themes
 

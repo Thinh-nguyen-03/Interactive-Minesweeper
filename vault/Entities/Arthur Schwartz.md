@@ -10,9 +10,13 @@ tags:
 ---
 # Arthur Schwartz
 
-*person*
-
 1789 Capital spokesman; Trump Jr. adviser
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ tags:
 
 ## Relationships
 
-- [[Arthur Schwartz]] *spokesman* [[1789 Capital]] (media) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Media (1)
+
+- [[Arthur Schwartz]] *spokesman* [[1789 Capital]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Jonathan R. Barr
 
-*person*
-
 BakerHostetler partner who co-signed WLF's May 29, 2025 letter to senators.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ BakerHostetler partner who co-signed WLF's May 29, 2025 letter to senators.
 
 ## Relationships
 
-- [[Jonathan R. Barr]] *partner at* [[BakerHostetler]] (commercial) · [[C61 Shared lawyers and law firms across the deals|C61]]
+### Commercial (1)
+
+- [[Jonathan R. Barr]] *partner at* [[BakerHostetler]] · [[C61 Shared lawyers and law firms across the deals|C61]]

@@ -10,9 +10,13 @@ tags:
 ---
 # NOTUS
 
-*media*
-
 Tracked clemency lobbying disclosures
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Tracked clemency lobbying disclosures
 
 ## Relationships
 
-- [[NOTUS]] *reported clemency lobbying disclosures* [[Roger Stone]] (2026, media) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+### Media (1)
+
+- [[NOTUS]] *reported clemency lobbying disclosures* [[Roger Stone]] · 2026 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

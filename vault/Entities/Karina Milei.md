@@ -10,9 +10,13 @@ tags:
 ---
 # Karina Milei
 
-*person*
-
 Milei's sister and chief of staff; cleared in the Argentine LIBRA case
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Milei's sister and chief of staff; cleared in the Argentine LIBRA case
 
 ## Relationships
 
-- [[Karina Milei]] *sister and chief of staff* [[Javier Milei]] (family) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+### Family (1)
+
+- [[Karina Milei]] *sister and chief of staff* [[Javier Milei]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]

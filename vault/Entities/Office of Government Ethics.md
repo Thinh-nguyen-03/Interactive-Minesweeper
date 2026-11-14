@@ -12,9 +12,16 @@ tags:
 ---
 # Office of Government Ethics
 
-*government*
-
 Released Trump's annual financial disclosure on June 30, 2026.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 10 claims |
+| Connections | 17 |
+| Also known as | US Office of Government Ethics |
+
+## How other claims describe it
 
 - Receives the President's annual OGE 278e financial disclosure
 - Released Trump's 2025 financial disclosure on 2026-06-30
@@ -37,14 +44,19 @@ Released Trump's annual financial disclosure on June 30, 2026.
 
 ## Relationships
 
-- [[Adam Schiff]] *queried Witkoff disclosure* [[Office of Government Ethics]] (2025-10-22, political) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Donald Trump]] *filed 2025 annual disclosure (more than $1.4B crypto, at least $2.2B total)* [[Office of Government Ethics]] (2026-06-30, $2.2B, regulatory) · [[C29 Trump family wealth gains|C29]]
-- [[Donald Trump]] *filed 2025 disclosure with* [[Office of Government Ethics]] (2026-06-30, regulatory) · [[C42 How World Liberty insiders took money out|C42]]
-- [[Donald Trump]] *files annual disclosure reporting Gulf licence income with* [[Office of Government Ethics]] (regulatory) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Elizabeth Warren]] *wrote asking about Sacks waiver* [[Office of Government Ethics]] (2025-05-05, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Office of Government Ethics]] *reviewed waivers (per Sacks)* [[David Sacks]] (regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Office of Government Ethics]] *published 113-page Q1 2026 Form 278-T for* [[Donald Trump]] (2026-05-12, regulatory) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
-- [[Office of Government Ethics]] *released 2025 disclosure listing film fee* [[Donald Trump]] (2026-06-30, regulatory) · [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Office of Government Ethics]] *released* [[Trump 2025 OGE financial disclosure]] (2026-06-30, regulatory) · [[C01 $TRUMP meme coin|C01]]
-- [[Steve Witkoff]] *filed 2025 disclosure with* [[Office of Government Ethics]] (2026, regulatory) · [[C42 How World Liberty insiders took money out|C42]]
-- [[US Congress]] *asked to review Witkoff's filings* [[Office of Government Ethics]] (2025-11, regulatory) · [[C53 The Witkoff family's own Gulf money|C53]]
+### Regulatory (9)
+
+- [[US Congress]] *asked to review Witkoff's filings* [[Office of Government Ethics]] · 2025-11 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Steve Witkoff]] *filed 2025 disclosure with* [[Office of Government Ethics]] · 2026 · [[C42 How World Liberty insiders took money out|C42]]
+- [[Office of Government Ethics]] *published 113-page Q1 2026 Form 278-T for* [[Donald Trump]] · 2026-05-12 · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald Trump]] *filed 2025 annual disclosure (more than $1.4B crypto, at least $2.2B total)* [[Office of Government Ethics]] · 2026-06-30 · $2.2B · [[C29 Trump family wealth gains|C29]]
+- [[Donald Trump]] *filed 2025 disclosure with* [[Office of Government Ethics]] · 2026-06-30 · [[C42 How World Liberty insiders took money out|C42]]
+- [[Office of Government Ethics]] *released 2025 disclosure listing film fee* [[Donald Trump]] · 2026-06-30 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Office of Government Ethics]] *released* [[Trump 2025 OGE financial disclosure]] · 2026-06-30 · [[C01 $TRUMP meme coin|C01]]
+- [[Donald Trump]] *files annual disclosure reporting Gulf licence income with* [[Office of Government Ethics]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Office of Government Ethics]] *reviewed waivers (per Sacks)* [[David Sacks]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
+
+### Political (2)
+
+- [[Elizabeth Warren]] *wrote asking about Sacks waiver* [[Office of Government Ethics]] · 2025-05-05 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Adam Schiff]] *queried Witkoff disclosure* [[Office of Government Ethics]] · 2025-10-22 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]

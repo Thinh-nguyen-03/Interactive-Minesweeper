@@ -13,9 +13,16 @@ tags:
 ---
 # Bloomberg
 
-*media*
-
 Reported (2026-06-05) WLF stablecoin profits fueled partly by a Binance promotional arrangement.
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 8 claims |
+| Connections | 13 |
+| Also known as | Bloomberg / Billionaires Index; Bloomberg / Bloomberg Law |
+
+## How other claims describe it
 
 - July 2026 investigation of family windfall versus investor losses.
 - Foreign-holder analysis; Zanker treasury scoop
@@ -36,9 +43,11 @@ Reported (2026-06-05) WLF stablecoin profits fueled partly by a Binance promotio
 
 ## Relationships
 
-- [[Bloomberg]] *investigated family windfall and 90% investor rout* [[ALT5 Sigma]] (2026-07-30, media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Bloomberg]] *reported microcap paper gains* [[American Ventures]] (2026-06-25, media) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Bloomberg]] *investigative reporting* [[Dominari Holdings Dominari Securities]] (2025-05-19, media) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Bloomberg]] *reported probe closures* [[Polymarket]] (2025-07-15, media) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Bloomberg]] *found $660M in undisclosed token-sale gains to the Trumps* [[World Liberty Financial]] (2026-05-12, $660M, media) · [[C55 How much has the Trump family made Competing totals|C55]]
-- [[Bloomberg]] *reported Binance-fueled stablecoin profits of* [[World Liberty Financial]] (2026-06-05, media) · [[C10 Binance driving USD1 adoption|C10]]
+### Media (6)
+
+- [[Bloomberg]] *investigative reporting* [[Dominari Holdings Dominari Securities]] · 2025-05-19 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Bloomberg]] *reported probe closures* [[Polymarket]] · 2025-07-15 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Bloomberg]] *found $660M in undisclosed token-sale gains to the Trumps* [[World Liberty Financial]] · 2026-05-12 · $660M · [[C55 How much has the Trump family made Competing totals|C55]]
+- [[Bloomberg]] *reported Binance-fueled stablecoin profits of* [[World Liberty Financial]] · 2026-06-05 · [[C10 Binance driving USD1 adoption|C10]]
+- [[Bloomberg]] *reported microcap paper gains* [[American Ventures]] · 2026-06-25 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Bloomberg]] *investigated family windfall and 90% investor rout* [[ALT5 Sigma]] · 2026-07-30 · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]

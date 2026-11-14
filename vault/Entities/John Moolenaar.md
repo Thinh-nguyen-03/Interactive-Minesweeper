@@ -10,9 +10,13 @@ tags:
 ---
 # John Moolenaar
 
-*person*
-
 Chair of the House China committee.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Chair of the House China committee.
 
 ## Relationships
 
-- [[John Moolenaar]] *chair of* [[House Select Committee on the CCP]] (political) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+### Political (1)
+
+- [[John Moolenaar]] *chair of* [[House Select Committee on the CCP]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]

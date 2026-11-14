@@ -10,9 +10,15 @@ tags:
 ---
 # The Intercept
 
-*media*
-
 Plaintiff in suit over Truth API and official posts
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 3 claims |
+| Connections | 6 |
+
+## How other claims describe it
 
 - Co-plaintiff in the SDNY suit against Truth API.
 - Reported Selig's former client list
@@ -25,7 +31,9 @@ Plaintiff in suit over Truth API and official posts
 
 ## Relationships
 
-- [[The Intercept]] *named defendant* [[Dan Scavino]] (2026-08-12, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]
-- [[The Intercept]] *sued over Truth API* [[Donald Trump]] (2026-08-12, legal) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
-- [[The Intercept]] *sued over official posts on paid-access platform* [[Donald Trump]] (2026-08-12, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]
-- [[The Intercept]] *named defendant* [[Natalie Harp]] (2026-08-12, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+### Legal (4)
+
+- [[The Intercept]] *named defendant* [[Dan Scavino]] · 2026-08-12 · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[The Intercept]] *sued over Truth API* [[Donald Trump]] · 2026-08-12 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[The Intercept]] *sued over official posts on paid-access platform* [[Donald Trump]] · 2026-08-12 · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[The Intercept]] *named defendant* [[Natalie Harp]] · 2026-08-12 · [[C58 Market-moving posts and insider-trading allegations|C58]]

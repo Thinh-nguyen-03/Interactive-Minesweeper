@@ -10,9 +10,15 @@ tags:
 ---
 # Elon Musk
 
-*person*
-
 Reportedly consulted by Trump before approving the curbs (per Reuters' summary of Axios)
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 4 claims |
+| Connections | 5 |
+
+## How other claims describe it
 
 - Owner of X; led DOGE when the X settlement was made
 - Owner of X Corp
@@ -26,4 +32,6 @@ Reportedly consulted by Trump before approving the curbs (per Reuters' summary o
 
 ## Relationships
 
-- [[Elon Musk]] *owns* [[X Corp]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+### Ownership (1)
+
+- [[Elon Musk]] *owns* [[X Corp]] · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]

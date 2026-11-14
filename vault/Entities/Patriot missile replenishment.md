@@ -10,9 +10,13 @@ tags:
 ---
 # Patriot missile replenishment
 
-*product*
-
 Missiles in a 2026 possible sale to Qatar.
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Missiles in a 2026 possible sale to Qatar.
 
 ## Relationships
 
-- [[2026 possible military sales to Qatar ($5B)]] *includes* [[Patriot missile replenishment]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+### Commercial (1)
+
+- [[2026 possible military sales to Qatar ($5B)]] *includes* [[Patriot missile replenishment]] · [[C16 Qatar jet, arms sales and golf deal|C16]]

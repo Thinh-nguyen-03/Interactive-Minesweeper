@@ -10,9 +10,13 @@ tags:
 ---
 # Chuck Grassley
 
-*person*
-
 Senate Judiciary Committee chair; recipient of Curtis letter.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Senate Judiciary Committee chair; recipient of Curtis letter.
 
 ## Relationships
 
-- [[Chuck Grassley]] *chair of* [[Senate Judiciary Committee]] (political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+### Political (1)
+
+- [[Chuck Grassley]] *chair of* [[Senate Judiciary Committee]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]

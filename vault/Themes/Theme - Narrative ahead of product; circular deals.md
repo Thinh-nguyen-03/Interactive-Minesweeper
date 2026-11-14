@@ -6,7 +6,7 @@ tags:
 ---
 # Narrative ahead of product; circular deals
 
-Ventures with little or no product sell on the Trump story, and related parties sit on both sides of deals that inflate each other.
+- Ventures with little or no product sell on the Trump story, and related parties sit on both sides of deals that inflate each other.
 
 ## Claims
 

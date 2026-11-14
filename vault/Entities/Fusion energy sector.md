@@ -10,9 +10,13 @@ tags:
 ---
 # Fusion energy sector
 
-*asset*
-
 Not-yet-commercial sector heavily dependent on regulatory approval.
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,8 +24,13 @@ Not-yet-commercial sector heavily dependent on regulatory approval.
 
 ## Relationships
 
-- [[TAE Technologies]] *operates in* [[Fusion energy sector]] (commercial) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
-- [[US federal government]] *regulation decides fate of* [[Fusion energy sector]] (regulatory) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+### Regulatory (1)
+
+- [[US federal government]] *regulation decides fate of* [[Fusion energy sector]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+
+### Commercial (1)
+
+- [[TAE Technologies]] *operates in* [[Fusion energy sector]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 
 ## Themes
 

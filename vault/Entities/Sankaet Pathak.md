@@ -12,9 +12,16 @@ tags:
 ---
 # Sankaet Pathak
 
-*person*
-
 Founder and CEO of Foundation Future Industries.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
+| Also known as | Sam Patak |
+
+## How other claims describe it
 
 - Founder and CEO of Foundation; previously CEO of the bankrupt fintech Synapse.
 
@@ -24,4 +31,6 @@ Founder and CEO of Foundation Future Industries.
 
 ## Relationships
 
-- [[Sankaet Pathak]] *founder and CEO of* [[Foundation Future Industries]] (2024, ownership) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+### Ownership (1)
+
+- [[Sankaet Pathak]] *founder and CEO of* [[Foundation Future Industries]] · 2024 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]

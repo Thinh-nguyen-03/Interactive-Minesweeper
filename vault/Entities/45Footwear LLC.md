@@ -10,9 +10,13 @@ tags:
 ---
 # 45Footwear LLC
 
-*company*
-
 Wyoming LLC (filed 2024-01-31) licensing Trump Sneakers/fragrances from CIC Ventures
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,11 @@ Wyoming LLC (filed 2024-01-31) licensing Trump Sneakers/fragrances from CIC Vent
 
 ## Relationships
 
-- [[45Footwear LLC]] *accepts as payment* [[$TRUMP meme coin]] (2025-01-30, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[Andrew Pierce]] *registered agent of* [[45Footwear LLC]] (2024-01-31, legal) · [[C63 Shell entities and ownership chains|C63]]
-- [[CIC Ventures LLC]] *licenses Trump name to (sneakers, fragrances)* [[45Footwear LLC]] (2024-02, commercial) · [[C63 Shell entities and ownership chains|C63]]
+### Legal (1)
+
+- [[Andrew Pierce]] *registered agent of* [[45Footwear LLC]] · 2024-01-31 · [[C63 Shell entities and ownership chains|C63]]
+
+### Commercial (2)
+
+- [[CIC Ventures LLC]] *licenses Trump name to (sneakers, fragrances)* [[45Footwear LLC]] · 2024-02 · [[C63 Shell entities and ownership chains|C63]]
+- [[45Footwear LLC]] *accepts as payment* [[$TRUMP meme coin]] · 2025-01-30 · [[C63 Shell entities and ownership chains|C63]]

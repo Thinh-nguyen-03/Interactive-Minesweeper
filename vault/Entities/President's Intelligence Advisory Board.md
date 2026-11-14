@@ -10,9 +10,13 @@ tags:
 ---
 # President's Intelligence Advisory Board
 
-*government*
-
 White House advisory board chaired by Nunes.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ White House advisory board chaired by Nunes.
 
 ## Relationships
 
-- [[Devin Nunes]] *chairs* [[President's Intelligence Advisory Board]] (2025-01, political) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+### Political (1)
+
+- [[Devin Nunes]] *chairs* [[President's Intelligence Advisory Board]] · 2025-01 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]

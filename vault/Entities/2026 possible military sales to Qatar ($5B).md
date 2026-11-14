@@ -10,9 +10,13 @@ tags:
 ---
 # 2026 possible military sales to Qatar ($5B)
 
-*event*
-
 Two State Department approvals: APKWS and Patriot replenishment.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -20,10 +24,15 @@ Two State Department approvals: APKWS and Patriot replenishment.
 
 ## Relationships
 
-- [[2026 possible military sales to Qatar ($5B)]] *includes* [[Advanced Precision Kill Weapon Systems]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[2026 possible military sales to Qatar ($5B)]] *includes* [[Patriot missile replenishment]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[2026 possible military sales to Qatar ($5B)]] *possible sale to* [[Qatar]] (2026, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[US State Department]] *approved* [[2026 possible military sales to Qatar ($5B)]] (2026, $5B, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+### Regulatory (1)
+
+- [[US State Department]] *approved* [[2026 possible military sales to Qatar ($5B)]] · 2026 · $5B · [[C16 Qatar jet, arms sales and golf deal|C16]]
+
+### Commercial (3)
+
+- [[2026 possible military sales to Qatar ($5B)]] *possible sale to* [[Qatar]] · 2026 · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[2026 possible military sales to Qatar ($5B)]] *includes* [[Advanced Precision Kill Weapon Systems]] · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[2026 possible military sales to Qatar ($5B)]] *includes* [[Patriot missile replenishment]] · [[C16 Qatar jet, arms sales and golf deal|C16]]
 
 ## Themes
 

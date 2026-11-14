@@ -10,9 +10,13 @@ tags:
 ---
 # STOCK Act
 
-*law*
-
 Requires reporting of securities transactions within 45 days
+
+| | |
+|---|---|
+| Type | Law or policy |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Requires reporting of securities transactions within 45 days
 
 ## Relationships
 
-- [[Donald Trump]] *missed 45-day reporting deadline under* [[STOCK Act]] (2026, legal) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+### Legal (1)
+
+- [[Donald Trump]] *missed 45-day reporting deadline under* [[STOCK Act]] · 2026 · [[C20 Trump's stock purchases and Truth Social posts|C20]]

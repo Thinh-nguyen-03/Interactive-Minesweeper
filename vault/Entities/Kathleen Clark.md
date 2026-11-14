@@ -10,9 +10,15 @@ tags:
 ---
 # Kathleen Clark
 
-*person*
-
 Government-ethics law scholar who called the waivers 'sham ethics waivers'
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
 
 - Washington University government-ethics law professor quoted by AP.
 
@@ -23,5 +29,10 @@ Government-ethics law scholar who called the waivers 'sham ethics waivers'
 
 ## Relationships
 
-- [[Kathleen Clark]] *called his waivers 'sham ethics waivers'* [[David Sacks]] (2025-12, media) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Kathleen Clark]] *criticized as unresolved conflict of interest* [[New America Acquisition I Corp]] (2025-08-04, political) · [[C27 New America Acquisition I Corp SPAC|C27]]
+### Political (1)
+
+- [[Kathleen Clark]] *criticized as unresolved conflict of interest* [[New America Acquisition I Corp]] · 2025-08-04 · [[C27 New America Acquisition I Corp SPAC|C27]]
+
+### Media (1)
+
+- [[Kathleen Clark]] *called his waivers 'sham ethics waivers'* [[David Sacks]] · 2025-12 · [[C34 David Sacks AI & crypto czar with investments|C34]]

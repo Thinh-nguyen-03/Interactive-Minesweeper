@@ -10,9 +10,13 @@ tags:
 ---
 # Ercument Bayegan
 
-*person*
-
 Turkish oil trader, BGN International; owner of yacht Phoenix 2
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,11 @@ Turkish oil trader, BGN International; owner of yacht Phoenix 2
 
 ## Relationships
 
-- [[Ercument Bayegan]] *owns* [[BGN International]] (ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Michael Boulos]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] (2025-07, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Tiffany Trump]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] (2025-07, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Ownership (1)
+
+- [[Ercument Bayegan]] *owns* [[BGN International]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+
+### Commercial (2)
+
+- [[Michael Boulos]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] · 2025-07 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Tiffany Trump]] *vacationed on his yacht Phoenix 2* [[Ercument Bayegan]] · 2025-07 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

@@ -12,9 +12,14 @@ tags:
 ---
 # Dinner for top $TRUMP holders
 
-*event*
-
 Private dinner with the president for the coin's largest holders.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
+| Also known as | meme coin dinner |
 
 ## Appears in claims
 
@@ -22,8 +27,13 @@ Private dinner with the president for the coin's largest holders.
 
 ## Relationships
 
-- [[Donald Trump]] *attended* [[Dinner for top $TRUMP holders]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Top $TRUMP holders]] *won seats at* [[Dinner for top $TRUMP holders]] (commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
+### Political (1)
+
+- [[Donald Trump]] *attended* [[Dinner for top $TRUMP holders]] · [[C03 Dinner for top $TRUMP holders|C03]]
+
+### Commercial (1)
+
+- [[Top $TRUMP holders]] *won seats at* [[Dinner for top $TRUMP holders]] · [[C03 Dinner for top $TRUMP holders|C03]]
 
 ## Themes
 

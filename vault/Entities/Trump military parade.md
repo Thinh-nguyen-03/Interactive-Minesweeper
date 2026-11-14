@@ -10,9 +10,13 @@ tags:
 ---
 # Trump military parade
 
-*event*
-
 Parade sponsored by crypto exchanges.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,8 +24,10 @@ Parade sponsored by crypto exchanges.
 
 ## Relationships
 
-- [[Donald Trump]] *wanted to hold* [[Trump military parade]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[SEC crypto cases dropped (wave)]] *coincided with sponsorship of* [[Trump military parade]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+### Political (2)
+
+- [[Donald Trump]] *wanted to hold* [[Trump military parade]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[SEC crypto cases dropped (wave)]] *coincided with sponsorship of* [[Trump military parade]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 
 ## Themes
 

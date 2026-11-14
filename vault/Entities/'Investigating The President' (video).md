@@ -10,9 +10,13 @@ tags:
 ---
 # 'Investigating The President' (video)
 
-*media*
-
 The Coffeezilla video this graph is built from.
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 1 claim |
+| Connections | 6 |
 
 ## Appears in claims
 
@@ -20,8 +24,10 @@ The Coffeezilla video this graph is built from.
 
 ## Relationships
 
-- [[Coffeezilla]] *made* [['Investigating The President' (video)]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [['Investigating The President' (video)]] *skit invokes whataboutism on* [[Hunter Biden]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [['Investigating The President' (video)]] *contrasts with peanut farm of* [[Jimmy Carter]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [['Investigating The President' (video)]] *says this dwarfs* [[Watergate]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [['Investigating The President' (video)]] *published on* [[YouTube]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Media (5)
+
+- [[Coffeezilla]] *made* [['Investigating The President' (video)]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [['Investigating The President' (video)]] *skit invokes whataboutism on* [[Hunter Biden]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [['Investigating The President' (video)]] *contrasts with peanut farm of* [[Jimmy Carter]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [['Investigating The President' (video)]] *says this dwarfs* [[Watergate]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [['Investigating The President' (video)]] *published on* [[YouTube]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]

@@ -10,9 +10,13 @@ tags:
 ---
 # 'Drain the swamp'
 
-*event*
-
 Trump's anti-corruption campaign slogan.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,7 +24,9 @@ Trump's anti-corruption campaign slogan.
 
 ## Relationships
 
-- [[Donald Trump]] *campaigned on* [['Drain the swamp']] (political) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Political (1)
+
+- [[Donald Trump]] *campaigned on* [['Drain the swamp']] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 
 ## Themes
 

@@ -10,9 +10,13 @@ tags:
 ---
 # Letitia James
 
-*person*
-
 New York AG; sued Coinbase, Gemini and Kalshi; defendant in CFTC suit.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ New York AG; sued Coinbase, Gemini and Kalshi; defendant in CFTC suit.
 
 ## Relationships
 
-- [[Letitia James]] *sued* [[Kalshi]] (2026-07-31, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+### Legal (1)
+
+- [[Letitia James]] *sued* [[Kalshi]] · 2026-07-31 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]

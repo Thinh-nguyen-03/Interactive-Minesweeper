@@ -2,18 +2,23 @@
 id: "maldives"
 kind: "entity"
 type: "country"
-connections: 1
-claims: 1
+connections: 2
+claims: 2
 tags:
   - "entity"
   - "type/country"
 ---
 # Maldives
 
-*country*
-
 Site of Trump International Hotel Maldives
+
+| | |
+|---|---|
+| Type | Country |
+| Appears in | 2 claims |
+| Connections | 2 |
 
 ## Appears in claims
 
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Pending

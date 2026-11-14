@@ -10,9 +10,13 @@ tags:
 ---
 # Rob Citrone
 
-*person*
-
 Discovery Capital co-founder; Bessent friend; Argentina bondholder
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Discovery Capital co-founder; Bessent friend; Argentina bondholder
 
 ## Relationships
 
-- [[Rob Citrone]] *co-founder* [[Discovery Capital Management]] (ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Rob Citrone]] *friend and former Soros colleague* [[Scott Bessent]] (political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Ownership (1)
+
+- [[Rob Citrone]] *co-founder* [[Discovery Capital Management]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Political (1)
+
+- [[Rob Citrone]] *friend and former Soros colleague* [[Scott Bessent]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]

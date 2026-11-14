@@ -15,7 +15,41 @@ tags:
 ---
 # C29: Trump family wealth gains
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Claim from the video · transcript lines 869-879
+
+## Bottom line
+
+Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest income source.
+
+## What holds up
+
+- Per his financial disclosure, Trump made about $1.4B from crypto out of about $2.2B, more than from any other business.
+- Per Forbes, Eric Trump has gotten 10x richer since the election.
+- Per Forbes, Don Jr. has gotten six times richer.
+- Per Forbes, Barron Trump is worth about $150M.
+
+## What needs correcting
+
+- The ventures that made the family billions have lost money for most of their actual American investors (partly accurate)
+- **Video said:** About $1.4B from crypto  
+  **Record shows:** That is the NYT/Reuters count; the AP counted about $1.2B, and all of these are revenue, not profit.
+- **Video said:** $2.2B total  
+  **Record shows:** That is the NYT's minimum figure; Forbes estimated about $2.4B.
+- The Forbes figures for the sons are from December 2025 and the Barron figure is from Sept/Oct 2025. They predate American Bitcoin's further collapse, so they likely overstate current values.
+- **Video said:** Most 'American' investors lost money  
+  **Record shows:** The loss data covers wallets worldwide and does not show nationality.
+
+## What is unproven
+
+- This may have been one of Trump's most profitable years ever.
+
+## In more detail
+
+- The NYT and Reuters count more than $1.4B (about $800M from World Liberty, about $635M from TRUMP coin licensing) within at least $2.2B total; the AP counts about $1.2B from crypto.
+- The Forbes figures are real but dated: Eric about $400M and 10x (Dec 2025), Don Jr. about $300M and 6x (Dec 2025), Barron about $150M (Oct 2025).
+- Most TRUMP coin, WLFI and ABTC buyers are underwater.
+- The filing shows revenue, not profit, so 'most profitable year' cannot be verified, and the loss data does not show investors were specifically American.
 
 ## What the video said
 
@@ -27,53 +61,87 @@ tags:
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 
-## Summary
-
-Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest income source. The NYT and Reuters count more than $1.4B (about $800M from World Liberty, about $635M from TRUMP coin licensing) within at least $2.2B total; the AP counts about $1.2B from crypto. The Forbes figures are real but dated: Eric about $400M and 10x (Dec 2025), Don Jr. about $300M and 6x (Dec 2025), Barron about $150M (Oct 2025). Most TRUMP coin, WLFI and ABTC buyers are underwater. The filing shows revenue, not profit, so 'most profitable year' cannot be verified, and the loss data does not show investors were specifically American.
-
 ## Sub-claims
 
-- **Confirmed**: Per his financial disclosure, Trump made about $1.4B from crypto out of about $2.2B, more than from any other business.
-  - The 927-page 2025 OGE filing was released 2026-06-30. Reuters and the NYT: more than $1.4B from crypto, made up of about $800M from WLF (more than $520M from token sales and more than $250M from selling interests in the business) plus about $635M in TRUMP meme-coin royalties via CIC Digital. NYT: at least $2.2B total, up from a minimum of $622M for 2024. Forbes: about $2.4B. AP: nearly $1.2B from crypto. Real estate, golf and resorts brought in about $500-575M, so crypto was the largest category. These figures are revenue/income, not profit.
-  - <https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures>
-  - <https://www.local10.com/business/2026/07/01/trump-filing-shows-he-took-in-about-12-billion-from-crypto-businesses-last-year/>
-  - <https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows>
-  - <https://news.bloomberglaw.com/crypto/trumps-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker>
-- **Unverified**: This may have been one of Trump's most profitable years ever.
-  - Forbes and the Daily Beast describe 2025 as his most lucrative year, at about three times the roughly $760M of 2024. The AP and NYT note the disclosure shows revenue, not profit, so profitability cannot be established. The video's hedged wording ('may have been') is reasonable.
-  - <https://www.thedailybeast.com/trump-made-3-times-more-in-white-house-than-in-business/>
-  - <https://www.bostonglobe.com/2026/07/01/nation/trump-pulled-least-2-billion-after-returning-white-house/>
-- **Confirmed**: Per Forbes, Eric Trump has gotten 10x richer since the election.
-  - Forbes (2025-12-04) estimated Eric at about $400M, 10x his level before the election. His American Bitcoin stake was worth about $160M at the time. Eric disputed the valuation without giving an alternative. The figure predates ABTC's further 87-95% slide, so it is probably lower now.
-  - <https://www.forbes.com/sites/kylemullins/2025/12/04/eric-trump-has-gotten-10-times-richer-since-dads-election/>
-- **Confirmed**: Per Forbes, Don Jr. has gotten six times richer.
-  - Forbes (2025-12-08) estimated about $300M, six times his November 2024 level. He had been near $500M in September 2025, before ABTC fell.
-  - <https://www.forbes.com/sites/kylemullins/2025/12/08/how-donald-trump-jrs-fortune-jumped-six-fold-in-a-year/>
-- **Confirmed**: Per Forbes, Barron Trump is worth about $150M.
-  - Forbes gave this figure on 2025-09-22 (family tally) and 2025-10-06 (Barron profile). It assumes Barron holds about 10% of the roughly $1.5B that WLF added to the family fortune, with locked tokens heavily discounted. It is an estimate, not a disclosed number.
-  - <https://www.forbes.com/sites/kylemullins/2025/10/06/how-19-year-old-barron-trump-is-worth-150-million/>
-  - <https://www.forbes.com/sites/danalexander/2025/09/22/heres-how-much-the-trump-kids-have-made-because-of-the-presidency/>
-- **Partly accurate**: The ventures that made the family billions have lost money for most of their actual American investors.
-  - TRUMP coin: Chainalysis counted 813K losing wallets (about $2B lost) in the first 19 days and about 764K losing wallets later. Nansen, cited by the NYT, counted about 989K wallets in loss (about $3.8B) by June 2026, with the token down about 97% from its peak. WLFI hit record lows of about $0.055-0.077 in April-May 2026, more than 80% below its peak. ABTC fell 75-95% from its Sept 2025 debut. So most retail buyers did lose money. Wallet data does not show nationality, however, so the 'American' framing is unsupported, and some revenue streams (licensing, USD1) did not involve retail losses.
-  - <https://fortune.com/crypto/2025/02/11/trump-memecoin-traders-2-billion-dollar-loss-family-100-million-fees/>
-  - <https://www.pymnts.com/cryptocurrency/2025/764k-trump-meme-coin-purchasers-reportedly-lost-money/>
-  - <https://www.kucoin.com/news/flash/trump-memecoin-investors-report-3-81-billion-in-losses-by-june-2026>
-  - <https://www.coindesk.com/markets/2026/04/10/trump-backed-wlfi-token-drops-12-to-record-lows-after-team-defends-multi-million-lending-position>
-  - <https://www.benzinga.com/crypto/cryptocurrency/26/01/50179554/eric-trump-says-american-bitcoin-is-leading-the-charge-in-btc-accumulation-but-companys-stock-has-cratered-75-since-debut>
-  - <https://decrypt.co/362712/trump-bros-american-bitcoin-milestone-stock-falls-lowest-price-ipo>
+### 1. Per his financial disclosure, Trump made about $1.4B from crypto out of about $2.2B, more than from any other business.
 
-## Corrections
+**Confirmed**
 
-- Transcript says about $1.4B from crypto. That is the NYT/Reuters count; the AP counted about $1.2B, and all of these are revenue, not profit.
-- Transcript says $2.2B total. That is the NYT's minimum figure; Forbes estimated about $2.4B.
-- The Forbes figures for the sons are from December 2025 and the Barron figure is from Sept/Oct 2025. They predate American Bitcoin's further collapse, so they likely overstate current values.
-- Transcript says most 'American' investors lost money. The loss data covers wallets worldwide and does not show nationality.
+- The 927-page 2025 OGE filing was released 2026-06-30.
+- Reuters and the NYT: more than $1.4B from crypto, made up of about $800M from WLF (more than $520M from token sales and more than $250M from selling interests in the business) plus about $635M in TRUMP meme-coin royalties via CIC Digital.
+- NYT: at least $2.2B total, up from a minimum of $622M for 2024.
+- Forbes: about $2.4B. AP: nearly $1.2B from crypto.
+- Real estate, golf and resorts brought in about $500-575M, so crypto was the largest category.
+- These figures are revenue/income, not profit.
+- Amounts: more than $1.4B; about $800M; more than $520M; more than $250M; about $635M
+- Dates: 2026-06-30
+- Sources: [1](https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures) [3](https://www.local10.com/business/2026/07/01/trump-filing-shows-he-took-in-about-12-billion-from-crypto-businesses-last-year/) [4](https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows) [6](https://news.bloomberglaw.com/crypto/trumps-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker)
+
+### 2. This may have been one of Trump's most profitable years ever.
+
+**Unverified**
+
+- Forbes and the Daily Beast describe 2025 as his most lucrative year, at about three times the roughly $760M of 2024.
+- The AP and NYT note the disclosure shows revenue, not profit, so profitability cannot be established.
+- The video's hedged wording ('may have been') is reasonable.
+- Amounts: roughly $760M
+- Sources: [7](https://www.thedailybeast.com/trump-made-3-times-more-in-white-house-than-in-business/) [5](https://www.bostonglobe.com/2026/07/01/nation/trump-pulled-least-2-billion-after-returning-white-house/)
+
+### 3. Per Forbes, Eric Trump has gotten 10x richer since the election.
+
+**Confirmed**
+
+- Forbes (2025-12-04) estimated Eric at about $400M, 10x his level before the election.
+- His American Bitcoin stake was worth about $160M at the time.
+- Eric disputed the valuation without giving an alternative.
+- The figure predates ABTC's further 87-95% slide, so it is probably lower now.
+- Amounts: about $400M; about $160M; 87-95%
+- Dates: 2025-12-04
+- Sources: [8](https://www.forbes.com/sites/kylemullins/2025/12/04/eric-trump-has-gotten-10-times-richer-since-dads-election/)
+
+### 4. Per Forbes, Don Jr. has gotten six times richer.
+
+**Confirmed**
+
+- Forbes (2025-12-08) estimated about $300M, six times his November 2024 level.
+- He had been near $500M in September 2025, before ABTC fell.
+- Amounts: about $300M; $500M
+- Dates: 2025-12-08; November 2024; September 2025
+- Sources: [9](https://www.forbes.com/sites/kylemullins/2025/12/08/how-donald-trump-jrs-fortune-jumped-six-fold-in-a-year/)
+
+### 5. Per Forbes, Barron Trump is worth about $150M.
+
+**Confirmed**
+
+- Forbes gave this figure on 2025-09-22 (family tally) and 2025-10-06 (Barron profile).
+- It assumes Barron holds about 10% of the roughly $1.5B that WLF added to the family fortune, with locked tokens heavily discounted.
+- It is an estimate, not a disclosed number.
+- Amounts: about 10%; roughly $1.5B
+- Dates: 2025-09-22; 2025-10-06
+- Sources: [10](https://www.forbes.com/sites/kylemullins/2025/10/06/how-19-year-old-barron-trump-is-worth-150-million/) [11](https://www.forbes.com/sites/danalexander/2025/09/22/heres-how-much-the-trump-kids-have-made-because-of-the-presidency/)
+
+### 6. The ventures that made the family billions have lost money for most of their actual American investors.
+
+**Partly accurate**
+
+- TRUMP coin: Chainalysis counted 813K losing wallets (about $2B lost) in the first 19 days and about 764K losing wallets later.
+- Nansen, cited by the NYT, counted about 989K wallets in loss (about $3.8B) by June 2026, with the token down about 97% from its peak.
+- WLFI hit record lows of about $0.055-0.077 in April-May 2026, more than 80% below its peak.
+- ABTC fell 75-95% from its Sept 2025 debut.
+- So most retail buyers did lose money.
+- Wallet data does not show nationality, however, so the 'American' framing is unsupported, and some revenue streams (licensing, USD1) did not involve retail losses.
+- Amounts: about $2B; about $3.8B; about 97%; about $0.055-0.077; more than 80%
+- Dates: June 2026; May 2026; Sept 2025
+- Sources: [12](https://fortune.com/crypto/2025/02/11/trump-memecoin-traders-2-billion-dollar-loss-family-100-million-fees/) [13](https://www.pymnts.com/cryptocurrency/2025/764k-trump-meme-coin-purchasers-reportedly-lost-money/) [14](https://www.kucoin.com/news/flash/trump-memecoin-investors-report-3-81-billion-in-losses-by-june-2026) [15](https://www.coindesk.com/markets/2026/04/10/trump-backed-wlfi-token-drops-12-to-record-lows-after-team-defends-multi-million-lending-position) [16](https://www.benzinga.com/crypto/cryptocurrency/26/01/50179554/eric-trump-says-american-bitcoin-is-leading-the-charge-in-btc-accumulation-but-companys-stock-has-cratered-75-since-debut) [17](https://decrypt.co/362712/trump-bros-american-bitcoin-milestone-stock-falls-lowest-price-ipo)
 
 ## Denials and context
 
-- White House spokesperson Anna Kelly: neither the president nor his family 'has ever engaged, or will ever engage, in conflicts of interest'. The White House says his assets are in a trust managed by his children, or in discretionary accounts run by independent institutions.
-- The Trump Organization called the filing 'one of the most comprehensive financial disclosure reports ever submitted'. World Liberty Financial declined to comment.
-- Critics note that Trump remains the beneficiary of the trust. Former acting OGE head Don Fox said every post-Watergate president managed his finances as though bound by conflict rules; Trump has not.
+- White House spokesperson Anna Kelly: neither the president nor his family 'has ever engaged, or will ever engage, in conflicts of interest'.
+  - The White House says his assets are in a trust managed by his children, or in discretionary accounts run by independent institutions.
+- The Trump Organization called the filing 'one of the most comprehensive financial disclosure reports ever submitted'.
+  - World Liberty Financial declined to comment.
+- Critics note that Trump remains the beneficiary of the trust.
+  - Former acting OGE head Don Fox said every post-Watergate president managed his finances as though bound by conflict rules; Trump has not.
 - Eric Trump disputed Forbes' valuation of him but offered no alternative figure.
 - Direct fetches of Forbes, Bloomberg Law, The Block and the Daily Beast were blocked in this environment, so findings rely on search snippets that agree across multiple outlets.
 
@@ -83,69 +151,95 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 
 ## People and organisations
 
-- [[$MELANIA meme coin]]
-- [[$TRUMP meme coin]]
-- [[ALT5 Sigma]]
-- [[American Bitcoin]]
-- [[Anna Kelly]]
-- [[Barron Trump]]
-- [[Chainalysis]]
-- [[CIC Digital LLC]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[Eric Trump]]
-- [[Forbes]]
-- [[Nansen]]
-- [[Office of Government Ethics]]
-- [[Retail investors Trump supporters]]
-- [[The New York Times]]
-- [[Trump financial disclosures]]
-- [[Trump Media & Technology Group]]
-- [[Trump Organization]]
-- [[White House Trump administration]]
-- [[WLFI token]]
-- [[World Liberty Financial]]
+- [[$MELANIA meme coin]] · Asset
+- [[$TRUMP meme coin]] · Asset
+- [[ALT5 Sigma]] · Company
+- [[American Bitcoin]] · Company
+- [[Anna Kelly]] · Person
+- [[Barron Trump]] · Person
+- [[Chainalysis]] · Company
+- [[CIC Digital LLC]] · Company
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[Eric Trump]] · Person
+- [[Forbes]] · Media
+- [[Nansen]] · Company
+- [[Office of Government Ethics]] · Government body
+- [[Retail investors Trump supporters]] · Person
+- [[The New York Times]] · Media
+- [[Trump financial disclosures]] · Event
+- [[Trump Media & Technology Group]] · Company
+- [[Trump Organization]] · Company
+- [[White House Trump administration]] · Government body
+- [[WLFI token]] · Asset
+- [[World Liberty Financial]] · Company
 
 ## Relationships documented
 
-- [[Anna Kelly]] *spokesperson for* [[White House Trump administration]] (political) · [[C29 Trump family wealth gains|C29]]
-- [[Barron Trump]] *son of* [[Donald Trump]] (family) · [[C29 Trump family wealth gains|C29]]
-- [[Barron Trump]] *holds a stake (Forbes assumes about 10%)* [[World Liberty Financial]] (2025, ownership) · [[C29 Trump family wealth gains|C29]]
-- [[Chainalysis]] *counted about 764K-813K losing wallets* [[$TRUMP meme coin]] (2025, media) · [[C29 Trump family wealth gains|C29]]
-- [[CIC Digital LLC]] *receives royalties from* [[$TRUMP meme coin]] (2025, commercial) · [[C29 Trump family wealth gains|C29]]
-- [[Donald Trump]] *father of* [[Barron Trump]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C29 Trump family wealth gains|C29]]
-- [[Donald Trump]] *father of* [[Donald Trump Jr]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump]] *filed 2025 annual disclosure (more than $1.4B crypto, at least $2.2B total)* [[Office of Government Ethics]] (2026-06-30, $2.2B, regulatory) · [[C29 Trump family wealth gains|C29]]
-- [[Donald Trump Jr]] *co-founder and shareholder* [[American Bitcoin]] (2025-03, ownership) · [[C29 Trump family wealth gains|C29]]
-- [[Eric Trump]] *co-founder and shareholder* [[American Bitcoin]] (2025-03, ownership) · [[C29 Trump family wealth gains|C29]]
-- [[Eric Trump]] *co-founder; holds tokens and USD1-related interest* [[World Liberty Financial]] (2024, ownership) · [[C29 Trump family wealth gains|C29]]
-- [[Forbes]] *estimated net worth about $150M* [[Barron Trump]] (2025-10-06, $150M, media) · [[C29 Trump family wealth gains|C29]]
-- [[Forbes]] *estimates ~$150M net worth* [[Barron Trump]] ($150M, media) · [[C29 Trump family wealth gains|C29]]
-- [[Forbes]] *estimated net worth about $300M (6x)* [[Donald Trump Jr]] (2025-12-08, $300M, media) · [[C29 Trump family wealth gains|C29]]
-- [[Forbes]] *estimates 6x richer* [[Donald Trump Jr]] (media) · [[C29 Trump family wealth gains|C29]]
-- [[Forbes]] *estimated net worth about $400M (10x)* [[Eric Trump]] (2025-12-04, $400M, media) · [[C29 Trump family wealth gains|C29]]
-- [[Forbes]] *estimates 10x richer* [[Eric Trump]] (media) · [[C29 Trump family wealth gains|C29]]
-- [[Nansen]] *counted about 989K wallets in loss, about $3.8B* [[$TRUMP meme coin]] (2026-06, $3.81B, media) · [[C29 Trump family wealth gains|C29]]
-- [[The New York Times]] *tallied at least $2.2B in 2025 income* [[Donald Trump]] (2026-07-01, $2.2B, media) · [[C29 Trump family wealth gains|C29]]
-- [[Retail investors Trump supporters]] *lost ~94% on stock of* [[ALT5 Sigma]] (money) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C29 Trump family wealth gains|C29]]
-- [[Retail investors Trump supporters]] *lost money backing ventures of* [[Donald Trump]] (money) · [[C29 Trump family wealth gains|C29]]
-- [[Retail investors Trump supporters]] *lost ~99% on* [[$MELANIA meme coin]] (money) · [[C02 $MELANIA coin and NFTs|C02]] [[C29 Trump family wealth gains|C29]]
-- [[Retail investors Trump supporters]] *lost ~95% on* [[$TRUMP meme coin]] (money) · [[C01 $TRUMP meme coin|C01]] [[C29 Trump family wealth gains|C29]]
-- [[Retail investors Trump supporters]] *funded ~$712M losses of* [[Trump Media & Technology Group]] ($712M, money) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C29 Trump family wealth gains|C29]]
-- [[$TRUMP meme coin]] *generated about $635M in licensing royalties in 2025* [[Donald Trump]] (2025, $635M, money) · [[C29 Trump family wealth gains|C29]]
-- [[Trump financial disclosures]] *show ~$1.4B crypto income of ~$2.2B* [[Donald Trump]] ($1.4B, money) · [[C29 Trump family wealth gains|C29]]
-- [[World Liberty Financial]] *paid about $800M (token sales plus sale of business interests) in 2025* [[Donald Trump]] (2025, $800M, money) · [[C29 Trump family wealth gains|C29]]
-- [[World Liberty Financial]] *pays president and family* [[Donald Trump]] (money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]] [[C29 Trump family wealth gains|C29]]
-- [[World Liberty Financial]] *issues* [[WLFI token]] (2024, commercial) · [[C29 Trump family wealth gains|C29]] [[C42 How World Liberty insiders took money out|C42]]
+### Money (9)
 
-## Leads not covered by the video
+- [[$TRUMP meme coin]] *generated about $635M in licensing royalties in 2025* [[Donald Trump]] · 2025 · $635M · [[C29 Trump family wealth gains|C29]]
+- [[World Liberty Financial]] *paid about $800M (token sales plus sale of business interests) in 2025* [[Donald Trump]] · 2025 · $800M · [[C29 Trump family wealth gains|C29]]
+- [[Retail investors Trump supporters]] *lost ~94% on stock of* [[ALT5 Sigma]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C29 Trump family wealth gains|C29]]
+- [[Retail investors Trump supporters]] *lost money backing ventures of* [[Donald Trump]] · [[C29 Trump family wealth gains|C29]]
+- [[Retail investors Trump supporters]] *lost ~99% on* [[$MELANIA meme coin]] · [[C02 $MELANIA coin and NFTs|C02]] [[C29 Trump family wealth gains|C29]]
+- [[Retail investors Trump supporters]] *lost ~95% on* [[$TRUMP meme coin]] · [[C01 $TRUMP meme coin|C01]] [[C29 Trump family wealth gains|C29]]
+- [[Retail investors Trump supporters]] *funded ~$712M losses of* [[Trump Media & Technology Group]] · $712M · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C29 Trump family wealth gains|C29]]
+- [[Trump financial disclosures]] *show ~$1.4B crypto income of ~$2.2B* [[Donald Trump]] · $1.4B · [[C29 Trump family wealth gains|C29]]
+- [[World Liberty Financial]] *pays president and family* [[Donald Trump]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]] [[C29 Trump family wealth gains|C29]]
 
-- **Don Jr. joins Unusual Machines advisory board; defense contracts follow**: Another Don Jr. venture whose value may rise with federal contracting; relevant to his Forbes 6x gain. [source](https://www.forbes.com/sites/zacheverson/2025/10/29/donald-trump-jr-ultimate-machines-defense-contracts-drones/) · [[Donald Trump Jr]] [[Pentagon (Department of Defense)]]
-- **WLF insiders borrowed stablecoins against about 5B WLFI tokens as the token hit record lows**: Bears on how WLF insiders extracted value while WLFI retail holders lost money. [source](https://fortune.com/2026/04/10/trump-world-liberty-financial-crypto-tokens-insider-loans/) · [[World Liberty Financial]] [[WLFI token]]
-- **Trump reinvested crypto gains in stocks and bonds, filings show**: Shows where the crypto windfall went; ties to the presidential trading disclosures. [source](https://www.hawaiitribune-herald.com/?p=372869) · [[Donald Trump]]
+### Ownership (4)
 
-## Sources
+- [[Eric Trump]] *co-founder; holds tokens and USD1-related interest* [[World Liberty Financial]] · 2024 · [[C29 Trump family wealth gains|C29]]
+- [[Barron Trump]] *holds a stake (Forbes assumes about 10%)* [[World Liberty Financial]] · 2025 · [[C29 Trump family wealth gains|C29]]
+- [[Donald Trump Jr]] *co-founder and shareholder* [[American Bitcoin]] · 2025-03 · [[C29 Trump family wealth gains|C29]]
+- [[Eric Trump]] *co-founder and shareholder* [[American Bitcoin]] · 2025-03 · [[C29 Trump family wealth gains|C29]]
+
+### Family (4)
+
+- [[Barron Trump]] *son of* [[Donald Trump]] · [[C29 Trump family wealth gains|C29]]
+- [[Donald Trump]] *father of* [[Barron Trump]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C29 Trump family wealth gains|C29]]
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *father of* [[Eric Trump]] · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+
+### Regulatory (1)
+
+- [[Donald Trump]] *filed 2025 annual disclosure (more than $1.4B crypto, at least $2.2B total)* [[Office of Government Ethics]] · 2026-06-30 · $2.2B · [[C29 Trump family wealth gains|C29]]
+
+### Political (1)
+
+- [[Anna Kelly]] *spokesperson for* [[White House Trump administration]] · [[C29 Trump family wealth gains|C29]]
+
+### Media (9)
+
+- [[Chainalysis]] *counted about 764K-813K losing wallets* [[$TRUMP meme coin]] · 2025 · [[C29 Trump family wealth gains|C29]]
+- [[Forbes]] *estimated net worth about $150M* [[Barron Trump]] · 2025-10-06 · $150M · [[C29 Trump family wealth gains|C29]]
+- [[Forbes]] *estimated net worth about $400M (10x)* [[Eric Trump]] · 2025-12-04 · $400M · [[C29 Trump family wealth gains|C29]]
+- [[Forbes]] *estimated net worth about $300M (6x)* [[Donald Trump Jr]] · 2025-12-08 · $300M · [[C29 Trump family wealth gains|C29]]
+- [[Nansen]] *counted about 989K wallets in loss, about $3.8B* [[$TRUMP meme coin]] · 2026-06 · $3.81B · [[C29 Trump family wealth gains|C29]]
+- [[The New York Times]] *tallied at least $2.2B in 2025 income* [[Donald Trump]] · 2026-07-01 · $2.2B · [[C29 Trump family wealth gains|C29]]
+- [[Forbes]] *estimates ~$150M net worth* [[Barron Trump]] · $150M · [[C29 Trump family wealth gains|C29]]
+- [[Forbes]] *estimates 6x richer* [[Donald Trump Jr]] · [[C29 Trump family wealth gains|C29]]
+- [[Forbes]] *estimates 10x richer* [[Eric Trump]] · [[C29 Trump family wealth gains|C29]]
+
+### Commercial (2)
+
+- [[World Liberty Financial]] *issues* [[WLFI token]] · 2024 · [[C29 Trump family wealth gains|C29]] [[C42 How World Liberty insiders took money out|C42]]
+- [[CIC Digital LLC]] *receives royalties from* [[$TRUMP meme coin]] · 2025 · [[C29 Trump family wealth gains|C29]]
+
+## Leads not covered here
+
+- **Don Jr. joins Unusual Machines advisory board; defense contracts follow**
+  - Another Don Jr. venture whose value may rise with federal contracting; relevant to his Forbes 6x gain.
+  - [[Donald Trump Jr]] [[Pentagon (Department of Defense)]] · [Source](https://www.forbes.com/sites/zacheverson/2025/10/29/donald-trump-jr-ultimate-machines-defense-contracts-drones/)
+- **WLF insiders borrowed stablecoins against about 5B WLFI tokens as the token hit record lows**
+  - Bears on how WLF insiders extracted value while WLFI retail holders lost money.
+  - [[World Liberty Financial]] [[WLFI token]] · [Source](https://fortune.com/2026/04/10/trump-world-liberty-financial-crypto-tokens-insider-loans/)
+- **Trump reinvested crypto gains in stocks and bonds, filings show**
+  - Shows where the crypto windfall went; ties to the presidential trading disclosures.
+  - [[Donald Trump]] · [Source](https://www.hawaiitribune-herald.com/?p=372869)
+
+## Sources (19)
 
 1. [Trump reports over $1.4 billion in income from crypto ventures (Reuters)](https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures) (KSL / Reuters, 2026-07-01)
 2. [Trump reports over $1.4 billion in income from crypto ventures](https://www.thestar.com.my/news/world/2026/07/01/trump-reports-over-14-billion-in-income-from-crypto-ventures) (The Star / Reuters, 2026-07-01)

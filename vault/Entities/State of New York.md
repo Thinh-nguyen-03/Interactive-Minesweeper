@@ -10,9 +10,13 @@ tags:
 ---
 # State of New York
 
-*government*
-
 Sued by CFTC 2026-04-24 (Hochul, James, Gaming Commission).
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Sued by CFTC 2026-04-24 (Hochul, James, Gaming Commission).
 
 ## Relationships
 
-- [[Commodity Futures Trading Commission]] *sued over prediction markets (SDNY)* [[State of New York]] (2026-04-24, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+### Legal (1)
+
+- [[Commodity Futures Trading Commission]] *sued over prediction markets (SDNY)* [[State of New York]] · 2026-04-24 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]

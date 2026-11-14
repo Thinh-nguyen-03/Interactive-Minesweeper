@@ -10,9 +10,13 @@ tags:
 ---
 # Arthur Hayes
 
-*person*
-
 BitMEX co-founder, pardoned Mar 2025
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ BitMEX co-founder, pardoned Mar 2025
 
 ## Relationships
 
-- [[Arthur Hayes]] *co-founded* [[BitMEX (HDR Global Trading)]] (ownership) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Donald Trump]] *pardoned* [[Arthur Hayes]] (2025-03-27, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+### Ownership (1)
+
+- [[Arthur Hayes]] *co-founded* [[BitMEX (HDR Global Trading)]] · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+
+### Legal (1)
+
+- [[Donald Trump]] *pardoned* [[Arthur Hayes]] · 2025-03-27 · [[C36 Clemency for other crypto and donor-linked figures|C36]]

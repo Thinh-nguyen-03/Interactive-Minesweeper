@@ -10,9 +10,13 @@ tags:
 ---
 # Conflict-of-interest laws
 
-*law*
-
 Laws the White House says the president abides by.
+
+| | |
+|---|---|
+| Type | Law or policy |
+| Appears in | 2 claims |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -21,5 +25,7 @@ Laws the White House says the president abides by.
 
 ## Relationships
 
-- [[Donald Trump]] *said to abide by* [[Conflict-of-interest laws]] (legal) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Jared Kushner]] *exempt from disclosure under* [[Conflict-of-interest laws]] (legal) · [[C15 Jared Kushner and Affinity Partners|C15]]
+### Legal (2)
+
+- [[Donald Trump]] *said to abide by* [[Conflict-of-interest laws]] · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Jared Kushner]] *exempt from disclosure under* [[Conflict-of-interest laws]] · [[C15 Jared Kushner and Affinity Partners|C15]]

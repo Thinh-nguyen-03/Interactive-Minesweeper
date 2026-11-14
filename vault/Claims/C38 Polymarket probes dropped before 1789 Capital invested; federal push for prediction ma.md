@@ -17,7 +17,42 @@ tags:
 ---
 # C38: Polymarket probes dropped before 1789 Capital invested; federal push for prediction markets
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Follow-up lead
+
+## Bottom line
+
+The dated facts in the brief hold up.
+
+## What holds up
+
+- The DOJ and CFTC closed their Polymarket investigations in July 2025.
+- The closure came about a month before 1789 Capital invested and Don Jr. joined Polymarket's advisory board.
+- Selig's CFTC sued Arizona, Connecticut, Illinois, New York and Wisconsin to defend prediction markets.
+- Sen. John Curtis sought a Senate Judiciary probe over Don Jr.'s prediction-market ties.
+
+## What needs correcting
+
+- The White House, not only Don Jr., lobbied state officials over prediction markets (partly accurate)
+- **Brief said:** 'about a month'  
+  **Record shows:** The probes were reported closed on 2025-07-15 and the 1789 investment was announced on 2025-08-26, about six weeks later.
+- **Claim:** The brief lists five states  
+  **Record:** The CFTC also sued Minnesota (2026-05-19) and Utah (2026-10-27), and trackers count nine or ten states in total.
+- **Brief said:** The White House 'lobbied state officials'  
+  **Record shows:** The documented instance is the White House Office of Intergovernmental Affairs giving North Carolina lawmakers information on federal policy, per the NC Speaker's spokesman as reported by the NYT.
+- Curtis's request also sought a subpoena for Hunter Biden. It was not aimed solely at the Trump family.
+
+## What is unproven
+
+- It is documented who decided to close the probes.
+
+## In more detail
+
+- Bloomberg, CNBC and others reported on 2025-07-15 that the DOJ (Manhattan U.S. Attorney's Office) and the CFTC had closed their Polymarket probes with no charges.
+- That was six weeks before 1789 Capital's 2025-08-26 investment and Don Jr.'s move to the advisory board.
+- The CFTC under Selig sued AZ, CT and IL (2026-04-02), NY (2026-04-24) and WI (2026-04-28), and later MN and UT, and Sen. Curtis asked Senate Judiciary on 2026-09-21 to investigate.
+- What the record does not show: who decided to close the probes (neither agency ever said, and the notices were never published), or any link between the closure and the Trump family.
+- The documented White House 'lobbying' is thinner than the word suggests, and the source for it is a North Carolina Speaker's spokesman, not the White House.
 
 ## Lead investigated
 
@@ -25,168 +60,236 @@ tags:
 
 ## Follows up on
 
-- [[C25 Prediction markets, CFTC and Don Jr]]
-- [[C26 1789 Capital and Vulcan Elements]]
-
-## Summary
-
-The dated facts in the brief hold up. Bloomberg, CNBC and others reported on 2025-07-15 that the DOJ (Manhattan U.S. Attorney's Office) and the CFTC had closed their Polymarket probes with no charges. That was six weeks before 1789 Capital's 2025-08-26 investment and Don Jr.'s move to the advisory board. The CFTC under Selig sued AZ, CT and IL (2026-04-02), NY (2026-04-24) and WI (2026-04-28), and later MN and UT, and Sen. Curtis asked Senate Judiciary on 2026-09-21 to investigate. What the record does not show: who decided to close the probes (neither agency ever said, and the notices were never published), or any link between the closure and the Trump family. The documented White House 'lobbying' is thinner than the word suggests, and the source for it is a North Carolina Speaker's spokesman, not the White House.
+- [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
+- [[C26 1789 Capital and Vulcan Elements]] · Mostly accurate
 
 ## Sub-claims
 
-- **Confirmed**: The DOJ and CFTC closed their Polymarket investigations in July 2025.
-  - Bloomberg reported on 2025-07-15 that Polymarket had received formal declination notices from both the DOJ and the CFTC. CNBC (via a person familiar) reported that both probes closed with no charges, and said the criminal inquiry was run by the Manhattan U.S. Attorney's Office (SDNY), which declined to comment. CEO Shayne Coplan said on X that the company had been 'cleared of any wrongdoing'. The DOJ, CFTC and Polymarket declined to comment, and no agency has publicly confirmed the closure. The probes began under Biden after the 2024 election and looked at whether US users still traded despite the CFTC's January 2022 settlement ($1.4M penalty). The FBI searched Coplan's home in November 2024. Neither charges nor a public finding of misconduct followed.
-  - <https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump>
-  - <https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703>
-  - <https://www.nbcsandiego.com/news/business/money-report/trump-administration-ends-polymarket-investigations-without-charges/3868886/>
-  - <https://cointelegraph.com/news/justice-department-ends-investigation-polymarket>
-- **Confirmed**: The closure came about a month before 1789 Capital invested and Don Jr. joined Polymarket's advisory board.
-  - The probes closed by 2025-07-15, and 1789 Capital's strategic investment and Don Jr.'s advisory-board seat were announced on 2025-08-26, a gap of about six weeks. Reuters put the investment in the double-digit millions and Axios at eight figures or more; no exact amount was disclosed. Axios reported that 1789 founder Omeed Malik and Coplan had been talking for about 18 months, and that the firm waited for a clear legal path to US operations. That fits a sequence in which the investment followed the regulatory relief. Nothing in the record shows the reverse, that the investment or Don Jr.'s involvement brought about the closure. Later, Polymarket bought the CFTC-licensed QCEX for $112M (July 2025), received a CFTC staff no-action letter in early September 2025, and 1789's total stake grew to a reported ~$200M before a planned ~$300M more in 2026.
-  - <https://www.axios.com/2025/08/26/trump-jr-vc-fund-polymarket>
-  - <https://www.theblock.co/post/368292/donald-trump-jr-invests-in-polymarket-and-joins-advisory-board>
-  - <https://www.thestar.com.my/tech/tech-news/2025/08/27/polymarket-secures-investment-from-trump-jr-backed-1789-capital>
-  - <https://blockworks.co/news/donald-trump-jr-polymarket-investment>
-  - <https://www.theblock.co/amp/post/369377/polymarket-can-go-live-in-the-us-following-cftc-ruling-ceo-says>
-  - <https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round>
-- **Unverified**: It is documented who decided to close the probes.
-  - No public record names the decision-maker. The criminal matter sat with SDNY under the Trump DOJ, and the CFTC was then run by Acting Chair Caroline Pham, since Selig was not confirmed until 2025-12-18. Reporting relies on anonymous sources and Polymarket's own statements, and the declination letters have not been published. When Rep. McGovern asked Selig on 2026-04-16 whether the White House had sought to drop a Polymarket probe, the question concerned the CFTC under Selig. He called the insinuation 'insulting'. No evidence of White House intervention in the July 2025 closures has surfaced.
-  - <https://www.nbcsandiego.com/news/business/money-report/trump-administration-ends-polymarket-investigations-without-charges/3868886/>
-  - <https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump>
-  - <https://krdo.com/news/2026/04/16/trumps-top-regulator-for-prediction-markets-pledges-crackdown-on-insider-trading/>
-- **Partly accurate**: The White House, not only Don Jr., lobbied state officials over prediction markets.
-  - The NYT reported on 2026-08-27 (seen here only through secondary coverage) that the White House Office of Intergovernmental Affairs gave North Carolina lawmakers information on federal policy toward state regulation of prediction markets. That account comes from a spokesman for NC House Speaker Destin Hall, not from the White House. The same story covered Don Jr.'s March 2026 pitch to GOP AGs (see C25), and also said a Kalshi lobbyist, ex-legislator Jim Harrell, helped shape the NC provision. 'Lobbied' overstates what has been documented about the White House: it is one reported briefing of one state's lawmakers. The administration's broader public push is well documented, including Trump's 2026-05-26 Truth Social post and the CFTC/DOJ lawsuits. No on-the-record White House response to the NYT story was found.
-  - <https://gvwire.com/2026/08/29/clash-between-prediction-markets-and-states-sets-off-a-furious-political-battle/>
-  - <https://www.gambling.com/news/trump-jr-and-white-house-both-lobbied-states-over-prediction-markets>
-  - <https://gamblinginsider.com/news/193604/trump-jr-white-house-state-prediction-market-fight>
-  - <https://sccgmanagement.com/sccg-articles/2026/08/28/trump-jr-and-white-house-directly-engage-state-officials-on-prediction-market-regulation/>
-  - <https://ny1.com/nyc/all-boroughs/news/2026/08/19/trump-administration-attempts-to-stop-states-from-regulating-online-prediction-markets>
-- **Confirmed**: Selig's CFTC sued Arizona, Connecticut, Illinois, New York and Wisconsin to defend prediction markets.
-  - The CFTC sued Arizona, Connecticut and Illinois on 2026-04-02. It sued New York on 2026-04-24 in SDNY, naming Gov. Hochul, AG Letitia James and the Gaming Commission, after James sued Coinbase and Gemini. It sued Wisconsin on 2026-04-28 in E.D. Wis., naming Gov. Evers, AG Kaul and gaming administrator Dillett. The list in the brief is incomplete. The CFTC also sued Minnesota on 2026-05-19 over the first outright state ban, and, with the DOJ, sued Utah on 2026-10-27 after Utah AG Derek Brown sued Kalshi. A New Republic-cited tracker puts the total at nine states, and one report calls Utah the 10th. Every suit seeks declarations that the CEA preempts state gambling law for CFTC-registered exchanges. Courts are split. The 3rd Circuit backed Kalshi (April 2026), while the 9th Circuit (2026-08-28, Nevada) and the 6th Circuit (2026-09-25, Ohio and Tennessee) held that states can regulate.
-  - <https://www.covers.com/industry/cftc-sues-illinois-arizona-connecticut-prediction-markets-april-2-2026>
-  - <https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits>
-  - <https://www.theblock.co/post/398886/cftc-sues-new-york-over-prediction-market-crackdown-as-38-ags-back-massachusetts-kalshi-case>
-  - <https://courthousenews.com/cftc-sues-new-york-gaming-regulators-over-prediction-markets-crackdown/>
-  - <https://www.theblock.co/news/regulation/2026-04-28-cftc-sues-wisconsin-federal-state-clash-prediction-market-oversight-399253>
-  - <https://www.courthousenews.com/articles/cftc-sues-wisconsin-gaming-administration-in-response-to-kalshi-crackdown>
-  - <https://www.theblock.co/news/regulation/2026-05-19-cftc-sues-minnesota-first-explicit-state-ban-prediction-markets-401917>
-  - <https://theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922>
-  - <https://www.sportsbookreview.com/news/cftc-justice-department-sue-utah-over-prediction-market-enforcement-oct-28-2026/>
-  - <https://newrepublic.com/article/214489/legal-war-prediction-markets-crazier>
-  - <https://krdo.com/news/2026/08/28/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules>
-  - <https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets>
-- **Confirmed**: Sen. John Curtis sought a Senate Judiciary probe over Don Jr.'s prediction-market ties.
-  - On Monday 2026-09-21, Curtis (R-Utah) wrote to Judiciary Chair Chuck Grassley and Ranking Member Dick Durbin. He asked them to investigate whether presidential family members used their relationships for private gain or preferential access, and urged subpoenas for both Donald Trump Jr. and Hunter Biden. He cited Don Jr.'s Kalshi and Polymarket roles and 1789's stake, along with crypto, foreign real estate and defense investments. The brief leaves out that the request was framed as bipartisan, also targeting Hunter Biden. No committee action on it was found.
-  - <https://www.axios.com/2026/09/22/john-curtis-trump-jr-hunter-biden-subpoenas>
-  - <https://www.legalsportsreport.com/278593/gop-senator-wants-probe-into-trump-jr-s-prediction-market-ties/>
-  - <https://sbcamericas.com/2026/09/23/curtis-trump-jr-prediction-markets/>
-  - <https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business>
+### 1. The DOJ and CFTC closed their Polymarket investigations in July 2025.
 
-## Corrections
+**Confirmed**
 
-- The brief says 'about a month'. The probes were reported closed on 2025-07-15 and the 1789 investment was announced on 2025-08-26, about six weeks later.
-- The brief lists five states. The CFTC also sued Minnesota (2026-05-19) and Utah (2026-10-27), and trackers count nine or ten states in total.
-- The brief says the White House 'lobbied state officials'. The documented instance is the White House Office of Intergovernmental Affairs giving North Carolina lawmakers information on federal policy, per the NC Speaker's spokesman as reported by the NYT.
-- Curtis's request also sought a subpoena for Hunter Biden. It was not aimed solely at the Trump family.
+- Bloomberg reported on 2025-07-15 that Polymarket had received formal declination notices from both the DOJ and the CFTC.
+- CNBC (via a person familiar) reported that both probes closed with no charges, and said the criminal inquiry was run by the Manhattan U.S. Attorney's Office (SDNY), which declined to comment.
+- CEO Shayne Coplan said on X that the company had been 'cleared of any wrongdoing'.
+- The DOJ, CFTC and Polymarket declined to comment, and no agency has publicly confirmed the closure.
+- The probes began under Biden after the 2024 election and looked at whether US users still traded despite the CFTC's January 2022 settlement ($1.4M penalty).
+- The FBI searched Coplan's home in November 2024.
+- Neither charges nor a public finding of misconduct followed.
+- Amounts: $1.4M
+- Dates: 2025-07-15; January 2022; November 2024
+- Sources: [1](https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump) [2](https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703) [3](https://www.nbcsandiego.com/news/business/money-report/trump-administration-ends-polymarket-investigations-without-charges/3868886/) [4](https://cointelegraph.com/news/justice-department-ends-investigation-polymarket)
+
+### 2. The closure came about a month before 1789 Capital invested and Don Jr. joined Polymarket's advisory board.
+
+**Confirmed**
+
+- The probes closed by 2025-07-15, and 1789 Capital's strategic investment and Don Jr.'s advisory-board seat were announced on 2025-08-26, a gap of about six weeks.
+- Reuters put the investment in the double-digit millions and Axios at eight figures or more; no exact amount was disclosed.
+- Axios reported that 1789 founder Omeed Malik and Coplan had been talking for about 18 months, and that the firm waited for a clear legal path to US operations.
+- That fits a sequence in which the investment followed the regulatory relief.
+- Nothing in the record shows the reverse, that the investment or Don Jr.'s involvement brought about the closure.
+- Later, Polymarket bought the CFTC-licensed QCEX for $112M (July 2025), received a CFTC staff no-action letter in early September 2025, and 1789's total stake grew to a reported ~$200M before a planned ~$300M more in 2026.
+- Amounts: $112M; ~$200M; ~$300M
+- Dates: 2025-07-15; 2025-08-26; July 2025; early September 2025
+- Sources: [5](https://www.axios.com/2025/08/26/trump-jr-vc-fund-polymarket) [6](https://www.theblock.co/post/368292/donald-trump-jr-invests-in-polymarket-and-joins-advisory-board) [7](https://www.thestar.com.my/tech/tech-news/2025/08/27/polymarket-secures-investment-from-trump-jr-backed-1789-capital) <https://blockworks.co/news/donald-trump-jr-polymarket-investment> [8](https://www.theblock.co/amp/post/369377/polymarket-can-go-live-in-the-us-following-cftc-ruling-ceo-says) [26](https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round)
+
+### 3. It is documented who decided to close the probes.
+
+**Unverified**
+
+- No public record names the decision-maker.
+- The criminal matter sat with SDNY under the Trump DOJ, and the CFTC was then run by Acting Chair Caroline Pham, since Selig was not confirmed until 2025-12-18.
+- Reporting relies on anonymous sources and Polymarket's own statements, and the declination letters have not been published.
+- When Rep. McGovern asked Selig on 2026-04-16 whether the White House had sought to drop a Polymarket probe, the question concerned the CFTC under Selig.
+- He called the insinuation 'insulting'.
+- No evidence of White House intervention in the July 2025 closures has surfaced.
+- Dates: 2025-12-18; 2026-04-16; July 2025
+- Sources: [3](https://www.nbcsandiego.com/news/business/money-report/trump-administration-ends-polymarket-investigations-without-charges/3868886/) [1](https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump) [12](https://krdo.com/news/2026/04/16/trumps-top-regulator-for-prediction-markets-pledges-crackdown-on-insider-trading/)
+
+### 4. The White House, not only Don Jr., lobbied state officials over prediction markets.
+
+**Partly accurate**
+
+- The NYT reported on 2026-08-27 (seen here only through secondary coverage) that the White House Office of Intergovernmental Affairs gave North Carolina lawmakers information on federal policy toward state regulation of prediction markets.
+- That account comes from a spokesman for NC House Speaker Destin Hall, not from the White House.
+- The same story covered Don Jr.'s March 2026 pitch to GOP AGs (see C25), and also said a Kalshi lobbyist, ex-legislator Jim Harrell, helped shape the NC provision.
+- 'Lobbied' overstates what has been documented about the White House: it is one reported briefing of one state's lawmakers.
+- The administration's broader public push is well documented, including Trump's 2026-05-26 Truth Social post and the CFTC/DOJ lawsuits.
+- No on-the-record White House response to the NYT story was found.
+- Dates: 2026-08-27; March 2026; 2026-05-26
+- Sources: [25](https://gvwire.com/2026/08/29/clash-between-prediction-markets-and-states-sets-off-a-furious-political-battle/) [20](https://www.gambling.com/news/trump-jr-and-white-house-both-lobbied-states-over-prediction-markets) [21](https://gamblinginsider.com/news/193604/trump-jr-white-house-state-prediction-market-fight) [23](https://sccgmanagement.com/sccg-articles/2026/08/28/trump-jr-and-white-house-directly-engage-state-officials-on-prediction-market-regulation/) [19](https://ny1.com/nyc/all-boroughs/news/2026/08/19/trump-administration-attempts-to-stop-states-from-regulating-online-prediction-markets)
+
+### 5. Selig's CFTC sued Arizona, Connecticut, Illinois, New York and Wisconsin to defend prediction markets.
+
+**Confirmed**
+
+- The CFTC sued Arizona, Connecticut and Illinois on 2026-04-02.
+- It sued New York on 2026-04-24 in SDNY, naming Gov. Hochul, AG Letitia James and the Gaming Commission, after James sued Coinbase and Gemini.
+- It sued Wisconsin on 2026-04-28 in E.D. Wis., naming Gov. Evers, AG Kaul and gaming administrator Dillett.
+- The list in the brief is incomplete.
+- The CFTC also sued Minnesota on 2026-05-19 over the first outright state ban, and, with the DOJ, sued Utah on 2026-10-27 after Utah AG Derek Brown sued Kalshi.
+- A New Republic-cited tracker puts the total at nine states, and one report calls Utah the 10th.
+- Every suit seeks declarations that the CEA preempts state gambling law for CFTC-registered exchanges. Courts are split.
+- The 3rd Circuit backed Kalshi (April 2026), while the 9th Circuit (2026-08-28, Nevada) and the 6th Circuit (2026-09-25, Ohio and Tennessee) held that states can regulate.
+- Dates: 2026-04-02; 2026-04-24; 2026-04-28; 2026-05-19; 2026-10-27
+- Sources: [10](https://www.covers.com/industry/cftc-sues-illinois-arizona-connecticut-prediction-markets-april-2-2026) [11](https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits) [13](https://www.theblock.co/post/398886/cftc-sues-new-york-over-prediction-market-crackdown-as-38-ags-back-massachusetts-kalshi-case) [14](https://courthousenews.com/cftc-sues-new-york-gaming-regulators-over-prediction-markets-crackdown/) [15](https://www.theblock.co/news/regulation/2026-04-28-cftc-sues-wisconsin-federal-state-clash-prediction-market-oversight-399253) [16](https://www.courthousenews.com/articles/cftc-sues-wisconsin-gaming-administration-in-response-to-kalshi-crackdown) [17](https://www.theblock.co/news/regulation/2026-05-19-cftc-sues-minnesota-first-explicit-state-ban-prediction-markets-401917) [32](https://theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922) [33](https://www.sportsbookreview.com/news/cftc-justice-department-sue-utah-over-prediction-market-enforcement-oct-28-2026/) [31](https://newrepublic.com/article/214489/legal-war-prediction-markets-crazier) [24](https://krdo.com/news/2026/08/28/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules) [30](https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets)
+
+### 6. Sen. John Curtis sought a Senate Judiciary probe over Don Jr.'s prediction-market ties.
+
+**Confirmed**
+
+- On Monday 2026-09-21, Curtis (R-Utah) wrote to Judiciary Chair Chuck Grassley and Ranking Member Dick Durbin.
+- He asked them to investigate whether presidential family members used their relationships for private gain or preferential access, and urged subpoenas for both Donald Trump Jr. and Hunter Biden.
+- He cited Don Jr.'s Kalshi and Polymarket roles and 1789's stake, along with crypto, foreign real estate and defense investments.
+- The brief leaves out that the request was framed as bipartisan, also targeting Hunter Biden.
+- No committee action on it was found.
+- Dates: 2026-09-21
+- Sources: [27](https://www.axios.com/2026/09/22/john-curtis-trump-jr-hunter-biden-subpoenas) [28](https://www.legalsportsreport.com/278593/gop-senator-wants-probe-into-trump-jr-s-prediction-market-ties/) [29](https://sbcamericas.com/2026/09/23/curtis-trump-jr-prediction-markets/) <https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business>
 
 ## Denials and context
 
-- Polymarket/Coplan: the company was 'cleared of any wrongdoing', and the Biden-era raid was a 'last-ditch effort' to shut it down. The DOJ, CFTC and SDNY declined to comment.
-- The probes began under the previous administration and ended without charges. Nothing shows the Trump family or 1789 Capital played any role in closing them, and Axios reports 1789 waited for the legal path to clear before investing.
+- Polymarket/Coplan: the company was 'cleared of any wrongdoing', and the Biden-era raid was a 'last-ditch effort' to shut it down.
+  - The DOJ, CFTC and SDNY declined to comment.
+- The probes began under the previous administration and ended without charges.
+  - Nothing shows the Trump family or 1789 Capital played any role in closing them, and Axios reports 1789 waited for the legal path to clear before investing.
 - Don Jr.'s spokesperson: he 'does not interface with the federal government on behalf of any company he invests in or advises' and does not trade on prediction markets.
-- Selig: the CFTC treats all market participants alike. He called McGovern's suggestion of White House interference 'insulting'.
+- Selig: the CFTC treats all market participants alike.
+  - He called McGovern's suggestion of White House interference 'insulting'.
 - Kalshi called the 2026-08-27 NYT story one-sided and says Don Jr. advises on marketing, not regulation.
-- The White House (Anna Kelly, in a separate August 2026 context) said 'There are no conflicts of interest.' No specific response to the NYT story was found.
+- The White House (Anna Kelly, in a separate August 2026 context) said 'There are no conflicts of interest.'
+  - No specific response to the NYT story was found.
 - Courts are split on CFTC preemption (3rd Circuit for Kalshi; 9th and 6th Circuits for the states), so the federal push has not yet produced the outcome the industry wants.
-- Fetch limits: covers.com and cftc.gov did not resolve from this environment, and the NYT and Bloomberg originals were not read directly. Findings rely on consistent coverage across several outlets.
+- Fetch limits: covers.com and cftc.gov did not resolve from this environment, and the NYT and Bloomberg originals were not read directly.
+  - Findings rely on consistent coverage across several outlets.
 
 ## People and organisations
 
-- [[1789 Capital]]
-- [[Bloomberg]]
-- [[Caroline Pham]]
-- [[Chuck Grassley]]
-- [[Commodity Futures Trading Commission]]
-- [[Derek Brown]]
-- [[Destin Hall]]
-- [[Dick Durbin]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[Hunter Biden]]
-- [[Jim Harrell]]
-- [[Jim McGovern]]
-- [[John Curtis]]
-- [[Kalshi]]
-- [[Letitia James]]
-- [[Mike Selig]]
-- [[North Carolina (state government)]]
-- [[Omeed Malik]]
-- [[Polymarket]]
-- [[QCEX (QCX LLC QC Clearing LLC)]]
-- [[Senate Judiciary Committee]]
-- [[Shayne Coplan]]
-- [[State of Arizona]]
-- [[State of Connecticut]]
-- [[State of Illinois]]
-- [[State of Minnesota]]
-- [[State of New York]]
-- [[State of Utah]]
-- [[State of Wisconsin]]
-- [[The New York Times]]
-- [[U.S. Attorney's Office, Southern District of New York]]
-- [[US Congress]]
-- [[US Department of Justice (us-doj)]]
-- [[White House Trump administration]]
+- [[1789 Capital]] · Fund
+- [[Bloomberg]] · Media
+- [[Caroline Pham]] · Person
+- [[Chuck Grassley]] · Person
+- [[Commodity Futures Trading Commission]] · Government body
+- [[Derek Brown]] · Person
+- [[Destin Hall]] · Person
+- [[Dick Durbin]] · Person
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[Hunter Biden]] · Person
+- [[Jim Harrell]] · Person
+- [[Jim McGovern]] · Person
+- [[John Curtis]] · Person
+- [[Kalshi]] · Company
+- [[Letitia James]] · Person
+- [[Mike Selig]] · Person
+- [[North Carolina (state government)]] · Government body
+- [[Omeed Malik]] · Person
+- [[Polymarket]] · Company
+- [[QCEX (QCX LLC QC Clearing LLC)]] · Company
+- [[Senate Judiciary Committee]] · Government body
+- [[Shayne Coplan]] · Person
+- [[State of Arizona]] · Government body
+- [[State of Connecticut]] · Government body
+- [[State of Illinois]] · Government body
+- [[State of Minnesota]] · Government body
+- [[State of New York]] · Government body
+- [[State of Utah]] · Government body
+- [[State of Wisconsin]] · Government body
+- [[The New York Times]] · Media
+- [[U.S. Attorney's Office, Southern District of New York]] · Government body
+- [[US Congress]] · Government body
+- [[US Department of Justice (us-doj)]] · Government body
+- [[White House Trump administration]] · Government body
 
 ## Relationships documented
 
-- [[1789 Capital]] *planned ~$300M in $1B round (total ~$500M)* [[Polymarket]] (2026-08-31, $300M, money) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[1789 Capital]] *strategic investment (eight figures)* [[Polymarket]] (2025-08-26, money) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Bloomberg]] *reported probe closures* [[Polymarket]] (2025-07-15, media) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Caroline Pham]] *acting chair at time of closure* [[Commodity Futures Trading Commission]] (2025-07, regulatory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Commodity Futures Trading Commission]] *sued over prediction markets* [[State of Arizona]] (2026-04-02, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Commodity Futures Trading Commission]] *sued over prediction markets* [[State of Connecticut]] (2026-04-02, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Commodity Futures Trading Commission]] *sued over prediction markets* [[State of Illinois]] (2026-04-02, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Commodity Futures Trading Commission]] *sued over prediction-market ban* [[State of Minnesota]] (2026-05-19, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Commodity Futures Trading Commission]] *sued over prediction markets (SDNY)* [[State of New York]] (2026-04-24, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Commodity Futures Trading Commission]] *closed investigation into* [[Polymarket]] (2025-07-15, regulatory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Commodity Futures Trading Commission]] *staff no-action letter* [[QCEX (QCX LLC QC Clearing LLC)]] (2025-09-03, regulatory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Commodity Futures Trading Commission]] *sued (with DOJ) over prediction markets* [[State of Utah]] (2026-10-27, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Commodity Futures Trading Commission]] *sued over prediction markets* [[State of Wisconsin]] (2026-04-28, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Chuck Grassley]] *chair of* [[Senate Judiciary Committee]] (political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Derek Brown]] *sued* [[Kalshi]] (2026-10-20, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Dick Durbin]] *ranking member of* [[Senate Judiciary Committee]] (political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Donald Trump]] *publicly backed exclusive authority of* [[Commodity Futures Trading Commission]] (2026-05-26, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] (2025-01, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Donald Trump Jr]] *joined advisory board* [[Polymarket]] (2025-08-26, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Jim Harrell]] *lobbyist for* [[Kalshi]] (commercial) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Jim McGovern]] *asked about White House pressure on Polymarket probe* [[Mike Selig]] (2026-04-16, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[John Curtis]] *sought subpoena of* [[Donald Trump Jr]] (2026-09-21, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[John Curtis]] *sought subpoena of* [[Hunter Biden]] (2026-09-21, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[John Curtis]] *requested probe of presidential-family dealings* [[Senate Judiciary Committee]] (2026-09-21, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Letitia James]] *sued* [[Kalshi]] (2026-07-31, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Mike Selig]] *chair of* [[Commodity Futures Trading Commission]] (2025-12-18, regulatory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[The New York Times]] *reported state outreach by* [[White House Trump administration]] (2026-08-27, media) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Omeed Malik]] *founder of* [[1789 Capital]] (ownership) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Polymarket]] *acquired for $112M* [[QCEX (QCX LLC QC Clearing LLC)]] (2025-07, $112M, money) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[U.S. Attorney's Office, Southern District of New York]] *ran criminal inquiry into* [[Polymarket]] (2024-11, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[U.S. Attorney's Office, Southern District of New York]] *component of* [[US Department of Justice (us-doj)]] (ownership) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Senate Judiciary Committee]] *committee of* [[US Congress]] (political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Shayne Coplan]] *founder and CEO* [[Polymarket]] (ownership) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[US Department of Justice (us-doj)]] *closed criminal probe without charges* [[Polymarket]] (2025-07-15, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[US Department of Justice (us-doj)]] *co-plaintiff in suit against* [[State of Utah]] (2026-10-27, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[White House Trump administration]] *briefed lawmakers on federal prediction-market policy* [[North Carolina (state government)]] (2026, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+### Money (3)
 
-## Leads not covered by the video
+- [[Polymarket]] *acquired for $112M* [[QCEX (QCX LLC QC Clearing LLC)]] · 2025-07 · $112M · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[1789 Capital]] *strategic investment (eight figures)* [[Polymarket]] · 2025-08-26 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[1789 Capital]] *planned ~$300M in $1B round (total ~$500M)* [[Polymarket]] · 2026-08-31 · $300M · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 
-- **CFTC no-action letter cleared Polymarket's US return a week after 1789 invested**: CFTC staff relief for Polymarket's $112M QCEX acquisition came on about 2025-09-03, days after Don Jr. joined the board. It is a separate regulatory benefit whose decision-makers have not been examined. [source](https://www.theblock.co/amp/post/369377/polymarket-can-go-live-in-the-us-following-cftc-ruling-ceo-says) · [[Commodity Futures Trading Commission]] [[Polymarket]] [[QCEX (QCX LLC QC Clearing LLC)]] [[1789 Capital]] [[Donald Trump Jr]] [[Caroline Pham]]
-- **1789 Capital to put ~$300M into Polymarket's $1B round at $21B valuation**: Don Jr.'s firm's exposure grows to a reported ~$500M while the CFTC litigates for the industry. Worth checking the amounts and whether the round closed. [source](https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round) · [[1789 Capital]] [[Polymarket]] [[Donald Trump Jr]]
-- **CFTC and DOJ sue Utah, Sen. Curtis's home state, over prediction markets**: Federal suit against the state whose AG sued Kalshi, filed a month after Curtis sought a probe of Don Jr.'s ties. It extends the federal-preemption campaign. [source](https://theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922) · [[Commodity Futures Trading Commission]] [[US Department of Justice (us-doj)]] [[State of Utah]] [[Derek Brown]] [[Kalshi]] [[John Curtis]]
-- **CFTC uses emergency authority to keep Kalshi operating amid New York lawsuit**: An unusual emergency order protecting a company Don Jr. advises, issued after NY AG James sued Kalshi. [source](https://theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507) · [[Commodity Futures Trading Commission]] [[Kalshi]] [[Letitia James]] [[Mike Selig]] [[Donald Trump Jr]]
-- **Ninth and Sixth Circuits rule states can regulate prediction markets, setting up a Supreme Court fight**: These rulings decide whether the federal push that benefits the Trump-linked platforms succeeds. [source](https://krdo.com/news/2026/08/28/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules) · [[Kalshi]] [[Polymarket]] [[Commodity Futures Trading Commission]]
+### Ownership (4)
 
-## Sources
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Omeed Malik]] *founder of* [[1789 Capital]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[U.S. Attorney's Office, Southern District of New York]] *component of* [[US Department of Justice (us-doj)]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Shayne Coplan]] *founder and CEO* [[Polymarket]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+
+### Family (1)
+
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
+
+### Regulatory (4)
+
+- [[Caroline Pham]] *acting chair at time of closure* [[Commodity Futures Trading Commission]] · 2025-07 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Commodity Futures Trading Commission]] *closed investigation into* [[Polymarket]] · 2025-07-15 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Commodity Futures Trading Commission]] *staff no-action letter* [[QCEX (QCX LLC QC Clearing LLC)]] · 2025-09-03 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Mike Selig]] *chair of* [[Commodity Futures Trading Commission]] · 2025-12-18 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+
+### Advisory (2)
+
+- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Donald Trump Jr]] *joined advisory board* [[Polymarket]] · 2025-08-26 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+
+### Political (9)
+
+- [[White House Trump administration]] *briefed lawmakers on federal prediction-market policy* [[North Carolina (state government)]] · 2026 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Jim McGovern]] *asked about White House pressure on Polymarket probe* [[Mike Selig]] · 2026-04-16 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Donald Trump]] *publicly backed exclusive authority of* [[Commodity Futures Trading Commission]] · 2026-05-26 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[John Curtis]] *sought subpoena of* [[Donald Trump Jr]] · 2026-09-21 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[John Curtis]] *sought subpoena of* [[Hunter Biden]] · 2026-09-21 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[John Curtis]] *requested probe of presidential-family dealings* [[Senate Judiciary Committee]] · 2026-09-21 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Chuck Grassley]] *chair of* [[Senate Judiciary Committee]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Dick Durbin]] *ranking member of* [[Senate Judiciary Committee]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Senate Judiciary Committee]] *committee of* [[US Congress]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+
+### Legal (12)
+
+- [[U.S. Attorney's Office, Southern District of New York]] *ran criminal inquiry into* [[Polymarket]] · 2024-11 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[US Department of Justice (us-doj)]] *closed criminal probe without charges* [[Polymarket]] · 2025-07-15 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Commodity Futures Trading Commission]] *sued over prediction markets* [[State of Arizona]] · 2026-04-02 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Commodity Futures Trading Commission]] *sued over prediction markets* [[State of Connecticut]] · 2026-04-02 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Commodity Futures Trading Commission]] *sued over prediction markets* [[State of Illinois]] · 2026-04-02 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Commodity Futures Trading Commission]] *sued over prediction markets (SDNY)* [[State of New York]] · 2026-04-24 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Commodity Futures Trading Commission]] *sued over prediction markets* [[State of Wisconsin]] · 2026-04-28 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Commodity Futures Trading Commission]] *sued over prediction-market ban* [[State of Minnesota]] · 2026-05-19 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Letitia James]] *sued* [[Kalshi]] · 2026-07-31 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Derek Brown]] *sued* [[Kalshi]] · 2026-10-20 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Commodity Futures Trading Commission]] *sued (with DOJ) over prediction markets* [[State of Utah]] · 2026-10-27 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[US Department of Justice (us-doj)]] *co-plaintiff in suit against* [[State of Utah]] · 2026-10-27 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+
+### Media (2)
+
+- [[Bloomberg]] *reported probe closures* [[Polymarket]] · 2025-07-15 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[The New York Times]] *reported state outreach by* [[White House Trump administration]] · 2026-08-27 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+
+### Commercial (1)
+
+- [[Jim Harrell]] *lobbyist for* [[Kalshi]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+
+## Leads not covered here
+
+- **CFTC no-action letter cleared Polymarket's US return a week after 1789 invested**
+  - CFTC staff relief for Polymarket's $112M QCEX acquisition came on about 2025-09-03, days after Don Jr. joined the board.
+  - It is a separate regulatory benefit whose decision-makers have not been examined.
+  - [[Commodity Futures Trading Commission]] [[Polymarket]] [[QCEX (QCX LLC QC Clearing LLC)]] [[1789 Capital]] [[Donald Trump Jr]] [[Caroline Pham]] · [Source](https://www.theblock.co/amp/post/369377/polymarket-can-go-live-in-the-us-following-cftc-ruling-ceo-says)
+- **1789 Capital to put ~$300M into Polymarket's $1B round at $21B valuation**
+  - Don Jr.'s firm's exposure grows to a reported ~$500M while the CFTC litigates for the industry.
+  - Worth checking the amounts and whether the round closed.
+  - [[1789 Capital]] [[Polymarket]] [[Donald Trump Jr]] · [Source](https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round)
+- **CFTC and DOJ sue Utah, Sen. Curtis's home state, over prediction markets**
+  - Federal suit against the state whose AG sued Kalshi, filed a month after Curtis sought a probe of Don Jr.'s ties.
+  - It extends the federal-preemption campaign.
+  - [[Commodity Futures Trading Commission]] [[US Department of Justice (us-doj)]] [[State of Utah]] [[Derek Brown]] [[Kalshi]] [[John Curtis]] · [Source](https://theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922)
+- **CFTC uses emergency authority to keep Kalshi operating amid New York lawsuit**
+  - An unusual emergency order protecting a company Don Jr. advises, issued after NY AG James sued Kalshi.
+  - [[Commodity Futures Trading Commission]] [[Kalshi]] [[Letitia James]] [[Mike Selig]] [[Donald Trump Jr]] · [Source](https://theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507)
+- **Ninth and Sixth Circuits rule states can regulate prediction markets, setting up a Supreme Court fight**
+  - These rulings decide whether the federal push that benefits the Trump-linked platforms succeeds.
+  - [[Kalshi]] [[Polymarket]] [[Commodity Futures Trading Commission]] · [Source](https://krdo.com/news/2026/08/28/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules)
+
+## Sources (33)
 
 1. [Polymarket Probe Ended by DOJ in Win for Crypto Bets Under Trump](https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump) (Bloomberg, 2025-07-15)
 2. [US Justice Department and CFTC close probes into Polymarket: Bloomberg](https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703) (The Block, 2025-07-15)

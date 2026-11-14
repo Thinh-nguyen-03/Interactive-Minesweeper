@@ -10,9 +10,13 @@ tags:
 ---
 # Trump Tower Bucharest
 
-*asset*
-
 Announced July 2025; reported stalled
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Announced July 2025; reported stalled
 
 ## Relationships
 
-- [[SDC Imobiliare]] *develops* [[Trump Tower Bucharest]] (2025-07, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Commercial (1)
+
+- [[SDC Imobiliare]] *develops* [[Trump Tower Bucharest]] · 2025-07 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

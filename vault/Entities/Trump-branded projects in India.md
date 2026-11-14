@@ -10,9 +10,17 @@ tags:
 ---
 # Trump-branded projects in India
 
-*asset*
+Eight-plus licensed towers incl.
 
-Eight-plus licensed towers incl. Hyderabad and Trump World Center Pune
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
+
+## Background
+
+- Hyderabad and Trump World Center Pune
 
 ## Appears in claims
 
@@ -20,4 +28,6 @@ Eight-plus licensed towers incl. Hyderabad and Trump World Center Pune
 
 ## Relationships
 
-- [[Tribeca Developers]] *develops* [[Trump-branded projects in India]] (commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Commercial (1)
+
+- [[Tribeca Developers]] *develops* [[Trump-branded projects in India]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

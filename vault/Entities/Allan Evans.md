@@ -10,9 +10,15 @@ tags:
 ---
 # Allan Evans
 
-*person*
-
 CEO of Unusual Machines.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 3 |
+
+## How other claims describe it
 
 - Unusual Machines CEO
 
@@ -23,4 +29,6 @@ CEO of Unusual Machines.
 
 ## Relationships
 
-- [[Allan Evans]] *CEO of* [[Unusual Machines]] (ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+### Ownership (1)
+
+- [[Allan Evans]] *CEO of* [[Unusual Machines]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]

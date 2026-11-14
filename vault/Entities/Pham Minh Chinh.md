@@ -10,9 +10,13 @@ tags:
 ---
 # Pham Minh Chinh
 
-*person*
-
 Vietnamese prime minister; co-led the 21 May 2025 groundbreaking
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Vietnamese prime minister; co-led the 21 May 2025 groundbreaking
 
 ## Relationships
 
-- [[Pham Minh Chinh]] *broke ground with Eric Trump* [[Trump International Hung Yen]] (2025-05-21, political) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Political (1)
+
+- [[Pham Minh Chinh]] *broke ground with Eric Trump* [[Trump International Hung Yen]] · 2025-05-21 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

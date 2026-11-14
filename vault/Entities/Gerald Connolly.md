@@ -10,9 +10,13 @@ tags:
 ---
 # Gerald Connolly
 
-*person*
-
 Late Rep. (D-VA); opened 2025 probe into GSA-Ramp dealings
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Late Rep. (D-VA); opened 2025 probe into GSA-Ramp dealings
 
 ## Relationships
 
-- [[Gerald Connolly]] *opened probe into Ramp dealings* [[General Services Administration]] (2025, legal) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Legal (1)
+
+- [[Gerald Connolly]] *opened probe into Ramp dealings* [[General Services Administration]] · 2025 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

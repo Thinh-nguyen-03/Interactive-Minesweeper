@@ -35,7 +35,7 @@ The Trump Organization says independent third-party investment managers run the 
 ### 5. Intel "trading in the Oval Office" meme, then the price rose: partly accurate
 Trump posted the meme twice:
 - **September 2025:** An AI image with no caption, posted around midnight, showed Trump at the Resolute Desk with trading screens reading "Bought Intel at $20" and "Intel now at $30." It referred to the government's 9.9% stake in Intel, bought at $20.47 a share under an August 22, 2025 agreement. It followed Nvidia's $5B investment in Intel [11][12]. Price reaction was mixed. Intel slipped slightly after hours and was down more than 2% the next premarket. The big jump that week (about 23%) came from the Nvidia deal, before the post [12][13].
-- **September 2026:** A similar image showed Intel going from $20 to $95, and Trump claimed he had made "hundreds of billions" for the US. Intel then rose more than 4% overnight, extending a three-session rally after a year-to-date gain of about 160% [14][15].
+- **September 2026 (posted 2026-09-06):** A similar image showed Intel going from $20 to $95, and Trump claimed he had made "hundreds of billions" for the US. Intel then rose more than 4% overnight, extending a three-session rally after a year-to-date gain of about 160% [14][15].
 
 If the video means the 2026 post, "the price went up" afterward is literally true, but nothing shows the post caused the rise. If it means the 2025 post, the claim is weak. In both posts the "trade" is the US government's stake, not Trump's personal holding. CNN separately reported that Trump's managed accounts bought Intel shortly before the government stake was announced, and the White House says Trump does not direct those trades [12]. The line "who knew the president would have such powers" is sarcasm that implies the post caused the move, and that is not established.
 
@@ -48,6 +48,7 @@ If the video means the 2026 post, "the price went up" afterward is literally tru
 - Trump Organization: independent third-party managers make all trades with no family input.
 - White House (David Ingle): the assets are in a trust managed by his children, and "there are no conflicts of interest."
 - Fortune and CNN: the trading pattern fits automated or indexed strategies, and most trades were never followed by a related post.
+- CNBC (relayed by Mediaite) reported that several of the Q1 2026 Palantir buys were marked "unsolicited", meaning not made on a broker's or adviser's recommendation. The filing does not say who placed them, so this neither proves nor rules out Trump's involvement, but it sits awkwardly with the "independently managed" defense [16].
 - Critics (CREW, Rep. Beyer, NOTUS): it is not a blind trust, filings were late, and Palantir has sponsored administration events and donated to the ballroom project.
 
 ## Sources
@@ -66,5 +67,9 @@ If the video means the 2026 post, "the price went up" afterward is literally tru
 13. Asianet Newsable (Stocktwits syndication), same story, 2025-09. https://newsable.asianetnews.com/markets/intel-stock-gets-a-trump-bump-as-potus-cryptic-meme-sends-retail-traders-spinning-after-5b-nvidia-deal-articleshow-7mp9g3c
 14. Stocktwits, "INTC jumps overnight: Trump touts Intel stock in AI-generated trading image," 2026-09. https://stocktwits.com/news-articles/markets/equity/intc-jumps-overnight-trump-touts-intel-stock-in-ai-generated-trading-image-claims-he-made-billions-for-us/cZt3ndORJxU
 15. BeInCrypto, "Trump again touts Intel stock gains in AI image," 2026-09. https://beincrypto.com/trump-intel-stock-ai-image/
+16. Mediaite, "Trump Hyped Palantir After Buying More Than $500k of Company's Stock," 2026-05. https://www.mediaite.com/media/news/trump-hyped-palantir-after-buying-more-than-500k-of-companys-stock/
 
 Note: several pages (Tom's Hardware, Stocktwits, ADN) could not be fetched from this environment. Their details come from search-result excerpts.
+
+## Audit (second review, Nov 2026)
+Result: **upheld**. Re-checked the Palantir '(PLTR)' post (2026-04-10) and the $247k-$630k of Q1 buys, the 113-page Q1 278-T (3,642 trades, certified May 8, received May 12, filed late), the Trump-side defense, and the Sept 2026 Intel repost. All held up across Mediaite, Digital Today, Benzinga and Crypto Briefing. Added the "unsolicited" marking as context and the exact repost date. Verdict unchanged.

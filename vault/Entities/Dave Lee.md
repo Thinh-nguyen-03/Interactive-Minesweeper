@@ -10,9 +10,13 @@ tags:
 ---
 # Dave Lee
 
-*person*
-
 Aqua 1 co-founder who denied Web3Port link
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Aqua 1 co-founder who denied Web3Port link
 
 ## Relationships
 
-- [[Dave Lee]] *co-founder; denied Web3Port link* [[Aqua 1 Foundation]] (2025-07, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+### Ownership (1)
+
+- [[Dave Lee]] *co-founder; denied Web3Port link* [[Aqua 1 Foundation]] · 2025-07 · [[C67 Investors who show up in several Trump-family vehicles|C67]]

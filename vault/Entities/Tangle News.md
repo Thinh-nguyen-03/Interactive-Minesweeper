@@ -12,9 +12,16 @@ tags:
 ---
 # Tangle News
 
-*media*
-
 Isaac Saul's nonpartisan political newsletter.
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 2 claims |
+| Connections | 3 |
+| Also known as | Tangle |
+
+## How other claims describe it
 
 - Nonpartisan political newsletter
 - Independent politics newsletter founded by Isaac Saul
@@ -26,6 +33,11 @@ Isaac Saul's nonpartisan political newsletter.
 
 ## Relationships
 
-- [[Isaac Saul]] *founded* [[Tangle News]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Isaac Saul]] *founder and executive editor of* [[Tangle News]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Isaac Saul]] *founder of* [[Tangle News]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+### Ownership (2)
+
+- [[Isaac Saul]] *founded* [[Tangle News]] · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Isaac Saul]] *founder of* [[Tangle News]] · [[C16 Qatar jet, arms sales and golf deal|C16]]
+
+### Media (1)
+
+- [[Isaac Saul]] *founder and executive editor of* [[Tangle News]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]

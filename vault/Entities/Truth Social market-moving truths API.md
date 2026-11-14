@@ -12,9 +12,14 @@ tags:
 ---
 # Truth Social market-moving truths API
 
-*product*
-
 Paid real-time feed of the platform's most market-moving posts; reportedly $100,000/month.
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 3 |
+| Also known as | truths API |
 
 ## Appears in claims
 
@@ -22,8 +27,10 @@ Paid real-time feed of the platform's most market-moving posts; reportedly $100,
 
 ## Relationships
 
-- [[Trump Media & Technology Group]] *sells for ~$100K/month* [[Truth Social market-moving truths API]] ($100K, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Truth Social market-moving truths API]] *streams market-moving posts of* [[Truth Social]] (commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+### Commercial (2)
+
+- [[Trump Media & Technology Group]] *sells for ~$100K/month* [[Truth Social market-moving truths API]] · $100K · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Truth Social market-moving truths API]] *streams market-moving posts of* [[Truth Social]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 
 ## Themes
 

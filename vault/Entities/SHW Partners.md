@@ -10,9 +10,13 @@ tags:
 ---
 # SHW Partners
 
-*company*
-
 Jason Miller's firm; India embassy FARA client
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Jason Miller's firm; India embassy FARA client
 
 ## Relationships
 
-- [[India]] *$1.8M/year embassy contract* [[SHW Partners]] (2025-04-24, $1.8M, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Jason Miller]] *heads* [[SHW Partners]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Money (1)
+
+- [[India]] *$1.8M/year embassy contract* [[SHW Partners]] · 2025-04-24 · $1.8M · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Ownership (1)
+
+- [[Jason Miller]] *heads* [[SHW Partners]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

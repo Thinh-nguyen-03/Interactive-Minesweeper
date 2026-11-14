@@ -10,9 +10,13 @@ tags:
 ---
 # BGC Group
 
-*company*
-
 Cantor-controlled brokerage that bought back Lutnick shares
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Cantor-controlled brokerage that bought back Lutnick shares
 
 ## Relationships
 
-- [[BGC Group]] *repurchased ~16.4M shares from* [[Howard Lutnick]] (2025-05, $151.5M, money) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+### Money (1)
+
+- [[BGC Group]] *repurchased ~16.4M shares from* [[Howard Lutnick]] · 2025-05 · $151.5M · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]

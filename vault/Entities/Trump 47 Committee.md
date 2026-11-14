@@ -10,9 +10,13 @@ tags:
 ---
 # Trump 47 Committee
 
-*fund*
-
 Trump campaign committee that received and partly refunded the Winklevoss BTC gifts
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,11 @@ Trump campaign committee that received and partly refunded the Winklevoss BTC gi
 
 ## Relationships
 
-- [[Cameron Winklevoss]] *gave ~$1M in BTC (excess refunded)* [[Trump 47 Committee]] (2024-06, $1M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Trump 47 Committee]] *campaign committee for* [[Donald Trump]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Tyler Winklevoss]] *gave ~$1M in BTC (excess refunded)* [[Trump 47 Committee]] (2024-06, $1M, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+### Money (2)
+
+- [[Cameron Winklevoss]] *gave ~$1M in BTC (excess refunded)* [[Trump 47 Committee]] · 2024-06 · $1M · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Tyler Winklevoss]] *gave ~$1M in BTC (excess refunded)* [[Trump 47 Committee]] · 2024-06 · $1M · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Political (1)
+
+- [[Trump 47 Committee]] *campaign committee for* [[Donald Trump]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]

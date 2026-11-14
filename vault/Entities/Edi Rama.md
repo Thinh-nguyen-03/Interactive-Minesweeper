@@ -10,9 +10,13 @@ tags:
 ---
 # Edi Rama
 
-*person*
-
 Albanian prime minister; chairs the Strategic Investment Committee and defends the project.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ Albanian prime minister; chairs the Strategic Investment Committee and defends t
 
 ## Relationships
 
-- [[Edi Rama]] *chairs* [[Albanian Strategic Investment Committee]] (political) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Zvernec protests ('Flamingo Revolution')]] *demands resignation of* [[Edi Rama]] (2026-05, political) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Political (2)
+
+- [[Zvernec protests ('Flamingo Revolution')]] *demands resignation of* [[Edi Rama]] · 2026-05 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Edi Rama]] *chairs* [[Albanian Strategic Investment Committee]] · [[C45 Kushner's Albania and Serbia developments|C45]]

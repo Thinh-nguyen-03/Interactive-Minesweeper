@@ -10,9 +10,13 @@ tags:
 ---
 # Trump presidential library
 
-*asset*
-
 Intended final home of the Qatari jet.
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Intended final home of the Qatari jet.
 
 ## Relationships
 
-- [[Qatar Boeing 747 gift]] *to end up in* [[Trump presidential library]] (ownership) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+### Ownership (1)
+
+- [[Qatar Boeing 747 gift]] *to end up in* [[Trump presidential library]] · [[C16 Qatar jet, arms sales and golf deal|C16]]

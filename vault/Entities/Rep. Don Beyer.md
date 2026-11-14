@@ -10,9 +10,13 @@ tags:
 ---
 # Rep. Don Beyer
 
-*person*
-
 Democratic congressman who disputed the blind-trust claim
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Democratic congressman who disputed the blind-trust claim
 
 ## Relationships
 
-- [[Rep. Don Beyer]] *disputed blind-trust claim by* [[Eric Trump]] (2026, political) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+### Political (1)
+
+- [[Rep. Don Beyer]] *disputed blind-trust claim by* [[Eric Trump]] · 2026 · [[C20 Trump's stock purchases and Truth Social posts|C20]]

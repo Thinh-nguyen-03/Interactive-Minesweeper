@@ -10,9 +10,13 @@ tags:
 ---
 # Tribeca Developers
 
-*company*
-
 Trump's Indian licensing partner (Kalpesh Mehta)
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,11 @@ Trump's Indian licensing partner (Kalpesh Mehta)
 
 ## Relationships
 
-- [[Kalpesh Mehta]] *founded* [[Tribeca Developers]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Tribeca Developers]] *licenses Trump brand from* [[Trump Organization]] (commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Tribeca Developers]] *develops* [[Trump-branded projects in India]] (commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Ownership (1)
+
+- [[Kalpesh Mehta]] *founded* [[Tribeca Developers]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Commercial (2)
+
+- [[Tribeca Developers]] *licenses Trump brand from* [[Trump Organization]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Tribeca Developers]] *develops* [[Trump-branded projects in India]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

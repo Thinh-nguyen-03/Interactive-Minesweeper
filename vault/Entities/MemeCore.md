@@ -10,9 +10,13 @@ tags:
 ---
 # MemeCore
 
-*company*
-
 Singapore-based firm whose founder attended the $TRUMP dinner
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Singapore-based firm whose founder attended the $TRUMP dinner
 
 ## Relationships
 
-- [[MemeCore]] *founder attended* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-22, political) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+### Political (1)
+
+- [[MemeCore]] *founder attended* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-22 · [[C67 Investors who show up in several Trump-family vehicles|C67]]

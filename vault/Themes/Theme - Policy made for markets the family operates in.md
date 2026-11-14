@@ -6,7 +6,7 @@ tags:
 ---
 # Policy made for markets the family operates in
 
-Legislation and executive orders (GENIUS, CLARITY, Bitcoin reserve, prediction-market policy) land in exactly the sectors where the family holds stakes.
+- Legislation and executive orders (GENIUS, CLARITY, Bitcoin reserve, prediction-market policy) land in exactly the sectors where the family holds stakes.
 
 ## Claims
 

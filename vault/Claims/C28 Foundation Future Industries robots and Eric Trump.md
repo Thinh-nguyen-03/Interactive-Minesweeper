@@ -15,7 +15,35 @@ tags:
 ---
 # C28: Foundation Future Industries robots and Eric Trump
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Claim from the video · transcript lines 827-857
+
+## Bottom line
+
+Foundation Future Industries is a 2024 San Francisco humanoid-robot startup led by CEO Sankaet Pathak.
+
+## What holds up
+
+- Foundation Future Industries is a humanoid-robot startup whose founder and CEO is Sankaet Pathak ('Sam Patak' in the transcript).
+- Eric Trump is the company's chief strategy adviser.
+- Fox presented the contracts as if they had just landed.
+- Wired reported many of the contracts were old news and in place before Eric Trump got involved (mostly accurate)
+
+## What needs correcting
+
+- The company secured a ~$24M Pentagon contract for its Phantom robot to begin tests with the Marine Corps (partly accurate)
+- **Video said:** 'Sam Patak'  
+  **Record shows:** The CEO is Sankaet Pathak.
+- **Claim:** Transcript implies a single new $24M Pentagon contract  
+  **Record:** Reporting describes about five research awards across services, partly inherited from Boardwalk Robotics and partly routed through IHMC.
+- Marine Corps tests were planned, not under way.
+- The segment aired on Fox Business (Mornings with Maria, 2026-04-23), not Fox News.
+
+## In more detail
+
+- Eric Trump, already an investor, became its chief strategy adviser around March 2026 and promoted a '$24M Pentagon contract' on Fox Business on April 23, 2026.
+- Per coverage of WIRED's reporting, the $24M is a 'fuzzy' bundle of research awards across the Army, Navy and Air Force, largely inherited from Boardwalk Robotics or routed through IHMC; at least one of those awards predates Eric Trump's role.
+- Marine Corps tests were planned, not under way, and the video's suggestion about why Eric Trump joined is speculation.
 
 ## What the video said
 
@@ -26,41 +54,56 @@ tags:
 - [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 
-## Summary
-
-Foundation Future Industries is a 2024 San Francisco humanoid-robot startup led by CEO Sankaet Pathak. Eric Trump, already an investor, became its chief strategy adviser around March 2026 and promoted a '$24M Pentagon contract' on Fox Business on April 23, 2026. Per coverage of WIRED's reporting, the $24M is a 'fuzzy' bundle of research awards across the Army, Navy and Air Force, largely inherited from Boardwalk Robotics or routed through IHMC; at least one of those awards predates Eric Trump's role. Marine Corps tests were planned, not under way, and the video's suggestion about why Eric Trump joined is speculation.
-
 ## Sub-claims
 
-- **Confirmed**: Foundation Future Industries is a humanoid-robot startup whose founder and CEO is Sankaet Pathak ('Sam Patak' in the transcript).
-  - Founded in 2024 in San Francisco by Pathak (ex-Synapse, which went bankrupt in 2024), Arjun Sethi and Mike LeBlanc. It builds the Phantom MK-1 humanoid robot, two of which were sent to Ukraine for demonstrations.
-  - <https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon>
-  - <https://eweek.com/news/foundation-humanoid-robots-ukraine-defense/>
-- **Partly accurate**: The company secured a ~$24M Pentagon contract for its Phantom robot to begin tests with the Marine Corps.
-  - The ~$24M is a company and Fox Business framing of roughly five research awards across the Army, Navy and Air Force, not one new contract. Two awards came with the Boardwalk Robotics acquisition (including an Air Force SBIR worth about $1.8M that started 2024-11-07) and three were routed through IHMC. WIRED called the figure 'fuzzy'. The Marine Corps breaching trials were described as planned, and no official Marine Corps or Pentagon announcement was found.
-  - <https://foxbusiness.com/media/eric-trump-backed-robot-startup-lands-24m-pentagon-deal-compete-china>
-  - <https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon>
-  - <https://www.sbir.gov/awards/216638>
-  - <https://forklog.com/en/eric-trump-backed-foundation-plans-to-equip-humanoid-robots-with-weapons/>
-- **Confirmed**: Eric Trump is the company's chief strategy adviser.
-  - Widely reported. He invested first, then took the adviser role around March 2026 according to the FT and Mediaite (one profile says May). He appeared alongside Pathak on Fox Business on 2026-04-23.
-  - <https://www.mediaite.com/media/tv/greatest-economy-in-the-world-eric-trump-hits-fox-to-take-a-victory-lap-for-one-of-his-companies-scoring-a-24m-pentagon-contract/>
-  - <https://dailycaller.com/2026/11/12/eric-trump-backed-company-robot-soldiers-hamas-tunnels/>
-- **Confirmed**: Fox presented the contracts as if they had just landed.
-  - The Fox Business segment and headline ('lands $24M Pentagon deal') framed the money as a new win. The segment aired on Fox Business, not Fox News.
-  - <https://foxbusiness.com/media/eric-trump-backed-robot-startup-lands-24m-pentagon-deal-compete-china>
-- **Mostly accurate**: Wired reported many of the contracts were old news and in place before Eric Trump got involved.
-  - Secondary coverage of WIRED's reporting says the contracts were inherited from Boardwalk or routed through IHMC rather than newly won, and at least the Air Force SBIR from Nov 2024 predates his 2026 role. One summary claims a significant award was issued after he joined, which I could not confirm. 'Maybe that's why Eric Trump got involved' is the narrator's speculation. I could not locate or fetch the WIRED article itself.
-  - <https://forklog.com/en/eric-trump-backed-foundation-plans-to-equip-humanoid-robots-with-weapons/>
-  - <https://gizmodo.com/the-killer-robots-have-an-eric-trump-problem-2000787112>
-  - <https://mikekalil.com/blog/foundation-military-claims/>
+### 1. Foundation Future Industries is a humanoid-robot startup whose founder and CEO is Sankaet Pathak ('Sam Patak' in the transcript).
 
-## Corrections
+**Confirmed**
 
-- Transcript says 'Sam Patak'; the CEO is Sankaet Pathak.
-- Transcript implies a single new $24M Pentagon contract; reporting describes about five research awards across services, partly inherited from Boardwalk Robotics and partly routed through IHMC.
-- Marine Corps tests were planned, not under way.
-- The segment aired on Fox Business (Mornings with Maria, 2026-04-23), not Fox News.
+- Founded in 2024 in San Francisco by Pathak (ex-Synapse, which went bankrupt in 2024), Arjun Sethi and Mike LeBlanc.
+- It builds the Phantom MK-1 humanoid robot, two of which were sent to Ukraine for demonstrations.
+- Sources: [4](https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon) [9](https://eweek.com/news/foundation-humanoid-robots-ukraine-defense/)
+
+### 2. The company secured a ~$24M Pentagon contract for its Phantom robot to begin tests with the Marine Corps.
+
+**Partly accurate**
+
+- The ~$24M is a company and Fox Business framing of roughly five research awards across the Army, Navy and Air Force, not one new contract.
+- Two awards came with the Boardwalk Robotics acquisition (including an Air Force SBIR worth about $1.8M that started 2024-11-07) and three were routed through IHMC.
+- WIRED called the figure 'fuzzy'.
+- The Marine Corps breaching trials were described as planned, and no official Marine Corps or Pentagon announcement was found.
+- Amounts: ~$24M; about $1.8M
+- Dates: 2024-11-07
+- Sources: [1](https://foxbusiness.com/media/eric-trump-backed-robot-startup-lands-24m-pentagon-deal-compete-china) [4](https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon) [8](https://www.sbir.gov/awards/216638) [5](https://forklog.com/en/eric-trump-backed-foundation-plans-to-equip-humanoid-robots-with-weapons/)
+
+### 3. Eric Trump is the company's chief strategy adviser.
+
+**Confirmed**
+
+- Widely reported. He invested first, then took the adviser role around March 2026 according to the FT and Mediaite (one profile says May).
+- He appeared alongside Pathak on Fox Business on 2026-04-23.
+- Dates: March 2026; 2026-04-23
+- Sources: [2](https://www.mediaite.com/media/tv/greatest-economy-in-the-world-eric-trump-hits-fox-to-take-a-victory-lap-for-one-of-his-companies-scoring-a-24m-pentagon-contract/) [10](https://dailycaller.com/2026/11/12/eric-trump-backed-company-robot-soldiers-hamas-tunnels/)
+
+### 4. Fox presented the contracts as if they had just landed.
+
+**Confirmed**
+
+- The Fox Business segment and headline ('lands $24M Pentagon deal') framed the money as a new win.
+- The segment aired on Fox Business, not Fox News.
+- Amounts: $24M
+- Sources: [1](https://foxbusiness.com/media/eric-trump-backed-robot-startup-lands-24m-pentagon-deal-compete-china)
+
+### 5. Wired reported many of the contracts were old news and in place before Eric Trump got involved.
+
+**Mostly accurate**
+
+- Secondary coverage of WIRED's reporting says the contracts were inherited from Boardwalk or routed through IHMC rather than newly won, and at least the Air Force SBIR from Nov 2024 predates his 2026 role.
+- One summary claims a significant award was issued after he joined, which I could not confirm.
+- 'Maybe that's why Eric Trump got involved' is the narrator's speculation.
+- I could not locate or fetch the WIRED article itself.
+- Dates: Nov 2024
+- Sources: [5](https://forklog.com/en/eric-trump-backed-foundation-plans-to-equip-humanoid-robots-with-weapons/) [6](https://gizmodo.com/the-killer-robots-have-an-eric-trump-problem-2000787112) [7](https://mikekalil.com/blog/foundation-military-claims/)
 
 ## Denials and context
 
@@ -77,61 +120,91 @@ Foundation Future Industries is a 2024 San Francisco humanoid-robot startup led 
 
 ## People and organisations
 
-- [[$24M Pentagon contract for Foundation]]
-- [[Boardwalk Robotics]]
-- [[China]]
-- [[Donald Trump]]
-- [[Elizabeth Warren]]
-- [[Eric Trump]]
-- [[Foundation Future Industries]]
-- [[Fox News]]
-- [[Institute for Human and Machine Cognition]]
-- [[Maria Bartiromo]]
-- [[Pentagon (Department of Defense)]]
-- [[Phantom humanoid robot]]
-- [[Sankaet Pathak]]
-- [[Ukraine]]
-- [[US Congress]]
-- [[US Marine Corps]]
-- [[White House Trump administration]]
-- [[Wired]]
+- [[$24M Pentagon contract for Foundation]] · Event
+- [[Boardwalk Robotics]] · Company
+- [[China]] · Country
+- [[Donald Trump]] · Person
+- [[Elizabeth Warren]] · Person
+- [[Eric Trump]] · Person
+- [[Foundation Future Industries]] · Company
+- [[Fox News]] · Media
+- [[Institute for Human and Machine Cognition]] · Company
+- [[Maria Bartiromo]] · Person
+- [[Pentagon (Department of Defense)]] · Government body
+- [[Phantom humanoid robot]] · Product
+- [[Sankaet Pathak]] · Person
+- [[Ukraine]] · Country
+- [[US Congress]] · Government body
+- [[US Marine Corps]] · Government body
+- [[White House Trump administration]] · Government body
+- [[Wired]] · Media
 
 ## Relationships documented
 
-- [[Elizabeth Warren]] *criticized as 'corruption in plain sight'* [[Foundation Future Industries]] (2026-04, political) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Eric Trump]] *justifies ventures as beating* [[China]] (political) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Eric Trump]] *chief strategy adviser to* [[Foundation Future Industries]] (2026-03, advisory) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Eric Trump]] *investor in* [[Foundation Future Industries]] (2026, money) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Foundation Future Industries]] *acquired (inheriting two federal contracts)* [[Boardwalk Robotics]] (2024, ownership) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Foundation Future Industries]] *develops* [[Phantom humanoid robot]] (commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Foundation Future Industries]] *makes* [[Phantom humanoid robot]] (commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Foundation Future Industries]] *sent two Phantom units for demonstrations* [[Ukraine]] (2026, commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Fox News]] *presented $24M contract as new* [[Foundation Future Industries]] (2026-04-23, media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Fox News]] *presented as new* [[$24M Pentagon contract for Foundation]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Institute for Human and Machine Cognition]] *routed three research projects to* [[Foundation Future Industries]] (commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Maria Bartiromo]] *interviewed* [[Eric Trump]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Maria Bartiromo]] *host on* [[Fox News]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[US Marine Corps]] *branch under* [[Pentagon (Department of Defense)]] (political) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[US Marine Corps]] *planned breaching tests of* [[Phantom humanoid robot]] (2026, commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[US Marine Corps]] *to test* [[Phantom humanoid robot]] (commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Pentagon (Department of Defense)]] *Air Force SBIR award (~$1.8M), start 2024-11-07* [[Boardwalk Robotics]] (2024-11, $1.8M, commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Pentagon (Department of Defense)]] *awarded $24M contract to* [[Foundation Future Industries]] ($24M, money) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Pentagon (Department of Defense)]] *~$24M in research awards (Army/Navy/Air Force), as promoted* [[Foundation Future Industries]] (2026-04, $24M, commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Pentagon (Department of Defense)]] *awarded* [[$24M Pentagon contract for Foundation]] ($24M, money) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Sankaet Pathak]] *founder and CEO of* [[Foundation Future Industries]] (2024, ownership) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Wired]] *reported $24M figure 'fuzzy' and contracts inherited* [[Foundation Future Industries]] (2026, media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Wired]] *reported predates Eric Trump* [[$24M Pentagon contract for Foundation]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+### Money (3)
 
-## Leads not covered by the video
+- [[Eric Trump]] *investor in* [[Foundation Future Industries]] · 2026 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Pentagon (Department of Defense)]] *awarded $24M contract to* [[Foundation Future Industries]] · $24M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Pentagon (Department of Defense)]] *awarded* [[$24M Pentagon contract for Foundation]] · $24M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 
-- **Foundation reportedly in talks to supply humanoid robots to Israel's military (Hamas tunnels)**: A new defense deal for the same Eric Trump-advised company, reported by the FT; the FT also says he keeps an ownership stake. [source](https://dailycaller.com/2026/11/12/eric-trump-backed-company-robot-soldiers-hamas-tunnels/) · [[Foundation Future Industries]] [[Eric Trump]]
-- **Foundation partners with AMD to co-develop military humanoid robots**: A commercial expansion of the same Eric Trump-backed firm. [source](https://gvwire.com/2026/07/23/eric-trump-backed-foundation-partners-with-amd-to-develop-humanoid-robots/) · [[Foundation Future Industries]] [[Eric Trump]]
-- **1789 Capital portfolio companies received >$70M in federal contracts (Warren/Blumenthal/Kim letter)**: A parallel pattern of Pentagon money flowing to companies tied to Donald Trump Jr. [source](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-kim-sound-alarm-on-potential-for-donald-trump-jr-linked-companies-to-profit-off-department-of-defense-contract-awards-loans) · [[Donald Trump Jr]] [[1789 Capital]] [[Pentagon (Department of Defense)]]
-- **Rep. Garcia asks DoD Inspector General to review Trump-family contracts**: A formal oversight request covering Pentagon awards to Trump-family-linked firms. [source](https://oversightdemocrats.house.gov/imo/media/doc/2026-05-08garciatododigretrumpfamilycontracts.pdf) · [[Pentagon (Department of Defense)]] [[Eric Trump]] [[US Congress]]
-- **Warren letter to DoD IG on corruption in the Pentagon awards process**: A follow-up oversight letter on Trump-family-tied awards, including drone maker Powerus, which is backed by the Trump sons. [source](https://www.warren.senate.gov/wp-content/uploads/2026/08/2026.08.04-Letter-to-DoD-IG-re-Corruption-in-Pentagon-Awards-Process.pdf) · [[Pentagon (Department of Defense)]] [[Eric Trump]] [[Donald Trump Jr]]
+### Ownership (2)
 
-## Sources
+- [[Foundation Future Industries]] *acquired (inheriting two federal contracts)* [[Boardwalk Robotics]] · 2024 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Sankaet Pathak]] *founder and CEO of* [[Foundation Future Industries]] · 2024 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+
+### Family (1)
+
+- [[Eric Trump]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+### Advisory (1)
+
+- [[Eric Trump]] *chief strategy adviser to* [[Foundation Future Industries]] · 2026-03 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+
+### Political (3)
+
+- [[Elizabeth Warren]] *criticized as 'corruption in plain sight'* [[Foundation Future Industries]] · 2026-04 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Eric Trump]] *justifies ventures as beating* [[China]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[US Marine Corps]] *branch under* [[Pentagon (Department of Defense)]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+
+### Media (6)
+
+- [[Wired]] *reported $24M figure 'fuzzy' and contracts inherited* [[Foundation Future Industries]] · 2026 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Fox News]] *presented $24M contract as new* [[Foundation Future Industries]] · 2026-04-23 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Fox News]] *presented as new* [[$24M Pentagon contract for Foundation]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Maria Bartiromo]] *interviewed* [[Eric Trump]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Maria Bartiromo]] *host on* [[Fox News]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Wired]] *reported predates Eric Trump* [[$24M Pentagon contract for Foundation]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+
+### Commercial (8)
+
+- [[Pentagon (Department of Defense)]] *Air Force SBIR award (~$1.8M), start 2024-11-07* [[Boardwalk Robotics]] · 2024-11 · $1.8M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Foundation Future Industries]] *sent two Phantom units for demonstrations* [[Ukraine]] · 2026 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[US Marine Corps]] *planned breaching tests of* [[Phantom humanoid robot]] · 2026 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Pentagon (Department of Defense)]] *~$24M in research awards (Army/Navy/Air Force), as promoted* [[Foundation Future Industries]] · 2026-04 · $24M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Foundation Future Industries]] *develops* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Foundation Future Industries]] *makes* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Institute for Human and Machine Cognition]] *routed three research projects to* [[Foundation Future Industries]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[US Marine Corps]] *to test* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+
+## Leads not covered here
+
+- **Foundation reportedly in talks to supply humanoid robots to Israel's military (Hamas tunnels)**
+  - A new defense deal for the same Eric Trump-advised company, reported by the FT; the FT also says he keeps an ownership stake.
+  - [[Foundation Future Industries]] [[Eric Trump]] · [Source](https://dailycaller.com/2026/11/12/eric-trump-backed-company-robot-soldiers-hamas-tunnels/)
+- **Foundation partners with AMD to co-develop military humanoid robots**
+  - A commercial expansion of the same Eric Trump-backed firm.
+  - [[Foundation Future Industries]] [[Eric Trump]] · [Source](https://gvwire.com/2026/07/23/eric-trump-backed-foundation-partners-with-amd-to-develop-humanoid-robots/)
+- **1789 Capital portfolio companies received >$70M in federal contracts (Warren/Blumenthal/Kim letter)**
+  - A parallel pattern of Pentagon money flowing to companies tied to Donald Trump Jr.
+  - [[Donald Trump Jr]] [[1789 Capital]] [[Pentagon (Department of Defense)]] · [Source](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-kim-sound-alarm-on-potential-for-donald-trump-jr-linked-companies-to-profit-off-department-of-defense-contract-awards-loans)
+- **Rep. Garcia asks DoD Inspector General to review Trump-family contracts**
+  - A formal oversight request covering Pentagon awards to Trump-family-linked firms.
+  - [[Pentagon (Department of Defense)]] [[Eric Trump]] [[US Congress]] · [Source](https://oversightdemocrats.house.gov/imo/media/doc/2026-05-08garciatododigretrumpfamilycontracts.pdf)
+- **Warren letter to DoD IG on corruption in the Pentagon awards process**
+  - A follow-up oversight letter on Trump-family-tied awards, including drone maker Powerus, which is backed by the Trump sons.
+  - [[Pentagon (Department of Defense)]] [[Eric Trump]] [[Donald Trump Jr]] · [Source](https://www.warren.senate.gov/wp-content/uploads/2026/08/2026.08.04-Letter-to-DoD-IG-re-Corruption-in-Pentagon-Awards-Process.pdf)
+
+## Sources (14)
 
 1. [Eric Trump-backed robot startup lands $24M Pentagon deal to compete with China](https://foxbusiness.com/media/eric-trump-backed-robot-startup-lands-24m-pentagon-deal-compete-china) (Fox Business, 2026-04-23)
 2. ['Greatest economy in the world': Eric Trump hits Fox to take a victory lap](https://www.mediaite.com/media/tv/greatest-economy-in-the-world-eric-trump-hits-fox-to-take-a-victory-lap-for-one-of-his-companies-scoring-a-24m-pentagon-contract/) (Mediaite, 2026-04-23)

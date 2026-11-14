@@ -10,9 +10,13 @@ tags:
 ---
 # Pallas Capital
 
-*company*
-
 BVI firm acquired by GD Culture for 7,500 BTC
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ BVI firm acquired by GD Culture for 7,500 BTC
 
 ## Relationships
 
-- [[GD Culture Group]] *acquired for 7,500 BTC via share swap* [[Pallas Capital]] (2025-09, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+### Ownership (1)
+
+- [[GD Culture Group]] *acquired for 7,500 BTC via share swap* [[Pallas Capital]] · 2025-09 · [[C67 Investors who show up in several Trump-family vehicles|C67]]

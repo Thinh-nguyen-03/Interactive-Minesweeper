@@ -10,9 +10,13 @@ tags:
 ---
 # Trilogy Metals
 
-*company*
-
 Alaska Ambler district explorer; ~10% U.S. stake (Oct 2025)
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Alaska Ambler district explorer; ~10% U.S. stake (Oct 2025)
 
 ## Relationships
 
-- [[White House Trump administration]] *announced ~10% U.S. government stake for $35.6M* [[Trilogy Metals]] (2025-10-06, $35.6M, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+### Money (1)
+
+- [[White House Trump administration]] *announced ~10% U.S. government stake for $35.6M* [[Trilogy Metals]] · 2025-10-06 · $35.6M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

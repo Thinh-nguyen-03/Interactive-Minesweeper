@@ -10,9 +10,13 @@ tags:
 ---
 # TaylorMade Golf
 
-*company*
-
 Kai Trump endorsement (Feb 2025)
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Kai Trump endorsement (Feb 2025)
 
 ## Relationships
 
-- [[Kai Trump]] *endorsement deal* [[TaylorMade Golf]] (2025-02, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Commercial (1)
+
+- [[Kai Trump]] *endorsement deal* [[TaylorMade Golf]] · 2025-02 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

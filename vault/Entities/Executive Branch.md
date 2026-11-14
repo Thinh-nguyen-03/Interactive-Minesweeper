@@ -10,9 +10,13 @@ tags:
 ---
 # Executive Branch
 
-*company*
-
 Invite-only Georgetown members' club (~$500k membership) launched 2025.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 6 |
 
 ## Appears in claims
 
@@ -20,8 +24,10 @@ Invite-only Georgetown members' club (~$500k membership) launched 2025.
 
 ## Relationships
 
-- [[Alex Witkoff]] *reported co-founder of* [[Executive Branch]] (2025-04, ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
-- [[Chris Buskirk]] *co-founder of* [[Executive Branch]] (2025-04, ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
-- [[Donald Trump Jr]] *co-founder of* [[Executive Branch]] (2025-04, ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
-- [[Omeed Malik]] *co-founder of* [[Executive Branch]] (2025-04, ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
-- [[Zach Witkoff]] *reported co-founder of* [[Executive Branch]] (2025-04, ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+### Ownership (5)
+
+- [[Alex Witkoff]] *reported co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[Chris Buskirk]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[Donald Trump Jr]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[Omeed Malik]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[Zach Witkoff]] *reported co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]

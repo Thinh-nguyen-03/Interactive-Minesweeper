@@ -10,9 +10,13 @@ tags:
 ---
 # OCC preliminary conditional approval (CD #1385)
 
-*event*
-
 2026-08-14 approval of World Liberty Trust Co. charter
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ tags:
 
 ## Relationships
 
-- [[Office of the Comptroller of the Currency]] *issued* [[OCC preliminary conditional approval (CD 1385)]] (2026-08-14, regulatory) · [[C12 WLF bank charter from the OCC|C12]]
+### Regulatory (1)
+
+- [[Office of the Comptroller of the Currency]] *issued* [[OCC preliminary conditional approval (CD 1385)]] · 2026-08-14 · [[C12 WLF bank charter from the OCC|C12]]

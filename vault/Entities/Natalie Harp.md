@@ -10,9 +10,13 @@ tags:
 ---
 # Natalie Harp
 
-*person*
-
 Trump executive assistant, defendant
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Trump executive assistant, defendant
 
 ## Relationships
 
-- [[The Intercept]] *named defendant* [[Natalie Harp]] (2026-08-12, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+### Legal (1)
+
+- [[The Intercept]] *named defendant* [[Natalie Harp]] · 2026-08-12 · [[C58 Market-moving posts and insider-trading allegations|C58]]

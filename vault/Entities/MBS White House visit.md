@@ -10,9 +10,13 @@ tags:
 ---
 # MBS White House visit
 
-*event*
-
 18-19 Nov 2025 state-style visit and US-Saudi investment forum
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ tags:
 
 ## Relationships
 
-- [[Mohammed bin Salman]] *led Saudi side of* [[MBS White House visit]] (2025-11-18, political) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+### Political (1)
+
+- [[Mohammed bin Salman]] *led Saudi side of* [[MBS White House visit]] · 2025-11-18 · [[C56 Saudi Arabia family deals alongside US policy|C56]]

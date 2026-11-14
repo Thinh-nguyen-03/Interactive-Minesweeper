@@ -10,9 +10,13 @@ tags:
 ---
 # ADQ
 
-*fund*
-
 Abu Dhabi sovereign fund formerly chaired by Tahnoon; folded into L'IMAD in Jan 2026.
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Abu Dhabi sovereign fund formerly chaired by Tahnoon; folded into L'IMAD in Jan 
 
 ## Relationships
 
-- [[Sheikh Tahnoon bin Zayed]] *chaired (until folded into L'IMAD)* [[ADQ]] (2026-01, ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+### Ownership (1)
+
+- [[Sheikh Tahnoon bin Zayed]] *chaired (until folded into L'IMAD)* [[ADQ]] · 2026-01 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]

@@ -10,9 +10,13 @@ tags:
 ---
 # France
 
-*country*
-
 Charles Kushner's posting
+
+| | |
+|---|---|
+| Type | Country |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Charles Kushner's posting
 
 ## Relationships
 
-- [[Charles Kushner]] *US ambassador to* [[France]] (2025-07, political) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Political (1)
+
+- [[Charles Kushner]] *US ambassador to* [[France]] · 2025-07 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

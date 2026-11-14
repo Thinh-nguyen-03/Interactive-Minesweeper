@@ -10,9 +10,13 @@ tags:
 ---
 # TI Capital
 
-*company*
-
 Ziad Ghandour's firm; in Kirkuk-Baniyas pipeline consortium
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,14 @@ Ziad Ghandour's firm; in Kirkuk-Baniyas pipeline consortium
 
 ## Relationships
 
-- [[TI Capital]] *consortium member (MoU)* [[Kirkuk-Baniyas pipeline project]] (2026-07, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Tom Barrack]] *pressed officials to include in pipeline (Reuters)* [[TI Capital]] (2026, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Ziad Ghandour]] *founder* [[TI Capital]] (ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Ownership (1)
+
+- [[Ziad Ghandour]] *founder* [[TI Capital]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Political (1)
+
+- [[Tom Barrack]] *pressed officials to include in pipeline (Reuters)* [[TI Capital]] · 2026 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Commercial (1)
+
+- [[TI Capital]] *consortium member (MoU)* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C65 Officials who decided matters involving their former clients or partners|C65]]

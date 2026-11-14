@@ -15,7 +15,39 @@ tags:
 ---
 # C15: Jared Kushner and Affinity Partners
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Claim from the video · transcript lines 535-553
+
+## Bottom line
+
+The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 2026), and he negotiates alongside Witkoff with no formal title and no financial disclosure.
+
+## What holds up
+
+- Trump has called Kushner the 'peace envoy'.
+- Kushner takes part in negotiations alongside Steve Witkoff in an unofficial capacity.
+- Affinity is a multibillion-dollar fund.
+- Per the NYT, Affinity has been trying to raise $5B, largely from Middle Eastern/Gulf sovereign funds.
+- Saudi Arabia's Public Investment Fund put $2B into Affinity and is one of its biggest investors.
+
+## What needs correcting
+
+- Because he holds no official title, Kushner is not subject to divestment requirements and does not have to file financial disclosures (partly accurate)
+- **Video said:** PIF is 'one of his biggest investors'  
+  **Record shows:** The record shows it is Affinity's largest single investor ($2B, 2021). QIA and Lunate are also investors (about $1.5B, Dec 2024).
+- **Video said:** He is 'not subject to divestment requirements' and need not file disclosures  
+  **Record shows:** That is the White House's position, which CREW contests in litigation filed Oct 2026, and no court has ruled.
+- The $5B was a fundraising effort reported by the NYT (March 2026), not a completed raise; headlines saying 'raised $5B' overstate it.
+
+## What is unproven
+
+- In closed-door meetings it is unknown whether he argues for the US government or for his own Gulf-backed financial interests.
+
+## In more detail
+
+- Saudi PIF committed $2B to Affinity in 2021, and the NYT reported in March 2026 that he was seeking $5B or more, largely from Gulf sovereign funds.
+- Two points overreach: PIF is Affinity's largest investor, not just 'one of' them, and 'not subject to' disclosure or divestment is the White House's contested legal position, which CREW is challenging in court.
+- The suggestion that he argues for his own interests in talks is unproven insinuation.
 
 ## What the video said
 
@@ -24,56 +56,86 @@ tags:
 ## Follow-up checks
 
 - [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
-- [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
-
-## Summary
-
-The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 2026), and he negotiates alongside Witkoff with no formal title and no financial disclosure. Saudi PIF committed $2B to Affinity in 2021, and the NYT reported in March 2026 that he was seeking $5B or more, largely from Gulf sovereign funds. Two points overreach: PIF is Affinity's largest investor, not just 'one of' them, and 'not subject to' disclosure or divestment is the White House's contested legal position, which CREW is challenging in court. The suggestion that he argues for his own interests in talks is unproven insinuation.
+- [[C76 Russia-linked money around the family and envoys]] · Pending
+- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
 
 ## Sub-claims
 
-- **Confirmed**: Trump has called Kushner the 'peace envoy'.
-  - At the first Board of Peace meeting on 19 Feb 2026, Trump said 'We're making Jared an envoy also, envoy of peace.' The White House then said the role would not be official.
-  - <https://justthenews.com/politics-policy/trump-names-kushner-envoy-peace>
-  - <https://www.aol.com/articles/trump-says-son-law-kushner-152430541.html>
-  - <https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy>
-- **Confirmed**: Kushner takes part in negotiations alongside Steve Witkoff in an unofficial capacity.
-  - He has worked in tandem with Witkoff on Gaza, Iran (including Geneva talks) and Russia-Ukraine. The White House calls him 'a volunteer and not serving in any official capacity' who pays his own expenses. Witkoff is a formal employee who filed a disclosure.
-  - <https://www.news4jax.com/news/politics/2026/10/14/watchdog-group-seeks-to-block-jared-kushner-from-serving-in-his-volunteer-envoy-role/>
-  - <https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog>
-- **Confirmed**: Affinity is a multibillion-dollar fund.
-  - Form ADV dated 22 Mar 2026: about $6.16B in regulatory AUM at end-2025 (Bloomberg rounds to $6.2B), about 99% from non-US clients.
-  - <https://www.bloomberg.com/news/articles/2026-03-23/kushner-fund-backed-by-mideast-saw-assets-jump-to-6-2-billion>
-  - <https://www.thedailybeast.com/trump-son-in-laws-fund-rakes-in-billions-amid-grifting-accusations>
-- **Confirmed**: Per the NYT, Affinity has been trying to raise $5B, largely from Middle Eastern/Gulf sovereign funds.
-  - The NYT reported in March 2026, citing five people, that Kushner was seeking '$5 billion or more'. Affinity had met PIF, and other Gulf funds were expected to be approached. Axios said the fund was not formally in market and that PIF held 'first look' rights. This was a solicitation; it has not been confirmed as a completed raise.
-  - <https://www.mediaite.com/politics/jared-kushner-reportedly-seeks-5b-from-middle-east-governments-for-his-firm-while-serving-as-envoy/>
-  - <https://www.axios.com/2026/03/16/jared-kushner-affinity-partners>
-  - <https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf>
-- **Confirmed**: Saudi Arabia's Public Investment Fund put $2B into Affinity and is one of its biggest investors.
-  - PIF committed $2B in mid-2021, overruling its own screening panel's objections (NYT, 2022). It is Affinity's largest investor. QIA and Abu Dhabi's Lunate added about $1.5B in Dec 2024.
-  - <https://businessinsider.in/politics/world/news/jared-kushners-pe-firm-secured-2-billion-from-saudi-arabia-despite-objections-he-was-too-inexperienced-to-manage-the-money-report-says/amp_articleshow/90778526.cms>
-  - <https://www.finance.senate.gov/chairmans-news/wyden-probes-kushner-firm-payments-from-gulf-states-potential-fara-loophole>
-  - <https://www.bloomberg.com/news/articles/2024-12-20/jared-kushner-s-affinity-gets-1-5-billion-more-from-qatar-abu-dhabi-s-lunate>
-- **Partly accurate**: Because he holds no official title, Kushner is not subject to divestment requirements and does not have to file financial disclosures.
-  - He has filed no disclosure and has not divested. 'Not subject to' is the White House position. CREW argues he is at least a special government employee who must file, and it sued in Oct 2026. Kushner's lawyer Chad Mizelle says ethics attorneys found his arrangements compliant. No ruling yet.
-  - <https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy>
-  - <https://www.nbcnewyork.com/news/national-international/crew-lawsuit-trump-administration-jared-kushner/6559505/>
-  - <https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog>
-- **Unverified**: In closed-door meetings it is unknown whether he argues for the US government or for his own Gulf-backed financial interests.
-  - It is documented that he sought Gulf sovereign money while negotiating in the region, and Wyden and Garcia opened an inquiry on 19 Mar 2026. No evidence has surfaced that he advanced his own interests in any specific negotiation. This is framed as a question and amounts to insinuation.
-  - <https://www.finance.senate.gov/ranking-members-news/wyden-garcia-investigate-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy>
-  - <https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf>
+### 1. Trump has called Kushner the 'peace envoy'.
 
-## Corrections
+**Confirmed**
 
-- Transcript says PIF is 'one of his biggest investors'; the record shows it is Affinity's largest single investor ($2B, 2021). QIA and Lunate are also investors (about $1.5B, Dec 2024).
-- Transcript says he is 'not subject to divestment requirements' and need not file disclosures; that is the White House's position, which CREW contests in litigation filed Oct 2026, and no court has ruled.
-- The $5B was a fundraising effort reported by the NYT (March 2026), not a completed raise; headlines saying 'raised $5B' overstate it.
+- At the first Board of Peace meeting on 19 Feb 2026, Trump said 'We're making Jared an envoy also, envoy of peace.'
+- The White House then said the role would not be official.
+- Dates: 19 Feb 2026
+- Sources: [1](https://justthenews.com/politics-policy/trump-names-kushner-envoy-peace) [2](https://www.aol.com/articles/trump-says-son-law-kushner-152430541.html) [3](https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy)
+
+### 2. Kushner takes part in negotiations alongside Steve Witkoff in an unofficial capacity.
+
+**Confirmed**
+
+- He has worked in tandem with Witkoff on Gaza, Iran (including Geneva talks) and Russia-Ukraine.
+- The White House calls him 'a volunteer and not serving in any official capacity' who pays his own expenses.
+- Witkoff is a formal employee who filed a disclosure.
+- Sources: [4](https://www.news4jax.com/news/politics/2026/10/14/watchdog-group-seeks-to-block-jared-kushner-from-serving-in-his-volunteer-envoy-role/) [5](https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog)
+
+### 3. Affinity is a multibillion-dollar fund.
+
+**Confirmed**
+
+- Form ADV dated 22 Mar 2026: about $6.16B in regulatory AUM at end-2025 (Bloomberg rounds to $6.2B), about 99% from non-US clients.
+- Amounts: about $6.16B; $6.2B; about 99%
+- Dates: 22 Mar 2026
+- Sources: [12](https://www.bloomberg.com/news/articles/2026-03-23/kushner-fund-backed-by-mideast-saw-assets-jump-to-6-2-billion) [13](https://www.thedailybeast.com/trump-son-in-laws-fund-rakes-in-billions-amid-grifting-accusations)
+
+### 4. Per the NYT, Affinity has been trying to raise $5B, largely from Middle Eastern/Gulf sovereign funds.
+
+**Confirmed**
+
+- The NYT reported in March 2026, citing five people, that Kushner was seeking '$5 billion or more'.
+- Affinity had met PIF, and other Gulf funds were expected to be approached.
+- Axios said the fund was not formally in market and that PIF held 'first look' rights.
+- This was a solicitation; it has not been confirmed as a completed raise.
+- Amounts: $5 billion
+- Dates: March 2026
+- Sources: [7](https://www.mediaite.com/politics/jared-kushner-reportedly-seeks-5b-from-middle-east-governments-for-his-firm-while-serving-as-envoy/) [8](https://www.axios.com/2026/03/16/jared-kushner-affinity-partners) [11](https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf)
+
+### 5. Saudi Arabia's Public Investment Fund put $2B into Affinity and is one of its biggest investors.
+
+**Confirmed**
+
+- PIF committed $2B in mid-2021, overruling its own screening panel's objections (NYT, 2022).
+- It is Affinity's largest investor.
+- QIA and Abu Dhabi's Lunate added about $1.5B in Dec 2024.
+- Amounts: $2B; about $1.5B
+- Dates: mid-2021; Dec 2024
+- Sources: [15](https://businessinsider.in/politics/world/news/jared-kushners-pe-firm-secured-2-billion-from-saudi-arabia-despite-objections-he-was-too-inexperienced-to-manage-the-money-report-says/amp_articleshow/90778526.cms) [16](https://www.finance.senate.gov/chairmans-news/wyden-probes-kushner-firm-payments-from-gulf-states-potential-fara-loophole) [14](https://www.bloomberg.com/news/articles/2024-12-20/jared-kushner-s-affinity-gets-1-5-billion-more-from-qatar-abu-dhabi-s-lunate)
+
+### 6. Because he holds no official title, Kushner is not subject to divestment requirements and does not have to file financial disclosures.
+
+**Partly accurate**
+
+- He has filed no disclosure and has not divested.
+- 'Not subject to' is the White House position.
+- CREW argues he is at least a special government employee who must file, and it sued in Oct 2026.
+- Kushner's lawyer Chad Mizelle says ethics attorneys found his arrangements compliant. No ruling yet.
+- Dates: Oct 2026
+- Sources: [3](https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy) [6](https://www.nbcnewyork.com/news/national-international/crew-lawsuit-trump-administration-jared-kushner/6559505/) [5](https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog)
+
+### 7. In closed-door meetings it is unknown whether he argues for the US government or for his own Gulf-backed financial interests.
+
+**Unverified**
+
+- It is documented that he sought Gulf sovereign money while negotiating in the region, and Wyden and Garcia opened an inquiry on 19 Mar 2026.
+- No evidence has surfaced that he advanced his own interests in any specific negotiation.
+- This is framed as a question and amounts to insinuation.
+- Dates: 19 Mar 2026
+- Sources: [10](https://www.finance.senate.gov/ranking-members-news/wyden-garcia-investigate-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy) [9](https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf)
 
 ## Denials and context
 
@@ -90,64 +152,87 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 
 ## People and organisations
 
-- [[Affinity Partners]]
-- [[Board of Peace]]
-- [[Chad Mizelle]]
-- [[Citizens for Responsibility and Ethics in Washington]]
-- [[Conflict-of-interest laws]]
-- [[Donald Trump]]
-- [[Iran]]
-- [[Jared Kushner]]
-- [[Lunate]]
-- [[Mohammed bin Salman]]
-- [[Molly White]]
-- [[Other Gulf sovereign wealth funds]]
-- [[Public Investment Fund (Saudi Arabia)]]
-- [[Qatar]]
-- [[Qatar Investment Authority]]
-- [[Robert Garcia]]
-- [[Ron Wyden]]
-- [[Saudi Arabia]]
-- [[Steve Witkoff]]
-- [[The New York Times]]
-- [[United Arab Emirates]]
-- [[US Congress]]
-- [[White House Trump administration]]
+- [[Affinity Partners]] · Fund
+- [[Board of Peace]] · Government body
+- [[Chad Mizelle]] · Person
+- [[Citizens for Responsibility and Ethics in Washington]] · Company
+- [[Conflict-of-interest laws]] · Law or policy
+- [[Donald Trump]] · Person
+- [[Iran]] · Country
+- [[Jared Kushner]] · Person
+- [[Lunate]] · Fund
+- [[Mohammed bin Salman]] · Person
+- [[Molly White]] · Person
+- [[Other Gulf sovereign wealth funds]] · Fund
+- [[Public Investment Fund (Saudi Arabia)]] · Fund
+- [[Qatar]] · Country
+- [[Qatar Investment Authority]] · Fund
+- [[Robert Garcia]] · Person
+- [[Ron Wyden]] · Person
+- [[Saudi Arabia]] · Country
+- [[Steve Witkoff]] · Person
+- [[The New York Times]] · Media
+- [[United Arab Emirates]] · Country
+- [[US Congress]] · Government body
+- [[White House Trump administration]] · Government body
 
 ## Relationships documented
 
-- [[Affinity Partners]] *seeking part of $5B from* [[Other Gulf sovereign wealth funds]] ($5B, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Affinity Partners]] *sought part of $5B+ new raise from (per NYT)* [[Public Investment Fund (Saudi Arabia)]] (2026-03, $5B, commercial) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Chad Mizelle]] *chief legal officer of* [[Affinity Partners]] (2022, commercial) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Chad Mizelle]] *attorney for* [[Jared Kushner]] (legal) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
-- [[Citizens for Responsibility and Ethics in Washington]] *sued over envoy role and lack of disclosure* [[Jared Kushner]] (2026-10, legal) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Donald Trump]] *named 'envoy of peace' (unofficial, volunteer)* [[Jared Kushner]] (2026-02-19, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] (2021, ownership) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
-- [[Jared Kushner]] *runs* [[Affinity Partners]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Jared Kushner]] *executive board member of* [[Board of Peace]] (2026-01, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Jared Kushner]] *exempt from disclosure under* [[Conflict-of-interest laws]] (legal) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Jared Kushner]] *son-in-law of* [[Donald Trump]] (family) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C56 Saudi Arabia family deals alongside US policy|C56]]
-- [[Jared Kushner]] *participated in US talks with* [[Iran]] (2026, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Jared Kushner]] *negotiates alongside* [[Steve Witkoff]] (2025, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Jared Kushner]] *travels and negotiates with* [[Steve Witkoff]] (political) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Jared Kushner]] *unofficial 'peace envoy' for* [[White House Trump administration]] (political) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Lunate]] *invested (with QIA, about $1.5B combined) in* [[Affinity Partners]] (2024-12, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Mohammed bin Salman]] *chairs board of* [[Public Investment Fund (Saudi Arabia)]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Molly White]] *describes conflicts of* [[Jared Kushner]] (media) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[The New York Times]] *reported $5B raise by* [[Affinity Partners]] (media) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[The New York Times]] *reported $5B+ fundraising effort by* [[Affinity Partners]] (2026-03, media) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Qatar]] *owns* [[Qatar Investment Authority]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Qatar Investment Authority]] *invested (with Lunate, about $1.5B combined) in* [[Affinity Partners]] (2024-12, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Robert Garcia]] *investigating Gulf fundraising* [[Affinity Partners]] (2026-03-19, regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Ron Wyden]] *investigating Gulf fundraising* [[Affinity Partners]] (2026-03-19, regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Saudi Arabia]] *owns* [[Public Investment Fund (Saudi Arabia)]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Public Investment Fund (Saudi Arabia)]] *committed $2B to (largest investor)* [[Affinity Partners]] (2021-07, $2B, money) · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
-- [[Public Investment Fund (Saudi Arabia)]] *invested $2B in* [[Affinity Partners]] ($2B, money) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[United Arab Emirates]] *home jurisdiction of* [[Lunate]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[US Congress]] *Democratic committee inquiries into* [[Affinity Partners]] (2026-03, regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[White House Trump administration]] *classifies as unpaid volunteer, no disclosure filed* [[Jared Kushner]] (regulatory) · [[C15 Jared Kushner and Affinity Partners|C15]]
+### Money (5)
 
-## Sources
+- [[Public Investment Fund (Saudi Arabia)]] *committed $2B to (largest investor)* [[Affinity Partners]] · 2021-07 · $2B · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
+- [[Lunate]] *invested (with QIA, about $1.5B combined) in* [[Affinity Partners]] · 2024-12 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Qatar Investment Authority]] *invested (with Lunate, about $1.5B combined) in* [[Affinity Partners]] · 2024-12 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Affinity Partners]] *seeking part of $5B from* [[Other Gulf sovereign wealth funds]] · $5B · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Public Investment Fund (Saudi Arabia)]] *invested $2B in* [[Affinity Partners]] · $2B · [[C15 Jared Kushner and Affinity Partners|C15]]
+
+### Ownership (6)
+
+- [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
+- [[Jared Kushner]] *runs* [[Affinity Partners]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Mohammed bin Salman]] *chairs board of* [[Public Investment Fund (Saudi Arabia)]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Qatar]] *owns* [[Qatar Investment Authority]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Saudi Arabia]] *owns* [[Public Investment Fund (Saudi Arabia)]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[United Arab Emirates]] *home jurisdiction of* [[Lunate]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+
+### Family (1)
+
+- [[Jared Kushner]] *son-in-law of* [[Donald Trump]] · [[C15 Jared Kushner and Affinity Partners|C15]] [[C56 Saudi Arabia family deals alongside US policy|C56]]
+
+### Regulatory (4)
+
+- [[US Congress]] *Democratic committee inquiries into* [[Affinity Partners]] · 2026-03 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Robert Garcia]] *investigating Gulf fundraising* [[Affinity Partners]] · 2026-03-19 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Ron Wyden]] *investigating Gulf fundraising* [[Affinity Partners]] · 2026-03-19 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[White House Trump administration]] *classifies as unpaid volunteer, no disclosure filed* [[Jared Kushner]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+
+### Political (6)
+
+- [[Jared Kushner]] *negotiates alongside* [[Steve Witkoff]] · 2025 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *participated in US talks with* [[Iran]] · 2026 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *executive board member of* [[Board of Peace]] · 2026-01 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Donald Trump]] *named 'envoy of peace' (unofficial, volunteer)* [[Jared Kushner]] · 2026-02-19 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *travels and negotiates with* [[Steve Witkoff]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *unofficial 'peace envoy' for* [[White House Trump administration]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+
+### Legal (3)
+
+- [[Citizens for Responsibility and Ethics in Washington]] *sued over envoy role and lack of disclosure* [[Jared Kushner]] · 2026-10 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Chad Mizelle]] *attorney for* [[Jared Kushner]] · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
+- [[Jared Kushner]] *exempt from disclosure under* [[Conflict-of-interest laws]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+
+### Media (3)
+
+- [[The New York Times]] *reported $5B+ fundraising effort by* [[Affinity Partners]] · 2026-03 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Molly White]] *describes conflicts of* [[Jared Kushner]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[The New York Times]] *reported $5B raise by* [[Affinity Partners]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+
+### Commercial (2)
+
+- [[Chad Mizelle]] *chief legal officer of* [[Affinity Partners]] · 2022 · [[C15 Jared Kushner and Affinity Partners|C15]] [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Affinity Partners]] *sought part of $5B+ new raise from (per NYT)* [[Public Investment Fund (Saudi Arabia)]] · 2026-03 · $5B · [[C15 Jared Kushner and Affinity Partners|C15]]
+
+## Sources (18)
 
 1. [Trump names Kushner as 'envoy of peace'](https://justthenews.com/politics-policy/trump-names-kushner-envoy-peace) (Just the News, 2026-02-19)
 2. [Trump says son-in-law Kushner promoted to 'peace envoy'](https://www.aol.com/articles/trump-says-son-law-kushner-152430541.html) (AOL / The Hill, 2026-02-19)

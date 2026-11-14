@@ -10,9 +10,15 @@ tags:
 ---
 # Don Wilson
 
-*person*
-
 DRW/Cumberland founder; TMTG bitcoin-treasury investor weeks after SEC case against Cumberland was dismissed.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 5 |
+
+## How other claims describe it
 
 - Founder and CEO of DRW, parent of crypto trader Cumberland
 - DRW founder
@@ -24,10 +30,15 @@ DRW/Cumberland founder; TMTG bitcoin-treasury investor weeks after SEC case agai
 
 ## Relationships
 
-- [[Don Wilson]] *owns* [[Cumberland (DRW)]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Don Wilson]] *founded and controls* [[DRW Investments]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Don Wilson]] *founder/controller* [[DRW Investments]] (ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Don Wilson]] *invested in* [[Trump Media & Technology Group]] (money) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+### Money (1)
+
+- [[Don Wilson]] *invested in* [[Trump Media & Technology Group]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+
+### Ownership (3)
+
+- [[Don Wilson]] *owns* [[Cumberland (DRW)]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Don Wilson]] *founded and controls* [[DRW Investments]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Don Wilson]] *founder/controller* [[DRW Investments]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 
 ## Themes
 

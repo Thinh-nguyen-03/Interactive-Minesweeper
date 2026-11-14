@@ -10,9 +10,13 @@ tags:
 ---
 # Kai Trump
 
-*person*
-
 Don Jr.'s daughter; golfer with NIL deals
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,11 @@ Don Jr.'s daughter; golfer with NIL deals
 
 ## Relationships
 
-- [[Donald Trump Jr]] *father of* [[Kai Trump]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Kai Trump]] *NIL and equity partner* [[Accelerator Active Energy]] (2025, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Kai Trump]] *endorsement deal* [[TaylorMade Golf]] (2025-02, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Family (1)
+
+- [[Donald Trump Jr]] *father of* [[Kai Trump]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+
+### Commercial (2)
+
+- [[Kai Trump]] *NIL and equity partner* [[Accelerator Active Energy]] · 2025 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Kai Trump]] *endorsement deal* [[TaylorMade Golf]] · 2025-02 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

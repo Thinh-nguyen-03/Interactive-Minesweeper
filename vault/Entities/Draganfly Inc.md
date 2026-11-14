@@ -10,9 +10,13 @@ tags:
 ---
 # Draganfly Inc.
 
-*company*
-
 Saskatoon drone maker; received $10M investment from UMAC and a US fund
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Saskatoon drone maker; received $10M investment from UMAC and a US fund
 
 ## Relationships
 
-- [[Unusual Machines]] *co-invested ~$10M (with US fund) in* [[Draganfly Inc]] (2026-09, $10M, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+### Money (1)
+
+- [[Unusual Machines]] *co-invested ~$10M (with US fund) in* [[Draganfly Inc]] · 2026-09 · $10M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]

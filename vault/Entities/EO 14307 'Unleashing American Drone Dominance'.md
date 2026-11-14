@@ -10,9 +10,13 @@ tags:
 ---
 # EO 14307 'Unleashing American Drone Dominance'
 
-*law*
-
 June 6, 2025 executive order prioritizing US-made drones
+
+| | |
+|---|---|
+| Type | Law or policy |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ June 6, 2025 executive order prioritizing US-made drones
 
 ## Relationships
 
-- [[Donald Trump]] *signed* [[EO 14307 'Unleashing American Drone Dominance']] (2025-06-06, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[EO 14307 'Unleashing American Drone Dominance']] *favours domestic suppliers such as* [[Unusual Machines]] (2025-06, regulatory) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+### Regulatory (1)
+
+- [[EO 14307 'Unleashing American Drone Dominance']] *favours domestic suppliers such as* [[Unusual Machines]] · 2025-06 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+### Political (1)
+
+- [[Donald Trump]] *signed* [[EO 14307 'Unleashing American Drone Dominance']] · 2025-06-06 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]

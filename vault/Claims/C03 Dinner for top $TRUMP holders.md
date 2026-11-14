@@ -15,50 +15,92 @@ tags:
 ---
 # C03: Dinner for top $TRUMP holders
 
-**Verdict:** Confirmed (confidence: high)
+**Verdict:** Confirmed · high confidence  
+**Origin:** Claim from the video · transcript lines 233-241
 
-## What the video said
+## Bottom line
 
-> Top holders of $TRUMP got a private dinner with the president; the White House press secretary said he abides by all conflict-of-interest laws.
+Confirmed. The top 220 $TRUMP holders, ranked by average holdings from April 23 to May 12, 2025, were invited to a dinner with Trump on May 22, 2025 at Trump National Golf Club in Sterling, Virginia.
 
-## Summary
+## What holds up
 
-Confirmed. The top 220 $TRUMP holders, ranked by average holdings from April 23 to May 12, 2025, were invited to a dinner with Trump on May 22, 2025 at Trump National Golf Club in Sterling, Virginia. The top 25 were promised a VIP reception. Trump attended. Press Secretary Karoline Leavitt answered Bulwark reporter Andrew Egger's question at the May 9, 2025 briefing almost exactly as the video quotes her. The 'successful businessman' sentence could not be matched word for word in written reports.
+- Top holders of $TRUMP got a dinner with the president.
+- Asked why the president planned to attend a dinner for his coin's top investors, the White House press secretary said he is abiding by all conflict-of-interest laws and has been incredibly transparent about his finances.
+- The White House denies the dinner is corrupt.
 
-## Sub-claims
-
-- **Confirmed**: Top holders of $TRUMP got a dinner with the president.
-  - Contest announced April 23, 2025. The top 220 holders by time-weighted average balance (April 23 to May 12) were invited after a background check. Dinner held May 22, 2025 at Trump National Golf Club, Sterling, VA. The top 25 got a VIP reception, and a promised White House tour was later dropped from the site. Trump spoke for about 20-25 minutes and left by helicopter. Justin Sun, the top holder, attended.
-  - <https://www.upi.com/Top_News/US/2025/04/24/top-Trump-meme-coin-holders-invited-dinner/1201745453178/>
-  - <https://www.axios.com/2025/05/22/trump-meme-coin-dinner>
-  - <https://www.washingtontimes.com/news/2025/may/22/trumps-crypto-dinner-raises-questions/>
-  - <https://krdo.com/politics/cnn-us-politics/2025/05/23/inside-the-room-at-trumps-meme-coin-dinner/>
-  - <https://www.theblock.co/amp/post/355633/lamar-odom-justin-sun-party-at-trumps-memecoin-gala-as-lawmakers-blast-selling-access>
-- **Confirmed**: Asked why the president planned to attend a dinner for his coin's top investors, the White House press secretary said he is abiding by all conflict-of-interest laws and has been incredibly transparent about his finances.
-  - Karoline Leavitt, May 9, 2025 briefing, answering Andrew Egger of The Bulwark: 'Look, the president is abiding by all conflict of interest laws. The president has been incredibly transparent with his own personal financial obligations throughout the years.' Some outlets record 'all applicable conflict of interest laws.'
-  - <https://www.pbs.org/newshour/economy/watch-white-house-weighs-in-on-why-trump-plans-to-attend-memecoin-dinner>
-  - <https://www.mediaite.com/tv/reporter-confronts-karoline-leavitt-on-trump-meme-coin-are-those-seeking-to-influence-president-wasting-their-money>
-  - <https://www.thebulwark.com/p/the-bulwark-at-the-briefing>
-- **Unverified**: She added that the president is a successful businessman and that this is one reason people reelected him.
-  - This sentence appears to be a continuation of the same answer in the clip, but I could not match the exact wording in any written report. Spectrum News reported a similar line from Leavitt saying Trump was 'incredibly successful' before entering public service.
-  - <https://spectrumlocalnews.com/us/snplus/politics/2025/05/22/trump-meme-coin-gala-golf-course->
-- **Confirmed**: The White House denies the dinner is corrupt.
-  - This is accurate in substance, though Leavitt did not use the word 'corrupt.' The White House said Trump attended on his 'personal time,' that it was 'not a White House dinner,' and that he complies with conflict-of-interest laws. It did not commit to releasing the guest list.
-  - <https://www.mediaite.com/media/news/karoline-leavitt-insists-trump-is-attending-shady-crypto-dinner-with-foreign-investors-in-his-personal-time>
-  - <https://www.ctpublic.org/2025-05-22/white-house-denies-conflicts-of-interest-as-trump-joins-dinner-for-meme-coin-investors>
-
-## Corrections
+## What needs correcting
 
 - The video does not identify the questioner. It was The Bulwark's Andrew Egger, at the May 9, 2025 briefing, about two weeks before the May 22 dinner.
 - 'Top holders' means the top 220 by average holdings from April 23 to May 12, 2025, with a separate top-25 VIP tier. The White House tour originally promised to the top 25 was later removed from the promotion.
 - Leavitt did not literally deny 'corruption.' She said Trump abides by conflict-of-interest laws and was attending in his personal time.
 
+## What is unproven
+
+- She added that the president is a successful businessman and that this is one reason people reelected him.
+
+## In more detail
+
+- The top 25 were promised a VIP reception. Trump attended.
+- Press Secretary Karoline Leavitt answered Bulwark reporter Andrew Egger's question at the May 9, 2025 briefing almost exactly as the video quotes her.
+- The 'successful businessman' sentence could not be matched word for word in written reports.
+
+## What the video said
+
+> Top holders of $TRUMP got a private dinner with the president; the White House press secretary said he abides by all conflict-of-interest laws.
+
+## Sub-claims
+
+### 1. Top holders of $TRUMP got a dinner with the president.
+
+**Confirmed**
+
+- Contest announced April 23, 2025.
+- The top 220 holders by time-weighted average balance (April 23 to May 12) were invited after a background check.
+- Dinner held May 22, 2025 at Trump National Golf Club, Sterling, VA.
+- The top 25 got a VIP reception, and a promised White House tour was later dropped from the site.
+- Trump spoke for about 20-25 minutes and left by helicopter.
+- Justin Sun, the top holder, attended.
+- Dates: April 23, 2025; April 23; May 12; May 22, 2025
+- Sources: [1](https://www.upi.com/Top_News/US/2025/04/24/top-Trump-meme-coin-holders-invited-dinner/1201745453178/) [2](https://www.axios.com/2025/05/22/trump-meme-coin-dinner) [3](https://www.washingtontimes.com/news/2025/may/22/trumps-crypto-dinner-raises-questions/) [9](https://krdo.com/politics/cnn-us-politics/2025/05/23/inside-the-room-at-trumps-meme-coin-dinner/) [11](https://www.theblock.co/amp/post/355633/lamar-odom-justin-sun-party-at-trumps-memecoin-gala-as-lawmakers-blast-selling-access)
+
+### 2. Asked why the president planned to attend a dinner for his coin's top investors, the White House press secretary said he is abiding by all conflict-of-interest laws and has been incredibly transparent about his finances.
+
+**Confirmed**
+
+- Karoline Leavitt, May 9, 2025 briefing, answering Andrew Egger of The Bulwark: 'Look, the president is abiding by all conflict of interest laws.
+- The president has been incredibly transparent with his own personal financial obligations throughout the years.'
+- Some outlets record 'all applicable conflict of interest laws.'
+- Dates: May 9, 2025
+- Sources: [4](https://www.pbs.org/newshour/economy/watch-white-house-weighs-in-on-why-trump-plans-to-attend-memecoin-dinner) [5](https://www.mediaite.com/tv/reporter-confronts-karoline-leavitt-on-trump-meme-coin-are-those-seeking-to-influence-president-wasting-their-money) [6](https://www.thebulwark.com/p/the-bulwark-at-the-briefing)
+
+### 3. She added that the president is a successful businessman and that this is one reason people reelected him.
+
+**Unverified**
+
+- This sentence appears to be a continuation of the same answer in the clip, but I could not match the exact wording in any written report.
+- Spectrum News reported a similar line from Leavitt saying Trump was 'incredibly successful' before entering public service.
+- Sources: [15](https://spectrumlocalnews.com/us/snplus/politics/2025/05/22/trump-meme-coin-gala-golf-course-)
+
+### 4. The White House denies the dinner is corrupt.
+
+**Confirmed**
+
+- This is accurate in substance, though Leavitt did not use the word 'corrupt.'
+- The White House said Trump attended on his 'personal time,' that it was 'not a White House dinner,' and that he complies with conflict-of-interest laws.
+- It did not commit to releasing the guest list.
+- Sources: [7](https://www.mediaite.com/media/news/karoline-leavitt-insists-trump-is-attending-shady-crypto-dinner-with-foreign-investors-in-his-personal-time) [8](https://www.ctpublic.org/2025-05-22/white-house-denies-conflicts-of-interest-as-trump-joins-dinner-for-meme-coin-investors)
+
 ## Denials and context
 
-- The White House position: the dinner was a private event on Trump's personal time, not a White House function, and Trump complies with all conflict-of-interest laws. It has also cited the trust that holds his assets. That trust is a family-managed revocable trust, not an independent blind trust.
-- Critics: Sen. Elizabeth Warren ('an orgy of corruption'), Sen. Richard Blumenthal ('auctioning off access') and other Democrats. Analyses found that most top wallets used non-US exchanges, which raised foreign-influence concerns.
-- About 80% of the 1B $TRUMP supply is held by Trump-linked CIC Digital LLC and Fight Fight Fight LLC, so buying pressure benefits the Trump side. Estimates of what the top 220 spent range from about $140-148M to about $394M.
-- No court, regulator or ethics office has found that the dinner was illegal. Whether it was corrupt is a matter of characterization.
+- The White House position: the dinner was a private event on Trump's personal time, not a White House function, and Trump complies with all conflict-of-interest laws.
+  - It has also cited the trust that holds his assets.
+  - That trust is a family-managed revocable trust, not an independent blind trust.
+- Critics: Sen. Elizabeth Warren ('an orgy of corruption'), Sen. Richard Blumenthal ('auctioning off access') and other Democrats.
+  - Analyses found that most top wallets used non-US exchanges, which raised foreign-influence concerns.
+- About 80% of the 1B $TRUMP supply is held by Trump-linked CIC Digital LLC and Fight Fight Fight LLC, so buying pressure benefits the Trump side.
+  - Estimates of what the top 220 spent range from about $140-148M to about $394M.
+- No court, regulator or ethics office has found that the dinner was illegal.
+  - Whether it was corrupt is a matter of characterization.
 
 ## Themes
 
@@ -67,53 +109,70 @@ Confirmed. The top 220 $TRUMP holders, ranked by average holdings from April 23 
 
 ## People and organisations
 
-- [[$TRUMP holders' dinner (May 22, 2025)]]
-- [[$TRUMP meme coin]]
-- [[Andrew Egger]]
-- [[CIC Digital LLC]]
-- [[Coffeezilla]]
-- [[Conflict-of-interest laws]]
-- [[Dinner for top $TRUMP holders]]
-- [[Donald Trump]]
-- [[Elizabeth Warren]]
-- [[Fight Fight Fight LLC]]
-- [[Justin Sun]]
-- [[Karoline Leavitt]]
-- [[Richard Blumenthal]]
-- [[The Bulwark]]
-- [[Top $TRUMP holders]]
-- [[Trump National Golf Club Washington D.C]]
-- [[Trump Organization]]
-- [[White House Trump administration]]
+- [[$TRUMP holders' dinner (May 22, 2025)]] · Event
+- [[$TRUMP meme coin]] · Asset
+- [[Andrew Egger]] · Person
+- [[CIC Digital LLC]] · Company
+- [[Coffeezilla]] · Person
+- [[Conflict-of-interest laws]] · Law or policy
+- [[Dinner for top $TRUMP holders]] · Event
+- [[Donald Trump]] · Person
+- [[Elizabeth Warren]] · Person
+- [[Fight Fight Fight LLC]] · Company
+- [[Justin Sun]] · Person
+- [[Karoline Leavitt]] · Person
+- [[Richard Blumenthal]] · Person
+- [[The Bulwark]] · Media
+- [[Top $TRUMP holders]] · Person
+- [[Trump National Golf Club Washington D.C]] · Company
+- [[Trump Organization]] · Company
+- [[White House Trump administration]] · Government body
 
 ## Relationships documented
 
-- [[Andrew Egger]] *questioned about memecoin dinner* [[Karoline Leavitt]] (2025-05-09, media) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Andrew Egger]] *correspondent for* [[The Bulwark]] (media) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[CIC Digital LLC]] *co-owns* [[Fight Fight Fight LLC]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[CIC Digital LLC]] *holds (with Fight Fight Fight) ~80% of supply of* [[$TRUMP meme coin]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Coffeezilla]] *reported on* [[$TRUMP holders' dinner (May 22, 2025)]] (media) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Donald Trump]] *owns via revocable trust* [[CIC Digital LLC]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Donald Trump]] *said to abide by* [[Conflict-of-interest laws]] (legal) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Donald Trump]] *attended* [[Dinner for top $TRUMP holders]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Donald Trump]] *attended and spoke at* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-22, political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Elizabeth Warren]] *denounced as 'an orgy of corruption'* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05, political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Fight Fight Fight LLC]] *issuer/holder of* [[$TRUMP meme coin]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Fight Fight Fight LLC]] *organized holder contest for* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-04-23, commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Justin Sun]] *top holder of* [[$TRUMP meme coin]] (2025-05, money) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Justin Sun]] *attended* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-22, political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Karoline Leavitt]] *said he obeys conflict laws* [[Donald Trump]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Karoline Leavitt]] *defended as compliant with conflict-of-interest laws* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-09, political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Karoline Leavitt]] *press secretary of* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Karoline Leavitt]] *speaks for* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Richard Blumenthal]] *denounced as 'auctioning off access'* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05, political) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[$TRUMP meme coin]] *top 220 holders invited to* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-12, commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Top $TRUMP holders]] *hold most of* [[$TRUMP meme coin]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Top $TRUMP holders]] *won seats at* [[Dinner for top $TRUMP holders]] (commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[$TRUMP holders' dinner (May 22, 2025)]] *held at* [[Trump National Golf Club Washington D.C]] (2025-05-22, commercial) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Trump Organization]] *affiliate of* [[CIC Digital LLC]] (ownership) · [[C03 Dinner for top $TRUMP holders|C03]]
+### Money (1)
 
-## Sources
+- [[Justin Sun]] *top holder of* [[$TRUMP meme coin]] · 2025-05 · [[C03 Dinner for top $TRUMP holders|C03]]
+
+### Ownership (6)
+
+- [[CIC Digital LLC]] *co-owns* [[Fight Fight Fight LLC]] · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[CIC Digital LLC]] *holds (with Fight Fight Fight) ~80% of supply of* [[$TRUMP meme coin]] · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Donald Trump]] *owns via revocable trust* [[CIC Digital LLC]] · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Fight Fight Fight LLC]] *issuer/holder of* [[$TRUMP meme coin]] · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Top $TRUMP holders]] *hold most of* [[$TRUMP meme coin]] · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Trump Organization]] *affiliate of* [[CIC Digital LLC]] · [[C03 Dinner for top $TRUMP holders|C03]]
+
+### Political (9)
+
+- [[Elizabeth Warren]] *denounced as 'an orgy of corruption'* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Richard Blumenthal]] *denounced as 'auctioning off access'* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Karoline Leavitt]] *defended as compliant with conflict-of-interest laws* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-09 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Donald Trump]] *attended and spoke at* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-22 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Justin Sun]] *attended* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-22 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Donald Trump]] *attended* [[Dinner for top $TRUMP holders]] · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Karoline Leavitt]] *said he obeys conflict laws* [[Donald Trump]] · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Karoline Leavitt]] *press secretary of* [[White House Trump administration]] · [[C03 Dinner for top $TRUMP holders|C03]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Karoline Leavitt]] *speaks for* [[White House Trump administration]] · [[C03 Dinner for top $TRUMP holders|C03]]
+
+### Legal (1)
+
+- [[Donald Trump]] *said to abide by* [[Conflict-of-interest laws]] · [[C03 Dinner for top $TRUMP holders|C03]]
+
+### Media (3)
+
+- [[Andrew Egger]] *questioned about memecoin dinner* [[Karoline Leavitt]] · 2025-05-09 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Andrew Egger]] *correspondent for* [[The Bulwark]] · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Coffeezilla]] *reported on* [[$TRUMP holders' dinner (May 22, 2025)]] · [[C03 Dinner for top $TRUMP holders|C03]]
+
+### Commercial (4)
+
+- [[Fight Fight Fight LLC]] *organized holder contest for* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-04-23 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[$TRUMP meme coin]] *top 220 holders invited to* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-12 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[$TRUMP holders' dinner (May 22, 2025)]] *held at* [[Trump National Golf Club Washington D.C]] · 2025-05-22 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Top $TRUMP holders]] *won seats at* [[Dinner for top $TRUMP holders]] · [[C03 Dinner for top $TRUMP holders|C03]]
+
+## Sources (15)
 
 1. [Top Trump meme coin holders invited to dinner](https://www.upi.com/Top_News/US/2025/04/24/top-Trump-meme-coin-holders-invited-dinner/1201745453178/) (UPI, 2025-04-24)
 2. [Trump defies ethics warnings with private meme coin dinner](https://www.axios.com/2025/05/22/trump-meme-coin-dinner) (Axios, 2025-05-22)

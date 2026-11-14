@@ -10,9 +10,13 @@ tags:
 ---
 # Robinhood Markets
 
-*company*
-
 Brokerage and crypto platform; $2M inaugural donor; SEC crypto probe closed Feb 2025
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,14 @@ Brokerage and crypto platform; $2M inaugural donor; SEC crypto probe closed Feb 
 
 ## Relationships
 
-- [[Dan Gallagher]] *chief legal and compliance officer of* [[Robinhood Markets]] (commercial) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Robinhood Markets]] *donated $2M to* [[Trump-Vance Inaugural Committee]] (2025-01, $2M, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *closed crypto investigation with no action* [[Robinhood Markets]] (2025-02-21, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+### Money (1)
+
+- [[Robinhood Markets]] *donated $2M to* [[Trump-Vance Inaugural Committee]] · 2025-01 · $2M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Regulatory (1)
+
+- [[Securities and Exchange Commission]] *closed crypto investigation with no action* [[Robinhood Markets]] · 2025-02-21 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Commercial (1)
+
+- [[Dan Gallagher]] *chief legal and compliance officer of* [[Robinhood Markets]] · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]

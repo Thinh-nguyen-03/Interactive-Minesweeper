@@ -10,9 +10,13 @@ tags:
 ---
 # Selig congressional hearing
 
-*event*
-
 Hearing where Selig called the insinuation of political games 'insulting'.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ Hearing where Selig called the insinuation of political games 'insulting'.
 
 ## Relationships
 
-- [[Mike Selig]] *testified at* [[Selig congressional hearing]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[US Congress]] *held* [[Selig congressional hearing]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+### Political (2)
+
+- [[Mike Selig]] *testified at* [[Selig congressional hearing]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[US Congress]] *held* [[Selig congressional hearing]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]

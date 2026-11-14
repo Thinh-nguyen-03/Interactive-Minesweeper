@@ -10,9 +10,13 @@ tags:
 ---
 # Damac Properties
 
-*company*
-
 Dubai developer of the older Trump International Golf Club Dubai; also pays licence fees
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Dubai developer of the older Trump International Golf Club Dubai; also pays lice
 
 ## Relationships
 
-- [[Damac Properties]] *pays licence fees for Trump golf club Dubai (2025 est. ~$12.5M)* [[Trump Organization]] (2025, $12.5M, money) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+### Money (1)
+
+- [[Damac Properties]] *pays licence fees for Trump golf club Dubai (2025 est. ~$12.5M)* [[Trump Organization]] · 2025 · $12.5M · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]

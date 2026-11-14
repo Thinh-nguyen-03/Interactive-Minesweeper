@@ -10,10 +10,16 @@ tags:
 ---
 # Office of the Director of National Intelligence
 
-*government*
-
 Delayed transmission of the complaint to Congress, citing classified legal review.
+
+> [!warning] Appears in only an unverified, single-source allegation ([[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]). Nothing in it has been independently corroborated.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source

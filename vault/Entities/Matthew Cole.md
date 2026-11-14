@@ -10,18 +10,28 @@ tags:
 ---
 # Matthew Cole
 
-*person*
-
 National-security journalist; author of 'Princes and Thieves', the sole source of the GRU/MIVD phone allegation.
+
+> [!warning] Appears in only an unverified, single-source allegation ([[C37 Jared Kushner's hacked phone|C37]], [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]). Nothing in it has been independently corroborated.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
 
 - Author of 'Princes and Thieves'; sole source of the account allegations; cites 50+ sources.
 
 ## Appears in claims
 
-- [[C37 Jared Kushner's hacked phone]] · Unverified
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
-- [[Matthew Cole]] *alleges (single source) access to ~$2B in Gulf-funded secret accounts* [[Jared Kushner]] (2026-10-22, media) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
-- [[Matthew Cole]] *author of* [[Princes and Thieves (book)]] (2026, media) · [[C37 Jared Kushner's hacked phone|C37]]
+### Media (2)
+
+- [[Matthew Cole]] *author of* [[Princes and Thieves (book)]] · 2026 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+- [[Matthew Cole]] *alleges (single source) access to ~$2B in Gulf-funded secret accounts* [[Jared Kushner]] · 2026-10-22 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation

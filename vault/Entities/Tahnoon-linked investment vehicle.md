@@ -10,9 +10,13 @@ tags:
 ---
 # Tahnoon-linked investment vehicle
 
-*company*
-
 Entity tied to Sheikh Tahnoon that secretly bought 49% of WLF for $500M.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -21,8 +25,10 @@ Entity tied to Sheikh Tahnoon that secretly bought 49% of WLF for $500M.
 
 ## Relationships
 
-- [[Sheikh Tahnoon bin Zayed]] *backs* [[Tahnoon-linked investment vehicle]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
-- [[Tahnoon-linked investment vehicle]] *secretly bought 49% for $500M* [[World Liberty Financial]] (2025-01-16, $500M, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C14 Steve and Zach Witkoff|C14]]
+### Ownership (2)
+
+- [[Tahnoon-linked investment vehicle]] *secretly bought 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C14 Steve and Zach Witkoff|C14]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Tahnoon-linked investment vehicle]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 
 ## Themes
 

@@ -10,9 +10,13 @@ tags:
 ---
 # Scale AI
 
-*company*
-
 Kratsios's former employer
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Kratsios's former employer
 
 ## Relationships
 
-- [[Michael Kratsios]] *holds Class B shares ($1M-$5M); ex-MD* [[Scale AI]] (2024-01, ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Ownership (1)
+
+- [[Michael Kratsios]] *holds Class B shares ($1M-$5M); ex-MD* [[Scale AI]] · 2024-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]

@@ -10,9 +10,13 @@ tags:
 ---
 # US Department of Justice
 
-*government*
-
 DOJ
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ DOJ
 
 ## Relationships
 
-- [[Pam Bondi]] *heads (Attorney General)* [[US Department of Justice]] (2025-02, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Political (1)
+
+- [[Pam Bondi]] *heads (Attorney General)* [[US Department of Justice]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

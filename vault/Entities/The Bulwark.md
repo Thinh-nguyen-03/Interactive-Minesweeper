@@ -10,9 +10,13 @@ tags:
 ---
 # The Bulwark
 
-*media*
-
 Outlet whose reporter asked the question in the briefing clip.
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Outlet whose reporter asked the question in the briefing clip.
 
 ## Relationships
 
-- [[Andrew Egger]] *correspondent for* [[The Bulwark]] (media) · [[C03 Dinner for top $TRUMP holders|C03]]
+### Media (1)
+
+- [[Andrew Egger]] *correspondent for* [[The Bulwark]] · [[C03 Dinner for top $TRUMP holders|C03]]

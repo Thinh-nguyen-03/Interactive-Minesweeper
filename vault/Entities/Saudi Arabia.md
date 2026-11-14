@@ -10,9 +10,17 @@ tags:
 ---
 # Saudi Arabia
 
-*country*
-
 Gulf state whose PIF backs Kushner's fund.
+
+> [!warning] Appears in an unverified, single-source allegation ([[C37 Jared Kushner's hacked phone|C37]], [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]). Nothing in it has been independently corroborated.
+
+| | |
+|---|---|
+| Type | Country |
+| Appears in | 7 claims |
+| Connections | 14 |
+
+## How other claims describe it
 
 - Owner of the PIF, Affinity's anchor investor.
 - Host of the Jeddah and Riyadh projects
@@ -24,21 +32,32 @@ Gulf state whose PIF backs Kushner's fund.
 
 - [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
 - [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
-- [[C37 Jared Kushner's hacked phone]] · Unverified
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
-- [[Saudi Arabia]] *embassy contract $60K/month ($720K/year)* [[Ballard Partners]] (2025-03-31, $720K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Saudi Arabia]] *owns* [[Public Investment Fund (Saudi Arabia)]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Saudi Arabia]] *allegedly co-funded account via Azerbaijan* [[Watani Al Emarat Foundation]] (2018, money) · [[C37 Jared Kushner's hacked phone|C37]]
-- [[Saudi Arabia]] *pledged ~$1T US investment to* [[White House Trump administration]] (2025-11-18, $1T, political) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
-- [[Trump National Golf Course & Trump International Hotel, Diriyah]] *located in* [[Saudi Arabia]] (commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Trump Plaza Jeddah]] *located in* [[Saudi Arabia]] (commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Trump Tower Jeddah]] *located in* [[Saudi Arabia]] (commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+### Money (2)
+
+- [[Saudi Arabia]] *allegedly co-funded account via Azerbaijan* [[Watani Al Emarat Foundation]] · 2018 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+- [[Saudi Arabia]] *embassy contract $60K/month ($720K/year)* [[Ballard Partners]] · 2025-03-31 · $720K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Ownership (1)
+
+- [[Saudi Arabia]] *owns* [[Public Investment Fund (Saudi Arabia)]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+
+### Political (1)
+
+- [[Saudi Arabia]] *pledged ~$1T US investment to* [[White House Trump administration]] · 2025-11-18 · $1T · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+
+### Commercial (3)
+
+- [[Trump National Golf Course & Trump International Hotel, Diriyah]] *located in* [[Saudi Arabia]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Trump Plaza Jeddah]] *located in* [[Saudi Arabia]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Trump Tower Jeddah]] *located in* [[Saudi Arabia]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 
 ## Themes
 

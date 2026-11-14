@@ -10,9 +10,13 @@ tags:
 ---
 # Maria Cantwell
 
-*person*
-
 Senator; questioned Lutnick on Tether at his confirmation hearing
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Senator; questioned Lutnick on Tether at his confirmation hearing
 
 ## Relationships
 
-- [[Maria Cantwell]] *questioned on Tether at confirmation* [[Howard Lutnick]] (2025-01-29, political) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+### Political (1)
+
+- [[Maria Cantwell]] *questioned on Tether at confirmation* [[Howard Lutnick]] · 2025-01-29 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]

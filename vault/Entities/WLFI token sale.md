@@ -10,9 +10,13 @@ tags:
 ---
 # WLFI token sale
 
-*event*
-
 Slow in Oct 2024, then sold out ~$550M after Trump won.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Slow in Oct 2024, then sold out ~$550M after Trump won.
 
 ## Relationships
 
-- [[2024 presidential election]] *Trump win boosted* [[WLFI token sale]] (2024-11, political) · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[World Liberty Financial]] *sold out ~$550M in* [[WLFI token sale]] (2024-11, $550M, money) · [[C04 World Liberty Financial founding and token sale|C04]]
+### Money (1)
+
+- [[World Liberty Financial]] *sold out ~$550M in* [[WLFI token sale]] · 2024-11 · $550M · [[C04 World Liberty Financial founding and token sale|C04]]
+
+### Political (1)
+
+- [[2024 Presidential Election]] *Trump win boosted* [[WLFI token sale]] · 2024-11 · [[C04 World Liberty Financial founding and token sale|C04]]

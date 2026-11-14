@@ -12,9 +12,14 @@ tags:
 ---
 # Trump fragrances
 
-*product*
-
 Trump-branded cologne/perfume.
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 2 |
+| Also known as | cologne |
 
 ## Appears in claims
 
@@ -22,7 +27,9 @@ Trump-branded cologne/perfume.
 
 ## Relationships
 
-- [[Donald Trump]] *sells* [[Trump fragrances]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+### Commercial (1)
+
+- [[Donald Trump]] *sells* [[Trump fragrances]] · [[C17 Trump merchandise and the T1 phone|C17]]
 
 ## Themes
 

@@ -10,9 +10,13 @@ tags:
 ---
 # Bola Tinubu
 
-*person*
-
 President of Nigeria
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ President of Nigeria
 
 ## Relationships
 
-- [[Bola Tinubu]] *government picked for $700M Lagos ports contract* [[ITB Nigeria]] (2025-03, $700M, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Massad Boulos]] *met in Paris* [[Bola Tinubu]] (2025-04, political) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Political (1)
+
+- [[Massad Boulos]] *met in Paris* [[Bola Tinubu]] · 2025-04 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+
+### Commercial (1)
+
+- [[Bola Tinubu]] *government picked for $700M Lagos ports contract* [[ITB Nigeria]] · 2025-03 · $700M · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

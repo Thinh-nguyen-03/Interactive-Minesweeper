@@ -493,5 +493,39 @@
       "label": "covered the deal in the video",
       "type": "media"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Rename to AI Financial Corporation (2026-04-28) and Nasdaq ticker AIFC (2026-04-29)",
+      "About $500M entitlement for the Trump family (estimate vs documented payment)",
+      "$90M to the Witkoffs",
+      "Stock decline of about 90-96% and SEC non-investigation"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No change to content. The rename dates are confirmed by the company release. Independent outlets (Daily Beast, IBTimes) describe the $500M as an entitlement or estimate ('likely produced roughly $500 million'), which supports the 'mostly-accurate' rating.",
+      "The $90M Witkoff figure still traces only to the crypto.news/Benzinga relay of the WSJ, and other Witkoff totals (≥$200M; ABC's ~$107M for Steve Witkoff from a WLF-affiliated holding company in one year) are not the same measure. So 'partly-accurate' stands.",
+      "Not added: the stock was about 66 cents in mid-2026 (Daily Beast), consistent with a >90% drop. A filing-summary site mentions a Nasdaq listing deficiency with a cure date of 2026-12-28, but it is single-source and I did not verify it."
+    ],
+    "new_sources": [
+      {
+        "title": "AI Financial Corporation (Formerly ALT5 Sigma) Begins Trading Under New Nasdaq Ticker Symbol 'AIFC'",
+        "publisher": "Newswire",
+        "url": "https://www.newswire.com/news/ai-financial-corporation-formerly-alt5-sigma-begins-trading-under-new-nasdaq",
+        "date": "2026-04-29"
+      },
+      {
+        "title": "Trump family scores massive payday as company falls apart",
+        "publisher": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/trump-family-scores-massive-payday-as-company-falls-apart?.tsrc=rss",
+        "date": "2026"
+      },
+      {
+        "title": "Trump Family Reportedly Earned Hundreds Of Millions From Crypto Deal As Partner Firm's Stock Tumbles",
+        "publisher": "IBTimes",
+        "url": "https://www.ibtimes.com/trump-family-reportedly-earned-hundreds-millions-crypto-deal-partner-firms-stock-tumbles-3803931",
+        "date": "2026"
+      }
+    ]
+  }
 }

@@ -10,9 +10,13 @@ tags:
 ---
 # Planet Harvest
 
-*company*
-
 Ivanka Trump's produce venture (2025)
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Ivanka Trump's produce venture (2025)
 
 ## Relationships
 
-- [[Ivanka Trump]] *co-founder of* [[Planet Harvest]] (2025, ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Ownership (1)
+
+- [[Ivanka Trump]] *co-founder of* [[Planet Harvest]] · 2025 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Trump International Golf Club & Resort Oman (Aida)
 
-*asset*
-
 ~$500M project near Muscat, first Dar Global-Trump deal (2022)
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ tags:
 
 ## Relationships
 
-- [[Dar Global]] *developer of* [[Trump International Golf Club & Resort Oman (Aida)]] (2022-03, $500M, commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Trump International Golf Club & Resort Oman (Aida)]] *located in* [[Oman]] (commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+### Commercial (2)
+
+- [[Dar Global]] *developer of* [[Trump International Golf Club & Resort Oman (Aida)]] · 2022-03 · $500M · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Trump International Golf Club & Resort Oman (Aida)]] *located in* [[Oman]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]

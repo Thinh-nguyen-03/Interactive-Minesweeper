@@ -10,9 +10,13 @@ tags:
 ---
 # Judge Jennifer L. Rochon
 
-*person*
-
 SDNY judge who unfroze the funds and dismissed the class action
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ SDNY judge who unfroze the funds and dismissed the class action
 
 ## Relationships
 
-- [[Judge Jennifer L. Rochon]] *unfroze $57.6M USDC; dismissed with prejudice* [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] (2026-09-29, $57.6M, legal) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+### Legal (1)
+
+- [[Judge Jennifer L. Rochon]] *unfroze $57.6M USDC; dismissed with prejudice* [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] · 2026-09-29 · $57.6M · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]

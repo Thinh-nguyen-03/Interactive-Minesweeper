@@ -10,9 +10,13 @@ tags:
 ---
 # Trump Riyadh visit
 
-*event*
-
 13 May 2025 visit: $600B pledge, ~$142B arms package, Humain/Nvidia deal
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ tags:
 
 ## Relationships
 
-- [[Donald Trump]] *made* [[Trump Riyadh visit]] (2025-05-13, political) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+### Political (1)
+
+- [[Donald Trump]] *made* [[Trump Riyadh visit]] · 2025-05-13 · [[C56 Saudi Arabia family deals alongside US policy|C56]]

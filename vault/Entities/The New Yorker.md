@@ -10,9 +10,15 @@ tags:
 ---
 # The New Yorker
 
-*media*
-
 Published an investigation of the Albania project (Oct 2026) that Kushner rebutted.
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 2 claims |
+| Connections | 5 |
+
+## How other claims describe it
 
 - Published Kirkpatrick's tally
 
@@ -23,6 +29,11 @@ Published an investigation of the Albania project (Oct 2026) that Kushner rebutt
 
 ## Relationships
 
-- [[Karoline Leavitt]] *called $3.4B tally 'absolutely absurd'* [[The New Yorker]] (2025-08, political) · [[C55 How much has the Trump family made Competing totals|C55]]
-- [[The New Yorker]] *published 'The Number'* [[David D. Kirkpatrick]] (2025-08, media) · [[C55 How much has the Trump family made Competing totals|C55]]
-- [[The New Yorker]] *investigated Albania project; Kushner rebutted* [[Jared Kushner]] (2026-10-08, media) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Political (1)
+
+- [[Karoline Leavitt]] *called $3.4B tally 'absolutely absurd'* [[The New Yorker]] · 2025-08 · [[C55 How much has the Trump family made Competing totals|C55]]
+
+### Media (2)
+
+- [[The New Yorker]] *published 'The Number'* [[David D. Kirkpatrick]] · 2025-08 · [[C55 How much has the Trump family made Competing totals|C55]]
+- [[The New Yorker]] *investigated Albania project; Kushner rebutted* [[Jared Kushner]] · 2026-10-08 · [[C45 Kushner's Albania and Serbia developments|C45]]

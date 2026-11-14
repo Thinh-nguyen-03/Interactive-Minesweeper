@@ -10,9 +10,13 @@ tags:
 ---
 # Institute for Human and Machine Cognition
 
-*company*
-
 Florida nonprofit research institute through which three of the cited projects were routed.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Florida nonprofit research institute through which three of the cited projects w
 
 ## Relationships
 
-- [[Institute for Human and Machine Cognition]] *routed three research projects to* [[Foundation Future Industries]] (commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+### Commercial (1)
+
+- [[Institute for Human and Machine Cognition]] *routed three research projects to* [[Foundation Future Industries]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Oddiyana Ventures
 
-*fund*
-
 Undisclosed-size WLF investor (Feb 2025)
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Undisclosed-size WLF investor (Feb 2025)
 
 ## Relationships
 
-- [[Oddiyana Ventures]] *strategic investment, undisclosed* [[World Liberty Financial]] (2025-02, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+### Money (1)
+
+- [[Oddiyana Ventures]] *strategic investment, undisclosed* [[World Liberty Financial]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]

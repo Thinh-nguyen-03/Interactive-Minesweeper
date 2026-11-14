@@ -10,9 +10,13 @@ tags:
 ---
 # Ziad Ghandour
 
-*person*
-
 TI Capital founder; Barrack business partner since 2020
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ TI Capital founder; Barrack business partner since 2020
 
 ## Relationships
 
-- [[Tom Barrack]] *co-founded $250M venture; paid consulting role* [[Ziad Ghandour]] (2020, $250M, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Ziad Ghandour]] *founder* [[TI Capital]] (ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Ownership (1)
+
+- [[Ziad Ghandour]] *founder* [[TI Capital]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Commercial (1)
+
+- [[Tom Barrack]] *co-founded $250M venture; paid consulting role* [[Ziad Ghandour]] · 2020 · $250M · [[C65 Officials who decided matters involving their former clients or partners|C65]]

@@ -12,9 +12,16 @@ tags:
 ---
 # Pardon of Changpeng Zhao
 
-*event*
-
 Trump's pardon of Binance's founder.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 5 claims |
+| Connections | 11 |
+| Also known as | CZ pardon |
+
+## How other claims describe it
 
 - Full pardon signed Oct 22, 2025 and announced Oct 23, 2025.
 - Trump's October 2025 pardon of Changpeng Zhao.
@@ -31,16 +38,24 @@ Trump's pardon of Binance's founder.
 
 ## Relationships
 
-- [[Changpeng Zhao]] *received* [[Pardon of Changpeng Zhao]] (2025-10-23, legal) · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Changpeng Zhao]] *recipient of* [[Pardon of Changpeng Zhao]] (2025-10, legal) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Pardon of Changpeng Zhao]] *eases US re-entry of* [[Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Pardon of Changpeng Zhao]] *pardon of* [[Changpeng Zhao]] (2025-10-23, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Pardon of Changpeng Zhao]] *pardoned* [[Changpeng Zhao]] (2025-10-23, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Donald Trump]] *granted* [[Pardon of Changpeng Zhao]] (legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Donald Trump]] *signed* [[Pardon of Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Elizabeth Warren]] *criticized as corrupt* [[Pardon of Changpeng Zhao]] (2025-10, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Karoline Leavitt]] *defended* [[Pardon of Changpeng Zhao]] (2025-10-23, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[White House Trump administration]] *announced* [[Pardon of Changpeng Zhao]] (2025-10-23, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+### Regulatory (1)
+
+- [[Pardon of Changpeng Zhao]] *eases US re-entry of* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+
+### Political (3)
+
+- [[Elizabeth Warren]] *criticized as corrupt* [[Pardon of Changpeng Zhao]] · 2025-10 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Karoline Leavitt]] *defended* [[Pardon of Changpeng Zhao]] · 2025-10-23 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[White House Trump administration]] *announced* [[Pardon of Changpeng Zhao]] · 2025-10-23 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+
+### Legal (6)
+
+- [[Changpeng Zhao]] *recipient of* [[Pardon of Changpeng Zhao]] · 2025-10 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Donald Trump]] *signed* [[Pardon of Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Changpeng Zhao]] *received* [[Pardon of Changpeng Zhao]] · 2025-10-23 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Pardon of Changpeng Zhao]] *pardon of* [[Changpeng Zhao]] · 2025-10-23 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Pardon of Changpeng Zhao]] *pardoned* [[Changpeng Zhao]] · 2025-10-23 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Donald Trump]] *granted* [[Pardon of Changpeng Zhao]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 
 ## Themes
 

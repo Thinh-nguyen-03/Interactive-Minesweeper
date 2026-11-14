@@ -10,9 +10,13 @@ tags:
 ---
 # Mohamed Alabbar
 
-*person*
-
 Dubai developer (Eagle Hills) reported as Kushner's partner on the Belgrade hotel.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Dubai developer (Eagle Hills) reported as Kushner's partner on the Belgrade hote
 
 ## Relationships
 
-- [[Mohamed Alabbar]] *reported partner in* [[Trump Tower Belgrade (General Staff site)]] (2025-01, commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Commercial (1)
+
+- [[Mohamed Alabbar]] *reported partner in* [[Trump Tower Belgrade (General Staff site)]] · 2025-01 · [[C45 Kushner's Albania and Serbia developments|C45]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Dan Gallagher
 
-*person*
-
 Robinhood chief legal, compliance and corporate affairs officer
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Robinhood chief legal, compliance and corporate affairs officer
 
 ## Relationships
 
-- [[Dan Gallagher]] *chief legal and compliance officer of* [[Robinhood Markets]] (commercial) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+### Commercial (1)
+
+- [[Dan Gallagher]] *chief legal and compliance officer of* [[Robinhood Markets]] · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]

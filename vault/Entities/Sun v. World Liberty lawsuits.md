@@ -10,9 +10,13 @@ tags:
 ---
 # Sun v. World Liberty lawsuits
 
-*event*
-
 Lawsuits flying both ways between Sun and WLF.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ Lawsuits flying both ways between Sun and WLF.
 
 ## Relationships
 
-- [[Justin Sun]] *party to* [[Sun v. World Liberty lawsuits]] (legal) · [[C05 Justin Sun, WLF and the SEC|C05]]
-- [[World Liberty Financial]] *party to* [[Sun v. World Liberty lawsuits]] (legal) · [[C05 Justin Sun, WLF and the SEC|C05]]
+### Legal (2)
+
+- [[Justin Sun]] *party to* [[Sun v. World Liberty lawsuits]] · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[World Liberty Financial]] *party to* [[Sun v. World Liberty lawsuits]] · [[C05 Justin Sun, WLF and the SEC|C05]]

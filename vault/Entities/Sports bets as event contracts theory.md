@@ -10,9 +10,13 @@ tags:
 ---
 # Sports bets as event contracts theory
 
-*law*
-
 Legal theory classing sports gambling as financial trading, enabling prediction markets.
+
+| | |
+|---|---|
+| Type | Law or policy |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,9 +24,14 @@ Legal theory classing sports gambling as financial trading, enabling prediction 
 
 ## Relationships
 
-- [[Commodity Futures Trading Commission]] *enables* [[Sports bets as event contracts theory]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Sports bets as event contracts theory]] *legalises sports bets on* [[Prediction markets industry]] (regulatory) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Coffeezilla prediction-markets video]] *covered* [[Sports bets as event contracts theory]] (media) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+### Regulatory (2)
+
+- [[Commodity Futures Trading Commission]] *enables* [[Sports bets as event contracts theory]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Sports bets as event contracts theory]] *legalises sports bets on* [[Prediction markets industry]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+
+### Media (1)
+
+- [[Coffeezilla prediction-markets video]] *covered* [[Sports bets as event contracts theory]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 
 ## Themes
 

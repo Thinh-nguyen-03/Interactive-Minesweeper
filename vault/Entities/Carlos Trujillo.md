@@ -10,9 +10,13 @@ tags:
 ---
 # Carlos Trujillo
 
-*person*
-
 Former US ambassador to the OAS; Continental Strategy founder
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Former US ambassador to the OAS; Continental Strategy founder
 
 ## Relationships
 
-- [[Carlos Trujillo]] *founder* [[Continental Strategy]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Ownership (1)
+
+- [[Carlos Trujillo]] *founder* [[Continental Strategy]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

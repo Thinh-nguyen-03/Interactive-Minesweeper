@@ -10,9 +10,13 @@ tags:
 ---
 # Senate Judiciary Committee
 
-*government*
-
 Asked by Curtis to investigate presidential-family dealings.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -20,7 +24,9 @@ Asked by Curtis to investigate presidential-family dealings.
 
 ## Relationships
 
-- [[Chuck Grassley]] *chair of* [[Senate Judiciary Committee]] (political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Dick Durbin]] *ranking member of* [[Senate Judiciary Committee]] (political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[John Curtis]] *requested probe of presidential-family dealings* [[Senate Judiciary Committee]] (2026-09-21, political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Senate Judiciary Committee]] *committee of* [[US Congress]] (political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+### Political (4)
+
+- [[John Curtis]] *requested probe of presidential-family dealings* [[Senate Judiciary Committee]] · 2026-09-21 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Chuck Grassley]] *chair of* [[Senate Judiciary Committee]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Dick Durbin]] *ranking member of* [[Senate Judiciary Committee]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Senate Judiciary Committee]] *committee of* [[US Congress]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]

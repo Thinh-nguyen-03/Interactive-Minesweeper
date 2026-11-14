@@ -10,9 +10,15 @@ tags:
 ---
 # GrabAGun Digital Holdings
 
-*company*
-
 Online firearms retailer that went public via Colombier II SPAC in July 2025, with Don Jr. on its board.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
 
 - Online gun retailer (PEW); listed via Colombier II in July 2025; Don Jr. on its board.
 
@@ -23,6 +29,11 @@ Online firearms retailer that went public via Colombier II SPAC in July 2025, wi
 
 ## Relationships
 
-- [[Colombier Acquisition Corp. II]] *SPAC merger (about $179M raised)* [[GrabAGun Digital Holdings]] (2025-07, $179M, commercial) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump Jr]] *board member* [[GrabAGun Digital Holdings]] (2025-07, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Donald Trump Jr]] *director; about 300,000 shares (about $3M)* [[GrabAGun Digital Holdings]] (2025-07, $3M, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+### Advisory (2)
+
+- [[Donald Trump Jr]] *board member* [[GrabAGun Digital Holdings]] · 2025-07 · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump Jr]] *director; about 300,000 shares (about $3M)* [[GrabAGun Digital Holdings]] · 2025-07 · $3M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+
+### Commercial (1)
+
+- [[Colombier Acquisition Corp. II]] *SPAC merger (about $179M raised)* [[GrabAGun Digital Holdings]] · 2025-07 · $179M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]

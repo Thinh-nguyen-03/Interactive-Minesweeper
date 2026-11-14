@@ -10,9 +10,13 @@ tags:
 ---
 # Shayne Coplan
 
-*person*
-
 Polymarket founder/CEO; home searched by FBI Nov 2024; not charged.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Polymarket founder/CEO; home searched by FBI Nov 2024; not charged.
 
 ## Relationships
 
-- [[Shayne Coplan]] *founder and CEO* [[Polymarket]] (ownership) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+### Ownership (1)
+
+- [[Shayne Coplan]] *founder and CEO* [[Polymarket]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]

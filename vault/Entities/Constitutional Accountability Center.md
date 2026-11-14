@@ -10,9 +10,13 @@ tags:
 ---
 # Constitutional Accountability Center
 
-*company*
-
 Progressive legal group representing the federal plaintiffs
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Progressive legal group representing the federal plaintiffs
 
 ## Relationships
 
-- [[Constitutional Accountability Center]] *counsel for plaintiffs in* [[Sistrunk Seeds v. Trump]] (2026-05-13, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+### Legal (1)
+
+- [[Constitutional Accountability Center]] *counsel for plaintiffs in* [[Sistrunk Seeds v. Trump]] · 2026-05-13 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]

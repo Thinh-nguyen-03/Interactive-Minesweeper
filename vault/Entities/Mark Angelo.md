@@ -10,9 +10,13 @@ tags:
 ---
 # Mark Angelo
 
-*person*
-
 Yorkville Advisors founder
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Yorkville Advisors founder
 
 ## Relationships
 
-- [[Mark Angelo]] *founder* [[Yorkville Advisors]] (ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+### Ownership (1)
+
+- [[Mark Angelo]] *founder* [[Yorkville Advisors]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]

@@ -15,7 +15,39 @@ tags:
 ---
 # C01: $TRUMP meme coin
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Claim from the video · transcript lines 101-135,193-231
+
+## Bottom line
+
+Trump launched the official $TRUMP meme coin on the evening of January 17, 2025, about 2.5 days before his inauguration.
+
+## What holds up
+
+- Trump launched an official meme coin two days before taking office.
+- The president raked in $600 million from the Trump coin (mostly accurate)
+- Melania reported $6 million on her coin and NFTs (mostly accurate)
+- Asked about his family's crypto, Trump said the US must be at the top or China will take it over.
+- TRUMP has lost about 95% of its value; MELANIA about 99%.
+- Buyers, unless very early, have almost exclusively lost money (mostly accurate)
+
+## What needs correcting
+
+- Money flowed through shell companies, which Molly White tracked (partly accurate)
+- **Video said:** 'two days' before taking office  
+  **Record shows:** The launch was the evening of Jan 17, 2025 (ET), about 2.5 days before the Jan 20 inauguration.
+- **Video said:** $600M  
+  **Record shows:** Trump's own 2025 disclosure reports about $635-636M in gross meme-coin royalty and licensing income via CIC Digital.
+- **Video said:** TRUMP is down about 95%  
+  **Record shows:** That was accurate in early 2026, but by November 2026 it was about 98% below its peak.
+- The China remark was about crypto generally (CNBC, July 2026), not a stated reason for launching the meme coin.
+
+## In more detail
+
+- His own 2025 OGE financial disclosure reports about $635-636M in meme-coin royalty and licensing income through CIC Digital LLC, so the '$600M' figure is a slight understatement of self-reported gross income.
+- TRUMP (about 95% down in early 2026, about 98% by November 2026) and MELANIA (about 99% down) have collapsed, and on-chain data shows most buyers lost money, though no exact share exists.
+- Trump did make the 'lead or China takes over' remark (CNBC, July 2026).
+- The suggestion that he launched the coin 'so China wouldn't do it first' is the video's sarcastic paraphrase.
 
 ## What the video said
 
@@ -26,56 +58,85 @@ tags:
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 
-## Summary
-
-Trump launched the official $TRUMP meme coin on the evening of January 17, 2025, about 2.5 days before his inauguration. His own 2025 OGE financial disclosure reports about $635-636M in meme-coin royalty and licensing income through CIC Digital LLC, so the '$600M' figure is a slight understatement of self-reported gross income. TRUMP (about 95% down in early 2026, about 98% by November 2026) and MELANIA (about 99% down) have collapsed, and on-chain data shows most buyers lost money, though no exact share exists. Trump did make the 'lead or China takes over' remark (CNBC, July 2026). The suggestion that he launched the coin 'so China wouldn't do it first' is the video's sarcastic paraphrase.
-
 ## Sub-claims
 
-- **Confirmed**: Trump launched an official meme coin two days before taking office.
-  - Announced on Truth Social and X on the evening of Friday, Jan 17, 2025 (Jan 18 UTC); inauguration Jan 20. CIC Digital LLC and Fight Fight Fight LLC held 80% of the supply, locked and vesting over three years; 200M of the planned 1B tokens were released at launch.
-  - <https://fortune.com/crypto/2025/01/18/trump-memecoin-crypto-7-billion-solana-president-inauguration/>
-  - <https://m.washingtontimes.com/news/2025/jan/18/trump-launches-his-own-crypto-meme-coin-rakes-in-b/>
-  - <https://www.theblock.co/post/335541/trump-launched-his-own-memecoin-what-is-going-on>
-- **Mostly accurate**: The president raked in $600 million from the Trump coin.
-  - The 2025 OGE disclosure (released 2026-06-30) lists 'Celebration Coins' royalties of $635,068,835 via CIC Digital LLC (about $636.1M on the CIC Digital licensing and crypto line). This is gross licensing income Trump reported himself. Earlier outside estimates ranged from about $315M (Forbes) to more than $800M (Conor Grogan).
-  - <https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html>
-  - <https://startupfortune.com/trumps-financial-disclosure-shows-635-million-in-meme-coin-royalties-while-retail-buyers-lost-more-than-700-million/>
-  - <https://time.com/article/2026/07/01/trump-2025-financial-disclosure-crypto-world-liberty-financial/>
-- **Partly accurate**: Money flowed through shell companies, which Molly White tracked.
-  - Proceeds flow through LLCs: CIC Digital LLC (a Trump Organization affiliate) and Fight Fight Fight LLC (run by Bill Zanker). 'Shell companies' is a pejorative label. Molly White's Citation Needed newsletter analyzed the disclosure; her specific entity tracking was not independently located.
-  - <https://www.citationneeded.news/trumps-crypto-disclosure/>
-  - <https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics>
-- **Mostly accurate**: Melania reported $6 million on her coin and NFTs.
-  - The 2025 OGE filing shows more than $6M from NFTs and 'other collectibles' under a Designers Manager license. The filing does not name $MELANIA; linking the income to the coin is an analyst inference (CAP).
-  - <https://fortune.com/2026/07/01/melania-trump-nft-earnings-surge-filing-shows/>
-  - <https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf>
-- **Confirmed**: Asked about his family's crypto, Trump said the US must be at the top or China will take it over.
-  - In a White House interview with CNBC's Joe Kernen around July 2, 2026, Trump said he 'could know' about the ventures but didn't, called them 'nothing illegal,' and said the US must lead or 'China's going to take it over.' He was talking about crypto generally, not giving a reason for the meme coin.
-  - <https://www.mediaite.com/media/tv/trump-defends-his-1-4-billion-crypto-profits-claims-he-doesnt-know-the-details-while-maintaining-i-could-know/>
-  - <https://www.yahoo.com/news/politics/articles/trump-says-didnt-know-windfall-234408615.html>
-- **Confirmed**: TRUMP has lost about 95% of its value; MELANIA about 99%.
-  - TRUMP peaked at about $73.43 on 2025-01-19. It was about 95% down in early 2026 and about 98% down by November 2026, with reported record lows of about $1.11-1.22 between Nov 4 and Nov 10 (outlets differ; the earlier write-up's $1.05-1.10 for Nov 9-13 could not be re-confirmed). MELANIA peaked at about $13.73 and is about 99% down.
-  - <https://247wallst.com/investing/cryptocurrency/2026/11/09/the-trump-coin-just-hit-an-all-time-low-down-98-from-its-peak-will-trump-coin-ever-go-back-up/>
-  - <https://decrypt.co/342717/melania-trump-meme-coin-jumps-after-first-lady-promotes?amp=1>
-  - <https://www.mitrade.com/insights/news/live-news/article-3-2230858-20261105>
-- **Mostly accurate**: Buyers, unless very early, have almost exclusively lost money.
-  - In May 2025 Chainalysis data (via CNBC) showed about 764,000 of roughly 2M buyer wallets at a loss, while 58 wallets made more than $10M each (about $1.1B combined). Prices have fallen much further since. Retail losses across TRUMP and MELANIA are estimated at about $4.3B. Wallet counts are not people, and no exact share of losing buyers exists.
-  - <https://www.nbcnews.com/tech/crypto/58-crypto-wallets-made-millions-trumps-meme-coin-764000-lost-money-dat-rcna205237>
-  - <https://beincrypto.com/trump-meme-coins-took-4-billion-from-retail-investors>
+### 1. Trump launched an official meme coin two days before taking office.
 
-## Corrections
+**Confirmed**
 
-- Transcript says 'two days' before taking office; the launch was the evening of Jan 17, 2025 (ET), about 2.5 days before the Jan 20 inauguration.
-- Transcript says $600M; Trump's own 2025 disclosure reports about $635-636M in gross meme-coin royalty and licensing income via CIC Digital.
-- Transcript says TRUMP is down about 95%; that was accurate in early 2026, but by November 2026 it was about 98% below its peak.
-- The China remark was about crypto generally (CNBC, July 2026), not a stated reason for launching the meme coin.
+- Announced on Truth Social and X on the evening of Friday, Jan 17, 2025 (Jan 18 UTC); inauguration Jan 20.
+- CIC Digital LLC and Fight Fight Fight LLC held 80% of the supply, locked and vesting over three years; 200M of the planned 1B tokens were released at launch.
+- Amounts: 80%
+- Dates: Jan 17, 2025; Jan 18; Jan 20
+- Sources: [11](https://fortune.com/crypto/2025/01/18/trump-memecoin-crypto-7-billion-solana-president-inauguration/) [12](https://m.washingtontimes.com/news/2025/jan/18/trump-launches-his-own-crypto-meme-coin-rakes-in-b/) [13](https://www.theblock.co/post/335541/trump-launched-his-own-memecoin-what-is-going-on)
+
+### 2. The president raked in $600 million from the Trump coin.
+
+**Mostly accurate**
+
+- The 2025 OGE disclosure (released 2026-06-30) lists 'Celebration Coins' royalties of $635,068,835 via CIC Digital LLC (about $636.1M on the CIC Digital licensing and crypto line).
+- This is gross licensing income Trump reported himself.
+- Earlier outside estimates ranged from about $315M (Forbes) to more than $800M (Conor Grogan).
+- Amounts: $635,068,835; about $636.1M; about $315M; more than $800M
+- Dates: 2026-06-30
+- Sources: [1](https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html) [4](https://startupfortune.com/trumps-financial-disclosure-shows-635-million-in-meme-coin-royalties-while-retail-buyers-lost-more-than-700-million/) [2](https://time.com/article/2026/07/01/trump-2025-financial-disclosure-crypto-world-liberty-financial/)
+
+### 3. Money flowed through shell companies, which Molly White tracked.
+
+**Partly accurate**
+
+- Proceeds flow through LLCs: CIC Digital LLC (a Trump Organization affiliate) and Fight Fight Fight LLC (run by Bill Zanker).
+- 'Shell companies' is a pejorative label.
+- Molly White's Citation Needed newsletter analyzed the disclosure; her specific entity tracking was not independently located.
+- Sources: [7](https://www.citationneeded.news/trumps-crypto-disclosure/) [8](https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics)
+
+### 4. Melania reported $6 million on her coin and NFTs.
+
+**Mostly accurate**
+
+- The 2025 OGE filing shows more than $6M from NFTs and 'other collectibles' under a Designers Manager license.
+- The filing does not name $MELANIA; linking the income to the coin is an analyst inference (CAP).
+- Amounts: more than $6M
+- Sources: [5](https://fortune.com/2026/07/01/melania-trump-nft-earnings-surge-filing-shows/) [6](https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf)
+
+### 5. Asked about his family's crypto, Trump said the US must be at the top or China will take it over.
+
+**Confirmed**
+
+- In a White House interview with CNBC's Joe Kernen around July 2, 2026, Trump said he 'could know' about the ventures but didn't, called them 'nothing illegal,' and said the US must lead or 'China's going to take it over.'
+- He was talking about crypto generally, not giving a reason for the meme coin.
+- Dates: July 2, 2026
+- Sources: [9](https://www.mediaite.com/media/tv/trump-defends-his-1-4-billion-crypto-profits-claims-he-doesnt-know-the-details-while-maintaining-i-could-know/) [10](https://www.yahoo.com/news/politics/articles/trump-says-didnt-know-windfall-234408615.html)
+
+### 6. TRUMP has lost about 95% of its value; MELANIA about 99%.
+
+**Confirmed**
+
+- TRUMP peaked at about $73.43 on 2025-01-19.
+- It was about 95% down in early 2026 and about 98% down by November 2026, with reported record lows of about $1.11-1.22 between Nov 4 and Nov 10 (outlets differ; the earlier write-up's $1.05-1.10 for Nov 9-13 could not be re-confirmed).
+- MELANIA peaked at about $13.73 and is about 99% down.
+- Amounts: about $73.43; about 95%; about 98%; about $1.11-1.22; $1.05-1.10
+- Dates: 2025-01-19; early 2026; November 2026; Nov 4; Nov 10
+- Sources: [15](https://247wallst.com/investing/cryptocurrency/2026/11/09/the-trump-coin-just-hit-an-all-time-low-down-98-from-its-peak-will-trump-coin-ever-go-back-up/) [16](https://decrypt.co/342717/melania-trump-meme-coin-jumps-after-first-lady-promotes?amp=1) [19](https://www.mitrade.com/insights/news/live-news/article-3-2230858-20261105)
+
+### 7. Buyers, unless very early, have almost exclusively lost money.
+
+**Mostly accurate**
+
+- In May 2025 Chainalysis data (via CNBC) showed about 764,000 of roughly 2M buyer wallets at a loss, while 58 wallets made more than $10M each (about $1.1B combined).
+- Prices have fallen much further since.
+- Retail losses across TRUMP and MELANIA are estimated at about $4.3B. Wallet counts are not people, and no exact share of losing buyers exists.
+- Amounts: more than $10M; about $1.1B; about $4.3B
+- Dates: May 2025
+- Sources: [14](https://www.nbcnews.com/tech/crypto/58-crypto-wallets-made-millions-trumps-meme-coin-764000-lost-money-dat-rcna205237) [17](https://beincrypto.com/trump-meme-coins-took-4-billion-from-retail-investors)
 
 ## Denials and context
 
 - Trump said on Truth Social that the coin was not intended to be an investment opportunity.
-- The White House says Trump's assets are held in a trust managed by his children and that ethics rules are followed. Trump told CNBC it is 'nothing illegal' and that Eric Trump and outside managers run the businesses.
-- The income figures come from Trump's self-reported gross licensing income, not audited profit. Estimates from other methods range from about $315M to more than $800M.
+- The White House says Trump's assets are held in a trust managed by his children and that ethics rules are followed.
+  - Trump told CNBC it is 'nothing illegal' and that Eric Trump and outside managers run the businesses.
+- The income figures come from Trump's self-reported gross licensing income, not audited profit.
+  - Estimates from other methods range from about $315M to more than $800M.
 - Critics, including the WSJ editorial board, called the arrangement an 'unseemly display of using the Presidency for family profit.'
 
 ## Themes
@@ -87,61 +148,81 @@ Trump launched the official $TRUMP meme coin on the evening of January 17, 2025,
 
 ## People and organisations
 
-- [[$MELANIA meme coin]]
-- [[$TRUMP $MELANIA shell companies]]
-- [[$TRUMP meme coin]]
-- [[Bill Zanker]]
-- [[Chainalysis]]
-- [[China]]
-- [[CIC Digital LLC]]
-- [[CNBC]]
-- [[Coffeezilla]]
-- [[Designers Manager]]
-- [[Donald Trump]]
-- [[Eric Trump]]
-- [[Fight Fight Fight LLC]]
-- [[January 2025 inauguration]]
-- [[Joe Kernen]]
-- [[Melania Trump]]
-- [[Molly White]]
-- [[Office of Government Ethics]]
-- [[Retail investors Trump supporters]]
-- [[Trump 2025 OGE financial disclosure]]
-- [[Trump Organization]]
-- [[White House Trump administration]]
+- [[$MELANIA meme coin]] · Asset
+- [[$TRUMP $MELANIA shell companies]] · Company
+- [[$TRUMP meme coin]] · Asset
+- [[Bill Zanker]] · Person
+- [[Chainalysis]] · Company
+- [[China]] · Country
+- [[CIC Digital LLC]] · Company
+- [[CNBC]] · Media
+- [[Coffeezilla]] · Person
+- [[Designers Manager]] · Company
+- [[Donald Trump]] · Person
+- [[Eric Trump]] · Person
+- [[Fight Fight Fight LLC]] · Company
+- [[January 2025 inauguration]] · Event
+- [[Joe Kernen]] · Person
+- [[Melania Trump]] · Person
+- [[Molly White]] · Person
+- [[Office of Government Ethics]] · Government body
+- [[Retail investors Trump supporters]] · Person
+- [[Trump 2025 OGE financial disclosure]] · Event
+- [[Trump Organization]] · Company
+- [[White House Trump administration]] · Government body
 
 ## Relationships documented
 
-- [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] (2025-01, ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Chainalysis]] *found ~764k of ~2M wallets at a loss; 58 wallets >$10M gains* [[$TRUMP meme coin]] (2025-05-06, media) · [[C01 $TRUMP meme coin|C01]]
-- [[CIC Digital LLC]] *reported 'Celebration Coins' royalties of $635,068,835 for 2025* [[Donald Trump]] (2025, $635.07M, money) · [[C01 $TRUMP meme coin|C01]]
-- [[CIC Digital LLC]] *co-holds 80% of supply (with Fight Fight Fight)* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C01 $TRUMP meme coin|C01]]
-- [[CNBC]] *employs* [[Joe Kernen]] (media) · [[C01 $TRUMP meme coin|C01]]
-- [[Coffeezilla]] *cites research of* [[Molly White]] (media) · [[C01 $TRUMP meme coin|C01]]
-- [[Coffeezilla]] *called a historic grift* [[$TRUMP meme coin]] (media) · [[C01 $TRUMP meme coin|C01]]
-- [[Designers Manager]] *paid >$6M for NFTs/collectibles license in 2025* [[Melania Trump]] (2025, $6M, money) · [[C01 $TRUMP meme coin|C01]]
-- [[Donald Trump]] *cast crypto as race with* [[China]] (2026-07-02, political) · [[C01 $TRUMP meme coin|C01]]
-- [[Donald Trump]] *justifies crypto as beating* [[China]] (political) · [[C01 $TRUMP meme coin|C01]]
-- [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump]] *spouse* [[Melania Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Donald Trump]] *launched* [[$TRUMP meme coin]] (2025-01-17, commercial) · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
-- [[Donald Trump]] *launched and promoted* [[$TRUMP meme coin]] (2025-01-17, commercial) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Eric Trump]] *runs* [[Trump Organization]] (ownership) · [[C01 $TRUMP meme coin|C01]]
-- [[Fight Fight Fight LLC]] *co-issuer / co-holds 80% of supply* [[$TRUMP meme coin]] (2025-01-17, ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Joe Kernen]] *interviewed on family crypto ventures* [[Donald Trump]] (2026-07-02, media) · [[C01 $TRUMP meme coin|C01]]
-- [[Melania Trump]] *promoted* [[$MELANIA meme coin]] (2025-01-19, commercial) · [[C01 $TRUMP meme coin|C01]]
-- [[Molly White]] *tracks and criticizes crypto income of* [[Donald Trump]] (media) · [[C01 $TRUMP meme coin|C01]]
-- [[Molly White]] *tracked* [[$TRUMP $MELANIA shell companies]] (media) · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
-- [[Office of Government Ethics]] *released* [[Trump 2025 OGE financial disclosure]] (2026-06-30, regulatory) · [[C01 $TRUMP meme coin|C01]]
-- [[Retail investors Trump supporters]] *lost ~95% on* [[$TRUMP meme coin]] (money) · [[C01 $TRUMP meme coin|C01]] [[C29 Trump family wealth gains|C29]]
-- [[Trump 2025 OGE financial disclosure]] *discloses income of* [[Donald Trump]] (2026-06-30, regulatory) · [[C01 $TRUMP meme coin|C01]]
-- [[$TRUMP meme coin]] *generated ~$600M for* [[Donald Trump]] ($600M, money) · [[C01 $TRUMP meme coin|C01]]
-- [[$TRUMP meme coin]] *launched two days before* [[January 2025 inauguration]] (2025-01, political) · [[C01 $TRUMP meme coin|C01]]
-- [[$TRUMP $MELANIA shell companies]] *hold proceeds of* [[$TRUMP meme coin]] (ownership) · [[C01 $TRUMP meme coin|C01]]
-- [[Trump Organization]] *affiliate* [[CIC Digital LLC]] (ownership) · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[White House Trump administration]] *defends ethics arrangements of* [[Donald Trump]] (political) · [[C01 $TRUMP meme coin|C01]]
+### Money (4)
 
-## Sources
+- [[CIC Digital LLC]] *reported 'Celebration Coins' royalties of $635,068,835 for 2025* [[Donald Trump]] · 2025 · $635.07M · [[C01 $TRUMP meme coin|C01]]
+- [[Designers Manager]] *paid >$6M for NFTs/collectibles license in 2025* [[Melania Trump]] · 2025 · $6M · [[C01 $TRUMP meme coin|C01]]
+- [[Retail investors Trump supporters]] *lost ~95% on* [[$TRUMP meme coin]] · [[C01 $TRUMP meme coin|C01]] [[C29 Trump family wealth gains|C29]]
+- [[$TRUMP meme coin]] *generated ~$600M for* [[Donald Trump]] · $600M · [[C01 $TRUMP meme coin|C01]]
+
+### Ownership (6)
+
+- [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] · 2025-01 · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[CIC Digital LLC]] *co-holds 80% of supply (with Fight Fight Fight)* [[$TRUMP meme coin]] · 2025-01-17 · [[C01 $TRUMP meme coin|C01]]
+- [[Fight Fight Fight LLC]] *co-issuer / co-holds 80% of supply* [[$TRUMP meme coin]] · 2025-01-17 · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Eric Trump]] *runs* [[Trump Organization]] · [[C01 $TRUMP meme coin|C01]]
+- [[$TRUMP $MELANIA shell companies]] *hold proceeds of* [[$TRUMP meme coin]] · [[C01 $TRUMP meme coin|C01]]
+- [[Trump Organization]] *affiliate* [[CIC Digital LLC]] · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+
+### Family (2)
+
+- [[Donald Trump]] *father of* [[Eric Trump]] · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *spouse* [[Melania Trump]] · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+
+### Regulatory (2)
+
+- [[Office of Government Ethics]] *released* [[Trump 2025 OGE financial disclosure]] · 2026-06-30 · [[C01 $TRUMP meme coin|C01]]
+- [[Trump 2025 OGE financial disclosure]] *discloses income of* [[Donald Trump]] · 2026-06-30 · [[C01 $TRUMP meme coin|C01]]
+
+### Political (4)
+
+- [[$TRUMP meme coin]] *launched two days before* [[January 2025 inauguration]] · 2025-01 · [[C01 $TRUMP meme coin|C01]]
+- [[Donald Trump]] *cast crypto as race with* [[China]] · 2026-07-02 · [[C01 $TRUMP meme coin|C01]]
+- [[Donald Trump]] *justifies crypto as beating* [[China]] · [[C01 $TRUMP meme coin|C01]]
+- [[White House Trump administration]] *defends ethics arrangements of* [[Donald Trump]] · [[C01 $TRUMP meme coin|C01]]
+
+### Media (7)
+
+- [[Chainalysis]] *found ~764k of ~2M wallets at a loss; 58 wallets >$10M gains* [[$TRUMP meme coin]] · 2025-05-06 · [[C01 $TRUMP meme coin|C01]]
+- [[Joe Kernen]] *interviewed on family crypto ventures* [[Donald Trump]] · 2026-07-02 · [[C01 $TRUMP meme coin|C01]]
+- [[CNBC]] *employs* [[Joe Kernen]] · [[C01 $TRUMP meme coin|C01]]
+- [[Coffeezilla]] *cites research of* [[Molly White]] · [[C01 $TRUMP meme coin|C01]]
+- [[Coffeezilla]] *called a historic grift* [[$TRUMP meme coin]] · [[C01 $TRUMP meme coin|C01]]
+- [[Molly White]] *tracks and criticizes crypto income of* [[Donald Trump]] · [[C01 $TRUMP meme coin|C01]]
+- [[Molly White]] *tracked* [[$TRUMP $MELANIA shell companies]] · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
+
+### Commercial (3)
+
+- [[Donald Trump]] *launched* [[$TRUMP meme coin]] · 2025-01-17 · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
+- [[Donald Trump]] *launched and promoted* [[$TRUMP meme coin]] · 2025-01-17 · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Melania Trump]] *promoted* [[$MELANIA meme coin]] · 2025-01-19 · [[C01 $TRUMP meme coin|C01]]
+
+## Sources (19)
 
 1. [Trump's annual financial disclosure shows more than $580M in crypto-related income](https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html) (CNBC, 2026-06-30)
 2. [Trump Reports Over $1 Billion in Income From Crypto Ventures](https://time.com/article/2026/07/01/trump-2025-financial-disclosure-crypto-world-liberty-financial/) (TIME, 2026-07-01)

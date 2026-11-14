@@ -10,9 +10,15 @@ tags:
 ---
 # US Marine Corps
 
-*government*
-
 To test the Phantom robot.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 3 |
+
+## How other claims describe it
 
 - Service with which Phantom breaching tests were said to be planned.
 
@@ -22,9 +28,14 @@ To test the Phantom robot.
 
 ## Relationships
 
-- [[US Marine Corps]] *branch under* [[Pentagon (Department of Defense)]] (political) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[US Marine Corps]] *planned breaching tests of* [[Phantom humanoid robot]] (2026, commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[US Marine Corps]] *to test* [[Phantom humanoid robot]] (commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+### Political (1)
+
+- [[US Marine Corps]] *branch under* [[Pentagon (Department of Defense)]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+
+### Commercial (2)
+
+- [[US Marine Corps]] *planned breaching tests of* [[Phantom humanoid robot]] · 2026 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[US Marine Corps]] *to test* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 
 ## Themes
 

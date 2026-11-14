@@ -10,9 +10,13 @@ tags:
 ---
 # Kevin Warsh
 
-*person*
-
 Trump's Fed chair nominee, heavily bet on in prediction markets
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

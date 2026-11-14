@@ -6,7 +6,7 @@ tags:
 ---
 # Earning from the office, brand and access
 
-Selling access and the presidential brand directly: holder dinners, merch, a paid feed of market-moving posts, stock-moving truths, gifts.
+- Selling access and the presidential brand directly: holder dinners, merch, a paid feed of market-moving posts, stock-moving truths, gifts.
 
 ## Claims
 

@@ -10,9 +10,13 @@ tags:
 ---
 # Jason Miller
 
-*person*
-
 Former Trump campaign adviser; head of SHW Partners
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Former Trump campaign adviser; head of SHW Partners
 
 ## Relationships
 
-- [[Jason Miller]] *met three times* [[Sergio Gor]] (2025-11, advisory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Jason Miller]] *heads* [[SHW Partners]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Ownership (1)
+
+- [[Jason Miller]] *heads* [[SHW Partners]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Advisory (1)
+
+- [[Jason Miller]] *met three times* [[Sergio Gor]] · 2025-11 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Keith Kellogg
 
-*person*
-
 Retired general, Powerus advisory board member
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Retired general, Powerus advisory board member
 
 ## Relationships
 
-- [[Keith Kellogg]] *advisory board member of* [[Powerus Corp]] (advisory) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+### Advisory (1)
+
+- [[Keith Kellogg]] *advisory board member of* [[Powerus Corp]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Saudi major non-NATO ally status
 
-*event*
-
 Announced by Trump during the Nov 2025 visit
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Announced by Trump during the Nov 2025 visit
 
 ## Relationships
 
-- [[Donald Trump]] *announced* [[Saudi major non-NATO ally status]] (2025-11-18, political) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+### Political (1)
+
+- [[Donald Trump]] *announced* [[Saudi major non-NATO ally status]] · 2025-11-18 · [[C56 Saudi Arabia family deals alongside US policy|C56]]

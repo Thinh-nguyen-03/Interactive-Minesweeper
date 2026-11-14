@@ -10,9 +10,13 @@ tags:
 ---
 # MoonPay
 
-*company*
-
 Crypto payments firm that hired Pham
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Crypto payments firm that hired Pham
 
 ## Relationships
 
-- [[Caroline Pham]] *CLO/CAO after acting CFTC chair* [[MoonPay]] (2025-12-17, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+### Commercial (1)
+
+- [[Caroline Pham]] *CLO/CAO after acting CFTC chair* [[MoonPay]] · 2025-12-17 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]

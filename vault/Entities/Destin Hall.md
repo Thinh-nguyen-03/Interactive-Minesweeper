@@ -10,9 +10,13 @@ tags:
 ---
 # Destin Hall
 
-*person*
-
 North Carolina House Speaker whose spokesman described the White House briefing.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

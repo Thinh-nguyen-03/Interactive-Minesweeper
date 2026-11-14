@@ -10,9 +10,13 @@ tags:
 ---
 # Scott Jenkins
 
-*person*
-
 Ex-Virginia sheriff pardoned after a bribery conviction
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Ex-Virginia sheriff pardoned after a bribery conviction
 
 ## Relationships
 
-- [[Ed Martin]] *hailed pardon of ('No MAGA left behind')* [[Scott Jenkins]] (2025-05, political) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+### Political (1)
+
+- [[Ed Martin]] *hailed pardon of ('No MAGA left behind')* [[Scott Jenkins]] · 2025-05 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

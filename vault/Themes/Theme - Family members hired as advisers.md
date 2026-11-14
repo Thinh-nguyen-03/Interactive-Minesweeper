@@ -6,7 +6,7 @@ tags:
 ---
 # Family members hired as advisers
 
-Companies in regulated or contract-dependent sectors put the president's sons on boards or advisory roles without being able to say what they do beyond 'narrative'.
+- Companies in regulated or contract-dependent sectors put the president's sons on boards or advisory roles without being able to say what they do beyond 'narrative'.
 
 ## Claims
 

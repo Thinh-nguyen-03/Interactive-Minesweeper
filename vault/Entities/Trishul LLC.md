@@ -10,9 +10,13 @@ tags:
 ---
 # Trishul LLC
 
-*company*
-
 Patel's consulting firm; listed Qatari embassy as client
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Patel's consulting firm; listed Qatari embassy as client
 
 ## Relationships
 
-- [[Kash Patel]] *owns* [[Trishul LLC]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Trishul LLC]] *consultant to Qatari embassy* [[Qatar]] (2024, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Money (1)
+
+- [[Trishul LLC]] *consultant to Qatari embassy* [[Qatar]] · 2024 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Ownership (1)
+
+- [[Kash Patel]] *owns* [[Trishul LLC]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

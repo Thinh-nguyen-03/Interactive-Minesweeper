@@ -10,9 +10,13 @@ tags:
 ---
 # Derek Brown
 
-*person*
-
 Utah AG; sued Kalshi Oct 2026; defendant in CFTC suit.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Utah AG; sued Kalshi Oct 2026; defendant in CFTC suit.
 
 ## Relationships
 
-- [[Derek Brown]] *sued* [[Kalshi]] (2026-10-20, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+### Legal (1)
+
+- [[Derek Brown]] *sued* [[Kalshi]] · 2026-10-20 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Tandem Defense LLC
 
-*company*
-
 Powerus subsidiary holding the Air Force IDIQ
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Powerus subsidiary holding the Air Force IDIQ
 
 ## Relationships
 
-- [[Tandem Defense LLC]] *subsidiary of* [[Powerus Corp]] (ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[US Air Force]] *awarded counter-drone IDIQ (ceiling) to* [[Tandem Defense LLC]] (2026-08, $90M, commercial) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+### Ownership (1)
+
+- [[Tandem Defense LLC]] *subsidiary of* [[Powerus Corp]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+### Commercial (1)
+
+- [[US Air Force]] *awarded counter-drone IDIQ (ceiling) to* [[Tandem Defense LLC]] · 2026-08 · $90M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]

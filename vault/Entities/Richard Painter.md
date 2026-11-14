@@ -10,9 +10,13 @@ tags:
 ---
 # Richard Painter
 
-*person*
-
 Former Bush White House ethics lawyer who called the deal a huge conflict of interest.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Former Bush White House ethics lawyer who called the deal a huge conflict of int
 
 ## Relationships
 
-- [[Richard Painter]] *criticized as conflict of interest* [[TMTG-TAE merger]] (2025-12, political) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+### Political (1)
+
+- [[Richard Painter]] *criticized as conflict of interest* [[TMTG-TAE merger]] · 2025-12 · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]

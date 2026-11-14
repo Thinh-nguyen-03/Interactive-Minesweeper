@@ -10,9 +10,13 @@ tags:
 ---
 # Nicolas Maduro
 
-*person*
-
 Venezuelan leader captured 3 Jan 2026
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

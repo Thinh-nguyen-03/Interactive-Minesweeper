@@ -10,9 +10,13 @@ tags:
 ---
 # Ozy Media
 
-*company*
-
 Media startup convicted of fraud; SEC claims dropped
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Media startup convicted of fraud; SEC claims dropped
 
 ## Relationships
 
-- [[Carlos Watson]] *founder of* [[Ozy Media]] (ownership) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Securities and Exchange Commission]] *moved to dismiss civil claims* [[Ozy Media]] (2025-09, regulatory) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+### Ownership (1)
+
+- [[Carlos Watson]] *founder of* [[Ozy Media]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+
+### Regulatory (1)
+
+- [[Securities and Exchange Commission]] *moved to dismiss civil claims* [[Ozy Media]] · 2025-09 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

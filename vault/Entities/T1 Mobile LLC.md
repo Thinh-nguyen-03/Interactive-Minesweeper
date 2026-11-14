@@ -10,9 +10,13 @@ tags:
 ---
 # T1 Mobile LLC
 
-*company*
-
 Florida operator of Trump Mobile (d/b/a Trump SM Mobile)
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Florida operator of Trump Mobile (d/b/a Trump SM Mobile)
 
 ## Relationships
 
-- [[DTTM Operations LLC]] *licenses Trump marks to* [[T1 Mobile LLC]] (2025-06, commercial) · [[C63 Shell entities and ownership chains|C63]]
-- [[T1 Mobile LLC]] *operates (d/b/a Trump SM Mobile)* [[Trump Mobile]] (2025-06-16, ownership) · [[C63 Shell entities and ownership chains|C63]]
+### Ownership (1)
+
+- [[T1 Mobile LLC]] *operates (d/b/a Trump SM Mobile)* [[Trump Mobile]] · 2025-06-16 · [[C63 Shell entities and ownership chains|C63]]
+
+### Commercial (1)
+
+- [[DTTM Operations LLC]] *licenses Trump marks to* [[T1 Mobile LLC]] · 2025-06 · [[C63 Shell entities and ownership chains|C63]]

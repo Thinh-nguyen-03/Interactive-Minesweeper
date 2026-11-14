@@ -10,9 +10,13 @@ tags:
 ---
 # Westwater Resources
 
-*company*
-
 Graphite developer with EXIM financing; on NYT list
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Graphite developer with EXIM financing; on NYT list
 
 ## Relationships
 
-- [[Export-Import Bank of the United States]] *financing for graphite project* [[Westwater Resources]] (2026-08, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+### Money (1)
+
+- [[Export-Import Bank of the United States]] *financing for graphite project* [[Westwater Resources]] · 2026-08 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

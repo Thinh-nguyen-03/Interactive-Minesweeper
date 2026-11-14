@@ -10,9 +10,13 @@ tags:
 ---
 # Democratic Party of Albania
 
-*company*
-
 Berisha-led opposition party; Continental Strategy client
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Berisha-led opposition party; Continental Strategy client
 
 ## Relationships
 
-- [[Democratic Party of Albania]] *reported $250K/month contract (third-party paid)* [[Continental Strategy]] (2025-04, $250K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Money (1)
+
+- [[Democratic Party of Albania]] *reported $250K/month contract (third-party paid)* [[Continental Strategy]] · 2025-04 · $250K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

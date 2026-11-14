@@ -10,9 +10,15 @@ tags:
 ---
 # Oracle
 
-*company*
-
 Stargate partner.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 3 claims |
+| Connections | 5 |
+
+## How other claims describe it
 
 - Stargate equity funder and technology partner
 - Stargate partner; 15% owner of TikTok US JV.
@@ -25,6 +31,14 @@ Stargate partner.
 
 ## Relationships
 
-- [[Oracle]] *equity funder / tech partner of* [[Project Stargate]] (2025-01-21, money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[Oracle]] *partner in* [[Project Stargate]] (commercial) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[Oracle]] *owns 15% of* [[TikTok USDS Joint Venture LLC]] (2026-01-22, ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+### Money (1)
+
+- [[Oracle]] *equity funder / tech partner of* [[Project Stargate]] · 2025-01-21 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+
+### Ownership (1)
+
+- [[Oracle]] *owns 15% of* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+
+### Commercial (1)
+
+- [[Oracle]] *partner in* [[Project Stargate]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]

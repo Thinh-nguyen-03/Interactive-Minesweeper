@@ -10,9 +10,13 @@ tags:
 ---
 # Jack Burkman
 
-*person*
-
 Pardon lobbyist (with Wohl); filmed in 60 Minutes sting
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -20,7 +24,15 @@ Pardon lobbyist (with Wohl); filmed in 60 Minutes sting
 
 ## Relationships
 
-- [[Boosie BadAzz]] *paid for pardon lobbying; seeks $300K back* [[Jack Burkman]] ($600K, money) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[CBS 60 Minutes]] *filmed $300K pardon pitch* [[Jack Burkman]] (2026-09, media) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Jack Burkman]] *lobbying partner of* [[Jacob Wohl]] (commercial) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Joseph Schwartz]] *paid (with Wohl) just under $1M for pardon lobbying* [[Jack Burkman]] (2025, money) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+### Money (2)
+
+- [[Joseph Schwartz]] *paid (with Wohl) just under $1M for pardon lobbying* [[Jack Burkman]] · 2025 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Boosie BadAzz]] *paid for pardon lobbying; seeks $300K back* [[Jack Burkman]] · $600K · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+
+### Media (1)
+
+- [[CBS 60 Minutes]] *filmed $300K pardon pitch* [[Jack Burkman]] · 2026-09 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+
+### Commercial (1)
+
+- [[Jack Burkman]] *lobbying partner of* [[Jacob Wohl]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

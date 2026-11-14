@@ -10,9 +10,15 @@ tags:
 ---
 # Roger Stone
 
-*person*
-
 Pardoned Trump ally; paid $600K by Roger Ver
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 3 claims |
+| Connections | 5 |
+
+## How other claims describe it
 
 - Trump ally; paid $600K by Ver to lobby
 - Trump ally; paid by Roger Ver
@@ -25,7 +31,12 @@ Pardoned Trump ally; paid $600K by Roger Ver
 
 ## Relationships
 
-- [[NOTUS]] *reported clemency lobbying disclosures* [[Roger Stone]] (2026, media) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Roger Ver]] *paid $600K (disclosed as exit-tax lobbying)* [[Roger Stone]] (2025, $600K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Roger Ver]] *paid to lobby on exit tax* [[Roger Stone]] (2025, $600K, money) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Roger Ver]] *paid to lobby on exit tax and crypto tax* [[Roger Stone]] (2025-Q1, $600K, money) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+### Money (3)
+
+- [[Roger Ver]] *paid $600K (disclosed as exit-tax lobbying)* [[Roger Stone]] · 2025 · $600K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Roger Ver]] *paid to lobby on exit tax* [[Roger Stone]] · 2025 · $600K · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Roger Ver]] *paid to lobby on exit tax and crypto tax* [[Roger Stone]] · 2025-Q1 · $600K · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+
+### Media (1)
+
+- [[NOTUS]] *reported clemency lobbying disclosures* [[Roger Stone]] · 2026 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

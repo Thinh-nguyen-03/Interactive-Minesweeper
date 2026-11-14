@@ -10,16 +10,27 @@ tags:
 ---
 # GRU (Russian military intelligence)
 
-*government*
-
 Alleged original hacker of Kushner's iPhone, 2017-18.
+
+> [!warning] Appears in only an unverified, single-source allegation ([[C37 Jared Kushner's hacked phone|C37]]). Nothing in it has been independently corroborated.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
-- [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
-- [[GRU (Russian military intelligence)]] *allegedly hacked personal iPhone of (single-source book claim)* [[Jared Kushner]] (2017, legal) · [[C37 Jared Kushner's hacked phone|C37]]
-- [[MIVD (Dutch Military Intelligence and Security Service)]] *allegedly recruited a GRU hacker, gaining server access* [[GRU (Russian military intelligence)]] (2017, legal) · [[C37 Jared Kushner's hacked phone|C37]]
-- [[Russia]] *operates* [[GRU (Russian military intelligence)]] (ownership) · [[C37 Jared Kushner's hacked phone|C37]]
+### Ownership (1)
+
+- [[Russia]] *operates* [[GRU (Russian military intelligence)]] · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+
+### Legal (2)
+
+- [[GRU (Russian military intelligence)]] *allegedly hacked personal iPhone of (single-source book claim)* [[Jared Kushner]] · 2017 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+- [[MIVD (Dutch Military Intelligence and Security Service)]] *allegedly recruited a GRU hacker, gaining server access* [[GRU (Russian military intelligence)]] · 2017 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation

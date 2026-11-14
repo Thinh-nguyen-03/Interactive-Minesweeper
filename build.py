@@ -261,17 +261,16 @@ def sentences(text):
         nxt = text[end]
         if not (nxt.isupper() or nxt.isdigit() or nxt in "\"'‘“($["):
             continue
-        if depth_at.get(m.start(), 0) > 0 and text.find(")", m.start()) - m.start() < 400 \
-                and (text.find(")", m.start()) >= 0 or text.find("]", m.start()) >= 0):
-            continue
+        if depth_at.get(m.start(), 0) > 0:
+            close = min([x for x in (text.find(")", m.start()), text.find("]", m.start())) if x >= 0] or [-1])
+            if 0 <= close - m.start() < 400:
+                continue
         word = re.search(r"([A-Za-z][A-Za-z.]*)$", text[start:m.start()])
         w = word.group(1).lower() if word else ""
         if w in _ABBR or (word and len(word.group(1)) == 1 and word.group(1).isupper()):
             continue
         if w == "no" and nxt.isdigit():
             continue
-        if m.start() > 0 and text[m.start() - 1].isdigit() and nxt.isdigit() and m.group(0).strip() == ".":
-            pass   # "…in 2025. 12 firms…" is a real boundary
         out.append(text[start:end].strip())
         start = end
     out.append(text[start:].strip())
@@ -357,7 +356,7 @@ def correction_pair(text):
     plain_verb = m.group(2).lower() in ("says", "said", "states", "stated")
     said = text[m.end():m.end() + cut[0]].strip() if plain_verb else said_full.strip()
     record = re.sub(r"^(in fact,?|but)\s+", "", record, flags=re.I)
-    return {"who": who, "said": cap_first(said.rstrip(".")), "record": cap_first(record)}
+    return {"who": who, "plain": plain_verb, "said": cap_first(said.rstrip(".")), "record": cap_first(record)}
 
 
 def clean_name(name):
@@ -854,6 +853,19 @@ def write_graph_js(graph):
 VERDICT_LABEL = {"confirmed": "Confirmed", "mostly-accurate": "Mostly accurate",
                  "partly-accurate": "Partly accurate", "misleading": "Misleading",
                  "unverified": "Unverified", "false": "False", "pending": "Pending"}
+TYPE_LABEL = {"person": "Person", "company": "Company", "government": "Government body", "fund": "Fund",
+              "asset": "Asset", "country": "Country", "law": "Law or policy", "media": "Media",
+              "event": "Event", "product": "Product"}
+REL_LABEL = {"money": "Money", "ownership": "Ownership", "family": "Family", "regulatory": "Regulatory",
+             "advisory": "Advisory", "political": "Political", "legal": "Legal", "media": "Media",
+             "commercial": "Commercial"}
+ORIGIN_LABEL = {"video": "Claim from the video", "follow-up": "Follow-up lead", "connection-hunt": "Connection hunt"}
+CLAIM_HEAD = {"video": "What the video said", "follow-up": "Lead investigated",
+              "connection-hunt": "Connections searched for"}
+HOLDS = ("confirmed", "mostly-accurate")
+CORRECT = ("partly-accurate", "misleading", "false")
+UNPROVEN_NOTE = ("Unverified allegation: this could not be independently corroborated. "
+                 "It is reported as an allegation, not as an established fact.")
 
 
 def fname(text):
@@ -931,9 +943,25 @@ def write_vault(graph, neigh, key_of):
     inferred = {(l["s"], l["t"]) for l in graph["links"] if l.get("inferred")}
 
     def rel_line(r):
-        extra = ", ".join(x for x in [r.get("date", ""), money(r.get("amount_usd")), r["type"]] if x)
+        extra = " · ".join(x for x in [r.get("date", ""), money(r.get("amount_usd"))] if x)
         cl = " ".join(wl(c, c) for c in r["claims"])
-        return f"- {wl(r['s'])} *{r['label']}* {wl(r['t'])} ({extra})" + (f" · {cl}" if cl else "")
+        unv = r["claims"] and all(key_of[c]["verdict"] == "unverified" for c in r["claims"])
+        return (f"- {wl(r['s'])} *{r['label']}* {wl(r['t'])}" + (f" · {extra}" if extra else "")
+                + (f" · {cl}" if cl else "") + (" · unverified allegation" if unv else ""))
+
+    def rel_groups(rs):
+        out = []
+        for t in REL_TYPES + sorted({r["type"] for r in rs} - set(REL_TYPES)):
+            grp = [r for r in rs if r["type"] == t]
+            if grp:
+                out.append(f"### {REL_LABEL.get(t, cap_first(t))} ({len(grp)})\n")
+                out += [rel_line(r) for r in sorted(grp, key=lambda r: r.get("date") or "9999")]
+                out.append("")
+        return out
+
+    def claim_line(c):
+        flag = " · unverified allegation, single source" if c["verdict"] == "unverified" else ""
+        return f"- {wl(c['key'])} · {VERDICT_LABEL[c['verdict']]}{flag}"
 
     count = 0
     for n in graph["nodes"]:
@@ -949,38 +977,77 @@ def write_vault(graph, neigh, key_of):
                 "tags": ["claim", "origin/" + n["origin"], "verdict/" + n["verdict"]],
             }))
             out.append(f"# {n['id']}: {n['title']}\n")
-            conf = f" (confidence: {n['confidence']})" if n["confidence"] else ""
-            out.append(f"**Verdict:** {VERDICT_LABEL[n['verdict']]}{conf}\n")
+            conf = f" · {n['confidence']} confidence" if n["confidence"] else ""
+            out.append(f"**Verdict:** {VERDICT_LABEL[n['verdict']]}{conf}  ")
+            out.append(f"**Origin:** {ORIGIN_LABEL[n['origin']]}"
+                       + (f" · transcript lines {n['lines']}" if n["lines"] else "") + "\n")
+            if n["verdict"] == "unverified":
+                out.append(f"> [!warning] {UNPROVEN_NOTE}\n")
             if n["verdict"] == "pending":
                 out.append("Verification of this claim has not been completed yet.\n")
+            if n["bottom_line"]:
+                out.append("## Bottom line\n\n" + n["bottom_line"] + "\n")
+            subs = n["sub_claims"]
+            holds = [s for s in subs if s["verdict"] in HOLDS]
+            fix = [s for s in subs if s["verdict"] in CORRECT]
+            unproven = [s for s in subs if s["verdict"] in ("unverified", "pending")]
+            if holds:
+                out.append("## What holds up\n")
+                out += [f"- {s['statement']}" if s["verdict"] == "confirmed"
+                        else f"- {s['statement'].rstrip('.')} (mostly accurate)" for s in holds]
+                out.append("")
+            if fix or n["corrections"]:
+                out.append("## What needs correcting\n")
+                out += [f"- {s['statement'].rstrip('.')} ({VERDICT_LABEL[s['verdict']].lower()})" for s in fix]
+                for text, pair in zip(n["corrections"], n["correction_pairs"]):
+                    if pair:
+                        who = ("Claim" if not pair["plain"] else
+                               "Video said" if pair["who"] == "video" else "Brief said")
+                        rec = "Record shows" if pair["plain"] else "Record"
+                        out.append(f"- **{who}:** {pair['said']}  \n  **{rec}:** {pair['record']}")
+                    else:
+                        out.append(f"- {text}")
+                out.append("")
+            if unproven:
+                out.append("## What is unproven\n")
+                out += [f"- {s['statement']}" for s in unproven]
+                out.append("")
+            if n["summary_points"]:
+                out.append("## In more detail\n")
+                out += [f"- {x}" for x in n["summary_points"]]
+                out.append("")
             if n["claim"]:
-                head = "Lead investigated" if n["origin"] == "follow-up" else "What the video said"
-                out.append(f"## {head}\n\n> " + n["claim"] + "\n")
+                out.append(f"## {CLAIM_HEAD[n['origin']]}\n\n> " + n["claim"] + "\n")
             if n["parents"]:
                 out.append("## Follows up on\n")
-                out += [f"- {wl(p)}" for p in n["parents"]]
+                out += [claim_line(key_of[p]) for p in n["parents"]]
                 out.append("")
             kids = [c for c in graph["nodes"] if c["kind"] == "claim" and n["id"] in c["parents"]]
             if kids:
                 out.append("## Follow-up checks\n")
-                out += [f"- {wl(c['key'])} · {VERDICT_LABEL[c['verdict']]}" for c in kids]
+                out += [claim_line(c) for c in kids]
                 out.append("")
-            if n["summary"]:
-                out.append("## Summary\n\n" + n["summary"] + "\n")
-            if n["sub_claims"]:
+            if subs:
                 out.append("## Sub-claims\n")
-                for s in n["sub_claims"]:
-                    out.append(f"- **{VERDICT_LABEL[s['verdict']]}**: {s['statement']}")
-                    if s["finding"]:
-                        out.append(f"  - {s['finding']}")
-                    for u in s["sources"]:
-                        out.append(f"  - <{u}>")
-                out.append("")
-            for head, k in (("Corrections", "corrections"), ("Denials and context", "denials_and_context")):
-                if n[k]:
-                    out.append(f"## {head}\n")
-                    out += [f"- {x}" for x in n[k]]
+                src_no = {x["url"]: i for i, x in enumerate(n["sources"], 1) if x["url"]}
+                for i, s in enumerate(subs, 1):
+                    out.append(f"### {i}. {s['statement']}\n")
+                    out.append(f"**{VERDICT_LABEL[s['verdict']]}**" + (f" · Evidence: {s['grade']}" if s["grade"] else "") + "\n")
+                    out += [f"- {x}" for x in s["points"]]
+                    if s["amounts"]:
+                        out.append(f"- Amounts: {'; '.join(s['amounts'])}")
+                    if s["dates"]:
+                        out.append(f"- Dates: {'; '.join(s['dates'])}")
+                    refs = [f"[{src_no[u]}]({u})" if u in src_no else f"<{u}>" for u in s["sources"]]
+                    if refs:
+                        out.append("- Sources: " + " ".join(refs))
                     out.append("")
+            if n["denials_and_context"]:
+                out.append("## Denials and context\n")
+                for pts in n["denial_points"]:
+                    out.append(f"- {pts[0]}")
+                    out += [f"  - {x}" for x in pts[1:]]
+                out.append("")
             if theme_of_claim[key]:
                 out.append("## Themes\n")
                 out += [f"- {wl(t)}" for t in theme_of_claim[key]]
@@ -989,22 +1056,24 @@ def write_vault(graph, neigh, key_of):
                 out.append("## People and organisations\n")
                 for k in ents:
                     tag = " (named in the claim text)" if (key, k) in inferred else ""
-                    out.append(f"- {wl(k)}{tag}")
+                    out.append(f"- {wl(k)} · {TYPE_LABEL[key_of[k]['type']]}{tag}")
                 out.append("")
             crels = [r for r in graph["rels"] if n["id"] in r["claims"]]
             if crels:
                 out.append("## Relationships documented\n")
-                out += [rel_line(r) for r in crels]
-                out.append("")
+                out += rel_groups(crels)
             if n["leads"]:
-                out.append("## Leads not covered by the video\n")
+                out.append("## Leads not covered here\n")
                 for l in n["leads"]:
                     links = " ".join(wl("e:" + e) if ("e:" + e) in note else e for e in l["entities"])
-                    src = f" [source]({l['source_url']})" if l["source_url"] else ""
-                    out.append(f"- **{l['title']}**: {l['why_connected']}{src}" + (f" · {links}" if links else ""))
+                    src = f" [Source]({l['source_url']})" if l["source_url"] else ""
+                    out.append(f"- **{l['title']}**")
+                    out += [f"  - {x}" for x in l["why_points"]]
+                    if links or src:
+                        out.append("  - " + " · ".join(x for x in [links, src.strip()] if x))
                 out.append("")
             if n["sources"]:
-                out.append("## Sources\n")
+                out.append(f"## Sources ({len(n['sources'])})\n")
                 for i, s in enumerate(n["sources"], 1):
                     meta = ", ".join(x for x in [s["publisher"], s["date"]] if x)
                     t = s["title"] or s["url"]
@@ -1024,23 +1093,35 @@ def write_vault(graph, neigh, key_of):
                 "tags": ["entity", "type/" + n["type"]],
             }))
             out.append(f"# {n['name']}\n")
-            out.append(f"*{n['type']}*\n")
-            if n["description"]:
-                out.append(n["description"] + "\n")
-            for d in n["more"]:
-                out.append(f"- {d}")
+            if n["role"]:
+                out.append(n["role"] + "\n")
+            unv = [k for k in cl if key_of[k]["verdict"] == "unverified"]
+            if unv:
+                out.append("> [!warning] Appears in " + ("only " if len(unv) == len(cl) else "")
+                           + "an unverified, single-source allegation (" + ", ".join(wl(k, k) for k in unv)
+                           + "). Nothing in it has been independently corroborated.\n")
+            out.append("| | |\n|---|---|")
+            out.append(f"| Type | {TYPE_LABEL[n['type']]} |")
+            out.append(f"| Appears in | {len(cl)} claim{'' if len(cl) == 1 else 's'} |")
+            out.append(f"| Connections | {n['degree']} |")
+            if n["aliases"]:
+                out.append("| Also known as | " + "; ".join(a.replace("|", "/") for a in n["aliases"]) + " |")
+            out.append("")
+            if n["details"]:
+                out.append("## Background\n")
+                out += [f"- {d}" for d in n["details"]]
+                out.append("")
             if n["more"]:
+                out.append("## How other claims describe it\n")
+                out += [f"- {d}" for d in n["more"]]
                 out.append("")
             if cl:
                 out.append("## Appears in claims\n")
-                for k in cl:
-                    c = key_of[k]
-                    out.append(f"- {wl(k)} · {VERDICT_LABEL[c['verdict']]}")
+                out += [claim_line(key_of[k]) for k in cl]
                 out.append("")
             if rels_by[key]:
                 out.append("## Relationships\n")
-                out += [rel_line(r) for r in rels_by[key]]
-                out.append("")
+                out += rel_groups(rels_by[key])
             th = [t for t in graph["nodes"] if t["kind"] == "theme" and key in t["entities"]]
             if th:
                 out.append("## Themes\n")
@@ -1050,11 +1131,12 @@ def write_vault(graph, neigh, key_of):
         else:
             out.append(frontmatter({"id": n["id"], "kind": "theme", "tags": ["theme"]}))
             out.append(f"# {n['name']}\n")
-            if n["description"]:
-                out.append(n["description"] + "\n")
+            out += [f"- {x}" for x in n["points"]]
+            if n["points"]:
+                out.append("")
             if n["claims"]:
                 out.append("## Claims\n")
-                out += [f"- {wl(c)} · {VERDICT_LABEL[key_of[c]['verdict']]}" for c in n["claims"]]
+                out += [claim_line(key_of[c]) for c in n["claims"]]
                 out.append("")
             if n["entities"]:
                 out.append("## People and organisations\n")
@@ -1070,13 +1152,18 @@ def write_vault(graph, neigh, key_of):
             "# Trump Claims Map\n",
             f"A fact-check of {m['video_claims']} claims made in {m['source']}"
             + (f", plus {m['followups']} follow-up leads the video did not cover" if m["followups"] else "")
+            + (f" and {m['connection_hunts']} connection hunts across the claims" if m["connection_hunts"] else "")
             + ". Each claim was checked "
             "independently against public records and reporting. Open the graph view to explore.\n",
             "Everyone named denies wrongdoing. Nothing here is an accusation of a crime.\n",
             "## Verdicts\n"]
     home += [f"- {VERDICT_LABEL[v]}: {m['tally'][v]}" for v in VERDICTS if m["tally"][v]]
-    home.append("\n## Claims\n")
-    home += [f"- {wl(n['key'])} · {VERDICT_LABEL[n['verdict']]}" for n in graph["nodes"] if n["kind"] == "claim"]
+    for o, head in (("video", "Claims from the video"), ("follow-up", "Follow-up leads"),
+                    ("connection-hunt", "Connection hunts")):
+        grp = [n for n in graph["nodes"] if n["kind"] == "claim" and n["origin"] == o]
+        if grp:
+            home.append(f"\n## {head}\n")
+            home += [claim_line(n) for n in grp]
     themes = [n for n in graph["nodes"] if n["kind"] == "theme"]
     if themes:
         home.append("\n## Themes\n")

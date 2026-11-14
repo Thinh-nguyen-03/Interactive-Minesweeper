@@ -10,9 +10,13 @@ tags:
 ---
 # $TRUMP / $MELANIA shell companies
 
-*company*
-
 Shell companies behind the Trump and Melania coins, tracked by Molly White.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -21,9 +25,14 @@ Shell companies behind the Trump and Melania coins, tracked by Molly White.
 
 ## Relationships
 
-- [[Molly White]] *tracked* [[$TRUMP $MELANIA shell companies]] (media) · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
-- [[$TRUMP $MELANIA shell companies]] *hold proceeds of* [[$MELANIA meme coin]] (ownership) · [[C02 $MELANIA coin and NFTs|C02]]
-- [[$TRUMP $MELANIA shell companies]] *hold proceeds of* [[$TRUMP meme coin]] (ownership) · [[C01 $TRUMP meme coin|C01]]
+### Ownership (2)
+
+- [[$TRUMP $MELANIA shell companies]] *hold proceeds of* [[$MELANIA meme coin]] · [[C02 $MELANIA coin and NFTs|C02]]
+- [[$TRUMP $MELANIA shell companies]] *hold proceeds of* [[$TRUMP meme coin]] · [[C01 $TRUMP meme coin|C01]]
+
+### Media (1)
+
+- [[Molly White]] *tracked* [[$TRUMP $MELANIA shell companies]] · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
 
 ## Themes
 

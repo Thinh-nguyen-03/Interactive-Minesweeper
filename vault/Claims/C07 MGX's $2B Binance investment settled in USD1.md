@@ -15,7 +15,38 @@ tags:
 ---
 # C07: MGX's $2B Binance investment settled in USD1
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Claim from the video · transcript lines 333-379
+
+## Bottom line
+
+Documented: MGX, chaired by Tahnoon bin Zayed, used WLF's weeks-old USD1 to settle its $2B Binance investment.
+
+## What holds up
+
+- WLF announced USD1 had been selected as the official stablecoin to close MGX's $2B investment in Binance.
+- USD1 was basically brand new at the time.
+- The chairman of MGX is Tahnoon ('the spy').
+- The WSJ links the MGX chairman to the 49% stake in WLF, which went undisclosed in the USD1 announcement.
+- The deal catapulted USD1 from obscurity to a huge stablecoin.
+
+## What needs correcting
+
+- WLF earns interest on the reserves, potentially hundreds of millions for the Trump family over the presidency (partly accurate)
+- **Video said:** The WSJ associates the MGX chairman 'indirectly with his 49% stake'  
+  **Record shows:** The WSJ reported that Aryam Investment 1, a Tahnoon-backed vehicle distinct from MGX, agreed in January 2025 to buy 49% of WLF for $500M.
+- The quoted announcement was made by Zach Witkoff on 2025-05-01 at TOKEN2049 Dubai.
+- 'Hundreds and hundreds of millions' is not a documented figure; contemporaneous estimates were up to about $80M/yr on the $2B, contingent on Binance holding the tokens, and shared with non-family WLF owners.
+
+## What is unproven
+
+- WLF said it is 'unfair to hold a private company to arbitrary standards' and that MGX chose USD1 on its merits.
+
+## In more detail
+
+- WLF announced this on May 1, 2025 without disclosing that a Tahnoon-backed vehicle (Aryam Investment 1) had agreed in January 2025 to buy 49% of WLF, a stake the WSJ revealed in February 2026.
+- USD1 jumped from about $128M to about $2.1B. The interest mechanism is real, but 'hundreds of millions' for the Trump family is a speculative cumulative upper bound (contemporaneous estimates: up to about $80M/yr on the $2B, shared beyond the family).
+- WLF's 'unfair' quote could not be independently verified.
 
 ## What the video said
 
@@ -25,52 +56,78 @@ tags:
 
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 
-## Summary
-
-Documented: MGX, chaired by Tahnoon bin Zayed, used WLF's weeks-old USD1 to settle its $2B Binance investment. WLF announced this on May 1, 2025 without disclosing that a Tahnoon-backed vehicle (Aryam Investment 1) had agreed in January 2025 to buy 49% of WLF, a stake the WSJ revealed in February 2026. USD1 jumped from about $128M to about $2.1B. The interest mechanism is real, but 'hundreds of millions' for the Trump family is a speculative cumulative upper bound (contemporaneous estimates: up to about $80M/yr on the $2B, shared beyond the family). WLF's 'unfair' quote could not be independently verified.
-
 ## Sub-claims
 
-- **Confirmed**: WLF announced USD1 had been selected as the official stablecoin to close MGX's $2B investment in Binance.
-  - Zach Witkoff said this verbatim at TOKEN2049 Dubai on 2025-05-01. MGX had announced the $2B minority investment on 2025-03-12 without naming a stablecoin.
-  - <https://www-ak-ms.foxbusiness.com/markets/trumps-stablecoin-chosen-2-billion-abu-dhabi-investment-binance-co-founder-says>
-  - <https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal>
-  - <https://www.theblock.co/post/352830/world-liberty-financials-usd1-binances-2-billion-investment-mgx-report>
-  - <https://cointelegraph.com/news/eric-trump-usd1-used-2-b-mgx-investment-binance>
-- **Confirmed**: USD1 was basically brand new at the time.
-  - USD1 was unveiled 2025-03-25, after MGX announced the Binance deal. Its market cap was under $130M on 2025-04-27. Forbes noted MGX cited a 'compliance history' the token barely had.
-  - <https://www.forbes.com/sites/zacheverson/2025/10/02/mgx-usd1-binance-trump-stablecoin-world-liberty-financial/>
-  - <https://www.theblock.co/post/353618/trump-tied-world-liberty-financials-usd1-stablecoin-market-cap-surges-from-130m-to-over-2b-since-late-april>
-- **Confirmed**: The chairman of MGX is Tahnoon ('the spy').
-  - Official WAM releases show Tahnoon bin Zayed, UAE national security adviser, chairing MGX board meetings from 2024 to 2026.
-  - <https://www.wam.ae/en/article/13xrqdr-tahnoon-bin-zayed-chairs-inaugural-meeting-mgx>
-  - <https://www.wam.ae/en/article/byy9ubs-tahnoon-bin-zayed-chairs-mgx’s-first-board-meeting>
-- **Confirmed**: The WSJ links the MGX chairman to the 49% stake in WLF, which went undisclosed in the USD1 announcement.
-  - Per the WSJ (reported 2026-02-01), Aryam Investment 1, backed by Tahnoon, agreed in January 2025 to buy 49% of WLF for $500M ($250M upfront, about $187M to Trump-family entities). G42/MGX-linked figures took WLF board seats. The stake predates the May 2025 announcement and was not disclosed. The link runs through Aryam, not MGX itself, and MGX says it has not invested in WLF.
-  - <https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931>
-  - <https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj>
-  - <https://www.ledgerinsights.com/trump-linked-crypto-venture-world-liberty-sold-49-stake-to-uae-state-affiliated-firm/>
-  - <https://www.forbes.com/sites/zacheverson/2025/10/02/mgx-usd1-binance-trump-stablecoin-world-liberty-financial/>
-- **Unverified**: WLF said it is 'unfair to hold a private company to arbitrary standards' and that MGX chose USD1 on its merits.
-  - The 'unfair/arbitrary standards' wording appears only in the video's own correspondence. WLF, MGX and Binance have all publicly said the choice was made on merits or by MGX alone.
-  - <https://www.forbes.com/sites/zacheverson/2025/10/02/mgx-usd1-binance-trump-stablecoin-world-liberty-financial/>
-  - <https://cointelegraph.com/news/binance-richard-teng-denies-donald-trump-stablecoin>
-- **Confirmed**: The deal catapulted USD1 from obscurity to a huge stablecoin.
-  - USD1 rose from about $128M to about $2.1B (+1,540%) around April 27-29, 2025 and became the 7th-largest stablecoin. It reached about $2.7B by October 2025 and more than $5B by early 2026, with Binance holding about 75-87% of supply.
-  - <https://www.theblock.co/post/353618/trump-tied-world-liberty-financials-usd1-stablecoin-market-cap-surges-from-130m-to-over-2b-since-late-april>
-  - <https://cointelegraph.com/news/trump-backed-usd1-is-now-the-seventh-largest-stablecoin-worldwide>
-  - <https://www.forbes.com/sites/zacheverson/2025/10/15/mgx-abu-dhabi-tiktok-trump-usd1-binance-aligned-data-centers/>
-- **Partly accurate**: WLF earns interest on the reserves, potentially hundreds of millions for the Trump family over the presidency.
-  - The issuer keeps the reserve yield. Fortune estimated up to about $80M/yr on the $2B, and only if Binance holds the tokens. Over four years that is a few hundred million gross at best, not documented income. The Trump family receives only a share: DT Marks DEFI gets 75% of net protocol revenue, family equity is now about 38%, and Aryam holds 49%. MGX says it holds no USD1 and paid no fees. A Bloomberg-based estimate puts WLF's total 2026 USD1 income at about $147M.
-  - <https://fortune.com/crypto/2025/05/07/world-liberty-financial-wlfi-trump-binance-mgx-stablecoin-deal/>
-  - <https://stablecoininsider.org/trumps-world-liberty-financial-is-on-track-to-earn-150-million-from-its-usd1-stablecoin-in-2026/>
-  - <https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf>
+### 1. WLF announced USD1 had been selected as the official stablecoin to close MGX's $2B investment in Binance.
 
-## Corrections
+**Confirmed**
 
-- Transcript says the WSJ associates the MGX chairman 'indirectly with his 49% stake'; the WSJ reported that Aryam Investment 1, a Tahnoon-backed vehicle distinct from MGX, agreed in January 2025 to buy 49% of WLF for $500M.
-- The quoted announcement was made by Zach Witkoff on 2025-05-01 at TOKEN2049 Dubai.
-- 'Hundreds and hundreds of millions' is not a documented figure; contemporaneous estimates were up to about $80M/yr on the $2B, contingent on Binance holding the tokens, and shared with non-family WLF owners.
+- Zach Witkoff said this verbatim at TOKEN2049 Dubai on 2025-05-01.
+- MGX had announced the $2B minority investment on 2025-03-12 without naming a stablecoin.
+- Amounts: $2B
+- Dates: 2025-05-01; 2025-03-12
+- Sources: [1](https://www-ak-ms.foxbusiness.com/markets/trumps-stablecoin-chosen-2-billion-abu-dhabi-investment-binance-co-founder-says) [2](https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal) [3](https://www.theblock.co/post/352830/world-liberty-financials-usd1-binances-2-billion-investment-mgx-report) [4](https://cointelegraph.com/news/eric-trump-usd1-used-2-b-mgx-investment-binance)
+
+### 2. USD1 was basically brand new at the time.
+
+**Confirmed**
+
+- USD1 was unveiled 2025-03-25, after MGX announced the Binance deal.
+- Its market cap was under $130M on 2025-04-27.
+- Forbes noted MGX cited a 'compliance history' the token barely had.
+- Amounts: under $130M
+- Dates: 2025-03-25; 2025-04-27
+- Sources: [8](https://www.forbes.com/sites/zacheverson/2025/10/02/mgx-usd1-binance-trump-stablecoin-world-liberty-financial/) [5](https://www.theblock.co/post/353618/trump-tied-world-liberty-financials-usd1-stablecoin-market-cap-surges-from-130m-to-over-2b-since-late-april)
+
+### 3. The chairman of MGX is Tahnoon ('the spy').
+
+**Confirmed**
+
+- Official WAM releases show Tahnoon bin Zayed, UAE national security adviser, chairing MGX board meetings from 2024 to 2026.
+- Sources: [10](https://www.wam.ae/en/article/13xrqdr-tahnoon-bin-zayed-chairs-inaugural-meeting-mgx) [11](https://www.wam.ae/en/article/byy9ubs-tahnoon-bin-zayed-chairs-mgx’s-first-board-meeting)
+
+### 4. The WSJ links the MGX chairman to the 49% stake in WLF, which went undisclosed in the USD1 announcement.
+
+**Confirmed**
+
+- Per the WSJ (reported 2026-02-01), Aryam Investment 1, backed by Tahnoon, agreed in January 2025 to buy 49% of WLF for $500M ($250M upfront, about $187M to Trump-family entities).
+- G42/MGX-linked figures took WLF board seats.
+- The stake predates the May 2025 announcement and was not disclosed.
+- The link runs through Aryam, not MGX itself, and MGX says it has not invested in WLF.
+- Amounts: 49%; $500M; $250M; about $187M
+- Dates: 2026-02-01; January 2025; May 2025
+- Sources: [12](https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931) [13](https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj) [14](https://www.ledgerinsights.com/trump-linked-crypto-venture-world-liberty-sold-49-stake-to-uae-state-affiliated-firm/) [8](https://www.forbes.com/sites/zacheverson/2025/10/02/mgx-usd1-binance-trump-stablecoin-world-liberty-financial/)
+
+### 5. WLF said it is 'unfair to hold a private company to arbitrary standards' and that MGX chose USD1 on its merits.
+
+**Unverified**
+
+- The 'unfair/arbitrary standards' wording appears only in the video's own correspondence.
+- WLF, MGX and Binance have all publicly said the choice was made on merits or by MGX alone.
+- Sources: [8](https://www.forbes.com/sites/zacheverson/2025/10/02/mgx-usd1-binance-trump-stablecoin-world-liberty-financial/) [15](https://cointelegraph.com/news/binance-richard-teng-denies-donald-trump-stablecoin)
+
+### 6. The deal catapulted USD1 from obscurity to a huge stablecoin.
+
+**Confirmed**
+
+- USD1 rose from about $128M to about $2.1B (+1,540%) around April 27-29, 2025 and became the 7th-largest stablecoin.
+- It reached about $2.7B by October 2025 and more than $5B by early 2026, with Binance holding about 75-87% of supply.
+- Amounts: about $128M; about $2.1B; 1,540%; about $2.7B; more than $5B
+- Dates: April 27-29, 2025; October 2025; early 2026
+- Sources: [5](https://www.theblock.co/post/353618/trump-tied-world-liberty-financials-usd1-stablecoin-market-cap-surges-from-130m-to-over-2b-since-late-april) [6](https://cointelegraph.com/news/trump-backed-usd1-is-now-the-seventh-largest-stablecoin-worldwide) [9](https://www.forbes.com/sites/zacheverson/2025/10/15/mgx-abu-dhabi-tiktok-trump-usd1-binance-aligned-data-centers/)
+
+### 7. WLF earns interest on the reserves, potentially hundreds of millions for the Trump family over the presidency.
+
+**Partly accurate**
+
+- The issuer keeps the reserve yield.
+- Fortune estimated up to about $80M/yr on the $2B, and only if Binance holds the tokens.
+- Over four years that is a few hundred million gross at best, not documented income.
+- The Trump family receives only a share: DT Marks DEFI gets 75% of net protocol revenue, family equity is now about 38%, and Aryam holds 49%.
+- MGX says it holds no USD1 and paid no fees.
+- A Bloomberg-based estimate puts WLF's total 2026 USD1 income at about $147M.
+- Amounts: about $80M; $2B; 75%; about 38%; 49%
+- Sources: [7](https://fortune.com/crypto/2025/05/07/world-liberty-financial-wlfi-trump-binance-mgx-stablecoin-deal/) [17](https://stablecoininsider.org/trumps-world-liberty-financial-is-on-track-to-earn-150-million-from-its-usd1-stablecoin-in-2026/) [18](https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf)
 
 ## Denials and context
 
@@ -90,57 +147,74 @@ Documented: MGX, chaired by Tahnoon bin Zayed, used WLF's weeks-old USD1 to sett
 
 ## People and organisations
 
-- [[Aryam Investment 1]]
-- [[Binance]]
-- [[Coffeezilla]]
-- [[Donald Trump]]
-- [[DT Marks DEFI LLC]]
-- [[Eric Trump]]
-- [[Forbes]]
-- [[G42]]
-- [[MGX]]
-- [[MGX $2B investment in Binance]]
-- [[Molly White]]
-- [[Sheikh Tahnoon bin Zayed]]
-- [[The Wall Street Journal]]
-- [[United Arab Emirates]]
-- [[USD1]]
-- [[World Liberty Financial]]
-- [[Zach Witkoff]]
+- [[Aryam Investment 1]] · Fund
+- [[Binance]] · Company
+- [[Coffeezilla]] · Person
+- [[Donald Trump]] · Person
+- [[DT Marks DEFI LLC]] · Company
+- [[Eric Trump]] · Person
+- [[Forbes]] · Media
+- [[G42]] · Company
+- [[MGX]] · Company
+- [[MGX $2B investment in Binance]] · Event
+- [[Molly White]] · Person
+- [[Sheikh Tahnoon bin Zayed]] · Person
+- [[The Wall Street Journal]] · Media
+- [[United Arab Emirates]] · Country
+- [[USD1]] · Asset
+- [[World Liberty Financial]] · Company
+- [[Zach Witkoff]] · Person
 
 ## Relationships documented
 
-- [[Aryam Investment 1]] *agreed to buy 49% stake for $500M (undisclosed until WSJ)* [[World Liberty Financial]] (2025-01, $500M, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[Binance]] *holds most of USD1 supply (~75-87%)* [[USD1]] (2025-10, commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[Coffeezilla]] *questioned about undisclosed Tahnoon stake* [[World Liberty Financial]] (media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[Donald Trump]] *family controls* [[DT Marks DEFI LLC]] (ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[DT Marks DEFI LLC]] *entitled to 75% of net protocol revenue of* [[World Liberty Financial]] (money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[Eric Trump]] *reportedly signed 49% stake deal with* [[Aryam Investment 1]] (2025-01, commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[Forbes]] *reported MGX rationale for choosing USD1* [[MGX]] (2025-10-02, media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[G42]] *founding partner of* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[G42]] *executives took board seats via Aryam deal* [[World Liberty Financial]] (2025-01, advisory) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[MGX]] *invested $2B (minority stake) in, settled in USD1* [[Binance]] (2025-03-12, $2B, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[MGX]] *invested $2B in* [[Binance]] ($2B, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[MGX]] *made* [[MGX $2B investment in Binance]] ($2B, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[MGX]] *state-backed fund of* [[United Arab Emirates]] (political) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[MGX]] *state-linked firm of* [[United Arab Emirates]] (ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[MGX]] *chose as settlement stablecoin* [[USD1]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[MGX]] *used to settle Binance investment* [[USD1]] (2025-05-01, $2B, commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[USD1]] *used to settle* [[MGX $2B investment in Binance]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[USD1]] *reserve interest flows to* [[World Liberty Financial]] (money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]]
-- [[The Wall Street Journal]] *revealed secret WLF stake of* [[Aryam Investment 1]] (2026-02-01, media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[World Liberty Financial]] *sent denials to* [[Coffeezilla]] (media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]] [[C12 WLF bank charter from the OCC|C12]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[World Liberty Financial]] *pays president and family* [[Donald Trump]] (money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]] [[C29 Trump family wealth gains|C29]]
-- [[World Liberty Financial]] *did not disclose stake of* [[Sheikh Tahnoon bin Zayed]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[World Liberty Financial]] *issued* [[USD1]] (commercial) · [[C04 World Liberty Financial founding and token sale|C04]] [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[World Liberty Financial]] *issues and earns reserve yield on* [[USD1]] (2025-03-25, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[Zach Witkoff]] *announced USD1 role in* [[MGX $2B investment in Binance]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[Zach Witkoff]] *announced USD1 selection for MGX-Binance deal* [[USD1]] (2025-05-01, media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+### Money (7)
 
-## Sources
+- [[Aryam Investment 1]] *agreed to buy 49% stake for $500M (undisclosed until WSJ)* [[World Liberty Financial]] · 2025-01 · $500M · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *invested $2B (minority stake) in, settled in USD1* [[Binance]] · 2025-03-12 · $2B · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[DT Marks DEFI LLC]] *entitled to 75% of net protocol revenue of* [[World Liberty Financial]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *invested $2B in* [[Binance]] · $2B · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *made* [[MGX $2B investment in Binance]] · $2B · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[USD1]] *reserve interest flows to* [[World Liberty Financial]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]]
+- [[World Liberty Financial]] *pays president and family* [[Donald Trump]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]] [[C29 Trump family wealth gains|C29]]
+
+### Ownership (7)
+
+- [[G42]] *founding partner of* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[World Liberty Financial]] *issues and earns reserve yield on* [[USD1]] · 2025-03-25 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[Donald Trump]] *family controls* [[DT Marks DEFI LLC]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *state-linked firm of* [[United Arab Emirates]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+
+### Advisory (1)
+
+- [[G42]] *executives took board seats via Aryam deal* [[World Liberty Financial]] · 2025-01 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+
+### Political (1)
+
+- [[MGX]] *state-backed fund of* [[United Arab Emirates]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+
+### Media (5)
+
+- [[Zach Witkoff]] *announced USD1 selection for MGX-Binance deal* [[USD1]] · 2025-05-01 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[Forbes]] *reported MGX rationale for choosing USD1* [[MGX]] · 2025-10-02 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[The Wall Street Journal]] *revealed secret WLF stake of* [[Aryam Investment 1]] · 2026-02-01 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Coffeezilla]] *questioned about undisclosed Tahnoon stake* [[World Liberty Financial]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[World Liberty Financial]] *sent denials to* [[Coffeezilla]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]] [[C12 WLF bank charter from the OCC|C12]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+
+### Commercial (8)
+
+- [[Eric Trump]] *reportedly signed 49% stake deal with* [[Aryam Investment 1]] · 2025-01 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *used to settle Binance investment* [[USD1]] · 2025-05-01 · $2B · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Binance]] *holds most of USD1 supply (~75-87%)* [[USD1]] · 2025-10 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *chose as settlement stablecoin* [[USD1]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[USD1]] *used to settle* [[MGX $2B investment in Binance]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[World Liberty Financial]] *did not disclose stake of* [[Sheikh Tahnoon bin Zayed]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[World Liberty Financial]] *issued* [[USD1]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[Zach Witkoff]] *announced USD1 role in* [[MGX $2B investment in Binance]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+
+## Sources (21)
 
 1. [Trump's stablecoin chosen for $2 billion Abu Dhabi investment in Binance, co-founder says](https://www-ak-ms.foxbusiness.com/markets/trumps-stablecoin-chosen-2-billion-abu-dhabi-investment-binance-co-founder-says) (Fox Business / Reuters, 2025-05-01)
 2. [Trump-Tied Stablecoin Used for MGX's $2 Billion Binance Deal](https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal) (Bloomberg, 2025-05-01)
@@ -160,6 +234,9 @@ Documented: MGX, chaired by Tahnoon bin Zayed, used WLF's weeks-old USD1 to sett
 16. [Warren-Merkley letter to MGX and Binance](https://www.banking.senate.gov/imo/media/doc/warren_merkley_letter_to_mgx_binance_re__wlf_response.pdf) (US Senate Banking Committee, 2025)
 17. [Trump's World Liberty Financial is on track to earn $150 million from its USD1 stablecoin in 2026](https://stablecoininsider.org/trumps-world-liberty-financial-is-on-track-to-earn-150-million-from-its-usd1-stablecoin-in-2026/) (Stablecoin Insider, 2026)
 18. [Memo on Understanding Trump's Crypto Wealth](https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf) (Center for American Progress, 2026-05-05)
+19. [Stablecoin: la elección de MGX por USD1](https://forbes.co/2025/10/03/economia-y-finanzas/stablecoin-la-eleccion-de-mgx-por-usd1/) (Forbes Colombia, 2025-10-03)
+20. [World Liberty Financial rebuts Senate Democrat's probe into USD1 stablecoin and Trump's crypto ties](https://www.theblock.co/post/354624/world-liberty-financial-rebuts-senate-democrats-probe-usd1-stablecoin-trump-crypto-ties) (The Block, 2025-05)
+21. [Stablecoin supply on Binance's BNB Chain explodes 30% due to USD1's $2.1B launch](https://cryptoslate.com/stablecoin-supply-on-binance-smart-chain-explodes-30-due-to-usd1s-2-1b-launch/) (CryptoSlate, 2025-05)
 
 ## Full report
 
@@ -198,6 +275,12 @@ Note: web fetch to theblock.co and crypto.news was blocked in this session. Find
 - Binance says it had no role in the choice of stablecoin.
 - WLF and the White House told the WSJ that Trump was not involved in the Aryam deal and that it bought no influence over policy. Trump said he did not know about it.
 - Context for the critics' side: Senators Warren and Merkley wrote to MGX and Binance about the deal. A Circle shareholder suit alleges emoluments violations.
+
+### Second-review audit (2026-11-14)
+- Re-checked: the USD1 supply jump (~$130M to ~$2.1B), MGX's statement that it holds no USD1 and has not invested in or paid fees to WLF, the ~$60-80M/yr contingent interest estimate, and WLF's "unfair ... arbitrary standards" quote. **Result: upheld; no changes to findings.**
+- The "arbitrary standards" wording still does not appear in any published WLF statement found. WLF's public reply to the Warren/Merkley probe called it "fundamentally mistaken" and said WLF met all disclosure requirements.
+- New sources: Forbes Colombia (2025-10-03) https://forbes.co/2025/10/03/economia-y-finanzas/stablecoin-la-eleccion-de-mgx-por-usd1/ ; The Block (2025-05) https://www.theblock.co/post/354624/world-liberty-financial-rebuts-senate-democrats-probe-usd1-stablecoin-trump-crypto-ties ; CryptoSlate (2025-05) https://cryptoslate.com/stablecoin-supply-on-binance-smart-chain-explodes-30-due-to-usd1s-2-1b-launch/
+
 
 ### Sources
 1. Fox Business (Reuters), "Trump's stablecoin chosen for $2 billion Abu Dhabi investment in Binance, co-founder says," 2025-05-01. https://www-ak-ms.foxbusiness.com/markets/trumps-stablecoin-chosen-2-billion-abu-dhabi-investment-binance-co-founder-says

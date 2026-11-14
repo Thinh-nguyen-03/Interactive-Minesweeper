@@ -10,9 +10,13 @@ tags:
 ---
 # World Liberty Markets
 
-*product*
-
 WLF's first app, a lending/borrowing platform on Dolomite, launched 12 Jan 2026.
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ WLF's first app, a lending/borrowing platform on Dolomite, launched 12 Jan 2026.
 
 ## Relationships
 
-- [[Dolomite]] *provides infrastructure for* [[World Liberty Markets]] (2026-01-12, commercial) · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[World Liberty Financial]] *launched* [[World Liberty Markets]] (2026-01-12, commercial) · [[C04 World Liberty Financial founding and token sale|C04]]
+### Commercial (2)
+
+- [[Dolomite]] *provides infrastructure for* [[World Liberty Markets]] · 2026-01-12 · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[World Liberty Financial]] *launched* [[World Liberty Markets]] · 2026-01-12 · [[C04 World Liberty Financial founding and token sale|C04]]

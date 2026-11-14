@@ -10,9 +10,15 @@ tags:
 ---
 # Paul Walczak
 
-*person*
-
 Nursing-home executive convicted of tax crimes; pardoned Apr 2025
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 5 |
+
+## How other claims describe it
 
 - Nursing-home executive pardoned Apr 2025 for tax crimes
 
@@ -23,7 +29,15 @@ Nursing-home executive convicted of tax crimes; pardoned Apr 2025
 
 ## Relationships
 
-- [[Donald Trump]] *pardoned* [[Paul Walczak]] (2025-04-23, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Donald Trump]] *pardoned (voiding ~$4.4M restitution)* [[Paul Walczak]] (2025-04-23, $4.4M, legal) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Elizabeth Fago]] *mother of* [[Paul Walczak]] (family) · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[The New York Times]] *broke the dinner-pardon story* [[Paul Walczak]] (2025-05-27, media) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+### Family (1)
+
+- [[Elizabeth Fago]] *mother of* [[Paul Walczak]] · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+
+### Legal (2)
+
+- [[Donald Trump]] *pardoned* [[Paul Walczak]] · 2025-04-23 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Donald Trump]] *pardoned (voiding ~$4.4M restitution)* [[Paul Walczak]] · 2025-04-23 · $4.4M · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+
+### Media (1)
+
+- [[The New York Times]] *broke the dinner-pardon story* [[Paul Walczak]] · 2025-05-27 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

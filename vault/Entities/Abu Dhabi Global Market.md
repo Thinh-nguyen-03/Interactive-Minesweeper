@@ -10,9 +10,13 @@ tags:
 ---
 # Abu Dhabi Global Market
 
-*government*
-
 Abu Dhabi financial free zone whose registry includes the RSC company type
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Abu Dhabi financial free zone whose registry includes the RSC company type
 
 ## Relationships
 
-- [[StringZ Holding RSC (DE) LLC]] *name indicates ADGM 'RSC' company type (inferred)* [[Abu Dhabi Global Market]] (legal) · [[C63 Shell entities and ownership chains|C63]]
+### Legal (1)
+
+- [[StringZ Holding RSC (DE) LLC]] *name indicates ADGM 'RSC' company type (inferred)* [[Abu Dhabi Global Market]] · [[C63 Shell entities and ownership chains|C63]]

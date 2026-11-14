@@ -12,9 +12,16 @@ tags:
 ---
 # Trump watches
 
-*product*
-
 Trump-branded watches.
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 2 |
+| Also known as | Trump Watches |
+
+## How other claims describe it
 
 - Branded watch line launched Sept 2024, up to $100,000
 
@@ -24,8 +31,13 @@ Trump-branded watches.
 
 ## Relationships
 
-- [[Donald Trump]] *sells* [[Trump watches]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
-- [[Trump watches]] *paid royalties (2024) to* [[Donald Trump]] (2024, $2.8M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
+### Money (1)
+
+- [[Trump watches]] *paid royalties (2024) to* [[Donald Trump]] · 2024 · $2.8M · [[C17 Trump merchandise and the T1 phone|C17]]
+
+### Commercial (1)
+
+- [[Donald Trump]] *sells* [[Trump watches]] · [[C17 Trump merchandise and the T1 phone|C17]]
 
 ## Themes
 

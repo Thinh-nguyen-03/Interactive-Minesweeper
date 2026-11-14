@@ -10,9 +10,13 @@ tags:
 ---
 # Charles Schwab
 
-*person*
-
 Billionaire Trump said 'made two-and-a-half billion today'
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Billionaire Trump said 'made two-and-a-half billion today'
 
 ## Relationships
 
-- [[Donald Trump]] *boasted 'made two-and-a-half billion today'* [[Charles Schwab]] (2025-04-09, $2.5B, political) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+### Political (1)
+
+- [[Donald Trump]] *boasted 'made two-and-a-half billion today'* [[Charles Schwab]] · 2025-04-09 · $2.5B · [[C58 Market-moving posts and insider-trading allegations|C58]]

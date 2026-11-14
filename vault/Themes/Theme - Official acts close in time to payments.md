@@ -6,7 +6,7 @@ tags:
 ---
 # Official acts close in time to payments
 
-Pardons, export approvals, arms sales, charters and amicus briefs arrive around the time counterparties enrich Trump ventures; presented as coincidence.
+- Pardons, export approvals, arms sales, charters and amicus briefs arrive around the time counterparties enrich Trump ventures; presented as coincidence.
 
 ## Claims
 

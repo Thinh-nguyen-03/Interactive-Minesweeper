@@ -10,9 +10,13 @@ tags:
 ---
 # Eric Swider
 
-*person*
-
 TMTG director (ex-DWAC CEO); resigned 2026-04-06.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ TMTG director (ex-DWAC CEO); resigned 2026-04-06.
 
 ## Relationships
 
-- [[Eric Swider]] *resigned from board of* [[Trump Media & Technology Group]] (2026-04-06, advisory) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+### Advisory (1)
+
+- [[Eric Swider]] *resigned from board of* [[Trump Media & Technology Group]] · 2026-04-06 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]

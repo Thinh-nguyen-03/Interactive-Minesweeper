@@ -12,9 +12,16 @@ tags:
 ---
 # Trump Organization 2025 ethics white paper
 
-*law*
-
 Voluntary January 2025 policy barring deals with foreign governments but allowing private foreign deals
+
+| | |
+|---|---|
+| Type | Law or policy |
+| Appears in | 2 claims |
+| Connections | 3 |
+| Also known as | Trump Organization 2025 ethics policy |
+
+## How other claims describe it
 
 - Second-term policy barring deals with foreign governments but allowing private foreign deals
 
@@ -25,4 +32,6 @@ Voluntary January 2025 policy barring deals with foreign governments but allowin
 
 ## Relationships
 
-- [[Trump Organization 2025 ethics white paper]] *permits private foreign deals for* [[Trump Organization]] (2025-01-10, regulatory) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Regulatory (1)
+
+- [[Trump Organization 2025 ethics white paper]] *permits private foreign deals for* [[Trump Organization]] · 2025-01-10 · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

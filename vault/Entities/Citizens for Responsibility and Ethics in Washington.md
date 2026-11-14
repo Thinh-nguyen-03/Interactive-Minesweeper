@@ -13,9 +13,16 @@ tags:
 ---
 # Citizens for Responsibility and Ethics in Washington
 
-*company*
-
 Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of disclosure.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 8 claims |
+| Connections | 15 |
+| Also known as | CREW; Citizens for Responsibility and Ethics in Washington (CREW) |
+
+## How other claims describe it
 
 - Watchdog reporting Trump Organization involvement in the library
 - Ethics watchdog nonprofit that reported on Don Jr. board roles.
@@ -36,11 +43,16 @@ Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of discl
 
 ## Relationships
 
-- [[Citizens for Responsibility and Ethics in Washington]] *projects >$400M second-term foreign property income for* [[Donald Trump]] (media) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Citizens for Responsibility and Ethics in Washington]] *reported on board-role conflicts of* [[Donald Trump Jr]] (media) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
-- [[Citizens for Responsibility and Ethics in Washington]] *FOIA on mining communications* [[Howard Lutnick]] (2026-07, legal) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Citizens for Responsibility and Ethics in Washington]] *sued over envoy role and lack of disclosure* [[Jared Kushner]] (2026-10, legal) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Citizens for Responsibility and Ethics in Washington]] *counted more than $117M foreign revenue in 2025 and 24 foreign projects* [[Trump Organization]] (2026-07, $117M, media) · [[C55 How much has the Trump family made Competing totals|C55]]
-- [[Citizens for Responsibility and Ethics in Washington]] *tracks ~24 foreign projects of* [[Trump Organization]] (2026, media) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Citizens for Responsibility and Ethics in Washington]] *reported on Trump Organization role and hotel plans* [[Donald J. Trump Presidential Library Foundation, Inc]] (2026, media) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Citizens for Responsibility and Ethics in Washington]] *FOIA request on Lutnick/Trump children and mining* [[US International Development Finance Corporation]] (2026-07-28, legal) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+### Legal (3)
+
+- [[Citizens for Responsibility and Ethics in Washington]] *FOIA on mining communications* [[Howard Lutnick]] · 2026-07 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Citizens for Responsibility and Ethics in Washington]] *FOIA request on Lutnick/Trump children and mining* [[US International Development Finance Corporation]] · 2026-07-28 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Citizens for Responsibility and Ethics in Washington]] *sued over envoy role and lack of disclosure* [[Jared Kushner]] · 2026-10 · [[C15 Jared Kushner and Affinity Partners|C15]]
+
+### Media (5)
+
+- [[Citizens for Responsibility and Ethics in Washington]] *tracks ~24 foreign projects of* [[Trump Organization]] · 2026 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Citizens for Responsibility and Ethics in Washington]] *reported on Trump Organization role and hotel plans* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Citizens for Responsibility and Ethics in Washington]] *counted more than $117M foreign revenue in 2025 and 24 foreign projects* [[Trump Organization]] · 2026-07 · $117M · [[C55 How much has the Trump family made Competing totals|C55]]
+- [[Citizens for Responsibility and Ethics in Washington]] *projects >$400M second-term foreign property income for* [[Donald Trump]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Citizens for Responsibility and Ethics in Washington]] *reported on board-role conflicts of* [[Donald Trump Jr]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]

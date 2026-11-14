@@ -10,9 +10,13 @@ tags:
 ---
 # Keonne Rodriguez
 
-*person*
-
 Samourai Wallet co-founder; seeking a pardon
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Samourai Wallet co-founder; seeking a pardon
 
 ## Relationships
 
-- [[Donald Trump]] *said he would 'look at' a pardon* [[Keonne Rodriguez]] (2025-12-15, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+### Legal (1)
+
+- [[Donald Trump]] *said he would 'look at' a pardon* [[Keonne Rodriguez]] · 2025-12-15 · [[C36 Clemency for other crypto and donor-linked figures|C36]]

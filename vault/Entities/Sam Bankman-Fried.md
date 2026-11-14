@@ -10,9 +10,13 @@ tags:
 ---
 # Sam Bankman-Fried
 
-*person*
-
 FTX founder; applied for a pardon in Jun 2026
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ FTX founder; applied for a pardon in Jun 2026
 
 ## Relationships
 
-- [[Sam Bankman-Fried]] *applied for a pardon (Trump says no)* [[Donald Trump]] (2026-06, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+### Legal (1)
+
+- [[Sam Bankman-Fried]] *applied for a pardon (Trump says no)* [[Donald Trump]] · 2026-06 · [[C36 Clemency for other crypto and donor-linked figures|C36]]

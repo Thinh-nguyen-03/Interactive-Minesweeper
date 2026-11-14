@@ -10,9 +10,15 @@ tags:
 ---
 # Peng Xiao
 
-*person*
-
 G42 CEO; Aryam representative on WLF's board; gave up US citizenship for UAE nationality.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
 
 - G42 CEO; Aryam representative on the WLF board.
 
@@ -23,6 +29,11 @@ G42 CEO; Aryam representative on WLF's board; gave up US citizenship for UAE nat
 
 ## Relationships
 
-- [[Peng Xiao]] *CEO of* [[G42]] (ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Peng Xiao]] *board member (Aryam seat)* [[World Liberty Financial]] (2025, advisory) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Peng Xiao]] *board member representing Aryam* [[World Liberty Financial]] (2025, advisory) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+### Ownership (1)
+
+- [[Peng Xiao]] *CEO of* [[G42]] · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+
+### Advisory (2)
+
+- [[Peng Xiao]] *board member (Aryam seat)* [[World Liberty Financial]] · 2025 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Peng Xiao]] *board member representing Aryam* [[World Liberty Financial]] · 2025 · [[C06 Secret $500M 49% UAE stake in WLF|C06]]

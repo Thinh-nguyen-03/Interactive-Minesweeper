@@ -10,9 +10,13 @@ tags:
 ---
 # Javier Milei
 
-*person*
-
 President of Argentina who promoted LIBRA
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -20,7 +24,15 @@ President of Argentina who promoted LIBRA
 
 ## Relationships
 
-- [[Javier Milei]] *president of* [[Argentina]] (political) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Javier Milei]] *promoted* [[$LIBRA]] (2025-02-14, political) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Karina Milei]] *sister and chief of staff* [[Javier Milei]] (family) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Judge Marcelo Martínez de Giorgi]] *dismissed LIBRA criminal case against* [[Javier Milei]] (2026-10, legal) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+### Family (1)
+
+- [[Karina Milei]] *sister and chief of staff* [[Javier Milei]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+
+### Political (2)
+
+- [[Javier Milei]] *promoted* [[$LIBRA]] · 2025-02-14 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Javier Milei]] *president of* [[Argentina]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+
+### Legal (1)
+
+- [[Judge Marcelo Martínez de Giorgi]] *dismissed LIBRA criminal case against* [[Javier Milei]] · 2026-10 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]

@@ -12,9 +12,14 @@ tags:
 ---
 # TMTG bitcoin treasury
 
-*asset*
-
 TMTG's bitcoin reserve funded by a $2.5B raise.
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 3 |
+| Also known as | TMTG Bitcoin reserve |
 
 ## Appears in claims
 
@@ -22,8 +27,13 @@ TMTG's bitcoin reserve funded by a $2.5B raise.
 
 ## Relationships
 
-- [[TMTG bitcoin treasury]] *holds* [[Bitcoin]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Trump Media & Technology Group]] *raised $2.5B for* [[TMTG bitcoin treasury]] ($2.5B, money) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+### Money (1)
+
+- [[Trump Media & Technology Group]] *raised $2.5B for* [[TMTG bitcoin treasury]] · $2.5B · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+
+### Ownership (1)
+
+- [[TMTG bitcoin treasury]] *holds* [[Bitcoin]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 
 ## Themes
 

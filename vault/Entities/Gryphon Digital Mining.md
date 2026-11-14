@@ -10,9 +10,13 @@ tags:
 ---
 # Gryphon Digital Mining
 
-*company*
-
 Nasdaq-listed miner merged with American Bitcoin (all-stock) in September 2025.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Nasdaq-listed miner merged with American Bitcoin (all-stock) in September 2025.
 
 ## Relationships
 
-- [[American Bitcoin]] *merged (all-stock) to list on Nasdaq via* [[Gryphon Digital Mining]] (2025-09-03, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+### Commercial (1)
+
+- [[American Bitcoin]] *merged (all-stock) to list on Nasdaq via* [[Gryphon Digital Mining]] · 2025-09-03 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]

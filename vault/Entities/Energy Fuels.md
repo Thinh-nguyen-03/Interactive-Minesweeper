@@ -10,9 +10,13 @@ tags:
 ---
 # Energy Fuels
 
-*company*
-
 Uranium/rare-earth producer; on NYT list
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

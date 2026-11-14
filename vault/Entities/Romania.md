@@ -10,9 +10,13 @@ tags:
 ---
 # Romania
 
-*country*
-
 Site of planned Bucharest and Cluj Trump projects
+
+| | |
+|---|---|
+| Type | Country |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

@@ -13,9 +13,16 @@ tags:
 ---
 # White House ballroom
 
-*asset*
-
 Ballroom Trump wants to build, sponsored by crypto firms.
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 4 claims |
+| Connections | 20 |
+| Also known as | White House East Wing ballroom; ballroom |
+
+## How other claims describe it
 
 - ~$300M East Wing ballroom funded by private donors
 - Privately funded ballroom project; cost estimate $200M rising to $400M
@@ -30,32 +37,46 @@ Ballroom Trump wants to build, sponsored by crypto firms.
 
 ## Relationships
 
-- [[Alphabet (Google)]] *Google listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Ballard Partners]] *represents 11 corporate donors* [[White House ballroom]] (2025-11, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Cameron Winklevoss]] *donor to* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Cameron Winklevoss]] *listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Coinbase]] *donor to* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Coinbase]] *listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Donald Trump]] *commissioned* [[White House ballroom]] (2025, political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Donald Trump]] *directs and promotes* [[White House ballroom]] (2025-07, political) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Donald Trump]] *wants to build* [[White House ballroom]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Meta Platforms]] *listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Michael Best Strategies]] *represents 5 corporate donors* [[White House ballroom]] (2025-11, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Miller Strategies]] *represents 6 corporate donors incl. Tether* [[White House ballroom]] (2025-11, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[National Trust for Historic Preservation]] *sued to halt construction of* [[White House ballroom]] (2025-12, legal) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Public Citizen]] *published donor-conflict analysis of* [[White House ballroom]] (2026-06-04, media) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Ripple]] *donor* [[White House ballroom]] (2025-10, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ripple]] *donor to* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Ripple]] *listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[SEC crypto cases dropped (wave)]] *coincided with sponsorship of* [[White House ballroom]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Tether]] *Tether America listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Tether]] *donor (Tether America)* [[White House ballroom]] (2025-10, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Tether]] *donor to (via Tether America)* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Trust for the National Mall]] *receives and administers donations for* [[White House ballroom]] (2025-10, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Tyler Winklevoss]] *donor to* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Tyler Winklevoss]] *listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[White House Trump administration]] *released donor list for* [[White House ballroom]] (2025-10, political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[White House Trump administration]] *released partial donor list for* [[White House ballroom]] (2025-10-23, political) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+### Money (15)
+
+- [[Cameron Winklevoss]] *donor to* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Coinbase]] *donor to* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Ripple]] *donor* [[White House ballroom]] · 2025-10 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ripple]] *donor to* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Tether]] *donor (Tether America)* [[White House ballroom]] · 2025-10 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Tether]] *donor to (via Tether America)* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Trust for the National Mall]] *receives and administers donations for* [[White House ballroom]] · 2025-10 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Tyler Winklevoss]] *donor to* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Alphabet (Google)]] *Google listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Cameron Winklevoss]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Coinbase]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Meta Platforms]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Ripple]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Tether]] *Tether America listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Tyler Winklevoss]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+
+### Political (6)
+
+- [[Donald Trump]] *commissioned* [[White House ballroom]] · 2025 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Donald Trump]] *directs and promotes* [[White House ballroom]] · 2025-07 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[White House Trump administration]] *released donor list for* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[White House Trump administration]] *released partial donor list for* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Donald Trump]] *wants to build* [[White House ballroom]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[SEC crypto cases dropped (wave)]] *coincided with sponsorship of* [[White House ballroom]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Legal (1)
+
+- [[National Trust for Historic Preservation]] *sued to halt construction of* [[White House ballroom]] · 2025-12 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+
+### Media (1)
+
+- [[Public Citizen]] *published donor-conflict analysis of* [[White House ballroom]] · 2026-06-04 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+
+### Commercial (3)
+
+- [[Ballard Partners]] *represents 11 corporate donors* [[White House ballroom]] · 2025-11 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Michael Best Strategies]] *represents 5 corporate donors* [[White House ballroom]] · 2025-11 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Miller Strategies]] *represents 6 corporate donors incl. Tether* [[White House ballroom]] · 2025-11 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
 ## Themes
 

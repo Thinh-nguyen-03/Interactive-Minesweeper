@@ -12,9 +12,14 @@ tags:
 ---
 # Advanced Precision Kill Weapon Systems
 
-*product*
-
 Weapons in a 2026 possible sale to Qatar.
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 2 |
+| Also known as | APKWS |
 
 ## Appears in claims
 
@@ -22,4 +27,6 @@ Weapons in a 2026 possible sale to Qatar.
 
 ## Relationships
 
-- [[2026 possible military sales to Qatar ($5B)]] *includes* [[Advanced Precision Kill Weapon Systems]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+### Commercial (1)
+
+- [[2026 possible military sales to Qatar ($5B)]] *includes* [[Advanced Precision Kill Weapon Systems]] · [[C16 Qatar jet, arms sales and golf deal|C16]]

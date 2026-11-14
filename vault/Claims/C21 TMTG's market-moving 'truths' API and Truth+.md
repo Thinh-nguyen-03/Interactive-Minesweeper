@@ -15,7 +15,34 @@ tags:
 ---
 # C21: TMTG's market-moving 'truths' API and Truth+
 
-**Verdict:** Mostly accurate (confidence: high)
+**Verdict:** Mostly accurate · high confidence  
+**Origin:** Claim from the video · transcript lines 635-641
+
+## Bottom line
+
+TMTG did announce 'Truth API' on July 16, 2026.
+
+## What holds up
+
+- TMTG announced a paid API offering a real-time feed of the platform's most market-moving truths.
+- Interim CEO Kevin McGurn said 'markets already move on Truth Social posts.'
+- The company is reportedly charging $100,000 a month and has multiple buyers.
+
+## What needs correcting
+
+- You can pay to get the president's market-moving truths early, or at least in real time (partly accurate)
+- TMTG also announced Truth+, a subscription streaming service offering Patriot packages with non-woke movies (partly accurate)
+- The $100,000/month figure is the top of a $60,000-$100,000 range. The FT first reported it from anonymous sources, and TMTG confirmed the range on its August 2026 earnings call.
+- 'Multiple buyers' understates it: TMTG claims more than 10 customer agreements, and Reuters named Bloomberg, Susquehanna and Jump Trading.
+- Truth+ and its Patriot Package were not announced alongside the API. Truth+ dates to 2024, the Patriot Package to July 2025 and the non-woke film catalogue to August 2025.
+- 'Early' access is disputed. TMTG says posts are public to all at the same moment and the API only speeds up machine delivery.
+
+## In more detail
+
+- It is a paid, real-time licensed feed of 'the platform's most market-moving Truths', and interim CEO Kevin McGurn said 'Markets already move on Truth Social posts.'
+- The FT, via Reuters, reported pricing of up to $100,000 a month, and TMTG later confirmed a $60K-$100K range and more than 10 customer agreements.
+- Truth+ and its 'non-woke' Patriot Package are real, but they launched in 2024-2025, not alongside the API.
+- TMTG also disputes that the feed gives 'early' access rather than faster delivery.
 
 ## What the video said
 
@@ -26,54 +53,83 @@ tags:
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 
-## Summary
-
-TMTG did announce 'Truth API' on July 16, 2026. It is a paid, real-time licensed feed of 'the platform's most market-moving Truths', and interim CEO Kevin McGurn said 'Markets already move on Truth Social posts.' The FT, via Reuters, reported pricing of up to $100,000 a month, and TMTG later confirmed a $60K-$100K range and more than 10 customer agreements. Truth+ and its 'non-woke' Patriot Package are real, but they launched in 2024-2025, not alongside the API. TMTG also disputes that the feed gives 'early' access rather than faster delivery.
-
 ## Sub-claims
 
-- **Confirmed**: TMTG announced a paid API offering a real-time feed of the platform's most market-moving truths.
-  - Truth API was announced July 16, 2026 (GlobeNewswire) and went live August 1, 2026. The release quotes McGurn: it 'delivers a direct, licensed, real-time feed of the platform's most market-moving Truths.' The feed covers the 10 most influential accounts, reportedly including Trump's, plus an archive back to 2022. It is aimed at HFT and algorithmic trading firms.
-  - <https://www.thenews.pk/story/1426582-trumps-truth-social-unveils-licensed-feed-for-market-moving-posts>
-  - <https://qz.com/trump-media-truth-social-api-wall-street-traders-071626>
-  - <https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts>
-  - <https://axios.com/2026/08/04/trump-truth-social-feed-trades>
-- **Confirmed**: Interim CEO Kevin McGurn said 'markets already move on Truth Social posts.'
-  - Multiple outlets quote McGurn saying exactly this at the announcement. He became interim CEO on about April 21-22, 2026, when Devin Nunes stepped down.
-  - <https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts>
-  - <https://www.arabnews.pk/media/truth-social-to-sell-trading-firms-fastest-access-to-trumps-posts-2651269>
-  - <https://finance.yahoo.com/markets/stocks/articles/trump-media-ceo-ex-congressman-013208735.html>
-- **Confirmed**: The company is reportedly charging $100,000 a month and has multiple buyers.
-  - On July 17, 2026, the FT reported (Reuters syndicated it without independent verification) that TMTG pitched up to $100,000 a month, or about $60,000 a month on a three-year deal. On its August 2026 earnings call, TMTG said it had signed more than 10 customer agreements at $60K-$100K a month, mostly with HFT firms. Reuters sources named Bloomberg, Susquehanna and Jump Trading as customers. $100K is the top of the range.
-  - <https://www.thestar.com.my/tech/tech-news/2026/07/18/trump-media-pitched-100000-monthly-fee-for-fastest-feed-of-us-president039s-posts-sources-say>
-  - <https://www.news5cleveland.com/politics/the-president/trump-media-says-wall-street-firms-are-paying-up-to-100k-for-early-access-to-trump-posts>
-  - <https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say>
-- **Partly accurate**: You can pay to get the president's market-moving truths early, or at least in real time.
-  - The feed is a paid, low-latency, machine-readable delivery of posts. TMTG says all users see posts at the same time and the feed is only 'fractionally faster.' Critics, including Warren and Schiff and the Healthy Markets Association, call it a two-tiered market. 'Real time / faster' is documented. Pre-publication 'early' access is not established.
-  - <https://www.outlookbusiness.com/markets/donald-trump-media-usd-100000-fees-for-faster-truth-social-posts-wall-street-firms-trading-controversy-market-manipulation-concerns>
-  - <https://www.banking.senate.gov/newsroom/minority/warren-schiff-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts>
-  - <https://npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading>
-- **Partly accurate**: TMTG also announced Truth+, a subscription streaming service offering Patriot packages with non-woke movies.
-  - The product is real. Truth+ (formerly TMTG+) debuted in 2024 and came to Roku in March 2025, marketed as 'the singular option for non-woke TV.' It launched globally on July 7, 2025. The $9.99 Patriot Package tier entered beta in July 2025, and on Aug 7, 2025 the Great American Media catalogue was added, pitched as 'non-woke entertainment.' None of this was announced alongside the July 2026 API, as the video's 'meanwhile' implies.
-  - <https://benzinga.com/trading-ideas/movers/25/03/44398390/trump-media-launches-truth-on-roku-calling-it-the-singular-option-for-non-woke-tv>
-  - <https://www.thestar.com.my/tech/tech-news/2025/07/07/trump-media-launches-tv-streaming-platform-with-newsmax-channel-globally>
-  - <https://www.barchart.com/story/news/33960226/trump-media-launches-great-american-media-video-catalogue>
-  - <https://wccftech.com/trump-media-and-technology-group-djt-adds-a-number-of-features-to-its-9-99-patriot-subscription-package/>
+### 1. TMTG announced a paid API offering a real-time feed of the platform's most market-moving truths.
 
-## Corrections
+**Confirmed**
 
-- The $100,000/month figure is the top of a $60,000-$100,000 range. The FT first reported it from anonymous sources, and TMTG confirmed the range on its August 2026 earnings call.
-- 'Multiple buyers' understates it: TMTG claims more than 10 customer agreements, and Reuters named Bloomberg, Susquehanna and Jump Trading.
-- Truth+ and its Patriot Package were not announced alongside the API. Truth+ dates to 2024, the Patriot Package to July 2025 and the non-woke film catalogue to August 2025.
-- 'Early' access is disputed. TMTG says posts are public to all at the same moment and the API only speeds up machine delivery.
+- Truth API was announced July 16, 2026 (GlobeNewswire) and went live August 1, 2026.
+- The release quotes McGurn: it 'delivers a direct, licensed, real-time feed of the platform's most market-moving Truths.'
+- The feed covers the 10 most influential accounts, reportedly including Trump's, plus an archive back to 2022.
+- It is aimed at HFT and algorithmic trading firms.
+- Dates: July 16, 2026; August 1, 2026
+- Sources: [1](https://www.thenews.pk/story/1426582-trumps-truth-social-unveils-licensed-feed-for-market-moving-posts) [3](https://qz.com/trump-media-truth-social-api-wall-street-traders-071626) [2](https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts) [11](https://axios.com/2026/08/04/trump-truth-social-feed-trades)
+
+### 2. Interim CEO Kevin McGurn said 'markets already move on Truth Social posts.'
+
+**Confirmed**
+
+- Multiple outlets quote McGurn saying exactly this at the announcement.
+- He became interim CEO on about April 21-22, 2026, when Devin Nunes stepped down.
+- Dates: April 21-22, 2026
+- Sources: [2](https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts) [4](https://www.arabnews.pk/media/truth-social-to-sell-trading-firms-fastest-access-to-trumps-posts-2651269) [17](https://finance.yahoo.com/markets/stocks/articles/trump-media-ceo-ex-congressman-013208735.html)
+
+### 3. The company is reportedly charging $100,000 a month and has multiple buyers.
+
+**Confirmed**
+
+- On July 17, 2026, the FT reported (Reuters syndicated it without independent verification) that TMTG pitched up to $100,000 a month, or about $60,000 a month on a three-year deal.
+- On its August 2026 earnings call, TMTG said it had signed more than 10 customer agreements at $60K-$100K a month, mostly with HFT firms.
+- Reuters sources named Bloomberg, Susquehanna and Jump Trading as customers.
+- $100K is the top of the range.
+- Audit note: the Reuters report naming Bloomberg, Susquehanna and Jump is dated 2026-10-28 and cites people with direct knowledge; all three declined to comment.
+- Reuters said it could not independently confirm TMTG's 'more than 10 customers' figure.
+- Company officials put the speed edge at about 50 milliseconds.
+- Amounts: up to $100,000; about $60,000; $60K-$100K; $100K
+- Dates: July 17, 2026; August 2026; 2026-10-28
+- Sources: [6](https://www.thestar.com.my/tech/tech-news/2026/07/18/trump-media-pitched-100000-monthly-fee-for-fastest-feed-of-us-president039s-posts-sources-say) [9](https://www.news5cleveland.com/politics/the-president/trump-media-says-wall-street-firms-are-paying-up-to-100k-for-early-access-to-trump-posts) [8](https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say) [28](https://247wallst.com/investing/2026/10/29/wall-street-is-paying-trumps-company-to-see-his-posts-first/)
+
+### 4. You can pay to get the president's market-moving truths early, or at least in real time.
+
+**Partly accurate**
+
+- The feed is a paid, low-latency, machine-readable delivery of posts.
+- TMTG says all users see posts at the same time and the feed is only 'fractionally faster.'
+- Critics, including Warren and Schiff and the Healthy Markets Association, call it a two-tiered market.
+- 'Real time / faster' is documented.
+- Pre-publication 'early' access is not established.
+- Sources: [10](https://www.outlookbusiness.com/markets/donald-trump-media-usd-100000-fees-for-faster-truth-social-posts-wall-street-firms-trading-controversy-market-manipulation-concerns) [13](https://www.banking.senate.gov/newsroom/minority/warren-schiff-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts) [12](https://npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading)
+
+### 5. TMTG also announced Truth+, a subscription streaming service offering Patriot packages with non-woke movies.
+
+**Partly accurate**
+
+- The product is real. Truth+ (formerly TMTG+) debuted in 2024 and came to Roku in March 2025, marketed as 'the singular option for non-woke TV.'
+- It launched globally on July 7, 2025.
+- The $9.99 Patriot Package tier entered beta in July 2025, and on Aug 7, 2025 the Great American Media catalogue was added, pitched as 'non-woke entertainment.'
+- None of this was announced alongside the July 2026 API, as the video's 'meanwhile' implies.
+- Amounts: $9.99
+- Dates: March 2025; July 7, 2025; July 2025; Aug 7, 2025; July 2026
+- Sources: [19](https://benzinga.com/trading-ideas/movers/25/03/44398390/trump-media-launches-truth-on-roku-calling-it-the-singular-option-for-non-woke-tv) [20](https://www.thestar.com.my/tech/tech-news/2025/07/07/trump-media-launches-tv-streaming-platform-with-newsmax-channel-globally) [21](https://www.barchart.com/story/news/33960226/trump-media-launches-great-american-media-video-catalogue) [22](https://wccftech.com/trump-media-and-technology-group-djt-adds-a-number-of-features-to-its-9-99-patriot-subscription-package/)
 
 ## Denials and context
 
-- TMTG calls Truth API an 'industry-standard' data product with significant demand and says it offers only 'fractionally faster' access to public posts. It accused Senate Democrats of misrepresenting the service. The White House referred questions to TMTG.
-- Sens. Elizabeth Warren and Adam Schiff asked SEC Chair Paul Atkins on July 28-29, 2026 to investigate. The SEC acknowledged receipt and declined to comment further. No opened probe was found.
+- TMTG calls Truth API an 'industry-standard' data product with significant demand and says it offers only 'fractionally faster' access to public posts.
+  - It accused Senate Democrats of misrepresenting the service.
+  - The White House referred questions to TMTG.
+- Sens. Elizabeth Warren and Adam Schiff asked SEC Chair Paul Atkins on July 28-29, 2026 to investigate.
+  - The SEC acknowledged receipt and declined to comment further.
+  - No opened probe was found.
 - Trump's revocable trust is TMTG's largest shareholder (about 41% per Reuters and Fortune citing filings), so feed revenue benefits him indirectly.
-- The 'markets already move' premise holds only for some posts. A JPMorgan analysis, reported by Axios in July 2026, found most Trump posts no longer move bond markets.
+- The 'markets already move' premise holds only for some posts.
+  - A JPMorgan analysis, reported by Axios in July 2026, found most Trump posts no longer move bond markets.
 - TMTG is heavily loss-making (about $3.7M revenue and a $712M net loss for 2025), and McGurn said only 'modest' API revenue had been recognized.
+- On about 2026-08-12, The Intercept and the Freedom of the Press Foundation sued Trump in his official capacity, together with White House aides, in federal court in Manhattan.
+  - They allege Truth API violates the First and Fifth Amendments.
+  - TMTG is not a defendant, and TMTG says presidential communications already flow through many platforms that offer subscription APIs.
+  - The case was still pending as of late Oct 2026.
+- Reuters (2026-10-28) said it could not independently verify TMTG's claim of more than 10 customer agreements; the edge sold is reportedly about 50 ms over the app.
 
 ## Themes
 
@@ -81,65 +137,93 @@ TMTG did announce 'Truth API' on July 16, 2026. It is a paid, real-time licensed
 
 ## People and organisations
 
-- [[Adam Schiff]]
-- [[Bloomberg LP]]
-- [[Devin Nunes]]
-- [[Donald J. Trump Revocable Trust]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[Elizabeth Warren]]
-- [[Financial Times]]
-- [[Great American Media]]
-- [[Jump Trading]]
-- [[Kevin McGurn]]
-- [[Newsmax]]
-- [[Paul Atkins]]
-- [[Reuters]]
-- [[Securities and Exchange Commission]]
-- [[Susquehanna International Group]]
-- [[Trump Media & Technology Group]]
-- [[Truth API]]
-- [[Truth Social]]
-- [[Truth Social market-moving truths API]]
-- [[Truth+]]
-- [[Truth+ Patriot Package]]
-- [[US Congress]]
-- [[White House Trump administration]]
+- [[Adam Schiff]] · Person
+- [[Bloomberg LP]] · Company
+- [[Devin Nunes]] · Person
+- [[Donald J. Trump Revocable Trust]] · Fund
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[Elizabeth Warren]] · Person
+- [[Financial Times]] · Media
+- [[Great American Media]] · Media
+- [[Jump Trading]] · Company
+- [[Kevin McGurn]] · Person
+- [[Newsmax]] · Media
+- [[Paul Atkins]] · Person
+- [[Reuters]] · Media
+- [[Securities and Exchange Commission]] · Government body
+- [[Susquehanna International Group]] · Company
+- [[Trump Media & Technology Group]] · Company
+- [[Truth API]] · Product
+- [[Truth Social]] · Company
+- [[Truth Social market-moving truths API]] · Product
+- [[Truth+]] · Product
+- [[Truth+ Patriot Package]] · Product
+- [[US Congress]] · Government body
+- [[White House Trump administration]] · Government body
 
 ## Relationships documented
 
-- [[Adam Schiff]] *asked to investigate Truth API* [[Securities and Exchange Commission]] (2026-07-29, political) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
-- [[Bloomberg LP]] *reported subscriber ($60K-$100K/month range)* [[Truth API]] (2026, $100K, money) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Devin Nunes]] *former CEO, stepped down* [[Trump Media & Technology Group]] (2026-04, advisory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Donald J. Trump Revocable Trust]] *largest shareholder (about 41% per Reuters)* [[Trump Media & Technology Group]] (ownership) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Donald Trump]] *sole beneficiary* [[Donald J. Trump Revocable Trust]] (ownership) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Donald Trump Jr]] *board member* [[Trump Media & Technology Group]] (advisory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Elizabeth Warren]] *asked to investigate Truth API* [[Securities and Exchange Commission]] (2026-07-29, political) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
-- [[Financial Times]] *reported up-to-$100K/month pricing* [[Truth API]] (2026-07-17, media) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Great American Media]] *supplies on-demand catalogue to* [[Truth+ Patriot Package]] (2025-08-07, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Jump Trading]] *reported subscriber* [[Truth API]] (2026, money) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] (2026-04, advisory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
-- [[Newsmax]] *channel carried on* [[Truth+]] (2025-07-07, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Paul Atkins]] *chairs* [[Securities and Exchange Commission]] (regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C22 Crypto.com and TMTG|C22]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *asked to probe Truth API (no probe confirmed)* [[Trump Media & Technology Group]] (2026-07, regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Susquehanna International Group]] *reported subscriber* [[Truth API]] (2026, money) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Trump Media & Technology Group]] *launched (announced 2026-07-16, live 2026-08-01)* [[Truth API]] (2026-07-16, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Trump Media & Technology Group]] *launched* [[Truth+]] (commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Trump Media & Technology Group]] *operates* [[Truth+]] (2024-08, ownership) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Trump Media & Technology Group]] *owns* [[Truth Social]] (ownership) · [[C20 Trump's stock purchases and Truth Social posts|C20]] [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Trump Media & Technology Group]] *sells for ~$100K/month* [[Truth Social market-moving truths API]] ($100K, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Truth+]] *premium tier* [[Truth+ Patriot Package]] (2025-07, commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Truth Social]] *posts of top 10 accounts distributed via* [[Truth API]] (commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Truth Social market-moving truths API]] *streams market-moving posts of* [[Truth Social]] (commercial) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+### Money (3)
 
-## Leads not covered by the video
+- [[Bloomberg LP]] *reported subscriber ($60K-$100K/month range)* [[Truth API]] · 2026 · $100K · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Jump Trading]] *reported subscriber* [[Truth API]] · 2026 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Susquehanna International Group]] *reported subscriber* [[Truth API]] · 2026 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 
-- **Bloomberg, Susquehanna and Jump Trading as Truth API subscribers**: Named customers paying a company majority-linked to the president for low-latency access to his posts; their other regulatory exposure (e.g., Jump's crypto history, SEC/CFTC matters) is worth checking for quid-pro-quo concerns. [source](https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say) · [[Bloomberg LP]] [[Susquehanna International Group]] [[Jump Trading]] [[Truth API]]
-- **Warren-Schiff request for an SEC probe of Truth API and the SEC's response**: Tests whether the Trump-appointed SEC under Paul Atkins acts on a complaint about a Trump-owned company, which is the regulator-conflict theme of the video. [source](https://www.banking.senate.gov/newsroom/minority/warren-schiff-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts) · [[Securities and Exchange Commission]] [[Paul Atkins]] [[Elizabeth Warren]] [[Adam Schiff]] [[Trump Media & Technology Group]]
-- **Devin Nunes exits TMTG amid a $712M loss to chair the President's Intelligence Advisory Board**: Revolving door between a Trump family company and a White House intelligence advisory post. [source](https://krdo.com/news/2026/04/22/devin-nunes-steps-down-as-head-of-trumps-struggling-media-company/) · [[Devin Nunes]] [[Trump Media & Technology Group]] [[Kevin McGurn]] [[White House Trump administration]]
-- **Truth Social / Truth+ 'utility token' plan tied to user engagement**: Another TMTG crypto-adjacent monetization scheme linked to the Patriot Package rewards (gems). [source](https://www.theblock.co/news/business/2025-07-10-truth-social-utlity-token-streaming-361931) · [[Truth Social]] [[Truth+]] [[Truth+ Patriot Package]] [[Trump Media & Technology Group]]
+### Ownership (4)
 
-## Sources
+- [[Trump Media & Technology Group]] *operates* [[Truth+]] · 2024-08 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Donald J. Trump Revocable Trust]] *largest shareholder (about 41% per Reuters)* [[Trump Media & Technology Group]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Donald Trump]] *sole beneficiary* [[Donald J. Trump Revocable Trust]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Trump Media & Technology Group]] *owns* [[Truth Social]] · [[C20 Trump's stock purchases and Truth Social posts|C20]] [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+
+### Regulatory (2)
+
+- [[Securities and Exchange Commission]] *asked to probe Truth API (no probe confirmed)* [[Trump Media & Technology Group]] · 2026-07 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Paul Atkins]] *chairs* [[Securities and Exchange Commission]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C22 Crypto.com and TMTG|C22]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+
+### Advisory (3)
+
+- [[Devin Nunes]] *former CEO, stepped down* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Donald Trump Jr]] *board member* [[Trump Media & Technology Group]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+
+### Political (2)
+
+- [[Adam Schiff]] *asked to investigate Truth API* [[Securities and Exchange Commission]] · 2026-07-29 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Elizabeth Warren]] *asked to investigate Truth API* [[Securities and Exchange Commission]] · 2026-07-29 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+
+### Media (1)
+
+- [[Financial Times]] *reported up-to-$100K/month pricing* [[Truth API]] · 2026-07-17 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+
+### Commercial (8)
+
+- [[Truth+]] *premium tier* [[Truth+ Patriot Package]] · 2025-07 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Newsmax]] *channel carried on* [[Truth+]] · 2025-07-07 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Great American Media]] *supplies on-demand catalogue to* [[Truth+ Patriot Package]] · 2025-08-07 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Trump Media & Technology Group]] *launched (announced 2026-07-16, live 2026-08-01)* [[Truth API]] · 2026-07-16 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Trump Media & Technology Group]] *launched* [[Truth+]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Trump Media & Technology Group]] *sells for ~$100K/month* [[Truth Social market-moving truths API]] · $100K · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Truth Social]] *posts of top 10 accounts distributed via* [[Truth API]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Truth Social market-moving truths API]] *streams market-moving posts of* [[Truth Social]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+
+## Leads not covered here
+
+- **Bloomberg, Susquehanna and Jump Trading as Truth API subscribers**
+  - Named customers paying a company majority-linked to the president for low-latency access to his posts; their other regulatory exposure (e.g., Jump's crypto history, SEC/CFTC matters) is worth checking for quid-pro-quo concerns.
+  - [[Bloomberg LP]] [[Susquehanna International Group]] [[Jump Trading]] [[Truth API]] · [Source](https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say)
+- **Warren-Schiff request for an SEC probe of Truth API and the SEC's response**
+  - Tests whether the Trump-appointed SEC under Paul Atkins acts on a complaint about a Trump-owned company, which is the regulator-conflict theme of the video.
+  - [[Securities and Exchange Commission]] [[Paul Atkins]] [[Elizabeth Warren]] [[Adam Schiff]] [[Trump Media & Technology Group]] · [Source](https://www.banking.senate.gov/newsroom/minority/warren-schiff-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts)
+- **Devin Nunes exits TMTG amid a $712M loss to chair the President's Intelligence Advisory Board**
+  - Revolving door between a Trump family company and a White House intelligence advisory post.
+  - [[Devin Nunes]] [[Trump Media & Technology Group]] [[Kevin McGurn]] [[White House Trump administration]] · [Source](https://krdo.com/news/2026/04/22/devin-nunes-steps-down-as-head-of-trumps-struggling-media-company/)
+- **Truth Social / Truth+ 'utility token' plan tied to user engagement**
+  - Another TMTG crypto-adjacent monetization scheme linked to the Patriot Package rewards (gems).
+  - [[Truth Social]] [[Truth+]] [[Truth+ Patriot Package]] [[Trump Media & Technology Group]] · [Source](https://www.theblock.co/news/business/2025-07-10-truth-social-utlity-token-streaming-361931)
+
+## Sources (29)
 
 1. [Trump's Truth Social unveils licensed feed for market-moving posts (cites GlobeNewswire release)](https://www.thenews.pk/story/1426582-trumps-truth-social-unveils-licensed-feed-for-market-moving-posts) (The News (Pakistan), 2026-07-16)
 2. [Trump Media sells Wall Street low-latency access to Trump posts](https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts) (Cointelegraph, 2026-07)
@@ -166,6 +250,10 @@ TMTG did announce 'Truth API' on July 16, 2026. It is a paid, real-time licensed
 23. [Truth Social teases 'utility token' tied to user engagement with streaming subscription](https://www.theblock.co/news/business/2025-07-10-truth-social-utlity-token-streaming-361931) (The Block, 2025-07-10)
 24. [No ads, no shows, no profits: What Trump's Truth+ really offers subscribers](https://thenightly.com.au/politics/us-politics/no-ads-no-shows-no-profits-what-trumps-truth-really-offers-subscribers-c-19358314) (The Nightly (New York Times), 2026)
 25. [Bond traders are tuning out Trump posts](https://www.axios.com/2026/07/21/trump-bonds-social-media-traders) (Axios, 2026-07-21)
+26. [Media groups sue Trump over paid access to public social media posts](https://www.aljazeera.com/news/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts) (Al Jazeera, 2026-08-12)
+27. [The Intercept Sues Trump Over $100,000 Truth Social API](https://www.thewrap.com/industry-news/tech/trump-truth-social-api-lawsuit-the-intercept/) (TheWrap, 2026-08)
+28. [Wall Street Is Paying Trump's Company to See His Posts First](https://247wallst.com/investing/2026/10/29/wall-street-is-paying-trumps-company-to-see-his-posts-first/) (24/7 Wall St., 2026-10-29)
+29. [Exclusive: Truth Social to license its data to Wall Street](https://axios.com/2026/07/16/truth-social-license-data-wall-street) (Axios, 2026-07-16)
 
 ## Full report
 

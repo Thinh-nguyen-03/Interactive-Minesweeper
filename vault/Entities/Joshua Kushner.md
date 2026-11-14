@@ -10,9 +10,13 @@ tags:
 ---
 # Joshua Kushner
 
-*person*
-
 Jared's brother; founder of Thrive Capital
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Jared's brother; founder of Thrive Capital
 
 ## Relationships
 
-- [[Charles Kushner]] *father of* [[Joshua Kushner]] (family) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Joshua Kushner]] *founder of* [[Thrive Capital]] (ownership) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Ownership (1)
+
+- [[Joshua Kushner]] *founder of* [[Thrive Capital]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+
+### Family (1)
+
+- [[Charles Kushner]] *father of* [[Joshua Kushner]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

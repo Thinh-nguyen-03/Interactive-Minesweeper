@@ -10,9 +10,13 @@ tags:
 ---
 # Kraken Financial
 
-*company*
-
 Kraken's Wyoming bank; Fed master account Mar 2026
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Kraken's Wyoming bank; Fed master account Mar 2026
 
 ## Relationships
 
-- [[Federal Reserve Bank of Kansas City (federal-reserve-bank-of-kansas-city)]] *approved limited master account* [[Kraken Financial]] (2026-03-04, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Kraken]] *parent* [[Kraken Financial]] (ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+### Ownership (1)
+
+- [[Kraken]] *parent* [[Kraken Financial]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+
+### Regulatory (1)
+
+- [[Federal Reserve Bank of Kansas City (federal-reserve-bank-of-kansas-city)]] *approved limited master account* [[Kraken Financial]] · 2026-03-04 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]

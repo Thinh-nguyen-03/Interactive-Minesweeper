@@ -6,7 +6,8 @@ tags:
 ---
 # Gulf sovereign money and dual-role envoys
 
-UAE, Saudi and Qatari state-linked money flows to Trump-family or in-law ventures with little oversight. The people negotiating for the US in the region (Witkoff, Kushner) have family or personal money tied to the same Gulf investors.
+- UAE, Saudi and Qatari state-linked money flows to Trump-family or in-law ventures with little oversight.
+- The people negotiating for the US in the region (Witkoff, Kushner) have family or personal money tied to the same Gulf investors.
 
 ## Claims
 

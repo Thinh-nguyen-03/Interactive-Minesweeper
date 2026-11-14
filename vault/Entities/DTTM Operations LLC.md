@@ -10,9 +10,13 @@ tags:
 ---
 # DTTM Operations LLC
 
-*company*
-
 Holder/manager of Trump trademarks; licenses Trump Mobile
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Holder/manager of Trump trademarks; licenses Trump Mobile
 
 ## Relationships
 
-- [[DTTM Operations LLC]] *licenses Trump marks to* [[T1 Mobile LLC]] (2025-06, commercial) · [[C63 Shell entities and ownership chains|C63]]
+### Commercial (1)
+
+- [[DTTM Operations LLC]] *licenses Trump marks to* [[T1 Mobile LLC]] · 2025-06 · [[C63 Shell entities and ownership chains|C63]]

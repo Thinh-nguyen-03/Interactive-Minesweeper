@@ -10,9 +10,15 @@ tags:
 ---
 # Paolo Ardoino
 
-*person*
-
 Tether CEO; recipient of Blumenthal's Oct 2026 letter
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 3 claims |
+| Connections | 4 |
+
+## How other claims describe it
 
 - Tether CEO
 
@@ -24,5 +30,7 @@ Tether CEO; recipient of Blumenthal's Oct 2026 letter
 
 ## Relationships
 
-- [[Paolo Ardoino]] *CEO* [[Tether]] (ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Paolo Ardoino]] *CEO of; rebutted Senate report* [[Tether]] (ownership) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+### Ownership (2)
+
+- [[Paolo Ardoino]] *CEO* [[Tether]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Paolo Ardoino]] *CEO of; rebutted Senate report* [[Tether]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]

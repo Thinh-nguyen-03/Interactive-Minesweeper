@@ -10,9 +10,13 @@ tags:
 ---
 # National Trust for Historic Preservation
 
-*company*
-
 Sued over the ballroom construction in Dec 2025
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Sued over the ballroom construction in Dec 2025
 
 ## Relationships
 
-- [[National Trust for Historic Preservation]] *sued to halt construction of* [[White House ballroom]] (2025-12, legal) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+### Legal (1)
+
+- [[National Trust for Historic Preservation]] *sued to halt construction of* [[White House ballroom]] · 2025-12 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]

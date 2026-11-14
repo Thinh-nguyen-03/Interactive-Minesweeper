@@ -10,9 +10,13 @@ tags:
 ---
 # Perpetua Resources
 
-*company*
-
 Idaho Stibnite gold-antimony developer; large EXIM loan
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Idaho Stibnite gold-antimony developer; large EXIM loan
 
 ## Relationships
 
-- [[Export-Import Bank of the United States]] *advanced ~$2.7-2.9B loan* [[Perpetua Resources]] (2026-05, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+### Money (1)
+
+- [[Export-Import Bank of the United States]] *advanced ~$2.7-2.9B loan* [[Perpetua Resources]] · 2026-05 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

@@ -10,9 +10,13 @@ tags:
 ---
 # OpenSea
 
-*company*
-
 NFT marketplace; SEC probe closed Feb 2025
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ NFT marketplace; SEC probe closed Feb 2025
 
 ## Relationships
 
-- [[Securities and Exchange Commission]] *closed investigation* [[OpenSea]] (2025-02-21, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+### Regulatory (1)
+
+- [[Securities and Exchange Commission]] *closed investigation* [[OpenSea]] · 2025-02-21 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]

@@ -12,9 +12,14 @@ tags:
 ---
 # January 2025 inauguration
 
-*event*
-
 Trump's second inauguration.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 3 claims |
+| Connections | 6 |
+| Also known as | inauguration |
 
 ## Appears in claims
 
@@ -24,6 +29,11 @@ Trump's second inauguration.
 
 ## Relationships
 
-- [[Secret $500M 49% WLF stake deal]] *signed four days before* [[January 2025 inauguration]] (2025-01-16, political) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
-- [[$TRUMP meme coin]] *launched two days before* [[January 2025 inauguration]] (2025-01, political) · [[C01 $TRUMP meme coin|C01]]
-- [[Trump inauguration fund]] *funded* [[January 2025 inauguration]] (money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+### Money (1)
+
+- [[Trump inauguration fund]] *funded* [[January 2025 inauguration]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Political (2)
+
+- [[$TRUMP meme coin]] *launched two days before* [[January 2025 inauguration]] · 2025-01 · [[C01 $TRUMP meme coin|C01]]
+- [[Secret $500M 49% WLF stake deal]] *signed four days before* [[January 2025 inauguration]] · 2025-01-16 · [[C06 Secret $500M 49% UAE stake in WLF|C06]]

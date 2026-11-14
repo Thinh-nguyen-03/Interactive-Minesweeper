@@ -10,9 +10,13 @@ tags:
 ---
 # Jensen Huang
 
-*person*
-
 Nvidia CEO; a reported dinner with Sacks was dropped from the NYT story
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -21,5 +25,10 @@ Nvidia CEO; a reported dinner with Sacks was dropped from the NYT story
 
 ## Relationships
 
-- [[David Sacks]] *reported dinner disputed, dropped from NYT story* [[Jensen Huang]] (commercial) · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Jensen Huang]] *CEO of* [[Nvidia]] (ownership) · [[C34 David Sacks AI & crypto czar with investments|C34]]
+### Ownership (1)
+
+- [[Jensen Huang]] *CEO of* [[Nvidia]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
+
+### Commercial (1)
+
+- [[David Sacks]] *reported dinner disputed, dropped from NYT story* [[Jensen Huang]] · [[C34 David Sacks AI & crypto czar with investments|C34]]

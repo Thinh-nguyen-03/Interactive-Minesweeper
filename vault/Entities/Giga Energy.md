@@ -10,9 +10,13 @@ tags:
 ---
 # Giga Energy
 
-*company*
-
 AI/HPC energy infrastructure firm Prusak joined in August 2026.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ AI/HPC energy infrastructure firm Prusak joined in August 2026.
 
 ## Relationships
 
-- [[Matt Prusak]] *joined as chief business officer* [[Giga Energy]] (2026-08-04, commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+### Commercial (1)
+
+- [[Matt Prusak]] *joined as chief business officer* [[Giga Energy]] · 2026-08-04 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]

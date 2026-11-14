@@ -17,7 +17,36 @@ tags:
 ---
 # C48: Trump presidential library foundation: settlement money, Miami land, IRS status
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Follow-up lead
+
+## Bottom line
+
+Documented: the first Trump Presidential Library Fund (incorporated Dec 2024) was administratively dissolved in Sept 2025.
+
+## What holds up
+
+- A successor foundation received Miami Dade College land worth $67M+ for $10.
+- The foundation got fast-track IRS approval during the government shutdown.
+- The Qatari 747 is slated to go to the library foundation (mostly accurate)
+- Foundation officers include Eric Trump, Michael Boulos and James Kiley.
+- The land transfer has been challenged in court.
+
+## What needs correcting
+
+- The first library fund was dissolved in Sept 2025 and ~$60M+ of settlement money earmarked for the library is unaccounted for, per Warren, Blumenthal and Stansbury (partly accurate)
+- The foundation, White House and payers have explained the money trail (false)
+- **Brief said:** ~$60M+ is unaccounted for  
+  **Record shows:** After Trump's 30 Jun 2026 disclosure, $56.5M is shown as paid to the foundation, and the lawmakers' current allegation is $6.5M-$14.5M missing plus $7M of unexplained expenditures.
+- X's settlement (~$8M per the disclosure, not the ~$10M press figure) was paid to Trump personally, not to the library.
+- $67M is the county assessed value; reported estimates range from a $60M appraisal to ~$300M market value.
+- The 747 transfer to the library is the stated plan, not settled; Eric Trump says it is not planned for display in Miami.
+
+## In more detail
+
+- A successor Donald J. Trump Presidential Library Foundation (May 2025; trustees Eric Trump, Michael Boulos and James Kiley) won IRS exemption in 10 days during the Oct 2025 shutdown and was deeded the Miami Dade College parcel (county-assessed at $67M+) for $10, with two lawsuits failing so far to stop it.
+- The weakest element is '$60M+ unaccounted for': Trump's June 2026 disclosure shows $56.5M paid to the foundation and $8M from X paid to Trump personally, so lawmakers now allege $6.5M-$14.5M missing plus $7M unexplained.
+- The 747 transfer to the foundation is the stated plan, but it is not settled.
 
 ## Lead investigated
 
@@ -25,62 +54,94 @@ tags:
 
 ## Follows up on
 
-- [[C33 Corporate settlements and donations to Trump's library and ballroom]]
-- [[C16 Qatar jet, arms sales and golf deal]]
-
-## Summary
-
-Documented: the first Trump Presidential Library Fund (incorporated Dec 2024) was administratively dissolved in Sept 2025. A successor Donald J. Trump Presidential Library Foundation (May 2025; trustees Eric Trump, Michael Boulos and James Kiley) won IRS exemption in 10 days during the Oct 2025 shutdown and was deeded the Miami Dade College parcel (county-assessed at $67M+) for $10, with two lawsuits failing so far to stop it. The weakest element is '$60M+ unaccounted for': Trump's June 2026 disclosure shows $56.5M paid to the foundation and $8M from X paid to Trump personally, so lawmakers now allege $6.5M-$14.5M missing plus $7M unexplained. The 747 transfer to the foundation is the stated plan, but it is not settled.
+- [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
+- [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
 
 ## Sub-claims
 
-- **Partly accurate**: The first library fund was dissolved in Sept 2025 and ~$60M+ of settlement money earmarked for the library is unaccounted for, per Warren, Blumenthal and Stansbury.
-  - The fund was incorporated in Florida on 20 Dec 2024 by Trump-entity lawyer Jacob Roth and administratively dissolved in late Sept 2025 for not filing an annual report. The lawmakers' March-April 2026 letters alleged up to $63M lacked any public accounting. Trump's OGE disclosure, released 30 Jun 2026, then showed $64.5M in total: $56.5M paid to the Foundation by Meta, ABC and Paramount, and $8M paid by X to Trump personally. The lawmakers' 16 Jul 2026 letter alleges $6.5M-$14.5M missing and $7M of unexplained spending against the Foundation's reported $50M of revenue (as of 10 Oct 2025). The dissolution and the allegation are documented, but 'unaccounted for' now refers to a much smaller gap, and that gap remains an allegation.
-  - <https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami>
-  - <https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-big-tech-ceos-on-trump-settlements-to-now-dissolved-library-fund>
-  - <https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/>
-  - <https://www.warren.senate.gov/?p=39088>
-  - <https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf>
-  - <https://www.thedailybeast.com/donald-trumps-librarys-missing-millions-mystery-targeted-in-new-probe>
-- **Confirmed**: A successor foundation received Miami Dade College land worth $67M+ for $10.
-  - The MDC trustees voted on 23 Sep 2025 to give the ~2.6-acre downtown parcel to the state. DeSantis and the Cabinet (Board of Trustees of the Internal Improvement Trust Fund) voted unanimously on 30 Sep 2025 to deed it to the foundation for $10, on condition that construction starts within five years. The county appraiser's 2025 assessment is more than $67M; one report cites a $60M appraisal, and plaintiffs estimate ~$300M market value. The deed was recorded in Jan-Feb 2026.
-  - <https://www.myfloridacfo.com/news/pressreleases/press-release-details/2025/09/30/in-case-you-missed-it--governor-ron-desantis-and-cabinet-deed-land-for-the-donald-j.-trump-presidential-library>
-  - <https://www.nbcmiami.com/news/local/lawsuit-challenges-vote-to-gift-prime-miami-real-estate-for-trumps-presidential-library/3702519/>
-  - <https://keyt.com/politics/cnn-us-politics/2026/05/13/locals-sue-to-block-prime-miami-land-from-becoming-trump-presidential-library/>
-- **Confirmed**: The foundation got fast-track IRS approval during the government shutdown.
-  - It applied on 10 Oct 2025 and received an IRS determination letter dated 20 Oct 2025, during the shutdown. Normal processing is 3-6 months, and lawyers called it 'virtually unheard of'. The request cited settlement money in limbo. The application projected ~$950M of contributions ($50M in 2025, $300M in 2026, $600M in 2027). The IRS declined comment, citing privacy. No evidence of political intervention was found; 'special treatment' is the Miami Herald's characterization.
-  - <https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/>
-  - <https://www.cpapracticeadvisor.com/2025/11/19/tax-documents-show-trump-library-is-counting-on-a-1-billion-fundraising-haul/173534/>
-  - <https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year>
-- **Mostly accurate**: The Qatari 747 is slated to go to the library foundation.
-  - Per C16, the jet is to transfer to the foundation by 1 Jan 2029, and Bondi and White House counsel called this legally permissible. It flew as Air Force One from mid-2026. A White House official said there was 'no final decision'. In Oct 2026 Eric Trump told NBC that displaying it in Miami is 'not the plan at the moment' and that an older retired Air Force One would be shown instead.
-  - <https://thepulseofnh.com/no-final-decision-on-future-of-qatar-donated-air-force-one-after-trumps-term-white-house-official-says/>
-- **Confirmed**: Foundation officers include Eric Trump, Michael Boulos and James Kiley.
-  - The May 2025 Florida incorporation lists Eric Trump (president and trustee), Michael Boulos (Tiffany Trump's husband) and James Kiley (an attorney who has represented Trump) as trustees. Tiffany Trump's inclusion is reported inconsistently and is unverified. The NYT found that a proposed budget allotted $400,000 to officers, while a Florida charity filing said none expected pay. The first fund's directors were not identified.
-  - <https://cbsnews.com/news/trump-library-democratic-congress>
-  - <https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year>
-  - <https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-organization-is-developing-trumps-presidential-library-maybe-as-a-trump-hotel/>
-- **Confirmed**: The land transfer has been challenged in court.
-  - In the state case, Marvin Dunn's Sunshine Law suit won a pause and then a temporary injunction (Oct-Nov 2025, Judge Mavel Ruiz; Dunn posted his home as bond). It was dismissed on 18 Dec 2025 after the MDC board re-voted. In the federal case, Sistrunk Seeds (Dunn's Overtown Farm) et al. v. Trump et al. (S.D. Fla. 1:2026cv23365) was filed on 13 May 2026 by the Constitutional Accountability Center and Gelber Schachter & Greenberg under the Domestic Emoluments Clause, alleging the 'library' is a hotel venture. In Sept 2026 Judge Rodolfo Ruiz II stayed discovery and said the immunity and standing defenses could 'dispose of the entire case'. No final ruling was found as of Nov 2026.
-  - <https://www.nbcnews.com/politics/donald-trump/trump-presidential-library-judge-blocks-miami-land-transfer-rcna237725>
-  - <https://www.local10.com/news/local/2025/11/03/judge-rules-to-temporarily-stop-transfer-of-miami-dade-college-land-for-trump-library>
-  - <https://www.wlrn.org/government-politics/2025-12-19/judge-dismisses-complaint-against-miami-land-transfer-for-trumps-presidential-library>
-  - <https://keyt.com/politics/cnn-us-politics/2026/05/13/locals-sue-to-block-prime-miami-land-from-becoming-trump-presidential-library/>
-  - <https://www.theusconstitution.org/litigation/sistrunk-seeds-v-trump/>
-  - <https://dockets.justia.com/docket/florida/flsdce/1:2026cv23365/714261>
-  - <https://www.nwaonline.com/news/2026/sep/13/dismissal-eyed-for-trump-library-suit/>
-- **False**: The foundation, White House and payers have explained the money trail.
-  - No on-record foundation response to reporters or to the lawmakers was found. The White House refers questions to the library. The companies told lawmakers they paid as their agreements required, without saying where the money went after the fund dissolved. The IRS declined comment.
-  - <https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/>
-  - <https://www.thedailybeast.com/donald-trumps-librarys-missing-millions-mystery-targeted-in-new-probe>
-  - <https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/>
+### 1. The first library fund was dissolved in Sept 2025 and ~$60M+ of settlement money earmarked for the library is unaccounted for, per Warren, Blumenthal and Stansbury.
 
-## Corrections
+**Partly accurate**
 
-- Brief says ~$60M+ is unaccounted for; after Trump's 30 Jun 2026 disclosure, $56.5M is shown as paid to the foundation, and the lawmakers' current allegation is $6.5M-$14.5M missing plus $7M of unexplained expenditures.
-- X's settlement (~$8M per the disclosure, not the ~$10M press figure) was paid to Trump personally, not to the library.
-- $67M is the county assessed value; reported estimates range from a $60M appraisal to ~$300M market value.
-- The 747 transfer to the library is the stated plan, not settled; Eric Trump says it is not planned for display in Miami.
+- The fund was incorporated in Florida on 20 Dec 2024 by Trump-entity lawyer Jacob Roth and administratively dissolved in late Sept 2025 for not filing an annual report.
+- The lawmakers' March-April 2026 letters alleged up to $63M lacked any public accounting.
+- Trump's OGE disclosure, released 30 Jun 2026, then showed $64.5M in total: $56.5M paid to the Foundation by Meta, ABC and Paramount, and $8M paid by X to Trump personally.
+- The lawmakers' 16 Jul 2026 letter alleges $6.5M-$14.5M missing and $7M of unexplained spending against the Foundation's reported $50M of revenue (as of 10 Oct 2025).
+- The dissolution and the allegation are documented, but 'unaccounted for' now refers to a much smaller gap, and that gap remains an allegation.
+- Amounts: up to $63M; $64.5M; $56.5M; $8M; $6.5M-$14.5M
+- Dates: 20 Dec 2024; late Sept 2025; April 2026; 30 Jun 2026; 16 Jul 2026
+- Sources: [1](https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami) [2](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-big-tech-ceos-on-trump-settlements-to-now-dissolved-library-fund) [3](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/) [4](https://www.warren.senate.gov/?p=39088) [5](https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf) [22](https://www.thedailybeast.com/donald-trumps-librarys-missing-millions-mystery-targeted-in-new-probe)
+
+### 2. A successor foundation received Miami Dade College land worth $67M+ for $10.
+
+**Confirmed**
+
+- The MDC trustees voted on 23 Sep 2025 to give the ~2.6-acre downtown parcel to the state.
+- DeSantis and the Cabinet (Board of Trustees of the Internal Improvement Trust Fund) voted unanimously on 30 Sep 2025 to deed it to the foundation for $10, on condition that construction starts within five years.
+- The county appraiser's 2025 assessment is more than $67M; one report cites a $60M appraisal, and plaintiffs estimate ~$300M market value.
+- The deed was recorded in Jan-Feb 2026.
+- Amounts: $10; more than $67M; $60M; ~$300M
+- Dates: 23 Sep 2025; 30 Sep 2025; Feb 2026
+- Sources: [9](https://www.myfloridacfo.com/news/pressreleases/press-release-details/2025/09/30/in-case-you-missed-it--governor-ron-desantis-and-cabinet-deed-land-for-the-donald-j.-trump-presidential-library) [10](https://www.nbcmiami.com/news/local/lawsuit-challenges-vote-to-gift-prime-miami-real-estate-for-trumps-presidential-library/3702519/) [14](https://keyt.com/politics/cnn-us-politics/2026/05/13/locals-sue-to-block-prime-miami-land-from-becoming-trump-presidential-library/)
+
+### 3. The foundation got fast-track IRS approval during the government shutdown.
+
+**Confirmed**
+
+- It applied on 10 Oct 2025 and received an IRS determination letter dated 20 Oct 2025, during the shutdown.
+- Normal processing is 3-6 months, and lawyers called it 'virtually unheard of'.
+- The request cited settlement money in limbo.
+- The application projected ~$950M of contributions ($50M in 2025, $300M in 2026, $600M in 2027).
+- The IRS declined comment, citing privacy.
+- No evidence of political intervention was found; 'special treatment' is the Miami Herald's characterization.
+- Amounts: ~$950M; $50M; $300M; $600M
+- Dates: 10 Oct 2025; 20 Oct 2025
+- Sources: [6](https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/) [7](https://www.cpapracticeadvisor.com/2025/11/19/tax-documents-show-trump-library-is-counting-on-a-1-billion-fundraising-haul/173534/) [8](https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year)
+
+### 4. The Qatari 747 is slated to go to the library foundation.
+
+**Mostly accurate**
+
+- Per C16, the jet is to transfer to the foundation by 1 Jan 2029, and Bondi and White House counsel called this legally permissible.
+- It flew as Air Force One from mid-2026.
+- A White House official said there was 'no final decision'.
+- In Oct 2026 Eric Trump told NBC that displaying it in Miami is 'not the plan at the moment' and that an older retired Air Force One would be shown instead.
+- Dates: 1 Jan 2029; mid-2026; Oct 2026
+- Sources: [21](https://thepulseofnh.com/no-final-decision-on-future-of-qatar-donated-air-force-one-after-trumps-term-white-house-official-says/)
+
+### 5. Foundation officers include Eric Trump, Michael Boulos and James Kiley.
+
+**Confirmed**
+
+- The May 2025 Florida incorporation lists Eric Trump (president and trustee), Michael Boulos (Tiffany Trump's husband) and James Kiley (an attorney who has represented Trump) as trustees.
+- Tiffany Trump's inclusion is reported inconsistently and is unverified.
+- The NYT found that a proposed budget allotted $400,000 to officers, while a Florida charity filing said none expected pay.
+- The first fund's directors were not identified.
+- Amounts: $400,000
+- Dates: May 2025
+- Sources: [20](https://cbsnews.com/news/trump-library-democratic-congress) [8](https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year) [18](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-organization-is-developing-trumps-presidential-library-maybe-as-a-trump-hotel/)
+
+### 6. The land transfer has been challenged in court.
+
+**Confirmed**
+
+- In the state case, Marvin Dunn's Sunshine Law suit won a pause and then a temporary injunction (Oct-Nov 2025, Judge Mavel Ruiz; Dunn posted his home as bond).
+- It was dismissed on 18 Dec 2025 after the MDC board re-voted.
+- In the federal case, Sistrunk Seeds (Dunn's Overtown Farm) et al. v. Trump et al. (S.D. Fla. 1:2026cv23365) was filed on 13 May 2026 by the Constitutional Accountability Center and Gelber Schachter & Greenberg under the Domestic Emoluments Clause, alleging the 'library' is a hotel venture.
+- In Sept 2026 Judge Rodolfo Ruiz II stayed discovery and said the immunity and standing defenses could 'dispose of the entire case'.
+- No final ruling was found as of Nov 2026.
+- Dates: Nov 2025; 18 Dec 2025; 13 May 2026; Sept 2026; Nov 2026
+- Sources: [11](https://www.nbcnews.com/politics/donald-trump/trump-presidential-library-judge-blocks-miami-land-transfer-rcna237725) [12](https://www.local10.com/news/local/2025/11/03/judge-rules-to-temporarily-stop-transfer-of-miami-dade-college-land-for-trump-library) [13](https://www.wlrn.org/government-politics/2025-12-19/judge-dismisses-complaint-against-miami-land-transfer-for-trumps-presidential-library) [14](https://keyt.com/politics/cnn-us-politics/2026/05/13/locals-sue-to-block-prime-miami-land-from-becoming-trump-presidential-library/) [15](https://www.theusconstitution.org/litigation/sistrunk-seeds-v-trump/) [16](https://dockets.justia.com/docket/florida/flsdce/1:2026cv23365/714261) [17](https://www.nwaonline.com/news/2026/sep/13/dismissal-eyed-for-trump-library-suit/)
+
+### 7. The foundation, White House and payers have explained the money trail.
+
+**False**
+
+- No on-record foundation response to reporters or to the lawmakers was found.
+- The White House refers questions to the library.
+- The companies told lawmakers they paid as their agreements required, without saying where the money went after the fund dissolved.
+- The IRS declined comment.
+- Sources: [3](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/) [22](https://www.thedailybeast.com/donald-trumps-librarys-missing-millions-mystery-targeted-in-new-probe) [6](https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/)
 
 ## Denials and context
 
@@ -92,85 +153,114 @@ Documented: the first Trump Presidential Library Fund (incorporated Dec 2024) wa
 
 ## People and organisations
 
-- [[ABC News]]
-- [[Citizens for Responsibility and Ethics in Washington]]
-- [[Constitutional Accountability Center]]
-- [[Donald J. Trump Presidential Library Foundation, Inc]]
-- [[Donald Trump]]
-- [[Elizabeth Warren]]
-- [[Elon Musk]]
-- [[Eric Trump]]
-- [[Florida Board of Trustees of the Internal Improvement Trust Fund]]
-- [[Internal Revenue Service]]
-- [[Jacob Roth]]
-- [[James Kiley]]
-- [[Marvin Dunn]]
-- [[Mavel Ruiz]]
-- [[Melanie Stansbury]]
-- [[Meta Platforms]]
-- [[Miami Dade College]]
-- [[Miami Dade College downtown parcel]]
-- [[Michael Boulos]]
-- [[Paramount]]
-- [[Qatar]]
-- [[Qatar Boeing 747 gift]]
-- [[Richard Blumenthal]]
-- [[Rodolfo A. Ruiz II]]
-- [[Ron DeSantis]]
-- [[Sistrunk Seeds v. Trump]]
-- [[Tiffany Trump]]
-- [[Trump Organization]]
-- [[Trump Presidential Library Fund, Inc]]
-- [[US Congress]]
-- [[White House Trump administration]]
-- [[X Corp]]
+- [[ABC News]] · Media
+- [[Citizens for Responsibility and Ethics in Washington]] · Company
+- [[Constitutional Accountability Center]] · Company
+- [[Donald J. Trump Presidential Library Foundation, Inc]] · Fund
+- [[Donald Trump]] · Person
+- [[Elizabeth Warren]] · Person
+- [[Elon Musk]] · Person
+- [[Eric Trump]] · Person
+- [[Florida Board of Trustees of the Internal Improvement Trust Fund]] · Government body
+- [[Internal Revenue Service]] · Government body
+- [[Jacob Roth]] · Person
+- [[James Kiley]] · Person
+- [[Marvin Dunn]] · Person
+- [[Mavel Ruiz]] · Person
+- [[Melanie Stansbury]] · Person
+- [[Meta Platforms]] · Company
+- [[Miami Dade College]] · Government body
+- [[Miami Dade College downtown parcel]] · Asset
+- [[Michael Boulos]] · Person
+- [[Paramount]] · Company
+- [[Qatar]] · Country
+- [[Qatar Boeing 747 gift]] · Asset
+- [[Richard Blumenthal]] · Person
+- [[Rodolfo A. Ruiz II]] · Person
+- [[Ron DeSantis]] · Person
+- [[Sistrunk Seeds v. Trump]] · Event
+- [[Tiffany Trump]] · Person
+- [[Trump Organization]] · Company
+- [[Trump Presidential Library Fund, Inc]] · Fund
+- [[US Congress]] · Government body
+- [[White House Trump administration]] · Government body
+- [[X Corp]] · Company
 
 ## Relationships documented
 
-- [[ABC News]] *settlement paid to (per 2025 disclosure)* [[Donald J. Trump Presidential Library Foundation, Inc]] (2024-12, $15M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Constitutional Accountability Center]] *counsel for plaintiffs in* [[Sistrunk Seeds v. Trump]] (2026-05-13, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Citizens for Responsibility and Ethics in Washington]] *reported on Trump Organization role and hotel plans* [[Donald J. Trump Presidential Library Foundation, Inc]] (2026, media) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Elizabeth Warren]] *questioned on library settlement* [[ABC News]] (2026-03-11, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Elizabeth Warren]] *questioned on library settlement* [[Meta Platforms]] (2026-03-11, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Elizabeth Warren]] *questioned on library settlement* [[Paramount]] (2026-03-11, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Elizabeth Warren]] *pressed on $6.5M-$14.5M missing and $7M unexplained spending* [[Donald J. Trump Presidential Library Foundation, Inc]] (2026-07-16, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Elizabeth Warren]] *questioned on library settlement* [[X Corp]] (2026-03-11, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Elon Musk]] *owns* [[X Corp]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Eric Trump]] *executive of* [[Trump Organization]] (ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Eric Trump]] *president and trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-05, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Florida Board of Trustees of the Internal Improvement Trust Fund]] *deeded $67M+ parcel for $10* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-09-30, $67M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Internal Revenue Service]] *granted tax exemption in 10 days during shutdown* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-10-20, regulatory) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Jacob Roth]] *incorporated* [[Trump Presidential Library Fund, Inc]] (2024-12-20, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[James Kiley]] *has served as attorney for* [[Donald Trump]] (legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[James Kiley]] *trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-05, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Marvin Dunn]] *sued under Sunshine Law (dismissed 18 Dec 2025)* [[Miami Dade College]] (2025-10, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Mavel Ruiz]] *enjoined then dismissed suit against* [[Miami Dade College]] (2025-12-18, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Melanie Stansbury]] *co-signed inquiry into* [[Donald J. Trump Presidential Library Foundation, Inc]] (2026-07-16, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Meta Platforms]] *settlement paid to (part of $56.5M with ABC, Paramount)* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Miami Dade College]] *gave downtown parcel to state* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] (2025-09-23, regulatory) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Michael Boulos]] *married to* [[Tiffany Trump]] (2022-11-12, family) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Michael Boulos]] *trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-05, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Paramount]] *settlement paid to* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-07, $16M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Qatar]] *gifted* [[Qatar Boeing 747 gift]] (2025-05, $400M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Qatar Boeing 747 gift]] *slated to transfer to by 2029 (not final)* [[Donald J. Trump Presidential Library Foundation, Inc]] (2029-01-01, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Richard Blumenthal]] *co-signed inquiry into* [[Donald J. Trump Presidential Library Foundation, Inc]] (2026-07-16, political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Rodolfo A. Ruiz II]] *stayed discovery pending immunity/standing* [[Sistrunk Seeds v. Trump]] (2026-09, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Ron DeSantis]] *chairs* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] (political) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Sistrunk Seeds v. Trump]] *emoluments suit against* [[Donald Trump]] (2026-05-13, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Sistrunk Seeds v. Trump]] *seeks to void land gift to* [[Donald J. Trump Presidential Library Foundation, Inc]] (2026-05-13, legal) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Trump Organization]] *involved in developing library project (per Eric Trump)* [[Donald J. Trump Presidential Library Foundation, Inc]] (2026, commercial) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Donald J. Trump Presidential Library Foundation, Inc]] *owns* [[Miami Dade College downtown parcel]] (2026-01, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Trump Presidential Library Fund, Inc]] *dissolved, succeeded by (asset transfer unconfirmed)* [[Donald J. Trump Presidential Library Foundation, Inc]] (2025-09, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[X Corp]] *settlement paid personally (per 2025 OGE disclosure)* [[Donald Trump]] (2025, $8M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+### Money (6)
 
-## Leads not covered by the video
+- [[ABC News]] *settlement paid to (per 2025 disclosure)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2024-12 · $15M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Meta Platforms]] *settlement paid to (part of $56.5M with ABC, Paramount)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[X Corp]] *settlement paid personally (per 2025 OGE disclosure)* [[Donald Trump]] · 2025 · $8M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Qatar]] *gifted* [[Qatar Boeing 747 gift]] · 2025-05 · $400M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Paramount]] *settlement paid to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-07 · $16M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Florida Board of Trustees of the Internal Improvement Trust Fund]] *deeded $67M+ parcel for $10* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-09-30 · $67M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 
-- **Library tower as a Trump hotel developed by the Trump Organization**: Trump said the Miami library will 'most likely' be a hotel; Eric Trump (a foundation trustee) says the Trump Organization is developing it, which bears on whether the $10 public land gift benefits the family business. [source](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-organization-is-developing-trumps-presidential-library-maybe-as-a-trump-hotel/) · [[Trump Organization]] [[Eric Trump]] [[Donald J. Trump Presidential Library Foundation, Inc]] [[Miami Dade College downtown parcel]]
-- **X's ~$8M settlement paid to Trump personally rather than the library**: Trump's 2025 OGE disclosure lists the X payment as income to Trump, contrary to the assumption that all four settlements went to the library. [source](https://www.warren.senate.gov/?p=39088) · [[X Corp]] [[Donald Trump]] [[Elon Musk]]
-- **Foundation officer pay discrepancy ($400K budget vs. no compensation filing)**: Reporting on the foundation's Florida charity filing found a proposed budget allotting $400K to officers (Eric Trump, Boulos and two lawyers) while another filing said none would be paid (NYT finding relayed in search results; not independently fetched). [source](https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year) · [[Eric Trump]] [[Michael Boulos]] [[James Kiley]] [[Donald J. Trump Presidential Library Foundation, Inc]]
+### Ownership (8)
 
-## Sources
+- [[Eric Trump]] *president and trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[James Kiley]] *trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Michael Boulos]] *trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Trump Presidential Library Fund, Inc]] *dissolved, succeeded by (asset transfer unconfirmed)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-09 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Donald J. Trump Presidential Library Foundation, Inc]] *owns* [[Miami Dade College downtown parcel]] · 2026-01 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Qatar Boeing 747 gift]] *slated to transfer to by 2029 (not final)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2029-01-01 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Elon Musk]] *owns* [[X Corp]] · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Eric Trump]] *executive of* [[Trump Organization]] · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+
+### Family (2)
+
+- [[Michael Boulos]] *married to* [[Tiffany Trump]] · 2022-11-12 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Eric Trump]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+### Regulatory (2)
+
+- [[Miami Dade College]] *gave downtown parcel to state* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] · 2025-09-23 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Internal Revenue Service]] *granted tax exemption in 10 days during shutdown* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-10-20 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+
+### Political (8)
+
+- [[Elizabeth Warren]] *questioned on library settlement* [[ABC News]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Elizabeth Warren]] *questioned on library settlement* [[Meta Platforms]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Elizabeth Warren]] *questioned on library settlement* [[Paramount]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Elizabeth Warren]] *questioned on library settlement* [[X Corp]] · 2026-03-11 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Elizabeth Warren]] *pressed on $6.5M-$14.5M missing and $7M unexplained spending* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-07-16 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Melanie Stansbury]] *co-signed inquiry into* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-07-16 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Richard Blumenthal]] *co-signed inquiry into* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-07-16 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Ron DeSantis]] *chairs* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+
+### Legal (8)
+
+- [[Jacob Roth]] *incorporated* [[Trump Presidential Library Fund, Inc]] · 2024-12-20 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Marvin Dunn]] *sued under Sunshine Law (dismissed 18 Dec 2025)* [[Miami Dade College]] · 2025-10 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Mavel Ruiz]] *enjoined then dismissed suit against* [[Miami Dade College]] · 2025-12-18 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Constitutional Accountability Center]] *counsel for plaintiffs in* [[Sistrunk Seeds v. Trump]] · 2026-05-13 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Sistrunk Seeds v. Trump]] *emoluments suit against* [[Donald Trump]] · 2026-05-13 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Sistrunk Seeds v. Trump]] *seeks to void land gift to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-05-13 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Rodolfo A. Ruiz II]] *stayed discovery pending immunity/standing* [[Sistrunk Seeds v. Trump]] · 2026-09 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[James Kiley]] *has served as attorney for* [[Donald Trump]] · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+
+### Media (1)
+
+- [[Citizens for Responsibility and Ethics in Washington]] *reported on Trump Organization role and hotel plans* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+
+### Commercial (1)
+
+- [[Trump Organization]] *involved in developing library project (per Eric Trump)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+
+## Leads not covered here
+
+- **Library tower as a Trump hotel developed by the Trump Organization**
+  - Trump said the Miami library will 'most likely' be a hotel; Eric Trump (a foundation trustee) says the Trump Organization is developing it, which bears on whether the $10 public land gift benefits the family business.
+  - [[Trump Organization]] [[Eric Trump]] [[Donald J. Trump Presidential Library Foundation, Inc]] [[Miami Dade College downtown parcel]] · [Source](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-organization-is-developing-trumps-presidential-library-maybe-as-a-trump-hotel/)
+- **X's ~$8M settlement paid to Trump personally rather than the library**
+  - Trump's 2025 OGE disclosure lists the X payment as income to Trump, contrary to the assumption that all four settlements went to the library.
+  - [[X Corp]] [[Donald Trump]] [[Elon Musk]] · [Source](https://www.warren.senate.gov/?p=39088)
+- **Foundation officer pay discrepancy ($400K budget vs. no compensation filing)**
+  - Reporting on the foundation's Florida charity filing found a proposed budget allotting $400K to officers (Eric Trump, Boulos and two lawyers) while another filing said none would be paid (NYT finding relayed in search results; not independently fetched).
+  - [[Eric Trump]] [[Michael Boulos]] [[James Kiley]] [[Donald J. Trump Presidential Library Foundation, Inc]] · [Source](https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year)
+
+## Sources (22)
 
 1. [Trump presidential library nonprofit dissolved before Miami land transfer](https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami) (WLRN (AP), 2025-10-16)
 2. [Warren, Blumenthal, Stansbury Press Big Tech CEOs on Trump Settlements to Now-Dissolved Library Fund](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-big-tech-ceos-on-trump-settlements-to-now-dissolved-library-fund) (Office of Sen. Elizabeth Warren, 2026-03-11)

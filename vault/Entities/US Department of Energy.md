@@ -10,9 +10,13 @@ tags:
 ---
 # US Department of Energy
 
-*government*
-
 Negotiated the Saudi 123 agreement
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Negotiated the Saudi 123 agreement
 
 ## Relationships
 
-- [[US Department of Energy]] *submitted 123 agreement to* [[US Congress]] (2026-08-25, regulatory) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+### Regulatory (1)
+
+- [[US Department of Energy]] *submitted 123 agreement to* [[US Congress]] · 2026-08-25 · [[C56 Saudi Arabia family deals alongside US policy|C56]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Kris Marszalek
 
-*person*
-
 Crypto.com CEO who announced the SEC closure
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Crypto.com CEO who announced the SEC closure
 
 ## Relationships
 
-- [[Kris Marszalek]] *CEO of* [[Crypto.com]] (ownership) · [[C22 Crypto.com and TMTG|C22]]
+### Ownership (1)
+
+- [[Kris Marszalek]] *CEO of* [[Crypto.com]] · [[C22 Crypto.com and TMTG|C22]]

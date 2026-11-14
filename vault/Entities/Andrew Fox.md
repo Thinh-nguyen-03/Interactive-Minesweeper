@@ -10,9 +10,13 @@ tags:
 ---
 # Andrew Fox
 
-*person*
-
 Powerus CEO and chairman
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Powerus CEO and chairman
 
 ## Relationships
 
-- [[Andrew Fox]] *CEO and chairman of* [[Powerus Corp]] (commercial) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+### Commercial (1)
+
+- [[Andrew Fox]] *CEO and chairman of* [[Powerus Corp]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]

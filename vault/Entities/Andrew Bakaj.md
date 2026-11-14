@@ -10,14 +10,22 @@ tags:
 ---
 # Andrew Bakaj
 
-*person*
-
 Whistleblower's attorney.
+
+> [!warning] Appears in only an unverified, single-source allegation ([[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]). Nothing in it has been independently corroborated.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
-- [[Andrew Bakaj]] *represents whistleblower complaining about* [[Tulsi Gabbard]] (2025-05-21, legal) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
+### Legal (1)
+
+- [[Andrew Bakaj]] *represents whistleblower complaining about* [[Tulsi Gabbard]] · 2025-05-21 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation

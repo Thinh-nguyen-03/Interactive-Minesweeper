@@ -10,9 +10,15 @@ tags:
 ---
 # DT Marks SC LLC
 
-*company*
-
 Trump-affiliated investor entity giving passivity commitments in CD #1385
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 3 claims |
+| Connections | 5 |
+
+## How other claims describe it
 
 - Trump-family-linked investor in WLTC Holdings (reported about 38%).
 - Trump-family passive investor in WLTC Holdings (OCC CD #1385)
@@ -25,6 +31,8 @@ Trump-affiliated investor entity giving passivity commitments in CD #1385
 
 ## Relationships
 
-- [[DT Marks SC LLC]] *passive investor in (OCC CD #1385); ~38% Trump-family stake reported* [[WLTC Holdings LLC]] (2026-08-14, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[DT Marks SC LLC]] *reportedly owns about 38% of* [[WLTC Holdings LLC]] (2026-08-27, ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[DT Marks SC LLC]] *investor giving passivity commitments in* [[World Liberty Trust Company, N.A]] (2026-08-14, ownership) · [[C12 WLF bank charter from the OCC|C12]]
+### Ownership (3)
+
+- [[DT Marks SC LLC]] *passive investor in (OCC CD #1385); ~38% Trump-family stake reported* [[WLTC Holdings LLC]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
+- [[DT Marks SC LLC]] *investor giving passivity commitments in* [[World Liberty Trust Company, N.A]] · 2026-08-14 · [[C12 WLF bank charter from the OCC|C12]]
+- [[DT Marks SC LLC]] *reportedly owns about 38% of* [[WLTC Holdings LLC]] · 2026-08-27 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]

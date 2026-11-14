@@ -4,122 +4,232 @@ kind: "claim"
 title: "Lobbyists and fixers: who gets paid to reach the White House"
 verdict: "mostly-accurate"
 confidence: "medium"
-origin: "follow-up"
+origin: "connection-hunt"
 aliases:
   - "C64"
 tags:
   - "claim"
-  - "origin/follow-up"
+  - "origin/connection-hunt"
   - "verdict/mostly-accurate"
 ---
 # C64: Lobbyists and fixers: who gets paid to reach the White House
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Connection hunt
 
-## Lead investigated
+## Bottom line
 
-> Connection hunt: the lobbying and access layer — Ballard Partners (Brian Ballard; former employer of AG Pam Bondi and chief of staff Susie Wiles; clients incl. Qatar, crypto firms, foreign governments), Mercury, Miller Strategies, Checkmate/Ches McDowell, Continental Strategy (Carlos Trujillo), Roger Stone, Keith Schiller, Corey Lewandowski, Jason Miller/Kash Patel's former foreign clients, Arthur Schwartz. Find which clients in this project hired them, fees, the dates versus outcomes, and officials' prior client relationships with beneficiaries (e.g. Bondi's Qatar work before the jet memo).
+The access layer is well documented.
 
-## Summary
+## What holds up
 
-The access layer is well documented. AG Bondi lobbied for Qatar at Ballard before her office cleared the Qatari jet; Patel consulted for Qatar's embassy before signing security deals with it as FBI director; Ballard, Miller Strategies and Checkmate represent crypto firms, Kalshi, the Saudi embassy, most corporate ballroom donors, and Binance in its pardon push; and Pakistan paid three Trump-tied firms (Seiden, Schiller/Sorial's Javelin, Checkmate) in the same weeks WLF signed its Pakistan deal. No source shows a payment buying an outcome, Ballard was reportedly frozen out of the White House after the XRP post, and the WLF-lobbyist and Saudi-decision overlaps are our own inference. No client in this project was found for Lewandowski, Arthur Schwartz or Mercury in 2025.
+- Pam Bondi lobbied for Qatar at Ballard Partners, then as AG signed the memo clearing the Qatari 747 gift.
+- Kash Patel was a paid consultant to Qatar's embassy, then as FBI director signed security agreements with Qatar.
+- Ballard's crypto clients (Kraken, Blockchain.com, Ripple) and the March 2025 XRP Truth Social post (mostly accurate)
+- Ballard Partners represents the Saudi embassy.
+- Most corporate ballroom donors are clients of Ballard, Miller Strategies or Michael Best Strategies.
+- Jeff Miller's Miller Strategies works for a cluster of crypto and prediction-market firms, including Kalshi, where Donald Trump Jr. is an adviser (mostly accurate)
+- Checkmate / Ches McDowell: Binance, Pakistan, Panama and a partnership with Ballard.
+- Pakistan paid three Trump-tied firms (Seiden Law, Javelin Advisors, Checkmate) in Apr-May 2025 while WLF signed its Pakistan deal (mostly accurate)
+- Jason Miller's SHW Partners is paid $1.8M a year by India's embassy.
+- Brad Bondi, the Attorney General's brother, was Trevor Milton's SEC defense lawyer.
+- Roger Stone and Keith Schiller acted as paid pardon intermediaries.
 
-## Sub-claims
+## What needs correcting
 
-- **Confirmed**: Pam Bondi lobbied for Qatar at Ballard Partners, then as AG signed the memo clearing the Qatari 747 gift.
-  - Evidence: documented. Ballard registered under FARA for Qatar in 2019 with Bondi named on the contract; the firm (not Bondi personally) was paid $115,000/month. Bondi left Ballard in Nov 2019, returned Mar 2020 and resumed the Qatar work; Quincy says she was registered for Qatar's embassy until 2021. In May 2025 Bondi reportedly signed the DOJ memo finding acceptance 'legally permissible', premised on transfer to the Trump library foundation; American Oversight sued for it in Jul 2025. No recusal found. Shows a prior paid relationship with the donor government; does not show the memo was improper. Exact memo date not re-verified (search budget exhausted).
-  - <https://readsludge.com/2025/05/12/former-qatar-lobbyist-pam-bondi-approves-jet-deal/>
-  - <https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html>
-  - <https://accountable.us/2025-05-14-research-on-bondi-qatar-lobbying-jet>
-  - <https://americanoversight.org/doj-sued-for-withholding-legal-memo-on-trump-administrations-400-million-jet-gifted-by-qatar/>
-  - <https://quincyinst.org/research/soft-power-hard-influence-how-qatar-became-a-giant-in-washington/>
-- **Confirmed**: Kash Patel was a paid consultant to Qatar's embassy, then as FBI director signed security agreements with Qatar.
-  - Evidence: documented. Patel's financial disclosure (public 2025-02-01, after his hearing) listed the Qatari embassy as a client of Trishul LLC (about $2.1M total firm income; Qatar portion only reported as >$5,000). He did not register under FARA. A later disclosure shows an ethics waiver dated Mar 4 for a 'particular matter related to Qatar'. In Dec 2025 he signed bilateral security agreements with Qatar and said he would recuse from related work for one year and keep Trishul dormant. The nature of the Qatar work remains undisclosed.
-  - <https://responsiblestatecraft.org/kash-patel-qatar/>
-  - <https://practice.motherjones.com/politics/2025/05/kash-patel-qatar-fbi-trump>
-  - <https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/>
-  - <https://www.citizen.org/article/letter-to-senate-judiciary-committee-kash-patels-undisclosed-consulting-services-for-qatar-require-immediate-examination/>
-- **Partly accurate**: Susie Wiles came from Ballard and Mercury, both of which have represented Qatar.
-  - Evidence: employment documented; Wiles-Qatar link single-source. Wiles lobbied at Ballard (2011-2019 per Public Citizen; later end date per OpenSecrets) and co-chaired Mercury's Florida/DC offices from Feb 2022 to 2024. Mercury's documented Qatar embassy contracts (2015, $930K/6 months; 2019, $360K/year) predate her arrival; only Il Foglio says she 'led' Mercury while it represented Qatar. Her documented foreign clients include Nigeria's PDP and Globovision. After Nov 2024 Ballard signed at least 15 foreign principals and Mercury at least 7 (Washington Examiner). No 2025 Mercury contract with Qatar, UAE, Binance or Justin Sun found.
-  - <https://readsludge.com/2024/11/08/trump-selects-corporate-lobbyist-susie-wiles-as-chief-of-staff/>
-  - <https://www.coloradopolitics.com/2025/03/06/america-first-adjacent-lobbyists-line-up-to-sell-influence-to-foreigners-e22a2e53-b625-5917-bff9-bdd2b33e178f/>
-  - <https://www.odwyerpr.com/story/public/3852/2015-01-13/qatar-buttresses-dc-coverage.html>
-  - <https://www.odwyerpr.com/story/public/13519/2019-12-12/mercury-pa-targets-ngos-for-qatar.html>
-  - <https://www.ilfoglio.it/esteri/2025/05/15/news/i-legami-trumpiani-col-qatar-e-la-folle-apertura-alliran-non-esistono-nemici-permanenti--117660>
-- **Mostly accurate**: Ballard's crypto clients (Kraken, Blockchain.com, Ripple) and the March 2025 XRP Truth Social post.
-  - Evidence: hires documented; White House freeze single-source (Politico, anonymous). Kraken and Blockchain.com hired Ballard in Dec 2024 ($60K combined; C52); SEC dismissed Kraken 2025-03-27 (C23). Politico: a Ballard employee pressed Trump at a Mar-a-Lago event in early Mar 2025 to promote a crypto reserve; Trump's post then named XRP (Ripple is a Ballard client); Sacks complained to Wiles; staff were told not to meet Ballard ('He is not welcome in anything anymore'); Ballard then dropped Politico's parent as a client. SEC-Ripple cross-appeals were dropped 2025-08-07 with the $125M penalty intact (C23). Shows access that preceded a market-moving presidential post and then backfired.
-  - <https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html>
-  - <https://www.rawstory.com/trump-2671918956>
-  - <https://cryptopotato.com/trumps-ripple-xrp-post-fallout-how-the-white-house-sidelined-lobbyist-report/>
-  - <https://floridapolitics.com/archives/738108-ballard-partners-dumps-politicos-parent-company-after-report-firm-was-iced-out-of-white-house>
-  - <https://www.yahoo.com/news/trump-whisperer-west-wing-pariah-085500000.html>
-- **Confirmed**: Ballard Partners represents the Saudi embassy.
-  - Evidence: documented (FARA via Sludge and Washington Examiner/Denver Gazette). Contract signed 2025-03-31 at $60,000/month ($720K/year) for communications, events and outreach. Sludge (Feb 2026) also lists DRC, Japan, South Korea (Korea Zinc), Uzbekistan and an Albanian client; Ballard set a record $88.1M 2025 revenue. Any link to Saudi decisions in this project (PIF money in Affinity, C15; F-35 sale; MNNA status) is inferred from co-occurrence; no source asserts it.
-  - <https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/>
-  - <https://www.coloradopolitics.com/2025/05/22/saudi-cash-buys-meetings-with-senators-and-prime-media-coverage-8b3969b0-686c-5fdb-8e16-d48edba59452/>
-  - <https://readsludge.com/2026/02/13/k-streets-trump-boom/>
-- **Confirmed**: Most corporate ballroom donors are clients of Ballard, Miller Strategies or Michael Best Strategies.
-  - Evidence: documented (Public Citizen, Nov 2025; CBS). 17 of 26 known corporate donors were clients of the three firms: Ballard 11 (incl. Ripple, Palantir, Amazon), Miller 6 (incl. Tether, Apple, Palantir), Priebus's firm 5. Ballard and Jeff Miller attended a White House ballroom fundraising dinner. Sens. Blumenthal, Warren and Schiff sent questions to Ballard, Miller, Priebus and Meredith O'Rourke; all declined comment to CBS. Tether's other project ties: Cantor/Lutnick (C35, C50).
-  - <https://www.citizen.org/news/three-of-d-c-s-biggest-lobbyists-represent-two-thirds-of-the-corporate-donors-to-trumps-white-house-ballroom/>
-  - <https://www.cbsnews.com/news/corporate-trump-ballroom-donors-represented-by-3-lobbying-firms>
-- **Mostly accurate**: Jeff Miller's Miller Strategies works for a cluster of crypto and prediction-market firms, including Kalshi, where Donald Trump Jr. is an adviser.
-  - Evidence: each hire documented; the pattern and any coordination inferred. Miller (finance chair of Trump's inaugural festivities) represents Crypto.com (SEC probe closed 2025-03-27; C43/C52), Gemini (CFTC vacatur bid denied Oct 2026; C52), Tether (ballroom donor) and Kalshi, which paid Miller Strategies $240K in H1 2026, its largest outside firm (Stateline, Oct 2026). Trump Jr. is a strategic adviser to Kalshi and an investor in and adviser to Polymarket (C25). Polymarket's first federal lobbyist (registered Jul 2025) was ex-Trump campaign adviser David Urban. No source says Miller and Trump Jr. coordinated.
-  - <https://stateline.org/2026/10/01/prediction-markets-spending-millions-to-influence-state-federal-governments/>
-  - <https://casinobeats.com/2025/08/27/donald-trump-jr-now-serves-as-advisor-to-prediction-market-rivals-polymarket-kalshi/>
-  - <https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html>
-- **Confirmed**: Checkmate / Ches McDowell: Binance, Pakistan, Panama and a partnership with Ballard.
-  - Evidence: documented. Binance paid Checkmate $450K for Sept 2025 'executive relief' lobbying before the CZ pardon (C36); McDowell says Trump Jr. did not help. Checkmate reported >$22M 2025 federal revenue (Bloomberg Government). Clients also include the Sports Betting Alliance, the Panama Maritime Authority ($195K/month) and Pakistan via Dubai-based Greystone Investment & Management ($100K Phase 1 from 2025-05-15, with an option to expand; amounts vary by outlet). Ballard and Checkmate announced a strategic partnership (Florida Politics; date not established).
-  - <https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington>
-  - <https://news.bloomberglaw.com/ip-law/trump-linked-lobbyists-land-big-money-foreign-client-contracts>
-  - <https://www.odwyerpr.com/story/public/23166/2025-06-18/checkmate-checks-for-pakistan.html>
-  - <https://www.odwyerpr.com/story/public/23048/2025-05-23/panama-maritime-authority-calls-checkmate.html>
-  - <https://floridapolitics.com/archives/742763-ballard-partners-checkmate-government-relations-announce-strategic-partnership>
-  - <https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us>
-- **Mostly accurate**: Pakistan paid three Trump-tied firms (Seiden Law, Javelin Advisors, Checkmate) in Apr-May 2025 while WLF signed its Pakistan deal.
-  - Evidence: each element documented; the lobbying-WLF overlap inferred. Seiden Law signed 2025-04-08 at $200K/month for six months (FARA 7570, via Nukta). Javelin Advisors (Keith Schiller, George Sorial) registered 2025-04-24/25 (FARA 7579) as Seiden's subcontractor at about $50K/month (one outlet says $125K). Checkmate from 2025-05-15. On 2025-04-26 WLF's Zach Witkoff, Zak Folkman and Chase Herro signed a letter of intent with the Pakistan Crypto Council in Islamabad. Council CEO Bilal Bin Saqib became an unpaid WLF adviser in Apr 2025, and CZ had been named a Council adviser earlier that month. Trump hosted Gen. Asim Munir on 2025-06-18 with Steve Witkoff present; a Jul 2025 trade deal set a 19% tariff; in Jan 2026 WLF affiliate SC Financial signed an MOU on USD1. Bloomberg (2026-03-29) credits Bin Saqib's crypto outreach. No source found says the paid lobbyists arranged the WLF deal or the lunch; Dawn's insiders cite 'unconventional means' without names.
-  - <https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us>
-  - <https://www.dawn.com/news/1907874>
-  - <https://sundayguardianlive.com/world/in-trumps-washington-pak-quietly-erects-its-largest-ever-influence-network-133161/>
-  - <https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf>
-  - <https://propakistani.pk/2025/04/26/pakistan-crypto-council-partners-with-trump-backed-wlf-to-boost-crypto-adoption/>
-  - <https://cointelegraph.com/news/trump-world-liberty-financial-partners-with-pakistan-crypto-council>
-  - <https://decrypt.co/322221/pakistan-world-liberty-financial-advisor-government-role-crypto?amp=1>
-  - <https://decrypt.co/354567/pakistan-to-explore-stablecoin-remittances-via-affiliate-of-trump-linked-world-liberty-financial>
-  - <https://www.bloomberg.com/news/features/2026-03-29/how-a-35-year-old-crypto-bro-from-pakistan-won-over-trump>
-  - <https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off>
-  - <https://www.dawn.com/news/1918044/army-chief-joins-trump-for-historic-white-house-lunch>
-  - <https://www.dawn.com/news/1918057/trump-coas-meeting-secured-via-unconventional-means-say-insiders>
-- **Confirmed**: Jason Miller's SHW Partners is paid $1.8M a year by India's embassy.
-  - Evidence: documented (FARA, as reported by ThePrint, Business Today and Dawn). Hired 2025-04-24 at $150K/month ($1.8M/year), the same day-range as Pakistan's Javelin registration; renewed 2026-04-24 through 2027-04-23. Filings show requests for calls with trade and White House officials, and three meetings with Ambassador Sergio Gor in Nov-Dec 2025. India is not otherwise a project entity. No Kash Patel foreign client beyond Qatar was found in this search.
-  - <https://theprint.in/diplomacy/india-renews-1-8-mn-contract-with-trump-ally-jason-millers-lobbying-firm-for-another-year/2979822/>
-  - <https://www.businesstoday.in/india/story/india-renews-lobbying-deal-with-trump-ally-jason-miller-for-rs-17-crore-542123-2026-07-09>
-  - <https://www.dawn.com/news/1965551>
-- **Confirmed**: Brad Bondi, the Attorney General's brother, was Trevor Milton's SEC defense lawyer.
-  - Evidence: documented (C36). Milton, a $1.8M+ donor, was pardoned 2025-03-28 and the SEC dropped its case in Sep 2025 (C36, C49). Shows a family tie inside the pardon/enforcement chain; does not show that Pam Bondi intervened.
-  - <https://www.law360.com/bankruptcy-authority/articles/2387230>
-- **Confirmed**: Roger Stone and Keith Schiller acted as paid pardon intermediaries.
-  - Evidence: documented (C36, C49). Roger Ver paid Stone $600K, disclosed as exit-tax lobbying; Ver fired him in Dec 2025, and Stone was later hired for Nigerian Christians advocacy. Fred Daibes paid Schiller's Javelin Advisors $1M in Q1 2025 and got no pardon. Javelin is the common node between the pardon market (C49) and Pakistan (above). Stone denies lobbying the executive branch for Ver.
-  - <https://decrypt.co/316387/bitcoin-jesus-pays-trump-ally-roger-stone-600000-to-lobby-against-exit-tax>
-  - <https://www.floridabulldog.org/2026/02/fired-couldnt-deliver-pardon-roger-stone-hired-aid-nigeria-christians/>
-  - <https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278>
-- **Partly accurate**: Continental Strategy (Carlos Trujillo) works for Albania.
-  - Evidence: contract documented; Kushner link not connected. In late Apr 2025 Sali Berisha's opposition Democratic Party signed a reported $250K/month, two-year contract with Continental, paid by a third party; Albania opened a probe of a $6M DP contract. Continental also registered Vima World SL, and its revenue rose about 2,800% in Q1 2025. Kushner's Albania projects are with Rama's government (C45), the other side, so no connection was found. Ballard represented Rama's Socialist Party in 2017 at $20K/month; a 2025-26 Ballard Albania client listed by Sludge is unidentified.
-  - <https://www.ksat.com/news/world/2025/05/08/chris-lacivita-paul-manafort-are-among-ex-trump-aides-working-to-make-albania-grandiose-again/>
-  - <https://www.intellinews.com/albania-probes-democratic-party-s-6mn-us-lobbying-contract-378453>
-  - <https://floridapolitics.com/archives/236352-ballard-partners-latest-federal-signing-ruling-party-albania>
-  - <https://legis1.com/news/cuba-sanctions-lobbying-continental-strategy>
-  - <https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/>
-- **Unverified**: Lewandowski, Arthur Schwartz and Mercury have clients in this project.
-  - Evidence: none found. Lewandowski is a DHS special government employee under House Oversight inquiry (Rep. Garcia) and an American Oversight FOIA suit over his status and any private clients; no client in this project was found. Arthur Schwartz appears only as 1789 Capital's spokesman (C51). No 2025 Mercury client in this project was found.
-  - <https://www.axios.com/2025/09/05/corey-lewandowksi-trump-aide-probe-expands>
-  - <https://www.axios.com/2026/01/23/corey-lewandowski-kristi-noem-homeland-security>
-
-## Corrections
-
+- Susie Wiles came from Ballard and Mercury, both of which have represented Qatar (partly accurate)
+- Continental Strategy (Carlos Trujillo) works for Albania (partly accurate)
 - Bondi did not personally earn $115K/month; that was Ballard's Qatar fee.
 - The claim that Wiles 'led' Mercury's Qatar work is single-source (Il Foglio), and Mercury's documented Qatar contracts (2015, 2019) predate her arrival in 2022.
 - 2025 Albanian lobbying by Trump-world operatives (Continental, LaCivita, Manafort) is for Berisha's opposition, not Rama's government, Kushner's partner.
 - Ballard's access is contested: Politico reports he was frozen out after the Mar 2025 XRP post.
+
+## What is unproven
+
+- Lewandowski, Arthur Schwartz and Mercury have clients in this project.
+
+## In more detail
+
+- AG Bondi lobbied for Qatar at Ballard before her office cleared the Qatari jet; Patel consulted for Qatar's embassy before signing security deals with it as FBI director; Ballard, Miller Strategies and Checkmate represent crypto firms, Kalshi, the Saudi embassy, most corporate ballroom donors, and Binance in its pardon push; and Pakistan paid three Trump-tied firms (Seiden, Schiller/Sorial's Javelin, Checkmate) in the same weeks WLF signed its Pakistan deal.
+- No source shows a payment buying an outcome, Ballard was reportedly frozen out of the White House after the XRP post, and the WLF-lobbyist and Saudi-decision overlaps are our own inference.
+- No client in this project was found for Lewandowski, Arthur Schwartz or Mercury in 2025.
+
+## Connections searched for
+
+> Connection hunt: the lobbying and access layer — Ballard Partners (Brian Ballard; former employer of AG Pam Bondi and chief of staff Susie Wiles; clients incl. Qatar, crypto firms, foreign governments), Mercury, Miller Strategies, Checkmate/Ches McDowell, Continental Strategy (Carlos Trujillo), Roger Stone, Keith Schiller, Corey Lewandowski, Jason Miller/Kash Patel's former foreign clients, Arthur Schwartz. Find which clients in this project hired them, fees, the dates versus outcomes, and officials' prior client relationships with beneficiaries (e.g. Bondi's Qatar work before the jet memo).
+
+## Follow-up checks
+
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Pending
+- [[C73 Qatar's access network inside and around the administration]] · Pending
+
+## Sub-claims
+
+### 1. Pam Bondi lobbied for Qatar at Ballard Partners, then as AG signed the memo clearing the Qatari 747 gift.
+
+**Confirmed** · Evidence: Documented. Ballard registered under FARA for Qatar in 2019 with Bondi named on the contract; the firm (not Bondi personally) was paid $115,000/month
+
+- Bondi left Ballard in Nov 2019, returned Mar 2020 and resumed the Qatar work; Quincy says she was registered for Qatar's embassy until 2021.
+- In May 2025 Bondi reportedly signed the DOJ memo finding acceptance 'legally permissible', premised on transfer to the Trump library foundation; American Oversight sued for it in Jul 2025. No recusal found.
+- Shows a prior paid relationship with the donor government; does not show the memo was improper.
+- Exact memo date not re-verified (search budget exhausted).
+- Amounts: $115,000/month
+- Dates: Nov 2019; Mar 2020; May 2025; Jul 2025
+- Sources: [1](https://readsludge.com/2025/05/12/former-qatar-lobbyist-pam-bondi-approves-jet-deal/) [2](https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html) [3](https://accountable.us/2025-05-14-research-on-bondi-qatar-lobbying-jet) [4](https://americanoversight.org/doj-sued-for-withholding-legal-memo-on-trump-administrations-400-million-jet-gifted-by-qatar/) [5](https://quincyinst.org/research/soft-power-hard-influence-how-qatar-became-a-giant-in-washington/)
+
+### 2. Kash Patel was a paid consultant to Qatar's embassy, then as FBI director signed security agreements with Qatar.
+
+**Confirmed**
+
+- Evidence: documented. Patel's financial disclosure (public 2025-02-01, after his hearing) listed the Qatari embassy as a client of Trishul LLC (about $2.1M total firm income; Qatar portion only reported as >$5,000).
+- He did not register under FARA.
+- A later disclosure shows an ethics waiver dated Mar 4 for a 'particular matter related to Qatar'.
+- In Dec 2025 he signed bilateral security agreements with Qatar and said he would recuse from related work for one year and keep Trishul dormant.
+- The nature of the Qatar work remains undisclosed.
+- Amounts: about $2.1M; $5,000
+- Dates: 2025-02-01; Mar 4; Dec 2025
+- Sources: [6](https://responsiblestatecraft.org/kash-patel-qatar/) [7](https://practice.motherjones.com/politics/2025/05/kash-patel-qatar-fbi-trump) [8](https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/) [9](https://www.citizen.org/article/letter-to-senate-judiciary-committee-kash-patels-undisclosed-consulting-services-for-qatar-require-immediate-examination/)
+
+### 3. Susie Wiles came from Ballard and Mercury, both of which have represented Qatar.
+
+**Partly accurate** · Evidence: Employment documented; Wiles-Qatar link single-source
+
+- Wiles lobbied at Ballard (2011-2019 per Public Citizen; later end date per OpenSecrets) and co-chaired Mercury's Florida/DC offices from Feb 2022 to 2024.
+- Mercury's documented Qatar embassy contracts (2015, $930K/6 months; 2019, $360K/year) predate her arrival; only Il Foglio says she 'led' Mercury while it represented Qatar.
+- Her documented foreign clients include Nigeria's PDP and Globovision.
+- After Nov 2024 Ballard signed at least 15 foreign principals and Mercury at least 7 (Washington Examiner).
+- No 2025 Mercury contract with Qatar, UAE, Binance or Justin Sun found.
+- Amounts: $930K; $360K/year
+- Dates: Feb 2022; Nov 2024
+- Sources: [10](https://readsludge.com/2024/11/08/trump-selects-corporate-lobbyist-susie-wiles-as-chief-of-staff/) [11](https://www.coloradopolitics.com/2025/03/06/america-first-adjacent-lobbyists-line-up-to-sell-influence-to-foreigners-e22a2e53-b625-5917-bff9-bdd2b33e178f/) [12](https://www.odwyerpr.com/story/public/3852/2015-01-13/qatar-buttresses-dc-coverage.html) [13](https://www.odwyerpr.com/story/public/13519/2019-12-12/mercury-pa-targets-ngos-for-qatar.html) [14](https://www.ilfoglio.it/esteri/2025/05/15/news/i-legami-trumpiani-col-qatar-e-la-folle-apertura-alliran-non-esistono-nemici-permanenti--117660)
+
+### 4. Ballard's crypto clients (Kraken, Blockchain.com, Ripple) and the March 2025 XRP Truth Social post.
+
+**Mostly accurate** · Evidence: Hires documented; White House freeze single-source (Politico, anonymous)
+
+- Kraken and Blockchain.com hired Ballard in Dec 2024 ($60K combined; C52); SEC dismissed Kraken 2025-03-27 (C23).
+- Politico: a Ballard employee pressed Trump at a Mar-a-Lago event in early Mar 2025 to promote a crypto reserve; Trump's post then named XRP (Ripple is a Ballard client); Sacks complained to Wiles; staff were told not to meet Ballard ('He is not welcome in anything anymore'); Ballard then dropped Politico's parent as a client.
+- SEC-Ripple cross-appeals were dropped 2025-08-07 with the $125M penalty intact (C23).
+- Shows access that preceded a market-moving presidential post and then backfired.
+- Amounts: $60K; $125M
+- Dates: Dec 2024; 2025-03-27; early Mar 2025; 2025-08-07
+- Sources: [54](https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html) [15](https://www.rawstory.com/trump-2671918956) [16](https://cryptopotato.com/trumps-ripple-xrp-post-fallout-how-the-white-house-sidelined-lobbyist-report/) [17](https://floridapolitics.com/archives/738108-ballard-partners-dumps-politicos-parent-company-after-report-firm-was-iced-out-of-white-house) [18](https://www.yahoo.com/news/trump-whisperer-west-wing-pariah-085500000.html)
+
+### 5. Ballard Partners represents the Saudi embassy.
+
+**Confirmed** · Evidence: Documented (FARA via Sludge and Washington Examiner/Denver Gazette)
+
+- Contract signed 2025-03-31 at $60,000/month ($720K/year) for communications, events and outreach.
+- Sludge (Feb 2026) also lists DRC, Japan, South Korea (Korea Zinc), Uzbekistan and an Albanian client; Ballard set a record $88.1M 2025 revenue.
+- Any link to Saudi decisions in this project (PIF money in Affinity, C15; F-35 sale; MNNA status) is inferred from co-occurrence; no source asserts it.
+- Amounts: $60,000/month; $720K/year; $88.1M
+- Dates: 2025-03-31; Feb 2026
+- Sources: [19](https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/) [21](https://www.coloradopolitics.com/2025/05/22/saudi-cash-buys-meetings-with-senators-and-prime-media-coverage-8b3969b0-686c-5fdb-8e16-d48edba59452/) [20](https://readsludge.com/2026/02/13/k-streets-trump-boom/)
+
+### 6. Most corporate ballroom donors are clients of Ballard, Miller Strategies or Michael Best Strategies.
+
+**Confirmed** · Evidence: Documented (Public Citizen, Nov 2025; CBS)
+
+- 17 of 26 known corporate donors were clients of the three firms: Ballard 11 (incl. Ripple, Palantir, Amazon), Miller 6 (incl. Tether, Apple, Palantir), Priebus's firm 5.
+- Ballard and Jeff Miller attended a White House ballroom fundraising dinner.
+- Sens. Blumenthal, Warren and Schiff sent questions to Ballard, Miller, Priebus and Meredith O'Rourke; all declined comment to CBS.
+- Tether's other project ties: Cantor/Lutnick (C35, C50).
+- Dates: Nov 2025
+- Sources: [22](https://www.citizen.org/news/three-of-d-c-s-biggest-lobbyists-represent-two-thirds-of-the-corporate-donors-to-trumps-white-house-ballroom/) [23](https://www.cbsnews.com/news/corporate-trump-ballroom-donors-represented-by-3-lobbying-firms)
+
+### 7. Jeff Miller's Miller Strategies works for a cluster of crypto and prediction-market firms, including Kalshi, where Donald Trump Jr. is an adviser.
+
+**Mostly accurate** · Evidence: Each hire documented; the pattern and any coordination inferred
+
+- Miller (finance chair of Trump's inaugural festivities) represents Crypto.com (SEC probe closed 2025-03-27; C43/C52), Gemini (CFTC vacatur bid denied Oct 2026; C52), Tether (ballroom donor) and Kalshi, which paid Miller Strategies $240K in H1 2026, its largest outside firm (Stateline, Oct 2026).
+- Trump Jr. is a strategic adviser to Kalshi and an investor in and adviser to Polymarket (C25).
+- Polymarket's first federal lobbyist (registered Jul 2025) was ex-Trump campaign adviser David Urban.
+- No source says Miller and Trump Jr. coordinated.
+- Amounts: $240K
+- Dates: 2025-03-27; Oct 2026; Jul 2025
+- Sources: [24](https://stateline.org/2026/10/01/prediction-markets-spending-millions-to-influence-state-federal-governments/) [25](https://casinobeats.com/2025/08/27/donald-trump-jr-now-serves-as-advisor-to-prediction-market-rivals-polymarket-kalshi/) [54](https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html)
+
+### 8. Checkmate / Ches McDowell: Binance, Pakistan, Panama and a partnership with Ballard.
+
+**Confirmed** · Evidence: Documented. Binance paid Checkmate $450K for Sept 2025 'executive relief' lobbying before the CZ pardon (C36); McDowell says Trump Jr. did not help
+
+- Checkmate reported >$22M 2025 federal revenue (Bloomberg Government).
+- Clients also include the Sports Betting Alliance, the Panama Maritime Authority ($195K/month) and Pakistan via Dubai-based Greystone Investment & Management ($100K Phase 1 from 2025-05-15, with an option to expand; amounts vary by outlet).
+- Ballard and Checkmate announced a strategic partnership (Florida Politics; date not established).
+- Amounts: $450K; $22M; $195K/month; $100K
+- Dates: Sept 2025; 2025-05-15
+- Sources: [55](https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington) [26](https://news.bloomberglaw.com/ip-law/trump-linked-lobbyists-land-big-money-foreign-client-contracts) [27](https://www.odwyerpr.com/story/public/23166/2025-06-18/checkmate-checks-for-pakistan.html) [28](https://www.odwyerpr.com/story/public/23048/2025-05-23/panama-maritime-authority-calls-checkmate.html) [29](https://floridapolitics.com/archives/742763-ballard-partners-checkmate-government-relations-announce-strategic-partnership) [30](https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us)
+
+### 9. Pakistan paid three Trump-tied firms (Seiden Law, Javelin Advisors, Checkmate) in Apr-May 2025 while WLF signed its Pakistan deal.
+
+**Mostly accurate** · Evidence: Each element documented; the lobbying-WLF overlap inferred
+
+- Seiden Law signed 2025-04-08 at $200K/month for six months (FARA 7570, via Nukta).
+- Javelin Advisors (Keith Schiller, George Sorial) registered 2025-04-24/25 (FARA 7579) as Seiden's subcontractor at about $50K/month (one outlet says $125K).
+- Checkmate from 2025-05-15.
+- On 2025-04-26 WLF's Zach Witkoff, Zak Folkman and Chase Herro signed a letter of intent with the Pakistan Crypto Council in Islamabad.
+- Council CEO Bilal Bin Saqib became an unpaid WLF adviser in Apr 2025, and CZ had been named a Council adviser earlier that month.
+- Trump hosted Gen. Asim Munir on 2025-06-18 with Steve Witkoff present; a Jul 2025 trade deal set a 19% tariff; in Jan 2026 WLF affiliate SC Financial signed an MOU on USD1.
+- Bloomberg (2026-03-29) credits Bin Saqib's crypto outreach.
+- No source found says the paid lobbyists arranged the WLF deal or the lunch; Dawn's insiders cite 'unconventional means' without names.
+- Amounts: $200K/month; about $50K/month; $125K; 19%
+- Dates: 2025-04-08; 2025-04-24; 2025-05-15; 2025-04-26; Apr 2025
+- Sources: [30](https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us) [31](https://www.dawn.com/news/1907874) [32](https://sundayguardianlive.com/world/in-trumps-washington-pak-quietly-erects-its-largest-ever-influence-network-133161/) [33](https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf) [35](https://propakistani.pk/2025/04/26/pakistan-crypto-council-partners-with-trump-backed-wlf-to-boost-crypto-adoption/) [36](https://cointelegraph.com/news/trump-world-liberty-financial-partners-with-pakistan-crypto-council) [37](https://decrypt.co/322221/pakistan-world-liberty-financial-advisor-government-role-crypto?amp=1) [38](https://decrypt.co/354567/pakistan-to-explore-stablecoin-remittances-via-affiliate-of-trump-linked-world-liberty-financial) [39](https://www.bloomberg.com/news/features/2026-03-29/how-a-35-year-old-crypto-bro-from-pakistan-won-over-trump) [40](https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off) [41](https://www.dawn.com/news/1918044/army-chief-joins-trump-for-historic-white-house-lunch) [42](https://www.dawn.com/news/1918057/trump-coas-meeting-secured-via-unconventional-means-say-insiders)
+
+### 10. Jason Miller's SHW Partners is paid $1.8M a year by India's embassy.
+
+**Confirmed** · Evidence: Documented (FARA, as reported by ThePrint, Business Today and Dawn)
+
+- Hired 2025-04-24 at $150K/month ($1.8M/year), the same day-range as Pakistan's Javelin registration; renewed 2026-04-24 through 2027-04-23.
+- Filings show requests for calls with trade and White House officials, and three meetings with Ambassador Sergio Gor in Nov-Dec 2025.
+- India is not otherwise a project entity.
+- No Kash Patel foreign client beyond Qatar was found in this search.
+- Amounts: $150K/month; $1.8M/year
+- Dates: 2025-04-24; 2026-04-24; 2027-04-23; Dec 2025
+- Sources: [43](https://theprint.in/diplomacy/india-renews-1-8-mn-contract-with-trump-ally-jason-millers-lobbying-firm-for-another-year/2979822/) [44](https://www.businesstoday.in/india/story/india-renews-lobbying-deal-with-trump-ally-jason-miller-for-rs-17-crore-542123-2026-07-09) [45](https://www.dawn.com/news/1965551)
+
+### 11. Brad Bondi, the Attorney General's brother, was Trevor Milton's SEC defense lawyer.
+
+**Confirmed** · Evidence: Documented (C36)
+
+- Milton, a $1.8M+ donor, was pardoned 2025-03-28 and the SEC dropped its case in Sep 2025 (C36, C49).
+- Shows a family tie inside the pardon/enforcement chain; does not show that Pam Bondi intervened.
+- Amounts: $1.8M+
+- Dates: 2025-03-28; Sep 2025
+- Sources: [59](https://www.law360.com/bankruptcy-authority/articles/2387230)
+
+### 12. Roger Stone and Keith Schiller acted as paid pardon intermediaries.
+
+**Confirmed** · Evidence: Documented (C36, C49)
+
+- Roger Ver paid Stone $600K, disclosed as exit-tax lobbying; Ver fired him in Dec 2025, and Stone was later hired for Nigerian Christians advocacy.
+- Fred Daibes paid Schiller's Javelin Advisors $1M in Q1 2025 and got no pardon.
+- Javelin is the common node between the pardon market (C49) and Pakistan (above).
+- Stone denies lobbying the executive branch for Ver.
+- Amounts: $600K; $1M
+- Dates: Dec 2025
+- Sources: [57](https://decrypt.co/316387/bitcoin-jesus-pays-trump-ally-roger-stone-600000-to-lobby-against-exit-tax) [58](https://www.floridabulldog.org/2026/02/fired-couldnt-deliver-pardon-roger-stone-hired-aid-nigeria-christians/) [56](https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278)
+
+### 13. Continental Strategy (Carlos Trujillo) works for Albania.
+
+**Partly accurate** · Evidence: Contract documented; Kushner link not connected
+
+- In late Apr 2025 Sali Berisha's opposition Democratic Party signed a reported $250K/month, two-year contract with Continental, paid by a third party; Albania opened a probe of a $6M DP contract.
+- Continental also registered Vima World SL, and its revenue rose about 2,800% in Q1 2025.
+- Kushner's Albania projects are with Rama's government (C45), the other side, so no connection was found.
+- Ballard represented Rama's Socialist Party in 2017 at $20K/month; a 2025-26 Ballard Albania client listed by Sludge is unidentified.
+- Amounts: $250K/month; $6M; about 2,800%; $20K/month
+- Dates: late Apr 2025; 2025-26
+- Sources: [46](https://www.ksat.com/news/world/2025/05/08/chris-lacivita-paul-manafort-are-among-ex-trump-aides-working-to-make-albania-grandiose-again/) [47](https://www.intellinews.com/albania-probes-democratic-party-s-6mn-us-lobbying-contract-378453) [48](https://floridapolitics.com/archives/236352-ballard-partners-latest-federal-signing-ruling-party-albania) [49](https://legis1.com/news/cuba-sanctions-lobbying-continental-strategy) [19](https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/)
+
+### 14. Lewandowski, Arthur Schwartz and Mercury have clients in this project.
+
+**Unverified**
+
+- Evidence: none found. Lewandowski is a DHS special government employee under House Oversight inquiry (Rep. Garcia) and an American Oversight FOIA suit over his status and any private clients; no client in this project was found.
+- Arthur Schwartz appears only as 1789 Capital's spokesman (C51).
+- No 2025 Mercury client in this project was found.
+- Sources: [50](https://www.axios.com/2025/09/05/corey-lewandowksi-trump-aide-probe-expands) [51](https://www.axios.com/2026/01/23/corey-lewandowski-kristi-noem-homeland-security)
 
 ## Denials and context
 
@@ -132,167 +242,201 @@ The access layer is well documented. AG Bondi lobbied for Qatar at Ballard befor
 
 ## People and organisations
 
-- [[1789 Capital]]
-- [[Albania]]
-- [[Arthur Schwartz]]
-- [[Asim Munir]]
-- [[Ballard Partners]]
-- [[Bernard Kerik]]
-- [[Bilal Bin Saqib]]
-- [[Binance]]
-- [[Blockchain.com]]
-- [[Brad Bondi]]
-- [[Brian Ballard]]
-- [[Carlos Trujillo]]
-- [[Changpeng Zhao]]
-- [[Chase Herro]]
-- [[Checkmate Government Relations]]
-- [[Ches McDowell]]
-- [[Continental Strategy]]
-- [[Corey Lewandowski]]
-- [[Crypto.com]]
-- [[David Sacks]]
-- [[David Urban]]
-- [[Democratic Party of Albania]]
-- [[Department of Homeland Security]]
-- [[DOJ memo on the Qatari jet]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[FBI]]
-- [[Fred Daibes]]
-- [[Gemini]]
-- [[George Sorial]]
-- [[Greystone Investment & Management LLC]]
-- [[India]]
-- [[Jared Kushner]]
-- [[Jason Miller]]
-- [[Javelin Advisors]]
-- [[Jeff Miller]]
-- [[Justin Sun]]
-- [[Kalshi]]
-- [[Kash Patel]]
-- [[Keith Schiller]]
-- [[Kraken]]
-- [[Mercury Public Affairs]]
-- [[Michael Best Strategies]]
-- [[Miller Strategies]]
-- [[Pakistan]]
-- [[Pakistan Crypto Council]]
-- [[Pam Bondi]]
-- [[Polymarket]]
-- [[Public Investment Fund (Saudi Arabia)]]
-- [[Qatar]]
-- [[Qatar Boeing 747 gift]]
-- [[Ripple]]
-- [[Roger Stone]]
-- [[Roger Ver]]
-- [[Saudi Arabia]]
-- [[SC Financial Technologies]]
-- [[Securities and Exchange Commission]]
-- [[Seiden Law LLP]]
-- [[Sergio Gor]]
-- [[SHW Partners]]
-- [[Socialist Party of Albania]]
-- [[Steve Witkoff]]
-- [[Susie Wiles]]
-- [[Tether]]
-- [[Trevor Milton]]
-- [[Trishul LLC]]
-- [[Tron]]
-- [[US Department of Justice]]
-- [[USD1]]
-- [[White House Trump administration]]
-- [[White House ballroom]]
-- [[World Liberty Financial]]
-- [[Zach Witkoff]]
+- [[1789 Capital]] · Fund
+- [[Albania]] · Country
+- [[Arthur Schwartz]] · Person
+- [[Asim Munir]] · Person
+- [[Ballard Partners]] · Company
+- [[Bernard Kerik]] · Person
+- [[Bilal Bin Saqib]] · Person
+- [[Binance]] · Company
+- [[Blockchain.com]] · Company
+- [[Brad Bondi]] · Person
+- [[Brian Ballard]] · Person
+- [[Carlos Trujillo]] · Person
+- [[Changpeng Zhao]] · Person
+- [[Chase Herro]] · Person
+- [[Checkmate Government Relations]] · Company
+- [[Ches McDowell]] · Person
+- [[Continental Strategy]] · Company
+- [[Corey Lewandowski]] · Person
+- [[Crypto.com]] · Company
+- [[David Sacks]] · Person
+- [[David Urban]] · Person
+- [[Democratic Party of Albania]] · Company
+- [[Department of Homeland Security]] · Government body
+- [[DOJ memo on the Qatari jet]] · Event
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[FBI]] · Government body
+- [[Fred Daibes]] · Person
+- [[Gemini]] · Company
+- [[George Sorial]] · Person
+- [[Greystone Investment & Management LLC]] · Company
+- [[India]] · Country
+- [[Jared Kushner]] · Person
+- [[Jason Miller]] · Person
+- [[Javelin Advisors]] · Company
+- [[Jeff Miller]] · Person
+- [[Justin Sun]] · Person
+- [[Kalshi]] · Company
+- [[Kash Patel]] · Person
+- [[Keith Schiller]] · Person
+- [[Kraken]] · Company
+- [[Mercury Public Affairs]] · Company
+- [[Michael Best Strategies]] · Company
+- [[Miller Strategies]] · Company
+- [[Pakistan]] · Country
+- [[Pakistan Crypto Council]] · Government body
+- [[Pam Bondi]] · Person
+- [[Polymarket]] · Company
+- [[Public Investment Fund (Saudi Arabia)]] · Fund
+- [[Qatar]] · Country
+- [[Qatar Boeing 747 gift]] · Asset
+- [[Ripple]] · Company
+- [[Roger Stone]] · Person
+- [[Roger Ver]] · Person
+- [[Saudi Arabia]] · Country
+- [[SC Financial Technologies]] · Company
+- [[Securities and Exchange Commission]] · Government body
+- [[Seiden Law LLP]] · Company
+- [[Sergio Gor]] · Person
+- [[SHW Partners]] · Company
+- [[Socialist Party of Albania]] · Company
+- [[Steve Witkoff]] · Person
+- [[Susie Wiles]] · Person
+- [[Tether]] · Company
+- [[Trevor Milton]] · Person
+- [[Trishul LLC]] · Company
+- [[Tron]] · Company
+- [[US Department of Justice]] · Government body
+- [[USD1]] · Asset
+- [[White House Trump administration]] · Government body
+- [[White House ballroom]] · Asset
+- [[World Liberty Financial]] · Company
+- [[Zach Witkoff]] · Person
 
 ## Relationships documented
 
-- [[Democratic Party of Albania]] *reported $250K/month contract (third-party paid)* [[Continental Strategy]] (2025-04, $250K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Socialist Party of Albania]] *hired at $20K/month* [[Ballard Partners]] (2017-04, $20K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Arthur Schwartz]] *spokesman* [[1789 Capital]] (media) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ballard Partners]] *strategic partnership* [[Checkmate Government Relations]] (commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named* [[Donald Trump]] (2025-03, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ballard Partners]] *FARA-registered agent for ($115K/month firm fee)* [[Qatar]] (2019, $115K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ballard Partners]] *represents 11 corporate donors* [[White House ballroom]] (2025-11, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Bilal Bin Saqib]] *CEO* [[Pakistan Crypto Council]] (political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Bilal Bin Saqib]] *adviser (unpaid, per WLF)* [[World Liberty Financial]] (2025-04, advisory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Binance]] *paid ~$450K for 'executive relief' lobbying* [[Checkmate Government Relations]] (2025-09, $450K, money) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Blockchain.com]] *hired* [[Ballard Partners]] (2024-12, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Brad Bondi]] *brother of* [[Pam Bondi]] (family) · [[C61 Shared lawyers and law firms across the deals|C61]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Brad Bondi]] *SEC defense counsel for* [[Trevor Milton]] (legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Brian Ballard]] *founder* [[Ballard Partners]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Brian Ballard]] *fundraiser for (>$50M reported, 2024)* [[Donald Trump]] (2024, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Carlos Trujillo]] *founder* [[Continental Strategy]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Changpeng Zhao]] *strategic adviser* [[Pakistan Crypto Council]] (2025-04, advisory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Chase Herro]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] (2025-04-26, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ches McDowell]] *managing partner* [[Checkmate Government Relations]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ches McDowell]] *friend of* [[Donald Trump Jr]] (2025, political) · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Corey Lewandowski]] *special government employee* [[Department of Homeland Security]] (2025, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Crypto.com]] *hired* [[Miller Strategies]] (2024, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[David Sacks]] *complained about Ballard-pushed XRP post* [[Susie Wiles]] (2025-03, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Donald Trump]] *hosted White House lunch* [[Asim Munir]] (2025-06-18, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Donald Trump]] *pardoned* [[Trevor Milton]] (2025-03-28, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] (2025-01, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Donald Trump Jr]] *adviser and investor (via 1789 Capital)* [[Polymarket]] (2025-08, advisory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Fred Daibes]] *paid $1M for pardon push* [[Javelin Advisors]] (2025-Q1, $1M, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Gemini]] *hired* [[Miller Strategies]] (2025, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[George Sorial]] *co-founder* [[Javelin Advisors]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Greystone Investment & Management LLC]] *$100K Phase 1 contract for Pakistan* [[Checkmate Government Relations]] (2025-05-15, $100K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[India]] *$1.8M/year embassy contract* [[SHW Partners]] (2025-04-24, $1.8M, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Jared Kushner]] *resort projects with Rama government (C45)* [[Albania]] (2024-12, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Jason Miller]] *met three times* [[Sergio Gor]] (2025-11, advisory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Jason Miller]] *heads* [[SHW Partners]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Javelin Advisors]] *FARA-registered agent (No. 7579)* [[Pakistan]] (2025-04-25, advisory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Jeff Miller]] *inaugural festivities finance chair* [[Donald Trump]] (2025-01, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Jeff Miller]] *founder* [[Miller Strategies]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Kalshi]] *paid $240K (H1 2026)* [[Miller Strategies]] (2026-06, $240K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Kash Patel]] *director of* [[FBI]] (2025-02, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Kash Patel]] *signed bilateral security agreements with (as FBI director)* [[Qatar]] (2025-12, regulatory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Kash Patel]] *owns* [[Trishul LLC]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Keith Schiller]] *former bodyguard and Oval Office operations director* [[Donald Trump]] (2017, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Keith Schiller]] *co-founder* [[Javelin Advisors]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Kraken]] *hired (with Blockchain.com, $60K combined)* [[Ballard Partners]] (2024-12, $60K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Mercury Public Affairs]] *FARA consulting contracts ($930K/6 months; $360K/year)* [[Qatar]] (2015/2019, $930K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Michael Best Strategies]] *represents 5 corporate donors* [[White House ballroom]] (2025-11, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Miller Strategies]] *represents 6 corporate donors incl. Tether* [[White House ballroom]] (2025-11, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Pakistan]] *Checkmate engagement on behalf of* [[Greystone Investment & Management LLC]] (2025-05, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Pakistan]] *$200K/month six-month contract* [[Seiden Law LLP]] (2025-04-08, $1.2M, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Pam Bondi]] *former lobbyist at* [[Ballard Partners]] (2011-2024, commercial) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Pam Bondi]] *reportedly signed* [[DOJ memo on the Qatari jet]] (2025-05, legal) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Pam Bondi]] *lobbied for (via Ballard; FARA)* [[Qatar]] (2019-2021, advisory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Pam Bondi]] *heads (Attorney General)* [[US Department of Justice]] (2025-02, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[DOJ memo on the Qatari jet]] *found acceptance legally permissible* [[Qatar Boeing 747 gift]] (2025-05, legal) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Polymarket]] *first federal lobbyist* [[David Urban]] (2025-07, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Qatar]] *reportedly hired as lobbyist (single source)* [[Bernard Kerik]] (2025-04, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ripple]] *lobbying client of* [[Ballard Partners]] (commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ripple]] *donor* [[White House ballroom]] (2025-10, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Roger Ver]] *paid $600K (disclosed as exit-tax lobbying)* [[Roger Stone]] (2025, $600K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Saudi Arabia]] *embassy contract $60K/month ($720K/year)* [[Ballard Partners]] (2025-03-31, $720K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[SC Financial Technologies]] *MOU to integrate USD1* [[Pakistan]] (2026-01, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[SC Financial Technologies]] *to integrate* [[USD1]] (2026-01, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[SC Financial Technologies]] *affiliate of* [[World Liberty Financial]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Seiden Law LLP]] *subcontract (~$50K/month)* [[Javelin Advisors]] (2025-04-24, $50K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Steve Witkoff]] *attended White House lunch with* [[Asim Munir]] (2025-06-18, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Susie Wiles]] *former lobbyist at* [[Ballard Partners]] (2011-2019, advisory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Susie Wiles]] *co-chair FL/DC offices* [[Mercury Public Affairs]] (2022-02, advisory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Susie Wiles]] *chief of staff* [[White House Trump administration]] (2025-01, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Tether]] *lobbying client of* [[Miller Strategies]] (commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Tether]] *donor (Tether America)* [[White House ballroom]] (2025-10, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Trishul LLC]] *consultant to Qatari embassy* [[Qatar]] (2024, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Tron]] *lobbying via Kelley Drye/Digital Sovereignty Alliance ($370K; single source)* [[Securities and Exchange Commission]] (2025, $370K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[White House Trump administration]] *staff told not to meet (Politico, anonymous)* [[Brian Ballard]] (2025-03, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[World Liberty Financial]] *signed letter of intent* [[Pakistan Crypto Council]] (2025-04-26, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Zach Witkoff]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] (2025-04-26, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Money (23)
 
-## Leads not covered by the video
+- [[Mercury Public Affairs]] *FARA consulting contracts ($930K/6 months; $360K/year)* [[Qatar]] · 2015/2019 · $930K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Socialist Party of Albania]] *hired at $20K/month* [[Ballard Partners]] · 2017-04 · $20K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ballard Partners]] *FARA-registered agent for ($115K/month firm fee)* [[Qatar]] · 2019 · $115K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Crypto.com]] *hired* [[Miller Strategies]] · 2024 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Trishul LLC]] *consultant to Qatari embassy* [[Qatar]] · 2024 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Blockchain.com]] *hired* [[Ballard Partners]] · 2024-12 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Kraken]] *hired (with Blockchain.com, $60K combined)* [[Ballard Partners]] · 2024-12 · $60K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Gemini]] *hired* [[Miller Strategies]] · 2025 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Roger Ver]] *paid $600K (disclosed as exit-tax lobbying)* [[Roger Stone]] · 2025 · $600K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Tron]] *lobbying via Kelley Drye/Digital Sovereignty Alliance ($370K; single source)* [[Securities and Exchange Commission]] · 2025 · $370K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Saudi Arabia]] *embassy contract $60K/month ($720K/year)* [[Ballard Partners]] · 2025-03-31 · $720K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Democratic Party of Albania]] *reported $250K/month contract (third-party paid)* [[Continental Strategy]] · 2025-04 · $250K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Qatar]] *reportedly hired as lobbyist (single source)* [[Bernard Kerik]] · 2025-04 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Pakistan]] *$200K/month six-month contract* [[Seiden Law LLP]] · 2025-04-08 · $1.2M · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[India]] *$1.8M/year embassy contract* [[SHW Partners]] · 2025-04-24 · $1.8M · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Seiden Law LLP]] *subcontract (~$50K/month)* [[Javelin Advisors]] · 2025-04-24 · $50K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Greystone Investment & Management LLC]] *$100K Phase 1 contract for Pakistan* [[Checkmate Government Relations]] · 2025-05-15 · $100K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Polymarket]] *first federal lobbyist* [[David Urban]] · 2025-07 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Binance]] *paid ~$450K for 'executive relief' lobbying* [[Checkmate Government Relations]] · 2025-09 · $450K · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ripple]] *donor* [[White House ballroom]] · 2025-10 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Tether]] *donor (Tether America)* [[White House ballroom]] · 2025-10 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Fred Daibes]] *paid $1M for pardon push* [[Javelin Advisors]] · 2025-Q1 · $1M · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Kalshi]] *paid $240K (H1 2026)* [[Miller Strategies]] · 2026-06 · $240K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
-- **Bernard Kerik hired by Qatar's embassy in Apr 2025**: Pardoned Trump ally retained by Qatar weeks before the 747 gift (single source). [source](https://www.shomrim.news/eng/qatar-new-lobbyist) · [[Bernard Kerik]] [[Qatar]] [[Qatar Boeing 747 gift]]
-- **TRON DAO's federal lobbying**: Justin Sun-linked organization paid outside firms ~$370K, then moved lobbying in-house in Dec 2025 while the SEC case against Sun was resolved. [source](https://legis1.com/news/tron-dao-federal-lobbying) · [[Tron]] [[Justin Sun]] [[Securities and Exchange Commission]]
-- **Lewandowski's DHS SGE status and private clients**: Trump's former campaign manager holds a DHS role while his outside clients are undisclosed. [source](https://www.axios.com/2025/09/05/corey-lewandowksi-trump-aide-probe-expands) · [[Corey Lewandowski]] [[Department of Homeland Security]]
-- **Pakistan's crypto and minerals diplomacy**: Pakistan's lobbying push (Seiden, Javelin, Checkmate) ran alongside WLF deals and a US-Pakistan rare-earths agreement. [source](https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off) · [[Pakistan]] [[World Liberty Financial]] [[Seiden Law LLP]] [[Javelin Advisors]]
+### Ownership (9)
 
-## Sources
+- [[Brian Ballard]] *founder* [[Ballard Partners]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Carlos Trujillo]] *founder* [[Continental Strategy]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ches McDowell]] *managing partner* [[Checkmate Government Relations]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[George Sorial]] *co-founder* [[Javelin Advisors]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Jason Miller]] *heads* [[SHW Partners]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Jeff Miller]] *founder* [[Miller Strategies]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Kash Patel]] *owns* [[Trishul LLC]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Keith Schiller]] *co-founder* [[Javelin Advisors]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[SC Financial Technologies]] *affiliate of* [[World Liberty Financial]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Family (1)
+
+- [[Brad Bondi]] *brother of* [[Pam Bondi]] · [[C61 Shared lawyers and law firms across the deals|C61]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Regulatory (1)
+
+- [[Kash Patel]] *signed bilateral security agreements with (as FBI director)* [[Qatar]] · 2025-12 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Advisory (9)
+
+- [[Susie Wiles]] *former lobbyist at* [[Ballard Partners]] · 2011-2019 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Pam Bondi]] *lobbied for (via Ballard; FARA)* [[Qatar]] · 2019-2021 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Susie Wiles]] *co-chair FL/DC offices* [[Mercury Public Affairs]] · 2022-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Bilal Bin Saqib]] *adviser (unpaid, per WLF)* [[World Liberty Financial]] · 2025-04 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Changpeng Zhao]] *strategic adviser* [[Pakistan Crypto Council]] · 2025-04 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Javelin Advisors]] *FARA-registered agent (No. 7579)* [[Pakistan]] · 2025-04-25 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Donald Trump Jr]] *adviser and investor (via 1789 Capital)* [[Polymarket]] · 2025-08 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Jason Miller]] *met three times* [[Sergio Gor]] · 2025-11 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Political (14)
+
+- [[Keith Schiller]] *former bodyguard and Oval Office operations director* [[Donald Trump]] · 2017 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Brian Ballard]] *fundraiser for (>$50M reported, 2024)* [[Donald Trump]] · 2024 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ches McDowell]] *friend of* [[Donald Trump Jr]] · 2025 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Corey Lewandowski]] *special government employee* [[Department of Homeland Security]] · 2025 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Jeff Miller]] *inaugural festivities finance chair* [[Donald Trump]] · 2025-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Susie Wiles]] *chief of staff* [[White House Trump administration]] · 2025-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Kash Patel]] *director of* [[FBI]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Pam Bondi]] *heads (Attorney General)* [[US Department of Justice]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named* [[Donald Trump]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[David Sacks]] *complained about Ballard-pushed XRP post* [[Susie Wiles]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[White House Trump administration]] *staff told not to meet (Politico, anonymous)* [[Brian Ballard]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Donald Trump]] *hosted White House lunch* [[Asim Munir]] · 2025-06-18 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Steve Witkoff]] *attended White House lunch with* [[Asim Munir]] · 2025-06-18 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Bilal Bin Saqib]] *CEO* [[Pakistan Crypto Council]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Legal (4)
+
+- [[Donald Trump]] *pardoned* [[Trevor Milton]] · 2025-03-28 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Pam Bondi]] *reportedly signed* [[DOJ memo on the Qatari jet]] · 2025-05 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[DOJ memo on the Qatari jet]] *found acceptance legally permissible* [[Qatar Boeing 747 gift]] · 2025-05 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Brad Bondi]] *SEC defense counsel for* [[Trevor Milton]] · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Media (1)
+
+- [[Arthur Schwartz]] *spokesman* [[1789 Capital]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Commercial (14)
+
+- [[Pam Bondi]] *former lobbyist at* [[Ballard Partners]] · 2011-2024 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Jared Kushner]] *resort projects with Rama government (C45)* [[Albania]] · 2024-12 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Chase Herro]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[World Liberty Financial]] *signed letter of intent* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Zach Witkoff]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Pakistan]] *Checkmate engagement on behalf of* [[Greystone Investment & Management LLC]] · 2025-05 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ballard Partners]] *represents 11 corporate donors* [[White House ballroom]] · 2025-11 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Michael Best Strategies]] *represents 5 corporate donors* [[White House ballroom]] · 2025-11 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Miller Strategies]] *represents 6 corporate donors incl. Tether* [[White House ballroom]] · 2025-11 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[SC Financial Technologies]] *MOU to integrate USD1* [[Pakistan]] · 2026-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[SC Financial Technologies]] *to integrate* [[USD1]] · 2026-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ballard Partners]] *strategic partnership* [[Checkmate Government Relations]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ripple]] *lobbying client of* [[Ballard Partners]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Tether]] *lobbying client of* [[Miller Strategies]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+## Leads not covered here
+
+- **Bernard Kerik hired by Qatar's embassy in Apr 2025**
+  - Pardoned Trump ally retained by Qatar weeks before the 747 gift (single source).
+  - [[Bernard Kerik]] [[Qatar]] [[Qatar Boeing 747 gift]] · [Source](https://www.shomrim.news/eng/qatar-new-lobbyist)
+- **TRON DAO's federal lobbying**
+  - Justin Sun-linked organization paid outside firms ~$370K, then moved lobbying in-house in Dec 2025 while the SEC case against Sun was resolved.
+  - [[Tron]] [[Justin Sun]] [[Securities and Exchange Commission]] · [Source](https://legis1.com/news/tron-dao-federal-lobbying)
+- **Lewandowski's DHS SGE status and private clients**
+  - Trump's former campaign manager holds a DHS role while his outside clients are undisclosed.
+  - [[Corey Lewandowski]] [[Department of Homeland Security]] · [Source](https://www.axios.com/2025/09/05/corey-lewandowksi-trump-aide-probe-expands)
+- **Pakistan's crypto and minerals diplomacy**
+  - Pakistan's lobbying push (Seiden, Javelin, Checkmate) ran alongside WLF deals and a US-Pakistan rare-earths agreement.
+  - [[Pakistan]] [[World Liberty Financial]] [[Seiden Law LLP]] [[Javelin Advisors]] · [Source](https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off)
+
+## Sources (59)
 
 1. [Former Qatar lobbyist Pam Bondi approves jet deal](https://readsludge.com/2025/05/12/former-qatar-lobbyist-pam-bondi-approves-jet-deal/) (Sludge, 2025-05-12)
 2. [Fact Check: Pam Bondi used to lobby for Qatar — but no proof she personally made $115K per month](https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html) (Yahoo News)

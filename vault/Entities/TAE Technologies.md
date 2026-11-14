@@ -13,9 +13,16 @@ tags:
 ---
 # TAE Technologies
 
-*company*
-
 Fusion energy company in ~$6B stock merger with TMTG.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 8 |
+| Also known as | TAE; Tay Technologies Inc |
+
+## How other claims describe it
 
 - California fusion-energy developer merging with TMTG in an all-stock deal valued at more than $6B.
 - Fusion developer merging with TMTG (vote 2026-12-14).
@@ -27,14 +34,25 @@ Fusion energy company in ~$6B stock merger with TMTG.
 
 ## Relationships
 
-- [[Alphabet (Google)]] *investor in* [[TAE Technologies]] (money) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
-- [[U.S. Department of Energy]] *has awarded grants to* [[TAE Technologies]] (money) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
-- [[Michl Binderbauer]] *CEO of* [[TAE Technologies]] (advisory) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
-- [[TAE Technologies]] *operates in* [[Fusion energy sector]] (commercial) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
-- [[TAE Technologies]] *party to* [[TMTG-TAE merger]] (2025-12-18, commercial) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
-- [[Trump Media & Technology Group]] *agreed all-stock merger valued at more than $6B with* [[TAE Technologies]] (2025-12-18, $6B, ownership) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
-- [[Trump Media & Technology Group]] *committed up to $200M cash at signing (+$100M on SEC filing) to* [[TAE Technologies]] (2025-12-18, $300M, money) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
-- [[Trump Media & Technology Group]] *merging with in ~$6B stock deal* [[TAE Technologies]] ($6B, commercial) · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+### Money (3)
+
+- [[Trump Media & Technology Group]] *committed up to $200M cash at signing (+$100M on SEC filing) to* [[TAE Technologies]] · 2025-12-18 · $300M · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+- [[Alphabet (Google)]] *investor in* [[TAE Technologies]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+- [[U.S. Department of Energy]] *has awarded grants to* [[TAE Technologies]] · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+
+### Ownership (1)
+
+- [[Trump Media & Technology Group]] *agreed all-stock merger valued at more than $6B with* [[TAE Technologies]] · 2025-12-18 · $6B · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+
+### Advisory (1)
+
+- [[Michl Binderbauer]] *CEO of* [[TAE Technologies]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+
+### Commercial (3)
+
+- [[TAE Technologies]] *party to* [[TMTG-TAE merger]] · 2025-12-18 · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[TAE Technologies]] *operates in* [[Fusion energy sector]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+- [[Trump Media & Technology Group]] *merging with in ~$6B stock deal* [[TAE Technologies]] · $6B · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 
 ## Themes
 

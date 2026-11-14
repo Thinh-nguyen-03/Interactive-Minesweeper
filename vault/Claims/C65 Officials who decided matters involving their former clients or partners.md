@@ -4,152 +4,332 @@ kind: "claim"
 title: "Officials who decided matters involving their former clients or partners"
 verdict: "mostly-accurate"
 confidence: "medium"
-origin: "follow-up"
+origin: "connection-hunt"
 aliases:
   - "C65"
 tags:
   - "claim"
-  - "origin/follow-up"
+  - "origin/connection-hunt"
   - "verdict/mostly-accurate"
 ---
 # C65: Officials who decided matters involving their former clients or partners
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Connection hunt
 
-## Lead investigated
+## Bottom line
 
-> Connection hunt: administration officials whose decisions benefited entities they previously worked for, invested in or were paid by — Pam Bondi (Ballard/Qatar; legal memo on the jet), Todd Blanche (NCET memo; crypto holdings disclosed), Paul Atkins (Patomak crypto clients; holdings), Mike Selig, Jonathan Gould, Brian Quintenz, Howard Lutnick, David Sacks, Scott Bessent, Kash Patel, Pete Hegseth's office and Office of Strategic Capital leadership, Peter Navarro (Vulcan), Michael Kratsios, Steve Witkoff, Charles Kushner (ambassador to France), Massad Boulos (Africa adviser), Tom Barrack (ambassador to Turkey/Syria envoy; Gulf investor ties). Establish holdings/recusals/waivers and specific decisions.
+Most of the named officials have documented prior ties to parties affected by their offices.
 
-## Summary
+## What holds up
 
-Most of the named officials have documented prior ties to parties affected by their offices. The strongest cases: Bondi (ex-Qatar registered agent) signed the memo clearing Qatar's jet; Blanche disbanded NCET while holding $159K+ in crypto; Selig's former clients Paradigm and Willkie-represented Polymarket sit on the side of the CFTC's prediction-market fight; Navarro initiated the 1789-backed Vulcan loan; and Cerberus alumni of Deputy Secretary Feinberg run the Pentagon's OSC and BOND investment arms. Reuters single-sourced Barrack's push for his partner's TI Capital, and Mother Jones and Popular Information reported Bessent's Argentina swap aiding friend Rob Citrone. For Quintenz (never confirmed), Gould, Kratsios, Patel, Boulos and Charles Kushner we found ties but no specific benefiting decision. No authority has found an ethics violation in any of these cases, and most rest on timing and relationships, not proof of influence.
+- Pam Bondi was a registered agent for Qatar at Ballard Partners and later backed the legality of Trump accepting Qatar's 747.
+- DOJ dropped cases against clients of Bondi's brother, Brad Bondi (Paul Hastings) (mostly accurate)
+- Bondi held Trump Media (DJT) stock as AG and sold it on 'Liberation Day'.
+- Todd Blanche held crypto when he signed the Apr 7, 2025 memo disbanding NCET.
+- Paul Atkins's Patomak clients and crypto holdings, and his recusal terms at the SEC.
+- Mike Selig's former law-firm clients sit on the side of prediction-market fights his CFTC is now waging (mostly accurate)
+- Brian Quintenz (Kalshi board, a16z) was nominated to chair the CFTC.
+- Peter Navarro, a friend of Don Jr., initiated the Pentagon's $620M loan to 1789-backed Vulcan Elements.
+- Commerce (Lutnick) put CHIPS money and equity into the same Vulcan package (mostly accurate)
+- Pentagon investment leadership comes from Deputy Secretary Feinberg's former firm, Cerberus, and Cerberus-linked firms received DoD work (mostly accurate)
+- Scott Bessent: late divestment of China-exposed farmland, and an Argentina rescue that benefited a friend's fund (mostly accurate)
+- Kash Patel was a Trump Media director who received a stock award just before becoming FBI director (mostly accurate)
+- Steve Witkoff's Gulf counterparties include Qatar's QIA, which bought his Park Lane hotel (mostly accurate)
+- Tom Barrack kept financial ties to TI Capital while pushing its role in the Iraq-Syria pipeline (mostly accurate)
 
-## Sub-claims
+## What needs correcting
 
-- **Confirmed**: Pam Bondi was a registered agent for Qatar at Ballard Partners and later backed the legality of Trump accepting Qatar's 747.
-  - Evidence grade: documented. FARA records and fact-checks show Ballard Partners was paid $115,000 a month by Qatar's embassy (about July 2019 to June 2020), with Bondi listed as key personnel. She left in Nov 2019 for Trump's impeachment defence and rejoined in Mar 2020. Her personal share is not on record, and the fact-check rates 'she personally earned $115K/month' undetermined. In May 2025 multiple outlets reported a DOJ memo, drafted by the Office of Legal Counsel and signed by Bondi (with White House counsel David Warrington), finding it 'legally permissible' to accept the jet and later transfer it to the library foundation. A DOJ official told CNN that career ethics officials found no conflict requiring recusal. CREW and Sen. Durbin argued she should have recused. The memo has not been released; Freedom of the Press Foundation sued for it after DOJ quoted a 600+ day FOIA wait. This shows a former paid foreign-agent relationship and a later decision favourable to that principal. It does not show that the lobbying shaped the memo.
-  - <https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html>
-  - <https://semafor.com/article/11/22/2024/pam-bondi-trumps-new-attorney-general-pick-is-a-former-qatar-lobbyist>
-  - <https://www.yahoo.com/news/doj-lawyers-cleared-pam-bondi-164935036.html>
-  - <https://www.foxnews.com/politics/house-dems-open-investigation-trumps-acceptance-400-million-jet-from-qatar>
-  - <https://www.citizensforethics.org/?p=176462>
-  - <https://courthousenews.com/lawsuit-targets-doj-memo-over-qatari-plane-deal/>
-  - <https://www.judiciary.senate.gov/press/dem/releases/durbin-investigates-400-million-private-jet-gift-from-qatar-to-president-trump>
-- **Mostly accurate**: DOJ dropped cases against clients of Bondi's brother, Brad Bondi (Paul Hastings).
-  - Evidence grade: documented for the dismissals; unverified for any role by the AG. Bloomberg Law and ABC reported that DOJ dismissed charges against former Florida legislator Carolina Amesty (Aug 2025) and dropped a wire-fraud indictment of two St. Louis developers soon after they retained Brad Bondi in July 2025. Democrats (Rep. Dave Min; Sen. Schiff and others; a Mar 11, 2026 letter to the acting DOJ IG) also cite the Mar 2025 pardon of Trevor Milton, for whom Brad Bondi was lead trial counsel (see C36/C49). DOJ says 'the Attorney General had no role in them'. No IG finding had been reported as of the sources found.
-  - <https://news.bloomberglaw.com/us-law-week/doj-drops-another-fraud-case-against-a-client-of-bondis-brother>
-  - <https://abcnews.com/US/story?id=125073335>
-  - <https://news.bloomberglaw.com/securities-law/democrats-seek-doj-probe-into-any-bondi-role-in-brothers-cases>
-  - <https://www.goodmorningamerica.com/news/story/dems-call-probe-troubling-pattern-legal-wins-pam-130945630>
-- **Confirmed**: Bondi held Trump Media (DJT) stock as AG and sold it on 'Liberation Day'.
-  - Evidence grade: documented (her own periodic transaction report, disclosed May 14, 2025). It shows a sale of more than $1M of TMTG shares on Apr 2, 2025, the day of the tariff announcement. Rep. Raskin asked the DOJ IG to investigate (May 20, 2025). Mother Jones and Accountable.US had earlier flagged that Bondi, Patel and McMahon held TMTG shares or board ties when appointed. A sale before a market drop is not proof of insider trading. The holding itself was an interest in the president's company, held while she led the agency with jurisdiction over matters touching it.
-  - <https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares>
-  - <https://lailluminator.com/2025/05/18/bondi-trump/>
-  - <https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf>
-  - <https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/>
-- **Confirmed**: Todd Blanche held crypto when he signed the Apr 7, 2025 memo disbanding NCET.
-  - Evidence grade: documented (OGE 278 filings via ProPublica; Jan 28, 2026 letter from six Democratic senators). Blanche held roughly $159K-$485K in crypto assets (bitcoin, ether, solana); outlets give slightly different ranges. His ethics agreement required divestment within 90 days of confirmation. The 'Ending Regulation by Prosecution' memo came on Apr 7, 2025, and the sales and transfers, some to relatives, took place May 31-June 3, 2025. Former federal ethics officials told ProPublica the memo likely breached 18 U.S.C. 208 and his agreement. The senators asked whether he had a 208(b)(1) waiver; no waiver has been published, and no official finding was found. The memo benefited the crypto sector as a class, not a former client. Blanche later succeeded Bondi as AG (per C30/C49).
-  - <https://www.propublica.org/article/todd-blanche-complaint-conflict-of-interest>
-  - <https://decrypt.co/356452/democrats-doj-deputy-crypto-holdings-enforcement-retreat>
-  - <https://www.theblock.co/amp/post/387554/blanche-crypto-conflicts-of-interest>
-  - <https://www.hirono.senate.gov/imo/media/doc/20260128ltrfromsenatorstodagrecryptocurrencyconflicts.pdf>
-- **Confirmed**: Paul Atkins's Patomak clients and crypto holdings, and his recusal terms at the SEC.
-  - Evidence grade: documented (OGE ethics agreement and disclosure, Mar 2025). Patomak Global Partners advised banks, exchanges and DeFi firms. Patomak is listed as a creditor in the FTX bankruptcy for a Jan 2022 board-advisory agreement. Atkins disclosed up to ~$6M of crypto-related assets: equity in Anchorage Digital, Securitize call options plus a board seat (resigned Feb 2025), and a stake in the Off the Chain Capital fund. Reported ranges differ between outlets (Fortune/The Block vs others; see C54), so treat exact figures as ranges. He agreed to divest Patomak and Securitize options and to a one-year bar on specific-party matters involving Patomak clients and Securitize. He certified compliance to OGE on Jul 18, 2025. Senate Banking Democrats questioned the 140 divestitures and asked who bought Patomak; no buyer is public in what we found. The recusal does not cover industry-wide rulemaking, which is how most SEC crypto relief was delivered (see C23/C43).
-  - <https://fortune.com/crypto/2025/03/25/paul-atkins-sec-nominee-securitize-anchorage-off-the-chain-capital-6-million-ethics-disclosure/>
-  - <https://www.theblock.co/amp/post/348123/sec-chair-nominee-paul-atkins-held-shares-in-securitize-and-anchorage-digital-financial-disclosures-show-reports>
-  - <https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/84398B6A308FF36C85258C58002C898F/$FILE/Atkins%2C Paul S.  finalEA.pdf>
-  - <https://news.bloomberglaw.com/us-law-week/trumps-sec-pick-brings-slew-of-potential-conflicts-to-new-role>
-  - <https://cointelegraph.com/news/senator-elizabeth-warren-paul-atkins-hearing-conflicts-interest-ftx>
-  - <https://www.banking.senate.gov/imo/media/doc/Follow%20Up%20Letter%20to%20Atkins%20re%20Divestments.pdf>
-- **Partly accurate**: Atkins's former holding Securitize went public through a SPAC sponsored by the Lutnick family's Cantor Fitzgerald, with an SEC sign-off.
-  - Evidence grade: the pieces are documented, the conflict link is inferred. Securitize, where Atkins held options and a board seat until Feb 2025, agreed in Oct 2025 to merge with Cantor Equity Partners II, a SPAC sponsored by a Cantor Fitzgerald affiliate. Cantor is now controlled by trusts for Howard Lutnick's children (see C35). The SEC declared the Form S-4 effective on June 5, 2026, with a shareholder vote set for June 29, 2026. Atkins's one-year Securitize bar would have lapsed around Feb 2026, and S-4 effectiveness is normally a staff action under delegated authority. No source asserts that Atkins took part or that anything improper happened. This is our cross-reference of three separately reported facts: an SEC chair's ex-holding, a Commerce secretary's family firm and an SEC approval. We did not confirm whether the merger closed.
-  - <https://www.theblock.co/amp/post/348123/sec-chair-nominee-paul-atkins-held-shares-in-securitize-and-anchorage-digital-financial-disclosures-show-reports>
-  - <https://www.theblock.co/news/deals/2026-06-05-securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz-403842>
-  - <https://www.tradingview.com/news/prnewswire:ba6f390c9a62f:0-securitize-and-cantor-equity-partners-ii-announce-sec-declaration-of-effectiveness-of-registration-statement-on-form-s-4/>
-- **Mostly accurate**: Mike Selig's former law-firm clients sit on the side of prediction-market fights his CFTC is now waging.
-  - Evidence grade: documented links (OGE agreement; Intercept; InGame), with the benefit-to-client step inferred. As a Willkie Farr partner (2022-25), Selig represented dozens of crypto clients, including eToro, Paradigm and Alluvial Finance (Alluvial met his SEC Crypto Task Force staff). He co-signed a July 2024 Paradigm letter urging the CFTC to permit Kalshi's political event contracts, and Paradigm invested in Kalshi in June 2025. Zeteo reports that Willkie represents Polymarket. As CFTC chair he filed a Feb 17, 2026 amicus brief asserting exclusive federal jurisdiction over event contracts and sued AZ, CT and IL (Apr 2, 2026) and more states (see C25/C38). Those actions benefit Kalshi and Polymarket, where Don Jr. is an adviser and 1789 Capital an investor. His recusal covers only specific-party matters involving Willkie or former clients for one year, so policy-wide actions fall outside it. No source alleges a breach.
-  - <https://theintercept.com/2025/11/26/trump-crypto-regulation-cftc-mike-selig/>
-  - <https://www.ingame.com/cftc-pick-selig-letter-backing-sports-contracts/>
-  - <https://zeteo.com/p/trump-mike-selig-cftc-prediction-markets>
-  - <https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/9C903C665498A61785258D3F0031957A/$FILE/Selig%2C%20Michael%20%20finalEA.pdf>
-  - <https://www.theblock.co/post/390241/cftc-claims-exclusive-federal-authority-over-prediction-markets-in-new-brief-clashing-with-states>
-  - <https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits>
-- **Confirmed**: Brian Quintenz (Kalshi board, a16z) was nominated to chair the CFTC.
-  - Evidence grade: documented. Quintenz was a Kalshi board member and a16z crypto's policy head. He pledged to leave Kalshi's board if confirmed. The White House withdrew the nomination on Sep 30, 2025, after the Winklevoss twins opposed him; texts he released show Tyler Winklevoss raising Gemini's CFTC case. He never took office, so he made no decisions. The episode matters because the replacement, Selig, later joined Gemini's motion to vacate its CFTC judgment (C52), and Gemini's founders gave about $10M in BTC to MAGA Inc. 23 days later.
-  - <https://decrypt.co/342460/white-house-pulls-quintenz-cftc-chair-nomination-after-clash-with-winklevoss-twins>
-  - <https://www.notus.org/money/white-house-stalled-brian-quintenz-cftc>
-  - <https://cointelegraph.com/news/white-house-pulls-brian-quintenz-cftc-nominee>
-- **Partly accurate**: Comptroller Jonathan Gould (ex-Bitfury) approved charters including World Liberty's.
-  - Evidence grade: documented background and approvals; no prior-client benefit found. Gould was OCC chief counsel (2018-21), then Bitfury's chief legal officer (to Sep 2022), then a Jones Day partner. As Comptroller he oversaw conditional trust charters for Coinbase, Ripple, BitGo, Circle, Fidelity Digital Assets, Paxos and Crypto.com, and preliminary approval of World Liberty Trust Co. on Aug 14, 2026 (C12). He has denied acting as a 'Trump fixer'. We found no Bitfury application before the OCC, and no OGE disclosure detail on any retained Bitfury interest. No waiver or cooling-off record was found (as C54 also notes).
-  - <https://www.bankingdive.com/news/occ-gould-trust-bank-charters-crypto-warren/820886/>
-  - <https://decrypt.co/329637/former-crypto-executive-senate-nod-head-banking-regulator?amp=1>
-  - <https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?rand=50490>
-- **Confirmed**: Peter Navarro, a friend of Don Jr., initiated the Pentagon's $620M loan to 1789-backed Vulcan Elements.
-  - Evidence grade: documented (ProPublica, May 28, 2026, with DoD records and interviews; follow-up letters from lawmakers). Navarro is described as a friend of Don Jr. Don Jr. is among the people Navarro dedicated his latest book to, and lawmakers note that Don Jr. visited Navarro in prison. Navarro initiated the OSC loan request, and an unnamed Pentagon official said it was the only deal initiated by a top presidential aide. 1789 Capital invested in Vulcan in its Aug 2025 Series A, and the $1.4B package was announced on Nov 3, 2025. No financial interest of Navarro's in Vulcan is reported. 1789 and the Pentagon deny any role or influence, and Navarro calls the reporting 'fake news'.
-  - <https://www.kunc.org/2026-05-28/white-house-asked-pentagon-to-loan-money-to-a-company-linked-to-trumps-oldest-son>
-  - <https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/>
-  - <https://www.propublica.org/article/donald-trump-jr-vulcan-lawmakers-letter>
-  - <https://www.mining.com/?p=1192089>
-- **Mostly accurate**: Commerce (Lutnick) put CHIPS money and equity into the same Vulcan package.
-  - Evidence grade: documented. The Nov 3, 2025 package included $50M of CHIPS incentives from Commerce (a preliminary, non-binding LOI) and reportedly a Commerce equity position. Outlets differ on whether these are one $50M or two, and Lutnick publicly promoted the deal. That puts both Lutnick's department and Hegseth's OSC in the 1789-backed company's financing. For Cantor/Lutnick-family links to other minerals beneficiaries see C60. No reporting has Lutnick personally tied to Vulcan.
-  - <https://www.mining.com/?p=1192089>
-  - <https://www.carolinajournal.com/durham-rare-earth-start-up-receives-1-4b-federal-investment/>
-- **Mostly accurate**: Pentagon investment leadership comes from Deputy Secretary Feinberg's former firm, Cerberus, and Cerberus-linked firms received DoD work.
-  - Evidence grade: documented for the appointments and contracts; any steering is unverified. OSC Director David Lorch (since Nov 2025, also senior adviser to Feinberg) was a Cerberus managing director (official DoD bio). George Kollitides, a former Cerberus managing director under Feinberg and a former partner at Alvarez & Marsal Capital, heads the Economic Defense Unit/BOND. He agreed to join the board of D. Boral Acquisition I before his Feb 4, 2026 appointment and joined six days after it (Bloomberg Government), and later resigned from it. Alvarez & Marsal Federal received no-bid DoD contracts worth up to about $350M ($67.6M in Dec 2025; $281.1M in Jun 2026; about $31M paid). ProPublica did not establish that Kollitides selected the firm. Feinberg's ethics agreement let him place Cerberus interests in trusts for his adult children and keep a Cerberus administrative-services contract. Warren says at least four Cerberus-related firms won Golden Dome contracts. DoD says affiliations play no role in funding decisions.
-  - <https://www.war.gov/About/Biographies/Biography/Article/4506870/david-lorch/>
-  - <https://mergr.com/investor/cerberus-capital-management/team/david-lorch>
-  - <https://news.bloomberglaw.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties>
-  - <https://www.warren.senate.gov/newsroom/press-releases/warren-slams-department-of-defense-for-turning-over-contracting-office-to-wall-street-private-equity-bankers/>
-  - <https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543>
-  - <https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/>
-  - <https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4C184A39BDEDAF3B85258C3700320B7D/$FILE/Feinberg%2C%20Stephen%20A.%20%20finalEA.pdf>
-  - <https://www.bloomberg.com/news/articles/2025-02-20/steve-feinberg-vows-to-divest-cerberus-stake-as-wealth-detailed>
-  - <https://www.warren.senate.gov/newsroom/press-releases/warren-questions-deputy-secretary-of-defense-on-conflicts-of-interest-involving-dods-golden-dome-missile-defense-program>
-  - <https://news.bloomberglaw.com/private-equity/senator-warren-urges-feinberg-to-completely-cut-cerberus-ties>
-- **Mostly accurate**: Scott Bessent: late divestment of China-exposed farmland, and an Argentina rescue that benefited a friend's fund.
-  - Evidence grade: documented for the farmland, single-source and secondary for the Citrone link. OGE told Senate Finance that Bessent had missed his Apr 28, 2025 divestment deadline. About $25M of North Dakota farmland remained, a crop roughly 70% exported to China, while he led China trade talks. He said in Oct 2025 that he had divested it. On Argentina, Mother Jones and Popular Information reported that Rob Citrone of Discovery Capital, a friend and former Soros colleague of Bessent, held large Argentine positions and bought more bonds days before Treasury's $20B swap-line announcement (Sep-Oct 2025). Argentine press reported that he lobbied Bessent; the NYT said his role was unclear. Bessent denies that the swap was a gift to investors and says Treasury profited. Citrone is a personal friend, not a former client of Bessent's in office.
-  - <https://www.bankingdive.com/news/bessent-ethics-farmland-divest-assets-investments-china-north-dakota-treasury-crapo-wyden-oge/757703/>
-  - <https://www.aol.com/news/us-treasurys-bessent-not-compliance-214905451.html>
-  - <https://www.scmp.com/news/world/united-states-canada/article/3335539/us-treasury-secretary-scott-bessent-says-he-has-divested-his-soybean-farm>
-  - <https://develop.motherjones.com/politics/2025/09/trump-argentina-bailout-hedge-fund-billionaire-rob-citrone-scott-bessent>
-  - <https://popular.info/p/update-treasury-secretary-pressed>
-  - <https://batimes.com.ar/news/economy/bessent-steps-in-to-protect-profits-of-friendly-investors-in-argentina.phtml>
-- **Mostly accurate**: Kash Patel was a Trump Media director who received a stock award just before becoming FBI director.
-  - Evidence grade: documented (SEC Form 4). TMTG granted Patel 25,946 restricted shares on Jan 28, 2025, worth about $779K-$840K. Patel told senators he did not and would not accept them and had no stake. Mother Jones reported that he earned $120K a year as a TMTG consultant from 2022, and the award was absent from his disclosure. We found no FBI decision benefiting TMTG. This records a tie, not a decision.
-  - <https://www.bloomberg.com/news/articles/2025-02-04/kash-patel-s-800-000-trump-media-award-raises-conflict-questions-for-fbi-pick>
-  - <https://ktvz.com/money/cnn-business-consumer/2025/01/31/trump-media-grants-large-amounts-of-stock-to-directors-including-two-who-are-trump-administration-nominees/>
-  - <https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/>
-- **Partly accurate**: Michael Kratsios (OSTP) retains Scale AI stock.
-  - Evidence grade: documented holding; no decision found. ProPublica's disclosure tracker lists Scale AI Class B shares worth $1M-$5M. Kratsios was a Scale managing director from 2021 to Jan 2024, and his 2026 annual OGE 278 was certified compliant. Sen. Cantwell's questions concerned Scale labour complaints. We found no specific OSTP decision benefiting Scale. The Meta-Scale deal (Jun 2025, ~$29B valuation) would have revalued his shares, but no source discusses this.
-  - <https://projects.propublica.org/trump-team-financial-disclosures/appointees/kratsios-michael>
-  - <https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/D87640BF89C748E285258E35002DCCEE/$FILE/Michael-J-Kratsios-2026-278ANNU.pdf>
-  - <https://www.commerce.senate.gov/services/files/C84C665D-8944-451D-971F-89A3425DE33E>
-- **Mostly accurate**: Steve Witkoff's Gulf counterparties include Qatar's QIA, which bought his Park Lane hotel.
-  - Evidence grade: documented; already established in C14/C53. QIA paid about $623M for the Park Lane in Aug 2023, buying from a Witkoff-Mubadala joint venture. Aryam (Tahnoon) bought 49% of WLF. Witkoff negotiates with Qatar and the UAE as envoy. No source shows a specific envoy decision benefiting these counterparties.
-  - <https://therealdeal.com/new-york/2023/08/28/qia-buys-park-lane-hotel-from-witkoff/>
-- **Mostly accurate**: Tom Barrack kept financial ties to TI Capital while pushing its role in the Iraq-Syria pipeline.
-  - Evidence grade: single-source (Reuters investigation, Oct 9, 2026, seen only via syndication and Al-Monitor). Barrack and Ziad Ghandour set up a $250M investment venture in 2020, and Barrack disclosed a paid consulting role with it in 2024. As ambassador to Turkey and Syria envoy, he reportedly pressed Iraqi and Syrian officials to include TI Capital in the Kirkuk-Baniyas pipeline. In July 2026 Iraq and Syria signed MoUs with a consortium of TI Capital, Chevron and Qatar's UCC Holding (project cost $15B+). OGE had no waiver on file. Reuters found no evidence that Barrack profits from the pipeline. State says he has 'no affiliation with, role in, or financial interest in' the project and is ethics-compliant.
-  - <https://al-monitor.com/originals/2026/10/trump-envoy-kept-financial-ties-firm-behind-15-billion-hormuz-bypass-oil-pipeline>
-  - <https://www.thestar.com.my/news/world/2026/10/09/trump-envoy-kept-financial-ties-to-firm-behind-15-billion-hormuz-bypass-oil-pipeline-plan>
-  - <https://www.zawya.com/en/press-release/iraq-and-syria-together-with-ucc-chevron-and-ti-capital-advance-strategic-oil-corridor-to-the-mediterranean-401747>
-- **Partly accurate**: Massad Boulos (Africa adviser) mediated a DRC minerals-for-security deal.
-  - Evidence grade: documented role; no personal benefit found. Boulos, whose son is married to Tiffany Trump, ran SCOA Nigeria (Fadoul Group), and his business scale is disputed (NYT). He mediated the June 27, 2025 DRC-Rwanda peace and minerals framework. KoBold Metals credited him for helping its Manono lithium deal. Africa Confidential (single-source) says Gentry Beach, a business associate of Don Jr., was a prime mover in the talks. We found no Boulos or family financial interest in the DRC deals.
-  - <https://www.semafor.com/article/03/10/2025/trump-to-appoint-drc-envoy-as-us-eyes-minerals-pact>
-  - <https://mining.com/web/trump-envoy-says-us-congo-mining-and-security-deal-moving-ahead>
-  - <https://koboldmetals.com/2025/05/07/kobold-metals-and-avz-agree-on-framework-for-kobold-to-acquire-avzs-interests-in-the-manono-lithium-deposit-in-drc/>
-  - <https://www.africa-confidential.com/article/id/15443/washington-tries-a-new-push-in-kinshasa>
-- **Unverified**: Charles Kushner (ambassador to France) made decisions benefiting prior business ties.
-  - Evidence grade: none found. He was confirmed 51-45 in May 2025, after a 2020 pardon. Coverage is about diplomatic rows (summoned by France and absent). We found no reporting of a decision tied to Kushner Companies or Gulf money. Gulf money in the family runs through Jared's Affinity (C15). One dossier site's claims about his ethics agreement could not be verified and are omitted.
-  - <https://www.axios.com/2026/02/24/kushner-trump-ambassadors-diplomatic-drama>
-  - <https://www.euronews.com/2025/05/20/charles-kushner-father-of-trumps-son-in-law-confirmed-as-us-ambassador-to-france>
-
-## Corrections
-
-- The brief calls the jet memo 'Bondi's legal memo'. It was reportedly drafted by OLC and signed by Bondi; it remains unreleased.
+- Atkins's former holding Securitize went public through a SPAC sponsored by the Lutnick family's Cantor Fitzgerald, with an SEC sign-off (partly accurate)
+- Comptroller Jonathan Gould (ex-Bitfury) approved charters including World Liberty's (partly accurate)
+- Michael Kratsios (OSTP) retains Scale AI stock (partly accurate)
+- Massad Boulos (Africa adviser) mediated a DRC minerals-for-security deal (partly accurate)
+- **Claim:** The brief calls the jet memo 'Bondi's legal memo'  
+  **Record:** It was reportedly drafted by OLC and signed by Bondi; it remains unreleased.
 - Bondi's personal pay from the Qatar contract is not on record. The $115K/month went to Ballard Partners.
 - Reported Atkins holding ranges differ between outlets (Securitize options $250K-$500K per Fortune/The Block vs larger figures elsewhere, incl. C54). Treat them as ranges.
 - Quintenz was never confirmed, so he made no decisions as an official.
 - Blanche did not fully sell his crypto. Part was 'sold or transferred' to relatives, May 31-June 3, 2025.
+
+## What is unproven
+
+- Charles Kushner (ambassador to France) made decisions benefiting prior business ties.
+
+## In more detail
+
+- The strongest cases: Bondi (ex-Qatar registered agent) signed the memo clearing Qatar's jet; Blanche disbanded NCET while holding $159K+ in crypto; Selig's former clients Paradigm and Willkie-represented Polymarket sit on the side of the CFTC's prediction-market fight; Navarro initiated the 1789-backed Vulcan loan; and Cerberus alumni of Deputy Secretary Feinberg run the Pentagon's OSC and BOND investment arms.
+- Reuters single-sourced Barrack's push for his partner's TI Capital, and Mother Jones and Popular Information reported Bessent's Argentina swap aiding friend Rob Citrone.
+- For Quintenz (never confirmed), Gould, Kratsios, Patel, Boulos and Charles Kushner we found ties but no specific benefiting decision.
+- No authority has found an ethics violation in any of these cases, and most rest on timing and relationships, not proof of influence.
+
+## Connections searched for
+
+> Connection hunt: administration officials whose decisions benefited entities they previously worked for, invested in or were paid by — Pam Bondi (Ballard/Qatar; legal memo on the jet), Todd Blanche (NCET memo; crypto holdings disclosed), Paul Atkins (Patomak crypto clients; holdings), Mike Selig, Jonathan Gould, Brian Quintenz, Howard Lutnick, David Sacks, Scott Bessent, Kash Patel, Pete Hegseth's office and Office of Strategic Capital leadership, Peter Navarro (Vulcan), Michael Kratsios, Steve Witkoff, Charles Kushner (ambassador to France), Massad Boulos (Africa adviser), Tom Barrack (ambassador to Turkey/Syria envoy; Gulf investor ties). Establish holdings/recusals/waivers and specific decisions.
+
+## Follow-up checks
+
+- [[C73 Qatar's access network inside and around the administration]] · Pending
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
+- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
+
+## Sub-claims
+
+### 1. Pam Bondi was a registered agent for Qatar at Ballard Partners and later backed the legality of Trump accepting Qatar's 747.
+
+**Confirmed** · Evidence: Documented
+
+- FARA records and fact-checks show Ballard Partners was paid $115,000 a month by Qatar's embassy (about July 2019 to June 2020), with Bondi listed as key personnel.
+- She left in Nov 2019 for Trump's impeachment defence and rejoined in Mar 2020.
+- Her personal share is not on record, and the fact-check rates 'she personally earned $115K/month' undetermined.
+- In May 2025 multiple outlets reported a DOJ memo, drafted by the Office of Legal Counsel and signed by Bondi (with White House counsel David Warrington), finding it 'legally permissible' to accept the jet and later transfer it to the library foundation.
+- A DOJ official told CNN that career ethics officials found no conflict requiring recusal.
+- CREW and Sen. Durbin argued she should have recused.
+- The memo has not been released; Freedom of the Press Foundation sued for it after DOJ quoted a 600+ day FOIA wait.
+- This shows a former paid foreign-agent relationship and a later decision favourable to that principal.
+- It does not show that the lobbying shaped the memo.
+- Amounts: $115,000; $115K/month
+- Dates: July 2019; June 2020; Nov 2019; Mar 2020; May 2025
+- Sources: [1](https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html) [2](https://semafor.com/article/11/22/2024/pam-bondi-trumps-new-attorney-general-pick-is-a-former-qatar-lobbyist) [4](https://www.yahoo.com/news/doj-lawyers-cleared-pam-bondi-164935036.html) [5](https://www.foxnews.com/politics/house-dems-open-investigation-trumps-acceptance-400-million-jet-from-qatar) [6](https://www.citizensforethics.org/?p=176462) [7](https://courthousenews.com/lawsuit-targets-doj-memo-over-qatari-plane-deal/) [8](https://www.judiciary.senate.gov/press/dem/releases/durbin-investigates-400-million-private-jet-gift-from-qatar-to-president-trump)
+
+### 2. DOJ dropped cases against clients of Bondi's brother, Brad Bondi (Paul Hastings).
+
+**Mostly accurate** · Evidence: Documented for the dismissals; unverified for any role by the AG
+
+- Bloomberg Law and ABC reported that DOJ dismissed charges against former Florida legislator Carolina Amesty (Aug 2025) and dropped a wire-fraud indictment of two St. Louis developers soon after they retained Brad Bondi in July 2025.
+- Democrats (Rep. Dave Min; Sen. Schiff and others; a Mar 11, 2026 letter to the acting DOJ IG) also cite the Mar 2025 pardon of Trevor Milton, for whom Brad Bondi was lead trial counsel (see C36/C49).
+- DOJ says 'the Attorney General had no role in them'.
+- No IG finding had been reported as of the sources found.
+- Dates: Aug 2025; July 2025; Mar 11, 2026; Mar 2025
+- Sources: [9](https://news.bloomberglaw.com/us-law-week/doj-drops-another-fraud-case-against-a-client-of-bondis-brother) [10](https://abcnews.com/US/story?id=125073335) [11](https://news.bloomberglaw.com/securities-law/democrats-seek-doj-probe-into-any-bondi-role-in-brothers-cases) <https://www.goodmorningamerica.com/news/story/dems-call-probe-troubling-pattern-legal-wins-pam-130945630>
+
+### 3. Bondi held Trump Media (DJT) stock as AG and sold it on 'Liberation Day'.
+
+**Confirmed** · Evidence: Documented (her own periodic transaction report, disclosed May 14, 2025)
+
+- It shows a sale of more than $1M of TMTG shares on Apr 2, 2025, the day of the tariff announcement.
+- Rep. Raskin asked the DOJ IG to investigate (May 20, 2025).
+- Mother Jones and Accountable.US had earlier flagged that Bondi, Patel and McMahon held TMTG shares or board ties when appointed.
+- A sale before a market drop is not proof of insider trading.
+- The holding itself was an interest in the president's company, held while she led the agency with jurisdiction over matters touching it.
+- Amounts: more than $1M
+- Dates: May 14, 2025; Apr 2, 2025; May 20, 2025
+- Sources: [12](https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares) <https://lailluminator.com/2025/05/18/bondi-trump/> [13](https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf) [14](https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/)
+
+### 4. Todd Blanche held crypto when he signed the Apr 7, 2025 memo disbanding NCET.
+
+**Confirmed** · Evidence: Documented (OGE 278 filings via ProPublica; Jan 28, 2026 letter from six Democratic senators)
+
+- Blanche held roughly $159K-$485K in crypto assets (bitcoin, ether, solana); outlets give slightly different ranges.
+- His ethics agreement required divestment within 90 days of confirmation.
+- The 'Ending Regulation by Prosecution' memo came on Apr 7, 2025, and the sales and transfers, some to relatives, took place May 31-June 3, 2025.
+- Former federal ethics officials told ProPublica the memo likely breached 18 U.S.C. 208 and his agreement.
+- The senators asked whether he had a 208(b)(1) waiver; no waiver has been published, and no official finding was found.
+- The memo benefited the crypto sector as a class, not a former client.
+- Blanche later succeeded Bondi as AG (per C30/C49).
+- Amounts: roughly $159K-$485K
+- Dates: Jan 28, 2026; Apr 7, 2025; May 31; June 3, 2025
+- Sources: [15](https://www.propublica.org/article/todd-blanche-complaint-conflict-of-interest) [16](https://decrypt.co/356452/democrats-doj-deputy-crypto-holdings-enforcement-retreat) <https://www.theblock.co/amp/post/387554/blanche-crypto-conflicts-of-interest> [17](https://www.hirono.senate.gov/imo/media/doc/20260128ltrfromsenatorstodagrecryptocurrencyconflicts.pdf)
+
+### 5. Paul Atkins's Patomak clients and crypto holdings, and his recusal terms at the SEC.
+
+**Confirmed** · Evidence: Documented (OGE ethics agreement and disclosure, Mar 2025)
+
+- Patomak Global Partners advised banks, exchanges and DeFi firms.
+- Patomak is listed as a creditor in the FTX bankruptcy for a Jan 2022 board-advisory agreement.
+- Atkins disclosed up to ~$6M of crypto-related assets: equity in Anchorage Digital, Securitize call options plus a board seat (resigned Feb 2025), and a stake in the Off the Chain Capital fund.
+- Reported ranges differ between outlets (Fortune/The Block vs others; see C54), so treat exact figures as ranges.
+- He agreed to divest Patomak and Securitize options and to a one-year bar on specific-party matters involving Patomak clients and Securitize.
+- He certified compliance to OGE on Jul 18, 2025.
+- Senate Banking Democrats questioned the 140 divestitures and asked who bought Patomak; no buyer is public in what we found.
+- The recusal does not cover industry-wide rulemaking, which is how most SEC crypto relief was delivered (see C23/C43).
+- Amounts: ~$6M
+- Dates: Mar 2025; Jan 2022; Feb 2025; Jul 18, 2025
+- Sources: [18](https://fortune.com/crypto/2025/03/25/paul-atkins-sec-nominee-securitize-anchorage-off-the-chain-capital-6-million-ethics-disclosure/) [19](https://www.theblock.co/amp/post/348123/sec-chair-nominee-paul-atkins-held-shares-in-securitize-and-anchorage-digital-financial-disclosures-show-reports) [20](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/84398B6A308FF36C85258C58002C898F/$FILE/Atkins%2C Paul S.  finalEA.pdf) [21](https://news.bloomberglaw.com/us-law-week/trumps-sec-pick-brings-slew-of-potential-conflicts-to-new-role) <https://cointelegraph.com/news/senator-elizabeth-warren-paul-atkins-hearing-conflicts-interest-ftx> [22](https://www.banking.senate.gov/imo/media/doc/Follow%20Up%20Letter%20to%20Atkins%20re%20Divestments.pdf)
+
+### 6. Atkins's former holding Securitize went public through a SPAC sponsored by the Lutnick family's Cantor Fitzgerald, with an SEC sign-off.
+
+**Partly accurate** · Evidence: The pieces are documented, the conflict link is inferred
+
+- Securitize, where Atkins held options and a board seat until Feb 2025, agreed in Oct 2025 to merge with Cantor Equity Partners II, a SPAC sponsored by a Cantor Fitzgerald affiliate.
+- Cantor is now controlled by trusts for Howard Lutnick's children (see C35).
+- The SEC declared the Form S-4 effective on June 5, 2026, with a shareholder vote set for June 29, 2026.
+- Atkins's one-year Securitize bar would have lapsed around Feb 2026, and S-4 effectiveness is normally a staff action under delegated authority.
+- No source asserts that Atkins took part or that anything improper happened.
+- This is our cross-reference of three separately reported facts: an SEC chair's ex-holding, a Commerce secretary's family firm and an SEC approval.
+- We did not confirm whether the merger closed.
+- Dates: Feb 2025; Oct 2025; June 5, 2026; June 29, 2026; Feb 2026
+- Sources: [19](https://www.theblock.co/amp/post/348123/sec-chair-nominee-paul-atkins-held-shares-in-securitize-and-anchorage-digital-financial-disclosures-show-reports) [23](https://www.theblock.co/news/deals/2026-06-05-securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz-403842) [24](https://www.tradingview.com/news/prnewswire:ba6f390c9a62f:0-securitize-and-cantor-equity-partners-ii-announce-sec-declaration-of-effectiveness-of-registration-statement-on-form-s-4/)
+
+### 7. Mike Selig's former law-firm clients sit on the side of prediction-market fights his CFTC is now waging.
+
+**Mostly accurate** · Evidence: Documented links (OGE agreement; Intercept; InGame), with the benefit-to-client step inferred
+
+- As a Willkie Farr partner (2022-25), Selig represented dozens of crypto clients, including eToro, Paradigm and Alluvial Finance (Alluvial met his SEC Crypto Task Force staff).
+- He co-signed a July 2024 Paradigm letter urging the CFTC to permit Kalshi's political event contracts, and Paradigm invested in Kalshi in June 2025.
+- Zeteo reports that Willkie represents Polymarket.
+- As CFTC chair he filed a Feb 17, 2026 amicus brief asserting exclusive federal jurisdiction over event contracts and sued AZ, CT and IL (Apr 2, 2026) and more states (see C25/C38).
+- Those actions benefit Kalshi and Polymarket, where Don Jr. is an adviser and 1789 Capital an investor.
+- His recusal covers only specific-party matters involving Willkie or former clients for one year, so policy-wide actions fall outside it.
+- No source alleges a breach.
+- Dates: 2022-25; July 2024; June 2025; Feb 17, 2026; Apr 2, 2026
+- Sources: [25](https://theintercept.com/2025/11/26/trump-crypto-regulation-cftc-mike-selig/) [26](https://www.ingame.com/cftc-pick-selig-letter-backing-sports-contracts/) [27](https://zeteo.com/p/trump-mike-selig-cftc-prediction-markets) [28](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/9C903C665498A61785258D3F0031957A/$FILE/Selig%2C%20Michael%20%20finalEA.pdf) [29](https://www.theblock.co/post/390241/cftc-claims-exclusive-federal-authority-over-prediction-markets-in-new-brief-clashing-with-states) [30](https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits)
+
+### 8. Brian Quintenz (Kalshi board, a16z) was nominated to chair the CFTC.
+
+**Confirmed** · Evidence: Documented
+
+- Quintenz was a Kalshi board member and a16z crypto's policy head.
+- He pledged to leave Kalshi's board if confirmed.
+- The White House withdrew the nomination on Sep 30, 2025, after the Winklevoss twins opposed him; texts he released show Tyler Winklevoss raising Gemini's CFTC case.
+- He never took office, so he made no decisions.
+- The episode matters because the replacement, Selig, later joined Gemini's motion to vacate its CFTC judgment (C52), and Gemini's founders gave about $10M in BTC to MAGA Inc. 23 days later.
+- Amounts: about $10M
+- Dates: Sep 30, 2025
+- Sources: [31](https://decrypt.co/342460/white-house-pulls-quintenz-cftc-chair-nomination-after-clash-with-winklevoss-twins) [32](https://www.notus.org/money/white-house-stalled-brian-quintenz-cftc) <https://cointelegraph.com/news/white-house-pulls-brian-quintenz-cftc-nominee>
+
+### 9. Comptroller Jonathan Gould (ex-Bitfury) approved charters including World Liberty's.
+
+**Partly accurate** · Evidence: Documented background and approvals; no prior-client benefit found
+
+- Gould was OCC chief counsel (2018-21), then Bitfury's chief legal officer (to Sep 2022), then a Jones Day partner.
+- As Comptroller he oversaw conditional trust charters for Coinbase, Ripple, BitGo, Circle, Fidelity Digital Assets, Paxos and Crypto.com, and preliminary approval of World Liberty Trust Co. on Aug 14, 2026 (C12).
+- He has denied acting as a 'Trump fixer'.
+- We found no Bitfury application before the OCC, and no OGE disclosure detail on any retained Bitfury interest.
+- No waiver or cooling-off record was found (as C54 also notes).
+- Dates: 2018-21; Sep 2022; Aug 14, 2026
+- Sources: [33](https://www.bankingdive.com/news/occ-gould-trust-bank-charters-crypto-warren/820886/) [34](https://decrypt.co/329637/former-crypto-executive-senate-nod-head-banking-regulator?amp=1) [35](https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?rand=50490)
+
+### 10. Peter Navarro, a friend of Don Jr., initiated the Pentagon's $620M loan to 1789-backed Vulcan Elements.
+
+**Confirmed** · Evidence: Documented (ProPublica, May 28, 2026, with DoD records and interviews; follow-up letters from lawmakers)
+
+- Navarro is described as a friend of Don Jr. Don Jr. is among the people Navarro dedicated his latest book to, and lawmakers note that Don Jr. visited Navarro in prison.
+- Navarro initiated the OSC loan request, and an unnamed Pentagon official said it was the only deal initiated by a top presidential aide.
+- 1789 Capital invested in Vulcan in its Aug 2025 Series A, and the $1.4B package was announced on Nov 3, 2025.
+- No financial interest of Navarro's in Vulcan is reported.
+- 1789 and the Pentagon deny any role or influence, and Navarro calls the reporting 'fake news'.
+- Amounts: $1.4B
+- Dates: May 28, 2026; Aug 2025; Nov 3, 2025
+- Sources: [36](https://www.kunc.org/2026-05-28/white-house-asked-pentagon-to-loan-money-to-a-company-linked-to-trumps-oldest-son) <https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/> [37](https://www.propublica.org/article/donald-trump-jr-vulcan-lawmakers-letter) [38](https://www.mining.com/?p=1192089)
+
+### 11. Commerce (Lutnick) put CHIPS money and equity into the same Vulcan package.
+
+**Mostly accurate** · Evidence: Documented
+
+- The Nov 3, 2025 package included $50M of CHIPS incentives from Commerce (a preliminary, non-binding LOI) and reportedly a Commerce equity position.
+- Outlets differ on whether these are one $50M or two, and Lutnick publicly promoted the deal.
+- That puts both Lutnick's department and Hegseth's OSC in the 1789-backed company's financing.
+- For Cantor/Lutnick-family links to other minerals beneficiaries see C60.
+- No reporting has Lutnick personally tied to Vulcan.
+- Amounts: $50M
+- Dates: Nov 3, 2025
+- Sources: [38](https://www.mining.com/?p=1192089) <https://www.carolinajournal.com/durham-rare-earth-start-up-receives-1-4b-federal-investment/>
+
+### 12. Pentagon investment leadership comes from Deputy Secretary Feinberg's former firm, Cerberus, and Cerberus-linked firms received DoD work.
+
+**Mostly accurate** · Evidence: Documented for the appointments and contracts; any steering is unverified
+
+- OSC Director David Lorch (since Nov 2025, also senior adviser to Feinberg) was a Cerberus managing director (official DoD bio).
+- George Kollitides, a former Cerberus managing director under Feinberg and a former partner at Alvarez & Marsal Capital, heads the Economic Defense Unit/BOND.
+- He agreed to join the board of D. Boral Acquisition I before his Feb 4, 2026 appointment and joined six days after it (Bloomberg Government), and later resigned from it.
+- Alvarez & Marsal Federal received no-bid DoD contracts worth up to about $350M ($67.6M in Dec 2025; $281.1M in Jun 2026; about $31M paid).
+- ProPublica did not establish that Kollitides selected the firm.
+- Feinberg's ethics agreement let him place Cerberus interests in trusts for his adult children and keep a Cerberus administrative-services contract.
+- Warren says at least four Cerberus-related firms won Golden Dome contracts.
+- DoD says affiliations play no role in funding decisions.
+- Amounts: about $350M; $67.6M; $281.1M; about $31M
+- Dates: Nov 2025; Feb 4, 2026; Dec 2025; Jun 2026
+- Sources: [39](https://www.war.gov/About/Biographies/Biography/Article/4506870/david-lorch/) <https://mergr.com/investor/cerberus-capital-management/team/david-lorch> [45](https://news.bloomberglaw.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties) [46](https://www.warren.senate.gov/newsroom/press-releases/warren-slams-department-of-defense-for-turning-over-contracting-office-to-wall-street-private-equity-bankers/) [47](https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543) <https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/> [42](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4C184A39BDEDAF3B85258C3700320B7D/$FILE/Feinberg%2C%20Stephen%20A.%20%20finalEA.pdf) [43](https://www.bloomberg.com/news/articles/2025-02-20/steve-feinberg-vows-to-divest-cerberus-stake-as-wealth-detailed) [44](https://www.warren.senate.gov/newsroom/press-releases/warren-questions-deputy-secretary-of-defense-on-conflicts-of-interest-involving-dods-golden-dome-missile-defense-program) <https://news.bloomberglaw.com/private-equity/senator-warren-urges-feinberg-to-completely-cut-cerberus-ties>
+
+### 13. Scott Bessent: late divestment of China-exposed farmland, and an Argentina rescue that benefited a friend's fund.
+
+**Mostly accurate** · Evidence: Documented for the farmland, single-source and secondary for the Citrone link
+
+- OGE told Senate Finance that Bessent had missed his Apr 28, 2025 divestment deadline.
+- About $25M of North Dakota farmland remained, a crop roughly 70% exported to China, while he led China trade talks.
+- He said in Oct 2025 that he had divested it.
+- On Argentina, Mother Jones and Popular Information reported that Rob Citrone of Discovery Capital, a friend and former Soros colleague of Bessent, held large Argentine positions and bought more bonds days before Treasury's $20B swap-line announcement (Sep-Oct 2025).
+- Argentine press reported that he lobbied Bessent; the NYT said his role was unclear.
+- Bessent denies that the swap was a gift to investors and says Treasury profited.
+- Citrone is a personal friend, not a former client of Bessent's in office.
+- Amounts: About $25M; roughly 70%; $20B
+- Dates: Apr 28, 2025; Oct 2025
+- Sources: [48](https://www.bankingdive.com/news/bessent-ethics-farmland-divest-assets-investments-china-north-dakota-treasury-crapo-wyden-oge/757703/) <https://www.aol.com/news/us-treasurys-bessent-not-compliance-214905451.html> [49](https://www.scmp.com/news/world/united-states-canada/article/3335539/us-treasury-secretary-scott-bessent-says-he-has-divested-his-soybean-farm) [50](https://develop.motherjones.com/politics/2025/09/trump-argentina-bailout-hedge-fund-billionaire-rob-citrone-scott-bessent) [51](https://popular.info/p/update-treasury-secretary-pressed) <https://batimes.com.ar/news/economy/bessent-steps-in-to-protect-profits-of-friendly-investors-in-argentina.phtml>
+
+### 14. Kash Patel was a Trump Media director who received a stock award just before becoming FBI director.
+
+**Mostly accurate** · Evidence: Documented (SEC Form 4)
+
+- TMTG granted Patel 25,946 restricted shares on Jan 28, 2025, worth about $779K-$840K. Patel told senators he did not and would not accept them and had no stake.
+- Mother Jones reported that he earned $120K a year as a TMTG consultant from 2022, and the award was absent from his disclosure.
+- We found no FBI decision benefiting TMTG.
+- This records a tie, not a decision.
+- Amounts: about $779K-$840K; $120K
+- Dates: Jan 28, 2025
+- Sources: [52](https://www.bloomberg.com/news/articles/2025-02-04/kash-patel-s-800-000-trump-media-award-raises-conflict-questions-for-fbi-pick) [53](https://ktvz.com/money/cnn-business-consumer/2025/01/31/trump-media-grants-large-amounts-of-stock-to-directors-including-two-who-are-trump-administration-nominees/) [14](https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/)
+
+### 15. Michael Kratsios (OSTP) retains Scale AI stock.
+
+**Partly accurate** · Evidence: Documented holding; no decision found
+
+- ProPublica's disclosure tracker lists Scale AI Class B shares worth $1M-$5M. Kratsios was a Scale managing director from 2021 to Jan 2024, and his 2026 annual OGE 278 was certified compliant.
+- Sen. Cantwell's questions concerned Scale labour complaints.
+- We found no specific OSTP decision benefiting Scale.
+- The Meta-Scale deal (Jun 2025, ~$29B valuation) would have revalued his shares, but no source discusses this.
+- Amounts: $1M-$5M; ~$29B
+- Dates: Jan 2024; Jun 2025
+- Sources: [54](https://projects.propublica.org/trump-team-financial-disclosures/appointees/kratsios-michael) [55](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/D87640BF89C748E285258E35002DCCEE/$FILE/Michael-J-Kratsios-2026-278ANNU.pdf) <https://www.commerce.senate.gov/services/files/C84C665D-8944-451D-971F-89A3425DE33E>
+
+### 16. Steve Witkoff's Gulf counterparties include Qatar's QIA, which bought his Park Lane hotel.
+
+**Mostly accurate** · Evidence: Documented; already established in C14/C53
+
+- QIA paid about $623M for the Park Lane in Aug 2023, buying from a Witkoff-Mubadala joint venture.
+- Aryam (Tahnoon) bought 49% of WLF.
+- Witkoff negotiates with Qatar and the UAE as envoy.
+- No source shows a specific envoy decision benefiting these counterparties.
+- Amounts: about $623M; 49%
+- Dates: Aug 2023
+- Sources: [56](https://therealdeal.com/new-york/2023/08/28/qia-buys-park-lane-hotel-from-witkoff/)
+
+### 17. Tom Barrack kept financial ties to TI Capital while pushing its role in the Iraq-Syria pipeline.
+
+**Mostly accurate** · Evidence: Single-source (Reuters investigation, Oct 9, 2026, seen only via syndication and Al-Monitor)
+
+- Barrack and Ziad Ghandour set up a $250M investment venture in 2020, and Barrack disclosed a paid consulting role with it in 2024.
+- As ambassador to Turkey and Syria envoy, he reportedly pressed Iraqi and Syrian officials to include TI Capital in the Kirkuk-Baniyas pipeline.
+- In July 2026 Iraq and Syria signed MoUs with a consortium of TI Capital, Chevron and Qatar's UCC Holding (project cost $15B+).
+- OGE had no waiver on file.
+- Reuters found no evidence that Barrack profits from the pipeline.
+- State says he has 'no affiliation with, role in, or financial interest in' the project and is ethics-compliant.
+- Amounts: $250M; $15B+
+- Dates: Oct 9, 2026; July 2026
+- Sources: [57](https://al-monitor.com/originals/2026/10/trump-envoy-kept-financial-ties-firm-behind-15-billion-hormuz-bypass-oil-pipeline) <https://www.thestar.com.my/news/world/2026/10/09/trump-envoy-kept-financial-ties-to-firm-behind-15-billion-hormuz-bypass-oil-pipeline-plan> [58](https://www.zawya.com/en/press-release/iraq-and-syria-together-with-ucc-chevron-and-ti-capital-advance-strategic-oil-corridor-to-the-mediterranean-401747)
+
+### 18. Massad Boulos (Africa adviser) mediated a DRC minerals-for-security deal.
+
+**Partly accurate** · Evidence: Documented role; no personal benefit found
+
+- Boulos, whose son is married to Tiffany Trump, ran SCOA Nigeria (Fadoul Group), and his business scale is disputed (NYT).
+- He mediated the June 27, 2025 DRC-Rwanda peace and minerals framework.
+- KoBold Metals credited him for helping its Manono lithium deal.
+- Africa Confidential (single-source) says Gentry Beach, a business associate of Don Jr., was a prime mover in the talks.
+- We found no Boulos or family financial interest in the DRC deals.
+- Dates: June 27, 2025
+- Sources: [59](https://www.semafor.com/article/03/10/2025/trump-to-appoint-drc-envoy-as-us-eyes-minerals-pact) <https://mining.com/web/trump-envoy-says-us-congo-mining-and-security-deal-moving-ahead> [61](https://koboldmetals.com/2025/05/07/kobold-metals-and-avz-agree-on-framework-for-kobold-to-acquire-avzs-interests-in-the-manono-lithium-deposit-in-drc/) [60](https://www.africa-confidential.com/article/id/15443/washington-tries-a-new-push-in-kinshasa)
+
+### 19. Charles Kushner (ambassador to France) made decisions benefiting prior business ties.
+
+**Unverified**
+
+- Evidence grade: none found.
+- He was confirmed 51-45 in May 2025, after a 2020 pardon.
+- Coverage is about diplomatic rows (summoned by France and absent).
+- We found no reporting of a decision tied to Kushner Companies or Gulf money.
+- Gulf money in the family runs through Jared's Affinity (C15).
+- One dossier site's claims about his ethics agreement could not be verified and are omitted.
+- Dates: May 2025
+- Sources: [62](https://www.axios.com/2026/02/24/kushner-trump-ambassadors-diplomatic-drama) <https://www.euronews.com/2025/05/20/charles-kushner-father-of-trumps-son-in-law-confirmed-as-us-ambassador-to-france>
 
 ## Denials and context
 
@@ -160,181 +340,219 @@ Most of the named officials have documented prior ties to parties affected by th
 - Bessent says the Argentina swap was not a bailout and that Treasury profited.
 - State Department: Barrack has no role or financial interest in the pipeline and is certified ethics-compliant.
 - Gould denies receiving any presidential direction on WLF's charter.
-- Most crypto relief came through industry-wide policy, which the standard one-year recusals do not cover. This is lawful, but it means recusal terms do not address the main channel of benefit.
+- Most crypto relief came through industry-wide policy, which the standard one-year recusals do not cover.
+  - This is lawful, but it means recusal terms do not address the main channel of benefit.
 - Research note: the web-search budget ran out before Patomak's buyer, Kratsios's post-Meta divestment status, and the Gentry Beach details could be checked further. govexec.com could not be fetched directly.
 
 ## People and organisations
 
-- [[1789 Capital]]
-- [[Alluvial Finance]]
-- [[Alvarez & Marsal Federal]]
-- [[Anchorage Digital]]
-- [[Argentina]]
-- [[Ballard Partners]]
-- [[Bitfury]]
-- [[Brad Bondi]]
-- [[Brian Ballard]]
-- [[Brian Quintenz]]
-- [[Cantor Equity Partners II]]
-- [[Cantor Fitzgerald]]
-- [[Carolina Amesty]]
-- [[Cerberus Capital Management]]
-- [[Charles Kushner]]
-- [[Commodity Futures Trading Commission]]
-- [[D. Boral Acquisition I]]
-- [[D. Boral Capital]]
-- [[David Lorch]]
-- [[David Sacks]]
-- [[Democratic Republic of the Congo]]
-- [[Discovery Capital Management]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[FTX]]
-- [[Gemini]]
-- [[Gentry Beach]]
-- [[George Kollitides]]
-- [[Howard Lutnick]]
-- [[Jared Kushner]]
-- [[Jonathan Gould]]
-- [[Kalshi]]
-- [[Kash Patel]]
-- [[Kirkuk-Baniyas pipeline project]]
-- [[KoBold Metals]]
-- [[Massad Boulos]]
-- [[Michael Boulos]]
-- [[Michael Kratsios]]
-- [[Mike Selig]]
-- [[National Cryptocurrency Enforcement Team]]
-- [[New America Acquisition I Corp]]
-- [[Off the Chain Capital]]
-- [[Office of Government Ethics]]
-- [[Office of Strategic Capital]]
-- [[Office of the Comptroller of the Currency]]
-- [[Pam Bondi]]
-- [[Paradigm]]
-- [[Patomak Global Partners]]
-- [[Paul Atkins]]
-- [[Paul Hastings LLP]]
-- [[Pentagon (Department of Defense)]]
-- [[Pete Hegseth]]
-- [[Peter Navarro]]
-- [[Polymarket]]
-- [[Qatar]]
-- [[Qatar Boeing 747 gift]]
-- [[Qatar Investment Authority]]
-- [[Rob Citrone]]
-- [[Scale AI]]
-- [[Scott Bessent]]
-- [[Securities and Exchange Commission]]
-- [[Securitize]]
-- [[Stephen Feinberg]]
-- [[Steve Witkoff]]
-- [[Susie Wiles]]
-- [[TI Capital]]
-- [[Todd Blanche]]
-- [[Tom Barrack]]
-- [[Trevor Milton]]
-- [[Trump Media & Technology Group]]
-- [[Tyler Winklevoss]]
-- [[US Department of Commerce]]
-- [[US Department of Justice (us-doj)]]
-- [[US State Department]]
-- [[US Treasury]]
-- [[Vulcan Elements]]
-- [[White House Trump administration]]
-- [[Willkie Farr & Gallagher]]
-- [[World Liberty Financial]]
-- [[Ziad Ghandour]]
+- [[1789 Capital]] · Fund
+- [[Alluvial Finance]] · Company
+- [[Alvarez & Marsal Federal]] · Company
+- [[Anchorage Digital]] · Company
+- [[Argentina]] · Country
+- [[Ballard Partners]] · Company
+- [[Bitfury]] · Company
+- [[Brad Bondi]] · Person
+- [[Brian Ballard]] · Person
+- [[Brian Quintenz]] · Person
+- [[Cantor Equity Partners II]] · Company
+- [[Cantor Fitzgerald]] · Company
+- [[Carolina Amesty]] · Person
+- [[Cerberus Capital Management]] · Fund
+- [[Charles Kushner]] · Person
+- [[Commodity Futures Trading Commission]] · Government body
+- [[D. Boral Acquisition I]] · Company
+- [[D. Boral Capital]] · Company
+- [[David Lorch]] · Person
+- [[David Sacks]] · Person
+- [[Democratic Republic of the Congo]] · Country
+- [[Discovery Capital Management]] · Fund
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[FTX]] · Company
+- [[Gemini]] · Company
+- [[Gentry Beach]] · Person
+- [[George Kollitides]] · Person
+- [[Howard Lutnick]] · Person
+- [[Jared Kushner]] · Person
+- [[Jonathan Gould]] · Person
+- [[Kalshi]] · Company
+- [[Kash Patel]] · Person
+- [[Kirkuk-Baniyas pipeline project]] · Asset
+- [[KoBold Metals]] · Company
+- [[Massad Boulos]] · Person
+- [[Michael Boulos]] · Person
+- [[Michael Kratsios]] · Person
+- [[Mike Selig]] · Person
+- [[National Cryptocurrency Enforcement Team]] · Government body
+- [[New America Acquisition I Corp]] · Company
+- [[Off the Chain Capital]] · Fund
+- [[Office of Government Ethics]] · Government body
+- [[Office of Strategic Capital]] · Government body
+- [[Office of the Comptroller of the Currency]] · Government body
+- [[Pam Bondi]] · Person
+- [[Paradigm]] · Fund
+- [[Patomak Global Partners]] · Company
+- [[Paul Atkins]] · Person
+- [[Paul Hastings LLP]] · Company
+- [[Pentagon (Department of Defense)]] · Government body
+- [[Pete Hegseth]] · Person
+- [[Peter Navarro]] · Person
+- [[Polymarket]] · Company
+- [[Qatar]] · Country
+- [[Qatar Boeing 747 gift]] · Asset
+- [[Qatar Investment Authority]] · Fund
+- [[Rob Citrone]] · Person
+- [[Scale AI]] · Company
+- [[Scott Bessent]] · Person
+- [[Securities and Exchange Commission]] · Government body
+- [[Securitize]] · Company
+- [[Stephen Feinberg]] · Person
+- [[Steve Witkoff]] · Person
+- [[Susie Wiles]] · Person
+- [[TI Capital]] · Company
+- [[Todd Blanche]] · Person
+- [[Tom Barrack]] · Person
+- [[Trevor Milton]] · Person
+- [[Trump Media & Technology Group]] · Company
+- [[Tyler Winklevoss]] · Person
+- [[US Department of Commerce]] · Government body
+- [[US Department of Justice (us-doj)]] · Government body
+- [[US State Department]] · Government body
+- [[US Treasury]] · Government body
+- [[Vulcan Elements]] · Company
+- [[White House Trump administration]] · Government body
+- [[Willkie Farr & Gallagher]] · Company
+- [[World Liberty Financial]] · Company
+- [[Ziad Ghandour]] · Person
 
 ## Relationships documented
 
-- [[1789 Capital]] *invested* [[Polymarket]] (2025-08-26, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[1789 Capital]] *Series A stake* [[Vulcan Elements]] (2025-08, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Anchorage Digital]] *custodian for bitcoin treasury* [[Trump Media & Technology Group]] (2025-05-27, commercial) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Brad Bondi]] *defense counsel; DOJ dropped charges* [[Carolina Amesty]] (2025-08, legal) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Brad Bondi]] *brother* [[Pam Bondi]] (family) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Brad Bondi]] *partner* [[Paul Hastings LLP]] (commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Brad Bondi]] *lead trial counsel* [[Trevor Milton]] (legal) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Brian Quintenz]] *board member* [[Kalshi]] (2021, commercial) · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Cantor Fitzgerald]] *sponsor affiliate* [[Cantor Equity Partners II]] (ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Commodity Futures Trading Commission]] *asserted exclusive jurisdiction benefiting* [[Kalshi]] (2026-02-17, regulatory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Charles Kushner]] *father* [[Jared Kushner]] (family) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[D. Boral Capital]] *affiliate* [[D. Boral Acquisition I]] (ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[D. Boral Capital]] *co-underwrote $345M IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[David Lorch]] *former managing director* [[Cerberus Capital Management]] (commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[David Lorch]] *director since Nov 2025* [[Office of Strategic Capital]] (2025-11, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Discovery Capital Management]] *large bond positions* [[Argentina]] (2025-09, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Donald Trump]] *appointed ambassador to France; pardoned 2020* [[Charles Kushner]] (2025-05, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Donald Trump]] *appointed Attorney General* [[Pam Bondi]] (2025-02, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Donald Trump]] *pardoned* [[Trevor Milton]] (2025-03-28, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Donald Trump Jr]] *partner* [[1789 Capital]] (2024-11, ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] (2025-01, advisory) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Donald Trump Jr]] *advisory board* [[Polymarket]] (2025-08, advisory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Gentry Beach]] *business associate* [[Donald Trump Jr]] (commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[George Kollitides]] *ex-partner at affiliate A&M Capital; listed senior adviser Apr 2026* [[Alvarez & Marsal Federal]] (2026-04, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[George Kollitides]] *former MD under Feinberg* [[Cerberus Capital Management]] (commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[George Kollitides]] *joined board days after Pentagon appointment; later resigned* [[D. Boral Acquisition I]] (2026-02-10, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Howard Lutnick]] *former chairman; children's trusts control* [[Cantor Fitzgerald]] (2025-05, family) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Jonathan Gould]] *chief legal officer to Sep 2022* [[Bitfury]] (2021, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Jonathan Gould]] *Comptroller* [[Office of the Comptroller of the Currency]] (2025-07-10, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Kash Patel]] *former director and paid consultant* [[Trump Media & Technology Group]] (2022, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[KoBold Metals]] *credited for opening doors on Manono* [[Massad Boulos]] (2025, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Massad Boulos]] *mediated minerals-for-security deal* [[Democratic Republic of the Congo]] (2025-06-27, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Massad Boulos]] *father* [[Michael Boulos]] (family) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Michael Kratsios]] *holds Class B shares ($1M-$5M); ex-MD* [[Scale AI]] (2024-01, ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Mike Selig]] *former client* [[Alluvial Finance]] (legal) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Mike Selig]] *chair; amicus and suits vs states on event contracts* [[Commodity Futures Trading Commission]] (2025-12-22, regulatory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Mike Selig]] *represented; co-signed letter urging CFTC to allow Kalshi political contracts* [[Paradigm]] (2024-07, legal) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Mike Selig]] *partner 2022-25* [[Willkie Farr & Gallagher]] (2022, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Office of the Comptroller of the Currency]] *preliminary conditional trust charter approval* [[World Liberty Financial]] (2026-08-14, regulatory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Office of Strategic Capital]] *$620M direct loan* [[Vulcan Elements]] (2025-11-03, $620M, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Pam Bondi]] *registered agent/key personnel on Qatar contract* [[Ballard Partners]] (2019, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Pam Bondi]] *signed OLC memo calling acceptance legally permissible* [[Qatar Boeing 747 gift]] (2025-05, regulatory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Pam Bondi]] *sold >$1M of shares on Apr 2, 2025* [[Trump Media & Technology Group]] (2025-04-02, $1M, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Paradigm]] *invested* [[Kalshi]] (2025-06, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Patomak Global Partners]] *board-advisory consulting agreement* [[FTX]] (2022-01, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Paul Atkins]] *held equity before taking office* [[Anchorage Digital]] (2025-03, ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Paul Atkins]] *fund stake* [[Off the Chain Capital]] (2025-03, ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Paul Atkins]] *founder/CEO; divested on confirmation* [[Patomak Global Partners]] (2025, ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Paul Atkins]] *chair* [[Securities and Exchange Commission]] (2025-04, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Paul Atkins]] *board seat and call options until Feb 2025* [[Securitize]] (2025-02, ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Pentagon (Department of Defense)]] *no-bid contracts up to ~$350M* [[Alvarez & Marsal Federal]] (2026-06, $348.7M, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Pete Hegseth]] *Secretary* [[Pentagon (Department of Defense)]] (2025-01, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Peter Navarro]] *friend (book dedication; prison visit)* [[Donald Trump Jr]] (political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Peter Navarro]] *initiated Vulcan loan request* [[Office of Strategic Capital]] (2025, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Qatar]] *paid $115K/month for lobbying* [[Ballard Partners]] (2019-07, $115K, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Qatar Investment Authority]] *bought Park Lane from Witkoff-Mubadala JV* [[Steve Witkoff]] (2023-08, $623M, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Rob Citrone]] *co-founder* [[Discovery Capital Management]] (ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Rob Citrone]] *friend and former Soros colleague* [[Scott Bessent]] (political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Scott Bessent]] *Secretary* [[US Treasury]] (2025-01, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Securities and Exchange Commission]] *declared Securitize S-4 effective* [[Cantor Equity Partners II]] (2026-06-05, regulatory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Securitize]] *merging via SPAC* [[Cantor Equity Partners II]] (2025-10, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Stephen Feinberg]] *co-founder; interests to children's trusts; services contract* [[Cerberus Capital Management]] (2025, ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] (2025-03, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Susie Wiles]] *former partner* [[Ballard Partners]] (commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[TI Capital]] *consortium member (MoU)* [[Kirkuk-Baniyas pipeline project]] (2026-07, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Todd Blanche]] *disbanded via memo while holding crypto* [[National Cryptocurrency Enforcement Team]] (2025-04-07, regulatory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Todd Blanche]] *Deputy AG, later AG* [[US Department of Justice (us-doj)]] (political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Tom Barrack]] *pressed officials to include in pipeline (Reuters)* [[TI Capital]] (2026, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Tom Barrack]] *co-founded $250M venture; paid consulting role* [[Ziad Ghandour]] (2020, $250M, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Trump Media & Technology Group]] *granted 25,946 restricted shares (~$779K)* [[Kash Patel]] (2025-01-28, $779K, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Tyler Winklevoss]] *pressed on Gemini litigation; opposed nomination* [[Brian Quintenz]] (2025-09, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[US Department of Commerce]] *$50M CHIPS LOI/equity* [[Vulcan Elements]] (2025-11-03, $50M, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[US Treasury]] *$20B swap line* [[Argentina]] (2025-10, $20B, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[White House Trump administration]] *withdrew CFTC nomination* [[Brian Quintenz]] (2025-09-30, political) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Willkie Farr & Gallagher]] *reportedly represents (Zeteo)* [[Polymarket]] (legal) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Ziad Ghandour]] *founder* [[TI Capital]] (ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Money (12)
 
-## Leads not covered by the video
+- [[Qatar]] *paid $115K/month for lobbying* [[Ballard Partners]] · 2019-07 · $115K · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Qatar Investment Authority]] *bought Park Lane from Witkoff-Mubadala JV* [[Steve Witkoff]] · 2023-08 · $623M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Trump Media & Technology Group]] *granted 25,946 restricted shares (~$779K)* [[Kash Patel]] · 2025-01-28 · $779K · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Pam Bondi]] *sold >$1M of shares on Apr 2, 2025* [[Trump Media & Technology Group]] · 2025-04-02 · $1M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Paradigm]] *invested* [[Kalshi]] · 2025-06 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[1789 Capital]] *Series A stake* [[Vulcan Elements]] · 2025-08 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[1789 Capital]] *invested* [[Polymarket]] · 2025-08-26 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Discovery Capital Management]] *large bond positions* [[Argentina]] · 2025-09 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[US Treasury]] *$20B swap line* [[Argentina]] · 2025-10 · $20B · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Office of Strategic Capital]] *$620M direct loan* [[Vulcan Elements]] · 2025-11-03 · $620M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[US Department of Commerce]] *$50M CHIPS LOI/equity* [[Vulcan Elements]] · 2025-11-03 · $50M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Pentagon (Department of Defense)]] *no-bid contracts up to ~$350M* [[Alvarez & Marsal Federal]] · 2026-06 · $348.7M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 
-- **Feinberg/Cerberus and Golden Dome contracts**: Warren says at least four Cerberus-related firms won Golden Dome work under a deputy secretary whose Cerberus interests went to his children's trusts. Cerberus-backed Ligado is also suing DoD for $40B. [source](https://www.warren.senate.gov/newsroom/press-releases/warren-questions-deputy-secretary-of-defense-on-conflicts-of-interest-involving-dods-golden-dome-missile-defense-program) · [[Stephen Feinberg]] [[Cerberus Capital Management]] [[Pentagon (Department of Defense)]]
-- **Kollitides' D. Boral Acquisition I seat and the Trump sons' SPAC underwriter**: The Pentagon official overseeing BOND joined the board of an affiliate of the bank that co-underwrote New America Acquisition I. We found no coverage linking the two; this needs a dedicated check of D. Boral Acquisition I's filings. [source](https://news.bloomberglaw.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties) · [[George Kollitides]] [[D. Boral Capital]] [[New America Acquisition I Corp]]
-- **Securitize-Cantor SPAC: who at the SEC handled it**: Atkins's ex-holding merged into a Lutnick-family SPAC. Check whether Atkins recused, whether the Commission or staff acted, and whether the deal closed. [source](https://www.theblock.co/news/deals/2026-06-05-securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz-403842) · [[Paul Atkins]] [[Securitize]] [[Cantor Fitzgerald]]
-- **Barrack's TI Capital and Qatar's UCC in the pipeline consortium**: Reuters found the ambassador pushing his business partner's firm into a consortium with Qatari UCC Holding and Chevron. [source](https://al-monitor.com/originals/2026/10/trump-envoy-kept-financial-ties-firm-behind-15-billion-hormuz-bypass-oil-pipeline) · [[Tom Barrack]] [[TI Capital]] [[Qatar]]
-- **Gentry Beach's role in DRC minerals diplomacy**: Africa Confidential reports that a Don Jr. business associate was a prime mover alongside Boulos in the DRC talks. [source](https://www.africa-confidential.com/article/id/15443/washington-tries-a-new-push-in-kinshasa) · [[Gentry Beach]] [[Massad Boulos]] [[Donald Trump Jr]] [[Democratic Republic of the Congo]]
-- **Alvarez & Marsal no-bid contracts**: ProPublica: up to ~$350M in no-bid work for a firm whose investment affiliate still listed the BOND chief as a senior adviser. [source](https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543) · [[Alvarez & Marsal Federal]] [[George Kollitides]] [[Pentagon (Department of Defense)]]
+### Ownership (11)
 
-## Sources
+- [[Michael Kratsios]] *holds Class B shares ($1M-$5M); ex-MD* [[Scale AI]] · 2024-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Donald Trump Jr]] *partner* [[1789 Capital]] · 2024-11 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Paul Atkins]] *founder/CEO; divested on confirmation* [[Patomak Global Partners]] · 2025 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Stephen Feinberg]] *co-founder; interests to children's trusts; services contract* [[Cerberus Capital Management]] · 2025 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Paul Atkins]] *board seat and call options until Feb 2025* [[Securitize]] · 2025-02 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Paul Atkins]] *held equity before taking office* [[Anchorage Digital]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Paul Atkins]] *fund stake* [[Off the Chain Capital]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Cantor Fitzgerald]] *sponsor affiliate* [[Cantor Equity Partners II]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[D. Boral Capital]] *affiliate* [[D. Boral Acquisition I]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Rob Citrone]] *co-founder* [[Discovery Capital Management]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Ziad Ghandour]] *founder* [[TI Capital]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Family (4)
+
+- [[Howard Lutnick]] *former chairman; children's trusts control* [[Cantor Fitzgerald]] · 2025-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Brad Bondi]] *brother* [[Pam Bondi]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Charles Kushner]] *father* [[Jared Kushner]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Massad Boulos]] *father* [[Michael Boulos]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Regulatory (7)
+
+- [[Todd Blanche]] *disbanded via memo while holding crypto* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Pam Bondi]] *signed OLC memo calling acceptance legally permissible* [[Qatar Boeing 747 gift]] · 2025-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Jonathan Gould]] *Comptroller* [[Office of the Comptroller of the Currency]] · 2025-07-10 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Mike Selig]] *chair; amicus and suits vs states on event contracts* [[Commodity Futures Trading Commission]] · 2025-12-22 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Commodity Futures Trading Commission]] *asserted exclusive jurisdiction benefiting* [[Kalshi]] · 2026-02-17 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Securities and Exchange Commission]] *declared Securitize S-4 effective* [[Cantor Equity Partners II]] · 2026-06-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Office of the Comptroller of the Currency]] *preliminary conditional trust charter approval* [[World Liberty Financial]] · 2026-08-14 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Advisory (2)
+
+- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Donald Trump Jr]] *advisory board* [[Polymarket]] · 2025-08 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Political (16)
+
+- [[KoBold Metals]] *credited for opening doors on Manono* [[Massad Boulos]] · 2025 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Peter Navarro]] *initiated Vulcan loan request* [[Office of Strategic Capital]] · 2025 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Pete Hegseth]] *Secretary* [[Pentagon (Department of Defense)]] · 2025-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Scott Bessent]] *Secretary* [[US Treasury]] · 2025-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Donald Trump]] *appointed Attorney General* [[Pam Bondi]] · 2025-02 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Paul Atkins]] *chair* [[Securities and Exchange Commission]] · 2025-04 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Donald Trump]] *appointed ambassador to France; pardoned 2020* [[Charles Kushner]] · 2025-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Massad Boulos]] *mediated minerals-for-security deal* [[Democratic Republic of the Congo]] · 2025-06-27 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Tyler Winklevoss]] *pressed on Gemini litigation; opposed nomination* [[Brian Quintenz]] · 2025-09 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[White House Trump administration]] *withdrew CFTC nomination* [[Brian Quintenz]] · 2025-09-30 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[David Lorch]] *director since Nov 2025* [[Office of Strategic Capital]] · 2025-11 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Tom Barrack]] *pressed officials to include in pipeline (Reuters)* [[TI Capital]] · 2026 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Peter Navarro]] *friend (book dedication; prison visit)* [[Donald Trump Jr]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Rob Citrone]] *friend and former Soros colleague* [[Scott Bessent]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Todd Blanche]] *Deputy AG, later AG* [[US Department of Justice (us-doj)]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Legal (6)
+
+- [[Mike Selig]] *represented; co-signed letter urging CFTC to allow Kalshi political contracts* [[Paradigm]] · 2024-07 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Donald Trump]] *pardoned* [[Trevor Milton]] · 2025-03-28 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Brad Bondi]] *defense counsel; DOJ dropped charges* [[Carolina Amesty]] · 2025-08 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Brad Bondi]] *lead trial counsel* [[Trevor Milton]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Mike Selig]] *former client* [[Alluvial Finance]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Willkie Farr & Gallagher]] *reportedly represents (Zeteo)* [[Polymarket]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Commercial (18)
+
+- [[Pam Bondi]] *registered agent/key personnel on Qatar contract* [[Ballard Partners]] · 2019 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Tom Barrack]] *co-founded $250M venture; paid consulting role* [[Ziad Ghandour]] · 2020 · $250M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Brian Quintenz]] *board member* [[Kalshi]] · 2021 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Jonathan Gould]] *chief legal officer to Sep 2022* [[Bitfury]] · 2021 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Kash Patel]] *former director and paid consultant* [[Trump Media & Technology Group]] · 2022 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Mike Selig]] *partner 2022-25* [[Willkie Farr & Gallagher]] · 2022 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Patomak Global Partners]] *board-advisory consulting agreement* [[FTX]] · 2022-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Anchorage Digital]] *custodian for bitcoin treasury* [[Trump Media & Technology Group]] · 2025-05-27 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Securitize]] *merging via SPAC* [[Cantor Equity Partners II]] · 2025-10 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[D. Boral Capital]] *co-underwrote $345M IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[George Kollitides]] *joined board days after Pentagon appointment; later resigned* [[D. Boral Acquisition I]] · 2026-02-10 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[George Kollitides]] *ex-partner at affiliate A&M Capital; listed senior adviser Apr 2026* [[Alvarez & Marsal Federal]] · 2026-04 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[TI Capital]] *consortium member (MoU)* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Brad Bondi]] *partner* [[Paul Hastings LLP]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[David Lorch]] *former managing director* [[Cerberus Capital Management]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Gentry Beach]] *business associate* [[Donald Trump Jr]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[George Kollitides]] *former MD under Feinberg* [[Cerberus Capital Management]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Susie Wiles]] *former partner* [[Ballard Partners]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+## Leads not covered here
+
+- **Feinberg/Cerberus and Golden Dome contracts**
+  - Warren says at least four Cerberus-related firms won Golden Dome work under a deputy secretary whose Cerberus interests went to his children's trusts.
+  - Cerberus-backed Ligado is also suing DoD for $40B.
+  - [[Stephen Feinberg]] [[Cerberus Capital Management]] [[Pentagon (Department of Defense)]] · [Source](https://www.warren.senate.gov/newsroom/press-releases/warren-questions-deputy-secretary-of-defense-on-conflicts-of-interest-involving-dods-golden-dome-missile-defense-program)
+- **Kollitides' D. Boral Acquisition I seat and the Trump sons' SPAC underwriter**
+  - The Pentagon official overseeing BOND joined the board of an affiliate of the bank that co-underwrote New America Acquisition I. We found no coverage linking the two; this needs a dedicated check of D. Boral Acquisition I's filings.
+  - [[George Kollitides]] [[D. Boral Capital]] [[New America Acquisition I Corp]] · [Source](https://news.bloomberglaw.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties)
+- **Securitize-Cantor SPAC: who at the SEC handled it**
+  - Atkins's ex-holding merged into a Lutnick-family SPAC.
+  - Check whether Atkins recused, whether the Commission or staff acted, and whether the deal closed.
+  - [[Paul Atkins]] [[Securitize]] [[Cantor Fitzgerald]] · [Source](https://www.theblock.co/news/deals/2026-06-05-securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz-403842)
+- **Barrack's TI Capital and Qatar's UCC in the pipeline consortium**
+  - Reuters found the ambassador pushing his business partner's firm into a consortium with Qatari UCC Holding and Chevron.
+  - [[Tom Barrack]] [[TI Capital]] [[Qatar]] · [Source](https://al-monitor.com/originals/2026/10/trump-envoy-kept-financial-ties-firm-behind-15-billion-hormuz-bypass-oil-pipeline)
+- **Gentry Beach's role in DRC minerals diplomacy**
+  - Africa Confidential reports that a Don Jr. business associate was a prime mover alongside Boulos in the DRC talks.
+  - [[Gentry Beach]] [[Massad Boulos]] [[Donald Trump Jr]] [[Democratic Republic of the Congo]] · [Source](https://www.africa-confidential.com/article/id/15443/washington-tries-a-new-push-in-kinshasa)
+- **Alvarez & Marsal no-bid contracts**
+  - ProPublica: up to ~$350M in no-bid work for a firm whose investment affiliate still listed the BOND chief as a senior adviser.
+  - [[Alvarez & Marsal Federal]] [[George Kollitides]] [[Pentagon (Department of Defense)]] · [Source](https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543)
+
+## Sources (62)
 
 1. [Fact Check: Pam Bondi used to lobby for Qatar](https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html) (Yahoo/USA Today, 2024-12)
 2. [Pam Bondi, Trump's new attorney general pick, is a former Qatar lobbyist](https://semafor.com/article/11/22/2024/pam-bondi-trumps-new-attorney-general-pick-is-a-former-qatar-lobbyist) (Semafor, 2024-11-22)

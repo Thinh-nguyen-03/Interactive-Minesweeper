@@ -10,9 +10,13 @@ tags:
 ---
 # Gregory Meeks
 
-*person*
-
 House Foreign Affairs ranking member; Jan 2026 request for an IG probe of Witkoff
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ House Foreign Affairs ranking member; Jan 2026 request for an IG probe of Witkof
 
 ## Relationships
 
-- [[Gregory Meeks]] *sought IG/OGE investigation* [[Steve Witkoff]] (2026-01-08, regulatory) · [[C53 The Witkoff family's own Gulf money|C53]]
+### Regulatory (1)
+
+- [[Gregory Meeks]] *sought IG/OGE investigation* [[Steve Witkoff]] · 2026-01-08 · [[C53 The Witkoff family's own Gulf money|C53]]

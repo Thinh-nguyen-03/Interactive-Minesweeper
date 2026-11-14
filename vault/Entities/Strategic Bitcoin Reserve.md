@@ -10,9 +10,15 @@ tags:
 ---
 # Strategic Bitcoin Reserve
 
-*law*
-
 Executive order creating a US government bitcoin reserve.
+
+| | |
+|---|---|
+| Type | Law or policy |
+| Appears in | 1 claim |
+| Connections | 4 |
+
+## How other claims describe it
 
 - Created by EO 14233 on 2025-03-06 from forfeited government BTC
 
@@ -22,11 +28,19 @@ Executive order creating a US government bitcoin reserve.
 
 ## Relationships
 
-- [[Donald Trump]] *signed EO 14233 establishing* [[Strategic Bitcoin Reserve]] (2025-03-06, political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Donald Trump]] *signed order creating* [[Strategic Bitcoin Reserve]] (political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Strategic Bitcoin Reserve]] *holds forfeited government* [[Bitcoin]] (2025-03-06, regulatory) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Strategic Bitcoin Reserve]] *stockpiles* [[Bitcoin]] (ownership) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[White House Trump administration]] *issued executive order creating* [[Strategic Bitcoin Reserve]] (2025-03-06, political) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+### Ownership (1)
+
+- [[Strategic Bitcoin Reserve]] *stockpiles* [[Bitcoin]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+
+### Regulatory (1)
+
+- [[Strategic Bitcoin Reserve]] *holds forfeited government* [[Bitcoin]] · 2025-03-06 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+
+### Political (3)
+
+- [[Donald Trump]] *signed EO 14233 establishing* [[Strategic Bitcoin Reserve]] · 2025-03-06 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[White House Trump administration]] *issued executive order creating* [[Strategic Bitcoin Reserve]] · 2025-03-06 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Donald Trump]] *signed order creating* [[Strategic Bitcoin Reserve]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 
 ## Themes
 

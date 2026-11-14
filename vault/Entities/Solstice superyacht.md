@@ -10,9 +10,13 @@ tags:
 ---
 # Solstice superyacht
 
-*asset*
-
 50m yacht bought by Jared Kushner via Frangi's brokerage; NYT reports about $2.5M overcharge
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ tags:
 
 ## Relationships
 
-- [[Jared Kushner]] *bought via Frangi brokerage* [[Solstice superyacht]] (2022, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Commercial (1)
+
+- [[Jared Kushner]] *bought via Frangi brokerage* [[Solstice superyacht]] · 2022 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

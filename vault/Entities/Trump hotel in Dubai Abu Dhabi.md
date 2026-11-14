@@ -10,9 +10,13 @@ tags:
 ---
 # Trump hotel in Dubai/Abu Dhabi
 
-*asset*
-
 New Gulf hotel mentioned by a worried supporter.
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,7 +24,9 @@ New Gulf hotel mentioned by a worried supporter.
 
 ## Relationships
 
-- [[Trump Organization]] *building* [[Trump hotel in Dubai Abu Dhabi]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+### Commercial (1)
+
+- [[Trump Organization]] *building* [[Trump hotel in Dubai Abu Dhabi]] · [[C16 Qatar jet, arms sales and golf deal|C16]]
 
 ## Themes
 

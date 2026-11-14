@@ -10,9 +10,15 @@ tags:
 ---
 # Susquehanna International Group
 
-*company*
-
 Trading firm reported as a Truth API subscriber
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
 
 - HFT firm reported as a Truth API customer.
 
@@ -23,6 +29,11 @@ Trading firm reported as a Truth API subscriber
 
 ## Relationships
 
-- [[Susquehanna International Group]] *reportedly pays up to $100K/month for Truth API* [[Trump Media & Technology Group]] (2026-10, $100K, money) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
-- [[Susquehanna International Group]] *reported subscriber* [[Truth API]] (2026, money) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Susquehanna International Group]] *reportedly subscribes to* [[Truth API]] (2026-10, commercial) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+### Money (2)
+
+- [[Susquehanna International Group]] *reported subscriber* [[Truth API]] · 2026 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Susquehanna International Group]] *reportedly pays up to $100K/month for Truth API* [[Trump Media & Technology Group]] · 2026-10 · $100K · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+
+### Commercial (1)
+
+- [[Susquehanna International Group]] *reportedly subscribes to* [[Truth API]] · 2026-10 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]

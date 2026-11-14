@@ -3,16 +3,20 @@
   "title": "Crypto.com and TMTG",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Each core fact is documented. Crypto.com agreed on 2025-08-26 to buy $50M of TMTG stock as part of a CRO-treasury deal. The SEC closed its Crypto.com probe with no action on 2025-03-27. Crypto.com gave about $36M ($35M to MAGA Inc. plus $1M to the inauguration). The CFTC filed an amicus brief for Crypto.com on 2026-02-17, and the OCC conditionally approved its trust charter on 2026-02-23. The video errs in calling Crypto.com the party 'facing' the lawsuit (it was the plaintiff, and it lost at the Ninth Circuit), and closing of the $50M purchase is unconfirmed. Beyond timing, no quid pro quo is documented, and Crypto.com denies any link.",
+  "summary": "Each core fact is documented. Crypto.com agreed on 2025-08-26 to take $50M of TMTG stock as part of a CRO-treasury deal, and that swap closed on 2025-09-05 (TMTG paid for $105M of CRO half in its own shares); the larger SPAC treasury plan was terminated on 2026-08-07. The SEC closed its Crypto.com probe with no action on 2025-03-27. Crypto.com gave about $36M ($35M to MAGA Inc. plus $1M to the inauguration). The CFTC filed an amicus brief for Crypto.com on 2026-02-17, and the OCC conditionally approved its trust charter on 2026-02-23. The video errs in calling Crypto.com the party 'facing' the lawsuit: it was the plaintiff, and it lost at the Ninth Circuit. Beyond timing, no quid pro quo is documented, and Crypto.com denies any link.",
   "sub_claims": [
     {
       "statement": "Crypto.com agreed to purchase $50M in TMTG stock in a strategic partnership.",
       "verdict": "confirmed",
-      "finding": "Announced 2025-08-26 with the formation of Trump Media Group CRO Strategy, a treasury company to be listed through a merger with Yorkville Acquisition Corp (ticker MCGA). Crypto.com buys $50M of TMTG common stock; TMTG buys about $105M of CRO; both sides' shares are locked up. I found no report confirming the $50M purchase closed.",
+      "finding": "Announced 2025-08-26 with the formation of Trump Media Group CRO Strategy, a treasury company to be listed through a merger with Yorkville Acquisition Corp (ticker MCGA). Audit correction: the bilateral part closed on 2025-09-05 (The Block, Blockworks). TMTG acquired 684.4M CRO (about $105M at about $0.153), paid 50/50 in cash and TMTG stock. Crypto.com therefore received about $50M of DJT shares (about 2.8M shares per one report), both sides locked up. It was a stock-for-token swap, not a cash purchase of stock. The separate CRO Strategy SPAC treasury plan was never completed. TMTG, Crypto.com and Yorkville mutually terminated it on 2026-08-07, citing market conditions, and also dropped the Yorkville ETF servicing deal and the direct Truth Social prediction-market integration, replacing the latter with a marketing deal.",
       "sources": [
         "https://decrypt.co/336876/trump-media-crypto-com-reveal-6-4-billion-cronos-treasury-plan",
         "https://finance.yahoo.com/news/trump-media-crypto-com-build-130116236.html",
-        "https://blockworks.co/news/trump-media-crypto-com-sign-155m-deal"
+        "https://blockworks.co/news/trump-media-crypto-com-sign-155m-deal",
+        "https://www.theblock.co/news/business/2025-09-05-trump-media-closes-deal-to-buy-684-million-cro-tokens-369646",
+        "https://blockworks.co/news/trump-media-finalizes-cronos-purchase",
+        "https://theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198",
+        "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals"
       ]
     },
     {
@@ -70,10 +74,10 @@
   "corrections": [
     "Transcript says Crypto.com was 'facing' a prediction-markets lawsuit. Crypto.com (through CDNA) was the plaintiff suing Nevada regulators, and it lost at the Ninth Circuit on 2026-08-28 despite the CFTC brief.",
     "Transcript says $36M went to 'Trump affiliated PACs'. The figure is Molly White's tally: about $35M to MAGA Inc. plus $1M to the inauguration.",
-    "Transcript says Crypto.com purchased $50M of TMTG stock. This was an agreement announced 2025-08-26, and I found no confirmation that it closed.",
     "The 'new pro-crypto SEC commissioner' was Paul Atkins, named Chair in December 2024, before the probe closed.",
     "The first Crypto.com/TMTG partnership (ETFs) was announced 2025-03-24, three days before the SEC closure, not months after.",
-    "Transcript says the charter was 'provisionally approved'. The OCC's approval is conditional, and final approval is pending."
+    "Transcript says the charter was 'provisionally approved'. The OCC's approval is conditional, and final approval is pending.",
+    "The $50M of TMTG stock did change hands: on 2025-09-05 TMTG paid for 684.4M CRO (about $105M) half in cash and half in its own stock. Crypto.com received the shares as payment for tokens, not through a cash purchase. The larger CRO Strategy SPAC treasury plan was terminated on 2026-08-07."
   ],
   "denials_and_context": [
     "A Crypto.com spokeswoman told AP there is 'absolutely no connection' between the SEC decision and its political activity. TMTG called AP's story politically driven.",
@@ -83,87 +87,613 @@
     "Cutting the other way: Crypto.com is MAGA Inc.'s largest donor, and its CDNA exchange powers TMTG's own Truth Predict product, so the CFTC brief also indirectly supports a Trump-owned business."
   ],
   "sources": [
-    {"title": "Trump Media, Crypto.com Reveal $6.4 Billion Cronos Treasury Plan", "publisher": "Decrypt", "url": "https://decrypt.co/336876/trump-media-crypto-com-reveal-6-4-billion-cronos-treasury-plan", "date": "2025-08-26"},
-    {"title": "Trump Media, Crypto.com to Build $6.4B CRO Treasury Firm, CRO Jumps 25%", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/news/trump-media-crypto-com-build-130116236.html", "date": "2025-08-26"},
-    {"title": "Trump Media and Crypto.com sign $155M strategic deal", "publisher": "Blockworks", "url": "https://blockworks.co/news/trump-media-crypto-com-sign-155m-deal", "date": "2025-08-26"},
-    {"title": "Crypto.com says SEC's investigation has been shut with no plan to pursue charges", "publisher": "The Block", "url": "https://www.theblock.co/post/348558/crypto-com-says-secs-investigation-has-been-shut-with-no-plan-to-pursue-charges", "date": "2025-03-27"},
-    {"title": "SEC officially closes investigation into Crypto.com", "publisher": "Cointelegraph", "url": "https://cointelegraph.com/news/sec-officially-closes-investigation-crypto-com", "date": "2025-03-27"},
-    {"title": "Influence tracker: quid pro quo", "publisher": "Molly White / Citation Needed", "url": "https://influence.citationneeded.news/analysis/quidproquo", "date": "2026"},
-    {"title": "How a Trump business deal with a crypto firm exposes potential conflicts of interest", "publisher": "AP via PBS NewsHour", "url": "https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest", "date": "2025-12-16"},
-    {"title": "Trump's media company partners with Crypto.com to launch 'Made in America' ETFs", "publisher": "The Block", "url": "https://www.theblock.co/amp/post/347850/trumps-media-company-partners-with-crypto-com-to-launch-etfs-made-up-of-digital-assets-and-stocks-made-in-america", "date": "2025-03-24"},
-    {"title": "Trump Media and Crypto.com finalize agreement to launch slate of 'Made in America' crypto-related ETFs", "publisher": "The Block", "url": "https://www.theblock.co/post/351515/trump-media-crypto-com-finalize-agreement-made-in-america-digital-asset-stock-etfs", "date": "2025-04-22"},
-    {"title": "Trump names crypto-friendly SEC Commissioner Mark Uyeda as acting chair as Gensler departs", "publisher": "The Block", "url": "https://www.theblock.co/amp/post/335944/trump-names-sec-commissioner-mark-uyeda-as-acting-chair-amid-a-crypto-regulatory-shift", "date": "2025-01"},
-    {"title": "After Donating $35 Million to Trump PAC, Crypto.com Scores Wins From Regulators", "publisher": "Decrypt", "url": "https://decrypt.co/359029/after-donating-35-million-trump-pac-crypto-com-scores-wins-regulators", "date": "2026-02"},
-    {"title": "Gemini and Crypto.com Parent Company Donate $21M to Pro-Trump Super PAC", "publisher": "KuCoin News", "url": "https://www.kucoin.com/news/flash/gemini-and-crypto-com-parent-company-donate-21m-to-pro-trump-super-pac", "date": "2025-10"},
-    {"title": "CFTC claims exclusive federal authority over prediction markets in new brief, clashing with states", "publisher": "The Block", "url": "https://www.theblock.co/post/390241/cftc-claims-exclusive-federal-authority-over-prediction-markets-in-new-brief-clashing-with-states", "date": "2026-02-17"},
-    {"title": "Selig reveals CFTC filed amicus brief in Crypto.com litigation", "publisher": "SBC Americas", "url": "https://sbcamericas.com/2026/02/17/cftc-selig-authority-event-contracts/", "date": "2026-02-17"},
-    {"title": "CFTC Files Amicus Brief Asserting Exclusive Jurisdiction over Listed Sporting Event Contracts", "publisher": "Chapman and Cutler", "url": "https://www.chapman.com/media/publication/15194_Chapman-CFTC-Amicus-Brief-Sporting-Contracts-022026.pdf", "date": "2026-02"},
-    {"title": "Nevada judge that ruled for Kalshi rules against Crypto.com", "publisher": "SBC Americas", "url": "https://sbcamericas.com/2025/10/03/crypto-com-injunction-denial-nv/", "date": "2025-10-03"},
-    {"title": "Crypto.com exits Nevada event contracts", "publisher": "CasinoBeats", "url": "https://casinobeats.com/2025/10/27/cryptocom-exits-nevada-event-contracts/", "date": "2025-10-27"},
-    {"title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC's exclusive jurisdiction claim", "publisher": "The Block", "url": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046", "date": "2026-08-28"},
-    {"title": "CDNA v. Nevada cert petition appendix (No. 26-344)", "publisher": "U.S. Supreme Court", "url": "https://www.supremecourt.gov/DocketPDF/26/26-344/423887/20260911105156438_CDNA%20v.%20Nevada%20-%20Cert%20Petition%20Appendix%20FILE.pdf", "date": "2026-09-11"},
-    {"title": "Crypto.com gets conditional approval for national trust charter", "publisher": "American Banker", "url": "https://www.americanbanker.com/payments/news/crypto-com-gets-conditional-approval-for-occ-trust-charter", "date": "2026-02-23"},
-    {"title": "Crypto.com secures conditional OCC approval in bid to become a federally regulated bank", "publisher": "The Block", "url": "https://theblock.co/post/390841/crypto-com-secures-conditional-occ-approval-in-bid-to-become-a-federally-regulated-bank", "date": "2026-02-23"},
-    {"title": "OCC conditional approval (cd1367)", "publisher": "Office of the Comptroller of the Currency", "url": "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/2026/cd1367.pdf", "date": "2026-02"},
-    {"title": "Trump Media enters prediction market business", "publisher": "Axios", "url": "https://www.axios.com/2025/10/28/truth-social-prediction-markets", "date": "2025-10-28"}
+    {
+      "title": "Trump Media, Crypto.com Reveal $6.4 Billion Cronos Treasury Plan",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/336876/trump-media-crypto-com-reveal-6-4-billion-cronos-treasury-plan",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "Trump Media, Crypto.com to Build $6.4B CRO Treasury Firm, CRO Jumps 25%",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/trump-media-crypto-com-build-130116236.html",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "Trump Media and Crypto.com sign $155M strategic deal",
+      "publisher": "Blockworks",
+      "url": "https://blockworks.co/news/trump-media-crypto-com-sign-155m-deal",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "Crypto.com says SEC's investigation has been shut with no plan to pursue charges",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/348558/crypto-com-says-secs-investigation-has-been-shut-with-no-plan-to-pursue-charges",
+      "date": "2025-03-27"
+    },
+    {
+      "title": "SEC officially closes investigation into Crypto.com",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sec-officially-closes-investigation-crypto-com",
+      "date": "2025-03-27"
+    },
+    {
+      "title": "Influence tracker: quid pro quo",
+      "publisher": "Molly White / Citation Needed",
+      "url": "https://influence.citationneeded.news/analysis/quidproquo",
+      "date": "2026"
+    },
+    {
+      "title": "How a Trump business deal with a crypto firm exposes potential conflicts of interest",
+      "publisher": "AP via PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest",
+      "date": "2025-12-16"
+    },
+    {
+      "title": "Trump's media company partners with Crypto.com to launch 'Made in America' ETFs",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/347850/trumps-media-company-partners-with-crypto-com-to-launch-etfs-made-up-of-digital-assets-and-stocks-made-in-america",
+      "date": "2025-03-24"
+    },
+    {
+      "title": "Trump Media and Crypto.com finalize agreement to launch slate of 'Made in America' crypto-related ETFs",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/351515/trump-media-crypto-com-finalize-agreement-made-in-america-digital-asset-stock-etfs",
+      "date": "2025-04-22"
+    },
+    {
+      "title": "Trump names crypto-friendly SEC Commissioner Mark Uyeda as acting chair as Gensler departs",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/335944/trump-names-sec-commissioner-mark-uyeda-as-acting-chair-amid-a-crypto-regulatory-shift",
+      "date": "2025-01"
+    },
+    {
+      "title": "After Donating $35 Million to Trump PAC, Crypto.com Scores Wins From Regulators",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/359029/after-donating-35-million-trump-pac-crypto-com-scores-wins-regulators",
+      "date": "2026-02"
+    },
+    {
+      "title": "Gemini and Crypto.com Parent Company Donate $21M to Pro-Trump Super PAC",
+      "publisher": "KuCoin News",
+      "url": "https://www.kucoin.com/news/flash/gemini-and-crypto-com-parent-company-donate-21m-to-pro-trump-super-pac",
+      "date": "2025-10"
+    },
+    {
+      "title": "CFTC claims exclusive federal authority over prediction markets in new brief, clashing with states",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/390241/cftc-claims-exclusive-federal-authority-over-prediction-markets-in-new-brief-clashing-with-states",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "Selig reveals CFTC filed amicus brief in Crypto.com litigation",
+      "publisher": "SBC Americas",
+      "url": "https://sbcamericas.com/2026/02/17/cftc-selig-authority-event-contracts/",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "CFTC Files Amicus Brief Asserting Exclusive Jurisdiction over Listed Sporting Event Contracts",
+      "publisher": "Chapman and Cutler",
+      "url": "https://www.chapman.com/media/publication/15194_Chapman-CFTC-Amicus-Brief-Sporting-Contracts-022026.pdf",
+      "date": "2026-02"
+    },
+    {
+      "title": "Nevada judge that ruled for Kalshi rules against Crypto.com",
+      "publisher": "SBC Americas",
+      "url": "https://sbcamericas.com/2025/10/03/crypto-com-injunction-denial-nv/",
+      "date": "2025-10-03"
+    },
+    {
+      "title": "Crypto.com exits Nevada event contracts",
+      "publisher": "CasinoBeats",
+      "url": "https://casinobeats.com/2025/10/27/cryptocom-exits-nevada-event-contracts/",
+      "date": "2025-10-27"
+    },
+    {
+      "title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC's exclusive jurisdiction claim",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "CDNA v. Nevada cert petition appendix (No. 26-344)",
+      "publisher": "U.S. Supreme Court",
+      "url": "https://www.supremecourt.gov/DocketPDF/26/26-344/423887/20260911105156438_CDNA%20v.%20Nevada%20-%20Cert%20Petition%20Appendix%20FILE.pdf",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "Crypto.com gets conditional approval for national trust charter",
+      "publisher": "American Banker",
+      "url": "https://www.americanbanker.com/payments/news/crypto-com-gets-conditional-approval-for-occ-trust-charter",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "Crypto.com secures conditional OCC approval in bid to become a federally regulated bank",
+      "publisher": "The Block",
+      "url": "https://theblock.co/post/390841/crypto-com-secures-conditional-occ-approval-in-bid-to-become-a-federally-regulated-bank",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "OCC conditional approval (cd1367)",
+      "publisher": "Office of the Comptroller of the Currency",
+      "url": "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/2026/cd1367.pdf",
+      "date": "2026-02"
+    },
+    {
+      "title": "Trump Media enters prediction market business",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2025/10/28/truth-social-prediction-markets",
+      "date": "2025-10-28"
+    },
+    {
+      "title": "Trump Media closes deal to buy 684 million CRO tokens",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2025-09-05-trump-media-closes-deal-to-buy-684-million-cro-tokens-369646",
+      "date": "2025-09-05"
+    },
+    {
+      "title": "Trump Media finalizes $105M Cronos purchase",
+      "publisher": "Blockworks",
+      "url": "https://blockworks.co/news/trump-media-finalizes-cronos-purchase",
+      "date": "2025-09"
+    },
+    {
+      "title": "Trump Media and Crypto.com end partnerships as companies shift priorities",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Exclusive: Trump Media unwinds crypto deals",
+      "publisher": "Axios",
+      "url": "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Days after $5M donation, Trump administration backs Crypto.com in lawsuit",
+      "publisher": "Popular Information",
+      "url": "https://popular.info/p/days-after-5m-donation-trump-administration",
+      "date": "2026-02"
+    },
+    {
+      "title": "CFTC Signals Supreme Court Battle After Nevada Wins Prediction Markets Case",
+      "publisher": "PYMNTS",
+      "url": "https://www.pymnts.com/legal/2026/cftc-signals-supreme-court-battle-after-nevada-wins-prediction-markets-case/",
+      "date": "2026-08"
+    }
   ],
   "entities": [
-    {"id": "crypto-com", "name": "Crypto.com (Foris DAX)", "type": "company", "description": "Singapore-based crypto exchange; parent Foris DAX is MAGA Inc.'s largest donor"},
-    {"id": "trump-media-technology-group", "name": "Trump Media & Technology Group", "type": "company", "description": "Trump-controlled owner of Truth Social; partnered with Crypto.com on ETFs, a CRO treasury and Truth Predict"},
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "U.S. President; controls TMTG via a revocable trust; appoints SEC/CFTC/OCC leadership"},
-    {"id": "sec", "name": "U.S. Securities and Exchange Commission", "type": "government", "description": "Closed its Crypto.com investigation with no action on 2025-03-27"},
-    {"id": "cftc", "name": "Commodity Futures Trading Commission", "type": "government", "description": "Filed an amicus brief backing Crypto.com against Nevada on 2026-02-17"},
-    {"id": "occ", "name": "Office of the Comptroller of the Currency", "type": "government", "description": "Conditionally approved Crypto.com's national trust bank charter on 2026-02-23"},
-    {"id": "mike-selig", "name": "Mike Selig", "type": "person", "description": "CFTC Chair who announced the amicus brief"},
-    {"id": "paul-atkins", "name": "Paul Atkins", "type": "person", "description": "Crypto-friendly SEC Chair named by Trump in December 2024"},
-    {"id": "molly-white", "name": "Molly White", "type": "person", "description": "Crypto critic whose tracker gives the $36M figure; interviewed in the video"},
-    {"id": "kris-marszalek", "name": "Kris Marszalek", "type": "person", "description": "Crypto.com CEO who announced the SEC closure"},
-    {"id": "maga-inc", "name": "MAGA Inc.", "type": "fund", "description": "Pro-Trump super PAC that received about $35M from Foris DAX"},
-    {"id": "trump-inaugural-committee", "name": "Trump 2025 inaugural committee", "type": "fund", "description": "Received $1M from Crypto.com"},
-    {"id": "trump-media-group-cro-strategy", "name": "Trump Media Group CRO Strategy", "type": "company", "description": "CRO treasury company formed by TMTG, Crypto.com and Yorkville; planned ticker MCGA"},
-    {"id": "yorkville-acquisition-corp", "name": "Yorkville Acquisition Corp", "type": "company", "description": "SPAC set to merge with Trump Media Group CRO Strategy"},
-    {"id": "cronos-cro", "name": "Cronos (CRO)", "type": "asset", "description": "Crypto.com's native token held by the treasury venture"},
-    {"id": "crypto-com-derivatives-north-america", "name": "Crypto.com Derivatives North America (CDNA, ex-NADEX)", "type": "company", "description": "CFTC-registered exchange that sued Nevada; powers Truth Predict"},
-    {"id": "nevada-gaming-control-board", "name": "Nevada Gaming Control Board", "type": "government", "description": "State regulator that issued a cease-and-desist to Crypto.com and won at the Ninth Circuit"},
-    {"id": "foris-dax-national-trust-bank", "name": "Foris DAX National Trust Bank", "type": "company", "description": "Proposed Crypto.com national trust bank (conditionally approved)"},
-    {"id": "truth-predict", "name": "Truth Predict", "type": "product", "description": "TMTG prediction-market product built on Crypto.com's CDNA"},
-    {"id": "kalshi", "name": "Kalshi", "type": "company", "description": "Prediction-market rival also in litigation with Nevada; lost at the Ninth Circuit"},
-    {"id": "white-house", "name": "The White House", "type": "government", "description": "Denies that the President has conflicts of interest"},
-    {"id": "karoline-leavitt", "name": "Karoline Leavitt", "type": "person", "description": "White House press secretary who issued the denial"}
+    {
+      "id": "crypto-com",
+      "name": "Crypto.com (Foris DAX)",
+      "type": "company",
+      "description": "Singapore-based crypto exchange; parent Foris DAX is MAGA Inc.'s largest donor"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Trump-controlled owner of Truth Social; partnered with Crypto.com on ETFs, a CRO treasury and Truth Predict"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "U.S. President; controls TMTG via a revocable trust; appoints SEC/CFTC/OCC leadership"
+    },
+    {
+      "id": "sec",
+      "name": "U.S. Securities and Exchange Commission",
+      "type": "government",
+      "description": "Closed its Crypto.com investigation with no action on 2025-03-27"
+    },
+    {
+      "id": "cftc",
+      "name": "Commodity Futures Trading Commission",
+      "type": "government",
+      "description": "Filed an amicus brief backing Crypto.com against Nevada on 2026-02-17"
+    },
+    {
+      "id": "occ",
+      "name": "Office of the Comptroller of the Currency",
+      "type": "government",
+      "description": "Conditionally approved Crypto.com's national trust bank charter on 2026-02-23"
+    },
+    {
+      "id": "mike-selig",
+      "name": "Mike Selig",
+      "type": "person",
+      "description": "CFTC Chair who announced the amicus brief"
+    },
+    {
+      "id": "paul-atkins",
+      "name": "Paul Atkins",
+      "type": "person",
+      "description": "Crypto-friendly SEC Chair named by Trump in December 2024"
+    },
+    {
+      "id": "molly-white",
+      "name": "Molly White",
+      "type": "person",
+      "description": "Crypto critic whose tracker gives the $36M figure; interviewed in the video"
+    },
+    {
+      "id": "kris-marszalek",
+      "name": "Kris Marszalek",
+      "type": "person",
+      "description": "Crypto.com CEO who announced the SEC closure"
+    },
+    {
+      "id": "maga-inc",
+      "name": "MAGA Inc.",
+      "type": "fund",
+      "description": "Pro-Trump super PAC that received about $35M from Foris DAX"
+    },
+    {
+      "id": "trump-inaugural-committee",
+      "name": "Trump 2025 inaugural committee",
+      "type": "fund",
+      "description": "Received $1M from Crypto.com"
+    },
+    {
+      "id": "trump-media-group-cro-strategy",
+      "name": "Trump Media Group CRO Strategy",
+      "type": "company",
+      "description": "CRO treasury company formed by TMTG, Crypto.com and Yorkville; planned ticker MCGA"
+    },
+    {
+      "id": "yorkville-acquisition-corp",
+      "name": "Yorkville Acquisition Corp",
+      "type": "company",
+      "description": "SPAC set to merge with Trump Media Group CRO Strategy"
+    },
+    {
+      "id": "cronos-cro",
+      "name": "Cronos (CRO)",
+      "type": "asset",
+      "description": "Crypto.com's native token held by the treasury venture"
+    },
+    {
+      "id": "crypto-com-derivatives-north-america",
+      "name": "Crypto.com Derivatives North America (CDNA, ex-NADEX)",
+      "type": "company",
+      "description": "CFTC-registered exchange that sued Nevada; powers Truth Predict"
+    },
+    {
+      "id": "nevada-gaming-control-board",
+      "name": "Nevada Gaming Control Board",
+      "type": "government",
+      "description": "State regulator that issued a cease-and-desist to Crypto.com and won at the Ninth Circuit"
+    },
+    {
+      "id": "foris-dax-national-trust-bank",
+      "name": "Foris DAX National Trust Bank",
+      "type": "company",
+      "description": "Proposed Crypto.com national trust bank (conditionally approved)"
+    },
+    {
+      "id": "truth-predict",
+      "name": "Truth Predict",
+      "type": "product",
+      "description": "TMTG prediction-market product built on Crypto.com's CDNA"
+    },
+    {
+      "id": "kalshi",
+      "name": "Kalshi",
+      "type": "company",
+      "description": "Prediction-market rival also in litigation with Nevada; lost at the Ninth Circuit"
+    },
+    {
+      "id": "white-house",
+      "name": "The White House",
+      "type": "government",
+      "description": "Denies that the President has conflicts of interest"
+    },
+    {
+      "id": "karoline-leavitt",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "White House press secretary who issued the denial"
+    }
   ],
   "relationships": [
-    {"source": "crypto-com", "target": "trump-media-technology-group", "label": "agreed to buy $50M of common stock in", "type": "money", "date": "2025-08-26", "amount_usd": 50000000},
-    {"source": "trump-media-technology-group", "target": "cronos-cro", "label": "agreed to buy ~$105M of", "type": "money", "date": "2025-08-26", "amount_usd": 105000000},
-    {"source": "trump-media-technology-group", "target": "trump-media-group-cro-strategy", "label": "co-founded CRO treasury venture", "type": "ownership", "date": "2025-08-26"},
-    {"source": "crypto-com", "target": "trump-media-group-cro-strategy", "label": "co-founded and contributed CRO to", "type": "commercial", "date": "2025-08-26"},
-    {"source": "trump-media-group-cro-strategy", "target": "yorkville-acquisition-corp", "label": "to merge with SPAC", "type": "commercial", "date": "2025-08-26"},
-    {"source": "crypto-com", "target": "trump-media-technology-group", "label": "ETF partnership for Truth.Fi (non-binding, then binding 2025-04-22)", "type": "commercial", "date": "2025-03-24"},
-    {"source": "sec", "target": "crypto-com", "label": "closed investigation with no action", "type": "regulatory", "date": "2025-03-27"},
-    {"source": "kris-marszalek", "target": "crypto-com", "label": "CEO of", "type": "ownership"},
-    {"source": "donald-trump", "target": "paul-atkins", "label": "named SEC Chair", "type": "political", "date": "2024-12"},
-    {"source": "paul-atkins", "target": "sec", "label": "chairs", "type": "regulatory"},
-    {"source": "crypto-com", "target": "trump-inaugural-committee", "label": "donated", "type": "political", "date": "2024-12", "amount_usd": 1000000},
-    {"source": "crypto-com", "target": "maga-inc", "label": "donated (Feb 2025 $10M; Sep-Oct 2025 $20M; Jan 2026 $5M)", "type": "political", "date": "2025-02/2026-01", "amount_usd": 35000000},
-    {"source": "maga-inc", "target": "donald-trump", "label": "super PAC backing", "type": "political"},
-    {"source": "molly-white", "target": "crypto-com", "label": "tallied $36M in Trump-linked contributions from", "type": "media"},
-    {"source": "crypto-com-derivatives-north-america", "target": "nevada-gaming-control-board", "label": "sued to block state enforcement (lost PI Oct 2025; lost at 9th Cir. 2026-08-28)", "type": "legal", "date": "2025-06"},
-    {"source": "crypto-com", "target": "crypto-com-derivatives-north-america", "label": "parent of", "type": "ownership"},
-    {"source": "cftc", "target": "crypto-com-derivatives-north-america", "label": "filed amicus brief supporting", "type": "legal", "date": "2026-02-17"},
-    {"source": "mike-selig", "target": "cftc", "label": "chairs", "type": "regulatory"},
-    {"source": "donald-trump", "target": "mike-selig", "label": "nominated as CFTC Chair", "type": "political", "date": "2025-10"},
-    {"source": "occ", "target": "foris-dax-national-trust-bank", "label": "granted conditional national trust charter", "type": "regulatory", "date": "2026-02-23"},
-    {"source": "crypto-com", "target": "foris-dax-national-trust-bank", "label": "applied for charter (Oct 2025) for", "type": "ownership", "date": "2025-10"},
-    {"source": "crypto-com-derivatives-north-america", "target": "truth-predict", "label": "provides exchange infrastructure for", "type": "commercial", "date": "2025-10-28"},
-    {"source": "trump-media-technology-group", "target": "truth-predict", "label": "launched", "type": "ownership", "date": "2025-10-28"},
-    {"source": "donald-trump", "target": "trump-media-technology-group", "label": "controls via revocable trust", "type": "ownership"},
-    {"source": "kalshi", "target": "nevada-gaming-control-board", "label": "litigated over event contracts; lost at 9th Cir.", "type": "legal", "date": "2026-08-28"},
-    {"source": "karoline-leavitt", "target": "white-house", "label": "press secretary for", "type": "political"}
+    {
+      "source": "crypto-com",
+      "target": "trump-media-technology-group",
+      "label": "agreed to buy $50M of common stock in",
+      "type": "money",
+      "date": "2025-08-26",
+      "amount_usd": 50000000
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "cronos-cro",
+      "label": "agreed to buy ~$105M of",
+      "type": "money",
+      "date": "2025-08-26",
+      "amount_usd": 105000000
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "trump-media-group-cro-strategy",
+      "label": "co-founded CRO treasury venture",
+      "type": "ownership",
+      "date": "2025-08-26"
+    },
+    {
+      "source": "crypto-com",
+      "target": "trump-media-group-cro-strategy",
+      "label": "co-founded and contributed CRO to",
+      "type": "commercial",
+      "date": "2025-08-26"
+    },
+    {
+      "source": "trump-media-group-cro-strategy",
+      "target": "yorkville-acquisition-corp",
+      "label": "to merge with SPAC",
+      "type": "commercial",
+      "date": "2025-08-26"
+    },
+    {
+      "source": "crypto-com",
+      "target": "trump-media-technology-group",
+      "label": "ETF partnership for Truth.Fi (non-binding, then binding 2025-04-22)",
+      "type": "commercial",
+      "date": "2025-03-24"
+    },
+    {
+      "source": "sec",
+      "target": "crypto-com",
+      "label": "closed investigation with no action",
+      "type": "regulatory",
+      "date": "2025-03-27"
+    },
+    {
+      "source": "kris-marszalek",
+      "target": "crypto-com",
+      "label": "CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump",
+      "target": "paul-atkins",
+      "label": "named SEC Chair",
+      "type": "political",
+      "date": "2024-12"
+    },
+    {
+      "source": "paul-atkins",
+      "target": "sec",
+      "label": "chairs",
+      "type": "regulatory"
+    },
+    {
+      "source": "crypto-com",
+      "target": "trump-inaugural-committee",
+      "label": "donated",
+      "type": "political",
+      "date": "2024-12",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "crypto-com",
+      "target": "maga-inc",
+      "label": "donated (Feb 2025 $10M; Sep-Oct 2025 $20M; Jan 2026 $5M)",
+      "type": "political",
+      "date": "2025-02/2026-01",
+      "amount_usd": 35000000
+    },
+    {
+      "source": "maga-inc",
+      "target": "donald-trump",
+      "label": "super PAC backing",
+      "type": "political"
+    },
+    {
+      "source": "molly-white",
+      "target": "crypto-com",
+      "label": "tallied $36M in Trump-linked contributions from",
+      "type": "media"
+    },
+    {
+      "source": "crypto-com-derivatives-north-america",
+      "target": "nevada-gaming-control-board",
+      "label": "sued to block state enforcement (lost PI Oct 2025; lost at 9th Cir. 2026-08-28)",
+      "type": "legal",
+      "date": "2025-06"
+    },
+    {
+      "source": "crypto-com",
+      "target": "crypto-com-derivatives-north-america",
+      "label": "parent of",
+      "type": "ownership"
+    },
+    {
+      "source": "cftc",
+      "target": "crypto-com-derivatives-north-america",
+      "label": "filed amicus brief supporting",
+      "type": "legal",
+      "date": "2026-02-17"
+    },
+    {
+      "source": "mike-selig",
+      "target": "cftc",
+      "label": "chairs",
+      "type": "regulatory"
+    },
+    {
+      "source": "donald-trump",
+      "target": "mike-selig",
+      "label": "nominated as CFTC Chair",
+      "type": "political",
+      "date": "2025-10"
+    },
+    {
+      "source": "occ",
+      "target": "foris-dax-national-trust-bank",
+      "label": "granted conditional national trust charter",
+      "type": "regulatory",
+      "date": "2026-02-23"
+    },
+    {
+      "source": "crypto-com",
+      "target": "foris-dax-national-trust-bank",
+      "label": "applied for charter (Oct 2025) for",
+      "type": "ownership",
+      "date": "2025-10"
+    },
+    {
+      "source": "crypto-com-derivatives-north-america",
+      "target": "truth-predict",
+      "label": "provides exchange infrastructure for",
+      "type": "commercial",
+      "date": "2025-10-28"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "truth-predict",
+      "label": "launched",
+      "type": "ownership",
+      "date": "2025-10-28"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-media-technology-group",
+      "label": "controls via revocable trust",
+      "type": "ownership"
+    },
+    {
+      "source": "kalshi",
+      "target": "nevada-gaming-control-board",
+      "label": "litigated over event contracts; lost at 9th Cir.",
+      "type": "legal",
+      "date": "2026-08-28"
+    },
+    {
+      "source": "karoline-leavitt",
+      "target": "white-house",
+      "label": "press secretary for",
+      "type": "political"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "crypto-com",
+      "label": "paid ~$50M in DJT stock plus ~$50M cash for 684.4M CRO (closed)",
+      "type": "money",
+      "date": "2025-09-05",
+      "amount_usd": 105000000
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "trump-media-group-cro-strategy",
+      "label": "mutually terminated SPAC treasury plan",
+      "type": "commercial",
+      "date": "2026-08-07"
+    }
   ],
   "leads": [
-    {"title": "Truth Predict runs on Crypto.com's CDNA exchange", "why_connected": "The same Crypto.com unit that got CFTC amicus support runs TMTG's own prediction-market product, so the federal-preemption fight directly affects a Trump-owned business.", "entities": ["truth-predict", "crypto-com-derivatives-north-america", "trump-media-technology-group", "cftc"], "source_url": "https://www.axios.com/2025/10/28/truth-social-prediction-markets"},
-    {"title": "Crypto.com's spending on a lobbyist close to Trump", "why_connected": "AP reported that Crypto.com ramped up payments to a Trump-connected lobbyist alongside its donations; the lobbyist's identity and fees deserve their own check.", "entities": ["crypto-com", "donald-trump"], "source_url": "https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest"},
-    {"title": "Gemini's USDC donation to MAGA Inc. in the same filing period", "why_connected": "Gemini (a canonical entity whose SEC case was also dropped) gave ~1.5M USDC to MAGA Inc. alongside Foris DAX's $20M.", "entities": ["gemini", "maga-inc"], "source_url": "https://www.kucoin.com/news/flash/gemini-and-crypto-com-parent-company-donate-21m-to-pro-trump-super-pac"},
-    {"title": "Trump Media Group CRO Strategy / Yorkville SPAC status", "why_connected": "The $6.4B CRO treasury SPAC gave TMTG a large stake for little cash, per AP. Whether it and the $50M share purchase closed is unconfirmed.", "entities": ["trump-media-group-cro-strategy", "yorkville-acquisition-corp", "trump-media-technology-group", "crypto-com"], "source_url": "https://blockworks.co/news/trump-media-crypto-com-sign-155m-deal"},
-    {"title": "Supreme Court cert petition CDNA v. Nevada (No. 26-344)", "why_connected": "Crypto.com is seeking Supreme Court review after losing at the Ninth Circuit. The federal government's position at cert stage would be another potential benefit.", "entities": ["crypto-com-derivatives-north-america", "nevada-gaming-control-board", "cftc", "kalshi"], "source_url": "https://www.supremecourt.gov/DocketPDF/26/26-344/423887/20260911105156438_CDNA%20v.%20Nevada%20-%20Cert%20Petition%20Appendix%20FILE.pdf"}
-  ]
+    {
+      "title": "Truth Predict runs on Crypto.com's CDNA exchange",
+      "why_connected": "The same Crypto.com unit that got CFTC amicus support runs TMTG's own prediction-market product, so the federal-preemption fight directly affects a Trump-owned business.",
+      "entities": [
+        "truth-predict",
+        "crypto-com-derivatives-north-america",
+        "trump-media-technology-group",
+        "cftc"
+      ],
+      "source_url": "https://www.axios.com/2025/10/28/truth-social-prediction-markets"
+    },
+    {
+      "title": "Crypto.com's spending on a lobbyist close to Trump",
+      "why_connected": "AP reported that Crypto.com ramped up payments to a Trump-connected lobbyist alongside its donations; the lobbyist's identity and fees deserve their own check.",
+      "entities": [
+        "crypto-com",
+        "donald-trump"
+      ],
+      "source_url": "https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest"
+    },
+    {
+      "title": "Gemini's USDC donation to MAGA Inc. in the same filing period",
+      "why_connected": "Gemini (a canonical entity whose SEC case was also dropped) gave ~1.5M USDC to MAGA Inc. alongside Foris DAX's $20M.",
+      "entities": [
+        "gemini",
+        "maga-inc"
+      ],
+      "source_url": "https://www.kucoin.com/news/flash/gemini-and-crypto-com-parent-company-donate-21m-to-pro-trump-super-pac"
+    },
+    {
+      "title": "Trump Media Group CRO Strategy / Yorkville SPAC status",
+      "why_connected": "The $6.4B CRO treasury SPAC gave TMTG a large stake for little cash, per AP. Whether it and the $50M share purchase closed is unconfirmed.",
+      "entities": [
+        "trump-media-group-cro-strategy",
+        "yorkville-acquisition-corp",
+        "trump-media-technology-group",
+        "crypto-com"
+      ],
+      "source_url": "https://blockworks.co/news/trump-media-crypto-com-sign-155m-deal"
+    },
+    {
+      "title": "Supreme Court cert petition CDNA v. Nevada (No. 26-344)",
+      "why_connected": "Crypto.com is seeking Supreme Court review after losing at the Ninth Circuit. The federal government's position at cert stage would be another potential benefit.",
+      "entities": [
+        "crypto-com-derivatives-north-america",
+        "nevada-gaming-control-board",
+        "cftc",
+        "kalshi"
+      ],
+      "source_url": "https://www.supremecourt.gov/DocketPDF/26/26-344/423887/20260911105156438_CDNA%20v.%20Nevada%20-%20Cert%20Petition%20Appendix%20FILE.pdf"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Whether Crypto.com's $50M TMTG stock purchase actually closed",
+      "Ninth Circuit ruling against Crypto.com on 2026-08-28",
+      "OCC conditional approval of Foris DAX National Trust Bank on 2026-02-23 and whether it became final",
+      "$35M to MAGA Inc. plus $1M inauguration"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Corrected sub-claim 1, the summary and the corrections. The write-up said there was no confirmation that the $50M stock purchase closed, but The Block and Blockworks report the swap closed on 2025-09-05: TMTG paid for 684.4M CRO (about $105M) half in cash and half in DJT stock, so Crypto.com received about $50M of TMTG shares.",
+      "Added the 2026-08-07 mutual termination of the Trump Media Group CRO Strategy SPAC plan (The Block, Axios), with relationship edges.",
+      "Ninth Circuit loss (3-0, 2026-08-28), OCC conditional approval (2026-02-23, not final), and donation totals upheld by PYMNTS, Bloomberg Law, American Banker, Decrypt and Popular Information. NOTUS gives a lower $30M MAGA Inc. figure at an earlier cutoff. Verdict and confidence unchanged."
+    ],
+    "new_sources": [
+      {
+        "title": "Trump Media closes deal to buy 684 million CRO tokens",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/news/business/2025-09-05-trump-media-closes-deal-to-buy-684-million-cro-tokens-369646",
+        "date": "2025-09-05"
+      },
+      {
+        "title": "Trump Media finalizes $105M Cronos purchase",
+        "publisher": "Blockworks",
+        "url": "https://blockworks.co/news/trump-media-finalizes-cronos-purchase",
+        "date": "2025-09"
+      },
+      {
+        "title": "Trump Media and Crypto.com end partnerships as companies shift priorities",
+        "publisher": "The Block",
+        "url": "https://theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Exclusive: Trump Media unwinds crypto deals",
+        "publisher": "Axios",
+        "url": "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Days after $5M donation, Trump administration backs Crypto.com in lawsuit",
+        "publisher": "Popular Information",
+        "url": "https://popular.info/p/days-after-5m-donation-trump-administration",
+        "date": "2026-02"
+      },
+      {
+        "title": "CFTC Signals Supreme Court Battle After Nevada Wins Prediction Markets Case",
+        "publisher": "PYMNTS",
+        "url": "https://www.pymnts.com/legal/2026/cftc-signals-supreme-court-battle-after-nevada-wins-prediction-markets-case/",
+        "date": "2026-08"
+      }
+    ]
+  }
 }

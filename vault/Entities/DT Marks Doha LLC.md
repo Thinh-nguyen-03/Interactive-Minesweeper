@@ -10,9 +10,13 @@ tags:
 ---
 # DT Marks Doha LLC
 
-*company*
-
 Trump Organization licensing vehicle for Qatar
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Trump Organization licensing vehicle for Qatar
 
 ## Relationships
 
-- [[Trump Organization]] *licensing vehicle of* [[DT Marks Doha LLC]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
+### Ownership (1)
+
+- [[Trump Organization]] *licensing vehicle of* [[DT Marks Doha LLC]] · [[C63 Shell entities and ownership chains|C63]]

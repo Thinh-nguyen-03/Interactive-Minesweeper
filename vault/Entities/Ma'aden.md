@@ -10,9 +10,13 @@ tags:
 ---
 # Ma'aden
 
-*company*
-
 Saudi mining company; title sponsor of LIV Golf Virginia 2026
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Saudi mining company; title sponsor of LIV Golf Virginia 2026
 
 ## Relationships
 
-- [[Ma'aden]] *title sponsor of LIV Golf Virginia* [[LIV Golf]] (2026-05, commercial) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+### Commercial (1)
+
+- [[Ma'aden]] *title sponsor of LIV Golf Virginia* [[LIV Golf]] · 2026-05 · [[C56 Saudi Arabia family deals alongside US policy|C56]]

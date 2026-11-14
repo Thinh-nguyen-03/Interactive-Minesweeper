@@ -10,9 +10,13 @@ tags:
 ---
 # Timothy Parlatore
 
-*person*
-
 Lawyer for the Witkoff family; threatened the NYT with a defamation suit
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Lawyer for the Witkoff family; threatened the NYT with a defamation suit
 
 ## Relationships
 
-- [[Timothy Parlatore]] *threatened defamation suit on behalf of the Witkoffs* [[The New York Times]] (2025-10-02, legal) · [[C53 The Witkoff family's own Gulf money|C53]]
+### Legal (1)
+
+- [[Timothy Parlatore]] *threatened defamation suit on behalf of the Witkoffs* [[The New York Times]] · 2025-10-02 · [[C53 The Witkoff family's own Gulf money|C53]]

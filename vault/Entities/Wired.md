@@ -12,9 +12,16 @@ tags:
 ---
 # Wired
 
-*media*
-
 Reported Prusak's remarks and that Foundation's contracts were old.
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 3 claims |
+| Connections | 7 |
+| Also known as | WIRED |
+
+## How other claims describe it
 
 - Published the Jessica Klein feature on American Bitcoin.
 - Reported that the $24M figure was 'fuzzy' and drawn from inherited or partner contracts.
@@ -28,8 +35,10 @@ Reported Prusak's remarks and that Foundation's contracts were old.
 
 ## Relationships
 
-- [[Matt Prusak]] *told brothers bring capital-markets access and 'narrative'* [[Wired]] (2025, media) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Matt Prusak]] *told of Trump 'narrative' value* [[Wired]] (media) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Wired]] *reported tariff-refund rights pitch at 20-30%* [[Cantor Fitzgerald]] (2025-07, media) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[Wired]] *reported $24M figure 'fuzzy' and contracts inherited* [[Foundation Future Industries]] (2026, media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Wired]] *reported predates Eric Trump* [[$24M Pentagon contract for Foundation]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+### Media (5)
+
+- [[Matt Prusak]] *told brothers bring capital-markets access and 'narrative'* [[Wired]] · 2025 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Wired]] *reported tariff-refund rights pitch at 20-30%* [[Cantor Fitzgerald]] · 2025-07 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Wired]] *reported $24M figure 'fuzzy' and contracts inherited* [[Foundation Future Industries]] · 2026 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Matt Prusak]] *told of Trump 'narrative' value* [[Wired]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Wired]] *reported predates Eric Trump* [[$24M Pentagon contract for Foundation]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]

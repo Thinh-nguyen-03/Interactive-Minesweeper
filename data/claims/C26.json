@@ -5,13 +5,73 @@
   "confidence": "medium",
   "summary": "Don Jr. is a 1789 Capital partner. The firm passed $1B in assets in September 2025 and later grew to roughly $2-3.5B. The NYT reported returns of roughly 200% as of mid-2026. 1789 invested in Vulcan Elements in August 2025, about three months before a $1.4B government-backed package that included a $620M Pentagon Office of Strategic Capital loan. ProPublica did report that the deal was the only one initiated by a top White House aide (Peter Navarro) and quoted 'The call came from the White House: We have to get this done.' The video compresses the timing, calls the loan a 'contract', and implies Don Jr. anticipated or arranged the deal, which no reporting documents; he and 1789 deny any role.",
   "sub_claims": [
-    {"statement": "Don Jr. is a partner at 1789 Capital.", "verdict": "confirmed", "finding": "He joined as a partner in November 2024. The firm was co-founded by Omeed Malik, with Chris Buskirk. He reportedly does not sit on the growth fund's investment committee.", "sources": ["https://www.bloomberg.com/news/articles/2024-11-12/don-trump-jr-opts-out-of-white-house-to-join-1789-capital", "https://www.axios.com/2026/08/13/1789-capital-real-estate-fund"]},
-    {"statement": "1789 Capital has over $1 billion in assets.", "verdict": "confirmed", "finding": "Reuters reported over $1B on 2025-09-08. Later 2026 reporting puts it at about $2B (growth fund) to about $3.5B in total, plus a $1.2B real-estate fund closed in August 2026, so the video's figure is dated and understated.", "sources": ["https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/", "https://foxbusiness.com/markets/trump-jr-backed-investment-fund-explodes-200m-2b-single-year-closing-doors", "https://letsdatascience.com/news/1789-capital-reports-aum-surge-to-35b-36f60c3e"]},
-    {"statement": "1789 reportedly has returns of over 200%.", "verdict": "mostly-accurate", "finding": "The NYT (Maureen Farrell, 2026-07-22) reported roughly or nearly 200% returns for the main fund as of 2026-06-30, driven largely by Polymarket. These are unrealized, early-stage figures; PitchBook puts the average for 2023-vintage funds at about 21%.", "sources": ["https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/", "https://www.webull.com/news/15278087923966976"]},
-    {"statement": "1789 invested in Vulcan Elements shortly before Vulcan announced a ~$1B, 10,000-metric-ton magnet facility enabled by a US government partnership.", "verdict": "mostly-accurate", "finding": "1789 joined Vulcan's $65M Series A in August 2025, reportedly at about a $200M valuation. On 2025-11-03 Vulcan, ReElement and the Department of War/Commerce announced a $1.4B package: a $620M OSC loan to Vulcan, $50M in CHIPS incentives, an $80M OSC loan to ReElement, about $550M in private capital, and government warrants or equity, for a 10,000 t/yr magnet plant. The site in Benson, NC (about $918M) was announced on 2025-11-18. The gap was about three months, not 'right before'.", "sources": ["https://www.axios.com/local/raleigh/2025/11/03/north-carolina-startup-vulcan-gets-1-billion-for-new-rare-earth-magnets-factory", "https://techcrunch.com/?p=3072196", "https://www.mining.com/?p=1192089", "https://ncnewsline.com/2025/11/18/stein-announces-1b-rare-earth-magnet-plant-in-johnston-county/", "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Vulcan_Elements"]},
-    {"statement": "1789 profits by investing in companies that get government contracts, which Don Jr. is skilled at anticipating.", "verdict": "misleading", "finding": "Several portfolio companies have won federal money, and Don Jr.-linked Unusual Machines was under review for its own Pentagon loan. But no reporting documents that Don Jr. had foreknowledge or was involved. Vulcan's award was a loan with warrants, not a contract.", "sources": ["https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house"]},
-    {"statement": "ProPublica reported 'the call came from the White House: we have to get this deal done' and that Vulcan's was the only deal initiated by a top aide to the president.", "verdict": "confirmed", "finding": "ProPublica (Robert Faturechi, 2026-05-28) reported that White House adviser Peter Navarro, described as a friend of Don Jr., initiated the deal. A Pentagon official is quoted: 'The call came from the White House: We have to get this done.' The video inserts the word 'deal'. Of the dozens of companies under consideration, Vulcan's was the only one initiated by a top presidential aide, and it closed in weeks rather than months.", "sources": ["https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house", "https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/", "https://www.wunc.org/term/news/2026-05-28/vulcan-white-house-donald-trump-jr-620-million-deal"]},
-    {"statement": "1789 says it is a passive minority growth-equity investor and does not call the government.", "verdict": "confirmed", "finding": "This is the firm's stated position. 1789 told ProPublica it played no role and did not know of the loan before it was public. A Trump Jr. spokesperson said he does not discuss portfolio companies with officials and did not speak to Navarro about Vulcan. The exact quoted wording and the speaker in the clip could not be independently located.", "sources": ["https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house", "https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/"]}
+    {
+      "statement": "Don Jr. is a partner at 1789 Capital.",
+      "verdict": "confirmed",
+      "finding": "He joined as a partner in November 2024. The firm was co-founded by Omeed Malik, with Chris Buskirk. He reportedly does not sit on the growth fund's investment committee.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2024-11-12/don-trump-jr-opts-out-of-white-house-to-join-1789-capital",
+        "https://www.axios.com/2026/08/13/1789-capital-real-estate-fund"
+      ]
+    },
+    {
+      "statement": "1789 Capital has over $1 billion in assets.",
+      "verdict": "confirmed",
+      "finding": "Reuters reported over $1B on 2025-09-08. Later 2026 reporting puts it at about $2B (growth fund) to about $3.5B in total, plus a $1.2B real-estate fund closed in August 2026, so the video's figure is dated and understated.",
+      "sources": [
+        "https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/",
+        "https://foxbusiness.com/markets/trump-jr-backed-investment-fund-explodes-200m-2b-single-year-closing-doors",
+        "https://letsdatascience.com/news/1789-capital-reports-aum-surge-to-35b-36f60c3e"
+      ]
+    },
+    {
+      "statement": "1789 reportedly has returns of over 200%.",
+      "verdict": "mostly-accurate",
+      "finding": "The NYT (Maureen Farrell, 2026-07-22) reported roughly or nearly 200% returns for the main fund as of 2026-06-30, driven largely by Polymarket. These are unrealized, early-stage figures; PitchBook puts the average for 2023-vintage funds at about 21%. Later context: in late Aug 2026, 1789 confirmed about $300M more for a Polymarket round at a $21B valuation, bringing its reported Polymarket total to about $500M. Polymarket is the main driver of the reported returns.",
+      "sources": [
+        "https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/",
+        "https://www.webull.com/news/15278087923966976"
+      ]
+    },
+    {
+      "statement": "1789 invested in Vulcan Elements shortly before Vulcan announced a ~$1B, 10,000-metric-ton magnet facility enabled by a US government partnership.",
+      "verdict": "mostly-accurate",
+      "finding": "1789 joined Vulcan's $65M Series A in August 2025, reportedly at about a $200M valuation. On 2025-11-03 Vulcan, ReElement and the Department of War/Commerce announced a $1.4B package: a $620M OSC loan to Vulcan, $50M in CHIPS incentives, an $80M OSC loan to ReElement, about $550M in private capital, and government warrants or equity, for a 10,000 t/yr magnet plant. The site in Benson, NC (about $918M) was announced on 2025-11-18. The gap was about three months, not 'right before'.",
+      "sources": [
+        "https://www.axios.com/local/raleigh/2025/11/03/north-carolina-startup-vulcan-gets-1-billion-for-new-rare-earth-magnets-factory",
+        "https://techcrunch.com/?p=3072196",
+        "https://www.mining.com/?p=1192089",
+        "https://ncnewsline.com/2025/11/18/stein-announces-1b-rare-earth-magnet-plant-in-johnston-county/",
+        "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Vulcan_Elements"
+      ]
+    },
+    {
+      "statement": "1789 profits by investing in companies that get government contracts, which Don Jr. is skilled at anticipating.",
+      "verdict": "misleading",
+      "finding": "Several portfolio companies have won federal money, and Don Jr.-linked Unusual Machines was under review for its own Pentagon loan. But no reporting documents that Don Jr. had foreknowledge or was involved. Vulcan's award was a loan with warrants, not a contract.",
+      "sources": [
+        "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house"
+      ]
+    },
+    {
+      "statement": "ProPublica reported 'the call came from the White House: we have to get this deal done' and that Vulcan's was the only deal initiated by a top aide to the president.",
+      "verdict": "confirmed",
+      "finding": "ProPublica (Robert Faturechi, 2026-05-28) reported that White House adviser Peter Navarro, described as a friend of Don Jr., initiated the deal. A Pentagon official is quoted: 'The call came from the White House: We have to get this done.' The video inserts the word 'deal'. Of the dozens of companies under consideration, Vulcan's was the only one initiated by a top presidential aide, and it closed in weeks rather than months.",
+      "sources": [
+        "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
+        "https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/",
+        "https://www.wunc.org/term/news/2026-05-28/vulcan-white-house-donald-trump-jr-620-million-deal"
+      ]
+    },
+    {
+      "statement": "1789 says it is a passive minority growth-equity investor and does not call the government.",
+      "verdict": "confirmed",
+      "finding": "This is the firm's stated position. 1789 told ProPublica it played no role and did not know of the loan before it was public. A Trump Jr. spokesperson said he does not discuss portfolio companies with officials and did not speak to Navarro about Vulcan. The exact quoted wording and the speaker in the clip could not be independently located.",
+      "sources": [
+        "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
+        "https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/"
+      ]
+    }
   ],
   "corrections": [
     "Transcript says 1789 bought 'right before' the government got involved; it invested in August 2025, about three months before the 2025-11-03 announcement.",
@@ -31,78 +91,509 @@
     "ReElement withdrew from its $80M conditional OSC loan process in July 2026."
   ],
   "sources": [
-    {"title": "Donald Trump Jr. Opts Out of White House to Join 1789 Capital", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2024-11-12/don-trump-jr-opts-out-of-white-house-to-join-1789-capital", "date": "2024-11-12"},
-    {"title": "Trump-linked venture fund 1789 Capital tops US$1 billion in assets", "publisher": "Reuters via BNN Bloomberg", "url": "https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/", "date": "2025-09-08"},
-    {"title": "Donald Trump Jr. investments and the White House (NYT syndication)", "publisher": "Boston Globe / New York Times", "url": "https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/", "date": "2026-07-22"},
-    {"title": "Trump Jr.'s Investment Firm Posts 200% Returns, Helped by Polymarket's Meteoric Rise", "publisher": "Webull (NYT rewrite)", "url": "https://www.webull.com/news/15278087923966976", "date": "2026-07-22"},
-    {"title": "Patriotic Trump Jr.-backed firm sees assets soar, rolls out real estate fund", "publisher": "Fox Business", "url": "https://foxbusiness.com/markets/trump-jr-backed-investment-fund-explodes-200m-2b-single-year-closing-doors", "date": "2026"},
-    {"title": "1789 Capital closes $1.2B real estate fund", "publisher": "Axios", "url": "https://www.axios.com/2026/08/13/1789-capital-real-estate-fund", "date": "2026-08-13"},
-    {"title": "1789 Capital Reports AUM Surge to $3.5B", "publisher": "Let's Data Science", "url": "https://letsdatascience.com/news/1789-capital-reports-aum-surge-to-35b-36f60c3e", "date": "2026"},
-    {"title": "Vulcan Elements (Wikipedia mirror)", "publisher": "Wikipedia", "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Vulcan_Elements", "date": "2026-03"},
-    {"title": "North Carolina startup Vulcan gets $1 billion for new rare-earth magnets factory", "publisher": "Axios Raleigh", "url": "https://www.axios.com/local/raleigh/2025/11/03/north-carolina-startup-vulcan-gets-1-billion-for-new-rare-earth-magnets-factory", "date": "2025-11-03"},
-    {"title": "Vulcan Elements / ReElement $1.4B government deal", "publisher": "TechCrunch", "url": "https://techcrunch.com/?p=3072196", "date": "2025-11"},
-    {"title": "Vulcan Elements, ReElement Technologies sign $1.4B rare earth magnet supply deal with US", "publisher": "Mining.com", "url": "https://www.mining.com/?p=1192089", "date": "2025-11"},
-    {"title": "Stein announces $1B rare earth magnet plant in Johnston County", "publisher": "NC Newsline", "url": "https://ncnewsline.com/2025/11/18/stein-announces-1b-rare-earth-magnet-plant-in-johnston-county/", "date": "2025-11-18"},
-    {"title": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.", "publisher": "ProPublica", "url": "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house", "date": "2026-05-28"},
-    {"title": "White House intervened to get $620 million deal for company tied to Donald Trump Jr. (syndicated)", "publisher": "WRAL", "url": "https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/", "date": "2026-05-28"},
-    {"title": "Vulcan, White House, Donald Trump Jr. $620 million deal", "publisher": "WUNC", "url": "https://www.wunc.org/term/news/2026-05-28/vulcan-white-house-donald-trump-jr-620-million-deal", "date": "2026-05-28"},
-    {"title": "Garcia and Huffman Demand Documents from Vulcan Elements", "publisher": "House Oversight Democrats", "url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-jared-huffman-demand-documents-from-vulcan-elements-after-white-house-pushed-through-620-million-loan-to-company-tied-to-donald-trump-jr", "date": "2026-08-11"},
-    {"title": "Warren, Lawmakers Slam White House After Reports of Egregious Corruption Involving Lucrative Pentagon Loan", "publisher": "Office of Sen. Elizabeth Warren", "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-lawmakers-slam-white-house-after-reports-of-egregious-corruption-involving-lucrative-pentagon-loan-gifted-to-trump-jr-tied-company", "date": "2026-06-03"},
-    {"title": "Letter to DOD re Vulcan Elements Loan", "publisher": "Office of Sen. Adam Schiff", "url": "https://www.schiff.senate.gov/wp-content/uploads/2026/07/Letter-to-DOD-re-Vulcan-Elements-Loan.pdf", "date": "2026-07-31"},
-    {"title": "Raskin letter to Malik, Buskirk, Trump Jr. re 1789 Capital insider access", "publisher": "House Judiciary Democrats", "url": "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-malik-buskirk-trump-jr-1789-capital-re-insider-access.pdf", "date": "2026-08-26"},
-    {"title": "1789 Capital fires back at Congressional inquiry", "publisher": "Axios", "url": "https://www.axios.com/2026/09/09/1789-capital-trump-jr-jamie-raskin", "date": "2026-09-09"},
-    {"title": "Natural Resources Democrats force vote to subpoena Donald Trump Jr. over $670 million taxpayer-funded deal", "publisher": "House Natural Resources Democrats", "url": "https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-democrats-force-vote-to-subpoena-donald-trump-jr-over-670-million-taxpayer-funded-deal", "date": "2026"},
-    {"title": "White House intervention bolsters Trump Jr.-connected rare earths firm", "publisher": "Cato Institute", "url": "https://www.cato.org/blog/white-house-intervention-bolsters-trump-jr-connected-rare-earths-firm", "date": "2026"}
+    {
+      "title": "Donald Trump Jr. Opts Out of White House to Join 1789 Capital",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2024-11-12/don-trump-jr-opts-out-of-white-house-to-join-1789-capital",
+      "date": "2024-11-12"
+    },
+    {
+      "title": "Trump-linked venture fund 1789 Capital tops US$1 billion in assets",
+      "publisher": "Reuters via BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/",
+      "date": "2025-09-08"
+    },
+    {
+      "title": "Donald Trump Jr. investments and the White House (NYT syndication)",
+      "publisher": "Boston Globe / New York Times",
+      "url": "https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump Jr.'s Investment Firm Posts 200% Returns, Helped by Polymarket's Meteoric Rise",
+      "publisher": "Webull (NYT rewrite)",
+      "url": "https://www.webull.com/news/15278087923966976",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Patriotic Trump Jr.-backed firm sees assets soar, rolls out real estate fund",
+      "publisher": "Fox Business",
+      "url": "https://foxbusiness.com/markets/trump-jr-backed-investment-fund-explodes-200m-2b-single-year-closing-doors",
+      "date": "2026"
+    },
+    {
+      "title": "1789 Capital closes $1.2B real estate fund",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/08/13/1789-capital-real-estate-fund",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "1789 Capital Reports AUM Surge to $3.5B",
+      "publisher": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/1789-capital-reports-aum-surge-to-35b-36f60c3e",
+      "date": "2026"
+    },
+    {
+      "title": "Vulcan Elements (Wikipedia mirror)",
+      "publisher": "Wikipedia",
+      "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Vulcan_Elements",
+      "date": "2026-03"
+    },
+    {
+      "title": "North Carolina startup Vulcan gets $1 billion for new rare-earth magnets factory",
+      "publisher": "Axios Raleigh",
+      "url": "https://www.axios.com/local/raleigh/2025/11/03/north-carolina-startup-vulcan-gets-1-billion-for-new-rare-earth-magnets-factory",
+      "date": "2025-11-03"
+    },
+    {
+      "title": "Vulcan Elements / ReElement $1.4B government deal",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/?p=3072196",
+      "date": "2025-11"
+    },
+    {
+      "title": "Vulcan Elements, ReElement Technologies sign $1.4B rare earth magnet supply deal with US",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/?p=1192089",
+      "date": "2025-11"
+    },
+    {
+      "title": "Stein announces $1B rare earth magnet plant in Johnston County",
+      "publisher": "NC Newsline",
+      "url": "https://ncnewsline.com/2025/11/18/stein-announces-1b-rare-earth-magnet-plant-in-johnston-county/",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "White House intervened to get $620 million deal for company tied to Donald Trump Jr. (syndicated)",
+      "publisher": "WRAL",
+      "url": "https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Vulcan, White House, Donald Trump Jr. $620 million deal",
+      "publisher": "WUNC",
+      "url": "https://www.wunc.org/term/news/2026-05-28/vulcan-white-house-donald-trump-jr-620-million-deal",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Garcia and Huffman Demand Documents from Vulcan Elements",
+      "publisher": "House Oversight Democrats",
+      "url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-jared-huffman-demand-documents-from-vulcan-elements-after-white-house-pushed-through-620-million-loan-to-company-tied-to-donald-trump-jr",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Warren, Lawmakers Slam White House After Reports of Egregious Corruption Involving Lucrative Pentagon Loan",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-lawmakers-slam-white-house-after-reports-of-egregious-corruption-involving-lucrative-pentagon-loan-gifted-to-trump-jr-tied-company",
+      "date": "2026-06-03"
+    },
+    {
+      "title": "Letter to DOD re Vulcan Elements Loan",
+      "publisher": "Office of Sen. Adam Schiff",
+      "url": "https://www.schiff.senate.gov/wp-content/uploads/2026/07/Letter-to-DOD-re-Vulcan-Elements-Loan.pdf",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Raskin letter to Malik, Buskirk, Trump Jr. re 1789 Capital insider access",
+      "publisher": "House Judiciary Democrats",
+      "url": "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-malik-buskirk-trump-jr-1789-capital-re-insider-access.pdf",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "1789 Capital fires back at Congressional inquiry",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/09/09/1789-capital-trump-jr-jamie-raskin",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Natural Resources Democrats force vote to subpoena Donald Trump Jr. over $670 million taxpayer-funded deal",
+      "publisher": "House Natural Resources Democrats",
+      "url": "https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-democrats-force-vote-to-subpoena-donald-trump-jr-over-670-million-taxpayer-funded-deal",
+      "date": "2026"
+    },
+    {
+      "title": "White House intervention bolsters Trump Jr.-connected rare earths firm",
+      "publisher": "Cato Institute",
+      "url": "https://www.cato.org/blog/white-house-intervention-bolsters-trump-jr-connected-rare-earths-firm",
+      "date": "2026"
+    },
+    {
+      "title": "White House asked Pentagon to loan money to a company linked to Trump's oldest son (NPR)",
+      "publisher": "WUNC / NPR",
+      "url": "https://www.wunc.org/2026-05-28/white-house-asked-pentagon-to-loan-money-to-a-company-linked-to-trumps-oldest-son",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Huffman, Garcia demand documents from Vulcan Elements after White House pushed through $620 million loan",
+      "publisher": "House Natural Resources Democrats",
+      "url": "https://democrats-naturalresources.house.gov/media/press-releases/huffman-garcia-demand-documents-from-vulcan-elements-after-white-house-pushed-through-620-million-loan-to-company-tied-to-donald-trump-jr",
+      "date": "2026"
+    },
+    {
+      "title": "Trump Jr.'s Investment Firm Posts 200% Returns, Helped by Polymarket's Meteoric Rise",
+      "publisher": "Crypto Briefing / Webull summary of NYT",
+      "url": "https://www.webull.com/news/15278087923966976",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Trump Jr.-linked 1789 Capital leads Polymarket's $1B raise: Report",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round",
+      "date": "2026-08-31"
+    }
   ],
   "entities": [
-    {"id": "donald-trump-jr", "name": "Donald Trump Jr.", "type": "person", "description": "Partner at 1789 Capital since November 2024; son of the president."},
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "President; father of Don Jr."},
-    {"id": "1789-capital", "name": "1789 Capital", "type": "fund", "description": "Venture/growth-equity firm co-founded by Omeed Malik; about $1B AUM (Sep 2025), about $2-3.5B in 2026."},
-    {"id": "vulcan-elements", "name": "Vulcan Elements", "type": "company", "description": "North Carolina rare-earth magnet startup; 1789 portfolio company; $620M Pentagon OSC loan."},
-    {"id": "reelement-technologies", "name": "ReElement Technologies", "type": "company", "description": "Rare-earth refining partner in the $1.4B package; $80M OSC conditional loan, withdrawn July 2026."},
-    {"id": "omeed-malik", "name": "Omeed Malik", "type": "person", "description": "Co-founder and CEO of 1789 Capital."},
-    {"id": "chris-buskirk", "name": "Chris Buskirk", "type": "person", "description": "Co-founder and partner of 1789 Capital."},
-    {"id": "peter-navarro", "name": "Peter Navarro", "type": "person", "description": "White House trade adviser; per ProPublica, initiated the Vulcan loan."},
-    {"id": "john-maslin", "name": "John Maslin", "type": "person", "description": "CEO of Vulcan Elements."},
-    {"id": "white-house", "name": "White House", "type": "government", "description": "Executive Office of the President."},
-    {"id": "pentagon", "name": "Pentagon / Department of War", "type": "government", "description": "Department of Defense; houses the Office of Strategic Capital."},
-    {"id": "office-of-strategic-capital", "name": "Office of Strategic Capital", "type": "government", "description": "Pentagon lending office; made its largest-ever loan, $620M, to Vulcan."},
-    {"id": "us-department-of-commerce", "name": "US Department of Commerce (CHIPS Program Office)", "type": "government", "description": "Provided $50M in CHIPS incentives/equity in the Vulcan package."},
-    {"id": "us-congress", "name": "US Congress", "type": "government", "description": "Democratic members probing the Vulcan loan and 1789 Capital."},
-    {"id": "propublica", "name": "ProPublica", "type": "media", "description": "Published the 2026-05-28 investigation of the White House role in the Vulcan loan."},
-    {"id": "new-york-times", "name": "The New York Times", "type": "media", "description": "Reported 1789's roughly 200% returns (2026-07-22)."},
-    {"id": "polymarket", "name": "Polymarket", "type": "company", "description": "Prediction market; 1789 portfolio company and the main driver of its returns."},
-    {"id": "unusual-machines", "name": "Unusual Machines", "type": "company", "description": "Drone-parts maker advised by Don Jr., which is seeking a Pentagon loan."},
-    {"id": "vulcan-osc-loan", "name": "Vulcan $620M OSC loan / $1.4B package", "type": "event", "description": "Government-backed rare-earth magnet deal announced 2025-11-03."},
-    {"id": "china", "name": "China", "type": "country", "description": "Dominant rare-earth magnet producer; the strategic rationale for the deal."}
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Partner at 1789 Capital since November 2024; son of the president."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; father of Don Jr."
+    },
+    {
+      "id": "1789-capital",
+      "name": "1789 Capital",
+      "type": "fund",
+      "description": "Venture/growth-equity firm co-founded by Omeed Malik; about $1B AUM (Sep 2025), about $2-3.5B in 2026."
+    },
+    {
+      "id": "vulcan-elements",
+      "name": "Vulcan Elements",
+      "type": "company",
+      "description": "North Carolina rare-earth magnet startup; 1789 portfolio company; $620M Pentagon OSC loan."
+    },
+    {
+      "id": "reelement-technologies",
+      "name": "ReElement Technologies",
+      "type": "company",
+      "description": "Rare-earth refining partner in the $1.4B package; $80M OSC conditional loan, withdrawn July 2026."
+    },
+    {
+      "id": "omeed-malik",
+      "name": "Omeed Malik",
+      "type": "person",
+      "description": "Co-founder and CEO of 1789 Capital."
+    },
+    {
+      "id": "chris-buskirk",
+      "name": "Chris Buskirk",
+      "type": "person",
+      "description": "Co-founder and partner of 1789 Capital."
+    },
+    {
+      "id": "peter-navarro",
+      "name": "Peter Navarro",
+      "type": "person",
+      "description": "White House trade adviser; per ProPublica, initiated the Vulcan loan."
+    },
+    {
+      "id": "john-maslin",
+      "name": "John Maslin",
+      "type": "person",
+      "description": "CEO of Vulcan Elements."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Executive Office of the President."
+    },
+    {
+      "id": "pentagon",
+      "name": "Pentagon / Department of War",
+      "type": "government",
+      "description": "Department of Defense; houses the Office of Strategic Capital."
+    },
+    {
+      "id": "office-of-strategic-capital",
+      "name": "Office of Strategic Capital",
+      "type": "government",
+      "description": "Pentagon lending office; made its largest-ever loan, $620M, to Vulcan."
+    },
+    {
+      "id": "us-department-of-commerce",
+      "name": "US Department of Commerce (CHIPS Program Office)",
+      "type": "government",
+      "description": "Provided $50M in CHIPS incentives/equity in the Vulcan package."
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Democratic members probing the Vulcan loan and 1789 Capital."
+    },
+    {
+      "id": "propublica",
+      "name": "ProPublica",
+      "type": "media",
+      "description": "Published the 2026-05-28 investigation of the White House role in the Vulcan loan."
+    },
+    {
+      "id": "new-york-times",
+      "name": "The New York Times",
+      "type": "media",
+      "description": "Reported 1789's roughly 200% returns (2026-07-22)."
+    },
+    {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "type": "company",
+      "description": "Prediction market; 1789 portfolio company and the main driver of its returns."
+    },
+    {
+      "id": "unusual-machines",
+      "name": "Unusual Machines",
+      "type": "company",
+      "description": "Drone-parts maker advised by Don Jr., which is seeking a Pentagon loan."
+    },
+    {
+      "id": "vulcan-osc-loan",
+      "name": "Vulcan $620M OSC loan / $1.4B package",
+      "type": "event",
+      "description": "Government-backed rare-earth magnet deal announced 2025-11-03."
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "type": "country",
+      "description": "Dominant rare-earth magnet producer; the strategic rationale for the deal."
+    }
   ],
   "relationships": [
-    {"source": "donald-trump-jr", "target": "1789-capital", "label": "partner at", "type": "ownership", "date": "2024-11"},
-    {"source": "donald-trump-jr", "target": "donald-trump", "label": "son of", "type": "family"},
-    {"source": "omeed-malik", "target": "1789-capital", "label": "co-founder and CEO of", "type": "ownership", "date": "2022"},
-    {"source": "chris-buskirk", "target": "1789-capital", "label": "co-founder and partner of", "type": "ownership"},
-    {"source": "1789-capital", "target": "vulcan-elements", "label": "invested in $65M Series A of", "type": "money", "date": "2025-08"},
-    {"source": "office-of-strategic-capital", "target": "vulcan-elements", "label": "$620M direct loan to", "type": "money", "date": "2025-11-03", "amount_usd": 620000000},
-    {"source": "us-department-of-commerce", "target": "vulcan-elements", "label": "$50M CHIPS incentives/equity to", "type": "money", "date": "2025-11-03", "amount_usd": 50000000},
-    {"source": "office-of-strategic-capital", "target": "reelement-technologies", "label": "$80M conditional loan to (withdrawn Jul 2026)", "type": "money", "date": "2025-11-03", "amount_usd": 80000000},
-    {"source": "vulcan-elements", "target": "reelement-technologies", "label": "supply partner of", "type": "commercial", "date": "2025-11"},
-    {"source": "office-of-strategic-capital", "target": "pentagon", "label": "office within", "type": "regulatory"},
-    {"source": "peter-navarro", "target": "white-house", "label": "adviser in", "type": "political"},
-    {"source": "peter-navarro", "target": "office-of-strategic-capital", "label": "initiated Vulcan loan at (per ProPublica)", "type": "political", "date": "2025"},
-    {"source": "peter-navarro", "target": "donald-trump-jr", "label": "described as friend of", "type": "political"},
-    {"source": "john-maslin", "target": "vulcan-elements", "label": "CEO of", "type": "ownership"},
-    {"source": "propublica", "target": "vulcan-osc-loan", "label": "investigated", "type": "media", "date": "2026-05-28"},
-    {"source": "new-york-times", "target": "1789-capital", "label": "reported ~200% returns of", "type": "media", "date": "2026-07-22"},
-    {"source": "us-congress", "target": "vulcan-elements", "label": "Democrats demanded documents from", "type": "legal", "date": "2026-08-11"},
-    {"source": "us-congress", "target": "1789-capital", "label": "Raskin inquiry into", "type": "legal", "date": "2026-08-26"},
-    {"source": "1789-capital", "target": "polymarket", "label": "invested in", "type": "money"},
-    {"source": "donald-trump-jr", "target": "unusual-machines", "label": "adviser and shareholder of", "type": "advisory"},
-    {"source": "vulcan-elements", "target": "vulcan-osc-loan", "label": "recipient of", "type": "money", "date": "2025-11-03"}
+    {
+      "source": "donald-trump-jr",
+      "target": "1789-capital",
+      "label": "partner at",
+      "type": "ownership",
+      "date": "2024-11"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "omeed-malik",
+      "target": "1789-capital",
+      "label": "co-founder and CEO of",
+      "type": "ownership",
+      "date": "2022"
+    },
+    {
+      "source": "chris-buskirk",
+      "target": "1789-capital",
+      "label": "co-founder and partner of",
+      "type": "ownership"
+    },
+    {
+      "source": "1789-capital",
+      "target": "vulcan-elements",
+      "label": "invested in $65M Series A of",
+      "type": "money",
+      "date": "2025-08"
+    },
+    {
+      "source": "office-of-strategic-capital",
+      "target": "vulcan-elements",
+      "label": "$620M direct loan to",
+      "type": "money",
+      "date": "2025-11-03",
+      "amount_usd": 620000000
+    },
+    {
+      "source": "us-department-of-commerce",
+      "target": "vulcan-elements",
+      "label": "$50M CHIPS incentives/equity to",
+      "type": "money",
+      "date": "2025-11-03",
+      "amount_usd": 50000000
+    },
+    {
+      "source": "office-of-strategic-capital",
+      "target": "reelement-technologies",
+      "label": "$80M conditional loan to (withdrawn Jul 2026)",
+      "type": "money",
+      "date": "2025-11-03",
+      "amount_usd": 80000000
+    },
+    {
+      "source": "vulcan-elements",
+      "target": "reelement-technologies",
+      "label": "supply partner of",
+      "type": "commercial",
+      "date": "2025-11"
+    },
+    {
+      "source": "office-of-strategic-capital",
+      "target": "pentagon",
+      "label": "office within",
+      "type": "regulatory"
+    },
+    {
+      "source": "peter-navarro",
+      "target": "white-house",
+      "label": "adviser in",
+      "type": "political"
+    },
+    {
+      "source": "peter-navarro",
+      "target": "office-of-strategic-capital",
+      "label": "initiated Vulcan loan at (per ProPublica)",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "peter-navarro",
+      "target": "donald-trump-jr",
+      "label": "described as friend of",
+      "type": "political"
+    },
+    {
+      "source": "john-maslin",
+      "target": "vulcan-elements",
+      "label": "CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "propublica",
+      "target": "vulcan-osc-loan",
+      "label": "investigated",
+      "type": "media",
+      "date": "2026-05-28"
+    },
+    {
+      "source": "new-york-times",
+      "target": "1789-capital",
+      "label": "reported ~200% returns of",
+      "type": "media",
+      "date": "2026-07-22"
+    },
+    {
+      "source": "us-congress",
+      "target": "vulcan-elements",
+      "label": "Democrats demanded documents from",
+      "type": "legal",
+      "date": "2026-08-11"
+    },
+    {
+      "source": "us-congress",
+      "target": "1789-capital",
+      "label": "Raskin inquiry into",
+      "type": "legal",
+      "date": "2026-08-26"
+    },
+    {
+      "source": "1789-capital",
+      "target": "polymarket",
+      "label": "invested in",
+      "type": "money"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "unusual-machines",
+      "label": "adviser and shareholder of",
+      "type": "advisory"
+    },
+    {
+      "source": "vulcan-elements",
+      "target": "vulcan-osc-loan",
+      "label": "recipient of",
+      "type": "money",
+      "date": "2025-11-03"
+    }
   ],
   "leads": [
-    {"title": "Unusual Machines' pending Pentagon loan", "why_connected": "ProPublica reported that Don Jr. advises and holds a stake in drone-parts maker Unusual Machines, which is under review for its own Pentagon OSC loan.", "entities": ["donald-trump-jr", "unusual-machines", "office-of-strategic-capital"], "source_url": "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house"},
-    {"title": "ReElement withdraws from its $80M OSC loan", "why_connected": "Vulcan's supply partner in the same package exited its conditional loan in July 2026, which raises questions about the deal's viability.", "entities": ["reelement-technologies", "vulcan-elements", "office-of-strategic-capital"], "source_url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-jared-huffman-demand-documents-from-vulcan-elements-after-white-house-pushed-through-620-million-loan-to-company-tied-to-donald-trump-jr"},
-    {"title": "Raskin investigation of 1789 Capital insider access", "why_connected": "House Judiciary Democrats' August 2026 letter probes whether 1789 portfolio companies got federal benefits through access; 1789 has responded.", "entities": ["1789-capital", "omeed-malik", "chris-buskirk", "donald-trump-jr", "us-congress"], "source_url": "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-malik-buskirk-trump-jr-1789-capital-re-insider-access.pdf"},
-    {"title": "Failed House vote to subpoena Don Jr. over the Vulcan deal", "why_connected": "Natural Resources Democrats forced a subpoena vote over the '$670 million' package; Republicans blocked it.", "entities": ["donald-trump-jr", "vulcan-elements", "us-congress"], "source_url": "https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-democrats-force-vote-to-subpoena-donald-trump-jr-over-670-million-taxpayer-funded-deal"}
-  ]
+    {
+      "title": "Unusual Machines' pending Pentagon loan",
+      "why_connected": "ProPublica reported that Don Jr. advises and holds a stake in drone-parts maker Unusual Machines, which is under review for its own Pentagon OSC loan.",
+      "entities": [
+        "donald-trump-jr",
+        "unusual-machines",
+        "office-of-strategic-capital"
+      ],
+      "source_url": "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house"
+    },
+    {
+      "title": "ReElement withdraws from its $80M OSC loan",
+      "why_connected": "Vulcan's supply partner in the same package exited its conditional loan in July 2026, which raises questions about the deal's viability.",
+      "entities": [
+        "reelement-technologies",
+        "vulcan-elements",
+        "office-of-strategic-capital"
+      ],
+      "source_url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-jared-huffman-demand-documents-from-vulcan-elements-after-white-house-pushed-through-620-million-loan-to-company-tied-to-donald-trump-jr"
+    },
+    {
+      "title": "Raskin investigation of 1789 Capital insider access",
+      "why_connected": "House Judiciary Democrats' August 2026 letter probes whether 1789 portfolio companies got federal benefits through access; 1789 has responded.",
+      "entities": [
+        "1789-capital",
+        "omeed-malik",
+        "chris-buskirk",
+        "donald-trump-jr",
+        "us-congress"
+      ],
+      "source_url": "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-malik-buskirk-trump-jr-1789-capital-re-insider-access.pdf"
+    },
+    {
+      "title": "Failed House vote to subpoena Don Jr. over the Vulcan deal",
+      "why_connected": "Natural Resources Democrats forced a subpoena vote over the '$670 million' package; Republicans blocked it.",
+      "entities": [
+        "donald-trump-jr",
+        "vulcan-elements",
+        "us-congress"
+      ],
+      "source_url": "https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-democrats-force-vote-to-subpoena-donald-trump-jr-over-670-million-taxpayer-funded-deal"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "ProPublica (May 28, 2026): Navarro initiated the request; quote 'The call came from the White House: We have to get this done'; closed in weeks",
+      "1789 joined Vulcan's $65M Series A in Aug 2025, about three months before the $620M OSC loan (the largest in OSC history)",
+      "NYT report of roughly 200% returns as of June 30, 2026 versus a peer average of about 21%"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No corrections. NPR's syndication of ProPublica and House Democrats' letters confirm the quote (without the word 'deal'), Navarro's role, the timing, and denials by the White House, Pentagon, Vulcan and 1789. The ~200% figure is still known only from secondhand summaries of the NYT piece.",
+      "Added context to the returns sub-claim: 1789's late-Aug 2026 commitment of about $300M to Polymarket, for a reported total of about $500M."
+    ],
+    "new_sources": [
+      {
+        "title": "White House asked Pentagon to loan money to a company linked to Trump's oldest son (NPR)",
+        "publisher": "WUNC / NPR",
+        "url": "https://www.wunc.org/2026-05-28/white-house-asked-pentagon-to-loan-money-to-a-company-linked-to-trumps-oldest-son",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Huffman, Garcia demand documents from Vulcan Elements after White House pushed through $620 million loan",
+        "publisher": "House Natural Resources Democrats",
+        "url": "https://democrats-naturalresources.house.gov/media/press-releases/huffman-garcia-demand-documents-from-vulcan-elements-after-white-house-pushed-through-620-million-loan-to-company-tied-to-donald-trump-jr",
+        "date": "2026"
+      },
+      {
+        "title": "Trump Jr.'s Investment Firm Posts 200% Returns, Helped by Polymarket's Meteoric Rise",
+        "publisher": "Crypto Briefing / Webull summary of NYT",
+        "url": "https://www.webull.com/news/15278087923966976",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "Trump Jr.-linked 1789 Capital leads Polymarket's $1B raise: Report",
+        "publisher": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round",
+        "date": "2026-08-31"
+      }
+    ]
+  }
 }

@@ -10,9 +10,13 @@ tags:
 ---
 # MSNBC
 
-*media*
-
 Aired Herro's 2018 video in 2024.
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Aired Herro's 2018 video in 2024.
 
 ## Relationships
 
-- [[MSNBC]] *aired 2018 video of* [[Chase Herro]] (2024-09, media) · [[C04 World Liberty Financial founding and token sale|C04]]
+### Media (1)
+
+- [[MSNBC]] *aired 2018 video of* [[Chase Herro]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]

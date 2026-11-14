@@ -10,9 +10,13 @@ tags:
 ---
 # Trump-affiliated PACs
 
-*fund*
-
 PACs that received $36M in contributions (attributed in context to Crypto.com / crypto firms).
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 2 claims |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -21,5 +25,7 @@ PACs that received $36M in contributions (attributed in context to Crypto.com / 
 
 ## Relationships
 
-- [[Crypto.com]] *$36M in contributions to (attribution unclear)* [[Trump-affiliated PACs]] ($36M, political) · [[C22 Crypto.com and TMTG|C22]]
-- [[Trump-affiliated PACs]] *support* [[Donald Trump]] (political) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+### Political (2)
+
+- [[Crypto.com]] *$36M in contributions to (attribution unclear)* [[Trump-affiliated PACs]] · $36M · [[C22 Crypto.com and TMTG|C22]]
+- [[Trump-affiliated PACs]] *support* [[Donald Trump]] · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]

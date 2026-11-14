@@ -10,9 +10,13 @@ tags:
 ---
 # DT Marks KSA LLC
 
-*company*
-
 Trump Organization licensing vehicle for Saudi deals
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Trump Organization licensing vehicle for Saudi deals
 
 ## Relationships
 
-- [[Dar Global]] *pays licence fees to (Dar Al Arkan ~$21.9M 2025)* [[DT Marks KSA LLC]] (2025, money) · [[C63 Shell entities and ownership chains|C63]]
-- [[Trump Organization]] *licensing vehicle of* [[DT Marks KSA LLC]] (ownership) · [[C63 Shell entities and ownership chains|C63]]
+### Money (1)
+
+- [[Dar Global]] *pays licence fees to (Dar Al Arkan ~$21.9M 2025)* [[DT Marks KSA LLC]] · 2025 · [[C63 Shell entities and ownership chains|C63]]
+
+### Ownership (1)
+
+- [[Trump Organization]] *licensing vehicle of* [[DT Marks KSA LLC]] · [[C63 Shell entities and ownership chains|C63]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Devon Archer
 
-*person*
-
 Pardoned ex-Hunter Biden associate; SEC case dropped
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Pardoned ex-Hunter Biden associate; SEC case dropped
 
 ## Relationships
 
-- [[Donald Trump]] *pardoned* [[Devon Archer]] (2025-03, legal) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Securities and Exchange Commission]] *dismissed civil case after pardon* [[Devon Archer]] (2025-09, regulatory) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+### Regulatory (1)
+
+- [[Securities and Exchange Commission]] *dismissed civil case after pardon* [[Devon Archer]] · 2025-09 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+
+### Legal (1)
+
+- [[Donald Trump]] *pardoned* [[Devon Archer]] · 2025-03 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

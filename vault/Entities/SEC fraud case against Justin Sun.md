@@ -10,9 +10,13 @@ tags:
 ---
 # SEC fraud case against Justin Sun
 
-*event*
-
 Case dismissed after Trump took office; settled with his company.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 2 claims |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -21,8 +25,13 @@ Case dismissed after Trump took office; settled with his company.
 
 ## Relationships
 
-- [[Securities and Exchange Commission]] *dismissed* [[SEC fraud case against Justin Sun]] (regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[SEC fraud case against Justin Sun]] *targeted* [[Justin Sun]] (legal) · [[C05 Justin Sun, WLF and the SEC|C05]]
+### Regulatory (1)
+
+- [[Securities and Exchange Commission]] *dismissed* [[SEC fraud case against Justin Sun]] · [[C05 Justin Sun, WLF and the SEC|C05]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Legal (1)
+
+- [[SEC fraud case against Justin Sun]] *targeted* [[Justin Sun]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 
 ## Themes
 

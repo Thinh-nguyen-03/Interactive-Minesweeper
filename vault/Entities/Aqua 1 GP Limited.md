@@ -10,9 +10,13 @@ tags:
 ---
 # Aqua 1 GP Limited
 
-*company*
-
 BVI entity, formerly a Web3Port entity (per NYT)
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ BVI entity, formerly a Web3Port entity (per NYT)
 
 ## Relationships
 
-- [[Web3Port]] *BVI entity renamed Aqua 1 GP Limited (per NYT)* [[Aqua 1 GP Limited]] (2025-06, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+### Ownership (1)
+
+- [[Web3Port]] *BVI entity renamed Aqua 1 GP Limited (per NYT)* [[Aqua 1 GP Limited]] · 2025-06 · [[C67 Investors who show up in several Trump-family vehicles|C67]]

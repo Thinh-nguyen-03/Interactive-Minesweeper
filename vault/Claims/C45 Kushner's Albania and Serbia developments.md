@@ -18,7 +18,44 @@ tags:
 ---
 # C45: Kushner's Albania and Serbia developments
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Follow-up lead
+
+## Bottom line
+
+The core of the lead holds.
+
+## What holds up
+
+- The Albanian government granted concessions/approvals for the projects (mostly accurate)
+- Affinity pursued a Belgrade development on the former Yugoslav army General Staff HQ site, with Serbian government concessions.
+- The Belgrade project collapsed amid a forgery probe.
+- The Albanian land deal also faces a forgery/anti-corruption probe.
+- The projects need foreign-government approvals while Kushner acts as a US envoy.
+- Rep. Jamie Raskin's House Judiciary probe.
+- Right-wing figures such as Candace Owens have criticised the Albania project.
+
+## What needs correcting
+
+- Kushner's Affinity Partners is pursuing a luxury resort on Albania's Sazan island and the Zvernec coast (partly accurate)
+- The projects carry Trump branding (partly accurate)
+- **Brief said:** 'Affinity Partners is pursuing' the Zvernec resort  
+  **Record shows:** Affinity says it is neither investor nor developer there. Kushner says he is a personal minority partner, and the land buyer is Albania Land Development, owned by Sazan Real Estate Development and other investors.
+- The brief cites a 'forgery probe' only for Belgrade. Albania has one too: SPAK suspects the seller, Artur Shehu, of forged deeds, and about EUR 110M of proceeds is frozen. No allegation targets Kushner.
+- The '$120 million' figure is Raskin's. SPAK files put the Shehu sale at about EUR 110M, and Kushner says partners paid EUR 230M for land near Zvernec in total.
+- The Belgrade deal predates Kushner's formal 'envoy of peace' title (Feb 2026) and collapsed in Dec 2025.
+- Sazan is reported at both EUR 1.4B and $1.4B; Zvernec at about EUR 4B.
+
+## What is unproven
+
+- Implied: Kushner's envoy role or family ties secured these government concessions.
+
+## In more detail
+
+- Kushner-linked companies won Albanian government backing for a roughly EUR 1.4B Sazan island resort and a larger Zvernec coastal project, both still awaiting approvals while he serves as Trump's envoy.
+- Rep. Raskin's Judiciary Democrats are probing the deals, Candace Owens has attacked them, and the Trump-branded Belgrade hotel on the former army HQ site collapsed in Dec 2025 when Serbian prosecutors charged officials with forging the paperwork that lifted its heritage protection.
+- Two points overreach: Affinity Partners denies being the investor or developer in Zvernec, where Kushner calls himself a personal minority partner, and no Trump branding is documented in Albania.
+- That Kushner's envoy role bought him concessions is insinuation; no proof was found.
 
 ## Lead investigated
 
@@ -26,184 +63,276 @@ tags:
 
 ## Follows up on
 
-- [[C15 Jared Kushner and Affinity Partners]]
-- [[C37 Jared Kushner's hacked phone]]
-- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]]
+- [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
+- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
+- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
 
 ## Follow-up checks
 
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 
-## Summary
-
-The core of the lead holds. Kushner-linked companies won Albanian government backing for a roughly EUR 1.4B Sazan island resort and a larger Zvernec coastal project, both still awaiting approvals while he serves as Trump's envoy. Rep. Raskin's Judiciary Democrats are probing the deals, Candace Owens has attacked them, and the Trump-branded Belgrade hotel on the former army HQ site collapsed in Dec 2025 when Serbian prosecutors charged officials with forging the paperwork that lifted its heritage protection. Two points overreach: Affinity Partners denies being the investor or developer in Zvernec, where Kushner calls himself a personal minority partner, and no Trump branding is documented in Albania. That Kushner's envoy role bought him concessions is insinuation; no proof was found.
-
 ## Sub-claims
 
-- **Partly accurate**: Kushner's Affinity Partners is pursuing a luxury resort on Albania's Sazan island and the Zvernec coast.
-  - On 30 Dec 2024 Albania's Strategic Investment Committee, chaired by PM Edi Rama, gave strategic-investor status for a roughly EUR 1.4B Sazan resort to Atlantic Incubation Partners LLC. Reuters and others describe that company as affiliated with Affinity. The Zvernec/Vjosa-Narta project runs through different companies. In April 2026 Albania Land Development bought the coastal land from Artur Shehu. Reuters says Albania Land Development is owned by the developer Sazan Real Estate Development and other investors, and one report calls it Qatari-owned. In June 2026 Affinity's PR agency said Affinity is neither investor nor developer and that the partners invest personally. In an Oct 2026 response to The New Yorker, Kushner called himself a minority partner focused on design, with Asher Abehsera as CEO. He said partners paid EUR 230M for the land privately and that the whole project could reach about EUR 4B. Calling it 'Affinity's' project is therefore disputed. It is accurate to call it Kushner's.
-  - <https://www.aol.com/news/albania-approves-luxury-resort-project-132236248.html>
-  - <https://exit.al/en/exit-explains/jared-kushners-fund-officially-distances-from-zvernec-development--i48037>
-  - <https://exit.al/en/exit-explains/kushners-response-on-albania-what-the-record-shows-i48098>
-  - <https://www.tiranatimes.com/jared-kushner-defends-controversial-albania-resort-project/>
-  - <https://jaredkushner.com/posts/new-yorker-response/>
-- **Mostly accurate**: The Albanian government granted concessions/approvals for the projects.
-  - On 22 Feb 2024 Parliament passed Law 21/2024, amending the 2017 Protected Areas law to allow 'strategic' tourism investment in protected areas. Critics, and a European Parliament text calling for its repeal, tie the law to the Kushner plans. The Dec 2024 strategic-investor status brings fast-track approvals, and Forbes reports a 10-year tax exemption during construction (single source). A planned joint venture would put the state's stake with the Albanian Investment Corporation and the Albanian Seaports Development Company. A June 2026 draft decision would move Sazan to the Economy Ministry's administration. The government gave Zvernec preliminary approval in spring 2026, which triggered protests. Rama's office says 'there is no definitive agreement' on Sazan. Kushner concedes approvals are incomplete. The Environment Minister reportedly told the European Commission that construction is suspended pending an environmental impact assessment. Rama said the Zvernec land transaction was suspended until ownership is clarified.
-  - <https://albaniavisit.com/tourism-politics/ligji-21-2024-albania-protected-areas/>
-  - <https://euronews.al/en/moratorium-on-protected-areas-what-the-european-parliament-approved-regarding-amendments-on-zvernec-and-sazan/>
-  - <https://www.forbes.com/sites/alisondurkee/2026/06/03/why-jared-kushner-and-ivanka-trumps-albanian-resort-plans-are-under-fire/>
-  - <https://www.reporter.al/en/2026/06/06/document-reveals-government-preparing-transfer-of-sazan-island-for-jared-kushner-project/>
-  - <https://www.france24.com/en/europe/20260604-what-we-know-about-jared-kushner-backed-luxury-resort-sparking-outrage-in-albania>
-  - <https://www.npr.org/2026/06/16/g-s1-128162/albania-resort-protests-kushner-trump>
-  - <https://www.intellinews.com/albania-suspends-kushner-luxury-island-resort-after-eu-warning-447429/>
-- **Confirmed**: Affinity pursued a Belgrade development on the former Yugoslav army General Staff HQ site, with Serbian government concessions.
-  - Affinity announced the project in 2024, and in Jan 2025 Semafor reported Dubai's Mohamed Alabbar as a partner. It was a roughly $500M scheme with a 175-room hotel and residences. Under the 2024 contract Serbia agreed to strip the site's heritage status and grant a 99-year rent-free lease, with an option to take ownership. On 7 Nov 2025 Parliament voted 130-40 for a special law declaring the project of national priority and removing its heritage protection.
-  - <https://www.rferl.org/a/serbian-parliament-law-kushner-project-belgrade-trump-vucic/33584209.html>
-  - <https://globalvoices.org/2025/11/26/serbian-parliament-enacts-special-law-enabling-controversial-trump-family-investment-in-belgrade/>
-  - <https://www.semafor.com/article/01/17/2025/jared-kushner-and-dubai-billionaire-to-partner-on-trump-hotel-in-serbia>
-  - <https://popular.info/p/kushners-serbian-boondoggle-collapses>
-  - <https://en.wikipedia.org/wiki/Trump_Tower_Belgrade>
-- **Confirmed**: The Belgrade project collapsed amid a forgery probe.
-  - On 15 Dec 2025 prosecutors filed an indictment proposal against Culture Minister Nikola Selakovic and other officials, alleging they forged documents to lift the site's protection in 2024. Affinity withdrew its application within hours, saying 'meaningful projects should unite rather than divide'. The trial opened on 4 Feb 2026 with not-guilty pleas; the charges carry up to 3 years. On 15 Apr 2026 Selakovic called the case politically motivated. I found no verdict as of Nov 2026. In May 2025 President Vucic had said 'there was not any kind of forgery' and offered to pardon anyone charged. After the collapse he said Serbia lost at least EUR 750M of investment.
-  - <https://europeanwesternbalkans.com/2025/12/16/kushners-company-withdraws-from-a-controversial-project-in-belgrade/>
-  - <https://www.rferl.org/a/kushner-affinity-belgrade-project-controversy-vucic/33624642.html>
-  - <https://www.usnews.com/news/world/articles/2026-02-04/serbian-government-official-faces-forgery-trial-over-withdrawn-kushner-linked-project>
-  - <https://balkaninsight.com/2026/04/15/serbian-minister-denies-allegations-over-removal-of-ex-military-hqs-protected-status/bi/>
-  - <https://www.globalsecurity.org/military/library/news/2025/05/mil-250516-rferl02.htm>
-  - <https://www.balkanweb.com/en/Jared-Kushner-abandoned-investment-in-Belgrade--Vucic--Serbia-lost-750-million-euros/>
-- **Confirmed**: The Albanian land deal also faces a forgery/anti-corruption probe.
-  - Albania's anti-corruption prosecutor SPAK suspects the seller, Miami-based businessman Artur Shehu, of buying the Zvernec land with illicit funds and forged ownership documents. About EUR 110M of sale proceeds was frozen in a notary account; one report gives about $128M and a separate freeze on Albania Land Development's accounts. SPAK is also reported to be examining the 2024 status changes. Per Reuters, the files allege no wrongdoing by Kushner or the investors and show no sign the investors knew of the suspicions. Shehu's lawyer denies the allegations. Villagers have contested Shehu's title since a 2013 court ruling in their favour and say they warned Kushner's side about two years ago.
-  - <https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds>
-  - <https://www.streetinsider.com/Reuters/Businessman+who+sold+land+for+Kushner+resort+in+Albania+suspected+of+faking+the+deeds/26758349.html>
-  - <https://www.investing.com/news/world-news/kushner-project-being-developed-on-disputed-land-albanian-villagers-say-4741013>
-  - <https://europeanwesternbalkans.com/2026/06/02/spak-probes-resort-project-linked-to-jared-kushner/>
-  - <https://www.lawyer-monthly.com/2026/07/spak-128m-asset-freeze-kushner-albania-resort-deal/>
-- **Confirmed**: The projects need foreign-government approvals while Kushner acts as a US envoy.
-  - Trump named Kushner 'envoy of peace' on 19 Feb 2026 (see C15). The Albanian approvals, the land transfer and the EU-driven environmental review are all pending after that date, and Kushner acknowledged in Oct 2026 that approvals were incomplete. The Belgrade deal was negotiated in 2024-25, before the title, while Kushner was already working informally on Gaza diplomacy. It collapsed in Dec 2025, so the overlap with the formal envoy title applies to Albania only.
-  - <https://exit.al/en/exit-explains/kushners-response-on-albania-what-the-record-shows-i48098>
-  - <https://www.tiranatimes.com/jared-kushner-defends-controversial-albania-resort-project/>
-- **Confirmed**: Rep. Jamie Raskin's House Judiciary probe.
-  - Raskin, the Judiciary ranking member, wrote to Kushner and Affinity in April 2026. On 24 Aug 2026 he expanded the probe to the 'suspicious $120 million' Albanian land purchase from Shehu, demanding records of communications with Albanian and US officials and of financing and approvals, with a 7 Sep deadline. He also asked whether the conduct merits review under the Foreign Corrupt Practices Act. On 29 Oct 2026 he sent another letter on foreign-funded bank accounts and recusal. Raskin says Kushner answered neither of the earlier letters. These are minority letters with no subpoena power, copied to Chairman Jordan.
-  - <https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-slams-jared-kushner-s-failure-to-respond-to-congress-and-expands-probe-into-suspicious-120-million-albanian-land-purchase>
-  - <https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-24-raskin-to-kushner-affinity-re-albania-and-compliance.pdf>
-  - <https://newrepublic.com/post/214706/raskin-jared-kushner-albania-deal>
-  - <https://www.mlex.com/mlex/articles/2517716/kushner-s-albania-land-purchase-under-potential-us-house-foreign-bribery-probe>
-  - <https://www.ms.now/news/kushner-albania-deal-investigation>
-- **Confirmed**: Right-wing figures such as Candace Owens have criticised the Albania project.
-  - In June 2026 Candace Owens devoted podcast segments to attacking Ivanka Trump and Kushner over the Albania resort. She mocked Ivanka's 'spiritual' framing and linked the project to Gaza. The quotes come from secondary write-ups, not the original episodes.
-  - <https://thedailybeast.com/obsessed/candace-owens-unloads-on-innocent-wife-ivanka-trump/>
-  - <https://www.foreignpolicyjournal.com/2026/06/14/candace-owens-escalates-criticism-of-ivanka-trump-over-albania-resort-project/>
-  - <https://www.mediamatters.org/donald-trump/trumps-self-dealing-president-under-microscope-some-right-wing-media-are-speaking>
-- **Partly accurate**: The projects carry Trump branding.
-  - The Belgrade hotel was to be Trump-branded through a Trump Organization licence. Kushner said he discussed it with Eric Trump, and it was billed as Europe's first Trump hotel. For Albania I found no Trump-brand or Trump Organization licence. The family link there runs through Kushner and Ivanka.
-  - <https://en.wikipedia.org/wiki/Trump_Tower_Belgrade>
-  - <https://www.intellinews.com/kushner-drops-belgrade-trump-hotel-project-amid-corruption-probe-416899/>
-  - <https://therealdeal.com/international/2025/11/07/serbia-accelerating-trump-kushner-hotel-despite-controversy>
-- **Unverified**: Implied: Kushner's envoy role or family ties secured these government concessions.
-  - The timing is suggestive. Albania's 2024 law came shortly after Kushner's interest became public, Vucic lobbied personally, and both governments court Washington. But no document shows a quid pro quo or that US officials intervened. The FCPA question has only been raised by Raskin. No US agency is known to be investigating.
-  - <https://popular.info/p/kushners-serbian-boondoggle-collapses>
-  - <https://english.nv.ua/nation/serbia-s-vucic-personally-lobbied-for-trump-tower-in-belgrade-50650527.html>
+### 1. Kushner's Affinity Partners is pursuing a luxury resort on Albania's Sazan island and the Zvernec coast.
 
-## Corrections
+**Partly accurate**
 
-- The brief says 'Affinity Partners is pursuing' the Zvernec resort. Affinity says it is neither investor nor developer there. Kushner says he is a personal minority partner, and the land buyer is Albania Land Development, owned by Sazan Real Estate Development and other investors.
-- The brief cites a 'forgery probe' only for Belgrade. Albania has one too: SPAK suspects the seller, Artur Shehu, of forged deeds, and about EUR 110M of proceeds is frozen. No allegation targets Kushner.
-- The '$120 million' figure is Raskin's. SPAK files put the Shehu sale at about EUR 110M, and Kushner says partners paid EUR 230M for land near Zvernec in total.
-- The Belgrade deal predates Kushner's formal 'envoy of peace' title (Feb 2026) and collapsed in Dec 2025.
-- Sazan is reported at both EUR 1.4B and $1.4B; Zvernec at about EUR 4B.
+- On 30 Dec 2024 Albania's Strategic Investment Committee, chaired by PM Edi Rama, gave strategic-investor status for a roughly EUR 1.4B Sazan resort to Atlantic Incubation Partners LLC. Reuters and others describe that company as affiliated with Affinity.
+- The Zvernec/Vjosa-Narta project runs through different companies.
+- In April 2026 Albania Land Development bought the coastal land from Artur Shehu.
+- Reuters says Albania Land Development is owned by the developer Sazan Real Estate Development and other investors, and one report calls it Qatari-owned.
+- In June 2026 Affinity's PR agency said Affinity is neither investor nor developer and that the partners invest personally.
+- In an Oct 2026 response to The New Yorker, Kushner called himself a minority partner focused on design, with Asher Abehsera as CEO.
+- He said partners paid EUR 230M for the land privately and that the whole project could reach about EUR 4B. Calling it 'Affinity's' project is therefore disputed.
+- It is accurate to call it Kushner's.
+- Dates: 30 Dec 2024; April 2026; June 2026; Oct 2026
+- Sources: [1](https://www.aol.com/news/albania-approves-luxury-resort-project-132236248.html) [6](https://exit.al/en/exit-explains/jared-kushners-fund-officially-distances-from-zvernec-development--i48037) [16](https://exit.al/en/exit-explains/kushners-response-on-albania-what-the-record-shows-i48098) [17](https://www.tiranatimes.com/jared-kushner-defends-controversial-albania-resort-project/) [15](https://jaredkushner.com/posts/new-yorker-response/)
+
+### 2. The Albanian government granted concessions/approvals for the projects.
+
+**Mostly accurate**
+
+- On 22 Feb 2024 Parliament passed Law 21/2024, amending the 2017 Protected Areas law to allow 'strategic' tourism investment in protected areas.
+- Critics, and a European Parliament text calling for its repeal, tie the law to the Kushner plans.
+- The Dec 2024 strategic-investor status brings fast-track approvals, and Forbes reports a 10-year tax exemption during construction (single source).
+- A planned joint venture would put the state's stake with the Albanian Investment Corporation and the Albanian Seaports Development Company.
+- A June 2026 draft decision would move Sazan to the Economy Ministry's administration.
+- The government gave Zvernec preliminary approval in spring 2026, which triggered protests.
+- Rama's office says 'there is no definitive agreement' on Sazan.
+- Kushner concedes approvals are incomplete.
+- The Environment Minister reportedly told the European Commission that construction is suspended pending an environmental impact assessment.
+- Rama said the Zvernec land transaction was suspended until ownership is clarified.
+- Dates: 22 Feb 2024; Dec 2024; June 2026
+- Sources: [13](https://albaniavisit.com/tourism-politics/ligji-21-2024-albania-protected-areas/) [14](https://euronews.al/en/moratorium-on-protected-areas-what-the-european-parliament-approved-regarding-amendments-on-zvernec-and-sazan/) [2](https://www.forbes.com/sites/alisondurkee/2026/06/03/why-jared-kushner-and-ivanka-trumps-albanian-resort-plans-are-under-fire/) [5](https://www.reporter.al/en/2026/06/06/document-reveals-government-preparing-transfer-of-sazan-island-for-jared-kushner-project/) [3](https://www.france24.com/en/europe/20260604-what-we-know-about-jared-kushner-backed-luxury-resort-sparking-outrage-in-albania) [4](https://www.npr.org/2026/06/16/g-s1-128162/albania-resort-protests-kushner-trump) [12](https://www.intellinews.com/albania-suspends-kushner-luxury-island-resort-after-eu-warning-447429/)
+
+### 3. Affinity pursued a Belgrade development on the former Yugoslav army General Staff HQ site, with Serbian government concessions.
+
+**Confirmed**
+
+- Affinity announced the project in 2024, and in Jan 2025 Semafor reported Dubai's Mohamed Alabbar as a partner.
+- It was a roughly $500M scheme with a 175-room hotel and residences.
+- Under the 2024 contract Serbia agreed to strip the site's heritage status and grant a 99-year rent-free lease, with an option to take ownership.
+- On 7 Nov 2025 Parliament voted 130-40 for a special law declaring the project of national priority and removing its heritage protection.
+- Amounts: roughly $500M
+- Dates: Jan 2025; 7 Nov 2025
+- Sources: [27](https://www.rferl.org/a/serbian-parliament-law-kushner-project-belgrade-trump-vucic/33584209.html) [28](https://globalvoices.org/2025/11/26/serbian-parliament-enacts-special-law-enabling-controversial-trump-family-investment-in-belgrade/) [25](https://www.semafor.com/article/01/17/2025/jared-kushner-and-dubai-billionaire-to-partner-on-trump-hotel-in-serbia) [31](https://popular.info/p/kushners-serbian-boondoggle-collapses) [35](https://en.wikipedia.org/wiki/Trump_Tower_Belgrade)
+
+### 4. The Belgrade project collapsed amid a forgery probe.
+
+**Confirmed**
+
+- On 15 Dec 2025 prosecutors filed an indictment proposal against Culture Minister Nikola Selakovic and other officials, alleging they forged documents to lift the site's protection in 2024.
+- Affinity withdrew its application within hours, saying 'meaningful projects should unite rather than divide'.
+- The trial opened on 4 Feb 2026 with not-guilty pleas; the charges carry up to 3 years.
+- On 15 Apr 2026 Selakovic called the case politically motivated.
+- I found no verdict as of Nov 2026.
+- In May 2025 President Vucic had said 'there was not any kind of forgery' and offered to pardon anyone charged.
+- After the collapse he said Serbia lost at least EUR 750M of investment.
+- Dates: 15 Dec 2025; 4 Feb 2026; 15 Apr 2026; Nov 2026; May 2025
+- Sources: [29](https://europeanwesternbalkans.com/2025/12/16/kushners-company-withdraws-from-a-controversial-project-in-belgrade/) [30](https://www.rferl.org/a/kushner-affinity-belgrade-project-controversy-vucic/33624642.html) [33](https://www.usnews.com/news/world/articles/2026-02-04/serbian-government-official-faces-forgery-trial-over-withdrawn-kushner-linked-project) [34](https://balkaninsight.com/2026/04/15/serbian-minister-denies-allegations-over-removal-of-ex-military-hqs-protected-status/bi/) [26](https://www.globalsecurity.org/military/library/news/2025/05/mil-250516-rferl02.htm) [32](https://www.balkanweb.com/en/Jared-Kushner-abandoned-investment-in-Belgrade--Vucic--Serbia-lost-750-million-euros/)
+
+### 5. The Albanian land deal also faces a forgery/anti-corruption probe.
+
+**Confirmed**
+
+- Albania's anti-corruption prosecutor SPAK suspects the seller, Miami-based businessman Artur Shehu, of buying the Zvernec land with illicit funds and forged ownership documents.
+- About EUR 110M of sale proceeds was frozen in a notary account; one report gives about $128M and a separate freeze on Albania Land Development's accounts.
+- SPAK is also reported to be examining the 2024 status changes.
+- Per Reuters, the files allege no wrongdoing by Kushner or the investors and show no sign the investors knew of the suspicions.
+- Shehu's lawyer denies the allegations.
+- Villagers have contested Shehu's title since a 2013 court ruling in their favour and say they warned Kushner's side about two years ago.
+- Amounts: about $128M
+- Sources: [8](https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds) [9](https://www.streetinsider.com/Reuters/Businessman+who+sold+land+for+Kushner+resort+in+Albania+suspected+of+faking+the+deeds/26758349.html) [10](https://www.investing.com/news/world-news/kushner-project-being-developed-on-disputed-land-albanian-villagers-say-4741013) [7](https://europeanwesternbalkans.com/2026/06/02/spak-probes-resort-project-linked-to-jared-kushner/) [11](https://www.lawyer-monthly.com/2026/07/spak-128m-asset-freeze-kushner-albania-resort-deal/)
+
+### 6. The projects need foreign-government approvals while Kushner acts as a US envoy.
+
+**Confirmed**
+
+- Trump named Kushner 'envoy of peace' on 19 Feb 2026 (see C15).
+- The Albanian approvals, the land transfer and the EU-driven environmental review are all pending after that date, and Kushner acknowledged in Oct 2026 that approvals were incomplete.
+- The Belgrade deal was negotiated in 2024-25, before the title, while Kushner was already working informally on Gaza diplomacy.
+- It collapsed in Dec 2025, so the overlap with the formal envoy title applies to Albania only.
+- Dates: 19 Feb 2026; Oct 2026; 2024-25; Dec 2025
+- Sources: [16](https://exit.al/en/exit-explains/kushners-response-on-albania-what-the-record-shows-i48098) [17](https://www.tiranatimes.com/jared-kushner-defends-controversial-albania-resort-project/)
+
+### 7. Rep. Jamie Raskin's House Judiciary probe.
+
+**Confirmed**
+
+- Raskin, the Judiciary ranking member, wrote to Kushner and Affinity in April 2026.
+- On 24 Aug 2026 he expanded the probe to the 'suspicious $120 million' Albanian land purchase from Shehu, demanding records of communications with Albanian and US officials and of financing and approvals, with a 7 Sep deadline.
+- He also asked whether the conduct merits review under the Foreign Corrupt Practices Act.
+- On 29 Oct 2026 he sent another letter on foreign-funded bank accounts and recusal.
+- Raskin says Kushner answered neither of the earlier letters.
+- These are minority letters with no subpoena power, copied to Chairman Jordan.
+- Amounts: $120 million
+- Dates: April 2026; 24 Aug 2026; 7 Sep; 29 Oct 2026
+- Sources: [18](https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-slams-jared-kushner-s-failure-to-respond-to-congress-and-expands-probe-into-suspicious-120-million-albanian-land-purchase) [19](https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-24-raskin-to-kushner-affinity-re-albania-and-compliance.pdf) [21](https://newrepublic.com/post/214706/raskin-jared-kushner-albania-deal) [22](https://www.mlex.com/mlex/articles/2517716/kushner-s-albania-land-purchase-under-potential-us-house-foreign-bribery-probe) <https://www.ms.now/news/kushner-albania-deal-investigation>
+
+### 8. Right-wing figures such as Candace Owens have criticised the Albania project.
+
+**Confirmed**
+
+- In June 2026 Candace Owens devoted podcast segments to attacking Ivanka Trump and Kushner over the Albania resort.
+- She mocked Ivanka's 'spiritual' framing and linked the project to Gaza.
+- The quotes come from secondary write-ups, not the original episodes.
+- Dates: June 2026
+- Sources: [23](https://thedailybeast.com/obsessed/candace-owens-unloads-on-innocent-wife-ivanka-trump/) [24](https://www.foreignpolicyjournal.com/2026/06/14/candace-owens-escalates-criticism-of-ivanka-trump-over-albania-resort-project/) <https://www.mediamatters.org/donald-trump/trumps-self-dealing-president-under-microscope-some-right-wing-media-are-speaking>
+
+### 9. The projects carry Trump branding.
+
+**Partly accurate**
+
+- The Belgrade hotel was to be Trump-branded through a Trump Organization licence.
+- Kushner said he discussed it with Eric Trump, and it was billed as Europe's first Trump hotel.
+- For Albania I found no Trump-brand or Trump Organization licence.
+- The family link there runs through Kushner and Ivanka.
+- Sources: [35](https://en.wikipedia.org/wiki/Trump_Tower_Belgrade) <https://www.intellinews.com/kushner-drops-belgrade-trump-hotel-project-amid-corruption-probe-416899/> <https://therealdeal.com/international/2025/11/07/serbia-accelerating-trump-kushner-hotel-despite-controversy>
+
+### 10. Implied: Kushner's envoy role or family ties secured these government concessions.
+
+**Unverified**
+
+- The timing is suggestive.
+- Albania's 2024 law came shortly after Kushner's interest became public, Vucic lobbied personally, and both governments court Washington.
+- But no document shows a quid pro quo or that US officials intervened.
+- The FCPA question has only been raised by Raskin.
+- No US agency is known to be investigating.
+- Sources: [31](https://popular.info/p/kushners-serbian-boondoggle-collapses) <https://english.nv.ua/nation/serbia-s-vucic-personally-lobbied-for-trump-tower-in-belgrade-50650527.html>
 
 ## Denials and context
 
-- Kushner (Oct 2026, responding to The New Yorker) says the land was bought privately, not from the state. He says he is a minority partner and that Albania will decide whether the project proceeds. His development group says the acquisitions were lawful.
-- Affinity Partners says it has no role in Zvernec. On Belgrade it said it was stepping aside 'because meaningful projects should unite rather than divide'.
-- PM Rama says the projects comply with Albanian and EU law and will not harm protected areas. He calls the protests politically orchestrated and says the state must remain a stakeholder in Sazan.
-- Selakovic and his co-defendants plead not guilty and call the case political. Vucic denied any forgery and offered pardons.
+- Kushner (Oct 2026, responding to The New Yorker) says the land was bought privately, not from the state.
+  - He says he is a minority partner and that Albania will decide whether the project proceeds.
+  - His development group says the acquisitions were lawful.
+- Affinity Partners says it has no role in Zvernec.
+  - On Belgrade it said it was stepping aside 'because meaningful projects should unite rather than divide'.
+- PM Rama says the projects comply with Albanian and EU law and will not harm protected areas.
+  - He calls the protests politically orchestrated and says the state must remain a stakeholder in Sazan.
+- Selakovic and his co-defendants plead not guilty and call the case political.
+  - Vucic denied any forgery and offered pardons.
 - SPAK's files allege no wrongdoing by Kushner or the investors, and Shehu's lawyer denies the allegations.
-- The protests escalated after private guards beat protesters at Zvernec on 30 May 2026. Two security firms lost their licences, police officers were suspended, and 15 protesters face proceedings.
+- The protests escalated after private guards beat protesters at Zvernec on 30 May 2026.
+  - Two security firms lost their licences, police officers were suspended, and 15 protesters face proceedings.
 
 ## People and organisations
 
-- [[Affinity Partners]]
-- [[Albania]]
-- [[Albania Land Development]]
-- [[Albania Law 21 2024 (Protected Areas amendment)]]
-- [[Albanian Strategic Investment Committee]]
-- [[Aleksandar Vucic]]
-- [[Artur Shehu]]
-- [[Asher Abehsera]]
-- [[Atlantic Incubation Partners LLC]]
-- [[Candace Owens]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[Edi Rama]]
-- [[Eric Trump]]
-- [[European Commission]]
-- [[Foreign Corrupt Practices Act]]
-- [[Ivanka Trump]]
-- [[Jamie Raskin]]
-- [[Jared Kushner]]
-- [[Mohamed Alabbar]]
-- [[Nikola Selakovic]]
-- [[Qatar]]
-- [[Reuters]]
-- [[Sazan Island Resort]]
-- [[Sazan Real Estate Development]]
-- [[Serbia]]
-- [[Serbian special law on the General Staff complex]]
-- [[SPAK (Albanian Special Anti-Corruption Structure)]]
-- [[The New Yorker]]
-- [[Trump Organization]]
-- [[Trump Tower Belgrade (General Staff site)]]
-- [[US Congress]]
-- [[White House Trump administration]]
-- [[Zvernec Vjosa-Narta coastal project]]
-- [[Zvernec protests ('Flamingo Revolution')]]
+- [[Affinity Partners]] · Fund
+- [[Albania]] · Country
+- [[Albania Land Development]] · Company
+- [[Albania Law 21 2024 (Protected Areas amendment)]] · Law or policy
+- [[Albanian Strategic Investment Committee]] · Government body
+- [[Aleksandar Vucic]] · Person
+- [[Artur Shehu]] · Person
+- [[Asher Abehsera]] · Person
+- [[Atlantic Incubation Partners LLC]] · Company
+- [[Candace Owens]] · Person
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[Edi Rama]] · Person
+- [[Eric Trump]] · Person
+- [[European Commission]] · Government body
+- [[Foreign Corrupt Practices Act]] · Law or policy
+- [[Ivanka Trump]] · Person
+- [[Jamie Raskin]] · Person
+- [[Jared Kushner]] · Person
+- [[Mohamed Alabbar]] · Person
+- [[Nikola Selakovic]] · Person
+- [[Qatar]] · Country
+- [[Reuters]] · Media
+- [[Sazan Island Resort]] · Asset
+- [[Sazan Real Estate Development]] · Company
+- [[Serbia]] · Country
+- [[Serbian special law on the General Staff complex]] · Law or policy
+- [[SPAK (Albanian Special Anti-Corruption Structure)]] · Government body
+- [[The New Yorker]] · Media
+- [[Trump Organization]] · Company
+- [[Trump Tower Belgrade (General Staff site)]] · Asset
+- [[US Congress]] · Government body
+- [[White House Trump administration]] · Government body
+- [[Zvernec Vjosa-Narta coastal project]] · Asset
+- [[Zvernec protests ('Flamingo Revolution')]] · Event
 
 ## Relationships documented
 
-- [[Affinity Partners]] *sponsored, then withdrew from* [[Trump Tower Belgrade (General Staff site)]] (2025-12-15, $500M, commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Affinity Partners]] *denies being investor or developer of* [[Zvernec Vjosa-Narta coastal project]] (2026-06, commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Albania]] *enacted protected-areas amendment* [[Albania Law 21 2024 (Protected Areas amendment)]] (2024-02-22, regulatory) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Albania Land Development]] *bought Zvernec land from (~EUR 110M; Raskin says $120M+)* [[Artur Shehu]] (2026-04, $120M, money) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Albanian Strategic Investment Committee]] *granted strategic-investor status for EUR 1.4B Sazan resort* [[Atlantic Incubation Partners LLC]] (2024-12-30, $1.4B, regulatory) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Aleksandar Vucic]] *lobbied for; denied forgery, offered pardons* [[Trump Tower Belgrade (General Staff site)]] (2025-05, political) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Asher Abehsera]] *CEO / day-to-day lead (per Kushner)* [[Zvernec Vjosa-Narta coastal project]] (commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Atlantic Incubation Partners LLC]] *reported affiliate of* [[Affinity Partners]] (ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Atlantic Incubation Partners LLC]] *proposed developer of* [[Sazan Island Resort]] (commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Candace Owens]] *attacked over Albania resort* [[Ivanka Trump]] (2026-06, media) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Donald Trump]] *named 'envoy of peace'* [[Jared Kushner]] (2026-02-19, political) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Edi Rama]] *chairs* [[Albanian Strategic Investment Committee]] (political) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Eric Trump]] *consulted by Kushner on branding* [[Trump Tower Belgrade (General Staff site)]] (commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[European Commission]] *warned on EU environmental rules; told construction suspended* [[Albania]] (2026, regulatory) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Zvernec protests ('Flamingo Revolution')]] *demands resignation of* [[Edi Rama]] (2026-05, political) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Jamie Raskin]] *demanded records on Albania deals* [[Affinity Partners]] (2026-08-24, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Jamie Raskin]] *cited as possible basis for scrutiny* [[Foreign Corrupt Practices Act]] (2026-08-24, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Jamie Raskin]] *expanded probe into $120M Albanian land purchase, FCPA questions* [[Jared Kushner]] (2026-08-24, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Jamie Raskin]] *House Judiciary ranking member* [[US Congress]] (political) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Jared Kushner]] *founder and head of* [[Affinity Partners]] (ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Jared Kushner]] *married to* [[Ivanka Trump]] (family) · [[C45 Kushner's Albania and Serbia developments|C45]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Jared Kushner]] *self-described minority partner in* [[Zvernec Vjosa-Narta coastal project]] (2026-10, ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Mohamed Alabbar]] *reported partner in* [[Trump Tower Belgrade (General Staff site)]] (2025-01, commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[The New Yorker]] *investigated Albania project; Kushner rebutted* [[Jared Kushner]] (2026-10-08, media) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Nikola Selakovic]] *on trial for forging documents lifting site's protection* [[Trump Tower Belgrade (General Staff site)]] (2026-02-04, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Qatar]] *reported investor base / registration* [[Albania Land Development]] (ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Reuters]] *reported case files on forged deeds* [[SPAK (Albanian Special Anti-Corruption Structure)]] (2026-07-11, media) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Sazan Real Estate Development]] *co-owns* [[Albania Land Development]] (ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Serbia]] *granted 99-year rent-free lease on General Staff site (2024 contract)* [[Affinity Partners]] (2024, commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Serbia]] *parliament passed special law 130-40* [[Serbian special law on the General Staff complex]] (2025-11-07, regulatory) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[SPAK (Albanian Special Anti-Corruption Structure)]] *froze sale proceeds/accounts* [[Albania Land Development]] (2026-06, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[SPAK (Albanian Special Anti-Corruption Structure)]] *investigating for forged deeds and illicit funds* [[Artur Shehu]] (2026-06, legal) · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Trump Organization]] *was to license Trump brand to* [[Trump Tower Belgrade (General Staff site)]] (commercial) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Money (1)
 
-## Leads not covered by the video
+- [[Albania Land Development]] *bought Zvernec land from (~EUR 110M; Raskin says $120M+)* [[Artur Shehu]] · 2026-04 · $120M · [[C45 Kushner's Albania and Serbia developments|C45]]
 
-- **Serbian Pegasus spyware reportedly used on the prosecutor in the Kushner/General Staff case**: Possible state surveillance of the prosecutor who indicted officials over the Kushner-linked Belgrade project. [source](https://www.techtimes.com/articles/329256/20261020/serbias-pegasus-spyware-infected-rector-kushner-case-prosecutor-before-vote.htm) · [[Serbia]] [[Aleksandar Vucic]] [[Trump Tower Belgrade (General Staff site)]]
-- **Qatari investors behind Albania Land Development and the Zvernec project**: Ownership of the Zvernec vehicle is undisclosed and reportedly Qatari. It ties to Kushner's Gulf backers (C15) while he negotiates as envoy. [source](https://exit.al/en/exit-explains/kushners-response-on-albania-what-the-record-shows-i48098) · [[Albania Land Development]] [[Jared Kushner]] [[Qatar]]
-- **Donald Trump Jr.'s business activity in Serbia during the 2025 protests**: Another family member doing business with the Vucic government around the Belgrade project. [source](https://news.talkwithrattan.com/index.php/2025/03/19/donald-trump-jr-mixes-business-and-politics-in-serbia-as-protests-there-rage/?amp=1) · [[Donald Trump Jr]] [[Serbia]] [[Aleksandar Vucic]]
-- **Albania's 2027 NATO summit no longer to be held in Tirana amid Rama's crisis**: A possible diplomatic fallout from the Kushner-resort protests. The causal link is not established. [source](https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana) · [[Albania]] [[Edi Rama]]
-- **Trump Tower Tbilisi and other Trump-branded projects in the region**: Another Trump-brand licensing deal in a country seeking favour with Washington. [source](https://eualive.net/trump-tower-tbilisi-revealed/) · [[Trump Organization]]
+### Ownership (5)
 
-## Sources
+- [[Jared Kushner]] *self-described minority partner in* [[Zvernec Vjosa-Narta coastal project]] · 2026-10 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Atlantic Incubation Partners LLC]] *reported affiliate of* [[Affinity Partners]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Jared Kushner]] *founder and head of* [[Affinity Partners]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Qatar]] *reported investor base / registration* [[Albania Land Development]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Sazan Real Estate Development]] *co-owns* [[Albania Land Development]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+
+### Family (1)
+
+- [[Jared Kushner]] *married to* [[Ivanka Trump]] · [[C45 Kushner's Albania and Serbia developments|C45]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+
+### Regulatory (4)
+
+- [[Albania]] *enacted protected-areas amendment* [[Albania Law 21 2024 (Protected Areas amendment)]] · 2024-02-22 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Albanian Strategic Investment Committee]] *granted strategic-investor status for EUR 1.4B Sazan resort* [[Atlantic Incubation Partners LLC]] · 2024-12-30 · $1.4B · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Serbia]] *parliament passed special law 130-40* [[Serbian special law on the General Staff complex]] · 2025-11-07 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[European Commission]] *warned on EU environmental rules; told construction suspended* [[Albania]] · 2026 · [[C45 Kushner's Albania and Serbia developments|C45]]
+
+### Political (5)
+
+- [[Aleksandar Vucic]] *lobbied for; denied forgery, offered pardons* [[Trump Tower Belgrade (General Staff site)]] · 2025-05 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Donald Trump]] *named 'envoy of peace'* [[Jared Kushner]] · 2026-02-19 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Zvernec protests ('Flamingo Revolution')]] *demands resignation of* [[Edi Rama]] · 2026-05 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Edi Rama]] *chairs* [[Albanian Strategic Investment Committee]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Jamie Raskin]] *House Judiciary ranking member* [[US Congress]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+
+### Legal (6)
+
+- [[Nikola Selakovic]] *on trial for forging documents lifting site's protection* [[Trump Tower Belgrade (General Staff site)]] · 2026-02-04 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[SPAK (Albanian Special Anti-Corruption Structure)]] *froze sale proceeds/accounts* [[Albania Land Development]] · 2026-06 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[SPAK (Albanian Special Anti-Corruption Structure)]] *investigating for forged deeds and illicit funds* [[Artur Shehu]] · 2026-06 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Jamie Raskin]] *demanded records on Albania deals* [[Affinity Partners]] · 2026-08-24 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Jamie Raskin]] *cited as possible basis for scrutiny* [[Foreign Corrupt Practices Act]] · 2026-08-24 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Jamie Raskin]] *expanded probe into $120M Albanian land purchase, FCPA questions* [[Jared Kushner]] · 2026-08-24 · [[C45 Kushner's Albania and Serbia developments|C45]]
+
+### Media (3)
+
+- [[Candace Owens]] *attacked over Albania resort* [[Ivanka Trump]] · 2026-06 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Reuters]] *reported case files on forged deeds* [[SPAK (Albanian Special Anti-Corruption Structure)]] · 2026-07-11 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[The New Yorker]] *investigated Albania project; Kushner rebutted* [[Jared Kushner]] · 2026-10-08 · [[C45 Kushner's Albania and Serbia developments|C45]]
+
+### Commercial (8)
+
+- [[Serbia]] *granted 99-year rent-free lease on General Staff site (2024 contract)* [[Affinity Partners]] · 2024 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Mohamed Alabbar]] *reported partner in* [[Trump Tower Belgrade (General Staff site)]] · 2025-01 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Affinity Partners]] *sponsored, then withdrew from* [[Trump Tower Belgrade (General Staff site)]] · 2025-12-15 · $500M · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Affinity Partners]] *denies being investor or developer of* [[Zvernec Vjosa-Narta coastal project]] · 2026-06 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Asher Abehsera]] *CEO / day-to-day lead (per Kushner)* [[Zvernec Vjosa-Narta coastal project]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Atlantic Incubation Partners LLC]] *proposed developer of* [[Sazan Island Resort]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Eric Trump]] *consulted by Kushner on branding* [[Trump Tower Belgrade (General Staff site)]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Trump Organization]] *was to license Trump brand to* [[Trump Tower Belgrade (General Staff site)]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+
+## Leads not covered here
+
+- **Serbian Pegasus spyware reportedly used on the prosecutor in the Kushner/General Staff case**
+  - Possible state surveillance of the prosecutor who indicted officials over the Kushner-linked Belgrade project.
+  - [[Serbia]] [[Aleksandar Vucic]] [[Trump Tower Belgrade (General Staff site)]] · [Source](https://www.techtimes.com/articles/329256/20261020/serbias-pegasus-spyware-infected-rector-kushner-case-prosecutor-before-vote.htm)
+- **Qatari investors behind Albania Land Development and the Zvernec project**
+  - Ownership of the Zvernec vehicle is undisclosed and reportedly Qatari.
+  - It ties to Kushner's Gulf backers (C15) while he negotiates as envoy.
+  - [[Albania Land Development]] [[Jared Kushner]] [[Qatar]] · [Source](https://exit.al/en/exit-explains/kushners-response-on-albania-what-the-record-shows-i48098)
+- **Donald Trump Jr.'s business activity in Serbia during the 2025 protests**
+  - Another family member doing business with the Vucic government around the Belgrade project.
+  - [[Donald Trump Jr]] [[Serbia]] [[Aleksandar Vucic]] · [Source](https://news.talkwithrattan.com/index.php/2025/03/19/donald-trump-jr-mixes-business-and-politics-in-serbia-as-protests-there-rage/?amp=1)
+- **Albania's 2027 NATO summit no longer to be held in Tirana amid Rama's crisis**
+  - A possible diplomatic fallout from the Kushner-resort protests.
+  - The causal link is not established.
+  - [[Albania]] [[Edi Rama]] · [Source](https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana)
+- **Trump Tower Tbilisi and other Trump-branded projects in the region**
+  - Another Trump-brand licensing deal in a country seeking favour with Washington.
+  - [[Trump Organization]] · [Source](https://eualive.net/trump-tower-tbilisi-revealed/)
+
+## Sources (35)
 
 1. [Albania approves luxury resort project linked to Jared Kushner's company](https://www.aol.com/news/albania-approves-luxury-resort-project-132236248.html) (Reuters (via AOL), 2025-01)
 2. [Why Jared Kushner And Ivanka Trump's Albanian Resort Plans Are Under Fire](https://www.forbes.com/sites/alisondurkee/2026/06/03/why-jared-kushner-and-ivanka-trumps-albanian-resort-plans-are-under-fire/) (Forbes, 2026-06-03)

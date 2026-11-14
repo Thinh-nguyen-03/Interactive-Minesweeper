@@ -10,9 +10,15 @@ tags:
 ---
 # Ballard Partners
 
-*company*
-
 Trump-tied lobbying firm; record $88.1M 2025 revenue; former employer of Bondi and Wiles
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 5 claims |
+| Connections | 17 |
+
+## How other claims describe it
 
 - Trump-aligned lobbying firm; former employer of Bondi and Wiles.
 - Trump-tied lobbying firm; K Street revenue leader in 2025
@@ -29,25 +35,39 @@ Trump-tied lobbying firm; record $88.1M 2025 revenue; former employer of Bondi a
 
 ## Relationships
 
-- [[Socialist Party of Albania]] *hired at $20K/month* [[Ballard Partners]] (2017-04, $20K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ballard Partners]] *strategic partnership* [[Checkmate Government Relations]] (commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named* [[Donald Trump]] (2025-03, political) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ballard Partners]] *FARA-registered agent for ($115K/month firm fee)* [[Qatar]] (2019, $115K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Ballard Partners]] *FARA-registered lobbying for (firm fee per month)* [[Qatar]] (2019, $115K, money) · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Ballard Partners]] *represents 11 corporate donors* [[White House ballroom]] (2025-11, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Blockchain.com]] *hired* [[Ballard Partners]] (2024-12, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Blockchain.com]] *hired (with Kraken, $60K combined Dec 2024)* [[Ballard Partners]] (2024-12, money) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Brian Ballard]] *founder* [[Ballard Partners]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Brian Ballard]] *founder of* [[Ballard Partners]] (ownership) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Kraken]] *hired (with Blockchain.com, $60K combined Dec 2024)* [[Ballard Partners]] (2024-12, $60K, money) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Kraken]] *hired (with Blockchain.com, $60K combined)* [[Ballard Partners]] (2024-12, $60K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Kraken]] *hired for lobbying* [[Ballard Partners]] (2024-12, political) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Pam Bondi]] *former lobbyist at* [[Ballard Partners]] (2011-2024, commercial) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Pam Bondi]] *lobbyist at* [[Ballard Partners]] (2019-2020, commercial) · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Pam Bondi]] *registered agent/key personnel on Qatar contract* [[Ballard Partners]] (2019, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Qatar]] *paid $115K/month for lobbying* [[Ballard Partners]] (2019-07, $115K, money) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Ripple]] *lobbying client of* [[Ballard Partners]] (commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Saudi Arabia]] *embassy contract $60K/month ($720K/year)* [[Ballard Partners]] (2025-03-31, $720K, money) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Susie Wiles]] *former lobbyist at* [[Ballard Partners]] (2011-2019, advisory) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Susie Wiles]] *former partner* [[Ballard Partners]] (commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Susie Wiles]] *former partner of* [[Ballard Partners]] (commercial) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+### Money (9)
+
+- [[Socialist Party of Albania]] *hired at $20K/month* [[Ballard Partners]] · 2017-04 · $20K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ballard Partners]] *FARA-registered agent for ($115K/month firm fee)* [[Qatar]] · 2019 · $115K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ballard Partners]] *FARA-registered lobbying for (firm fee per month)* [[Qatar]] · 2019 · $115K · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Qatar]] *paid $115K/month for lobbying* [[Ballard Partners]] · 2019-07 · $115K · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Blockchain.com]] *hired* [[Ballard Partners]] · 2024-12 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Blockchain.com]] *hired (with Kraken, $60K combined Dec 2024)* [[Ballard Partners]] · 2024-12 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Kraken]] *hired (with Blockchain.com, $60K combined Dec 2024)* [[Ballard Partners]] · 2024-12 · $60K · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Kraken]] *hired (with Blockchain.com, $60K combined)* [[Ballard Partners]] · 2024-12 · $60K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Saudi Arabia]] *embassy contract $60K/month ($720K/year)* [[Ballard Partners]] · 2025-03-31 · $720K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Ownership (2)
+
+- [[Brian Ballard]] *founder* [[Ballard Partners]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Brian Ballard]] *founder of* [[Ballard Partners]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+
+### Advisory (1)
+
+- [[Susie Wiles]] *former lobbyist at* [[Ballard Partners]] · 2011-2019 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Political (2)
+
+- [[Kraken]] *hired for lobbying* [[Ballard Partners]] · 2024-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named* [[Donald Trump]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+
+### Commercial (8)
+
+- [[Pam Bondi]] *former lobbyist at* [[Ballard Partners]] · 2011-2024 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Pam Bondi]] *registered agent/key personnel on Qatar contract* [[Ballard Partners]] · 2019 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Pam Bondi]] *lobbyist at* [[Ballard Partners]] · 2019-2020 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Ballard Partners]] *represents 11 corporate donors* [[White House ballroom]] · 2025-11 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ballard Partners]] *strategic partnership* [[Checkmate Government Relations]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ripple]] *lobbying client of* [[Ballard Partners]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Susie Wiles]] *former partner* [[Ballard Partners]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Susie Wiles]] *former partner of* [[Ballard Partners]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]

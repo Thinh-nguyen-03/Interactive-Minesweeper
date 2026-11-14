@@ -10,9 +10,15 @@ tags:
 ---
 # Joe Rogan
 
-*person*
-
 Podcaster who backed Trump in 2024; called the family's crypto 'nuts' and 'shady' (Aug 2026)
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
 
 - Podcaster who questioned legality of Truth API
 
@@ -23,5 +29,7 @@ Podcaster who backed Trump in 2024; called the family's crypto 'nuts' and 'shady
 
 ## Relationships
 
-- [[Joe Rogan]] *called family crypto deals 'nuts' and 'shady but legal'* [[Donald Trump]] (2026-08, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Joe Rogan]] *questioned how it is legal* [[Truth API]] (2026-08, media) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+### Media (2)
+
+- [[Joe Rogan]] *called family crypto deals 'nuts' and 'shady but legal'* [[Donald Trump]] · 2026-08 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Joe Rogan]] *questioned how it is legal* [[Truth API]] · 2026-08 · [[C58 Market-moving posts and insider-trading allegations|C58]]

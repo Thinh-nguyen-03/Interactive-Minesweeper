@@ -6,7 +6,7 @@ tags:
 ---
 # Government contracts near family-linked firms
 
-Companies the sons invest in or advise receive, or explicitly target, federal contracts and incentives.
+- Companies the sons invest in or advise receive, or explicitly target, federal contracts and incentives.
 
 ## Claims
 

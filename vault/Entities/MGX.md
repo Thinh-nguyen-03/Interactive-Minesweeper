@@ -10,9 +10,15 @@ tags:
 ---
 # MGX
 
-*company*
-
 Abu Dhabi investment firm chaired by Tahnoon; invested $2B in Binance via USD1; Stargate investor.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 6 claims |
+| Connections | 21 |
+
+## How other claims describe it
 
 - Abu Dhabi AI/tech investment firm (Mubadala and G42 partners), chaired by Tahnoon bin Zayed.
 - Abu Dhabi AI investment fund chaired by Tahnoon
@@ -31,37 +37,51 @@ Abu Dhabi investment firm chaired by Tahnoon; invested $2B in Binance via USD1; 
 
 ## Relationships
 
-- [[Forbes]] *reported MGX rationale for choosing USD1* [[MGX]] (2025-10-02, media) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[G42]] *co-founded* [[MGX]] (2024-03, ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[G42]] *founding partner of* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[MGX]] *founding partner of* [[AI Infrastructure Partnership]] (2024-09, ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[MGX]] *co-acquirer ($40B deal)* [[Aligned Data Centers]] (2025-10, $40B, money) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[MGX]] *co-led $30B Series G; joined $65B Series H* [[Anthropic]] (2026-02, money) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[MGX]] *$2B investment settled in USD1* [[Binance]] (2025-05-01, $2B, money) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[MGX]] *invested $2B (minority stake) in, settled in USD1* [[Binance]] (2025-03-12, $2B, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[MGX]] *invested $2B (settled in USD1)* [[Binance]] (2025-03-12, $2B, money) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[MGX]] *invested $2B (settled in USD1) in* [[Binance]] (2025-03-12, $2B, money) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[MGX]] *invested $2B in* [[Binance]] ($2B, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[MGX]] *invested $2B in, settled in USD1* [[Binance]] (2025-05-01, $2B, money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]]
-- [[MGX]] *made* [[MGX $2B investment in Binance]] ($2B, money) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[MGX]] *lead investor in $122B round* [[OpenAI]] (2026-03-31, money) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[MGX]] *initial equity funder* [[Project Stargate]] (2025-01-21, money) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[MGX]] *initial equity funder of* [[Project Stargate]] (2025-01-21, money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[MGX]] *investing partner in* [[Project Stargate]] (money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[MGX]] *15% stake* [[TikTok USDS Joint Venture LLC]] (2026-01-22, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[MGX]] *owns 15% of* [[TikTok USDS Joint Venture LLC]] (2026-01-22, ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[MGX]] *based in / state-linked to* [[United Arab Emirates]] (ownership) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[MGX]] *state-backed fund of* [[United Arab Emirates]] (political) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[MGX]] *state-linked firm of* [[United Arab Emirates]] (ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[MGX]] *state-linked fund of* [[United Arab Emirates]] (ownership) · [[C10 Binance driving USD1 adoption|C10]]
-- [[MGX]] *chose as settlement stablecoin* [[USD1]] (commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
-- [[MGX]] *used for $2B Binance deal* [[USD1]] (2025-05-01, $2B, money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[MGX]] *used for Binance settlement* [[USD1]] (2025-05-01, commercial) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[MGX]] *used to settle Binance deal* [[USD1]] (2025-05-01, commercial) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[MGX]] *used to settle Binance investment* [[USD1]] (2025-05-01, $2B, commercial) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[MGX]] *invested in $20B Series E* [[xAI]] (2026-01, money) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Mubadala Investment Company]] *co-founded* [[MGX]] (2024-03, ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+### Money (15)
+
+- [[MGX]] *initial equity funder* [[Project Stargate]] · 2025-01-21 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[MGX]] *initial equity funder of* [[Project Stargate]] · 2025-01-21 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[MGX]] *invested $2B (minority stake) in, settled in USD1* [[Binance]] · 2025-03-12 · $2B · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *invested $2B (settled in USD1)* [[Binance]] · 2025-03-12 · $2B · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[MGX]] *invested $2B (settled in USD1) in* [[Binance]] · 2025-03-12 · $2B · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[MGX]] *$2B investment settled in USD1* [[Binance]] · 2025-05-01 · $2B · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[MGX]] *invested $2B in, settled in USD1* [[Binance]] · 2025-05-01 · $2B · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]]
+- [[MGX]] *used for $2B Binance deal* [[USD1]] · 2025-05-01 · $2B · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[MGX]] *co-acquirer ($40B deal)* [[Aligned Data Centers]] · 2025-10 · $40B · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[MGX]] *invested in $20B Series E* [[xAI]] · 2026-01 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[MGX]] *co-led $30B Series G; joined $65B Series H* [[Anthropic]] · 2026-02 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[MGX]] *lead investor in $122B round* [[OpenAI]] · 2026-03-31 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[MGX]] *invested $2B in* [[Binance]] · $2B · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *made* [[MGX $2B investment in Binance]] · $2B · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[MGX]] *investing partner in* [[Project Stargate]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+
+### Ownership (10)
+
+- [[G42]] *co-founded* [[MGX]] · 2024-03 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[G42]] *founding partner of* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[Mubadala Investment Company]] *co-founded* [[MGX]] · 2024-03 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[MGX]] *founding partner of* [[AI Infrastructure Partnership]] · 2024-09 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[MGX]] *15% stake* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[MGX]] *owns 15% of* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[MGX]] *based in / state-linked to* [[United Arab Emirates]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[MGX]] *state-linked firm of* [[United Arab Emirates]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[MGX]] *state-linked fund of* [[United Arab Emirates]] · [[C10 Binance driving USD1 adoption|C10]]
+
+### Political (1)
+
+- [[MGX]] *state-backed fund of* [[United Arab Emirates]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+
+### Media (1)
+
+- [[Forbes]] *reported MGX rationale for choosing USD1* [[MGX]] · 2025-10-02 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+
+### Commercial (4)
+
+- [[MGX]] *used for Binance settlement* [[USD1]] · 2025-05-01 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[MGX]] *used to settle Binance deal* [[USD1]] · 2025-05-01 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[MGX]] *used to settle Binance investment* [[USD1]] · 2025-05-01 · $2B · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[MGX]] *chose as settlement stablecoin* [[USD1]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 
 ## Themes
 

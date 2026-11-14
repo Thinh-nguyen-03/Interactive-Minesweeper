@@ -10,9 +10,13 @@ tags:
 ---
 # SEC enforcement case against Cumberland
 
-*event*
-
 Dismissed with prejudice.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 2 claims |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -21,8 +25,13 @@ Dismissed with prejudice.
 
 ## Relationships
 
-- [[Securities and Exchange Commission]] *dismissed with prejudice* [[SEC enforcement case against Cumberland]] (regulatory) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[SEC enforcement case against Cumberland]] *targeted* [[Cumberland (DRW)]] (legal) · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+### Regulatory (1)
+
+- [[Securities and Exchange Commission]] *dismissed with prejudice* [[SEC enforcement case against Cumberland]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+
+### Legal (1)
+
+- [[SEC enforcement case against Cumberland]] *targeted* [[Cumberland (DRW)]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 
 ## Themes
 

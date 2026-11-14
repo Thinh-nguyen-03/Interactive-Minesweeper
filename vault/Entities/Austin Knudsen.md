@@ -10,9 +10,13 @@ tags:
 ---
 # Austin Knudsen
 
-*person*
-
 Montana AG who shared the Q&A stage with Don Jr. in New Orleans
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

@@ -10,9 +10,13 @@ tags:
 ---
 # Victory 47 fragrance
 
-*product*
-
 $99 Trump-branded cologne and perfume (late 2024)
+
+| | |
+|---|---|
+| Type | Product |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ $99 Trump-branded cologne and perfume (late 2024)
 
 ## Relationships
 
-- [[Donald Trump]] *lends name to* [[Victory 47 fragrance]] (2024-12, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+### Commercial (1)
+
+- [[Donald Trump]] *lends name to* [[Victory 47 fragrance]] · 2024-12 · [[C17 Trump merchandise and the T1 phone|C17]]

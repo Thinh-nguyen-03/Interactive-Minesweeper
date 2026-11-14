@@ -10,9 +10,13 @@ tags:
 ---
 # Digital Freedom Fund
 
-*fund*
-
 Winklevoss-funded pro-crypto PAC; Jeff Miller reported as a member
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Winklevoss-funded pro-crypto PAC; Jeff Miller reported as a member
 
 ## Relationships
 
-- [[Cameron Winklevoss]] *co-funded with BTC* [[Digital Freedom Fund]] (money) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Jeff Miller]] *reported member of* [[Digital Freedom Fund]] (political) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+### Money (1)
+
+- [[Cameron Winklevoss]] *co-funded with BTC* [[Digital Freedom Fund]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+
+### Political (1)
+
+- [[Jeff Miller]] *reported member of* [[Digital Freedom Fund]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]

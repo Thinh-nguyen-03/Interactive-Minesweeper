@@ -10,9 +10,13 @@ tags:
 ---
 # Prabowo Subianto
 
-*person*
-
 Indonesian president; asked Trump on a hot mic to meet Eric
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Indonesian president; asked Trump on a hot mic to meet Eric
 
 ## Relationships
 
-- [[Prabowo Subianto]] *asked Trump for a meeting with* [[Eric Trump]] (2025-10-13, political) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Political (1)
+
+- [[Prabowo Subianto]] *asked Trump for a meeting with* [[Eric Trump]] · 2025-10-13 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

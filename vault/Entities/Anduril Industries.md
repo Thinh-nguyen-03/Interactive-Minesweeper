@@ -10,9 +10,13 @@ tags:
 ---
 # Anduril Industries
 
-*company*
-
 Defense-tech company; listed 1789 holding; builds YFQ-44 for Air Force.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Defense-tech company; listed 1789 holding; builds YFQ-44 for Air Force.
 
 ## Relationships
 
-- [[1789 Capital]] *reported investor in* [[Anduril Industries]] (money) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+### Money (1)
+
+- [[1789 Capital]] *reported investor in* [[Anduril Industries]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]

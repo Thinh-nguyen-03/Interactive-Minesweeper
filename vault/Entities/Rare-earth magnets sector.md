@@ -10,9 +10,13 @@ tags:
 ---
 # Rare-earth magnets sector
 
-*asset*
-
 Strategic sector with heavy US government involvement.
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Strategic sector with heavy US government involvement.
 
 ## Relationships
 
-- [[Vulcan Elements]] *operates in* [[Rare-earth magnets sector]] (commercial) · [[C26 1789 Capital and Vulcan Elements|C26]]
+### Commercial (1)
+
+- [[Vulcan Elements]] *operates in* [[Rare-earth magnets sector]] · [[C26 1789 Capital and Vulcan Elements|C26]]

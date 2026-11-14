@@ -10,9 +10,13 @@ tags:
 ---
 # $24M Pentagon contract for Foundation
 
-*event*
-
 Contract Fox presented as new; Wired says it predates Eric Trump.
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,9 +24,14 @@ Contract Fox presented as new; Wired says it predates Eric Trump.
 
 ## Relationships
 
-- [[Fox News]] *presented as new* [[$24M Pentagon contract for Foundation]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Pentagon (Department of Defense)]] *awarded* [[$24M Pentagon contract for Foundation]] ($24M, money) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Wired]] *reported predates Eric Trump* [[$24M Pentagon contract for Foundation]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+### Money (1)
+
+- [[Pentagon (Department of Defense)]] *awarded* [[$24M Pentagon contract for Foundation]] · $24M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+
+### Media (2)
+
+- [[Fox News]] *presented as new* [[$24M Pentagon contract for Foundation]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Wired]] *reported predates Eric Trump* [[$24M Pentagon contract for Foundation]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 
 ## Themes
 

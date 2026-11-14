@@ -10,9 +10,15 @@ tags:
 ---
 # Kazakhstan
 
-*country*
-
 Host country of the tungsten project.
+
+| | |
+|---|---|
+| Type | Country |
+| Appears in | 3 claims |
+| Connections | 3 |
+
+## How other claims describe it
 
 - Host of the tungsten project
 

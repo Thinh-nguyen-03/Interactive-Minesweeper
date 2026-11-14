@@ -10,9 +10,13 @@ tags:
 ---
 # Libertarian Party
 
-*company*
-
 Trump pledged the Ulbricht pardon at its May 2024 convention
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Trump pledged the Ulbricht pardon at its May 2024 convention
 
 ## Relationships
 
-- [[Donald Trump]] *pledged Ulbricht pardon at its convention* [[Libertarian Party]] (2024-05, political) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+### Political (1)
+
+- [[Donald Trump]] *pledged Ulbricht pardon at its convention* [[Libertarian Party]] · 2024-05 · [[C36 Clemency for other crypto and donor-linked figures|C36]]

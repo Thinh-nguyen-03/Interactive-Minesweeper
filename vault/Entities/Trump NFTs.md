@@ -12,9 +12,14 @@ tags:
 ---
 # Trump NFTs
 
-*asset*
-
 Trump digital trading-card NFT business.
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
+| Also known as | NFT business |
 
 ## Appears in claims
 
@@ -22,7 +27,9 @@ Trump digital trading-card NFT business.
 
 ## Relationships
 
-- [[Donald Trump]] *sells* [[Trump NFTs]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+### Commercial (1)
+
+- [[Donald Trump]] *sells* [[Trump NFTs]] · [[C17 Trump merchandise and the T1 phone|C17]]
 
 ## Themes
 

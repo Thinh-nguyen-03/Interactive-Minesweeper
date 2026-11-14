@@ -10,9 +10,13 @@ tags:
 ---
 # Jamal Khashoggi
 
-*person*
-
 Journalist killed in 2018 in the Saudi consulate in Istanbul
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Journalist killed in 2018 in the Saudi consulate in Istanbul
 
 ## Relationships
 
-- [[Donald Trump]] *said of killing 'things happen' and MBS 'knew nothing'* [[Jamal Khashoggi]] (2025-11-18, media) · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+### Media (1)
+
+- [[Donald Trump]] *said of killing 'things happen' and MBS 'knew nothing'* [[Jamal Khashoggi]] · 2025-11-18 · [[C56 Saudi Arabia family deals alongside US policy|C56]]

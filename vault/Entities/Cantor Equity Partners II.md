@@ -10,9 +10,13 @@ tags:
 ---
 # Cantor Equity Partners II
 
-*company*
-
 Cantor-sponsored SPAC merging with Securitize (S-4 effective Jun 5, 2026)
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,14 @@ Cantor-sponsored SPAC merging with Securitize (S-4 effective Jun 5, 2026)
 
 ## Relationships
 
-- [[Cantor Fitzgerald]] *sponsor affiliate* [[Cantor Equity Partners II]] (ownership) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Securities and Exchange Commission]] *declared Securitize S-4 effective* [[Cantor Equity Partners II]] (2026-06-05, regulatory) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Securitize]] *merging via SPAC* [[Cantor Equity Partners II]] (2025-10, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Ownership (1)
+
+- [[Cantor Fitzgerald]] *sponsor affiliate* [[Cantor Equity Partners II]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Regulatory (1)
+
+- [[Securities and Exchange Commission]] *declared Securitize S-4 effective* [[Cantor Equity Partners II]] · 2026-06-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+
+### Commercial (1)
+
+- [[Securitize]] *merging via SPAC* [[Cantor Equity Partners II]] · 2025-10 · [[C65 Officials who decided matters involving their former clients or partners|C65]]

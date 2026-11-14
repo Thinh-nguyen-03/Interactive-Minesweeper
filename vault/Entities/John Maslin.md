@@ -10,9 +10,13 @@ tags:
 ---
 # John Maslin
 
-*person*
-
 CEO of Vulcan Elements.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ CEO of Vulcan Elements.
 
 ## Relationships
 
-- [[John Maslin]] *CEO of* [[Vulcan Elements]] (ownership) · [[C26 1789 Capital and Vulcan Elements|C26]]
+### Ownership (1)
+
+- [[John Maslin]] *CEO of* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]

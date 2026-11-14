@@ -10,9 +10,13 @@ tags:
 ---
 # Sam Waldon
 
-*person*
-
 SEC acting enforcement director before and after Ryan
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

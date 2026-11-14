@@ -10,9 +10,13 @@ tags:
 ---
 # DoD Inspector General (Platte B. Moring III)
 
-*government*
-
 Recipient of Garcia and Warren et al. probe requests
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,8 @@ Recipient of Garcia and Warren et al. probe requests
 
 ## Relationships
 
-- [[Elizabeth Warren]] *asked (with Garcia, Blumenthal, Duckworth) to review $3.2B in awards* [[DoD Inspector General (Platte B. Moring III)]] (2026-08-04, $3.2B, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Robert Garcia]] *asked to investigate Trump family contracts* [[DoD Inspector General (Platte B. Moring III)]] (2026-05-08, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Tammy Duckworth]] *co-signed probe request to* [[DoD Inspector General (Platte B. Moring III)]] (2026-08-04, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+### Political (3)
+
+- [[Robert Garcia]] *asked to investigate Trump family contracts* [[DoD Inspector General (Platte B. Moring III)]] · 2026-05-08 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Elizabeth Warren]] *asked (with Garcia, Blumenthal, Duckworth) to review $3.2B in awards* [[DoD Inspector General (Platte B. Moring III)]] · 2026-08-04 · $3.2B · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Tammy Duckworth]] *co-signed probe request to* [[DoD Inspector General (Platte B. Moring III)]] · 2026-08-04 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]

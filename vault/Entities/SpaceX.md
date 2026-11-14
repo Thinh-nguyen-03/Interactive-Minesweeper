@@ -10,9 +10,13 @@ tags:
 ---
 # SpaceX
 
-*company*
-
 Launch/satellite company and major federal contractor; listed 1789 holding.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -21,4 +25,6 @@ Launch/satellite company and major federal contractor; listed 1789 holding.
 
 ## Relationships
 
-- [[1789 Capital]] *reported investor in* [[SpaceX]] (money) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+### Money (1)
+
+- [[1789 Capital]] *reported investor in* [[SpaceX]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]

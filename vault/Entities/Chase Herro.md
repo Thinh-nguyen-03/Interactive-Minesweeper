@@ -13,9 +13,16 @@ tags:
 ---
 # Chase Herro
 
-*person*
-
 World Liberty Financial co-founder shown saying you can sell anything in crypto 'if the story's right'.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 5 claims |
+| Connections | 11 |
+| Also known as | Chase; Chase Hero |
+
+## How other claims describe it
 
 - WLF co-founder; self-described 'dirtbag of the internet' and source of the 2018 'sh*t in a can' remark.
 - WLF co-founder; namesake of the $SPSC memecoin
@@ -32,14 +39,22 @@ World Liberty Financial co-founder shown saying you can sell anything in crypto 
 
 ## Relationships
 
-- [[Chase Herro]] *helps run* [[ALT5 Sigma]] (ownership) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Chase Herro]] *co-owns* [[Axiom Management Group]] (2024-10, ownership) · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
-- [[Chase Herro]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] (2025-04-26, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Chase Herro]] *inspired (2018 rant)* [[Shit Piss Skin Can ($SPSC)]] (2018, media) · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[Chase Herro]] *namesake of* [[Shit Piss Skin Can ($SPSC)]] (2025-11, media) · [[C42 How World Liberty insiders took money out|C42]]
-- [[Chase Herro]] *co-founded* [[World Liberty Financial]] (2024-09, ownership) · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[Chase Herro]] *co-founded, helps run* [[World Liberty Financial]] (ownership) · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[MSNBC]] *aired 2018 video of* [[Chase Herro]] (2024-09, media) · [[C04 World Liberty Financial founding and token sale|C04]]
+### Ownership (4)
+
+- [[Chase Herro]] *co-founded* [[World Liberty Financial]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[Chase Herro]] *co-owns* [[Axiom Management Group]] · 2024-10 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
+- [[Chase Herro]] *helps run* [[ALT5 Sigma]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Chase Herro]] *co-founded, helps run* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
+
+### Media (3)
+
+- [[Chase Herro]] *inspired (2018 rant)* [[Shit Piss Skin Can ($SPSC)]] · 2018 · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[MSNBC]] *aired 2018 video of* [[Chase Herro]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[Chase Herro]] *namesake of* [[Shit Piss Skin Can ($SPSC)]] · 2025-11 · [[C42 How World Liberty insiders took money out|C42]]
+
+### Commercial (1)
+
+- [[Chase Herro]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
 ## Themes
 

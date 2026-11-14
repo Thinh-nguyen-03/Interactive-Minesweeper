@@ -10,9 +10,15 @@ tags:
 ---
 # SoftBank
 
-*company*
-
 Stargate partner.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 4 claims |
+| Connections | 6 |
+
+## How other claims describe it
 
 - Stargate lead equity funder
 - Minority owner of Twenty One Capital; Stargate funder
@@ -27,6 +33,14 @@ Stargate partner.
 
 ## Relationships
 
-- [[SoftBank]] *lead equity funder of* [[Project Stargate]] (2025-01-21, money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[SoftBank]] *partner in* [[Project Stargate]] (commercial) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[SoftBank]] *minority owner; ~$900M* [[Twenty One Capital (XXI)]] (2025-04-23, $900M, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+### Money (1)
+
+- [[SoftBank]] *lead equity funder of* [[Project Stargate]] · 2025-01-21 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+
+### Ownership (1)
+
+- [[SoftBank]] *minority owner; ~$900M* [[Twenty One Capital (XXI)]] · 2025-04-23 · $900M · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+
+### Commercial (1)
+
+- [[SoftBank]] *partner in* [[Project Stargate]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]

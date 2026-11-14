@@ -10,9 +10,13 @@ tags:
 ---
 # Air Force One
 
-*asset*
-
 Presidential aircraft role the Qatari jet was to fill.
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Presidential aircraft role the Qatari jet was to fill.
 
 ## Relationships
 
-- [[Qatar Boeing 747 gift]] *to serve as* [[Air Force One]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
+### Commercial (1)
+
+- [[Qatar Boeing 747 gift]] *to serve as* [[Air Force One]] · [[C16 Qatar jet, arms sales and golf deal|C16]]

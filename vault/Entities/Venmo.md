@@ -10,9 +10,13 @@ tags:
 ---
 # Venmo
 
-*company*
-
 Payment app cited as formerly typical top finance app.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Payment app cited as formerly typical top finance app.
 
 ## Relationships
 
-- [[Apple App Store]] *formerly topped by* [[Venmo]] (commercial) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+### Commercial (1)
+
+- [[Apple App Store]] *formerly topped by* [[Venmo]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]

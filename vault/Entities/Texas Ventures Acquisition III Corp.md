@@ -10,9 +10,13 @@ tags:
 ---
 # Texas Ventures Acquisition III Corp
 
-*company*
-
 SPAC with Trump Org/TMTG executives as directors (single-source)
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ SPAC with Trump Org/TMTG executives as directors (single-source)
 
 ## Relationships
 
-- [[Kevin McGurn]] *leads SPAC (single-source)* [[Texas Ventures Acquisition III Corp]] (2026-01, advisory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+### Advisory (1)
+
+- [[Kevin McGurn]] *leads SPAC (single-source)* [[Texas Ventures Acquisition III Corp]] · 2026-01 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]

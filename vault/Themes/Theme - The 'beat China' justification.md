@@ -6,7 +6,7 @@ tags:
 ---
 # The 'beat China' justification
 
-Family crypto and robotics ventures are defended as necessary so America wins the race against China.
+- Family crypto and robotics ventures are defended as necessary so America wins the race against China.
 
 ## Claims
 

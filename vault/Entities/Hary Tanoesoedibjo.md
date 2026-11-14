@@ -10,9 +10,13 @@ tags:
 ---
 # Hary Tanoesoedibjo
 
-*person*
-
 MNC Group owner; Trump's Indonesian partner
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -21,4 +25,6 @@ MNC Group owner; Trump's Indonesian partner
 
 ## Relationships
 
-- [[Hary Tanoesoedibjo]] *controls* [[MNC Group MNC Land]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Ownership (1)
+
+- [[Hary Tanoesoedibjo]] *controls* [[MNC Group MNC Land]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

@@ -18,7 +18,39 @@ tags:
 ---
 # C51: Trump sons' drone ventures and the Pentagon's Drone Dominance programme
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Follow-up lead
+
+## Bottom line
+
+The deals and letters are documented: the brothers hold an indirect stake (via American Ventures) in the Powerus/Aureus Greenway merger (announced 2026-03-09, closed ~2026-10-01), which then won an up-to-$90M Air Force IDIQ and an $82M order; the WSJ reported in May 2026 that the Pentagon was negotiating debt-and-equity funding with Unusual Machines, which co-led a $10M investment in Draganfly in Sep 2026.
+
+## What holds up
+
+- Eric Trump and Don Jr. back the Powerus / Aureus Greenway drone merger.
+- Powerus has won federal drone business since the merger (mostly accurate)
+- The Pentagon is negotiating an equity stake in Don Jr.-advised Unusual Machines under the $1.1B Drone Dominance programme (mostly accurate)
+- Unusual Machines invested in Draganfly.
+- Trump executive orders on drones and restrictions on Chinese DJI benefit domestic makers (mostly accurate)
+- Warren and Garcia wrote to the Pentagon Inspector General.
+- Senate Democrats tallied $70M+ in federal contracts to 1789 Capital portfolio companies.
+
+## What needs correcting
+
+- Warren's letters call the Sept 2025 $12.8M award a DoD contract to Unusual Machines; the company describes it as an order from defense supplier Strategic Logix (RRSL line), i.e. a subcontract.
+- The Pentagon equity stake in Unusual Machines is reported as negotiated, not agreed; only peers PDW and Neros have closed OSC financing (as of mid-Nov 2026).
+- The Powerus/Aureus merger was announced in March 2026 and completed around Oct 1, 2026, not in March.
+- The DJI restrictions came via the FY25 NDAA review and the FCC Covered List (Dec 2025); EO 14307 itself did not ban DJI.
+- The Drone Dominance programme is a procurement effort; the equity-stake talks run through the Office of Strategic Capital.
+
+## What is unproven
+
+- The awards, financing talks or policy steps resulted from Trump family influence.
+
+## In more detail
+
+- EO 14307 and the FCC's Dec 2025 foreign-drone Covered List do benefit domestic makers, and the Garcia/Warren IG letters and the $70M+ PitchBook tally are real.
+- But no Unusual Machines equity deal had been announced by Nov 2026, the $12.8M 'DoD contract' was a Strategic Logix subcontract, and no evidence shows family intervention; all parties deny it.
 
 ## Lead investigated
 
@@ -26,73 +58,111 @@ tags:
 
 ## Follows up on
 
-- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]]
-- [[C28 Foundation Future Industries robots and Eric Trump]]
-- [[C26 1789 Capital and Vulcan Elements]]
+- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
+- [[C28 Foundation Future Industries robots and Eric Trump]] · Mostly accurate
+- [[C26 1789 Capital and Vulcan Elements]] · Mostly accurate
 
 ## Follow-up checks
 
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-
-## Summary
-
-The deals and letters are documented: the brothers hold an indirect stake (via American Ventures) in the Powerus/Aureus Greenway merger (announced 2026-03-09, closed ~2026-10-01), which then won an up-to-$90M Air Force IDIQ and an $82M order; the WSJ reported in May 2026 that the Pentagon was negotiating debt-and-equity funding with Unusual Machines, which co-led a $10M investment in Draganfly in Sep 2026. EO 14307 and the FCC's Dec 2025 foreign-drone Covered List do benefit domestic makers, and the Garcia/Warren IG letters and the $70M+ PitchBook tally are real. But no Unusual Machines equity deal had been announced by Nov 2026, the $12.8M 'DoD contract' was a Strategic Logix subcontract, and no evidence shows family intervention; all parties deny it.
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Pending
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
 
 ## Sub-claims
 
-- **Confirmed**: Eric Trump and Don Jr. back the Powerus / Aureus Greenway drone merger.
-  - Golf-course company Aureus Greenway Holdings announced a reverse merger with Rock Hill, SC drone maker Powerus on 2026-03-09 (value undisclosed). The brothers hold their stake indirectly through American Ventures: about 3% of Aureus at announcement, with filings indicating a 9.9% beneficial stake in the combined company. Dominari Securities, roughly 6% owned by each brother, raised about $9M including from Unusual Machines. The merger closed around 2026-10-01 under the ticker PUSA, with CEO Andrew Fox. A Manufacturing Dive headline describing it as closed in March is wrong.
-  - <https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/>
-  - <https://finance.yahoo.com/news/trump-brothers-backed-aureus-merge-123728284.html>
-  - <https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/>
-  - <https://dronelife.com/2026/09/30/powerus-merger-drone-company-nasdaq/>
-- **Mostly accurate**: Powerus has won federal drone business since the merger.
-  - Its subsidiary Tandem Defense won an Air Force IDIQ in Aug 2026 with a ceiling of up to $90M (a ceiling, not committed money). In Oct 2026 Powerus announced an $82M order under it, and it reported $130M in signed orders by Nov 2026. It qualified for Drone Dominance Phase II but was not among the Phase I production winners or the Gauntlet II winners. It also placed a $16.9M components order with Unusual Machines. Advisory board member Keith Kellogg said 'it never hurts to have their name on something.'
-  - <https://insideunmannedsystems.com/powerus-subsidiary-wins-up-to-90-million-air-force-idiq-for-group-1-aerial-denial/>
-  - <https://www.tectonicdefense.com/exclusive-powerus-secures-82m-interceptor-order/>
-  - <https://insideunmannedsystems.com/19-companies-out-of-49-contenders-qualify-for-drone-dominance-gauntlet-2-trial/>
-  - <https://defensescoop.com/2026/09/18/drone-dominance-program-gauntlet-2-results/>
-  - <https://www.newswire.com/news/unusual-machines-receives-16-9-million-purchase-order-from-powerus-for-american>
-  - <https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/>
-- **Mostly accurate**: The Pentagon is negotiating an equity stake in Don Jr.-advised Unusual Machines under the $1.1B Drone Dominance programme.
-  - On 2026-05-28 the WSJ reported months of talks with UMAC, PDW and Neros on funding that could combine debt and equity. Coverage tied the talks to the roughly $1.1B Drone Dominance push, but the vehicle is OSC lending. UMAC rose about 57-65% on the report. PDW (2026-07-31) and Neros (up to $450M, 2026-11-02) have since signed conditional OSC loans. No OSC release or filing naming UMAC was found as of mid-Nov 2026.
-  - <https://www.cnbc.com/2026/05/28/drone-stocks-unusual-machines-donald-trump-equity-stake.html>
-  - <https://qz.com/pentagon-drone-company-equity-stakes-unusual-machines-052826>
-  - <https://dronexl.co/2026/11/02/neros-450m-osc-loan-taxpayer-ownership-stake/>
-- **Confirmed**: Unusual Machines invested in Draganfly.
-  - Reuters reported on 2026-09-28 that Unusual Machines and an unnamed US asset manager are buying 1,869,159 Draganfly shares at $5.35, about $10M in total, which is more than half of Draganfly's market cap of about $17.9M. The deal came weeks after Draganfly won a Canadian Armed Forces drone contract. The $5M-each split is unconfirmed.
-  - <https://www.ctvnews.ca/business/article/trump-jr-backed-unusual-machines-us-asset-manager-invest-us10m-in-canadas-draganfly-reuters-exclusive/>
-  - <https://pulse2.com/draganfly-secures-10-million-strategic-investment-from-unusual-machines-and-u-s-investment-fund/>
-- **Mostly accurate**: Trump executive orders on drones and restrictions on Chinese DJI benefit domestic makers.
-  - EO 14307 'Unleashing American Drone Dominance' (2025-06-06) prioritizes US-made drones in federal procurement but did not ban DJI. Effective 2025-12-22 the FCC put foreign-made UAS and critical components, including DJI, on its Covered List, citing the EO; this followed the FY25 NDAA-mandated review. Exemptions were later carved out for Blue UAS-listed and domestic products. NDAA-compliant suppliers like UMAC benefit structurally. Claims that Don Jr. personally pushed the DJI ban are unverified.
-  - <https://dronelife.com/2025/06/07/trumps-drone-executive-orders-beyond-the-fact-sheets/>
-  - <https://www.mofo.com/resources/insights/261106-unleashing-american-drone-dominance-impact>
-  - <https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/>
-  - <https://petapixel.com/2025/12/23/us-government-bans-new-dji-and-other-foreign-made-drones/>
-  - <https://dronexl.co/2026/08/16/trump-jr-unusual-machines-dji-ban-timeline/>
-- **Confirmed**: Warren and Garcia wrote to the Pentagon Inspector General.
-  - Rep. Robert Garcia wrote to DoD IG Platte B. Moring III on 2026-05-08, citing Unusual Machines and the Powerus interceptor award. On 2026-08-04 Warren, Garcia, Blumenthal and Duckworth asked the IG to review about $3.2B in awards, plus $3.1B in options, to at least 15 companies tied to Trump-son-linked investors. Warren separately wrote to Hegseth about UMAC on 2026-05-06. No IG inquiry has been confirmed.
-  - <https://oversightdemocrats.house.gov/imo/media/doc/2026-05-08garciatododigretrumpfamilycontracts.pdf>
-  - <https://www.ibtimes.co.uk/democrats-pentagon-watchdog-trump-sons-defence-deals-1824369>
-  - <https://www.warren.senate.gov/wp-content/uploads/2026/08/2026.08.04-Letter-to-DoD-IG-re-Corruption-in-Pentagon-Awards-Process.pdf>
-  - <https://www.inquirer.com/news/nation-world/trump-sons-investments-pentagon-contracts-democrats-investigation-20260805.html>
-  - <https://news.bgov.com/federal-contracting/unusual-machines-pentagon-contracts-scrutinized-by-sen-warren>
-- **Confirmed**: Senate Democrats tallied $70M+ in federal contracts to 1789 Capital portfolio companies.
-  - On 2026-01-22/23 Warren, Blumenthal and Kim wrote to Hegseth. Citing PitchBook, they said 1789 portfolio companies received more than $70M in contracts between Apr and Nov 2025, including $45M to Cerebras in Apr 2025; the $620M Vulcan loan was cited separately. The figure has not been independently audited, and no lawbreaking is alleged. 1789 says it has 'absolutely zero involvement' in its companies' operations.
-  - <https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-kim-sound-alarm-on-potential-for-donald-trump-jr-linked-companies-to-profit-off-department-of-defense-contract-awards-loans>
-  - <https://kvia.com/news/business-technology/cnn-business-consumer/2026/01/23/democratic-senators-sound-the-alarm-on-pentagon-backing-firms-linked-to-donald-trump-jr/>
-- **Unverified**: The awards, financing talks or policy steps resulted from Trump family influence.
-  - No reporting or document shows a Trump son contacting officials about Powerus, UMAC, Draganfly or OSC. Don Jr.'s spokesperson says he never communicated with the administration on UMAC's behalf. Powerus says the brothers are passive investors.
-  - <https://news.bgov.com/federal-contracting/unusual-machines-pentagon-contracts-scrutinized-by-sen-warren>
-  - <https://finance.yahoo.com/news/trump-brothers-backed-aureus-merge-123728284.html>
+### 1. Eric Trump and Don Jr. back the Powerus / Aureus Greenway drone merger.
 
-## Corrections
+**Confirmed**
 
-- Warren's letters call the Sept 2025 $12.8M award a DoD contract to Unusual Machines; the company describes it as an order from defense supplier Strategic Logix (RRSL line), i.e. a subcontract.
-- The Pentagon equity stake in Unusual Machines is reported as negotiated, not agreed; only peers PDW and Neros have closed OSC financing (as of mid-Nov 2026).
-- The Powerus/Aureus merger was announced in March 2026 and completed around Oct 1, 2026, not in March.
-- The DJI restrictions came via the FY25 NDAA review and the FCC Covered List (Dec 2025); EO 14307 itself did not ban DJI.
-- The Drone Dominance programme is a procurement effort; the equity-stake talks run through the Office of Strategic Capital.
+- Golf-course company Aureus Greenway Holdings announced a reverse merger with Rock Hill, SC drone maker Powerus on 2026-03-09 (value undisclosed).
+- The brothers hold their stake indirectly through American Ventures: about 3% of Aureus at announcement, with filings indicating a 9.9% beneficial stake in the combined company.
+- Dominari Securities, roughly 6% owned by each brother, raised about $9M including from Unusual Machines.
+- The merger closed around 2026-10-01 under the ticker PUSA, with CEO Andrew Fox.
+- A Manufacturing Dive headline describing it as closed in March is wrong.
+- Amounts: about 3%; 9.9%; roughly 6%; about $9M
+- Dates: 2026-03-09; 2026-10-01
+- Sources: [1](https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/) [2](https://finance.yahoo.com/news/trump-brothers-backed-aureus-merge-123728284.html) [3](https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/) [4](https://dronelife.com/2026/09/30/powerus-merger-drone-company-nasdaq/)
+
+### 2. Powerus has won federal drone business since the merger.
+
+**Mostly accurate**
+
+- Its subsidiary Tandem Defense won an Air Force IDIQ in Aug 2026 with a ceiling of up to $90M (a ceiling, not committed money).
+- In Oct 2026 Powerus announced an $82M order under it, and it reported $130M in signed orders by Nov 2026.
+- It qualified for Drone Dominance Phase II but was not among the Phase I production winners or the Gauntlet II winners.
+- It also placed a $16.9M components order with Unusual Machines.
+- Advisory board member Keith Kellogg said 'it never hurts to have their name on something.'
+- Amounts: up to $90M; $82M; $130M; $16.9M
+- Dates: Aug 2026; Oct 2026; Nov 2026
+- Sources: [5](https://insideunmannedsystems.com/powerus-subsidiary-wins-up-to-90-million-air-force-idiq-for-group-1-aerial-denial/) [6](https://www.tectonicdefense.com/exclusive-powerus-secures-82m-interceptor-order/) [7](https://insideunmannedsystems.com/19-companies-out-of-49-contenders-qualify-for-drone-dominance-gauntlet-2-trial/) [8](https://defensescoop.com/2026/09/18/drone-dominance-program-gauntlet-2-results/) [9](https://www.newswire.com/news/unusual-machines-receives-16-9-million-purchase-order-from-powerus-for-american) [3](https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/)
+
+### 3. The Pentagon is negotiating an equity stake in Don Jr.-advised Unusual Machines under the $1.1B Drone Dominance programme.
+
+**Mostly accurate**
+
+- On 2026-05-28 the WSJ reported months of talks with UMAC, PDW and Neros on funding that could combine debt and equity.
+- Coverage tied the talks to the roughly $1.1B Drone Dominance push, but the vehicle is OSC lending.
+- UMAC rose about 57-65% on the report.
+- PDW (2026-07-31) and Neros (up to $450M, 2026-11-02) have since signed conditional OSC loans.
+- No OSC release or filing naming UMAC was found as of mid-Nov 2026.
+- Amounts: roughly $1.1B; about 57-65%; up to $450M
+- Dates: 2026-05-28; 2026-07-31; 2026-11-02; mid-Nov 2026
+- Sources: [10](https://www.cnbc.com/2026/05/28/drone-stocks-unusual-machines-donald-trump-equity-stake.html) [11](https://qz.com/pentagon-drone-company-equity-stakes-unusual-machines-052826) [12](https://dronexl.co/2026/11/02/neros-450m-osc-loan-taxpayer-ownership-stake/)
+
+### 4. Unusual Machines invested in Draganfly.
+
+**Confirmed**
+
+- Reuters reported on 2026-09-28 that Unusual Machines and an unnamed US asset manager are buying 1,869,159 Draganfly shares at $5.35, about $10M in total, which is more than half of Draganfly's market cap of about $17.9M. The deal came weeks after Draganfly won a Canadian Armed Forces drone contract.
+- The $5M-each split is unconfirmed.
+- Amounts: $5.35; about $10M; about $17.9M; $5M
+- Dates: 2026-09-28
+- Sources: [13](https://www.ctvnews.ca/business/article/trump-jr-backed-unusual-machines-us-asset-manager-invest-us10m-in-canadas-draganfly-reuters-exclusive/) [14](https://pulse2.com/draganfly-secures-10-million-strategic-investment-from-unusual-machines-and-u-s-investment-fund/)
+
+### 5. Trump executive orders on drones and restrictions on Chinese DJI benefit domestic makers.
+
+**Mostly accurate**
+
+- EO 14307 'Unleashing American Drone Dominance' (2025-06-06) prioritizes US-made drones in federal procurement but did not ban DJI.
+- Effective 2025-12-22 the FCC put foreign-made UAS and critical components, including DJI, on its Covered List, citing the EO; this followed the FY25 NDAA-mandated review.
+- Exemptions were later carved out for Blue UAS-listed and domestic products.
+- NDAA-compliant suppliers like UMAC benefit structurally.
+- Claims that Don Jr. personally pushed the DJI ban are unverified.
+- Dates: 2025-06-06; 2025-12-22
+- Sources: [15](https://dronelife.com/2025/06/07/trumps-drone-executive-orders-beyond-the-fact-sheets/) [16](https://www.mofo.com/resources/insights/261106-unleashing-american-drone-dominance-impact) [17](https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/) [18](https://petapixel.com/2025/12/23/us-government-bans-new-dji-and-other-foreign-made-drones/) [19](https://dronexl.co/2026/08/16/trump-jr-unusual-machines-dji-ban-timeline/)
+
+### 6. Warren and Garcia wrote to the Pentagon Inspector General.
+
+**Confirmed**
+
+- Rep. Robert Garcia wrote to DoD IG Platte B. Moring III on 2026-05-08, citing Unusual Machines and the Powerus interceptor award.
+- On 2026-08-04 Warren, Garcia, Blumenthal and Duckworth asked the IG to review about $3.2B in awards, plus $3.1B in options, to at least 15 companies tied to Trump-son-linked investors.
+- Warren separately wrote to Hegseth about UMAC on 2026-05-06.
+- No IG inquiry has been confirmed.
+- Amounts: about $3.2B; $3.1B
+- Dates: 2026-05-08; 2026-08-04; 2026-05-06
+- Sources: [20](https://oversightdemocrats.house.gov/imo/media/doc/2026-05-08garciatododigretrumpfamilycontracts.pdf) [21](https://www.ibtimes.co.uk/democrats-pentagon-watchdog-trump-sons-defence-deals-1824369) [22](https://www.warren.senate.gov/wp-content/uploads/2026/08/2026.08.04-Letter-to-DoD-IG-re-Corruption-in-Pentagon-Awards-Process.pdf) [23](https://www.inquirer.com/news/nation-world/trump-sons-investments-pentagon-contracts-democrats-investigation-20260805.html) [24](https://news.bgov.com/federal-contracting/unusual-machines-pentagon-contracts-scrutinized-by-sen-warren)
+
+### 7. Senate Democrats tallied $70M+ in federal contracts to 1789 Capital portfolio companies.
+
+**Confirmed**
+
+- On 2026-01-22/23 Warren, Blumenthal and Kim wrote to Hegseth.
+- Citing PitchBook, they said 1789 portfolio companies received more than $70M in contracts between Apr and Nov 2025, including $45M to Cerebras in Apr 2025; the $620M Vulcan loan was cited separately.
+- The figure has not been independently audited, and no lawbreaking is alleged.
+- 1789 says it has 'absolutely zero involvement' in its companies' operations.
+- Amounts: more than $70M; $45M; $620M
+- Dates: 2026-01-22; Nov 2025; Apr 2025
+- Sources: [25](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-kim-sound-alarm-on-potential-for-donald-trump-jr-linked-companies-to-profit-off-department-of-defense-contract-awards-loans) [26](https://kvia.com/news/business-technology/cnn-business-consumer/2026/01/23/democratic-senators-sound-the-alarm-on-pentagon-backing-firms-linked-to-donald-trump-jr/)
+
+### 8. The awards, financing talks or policy steps resulted from Trump family influence.
+
+**Unverified**
+
+- No reporting or document shows a Trump son contacting officials about Powerus, UMAC, Draganfly or OSC.
+- Don Jr.'s spokesperson says he never communicated with the administration on UMAC's behalf.
+- Powerus says the brothers are passive investors.
+- Sources: [24](https://news.bgov.com/federal-contracting/unusual-machines-pentagon-contracts-scrutinized-by-sen-warren) [2](https://finance.yahoo.com/news/trump-brothers-backed-aureus-merge-123728284.html)
 
 ## Denials and context
 
@@ -105,99 +175,130 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
 
 ## People and organisations
 
-- [[1789 Capital]]
-- [[Allan Evans]]
-- [[American Ventures]]
-- [[Andrew Fox]]
-- [[Andy Kim]]
-- [[Aureus Greenway Holdings]]
-- [[Cerebras Systems]]
-- [[China]]
-- [[DJI]]
-- [[DoD Inspector General (Platte B. Moring III)]]
-- [[Dominari Holdings Dominari Securities]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[Draganfly Inc]]
-- [[Drone Dominance program]]
-- [[Elizabeth Warren]]
-- [[EO 14307 'Unleashing American Drone Dominance']]
-- [[Eric Trump]]
-- [[Federal Communications Commission]]
-- [[Keith Kellogg]]
-- [[Neros Technologies]]
-- [[Office of Strategic Capital]]
-- [[Pentagon (Department of Defense)]]
-- [[Performance Drone Works]]
-- [[Pete Hegseth]]
-- [[Powerus Corp]]
-- [[Richard Blumenthal]]
-- [[Robert Garcia]]
-- [[Strategic Logix]]
-- [[Tammy Duckworth]]
-- [[Tandem Defense LLC]]
-- [[The Wall Street Journal]]
-- [[Unusual Machines]]
-- [[US Air Force]]
-- [[US Army]]
-- [[US Congress]]
-- [[Vulcan Elements]]
-- [[XTEND]]
+- [[1789 Capital]] · Fund
+- [[Allan Evans]] · Person
+- [[American Ventures]] · Fund
+- [[Andrew Fox]] · Person
+- [[Andy Kim]] · Person
+- [[Aureus Greenway Holdings]] · Company
+- [[Cerebras Systems]] · Company
+- [[China]] · Country
+- [[DJI]] · Company
+- [[DoD Inspector General (Platte B. Moring III)]] · Government body
+- [[Dominari Holdings Dominari Securities]] · Company
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[Draganfly Inc]] · Company
+- [[Drone Dominance program]] · Event
+- [[Elizabeth Warren]] · Person
+- [[EO 14307 'Unleashing American Drone Dominance']] · Law or policy
+- [[Eric Trump]] · Person
+- [[Federal Communications Commission]] · Government body
+- [[Keith Kellogg]] · Person
+- [[Neros Technologies]] · Company
+- [[Office of Strategic Capital]] · Government body
+- [[Pentagon (Department of Defense)]] · Government body
+- [[Performance Drone Works]] · Company
+- [[Pete Hegseth]] · Person
+- [[Powerus Corp]] · Company
+- [[Richard Blumenthal]] · Person
+- [[Robert Garcia]] · Person
+- [[Strategic Logix]] · Company
+- [[Tammy Duckworth]] · Person
+- [[Tandem Defense LLC]] · Company
+- [[The Wall Street Journal]] · Media
+- [[Unusual Machines]] · Company
+- [[US Air Force]] · Government body
+- [[US Army]] · Government body
+- [[US Congress]] · Government body
+- [[Vulcan Elements]] · Company
+- [[XTEND]] · Company
 
 ## Relationships documented
 
-- [[1789 Capital]] *investor in* [[Cerebras Systems]] (money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[American Ventures]] *expected 9.9% beneficial owner of* [[Powerus Corp]] (2026-10, ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Andrew Fox]] *CEO and chairman of* [[Powerus Corp]] (commercial) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Andy Kim]] *co-signed letter to* [[Pete Hegseth]] (2026-01-22, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Aureus Greenway Holdings]] *merged with to list on Nasdaq* [[Powerus Corp]] (2026-10, commercial) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[DJI]] *based in* [[China]] (commercial) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Dominari Holdings Dominari Securities]] *arranged ~$9M financing for* [[Aureus Greenway Holdings]] (2026-03, $9M, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Donald Trump]] *signed* [[EO 14307 'Unleashing American Drone Dominance']] (2025-06-06, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Donald Trump Jr]] *holds Powerus stake via* [[American Ventures]] (2026-03, ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Donald Trump Jr]] *~6% shareholder of* [[Dominari Holdings Dominari Securities]] (ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *adviser and shareholder of* [[Unusual Machines]] (2024-11, advisory) · [[C26 1789 Capital and Vulcan Elements|C26]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Elizabeth Warren]] *tallied $70M+ in contracts to portfolio of (with Blumenthal, Kim)* [[1789 Capital]] (2026-01-22, $70M, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Elizabeth Warren]] *asked (with Garcia, Blumenthal, Duckworth) to review $3.2B in awards* [[DoD Inspector General (Platte B. Moring III)]] (2026-08-04, $3.2B, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Elizabeth Warren]] *questioned on Unusual Machines contracts* [[Pete Hegseth]] (2026-05-06, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[EO 14307 'Unleashing American Drone Dominance']] *favours domestic suppliers such as* [[Unusual Machines]] (2025-06, regulatory) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Eric Trump]] *holds Powerus stake via* [[American Ventures]] (2026-03, ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Eric Trump]] *~6% shareholder of* [[Dominari Holdings Dominari Securities]] (ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Eric Trump]] *invested in merger of* [[XTEND]] (2026-02, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Federal Communications Commission]] *added foreign drones incl. DJI to Covered List* [[DJI]] (2025-12-22, regulatory) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Keith Kellogg]] *advisory board member of* [[Powerus Corp]] (advisory) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Office of Strategic Capital]] *conditional loan up to $450M to* [[Neros Technologies]] (2026-11, $450M, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Office of Strategic Capital]] *conditional loan to* [[Performance Drone Works]] (2026-07, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Office of Strategic Capital]] *reportedly negotiating debt/equity funding with* [[Unusual Machines]] (2026-05, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Office of Strategic Capital]] *$620M loan to* [[Vulcan Elements]] (2025-11, $620M, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Pentagon (Department of Defense)]] *awarded $45M to* [[Cerebras Systems]] (2025-04, $45M, commercial) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Pentagon (Department of Defense)]] *runs* [[Drone Dominance program]] (regulatory) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Pentagon (Department of Defense)]] *houses* [[Office of Strategic Capital]] (ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Powerus Corp]] *qualified for Phase II of* [[Drone Dominance program]] (2026, commercial) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Powerus Corp]] *placed $16.9M components order with* [[Unusual Machines]] (2026, $16.9M, commercial) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Richard Blumenthal]] *co-signed letters to* [[Pete Hegseth]] (2026-01-22, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Robert Garcia]] *asked to investigate Trump family contracts* [[DoD Inspector General (Platte B. Moring III)]] (2026-05-08, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Strategic Logix]] *placed $12.8M components order with* [[Unusual Machines]] (2025-09, $12.8M, commercial) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Tammy Duckworth]] *co-signed probe request to* [[DoD Inspector General (Platte B. Moring III)]] (2026-08-04, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Tandem Defense LLC]] *subsidiary of* [[Powerus Corp]] (ownership) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Unusual Machines]] *invested in financing round of* [[Aureus Greenway Holdings]] (2026-03, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Unusual Machines]] *co-invested ~$10M (with US fund) in* [[Draganfly Inc]] (2026-09, $10M, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Unusual Machines]] *invested in merger of* [[XTEND]] (2026-02, money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[US Air Force]] *placed $82M order with* [[Powerus Corp]] (2026-10, $82M, commercial) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[US Air Force]] *awarded counter-drone IDIQ (ceiling) to* [[Tandem Defense LLC]] (2026-08, $90M, commercial) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[The Wall Street Journal]] *reported equity-stake talks involving* [[Unusual Machines]] (2026-05-28, media) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+### Money (10)
 
-## Leads not covered by the video
+- [[Office of Strategic Capital]] *$620M loan to* [[Vulcan Elements]] · 2025-11 · $620M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Eric Trump]] *invested in merger of* [[XTEND]] · 2026-02 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Unusual Machines]] *invested in merger of* [[XTEND]] · 2026-02 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Dominari Holdings Dominari Securities]] *arranged ~$9M financing for* [[Aureus Greenway Holdings]] · 2026-03 · $9M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Unusual Machines]] *invested in financing round of* [[Aureus Greenway Holdings]] · 2026-03 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Office of Strategic Capital]] *reportedly negotiating debt/equity funding with* [[Unusual Machines]] · 2026-05 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Office of Strategic Capital]] *conditional loan to* [[Performance Drone Works]] · 2026-07 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Unusual Machines]] *co-invested ~$10M (with US fund) in* [[Draganfly Inc]] · 2026-09 · $10M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Office of Strategic Capital]] *conditional loan up to $450M to* [[Neros Technologies]] · 2026-11 · $450M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[1789 Capital]] *investor in* [[Cerebras Systems]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 
-- **Eric Trump and Unusual Machines invest in the $1.5B XTEND / JFB Construction drone merger**: A second Trump-son drone listing alongside Powerus; XTEND holds Pentagon work and JFB added ex-White House lawyer Stefan Passantino to its board. [source](https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts) · [[Eric Trump]] [[XTEND]] [[Unusual Machines]] [[American Ventures]]
-- **Neros' up-to-$450M OSC loan with a government ownership stake**: The same May 2026 OSC drone-financing talks that named Unusual Machines; the terms set the template for any UMAC deal. [source](https://dronexl.co/2026/11/02/neros-450m-osc-loan-taxpayer-ownership-stake/) · [[Neros Technologies]] [[Office of Strategic Capital]] [[Unusual Machines]]
-- **Washington Post analysis: $3.2B in awards to 15+ firms tied to Trump sons' investment vehicles**: The basis of the Aug 2026 IG letter; covers Anduril, SpaceX and others beyond the drone firms. [source](https://www.inquirer.com/news/nation-world/trump-sons-investments-pentagon-contracts-democrats-investigation-20260805.html) · [[Donald Trump Jr]] [[Eric Trump]] [[1789 Capital]] [[DoD Inspector General (Platte B. Moring III)]]
-- **Powerus' Pakistan Ministry of Defence drone order**: A foreign-government order to a Trump-son-backed drone maker, which raises foreign-emoluments-style questions. [source](https://thedefensepost.com/2026/09/24/pakistan-drone-order-us/amp/) · [[Powerus Corp]] [[Eric Trump]] [[Donald Trump Jr]]
+### Ownership (8)
 
-## Sources
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Donald Trump Jr]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Eric Trump]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[American Ventures]] *expected 9.9% beneficial owner of* [[Powerus Corp]] · 2026-10 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *~6% shareholder of* [[Dominari Holdings Dominari Securities]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Eric Trump]] *~6% shareholder of* [[Dominari Holdings Dominari Securities]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Pentagon (Department of Defense)]] *houses* [[Office of Strategic Capital]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Tandem Defense LLC]] *subsidiary of* [[Powerus Corp]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+### Family (2)
+
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
+- [[Eric Trump]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+### Regulatory (3)
+
+- [[EO 14307 'Unleashing American Drone Dominance']] *favours domestic suppliers such as* [[Unusual Machines]] · 2025-06 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Federal Communications Commission]] *added foreign drones incl. DJI to Covered List* [[DJI]] · 2025-12-22 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Pentagon (Department of Defense)]] *runs* [[Drone Dominance program]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+### Advisory (2)
+
+- [[Donald Trump Jr]] *adviser and shareholder of* [[Unusual Machines]] · 2024-11 · [[C26 1789 Capital and Vulcan Elements|C26]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Keith Kellogg]] *advisory board member of* [[Powerus Corp]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+### Political (8)
+
+- [[Donald Trump]] *signed* [[EO 14307 'Unleashing American Drone Dominance']] · 2025-06-06 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Andy Kim]] *co-signed letter to* [[Pete Hegseth]] · 2026-01-22 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Elizabeth Warren]] *tallied $70M+ in contracts to portfolio of (with Blumenthal, Kim)* [[1789 Capital]] · 2026-01-22 · $70M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Richard Blumenthal]] *co-signed letters to* [[Pete Hegseth]] · 2026-01-22 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Elizabeth Warren]] *questioned on Unusual Machines contracts* [[Pete Hegseth]] · 2026-05-06 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Robert Garcia]] *asked to investigate Trump family contracts* [[DoD Inspector General (Platte B. Moring III)]] · 2026-05-08 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Elizabeth Warren]] *asked (with Garcia, Blumenthal, Duckworth) to review $3.2B in awards* [[DoD Inspector General (Platte B. Moring III)]] · 2026-08-04 · $3.2B · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Tammy Duckworth]] *co-signed probe request to* [[DoD Inspector General (Platte B. Moring III)]] · 2026-08-04 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+### Media (1)
+
+- [[The Wall Street Journal]] *reported equity-stake talks involving* [[Unusual Machines]] · 2026-05-28 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+### Commercial (9)
+
+- [[Pentagon (Department of Defense)]] *awarded $45M to* [[Cerebras Systems]] · 2025-04 · $45M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Strategic Logix]] *placed $12.8M components order with* [[Unusual Machines]] · 2025-09 · $12.8M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Powerus Corp]] *qualified for Phase II of* [[Drone Dominance program]] · 2026 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Powerus Corp]] *placed $16.9M components order with* [[Unusual Machines]] · 2026 · $16.9M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[US Air Force]] *awarded counter-drone IDIQ (ceiling) to* [[Tandem Defense LLC]] · 2026-08 · $90M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Aureus Greenway Holdings]] *merged with to list on Nasdaq* [[Powerus Corp]] · 2026-10 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[US Air Force]] *placed $82M order with* [[Powerus Corp]] · 2026-10 · $82M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Andrew Fox]] *CEO and chairman of* [[Powerus Corp]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[DJI]] *based in* [[China]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+## Leads not covered here
+
+- **Eric Trump and Unusual Machines invest in the $1.5B XTEND / JFB Construction drone merger**
+  - A second Trump-son drone listing alongside Powerus; XTEND holds Pentagon work and JFB added ex-White House lawyer Stefan Passantino to its board.
+  - [[Eric Trump]] [[XTEND]] [[Unusual Machines]] [[American Ventures]] · [Source](https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts)
+- **Neros' up-to-$450M OSC loan with a government ownership stake**
+  - The same May 2026 OSC drone-financing talks that named Unusual Machines; the terms set the template for any UMAC deal.
+  - [[Neros Technologies]] [[Office of Strategic Capital]] [[Unusual Machines]] · [Source](https://dronexl.co/2026/11/02/neros-450m-osc-loan-taxpayer-ownership-stake/)
+- **Washington Post analysis: $3.2B in awards to 15+ firms tied to Trump sons' investment vehicles**
+  - The basis of the Aug 2026 IG letter; covers Anduril, SpaceX and others beyond the drone firms.
+  - [[Donald Trump Jr]] [[Eric Trump]] [[1789 Capital]] [[DoD Inspector General (Platte B. Moring III)]] · [Source](https://www.inquirer.com/news/nation-world/trump-sons-investments-pentagon-contracts-democrats-investigation-20260805.html)
+- **Powerus' Pakistan Ministry of Defence drone order**
+  - A foreign-government order to a Trump-son-backed drone maker, which raises foreign-emoluments-style questions.
+  - [[Powerus Corp]] [[Eric Trump]] [[Donald Trump Jr]] · [Source](https://thedefensepost.com/2026/09/24/pakistan-drone-order-us/amp/)
+
+## Sources (28)
 
 1. [Trump brothers-backed Aureus to merge with drone maker Powerus](https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/) (BNN Bloomberg (Reuters), 2026-03-09)
 2. [Trump sons-backed Aureus to merge with drone maker Powerus](https://finance.yahoo.com/news/trump-brothers-backed-aureus-merge-123728284.html) (Yahoo Finance (Reuters), 2026-03-09)

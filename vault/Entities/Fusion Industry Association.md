@@ -10,9 +10,13 @@ tags:
 ---
 # Fusion Industry Association
 
-*company*
-
 Trade group whose registered lobbyist lobbies DOE.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Trade group whose registered lobbyist lobbies DOE.
 
 ## Relationships
 
-- [[Fusion Industry Association]] *lobbies (registered)* [[U.S. Department of Energy]] (2025, political) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+### Political (1)
+
+- [[Fusion Industry Association]] *lobbies (registered)* [[U.S. Department of Energy]] · 2025 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]

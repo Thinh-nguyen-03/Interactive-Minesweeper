@@ -10,9 +10,13 @@ tags:
 ---
 # Ending Presidential Corruption in Banking Act (S. 5389)
 
-*law*
-
 Bill introduced 2026-08-15 to bar bank approvals for firms owned by senior officials
+
+| | |
+|---|---|
+| Type | Law or policy |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Bill introduced 2026-08-15 to bar bank approvals for firms owned by senior offic
 
 ## Relationships
 
-- [[Elizabeth Warren]] *introduced* [[Ending Presidential Corruption in Banking Act (S. 5389)]] (2026-08-15, political) · [[C12 WLF bank charter from the OCC|C12]]
+### Political (1)
+
+- [[Elizabeth Warren]] *introduced* [[Ending Presidential Corruption in Banking Act (S. 5389)]] · 2026-08-15 · [[C12 WLF bank charter from the OCC|C12]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Save America PAC
 
-*fund*
-
 Trump leadership PAC that pays his legal bills.
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 1 claim |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -20,6 +24,8 @@ Trump leadership PAC that pays his legal bills.
 
 ## Relationships
 
-- [[Save America PAC]] *paid legal consulting fees to* [[Alejandro Brito]] (2025, $300K, money) · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Save America PAC]] *paid legal fees to* [[Dhillon Law Group]] (money) · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Save America PAC]] *paid legal fees to* [[Sullivan & Cromwell]] (2025, money) · [[C61 Shared lawyers and law firms across the deals|C61]]
+### Money (3)
+
+- [[Save America PAC]] *paid legal consulting fees to* [[Alejandro Brito]] · 2025 · $300K · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Save America PAC]] *paid legal fees to* [[Sullivan & Cromwell]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Save America PAC]] *paid legal fees to* [[Dhillon Law Group]] · [[C61 Shared lawyers and law firms across the deals|C61]]

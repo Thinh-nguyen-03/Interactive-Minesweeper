@@ -12,9 +12,16 @@ tags:
 ---
 # Molly White
 
-*person*
-
 Cryptocurrency researcher and writer who helped map the Trump family's crypto dealings for the video.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 12 claims |
+| Connections | 23 |
+| Also known as | Molly |
+
+## How other claims describe it
 
 - Crypto researcher, Citation Needed newsletter; tracks Trump crypto income
 - Crypto researcher (Citation Needed) cited in the video as mapping Trump crypto entities.
@@ -39,19 +46,21 @@ Cryptocurrency researcher and writer who helped map the Trump family's crypto de
 
 ## Relationships
 
-- [[Coffeezilla]] *cites research of* [[Molly White]] (media) · [[C01 $TRUMP meme coin|C01]]
-- [[Coffeezilla]] *interviewed* [[Molly White]] (2026, media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Molly White]] *described conflict of interest in the video* [[ALT5 Sigma]] (media) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
-- [[Molly White]] *criticised in video* [[American Bitcoin]] (media) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Molly White]] *author of* [[Citation Needed]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Molly White]] *helped map the web for* [[Coffeezilla]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Molly White]] *tallied $36M in Trump-linked contributions from* [[Crypto.com]] (media) · [[C22 Crypto.com and TMTG|C22]]
-- [[Molly White]] *tracks and criticizes crypto income of* [[Donald Trump]] (media) · [[C01 $TRUMP meme coin|C01]]
-- [[Molly White]] *describes conflicts of* [[Jared Kushner]] (media) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Molly White]] *tracked (per video; unverified specific work)* [[$MELANIA meme coin]] (media) · [[C02 $MELANIA coin and NFTs|C02]]
-- [[Molly White]] *criticized crypto case dismissals by* [[Securities and Exchange Commission]] (media) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Molly White]] *tracked* [[$TRUMP $MELANIA shell companies]] (media) · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
-- [[Molly White]] *explains* [[World Liberty Financial]] (media) · [[C04 World Liberty Financial founding and token sale|C04]]
+### Media (13)
+
+- [[Coffeezilla]] *interviewed* [[Molly White]] · 2026 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Coffeezilla]] *cites research of* [[Molly White]] · [[C01 $TRUMP meme coin|C01]]
+- [[Molly White]] *described conflict of interest in the video* [[ALT5 Sigma]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Molly White]] *criticised in video* [[American Bitcoin]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Molly White]] *author of* [[Citation Needed]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Molly White]] *helped map the web for* [[Coffeezilla]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Molly White]] *tallied $36M in Trump-linked contributions from* [[Crypto.com]] · [[C22 Crypto.com and TMTG|C22]]
+- [[Molly White]] *tracks and criticizes crypto income of* [[Donald Trump]] · [[C01 $TRUMP meme coin|C01]]
+- [[Molly White]] *describes conflicts of* [[Jared Kushner]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Molly White]] *tracked (per video; unverified specific work)* [[$MELANIA meme coin]] · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Molly White]] *criticized crypto case dismissals by* [[Securities and Exchange Commission]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Molly White]] *tracked* [[$TRUMP $MELANIA shell companies]] · [[C01 $TRUMP meme coin|C01]] [[C02 $MELANIA coin and NFTs|C02]]
+- [[Molly White]] *explains* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
 
 ## Themes
 

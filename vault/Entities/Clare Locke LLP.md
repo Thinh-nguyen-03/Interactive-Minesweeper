@@ -12,9 +12,16 @@ tags:
 ---
 # Clare Locke LLP
 
-*company*
-
 Defamation law firm that wrote to the NYT on Sacks's behalf
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 4 |
+| Also known as | Clare Locke |
+
+## How other claims describe it
 
 - Defamation firm representing David Sacks.
 
@@ -25,5 +32,7 @@ Defamation law firm that wrote to the NYT on Sacks's behalf
 
 ## Relationships
 
-- [[Clare Locke LLP]] *defamation counsel to* [[David Sacks]] (2025, legal) · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Clare Locke LLP]] *sent pre-publication legal letter on Sacks's behalf* [[The New York Times]] (2025-11, legal) · [[C34 David Sacks AI & crypto czar with investments|C34]]
+### Legal (2)
+
+- [[Clare Locke LLP]] *defamation counsel to* [[David Sacks]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Clare Locke LLP]] *sent pre-publication legal letter on Sacks's behalf* [[The New York Times]] · 2025-11 · [[C34 David Sacks AI & crypto czar with investments|C34]]

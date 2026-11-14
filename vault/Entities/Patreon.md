@@ -10,9 +10,13 @@ tags:
 ---
 # Patreon
 
-*company*
-
 Where Coffeezilla asks for support given the legal risk.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Where Coffeezilla asks for support given the legal risk.
 
 ## Relationships
 
-- [[Coffeezilla]] *asks support via* [[Patreon]] (money) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Money (1)
+
+- [[Coffeezilla]] *asks support via* [[Patreon]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]

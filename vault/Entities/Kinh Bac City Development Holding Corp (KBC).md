@@ -10,9 +10,13 @@ tags:
 ---
 # Kinh Bac City Development Holding Corp (KBC)
 
-*company*
-
 Private Vietnamese industrial-park developer; Trump partner in Hung Yen and HCMC
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -20,7 +24,12 @@ Private Vietnamese industrial-park developer; Trump partner in Hung Yen and HCMC
 
 ## Relationships
 
-- [[Dang Thanh Tam]] *chairs* [[Kinh Bac City Development Holding Corp (KBC)]] (ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Kinh Bac City Development Holding Corp (KBC)]] *develops* [[Trump International Hung Yen]] (2025-05, $1.5B, ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Kinh Bac City Development Holding Corp (KBC)]] *promotes proposed* [[Trump Tower Ho Chi Minh City (proposed)]] (2025-05, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Trump Organization]] *licensing partner for Hung Yen project* [[Kinh Bac City Development Holding Corp (KBC)]] (2024-10, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Ownership (2)
+
+- [[Kinh Bac City Development Holding Corp (KBC)]] *develops* [[Trump International Hung Yen]] · 2025-05 · $1.5B · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Dang Thanh Tam]] *chairs* [[Kinh Bac City Development Holding Corp (KBC)]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Commercial (2)
+
+- [[Trump Organization]] *licensing partner for Hung Yen project* [[Kinh Bac City Development Holding Corp (KBC)]] · 2024-10 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Kinh Bac City Development Holding Corp (KBC)]] *promotes proposed* [[Trump Tower Ho Chi Minh City (proposed)]] · 2025-05 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

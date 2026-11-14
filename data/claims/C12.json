@@ -3,7 +3,7 @@
   "title": "WLF bank charter from the OCC",
   "verdict": "mostly-accurate",
   "confidence": "high",
-  "summary": "WLF's subsidiary WLTC Holdings applied to the OCC in January 2026 for a national trust bank charter, World Liberty Trust Co., N.A., to issue and custody USD1. The OCC granted preliminary conditional approval on 14 Aug 2026 (CD #1385), and the president does appoint the OCC's head, Comptroller Jonathan Gould. Two details are off: there was one application, not several 'charters', and the 'career staff' line comes mainly from the OCC's own approval letter, while WLF (Zach Witkoff) issued a general denial of favoritism.",
+  "summary": "WLF's subsidiary WLTC Holdings applied to the OCC in January 2026 for a national trust bank charter, World Liberty Trust Co., N.A., to issue and custody USD1. The OCC granted preliminary conditional approval on 14 Aug 2026 (CD #1385), and the president does appoint the OCC's head, Comptroller Jonathan Gould. As of Nov 2026 no final approval had been reported. Two details are off: there was one application, not several 'charters', and the 'career staff' line comes mainly from the OCC's own approval letter, while WLF (Zach Witkoff) issued a general denial of favoritism. The WSJ later reported, citing anonymous sources, that a Tahnoon bin Zayed-backed vehicle (StringZ) owns 49% of the bank's parent and the Trump family about 38%.",
   "sub_claims": [
     {
       "statement": "World Liberty is applying for bank charters.",
@@ -38,11 +38,13 @@
     {
       "statement": "The company benefits the president.",
       "verdict": "confirmed",
-      "finding": "The Trump family holds a large WLF stake; one outlet reported the family owns 38.25% of the bank (exact figure not verified against a primary filing). CD #1385 lists passivity commitments from affiliated investors, including DT Marks SC LLC and StringZ Holding RSC (DE) LLC. Warren asked whether a UAE company was a principal shareholder; who owns StringZ was not verified.",
+      "finding": "The Trump family holds a large WLF stake. CD #1385 lists passivity commitments from affiliated investors, including DT Marks SC LLC and StringZ Holding RSC (DE) LLC. Audit update: the WSJ reported on 2026-08-27, citing people familiar with the matter, that StringZ is backed by a group led by Abu Dhabi's Sheikh Tahnoon bin Zayed and holds 49% of WLTC Holdings, the bank's parent, while a Trump-family-linked entity holds about 38%. That is the largest single stake. It is single-source (WSJ with anonymous sources, relayed by The Block and Cointelegraph). The OCC documents confirm StringZ as an investor bound by passivity commitments but do not name its backer or give stake sizes. Warren had asked in Feb 2026 whether a UAE company was a principal shareholder; Gould declined to discuss the application.",
       "sources": [
         "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf",
         "https://www.newsweek.com/elizabeth-warren-trump-crypto-bank-approval-ethics-bill-12329410",
-        "https://www.banking.senate.gov/imo/media/doc/20260226lettertoocccomptrollergouldrewlfuaeapplication.pdf"
+        "https://www.banking.senate.gov/imo/media/doc/20260226lettertoocccomptrollergouldrewlfuaeapplication.pdf",
+        "https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
+        "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj"
       ]
     },
     {
@@ -67,7 +69,8 @@
     "Zach Witkoff denies favoritism and says the charter ensures permanent OCC supervision that 'will outlast the Trump administration.'",
     "Context: in Dec 2025 the OCC conditionally approved similar crypto trust charters for Circle, Ripple, BitGo, Fidelity Digital Assets and Paxos, so WLF's approval fits a broader policy, though critics say Gould pushed charters that career staff once viewed skeptically.",
     "Critics include Warren, NCRC, Americans for Financial Reform and House Democrats. On 2026-08-15 Warren and colleagues introduced the Ending Presidential Corruption in Banking Act (S. 5389) to bar such approvals and end this charter.",
-    "The video's 'never seen anything like this' is opinion, not a checkable fact."
+    "The video's 'never seen anything like this' is opinion, not a checkable fact.",
+    "The WSJ's 49% StringZ/Tahnoon report (2026-08-27) rests on anonymous sources; the OCC's public decision does not identify StringZ's backer. A White House spokeswoman denied any conflicts of interest."
   ],
   "sources": [
     {
@@ -165,6 +168,18 @@
       "publisher": "NCRC",
       "url": "https://ncrc.org/ncrc-urges-occ-to-reject-world-liberty-holdings-bank-charter-application/",
       "date": "2026"
+    },
+    {
+      "title": "UAE 'spy sheikh' takes 49% stake in Trump family's bank venture: WSJ",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj",
+      "date": "2026-08-28"
     }
   ],
   "entities": [
@@ -263,6 +278,12 @@
       "name": "OCC preliminary conditional approval (CD #1385)",
       "type": "event",
       "description": "2026-08-14 approval of World Liberty Trust Co. charter"
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Sheikh Tahnoon bin Zayed Al Nahyan",
+      "type": "person",
+      "description": "UAE national security adviser; WSJ reports his group backs StringZ Holding"
     }
   ],
   "relationships": [
@@ -373,6 +394,59 @@
       "label": "issued",
       "type": "regulatory",
       "date": "2026-08-14"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "stringz-holding",
+      "label": "reportedly backs (WSJ, anonymous sources)",
+      "type": "ownership",
+      "date": "2026-08"
+    },
+    {
+      "source": "stringz-holding",
+      "target": "wltc-holdings",
+      "label": "reportedly owns 49% of",
+      "type": "ownership",
+      "date": "2026-08"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "OCC preliminary conditional approval on 2026-08-14 and its conditions ($20M tier 1 capital)",
+      "Gould confirmed 50-45 on 2025-07-10",
+      "Whether final approval was granted by Nov 2026",
+      "Who owns StringZ / the Trump family's stake in the bank's parent"
+    ],
+    "result": "strengthened",
+    "changes": [
+      "Date, conditions and Gould vote upheld by independent outlets (Mondaq, American Banker, Cointelegraph, Fox Business). No final approval found as of Nov 2026; added that to the summary.",
+      "Replaced 'who owns StringZ was not verified' with the WSJ's 2026-08-27 report (via The Block, Cointelegraph) that a Tahnoon bin Zayed-backed group holds 49% of WLTC Holdings and a Trump-linked entity about 38%. Marked it as single-source with anonymous sourcing, and added entity tahnoon-bin-zayed and ownership edges."
+    ],
+    "new_sources": [
+      {
+        "title": "UAE 'spy sheikh' takes 49% stake in Trump family's bank venture: WSJ",
+        "publisher": "The Block",
+        "url": "https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ",
+        "publisher": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Senate confirms Jonathan Gould as Comptroller of the Currency",
+        "publisher": "Mondaq",
+        "url": "https://www.mondaq.com/unitedstates/financial-services/1654696/senate-confirms-jonathan-gould-as-comptroller-of-the-currency",
+        "date": "2025-07"
+      },
+      {
+        "title": "Trump-linked crypto firm gets OCC nod for trust bank charter",
+        "publisher": "American Banker",
+        "url": "https://www.americanbanker.com/news/trump-linked-crypto-firm-gets-occ-nod-for-trust-bank-charter",
+        "date": "2026-08-14"
+      }
+    ]
+  }
 }

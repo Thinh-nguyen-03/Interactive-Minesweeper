@@ -10,9 +10,13 @@ tags:
 ---
 # Center for American Progress
 
-*company*
-
 Progressive think tank; 'Trump's Take' tracker
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Progressive think tank; 'Trump's Take' tracker
 
 ## Relationships
 
-- [[Center for American Progress]] *tracks 'Trump's Take' cash and gifts (~$2.9B snapshot)* [[Donald Trump]] (2025, media) · [[C55 How much has the Trump family made Competing totals|C55]]
+### Media (1)
+
+- [[Center for American Progress]] *tracks 'Trump's Take' cash and gifts (~$2.9B snapshot)* [[Donald Trump]] · 2025 · [[C55 How much has the Trump family made Competing totals|C55]]

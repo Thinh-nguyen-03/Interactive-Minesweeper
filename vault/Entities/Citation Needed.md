@@ -10,9 +10,13 @@ tags:
 ---
 # Citation Needed
 
-*media*
-
 Molly White's newsletter; tracks Trump-family crypto
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Molly White's newsletter; tracks Trump-family crypto
 
 ## Relationships
 
-- [[Molly White]] *author of* [[Citation Needed]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Media (1)
+
+- [[Molly White]] *author of* [[Citation Needed]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]

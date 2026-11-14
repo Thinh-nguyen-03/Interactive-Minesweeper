@@ -10,9 +10,13 @@ tags:
 ---
 # Trump International Hung Yen
 
-*asset*
-
 ~$1.5B, ~990 ha golf/hotel/urban complex in Khoai Chau, Hung Yen
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 5 |
 
 ## Appears in claims
 
@@ -20,7 +24,18 @@ tags:
 
 ## Relationships
 
-- [[Eric Trump]] *attended groundbreaking* [[Trump International Hung Yen]] (2025-05-21, commercial) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Kinh Bac City Development Holding Corp (KBC)]] *develops* [[Trump International Hung Yen]] (2025-05, $1.5B, ownership) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Pham Minh Chinh]] *broke ground with Eric Trump* [[Trump International Hung Yen]] (2025-05-21, political) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Vietnam]] *fast-tracked investment approval for* [[Trump International Hung Yen]] (2025-05, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Ownership (1)
+
+- [[Kinh Bac City Development Holding Corp (KBC)]] *develops* [[Trump International Hung Yen]] · 2025-05 · $1.5B · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Regulatory (1)
+
+- [[Vietnam]] *fast-tracked investment approval for* [[Trump International Hung Yen]] · 2025-05 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Political (1)
+
+- [[Pham Minh Chinh]] *broke ground with Eric Trump* [[Trump International Hung Yen]] · 2025-05-21 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Commercial (1)
+
+- [[Eric Trump]] *attended groundbreaking* [[Trump International Hung Yen]] · 2025-05-21 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

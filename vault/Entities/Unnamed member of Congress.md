@@ -10,9 +10,13 @@ tags:
 ---
 # Unnamed member of Congress
 
-*person*
-
 Congressman who asked Selig whether the White House asked him to drop the CFTC's Polymarket probe.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Congressman who asked Selig whether the White House asked him to drop the CFTC's
 
 ## Relationships
 
-- [[Unnamed member of Congress]] *questioned on White House pressure* [[Mike Selig]] (political) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+### Political (1)
+
+- [[Unnamed member of Congress]] *questioned on White House pressure* [[Mike Selig]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Fairshake
 
-*fund*
-
 Crypto industry super PAC network (with Defend American Jobs, Protect Progress)
+
+| | |
+|---|---|
+| Type | Fund |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Crypto industry super PAC network (with Defend American Jobs, Protect Progress)
 
 ## Relationships
 
-- [[Coinbase]] *contributed $25M (2025)* [[Fairshake]] (2025, $25M, money) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Fairshake]] *backed Trump-endorsed GOP primary candidates; ads touted his endorsement* [[Donald Trump]] (2026-05, political) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+### Money (1)
+
+- [[Coinbase]] *contributed $25M (2025)* [[Fairshake]] · 2025 · $25M · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+
+### Political (1)
+
+- [[Fairshake]] *backed Trump-endorsed GOP primary candidates; ads touted his endorsement* [[Donald Trump]] · 2026-05 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]

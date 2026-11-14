@@ -10,9 +10,13 @@ tags:
 ---
 # Unnamed lawyer
 
-*person*
-
 Lawyer who threatened Coffeezilla about the story days before publication.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Lawyer who threatened Coffeezilla about the story days before publication.
 
 ## Relationships
 
-- [[Unnamed lawyer]] *threatened over story* [[Coffeezilla]] (legal) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Legal (1)
+
+- [[Unnamed lawyer]] *threatened over story* [[Coffeezilla]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]

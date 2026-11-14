@@ -10,14 +10,22 @@ tags:
 ---
 # Agnes Callamard
 
-*person*
-
 UN special rapporteur; urged Kushner to check or replace his phone in Jan 2020.
+
+> [!warning] Appears in only an unverified, single-source allegation ([[C37 Jared Kushner's hacked phone|C37]]). Nothing in it has been independently corroborated.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
-- [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
-- [[Agnes Callamard]] *urged him to check/replace phone after Bezos hack* [[Jared Kushner]] (2020-01, advisory) · [[C37 Jared Kushner's hacked phone|C37]]
+### Advisory (1)
+
+- [[Agnes Callamard]] *urged him to check/replace phone after Bezos hack* [[Jared Kushner]] · 2020-01 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation

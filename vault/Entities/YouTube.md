@@ -10,9 +10,13 @@ tags:
 ---
 # YouTube
 
-*company*
-
 Platform the video was published on.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Platform the video was published on.
 
 ## Relationships
 
-- [['Investigating The President' (video)]] *published on* [[YouTube]] (media) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Media (1)
+
+- [['Investigating The President' (video)]] *published on* [[YouTube]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]

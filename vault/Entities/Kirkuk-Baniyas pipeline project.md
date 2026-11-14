@@ -10,9 +10,13 @@ tags:
 ---
 # Kirkuk-Baniyas pipeline project
 
-*asset*
-
 Planned $15B+ Iraq-Syria oil pipeline
+
+| | |
+|---|---|
+| Type | Asset |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Planned $15B+ Iraq-Syria oil pipeline
 
 ## Relationships
 
-- [[TI Capital]] *consortium member (MoU)* [[Kirkuk-Baniyas pipeline project]] (2026-07, commercial) · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+### Commercial (1)
+
+- [[TI Capital]] *consortium member (MoU)* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C65 Officials who decided matters involving their former clients or partners|C65]]

@@ -10,9 +10,13 @@ tags:
 ---
 # Andrew Egger
 
-*person*
-
 The Bulwark White House correspondent who asked about the dinner.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ The Bulwark White House correspondent who asked about the dinner.
 
 ## Relationships
 
-- [[Andrew Egger]] *questioned about memecoin dinner* [[Karoline Leavitt]] (2025-05-09, media) · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Andrew Egger]] *correspondent for* [[The Bulwark]] (media) · [[C03 Dinner for top $TRUMP holders|C03]]
+### Media (2)
+
+- [[Andrew Egger]] *questioned about memecoin dinner* [[Karoline Leavitt]] · 2025-05-09 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Andrew Egger]] *correspondent for* [[The Bulwark]] · [[C03 Dinner for top $TRUMP holders|C03]]

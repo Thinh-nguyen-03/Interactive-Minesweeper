@@ -10,9 +10,13 @@ tags:
 ---
 # Intel Oval Office trading meme
 
-*event*
-
 AI images of Trump 'trading' Intel, posted Sept 2025 and Sept 2026
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,7 @@ AI images of Trump 'trading' Intel, posted Sept 2025 and Sept 2026
 
 ## Relationships
 
-- [[Donald Trump]] *posted on Truth Social* [[Intel Oval Office trading meme]] (2025-09, media) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
-- [[Intel Oval Office trading meme]] *depicts trading of* [[Intel]] (2025-09, media) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+### Media (2)
+
+- [[Donald Trump]] *posted on Truth Social* [[Intel Oval Office trading meme]] · 2025-09 · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Intel Oval Office trading meme]] *depicts trading of* [[Intel]] · 2025-09 · [[C20 Trump's stock purchases and Truth Social posts|C20]]

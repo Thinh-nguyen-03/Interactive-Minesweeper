@@ -12,9 +12,14 @@ tags:
 ---
 # Coffeezilla prediction-markets video
 
-*media*
-
 Earlier Coffeezilla video on the gambling-as-trading legal theory.
+
+| | |
+|---|---|
+| Type | Media |
+| Appears in | 1 claim |
+| Connections | 3 |
+| Also known as | hyper gamble vacation video |
 
 ## Appears in claims
 
@@ -22,5 +27,7 @@ Earlier Coffeezilla video on the gambling-as-trading legal theory.
 
 ## Relationships
 
-- [[Coffeezilla]] *made* [[Coffeezilla prediction-markets video]] (media) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Coffeezilla prediction-markets video]] *covered* [[Sports bets as event contracts theory]] (media) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+### Media (2)
+
+- [[Coffeezilla]] *made* [[Coffeezilla prediction-markets video]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Coffeezilla prediction-markets video]] *covered* [[Sports bets as event contracts theory]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]

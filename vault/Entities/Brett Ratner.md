@@ -10,9 +10,13 @@ tags:
 ---
 # Brett Ratner
 
-*person*
-
 Director of 'Melania'.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Director of 'Melania'.
 
 ## Relationships
 
-- [[Brett Ratner]] *directed* [[Melania (2026 film)]] (commercial) · [[C44 Melania Trump's Amazon documentary deal|C44]]
+### Commercial (1)
+
+- [[Brett Ratner]] *directed* [[Melania (2026 film)]] · [[C44 Melania Trump's Amazon documentary deal|C44]]

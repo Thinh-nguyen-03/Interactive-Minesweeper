@@ -10,9 +10,13 @@ tags:
 ---
 # Aleksandar Vucic
 
-*person*
-
 Serbian president; lobbied for the project, denied forgery, offered pardons.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Serbian president; lobbied for the project, denied forgery, offered pardons.
 
 ## Relationships
 
-- [[Aleksandar Vucic]] *lobbied for; denied forgery, offered pardons* [[Trump Tower Belgrade (General Staff site)]] (2025-05, political) · [[C45 Kushner's Albania and Serbia developments|C45]]
+### Political (1)
+
+- [[Aleksandar Vucic]] *lobbied for; denied forgery, offered pardons* [[Trump Tower Belgrade (General Staff site)]] · 2025-05 · [[C45 Kushner's Albania and Serbia developments|C45]]

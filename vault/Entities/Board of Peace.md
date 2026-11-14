@@ -12,9 +12,16 @@ tags:
 ---
 # Board of Peace
 
-*government*
-
 Trump-led Gaza peace body; Kushner is on its executive board; venue of the 'envoy of peace' announcement.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 2 claims |
+| Connections | 4 |
+| Also known as | Board of Peace (Gaza) |
+
+## How other claims describe it
 
 - Trump-chaired Gaza governance board announced Jan 2026.
 
@@ -25,5 +32,7 @@ Trump-led Gaza peace body; Kushner is on its executive board; venue of the 'envo
 
 ## Relationships
 
-- [[Jared Kushner]] *executive board member of* [[Board of Peace]] (2026-01, political) · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Martin Edelman]] *named in leaked draft as executive board member (single-source)* [[Board of Peace]] (2026, political) · [[C61 Shared lawyers and law firms across the deals|C61]]
+### Political (2)
+
+- [[Martin Edelman]] *named in leaked draft as executive board member (single-source)* [[Board of Peace]] · 2026 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Jared Kushner]] *executive board member of* [[Board of Peace]] · 2026-01 · [[C15 Jared Kushner and Affinity Partners|C15]]

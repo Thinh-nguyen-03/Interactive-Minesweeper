@@ -10,9 +10,13 @@ tags:
 ---
 # Boosie BadAzz
 
-*person*
-
 Rapper; paid $600K, got no pardon, filed for arbitration
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Rapper; paid $600K, got no pardon, filed for arbitration
 
 ## Relationships
 
-- [[Boosie BadAzz]] *paid for pardon lobbying; seeks $300K back* [[Jack Burkman]] ($600K, money) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+### Money (1)
+
+- [[Boosie BadAzz]] *paid for pardon lobbying; seeks $300K back* [[Jack Burkman]] · $600K · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

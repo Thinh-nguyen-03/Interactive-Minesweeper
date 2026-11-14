@@ -10,9 +10,13 @@ tags:
 ---
 # Jacob Wohl
 
-*person*
-
 Pardon lobbyist (with Burkman)
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Pardon lobbyist (with Burkman)
 
 ## Relationships
 
-- [[Jack Burkman]] *lobbying partner of* [[Jacob Wohl]] (commercial) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+### Commercial (1)
+
+- [[Jack Burkman]] *lobbying partner of* [[Jacob Wohl]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]

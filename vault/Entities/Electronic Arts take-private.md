@@ -10,9 +10,13 @@ tags:
 ---
 # Electronic Arts take-private
 
-*event*
-
 $55B LBO by PIF, Silver Lake and Affinity; closed 4 Aug 2026
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

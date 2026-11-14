@@ -10,9 +10,13 @@ tags:
 ---
 # Michael Best Strategies
 
-*company*
-
 Reince Priebus's lobbying firm
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Reince Priebus's lobbying firm
 
 ## Relationships
 
-- [[Michael Best Strategies]] *represents 5 corporate donors* [[White House ballroom]] (2025-11, commercial) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Commercial (1)
+
+- [[Michael Best Strategies]] *represents 5 corporate donors* [[White House ballroom]] · 2025-11 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

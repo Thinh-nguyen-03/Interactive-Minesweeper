@@ -10,9 +10,13 @@ tags:
 ---
 # Cohen & Company Capital Markets
 
-*company*
-
 Co-placement agent on TMTG bitcoin raise
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Co-placement agent on TMTG bitcoin raise
 
 ## Relationships
 
-- [[Cohen & Company Capital Markets]] *co-placement agent* [[Trump Media & Technology Group]] (2025-05, commercial) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+### Commercial (1)
+
+- [[Cohen & Company Capital Markets]] *co-placement agent* [[Trump Media & Technology Group]] · 2025-05 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]

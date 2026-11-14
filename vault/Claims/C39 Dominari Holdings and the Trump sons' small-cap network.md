@@ -17,7 +17,48 @@ tags:
 ---
 # C39: Dominari Holdings and the Trump sons' small-cap network
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Follow-up lead
+
+## Bottom line
+
+The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Holdings as advisers on Feb. 10-11, 2025.
+
+## What holds up
+
+- Don Jr. and Eric Trump became advisers to and major shareholders of Dominari Holdings.
+- Dominari's stock soared after the Trump sons arrived (mostly accurate)
+- Dominari is based in Trump Tower.
+- Dominari co-founded American Data Centers/American Bitcoin with the Trump sons.
+- Dominari co-underwrote the Trump sons' SPAC, and its president Kyle Wool sits on the SPAC board.
+- The sons made large gains via Dominari-linked deals (mostly accurate)
+- Dominari's business boomed after the sons joined.
+- Unusual Machines: a Trump son's arrival preceded a share-price spike.
+
+## What needs correcting
+
+- Thumzup: a Trump son's arrival preceded a share-price spike (false)
+- GrabAGun/Colombier II: a Trump son's arrival preceded a share-price spike (false)
+- **Claim:** The brief implies the stock soared after the sons arrived  
+  **Record:** Most of DOMH's surge (about 530-580%) happened in the six weeks before the Feb. 11, 2025 announcement.
+- **Brief said:** Thumzup and GrabAGun spiked after a Trump son arrived  
+  **Record shows:** Thumzup fell more than 14% on the stake disclosure, and GrabAGun fell about 30% in its first two days.
+- GrabAGun/Colombier II is an Omeed Malik deal; no Dominari role was found.
+- No SEC or FINRA scrutiny of Dominari or the sons is documented. The scrutiny is a congressional letter (March 2026) and a FINRA fine on Revere, Wool's former firm.
+- The 'half a billion dollars' gain is mostly paper value at American Bitcoin's peak, and that stock later fell more than 90%.
+
+## What is unproven
+
+- Dominari or the Trump sons face SEC or FINRA scrutiny.
+
+## In more detail
+
+- Each took about a 6.7% stake (roughly 13% combined) through share grants and a $3.47 private placement, and DOMH soared.
+- Dominari co-formed American Data Centers/American Bitcoin with them and co-led their SPAC's IPO, with president Kyle Wool on the SPAC board.
+- The brief overreaches in two places.
+- Most of DOMH's spike came before the announcement.
+- Thumzup and GrabAGun fell rather than spiked on the Trump news.
+- No SEC or FINRA action against Dominari or the sons is documented; the scrutiny on record is a March 2026 House China committee letter on Dominari's Chinese IPOs and a 2026 FINRA fine on Wool's former firm, Revere.
 
 ## Lead investigated
 
@@ -25,95 +66,140 @@ tags:
 
 ## Follows up on
 
-- [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]]
-- [[C27 New America Acquisition I Corp SPAC]]
+- [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
+- [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
 
 ## Follow-up checks
 
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
-
-## Summary
-
-The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Holdings as advisers on Feb. 10-11, 2025. Each took about a 6.7% stake (roughly 13% combined) through share grants and a $3.47 private placement, and DOMH soared. Dominari co-formed American Data Centers/American Bitcoin with them and co-led their SPAC's IPO, with president Kyle Wool on the SPAC board. The brief overreaches in two places. Most of DOMH's spike came before the announcement. Thumzup and GrabAGun fell rather than spiked on the Trump news. No SEC or FINRA action against Dominari or the sons is documented; the scrutiny on record is a March 2026 House China committee letter on Dominari's Chinese IPOs and a 2026 FINRA fine on Wool's former firm, Revere.
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
 
 ## Sub-claims
 
-- **Confirmed**: Don Jr. and Eric Trump became advisers to and major shareholders of Dominari Holdings.
-  - Advisory agreements date to Feb. 10, 2025, with an initial grant of 250,000 shares each. Each brother also bought about $1M in the $13.5M placement priced at $3.47 per unit. 13G filings show 966,138 shares each (6.71%) as of Feb. 21, 2025, plus 432,276 warrant shares each, putting each near 10% fully diluted. Their exact cost basis is not disclosed.
-  - <https://www.sec.gov/Archives/edgar/data/12239/000121390026036897/ea0283159-10k_domin.htm>
-  - <https://itiger.com/news/2516537088>
-  - <https://www.itiger.com/news/2560137003>
-  - <https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares>
-- **Mostly accurate**: Dominari's stock soared after the Trump sons arrived.
-  - DOMH was under $1 in December 2024. It rose about 529-580% in the six weeks before the Feb. 11 announcement, jumped as much as 84% on the day, and gained about 300% in the week. Forbes found daily volume went from about 11,500 to about 1.2M shares from Dec. 30. Most of the spike preceded the public news. The stock ended 2025 just under $5.
-  - <https://itiger.com/news/2516537088>
-  - <https://www.bloomberg.com/news/articles/2025-02-11/trump-s-sons-back-friend-s-penny-stock-spurring-84-price-jump>
-  - <https://www.axios.com/2025/02/14/trump-dominari-stock>
-  - <https://www.joemygod.com/2025/03/forbes-trump-sons-suspected-of-insider-trading/>
-  - <https://www.tipranks.com/news/the-fly/trading-in-obscure-stocks-soared-before-trump-appointments-disclosed-ft-says>
-  - <https://www.biospace.com/press-releases/dominari-2025-revenue-surges-487-in-2025-balance-sheet-strengthens-significantly>
-- **Confirmed**: Dominari is based in Trump Tower.
-  - It has two leases on Trump Tower floors 22-23, totaling more than $62,000 a month, two floors below the Trump Organization's headquarters. It is a former biotech (Spherix/AIkido) that pivoted to brokerage.
-  - <https://www.itiger.com/news/2560137003>
-  - <https://www.bloomberg.com/news/features/2025-10-13/the-banker-behind-the-trump-family-s-quick-wall-street-wins>
-  - <https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares>
-- **Confirmed**: Dominari co-founded American Data Centers/American Bitcoin with the Trump sons.
-  - Dominari held about 32% of ADC, which later became American Bitcoin (see C18). It held about 23.2M ABTC shares, worth about $170M at the September 2025 listing, and reported selling its ABTC investment in January 2026 for $32.4M in cash. Whether that was the full stake is unclear.
-  - <https://itiger.com/news/2516537088>
-  - <https://www.biospace.com/press-releases/dominari-2025-revenue-surges-487-in-2025-balance-sheet-strengthens-significantly>
-  - <https://www.barchart.com/story/news/3776956/dominari-year-to-date-revenue-increases-by-14-over-2025>
-- **Confirmed**: Dominari co-underwrote the Trump sons' SPAC, and its president Kyle Wool sits on the SPAC board.
-  - Dominari Securities and D. Boral Capital led New America Acquisition I's $345M IPO (December 2025). Wool is on its board and advisory board (see C27).
-  - <https://www.itiger.com/news/2560137003>
-  - <https://www.bloomberg.com/news/features/2025-10-13/the-banker-behind-the-trump-family-s-quick-wall-street-wins>
-- **Mostly accurate**: The sons made large gains via Dominari-linked deals.
-  - Bloomberg said Wool helped them make 'more than half a billion dollars,' mostly the peak paper value of American Bitcoin, which has since fallen more than 90%. In May 2025 they could sell a combined $9.6M of Dominari stock registered for resale. No sale of their Dominari shares is confirmed, and MarketWatch corrected an erroneous sale report.
-  - <https://www.bloomberg.com/news/features/2025-10-13/the-banker-behind-the-trump-family-s-quick-wall-street-wins>
-  - <https://www.forbesargentina.com/millonarios/donald-trump-jr-eric-trump-preparados-vender-su-participacion-dominari-us-96-millones-n71319>
-  - <https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares>
-  - <https://www.webull.com.au/news-detail/14846258248377344>
-- **Confirmed**: Dominari's business boomed after the sons joined.
-  - Q2 2025 revenue rose 452% to $34M. Underwriting revenue rose about six-fold in 2025. CEO Anthony Hayes (about $34M) and Wool (about $32M) took roughly $66M in 2025 pay. Dominari also arranged the SRM/Tron reverse-merger financing, after which SRM rose more than 500% and the position it arranged showed more than $120M in paper gains. In 2026 it built the $1B American Ventures vehicle, in which the sons invested, with paper gains on microcaps.
-  - <https://www.bloomberg.com/news/articles/2025-08-12/investment-bank-dominari-quintuples-revenue-after-trumps-join>
-  - <https://www.biospace.com/press-releases/dominari-2025-revenue-surges-487-in-2025-balance-sheet-strengthens-significantly>
-  - <https://www.bloomberg.com/news/articles/2026-01-27/trump-tower-banker-duo-share-66-million-pay-package-for-2025>
-  - <https://www.benzinga.com/markets/25/06/46064177/small-investment-bank-tied-to-trumps-sons-facilitated-120-million-trading-windfall>
-  - <https://www.nbcnewyork.com/news/business/money-report/justin-suns-tron-to-go-public-through-reverse-merger-in-deal-led-by-trump-linked-bank/6304541/>
-  - <https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps>
-  - <https://thedeepdive.ca/trump-sons-dominari-microcap-fund/>
-- **Confirmed**: Unusual Machines: a Trump son's arrival preceded a share-price spike.
-  - Don Jr. joined the advisory board on Nov. 27, 2024. UMAC rose more than 220% in the prior four weeks and rose again on the news. Dominari was placement agent for its $40M (May 2025) and $48.5M (July 2025) offerings and co-agent on a roughly $150M offering in March 2026 (see C32).
-  - <https://nbcchicago.com/news/business/money-report/drone-maker-unusual-machines-shares-soar-after-donald-trump-jr-joins-advisory-board/3611106>
-  - <https://finance.yahoo.com/news/york-companies-enjoy-unusual-share-133219233.html>
-  - <https://business.mammothtimes.com/mammothtimes/article/accwirecq-2025-5-9-dominari-securities-leads-40-million-public-offering-providing-continued-capital-markets-support-to-established-client-unusual-machines>
-  - <https://www.accessnewswire.com/newsroom/en/aerospace-and-defense/unusual-machines-announces-pricing-of-approximately-150-million-public-offeri-1150050>
-- **False**: Thumzup: a Trump son's arrival preceded a share-price spike.
-  - Don Jr.'s 350,000-share (about $4M) stake was disclosed in July 2025, after a $6M Dominari-arranged preferred placement. The stock fell more than 14% that day. Dominari then ran a $50M offering at $10 a share, and by September insiders were buying at about $5.16. No Eric Trump stake was found.
-  - <https://www.theblock.co/post/361885/thumzup-xrp-sol-doge-more-bitcoin-treasury-trump-jr>
-  - <https://bitcoinmagazine.com/news/donald-trump-jr-invests-4-million-in-bitcoin-treasury-company-thumzup-media>
-  - <https://finviz.com/news/157850/thumzup-media-corporation-issues-shareholder-letter-highlighting-strategic-transformation-into-a-crypto-industry-leader>
-- **False**: GrabAGun/Colombier II: a Trump son's arrival preceded a share-price spike.
-  - GrabAGun merged with Omeed Malik's Colombier II, raised about $179M and listed as PEW in July 2025. Don Jr. is on the board with about 300,000 shares (about $3M). The stock fell about 20-24% on debut and about 30% in two days. No Dominari role was found.
-  - <https://www.gurufocus.com/news/2979153/grabagun-a-mobilefocused-online-firearms-retailer-and-defender-of-the-second-amendment-completes-business-combination-with-colombier-ii-and-will-begin-trading-on-nyse-clbr-stock-news>
-  - <https://wtop.com/news/2025/07/the-online-gunseller-with-donald-trump-jr-on-its-board-makes-its-market-debut-shares-plunge>
-  - <https://www.businessinsider.nl/stock-of-an-online-gun-seller-backed-by-donald-trump-jr-drops-30-in-its-2nd-day-of-trading/>
-- **Unverified**: Dominari or the Trump sons face SEC or FINRA scrutiny.
-  - No SEC or FINRA action, charge or disclosed investigation involving Dominari or the sons was found. The pre-announcement trading was flagged only by media and experts. The scrutiny on record is a House Select Committee on the CCP letter (Moolenaar/Khanna, around March 8, 2026) citing 11 of Dominari's 29 Chinese IPOs that collapsed; Dominari said it would cooperate. FINRA fined Revere Securities, which Wool led from 2022, $800,000 in 2026 for small-cap IPO AML failures, without admission; overlap with Wool's tenure is unverified. Historic Barry Honig links to predecessor Spherix come from one newsletter.
-  - <https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-moolenaar-investigate-us-underwriters-helped-chinese-businesses-rip>
-  - <https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/letter_dominari.pdf>
-  - <https://www.caixinglobal.com/2026-03-11/us-lawmakers-probe-underwriters-over-chinese-ipo-manipulation-claims-102421674.html>
-  - <https://www.barchart.com/story/news/768316/dominari-releases-letter-to-shareholders-and-clients>
-  - <https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and>
-  - <https://wendysiegelman.substack.com/p/eric-and-donald-trump-jr-dominari-honig>
-  - <https://www.joemygod.com/2025/03/forbes-trump-sons-suspected-of-insider-trading/>
+### 1. Don Jr. and Eric Trump became advisers to and major shareholders of Dominari Holdings.
 
-## Corrections
+**Confirmed**
 
-- The brief implies the stock soared after the sons arrived. Most of DOMH's surge (about 530-580%) happened in the six weeks before the Feb. 11, 2025 announcement.
-- The brief says Thumzup and GrabAGun spiked after a Trump son arrived. Thumzup fell more than 14% on the stake disclosure, and GrabAGun fell about 30% in its first two days.
-- GrabAGun/Colombier II is an Omeed Malik deal; no Dominari role was found.
-- No SEC or FINRA scrutiny of Dominari or the sons is documented. The scrutiny is a congressional letter (March 2026) and a FINRA fine on Revere, Wool's former firm.
-- The 'half a billion dollars' gain is mostly paper value at American Bitcoin's peak, and that stock later fell more than 90%.
+- Advisory agreements date to Feb. 10, 2025, with an initial grant of 250,000 shares each.
+- Each brother also bought about $1M in the $13.5M placement priced at $3.47 per unit.
+- 13G filings show 966,138 shares each (6.71%) as of Feb. 21, 2025, plus 432,276 warrant shares each, putting each near 10% fully diluted.
+- Their exact cost basis is not disclosed.
+- Amounts: about $1M; $13.5M; $3.47; 6.71%; 10%
+- Dates: Feb. 10, 2025; Feb. 21, 2025
+- Sources: [1](https://www.sec.gov/Archives/edgar/data/12239/000121390026036897/ea0283159-10k_domin.htm) [3](https://itiger.com/news/2516537088) [2](https://www.itiger.com/news/2560137003) [4](https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares)
+
+### 2. Dominari's stock soared after the Trump sons arrived.
+
+**Mostly accurate**
+
+- DOMH was under $1 in December 2024.
+- It rose about 529-580% in the six weeks before the Feb. 11 announcement, jumped as much as 84% on the day, and gained about 300% in the week.
+- Forbes found daily volume went from about 11,500 to about 1.2M shares from Dec. 30.
+- Most of the spike preceded the public news.
+- The stock ended 2025 just under $5.
+- Amounts: under $1; about 529-580%; 84%; about 300%; under $5
+- Dates: December 2024; Feb. 11; Dec. 30
+- Sources: [3](https://itiger.com/news/2516537088) [6](https://www.bloomberg.com/news/articles/2025-02-11/trump-s-sons-back-friend-s-penny-stock-spurring-84-price-jump) [7](https://www.axios.com/2025/02/14/trump-dominari-stock) [8](https://www.joemygod.com/2025/03/forbes-trump-sons-suspected-of-insider-trading/) [5](https://www.tipranks.com/news/the-fly/trading-in-obscure-stocks-soared-before-trump-appointments-disclosed-ft-says) [9](https://www.biospace.com/press-releases/dominari-2025-revenue-surges-487-in-2025-balance-sheet-strengthens-significantly)
+
+### 3. Dominari is based in Trump Tower.
+
+**Confirmed**
+
+- It has two leases on Trump Tower floors 22-23, totaling more than $62,000 a month, two floors below the Trump Organization's headquarters.
+- It is a former biotech (Spherix/AIkido) that pivoted to brokerage.
+- Amounts: more than $62,000
+- Sources: [2](https://www.itiger.com/news/2560137003) [11](https://www.bloomberg.com/news/features/2025-10-13/the-banker-behind-the-trump-family-s-quick-wall-street-wins) [4](https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares)
+
+### 4. Dominari co-founded American Data Centers/American Bitcoin with the Trump sons.
+
+**Confirmed**
+
+- Dominari held about 32% of ADC, which later became American Bitcoin (see C18).
+- It held about 23.2M ABTC shares, worth about $170M at the September 2025 listing, and reported selling its ABTC investment in January 2026 for $32.4M in cash.
+- Whether that was the full stake is unclear.
+- Amounts: about 32%; about $170M; $32.4M
+- Dates: September 2025; January 2026
+- Sources: [3](https://itiger.com/news/2516537088) [9](https://www.biospace.com/press-releases/dominari-2025-revenue-surges-487-in-2025-balance-sheet-strengthens-significantly) [10](https://www.barchart.com/story/news/3776956/dominari-year-to-date-revenue-increases-by-14-over-2025)
+
+### 5. Dominari co-underwrote the Trump sons' SPAC, and its president Kyle Wool sits on the SPAC board.
+
+**Confirmed**
+
+- Dominari Securities and D. Boral Capital led New America Acquisition I's $345M IPO (December 2025).
+- Wool is on its board and advisory board (see C27).
+- Amounts: $345M
+- Dates: December 2025
+- Sources: [2](https://www.itiger.com/news/2560137003) [11](https://www.bloomberg.com/news/features/2025-10-13/the-banker-behind-the-trump-family-s-quick-wall-street-wins)
+
+### 6. The sons made large gains via Dominari-linked deals.
+
+**Mostly accurate**
+
+- Bloomberg said Wool helped them make 'more than half a billion dollars,' mostly the peak paper value of American Bitcoin, which has since fallen more than 90%.
+- In May 2025 they could sell a combined $9.6M of Dominari stock registered for resale.
+- No sale of their Dominari shares is confirmed, and MarketWatch corrected an erroneous sale report.
+- Amounts: more than 90%; $9.6M
+- Dates: May 2025
+- Sources: [11](https://www.bloomberg.com/news/features/2025-10-13/the-banker-behind-the-trump-family-s-quick-wall-street-wins) [12](https://www.forbesargentina.com/millonarios/donald-trump-jr-eric-trump-preparados-vender-su-participacion-dominari-us-96-millones-n71319) [4](https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares) [13](https://www.webull.com.au/news-detail/14846258248377344)
+
+### 7. Dominari's business boomed after the sons joined.
+
+**Confirmed**
+
+- Q2 2025 revenue rose 452% to $34M. Underwriting revenue rose about six-fold in 2025.
+- CEO Anthony Hayes (about $34M) and Wool (about $32M) took roughly $66M in 2025 pay.
+- Dominari also arranged the SRM/Tron reverse-merger financing, after which SRM rose more than 500% and the position it arranged showed more than $120M in paper gains.
+- In 2026 it built the $1B American Ventures vehicle, in which the sons invested, with paper gains on microcaps.
+- Amounts: 452%; $34M; about $34M; about $32M; roughly $66M
+- Sources: [14](https://www.bloomberg.com/news/articles/2025-08-12/investment-bank-dominari-quintuples-revenue-after-trumps-join) [9](https://www.biospace.com/press-releases/dominari-2025-revenue-surges-487-in-2025-balance-sheet-strengthens-significantly) [15](https://www.bloomberg.com/news/articles/2026-01-27/trump-tower-banker-duo-share-66-million-pay-package-for-2025) [16](https://www.benzinga.com/markets/25/06/46064177/small-investment-bank-tied-to-trumps-sons-facilitated-120-million-trading-windfall) [17](https://www.nbcnewyork.com/news/business/money-report/justin-suns-tron-to-go-public-through-reverse-merger-in-deal-led-by-trump-linked-bank/6304541/) [18](https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps) [19](https://thedeepdive.ca/trump-sons-dominari-microcap-fund/)
+
+### 8. Unusual Machines: a Trump son's arrival preceded a share-price spike.
+
+**Confirmed**
+
+- Don Jr. joined the advisory board on Nov. 27, 2024.
+- UMAC rose more than 220% in the prior four weeks and rose again on the news.
+- Dominari was placement agent for its $40M (May 2025) and $48.5M (July 2025) offerings and co-agent on a roughly $150M offering in March 2026 (see C32).
+- Amounts: more than 220%; $40M; $48.5M; roughly $150M
+- Dates: Nov. 27, 2024; May 2025; July 2025; March 2026
+- Sources: [20](https://nbcchicago.com/news/business/money-report/drone-maker-unusual-machines-shares-soar-after-donald-trump-jr-joins-advisory-board/3611106) [21](https://finance.yahoo.com/news/york-companies-enjoy-unusual-share-133219233.html) [22](https://business.mammothtimes.com/mammothtimes/article/accwirecq-2025-5-9-dominari-securities-leads-40-million-public-offering-providing-continued-capital-markets-support-to-established-client-unusual-machines) [23](https://www.accessnewswire.com/newsroom/en/aerospace-and-defense/unusual-machines-announces-pricing-of-approximately-150-million-public-offeri-1150050)
+
+### 9. Thumzup: a Trump son's arrival preceded a share-price spike.
+
+**False**
+
+- Don Jr.'s 350,000-share (about $4M) stake was disclosed in July 2025, after a $6M Dominari-arranged preferred placement.
+- The stock fell more than 14% that day.
+- Dominari then ran a $50M offering at $10 a share, and by September insiders were buying at about $5.16.
+- No Eric Trump stake was found.
+- Amounts: about $4M; $6M; more than 14%; $50M; $10
+- Dates: July 2025
+- Sources: [24](https://www.theblock.co/post/361885/thumzup-xrp-sol-doge-more-bitcoin-treasury-trump-jr) [25](https://bitcoinmagazine.com/news/donald-trump-jr-invests-4-million-in-bitcoin-treasury-company-thumzup-media) [26](https://finviz.com/news/157850/thumzup-media-corporation-issues-shareholder-letter-highlighting-strategic-transformation-into-a-crypto-industry-leader)
+
+### 10. GrabAGun/Colombier II: a Trump son's arrival preceded a share-price spike.
+
+**False**
+
+- GrabAGun merged with Omeed Malik's Colombier II, raised about $179M and listed as PEW in July 2025.
+- Don Jr. is on the board with about 300,000 shares (about $3M).
+- The stock fell about 20-24% on debut and about 30% in two days.
+- No Dominari role was found.
+- Amounts: about $179M; about $3M; about 20-24%; about 30%
+- Dates: July 2025
+- Sources: [27](https://www.gurufocus.com/news/2979153/grabagun-a-mobilefocused-online-firearms-retailer-and-defender-of-the-second-amendment-completes-business-combination-with-colombier-ii-and-will-begin-trading-on-nyse-clbr-stock-news) [28](https://wtop.com/news/2025/07/the-online-gunseller-with-donald-trump-jr-on-its-board-makes-its-market-debut-shares-plunge) [29](https://www.businessinsider.nl/stock-of-an-online-gun-seller-backed-by-donald-trump-jr-drops-30-in-its-2nd-day-of-trading/)
+
+### 11. Dominari or the Trump sons face SEC or FINRA scrutiny.
+
+**Unverified**
+
+- No SEC or FINRA action, charge or disclosed investigation involving Dominari or the sons was found.
+- The pre-announcement trading was flagged only by media and experts.
+- The scrutiny on record is a House Select Committee on the CCP letter (Moolenaar/Khanna, around March 8, 2026) citing 11 of Dominari's 29 Chinese IPOs that collapsed; Dominari said it would cooperate.
+- FINRA fined Revere Securities, which Wool led from 2022, $800,000 in 2026 for small-cap IPO AML failures, without admission; overlap with Wool's tenure is unverified.
+- Historic Barry Honig links to predecessor Spherix come from one newsletter.
+- Amounts: $800,000
+- Dates: March 8, 2026
+- Sources: [30](https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-moolenaar-investigate-us-underwriters-helped-chinese-businesses-rip) [31](https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/letter_dominari.pdf) [32](https://www.caixinglobal.com/2026-03-11/us-lawmakers-probe-underwriters-over-chinese-ipo-manipulation-claims-102421674.html) [33](https://www.barchart.com/story/news/768316/dominari-releases-letter-to-shareholders-and-clients) [34](https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and) [35](https://wendysiegelman.substack.com/p/eric-and-donald-trump-jr-dominari-honig) [8](https://www.joemygod.com/2025/03/forbes-trump-sons-suspected-of-insider-trading/)
 
 ## Denials and context
 
@@ -128,92 +214,128 @@ The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Ho
 
 ## People and organisations
 
-- [[American Bitcoin]]
-- [[American Data Centers Inc]]
-- [[American Ventures]]
-- [[Anthony Hayes]]
-- [[Barry Honig]]
-- [[Bloomberg]]
-- [[Colombier Acquisition Corp. II]]
-- [[D. Boral Capital]]
-- [[Dominari Holdings Dominari Securities]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[Eric Trump]]
-- [[Financial Times]]
-- [[FINRA]]
-- [[Forbes]]
-- [[GrabAGun Digital Holdings]]
-- [[House Select Committee on the CCP]]
-- [[Justin Sun]]
-- [[Kyle Wool]]
-- [[New America Acquisition I Corp]]
-- [[Omeed Malik]]
-- [[Revere Securities LLC]]
-- [[Securities and Exchange Commission]]
-- [[Skyline Builders Group]]
-- [[SRM Entertainment Tron Inc]]
-- [[The Wall Street Journal]]
-- [[Thumzup Media]]
-- [[Tron]]
-- [[Trump Organization]]
-- [[Unusual Machines]]
-- [[US Congress]]
+- [[American Bitcoin]] · Company
+- [[American Data Centers Inc]] · Company
+- [[American Ventures]] · Fund
+- [[Anthony Hayes]] · Person
+- [[Barry Honig]] · Person
+- [[Bloomberg]] · Media
+- [[Colombier Acquisition Corp. II]] · Company
+- [[D. Boral Capital]] · Company
+- [[Dominari Holdings Dominari Securities]] · Company
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[Eric Trump]] · Person
+- [[Financial Times]] · Media
+- [[FINRA]] · Government body
+- [[Forbes]] · Media
+- [[GrabAGun Digital Holdings]] · Company
+- [[House Select Committee on the CCP]] · Government body
+- [[Justin Sun]] · Person
+- [[Kyle Wool]] · Person
+- [[New America Acquisition I Corp]] · Company
+- [[Omeed Malik]] · Person
+- [[Revere Securities LLC]] · Company
+- [[Securities and Exchange Commission]] · Government body
+- [[Skyline Builders Group]] · Company
+- [[SRM Entertainment Tron Inc]] · Company
+- [[The Wall Street Journal]] · Media
+- [[Thumzup Media]] · Company
+- [[Tron]] · Company
+- [[Trump Organization]] · Company
+- [[Unusual Machines]] · Company
+- [[US Congress]] · Government body
 
 ## Relationships documented
 
-- [[Anthony Hayes]] *CEO (about $34M 2025 pay)* [[Dominari Holdings Dominari Securities]] (2025, $34M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Barry Honig]] *historic investor in predecessor Spherix (2013-14)* [[Dominari Holdings Dominari Securities]] (2013, money) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Bloomberg]] *investigative reporting* [[Dominari Holdings Dominari Securities]] (2025-05-19, media) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Colombier Acquisition Corp. II]] *SPAC merger (about $179M raised)* [[GrabAGun Digital Holdings]] (2025-07, $179M, commercial) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Dominari Holdings Dominari Securities]] *held about 23.2M shares (about $170M at listing); sold for $32.4M in January 2026* [[American Bitcoin]] (2025-09, $170M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Dominari Holdings Dominari Securities]] *co-formed, about 32% stake* [[American Data Centers Inc]] (2025-02, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Dominari Holdings Dominari Securities]] *created, owns about 90%* [[American Ventures]] (2026, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Dominari Holdings Dominari Securities]] *paid about $32M 2025 compensation* [[Kyle Wool]] (2025, $32M, money) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Dominari Holdings Dominari Securities]] *exclusive placement agent for $100M (up to $210M) TRX-treasury deal* [[SRM Entertainment Tron Inc]] (2025-06, $100M, commercial) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Dominari Holdings Dominari Securities]] *placement agent ($6M preferred; $50M offering)* [[Thumzup Media]] (2025-07, $50M, commercial) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Dominari Holdings Dominari Securities]] *tenant in Trump Tower (two leases, more than $62K/month)* [[Trump Organization]] (2025, commercial) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Dominari Holdings Dominari Securities]] *placement agent ($40M, $48.5M; co-agent on about $150M) and shareholder* [[Unusual Machines]] (2025-05, commercial) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump]] *father of* [[Donald Trump Jr]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump]] *father of* [[Eric Trump]] (family) · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump Jr]] *investor (passive)* [[American Ventures]] (2026, money) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump Jr]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] (2025-02-21, $1M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump Jr]] *adviser (advisory board)* [[Dominari Holdings Dominari Securities]] (2025-02-10, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump Jr]] *brother* [[Eric Trump]] (family) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump Jr]] *director; about 300,000 shares (about $3M)* [[GrabAGun Digital Holdings]] (2025-07, $3M, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump Jr]] *invested via Dominari-tied vehicle* [[Skyline Builders Group]] (2025-08, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump Jr]] *350,000-share stake (about $4M)* [[Thumzup Media]] (2025-07, $4M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump Jr]] *advisory board member and shareholder* [[Unusual Machines]] (2024-11-27, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Eric Trump]] *investor (passive)* [[American Ventures]] (2026, money) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Eric Trump]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] (2025-02-21, $1M, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Eric Trump]] *adviser (advisory board)* [[Dominari Holdings Dominari Securities]] (2025-02-10, advisory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Eric Trump]] *invested via Dominari-tied vehicle* [[Skyline Builders Group]] (2025-08, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Financial Times]] *reported pre-announcement surge* [[Dominari Holdings Dominari Securities]] (2025-03, media) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[FINRA]] *fined $800,000 (AML/supervision, small-cap IPOs)* [[Revere Securities LLC]] (2026, $800K, regulatory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Forbes]] *flagged pre-announcement trading* [[Dominari Holdings Dominari Securities]] (2025-03, media) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[D. Boral Capital]] (2026-03-08, regulatory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Dominari Holdings Dominari Securities]] (2026-03-08, regulatory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Revere Securities LLC]] (2026-03-08, regulatory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[House Select Committee on the CCP]] *committee of the House* [[US Congress]] (political) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Justin Sun]] *Tron deal / adviser to Tron Inc.* [[SRM Entertainment Tron Inc]] (2025-06, commercial) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Justin Sun]] *founder* [[Tron]] (ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Kyle Wool]] *president; head of Dominari Securities* [[Dominari Holdings Dominari Securities]] (ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Kyle Wool]] *board / advisory board member* [[New America Acquisition I Corp]] (2025-08, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Kyle Wool]] *former president (from 2022)* [[Revere Securities LLC]] (2022, ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Omeed Malik]] *CEO/sponsor* [[Colombier Acquisition Corp. II]] (ownership) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Securities and Exchange Commission]] *charged over pump-and-dump (2018; settled 2019)* [[Barry Honig]] (2018-09, legal) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[The Wall Street Journal]] *profile 'go-to dealmaker'* [[Dominari Holdings Dominari Securities]] (2025-08-19, media) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+### Money (4)
 
-## Leads not covered by the video
+- [[Barry Honig]] *historic investor in predecessor Spherix (2013-14)* [[Dominari Holdings Dominari Securities]] · 2013 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *paid about $32M 2025 compensation* [[Kyle Wool]] · 2025 · $32M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *investor (passive)* [[American Ventures]] · 2026 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Eric Trump]] *investor (passive)* [[American Ventures]] · 2026 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 
-- **Dominari's SRM/Tron Inc. deal with Justin Sun**: A Trump-sons-linked bank placed a $100M-$210M TRX treasury deal for Justin Sun (a WLF investor, C05); SRM rose more than 500% and the position showed more than $120M in paper gains. [source](https://www.nbcnewyork.com/news/business/money-report/justin-suns-tron-to-go-public-through-reverse-merger-in-deal-led-by-trump-linked-bank/6304541/) · [[Dominari Holdings Dominari Securities]] [[Justin Sun]] [[SRM Entertainment Tron Inc]] [[Tron]] [[Eric Trump]]
-- **American Ventures: Dominari's $1B microcap fund with Trump-son investors**: A 2026 vehicle that is about 90% Dominari-owned, with the sons as investors, booking warrant-driven paper gains on microcaps in drones, AI and crypto sectors favored by administration policy. [source](https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps) · [[American Ventures]] [[Dominari Holdings Dominari Securities]] [[Donald Trump Jr]] [[Eric Trump]]
-- **Skyline Builders / Cove Kaz Kazakhstan tungsten deal with up to $1.6B US-government-linked financing**: The sons bought into Skyline via a Dominari-tied vehicle before it merged with a tungsten venture backed by US financing; the Trump Organization denies any involvement. [source](https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/) · [[Skyline Builders Group]] [[Donald Trump Jr]] [[Eric Trump]] [[Dominari Holdings Dominari Securities]]
-- **House China committee probe of Dominari's Chinese 'ramp-and-dump' IPOs**: The only formal government scrutiny of the Trump-sons-linked bank; the outcome and document production are unknown. [source](https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-moolenaar-investigate-us-underwriters-helped-chinese-businesses-rip) · [[House Select Committee on the CCP]] [[Dominari Holdings Dominari Securities]] [[D. Boral Capital]] [[Revere Securities LLC]]
-- **FINRA's $800K fine on Revere Securities and Kyle Wool's tenure**: Wool ran Revere from 2022; it is unclear whether the sanctioned small-cap IPO conduct overlaps his tenure. [source](https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and) · [[Revere Securities LLC]] [[Kyle Wool]] [[FINRA]]
+### Ownership (13)
 
-## Sources
+- [[Kyle Wool]] *former president (from 2022)* [[Revere Securities LLC]] · 2022 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Anthony Hayes]] *CEO (about $34M 2025 pay)* [[Dominari Holdings Dominari Securities]] · 2025 · $34M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *co-formed, about 32% stake* [[American Data Centers Inc]] · 2025-02 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] · 2025-02-21 · $1M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Eric Trump]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] · 2025-02-21 · $1M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *350,000-share stake (about $4M)* [[Thumzup Media]] · 2025-07 · $4M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *invested via Dominari-tied vehicle* [[Skyline Builders Group]] · 2025-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Eric Trump]] *invested via Dominari-tied vehicle* [[Skyline Builders Group]] · 2025-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *held about 23.2M shares (about $170M at listing); sold for $32.4M in January 2026* [[American Bitcoin]] · 2025-09 · $170M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *created, owns about 90%* [[American Ventures]] · 2026 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Justin Sun]] *founder* [[Tron]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Kyle Wool]] *president; head of Dominari Securities* [[Dominari Holdings Dominari Securities]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Omeed Malik]] *CEO/sponsor* [[Colombier Acquisition Corp. II]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+
+### Family (3)
+
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *father of* [[Eric Trump]] · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *brother* [[Eric Trump]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+
+### Regulatory (4)
+
+- [[FINRA]] *fined $800,000 (AML/supervision, small-cap IPOs)* [[Revere Securities LLC]] · 2026 · $800K · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[D. Boral Capital]] · 2026-03-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Revere Securities LLC]] · 2026-03-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+
+### Advisory (5)
+
+- [[Donald Trump Jr]] *advisory board member and shareholder* [[Unusual Machines]] · 2024-11-27 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *adviser (advisory board)* [[Dominari Holdings Dominari Securities]] · 2025-02-10 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Eric Trump]] *adviser (advisory board)* [[Dominari Holdings Dominari Securities]] · 2025-02-10 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *director; about 300,000 shares (about $3M)* [[GrabAGun Digital Holdings]] · 2025-07 · $3M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Kyle Wool]] *board / advisory board member* [[New America Acquisition I Corp]] · 2025-08 · [[C27 New America Acquisition I Corp SPAC|C27]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+
+### Political (1)
+
+- [[House Select Committee on the CCP]] *committee of the House* [[US Congress]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+
+### Legal (1)
+
+- [[Securities and Exchange Commission]] *charged over pump-and-dump (2018; settled 2019)* [[Barry Honig]] · 2018-09 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+
+### Media (4)
+
+- [[Financial Times]] *reported pre-announcement surge* [[Dominari Holdings Dominari Securities]] · 2025-03 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Forbes]] *flagged pre-announcement trading* [[Dominari Holdings Dominari Securities]] · 2025-03 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Bloomberg]] *investigative reporting* [[Dominari Holdings Dominari Securities]] · 2025-05-19 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[The Wall Street Journal]] *profile 'go-to dealmaker'* [[Dominari Holdings Dominari Securities]] · 2025-08-19 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+
+### Commercial (7)
+
+- [[Dominari Holdings Dominari Securities]] *tenant in Trump Tower (two leases, more than $62K/month)* [[Trump Organization]] · 2025 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *placement agent ($40M, $48.5M; co-agent on about $150M) and shareholder* [[Unusual Machines]] · 2025-05 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *exclusive placement agent for $100M (up to $210M) TRX-treasury deal* [[SRM Entertainment Tron Inc]] · 2025-06 · $100M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Justin Sun]] *Tron deal / adviser to Tron Inc* [[SRM Entertainment Tron Inc]] · 2025-06 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Colombier Acquisition Corp. II]] *SPAC merger (about $179M raised)* [[GrabAGun Digital Holdings]] · 2025-07 · $179M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *placement agent ($6M preferred; $50M offering)* [[Thumzup Media]] · 2025-07 · $50M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+
+## Leads not covered here
+
+- **Dominari's SRM/Tron Inc. deal with Justin Sun**
+  - A Trump-sons-linked bank placed a $100M-$210M TRX treasury deal for Justin Sun (a WLF investor, C05); SRM rose more than 500% and the position showed more than $120M in paper gains.
+  - [[Dominari Holdings Dominari Securities]] [[Justin Sun]] [[SRM Entertainment Tron Inc]] [[Tron]] [[Eric Trump]] · [Source](https://www.nbcnewyork.com/news/business/money-report/justin-suns-tron-to-go-public-through-reverse-merger-in-deal-led-by-trump-linked-bank/6304541/)
+- **American Ventures: Dominari's $1B microcap fund with Trump-son investors**
+  - A 2026 vehicle that is about 90% Dominari-owned, with the sons as investors, booking warrant-driven paper gains on microcaps in drones, AI and crypto sectors favored by administration policy.
+  - [[American Ventures]] [[Dominari Holdings Dominari Securities]] [[Donald Trump Jr]] [[Eric Trump]] · [Source](https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps)
+- **Skyline Builders / Cove Kaz Kazakhstan tungsten deal with up to $1.6B US-government-linked financing**
+  - The sons bought into Skyline via a Dominari-tied vehicle before it merged with a tungsten venture backed by US financing; the Trump Organization denies any involvement.
+  - [[Skyline Builders Group]] [[Donald Trump Jr]] [[Eric Trump]] [[Dominari Holdings Dominari Securities]] · [Source](https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/)
+- **House China committee probe of Dominari's Chinese 'ramp-and-dump' IPOs**
+  - The only formal government scrutiny of the Trump-sons-linked bank; the outcome and document production are unknown.
+  - [[House Select Committee on the CCP]] [[Dominari Holdings Dominari Securities]] [[D. Boral Capital]] [[Revere Securities LLC]] · [Source](https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-moolenaar-investigate-us-underwriters-helped-chinese-businesses-rip)
+- **FINRA's $800K fine on Revere Securities and Kyle Wool's tenure**
+  - Wool ran Revere from 2022; it is unclear whether the sanctioned small-cap IPO conduct overlaps his tenure.
+  - [[Revere Securities LLC]] [[Kyle Wool]] [[FINRA]] · [Source](https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and)
+
+## Sources (38)
 
 1. [Dominari Holdings Form 10-K FY2025](https://www.sec.gov/Archives/edgar/data/12239/000121390026036897/ea0283159-10k_domin.htm) (SEC EDGAR, 2026)
 2. [How an Obscure Firm Bet on the Trumps and Became Their Go-To Dealmaker (syndicated)](https://www.itiger.com/news/2560137003) (Wall Street Journal, 2025-08-19)

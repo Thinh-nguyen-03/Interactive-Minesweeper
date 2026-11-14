@@ -10,9 +10,13 @@ tags:
 ---
 # Tony Isaac
 
-*person*
-
 ALT5 president, later acting CEO.
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ ALT5 president, later acting CEO.
 
 ## Relationships
 
-- [[Tony Isaac]] *president, then acting CEO* [[ALT5 Sigma]] (2025-11, commercial) · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+### Commercial (1)
+
+- [[Tony Isaac]] *president, then acting CEO* [[ALT5 Sigma]] · 2025-11 · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]

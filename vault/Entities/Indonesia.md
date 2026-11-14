@@ -10,9 +10,13 @@ tags:
 ---
 # Indonesia
 
-*country*
-
 Halted the MNC Lido project Feb 2025; got a 19% tariff deal July 2025
+
+| | |
+|---|---|
+| Type | Country |
+| Appears in | 2 claims |
+| Connections | 4 |
 
 ## Appears in claims
 
@@ -21,5 +25,7 @@ Halted the MNC Lido project Feb 2025; got a 19% tariff deal July 2025
 
 ## Relationships
 
-- [[Donald Trump]] *cut tariff from 32% to 19% in deal with* [[Indonesia]] (2025-07-15, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Indonesia]] *ordered halt of Lido development* [[MNC Group MNC Land]] (2025-02-06, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Regulatory (2)
+
+- [[Indonesia]] *ordered halt of Lido development* [[MNC Group MNC Land]] · 2025-02-06 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Donald Trump]] *cut tariff from 32% to 19% in deal with* [[Indonesia]] · 2025-07-15 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

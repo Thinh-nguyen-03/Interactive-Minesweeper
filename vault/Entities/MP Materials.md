@@ -10,9 +10,13 @@ tags:
 ---
 # MP Materials
 
-*company*
-
 Rare-earth miner; DoD equity stake and price floor (Jul 2025); no family tie found
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Rare-earth miner; DoD equity stake and price floor (Jul 2025); no family tie fou
 
 ## Relationships
 
-- [[Pentagon (Department of Defense)]] *equity stake and NdPr price floor* [[MP Materials]] (2025-07, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+### Money (1)
+
+- [[Pentagon (Department of Defense)]] *equity stake and NdPr price floor* [[MP Materials]] · 2025-07 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

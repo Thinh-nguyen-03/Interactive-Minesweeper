@@ -2,23 +2,33 @@
 id: "databricks"
 kind: "entity"
 type: "company"
-connections: 3
-claims: 1
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/company"
 ---
 # Databricks
 
-*company*
-
 Thrive-backed data company; reported GSA sole-source award
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 4 |
 
 ## Appears in claims
 
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Pending
 
 ## Relationships
 
-- [[General Services Administration]] *reported sole-source contract (single-source)* [[Databricks]] (2026, commercial) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Thrive Capital]] *investor in* [[Databricks]] (money) · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+### Money (1)
+
+- [[Thrive Capital]] *investor in* [[Databricks]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+
+### Commercial (1)
+
+- [[General Services Administration]] *reported sole-source contract (single-source)* [[Databricks]] · 2026 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

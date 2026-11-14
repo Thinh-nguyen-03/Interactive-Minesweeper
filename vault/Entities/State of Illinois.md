@@ -10,9 +10,13 @@ tags:
 ---
 # State of Illinois
 
-*government*
-
 Sued by CFTC 2026-04-02.
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Sued by CFTC 2026-04-02.
 
 ## Relationships
 
-- [[Commodity Futures Trading Commission]] *sued over prediction markets* [[State of Illinois]] (2026-04-02, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+### Legal (1)
+
+- [[Commodity Futures Trading Commission]] *sued over prediction markets* [[State of Illinois]] · 2026-04-02 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]

@@ -12,9 +12,16 @@ tags:
 ---
 # WLTC Holdings LLC
 
-*company*
-
 WLF subsidiary that filed the OCC trust bank charter application
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 6 claims |
+| Connections | 11 |
+| Also known as | WLTC Holdings |
+
+## How other claims describe it
 
 - Delaware parent of World Liberty Trust Company, N.A.
 - Parent of WLF's proposed national trust bank.
@@ -33,18 +40,23 @@ WLF subsidiary that filed the OCC trust bank charter application
 
 ## Relationships
 
-- [[DT Marks SC LLC]] *passive investor in (OCC CD #1385); ~38% Trump-family stake reported* [[WLTC Holdings LLC]] (2026-08-14, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[DT Marks SC LLC]] *reportedly owns about 38% of* [[WLTC Holdings LLC]] (2026-08-27, ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Office of the Comptroller of the Currency]] *preliminary conditional approval* [[WLTC Holdings LLC]] (2026-08-14, regulatory) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[StringZ Holding RSC (DE) LLC]] *passive investor; reportedly 49% (WSJ, anonymous)* [[WLTC Holdings LLC]] (2026-08, ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[StringZ Holding RSC (DE) LLC]] *reported 49% owner; OCC-listed passive investor* [[WLTC Holdings LLC]] (2026-08-14, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[StringZ Holding RSC (DE) LLC]] *reportedly owns 49% (WSJ, anonymous sources)* [[WLTC Holdings LLC]] (2026-08-27, ownership) · [[C42 How World Liberty insiders took money out|C42]]
-- [[StringZ Holding RSC (DE) LLC]] *reportedly owns 49% of* [[WLTC Holdings LLC]] (2026-08-27, ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[WLTC Holdings LLC]] *applied for national trust bank charter to* [[Office of the Comptroller of the Currency]] (2026-01-05, regulatory) · [[C12 WLF bank charter from the OCC|C12]]
-- [[WLTC Holdings LLC]] *shares indirect common owners with (OCC)* [[World Liberty Financial]] (2026-08-14, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[WLTC Holdings LLC]] *holding company of* [[World Liberty Trust Company, N.A]] (ownership) · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[WLTC Holdings LLC]] *parent of* [[World Liberty Trust Company, N.A]] (ownership) · [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[WLTC Holdings LLC]] *wholly owns* [[World Liberty Trust Company, N.A]] (2026-01-05, ownership) · [[C63 Shell entities and ownership chains|C63]]
-- [[World Liberty Financial]] *parent of* [[WLTC Holdings LLC]] (2026-01, ownership) · [[C12 WLF bank charter from the OCC|C12]]
-- [[World Liberty Financial]] *subsidiary* [[WLTC Holdings LLC]] (ownership) · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[World Liberty Financial]] *trust-bank applicant affiliate* [[WLTC Holdings LLC]] (2026-01, ownership) · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+### Ownership (13)
+
+- [[World Liberty Financial]] *parent of* [[WLTC Holdings LLC]] · 2026-01 · [[C12 WLF bank charter from the OCC|C12]]
+- [[World Liberty Financial]] *trust-bank applicant affiliate* [[WLTC Holdings LLC]] · 2026-01 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[WLTC Holdings LLC]] *wholly owns* [[World Liberty Trust Company, N.A]] · 2026-01-05 · [[C63 Shell entities and ownership chains|C63]]
+- [[StringZ Holding RSC (DE) LLC]] *passive investor; reportedly 49% (WSJ, anonymous)* [[WLTC Holdings LLC]] · 2026-08 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[StringZ Holding RSC (DE) LLC]] *reportedly owns 49% of* [[WLTC Holdings LLC]] · 2026-08 · [[C12 WLF bank charter from the OCC|C12]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[DT Marks SC LLC]] *passive investor in (OCC CD #1385); ~38% Trump-family stake reported* [[WLTC Holdings LLC]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
+- [[StringZ Holding RSC (DE) LLC]] *reported 49% owner; OCC-listed passive investor* [[WLTC Holdings LLC]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
+- [[WLTC Holdings LLC]] *shares indirect common owners with (OCC)* [[World Liberty Financial]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
+- [[DT Marks SC LLC]] *reportedly owns about 38% of* [[WLTC Holdings LLC]] · 2026-08-27 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[StringZ Holding RSC (DE) LLC]] *reportedly owns 49% (WSJ, anonymous sources)* [[WLTC Holdings LLC]] · 2026-08-27 · [[C42 How World Liberty insiders took money out|C42]]
+- [[WLTC Holdings LLC]] *holding company of* [[World Liberty Trust Company, N.A]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[WLTC Holdings LLC]] *parent of* [[World Liberty Trust Company, N.A]] · [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[World Liberty Financial]] *subsidiary* [[WLTC Holdings LLC]] · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+
+### Regulatory (2)
+
+- [[WLTC Holdings LLC]] *applied for national trust bank charter to* [[Office of the Comptroller of the Currency]] · 2026-01-05 · [[C12 WLF bank charter from the OCC|C12]]
+- [[Office of the Comptroller of the Currency]] *preliminary conditional approval* [[WLTC Holdings LLC]] · 2026-08-14 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]

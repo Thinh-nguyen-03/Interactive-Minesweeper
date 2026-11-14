@@ -10,9 +10,13 @@ tags:
 ---
 # J. Paul Oetken
 
-*person*
-
 SDNY judge in Intercept v. Trump
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ SDNY judge in Intercept v. Trump
 
 ## Relationships
 
-- [[J. Paul Oetken]] *presiding judge; PI decision reserved* [[The Intercept Media, Inc. v. Trump (1 26-cv-06867, SDNY)]] (2026-10, legal) · [[C58 Market-moving posts and insider-trading allegations|C58]]
+### Legal (1)
+
+- [[J. Paul Oetken]] *presiding judge; PI decision reserved* [[The Intercept Media, Inc. v. Trump (1 26-cv-06867, SDNY)]] · 2026-10 · [[C58 Market-moving posts and insider-trading allegations|C58]]

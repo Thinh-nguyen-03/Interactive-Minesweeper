@@ -10,9 +10,13 @@ tags:
 ---
 # Kush Desai
 
-*person*
-
 White House spokesman
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 1 |
 
 ## Appears in claims
 

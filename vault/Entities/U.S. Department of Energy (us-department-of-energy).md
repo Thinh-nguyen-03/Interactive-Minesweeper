@@ -10,9 +10,13 @@ tags:
 ---
 # U.S. Department of Energy
 
-*government*
-
 Lender to and shareholder in Lithium Americas
+
+| | |
+|---|---|
+| Type | Government body |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Lender to and shareholder in Lithium Americas
 
 ## Relationships
 
-- [[U.S. Department of Energy (us-department-of-energy)]] *~5% equity stake in loan restructuring* [[Lithium Americas]] (2025-10, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+### Money (1)
+
+- [[U.S. Department of Energy (us-department-of-energy)]] *~5% equity stake in loan restructuring* [[Lithium Americas]] · 2025-10 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

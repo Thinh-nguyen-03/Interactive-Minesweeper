@@ -6,7 +6,7 @@ tags:
 ---
 # Insider gains alongside retail investor losses
 
-Coins and stocks that paid the family billions are down 90%+ for the supporters who bought them.
+- Coins and stocks that paid the family billions are down 90%+ for the supporters who bought them.
 
 ## Claims
 

@@ -2,22 +2,29 @@
 id: "george-sorial"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/person"
 ---
 # George Sorial
 
-*person*
-
 Former Trump Organization counsel; Javelin co-founder
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 2 claims |
+| Connections | 3 |
 
 ## Appears in claims
 
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Pending
 
 ## Relationships
 
-- [[George Sorial]] *co-founder* [[Javelin Advisors]] (ownership) · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+### Ownership (1)
+
+- [[George Sorial]] *co-founder* [[Javelin Advisors]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]

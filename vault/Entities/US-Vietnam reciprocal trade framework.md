@@ -10,9 +10,13 @@ tags:
 ---
 # US-Vietnam reciprocal trade framework
 
-*event*
-
 20% tariff (from 46% threatened), 40% transshipment; framework 26 Oct 2025
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ tags:
 
 ## Relationships
 
-- [[Donald Trump]] *announced 20% tariff deal* [[US-Vietnam reciprocal trade framework]] (2025-07-02, political) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[US-Vietnam reciprocal trade framework]] *cut threatened tariff from 46% to 20% for* [[Vietnam]] (2025-07, regulatory) · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+### Regulatory (1)
+
+- [[US-Vietnam reciprocal trade framework]] *cut threatened tariff from 46% to 20% for* [[Vietnam]] · 2025-07 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Political (1)
+
+- [[Donald Trump]] *announced 20% tariff deal* [[US-Vietnam reciprocal trade framework]] · 2025-07-02 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]

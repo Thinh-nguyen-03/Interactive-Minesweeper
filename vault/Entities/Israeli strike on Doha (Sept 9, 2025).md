@@ -10,9 +10,13 @@ tags:
 ---
 # Israeli strike on Doha (Sept 9, 2025)
 
-*event*
-
 Israeli strike on Hamas leaders in Doha; disputed US advance warning via Witkoff
+
+| | |
+|---|---|
+| Type | Event |
+| Appears in | 1 claim |
+| Connections | 3 |
 
 ## Appears in claims
 
@@ -20,5 +24,10 @@ Israeli strike on Hamas leaders in Doha; disputed US advance warning via Witkoff
 
 ## Relationships
 
-- [[Karoline Leavitt]] *said Witkoff warned Qatar beforehand* [[Israeli strike on Doha (Sept 9, 2025)]] (2025-09-09, media) · [[C53 The Witkoff family's own Gulf money|C53]]
-- [[Steve Witkoff]] *told by Trump to warn Qatar (timing disputed)* [[Israeli strike on Doha (Sept 9, 2025)]] (2025-09-09, political) · [[C53 The Witkoff family's own Gulf money|C53]]
+### Political (1)
+
+- [[Steve Witkoff]] *told by Trump to warn Qatar (timing disputed)* [[Israeli strike on Doha (Sept 9, 2025)]] · 2025-09-09 · [[C53 The Witkoff family's own Gulf money|C53]]
+
+### Media (1)
+
+- [[Karoline Leavitt]] *said Witkoff warned Qatar beforehand* [[Israeli strike on Doha (Sept 9, 2025)]] · 2025-09-09 · [[C53 The Witkoff family's own Gulf money|C53]]

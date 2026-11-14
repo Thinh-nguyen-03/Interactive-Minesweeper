@@ -15,7 +15,43 @@ tags:
 ---
 # C26: 1789 Capital and Vulcan Elements
 
-**Verdict:** Mostly accurate (confidence: medium)
+**Verdict:** Mostly accurate · medium confidence  
+**Origin:** Claim from the video · transcript lines 737-799
+
+## Bottom line
+
+Don Jr. is a 1789 Capital partner.
+
+## What holds up
+
+- Don Jr. is a partner at 1789 Capital.
+- 1789 Capital has over $1 billion in assets.
+- 1789 reportedly has returns of over 200% (mostly accurate)
+- 1789 invested in Vulcan Elements shortly before Vulcan announced a ~$1B, 10,000-metric-ton magnet facility enabled by a US government partnership (mostly accurate)
+- ProPublica reported 'the call came from the White House: we have to get this deal done' and that Vulcan's was the only deal initiated by a top aide to the president.
+- 1789 says it is a passive minority growth-equity investor and does not call the government.
+
+## What needs correcting
+
+- 1789 profits by investing in companies that get government contracts, which Don Jr. is skilled at anticipating (misleading)
+- **Video said:** 1789 bought 'right before' the government got involved  
+  **Record shows:** It invested in August 2025, about three months before the 2025-11-03 announcement.
+- **Claim:** Transcript frames it as a Pentagon 'contract'  
+  **Record:** It was a $620M Office of Strategic Capital direct loan (initially conditional) plus $50M in Commerce CHIPS incentives and government warrants or equity.
+- **Claim:** Transcript quotes 'We have to get this deal done'  
+  **Record:** ProPublica's quote is 'The call came from the White House: We have to get this done.'
+- **Video said:** 'over one billion dollars in assets'  
+  **Record shows:** That was the September 2025 figure, and 2026 reports put 1789 at about $2-3.5B.
+- **Video said:** Returns of 'over 200 percent'  
+  **Record shows:** The NYT reported roughly or nearly 200% (unrealized) as of 2026-06-30.
+- ProPublica identifies the White House aide who initiated the deal as Peter Navarro, not Don Jr. or 1789.
+
+## In more detail
+
+- The firm passed $1B in assets in September 2025 and later grew to roughly $2-3.5B. The NYT reported returns of roughly 200% as of mid-2026.
+- 1789 invested in Vulcan Elements in August 2025, about three months before a $1.4B government-backed package that included a $620M Pentagon Office of Strategic Capital loan.
+- ProPublica did report that the deal was the only one initiated by a top White House aide (Peter Navarro) and quoted 'The call came from the White House: We have to get this done.'
+- The video compresses the timing, calls the loan a 'contract', and implies Don Jr. anticipated or arranged the deal, which no reporting documents; he and 1789 deny any role.
 
 ## What the video said
 
@@ -27,54 +63,81 @@ tags:
 - [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-
-## Summary
-
-Don Jr. is a 1789 Capital partner. The firm passed $1B in assets in September 2025 and later grew to roughly $2-3.5B. The NYT reported returns of roughly 200% as of mid-2026. 1789 invested in Vulcan Elements in August 2025, about three months before a $1.4B government-backed package that included a $620M Pentagon Office of Strategic Capital loan. ProPublica did report that the deal was the only one initiated by a top White House aide (Peter Navarro) and quoted 'The call came from the White House: We have to get this done.' The video compresses the timing, calls the loan a 'contract', and implies Don Jr. anticipated or arranged the deal, which no reporting documents; he and 1789 deny any role.
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
 
 ## Sub-claims
 
-- **Confirmed**: Don Jr. is a partner at 1789 Capital.
-  - He joined as a partner in November 2024. The firm was co-founded by Omeed Malik, with Chris Buskirk. He reportedly does not sit on the growth fund's investment committee.
-  - <https://www.bloomberg.com/news/articles/2024-11-12/don-trump-jr-opts-out-of-white-house-to-join-1789-capital>
-  - <https://www.axios.com/2026/08/13/1789-capital-real-estate-fund>
-- **Confirmed**: 1789 Capital has over $1 billion in assets.
-  - Reuters reported over $1B on 2025-09-08. Later 2026 reporting puts it at about $2B (growth fund) to about $3.5B in total, plus a $1.2B real-estate fund closed in August 2026, so the video's figure is dated and understated.
-  - <https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/>
-  - <https://foxbusiness.com/markets/trump-jr-backed-investment-fund-explodes-200m-2b-single-year-closing-doors>
-  - <https://letsdatascience.com/news/1789-capital-reports-aum-surge-to-35b-36f60c3e>
-- **Mostly accurate**: 1789 reportedly has returns of over 200%.
-  - The NYT (Maureen Farrell, 2026-07-22) reported roughly or nearly 200% returns for the main fund as of 2026-06-30, driven largely by Polymarket. These are unrealized, early-stage figures; PitchBook puts the average for 2023-vintage funds at about 21%.
-  - <https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/>
-  - <https://www.webull.com/news/15278087923966976>
-- **Mostly accurate**: 1789 invested in Vulcan Elements shortly before Vulcan announced a ~$1B, 10,000-metric-ton magnet facility enabled by a US government partnership.
-  - 1789 joined Vulcan's $65M Series A in August 2025, reportedly at about a $200M valuation. On 2025-11-03 Vulcan, ReElement and the Department of War/Commerce announced a $1.4B package: a $620M OSC loan to Vulcan, $50M in CHIPS incentives, an $80M OSC loan to ReElement, about $550M in private capital, and government warrants or equity, for a 10,000 t/yr magnet plant. The site in Benson, NC (about $918M) was announced on 2025-11-18. The gap was about three months, not 'right before'.
-  - <https://www.axios.com/local/raleigh/2025/11/03/north-carolina-startup-vulcan-gets-1-billion-for-new-rare-earth-magnets-factory>
-  - <https://techcrunch.com/?p=3072196>
-  - <https://www.mining.com/?p=1192089>
-  - <https://ncnewsline.com/2025/11/18/stein-announces-1b-rare-earth-magnet-plant-in-johnston-county/>
-  - <https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Vulcan_Elements>
-- **Misleading**: 1789 profits by investing in companies that get government contracts, which Don Jr. is skilled at anticipating.
-  - Several portfolio companies have won federal money, and Don Jr.-linked Unusual Machines was under review for its own Pentagon loan. But no reporting documents that Don Jr. had foreknowledge or was involved. Vulcan's award was a loan with warrants, not a contract.
-  - <https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house>
-- **Confirmed**: ProPublica reported 'the call came from the White House: we have to get this deal done' and that Vulcan's was the only deal initiated by a top aide to the president.
-  - ProPublica (Robert Faturechi, 2026-05-28) reported that White House adviser Peter Navarro, described as a friend of Don Jr., initiated the deal. A Pentagon official is quoted: 'The call came from the White House: We have to get this done.' The video inserts the word 'deal'. Of the dozens of companies under consideration, Vulcan's was the only one initiated by a top presidential aide, and it closed in weeks rather than months.
-  - <https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house>
-  - <https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/>
-  - <https://www.wunc.org/term/news/2026-05-28/vulcan-white-house-donald-trump-jr-620-million-deal>
-- **Confirmed**: 1789 says it is a passive minority growth-equity investor and does not call the government.
-  - This is the firm's stated position. 1789 told ProPublica it played no role and did not know of the loan before it was public. A Trump Jr. spokesperson said he does not discuss portfolio companies with officials and did not speak to Navarro about Vulcan. The exact quoted wording and the speaker in the clip could not be independently located.
-  - <https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house>
-  - <https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/>
+### 1. Don Jr. is a partner at 1789 Capital.
 
-## Corrections
+**Confirmed**
 
-- Transcript says 1789 bought 'right before' the government got involved; it invested in August 2025, about three months before the 2025-11-03 announcement.
-- Transcript frames it as a Pentagon 'contract'; it was a $620M Office of Strategic Capital direct loan (initially conditional) plus $50M in Commerce CHIPS incentives and government warrants or equity.
-- Transcript quotes 'We have to get this deal done'; ProPublica's quote is 'The call came from the White House: We have to get this done.'
-- Transcript says 'over one billion dollars in assets'; that was the September 2025 figure, and 2026 reports put 1789 at about $2-3.5B.
-- Transcript says returns of 'over 200 percent'; the NYT reported roughly or nearly 200% (unrealized) as of 2026-06-30.
-- ProPublica identifies the White House aide who initiated the deal as Peter Navarro, not Don Jr. or 1789.
+- He joined as a partner in November 2024.
+- The firm was co-founded by Omeed Malik, with Chris Buskirk.
+- He reportedly does not sit on the growth fund's investment committee.
+- Dates: November 2024
+- Sources: [1](https://www.bloomberg.com/news/articles/2024-11-12/don-trump-jr-opts-out-of-white-house-to-join-1789-capital) [6](https://www.axios.com/2026/08/13/1789-capital-real-estate-fund)
+
+### 2. 1789 Capital has over $1 billion in assets.
+
+**Confirmed**
+
+- Reuters reported over $1B on 2025-09-08.
+- Later 2026 reporting puts it at about $2B (growth fund) to about $3.5B in total, plus a $1.2B real-estate fund closed in August 2026, so the video's figure is dated and understated.
+- Amounts: over $1B; about $2B; about $3.5B; $1.2B
+- Dates: 2025-09-08; August 2026
+- Sources: [2](https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/) [5](https://foxbusiness.com/markets/trump-jr-backed-investment-fund-explodes-200m-2b-single-year-closing-doors) [7](https://letsdatascience.com/news/1789-capital-reports-aum-surge-to-35b-36f60c3e)
+
+### 3. 1789 reportedly has returns of over 200%.
+
+**Mostly accurate**
+
+- The NYT (Maureen Farrell, 2026-07-22) reported roughly or nearly 200% returns for the main fund as of 2026-06-30, driven largely by Polymarket.
+- These are unrealized, early-stage figures; PitchBook puts the average for 2023-vintage funds at about 21%.
+- Amounts: nearly 200%; about 21%
+- Dates: 2026-07-22; 2026-06-30
+- Sources: [3](https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/) [4](https://www.webull.com/news/15278087923966976)
+
+### 4. 1789 invested in Vulcan Elements shortly before Vulcan announced a ~$1B, 10,000-metric-ton magnet facility enabled by a US government partnership.
+
+**Mostly accurate**
+
+- 1789 joined Vulcan's $65M Series A in August 2025, reportedly at about a $200M valuation.
+- On 2025-11-03 Vulcan, ReElement and the Department of War/Commerce announced a $1.4B package: a $620M OSC loan to Vulcan, $50M in CHIPS incentives, an $80M OSC loan to ReElement, about $550M in private capital, and government warrants or equity, for a 10,000 t/yr magnet plant.
+- The site in Benson, NC (about $918M) was announced on 2025-11-18.
+- The gap was about three months, not 'right before'.
+- Amounts: $65M; $200M; $1.4B; $620M; $50M
+- Dates: August 2025; 2025-11-03; 2025-11-18
+- Sources: [9](https://www.axios.com/local/raleigh/2025/11/03/north-carolina-startup-vulcan-gets-1-billion-for-new-rare-earth-magnets-factory) [10](https://techcrunch.com/?p=3072196) [11](https://www.mining.com/?p=1192089) [12](https://ncnewsline.com/2025/11/18/stein-announces-1b-rare-earth-magnet-plant-in-johnston-county/) [8](https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Vulcan_Elements)
+
+### 5. 1789 profits by investing in companies that get government contracts, which Don Jr. is skilled at anticipating.
+
+**Misleading**
+
+- Several portfolio companies have won federal money, and Don Jr.-linked Unusual Machines was under review for its own Pentagon loan.
+- But no reporting documents that Don Jr. had foreknowledge or was involved.
+- Vulcan's award was a loan with warrants, not a contract.
+- Sources: [13](https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house)
+
+### 6. ProPublica reported 'the call came from the White House: we have to get this deal done' and that Vulcan's was the only deal initiated by a top aide to the president.
+
+**Confirmed**
+
+- ProPublica (Robert Faturechi, 2026-05-28) reported that White House adviser Peter Navarro, described as a friend of Don Jr., initiated the deal.
+- A Pentagon official is quoted: 'The call came from the White House: We have to get this done.'
+- The video inserts the word 'deal'.
+- Of the dozens of companies under consideration, Vulcan's was the only one initiated by a top presidential aide, and it closed in weeks rather than months.
+- Dates: 2026-05-28
+- Sources: [13](https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house) [14](https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/) [15](https://www.wunc.org/term/news/2026-05-28/vulcan-white-house-donald-trump-jr-620-million-deal)
+
+### 7. 1789 says it is a passive minority growth-equity investor and does not call the government.
+
+**Confirmed**
+
+- This is the firm's stated position.
+- 1789 told ProPublica it played no role and did not know of the loan before it was public.
+- A Trump Jr. spokesperson said he does not discuss portfolio companies with officials and did not speak to Navarro about Vulcan.
+- The exact quoted wording and the speaker in the clip could not be independently located.
+- Sources: [13](https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house) [3](https://www.bostonglobe.com/2026/07/22/business/donald-trump-jr-investments-white-house/)
 
 ## Denials and context
 
@@ -94,72 +157,106 @@ Don Jr. is a 1789 Capital partner. The firm passed $1B in assets in September 20
 
 ## People and organisations
 
-- [[1789 Capital]]
-- [[China]]
-- [[Chris Buskirk]]
-- [[Donald Trump]]
-- [[Donald Trump Jr]]
-- [[John Maslin]]
-- [[Office of Strategic Capital]]
-- [[Omeed Malik]]
-- [[Pentagon (Department of Defense)]]
-- [[Peter Navarro]]
-- [[Polymarket]]
-- [[ProPublica]]
-- [[Rare-earth magnets sector]]
-- [[ReElement Technologies]]
-- [[The New York Times]]
-- [[Unnamed top White House aide]]
-- [[Unusual Machines]]
-- [[US Congress]]
-- [[US Department of Commerce]]
-- [[US federal government]]
-- [[Vulcan $620M OSC loan $1.4B package]]
-- [[Vulcan 10,000-tonne magnet facility]]
-- [[Vulcan Elements]]
-- [[White House Trump administration]]
+- [[1789 Capital]] · Fund
+- [[China]] · Country
+- [[Chris Buskirk]] · Person
+- [[Donald Trump]] · Person
+- [[Donald Trump Jr]] · Person
+- [[John Maslin]] · Person
+- [[Office of Strategic Capital]] · Government body
+- [[Omeed Malik]] · Person
+- [[Pentagon (Department of Defense)]] · Government body
+- [[Peter Navarro]] · Person
+- [[Polymarket]] · Company
+- [[ProPublica]] · Media
+- [[Rare-earth magnets sector]] · Asset
+- [[ReElement Technologies]] · Company
+- [[The New York Times]] · Media
+- [[Unnamed top White House aide]] · Person
+- [[Unusual Machines]] · Company
+- [[US Congress]] · Government body
+- [[US Department of Commerce]] · Government body
+- [[US federal government]] · Government body
+- [[Vulcan $620M OSC loan $1.4B package]] · Event
+- [[Vulcan 10,000-tonne magnet facility]] · Asset
+- [[Vulcan Elements]] · Company
+- [[White House Trump administration]] · Government body
 
 ## Relationships documented
 
-- [[1789 Capital]] *invested in* [[Polymarket]] (2025-08, money) · [[C26 1789 Capital and Vulcan Elements|C26]] [[C58 Market-moving posts and insider-trading allegations|C58]]
-- [[1789 Capital]] *says it never calls* [[US federal government]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[1789 Capital]] *invested in* [[Vulcan Elements]] (money) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[1789 Capital]] *invested in $65M Series A of* [[Vulcan Elements]] (2025-08, money) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Chris Buskirk]] *co-founder and partner of* [[1789 Capital]] (ownership) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *adviser and shareholder of* [[Unusual Machines]] (2024-11, advisory) · [[C26 1789 Capital and Vulcan Elements|C26]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[John Maslin]] *CEO of* [[Vulcan Elements]] (ownership) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[The New York Times]] *reported ~200% returns of* [[1789 Capital]] (2026-07-22, media) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Office of Strategic Capital]] *office within* [[Pentagon (Department of Defense)]] (regulatory) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Office of Strategic Capital]] *$80M conditional loan to (withdrawn Jul 2026)* [[ReElement Technologies]] (2025-11-03, $80M, money) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Office of Strategic Capital]] *$620M direct loan to* [[Vulcan Elements]] (2025-11-03, $620M, money) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Omeed Malik]] *co-founder and CEO of* [[1789 Capital]] (2022, ownership) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Pentagon (Department of Defense)]] *deal partner of* [[Vulcan Elements]] (commercial) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Peter Navarro]] *described as friend of* [[Donald Trump Jr]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Peter Navarro]] *initiated Vulcan loan at (per ProPublica)* [[Office of Strategic Capital]] (2025, political) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Peter Navarro]] *adviser in* [[White House Trump administration]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[ProPublica]] *reported White House call on* [[Vulcan Elements]] (media) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[ProPublica]] *investigated* [[Vulcan $620M OSC loan $1.4B package]] (2026-05-28, media) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Unnamed top White House aide]] *initiated government deal for* [[Vulcan Elements]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Unnamed top White House aide]] *top aide in* [[White House Trump administration]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[US Department of Commerce]] *$50M CHIPS incentives/equity to* [[Vulcan Elements]] (2025-11-03, $50M, money) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[US Congress]] *Raskin inquiry into* [[1789 Capital]] (2026-08-26, legal) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[US Congress]] *Democrats demanded documents from* [[Vulcan Elements]] (2026-08-11, legal) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[US federal government]] *partnered on $1B facility with* [[Vulcan Elements]] ($1B, commercial) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Vulcan Elements]] *operates in* [[Rare-earth magnets sector]] (commercial) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Vulcan Elements]] *supply partner of* [[ReElement Technologies]] (2025-11, commercial) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Vulcan Elements]] *announced* [[Vulcan 10,000-tonne magnet facility]] ($1B, commercial) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Vulcan Elements]] *recipient of* [[Vulcan $620M OSC loan $1.4B package]] (2025-11-03, money) · [[C26 1789 Capital and Vulcan Elements|C26]]
+### Money (7)
 
-## Leads not covered by the video
+- [[1789 Capital]] *invested in* [[Polymarket]] · 2025-08 · [[C26 1789 Capital and Vulcan Elements|C26]] [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[1789 Capital]] *invested in $65M Series A of* [[Vulcan Elements]] · 2025-08 · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Office of Strategic Capital]] *$80M conditional loan to (withdrawn Jul 2026)* [[ReElement Technologies]] · 2025-11-03 · $80M · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Office of Strategic Capital]] *$620M direct loan to* [[Vulcan Elements]] · 2025-11-03 · $620M · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[US Department of Commerce]] *$50M CHIPS incentives/equity to* [[Vulcan Elements]] · 2025-11-03 · $50M · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Vulcan Elements]] *recipient of* [[Vulcan $620M OSC loan $1.4B package]] · 2025-11-03 · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[1789 Capital]] *invested in* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]
 
-- **Unusual Machines' pending Pentagon loan**: ProPublica reported that Don Jr. advises and holds a stake in drone-parts maker Unusual Machines, which is under review for its own Pentagon OSC loan. [source](https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house) · [[Donald Trump Jr]] [[Unusual Machines]] [[Office of Strategic Capital]]
-- **ReElement withdraws from its $80M OSC loan**: Vulcan's supply partner in the same package exited its conditional loan in July 2026, which raises questions about the deal's viability. [source](https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-jared-huffman-demand-documents-from-vulcan-elements-after-white-house-pushed-through-620-million-loan-to-company-tied-to-donald-trump-jr) · [[ReElement Technologies]] [[Vulcan Elements]] [[Office of Strategic Capital]]
-- **Raskin investigation of 1789 Capital insider access**: House Judiciary Democrats' August 2026 letter probes whether 1789 portfolio companies got federal benefits through access; 1789 has responded. [source](https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-malik-buskirk-trump-jr-1789-capital-re-insider-access.pdf) · [[1789 Capital]] [[Omeed Malik]] [[Chris Buskirk]] [[Donald Trump Jr]] [[US Congress]]
-- **Failed House vote to subpoena Don Jr. over the Vulcan deal**: Natural Resources Democrats forced a subpoena vote over the '$670 million' package; Republicans blocked it. [source](https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-democrats-force-vote-to-subpoena-donald-trump-jr-over-670-million-taxpayer-funded-deal) · [[Donald Trump Jr]] [[Vulcan Elements]] [[US Congress]]
+### Ownership (4)
 
-## Sources
+- [[Omeed Malik]] *co-founder and CEO of* [[1789 Capital]] · 2022 · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Chris Buskirk]] *co-founder and partner of* [[1789 Capital]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[John Maslin]] *CEO of* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+
+### Family (1)
+
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
+
+### Regulatory (1)
+
+- [[Office of Strategic Capital]] *office within* [[Pentagon (Department of Defense)]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+
+### Advisory (1)
+
+- [[Donald Trump Jr]] *adviser and shareholder of* [[Unusual Machines]] · 2024-11 · [[C26 1789 Capital and Vulcan Elements|C26]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+
+### Political (6)
+
+- [[Peter Navarro]] *initiated Vulcan loan at (per ProPublica)* [[Office of Strategic Capital]] · 2025 · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[1789 Capital]] *says it never calls* [[US federal government]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Peter Navarro]] *described as friend of* [[Donald Trump Jr]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Peter Navarro]] *adviser in* [[White House Trump administration]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Unnamed top White House aide]] *initiated government deal for* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Unnamed top White House aide]] *top aide in* [[White House Trump administration]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+
+### Legal (2)
+
+- [[US Congress]] *Democrats demanded documents from* [[Vulcan Elements]] · 2026-08-11 · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[US Congress]] *Raskin inquiry into* [[1789 Capital]] · 2026-08-26 · [[C26 1789 Capital and Vulcan Elements|C26]]
+
+### Media (3)
+
+- [[ProPublica]] *investigated* [[Vulcan $620M OSC loan $1.4B package]] · 2026-05-28 · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[The New York Times]] *reported ~200% returns of* [[1789 Capital]] · 2026-07-22 · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[ProPublica]] *reported White House call on* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+
+### Commercial (5)
+
+- [[Vulcan Elements]] *supply partner of* [[ReElement Technologies]] · 2025-11 · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Pentagon (Department of Defense)]] *deal partner of* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[US federal government]] *partnered on $1B facility with* [[Vulcan Elements]] · $1B · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Vulcan Elements]] *operates in* [[Rare-earth magnets sector]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Vulcan Elements]] *announced* [[Vulcan 10,000-tonne magnet facility]] · $1B · [[C26 1789 Capital and Vulcan Elements|C26]]
+
+## Leads not covered here
+
+- **Unusual Machines' pending Pentagon loan**
+  - ProPublica reported that Don Jr. advises and holds a stake in drone-parts maker Unusual Machines, which is under review for its own Pentagon OSC loan.
+  - [[Donald Trump Jr]] [[Unusual Machines]] [[Office of Strategic Capital]] · [Source](https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house)
+- **ReElement withdraws from its $80M OSC loan**
+  - Vulcan's supply partner in the same package exited its conditional loan in July 2026, which raises questions about the deal's viability.
+  - [[ReElement Technologies]] [[Vulcan Elements]] [[Office of Strategic Capital]] · [Source](https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-jared-huffman-demand-documents-from-vulcan-elements-after-white-house-pushed-through-620-million-loan-to-company-tied-to-donald-trump-jr)
+- **Raskin investigation of 1789 Capital insider access**
+  - House Judiciary Democrats' August 2026 letter probes whether 1789 portfolio companies got federal benefits through access; 1789 has responded.
+  - [[1789 Capital]] [[Omeed Malik]] [[Chris Buskirk]] [[Donald Trump Jr]] [[US Congress]] · [Source](https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-malik-buskirk-trump-jr-1789-capital-re-insider-access.pdf)
+- **Failed House vote to subpoena Don Jr. over the Vulcan deal**
+  - Natural Resources Democrats forced a subpoena vote over the '$670 million' package; Republicans blocked it.
+  - [[Donald Trump Jr]] [[Vulcan Elements]] [[US Congress]] · [Source](https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-democrats-force-vote-to-subpoena-donald-trump-jr-over-670-million-taxpayer-funded-deal)
+
+## Sources (22)
 
 1. [Donald Trump Jr. Opts Out of White House to Join 1789 Capital](https://www.bloomberg.com/news/articles/2024-11-12/don-trump-jr-opts-out-of-white-house-to-join-1789-capital) (Bloomberg, 2024-11-12)
 2. [Trump-linked venture fund 1789 Capital tops US$1 billion in assets](https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/) (Reuters via BNN Bloomberg, 2025-09-08)

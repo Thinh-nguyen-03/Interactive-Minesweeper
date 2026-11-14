@@ -10,9 +10,15 @@ tags:
 ---
 # Kaz Resources
 
-*company*
-
 Cove unit holding 70% of the Northern Katpar/Upper Kairakty tungsten deposits; post-merger ticker KAZR.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 claims |
+| Connections | 9 |
+
+## How other claims describe it
 
 - U.S. vehicle for the Upper Kairakty tungsten project; holds EXIM/DFC letters of interest
 
@@ -23,11 +29,22 @@ Cove unit holding 70% of the Northern Katpar/Upper Kairakty tungsten deposits; p
 
 ## Relationships
 
-- [[Cantor Fitzgerald]] *raised $210M for a project investment partner (NYT)* [[Kaz Resources]] ($210M, commercial) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Cove Kaz Capital Cove Capital]] *parent of* [[Kaz Resources]] (ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Donald Trump]] *announced Kazakhstan tungsten deal for* [[Kaz Resources]] (2025-11-06, political) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Export-Import Bank of the United States]] *letter of interest up to $900M* [[Kaz Resources]] (2025-11, $900M, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Skyline Builders Group]] *agreed to pay $20M for 20%* [[Kaz Resources]] (2025-10-31, $20M, money) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Skyline Builders Group]] *bought 20% for $20M* [[Kaz Resources]] (2025-10-31, $20M, ownership) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Tau-Ken Samruk]] *30% partner in tungsten project* [[Kaz Resources]] (ownership) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[US International Development Finance Corporation]] *letters of interest ~$700M* [[Kaz Resources]] (2025-11, $700M, money) · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+### Money (3)
+
+- [[Skyline Builders Group]] *agreed to pay $20M for 20%* [[Kaz Resources]] · 2025-10-31 · $20M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Export-Import Bank of the United States]] *letter of interest up to $900M* [[Kaz Resources]] · 2025-11 · $900M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[US International Development Finance Corporation]] *letters of interest ~$700M* [[Kaz Resources]] · 2025-11 · $700M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+
+### Ownership (3)
+
+- [[Skyline Builders Group]] *bought 20% for $20M* [[Kaz Resources]] · 2025-10-31 · $20M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Cove Kaz Capital Cove Capital]] *parent of* [[Kaz Resources]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Tau-Ken Samruk]] *30% partner in tungsten project* [[Kaz Resources]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+
+### Political (1)
+
+- [[Donald Trump]] *announced Kazakhstan tungsten deal for* [[Kaz Resources]] · 2025-11-06 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+
+### Commercial (1)
+
+- [[Cantor Fitzgerald]] *raised $210M for a project investment partner (NYT)* [[Kaz Resources]] · $210M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

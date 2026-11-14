@@ -10,9 +10,13 @@ tags:
 ---
 # Shawn Ryan
 
-*person*
-
 Ex-Navy SEAL podcaster and former Trump voter, now a critic
+
+| | |
+|---|---|
+| Type | Person |
+| Appears in | 1 claim |
+| Connections | 2 |
 
 ## Appears in claims
 
@@ -20,4 +24,6 @@ Ex-Navy SEAL podcaster and former Trump voter, now a critic
 
 ## Relationships
 
-- [[Shawn Ryan]] *former supporter turned critic; 'very self-serving'* [[Donald Trump]] (2026-06, political) · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+### Political (1)
+
+- [[Shawn Ryan]] *former supporter turned critic; 'very self-serving'* [[Donald Trump]] · 2026-06 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
