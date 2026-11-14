@@ -1,0 +1,1204 @@
+{
+  "id": "C72",
+  "title": "Pakistan: World Liberty deal, Trump-tied lobbyists, minerals and tariffs",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Every dated step in the brief is documented: the Seiden/Javelin/Checkmate hires, the 26 Apr 2025 WLF letter of intent (with Munir in attendance), the ceasefire, Munir's lunch, the Nobel nomination, the 19% tariff and oil deal, the USSM $500M minerals MoU, Bin Saqib's regulator admitting Binance and HTX, the 14 Jan 2026 USD1 MoU and the Sep 2026 Powerus order. The second layer adds Rep. Ronny Jackson (via Javelin filings, single-source), a minerals-focused Seiden mandate, and Squire Patton Boggs' 14 May 2025 minerals pitch. What is not substantiated is causation: no source shows the lobbyists arranged the WLF deal, the lunch, the tariff or the Powerus order. Seiden was hired before, not after, the Pahalgam attack.",
+  "sub_claims": [
+    {
+      "statement": "Timeline anchor: Seiden Law was hired before the Pahalgam attack; Javelin registered and WLF signed its letter of intent within days after it, with Munir in the room.",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented. Seiden Law (FARA 7570) signed with Pakistan on 2025-04-08, two weeks BEFORE the 2025-04-22 Pahalgam attack. Javelin Advisors (Keith Schiller, George Sorial) signed a consulting agreement dated 2025-04-24 and registered under FARA (No. 7579) on 2025-04-25, as Seiden's subcontractor. On 2025-04-26 Zach Witkoff, Zak Folkman and Chase Herro signed the WLF letter of intent with the Pakistan Crypto Council in Islamabad. Arab News and Dawn report that the delegation also met PM Shehbaz Sharif, army chief Gen. Asim Munir and Deputy PM Ishaq Dar. Business Today, citing Dawn, says Munir personally attended the closed-door session (secondary). The sequence is documented. That the hires and the letter of intent were coordinated is not reported anywhere (see 'Not connected').",
+      "sources": [
+        "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us",
+        "https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf",
+        "https://www.dawn.com/news/1906732",
+        "https://www.arabnews.pk/node/2598563",
+        "https://www.businesstoday.in/india/story/behind-donald-trumps-ceasefire-claim-a-family-crypto-deal-with-general-asim-munir-in-the-room-476657-2025-05-17",
+        "https://fortune.com/2025/05/10/india-pakistan-hostilities-us-ceasefire-kashmir-war-trump/"
+      ]
+    },
+    {
+      "statement": "Seiden Law's Pakistan mandate was explicitly about minerals, and it was passed to Trump's former bodyguard's firm.",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented (Global Witness analysis of FARA filings; Nukta; Dawn). Global Witness reports that the Seiden contract, $200K/month, was to 'promote the exploration and sale of' rare earths and other critical minerals for Pakistan, and that Seiden outsourced it to Javelin. It names Robert Seiden and George Sorial as Trump-circle figures representing Pakistan. Javelin's share was $50K/month (Politico, Dawn). An unofficial FARA-compilation site says Javelin's engagement ended on 2025-10-08 after four payments totalling $200K. Treat that termination detail as single-source. No 2026 renewal of either contract was found.",
+      "sources": [
+        "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid",
+        "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us",
+        "https://www.dawn.com/news/1907874",
+        "https://ithildin.pages.dev/dossiers/javelin-advisors-llc"
+      ]
+    },
+    {
+      "statement": "Javelin's filings put Trump's former White House physician, Rep. Ronny Jackson, in the minerals channel during the India-Pakistan conflict.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence: single-source. The Economic Times reported this from FARA filings by Javelin Advisors and Conscience Point Consulting (another Seiden subcontractor), and Business Today and others relayed it. The underlying filings could not be fetched here. Reported details: an in-person meeting between Jackson and Pakistani officials on 2025-05-01 on the rare-earths deal; a 2025-05-28 call followed by an email with a draft MoU, which Javelin's filing describes as 'Delivery of Proposed MoU'; and Javelin contacting Jackson's office during the 7-10 May conflict (ThePrint). Jackson (R-TX) was Trump's White House physician. No comment from Jackson was found. An unofficial site claims a $4,000 contribution to Jackson on 2025-10-28 tied to Javelin. That is unverified against FEC records and is not relied on.",
+      "sources": [
+        "https://www.businesstoday.in/world/us/story/ronny-jackson-former-white-house-doctor-identified-as-key-link-in-us-pakistans-500-million-mining-deal-509756-2026-01-07",
+        "https://www.bizzbuzz.news/international/trump-ally-ronny-jackson-linked-to-pakistans-500-million-mining-deal-during-op-sindoor-1383465",
+        "https://theprint.in/diplomacy/pakistans-lobbying-blitz-in-us-amid-op-sindoor-50-emails-worries-about-indias-resuming-strikes/2821399"
+      ]
+    },
+    {
+      "statement": "During Operation Sindoor, Pakistan's embassy lobbyists pitched a minerals-and-trade partnership to US officials.",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented (FARA filings as reported by ThePrint, IANS and others, Jan 2026). Squire Patton Boggs, the embassy's long-standing registrant, sent 50+ emails to Congress and officials between 7 and 10 May 2025, stressing fears that India would resume strikes. On 2025-05-14, four days after the ceasefire, it emailed a US diplomat about a renewed partnership 'centred on trade, especially mines and minerals.' Separately, the embassy hired Ervin Graves Strategy Group, partly on keeping Pakistan off the FATF grey list (Business Today). Most of this coverage comes from Indian outlets with an adversarial framing, but it rests on public filings.",
+      "sources": [
+        "https://theprint.in/diplomacy/pakistans-lobbying-blitz-in-us-amid-op-sindoor-50-emails-worries-about-indias-resuming-strikes/2821399",
+        "https://ianslive.in/pakistan-sought-us-help-during-op-sindoor-feared-resumption-of-indian-strikes-fara-documents--20260107181321",
+        "https://www.businesstoday.in/world/story/pakistan-used-lobbying-firms-to-get-us-govts-help-to-keep-it-out-of-fatf-grey-list-510991-2026-01-15"
+      ]
+    },
+    {
+      "statement": "Ceasefire -> Nobel nomination -> Munir lunch: Pakistan credited Trump, India did not.",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented. Trump announced the ceasefire on Truth Social on 2025-05-10. Pakistan's FM Ishaq Dar confirmed it. India says Pakistan's DGMO initiated it and rejects any US mediation. Trump hosted Munir for lunch on 2025-06-18 (Steve Witkoff present, per C64). On 2025-06-21 Pakistan formally nominated Trump for the Nobel Peace Prize over his 'decisive diplomatic engagement'. Dawn's insiders say the lunch was secured via 'unconventional means', without naming anyone. No source ties any paid lobbyist or WLF figure to arranging the lunch.",
+      "sources": [
+        "https://fortune.com/2025/05/10/india-pakistan-hostilities-us-ceasefire-kashmir-war-trump/",
+        "https://www.deccanherald.com/amp/story/india%2Findia-agrees-on-ceasefire-with-pakistan-contradicts-us-claims-of-mediation-3534621",
+        "https://www.dawn.com/news/1918044/army-chief-joins-trump-for-historic-white-house-lunch",
+        "https://www.dawn.com/news/1918057/trump-coas-meeting-secured-via-unconventional-means-say-insiders",
+        "https://ktvz.com/news/national-world/cnn-world/2025/06/21/pakistan-nominates-trump-for-nobel-peace-prize-praising-stellar-statemanship/"
+      ]
+    },
+    {
+      "statement": "Checkmate was paid via a Dubai entity for defence and minerals work.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence: the contract is documented; the paying entity's ownership is not established. Checkmate Government Relations (Ches McDowell, a Trump Jr. associate per C64) contracts not with Pakistan's government but with Dubai-based Greystone Investment & Management LLC, from 2025-05-15 (O'Dwyer's). Daily Times describes a two-year, $1.2M agreement covering defence cooperation and minerals ('support efforts to identify opportunities for cooperation' in the minerals sector). C64 cites a $100K Phase 1, so the figures vary by outlet. No coverage found names Greystone's owners or its tie to the Pakistani state. That is a gap, not a finding.",
+      "sources": [
+        "https://www.odwyerpr.com/story/public/23166/2025-06-18/checkmate-checks-for-pakistan.html",
+        "https://dailytimes.com.pk/1524579/defence-and-minerals-inside-pakistans-lobbying-push-in-washington/",
+        "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us"
+      ]
+    },
+    {
+      "statement": "Trade deal, 'massive oil reserves', 19% tariff and a first US crude cargo (Jul 2025).",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented. Around 2025-07-30, Trump announced a trade deal and said the US would help develop Pakistan's 'massive oil reserves' (no details). An executive order dated 2025-07-31 set a 19% tariff on Pakistani goods, down from the threatened 29%. Refiner Cnergyico bought a test cargo of about 1M barrels of WTI from Vitol, due in Karachi in the second half of Oct 2025, with possible monthly purchases. No Trump-family or WLF party appears in the oil or tariff steps.",
+      "sources": [
+        "https://tribune.com.pk/story/2559037/1",
+        "https://hydrocarbonprocessing.com/news/2025/07/pakistan-to-buy-first-ever-us-oil-cargo-in-cnergyico-deal-with-vitol/",
+        "https://www.dawn.com/news/1928182/1m-barrels-of-us-oil-to-arrive-in-oct",
+        "https://newsarenaindia.com/international/trump-imposes-19-tariffs-on-pakistan-after-oil-deal/51966"
+      ]
+    },
+    {
+      "statement": "Minerals chain: USSM-FWO $500M MoU, the Oval Office mineral box, the first shipment, the Pasni pitch and EXIM's Reko Diq loan.",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented. 2025-09-08: Missouri-based US Strategic Metals (CEO Stacy Hastie) signed a non-binding $500M MoU with the army's Frontier Works Organization at the PM's House, accompanied by the US embassy's acting DCM. 2025-09-26: Munir and Sharif presented Trump with a box of mineral samples in the Oval Office. Early Oct 2025: first consignment (antimony, copper concentrate, Nd/Pr rare earths) shipped to USSM; PTI demanded transparency. ~2025-10-04: the FT reported that Munir's advisers had pitched a US-built minerals port at Pasni (up to $1.2B). A Trump official said it was not discussed; a Pakistani military official said Munir has no official advisers. 2025-12-10: the US announced $1.25B in EXIM financing for Barrick's Reko Diq. No Trump-family stake in USSM, Reko Diq or Pasni was found.",
+      "sources": [
+        "https://www.dawn.com/news/1940515/us-metals-company-signs-500m-mou-with-pakistan-on-critical-minerals",
+        "https://www.ksat.com/tech/2025/09/08/us-firm-makes-a-500-million-investment-deal-with-pakistan-for-critical-minerals",
+        "https://aljazeera.com/news/2025/9/25/strategic-handshake-how-pakistan-is-wooing-trump-with-critical-minerals",
+        "https://www.arabnews.com/node/2617851/amp",
+        "https://www.dawn.com/news/1946904/pti-calls-for-transparency-after-first-us-mineral-shipment",
+        "https://www.scmp.com/news/asia/south-asia/article/3327865/pakistan-proposes-us-backed-port-deal-unlock-mineral-wealth-report",
+        "https://www.brecorder.com/news/40385837/pakistan-courts-us-with-pitch-for-new-arabian-sea-port-ft-reports",
+        "https://www.dawn.com/news/1960428/us-exim-bank-okays-12bn-for-reko-diq",
+        "https://www.arabnews.pk/node/2625697"
+      ]
+    },
+    {
+      "statement": "Bin Saqib's regulator opened Pakistan to Binance and Justin Sun's HTX (Dec 2025).",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented (Cointelegraph, The News, multiple Pakistani outlets). In Dec 2025 PVARA, chaired by former WLF adviser Bilal Bin Saqib (also PM's Special Assistant on blockchain and crypto), issued no-objection certificates to Binance and HTX, the first step toward licences. This came alongside a Binance MoU to explore tokenising up to $2B of state assets. CZ, pardoned by Trump in Oct 2025 (C09/C36), is a Pakistan Crypto Council adviser and attended. Justin Sun (C05), HTX's adviser, reportedly met Pakistani officials. Bin Saqib said on 2025-12-14 that the NOCs are not a blanket approval. This puts three WLF-linked parties (Bin Saqib, CZ, Sun) on one Pakistani regulatory track.",
+      "sources": [
+        "https://cointelegraph.com/news/pakistan-greenlight-binance-htx-seek-crypto-exchange-licenses",
+        "https://www.thenews.pk/story/1386738-binance-htx-nocs-are-first-step-not-blanket-approval-says-bilal-bin-saqib"
+      ]
+    },
+    {
+      "statement": "The 14 Jan 2026 USD1 MoU was signed by Zach Witkoff with the finance minister, witnessed by Sharif and Munir.",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented (Dawn, Arab News, Pakistan PID, Decrypt). Finance Minister Muhammad Aurangzeb and Zach Witkoff signed the MoU with SC Financial Technologies LLC on 2026-01-14. PM Sharif and Munir, now Chief of Defence Forces, witnessed it, and the WLF delegation met Munir separately. SC Financial is a Delaware company that co-owns the USD1 brand with WLF, with Zach Witkoff as CEO. The MoU is non-binding: it sets up study of USD1 for cross-border payments and remittances under PVARA oversight, not adoption. Al Jazeera notes that wider USD1 use earns reserve interest for WLF's owners, including the Trump family.",
+      "sources": [
+        "https://www.dawn.com/news/1966922/pakistan-signs-mou-with-donald-trump-linked-world-liberty-finance",
+        "https://www.arabnews.pk/node/2629279",
+        "https://pid.gov.pk/site/press_detail/31587",
+        "https://decrypt.co/354567/pakistan-to-explore-stablecoin-remittances-via-affiliate-of-trump-linked-world-liberty-financial",
+        "https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off"
+      ]
+    },
+    {
+      "statement": "Pakistan's 2026 role as US-Iran broker is tied by reporters to the WLF courtship.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence: the talks are documented; the causal tie is reporters' framing. In Apr 2026 Pakistan hosted or brokered US-Iran talks: Vance led a first round, and Witkoff and Kushner were slated for Islamabad before Trump called the trip off on 2026-04-25 (Fortune). Bloomberg (2026-03-29) attributes Pakistan's standing in 'Trump world' to Bin Saqib's crypto courtship of WLF. He posted a selfie with Zach Witkoff and WLF executives at Mar-a-Lago. Mother Jones says explicitly that it is 'not clear' the WLF relationship is the reason for Pakistan's intermediary role. Steve Witkoff is a WLF co-founder whose son runs it (C14).",
+      "sources": [
+        "https://www.bloomberg.com/news/features/2026-03-29/how-a-35-year-old-crypto-bro-from-pakistan-won-over-trump",
+        "https://theprint.in/world/how-a-35-year-old-crypto-bro-helped-pak-win-over-trump-world/2891895/",
+        "https://www.motherjones.com/politics/2026/04/parkistan-iran-trump-witkoff-world-liberty-financial/",
+        "https://fortune.com/2026/04/25/trump-witkoff-kushner-pakistan-ceasefire-talks-iran-war-hormuz/"
+      ]
+    },
+    {
+      "statement": "Powerus, the Trump sons' drone company, got a Pakistan MoD order the day after meeting Munir (Sep 2026).",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented (Reuters via Arab News/Tribune, Dawn/ISPR, Al Jazeera, Defense Post). A Powerus delegation led by co-founder Brett Velicovich met Munir at GHQ Rawalpindi on 2026-09-16. On 2026-09-17 Powerus announced an MoU with the Pakistan Army and a 'limited procurement order' from the Ministry of Defence. Value and systems are undisclosed; ISPR confirmed the meeting, not the deal. At the time Powerus was due to merge with Aureus Greenway, in which Eric Trump and Don Jr. hold an indirect stake via American Ventures (C51/C63); the merger closed around 2026-10-01. Under three months earlier, Powerus had given an Indian manufacturer exclusive rights to its interceptor technology in India (Al Jazeera). A spokesperson said the president has no involvement in Powerus.",
+      "sources": [
+        "https://www.arabnews.pk/pakistan/us-drone-maker-powerus-signs-pakistan-army-mou-gets-initial-order-3001484",
+        "https://www.dawn.com/news/2030390",
+        "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india",
+        "https://thedefensepost.com/2026/09/24/pakistan-drone-order-us/",
+        "https://www.businesstoday.in/world/story/pakistan-army-signs-drone-mou-secures-order-from-us-firm-linked-to-trump-sons-556203-2026-09-17"
+      ]
+    },
+    {
+      "statement": "Al Jazeera's '$500m for Trump' figure is a Pakistan payment.",
+      "verdict": "false",
+      "finding": "Evidence: documented. As relayed in search excerpts (the article itself could not be fetched), the '$500m' in Al Jazeera's 2026-07-03 headline is WLF's 2025 token-sale revenue to the Trump side, not money from Pakistan. Three different '$500M' figures circulate in this story and must not be conflated: the USSM-FWO MoU (Sep 2025), WLF token-sale income, and Aryam/Tahnoon's $500M WLF stake (C06).",
+      "sources": [
+        "https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off"
+      ]
+    }
+  ],
+  "corrections": [
+    "Brief implies all three lobbying hires followed Pahalgam; Seiden Law signed on 2025-04-08, before the 2025-04-22 attack. Only Javelin's registration (24-25 Apr) and the WLF letter of intent (26 Apr) came days after it.",
+    "Javelin was Seiden's subcontractor at about $50K/month, not a direct Pakistan contract; Checkmate's counterparty is Dubai-based Greystone, not the Pakistani government.",
+    "The Powerus 'order' is a limited procurement order of undisclosed value plus a non-binding MoU; at signing Powerus had not yet completed its merger with the Trump-son-backed Aureus Greenway (closed ~2026-10-01).",
+    "Al Jazeera's '$500m for Trump' refers to WLF token-sale revenue, not to any Pakistani payment or to the $500M USSM MoU.",
+    "Some coverage calls Ronny Jackson a senator; he is a US Representative (R-TX) and Trump's former White House physician."
+  ],
+  "denials_and_context": [
+    "India denies any US mediation in the May 2025 ceasefire; Pakistan credits Trump.",
+    "A senior Trump administration official said the Pasni port proposal was not discussed; a Pakistani military official said Munir has no official advisers.",
+    "Pakistani officials stress the Jan 2026 USD1 MoU is non-binding and does not authorise adoption; Bin Saqib says the Binance/HTX NOCs are not blanket approvals.",
+    "Powerus spokesperson: the president has no involvement in Powerus; the Trump sons describe themselves as passive investors (C51).",
+    "WLF says Bin Saqib's adviser role was unpaid and ended when he joined government (C64).",
+    "Mother Jones notes it is 'not clear' the WLF relationship explains Pakistan's Iran-broker role. Pakistan's pivot also has strategic drivers (Iran access, China hedging, minerals) that cut against a purely transactional reading.",
+    "FARA registration is a disclosure regime; nothing here shows illegal conduct. No DOJ action on these filings was found."
+  ],
+  "sources": [
+    {
+      "title": "Revealed: Trump-linked firms cash in on mineral lobbying deals as US cuts aid",
+      "publisher": "Global Witness",
+      "url": "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid",
+      "date": "2025"
+    },
+    {
+      "title": "Pakistan's multi-million dollar lobbying push to reset its image in the US",
+      "publisher": "Nukta",
+      "url": "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us",
+      "date": "2025"
+    },
+    {
+      "title": "Javelin Advisors FARA registration statement No. 7579",
+      "publisher": "US DOJ FARA eFile (not fetchable here)",
+      "url": "https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf",
+      "date": "2025-04-25"
+    },
+    {
+      "title": "Pakistan and India hire lobbyists",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/1907874",
+      "date": "2025-04"
+    },
+    {
+      "title": "Trump-backed crypto venture partners with Pakistan Crypto Council",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/1906732",
+      "date": "2025-04-26"
+    },
+    {
+      "title": "Trump-backed financial firm partners with Pakistan Crypto Council",
+      "publisher": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2598563",
+      "date": "2025-04-26"
+    },
+    {
+      "title": "Behind Donald Trump's ceasefire claim, a family crypto deal with General Asim Munir in the room",
+      "publisher": "Business Today",
+      "url": "https://www.businesstoday.in/india/story/behind-donald-trumps-ceasefire-claim-a-family-crypto-deal-with-general-asim-munir-in-the-room-476657-2025-05-17",
+      "date": "2025-05-17"
+    },
+    {
+      "title": "Ronny Jackson, former White House doctor, identified as key link in US-Pakistan's $500 million mining deal",
+      "publisher": "Business Today (citing Economic Times)",
+      "url": "https://www.businesstoday.in/world/us/story/ronny-jackson-former-white-house-doctor-identified-as-key-link-in-us-pakistans-500-million-mining-deal-509756-2026-01-07",
+      "date": "2026-01-07"
+    },
+    {
+      "title": "Trump ally Ronny Jackson linked to Pakistan's $500 million mining deal during Op Sindoor",
+      "publisher": "Bizz Buzz",
+      "url": "https://www.bizzbuzz.news/international/trump-ally-ronny-jackson-linked-to-pakistans-500-million-mining-deal-during-op-sindoor-1383465",
+      "date": "2026-01"
+    },
+    {
+      "title": "Pakistan's lobbying blitz in US amid Op Sindoor: 50 emails",
+      "publisher": "ThePrint",
+      "url": "https://theprint.in/diplomacy/pakistans-lobbying-blitz-in-us-amid-op-sindoor-50-emails-worries-about-indias-resuming-strikes/2821399",
+      "date": "2026-01"
+    },
+    {
+      "title": "Pakistan sought US help during Op Sindoor, feared resumption of Indian strikes: FARA documents",
+      "publisher": "IANS",
+      "url": "https://ianslive.in/pakistan-sought-us-help-during-op-sindoor-feared-resumption-of-indian-strikes-fara-documents--20260107181321",
+      "date": "2026-01-07"
+    },
+    {
+      "title": "Pakistan used lobbying firms to get US govt's help to keep it out of FATF grey list",
+      "publisher": "Business Today",
+      "url": "https://www.businesstoday.in/world/story/pakistan-used-lobbying-firms-to-get-us-govts-help-to-keep-it-out-of-fatf-grey-list-510991-2026-01-15",
+      "date": "2026-01-15"
+    },
+    {
+      "title": "India-Pakistan ceasefire announced by Trump",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2025/05/10/india-pakistan-hostilities-us-ceasefire-kashmir-war-trump/",
+      "date": "2025-05-10"
+    },
+    {
+      "title": "India agrees on ceasefire with Pakistan, contradicts US claims of mediation",
+      "publisher": "Deccan Herald",
+      "url": "https://www.deccanherald.com/amp/story/india%2Findia-agrees-on-ceasefire-with-pakistan-contradicts-us-claims-of-mediation-3534621",
+      "date": "2025-05-10"
+    },
+    {
+      "title": "Pakistan nominates Trump for Nobel Peace Prize",
+      "publisher": "CNN via KTVZ",
+      "url": "https://ktvz.com/news/national-world/cnn-world/2025/06/21/pakistan-nominates-trump-for-nobel-peace-prize-praising-stellar-statemanship/",
+      "date": "2025-06-21"
+    },
+    {
+      "title": "Army chief joins Trump for historic White House lunch",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/1918044/army-chief-joins-trump-for-historic-white-house-lunch",
+      "date": "2025-06-19"
+    },
+    {
+      "title": "Trump-COAS meeting secured via 'unconventional means', say insiders",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/1918057/trump-coas-meeting-secured-via-unconventional-means-say-insiders",
+      "date": "2025-06"
+    },
+    {
+      "title": "Checkmate checks for Pakistan",
+      "publisher": "O'Dwyer's",
+      "url": "https://www.odwyerpr.com/story/public/23166/2025-06-18/checkmate-checks-for-pakistan.html",
+      "date": "2025-06-18"
+    },
+    {
+      "title": "Defence and minerals: inside Pakistan's lobbying push in Washington",
+      "publisher": "Daily Times",
+      "url": "https://dailytimes.com.pk/1524579/defence-and-minerals-inside-pakistans-lobbying-push-in-washington/",
+      "date": "2026"
+    },
+    {
+      "title": "Pakistan to receive first US oil shipment as Cnergyico signs import deal",
+      "publisher": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2559037/1",
+      "date": "2025-07"
+    },
+    {
+      "title": "Pakistan to buy first-ever US oil cargo in Cnergyico deal with Vitol",
+      "publisher": "Hydrocarbon Processing (Reuters)",
+      "url": "https://hydrocarbonprocessing.com/news/2025/07/pakistan-to-buy-first-ever-us-oil-cargo-in-cnergyico-deal-with-vitol/",
+      "date": "2025-07"
+    },
+    {
+      "title": "1m barrels of US oil to arrive in Oct",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/1928182/1m-barrels-of-us-oil-to-arrive-in-oct",
+      "date": "2025-08"
+    },
+    {
+      "title": "Trump imposes 19% tariffs on Pakistan after oil deal",
+      "publisher": "News Arena India",
+      "url": "https://newsarenaindia.com/international/trump-imposes-19-tariffs-on-pakistan-after-oil-deal/51966",
+      "date": "2025-08-01"
+    },
+    {
+      "title": "US metals company signs $500m MoU with Pakistan on critical minerals",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/1940515/us-metals-company-signs-500m-mou-with-pakistan-on-critical-minerals",
+      "date": "2025-09-08"
+    },
+    {
+      "title": "US firm makes a $500 million investment deal with Pakistan for critical minerals",
+      "publisher": "AP via KSAT",
+      "url": "https://www.ksat.com/tech/2025/09/08/us-firm-makes-a-500-million-investment-deal-with-pakistan-for-critical-minerals",
+      "date": "2025-09-08"
+    },
+    {
+      "title": "'Strategic handshake': How Pakistan is wooing Trump with critical minerals",
+      "publisher": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2025/9/25/strategic-handshake-how-pakistan-is-wooing-trump-with-critical-minerals",
+      "date": "2025-09-25"
+    },
+    {
+      "title": "Pakistan sends first batch of rare earth elements to US under $500 million deal",
+      "publisher": "Arab News",
+      "url": "https://www.arabnews.com/node/2617851/amp",
+      "date": "2025-10"
+    },
+    {
+      "title": "PTI calls for transparency after first US mineral shipment",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/1946904/pti-calls-for-transparency-after-first-us-mineral-shipment",
+      "date": "2025-10"
+    },
+    {
+      "title": "Pakistan proposes US-backed port deal to unlock mineral wealth: report",
+      "publisher": "South China Morning Post (citing FT)",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3327865/pakistan-proposes-us-backed-port-deal-unlock-mineral-wealth-report",
+      "date": "2025-10-04"
+    },
+    {
+      "title": "Pakistan courts US with pitch for new Arabian Sea port: FT",
+      "publisher": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40385837/pakistan-courts-us-with-pitch-for-new-arabian-sea-port-ft-reports",
+      "date": "2025-10-04"
+    },
+    {
+      "title": "US Exim Bank okays $1.2bn for Reko Diq",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/1960428/us-exim-bank-okays-12bn-for-reko-diq",
+      "date": "2025-12"
+    },
+    {
+      "title": "US commits $1.25 billion EXIM financing for Pakistan's Reko Diq mine",
+      "publisher": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2625697",
+      "date": "2025-12-10"
+    },
+    {
+      "title": "Pakistan greenlights Binance, HTX to seek crypto exchange licenses",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/pakistan-greenlight-binance-htx-seek-crypto-exchange-licenses",
+      "date": "2025-12"
+    },
+    {
+      "title": "Binance, HTX NOCs are first step, not blanket approval, says Bilal bin Saqib",
+      "publisher": "The News",
+      "url": "https://www.thenews.pk/story/1386738-binance-htx-nocs-are-first-step-not-blanket-approval-says-bilal-bin-saqib",
+      "date": "2025-12-14"
+    },
+    {
+      "title": "Pakistan signs MoU with Donald Trump-linked World Liberty Finance",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/1966922/pakistan-signs-mou-with-donald-trump-linked-world-liberty-finance",
+      "date": "2026-01-14"
+    },
+    {
+      "title": "Pakistan signs pact with Trump-linked crypto firm to explore digital payments",
+      "publisher": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2629279",
+      "date": "2026-01-14"
+    },
+    {
+      "title": "PID press release No. 100 on the MoU signing",
+      "publisher": "Press Information Department, Government of Pakistan",
+      "url": "https://pid.gov.pk/site/press_detail/31587",
+      "date": "2026-01-14"
+    },
+    {
+      "title": "Pakistan to explore stablecoin remittances via affiliate of Trump-linked WLF",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/354567/pakistan-to-explore-stablecoin-remittances-via-affiliate-of-trump-linked-world-liberty-financial",
+      "date": "2026-01"
+    },
+    {
+      "title": "A 35-Year-Old Crypto Bro Helped Pakistan Win Over Trump World",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2026-03-29/how-a-35-year-old-crypto-bro-from-pakistan-won-over-trump",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "How a 35-year-old crypto bro helped Pakistan win over Trump world",
+      "publisher": "ThePrint (Bloomberg)",
+      "url": "https://theprint.in/world/how-a-35-year-old-crypto-bro-helped-pak-win-over-trump-world/2891895/",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "The Bizarre Connection Between Iran Negotiations and Trump's Crypto Firm",
+      "publisher": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/04/parkistan-iran-trump-witkoff-world-liberty-financial/",
+      "date": "2026-04"
+    },
+    {
+      "title": "Trump calls off Witkoff, Kushner Pakistan trip as Iran talks falter",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/04/25/trump-witkoff-kushner-pakistan-ceasefire-talks-iran-war-hormuz/",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "$500m for Trump, access for Pakistan: How a crypto-diplomatic bet paid off",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "Pakistan's latest Trump bet is on drone firm already selling to India",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "Pakistan drone order from US firm Powerus",
+      "publisher": "The Defense Post",
+      "url": "https://thedefensepost.com/2026/09/24/pakistan-drone-order-us/",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "CDF Munir, US-based POWERUS discuss defence technology, cooperation",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/2030390",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "US drone maker Powerus signs Pakistan army MoU, gets initial order",
+      "publisher": "Arab News Pakistan (Reuters)",
+      "url": "https://www.arabnews.pk/pakistan/us-drone-maker-powerus-signs-pakistan-army-mou-gets-initial-order-3001484",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Pakistan Army signs drone MoU, secures order from US firm linked to Trump sons",
+      "publisher": "Business Today",
+      "url": "https://www.businesstoday.in/world/story/pakistan-army-signs-drone-mou-secures-order-from-us-firm-linked-to-trump-sons-556203-2026-09-17",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Javelin Advisors LLC dossier (unofficial FARA compilation)",
+      "publisher": "ithildin.pages.dev",
+      "url": "https://ithildin.pages.dev/dossiers/javelin-advisors-llc",
+      "date": "2026"
+    }
+  ],
+  "entities": [
+    {
+      "id": "pakistan",
+      "name": "Pakistan",
+      "type": "country",
+      "description": "Hired Trump-tied lobbyists in 2025 and signed WLF, minerals and drone deals."
+    },
+    {
+      "id": "asim-munir",
+      "name": "Asim Munir",
+      "type": "person",
+      "description": "Pakistan's army chief, later Field Marshal and Chief of Defence Forces; present at the WLF, USD1 and Powerus meetings."
+    },
+    {
+      "id": "shehbaz-sharif",
+      "name": "Shehbaz Sharif",
+      "type": "person",
+      "description": "Prime Minister of Pakistan; met the WLF delegation and witnessed the USD1 MoU."
+    },
+    {
+      "id": "muhammad-aurangzeb",
+      "name": "Muhammad Aurangzeb",
+      "type": "person",
+      "description": "Pakistan's finance minister; signed the Jan 2026 SC Financial MoU."
+    },
+    {
+      "id": "ishaq-dar",
+      "name": "Ishaq Dar",
+      "type": "person",
+      "description": "Pakistan's Deputy PM and foreign minister."
+    },
+    {
+      "id": "bilal-bin-saqib",
+      "name": "Bilal Bin Saqib",
+      "type": "person",
+      "description": "Pakistan Crypto Council CEO, ex-WLF adviser, PVARA chairman."
+    },
+    {
+      "id": "pakistan-crypto-council",
+      "name": "Pakistan Crypto Council",
+      "type": "government",
+      "description": "Finance-ministry crypto body; signed the WLF letter of intent; CZ is an adviser."
+    },
+    {
+      "id": "pvara",
+      "name": "Pakistan Virtual Assets Regulatory Authority",
+      "type": "government",
+      "description": "Crypto regulator chaired by Bin Saqib; issued NOCs to Binance and HTX."
+    },
+    {
+      "id": "seiden-law",
+      "name": "Seiden Law LLP",
+      "type": "company",
+      "description": "Robert Seiden's firm; $200K/month Pakistan minerals-promotion contract (FARA 7570)."
+    },
+    {
+      "id": "robert-seiden",
+      "name": "Robert Seiden",
+      "type": "person",
+      "description": "Founder of Seiden Law; named by Global Witness as a Trump-circle figure representing Pakistan."
+    },
+    {
+      "id": "javelin-advisors",
+      "name": "Javelin Advisors",
+      "type": "company",
+      "description": "Schiller/Sorial firm; Seiden subcontractor for Pakistan (FARA 7579)."
+    },
+    {
+      "id": "keith-schiller",
+      "name": "Keith Schiller",
+      "type": "person",
+      "description": "Trump's former bodyguard and Oval Office operations director; Javelin co-founder."
+    },
+    {
+      "id": "george-sorial",
+      "name": "George Sorial",
+      "type": "person",
+      "description": "Former Trump Organization counsel; Javelin co-founder."
+    },
+    {
+      "id": "conscience-point-consulting",
+      "name": "Conscience Point Consulting",
+      "type": "company",
+      "description": "Reported Seiden subcontractor on Pakistan whose filings mention Ronny Jackson."
+    },
+    {
+      "id": "ronny-jackson",
+      "name": "Ronny Jackson",
+      "type": "person",
+      "description": "US Representative (R-TX), Trump's former White House physician; reported contact in Pakistan's minerals push."
+    },
+    {
+      "id": "squire-patton-boggs",
+      "name": "Squire Patton Boggs",
+      "type": "company",
+      "description": "Pakistan embassy's FARA registrant; lobbied during Op Sindoor and pitched a minerals partnership."
+    },
+    {
+      "id": "ervin-graves-strategy-group",
+      "name": "Ervin Graves Strategy Group",
+      "type": "company",
+      "description": "Pakistan embassy lobbyist on the FATF grey list."
+    },
+    {
+      "id": "checkmate-government-relations",
+      "name": "Checkmate Government Relations",
+      "type": "company",
+      "description": "Ches McDowell's firm; Pakistan defence/minerals work via Greystone."
+    },
+    {
+      "id": "ches-mcdowell",
+      "name": "Ches McDowell",
+      "type": "person",
+      "description": "Checkmate founder, Trump Jr. associate."
+    },
+    {
+      "id": "greystone-investment-management",
+      "name": "Greystone Investment & Management LLC",
+      "type": "company",
+      "description": "Dubai entity paying Checkmate for Pakistan work; ownership undisclosed."
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture."
+    },
+    {
+      "id": "sc-financial-technologies",
+      "name": "SC Financial Technologies",
+      "type": "company",
+      "description": "Delaware WLF affiliate co-owning the USD1 brand; Zach Witkoff CEO."
+    },
+    {
+      "id": "usd1",
+      "name": "USD1",
+      "type": "asset",
+      "description": "WLF dollar stablecoin."
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF co-founder/CEO; signed the Pakistan LOI and USD1 MoU."
+    },
+    {
+      "id": "zak-folkman",
+      "name": "Zachary Folkman",
+      "type": "person",
+      "description": "WLF co-founder; part of the Apr 2025 Islamabad delegation."
+    },
+    {
+      "id": "chase-herro",
+      "name": "Chase Herro",
+      "type": "person",
+      "description": "WLF co-founder; part of the Apr 2025 Islamabad delegation."
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "US special envoy, WLF co-founder; at Munir lunch; slated for Iran talks in Pakistan."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President."
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Indirect Powerus/Aureus investor."
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Indirect Powerus/Aureus investor."
+    },
+    {
+      "id": "changpeng-zhao",
+      "name": "Changpeng Zhao",
+      "type": "person",
+      "description": "Binance founder, Pakistan Crypto Council adviser, pardoned Oct 2025."
+    },
+    {
+      "id": "binance",
+      "name": "Binance",
+      "type": "company",
+      "description": "Got a PVARA NOC and a $2B tokenisation MoU in Dec 2025."
+    },
+    {
+      "id": "justin-sun",
+      "name": "Justin Sun",
+      "type": "person",
+      "description": "HTX adviser; WLF's largest early backer."
+    },
+    {
+      "id": "htx",
+      "name": "HTX (formerly Huobi)",
+      "type": "company",
+      "description": "Exchange that received a PVARA NOC in Dec 2025."
+    },
+    {
+      "id": "us-strategic-metals",
+      "name": "US Strategic Metals (USSM)",
+      "type": "company",
+      "description": "Missouri processor; $500M MoU with FWO, Sep 2025."
+    },
+    {
+      "id": "stacy-hastie",
+      "name": "Stacy Hastie",
+      "type": "person",
+      "description": "USSM CEO."
+    },
+    {
+      "id": "frontier-works-organization",
+      "name": "Frontier Works Organization",
+      "type": "government",
+      "description": "Pakistan Army engineering arm; USSM counterparty."
+    },
+    {
+      "id": "pasni-port-proposal",
+      "name": "Pasni port proposal",
+      "type": "event",
+      "description": "FT-reported pitch for a US-built minerals port, denied by officials."
+    },
+    {
+      "id": "reko-diq",
+      "name": "Reko Diq",
+      "type": "asset",
+      "description": "Barrick/Pakistan copper-gold mine in Balochistan."
+    },
+    {
+      "id": "barrick",
+      "name": "Barrick Mining",
+      "type": "company",
+      "description": "50% owner of Reko Diq."
+    },
+    {
+      "id": "exim-bank",
+      "name": "Export-Import Bank of the U.S.",
+      "type": "government",
+      "description": "Approved $1.25B for Reko Diq, Dec 2025."
+    },
+    {
+      "id": "cnergyico",
+      "name": "Cnergyico",
+      "type": "company",
+      "description": "Pakistani refiner; first US crude cargo."
+    },
+    {
+      "id": "vitol",
+      "name": "Vitol",
+      "type": "company",
+      "description": "Trader that sold Cnergyico the WTI cargo."
+    },
+    {
+      "id": "powerus",
+      "name": "Powerus Corp.",
+      "type": "company",
+      "description": "Drone maker merged into Trump-son-backed Aureus; Pakistan MoD order."
+    },
+    {
+      "id": "brett-velicovich",
+      "name": "Brett Velicovich",
+      "type": "person",
+      "description": "Powerus co-founder; led the Sep 2026 delegation to Munir."
+    },
+    {
+      "id": "aureus-greenway-holdings",
+      "name": "Aureus Greenway Holdings",
+      "type": "company",
+      "description": "Listed shell Powerus merged into."
+    },
+    {
+      "id": "american-ventures",
+      "name": "American Ventures",
+      "type": "fund",
+      "description": "Dominari-controlled SPVs holding the Trump sons' Aureus stake."
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "type": "country",
+      "description": "Rejects US mediation claims; Powerus licensed an Indian maker."
+    },
+    {
+      "id": "pahalgam-attack",
+      "name": "Pahalgam attack",
+      "type": "event",
+      "description": "22 Apr 2025 massacre of tourists in Kashmir."
+    },
+    {
+      "id": "india-pakistan-ceasefire-2025",
+      "name": "India-Pakistan ceasefire (May 2025)",
+      "type": "event",
+      "description": "Announced by Trump 10 May 2025."
+    },
+    {
+      "id": "munir-white-house-lunch",
+      "name": "Munir White House lunch",
+      "type": "event",
+      "description": "18 Jun 2025 Trump-Munir lunch."
+    },
+    {
+      "id": "us-pakistan-trade-deal-2025",
+      "name": "US-Pakistan trade deal and 19% tariff",
+      "type": "event",
+      "description": "Jul 30-31 2025 deal and executive order."
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "type": "country",
+      "description": "Pakistan brokered US-Iran talks in 2026."
+    },
+    {
+      "id": "jd-vance",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Led US side of Pakistan-brokered Iran talks."
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Slated for Iran talks in Pakistan."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Executive Office of the President."
+    },
+    {
+      "id": "al-jazeera",
+      "name": "Al Jazeera",
+      "type": "media",
+      "description": "Reported '$500m for Trump' and Powerus-Pakistan stories."
+    },
+    {
+      "id": "global-witness",
+      "name": "Global Witness",
+      "type": "media",
+      "description": "NGO that analysed Trump-linked minerals lobbying filings."
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Trump family business; Sorial is its former counsel."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "pakistan",
+      "target": "seiden-law",
+      "label": "hired for minerals promotion ($200K/month)",
+      "type": "money",
+      "date": "2025-04-08",
+      "amount_usd": 200000
+    },
+    {
+      "source": "seiden-law",
+      "target": "javelin-advisors",
+      "label": "subcontracted Pakistan work (~$50K/month)",
+      "type": "money",
+      "date": "2025-04-24",
+      "amount_usd": 50000
+    },
+    {
+      "source": "seiden-law",
+      "target": "conscience-point-consulting",
+      "label": "subcontracted Pakistan work (reported)",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "robert-seiden",
+      "target": "seiden-law",
+      "label": "founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "keith-schiller",
+      "target": "javelin-advisors",
+      "label": "co-founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "george-sorial",
+      "target": "javelin-advisors",
+      "label": "co-founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "keith-schiller",
+      "target": "donald-trump",
+      "label": "former bodyguard / Oval Office operations director",
+      "type": "political"
+    },
+    {
+      "source": "george-sorial",
+      "target": "trump-organization",
+      "label": "former counsel",
+      "type": "advisory"
+    },
+    {
+      "source": "javelin-advisors",
+      "target": "ronny-jackson",
+      "label": "contacted on rare-earths MoU (FARA, reported)",
+      "type": "political",
+      "date": "2025-05-01"
+    },
+    {
+      "source": "ronny-jackson",
+      "target": "donald-trump",
+      "label": "former White House physician",
+      "type": "political"
+    },
+    {
+      "source": "pakistan",
+      "target": "squire-patton-boggs",
+      "label": "embassy lobbyist; minerals pitch to US diplomat",
+      "type": "money",
+      "date": "2025-05-14"
+    },
+    {
+      "source": "pakistan",
+      "target": "ervin-graves-strategy-group",
+      "label": "hired on FATF grey list",
+      "type": "money",
+      "date": "2025"
+    },
+    {
+      "source": "greystone-investment-management",
+      "target": "checkmate-government-relations",
+      "label": "pays for Pakistan defence/minerals lobbying",
+      "type": "money",
+      "date": "2025-05-15"
+    },
+    {
+      "source": "ches-mcdowell",
+      "target": "checkmate-government-relations",
+      "label": "founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "ches-mcdowell",
+      "target": "donald-trump-jr",
+      "label": "associate",
+      "type": "political"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "pakistan-crypto-council",
+      "label": "letter of intent",
+      "type": "commercial",
+      "date": "2025-04-26"
+    },
+    {
+      "source": "asim-munir",
+      "target": "world-liberty-financial",
+      "label": "met delegation at LOI signing",
+      "type": "political",
+      "date": "2025-04-26"
+    },
+    {
+      "source": "bilal-bin-saqib",
+      "target": "world-liberty-financial",
+      "label": "unpaid adviser",
+      "type": "advisory",
+      "date": "2025-04"
+    },
+    {
+      "source": "bilal-bin-saqib",
+      "target": "pvara",
+      "label": "chairman",
+      "type": "regulatory"
+    },
+    {
+      "source": "changpeng-zhao",
+      "target": "pakistan-crypto-council",
+      "label": "adviser",
+      "type": "advisory",
+      "date": "2025-04"
+    },
+    {
+      "source": "pvara",
+      "target": "binance",
+      "label": "no-objection certificate",
+      "type": "regulatory",
+      "date": "2025-12"
+    },
+    {
+      "source": "pvara",
+      "target": "htx",
+      "label": "no-objection certificate",
+      "type": "regulatory",
+      "date": "2025-12"
+    },
+    {
+      "source": "justin-sun",
+      "target": "htx",
+      "label": "adviser",
+      "type": "advisory"
+    },
+    {
+      "source": "pakistan",
+      "target": "binance",
+      "label": "MoU to explore tokenising up to $2B state assets",
+      "type": "commercial",
+      "date": "2025-12",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "india-pakistan-ceasefire-2025",
+      "label": "announced and claimed credit",
+      "type": "political",
+      "date": "2025-05-10"
+    },
+    {
+      "source": "donald-trump",
+      "target": "asim-munir",
+      "label": "hosted for lunch",
+      "type": "political",
+      "date": "2025-06-18"
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "munir-white-house-lunch",
+      "label": "attended",
+      "type": "political",
+      "date": "2025-06-18"
+    },
+    {
+      "source": "pakistan",
+      "target": "donald-trump",
+      "label": "Nobel Peace Prize nomination",
+      "type": "political",
+      "date": "2025-06-21"
+    },
+    {
+      "source": "donald-trump",
+      "target": "pakistan",
+      "label": "19% tariff and energy/trade deal",
+      "type": "regulatory",
+      "date": "2025-07-31"
+    },
+    {
+      "source": "cnergyico",
+      "target": "vitol",
+      "label": "bought ~1M bbl WTI test cargo",
+      "type": "commercial",
+      "date": "2025-07"
+    },
+    {
+      "source": "us-strategic-metals",
+      "target": "frontier-works-organization",
+      "label": "$500M minerals MoU",
+      "type": "commercial",
+      "date": "2025-09-08",
+      "amount_usd": 500000000
+    },
+    {
+      "source": "stacy-hastie",
+      "target": "us-strategic-metals",
+      "label": "CEO",
+      "type": "ownership"
+    },
+    {
+      "source": "asim-munir",
+      "target": "donald-trump",
+      "label": "presented mineral samples in Oval Office",
+      "type": "political",
+      "date": "2025-09-26"
+    },
+    {
+      "source": "exim-bank",
+      "target": "reko-diq",
+      "label": "$1.25B financing",
+      "type": "money",
+      "date": "2025-12-10",
+      "amount_usd": 1250000000
+    },
+    {
+      "source": "barrick",
+      "target": "reko-diq",
+      "label": "50% owner",
+      "type": "ownership"
+    },
+    {
+      "source": "sc-financial-technologies",
+      "target": "pakistan",
+      "label": "non-binding USD1 payments MoU",
+      "type": "commercial",
+      "date": "2026-01-14"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "sc-financial-technologies",
+      "label": "CEO",
+      "type": "ownership"
+    },
+    {
+      "source": "sc-financial-technologies",
+      "target": "usd1",
+      "label": "co-owns brand with WLF",
+      "type": "ownership"
+    },
+    {
+      "source": "muhammad-aurangzeb",
+      "target": "sc-financial-technologies",
+      "label": "signed MoU with",
+      "type": "commercial",
+      "date": "2026-01-14"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "steve-witkoff",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "pakistan",
+      "target": "iran",
+      "label": "brokered US-Iran talks",
+      "type": "political",
+      "date": "2026-04"
+    },
+    {
+      "source": "powerus",
+      "target": "pakistan",
+      "label": "MoD limited procurement order + Army MoU (value undisclosed)",
+      "type": "commercial",
+      "date": "2026-09-17"
+    },
+    {
+      "source": "brett-velicovich",
+      "target": "asim-munir",
+      "label": "led Powerus delegation to",
+      "type": "commercial",
+      "date": "2026-09-16"
+    },
+    {
+      "source": "powerus",
+      "target": "aureus-greenway-holdings",
+      "label": "merged into",
+      "type": "ownership",
+      "date": "2026-10-01"
+    },
+    {
+      "source": "american-ventures",
+      "target": "aureus-greenway-holdings",
+      "label": "holds Trump sons' stake",
+      "type": "ownership"
+    },
+    {
+      "source": "eric-trump",
+      "target": "american-ventures",
+      "label": "investor",
+      "type": "money"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "american-ventures",
+      "label": "investor",
+      "type": "money"
+    },
+    {
+      "source": "powerus",
+      "target": "india",
+      "label": "exclusive interceptor licence to Indian maker",
+      "type": "commercial",
+      "date": "2026-06"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Ronny Jackson and Conscience Point Consulting in Pakistan's rare-earths channel",
+      "why_connected": "FARA filings reportedly show Trump's former physician handling a draft minerals MoU for Pakistan via Seiden's subcontractors; worth pulling the filings and FEC records directly.",
+      "entities": [
+        "ronny-jackson",
+        "conscience-point-consulting",
+        "javelin-advisors",
+        "seiden-law"
+      ],
+      "source_url": "https://www.businesstoday.in/world/us/story/ronny-jackson-former-white-house-doctor-identified-as-key-link-in-us-pakistans-500-million-mining-deal-509756-2026-01-07"
+    },
+    {
+      "title": "Binance's MoU to tokenise up to $2B of Pakistani state assets",
+      "why_connected": "A pardoned CZ's exchange got regulatory entry from a former WLF adviser's regulator weeks before the WLF USD1 MoU.",
+      "entities": [
+        "binance",
+        "changpeng-zhao",
+        "pvara",
+        "bilal-bin-saqib"
+      ],
+      "source_url": "https://cointelegraph.com/news/pakistan-greenlight-binance-htx-seek-crypto-exchange-licenses"
+    },
+    {
+      "title": "Who owns Greystone Investment & Management (Dubai)?",
+      "why_connected": "It pays Trump Jr.-linked Checkmate for Pakistan's defence/minerals lobbying; the principal behind it is undisclosed in coverage.",
+      "entities": [
+        "greystone-investment-management",
+        "checkmate-government-relations",
+        "pakistan"
+      ],
+      "source_url": "https://www.odwyerpr.com/story/public/23166/2025-06-18/checkmate-checks-for-pakistan.html"
+    },
+    {
+      "title": "Pasni port pitch and Reko Diq EXIM financing",
+      "why_connected": "US state finance and a proposed US-run port sit on the same minerals corridor that Pakistan's Trump-tied lobbyists were hired to promote.",
+      "entities": [
+        "pasni-port-proposal",
+        "reko-diq",
+        "exim-bank",
+        "asim-munir"
+      ],
+      "source_url": "https://www.scmp.com/news/asia/south-asia/article/3327865/pakistan-proposes-us-backed-port-deal-unlock-mineral-wealth-report"
+    },
+    {
+      "title": "Powerus selling to both India and Pakistan",
+      "why_connected": "A Trump-son-backed drone maker licensed technology to an Indian manufacturer and then took a Pakistan MoD order; possible export-control and emoluments questions.",
+      "entities": [
+        "powerus",
+        "india",
+        "pakistan",
+        "eric-trump",
+        "donald-trump-jr"
+      ],
+      "source_url": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india"
+    }
+  ]
+}
