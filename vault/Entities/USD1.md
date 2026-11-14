@@ -48,7 +48,7 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
-- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Pending
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 
@@ -59,10 +59,11 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[USD1]] *earns ~$159M a year for* [[World Liberty Financial]] · $159M · [[C10 Binance driving USD1 adoption|C10]]
 - [[USD1]] *reserve interest flows to* [[World Liberty Financial]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]]
 
-### Ownership (3)
+### Ownership (4)
 
 - [[World Liberty Financial]] *issues and earns reserve yield on* [[USD1]] · 2025-03-25 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Binance]] *holds ~85-87% of supply of* [[USD1]] · 2026-02-09 · $4.7B · [[C10 Binance driving USD1 adoption|C10]]
+- [[SC Financial Technologies]] *co-owns brand with WLF* [[USD1]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[USD1]] *issued by* [[World Liberty Financial]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 
 ### Regulatory (3)

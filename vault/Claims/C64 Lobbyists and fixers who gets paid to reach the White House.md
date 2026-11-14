@@ -60,8 +60,8 @@ The access layer is well documented.
 
 ## Follow-up checks
 
-- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Pending
-- [[C73 Qatar's access network inside and around the administration]] · Pending
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Sub-claims
 
@@ -348,13 +348,13 @@ The access layer is well documented.
 
 ### Ownership (9)
 
+- [[Kash Patel]] *owns* [[Trishul LLC]] · 2024 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Brian Ballard]] *founder* [[Ballard Partners]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Carlos Trujillo]] *founder* [[Continental Strategy]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Ches McDowell]] *managing partner* [[Checkmate Government Relations]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[George Sorial]] *co-founder* [[Javelin Advisors]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Jason Miller]] *heads* [[SHW Partners]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Jeff Miller]] *founder* [[Miller Strategies]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Kash Patel]] *owns* [[Trishul LLC]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Keith Schiller]] *co-founder* [[Javelin Advisors]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[SC Financial Technologies]] *affiliate of* [[World Liberty Financial]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
@@ -368,7 +368,7 @@ The access layer is well documented.
 
 ### Advisory (9)
 
-- [[Susie Wiles]] *former lobbyist at* [[Ballard Partners]] · 2011-2019 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Susie Wiles]] *former lobbyist at* [[Ballard Partners]] · 2011-2019 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Pam Bondi]] *lobbied for (via Ballard; FARA)* [[Qatar]] · 2019-2021 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Susie Wiles]] *co-chair FL/DC offices* [[Mercury Public Affairs]] · 2022-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]

@@ -247,7 +247,7 @@ The core of the lead is documented.
 - [[Citizens for Responsibility and Ethics in Washington]] · Company
 - [[Cove Kaz Capital Cove Capital]] · Company
 - [[Critical Metals Corp]] · Company
-- [[Dominari Holdings Dominari Securities]] · Company
+- [[Dominari Holdings]] · Company
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
 - [[Elizabeth Warren]] · Person
@@ -313,9 +313,9 @@ The core of the lead is documented.
 - [[Skyline Builders Group]] *bought 20% for $20M* [[Kaz Resources]] · 2025-10-31 · $20M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Brandon Lutnick]] *chairman of* [[Cantor Fitzgerald]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Cantor Fitzgerald]] *major investor in (reported)* [[Critical Metals Corp]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Dominari Holdings Dominari Securities]] *controls ~90% of* [[American Ventures]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Donald Trump Jr]] *shareholder* [[Dominari Holdings Dominari Securities]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Eric Trump]] *shareholder and adviser* [[Dominari Holdings Dominari Securities]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Dominari Holdings]] *controls ~90% of* [[American Ventures]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Donald Trump Jr]] *shareholder* [[Dominari Holdings]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Eric Trump]] *shareholder and adviser* [[Dominari Holdings]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Kyle Lutnick]] *executive at* [[Cantor Fitzgerald]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 
 ### Family (2)

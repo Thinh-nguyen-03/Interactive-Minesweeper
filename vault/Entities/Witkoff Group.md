@@ -2,8 +2,8 @@
 id: "witkoff-group"
 kind: "entity"
 type: "company"
-connections: 8
-claims: 2
+connections: 11
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -15,30 +15,42 @@ New York real-estate developer founded by Steve Witkoff in 1997
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
-| Connections | 8 |
+| Appears in | 3 claims |
+| Connections | 11 |
+
+## How other claims describe it
+
+- Witkoff family real-estate firm, run by Alex Witkoff.
+- Witkoff family real-estate firm
 
 ## Appears in claims
 
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
-- [[C73 Qatar's access network inside and around the administration]] · Pending
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 
 ## Relationships
 
-### Money (2)
+### Money (3)
 
 - [[Steve Witkoff]] *sold stake for $120M to an undisclosed buyer; remains minority shareholder* [[Witkoff Group]] · 2025 · $120M · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Apollo Global Management]] *Apollo-run trust (partly Qatar-owned) provided $100M* [[Witkoff Group]] · 2025-05 · $100M · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Apollo Global Management]] *lent $100M (refinancing)* [[Witkoff Group]] · 2025-05 · $100M · [[C73 Qatar's access network inside and around the administration|C73]]
 
-### Ownership (1)
+### Ownership (5)
 
+- [[Witkoff Group]] *co-acquired out of ~$900M foreclosure* [[One High Line]] · 2021-12 · $900M · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Alex Witkoff]] *CEO of* [[Witkoff Group]] · 2025 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Steve Witkoff]] *founder; sold $120M stake* [[Witkoff Group]] · 2025-09 · $120M · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Alex Witkoff]] *runs operations of* [[Witkoff Group]] · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Steve Witkoff]] *founder; minority shareholder* [[Witkoff Group]] · [[C73 Qatar's access network inside and around the administration|C73]]
 
 ### Media (1)
 
 - [[The New York Times]] *investigated Qatar ties* [[Witkoff Group]] · 2025-09-26 · [[C53 The Witkoff family's own Gulf money|C53]]
 
-### Commercial (2)
+### Commercial (3)
 
+- [[Witkoff Group]] *co-owns One High Line, Banyan Cay and North Beach projects with* [[Access Industries]] · 2021-12 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Witkoff Group]] *reportedly approached sovereign fund (NYT)* [[Kuwait]] · 2024-2025 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Witkoff Group]] *reportedly approached sovereign fund (NYT)* [[United Arab Emirates]] · 2024-2025 · [[C53 The Witkoff family's own Gulf money|C53]]

@@ -2,8 +2,8 @@
 id: "iran"
 kind: "entity"
 type: "country"
-connections: 15
-claims: 9
+connections: 17
+claims: 10
 tags:
   - "entity"
   - "type/country"
@@ -17,8 +17,8 @@ Country the US went to war with; 'Iran crisis'.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 9 claims |
-| Connections | 15 |
+| Appears in | 10 claims |
+| Connections | 17 |
 
 ## How other claims describe it
 
@@ -39,6 +39,7 @@ Country the US went to war with; 'Iran crisis'.
 - [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 
@@ -46,11 +47,12 @@ Country the US went to war with; 'Iran crisis'.
 
 - [[Commodity Futures Trading Commission]] *probing oil-futures trades placed before Trump Iran posts* [[Iran]] · 2026-04 · [[C58 Market-moving posts and insider-trading allegations|C58]]
 
-### Political (4)
+### Political (5)
 
 - [[Iran]] *missile/drone attacks and Hormuz blockade* [[United Arab Emirates]] · 2026 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Jared Kushner]] *participated in US talks with* [[Iran]] · 2026 · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Iran]] *conflict cited as emergency basis for* [[2026 Qatar Patriot and APKWS sales]] · 2026-02-28 · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Pakistan]] *brokered US-Iran talks* [[Iran]] · 2026-04 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[United States]] *went to war with* [[Iran]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 
 ### Legal (1)

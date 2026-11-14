@@ -297,7 +297,7 @@ Most of the named moves are documented.
 
 - [[Howard Lutnick]] *former CEO; interests to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Todd Hines]] *father of* [[Bo Hines]] · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
-- [[Zach Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]]
+- [[Zach Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]] [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
 ### Regulatory (6)
 

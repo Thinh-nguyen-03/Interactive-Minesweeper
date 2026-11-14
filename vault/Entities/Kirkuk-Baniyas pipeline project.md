@@ -2,28 +2,35 @@
 id: "kirkuk-baniyas-pipeline"
 kind: "entity"
 type: "asset"
-connections: 2
-claims: 1
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/asset"
 ---
 # Kirkuk-Baniyas pipeline project
 
-Planned $15B+ Iraq-Syria oil pipeline
+Iraq-Syria pipeline; TI Capital, Chevron, UCC consortium
 
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
+
+- Planned $15B+ Iraq-Syria oil pipeline
 
 ## Appears in claims
 
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Relationships
 
-### Commercial (1)
+### Commercial (3)
 
+- [[TI Capital]] *consortium member* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[TI Capital]] *consortium member (MoU)* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[UCC Holding]] *consortium member* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C73 Qatar's access network inside and around the administration|C73]]

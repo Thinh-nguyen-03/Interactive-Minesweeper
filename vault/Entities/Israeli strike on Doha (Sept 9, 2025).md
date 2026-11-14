@@ -2,8 +2,8 @@
 id: "doha-strike-2025"
 kind: "entity"
 type: "event"
-connections: 3
-claims: 1
+connections: 5
+claims: 2
 tags:
   - "entity"
   - "type/event"
@@ -15,17 +15,23 @@ Israeli strike on Hamas leaders in Doha; disputed US advance warning via Witkoff
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
-| Connections | 3 |
+| Appears in | 2 claims |
+| Connections | 5 |
+
+## How other claims describe it
+
+- Prompted the security EO
 
 ## Appears in claims
 
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Relationships
 
-### Political (1)
+### Political (2)
 
+- [[Israeli strike on Doha (Sept 9, 2025)]] *preceded* [[EO 'Assuring the Security of the State of Qatar']] · 2025-09-09 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Steve Witkoff]] *told by Trump to warn Qatar (timing disputed)* [[Israeli strike on Doha (Sept 9, 2025)]] · 2025-09-09 · [[C53 The Witkoff family's own Gulf money|C53]]
 
 ### Media (1)

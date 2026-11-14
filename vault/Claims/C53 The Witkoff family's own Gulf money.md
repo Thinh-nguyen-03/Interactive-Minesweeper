@@ -65,8 +65,8 @@ The core of the lead is documented.
 
 ## Follow-up checks
 
-- [[C73 Qatar's access network inside and around the administration]] · Pending
-- [[C76 Russia-linked money around the family and envoys]] · Pending
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 
 ## Sub-claims
 

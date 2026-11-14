@@ -21,6 +21,7 @@ Attorney General from Feb 2025 (succeeded by Blanche in 2026); ex-Ballard lobbyi
 ## How other claims describe it
 
 - Former AG; ex-Ballard lobbyist registered for Qatar; signed jet memo
+- Attorney General; ex-Ballard Qatar FARA registrant; signed jet memo
 - Attorney General; former Ballard lobbyist on the Qatar account
 - Former Attorney General; restored Gibson's gun rights
 - U.S. Attorney General; former Ballard lobbyist
@@ -32,7 +33,7 @@ Attorney General from Feb 2025 (succeeded by Blanche in 2026); ex-Ballard lobbyi
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
-- [[C73 Qatar's access network inside and around the administration]] · Pending
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Relationships
 
@@ -45,8 +46,9 @@ Attorney General from Feb 2025 (succeeded by Blanche in 2026); ex-Ballard lobbyi
 - [[Brad Bondi]] *brother* [[Pam Bondi]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Brad Bondi]] *brother of* [[Pam Bondi]] · [[C61 Shared lawyers and law firms across the deals|C61]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
-### Regulatory (2)
+### Regulatory (3)
 
+- [[Pam Bondi]] *signed* [[DOJ memo on the Qatari jet]] · 2025-05 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Pam Bondi]] *signed DOJ memo clearing acceptance of* [[Qatar Boeing 747 gift]] · 2025-05 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Pam Bondi]] *signed OLC memo calling acceptance legally permissible* [[Qatar Boeing 747 gift]] · 2025-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 

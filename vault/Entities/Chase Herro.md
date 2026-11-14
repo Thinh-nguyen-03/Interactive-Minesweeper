@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "Chase"
   - "Chase Hero"
-connections: 11
-claims: 5
+connections: 12
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -18,8 +18,8 @@ World Liberty Financial co-founder shown saying you can sell anything in crypto 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 5 claims |
-| Connections | 11 |
+| Appears in | 6 claims |
+| Connections | 12 |
 | Also known as | Chase; Chase Hero |
 
 ## How other claims describe it
@@ -28,6 +28,7 @@ World Liberty Financial co-founder shown saying you can sell anything in crypto 
 - WLF co-founder; namesake of the $SPSC memecoin
 - WLF co-founder; Axiom owner
 - WLF co-founder
+- WLF co-founder; part of the Apr 2025 Islamabad delegation.
 
 ## Appears in claims
 
@@ -36,6 +37,7 @@ World Liberty Financial co-founder shown saying you can sell anything in crypto 
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 

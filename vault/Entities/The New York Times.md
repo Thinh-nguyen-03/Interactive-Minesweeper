@@ -5,8 +5,8 @@ type: "media"
 aliases:
   - "NYT"
   - "New York Times"
-connections: 37
-claims: 19
+connections: 38
+claims: 20
 tags:
   - "entity"
   - "type/media"
@@ -18,8 +18,8 @@ Reported Affinity's $5B raise.
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 19 claims |
-| Connections | 37 |
+| Appears in | 20 claims |
+| Connections | 38 |
 | Also known as | NYT; New York Times |
 
 ## How other claims describe it
@@ -51,6 +51,7 @@ Reported Affinity's $5B raise.
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 
 ## Relationships
 

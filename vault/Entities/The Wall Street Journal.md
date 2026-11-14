@@ -5,8 +5,8 @@ type: "media"
 aliases:
   - "WSJ"
   - "Wall Street Journal"
-connections: 32
-claims: 18
+connections: 34
+claims: 19
 tags:
   - "entity"
   - "type/media"
@@ -18,8 +18,8 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 18 claims |
-| Connections | 32 |
+| Appears in | 19 claims |
+| Connections | 34 |
 | Also known as | WSJ; Wall Street Journal |
 
 ## How other claims describe it
@@ -50,6 +50,7 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 
 ## Relationships
 
@@ -57,14 +58,15 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 
 - [[White House Trump administration]] *denied wrongdoing in response to* [[The Wall Street Journal]] · 2026-02 · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 
-### Media (19)
+### Media (20)
 
 - [[The Wall Street Journal]] *reported Tether stake* [[Cantor Fitzgerald]] · 2024-11-24 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[The Wall Street Journal]] *reported rival bids and Melania's >70% share* [[Melania (2026 film)]] · 2025-01 · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Sam Kessler]] *data reporter at* [[The Wall Street Journal]] · 2025-06 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[The Wall Street Journal]] *profile 'go-to dealmaker'* [[Dominari Holdings Dominari Securities]] · 2025-08-19 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[The Wall Street Journal]] *profile 'go-to dealmaker'* [[Dominari Holdings]] · 2025-08-19 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[The Wall Street Journal]] *reported deal enriches Trump family by over $500M* [[ALT5 Sigma]] · 2025-08-31 · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[The Wall Street Journal]] *reported Binance helped build USD1* [[Binance]] · 2025-10 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[The Wall Street Journal]] *reported 'make money not war' business-deal strategy* [[Steve Witkoff]] · 2025-11-29 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[The Wall Street Journal]] *reported up to $5M success-fee offers* [[Binance]] · 2025-12 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[The Wall Street Journal]] *counted at least $1.2B cash to the Trump family* [[World Liberty Financial]] · 2026-02 · $1.2B · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[The Wall Street Journal]] *revealed secret WLF stake of* [[Aryam Investment 1]] · 2026-02-01 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]

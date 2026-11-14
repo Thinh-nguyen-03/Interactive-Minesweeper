@@ -2,8 +2,8 @@
 id: "ron-wyden"
 kind: "entity"
 type: "person"
-connections: 10
-claims: 6
+connections: 12
+claims: 7
 tags:
   - "entity"
   - "type/person"
@@ -15,16 +15,16 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 6 claims |
-| Connections | 10 |
+| Appears in | 7 claims |
+| Connections | 12 |
 
 ## How other claims describe it
 
 - US senator (D-OR); co-led the 2026 Kushner fundraising probe
 - US Senator; co-led the April 2026 Tether-loan letters
+- Senator probing Kushner's fundraising and 666 Fifth
 - Senator, co-signer of April 2025 SEC letter
 - Senator; ranking member of Senate Finance
-- Senator; USAR conflict letter
 
 ## Appears in claims
 
@@ -34,6 +34,7 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Relationships
 
@@ -43,6 +44,7 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 - [[Ron Wyden]] *investigating Gulf fundraising* [[Affinity Partners]] · 2026-03-19 · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Ron Wyden]] *sought loan records from* [[Howard Lutnick]] · 2026-04-29 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 
-### Legal (1)
+### Legal (2)
 
+- [[Ron Wyden]] *opened inquiry into fundraising* [[Jared Kushner]] · 2026-03 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Ron Wyden]] *letter on Lutnick trust loan* [[Tether]] · 2026-04-29 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]

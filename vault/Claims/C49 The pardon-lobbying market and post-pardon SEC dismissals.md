@@ -310,7 +310,7 @@ A paid clemency-lobbying market is well documented.
 - [[House Judiciary Committee Democrats]] *estimated pardons erased $1.3B (2025), then $1.7B (2026)* [[Donald Trump]] · 2026-08-21 · $1.7B · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Jamie Raskin]] *ranking member of* [[House Judiciary Committee Democrats]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Karoline Leavitt]] *press secretary; denies pardon profiteering* [[White House Trump administration]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
-- [[Keith Schiller]] *former bodyguard / Oval Office operations director* [[Donald Trump]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Keith Schiller]] *former bodyguard / Oval Office operations director* [[Donald Trump]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
 ### Legal (13)
 

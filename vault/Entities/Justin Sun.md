@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Sun"
-connections: 29
-claims: 13
+connections: 30
+claims: 14
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 13 claims |
-| Connections | 29 |
+| Appears in | 14 claims |
+| Connections | 30 |
 | Also known as | Sun |
 
 ## How other claims describe it
@@ -44,6 +44,7 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 
@@ -79,12 +80,13 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[Securities and Exchange Commission]] *dismissed claims; Rainberry pays $10M* [[Justin Sun]] · 2026-03-05 · $10M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *charged with fraud, then dismissed case* [[Justin Sun]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 
-### Advisory (5)
+### Advisory (6)
 
 - [[Justin Sun]] *named adviser* [[World Liberty Financial]] · 2024-11-26 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Justin Sun]] *named adviser to* [[World Liberty Financial]] · 2024-11-26 · [[C04 World Liberty Financial founding and token sale|C04]] [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *adviser to Tron Inc* [[SRM Entertainment Tron Inc]] · 2025-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Justin Sun]] *adviser; Tron treasury sponsor* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Justin Sun]] *adviser* [[HTX (formerly Huobi)]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Justin Sun]] *became adviser to* [[World Liberty Financial]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 
 ### Political (2)

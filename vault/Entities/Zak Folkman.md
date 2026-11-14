@@ -4,25 +4,26 @@ kind: "entity"
 type: "person"
 aliases:
   - "Zachary Folkman"
-connections: 7
-claims: 4
+connections: 8
+claims: 5
 tags:
   - "entity"
   - "type/person"
 ---
 # Zak Folkman
 
-WLF co-founder; later an ALT5 director or observer.
+WLF co-founder; part of the Apr 2025 Islamabad delegation.
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 4 claims |
-| Connections | 7 |
+| Appears in | 5 claims |
+| Connections | 8 |
 | Also known as | Zachary Folkman |
 
 ## How other claims describe it
 
+- WLF co-founder; later an ALT5 director or observer.
 - WLF co-founder and Herro's business partner.
 - WLF co-founder; Axiom owner
 - WLF co-founder
@@ -33,6 +34,7 @@ WLF co-founder; later an ALT5 director or observer.
 - [[C13 ALT5 Sigma $1.5B WLFI treasury deal]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 

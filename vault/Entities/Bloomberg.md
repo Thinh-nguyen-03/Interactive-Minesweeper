@@ -4,9 +4,10 @@ kind: "entity"
 type: "media"
 aliases:
   - "Bloomberg / Billionaires Index"
+  - "Bloomberg / Bloomberg Government"
   - "Bloomberg / Bloomberg Law"
-connections: 13
-claims: 8
+connections: 14
+claims: 9
 tags:
   - "entity"
   - "type/media"
@@ -18,17 +19,17 @@ Reported (2026-06-05) WLF stablecoin profits fueled partly by a Binance promotio
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 8 claims |
-| Connections | 13 |
-| Also known as | Bloomberg / Billionaires Index; Bloomberg / Bloomberg Law |
+| Appears in | 9 claims |
+| Connections | 14 |
+| Also known as | Bloomberg / Billionaires Index; Bloomberg / Bloomberg Government; Bloomberg / Bloomberg Law |
 
 ## How other claims describe it
 
 - July 2026 investigation of family windfall versus investor losses.
+- Reported Kollitides's SPAC board seat and the Lutnick screening
 - Foreign-holder analysis; Zanker treasury scoop
 - First reported the Polymarket probe closures.
 - Reported American Ventures' microcap gains.
-- Main investigative source on Dominari.
 
 ## Appears in claims
 
@@ -40,12 +41,13 @@ Reported (2026-06-05) WLF stablecoin profits fueled partly by a Binance promotio
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 
 ## Relationships
 
 ### Media (6)
 
-- [[Bloomberg]] *investigative reporting* [[Dominari Holdings Dominari Securities]] · 2025-05-19 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Bloomberg]] *investigative reporting* [[Dominari Holdings]] · 2025-05-19 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Bloomberg]] *reported probe closures* [[Polymarket]] · 2025-07-15 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Bloomberg]] *found $660M in undisclosed token-sale gains to the Trumps* [[World Liberty Financial]] · 2026-05-12 · $660M · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[Bloomberg]] *reported Binance-fueled stablecoin profits of* [[World Liberty Financial]] · 2026-06-05 · [[C10 Binance driving USD1 adoption|C10]]

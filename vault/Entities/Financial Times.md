@@ -37,7 +37,7 @@ Estimated $350M+ in TRUMP revenue and about $100M for MELANIA pre-launch buyers
 
 ### Media (5)
 
-- [[Financial Times]] *reported pre-announcement surge* [[Dominari Holdings Dominari Securities]] · 2025-03 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Financial Times]] *reported pre-announcement surge* [[Dominari Holdings]] · 2025-03 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Financial Times]] *reported 24 pre-announcement wallets made about $100M* [[$MELANIA meme coin]] · 2025-03 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[Financial Times]] *reported Don Jr.'s ~$4M stake at contract time* [[Unusual Machines]] · 2025-10 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Financial Times]] *reported Trump sons' stake* [[Skyline Builders Group]] · 2026-05 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]

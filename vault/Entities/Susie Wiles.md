@@ -24,6 +24,7 @@ White House chief of staff; Gabbard allegedly briefed her on the intercept.
 
 - White House chief of staff; ex-Ballard and Mercury lobbyist
 - White House chief of staff; former Ballard partner
+- White House chief of staff; ex-Ballard and Mercury
 
 ## Appears in claims
 
@@ -31,13 +32,13 @@ White House chief of staff; Gabbard allegedly briefed her on the intercept.
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
-- [[C73 Qatar's access network inside and around the administration]] · Pending
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (2)
 
-- [[Susie Wiles]] *former lobbyist at* [[Ballard Partners]] · 2011-2019 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Susie Wiles]] *former lobbyist at* [[Ballard Partners]] · 2011-2019 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Susie Wiles]] *co-chair FL/DC offices* [[Mercury Public Affairs]] · 2022-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
 ### Political (3)
@@ -46,7 +47,8 @@ White House chief of staff; Gabbard allegedly briefed her on the intercept.
 - [[Susie Wiles]] *chief of staff* [[White House Trump administration]] · 2025-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[David Sacks]] *complained about Ballard-pushed XRP post* [[Susie Wiles]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
-### Commercial (2)
+### Commercial (3)
 
+- [[Susie Wiles]] *co-chaired Florida/DC offices* [[Mercury Public Affairs]] · 2022-02 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Susie Wiles]] *former partner* [[Ballard Partners]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Susie Wiles]] *former partner of* [[Ballard Partners]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]

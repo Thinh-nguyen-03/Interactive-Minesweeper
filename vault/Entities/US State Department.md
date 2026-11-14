@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "State Department"
-connections: 10
-claims: 5
+connections: 14
+claims: 6
 tags:
   - "entity"
   - "type/government"
@@ -17,8 +17,8 @@ Approved possible military sales to Qatar.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 5 claims |
-| Connections | 10 |
+| Appears in | 6 claims |
+| Connections | 14 |
 | Also known as | State Department |
 
 ## How other claims describe it
@@ -36,15 +36,19 @@ Approved possible military sales to Qatar.
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Relationships
 
-### Regulatory (5)
+### Regulatory (8)
 
+- [[US State Department]] *approved* [[MQ-9B sale to Qatar]] · 2025-03-26 · $1.96B · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[US State Department]] *approved possible MQ-9B sale to* [[Qatar]] · 2025-03-26 · $1.96B · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[US State Department]] *approved* [[2026 possible military sales to Qatar ($5B)]] · 2026 · $5B · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[US State Department]] *approved 10,000 APKWS II sale to* [[Qatar]] · 2026-05 · $992.4M · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[US State Department]] *approved Patriot replenishment sale to* [[Qatar]] · 2026-05 · $4.01B · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[US State Department]] *approved (emergency waiver)* [[2026 Qatar Patriot and APKWS sales]] · 2026-05 · $5B · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[US State Department]] *approved* [[KC-46A sale to Qatar]] · 2026-08-20 · $4.5B · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[US State Department]] *notified F-35 sale to* [[US Congress]] · 2026-09-17 · $24.3B · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 
 ### Political (2)

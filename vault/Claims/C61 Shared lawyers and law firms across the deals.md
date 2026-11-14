@@ -58,7 +58,7 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 
 ## Follow-up checks
 
-- [[C73 Qatar's access network inside and around the administration]] · Pending
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Sub-claims
 

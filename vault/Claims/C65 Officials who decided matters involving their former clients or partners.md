@@ -68,8 +68,8 @@ Most of the named officials have documented prior ties to parties affected by th
 
 ## Follow-up checks
 
-- [[C73 Qatar's access network inside and around the administration]] · Pending
-- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
 
 ## Sub-claims
@@ -491,7 +491,7 @@ Most of the named officials have documented prior ties to parties affected by th
 - [[Pete Hegseth]] *Secretary* [[Pentagon (Department of Defense)]] · 2025-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Scott Bessent]] *Secretary* [[US Treasury]] · 2025-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Donald Trump]] *appointed Attorney General* [[Pam Bondi]] · 2025-02 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Paul Atkins]] *chair* [[Securities and Exchange Commission]] · 2025-04 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Donald Trump]] *appointed ambassador to France; pardoned 2020* [[Charles Kushner]] · 2025-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Massad Boulos]] *mediated minerals-for-security deal* [[Democratic Republic of the Congo]] · 2025-06-27 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
@@ -528,7 +528,7 @@ Most of the named officials have documented prior ties to parties affected by th
 - [[George Kollitides]] *ex-partner at affiliate A&M Capital; listed senior adviser Apr 2026* [[Alvarez & Marsal Federal]] · 2026-04 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[TI Capital]] *consortium member (MoU)* [[Kirkuk-Baniyas pipeline project]] · 2026-07 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Brad Bondi]] *partner* [[Paul Hastings LLP]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[David Lorch]] *former managing director* [[Cerberus Capital Management]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[David Lorch]] *former managing director* [[Cerberus Capital Management]] · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Gentry Beach]] *business associate* [[Donald Trump Jr]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[George Kollitides]] *former MD under Feinberg* [[Cerberus Capital Management]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Susie Wiles]] *former partner* [[Ballard Partners]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]

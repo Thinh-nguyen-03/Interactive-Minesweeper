@@ -2,8 +2,8 @@
 id: "ballard-partners"
 kind: "entity"
 type: "company"
-connections: 17
-claims: 5
+connections: 18
+claims: 6
 tags:
   - "entity"
   - "type/company"
@@ -15,13 +15,14 @@ Trump-tied lobbying firm; record $88.1M 2025 revenue; former employer of Bondi a
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 5 claims |
-| Connections | 17 |
+| Appears in | 6 claims |
+| Connections | 18 |
 
 ## How other claims describe it
 
 - Trump-aligned lobbying firm; former employer of Bondi and Wiles.
 - Trump-tied lobbying firm; K Street revenue leader in 2025
+- Trump-linked lobbying firm; represented Qatar 2018-20
 - Lobbying firm; Qatar paid $115K/month 2019-20
 - Trump-tied lobbying firm
 
@@ -32,14 +33,16 @@ Trump-tied lobbying firm; record $88.1M 2025 revenue; former employer of Bondi a
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Relationships
 
-### Money (9)
+### Money (10)
 
 - [[Socialist Party of Albania]] *hired at $20K/month* [[Ballard Partners]] · 2017-04 · $20K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Ballard Partners]] *FARA-registered agent for ($115K/month firm fee)* [[Qatar]] · 2019 · $115K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Ballard Partners]] *FARA-registered lobbying for (firm fee per month)* [[Qatar]] · 2019 · $115K · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Qatar]] *paid $115K/month for embassy lobbying (Bondi listed)* [[Ballard Partners]] · 2019-07 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Qatar]] *paid $115K/month for lobbying* [[Ballard Partners]] · 2019-07 · $115K · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Blockchain.com]] *hired* [[Ballard Partners]] · 2024-12 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Blockchain.com]] *hired (with Kraken, $60K combined Dec 2024)* [[Ballard Partners]] · 2024-12 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
@@ -54,7 +57,7 @@ Trump-tied lobbying firm; record $88.1M 2025 revenue; former employer of Bondi a
 
 ### Advisory (1)
 
-- [[Susie Wiles]] *former lobbyist at* [[Ballard Partners]] · 2011-2019 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Susie Wiles]] *former lobbyist at* [[Ballard Partners]] · 2011-2019 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C73 Qatar's access network inside and around the administration|C73]]
 
 ### Political (2)
 

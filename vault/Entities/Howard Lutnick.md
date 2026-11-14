@@ -2,8 +2,8 @@
 id: "howard-lutnick"
 kind: "entity"
 type: "person"
-connections: 25
-claims: 7
+connections: 27
+claims: 8
 tags:
   - "entity"
   - "type/person"
@@ -15,16 +15,16 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 7 claims |
-| Connections | 25 |
+| Appears in | 8 claims |
+| Connections | 27 |
 
 ## How other claims describe it
 
 - Commerce Secretary credited by Cove; sits on the EXIM and DFC boards per CREW.
+- Commerce Secretary; reportedly screens Cerberus-linked Pentagon deals
 - US Commerce Secretary; former Cantor Fitzgerald chairman/CEO
 - Commerce Secretary; former Cantor Fitzgerald chairman/CEO
 - Commerce Secretary; family trusts control Cantor
-- Commerce Secretary; former Cantor chairman/CEO
 
 ## Appears in claims
 
@@ -35,6 +35,7 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 
 ## Relationships
 
@@ -49,19 +50,21 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 - [[Howard Lutnick]] *former chairman/CEO; stake moved to sons' trusts* [[Cantor Fitzgerald]] · 2025-02 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Howard Lutnick]] *former chairman/CEO; divested to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 
-### Family (5)
+### Family (6)
 
 - [[Howard Lutnick]] *former chairman; children's trusts control* [[Cantor Fitzgerald]] · 2025-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Howard Lutnick]] *divested interests to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Howard Lutnick]] *former CEO; interests to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Howard Lutnick]] *father of* [[Brandon Lutnick]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Howard Lutnick]] *former chairman; family-controlled* [[Cantor Fitzgerald]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Howard Lutnick]] *father of* [[Kyle Lutnick]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 
-### Regulatory (3)
+### Regulatory (4)
 
 - [[Howard Lutnick]] *allegedly delayed Entity List action against* [[Megaspeed]] · 2026 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Jamie Raskin]] *demanded tariff records from* [[Howard Lutnick]] · 2026-02-27 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Ron Wyden]] *sought loan records from* [[Howard Lutnick]] · 2026-04-29 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Howard Lutnick]] *reportedly screens Pentagon deals involving it* [[Cerberus Capital Management]] · 2026-09 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 
 ### Advisory (1)
 

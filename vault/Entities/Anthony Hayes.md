@@ -26,4 +26,4 @@ CEO of Dominari Holdings; about $34M in 2025 pay.
 
 ### Ownership (1)
 
-- [[Anthony Hayes]] *CEO (about $34M 2025 pay)* [[Dominari Holdings Dominari Securities]] · 2025 · $34M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Anthony Hayes]] *CEO (about $34M 2025 pay)* [[Dominari Holdings]] · 2025 · $34M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]

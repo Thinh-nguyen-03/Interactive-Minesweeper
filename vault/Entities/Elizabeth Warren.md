@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Sen. Elizabeth Warren"
-connections: 58
-claims: 26
+connections: 62
+claims: 28
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 26 claims |
-| Connections | 58 |
+| Appears in | 28 claims |
+| Connections | 62 |
 | Also known as | Sen. Elizabeth Warren |
 
 ## How other claims describe it
@@ -57,20 +57,23 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 
 ## Relationships
 
-### Regulatory (7)
+### Regulatory (8)
 
 - [[Elizabeth Warren]] *asked to investigate tariff-pause insider trading* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Elizabeth Warren]] *ethics inquiry: unsigned disclosure* [[Steve Witkoff]] · 2025-11-18 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Elizabeth Warren]] *asked DOJ/Treasury to investigate token sales* [[World Liberty Financial]] · 2025-11-18 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Elizabeth Warren]] *urged investigation of Trump Mobile marketing* [[Federal Trade Commission]] · 2026-01-15 · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Elizabeth Warren]] *letter on Mar-a-Lago memecoin conference (with Schiff, Blumenthal)* [[Bill Zanker]] · 2026-04-08 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[Elizabeth Warren]] *sought loan records from* [[Tether]] · 2026-04-29 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Elizabeth Warren]] *questioned on Kazakh financing* [[Export-Import Bank of the United States]] · 2026-07-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Elizabeth Warren]] *asked SEC to investigate $TRUMP (with Blumenthal)* [[Paul Atkins]] · 2026-08-04 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 
-### Political (32)
+### Political (33)
 
 - [[Elizabeth Warren]] *asked to scrutinize EA buyout* [[CFIUS]] · 2025 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Elizabeth Warren]] *questioned waivers and SGE status* [[David Sacks]] · 2025-03-06 · [[C34 David Sacks AI & crypto czar with investments|C34]]
@@ -95,6 +98,7 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 - [[Elizabeth Warren]] *criticized as 'corruption in plain sight'* [[Foundation Future Industries]] · 2026-04 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Elizabeth Warren]] *letters on Ryan's exit and enforcement decline* [[Paul Atkins]] · 2026-04-15 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Elizabeth Warren]] *probing missing settlement money at* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-04-20 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Elizabeth Warren]] *letters on Cerberus conflicts* [[Stephen Feinberg]] · 2026-04-27 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Elizabeth Warren]] *questioned on Unusual Machines contracts* [[Pete Hegseth]] · 2026-05-06 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Elizabeth Warren]] *letter criticizing Gemini vacatur motion* [[Commodity Futures Trading Commission]] · 2026-06 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Elizabeth Warren]] *pressed on $6.5M-$14.5M missing and $7M unexplained spending* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-07-16 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]

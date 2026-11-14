@@ -61,7 +61,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 - [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
-- [[C76 Russia-linked money around the family and envoys]] · Pending
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
 
 ## Sub-claims

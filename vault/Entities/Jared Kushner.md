@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Kushner"
-connections: 55
-claims: 20
+connections: 62
+claims: 21
 tags:
   - "entity"
   - "type/person"
@@ -19,8 +19,8 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 20 claims |
-| Connections | 55 |
+| Appears in | 21 claims |
+| Connections | 62 |
 | Also known as | Kushner |
 
 ## How other claims describe it
@@ -49,23 +49,25 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
-- [[C73 Qatar's access network inside and around the administration]] · Pending
-- [[C76 Russia-linked money around the family and envoys]] · Pending
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Pending
 
 ## Relationships
 
-### Money (3)
+### Money (4)
 
 - [[Jared Kushner]] *alleged signatory on account of (unverified; denied)* [[Watani Al Emarat Foundation]] · 2017 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
 - [[Jared Kushner]] *alleged signatory on roughly $750M account of (denied)* [[Watani Al Emarat Foundation]] · 2018 · $750M · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
 - [[Michael Boulos]] *earned about $300K fee on yacht sold to* [[Jared Kushner]] · 2022 · $300K · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Jared Kushner]] *sought new capital from (NYT)* [[Qatar Investment Authority]] · 2026-03 · [[C73 Qatar's access network inside and around the administration|C73]]
 
-### Ownership (11)
+### Ownership (12)
 
 - [[Jared Kushner]] *divested Thrive-linked LLCs (2017 ethics filing)* [[Thrive Capital]] · 2017-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Jared Kushner]] *founder* [[Affinity Partners]] · 2021 · [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Jared Kushner]] *founder* [[Affinity Partners]] · 2021 · [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]]
 - [[Jared Kushner]] *affiliated via Affinity partners; minority partner* [[Atlantic Incubation Partners LLC]] · 2024-12-30 · [[C63 Shell entities and ownership chains|C63]]
 - [[Jared Kushner]] *self-described minority partner in* [[Zvernec Vjosa-Narta coastal project]] · 2026-10 · [[C45 Kushner's Albania and Serbia developments|C45]]
@@ -75,6 +77,7 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[Jared Kushner]] *founder and head of* [[Affinity Partners]] · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Jared Kushner]] *founder of* [[Affinity Partners]] · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Jared Kushner]] *runs* [[Affinity Partners]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *co-founded* [[Cadre]] · [[C76 Russia-linked money around the family and envoys|C76]]
 
 ### Family (6)
 
@@ -97,13 +100,15 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 
 - [[Agnes Callamard]] *urged him to check/replace phone after Bezos hack* [[Jared Kushner]] · 2020-01 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
 
-### Political (13)
+### Political (15)
 
+- [[Rick Gerson]] *passed Dmitriev plan to* [[Jared Kushner]] · 2017-01 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Benjamin Netanyahu]] *allegedly encouraged Bank of Israel account for (unverified)* [[Jared Kushner]] · 2018 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
 - [[David Friedman]] *allegedly relayed messages for; denies* [[Jared Kushner]] · 2018 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
 - [[Jared Kushner]] *reportedly messaged via WhatsApp (single source)* [[Mohammed bin Salman]] · 2018 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
 - [[Jared Kushner]] *co-negotiates Russia/Iran talks with* [[Steve Witkoff]] · 2025 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
 - [[Jared Kushner]] *negotiates alongside* [[Steve Witkoff]] · 2025 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *negotiated with (Miami Oct 2025; Mar 2026 energy talks)* [[Kirill Dmitriev]] · 2025-10 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Jared Kushner]] *negotiates Ukraine settlement with* [[Russia]] · 2025-12 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
 - [[Jared Kushner]] *participated in US talks with* [[Iran]] · 2026 · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *executive board member of* [[Board of Peace]] · 2026-01 · [[C15 Jared Kushner and Affinity Partners|C15]]
@@ -113,11 +118,12 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[Jared Kushner]] *travels and negotiates with* [[Steve Witkoff]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *unofficial 'peace envoy' for* [[White House Trump administration]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 
-### Legal (10)
+### Legal (11)
 
 - [[GRU (Russian military intelligence)]] *allegedly hacked personal iPhone of (single-source book claim)* [[Jared Kushner]] · 2017 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
 - [[MIVD (Dutch Military Intelligence and Security Service)]] *allegedly viewed phone screen via turned GRU officer* [[Jared Kushner]] · 2018 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
 - [[Salt Typhoon]] *targeted phone/call data of (access unconfirmed)* [[Jared Kushner]] · 2024-10 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+- [[Ron Wyden]] *opened inquiry into fundraising* [[Jared Kushner]] · 2026-03 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Jamie Raskin]] *expanded probe into $120M Albanian land purchase, FCPA questions* [[Jared Kushner]] · 2026-08-24 · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Chad Mizelle]] *personal lawyer to* [[Jared Kushner]] · 2026-10 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Citizens for Responsibility and Ethics in Washington]] *sued over envoy role and lack of disclosure* [[Jared Kushner]] · 2026-10 · [[C15 Jared Kushner and Affinity Partners|C15]]
@@ -133,11 +139,12 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[Vanity Fair (Condé Nast)]] *published excerpt alleging phone hack and secret accounts* [[Jared Kushner]] · 2026-10-22 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
 - [[Molly White]] *describes conflicts of* [[Jared Kushner]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 
-### Commercial (3)
+### Commercial (4)
 
 - [[Jared Kushner]] *bought via Frangi brokerage* [[Solstice superyacht]] · 2022 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Jared Kushner]] *resort projects with Rama government (C45)* [[Albania]] · 2024-12 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Jared Kushner]] *pursuing Sazan/Zvernec resorts approved by* [[Albania]] · 2024-2026 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Moutaz and Ramez Al-Khayyat]] *reported partners on Albania resort project (single-source)* [[Jared Kushner]] · [[C76 Russia-linked money around the family and envoys|C76]]
 
 ## Themes
 

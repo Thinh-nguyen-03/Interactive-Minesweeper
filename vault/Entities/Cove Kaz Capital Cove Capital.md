@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Cove Kaz Capital"
-connections: 14
-claims: 3
+connections: 15
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -17,12 +17,13 @@ US group awarded the Kazakh tungsten project; CEO Pini Althaus.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 claims |
-| Connections | 14 |
+| Appears in | 4 claims |
+| Connections | 15 |
 | Also known as | Cove Kaz Capital |
 
 ## How other claims describe it
 
+- Kazakh tungsten developer; requested $400M from OSC
 - Developer of the Kazakh tungsten project
 - US tungsten developer
 
@@ -31,15 +32,17 @@ US group awarded the Kazakh tungsten project; CEO Pini Althaus.
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 
 ## Relationships
 
-### Money (5)
+### Money (6)
 
 - [[Export-Import Bank of the United States]] *letter of interest up to $900M* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $900M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Export-Import Bank of the United States]] *non-binding letter of interest* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $900M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[US International Development Finance Corporation]] *letters of interest $700M* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $700M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[US International Development Finance Corporation]] *non-binding letters of interest* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $700M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Cove Kaz Capital Cove Capital]] *applied for $400M* [[Office of Strategic Capital]] · 2026-05 · $400M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Cove Kaz Capital Cove Capital]] *sought additional funding from* [[Office of Strategic Capital]] · 2026-05 · $400M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 
 ### Ownership (1)

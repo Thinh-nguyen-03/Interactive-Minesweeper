@@ -63,7 +63,7 @@ Only a few parties are documented putting money into more than one Trump-family 
 ## Follow-up checks
 
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
-- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Pending
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Sub-claims
 
@@ -295,7 +295,7 @@ Only a few parties are documented putting money into more than one Trump-family 
 - [[Cumberland (DRW)]] · Company
 - [[Dar Global]] · Company
 - [[Dave Lee]] · Person
-- [[Dominari Holdings Dominari Securities]] · Company
+- [[Dominari Holdings]] · Company
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
 - [[DRW Investments]] · Company
@@ -383,7 +383,7 @@ Only a few parties are documented putting money into more than one Trump-family 
 
 ### Ownership (29)
 
-- [[Jared Kushner]] *founder* [[Affinity Partners]] · 2021 · [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Jared Kushner]] *founder* [[Affinity Partners]] · 2021 · [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Donald Trump Jr]] *partner* [[1789 Capital]] · 2024-11 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Andrei Grachev]] *managing partner* [[DWF Labs]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
@@ -391,8 +391,8 @@ Only a few parties are documented putting money into more than one Trump-family 
 - [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[CIC Digital LLC]] *co-holder* [[$TRUMP meme coin]] · 2025-01-17 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Fight Fight Fight LLC]] *co-issuer* [[$TRUMP meme coin]] · 2025-01-17 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Donald Trump Jr]] *adviser and ~6.7% shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Eric Trump]] *adviser and ~6.7% shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Donald Trump Jr]] *adviser and ~6.7% shareholder* [[Dominari Holdings]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Eric Trump]] *adviser and ~6.7% shareholder* [[Dominari Holdings]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Hut 8]] *80% owner via miner contribution* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[SRM Entertainment Tron Inc]] *renamed to* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
@@ -457,7 +457,7 @@ Only a few parties are documented putting money into more than one Trump-family 
 - [[Qatari Diar]] *Simaisma golf/villa partner* [[Trump Organization]] · 2025-04-30 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[MGX]] *used for Binance settlement* [[USD1]] · 2025-05-01 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Crypto.com]] *bitcoin treasury custodian* [[Trump Media & Technology Group]] · 2025-05-27 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Dominari Holdings Dominari Securities]] *exclusive placement agent on TRX-treasury financing* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06-16 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Dominari Holdings]] *exclusive placement agent on TRX-treasury financing* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06-16 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Kraken]] *named Asset Manager of WLFI treasury* [[ALT5 Sigma]] · 2025-08-11 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Crypto.com]] *CRO treasury SPAC partner (terminated 2026-08-07)* [[Yorkville Acquisition Corp]] · 2025-08-26 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Crypto.com]] *prediction-market partner* [[Truth Predict]] · 2025-10-28 · [[C67 Investors who show up in several Trump-family vehicles|C67]]

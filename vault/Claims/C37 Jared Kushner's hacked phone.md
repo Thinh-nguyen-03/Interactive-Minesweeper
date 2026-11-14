@@ -65,7 +65,7 @@ One specific allegation exists, but it rests on a single source.
 
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
 - [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
-- [[C76 Russia-linked money around the family and envoys]] · Pending
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 
 ## Sub-claims
 

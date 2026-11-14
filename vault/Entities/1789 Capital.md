@@ -2,8 +2,8 @@
 id: "1789-capital"
 kind: "entity"
 type: "fund"
-connections: 26
-claims: 11
+connections: 27
+claims: 12
 tags:
   - "entity"
   - "type/fund"
@@ -15,8 +15,8 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 11 claims |
-| Connections | 26 |
+| Appears in | 12 claims |
+| Connections | 27 |
 
 ## How other claims describe it
 
@@ -39,13 +39,15 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 
 ## Relationships
 
-### Money (16)
+### Money (17)
 
 - [[1789 Capital]] *led $60M Series C in* [[Firehawk Aerospace]] · 2025 · $60M · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[1789 Capital]] *invested in* [[Polymarket]] · 2025-08 · [[C26 1789 Capital and Vulcan Elements|C26]] [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[1789 Capital]] *Series A investor* [[Vulcan Elements]] · 2025-08 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[1789 Capital]] *Series A stake* [[Vulcan Elements]] · 2025-08 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[1789 Capital]] *invested in $65M Series A of* [[Vulcan Elements]] · 2025-08 · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[1789 Capital]] *invested in (Series A)* [[Vulcan Elements]] · 2025-08 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

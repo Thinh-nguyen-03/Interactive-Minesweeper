@@ -2,8 +2,8 @@
 id: "cantor-fitzgerald"
 kind: "entity"
 type: "company"
-connections: 27
-claims: 6
+connections: 29
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -15,16 +15,16 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 6 claims |
-| Connections | 27 |
+| Appears in | 7 claims |
+| Connections | 29 |
 
 ## How other claims describe it
 
 - Lutnick-family firm; TMTG bitcoin-raise financial adviser; Tether custodian
+- Lutnick family firm; reported backer and prime broker of Cerberus funds
 - Wall Street firm; Tether reserve custodian and convertible-bond holder
 - Wall Street firm; custodian of Tether's Treasury reserves
 - Lutnick-family firm; SPAC sponsor; Tether custodian
-- USAT reserve custodian; Lutnick family firm
 
 ## Appears in claims
 
@@ -34,6 +34,7 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 
 ## Relationships
 
@@ -61,11 +62,12 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 - [[Kyle Lutnick]] *executive at* [[Cantor Fitzgerald]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Kyle Lutnick]] *executive vice chair of* [[Cantor Fitzgerald]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 
-### Family (3)
+### Family (4)
 
 - [[Howard Lutnick]] *former chairman; children's trusts control* [[Cantor Fitzgerald]] · 2025-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Howard Lutnick]] *divested interests to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Howard Lutnick]] *former CEO; interests to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Howard Lutnick]] *former chairman; family-controlled* [[Cantor Fitzgerald]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 
 ### Regulatory (1)
 
@@ -81,7 +83,7 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 - [[Wired]] *reported tariff-refund rights pitch at 20-30%* [[Cantor Fitzgerald]] · 2025-07 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[The New York Times]] *reported ties to 14 federally backed mineral firms* [[Cantor Fitzgerald]] · 2026-06-28 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 
-### Commercial (13)
+### Commercial (14)
 
 - [[Cantor Fitzgerald]] *custodies Treasury reserves for fees* [[Tether]] · 2024-11 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Cantor Fitzgerald]] *sought backing for bitcoin lending from (talks reported)* [[Tether]] · 2024-11 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
@@ -93,6 +95,7 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 - [[Cantor Fitzgerald]] *lead placement agent on $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Cantor Fitzgerald]] *reserve custodian* [[USAT]] · 2026-01-27 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Cantor Fitzgerald]] *reserve custodian and preferred primary dealer* [[USAT]] · 2026-01-27 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Cantor Fitzgerald]] *reported backer and prime broker since 2012* [[Cerberus Capital Management]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Cantor Fitzgerald]] *raised $210M for a project investment partner (NYT)* [[Kaz Resources]] · $210M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Cantor Fitzgerald]] *custodies reserves and holds convertible bond in* [[Tether]] · $600M · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Cantor Fitzgerald]] *banker/financial adviser to* [[The Metals Company]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

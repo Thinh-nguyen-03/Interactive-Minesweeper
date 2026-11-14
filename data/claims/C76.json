@@ -1,0 +1,1090 @@
+{
+  "id": "C76",
+  "title": "Russia-linked money around the family and envoys",
+  "verdict": "partly-accurate",
+  "confidence": "medium",
+  "summary": "The Russia-adjacent links are real but mostly indirect. Several are documented. A Putin-linked oligarch, Umar Kremlev, paid for parts of Don Jr.'s wedding celebrations through a Dubai IBA entity; the family confirmed this and later repaid him. Witkoff's family firm is in active partnership with Len Blavatnik's Access Industries. Dmitriev runs a direct business-flavoured channel with Witkoff and Kushner, which dates back to a 2016-17 plan routed through Kushner. A Trump Jr. friend struck an LNG deal with sanctioned Novatek. Other links are single-source or unverified: that Blavatnik advised Dmitriev, that the Lukoil sale entered the talks via Putin, and that WLF sold to Russia-linked wallets. The Guilfoyle pay-to-play allegation is documented, but it has no Russia link. No source shows a personal financial stake for Witkoff or Kushner in a Russia deal.",
+  "sub_claims": [
+    {
+      "statement": "Steve Witkoff's real-estate business is in active partnership with Len Blavatnik's Access Industries while Witkoff negotiates with Russia.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (trade press, multiple deals): Witkoff Group and Access Industries bought HFZ's XI condo project out of a ~$900M Dec 2021 foreclosure and renamed it One High Line (The Real Deal, 2021-12-23). They refinanced it with a $1.15B JPMorgan/Tyko loan (Aug 2024) and landed a further $525M loan (Jan 2026). They also co-own Banyan Cay (West Palm Beach) and announced a North Beach, Miami condo project with Sandor Scher (Feb 2025). The 'undisclosed conflict' framing is SINGLE-SOURCE commentary: Counteroffensive (Apr 2025), Popular Information, and Byline Times (1 Dec 2025). They note the partnership continued after Ukraine sanctioned Blavatnik in Dec 2023, on grounds Ukraine never published. Witkoff sold a $120M stake in his firm in Sep 2025. His son Alex still runs operations, so the family's exposure to the partnership continues; that last point is our INFERENCE. Access Industries says Blavatnik and Witkoff 'have never spoken about the Russia-Ukraine negotiations'. Blavatnik says he exited Russia in 2022. The tie shows a commercial relationship, not influence on policy.",
+      "sources": [
+        "https://therealdeal.com/new-york/2021/12/23/witkoff-and-access-industries-buy-hfzs-languishing-xi-condo-project",
+        "https://therealdeal.com/new-york/2024/08/16/witkoff-blavatnik-refinance-one-high-line-condo-project",
+        "https://therealdeal.com/new-york/2026/01/30/one-high-line-developers-land-525m-loan",
+        "https://www.counteroffensive.news/cp/161746319",
+        "https://popular.info/p/top-trump-negotiator-retains-partnership",
+        "https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/",
+        "https://therealdeal.com/national/2025/09/16/steve-witkoff-sells-stake-in-real-estate-firm-for-120m"
+      ]
+    },
+    {
+      "statement": "Blavatnik was a former adviser to Kirill Dmitriev / RDIF, putting Witkoff's financing 'in the orbit' of Dmitriev.",
+      "verdict": "unverified",
+      "finding": "SINGLE-SOURCE (Byline Times headline and characterisation); the article could not be fetched (host blocked), so we rely on search summaries. In those summaries, the named pre-2022 RDIF foreign advisers are Leon Black and Stephen Schwarzman, not Blavatnik. We found no independent source placing Blavatnik on an RDIF advisory body. Treat it as unconfirmed. Byline also says RDIF was 'one of Jared Kushner's biggest creditors'. We could not verify this anywhere and have not adopted it.",
+      "sources": [
+        "https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/"
+      ]
+    },
+    {
+      "statement": "A Putin-linked Russian oligarch, Umar Kremlev, paid for parts of Donald Trump Jr.'s May 2026 Bahamas wedding celebrations.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (ProPublica, 14 Sep 2026, and confirmed by the family): Kremlev, president of the International Boxing Association (IBA), spent 'hundreds of thousands of dollars'. This included renting one of the two private islands used and a fireworks show. The money came through IB Challenger, a Dubai entity affiliated with the IBA. Trump Jr.'s spokesperson did not dispute it and called Kremlev 'a personal friend of Don' but 'not someone he has a business relationship with'. Bettina Anderson says he paid for two after-parties, not the wedding itself. The family called it a generous gift and pledged to repay; on 6 Oct 2026 Kremlev said he had been repaid (AP). The IOC has previously criticised the IBA for depending on Gazprom sponsorship. Kyiv Post could not identify IB Challenger's own funding sources. Response: Rep. Robert Garcia (Oversight ranking Democrat) sent records requests on 15 Sep 2026. These are voluntary in the minority. Sen. John Curtis (R-UT) asked the Senate Judiciary Committee to investigate. AG Todd Blanche asked 'What is there to investigate'. Trump said he had 'no idea who Umar is'. We found no report that Kremlev sought or received any US government benefit.",
+      "sources": [
+        "https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin",
+        "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-payments-investigation",
+        "https://www.axios.com/2026/09/14/umar-kremlev-donald-trump-jr-wedding-bahamas",
+        "https://www.axios.com/2026/09/15/donald-trump-jr-wedding-investigation-kremlev",
+        "https://meduza.io/en/news/2026/09/14/russian-oligarch-umar-kremlev-spent-hundreds-of-thousands-of-dollars-to-help-fund-donald-trump-jr-s-bahamas-wedding",
+        "https://meduza.io/en/news/2026/09/16/the-u-s-attorney-general-was-asked-whether-he-d-investigate-russian-boxing-chief-umar-kremlev-s-reported-financing-of-trump-jr-s-wedding-festivities-his-response-what-is-there-to-investigate",
+        "https://www.adn.com/nation-world/2026/09/22/gop-senator-calls-for-probe-of-trump-jr-after-wedding-party-bankrolled-by-russian-oligarch/",
+        "https://www.wcax.com/2026/10/06/russian-oligarch-says-donald-trump-jr-has-paid-him-back-wedding-celebration-expenses/",
+        "https://www.kyivpost.com/post/88580",
+        "https://www.flashscore.pt/noticias/iba-too-slow-with-reforms-and-too-dependent-on-russia-s-gazprom-for-funds-according-to-ioc/lEZDblNO/"
+      ]
+    },
+    {
+      "statement": "Kirill Dmitriev (RDIF, sanctioned 2022) runs a direct channel to Witkoff and Kushner and pitched US-Russia business deals as part of the peace process ('make money not war').",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. Dmitriev visited Washington on 2-3 Apr 2025 at Witkoff's invitation. CNN and Reuters, citing anonymous sources, reported a temporary sanctions waiver for the visa. He then held three days of talks with Witkoff and Kushner in Miami (24-26 Oct 2025, Axios), which produced the 28-point plan of Nov 2025. Axios published its text. Under the plan, $100B of frozen Russian assets would go into US-led Ukraine reconstruction, with the US taking 50% of the profit. The remaining frozen funds would go into a joint US-Russian investment vehicle. Further meetings came in Jan/Feb 2026 (Miami) and in Mar 2026, the latter on energy cooperation (Moscow Times/Interfax). The WSJ's 29 Nov 2025 'Make Money Not War' (Hinshaw, Faucon, Ballhaus, Grove, Parkinson) reports Dmitriev pitching joint deals in rare earths, Arctic energy and shipping. The WSJ quotes Witkoff hoping Russia, Ukraine and the US become 'business partners'. The White House says it took input from both sides. Note: the business deals are state-to-state or corporate proposals. No source shows a personal stake for Witkoff or Kushner in them.",
+      "sources": [
+        "https://euromaidanpress.com/2025/04/03/putin-envoy-dmitriev-trump-envoy-witkoff-met-in-washington/",
+        "https://themoscowtimes.com/2025/04/04/russian-envoy-seeks-cooperation-with-us-at-landmark-washington-talks-a88601",
+        "https://euromaidanpress.com/2025/11/19/trump-team-meets-top-putin-envoy-for-three-days-in-miami-drafts-secret-ukraine-peace-deal-axios-says",
+        "https://www.axios.com/2025/11/20/trump-ukraine-peace-plan-28-points-russia",
+        "https://www.cbsnews.com/news/trump-administration-proposed-28-point-russia-ukraine-peace-plan/",
+        "https://www.tovima.com/wsj/make-money-not-war-trumps-real-plan-for-peace-in-ukraine/",
+        "https://www.pravda.com.ua/eng/news/2025/11/29/8009576",
+        "https://www.themoscowtimes.com/2026/03/12/putin-envoy-kirill-dmitriev-meets-with-witkoff-and-kushner-to-discuss-russian-energy-a92208/pdf"
+      ]
+    },
+    {
+      "statement": "The Dmitriev-Kushner channel predates the current talks (2016-17 transition).",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (Mueller report, Vol. I): in late Nov 2016 the UAE national security adviser (Tahnoon bin Zayed) introduced Dmitriev to Rick Gerson, a hedge-fund friend of Kushner. Gerson and Dmitriev drafted a two-page US-Russia 'reconciliation plan', which Dmitriev implied Putin had cleared. Dmitriev sent it on 16 Jan 2017, and Gerson passed it to Kushner, who shared it with Bannon and Tillerson. Kushner told the special counsel no one followed up. Separately, Dmitriev met Erik Prince in the Seychelles in Jan 2017, a meeting George Nader brokered. This shows that the same UAE-Dmitriev-Kushner triangle seen in C06/C15 existed nine years earlier. It does not show any money flow.",
+      "sources": [
+        "https://www.themoscowtimes.com/2019/04/22/the-russia-trump-links-in-muellers-report-explained",
+        "https://www.bloombergquint.com/politics/kushner-friend-worked-with-putin-deputy-on-reconciliation-plan"
+      ]
+    },
+    {
+      "statement": "The sale of sanctioned Lukoil's ~$20B foreign assets entered the Witkoff/Kushner talks, with a bidding consortium that includes Gulf partners of Witkoff and Kushner.",
+      "verdict": "partly-accurate",
+      "finding": "SINGLE-SOURCE for the core point: the NYT (early Oct 2026, three unnamed people, read via relays because the site was blocked) reports that Putin raised the Lukoil asset sale with Witkoff and Kushner in the Kremlin on 5 Sep 2026. The bidding consortium is led by Todd Boehly, who gave $1M-$2M to Trump causes (outlets disagree on the amount). Relaying reports name its members as IHC (the Tahnoon-chaired Abu Dhabi group), Al Hail Holding, the Qatar-based Al-Khayyat brothers and the US DFC, which would take a mid-teens stake. Reports describe the Al-Khayyats as former partners of Kushner and Ivanka Trump in the southern Albania resort (C45). That is SINGLE-SOURCE in what we saw. Carlyle had agreed a deal in Jan 2026 and then withdrew. Any sale needs OFAC and Kremlin approval. Witkoff's spokesperson: he 'has no conflict of interest and no financial stake in this matter'. The NYT found no indication that Witkoff or Kushner would profit personally.",
+      "sources": [
+        "https://www.pravda.com.ua/eng/news/2026/10/03/8056300/",
+        "https://meduza.io/en/news/2026/10/05/lukoil-s-foreign-asset-sale-becomes-part-of-u-s-russia-talks-on-ending-ukraine-war-nyt-reports",
+        "https://kyivindependent.com/u-s-peace-negotiations-with-russia-could-now-involve-multi-billion-dollar-lukoil-deal-nyt-reports/",
+        "https://www.wionews.com/world/us-russia-talks-lukoil-assets-todd-boehly-trump-investors-1791021292256",
+        "https://meduza.io/en/news/2026/09/23/former-chelsea-co-owner-todd-boehly-seeks-to-buy-lukoil-s-foreign-assets"
+      ]
+    },
+    {
+      "statement": "Gentry Beach, a friend of Donald Trump Jr., struck an LNG deal with sanctioned Russian gas producer Novatek for an Alaska project.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED (NYT, Feb 2026; relayed by Moscow Times, ADN): Beach, a Dallas investor, signed an LNG technology agreement with Novatek after the Aug 2025 Alaska summit, for the North Slope 'Polar Train' project. Beach said it would use a mobile LNG plant built at Novatek's Murmansk site. In Oct 2026 the FT reported (relayed by Ukrainska Pravda) that Novatek was allegedly financing and controlling the ~$25B project and that most of its management left. That part is SINGLE-SOURCE. Novatek told the NYT it planned a minority stake. Beach describes a social friendship with the Trump family and denies doing business with them. No source shows US approval was granted because of the friendship.",
+      "sources": [
+        "https://www.themoscowtimes.com/2026/02/20/us-investor-linked-to-trump-signed-gas-deal-with-russias-novatek-nyt-a92006",
+        "https://www.adn.com/business-economy/energy/2026/03/02/texas-investor-with-trump-family-ties-pursues-project-to-tap-north-slope-gas/",
+        "https://www.thebarentsobserver.com/news/us-investor-with-ties-to-trump-family-looks-to-murmansk/445637",
+        "https://www.pravda.com.ua/eng/news/2026/10/24/8059533/"
+      ]
+    },
+    {
+      "statement": "World Liberty Financial sold tokens to Russia-linked buyers.",
+      "verdict": "unverified",
+      "finding": "SINGLE-SOURCE on-chain analysis by Accountable.US (Sep 2025). It says WLF sold more than 10,000 WLFI to a wallet ('0x9009...') that had transacted in A7A5, the US-sanctioned ruble-backed stablecoin. Senators Warren and Reed asked DOJ and Treasury to investigate (18 Nov 2025), and Senate Banking Democrats raised sanctions controls again on 13 May 2026. These letters are DOCUMENTED, but they do not establish the underlying fact. WLF says it ran AML/KYC on presale buyers and screens for sanctions risk. Some researchers call the hits false positives. We found no government finding.",
+      "sources": [
+        "https://www.banking.senate.gov/newsroom/minority/as-congress-considers-potential-market-structure-legislation-warren-and-reed-press-doj-and-treasury-on-national-security-risks-posed-by-trump-affiliated-crypto-ventures-sale-of-tokens-to-illicit-actors",
+        "https://cointelegraph.com/news/senators-trump-linked-wlfi-national-security-threat",
+        "https://www.banking.senate.gov/download/20260513-letter-to-bessent-blanche-on-wlf&download=1"
+      ]
+    },
+    {
+      "statement": "The Trump Organization has had buyers from Russia.",
+      "verdict": "partly-accurate",
+      "finding": "DOCUMENTED but historical. Reuters (2017) counted at least 63 buyers with Russian passports or addresses paying $98.4M in seven Trump-branded south Florida towers. A 2018 analysis found 86 all-cash purchases, nearly $109M, by buyers tied to Russia or other former Soviet states at 10 Trump-branded properties. Many of these were licensed buildings developed by others such as Gil Dezer. The Trump Organization says it does not track buyers' nationality. We found no reporting of Russian buyers of Trump properties in 2025-26.",
+      "sources": [
+        "https://therealdeal.com/miami/2017/03/19/russians-reportedly-paid-98-4m-for-units-at-trump-branded-condos-in-south-florida",
+        "https://therealdeal.com/miami/2018/06/19/russian-buyers-shelled-out-109m-in-cash-for-trump-properties-in-sunny-isles-new-york"
+      ]
+    },
+    {
+      "statement": "Kimberly Guilfoyle (ambassador to Greece) pay-to-play allegation belongs in the Russia-linked cluster.",
+      "verdict": "misleading",
+      "finding": "The pay-to-play allegation is DOCUMENTED, but it has no Russia link. The WSJ (Oct 2026) published messages showing that in July 2025, before her confirmation, Guilfoyle pressed donor Eric Deters to wire $100,000 to her Amex account. She also relayed his messages to the IRS and offered to lobby DOJ for him. Deters calls it 'pay to play'. Her lawyer Jesse Binnall disputes the messages' authenticity. Oversight Democrats requested records on 8 Oct 2026. The White House asked her to resign, and she resigned on 13 Oct 2026, vowing to 'vigorously defend' herself. AP also mentions scrutiny of her ties to Greek energy executives. Deters has filed a defamation suit, which is SINGLE-SOURCE. Nothing we found ties Guilfoyle, Deters or the Greek matters to Russia.",
+      "sources": [
+        "https://www.tovima.com/wsj/honey-please-kimberly-guilfoyle-pushed-donor-to-wire-100000-to-her-amex-account/",
+        "https://www.pbs.org/newshour/politics/exclusive-house-democrats-ask-kimberly-guilfoyle-for-records-related-to-alleged-pay-to-pay-scheme",
+        "https://www.opb.org/article/2026/10/14/trump-s-ambassador-to-greece-kimberly-guilfoyle-resigns/",
+        "https://www.foreignpolicyjournal.com/2026/10/14/u-s-ambassador-kimberly-guilfoyle-resigns-from-greece-post-amid-misconduct-allegations/",
+        "https://www.allsides.com/news/2026-10-17-0700/politics-eric-deters-files-defamation-lawsuit-against-kimberly-guilfoyle"
+      ]
+    },
+    {
+      "statement": "Kushner's Cadre took money from Yuri Milner, whose fund had channelled Russian state money.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (Paradise Papers, Nov 2017: ICIJ, Guardian, Bloomberg). In 2011 VTB funded a $191M Twitter stake through Milner's DST vehicles, and a Gazprom Investholding-backed vehicle held about $1B of Facebook shares. The Milner family trust invested $850,000 in Cadre in 2015. Milner says VTB played no role in the Cadre investment, and the DST/VTB stakes were sold by 2014-15. This is historical context that shows no current tie.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2017-11-04/early-backer-of-facebook-linked-to-russia-bank-kushner-platform",
+        "https://m.washingtontimes.com/news/2017/nov/8/jared-kushner-linked-to-man-named-in-paradise-pape/"
+      ]
+    }
+  ],
+  "corrections": [
+    "Brief lists Guilfoyle under Russia-linked ties; the WSJ allegation concerns a US donor (Eric Deters) and no Russia connection was found. She resigned on 13 Oct 2026 at the White House's request.",
+    "Brief says the oligarch funded Don Jr.'s 'wedding parties'. The family's account is two after-parties, while ProPublica reports an island rental and fireworks across the weekend. Kremlev says he was repaid (6 Oct 2026).",
+    "Byline Times calls Blavatnik a former adviser to Dmitriev. The pre-2022 RDIF advisers named in coverage we could see were Leon Black and Stephen Schwarzman; Blavatnik's role is unconfirmed.",
+    "Reports of Russian buyers of Trump-branded property are 2017-18 analyses of older sales, mostly in licensed buildings; none found for 2025-26."
+  ],
+  "denials_and_context": [
+    "Access Industries: Blavatnik and Witkoff 'have never spoken about the Russia-Ukraine negotiations'; Blavatnik says he divested from Russia in 2022.",
+    "Witkoff's spokesperson on Lukoil: he 'has no conflict of interest and no financial stake in this matter'; NYT found no indication he or Kushner would profit.",
+    "Trump Jr.'s spokesperson: Kremlev is 'a personal friend of Don' but 'not someone he has a business relationship with'; the family called it a gift and repaid it. Trump: 'no idea who Umar is'. AG Blanche: 'What is there to investigate'.",
+    "Gentry Beach denies doing business with the Trump family.",
+    "WLF says it ran AML/KYC on presale buyers; some analysts call the sanctioned-wallet hits false positives.",
+    "Guilfoyle's lawyer Jesse Binnall disputes the authenticity of the WSJ messages; she vowed to 'vigorously defend' herself.",
+    "Milner says VTB had no role in his Cadre investment and that he is not a Kushner associate.",
+    "The White House says the peace plan reflects input from both Ukraine and Russia; proposed US-Russia business deals are state/corporate, not personal to the envoys.",
+    "Bylinetimes.com and propublica.org could not be fetched here; their findings rest on search summaries and relaying outlets."
+  ],
+  "sources": [
+    {
+      "title": "Trump envoy has financial ties with former adviser to Putin's money man now leading Kremlin peace talks",
+      "publisher": "Byline Times",
+      "url": "https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Top Trump negotiator retains partnership with Ukraine-sanctioned billionaire",
+      "publisher": "Popular Information",
+      "url": "https://popular.info/p/top-trump-negotiator-retains-partnership",
+      "date": "2025"
+    },
+    {
+      "title": "Scoop: Trump envoy's conflict of interest: a Russia-linked business partner",
+      "publisher": "Counteroffensive",
+      "url": "https://www.counteroffensive.news/cp/161746319",
+      "date": "2025-04"
+    },
+    {
+      "title": "Witkoff and Access Industries buy HFZ's languishing XI condo project",
+      "publisher": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2021/12/23/witkoff-and-access-industries-buy-hfzs-languishing-xi-condo-project",
+      "date": "2021-12-23"
+    },
+    {
+      "title": "Witkoff, Blavatnik refinance One High Line condo project",
+      "publisher": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2024/08/16/witkoff-blavatnik-refinance-one-high-line-condo-project",
+      "date": "2024-08-16"
+    },
+    {
+      "title": "One High Line developers land $525M loan",
+      "publisher": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/01/30/one-high-line-developers-land-525m-loan",
+      "date": "2026-01-30"
+    },
+    {
+      "title": "Steve Witkoff sells stake in real estate firm for $120M",
+      "publisher": "The Real Deal",
+      "url": "https://therealdeal.com/national/2025/09/16/steve-witkoff-sells-stake-in-real-estate-firm-for-120m",
+      "date": "2025-09-16"
+    },
+    {
+      "title": "Donald Trump Jr.'s wedding bankrolled by Russian oligarch Umar Kremlev",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Trump Jr. wedding / Kremlev payments investigation",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-payments-investigation",
+      "date": "2026-09"
+    },
+    {
+      "title": "What we know about the Putin ally who allegedly funded Donald Trump Jr.'s wedding",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/09/14/umar-kremlev-donald-trump-jr-wedding-bahamas",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Scoop: Top House Democrat probes Don Jr.'s wedding party",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/09/15/donald-trump-jr-wedding-investigation-kremlev",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Russian oligarch Umar Kremlev spent hundreds of thousands of dollars to help fund Donald Trump Jr.'s Bahamas wedding",
+      "publisher": "Meduza",
+      "url": "https://meduza.io/en/news/2026/09/14/russian-oligarch-umar-kremlev-spent-hundreds-of-thousands-of-dollars-to-help-fund-donald-trump-jr-s-bahamas-wedding",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "AG asked whether he'd investigate Kremlev's financing: 'What is there to investigate'",
+      "publisher": "Meduza",
+      "url": "https://meduza.io/en/news/2026/09/16/the-u-s-attorney-general-was-asked-whether-he-d-investigate-russian-boxing-chief-umar-kremlev-s-reported-financing-of-trump-jr-s-wedding-festivities-his-response-what-is-there-to-investigate",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "GOP senator calls for probe of Trump Jr. after wedding party bankrolled by Russian oligarch",
+      "publisher": "Anchorage Daily News (AP)",
+      "url": "https://www.adn.com/nation-world/2026/09/22/gop-senator-calls-for-probe-of-trump-jr-after-wedding-party-bankrolled-by-russian-oligarch/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Russian oligarch says Donald Trump Jr. has paid him back for wedding celebration expenses",
+      "publisher": "WCAX (AP)",
+      "url": "https://www.wcax.com/2026/10/06/russian-oligarch-says-donald-trump-jr-has-paid-him-back-wedding-celebration-expenses/",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Who actually paid for Donald Trump Jr.'s Bahamas wedding festivities",
+      "publisher": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/88580",
+      "date": "2026-10"
+    },
+    {
+      "title": "IBA too slow with reforms and too dependent on Russia's Gazprom for funds according to IOC",
+      "publisher": "Flashscore",
+      "url": "https://www.flashscore.pt/noticias/iba-too-slow-with-reforms-and-too-dependent-on-russia-s-gazprom-for-funds-according-to-ioc/lEZDblNO/",
+      "date": "2022"
+    },
+    {
+      "title": "Putin envoy Dmitriev, Trump envoy Witkoff met in Washington",
+      "publisher": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2025/04/03/putin-envoy-dmitriev-trump-envoy-witkoff-met-in-washington/",
+      "date": "2025-04-03"
+    },
+    {
+      "title": "Russian envoy seeks cooperation with US at landmark Washington talks",
+      "publisher": "The Moscow Times",
+      "url": "https://themoscowtimes.com/2025/04/04/russian-envoy-seeks-cooperation-with-us-at-landmark-washington-talks-a88601",
+      "date": "2025-04-04"
+    },
+    {
+      "title": "Trump team meets top Putin envoy for three days in Miami (citing Axios)",
+      "publisher": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2025/11/19/trump-team-meets-top-putin-envoy-for-three-days-in-miami-drafts-secret-ukraine-peace-deal-axios-says",
+      "date": "2025-11-19"
+    },
+    {
+      "title": "Trump's full 28-point Ukraine-Russia peace plan",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2025/11/20/trump-ukraine-peace-plan-28-points-russia",
+      "date": "2025-11-20"
+    },
+    {
+      "title": "Here's what's in the Trump administration's proposed 28-point Russia-Ukraine peace plan",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-administration-proposed-28-point-russia-ukraine-peace-plan/",
+      "date": "2025-11"
+    },
+    {
+      "title": "Make Money Not War: Trump's Real Plan for Peace in Ukraine (WSJ, syndicated)",
+      "publisher": "Wall Street Journal / To Vima",
+      "url": "https://www.tovima.com/wsj/make-money-not-war-trumps-real-plan-for-peace-in-ukraine/",
+      "date": "2025-11-29"
+    },
+    {
+      "title": "Putin's envoy tempted Trump negotiators with post-war cooperation benefits - WSJ",
+      "publisher": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2025/11/29/8009576",
+      "date": "2025-11-29"
+    },
+    {
+      "title": "Putin envoy Kirill Dmitriev meets with Witkoff and Kushner to discuss Russian energy",
+      "publisher": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/03/12/putin-envoy-kirill-dmitriev-meets-with-witkoff-and-kushner-to-discuss-russian-energy-a92208/pdf",
+      "date": "2026-03-12"
+    },
+    {
+      "title": "The Russia-Trump links in Mueller's report, explained",
+      "publisher": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2019/04/22/the-russia-trump-links-in-muellers-report-explained",
+      "date": "2019-04-22"
+    },
+    {
+      "title": "Kushner friend worked with Putin deputy on 'reconciliation' plan",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloombergquint.com/politics/kushner-friend-worked-with-putin-deputy-on-reconciliation-plan",
+      "date": "2019-04"
+    },
+    {
+      "title": "US and Russia are negotiating multibillion-dollar deal on Lukoil assets, says NYT",
+      "publisher": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/03/8056300/",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Lukoil's foreign asset sale becomes part of U.S.-Russia talks, NYT reports",
+      "publisher": "Meduza",
+      "url": "https://meduza.io/en/news/2026/10/05/lukoil-s-foreign-asset-sale-becomes-part-of-u-s-russia-talks-on-ending-ukraine-war-nyt-reports",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "U.S. peace negotiations with Russia could now involve multi-billion dollar Lukoil deal, NYT reports",
+      "publisher": "Kyiv Independent",
+      "url": "https://kyivindependent.com/u-s-peace-negotiations-with-russia-could-now-involve-multi-billion-dollar-lukoil-deal-nyt-reports/",
+      "date": "2026-10"
+    },
+    {
+      "title": "US-Russia talks: Lukoil assets, Todd Boehly and Trump investors",
+      "publisher": "WION",
+      "url": "https://www.wionews.com/world/us-russia-talks-lukoil-assets-todd-boehly-trump-investors-1791021292256",
+      "date": "2026-10"
+    },
+    {
+      "title": "Former Chelsea co-owner Todd Boehly seeks to buy Lukoil's foreign assets",
+      "publisher": "Meduza",
+      "url": "https://meduza.io/en/news/2026/09/23/former-chelsea-co-owner-todd-boehly-seeks-to-buy-lukoil-s-foreign-assets",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "US investor linked to Trump signed gas deal with Russia's Novatek - NYT",
+      "publisher": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/02/20/us-investor-linked-to-trump-signed-gas-deal-with-russias-novatek-nyt-a92006",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "Texas investor with Trump family ties pursues project to tap North Slope gas",
+      "publisher": "Anchorage Daily News",
+      "url": "https://www.adn.com/business-economy/energy/2026/03/02/texas-investor-with-trump-family-ties-pursues-project-to-tap-north-slope-gas/",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "US investor with ties to Trump family looks to Murmansk",
+      "publisher": "The Barents Observer",
+      "url": "https://www.thebarentsobserver.com/news/us-investor-with-ties-to-trump-family-looks-to-murmansk/445637",
+      "date": "2026-02"
+    },
+    {
+      "title": "Russia secretly financed Alaska gas project (citing FT)",
+      "publisher": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059533/",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Warren and Reed press DOJ and Treasury on national security risks posed by Trump-affiliated crypto ventures' sale of tokens to illicit actors",
+      "publisher": "US Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/newsroom/minority/as-congress-considers-potential-market-structure-legislation-warren-and-reed-press-doj-and-treasury-on-national-security-risks-posed-by-trump-affiliated-crypto-ventures-sale-of-tokens-to-illicit-actors",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Senators: Trump-linked WLFI a national security threat",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/senators-trump-linked-wlfi-national-security-threat",
+      "date": "2025-11"
+    },
+    {
+      "title": "Letter to Bessent and Blanche on WLF",
+      "publisher": "US Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/download/20260513-letter-to-bessent-blanche-on-wlf&download=1",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Russians reportedly paid $98.4M for units at Trump-branded condos in South Florida (Reuters)",
+      "publisher": "The Real Deal",
+      "url": "https://therealdeal.com/miami/2017/03/19/russians-reportedly-paid-98-4m-for-units-at-trump-branded-condos-in-south-florida",
+      "date": "2017-03-19"
+    },
+    {
+      "title": "Russian buyers shelled out $109M in cash for Trump properties",
+      "publisher": "The Real Deal",
+      "url": "https://therealdeal.com/miami/2018/06/19/russian-buyers-shelled-out-109m-in-cash-for-trump-properties-in-sunny-isles-new-york",
+      "date": "2018-06-19"
+    },
+    {
+      "title": "Exclusive: House Democrats ask Kimberly Guilfoyle for records related to alleged pay-to-play scheme",
+      "publisher": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/exclusive-house-democrats-ask-kimberly-guilfoyle-for-records-related-to-alleged-pay-to-pay-scheme",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "'Honey Please': Kimberly Guilfoyle pushed donor to wire $100,000 to her Amex account (WSJ, syndicated)",
+      "publisher": "Wall Street Journal / To Vima",
+      "url": "https://www.tovima.com/wsj/honey-please-kimberly-guilfoyle-pushed-donor-to-wire-100000-to-her-amex-account/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+      "publisher": "OPB (AP)",
+      "url": "https://www.opb.org/article/2026/10/14/trump-s-ambassador-to-greece-kimberly-guilfoyle-resigns/",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "U.S. Ambassador Kimberly Guilfoyle resigns from Greece post amid misconduct allegations",
+      "publisher": "Foreign Policy Journal",
+      "url": "https://www.foreignpolicyjournal.com/2026/10/14/u-s-ambassador-kimberly-guilfoyle-resigns-from-greece-post-amid-misconduct-allegations/",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Eric Deters files defamation lawsuit against Kimberly Guilfoyle",
+      "publisher": "AllSides",
+      "url": "https://www.allsides.com/news/2026-10-17-0700/politics-eric-deters-files-defamation-lawsuit-against-kimberly-guilfoyle",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "Early backer of Facebook linked to Russia bank, Kushner platform",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2017-11-04/early-backer-of-facebook-linked-to-russia-bank-kushner-platform",
+      "date": "2017-11-04"
+    },
+    {
+      "title": "Jared Kushner linked to man named in Paradise Papers",
+      "publisher": "Washington Times",
+      "url": "https://m.washingtontimes.com/news/2017/nov/8/jared-kushner-linked-to-man-named-in-paradise-pape/",
+      "date": "2017-11-08"
+    }
+  ],
+  "entities": [
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "US Special Envoy; Russia-Ukraine negotiator with Kushner."
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Trump son-in-law; envoy in the Russia and Iran talks; Affinity Partners founder."
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "President's eldest son; married Bettina Anderson in the Bahamas, May 2026."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President."
+    },
+    {
+      "id": "leonard-blavatnik",
+      "name": "Leonard (Len) Blavatnik",
+      "type": "person",
+      "description": "Soviet-born billionaire, Access Industries founder; sanctioned by Ukraine Dec 2023; says he exited Russia in 2022."
+    },
+    {
+      "id": "access-industries",
+      "name": "Access Industries",
+      "type": "company",
+      "description": "Blavatnik's holding company; Witkoff Group's partner on One High Line, Banyan Cay and a North Beach project."
+    },
+    {
+      "id": "witkoff-group",
+      "name": "Witkoff Group",
+      "type": "company",
+      "description": "Witkoff family real-estate firm, run by Alex Witkoff."
+    },
+    {
+      "id": "alex-witkoff",
+      "name": "Alex Witkoff",
+      "type": "person",
+      "description": "Steve Witkoff's son; runs Witkoff Group operations; WLF co-founder."
+    },
+    {
+      "id": "one-high-line",
+      "name": "One High Line",
+      "type": "asset",
+      "description": "Manhattan condo project bought out of foreclosure by Witkoff Group and Access Industries in 2021."
+    },
+    {
+      "id": "kirill-dmitriev",
+      "name": "Kirill Dmitriev",
+      "type": "person",
+      "description": "CEO of the Russian Direct Investment Fund and Putin's special envoy for economic cooperation; US-sanctioned since 2022."
+    },
+    {
+      "id": "rdif",
+      "name": "Russian Direct Investment Fund",
+      "type": "fund",
+      "description": "Russian sovereign wealth fund; US-sanctioned in 2022."
+    },
+    {
+      "id": "russia",
+      "name": "Russia",
+      "type": "country",
+      "description": "Counterparty in the Ukraine peace talks."
+    },
+    {
+      "id": "ukraine",
+      "name": "Ukraine",
+      "type": "country",
+      "description": "Party to the war; sanctioned Blavatnik in 2023."
+    },
+    {
+      "id": "umar-kremlev",
+      "name": "Umar Kremlev",
+      "type": "person",
+      "description": "Russian president of the International Boxing Association, close to Putin; paid for parts of Trump Jr.'s wedding celebrations."
+    },
+    {
+      "id": "international-boxing-association",
+      "name": "International Boxing Association (IBA)",
+      "type": "company",
+      "description": "Boxing federation headed by Kremlev; stripped of IOC recognition; historically Gazprom-sponsored."
+    },
+    {
+      "id": "ib-challenger",
+      "name": "IB Challenger",
+      "type": "company",
+      "description": "Dubai entity affiliated with the IBA through which the wedding payments were made."
+    },
+    {
+      "id": "bettina-anderson",
+      "name": "Bettina Anderson",
+      "type": "person",
+      "description": "Donald Trump Jr.'s wife."
+    },
+    {
+      "id": "robert-garcia",
+      "name": "Robert Garcia",
+      "type": "person",
+      "description": "Ranking Democrat, House Oversight Committee."
+    },
+    {
+      "id": "john-curtis",
+      "name": "John Curtis",
+      "type": "person",
+      "description": "Republican US senator (Utah) who called for a Senate Judiciary probe of the wedding payments."
+    },
+    {
+      "id": "todd-blanche",
+      "name": "Todd Blanche",
+      "type": "person",
+      "description": "US Attorney General (2026)."
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Congress."
+    },
+    {
+      "id": "rick-gerson",
+      "name": "Rick Gerson",
+      "type": "person",
+      "description": "Hedge-fund manager and Kushner friend who co-drafted a reconciliation plan with Dmitriev in 2016-17 (Mueller report)."
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Tahnoon bin Zayed",
+      "type": "person",
+      "description": "UAE national security adviser; introduced Dmitriev to Gerson in 2016; chairs IHC."
+    },
+    {
+      "id": "uae",
+      "name": "UAE",
+      "type": "country",
+      "description": "United Arab Emirates."
+    },
+    {
+      "id": "lukoil",
+      "name": "Lukoil",
+      "type": "company",
+      "description": "US-sanctioned Russian oil major selling about $20B of foreign assets."
+    },
+    {
+      "id": "todd-boehly",
+      "name": "Todd Boehly",
+      "type": "person",
+      "description": "US investor and Trump donor leading a consortium bidding for Lukoil's foreign assets."
+    },
+    {
+      "id": "international-holding-company",
+      "name": "International Holding Company (IHC)",
+      "type": "company",
+      "description": "Tahnoon-chaired Abu Dhabi conglomerate reported in the Lukoil consortium."
+    },
+    {
+      "id": "al-khayyat-brothers",
+      "name": "Moutaz and Ramez Al-Khayyat",
+      "type": "person",
+      "description": "Qatar-based (Syrian-Qatari) businessmen reported in the Lukoil consortium; reported partners on the Kushner Albania project."
+    },
+    {
+      "id": "us-dfc",
+      "name": "US International Development Finance Corporation",
+      "type": "government",
+      "description": "Reported to take a mid-teens stake in the Lukoil consortium vehicle."
+    },
+    {
+      "id": "gentry-beach",
+      "name": "Gentry Beach",
+      "type": "person",
+      "description": "Dallas investor and Trump Jr. friend; signed an LNG deal with Novatek for an Alaska project."
+    },
+    {
+      "id": "novatek",
+      "name": "Novatek",
+      "type": "company",
+      "description": "US-sanctioned Russian LNG producer."
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture co-founded with the Witkoff sons."
+    },
+    {
+      "id": "wlfi-token",
+      "name": "WLFI token",
+      "type": "asset",
+      "description": "WLF governance token."
+    },
+    {
+      "id": "a7a5",
+      "name": "A7A5",
+      "type": "asset",
+      "description": "US-sanctioned ruble-backed stablecoin."
+    },
+    {
+      "id": "accountable-us",
+      "name": "Accountable.US",
+      "type": "company",
+      "description": "Watchdog whose Sep 2025 on-chain report alleged WLFI sales to sanctioned-linked wallets."
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "US senator; ranking Democrat, Senate Banking."
+    },
+    {
+      "id": "jack-reed",
+      "name": "Jack Reed",
+      "type": "person",
+      "description": "US senator; co-signed the Nov 2025 WLF letter."
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Trump family business."
+    },
+    {
+      "id": "kimberly-guilfoyle",
+      "name": "Kimberly Guilfoyle",
+      "type": "person",
+      "description": "US ambassador to Greece (2025-Oct 2026); Trump Jr.'s former fiancee."
+    },
+    {
+      "id": "eric-deters",
+      "name": "Eric Deters",
+      "type": "person",
+      "description": "Kentucky Trump donor whom Guilfoyle allegedly pressed for $100,000."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Asked Guilfoyle to resign."
+    },
+    {
+      "id": "yuri-milner",
+      "name": "Yuri Milner",
+      "type": "person",
+      "description": "Russian-born tech investor (DST Global); family trust invested $850k in Cadre in 2015."
+    },
+    {
+      "id": "vtb",
+      "name": "VTB Bank",
+      "type": "company",
+      "description": "Russian state bank that funded DST's 2011 Twitter stake."
+    },
+    {
+      "id": "cadre",
+      "name": "Cadre",
+      "type": "company",
+      "description": "Real-estate investment platform co-founded by Jared Kushner."
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "Wall Street Journal",
+      "type": "media",
+      "description": "Published 'Make Money Not War' and the Guilfoyle messages."
+    },
+    {
+      "id": "propublica",
+      "name": "ProPublica",
+      "type": "media",
+      "description": "Broke the Kremlev wedding story."
+    },
+    {
+      "id": "new-york-times",
+      "name": "New York Times",
+      "type": "media",
+      "description": "Reported the Lukoil and Gentry Beach stories."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "witkoff-group",
+      "target": "access-industries",
+      "label": "co-owns One High Line, Banyan Cay and North Beach projects with",
+      "type": "commercial",
+      "date": "2021-12"
+    },
+    {
+      "source": "leonard-blavatnik",
+      "target": "access-industries",
+      "label": "founded and controls",
+      "type": "ownership"
+    },
+    {
+      "source": "witkoff-group",
+      "target": "one-high-line",
+      "label": "co-acquired out of ~$900M foreclosure",
+      "type": "ownership",
+      "date": "2021-12",
+      "amount_usd": 900000000
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "witkoff-group",
+      "label": "founder; sold $120M stake",
+      "type": "ownership",
+      "date": "2025-09",
+      "amount_usd": 120000000
+    },
+    {
+      "source": "alex-witkoff",
+      "target": "witkoff-group",
+      "label": "runs operations of",
+      "type": "ownership"
+    },
+    {
+      "source": "alex-witkoff",
+      "target": "steve-witkoff",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "ukraine",
+      "target": "leonard-blavatnik",
+      "label": "sanctioned for ten years",
+      "type": "regulatory",
+      "date": "2023-12"
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "kirill-dmitriev",
+      "label": "lead US interlocutor; invited to Washington; drafted 28-point plan with input from",
+      "type": "political",
+      "date": "2025-04"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "kirill-dmitriev",
+      "label": "negotiated with (Miami Oct 2025; Mar 2026 energy talks)",
+      "type": "political",
+      "date": "2025-10"
+    },
+    {
+      "source": "kirill-dmitriev",
+      "target": "rdif",
+      "label": "CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "kirill-dmitriev",
+      "target": "russia",
+      "label": "Putin's special envoy for economic cooperation",
+      "type": "political"
+    },
+    {
+      "source": "kirill-dmitriev",
+      "target": "rick-gerson",
+      "label": "co-drafted US-Russia reconciliation plan",
+      "type": "political",
+      "date": "2017-01"
+    },
+    {
+      "source": "rick-gerson",
+      "target": "jared-kushner",
+      "label": "passed Dmitriev plan to",
+      "type": "political",
+      "date": "2017-01"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "kirill-dmitriev",
+      "label": "introduced to Gerson",
+      "type": "political",
+      "date": "2016-11"
+    },
+    {
+      "source": "umar-kremlev",
+      "target": "donald-trump-jr",
+      "label": "paid for parts of wedding celebrations (island rental, fireworks); later repaid",
+      "type": "money",
+      "date": "2026-05"
+    },
+    {
+      "source": "ib-challenger",
+      "target": "donald-trump-jr",
+      "label": "made wedding payments via",
+      "type": "money",
+      "date": "2026-05"
+    },
+    {
+      "source": "umar-kremlev",
+      "target": "international-boxing-association",
+      "label": "president of",
+      "type": "ownership"
+    },
+    {
+      "source": "international-boxing-association",
+      "target": "ib-challenger",
+      "label": "affiliated Dubai entity",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "bettina-anderson",
+      "label": "married",
+      "type": "family",
+      "date": "2026-05"
+    },
+    {
+      "source": "robert-garcia",
+      "target": "donald-trump-jr",
+      "label": "sent records request on Kremlev payments",
+      "type": "political",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "john-curtis",
+      "target": "donald-trump-jr",
+      "label": "called for Senate Judiciary probe of",
+      "type": "political",
+      "date": "2026-09-22"
+    },
+    {
+      "source": "todd-blanche",
+      "target": "donald-trump-jr",
+      "label": "declined to investigate wedding payments to",
+      "type": "legal",
+      "date": "2026-09-16"
+    },
+    {
+      "source": "donald-trump",
+      "target": "donald-trump-jr",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump",
+      "target": "steve-witkoff",
+      "label": "appointed special envoy",
+      "type": "political",
+      "date": "2025-01"
+    },
+    {
+      "source": "russia",
+      "target": "lukoil",
+      "label": "sanctioned company raised by Putin in talks (NYT, single-source)",
+      "type": "political",
+      "date": "2026-09-05"
+    },
+    {
+      "source": "todd-boehly",
+      "target": "lukoil",
+      "label": "leads consortium bidding for ~$20B foreign assets",
+      "type": "commercial",
+      "date": "2026-09",
+      "amount_usd": 20000000000
+    },
+    {
+      "source": "international-holding-company",
+      "target": "lukoil",
+      "label": "reported member of Boehly consortium",
+      "type": "commercial",
+      "date": "2026-09"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "international-holding-company",
+      "label": "chairs",
+      "type": "ownership"
+    },
+    {
+      "source": "al-khayyat-brothers",
+      "target": "lukoil",
+      "label": "reported members of Boehly consortium",
+      "type": "commercial",
+      "date": "2026-09"
+    },
+    {
+      "source": "al-khayyat-brothers",
+      "target": "jared-kushner",
+      "label": "reported partners on Albania resort project (single-source)",
+      "type": "commercial"
+    },
+    {
+      "source": "us-dfc",
+      "target": "lukoil",
+      "label": "reported mid-teens stake in consortium vehicle",
+      "type": "money",
+      "date": "2026-10"
+    },
+    {
+      "source": "todd-boehly",
+      "target": "donald-trump",
+      "label": "donated $1M-$2M to Trump political causes (amount disputed)",
+      "type": "political"
+    },
+    {
+      "source": "gentry-beach",
+      "target": "novatek",
+      "label": "signed LNG technology deal for Alaska project",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "gentry-beach",
+      "target": "donald-trump-jr",
+      "label": "friend of (denies business dealings)",
+      "type": "political"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "a7a5",
+      "label": "allegedly sold WLFI to a wallet that transacted in (Accountable.US, unverified)",
+      "type": "money",
+      "date": "2025"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "world-liberty-financial",
+      "label": "asked DOJ/Treasury to investigate token sales",
+      "type": "regulatory",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "jack-reed",
+      "target": "world-liberty-financial",
+      "label": "co-signed letter on token sales",
+      "type": "regulatory",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "accountable-us",
+      "target": "world-liberty-financial",
+      "label": "published on-chain report on sanctioned-linked buyers",
+      "type": "media",
+      "date": "2025-09"
+    },
+    {
+      "source": "eric-deters",
+      "target": "kimberly-guilfoyle",
+      "label": "alleges $100k pay-to-play demand; sued for defamation",
+      "type": "legal",
+      "date": "2025-07"
+    },
+    {
+      "source": "white-house",
+      "target": "kimberly-guilfoyle",
+      "label": "asked to resign as ambassador to Greece",
+      "type": "political",
+      "date": "2026-10-13"
+    },
+    {
+      "source": "robert-garcia",
+      "target": "kimberly-guilfoyle",
+      "label": "Oversight Democrats requested records",
+      "type": "political",
+      "date": "2026-10-08"
+    },
+    {
+      "source": "kimberly-guilfoyle",
+      "target": "donald-trump-jr",
+      "label": "former fiancee of",
+      "type": "family"
+    },
+    {
+      "source": "yuri-milner",
+      "target": "cadre",
+      "label": "family trust invested $850k in",
+      "type": "money",
+      "date": "2015",
+      "amount_usd": 850000
+    },
+    {
+      "source": "jared-kushner",
+      "target": "cadre",
+      "label": "co-founded",
+      "type": "ownership"
+    },
+    {
+      "source": "vtb",
+      "target": "yuri-milner",
+      "label": "funded $191M Twitter stake via DST",
+      "type": "money",
+      "date": "2011",
+      "amount_usd": 191000000
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "steve-witkoff",
+      "label": "reported 'make money not war' business-deal strategy",
+      "type": "media",
+      "date": "2025-11-29"
+    },
+    {
+      "source": "propublica",
+      "target": "umar-kremlev",
+      "label": "exposed wedding payments",
+      "type": "media",
+      "date": "2026-09-14"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Polar Train LNG: was Novatek the real financier of the Alaska project?",
+      "why_connected": "FT (Oct 2026) alleges a US-sanctioned Russian firm controlled a project fronted by Trump Jr.'s friend Gentry Beach, alongside Abu Dhabi's Tech Wave; any US permits or approvals deserve a check.",
+      "entities": [
+        "gentry-beach",
+        "novatek",
+        "donald-trump-jr"
+      ],
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059533/"
+    },
+    {
+      "title": "Lukoil foreign-asset sale: OFAC licensing and DFC stake",
+      "why_connected": "A consortium with Tahnoon's IHC, Kushner's reported Albania partners and Trump donor Boehly needs OFAC approval while Witkoff and Kushner negotiate with Putin; Treasury licence extensions (to 21 Nov 2026) are a datable trail.",
+      "entities": [
+        "lukoil",
+        "todd-boehly",
+        "international-holding-company",
+        "al-khayyat-brothers",
+        "us-dfc"
+      ],
+      "source_url": "https://kyivindependent.com/u-s-peace-negotiations-with-russia-could-now-involve-multi-billion-dollar-lukoil-deal-nyt-reports/"
+    },
+    {
+      "title": "IB Challenger and IBA funding",
+      "why_connected": "Kyiv Post could not identify the Dubai entity's funding; whether Gazprom money still reaches the IBA bears on whether the wedding spending was Russian state-linked money.",
+      "entities": [
+        "ib-challenger",
+        "international-boxing-association",
+        "umar-kremlev"
+      ],
+      "source_url": "https://www.kyivpost.com/post/88580"
+    },
+    {
+      "title": "Guilfoyle and Greek energy executives",
+      "why_connected": "AP said her exit also followed scrutiny of ties to Greek energy executives, and the State Department OIG was reportedly looking into it; this is separate from the Deters allegation and unexplored here.",
+      "entities": [
+        "kimberly-guilfoyle"
+      ],
+      "source_url": "https://www.foreignpolicyjournal.com/2026/10/14/u-s-ambassador-kimberly-guilfoyle-resigns-from-greece-post-amid-misconduct-allegations/"
+    }
+  ]
+}

@@ -226,7 +226,7 @@ Most of the core facts hold up.
 
 ### Family (2)
 
-- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]] [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Donald Trump Jr]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
 
 ### Regulatory (10)

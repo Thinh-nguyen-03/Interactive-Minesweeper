@@ -6,7 +6,7 @@ aliases:
   - "Donald J. Trump"
   - "Trump"
   - "the president"
-connections: 243
+connections: 251
 claims: 80
 tags:
   - "entity"
@@ -22,7 +22,7 @@ US president; the video alleges he and his family made billions from regulated i
 |---|---|
 | Type | Person |
 | Appears in | 80 claims |
-| Connections | 243 |
+| Connections | 251 |
 | Also known as | Donald J. Trump; Trump; the president |
 
 ## How other claims describe it
@@ -105,11 +105,11 @@ US president; the video alleges he and his family made billions from regulated i
 - [[C69 Master timeline money events versus government actions]] · Pending
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
-- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Pending
-- [[C73 Qatar's access network inside and around the administration]] · Pending
-- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
-- [[C76 Russia-linked money around the family and envoys]] · Pending
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Pending
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Pending
@@ -197,7 +197,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *father-in-law of; called the story false* [[Jared Kushner]] · 2026-10-23 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
 - [[Barron Trump]] *son of* [[Donald Trump]] · [[C29 Trump family wealth gains|C29]]
 - [[Donald Trump]] *father of* [[Barron Trump]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C29 Trump family wealth gains|C29]]
-- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]] [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Donald Trump]] *father of* [[Eric Trump]] · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump]] *spouse* [[Melania Trump]] · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 - [[Donald Trump]] *spouse of* [[Melania Trump]] · [[C02 $MELANIA coin and NFTs|C02]]
@@ -210,11 +210,12 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Melania Trump]] *spouse of* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C44 Melania Trump's Amazon documentary deal|C44]] [[C63 Shell entities and ownership chains|C63]]
 - [[Melania Trump]] *wife of* [[Donald Trump]] · [[C02 $MELANIA coin and NFTs|C02]]
 
-### Regulatory (18)
+### Regulatory (19)
 
 - [[Donald Trump]] *administration keeps sanctions on* [[Bidzina Ivanishvili]] · 2025 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Donald Trump]] *cut tariff from 32% to 19% in deal with* [[Indonesia]] · 2025-07-15 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Donald Trump]] *19% tariff and energy/trade deal* [[Pakistan]] · 2025-07-31 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Donald Trump]] *approved by executive order* [[TikTok USDS Joint Venture LLC]] · 2025-09-25 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Donald Trump]] *approved divestiture by executive order* [[TikTok USDS Joint Venture LLC]] · 2025-09-25 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Donald Trump]] *allowed H200 China sales with 25% cut to US* [[Nvidia]] · 2025-12-08 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
@@ -238,9 +239,10 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *chief crypto advocate of* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 
-### Political (95)
+### Political (105)
 
 - [[Keith Schiller]] *former bodyguard and Oval Office operations director* [[Donald Trump]] · 2017 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Donald Trump]] *pardoned* [[Bernard Kerik]] · 2020-02 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Brian Ballard]] *fundraiser for (>$50M reported, 2024)* [[Donald Trump]] · 2024 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Donald Trump]] *pledged Ulbricht pardon at its convention* [[Libertarian Party]] · 2024-05 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Donald Trump]] *nominated as Commerce Secretary* [[Howard Lutnick]] · 2024-11 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
@@ -254,6 +256,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *appointed leadership of* [[Securities and Exchange Commission]] · 2025 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Donald Trump]] *commissioned* [[White House ballroom]] · 2025 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[David Warrington]] *White House counsel to* [[Donald Trump]] · 2025-01 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Donald Trump]] *appointed special envoy* [[Steve Witkoff]] · 2025-01 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Elon Musk]] *DOGE head; donor* [[Donald Trump]] · 2025-01 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Jeff Miller]] *inaugural festivities finance chair* [[Donald Trump]] · 2025-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Hussain Sajwani]] *announced $20B US data-centre pledge with* [[Donald Trump]] · 2025-01-07 · $20B · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
@@ -262,6 +265,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *appointed Attorney General* [[Pam Bondi]] · 2025-02 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Donald Trump]] *named pardon czar* [[Alice Marie Johnson]] · 2025-02-20 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named* [[Donald Trump]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Donald Trump]] *appointed* [[Stephen Feinberg]] · 2025-03 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Donald Trump]] *signed EO 14233 establishing* [[Strategic Bitcoin Reserve]] · 2025-03-06 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 - [[Donald Trump]] *appointed senior adviser for Africa/Arab affairs* [[Massad Boulos]] · 2025-04 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Donald Trump]] *announced* [[90-day reciprocal tariff pause (9 Apr 2025)]] · 2025-04-09 · [[C58 Market-moving posts and insider-trading allegations|C58]]
@@ -271,10 +275,13 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *appointed ambassador to France; pardoned 2020* [[Charles Kushner]] · 2025-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Karoline Leavitt]] *defended as abiding by conflict laws* [[Donald Trump]] · 2025-05 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Donald Trump]] *named pardon attorney* [[Ed Martin]] · 2025-05-08 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Donald Trump]] *announced and claimed credit* [[India-Pakistan ceasefire (May 2025)]] · 2025-05-10 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Donald Trump]] *made* [[Trump Riyadh visit]] · 2025-05-13 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Donald Trump]] *attended and spoke at* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-22 · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Donald Trump]] *signed* [[EO 14307 'Unleashing American Drone Dominance']] · 2025-06-06 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Donald Trump]] *hosted White House lunch* [[Asim Munir]] · 2025-06-18 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Donald Trump]] *hosted for lunch* [[Asim Munir]] · 2025-06-18 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Pakistan]] *Nobel Peace Prize nomination* [[Donald Trump]] · 2025-06-21 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Donald Trump]] *lobbied House to pass* [[CLARITY Act]] · 2025-07 · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Donald Trump]] *directs and promotes* [[White House ballroom]] · 2025-07 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Donald Trump]] *announced 20% tariff deal* [[US-Vietnam reciprocal trade framework]] · 2025-07-02 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
@@ -282,7 +289,9 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *lobbied for and signed into law* [[GENIUS Act]] · 2025-07-18 · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Donald Trump]] *signed* [[GENIUS Act]] · 2025-07-18 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Donald Trump]] *signed into law* [[GENIUS Act]] · 2025-07-18 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Asim Munir]] *presented mineral samples in Oval Office* [[Donald Trump]] · 2025-09-26 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Donald Trump]] *demanded firing of Lisa Monaco citing contracts* [[Microsoft]] · 2025-09-26 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Donald Trump]] *signed* [[EO 'Assuring the Security of the State of Qatar']] · 2025-09-29 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Donald Trump]] *withdrew CFTC chair nomination* [[Brian Quintenz]] · 2025-09-30 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Donald Trump]] *nominated as CFTC Chair* [[Mike Selig]] · 2025-10 · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Donald Trump]] *struck tungsten deal with* [[Kassym-Jomart Tokayev]] · 2025-11-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
@@ -325,9 +334,11 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Former Trump supporters (commentators)]] *now call most corrupt president* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Jeff Miller]] *fundraiser; finance chair of 2025 inaugural festivities* [[Donald Trump]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Karoline Leavitt]] *said he obeys conflict laws* [[Donald Trump]] · [[C03 Dinner for top $TRUMP holders|C03]]
-- [[Keith Schiller]] *former bodyguard / Oval Office operations director* [[Donald Trump]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Keith Schiller]] *former bodyguard / Oval Office operations director* [[Donald Trump]] · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[MAGA Inc]] *super PAC backing* [[Donald Trump]] · [[C22 Crypto.com and TMTG|C22]]
 - [[MAGA Inc]] *super PAC supporting* [[Donald Trump]] · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Ronny Jackson]] *former White House physician* [[Donald Trump]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Todd Boehly]] *donated $1M-$2M to Trump political causes (amount disputed)* [[Donald Trump]] · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Trump 2024 election campaign]] *funded election of* [[Donald Trump]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Trump 47 Committee]] *campaign committee for* [[Donald Trump]] · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Trump-affiliated PACs]] *support* [[Donald Trump]] · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]

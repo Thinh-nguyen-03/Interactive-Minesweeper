@@ -308,7 +308,7 @@ The core ownership chains are documented.
 - [[Crypto.com]] · Company
 - [[Dar Global]] · Company
 - [[Designers Manager]] · Company
-- [[Dominari Holdings Dominari Securities]] · Company
+- [[Dominari Holdings]] · Company
 - [[Donald J. Trump Revocable Trust]] · Fund
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
@@ -396,7 +396,7 @@ The core ownership chains are documented.
 - [[Trump Media & Technology Group]] *formed treasury vehicle* [[Trump Media Group CRO Strategy]] · 2025-08-26 · [[C63 Shell entities and ownership chains|C63]]
 - [[WLTC Holdings LLC]] *wholly owns* [[World Liberty Trust Company, N.A]] · 2026-01-05 · [[C63 Shell entities and ownership chains|C63]]
 - [[Celebration Cards LLC]] *owns (per Senate letter)* [[Fight Fight Fight LLC]] · 2026-04-08 · [[C63 Shell entities and ownership chains|C63]]
-- [[Dominari Holdings Dominari Securities]] *owns 90% of American Ventures Management LLC* [[American Ventures]] · 2026-05 · [[C63 Shell entities and ownership chains|C63]]
+- [[Dominari Holdings]] *owns 90% of American Ventures Management LLC* [[American Ventures]] · 2026-05 · [[C63 Shell entities and ownership chains|C63]]
 - [[DT Marks SC LLC]] *passive investor in (OCC CD #1385); ~38% Trump-family stake reported* [[WLTC Holdings LLC]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
 - [[StringZ Holding RSC (DE) LLC]] *reported 49% owner; OCC-listed passive investor* [[WLTC Holdings LLC]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
 - [[WLTC Holdings LLC]] *shares indirect common owners with (OCC)* [[World Liberty Financial]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
@@ -405,8 +405,8 @@ The core ownership chains are documented.
 - [[Donald J. Trump Revocable Trust]] *wholly owns* [[CIC Ventures LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump]] *manager, president, secretary, treasurer of* [[CIC Digital LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump]] *beneficial owner (with family) of* [[DT Marks DEFI LLC]] · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] · [[C63 Shell entities and ownership chains|C63]]
-- [[Eric Trump]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald Trump Jr]] *~6% shareholder/adviser* [[Dominari Holdings]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Eric Trump]] *~6% shareholder/adviser* [[Dominari Holdings]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks Doha LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks KSA LLC]] · [[C63 Shell entities and ownership chains|C63]]
@@ -416,7 +416,7 @@ The core ownership chains are documented.
 
 - [[Donald Trump Jr]] *son of* [[Donald Trump]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C63 Shell entities and ownership chains|C63]]
 - [[Melania Trump]] *spouse of* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C44 Melania Trump's Amazon documentary deal|C44]] [[C63 Shell entities and ownership chains|C63]]
-- [[Zach Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]]
+- [[Zach Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]] [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
 ### Regulatory (1)
 

@@ -6,8 +6,8 @@ aliases:
   - "TMTG"
   - "Trump Media"
   - "Trump Media & Technology Group (DJT)"
-connections: 59
-claims: 19
+connections: 60
+claims: 20
 tags:
   - "entity"
   - "type/company"
@@ -19,8 +19,8 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 19 claims |
-| Connections | 59 |
+| Appears in | 20 claims |
+| Connections | 60 |
 | Also known as | TMTG; Trump Media; Trump Media & Technology Group (DJT) |
 
 ## How other claims describe it
@@ -51,6 +51,7 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
 
 ## Relationships
@@ -126,7 +127,7 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 
 - [[Trump Media & Technology Group]] *litigation opponents sought Patomak records on TMTG* [[Patomak Global Partners]] · 2025-08 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 
-### Commercial (32)
+### Commercial (33)
 
 - [[Kash Patel]] *former director and paid consultant* [[Trump Media & Technology Group]] · 2022 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Crypto.com]] *ETF partnership for Truth.Fi (non-binding, then binding 2025-04-22)* [[Trump Media & Technology Group]] · 2025-03-24 · [[C22 Crypto.com and TMTG|C22]]
@@ -146,6 +147,7 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Trump Media & Technology Group]] *party to* [[TMTG-TAE merger]] · 2025-12-18 · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Trump Media & Technology Group]] *licenses Truth Social brand to / launched via Truth.Fi* [[Truth Social ETFs]] · 2025-12-30 · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Trump Media & Technology Group]] *announced shareholder token* [[TMTG shareholder rewards token]] · 2025-12-31 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Kevin McGurn]] *interim CEO* [[Trump Media & Technology Group]] · 2026-04-21 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Trump Media & Technology Group]] *launched (announced 2026-07-16, live 2026-08-01)* [[Truth API]] · 2026-07-16 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Trump Media & Technology Group]] *partnered for Truth Predict; switched to marketing deal* [[Crypto.com]] · 2026-08 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Trump Media & Technology Group]] *sells* [[Truth API]] · 2026-08-01 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]

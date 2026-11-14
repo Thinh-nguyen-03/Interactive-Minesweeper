@@ -63,7 +63,7 @@ Don Jr. is a 1789 Capital partner.
 - [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 
 ## Sub-claims
 

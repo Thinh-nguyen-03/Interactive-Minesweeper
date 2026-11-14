@@ -2,25 +2,30 @@
 id: "jd-vance"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/person"
 ---
 # JD Vance
 
-US Vice President
+Led US side of Pakistan-brokered Iran talks.
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 2 claims |
+| Connections | 3 |
+
+## How other claims describe it
+
+- US Vice President
 
 ## Appears in claims
 
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 

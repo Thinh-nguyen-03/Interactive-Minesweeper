@@ -5,8 +5,8 @@ type: "country"
 aliases:
   - "America"
   - "US"
-connections: 10
-claims: 7
+connections: 9
+claims: 6
 tags:
   - "entity"
   - "type/country"
@@ -18,8 +18,8 @@ The country whose presidency is at issue.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 7 claims |
-| Connections | 10 |
+| Appears in | 6 claims |
+| Connections | 9 |
 | Also known as | America; US |
 
 ## Appears in claims
@@ -28,7 +28,6 @@ The country whose presidency is at issue.
 - [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
 - [[C17 Trump merchandise and the T1 phone]] · Mostly accurate
 - [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
-- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
 

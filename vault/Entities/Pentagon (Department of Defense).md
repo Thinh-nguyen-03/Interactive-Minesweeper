@@ -10,8 +10,8 @@ aliases:
   - "Pentagon / Space Force"
   - "U.S. Department of Defense"
   - "US Department of Defense"
-connections: 31
-claims: 12
+connections: 35
+claims: 13
 tags:
   - "entity"
   - "type/government"
@@ -23,8 +23,8 @@ Awarded $24M contract to Foundation Future Industries.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 12 claims |
-| Connections | 31 |
+| Appears in | 13 claims |
+| Connections | 35 |
 | Also known as | Department of Defense / War; DoD; Pentagon; Pentagon / Department of War; Pentagon / Space Force; U.S. Department of Defense; US Department of Defense |
 
 ## How other claims describe it
@@ -48,16 +48,20 @@ Awarded $24M contract to Foundation Future Industries.
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
-- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 
 ## Relationships
 
-### Money (6)
+### Money (9)
 
 - [[Qatar]] *donated Boeing 747-8 (accepted 21 May 2025)* [[Pentagon (Department of Defense)]] · 2025-05-21 · $400M · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Pentagon (Department of Defense)]] *$400M equity + $150M loan* [[MP Materials]] · 2025-07 · $550M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Pentagon (Department of Defense)]] *equity stake and NdPr price floor* [[MP Materials]] · 2025-07 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Pentagon (Department of Defense)]] *no-bid contracts (~$67M + $281M) advising EDU* [[Alvarez & Marsal Federal]] · 2026 · $348M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Pentagon (Department of Defense)]] *negotiated equity-stake funding under Drone Dominance with* [[Unusual Machines]] · 2026-05 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Pentagon (Department of Defense)]] *no-bid contracts up to ~$350M* [[Alvarez & Marsal Federal]] · 2026-06 · $348.7M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Pentagon (Department of Defense)]] *Flight School Next IDIQ up to $10B* [[M1 Support Services]] · 2026-08-13 · $10B · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Pentagon (Department of Defense)]] *awarded $24M contract to* [[Foundation Future Industries]] · $24M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Pentagon (Department of Defense)]] *awarded* [[$24M Pentagon contract for Foundation]] · $24M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 
@@ -76,8 +80,13 @@ Awarded $24M contract to Foundation Future Industries.
 ### Political (3)
 
 - [[Pete Hegseth]] *Secretary* [[Pentagon (Department of Defense)]] · 2025-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[US Marine Corps]] *branch under* [[Pentagon (Department of Defense)]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+
+### Legal (2)
+
+- [[Alan Waldenberg]] *represented DoD on MP Materials deal* [[Pentagon (Department of Defense)]] · 2025-07 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[Ligado Networks]] *suing for ~$50B* [[Pentagon (Department of Defense)]] · 2026 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 
 ### Commercial (7)
 

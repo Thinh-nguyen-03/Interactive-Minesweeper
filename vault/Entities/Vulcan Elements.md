@@ -36,12 +36,13 @@ Rare-earth magnet maker backed by 1789 Capital; won US government partnership fo
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
-- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 
 ## Relationships
 
-### Money (11)
+### Money (13)
 
+- [[1789 Capital]] *Series A investor* [[Vulcan Elements]] · 2025-08 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[1789 Capital]] *Series A stake* [[Vulcan Elements]] · 2025-08 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[1789 Capital]] *invested in $65M Series A of* [[Vulcan Elements]] · 2025-08 · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[1789 Capital]] *invested in (Series A)* [[Vulcan Elements]] · 2025-08 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
@@ -49,6 +50,7 @@ Rare-earth magnet maker backed by 1789 Capital; won US government partnership fo
 - [[Office of Strategic Capital]] *$620M conditional loan* [[Vulcan Elements]] · 2025-11-03 · $620M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Office of Strategic Capital]] *$620M direct loan* [[Vulcan Elements]] · 2025-11-03 · $620M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Office of Strategic Capital]] *$620M direct loan to* [[Vulcan Elements]] · 2025-11-03 · $620M · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Office of Strategic Capital]] *$620M loan* [[Vulcan Elements]] · 2025-11-03 · $620M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[US Department of Commerce]] *$50M CHIPS LOI/equity* [[Vulcan Elements]] · 2025-11-03 · $50M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[US Department of Commerce]] *$50M CHIPS incentives/equity to* [[Vulcan Elements]] · 2025-11-03 · $50M · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Vulcan Elements]] *recipient of* [[Vulcan $620M OSC loan $1.4B package]] · 2025-11-03 · [[C26 1789 Capital and Vulcan Elements|C26]]
@@ -58,8 +60,9 @@ Rare-earth magnet maker backed by 1789 Capital; won US government partnership fo
 
 - [[John Maslin]] *CEO of* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]
 
-### Political (2)
+### Political (3)
 
+- [[Peter Navarro]] *initiated OSC loan request* [[Vulcan Elements]] · 2025 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Peter Navarro]] *initiated government deal for* [[Vulcan Elements]] · 2025 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Unnamed top White House aide]] *initiated government deal for* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]
 

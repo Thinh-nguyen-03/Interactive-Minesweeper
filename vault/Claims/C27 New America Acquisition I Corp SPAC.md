@@ -158,7 +158,7 @@ The core claims hold up.
 - [[Associated Press]] · Media
 - [[Bloomberg]] · Media
 - [[D. Boral Capital]] · Company
-- [[Dominari Holdings Dominari Securities]] · Company
+- [[Dominari Holdings]] · Company
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
 - [[Eric Trump]] · Person
@@ -178,15 +178,15 @@ The core claims hold up.
 
 ### Ownership (5)
 
-- [[Dominari Holdings Dominari Securities]] *co-formed American Data Centers (later American Bitcoin) with Trump sons* [[American Bitcoin]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Eric Trump]] *major shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Dominari Holdings]] *co-formed American Data Centers (later American Bitcoin) with Trump sons* [[American Bitcoin]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Eric Trump]] *major shareholder* [[Dominari Holdings]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Kevin McGurn]] *chairman, CEO and CFO; indirect interest in 1M founder shares* [[New America Acquisition I Corp]] · 2025-07 · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Kyle Wool]] *president of* [[Dominari Holdings Dominari Securities]] · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Kyle Wool]] *president of* [[Dominari Holdings]] · [[C27 New America Acquisition I Corp SPAC|C27]]
 
 ### Family (2)
 
-- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]] [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Donald Trump]] *father of* [[Eric Trump]] · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 
 ### Regulatory (2)
@@ -218,7 +218,7 @@ The core claims hold up.
 ### Commercial (4)
 
 - [[D. Boral Capital]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO (Dominari Securities)* [[New America Acquisition I Corp]] · 2025-12 · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Dominari Holdings]] *co-lead underwriter of IPO (Dominari Securities)* [[New America Acquisition I Corp]] · 2025-12 · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[New America Acquisition I Corp]] *listed $345M IPO (incl. over-allotment) as NWAX* [[New York Stock Exchange]] · 2025-12-05 · $345M · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[New America Acquisition I Corp]] *targets firms reliant on contracts from* [[US federal government]] · $300M · [[C27 New America Acquisition I Corp SPAC|C27]]
 
@@ -228,7 +228,7 @@ The core claims hold up.
   - The Trump brothers are major Dominari shareholders.
   - Dominari Securities co-underwrote NWAX, and its president sits on the SPAC's board, so the sons may profit on both sides of the deal.
   - Dominari is also the origin of American Bitcoin.
-  - [[Dominari Holdings Dominari Securities]] [[Eric Trump]] [[Donald Trump Jr]] [[Kyle Wool]] [[New America Acquisition I Corp]] [[American Bitcoin]] · [Source](https://wendysiegelman.substack.com/p/eric-and-don-jr-partner-with-dominari)
+  - [[Dominari Holdings]] [[Eric Trump]] [[Donald Trump Jr]] [[Kyle Wool]] [[New America Acquisition I Corp]] [[American Bitcoin]] · [Source](https://wendysiegelman.substack.com/p/eric-and-don-jr-partner-with-dominari)
 - **GrabAGun / Colombier II: Don Jr.'s earlier SPAC deal**
   - An earlier 2025 SPAC deal with Don Jr. on the board of a firearms retailer, a sector shaped by federal regulation.
   - The video did not cover it.

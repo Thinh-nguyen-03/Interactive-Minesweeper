@@ -2,8 +2,8 @@
 id: "qatar-investment-authority"
 kind: "entity"
 type: "fund"
-connections: 19
-claims: 10
+connections: 23
+claims: 11
 tags:
   - "entity"
   - "type/fund"
@@ -15,16 +15,16 @@ Qatari sovereign wealth fund; invested in Affinity (part of about $1.5B, Dec 202
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 10 claims |
-| Connections | 19 |
+| Appears in | 11 claims |
+| Connections | 23 |
 
 ## How other claims describe it
 
+- Qatar's sovereign fund; Affinity LP, Park Lane buyer, WBD-bid equity backer
 - Qatari sovereign fund; Brookfield investor; Affinity investor
 - Bought Park Lane from Witkoff-Mubadala JV for ~$623M (2023)
 - Co-invested $1.5B in Affinity with Lunate; xAI investor.
 - Qatar's sovereign wealth fund; parent of Qatari Diar
-- Qatari sovereign fund; Affinity LP
 
 ## Appears in claims
 
@@ -38,24 +38,30 @@ Qatari sovereign wealth fund; invested in Affinity (part of about $1.5B, Dec 202
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Relationships
 
-### Money (8)
+### Money (12)
 
 - [[Athene Annuity and Life Co]] *lent $400M for the Park Lane purchase* [[Qatar Investment Authority]] · 2023-08 · $400M · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Qatar Investment Authority]] *bought (~$623M) from Witkoff-Mubadala JV* [[Park Lane Hotel (36 Central Park South)]] · 2023-08 · $623M · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Qatar Investment Authority]] *bought for ~$623M* [[Park Lane Hotel (36 Central Park South)]] · 2023-08 · $623M · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Qatar Investment Authority]] *bought Park Lane from Witkoff-Mubadala JV* [[Steve Witkoff]] · 2023-08 · $623M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Qatar Investment Authority]] *invested (with Lunate, about $1.5B combined) in* [[Affinity Partners]] · 2024-12 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Qatar Investment Authority]] *invested (with Lunate, ~$1.5B)* [[Affinity Partners]] · 2024-12 · $1.5B · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Qatar Investment Authority]] *invested (with Lunate) in* [[Affinity Partners]] · 2024-12-20 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Qatar Investment Authority]] *co-financed WBD bid* [[Paramount]] · 2025-12 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Qatar Investment Authority]] *non-voting equity backer of WBD bid* [[Paramount Skydance]] · 2025-12 · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Jared Kushner]] *sought new capital from (NYT)* [[Qatar Investment Authority]] · 2026-03 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Qatar Investment Authority]] *LP* [[Affinity Partners]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Qatar Investment Authority]] *major investor in (Brookfield denies Qatari role in 666 deal)* [[Brookfield]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 
-### Ownership (4)
+### Ownership (5)
 
+- [[Qatar Investment Authority]] *co-owned with Colony* [[Miramax]] · 2010 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Qatar]] *owns* [[Qatar Investment Authority]] · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Qatar Investment Authority]] *owns* [[Qatari Diar]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Qatar Investment Authority]] *owns* [[Qatari Diar]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Qatar Investment Authority]] *parent of* [[Qatari Diar]] · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatari Diar]] *subsidiary of* [[Qatar Investment Authority]] · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 

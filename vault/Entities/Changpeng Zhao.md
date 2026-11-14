@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "CZ"
   - "Changpeng Zhao (CZ)"
-connections: 21
-claims: 11
+connections: 22
+claims: 12
 tags:
   - "entity"
   - "type/person"
@@ -18,8 +18,8 @@ Binance founder and ultimate beneficial owner; pardoned by Trump.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 11 claims |
-| Connections | 21 |
+| Appears in | 12 claims |
+| Connections | 22 |
 | Also known as | CZ; Changpeng Zhao (CZ) |
 
 ## How other claims describe it
@@ -43,6 +43,7 @@ Binance founder and ultimate beneficial owner; pardoned by Trump.
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 
@@ -59,8 +60,9 @@ Binance founder and ultimate beneficial owner; pardoned by Trump.
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Changpeng Zhao]] · 2025-05-29 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Changpeng Zhao]] · 2025-05-29 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 
-### Advisory (1)
+### Advisory (2)
 
+- [[Changpeng Zhao]] *adviser* [[Pakistan Crypto Council]] · 2025-04 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Changpeng Zhao]] *strategic adviser* [[Pakistan Crypto Council]] · 2025-04 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
 ### Political (1)

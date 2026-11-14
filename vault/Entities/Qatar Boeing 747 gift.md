@@ -9,8 +9,8 @@ aliases:
   - "Qatari 747 for Air Force One"
   - "Qatari Boeing 747-8"
   - "Qatari Boeing 747-8 (Air Force One)"
-connections: 20
-claims: 9
+connections: 21
+claims: 10
 tags:
   - "entity"
   - "type/asset"
@@ -22,8 +22,8 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 9 claims |
-| Connections | 20 |
+| Appears in | 10 claims |
+| Connections | 21 |
 | Also known as | Air Force One gift; Qatar plane; Qatari 747; Qatari 747 for Air Force One; Qatari Boeing 747-8; Qatari Boeing 747-8 (Air Force One) |
 
 ## How other claims describe it
@@ -45,27 +45,31 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Relationships
 
-### Money (3)
+### Money (4)
 
 - [[Qatar]] *gifted* [[Qatar Boeing 747 gift]] · 2025-05 · $400M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Qatar]] *supplied* [[Qatar Boeing 747 gift]] · 2025-05 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Qatar]] *offered* [[Qatar Boeing 747 gift]] · $400M · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar Boeing 747 gift]] *gifted for use by* [[Donald Trump]] · $400M · [[C16 Qatar jet, arms sales and golf deal|C16]]
 
-### Ownership (5)
+### Ownership (6)
 
 - [[Qatar Boeing 747 gift]] *reportedly to be transferred by 2029-01-01 to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05-11 · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar Boeing 747 gift]] *reportedly to be transferred to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05-11 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Qatar Boeing 747 gift]] *slated to pass to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2029 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Qatar Boeing 747 gift]] *slated to transfer to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2029-01-01 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Qatar Boeing 747 gift]] *slated to transfer to by 2029 (not final)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2029-01-01 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Qatar Boeing 747 gift]] *to end up in* [[Trump presidential library]] · [[C16 Qatar jet, arms sales and golf deal|C16]]
 
-### Regulatory (3)
+### Regulatory (4)
 
 - [[Pam Bondi]] *signed DOJ memo clearing acceptance of* [[Qatar Boeing 747 gift]] · 2025-05 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Pam Bondi]] *signed OLC memo calling acceptance legally permissible* [[Qatar Boeing 747 gift]] · 2025-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Pete Hegseth]] *accepted* [[Qatar Boeing 747 gift]] · 2025-05-21 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Pete Hegseth]] *formally accepted* [[Qatar Boeing 747 gift]] · 2025-05-21 · [[C16 Qatar jet, arms sales and golf deal|C16]]
 
 ### Political (4)
@@ -75,8 +79,9 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 - [[Qatar]] *gifted 747-8 to US* [[Qatar Boeing 747 gift]] · 2025-05-21 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Qatar]] *gifted to US government* [[Qatar Boeing 747 gift]] · 2025-05-21 · $400M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 
-### Legal (1)
+### Legal (2)
 
+- [[DOJ memo on the Qatari jet]] *cleared acceptance of* [[Qatar Boeing 747 gift]] · 2025-05 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[DOJ memo on the Qatari jet]] *found acceptance legally permissible* [[Qatar Boeing 747 gift]] · 2025-05 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
 ### Media (1)

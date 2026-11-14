@@ -68,7 +68,7 @@ The in-law roles are documented.
 ## Follow-up checks
 
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Pending
-- [[C76 Russia-linked money around the family and envoys]] · Pending
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Pending
 
 ## Sub-claims

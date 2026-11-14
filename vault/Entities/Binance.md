@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Binance US"
-connections: 31
-claims: 15
+connections: 34
+claims: 16
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 15 claims |
-| Connections | 31 |
+| Appears in | 16 claims |
+| Connections | 34 |
 | Also known as | Binance US |
 
 ## How other claims describe it
@@ -46,6 +46,7 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 
@@ -75,7 +76,7 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[Changpeng Zhao]] *founder of* [[Binance]] · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Richard Teng]] *CEO of* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]]
 
-### Regulatory (8)
+### Regulatory (9)
 
 - [[Binance]] *staff found ~$300M wash trading; Binance deemed evidence insufficient (WSJ)* [[DWF Labs]] · 2024-05 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Binance]] *offboarded as MOVE market maker, froze proceeds* [[Web3Port]] · 2025-03-18 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
@@ -83,6 +84,7 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Binance]] · 2025-05-29 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Binance]] · 2025-05-29 · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Binance]] · 2025-05-29 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
+- [[Pakistan Virtual Assets Regulatory Authority]] *no-objection certificate* [[Binance]] · 2025-12 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Pardon of Changpeng Zhao]] *eases US re-entry of* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Securities and Exchange Commission]] *dropped lawsuit against* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
 
@@ -104,12 +106,13 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[The Wall Street Journal]] *reported up to $5M success-fee offers* [[Binance]] · 2025-12 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Forbes]] *reported 87% USD1 concentration at* [[Binance]] · 2026-02-09 · [[C10 Binance driving USD1 adoption|C10]]
 
-### Commercial (7)
+### Commercial (8)
 
 - [[Binance]] *reportedly helped build tech for and promoted* [[USD1]] · 2025 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Binance]] *listed for spot trading* [[USD1]] · 2025-05-22 · [[C10 Binance driving USD1 adoption|C10]]
 - [[Binance]] *holds most of USD1 supply (~75-87%)* [[USD1]] · 2025-10 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Binance]] *ran up-to-20% APR booster promotion for holders of* [[USD1]] · 2025-12 · [[C10 Binance driving USD1 adoption|C10]]
+- [[Pakistan]] *MoU to explore tokenising up to $2B state assets* [[Binance]] · 2025-12 · $2B · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Binance]] *offered ~20% yield in* [[Binance USD1 yield promotions]] · [[C10 Binance driving USD1 adoption|C10]]
 - [[Binance]] *early lister of* [[USD1]] · [[C10 Binance driving USD1 adoption|C10]]
 - [[Binance]] *main venue (~85% of supply)* [[USD1]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]

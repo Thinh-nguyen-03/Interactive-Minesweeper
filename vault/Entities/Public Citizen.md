@@ -2,8 +2,8 @@
 id: "public-citizen"
 kind: "entity"
 type: "company"
-connections: 6
-claims: 2
+connections: 8
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -15,19 +15,25 @@ Consumer advocacy group running the Corporate Enforcement Tracker
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
-| Connections | 6 |
+| Appears in | 3 claims |
+| Connections | 8 |
 
 ## How other claims describe it
 
 - Advocacy group; author of 'Ballroom Billions' donor analysis
+- Filed OGE/FARA complaints on Patel
 
 ## Appears in claims
 
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Relationships
+
+### Legal (1)
+
+- [[Public Citizen]] *asked OGE to rescind Qatar waiver of* [[Kash Patel]] · 2025 · [[C73 Qatar's access network inside and around the administration|C73]]
 
 ### Media (4)
 

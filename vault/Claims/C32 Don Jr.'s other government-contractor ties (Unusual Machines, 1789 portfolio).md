@@ -239,7 +239,7 @@ Unusual Machines is the strongest example.
 
 ### Family (2)
 
-- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]] [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Donald Trump Jr]] *brother of* [[Eric Trump]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 
 ### Regulatory (2)

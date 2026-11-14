@@ -6,8 +6,8 @@ aliases:
   - "Donald J. Trump Presidential Library Foundation"
   - "Donald J. Trump Presidential Library Foundation Inc."
   - "Trump Presidential Library Foundation"
-connections: 23
-claims: 5
+connections: 24
+claims: 6
 tags:
   - "entity"
   - "type/fund"
@@ -19,8 +19,8 @@ Nonprofit formed May 2025 to build the Trump library in Miami; successor to a fu
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 5 claims |
-| Connections | 23 |
+| Appears in | 6 claims |
+| Connections | 24 |
 | Also known as | Donald J. Trump Presidential Library Foundation; Donald J. Trump Presidential Library Foundation Inc.; Trump Presidential Library Foundation |
 
 ## How other claims describe it
@@ -29,6 +29,7 @@ Nonprofit formed May 2025 to build the Trump library in Miami; successor to a fu
 - Successor nonprofit (May 2025) run by Eric Trump, Michael Boulos and James Kiley.
 - Florida nonprofit; Michael Boulos a trustee
 - Reported eventual owner of the Qatari jet
+- Slated recipient of the jet by 2029
 
 ## Appears in claims
 
@@ -37,6 +38,7 @@ Nonprofit formed May 2025 to build the Trump library in Miami; successor to a fu
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Relationships
 
@@ -47,7 +49,7 @@ Nonprofit formed May 2025 to build the Trump library in Miami; successor to a fu
 - [[Paramount]] *settlement paid to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-07 · $16M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Florida Board of Trustees of the Internal Improvement Trust Fund]] *deeded $67M+ parcel for $10* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-09-30 · $67M · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 
-### Ownership (11)
+### Ownership (12)
 
 - [[Donald Trump]] *namesake and controlling figure of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Eric Trump]] *president and trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
@@ -59,6 +61,7 @@ Nonprofit formed May 2025 to build the Trump library in Miami; successor to a fu
 - [[Donald J. Trump Presidential Library Foundation, Inc]] *owns* [[Miami Dade College downtown parcel]] · 2026-01 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Miami Dade College downtown parcel]] *deeded for $10 to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-02 · $67M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Qatar Boeing 747 gift]] *slated to pass to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2029 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Qatar Boeing 747 gift]] *slated to transfer to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2029-01-01 · [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Qatar Boeing 747 gift]] *slated to transfer to by 2029 (not final)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2029-01-01 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 
 ### Regulatory (1)

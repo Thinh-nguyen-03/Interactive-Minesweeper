@@ -210,7 +210,7 @@ The Trump Organization does have a large and growing set of Trump-branded tower,
 - [[Dar Al Arkan]] *parent company of* [[Dar Global]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Donald Trump]] *owner (via trust)* [[Trump Organization]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Eric Trump]] *executive running* [[Trump Organization]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Qatar Investment Authority]] *owns* [[Qatari Diar]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Qatar Investment Authority]] *owns* [[Qatari Diar]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C73 Qatar's access network inside and around the administration|C73]]
 
 ### Regulatory (2)
 
@@ -227,7 +227,7 @@ The Trump Organization does have a large and growing set of Trump-branded tower,
 - [[Dar Global]] *developer of* [[Trump Tower Jeddah]] · 2024-07-01 · $530M · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Dar Global]] *developer of* [[Trump International Hotel & Tower Dubai]] · 2025-04-29 · $1B · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Qatari Diar]] *signed agreement to develop Trump golf club and villas with* [[Dar Global]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Trump Organization]] *licenses Trump brand to* [[Dar Global]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Trump Organization]] *licenses Trump brand to* [[Dar Global]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Trump Organization]] *Trump-branded golf club and villas within* [[Simaisma development]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Dar Global]] *developer of* [[Trump Plaza Jeddah]] · 2025-09-29 · $1B · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Diriyah Company]] *master-plan host of Trump-branded Wadi Safar project (licensed via Dar Global)* [[Trump Organization]] · 2026-01 · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]

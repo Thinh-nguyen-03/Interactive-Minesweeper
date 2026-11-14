@@ -2,8 +2,8 @@
 id: "qatar-patriot-apkws-sales-2026"
 kind: "entity"
 type: "event"
-connections: 6
-claims: 1
+connections: 8
+claims: 2
 tags:
   - "entity"
   - "type/event"
@@ -15,18 +15,24 @@ $4.01B Patriot replenishment + $992.4M APKWS, emergency-approved May 2026
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
-| Connections | 6 |
+| Appears in | 2 claims |
+| Connections | 8 |
+
+## How other claims describe it
+
+- ~$5B, May 2026
 
 ## Appears in claims
 
 - [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Relationships
 
-### Regulatory (1)
+### Regulatory (2)
 
 - [[Marco Rubio]] *invoked emergency waiver of congressional review for* [[2026 Qatar Patriot and APKWS sales]] · 2026-05 · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[US State Department]] *approved (emergency waiver)* [[2026 Qatar Patriot and APKWS sales]] · 2026-05 · $5B · [[C73 Qatar's access network inside and around the administration|C73]]
 
 ### Political (1)
 

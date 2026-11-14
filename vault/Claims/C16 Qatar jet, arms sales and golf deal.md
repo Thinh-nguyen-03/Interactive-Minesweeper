@@ -62,7 +62,7 @@ Documented: the ~$400M Qatari Boeing 747-8 was accepted by the Pentagon on 21 Ma
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
-- [[C73 Qatar's access network inside and around the administration]] · Pending
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 
 ## Sub-claims
 
@@ -232,7 +232,7 @@ Documented: the ~$400M Qatari Boeing 747-8 was accepted by the Pentagon on 21 Ma
 
 - [[General Atomics Aeronautical Systems]] *manufacturer for* [[MQ-9B sale to Qatar]] · 2025-03-26 · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatari Diar]] *signed agreement to develop Trump golf club and villas with* [[Dar Global]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Trump Organization]] *licenses Trump brand to* [[Dar Global]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Trump Organization]] *licenses Trump brand to* [[Dar Global]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Trump Organization]] *Trump-branded golf club and villas within* [[Simaisma development]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Qatar]] *signed LOA during Trump visit* [[MQ-9B sale to Qatar]] · 2025-05-14 · $1.96B · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[2026 possible military sales to Qatar ($5B)]] *possible sale to* [[Qatar]] · 2026 · [[C16 Qatar jet, arms sales and golf deal|C16]]

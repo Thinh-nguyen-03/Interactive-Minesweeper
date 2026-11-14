@@ -2,8 +2,8 @@
 id: "todd-blanche"
 kind: "entity"
 type: "person"
-connections: 11
-claims: 5
+connections: 13
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ Trump's criminal defence lawyer; Deputy AG, then Attorney General.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 5 claims |
-| Connections | 11 |
+| Appears in | 6 claims |
+| Connections | 13 |
 
 ## How other claims describe it
 
@@ -24,6 +24,7 @@ Trump's criminal defence lawyer; Deputy AG, then Attorney General.
 - Deputy Attorney General; author of the Apr 2025 memo
 - Acting Attorney General, addressee of 2026 letters
 - Deputy AG who fired Oyer; now Attorney General
+- US Attorney General (2026).
 
 ## Appears in claims
 
@@ -32,6 +33,7 @@ Trump's criminal defence lawyer; Deputy AG, then Attorney General.
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 
 ## Relationships
 
@@ -47,11 +49,12 @@ Trump's criminal defence lawyer; Deputy AG, then Attorney General.
 - [[Todd Blanche]] *Deputy AG, then Attorney General of* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Todd Blanche]] *Deputy AG, later AG* [[US Department of Justice (us-doj)]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 
-### Legal (3)
+### Legal (4)
 
 - [[Todd Blanche]] *criminal defence lawyer for* [[Donald Trump]] · 2023-2024 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Todd Blanche]] *fired* [[Liz Oyer]] · 2025-03-07 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Campaign Legal Center]] *filed OIG complaint over crypto holdings* [[Todd Blanche]] · 2026-01 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Todd Blanche]] *declined to investigate wedding payments to* [[Donald Trump Jr]] · 2026-09-16 · [[C76 Russia-linked money around the family and envoys|C76]]
 
 ### Commercial (1)
 

@@ -25,6 +25,7 @@ Orlando-based NYSE-listed maker of NDAA-compliant drone parts and motors.
 
 - Drone-parts maker advised by Don Jr., which is seeking a Pentagon loan.
 - Drone parts maker (UMAC); Don Jr. adviser; repeat Dominari client.
+- Don Jr.-advised drone parts maker; in OSC talks, no loan announced
 - Orlando drone-component maker advised by Don Jr.
 
 ## Appears in claims
@@ -33,7 +34,7 @@ Orlando-based NYSE-listed maker of NDAA-compliant drone parts and motors.
 - [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
-- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Pending
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 
 ## Relationships
 
@@ -53,11 +54,12 @@ Orlando-based NYSE-listed maker of NDAA-compliant drone parts and motors.
 
 - [[EO 14307 'Unleashing American Drone Dominance']] *favours domestic suppliers such as* [[Unusual Machines]] · 2025-06 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 
-### Advisory (3)
+### Advisory (4)
 
 - [[Donald Trump Jr]] *adviser and shareholder of* [[Unusual Machines]] · 2024-11 · [[C26 1789 Capital and Vulcan Elements|C26]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Donald Trump Jr]] *advisory board member and shareholder* [[Unusual Machines]] · 2024-11-27 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *advisory board member and shareholder (331,580 shares) of* [[Unusual Machines]] · 2024-11-27 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[Donald Trump Jr]] *adviser and shareholder* [[Unusual Machines]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 
 ### Media (3)
 
@@ -65,10 +67,11 @@ Orlando-based NYSE-listed maker of NDAA-compliant drone parts and motors.
 - [[ProPublica]] *reported Pentagon loan review of* [[Unusual Machines]] · 2026-05-28 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[The Wall Street Journal]] *reported equity-stake talks involving* [[Unusual Machines]] · 2026-05-28 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 
-### Commercial (5)
+### Commercial (6)
 
-- [[Dominari Holdings Dominari Securities]] *placement agent ($40M, $48.5M; co-agent on about $150M) and shareholder* [[Unusual Machines]] · 2025-05 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings]] *placement agent ($40M, $48.5M; co-agent on about $150M) and shareholder* [[Unusual Machines]] · 2025-05 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Strategic Logix]] *placed $12.8M components order with* [[Unusual Machines]] · 2025-09 · $12.8M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[US Army]] *ordered 3,500 drone motors (value undisclosed) from* [[Unusual Machines]] · 2025-10-15 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Powerus Corp]] *placed $16.9M components order with* [[Unusual Machines]] · 2026 · $16.9M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Unusual Machines]] *supplier/participant in* [[Drone Dominance program]] · 2026-05 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[Office of Strategic Capital]] *reported funding talks; no deal announced* [[Unusual Machines]] · 2026-05-28 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]

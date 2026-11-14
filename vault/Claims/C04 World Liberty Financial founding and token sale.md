@@ -175,7 +175,7 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
 ### Family (3)
 
 - [[Donald Trump]] *father of* [[Barron Trump]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C29 Trump family wealth gains|C29]]
-- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]] [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Donald Trump]] *father of* [[Eric Trump]] · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 
 ### Regulatory (1)

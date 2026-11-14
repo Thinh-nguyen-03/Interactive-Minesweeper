@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "family business"
-connections: 61
-claims: 24
+connections: 63
+claims: 25
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ The family's hotel and golf luxury business, incl.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 24 claims |
-| Connections | 61 |
+| Appears in | 25 claims |
+| Connections | 63 |
 | Also known as | family business |
 
 ## Background
@@ -55,8 +55,9 @@ The family's hotel and golf luxury business, incl.
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
-- [[C73 Qatar's access network inside and around the administration]] · Pending
-- [[C76 Russia-linked money around the family and envoys]] · Pending
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
 
@@ -94,9 +95,10 @@ The family's hotel and golf luxury business, incl.
 
 - [[Trump Organization 2025 ethics white paper]] *permits private foreign deals for* [[Trump Organization]] · 2025-01-10 · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 
-### Advisory (1)
+### Advisory (2)
 
 - [[Trump Organization]] *says independent managers trade portfolio of* [[Donald Trump]] · 2026-05 · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[George Sorial]] *former counsel* [[Trump Organization]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
 ### Political (1)
 
@@ -119,9 +121,9 @@ The family's hotel and golf luxury business, incl.
 - [[Dar Global]] *licensee for Jeddah, Dubai, Riyadh/Diriyah, Oman, Maldives projects* [[Trump Organization]] · 2022/2026 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Trump Organization]] *licenses brand to* [[Trump Tower Jeddah]] · 2024-07 · $530M · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Trump Organization]] *licensing partner for Hung Yen project* [[Kinh Bac City Development Holding Corp (KBC)]] · 2024-10 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Dominari Holdings Dominari Securities]] *tenant in Trump Tower (two leases, more than $62K/month)* [[Trump Organization]] · 2025 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings]] *tenant in Trump Tower (two leases, more than $62K/month)* [[Trump Organization]] · 2025 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Qatari Diar]] *Simaisma golf/villa partner* [[Trump Organization]] · 2025-04-30 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Trump Organization]] *licenses Trump brand to* [[Dar Global]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Trump Organization]] *licenses Trump brand to* [[Dar Global]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Trump Organization]] *Trump-branded golf club and villas within* [[Simaisma development]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Trump Organization]] *Trump-branded projects in (Dubai)* [[United Arab Emirates]] · 2025-05 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[Trump Organization]] *licenses Trump brand to* [[Trump Mobile]] · 2025-06 · [[C17 Trump merchandise and the T1 phone|C17]]

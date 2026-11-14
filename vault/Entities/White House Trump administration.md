@@ -6,8 +6,8 @@ aliases:
   - "The White House"
   - "Trump administration"
   - "White House"
-connections: 84
-claims: 50
+connections: 87
+claims: 52
 tags:
   - "entity"
   - "type/government"
@@ -21,8 +21,8 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 50 claims |
-| Connections | 84 |
+| Appears in | 52 claims |
+| Connections | 87 |
 | Also known as | The White House; Trump administration; White House |
 
 ## How other claims describe it
@@ -83,7 +83,9 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
-- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Pending
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Pending
 
 ## Relationships
@@ -103,7 +105,7 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[White House Trump administration]] *classifies as unpaid volunteer, no disclosure filed* [[Jared Kushner]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[White House Trump administration]] *approved* [[UAE AI chips deal]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 
-### Political (35)
+### Political (36)
 
 - [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] · 2024-11 · [[C14 Steve and Zach Witkoff|C14]]
 - [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[White House Trump administration]] · 2025 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
@@ -125,6 +127,7 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[White House Trump administration]] *denied special-interest influence on deal* [[Cove Kaz Capital Cove Capital]] · 2026-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[White House Trump administration]] *says assets held in trust / discretionary accounts* [[Donald Trump]] · 2026-07 · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[White House Trump administration]] *says he has fully divested* [[Steve Witkoff]] · 2026-09 · [[C42 How World Liberty insiders took money out|C42]]
+- [[White House Trump administration]] *asked to resign as ambassador to Greece* [[Kimberly Guilfoyle]] · 2026-10-13 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Anna Kelly]] *spokesperson for* [[White House Trump administration]] · [[C29 Trump family wealth gains|C29]]
 - [[David Ingle]] *spokesman for* [[White House Trump administration]] · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Jared Kushner]] *unofficial 'peace envoy' for* [[White House Trump administration]] · [[C15 Jared Kushner and Affinity Partners|C15]]

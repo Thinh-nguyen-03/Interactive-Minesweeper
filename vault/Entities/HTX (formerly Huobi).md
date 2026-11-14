@@ -2,8 +2,8 @@
 id: "htx"
 kind: "entity"
 type: "company"
-connections: 3
-claims: 1
+connections: 5
+claims: 2
 tags:
   - "entity"
   - "type/company"
@@ -15,12 +15,17 @@ Sun-associated exchange; on-chain source of the $30M WLFI purchase.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
-| Connections | 3 |
+| Appears in | 2 claims |
+| Connections | 5 |
+
+## How other claims describe it
+
+- Exchange that received a PVARA NOC in Dec 2025.
 
 ## Appears in claims
 
 - [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
+- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 
@@ -31,3 +36,11 @@ Sun-associated exchange; on-chain source of the $30M WLFI purchase.
 ### Ownership (1)
 
 - [[Justin Sun]] *closely associated with* [[HTX (formerly Huobi)]] · [[C05 Justin Sun, WLF and the SEC|C05]]
+
+### Regulatory (1)
+
+- [[Pakistan Virtual Assets Regulatory Authority]] *no-objection certificate* [[HTX (formerly Huobi)]] · 2025-12 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+
+### Advisory (1)
+
+- [[Justin Sun]] *adviser* [[HTX (formerly Huobi)]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]

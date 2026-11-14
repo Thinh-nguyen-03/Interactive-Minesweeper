@@ -176,8 +176,8 @@ Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's 
 
 ### Family (2)
 
-- [[Alex Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]]
-- [[Zach Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]]
+- [[Alex Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]] [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Zach Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]] [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
 ### Regulatory (1)
 

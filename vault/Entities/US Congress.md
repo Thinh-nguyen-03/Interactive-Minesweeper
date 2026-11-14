@@ -5,8 +5,8 @@ type: "government"
 aliases:
   - "Congress"
   - "U.S. Congress"
-connections: 55
-claims: 34
+connections: 56
+claims: 35
 tags:
   - "entity"
   - "type/government"
@@ -20,8 +20,8 @@ Passed crypto legislation; questioned Selig.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 34 claims |
-| Connections | 55 |
+| Appears in | 35 claims |
+| Connections | 56 |
 | Also known as | Congress; U.S. Congress |
 
 ## How other claims describe it
@@ -68,6 +68,7 @@ Passed crypto legislation; questioned Selig.
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 
 ## Relationships
 
@@ -78,7 +79,7 @@ Passed crypto legislation; questioned Selig.
 - [[US Congress]] *Senate Democrats demanded answers on failure to divest* [[Steve Witkoff]] · 2025-10 · [[C14 Steve and Zach Witkoff|C14]]
 - [[US Congress]] *asked to review Witkoff's filings* [[Office of Government Ethics]] · 2025-11 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[US Congress]] *Democratic committee inquiries into* [[Affinity Partners]] · 2026-03 · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[US Congress]] *House China Select Committee information request* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[US Congress]] *House China Select Committee information request* [[Dominari Holdings]] · 2026-03-08 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[US Department of Energy]] *submitted 123 agreement to* [[US Congress]] · 2026-08-25 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[US Congress]] *House passed 294-134; Senate cloture failed 49-50* [[CLARITY Act]] · 2026-09-15 · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[US State Department]] *notified F-35 sale to* [[US Congress]] · 2026-09-17 · $24.3B · [[C56 Saudi Arabia family deals alongside US policy|C56]]

@@ -4,8 +4,8 @@ kind: "entity"
 type: "asset"
 aliases:
   - "WLFI"
-connections: 17
-claims: 8
+connections: 18
+claims: 9
 tags:
   - "entity"
   - "type/asset"
@@ -17,8 +17,8 @@ World Liberty Financial governance token; ~$550M sold.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 8 claims |
-| Connections | 17 |
+| Appears in | 9 claims |
+| Connections | 18 |
 | Also known as | WLFI |
 
 ## How other claims describe it
@@ -39,6 +39,7 @@ World Liberty Financial governance token; ~$550M sold.
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 
 ## Relationships
 
