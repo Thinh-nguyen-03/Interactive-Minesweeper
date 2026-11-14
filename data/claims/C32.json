@@ -1,0 +1,658 @@
+{
+  "id": "C32",
+  "title": "Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)",
+  "verdict": "partly-accurate",
+  "confidence": "medium",
+  "summary": "Unusual Machines is the strongest example. Don Jr. joined its advisory board on Nov 27, 2024 with 331,580 shares, and in Oct 2025 the company announced its largest Army order (3,500 drone motors, value undisclosed); in 2026 it was reported to be negotiating a Pentagon equity stake. Of the 1789 Capital portfolio companies, only Firehawk has documented federal awards after 1789 led its $60M Series C, and they are small. For Anduril, SpaceX, xAI and Cerebras, no contract or policy benefit timed to Don Jr.'s involvement was found. The Executive Branch club is a real Don Jr./1789 venture with no documented federal benefit. Every side denies intervention, and no reporting shows any.",
+  "sub_claims": [
+    {
+      "statement": "Don Jr. joined Unusual Machines as adviser and shareholder in Nov 2024.",
+      "verdict": "confirmed",
+      "finding": "He was named to the advisory board on Nov 27, 2024, and the stock closed about 85% higher that day. The S-1 lists 331,580 shares: 131,580 from a private placement at $1.52 per unit and 200,000 under an RSU/advisory agreement. The FT put the stake at about $4M in Oct 2025.",
+      "sources": [
+        "https://www.nbcnews.com/business/rcna181987",
+        "https://nbcchicago.com/news/business/money-report/drone-maker-unusual-machines-shares-soar-after-donald-trump-jr-joins-advisory-board/3611106",
+        "https://theintercept.com/2025/07/28/donald-trump-jr-son-drones-unusual-machines/"
+      ]
+    },
+    {
+      "statement": "Unusual Machines won an Army contract after he joined.",
+      "verdict": "confirmed",
+      "finding": "On Oct 15, 2025 the company announced its largest US government order: 3,500 motors and components for the 101st Airborne's A.B.E. V1.01 drones, with about 20,000 more parts planned for 2026. That was about 11 months after he joined. The value was not disclosed, and a $12.8M figure seen in one aggregator is unconfirmed.",
+      "sources": [
+        "https://www.tipranks.com/news/company-announcements/unusual-machines-secures-major-u-s-army-contract",
+        "https://business.mammothtimes.com/mammothtimes/article/accwirecq-2025-10-15-unusual-machines-to-supply-3500-ndaa-compliant-motors-for-us-army-101st-airborne-divisions-abe-v101-drones",
+        "https://www.tipranks.com/news/the-fly/trump-jr-backed-unusual-machines-wins-dod-contract-ft-reports-thefly"
+      ]
+    },
+    {
+      "statement": "Don Jr. helped secure the Unusual Machines contract.",
+      "verdict": "unverified",
+      "finding": "No evidence was found. Both his spokesperson and the company deny he was involved, and CREW found no clear quid pro quo.",
+      "sources": [
+        "https://www.tipranks.com/news/the-fly/trump-jr-backed-unusual-machines-wins-dod-contract-ft-reports-thefly",
+        "https://dronexl.co/2025/10/25/trump-jr-unusual-machines-pentagon-drone-contract",
+        "https://www.citizensforethics.org/reports-investigations/crew-reports/companies-see-boost-from-trump-admin-after-adding-don-jr-to-their-board/"
+      ]
+    },
+    {
+      "statement": "Unusual Machines is in line for further federal benefits (Pentagon equity stake or loan).",
+      "verdict": "mostly-accurate",
+      "finding": "In May 2026 the Pentagon's National Economic Resilience Office was reported to be negotiating equity-stake funding with UMAC, PDW and Neros under the $1.1B Drone Dominance program. ProPublica reported that UMAC was under review for a Pentagon loan. No closed deal was found.",
+      "sources": [
+        "https://qz.com/pentagon-drone-company-equity-stakes-unusual-machines-052826",
+        "https://dronexl.co/2026/05/28/pentagon-drone-funding-equity-neros-unusual-machines-pdw/",
+        "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house"
+      ]
+    },
+    {
+      "statement": "His Unusual Machines advisory role is ongoing.",
+      "verdict": "unverified",
+      "finding": "CREW says the advisory agreement appears to have expired automatically after one year. His current shareholding is unclear.",
+      "sources": [
+        "https://www.citizensforethics.org/reports-investigations/crew-reports/companies-see-boost-from-trump-admin-after-adding-don-jr-to-their-board/"
+      ]
+    },
+    {
+      "statement": "1789 Capital's portfolio includes Anduril, SpaceX, xAI, Cerebras and Firehawk.",
+      "verdict": "mostly-accurate",
+      "finding": "Firehawk is firmly documented: 1789 led its $60M Series C at about a $290M valuation, with the round dated either Jan or Sep 2025. The other four are listed as holdings by trade press and investor databases, some of them aggregators.",
+      "sources": [
+        "https://aviationweek.com/defense/supply-chain/firehawk-aerospace-raises-60-million-series-c-round",
+        "https://3dprintingindustry.com/news/donald-trump-jrs-vc-leads-new-60m-firehawk-aerospace-investment-235626/",
+        "https://www.asiae.co.kr/en/article/2026051810171921837",
+        "https://www.cbinsights.com/investor/1789-capital"
+      ]
+    },
+    {
+      "statement": "Firehawk won federal awards after 1789's investment.",
+      "verdict": "partly-accurate",
+      "finding": "Firehawk received a $4M Air Force TACFI contract, and in Aug 2026 it was named one of four Army Hydra-70 (AGR-21C) prototype awardees. Some of its AFRL/AFWERX/SBIR awards predate the round. The amounts are small, and nothing links them to Don Jr.",
+      "sources": [
+        "https://dallasinnovates.com/firehawk-aerospace-lands-4m-air-force-contract-for-3d-printed-rocket-propulsion-tech/",
+        "https://www.tectonicdefense.com/?p=24059"
+      ]
+    },
+    {
+      "statement": "Anduril, SpaceX/xAI and Cerebras won contracts or policy benefits timed to or because of Don Jr.'s involvement.",
+      "verdict": "unverified",
+      "finding": "These firms hold large federal businesses that predate 1789, which is a minority late-stage investor. No reporting found ties any specific award or regulatory decision to 1789's investment or to Don Jr. Searches on Cerebras/CFIUS and the xAI/Anduril contracts could not be run because the search budget ran out.",
+      "sources": [
+        "https://www.asiae.co.kr/en/article/2026051810171921837"
+      ]
+    },
+    {
+      "statement": "The Executive Branch club is a Don Jr. venture tied to government benefits.",
+      "verdict": "partly-accurate",
+      "finding": "The club itself is documented. It is an invite-only Georgetown club co-founded by Don Jr., Omeed Malik, Chris Buskirk and Alex and Zach Witkoff, with membership reported at about $500k. Its Apr 2025 launch drew at least six administration officials. No federal contract or benefit linked to it was found.",
+      "sources": [
+        "https://fortune.com/2025/04/30/donald-trump-jr-open-members-club-dubbed-executive-branch-catering-to-the-wealthy/",
+        "https://www.fox5dc.com/news/executive-branch-new-private-club-co-founded-donald-trump-jr-heads-dc",
+        "https://www.nbcsandiego.com/news/business/money-report/donald-trump-jr-launches-new-private-members-club-executive-branch-with-a-500000-fee/3813352",
+        "https://politicalwire.com/2025/04/26/trump-aligned-club-for-ultra-rich-launches-in-d-c"
+      ]
+    }
+  ],
+  "corrections": [
+    "The Executive Branch club is a private members' club, not a government contractor. No federal contract or benefit tied to it was found.",
+    "The value of the Unusual Machines Army order was never disclosed. Dollar figures circulating online, such as $12.8M, are unconfirmed.",
+    "Among the 1789 companies named, only Firehawk has documented federal awards that followed 1789's investment, and they are small. The government business of SpaceX, xAI, Anduril and Cerebras predates 1789."
+  ],
+  "denials_and_context": [
+    "A Trump Jr. spokesperson told the FT, per summaries of its story, that he 'has never communicated with anyone in the administration on behalf of Unusual Machines or about the contract in question.' The company also denies he played any role.",
+    "1789 Capital says it is a passive minority growth-equity investor that does not call the government (see C26). Axios reports that Don Jr. is not on the growth fund's investment committee.",
+    "CREW and ethics experts find no clear quid pro quo and no legal bar on these roles. Their concern is the appearance of preferential access.",
+    "Context in their favor: NDAA-compliant drone motors and solid-rocket supply are genuine Pentagon shortfalls.",
+    "Research limits: citizensforethics.org and dronexl.co were blocked for direct fetch, and the shared web-search budget ran out before the Cerebras, Anduril and xAI checks."
+  ],
+  "sources": [
+    {
+      "title": "Drone company's stock soars after it appoints Donald Trump Jr. to advisory board",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/business/rcna181987",
+      "date": "2024-11-27"
+    },
+    {
+      "title": "Drone maker Unusual Machines shares soar after Donald Trump Jr. joins advisory board",
+      "publisher": "CNBC via NBC Chicago",
+      "url": "https://nbcchicago.com/news/business/money-report/drone-maker-unusual-machines-shares-soar-after-donald-trump-jr-joins-advisory-board/3611106",
+      "date": "2024-11-27"
+    },
+    {
+      "title": "Donald Trump Jr. and Unusual Machines drones",
+      "publisher": "The Intercept",
+      "url": "https://theintercept.com/2025/07/28/donald-trump-jr-son-drones-unusual-machines/",
+      "date": "2025-07-28"
+    },
+    {
+      "title": "Trump Jr.-backed Unusual Machines wins DoD contract, FT reports",
+      "publisher": "The Fly / TipRanks (Financial Times)",
+      "url": "https://www.tipranks.com/news/the-fly/trump-jr-backed-unusual-machines-wins-dod-contract-ft-reports-thefly",
+      "date": "2025-10"
+    },
+    {
+      "title": "Unusual Machines secures major U.S. Army contract",
+      "publisher": "TipRanks (company announcement)",
+      "url": "https://www.tipranks.com/news/company-announcements/unusual-machines-secures-major-u-s-army-contract",
+      "date": "2025-10-15"
+    },
+    {
+      "title": "Unusual Machines to supply 3,500 NDAA-compliant motors for US Army 101st Airborne ABE V1.01 drones",
+      "publisher": "ACCESSWIRE via Mammoth Times",
+      "url": "https://business.mammothtimes.com/mammothtimes/article/accwirecq-2025-10-15-unusual-machines-to-supply-3500-ndaa-compliant-motors-for-us-army-101st-airborne-divisions-abe-v101-drones",
+      "date": "2025-10-15"
+    },
+    {
+      "title": "Trump Jr. Unusual Machines Pentagon drone contract",
+      "publisher": "DroneXL",
+      "url": "https://dronexl.co/2025/10/25/trump-jr-unusual-machines-pentagon-drone-contract",
+      "date": "2025-10-25"
+    },
+    {
+      "title": "Companies see boost from Trump admin after adding Don Jr. to their board",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/companies-see-boost-from-trump-admin-after-adding-don-jr-to-their-board/",
+      "date": "2026"
+    },
+    {
+      "title": "Pentagon drone company equity stakes: Unusual Machines",
+      "publisher": "Quartz",
+      "url": "https://qz.com/pentagon-drone-company-equity-stakes-unusual-machines-052826",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Pentagon drone funding equity: Neros, Unusual Machines, PDW",
+      "publisher": "DroneXL",
+      "url": "https://dronexl.co/2026/05/28/pentagon-drone-funding-equity-neros-unusual-machines-pdw/",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Firehawk Aerospace Raises $60 Million In Series C Round",
+      "publisher": "Aviation Week",
+      "url": "https://aviationweek.com/defense/supply-chain/firehawk-aerospace-raises-60-million-series-c-round",
+      "date": "2025"
+    },
+    {
+      "title": "Donald Trump Jr.'s VC leads new $60M Firehawk Aerospace investment",
+      "publisher": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/news/donald-trump-jrs-vc-leads-new-60m-firehawk-aerospace-investment-235626/",
+      "date": "2025"
+    },
+    {
+      "title": "1789 Capital Scales Up 17-Fold with Trump Jr.; Accelerates Investment in AI and Defense",
+      "publisher": "Asia Economy",
+      "url": "https://www.asiae.co.kr/en/article/2026051810171921837",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "1789 Capital investor profile",
+      "publisher": "CB Insights",
+      "url": "https://www.cbinsights.com/investor/1789-capital",
+      "date": "2026-11"
+    },
+    {
+      "title": "Firehawk Aerospace Lands $4M Air Force Contract for 3D-Printed Rocket Propulsion Tech",
+      "publisher": "Dallas Innovates",
+      "url": "https://dallasinnovates.com/firehawk-aerospace-lands-4m-air-force-contract-for-3d-printed-rocket-propulsion-tech/",
+      "date": "2025"
+    },
+    {
+      "title": "Firehawk / Army Hydra-70 prototype agreements",
+      "publisher": "Tectonic Defense",
+      "url": "https://www.tectonicdefense.com/?p=24059",
+      "date": "2026-08"
+    },
+    {
+      "title": "Donald Trump Jr. to open members club dubbed 'Executive Branch' catering to the wealthy",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2025/04/30/donald-trump-jr-open-members-club-dubbed-executive-branch-catering-to-the-wealthy/",
+      "date": "2025-04-30"
+    },
+    {
+      "title": "'Executive Branch' new private club co-founded by Donald Trump Jr. heads to DC",
+      "publisher": "Fox 5 DC",
+      "url": "https://www.fox5dc.com/news/executive-branch-new-private-club-co-founded-donald-trump-jr-heads-dc",
+      "date": "2025-04"
+    },
+    {
+      "title": "Donald Trump Jr. launches new private members club Executive Branch with a $500,000 fee",
+      "publisher": "CNBC via NBC San Diego",
+      "url": "https://www.nbcsandiego.com/news/business/money-report/donald-trump-jr-launches-new-private-members-club-executive-branch-with-a-500000-fee/3813352",
+      "date": "2025"
+    },
+    {
+      "title": "Trump-aligned club for ultra-rich launches in D.C.",
+      "publisher": "Political Wire",
+      "url": "https://politicalwire.com/2025/04/26/trump-aligned-club-for-ultra-rich-launches-in-d-c",
+      "date": "2025-04-26"
+    },
+    {
+      "title": "Republicans targeted Hunter Biden's board role, but overlook Trump Jr's",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2024/12/10/two-presidents-two-sons-different-standards-of-outrage",
+      "date": "2024-12-10"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "President's eldest son; 1789 Capital partner; Unusual Machines adviser/shareholder; Executive Branch co-founder."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; father of Donald Trump Jr."
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "President's son; co-adviser to New America SPAC; Foundation adviser."
+    },
+    {
+      "id": "unusual-machines",
+      "name": "Unusual Machines (UMAC)",
+      "type": "company",
+      "description": "Orlando-based NYSE-listed maker of NDAA-compliant drone parts and motors."
+    },
+    {
+      "id": "allan-evans",
+      "name": "Allan Evans",
+      "type": "person",
+      "description": "CEO of Unusual Machines."
+    },
+    {
+      "id": "1789-capital",
+      "name": "1789 Capital",
+      "type": "fund",
+      "description": "Venture/growth-equity firm co-founded by Omeed Malik; Don Jr. partner since Nov 2024."
+    },
+    {
+      "id": "omeed-malik",
+      "name": "Omeed Malik",
+      "type": "person",
+      "description": "1789 Capital co-founder; Executive Branch co-founder."
+    },
+    {
+      "id": "chris-buskirk",
+      "name": "Chris Buskirk",
+      "type": "person",
+      "description": "1789 Capital co-founder/partner; Executive Branch co-founder."
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "Son of Steve Witkoff; reported Executive Branch co-founder."
+    },
+    {
+      "id": "alex-witkoff",
+      "name": "Alex Witkoff",
+      "type": "person",
+      "description": "Son of Steve Witkoff; reported Executive Branch co-founder."
+    },
+    {
+      "id": "executive-branch-club",
+      "name": "Executive Branch",
+      "type": "company",
+      "description": "Invite-only Georgetown members' club (~$500k membership) launched 2025."
+    },
+    {
+      "id": "vulcan-elements",
+      "name": "Vulcan Elements",
+      "type": "company",
+      "description": "Rare-earth magnet maker; 1789 portfolio company; $620M Pentagon OSC loan (C26)."
+    },
+    {
+      "id": "firehawk-aerospace",
+      "name": "Firehawk Aerospace",
+      "type": "company",
+      "description": "Dallas-area solid/hybrid rocket propulsion startup; 1789 led its $60M Series C."
+    },
+    {
+      "id": "anduril",
+      "name": "Anduril Industries",
+      "type": "company",
+      "description": "Defense-tech company; listed 1789 holding; builds YFQ-44 for Air Force."
+    },
+    {
+      "id": "spacex",
+      "name": "SpaceX",
+      "type": "company",
+      "description": "Launch/satellite company and major federal contractor; listed 1789 holding."
+    },
+    {
+      "id": "xai",
+      "name": "xAI",
+      "type": "company",
+      "description": "Elon Musk's AI company; listed 1789 holding."
+    },
+    {
+      "id": "cerebras",
+      "name": "Cerebras Systems",
+      "type": "company",
+      "description": "AI-chip maker; listed 1789 holding."
+    },
+    {
+      "id": "pentagon",
+      "name": "Department of Defense / War",
+      "type": "government",
+      "description": "US defense department."
+    },
+    {
+      "id": "us-army",
+      "name": "US Army",
+      "type": "government",
+      "description": "Purchaser of UMAC motors (101st Airborne) and Firehawk Hydra-70 prototypes."
+    },
+    {
+      "id": "us-air-force",
+      "name": "US Air Force",
+      "type": "government",
+      "description": "Awarded Firehawk a $4M TACFI contract."
+    },
+    {
+      "id": "drone-dominance-program",
+      "name": "Drone Dominance program",
+      "type": "event",
+      "description": "$1.1B Pentagon drone procurement initiative under which equity stakes were negotiated."
+    },
+    {
+      "id": "crew",
+      "name": "Citizens for Responsibility and Ethics in Washington (CREW)",
+      "type": "company",
+      "description": "Ethics watchdog nonprofit that reported on Don Jr. board roles."
+    },
+    {
+      "id": "new-america-acquisition-i",
+      "name": "New America Acquisition I Corp",
+      "type": "company",
+      "description": "SPAC advised by Don Jr. and Eric Trump (C27)."
+    },
+    {
+      "id": "foundation-future-industries",
+      "name": "Foundation Future Industries",
+      "type": "company",
+      "description": "Humanoid-robot maker with Eric Trump as adviser (C28)."
+    },
+    {
+      "id": "propublica",
+      "name": "ProPublica",
+      "type": "media",
+      "description": "Reported Vulcan deal and UMAC Pentagon-loan review."
+    },
+    {
+      "id": "financial-times",
+      "name": "Financial Times",
+      "type": "media",
+      "description": "Reported Don Jr.'s ~$4M UMAC stake at Army contract time."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "donald-trump-jr",
+      "target": "unusual-machines",
+      "label": "advisory board member and shareholder (331,580 shares) of",
+      "type": "advisory",
+      "date": "2024-11-27"
+    },
+    {
+      "source": "us-army",
+      "target": "unusual-machines",
+      "label": "ordered 3,500 drone motors (value undisclosed) from",
+      "type": "commercial",
+      "date": "2025-10-15"
+    },
+    {
+      "source": "pentagon",
+      "target": "unusual-machines",
+      "label": "negotiated equity-stake funding under Drone Dominance with",
+      "type": "money",
+      "date": "2026-05"
+    },
+    {
+      "source": "unusual-machines",
+      "target": "drone-dominance-program",
+      "label": "supplier/participant in",
+      "type": "commercial",
+      "date": "2026-05"
+    },
+    {
+      "source": "allan-evans",
+      "target": "unusual-machines",
+      "label": "CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "1789-capital",
+      "label": "partner at",
+      "type": "ownership",
+      "date": "2024-11"
+    },
+    {
+      "source": "omeed-malik",
+      "target": "1789-capital",
+      "label": "co-founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "chris-buskirk",
+      "target": "1789-capital",
+      "label": "co-founder/partner of",
+      "type": "ownership"
+    },
+    {
+      "source": "1789-capital",
+      "target": "vulcan-elements",
+      "label": "invested in (Series A)",
+      "type": "money",
+      "date": "2025-08"
+    },
+    {
+      "source": "1789-capital",
+      "target": "firehawk-aerospace",
+      "label": "led $60M Series C in",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 60000000
+    },
+    {
+      "source": "1789-capital",
+      "target": "anduril",
+      "label": "reported investor in",
+      "type": "money"
+    },
+    {
+      "source": "1789-capital",
+      "target": "spacex",
+      "label": "reported investor in",
+      "type": "money"
+    },
+    {
+      "source": "1789-capital",
+      "target": "xai",
+      "label": "reported investor in",
+      "type": "money"
+    },
+    {
+      "source": "1789-capital",
+      "target": "cerebras",
+      "label": "reported investor in",
+      "type": "money"
+    },
+    {
+      "source": "us-air-force",
+      "target": "firehawk-aerospace",
+      "label": "awarded $4M TACFI contract to",
+      "type": "commercial",
+      "date": "2025",
+      "amount_usd": 4000000
+    },
+    {
+      "source": "us-army",
+      "target": "firehawk-aerospace",
+      "label": "Hydra-70 prototype agreement with",
+      "type": "commercial",
+      "date": "2026-08"
+    },
+    {
+      "source": "us-army",
+      "target": "pentagon",
+      "label": "part of",
+      "type": "regulatory"
+    },
+    {
+      "source": "us-air-force",
+      "target": "pentagon",
+      "label": "part of",
+      "type": "regulatory"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "executive-branch-club",
+      "label": "co-founder of",
+      "type": "ownership",
+      "date": "2025-04"
+    },
+    {
+      "source": "omeed-malik",
+      "target": "executive-branch-club",
+      "label": "co-founder of",
+      "type": "ownership",
+      "date": "2025-04"
+    },
+    {
+      "source": "chris-buskirk",
+      "target": "executive-branch-club",
+      "label": "co-founder of",
+      "type": "ownership",
+      "date": "2025-04"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "executive-branch-club",
+      "label": "reported co-founder of",
+      "type": "ownership",
+      "date": "2025-04"
+    },
+    {
+      "source": "alex-witkoff",
+      "target": "executive-branch-club",
+      "label": "reported co-founder of",
+      "type": "ownership",
+      "date": "2025-04"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "new-america-acquisition-i",
+      "label": "adviser to",
+      "type": "advisory"
+    },
+    {
+      "source": "eric-trump",
+      "target": "new-america-acquisition-i",
+      "label": "adviser to",
+      "type": "advisory"
+    },
+    {
+      "source": "eric-trump",
+      "target": "foundation-future-industries",
+      "label": "chief strategy adviser of",
+      "type": "advisory"
+    },
+    {
+      "source": "donald-trump",
+      "target": "donald-trump-jr",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "eric-trump",
+      "label": "brother of",
+      "type": "family"
+    },
+    {
+      "source": "crew",
+      "target": "donald-trump-jr",
+      "label": "reported on board-role conflicts of",
+      "type": "media"
+    },
+    {
+      "source": "financial-times",
+      "target": "unusual-machines",
+      "label": "reported Don Jr.'s ~$4M stake at contract time",
+      "type": "media",
+      "date": "2025-10"
+    },
+    {
+      "source": "propublica",
+      "target": "unusual-machines",
+      "label": "reported Pentagon loan review of",
+      "type": "media",
+      "date": "2026-05-28"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Pentagon equity stake in Unusual Machines under Drone Dominance",
+      "why_connected": "A direct federal ownership stake in a company where Don Jr. is a shareholder and adviser would be a new, larger benefit. Whether a deal closed is unconfirmed.",
+      "entities": [
+        "unusual-machines",
+        "donald-trump-jr",
+        "pentagon",
+        "drone-dominance-program"
+      ],
+      "source_url": "https://qz.com/pentagon-drone-company-equity-stakes-unusual-machines-052826"
+    },
+    {
+      "title": "Unusual Machines' $10M investment in Canada's Draganfly",
+      "why_connected": "A Trump Jr.-backed company expanding its drone holdings across the border, which may shape its access to Pentagon procurement.",
+      "entities": [
+        "unusual-machines",
+        "donald-trump-jr"
+      ],
+      "source_url": "https://www.ctvnews.ca/business/article/trump-jr-backed-unusual-machines-us-asset-manager-invest-us10m-in-canadas-draganfly-reuters-exclusive/"
+    },
+    {
+      "title": "PowerUS / Aureus Greenway drone merger with Eric and Don Jr.",
+      "why_connected": "Another drone venture tied to both sons, and PowerUS is a Drone Dominance Phase II participant partnered with Unusual Machines.",
+      "entities": [
+        "donald-trump-jr",
+        "eric-trump",
+        "unusual-machines",
+        "drone-dominance-program"
+      ],
+      "source_url": "https://www.manufacturingdive.com/news/powerus-drone-aureus-greenway-holdings-golf-eric-donald-jr-trump/814484/"
+    },
+    {
+      "title": "CREW: third Don Jr. board company positioned for a new Trump healthcare program",
+      "why_connected": "CREW's report names another company that added Don Jr. to its board and may benefit from administration policy.",
+      "entities": [
+        "donald-trump-jr",
+        "crew"
+      ],
+      "source_url": "https://www.citizensforethics.org/reports-investigations/crew-reports/companies-see-boost-from-trump-admin-after-adding-don-jr-to-their-board/"
+    },
+    {
+      "title": "Administration officials as Executive Branch club members",
+      "why_connected": "The Daily Beast reports that cabinet and agency officials are members of Don Jr.'s club. That is single-sourced and would mean officials paying into a venture owned by the president's son.",
+      "entities": [
+        "executive-branch-club",
+        "donald-trump-jr",
+        "omeed-malik"
+      ],
+      "source_url": "https://www.thedailybeast.com/wild-secrets-of-don-jrs-maga-millionaire-club-exposed"
+    }
+  ]
+}
