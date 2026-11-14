@@ -30,6 +30,8 @@ Claim list: `data/claims-index.json` (ids C01–C30, with transcript line ranges
 }
 ```
 
+Also include a `"leads"` array in the claim JSON: related or adjacent stories you came across that the video did NOT cover (or only brushed) but that connect to the same people/orgs and deserve their own fact-check — e.g. another deal by the same investor, another dropped enforcement case tied to a donor, another family venture. Each: `{"title": "...", "why_connected": "...", "entities": ["ids"], "source_url": "https://..."}`. Only real, sourced leads; empty array if none.
+
 Entity `type`: `person | company | government | fund | asset | country | law | media | event | product`.
 Relationship `type`: `money | ownership | family | regulatory | advisory | political | legal | media | commercial`.
 
