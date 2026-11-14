@@ -70,11 +70,11 @@ python3 build.py
 cd map && python3 -m http.server 8000
 ```
 
-Click a node to open its file. Double-click to isolate its network. "Trace path" finds the shortest connection between two names. The Claims view lists every item with its verdict, and Common denominators ranks the most-connected names and the recurring themes.
+The site has four areas. The home page gives the answer first and lists the 30 video claims in video order, then the follow-up checks and the connection checks. Each claim page runs in a fixed order: what the video says, verdict, bottom line, what holds up, what needs correcting, what is unproven, the other side, who is involved, sources, second review and the full report. People and organisations have profiles with their closest connections, a timeline, the largest sums and every relationship written out with the claims it comes from. The map shows every name and connection: select a mark for a summary, double-click to isolate its network, and use "Trace a path" to find the shortest connection between two names.
 
 **Obsidian.** Open the `vault/` folder as a vault and use the graph view. Notes link to each other with wikilinks.
 
-**Rebuilding.** After editing anything under `data/` or `research/`, run `python3 build.py`. It rewrites `map/graph-data.js` and regenerates `vault/`. It needs only the Python standard library.
+**Rebuilding.** After editing anything under `data/` or `research/`, run `python3 build.py`. It rewrites `map/graph-data.js` and regenerates `vault/`. It needs only the Python standard library. The map layout is computed in the build (about ten seconds) and cached in `.layout-cache.json`; it is recomputed only when names or connections change.
 
 ## Corrections
 

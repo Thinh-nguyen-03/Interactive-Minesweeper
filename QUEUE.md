@@ -87,3 +87,8 @@ Step 3 — build the chosen design as the new site in `map/` (same publishing co
 ## Status at about 06:10 Central 14 Nov
 - All 94 items researched and independently second-reviewed. Live map republished (version 5) with all 94; README counts updated. No agents running.
 - Open: (1) user to choose a redesign direction from the comparison page; (2) repo rename/description must be done by the user in GitHub settings; (3) a fourth research layer has not been started — leads are recorded in the `leads` arrays of C83-C94 if the user wants one; (4) news and government sites remain blocked for direct fetch, so findings rest on search excerpts.
+
+## Status after combined redesign (14 Nov)
+- User chose A + B + the full network map. Built and published to the live link (version 6). `build.py` now also produces per-claim holds_up / needs_correcting / unproven lists, chapters, merged relationship lines, per-name timelines and sums, and precomputed map positions (`.layout-cache.json`).
+- Sign-off wanted from the user: the home headline ("The core facts hold up in all 30"), the seven chapter titles, and the wheel layout of the map (30 video claims pinned on a ring in video order).
+- Known rough edges: some relationship lines read as fragments; duplicate-merging is heuristic; `graph-data.js` is ~5.3 MB; themes have no page of their own.

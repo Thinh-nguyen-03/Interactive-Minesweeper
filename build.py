@@ -13,7 +13,9 @@ into
 Standard library only. Every input is optional or may be partial; missing
 pieces degrade to "pending" rather than failing.  Run:  python3 build.py
 """
+import hashlib
 import json
+import math
 import re
 import shutil
 import sys
@@ -125,7 +127,8 @@ REL_TYPES = ["money", "ownership", "family", "regulatory", "advisory",
              "political", "legal", "media", "commercial"]
 # claude.ai reserves these hash names; a node may not use them.
 RESERVED_HASHES = {"settings", "sidebar", "customize", "upgrade", "downloads",
-                   "map", "claims", "common"}
+                   "map", "claims", "common", "names", "method", "home"}
+RESERVED_PREFIXES = ("comment-", "name-", "map-")
 
 warnings = []
 
@@ -621,7 +624,9 @@ def merge(index, claim_files, reports, base):
             c["single_source"] = bool(re.search(r"(?i)single[- ]source|sole source|anonymous sources alone", blob))
             au = d.get("audit")
             if isinstance(au, dict) and clean_str(au.get("result")):
-                c["audit"] = {"result": slugify(au.get("result")), "scope": tidy(au.get("scope"))}
+                c["audit"] = {"result": slugify(au.get("result")), "scope": tidy(au.get("scope")),
+                              "checked": [cap_first(tidy(x)) for x in as_list(au.get("checked")) if isinstance(x, str) and x.strip()],
+                              "changes": [cap_first(tidy(x)) for x in as_list(au.get("changes")) if isinstance(x, str) and x.strip()]}
             srcs = []
             for s in as_list(d.get("sources")):
                 if isinstance(s, str):
@@ -770,7 +775,7 @@ def assemble(claims, order, entities, rels, claim_ents, themes):
 
     def uniq_hash(want):
         h = re.sub(r"[^A-Za-z0-9-]+", "-", want).strip("-") or "node"
-        if h.lower() in RESERVED_HASHES or h.lower().startswith("comment-") or h.lower() in used:
+        if h.lower() in RESERVED_HASHES or h.lower().startswith(RESERVED_PREFIXES) or h.lower() in used:
             h = "e-" + h
         base_h, i = h, 2
         while h.lower() in used:
@@ -854,9 +859,438 @@ def assemble(claims, order, entities, rels, claim_ents, themes):
     return graph, neigh, key_of
 
 
+# --------------------------------------------------------------------------
+# What the website's pages need on top of the raw graph: explicit lists per
+# claim, chapters, evidence grades, merged relationship lines, per-name
+# timelines and sums, global tallies and a precomputed map layout.
+# --------------------------------------------------------------------------
+HOLDS_UP = ("confirmed", "mostly-accurate")
+NEEDS_CORRECTING = ("partly-accurate", "misleading", "false")
+
+# The 30 video claims in the order the video makes them, in plain chapters.
+CHAPTERS = [
+    ("Meme coins", 1, 3),
+    ("World Liberty Financial and its backers", 4, 7),
+    ("The UAE, Binance and the stablecoin laws", 8, 13),
+    ("Family, envoys and merchandise", 14, 17),
+    ("Bitcoin, Trump Media and the markets", 18, 24),
+    ("Prediction markets, defence and deal vehicles", 25, 28),
+    ("The big picture", 29, 30),
+]
+
+# Sentences that say something is not shown.  They are listed under "what is
+# unproven" as well as where they stand, so a caveat is never only in the small print.
+_UNPROVEN_RE = re.compile(
+    r"(?i)\b(not proven|unproven|insinuat\w+|not (been )?established|no evidence|no proof|uncorroborated|"
+    r"not been shown|(does|do|did) not (show|prove|establish)|not shown|no source (shows|asserts|says|states)|"
+    r"asserted by no source|cannot be (verified|confirmed)|could not be (verified|confirmed|corroborated)|"
+    r"not (been )?(independently )?(verified|confirmed|corroborated)|unverified|unconfirmed|our (own )?inference|"
+    r"is inferred|are inferred|speculat\w+)\b")
+
+
+def claim_number(cid):
+    m = re.match(r"[A-Za-z]+(\d+)", cid)
+    return int(m.group(1)) if m else 0
+
+
+def grade_kind(grade, points):
+    """documented | single-source | inferred | mixed | none-found | '' for a connection's evidence grade."""
+    text = grade or (points[0][:240] if points else "")
+    if not grade and not re.match(r"(?i)\s*(evidence|grade|documented|single|inferred|each |not found|none found|partly)", text):
+        return ""
+    low = text.lower()
+    if re.search(r"\b(none found|not found)\b", low):
+        return "none-found"
+    kinds = [k for k, rx in (("documented", r"\bdocumented\b"), ("single-source", r"\bsingle[- ]source\b"),
+                             ("inferred", r"\binferred\b")) if re.search(rx, low)]
+    if not kinds:
+        return ""
+    return kinds[0] if len(kinds) == 1 else "mixed"
+
+
+_STOP = {"of", "the", "a", "an", "to", "in", "and", "by", "for", "on", "at", "with", "from", "its", "as", "is",
+         "was", "his", "her", "their", "via", "per", "about", "roughly", "that", "it", "into", "over"}
+_CAVEAT = re.compile(r"(?i)alleg|report|single[- ]source|unverified|denie|disputed|unconfirmed|inferred|claimed|said to")
+
+
+def _tokens(label):
+    out = set()
+    for w in re.findall(r"[a-z0-9$%.~]+", label.lower()):
+        w = w.strip(".~")
+        if w and w not in _STOP:
+            out.add(w[:5] if w[0].isalpha() else w)
+    return out
+
+
+def _date_clash(a, b):
+    if not a or not b:
+        return False
+    a, b = a.split("/")[0], b.split("/")[0]
+    n = 7 if (len(a) >= 7 and len(b) >= 7 and a[4:5] == "-" and b[4:5] == "-" and a[5:7].isdigit() and b[5:7].isdigit()) else 4
+    return a[:n] != b[:n]
+
+
+def _amount_clash(a, b):
+    if a is None or b is None:
+        return False
+    return abs(a - b) > 0.1 * max(abs(a), abs(b), 1)
+
+
+def merge_lines(rels, unverified):
+    """The same relationship restated across claims (same pair, similar wording) becomes one line.
+
+    Nothing is merged across a different date or amount.  The wording kept is the one that carries a
+    caveat (alleged, reported, single-source) if any does, otherwise the fullest; every claim is listed.
+    """
+    by_pair = defaultdict(list)
+    for r in rels:
+        by_pair[(r["s"], r["t"])].append(r)
+    out = []
+    for (s, t), group in by_pair.items():
+        clusters = []
+        for r in sorted(group, key=lambda r: (-len(r["label"]), r["label"])):
+            tok = _tokens(r["label"])
+            home = None
+            for c in clusters:
+                for o, otok in c:
+                    small = min(len(tok), len(otok))
+                    if not small:
+                        continue
+                    if (len(tok & otok) / small >= 0.6 and not _date_clash(r.get("date"), o.get("date"))
+                            and not _amount_clash(r.get("amount_usd"), o.get("amount_usd"))):
+                        home = c
+                        break
+                if home:
+                    break
+            if home is None:
+                clusters.append([(r, tok)])
+            else:
+                home.append((r, tok))
+        for c in clusters:
+            members = [r for r, _ in c]
+            caveated = [r for r in members if _CAVEAT.search(r["label"])]
+            pool = caveated or members
+            best = max(pool, key=lambda r: (min(len(r["label"]), 90), -len(r["label"])))
+            claims = sorted({cid for r in members for cid in r["claims"]}, key=claim_sort_key)
+            line = {"s": s, "t": t, "label": best["label"], "type": best["type"], "claims": claims}
+            dates = sorted((r["date"] for r in members if r.get("date")), key=lambda d: (-len(d.split("/")[0]), d))
+            if dates:
+                line["date"] = best.get("date") or dates[0]
+            amounts = [r["amount_usd"] for r in members if r.get("amount_usd") is not None]
+            if amounts:
+                line["amount_usd"] = best["amount_usd"] if best.get("amount_usd") is not None else amounts[0]
+            if len(members) > 1:
+                line["restated"] = len(members)
+            if claims and all(cid in unverified for cid in claims):
+                line["alleged"] = True     # rests only on an unverified item
+            out.append(line)
+    out.sort(key=lambda r: (r["s"], r["t"], r.get("date") or "9999", r["label"]))
+    return out
+
+
+def date_key(d):
+    """Sortable form of the loose dates in the data (2025, 2025-03, 2025-Q2, 2025-03/2025-07, 2025-spring)."""
+    d = str(d or "").split("/")[0]
+    m = re.match(r"(\d{4})(?:-(\d{2})(?:-(\d{2}))?|-Q(\d)|-(spring|summer|autumn|fall|winter))?", d)
+    if not m:
+        return "9999"
+    y, mo, da, q, season = m.groups()
+    if q:
+        mo = "%02d" % (int(q) * 3 - 2)
+    if season:
+        mo = {"spring": "04", "summer": "07", "autumn": "10", "fall": "10", "winter": "01"}[season]
+    return f"{y}-{mo or '00'}-{da or '00'}"
+
+
+# ---- map layout -----------------------------------------------------------
+# A force layout computed here so the map appears at once and looks the same on
+# every visit.  The video claims are held on a ring in video order; everything
+# else settles between the claims that name it.  The result is cached by the
+# shape of the graph, so editing text does not move the map.
+RING = 1500
+LAYOUT_CACHE = ROOT / ".layout-cache.json"
+LAYOUT_VERSION = 5
+
+
+def layout_pairs(graph):
+    idx = {n["key"]: i for i, n in enumerate(graph["nodes"])}
+    pairs = {}
+    for r in graph["rels"]:
+        a, b = idx.get(r["s"]), idx.get(r["t"])
+        if a is not None and b is not None and a != b:
+            pairs.setdefault((min(a, b), max(a, b)), "rel")
+    for l in graph["links"]:
+        a, b = idx.get(l["s"]), idx.get(l["t"])
+        if a is not None and b is not None and a != b:
+            pairs.setdefault((min(a, b), max(a, b)), l["k"])
+    return pairs
+
+
+def ring_targets(graph):
+    video = [i for i, n in enumerate(graph["nodes"]) if n["kind"] == "claim" and n["origin"] == "video"]
+    out = {}
+    for j, i in enumerate(video):
+        a = -math.pi / 2 + 2 * math.pi * (j + 0.5) / len(video)
+        out[i] = (RING * math.cos(a), RING * math.sin(a))
+    return out
+
+
+def compute_layout(graph):
+    nodes = graph["nodes"]
+    n = len(nodes)
+    pairs = layout_pairs(graph)
+    sig = hashlib.sha1(json.dumps([LAYOUT_VERSION, [x["key"] for x in nodes], sorted(pairs.items())],
+                                  separators=(",", ":")).encode()).hexdigest()
+    cached = load_json(LAYOUT_CACHE, {}) if LAYOUT_CACHE.exists() else {}
+    if isinstance(cached, dict) and cached.get("sig") == sig and len(cached.get("xy", [])) == n:
+        return cached["xy"], "from cache"
+
+    deg = [0] * n
+    for a, b in pairs:
+        deg[a] += 1
+        deg[b] += 1
+    kind = [x["kind"] for x in nodes]
+    rad = [3.2 + 1.5 * math.sqrt(deg[i]) if kind[i] == "entity" else
+           8 + 0.9 * math.sqrt(deg[i]) if kind[i] == "claim" else 9 + 1.1 * math.sqrt(deg[i]) for i in range(n)]
+    targets = ring_targets(graph)
+    x, y = [0.0] * n, [0.0] * n
+    for rank, i in enumerate(sorted(range(n), key=lambda i: (-deg[i], nodes[i]["key"]))):
+        r, a = 15 * math.sqrt(rank + 0.5), rank * 2.399963
+        x[i], y[i] = r * math.cos(a), r * math.sin(a)
+    for i, (tx, ty) in targets.items():
+        x[i], y[i] = tx, ty
+    vx, vy = [0.0] * n, [0.0] * n
+    q = [-(230 + 34 * math.sqrt(deg[i]) + (460 if kind[i] == "claim" else 0)) for i in range(n)]
+    links = []
+    for (a, b), k in sorted(pairs.items()):
+        dist = 74 if k == "rel" else 100 if k == "claim" else 150
+        base = 0.9 if k == "claim" else 0.5 if k == "rel" else 0.6 if k == "theme" else 0.2
+        links.append((a, b, dist, base / math.sqrt(min(deg[a], deg[b]) or 1), deg[a] / (deg[a] + deg[b])))
+    pad = [rad[i] + (16 if kind[i] == "claim" else 7) for i in range(n)]
+    cell = 2 * max(pad)
+    max_d2 = 1400.0 ** 2
+    ax, ay = [0.0] * n, [0.0] * n
+
+    def charge():
+        minx, miny = min(x), min(y)
+        size = max(max(x) - minx, max(y) - miny, 1.0) / 13
+        cells = defaultdict(list)
+        for i in range(n):
+            cells[(int((x[i] - minx) / size), int((y[i] - miny) / size))].append(i)
+        summary = {}
+        for c, members in cells.items():
+            tq = sum(q[i] for i in members)
+            summary[c] = (sum(x[i] * q[i] for i in members) / tq, sum(y[i] * q[i] for i in members) / tq, tq)
+        for c, members in cells.items():
+            far, near = [], []
+            for d, sm in summary.items():
+                if abs(d[0] - c[0]) <= 1 and abs(d[1] - c[1]) <= 1:
+                    near += cells[d]
+                else:
+                    far.append(sm)
+            nx, ny, nq = [x[j] for j in near], [y[j] for j in near], [q[j] for j in near]
+            for i in members:
+                xi, yi, fx, fy = x[i], y[i], 0.0, 0.0
+                for cx, cy, cq in far:
+                    dx, dy = cx - xi, cy - yi
+                    l = dx * dx + dy * dy
+                    if l < max_d2:
+                        w = cq / l
+                        fx += dx * w
+                        fy += dy * w
+                for k in range(len(near)):
+                    dx, dy = nx[k] - xi, ny[k] - yi
+                    l = dx * dx + dy * dy
+                    if l < 1.0:
+                        if near[k] == i:
+                            continue
+                        l = 1.0
+                    w = nq[k] / l
+                    fx += dx * w
+                    fy += dy * w
+                ax[i], ay[i] = fx, fy
+
+    def collide():
+        grid = defaultdict(list)
+        for i in range(n):
+            grid[(int((x[i] + vx[i]) // cell), int((y[i] + vy[i]) // cell))].append(i)
+        for (cx, cy), members in grid.items():
+            for ox, oy in ((0, 0), (1, 0), (-1, 1), (0, 1), (1, 1)):
+                other = grid.get((cx + ox, cy + oy))
+                if not other:
+                    continue
+                same = ox == 0 and oy == 0
+                for ai, i in enumerate(members):
+                    xi, yi, ri = x[i] + vx[i], y[i] + vy[i], pad[i]
+                    for j in (members[ai + 1:] if same else other):
+                        dx, dy = xi - x[j] - vx[j], yi - y[j] - vy[j]
+                        r = ri + pad[j]
+                        l = dx * dx + dy * dy
+                        if l < r * r:
+                            l = math.sqrt(l) or 0.01
+                            l = (r - l) / l * 0.8
+                            share = pad[j] * pad[j] / (ri * ri + pad[j] * pad[j])
+                            vx[i] += dx * l * share
+                            vy[i] += dy * l * share
+                            vx[j] -= dx * l * (1 - share)
+                            vy[j] -= dy * l * (1 - share)
+
+    alpha, ticks = 1.0, 300
+    for tick in range(ticks):
+        alpha += (0 - alpha) * 0.0228
+        for a, b, dist, strength, bias in links:
+            dx = x[b] + vx[b] - x[a] - vx[a] or 0.01
+            dy = y[b] + vy[b] - y[a] - vy[a] or 0.01
+            l = math.sqrt(dx * dx + dy * dy)
+            l = (l - dist) / l * alpha * strength
+            dx *= l
+            dy *= l
+            vx[b] -= dx * bias
+            vy[b] -= dy * bias
+            vx[a] += dx * (1 - bias)
+            vy[a] += dy * (1 - bias)
+        if tick % 3 == 0:
+            charge()
+        for i in range(n):
+            vx[i] += ax[i] * alpha
+            vy[i] += ay[i] * alpha
+        collide()
+        for i in range(n):
+            t = targets.get(i)
+            if t:                       # the video claims stay on the ring
+                x[i], y[i], vx[i], vy[i] = t[0], t[1], 0.0, 0.0
+                continue
+            vx[i] += -x[i] * 0.02 * alpha
+            vy[i] += -y[i] * 0.02 * alpha
+            vx[i] *= 0.6
+            vy[i] *= 0.6
+            x[i] += vx[i]
+            y[i] += vy[i]
+    xy = [[round(x[i]), round(y[i])] for i in range(n)]
+    try:
+        LAYOUT_CACHE.write_text(json.dumps({"sig": sig, "xy": xy}, separators=(",", ":")), encoding="utf-8")
+    except OSError as exc:
+        warn(f"could not write {LAYOUT_CACHE.name}: {exc}")
+    return xy, "computed"
+
+
+def enrich(graph, neigh, key_of):
+    nodes, meta = graph["nodes"], graph["meta"]
+    claims = [n for n in nodes if n["kind"] == "claim"]
+    entities = [n for n in nodes if n["kind"] == "entity"]
+    unverified = {c["id"] for c in claims if c["verdict"] == "unverified"}
+
+    # ---- per claim: tally and the three explicit lists
+    points = Counter()
+    for c in claims:
+        holds, fix, unp = [], [], []
+        for i, s in enumerate(c["sub_claims"]):
+            s["grade_kind"] = grade_kind(s["grade"], s["points"]) if (c["origin"] == "connection-hunt" or s["grade"]) else ""
+            (holds if s["verdict"] in HOLDS_UP else fix if s["verdict"] in NEEDS_CORRECTING else unp).append({"sub": i})
+        tally = [len(holds), len(fix), len(unp)]
+        fix += [{"fix": j} for j in range(len(c["corrections"]))]
+        seen = set()
+        notes = []
+        for src, texts in (("summary", [c["bottom_line"]] + c["bottom_parts"] + c["summary_points"]),):
+            for t in texts:
+                for sent in sentences(t):
+                    if _UNPROVEN_RE.search(sent) and len(sent) > 40 and sent.lower() not in seen:
+                        seen.add(sent.lower())
+                        notes.append({"note": sent, "from": src})
+        for i, s in enumerate(c["sub_claims"]):
+            if s["verdict"] in ("unverified", "pending"):
+                continue
+            for p in s["points"]:
+                if _UNPROVEN_RE.search(p) and len(p) > 40 and p.lower() not in seen:
+                    seen.add(p.lower())
+                    notes.append({"note": p, "from": "point", "sub": i})
+        c["tally"] = tally
+        c["holds_up"], c["needs_correcting"], c["unproven"] = holds, fix, unp + notes
+        c["number"] = claim_number(c["id"])
+        points["hold"] += tally[0]
+        points["correct"] += tally[1]
+        points["unproven"] += tally[2]
+
+    # ---- chapters for the video claims
+    video = [c for c in claims if c["origin"] == "video"]
+    chapters, placed = [], set()
+    for title, lo, hi in CHAPTERS:
+        ids = [c["id"] for c in video if lo <= c["number"] <= hi]
+        if ids:
+            chapters.append({"title": title, "claims": ids})
+            placed.update(ids)
+    rest = [c["id"] for c in video if c["id"] not in placed]
+    if rest:
+        chapters.append({"title": "Other claims in the video", "claims": rest})
+    for ci, ch in enumerate(chapters):
+        for cid in ch["claims"]:
+            key_of[cid]["chapter"] = ci
+
+    # ---- relationships: one line per fact, however many claims restate it
+    lines = merge_lines(graph["rels"], unverified)
+    graph["lines"] = lines
+    by_ent = defaultdict(list)
+    for i, r in enumerate(lines):
+        by_ent[r["s"]].append(i)
+        by_ent[r["t"]].append(i)
+    for e in entities:
+        mine = by_ent[e["key"]]
+        e["timeline"] = sorted((i for i in mine if lines[i].get("date")), key=lambda i: (date_key(lines[i]["date"]), i))
+        e["sums"] = sorted((i for i in mine if lines[i].get("amount_usd")),
+                           key=lambda i: (-lines[i]["amount_usd"], i))[:6]
+        cl = [k for k in neigh[e["key"]] if key_of[k]["kind"] == "claim"]
+        unv = sorted((k for k in cl if k in unverified), key=claim_sort_key)
+        if unv:
+            e["unverified_in"] = unv
+            if len(unv) == len(cl):
+                e["unverified_only"] = True
+
+    # ---- global tallies
+    def tally_of(group):
+        t = Counter(c["verdict"] for c in group)
+        return {v: t[v] for v in VERDICTS if t[v]}
+    points["total"] = points["hold"] + points["correct"] + points["unproven"]
+    meta["points"] = dict(points)
+    meta["corrections"] = sum(len(c["corrections"]) for c in claims)
+    meta["sources"] = sum(len(c["sources"]) for c in claims)
+    meta["second_reviewed"] = sum(1 for c in claims if c.get("audit"))
+    meta["tally_by_origin"] = {o: tally_of([c for c in claims if c["origin"] == o])
+                               for o in ("video", "follow-up", "connection-hunt")}
+    meta["chapters"] = chapters
+    meta["unverified"] = sorted(unverified, key=claim_sort_key)
+    meta["lines"] = len(lines)
+
+    # ---- map positions
+    xy, how = compute_layout(graph)
+    for n, (px, py) in zip(nodes, xy):
+        n["x"], n["y"] = px, py
+    meta["layout"] = how
+    meta["ring"] = RING
+
+
+_DROP_CLAIM = ("summary", "claim", "denials_and_context", "slug", "report_file", "verified")
+_DROP_ENTITY = ("description", "stub")
+
+
+def slim(graph):
+    """The copy written for the website: merged relationship lines, and no field the pages do not read."""
+    nodes = []
+    for n in graph["nodes"]:
+        m = dict(n)
+        if n["kind"] == "claim":
+            for k in _DROP_CLAIM:
+                m.pop(k, None)
+            m["sub_claims"] = [{k: v for k, v in s.items() if k != "finding"} for s in n["sub_claims"]]
+        elif n["kind"] == "entity":
+            for k in _DROP_ENTITY:
+                m.pop(k, None)
+        nodes.append(m)
+    return {"meta": graph["meta"], "nodes": nodes, "links": graph["links"], "rels": graph.get("lines", graph["rels"])}
+
+
 def write_graph_js(graph):
     MAP_DIR.mkdir(exist_ok=True)
-    js = json.dumps(graph, ensure_ascii=False, separators=(",", ":"))
+    js = json.dumps(slim(graph), ensure_ascii=False, separators=(",", ":"))
     js = js.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029").replace("</", "<\\/")
     out = MAP_DIR / "graph-data.js"
     out.write_text("/* Generated by build.py \u2014 do not edit. */\nwindow.GRAPH = " + js + ";\n", encoding="utf-8")
@@ -1217,6 +1651,7 @@ def main():
         print("No claims found (data/claims-index.json and data/claims/ are both empty).", file=sys.stderr)
     claims, order, entities, rels, claim_ents, themes = merge(index, claim_files, reports, base)
     graph, neigh, key_of = assemble(claims, order, entities, rels, claim_ents, themes)
+    enrich(graph, neigh, key_of)
     out = write_graph_js(graph)
     notes = write_vault(graph, neigh, key_of)
 
@@ -1231,6 +1666,10 @@ def main():
     print(f"  origin         {m['video_claims']} from the video, {m['followups']} follow-up, "
           f"{m['connection_hunts']} connection hunt")
     print("  verdicts       " + ", ".join(f"{v} {m['tally'][v]}" for v in VERDICTS if m["tally"][v]))
+    pt = m["points"]
+    print(f"  points checked {pt['total']:>4}   ({pt['hold']} hold up, {pt['correct']} needed correcting, {pt['unproven']} unproven)")
+    print(f"  merged lines   {m['lines']:>4}   (from {m['relationships']} relationships as recorded)")
+    print(f"  layout         {m['layout']}")
     top = sorted((n for n in graph["nodes"] if n["kind"] == "entity"), key=lambda n: -n["degree"])[:8]
     print("  most connected " + ", ".join(f"{n['name']} ({n['degree']})" for n in top))
     pend = [c for c in order if claims[c]["verdict"] == "pending"]
