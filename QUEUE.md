@@ -83,3 +83,7 @@ Step 3 — build the chosen design as the new site in `map/` (same publishing co
 - Research: third-layer hunts C83-C91 and C94 done; C92 (ballroom donor list) and C93 (Kremlev/IBA) still running. Second reviews done for C83-C88; a reviewer for C89-C94 is running.
 - Then: `python3 build.py`, republish the live map (`map/index.html` + three supporting files) to https://claude.ai/artifact/Hodpp6u6fLoqSvbVs8Y9XP, update README counts.
 - Data gap all three designers hit: no explicit "what is unproven" field per claim; needed before any full redesign build.
+
+## Status at about 06:10 Central 14 Nov
+- All 94 items researched and independently second-reviewed. Live map republished (version 5) with all 94; README counts updated. No agents running.
+- Open: (1) user to choose a redesign direction from the comparison page; (2) repo rename/description must be done by the user in GitHub settings; (3) a fourth research layer has not been started — leads are recorded in the `leads` arrays of C83-C94 if the user wants one; (4) news and government sites remain blocked for direct fetch, so findings rest on search excerpts.
