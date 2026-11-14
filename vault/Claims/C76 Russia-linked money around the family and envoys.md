@@ -278,7 +278,7 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 - [[Gentry Beach]] · Person
 - [[IB Challenger]] · Company
 - [[International Boxing Association (IBA)]] · Company
-- [[International Holding Company (IHC)]] · Company
+- [[International Holding Company]] · Company
 - [[Jack Reed]] · Person
 - [[Jared Kushner]] · Person
 - [[John Curtis]] · Person
@@ -333,7 +333,7 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 - [[Jared Kushner]] *co-founded* [[Cadre]] · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Kirill Dmitriev]] *CEO of* [[Russian Direct Investment Fund]] · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Leonard Blavatnik]] *founded and controls* [[Access Industries]] · [[C76 Russia-linked money around the family and envoys|C76]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[International Holding Company (IHC)]] · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[International Holding Company]] · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Umar Kremlev]] *president of* [[International Boxing Association (IBA)]] · [[C76 Russia-linked money around the family and envoys|C76]]
 
 ### Family (4)
@@ -382,7 +382,7 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 - [[Witkoff Group]] *co-owns One High Line, Banyan Cay and North Beach projects with* [[Access Industries]] · 2021-12 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Gentry Beach]] *signed LNG technology deal for Alaska project* [[Novatek]] · 2025 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Moutaz and Ramez Al-Khayyat]] *reported members of Boehly consortium* [[Lukoil]] · 2026-09 · [[C76 Russia-linked money around the family and envoys|C76]]
-- [[International Holding Company (IHC)]] *reported member of Boehly consortium* [[Lukoil]] · 2026-09 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[International Holding Company]] *reported member of Boehly consortium* [[Lukoil]] · 2026-09 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Todd Boehly]] *leads consortium bidding for ~$20B foreign assets* [[Lukoil]] · 2026-09 · $20B · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Moutaz and Ramez Al-Khayyat]] *reported partners on Albania resort project (single-source)* [[Jared Kushner]] · [[C76 Russia-linked money around the family and envoys|C76]]
 
@@ -393,7 +393,7 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
   - [[Gentry Beach]] [[Novatek]] [[Donald Trump Jr]] · [Source](https://www.pravda.com.ua/eng/news/2026/10/24/8059533/)
 - **Lukoil foreign-asset sale: OFAC licensing and DFC stake**
   - A consortium with Tahnoon's IHC, Kushner's reported Albania partners and Trump donor Boehly needs OFAC approval while Witkoff and Kushner negotiate with Putin; Treasury licence extensions (to 21 Nov 2026) are a datable trail.
-  - [[Lukoil]] [[Todd Boehly]] [[International Holding Company (IHC)]] [[Moutaz and Ramez Al-Khayyat]] [[US International Development Finance Corporation]] · [Source](https://kyivindependent.com/u-s-peace-negotiations-with-russia-could-now-involve-multi-billion-dollar-lukoil-deal-nyt-reports/)
+  - [[Lukoil]] [[Todd Boehly]] [[International Holding Company]] [[Moutaz and Ramez Al-Khayyat]] [[US International Development Finance Corporation]] · [Source](https://kyivindependent.com/u-s-peace-negotiations-with-russia-could-now-involve-multi-billion-dollar-lukoil-deal-nyt-reports/)
 - **IB Challenger and IBA funding**
   - Kyiv Post could not identify the Dubai entity's funding; whether Gazprom money still reaches the IBA bears on whether the wedding spending was Russian state-linked money.
   - [[IB Challenger]] [[International Boxing Association (IBA)]] [[Umar Kremlev]] · [Source](https://www.kyivpost.com/post/88580)

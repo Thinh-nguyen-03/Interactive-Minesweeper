@@ -68,7 +68,7 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Pending
+- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Sub-claims
 
@@ -324,7 +324,7 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 - [[Jared Kushner]] · Person
 - [[Jay Weitzman]] · Person
 - [[Josh Gruenbaum]] · Person
-- [[Joshua Kushner]] · Person
+- [[Josh Kushner]] · Person
 - [[Kai Trump]] · Person
 - [[Kalshi]] · Company
 - [[Kushner Companies]] · Company
@@ -370,6 +370,7 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 
 ### Ownership (15)
 
+- [[Josh Kushner]] *founder of* [[Thrive Capital]] · 2009 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]] [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 - [[Jared Kushner]] *divested Thrive-linked LLCs (2017 ethics filing)* [[Thrive Capital]] · 2017-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Kushner Companies]] *owned; leased to Brookfield for 99 years* [[666 Fifth Avenue]] · 2018-08 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Barron Trump]] *co-founder; estimated about 7.5% stake (Forbes)* [[World Liberty Financial]] · 2024-09 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
@@ -384,14 +385,13 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 - [[Fadoul Group]] *controls* [[SCOA Nigeria PLC]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Gilbert Chagoury]] *owns* [[ITB Nigeria]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Jay Weitzman]] *owns* [[Park America]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Joshua Kushner]] *founder of* [[Thrive Capital]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 
 ### Family (10)
 
 - [[James (Jimmy) Frangi]] *cousin; arranged Allam meeting; yacht-brokerage employer* [[Michael Boulos]] · 2022 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Michael Boulos]] *married to* [[Tiffany Trump]] · 2022-11-12 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Charles Kushner]] *father of* [[Jared Kushner]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Charles Kushner]] *father of* [[Joshua Kushner]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Charles Kushner]] *father of* [[Josh Kushner]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Donald Trump]] *father of* [[Tiffany Trump]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Donald Trump Jr]] *father of* [[Kai Trump]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Jared Kushner]] *married to* [[Ivanka Trump]] · [[C45 Kushner's Albania and Serbia developments|C45]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]

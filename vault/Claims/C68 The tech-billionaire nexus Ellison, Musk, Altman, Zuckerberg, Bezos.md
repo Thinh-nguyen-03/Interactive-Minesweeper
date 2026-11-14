@@ -62,7 +62,7 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 
 ## Follow-up checks
 
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Pending
+- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Sub-claims
 
@@ -285,7 +285,7 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - [[JD Vance]] · Person
 - [[Jeff Bezos]] · Person
 - [[Jensen Huang]] · Person
-- [[Joshua Kushner]] · Person
+- [[Josh Kushner]] · Person
 - [[L'imad Holding Company]] · Fund
 - [[Larry Ellison]] · Person
 - [[Leading the Future]] · Fund
@@ -365,7 +365,7 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - [[Public Investment Fund (Saudi Arabia)]] *~93.4% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Silver Lake]] *~5.5% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Paramount]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-09-29 · $81B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Joshua Kushner]] *founder* [[Thrive Capital]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Josh Kushner]] *founder* [[Thrive Capital]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Larry Ellison]] *co-founder, largest shareholder* [[Oracle]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Peter Thiel]] *co-founder* [[Palantir Technologies (PLTR)]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Sheikh Tahnoon bin Zayed]] *chairman* [[MGX]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]

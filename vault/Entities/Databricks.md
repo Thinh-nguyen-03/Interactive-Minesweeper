@@ -10,7 +10,7 @@ tags:
 ---
 # Databricks
 
-Thrive-backed data company; reported GSA sole-source award
+Data/AI company; Thrive led its $10B Series J (Dec 2024); won $1.824M GSA sole-source order (Feb 2026).
 
 | | |
 |---|---|
@@ -18,17 +18,23 @@ Thrive-backed data company; reported GSA sole-source award
 | Appears in | 2 claims |
 | Connections | 4 |
 
+## How other claims describe it
+
+- Thrive-backed data company; reported GSA sole-source award
+
 ## Appears in claims
 
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Pending
+- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Relationships
 
-### Money (1)
+### Money (2)
 
+- [[Thrive Capital]] *led $10B Series J of* [[Databricks]] · 2024-12 · $10B · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 - [[Thrive Capital]] *investor in* [[Databricks]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 
-### Commercial (1)
+### Commercial (2)
 
 - [[General Services Administration]] *reported sole-source contract (single-source)* [[Databricks]] · 2026 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[General Services Administration]] *sole-source order 47QPCA26F0011, ceiling $1,824,000* [[Databricks]] · 2026-02 · $1.82M · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]

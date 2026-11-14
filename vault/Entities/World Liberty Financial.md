@@ -6,8 +6,8 @@ aliases:
   - "WLF"
   - "WLFI"
   - "World Liberty"
-connections: 111
-claims: 39
+connections: 112
+claims: 40
 tags:
   - "entity"
   - "type/company"
@@ -19,8 +19,8 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 39 claims |
-| Connections | 111 |
+| Appears in | 40 claims |
+| Connections | 112 |
 | Also known as | WLF; WLFI; World Liberty |
 
 ## How other claims describe it
@@ -72,6 +72,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
 
 ## Relationships
 
@@ -128,7 +129,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[USD1]] *reserve interest flows to* [[World Liberty Financial]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]]
 - [[World Liberty Financial]] *pays president and family* [[Donald Trump]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]] [[C29 Trump family wealth gains|C29]]
 
-### Ownership (47)
+### Ownership (48)
 
 - [[Alex Witkoff]] *co-founder* [[World Liberty Financial]] · 2024 · [[C14 Steve and Zach Witkoff|C14]]
 - [[Donald Trump]] *family holds major stake in* [[World Liberty Financial]] · 2024 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
@@ -146,6 +147,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[Sheikh Tahnoon bin Zayed]] *linked Aryam holds 49% of (C57)* [[World Liberty Financial]] · 2025-01 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[WLF Holdco LLC]] *owns* [[World Liberty Financial]] · 2025-01 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
 - [[Aryam Investment 1]] *agreed to pay $500M for a 49% stake in* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[Aryam Investment 1]] *bought 49% of* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Aryam Investment 1]] *reportedly agreed to buy 49% of* [[World Liberty Financial]] · 2025-01-16 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Tahnoon-linked investment vehicle]] *secretly bought 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C14 Steve and Zach Witkoff|C14]]
 - [[World Liberty Financial]] *issues and earns reserve yield on* [[USD1]] · 2025-03-25 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]

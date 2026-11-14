@@ -431,7 +431,7 @@ For most named partners, a family deal and a favourable US decision in the same 
 - [[US Treasury]] *deferred sanctions six times, then refused (Oct 2025)* [[NIS (Naftna Industrija Srbije)]] · 2025-01/2025-10 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Vietnam]] *fast-tracked in-principle approval for Trump project of* [[Kinh Bac City Development Holding Corp (KBC)]] · 2025-05 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Binance]] · 2025-05-29 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
-- [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[US Department of Commerce]] *licensed up to 35,000 GB300-equivalent chips* [[G42]] · 2025-11-20 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[US Treasury]] *issued licence to buy Venezuelan oil (Reuters, anonymous)* [[Reliance Industries]] · 2026-02-13 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 

@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "WLTC Holdings"
-connections: 11
-claims: 6
+connections: 13
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ WLF subsidiary that filed the OCC trust bank charter application
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 6 claims |
-| Connections | 11 |
+| Appears in | 7 claims |
+| Connections | 13 |
 | Also known as | WLTC Holdings |
 
 ## How other claims describe it
@@ -37,14 +37,16 @@ WLF subsidiary that filed the OCC trust bank charter application
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
 
 ## Relationships
 
-### Ownership (13)
+### Ownership (14)
 
 - [[World Liberty Financial]] *parent of* [[WLTC Holdings LLC]] · 2026-01 · [[C12 WLF bank charter from the OCC|C12]]
 - [[World Liberty Financial]] *trust-bank applicant affiliate* [[WLTC Holdings LLC]] · 2026-01 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[WLTC Holdings LLC]] *wholly owns* [[World Liberty Trust Company, N.A]] · 2026-01-05 · [[C63 Shell entities and ownership chains|C63]]
+- [[StringZ Holding RSC (DE) LLC]] *holds 49% of (WSJ)* [[WLTC Holdings LLC]] · 2026-08 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[StringZ Holding RSC (DE) LLC]] *passive investor; reportedly 49% (WSJ, anonymous)* [[WLTC Holdings LLC]] · 2026-08 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[StringZ Holding RSC (DE) LLC]] *reportedly owns 49% of* [[WLTC Holdings LLC]] · 2026-08 · [[C12 WLF bank charter from the OCC|C12]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[DT Marks SC LLC]] *passive investor in (OCC CD #1385); ~38% Trump-family stake reported* [[WLTC Holdings LLC]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
@@ -60,3 +62,7 @@ WLF subsidiary that filed the OCC trust bank charter application
 
 - [[WLTC Holdings LLC]] *applied for national trust bank charter to* [[Office of the Comptroller of the Currency]] · 2026-01-05 · [[C12 WLF bank charter from the OCC|C12]]
 - [[Office of the Comptroller of the Currency]] *preliminary conditional approval* [[WLTC Holdings LLC]] · 2026-08-14 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+
+### Advisory (1)
+
+- [[Zach Witkoff]] *president and chairman* [[WLTC Holdings LLC]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]

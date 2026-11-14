@@ -35,5 +35,5 @@ US-sanctioned Russian oil major selling about $20B of foreign assets.
 ### Commercial (3)
 
 - [[Moutaz and Ramez Al-Khayyat]] *reported members of Boehly consortium* [[Lukoil]] · 2026-09 · [[C76 Russia-linked money around the family and envoys|C76]]
-- [[International Holding Company (IHC)]] *reported member of Boehly consortium* [[Lukoil]] · 2026-09 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[International Holding Company]] *reported member of Boehly consortium* [[Lukoil]] · 2026-09 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Todd Boehly]] *leads consortium bidding for ~$20B foreign assets* [[Lukoil]] · 2026-09 · $20B · [[C76 Russia-linked money around the family and envoys|C76]]

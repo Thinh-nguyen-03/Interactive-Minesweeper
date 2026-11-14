@@ -6,8 +6,8 @@ aliases:
   - "Donald J. Trump"
   - "Trump"
   - "the president"
-connections: 263
-claims: 80
+connections: 266
+claims: 81
 tags:
   - "entity"
   - "type/person"
@@ -21,8 +21,8 @@ US president; the video alleges he and his family made billions from regulated i
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 80 claims |
-| Connections | 263 |
+| Appears in | 81 claims |
+| Connections | 266 |
 | Also known as | Donald J. Trump; Trump; the president |
 
 ## How other claims describe it
@@ -114,7 +114,8 @@ US president; the video alleges he and his family made billions from regulated i
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
-- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
+- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
 
 ## Relationships
 
@@ -158,7 +159,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Trump financial disclosures]] *show ~$1.4B crypto income of ~$2.2B* [[Donald Trump]] · $1.4B · [[C29 Trump family wealth gains|C29]]
 - [[World Liberty Financial]] *pays president and family* [[Donald Trump]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]] [[C29 Trump family wealth gains|C29]]
 
-### Ownership (33)
+### Ownership (34)
 
 - [[Donald Trump]] *settlor and sole beneficiary of* [[Donald J. Trump Revocable Trust]] · 2014-04-07 · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump]] *manager, president, secretary, treasurer of* [[CIC Ventures LLC]] · 2023 · [[C63 Shell entities and ownership chains|C63]]
@@ -166,6 +167,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *controls with sons* [[DT Marks DEFI LLC]] · 2024-10 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Donald Trump]] *owns (with family)* [[DT Marks DEFI LLC]] · 2024-10 · [[C04 World Liberty Financial founding and token sale|C04]] [[C42 How World Liberty insiders took money out|C42]]
 - [[Donald Trump]] *sole beneficiary of* [[Donald J. Trump Revocable Trust]] · 2024-12 · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Donald Trump]] *ultimate owner (reported on OGE disclosure)* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · 2025 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Donald Trump]] *namesake and controlling figure of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Donald Trump]] *manager, president, secretary, treasurer of* [[CIC Digital LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump]] *owns* [[CIC Digital LLC]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
@@ -215,7 +217,7 @@ US president; the video alleges he and his family made billions from regulated i
 ### Regulatory (19)
 
 - [[Donald Trump]] *administration keeps sanctions on* [[Bidzina Ivanishvili]] · 2025 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Donald Trump]] *cut tariff from 32% to 19% in deal with* [[Indonesia]] · 2025-07-15 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Donald Trump]] *19% tariff and energy/trade deal* [[Pakistan]] · 2025-07-31 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Donald Trump]] *approved by executive order* [[TikTok USDS Joint Venture LLC]] · 2025-09-25 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
@@ -242,7 +244,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[George Sorial]] *former Trump Organization EVP/chief compliance counsel* [[Donald Trump]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 
-### Political (117)
+### Political (119)
 
 - [[Keith Schiller]] *former bodyguard and Oval Office operations director* [[Donald Trump]] · 2017 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Donald Trump]] *pardoned* [[Bernard Kerik]] · 2020-02 · [[C73 Qatar's access network inside and around the administration|C73]]
@@ -263,6 +265,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *appointed special envoy* [[Steve Witkoff]] · 2025-01 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Elon Musk]] *DOGE head; donor* [[Donald Trump]] · 2025-01 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Jeff Miller]] *inaugural festivities finance chair* [[Donald Trump]] · 2025-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Hussain Sajwani]] *$20B+ US data-centre pledge announced with* [[Donald Trump]] · 2025-01-07 · $20B · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Hussain Sajwani]] *announced $20B US data-centre pledge with* [[Donald Trump]] · 2025-01-07 · $20B · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Donald Trump]] *announced at White House* [[Project Stargate]] · 2025-01-21 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Donald Trump]] *appointed Commerce Secretary* [[Howard Lutnick]] · 2025-02 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
@@ -313,6 +316,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *said Netflix deal 'could be a problem'; CNN should be sold* [[Warner Bros. Discovery]] · 2025-12 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Donald Trump]] *hosted signing of* [[Washington Accords (DRC-Rwanda)]] · 2025-12-04 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
 - [[Donald Trump]] *reportedly approved curbs on chip diverters (3+ times)* [[US Department of Commerce]] · 2026 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Donald Trump]] *chairs* [[Board of Peace (Gaza)]] · 2026-01 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 - [[Donald Trump]] *pushed to acquire* [[Greenland]] · 2026-01 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Donald Trump]] *named 'envoy of peace'* [[Jared Kushner]] · 2026-02-19 · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Donald Trump]] *named 'envoy of peace' (unofficial, volunteer)* [[Jared Kushner]] · 2026-02-19 · [[C15 Jared Kushner and Affinity Partners|C15]]

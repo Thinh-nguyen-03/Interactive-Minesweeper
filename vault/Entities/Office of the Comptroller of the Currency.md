@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "OCC"
-connections: 25
-claims: 9
+connections: 27
+claims: 10
 tags:
   - "entity"
   - "type/government"
@@ -17,8 +17,8 @@ Bank regulator that provisionally approved WLF and Crypto.com charters.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 9 claims |
-| Connections | 25 |
+| Appears in | 10 claims |
+| Connections | 27 |
 | Also known as | OCC |
 
 ## How other claims describe it
@@ -40,10 +40,11 @@ Bank regulator that provisionally approved WLF and Crypto.com charters.
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
 
 ## Relationships
 
-### Regulatory (25)
+### Regulatory (26)
 
 - [[Jonathan Gould]] *heads* [[Office of the Comptroller of the Currency]] · 2025-07 · [[C12 WLF bank charter from the OCC|C12]]
 - [[Jonathan Gould]] *Comptroller* [[Office of the Comptroller of the Currency]] · 2025-07-10 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
@@ -57,6 +58,7 @@ Bank regulator that provisionally approved WLF and Crypto.com charters.
 - [[WLTC Holdings LLC]] *applied for national trust bank charter to* [[Office of the Comptroller of the Currency]] · 2026-01-05 · [[C12 WLF bank charter from the OCC|C12]]
 - [[Office of the Comptroller of the Currency]] *conditional trust charter* [[Foris DAX National Trust Bank]] · 2026-02-23 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Office of the Comptroller of the Currency]] *granted conditional national trust charter* [[Foris DAX National Trust Bank]] · 2026-02-23 · [[C22 Crypto.com and TMTG|C22]]
+- [[Office of the Comptroller of the Currency]] *required passivity commitment from* [[StringZ Holding RSC (DE) LLC]] · 2026-08-14 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Office of the Comptroller of the Currency]] *issued* [[OCC preliminary conditional approval (CD 1385)]] · 2026-08-14 · [[C12 WLF bank charter from the OCC|C12]]
 - [[Office of the Comptroller of the Currency]] *preliminary conditional approval* [[WLTC Holdings LLC]] · 2026-08-14 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Office of the Comptroller of the Currency]] *conditionally approved trust charter* [[World Liberty Financial]] · 2026-08-14 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]

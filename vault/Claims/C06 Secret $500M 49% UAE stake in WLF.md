@@ -50,7 +50,7 @@ The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle bac
 ## Follow-up checks
 
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
-- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
 
 ## Sub-claims
 

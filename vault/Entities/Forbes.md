@@ -2,8 +2,8 @@
 id: "forbes"
 kind: "entity"
 type: "media"
-connections: 16
-claims: 8
+connections: 17
+claims: 9
 tags:
   - "entity"
   - "type/media"
@@ -15,8 +15,8 @@ Source of family net-worth estimates.
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 8 claims |
-| Connections | 16 |
+| Appears in | 9 claims |
+| Connections | 17 |
 
 ## How other claims describe it
 
@@ -36,6 +36,7 @@ Source of family net-worth estimates.
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
 
 ## Relationships
 

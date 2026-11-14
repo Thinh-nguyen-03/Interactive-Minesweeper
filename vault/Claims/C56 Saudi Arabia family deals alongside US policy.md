@@ -280,7 +280,7 @@ The parallel timeline is well documented. Trump-branded Saudi projects (Diriyah 
 - [[Chris Wright]] *signed* [[US-Saudi 123 civil nuclear agreement]] · 2026-07-22 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[US Department of Energy]] *submitted 123 agreement to* [[US Congress]] · 2026-08-25 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[US State Department]] *notified F-35 sale to* [[US Congress]] · 2026-09-17 · $24.3B · [[C56 Saudi Arabia family deals alongside US policy|C56]]
-- [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 
 ### Political (9)
 

@@ -43,7 +43,7 @@ Paul Hastings of counsel; G42 general counsel; adviser to Abu Dhabi ruling famil
 
 ### Political (2)
 
-- [[Martin Edelman]] *named in leaked draft as executive board member (single-source)* [[Board of Peace]] · 2026 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Martin Edelman]] *named in leaked draft as executive board member (single-source)* [[Board of Peace (Gaza)]] · 2026 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[United Arab Emirates]] *awarded Order of the Union to* [[Martin Edelman]] · 2026-06 · [[C61 Shared lawyers and law firms across the deals|C61]]
 
 ### Commercial (4)

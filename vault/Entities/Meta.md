@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Meta Platforms"
-connections: 9
-claims: 3
+connections: 11
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -17,13 +17,14 @@ Paid ~$22-25M settlement toward the library
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 claims |
-| Connections | 9 |
+| Appears in | 4 claims |
+| Connections | 11 |
 | Also known as | Meta Platforms |
 
 ## How other claims describe it
 
 - Paid $25M settlement; ballroom donor
+- Llama added to OneGov Sept 2025.
 - $25M settlement; $5M ballroom
 
 ## Appears in claims
@@ -31,6 +32,7 @@ Paid ~$22-25M settlement toward the library
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Relationships
 
@@ -49,3 +51,7 @@ Paid ~$22-25M settlement toward the library
 ### Legal (1)
 
 - [[Federal Trade Commission]] *lost monopoly case (Boasberg)* [[Meta]] · 2025-11-18 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+
+### Commercial (1)
+
+- [[General Services Administration]] *OneGov Llama* [[Meta]] · 2025-09 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]

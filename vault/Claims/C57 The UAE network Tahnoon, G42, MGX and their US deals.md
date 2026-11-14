@@ -72,7 +72,7 @@ Almost every link in the brief is documented. Tahnoon-linked vehicles bought 49%
 ## Follow-up checks
 
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
-- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
 
 ## Sub-claims
 
@@ -312,7 +312,7 @@ Almost every link in the brief is documented. Tahnoon-linked vehicles bought 49%
 - [[Donald Trump]] *approved divestiture by executive order* [[TikTok USDS Joint Venture LLC]] · 2025-09-25 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[US Department of Commerce]] *authorized up to 35,000 GB300-equivalent chips for* [[G42]] · 2025-11-20 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Office of the Comptroller of the Currency]] *granted preliminary conditional charter approval* [[World Liberty Trust Company, N.A]] · 2026-08-14 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 
 ### Advisory (4)
 

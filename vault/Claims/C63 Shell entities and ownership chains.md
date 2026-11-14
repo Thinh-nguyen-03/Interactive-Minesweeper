@@ -59,7 +59,7 @@ The core ownership chains are documented. One Florida revocable trust, with Dona
 
 ## Follow-up checks
 
-- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
 
 ## Sub-claims
 

@@ -5,8 +5,8 @@ type: "media"
 aliases:
   - "WSJ"
   - "Wall Street Journal"
-connections: 37
-claims: 21
+connections: 40
+claims: 23
 tags:
   - "entity"
   - "type/media"
@@ -18,8 +18,8 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 21 claims |
-| Connections | 37 |
+| Appears in | 23 claims |
+| Connections | 40 |
 | Also known as | WSJ; Wall Street Journal |
 
 ## How other claims describe it
@@ -53,6 +53,8 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
+- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
 
 ## Relationships
 
@@ -60,7 +62,7 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 
 - [[White House Trump administration]] *denied wrongdoing in response to* [[The Wall Street Journal]] · 2026-02 · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 
-### Media (21)
+### Media (22)
 
 - [[The Wall Street Journal]] *reported Tether stake* [[Cantor Fitzgerald]] · 2024-11-24 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[The Wall Street Journal]] *reported rival bids and Melania's >70% share* [[Melania (2026 film)]] · 2025-01 · [[C44 Melania Trump's Amazon documentary deal|C44]]
@@ -74,6 +76,7 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 - [[The Wall Street Journal]] *revealed secret WLF stake of* [[Aryam Investment 1]] · 2026-02-01 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[The Wall Street Journal]] *revealed stake* [[Aryam Investment 1]] · 2026-02-01 · [[C14 Steve and Zach Witkoff|C14]]
 - [[The Wall Street Journal]] *revealed the secret UAE stake in* [[World Liberty Financial]] · 2026-02-01 · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[The Wall Street Journal]] *reported Thrive investment of* [[Josh Gruenbaum]] · 2026-05 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 - [[The Wall Street Journal]] *reported equity-stake talks involving* [[Unusual Machines]] · 2026-05-28 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[G42]] *reported plan to reincorporate in US (unconfirmed)* [[The Wall Street Journal]] · 2026-07 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[The Wall Street Journal]] *reported Tahnoon backing* [[StringZ Holding RSC (DE) LLC]] · 2026-08-27 · [[C42 How World Liberty insiders took money out|C42]]

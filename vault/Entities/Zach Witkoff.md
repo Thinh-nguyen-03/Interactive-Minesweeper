@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Zachary Witkoff"
-connections: 32
-claims: 20
+connections: 34
+claims: 21
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 20 claims |
-| Connections | 32 |
+| Appears in | 21 claims |
+| Connections | 34 |
 | Also known as | Zachary Witkoff |
 
 ## How other claims describe it
@@ -51,6 +51,7 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
 
 ## Relationships
 
@@ -76,14 +77,16 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 - [[Steve Witkoff]] *father of* [[Zach Witkoff]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Zach Witkoff]] *son of* [[Steve Witkoff]] · [[C14 Steve and Zach Witkoff|C14]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C63 Shell entities and ownership chains|C63]] [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
-### Advisory (3)
+### Advisory (4)
 
 - [[Zach Witkoff]] *board chairman of* [[ALT5 Sigma]] · 2025-08 · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Zach Witkoff]] *President and Chairman* [[World Liberty Trust Company, N.A]] · 2026 · [[C63 Shell entities and ownership chains|C63]]
+- [[Zach Witkoff]] *president and chairman* [[WLTC Holdings LLC]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Zach Witkoff]] *CEO* [[World Liberty Financial]] · [[C42 How World Liberty insiders took money out|C42]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 
-### Political (1)
+### Political (2)
 
+- [[Ro Khanna]] *requested WLF ownership and payment records from* [[Zach Witkoff]] · 2026-02-04 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Ro Khanna]] *sent inquiry letter to* [[Zach Witkoff]] · 2026-02-04 · [[C63 Shell entities and ownership chains|C63]]
 
 ### Media (1)

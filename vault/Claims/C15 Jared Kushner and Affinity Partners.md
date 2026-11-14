@@ -153,7 +153,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 ## People and organisations
 
 - [[Affinity Partners]] · Fund
-- [[Board of Peace]] · Government body
+- [[Board of Peace (Gaza)]] · Government body
 - [[Chad Mizelle]] · Person
 - [[Citizens for Responsibility and Ethics in Washington]] · Company
 - [[Conflict-of-interest laws]] · Law or policy
@@ -210,7 +210,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 
 - [[Jared Kushner]] *negotiates alongside* [[Steve Witkoff]] · 2025 · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *participated in US talks with* [[Iran]] · 2026 · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[Jared Kushner]] *executive board member of* [[Board of Peace]] · 2026-01 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *executive board member of* [[Board of Peace (Gaza)]] · 2026-01 · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Donald Trump]] *named 'envoy of peace' (unofficial, volunteer)* [[Jared Kushner]] · 2026-02-19 · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *travels and negotiates with* [[Steve Witkoff]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *unofficial 'peace envoy' for* [[White House Trump administration]] · [[C15 Jared Kushner and Affinity Partners|C15]]

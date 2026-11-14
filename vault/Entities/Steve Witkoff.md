@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Witkoff"
-connections: 51
-claims: 21
+connections: 53
+claims: 22
 tags:
   - "entity"
   - "type/person"
@@ -19,8 +19,8 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 21 claims |
-| Connections | 51 |
+| Appears in | 22 claims |
+| Connections | 53 |
 | Also known as | Witkoff |
 
 ## How other claims describe it
@@ -54,6 +54,7 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
+- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Relationships
 
@@ -99,9 +100,10 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[Steve Witkoff]] *filed 2025 disclosure with* [[Office of Government Ethics]] · 2026 · [[C42 How World Liberty insiders took money out|C42]]
 - [[Gregory Meeks]] *sought IG/OGE investigation* [[Steve Witkoff]] · 2026-01-08 · [[C53 The Witkoff family's own Gulf money|C53]]
 
-### Advisory (1)
+### Advisory (2)
 
 - [[David Warrington]] *White House counsel defending his ethics compliance* [[Steve Witkoff]] · 2025 · [[C53 The Witkoff family's own Gulf money|C53]]
+- [[Josh Gruenbaum]] *worked for on Gaza, Ukraine, Iran talks* [[Steve Witkoff]] · 2025-2026 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 
 ### Political (23)
 

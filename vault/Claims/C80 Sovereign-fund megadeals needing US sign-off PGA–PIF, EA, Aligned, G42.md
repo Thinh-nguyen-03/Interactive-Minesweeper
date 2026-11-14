@@ -252,7 +252,7 @@ Most links in the brief are documented, but the approvals behind them are often 
 - [[Elizabeth Warren]] · Person
 - [[G42]] · Company
 - [[Global Infrastructure Partners (GIP)]] · Fund
-- [[International Holding Company (IHC)]] · Company
+- [[International Holding Company]] · Company
 - [[Jared Kushner]] · Person
 - [[Jay Monahan]] · Person
 - [[Lawfare]] · Media
@@ -316,7 +316,7 @@ Most links in the brief are documented, but the approvals behind them are often 
 - [[BlackRock]] *owns* [[Global Infrastructure Partners (GIP)]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Chimera Investment LLC]] *majority owner (per C57)* [[Lunate]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[G42]] *owns* [[Core42]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
-- [[International Holding Company (IHC)]] *parent (per Bloomberg)* [[Lunate]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[International Holding Company]] *parent (per Bloomberg)* [[Lunate]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Mubadala]] *investor in* [[G42]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[PGA Tour]] *operates* [[PGA Tour Enterprises]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Scott O'Neil]] *CEO of* [[LIV Golf]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
@@ -335,7 +335,7 @@ Most links in the brief are documented, but the approvals behind them are often 
 - [[BIS UAE Country Group A 5 rule]] *moved from D:3/D:4 to A:5* [[United Arab Emirates]] · 2026-07-10 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[US Department of Commerce]] *issued* [[BIS UAE Country Group A 5 rule]] · 2026-07-10 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[CFIUS]] *reportedly cleared by 30 Jul 2026 (no public terms)* [[Electronic Arts take-private]] · 2026-07-30 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
-- [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 
 ### Political (10)
 

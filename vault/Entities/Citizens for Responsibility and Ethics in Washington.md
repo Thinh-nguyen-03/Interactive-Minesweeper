@@ -5,8 +5,8 @@ type: "company"
 aliases:
   - "CREW"
   - "Citizens for Responsibility and Ethics in Washington (CREW)"
-connections: 18
-claims: 10
+connections: 19
+claims: 11
 tags:
   - "entity"
   - "type/company"
@@ -18,17 +18,17 @@ Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of discl
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 10 claims |
-| Connections | 18 |
+| Appears in | 11 claims |
+| Connections | 19 |
 | Also known as | CREW; Citizens for Responsibility and Ethics in Washington (CREW) |
 
 ## How other claims describe it
 
+- Watchdog that matched the entity formation dates to the disclosure.
 - Watchdog reporting Trump Organization involvement in the library
 - Ethics watchdog nonprofit that reported on Don Jr. board roles.
 - Watchdog; FOIA requests on family-mining communications
 - Watchdog that filed FOIA requests on the mining deal.
-- Watchdog tracking ~24 foreign Trump-branded projects
 
 ## Appears in claims
 
@@ -42,6 +42,7 @@ Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of discl
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
 
 ## Relationships
 

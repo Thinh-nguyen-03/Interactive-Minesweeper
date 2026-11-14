@@ -4,7 +4,7 @@ kind: "entity"
 type: "person"
 aliases:
   - "Eric"
-connections: 81
+connections: 82
 claims: 44
 tags:
   - "entity"
@@ -20,7 +20,7 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 |---|---|
 | Type | Person |
 | Appears in | 44 claims |
-| Connections | 81 |
+| Connections | 82 |
 | Also known as | Eric |
 
 ## How other claims describe it
@@ -76,7 +76,7 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
-- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
+- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
 
 ## Relationships
 
@@ -168,10 +168,12 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Forbes]] *estimates 10x richer* [[Eric Trump]] · [[C29 Trump family wealth gains|C29]]
 - [[Maria Bartiromo]] *interviewed* [[Eric Trump]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 
-### Commercial (16)
+### Commercial (18)
 
+- [[Eric Trump]] *announced planned Abu Dhabi tower and golf community with* [[Dar Global]] · 2024-12 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Eric Trump]] *reportedly signed 49% stake deal with* [[Aryam Investment 1]] · 2025-01 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Eric Trump]] *signed stake sale with* [[Aryam Investment 1]] · 2025-01 · [[C14 Steve and Zach Witkoff|C14]]
+- [[Eric Trump]] *signed 49% WLF sale agreement with* [[Aryam Investment 1]] · 2025-01-16 · $500M · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Eric Trump]] *signed WLF stake sale to* [[Aryam Investment 1]] · 2025-01-16 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Eric Trump]] *signed deal with* [[Aryam Investment 1]] · 2025-01-16 · [[C63 Shell entities and ownership chains|C63]]
 - [[Eric Trump]] *signed stake deal with (per WSJ)* [[Aryam Investment 1]] · 2025-01-16 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]

@@ -2,27 +2,36 @@
 id: "gerald-connolly"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/person"
 ---
 # Gerald Connolly
 
-Late Rep. (D-VA); opened 2025 probe into GSA-Ramp dealings
+House Oversight ranking member; opened Ramp probe 2025-05-09; died 2025-05-21.
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 2 claims |
+| Connections | 3 |
+
+## How other claims describe it
+
+- Late Rep. (D-VA); opened 2025 probe into GSA-Ramp dealings
 
 ## Appears in claims
 
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Relationships
+
+### Political (1)
+
+- [[Gerald Connolly]] *opened probe of Ramp courtship* [[General Services Administration]] · 2025-05-09 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 
 ### Legal (1)
 

@@ -37,7 +37,7 @@ Founder of Kushner Companies; pardoned 2020; US ambassador to France from 2025
 
 - [[Charles Kushner]] *father* [[Jared Kushner]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Charles Kushner]] *father of* [[Jared Kushner]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[Charles Kushner]] *father of* [[Joshua Kushner]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Charles Kushner]] *father of* [[Josh Kushner]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 
 ### Political (3)
 

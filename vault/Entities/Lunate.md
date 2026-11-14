@@ -48,5 +48,5 @@ Abu Dhabi alternative asset manager majority-owned by Tahnoon-overseen Chimera; 
 - [[Chimera Investment LLC]] *majority owner of* [[Lunate]] · 2023-09 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Lunate]] *took over management of* [[42XFund]] · 2024-07-08 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Chimera Investment LLC]] *majority owner (per C57)* [[Lunate]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
-- [[International Holding Company (IHC)]] *parent (per Bloomberg)* [[Lunate]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[International Holding Company]] *parent (per Bloomberg)* [[Lunate]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[United Arab Emirates]] *home jurisdiction of* [[Lunate]] · [[C15 Jared Kushner and Affinity Partners|C15]]

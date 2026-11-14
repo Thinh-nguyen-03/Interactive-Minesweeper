@@ -5,8 +5,8 @@ type: "government"
 aliases:
   - "Congress"
   - "U.S. Congress"
-connections: 59
-claims: 37
+connections: 60
+claims: 38
 tags:
   - "entity"
   - "type/government"
@@ -20,8 +20,8 @@ Passed crypto legislation; questioned Selig.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 37 claims |
-| Connections | 59 |
+| Appears in | 38 claims |
+| Connections | 60 |
 | Also known as | Congress; U.S. Congress |
 
 ## How other claims describe it
@@ -71,6 +71,7 @@ Passed crypto legislation; questioned Selig.
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Relationships
 
