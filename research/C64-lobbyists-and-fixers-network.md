@@ -27,7 +27,7 @@ Several named players have no documented link to a client in this project: Mercu
 - **The disclosure:** Patel's financial disclosure, made public on Feb 1, 2025 after his hearing, listed the Qatari embassy as a client of his firm Trishul LLC. Trishul earned about $2.1M, but Qatar's share is reported only as a range of more than $5,000.
 - **No registration:** He did not register under FARA.
 - **Ethics waiver:** A later disclosure shows an ethics waiver, dated Mar 4, for a "particular matter related to Qatar".
-- **The security deals:** In Dec 2025, as FBI director, he signed bilateral security agreements with Qatar (Jewish Insider). He said he would recuse himself from related work for one year and keep Trishul dormant.
+- **The security deals:** In Dec 2025, as FBI director, he signed bilateral security agreements with Qatar (Jewish Insider). **Audit correction:** his one-year Qatar recusal was a Nov 2024 pledge. Per Jewish Insider, it had expired the month before he signed two security MOUs in Doha in Dec 2025, and the FBI announced neither the trip nor the agreements. The March 2025 waiver had already let him engage on Qatar matters (C73).
 - **What is not known:** What the Qatar work involved remains undisclosed.
 
 ### 3. Susie Wiles: Ballard, then Mercury. Evidence: employment documented; any Qatar work single-source. Verdict: partly-accurate
@@ -111,7 +111,7 @@ What remains unsourced:
 - **Kash Patel:** I found no record of foreign clients for Patel beyond Qatar (item 2) in this search.
 
 ### 11. Brad Bondi: the Attorney General's brother as defense counsel. Evidence: documented (C36). Verdict: confirmed
-- **The role:** Brad Bondi was Trevor Milton's SEC lawyer.
+- **The role:** Brad Bondi was lead counsel in Milton's 2021-22 criminal defence while at Cahill Gordon (Business Wire, Law.com). C36 also calls him Milton's SEC lawyer; the audit did not re-check that. He joined Paul Hastings in Nov 2024. Pam Bondi left as AG on Apr 2, 2026.
 - **The outcome:** Milton, a $1.8M donor, was pardoned on Mar 28, 2025. The SEC dropped his case in Sep 2025 (C36, C49).
 - **What this does not show:** It shows a family tie inside the pardon and enforcement chain. It does not show that Pam Bondi intervened.
 
@@ -149,7 +149,7 @@ These links come from our own cross-referencing. No source asserts them.
 
 ## Denials and context
 - **Ballard:** The firm declined to comment to Sludge and did not respond to the Washington Examiner. Ballard, Miller and Priebus declined to comment to CBS on the ballroom.
-- **Patel:** He says Trishul is dormant and that he recused himself from Qatar matters for one year.
+- **Patel:** He says Trishul is dormant. His one-year Qatar recusal pledge (Nov 2024) had lapsed by the Dec 2025 signing.
 - **WLF:** Bin Saqib was unpaid and stepped away from the adviser role on entering government.
 - **White House:** It says there are no conflicts of interest.
 - **McDowell:** He says Trump Jr. did not help Binance.
@@ -216,3 +216,16 @@ These links come from our own cross-referencing. No source asserts them.
 - **TRON DAO:** It moved its lobbying in-house after paying Kelley Drye about $280K (Legis1, single source). https://legis1.com/news/tron-dao-federal-lobbying
 - **Lewandowski:** The question is whether this DHS special government employee kept private clients with business before DHS. https://www.axios.com/2025/09/05/corey-lewandowksi-trump-aide-probe-expands
 - **Pakistan's minerals push:** Seiden Law's minerals focus and the US-Pakistan rare-earths deal. https://sundayguardianlive.com/world/in-trumps-washington-pak-quietly-erects-its-largest-ever-influence-network-133161/
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged).
+
+- **Patel.** Corrected. The one-year recusal was pledged in Nov 2024 and had expired before the Dec 2025 Doha agreements; a March 2025 waiver had already allowed Qatar work. Public Citizen asked OGE to rescind the waiver. This is reconciled with C73.
+- **Bondi.** She is described as AG until Apr 2, 2026. Todd Blanche was acting AG, then confirmed on Aug 8, 2026.
+- **Brad Bondi.** His documented role is lead criminal defence counsel for Milton. The SEC-counsel description comes from C36 and was not re-checked.
+- **Pakistan.** Upheld. Seiden Law signed on Apr 8, 2025 at $200K/month (some outlets say $125K). Javelin's FARA registration (Apr 25, 2025) lists Sorial, Schiller and Robert Seiden as co-owners.
+- **Kalshi.** Upheld: $240K to Miller Strategies in H1 2026 (OpenSecrets via Stateline).
+- **Ballard and Saudi Arabia.** Upheld: $60K/month from Mar 31, 2025. Ballard's Mar 2026 FARA supplemental still lists the Saudi embassy.
+
+New sources: Jewish Insider 2025-12; Public Citizen OGE complaint; FARA 7579 registration; Nukta; Stateline/Indiana Capital Chronicle 2026-10-05; Sludge 2026-02-05; FARA 7070 supplemental 2026-03-02; AP/National Newswatch 2026-04-02. URLs are in the JSON `audit.new_sources`.

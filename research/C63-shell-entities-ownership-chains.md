@@ -184,3 +184,14 @@ A shared formation agent, a naming template or a common parent shows structure, 
 47. BNN Bloomberg, Aureus/Powerus (2026-03-09): https://www.bnnbloomberg.ca/business/company-news/2026/03/09/trump-brothers-backed-aureus-to-merge-with-drone-maker-powerus/
 48. Reuters via AOL, Albania approves resort (2024-12-30): https://www.aol.com/news/albania-approves-luxury-resort-project-132236248.html
 49. Bloomberg, Tether loan to Lutnick's children (2026-03-18): https://www.bloomberg.com/news/features/2026-03-18/tether-made-loan-to-lutnick-s-children-as-they-bought-his-assets
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **upheld**.
+
+- **Trust.** The 13D language is confirmed: Donald Trump Jr. is sole trustee, with sole voting and investment power over 114.75M DJT shares; Trump is settlor and sole current beneficiary.
+- **StringZ.** The 49% of WLTC Holdings is confirmed as WSJ reporting from people familiar with the matter (Aug 27, 2026), relayed by The Block and Cointelegraph. The OCC decision names StringZ but gives no owner or percentage. It remains single-source, as labelled.
+- **Wyoming agent.** Confirmed by Cowboy State Daily and CNN. Context added that cuts against common ownership: the agent's firm has formed more than 5,000 LLCs, and Mark Pierce told CNN he did not know two clients were Trump-connected. The watch LLC was created July 29, 2024.
+- **Khanna letter.** The Feb 4, 2026 letter to US Attorney Wallace is confirmed (Select Committee PDF). No action by the US Attorney's office was found.
+
+New sources: SEC 13D/A; The Block 2026-08-27; Cowboy State Daily 2024-04-01; CNN 2024-10-17; Select Committee letter 2026-02-04. URLs are in the JSON `audit.new_sources`.

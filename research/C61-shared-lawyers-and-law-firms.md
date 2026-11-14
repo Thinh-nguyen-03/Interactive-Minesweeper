@@ -22,7 +22,7 @@ This was a connection hunt for lawyers and firms that recur across the deals. Th
 ### 1. Goody Guillén: one lawyer for WLF and for Binance/CZ. Grade: documented
 - **WLF letter (May 29, 2025).** Teresa Goody Guillén and Jonathan R. Barr of BakerHostetler wrote "on behalf of World Liberty Financial, Inc." to Sens. Warren and Merkley. They were answering the senators' May 14 questions about MGX's $2B Binance investment being settled in USD1 [1].
 - **Binance/CZ lobbying.** Binance and Zhao had already registered her as a lobbyist, in late March 2025 per Bloomberg Law [3]. They paid her about $290K in 2025 (C36, C49).
-- **CZ letter (Nov 2, 2025).** She answered Warren on Zhao's behalf [2]. This came after the Oct 23 pardon.
+- **CZ letter (Oct 28, 2025).** She wrote to Warren on Zhao's behalf demanding a retraction of Warren's post-pardon remarks (The Block). This came after the Oct 23 pardon. The Nov 2, 2025 document [2] is reported to be the reply from Warren's counsel, not her letter (audit correction).
 - **Earlier ties.** The Trump transition considered her for SEC chair (CoinDesk, Nov 2024). She was an SEC Office of General Counsel attorney from 2009 to 2011 [7].
 - **Justin Sun.** Molly White reported in Sept 2025 that Sun hired her for his suit against Bloomberg [6]. This is single-source.
 - **What it shows:** the same lawyer spoke to Congress for both sides of the MGX/Binance/USD1 arrangement, and then pursued CZ's pardon.
@@ -31,7 +31,7 @@ This was a connection hunt for lawyers and firms that recur across the deals. Th
 ### 2. Paul Hastings: three tracks at one firm. Grade: each tie documented; the pattern is inferred
 - **SPAC counsel.** Paul Hastings was issuer's counsel on the S-1 for New America Acquisition I, the Trump sons' SPAC (Aug 4, 2025). It was again issuer's counsel on the $345M IPO (Dec 5, 2025) [8][9]. The firm called the "public policy tailwinds" line a scrivener's error (C27).
 - **Martin Edelman** is Of Counsel there [10]. He is also G42's general counsel and an adviser to Abu Dhabi's rulers. He took one of Aryam's two WLF board seats after the $500M deal for 49% in Jan 2025 [11][13] (C06, C57).
-- **Brad Bondi**, the then-AG's brother, co-chairs the firm's white-collar practice [16].
+- **Brad Bondi**, the then-AG's brother, co-chairs the firm's white-collar practice [16]. He joined Paul Hastings from Cahill Gordon in Nov 2024 (Lawdragon), so his Milton defence (2021-22) was a Cahill engagement.
 - No source links these engagements. The firm has well over a thousand lawyers.
 
 ### 3. Brad Bondi's clients and his sister's DOJ. Grade: facts documented; influence alleged and denied
@@ -103,7 +103,7 @@ These are our own cross-references. No source asserts them.
 ## Corrections
 - The SPAC counsel role and Edelman are unrelated engagements at Paul Hastings.
 - The CBS/Paramount $16M case was handled by Edward Paltzik, not Brito.
-- Bondi is no longer AG; Blanche succeeded her in 2026.
+- Bondi is no longer AG. Trump announced her departure on Apr 2, 2026; Todd Blanche was acting AG from then and was confirmed by the Senate 50-49 on Aug 8, 2026.
 - Qatar paid Ballard, not Bondi personally, $115K a month.
 - Mizelle's Kushner roles came before and after his DOJ stint, not during it.
 
@@ -165,3 +165,18 @@ These are our own cross-references. No source asserts them.
 47. Florida Bulldog, Affinity's ex-officials, 2024-07. https://floridabulldog.org/2024/07/all-the-ex-presidents-men-at-jared-kushners-affinity-partners
 48. Axios, Mizelle to leave DOJ, 2025-09-23. https://www.axios.com/2025/09/23/chad-mizelle-to-leave-as-doj-chief-of-staff
 49. Bloomberg Law, CREW sues over Kushner, 2026-10. https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged).
+
+Re-checked: Goody Guillen's WLF letter and Binance/CZ lobbying registration; Paul Hastings on the NAA I filing; Martin Edelman's G42, Paul Hastings and WLF board roles; Brad Bondi's firm history; the Qatar-jet memo; the current Attorney General; Mizelle as Kushner's counsel.
+
+- **Goody Guillen.** Her letter for Zhao was dated Oct 28, 2025 (The Block). The Nov 2 document is reported as Warren's counsel's reply. Legis1 says, from a single source, that she left the Binance engagement in July 2025 for Bellementis. Later coverage contradicts this, and it remains unresolved. The dual WLF and Binance/CZ representation is upheld (LDA filing, Bloomberg Law, Senate Banking document).
+- **Attorney General.** Pam Bondi left on Apr 2, 2026. Todd Blanche was acting AG, then confirmed 50-49 on Aug 8, 2026, with Collins and Murkowski voting no (AP, Axios, NOTUS).
+- **Brad Bondi.** He joined Paul Hastings in Nov 2024. He represented Milton while at Cahill Gordon (Business Wire, 2021).
+- **Paul Hastings and NAA I.** Law360 says the filing had "guidance from Paul Hastings LLP and Holland & Knight LLP".
+- **Jet memo.** Per anonymous ABC sources, it was addressed to White House counsel David Warrington's office at his request (single-source on this point). That links item 8 to the Dhillon item.
+- **Mizelle.** Upheld: Kushner's counsel in CREW's Oct 14, 2026 suit (D.D.C. 26-cv-3580).
+
+New sources: AP/National Newswatch 2026-04-02; Axios 2026-08-08; NOTUS 2026-08-08; The Block (CZ retraction letter); Lawdragon 2024-11-13; Business Wire 2021-07-29; Law360 2025-08-04; Senate Banking minority staff report; Yahoo/CNN (jet memo); AP/ClickOnDetroit 2026-10-14. URLs are in the JSON `audit.new_sources`.

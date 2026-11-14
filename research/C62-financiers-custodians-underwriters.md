@@ -42,7 +42,7 @@ Research limits: direct fetches of globenewswire.com, theblock.co and finance.ya
 
 6. **Yorkville's own SEC history.** *Documented.* The SEC sued Yorkville, Mark Angelo and its CFO in 2012 over inflated valuations (at least $10M in excess fees). The remaining claims were dismissed with prejudice in Oct 2018, during Trump's first term, after a partial summary-judgment loss for the SEC. I found no penalty. No source ties the outcome to Trump.
 
-7. **Kevin McGurn sits in both the Yorkville and Dominari webs.** *Core roles documented; fee and sponsor details single-source.* He has been Yorkville Acquisition CEO and director since Mar 31, 2025 (424B4). He is chairman, CEO and CFO of the Trump sons' New America Acquisition I, which Dominari and D. Boral underwrote (C27), and is listed as a 10% owner and reported sole member of its sponsor. He has been a TMTG adviser since Dec 2024 and became interim CEO in Apr 2026. $15K-a-month advisory fees from his SPACs are single-source. So is a further McGurn SPAC, Texas Ventures Acquisition III, with Trump Org and TMTG executives as directors (newstracs). One headline reports Dominari's Kyle Wool later became chairman of NAA I (single-source). No source describes a coordinated purpose.
+7. **Kevin McGurn sits in both the Yorkville and Dominari webs.** *Core roles documented; fee and sponsor details single-source.* He has been Yorkville Acquisition CEO and director since Mar 31, 2025 (424B4). He was chairman, CEO and CFO (later CEO) of the Trump sons' New America Acquisition I until Aug 5, 2026, which Dominari and D. Boral underwrote (C27), and is listed as a 10% owner and reported sole member of its sponsor. He has been a TMTG adviser since Dec 2024 and became interim CEO in Apr 2026. $15K-a-month advisory fees from his SPACs are single-source. So is a further McGurn SPAC, Texas Ventures Acquisition III, with Trump Org and TMTG executives as directors (newstracs). **Audit update (documented, 8-Ks; see C78):** Dominari's Kyle Wool became NAA I chairman on Feb 6, 2026. McGurn resigned as CEO and director effective Aug 5, 2026, and Wool became CEO. The dual role therefore ran from Dec 2025 to Aug 5, 2026. No source describes a coordinated purpose.
 
 8. **Dominari as the sons' house underwriter.** *Documented (C39, C47; WSJ).* It underwrote about $220M for American Bitcoin, co-led NAA I and placed the Tron Inc. deal. It faces no SEC or FINRA action. Absence of enforcement is a fact, not evidence of forbearance.
 
@@ -114,3 +114,13 @@ Research limits: direct fetches of globenewswire.com, theblock.co and finance.ya
 24. The Block, Tuttle TRUMP/MELANIA ETFs, 2025-01, https://mta-sts.theblock.co/post/337280/tuttle-capital-10-leveraged-crypto-etfs-trump-melania-memecoins
 25. Sludge, Cantor holdings, 2025-08-18, https://readsludge.com/2025/08/18/lutnick-family-firm-invests-in-bitcoin-and-stocks-boosted-by-trump-wh-policies/ ; The Block (WSJ), Cantor–Tether, 2024-11, https://www.theblock.co/post/327961/lutnick-cantor-fitzgerald-negotiated-a-5-ownership-stake-in-tether-wsj
 26. Hut 8 / American Bitcoin release, 2025-03-31, https://www.fintechfutures.com/press-releases/hut-8-and-eric-trump-launch-american-bitcoin-to-set-a-new-standard-in-bitcoin-mining
+
+## Audit (second-opinion pass, Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged).
+
+- **McGurn and NAA I.** McGurn resigned from New America Acquisition I effective Aug 5, 2026. Kyle Wool (chairman since Feb 6, 2026, per an 8-K, so documented rather than single-source) is now CEO. The summary, the McGurn item, the entities and the relationships are updated, consistent with C78.
+- **Anchorage.** The OCC's termination order was signed Aug 18, 2025 and announced Aug 21 (PYMNTS, American Banker).
+- **Upheld.** Cantor Fitzgerald as financial adviser on TMTG's $2.44B raise (closing release; Nelson Mullins was company counsel and Reed Smith was agents' counsel). The Yorkville/Clear Street/BTIG/Cohen syndicate and the Crypto.com/Anchorage custody. BitGo's Dec 12, 2025 conditional approval in a batch of five (Axios).
+
+New sources: NWAX 8-K (SEC EDGAR); NWAX leadership-transition release (Finviz); StreetInsider/GlobeNewswire 2025-05-30; American Banker 2025-08-21; PYMNTS; Axios 2025-12-12. URLs are in the JSON `audit.new_sources`.
