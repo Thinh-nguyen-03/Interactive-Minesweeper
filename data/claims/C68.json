@@ -8,7 +8,7 @@
     {
       "statement": "Ellison family / Paramount: a $16M settlement with Trump was followed by FCC approval of Skydance-Paramount, then by a Trump-commented contest for Warner Bros. Discovery that the Ellisons won.",
       "verdict": "confirmed",
-      "finding": "DOCUMENTED (multiple outlets, SEC filings). Paramount settled Trump's '60 Minutes' suit for $16M on 2025-07-01/02; the FCC approved the ~$8B Skydance deal 2-1 on 2025-07-24 (C33). David Ellison then bid for WBD. In early-mid December 2025, after Netflix signed for WBD's studios/streaming, Trump said the Netflix deal 'could be a problem' on market share, that he might be 'involved' in the decision, and that CNN should be sold; reports said David Ellison had visited Trump and promised 'significant changes' at CNN (WSJ, relayed by NBC). On 2025-12-22 Larry Ellison gave an 'irrevocable personal guarantee' of $40.4B of the bid's equity. WBD dropped Netflix on 2026-02-27 (Paramount paid Netflix's $2.8B break fee); shareholders approved $31/share (~$81B equity, ~$110-111B with debt) in April 2026; the Trump DOJ cleared it in the summer; it closed on about 2026-09-29 (AP 'Tuesday', our date inference). The Ellisons now control CBS (Bari Weiss as editor-in-chief) and CNN. What this does not show: no source documents a quid pro quo. Trump said none of the bidders were 'particularly great friends'; Paramount denies any link between the settlement and approvals.",
+      "finding": "DOCUMENTED (multiple outlets, SEC filings). Paramount settled Trump's '60 Minutes' suit for $16M on 2025-07-01/02; the FCC approved the ~$8B Skydance deal 2-1 on 2025-07-24 (C33). David Ellison then bid for WBD. In early-mid December 2025, after Netflix signed for WBD's studios/streaming, Trump said the Netflix deal 'could be a problem' on market share, that he might be 'involved' in the decision, and that CNN should be sold; reports said David Ellison had visited Trump and promised 'significant changes' at CNN (WSJ, relayed by NBC). On 2025-12-22 Larry Ellison gave an 'irrevocable personal guarantee' of $40.4B of the bid's equity. WBD dropped Netflix on 2026-02-27 (Paramount paid Netflix's $2.8B break fee); shareholders approved $31/share (~$81B equity, ~$110-111B with debt) in April 2026; the Trump DOJ cleared it in the summer; it closed on Tuesday 2026-10-06, after settlements with a coalition of states and a writers' union (AP via KSAT, dated 2026-10-06; corrected in audit from an inferred ~2026-09-29). The Ellisons now control CBS (Bari Weiss as editor-in-chief) and CNN. What this does not show: no source documents a quid pro quo. Trump said none of the bidders were 'particularly great friends'; Paramount denies any link between the settlement and approvals.",
       "sources": [
         "https://www.cbsnews.com/amp/news/paramount-trump-60-minutes-lawsuit-settlement",
         "https://au.variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-25630",
@@ -19,7 +19,8 @@
         "https://finance.yahoo.com/news/warner-bros-investors-approve-110-billion-sale-to-paramount-skydance-following-long-battle-with-netflix-150428059.html",
         "https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060",
         "https://www.nbcwashington.com/news/business/paramount-completes-warner-bros-merger-to-form-skydance/",
-        "https://www.bworldonline.com/bloomberg/2026/03/03/733619/david-ellison-is-shaking-up-cbs-news-cnn-looks-to-be-next/"
+        "https://www.bworldonline.com/bloomberg/2026/03/03/733619/david-ellison-is-shaking-up-cbs-news-cnn-looks-to-be-next/",
+        "https://www.ksat.com/news/politics/2026/10/06/paramount-closes-on-81-billion-takeover-of-warner-bros-discovery-joining-two-of-americas-oldest-hollywood-studios/"
       ]
     },
     {
@@ -128,7 +129,7 @@
     {
       "statement": "Nvidia/Jensen Huang gave $25M to the ballroom anonymously while winning export decisions from the President, whose portfolio bought Nvidia stock.",
       "verdict": "confirmed",
-      "finding": "DOCUMENTED. The Washington Post's leaked spreadsheet (2026-10-15) shows Nvidia committed $25M, the joint-top gift with Apple, and asked for anonymity; it was not on the White House's October 2025 list of 37 donors. Nvidia says the gift went to a nonpartisan trust. Policy: a 15% revenue-share arrangement for China sales was floated in summer 2025. On 2025-12-08 Trump allowed H200 sales to approved Chinese customers with 25% to the US government. Commerce licensed UAE/Saudi shipments in October and November 2025 (C34, C56). Axios (2026-11-11) reports Lutnick stalled curbs on chip diversion to China (C50). Trump's Q1 2026 OGE 278-T shows Nvidia purchases, including $1M-$5M on 2026-02-10 (Capitol Trades). No source shows the ballroom gift bought any decision, and the White House says the trades are run by third-party managers and comply with the STOCK Act.",
+      "finding": "DOCUMENTED. The Washington Post's leaked spreadsheet (2026-10-15) shows Nvidia committed $25M, the joint-top gift with Apple, and asked for anonymity; it was not on the White House's October 2025 list of 37 donors. Nvidia says the gift went to a nonpartisan trust. Policy: a 15% revenue-share arrangement for China sales was floated in summer 2025. On 2025-12-08 Trump allowed H200 sales to approved Chinese customers with 25% to the US government. Commerce licensed UAE/Saudi shipments in October and November 2025 (C34, C56). Axios (2026-11-11) reports Lutnick stalled curbs on chip diversion to China (C50). Trump's Q1 2026 OGE 278-T shows Nvidia purchases, including $1M-$5M on 2026-02-10 (Capitol Trades). No source shows the ballroom gift bought any decision, and the White House says the trades are run by third-party managers and comply with the STOCK Act. Audit note: Reuters, relaying the Post, said it had not independently verified the spreadsheet, and the Post reported the Nvidia gift was made in October 2025, after the China chip-sales arrangement; the leaked list excludes in-kind gifts.",
       "sources": [
         "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
         "https://www.implicator.ai/nvidia-and-apple-each-committed-25-million-to-trumps-ballroom-leaked-list-shows/",
@@ -137,7 +138,8 @@
         "https://techcrunch.com/2025/12/08/department-of-commerce-may-approve-nvidia-h200-chip-exports-to-china",
         "https://www.thenationalnews.com/future/technology/2025/11/20/uae-ai-nvidia-chips-us/",
         "https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
-        "https://www.capitoltrades.com/articles/3700-trades-half-a-billion-dollars-inside-trump-s-q1-stock-spree-2026-05-18"
+        "https://www.capitoltrades.com/articles/3700-trades-half-a-billion-dollars-inside-trump-s-q1-stock-spree-2026-05-18",
+        "https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/"
       ]
     },
     {
@@ -180,7 +182,8 @@
     "xAI's Pentagon award is a contract ceiling of up to $200M shared in form with Google, OpenAI and Anthropic, not a $200M payment. Palantir's $10B Army deal is also a ceiling.",
     "The Meta FTC outcome was a court ruling (Boasberg, 2025-11-18), not an administration decision. Meta's attempt to settle with the administration reportedly failed.",
     "'Ballroom?' for Nvidia: confirmed. $25M, anonymous, per the Washington Post's leaked spreadsheet (2026-10-15).",
-    "Brockman's $25M MAGA Inc gift is filed as $12.5M each from Greg and Anna Brockman."
+    "Brockman's $25M MAGA Inc gift is filed as $12.5M each from Greg and Anna Brockman.",
+    "Paramount-WBD closing date: the deal closed on Tuesday 2026-10-06 (AP), not about 2026-09-29 as first inferred."
   ],
   "denials_and_context": [
     "Paramount says the settlement was unrelated to merger reviews. Trump said none of the WBD bidders were 'particularly great friends'.",
@@ -256,7 +259,7 @@
       "title": "Paramount completes its takeover of Warner Bros (AP)",
       "publisher": "ABC News",
       "url": "https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060",
-      "date": "2026-09-29"
+      "date": "2026-10-06"
     },
     {
       "title": "Paramount completes Warner Bros merger to form Skydance",
@@ -611,6 +614,42 @@
       "publisher": "TechCrunch",
       "url": "https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/",
       "date": "2025-12-01"
+    },
+    {
+      "title": "Paramount closes on $81 billion takeover of Warner Bros. Discovery (AP)",
+      "publisher": "KSAT",
+      "url": "https://www.ksat.com/news/politics/2026/10/06/paramount-closes-on-81-billion-takeover-of-warner-bros-discovery-joining-two-of-americas-oldest-hollywood-studios/",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Nvidia, Apple each gave US$25m for Trump's ballroom (Reuters, citing WaPo)",
+      "publisher": "Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Nvidia, Microsoft and the White House ballroom",
+      "publisher": "Aftermath",
+      "url": "https://aftermath.site/nvidia-microsoft-white-house-ballroom/",
+      "date": "2026-10"
+    },
+    {
+      "title": "SpaceX set to begin trading after raising $75 billion in record IPO",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "MAGA figures cash in big on Elon Musk's space venture",
+      "publisher": "The Daily Beast",
+      "url": "https://www2.thedailybeast.com/maga-figures-cash-in-big-on-elon-musks-space-venture",
+      "date": "2026-06"
+    },
+    {
+      "title": "Trump-aligned MAGA Inc super PAC enters 2026 with $300 million stockpile (Reuters)",
+      "publisher": "Spokesman-Review",
+      "url": "https://www.spokesman.com/stories/2026/jan/02/trump-aligned-maga-inc-super-pac-enters-2026-with-",
+      "date": "2026-01-02"
     }
   ],
   "entities": [
@@ -744,7 +783,7 @@
       "id": "warner-bros-discovery",
       "name": "Warner Bros. Discovery",
       "type": "company",
-      "description": "Acquired by Paramount Skydance (closed ~2026-09-29); owns CNN"
+      "description": "Acquired by Paramount Skydance (closed 2026-10-06); owns CNN"
     },
     {
       "id": "netflix",
@@ -1057,7 +1096,7 @@
       "target": "warner-bros-discovery",
       "label": "acquired (~$81B equity)",
       "type": "ownership",
-      "date": "2026-09-29",
+      "date": "2026-10-06",
       "amount_usd": 81000000000
     },
     {
@@ -1487,5 +1526,59 @@
       ],
       "source_url": "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Nvidia's $25M anonymous ballroom pledge (WaPo leaked spreadsheet, Oct 2026) and Nvidia's response",
+      "Paramount/WBD timeline, especially the closing date",
+      "SpaceX IPO figures ($135/share, ~$75B, 2026-06-11 pricing, 2026-06-12 Nasdaq listing, ~$1.77T) and 1789 Capital's reported xAI/SpaceX stakes",
+      "Greg and Anna Brockman's $25M to MAGA Inc. (received 2025-09-12)",
+      "Labelling of inferred links (Silver Lake hub, Ellison-X settlement, TikTok-Meta ruling, 1789 IPO gain) in findings, summary and relationship labels"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Corrected the Paramount-WBD closing date from an inferred ~2026-09-29 to Tuesday 2026-10-06 (AP via KSAT), in the sub-claim finding, the ABC/AP source date, the acquisition relationship date, the WBD entity description and the report timeline; added a correction line.",
+      "Added to the Nvidia finding that Reuters did not independently verify the leaked spreadsheet, that the Post dates Nvidia's gift to October 2025 after the China chip arrangement, and that in-kind gifts are excluded.",
+      "Upheld: SpaceX IPO figures match multiple outlets (some report $1.7T-$2.1T post-debut valuations; $1.77T at pricing is the common figure); 1789's >$50M across xAI/SpaceX is still reported only via Bloomberg/Reuters relays and no source quantifies an IPO gain, so that remains INFERRED as labelled; Brockman's $25M is FEC-based (FEC lists $12.5M from each spouse).",
+      "Inferred links are labelled INFERRED in findings and summary; relationship edges only record the documented endpoints, so no label changes were needed."
+    ],
+    "new_sources": [
+      {
+        "title": "Paramount closes on $81 billion takeover of Warner Bros. Discovery (AP)",
+        "publisher": "KSAT",
+        "url": "https://www.ksat.com/news/politics/2026/10/06/paramount-closes-on-81-billion-takeover-of-warner-bros-discovery-joining-two-of-americas-oldest-hollywood-studios/",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Nvidia, Apple each gave US$25m for Trump's ballroom (Reuters, citing WaPo)",
+        "publisher": "Canberra Times",
+        "url": "https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Nvidia, Microsoft and the White House ballroom",
+        "publisher": "Aftermath",
+        "url": "https://aftermath.site/nvidia-microsoft-white-house-ballroom/",
+        "date": "2026-10"
+      },
+      {
+        "title": "SpaceX set to begin trading after raising $75 billion in record IPO",
+        "publisher": "CBS News",
+        "url": "https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "MAGA figures cash in big on Elon Musk's space venture",
+        "publisher": "The Daily Beast",
+        "url": "https://www2.thedailybeast.com/maga-figures-cash-in-big-on-elon-musks-space-venture",
+        "date": "2026-06"
+      },
+      {
+        "title": "Trump-aligned MAGA Inc super PAC enters 2026 with $300 million stockpile (Reuters)",
+        "publisher": "Spokesman-Review",
+        "url": "https://www.spokesman.com/stories/2026/jan/02/trump-aligned-maga-inc-super-pac-enters-2026-with-",
+        "date": "2026-01-02"
+      }
+    ]
+  }
 }

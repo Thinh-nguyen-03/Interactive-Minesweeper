@@ -21,18 +21,19 @@
     {
       "statement": "Seiden Law's Pakistan mandate was explicitly about minerals, and it was passed to Trump's former bodyguard's firm.",
       "verdict": "confirmed",
-      "finding": "Evidence: documented (Global Witness analysis of FARA filings; Nukta; Dawn). Global Witness reports that the Seiden contract, $200K/month, was to 'promote the exploration and sale of' rare earths and other critical minerals for Pakistan, and that Seiden outsourced it to Javelin. It names Robert Seiden and George Sorial as Trump-circle figures representing Pakistan. Javelin's share was $50K/month (Politico, Dawn). An unofficial FARA-compilation site says Javelin's engagement ended on 2025-10-08 after four payments totalling $200K. Treat that termination detail as single-source. No 2026 renewal of either contract was found.",
+      "finding": "Evidence: documented (Global Witness analysis of FARA filings; Nukta; Dawn). Global Witness reports that the Seiden contract, $200K/month, was to 'promote the exploration and sale of' rare earths and other critical minerals for Pakistan, and that Seiden outsourced it to Javelin. It names Robert Seiden and George Sorial as Trump-circle figures representing Pakistan. Javelin's share was $50K/month (Politico, Dawn). An unofficial FARA-compilation site says Javelin's engagement ended on 2025-10-08 after four payments totalling $200K. Treat that termination detail as single-source. No 2026 renewal of either contract was found. Audit note: the monthly figure varies by source. Nukta and Global Witness give $200K/month for six months; CAPSS (an Indian think tank) lists $125K/month. The FARA PDFs could not be fetched here to settle it.",
       "sources": [
         "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid",
         "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us",
         "https://www.dawn.com/news/1907874",
-        "https://ithildin.pages.dev/dossiers/javelin-advisors-llc"
+        "https://ithildin.pages.dev/dossiers/javelin-advisors-llc",
+        "https://capssindia.org/wp-content/uploads/2026/01/CAPSS_InFocus_MS_20_01_26.pdf"
       ]
     },
     {
       "statement": "Javelin's filings put Trump's former White House physician, Rep. Ronny Jackson, in the minerals channel during the India-Pakistan conflict.",
       "verdict": "mostly-accurate",
-      "finding": "Evidence: single-source. The Economic Times reported this from FARA filings by Javelin Advisors and Conscience Point Consulting (another Seiden subcontractor), and Business Today and others relayed it. The underlying filings could not be fetched here. Reported details: an in-person meeting between Jackson and Pakistani officials on 2025-05-01 on the rare-earths deal; a 2025-05-28 call followed by an email with a draft MoU, which Javelin's filing describes as 'Delivery of Proposed MoU'; and Javelin contacting Jackson's office during the 7-10 May conflict (ThePrint). Jackson (R-TX) was Trump's White House physician. No comment from Jackson was found. An unofficial site claims a $4,000 contribution to Jackson on 2025-10-28 tied to Javelin. That is unverified against FEC records and is not relied on.",
+      "finding": "Evidence: single-source. The Economic Times reported this from FARA filings by Javelin Advisors and Conscience Point Consulting (another Seiden subcontractor), and Business Today and others relayed it. The underlying filings could not be fetched here. Reported details: an in-person meeting between Jackson and Pakistani officials on 2025-05-01 on the rare-earths deal; a 2025-05-28 call followed by an email with a draft MoU, which Javelin's filing describes as 'Delivery of Proposed MoU'; and Javelin contacting Jackson's office during the 7-10 May conflict (ThePrint). Jackson (R-TX) was Trump's White House physician. No comment from Jackson was found. An unofficial site claims a $4,000 contribution to Jackson on 2025-10-28 tied to Javelin. That is unverified against FEC records and is not relied on. Audit (Nov 2026): no response from Jackson or Javelin and no non-Indian outlet independently confirming the filing entries was found, so the grade stays single-source.",
       "sources": [
         "https://www.businesstoday.in/world/us/story/ronny-jackson-former-white-house-doctor-identified-as-key-link-in-us-pakistans-500-million-mining-deal-509756-2026-01-07",
         "https://www.bizzbuzz.news/international/trump-ally-ronny-jackson-linked-to-pakistans-500-million-mining-deal-during-op-sindoor-1383465",
@@ -42,11 +43,14 @@
     {
       "statement": "During Operation Sindoor, Pakistan's embassy lobbyists pitched a minerals-and-trade partnership to US officials.",
       "verdict": "confirmed",
-      "finding": "Evidence: documented (FARA filings as reported by ThePrint, IANS and others, Jan 2026). Squire Patton Boggs, the embassy's long-standing registrant, sent 50+ emails to Congress and officials between 7 and 10 May 2025, stressing fears that India would resume strikes. On 2025-05-14, four days after the ceasefire, it emailed a US diplomat about a renewed partnership 'centred on trade, especially mines and minerals.' Separately, the embassy hired Ervin Graves Strategy Group, partly on keeping Pakistan off the FATF grey list (Business Today). Most of this coverage comes from Indian outlets with an adversarial framing, but it rests on public filings.",
+      "finding": "Evidence: documented (FARA filings as reported by ThePrint, IANS and others, Jan 2026). Squire Patton Boggs, the embassy's long-standing registrant, sent 50+ emails to Congress and officials between 7 and 10 May 2025, stressing fears that India would resume strikes. On 2025-05-14, four days after the ceasefire, it emailed a US diplomat about a renewed partnership 'centred on trade, especially mines and minerals.' Separately, the embassy hired Ervin Graves Strategy Group in Oct 2025 ($25K/month, three months), partly on keeping Pakistan off the FATF grey list (Business Today), then signed a two-year, ~$1.2M contract with it effective 2026-05-01 ($50K/month) that seeks resumed US-Pakistan defence dialogue and has a section on minerals cooperation (AFP via Arab News/Malay Mail, Dawn). Most of this coverage comes from Indian outlets with an adversarial framing, but it rests on public filings.",
       "sources": [
         "https://theprint.in/diplomacy/pakistans-lobbying-blitz-in-us-amid-op-sindoor-50-emails-worries-about-indias-resuming-strikes/2821399",
         "https://ianslive.in/pakistan-sought-us-help-during-op-sindoor-feared-resumption-of-indian-strikes-fara-documents--20260107181321",
-        "https://www.businesstoday.in/world/story/pakistan-used-lobbying-firms-to-get-us-govts-help-to-keep-it-out-of-fatf-grey-list-510991-2026-01-15"
+        "https://www.businesstoday.in/world/story/pakistan-used-lobbying-firms-to-get-us-govts-help-to-keep-it-out-of-fatf-grey-list-510991-2026-01-15",
+        "https://www.arabnews.pk/node/2651238/pakistan",
+        "https://www.malaymail.com/news/world/2026/07/18/defence-and-minerals-inside-pakistans-lobbying-push-in-washington/227949",
+        "https://www.dawn.com/news/1998958"
       ]
     },
     {
@@ -62,13 +66,14 @@
       ]
     },
     {
-      "statement": "Checkmate was paid via a Dubai entity for defence and minerals work.",
-      "verdict": "mostly-accurate",
-      "finding": "Evidence: the contract is documented; the paying entity's ownership is not established. Checkmate Government Relations (Ches McDowell, a Trump Jr. associate per C64) contracts not with Pakistan's government but with Dubai-based Greystone Investment & Management LLC, from 2025-05-15 (O'Dwyer's). Daily Times describes a two-year, $1.2M agreement covering defence cooperation and minerals ('support efforts to identify opportunities for cooperation' in the minerals sector). C64 cites a $100K Phase 1, so the figures vary by outlet. No coverage found names Greystone's owners or its tie to the Pakistani state. That is a gap, not a finding.",
+      "statement": "Checkmate was paid via a Dubai entity (Greystone) for Pakistan-related government-relations work.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence: the contract is documented; its defence-and-minerals scope is not, and the paying entity's ownership is not established. Checkmate Government Relations (FARA No. 7534; Ches McDowell, a Trump Jr. associate per C64) contracts not with Pakistan's government but with Dubai-based Greystone Investment & Management LLC, from 2025-05-15, with $100K paid on 2025-05-14 for a 30-day Phase I and a $200K Phase II option (O'Dwyer's, FARA exhibits). Its filings describe general government-relations advice and outreach to US officials. Audit correction: the 'two-year, $1.2M agreement covering defence cooperation and minerals' ('support efforts to identify opportunities for cooperation') that Daily Times/AFP describe is Pakistan's embassy contract with Ervin Graves Strategy Group, effective 2026-05-01 at $50K/month for 24 months, not Checkmate's. No coverage found names Greystone's owners or its tie to the Pakistani state. That is a gap, not a finding.",
       "sources": [
         "https://www.odwyerpr.com/story/public/23166/2025-06-18/checkmate-checks-for-pakistan.html",
-        "https://dailytimes.com.pk/1524579/defence-and-minerals-inside-pakistans-lobbying-push-in-washington/",
-        "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us"
+        "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us",
+        "https://www.arabnews.pk/node/2651238/pakistan",
+        "https://dailytimes.com.pk/1524579/defence-and-minerals-inside-pakistans-lobbying-push-in-washington/"
       ]
     },
     {
@@ -156,7 +161,8 @@
     "Javelin was Seiden's subcontractor at about $50K/month, not a direct Pakistan contract; Checkmate's counterparty is Dubai-based Greystone, not the Pakistani government.",
     "The Powerus 'order' is a limited procurement order of undisclosed value plus a non-binding MoU; at signing Powerus had not yet completed its merger with the Trump-son-backed Aureus Greenway (closed ~2026-10-01).",
     "Al Jazeera's '$500m for Trump' refers to WLF token-sale revenue, not to any Pakistani payment or to the $500M USSM MoU.",
-    "Some coverage calls Ronny Jackson a senator; he is a US Representative (R-TX) and Trump's former White House physician."
+    "Some coverage calls Ronny Jackson a senator; he is a US Representative (R-TX) and Trump's former White House physician.",
+    "Checkmate/Greystone: the two-year, ~$1.2M defence-and-minerals contract is Ervin Graves Strategy Group's (effective 2026-05-01), not Checkmate's; Checkmate's filed engagement is a $100K Phase I with a $200K Phase II option for general government-relations work."
   ],
   "denials_and_context": [
     "India denies any US mediation in the May 2025 ceasefire; Pakistan credits Trump.",
@@ -461,6 +467,36 @@
       "publisher": "ithildin.pages.dev",
       "url": "https://ithildin.pages.dev/dossiers/javelin-advisors-llc",
       "date": "2026"
+    },
+    {
+      "title": "Defense and minerals: inside Pakistan's lobbying push in Washington (AFP)",
+      "publisher": "Arab News",
+      "url": "https://www.arabnews.pk/node/2651238/pakistan",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Defence and minerals: inside Pakistan's lobbying push in Washington (AFP)",
+      "publisher": "Malay Mail",
+      "url": "https://www.malaymail.com/news/world/2026/07/18/defence-and-minerals-inside-pakistans-lobbying-push-in-washington/227949",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Pakistan hires lobbying firm (Ervin Graves) on two-year contract",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/1998958",
+      "date": "2026-05-09"
+    },
+    {
+      "title": "CAPSS InFocus: Pakistan's lobbying in the US",
+      "publisher": "Centre for Air Power Studies (CAPSS)",
+      "url": "https://capssindia.org/wp-content/uploads/2026/01/CAPSS_InFocus_MS_20_01_26.pdf",
+      "date": "2026-01-20"
+    },
+    {
+      "title": "Ronny Jackson linked to Pakistan's $500 million mining agreement",
+      "publisher": "India News Network",
+      "url": "https://www.indianewsnetwork.com/en/ronny-jackson-linked-pakistan-500-million-mining-agreement-20260108",
+      "date": "2026-01-08"
     }
   ],
   "entities": [
@@ -570,7 +606,7 @@
       "id": "checkmate-government-relations",
       "name": "Checkmate Government Relations",
       "type": "company",
-      "description": "Ches McDowell's firm; Pakistan defence/minerals work via Greystone."
+      "description": "Ches McDowell's firm (FARA 7534); Pakistan-related government-relations work paid by Dubai-based Greystone."
     },
     {
       "id": "ches-mcdowell",
@@ -582,7 +618,7 @@
       "id": "greystone-investment-management",
       "name": "Greystone Investment & Management LLC",
       "type": "company",
-      "description": "Dubai entity paying Checkmate for Pakistan work; ownership undisclosed."
+      "description": "Dubai entity paying Checkmate for Pakistan-related government-relations work; ownership undisclosed."
     },
     {
       "id": "world-liberty-financial",
@@ -823,7 +859,7 @@
     {
       "source": "pakistan",
       "target": "seiden-law",
-      "label": "hired for minerals promotion ($200K/month)",
+      "label": "hired for minerals promotion ($200K/month per Nukta/Global Witness; other figures reported)",
       "type": "money",
       "date": "2025-04-08",
       "amount_usd": 200000
@@ -876,7 +912,7 @@
     {
       "source": "javelin-advisors",
       "target": "ronny-jackson",
-      "label": "contacted on rare-earths MoU (FARA, reported)",
+      "label": "contacted on rare-earths MoU (FARA as reported by Economic Times; single-source)",
       "type": "political",
       "date": "2025-05-01"
     },
@@ -896,14 +932,14 @@
     {
       "source": "pakistan",
       "target": "ervin-graves-strategy-group",
-      "label": "hired on FATF grey list",
+      "label": "hired on FATF grey list (Oct 2025), then 2-year ~$1.2M defence/minerals contract (May 2026)",
       "type": "money",
       "date": "2025"
     },
     {
       "source": "greystone-investment-management",
       "target": "checkmate-government-relations",
-      "label": "pays for Pakistan defence/minerals lobbying",
+      "label": "pays for Pakistan-related government-relations work ($100K Phase I, $200K option)",
       "type": "money",
       "date": "2025-05-15"
     },
@@ -1169,7 +1205,7 @@
     },
     {
       "title": "Who owns Greystone Investment & Management (Dubai)?",
-      "why_connected": "It pays Trump Jr.-linked Checkmate for Pakistan's defence/minerals lobbying; the principal behind it is undisclosed in coverage.",
+      "why_connected": "It pays Trump Jr.-linked Checkmate for Pakistan-related government-relations work; the principal behind it is undisclosed in coverage.",
       "entities": [
         "greystone-investment-management",
         "checkmate-government-relations",
@@ -1200,5 +1236,54 @@
       ],
       "source_url": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Seiden Law contract terms and date (FARA 7570, signed 2025-04-08, $200K/month) and its timing before the Pahalgam attack",
+      "Javelin Advisors' registration (FARA 7579, agreement 2025-04-24, filed 2025-04-25, ~$50K/month as Seiden subcontractor)",
+      "Rep. Ronny Jackson's reported role in the rare-earths MoU channel (single-source FARA reporting)",
+      "Checkmate/Greystone contract terms and scope",
+      "Newer reporting through Nov 2026 on Pakistan lobbying and Powerus"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Corrected sub-claim 6 (Checkmate via Greystone): the two-year ~$1.2M defence-and-minerals contract quoted from Daily Times is Ervin Graves Strategy Group's May 2026 embassy contract (AFP via Arab News/Malay Mail, Dawn), not Checkmate's. Checkmate's filed engagement is a $100K Phase I plus $200K option for general government-relations work. Statement, finding, verdict (mostly-accurate to partly-accurate), entity descriptions, relationship label, lead text and the report's timeline and section 6 updated; correction added.",
+      "Added the Oct 2025 and May 2026 Ervin Graves contracts to sub-claim 4.",
+      "Noted the Seiden monthly-fee discrepancy ($200K per Nukta/Global Witness vs $125K per CAPSS); dates and FARA numbers for Seiden and Javelin upheld.",
+      "Ronny Jackson item upheld as single-source; no response from Jackson or Javelin found; relationship label now says single-source.",
+      "Upheld the Powerus order and USD1 MoU; FARA eFile PDFs could not be fetched (host blocked), so contract terms rest on press reporting of the filings."
+    ],
+    "new_sources": [
+      {
+        "title": "Defense and minerals: inside Pakistan's lobbying push in Washington (AFP)",
+        "publisher": "Arab News",
+        "url": "https://www.arabnews.pk/node/2651238/pakistan",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Defence and minerals: inside Pakistan's lobbying push in Washington (AFP)",
+        "publisher": "Malay Mail",
+        "url": "https://www.malaymail.com/news/world/2026/07/18/defence-and-minerals-inside-pakistans-lobbying-push-in-washington/227949",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "Pakistan hires lobbying firm (Ervin Graves) on two-year contract",
+        "publisher": "Dawn",
+        "url": "https://www.dawn.com/news/1998958",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "CAPSS InFocus: Pakistan's lobbying in the US",
+        "publisher": "Centre for Air Power Studies (CAPSS)",
+        "url": "https://capssindia.org/wp-content/uploads/2026/01/CAPSS_InFocus_MS_20_01_26.pdf",
+        "date": "2026-01-20"
+      },
+      {
+        "title": "Ronny Jackson linked to Pakistan's $500 million mining agreement",
+        "publisher": "India News Network",
+        "url": "https://www.indianewsnetwork.com/en/ronny-jackson-linked-pakistan-500-million-mining-agreement-20260108",
+        "date": "2026-01-08"
+      }
+    ]
+  }
 }

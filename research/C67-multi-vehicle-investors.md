@@ -17,7 +17,7 @@ Method note: we first mined C01-C60 for recurring names, then searched outward. 
 
 | Party | Trump-family vehicles (date, amount) | Nationality / state links | US government decisions afterwards | Grade |
 |---|---|---|---|---|
-| Justin Sun | WLF tokens $30M (2024-11-25) + $45M (about 2025-01-20); WLF adviser; top $TRUMP holder at 2025-05-22 dinner; $100M $TRUMP buy pledge (2025-07-09); Tron Inc. financing placed by Trump-sons-linked Dominari (2025-06-16, $100M up to $210M); $10M ALT5 + $10M WLFI pledge (2025-09-05) | China-born, Tron founder | SEC stay of fraud case (2025-02-26); claims dismissed, Rainberry pays $10M (2026-03-05) | documented (the pledges' completion is unverified) |
+| Justin Sun | WLF tokens $30M (2024-11-25) + $45M (about 2025-01-20); WLF adviser; top $TRUMP holder at 2025-05-22 dinner; $100M $TRUMP buy pledge (2025-07-09; execution unverified); Tron Inc. financing placed by Trump-sons-linked Dominari (2025-06-16, $100M up to $210M); $10M ALT5 + $10M WLFI pledge (2025-09-05; completion unverified) | China-born, Tron founder | SEC stay of fraud case (2025-02-26); settlement: claims against Sun dismissed, Rainberry pays $10M (2026-03-05) | documented (the pledges' completion is unverified) |
 | Tahnoon network | Aryam: $500M for 49% of WLF (about 2025-01-16); MGX: $2B Binance deal settled in USD1 (2025-05-01); StringZ: reportedly 49% of WLF's trust-bank holding company (2026-08); Lunate: Affinity investor (2024-12) | UAE royal / national security adviser | AI-chip framework (May 2025); G42 licences (about Nov 2025); TikTok EO (2025-09-25), MGX 15% at close (2026-01-22); OCC conditional WLF trust charter (2026-08-14) | documented; StringZ single-source; grouping by common patron inferred |
 | Web3Port / Aqua 1 (Bobby Zhou) | Web3Port WLFI buy (Jan 2025; $10M announced, about $20M traced on-chain); Aqua 1 $100M WLFI (2025-06-26; about $80M on-chain); up to $75M to a Trump-and-sons company per NYT | Chinese businessman; vehicle styled as a UAE fund; BVI entity; UK probe | None found | purchases documented; Zhou identification single-source (NYT, relayed widely) |
 | Crypto.com | TMTG ETF partner (2025-03-24); TMTG bitcoin custodian (2025-05-27); CRO treasury plus $50M TMTG stock (2025-08-26, terminated 2026-08-07); Truth Predict partner (2025-10-28); TMTG shareholder-token custodian (2025-12-31); about $35M to MAGA Inc. + $1M to the inauguration | Singapore-founded exchange | SEC probe closed (2025-03-27); CFTC amicus (2026-02-17); OCC conditional charter (2026-02-23) | documented |
@@ -39,8 +39,12 @@ Sun is the only individual documented across WLF, $TRUMP, a Trump-sons-brokered 
 - **$TRUMP:** He was the top holder at the dinner. On 2025-07-09 he posted "We are committed to buying $100 million of TRUMP," just before a roughly $474M unlock.
 - **Tron Inc.:** Dominari Securities was the exclusive placement agent on the SRM/Tron Inc. deal. Both Trump sons are Dominari advisers and own about 6.7% each. Eric Trump denies any role.
 - **ALT5 and WLFI pledge:** A day after WLF froze his tokens, Sun pledged $10M each in ALT5 shares and WLFI.
+- **Were the pledges carried out?** Neither has been confirmed. An audit re-check in November 2026 found:
+  - no on-chain report (Arkham, Lookonchain) of $TRUMP buys after July 2025. Arkham tags the top leaderboard wallet as HTX, the exchange Sun leads;
+  - no filing showing a Sun stake in ALT5. The stake filings found were Point72's and ExodusPoint's;
+  - some headlines (e.g. ForkLog) present the $TRUMP pledge as a completed purchase, but they date from the day it was announced.
 
-What followed at the SEC: the case was stayed in February 2025 and dismissed in March 2026, with Rainberry paying $10M.
+What followed at the SEC: the case was stayed in February 2025. On 2026-03-05 the SEC announced a settlement (LR-26496): Rainberry pays a $10M penalty and all claims against Sun are dismissed. Sun neither admitted nor denied the claims.
 
 What this does and does not show:
 - The SEC eased other crypto cases with no Trump ties, so the outcome fits a broader policy shift.
@@ -67,7 +71,7 @@ Treating these entities as one investor is our own aggregation by common patron 
 
 How the story built up:
 
-1. **January 2025:** Web3Port, a Hong Kong-linked market maker that had faced manipulation accusations, announced a WLFI purchase. It was reported as $10M; Arkham, as cited by the NYT, traced about $20M.
+1. **January 2025:** Web3Port announced a WLFI purchase. It is a Hong Kong-linked market maker that was accused of the December 2024 MOVE dump and offboarded by Binance in March 2025 (C71). It was reported as $10M; Arkham, as cited by the NYT, traced about $20M.
 2. **June 2025:** Aqua 1 Foundation, presented as a UAE fund with almost no history, bought $100M of WLFI.
 3. **July 2025:** Jacob Silverman and BeInCrypto alleged shared infrastructure between the two. Aqua 1 and co-founder "Dave Lee" denied any connection.
 4. **August 2026:** The NYT reported the following (we read it only through The Block, Cointelegraph, Unchained, AML Intelligence and IBTimes):
@@ -76,7 +80,7 @@ How the story built up:
    - Up to **$75M** went to a company controlled by Trump and his sons, and the Witkoff family also benefited.
 5. **August 2026:** Caixin calls Zhou a "blacklisted Chinese businessman." We could not read the article, so the basis for that description is unverified.
 
-The source of the funds is unknown. We found no US government review of the purchase.
+The source of the funds is unknown beyond about $90M that reached aqua1.eth from an OKX account; about $80M of that was sent to WLF (Reuters, per C71). We found no US government review of the purchase, despite a September 2026 Senate Democratic letter on Aqua 1 (C71). Two Zhou employees were reportedly charged in the UK in September 2025 (single-source, per C71).
 
 What this does and does not show:
 - **What it does show:** this is the most significant under-reported repeat buyer. Money that reads as Emirati in the announcements appears to be Chinese-controlled.
@@ -91,7 +95,7 @@ Crypto.com has been TMTG's partner on:
 - Truth Predict;
 - the planned shareholder token.
 
-It also gave about $35M to MAGA Inc. Regulatory outcomes that followed:
+It also gave about $35M to MAGA Inc., including two $10M Foris DAX gifts in September-October 2025. Public Citizen counts $38.6M of Crypto.com political spending in the 2026 cycle. Regulatory outcomes that followed:
 - The SEC closed its probe on 2025-03-27, three days after the ETF tie-up.
 - The CFTC backed Crypto.com's legal position in an amicus brief.
 - The OCC granted conditional approval for its trust bank.
@@ -251,3 +255,20 @@ These are our own cross-references. No source asserts them.
 81. PIF, EA acquisition completed with Affinity (2026-08-04): https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/
 82. House Judiciary Democrats, Raskin letter to 1789 (2026-08-26): https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-malik-buskirk-trump-jr-1789-capital-re-insider-access.pdf
 83. Axios, 1789 fires back (2026-09-09): https://www.axios.com/2026/09/09/1789-capital-trump-jr-jamie-raskin
+
+## Audit (second review, Nov 2026)
+**Result: corrected.**
+
+What was re-checked:
+- **Sun's $100M $TRUMP pledge:** still unverified.
+- **Sun's $10M ALT5 and $10M WLFI pledges:** still unverified.
+- **SEC/Sun outcome:** a settlement. Reports differ on whether the court has entered it.
+- **StringZ/Tahnoon:** upheld as single-source. The OCC record names StringZ only.
+- **Crypto.com donations:** upheld.
+- **Web3Port, Aqua 1 and Zhou:** reconciled with C71. That changed the Web3Port dating and added the OKX funding and the Senate letter.
+
+New sources:
+- The Block, SEC dismisses Sun claims (2026-03): https://www.theblock.co/amp/post/392509/sec-dismisses-claims-against-justin-sun-and-tron-foundation-bittorrent-developer-rainberry-agrees-to-pay-10m-fine
+- Hedgeweek, Point72 and ExodusPoint ALT5 stakes (2025-08): https://www.hedgeweek.com/point72-and-exoduspoint-take-stakes-in-trump-linked-crypto-firm-alt5-sigma/
+- Cointelegraph, StringZ 49% (WSJ) (2026-08-27): https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj
+- The Block, Public Citizen crypto spending (2026-07-01): https://www.theblock.co/news/macro/2026-07-01-ripple-coinbase-election-donations-406851

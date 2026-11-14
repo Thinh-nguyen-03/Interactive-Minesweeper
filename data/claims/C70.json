@@ -62,12 +62,14 @@
     {
       "statement": "Indian licensees (Tribeca/Kalpesh Mehta; Reliance 4IR Realty): Trump licence fees alongside US decisions on India and on Reliance.",
       "verdict": "partly-accurate",
-      "finding": "DOCUMENTED payments, with the timing cutting both ways. Tribeca (Mehta) is the Trump brand's main Indian licensee, with about eight projects, and the counterparties are private (C59). At the country level, US tariffs on India rose to 50% in Aug 2025 while Trump launches continued, then fell to 18% in Feb 2026. That is not a favour pattern. New layer: Trump's 2025 disclosure (covering 2024) shows Reliance 4IR Realty Development, a unit of Mukesh Ambani's Reliance, paid a $10M 'development fee' for a Mumbai licence. The WSJ said the project could not be identified, and CREW says it appears not to exist yet. Reliance declined to comment. Separately, Reuters (13 Feb 2026, anonymous sources) reported that the US issued Reliance a licence to buy Venezuelan oil directly, shortly after the Russian-oil tariff on India was lifted. CREW frames this as Reliance 'getting wins'. No source shows the fee influenced the licence. That the two are connected is CREW's framing, and our own pairing is INFERRED.",
+      "finding": "DOCUMENTED payments, with the timing cutting both ways. Tribeca (Mehta) is the Trump brand's main Indian licensee, with about eight projects, and the counterparties are private (C59). At the country level, US tariffs on India rose to 50% in Aug 2025 while Trump launches continued, then fell to 18% in Feb 2026. That is not a favour pattern. New layer: Trump's 2025 disclosure (covering 2024) shows Reliance 4IR Realty Development, a unit of Mukesh Ambani's Reliance, paid a $10M 'development fee' for a Mumbai licence. The WSJ said the project could not be identified, and CREW says it appears not to exist yet. Reliance declined to comment. Separately, Reuters (13 Feb 2026, anonymous sources) reported that the US issued Reliance a licence to buy Venezuelan oil directly, shortly after the Russian-oil tariff on India was lifted. CREW frames this as Reliance 'getting wins'. No source shows the fee influenced the licence. That the two are connected is CREW's framing, and our own pairing is INFERRED. Audit note: the Venezuelan-oil licence is reported by Reuters from two anonymous sources (13 Feb 2026); no public OFAC statement was found, so treat it as single-source.",
       "sources": [
         "https://www.thestatesman.com/business/reliance-real-estate-unit-pays-trump-10-million-fee-for-mumbai-project-1503447379.html",
         "https://www.citizensforethics.org/reports-investigations/crew-investigations/indias-reliance-industries-paid-trump-10-million-before-he-took-office-it-keeps-getting-wins-from-trump/",
         "https://finance.yahoo.com/news/exclusive-indias-reliance-wins-us-083951862.html",
-        "https://businesstoday.in/real-estate/story/trump-towers-is-coming-to-hyderabad-65-storey-800-foot-towers-set-to-become-south-indias-tallest-548563-2026-08-11"
+        "https://businesstoday.in/real-estate/story/trump-towers-is-coming-to-hyderabad-65-storey-800-foot-towers-set-to-become-south-indias-tallest-548563-2026-08-11",
+        "https://www.business-standard.com/economy/news/ril-gets-us-license-to-buy-venezuelan-crude-oil-126021301510_1.html",
+        "https://www.ibtimes.co.uk/scrutiny-over-10-million-payment-reliance-trump-1787530"
       ]
     },
     {
@@ -112,13 +114,16 @@
     {
       "statement": "Pakistan: WLF deals with the Pakistani state and an order for a Trump-sons-backed drone maker, alongside tariff and diplomatic gains.",
       "verdict": "confirmed",
-      "finding": "DOCUMENTED. Deals with the family: (1) WLF's letter of intent with the Pakistan Crypto Council (26 Apr 2025). (2) A 14 Jan 2026 MoU between the government (signed by Finance Minister Aurangzeb) and SC Financial Technologies, the Delaware co-owner of the USD1 brand, signed by Zach Witkoff, to explore USD1 for cross-border payments. The WLF delegation also met PM Sharif and Field Marshal Munir. WLF says it receives no compensation, and the deal is exploratory. Steve Witkoff's Aug 2025 disclosure lists both WLF and SC Financial. (3) In mid-Sept 2026 Powerus, backed by Eric Trump and Don Jr. through American Ventures (C51) and then merging with Aureus, announced an MoU with the Pakistan Army and an initial 'limited procurement order' from the Ministry of Defence, value undisclosed. Munir received the delegation, per Al Jazeera. Don Jr.'s spokesperson says he had no role in negotiating it, and the White House says there is no conflict. Powerus had earlier licensed its interceptor in India (Paras Defence). US decisions: the 31 Jul 2025 trade deal set 19%, below India's rate at the time, plus Trump's oil-reserves pledge; Munir's White House lunch (18 Jun 2025); and paid lobbying by three Trump-tied firms (C64). The Powerus order runs the other way, Pakistani state money into a family-linked firm, and is the clearest foreign-government payment in this set. Causation is not shown.",
+      "finding": "DOCUMENTED. Deals with the family: (1) WLF's letter of intent with the Pakistan Crypto Council (26 Apr 2025). (2) A 14 Jan 2026 MoU between the government (signed by Finance Minister Aurangzeb) and SC Financial Technologies, the Delaware co-owner of the USD1 brand, signed by Zach Witkoff, to explore USD1 for cross-border payments. The WLF delegation also met PM Sharif and Field Marshal Munir. WLF says it receives no compensation, and the deal is exploratory. Steve Witkoff's Aug 2025 disclosure lists both WLF and SC Financial. (3) In mid-Sept 2026 Powerus, backed by Eric Trump and Don Jr. through American Ventures (C51) and then merging with Aureus, announced an MoU with the Pakistan Army and an initial 'limited procurement order' from the Ministry of Defence, value undisclosed. Munir received the delegation, per Al Jazeera. Don Jr.'s spokesperson says he had no role in negotiating it, and the White House says there is no conflict. Powerus had earlier licensed its interceptor in India (Paras Defence). US decisions: the 31 Jul 2025 trade deal set 19%, below India's rate at the time, plus Trump's oil-reserves pledge; Munir's White House lunch (18 Jun 2025); and paid lobbying by three Trump-tied firms (C64). The Powerus order runs the other way, Pakistani state money into a family-linked firm, and is the clearest foreign-government payment in this set. Causation is not shown. Audit note: outlets differ on the buyer: Reuters (via Arab News/Tribune) describes an Army MoU that includes an initial order, while Quwa and The Defense Post call it a 'limited procurement order' from the Ministry of Defence.",
       "sources": [
         "https://finance.yahoo.com/news/exclusive-pakistan-partner-world-liberty-062318246.html",
         "https://www.arabnews.pk/node/2629279",
         "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india",
         "https://thedefensepost.com/2026/09/24/pakistan-drone-order-us/",
-        "https://www.arabnews.com/node/2610999/pakistan"
+        "https://www.arabnews.com/node/2610999/pakistan",
+        "https://tribune.com.pk/story/2587065/pakistan-signs-crypto-deal-linked-to-trump-family-to-explore-stablecoin-payments?amp=1",
+        "https://www.geo.tv/latest/682471-pakistan-army-us-drone-maker-powerus-sign-mou-including-initial-order",
+        "https://quwa.org/pakistan-defence-news/powerus-wins-pakistan-ministry-of-defence-drone-order-and-mou/"
       ]
     },
     {
@@ -427,6 +432,36 @@
       "publisher": "investingLive",
       "url": "https://investinglive.com/news/softbank-and-hitachi-among-investors-in-550-billion-us-plan-20251028",
       "date": "2025-10-28"
+    },
+    {
+      "title": "Pakistan signs crypto deal linked to Trump family to explore stablecoin payments",
+      "publisher": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2587065/pakistan-signs-crypto-deal-linked-to-trump-family-to-explore-stablecoin-payments?amp=1",
+      "date": "2026-01-14"
+    },
+    {
+      "title": "Pakistan Army, US drone maker Powerus sign MoU including initial order",
+      "publisher": "Geo News",
+      "url": "https://www.geo.tv/latest/682471-pakistan-army-us-drone-maker-powerus-sign-mou-including-initial-order",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Powerus wins Pakistan Ministry of Defence drone order and MoU",
+      "publisher": "Quwa",
+      "url": "https://quwa.org/pakistan-defence-news/powerus-wins-pakistan-ministry-of-defence-drone-order-and-mou/",
+      "date": "2026-09"
+    },
+    {
+      "title": "RIL gets US licence to buy Venezuelan crude oil",
+      "publisher": "Business Standard",
+      "url": "https://www.business-standard.com/economy/news/ril-gets-us-license-to-buy-venezuelan-crude-oil-126021301510_1.html",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "Watchdogs question India's Reliance Industries' Trump 'fee' after string of US government wins",
+      "publisher": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/scrutiny-over-10-million-payment-reliance-trump-1787530",
+      "date": "2026"
     }
   ],
   "entities": [
@@ -1069,7 +1104,7 @@
     {
       "source": "us-treasury",
       "target": "reliance-industries",
-      "label": "issued licence to buy Venezuelan oil (Reuters, anonymous)",
+      "label": "issued licence to buy Venezuelan oil (Reuters, anonymous sources; single-source)",
       "type": "regulatory",
       "date": "2026-02-13"
     },
@@ -1170,7 +1205,7 @@
     {
       "source": "pakistan",
       "target": "powerus",
-      "label": "Ministry of Defence placed initial drone order; Army MoU",
+      "label": "initial drone order (Army per Reuters; MoD per Quwa/Defense Post) plus Army MoU",
       "type": "money",
       "date": "2026-09"
     },
@@ -1323,5 +1358,51 @@
       ],
       "source_url": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Pakistan's 14 Jan 2026 USD1 MoU with SC Financial Technologies (signatories, non-binding scope, witnesses)",
+      "Powerus's Pakistan MoU and initial order (dates, buyer, value, Munir meeting)",
+      "Reliance 4IR Realty's $10M development fee in Trump's 2025 OGE disclosure",
+      "Reuters' report that the US licensed Reliance to buy Venezuelan oil directly"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Upheld all four items against Tribune, ProPakistani, Dawn, Arab News, Geo, Quwa, Business Standard, CREW and IBTimes coverage.",
+      "Added a note that outlets differ on whether the Army or the Ministry of Defence placed the Powerus order, and relabelled that edge to match.",
+      "Marked the Reliance Venezuelan-oil licence as single-source (Reuters, two anonymous sources; no public OFAC statement found) in the finding and relationship label."
+    ],
+    "new_sources": [
+      {
+        "title": "Pakistan signs crypto deal linked to Trump family to explore stablecoin payments",
+        "publisher": "The Express Tribune",
+        "url": "https://tribune.com.pk/story/2587065/pakistan-signs-crypto-deal-linked-to-trump-family-to-explore-stablecoin-payments?amp=1",
+        "date": "2026-01-14"
+      },
+      {
+        "title": "Pakistan Army, US drone maker Powerus sign MoU including initial order",
+        "publisher": "Geo News",
+        "url": "https://www.geo.tv/latest/682471-pakistan-army-us-drone-maker-powerus-sign-mou-including-initial-order",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "Powerus wins Pakistan Ministry of Defence drone order and MoU",
+        "publisher": "Quwa",
+        "url": "https://quwa.org/pakistan-defence-news/powerus-wins-pakistan-ministry-of-defence-drone-order-and-mou/",
+        "date": "2026-09"
+      },
+      {
+        "title": "RIL gets US licence to buy Venezuelan crude oil",
+        "publisher": "Business Standard",
+        "url": "https://www.business-standard.com/economy/news/ril-gets-us-license-to-buy-venezuelan-crude-oil-126021301510_1.html",
+        "date": "2026-02-13"
+      },
+      {
+        "title": "Watchdogs question India's Reliance Industries' Trump 'fee' after string of US government wins",
+        "publisher": "IBTimes UK",
+        "url": "https://www.ibtimes.co.uk/scrutiny-over-10-million-payment-reliance-trump-1787530",
+        "date": "2026"
+      }
+    ]
+  }
 }

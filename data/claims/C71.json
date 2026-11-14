@@ -64,7 +64,8 @@
         "https://cryip.co/uk-court-records-dissolved-companies-100m-wlfi-buyer/",
         "https://news.bitcoin.com/wlfi-100-million-bobby-zhou-money-laundering/",
         "https://www.theblock.co/news/business/2025-07-15-aqua1-web3port-world-liberty-362612",
-        "https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html"
+        "https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html",
+        "https://www.thedailybeast.com/trump-crypto-business-got-millions-from-chinese-tycoon-under-investigation"
       ]
     },
     {
@@ -374,6 +375,18 @@
       "publisher": "Caixin Global",
       "url": "https://www.caixinglobal.com/2026-08-26/the-blacklisted-chinese-businessman-behind-a-100-million-trump-crypto-bet-102478200.html",
       "date": "2026-08-26"
+    },
+    {
+      "title": "The mystery man who bought $100m worth of tokens from Trump's crypto business (Reuters)",
+      "publisher": "DealStreetAsia",
+      "url": "https://media.dealstreetasia.com/stories/trump-crypto-mystery-man-449016",
+      "date": "2025-07-11"
+    },
+    {
+      "title": "Trump crypto business got millions from Chinese tycoon under investigation",
+      "publisher": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/trump-crypto-business-got-millions-from-chinese-tycoon-under-investigation",
+      "date": "2026-08"
     }
   ],
   "entities": [
@@ -761,14 +774,14 @@
     {
       "source": "guren-bobby-zhou",
       "target": "web3port",
-      "label": "led (NYT)",
+      "label": "led (NYT; single-source)",
       "type": "ownership",
       "date": "2025"
     },
     {
       "source": "guren-bobby-zhou",
       "target": "aqua-1-foundation",
-      "label": "figure behind $100M purchase (NYT)",
+      "label": "figure behind $100M purchase (NYT; single-source)",
       "type": "ownership",
       "date": "2025-06"
     },
@@ -782,7 +795,7 @@
     {
       "source": "web3port",
       "target": "aqua-1-gp-limited",
-      "label": "BVI entity renamed to",
+      "label": "BVI entity renamed to (NYT, from corporate records)",
       "type": "ownership",
       "date": "2025-06"
     },
@@ -819,7 +832,7 @@
     {
       "source": "world-liberty-financial",
       "target": "dt-marks-defi-llc",
-      "label": "passed up to $75M of Aqua 1 proceeds (NYT)",
+      "label": "passed up to $75M of Aqua 1 proceeds (NYT; single-source)",
       "type": "money",
       "date": "2025-06",
       "amount_usd": 75000000
@@ -927,7 +940,7 @@
     {
       "source": "reuters",
       "target": "wlfi-token",
-      "label": "found 36 of top 50 wallets likely foreign (~$804M)",
+      "label": "found 36 of top 50 wallets likely foreign (~$804M; single-source analysis)",
       "type": "media",
       "date": "2025-10-28"
     },
@@ -1063,6 +1076,52 @@
         "aqua-1-foundation"
       ],
       "source_url": "https://whbl.com/2025/07/11/trumps-100-million-crypto-mystery-man/"
+    },
+    {
+      "title": "Reuters: Nobitex (Iran) and WLF backers share the same Tron/Binance networks",
+      "why_connected": "Reuters (2026-05-01) traced at least $2.3B of Nobitex flows through Tron and BNB Chain, run by WLF backers Justin Sun and Binance; Reuters says there is no indication the Trump family knew. Relevant to the Accountable.US Nobitex-exposure item, but it is about shared networks, not WLFI sales.",
+      "entities": [
+        "justin-sun",
+        "binance",
+        "tron",
+        "world-liberty-financial",
+        "iran"
+      ],
+      "source_url": "https://finance.yahoo.com/markets/crypto/articles/exclusive-trumps-crypto-venture-irans-080805071.html"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "NYT (2026-08-09) identification of Guren 'Bobby' Zhou behind Aqua 1, his 2021 UK arrest and uncharged status, and up to $75M flowing to the Trump-and-sons company",
+      "Reuters (2025-07-11) findings that ADGM says Aqua 1 is not registered and that ~$90M reached aqua1.eth from an OKX account, with ~$80M sent to WLF",
+      "Reuters (2025-10-28) analysis: 36 of top 50 WLFI wallets likely foreign (~$804M)",
+      "Any newer reporting or official response (Treasury/DOJ reply to the Sept 2026 Senate letter)"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Upheld the NYT, Reuters ADGM/OKX and Reuters wallet findings against Cointelegraph, The Block, Unchained, Daily Beast, DealStreetAsia and Cryptopolitan relays; no Treasury or DOJ reply to the 2026-09-15 Aqua 1 letter and no charge against Zhou were found through mid-Nov 2026.",
+      "Relabelled four relationship edges so single-source material is flagged as such (Zhou-Web3Port, Zhou-Aqua 1, the $75M flow to DT Marks DEFI, Reuters' wallet analysis) and attributed the Web3Port-to-Aqua 1 GP rename to the NYT.",
+      "Added a lead on Reuters' May 2026 Nobitex network investigation (shared networks only, no Trump-family knowledge alleged)."
+    ],
+    "new_sources": [
+      {
+        "title": "The mystery man who bought $100m worth of tokens from Trump's crypto business (Reuters)",
+        "publisher": "DealStreetAsia",
+        "url": "https://media.dealstreetasia.com/stories/trump-crypto-mystery-man-449016",
+        "date": "2025-07-11"
+      },
+      {
+        "title": "Trump crypto business got millions from Chinese tycoon under investigation",
+        "publisher": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/trump-crypto-business-got-millions-from-chinese-tycoon-under-investigation",
+        "date": "2026-08"
+      },
+      {
+        "title": "Exclusive: Trump's crypto venture and Iran's top exchange tapped into the same industry networks (Reuters)",
+        "publisher": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/exclusive-trumps-crypto-venture-irans-080805071.html",
+        "date": "2026-05-01"
+      }
+    ]
+  }
 }
