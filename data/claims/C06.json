@@ -17,12 +17,13 @@
     {
       "statement": "The deal was $500M for 49% of World Liberty Financial.",
       "verdict": "confirmed",
-      "finding": "Aryam Investment 1 agreed to pay $500M for 49%. $250M was paid upfront, of which about $187M went to Trump-family entities and at least $31M to Witkoff-linked entities. The remaining $250M was due by 2025-07-15, and its distribution could not be determined.",
+      "finding": "Aryam Investment 1 agreed to pay $500M for 49%. $250M was paid upfront, of which about $187M went to Trump-family entities and at least $31M to Witkoff-linked entities. The remaining $250M was due by 2025-07-15, and its distribution could not be determined. Some outlets relaying the WSJ also report a further $31M to an entity tied to co-founders Zak Folkman and Chase Herro; this detail is less consistently reported. No reporting found through Nov 2026 confirms whether or how the second $250M was paid.",
       "sources": [
         "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
         "https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj",
         "https://www.ledgerinsights.com/trump-linked-crypto-venture-world-liberty-sold-49-stake-to-uae-state-affiliated-firm/",
-        "https://ground.news/article/abu-dhabi-royal-secretly-bought-stake-in-trump-crypto-firm_a173ab"
+        "https://ground.news/article/abu-dhabi-royal-secretly-bought-stake-in-trump-crypto-firm_a173ab",
+        "https://finance.yahoo.com/news/inside-187m-deal-between-trump-003116654.html"
       ]
     },
     {
@@ -74,7 +75,8 @@
     "WLF and the White House deny wrongdoing. WLF says Trump and Steve Witkoff were not involved, that the deal gave no influence over US policy, and that it takes its ethical obligations seriously.",
     "Some outlets link the deal to the May 2025 US agreement allowing the UAE to buy up to 500,000 advanced AI chips a year, with a share for G42. Any causal connection is insinuation and unproven, and reports say the money did not come from G42.",
     "In August 2026 the WSJ reported that Tahnoon and co-investors also hold 49% of WLF's bank-charter holding company.",
-    "Verification relied on secondary outlets summarizing the paywalled WSJ article; the fetch tool could not reach those pages, so details come from consistent search summaries."
+    "Verification relied on secondary outlets summarizing the paywalled WSJ article; the fetch tool could not reach those pages, so details come from consistent search summaries.",
+    "In February 2026 Rep. Ro Khanna opened a House inquiry into the Aryam deal (an entity reported as registered in Delaware and Abu Dhabi), requesting payment-structure and beneficial-ownership records by 2026-03-01; Sens. Warren and Slotkin called for investigations. No findings from these inquiries were found."
   ],
   "sources": [
     {
@@ -142,6 +144,18 @@
       "publisher": "The Block",
       "url": "https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
       "date": "2026-08-27"
+    },
+    {
+      "title": "Inside the $187M deal between the Trump family and the UAE's 'spy sheikh'",
+      "publisher": "Benzinga via Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/inside-187m-deal-between-trump-003116654.html",
+      "date": "2026-02"
+    },
+    {
+      "title": "House launches probe into $500 Million UAE deal linked to World Liberty Financial",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/388607/house-launches-probe-world-liberty-financial",
+      "date": "2026-02"
     }
   ],
   "entities": [
@@ -366,5 +380,34 @@
       "type": "regulatory",
       "date": "2025-05"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "$500M for 49% via Aryam Investment 1, signed by Eric Trump on 2025-01-16",
+      "$250M upfront with ~$187M to Trump-family entities and at least $31M to Witkoff-linked entities",
+      "Second $250M due 2025-07-15 and whether it was paid",
+      "Non-disclosure and the official responses/denials"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Core figures, date, signer and secrecy re-confirmed across further outlets (all still relaying the WSJ; no independent document seen).",
+      "Added that some relays report a further $31M to a Folkman/Herro-linked entity (flagged as less consistently reported).",
+      "Noted that no reporting through Nov 2026 confirms payment of the second $250M.",
+      "Added the February 2026 House (Khanna) inquiry to context."
+    ],
+    "new_sources": [
+      {
+        "title": "Inside the $187M deal between the Trump family and the UAE's 'spy sheikh'",
+        "publisher": "Benzinga via Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/inside-187m-deal-between-trump-003116654.html",
+        "date": "2026-02"
+      },
+      {
+        "title": "House launches probe into $500 Million UAE deal linked to World Liberty Financial",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/post/388607/house-launches-probe-world-liberty-financial",
+        "date": "2026-02"
+      }
+    ]
+  }
 }

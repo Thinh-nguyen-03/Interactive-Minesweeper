@@ -196,6 +196,24 @@
       "publisher": "Center for American Progress",
       "url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf",
       "date": "2026-05-05"
+    },
+    {
+      "title": "Stablecoin: la elección de MGX por USD1",
+      "publisher": "Forbes Colombia",
+      "url": "https://forbes.co/2025/10/03/economia-y-finanzas/stablecoin-la-eleccion-de-mgx-por-usd1/",
+      "date": "2025-10-03"
+    },
+    {
+      "title": "World Liberty Financial rebuts Senate Democrat's probe into USD1 stablecoin and Trump's crypto ties",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/354624/world-liberty-financial-rebuts-senate-democrats-probe-usd1-stablecoin-trump-crypto-ties",
+      "date": "2025-05"
+    },
+    {
+      "title": "Stablecoin supply on Binance's BNB Chain explodes 30% due to USD1's $2.1B launch",
+      "publisher": "CryptoSlate",
+      "url": "https://cryptoslate.com/stablecoin-supply-on-binance-smart-chain-explodes-30-due-to-usd1s-2-1b-launch/",
+      "date": "2025-05"
     }
   ],
   "entities": [
@@ -415,5 +433,38 @@
       "label": "state-backed fund of",
       "type": "political"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "USD1 jump from ~$128-130M to ~$2.1B with the MGX settlement",
+      "MGX's statement that it holds no USD1, paid no fees to and has not invested in WLF",
+      "Interest estimate (~$60-80M/yr, contingent on Binance not redeeming)",
+      "WLF's 'unfair ... arbitrary standards' quote"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No factual changes. The supply jump, MGX's denials and the ~$60-80M/yr contingent estimate were re-confirmed from different outlets.",
+      "The 'arbitrary standards' wording still could not be found in any published WLF statement; the sub-claim stays unverified. WLF's published response to the Senate probe called it 'fundamentally mistaken' and said it met all disclosure requirements."
+    ],
+    "new_sources": [
+      {
+        "title": "Stablecoin: la elección de MGX por USD1",
+        "publisher": "Forbes Colombia",
+        "url": "https://forbes.co/2025/10/03/economia-y-finanzas/stablecoin-la-eleccion-de-mgx-por-usd1/",
+        "date": "2025-10-03"
+      },
+      {
+        "title": "World Liberty Financial rebuts Senate Democrat's probe into USD1 stablecoin and Trump's crypto ties",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/post/354624/world-liberty-financial-rebuts-senate-democrats-probe-usd1-stablecoin-trump-crypto-ties",
+        "date": "2025-05"
+      },
+      {
+        "title": "Stablecoin supply on Binance's BNB Chain explodes 30% due to USD1's $2.1B launch",
+        "publisher": "CryptoSlate",
+        "url": "https://cryptoslate.com/stablecoin-supply-on-binance-smart-chain-explodes-30-due-to-usd1s-2-1b-launch/",
+        "date": "2025-05"
+      }
+    ]
+  }
 }

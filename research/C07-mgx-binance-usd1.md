@@ -36,6 +36,12 @@ Note: web fetch to theblock.co and crypto.news was blocked in this session. Find
 - WLF and the White House told the WSJ that Trump was not involved in the Aryam deal and that it bought no influence over policy. Trump said he did not know about it.
 - Context for the critics' side: Senators Warren and Merkley wrote to MGX and Binance about the deal. A Circle shareholder suit alleges emoluments violations.
 
+## Second-review audit (2026-11-14)
+- Re-checked: the USD1 supply jump (~$130M to ~$2.1B), MGX's statement that it holds no USD1 and has not invested in or paid fees to WLF, the ~$60-80M/yr contingent interest estimate, and WLF's "unfair ... arbitrary standards" quote. **Result: upheld; no changes to findings.**
+- The "arbitrary standards" wording still does not appear in any published WLF statement found. WLF's public reply to the Warren/Merkley probe called it "fundamentally mistaken" and said WLF met all disclosure requirements.
+- New sources: Forbes Colombia (2025-10-03) https://forbes.co/2025/10/03/economia-y-finanzas/stablecoin-la-eleccion-de-mgx-por-usd1/ ; The Block (2025-05) https://www.theblock.co/post/354624/world-liberty-financial-rebuts-senate-democrats-probe-usd1-stablecoin-trump-crypto-ties ; CryptoSlate (2025-05) https://cryptoslate.com/stablecoin-supply-on-binance-smart-chain-explodes-30-due-to-usd1s-2-1b-launch/
+
+
 ## Sources
 1. Fox Business (Reuters), "Trump's stablecoin chosen for $2 billion Abu Dhabi investment in Binance, co-founder says," 2025-05-01. https://www-ak-ms.foxbusiness.com/markets/trumps-stablecoin-chosen-2-billion-abu-dhabi-investment-binance-co-founder-says
 2. Bloomberg, "Trump-Tied Stablecoin Used for MGX's $2 Billion Binance Deal," 2025-05-01. https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal

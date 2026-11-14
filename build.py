@@ -198,6 +198,189 @@ def claim_sort_key(cid):
 
 
 # --------------------------------------------------------------------------
+# Text structuring.  The research files hold findings, denials and
+# descriptions as paragraphs; the page wants short, separate statements.
+# Nothing here rewrites meaning: sentences are split, never dropped, and the
+# only wording change is the letter case of evidence-grade words that some
+# files shout in capitals (DOCUMENTED -> documented).
+# --------------------------------------------------------------------------
+GRADE_WORDS = ["SINGLE-SOURCE", "SINGLE SOURCE", "DOCUMENTED", "INFERRED", "UNVERIFIED",
+               "ESTIMATE", "ALLEGED"]
+_GRADE_RE = re.compile(r"\b(" + "|".join(re.escape(w) for w in GRADE_WORDS) + r")\b")
+_ABBR = {"jr", "sr", "inc", "corp", "co", "ltd", "llc", "mr", "mrs", "ms", "dr", "sen", "sens", "rep",
+         "reps", "gov", "gen", "lt", "col", "st", "vs", "v", "u.s", "u.k", "u.a.e", "d.c", "e.g", "i.e",
+         "etc", "approx", "est", "jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "sept", "oct",
+         "nov", "dec", "a.m", "p.m", "fig", "vol", "prof", "hon", "ret", "dept", "al", "cf", "bros",
+         "ave", "pp", "p", "lit", "rel", "n.d", "s.d", "e.d", "w.d", "cal", "fla", "tex", "ex", "ed",
+         "eds", "cir", "supp", "art", "para", "ch", "pres", "amb", "adm", "capt", "cmdr", "sgt", "rev",
+         "messrs", "ph.d", "esq", "ft", "mt", "viz", "ca", "c"}
+_BREAK = re.compile(r"[.!?]+[\"'’”)\]]*\s+")
+
+
+def lower_grades(text):
+    """DOCUMENTED / SINGLE-SOURCE / INFERRED -> ordinary case (capital only at a sentence start)."""
+    def fix(m):
+        w = m.group(1).lower()
+        before = text[:m.start()].rstrip()
+        return w.capitalize() if (not before or before[-1] in ".!?") else w
+    return _GRADE_RE.sub(fix, text)
+
+
+def tidy(text):
+    """Display form of a free-text field: trimmed, single spaces, grade words in normal case."""
+    return lower_grades(re.sub(r"\s+", " ", clean_str(text)))
+
+
+def cap_first(text):
+    """Capital first letter for text that stands alone as a row; leaves xAI, eToro, iPhone alone."""
+    if not text:
+        return text
+    first = text.split(" ", 1)[0]
+    if text[0].islower() and not any(ch.isupper() for ch in first[1:]):
+        return text[0].upper() + text[1:]
+    return text
+
+
+def sentences(text):
+    """Split a paragraph at sentence boundaries, keeping every word."""
+    text = tidy(text)
+    if not text:
+        return []
+    out, start, depth_at = [], 0, {}
+    depth = 0
+    for i, ch in enumerate(text):       # bracket depth, so "(... . ...)" stays whole
+        if ch in "([":
+            depth += 1
+        elif ch in ")]" and depth:
+            depth -= 1
+        depth_at[i] = depth
+    for m in _BREAK.finditer(text):
+        end = m.end()
+        if end >= len(text):
+            break
+        nxt = text[end]
+        if not (nxt.isupper() or nxt.isdigit() or nxt in "\"'‘“($["):
+            continue
+        if depth_at.get(m.start(), 0) > 0 and text.find(")", m.start()) - m.start() < 400 \
+                and (text.find(")", m.start()) >= 0 or text.find("]", m.start()) >= 0):
+            continue
+        word = re.search(r"([A-Za-z][A-Za-z.]*)$", text[start:m.start()])
+        w = word.group(1).lower() if word else ""
+        if w in _ABBR or (word and len(word.group(1)) == 1 and word.group(1).isupper()):
+            continue
+        if w == "no" and nxt.isdigit():
+            continue
+        if m.start() > 0 and text[m.start() - 1].isdigit() and nxt.isdigit() and m.group(0).strip() == ".":
+            pass   # "…in 2025. 12 firms…" is a real boundary
+        out.append(text[start:end].strip())
+        start = end
+    out.append(text[start:].strip())
+    merged = []
+    for s in out:
+        if merged and (len(s) < 24 or len(merged[-1]) < 24):
+            merged[-1] += " " + s
+        elif s:
+            merged.append(s)
+    return merged
+
+
+_MONTH = r"(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|June?|July?|Aug(?:ust)?|Sept?(?:ember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?"
+_QUAL = r"(?:(?:about|around|roughly|nearly|almost|over|under|up to|at least|more than|less than|approximately|an estimated|some)\s+|~\s?)?"
+_NUM = r"\d[\d,]*(?:\.\d+)?"
+_UNIT = r"(?:\s?(?:trillion|billion|million|thousand)\b|[TBMKk]\b|\s?bn\b|\s?mn\b)?"
+AMOUNT_RE = re.compile(
+    _QUAL + r"(?:US)?\$\s?" + _NUM + _UNIT + r"(?:\s?(?:-|–|to)\s?\$?" + _NUM + _UNIT + r")?\+?"
+    r"(?:/(?:month|year|day|share|token))?"
+    r"|" + _QUAL + _NUM + r"(?:\s?(?:-|–)\s?" + _NUM + r")?\s?%", re.I)
+DATE_RE = re.compile(
+    r"\b(?:19|20)\d\d-\d\d(?:-\d\d)?\b"
+    r"|\b\d{1,2}\s" + _MONTH + r"(?:\s(?:19|20)\d\d)?"
+    r"|\b" + _MONTH + r"\s\d{1,2}(?:\s?(?:-|–)\s?\d{1,2})?(?:,\s(?:19|20)\d\d)?(?!\d)"
+    r"|\b" + _MONTH + r"\s(?:19|20)\d\d\b"
+    r"|\b(?:early|mid|late)[- ](?:" + _MONTH + r"\s)?(?:19|20)\d\d\b")
+
+
+def figures(text, limit=5):
+    """Amounts and dates quoted in a finding, in order of appearance, for an aligned side list."""
+    def collect(rx):
+        seen, out = set(), []
+        for m in rx.finditer(text):
+            v = re.sub(r"\s+", " ", m.group(0)).strip(" ,.")
+            k = v.lower()
+            if v and k not in seen:
+                seen.add(k)
+                out.append(v)
+        return out[:limit]
+    return collect(AMOUNT_RE), collect(DATE_RE)
+
+
+_GRADE_HINT = re.compile(r"\b(documented|single[- ]source|inferred)\b", re.I)
+
+
+def split_grade(points):
+    """Connection hunts open each finding with an evidence grade; lift it into its own field."""
+    if not points:
+        return "", points
+    first = points[0]
+    if len(first) <= 170 and _GRADE_HINT.search(first):
+        if re.match(r"(?i)^(evidence( grade)?\s*:|documented|single[- ]source|inferred|each\b|facts?\b|"
+                    r"the (facts|pieces|pattern|link|ties?)\b|grade\s*:)", first) or len(first) <= 60:
+            g = re.sub(r"(?i)^(evidence( grade)?|grade)\s*:\s*", "", first).rstrip(".")
+            return cap_first(g), points[1:]
+    return "", points
+
+
+_SAID = re.compile(r"^(?:the\s+)?(transcript|video|brief|lead)\s+"
+                   r"(says|said|states|stated|calls|called|lists|listed|implies|implied|frames|framed|"
+                   r"groups|grouped|quotes|quoted|gives|gave|describes|described|puts|names|named|treats|"
+                   r"suggests|suggested|claims|claimed)\b\s*(?:that\s+)?", re.I)
+
+
+def correction_pair(text):
+    """'Transcript says X; the record says Y.' -> {who, said, record}.  None when it does not parse."""
+    text = tidy(text)
+    m = _SAID.match(text)
+    if not m:
+        return None
+    who = "video" if m.group(1).lower() in ("transcript", "video") else "brief"
+    cut = None
+    for rx in (r";\s+", r"\.\s+In fact,?\s+", r",\s+but\s+", r"\.\s+But\s+", r"\.\s+(?=[A-Z\"'$0-9])"):
+        mm = re.search(rx, text[m.end():])
+        if mm and (cut is None or mm.start() < cut[0]):
+            cut = (mm.start(), mm.end())
+    if not cut:
+        return None
+    said_full = text[:m.end() + cut[0]]
+    record = text[m.end() + cut[1]:].strip()
+    if len(record) < 12:
+        return None
+    plain_verb = m.group(2).lower() in ("says", "said", "states", "stated")
+    said = text[m.end():m.end() + cut[0]].strip() if plain_verb else said_full.strip()
+    record = re.sub(r"^(in fact,?|but)\s+", "", record, flags=re.I)
+    return {"who": who, "said": cap_first(said.rstrip(".")), "record": cap_first(record)}
+
+
+def clean_name(name):
+    """Entity names keep their real spelling; one that arrives all lower-case is title-cased."""
+    name = re.sub(r"\s+", " ", clean_str(name))
+    if name and name == name.lower() and re.search(r"[a-z]", name):
+        return title_from_id(slugify(name))
+    return name
+
+
+def clean_label(label):
+    """Relationship labels read mid-sentence ('X invested in Y'): no trailing full stop, grade words lower-cased."""
+    return tidy(label).rstrip(".")
+
+
+def origin_of(raw):
+    o = slugify(raw)
+    if o in ("", "video"):
+        return "video"
+    return "connection-hunt" if o in ("connection-hunt", "connection-hunts", "hunt") else "follow-up"
+
+
+# --------------------------------------------------------------------------
 # Load
 # --------------------------------------------------------------------------
 def load_inputs():
@@ -254,7 +437,7 @@ class Entities:
         raw_slug = slugify(raw_id)
         if raw_slug != eid:
             e["raw_ids"].add(raw_slug)
-        name = clean_str(name)
+        name = clean_name(name)
         if name:
             e["names"][name] += 1
             e["stub"] = False
@@ -268,7 +451,7 @@ class Entities:
                 e["types"][etype] += 1
                 if authoritative and not e["base_type"]:
                     e["base_type"] = etype
-        description = clean_str(description)
+        description = tidy(description)
         if description and description.lower() not in {d.lower() for d in e["descs"]}:
             if authoritative:
                 e["descs"].insert(0, description)
@@ -292,9 +475,12 @@ class Entities:
                 # no authoritative description: lead with the fullest one
                 descs = sorted(descs, key=len, reverse=True)
             aliases = sorted({a for a in (set(e["names"]) | e["aliases"]) if a != name})
+            lead = sentences(descs[0]) if descs else []
             out[eid] = {
                 "id": eid, "name": name, "type": etype,
                 "description": descs[0] if descs else "",
+                "role": cap_first(lead[0]) if lead else "",
+                "details": lead[1:],
                 "more": descs[1:6],
                 "aliases": aliases,
                 "stub": e["stub"],
@@ -315,8 +501,7 @@ def merge(index, claim_files, reports, base):
         claims[cid] = {"id": cid, "slug": clean_str(c.get("slug")),
                        "title": clean_str(c.get("title")) or cid,
                        "claim": clean_str(c.get("claim")), "lines": clean_str(c.get("lines")),
-                       "origin": "video" if slugify(c.get("origin")) in ("", "video") else "follow-up",
-                       "origin_detail": slugify(c.get("origin")),
+                       "origin": origin_of(c.get("origin")),
                        "parents": [str(x) for x in as_list(c.get("parents")) if x]}
         order.append(cid)
     for cid in sorted(set(claim_files) | set(reports), key=claim_sort_key):
@@ -324,14 +509,15 @@ def merge(index, claim_files, reports, base):
             d = claim_files.get(cid, {})
             claims[cid] = {"id": cid, "slug": "", "title": clean_str(d.get("title")) or cid,
                            "claim": clean_str(d.get("claim")), "lines": "",
-                           "origin": "video" if slugify(d.get("origin")) in ("", "video") else "follow-up",
-                           "origin_detail": slugify(d.get("origin")),
+                           "origin": origin_of(d.get("origin")),
                            "parents": [str(x) for x in as_list(d.get("parents")) if x]}
             order.append(cid)
             if cid not in claim_files:
                 warn(f"{cid}: report exists but claim is in neither the index nor data/claims/")
     order.sort(key=claim_sort_key)
     for cid in order:
+        claims[cid]["claim"] = tidy(claims[cid]["claim"])
+        claims[cid]["claim_points"] = sentences(claims[cid]["claim"])
         kept = []
         for par in claims[cid]["parents"]:
             if par in claims and par != cid:
@@ -352,7 +538,7 @@ def merge(index, claim_files, reports, base):
         s, t = canon(r.get("source")), canon(r.get("target"))
         if not s or not t or s == t:
             return
-        label = clean_str(r.get("label")) or "linked to"
+        label = clean_label(r.get("label")) or "linked to"
         rtype = slugify(r.get("type")) or "commercial"
         if rtype not in REL_TYPES:
             warn(f"relationship {s} -> {t}: unknown type {rtype!r} ({origin})")
@@ -390,35 +576,51 @@ def merge(index, claim_files, reports, base):
                 c["title"] = clean_str(d["title"])
             c["verdict"] = norm_verdict(d.get("verdict"), f"in {cid}")
             c["confidence"] = slugify(d.get("confidence")) or ""
-            c["summary"] = clean_str(d.get("summary"))
+            c["summary"] = tidy(d.get("summary"))
+            sm = sentences(c["summary"])
+            c["bottom_line"] = sm[0] if sm else ""
+            c["summary_points"] = sm[1:]
             subs = []
             for s in as_list(d.get("sub_claims")):
                 if isinstance(s, str):
                     s = {"statement": s}
                 if not isinstance(s, dict):
                     continue
+                finding = tidy(s.get("finding"))
+                grade, points = split_grade(sentences(finding))
+                amounts, dates = figures(finding)
                 subs.append({
-                    "statement": clean_str(s.get("statement")),
+                    "statement": tidy(s.get("statement")),
                     "verdict": norm_verdict(s.get("verdict"), f"in {cid} sub-claim"),
-                    "finding": clean_str(s.get("finding")),
+                    "finding": finding,
+                    "grade": grade,
+                    "points": points,
+                    "amounts": amounts,
+                    "dates": dates,
                     "sources": [u for u in as_list(s.get("sources")) if isinstance(u, str)],
                 })
             c["sub_claims"] = subs
-            c["corrections"] = [x for x in as_list(d.get("corrections")) if isinstance(x, str)]
-            c["denials_and_context"] = [x for x in as_list(d.get("denials_and_context")) if isinstance(x, str)]
+            c["corrections"] = [tidy(x) for x in as_list(d.get("corrections")) if isinstance(x, str) and x.strip()]
+            c["correction_pairs"] = [correction_pair(x) for x in c["corrections"]]
+            c["denials_and_context"] = [tidy(x) for x in as_list(d.get("denials_and_context")) if isinstance(x, str) and x.strip()]
+            c["denial_points"] = [sentences(x) for x in c["denials_and_context"]]
+            au = d.get("audit")
+            if isinstance(au, dict) and clean_str(au.get("result")):
+                c["audit"] = {"result": slugify(au.get("result")), "scope": tidy(au.get("scope"))}
             srcs = []
             for s in as_list(d.get("sources")):
                 if isinstance(s, str):
                     s = {"url": s}
                 if isinstance(s, dict):
-                    srcs.append({"title": clean_str(s.get("title")), "publisher": clean_str(s.get("publisher")),
+                    srcs.append({"title": tidy(s.get("title")), "publisher": tidy(s.get("publisher")),
                                  "url": clean_str(s.get("url")), "date": clean_str(str(s.get("date") or ""))})
             c["sources"] = srcs
             leads = []
             for l in as_list(d.get("leads")):
                 if isinstance(l, dict):
-                    leads.append({"title": clean_str(l.get("title")),
-                                  "why_connected": clean_str(l.get("why_connected")),
+                    leads.append({"title": cap_first(tidy(l.get("title"))),
+                                  "why_connected": tidy(l.get("why_connected")),
+                                  "why_points": sentences(l.get("why_connected")),
                                   "entities": [canon(x) for x in as_list(l.get("entities")) if x],
                                   "source_url": clean_str(l.get("source_url"))})
             c["leads"] = leads
@@ -436,8 +638,9 @@ def merge(index, claim_files, reports, base):
                         if eid:
                             claim_ents[cid].setdefault(eid, False)
         else:
-            c.update({"verdict": "pending", "confidence": "", "summary": "", "sub_claims": [],
-                      "corrections": [], "denials_and_context": [], "sources": [], "leads": []})
+            c.update({"verdict": "pending", "confidence": "", "summary": "", "bottom_line": "",
+                      "summary_points": [], "sub_claims": [], "corrections": [], "correction_pairs": [],
+                      "denials_and_context": [], "denial_points": [], "sources": [], "leads": []})
             if rep:   # a report without its JSON yet: take the headline verdict from it
                 m = re.search(r"\*\*\s*Verdict:?\s*\**\s*([A-Za-z][A-Za-z \-]+?)\s*\**\s*(\(|$|\.|,|;|\u2014|\*)",
                               rep[1], re.M | re.I)
@@ -533,8 +736,9 @@ def merge(index, claim_files, reports, base):
                 tents.append(eid)
             else:
                 warn(f"theme {tid}: unknown entity {raw}")
-        themes.append({"id": tid, "name": clean_str(t.get("name")) or title_from_id(tid),
-                       "description": clean_str(t.get("description")),
+        themes.append({"id": tid, "name": cap_first(clean_name(t.get("name"))) or title_from_id(tid),
+                       "description": tidy(t.get("description")),
+                       "points": sentences(t.get("description")),
                        "claims": sorted(set(tclaims), key=claim_sort_key),
                        "entities": sorted(set(tents))})
 
@@ -572,7 +776,7 @@ def assemble(claims, order, entities, rels, claim_ents, themes):
         nodes.append(n)
     for t in themes:
         n = {"key": "t:" + t["id"], "kind": "theme", "hash": uniq_hash(t["id"] if t["id"].startswith("theme-") else "theme-" + t["id"]),
-             "id": t["id"], "name": t["name"], "description": t["description"],
+             "id": t["id"], "name": t["name"], "description": t["description"], "points": t["points"],
              "claims": t["claims"], "entities": ["e:" + e for e in t["entities"]]}
         nodes.append(n)
     for n in nodes:
@@ -620,6 +824,7 @@ def assemble(claims, order, entities, rels, claim_ents, themes):
             "verified": sum(1 for c in order if claims[c]["verified"]),
             "video_claims": sum(1 for c in order if claims[c]["origin"] == "video"),
             "followups": sum(1 for c in order if claims[c]["origin"] == "follow-up"),
+            "connection_hunts": sum(1 for c in order if claims[c]["origin"] == "connection-hunt"),
             "entities": len(entities),
             "themes": len(themes),
             "relationships": len(rel_out),
@@ -917,7 +1122,8 @@ def main():
     print(f"  themes         {m['themes']:>4}" + ("" if base else "   (data/base-graph.json not found)"))
     print(f"  relationships  {m['relationships']:>4}")
     print(f"  graph nodes    {len(graph['nodes']):>4}   edges {len(graph['links']) + len(graph['rels'])}")
-    print(f"  origin         {m['video_claims']} from the video, {m['followups']} follow-up")
+    print(f"  origin         {m['video_claims']} from the video, {m['followups']} follow-up, "
+          f"{m['connection_hunts']} connection hunt")
     print("  verdicts       " + ", ".join(f"{v} {m['tally'][v]}" for v in VERDICTS if m["tally"][v]))
     top = sorted((n for n in graph["nodes"] if n["kind"] == "entity"), key=lambda n: -n["degree"])[:8]
     print("  most connected " + ", ".join(f"{n['name']} ({n['degree']})" for n in top))

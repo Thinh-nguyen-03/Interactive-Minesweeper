@@ -17,7 +17,7 @@
     {
       "statement": "Shortly after the UAE-Trump crypto deals began, the chips deal was approved.",
       "verdict": "confirmed",
-      "finding": "Aryam (Tahnoon-linked) agreed to buy 49% of WLF on 2025-01-16 (WSJ). USD1 was announced for MGX's $2B Binance deal on 2025-05-01. The US-UAE AI Acceleration Partnership and 5GW G42 campus were announced around 2025-05-15, with press reports of up to 500k Nvidia chips per year. Licences followed in Sept 2025 (Microsoft) and Nov 2025 (35,000 units to G42). The sequence is accurate; the NYT found no evidence of an explicit exchange.",
+      "finding": "Aryam (Tahnoon-linked) agreed to buy 49% of WLF on 2025-01-16 (WSJ). USD1 was announced for MGX's $2B Binance deal on 2025-05-01. The US-UAE AI Acceleration Partnership and 5GW G42 campus were announced around 2025-05-15, with press reports of up to 500k Nvidia chips per year. Licences followed: Microsoft's licence for about 60,400 A100-equivalents (including GB300s) was granted in Sept 2025 and disclosed 2025-11-03, and on 2025-11-19 Commerce approved G42 (and Saudi Humain) to buy up to 35,000 Nvidia GB300 equivalents each. The sequence is accurate; the NYT found no evidence of an explicit exchange.",
       "sources": [
         "https://the-decoder.com/nyt-uae-poured-billions-into-trump-linked-crypto-firm-as-u-s-weighed-chip-deal/",
         "https://www.business-standard.com/amp/world-news/trump-envoy-steve-witkoff-uae-deals-crypto-chips-tahnoon-125091600331_1.html",
@@ -25,7 +25,9 @@
         "https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal",
         "https://www.meed.com/us-and-uae-agree-5gw-artificial-intelligence-campus",
         "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-finally-grants-nvidia-license-to-ship-ai-gpus-to-uae-500-000-blackwell-gpus-coming-to-the-gulf-region",
-        "https://agbi.com/analysis/trade/2026/07/us-export-rules-keep-uae-in-ai-technology-slow-lane/"
+        "https://agbi.com/analysis/trade/2026/07/us-export-rules-keep-uae-in-ai-technology-slow-lane/",
+        "https://news.bgov.com/artificial-intelligence/nvidia-chip-sales-to-g42-humain-approved-by-commerce-department",
+        "https://www.implicator.ai/microsoft-gets-a-rare-u-s-export-license-for-uae-ai-chips/"
       ]
     },
     {
@@ -50,18 +52,19 @@
     {
       "statement": "Trump said a currency swap/financial help for the UAE during the Iran crisis was under consideration because it has been 'a good ally'.",
       "verdict": "mostly-accurate",
-      "finding": "In a CNBC interview on 2026-04-21, during the US-Israeli war with Iran, Trump said a swap with the UAE was 'under consideration' and called it 'a good ally'. The video's paraphrase that he 'would financially assist' overstates this. US officials said no formal request had been made, the UAE denied liquidity stress, and Bessent backed the idea. No swap line had been reported as finalized as of mid-2026.",
+      "finding": "In a CNBC interview on 2026-04-21, during the US-Israeli war with Iran, Trump said a swap with the UAE was 'under consideration' and called it 'a good ally'. The video's paraphrase that he 'would financially assist' overstates this. US officials said no formal request had been made, the UAE denied liquidity stress, and Bessent backed the idea. No swap line had been reported as finalized as of mid-2026. A later commentary (Express Tribune, 2026-08-10) said Washington had still not given a formal answer to the UAE's swap-line request; no signed swap line was found as of Nov 2026.",
       "sources": [
         "https://www.bloomberg.com/news/articles/2026-04-21/trump-says-currency-swap-with-uae-is-under-consideration",
         "https://www.bloomberg.com/news/articles/2026-04-19/uae-in-talks-with-us-for-possible-financial-lifeline-wsj-says",
         "https://www.thenationalnews.com/news/us/2026/04/21/uae-economy-highly-resilient-ambassador-to-us-says-after-trump-discusses-potential-currency-swap/",
-        "https://www.aljazeera.com/amp/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines"
+        "https://www.aljazeera.com/amp/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines",
+        "https://tribune.com.pk/story/2622996/swap-lines-as-diplomatic-currency"
       ]
     }
   ],
   "corrections": [
     "Transcript says the US 'had refused' the chip deals; the record shows Biden-era delays, tier-2 caps and partial approvals (Dec 2024), not a blanket refusal.",
-    "Transcript says Trump 'said he would financially assist the UAE'; he said a currency swap was 'under consideration', and no swap line had been reported as signed as of mid-2026.",
+    "Transcript says Trump 'said he would financially assist the UAE'; he said a currency swap was 'under consideration', and no swap line had been reported as signed as of August 2026 (none found through Nov 2026).",
     "The chip framework was announced ~2025-05-15; actual export licences came in Sept and Nov 2025.",
     "MGX's Stargate role was announced 2025-01-21, before the USD1/MGX deal, so it is not a subsequent benefit."
   ],
@@ -186,6 +189,30 @@
       "publisher": "US Senate Banking Committee",
       "url": "https://www.banking.senate.gov/imo/media/doc/americannationalsecurityforsalebhuaminoritystaffreport.pdf",
       "date": "2025"
+    },
+    {
+      "title": "Nvidia Chip Sales to G42, Humain Approved by Commerce Department",
+      "publisher": "Bloomberg Government",
+      "url": "https://news.bgov.com/artificial-intelligence/nvidia-chip-sales-to-g42-humain-approved-by-commerce-department",
+      "date": "2025-11-19"
+    },
+    {
+      "title": "Microsoft gets a rare U.S. export license for UAE AI chips",
+      "publisher": "Implicator.ai",
+      "url": "https://www.implicator.ai/microsoft-gets-a-rare-u-s-export-license-for-uae-ai-chips/",
+      "date": "2025-11-03"
+    },
+    {
+      "title": "Swap lines as diplomatic currency",
+      "publisher": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622996/swap-lines-as-diplomatic-currency",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Scott Bessent's 'Swap Diplomacy': A New Front for US Treasury",
+      "publisher": "The Global Treasurer",
+      "url": "https://www.theglobaltreasurer.com/2026/04/24/scott-bessents-swap-diplomacy-a-new-front-for-us-treasury/",
+      "date": "2026-04-24"
     }
   ],
   "entities": [
@@ -586,5 +613,43 @@
       "type": "media",
       "date": "2026-02-01"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Timing and size of chip approvals (Microsoft Sept 2025 licence; G42 35,000 GB300s on 2025-11-19)",
+      "Trump's 2026-04-21 'under consideration' / 'good ally' swap remarks",
+      "Whether any US-UAE swap line was finalized through Nov 2026"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Made the licence details precise: Microsoft licence granted Sept 2025 but disclosed 2025-11-03; G42 approval of up to 35,000 GB300 equivalents dated 2025-11-19.",
+      "Extended the swap-line status: as of an 2026-08-10 report Washington had not formally answered the UAE request; no signed line found through Nov 2026. Updated the correction wording from 'mid-2026'."
+    ],
+    "new_sources": [
+      {
+        "title": "Nvidia Chip Sales to G42, Humain Approved by Commerce Department",
+        "publisher": "Bloomberg Government",
+        "url": "https://news.bgov.com/artificial-intelligence/nvidia-chip-sales-to-g42-humain-approved-by-commerce-department",
+        "date": "2025-11-19"
+      },
+      {
+        "title": "Microsoft gets a rare U.S. export license for UAE AI chips",
+        "publisher": "Implicator.ai",
+        "url": "https://www.implicator.ai/microsoft-gets-a-rare-u-s-export-license-for-uae-ai-chips/",
+        "date": "2025-11-03"
+      },
+      {
+        "title": "Swap lines as diplomatic currency",
+        "publisher": "The Express Tribune",
+        "url": "https://tribune.com.pk/story/2622996/swap-lines-as-diplomatic-currency",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Scott Bessent's 'Swap Diplomacy': A New Front for US Treasury",
+        "publisher": "The Global Treasurer",
+        "url": "https://www.theglobaltreasurer.com/2026/04/24/scott-bessents-swap-diplomacy-a-new-front-for-us-treasury/",
+        "date": "2026-04-24"
+      }
+    ]
+  }
 }

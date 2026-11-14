@@ -5,18 +5,71 @@
   "confidence": "high",
   "summary": "The SEC dismissed its case against Binance and Zhao with prejudice on May 29, 2025. Trump pardoned Zhao on Oct 22-23, 2025, and on 60 Minutes (Nov 2, 2025) said 'I don't know who he is'. On the All-In podcast (about Feb 2026), Zhao said he 'didn't do much' to get the pardon and that without it Binance could hardly enter the US properly. The video wrongly has Binance doing the $2B deal: MGX invested $2B in Binance, settled in USD1. Its quid-pro-quo insinuation rests on a documented sequence of events, with no proof of causation.",
   "sub_claims": [
-    {"statement": "The SEC lawsuit against Binance was dropped.", "verdict": "confirmed", "finding": "The SEC, Binance and Zhao filed a joint stipulation of dismissal with prejudice on May 29, 2025 (reported May 30), ending the June 2023 civil suit. The SEC cited discretion and policy. This was separate from the 2023 DOJ guilty pleas, which stand.", "sources": ["https://finance.yahoo.com/news/us-sec-voluntarily-dismisses-lawsuit-211512870.html", "https://www.reedsmith.com/our-insights/blogs/viewpoints/102kcye/sec-drops-binance-suit/"]},
-    {"statement": "Later, Trump pardoned Binance founder Changpeng Zhao.", "verdict": "confirmed", "finding": "Trump signed the pardon on Oct 22, 2025, and the White House announced it on Oct 23, about five months after the SEC dismissal. Leavitt called the prosecution Biden overreach with no fraud victims and said the White House Counsel reviewed the pardon.", "sources": ["https://kvia.com/politics/cnn-us-politics/2025/10/23/trump-pardons-binance-founder-changpeng-zhao", "https://www.theblock.co/post/375917/president-trump-pardons-former-binance-ceo-changpeng-zhao/"]},
-    {"statement": "Binance is doing the $2 billion stablecoin deal.", "verdict": "partly-accurate", "finding": "MGX (Abu Dhabi) invested $2B in Binance, announced Mar 12, 2025. On May 1, 2025, Zach Witkoff said the deal would settle in WLF's USD1. Binance was the recipient, and its CEO denies any role in choosing USD1.", "sources": ["https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal", "https://cointelegraph.com/news/binance-richard-teng-denies-donald-trump-stablecoin"]},
-    {"statement": "Trump said 'I don't know who he is' about Zhao.", "verdict": "confirmed", "finding": "On CBS 60 Minutes (aired Nov 2, 2025), Trump said 'Okay, are you ready? I don't know who he is', said he didn't think he had met Zhao ('maybe I did'), and called the case a 'Biden witch hunt'.", "sources": ["https://nbcnews.com/politics/donald-trump/trump-knows-nothing-crypto-billionaire-cz-binance-pardon-biden-rcna241584", "https://www.nationalreview.com/corner/trump-on-changpeng-zhao-who-he-pardoned-i-dont-know-who-he-is/amp/", "https://gizmodo.com/trump-60-minutes-edited-crypto-binance-2000680807"]},
-    {"statement": "CZ said he didn't do anything to get the pardon but that without it Binance is severely limited in the US.", "verdict": "mostly-accurate", "finding": "DL News reports Zhao said on the All-In podcast (about Feb 10, 2026) that he 'didn't do much' and that 'without the pardon it's quite hard for Binance to enter the US in a proper way'. The 'UBO' and 'severely limited' lines are consistent with this but were not verified verbatim. Zhao had applied for the pardon in about May 2025.", "sources": ["https://www.dlnews.com/articles/people-culture/binance-founder-cz-says-he-didnt-do-much-to-get-trump-pardon/", "https://podwise.ai/episodes/7155582", "https://www.theblock.co/news/business/2025-05-08-binance-founder-cz-confirms-filing-for-presidential-pardon-from-trump-353570"]},
-    {"statement": "Implied: the USD1 investment, benefit to the Trump family and the pardon are linked ('just a couple of coincidences').", "verdict": "unverified", "finding": "The sequence is documented: the $2B in USD1, a WSJ report that Binance engineers helped build USD1, Zhao's lobbying, then the pardon. No public evidence shows a quid pro quo, and Zhao and Binance deny any link.", "sources": ["https://san.com/cc/ex-binance-ceo-pardoned-after-his-firm-helped-trump-family-make-billions-wsj/", "https://www.foxnews.com/media/crypto-founder-pardoned-trump-denies-having-ties-trump-family"]}
+    {
+      "statement": "The SEC lawsuit against Binance was dropped.",
+      "verdict": "confirmed",
+      "finding": "The SEC, Binance and Zhao filed a joint stipulation of dismissal with prejudice on May 29, 2025 (reported May 30), ending the June 2023 civil suit. The SEC cited discretion and policy. This was separate from the 2023 DOJ guilty pleas, which stand.",
+      "sources": [
+        "https://finance.yahoo.com/news/us-sec-voluntarily-dismisses-lawsuit-211512870.html",
+        "https://www.reedsmith.com/our-insights/blogs/viewpoints/102kcye/sec-drops-binance-suit/"
+      ]
+    },
+    {
+      "statement": "Later, Trump pardoned Binance founder Changpeng Zhao.",
+      "verdict": "confirmed",
+      "finding": "Trump signed the pardon on Oct 22, 2025, and the White House announced it on Oct 23, about five months after the SEC dismissal. Leavitt called the prosecution Biden overreach with no fraud victims and said the White House Counsel reviewed the pardon.",
+      "sources": [
+        "https://kvia.com/politics/cnn-us-politics/2025/10/23/trump-pardons-binance-founder-changpeng-zhao",
+        "https://www.theblock.co/post/375917/president-trump-pardons-former-binance-ceo-changpeng-zhao/"
+      ]
+    },
+    {
+      "statement": "Binance is doing the $2 billion stablecoin deal.",
+      "verdict": "partly-accurate",
+      "finding": "MGX (Abu Dhabi) invested $2B in Binance, announced Mar 12, 2025. On May 1, 2025, Zach Witkoff said the deal would settle in WLF's USD1. Binance was the recipient, and its CEO denies any role in choosing USD1.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal",
+        "https://cointelegraph.com/news/binance-richard-teng-denies-donald-trump-stablecoin"
+      ]
+    },
+    {
+      "statement": "Trump said 'I don't know who he is' about Zhao.",
+      "verdict": "confirmed",
+      "finding": "On CBS 60 Minutes (aired Nov 2, 2025), Trump said 'Okay, are you ready? I don't know who he is', said he didn't think he had met Zhao ('maybe I did'), and called the case a 'Biden witch hunt'.",
+      "sources": [
+        "https://nbcnews.com/politics/donald-trump/trump-knows-nothing-crypto-billionaire-cz-binance-pardon-biden-rcna241584",
+        "https://www.nationalreview.com/corner/trump-on-changpeng-zhao-who-he-pardoned-i-dont-know-who-he-is/amp/",
+        "https://gizmodo.com/trump-60-minutes-edited-crypto-binance-2000680807"
+      ]
+    },
+    {
+      "statement": "CZ said he didn't do anything to get the pardon but that without it Binance is severely limited in the US.",
+      "verdict": "mostly-accurate",
+      "finding": "DL News reports Zhao said on the All-In podcast (about Feb 10, 2026) that he 'didn't do much' and that 'without the pardon it's quite hard for Binance to enter the US in a proper way'. The 'UBO' and 'severely limited' lines are consistent with this but were not verified verbatim. Zhao had applied for the pardon in about May 2025.",
+      "sources": [
+        "https://www.dlnews.com/articles/people-culture/binance-founder-cz-says-he-didnt-do-much-to-get-trump-pardon/",
+        "https://podwise.ai/episodes/7155582",
+        "https://www.theblock.co/news/business/2025-05-08-binance-founder-cz-confirms-filing-for-presidential-pardon-from-trump-353570"
+      ]
+    },
+    {
+      "statement": "Implied: the USD1 investment, benefit to the Trump family and the pardon are linked ('just a couple of coincidences').",
+      "verdict": "unverified",
+      "finding": "The sequence is documented: the $2B in USD1, reports (first Bloomberg in July 2025, citing three anonymous sources, then the WSJ) that Binance wrote USD1's basic smart-contract code or helped build its technology, which Binance, Zhao ('FUD') and WLF ('factually deficient') dispute, Zhao's lobbying, then the pardon. No public evidence shows a quid pro quo, and Zhao and Binance deny any link.",
+      "sources": [
+        "https://san.com/cc/ex-binance-ceo-pardoned-after-his-firm-helped-trump-family-make-billions-wsj/",
+        "https://www.foxnews.com/media/crypto-founder-pardoned-trump-denies-having-ties-trump-family",
+        "https://www.dlnews.com/articles/people-culture/binance-changpeng-cz-zhao-bloomberg-trump-stablecoin-fud/",
+        "https://cointelegraph.com/news/binance-cz-sue-bloomberg-trump-stablecoin-report"
+      ]
+    }
   ],
   "corrections": [
     "Transcript says Binance is 'doing' the $2B stablecoin deal; the record shows MGX invested $2B into Binance, with the deal settled in USD1.",
     "Transcript says Trump 'firmly denies knowing' Zhao; Trump said he didn't think he had met him and added 'maybe I did'.",
     "The SEC dismissal (May 29, 2025) was with prejudice and also covered Zhao personally. The pardon followed on Oct 22-23, 2025.",
-    "The CZ quote comes from the All-In podcast (about Feb 2026). Its 'UBO' and 'severely limited' wording is not independently verified."
+    "The CZ quote comes from the All-In podcast (about Feb 2026). Its 'UBO' and 'severely limited' wording is not independently verified.",
+    "The write-up attributed the 'Binance helped build USD1' report to the WSJ alone; it originated with Bloomberg (July 2025, anonymous sources) and was later echoed by the WSJ. It is disputed by Binance, Zhao and WLF, so it is an allegation, not an established fact."
   ],
   "denials_and_context": [
     "White House (Leavitt): the Biden DOJ overreached, there were no fraud victims, and the White House Counsel vetted the pardon.",
@@ -26,77 +79,499 @@
     "The SEC civil case was separate from the 2023 criminal guilty pleas ($4.3B penalty for Binance; 4 months in prison for Zhao). Dropping the SEC case did not erase the criminal conviction."
   ],
   "sources": [
-    {"title": "US SEC dismisses lawsuit against Binance crypto exchange", "publisher": "Reuters via Yahoo Finance", "url": "https://finance.yahoo.com/news/us-sec-voluntarily-dismisses-lawsuit-211512870.html", "date": "2025-05-30"},
-    {"title": "SEC Dismisses Lawsuit Against Binance Crypto Exchange", "publisher": "Insurance Journal (Reuters)", "url": "https://amp.insurancejournal.com/news/national/2025/05/30/825659.htm", "date": "2025-05-30"},
-    {"title": "SEC drops Binance suit", "publisher": "Reed Smith", "url": "https://www.reedsmith.com/our-insights/blogs/viewpoints/102kcye/sec-drops-binance-suit/", "date": "2025-05"},
-    {"title": "Trump pardons Binance founder Changpeng Zhao", "publisher": "CNN via KVIA", "url": "https://kvia.com/politics/cnn-us-politics/2025/10/23/trump-pardons-binance-founder-changpeng-zhao", "date": "2025-10-23"},
-    {"title": "President Trump pardons former Binance CEO Changpeng Zhao", "publisher": "The Block", "url": "https://www.theblock.co/post/375917/president-trump-pardons-former-binance-ceo-changpeng-zhao/", "date": "2025-10-23"},
-    {"title": "Trump-Tied Stablecoin Used for MGX's $2 Billion Binance Deal", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal", "date": "2025-05-01"},
-    {"title": "Trump's stablecoin chosen for $2 billion Abu Dhabi investment in Binance, co-founder says", "publisher": "Fox Business (Reuters)", "url": "https://www.foxbusiness.com/markets/trumps-stablecoin-chosen-2-billion-abu-dhabi-investment-binance-co-founder-says", "date": "2025-05-01"},
-    {"title": "Binance CEO Richard Teng denies role in Trump stablecoin", "publisher": "Cointelegraph", "url": "https://cointelegraph.com/news/binance-richard-teng-denies-donald-trump-stablecoin", "date": "2025-11"},
-    {"title": "Trump says he knows 'nothing' about the crypto billionaire he pardoned", "publisher": "NBC News", "url": "https://nbcnews.com/politics/donald-trump/trump-knows-nothing-crypto-billionaire-cz-binance-pardon-biden-rcna241584", "date": "2025-11-02"},
-    {"title": "Trump '60 Minutes' Interview: Says He Doesn't Know Who Binance Founder Is Despite Pardoning Him", "publisher": "Forbes", "url": "https://www.forbes.com/sites/siladityaray/2025/11/03/trump-60-minutes-interview-says-he-doesnt-know-who-binance-founder-is-despite-pardoning-him/", "date": "2025-11-03"},
-    {"title": "Trump on Changpeng Zhao, who he pardoned: 'I don't know who he is'", "publisher": "National Review", "url": "https://www.nationalreview.com/corner/trump-on-changpeng-zhao-who-he-pardoned-i-dont-know-who-he-is/amp/", "date": "2025-11-03"},
-    {"title": "Trump 60 Minutes interview edited crypto Binance exchange", "publisher": "Gizmodo", "url": "https://gizmodo.com/trump-60-minutes-edited-crypto-binance-2000680807", "date": "2025-11"},
-    {"title": "Binance founder Changpeng Zhao says he 'didn't do much' to get Trump pardon", "publisher": "DL News", "url": "https://www.dlnews.com/articles/people-culture/binance-founder-cz-says-he-didnt-do-much-to-get-trump-pardon/", "date": "2026-02"},
-    {"title": "All-In: Binance CEO: 4 Months in Prison, $4 Billion Fine, and What Comes Next (episode listing)", "publisher": "Podwise", "url": "https://podwise.ai/episodes/7155582", "date": "2026-02-10"},
-    {"title": "Binance founder CZ confirms filing for presidential pardon from Trump", "publisher": "The Block", "url": "https://www.theblock.co/news/business/2025-05-08-binance-founder-cz-confirms-filing-for-presidential-pardon-from-trump-353570", "date": "2025-05-08"},
-    {"title": "Binance founder Changpeng Zhao admits he was surprised by Trump pardon, denies having ties to Trump family", "publisher": "Fox News", "url": "https://www.foxnews.com/media/crypto-founder-pardoned-trump-denies-having-ties-trump-family", "date": "2025-11"},
-    {"title": "Ex-Binance CEO pardoned after his firm helped Trump family make billions: WSJ", "publisher": "Straight Arrow News", "url": "https://san.com/cc/ex-binance-ceo-pardoned-after-his-firm-helped-trump-family-make-billions-wsj/", "date": "2025-10"},
-    {"title": "Binance.US responds to criticism over Trump-linked crypto listings after Chris Murphy accuses platform", "publisher": "Benzinga", "url": "https://benzinga.com/crypto/cryptocurrency/25/10/48519650/binance-us-responds-to-criticism-over-trump-linked-crypto-listings-after-chris-murphy-accuses-platform-of-promotion-after-czs-pardon", "date": "2025-10"},
-    {"title": "Pardoned Binance founder Zhao says his business relationship with the Trumps was 'misconstrued'", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/01/23/pardon-binance-founder-cz-trump.html", "date": "2026-01-23"}
+    {
+      "title": "US SEC dismisses lawsuit against Binance crypto exchange",
+      "publisher": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/us-sec-voluntarily-dismisses-lawsuit-211512870.html",
+      "date": "2025-05-30"
+    },
+    {
+      "title": "SEC Dismisses Lawsuit Against Binance Crypto Exchange",
+      "publisher": "Insurance Journal (Reuters)",
+      "url": "https://amp.insurancejournal.com/news/national/2025/05/30/825659.htm",
+      "date": "2025-05-30"
+    },
+    {
+      "title": "SEC drops Binance suit",
+      "publisher": "Reed Smith",
+      "url": "https://www.reedsmith.com/our-insights/blogs/viewpoints/102kcye/sec-drops-binance-suit/",
+      "date": "2025-05"
+    },
+    {
+      "title": "Trump pardons Binance founder Changpeng Zhao",
+      "publisher": "CNN via KVIA",
+      "url": "https://kvia.com/politics/cnn-us-politics/2025/10/23/trump-pardons-binance-founder-changpeng-zhao",
+      "date": "2025-10-23"
+    },
+    {
+      "title": "President Trump pardons former Binance CEO Changpeng Zhao",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/375917/president-trump-pardons-former-binance-ceo-changpeng-zhao/",
+      "date": "2025-10-23"
+    },
+    {
+      "title": "Trump-Tied Stablecoin Used for MGX's $2 Billion Binance Deal",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal",
+      "date": "2025-05-01"
+    },
+    {
+      "title": "Trump's stablecoin chosen for $2 billion Abu Dhabi investment in Binance, co-founder says",
+      "publisher": "Fox Business (Reuters)",
+      "url": "https://www.foxbusiness.com/markets/trumps-stablecoin-chosen-2-billion-abu-dhabi-investment-binance-co-founder-says",
+      "date": "2025-05-01"
+    },
+    {
+      "title": "Binance CEO Richard Teng denies role in Trump stablecoin",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-richard-teng-denies-donald-trump-stablecoin",
+      "date": "2025-11"
+    },
+    {
+      "title": "Trump says he knows 'nothing' about the crypto billionaire he pardoned",
+      "publisher": "NBC News",
+      "url": "https://nbcnews.com/politics/donald-trump/trump-knows-nothing-crypto-billionaire-cz-binance-pardon-biden-rcna241584",
+      "date": "2025-11-02"
+    },
+    {
+      "title": "Trump '60 Minutes' Interview: Says He Doesn't Know Who Binance Founder Is Despite Pardoning Him",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/siladityaray/2025/11/03/trump-60-minutes-interview-says-he-doesnt-know-who-binance-founder-is-despite-pardoning-him/",
+      "date": "2025-11-03"
+    },
+    {
+      "title": "Trump on Changpeng Zhao, who he pardoned: 'I don't know who he is'",
+      "publisher": "National Review",
+      "url": "https://www.nationalreview.com/corner/trump-on-changpeng-zhao-who-he-pardoned-i-dont-know-who-he-is/amp/",
+      "date": "2025-11-03"
+    },
+    {
+      "title": "Trump 60 Minutes interview edited crypto Binance exchange",
+      "publisher": "Gizmodo",
+      "url": "https://gizmodo.com/trump-60-minutes-edited-crypto-binance-2000680807",
+      "date": "2025-11"
+    },
+    {
+      "title": "Binance founder Changpeng Zhao says he 'didn't do much' to get Trump pardon",
+      "publisher": "DL News",
+      "url": "https://www.dlnews.com/articles/people-culture/binance-founder-cz-says-he-didnt-do-much-to-get-trump-pardon/",
+      "date": "2026-02"
+    },
+    {
+      "title": "All-In: Binance CEO: 4 Months in Prison, $4 Billion Fine, and What Comes Next (episode listing)",
+      "publisher": "Podwise",
+      "url": "https://podwise.ai/episodes/7155582",
+      "date": "2026-02-10"
+    },
+    {
+      "title": "Binance founder CZ confirms filing for presidential pardon from Trump",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2025-05-08-binance-founder-cz-confirms-filing-for-presidential-pardon-from-trump-353570",
+      "date": "2025-05-08"
+    },
+    {
+      "title": "Binance founder Changpeng Zhao admits he was surprised by Trump pardon, denies having ties to Trump family",
+      "publisher": "Fox News",
+      "url": "https://www.foxnews.com/media/crypto-founder-pardoned-trump-denies-having-ties-trump-family",
+      "date": "2025-11"
+    },
+    {
+      "title": "Ex-Binance CEO pardoned after his firm helped Trump family make billions: WSJ",
+      "publisher": "Straight Arrow News",
+      "url": "https://san.com/cc/ex-binance-ceo-pardoned-after-his-firm-helped-trump-family-make-billions-wsj/",
+      "date": "2025-10"
+    },
+    {
+      "title": "Binance.US responds to criticism over Trump-linked crypto listings after Chris Murphy accuses platform",
+      "publisher": "Benzinga",
+      "url": "https://benzinga.com/crypto/cryptocurrency/25/10/48519650/binance-us-responds-to-criticism-over-trump-linked-crypto-listings-after-chris-murphy-accuses-platform-of-promotion-after-czs-pardon",
+      "date": "2025-10"
+    },
+    {
+      "title": "Pardoned Binance founder Zhao says his business relationship with the Trumps was 'misconstrued'",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/01/23/pardon-binance-founder-cz-trump.html",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "CZ calls Bloomberg report on Trump stablecoin FUD (title paraphrased from URL)",
+      "publisher": "DL News",
+      "url": "https://www.dlnews.com/articles/people-culture/binance-changpeng-cz-zhao-bloomberg-trump-stablecoin-fud/",
+      "date": "2025-07"
+    },
+    {
+      "title": "Binance's CZ threatens to sue Bloomberg over Trump stablecoin report",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-cz-sue-bloomberg-trump-stablecoin-report",
+      "date": "2025-07"
+    },
+    {
+      "title": "US SEC dismisses lawsuit against Binance crypto exchange",
+      "publisher": "PYMNTS",
+      "url": "https://www.pymnts.com/cpi-posts/sec-ends-binance-lawsuit-amid-shift-in-crypto-policy",
+      "date": "2025-05-30"
+    },
+    {
+      "title": "Trump pardons Changpeng Zhao",
+      "publisher": "The Washington Times",
+      "url": "https://m.washingtontimes.com/news/2025/oct/23/trump-pardons-changpeng-zhao-founded-one-worlds-largest-crypto/",
+      "date": "2025-10-23"
+    }
   ],
   "entities": [
-    {"id": "binance", "name": "Binance", "type": "company", "description": "World's largest crypto exchange, founded by Changpeng Zhao."},
-    {"id": "changpeng-zhao", "name": "Changpeng Zhao (CZ)", "type": "person", "description": "Binance founder; pleaded guilty to an AML violation in 2023 and was pardoned in Oct 2025."},
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US President who pardoned Zhao."},
-    {"id": "sec", "name": "U.S. Securities and Exchange Commission", "type": "government", "description": "Dismissed its Binance/Zhao suit with prejudice in May 2025."},
-    {"id": "cz-pardon", "name": "Pardon of Changpeng Zhao", "type": "event", "description": "Full pardon signed Oct 22, 2025 and announced Oct 23, 2025."},
-    {"id": "white-house", "name": "White House", "type": "government", "description": "Announced and defended the pardon."},
-    {"id": "karoline-leavitt", "name": "Karoline Leavitt", "type": "person", "description": "White House press secretary who defended the pardon."},
-    {"id": "mgx", "name": "MGX", "type": "fund", "description": "Abu Dhabi AI/tech investment firm; invested $2B in Binance."},
-    {"id": "tahnoon-bin-zayed", "name": "Tahnoon bin Zayed Al Nahyan", "type": "person", "description": "UAE national security adviser and MGX chairman."},
-    {"id": "uae", "name": "United Arab Emirates", "type": "country", "description": "Home of MGX."},
-    {"id": "usd1", "name": "USD1", "type": "asset", "description": "World Liberty Financial's dollar stablecoin, used to settle the MGX-Binance deal."},
-    {"id": "world-liberty-financial", "name": "World Liberty Financial", "type": "company", "description": "Trump-family-linked crypto venture that issues USD1."},
-    {"id": "zach-witkoff", "name": "Zach Witkoff", "type": "person", "description": "WLF co-founder who announced USD1 would settle the MGX deal."},
-    {"id": "eric-trump", "name": "Eric Trump", "type": "person", "description": "Trump son involved in WLF; appeared at the Token2049 announcement."},
-    {"id": "donald-trump-jr", "name": "Donald Trump Jr.", "type": "person", "description": "Trump son and WLF co-founder."},
-    {"id": "richard-teng", "name": "Richard Teng", "type": "person", "description": "Binance CEO; denies Binance had a role in choosing USD1."},
-    {"id": "elizabeth-warren", "name": "Elizabeth Warren", "type": "person", "description": "US senator who called the pardon corrupt."},
-    {"id": "chris-murphy", "name": "Chris Murphy", "type": "person", "description": "US senator who criticized Binance's promotion of Trump-linked crypto after the pardon."},
-    {"id": "all-in-podcast", "name": "All-In Podcast", "type": "media", "description": "Podcast where Zhao discussed the pardon (about Feb 2026)."},
-    {"id": "cbs-60-minutes", "name": "CBS 60 Minutes", "type": "media", "description": "Program where Trump said he didn't know Zhao (aired Nov 2, 2025)."},
-    {"id": "us-doj", "name": "U.S. Department of Justice", "type": "government", "description": "Secured the 2023 guilty pleas from Binance and Zhao."},
-    {"id": "wall-street-journal", "name": "The Wall Street Journal", "type": "media", "description": "Reported that Binance helped build USD1 and that Zhao's camp sought talks with Trump allies."}
+    {
+      "id": "binance",
+      "name": "Binance",
+      "type": "company",
+      "description": "World's largest crypto exchange, founded by Changpeng Zhao."
+    },
+    {
+      "id": "changpeng-zhao",
+      "name": "Changpeng Zhao (CZ)",
+      "type": "person",
+      "description": "Binance founder; pleaded guilty to an AML violation in 2023 and was pardoned in Oct 2025."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President who pardoned Zhao."
+    },
+    {
+      "id": "sec",
+      "name": "U.S. Securities and Exchange Commission",
+      "type": "government",
+      "description": "Dismissed its Binance/Zhao suit with prejudice in May 2025."
+    },
+    {
+      "id": "cz-pardon",
+      "name": "Pardon of Changpeng Zhao",
+      "type": "event",
+      "description": "Full pardon signed Oct 22, 2025 and announced Oct 23, 2025."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Announced and defended the pardon."
+    },
+    {
+      "id": "karoline-leavitt",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "White House press secretary who defended the pardon."
+    },
+    {
+      "id": "mgx",
+      "name": "MGX",
+      "type": "fund",
+      "description": "Abu Dhabi AI/tech investment firm; invested $2B in Binance."
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Tahnoon bin Zayed Al Nahyan",
+      "type": "person",
+      "description": "UAE national security adviser and MGX chairman."
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "Home of MGX."
+    },
+    {
+      "id": "usd1",
+      "name": "USD1",
+      "type": "asset",
+      "description": "World Liberty Financial's dollar stablecoin, used to settle the MGX-Binance deal."
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family-linked crypto venture that issues USD1."
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF co-founder who announced USD1 would settle the MGX deal."
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump son involved in WLF; appeared at the Token2049 announcement."
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Trump son and WLF co-founder."
+    },
+    {
+      "id": "richard-teng",
+      "name": "Richard Teng",
+      "type": "person",
+      "description": "Binance CEO; denies Binance had a role in choosing USD1."
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "US senator who called the pardon corrupt."
+    },
+    {
+      "id": "chris-murphy",
+      "name": "Chris Murphy",
+      "type": "person",
+      "description": "US senator who criticized Binance's promotion of Trump-linked crypto after the pardon."
+    },
+    {
+      "id": "all-in-podcast",
+      "name": "All-In Podcast",
+      "type": "media",
+      "description": "Podcast where Zhao discussed the pardon (about Feb 2026)."
+    },
+    {
+      "id": "cbs-60-minutes",
+      "name": "CBS 60 Minutes",
+      "type": "media",
+      "description": "Program where Trump said he didn't know Zhao (aired Nov 2, 2025)."
+    },
+    {
+      "id": "us-doj",
+      "name": "U.S. Department of Justice",
+      "type": "government",
+      "description": "Secured the 2023 guilty pleas from Binance and Zhao."
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "The Wall Street Journal",
+      "type": "media",
+      "description": "Reported (after Bloomberg) that Binance helped build USD1, and that Zhao's camp sought talks with Trump allies."
+    }
   ],
   "relationships": [
-    {"source": "sec", "target": "binance", "label": "dismissed lawsuit with prejudice against", "type": "regulatory", "date": "2025-05-29"},
-    {"source": "sec", "target": "changpeng-zhao", "label": "dismissed lawsuit with prejudice against", "type": "regulatory", "date": "2025-05-29"},
-    {"source": "us-doj", "target": "changpeng-zhao", "label": "secured guilty plea (BSA/AML) from", "type": "legal", "date": "2023-11"},
-    {"source": "donald-trump", "target": "changpeng-zhao", "label": "pardoned", "type": "legal", "date": "2025-10-22"},
-    {"source": "donald-trump", "target": "cz-pardon", "label": "signed", "type": "legal", "date": "2025-10-22"},
-    {"source": "cz-pardon", "target": "changpeng-zhao", "label": "pardoned", "type": "legal", "date": "2025-10-23"},
-    {"source": "karoline-leavitt", "target": "cz-pardon", "label": "defended", "type": "political", "date": "2025-10-23"},
-    {"source": "white-house", "target": "cz-pardon", "label": "announced", "type": "political", "date": "2025-10-23"},
-    {"source": "changpeng-zhao", "target": "binance", "label": "founder and major owner of", "type": "ownership"},
-    {"source": "mgx", "target": "binance", "label": "invested $2B (settled in USD1) in", "type": "money", "date": "2025-03-12", "amount_usd": 2000000000},
-    {"source": "mgx", "target": "usd1", "label": "used to settle Binance investment", "type": "commercial", "date": "2025-05-01", "amount_usd": 2000000000},
-    {"source": "tahnoon-bin-zayed", "target": "mgx", "label": "chairs", "type": "ownership"},
-    {"source": "mgx", "target": "uae", "label": "based in / state-linked to", "type": "ownership"},
-    {"source": "world-liberty-financial", "target": "usd1", "label": "issues", "type": "ownership"},
-    {"source": "zach-witkoff", "target": "usd1", "label": "announced USD1 for MGX-Binance deal", "type": "commercial", "date": "2025-05-01"},
-    {"source": "eric-trump", "target": "world-liberty-financial", "label": "co-founder of", "type": "ownership"},
-    {"source": "donald-trump-jr", "target": "world-liberty-financial", "label": "co-founder of", "type": "ownership"},
-    {"source": "eric-trump", "target": "donald-trump", "label": "son of", "type": "family"},
-    {"source": "donald-trump-jr", "target": "donald-trump", "label": "son of", "type": "family"},
-    {"source": "donald-trump", "target": "world-liberty-financial", "label": "family-linked venture of", "type": "ownership"},
-    {"source": "binance", "target": "usd1", "label": "reportedly helped build tech for and promoted", "type": "commercial", "date": "2025"},
-    {"source": "wall-street-journal", "target": "binance", "label": "reported Binance helped build USD1", "type": "media", "date": "2025-10"},
-    {"source": "richard-teng", "target": "binance", "label": "CEO of", "type": "ownership"},
-    {"source": "elizabeth-warren", "target": "cz-pardon", "label": "criticized as corrupt", "type": "political", "date": "2025-10"},
-    {"source": "chris-murphy", "target": "binance", "label": "accused of promoting Trump-linked crypto after pardon", "type": "political", "date": "2025-10"},
-    {"source": "cbs-60-minutes", "target": "donald-trump", "label": "interviewed on Zhao pardon", "type": "media", "date": "2025-11-02"},
-    {"source": "all-in-podcast", "target": "changpeng-zhao", "label": "interviewed on pardon", "type": "media", "date": "2026-02-10"}
-  ]
+    {
+      "source": "sec",
+      "target": "binance",
+      "label": "dismissed lawsuit with prejudice against",
+      "type": "regulatory",
+      "date": "2025-05-29"
+    },
+    {
+      "source": "sec",
+      "target": "changpeng-zhao",
+      "label": "dismissed lawsuit with prejudice against",
+      "type": "regulatory",
+      "date": "2025-05-29"
+    },
+    {
+      "source": "us-doj",
+      "target": "changpeng-zhao",
+      "label": "secured guilty plea (BSA/AML) from",
+      "type": "legal",
+      "date": "2023-11"
+    },
+    {
+      "source": "donald-trump",
+      "target": "changpeng-zhao",
+      "label": "pardoned",
+      "type": "legal",
+      "date": "2025-10-22"
+    },
+    {
+      "source": "donald-trump",
+      "target": "cz-pardon",
+      "label": "signed",
+      "type": "legal",
+      "date": "2025-10-22"
+    },
+    {
+      "source": "cz-pardon",
+      "target": "changpeng-zhao",
+      "label": "pardoned",
+      "type": "legal",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "karoline-leavitt",
+      "target": "cz-pardon",
+      "label": "defended",
+      "type": "political",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "white-house",
+      "target": "cz-pardon",
+      "label": "announced",
+      "type": "political",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "changpeng-zhao",
+      "target": "binance",
+      "label": "founder and major owner of",
+      "type": "ownership"
+    },
+    {
+      "source": "mgx",
+      "target": "binance",
+      "label": "invested $2B (settled in USD1) in",
+      "type": "money",
+      "date": "2025-03-12",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "mgx",
+      "target": "usd1",
+      "label": "used to settle Binance investment",
+      "type": "commercial",
+      "date": "2025-05-01",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "mgx",
+      "label": "chairs",
+      "type": "ownership"
+    },
+    {
+      "source": "mgx",
+      "target": "uae",
+      "label": "based in / state-linked to",
+      "type": "ownership"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "usd1",
+      "label": "issues",
+      "type": "ownership"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "usd1",
+      "label": "announced USD1 for MGX-Binance deal",
+      "type": "commercial",
+      "date": "2025-05-01"
+    },
+    {
+      "source": "eric-trump",
+      "target": "world-liberty-financial",
+      "label": "co-founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "world-liberty-financial",
+      "label": "co-founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "eric-trump",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump",
+      "target": "world-liberty-financial",
+      "label": "family-linked venture of",
+      "type": "ownership"
+    },
+    {
+      "source": "binance",
+      "target": "usd1",
+      "label": "reportedly helped build tech for and promoted",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "binance",
+      "label": "reported Binance helped build USD1",
+      "type": "media",
+      "date": "2025-10"
+    },
+    {
+      "source": "richard-teng",
+      "target": "binance",
+      "label": "CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "cz-pardon",
+      "label": "criticized as corrupt",
+      "type": "political",
+      "date": "2025-10"
+    },
+    {
+      "source": "chris-murphy",
+      "target": "binance",
+      "label": "accused of promoting Trump-linked crypto after pardon",
+      "type": "political",
+      "date": "2025-10"
+    },
+    {
+      "source": "cbs-60-minutes",
+      "target": "donald-trump",
+      "label": "interviewed on Zhao pardon",
+      "type": "media",
+      "date": "2025-11-02"
+    },
+    {
+      "source": "all-in-podcast",
+      "target": "changpeng-zhao",
+      "label": "interviewed on pardon",
+      "type": "media",
+      "date": "2026-02-10"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "SEC dismissal with prejudice on 2025-05-29 covering Binance entities and Zhao",
+      "Pardon signed 2025-10-22, announced 2025-10-23",
+      "Zhao's All-In podcast remarks (Feb 2026)",
+      "The report that Binance helped build USD1"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Re-attributed the 'Binance helped build USD1' allegation: Bloomberg first reported it in July 2025 from three anonymous sources, and the WSJ followed. Marked it as disputed (Binance: standard listing process; Zhao: 'FUD', threatened suit; WLF: 'factually deficient'). Added a correction.",
+      "SEC dismissal date and terms, pardon dates and Zhao's All-In quotes re-confirmed; no change. The All-In quotes are still known only via secondary reports, not a transcript."
+    ],
+    "new_sources": [
+      {
+        "title": "CZ calls Bloomberg report on Trump stablecoin FUD (title paraphrased from URL)",
+        "publisher": "DL News",
+        "url": "https://www.dlnews.com/articles/people-culture/binance-changpeng-cz-zhao-bloomberg-trump-stablecoin-fud/",
+        "date": "2025-07"
+      },
+      {
+        "title": "Binance's CZ threatens to sue Bloomberg over Trump stablecoin report",
+        "publisher": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/binance-cz-sue-bloomberg-trump-stablecoin-report",
+        "date": "2025-07"
+      },
+      {
+        "title": "US SEC dismisses lawsuit against Binance crypto exchange",
+        "publisher": "PYMNTS",
+        "url": "https://www.pymnts.com/cpi-posts/sec-ends-binance-lawsuit-amid-shift-in-crypto-policy",
+        "date": "2025-05-30"
+      },
+      {
+        "title": "Trump pardons Changpeng Zhao",
+        "publisher": "The Washington Times",
+        "url": "https://m.washingtontimes.com/news/2025/oct/23/trump-pardons-changpeng-zhao-founded-one-worlds-largest-crypto/",
+        "date": "2025-10-23"
+      }
+    ]
+  }
 }

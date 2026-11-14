@@ -36,6 +36,12 @@
 - Critics, including an NYU professor quoted in secondary coverage and Senators Warren and Merkley, see the Binance relationship as a conflict of interest, given the MGX deal and the CZ pardon. That conflict is an inference. No documented quid pro quo has been shown.
 - It is unclear how much of the USD1 sitting at Binance belongs to the exchange and how much to its customers.
 
+## Second-review audit (2026-11-14)
+- Re-checked: WLF's $159.5M run rate (April 2026, confirmed as WLF's own social-media figure) against Bloomberg's ~$147-150M 2026 estimate; the up-to-20% APR booster (2025-12-24 to 2026-01-23); and Binance's 85-89% share. **Result: upheld.** The ~50,000 USD1 bonus cap is widely reported but not confirmed from Binance's own terms.
+- Later update: Cointelegraph (2026-10-19, CoinGecko data) reported USD1 supply fell about $401M (9.1%) from 2026-10-06 on redemptions, with reserves of about $4.01B. A shrinking base cuts against WLF's "compounding, accelerating" framing. Arkham later put Binance's custody share at about 89%.
+- New sources: Cointelegraph (2026-10-19) https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million ; crypto.news (2026) https://crypto.news/binance-trump-usd1-stablecoin-concentration-2026/ ; BeInCrypto (2026-04) https://beincrypto.com/world-liberty-financial-wlfi-liquidity-drain-concern
+
+
 ## Sources
 1. BeInCrypto, "Binance listing USD1 stablecoin", 2025-05-22. https://beincrypto.com/binance-listing-usd1-stablecoin
 2. CoinGape, "Binance Lists Trump Family Backed WLF Stablecoin USD1", 2025-05-22. https://coingape.com/just-in-binance-lists-of-trump-family-backed-wlf-stablecoin-usd1

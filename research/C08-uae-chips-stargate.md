@@ -55,7 +55,7 @@ Note: this session's network blocked most page fetches. The findings below come 
 
 ## Corrections
 - Transcript says the US "had refused" these chip deals. The record shows Biden-era delays, a tier-2 cap under the AI Diffusion Rule, and partial approvals (December 2024 Microsoft licences), not a blanket refusal.
-- Transcript says Trump "said he would financially assist the UAE." He said a currency swap was "under consideration." No swap had been reported as finalized as of mid-2026.
+- Transcript says Trump "said he would financially assist the UAE." He said a currency swap was "under consideration." No swap had been reported as finalized as of August 2026, and none was found through Nov 2026.
 - Transcript says "shortly after ... this chips deal was approved." The framework came about two weeks after the 2025-05-01 USD1/MGX announcement. Actual export licences came in September and November 2025.
 - MGX's Stargate role was announced 2025-01-21, before the USD1 deal, so it does not fit an after-the-fact benefit sequence.
 
@@ -64,6 +64,13 @@ Note: this session's network blocked most page fetches. The findings below come 
 - The NYT found no explicit quid pro quo. The concern raised is overlapping timing plus Witkoff's dual role.
 - The UAE has been a US security partner for a long time. The Gulf chip deals were also part of a broader Trump AI-export strategy that covered Saudi Arabia too.
 - Critics, including Senators Warren and Slotkin, called for investigations. The Senate Banking minority staff report and analysts warned of a China-diversion risk.
+
+## Second-review audit (2026-11-14)
+- Re-checked: the chip-licence timeline, Trump's 2026-04-21 swap remarks, and whether a swap line was ever signed. **Result: upheld.**
+- Precision: Microsoft's UAE licence (about 60,400 A100-equivalents, including GB300s) was granted in Sept 2025 but disclosed by Brad Smith on 2025-11-03. On 2025-11-19 Commerce approved G42 and Saudi Arabia's Humain to buy up to 35,000 Nvidia GB300 equivalents each, under security and reporting conditions.
+- Swap status update: an Express Tribune commentary on 2026-08-10 said Washington had still not formally answered the UAE's request. No signed US-UAE swap line was found through Nov 2026.
+- New sources: Bloomberg Government (2025-11-19) https://news.bgov.com/artificial-intelligence/nvidia-chip-sales-to-g42-humain-approved-by-commerce-department ; Implicator.ai (2025-11-03) https://www.implicator.ai/microsoft-gets-a-rare-u-s-export-license-for-uae-ai-chips/ ; Express Tribune (2026-08-10) https://tribune.com.pk/story/2622996/swap-lines-as-diplomatic-currency ; The Global Treasurer (2026-04-24) https://www.theglobaltreasurer.com/2026/04/24/scott-bessents-swap-diplomacy-a-new-front-for-us-treasury/
+
 
 ## Sources
 1. NYT investigation (2025-09-15), as summarized by The Decoder: https://the-decoder.com/nyt-uae-poured-billions-into-trump-linked-crypto-firm-as-u-s-weighed-chip-deal/

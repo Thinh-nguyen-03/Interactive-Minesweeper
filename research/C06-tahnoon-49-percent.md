@@ -26,6 +26,13 @@
 - The buyer is the vehicle Aryam Investment 1, not Tahnoon personally. The video's phrase "deal with a top UAE royal" is a fair shorthand.
 - The transcript at lines 307-309 is garbled by auto-transcription; the dollar figure and the 49% stake are given clearly later, in lines 317-322.
 
+## Second-review audit (2026-11-14)
+- Re-checked: the $500M/49% terms, the 2025-01-16 signing by Eric Trump, the $250M upfront split (~$187M Trump-family, at least $31M Witkoff-linked), the second tranche, and the secrecy. **Result: upheld.** All figures match across further outlets, though every account still traces to the WSJ.
+- Addition: some relays of the WSJ report a further $31M to an entity tied to co-founders Zak Folkman and Chase Herro; this is less consistently reported. No reporting found through Nov 2026 confirms whether the second $250M (due 2025-07-15) was paid.
+- Context: in February 2026 Rep. Ro Khanna opened a House inquiry into the deal (Aryam is reported as registered in Delaware and Abu Dhabi), and Sens. Warren and Slotkin called for investigations. No findings were found.
+- New sources: Benzinga via Yahoo Finance, "Inside the $187M deal..." (2026-02) https://finance.yahoo.com/news/inside-187m-deal-between-trump-003116654.html ; The Block, "House launches probe into $500 Million UAE deal..." (2026-02) https://www.theblock.co/post/388607/house-launches-probe-world-liberty-financial
+
+
 ## Sources
 1. The Block, "UAE Sheikh secretly acquired 49% of Trump's World Liberty Financial days before inauguration: WSJ", 2026-02-01. https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931
 2. Cointelegraph, "UAE-backed firm buys 49 percent of Trump-linked World Liberty: WSJ", 2026-02. https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj

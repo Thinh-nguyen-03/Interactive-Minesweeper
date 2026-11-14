@@ -36,7 +36,7 @@ Separately, Zhao confirmed in May 2025 that he had applied for a pardon. That ap
 ### 6. The implied link (USD1 investment, benefit to the Trump family, pardon): documented sequence, causation unproven
 These facts are documented:
 - Binance received the $2B in USD1, which helped make USD1 one of the largest stablecoins.
-- The WSJ reported that Binance engineers helped build USD1's technology, and that Zhao's representatives sought talks with Trump allies to resolve Binance's legal problems.
+- Bloomberg first reported in July 2025, citing three anonymous sources, that Binance wrote USD1's basic smart-contract code. The WSJ later reported that Binance helped build USD1's technology, and that Zhao's representatives sought talks with Trump allies to resolve Binance's legal problems. Binance says it followed standard listing processes, Zhao called the Bloomberg report "FUD" and threatened to sue, and WLF called it "factually deficient". This is reported allegation, not established fact. (Audit correction.)
 - Zhao lobbied for and received a pardon.
 
 No public evidence shows a quid pro quo. Zhao says "there is no business relationship between me, Binance, and World Liberty Finance." Teng denies Binance took part in MGX's choice of USD1. Zhao's lawyers threatened to sue Sen. Elizabeth Warren over her statement that he "financed President Trump's stablecoin and lobbied for a pardon." Warren, Sen. Chris Murphy and others call the pardon corrupt. [16][17][18][19]
@@ -53,6 +53,13 @@ No public evidence shows a quid pro quo. Zhao says "there is no business relatio
 - Zhao: he was surprised by the pardon and did not do much to get it, he has no business ties to World Liberty Financial, and rivals lobbied against his pardon.
 - Binance (Teng): it had no role in MGX choosing USD1, and USD1 was listed elsewhere first.
 - Critics (Warren, Murphy): the pardon followed Binance's help to a Trump-family venture.
+
+## Second-review audit (2026-11-14)
+- Re-checked: the SEC dismissal (joint stipulation with prejudice, 2025-05-29, covering Binance entities and Zhao), the pardon (signed Wednesday 2025-10-22, announced 2025-10-23), Zhao's All-In remarks, and the report that Binance helped build USD1. **Result: corrected (attribution).**
+- The "Binance helped build USD1" report originated with Bloomberg in July 2025 (three anonymous sources), not the WSJ alone. It is disputed by Binance, Zhao and WLF, and is now framed as an allegation.
+- The other points were re-confirmed. Zhao's All-In quotes are still known only via secondary reports.
+- New sources: DL News (2025-07) https://www.dlnews.com/articles/people-culture/binance-changpeng-cz-zhao-bloomberg-trump-stablecoin-fud/ ; Cointelegraph (2025-07) https://cointelegraph.com/news/binance-cz-sue-bloomberg-trump-stablecoin-report ; PYMNTS (2025-05-30) https://www.pymnts.com/cpi-posts/sec-ends-binance-lawsuit-amid-shift-in-crypto-policy ; Washington Times (2025-10-23) https://m.washingtontimes.com/news/2025/oct/23/trump-pardons-changpeng-zhao-founded-one-worlds-largest-crypto/
+
 
 ## Sources
 1. Reuters via Yahoo Finance, "US SEC dismisses lawsuit against Binance crypto exchange", 2025-05-30. https://finance.yahoo.com/news/us-sec-voluntarily-dismisses-lawsuit-211512870.html
