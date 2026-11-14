@@ -26,9 +26,9 @@ def unproven_notes(c):
     out = []
     for s in list(c.get('summary_points', [])) + [c['bottom_line']] + list(c['denials_and_context']):
         for x in sentences(s):
-            if UNPROVEN_RE.search(x) and x not in out:
+            if UNPROVEN_RE.search(x) and len(x) > 45 and x not in out:
                 out.append(x)
-    return out[:3]
+    return out[:2]
 
 ent_claims = collections.defaultdict(list)
 claim_ents = collections.defaultdict(list)

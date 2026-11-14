@@ -66,7 +66,7 @@ button{font:inherit;color:inherit}
 .themebtn:hover{border-color:var(--line-strong)}
 .top .search{flex:1 1 260px;max-width:340px}
 @media (max-width:719px){
-  .nav{order:3;width:100%;gap:18px}
+  .nav{order:3;width:100%;gap:18px;font-size:14.5px}
   .top .search{order:4;flex-basis:100%;max-width:none}
 }
 
@@ -116,10 +116,10 @@ mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 2px}
 .hero .note{margin-top:26px}
 .tally h2{font-size:18px}
 .tally li{display:grid;grid-template-columns:170px 34px 1fr;gap:10px;align-items:center;padding:9px 0;border-bottom:1px solid var(--line)}
-.tally .bar{height:10px;border-radius:5px;background:currentColor;min-width:4px}
+.tally .bar{height:10px;border-radius:5px;background:currentColor;min-width:12px}
 .tally .bar.unv{background:repeating-linear-gradient(135deg,currentColor 0 3px,transparent 3px 6px)}
 .tally p{margin-top:12px}
-@media (min-width:960px){.hero{grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:72px;align-items:start;padding:52px 0 56px}.tally{padding-top:8px}}
+@media (min-width:960px){.hero{grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:72px;align-items:start;padding:44px 0 36px}.tally{padding-top:8px}}
 .sec{padding:36px 0;border-top:1px solid var(--line)}
 .sechead{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 20px;margin-bottom:18px}
 .sechead p{color:var(--muted);font-size:15px}
@@ -241,7 +241,7 @@ details.more[open] > summary{color:var(--muted)}
 .ehead .av{grid-row:span 4;margin-top:4px}
 .ehead .desc{font-size:18px;max-width:60ch;margin-top:4px}
 .ehead .facts{margin-top:6px;color:var(--muted);font-size:15px}
-@media (max-width:519px){.ehead .av.lg{width:48px;height:48px;font-size:17px;border-radius:12px}.ehead .av.p.lg{border-radius:50%}}
+@media (max-width:519px){.ehead .desc,.ehead .facts{grid-column:1 / -1}.ehead .av{grid-row:span 2}.ehead .av.lg{width:48px;height:48px;font-size:17px;border-radius:12px}.ehead .av.p.lg{border-radius:50%}}
 .circle{margin-top:4px}
 .circle svg{display:block;max-width:100%;touch-action:manipulation}
 .circle .edge{stroke:var(--line-strong);stroke-width:1.5}
@@ -338,8 +338,9 @@ function fdate(d){
   if(!d) return '';
   d=String(d).split('/')[0];
   var m=d.match(/^(\d{4})(?:-(\d{2}))?(?:-(\d{2}))?/); if(!m) return d;
-  if(m[3]) return (+m[3])+' '+MON[+m[2]-1]+' '+m[1];
-  if(m[2]) return MON[+m[2]-1]+' '+m[1];
+  var mo=MON[+m[2]-1];
+  if(m[3]&&mo) return (+m[3])+' '+mo+' '+m[1];
+  if(mo) return mo+' '+m[1];
   return m[1];
 }
 function fmoney(n){
@@ -420,7 +421,7 @@ var sid=0;
 function mountSearch(el,big){
   var id='s'+(++sid);
   el.innerHTML=IC.search+'<label class="sr" for="'+id+'">Search people, organisations and claims</label>'+
-   '<input id="'+id+'" type="search" autocomplete="off" spellcheck="false" placeholder="'+(big?'Search a person, company, country or claim':'Search names and claims')+'" role="combobox" aria-expanded="false" aria-controls="'+id+'r" aria-autocomplete="list">'+
+   '<input id="'+id+'" type="search" autocomplete="off" spellcheck="false" placeholder="'+(big?'Search a name or a claim':'Search names and claims')+'" role="combobox" aria-expanded="false" aria-controls="'+id+'r" aria-autocomplete="list">'+
    '<div class="results" id="'+id+'r" role="listbox" hidden></div>';
   var inp=el.querySelector('input'), box=el.querySelector('.results'), sel=-1;
   function close(){box.hidden=true;inp.setAttribute('aria-expanded','false');sel=-1}
@@ -507,17 +508,18 @@ function shape(id,x,y,r,centre){
 function drawCircle(host,id,nb,selected){
   var W=Math.min(host.clientWidth||600,680), phone=W<480;
   var n=Math.min(nb.length,phone?8:10), list=nb.slice(0,n);
-  var H=phone?Math.round(W*1.08):400, cx=W/2, cy=H/2-8;
-  var rx=W/2-(phone?52:70), ry=H/2-(phone?52:56);
+  var H=phone?Math.round(W*1.12):410, cx=W/2, cy=H/2-6;
+  var rx=W/2-(phone?52:70), ry=H/2-(phone?64:66);
   var edges='',nodes='';
   list.forEach(function(o,i){
     var a=-Math.PI/2+i*2*Math.PI/n, x=Math.round(cx+rx*Math.cos(a)), y=Math.round(cy+ry*Math.sin(a));
     var al=o.rels.every(alleged), on=o.id===selected;
-    edges+='<line x1="'+cx+'" y1="'+cy+'" x2="'+x+'" y2="'+y+'" class="edge'+(al?' alleged':'')+(on?' on':'')+'"/>';
+    var up=Math.sin(a)<-0.3, dx=x-cx, dy=y-cy, len=Math.sqrt(dx*dx+dy*dy), k=(len-26)/len;
+    edges+='<line x1="'+cx+'" y1="'+cy+'" x2="'+Math.round(cx+dx*k)+'" y2="'+Math.round(cy+dy*k)+'" class="edge'+(al?' alleged':'')+(on?' on':'')+'"/>';
     var lab=wrapLabel(E[o.id].n,phone?13:17);
     nodes+='<g class="nd'+(on?' on':'')+'" data-id="'+o.id+'" role="button" tabindex="0" aria-pressed="'+on+'" aria-label="'+esc(E[o.id].n)+', '+plural(o.rels.length,'documented link')+' with '+esc(E[id].n)+'">'+
-      '<rect x="'+(x-48)+'" y="'+(y-24)+'" width="96" height="62" fill="transparent"/>'+shape(o.id,x,y,19)+
-      lab.map(function(l,j){return '<text class="lab" x="'+x+'" y="'+(y+35+j*14)+'" text-anchor="middle">'+esc(l)+'</text>'}).join('')+'</g>';
+      '<rect x="'+(x-48)+'" y="'+(up?y-56:y-24)+'" width="96" height="80" fill="transparent"/>'+shape(o.id,x,y,19)+
+      lab.map(function(l,j){return '<text class="lab" x="'+x+'" y="'+(up? y-29-(lab.length-1-j)*14 : y+35+j*14)+'" text-anchor="middle">'+esc(l)+'</text>'}).join('')+'</g>';
   });
   var cl=wrapLabel(E[id].n,16);
   host.innerHTML='<svg width="'+W+'" height="'+H+'" viewBox="0 0 '+W+' '+H+'" role="group" aria-label="The '+n+' names most often linked to '+esc(E[id].n)+'">'+edges+
