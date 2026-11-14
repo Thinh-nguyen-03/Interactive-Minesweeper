@@ -20,5 +20,5 @@ Trump-linked licensing company tied to the sneakers and the Bible
 
 ## Relationships
 
-- [[CIC Ventures LLC]] *licensor of* [[God Bless the USA Bible]] (2024-03, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[CIC Ventures LLC]] *licensor of* [[Trump Bible]] (2024-03, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[CIC Ventures LLC]] *licensor of* [[Trump golden sneakers]] (2024-02, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]

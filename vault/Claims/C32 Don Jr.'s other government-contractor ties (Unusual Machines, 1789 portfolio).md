@@ -32,7 +32,7 @@ tags:
 
 ## Follow-up checks
 
-- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Pending
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 
 ## Summary
 
@@ -140,7 +140,7 @@ Unusual Machines is the strongest example. Don Jr. joined its advisory board on 
 - [[Chris Buskirk]] *co-founder of* [[Executive Branch]] (2025-04, ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Citizens for Responsibility and Ethics in Washington]] *reported on board-role conflicts of* [[Donald Trump Jr]] (media) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump]] *father of* [[Donald Trump Jr]] (family) · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Donald Trump Jr]] *brother of* [[Eric Trump]] (family) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *co-founder of* [[Executive Branch]] (2025-04, ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *adviser to* [[New America Acquisition I Corp]] (advisory) · [[C27 New America Acquisition I Corp SPAC|C27]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]

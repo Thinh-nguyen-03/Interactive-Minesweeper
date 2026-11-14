@@ -5,8 +5,8 @@ type: "government"
 aliases:
   - "Congress"
   - "U.S. Congress"
-connections: 35
-claims: 19
+connections: 41
+claims: 25
 tags:
   - "entity"
   - "type/government"
@@ -44,6 +44,12 @@ Passed crypto legislation; questioned Selig.
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 
 ## Relationships
 
@@ -51,6 +57,7 @@ Passed crypto legislation; questioned Selig.
 - [[Defense Security Cooperation Agency]] *notified MQ-9B sale to* [[US Congress]] (2025-03-26, regulatory) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Elizabeth Warren]] *member of* [[US Congress]] (political) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[House Select Committee on the CCP]] *committee of the House* [[US Congress]] (political) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Jamie Raskin]] *House Judiciary ranking member* [[US Congress]] (political) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Jamie Raskin]] *House Judiciary ranking member in* [[US Congress]] (political) · [[C37 Jared Kushner's hacked phone|C37]]
 - [[Maxine Waters]] *member of* [[US Congress]] (political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Senate Judiciary Committee]] *committee of* [[US Congress]] (political) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]

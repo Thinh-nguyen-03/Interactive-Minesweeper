@@ -2,8 +2,8 @@
 id: "1789-capital"
 kind: "entity"
 type: "fund"
-connections: 17
-claims: 4
+connections: 19
+claims: 5
 tags:
   - "entity"
   - "type/fund"
@@ -18,6 +18,7 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 - Venture/growth-equity firm co-founded by Omeed Malik; about $1B AUM (Sep 2025), about $2-3.5B in 2026.
 - Venture/growth-equity firm co-founded by Omeed Malik; Don Jr. partner since Nov 2024.
 - VC firm where Don Jr. is a partner; Polymarket investor.
+- Don Jr.-partnered VC whose portfolio got $70M+ per senators
 
 ## Appears in claims
 
@@ -25,10 +26,12 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 - [[C26 1789 Capital and Vulcan Elements]] · Mostly accurate
 - [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
 - [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 
 ## Relationships
 
 - [[1789 Capital]] *reported investor in* [[Anduril Industries]] (money) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[1789 Capital]] *investor in* [[Cerebras Systems]] (money) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[1789 Capital]] *reported investor in* [[Cerebras Systems]] (money) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[1789 Capital]] *led $60M Series C in* [[Firehawk Aerospace]] (2025, $60M, money) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[1789 Capital]] *invested in* [[Polymarket]] (money) · [[C26 1789 Capital and Vulcan Elements|C26]]
@@ -43,7 +46,8 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 - [[1789 Capital]] *reported investor in* [[xAI]] (money) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Chris Buskirk]] *co-founder and partner of* [[1789 Capital]] (ownership) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Chris Buskirk]] *co-founder/partner of* [[1789 Capital]] (ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Elizabeth Warren]] *tallied $70M+ in contracts to portfolio of (with Blumenthal, Kim)* [[1789 Capital]] (2026-01-22, $70M, political) · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[The New York Times]] *reported ~200% returns of* [[1789 Capital]] (2026-07-22, media) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Omeed Malik]] *co-founder and CEO of* [[1789 Capital]] (2022, ownership) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Omeed Malik]] *co-founder of* [[1789 Capital]] (ownership) · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]

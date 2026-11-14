@@ -43,8 +43,8 @@ Prediction market company; Don Jr. on advisory board; subject of CFTC probe.
 - [[Polymarket]] *acquired for $112M* [[QCEX (QCX LLC QC Clearing LLC)]] (2025-07, $112M, money) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[U.S. Attorney's Office, Southern District of New York]] *ran criminal inquiry into* [[Polymarket]] (2024-11, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Shayne Coplan]] *founder and CEO* [[Polymarket]] (ownership) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[U.S. Department of Justice]] *closed criminal probe without charges* [[Polymarket]] (2025-07-15, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[U.S. Department of Justice]] *closed probe* [[Polymarket]] (2025-07, legal) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[US Department of Justice]] *closed criminal probe without charges* [[Polymarket]] (2025-07-15, legal) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[US Department of Justice]] *closed probe* [[Polymarket]] (2025-07, legal) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 
 ## Themes
 

@@ -2,8 +2,8 @@
 id: "qatar"
 kind: "entity"
 type: "country"
-connections: 12
-claims: 3
+connections: 15
+claims: 5
 tags:
   - "entity"
   - "type/country"
@@ -17,20 +17,26 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 - Owner of the QIA, an Affinity investor.
 - Gulf state; donor of the 747 and buyer of US arms
 - Host of the Simaisma golf project
+- Reported home of investors/vehicle behind Albania Land Development.
+- Donor of the 747
 
 ## Appears in claims
 
 - [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
 - [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
 - [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
+- [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
 
 ## Relationships
 
+- [[Qatar]] *reported investor base / registration* [[Albania Land Development]] (ownership) · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Qatar]] *signed LOA during Trump visit* [[MQ-9B sale to Qatar]] (2025-05-14, $1.96B, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar]] *donated Boeing 747-8 (accepted 21 May 2025)* [[Pentagon (Department of Defense)]] (2025-05-21, $400M, money) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar]] *negotiated* [[$1.96B Qatar arms deal]] ($1.96B, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar]] *hosts* [[$5.5B Qatar development project]] (commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Qatar]] *owns* [[Qatar Investment Authority]] (ownership) · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Qatar]] *gifted* [[Qatar Boeing 747 gift]] (2025-05, $400M, money) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Qatar]] *offered* [[Qatar Boeing 747 gift]] ($400M, money) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[2026 possible military sales to Qatar ($5B)]] *possible sale to* [[Qatar]] (2026, commercial) · [[C16 Qatar jet, arms sales and golf deal|C16]]
 - [[Simaisma development]] *located in* [[Qatar]] (commercial) · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]

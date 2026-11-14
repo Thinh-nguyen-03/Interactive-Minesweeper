@@ -4,8 +4,8 @@ kind: "entity"
 type: "event"
 aliases:
   - "US-UAE AI chips deal"
-connections: 14
-claims: 5
+connections: 15
+claims: 6
 tags:
   - "entity"
   - "type/event"
@@ -29,6 +29,7 @@ US approval of long-refused AI chip exports to the UAE.
 - [[C14 Steve and Zach Witkoff]] · Mostly accurate
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 
 ## Relationships
 
@@ -42,6 +43,7 @@ US approval of long-refused AI chip exports to the UAE.
 - [[United Arab Emirates]] *secured* [[UAE AI chips deal]] (commercial) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[UAE AI chips deal]] *covers export of* [[Advanced AI chips]] (commercial) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[US Department of Commerce]] *licenses chip exports under* [[UAE AI chips deal]] (2025-05, regulatory) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[US Department of Commerce]] *licenses chips under* [[UAE AI chips deal]] (regulatory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[White House Trump administration]] *approved* [[UAE AI chips deal]] (regulatory) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[World Liberty Financial]] *denies quid pro quo over* [[UAE AI chips deal]] (political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 

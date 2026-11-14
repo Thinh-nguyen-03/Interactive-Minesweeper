@@ -6,8 +6,8 @@ aliases:
   - "The White House"
   - "Trump administration"
   - "White House"
-connections: 52
-claims: 31
+connections: 61
+claims: 37
 tags:
   - "entity"
   - "type/government"
@@ -56,7 +56,13 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
-- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Pending
+- [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
+- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 
 ## Relationships
 
@@ -66,13 +72,17 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[White House Trump administration]] (2025, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Karoline Leavitt]] *press secretary for* [[White House Trump administration]] (political) · [[C22 Crypto.com and TMTG|C22]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Karoline Leavitt]] *press secretary of* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Karoline Leavitt]] *press secretary; denies pardon profiteering* [[White House Trump administration]] (political) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Karoline Leavitt]] *speaks for* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Miller Strategies]] *lobbied for Crypto.com* [[White House Trump administration]] (political) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[The New York Times]] *reported state outreach by* [[White House Trump administration]] (2026-08-27, media) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Peter Navarro]] *adviser in* [[White House Trump administration]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[President's Working Group on Digital Asset Markets]] *part of* [[White House Trump administration]] (political) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Steve Witkoff]] *Special Envoy to Middle East for* [[White House Trump administration]] (political) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] (2024-11, political) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Unnamed top White House aide]] *top aide in* [[White House Trump administration]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[White House Trump administration]] *called tariff-cost display 'hostile and political act'* [[Amazon]] (2025-04-29, political) · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[White House Trump administration]] *denied special-interest influence on deal* [[Cove Kaz Capital Cove Capital]] (2026-06, political) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[White House Trump administration]] *announced* [[Pardon of Changpeng Zhao]] (2025-10-23, political) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[White House Trump administration]] *issued AI ethics waiver to* [[David Sacks]] (2025-06, regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[White House Trump administration]] *defends ethics arrangements of* [[Donald Trump]] (political) · [[C01 $TRUMP meme coin|C01]]

@@ -2,8 +2,8 @@
 id: "trump-presidential-library"
 kind: "entity"
 type: "asset"
-connections: 3
-claims: 2
+connections: 2
+claims: 1
 tags:
   - "entity"
   - "type/asset"
@@ -17,7 +17,6 @@ Intended final home of the Qatari jet.
 ## Appears in claims
 
 - [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
-- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Pending
 
 ## Relationships
 

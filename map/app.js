@@ -188,7 +188,7 @@
       if (/^\s*\|/.test(line) && i + 1 < lines.length && /^\s*\|?\s*:?-{2,}/.test(lines[i + 1])) {
         var rows = [];
         while (i < lines.length && /^\s*\|/.test(lines[i])) { rows.push(lines[i]); i++; }
-        var cells = function (r) { return r.trim().replace(/^\||\|$/g, '').split(/(?<!\\)\|/).map(function (c) { return c.trim(); }); };
+        var cells = function (r) { return r.trim().replace(/^\||\|$/g, '').split('|').map(function (c) { return c.trim(); }); };
         var t = '<div class="tablewrap"><table><thead><tr>' + cells(rows[0]).map(function (c) { return '<th>' + inline(c) + '</th>'; }).join('') + '</tr></thead><tbody>';
         rows.slice(2).forEach(function (r) { t += '<tr>' + cells(r).map(function (c) { return '<td>' + inline(c) + '</td>'; }).join('') + '</tr>'; });
         out.push(t + '</tbody></table></div>'); continue;
@@ -893,6 +893,8 @@
         else if (s.text.indexOf(t) >= 0) score += 1;
         else return null;
       }
+      var nm = (s.n.name || '').toLowerCase(), id = String(s.n.id || '').toLowerCase();
+      if (nm === q || id === q) score += 20; else if (nm.indexOf(q) === 0) score += 8;
       return { n: s.n, score: score + Math.min(s.n.degree, 40) / 40 };
     }).filter(Boolean).sort(function (a, b) { return b.score - a.score; }).slice(0, 12);
     active = results.length ? 0 : -1;

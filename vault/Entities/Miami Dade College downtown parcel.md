@@ -2,8 +2,8 @@
 id: "miami-dade-college-land"
 kind: "entity"
 type: "asset"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/asset"
@@ -12,12 +12,16 @@ tags:
 
 *asset*
 
-Land valued at more than $67M, deeded to the library foundation in Feb 2026
+~2.6-acre lot by the Freedom Tower; assessed at $67M+, deeded to the foundation for $10
+
+- Land valued at more than $67M, deeded to the library foundation in Feb 2026
 
 ## Appears in claims
 
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
+- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
 
 ## Relationships
 
 - [[Miami Dade College downtown parcel]] *deeded for $10 to* [[Trump Presidential Library Foundation]] (2026-02, $67M, ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Trump Presidential Library Foundation]] *owns* [[Miami Dade College downtown parcel]] (2026-01, ownership) · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]

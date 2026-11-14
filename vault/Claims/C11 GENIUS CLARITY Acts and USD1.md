@@ -102,8 +102,8 @@ Trump publicly pushed the GENIUS Act and lobbied House holdouts personally, incl
 - [[USD1]]
 - [[White House Trump administration]]
 - [[World Liberty Financial]]
-- [[X (Twitter) (x-twitter)]]
 - [[X (Twitter)]]
+- [[X (Twitter) (x-twitter)]]
 
 ## Relationships documented
 
@@ -116,10 +116,10 @@ Trump publicly pushed the GENIUS Act and lobbied House holdouts personally, incl
 - [[Donald Trump]] *met and called holdouts to flip votes* [[House Freedom Caucus]] (2025-07-15, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Donald Trump]] *made night-time calls to* [[US Congress]] (political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Donald Trump]] *family holds majority stake / revenue share* [[World Liberty Financial]] (ownership) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Donald Trump Jr]] *co-founder* [[World Liberty Financial]] (ownership) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Elizabeth Warren]] *pushed anti-corruption amendment re Trump/USD1* [[GENIUS Act]] (2025-05, political) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
-- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Eric Trump]] *promoted on X as passing PYUSD / 'GENIUS Act compliant'* [[USD1]] (2026-01-23, media) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[Eric Trump]] *co-founder* [[World Liberty Financial]] (ownership) · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[GENIUS Act]] *regulates (USD1 marketed as compliant)* [[USD1]] (regulatory) · [[C11 GENIUS CLARITY Acts and USD1|C11]]

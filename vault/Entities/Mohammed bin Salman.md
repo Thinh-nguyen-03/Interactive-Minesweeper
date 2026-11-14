@@ -2,8 +2,8 @@
 id: "mohammed-bin-salman"
 kind: "entity"
 type: "person"
-connections: 4
-claims: 2
+connections: 5
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -15,11 +15,13 @@ tags:
 Saudi Crown Prince; reported WhatsApp contact of Kushner in the first term; his account was linked to the Bezos hack.
 
 - Saudi Crown Prince; chairs the PIF board that overruled its panel to back Affinity.
+- Saudi Crown Prince; alleged co-funder of the accounts per the book.
 
 ## Appears in claims
 
 - [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
 - [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
 
 ## Relationships
 

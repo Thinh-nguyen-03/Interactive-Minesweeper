@@ -103,7 +103,7 @@ Binance listed USD1 early (2025-05-22, after HTX, MEXC and KuCoin) and ran a cap
 - [[BitGo]] *custodies reserves of* [[USD1]] (2025-03, commercial) · [[C04 World Liberty Financial founding and token sale|C04]] [[C10 Binance driving USD1 adoption|C10]]
 - [[Bloomberg]] *reported Binance-fueled stablecoin profits of* [[World Liberty Financial]] (2026-06-05, media) · [[C10 Binance driving USD1 adoption|C10]]
 - [[Changpeng Zhao]] *co-founder of* [[Binance]] (ownership) · [[C10 Binance driving USD1 adoption|C10]]
-- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] (2025-10-22, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Donald Trump]] *head of* [[Trump family]] (family) · [[C10 Binance driving USD1 adoption|C10]]
 - [[Forbes]] *reported 87% USD1 concentration at* [[Binance]] (2026-02-09, media) · [[C10 Binance driving USD1 adoption|C10]]
 - [[MGX]] *invested $2B in, settled in USD1* [[Binance]] (2025-05-01, $2B, money) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]]

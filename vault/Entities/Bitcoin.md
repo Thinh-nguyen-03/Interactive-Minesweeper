@@ -4,8 +4,8 @@ kind: "entity"
 type: "asset"
 aliases:
   - "BTC"
-connections: 10
-claims: 4
+connections: 12
+claims: 5
 tags:
   - "entity"
   - "type/asset"
@@ -20,6 +20,7 @@ Cryptocurrency; price surged on regulatory anticipation when Trump took office.
 - Asset held by the federal reserve stockpile and by TMTG's treasury
 - Main TMTG treasury asset; price swings drive TMTG's paper losses and gains.
 - Cryptocurrency
+- Collateral for Cantor's lending programme
 
 ## Appears in claims
 
@@ -27,11 +28,13 @@ Cryptocurrency; price surged on regulatory anticipation when Trump took office.
 - [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]] · Mostly accurate
 - [[C24 TMTG ETFs, TAE fusion merger, TMTG losses]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 
 ## Relationships
 
 - [[American Bitcoin]] *mines and accumulates* [[Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[American Bitcoin]] *mines and holds* [[Bitcoin]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Cantor bitcoin financing business]] *collateralised by* [[Bitcoin]] (commercial) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Donald Trump]] *'crypto president' boosted* [[Bitcoin]] (political) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Metaplanet]] *holds as treasury* [[Bitcoin]] (ownership) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Metaplanet]] *holds as treasury asset* [[Bitcoin]] (commercial) · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]

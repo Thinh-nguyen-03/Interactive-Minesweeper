@@ -6,8 +6,8 @@ aliases:
   - "WLF"
   - "WLFI"
   - "World Liberty"
-connections: 70
-claims: 19
+connections: 73
+claims: 22
 tags:
   - "entity"
   - "type/company"
@@ -45,6 +45,9 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 
 ## Relationships
 
@@ -92,7 +95,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[Justin Sun]] *became adviser to* [[World Liberty Financial]] (advisory) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *bought $30M of WLFI tokens (via HTX)* [[World Liberty Financial]] (2024-11-25, $30M, money) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *bought $75M of WLFI tokens from* [[World Liberty Financial]] (2024-11, $75M, money) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
-- [[Justin Sun]] *invested $75M in* [[World Liberty Financial]] ($75M, money) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Justin Sun]] *invested $75M in* [[World Liberty Financial]] (2025-01, $75M, money) · [[C05 Justin Sun, WLF and the SEC|C05]] [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Justin Sun]] *investor in* [[World Liberty Financial]] (2024-11, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Justin Sun]] *named adviser to* [[World Liberty Financial]] (2024-11-26, advisory) · [[C04 World Liberty Financial founding and token sale|C04]] [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *sued over the freeze (C05)* [[World Liberty Financial]] (2026-04, legal) · [[C42 How World Liberty insiders took money out|C42]]
@@ -108,7 +111,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[Steve Witkoff]] *held stake, said to have divested* [[World Liberty Financial]] (ownership) · [[C14 Steve and Zach Witkoff|C14]]
 - [[Sheikh Tahnoon bin Zayed]] *linked entity bought 49% stake (see C06/C08)* [[World Liberty Financial]] (2025-01, money) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Tahnoon-linked investment vehicle]] *secretly bought 49% for $500M* [[World Liberty Financial]] (2025-01-16, $500M, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C14 Steve and Zach Witkoff|C14]]
-- [[Teresa Goody Guillén]] *counsel to* [[World Liberty Financial]] (legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+- [[Teresa Goody Guillén]] *counsel to* [[World Liberty Financial]] (2025, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Tron]] *added $45M WLFI purchase (total $75M)* [[World Liberty Financial]] (2025-01-20, $45M, money) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Trump family]] *holds ~$630M stake in stablecoin business of* [[World Liberty Financial]] (2026-06, $630M, ownership) · [[C10 Binance driving USD1 adoption|C10]]
 - [[USD1]] *earns ~$159M a year for* [[World Liberty Financial]] ($159M, money) · [[C10 Binance driving USD1 adoption|C10]]

@@ -24,7 +24,7 @@ tags:
 ## Follow-up checks
 
 - [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
-- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Pending
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 
 ## Summary
 
@@ -93,7 +93,6 @@ Foundation Future Industries is a 2024 San Francisco humanoid-robot startup led 
 - [[Ukraine]]
 - [[US Congress]]
 - [[US Marine Corps]]
-- [[US Marine Corps (us-marine-corps)]]
 - [[White House Trump administration]]
 - [[Wired]]
 
@@ -101,7 +100,7 @@ Foundation Future Industries is a 2024 San Francisco humanoid-robot startup led 
 
 - [[Elizabeth Warren]] *criticized as 'corruption in plain sight'* [[Foundation Future Industries]] (2026-04, political) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Eric Trump]] *justifies ventures as beating* [[China]] (political) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Eric Trump]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C28 Foundation Future Industries robots and Eric Trump|C28]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Eric Trump]] *chief strategy adviser to* [[Foundation Future Industries]] (2026-03, advisory) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Eric Trump]] *investor in* [[Foundation Future Industries]] (2026, money) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Foundation Future Industries]] *acquired (inheriting two federal contracts)* [[Boardwalk Robotics]] (2024, ownership) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
@@ -114,13 +113,13 @@ Foundation Future Industries is a 2024 San Francisco humanoid-robot startup led 
 - [[Maria Bartiromo]] *interviewed* [[Eric Trump]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Maria Bartiromo]] *host on* [[Fox News]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[US Marine Corps]] *branch under* [[Pentagon (Department of Defense)]] (political) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[US Marine Corps]] *planned breaching tests of* [[Phantom humanoid robot]] (2026, commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[US Marine Corps]] *to test* [[Phantom humanoid robot]] (commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Pentagon (Department of Defense)]] *Air Force SBIR award (~$1.8M), start 2024-11-07* [[Boardwalk Robotics]] (2024-11, $1.8M, commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Pentagon (Department of Defense)]] *awarded $24M contract to* [[Foundation Future Industries]] ($24M, money) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Pentagon (Department of Defense)]] *~$24M in research awards (Army/Navy/Air Force), as promoted* [[Foundation Future Industries]] (2026-04, $24M, commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Pentagon (Department of Defense)]] *awarded* [[$24M Pentagon contract for Foundation]] ($24M, money) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Sankaet Pathak]] *founder and CEO of* [[Foundation Future Industries]] (2024, ownership) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[US Marine Corps (us-marine-corps)]] *planned breaching tests of* [[Phantom humanoid robot]] (2026, commercial) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Wired]] *reported $24M figure 'fuzzy' and contracts inherited* [[Foundation Future Industries]] (2026, media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 - [[Wired]] *reported predates Eric Trump* [[$24M Pentagon contract for Foundation]] (media) · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 

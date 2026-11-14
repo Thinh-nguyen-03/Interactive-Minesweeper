@@ -5,8 +5,8 @@ type: "company"
 aliases:
   - "New America SPAC"
   - "new American acquisition one corp"
-connections: 15
-claims: 3
+connections: 16
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -20,19 +20,23 @@ $300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from go
 - Florida blank-check SPAC (NYSE: NWAX); IPO priced Dec. 2025, closed at $345M; Trump sons on advisory board.
 - SPAC advised by Don Jr. and Eric Trump (C27).
 - Trump-sons-advised SPAC (NYSE: NWAX); IPO co-led by Dominari Securities.
+- Trump sons' SPAC, co-led by Dominari and D. Boral (C27).
 
 ## Appears in claims
 
 - [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
 - [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 
 ## Relationships
 
 - [[Associated Press]] *reported removed incentives language* [[New America Acquisition I Corp]] (2025-08-04, media) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[D. Boral Capital]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[D. Boral Capital]] *co-led IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO (Dominari Securities)* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Dominari Holdings Dominari Securities]] *co-led IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Donald Trump Jr]] *adviser to* [[New America Acquisition I Corp]] (advisory) · [[C27 New America Acquisition I Corp SPAC|C27]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *strategic adviser; holds 2M founder shares (~$20M paper value)* [[New America Acquisition I Corp]] (2025-08, $20M, advisory) · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Eric Trump]] *adviser to* [[New America Acquisition I Corp]] (advisory) · [[C27 New America Acquisition I Corp SPAC|C27]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]

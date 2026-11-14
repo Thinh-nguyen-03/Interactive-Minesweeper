@@ -2,8 +2,8 @@
 id: "david-sacks"
 kind: "entity"
 type: "person"
-connections: 17
-claims: 2
+connections: 19
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -15,11 +15,13 @@ tags:
 White House AI and crypto czar (SGE) until March 2026, then PCAST co-chair; Craft Ventures co-founder
 
 - White House AI and crypto czar involved in UAE chip talks
+- White House AI & crypto czar; chairs the working group
 
 ## Appears in claims
 
 - [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 
 ## Relationships
 
@@ -29,6 +31,7 @@ White House AI and crypto czar (SGE) until March 2026, then PCAST co-chair; Craf
 - [[David Sacks]] *coordinated White House push for* [[GENIUS Act]] (2025-07, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[David Sacks]] *reported dinner disputed, dropped from NYT story* [[Jensen Huang]] (commercial) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[David Sacks]] *became co-chair* [[President's Council of Advisors on Science and Technology]] (2026-03, advisory) · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[David Sacks]] *chairs* [[President's Working Group on Digital Asset Markets]] (advisory) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[David Sacks]] *negotiated* [[UAE AI chips deal]] (2025-05, political) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[David Sacks]] *reportedly pushed expansive chip access in* [[UAE AI chips deal]] (2025-05, political) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[David Warrington]] *signed crypto ethics waiver for* [[David Sacks]] (2025-03-05, regulatory) · [[C34 David Sacks AI & crypto czar with investments|C34]]

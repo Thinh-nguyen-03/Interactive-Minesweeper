@@ -26,7 +26,7 @@ tags:
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
-- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Pending
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 
 ## Summary
 
@@ -117,7 +117,7 @@ The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar
 - [[SEC investigation into Crypto.com]]
 - [[SEC lawsuit against Binance]]
 - [[Securities and Exchange Commission]]
-- [[Tether (Tether America)]]
+- [[Tether]]
 - [[The New York Times]]
 - [[Trump 2024 election campaign]]
 - [[Trump 47 Committee]]
@@ -158,7 +158,7 @@ The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Coinbase]] (2025-02-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *dropped lawsuit against* [[Coinbase]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit* [[Consensys]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit* [[Cumberland (DRW)]] (2025-03-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *closed investigation with no action* [[Gemini]] (2025-02-26, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dropped case against* [[Gemini]] (regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
@@ -176,7 +176,7 @@ The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar
 - [[SEC crypto cases dropped (wave)]] *coincided with donations to* [[Trump inauguration fund]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[SEC crypto cases dropped (wave)]] *coincided with sponsorship of* [[White House ballroom]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[SEC lawsuit against Binance]] *targeted* [[Binance]] (legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
-- [[Tether (Tether America)]] *donor to (via Tether America)* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Tether]] *donor to (via Tether America)* [[White House ballroom]] (2025-10, money) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Trump 2024 election campaign]] *funded election of* [[Donald Trump]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Trump 47 Committee]] *campaign committee for* [[Donald Trump]] (political) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Trump-affiliated PACs]] *support* [[Donald Trump]] (political) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
@@ -191,7 +191,7 @@ The SEC did drop or close its cases against Coinbase (Feb 27, 2025), Kraken (Mar
 
 - **Robinhood: an inaugural donor whose SEC crypto probe was closed in Feb 2025**: Same pattern as the exchanges: Robinhood's SEC crypto investigation was closed early in the term, and search results list Robinhood as an inaugural donor (a reported $2M, not verified here). The video does not cover it. [source](https://decrypt.co/356030/how-the-sec-is-handling-crypto-cases-12-months-into-trumps-presidency) · [[Securities and Exchange Commission]] [[Donald Trump]] [[Trump-Vance Inaugural Committee]]
 - **NYT analysis: SEC eased ~60% of inherited crypto cases, with several tied to Trump donors**: A systematic version of this claim; the full case list and the donor overlaps deserve their own check. [source](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped) · [[The New York Times]] [[Securities and Exchange Commission]] [[Binance]] [[Ripple]] [[Coinbase]]
-- **Tether America among White House ballroom donors**: Stablecoin issuer funding Trump's ballroom while stablecoin law (GENIUS Act) and USD1 competition are in play. [source](https://www.theblock.co/post/376062/crypto-donors-trump-white-house-ballroom) · [[Tether (Tether America)]] [[White House ballroom]] [[GENIUS Act]] [[USD1]]
+- **Tether America among White House ballroom donors**: Stablecoin issuer funding Trump's ballroom while stablecoin law (GENIUS Act) and USD1 competition are in play. [source](https://www.theblock.co/post/376062/crypto-donors-trump-white-house-ballroom) · [[Tether]] [[White House ballroom]] [[GENIUS Act]] [[USD1]]
 - **Public Citizen tracker of halted corporate enforcement actions**: A broader tracker of dropped enforcement, including crypto cases. [source](https://www.citizen.org/news/enforcement-actions-against-over-100-corporations-stopped-by-trump/) · [[Securities and Exchange Commission]] [[Donald Trump]]
 
 ## Sources

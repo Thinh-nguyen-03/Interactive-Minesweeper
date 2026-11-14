@@ -2,8 +2,8 @@
 id: "d-boral-capital"
 kind: "entity"
 type: "company"
-connections: 4
-claims: 2
+connections: 5
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -12,16 +12,20 @@ tags:
 
 *company*
 
-Co-underwriter of NWAX; also received a House CCP committee letter.
+Underwriter that also received a committee letter; co-led the sons' SPAC IPO.
 
+- Co-underwriter of NWAX; also received a House CCP committee letter.
 - Co-book-running underwriter of the NWAX IPO.
 
 ## Appears in claims
 
 - [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 
 ## Relationships
 
 - [[D. Boral Capital]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[D. Boral Capital]] *co-led IPO* [[New America Acquisition I Corp]] (2025-12, commercial) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[D. Boral Capital]] (2026-03-08, regulatory) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[D. Boral Capital]] (2026-03-08, regulatory) · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]

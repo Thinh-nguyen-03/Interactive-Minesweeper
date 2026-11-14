@@ -14,10 +14,12 @@ tags:
 
 Alleged routing jurisdiction for the Saudi/UAE funds and an alleged $1B transfer to Israel.
 
+- Alleged routing jurisdiction for the funds; no official response found.
+
 ## Appears in claims
 
 - [[C37 Jared Kushner's hacked phone]] · Unverified
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Pending
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
 
 ## Relationships
 

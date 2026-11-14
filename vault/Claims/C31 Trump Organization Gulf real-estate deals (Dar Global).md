@@ -30,7 +30,7 @@ tags:
 
 ## Follow-up checks
 
-- [[C45 Kushner's Albania and Serbia developments]] · Pending
+- [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
 
 ## Summary
 

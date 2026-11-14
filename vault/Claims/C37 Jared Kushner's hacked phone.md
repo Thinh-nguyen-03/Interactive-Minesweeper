@@ -28,8 +28,8 @@ tags:
 
 ## Follow-up checks
 
-- [[C45 Kushner's Albania and Serbia developments]] · Pending
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Pending
+- [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
 
 ## Summary
 

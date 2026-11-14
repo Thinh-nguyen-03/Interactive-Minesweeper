@@ -9,8 +9,8 @@ aliases:
   - "Tahnoon bin Zayed Al Nahyan"
   - "Tahoon bin Zayed"
   - "spy sheikh"
-connections: 16
-claims: 7
+connections: 18
+claims: 8
 tags:
   - "entity"
   - "type/person"
@@ -36,11 +36,13 @@ UAE national security adviser, brother of the UAE president, MGX chairman; tied 
 - [[C14 Steve and Zach Witkoff]] · Mostly accurate
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
 
 ## Relationships
 
 - [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]]
 - [[Sheikh Tahnoon bin Zayed]] *linked to / backs* [[Aryam Investment 1]] (2025-01, ownership) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[First Abu Dhabi Bank]] (ownership) · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]
 - [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] (ownership) · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] (2024-03, ownership) · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Sheikh Tahnoon bin Zayed]] *brother of* [[Mohamed bin Zayed]] (family) · [[C06 Secret $500M 49% UAE stake in WLF|C06]]

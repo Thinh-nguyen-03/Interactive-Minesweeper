@@ -4,8 +4,8 @@ kind: "entity"
 type: "event"
 aliases:
   - "CZ pardon"
-connections: 9
-claims: 3
+connections: 10
+claims: 4
 tags:
   - "entity"
   - "type/event"
@@ -25,9 +25,11 @@ Trump's pardon of Binance's founder.
 - [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
 - [[C10 Binance driving USD1 adoption]] · Mostly accurate
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 
 ## Relationships
 
+- [[Changpeng Zhao]] *recipient of* [[Pardon of Changpeng Zhao]] (2025-10, legal) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Pardon of Changpeng Zhao]] *eases US re-entry of* [[Binance]] (regulatory) · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Pardon of Changpeng Zhao]] *pardon of* [[Changpeng Zhao]] (2025-10-23, legal) · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Pardon of Changpeng Zhao]] *pardoned* [[Changpeng Zhao]] (2025-10-23, legal) · [[C09 Binance SEC case dropped and CZ pardon|C09]]

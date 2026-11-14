@@ -20,12 +20,12 @@ Selling access and the presidential brand directly: holder dinners, merch, a pai
 
 ## People and organisations
 
+- [[Trump Bible]]
 - [[Intel trading meme post]]
 - [[Melania Trump NFTs]]
 - [[Trump military parade]]
 - [[Qatar Boeing 747 gift]]
 - [[T1 phone]]
-- [[Trump Bible]]
 - [[$TRUMP meme coin]]
 - [[Dinner for top $TRUMP holders]]
 - [[Trump fragrances]]

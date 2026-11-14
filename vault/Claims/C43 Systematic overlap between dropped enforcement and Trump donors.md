@@ -32,7 +32,7 @@ tags:
 
 ## Follow-up checks
 
-- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Pending
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 
 ## Summary
 
@@ -121,7 +121,7 @@ The overlap is documented. The NYT (Dec 14, 2025, known only secondhand here) fo
 - [[OpenSea]]
 - [[Paul Atkins]]
 - [[Public Citizen]]
-- [[Rainberry Inc. (formerly BitTorrent)]]
+- [[Rainberry]]
 - [[Ripple]]
 - [[Robinhood Markets]]
 - [[Securities and Exchange Commission]]
@@ -155,7 +155,7 @@ The overlap is documented. The NYT (Dec 14, 2025, known only secondhand here) fo
 - [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[White House Trump administration]] (2025, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Justin Sun]] *investor in* [[World Liberty Financial]] (2024-11, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Karoline Leavitt]] *press secretary of* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[MAGA Inc]] *super PAC supporting* [[Donald Trump]] (political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[MAGA Inc]] *super PAC supporting* [[Donald Trump]] (political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Maxine Waters]] *alleged 'pay-to-play' in letter to* [[Securities and Exchange Commission]] (2026-01-15, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Maxine Waters]] *member of* [[US Congress]] (political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[The New York Times]] *found eased ~60% (reportedly 14 of 23) of inherited crypto cases* [[Securities and Exchange Commission]] (2025-12-14, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
@@ -163,11 +163,11 @@ The overlap is documented. The NYT (Dec 14, 2025, known only secondhand here) fo
 - [[Public Citizen]] *cited $76.1M political influence spending by* [[Coinbase]] ($76.1M, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Public Citizen]] *cited $55M political influence spending by* [[Ripple]] ($55M, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Public Citizen]] *tracks canceled enforcement (23 crypto actions dropped/halted)* [[Securities and Exchange Commission]] (2025, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Rainberry Inc. (formerly BitTorrent)]] *agreed to pay $10M penalty to* [[Securities and Exchange Commission]] (2026-03-05, $10M, legal) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Rainberry]] *agreed to pay $10M penalty to* [[Securities and Exchange Commission]] (2026-03-05, $10M, legal) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Robinhood Markets]] *donated $2M to* [[Trump-Vance Inaugural Committee]] (2025-01, $2M, money) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Binance]] (2025-05-29, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Coinbase]] (2025-02-27, regulatory) · [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
-- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Securities and Exchange Commission]] *closed investigation; dismissed Earn suit* [[Gemini]] (2025-02-26, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *closed investigation* [[Immutable]] (2025-03-25, regulatory) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Securities and Exchange Commission]] *paused, then dismissed claims against* [[Justin Sun]] (2026-03-05, legal) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
@@ -184,7 +184,7 @@ The overlap is documented. The NYT (Dec 14, 2025, known only secondhand here) fo
 ## Leads not covered by the video
 
 - **Gemini's CFTC consent-judgment vacatur bid and the Winklevoss $10M BTC gift to MAGA Inc.**: The CFTC joined Gemini's bid to erase a $5M penalty; 23 days later the Winklevoss twins gave over $10M to MAGA Inc. A judge reportedly denied the bid in Oct 2026. [source](https://cryptoslate.com/winklevoss-twins-gave-trumps-super-pac-10-million-23-days-after-cftc-joined-gemini-relief-bid/) · [[Commodity Futures Trading Commission]] [[Gemini]] [[Cameron Winklevoss]] [[Tyler Winklevoss]] [[MAGA Inc]]
-- **SEC settles Justin Sun case: Rainberry pays $10M, all claims against Sun dismissed**: A WLF investor's SEC case was paused after his Trump-venture purchases and then resolved with no personal penalty. Whether the court approved it is unconfirmed. [source](https://www.crowdfundinsider.com/2026/03/265302-sec-permanently-dismisses-claims-against-justin-sun-and-tron-foundation-bittorrent-dev-rainberry-to-pay-10m-fine/) · [[Securities and Exchange Commission]] [[Justin Sun]] [[Rainberry Inc. (formerly BitTorrent)]] [[World Liberty Financial]]
+- **SEC settles Justin Sun case: Rainberry pays $10M, all claims against Sun dismissed**: A WLF investor's SEC case was paused after his Trump-venture purchases and then resolved with no personal penalty. Whether the court approved it is unconfirmed. [source](https://www.crowdfundinsider.com/2026/03/265302-sec-permanently-dismisses-claims-against-justin-sun-and-tron-foundation-bittorrent-dev-rainberry-to-pay-10m-fine/) · [[Securities and Exchange Commission]] [[Justin Sun]] [[Rainberry]] [[World Liberty Financial]]
 - **Sudden resignation of the SEC enforcement director (Mar 2026) and Blumenthal's inquiry into whether crypto cases were involved**: Possible internal dissent over the crypto enforcement retreat. [source](https://www.thinkadvisor.com/amp/2026/03/30/senator-seeks-answers-on-sec-enforcement-heads-sudden-resignation/) · [[Securities and Exchange Commission]] [[US Congress]]
 - **Gemini hires Miller Strategies, the Trump-linked lobbying firm also tied to Crypto.com**: The same Trump-connected lobbyist network appears at two exchanges whose enforcement was eased. [source](https://legis1.com/news/crypto-regulation-lobbying-gemini) · [[Gemini]] [[Miller Strategies]] [[Jeff Miller]] [[Crypto.com]]
 - **Kraken and Blockchain.com hire Trump-tied Ballard Partners**: Kraken's SEC suit was dismissed in Mar 2025 after it hired Ballard (Dec 2024, $60K with Blockchain.com). [source](https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html) · [[Kraken]] [[Securities and Exchange Commission]]

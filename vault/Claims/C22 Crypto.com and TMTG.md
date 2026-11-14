@@ -25,7 +25,7 @@ tags:
 
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
-- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Pending
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 
 ## Summary
 
@@ -148,13 +148,13 @@ Each core fact is documented. Crypto.com agreed on 2025-08-26 to buy $50M of TMT
 - [[Karoline Leavitt]] *press secretary for* [[White House Trump administration]] (political) · [[C22 Crypto.com and TMTG|C22]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Kris Marszalek]] *CEO of* [[Crypto.com]] (ownership) · [[C22 Crypto.com and TMTG|C22]]
 - [[MAGA Inc]] *super PAC backing* [[Donald Trump]] (political) · [[C22 Crypto.com and TMTG|C22]]
-- [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] (regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] (regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Molly White]] *tallied $36M in Trump-linked contributions from* [[Crypto.com]] (media) · [[C22 Crypto.com and TMTG|C22]]
 - [[Office of the Comptroller of the Currency]] *provisionally approved* [[Crypto.com national trust bank charter]] (regulatory) · [[C22 Crypto.com and TMTG|C22]]
 - [[Office of the Comptroller of the Currency]] *granted conditional national trust charter* [[Foris DAX National Trust Bank]] (2026-02-23, regulatory) · [[C22 Crypto.com and TMTG|C22]]
 - [[Paul Atkins]] *chairs* [[Securities and Exchange Commission]] (regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C22 Crypto.com and TMTG|C22]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Paul Atkins]] *pro-crypto leader of* [[Securities and Exchange Commission]] (regulatory) · [[C22 Crypto.com and TMTG|C22]]
-- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] (2025-03-27, regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Securities and Exchange Commission]] *closed with no action* [[SEC investigation into Crypto.com]] (regulatory) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[SEC investigation into Crypto.com]] *targeted* [[Crypto.com]] (legal) · [[C22 Crypto.com and TMTG|C22]]
 - [[Trump-affiliated PACs]] *support* [[Donald Trump]] (political) · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]]

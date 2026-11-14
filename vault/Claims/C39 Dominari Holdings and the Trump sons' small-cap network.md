@@ -30,7 +30,7 @@ tags:
 
 ## Follow-up checks
 
-- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Pending
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 
 ## Summary
 

@@ -102,6 +102,9 @@ ALIASES = {
     "tron-foundation": "tron",
     "polymarket-us": "polymarket",
     "1789": "1789-capital",
+    "trump-bible": "god-bless-the-usa-bible",
+    "us-marine-corps": "marine-corps",
+    "us-department-of-commerce": "us-commerce-department",
 }
 
 VERDICTS = ["confirmed", "mostly-accurate", "partly-accurate", "misleading",

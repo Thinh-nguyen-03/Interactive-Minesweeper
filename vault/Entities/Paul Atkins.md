@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "pro-crypto SEC commissioner"
-connections: 9
-claims: 5
+connections: 12
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -29,6 +29,7 @@ Trump's pro-crypto SEC nominee (unnamed in the video: 'a new pro-crypto SEC comm
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 
 ## Relationships
 
@@ -37,8 +38,11 @@ Trump's pro-crypto SEC nominee (unnamed in the video: 'a new pro-crypto SEC comm
 - [[Donald Trump]] *nominated to SEC* [[Paul Atkins]] (regulatory) · [[C22 Crypto.com and TMTG|C22]]
 - [[Elizabeth Warren]] *addressed letter to* [[Paul Atkins]] (2026-07-28, political) · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Elizabeth Warren]] *asked SEC to investigate $TRUMP (with Blumenthal)* [[Paul Atkins]] (2026-08-04, regulatory) · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Elizabeth Warren]] *letters on Ryan's exit and enforcement decline* [[Paul Atkins]] (2026-04-15, political) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Margaret 'Meg' Ryan]] *reportedly clashed with (anonymous Reuters sources)* [[Paul Atkins]] (2026-03, regulatory) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Paul Atkins]] *chairs* [[Securities and Exchange Commission]] (regulatory) · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C22 Crypto.com and TMTG|C22]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Paul Atkins]] *pro-crypto leader of* [[Securities and Exchange Commission]] (regulatory) · [[C22 Crypto.com and TMTG|C22]]
+- [[Richard Blumenthal]] *letter demanding records on crypto settlements and Ryan's exit* [[Paul Atkins]] (2026-03-30, political) · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Sylvia Garcia]] *questioned at hearing* [[Paul Atkins]] (2026-02-11, political) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 
 ## Themes

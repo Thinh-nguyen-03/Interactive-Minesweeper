@@ -24,7 +24,7 @@ tags:
 ## Follow-up checks
 
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
-- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Pending
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 
 ## Summary
 
@@ -96,7 +96,7 @@ The core facts hold up. Sun put a total of $75M into WLF ($30M in Nov 2024 plus 
 - [[Donald Trump]]
 - [[HTX (formerly Huobi)]]
 - [[Justin Sun]]
-- [[Rainberry Inc. (formerly BitTorrent)]]
+- [[Rainberry]]
 - [[SEC fraud case against Justin Sun]]
 - [[Securities and Exchange Commission]]
 - [[Sun v. World Liberty lawsuits]]
@@ -112,7 +112,7 @@ The core facts hold up. Sun put a total of $75M into WLF ($30M in Nov 2024 plus 
 - [[Donald Trump]] *family-linked backer/promoter of* [[World Liberty Financial]] (ownership) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[HTX (formerly Huobi)]] *on-chain buyer of $30M of* [[WLFI token]] (2024-11-25, $30M, money) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *closely associated with* [[HTX (formerly Huobi)]] (ownership) · [[C05 Justin Sun, WLF and the SEC|C05]]
-- [[Justin Sun]] *owns* [[Rainberry Inc. (formerly BitTorrent)]] (ownership) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Justin Sun]] *owns* [[Rainberry]] (ownership) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *party to* [[Sun v. World Liberty lawsuits]] (legal) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *founded* [[Tron]] (ownership) · [[C04 World Liberty Financial founding and token sale|C04]] [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *founder of* [[Tron]] (ownership) · [[C05 Justin Sun, WLF and the SEC|C05]]
@@ -120,10 +120,10 @@ The core facts hold up. Sun put a total of $75M into WLF ($30M in Nov 2024 plus 
 - [[Justin Sun]] *accused of 'personal ATM' governance scam* [[World Liberty Financial]] (legal) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *became adviser to* [[World Liberty Financial]] (advisory) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *bought $30M of WLFI tokens (via HTX)* [[World Liberty Financial]] (2024-11-25, $30M, money) · [[C05 Justin Sun, WLF and the SEC|C05]]
-- [[Justin Sun]] *invested $75M in* [[World Liberty Financial]] ($75M, money) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Justin Sun]] *invested $75M in* [[World Liberty Financial]] (2025-01, $75M, money) · [[C05 Justin Sun, WLF and the SEC|C05]] [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Justin Sun]] *named adviser to* [[World Liberty Financial]] (2024-11-26, advisory) · [[C04 World Liberty Financial founding and token sale|C04]] [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *sued over token freeze (N.D. Cal.)* [[World Liberty Financial]] (2026-04-22, legal) · [[C05 Justin Sun, WLF and the SEC|C05]]
-- [[Rainberry Inc. (formerly BitTorrent)]] *agreed to pay civil penalty (wash trading)* [[Securities and Exchange Commission]] (2026-03-05, $10M, legal) · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Rainberry]] *agreed to pay civil penalty (wash trading)* [[Securities and Exchange Commission]] (2026-03-05, $10M, legal) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Securities and Exchange Commission]] *dismissed claims against* [[BitTorrent Foundation Ltd]] (2026-03-05, regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Securities and Exchange Commission]] *charged with fraud, then dismissed case* [[Justin Sun]] (regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Securities and Exchange Commission]] *dismissed all claims against* [[Justin Sun]] (2026-03-05, regulatory) · [[C05 Justin Sun, WLF and the SEC|C05]]

@@ -86,7 +86,6 @@ Every product named exists and pays Trump royalties: NFTs (Dec 2022), watches, g
 - [[Elizabeth Warren]]
 - [[Eric Trump]]
 - [[Federal Trade Commission]]
-- [[God Bless the USA Bible]]
 - [[NFT INT LLC]]
 - [[T1 phone]]
 - [[Trump Bible]]
@@ -103,7 +102,7 @@ Every product named exists and pays Trump royalties: NFTs (Dec 2022), watches, g
 
 ## Relationships documented
 
-- [[CIC Ventures LLC]] *licensor of* [[God Bless the USA Bible]] (2024-03, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[CIC Ventures LLC]] *licensor of* [[Trump Bible]] (2024-03, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[CIC Ventures LLC]] *licensor of* [[Trump golden sneakers]] (2024-02, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Coffeezilla]] *ordered, then was doxxed* [[T1 phone]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Coffeezilla]] *ordered T1; personal data exposed by* [[Trump Mobile]] (2026-05, media) · [[C17 Trump merchandise and the T1 phone|C17]]
@@ -117,7 +116,7 @@ Every product named exists and pays Trump royalties: NFTs (Dec 2022), watches, g
 - [[Donald Trump Jr]] *co-announced launch of* [[Trump Mobile]] (2025-06-16, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Elizabeth Warren]] *urged investigation of Trump Mobile marketing* [[Federal Trade Commission]] (2026-01-15, regulatory) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Eric Trump]] *co-announced launch of* [[Trump Mobile]] (2025-06-16, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
-- [[God Bless the USA Bible]] *paid royalties via Greenwood (2024) to* [[Donald Trump]] (2024, $1.31M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Trump Bible]] *paid royalties via Greenwood (2024) to* [[Donald Trump]] (2024, $1.31M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[NFT INT LLC]] *paid NFT licensing income (2024) to* [[Donald Trump]] (2024, $1.16M, money) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[NFT INT LLC]] *issued* [[Trump Digital Trading Cards]] (2022-12-15, commercial) · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[T1 phone]] *dropped 'made in America' claim* [[United States]] (commercial) · [[C17 Trump merchandise and the T1 phone|C17]]

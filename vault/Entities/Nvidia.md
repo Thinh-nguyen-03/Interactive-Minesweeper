@@ -2,7 +2,7 @@
 id: "nvidia"
 kind: "entity"
 type: "company"
-connections: 9
+connections: 10
 claims: 5
 tags:
   - "entity"
@@ -12,8 +12,9 @@ tags:
 
 *company*
 
-Maker of the advanced AI chips exported to the UAE
+AI-chip maker whose chips are allegedly diverted to China
 
+- Maker of the advanced AI chips exported to the UAE
 - Maker of the advanced AI chips exported to UAE
 - AI-chip maker whose exports Commerce licenses
 - Invested $5B in Intel in Sept 2025
@@ -24,11 +25,12 @@ Maker of the advanced AI chips exported to the UAE
 - [[C20 Trump's stock purchases and Truth Social posts]] · Mostly accurate
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
-- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Pending
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 
 ## Relationships
 
 - [[Jensen Huang]] *CEO of* [[Nvidia]] (ownership) · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Megaspeed]] *suspected diverter of chips from* [[Nvidia]] (commercial) · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Nvidia]] *supplies AI chips to* [[G42]] (2025-11, commercial) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Nvidia]] *invested $5B in* [[Intel]] (2025-09, $5B, money) · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[US Department of Commerce]] *licenses AI-chip exports of* [[Nvidia]] (regulatory) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]

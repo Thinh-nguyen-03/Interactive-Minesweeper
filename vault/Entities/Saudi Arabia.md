@@ -2,8 +2,8 @@
 id: "saudi-arabia"
 kind: "entity"
 type: "country"
-connections: 8
-claims: 3
+connections: 9
+claims: 4
 tags:
   - "entity"
   - "type/country"
@@ -17,12 +17,14 @@ Gulf state whose PIF backs Kushner's fund.
 - Owner of the PIF, Affinity's anchor investor.
 - Host of the Jeddah and Riyadh projects
 - Alleged co-funder of the secret account; owner of the PIF.
+- Alleged co-funder of the accounts.
 
 ## Appears in claims
 
 - [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
 - [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
 - [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified
 
 ## Relationships
 

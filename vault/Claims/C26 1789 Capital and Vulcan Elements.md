@@ -25,7 +25,7 @@ tags:
 
 - [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
 - [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
-- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Pending
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 
 ## Summary
 
@@ -111,7 +111,7 @@ Don Jr. is a 1789 Capital partner. The firm passed $1B in assets in September 20
 - [[Unnamed top White House aide]]
 - [[Unusual Machines]]
 - [[US Congress]]
-- [[US Department of Commerce (CHIPS Program Office)]]
+- [[US Department of Commerce]]
 - [[US federal government]]
 - [[Vulcan $620M OSC loan $1.4B package]]
 - [[Vulcan 10,000-tonne magnet facility]]
@@ -125,9 +125,9 @@ Don Jr. is a 1789 Capital partner. The firm passed $1B in assets in September 20
 - [[1789 Capital]] *invested in* [[Vulcan Elements]] (money) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[1789 Capital]] *invested in $65M Series A of* [[Vulcan Elements]] (2025-08, money) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Chris Buskirk]] *co-founder and partner of* [[1789 Capital]] (ownership) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
-- [[Donald Trump Jr]] *adviser and shareholder of* [[Unusual Machines]] (advisory) · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] (2024-11, ownership) · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *son of* [[Donald Trump]] (family) · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *adviser and shareholder of* [[Unusual Machines]] (2024-11, advisory) · [[C26 1789 Capital and Vulcan Elements|C26]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[John Maslin]] *CEO of* [[Vulcan Elements]] (ownership) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[The New York Times]] *reported ~200% returns of* [[1789 Capital]] (2026-07-22, media) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Office of Strategic Capital]] *office within* [[Pentagon (Department of Defense)]] (regulatory) · [[C26 1789 Capital and Vulcan Elements|C26]]
@@ -142,9 +142,9 @@ Don Jr. is a 1789 Capital partner. The firm passed $1B in assets in September 20
 - [[ProPublica]] *investigated* [[Vulcan $620M OSC loan $1.4B package]] (2026-05-28, media) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Unnamed top White House aide]] *initiated government deal for* [[Vulcan Elements]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Unnamed top White House aide]] *top aide in* [[White House Trump administration]] (political) · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[US Department of Commerce]] *$50M CHIPS incentives/equity to* [[Vulcan Elements]] (2025-11-03, $50M, money) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[US Congress]] *Raskin inquiry into* [[1789 Capital]] (2026-08-26, legal) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[US Congress]] *Democrats demanded documents from* [[Vulcan Elements]] (2026-08-11, legal) · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[US Department of Commerce (CHIPS Program Office)]] *$50M CHIPS incentives/equity to* [[Vulcan Elements]] (2025-11-03, $50M, money) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[US federal government]] *partnered on $1B facility with* [[Vulcan Elements]] ($1B, commercial) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Vulcan Elements]] *operates in* [[Rare-earth magnets sector]] (commercial) · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[Vulcan Elements]] *supply partner of* [[ReElement Technologies]] (2025-11, commercial) · [[C26 1789 Capital and Vulcan Elements|C26]]

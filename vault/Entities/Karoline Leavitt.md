@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "White House press secretary"
-connections: 14
-claims: 7
+connections: 15
+claims: 8
 tags:
   - "entity"
   - "type/person"
@@ -31,6 +31,7 @@ White House press secretary (unnamed in video) who said the president abides by 
 - [[C24 TMTG ETFs, TAE fusion merger, TMTG losses]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 
 ## Relationships
 
@@ -42,6 +43,7 @@ White House press secretary (unnamed in video) who said the president abides by 
 - [[Karoline Leavitt]] *defended as compliant with conflict-of-interest laws* [[$TRUMP holders' dinner (May 22, 2025)]] (2025-05-09, political) · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Karoline Leavitt]] *press secretary for* [[White House Trump administration]] (political) · [[C22 Crypto.com and TMTG|C22]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Karoline Leavitt]] *press secretary of* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Karoline Leavitt]] *press secretary; denies pardon profiteering* [[White House Trump administration]] (political) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Karoline Leavitt]] *speaks for* [[White House Trump administration]] (political) · [[C03 Dinner for top $TRUMP holders|C03]]
 
 ## Themes

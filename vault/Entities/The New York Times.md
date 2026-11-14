@@ -4,8 +4,9 @@ kind: "entity"
 type: "media"
 aliases:
   - "NYT"
-connections: 18
-claims: 9
+  - "New York Times"
+connections: 22
+claims: 11
 tags:
   - "entity"
   - "type/media"
@@ -33,6 +34,8 @@ Reported Affinity's $5B raise.
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
 - [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
 
 ## Relationships
 
@@ -43,7 +46,9 @@ Reported Affinity's $5B raise.
 - [[The New York Times]] *investigated holdings (708 tech, 449 AI)* [[David Sacks]] (2025-11-30, media) · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[The New York Times]] *tallied at least $2.2B in 2025 income* [[Donald Trump]] (2026-07-01, $2.2B, media) · [[C29 Trump family wealth gains|C29]]
 - [[The New York Times]] *reported AG pitch* [[Donald Trump Jr]] (2026-08-27, media) · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[The New York Times]] *broke the dinner-pardon story* [[Paul Walczak]] (2025-05-27, media) · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[The New York Times]] *analyzed crypto case outcomes of* [[Securities and Exchange Commission]] (2025-12, media) · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[The New York Times]] *found eased ~60% (reportedly 14 of 23) of inherited crypto cases* [[Securities and Exchange Commission]] (2025-12-14, media) · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[The New York Times]] *reported state outreach by* [[White House Trump administration]] (2026-08-27, media) · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[The New York Times]] *investigated UAE deals of* [[World Liberty Financial]] (2025-09-15, media) · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Trump Organization]] *demanded retraction of tungsten story* [[The New York Times]] (2026-07, legal) · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]

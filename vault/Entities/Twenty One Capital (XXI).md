@@ -24,4 +24,4 @@ Bitcoin treasury company backed by Tether, Bitfinex and SoftBank; listed via Can
 - [[Cantor Equity Partners]] *SPAC merger partner* [[Twenty One Capital (XXI)]] (2025-12-09, commercial) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Jack Mallers]] *CEO* [[Twenty One Capital (XXI)]] (ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[SoftBank]] *minority owner; ~$900M* [[Twenty One Capital (XXI)]] (2025-04-23, $900M, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Tether (Tether America)]] *majority owner; contributed ~$1.6B in BTC* [[Twenty One Capital (XXI)]] (2025-04-23, $1.6B, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Tether]] *majority owner; contributed ~$1.6B in BTC* [[Twenty One Capital (XXI)]] (2025-04-23, $1.6B, ownership) · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]

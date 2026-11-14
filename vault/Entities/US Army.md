@@ -2,8 +2,8 @@
 id: "us-army"
 kind: "entity"
 type: "government"
-connections: 4
-claims: 1
+connections: 5
+claims: 2
 tags:
   - "entity"
   - "type/government"
@@ -14,9 +14,12 @@ tags:
 
 Purchaser of UMAC motors (101st Airborne) and Firehawk Hydra-70 prototypes.
 
+- Customer for UMAC drone motors (see C32)
+
 ## Appears in claims
 
 - [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 
 ## Relationships
 

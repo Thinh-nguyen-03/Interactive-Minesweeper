@@ -30,7 +30,7 @@ tags:
 
 ## Follow-up checks
 
-- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Pending
+- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
 
 ## Summary
 
@@ -114,14 +114,14 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 - [[Miami Dade College downtown parcel]]
 - [[National Trust for Historic Preservation]]
 - [[Original Trump presidential library fund (Florida, Dec 2024)]]
-- [[Paramount Global]]
+- [[Paramount]]
 - [[Public Citizen]]
 - [[Qatar Boeing 747 gift]]
 - [[Ripple]]
 - [[Securities and Exchange Commission]]
 - [[Skydance Media]]
 - [[Skydance-Paramount merger]]
-- [[Tether (Tether America)]]
+- [[Tether]]
 - [[The Walt Disney Company]]
 - [[Trump Presidential Library Foundation]]
 - [[Trust for the National Mall]]
@@ -147,21 +147,21 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 - [[Donald Trump]] *directs and promotes* [[White House ballroom]] (2025-07, political) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Elizabeth Warren]] *probing missing settlement money at* [[Trump Presidential Library Foundation]] (2026-04-20, political) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Elizabeth Warren]] *member of* [[US Congress]] (political) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C44 Melania Trump's Amazon documentary deal|C44]]
-- [[Elon Musk]] *owns* [[X Corp]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Elon Musk]] *owns* [[X Corp]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Federal Communications Commission]] *approved 2-1 with ombudsman/anti-DEI conditions* [[Skydance-Paramount merger]] (2025-07-24, regulatory) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Meta Platforms]] *settled suspension suit for $25M (~$22M to library)* [[Original Trump presidential library fund (Florida, Dec 2024)]] (2025-01-29, $22M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Meta Platforms]] *listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Miami Dade College downtown parcel]] *deeded for $10 to* [[Trump Presidential Library Foundation]] (2026-02, $67M, ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[National Trust for Historic Preservation]] *sued to halt construction of* [[White House ballroom]] (2025-12, legal) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Paramount Global]] *settled '60 Minutes' suit for $16M incl. fees, remainder to library* [[Original Trump presidential library fund (Florida, Dec 2024)]] (2025-07-02, $16M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Paramount]] *settled '60 Minutes' suit for $16M incl. fees, remainder to library* [[Original Trump presidential library fund (Florida, Dec 2024)]] (2025-07-02, $16M, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Public Citizen]] *published donor-conflict analysis of* [[White House ballroom]] (2026-06-04, media) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Qatar Boeing 747 gift]] *reportedly to be transferred to* [[Trump Presidential Library Foundation]] (2025-05-11, ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Ripple]] *listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Securities and Exchange Commission]] *dismissed enforcement case with prejudice* [[Coinbase]] (2025-02-27, regulatory) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Securities and Exchange Commission]] *closed investigation* [[Gemini]] (2025, regulatory) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Securities and Exchange Commission]] *dropped cross-appeal; $125M penalty stands* [[Ripple]] (2025-08-07, $125.04M, regulatory) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Skydance Media]] *acquired* [[Paramount Global]] (2025-08, ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Tether (Tether America)]] *Tether America listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Skydance Media]] *acquired* [[Paramount]] (2025-08, ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Tether]] *Tether America listed donor (amount undisclosed)* [[White House ballroom]] (2025-10-23, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Original Trump presidential library fund (Florida, Dec 2024)]] *dissolved and succeeded by* [[Trump Presidential Library Foundation]] (2025-09, legal) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Trust for the National Mall]] *receives and administers donations for* [[White House ballroom]] (2025-10, money) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Tyler Winklevoss]] *co-founded* [[Gemini]] (ownership) · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
@@ -171,7 +171,7 @@ The settlement amounts and recipients are well documented: ABC $15M and Meta ~$2
 
 ## Leads not covered by the video
 
-- **Missing library settlement money and the dissolved first library fund**: Up to $63M from ABC, Meta, X and Paramount went to a fund later dissolved; lawmakers say companies cannot account for it and opened a Jul 2026 probe of the Foundation. [source](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/) · [[Original Trump presidential library fund (Florida, Dec 2024)]] [[Trump Presidential Library Foundation]] [[Elizabeth Warren]] [[ABC News (Disney)]] [[Meta Platforms]] [[X Corp]] [[Paramount Global]]
+- **Missing library settlement money and the dissolved first library fund**: Up to $63M from ABC, Meta, X and Paramount went to a fund later dissolved; lawmakers say companies cannot account for it and opened a Jul 2026 probe of the Foundation. [source](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/) · [[Original Trump presidential library fund (Florida, Dec 2024)]] [[Trump Presidential Library Foundation]] [[Elizabeth Warren]] [[ABC News (Disney)]] [[Meta Platforms]] [[X Corp]] [[Paramount]]
 - **Miami Dade College land transfer to the Trump library foundation**: Public land worth more than $67M was deeded for $10 to the Trump-controlled foundation; it is subject to Sunshine-law and constitutional lawsuits. [source](https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami) · [[Miami Dade College downtown parcel]] [[Trump Presidential Library Foundation]] [[Donald Trump]]
 - **Ballroom donor anonymity contract and government contracts to donors**: The Trust for the National Mall contract shields donor identities. Public Citizen says 19 of 27 identified corporate donors got $338B in federal contracts and 14 had enforcement actions pending or suspended. [source](https://www.citizen.org/article/ballroom-billions/) · [[Trust for the National Mall]] [[White House ballroom]] [[Public Citizen]]
 - **Trump library foundation's IRS fast-track during the government shutdown**: The Miami Herald reported that the foundation got special IRS treatment for its tax-exempt application while projecting about $1B in fundraising. [source](https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/) · [[Trump Presidential Library Foundation]]
