@@ -66,6 +66,11 @@ The entity and date links are documented. DT Marks Abu Dhabi LLC and DT Marks Ab
 - [[C06 Secret $500M 49% UAE stake in WLF]] · Confirmed
 - [[C12 WLF bank charter from the OCC]] · Mostly accurate
 
+## Follow-up checks
+
+- [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge]] · Mostly accurate
+- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
+
 ## Sub-claims
 
 ### 1. DT Marks Abu Dhabi LLC and DT Marks Abu Dhabi Member Corp were formed in Delaware on 30 Jan 2025, two weeks after the Aryam deal and ten days after the inauguration.
@@ -228,7 +233,7 @@ The entity and date links are documented. DT Marks Abu Dhabi LLC and DT Marks Ab
 - [[Damac Sky View Real Estate LLC]] · Company
 - [[Dar Global]] · Company
 - [[Donald Trump]] · Person
-- [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · Company
+- [[DT Marks Abu Dhabi LLC]] · Company
 - [[DT Marks Abu Dhabi Member Corp]] · Company
 - [[DT Marks Al Raha Beach LLC]] · Company
 - [[Elizabeth Warren]] · Person
@@ -254,22 +259,22 @@ The entity and date links are documented. DT Marks Abu Dhabi LLC and DT Marks Ab
 
 ### Money (2)
 
-- [[Damac Properties Investment LLC]] *paid licence fee (one of two $5M fees; payer-to-payee mapping not specified)* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · 2025 · $5M · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[Damac Properties Investment LLC]] *paid licence fee (one of two $5M fees; payer-to-payee mapping not specified)* [[DT Marks Abu Dhabi LLC]] · 2025 · $5M · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Damac Sky View Real Estate LLC]] *paid licence fee (one of two $5M fees; payer-to-payee mapping not specified)* [[DT Marks Al Raha Beach LLC]] · 2025 · $5M · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 
 ### Ownership (15)
 
 - [[Alpha Dhabi Holding]] *parent, ~30% stake* [[Aldar Properties]] · 2022-06 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
-- [[Donald Trump]] *ultimate owner (reported on OGE disclosure)* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · 2025 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[Donald Trump]] *ultimate owner (reported on OGE disclosure)* [[DT Marks Abu Dhabi LLC]] · 2025 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Aryam Investment 1]] *bought 49% of* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
-- [[DT Marks Abu Dhabi Member Corp]] *member entity of (by naming template; structure inferred)* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
-- [[Trump Organization]] *formed (Delaware) licensing entity* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[DT Marks Abu Dhabi Member Corp]] *member entity of (by naming template; structure inferred)* [[DT Marks Abu Dhabi LLC]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[Trump Organization]] *formed (Delaware) licensing entity* [[DT Marks Abu Dhabi LLC]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Trump Organization]] *formed (Delaware) member corp* [[DT Marks Abu Dhabi Member Corp]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Trump Organization]] *formed (Delaware) licensing entity, same day as EO per CREW (single-source)* [[DT Marks Al Raha Beach LLC]] · 2025-07-23 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[StringZ Holding RSC (DE) LLC]] *holds 49% of (WSJ)* [[WLTC Holdings LLC]] · 2026-08 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Damac Properties]] *parent of* [[Damac Properties Investment LLC]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Damac Properties]] *parent of* [[Damac Sky View Real Estate LLC]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
-- [[Hussain Sajwani]] *founder / controlling owner* [[Damac Properties]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[Hussain Sajwani]] *founder / controlling owner* [[Damac Properties]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]] [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge|C88]]
 - [[International Holding Company]] *owns ~45% of* [[Alpha Dhabi Holding]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Sheikh Tahnoon bin Zayed]] *reported backer of* [[Aryam Investment 1]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Sheikh Tahnoon bin Zayed]] *chairs parent Royal Group* [[International Holding Company]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
@@ -278,7 +283,7 @@ The entity and date links are documented. DT Marks Abu Dhabi LLC and DT Marks Ab
 ### Regulatory (4)
 
 - [[StringZ Holding RSC (DE) LLC]] *registered in Abu Dhabi as RSC (WSJ, single-source; register entry not found)* [[Abu Dhabi Global Market]] · 2025-04 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
-- [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]] [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge|C88]]
 - [[Office of the Comptroller of the Currency]] *required passivity commitment from* [[StringZ Holding RSC (DE) LLC]] · 2026-08-14 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 

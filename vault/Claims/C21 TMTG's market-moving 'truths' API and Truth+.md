@@ -171,7 +171,7 @@ TMTG did announce 'Truth API' on July 16, 2026. It is a paid, real-time licensed
 
 ### Ownership (4)
 
-- [[Trump Media & Technology Group]] *operates* [[Truth+]] · 2024-08 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
+- [[Trump Media & Technology Group]] *operates* [[Truth+]] · 2024-08 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
 - [[Donald J. Trump Revocable Trust]] *largest shareholder (about 41% per Reuters)* [[Trump Media & Technology Group]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Donald Trump]] *sole beneficiary* [[Donald J. Trump Revocable Trust]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Trump Media & Technology Group]] *owns* [[Truth Social]] · [[C20 Trump's stock purchases and Truth Social posts|C20]] [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]

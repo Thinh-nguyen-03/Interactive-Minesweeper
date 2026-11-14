@@ -2,27 +2,38 @@
 id: "anthony-hayes"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/person"
 ---
 # Anthony Hayes
 
-CEO of Dominari Holdings; about $34M in 2025 pay.
+CEO of Dominari Holdings; 5M options granted Feb. 10, 2025; about $34M in 2025 pay.
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 2 claims |
+| Connections | 3 |
+
+## How other claims describe it
+
+- CEO of Dominari Holdings; about $34M in 2025 pay.
 
 ## Appears in claims
 
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
 
 ## Relationships
+
+### Money (3)
+
+- [[Dominari Holdings Dominari Securities]] *paid about $34M total 2025 compensation (incl. option value)* [[Anthony Hayes]] · 2025 · $34M · [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
+- [[Dominari Holdings Dominari Securities]] *granted 5M fully vested options at $6.16 (subject to plan approval)* [[Anthony Hayes]] · 2025-02-10 · [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
+- [[Anthony Hayes]] *bought 288,184 shares + warrants in $3.47 placement (Investing.com, Form 4)* [[Dominari Holdings Dominari Securities]] · 2025-02-12 · [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
 
 ### Ownership (1)
 

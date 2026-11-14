@@ -69,6 +69,11 @@ The SPAC web is real and larger than the brief: Yorkville controls four blank-ch
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 
+## Follow-up checks
+
+- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
+- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
+
 ## Sub-claims
 
 ### 1. Kevin McGurn has run or sat on the board of at least six blank-cheque vehicles since 2025, four of them sponsored by Yorkville, while also advising and then running Trump Media.
@@ -317,7 +322,7 @@ The SPAC web is real and larger than the brief: Yorkville controls four blank-ch
 - [[Mark Angelo]] · Person
 - [[New America Acquisition I Corp]] · Company
 - [[New America Sponsor I LLC]] · Company
-- [[Office of Foreign Assets Control]] · Government body
+- [[OFAC]] · Government body
 - [[Omar Hasan]] · Person
 - [[Plus Automation Inc. (PlusAI)]] · Company
 - [[Ron Wyden]] · Person
@@ -369,7 +374,7 @@ The SPAC web is real and larger than the brief: Yorkville controls four blank-ch
 ### Regulatory (2)
 
 - [[Securities and Exchange Commission]] *delayed decisions; no approval found* [[Truth Social ETFs]] · 2025-08 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
-- [[Ron Wyden]] *asked whether Yorkville sought OFAC licence* [[Office of Foreign Assets Control]] · 2026-06-25 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Ron Wyden]] *asked whether Yorkville sought OFAC licence* [[OFAC]] · 2026-06-25 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 
 ### Advisory (2)
 
@@ -382,7 +387,7 @@ The SPAC web is real and larger than the brief: Yorkville controls four blank-ch
 
 ### Legal (2)
 
-- [[Alan Garten]] *EVP and Chief Legal Officer* [[Trump Organization]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Alan Garten]] *EVP and Chief Legal Officer* [[Trump Organization]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]] [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
 - [[Scott Glabe]] *general counsel* [[Trump Media & Technology Group]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 
 ### Commercial (41)
@@ -393,9 +398,9 @@ The SPAC web is real and larger than the brief: Yorkville controls four blank-ch
 - [[Yorkville Securities]] *co-lead placement agent on ~$2.44B raise* [[Trump Media & Technology Group]] · 2025-05-27 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Foris DAX National Trust Bank]] *named custodian in filings* [[Truth Social ETFs]] · 2025-06 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Yorkville America Digital]] *sponsor of crypto ETF filings* [[Truth Social ETFs]] · 2025-06-03 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
-- [[Alan Garten]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Alan Garten]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]] [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Blue Water Acquisition Corp III (BLUW)]] *bid ~$10B, abandoned* [[Citgo PDV Holding]] · 2025-09 · $10B · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
-- [[Lawrence Glick]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Lawrence Glick]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]] [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Mark Angelo]] *chairman of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Omar Hasan]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Troy Rillo]] *CFO; also CEO from Apr 22, 2026* [[Texas Ventures Acquisition III Corp]] · 2025-09-18 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
@@ -417,8 +422,8 @@ The SPAC web is real and larger than the brief: Yorkville controls four blank-ch
 - [[Yorkville America Equities]] *filed Bitcoin-Ether and Cronos Yield Maximizer ETFs* [[Truth Social ETFs]] · 2026-02-13 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Plus Automation Inc. (PlusAI)]] *prior SPAC deal terminated* [[Churchill Capital Corp IX]] · 2026-04-20 · $1.2B · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Cohen & Company Capital Markets]] *sole book-runner of $200M IPO* [[Yorkville International Capital Corp (YICC)]] · 2026-06 · $200M · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
-- [[Kevin McGurn]] *CEO and director of* [[Yorkville International Capital Corp (YICC)]] · 2026-06 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
-- [[Mark Angelo]] *chairman of* [[Yorkville International Capital Corp (YICC)]] · 2026-06 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Kevin McGurn]] *CEO and director of* [[Yorkville International Capital Corp (YICC)]] · 2026-06 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]] [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
+- [[Mark Angelo]] *chairman of* [[Yorkville International Capital Corp (YICC)]] · 2026-06 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]] [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Troy Rillo]] *CFO of* [[Yorkville International Capital Corp (YICC)]] · 2026-06 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Kevin McGurn]] *CEO/director until resignation* [[New America Acquisition I Corp]] · 2026-08-05 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Crypto.com]] *co-founder of; terminated* [[Trump Media Group CRO Strategy]] · 2026-08-07 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
@@ -426,7 +431,7 @@ The SPAC web is real and larger than the brief: Yorkville controls four blank-ch
 - [[Texas Ventures Acquisition III Corp]] *merger agreement at $800M pre-money* [[Plus Automation Inc. (PlusAI)]] · 2026-09-03 · $800M · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Clear Street]] *underwriter of stock offerings* [[Strategy (MicroStrategy)]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Kyle Wool]] *president of Dominari Securities* [[Dominari Holdings Dominari Securities]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
-- [[Lawrence Glick]] *EVP of Development* [[Trump Organization]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Lawrence Glick]] *EVP of Development* [[Trump Organization]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]] [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
 - [[Troy Rillo]] *co-CEO and director* [[Yorkville Securities]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 
 ## Leads not covered here
@@ -434,7 +439,7 @@ The SPAC web is real and larger than the brief: Yorkville controls four blank-ch
 - **Yorkville International Capital and Venezuela: OFAC licensing and any target**
   - A SPAC run by TMTG's interim CEO and TMTG's main financier is targeting Venezuela after the sanctions were eased.
   - Wyden asked about OFAC licences, and no answer has been found.
-  - [[Yorkville International Capital Corp (YICC)]] [[Kevin McGurn]] [[Yorkville Advisors]] [[Office of Foreign Assets Control]] [[Ron Wyden]] · [Source](https://www.finance.senate.gov/ranking-members-news/wyden-launches-inquiry-into-trump-connected-blank-check-company-planning-venezuela-investments)
+  - [[Yorkville International Capital Corp (YICC)]] [[Kevin McGurn]] [[Yorkville Advisors]] [[OFAC]] [[Ron Wyden]] · [Source](https://www.finance.senate.gov/ranking-members-news/wyden-launches-inquiry-into-trump-connected-blank-check-company-planning-venezuela-investments)
 - **Blue Water III's $10B Citgo bid and its takeover by Yorkville/TMTG insiders**
   - A shell with $253M in trust bid $10B for Citgo, then passed to Yorkville with TMTG executives on the board.
   - How the bid was funded, and whether the new team kept Venezuela ambitions, is unexplained.

@@ -5,8 +5,8 @@ type: "asset"
 aliases:
   - "U.S. D1"
   - "USD1 stablecoin"
-connections: 34
-claims: 18
+connections: 36
+claims: 19
 tags:
   - "entity"
   - "type/asset"
@@ -18,8 +18,8 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 18 claims |
-| Connections | 34 |
+| Appears in | 19 claims |
+| Connections | 36 |
 | Also known as | U.S. D1; USD1 stablecoin |
 
 ## How other claims describe it
@@ -50,13 +50,15 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
 
 ## Relationships
 
-### Money (4)
+### Money (5)
 
 - [[MGX]] *used for $2B Binance deal* [[USD1]] · 2025-05-01 · $2B · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[USD1]] *generates $159.5M annualized revenue run rate (WLF claim) for* [[World Liberty Financial]] · 2026-04 · $159.5M · [[C10 Binance driving USD1 adoption|C10]]
+- [[Binance]] *holds about $3.8B USD1 (Arkham via Reuters)* [[USD1]] · 2026-05 · $3.8B · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[USD1]] *earns ~$159M a year for* [[World Liberty Financial]] · $159M · [[C10 Binance driving USD1 adoption|C10]]
 - [[USD1]] *reserve interest flows to* [[World Liberty Financial]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]]
 
@@ -80,7 +82,7 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[The Wall Street Journal]] *charted Binance-linked jumps in* [[USD1]] · [[C10 Binance driving USD1 adoption|C10]]
 - [[The Wall Street Journal]] *charted adoption of (per video; not independently accessed)* [[USD1]] · [[C10 Binance driving USD1 adoption|C10]]
 
-### Commercial (28)
+### Commercial (29)
 
 - [[Binance]] *reportedly helped build tech for and promoted* [[USD1]] · 2025 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[DWF Labs]] *committed liquidity / reserves* [[USD1]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
@@ -95,6 +97,7 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[Zach Witkoff]] *announced USD1 for MGX-Binance deal* [[USD1]] · 2025-05-01 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Zach Witkoff]] *announced as settlement currency for MGX deal* [[USD1]] · 2025-05-01 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Binance]] *listed for spot trading* [[USD1]] · 2025-05-22 · [[C10 Binance driving USD1 adoption|C10]]
+- [[USD1]] *native issuance on Tron* [[Tron]] · 2025-06-11 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Binance]] *holds most of USD1 supply (~75-87%)* [[USD1]] · 2025-10 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Binance]] *ran up-to-20% APR booster promotion for holders of* [[USD1]] · 2025-12 · [[C10 Binance driving USD1 adoption|C10]]
 - [[Binance]] *converted B-Token reserves into* [[USD1]] · 2025-12-11 · [[C69 Master timeline money events versus government actions|C69]]

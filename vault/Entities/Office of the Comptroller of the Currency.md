@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "OCC"
-connections: 27
-claims: 10
+connections: 28
+claims: 11
 tags:
   - "entity"
   - "type/government"
@@ -17,8 +17,8 @@ Bank regulator that provisionally approved WLF and Crypto.com charters.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 10 claims |
-| Connections | 27 |
+| Appears in | 11 claims |
+| Connections | 28 |
 | Also known as | OCC |
 
 ## How other claims describe it
@@ -41,10 +41,11 @@ Bank regulator that provisionally approved WLF and Crypto.com charters.
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 
-### Regulatory (26)
+### Regulatory (28)
 
 - [[Jonathan Gould]] *heads* [[Office of the Comptroller of the Currency]] · 2025-07 · [[C12 WLF bank charter from the OCC|C12]]
 - [[Jonathan Gould]] *Comptroller* [[Office of the Comptroller of the Currency]] · 2025-07-10 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
@@ -53,7 +54,9 @@ Bank regulator that provisionally approved WLF and Crypto.com charters.
 - [[Office of the Comptroller of the Currency]] *conditionally approved national trust conversion* [[BitGo]] · 2025-12-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Office of the Comptroller of the Currency]] *conditional trust charter* [[Circle]] · 2025-12-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Office of the Comptroller of the Currency]] *conditional conversion* [[Fidelity Digital Assets]] · 2025-12-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Office of the Comptroller of the Currency]] *approved national trust charter conversion* [[Paxos]] · 2025-12-12 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Office of the Comptroller of the Currency]] *conditional conversion* [[Paxos]] · 2025-12-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Office of the Comptroller of the Currency]] *conditional national trust charter* [[Ripple]] · 2025-12-12 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Office of the Comptroller of the Currency]] *conditional trust charter* [[Ripple]] · 2025-12-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[WLTC Holdings LLC]] *applied for national trust bank charter to* [[Office of the Comptroller of the Currency]] · 2026-01-05 · [[C12 WLF bank charter from the OCC|C12]]
 - [[Office of the Comptroller of the Currency]] *conditional trust charter* [[Foris DAX National Trust Bank]] · 2026-02-23 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]

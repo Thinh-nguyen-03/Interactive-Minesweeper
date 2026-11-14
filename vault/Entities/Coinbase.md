@@ -2,8 +2,8 @@
 id: "coinbase"
 kind: "entity"
 type: "company"
-connections: 16
-claims: 7
+connections: 17
+claims: 8
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ Crypto exchange whose SEC lawsuit was dropped.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 7 claims |
-| Connections | 16 |
+| Appears in | 8 claims |
+| Connections | 17 |
 
 ## How other claims describe it
 
@@ -35,15 +35,17 @@ Crypto exchange whose SEC lawsuit was dropped.
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C69 Master timeline money events versus government actions]] · Partly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 
-### Money (6)
+### Money (7)
 
 - [[Coinbase]] *contributed $25M (2025)* [[Fairshake]] · 2025 · $25M · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Coinbase]] *donated $1M to* [[Trump-Vance Inaugural Committee]] · 2025-01 · $1M · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Coinbase]] *donated to (parade sponsorship)* [[America250]] · 2025-06 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Coinbase]] *donor to* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Coinbase]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Coinbase]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[World Liberty Financial]] *sent more than $40M of borrowed stablecoins to Coinbase Prime* [[Coinbase]] · 2026-04-09 · $40M · [[C42 How World Liberty insiders took money out|C42]]
 

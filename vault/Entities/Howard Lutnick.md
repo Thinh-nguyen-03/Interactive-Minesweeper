@@ -2,8 +2,8 @@
 id: "howard-lutnick"
 kind: "entity"
 type: "person"
-connections: 30
-claims: 10
+connections: 33
+claims: 12
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 10 claims |
-| Connections | 30 |
+| Appears in | 12 claims |
+| Connections | 33 |
 
 ## How other claims describe it
 
@@ -38,13 +38,16 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 
-### Money (3)
+### Money (4)
 
 - [[BGC Group]] *repurchased ~16.4M shares from* [[Howard Lutnick]] · 2025-05 · $151.5M · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Newmark Group]] *repurchased 11M shares from* [[Howard Lutnick]] · 2025-05 · $127M · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Howard Lutnick]] *'The Lutnick Family' on Oct 2025 donor list* [[White House ballroom]] · 2025-10-23 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Cantor Fitzgerald]] *made distribution cited by Blumenthal* [[Howard Lutnick]] · $192M · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 
 ### Ownership (3)
@@ -53,11 +56,12 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 - [[Howard Lutnick]] *former chairman/CEO; interests moved to children's trusts* [[Cantor Fitzgerald]] · 2025-05 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Howard Lutnick]] *former chairman/CEO; divested to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 
-### Family (7)
+### Family (8)
 
 - [[Howard Lutnick]] *former chairman; children's trusts control* [[Cantor Fitzgerald]] · 2025-05 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Howard Lutnick]] *divested interests to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Howard Lutnick]] *former CEO; interests to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Brandon Lutnick]] *son* [[Howard Lutnick]] · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Brandon Lutnick]] *son of* [[Howard Lutnick]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Howard Lutnick]] *father of* [[Brandon Lutnick]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Howard Lutnick]] *former chairman; family-controlled* [[Cantor Fitzgerald]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
@@ -81,7 +85,7 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 - [[Howard Lutnick]] *Secretary of* [[US Department of Commerce]] · 2025 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]] [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Maria Cantwell]] *questioned on Tether at confirmation* [[Howard Lutnick]] · 2025-01-29 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Donald Trump]] *appointed Commerce Secretary* [[Howard Lutnick]] · 2025-02 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
-- [[Howard Lutnick]] *Secretary* [[US Department of Commerce]] · 2025-02 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Howard Lutnick]] *Secretary* [[US Department of Commerce]] · 2025-02 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]] [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 - [[Howard Lutnick]] *heads* [[US Department of Commerce]] · 2025-02 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Howard Lutnick]] *Secretary of Commerce* [[US Department of Commerce]] · 2025-02-18 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Elizabeth Warren]] *conflict-of-interest letters (USAR; 14 deals)* [[Howard Lutnick]] · 2026-02-26 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]

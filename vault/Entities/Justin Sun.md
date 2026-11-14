@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Sun"
-connections: 31
-claims: 15
+connections: 34
+claims: 17
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 15 claims |
-| Connections | 31 |
+| Appears in | 17 claims |
+| Connections | 34 |
 | Also known as | Sun |
 
 ## How other claims describe it
@@ -46,10 +46,12 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
 
 ## Relationships
 
-### Money (10)
+### Money (11)
 
 - [[Justin Sun]] *bought $75M of WLFI tokens from* [[World Liberty Financial]] · 2024-11 · $75M · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Justin Sun]] *investor in* [[World Liberty Financial]] · 2024-11 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
@@ -59,15 +61,16 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[Justin Sun]] *invested $75M in* [[World Liberty Financial]] · 2025-01 · $75M · [[C05 Justin Sun, WLF and the SEC|C05]] [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Justin Sun]] *bought $45M tranche (up to ~$33.75M to DT Marks, inferred)* [[WLFI token]] · 2025-01-20 · $45M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Justin Sun]] *top holder of* [[$TRUMP meme coin]] · 2025-05 · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Justin Sun]] *TRX treasury deal / adviser* [[SRM Entertainment Tron Inc]] · 2025-06-16 · [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
 - [[Justin Sun]] *top holder; pledged $100M buy (execution unverified)* [[$TRUMP meme coin]] · 2025-07-09 · $100M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Justin Sun]] *pledged $10M share purchase (completion unverified)* [[ALT5 Sigma]] · 2025-09-05 · $10M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 
 ### Ownership (6)
 
+- [[Justin Sun]] *founder* [[Tron]] · 2017 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]] [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Justin Sun]] *closely associated with* [[HTX (formerly Huobi)]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *owns* [[Rainberry]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *founded* [[Tron]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C05 Justin Sun, WLF and the SEC|C05]]
-- [[Justin Sun]] *founder* [[Tron]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Justin Sun]] *founder of* [[Tron]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Rainberry]] *Sun-linked company* [[Justin Sun]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 
@@ -96,14 +99,16 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[Justin Sun]] *attended* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-22 · [[C03 Dinner for top $TRUMP holders|C03]]
 - [[Justin Sun]] *attended as top-ranked holder* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-22 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 
-### Legal (10)
+### Legal (12)
 
 - [[Teresa Goody Guillén]] *reportedly hired by (single-source)* [[Justin Sun]] · 2025-09 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[World Liberty Financial]] *froze/blacklisted WLFI tokens of* [[Justin Sun]] · 2025-09 · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[World Liberty Financial]] *froze about 540-600M unlocked plus 2.4B locked WLFI* [[Justin Sun]] · 2025-09-04 · [[C42 How World Liberty insiders took money out|C42]]
 - [[Securities and Exchange Commission]] *paused, then dismissed claims against* [[Justin Sun]] · 2026-03-05 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Justin Sun]] *sued over the freeze (C05)* [[World Liberty Financial]] · 2026-04 · [[C42 How World Liberty insiders took money out|C42]]
+- [[Justin Sun]] *sued alleging extortion over USD1/Tron and equity demands* [[World Liberty Financial]] · 2026-04-21 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Justin Sun]] *sued over token freeze (N.D. Cal.)* [[World Liberty Financial]] · 2026-04-22 · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[World Liberty Financial]] *countersued for defamation* [[Justin Sun]] · 2026-05 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[World Liberty Financial]] *sued for defamation (Miami-Dade)* [[Justin Sun]] · 2026-05-04 · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *party to* [[Sun v. World Liberty lawsuits]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *accused of 'personal ATM' governance scam* [[World Liberty Financial]] · [[C05 Justin Sun, WLF and the SEC|C05]]
@@ -114,8 +119,9 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[Bubblemaps]] *tracked frozen stake losses of more than $60M* [[Justin Sun]] · 2025-12 · [[C42 How World Liberty insiders took money out|C42]]
 - [[Justin Sun]] *posted accusations on* [[X (Twitter)]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 
-### Commercial (1)
+### Commercial (2)
 
+- [[Eric Trump]] *jointly announced USD1 on Tron at TOKEN2049 Dubai* [[Justin Sun]] · 2025-05 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Justin Sun]] *Tron deal / adviser to Tron Inc* [[SRM Entertainment Tron Inc]] · 2025-06 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 
 ## Themes

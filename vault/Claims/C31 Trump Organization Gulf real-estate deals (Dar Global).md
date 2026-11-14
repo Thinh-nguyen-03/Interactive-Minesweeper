@@ -70,6 +70,7 @@ The Trump Organization does have a large and growing set of Trump-branded tower,
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge]] · Mostly accurate
 
 ## Sub-claims
 

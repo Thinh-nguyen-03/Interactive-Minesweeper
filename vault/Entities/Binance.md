@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Binance US"
-connections: 35
-claims: 17
+connections: 36
+claims: 18
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 17 claims |
-| Connections | 35 |
+| Appears in | 18 claims |
+| Connections | 36 |
 | Also known as | Binance US |
 
 ## How other claims describe it
@@ -48,10 +48,11 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
 
 ## Relationships
 
-### Money (13)
+### Money (14)
 
 - [[Binance]] *paid (with Zhao) for lobbying* [[Teresa Goody Guillén]] · 2025 · $290K · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Binance]] *paid for pardon lobbying* [[Teresa Goody Guillén]] · 2025 · $290K · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
@@ -65,6 +66,7 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[Binance]] *paid for 'executive relief' lobbying* [[Checkmate Government Relations]] · 2025-09 · $450K · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Binance]] *paid ~$450K for 'executive relief' lobbying* [[Checkmate Government Relations]] · 2025-09 · $450K · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[World Liberty Financial]] *reportedly provides marketing budget for promotions to* [[Binance]] · 2026 · [[C10 Binance driving USD1 adoption|C10]]
+- [[Binance]] *holds about $3.8B USD1 (Arkham via Reuters)* [[USD1]] · 2026-05 · $3.8B · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[MGX]] *invested $2B in* [[Binance]] · $2B · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 
 ### Ownership (7)

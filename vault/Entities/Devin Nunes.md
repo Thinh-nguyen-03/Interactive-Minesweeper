@@ -2,8 +2,8 @@
 id: "devin-nunes"
 kind: "entity"
 type: "person"
-connections: 9
-claims: 4
+connections: 10
+claims: 5
 tags:
   - "entity"
   - "type/person"
@@ -15,14 +15,15 @@ TMTG CEO 2022 to April 2026; planned co-CEO of the merged company; chairs the Pr
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 4 claims |
-| Connections | 9 |
+| Appears in | 5 claims |
+| Connections | 10 |
 
 ## How other claims describe it
 
 - Former TMTG CEO (to April 2026); chairs the President's Intelligence Advisory Board
 - TMTG CEO 2022 to Apr 2026; PIAB chair since the Dec 2024 announcement.
 - TMTG CEO until Apr 2026; reported director of BLUW and TVA III
+- Former TMTG CEO; left the TVA III board on 26 Feb 2026
 
 ## Appears in claims
 
@@ -30,11 +31,13 @@ TMTG CEO 2022 to April 2026; planned co-CEO of the merged company; chairs the Pr
 - [[C24 TMTG ETFs, TAE fusion merger, TMTG losses]] · Mostly accurate
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
 
 ## Relationships
 
-### Advisory (3)
+### Advisory (4)
 
+- [[Devin Nunes]] *resigned as director the day before spin-off announcement* [[Texas Ventures Acquisition III Corp]] · 2026-02-26 · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Devin Nunes]] *former CEO, stepped down* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Devin Nunes]] *CEO until April 2026 of* [[Trump Media & Technology Group]] · 2026-04-21 · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Devin Nunes]] *stepped down as CEO of* [[Trump Media & Technology Group]] · 2026-04-21 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]

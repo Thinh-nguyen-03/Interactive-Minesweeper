@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Eric"
-connections: 82
-claims: 44
+connections: 90
+claims: 49
 tags:
   - "entity"
   - "type/person"
@@ -19,8 +19,8 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 44 claims |
-| Connections | 82 |
+| Appears in | 49 claims |
+| Connections | 90 |
 | Also known as | Eric |
 
 ## How other claims describe it
@@ -77,6 +77,11 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
+- [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge]] · Mostly accurate
+- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
+- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
 
 ## Relationships
 
@@ -101,7 +106,7 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Eric Trump]] *major shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Eric Trump]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] · 2025-02-21 · $1M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Eric Trump]] *co-founder and shareholder* [[American Bitcoin]] · 2025-03 · [[C29 Trump family wealth gains|C29]]
-- [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
 - [[Eric Trump]] *co-founder, chief strategy officer and shareholder of* [[American Bitcoin]] · 2025-03-31 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Eric Trump]] *president and trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Eric Trump]] *indirect interest in 3M founder shares* [[New America Sponsor I LLC]] · 2025-08 · $30M · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
@@ -168,17 +173,21 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Forbes]] *estimates 10x richer* [[Eric Trump]] · [[C29 Trump family wealth gains|C29]]
 - [[Maria Bartiromo]] *interviewed* [[Eric Trump]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 
-### Commercial (18)
+### Commercial (22)
 
+- [[Eric Trump]] *attended family wedding; opened Dubai golf club* [[Hussain Sajwani]] · 2018 · [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge|C88]]
 - [[Eric Trump]] *announced planned Abu Dhabi tower and golf community with* [[Dar Global]] · 2024-12 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Eric Trump]] *reportedly signed 49% stake deal with* [[Aryam Investment 1]] · 2025-01 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Eric Trump]] *signed stake sale with* [[Aryam Investment 1]] · 2025-01 · [[C14 Steve and Zach Witkoff|C14]]
+- [[Jared Kushner]] *agreed Trump licensing for Belgrade hotel* [[Eric Trump]] · 2025-01 · [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings|C89]]
 - [[Eric Trump]] *signed 49% WLF sale agreement with* [[Aryam Investment 1]] · 2025-01-16 · $500M · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Eric Trump]] *signed WLF stake sale to* [[Aryam Investment 1]] · 2025-01-16 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Eric Trump]] *signed deal with* [[Aryam Investment 1]] · 2025-01-16 · [[C63 Shell entities and ownership chains|C63]]
 - [[Eric Trump]] *signed stake deal with (per WSJ)* [[Aryam Investment 1]] · 2025-01-16 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Eric Trump]] *signed the Aryam stake sale on behalf of* [[World Liberty Financial]] · 2025-01-16 · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[Eric Trump]] *advisory agreement and $3.47 placement purchase (same day as option grants)* [[Dominari Holdings Dominari Securities]] · 2025-02-10 · [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
 - [[Eric Trump]] *attended signing with* [[Qatari Diar]] · 2025-04-30 · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Eric Trump]] *jointly announced USD1 on Tron at TOKEN2049 Dubai* [[Justin Sun]] · 2025-05 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Eric Trump]] *attended groundbreaking* [[Trump International Hung Yen]] · 2025-05-21 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Eric Trump]] *denies involvement in listing* [[SRM Entertainment Tron Inc]] · 2025-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Eric Trump]] *co-announced* [[Trump Mobile]] · 2025-06-16 · [[C63 Shell entities and ownership chains|C63]]

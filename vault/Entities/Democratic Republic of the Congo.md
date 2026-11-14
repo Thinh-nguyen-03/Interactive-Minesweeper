@@ -2,8 +2,8 @@
 id: "drc"
 kind: "entity"
 type: "country"
-connections: 8
-claims: 3
+connections: 9
+claims: 4
 tags:
   - "entity"
   - "type/country"
@@ -15,12 +15,13 @@ Subject of US minerals-for-security diplomacy led by Boulos
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 3 claims |
-| Connections | 8 |
+| Appears in | 4 claims |
+| Connections | 9 |
 
 ## How other claims describe it
 
 - Minerals-for-security deal mediated by Boulos
+- US strategic minerals partner (Dec 2025)
 - Minerals-for-security partner.
 
 ## Appears in claims
@@ -28,6 +29,7 @@ Subject of US minerals-for-security diplomacy led by Boulos
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
 
 ## Relationships
 

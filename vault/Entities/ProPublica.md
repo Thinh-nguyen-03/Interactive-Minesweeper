@@ -2,8 +2,8 @@
 id: "propublica"
 kind: "entity"
 type: "media"
-connections: 10
-claims: 5
+connections: 11
+claims: 6
 tags:
   - "entity"
   - "type/media"
@@ -15,8 +15,8 @@ Reported the White House call on Vulcan.
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 5 claims |
-| Connections | 10 |
+| Appears in | 6 claims |
+| Connections | 11 |
 
 ## How other claims describe it
 
@@ -33,6 +33,7 @@ Reported the White House call on Vulcan.
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
 
 ## Relationships
 

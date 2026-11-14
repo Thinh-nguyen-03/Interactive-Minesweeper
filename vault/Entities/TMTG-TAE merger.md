@@ -2,8 +2,8 @@
 id: "tmtg-tae-merger"
 kind: "entity"
 type: "event"
-connections: 6
-claims: 2
+connections: 7
+claims: 3
 tags:
   - "entity"
   - "type/event"
@@ -15,18 +15,20 @@ tags:
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 2 claims |
-| Connections | 6 |
+| Appears in | 3 claims |
+| Connections | 7 |
 
 ## How other claims describe it
 
 - Announced 2025-12-18; shareholder vote scheduled 2026-12-14; not yet closed.
 - All-stock deal over $6B announced 2025-12-18.
+- $6B all-stock merger signed Dec 2025, pending as of Nov 2026
 
 ## Appears in claims
 
 - [[C24 TMTG ETFs, TAE fusion merger, TMTG losses]] · Mostly accurate
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
+- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
 
 ## Relationships
 

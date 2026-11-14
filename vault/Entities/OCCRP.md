@@ -2,8 +2,8 @@
 id: "occrp"
 kind: "entity"
 type: "media"
-connections: 2
-claims: 1
+connections: 5
+claims: 4
 tags:
   - "entity"
   - "type/media"
@@ -15,12 +15,21 @@ Investigative network behind the Greenland-associates probe
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 4 claims |
+| Connections | 5 |
+
+## How other claims describe it
+
+- Timor-Leste resort investigation with Guardian Australia
+- Exposed GreenMet's shareholders with NPR
+- Republished IStories' Kazakhstan report
 
 ## Appears in claims
 
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
+- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
 
 ## Relationships
 

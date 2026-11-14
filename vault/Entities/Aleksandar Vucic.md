@@ -2,8 +2,8 @@
 id: "aleksandar-vucic"
 kind: "entity"
 type: "person"
-connections: 3
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -15,20 +15,24 @@ Serbian president; lobbied for the project, denied forgery, offered pardons.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
-| Connections | 3 |
+| Appears in | 3 claims |
+| Connections | 6 |
 
 ## How other claims describe it
 
+- President of Serbia.
 - President of Serbia
 
 ## Appears in claims
 
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
 
 ## Relationships
 
-### Political (1)
+### Political (3)
 
+- [[Viktor Orbán]] *met in Belgrade; reportedly briefed on Grand Budapest (single-source)* [[Aleksandar Vucic]] · 2025-01-18 · [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings|C89]]
+- [[Donald Trump Jr]] *met in Belgrade* [[Aleksandar Vucic]] · 2025-03-11 · [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings|C89]]
 - [[Aleksandar Vucic]] *lobbied for; denied forgery, offered pardons* [[Trump Tower Belgrade (General Staff site)]] · 2025-05 · [[C45 Kushner's Albania and Serbia developments|C45]]

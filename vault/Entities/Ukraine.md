@@ -2,8 +2,8 @@
 id: "ukraine"
 kind: "entity"
 type: "country"
-connections: 4
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/country"
@@ -15,23 +15,26 @@ Two Phantom MK-1 units were sent there for pilot demonstrations.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 2 claims |
-| Connections | 4 |
+| Appears in | 3 claims |
+| Connections | 6 |
 
 ## How other claims describe it
 
 - Party to the war; sanctioned Blavatnik in 2023.
+- Has sanctioned Kremlev
 
 ## Appears in claims
 
 - [[C28 Foundation Future Industries robots and Eric Trump]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
+- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
 
 ## Relationships
 
-### Regulatory (1)
+### Regulatory (2)
 
 - [[Ukraine]] *sanctioned for ten years* [[Leonard Blavatnik]] · 2023-12 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Ukraine]] *sanctions* [[Umar Kremlev]] · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
 
 ### Commercial (1)
 

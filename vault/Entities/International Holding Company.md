@@ -4,43 +4,50 @@ kind: "entity"
 type: "company"
 aliases:
   - "International Holding Company (IHC)"
-connections: 7
-claims: 3
+connections: 11
+claims: 5
 tags:
   - "entity"
   - "type/company"
 ---
 # International Holding Company
 
-Abu Dhabi conglomerate in Tahnoon's Royal Group; owns ~45% of Alpha Dhabi.
+Tahnoon-chaired Abu Dhabi conglomerate; declared interest in Lukoil assets in Nov 2025; reported consortium lead.
 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 claims |
-| Connections | 7 |
+| Appears in | 5 claims |
+| Connections | 11 |
 | Also known as | International Holding Company (IHC) |
 
 ## How other claims describe it
 
+- Abu Dhabi conglomerate in Tahnoon's Royal Group; owns ~45% of Alpha Dhabi.
 - Tahnoon-chaired Abu Dhabi conglomerate reported in the Lukoil consortium.
 - Tahnoon-chaired conglomerate; described by Bloomberg as Lunate's parent
+- Tahnoon-chaired Abu Dhabi conglomerate in Boehly consortium
 
 ## Appears in claims
 
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Relationships
 
-### Ownership (4)
+### Ownership (5)
 
 - [[International Holding Company]] *owns ~45% of* [[Alpha Dhabi Holding]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[International Holding Company]] *parent (per Bloomberg)* [[Lunate]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[International Holding Company]] · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Sheikh Tahnoon bin Zayed]] *chairman* [[International Holding Company]] · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[International Holding Company]] · [[C76 Russia-linked money around the family and envoys|C76]] [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
 - [[Sheikh Tahnoon bin Zayed]] *chairs parent Royal Group* [[International Holding Company]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 
-### Commercial (1)
+### Commercial (3)
 
 - [[International Holding Company]] *reported member of Boehly consortium* [[Lukoil]] · 2026-09 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[International Holding Company]] *reported consortium lead with Boehly* [[Lukoil International GmbH]] · 2026-09 · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
+- [[International Holding Company]] *reported consortium co-lead; declared interest Nov 2025* [[Lukoil International GmbH (lukoil-international-gmbh)]] · 2026-09 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]

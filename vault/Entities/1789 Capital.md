@@ -2,8 +2,8 @@
 id: "1789-capital"
 kind: "entity"
 type: "fund"
-connections: 27
-claims: 12
+connections: 28
+claims: 13
 tags:
   - "entity"
   - "type/fund"
@@ -15,8 +15,8 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 12 claims |
-| Connections | 27 |
+| Appears in | 13 claims |
+| Connections | 28 |
 
 ## How other claims describe it
 
@@ -40,10 +40,11 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 
-### Money (17)
+### Money (18)
 
 - [[1789 Capital]] *led $60M Series C in* [[Firehawk Aerospace]] · 2025 · $60M · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[1789 Capital]] *invested in* [[Polymarket]] · 2025-08 · [[C26 1789 Capital and Vulcan Elements|C26]] [[C58 Market-moving posts and insider-trading allegations|C58]]
@@ -52,6 +53,7 @@ Venture firm where Don Jr. is partner; >$1B assets, 200%+ reported returns.
 - [[1789 Capital]] *invested in $65M Series A of* [[Vulcan Elements]] · 2025-08 · [[C26 1789 Capital and Vulcan Elements|C26]]
 - [[1789 Capital]] *invested in (Series A)* [[Vulcan Elements]] · 2025-08 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[1789 Capital]] *invested* [[Polymarket]] · 2025-08-26 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[1789 Capital]] *strategic investment* [[Polymarket]] · 2025-08-26 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[1789 Capital]] *strategic investment (double-digit millions, reported)* [[Polymarket]] · 2025-08-26 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[1789 Capital]] *strategic investment (eight figures)* [[Polymarket]] · 2025-08-26 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[1789 Capital]] *confirmed plans to invest about $300M in a roughly $1B round at a $21B valuation (total stake reported at about $500M)* [[Polymarket]] · 2026-08 · $300M · [[C25 Prediction markets, CFTC and Don Jr|C25]]

@@ -73,6 +73,7 @@ The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Ho
 
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
 
 ## Sub-claims
 
@@ -259,6 +260,7 @@ The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Ho
 
 ### Ownership (13)
 
+- [[Justin Sun]] *founder* [[Tron]] · 2017 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]] [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Kyle Wool]] *former president (from 2022)* [[Revere Securities LLC]] · 2022 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Anthony Hayes]] *CEO (about $34M 2025 pay)* [[Dominari Holdings Dominari Securities]] · 2025 · $34M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Dominari Holdings Dominari Securities]] *co-formed, about 32% stake* [[American Data Centers Inc]] · 2025-02 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
@@ -269,7 +271,6 @@ The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Ho
 - [[Eric Trump]] *invested via Dominari-tied vehicle* [[Skyline Builders Group]] · 2025-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Dominari Holdings Dominari Securities]] *held about 23.2M shares (about $170M at listing); sold for $32.4M in January 2026* [[American Bitcoin]] · 2025-09 · $170M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Dominari Holdings Dominari Securities]] *created, owns about 90%* [[American Ventures]] · 2026 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Justin Sun]] *founder* [[Tron]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Kyle Wool]] *president; head of Dominari Securities* [[Dominari Holdings Dominari Securities]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Omeed Malik]] *CEO/sponsor* [[Colombier Acquisition Corp. II]] · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 

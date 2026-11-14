@@ -2,8 +2,8 @@
 id: "liz-oyer"
 kind: "entity"
 type: "person"
-connections: 4
-claims: 1
+connections: 5
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -15,12 +15,17 @@ Fired DOJ pardon attorney; sued Sep 2026
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
-| Connections | 4 |
+| Appears in | 2 claims |
+| Connections | 5 |
+
+## How other claims describe it
+
+- Former DOJ pardon attorney; critic
 
 ## Appears in claims
 
 - [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 

@@ -66,6 +66,10 @@ A paid clemency-lobbying market is well documented. The WSJ (Dec 2025) reported 
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
 
+## Follow-up checks
+
+- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
+
 ## Sub-claims
 
 ### 1. A paid pardon-lobbying industry has grown around Trump's second term.
@@ -149,11 +153,11 @@ A paid clemency-lobbying market is well documented. The WSJ (Dec 2025) reported 
 - Then-Deputy AG Todd Blanche fired Oyer on Mar 7, 2025, the morning after she declined to recommend restoring Mel Gibson's gun rights.
 - Then-AG Pam Bondi restored those rights in Apr 2025.
 - Oyer sued in federal court in Washington on Sep 3, 2026 for reinstatement and back pay, alleging due-process, First Amendment and civil-service violations; the allegations are untested.
-- Blanche, confirmed 50-49 and sworn in as Attorney General on Aug 10, 2026 after Trump removed Bondi in April 2026, says he knew nothing of the Gibson matter.
+- Blanche, confirmed by the Senate 50-49 on Aug 8, 2026 and sworn in as Attorney General on Aug 10, 2026 after Trump removed Bondi in April 2026, says he knew nothing of the Gibson matter.
 - Trump named Ed Martin pardon attorney on May 8, 2025, after Martin's DC US Attorney nomination collapsed.
 - Martin posted 'No MAGA left behind' after the Scott Jenkins pardon.
 - He lost the Weaponization Working Group in Feb 2026, and Trump announced on Aug 21, 2026 that he was leaving to fight election 'Legal Battles'. No successor was found.
-- Dates: Mar 7, 2025; Apr 2025; Sep 3, 2026; Aug 10, 2026; April 2026
+- Dates: Mar 7, 2025; Apr 2025; Sep 3, 2026; Aug 8, 2026; Aug 10, 2026
 - Sources: [27](https://www.goodmorningamerica.com/news/story/doj-pardon-attorney-removed-after-dispute-mel-gibsons-119677857) [28](https://abcnews.com/Politics/wireStory/justice-department-pardon-lawyer-fired-dispute-mel-gibsons-136185902) [29](https://www.govexec.com/workforce/2026/09/former-pardon-atty-calls-mspb-dead-end-sues-reinstatement/415817/) [30](https://news.bloomberglaw.com/us-law-week/ed-martin-takes-doj-pardon-job-as-trump-upends-clemency-process) [31](https://www.rawstory.com/no-maga-left-behind-outrage-as-trump-pardon-chief-issues-new-vow/) [32](https://www.nbcnews.com/politics/justice-department/ed-martin-dojs-weaponization-czar-sources-say-rcna257093) [34](https://www.local10.com/news/politics/2026/08/21/trump-loyalist-ed-martin-is-leaving-the-justice-department-to-focus-on-election-legal-battles/)
 
 ### 8. House Judiciary Democrats estimate total restitution wiped out at about $1.3B or more.
@@ -356,7 +360,7 @@ A paid clemency-lobbying market is well documented. The WSJ (Dec 2025) reported 
   - A Burkman/Wohl-lobbied pardon; ProPublica reported the victims' family got nothing; Arkansas state sentence continues.
   - [[Joseph Schwartz]] [[Jack Burkman]] [[Jacob Wohl]] · [Source](https://bsky.app/profile/propublica.org/post/3mrbuhksdhm25)
 
-## Sources (45)
+## Sources (46)
 
 1. [Lawyers Are Quoting $1 Million Fees to Get Pardons to Trump](https://news.bloomberglaw.com/us-law-week/lawyers-are-quoting-1-million-in-fees-to-get-pardons-to-trump) (Bloomberg Law, 2025-05)
 2. [Trump pardons "start at $1m," reports WSJ](https://boingboing.net/2025/12/27/trump-pardons-start-at-1m-reports-wsj.html) (Boing Boing (summarizing WSJ), 2025-12-27)
@@ -403,6 +407,7 @@ A paid clemency-lobbying market is well documented. The WSJ (Dec 2025) reported 
 43. [Bicameral congressional investigation launched over multiple Trump pardons](https://keyt.com/news/crime/2026/05/07/bicameral-congressional-investigation-launched-over-multiple-trump-administration-pardons) (KEYT (CBS), 2026-05-07)
 44. [Min and Welch escalate oversight](https://min.house.gov/media/press-releases/representative-dave-min-and-senator-peter-welch-escalate-oversight) (Rep. Dave Min, 2026-06-15)
 45. [Trump says he believes in giving people a second chance. For 6,000 people, the answer was no](https://reason.com/2026/07/26/trump-says-he-believes-in-giving-people-a-second-chance-for-6000-people-the-answer-was-no/) (Reason, 2026-07-26)
+46. [Senate confirms Todd Blanche as attorney general](https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed) (Axios, 2026-08-08)
 
 ## Full report
 
@@ -459,7 +464,7 @@ The brief describes a paid pardon-lobbying industry (Roger Stone, Ches McDowell/
 
 7. **Oyer fired; Martin as pardon attorney: confirmed, with an update.**
    - Then-Deputy AG Todd Blanche fired Oyer on Mar 7, 2025, after she declined to recommend restoring Mel Gibson's gun rights. Bondi restored them in Apr 2025.
-   - Oyer sued in federal court in Washington on Sep 3, 2026 for reinstatement and back pay, alleging due-process, First Amendment and civil-service violations (untested). Blanche, confirmed 50-49 and sworn in as AG on Aug 10, 2026 after Trump removed Bondi in April, denies knowing about the Gibson matter.
+   - Oyer sued in federal court in Washington on Sep 3, 2026 for reinstatement and back pay, alleging due-process, First Amendment and civil-service violations (untested). Blanche, confirmed by the Senate 50-49 on Aug 8, 2026 and sworn in as AG on Aug 10, 2026 after Trump removed Bondi in April, denies knowing about the Gibson matter.
    - Martin was named pardon attorney on May 8, 2025, and posted "No MAGA left behind" after the Scott Jenkins pardon.
    - He lost the Weaponization Working Group in Feb 2026. Trump announced his departure on Aug 21, 2026. No successor was found.
 
@@ -486,7 +491,7 @@ The brief describes a paid pardon-lobbying industry (Roger Stone, Ches McDowell/
 - Stone's $600K from Ver was disclosed as exit-tax lobbying, and Ver got a DOJ deferred prosecution deal, not clemency.
 - Ed Martin left the pardon attorney post (announced Aug 21, 2026).
 - CZ is not a personal donor.
-- Blanche is now Attorney General (sworn in Aug 10, 2026).
+- Blanche is now Attorney General (confirmed Aug 8, sworn in Aug 10, 2026).
 
 ### Denials and context
 - The White House denies pay-to-play.
@@ -554,15 +559,17 @@ Checked:
 - SEC dismissal of the Milton civil case after his pardon
 
 Changes:
-- Blanche confirmed: the Senate confirmed him 50-49 and he was sworn in on Aug 10, 2026 (AP via WTOP/Federal News Network; Euronews; Boston Globe), after Trump removed Bondi in April 2026 and Blanche served as acting AG. Added the date to the Oyer sub-claim.
+- Blanche confirmed: the Senate confirmed him 50-49 on Aug 8, 2026 and he was sworn in on Aug 10, 2026 (AP via WTOP/Federal News Network; Euronews; Boston Globe), after Trump removed Bondi in April 2026 and Blanche served as acting AG. Added the date to the Oyer sub-claim.
 - Martin confirmed: Trump announced on Aug 21, 2026 that Martin was leaving DOJ to fight election 'legal battles' (AP via Local10; CBS; Good Morning America); AG Blanche thanked him.
 - Oyer suit, the $1.7B report and the Sep 2025 Milton SEC dismissal confirmed (AP via ABC/Local10, ABA Journal, GovExec; committee release; Law360, Bloomberg Law).
 - Clarified that the 'SEC initiated contact' quote came from Milton's own spokesperson, not the SEC, and noted that Milton's SEC counsel was Brad Bondi. Added the claims in Oyer's complaint. Updated .md.
 - Replaces the earlier wording-only audit (no fresh searches).
+- Cross-file consistency check (Nov 2026): the confirmation vote (50-49, pre-dawn Saturday Aug 8, 2026; Axios) and the swearing-in (Monday Aug 10, 2026; AP) are separate dates. C49, C61, C64 and C65 now all give both.
 
 New sources:
 - WTOP (AP), "Todd Blanche is sworn in as attorney general after bruising confirmation fight", 2026-08-10. https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/
 - Euronews, "Todd Blanche sworn in as US attorney general after bruising confirmation fight", 2026-08-10. https://www.euronews.com/2026/08/10/todd-blanche-sworn-in-as-us-attorney-general-after-bruising-confirmation-fight
+- Axios, "Senate confirms Todd Blanche as attorney general", 2026-08-08. https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed
 - Local10 (AP), "Trump loyalist Ed Martin is leaving the Justice Department to focus on election 'legal battles'", 2026-08-21. https://www.local10.com/news/politics/2026/08/21/trump-loyalist-ed-martin-is-leaving-the-justice-department-to-focus-on-election-legal-battles/
 - CBS News, "Ed Martin leaving Trump administration DOJ", 2026-08-21. https://www.cbsnews.com/news/ed-martin-leaving-trump-administration-doj/
 - ABC News (AP), "Justice Department pardon lawyer who says she was fired in dispute over Mel Gibson's gun rights sues", 2026-09-03. https://abcnews.com/Politics/wireStory/justice-department-pardon-lawyer-fired-dispute-mel-gibsons-136185902

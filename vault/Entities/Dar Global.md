@@ -2,8 +2,8 @@
 id: "dar-global"
 kind: "entity"
 type: "company"
-connections: 24
-claims: 10
+connections: 25
+claims: 11
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ Dar Al Arkan's international arm; named in Dec 2024 as the hoped-for Abu Dhabi p
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 10 claims |
-| Connections | 24 |
+| Appears in | 11 claims |
+| Connections | 25 |
 
 ## How other claims describe it
 
@@ -24,7 +24,7 @@ Dar Al Arkan's international arm; named in Dec 2024 as the hoped-for Abu Dhabi p
 - London-listed international arm of Dar Al Arkan; Trump licensing partner
 - London-listed arm of Saudi Dar Al Arkan; main Trump licensee in Gulf
 - Saudi Dar Al Arkan's international arm; Trump licensing partner
-- Trump Organization licensee developing the Qatar project
+- Developer of Trump Tower Dubai (often misattributed to Damac).
 
 ## Appears in claims
 
@@ -38,6 +38,7 @@ Dar Al Arkan's international arm; named in Dec 2024 as the hoped-for Abu Dhabi p
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
+- [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge]] · Mostly accurate
 
 ## Relationships
 

@@ -67,6 +67,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 ## Follow-up checks
 
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
 
 ## Sub-claims
 
@@ -413,7 +414,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - [[Brandon Lutnick]] *chairman/CEO* [[Cantor Fitzgerald]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump Jr]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Eric Trump]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
 - [[Hut 8]] *80% owner via miner contribution* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Kevin McGurn]] *chairman/CEO/CFO, then CEO; sponsor member (resigned Aug 5, 2026)* [[New America Acquisition I Corp]] · 2025-07 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Craft Ventures]] *7.8% holder at IPO filing (NYT)* [[BitGo]] · 2025-09 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
@@ -460,7 +461,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - [[Kevin McGurn]] *CEO and director* [[Yorkville Acquisition Corp]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Eric Trump]] *director* [[ALT5 Sigma]] · 2025-08 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Bo Hines]] *CEO* [[USAT]] · 2025-09-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Kevin McGurn]] *leads SPAC (single-source)* [[Texas Ventures Acquisition III Corp]] · 2026-01 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Kevin McGurn]] *led as CEO (single-source); resigned as CEO effective Apr 22, 2026 (8-K, C78)* [[Texas Ventures Acquisition III Corp]] · 2026-01/2026-04-22 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Kyle Wool]] *chairman from Feb 6, 2026; CEO from Aug 5, 2026* [[New America Acquisition I Corp]] · 2026-02-06 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 
 ### Political (1)

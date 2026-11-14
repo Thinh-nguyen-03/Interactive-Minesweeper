@@ -37,7 +37,7 @@ Evidence grades: **documented** (filings, official records or several outlets), 
 ### 5. Lukoil's ~$20B foreign assets in the talks (single-source core; consortium reported by several relays)
 - NYT (early Oct 2026, three unnamed people): Putin raised the Lukoil asset sale with Witkoff and Kushner in the Kremlin on 5 Sep 2026.
 - The lead bidder is a consortium headed by Todd Boehly, a Trump donor ($1M-$2M; outlets disagree). Reported members are Tahnoon-chaired IHC, Al Hail Holding, the Qatar-based Al-Khayyat brothers and the US DFC (reported mid-teens stake).
-- The Al-Khayyats are reported as former partners of Kushner and Ivanka Trump on the southern Albania resort project (C45). That is single-source in what we saw.
+- The Al-Khayyats are Kushner's partners (and reportedly Ivanka Trump's) on the southern Albania Sazan resort project (C45, C94). That is *documented*: Ramez Al-Khayyat confirmed the partnership to the NYT (19 Apr 2026, via Balkanweb), a Sazan Real Estate spokesperson confirmed the brothers' involvement to CBS, and OCCRP cites Albanian registry filings naming them as beneficial owners. No source we found says the partnership has ended. (Upgraded from single-source in the second audit.)
 - Carlyle signed a deal in Jan 2026 and later withdrew. Any sale needs OFAC and Kremlin approval. *Update:* OFAC's GL 131K authorises negotiations only to 21 Nov 2026. Transfer needs a separate licence, and the proceeds must be blocked. No signed sale had been reported by mid-Nov 2026.
 - Witkoff's spokesperson: "no conflict of interest and no financial stake in this matter." The NYT found no indication of personal profit for Witkoff or Kushner.
 
@@ -132,3 +132,6 @@ Result: **upheld**. Re-checked three points.
 - **Beach/Novatek.** The FT layer is attributed to ex-CEO Joel Riddle, and Polar LNG denies it.
 
 New sources: Kyiv Independent https://kyivindependent.com/trump-says-son-reimbursed-russian-oligarch-who-funded-wedding-celebrations/; Kurs.com.ua https://kurs.com.ua/en/novost/1485213-vashington-prodovzhiv-termin-prodazhu-zakordonnogo-biznesu-lukoila; Ship & Bunker https://shipandbunker.com/news/world/708441-us-again-extends-deadline-for-lukoil-foreign-assets-sale; ADN https://www.adn.com/alaska-journal/news/2026/11/09/former-ceo-alleges-russian-company-financed-alaska-project-despite-us-sanctions-polar-lng-denies-the-claims/
+
+Second audit cross-check (from the C94 review):
+- **Al-Khayyat-Kushner Albania partnership.** Upgraded from single-source to documented: Ramez Al-Khayyat confirmed it to the NYT (19 Apr 2026), a Sazan Real Estate spokesperson confirmed it to CBS, and OCCRP cites registry filings. 'Former' dropped, since no source says it ended. Sources: Balkanweb https://www.balkanweb.com/en/Two-Qatari-billionaires-and-a-complex-network-of-companies-behind-the-Sazan-project/; CBS News https://cbsnews.com/news/albania-protests-jared-kushner-luxury-resort-plans-anti-corruption

@@ -202,3 +202,26 @@ These are our own cross-references. No source we found asserts them.
 40. Politis (Cyprus), "Kushner-Linked Albania Project Backed by Qatari Billionaires", 2026. https://en.politis.com.cy/news/world/1014327/kushner-linked-albania-project-backed-by-qatari-billionaires
 41. Mondaq, "OFAC widens the door on Lukoil divestments: GLs 131E and 128C", 2026. https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1786274/ofac-widens-the-door-on-lukoil-divestments-navigating-gls-131e-and-128c-for-lukoil-divestments
 42. Global Sanctions, "US renews general license for Lukoil International sale until 25 July 2026", 2026-06. https://globalsanctions.com/2026/06/us-renews-general-license-for-lukoil-international-sale-until-25-july-2026/
+
+## Second review (audit)
+
+Result: **upheld**.
+
+Checked:
+- Boehly consortium membership (IHC, Allied, Al Hail, the Al-Khayyat brothers, the DFC at a mid-teens stake) and the escrowed swap structure
+- Al-Khayyat brothers as Kushner's partners in the Albania Sazan project
+- NYT (3 Oct 2026): Putin raised the Lukoil sale with Witkoff and Kushner on 5 Sep 2026
+- Status through Nov 2026: whether a sale was signed or the OFAC licence extended
+
+Changes:
+- Relationship todd-boehly -> lukoil-international-gmbh carried amount_usd 22B, which was Gunvor's 2025 price, not a Boehly bid; removed the amount and noted no price has been disclosed.
+- Consortium: noted that FT and Reuters both rest on anonymous sources and that the structure is unsettled; added IHC's no-comment.
+- OFAC: added GL 131K's no-prior-benefit condition and resale review requirement. No signed deal or extension beyond 21 Nov 2026 found as of 14 Nov 2026.
+- Al-Khayyat-Kushner: re-confirmed as documented (NYT 19 Apr 2026 via Balkanweb; CBS; OCCRP). C76's grade updated to match.
+- NYT/Putin item stays single-source (three people briefed); Witkoff's denial and the NYT's no-personal-profit finding are recorded.
+
+New sources:
+- FesenkoLaw, "OFAC GL 131K: One More Month for the Lukoil Deal, No New Conditions", 2026-10. https://fesenkolaw.com/blog/ofac-gl-131k-one-more-month-for-the-lukoil-deal/
+- Reuters via AJOT, "US billionaire leads swap plan to buy Lukoil's overseas assets, sources say", 2026-11-03. https://www.ajot.com/news/exclusive-us-billionaire-leads-swap-plan-to-buy-lukoils-overseas-assets-sources-say
+- Cyprus Mail (Reuters), "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports", 2026-10-03. https://cyprus-mail.com/2026/10/03/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-nyt-reports
+- Politis, "Kushner-Linked Albania Project Backed by Qatari Billionaires", 2026. https://en.politis.com.cy/news/world/1014327/kushner-linked-albania-project-backed-by-qatari-billionaires

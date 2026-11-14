@@ -2,8 +2,8 @@
 id: "conscience-point-consulting"
 kind: "entity"
 type: "company"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/company"
@@ -15,12 +15,17 @@ Reported Seiden subcontractor on Pakistan whose filings mention Ronny Jackson.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 2 claims |
+| Connections | 3 |
+
+## How other claims describe it
+
+- Seiden subcontractor on Pakistan
 
 ## Appears in claims
 
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
 
 ## Relationships
 

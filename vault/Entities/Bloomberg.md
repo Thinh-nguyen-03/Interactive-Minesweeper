@@ -6,8 +6,8 @@ aliases:
   - "Bloomberg / Billionaires Index"
   - "Bloomberg / Bloomberg Government"
   - "Bloomberg / Bloomberg Law"
-connections: 16
-claims: 10
+connections: 17
+claims: 11
 tags:
   - "entity"
   - "type/media"
@@ -19,17 +19,17 @@ Reported (2026-06-05) WLF stablecoin profits fueled partly by a Binance promotio
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 10 claims |
-| Connections | 16 |
+| Appears in | 11 claims |
+| Connections | 17 |
 | Also known as | Bloomberg / Billionaires Index; Bloomberg / Bloomberg Government; Bloomberg / Bloomberg Law |
 
 ## How other claims describe it
 
 - July 2026 investigation of family windfall versus investor losses.
 - Reported Kollitides's SPAC board seat and the Lutnick screening
+- Reported the $66M 2025 pay and Dominari's Trump deals.
 - Reported Lunate/42XFund and G42 stake-sale talks
 - Foreign-holder analysis; Zanker treasury scoop
-- First reported the Polymarket probe closures.
 
 ## Appears in claims
 
@@ -43,6 +43,7 @@ Reported (2026-06-05) WLF stablecoin profits fueled partly by a Binance promotio
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
+- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
 
 ## Relationships
 

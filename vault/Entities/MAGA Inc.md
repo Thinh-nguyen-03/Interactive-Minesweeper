@@ -2,8 +2,8 @@
 id: "maga-inc"
 kind: "entity"
 type: "fund"
-connections: 15
-claims: 8
+connections: 21
+claims: 10
 tags:
   - "entity"
   - "type/fund"
@@ -15,13 +15,14 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 8 claims |
-| Connections | 15 |
+| Appears in | 10 claims |
+| Connections | 21 |
 
 ## How other claims describe it
 
 - Pro-Trump super PAC; host of the $1M-per-head dinner
 - Pro-Trump super PAC; hosted the $1M-per-head dinner
+- Pro-Trump super PAC; Boehly is a $1M+ donor.
 - Pro-Trump super PAC
 
 ## Appears in claims
@@ -34,6 +35,8 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 - [[C69 Master timeline money events versus government actions]] · Partly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Relationships
 
@@ -46,12 +49,17 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 - [[Tyler Winklevoss]] *gave 79.35 BTC (>$5M)* [[MAGA Inc]] · 2026-06-19 · $5.01M · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Tyler Winklevoss]] *gave >$5M in BTC to* [[MAGA Inc]] · 2026-06-19 · $5M · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 
-### Political (7)
+### Political (12)
 
+- [[Todd Boehly]] *$1M+ donor (NBC/FEC)* [[MAGA Inc]] · 2025 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[Todd Boehly]] *listed as $1M+ donor (amount unconfirmed)* [[MAGA Inc]] · 2025 · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
+- [[Kelcy Warren]] *$25M with Energy Transfer (reported $12.5M each)* [[MAGA Inc]] · 2025-02 · $25M · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 - [[Crypto.com]] *donated (Feb 2025 $10M; Sep-Oct 2025 $20M; Jan 2026 $5M)* [[MAGA Inc]] · 2025-02/2026-01 · $35M · [[C22 Crypto.com and TMTG|C22]]
+- [[Jeff Yass]] *$16M ($1M Jan 2025, $15M Mar 2025)* [[MAGA Inc]] · 2025-03 · $16M · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 - [[Elizabeth Fago]] *attended $1M-per-head dinner* [[MAGA Inc]] · 2025-04 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Elizabeth Fago]] *attended $1M-per-head dinner (payment unclear)* [[MAGA Inc]] · 2025-04 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Greg Brockman]] *donation (with wife Anna)* [[MAGA Inc]] · 2025-09-12 · $25M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Crypto.com]] *~$35M in contributions* [[MAGA Inc]] · 2025-2026 · $35M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Stephen Schwarzman]] *donated $5M* [[MAGA Inc]] · 2025-H2 · $5M · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 - [[MAGA Inc]] *super PAC backing* [[Donald Trump]] · [[C22 Crypto.com and TMTG|C22]]
 - [[MAGA Inc]] *super PAC supporting* [[Donald Trump]] · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]

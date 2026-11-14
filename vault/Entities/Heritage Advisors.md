@@ -2,37 +2,50 @@
 id: "heritage-advisors"
 kind: "entity"
 type: "fund"
-connections: 5
-claims: 1
+connections: 12
+claims: 2
 tags:
   - "entity"
   - "type/fund"
 ---
 # Heritage Advisors
 
-London fund of Sheikh Sultan bin Jassim Al Thani
+London venture/investment firm of Sheikh Sultan bin Jassim Al Thani
 
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
-| Connections | 5 |
+| Appears in | 2 claims |
+| Connections | 12 |
+
+## How other claims describe it
+
+- London fund of Sheikh Sultan bin Jassim Al Thani
 
 ## Appears in claims
 
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
 
 ## Relationships
 
-### Money (2)
+### Money (8)
 
+- [[Heritage Advisors]] *invested ~$50M in* [[Newsmax]] · 2019-2020 · $50M · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
 - [[Heritage Advisors]] *invested in Daibes project (Menendez case)* [[Fred Daibes]] · 2022 · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Heritage Advisors]] *$45M for 25% stake via* [[Hudson Edgewater Associates]] · 2022-12 · $45M · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
 - [[Heritage Advisors]] *paid consulting fees (>$5K, Apr-Dec 2023) to* [[Lee Zeldin]] · 2023-04 · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Heritage Advisors]] *paid consulting fees (>$5K) to* [[Zeldin Strategies]] · 2023-04 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+- [[Heritage Advisors]] *add-on investment in* [[Fort Partners]] · 2023-06 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+- [[Heritage Advisors]] *minority investor in (PitchBook)* [[Indy Eleven]] · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+- [[Heritage Advisors]] *investor in* [[The News Movement]] · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
 
-### Ownership (1)
+### Ownership (2)
 
+- [[Sheikh Sultan bin Jassim Al Thani]] *founded and leads* [[Heritage Advisors]] · 2019 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
 - [[Sheikh Sultan bin Jassim Al Thani]] *founded* [[Heritage Advisors]] · [[C73 Qatar's access network inside and around the administration|C73]]
 
-### Legal (1)
+### Legal (2)
 
+- [[Bob Menendez]] *introduced Daibes to principal of (alleged)* [[Heritage Advisors]] · 2021 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
 - [[Bob Menendez]] *allegedly steered toward Daibes deal* [[Heritage Advisors]] · 2021-06 · [[C73 Qatar's access network inside and around the administration|C73]]

@@ -2,8 +2,10 @@
 id: "yorkville-advisors"
 kind: "entity"
 type: "fund"
-connections: 13
-claims: 2
+aliases:
+  - "Yorkville Advisors Global"
+connections: 17
+claims: 4
 tags:
   - "entity"
   - "type/fund"
@@ -15,30 +17,37 @@ Mountainside NJ investment manager (Mark Angelo); TMTG's equity-line buyer and S
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 2 claims |
-| Connections | 13 |
+| Appears in | 4 claims |
+| Connections | 17 |
+| Also known as | Yorkville Advisors Global |
 
 ## How other claims describe it
 
 - Mountainside NJ investment manager (Mark Angelo); TMTG equity-line buyer via YA II PN
+- Mark Angelo's investment firm; TMTG financier and SPAC sponsor
+- TMTG financier and SPAC sponsor (C78).
 
 ## Appears in claims
 
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
+- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
 
 ## Relationships
 
-### Money (3)
+### Money (4)
 
 - [[Yorkville Advisors]] *bought ~20M shares under $2.5B SEPA* [[Trump Media & Technology Group]] · 2024 · $450M · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Yorkville Advisors]] *equity-line buyer, placement agent, ETF adviser* [[Trump Media & Technology Group]] · 2024-07 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Yorkville Advisors]] *PIPE/financing commitment from funds managed by* [[Plus Automation Inc. (PlusAI)]] · 2026-09 · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Yorkville Advisors]] *funds committed PIPE financing for TVA III merger* [[Plus Automation Inc. (PlusAI)]] · 2026-09-03 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 
-### Ownership (7)
+### Ownership (8)
 
 - [[Yorkville Advisors]] *sponsor of* [[Yorkville Acquisition Corp]] · 2025-06-30 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Yorkville Advisors]] *affiliate sponsor of* [[Yorkville Acquisition Sponsor II, LLC]] · 2025-09 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Yorkville Advisors]] *sponsor/controller* [[Texas Ventures Acquisition III Corp]] · 2025-09-18 · [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
 - [[Yorkville Advisors]] *affiliate sponsor of* [[Yorkville BW Acquisition Sponsor, LLC]] · 2025-11 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Yorkville Advisors]] *sponsor of* [[Yorkville International Capital Corp (YICC)]] · 2026-03 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Mark Angelo]] *founder* [[Yorkville Advisors]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
@@ -48,6 +57,10 @@ Mountainside NJ investment manager (Mark Angelo); TMTG's equity-line buyer and S
 ### Regulatory (1)
 
 - [[Securities and Exchange Commission]] *fraud case dismissed with prejudice* [[Yorkville Advisors]] · 2018-10-29 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+
+### Political (1)
+
+- [[Ron Wyden]] *opened Senate Finance inquiry (OFAC licences, Venezuela) into* [[Yorkville Advisors]] · 2026-06-25 · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 
 ### Commercial (2)
 

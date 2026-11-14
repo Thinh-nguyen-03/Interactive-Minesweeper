@@ -72,6 +72,10 @@ Most links in the brief are documented, but the approvals behind them are often 
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
 
+## Follow-up checks
+
+- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
+
 ## Sub-claims
 
 ### 1. Trump personally brokered PGA Tour-PIF talks at the White House.
@@ -301,8 +305,9 @@ Most links in the brief are documented, but the approvals behind them are often 
 ### Ownership (28)
 
 - [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · 2021 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[G42]] *launched (~$10B) and formerly managed* [[42XFund]] · 2022 · $10B · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[Lunate]] *took over management of* [[42XFund]] · 2024-07-08 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[BlackRock]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[MGX]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
@@ -325,7 +330,6 @@ Most links in the brief are documented, but the approvals behind them are often 
 - [[PGA Tour]] *operates* [[PGA Tour Enterprises]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Scott O'Neil]] *CEO of* [[LIV Golf]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Silver Lake]] *investor in* [[G42]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Trump Organization]] *owns* [[Trump National Doral]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Yasir Al-Rumayyan]] *governor of* [[Public Investment Fund (Saudi Arabia)]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 

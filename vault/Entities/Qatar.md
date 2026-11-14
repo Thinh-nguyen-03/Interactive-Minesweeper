@@ -2,8 +2,8 @@
 id: "qatar"
 kind: "entity"
 type: "country"
-connections: 37
-claims: 13
+connections: 40
+claims: 15
 tags:
   - "entity"
   - "type/country"
@@ -15,8 +15,8 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 13 claims |
-| Connections | 37 |
+| Appears in | 15 claims |
+| Connections | 40 |
 
 ## How other claims describe it
 
@@ -41,6 +41,8 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 - [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Relationships
 
@@ -68,6 +70,10 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 - [[Qatar]] *reported investor base / registration* [[Albania Land Development]] · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Qatar]] *investor in an Apollo-run trust (per NYT correction, that trust was not the Witkoff lender)* [[Apollo Global Management]] · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Qatar]] *owns* [[Qatar Investment Authority]] · [[C15 Jared Kushner and Affinity Partners|C15]]
+
+### Family (1)
+
+- [[Sheikh Sultan bin Jassim Al Thani]] *member of royal family; ex-official of* [[Qatar]] · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
 
 ### Regulatory (5)
 

@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "American Bitcoin Corp. (ABTC)"
-connections: 18
-claims: 7
+connections: 19
+claims: 8
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Bitcoin mining/treasury company part-owned by Eric and Don Jr.; 80% owned by Hut
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 7 claims |
-| Connections | 18 |
+| Appears in | 8 claims |
+| Connections | 19 |
 | Also known as | American Bitcoin Corp. (ABTC) |
 
 ## How other claims describe it
@@ -38,6 +38,7 @@ Bitcoin mining/treasury company part-owned by Eric and Don Jr.; 80% owned by Hut
 - [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
 
 ## Relationships
 
@@ -52,7 +53,7 @@ Bitcoin mining/treasury company part-owned by Eric and Don Jr.; 80% owned by Hut
 - [[Donald Trump Jr]] *co-founder and shareholder* [[American Bitcoin]] · 2025-03 · [[C29 Trump family wealth gains|C29]]
 - [[Eric Trump]] *co-founder and shareholder* [[American Bitcoin]] · 2025-03 · [[C29 Trump family wealth gains|C29]]
 - [[Donald Trump Jr]] *co-owner of* [[American Bitcoin]] · 2025-03-31 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
 - [[Eric Trump]] *co-founder, chief strategy officer and shareholder of* [[American Bitcoin]] · 2025-03-31 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Hut 8]] *80% owner via miner contribution* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Hut 8]] *contributed ASIC miners for 80% equity in* [[American Bitcoin]] · 2025-03-31 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
@@ -71,11 +72,12 @@ Bitcoin mining/treasury company part-owned by Eric and Don Jr.; 80% owned by Hut
 
 - [[Molly White]] *criticised in video* [[American Bitcoin]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 
-### Commercial (7)
+### Commercial (8)
 
 - [[Dominari Holdings Dominari Securities]] *lead underwriter on raises* [[American Bitcoin]] · 2025 · $220M · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[American Data Centers Inc]] *renamed as* [[American Bitcoin]] · 2025-03-31 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Hut 8]] *exclusive colocation and managed-services provider to* [[American Bitcoin]] · 2025-03-31 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Gryphon Digital Mining]] *all-stock merger announced; GRYP +~300% on the day* [[American Bitcoin]] · 2025-05-12 · [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
 - [[American Bitcoin]] *merged (all-stock) to list on Nasdaq via* [[Gryphon Digital Mining]] · 2025-09-03 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[American Bitcoin]] *mines and holds* [[Bitcoin]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[American Bitcoin]] *one of* [[Trump-linked crypto treasury companies]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]

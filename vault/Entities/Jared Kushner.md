@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Kushner"
-connections: 64
-claims: 21
+connections: 72
+claims: 24
 tags:
   - "entity"
   - "type/person"
@@ -19,8 +19,8 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 21 claims |
-| Connections | 64 |
+| Appears in | 24 claims |
+| Connections | 72 |
 | Also known as | Kushner |
 
 ## How other claims describe it
@@ -54,6 +54,9 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
+- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Relationships
 
@@ -69,13 +72,13 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[Jared Kushner]] *divested Thrive-linked LLCs (2017 ethics filing)* [[Thrive Capital]] · 2017-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Jared Kushner]] *founder* [[Affinity Partners]] · 2021 · [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner and Affinity Partners|C15]] [[C37 Jared Kushner's hacked phone|C37]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Jared Kushner]] *founder of* [[Affinity Partners]] · 2021 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[Jared Kushner]] *affiliated via Affinity partners; minority partner* [[Atlantic Incubation Partners LLC]] · 2024-12-30 · [[C63 Shell entities and ownership chains|C63]]
 - [[Jared Kushner]] *self-described minority partner in* [[Zvernec Vjosa-Narta coastal project]] · 2026-10 · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Jared Kushner]] *founded* [[Affinity Partners]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Jared Kushner]] *founded (not named in alleged accounts)* [[Affinity Partners]] · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
 - [[Jared Kushner]] *founded and runs* [[Affinity Partners]] · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Jared Kushner]] *founder and head of* [[Affinity Partners]] · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Jared Kushner]] *founder of* [[Affinity Partners]] · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Jared Kushner]] *runs* [[Affinity Partners]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *co-founded* [[Cadre]] · [[C76 Russia-linked money around the family and envoys|C76]]
 
@@ -102,7 +105,7 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[Agnes Callamard]] *urged him to check/replace phone after Bezos hack* [[Jared Kushner]] · 2020-01 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
 - [[Josh Gruenbaum]] *worked for on Gaza ceasefire talks* [[Jared Kushner]] · 2025-2026 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 
-### Political (16)
+### Political (19)
 
 - [[Rick Gerson]] *passed Dmitriev plan to* [[Jared Kushner]] · 2017-01 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Benjamin Netanyahu]] *allegedly encouraged Bank of Israel account for (unverified)* [[Jared Kushner]] · 2018 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
@@ -117,7 +120,10 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[Jared Kushner]] *executive board member of* [[Board of Peace (Gaza)]] · 2026-01 · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Donald Trump]] *named 'envoy of peace'* [[Jared Kushner]] · 2026-02-19 · [[C45 Kushner's Albania and Serbia developments|C45]]
 - [[Donald Trump]] *named 'envoy of peace' (unofficial, volunteer)* [[Jared Kushner]] · 2026-02-19 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Kirill Dmitriev]] *met on Russian energy; publicly defended him as 'peacemaker'* [[Jared Kushner]] · 2026-03-12 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[Vladimir Putin]] *raised Lukoil sale at Kremlin meeting (NYT, single-source)* [[Jared Kushner]] · 2026-09-05 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
 - [[Jamie Raskin]] *demanded recusal and bank records from* [[Jared Kushner]] · 2026-10 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
+- [[Jared Kushner]] *helped negotiate terms of federal stake (senior official to NYT, single-source)* [[US International Development Finance Corporation]] · 2026-10 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
 - [[Jared Kushner]] *travels and negotiates with* [[Steve Witkoff]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Jared Kushner]] *unofficial 'peace envoy' for* [[White House Trump administration]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 
@@ -142,12 +148,16 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[Vanity Fair (Condé Nast)]] *published excerpt alleging phone hack and secret accounts* [[Jared Kushner]] · 2026-10-22 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
 - [[Molly White]] *describes conflicts of* [[Jared Kushner]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 
-### Commercial (4)
+### Commercial (8)
 
 - [[Jared Kushner]] *bought via Frangi brokerage* [[Solstice superyacht]] · 2022 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Moutaz and Ramez Al-Khayyat]] *partners in Sazan resort (confirmed to NYT/CBS; registry filings)* [[Jared Kushner]] · 2024-12 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
 - [[Jared Kushner]] *resort projects with Rama government (C45)* [[Albania]] · 2024-12 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Jared Kushner]] *pursuing Sazan/Zvernec resorts approved by* [[Albania]] · 2024-2026 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
-- [[Moutaz and Ramez Al-Khayyat]] *reported partners on Albania resort project (single-source)* [[Jared Kushner]] · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Jared Kushner]] *agreed Trump licensing for Belgrade hotel* [[Eric Trump]] · 2025-01 · [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings|C89]]
+- [[Jared Kushner]] *reportedly may join (single-source, unconfirmed)* [[Grand Budapest (Rákosrendező) project]] · 2025-01 · [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings|C89]]
+- [[Egon Durban]] *reportedly began EA buyout talks with (Reuters, anonymous)* [[Jared Kushner]] · 2025-spring · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[Moutaz and Ramez Al-Khayyat]] *partners on Albania Sazan resort project (confirmed to NYT/CBS; registry filings)* [[Jared Kushner]] · [[C76 Russia-linked money around the family and envoys|C76]]
 
 ## Themes
 

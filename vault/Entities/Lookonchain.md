@@ -2,8 +2,8 @@
 id: "lookonchain"
 kind: "entity"
 type: "company"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/company"
@@ -15,12 +15,17 @@ On-chain analytics account that tracked sniping and liquidity pulls
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 2 claims |
+| Connections | 3 |
+
+## How other claims describe it
+
+- On-chain analytics; AVAX/MNT buys
 
 ## Appears in claims
 
 - [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
 
 ## Relationships
 

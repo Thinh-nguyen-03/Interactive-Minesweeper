@@ -75,6 +75,7 @@ The documented record supports most of the brief. Trump-owned DT Marks DEFI is e
 
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
 
 ## Sub-claims
 

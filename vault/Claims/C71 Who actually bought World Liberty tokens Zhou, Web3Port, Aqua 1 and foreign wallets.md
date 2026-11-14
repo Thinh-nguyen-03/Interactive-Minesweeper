@@ -60,6 +60,10 @@ Multi-outlet reporting documents the Web3Port ($10M) and Aqua 1 ($100M) WLFI pur
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
 
+## Follow-up checks
+
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+
 ## Sub-claims
 
 ### 1. Web3Port bought WLFI right after the inauguration

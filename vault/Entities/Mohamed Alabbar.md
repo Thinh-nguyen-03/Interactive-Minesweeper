@@ -2,8 +2,8 @@
 id: "mohamed-alabbar"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 5
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -15,14 +15,27 @@ Dubai developer (Eagle Hills) reported as Kushner's partner on the Belgrade hote
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 2 claims |
+| Connections | 5 |
+
+## How other claims describe it
+
+- Dubai developer (Eagle Hills); Kushner's Belgrade partner; met Orbán in Abu Dhabi.
 
 ## Appears in claims
 
 - [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
 
 ## Relationships
+
+### Ownership (1)
+
+- [[Mohamed Alabbar]] *founder of* [[Eagle Hills]] · [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings|C89]]
+
+### Political (1)
+
+- [[Viktor Orbán]] *met during Abu Dhabi state visit* [[Mohamed Alabbar]] · 2025-01 · [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings|C89]]
 
 ### Commercial (1)
 

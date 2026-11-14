@@ -2,8 +2,10 @@
 id: "washington-post"
 kind: "entity"
 type: "media"
-connections: 2
-claims: 1
+aliases:
+  - "Washington Post"
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/media"
@@ -15,15 +17,25 @@ Bezos-owned paper; opinion section refocused on 'personal liberties and free mar
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 3 claims |
+| Connections | 6 |
+| Also known as | Washington Post |
+
+## How other claims describe it
+
+- Published the leaked ballroom donor spreadsheet, 2026-10-15
+- Reported the Newsmax stake with ICIJ (March 2024)
 
 ## Appears in claims
 
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 
-### Media (1)
+### Media (3)
 
+- [[Will Lewis]] *publisher of* [[The Washington Post]] · 2024-01 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
 - [[Jeff Bezos]] *owns; refocused opinion section* [[The Washington Post]] · 2025-02-26 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[The Washington Post]] *published leaked donor spreadsheet* [[White House ballroom]] · 2026-10-15 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]

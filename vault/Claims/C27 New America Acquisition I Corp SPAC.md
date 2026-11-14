@@ -70,9 +70,9 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 - It priced the $300M IPO on Dec. 3, 2025, and units began trading Dec. 4.
 - With the over-allotment exercised, the closing announced Dec. 5, 2025 was for $345M (34.5 million units).
 - The underwriters were Dominari Securities and D. Boral Capital.
-- Kevin McGurn is chairman, CEO and CFO.
+- Kevin McGurn was chairman, CEO and CFO at the IPO; Kyle Wool became chairman on Feb 6, 2026, and McGurn resigned as CEO and director effective Aug 5, 2026 (8-K; see C62, C78).
 - Amounts: $300M; $10; $11.50; $345M
-- Dates: Aug. 4, 2025; Dec. 3, 2025; Dec. 4; Dec. 5, 2025
+- Dates: Aug. 4, 2025; Dec. 3, 2025; Dec. 4; Dec. 5, 2025; Feb 6, 2026
 - Sources: [4](https://finance.yahoo.com/news/eric-trump-jr-backed-manufacturing-152853627.html) [7](https://www.renaissancecapital.com/IPO-Center/News/112538/spac-new-america-acquisition-i-files-for-a-300-million-ipo) [8](https://www.renaissancecapital.com/IPO-Center/News/115348/spac-new-america-acquisition-i-prices-300-million-ipo-targeting-us-tech) [9](https://www.sec.gov/Archives/edgar/data/2074878/000149315225026402/ex99-1.htm) [10](https://business.minstercommunitypost.com/minstercommunitypost/article/accwirecq-2025-12-5-new-america-acquisition-i-corp-announces-closing-of-345-million-initial-public-offering)
 
 ### 2. Don Jr. and Eric Trump are advisers who stand to make tens of millions of dollars.
@@ -180,7 +180,7 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 - [[Dominari Holdings Dominari Securities]] *co-formed American Data Centers (later American Bitcoin) with Trump sons* [[American Bitcoin]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Eric Trump]] *major shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Kevin McGurn]] *chairman, CEO and CFO; indirect interest in 1M founder shares* [[New America Acquisition I Corp]] · 2025-07 · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Kevin McGurn]] *chairman, CEO and CFO (resigned as CEO and director Aug 5, 2026); indirect interest in 1M founder shares* [[New America Acquisition I Corp]] · 2025-07 · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Kyle Wool]] *president of* [[Dominari Holdings Dominari Securities]] · [[C27 New America Acquisition I Corp SPAC|C27]]
 
 ### Family (2)
@@ -265,7 +265,7 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 
 ### Evidence by sub-claim
 
-1. **A $300M SPAC: confirmed, with an update.** New America filed its S-1 on Aug. 4, 2025 for a $300M NYSE IPO: 30M units at $10, each with half a warrant at an $11.50 strike. It is a Florida company. It priced the $300M IPO on Dec. 3, 2025, units began trading Dec. 4, and with the over-allotment exercised it closed at **$345M** (34.5M units) on Dec. 5. Dominari Securities and D. Boral Capital were the underwriters. Kevin McGurn is chairman, CEO and CFO. [4][7][8][9][10]
+1. **A $300M SPAC: confirmed, with an update.** New America filed its S-1 on Aug. 4, 2025 for a $300M NYSE IPO: 30M units at $10, each with half a warrant at an $11.50 strike. It is a Florida company. It priced the $300M IPO on Dec. 3, 2025, units began trading Dec. 4, and with the over-allotment exercised it closed at **$345M** (34.5M units) on Dec. 5. Dominari Securities and D. Boral Capital were the underwriters. Kevin McGurn was chairman, CEO and CFO at the IPO; Kyle Wool became chairman on Feb. 6, 2026, and McGurn resigned as CEO and director effective Aug. 5, 2026 (8-K; see C62, C78). [4][7][8][9][10]
 2. **The sons are advisers who stand to make tens of millions: confirmed.** Both sit on the strategic advisory board. Eric got 3M founder shares and Don Jr. 2M [4]. At $10 a share that is about **$50M in paper value** [1][5]. The value depends on the SPAC completing a merger and on where the stock trades afterwards.
 3. **"Leverage our strategic advisory board and management's comprehensive industry relationships": unverified wording.** The advisory board (the two sons plus Dominari's Kyle Wool) is confirmed [11]. I could not find the exact quote because sec.gov is blocked in this environment. It reads like standard SPAC boilerplate.
 4. **The targeting language on federal and state incentives: confirmed.** AP and Bloomberg quote the original S-1: "well-positioned to benefit from federal or state-level incentives, such as grants, tax credits, government contracts or preferential procurement programs" [1][2][3]. The video's quote leaves out "grants, tax credits". I could not confirm that the "identifiable economic or security interest" sentence was in the filing.
@@ -309,3 +309,5 @@ Result: **upheld**. AP's account of the same-day removal of the incentives langu
 
 A1. AP via News4Jax, "Company advised by Trump sons said it hoped to benefit from fed money, then took it back", 2025-08-04. https://www.news4jax.com/business/2025/08/04/company-advised-by-trump-sons-said-it-hoped-to-benefit-from-fed-money-then-took-it-back/
 A2. StreetInsider, Form 8-K, New America Acquisition I Corp, 2026-02-06. https://www.streetinsider.com/SEC+Filings/Form+8-K+New+America+Acquisition+For%3A+Feb+06/25968632.html
+
+Cross-file consistency (Nov 2026): the report and JSON had described McGurn in the present tense as chairman, CEO and CFO. Per the 8-Ks recorded in C62/C78, Kyle Wool became chairman on Feb. 6, 2026 and McGurn resigned as CEO and director effective Aug. 5, 2026; the sub-claim, entity description and relationship label are updated.

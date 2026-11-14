@@ -2,8 +2,8 @@
 id: "gemini"
 kind: "entity"
 type: "company"
-connections: 14
-claims: 7
+connections: 15
+claims: 8
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ Crypto exchange whose SEC case was dropped.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 7 claims |
-| Connections | 14 |
+| Appears in | 8 claims |
+| Connections | 15 |
 
 ## How other claims describe it
 
@@ -35,6 +35,7 @@ Crypto exchange whose SEC case was dropped.
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C69 Master timeline money events versus government actions]] · Partly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 

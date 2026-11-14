@@ -44,7 +44,7 @@ The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied fo
 - 2025 Albanian lobbying by Trump-world operatives (Continental, LaCivita, Manafort) is for Berisha's opposition, not Rama's government, Kushner's partner.
 - Ballard's access is contested: Politico reports he was frozen out after the Mar 2025 XRP post.
 - Audit: Patel's one-year Qatar recusal was pledged in Nov 2024 and had expired before he signed the Dec 2025 Doha agreements; it was not a pledge made at the signing.
-- Audit: Bondi is former AG (left Apr 2, 2026); Todd Blanche is AG (acting from Apr 2, confirmed Aug 8, 2026).
+- Audit: Bondi is former AG (left Apr 2, 2026); Todd Blanche is AG (acting from Apr 2, confirmed 50-49 on Aug 8, sworn in Aug 10, 2026).
 
 ## What is unproven
 
@@ -63,6 +63,8 @@ The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied fo
 
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
 
 ## Sub-claims
 
@@ -392,7 +394,7 @@ The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied fo
 - [[Jeff Miller]] *inaugural festivities finance chair* [[Donald Trump]] · 2025-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Susie Wiles]] *chief of staff* [[White House Trump administration]] · 2025-01 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Kash Patel]] *director of* [[FBI]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
-- [[Pam Bondi]] *heads (Attorney General)* [[US Department of Justice]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Pam Bondi]] *headed (Attorney General, Feb 2025 - Apr 2, 2026)* [[US Department of Justice]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named (Politico, anonymous sources)* [[Donald Trump]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[David Sacks]] *complained about Ballard-pushed XRP post* [[Susie Wiles]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[White House Trump administration]] *staff told not to meet (Politico, anonymous)* [[Brian Ballard]] · 2025-03 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
@@ -443,7 +445,7 @@ The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied fo
   - Pakistan's lobbying push (Seiden, Javelin, Checkmate) ran alongside WLF deals and a US-Pakistan rare-earths agreement.
   - [[Pakistan]] [[World Liberty Financial]] [[Seiden Law LLP]] [[Javelin Advisors]] · [Source](https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off)
 
-## Sources (59)
+## Sources (61)
 
 1. [Former Qatar lobbyist Pam Bondi approves jet deal](https://readsludge.com/2025/05/12/former-qatar-lobbyist-pam-bondi-approves-jet-deal/) (Sludge, 2025-05-12)
 2. [Fact Check: Pam Bondi used to lobby for Qatar — but no proof she personally made $115K per month](https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html) (Yahoo News)
@@ -504,6 +506,8 @@ The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied fo
 57. ['Bitcoin Jesus' pays Trump ally Roger Stone $600,000](https://decrypt.co/316387/bitcoin-jesus-pays-trump-ally-roger-stone-600000-to-lobby-against-exit-tax) (Decrypt, 2025-04)
 58. [Fired after he couldn't deliver a pardon, Roger Stone hired to aid Nigeria Christians](https://www.floridabulldog.org/2026/02/fired-couldnt-deliver-pardon-roger-stone-hired-aid-nigeria-christians/) (Florida Bulldog, 2026-02)
 59. [SEC drops Milton suit](https://www.law360.com/bankruptcy-authority/articles/2387230) (Law360, 2025-09)
+60. [Senate confirms Todd Blanche as attorney general](https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed) (Axios, 2026-08-08)
+61. [Todd Blanche is sworn in as attorney general after bruising confirmation fight](https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/) (WTOP (AP), 2026-08-10)
 
 ## Full report
 
@@ -729,10 +733,10 @@ These links come from our own cross-referencing. No source asserts them.
 Result: **corrected** (verdict and confidence unchanged).
 
 - **Patel.** Corrected. The one-year recusal was pledged in Nov 2024 and had expired before the Dec 2025 Doha agreements; a March 2025 waiver had already allowed Qatar work. Public Citizen asked OGE to rescind the waiver. This is reconciled with C73.
-- **Bondi.** She is described as AG until Apr 2, 2026. Todd Blanche was acting AG, then confirmed on Aug 8, 2026.
+- **Bondi.** She is described as AG until Apr 2, 2026. Todd Blanche was acting AG, then confirmed 50-49 on Aug 8, 2026 and sworn in on Aug 10, 2026 (Axios; AP via WTOP). The Bondi-DOJ relationship label now uses the past tense (Feb 2025 - Apr 2, 2026). This matches C49, C61 and C65.
 - **Brad Bondi.** His documented role is lead criminal defence counsel for Milton. The SEC-counsel description comes from C36 and was not re-checked.
 - **Pakistan.** Upheld. Seiden Law signed on Apr 8, 2025 at $200K/month (some outlets say $125K). Javelin's FARA registration (Apr 25, 2025) lists Sorial, Schiller and Robert Seiden as co-owners.
 - **Kalshi.** Upheld: $240K to Miller Strategies in H1 2026 (OpenSecrets via Stateline).
 - **Ballard and Saudi Arabia.** Upheld: $60K/month from Mar 31, 2025. Ballard's Mar 2026 FARA supplemental still lists the Saudi embassy.
 
-New sources: Jewish Insider 2025-12; Public Citizen OGE complaint; FARA 7579 registration; Nukta; Stateline/Indiana Capital Chronicle 2026-10-05; Sludge 2026-02-05; FARA 7070 supplemental 2026-03-02; AP/National Newswatch 2026-04-02. URLs are in the JSON `audit.new_sources`.
+New sources: Jewish Insider 2025-12; Public Citizen OGE complaint; FARA 7579 registration; Nukta; Stateline/Indiana Capital Chronicle 2026-10-05; Sludge 2026-02-05; FARA 7070 supplemental 2026-03-02; AP/National Newswatch 2026-04-02; Axios 2026-08-08; WTOP (AP) 2026-08-10. URLs are in the JSON `audit.new_sources`.

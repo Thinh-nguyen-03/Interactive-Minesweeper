@@ -5,8 +5,8 @@ type: "media"
 aliases:
   - "WSJ"
   - "Wall Street Journal"
-connections: 40
-claims: 23
+connections: 41
+claims: 24
 tags:
   - "entity"
   - "type/media"
@@ -18,8 +18,8 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 23 claims |
-| Connections | 40 |
+| Appears in | 24 claims |
+| Connections | 41 |
 | Also known as | WSJ; Wall Street Journal |
 
 ## How other claims describe it
@@ -55,6 +55,7 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
 
 ## Relationships
 

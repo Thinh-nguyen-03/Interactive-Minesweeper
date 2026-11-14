@@ -2,8 +2,8 @@
 id: "checkmate-government-relations"
 kind: "entity"
 type: "company"
-connections: 9
-claims: 5
+connections: 11
+claims: 6
 tags:
   - "entity"
   - "type/company"
@@ -15,11 +15,12 @@ Ches McDowell's firm (FARA 7534); Pakistan-related government-relations work pai
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 5 claims |
-| Connections | 9 |
+| Appears in | 6 claims |
+| Connections | 11 |
 
 ## How other claims describe it
 
+- Trump-linked lobbying firm; also worked Pakistan-linked (2025) and TECRO (2026) accounts
 - Lobbying firm paid $450K by Binance for 'executive relief'
 - Ches McDowell's lobbying firm; >$22M 2025 revenue
 - McDowell's lobbying firm; Binance client
@@ -32,6 +33,7 @@ Ches McDowell's firm (FARA 7534); Pakistan-related government-relations work pai
 - [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
 
 ## Relationships
 
@@ -48,6 +50,10 @@ Ches McDowell's firm (FARA 7534); Pakistan-related government-relations work pai
 - [[Ches McDowell]] *founder of* [[Checkmate Government Relations]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Ches McDowell]] *managing partner* [[Checkmate Government Relations]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Ches McDowell]] *runs* [[Checkmate Government Relations]] · [[C36 Clemency for other crypto and donor-linked figures|C36]]
+
+### Advisory (1)
+
+- [[Taipei Economic and Cultural Representative Office in the US]] *retained ahead of US-China summit* [[Checkmate Government Relations]] · 2026-05 · [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals|C83]]
 
 ### Commercial (1)
 

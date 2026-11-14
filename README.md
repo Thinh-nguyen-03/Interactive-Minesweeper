@@ -12,12 +12,12 @@ This is a verification project, not an accusation. Everyone named denies wrongdo
 |---|---|
 | Claims taken from the video | 30 |
 | Follow-up leads the video did not cover | 30 |
-| Connection hunts (cross-referencing across claims) | 22 |
-| Individual sub-claims checked | about 710 |
-| Sources cited | about 2,700 |
+| Connection hunts (cross-referencing across claims) | 34 |
+| Individual sub-claims checked | about 840 |
+| Sources cited | about 3,300 |
 | People, organisations and other names mapped | about 1,100 |
 
-Verdicts across all 82 items: 2 confirmed, 72 mostly accurate, 6 partly accurate, 2 unverified. 81 of the 82 have had an independent second review.
+Verdicts across all 94 items: 2 confirmed, 79 mostly accurate, 11 partly accurate, 2 unverified. 94 of the 94 have had an independent second review.
 
 "Mostly accurate" usually means the core facts hold and specific figures, dates or framings needed correcting. The corrections are listed in each report.
 

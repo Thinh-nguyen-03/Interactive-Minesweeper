@@ -6,8 +6,8 @@ aliases:
   - "SEC"
   - "U.S. Securities and Exchange Commission"
   - "US Securities and Exchange Commission"
-connections: 94
-claims: 32
+connections: 95
+claims: 33
 tags:
   - "entity"
   - "type/government"
@@ -19,8 +19,8 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 32 claims |
-| Connections | 94 |
+| Appears in | 33 claims |
+| Connections | 95 |
 | Also known as | SEC; U.S. Securities and Exchange Commission; US Securities and Exchange Commission |
 
 ## How other claims describe it
@@ -65,6 +65,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
 
 ## Relationships
 

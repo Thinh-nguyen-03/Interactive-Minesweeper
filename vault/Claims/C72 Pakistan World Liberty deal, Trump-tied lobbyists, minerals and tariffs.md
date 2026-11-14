@@ -67,6 +67,10 @@ Every dated step in the brief is documented: the Seiden/Javelin/Checkmate hires,
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
 
+## Follow-up checks
+
+- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
+
 ## Sub-claims
 
 ### 1. Timeline anchor: Seiden Law was hired before the Pahalgam attack; Javelin registered and WLF signed its letter of intent within days after it, with Munir in the room.

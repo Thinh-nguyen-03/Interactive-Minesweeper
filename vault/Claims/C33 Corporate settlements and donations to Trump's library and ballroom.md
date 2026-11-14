@@ -65,6 +65,7 @@ The settlement amounts and recipients are well documented:
 ## Follow-up checks
 
 - [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Sub-claims
 

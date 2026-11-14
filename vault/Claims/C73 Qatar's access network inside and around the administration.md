@@ -73,6 +73,10 @@ Most of the Qatari ties in the brief are documented. They include Bondi's Ballar
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 
+## Follow-up checks
+
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
+
 ## Sub-claims
 
 ### 1. Pam Bondi was a registered Qatar agent at Ballard and then signed the DOJ memo clearing the jet, which is still unreleased.

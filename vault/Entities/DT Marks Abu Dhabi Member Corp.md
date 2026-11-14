@@ -26,5 +26,5 @@ Delaware companion entity formed the same day as DT Marks Abu Dhabi LLC.
 
 ### Ownership (2)
 
-- [[DT Marks Abu Dhabi Member Corp]] *member entity of (by naming template; structure inferred)* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[DT Marks Abu Dhabi Member Corp]] *member entity of (by naming template; structure inferred)* [[DT Marks Abu Dhabi LLC]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Trump Organization]] *formed (Delaware) member corp* [[DT Marks Abu Dhabi Member Corp]] · 2025-01-30 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]

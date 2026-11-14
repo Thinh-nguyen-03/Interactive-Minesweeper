@@ -69,6 +69,7 @@ The core of the lead holds. Kushner-linked companies won Albanian government bac
 ## Follow-up checks
 
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
+- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
 
 ## Sub-claims
 

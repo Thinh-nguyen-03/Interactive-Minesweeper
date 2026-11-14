@@ -206,3 +206,24 @@ None of these threads shows illicit money reaching WLF or the Trump family. WLF'
 55. Blockworks, WLF KYC starts, 2024-10. https://blockworks.co/news/world-liberty-financial-kyc-starts
 56. The Block, WLF reallocates funds after "third-party security lapses", 2025-11. https://theblock.co/post/379561/trump-backed-world-liberty-financial-reallocates-funds-following-third-party-security-lapses
 57. Senate Banking minority, letter on Aqua 1, 2026-09-15. https://www.banking.senate.gov/imo/media/doc/20260915lettertobessentandblancheonaqua1.pdf
+
+## Second review (audit)
+
+Result: **upheld**.
+
+Checked:
+- TRON DAO's $45M WLFI purchase (19 Jan 2025) and WLF's TRX buys of ~$4.7M (20 Jan) plus ~$2.6M (22-23 Jan)
+- AB's planned Timor-Leste resort principals (Yang Jian, Yang Yanming, Shih Ting-yu) sanctioned in the 14 Oct 2025 Prince Group action, four weeks before the WLF-AB USD1 deal
+- Reuters' finding that Nobitex moved at least $2.3B over Tron and BNB Chain
+
+Changes:
+- TRX: confirmed the purchase figures (The Block, CoinDesk); labelled the ~$7M+ total as our sum of reported buys.
+- AB/Prince: confirmed via WSJ relays (Decrypt, iTiger); added Yang Jian's lawyers' denial of any Prince affiliation, that the US designations concerned a Palau resort, and the stake discrepancy (controlling vs. 60%).
+- Relationship dt-marks-defi-llc -> WLF: marked the 'including swap-partner purchases' element as our inference.
+- Nobitex: the $2.3B ($2B Tron, $317M BNB) figures and the 'no suggestion the Trump family knew' caveat are confirmed by syndicated copies; no contradicting reporting found.
+
+New sources:
+- The Block, "World Liberty Financial buys $112.8 million in crypto on Trump's first day in office", 2025-01-20. https://www.theblock.co/post/335960/world-liberty-financial-buys-112-8-million-in-crypto-on-trumps-first-day-in-office
+- CoinDesk via Yahoo Finance, "Trump-Linked World Liberty Financial Buys $2.6M TRX and $10M WBTC", 2025-01-23. https://sg.finance.yahoo.com/news/trump-linked-world-liberty-financial-134035322.html
+- WSJ via iTiger, "Crypto Venture Linked to Men Sanctioned in Scam-Ring Probe Partnered With Trump Firm -- WSJ", 2026-04-28. https://www.itiger.com/news/2631587318
+- Reuters via Yahoo Finance, "Exclusive: Trump's crypto venture and Iran's largest exchange share same blockchain networks", 2026-05. https://finance.yahoo.com/markets/crypto/articles/exclusive-trumps-crypto-venture-irans-080805071.html

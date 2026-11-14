@@ -2,8 +2,8 @@
 id: "amazon"
 kind: "entity"
 type: "company"
-connections: 15
-claims: 3
+connections: 16
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -15,29 +15,32 @@ E-commerce and cloud giant; licensed the Melania film through Amazon MGM Studios
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 claims |
-| Connections | 15 |
+| Appears in | 4 claims |
+| Connections | 16 |
 
 ## How other claims describe it
 
 - Named ballroom donor; paid $2.5B FTC settlement (Sep 2025)
 - Melania documentary; ballroom donor
+- $5M ballroom commitment
 
 ## Appears in claims
 
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 - [[C69 Master timeline money events versus government actions]] · Partly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 
-### Money (5)
+### Money (6)
 
 - [[Amazon]] *donated $1M* [[Trump-Vance Inaugural Committee]] · 2024-12 · $1M · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Amazon]] *documentary licence fee to Melania (OGE)* [[Melania Trump]] · 2025 · $10.71M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Amazon]] *film licensing fee ($10.71M on 2025 OGE report)* [[Melania Trump]] · 2025 · $10.71M · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Amazon]] *named donor ($5M per WaPo)* [[White House ballroom]] · 2025-10-23 · $5M · [[C69 Master timeline money events versus government actions|C69]]
 - [[Amazon]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Amazon]] *committed $5M (WaPo leak)* [[White House ballroom]] · $5M · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 
 ### Ownership (5)
 

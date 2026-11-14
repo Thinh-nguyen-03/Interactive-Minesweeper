@@ -68,6 +68,11 @@ Most of the brief's links are documented. Cantor was a top shareholder of Critic
 - [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 
+## Follow-up checks
+
+- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+
 ## Sub-claims
 
 ### 1. Cantor Fitzgerald holds a position in Critical Metals Corp (Tanbreez, Greenland), and Washington helped steer Tanbreez to that company and then offered it financing and discussed an equity stake.
@@ -331,7 +336,7 @@ Most of the brief's links are documented. Cantor was a top shareholder of Critic
 - [[Citadel Advisors]] *13F holder (~5.6M shares, Q3 2026, aggregator)* [[USA Rare Earth]] · 2026-09 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Drew Horn]] *CEO* [[GreenMet (Greentech Minerals Holdings)]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[George Sorial]] *co-founder* [[Javelin Advisors]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
-- [[John Paulson]] *founder* [[Paulson & Co]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[John Paulson]] *founder* [[Paulson & Co]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]] [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 - [[Keith Schiller]] *co-founder* [[Javelin Advisors]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Ken Griffin]] *founder* [[Citadel Advisors]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Perpetua Resources]] *owns* [[Stibnite Gold Project]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
@@ -352,7 +357,7 @@ Most of the brief's links are documented. Cantor was a top shareholder of Critic
 
 - [[Cantor Fitzgerald]] *co-bookrunner on 2021 offering (Cantor Canada); analyst coverage* [[Perpetua Resources]] · 2021-08 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Cantor Fitzgerald]] *financial adviser/banker* [[The Metals Company]] · 2025 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
-- [[Cantor Fitzgerald]] *lead placement agent, $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Cantor Fitzgerald]] *lead placement agent, $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]] [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 - [[Moelis & Company]] *co-placement agent* [[USA Rare Earth]] · 2026-01-26 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Cantor Fitzgerald]] *co-arranged >$150M private placement; capital-markets adviser* [[American Ocean Minerals]] · 2026-04-08 · $150M · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Citigroup]] *co-arranged private placement* [[American Ocean Minerals]] · 2026-04-08 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
@@ -362,7 +367,7 @@ Most of the brief's links are documented. Cantor was a top shareholder of Critic
 
 - [[John Paulson]] *hosted $50.5M fundraiser* [[Donald Trump]] · 2024-04 · $50.5M · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Donald Trump]] *appointed Commerce Secretary* [[Howard Lutnick]] · 2025-02 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
-- [[Howard Lutnick]] *Secretary* [[US Department of Commerce]] · 2025-02 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Howard Lutnick]] *Secretary* [[US Department of Commerce]] · 2025-02 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]] [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 - [[Stephen Feinberg]] *Deputy Secretary* [[Pentagon (Department of Defense)]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Donald Trump]] *signed* [[April 2025 offshore critical minerals executive order]] · 2025-04 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Donald Trump]] *pushed to acquire* [[Greenland]] · 2026-01 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
@@ -390,7 +395,7 @@ Most of the brief's links are documented. Cantor was a top shareholder of Critic
 
 - [[GreenMet (Greentech Minerals Holdings)]] *helped arrange Cerberus-led Torngat investment* [[Cerberus Capital Management]] · 2022-11 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Greg Barnes]] *sold Tanbreez control for $5M cash + $211M stock* [[Critical Metals Corp]] · 2024 · $216M · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
-- [[GreenMet (Greentech Minerals Holdings)]] *Tanbreez development partner* [[Critical Metals Corp]] · 2025 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[GreenMet (Greentech Minerals Holdings)]] *Tanbreez development partner* [[Critical Metals Corp]] · 2025 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]] [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals|C83]]
 - [[Barbara Humpton]] *CEO* [[USA Rare Earth]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Tanbreez rare earth project]] *located in* [[Greenland]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Tony Sage]] *CEO* [[Critical Metals Corp]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]

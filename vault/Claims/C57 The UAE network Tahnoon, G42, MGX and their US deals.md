@@ -73,6 +73,8 @@ Almost every link in the brief is documented. Tahnoon-linked vehicles bought 49%
 
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
+- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Sub-claims
 
@@ -255,7 +257,7 @@ Almost every link in the brief is documented. Tahnoon-linked vehicles bought 49%
 - [[StringZ Holding RSC (DE) LLC]] · Company
 - [[The New York Times]] · Media
 - [[The Wall Street Journal]] · Media
-- [[TikTok USDS Joint Venture LLC]] · Company
+- [[TikTok USDS Joint Venture]] · Company
 - [[UAE AI chips deal]] · Event
 - [[United Arab Emirates]] · Country
 - [[US Congress]] · Government body
@@ -288,24 +290,24 @@ Almost every link in the brief is documented. Tahnoon-linked vehicles bought 49%
 
 ### Ownership (20)
 
+- [[Jared Kushner]] *founder of* [[Affinity Partners]] · 2021 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · 2021 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[Chimera Investment LLC]] *majority owner of* [[Lunate]] · 2023-09 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[G42]] *co-founded* [[MGX]] · 2024-03 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Mubadala]] *co-founded* [[MGX]] · 2024-03 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[MGX]] *founding partner of* [[AI Infrastructure Partnership]] · 2024-09 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Sheikh Tahnoon bin Zayed]] *reportedly backs* [[StringZ Holding RSC (DE) LLC]] · 2025-04 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Sheikh Tahnoon bin Zayed]] *chaired (until folded into L'IMAD)* [[ADQ]] · 2026-01 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[ByteDance]] *retains 19.9% of* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[MGX]] *owns 15% of* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Oracle]] *owns 15% of* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Silver Lake]] *owns 15% of* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[ByteDance]] *retains 19.9% of* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[MGX]] *owns 15% of* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[Oracle]] *owns 15% of* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[Silver Lake]] *owns 15% of* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[StringZ Holding RSC (DE) LLC]] *reportedly owns 49% of* [[WLTC Holdings LLC]] · 2026-08 · [[C12 WLF bank charter from the OCC|C12]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[DT Marks SC LLC]] *reportedly owns about 38% of* [[WLTC Holdings LLC]] · 2026-08-27 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Jared Kushner]] *founder of* [[Affinity Partners]] · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Peng Xiao]] *CEO of* [[G42]] · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Sheikh Tahnoon bin Zayed]] *oversees* [[Chimera Investment LLC]] · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[WLTC Holdings LLC]] *parent of* [[World Liberty Trust Company, N.A]] · [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[World Liberty Financial]] *subsidiary* [[WLTC Holdings LLC]] · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 
@@ -313,7 +315,7 @@ Almost every link in the brief is documented. Tahnoon-linked vehicles bought 49%
 
 - [[G42]] *main beneficiary of* [[UAE AI chips deal]] · 2025-05 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[US Department of Commerce]] *authorized chip transfers to UAE for* [[Microsoft]] · 2025-09 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Donald Trump]] *approved divestiture by executive order* [[TikTok USDS Joint Venture LLC]] · 2025-09-25 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[Donald Trump]] *approved divestiture by executive order* [[TikTok USDS Joint Venture]] · 2025-09-25 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[US Department of Commerce]] *authorized up to 35,000 GB300-equivalent chips for* [[G42]] · 2025-11-20 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Office of the Comptroller of the Currency]] *granted preliminary conditional charter approval* [[World Liberty Trust Company, N.A]] · 2026-08-14 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Scott Bessent]] *chairs* [[CFIUS]] · [[C56 Saudi Arabia family deals alongside US policy|C56]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]

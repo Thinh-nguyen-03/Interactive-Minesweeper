@@ -10,8 +10,8 @@ aliases:
   - "Tahnoon bin Zayed Al Nahyan"
   - "Tahoon bin Zayed"
   - "spy sheikh"
-connections: 34
-claims: 19
+connections: 38
+claims: 22
 tags:
   - "entity"
   - "type/person"
@@ -25,8 +25,8 @@ UAE national security adviser, brother of the UAE president, MGX chairman; tied 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 19 claims |
-| Connections | 34 |
+| Appears in | 22 claims |
+| Connections | 38 |
 | Also known as | Sheikh Tahnoon bin Zayed Al Nahyan; Sheikh Tahoon; Tahnoon; Tahnoon bin Zayed; Tahnoon bin Zayed Al Nahyan; Tahoon bin Zayed; spy sheikh |
 
 ## How other claims describe it
@@ -58,17 +58,23 @@ UAE national security adviser, brother of the UAE president, MGX chairman; tied 
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Relationships
 
-### Money (2)
+### Money (3)
 
 - [[Sheikh Tahnoon bin Zayed]] *linked entity bought 49% stake (see C06/C08)* [[World Liberty Financial]] · 2025-01 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Sheikh Tahnoon bin Zayed]] *linked vehicle Aryam bought 49% (C57)* [[World Liberty Financial]] · 2025-01 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
 - [[Sheikh Tahnoon bin Zayed]] *signed* [[Secret $500M 49% WLF stake deal]] · 2025-01-16 · $500M · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 
-### Ownership (20)
+### Ownership (23)
 
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · 2021 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[Sheikh Tahnoon bin Zayed]] *Aryam holds 49% of (C06/C57)* [[World Liberty Financial]] · 2025 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Sheikh Tahnoon bin Zayed]] *linked to / backs* [[Aryam Investment 1]] · 2025-01 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[Sheikh Tahnoon bin Zayed]] *linked Aryam holds 49% of (C57)* [[World Liberty Financial]] · 2025-01 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
@@ -82,9 +88,10 @@ UAE national security adviser, brother of the UAE president, MGX chairman; tied 
 - [[Sheikh Tahnoon bin Zayed]] *reported backer of* [[Aryam Investment 1]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Sheikh Tahnoon bin Zayed]] *oversees* [[Chimera Investment LLC]] · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Sheikh Tahnoon bin Zayed]] *chairs* [[First Abu Dhabi Bank]] · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[International Holding Company]] · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Sheikh Tahnoon bin Zayed]] *chairman* [[International Holding Company]] · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[International Holding Company]] · [[C76 Russia-linked money around the family and envoys|C76]] [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
 - [[Sheikh Tahnoon bin Zayed]] *chairs parent Royal Group* [[International Holding Company]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[Sheikh Tahnoon bin Zayed]] *oversees majority owner* [[Lunate]] · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
 - [[Sheikh Tahnoon bin Zayed]] *chairman* [[MGX]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Sheikh Tahnoon bin Zayed]] *reported backer of (WSJ, anonymous)* [[StringZ Holding RSC (DE) LLC]] · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
 - [[Sheikh Tahnoon bin Zayed]] *backs* [[Tahnoon-linked investment vehicle]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]]

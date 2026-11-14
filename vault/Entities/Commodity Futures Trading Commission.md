@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "CFTC"
-connections: 35
-claims: 11
+connections: 36
+claims: 12
 tags:
   - "entity"
   - "type/government"
@@ -17,8 +17,8 @@ Commodities regulator overseeing prediction markets, chaired by Mike Selig.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 11 claims |
-| Connections | 35 |
+| Appears in | 12 claims |
+| Connections | 36 |
 | Also known as | CFTC |
 
 ## How other claims describe it
@@ -42,6 +42,7 @@ Commodities regulator overseeing prediction markets, chaired by Mike Selig.
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C69 Master timeline money events versus government actions]] · Partly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 

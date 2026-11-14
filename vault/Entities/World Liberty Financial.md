@@ -6,8 +6,8 @@ aliases:
   - "WLF"
   - "WLFI"
   - "World Liberty"
-connections: 113
-claims: 41
+connections: 125
+claims: 46
 tags:
   - "entity"
   - "type/company"
@@ -19,8 +19,8 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 41 claims |
-| Connections | 113 |
+| Appears in | 46 claims |
+| Connections | 125 |
 | Also known as | WLF; WLFI; World Liberty |
 
 ## How other claims describe it
@@ -74,10 +74,15 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
+- [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Relationships
 
-### Money (51)
+### Money (57)
 
 - [[World Liberty Financial]] *paid about $57.35M of token-sale income (2024 disclosure)* [[Donald Trump]] · 2024 · $57.35M · [[C42 How World Liberty insiders took money out|C42]]
 - [[Axiom Management Group]] *entitled to 25% of net protocol revenue* [[World Liberty Financial]] · 2024-10 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
@@ -102,6 +107,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[Justin Sun]] *invested $75M in* [[World Liberty Financial]] · 2025-01 · $75M · [[C05 Justin Sun, WLF and the SEC|C05]] [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Steve Witkoff]] *co-founder; family entities paid from Aryam deal* [[World Liberty Financial]] · 2025-01 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[Sheikh Tahnoon bin Zayed]] *linked entity bought 49% stake (see C06/C08)* [[World Liberty Financial]] · 2025-01 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[Sheikh Tahnoon bin Zayed]] *linked vehicle Aryam bought 49% (C57)* [[World Liberty Financial]] · 2025-01 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
 - [[Web3Port]] *bought WLFI ($10M announced; ~$20M traced on-chain)* [[World Liberty Financial]] · 2025-01 · $20M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Aryam Investment 1]] *agreed to buy 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Aryam Investment 1]] *agreed to buy 49% for $500M (WSJ, anonymous sources)* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C63 Shell entities and ownership chains|C63]]
@@ -109,8 +115,13 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[Aryam Investment 1]] *bought 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Aryam Investment 1]] *bought 49% for (WSJ, anonymous sources)* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Tron]] *added $45M WLFI purchase (total $75M)* [[World Liberty Financial]] · 2025-01-20 · $45M · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[World Liberty Financial]] *bought about $4.7M TRX, plus about $2.65M more reported* [[Tron]] · 2025-01-20 · $7.35M · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[World Liberty Financial]] *bought ~$1.85-2M MOVE hours before mainnet news* [[MOVE]] · 2025-01-28 · $2M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[World Liberty Financial]] *bought about $1.85M MOVE (open market, per Movement)* [[Movement Labs Movement Network Foundation]] · 2025-01-28 · $1.85M · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Oddiyana Ventures]] *strategic investment, undisclosed* [[World Liberty Financial]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[World Liberty Financial]] *bought about $2M AVAX* [[Avalanche (AVAX)]] · 2025-03-16 · $2M · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
+- [[World Liberty Financial]] *bought about $2M MNT* [[Mantle (MNT)]] · 2025-03-16 · $2M · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
+- [[World Liberty Financial]] *bought SEI (about $100K, then about $775K)* [[Sei Network]] · 2025-04-12 · $875K · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[DWF Labs]] *bought $25M WLFI* [[World Liberty Financial]] · 2025-04-16 · $25M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[World Liberty Financial]] *passed up to $75M of Aqua 1 proceeds (NYT; single-source)* [[DT Marks DEFI LLC]] · 2025-06 · $75M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[World Liberty Financial]] *Witkoff family also benefited from Aqua 1 sale (NYT)* [[WC Digital Fi LLC]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
@@ -131,7 +142,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[USD1]] *reserve interest flows to* [[World Liberty Financial]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]]
 - [[World Liberty Financial]] *pays president and family* [[Donald Trump]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]] [[C29 Trump family wealth gains|C29]]
 
-### Ownership (48)
+### Ownership (50)
 
 - [[Alex Witkoff]] *co-founder* [[World Liberty Financial]] · 2024 · [[C14 Steve and Zach Witkoff|C14]]
 - [[Donald Trump]] *family holds major stake in* [[World Liberty Financial]] · 2024 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
@@ -143,8 +154,10 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[Barron Trump]] *co-founder; estimated about 7.5% stake (Forbes)* [[World Liberty Financial]] · 2024-09 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
 - [[Chase Herro]] *co-founded* [[World Liberty Financial]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Zak Folkman]] *co-founded* [[World Liberty Financial]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[DT Marks DEFI LLC]] *entitled to 75% of net token-sale revenue (that this would include any swap-partner WLFI purchases is our inference)* [[World Liberty Financial]] · 2024-10 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Barron Trump]] *holds a stake (Forbes assumes about 10%)* [[World Liberty Financial]] · 2025 · [[C29 Trump family wealth gains|C29]]
 - [[Martin Edelman]] *board member of* [[World Liberty Financial]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Sheikh Tahnoon bin Zayed]] *Aryam holds 49% of (C06/C57)* [[World Liberty Financial]] · 2025 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[Aryam Investment 1]] *bought 49% (CFIUS review requested)* [[World Liberty Financial]] · 2025-01 · $500M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Sheikh Tahnoon bin Zayed]] *linked Aryam holds 49% of (C57)* [[World Liberty Financial]] · 2025-01 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[WLF Holdco LLC]] *owns* [[World Liberty Financial]] · 2025-01 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
@@ -193,7 +206,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[Office of the Comptroller of the Currency]] *regulates bank arm of* [[World Liberty Financial]] · [[C12 WLF bank charter from the OCC|C12]]
 - [[World Liberty Financial]] *applied for* [[WLF bank charter application]] · [[C12 WLF bank charter from the OCC|C12]]
 
-### Advisory (18)
+### Advisory (19)
 
 - [[Barron Trump]] *billed as DeFi visionary* [[World Liberty Financial]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Donald Trump Jr]] *backs and promotes* [[World Liberty Financial]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]
@@ -207,6 +220,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[Peng Xiao]] *board member representing Aryam* [[World Liberty Financial]] · 2025 · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Fiacc Larkin]] *reported chief strategic adviser to* [[World Liberty Financial]] · 2025-01 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[G42]] *executives took board seats via Aryam deal* [[World Liberty Financial]] · 2025-01 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[Zak Folkman]] *named as closer of token-swap deals* [[World Liberty Financial]] · 2025-02 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Bilal Bin Saqib]] *adviser (unpaid, per WLF)* [[World Liberty Financial]] · 2025-04 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Bilal Bin Saqib]] *unpaid adviser* [[World Liberty Financial]] · 2025-04 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[Corey Caplan]] *adviser / reported CTO* [[World Liberty Financial]] · [[C42 How World Liberty insiders took money out|C42]]
@@ -214,13 +228,14 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[Justin Sun]] *became adviser to* [[World Liberty Financial]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Zach Witkoff]] *CEO* [[World Liberty Financial]] · [[C42 How World Liberty insiders took money out|C42]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 
-### Political (3)
+### Political (4)
 
 - [[World Liberty Financial]] *created shortly before* [[2024 Presidential Election]] · 2024 · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Asim Munir]] *met delegation at LOI signing* [[World Liberty Financial]] · 2025-04-26 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Elizabeth Warren]] *Nov 2025 letter on WLFI sales to illicit-linked wallets* [[World Liberty Financial]] · 2025-11-17 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[World Liberty Financial]] *denies quid pro quo over* [[UAE AI chips deal]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 
-### Legal (10)
+### Legal (12)
 
 - [[Teresa Goody Guillén]] *counsel to* [[World Liberty Financial]] · 2025 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[BakerHostetler]] *outside counsel to* [[World Liberty Financial]] · 2025-05 · [[C61 Shared lawyers and law firms across the deals|C61]]
@@ -228,20 +243,24 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[World Liberty Financial]] *froze/blacklisted WLFI tokens of* [[Justin Sun]] · 2025-09 · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[World Liberty Financial]] *froze about 540-600M unlocked plus 2.4B locked WLFI* [[Justin Sun]] · 2025-09-04 · [[C42 How World Liberty insiders took money out|C42]]
 - [[Justin Sun]] *sued over the freeze (C05)* [[World Liberty Financial]] · 2026-04 · [[C42 How World Liberty insiders took money out|C42]]
+- [[Justin Sun]] *sued alleging extortion over USD1/Tron and equity demands* [[World Liberty Financial]] · 2026-04-21 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Justin Sun]] *sued over token freeze (N.D. Cal.)* [[World Liberty Financial]] · 2026-04-22 · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[World Liberty Financial]] *countersued for defamation* [[Justin Sun]] · 2026-05 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[World Liberty Financial]] *sued for defamation (Miami-Dade)* [[Justin Sun]] · 2026-05-04 · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[Justin Sun]] *accused of 'personal ATM' governance scam* [[World Liberty Financial]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 - [[World Liberty Financial]] *party to* [[Sun v. World Liberty lawsuits]] · [[C05 Justin Sun, WLF and the SEC|C05]]
 
-### Media (14)
+### Media (16)
 
 - [[Accountable.US]] *published on-chain report on sanctioned-linked buyers* [[World Liberty Financial]] · 2025-09 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Accountable.US]] *reported WLFI sales to A7A5/Nobitex/Tornado-exposed wallets* [[World Liberty Financial]] · 2025-09 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Accountable.US]] *reported WLFI sales to illicit-linked wallets* [[World Liberty Financial]] · 2025-09 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[The New York Times]] *investigated UAE deals of* [[World Liberty Financial]] · 2025-09-15 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 - [[World Liberty Financial]] *supplied denials to* [[Coffeezilla]] · 2026 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[The Wall Street Journal]] *counted at least $1.2B cash to the Trump family* [[World Liberty Financial]] · 2026-02 · $1.2B · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[The Wall Street Journal]] *revealed the secret UAE stake in* [[World Liberty Financial]] · 2026-02-01 · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
 - [[Bloomberg]] *found $660M in undisclosed token-sale gains to the Trumps* [[World Liberty Financial]] · 2026-05-12 · $660M · [[C55 How much has the Trump family made Competing totals|C55]]
+- [[Reuters]] *reported shared Tron/BNB networks with Nobitex* [[World Liberty Financial]] · 2026-05-18 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Bloomberg]] *reported Binance-fueled stablecoin profits of* [[World Liberty Financial]] · 2026-06-05 · [[C10 Binance driving USD1 adoption|C10]]
 - [[Coffeezilla]] *investigated* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Coffeezilla]] *questioned about undisclosed Tahnoon stake* [[World Liberty Financial]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
@@ -250,9 +269,10 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[World Liberty Financial]] *sent denials to* [[Coffeezilla]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]] [[C12 WLF bank charter from the OCC|C12]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[World Liberty Financial]] *Trump son boasted on* [[X (Twitter)]] · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 
-### Commercial (24)
+### Commercial (30)
 
 - [[World Liberty Financial]] *issues* [[WLFI token]] · 2024 · [[C29 Trump family wealth gains|C29]] [[C42 How World Liberty insiders took money out|C42]]
+- [[World Liberty Financial]] *bought about $500-600K ENA; sUSDe collaboration* [[Ethena Labs]] · 2024-12 · $600K · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[AB (AB DAO)]] *WLF partner* [[World Liberty Financial]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Fight Fight Fight LLC]] *wallet dispute* [[World Liberty Financial]] · 2025 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Jump Trading]] *received WLFI transfers; inferred market maker* [[World Liberty Financial]] · 2025 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
@@ -261,12 +281,17 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[Web3Port]] *announced 'long-term partnership' with* [[World Liberty Financial]] · 2025-01-27 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[World Liberty Financial]] *reported token-swap pitch (denied by Movement)* [[Movement Labs Movement Network Foundation]] · 2025-02 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[World Liberty Financial]] *reported token-swap pitch (denied by Tron)* [[Tron]] · 2025-02 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[World Liberty Financial]] *offered at $1.5B FDV plus 10% fee in exchange for partners' tokens (Blockworks)* [[WLFI token]] · 2025-02 · $10M · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
+- [[World Liberty Financial]] *bought about $470K ONDO; RWA partnership* [[Ondo Finance]] · 2025-02-06 · $470K · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[World Liberty Financial]] *issues* [[USD1]] · 2025-03 · [[C04 World Liberty Financial founding and token sale|C04]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[World Liberty Financial]] *issued and sold $550M of (public sales Oct 2024 to Mar 2025)* [[WLFI token]] · 2025-03 · $550M · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[World Liberty Financial]] *added SUI to Macro Strategy reserve* [[Sui Foundation]] · 2025-03-06 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[World Liberty Financial]] *letter of intent* [[Pakistan Crypto Council]] · 2025-04-26 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 - [[World Liberty Financial]] *signed letter of intent* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[World Liberty Financial]] *signed letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[ALT5 Sigma]] *WLFI treasury partner* [[World Liberty Financial]] · 2025-08 · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 - [[World Liberty Financial]] *WLFI treasury partner of* [[ALT5 Sigma]] · 2025-08 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[World Liberty Financial]] *partnership deploying USD1 on AB Chain* [[AB (AB DAO)]] · 2025-11-12 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[World Liberty Financial]] *promoted / said it would invest in* [[Shit Piss Skin Can ($SPSC)]] · 2025-11-24 · [[C04 World Liberty Financial founding and token sale|C04]] [[C42 How World Liberty insiders took money out|C42]]
 - [[World Liberty Financial]] *launched* [[World Liberty Markets]] · 2026-01-12 · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Securitize]] *issuance/compliance partner for Maldives tokens* [[World Liberty Financial]] · 2026-02-18 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]

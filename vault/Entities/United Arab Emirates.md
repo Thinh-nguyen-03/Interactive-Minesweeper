@@ -6,8 +6,8 @@ aliases:
   - "Abu Dhabi"
   - "Dubai"
   - "UAE"
-connections: 47
-claims: 24
+connections: 49
+claims: 26
 tags:
   - "entity"
   - "type/country"
@@ -21,8 +21,8 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 24 claims |
-| Connections | 47 |
+| Appears in | 26 claims |
+| Connections | 49 |
 | Also known as | Abu Dhabi; Dubai; UAE |
 
 ## How other claims describe it
@@ -59,6 +59,8 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
+- [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge]] · Mostly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Relationships
 

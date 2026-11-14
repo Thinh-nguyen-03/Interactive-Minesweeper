@@ -2,8 +2,8 @@
 id: "brandon-lutnick"
 kind: "entity"
 type: "person"
-connections: 11
-claims: 5
+connections: 13
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -15,13 +15,14 @@ Son of Howard Lutnick; chairman/CEO of Cantor Fitzgerald and Cantor Equity Partn
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 5 claims |
-| Connections | 11 |
+| Appears in | 6 claims |
+| Connections | 13 |
 
 ## How other claims describe it
 
 - Cantor Fitzgerald chairman/CEO; Howard Lutnick's son
 - Cantor Fitzgerald chairman; Howard Lutnick's son
+- Reported $2.5M (unverified); Cantor chairman
 - Cantor Fitzgerald chairman
 - Cantor chairman/CEO
 
@@ -32,8 +33,13 @@ Son of Howard Lutnick; chairman/CEO of Cantor Fitzgerald and Cantor Equity Partn
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
+
+### Money (1)
+
+- [[Brandon Lutnick]] *reported $2.5M (unverified)* [[White House ballroom]] · $2.5M · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 
 ### Ownership (6)
 
@@ -44,8 +50,9 @@ Son of Howard Lutnick; chairman/CEO of Cantor Fitzgerald and Cantor Equity Partn
 - [[Brandon Lutnick]] *chairman and CEO* [[Cantor Equity Partners]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Brandon Lutnick]] *chairman of* [[Cantor Fitzgerald]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 
-### Family (2)
+### Family (3)
 
+- [[Brandon Lutnick]] *son* [[Howard Lutnick]] · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Brandon Lutnick]] *son of* [[Howard Lutnick]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Howard Lutnick]] *father of* [[Brandon Lutnick]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 

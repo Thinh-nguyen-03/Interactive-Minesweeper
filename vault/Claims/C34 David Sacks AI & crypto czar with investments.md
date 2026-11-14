@@ -178,10 +178,10 @@ Well documented: Sacks served as White House AI and crypto czar under ethics wai
 
 ### Ownership (4)
 
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · 2021 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[Craft Ventures]] *held 7.8% stake at IPO filing* [[BitGo]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[David Sacks]] *co-founder and partner; retained interests* [[Craft Ventures]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
 - [[Jensen Huang]] *CEO of* [[Nvidia]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 
 ### Regulatory (4)
 

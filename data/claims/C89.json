@@ -17,7 +17,7 @@
     {
       "statement": "DT Marks Budapest LLC and DT Marks Budapest Member Corp. exist",
       "verdict": "confirmed",
-      "finding": "Documented: CREW's Aug 2026 FOI requests to Hungary's Trade Licensing Office and Ministry of Construction and Transport name both companies and ask for records on a Trump property in Budapest and on Kushner's role in 'Grand Budapest'. Exact formation date not found; Forbes places it between the Nov 2024 election and Jul 2025.",
+      "finding": "Documented: CREW's Aug 2026 FOI requests to Hungary's Trade Licensing Office and Ministry of Construction and Transport name both companies and ask for records on a Trump property in Budapest and on Kushner's role in 'Grand Budapest'. Exact formation date not found; Forbes places it between the Nov 2024 election and Jul 2025. Audit: the entity names are documented only through CREW's own FOI request letters (and Forbes's reference to a Budapest entity); no corporate-registry record or second outlet naming 'DT Marks Budapest' was found, so formation date, state and officers remain unverified.",
       "sources": [
         "https://www.citizensforethics.org/reports-investigations/foia-requests/crew-requests-records-from-the-hungarian-government-on-trump-and-hungarian-officials/",
         "https://www.citizensforethics.org/wp-content/uploads/2026/08/Hungary-FOI-Request_Trade-Licensing-Office_Redacted.pdf",
@@ -59,19 +59,20 @@
     {
       "statement": "Don Jr. visited Vučić and Budapest in spring 2025 to expand family business ties",
       "verdict": "confirmed",
-      "finding": "Documented: Don Jr. met Vučić in Belgrade on 11 Mar 2025 and dined with him again in late April. On 25 Apr 2025 he met FM Szijjártó in Budapest and spoke at the 'Trump Business Vision 2025' forum (organised by Zoltán Aczél/Portfolio; expected meeting with 4iG chairman Gellért Jászai). Bloomberg framed the trip as expanding family business ties. No deal was announced. His spokesperson rejected conflict suggestions.",
+      "finding": "Documented: Don Jr. met Vučić in Belgrade on 11 Mar 2025 and dined with him again in late April. On 25 Apr 2025 he had what Telex describes as a brief, informal encounter with FM Szijjártó in Budapest (officially nothing was discussed; closed to the press) and spoke at the 'Trump Business Vision 2025' forum (organised by Zoltán Aczél/Portfolio; expected meeting with 4iG chairman Gellért Jászai). Bloomberg framed the trip as expanding family business ties. No deal was announced. His spokesperson rejected conflict suggestions.",
       "sources": [
         "https://www.intellinews.com/donald-trump-jr-meets-serbian-president-in-belgrade-371096/",
         "https://www.aol.com/news/donald-trump-jr-meet-hungarys-092711183.html",
         "https://www.bloomberg.com/news/articles/2025-04-23/trump-jr-heads-to-eastern-europe-to-expand-family-business",
         "https://news.bloomberglaw.com/crypto/trump-jr-s-east-europe-trip-mixes-money-and-right-wing-politics",
-        "https://intellinews.com/donald-trump-jr-heads-to-budapest-in-push-to-expand-trump-family-s-business-ties-in-cee-377980"
+        "https://intellinews.com/donald-trump-jr-heads-to-budapest-in-push-to-expand-trump-family-s-business-ties-in-cee-377980",
+        "https://telex.hu/gazdasag/2025/04/25/donald-trump-jr-egyesult-allamok-magyarorszag-rendezveny"
       ]
     },
     {
       "statement": "US decisions favourable to Orbán's Hungary in the same period",
       "verdict": "mostly-accurate",
-      "finding": "Each decision documented; link to the family's business inferred (timing only). Rogán delisted 15 Apr 2025, ten days before Don Jr.'s visit. Paks II sanctions relief ~29 Jun 2025 (Hungarian account). One-year Russian oil and gas sanctions exemption 7 Nov 2025 (Orbán claimed open-ended). 'Financial shield'/swap claimed 9 Nov 2025 and denied by Trump in Dec 2025. Vance campaigned for Orbán, who lost on 12 Apr 2026 to Magyar. Post-election status of the US exemption not found.",
+      "finding": "Each decision documented; link to the family's business inferred (timing only). Rogán delisted 15 Apr 2025, ten days before Don Jr.'s visit. Paks II sanctions relief ~29 Jun 2025 (Hungarian account). One-year Russian oil and gas sanctions exemption 7 Nov 2025 (Orbán claimed open-ended). 'Financial shield'/swap claimed 9 Nov 2025 and denied by Trump in Dec 2025. Vance campaigned for Orbán, who lost on 12 Apr 2026 to Magyar. Post-election status of the US exemption not found. Audit: the Rogán delisting date (posted 15 Apr 2025 US time, reported 16 Apr in Europe) is confirmed by Bloomberg, Telex and RFE/RL. State gave no reason beyond 'inconsistent with U.S. foreign policy interests'. Senators Shaheen and Warren said the Global Magnitsky Act requires 15 days' prior notice to Congress before a termination. No source links the delisting to Don Jr.'s trip; the pairing remains our timing observation (inferred).",
       "sources": [
         "https://www.bloomberg.com/news/articles/2025-04-15/us-lifts-sanctions-on-hungary-minister-in-trump-s-gift-to-orban",
         "https://www.rferl.org/a/hungary-orban-rogan-rubio-sanctions-lifted/33386511.html",
@@ -84,7 +85,8 @@
         "https://telex.hu/english/2025/12/09/szijjarto-says-negotiations-with-the-americans-about-financial-protection-still-ongoing",
         "https://www.rferl.org/a/hungarian-opposition-leader-magyar-landslide-victory-orban/33730633.html",
         "https://kvia.com/news/us-world/cnn-world/2026/04/14/trump-and-putin-just-lost-their-poster-boy-in-europe-what-now-for-hungary/",
-        "https://www.euronews.com/2026/04/13/can-peter-magyar-break-hungarys-reliance-on-russian-oil"
+        "https://www.euronews.com/2026/04/13/can-peter-magyar-break-hungarys-reliance-on-russian-oil",
+        "https://www.foreign.senate.gov/press/dem/release/ranking-members-shaheen-and-warren-express-deep-concern-following-sanctions-reversal-for-corrupt-hungarian-official"
       ]
     },
     {
@@ -749,7 +751,7 @@
     {
       "source": "donald-trump-jr",
       "target": "peter-szijjarto",
-      "label": "met in Budapest during business trip",
+      "label": "brief informal meeting in Budapest during business trip (Telex)",
       "type": "political",
       "date": "2025-04-25",
       "amount_usd": null
@@ -935,5 +937,51 @@
       ],
       "source_url": "https://intellinews.com/donald-trump-jr-heads-to-budapest-in-push-to-expand-trump-family-s-business-ties-in-cee-377980"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "DT Marks Budapest LLC and DT Marks Budapest Member Corp. exist (CREW Aug 2026 FOI requests)",
+      "Treasury lifted Antal Rogán's Global Magnitsky sanctions on 15 Apr 2025, ten days before Don Jr.'s Budapest trip",
+      "Don Jr. met FM Szijjártó and spoke at the 'Trump Business Vision 2025' forum in Budapest on 25 Apr 2025"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Szijjártó: reworded 'met' to Telex's account of a brief, informal encounter in which officially nothing was discussed (finding and relationship label).",
+      "Rogán: confirmed the 15 Apr 2025 delisting; added the stated rationale and Shaheen/Warren's point that the Global Magnitsky Act requires 15 days' notice to Congress; restated that the link to the family's business is inferred.",
+      "DT Marks Budapest: confirmed the entities are named in CREW's FOI letters, but noted no registry record or independent outlet was found, so formation details remain unverified.",
+      "No newer reporting (through 14 Nov 2026) found tying a Trump deal, partner or fee to Hungary or Serbia."
+    ],
+    "new_sources": [
+      {
+        "title": "US Lifts Sanctions on Hungary Minister in Trump's Gift to Orban",
+        "publisher": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2025-04-15/us-lifts-sanctions-on-hungary-minister-in-trump-s-gift-to-orban",
+        "date": "2025-04-15"
+      },
+      {
+        "title": "Antal Rogán removed from US Department of Treasury sanctions list",
+        "publisher": "Telex",
+        "url": "https://telex.hu/english/2025/04/16/antan-rogan-removed-from-us-department-of-treasury-sanctions-list",
+        "date": "2025-04-16"
+      },
+      {
+        "title": "Ranking Members Shaheen and Warren express deep concern following sanctions reversal for corrupt Hungarian official",
+        "publisher": "Senate Foreign Relations Committee (minority)",
+        "url": "https://www.foreign.senate.gov/press/dem/release/ranking-members-shaheen-and-warren-express-deep-concern-following-sanctions-reversal-for-corrupt-hungarian-official",
+        "date": "2025-04"
+      },
+      {
+        "title": "Donald Trump fia szerint Magyarország a fény egyik utolsó bástyája",
+        "publisher": "Telex",
+        "url": "https://telex.hu/gazdasag/2025/04/25/donald-trump-jr-egyesult-allamok-magyarorszag-rendezveny",
+        "date": "2025-04-25"
+      },
+      {
+        "title": "Hungary FOI Request: Ministry of Construction and Transport (redacted)",
+        "publisher": "CREW",
+        "url": "https://www.citizensforethics.org/wp-content/uploads/2026/08/Hungary-FOI-Request_Ministry-of-Construction-and-Transport_Redacted.pdf",
+        "date": "2026-08"
+      }
+    ]
+  }
 }

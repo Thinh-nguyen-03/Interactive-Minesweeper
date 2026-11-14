@@ -313,7 +313,7 @@ The core ownership chains are documented. One Florida revocable trust, with Dona
 - [[Donald J. Trump Revocable Trust]] · Fund
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
-- [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · Company
+- [[DT Marks Abu Dhabi LLC]] · Company
 - [[DT Marks DEFI LLC]] · Company
 - [[DT Marks Doha LLC]] · Company
 - [[DT Marks KSA LLC]] · Company
@@ -408,7 +408,7 @@ The core ownership chains are documented. One Florida revocable trust, with Dona
 - [[Donald Trump]] *beneficial owner (with family) of* [[DT Marks DEFI LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump Jr]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Eric Trump]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] · [[C63 Shell entities and ownership chains|C63]]
-- [[Trump Organization]] *licensing vehicle of* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Trump Organization]] *licensing vehicle of* [[DT Marks Abu Dhabi LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks Doha LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks KSA LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[WC Digital Fi LLC]] *holds interest in* [[World Liberty Financial]] · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
@@ -471,7 +471,7 @@ The core ownership chains are documented. One Florida revocable trust, with Dona
 - **Unannounced Trump Organization Abu Dhabi licensing entities**
   - CREW found new Delaware DT Marks Abu Dhabi / Al Raha Beach entities, set up in the same period Tahnoon-linked vehicles took 49% of WLF and WLTC.
   - The developer counterparty is unknown.
-  - [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] [[Trump Organization]] [[Aryam Investment 1]] [[StringZ Holding RSC (DE) LLC]] · [Source](https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/)
+  - [[DT Marks Abu Dhabi LLC]] [[Trump Organization]] [[Aryam Investment 1]] [[StringZ Holding RSC (DE) LLC]] · [Source](https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-property-income-is-set-to-explode-in-his-second-term/)
 - **Is StringZ Holding RSC on the ADGM register, and does it share officers with Aryam?**
   - Both vehicles hold 49% and both are reportedly Tahnoon-linked.
   - An ADGM registry pull plus a Delaware search on the '(DE)' entity would settle ownership and dates.

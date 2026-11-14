@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "FTC"
-connections: 7
-claims: 4
+connections: 8
+claims: 5
 tags:
   - "entity"
   - "type/government"
@@ -17,8 +17,8 @@ Pursuing a monopolization case against Amazon (trial Mar 2027); got a $2.5B Prim
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 4 claims |
-| Connections | 7 |
+| Appears in | 5 claims |
+| Connections | 8 |
 | Also known as | FTC |
 
 ## How other claims describe it
@@ -26,6 +26,7 @@ Pursuing a monopolization case against Amazon (trial Mar 2027); got a $2.5B Prim
 - US consumer-protection regulator asked to probe the T1 marketing
 - Lost the Meta monopoly case
 - Amazon Prime settlement
+- Meta and Amazon cases
 
 ## Appears in claims
 
@@ -33,6 +34,7 @@ Pursuing a monopolization case against Amazon (trial Mar 2027); got a $2.5B Prim
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 - [[C69 Master timeline money events versus government actions]] · Partly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 

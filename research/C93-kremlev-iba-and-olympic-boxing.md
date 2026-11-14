@@ -157,3 +157,23 @@ Evidence grades: **documented** (filings, official records or several outlets), 
 58. Ukraine GUR war-and-sanctions register, Kremlev. https://war-sanctions.gur.gov.ua/en/sport/persons/23360
 59. Charter 97, Latvia ban, 2026-09-18. https://charter97.org/en/news/2026/9/18/698919/
 60. Euronews Romania, Latvia ban, 2026-09. https://www.euronews.ro/articole/oligarhul-rus-care-a-finantat-nunta-lui-trump-jr-interzis-in-letonia-starul-din-h
+
+## Second review (audit)
+
+Result: **upheld**.
+
+Checked:
+- ProPublica (14 Sep 2026): Kremlev paid for parts of the Bahamas wedding weekend through IBA-affiliated IB Challenger; repayment claimed in Oct 2026
+- FT (27 Oct 2026): Kremlev spent about two days at Don Jr.'s Mongolia hunting camp in late Aug 2026, with Arthur Martirosov of the US-sanctioned Voskhod fund
+- IStories/OCCRP: two sources say Kremlev described Kazakhstan business talks with Don Jr. in 2026
+
+Changes:
+- All three re-confirmed through different relays (Ukrainska Pravda, Meduza, Kyiv Post, Axios, Novaya Gazeta Europe, OCCRP). The single-source grades for the FT and IStories/OCCRP items and the 'repayment rests on the two sides' word' caveat stand.
+- Kazakhstan item: added OCCRP's 4 Nov 2026 English publication and that neither source knew which deals were discussed. Don Jr.'s denial is already recorded.
+- No US sanctions or visa action on Kremlev found through 14 Nov 2026.
+
+New sources:
+- OCCRP, "Donald Trump Jr. discussed deals with Russian businessman close to Putin's personal security chief, two sources say", 2026-11-04. https://www.occrp.org/en/investigation/donald-trump-jr-discussed-deals-with-russian-businessman-close-to-putins-personal-security-chief-two-sources-say
+- Novaya Gazeta Europe, "Umar Kremlev discussed business deals with Trump Jr. in Kazakhstan (IStories)", 2026-10-31. https://novayagazeta.eu/articles/2026/10/31/umar-kremlev-obsuzhdal-biznes-sdelki-s-trampom-mladshim-v-kazakhstane-vazhnye-istorii-news
+- Axios, "What we know about the Putin ally who allegedly funded Donald Trump Jr.'s wedding", 2026-09-14. https://www.axios.com/2026/09/14/umar-kremlev-donald-trump-jr-wedding-bahamas
+- Ukrainska Pravda, "Trump's son spent two days hunting in Mongolia with a Russian oligarch", 2026-10-27. https://www.pravda.com.ua/eng/news/2026/10/27/8059890/

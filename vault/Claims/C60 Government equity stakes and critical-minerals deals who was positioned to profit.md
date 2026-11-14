@@ -74,6 +74,7 @@ The core of the lead is documented. A June 28, 2026 NYT investigation (Lipton an
 
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
 
 ## Sub-claims
 

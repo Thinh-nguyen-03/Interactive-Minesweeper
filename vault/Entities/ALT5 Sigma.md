@@ -8,8 +8,8 @@ aliases:
   - "ALT5 Sigma (now AI Financial Corporation, AIFC)"
   - "Alt 5"
   - "Alt-5 Sigma"
-connections: 28
-claims: 7
+connections: 30
+claims: 8
 tags:
   - "entity"
   - "type/company"
@@ -21,8 +21,8 @@ Listed company in a $1.5B WLFI treasury deal; stock down ~94%; rebranded AI Fina
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 7 claims |
-| Connections | 28 |
+| Appears in | 8 claims |
+| Connections | 30 |
 | Also known as | AI Financial Corporation; ALT5 Sigma (now AI Financial Corp.); ALT5 Sigma (now AI Financial Corporation, AIFC); Alt 5; Alt-5 Sigma |
 
 ## How other claims describe it
@@ -42,6 +42,7 @@ Listed company in a $1.5B WLFI treasury deal; stock down ~94%; rebranded AI Fina
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
 
 ## Relationships
 
@@ -56,9 +57,10 @@ Listed company in a $1.5B WLFI treasury deal; stock down ~94%; rebranded AI Fina
 - [[ALT5 Sigma]] *reportedly paid ~$90M to Witkoff family* [[Zach Witkoff]] · $90M · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Retail investors Trump supporters]] *lost ~94% on stock of* [[ALT5 Sigma]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]] [[C29 Trump family wealth gains|C29]]
 
-### Ownership (7)
+### Ownership (8)
 
 - [[ALT5 Sigma]] *treasury holding about 7.5% of supply, bought at $0.20* [[WLFI token]] · 2025-08 · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Point72 Asset Management]] *4% stake (fund-held)* [[ALT5 Sigma]] · 2025-08 · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 - [[Zach Witkoff]] *chairman* [[ALT5 Sigma]] · 2025-08 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[ALT5 Sigma]] *holds ~$781M WLFI wallet (Reuters)* [[WLFI token]] · 2025-10 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[ALT5 Sigma]] *buys and holds* [[WLFI token]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
@@ -86,8 +88,9 @@ Listed company in a $1.5B WLFI treasury deal; stock down ~94%; rebranded AI Fina
 - [[Coffeezilla]] *covered the deal in the video* [[ALT5 Sigma]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Molly White]] *described conflict of interest in the video* [[ALT5 Sigma]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 
-### Commercial (7)
+### Commercial (8)
 
+- [[ALT5 Sigma]] *WLFI treasury partner* [[World Liberty Financial]] · 2025-08 · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 - [[World Liberty Financial]] *WLFI treasury partner of* [[ALT5 Sigma]] · 2025-08 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[A.G.P. Alliance Global Partners]] *sole placement agent, $1.5B raise* [[ALT5 Sigma]] · 2025-08-11 · $1.5B · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Kraken]] *named Asset Manager of WLFI treasury* [[ALT5 Sigma]] · 2025-08-11 · [[C67 Investors who show up in several Trump-family vehicles|C67]]

@@ -73,6 +73,7 @@ The list of foreign Trump-branded projects outside the Gulf is real: Vietnam, In
 ## Follow-up checks
 
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
 
 ## Sub-claims
 

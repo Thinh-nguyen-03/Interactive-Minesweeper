@@ -98,12 +98,13 @@
     {
       "statement": "Kremlev and Trump Jr. discussed business deals in Kazakhstan in 2026.",
       "verdict": "unverified",
-      "finding": "SINGLE-SOURCE and second-hand (IStories with OCCRP, about 30 Oct to 4 Nov 2026; the FT reported similarly). Two sources independently said Kremlev told them he and Trump Jr. met in Kazakhstan earlier in 2026 to discuss business deals. They gave no details. Trump Jr.'s spokesperson: the two are 'personal friends' who 'have never entered into any business deals with each other and have no plans to do so.' IStories noted that both men have commercial interests in Kazakhstan; for the Trump sons that means their reported Skyline Builders stake, Skyline's 20% of Kaz Resources and its tungsten project (C47/C60). IStories did not establish that those ventures were discussed. Any link between Kremlev and the tungsten deal is INFERRED, and no source asserts it.",
+      "finding": "SINGLE-SOURCE and second-hand (IStories with OCCRP, about 30 Oct to 4 Nov 2026; the FT reported similarly). Two sources independently said Kremlev told them he and Trump Jr. met in Kazakhstan earlier in 2026 to discuss business deals. They gave no details. Trump Jr.'s spokesperson: the two are 'personal friends' who 'have never entered into any business deals with each other and have no plans to do so.' IStories noted that both men have commercial interests in Kazakhstan; for the Trump sons that means their reported Skyline Builders stake, Skyline's 20% of Kaz Resources and its tungsten project (C47/C60). IStories did not establish that those ventures were discussed. Any link between Kremlev and the tungsten deal is INFERRED, and no source asserts it. Audit: OCCRP published its English version on 4 Nov 2026 (Novaya Gazeta Europe relayed IStories on 31 Oct). Both rest on anonymous sources relaying what Kremlev said; neither source knew which deals were discussed, and no joint venture is identified.",
       "sources": [
         "https://www.occrp.org/en/investigation/donald-trump-jr-discussed-deals-with-russian-businessman-close-to-putins-personal-security-chief-two-sources-say",
         "https://novayagazeta.eu/articles/2026/10/31/umar-kremlev-obsuzhdal-biznes-sdelki-s-trampom-mladshim-v-kazakhstane-vazhnye-istorii-news",
         "https://www.kyivpost.com/post/89375",
-        "https://www.thedailybeast.com/donald-trump-jr-faces-shock-claims-of-business-talks-with-vladimir-putins-pal-umar-kremlev"
+        "https://www.thedailybeast.com/donald-trump-jr-faces-shock-claims-of-business-talks-with-vladimir-putins-pal-umar-kremlev",
+        "https://www.occrp.org/en/investigation/donald-trump-jr-discussed-deals-with-russian-businessman-close-to-putins-personal-security-chief-two-sources-say"
       ]
     },
     {
@@ -1047,5 +1048,44 @@
       ],
       "source_url": "https://www.boxingscene.com/articles/the-latest-on-the-muhammad-ali-american-boxing-revival-act"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "ProPublica (14 Sep 2026): Kremlev paid for parts of the Bahamas wedding weekend through IBA-affiliated IB Challenger; repayment claimed in Oct 2026",
+      "FT (27 Oct 2026): Kremlev spent about two days at Don Jr.'s Mongolia hunting camp in late Aug 2026, with Arthur Martirosov of the US-sanctioned Voskhod fund",
+      "IStories/OCCRP: two sources say Kremlev described Kazakhstan business talks with Don Jr. in 2026"
+    ],
+    "result": "upheld",
+    "changes": [
+      "All three re-confirmed through different relays (Ukrainska Pravda, Meduza, Kyiv Post, Axios, Novaya Gazeta Europe, OCCRP). The single-source grades for the FT and IStories/OCCRP items and the 'repayment rests on the two sides' word' caveat stand.",
+      "Kazakhstan item: added OCCRP's 4 Nov 2026 English publication and that neither source knew which deals were discussed. Don Jr.'s denial is already recorded.",
+      "No US sanctions or visa action on Kremlev found through 14 Nov 2026."
+    ],
+    "new_sources": [
+      {
+        "title": "Donald Trump Jr. discussed deals with Russian businessman close to Putin's personal security chief, two sources say",
+        "publisher": "OCCRP",
+        "url": "https://www.occrp.org/en/investigation/donald-trump-jr-discussed-deals-with-russian-businessman-close-to-putins-personal-security-chief-two-sources-say",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Umar Kremlev discussed business deals with Trump Jr. in Kazakhstan (IStories)",
+        "publisher": "Novaya Gazeta Europe",
+        "url": "https://novayagazeta.eu/articles/2026/10/31/umar-kremlev-obsuzhdal-biznes-sdelki-s-trampom-mladshim-v-kazakhstane-vazhnye-istorii-news",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "What we know about the Putin ally who allegedly funded Donald Trump Jr.'s wedding",
+        "publisher": "Axios",
+        "url": "https://www.axios.com/2026/09/14/umar-kremlev-donald-trump-jr-wedding-bahamas",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Trump's son spent two days hunting in Mongolia with a Russian oligarch",
+        "publisher": "Ukrainska Pravda",
+        "url": "https://www.pravda.com.ua/eng/news/2026/10/27/8059890/",
+        "date": "2026-10-27"
+      }
+    ]
+  }
 }

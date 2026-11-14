@@ -58,10 +58,10 @@ CREW counts at least 34 companies Trump formed in his second term, eight of them
 4. **Grand Budapest was dropped before any Trump deal surfaced.** *Documented.* Budapest's municipal company exercised a pre-emption right over the Rákosrendező site, and the government abandoned the project in early 2025 (bne IntelliNews, Property Forum). The DT Marks Budapest entities were formed in the same window, but no Budapest project, partner or fee has been disclosed. Whether the entities were meant for Grand Budapest is **inferred**: no source says so, though CREW's FOI request asks about both together.
 5. **Don Jr.'s Budapest and Belgrade visits.** *Documented.*
    - Don Jr. met Vučić in Belgrade on 11 Mar 2025, while Kushner's Trump-branded project was pending. He had dinner with Vučić again on his late-April regional trip (Bloomberg).
-   - On 25 Apr 2025 he met Foreign Minister Szijjártó in Budapest and spoke at the invitation-only "Trump Business Vision 2025" forum, organised by Zoltán Aczél and Portfolio. Reports said he was expected to meet 4iG chairman Gellért Jászai.
+   - On 25 Apr 2025 he had a brief, informal encounter with Foreign Minister Szijjártó in Budapest (Telex: officially nothing was discussed, and it was closed to the press) and spoke at the invitation-only "Trump Business Vision 2025" forum, organised by Zoltán Aczél and Portfolio. Reports said he was expected to meet 4iG chairman Gellért Jászai.
    - Bloomberg framed the trip as aimed at expanding the family's business ties. No deal was announced. His spokesperson rejected conflict-of-interest suggestions in Serbia.
 6. **Hungary: US decisions in the same period.** *Each decision documented; the link to the family's business is inferred.*
-   - **15 Apr 2025:** Treasury removed Antal Rogán, Orbán's cabinet chief, from its sanctions list. The Biden administration had imposed the sanctions in Jan 2025 over corruption in public contracting. State said continued designation was inconsistent with US interests (Bloomberg called it "Trump's gift to Orbán"). This was ten days before Don Jr.'s Budapest visit.
+   - **15 Apr 2025:** Treasury removed Antal Rogán, Orbán's cabinet chief, from its sanctions list. The Biden administration had imposed the sanctions in Jan 2025 over corruption in public contracting. State said continued designation was inconsistent with US interests (Bloomberg called it "Trump's gift to Orbán"). This was ten days before Don Jr.'s Budapest visit. Senators Shaheen and Warren said the Global Magnitsky Act requires 15 days' notice to Congress before a termination. No source links the delisting to the trip.
    - **~29 Jun 2025:** Hungary said the US had lifted sanctions blocking the Rosatom-built Paks II expansion. This rests mainly on the Hungarian government's account; I found no detailed US confirmation.
    - **7 Nov 2025:** After a White House meeting, Hungary got a one-year exemption from US sanctions on Russian oil and gas. The White House said one year; Orbán claimed it was open-ended. One account ties it to more than $1.4B of Hungarian purchase commitments for US nuclear, defence and energy.
    - **9 Nov 2025:** Orbán claimed a US "financial shield", described as a currency swap. In Dec 2025 Trump denied promising it, and Szijjártó said talks continued. I found no swap line finalised.
@@ -152,3 +152,25 @@ It shows that Trump's licensing arm opened Hungary and Serbia vehicles in the fi
 40. PolitiFact, Trump disclosure fact-check, 2026-07-07. https://api.politifact.com/factchecks/2026/jul/07/donald-trump/disclosure-crypto-stocks-wealth/
 41. Times Brasil (CNBC licensee), foreign licensing $59.5M, 2026. https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/
 42. Semafor, "Jared Kushner and Dubai billionaire to partner on Trump hotel in Serbia", 2025-01-17. https://www.semafor.com/article/01/17/2025/jared-kushner-and-dubai-billionaire-to-partner-on-trump-hotel-in-serbia
+
+## Second review (audit)
+
+Result: **upheld**.
+
+Checked:
+- DT Marks Budapest LLC and DT Marks Budapest Member Corp. exist (CREW Aug 2026 FOI requests)
+- Treasury lifted Antal Rogán's Global Magnitsky sanctions on 15 Apr 2025, ten days before Don Jr.'s Budapest trip
+- Don Jr. met FM Szijjártó and spoke at the 'Trump Business Vision 2025' forum in Budapest on 25 Apr 2025
+
+Changes:
+- Szijjártó: reworded 'met' to Telex's account of a brief, informal encounter in which officially nothing was discussed (finding and relationship label).
+- Rogán: confirmed the 15 Apr 2025 delisting; added the stated rationale and Shaheen/Warren's point that the Global Magnitsky Act requires 15 days' notice to Congress; restated that the link to the family's business is inferred.
+- DT Marks Budapest: confirmed the entities are named in CREW's FOI letters, but noted no registry record or independent outlet was found, so formation details remain unverified.
+- No newer reporting (through 14 Nov 2026) found tying a Trump deal, partner or fee to Hungary or Serbia.
+
+New sources:
+- Bloomberg, "US Lifts Sanctions on Hungary Minister in Trump's Gift to Orban", 2025-04-15. https://www.bloomberg.com/news/articles/2025-04-15/us-lifts-sanctions-on-hungary-minister-in-trump-s-gift-to-orban
+- Telex, "Antal Rogán removed from US Department of Treasury sanctions list", 2025-04-16. https://telex.hu/english/2025/04/16/antan-rogan-removed-from-us-department-of-treasury-sanctions-list
+- Senate Foreign Relations Committee (minority), "Ranking Members Shaheen and Warren express deep concern following sanctions reversal for corrupt Hungarian official", 2025-04. https://www.foreign.senate.gov/press/dem/release/ranking-members-shaheen-and-warren-express-deep-concern-following-sanctions-reversal-for-corrupt-hungarian-official
+- Telex, "Donald Trump fia szerint Magyarország a fény egyik utolsó bástyája", 2025-04-25. https://telex.hu/gazdasag/2025/04/25/donald-trump-jr-egyesult-allamok-magyarorszag-rendezveny
+- CREW, "Hungary FOI Request: Ministry of Construction and Transport (redacted)", 2026-08. https://www.citizensforethics.org/wp-content/uploads/2026/08/Hungary-FOI-Request_Ministry-of-Construction-and-Transport_Redacted.pdf

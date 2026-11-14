@@ -69,6 +69,10 @@ For most named partners, a family deal and a favourable US decision in the same 
 
 > Connection hunt: the foreign business partners of the Trump family and what their countries or companies obtained from the US government in the same period — Hussain Sajwani/Damac ($20B data-centre pledge; Trump licence fees), Dar Global/Dar Al Arkan (Saudi), Qatari Diar/QIA, Hary Tanoesoedibjo/MNC (Indonesia tariff deal), Kinh Bac/Vietnam (tariffs), Indian licensees (Tribeca/Mehta), Aryam/MGX/G42 (chips), Binance/CZ (pardon), Bilt? Serbian and Albanian governments, Pakistan (WLF deal with Pakistan Crypto Council; tariff/treatment; Powerus order), El Salvador, Azerbaijan, Kazakhstan (tungsten), Japan's Metaplanet/SoftBank. For each: the deal with the family, date, value, and the US decision, with denials.
 
+## Follow-up checks
+
+- [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge]] · Mostly accurate
+
 ## Sub-claims
 
 ### 1. Damac / Hussain Sajwani (UAE): licence fees to the Trump Organization alongside a $20B US data-centre pledge and a data-centre permitting order.
@@ -414,8 +418,8 @@ For most named partners, a family deal and a favourable US decision in the same 
 
 ### Ownership (13)
 
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
-- [[Edgnex Data Centers by Damac]] *data-centre arm of* [[Damac Properties]] · 2025 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[Edgnex Data Centers by Damac]] *data-centre arm of* [[Damac Properties]] · 2025 · [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge|C88]]
 - [[Hussain Sajwani]] *founder and chairman of* [[Damac Properties]] · 2025 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[DT Marks Al Raha Beach LLC]] *Trump licensing entity formed same day as permitting EO (per CREW)* [[Trump Organization]] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Donald Trump Jr]] *reportedly invested via Dominari SPV (FT)* [[Skyline Builders Group]] · 2025-08 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
@@ -433,7 +437,7 @@ For most named partners, a family deal and a favourable US decision in the same 
 - [[US Treasury]] *deferred sanctions six times, then refused (Oct 2025)* [[NIS (Naftna Industrija Srbije)]] · 2025-01/2025-10 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Vietnam]] *fast-tracked in-principle approval for Trump project of* [[Kinh Bac City Development Holding Corp (KBC)]] · 2025-05 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Binance]] · 2025-05-29 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
-- [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]] [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge|C88]]
 - [[US Department of Commerce]] *licensed up to 35,000 GB300-equivalent chips* [[G42]] · 2025-11-20 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[US Treasury]] *issued licence to buy Venezuelan oil (Reuters, anonymous sources; single-source)* [[Reliance Industries]] · 2026-02-13 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 

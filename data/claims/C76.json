@@ -72,7 +72,7 @@
     {
       "statement": "The sale of sanctioned Lukoil's ~$20B foreign assets entered the Witkoff/Kushner talks, with a bidding consortium that includes Gulf partners of Witkoff and Kushner.",
       "verdict": "partly-accurate",
-      "finding": "SINGLE-SOURCE for the core point: the NYT (early Oct 2026, three unnamed people, read via relays because the site was blocked) reports that Putin raised the Lukoil asset sale with Witkoff and Kushner in the Kremlin on 5 Sep 2026. The bidding consortium is led by Todd Boehly, who gave $1M-$2M to Trump causes (outlets disagree on the amount). Relaying reports name its members as IHC (the Tahnoon-chaired Abu Dhabi group), Al Hail Holding, the Qatar-based Al-Khayyat brothers and the US DFC, which would take a mid-teens stake. Reports describe the Al-Khayyats as former partners of Kushner and Ivanka Trump in the southern Albania resort (C45). That is SINGLE-SOURCE in what we saw. Carlyle had agreed a deal in Jan 2026 and then withdrew. Any sale needs OFAC and Kremlin approval. Witkoff's spokesperson: he 'has no conflict of interest and no financial stake in this matter'. The NYT found no indication that Witkoff or Kushner would profit personally. Update: OFAC's General License 131K authorises sale negotiations only until 21 Nov 2026; any final transfer needs a separate licence, and the proceeds must go into a blocked account. A separate licence for Lukoil's filling stations and Bulgarian assets runs to 24 Apr 2027. The FT reported that Tahnoon bin Zayed is part of the Boehly consortium. No signed sale was reported as of mid-Nov 2026.",
+      "finding": "SINGLE-SOURCE for the core point: the NYT (early Oct 2026, three unnamed people, read via relays because the site was blocked) reports that Putin raised the Lukoil asset sale with Witkoff and Kushner in the Kremlin on 5 Sep 2026. The bidding consortium is led by Todd Boehly, who gave $1M-$2M to Trump causes (outlets disagree on the amount). Relaying reports name its members as IHC (the Tahnoon-chaired Abu Dhabi group), Al Hail Holding, the Qatar-based Al-Khayyat brothers and the US DFC, which would take a mid-teens stake. The Al-Khayyats are Kushner's partners (and reportedly Ivanka Trump's) in the southern Albania Sazan resort (C45, C94). That is DOCUMENTED: Ramez Al-Khayyat confirmed the partnership to the NYT (19 Apr 2026, via Balkanweb), a Sazan Real Estate spokesperson confirmed the brothers' involvement to CBS, which saw filings naming their Qatar-based Assets Group, and OCCRP cites a Mar 2026 Albanian registry declaration naming them as beneficial owners. No source we found says the partnership has ended. Carlyle had agreed a deal in Jan 2026 and then withdrew. Any sale needs OFAC and Kremlin approval. Witkoff's spokesperson: he 'has no conflict of interest and no financial stake in this matter'. The NYT found no indication that Witkoff or Kushner would profit personally. Update: OFAC's General License 131K authorises sale negotiations only until 21 Nov 2026; any final transfer needs a separate licence, and the proceeds must go into a blocked account. A separate licence for Lukoil's filling stations and Bulgarian assets runs to 24 Apr 2027. The FT reported that Tahnoon bin Zayed is part of the Boehly consortium. No signed sale was reported as of mid-Nov 2026.",
       "sources": [
         "https://www.pravda.com.ua/eng/news/2026/10/03/8056300/",
         "https://meduza.io/en/news/2026/10/05/lukoil-s-foreign-asset-sale-becomes-part-of-u-s-russia-talks-on-ending-ukraine-war-nyt-reports",
@@ -80,7 +80,9 @@
         "https://www.wionews.com/world/us-russia-talks-lukoil-assets-todd-boehly-trump-investors-1791021292256",
         "https://meduza.io/en/news/2026/09/23/former-chelsea-co-owner-todd-boehly-seeks-to-buy-lukoil-s-foreign-assets",
         "https://kurs.com.ua/en/novost/1485213-vashington-prodovzhiv-termin-prodazhu-zakordonnogo-biznesu-lukoila",
-        "https://shipandbunker.com/news/world/708441-us-again-extends-deadline-for-lukoil-foreign-assets-sale"
+        "https://shipandbunker.com/news/world/708441-us-again-extends-deadline-for-lukoil-foreign-assets-sale",
+        "https://www.balkanweb.com/en/Two-Qatari-billionaires-and-a-complex-network-of-companies-behind-the-Sazan-project/",
+        "https://cbsnews.com/news/albania-protests-jared-kushner-luxury-resort-plans-anti-corruption"
       ]
     },
     {
@@ -929,7 +931,7 @@
     {
       "source": "al-khayyat-brothers",
       "target": "jared-kushner",
-      "label": "reported partners on Albania resort project (single-source)",
+      "label": "partners on Albania Sazan resort project (confirmed to NYT/CBS; registry filings)",
       "type": "commercial"
     },
     {
@@ -1102,7 +1104,8 @@
     "changes": [
       "Kremlev: the summary and relationship label no longer state the repayment as fact. It rests on Kremlev's word, and the amount, payer and recipient are undisclosed. Added the IBA's denial that it paid.",
       "Lukoil: the core point stays single-source (NYT). Added the update that OFAC GL 131K covers negotiations only to 21 Nov 2026, the blocked-proceeds condition, and the FT report of Tahnoon's role. No signed sale was found.",
-      "Novatek/Polar LNG: the FT layer is attributed to former CEO Joel Riddle, and Polar LNG's 9 Nov 2026 denial is recorded."
+      "Novatek/Polar LNG: the FT layer is attributed to former CEO Joel Riddle, and Polar LNG's 9 Nov 2026 denial is recorded.",
+      "Al-Khayyat-Kushner (cross-check with C94, second audit): upgraded from single-source to documented. Ramez Al-Khayyat confirmed the partnership to the NYT (19 Apr 2026), a Sazan Real Estate spokesperson confirmed it to CBS, and OCCRP cites Albanian registry filings. Dropped 'former', since no source says the partnership ended. Finding, relationship label and report updated."
     ],
     "new_sources": [
       {
@@ -1128,6 +1131,18 @@
         "publisher": "Alaska Journal of Commerce (ADN)",
         "url": "https://www.adn.com/alaska-journal/news/2026/11/09/former-ceo-alleges-russian-company-financed-alaska-project-despite-us-sanctions-polar-lng-denies-the-claims/",
         "date": "2026-11-09"
+      },
+      {
+        "title": "Two Qatari billionaires and a complex network of companies behind the Sazan project",
+        "publisher": "Balkanweb (relaying NYT)",
+        "url": "https://www.balkanweb.com/en/Two-Qatari-billionaires-and-a-complex-network-of-companies-behind-the-Sazan-project/",
+        "date": "2026-04"
+      },
+      {
+        "title": "Albania protests over Jared Kushner luxury resort plans",
+        "publisher": "CBS News",
+        "url": "https://cbsnews.com/news/albania-protests-jared-kushner-luxury-resort-plans-anti-corruption",
+        "date": "2026"
       }
     ]
   }

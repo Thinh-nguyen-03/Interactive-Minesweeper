@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Witkoff"
-connections: 53
-claims: 22
+connections: 56
+claims: 23
 tags:
   - "entity"
   - "type/person"
@@ -19,8 +19,8 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 22 claims |
-| Connections | 53 |
+| Appears in | 23 claims |
+| Connections | 56 |
 | Also known as | Witkoff |
 
 ## How other claims describe it
@@ -55,6 +55,7 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Relationships
 
@@ -105,7 +106,7 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[David Warrington]] *White House counsel defending his ethics compliance* [[Steve Witkoff]] · 2025 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[Josh Gruenbaum]] *worked for on Gaza, Ukraine, Iran talks* [[Steve Witkoff]] · 2025-2026 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 
-### Political (23)
+### Political (25)
 
 - [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] · 2024-11 · [[C14 Steve and Zach Witkoff|C14]]
 - [[Jared Kushner]] *co-negotiates Russia/Iran talks with* [[Steve Witkoff]] · 2025 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
@@ -127,6 +128,8 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[David Warrington]] *vouched for WLF divestment of* [[Steve Witkoff]] · 2026-02 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Anna Kelly]] *asserted 'fully divested' from WLF* [[Steve Witkoff]] · 2026-09 · [[C14 Steve and Zach Witkoff|C14]]
 - [[White House Trump administration]] *says he has fully divested* [[Steve Witkoff]] · 2026-09 · [[C42 How World Liberty insiders took money out|C42]]
+- [[Vladimir Putin]] *raised Lukoil sale at Kremlin meeting (NYT, single-source)* [[Steve Witkoff]] · 2026-09-05 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[Steve Witkoff]] *helped negotiate terms of federal stake (senior official to NYT, single-source)* [[US International Development Finance Corporation]] · 2026-10 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
 - [[Jared Kushner]] *travels and negotiates with* [[Steve Witkoff]] · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Steve Witkoff]] *negotiates in region of* [[United Arab Emirates]] · [[C14 Steve and Zach Witkoff|C14]]
 - [[Steve Witkoff]] *Special Envoy to Middle East for* [[White House Trump administration]] · [[C14 Steve and Zach Witkoff|C14]]

@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Zachary Witkoff"
-connections: 35
-claims: 22
+connections: 36
+claims: 23
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 22 claims |
-| Connections | 35 |
+| Appears in | 23 claims |
+| Connections | 36 |
 | Also known as | Zachary Witkoff |
 
 ## How other claims describe it
@@ -53,6 +53,7 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
 
 ## Relationships
 

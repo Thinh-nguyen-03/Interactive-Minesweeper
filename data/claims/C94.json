@@ -49,7 +49,7 @@
     {
       "statement": "The leading bidder is a Boehly-led consortium of IHC, Allied Investment Partners, Al Hail Holding, the Al-Khayyat brothers and the US DFC, structured as an escrowed share swap.",
       "verdict": "mostly-accurate",
-      "finding": "DOCUMENTED AS PRESS REPORTING (FT Sep 2026; Reuters 3 Nov 2026; NYT relays). Terms are unconfirmed. Per the FT, the DFC would take a 'mid-teens' equity stake (other relays say 10-20%). Boehly and the DFC would control a majority of the board, and IHC and Allied would lead on the Gulf side. Per Reuters on 3 Nov 2026, the deal is a cashless swap of frozen Lukoil securities held by Western funds, including Capital Group. An unnamed foreign bank had already bought Lukoil paper. The shares would go into escrow rather than to Lukoil, and a deal was 'expected within weeks'. Lukoil and Treasury did not comment; Al Hail, the Al-Khayyats and the DFC did not respond. IHC's interest is documented on its own: it publicly declared interest and notified Treasury in Nov 2025. We could not establish Al Hail Holding's owners. Its CEO is Hamad Jassim Al Darwish, and no source ties it to Tahnoon.",
+      "finding": "DOCUMENTED AS PRESS REPORTING (FT Sep 2026; Reuters 3 Nov 2026; NYT relays). Terms are unconfirmed. Per the FT, the DFC would take a 'mid-teens' equity stake (other relays say 10-20%). Boehly and the DFC would control a majority of the board, and IHC and Allied would lead on the Gulf side. Per Reuters on 3 Nov 2026, the deal is a cashless swap of frozen Lukoil securities held by Western funds, including Capital Group. An unnamed foreign bank had already bought Lukoil paper. The shares would go into escrow rather than to Lukoil, and a deal was 'expected within weeks'. Lukoil and Treasury did not comment; Al Hail, the Al-Khayyats and the DFC did not respond. IHC's interest is documented on its own: it publicly declared interest and notified Treasury in Nov 2025. We could not establish Al Hail Holding's owners. Its CEO is Hamad Jassim Al Darwish, and no source ties it to Tahnoon. Audit: both the FT (Sep 2026) and Reuters (3 Nov 2026) rest on anonymous sources; one says the final structure is not settled. IHC's spokesperson said it does not comment on potential investments. No price for the Boehly bid has been disclosed; Reuters says the assets' value has fallen from the ~$20-22B first estimated.",
       "sources": [
         "https://meduza.io/en/news/2026/09/23/former-chelsea-co-owner-todd-boehly-seeks-to-buy-lukoil-s-foreign-assets",
         "https://lavocedinewyork.com/en/news/2026/09/23/boehly-builds-consortium-to-outbid-carlyle-for-lukoil-assets/",
@@ -85,7 +85,7 @@
     {
       "statement": "The Al-Khayyat brothers are partners of Kushner and Ivanka Trump in the Sazan, Albania resort.",
       "verdict": "confirmed",
-      "finding": "DOCUMENTED; THIS UPGRADES C76's SINGLE-SOURCE GRADE. Ramez Al-Khayyat confirmed the partnership to the NYT (via Balkanweb). A Sazan Real Estate spokesperson confirmed the brothers' involvement to CBS, which saw filings naming their Qatar-based Assets Group as partner. OCCRP cites a March 2026 Albanian registry declaration naming Moutaz and Ramez Al-Khayyat as ultimate beneficial owners. SPAK froze accounts of Albania Land Development, which the brothers own, in May-June 2026. Kushner describes himself as a minority partner (C45).",
+      "finding": "DOCUMENTED; THIS UPGRADES C76's SINGLE-SOURCE GRADE. Ramez Al-Khayyat confirmed the partnership to the NYT (via Balkanweb). A Sazan Real Estate spokesperson confirmed the brothers' involvement to CBS, which saw filings naming their Qatar-based Assets Group as partner. OCCRP cites a March 2026 Albanian registry declaration naming Moutaz and Ramez Al-Khayyat as ultimate beneficial owners. SPAK froze accounts of Albania Land Development, which the brothers own, in May-June 2026. Kushner describes himself as a minority partner (C45). Audit: re-confirmed. Balkanweb dates the NYT investigation in which Ramez Al-Khayyat confirmed the partnership to 19 Apr 2026. No source we found says the partnership has ended.",
       "sources": [
         "https://www.balkanweb.com/en/Two-Qatari-billionaires-and-a-complex-network-of-companies-behind-the-Sazan-project/",
         "https://cbsnews.com/news/albania-protests-jared-kushner-luxury-resort-plans-anti-corruption",
@@ -111,19 +111,20 @@
     {
       "statement": "OFAC licences: negotiations are authorised only under time-limited general licences, the latest running to 21 Nov 2026, and any closing needs a separate licence.",
       "verdict": "confirmed",
-      "finding": "DOCUMENTED. The GL 131 series covers negotiations and conditional agreements for Lukoil International GmbH. A final transfer needs a separate OFAC authorisation, and proceeds must be blocked (C76 audit). Reported deadline chain: 13 Dec 2025, 17 Jan 2026, 28 Feb, 1 Apr, 30 May, 27 Jun, 25 Jul, 22 Oct, then extended on 21 Oct 2026 to 21 Nov 2026 (GL 131K per C76's audit). OFAC may revoke early if the parties do not negotiate in good faith. Licences for LIG's filling stations and Bulgarian assets run to 24 Apr 2027. Commentators note the structural conflict: the DFC would invest in the buyer while Treasury/OFAC licenses the sale.",
+      "finding": "DOCUMENTED. The GL 131 series covers negotiations and conditional agreements for Lukoil International GmbH. A final transfer needs a separate OFAC authorisation, and proceeds must be blocked (C76 audit). Reported deadline chain: 13 Dec 2025, 17 Jan 2026, 28 Feb, 1 Apr, 30 May, 27 Jun, 25 Jul, 22 Oct, then extended on 21 Oct 2026 to 21 Nov 2026 (GL 131K per C76's audit). OFAC may revoke early if the parties do not negotiate in good faith. Licences for LIG's filling stations and Bulgarian assets run to 24 Apr 2027. Commentators note the structural conflict: the DFC would invest in the buyer while Treasury/OFAC licenses the sale. Audit: GL 131K (issued 21 Oct 2026) keeps the condition that Lukoil may receive no benefit beforehand, for example through an exchange of assets or securities, and requires a buyer to seek OFAC review before reselling significant assets (FesenkoLaw). The consortium's escrow arrangement is reported as its answer to that condition (Reuters, two people). No further extension beyond 21 Nov 2026 had been reported as of 14 Nov 2026.",
       "sources": [
         "https://interfax.com/newsroom/top-stories/119637/",
         "https://kurs.com.ua/en/novost/1485213-vashington-prodovzhiv-termin-prodazhu-zakordonnogo-biznesu-lukoila",
         "https://shipandbunker.com/news/world/708441-us-again-extends-deadline-for-lukoil-foreign-assets-sale",
         "https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1786274/ofac-widens-the-door-on-lukoil-divestments-navigating-gls-131e-and-128c-for-lukoil-divestments",
-        "https://globalsanctions.com/2026/06/us-renews-general-license-for-lukoil-international-sale-until-25-july-2026/"
+        "https://globalsanctions.com/2026/06/us-renews-general-license-for-lukoil-international-sale-until-25-july-2026/",
+        "https://fesenkolaw.com/blog/ofac-gl-131k-one-more-month-for-the-lukoil-deal/"
       ]
     },
     {
       "statement": "Outcome through Nov 2026.",
       "verdict": "confirmed",
-      "finding": "DOCUMENTED AS ABSENCE. As of 14 Nov 2026 no sale had been signed, no OFAC transfer licence had been issued and no DFC commitment had been announced. Reuters said on 3 Nov that a deal was 'expected within weeks'. The 21 Nov 2026 negotiation licence expiry was pending.",
+      "finding": "DOCUMENTED AS ABSENCE. As of 14 Nov 2026 no sale had been signed, no OFAC transfer licence had been issued and no DFC commitment had been announced. Reuters said on 3 Nov that a deal was 'expected within weeks'. The 21 Nov 2026 negotiation licence expiry was pending. Audit: a fresh search (14 Nov 2026) found no report of a signed sale, OFAC transfer licence or further GL extension.",
       "sources": [
         "https://brazilenergyinsight.com/2026/11/04/us-billionaire-leads-swap-plan-to-buy-lukoils-overseas-assets-sources-say/",
         "https://interfax.com/newsroom/top-stories/119637/"
@@ -749,10 +750,10 @@
     {
       "source": "todd-boehly",
       "target": "lukoil-international-gmbh",
-      "label": "leads consortium bidding via escrowed share swap",
+      "label": "leads consortium bidding via escrowed share swap (no price disclosed; anonymous-source reporting)",
       "type": "commercial",
       "date": "2026-09",
-      "amount_usd": 22000000000
+      "amount_usd": null
     },
     {
       "source": "todd-boehly",
@@ -998,5 +999,47 @@
       ],
       "source_url": "https://www.thenationalnews.com/business/energy/2025/12/01/iraq-invites-us-companies-to-bid-on-west-qurna-2-oilfield"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Boehly consortium membership (IHC, Allied, Al Hail, the Al-Khayyat brothers, the DFC at a mid-teens stake) and the escrowed swap structure",
+      "Al-Khayyat brothers as Kushner's partners in the Albania Sazan project",
+      "NYT (3 Oct 2026): Putin raised the Lukoil sale with Witkoff and Kushner on 5 Sep 2026",
+      "Status through Nov 2026: whether a sale was signed or the OFAC licence extended"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Relationship todd-boehly -> lukoil-international-gmbh carried amount_usd 22B, which was Gunvor's 2025 price, not a Boehly bid; removed the amount and noted no price has been disclosed.",
+      "Consortium: noted that FT and Reuters both rest on anonymous sources and that the structure is unsettled; added IHC's no-comment.",
+      "OFAC: added GL 131K's no-prior-benefit condition and resale review requirement. No signed deal or extension beyond 21 Nov 2026 found as of 14 Nov 2026.",
+      "Al-Khayyat-Kushner: re-confirmed as documented (NYT 19 Apr 2026 via Balkanweb; CBS; OCCRP). C76's grade updated to match.",
+      "NYT/Putin item stays single-source (three people briefed); Witkoff's denial and the NYT's no-personal-profit finding are recorded."
+    ],
+    "new_sources": [
+      {
+        "title": "OFAC GL 131K: One More Month for the Lukoil Deal, No New Conditions",
+        "publisher": "FesenkoLaw",
+        "url": "https://fesenkolaw.com/blog/ofac-gl-131k-one-more-month-for-the-lukoil-deal/",
+        "date": "2026-10"
+      },
+      {
+        "title": "US billionaire leads swap plan to buy Lukoil's overseas assets, sources say",
+        "publisher": "Reuters via AJOT",
+        "url": "https://www.ajot.com/news/exclusive-us-billionaire-leads-swap-plan-to-buy-lukoils-overseas-assets-sources-say",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
+        "publisher": "Cyprus Mail (Reuters)",
+        "url": "https://cyprus-mail.com/2026/10/03/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-nyt-reports",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "Kushner-Linked Albania Project Backed by Qatari Billionaires",
+        "publisher": "Politis",
+        "url": "https://en.politis.com.cy/news/world/1014327/kushner-linked-albania-project-backed-by-qatari-billionaires",
+        "date": "2026"
+      }
+    ]
+  }
 }

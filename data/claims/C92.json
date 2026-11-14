@@ -8,7 +8,7 @@
     {
       "statement": "The two lists: the White House's October 2025 roster (about 37 names, no amounts) and the Washington Post's leaked spreadsheet (October 2026: 67 donations above $10,000, about $333M).",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented for the October 2025 list (White House release relayed by AP, CNBC, Fortune, Spectrum/NBC). The White House named donors on 2025-10-23, after a 2025-10-15 East Room dinner, gave no amounts and said the list was incomplete. Outlets count 36 or 37 names (21 corporations plus 15-16 individuals or family foundations). Single-source for the spreadsheet: the Post published it on 2026-10-15, and other outlets relay it. It records 67 donations above $10,000 totalling about $333M as of late September 2026, at least $77M of it from donors who asked for anonymity. It excludes in-kind gifts and does not list Trump. Reuters said it had not verified the document. The White House called the conflict concerns 'fake' and vowed to find the leaker. The Post itself says its reporting does not show that any donation led to a government action.",
+      "finding": "Evidence grade: documented for the October 2025 list (White House release relayed by AP, CNBC, Fortune, Spectrum/NBC). The White House named donors on 2025-10-23, after a 2025-10-15 East Room dinner, gave no amounts and said the list was incomplete. Outlets count 36 or 37 names (21 corporations plus 15-16 individuals or family foundations). Single-source for the spreadsheet: the Post published it on 2026-10-15, and other outlets relay it. It records 67 donations above $10,000 totalling about $333M as of late September 2026, at least $77M of it from donors who asked for anonymity. It excludes in-kind gifts and does not list Trump. Reuters said it had not verified the document. The White House called the conflict concerns 'fake' and vowed to find the leaker. The Post itself says its reporting does not show that any donation led to a government action. Audit: the 67 donations / ~$333M / at least $77M anonymous figures are confirmed across several relays (IBTimes, Mediaite, NPR affiliates WYPR/KJZZ). One NPR-affiliate transcript speaks of about 57 major donors, so donor counts vary by outlet.",
       "sources": [
         "https://www.cnbc.com/2025/10/23/trump-white-house-east-wing-ballroom-donors-apple-amazon-meta-microsoft-google.html",
         "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/",
@@ -17,7 +17,8 @@
         "https://mediaite.com/media/news/report-reveals-top-donors-to-trumps-ballroom-as-wh-vows-to-relentlessly-pursue-cowardly-leakers",
         "https://www.ibtimes.co.uk/apple-nvidia-trump-white-house-ballroom-donations-1826051",
         "https://politicalwire.com/2026/10/15/secret-documents-reveal-donors-behind-trumps-ballroom/",
-        "https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/"
+        "https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/",
+        "https://www.wypr.org/2026-10-16/investigation-details-who-donated-to-the-white-house-ballroom-project"
       ]
     },
     {
@@ -50,7 +51,7 @@
     {
       "statement": "Charles Ergen/EchoStar ($25M): the FCC closed its EchoStar probe on 2025-09-08, three months before his first anonymous $12.5M. It approved the $40B AT&T and SpaceX spectrum sales on 2026-05-12, about three months after his second $12.5M.",
       "verdict": "partly-accurate",
-      "finding": "Evidence grade: documented FCC actions (Satellite Today, Fierce, Advanced Television); gift dates single-source (WaPo); the link is inferred. Carr's 8 Sep 2025 letter told staff to wrap up the 5G buildout probe hours after EchoStar agreed to sell spectrum to SpaceX for about $17B, a couple of weeks after a roughly $23B sale to AT&T. Both later actions fall within six months of a tranche. Cuts against: the probe closed before any gift, so the sequence fits gratitude at most, not an exchange, and that too is unsourced. The May 2026 approval imposed a $2.4B escrow condition that EchoStar protested (C69). Ergen's anonymity request for the first tranche is documented in the leak. This extends C69, which dated only the 2026 order.",
+      "finding": "Evidence grade: documented FCC actions (Satellite Today, Fierce, Advanced Television); gift dates single-source (WaPo); the link is inferred. Carr's 8 Sep 2025 letter told staff to wrap up the 5G buildout probe hours after EchoStar agreed to sell spectrum to SpaceX for about $17B, a couple of weeks after a roughly $23B sale to AT&T. Both later actions fall within six months of a tranche. Cuts against: the probe closed before any gift, so the sequence fits gratitude at most, not an exchange, and that too is unsourced. The May 2026 approval imposed a $2.4B escrow condition that EchoStar protested (C69). Ergen's anonymity request for the first tranche is documented in the leak. This extends C69, which dated only the 2026 order. Audit: Ergen's two $12.5M tranches (Dec 2025, anonymous at his request; Feb 2026) are confirmed in the leak coverage; Ergen and EchoStar declined to comment.",
       "sources": [
         "https://www.satellitetoday.com/connectivity/2025/09/09/fcc-closes-investigation-of-echostar-after-spectrum-sales/",
         "https://www.fierce-network.com/wireless/fcc-ends-investigation-echostars-5g-build-spectrum-use",
@@ -62,27 +63,30 @@
     {
       "statement": "Rocket Companies (a subsidiary, $10M): the pledge came about three weeks after the FHFA approved Rocket's $9.4B Mr. Cooper takeover (2025-08-26). Rocket was not on the public list.",
       "verdict": "mostly-accurate",
-      "finding": "Evidence grade: documented approval (HousingWire, MPA); single-source gift and timing (the Post, relayed by IBTimes and Alternet). This is the one pairing the Post itself sets out, and it says the record does not show causation. The FHFA, led by Bill Pulte, cleared the deal with 20% concentration caps at Fannie and Freddie, which cuts slightly against a pure favour reading. An earlier layer is just outside six months: the CFPB dismissed its kickback suit against Rocket Homes with prejudice on 2025-02-27, about 6.5 months before the gift. The gift is among the roughly 30 donations kept off the October 2025 list.",
+      "finding": "Evidence grade: documented approval (HousingWire, MPA); single-source gift and timing (the Post, relayed by IBTimes and Alternet). This is the one pairing the Post itself sets out, and it says the record does not show causation. The FHFA, led by Bill Pulte, cleared the deal with 20% concentration caps at Fannie and Freddie, which cuts slightly against a pure favour reading. An earlier layer is just outside six months: the CFPB dismissed its kickback suit against Rocket Homes with prejudice on 2025-02-27, about 6.5 months before the gift. The gift is among the roughly 30 donations kept off the October 2025 list. Audit: the FHFA approval (26-27 Aug 2025, 20% caps) is confirmed by the FHFA's own release and trade press. Two fresh searches did not surface the $10M Rocket pledge outside the outlets already cited, so the gift and its timing were not independently re-confirmed and remain single-source (the Post via IBTimes/Alternet).",
       "sources": [
         "https://www.housingwire.com/articles/fhfa-clears-rockets-9-4b-acquisition-of-mr-cooper-with-safeguards/",
         "https://www.mpamag.com/us/mortgage-industry/business-growth/fhfa-approves-rockets-94bn-mr-cooper-deal-with-market-share-cap/547704",
         "https://www.ibtimes.co.uk/apple-nvidia-trump-white-house-ballroom-donations-1826051",
         "https://alternet.org/trump-ballroom-donors",
         "https://www.americanbanker.com/news/cfpb-tosses-suits-against-rocket-vanderbilt-jason-mitchell",
-        "https://therealdeal.com/national/2025/02/28/rocket-homes-spared-from-cfpb-enforcement"
+        "https://therealdeal.com/national/2025/02/28/rocket-homes-spared-from-cfpb-enforcement",
+        "https://www.fhfa.gov/news/news-release/us-federal-housing-allows-fannie-freddie-approve-rocket-mr-cooper-acquisition"
       ]
     },
     {
       "statement": "Isabela Herrera ($2.5M, Sep 2025): her father, banker Julio Herrera Velutini, was pardoned on 2026-01-15, about four months later.",
       "verdict": "mostly-accurate",
-      "finding": "Evidence grade: documented pardon (Bloomberg Law, DOJ filing reported by NOTUS); single-source gift (WaPo via secondary outlets); the link is inferred. Separately, she gave MAGA Inc. about $3.5M, and her company hired Alina Habba on a reported deal worth more than $50M over four years. Habba says she had no role in the pardon. A White House official denied that the donations played any part. The pardon also covered ex-governor Wanda Vazquez and Mark Rossini, and the case had already been cut to a misdemeanour plea in August 2025. The Post does not establish a link. Former pardon attorney Liz Oyer called the ballroom a 'money laundering operation', which is opinion.",
+      "finding": "Evidence grade: documented pardon (Bloomberg Law, DOJ filing reported by NOTUS); single-source gift (WaPo via secondary outlets); the link is inferred. Separately, she gave MAGA Inc. about $3.5M, and her company hired Alina Habba on a reported deal worth more than $50M over four years. Habba says she had no role in the pardon. A White House official denied that the donations played any part. The pardon also covered ex-governor Wanda Vazquez and Mark Rossini, and the case had already been cut to a misdemeanour plea in August 2025. The Post does not establish a link. Former pardon attorney Liz Oyer called the ballroom a 'money laundering operation', which is opinion. Audit: confirmed via Telemundo/EFE and Primera Hora. Her MAGA Inc. gifts were $2.5M on 31 Dec 2024, while her father faced bribery charges, and $1M in late July 2025, after the most serious charges were dropped. The ballroom pledge came about two months after the second gift. The Campaign Legal Center has filed an FEC complaint alleging Herrera Velutini, a Venezuelan national, may have funded the contributions through his daughter (an allegation). The Habba contract figure varies: '>$50M over four years' (Law Commentary) vs. '$40M' in a secondary summary of NYT reporting.",
       "sources": [
         "https://news.bloomberglaw.com/business-and-practice/trump-to-pardon-venezuelan-banker-ex-puerto-rico-governor-82",
         "https://www.notus.org/courts/wanda-vazquez-garced-puerto-rico-pardon",
         "https://www.riotimesonline.com/trump-pardon-puerto-rico-banker-scrutiny/",
         "https://www.lawcommentary.com/articles/trump-pardon-alina-habba-50-million-deal",
         "https://www.ibtimes.co.uk/apple-nvidia-trump-white-house-ballroom-donations-1826051",
-        "https://dnyuz.com/2026/10/15/white-house-money-laundering-operation-exposed-by-ex-doj-pardon-attorney-shady/"
+        "https://dnyuz.com/2026/10/15/white-house-money-laundering-operation-exposed-by-ex-doj-pardon-attorney-shady/",
+        "https://www.telemundo.com/noticias/noticias-telemundo/estados-unidos/hija-de-banquero-venezolano-hace-millonaria-donacion-trump-indulto-rcna603891",
+        "https://www.primerahora.com/noticias/estados-unidos/notas/hija-de-julio-herrera-velutini-hizo-millonaria-donacion-antes-de-que-trump-indultara-a-su-padre/"
       ]
     },
     {
@@ -237,7 +241,8 @@
     "The Washington Post says its reporting does not show that any donation led to a government action, and does not suggest Popolo's ambassadorship resulted from his gift.",
     "Nvidia says its support was independent of business interests (C68). AT&T denies giving. Habba denies any role in the Herrera pardon. Gemini disputes Quintenz's account of the texts.",
     "Gift dates are mostly unknown: only the 2025-10-23 list date and the 2026-10-15 leak date are public for most donors, so most six-month windows are measured from the list date, and a gift could sit on either side of an official act.",
-    "Several official acts were general rules or batch decisions (the chip-tariff exemption for US investors, the five-charter OCC batch, Trump's order to renegotiate all CHIPS awards), and several donors received adverse treatment (Booz Allen, Comcast, Union Pacific, Meta, Google, Amazon)."
+    "Several official acts were general rules or batch decisions (the chip-tariff exemption for US investors, the five-charter OCC batch, Trump's order to renegotiate all CHIPS awards), and several donors received adverse treatment (Booz Allen, Comcast, Union Pacific, Meta, Google, Amazon).",
+    "Ergen and EchoStar declined to comment on his gift. The Campaign Legal Center's FEC complaint about the Herrera MAGA Inc. contributions is an allegation, not a finding."
   ],
   "sources": [
     {
@@ -1258,7 +1263,7 @@
     {
       "source": "rocket-companies",
       "target": "white-house-ballroom",
-      "label": "subsidiary pledged $10M ~3 weeks after FHFA approval (WaPo)",
+      "label": "subsidiary pledged $10M ~3 weeks after FHFA approval (WaPo leak, single-source)",
       "type": "money",
       "date": "2025-09",
       "amount_usd": 10000000
@@ -1411,7 +1416,7 @@
     {
       "source": "isabela-herrera",
       "target": "alina-habba",
-      "label": "company hired (reported >$50M over 4 years)",
+      "label": "company hired (reported >$50M over 4 years; another account says $40M)",
       "type": "commercial"
     },
     {
@@ -1771,5 +1776,53 @@
       ],
       "source_url": "https://engadget.com/2287913/trump-ballrooms-biggest-donors-were-overwelmingly-tech-and-telecom-companies/"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "The Washington Post's leaked spreadsheet: 67 donations above $10,000, about $333M, at least $77M anonymous",
+      "Rocket: $10M pledge about three weeks after the FHFA approved the $9.4B Mr. Cooper deal",
+      "Isabela Herrera's $2.5M pledge (Sep 2025) and her father's pardon (Jan 2026)",
+      "Ergen's $25M in two $12.5M tranches around FCC actions on EchoStar"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Spreadsheet totals confirmed; noted that donor counts vary by outlet (one NPR-affiliate transcript says about 57 major donors).",
+      "Rocket: FHFA approval confirmed by the FHFA's release; the $10M pledge could not be independently re-confirmed in two searches, so it is now explicitly labelled single-source in the finding and relationship label.",
+      "Herrera: added the dated MAGA Inc. gifts (Dec 2024, Jul 2025), the Campaign Legal Center FEC complaint (allegation), and the $40M vs >$50M discrepancy on the Habba contract.",
+      "Ergen: tranche timing confirmed; recorded that Ergen and EchoStar declined to comment.",
+      "All gift-to-decision links remain inferred, as the claim already states."
+    ],
+    "new_sources": [
+      {
+        "title": "Investigation details who donated to the White House ballroom project",
+        "publisher": "WYPR (NPR)",
+        "url": "https://www.wypr.org/2026-10-16/investigation-details-who-donated-to-the-white-house-ballroom-project",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "U.S. Federal Housing allows Fannie, Freddie to approve Rocket-Mr. Cooper acquisition",
+        "publisher": "FHFA",
+        "url": "https://www.fhfa.gov/news/news-release/us-federal-housing-allows-fannie-freddie-approve-rocket-mr-cooper-acquisition",
+        "date": "2025-08"
+      },
+      {
+        "title": "Hija de banquero venezolano hace millonaria donacion a Trump antes del indulto",
+        "publisher": "Telemundo",
+        "url": "https://www.telemundo.com/noticias/noticias-telemundo/estados-unidos/hija-de-banquero-venezolano-hace-millonaria-donacion-trump-indulto-rcna603891",
+        "date": "2026-10"
+      },
+      {
+        "title": "Hija de Julio Herrera Velutini hizo millonaria donación antes de que Trump indultara a su padre",
+        "publisher": "Primera Hora",
+        "url": "https://www.primerahora.com/noticias/estados-unidos/notas/hija-de-julio-herrera-velutini-hizo-millonaria-donacion-antes-de-que-trump-indultara-a-su-padre/",
+        "date": "2026-10"
+      },
+      {
+        "title": "Apple, Nvidia, Ergen each give $25M for Trump project",
+        "publisher": "Mobile World Live",
+        "url": "https://mobileworldlive.com/nvidia/apple-nvidia-ergen-each-give-25m-for-trump-project",
+        "date": "2026-10"
+      }
+    ]
+  }
 }

@@ -10,7 +10,7 @@ tags:
 ---
 # Pam Bondi
 
-Attorney General Feb 2025 - Apr 2, 2026 (succeeded by Todd Blanche); ex-Ballard lobbyist for Qatar.
+U.S. Attorney General Feb 2025 - Apr 2, 2026 (fired; succeeded by Todd Blanche); former Ballard lobbyist
 
 | | |
 |---|---|
@@ -20,11 +20,11 @@ Attorney General Feb 2025 - Apr 2, 2026 (succeeded by Todd Blanche); ex-Ballard 
 
 ## How other claims describe it
 
+- Attorney General Feb 2025 - Apr 2, 2026 (succeeded by Todd Blanche); ex-Ballard lobbyist for Qatar.
+- Attorney General Feb 2025 - Apr 2, 2026; ex-Ballard Qatar FARA registrant; signed jet memo
 - Attorney General Feb 2025 - Apr 2, 2026; former Ballard lobbyist on the Qatar account
 - Former AG; ex-Ballard lobbyist registered for Qatar; signed jet memo
-- Attorney General; ex-Ballard Qatar FARA registrant; signed jet memo
 - Former Attorney General; restored Gibson's gun rights
-- U.S. Attorney General; former Ballard lobbyist
 
 ## Appears in claims
 
@@ -60,7 +60,7 @@ Attorney General Feb 2025 - Apr 2, 2026 (succeeded by Todd Blanche); ex-Ballard 
 
 - [[Chad Mizelle]] *chief of staff to* [[Pam Bondi]] · 2025-01 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Donald Trump]] *appointed Attorney General* [[Pam Bondi]] · 2025-02 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
-- [[Pam Bondi]] *heads (Attorney General)* [[US Department of Justice]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Pam Bondi]] *headed (Attorney General, Feb 2025 - Apr 2, 2026)* [[US Department of Justice]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
 ### Legal (2)
 

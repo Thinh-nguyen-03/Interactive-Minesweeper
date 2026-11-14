@@ -50,7 +50,7 @@ $300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from go
 ### Ownership (5)
 
 - [[New America Sponsor I LLC]] *sponsor of* [[New America Acquisition I Corp]] · 2025 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
-- [[Kevin McGurn]] *chairman, CEO and CFO; indirect interest in 1M founder shares* [[New America Acquisition I Corp]] · 2025-07 · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Kevin McGurn]] *chairman, CEO and CFO (resigned as CEO and director Aug 5, 2026); indirect interest in 1M founder shares* [[New America Acquisition I Corp]] · 2025-07 · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Kevin McGurn]] *chairman/CEO/CFO, then CEO; sponsor member (resigned Aug 5, 2026)* [[New America Acquisition I Corp]] · 2025-07 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump Jr]] *backer* [[New America Acquisition I Corp]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Eric Trump]] *backer* [[New America Acquisition I Corp]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
@@ -85,6 +85,7 @@ $300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from go
 
 ### Commercial (17)
 
+- [[Kevin McGurn]] *chairman, CEO and CFO (later CEO only); resigned effective Aug 5, 2026* [[New America Acquisition I Corp]] · 2025-07/2026-08-05 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[D. Boral Capital]] *co-lead underwriter* [[New America Acquisition I Corp]] · 2025-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[D. Boral Capital]] *co-lead underwriter of $345M IPO* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[D. Boral Capital]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C27 New America Acquisition I Corp SPAC|C27]]
@@ -100,7 +101,6 @@ $300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from go
 - [[Kyle Wool]] *chairman (Feb 2026), CEO (Aug 2026)* [[New America Acquisition I Corp]] · 2026-02-06 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Stefan Passantino]] *independent director* [[New America Acquisition I Corp]] · 2026-02-06 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Kevin McGurn]] *CEO/director until resignation* [[New America Acquisition I Corp]] · 2026-08-05 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
-- [[Kevin McGurn]] *chairman, CEO and CFO* [[New America Acquisition I Corp]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[New America Acquisition I Corp]] *targets firms reliant on contracts from* [[US federal government]] · $300M · [[C27 New America Acquisition I Corp SPAC|C27]]
 
 ## Themes

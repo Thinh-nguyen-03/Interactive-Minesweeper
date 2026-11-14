@@ -40,7 +40,7 @@ Antitrust review of PGA Tour-PIF framework since 2023
 
 ### Political (1)
 
-- [[Pam Bondi]] *heads (Attorney General)* [[US Department of Justice]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Pam Bondi]] *headed (Attorney General, Feb 2025 - Apr 2, 2026)* [[US Department of Justice]] · 2025-02 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
 ### Legal (1)
 

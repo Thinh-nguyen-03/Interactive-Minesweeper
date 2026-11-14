@@ -2,8 +2,8 @@
 id: "anchorage-digital"
 kind: "entity"
 type: "company"
-connections: 13
-claims: 6
+connections: 14
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ Crypto bank; Atkins held equity; TMTG custodian and USAT issuer
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 6 claims |
-| Connections | 13 |
+| Appears in | 7 claims |
+| Connections | 14 |
 
 ## How other claims describe it
 
@@ -34,6 +34,7 @@ Crypto bank; Atkins held equity; TMTG custodian and USAT issuer
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 
@@ -50,11 +51,12 @@ Crypto bank; Atkins held equity; TMTG custodian and USAT issuer
 
 - [[Office of the Comptroller of the Currency]] *terminated 2022 AML consent order* [[Anchorage Digital]] · 2025-08-21 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 
-### Commercial (6)
+### Commercial (7)
 
 - [[Anchorage Digital]] *custodian/collateral manager for bitcoin financing* [[Cantor Fitzgerald]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Anchorage Digital]] *bitcoin co-custodian* [[Trump Media & Technology Group]] · 2025-05 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Anchorage Digital]] *custodian for bitcoin treasury* [[Trump Media & Technology Group]] · 2025-05-27 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Anchorage Digital]] *issues USAT* [[Tether]] · 2026-01-27 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Anchorage Digital]] *issuer* [[USAT]] · 2026-01-27 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Anchorage Digital]] *issuer of* [[USAT]] · 2026-01-27 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Anchorage Digital]] *custodian for* [[Cantor bitcoin financing business]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]

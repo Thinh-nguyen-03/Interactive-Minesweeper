@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "PolyMarket"
-connections: 21
-claims: 7
+connections: 23
+claims: 8
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Prediction market company; Don Jr. on advisory board; subject of CFTC probe.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 7 claims |
-| Connections | 21 |
+| Appears in | 8 claims |
+| Connections | 23 |
 | Also known as | PolyMarket |
 
 ## How other claims describe it
@@ -38,17 +38,20 @@ Prediction market company; Don Jr. on advisory board; subject of CFTC probe.
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 
-### Money (9)
+### Money (11)
 
 - [[Polymarket]] *first federal lobbyist* [[David Urban]] · 2025-07 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Polymarket]] *acquired for $112M* [[QCEX (QCX LLC QC Clearing LLC)]] · 2025-07 · $112M · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[1789 Capital]] *invested in* [[Polymarket]] · 2025-08 · [[C26 1789 Capital and Vulcan Elements|C26]] [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[1789 Capital]] *invested* [[Polymarket]] · 2025-08-26 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[1789 Capital]] *strategic investment* [[Polymarket]] · 2025-08-26 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[1789 Capital]] *strategic investment (double-digit millions, reported)* [[Polymarket]] · 2025-08-26 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[1789 Capital]] *strategic investment (eight figures)* [[Polymarket]] · 2025-08-26 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[Intercontinental Exchange (ICE)]] *invested up to $2B* [[Polymarket]] · 2025-10-07 · $2B · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Gannon Ken Van Dyke]] *allegedly won ~$400K betting on Maduro ouster* [[Polymarket]] · 2026-01 · $400K · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[1789 Capital]] *confirmed plans to invest about $300M in a roughly $1B round at a $21B valuation (total stake reported at about $500M)* [[Polymarket]] · 2026-08 · $300M · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[1789 Capital]] *planned ~$300M in $1B round (total ~$500M)* [[Polymarket]] · 2026-08-31 · $300M · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
@@ -62,10 +65,11 @@ Prediction market company; Don Jr. on advisory board; subject of CFTC probe.
 - [[Commodity Futures Trading Commission]] *closed earlier probe* [[Polymarket]] · 2025-07 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Commodity Futures Trading Commission]] *closed investigation into* [[Polymarket]] · 2025-07-15 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 
-### Advisory (6)
+### Advisory (7)
 
 - [[Donald Trump Jr]] *adviser and investor (via 1789 Capital)* [[Polymarket]] · 2025-08 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Donald Trump Jr]] *advisory board* [[Polymarket]] · 2025-08 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Donald Trump Jr]] *adviser and investor* [[Polymarket]] · 2025-08-26 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Donald Trump Jr]] *advisory board member* [[Polymarket]] · 2025-08-26 · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Donald Trump Jr]] *joined advisory board* [[Polymarket]] · 2025-08-26 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
 - [[Donald Trump Jr]] *advisory board member of* [[Polymarket]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]

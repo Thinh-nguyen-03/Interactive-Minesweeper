@@ -64,6 +64,8 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 ## Follow-up checks
 
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
+- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Sub-claims
 
@@ -304,7 +306,7 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - [[Omeed Malik]] · Person
 - [[OpenAI]] · Company
 - [[Oracle]] · Company
-- [[Palantir]] · Company
+- [[Palantir Technologies (PLTR)]] · Company
 - [[Paramount]] · Company
 - [[Pentagon (Department of Defense)]] · Government body
 - [[Peter Thiel]] · Person
@@ -317,7 +319,7 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - [[Skydance Media]] · Company
 - [[SpaceX]] · Company
 - [[Thrive Capital]] · Fund
-- [[TikTok USDS Joint Venture LLC]] · Company
+- [[TikTok USDS Joint Venture]] · Company
 - [[US Department of Commerce]] · Government body
 - [[US Department of Justice]] · Government body
 - [[Warner Bros. Discovery]] · Company
@@ -344,12 +346,12 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - [[Donald Trump]] *bought shares ($1M-$5M on 2026-02-10, 278-T)* [[Nvidia]] · 2026-02-10 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Paramount]] *paid termination fee* [[Netflix]] · 2026-02-27 · $2.8B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[MGX]] *co-lead investor in $122B round* [[OpenAI]] · 2026-03-31 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir]] · 2026-04-10 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Amazon]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Meta]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Microsoft]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Nvidia]] *committed, anonymously (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $25M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Palantir]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Palantir Technologies (PLTR)]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Donald Trump]] *bought shares ($2.2M-$10.6M, Q1 2026 278-T)* [[Oracle]] · 2026-Q1 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 
 ### Ownership (18)
@@ -359,9 +361,9 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - [[Donald Trump Jr]] *partner* [[1789 Capital]] · 2024-11 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[1789 Capital]] *investor (pre-IPO)* [[SpaceX]] · 2025 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[1789 Capital]] *investor (>$50M across xAI and SpaceX, reported)* [[xAI]] · 2025 · $50M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[MGX]] *15% owner* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Oracle]] *15% owner, security partner* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Silver Lake]] *15% owner* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[MGX]] *15% owner* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Oracle]] *15% owner, security partner* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Silver Lake]] *15% owner* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[SpaceX]] *acquired in all-stock merger* [[xAI]] · 2026-02 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Affinity Partners]] *~1.1% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Public Investment Fund (Saudi Arabia)]] *~93.4% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
@@ -369,7 +371,7 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 - [[Paramount]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-10-06 · $81B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Josh Kushner]] *founder* [[Thrive Capital]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Larry Ellison]] *co-founder, largest shareholder* [[Oracle]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Peter Thiel]] *co-founder* [[Palantir]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Peter Thiel]] *co-founder* [[Palantir Technologies (PLTR)]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Sheikh Tahnoon bin Zayed]] *chairman* [[MGX]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Warner Bros. Discovery]] *owns* [[CNN]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 
@@ -381,7 +383,7 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 ### Regulatory (6)
 
 - [[Federal Communications Commission]] *approved Skydance merger* [[Paramount]] · 2025-07-24 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Donald Trump]] *approved by executive order* [[TikTok USDS Joint Venture LLC]] · 2025-09-25 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Donald Trump]] *approved by executive order* [[TikTok USDS Joint Venture]] · 2025-09-25 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]] [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 - [[US Department of Commerce]] *licensed UAE/Saudi chip exports* [[Nvidia]] · 2025-11 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Donald Trump]] *allowed H200 China sales with 25% cut to US* [[Nvidia]] · 2025-12-08 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Donald Trump]] *signed* [[EO 'Ensuring a National Policy Framework for AI']] · 2025-12-11 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
@@ -407,9 +409,9 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
 
 - [[Lisa Monaco]] *president of global affairs* [[Microsoft]] · 2025 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Oracle]] *initial equity partner* [[Project Stargate]] · 2025-01-21 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[ICE]] *ImmigrationOS contract* [[Palantir]] · 2025-04 · $30M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[ICE]] *ImmigrationOS contract* [[Palantir Technologies (PLTR)]] · 2025-04 · $30M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Pentagon (Department of Defense)]] *CDAO AI contract (ceiling)* [[xAI]] · 2025-07 · $200M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir]] · 2025-07-31 · $10B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir Technologies (PLTR)]] · 2025-07-31 · $10B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[OpenAI]] *~$300B 5-year compute contract (WSJ)* [[Oracle]] · 2025-09-10 · $300B · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 
 ## Leads not covered here
@@ -428,7 +430,7 @@ Nearly every principal named in the brief is documented as both paying Trump, hi
   - [[Leading the Future]] [[Greg Brockman]] [[Andreessen Horowitz (a16z crypto)]] [[EO 'Ensuring a National Policy Framework for AI']] · [Source](https://axios.com/2025/12/11/trump-signs-executive-order-state-ai-laws)
 - **Washington Post ballroom spreadsheet: anonymous donors vs. pending decisions**
   - Nvidia's $25M was hidden from the October 2025 list; 67 donations total ~$333M.
-  - [[Nvidia]] [[White House ballroom]] [[Palantir]] [[Microsoft]] · [Source](https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors)
+  - [[Nvidia]] [[White House ballroom]] [[Palantir Technologies (PLTR)]] [[Microsoft]] · [Source](https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors)
 
 ## Sources (76)
 

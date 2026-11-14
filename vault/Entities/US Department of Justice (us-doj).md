@@ -5,8 +5,8 @@ type: "government"
 aliases:
   - "Department of Justice"
   - "U.S. Department of Justice"
-connections: 26
-claims: 10
+connections: 28
+claims: 11
 tags:
   - "entity"
   - "type/government"
@@ -18,8 +18,8 @@ Received Blumenthal's Tether referral; reportedly asked Commerce to pause the Me
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 10 claims |
-| Connections | 26 |
+| Appears in | 11 claims |
+| Connections | 28 |
 | Also known as | Department of Justice; U.S. Department of Justice |
 
 ## How other claims describe it
@@ -42,6 +42,7 @@ Received Blumenthal's Tether referral; reportedly asked Commerce to pause the Me
 - [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 
@@ -58,12 +59,12 @@ Received Blumenthal's Tether referral; reportedly asked Commerce to pause the Me
 ### Political (5)
 
 - [[Harmeet Dhillon]] *Assistant AG for Civil Rights at* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Todd Blanche]] *Deputy AG, acting AG (Apr 2026), then confirmed Attorney General (Aug 8, 2026) of* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Todd Blanche]] *Deputy AG, acting AG (Apr 2026), then confirmed (Aug 8, 2026) and sworn in (Aug 10, 2026) as Attorney General of* [[US Department of Justice (us-doj)]] · 2025 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Chad Mizelle]] *chief of staff at* [[US Department of Justice (us-doj)]] · 2025-01 · [[C61 Shared lawyers and law firms across the deals|C61]]
 - [[Jack Reed]] *co-signed letters asking for WLF probe* [[US Department of Justice (us-doj)]] · 2025-11-18 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Todd Blanche]] *Deputy AG; acting AG from Apr 2, 2026* [[US Department of Justice (us-doj)]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Todd Blanche]] *Deputy AG; acting AG from Apr 2, 2026; confirmed AG Aug 8, 2026, sworn in Aug 10, 2026* [[US Department of Justice (us-doj)]] · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 
-### Legal (11)
+### Legal (12)
 
 - [[US Department of Justice (us-doj)]] *secured guilty plea (BSA/AML) from* [[Changpeng Zhao]] · 2023-11 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[US Department of Justice (us-doj)]] *closed probe* [[Polymarket]] · 2025-07 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
@@ -72,6 +73,7 @@ Received Blumenthal's Tether referral; reportedly asked Commerce to pause the Me
 - [[Polymarket]] *referred suspicious Maduro trades* [[US Department of Justice (us-doj)]] · 2026 · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[US Department of Justice (us-doj)]] *assisting oil-futures insider probe* [[Commodity Futures Trading Commission]] · 2026-04 · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[US Department of Justice (us-doj)]] *indicted for Polymarket bets on Maduro raid* [[Gannon Ken Van Dyke]] · 2026-04-23 · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[US Department of Justice (us-doj)]] *iPhone antitrust suit; settlement talks reported* [[Apple]] · 2026-07 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Liz Oyer]] *sued for reinstatement* [[US Department of Justice (us-doj)]] · 2026-09-03 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Richard Blumenthal]] *referred Tether findings to* [[US Department of Justice (us-doj)]] · 2026-09-28 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[US Department of Justice (us-doj)]] *co-plaintiff in suit against* [[State of Utah]] · 2026-10-27 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]

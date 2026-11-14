@@ -2,8 +2,8 @@
 id: "mgx"
 kind: "entity"
 type: "company"
-connections: 25
-claims: 9
+connections: 28
+claims: 11
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ Abu Dhabi investment firm chaired by Tahnoon; invested $2B in Binance via USD1; 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 9 claims |
-| Connections | 25 |
+| Appears in | 11 claims |
+| Connections | 28 |
 
 ## How other claims describe it
 
@@ -37,6 +37,8 @@ Abu Dhabi investment firm chaired by Tahnoon; invested $2B in Binance via USD1; 
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
 
 ## Relationships
 
@@ -60,17 +62,19 @@ Abu Dhabi investment firm chaired by Tahnoon; invested $2B in Binance via USD1; 
 - [[MGX]] *made* [[MGX $2B investment in Binance]] · $2B · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[MGX]] *investing partner in* [[Project Stargate]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
 
-### Ownership (14)
+### Ownership (16)
 
+- [[Mubadala]] *founding partner of* [[MGX]] · 2024 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[G42]] *co-founded* [[MGX]] · 2024-03 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
 - [[G42]] *founding partner of* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Mubadala]] *co-founded* [[MGX]] · 2024-03 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[MGX]] *co-founded* [[AI Infrastructure Partnership]] · 2024-09 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[MGX]] *founding partner of* [[AI Infrastructure Partnership]] · 2024-09 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[MGX]] *15% owner* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[MGX]] *15% stake* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[MGX]] *owns 15% of* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
+- [[MGX]] *co-invested with Silver Lake in* [[Altera]] · 2025-09-16 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[MGX]] *15% owner* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[MGX]] *15% stake* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[MGX]] *owns 15% of* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[MGX]] *co-acquired (~$40B EV)* [[Aligned Data Centers]] · 2026-07 · $40B · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[MGX]] *based in / state-linked to* [[United Arab Emirates]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[MGX]] *state-linked firm of* [[United Arab Emirates]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]]

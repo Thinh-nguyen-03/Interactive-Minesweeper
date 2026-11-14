@@ -2,8 +2,8 @@
 id: "ib-challenger"
 kind: "entity"
 type: "company"
-connections: 3
-claims: 1
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/company"
@@ -15,19 +15,26 @@ Dubai entity affiliated with the IBA through which the wedding payments were mad
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
-| Connections | 3 |
+| Appears in | 2 claims |
+| Connections | 4 |
+
+## How other claims describe it
+
+- Dubai entity affiliated with the IBA that paid for the wedding events
 
 ## Appears in claims
 
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
+- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
 
 ## Relationships
 
-### Money (1)
+### Money (2)
 
 - [[IB Challenger]] *made wedding payments via* [[Donald Trump Jr]] · 2026-05 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[IB Challenger]] *payment vehicle for the wedding-event costs* [[Donald Trump Jr]] · 2026-05 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
 
-### Ownership (1)
+### Ownership (2)
 
+- [[IB Challenger]] *Dubai entity affiliated with* [[International Boxing Association (IBA)]] · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
 - [[International Boxing Association (IBA)]] *affiliated Dubai entity* [[IB Challenger]] · [[C76 Russia-linked money around the family and envoys|C76]]

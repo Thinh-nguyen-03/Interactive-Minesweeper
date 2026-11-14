@@ -5,8 +5,8 @@ type: "media"
 aliases:
   - "NYT"
   - "New York Times"
-connections: 40
-claims: 21
+connections: 41
+claims: 22
 tags:
   - "entity"
   - "type/media"
@@ -18,8 +18,8 @@ Reported Affinity's $5B raise.
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 21 claims |
-| Connections | 40 |
+| Appears in | 22 claims |
+| Connections | 41 |
 | Also known as | NYT; New York Times |
 
 ## How other claims describe it
@@ -53,6 +53,7 @@ Reported Affinity's $5B raise.
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Relationships
 

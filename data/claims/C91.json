@@ -8,13 +8,14 @@
     {
       "statement": "Hayes and Wool were granted 10M options on Feb. 10, 2025, the day before the Trump sons' advisory roles were announced.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented (Dominari 8-K, 10-Q and FY2025 annual report, via search excerpts; sec.gov was blocked for direct fetch). The compensation committee granted a nonqualified option on 5,000,000 shares each to Wool and Hayes. The 10-Q describes the options as 'fully vested' and granted on Feb. 10, 2025. The exercise price was fair market value on the grant date, and the options expire after ten years (2/10/2035). The annual report's option table lists 5,000,000 options at a $6.16 exercise price for each executive, and the proxy shows a $30.8M disclosed value per grant (5M x $6.16). The options could not be exercised until stockholders approved a 10M-share increase in the 2022 plan reserve. Aggregator Form 4 listings date the reported awards to Apr. 16, 2025, after that approval. One aggregator's '10,000,000 options to Wool at $3.85' conflicts with the filings and is discarded. The announcement came on Feb. 11, so 'the day before' is accurate. Advisory agreements with the sons were also dated Feb. 10 (C39).",
+      "finding": "Evidence grade: documented (Dominari 8-K, 10-Q and FY2025 annual report, via search excerpts; sec.gov was blocked for direct fetch). The compensation committee granted a nonqualified option on 5,000,000 shares each to Wool and Hayes. The 10-Q describes the options as 'fully vested' and granted on Feb. 10, 2025. The exercise price was fair market value on the grant date, and the options expire after ten years (2/10/2035). The annual report's option table lists 5,000,000 options at a $6.16 exercise price for each executive, and the proxy shows a $30.8M disclosed value per grant (5M x $6.16). The options could not be exercised until stockholders approved a 10M-share increase in the 2022 plan reserve. Aggregator Form 4 listings date the reported awards to Apr. 16, 2025, after that approval. One aggregator's '10,000,000 options to Wool at $3.85' conflicts with the filings and is discarded. The announcement came on Feb. 11, so 'the day before' is accurate. Advisory agreements with the sons were also dated Feb. 10 (C39). Audit: Hayes's Form 4 (signed 16 Apr 2025) confirms the $6.16 exercise price but gives the expiry as 9 Feb 2035 (not 10 Feb) and says the option becomes exercisable on the filing of a Form S-8. The '$30.8M disclosed value' equals 5M x $6.16; the audit could not confirm whether the proxy states it or it was derived.",
       "sources": [
         "https://www.sec.gov/Archives/edgar/data/12239/000121390025012362/ea0230755-8k_dominari.htm",
         "https://www.sec.gov/Archives/edgar/data/12239/000121390025107872/ea0264187-10q_dominari.htm",
         "https://www.sec.gov/Archives/edgar/data/0000012239/000121390026116919/ea0309773-03.pdf",
         "https://www.sec.gov/Archives/edgar/data/12239/000121390025107877/ea0261802-06.htm",
-        "https://fintool.com/app/research/companies/DOMH/people/kyle-wool"
+        "https://fintool.com/app/research/companies/DOMH/people/kyle-wool",
+        "https://quantisnow.com/insight/sec-form-4-filed-by-ceo-hayes-anthony-5990818"
       ]
     },
     {
@@ -31,14 +32,16 @@
     {
       "statement": "Hayes, Wool and other insiders bought stock at $3.47 in the same placement as the Trump sons, on the day of the option grant.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented (Form 4/13D via Investing.com and aggregator listings; Forbes; Barron's). On Feb. 10, 2025 (closing Feb. 12), Wool bought 288,184 shares plus 288,184 Series A warrants ($3.72 strike, Feb. 2030) and Series B warrants for a combined $3.47 per share, about $1M of personal funds. His 13D shows 2,200,769 shares beneficially owned, including 1,241,989 held by his spouse, Soo Yu. Investing.com separately reports Hayes buying in the placement, and an aggregator's Form 4 summary puts his direct holding at 975,007 shares afterwards (single-source). Forbes reports that the CEO, COO, president and four board members together bought 664,000 shares at $3.47. Barron's says the private sale was 2,436,587 shares, and the sons each invested about $1M. Dominari described the $13.5M deal as priced 'at the market under Nasdaq rules'. That price was about 44% below the $6.16 close on the day the options were struck. Our explanation, which no source states, is that the Nasdaq minimum price can use a five-day average, which lags a fast-rising stock. The SEC record shows no open-market buying by Hayes or Wool during the January run-up; their only reported buys are the Feb. 10 placement. This is unverified because Form 4s were not read directly.",
+      "finding": "Evidence grade: documented (Form 4/13D via Investing.com and aggregator listings; Forbes; Barron's). On Feb. 10, 2025 (closing Feb. 12), Wool bought 288,184 shares plus 288,184 Series A warrants ($3.72 strike, Feb. 2030) and Series B warrants for a combined $3.47 per share, about $1M of personal funds. His 13D shows 2,200,769 shares beneficially owned, including 1,241,989 held by his spouse, Soo Yu. Investing.com separately reports Hayes buying in the placement, and an aggregator's Form 4 summary puts his direct holding at 975,007 shares afterwards (single-source). Forbes reports that the CEO, COO, president and four board members together bought 664,000 shares at $3.47. Barron's says the private sale was 2,436,587 shares, and the sons each invested about $1M. Dominari described the $13.5M deal as priced 'at the market under Nasdaq rules'. That price was about 44% below (our arithmetic: $3.47 vs $6.16) the $6.16 close on the day the options were struck. Our explanation, which no source states, is that the Nasdaq minimum price can use a five-day average, which lags a fast-rising stock. The SEC record shows no open-market buying by Hayes or Wool during the January run-up; their only reported buys are the Feb. 10 placement. This is unverified because Form 4s were not read directly. Audit: Investing.com's Form 4 write-ups give Hayes 288,184 shares (the same as Wool), COO Christopher Devall 351,851 and director Kyle Haug 14,409. Those four alone total 942,628 shares (our arithmetic), more than the 664,000 Forbes reports for seven insiders; the discrepancy is unresolved and may reflect how warrants or units were counted. Forbes also reports six insiders received 402,000 bonus shares.",
       "sources": [
         "https://ng.investing.com/news/insider-trading-news/dominari-holdings-president-kyle-wool-buys-shares-worth-1m-93CH-1759054",
         "https://ng.investing.com/news/insider-trading-news/dominari-holdings-ceo-anthony-hayes-acquires-shares-in-private-placement-93CH-1759014",
         "https://quantisnow.com/insight/ceo-hayes-anthony-bought-288184-shares-increasing-direct-ownership-by-42-to-975007-units-5885153",
         "https://www.barchart.com/story/news/30872401/dominari-holdings-inc-announces-13-5-million-registered-direct-and-private-placement-offerings-priced-at-the-market-under-nasdaq-rules-and-declares-special-cash-dividend",
         "https://www.joemygod.com/2025/03/forbes-trump-sons-suspected-of-insider-trading/",
-        "https://itiger.com/news/2516537088"
+        "https://itiger.com/news/2516537088",
+        "https://ng.investing.com/news/insider-trading-news/dominari-holdings-coo-christopher-devall-acquires-351851-shares-93CH-1759024",
+        "https://ng.investing.com/news/insider-trading-news/dominari-holdings-director-kyle-haug-acquires-shares-in-private-placement-93CH-1759036"
       ]
     },
     {
@@ -54,7 +57,7 @@
     {
       "statement": "Hayes and Wool were paid about $66M for 2025.",
       "verdict": "mostly-accurate",
-      "finding": "Evidence grade: documented for the totals (Bloomberg, Jan. 27, 2026, syndicated on Bloomberg Government); the breakdown is single-source. Bloomberg reports Hayes at about $34M and Wool at almost $32M for 2025. An aggregator gives Wool's breakdown as $500,000 salary, $11M cash bonus, $860,894 stock awards, $13.1M option awards and $6.2M non-equity incentive pay (about $31.8M). '$66M paid' therefore mixes cash with the accounting value of the Feb. 2025 options, which were under water at year end. In June 2025, Dominari amended both executives' employment agreements to drop their right to further stock grants in exchange for a cash bonus tied to net revenue (8-K). On Mar. 4, 2026, stockholders approved another 10M-share plan increase, of which the proxy contemplated 6M for special awards to Hayes and Wool. It also added an evergreen of up to 20% of outstanding shares each year from 2027 to 2032. Bloomberg ties the 2025 pay to deals with the Trump family.",
+      "finding": "Evidence grade: documented for the totals (Bloomberg, Jan. 27, 2026, syndicated on Bloomberg Government); the breakdown is single-source. Bloomberg reports Hayes at about $34M and Wool at almost $32M for 2025. An aggregator gives Wool's breakdown as $500,000 salary, $11M cash bonus, $860,894 stock awards, $13.1M option awards and $6.2M non-equity incentive pay (about $31.8M). '$66M paid' therefore mixes cash with the accounting value of the Feb. 2025 options, which were under water at year end. In June 2025, Dominari amended both executives' employment agreements to drop their right to further stock grants in exchange for a cash bonus tied to net revenue (8-K). On Mar. 4, 2026, stockholders approved another 10M-share plan increase, of which the proxy contemplated 6M for special awards to Hayes and Wool. It also added an evergreen of up to 20% of outstanding shares each year from 2027 to 2032. Bloomberg ties the 2025 pay to deals with the Trump family. Audit: Bloomberg's 27 Jan 2026 headline ('Trump Tower Banker Duo Share $66 Million Pay Package for 2025') and the $34M/almost $32M split are confirmed. A Chinese-language relay surfaced in search says Dominari called the story inaccurate without specifying; we could not read it, so that rebuttal is unconfirmed.",
       "sources": [
         "https://www.bloomberg.com/news/articles/2026-01-27/trump-tower-banker-duo-share-66-million-pay-package-for-2025",
         "https://news.bgov.com/banking-law/trump-tower-banker-duo-share-66-million-pay-package-for-2025",
@@ -151,7 +154,8 @@
     "A pre-announcement run-up is consistent with leaks, but also with momentum or speculative trading. No source shows that any named person traded on nonpublic information.",
     "The options were priced at fair market value on the grant date and approved by stockholders. Grants at market price before a planned announcement are legal if disclosed, although governance experts criticize 'spring-loaded' timing (general point; no source applies that term to Dominari).",
     "The companies (Dominari, Unusual Machines) did not respond to FT requests for comment on the trading.",
-    "sec.gov, panabee.com, quantisnow.com and equibles.com could not be resolved for direct fetch in this session. Filing details come from search-result excerpts and secondary summaries."
+    "sec.gov, panabee.com, quantisnow.com and equibles.com could not be resolved for direct fetch in this session. Filing details come from search-result excerpts and secondary summaries.",
+    "Dominari reportedly disputed Bloomberg's Jan 2026 pay story as containing inaccurate statements and misinterpretations, without saying what was wrong (one Chinese-language relay; unconfirmed)."
   ],
   "sources": [
     {"title": "Dominari Holdings Form 8-K (Feb 2025 option grants)", "publisher": "SEC EDGAR", "url": "https://www.sec.gov/Archives/edgar/data/12239/000121390025012362/ea0230755-8k_dominari.htm", "date": "2025-02"},
@@ -233,7 +237,7 @@
     {"source": "donald-trump-jr", "target": "dominari-holdings", "label": "advisory agreement and $3.47 placement purchase (same day as option grants)", "type": "commercial", "date": "2025-02-10"},
     {"source": "eric-trump", "target": "dominari-holdings", "label": "advisory agreement and $3.47 placement purchase (same day as option grants)", "type": "commercial", "date": "2025-02-10"},
     {"source": "kyle-wool", "target": "dominari-holdings", "label": "bought 288,184 shares + warrants in $3.47 placement (~$1M)", "type": "money", "date": "2025-02-12", "amount_usd": 1000000},
-    {"source": "anthony-hayes", "target": "dominari-holdings", "label": "bought shares + warrants in $3.47 placement", "type": "money", "date": "2025-02-12"},
+    {"source": "anthony-hayes", "target": "dominari-holdings", "label": "bought 288,184 shares + warrants in $3.47 placement (Investing.com, Form 4)", "type": "money", "date": "2025-02-12"},
     {"source": "soo-yu", "target": "kyle-wool", "label": "spouse of", "type": "family"},
     {"source": "dominari-holdings", "target": "anthony-hayes", "label": "paid about $34M total 2025 compensation (incl. option value)", "type": "money", "date": "2025", "amount_usd": 34000000},
     {"source": "dominari-holdings", "target": "kyle-wool", "label": "paid almost $32M total 2025 compensation (incl. option value)", "type": "money", "date": "2025", "amount_usd": 32000000},
@@ -263,5 +267,51 @@
     {"title": "Dominari's March 2026 plan increase: 6M shares for special Hayes/Wool awards and a 20% annual evergreen", "why_connected": "A second large equity-pool expansion for the same two executives after the $66M year. Whether the awards were granted, and at what price, is not established.", "entities": ["dominari-holdings", "anthony-hayes", "kyle-wool"], "source_url": "https://www.boardroomalpha.com/sec/domh-8-k-2026-03-05-0001213900-26-024123"},
     {"title": "SRM Entertainment's 67% rise in the two days before the Dominari-placed Tron deal", "why_connected": "A pre-announcement run-up on a Dominari-arranged deal with Justin Sun. Only Protos has reported it, and no options or volume analysis has been published.", "entities": ["srm-entertainment", "dominari-holdings", "justin-sun"], "source_url": "https://protos.com/justin-suns-new-stock-srm-rallied-67-before-tron-merger-news"},
     {"title": "Revere-Dominari co-underwritings and Wool's 30% Revere stake", "why_connected": "Related-party revenue ($5.8M in 2025) on deals with Wool's former firm, which FINRA fined for small-cap IPO AML failures. The overlap of deals is unexamined.", "entities": ["kyle-wool", "revere-securities", "dominari-holdings", "finra"], "source_url": "https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and"}
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "5M-share options each to Hayes and Wool, granted 10 Feb 2025 at a $6.16 strike",
+      "Hayes, Wool and other insiders bought at $3.47 in the same placement as the Trump sons (Forbes: 664,000 shares by seven insiders)",
+      "Bloomberg: about $66M of 2025 pay ($34M Hayes, almost $32M Wool)"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Options: $6.16 strike confirmed by Hayes's Form 4; recorded that the Form 4 gives a 9 Feb 2035 expiry and S-8 exercisability, and flagged the $30.8M figure as equal to 5M x $6.16 (source vs. derived not confirmed).",
+      "Placement: labelled the '44% below' figure as our arithmetic; added Investing.com's per-insider counts (Hayes 288,184; Devall 351,851; Haug 14,409) and the unresolved mismatch with Forbes's 664,000 total; updated Hayes's relationship label.",
+      "Pay: confirmed Bloomberg's figures; recorded a reported, unconfirmed Dominari rebuttal in denials.",
+      "No SEC/FINRA/Nasdaq inquiry or filed suit found through 14 Nov 2026."
+    ],
+    "new_sources": [
+      {
+        "title": "SEC Form 4 filed by CEO Hayes Anthony",
+        "publisher": "Quantisnow (SEC filing relay)",
+        "url": "https://quantisnow.com/insight/sec-form-4-filed-by-ceo-hayes-anthony-5990818",
+        "date": "2025-04-16"
+      },
+      {
+        "title": "Dominari Holdings COO Christopher Devall acquires 351,851 shares",
+        "publisher": "Investing.com",
+        "url": "https://ng.investing.com/news/insider-trading-news/dominari-holdings-coo-christopher-devall-acquires-351851-shares-93CH-1759024",
+        "date": "2025-02"
+      },
+      {
+        "title": "Dominari Holdings director Kyle Haug acquires shares in private placement",
+        "publisher": "Investing.com",
+        "url": "https://ng.investing.com/news/insider-trading-news/dominari-holdings-director-kyle-haug-acquires-shares-in-private-placement-93CH-1759036",
+        "date": "2025-02"
+      },
+      {
+        "title": "Eric and Donald Trump Jr. Dominari (citing Forbes)",
+        "publisher": "Wendy Siegelman (Substack)",
+        "url": "https://wendysiegelman.substack.com/p/eric-and-donald-trump-jr-dominari-honig",
+        "date": "2025"
+      },
+      {
+        "title": "Trump Tower Banker Duo Share $66 Million Pay Package for 2025",
+        "publisher": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-27/trump-tower-banker-duo-share-66-million-pay-package-for-2025",
+        "date": "2026-01-27"
+      }
+    ]
+  }
 }

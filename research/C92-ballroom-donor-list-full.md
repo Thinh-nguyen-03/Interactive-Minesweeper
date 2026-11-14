@@ -237,3 +237,27 @@ These are our own cross-references. No source links them.
 71. Florida Politics, Leon, 2025-01-03. https://floridapolitics.com/archives/713823-donald-trump-taps-miami-medical-magnate-benjamin-leon-jr-as-ambassador-to-spain
 
 The full source list, including the C68/C69 cross-references (Nvidia, Palantir, Lockheed, Microsoft, Meta, Google, YouTube), is in `data/claims/C92.json`.
+
+## Second review (audit)
+
+Result: **upheld**.
+
+Checked:
+- The Washington Post's leaked spreadsheet: 67 donations above $10,000, about $333M, at least $77M anonymous
+- Rocket: $10M pledge about three weeks after the FHFA approved the $9.4B Mr. Cooper deal
+- Isabela Herrera's $2.5M pledge (Sep 2025) and her father's pardon (Jan 2026)
+- Ergen's $25M in two $12.5M tranches around FCC actions on EchoStar
+
+Changes:
+- Spreadsheet totals confirmed; noted that donor counts vary by outlet (one NPR-affiliate transcript says about 57 major donors).
+- Rocket: FHFA approval confirmed by the FHFA's release; the $10M pledge could not be independently re-confirmed in two searches, so it is now explicitly labelled single-source in the finding and relationship label.
+- Herrera: added the dated MAGA Inc. gifts (Dec 2024, Jul 2025), the Campaign Legal Center FEC complaint (allegation), and the $40M vs >$50M discrepancy on the Habba contract.
+- Ergen: tranche timing confirmed; recorded that Ergen and EchoStar declined to comment.
+- All gift-to-decision links remain inferred, as the claim already states.
+
+New sources:
+- WYPR (NPR), "Investigation details who donated to the White House ballroom project", 2026-10-16. https://www.wypr.org/2026-10-16/investigation-details-who-donated-to-the-white-house-ballroom-project
+- FHFA, "U.S. Federal Housing allows Fannie, Freddie to approve Rocket-Mr. Cooper acquisition", 2025-08. https://www.fhfa.gov/news/news-release/us-federal-housing-allows-fannie-freddie-approve-rocket-mr-cooper-acquisition
+- Telemundo, "Hija de banquero venezolano hace millonaria donacion a Trump antes del indulto", 2026-10. https://www.telemundo.com/noticias/noticias-telemundo/estados-unidos/hija-de-banquero-venezolano-hace-millonaria-donacion-trump-indulto-rcna603891
+- Primera Hora, "Hija de Julio Herrera Velutini hizo millonaria donación antes de que Trump indultara a su padre", 2026-10. https://www.primerahora.com/noticias/estados-unidos/notas/hija-de-julio-herrera-velutini-hizo-millonaria-donacion-antes-de-que-trump-indultara-a-su-padre/
+- Mobile World Live, "Apple, Nvidia, Ergen each give $25M for Trump project", 2026-10. https://mobileworldlive.com/nvidia/apple-nvidia-ergen-each-give-25m-for-trump-project

@@ -2,8 +2,8 @@
 id: "bob-menendez"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 6
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -15,15 +15,27 @@ Ex-senator convicted of bribery including a Qatar-related scheme
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
-| Connections | 2 |
+| Appears in | 2 claims |
+| Connections | 6 |
+
+## How other claims describe it
+
+- Ex-senator serving 11 years for bribery incl. Qatar scheme
 
 ## Appears in claims
 
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
 
 ## Relationships
 
-### Legal (1)
+### Political (3)
 
+- [[Ali Al Thawadi]] *attended 2021 meeting with* [[Bob Menendez]] · 2021 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+- [[Doyle (former Biden aide)]] *arranged meeting with Sultan for* [[Bob Menendez]] · 2021 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+- [[Bob Menendez]] *sought pardon from (not granted)* [[Donald Trump]] · 2025 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+
+### Legal (2)
+
+- [[Bob Menendez]] *introduced Daibes to principal of (alleged)* [[Heritage Advisors]] · 2021 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
 - [[Bob Menendez]] *allegedly steered toward Daibes deal* [[Heritage Advisors]] · 2021-06 · [[C73 Qatar's access network inside and around the administration|C73]]

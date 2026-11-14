@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Intel (INTC)"
-connections: 8
-claims: 3
+connections: 11
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Stock featured in a meme of Trump trading in the Oval Office; price rose after h
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 claims |
-| Connections | 8 |
+| Appears in | 4 claims |
+| Connections | 11 |
 | Also known as | Intel (INTC) |
 
 ## How other claims describe it
@@ -26,12 +26,14 @@ Stock featured in a meme of Trump trading in the Oval Office; price rose after h
 - Chipmaker in which the US government took a 9.9% stake in Aug 2025
 - Chipmaker in which the US took a ~10% stake in Aug 2025
 - Chipmaker; ~10% U.S. stake (Aug 2025); not a minerals firm; no family tie found
+- Retains 49% of Altera; US government holds 9.9% of Intel since Aug 2025
 
 ## Appears in claims
 
 - [[C20 Trump's stock purchases and Truth Social posts]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
 
 ## Relationships
 
@@ -41,6 +43,14 @@ Stock featured in a meme of Trump trading in the Oval Office; price rose after h
 - [[White House Trump administration]] *US government took a 9.9% stake at $20.47/share in* [[Intel]] · 2025-08-22 · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Nvidia]] *invested $5B in* [[Intel]] · 2025-09 · $5B · [[C20 Trump's stock purchases and Truth Social posts|C20]]
 - [[Intel trading meme post]] *preceded price rise of* [[Intel]] · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+
+### Ownership (1)
+
+- [[Intel]] *retains 49% of* [[Altera]] · 2025-09-12 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+
+### Regulatory (1)
+
+- [[Donald Trump]] *announced US government 9.9% stake in* [[Intel]] · 2025-08-22 · $8.9B · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 
 ### Media (1)
 

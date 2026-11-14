@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "CZ"
   - "Changpeng Zhao (CZ)"
-connections: 23
-claims: 13
+connections: 25
+claims: 14
 tags:
   - "entity"
   - "type/person"
@@ -18,8 +18,8 @@ Binance founder and ultimate beneficial owner; pardoned by Trump.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 13 claims |
-| Connections | 23 |
+| Appears in | 14 claims |
+| Connections | 25 |
 | Also known as | CZ; Changpeng Zhao (CZ) |
 
 ## How other claims describe it
@@ -45,11 +45,13 @@ Binance founder and ultimate beneficial owner; pardoned by Trump.
 - [[C69 Master timeline money events versus government actions]] · Partly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
 
 ## Relationships
 
-### Ownership (5)
+### Ownership (6)
 
+- [[Changpeng Zhao]] *founder of developer Binance* [[BNB Chain]] · 2020 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 - [[Changpeng Zhao]] *co-founder of* [[Binance]] · [[C10 Binance driving USD1 adoption|C10]]
 - [[Changpeng Zhao]] *founded* [[Binance]] · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Changpeng Zhao]] *founded, beneficial owner of* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]]

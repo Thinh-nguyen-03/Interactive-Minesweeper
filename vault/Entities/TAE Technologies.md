@@ -5,8 +5,8 @@ type: "company"
 aliases:
   - "TAE"
   - "Tay Technologies Inc"
-connections: 8
-claims: 2
+connections: 10
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -18,19 +18,21 @@ Fusion energy company in ~$6B stock merger with TMTG.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
-| Connections | 8 |
+| Appears in | 3 claims |
+| Connections | 10 |
 | Also known as | TAE; Tay Technologies Inc |
 
 ## How other claims describe it
 
 - California fusion-energy developer merging with TMTG in an all-stock deal valued at more than $6B.
 - Fusion developer merging with TMTG (vote 2026-12-14).
+- Fusion company merging with TMTG
 
 ## Appears in claims
 
 - [[C24 TMTG ETFs, TAE fusion merger, TMTG losses]] · Mostly accurate
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
+- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
 
 ## Relationships
 
@@ -48,9 +50,10 @@ Fusion energy company in ~$6B stock merger with TMTG.
 
 - [[Michl Binderbauer]] *CEO of* [[TAE Technologies]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 
-### Commercial (3)
+### Commercial (4)
 
 - [[TAE Technologies]] *party to* [[TMTG-TAE merger]] · 2025-12-18 · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[TAE Technologies]] *party to Truth Social spin-off discussions with* [[Texas Ventures Acquisition III Corp]] · 2026-02-27 · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[TAE Technologies]] *operates in* [[Fusion energy sector]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Trump Media & Technology Group]] *merging with in ~$6B stock deal* [[TAE Technologies]] · $6B · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 

@@ -2,8 +2,8 @@
 id: "troy-rillo"
 kind: "entity"
 type: "person"
-connections: 4
-claims: 1
+connections: 5
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -15,12 +15,17 @@ Yorkville Advisors partner, Yorkville Securities co-CEO; CFO of YICC and TVA III
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
-| Connections | 4 |
+| Appears in | 2 claims |
+| Connections | 5 |
+
+## How other claims describe it
+
+- Yorkville Securities co-CEO; CFO of YICC and TVA III
 
 ## Appears in claims
 
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
 
 ## Relationships
 

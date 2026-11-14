@@ -2,8 +2,8 @@
 id: "bo-hines"
 kind: "entity"
 type: "person"
-connections: 10
-claims: 3
+connections: 11
+claims: 4
 tags:
   - "entity"
   - "type/person"
@@ -15,12 +15,13 @@ Ex-executive director, White House crypto council (Jan-Aug 2025); CEO of Tether'
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 3 claims |
-| Connections | 10 |
+| Appears in | 4 claims |
+| Connections | 11 |
 
 ## How other claims describe it
 
 - Former White House crypto council executive director; CEO of Tether USAT
+- Ex-White House crypto council director; Tether USAT CEO (Sep 2025)
 - Ex-White House crypto council director; USAT CEO
 
 ## Appears in claims
@@ -28,6 +29,7 @@ Ex-executive director, White House crypto council (Jan-Aug 2025); CEO of Tether'
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 
@@ -53,7 +55,8 @@ Ex-executive director, White House crypto council (Jan-Aug 2025); CEO of Tether'
 
 - [[The Wall Street Journal]] *reported Tether-Nxum payments* [[Bo Hines]] · 2026-10-14 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 
-### Commercial (2)
+### Commercial (3)
 
 - [[Bo Hines]] *joined as strategic adviser 10 days after leaving White House* [[Tether]] · 2025-08-19 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Tether]] *hired as USAT CEO* [[Bo Hines]] · 2025-09 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Bo Hines]] *CEO of* [[USAT]] · 2025-09-12 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]

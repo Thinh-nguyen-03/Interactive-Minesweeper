@@ -66,6 +66,7 @@ Only a few parties are documented putting money into more than one Trump-family 
 
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
 
 ## Sub-claims
 
@@ -334,7 +335,7 @@ Only a few parties are documented putting money into more than one Trump-family 
 - [[Tai Mo Shan]] · Company
 - [[The New York Times]] · Media
 - [[The Wall Street Journal]] · Media
-- [[TikTok USDS Joint Venture LLC]] · Company
+- [[TikTok USDS Joint Venture]] · Company
 - [[Tron]] · Company
 - [[Tron Inc. (formerly SRM Entertainment)]] · Company
 - [[Trump Media & Technology Group]] · Company
@@ -381,7 +382,8 @@ Only a few parties are documented putting money into more than one Trump-family 
 ### Ownership (29)
 
 - [[Jared Kushner]] *founder* [[Affinity Partners]] · 2021 · [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]] [[C73 Qatar's access network inside and around the administration|C73]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · 2021 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C70 Foreign intermediaries what each partner got from Washington|C70]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]] [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
 - [[Donald Trump Jr]] *partner* [[1789 Capital]] · 2024-11 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Andrei Grachev]] *managing partner* [[DWF Labs]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Bill Zanker]] *runs* [[Fight Fight Fight LLC]] · 2025-01 · [[C01 $TRUMP meme coin|C01]] [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
@@ -390,14 +392,14 @@ Only a few parties are documented putting money into more than one Trump-family 
 - [[Fight Fight Fight LLC]] *co-issuer* [[$TRUMP meme coin]] · 2025-01-17 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Donald Trump Jr]] *adviser and ~6.7% shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Eric Trump]] *adviser and ~6.7% shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
 - [[Hut 8]] *80% owner via miner contribution* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[SRM Entertainment Tron Inc]] *renamed to* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Web3Port]] *BVI entity renamed Aqua 1 GP Limited (per NYT)* [[Aqua 1 GP Limited]] · 2025-06 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Dave Lee]] *co-founder; denied Web3Port link* [[Aqua 1 Foundation]] · 2025-07 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Zach Witkoff]] *chairman* [[ALT5 Sigma]] · 2025-08 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[GD Culture Group]] *acquired for 7,500 BTC via share swap* [[Pallas Capital]] · 2025-09 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[MGX]] *15% stake* [[TikTok USDS Joint Venture LLC]] · 2026-01-22 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[MGX]] *15% stake* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[StringZ Holding RSC (DE) LLC]] *passive investor; reportedly 49% (WSJ, anonymous)* [[WLTC Holdings LLC]] · 2026-08 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Guren 'Bobby' Zhou]] *figure behind purchase (per NYT)* [[Aqua 1 Foundation]] · 2026-08-09 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Sheikh Tahnoon bin Zayed]] *reportedly linked (single-source)* [[StringZ Holding RSC (DE) LLC]] · 2026-08-27 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
@@ -406,7 +408,6 @@ Only a few parties are documented putting money into more than one Trump-family 
 - [[Donald Trump]] *majority shareholder (via trust)* [[Trump Media & Technology Group]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Eric Trump]] *co-founder* [[World Liberty Financial]] · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Rainberry]] *Sun-linked company* [[Justin Sun]] · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C34 David Sacks AI & crypto czar with investments|C34]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
 - [[Tai Mo Shan]] *subsidiary of* [[Jump Trading]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[WLTC Holdings LLC]] *holding company of* [[World Liberty Trust Company, N.A]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 
@@ -418,7 +419,7 @@ Only a few parties are documented putting money into more than one Trump-family 
 - [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] · 2025-03-27 · [[C22 Crypto.com and TMTG|C22]] [[C23 SEC drops crypto-exchange cases; donors|C23]] [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]] [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Cumberland (DRW)]] · 2025-03-27 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Securities and Exchange Commission]] *dismissed case* [[Binance]] · 2025-05-29 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[White House Trump administration]] *executive order approving divestiture framework* [[TikTok USDS Joint Venture LLC]] · 2025-09-25 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[White House Trump administration]] *executive order approving divestiture framework* [[TikTok USDS Joint Venture]] · 2025-09-25 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[White House Trump administration]] *approved advanced-chip exports* [[G42]] · 2025-11 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Commodity Futures Trading Commission]] *amicus brief supporting its position* [[Crypto.com]] · 2026-02-17 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Office of the Comptroller of the Currency]] *conditional trust charter* [[Foris DAX National Trust Bank]] · 2026-02-23 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]

@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "Chase"
   - "Chase Hero"
-connections: 12
-claims: 6
+connections: 13
+claims: 7
 tags:
   - "entity"
   - "type/person"
@@ -18,8 +18,8 @@ World Liberty Financial co-founder shown saying you can sell anything in crypto 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 6 claims |
-| Connections | 12 |
+| Appears in | 7 claims |
+| Connections | 13 |
 | Also known as | Chase; Chase Hero |
 
 ## How other claims describe it
@@ -38,6 +38,7 @@ World Liberty Financial co-founder shown saying you can sell anything in crypto 
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
 
 ## Relationships
 

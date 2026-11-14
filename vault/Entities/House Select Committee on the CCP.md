@@ -2,8 +2,8 @@
 id: "house-select-committee-ccp"
 kind: "entity"
 type: "government"
-connections: 9
-claims: 3
+connections: 10
+claims: 4
 tags:
   - "entity"
   - "type/government"
@@ -15,12 +15,13 @@ Committee that probed Dominari and other underwriters over Chinese small-cap IPO
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 3 claims |
-| Connections | 9 |
+| Appears in | 4 claims |
+| Connections | 10 |
 
 ## How other claims describe it
 
 - House committee whose minority opened the WLF inquiry.
+- Sent Dominari a March 2026 letter on Chinese IPOs.
 - Sent the March 2026 letters to IPO underwriters.
 
 ## Appears in claims
@@ -28,6 +29,7 @@ Committee that probed Dominari and other underwriters over Chinese small-cap IPO
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 - [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
+- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
 
 ## Relationships
 

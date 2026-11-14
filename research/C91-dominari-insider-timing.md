@@ -39,7 +39,7 @@ None of that is repeated here.
 1. **The 10M option grant on Feb. 10, 2025: confirmed (documented).**
    - The 8-K reports a nonqualified option on 5,000,000 shares each to Wool and Hayes, at fair market value on the grant date, with a 10-year term.
    - The 10-Q says the options were "fully vested" and conditioned on stockholder approval of a reserve increase [1][2].
-   - The FY2025 annual report lists each grant at a **$6.16** exercise price, expiring Feb. 10, 2035. The proxy shows $30.8M of disclosed value per grant [3][4].
+   - The FY2025 annual report lists each grant at a **$6.16** exercise price, expiring Feb. 10, 2035. The proxy shows $30.8M of disclosed value per grant [3][4]. *Audit:* Hayes's Form 4 gives the expiry as Feb. 9, 2035 and says the option becomes exercisable on filing of a Form S-8. The $30.8M equals 5M x $6.16; the audit could not confirm whether the proxy states it or it was derived.
    - Aggregator Form 4 listings show the awards reported on Apr. 16, 2025, after the approval.
    - One aggregator figure ("10M to Wool at $3.85") conflicts with the filings and is discarded.
 
@@ -50,9 +50,10 @@ None of that is repeated here.
 
 3. **Insiders bought at $3.47 alongside the sons on grant day: confirmed (documented).**
    - Wool's Form 4 and 13D show 288,184 shares plus Series A ($3.72) and Series B warrants, at a combined $3.47, for about $1M of personal funds. That brought his beneficial holding to 2,200,769 shares, including 1,241,989 held by his spouse Soo Yu [9].
-   - Hayes also bought in the placement [10]. His direct holding of 975,007 shares afterwards comes from one aggregator [11].
-   - Forbes: the CEO, COO, president and four directors bought 664,000 shares at $3.47 [16].
-   - Dominari called the $13.5M raise "priced at the market under Nasdaq rules" [12]. That price was about 44% below the $6.16 close used for the options the same day.
+   - Hayes also bought in the placement: Investing.com gives 288,184 shares, the same as Wool [10]. His direct holding of 975,007 shares afterwards comes from one aggregator [11].
+   - Forbes: the CEO, COO, president and four directors bought 664,000 shares at $3.47, and six insiders received 402,000 bonus shares [16].
+   - *Audit:* Investing.com also reports COO Christopher Devall buying 351,851 shares and director Kyle Haug 14,409. With Hayes and Wool that is 942,628 shares (our arithmetic), more than Forbes's 664,000. The mismatch is unresolved and may reflect how units or warrants were counted.
+   - Dominari called the $13.5M raise "priced at the market under Nasdaq rules" [12]. That price was about 44% below (our arithmetic) the $6.16 close used for the options the same day.
    - *Inferred, no source states it:* the most likely reason is that Nasdaq's minimum-price test can use a five-day average, which lags a fast-rising stock.
    - No open-market buying by Hayes or Wool during January 2025 appears in coverage. This is unverified, because the Form 4s could not be read directly.
 
@@ -163,3 +164,25 @@ None of that is repeated here.
 40. Stocktwits (2025-07-09): https://stocktwits.com/news-articles/markets/equity/trump-jr-takes-stake-in-social-media-company-thumzup-in-bitcoin-push/chFy4nYR5KV
 41. Seeking Alpha (2025-05-12): https://seekingalpha.com/news/4446404-trump-sons-american-bitcoin-to-merge-with-gryphon-digital-mining-boosting-stock
 42. Benzinga, syndicated (2025-05-12): https://www.itiger.com/news/2534271964
+
+## Second review (audit)
+
+Result: **upheld**.
+
+Checked:
+- 5M-share options each to Hayes and Wool, granted 10 Feb 2025 at a $6.16 strike
+- Hayes, Wool and other insiders bought at $3.47 in the same placement as the Trump sons (Forbes: 664,000 shares by seven insiders)
+- Bloomberg: about $66M of 2025 pay ($34M Hayes, almost $32M Wool)
+
+Changes:
+- Options: $6.16 strike confirmed by Hayes's Form 4; recorded that the Form 4 gives a 9 Feb 2035 expiry and S-8 exercisability, and flagged the $30.8M figure as equal to 5M x $6.16 (source vs. derived not confirmed).
+- Placement: labelled the '44% below' figure as our arithmetic; added Investing.com's per-insider counts (Hayes 288,184; Devall 351,851; Haug 14,409) and the unresolved mismatch with Forbes's 664,000 total; updated Hayes's relationship label.
+- Pay: confirmed Bloomberg's figures; recorded a reported, unconfirmed Dominari rebuttal in denials.
+- No SEC/FINRA/Nasdaq inquiry or filed suit found through 14 Nov 2026.
+
+New sources:
+- Quantisnow (SEC filing relay), "SEC Form 4 filed by CEO Hayes Anthony", 2025-04-16. https://quantisnow.com/insight/sec-form-4-filed-by-ceo-hayes-anthony-5990818
+- Investing.com, "Dominari Holdings COO Christopher Devall acquires 351,851 shares", 2025-02. https://ng.investing.com/news/insider-trading-news/dominari-holdings-coo-christopher-devall-acquires-351851-shares-93CH-1759024
+- Investing.com, "Dominari Holdings director Kyle Haug acquires shares in private placement", 2025-02. https://ng.investing.com/news/insider-trading-news/dominari-holdings-director-kyle-haug-acquires-shares-in-private-placement-93CH-1759036
+- Wendy Siegelman (Substack), "Eric and Donald Trump Jr. Dominari (citing Forbes)", 2025. https://wendysiegelman.substack.com/p/eric-and-donald-trump-jr-dominari-honig
+- Bloomberg, "Trump Tower Banker Duo Share $66 Million Pay Package for 2025", 2026-01-27. https://www.bloomberg.com/news/articles/2026-01-27/trump-tower-banker-duo-share-66-million-pay-package-for-2025

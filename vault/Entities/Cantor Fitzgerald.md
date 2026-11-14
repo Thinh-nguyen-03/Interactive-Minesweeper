@@ -2,8 +2,8 @@
 id: "cantor-fitzgerald"
 kind: "entity"
 type: "company"
-connections: 34
-claims: 8
+connections: 36
+claims: 10
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 8 claims |
-| Connections | 34 |
+| Appears in | 10 claims |
+| Connections | 36 |
 
 ## How other claims describe it
 
@@ -36,6 +36,8 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 
@@ -81,7 +83,7 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 
 - [[Cantor Fitzgerald]] *co-bookrunner on 2021 offering (Cantor Canada); analyst coverage* [[Perpetua Resources]] · 2021-08 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Cantor Fitzgerald]] *financial adviser/banker* [[The Metals Company]] · 2025 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
-- [[Cantor Fitzgerald]] *lead placement agent, $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Cantor Fitzgerald]] *lead placement agent, $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]] [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 - [[Cantor Fitzgerald]] *co-arranged >$150M private placement; capital-markets adviser* [[American Ocean Minerals]] · 2026-04-08 · $150M · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 
 ### Legal (1)
@@ -96,7 +98,7 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 - [[Associated Press]] *reported TMC advice* [[Cantor Fitzgerald]] · 2026-05-21 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[The New York Times]] *reported ties to 14 federally backed mineral firms* [[Cantor Fitzgerald]] · 2026-06-28 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 
-### Commercial (14)
+### Commercial (15)
 
 - [[Cantor Fitzgerald]] *custodies Treasury reserves for fees* [[Tether]] · 2024-11 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Cantor Fitzgerald]] *sought backing for bitcoin lending from (talks reported)* [[Tether]] · 2024-11 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
@@ -106,6 +108,7 @@ Investment bank run by Lutnick's sons; banker/adviser to many mineral firms
 - [[Cantor Fitzgerald]] *pitched buying (denies executing)* [[IEEPA tariff-refund claims market]] · 2025-07 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Cantor Fitzgerald]] *reserve custodian of* [[USAT]] · 2025-09-12 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Cantor Fitzgerald]] *lead placement agent on $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Cantor Fitzgerald]] *USAT reserve custodian* [[Tether]] · 2026-01-27 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Cantor Fitzgerald]] *reserve custodian* [[USAT]] · 2026-01-27 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Cantor Fitzgerald]] *reserve custodian and preferred primary dealer* [[USAT]] · 2026-01-27 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Cantor Fitzgerald]] *reported backer and prime broker since 2012* [[Cerberus Capital Management]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]

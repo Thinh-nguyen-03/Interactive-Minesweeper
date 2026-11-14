@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "Alania Trump"
   - "Melania"
-connections: 17
-claims: 7
+connections: 19
+claims: 8
 tags:
   - "entity"
   - "type/person"
@@ -18,8 +18,8 @@ First lady; launched the $MELANIA meme coin and NFTs; did not reply to request f
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 7 claims |
-| Connections | 17 |
+| Appears in | 8 claims |
+| Connections | 19 |
 | Also known as | Alania Trump; Melania |
 
 ## How other claims describe it
@@ -39,6 +39,7 @@ First lady; launched the $MELANIA meme coin and NFTs; did not reply to request f
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
 
 ## Relationships
 
@@ -66,6 +67,10 @@ First lady; launched the $MELANIA meme coin and NFTs; did not reply to request f
 ### Advisory (1)
 
 - [[Marc Beckman]] *adviser to* [[Melania Trump]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+
+### Political (1)
+
+- [[Melania Trump]] *spokesman denies any relationship* [[Umar Kremlev]] · 2026-09 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
 
 ### Legal (1)
 

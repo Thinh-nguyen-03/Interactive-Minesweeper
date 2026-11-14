@@ -2,8 +2,8 @@
 id: "ron-wyden"
 kind: "entity"
 type: "person"
-connections: 17
-claims: 10
+connections: 20
+claims: 12
 tags:
   - "entity"
   - "type/person"
@@ -15,16 +15,16 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 10 claims |
-| Connections | 17 |
+| Appears in | 12 claims |
+| Connections | 20 |
 
 ## How other claims describe it
 
 - Senate Finance ranking member; opened YICC inquiry Jun 25, 2026
 - US senator (D-OR); co-led the 2026 Kushner fundraising probe
+- Senate Finance ranking member; Yorkville inquiry 25 Jun 2026
 - US Senator; co-led the April 2026 Tether-loan letters
 - Senator probing Kushner's fundraising and 666 Fifth
-- Senate Finance ranking member; wrote to Lutnick
 
 ## Appears in claims
 
@@ -38,6 +38,8 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
 - [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
 
 ## Relationships
 
@@ -46,11 +48,12 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 - [[Ron Wyden]] *co-signed letter seeking tariff-pause probe* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-moving posts and insider-trading allegations|C58]]
 - [[Ron Wyden]] *investigating Gulf fundraising* [[Affinity Partners]] · 2026-03-19 · [[C15 Jared Kushner and Affinity Partners|C15]]
 - [[Ron Wyden]] *sought loan records from* [[Howard Lutnick]] · 2026-04-29 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[Ron Wyden]] *asked whether Yorkville sought OFAC licence* [[Office of Foreign Assets Control]] · 2026-06-25 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Ron Wyden]] *asked whether Yorkville sought OFAC licence* [[OFAC]] · 2026-06-25 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 
-### Political (3)
+### Political (4)
 
 - [[Ron Wyden]] *letter on USAR conflicts* [[Howard Lutnick]] · 2026-02-26 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Ron Wyden]] *opened Senate Finance inquiry (OFAC licences, Venezuela) into* [[Yorkville Advisors]] · 2026-06-25 · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Ron Wyden]] *opened inquiry into Venezuela SPAC* [[Yorkville International Capital Corp (YICC)]] · 2026-06-25 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Ron Wyden]] *asked whether Commerce knew of Base Group payment* [[Howard Lutnick]] · 2026-08 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 

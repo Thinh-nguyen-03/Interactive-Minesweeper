@@ -129,11 +129,11 @@ Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD)
 **Confirmed**
 
 - Evidence grade: documented (Bloomberg Government; Nov 6, 2026 8-K naming McGurn and Luisa Ingargiola to the audit and compensation committees).
-- McGurn is chairman, CEO and CFO of New America Acquisition I (C27) and became TMTG interim CEO on Apr 21, 2026.
+- McGurn was CEO (earlier also chairman and CFO) of New America Acquisition I until he resigned effective Aug 5, 2026 (C27, C62, C78) and became TMTG interim CEO on Apr 21, 2026.
 - Kollitides and McGurn were co-directors from about Feb 10 to Sep 23, 2026.
 - Bloomberg says McGurn and Ingargiola sit on boards of several defense-related companies with Trump sons as investors or advisers; we did not verify which boards.
 - This is a shared board seat, not evidence of any transaction between them.
-- Dates: Nov 6, 2026; Apr 21, 2026; Feb 10; Sep 23, 2026
+- Dates: Nov 6, 2026; Aug 5, 2026; Apr 21, 2026; Feb 10; Sep 23, 2026
 - Sources: [1](https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties) [3](https://www.sec.gov/Archives/edgar/data/0002095161/000121390026116912/ea0309298-8k_dboralacq1.htm) [6](https://www.thewrap.com/media-platforms/journalism/trump-media-company-kevin-mcgurn-interim-ceo/) [7](https://be.marketscreener.com/insider/LUISA-INGARGIOLA-A0KWO9/)
 
 ### 6. D. Boral Capital, the SPAC's affiliate, co-underwrote the Trump sons' New America SPAC.
@@ -337,6 +337,7 @@ Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD)
 
 ### Commercial (16)
 
+- [[Kevin McGurn]] *chairman, CEO and CFO (later CEO only); resigned effective Aug 5, 2026* [[New America Acquisition I Corp]] · 2025-07/2026-08-05 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[D. Boral Capital]] *co-lead underwriter of $345M IPO* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Dominari Holdings Dominari Securities]] *co-lead underwriter* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Kevin McGurn]] *director* [[D. Boral Acquisition I]] · 2026 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
@@ -352,7 +353,6 @@ Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD)
 - [[David Lorch]] *former managing director* [[Cerberus Capital Management]] · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[George Kollitides]] *former partner; senior adviser until ~Oct 2026* [[A&M Capital]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[George Kollitides]] *former MD, aerospace/government/defense* [[Cerberus Capital Management]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
-- [[Kevin McGurn]] *chairman, CEO and CFO* [[New America Acquisition I Corp]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 
 ## Leads not covered here
 
@@ -418,7 +418,7 @@ Builds on: C65 (sub-claim on Feinberg and Cerberus), C51 (drone ventures, OSC dr
 1. **The D. Boral SPAC board puts Kollitides beside Kevin McGurn, the Trump sons' SPAC CEO.** *Documented: Bloomberg Government plus D. Boral Acquisition I 8-K filings.*
    - Bloomberg Government reported that D. Boral Acquisition I (Nasdaq: DBCA, a Cayman SPAC) appointed Kollitides, Kevin McGurn and Luisa Ingargiola as directors. Kollitides joined on Feb. 10, 2026, days after taking his Pentagon post. He took an indirect interest in 100,000 founder shares, which Bloomberg valued at up to about $1M.
    - The SPAC's IPO priced on Feb. 10-11, 2026. D. Boral Capital was sole book-runner, and the offering closed at $287.5M.
-   - McGurn is chairman, CEO and CFO of the Trump sons' New America Acquisition I (C27). D. Boral Capital co-led that SPAC's $345M IPO in Dec. 2025. McGurn also became interim CEO of Trump Media on Apr. 21, 2026.
+   - McGurn was chairman, CEO and CFO of the Trump sons' New America Acquisition I (C27); Kyle Wool became chairman on Feb. 6, 2026, and McGurn resigned as CEO and director effective Aug. 5, 2026 (C62, C78). D. Boral Capital co-led that SPAC's $345M IPO in Dec. 2025. McGurn also became interim CEO of Trump Media on Apr. 21, 2026.
    - So for about seven months (Feb. 10 to Sep. 23, 2026) the Pentagon's Economic Defense Unit chief sat on a SPAC board with the man running both the Trump sons' SPAC and the president's media company.
    - Bloomberg says McGurn and Ingargiola serve on boards of several defense-related companies that count Don Jr. and Eric Trump as investors or advisers. That is Bloomberg's characterisation; we did not verify which boards.
    - An 8-K reports that Kollitides resigned as an independent director "for personal reasons" effective Sep. 23, 2026. A second 8-K (Nov. 6, 2026) puts McGurn and Ingargiola on its audit and compensation committees after another director left.
@@ -536,3 +536,5 @@ Result: **upheld**. Re-checked: Kollitides's D. Boral board seat (joined Feb 10,
 - The SGE status is now flagged as single-source in the relationship label.
 
 New sources: SamSearch, https://samsearch.co/government-contracting-news/pentagon-investment-chief-resigns-from-offshore-company-board-amid-governance-concerns-209127 and https://samsearch.co/government-contracting-news/dod-awards-349-million-in-no-bid-consulting-contracts-to-alvarez-marsal-215723; Cato, https://www.cato.org/blog/get-aligned-or-get-left-behind-pentagon
+
+Cross-file consistency (Nov 2026): McGurn is no longer described as CEO of New America Acquisition I; he resigned effective Aug. 5, 2026 (C62, C78). Section 1, the kevin-mcgurn entity and the kevin-mcgurn -> new-america-acquisition-i label are updated.

@@ -2,31 +2,44 @@
 id: "lukoil"
 kind: "entity"
 type: "company"
-connections: 6
-claims: 1
+connections: 11
+claims: 3
 tags:
   - "entity"
   - "type/company"
 ---
 # Lukoil
 
-US-sanctioned Russian oil major selling about $20B of foreign assets.
+US-sanctioned Russian oil major (Oct 2025) forced to sell its foreign assets.
 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
-| Connections | 6 |
+| Appears in | 3 claims |
+| Connections | 11 |
+
+## How other claims describe it
+
+- US-sanctioned Russian oil major selling about $20B of foreign assets.
+- Sanctioned Russian oil major selling foreign assets
 
 ## Appears in claims
 
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Relationships
 
-### Money (1)
+### Money (2)
 
 - [[US International Development Finance Corporation]] *reported mid-teens stake in consortium vehicle* [[Lukoil]] · 2026-10 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Capital Group]] *holds frozen Lukoil securities to be used in swap (Reuters)* [[Lukoil]] · 2026-11 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+
+### Ownership (2)
+
+- [[Lukoil]] *owns; selling under US sanctions* [[Lukoil International GmbH (lukoil-international-gmbh)]] · 2025-10 · $22B · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[Lukoil]] *parent* [[Lukoil International GmbH]] · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
 
 ### Political (1)
 

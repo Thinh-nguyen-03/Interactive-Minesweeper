@@ -2,27 +2,39 @@
 id: "movement-labs"
 kind: "entity"
 type: "company"
-connections: 4
-claims: 1
+aliases:
+  - "Movement Labs"
+connections: 5
+claims: 2
 tags:
   - "entity"
   - "type/company"
 ---
 # Movement Labs / Movement Network Foundation
 
-Issuer of the MOVE token
+Issuer of MOVE; denied any swap with WLF
 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
-| Connections | 4 |
+| Appears in | 2 claims |
+| Connections | 5 |
+| Also known as | Movement Labs |
+
+## How other claims describe it
+
+- Issuer of the MOVE token
 
 ## Appears in claims
 
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
 
 ## Relationships
+
+### Money (1)
+
+- [[World Liberty Financial]] *bought about $1.85M MOVE (open market, per Movement)* [[Movement Labs Movement Network Foundation]] · 2025-01-28 · $1.85M · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
 
 ### Advisory (1)
 

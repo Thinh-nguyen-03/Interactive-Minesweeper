@@ -5,15 +5,15 @@ tags:
 ---
 # Trump Claims Map
 
-A fact-check of 30 claims made in Coffeezilla, “Investigating The President”, plus 30 follow-up leads the video did not cover and 22 connection hunts across the claims. Each claim was checked independently against public records and reporting. Open the graph view to explore.
+A fact-check of 30 claims made in Coffeezilla, “Investigating The President”, plus 30 follow-up leads the video did not cover and 34 connection hunts across the claims. Each claim was checked independently against public records and reporting. Open the graph view to explore.
 
 Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
 ## Verdicts
 
 - Confirmed: 2
-- Mostly accurate: 72
-- Partly accurate: 6
+- Mostly accurate: 79
+- Partly accurate: 11
 - Unverified: 2
 
 ## Claims from the video
@@ -106,6 +106,18 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
+- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
+- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
+- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
+- [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge]] · Mostly accurate
+- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
+- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
+- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Themes
 
@@ -126,28 +138,28 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
 ## Most connected
 
-- [[Donald Trump]] (81 claims, 266 connections)
-- [[World Liberty Financial]] (41 claims, 113 connections)
-- [[Securities and Exchange Commission]] (32 claims, 94 connections)
-- [[White House Trump administration]] (53 claims, 90 connections)
-- [[Donald Trump Jr]] (45 claims, 86 connections)
-- [[Eric Trump]] (44 claims, 82 connections)
-- [[Trump Organization]] (27 claims, 75 connections)
-- [[Elizabeth Warren]] (32 claims, 72 connections)
-- [[Jared Kushner]] (21 claims, 64 connections)
-- [[Trump Media & Technology Group]] (20 claims, 62 connections)
-- [[US Congress]] (38 claims, 60 connections)
-- [[Steve Witkoff]] (22 claims, 53 connections)
-- [[United Arab Emirates]] (24 claims, 47 connections)
-- [[The New York Times]] (21 claims, 40 connections)
-- [[Pentagon (Department of Defense)]] (15 claims, 40 connections)
-- [[The Wall Street Journal]] (23 claims, 40 connections)
-- [[Qatar]] (13 claims, 37 connections)
-- [[Affinity Partners]] (16 claims, 35 connections)
-- [[Binance]] (17 claims, 35 connections)
-- [[Commodity Futures Trading Commission]] (11 claims, 35 connections)
-- [[$TRUMP meme coin]] (11 claims, 35 connections)
-- [[Zach Witkoff]] (22 claims, 35 connections)
-- [[Cantor Fitzgerald]] (8 claims, 34 connections)
-- [[Crypto.com]] (12 claims, 34 connections)
-- [[Sheikh Tahnoon bin Zayed]] (19 claims, 34 connections)
+- [[Donald Trump]] (92 claims, 296 connections)
+- [[World Liberty Financial]] (46 claims, 125 connections)
+- [[White House Trump administration]] (60 claims, 103 connections)
+- [[Donald Trump Jr]] (50 claims, 95 connections)
+- [[Securities and Exchange Commission]] (33 claims, 95 connections)
+- [[Eric Trump]] (49 claims, 90 connections)
+- [[Trump Organization]] (32 claims, 85 connections)
+- [[Elizabeth Warren]] (34 claims, 75 connections)
+- [[Jared Kushner]] (24 claims, 72 connections)
+- [[Trump Media & Technology Group]] (23 claims, 66 connections)
+- [[US Congress]] (40 claims, 63 connections)
+- [[Steve Witkoff]] (23 claims, 56 connections)
+- [[White House ballroom]] (8 claims, 54 connections)
+- [[United Arab Emirates]] (26 claims, 49 connections)
+- [[Pentagon (Department of Defense)]] (17 claims, 43 connections)
+- [[The New York Times]] (22 claims, 41 connections)
+- [[The Wall Street Journal]] (24 claims, 41 connections)
+- [[Affinity Partners]] (19 claims, 40 connections)
+- [[Qatar]] (15 claims, 40 connections)
+- [[Dominari Holdings Dominari Securities]] (12 claims, 39 connections)
+- [[Sheikh Tahnoon bin Zayed]] (22 claims, 38 connections)
+- [[Binance]] (18 claims, 36 connections)
+- [[Cantor Fitzgerald]] (10 claims, 36 connections)
+- [[Commodity Futures Trading Commission]] (12 claims, 36 connections)
+- [[USD1]] (19 claims, 36 connections)

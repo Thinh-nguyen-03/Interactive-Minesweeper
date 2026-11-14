@@ -2,30 +2,32 @@
 id: "tom-barrack"
 kind: "entity"
 type: "person"
-connections: 6
-claims: 2
+connections: 8
+claims: 3
 tags:
   - "entity"
   - "type/person"
 ---
 # Tom Barrack
 
-US ambassador to Turkey and Syria envoy; Colony Capital founder
+US ambassador to Turkey and Syria envoy; present at UCC's Syria power deal.
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
-| Connections | 6 |
+| Appears in | 3 claims |
+| Connections | 8 |
 
 ## How other claims describe it
 
+- US ambassador to Turkey and Syria envoy; Colony Capital founder
 - Ambassador to Turkey; Syria envoy
 
 ## Appears in claims
 
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
 
 ## Relationships
 
@@ -37,9 +39,10 @@ US ambassador to Turkey and Syria envoy; Colony Capital founder
 
 - [[Tom Barrack]] *founded* [[Colony Capital]] · [[C73 Qatar's access network inside and around the administration|C73]]
 
-### Political (2)
+### Political (3)
 
 - [[Tom Barrack]] *attended signing as US envoy* [[Syria UCC power concessions]] · 2025-05-29 · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Tom Barrack]] *attended ~$7B Syria power MoU signing as US envoy (C73)* [[UCC Holding]] · 2025-05-29 · $7B · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
 - [[Tom Barrack]] *pressed officials to include in pipeline (Reuters)* [[TI Capital]] · 2026 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 
 ### Commercial (1)

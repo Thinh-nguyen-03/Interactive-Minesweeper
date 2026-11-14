@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Tether (Tether America)"
-connections: 26
-claims: 10
+connections: 27
+claims: 11
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Stablecoin issuer; Miller Strategies client and ballroom donor
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 10 claims |
-| Connections | 26 |
+| Appears in | 11 claims |
+| Connections | 27 |
 | Also known as | Tether (Tether America) |
 
 ## How other claims describe it
@@ -41,16 +41,18 @@ Stablecoin issuer; Miller Strategies client and ballroom donor
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C69 Master timeline money events versus government actions]] · Partly accurate
+- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
 
 ## Relationships
 
-### Money (8)
+### Money (9)
 
 - [[Tether]] *lent undisclosed sum to* [[Dynasty Trust A]] · 2025 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Tether]] *lent undisclosed sum to (reported)* [[Dynasty Trust A]] · 2025 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Tether]] *agreed to pay $415K/month; ~$6.3M paid (WSJ)* [[Nxum Group]] · 2025-05 · $6.3M · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Tether]] *donor (Tether America)* [[White House ballroom]] · 2025-10 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 - [[Tether]] *donor to (via Tether America)* [[White House ballroom]] · 2025-10 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Tether]] *Tether America listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Tether]] *Tether America listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Tether]] *$100M equity investment* [[Anchorage Digital]] · 2026-02-05 · $100M · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Tether]] *lent undisclosed sum to (Bloomberg)* [[Dynasty Trust A]] · 2026-03-18 · [[C63 Shell entities and ownership chains|C63]]
@@ -74,12 +76,15 @@ Stablecoin issuer; Miller Strategies client and ballroom donor
 - [[Richard Blumenthal]] *sought records on Nxum payments* [[Tether]] · 2026-10-22 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
 - [[Tether]] *USDT allegedly used for sanctions evasion by* [[Iran]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 
-### Commercial (7)
+### Commercial (10)
 
 - [[Howard Lutnick]] *negotiated Cantor investment in* [[Tether]] · 2024-04 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Cantor Fitzgerald]] *custodies Treasury reserves for fees* [[Tether]] · 2024-11 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Cantor Fitzgerald]] *sought backing for bitcoin lending from (talks reported)* [[Tether]] · 2024-11 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Bo Hines]] *joined as strategic adviser 10 days after leaving White House* [[Tether]] · 2025-08-19 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Tether]] *hired as USAT CEO* [[Bo Hines]] · 2025-09 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Anchorage Digital]] *issues USAT* [[Tether]] · 2026-01-27 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Cantor Fitzgerald]] *USAT reserve custodian* [[Tether]] · 2026-01-27 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
 - [[Tether]] *launched under GENIUS framework* [[USAT]] · 2026-01-27 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Cantor Fitzgerald]] *custodies reserves and holds convertible bond in* [[Tether]] · $600M · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Tether]] *lobbying client of* [[Miller Strategies]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
