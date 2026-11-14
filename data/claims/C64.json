@@ -3,7 +3,7 @@
  "title": "Lobbyists and fixers: who gets paid to reach the White House",
  "verdict": "mostly-accurate",
  "confidence": "medium",
- "summary": "The access layer is well documented. AG Bondi lobbied for Qatar at Ballard before her office cleared the Qatari jet; Patel consulted for Qatar's embassy before signing security deals with it as FBI director; Ballard, Miller Strategies and Checkmate represent crypto firms, Kalshi, the Saudi embassy, most corporate ballroom donors, and Binance in its pardon push; and Pakistan paid three Trump-tied firms (Seiden, Schiller/Sorial's Javelin, Checkmate) in the same weeks WLF signed its Pakistan deal. No source shows a payment buying an outcome, Ballard was reportedly frozen out of the White House after the XRP post, and the WLF-lobbyist and Saudi-decision overlaps are our own inference. No client in this project was found for Lewandowski, Arthur Schwartz or Mercury in 2025.",
+ "summary": "The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied for Qatar at Ballard before her office cleared the Qatari jet; Patel consulted for Qatar's embassy, got a March 2025 waiver for Qatar matters, and signed security deals with Qatar as FBI director after his one-year recusal pledge had lapsed; Ballard, Miller Strategies and Checkmate represent crypto firms, Kalshi, the Saudi embassy, most corporate ballroom donors, and Binance in its pardon push; and Pakistan paid three Trump-tied firms (Seiden, Schiller/Sorial's Javelin, Checkmate) in the same weeks WLF signed its Pakistan deal. No source shows a payment buying an outcome, Ballard was reportedly frozen out of the White House after the XRP post, and the WLF-lobbyist and Saudi-decision overlaps are our own inference. No client in this project was found for Lewandowski, Arthur Schwartz or Mercury in 2025.",
  "sub_claims": [
   {
    "statement": "Pam Bondi lobbied for Qatar at Ballard Partners, then as AG signed the memo clearing the Qatari 747 gift.",
@@ -20,7 +20,7 @@
   {
    "statement": "Kash Patel was a paid consultant to Qatar's embassy, then as FBI director signed security agreements with Qatar.",
    "verdict": "confirmed",
-   "finding": "Evidence: documented. Patel's financial disclosure (public 2025-02-01, after his hearing) listed the Qatari embassy as a client of Trishul LLC (about $2.1M total firm income; Qatar portion only reported as >$5,000). He did not register under FARA. A later disclosure shows an ethics waiver dated Mar 4 for a 'particular matter related to Qatar'. In Dec 2025 he signed bilateral security agreements with Qatar and said he would recuse from related work for one year and keep Trishul dormant. The nature of the Qatar work remains undisclosed.",
+   "finding": "Evidence: documented. Patel's financial disclosure (public 2025-02-01, after his hearing) listed the Qatari embassy as a client of Trishul LLC (about $2.1M total firm income; Qatar portion only reported as >$5,000). He did not register under FARA. A later disclosure shows an ethics waiver dated Mar 4 for a 'particular matter related to Qatar'. Audit correction: his one-year recusal from Qatar matters was a Nov 2024 pledge, and per Jewish Insider it had expired the month before he signed two bilateral security MOUs with his Qatari counterpart in Doha in Dec 2025 (neither the trip nor the agreements were announced by the FBI); the March 2025 waiver had already let him work on Qatar matters. He has said Trishul is dormant. Public Citizen asked OGE to rescind the waiver; its FARA complaint is unresolved (C73). The nature of the Qatar work remains undisclosed.",
    "sources": [
     "https://responsiblestatecraft.org/kash-patel-qatar/",
     "https://practice.motherjones.com/politics/2025/05/kash-patel-qatar-fbi-trump",
@@ -124,9 +124,9 @@
    ]
   },
   {
-   "statement": "Brad Bondi, the Attorney General's brother, was Trevor Milton's SEC defense lawyer.",
+   "statement": "Brad Bondi, brother of then-Attorney General Pam Bondi, was Trevor Milton's defense lawyer.",
    "verdict": "confirmed",
-   "finding": "Evidence: documented (C36). Milton, a $1.8M+ donor, was pardoned 2025-03-28 and the SEC dropped its case in Sep 2025 (C36, C49). Shows a family tie inside the pardon/enforcement chain; does not show that Pam Bondi intervened.",
+   "finding": "Evidence: documented. Brad Bondi was lead counsel in Milton's 2021-22 criminal fraud defence while at Cahill Gordon & Reindel (Business Wire, Law.com); C36 also describes him as Milton's SEC lawyer, which this audit did not re-check. He joined Paul Hastings in Nov 2024. Milton, a $1.8M+ donor, was pardoned 2025-03-28 and the SEC dropped its case in Sep 2025 (C36, C49). Shows a family tie inside the pardon/enforcement chain; does not show that Pam Bondi intervened.",
    "sources": [
     "https://www.law360.com/bankruptcy-authority/articles/2387230"
    ]
@@ -167,7 +167,9 @@
   "Bondi did not personally earn $115K/month; that was Ballard's Qatar fee.",
   "The claim that Wiles 'led' Mercury's Qatar work is single-source (Il Foglio), and Mercury's documented Qatar contracts (2015, 2019) predate her arrival in 2022.",
   "2025 Albanian lobbying by Trump-world operatives (Continental, LaCivita, Manafort) is for Berisha's opposition, not Rama's government, Kushner's partner.",
-  "Ballard's access is contested: Politico reports he was frozen out after the Mar 2025 XRP post."
+  "Ballard's access is contested: Politico reports he was frozen out after the Mar 2025 XRP post.",
+  "Audit: Patel's one-year Qatar recusal was pledged in Nov 2024 and had expired before he signed the Dec 2025 Doha agreements; it was not a pledge made at the signing.",
+  "Audit: Bondi is former AG (left Apr 2, 2026); Todd Blanche is AG (acting from Apr 2, confirmed Aug 8, 2026)."
  ],
  "denials_and_context": [
   "Ballard declined to comment to Sludge; Ballard, Miller and Priebus declined comment to CBS on the ballroom.",
@@ -550,13 +552,13 @@
    "id": "pam-bondi",
    "name": "Pam Bondi",
    "type": "person",
-   "description": "Attorney General; former Ballard lobbyist on the Qatar account"
+   "description": "Attorney General Feb 2025 - Apr 2, 2026; former Ballard lobbyist on the Qatar account"
   },
   {
    "id": "brad-bondi",
    "name": "Brad Bondi",
    "type": "person",
-   "description": "Lawyer; Pam Bondi's brother; Trevor Milton's SEC counsel"
+   "description": "Paul Hastings partner (from Nov 2024); Pam Bondi's brother; Trevor Milton's lead defence counsel"
   },
   {
    "id": "susie-wiles",
@@ -1026,7 +1028,7 @@
   {
    "source": "brad-bondi",
    "target": "trevor-milton",
-   "label": "SEC defense counsel for",
+   "label": "lead defence counsel for (criminal case; SEC counsel per C36)",
    "type": "legal"
   },
   {
@@ -1546,5 +1548,71 @@
    ],
    "source_url": "https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off"
   }
- ]
+ ],
+ "audit": {
+  "checked": [
+   "Kash Patel's Qatar recusal and the Dec 2025 FBI-Qatar agreements",
+   "Pakistan's Seiden Law and Javelin Advisors (Schiller/Sorial) FARA contracts, Apr 2025",
+   "Kalshi's $240K to Miller Strategies in H1 2026",
+   "Ballard's $60K/month Saudi embassy contract",
+   "Brad Bondi's role for Trevor Milton; Bondi's AG status"
+  ],
+  "result": "corrected",
+  "changes": [
+   "Patel: corrected the recusal framing (Nov 2024 one-year pledge expired before the Dec 2025 signing; March 2025 waiver), reconciled with C73, in the finding and summary.",
+   "Bondi: summary and entity now say she was AG until Apr 2, 2026 (Blanche acting AG, then confirmed Aug 8, 2026).",
+   "Brad Bondi: documented role is lead criminal defence counsel while at Cahill; the 'SEC counsel' description is from C36 and was not re-checked, so the statement and relationship label were adjusted.",
+   "Upheld: Seiden Law Apr 8, 2025 at $200K/month (some outlets say $125K) and Javelin's Apr 25, 2025 FARA registration, which lists Sorial, Schiller and Robert Seiden as co-owners; Kalshi-Miller $240K (OpenSecrets via Stateline); Ballard-Saudi $60K/month from Mar 31, 2025, still listed in a Mar 2026 FARA supplemental. Verdict and confidence unchanged."
+  ],
+  "new_sources": [
+   {
+    "title": "FBI Director Patel signs security deals with Qatar, his former lobbying client",
+    "publisher": "Jewish Insider",
+    "url": "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/",
+    "date": "2025-12"
+   },
+   {
+    "title": "Public Citizen complaint to OGE regarding ethics waiver for Patel",
+    "publisher": "Public Citizen",
+    "url": "https://www.citizen.org/article/public-citizen-complaint-to-oge-regarding-ethics-waiver-for-patel/",
+    "date": "2025-12"
+   },
+   {
+    "title": "Javelin Advisors FARA registration statement (7579)",
+    "publisher": "DOJ FARA eFile",
+    "url": "https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf",
+    "date": "2025-04-25"
+   },
+   {
+    "title": "Pakistan's multi-million dollar lobbying push to reset its image in the US",
+    "publisher": "Nukta",
+    "url": "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us",
+    "date": "2025"
+   },
+   {
+    "title": "Prediction markets spend millions to influence state, federal governments",
+    "publisher": "Stateline via Indiana Capital Chronicle",
+    "url": "https://indianacapitalchronicle.com/2026/10/05/repub/prediction-markets-spend-millions-to-influence-state-federal-governments/",
+    "date": "2026-10-05"
+   },
+   {
+    "title": "Foreign interests are paying millions to a Trump-linked lobbying firm",
+    "publisher": "Sludge",
+    "url": "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/",
+    "date": "2026-02-05"
+   },
+   {
+    "title": "Ballard Partners FARA supplemental statement (7070)",
+    "publisher": "DOJ FARA eFile",
+    "url": "https://efile.fara.gov/docs/7070-Supplemental-Statement-20260302-9.pdf",
+    "date": "2026-03-02"
+   },
+   {
+    "title": "Trump says Pam Bondi out as his attorney general, Blanche will serve as acting AG",
+    "publisher": "AP via National Newswatch",
+    "url": "https://nationalnewswatch.com/2026/04/02/the-latest-trump-says-pam-bondi-out-as-his-attorney-general-blanche-will-serve-as-acting-ag",
+    "date": "2026-04-02"
+   }
+  ]
+ }
 }

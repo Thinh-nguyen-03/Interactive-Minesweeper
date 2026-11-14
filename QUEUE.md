@@ -49,3 +49,14 @@ The user wants the map UI to look clean and professional and less "AI-coded", wi
 ## Status at 23:20 Central (resume run)
 - Batch 1 launched 23:15: hunts C68, C70; audits C06-C10, C12/C13/C20-C22, C23-C26/C29, C27/C28/C32-C34; map redesign agent.
 - Briefs C71-C82 (second-layer connection hunts) added to the index, not yet launched. Next batches of 6: [C71-C76], [C77-C82], then audits [C35-C39], [C45-C49 fresh searches], [C50-C52,C53,C54], [C55-C60], [C61-C67], then C69 (master timeline) last.
+
+## Status at pause (user instruction, about 01:20 Central 14 Nov): no new agents; let running ones finish; restart 04:30 Central
+- Done and pushed: all research C01-C82 except C69; second reviews for C01-C54; map redesign published (version 3) at the same link; README written.
+- Running at pause (finish on their own): C69 master timeline; second reviews for C55-C60, C61-C64, C65-C67, C68/C70-C72, C73-C77, C78-C82.
+- As each finishes: commit and push. When all are in: `python3 build.py`, republish `map/index.html` with `style.css`, `app.js`, `graph-data.js` to the same link, update README counts.
+- For the 04:30 restart:
+  1. Check every claim JSON has a full `audit` object (not "language review only"); re-run any reviewer that was cut short.
+  2. Third layer: mine the `leads` arrays of C53-C82 and the "Not connected in the coverage we found" sections for new C83+ connection hunts (ideas noted so far: Heritage Advisors / Sheikh Sultan bin Jassim network; Schiller-Sorial ventures (Javelin, GreenMet); Yorkville SPACs incl. the Venezuela vehicle and Blue Water III; Paulson holdings with federal backing; Silver Lake as recurring co-investor; Damac's unannounced Abu Dhabi projects; Hungary and Serbia unannounced deals; WLF token-swap pitch and partner AB / Prince Group link; Korea Aluminium final ruling; Hayes/Wool option grant the day before the Trump sons' Dominari announcement; Valor Equity / DOGE alumni; Kremlev/IBA; Boehly-led Lukoil consortium; ballroom donor spreadsheet in full).
+  3. Batches of at most 6-7 search agents at a time (opus, medium), each told to stay within ~30 searches.
+  4. Map follow-ups from the redesign report: only a third of corrections parse into pairs; name highlighting too faint; verdict tallies hidden below 1480px; `window.__dbg` test hook still in app.js.
+  5. Repo rename/description cannot be done with the available GitHub tools; suggested name `trump-claims-map` given to the user.

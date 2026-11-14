@@ -41,7 +41,7 @@
     {
       "statement": "Two CIC Ventures licensees, the sneaker company and the watch company, were set up by the same Sheridan, Wyoming formation agent.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented for the shared agent; inferred for any common ownership. Cowboy State Daily (Wyoming Secretary of State records) reports the following. 45Footwear LLC, which licenses 'Trump Sneakers' from CIC Ventures, was filed in Wyoming on 31 Jan 2024, less than three weeks before the 17 Feb 2024 Sneaker Con launch. Its registered agent is Andrew Pierce, a Sheridan paralegal with Wyoming Trust and LLC / Cloud Peak Law Group, at that firm's address. TheBestWatchesOnEarth LLC, which sells Trump-licensed watches, is registered at 1309 Coffeen Ave., Sheridan, with Pierce as organizer. Cowboy State Daily says it is 'unknown if the two efforts are connected'. CNN traced the 'Swiss-made' watches to a Sheridan shopping center tied to other Trump-themed sellers. Both companies' sites say they are not owned or controlled by Trump or CIC Ventures. A shared formation agent is common in Wyoming and does not prove shared owners; the licensees' beneficial owners are not public.",
+      "finding": "Evidence grade: documented for the shared agent; inferred for any common ownership. Cowboy State Daily (Wyoming Secretary of State records) reports the following. 45Footwear LLC, which licenses 'Trump Sneakers' from CIC Ventures, was filed in Wyoming on 31 Jan 2024, less than three weeks before the 17 Feb 2024 Sneaker Con launch. Its registered agent is Andrew Pierce, a Sheridan paralegal with Wyoming Trust and LLC / Cloud Peak Law Group, at that firm's address. TheBestWatchesOnEarth LLC, which sells Trump-licensed watches, is registered at 1309 Coffeen Ave., Sheridan, with Pierce as organizer. Cowboy State Daily says it is 'unknown if the two efforts are connected'. CNN traced the 'Swiss-made' watches to a Sheridan shopping center tied to other Trump-themed sellers. Both companies' sites say they are not owned or controlled by Trump or CIC Ventures. A shared formation agent is common in Wyoming and does not prove shared owners; the licensees' beneficial owners are not public. Audit note: Cowboy State Daily says Wyoming Trust and LLC / Cloud Peak Law Group has set up more than 5,000 LLCs, and CNN reports that Pierce's father and business partner, Mark Pierce, said he had no idea two of their clients were connected to Trump. TheBestWatchesOnEarth LLC was created on July 29, 2024 (CNN). Both points further weaken any common-ownership reading; the shared agent remains documented.",
       "sources": [
         "https://cowboystatedaily.com/2024/04/01/company-behind-trumps-flashy-gold-high-top-sneakers-registered-in-wyoming",
         "https://cowboystatedaily.com/2024/10/01/trumps-new-line-of-100k-watches-registered-to-wyoming-company/",
@@ -1466,5 +1466,50 @@
       ],
       "source_url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/ranking-member-ro-khanna-presses-world-liberty-financial-information-trump"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Donald Trump Jr. as sole trustee of the Donald J. Trump Revocable Trust with sole voting/investment power over 114.75M DJT shares",
+      "WSJ report that a Tahnoon-linked group is behind StringZ Holding RSC's 49% of WLTC Holdings",
+      "Shared Sheridan, Wyoming formation agent for the sneaker and watch licensees",
+      "Rep. Khanna's Feb 4, 2026 letter to the Delaware US Attorney"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Added context to the Wyoming-agent item: the agent's firm has formed more than 5,000 LLCs and its principal told CNN he did not know the clients were Trump-connected; the watch LLC was created July 29, 2024. Grades unchanged.",
+      "Upheld: the 13D trust language, the WSJ/OCC StringZ reporting (still anonymous-source WSJ for the owner and percentage, as labelled), and the Khanna letter (no US Attorney action found). Verdict and confidence unchanged."
+    ],
+    "new_sources": [
+      {
+        "title": "Trump Media & Technology Group Corp. Schedule 13D/A",
+        "publisher": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001849635/000114036124050512/primary_doc.xml",
+        "date": "2024-12"
+      },
+      {
+        "title": "UAE 'spy sheikh' takes 49% stake in Trump family's bank venture: WSJ",
+        "publisher": "The Block",
+        "url": "https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Company Behind Trump's Flashy Gold High-Top Sneakers Registered In Wyoming",
+        "publisher": "Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2024/04/01/company-behind-trumps-flashy-gold-high-top-sneakers-registered-in-wyoming",
+        "date": "2024-04-01"
+      },
+      {
+        "title": "Trump is selling $100K 'Swiss-made' watches. A search for who makes them took a bizarre turn",
+        "publisher": "CNN",
+        "url": "https://amp.cnn.com/cnn/2024/10/17/politics/trump-watches-wyoming-invs",
+        "date": "2024-10-17"
+      },
+      {
+        "title": "SCC letter to US Attorney Wallace, Feb 4, 2026",
+        "publisher": "House Select Committee on the CCP (Democrats)",
+        "url": "https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/2-4-26-scc-letter-to-wallace.pdf",
+        "date": "2026-02-04"
+      }
+    ]
+  }
 }
