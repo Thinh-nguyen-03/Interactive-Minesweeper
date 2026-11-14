@@ -388,10 +388,13 @@ details.fold > summary:hover { color: var(--accent); }
 }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .only-narrow { display: none; }
+.narrow { display: none; }
 
 /* ---------- phone ---------- */
 @media (max-width: 760px) {
   .only-narrow { display: inline-flex; }
+  .narrow { display: inline; }
+  .wide { display: none; }
   .topbar { gap: 8px; padding-block: 8px 6px; }
   .brand { flex-basis: 100%; }
   .brand h1 { font-size: 18px; }
@@ -400,6 +403,7 @@ details.fold > summary:hover { color: var(--accent); }
   .toolbar { gap: 6px; }
   .toolbar .status { display: none; }
   .tabs { flex: 1 1 100%; }
+  .toolbar .spacer { display: none; }
   .tabs button { flex: 1 1 auto; padding: 5px 6px; font-size: 13px; }
   .panel {
     position: absolute; left: 0; right: 0; bottom: 0; z-index: 30; flex: none; height: 62%;

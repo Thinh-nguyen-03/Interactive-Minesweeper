@@ -285,17 +285,18 @@
       var r = 16 * Math.sqrt(i + 0.5), a = i * 2.399963;
       n.x = r * Math.cos(a); n.y = r * Math.sin(a);
     });
+    var box = canvas.parentElement.getBoundingClientRect(), portrait = box.height > box.width * 1.1;
     sim = d3.forceSimulation(nodes)
       .force('link', d3.forceLink(links).distance(function (l) {
-        return l.kind === 'rel' ? 70 : l.kind === 'claim' ? 85 : 120;
+        return l.kind === 'rel' ? 78 : l.kind === 'claim' ? 105 : 150;
       }).strength(function (l) {
         var m = Math.min(l.source.degree, l.target.degree) || 1;
         return (l.kind === 'claim' ? 0.9 : l.kind === 'rel' ? 0.5 : 0.25) / Math.sqrt(m);
       }))
-      .force('charge', d3.forceManyBody().strength(function (n) { return -150 - 22 * Math.sqrt(n.degree) - (n.kind === 'claim' ? 260 : 0); }).distanceMax(900))
+      .force('charge', d3.forceManyBody().strength(function (n) { return -210 - 30 * Math.sqrt(n.degree) - (n.kind === 'claim' ? 420 : 0); }).distanceMax(1100))
       .force('collide', d3.forceCollide().radius(function (n) { return n.r + (n.kind === 'claim' ? 16 : 7); }).strength(0.8))
-      .force('x', d3.forceX(0).strength(0.035))
-      .force('y', d3.forceY(0).strength(0.05))
+      .force('x', d3.forceX(0).strength(portrait ? 0.062 : 0.03))
+      .force('y', d3.forceY(0).strength(portrait ? 0.03 : 0.058))
       .stop();
     var ticks = nodes.length > 600 ? 220 : 380;
     for (var i = 0; i < ticks; i++) sim.tick();
@@ -308,7 +309,7 @@
     var cx = W / 2, cy = H / 2, had = W > 0;
     W = box.width; H = box.height; dpr = Math.min(window.devicePixelRatio || 1, 2.5);
     canvas.width = Math.round(W * dpr); canvas.height = Math.round(H * dpr);
-    if (!fitted) { fitted = true; fit(false); if (state.sel) centerOn(state.sel, false); }
+    if (!fitted) { fitted = true; fit(false); if (state.sel) focusOn(state.sel, false); }
     else if (had && zoom) { d3.select(canvas).call(zoom.transform, T.translate((W / 2 - cx) / T.k, (H / 2 - cy) / T.k)); }
     draw();
   }
@@ -328,10 +329,20 @@
     if (!vis.length || !W) return;
     var x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity;
     vis.forEach(function (n) { x0 = Math.min(x0, n.x - n.r); x1 = Math.max(x1, n.x + n.r); y0 = Math.min(y0, n.y - n.r); y1 = Math.max(y1, n.y + n.r + 14); });
-    var a = visibleArea(), pad = narrow.matches ? 18 : 44;
-    var k = Math.min((a.w - pad * 2) / Math.max(1, x1 - x0), (a.h - pad * 2) / Math.max(1, y1 - y0), 1.6);
+    frame(x0, y0, x1, y1, 1.6, animate);
+  }
+  function frame(x0, y0, x1, y1, maxK, animate) {
+    var a = visibleArea(), pad = narrow.matches ? 18 : 40, left = 0, lg = $('legend');
+    if (!narrow.matches && lg.open && W > 760) left = lg.getBoundingClientRect().width + 8;   // keep clear of the legend
+    var k = Math.min((a.w - left - pad * 2) / Math.max(1, x1 - x0), (a.h - pad * 2) / Math.max(1, y1 - y0), maxK);
     k = Math.max(k, 0.12);
-    moveTo(d3.zoomIdentity.translate(a.w / 2 - k * (x0 + x1) / 2, a.h / 2 - k * (y0 + y1) / 2).scale(k), animate);
+    moveTo(d3.zoomIdentity.translate(left + (a.w - left) / 2 - k * (x0 + x1) / 2, a.h / 2 - k * (y0 + y1) / 2).scale(k), animate);
+  }
+  function focusOn(n, animate) {   // frame a node together with its neighbourhood
+    if (!W || !zoom || !n.vis) return;
+    var x0 = n.x, x1 = n.x, y0 = n.y, y1 = n.y;
+    n.adj.forEach(function (l, k) { var o = byKey.get(k); if (!l.vis) return; x0 = Math.min(x0, o.x); x1 = Math.max(x1, o.x); y0 = Math.min(y0, o.y); y1 = Math.max(y1, o.y); });
+    frame(x0 - 50, y0 - 40, x1 + 50, y1 + 50, 1.5, animate);
   }
   function centerOn(n, animate, onlyIfHidden) {
     if (!W || !zoom || !n.vis) return;
@@ -343,7 +354,7 @@
 
   function rs(n) {   // on-screen radius
     var min = n.kind === 'entity' ? 2.2 : 5.5;
-    return Math.max(n.r * Math.pow(T.k, 0.85), min);
+    return Math.min(Math.max(n.r * Math.pow(T.k, 0.8), min), n.r * 2);
   }
   function hit(px, py, slack) {
     var best = null, bd = Infinity;
@@ -437,7 +448,8 @@
       l = links[i]; if (!l.vis || (fs && fs.links.has(l))) continue;
       (l.kind === 'parent' ? groups[1][1] : l.inferred ? groups[2][1] : groups[0][1]).push(l);
     }
-    ctx.lineWidth = 1; ctx.strokeStyle = C.edge; ctx.globalAlpha = fs ? 0.3 : 1;
+    var dense = Math.max(0.4, Math.min(1, 1100 / (links.length + 1)));
+    ctx.lineWidth = 1; ctx.strokeStyle = C.edge; ctx.globalAlpha = (fs ? 0.3 : 1) * dense;
     groups.forEach(function (g) {
       if (!g[1].length) return;
       ctx.setLineDash(g[0] === 'parent' ? [6, 4] : g[0] === 'inferred' ? [2, 4] : []);
@@ -480,7 +492,7 @@
       else if (n.hub) { pri += 200; }
       else { a = Math.min(1, (k * n.r - 6.2) / 3.2); if (a <= 0.05) continue; }
       if (n.kind === 'claim') text = (fs || k > 1.25) ? n.id + '  ' + trunc(n.title, n === f ? 60 : 34) : n.id;
-      else text = trunc(n.name, n === f ? 60 : 30);
+      else text = trunc(n.name, n === f ? 60 : n.kind === 'theme' ? 44 : 30);
       cand.push({ n: n, x: sx, y: sy, a: a, pri: pri, text: text });
     }
     cand.sort(function (p, q) { return q.pri - p.pri; });
@@ -490,12 +502,13 @@
       var big = c.n === f || c.n.hub || c.n.kind === 'claim';
       var font = (c.n === f ? '600 13px ' : big ? '500 12px ' : '400 11px ') + FONT;
       var w = textW(font, c.text), r = rs(c.n) * (c.n.kind === 'claim' ? 1.22 : 1);
-      var y = c.y + r + 9, x0 = c.x - w / 2 - 3, x1 = c.x + w / 2 + 3;
+      var cx = w + 12 < W ? Math.min(Math.max(c.x, w / 2 + 6), W - w / 2 - 6) : c.x;   // keep the text on screen
+      var y = c.y + r + 9, x0 = cx - w / 2 - 3, x1 = cx + w / 2 + 3;
       if (overlaps(placed, x0, y - 7, x1, y + 7)) return;
       placed.push([x0, y - 7, x1, y + 7]);
       ctx.font = font; ctx.globalAlpha = c.a;
-      ctx.lineWidth = 3.5; ctx.strokeStyle = C.bg; ctx.strokeText(c.text, c.x, y);
-      ctx.fillStyle = big ? C.label : C.labelDim; ctx.fillText(c.text, c.x, y);
+      ctx.lineWidth = 3.5; ctx.strokeStyle = C.bg; ctx.strokeText(c.text, cx, y);
+      ctx.fillStyle = big ? C.label : C.labelDim; ctx.fillText(c.text, cx, y);
     });
     ctx.globalAlpha = 1;
 
@@ -737,7 +750,7 @@
     if (!opts.fromHash) setHash(n.hash);
     if (state.view === 'map') {
       if (opts.center === 'ifHidden') centerOn(n, true, true);
-      else if (opts.center !== false) centerOn(n, opts.animate !== false);
+      else if (opts.center !== false) focusOn(n, opts.animate !== false);
       requestDraw();
     }
   }
@@ -898,9 +911,13 @@
   function init() {
     readTokens();
     var vid = claims.filter(function (c) { return c.origin !== 'follow-up'; }).length, fu = claims.length - vid;
-    if (claims.length) $('intro').textContent = plural(vid, 'claim', 'claims') + ' about Trump-family business dealings from Coffeezilla’s video “Investigating The President”' +
-      (fu ? ', plus ' + plural(fu, 'follow-up lead', 'follow-up leads') : '') + ', each checked against public records and reporting. Diamonds are claims, marked by verdict' + (fu ? '; squares are follow-ups' : '') +
-      '. Circles are the people, companies and agencies involved. Select anything to see the evidence.';
+    if (claims.length) {
+      $('intro-wide').textContent = plural(vid, 'claim', 'claims') + ' about Trump-family business dealings from Coffeezilla’s video “Investigating The President”' +
+        (fu ? ', plus ' + plural(fu, 'follow-up lead', 'follow-up leads') : '') + ', each checked against public records and reporting. Diamonds are claims, marked by verdict' + (fu ? '; squares are follow-ups' : '') +
+        '. Circles are the people, companies and agencies involved. Select anything to see the evidence.';
+      $('intro-narrow').textContent = plural(vid, 'claim', 'claims') + ' from Coffeezilla’s “Investigating The President”' + (fu ? ' and ' + plural(fu, 'follow-up', 'follow-ups') : '') +
+        ', each checked against the record. Tap a diamond or circle for the evidence.';
+    }
     if (!narrow.matches) $('legend').open = true;
     renderLegend(); renderFilters(); renderClaimsView(); renderCommonView();
     applyFilters();
