@@ -15,19 +15,19 @@ Saudi businessman who wired $100,000 to Michael Boulos (June 2022)
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C66 The extended family's ventures and roles]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Abdulelah Allam]] *wired $100,000 to* [[Michael Boulos]] · 2022-06-22 · $100K · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Abdulelah Allam]] *wired $100,000 to* [[Michael Boulos]] · 2022-06-22 · $100K · [[C66 The extended family's ventures and roles|C66]]
 
 ### Legal (1)
 
-- [[Robert Garcia]] *sent inquiry letter to* [[Abdulelah Allam]] · 2025-08-29 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Robert Garcia]] *sent inquiry letter to* [[Abdulelah Allam]] · 2025-08-29 · [[C66 The extended family's ventures and roles|C66]]

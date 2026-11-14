@@ -17,17 +17,17 @@ Elliott affiliate; court-approved $5.9B buyer of PDV Holding
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 | Also known as | Amber Energy |
 
-## How other claims describe it
+## How other checks describe it
 
 - Winning Citgo bidder at ~$5.9B
 
-## Appears in claims
+## Appears in checks
 
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C78 The blank-cheque companies run by Trump Media's interim chief]] · Mostly accurate
 - [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
 
 ## Relationships
@@ -38,5 +38,5 @@ Elliott affiliate; court-approved $5.9B buyer of PDV Holding
 
 ### Commercial (2)
 
-- [[Amber Energy (Elliott Management)]] *won court auction* [[Citgo PDV Holding]] · 2025-11 · $5.9B · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Amber Energy (Elliott Management)]] *won court auction* [[Citgo PDV Holding]] · 2025-11 · $5.9B · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]]
 - [[Amber Energy (Elliott Management)]] *court-approved $5.9B buyer (unlicensed, under appeal) of* [[Citgo PDV Holding]] · 2025-11-25 · $5.9B · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]

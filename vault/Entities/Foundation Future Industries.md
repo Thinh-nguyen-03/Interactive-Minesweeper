@@ -17,53 +17,53 @@ Humanoid robot startup with $24M Pentagon contract; Eric Trump is chief strategy
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 12 |
 | Also known as | Foundation |
 
-## How other claims describe it
+## How other checks describe it
 
 - San Francisco humanoid-robot startup (founded 2024) building the Phantom robot for military and industrial use.
 - Humanoid-robot maker with Eric Trump as adviser (C28).
 
-## Appears in claims
+## Appears in checks
 
-- [[C28 Foundation Future Industries robots and Eric Trump]] · Mostly accurate
-- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
+- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
+- [[C32 Donald Trump Jr.'s ties to other government contractors]] · Partly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Eric Trump]] *investor in* [[Foundation Future Industries]] · 2026 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Pentagon (Department of Defense)]] *awarded $24M contract to* [[Foundation Future Industries]] · $24M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Eric Trump]] *investor in* [[Foundation Future Industries]] · 2026 · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Pentagon (Department of Defense)]] *awarded $24M contract to* [[Foundation Future Industries]] · $24M · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
 
 ### Ownership (2)
 
-- [[Foundation Future Industries]] *acquired (inheriting two federal contracts)* [[Boardwalk Robotics]] · 2024 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Sankaet Pathak]] *founder and CEO of* [[Foundation Future Industries]] · 2024 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Foundation Future Industries]] *acquired (inheriting two federal contracts)* [[Boardwalk Robotics]] · 2024 · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Sankaet Pathak]] *founder and CEO of* [[Foundation Future Industries]] · 2024 · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
 
 ### Advisory (2)
 
-- [[Eric Trump]] *chief strategy adviser to* [[Foundation Future Industries]] · 2026-03 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Eric Trump]] *chief strategy adviser of* [[Foundation Future Industries]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[Eric Trump]] *chief strategy adviser to* [[Foundation Future Industries]] · 2026-03 · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Eric Trump]] *chief strategy adviser of* [[Foundation Future Industries]] · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
 
 ### Political (1)
 
-- [[Elizabeth Warren]] *criticized as 'corruption in plain sight'* [[Foundation Future Industries]] · 2026-04 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Elizabeth Warren]] *criticized as 'corruption in plain sight'* [[Foundation Future Industries]] · 2026-04 · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
 
 ### Media (2)
 
-- [[Wired]] *reported $24M figure 'fuzzy' and contracts inherited* [[Foundation Future Industries]] · 2026 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Fox News]] *presented $24M contract as new* [[Foundation Future Industries]] · 2026-04-23 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Wired]] *reported $24M figure 'fuzzy' and contracts inherited* [[Foundation Future Industries]] · 2026 · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Fox News]] *presented $24M contract as new* [[Foundation Future Industries]] · 2026-04-23 · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
 
 ### Commercial (5)
 
-- [[Foundation Future Industries]] *sent two Phantom units for demonstrations* [[Ukraine]] · 2026 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Pentagon (Department of Defense)]] *~$24M in research awards (Army/Navy/Air Force), as promoted* [[Foundation Future Industries]] · 2026-04 · $24M · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Foundation Future Industries]] *develops* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Foundation Future Industries]] *makes* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Institute for Human and Machine Cognition]] *routed three research projects to* [[Foundation Future Industries]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Foundation Future Industries]] *sent two Phantom units for demonstrations* [[Ukraine]] · 2026 · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Pentagon (Department of Defense)]] *~$24M in research awards (Army/Navy/Air Force), as promoted* [[Foundation Future Industries]] · 2026-04 · $24M · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Foundation Future Industries]] *develops* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Foundation Future Industries]] *makes* [[Phantom humanoid robot]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Institute for Human and Machine Cognition]] *routed three research projects to* [[Foundation Future Industries]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
 
 ## Themes
 

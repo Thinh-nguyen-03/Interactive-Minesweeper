@@ -17,19 +17,19 @@ Other Middle Eastern sovereign funds Affinity is expected to ask for money.
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 | Also known as | Middle Eastern sovereign funds |
 
-## Appears in claims
+## Appears in checks
 
-- [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
+- [[C15 Jared Kushner, Affinity Partners and Gulf sovereign funds]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Affinity Partners]] *seeking part of $5B from* [[Other Gulf sovereign wealth funds]] · $5B · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Affinity Partners]] *seeking part of $5B from* [[Other Gulf sovereign wealth funds]] · $5B · [[C15 Jared Kushner, Affinity Partners and Gulf sovereign funds|C15]]
 
 ## Themes
 

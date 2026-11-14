@@ -15,26 +15,26 @@ Meteora co-founder accused in a class action of orchestrating MELANIA pump-and-d
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Meteora co-founder and ex-CEO; resigned Feb 2025; class-action defendant
 
-## Appears in claims
+## Appears in checks
 
-- [[C02 $MELANIA coin and NFTs]] · Mostly accurate
-- [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
+- [[C02 The $MELANIA coin and Melania Trump's NFT income]] · Mostly accurate
+- [[C40 Who ran the $TRUMP and $MELANIA launches]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Benjamin Chow]] *co-founded; resigned as CEO* [[Meteora]] · 2025-02-18 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Benjamin Chow]] *co-founded* [[Meteora]] · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Benjamin Chow]] *co-founded; resigned as CEO* [[Meteora]] · 2025-02-18 · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]
+- [[Benjamin Chow]] *co-founded* [[Meteora]] · [[C02 The $MELANIA coin and Melania Trump's NFT income|C02]]
 
 ### Legal (2)
 
-- [[Benjamin Chow]] *accused in class action of pump-and-dump of* [[$MELANIA meme coin]] · 2025-10 · [[C02 $MELANIA coin and NFTs|C02]]
-- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *named as alleged orchestrator* [[Benjamin Chow]] · 2025-10-21 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Benjamin Chow]] *accused in class action of pump-and-dump of* [[$MELANIA meme coin]] · 2025-10 · [[C02 The $MELANIA coin and Melania Trump's NFT income|C02]]
+- [[Hurlock v. Kelsier Ventures (SDNY 1 25-cv-03891)]] *named as alleged orchestrator* [[Benjamin Chow]] · 2025-10-21 · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]

@@ -15,9 +15,9 @@ Co-reported the Newsmax stake; reported the Doyle meeting
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate

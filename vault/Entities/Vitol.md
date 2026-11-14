@@ -15,15 +15,15 @@ Trader that sold Cnergyico the WTI cargo.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Cnergyico]] *bought ~1M bbl WTI test cargo* [[Vitol]] · 2025-07 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Cnergyico]] *bought ~1M bbl WTI test cargo* [[Vitol]] · 2025-07 · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]

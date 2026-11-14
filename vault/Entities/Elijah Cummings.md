@@ -12,20 +12,20 @@ tags:
 
 Late House Oversight chair; disclosed Kushner's WhatsApp use for official business in 2019.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C37 Jared Kushner's hacked phone|C37]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C37 The reported hack of Jared Kushner's phone|C37]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
+- [[C37 The reported hack of Jared Kushner's phone]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Elijah Cummings]] *disclosed WhatsApp use for official business* [[Jared Kushner]] · 2019-03-21 · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+- [[Elijah Cummings]] *disclosed WhatsApp use for official business* [[Jared Kushner]] · 2019-03-21 · [[C37 The reported hack of Jared Kushner's phone|C37]] · unverified allegation

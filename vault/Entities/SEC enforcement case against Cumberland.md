@@ -15,23 +15,23 @@ Dismissed with prejudice.
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]] · Mostly accurate
-- [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
+- [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo]] · Mostly accurate
+- [[C23 SEC crypto cases dropped and the firms' donations]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Securities and Exchange Commission]] *dismissed with prejudice* [[SEC enforcement case against Cumberland]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dismissed with prejudice* [[SEC enforcement case against Cumberland]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]] [[C23 SEC crypto cases dropped and the firms' donations|C23]]
 
 ### Legal (1)
 
-- [[SEC enforcement case against Cumberland]] *targeted* [[Cumberland (DRW)]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[SEC enforcement case against Cumberland]] *targeted* [[Cumberland (DRW)]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
 
 ## Themes
 

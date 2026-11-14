@@ -15,26 +15,26 @@ Cantor's $2B bitcoin-backed lending programme
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 7 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
+- [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Cantor bitcoin financing business]] *lent to* [[FalconX]] · 2025 · $100M · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[Cantor bitcoin financing business]] *lent to* [[Maple Finance]] · 2025 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Cantor bitcoin financing business]] *lent to* [[FalconX]] · 2025 · $100M · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[Cantor bitcoin financing business]] *lent to* [[Maple Finance]] · 2025 · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
 
 ### Ownership (1)
 
-- [[Cantor Fitzgerald]] *launched* [[Cantor bitcoin financing business]] · 2024-07 · $2B · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Cantor Fitzgerald]] *launched* [[Cantor bitcoin financing business]] · 2024-07 · $2B · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
 
 ### Commercial (3)
 
-- [[Anchorage Digital]] *custodian for* [[Cantor bitcoin financing business]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[Cantor bitcoin financing business]] *collateralised by* [[Bitcoin]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[Copper]] *custodian for* [[Cantor bitcoin financing business]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Anchorage Digital]] *custodian for* [[Cantor bitcoin financing business]] · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[Cantor bitcoin financing business]] *collateralised by* [[Bitcoin]] · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[Copper]] *custodian for* [[Cantor bitcoin financing business]] · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]

@@ -15,10 +15,10 @@ GSA government-wide discount agreements with tech vendors, launched 2025.
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 

@@ -15,15 +15,15 @@ Asked agencies about donor equity positions
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[House Natural Resources Committee Democrats]] *asked whether Trump donors hold equity in stake companies* [[US Department of Commerce]] · 2026-02-02 · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
+- [[House Natural Resources Committee Democrats]] *asked whether Trump donors hold equity in stake companies* [[US Department of Commerce]] · 2026-02-02 · [[C86 Major Trump donors with stakes in federally backed companies|C86]]

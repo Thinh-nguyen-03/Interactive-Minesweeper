@@ -15,15 +15,15 @@ Alaska gold project; Paulson bought 40% in 2025
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Paulson & Co]] *bought 40% from Barrick for $800M* [[Donlin Gold]] · 2025-06-03 · $800M · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
+- [[Paulson & Co]] *bought 40% from Barrick for $800M* [[Donlin Gold]] · 2025-06-03 · $800M · [[C86 Major Trump donors with stakes in federally backed companies|C86]]

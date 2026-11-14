@@ -15,19 +15,19 @@ US senator who criticized Binance's promotion of Trump-linked crypto after the p
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - US senator; co-led Nov 2025 inquiry into Witkoff's ethics filings
 - Senator co-leading the Witkoff ethics inquiry
 
-## Appears in claims
+## Appears in checks
 
-- [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
+- [[C09 The dropped Binance case and the pardon of Changpeng Zhao]] · Mostly accurate
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
-- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C54 The crypto revolving door]] · Mostly accurate
 
 ## Relationships
 
@@ -37,5 +37,5 @@ US senator who criticized Binance's promotion of Trump-linked crypto after the p
 
 ### Political (2)
 
-- [[Chris Murphy]] *accused of promoting Trump-linked crypto after pardon* [[Binance]] · 2025-10 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[Chris Murphy]] *opened ethics inquiry (with Warren)* [[Steve Witkoff]] · 2025-11-18 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Chris Murphy]] *accused of promoting Trump-linked crypto after pardon* [[Binance]] · 2025-10 · [[C09 The dropped Binance case and the pardon of Changpeng Zhao|C09]]
+- [[Chris Murphy]] *opened ethics inquiry (with Warren)* [[Steve Witkoff]] · 2025-11-18 · [[C54 The crypto revolving door|C54]]

@@ -15,10 +15,10 @@ Its sovereign fund was reportedly approached by the Witkoff sons
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
 

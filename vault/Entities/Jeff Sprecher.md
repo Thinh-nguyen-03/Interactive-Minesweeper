@@ -15,19 +15,19 @@ Chair/CEO of Intercontinental Exchange; Loeffler's husband
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
+- [[C92 The White House ballroom donor list]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Jeff Sprecher]] *chair and CEO* [[Intercontinental Exchange (ICE)]] · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Jeff Sprecher]] *chair and CEO* [[Intercontinental Exchange (ICE)]] · [[C92 The White House ballroom donor list|C92]]
 
 ### Family (1)
 
-- [[Jeff Sprecher]] *spouse* [[Kelly Loeffler]] · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Jeff Sprecher]] *spouse* [[Kelly Loeffler]] · [[C92 The White House ballroom donor list|C92]]

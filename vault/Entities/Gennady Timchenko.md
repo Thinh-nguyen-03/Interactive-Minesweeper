@@ -15,15 +15,15 @@ Sanctioned Russian billionaire; Gunvor co-founder who sold his stake in 2014.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
+- [[C94 The sale of Lukoil's foreign assets and the Boehly consortium]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Gennady Timchenko]] *co-founder; sold stake 2014* [[Gunvor Group]] · 2014 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[Gennady Timchenko]] *co-founder; sold stake 2014* [[Gunvor Group]] · 2014 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]

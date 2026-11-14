@@ -15,15 +15,15 @@ Settled with Newsmax for $67M (2025)
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Newsmax]] *paid $67M settlement to* [[Dominion Voting Systems]] · 2025-08 · $67M · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+- [[Newsmax]] *paid $67M settlement to* [[Dominion Voting Systems]] · 2025-08 · $67M · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]

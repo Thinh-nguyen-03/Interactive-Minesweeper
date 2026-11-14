@@ -12,28 +12,28 @@ tags:
 
 Alleged routing jurisdiction for the Saudi/UAE funds and an alleged $1B transfer to Israel.
 
-> [!warning] Appears in an unverified, single-source allegation ([[C37 Jared Kushner's hacked phone|C37]], [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in an unverified, single-source allegation ([[C37 The reported hack of Jared Kushner's phone|C37]], [[C46 The alleged Kushner Gulf accounts|C46]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Alleged routing jurisdiction for the funds; no official response found.
 - State
 
-## Appears in claims
+## Appears in checks
 
-- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C37 The reported hack of Jared Kushner's phone]] · Unverified · unverified allegation, single source
+- [[C46 The alleged Kushner Gulf accounts]] · Unverified · unverified allegation, single source
+- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Tripp+ enterprise fund]] *authorized to invest in* [[Azerbaijan]] · 2026 · $201M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
-- [[Azerbaijan]] *alleged routing bank for Saudi/UAE funds* [[First Abu Dhabi Bank]] · [[C37 Jared Kushner's hacked phone|C37]] · unverified allegation
+- [[Tripp+ enterprise fund]] *authorized to invest in* [[Azerbaijan]] · 2026 · $201M · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
+- [[Azerbaijan]] *alleged routing bank for Saudi/UAE funds* [[First Abu Dhabi Bank]] · [[C37 The reported hack of Jared Kushner's phone|C37]] · unverified allegation

@@ -15,19 +15,19 @@ Nxum CEO, Bo Hines's father
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C54 The crypto revolving door]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Todd Hines]] *CEO of* [[Nxum Group]] · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Todd Hines]] *CEO of* [[Nxum Group]] · [[C54 The crypto revolving door|C54]]
 
 ### Family (1)
 
-- [[Todd Hines]] *father of* [[Bo Hines]] · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Todd Hines]] *father of* [[Bo Hines]] · [[C54 The crypto revolving door|C54]]

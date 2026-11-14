@@ -15,22 +15,22 @@ tags:
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - ~$1B Dar Global project announced Sept 2025
 
-## Appears in claims
+## Appears in checks
 
-- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
-- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C31 Trump Organization real-estate deals in the Gulf]] · Mostly accurate
+- [[C56 Saudi Arabia family deals alongside US policy decisions]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (3)
 
-- [[Trump Organization]] *licenses brand to* [[Trump Plaza Jeddah]] · 2025-09 · $1B · [[C56 Saudi Arabia family deals alongside US policy|C56]]
-- [[Dar Global]] *developer of* [[Trump Plaza Jeddah]] · 2025-09-29 · $1B · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
-- [[Trump Plaza Jeddah]] *located in* [[Saudi Arabia]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Trump Organization]] *licenses brand to* [[Trump Plaza Jeddah]] · 2025-09 · $1B · [[C56 Saudi Arabia family deals alongside US policy decisions|C56]]
+- [[Dar Global]] *developer of* [[Trump Plaza Jeddah]] · 2025-09-29 · $1B · [[C31 Trump Organization real-estate deals in the Gulf|C31]]
+- [[Trump Plaza Jeddah]] *located in* [[Saudi Arabia]] · [[C31 Trump Organization real-estate deals in the Gulf|C31]]

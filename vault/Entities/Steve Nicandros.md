@@ -15,15 +15,15 @@ GOP donor, Frontera/TXN Energy co-founder; lobbied against MEGOBARI
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Steve Nicandros]] *lobbied against* [[MEGOBARI Act]] · 2025 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[Steve Nicandros]] *lobbied against* [[MEGOBARI Act]] · 2025 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]

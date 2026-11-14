@@ -15,19 +15,19 @@ Approved Rocket-Mr. Cooper, 2025-08-26
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
+- [[C92 The White House ballroom donor list]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Federal Housing Finance Agency]] *approved $9.4B Mr. Cooper acquisition with 20% caps* [[Rocket Companies]] · 2025-08-26 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Federal Housing Finance Agency]] *approved $9.4B Mr. Cooper acquisition with 20% caps* [[Rocket Companies]] · 2025-08-26 · [[C92 The White House ballroom donor list|C92]]
 
 ### Political (1)
 
-- [[Bill Pulte]] *director* [[Federal Housing Finance Agency]] · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Bill Pulte]] *director* [[Federal Housing Finance Agency]] · [[C92 The White House ballroom donor list|C92]]

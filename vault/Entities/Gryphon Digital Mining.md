@@ -15,21 +15,21 @@ Nasdaq-listed miner merged with American Bitcoin (all-stock) in September 2025.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 3 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Nasdaq bitcoin miner (GRYP) that reverse-merged with American Bitcoin in 2025.
 
-## Appears in claims
+## Appears in checks
 
-- [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
-- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
+- [[C18 Eric Trump, Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
+- [[C91 Dominari option grants and trading before the Trump sons' arrival]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Gryphon Digital Mining]] *all-stock merger announced; GRYP +~300% on the day* [[American Bitcoin]] · 2025-05-12 · [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival|C91]]
-- [[American Bitcoin]] *merged (all-stock) to list on Nasdaq via* [[Gryphon Digital Mining]] · 2025-09-03 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Gryphon Digital Mining]] *all-stock merger announced; GRYP +~300% on the day* [[American Bitcoin]] · 2025-05-12 · [[C91 Dominari option grants and trading before the Trump sons' arrival|C91]]
+- [[American Bitcoin]] *merged (all-stock) to list on Nasdaq via* [[Gryphon Digital Mining]] · 2025-09-03 · [[C18 Eric Trump, Metaplanet, American Bitcoin and Hut 8|C18]]

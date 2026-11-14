@@ -15,17 +15,17 @@ US missile-defense program; SHIELD vehicle $151B ceiling
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
+- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (3)
 
-- [[North Wind]] *awardee (per Warren)* [[Golden Dome]] · 2026 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
-- [[Red River Technology]] *awardee (per Warren)* [[Golden Dome]] · 2026 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
-- [[Stratolaunch]] *awardee (per Warren)* [[Golden Dome]] · 2026 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[North Wind]] *awardee (per Warren)* [[Golden Dome]] · 2026 · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
+- [[Red River Technology]] *awardee (per Warren)* [[Golden Dome]] · 2026 · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
+- [[Stratolaunch]] *awardee (per Warren)* [[Golden Dome]] · 2026 · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]

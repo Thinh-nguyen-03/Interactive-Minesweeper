@@ -15,9 +15,9 @@ NYT reporter
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate

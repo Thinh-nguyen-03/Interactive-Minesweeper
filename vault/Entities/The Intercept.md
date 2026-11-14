@@ -15,25 +15,25 @@ Plaintiff in suit over Truth API and official posts
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 6 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Co-plaintiff in the SDNY suit against Truth API.
 - Reported Selig's former client list
 
-## Appears in claims
+## Appears in checks
 
-- [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
-- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
-- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
+- [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu]] · Mostly accurate
+- [[C54 The crypto revolving door]] · Mostly accurate
+- [[C58 Market-moving presidential posts and insider-trading allegations]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (4)
 
-- [[The Intercept]] *named defendant* [[Dan Scavino]] · 2026-08-12 · [[C58 Market-moving posts and insider-trading allegations|C58]]
-- [[The Intercept]] *sued over Truth API* [[Donald Trump]] · 2026-08-12 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
-- [[The Intercept]] *sued over official posts on paid-access platform* [[Donald Trump]] · 2026-08-12 · [[C58 Market-moving posts and insider-trading allegations|C58]]
-- [[The Intercept]] *named defendant* [[Natalie Harp]] · 2026-08-12 · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[The Intercept]] *named defendant* [[Dan Scavino]] · 2026-08-12 · [[C58 Market-moving presidential posts and insider-trading allegations|C58]]
+- [[The Intercept]] *sued over Truth API* [[Donald Trump]] · 2026-08-12 · [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu|C41]]
+- [[The Intercept]] *sued over official posts on paid-access platform* [[Donald Trump]] · 2026-08-12 · [[C58 Market-moving presidential posts and insider-trading allegations|C58]]
+- [[The Intercept]] *named defendant* [[Natalie Harp]] · 2026-08-12 · [[C58 Market-moving presidential posts and insider-trading allegations|C58]]

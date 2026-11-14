@@ -15,23 +15,23 @@ Former Trump 2024 campaign senior adviser; consultant to Lukoil International (P
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
+- [[C94 The sale of Lukoil's foreign assets and the Boehly consortium]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Bryan Lanza]] *consultant on asset sale; helped win Treasury extension (Politico, single-source)* [[Lukoil International GmbH (lukoil-international-gmbh)]] · 2025-12 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[Bryan Lanza]] *consultant on asset sale; helped win Treasury extension (Politico, single-source)* [[Lukoil International GmbH (lukoil-international-gmbh)]] · 2025-12 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
 
 ### Political (1)
 
-- [[Bryan Lanza]] *former senior adviser to 2024 campaign* [[Donald Trump]] · 2024 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[Bryan Lanza]] *former senior adviser to 2024 campaign* [[Donald Trump]] · 2024 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
 
 ### Commercial (1)
 
-- [[Bryan Lanza]] *works through* [[Mercury Public Affairs]] · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[Bryan Lanza]] *works through* [[Mercury Public Affairs]] · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]

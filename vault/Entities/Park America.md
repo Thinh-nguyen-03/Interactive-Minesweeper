@@ -15,15 +15,15 @@ Weitzman's parking company; federal contractor
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C66 The extended family's ventures and roles]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Jay Weitzman]] *owns* [[Park America]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Jay Weitzman]] *owns* [[Park America]] · [[C66 The extended family's ventures and roles|C66]]

@@ -15,15 +15,15 @@ Web3 gaming firm; SEC probe closed Mar 2025
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C43 Overlap between dropped enforcement cases and Trump donors]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Securities and Exchange Commission]] *closed investigation* [[Immutable]] · 2025-03-25 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Securities and Exchange Commission]] *closed investigation* [[Immutable]] · 2025-03-25 · [[C43 Overlap between dropped enforcement cases and Trump donors|C43]]

@@ -15,19 +15,19 @@ Donald Trump and sons; Bloomberg credits the family with ~$630M stake in WLF's s
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C10 Binance driving USD1 adoption]] · Mostly accurate
+- [[C10 Binance's role in the growth of USD1]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Trump family]] *holds ~$630M stake in stablecoin business of* [[World Liberty Financial]] · 2026-06 · $630M · [[C10 Binance driving USD1 adoption|C10]]
+- [[Trump family]] *holds ~$630M stake in stablecoin business of* [[World Liberty Financial]] · 2026-06 · $630M · [[C10 Binance's role in the growth of USD1|C10]]
 
 ### Family (1)
 
-- [[Donald Trump]] *head of* [[Trump family]] · [[C10 Binance driving USD1 adoption|C10]]
+- [[Donald Trump]] *head of* [[Trump family]] · [[C10 Binance's role in the growth of USD1|C10]]

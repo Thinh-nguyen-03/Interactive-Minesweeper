@@ -15,25 +15,25 @@ Idaho antimony-gold mine backed by EXIM and DoD
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Perpetua's Idaho mine
 
-## Appears in claims
+## Appears in checks
 
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
-- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
+- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Perpetua Resources]] *develops* [[Stibnite Gold Project]] · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
-- [[Perpetua Resources]] *owns* [[Stibnite Gold Project]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Perpetua Resources]] *develops* [[Stibnite Gold Project]] · [[C86 Major Trump donors with stakes in federally backed companies|C86]]
+- [[Perpetua Resources]] *owns* [[Stibnite Gold Project]] · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
 
 ### Regulatory (1)
 
-- [[U.S. Army Corps of Engineers]] *final 404 permit* [[Stibnite Gold Project]] · 2025-05 · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
+- [[U.S. Army Corps of Engineers]] *final 404 permit* [[Stibnite Gold Project]] · 2025-05 · [[C86 Major Trump donors with stakes in federally backed companies|C86]]

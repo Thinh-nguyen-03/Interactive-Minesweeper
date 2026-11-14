@@ -2,8 +2,6 @@
 id: "maria-bartiromo"
 kind: "entity"
 type: "person"
-aliases:
-  - "Maria"
 connections: 3
 claims: 1
 tags:
@@ -12,22 +10,21 @@ tags:
 ---
 # Maria Bartiromo
 
-Fox host ('Maria') interviewing Eric Trump and Sankaet Pathak about Foundation's Pentagon contract.
+Fox anchor who interviewed Eric Trump and Sankaet Pathak about Foundation's Pentagon contract.
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
-| Also known as | Maria |
 
-## Appears in claims
+## Appears in checks
 
-- [[C28 Foundation Future Industries robots and Eric Trump]] · Mostly accurate
+- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
 
 ## Relationships
 
 ### Media (2)
 
-- [[Maria Bartiromo]] *interviewed* [[Eric Trump]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
-- [[Maria Bartiromo]] *host on* [[Fox News]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Maria Bartiromo]] *interviewed* [[Eric Trump]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]
+- [[Maria Bartiromo]] *anchor at* [[Fox News]] · [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump|C28]]

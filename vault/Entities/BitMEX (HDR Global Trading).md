@@ -15,10 +15,10 @@ Crypto derivatives exchange; operator pardoned after $100M BSA fine
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 5 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 

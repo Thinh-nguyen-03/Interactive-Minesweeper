@@ -15,19 +15,19 @@ White House 'pardon czar' since Feb 2025
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
+- [[C49 The market for pardon lobbying]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Alice Marie Johnson]] *handled clemency case* [[Carlos Watson]] · 2025-03 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Alice Marie Johnson]] *handled clemency case* [[Carlos Watson]] · 2025-03 · [[C49 The market for pardon lobbying|C49]]
 
 ### Political (1)
 
-- [[Donald Trump]] *named pardon czar* [[Alice Marie Johnson]] · 2025-02-20 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Donald Trump]] *named pardon czar* [[Alice Marie Johnson]] · 2025-02-20 · [[C49 The market for pardon lobbying|C49]]

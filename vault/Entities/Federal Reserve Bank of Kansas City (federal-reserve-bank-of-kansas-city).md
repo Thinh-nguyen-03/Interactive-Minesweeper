@@ -15,15 +15,15 @@ Approved Kraken master account
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Federal Reserve Bank of Kansas City (federal-reserve-bank-of-kansas-city)]] *approved limited master account* [[Kraken Financial]] · 2026-03-04 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Federal Reserve Bank of Kansas City (federal-reserve-bank-of-kansas-city)]] *approved limited master account* [[Kraken Financial]] · 2026-03-04 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]

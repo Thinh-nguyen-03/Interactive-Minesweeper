@@ -4,7 +4,8 @@ kind: "claim"
 title: "Yorkville's blank-cheque vehicles: Venezuela, Blue Water III and PlusAI"
 verdict: "partly-accurate"
 confidence: "medium"
-origin: "connection-hunt"
+type: "Connection check"
+topic: "Trump Media and markets"
 parents:
   - "C78"
   - "C62"
@@ -12,13 +13,18 @@ aliases:
   - "C85"
 tags:
   - "claim"
-  - "origin/connection-hunt"
+  - "kind/connection-check"
+  - "topic/trump-media-and-markets"
   - "verdict/partly-accurate"
 ---
 # C85: Yorkville's blank-cheque vehicles: Venezuela, Blue Water III and PlusAI
 
 **Verdict:** Partly accurate · medium confidence  
-**Origin:** Connection hunt
+**Type:** Connection check · Trump Media and markets
+
+## The claim
+
+> What do Yorkville's blank-cheque companies target, what are the sponsors' founder stakes worth, and how do they relate to US policy on Venezuela?
 
 ## Bottom line
 
@@ -48,16 +54,12 @@ The governance and money links are documented. Yorkville's sponsors hold founder
 
 - YICC closed at $230M and still has no Venezuelan target, licence or reply to Wyden.
 - TVA III, with two Trump Organization EVPs on its board, was the announced merger vehicle for a Truth Social spin-off from Feb to Jun 2026 before signing PlusAI, and about 79% of its trust has since been redeemed.
-- The policy side of the brief is not substantiated: BLUW abandoned Citgo before Yorkville took over, the Citgo sale to Elliott's Amber Energy remains unlicensed and frozen by Treasury, and federal AV actions are industry-wide with no PlusAI-specific decision.
+- The policy side of the claim is not substantiated: BLUW abandoned Citgo before Yorkville took over, the Citgo sale to Elliott's Amber Energy remains unlicensed and frozen by Treasury, and federal AV actions are industry-wide with no PlusAI-specific decision.
 
-## Connections searched for
+## Builds on
 
-> Third-layer hunt from C78: Yorkville International Capital (Latin America/Venezuela focus; Wyden inquiry on sanctions licences) against the administration's Venezuela policy and oil licences since the Maduro raid; Blue Water Acquisition Corp III (previously bid ~$10B for Citgo's parent; now staffed with TMTG people) and the Citgo auction outcome; Texas Ventures Acquisition III's merger with PlusAI (self-driving trucks; federal AV rules; Trump Organization executives on the board); who holds founder shares in each and what they are worth. Verify and grade.
-
-## Follows up on
-
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
-- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C78 The blank-cheque companies run by Trump Media's interim chief]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate
 
 ## Sub-claims
 
@@ -65,7 +67,7 @@ The governance and money links are documented. Yorkville's sponsors hold founder
 
 **Confirmed**
 
-- Evidence grade: documented (8-K, 10-Q and S-1/A via search summaries; sec.gov blocked for direct fetch).
+- Evidence grade: documented (8-K, 10-Q and S-1/A via search summaries; sec.gov not read directly).
 - The IPO closed on 17 Jun 2026: 23,000,000 units including the full 3M over-allotment, $230M in trust at $10.00 (C78 and Wyden used the $200M priced figure).
 - Private warrants: 6.3M at $1, 4.0M to the sponsor and 2.3M to Cohen & Company Capital Markets, the sole book-runner.
 - Yorkville International Capital Sponsor, LLC (Florida) bought 15,333,333 Class B shares for $25,000; the subscription letter reads 15,033,333, unresolved.
@@ -177,7 +179,7 @@ The governance and money links are documented. Yorkville's sponsors hold founder
   - Nunes's and Glabe's 8-K said their resignations involved no disagreement.
 - Cheap founder shares ($25,000 promotes; about $1 a share on transferred blocks) are standard SPAC economics and are worthless without a completed deal.
   - They are not by themselves a Trump-specific benefit.
-- Sponsor control: the YICC S-1 says Mark Angelo holds voting and investment discretion via YA II PN, Ltd. Whether McGurn, Rillo or any Trump Org or TMTG director holds an economic interest in any sponsor LLC is not disclosed in anything we could read. sec.gov, fortune.com, iisd.org and barchart were blocked for direct fetch, so filing figures rely on search summaries and aggregators.
+- Sponsor control: the YICC S-1 says Mark Angelo holds voting and investment discretion via YA II PN, Ltd. Whether McGurn, Rillo or any Trump Org or TMTG director holds an economic interest in any sponsor LLC is not disclosed in anything we could read. sec.gov, fortune.com, iisd.org and barchart were not read directly, so filing figures rely on search summaries and aggregators.
 
 ## People and organisations
 
@@ -272,16 +274,16 @@ The governance and money links are documented. Yorkville's sponsors hold founder
 
 ### Commercial (14)
 
-- [[Alan Garten]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]] [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
+- [[Alan Garten]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]] [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Blue Water Acquisition Corp III (BLUW)]] *bid ~$10B then suspended (14 Nov 2025) for* [[Citgo PDV Holding]] · 2025-09 · $10B · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
-- [[Lawrence Glick]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]] [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
+- [[Lawrence Glick]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]] [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Amber Energy (Elliott Management)]] *court-approved $5.9B buyer (unlicensed, under appeal) of* [[Citgo PDV Holding]] · 2025-11-25 · $5.9B · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[TAE Technologies]] *party to Truth Social spin-off discussions with* [[Texas Ventures Acquisition III Corp]] · 2026-02-27 · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Trump Media & Technology Group]] *announced talks to merge Truth Social spin-off into (dropped 10 Jun 2026)* [[Texas Ventures Acquisition III Corp]] · 2026-02-27 · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Truth Social]] *proposed spin-off merger partner* [[Texas Ventures Acquisition III Corp]] · 2026-02-27 · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Blue Water Acquisition Corp IV (BWIV)]] *non-binding LOI (terminated 15 May 2026) to acquire subsidiaries of* [[Maha Capital AB]] · 2026-04-28 · $490M · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
-- [[Kevin McGurn]] *CEO and director of* [[Yorkville International Capital Corp (YICC)]] · 2026-06 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]] [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
-- [[Mark Angelo]] *chairman of* [[Yorkville International Capital Corp (YICC)]] · 2026-06 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]] [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
+- [[Kevin McGurn]] *CEO and director of* [[Yorkville International Capital Corp (YICC)]] · 2026-06 · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]] [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
+- [[Mark Angelo]] *chairman of* [[Yorkville International Capital Corp (YICC)]] · 2026-06 · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]] [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Cohen & Company Capital Markets]] *sole book-runner of $230M IPO and bought 2.3M warrants in* [[Yorkville International Capital Corp (YICC)]] · 2026-06-17 · $2.3M · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Texas Ventures Acquisition III Corp]] *business combination agreement at $800M pre-money with* [[Plus Automation Inc. (PlusAI)]] · 2026-09-03 · $800M · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
 - [[Alan Garten]] *EVP and chief legal officer of* [[Trump Organization]] · [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI|C85]]
@@ -352,18 +354,18 @@ The governance and money links are documented. Yorkville's sponsors hold founder
 **Verdict: partly-accurate.** The governance and money links are well documented. The policy links are not.
 **Confidence:** medium.
 
-This is a third-layer hunt from C78; the other parent is C62. C78 already maps the people across the four Yorkville-sponsored SPACs: Kevin McGurn, Mark Angelo, Troy Rillo, Lawrence Glick, Alan Garten, Devin Nunes and Scott Glabe. It is not repeated here. This report adds four things:
+This is a third-layer check building on C78; it also builds on C62. C78 already maps the people across the four Yorkville-sponsored SPACs: Kevin McGurn, Mark Angelo, Troy Rillo, Lawrence Glick, Alan Garten, Devin Nunes and Scott Glabe. It is not repeated here. This report adds four things:
 
 - what each vehicle has done since C78;
 - the Venezuela sanctions and oil-licence record each vehicle is exposed to;
 - the federal autonomous-vehicle (AV) record PlusAI is exposed to;
 - the founder-share economics.
 
-**Access note.** sec.gov, barchart, fortune.com and iisd.org were all blocked for direct fetch in this session. Filing figures below come from search-result summaries of the 8-K, 10-Q and S-1/A filings and from SEC-filing aggregators (Equibles, Medici List, Stock Titan). They are graded on that basis.
+**Access note.** sec.gov, barchart, fortune.com and iisd.org were not read directly. Filing figures below come from search-result summaries of the 8-K, 10-Q and S-1/A filings and from SEC-filing aggregators (Equibles, Medici List, Stock Titan). They are graded on that basis.
 
 ### Summary
 
-The brief holds up partly.
+The claim holds up partly.
 
 **What holds up**
 - **Yorkville International Capital (YICC)**
@@ -371,7 +373,7 @@ The brief holds up partly.
   - Its sponsor holds about **15.33M founder shares bought for $25,000**, about 40% of the shares outstanding.
   - It is still hunting for a Latin America/Venezuela target. No target was found as of November 2026, and no reply to Wyden.
 - **Texas Ventures Acquisition III (TVA III)**
-  - It was the planned merger partner for a **spin-off of Truth Social itself**. Trump Media (TMTG), TAE and TVA III announced this on 27 February 2026 and dropped it on 10 June 2026. C78 and the parent files did not cover this.
+  - It was the planned merger partner for a **spin-off of Truth Social itself**. Trump Media (TMTG), TAE and TVA III announced this on 27 February 2026 and dropped it on 10 June 2026. C78 and the earlier checks did not cover this.
   - TVA III's board then included two Trump Organization executives.
   - After the spin-off was dropped, TVA III signed with PlusAI.
   - Shareholders redeemed **about 79%** of the trust at the October 2026 extension vote. That leaves the Yorkville sponsor's 7.5M founder shares outnumbering the 4.8M public shares.
@@ -517,10 +519,10 @@ The brief holds up partly.
 
 Who owns the Yorkville sponsor LLCs (Yorkville Advisors / Angelo, and whether McGurn, Rillo or any Trump Org or TMTG director holds an interest) is **not disclosed in anything we could read**. No source reports any Trump-family interest in the Yorkville sponsors.
 
-### Corrections to the brief and to C78
+### Corrections (including to C78)
 
 - **YICC size:** the IPO closed at **$230M** (23M units), not $200M (C78 and Wyden used the priced amount).
-- **BLUW's role:** the brief says BLUW "previously bid ~$10B for Citgo's parent; now staffed with TMTG people". The bid was dropped before Yorkville took over, and the Venezuela thread passed to Hernandez's Blue Water IV, not to the Yorkville-run BLUW. Nunes and Glabe on BLUW's board remains single-source (C78).
+- **BLUW's role:** the claim says BLUW "previously bid ~$10B for Citgo's parent; now staffed with TMTG people". The bid was dropped before Yorkville took over, and the Venezuela thread passed to Hernandez's Blue Water IV, not to the Yorkville-run BLUW. Nunes and Glabe on BLUW's board remains single-source (C78).
 - **Citgo "outcome":** there is none yet. The sale is court-approved but un-licensed and under appeal.
 - **"Federal AV rules":** no PlusAI-specific federal action was found. The rules and exemptions are industry-wide.
 

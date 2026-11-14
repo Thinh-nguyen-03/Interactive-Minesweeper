@@ -15,9 +15,9 @@ Investigated the MOVE/Rentech/Web3Port deal
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate

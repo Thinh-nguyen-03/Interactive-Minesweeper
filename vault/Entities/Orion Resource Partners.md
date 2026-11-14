@@ -15,19 +15,19 @@ New York mining financier; leads Orion CMC; financed the Virtus bid.
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Orion Resource Partners]] *financing partner for Chemaf bid* [[Virtus Minerals]] · 2025-07/2026-02 · $600M · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Orion Resource Partners]] *financing partner for Chemaf bid* [[Virtus Minerals]] · 2025-07/2026-02 · $600M · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
 
 ### Ownership (1)
 
-- [[Orion Resource Partners]] *leads* [[Orion Critical Mineral Consortium]] · 2025-10 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Orion Resource Partners]] *leads* [[Orion Critical Mineral Consortium]] · 2025-10 · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]

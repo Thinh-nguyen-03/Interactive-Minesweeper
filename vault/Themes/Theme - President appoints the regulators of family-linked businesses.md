@@ -8,17 +8,17 @@ tags:
 
 - Trump nominates or oversees the heads of the SEC, CFTC and OCC, which regulate or license companies that pay or are owned by his family.
 
-## Claims
+## Checks
 
-- [[C12 WLF bank charter from the OCC]] · Mostly accurate
-- [[C13 ALT5 Sigma $1.5B WLFI treasury deal]] · Mostly accurate
-- [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]] · Mostly accurate
-- [[C20 Trump's stock purchases and Truth Social posts]] · Mostly accurate
-- [[C22 Crypto.com and TMTG]] · Mostly accurate
-- [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
-- [[C24 TMTG ETFs, TAE fusion merger, TMTG losses]] · Mostly accurate
-- [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
-- [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
+- [[C12 World Liberty's bank charter application at the OCC]] · Mostly accurate
+- [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty]] · Mostly accurate
+- [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo]] · Mostly accurate
+- [[C20 Trump's securities purchases and his Truth Social posts]] · Mostly accurate
+- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
+- [[C23 SEC crypto cases dropped and the firms' donations]] · Mostly accurate
+- [[C24 Trump Media's ETFs, the TAE fusion merger and its losses]] · Mostly accurate
+- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
+- [[C27 The New America Acquisition I SPAC]] · Mostly accurate
 
 ## People and organisations
 

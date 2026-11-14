@@ -17,20 +17,20 @@ Luxury golf course deal inside a ~$5.5B Qatari project.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 | Also known as | Qatar golf deal |
 
-## Appears in claims
+## Appears in checks
 
-- [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
+- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Trump Organization]] *struck deal for* [[Trump golf course in Qatar]] · [[C16 Qatar jet, arms sales and golf deal|C16]]
-- [[Trump golf course in Qatar]] *part of ~$5.5B* [[$5.5B Qatar development project]] · $5.5B · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Trump Organization]] *struck deal for* [[Trump golf course in Qatar]] · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]]
+- [[Trump golf course in Qatar]] *part of ~$5.5B* [[$5.5B Qatar development project]] · $5.5B · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]]
 
 ## Themes
 

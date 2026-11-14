@@ -17,32 +17,32 @@ $55B PIF/Silver Lake/Affinity buyout, announced 29 Sep 2025, closed 4 Aug 2026
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 6 |
 | Also known as | Electronic Arts take-private |
 
-## How other claims describe it
+## How other checks describe it
 
 - $55B LBO by PIF, Silver Lake and Affinity; closed 4 Aug 2026
 - $55B buyout by PIF, Silver Lake, Affinity; closed 2026-08-04
 
-## Appears in claims
+## Appears in checks
 
-- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
-- [[C69 Master timeline money events versus government actions]] · Partly accurate
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
+- [[C56 Saudi Arabia family deals alongside US policy decisions]] · Mostly accurate
+- [[C69 Master timeline money events and government actions]] · Partly accurate
+- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Affinity Partners]] *~1.1% co-investor* [[EA take-private]] · 2026-08-04 · [[C69 Master timeline money events versus government actions|C69]]
+- [[Affinity Partners]] *~1.1% co-investor* [[EA take-private]] · 2026-08-04 · [[C69 Master timeline money events and government actions|C69]]
 
 ### Regulatory (2)
 
-- [[CFIUS]] *reportedly cleared* [[EA take-private]] · 2026-07-30 · [[C69 Master timeline money events versus government actions|C69]]
-- [[CFIUS]] *reportedly cleared by 30 Jul 2026 (no public terms)* [[EA take-private]] · 2026-07-30 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[CFIUS]] *reportedly cleared* [[EA take-private]] · 2026-07-30 · [[C69 Master timeline money events and government actions|C69]]
+- [[CFIUS]] *reportedly cleared by 30 Jul 2026 (no public terms)* [[EA take-private]] · 2026-07-30 · [[C80 Sovereign-fund megadeals that need US approval|C80]]
 
 ### Media (1)
 
-- [[Lawfare]] *predicted 'the CFIUS review that will never be'* [[EA take-private]] · 2025-10-03 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Lawfare]] *predicted 'the CFIUS review that will never be'* [[EA take-private]] · 2025-10-03 · [[C80 Sovereign-fund megadeals that need US approval|C80]]

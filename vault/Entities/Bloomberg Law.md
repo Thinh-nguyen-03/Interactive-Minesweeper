@@ -15,15 +15,15 @@ Reported $1M quotes and the post-pardon SEC dismissals
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
+- [[C49 The market for pardon lobbying]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Bloomberg Law]] *reported post-pardon dismissals* [[Securities and Exchange Commission]] · 2026-04-09 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Bloomberg Law]] *reported post-pardon dismissals* [[Securities and Exchange Commission]] · 2026-04-09 · [[C49 The market for pardon lobbying|C49]]

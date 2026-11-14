@@ -15,16 +15,16 @@ tags:
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
+- [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (2)
 
-- [[Anna Gomez]] *dissented on approval of* [[Skydance-Paramount merger]] · 2025-07-24 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Federal Communications Commission]] *approved 2-1 with ombudsman/anti-DEI conditions* [[Skydance-Paramount merger]] · 2025-07-24 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Anna Gomez]] *dissented on approval of* [[Skydance-Paramount merger]] · 2025-07-24 · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]
+- [[Federal Communications Commission]] *approved 2-1 with ombudsman/anti-DEI conditions* [[Skydance-Paramount merger]] · 2025-07-24 · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]

@@ -15,15 +15,15 @@ Insurance financier who pleaded guilty to fraud and money laundering; hired Jave
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
+- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Greg Lindberg]] *hired to lobby for executive pardon* [[Javelin Advisors]] · 2025 · [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals|C83]]
+- [[Greg Lindberg]] *hired to lobby for executive pardon* [[Javelin Advisors]] · 2025 · [[C83 Keith Schiller and George Sorial's lobbying clients|C83]]

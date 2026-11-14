@@ -15,10 +15,10 @@ G42 head of crypto; reported WLF 'chief strategic adviser' from Jan 2025.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 

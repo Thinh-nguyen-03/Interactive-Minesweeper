@@ -15,16 +15,16 @@ Yorkville broker-dealer; co-lead agent on TMTG's 2025 bitcoin raise
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C78 The blank-cheque companies run by Trump Media's interim chief]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Yorkville Securities]] *co-lead placement agent on ~$2.44B raise* [[Trump Media & Technology Group]] · 2025-05-27 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
-- [[Troy Rillo]] *co-CEO and director* [[Yorkville Securities]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Yorkville Securities]] *co-lead placement agent on ~$2.44B raise* [[Trump Media & Technology Group]] · 2025-05-27 · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]]
+- [[Troy Rillo]] *co-CEO and director* [[Yorkville Securities]] · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]]

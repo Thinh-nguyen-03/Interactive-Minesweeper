@@ -15,15 +15,15 @@ Former SEC chief of staff; criticized the Sun settlement.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
+- [[C05 Justin Sun, World Liberty Financial and the SEC]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Amanda Fischer]] *criticized Sun settlement by* [[Securities and Exchange Commission]] · 2026-03 · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Amanda Fischer]] *criticized Sun settlement by* [[Securities and Exchange Commission]] · 2026-03 · [[C05 Justin Sun, World Liberty Financial and the SEC|C05]]

@@ -15,35 +15,35 @@ TMTG's prediction-market entry, which flopped.
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 8 |
 
-## How other claims describe it
+## How other checks describe it
 
 - TMTG prediction-market product built on Crypto.com's CDNA
 - TMTG prediction-market product, announced Oct 2025 and shelved Aug 2026
 - TMTG prediction-market product (shelved)
 
-## Appears in claims
+## Appears in checks
 
-- [[C22 Crypto.com and TMTG]] · Mostly accurate
-- [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
-- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
+- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
+- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Trump Media & Technology Group]] *launched* [[Truth Predict]] · 2025-10-28 · [[C22 Crypto.com and TMTG|C22]]
+- [[Trump Media & Technology Group]] *launched* [[Truth Predict]] · 2025-10-28 · [[C22 Crypto.com's deal with Trump Media|C22]]
 
 ### Commercial (6)
 
-- [[Crypto.com]] *prediction-market partner* [[Truth Predict]] · 2025-10-28 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Crypto.com Derivatives North America (CDNA, ex-NADEX)]] *provides exchange infrastructure for* [[Truth Predict]] · 2025-10-28 · [[C22 Crypto.com and TMTG|C22]]
-- [[Trump Media & Technology Group]] *announced, then shelved* [[Truth Predict]] · 2025-10-28 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Kevin McGurn]] *shelved* [[Truth Predict]] · 2026-08 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Trump Media & Technology Group]] *announced (flopped)* [[Truth Predict]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Truth Predict]] *entered* [[Prediction markets industry]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Crypto.com]] *prediction-market partner* [[Truth Predict]] · 2025-10-28 · [[C67 Investors who appear in several Trump-family vehicles|C67]]
+- [[Crypto.com Derivatives North America (CDNA, ex-NADEX)]] *provides exchange infrastructure for* [[Truth Predict]] · 2025-10-28 · [[C22 Crypto.com's deal with Trump Media|C22]]
+- [[Trump Media & Technology Group]] *announced, then shelved* [[Truth Predict]] · 2025-10-28 · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Kevin McGurn]] *shelved* [[Truth Predict]] · 2026-08 · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Trump Media & Technology Group]] *announced (flopped)* [[Truth Predict]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
+- [[Truth Predict]] *entered* [[Prediction markets industry]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]
 
 ## Themes
 

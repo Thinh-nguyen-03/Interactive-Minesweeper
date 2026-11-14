@@ -15,15 +15,15 @@ Los Angeles Summer Games; boxing reinstated March 2025
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
+- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[World Boxing]] *governs boxing at* [[LA 2028 Olympic Games]] · 2025-03 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
+- [[World Boxing]] *governs boxing at* [[LA 2028 Olympic Games]] · 2025-03 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]

@@ -15,9 +15,9 @@ Schwarzman's firm
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate

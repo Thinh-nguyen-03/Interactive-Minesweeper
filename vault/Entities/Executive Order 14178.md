@@ -15,15 +15,15 @@ tags:
 | | |
 |---|---|
 | Type | Law or policy |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
+- [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Executive Order 14178]] *established* [[President's Working Group on Digital Asset Markets]] · 2025-01-23 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Executive Order 14178]] *established* [[President's Working Group on Digital Asset Markets]] · 2025-01-23 · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]

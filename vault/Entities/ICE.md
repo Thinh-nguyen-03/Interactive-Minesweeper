@@ -15,15 +15,15 @@ ImmigrationOS contract
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[ICE]] *ImmigrationOS contract* [[Palantir Technologies (PLTR)]] · 2025-04 · $30M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[ICE]] *ImmigrationOS contract* [[Palantir Technologies (PLTR)]] · 2025-04 · $30M · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]

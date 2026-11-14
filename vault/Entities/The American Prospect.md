@@ -15,9 +15,9 @@ Reported the Waldenberg and Ligado stories
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
+- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate

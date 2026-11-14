@@ -15,19 +15,19 @@ Banker pardoned 2026-01-15
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
+- [[C92 The White House ballroom donor list]] · Partly accurate
 
 ## Relationships
 
 ### Family (1)
 
-- [[Isabela Herrera]] *daughter* [[Julio Herrera Velutini]] · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Isabela Herrera]] *daughter* [[Julio Herrera Velutini]] · [[C92 The White House ballroom donor list|C92]]
 
 ### Legal (1)
 
-- [[Donald Trump]] *pardoned* [[Julio Herrera Velutini]] · 2026-01-15 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Donald Trump]] *pardoned* [[Julio Herrera Velutini]] · 2026-01-15 · [[C92 The White House ballroom donor list|C92]]

@@ -17,28 +17,28 @@ WLF partner whose Timor-Leste project involved Prince Group-sanctioned people (O
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 6 |
 | Also known as | AB (AB DAO / AB Chain) |
 
-## How other claims describe it
+## How other checks describe it
 
 - Crypto network that deployed USD1 in November 2025; promoted a Timor-Leste resort
 
-## Appears in claims
+## Appears in checks
 
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
-- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[AB (AB DAO)]] *promoted planned Timor-Leste blockchain resort* [[AB Digital Technology Resort]] · 2024 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
+- [[AB (AB DAO)]] *promoted planned Timor-Leste blockchain resort* [[AB Digital Technology Resort]] · 2024 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
 
 ### Commercial (4)
 
-- [[Lin Xiaofan (Frank Lin)]] *AB figure who led resort project* [[AB (AB DAO)]] · 2024 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
-- [[AB (AB DAO)]] *WLF partner* [[World Liberty Financial]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Prince Holding Group]] *sanctioned individuals involved in AB Timor-Leste project (OCCRP/Guardian)* [[AB (AB DAO)]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[World Liberty Financial]] *partnership deploying USD1 on AB Chain* [[AB (AB DAO)]] · 2025-11-12 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
+- [[Lin Xiaofan (Frank Lin)]] *AB figure who led resort project* [[AB (AB DAO)]] · 2024 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[AB (AB DAO)]] *WLF partner* [[World Liberty Financial]] · 2025 · [[C71 Who bought World Liberty tokens|C71]]
+- [[Prince Holding Group]] *sanctioned individuals involved in AB Timor-Leste project (OCCRP/Guardian)* [[AB (AB DAO)]] · 2025 · [[C71 Who bought World Liberty tokens|C71]]
+- [[World Liberty Financial]] *partnership deploying USD1 on AB Chain* [[AB (AB DAO)]] · 2025-11-12 · [[C90 World Liberty's token-swap pitch and its partners|C90]]

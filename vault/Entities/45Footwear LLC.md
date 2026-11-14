@@ -15,10 +15,10 @@ Wyoming LLC (filed 2024-01-31) licensing Trump Sneakers/fragrances from CIC Vent
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 

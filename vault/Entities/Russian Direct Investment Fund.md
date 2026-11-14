@@ -15,15 +15,15 @@ Russian sovereign wealth fund; US-sanctioned in 2022.
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
+- [[C76 Russia-linked money around the family and the envoys]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Kirill Dmitriev]] *CEO of* [[Russian Direct Investment Fund]] · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Kirill Dmitriev]] *CEO of* [[Russian Direct Investment Fund]] · [[C76 Russia-linked money around the family and the envoys|C76]]

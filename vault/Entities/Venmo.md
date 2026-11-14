@@ -10,20 +10,20 @@ tags:
 ---
 # Venmo
 
-Payment app cited as formerly typical top finance app.
+Payment app, previously typical of the top finance apps.
 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
+- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Apple App Store]] *formerly topped by* [[Venmo]] · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Apple App Store]] *formerly topped by* [[Venmo]] · [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]]

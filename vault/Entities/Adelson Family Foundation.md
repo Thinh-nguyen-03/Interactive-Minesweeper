@@ -15,19 +15,19 @@ $25M ballroom donor
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
+- [[C92 The White House ballroom donor list]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Adelson Family Foundation]] *committed $25M (WaPo leak)* [[White House ballroom]] · $25M · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Adelson Family Foundation]] *committed $25M (WaPo leak)* [[White House ballroom]] · $25M · [[C92 The White House ballroom donor list|C92]]
 
 ### Ownership (1)
 
-- [[Miriam Adelson]] *controls* [[Adelson Family Foundation]] · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Miriam Adelson]] *controls* [[Adelson Family Foundation]] · [[C92 The White House ballroom donor list|C92]]

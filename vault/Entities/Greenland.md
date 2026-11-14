@@ -15,19 +15,19 @@ Autonomous territory of Denmark; target of Trump's acquisition push
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
+- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Donald Trump]] *pushed to acquire* [[Greenland]] · 2026-01 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Donald Trump]] *pushed to acquire* [[Greenland]] · 2026-01 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
 
 ### Commercial (1)
 
-- [[Tanbreez rare earth project]] *located in* [[Greenland]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Tanbreez rare earth project]] *located in* [[Greenland]] · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]

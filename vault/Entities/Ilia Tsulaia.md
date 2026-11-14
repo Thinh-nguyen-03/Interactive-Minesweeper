@@ -15,19 +15,19 @@ Archi Group founder/chairman; former Georgian Dream MP
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Ilia Tsulaia]] *founder/chairman of* [[Archi Group]] · 2006 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[Ilia Tsulaia]] *founder/chairman of* [[Archi Group]] · 2006 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]
 
 ### Political (1)
 
-- [[Ilia Tsulaia]] *former MP for Georgian Dream party* [[Bidzina Ivanishvili]] · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[Ilia Tsulaia]] *former MP for Georgian Dream party* [[Bidzina Ivanishvili]] · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]

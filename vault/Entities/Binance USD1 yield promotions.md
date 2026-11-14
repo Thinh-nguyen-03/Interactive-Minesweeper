@@ -15,19 +15,19 @@ Binance offering ~20% annual yield to hold USD1.
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C10 Binance driving USD1 adoption]] · Mostly accurate
+- [[C10 Binance's role in the growth of USD1]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Binance]] *offered ~20% yield in* [[Binance USD1 yield promotions]] · [[C10 Binance driving USD1 adoption|C10]]
-- [[Binance USD1 yield promotions]] *drove adoption of* [[USD1]] · [[C10 Binance driving USD1 adoption|C10]]
+- [[Binance]] *offered ~20% yield in* [[Binance USD1 yield promotions]] · [[C10 Binance's role in the growth of USD1|C10]]
+- [[Binance USD1 yield promotions]] *drove adoption of* [[USD1]] · [[C10 Binance's role in the growth of USD1|C10]]
 
 ## Themes
 

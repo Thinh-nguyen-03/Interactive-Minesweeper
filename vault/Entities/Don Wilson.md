@@ -15,30 +15,30 @@ DRW/Cumberland founder; TMTG bitcoin-treasury investor weeks after SEC case agai
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Founder and CEO of DRW, parent of crypto trader Cumberland
 - DRW founder
 
-## Appears in claims
+## Appears in checks
 
-- [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]] · Mostly accurate
-- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Don Wilson]] *invested in* [[Trump Media & Technology Group]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Don Wilson]] *invested in* [[Trump Media & Technology Group]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
 
 ### Ownership (3)
 
-- [[Don Wilson]] *owns* [[Cumberland (DRW)]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Don Wilson]] *founded and controls* [[DRW Investments]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Don Wilson]] *founder/controller* [[DRW Investments]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Don Wilson]] *owns* [[Cumberland (DRW)]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
+- [[Don Wilson]] *founded and controls* [[DRW Investments]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
+- [[Don Wilson]] *founder/controller* [[DRW Investments]] · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
 
 ## Themes
 

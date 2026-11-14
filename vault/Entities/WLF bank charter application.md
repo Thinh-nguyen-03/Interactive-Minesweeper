@@ -15,19 +15,19 @@ Provisionally approved by the OCC.
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C12 WLF bank charter from the OCC]] · Mostly accurate
+- [[C12 World Liberty's bank charter application at the OCC]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (2)
 
-- [[Office of the Comptroller of the Currency]] *provisionally approved* [[WLF bank charter application]] · [[C12 WLF bank charter from the OCC|C12]]
-- [[World Liberty Financial]] *applied for* [[WLF bank charter application]] · [[C12 WLF bank charter from the OCC|C12]]
+- [[Office of the Comptroller of the Currency]] *provisionally approved* [[WLF bank charter application]] · [[C12 World Liberty's bank charter application at the OCC|C12]]
+- [[World Liberty Financial]] *applied for* [[WLF bank charter application]] · [[C12 World Liberty's bank charter application at the OCC|C12]]
 
 ## Themes
 

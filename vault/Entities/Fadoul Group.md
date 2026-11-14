@@ -15,19 +15,19 @@ West African conglomerate controlled by Massad Boulos's in-laws
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C66 The extended family's ventures and roles]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Fadoul Group]] *controls* [[SCOA Nigeria PLC]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Fadoul Group]] *controls* [[SCOA Nigeria PLC]] · [[C66 The extended family's ventures and roles|C66]]
 
 ### Family (1)
 
-- [[Massad Boulos]] *son-in-law of controlling family* [[Fadoul Group]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Massad Boulos]] *son-in-law of controlling family* [[Fadoul Group]] · [[C66 The extended family's ventures and roles|C66]]

@@ -2,8 +2,6 @@
 id: "asher-genoot"
 kind: "entity"
 type: "person"
-aliases:
-  - "Asher"
 connections: 2
 claims: 1
 tags:
@@ -12,29 +10,28 @@ tags:
 ---
 # Asher Genoot
 
-Hut 8 CEO, referred to by Eric Trump as 'Asher' when discussing American Bitcoin's ambitions.
+Hut 8 CEO; partner of the Trump brothers in American Bitcoin.
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
-| Also known as | Asher |
 
-## How other claims describe it
+## How other checks describe it
 
-- CEO of Hut 8 (the 'Asher' in the transcript).
+- CEO of Hut 8 (the 'Asher' Eric Trump refers to).
 
-## Appears in claims
+## Appears in checks
 
-- [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
+- [[C18 Eric Trump, Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Asher Genoot]] *leads* [[Hut 8]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Asher Genoot]] *leads* [[Hut 8]] · [[C18 Eric Trump, Metaplanet, American Bitcoin and Hut 8|C18]]
 
 ### Advisory (1)
 
-- [[Asher Genoot]] *CEO of* [[Hut 8]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Asher Genoot]] *CEO of* [[Hut 8]] · [[C18 Eric Trump, Metaplanet, American Bitcoin and Hut 8|C18]]

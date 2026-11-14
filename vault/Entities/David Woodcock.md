@@ -15,15 +15,15 @@ SEC Enforcement Director from May 4, 2026
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C52 Trump-connected lobbyists hired by crypto firms and the SEC enforcement director's exi]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[David Woodcock]] *named Enforcement Director, effective* [[Securities and Exchange Commission]] · 2026-05-04 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[David Woodcock]] *named Enforcement Director, effective* [[Securities and Exchange Commission]] · 2026-05-04 · [[C52 Trump-connected lobbyists hired by crypto firms and the SEC enforcement director's exi|C52]]

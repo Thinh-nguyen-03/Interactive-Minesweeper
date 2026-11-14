@@ -15,19 +15,19 @@ Alvarez & Marsal-affiliated investment firm; Kollitides a former partner and sen
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
+- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[A&M Capital]] *affiliate* [[Alvarez & Marsal Federal]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[A&M Capital]] *affiliate* [[Alvarez & Marsal Federal]] · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
 
 ### Commercial (1)
 
-- [[George Kollitides]] *former partner; senior adviser until ~Oct 2026* [[A&M Capital]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[George Kollitides]] *former partner; senior adviser until ~Oct 2026* [[A&M Capital]] · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]

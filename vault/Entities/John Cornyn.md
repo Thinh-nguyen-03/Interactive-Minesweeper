@@ -15,9 +15,9 @@ Senator who dismissed insider-trading allegations
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
+- [[C58 Market-moving presidential posts and insider-trading allegations]] · Mostly accurate

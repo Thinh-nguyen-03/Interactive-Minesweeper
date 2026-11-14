@@ -6,15 +6,15 @@ tags:
 ---
 # Official acts close in time to payments
 
-- Pardons, export approvals, arms sales, charters and amicus briefs arrive around the time counterparties enrich Trump ventures; presented as coincidence.
+- Pardons, export approvals, arms sales, charters and amicus briefs arrive around the time counterparties pay into Trump ventures; the parties deny any connection.
 
-## Claims
+## Checks
 
-- [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
-- [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
-- [[C12 WLF bank charter from the OCC]] · Mostly accurate
-- [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
-- [[C22 Crypto.com and TMTG]] · Mostly accurate
+- [[C08 AI chip exports to the UAE, Stargate and a possible currency swap]] · Mostly accurate
+- [[C09 The dropped Binance case and the pardon of Changpeng Zhao]] · Mostly accurate
+- [[C12 World Liberty's bank charter application at the OCC]] · Mostly accurate
+- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
+- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
 
 ## People and organisations
 

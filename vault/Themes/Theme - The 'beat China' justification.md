@@ -8,11 +8,11 @@ tags:
 
 - Family crypto and robotics ventures are defended as necessary so America wins the race against China.
 
-## Claims
+## Checks
 
-- [[C01 $TRUMP meme coin]] · Mostly accurate
-- [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
-- [[C28 Foundation Future Industries robots and Eric Trump]] · Mostly accurate
+- [[C01 The $TRUMP meme coin and who profited]] · Mostly accurate
+- [[C09 The dropped Binance case and the pardon of Changpeng Zhao]] · Mostly accurate
+- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
 
 ## People and organisations
 

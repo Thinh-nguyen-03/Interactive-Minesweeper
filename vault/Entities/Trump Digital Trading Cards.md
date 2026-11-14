@@ -15,15 +15,15 @@ $99 NFT series launched Dec 2022
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C17 Trump merchandise and the T1 phone]] · Mostly accurate
+- [[C17 Trump-branded merchandise and the T1 phone]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[NFT INT LLC]] *issued* [[Trump Digital Trading Cards]] · 2022-12-15 · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[NFT INT LLC]] *issued* [[Trump Digital Trading Cards]] · 2022-12-15 · [[C17 Trump-branded merchandise and the T1 phone|C17]]

@@ -15,19 +15,19 @@ Rama-chaired body that granted strategic-investor status for Sazan.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C45 Kushner's resort projects in Albania and Serbia]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Albanian Strategic Investment Committee]] *granted strategic-investor status for EUR 1.4B Sazan resort* [[Atlantic Incubation Partners LLC]] · 2024-12-30 · $1.4B · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Albanian Strategic Investment Committee]] *granted strategic-investor status for EUR 1.4B Sazan resort* [[Atlantic Incubation Partners LLC]] · 2024-12-30 · $1.4B · [[C45 Kushner's resort projects in Albania and Serbia|C45]]
 
 ### Political (1)
 
-- [[Edi Rama]] *chairs* [[Albanian Strategic Investment Committee]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Edi Rama]] *chairs* [[Albanian Strategic Investment Committee]] · [[C45 Kushner's resort projects in Albania and Serbia|C45]]

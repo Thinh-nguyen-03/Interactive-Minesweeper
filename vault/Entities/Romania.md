@@ -15,9 +15,9 @@ Site of planned Bucharest and Cluj Trump projects
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
+- [[C59 Foreign Trump Organization projects and tariff negotiations]] · Partly accurate

@@ -15,19 +15,19 @@ Gen Z news startup co-founded by Will Lewis
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Heritage Advisors]] *investor in* [[The News Movement]] · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+- [[Heritage Advisors]] *investor in* [[The News Movement]] · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
 
 ### Ownership (1)
 
-- [[Will Lewis]] *co-founded* [[The News Movement]] · 2020 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+- [[Will Lewis]] *co-founded* [[The News Movement]] · 2020 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]

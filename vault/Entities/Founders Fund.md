@@ -15,10 +15,10 @@ Peter Thiel's venture firm; Ramp's first and largest investor.
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 

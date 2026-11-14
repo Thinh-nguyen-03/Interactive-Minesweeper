@@ -15,14 +15,14 @@ Herro/Folkman entity entitled to the other 25% of WLF net revenue
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Herro/Folkman entity with 25% of WLF net revenue
 
-## Appears in claims
+## Appears in checks
 
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Mostly accurate

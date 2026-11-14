@@ -15,10 +15,10 @@ Private investment firm that took a minority stake in Cantor
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 

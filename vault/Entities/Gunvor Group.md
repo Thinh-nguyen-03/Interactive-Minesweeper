@@ -15,24 +15,24 @@ Geneva commodity trader whose ~$22B Lukoil deal Treasury killed in Nov 2025.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 5 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
+- [[C94 The sale of Lukoil's foreign assets and the Boehly consortium]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Gennady Timchenko]] *co-founder; sold stake 2014* [[Gunvor Group]] · 2014 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
-- [[Torbjorn Tornqvist]] *majority owner* [[Gunvor Group]] · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[Gennady Timchenko]] *co-founder; sold stake 2014* [[Gunvor Group]] · 2014 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
+- [[Torbjorn Tornqvist]] *majority owner* [[Gunvor Group]] · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
 
 ### Regulatory (1)
 
-- [[US Treasury]] *publicly called it 'the Kremlin's puppet' and vowed no licence* [[Gunvor Group]] · 2025-11-06 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[US Treasury]] *publicly called it 'the Kremlin's puppet' and vowed no licence* [[Gunvor Group]] · 2025-11-06 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
 
 ### Commercial (1)
 
-- [[Gunvor Group]] *agreed ~$22B purchase, withdrawn after Treasury rebuke* [[Lukoil International GmbH (lukoil-international-gmbh)]] · 2025-11-06 · $22B · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[Gunvor Group]] *agreed ~$22B purchase, withdrawn after Treasury rebuke* [[Lukoil International GmbH (lukoil-international-gmbh)]] · 2025-11-06 · $22B · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]

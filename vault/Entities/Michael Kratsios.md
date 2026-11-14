@@ -15,15 +15,15 @@ OSTP director; holds $1M-$5M Scale AI shares
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C65 Officials who decided matters involving former clients or partners]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Michael Kratsios]] *held Class B shares ($1M-$5M) per earlier disclosure; current status unverified; ex-MD* [[Scale AI]] · 2024-01 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Michael Kratsios]] *held Class B shares ($1M-$5M) per earlier disclosure; current status unverified; ex-MD* [[Scale AI]] · 2024-01 · [[C65 Officials who decided matters involving former clients or partners|C65]]

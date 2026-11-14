@@ -15,16 +15,16 @@ Pentagon deal unit reporting to Feinberg
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
+- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate
 
 ## Relationships
 
 ### Political (2)
 
-- [[Economic Defense Unit ('Deal Team Six')]] *reports to* [[Stephen Feinberg]] · 2026-02 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
-- [[George Kollitides]] *director (SGE per Bloomberg Government, single-source)* [[Economic Defense Unit ('Deal Team Six')]] · 2026-02 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[Economic Defense Unit ('Deal Team Six')]] *reports to* [[Stephen Feinberg]] · 2026-02 · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]
+- [[George Kollitides]] *director (SGE per Bloomberg Government, single-source)* [[Economic Defense Unit ('Deal Team Six')]] · 2026-02 · [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts|C74]]

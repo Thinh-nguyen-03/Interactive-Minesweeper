@@ -15,25 +15,25 @@ Launch/satellite company and major federal contractor; listed 1789 holding.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Musk company; record IPO June 2026
 
-## Appears in claims
+## Appears in checks
 
-- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C32 Donald Trump Jr.'s ties to other government contractors]] · Partly accurate
+- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[1789 Capital]] *reported investor in* [[SpaceX]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[1789 Capital]] *reported investor in* [[SpaceX]] · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
 
 ### Ownership (2)
 
-- [[1789 Capital]] *investor (pre-IPO)* [[SpaceX]] · 2025 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[SpaceX]] *acquired in all-stock merger* [[xAI]] · 2026-02 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[1789 Capital]] *investor (pre-IPO)* [[SpaceX]] · 2025 · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
+- [[SpaceX]] *acquired in all-stock merger* [[xAI]] · 2026-02 · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]

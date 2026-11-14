@@ -15,10 +15,10 @@ Dolomite co-founder; WLF adviser/CTO
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 

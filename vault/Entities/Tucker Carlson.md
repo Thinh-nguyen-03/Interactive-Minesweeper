@@ -10,26 +10,26 @@ tags:
 ---
 # Tucker Carlson
 
-Conservative host; said Trump Gulf deals 'seem like corruption' (May 2025)
+Conservative commentator; said Trump Gulf deals 'seem like corruption' (May 2025)
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Interviewed Qatar's PM in Mar 2025 via Lumen8 arrangement
 
-## Appears in claims
+## Appears in checks
 
-- [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
-- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
+- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
 
 ## Relationships
 
 ### Media (2)
 
-- [[Lumen8 Advisors]] *arranged interview with Qatar PM* [[Tucker Carlson]] · 2025-03 · [[C73 Qatar's access network inside and around the administration|C73]]
-- [[Tucker Carlson]] *said Gulf deals 'seem like corruption'* [[Trump Organization]] · 2025-05 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Lumen8 Advisors]] *arranged interview with Qatar PM* [[Tucker Carlson]] · 2025-03 · [[C73 Qatar's ties to people in and around the administration|C73]]
+- [[Tucker Carlson]] *said Gulf deals 'seem like corruption'* [[Trump Organization]] · 2025-05 · [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]

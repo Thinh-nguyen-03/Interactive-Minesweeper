@@ -15,14 +15,14 @@ Holding company that owns World Liberty Financial
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Holding company of WLF formed Jan 2025
 
-## Appears in claims
+## Appears in checks
 
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Mostly accurate

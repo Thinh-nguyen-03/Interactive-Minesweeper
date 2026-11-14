@@ -15,15 +15,15 @@ WBD news network now under Ellison control
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Warner Bros. Discovery]] *owns* [[CNN]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Warner Bros. Discovery]] *owns* [[CNN]] · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]

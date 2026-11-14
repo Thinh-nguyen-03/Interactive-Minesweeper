@@ -15,15 +15,15 @@ Manhattan condo project bought out of foreclosure by Witkoff Group and Access In
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
+- [[C76 Russia-linked money around the family and the envoys]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Witkoff Group]] *co-acquired out of ~$900M foreclosure* [[One High Line]] · 2021-12 · $900M · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Witkoff Group]] *co-acquired out of ~$900M foreclosure* [[One High Line]] · 2021-12 · $900M · [[C76 Russia-linked money around the family and the envoys|C76]]

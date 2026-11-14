@@ -15,15 +15,15 @@ Co-placement agent on the USAR PIPE
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
+- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Moelis & Company]] *co-placement agent* [[USA Rare Earth]] · 2026-01-26 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Moelis & Company]] *co-placement agent* [[USA Rare Earth]] · 2026-01-26 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]

@@ -15,10 +15,10 @@ Investment firm where Gruenbaum was a credit-team director before GSA.
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 

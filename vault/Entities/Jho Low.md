@@ -15,10 +15,10 @@ tags:
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
 

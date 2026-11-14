@@ -15,15 +15,15 @@ Trump golf/resort projects at Lido (West Java) and Tanah Lot (Bali)
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
+- [[C59 Foreign Trump Organization projects and tariff negotiations]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[MNC Group MNC Land]] *develops* [[Trump Lido and Bali resorts]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[MNC Group MNC Land]] *develops* [[Trump Lido and Bali resorts]] · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]]

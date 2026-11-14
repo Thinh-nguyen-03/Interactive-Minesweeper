@@ -17,18 +17,18 @@ Trump-led Gaza peace body; Kushner is on its executive board; venue of the 'envo
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 7 |
 | Also known as | Board of Peace |
 
-## How other claims describe it
+## How other checks describe it
 
 - Trump-chaired Gaza governance board announced Jan 2026.
 
-## Appears in claims
+## Appears in checks
 
-- [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
-- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
+- [[C15 Jared Kushner, Affinity Partners and Gulf sovereign funds]] · Mostly accurate
+- [[C61 Lawyers and law firms that recur across the deals]] · Mostly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Relationships
@@ -39,7 +39,7 @@ Trump-led Gaza peace body; Kushner is on its executive board; venue of the 'envo
 
 ### Political (4)
 
-- [[Martin Edelman]] *named in leaked draft as executive board member (single-source)* [[Board of Peace (Gaza)]] · 2026 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Martin Edelman]] *named in leaked draft as executive board member (single-source)* [[Board of Peace (Gaza)]] · 2026 · [[C61 Lawyers and law firms that recur across the deals|C61]]
 - [[Donald Trump]] *chairs* [[Board of Peace (Gaza)]] · 2026-01 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 - [[Jared Kushner]] *executive board member* [[Board of Peace (Gaza)]] · 2026-01 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
-- [[Jared Kushner]] *executive board member of* [[Board of Peace (Gaza)]] · 2026-01 · [[C15 Jared Kushner and Affinity Partners|C15]]
+- [[Jared Kushner]] *executive board member of* [[Board of Peace (Gaza)]] · 2026-01 · [[C15 Jared Kushner, Affinity Partners and Gulf sovereign funds|C15]]

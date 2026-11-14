@@ -15,15 +15,15 @@ Nasdaq-listed SUI treasury company; Quintenz joined board Jan 2026
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C54 The crypto revolving door]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Brian Quintenz]] *independent director* [[SUI Group]] · 2026-01-05 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Brian Quintenz]] *independent director* [[SUI Group]] · 2026-01-05 · [[C54 The crypto revolving door|C54]]

@@ -15,19 +15,19 @@ Per ProPublica, the top aide to the president who initiated the Vulcan Elements 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C26 1789 Capital and Vulcan Elements]] · Mostly accurate
+- [[C26 1789 Capital and the Vulcan Elements magnet deal]] · Mostly accurate
 
 ## Relationships
 
 ### Political (2)
 
-- [[Unnamed top White House aide]] *initiated government deal for* [[Vulcan Elements]] · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Unnamed top White House aide]] *top aide in* [[White House Trump administration]] · [[C26 1789 Capital and Vulcan Elements|C26]]
+- [[Unnamed top White House aide]] *initiated government deal for* [[Vulcan Elements]] · [[C26 1789 Capital and the Vulcan Elements magnet deal|C26]]
+- [[Unnamed top White House aide]] *top aide in* [[White House Trump administration]] · [[C26 1789 Capital and the Vulcan Elements magnet deal|C26]]
 
 ## Themes
 

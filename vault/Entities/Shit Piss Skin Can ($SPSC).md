@@ -17,15 +17,15 @@ Solana memecoin named after Herro's rant, promoted by WLF in November 2025
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 | Also known as | $SPSC |
 
-## How other claims describe it
+## How other checks describe it
 
 - Memecoin based on Herro's 2018 rant, promoted by WLF in Nov 2025.
 
-## Appears in claims
+## Appears in checks
 
 - [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate

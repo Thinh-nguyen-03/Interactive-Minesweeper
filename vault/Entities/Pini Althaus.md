@@ -15,15 +15,15 @@ CEO of Cove Capital.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
+- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Pini Althaus]] *CEO of* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Pini Althaus]] *CEO of* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]

@@ -15,15 +15,15 @@ One of the Truth Social ETFs.
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C24 TMTG ETFs, TAE fusion merger, TMTG losses]] · Mostly accurate
+- [[C24 Trump Media's ETFs, the TAE fusion merger and its losses]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Truth Social ETFs]] *includes* [[Truth Social American Security & Defense ETF]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+- [[Truth Social ETFs]] *includes* [[Truth Social American Security & Defense ETF]] · [[C24 Trump Media's ETFs, the TAE fusion merger and its losses|C24]]

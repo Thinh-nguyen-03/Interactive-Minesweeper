@@ -15,10 +15,10 @@ Apollo subsidiary that lent $400M for QIA's Park Lane purchase
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
 

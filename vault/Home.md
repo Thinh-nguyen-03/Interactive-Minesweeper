@@ -5,9 +5,11 @@ tags:
 ---
 # Trump Claims Map
 
-A fact-check of 30 claims made in Coffeezilla, “Investigating The President”, plus 30 follow-up leads the video did not cover and 34 connection hunts across the claims. Each claim was checked independently against public records and reporting. Open the graph view to explore.
+A tool for looking into Donald Trump, his family, his cabinet and administration, and the business, financial and political connections around them.
 
-Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
+It holds 94 checks of claims in public circulation, 1,332 people and organisations, and 2,926 documented relationships between them. Each check was tested against news reports, filings and official records. 81 of the 94 checks came out confirmed or mostly accurate. Open the graph view to explore.
+
+Everyone named denies wrongdoing. Nothing here is an accusation of a crime. A link between two names is a documented relationship, not proof that one caused the other.
 
 ## Verdicts
 
@@ -16,110 +18,182 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - Partly accurate: 11
 - Unverified: 2
 
-## Claims from the video
+## Family ventures and wealth
 
-- [[C01 $TRUMP meme coin]] · Mostly accurate
-- [[C02 $MELANIA coin and NFTs]] · Mostly accurate
-- [[C03 Dinner for top $TRUMP holders]] · Confirmed
-- [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
-- [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
-- [[C06 Secret $500M 49% UAE stake in WLF]] · Confirmed
-- [[C07 MGX's $2B Binance investment settled in USD1]] · Mostly accurate
-- [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
-- [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
-- [[C10 Binance driving USD1 adoption]] · Mostly accurate
-- [[C11 GENIUS CLARITY Acts and USD1]] · Mostly accurate
-- [[C12 WLF bank charter from the OCC]] · Mostly accurate
-- [[C13 ALT5 Sigma $1.5B WLFI treasury deal]] · Mostly accurate
-- [[C14 Steve and Zach Witkoff]] · Mostly accurate
-- [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
-- [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
-- [[C17 Trump merchandise and the T1 phone]] · Mostly accurate
-- [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
-- [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]] · Mostly accurate
-- [[C20 Trump's stock purchases and Truth Social posts]] · Mostly accurate
-- [[C21 TMTG's market-moving 'truths' API and Truth+]] · Mostly accurate
-- [[C22 Crypto.com and TMTG]] · Mostly accurate
-- [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
-- [[C24 TMTG ETFs, TAE fusion merger, TMTG losses]] · Mostly accurate
-- [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
-- [[C26 1789 Capital and Vulcan Elements]] · Mostly accurate
-- [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
-- [[C28 Foundation Future Industries robots and Eric Trump]] · Mostly accurate
-- [[C29 Trump family wealth gains]] · Mostly accurate
-- [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
+What the Trump family's businesses, licensing entities and extended relatives have earned, and how the totals are estimated.
 
-## Follow-up leads
-
-- [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
-- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
-- [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
-- [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
-- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
-- [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
-- [[C37 Jared Kushner's hacked phone]] · Unverified · unverified allegation, single source
-- [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
+- [[C17 Trump-branded merchandise and the T1 phone]] · Mostly accurate
+- [[C27 The New America Acquisition I SPAC]] · Mostly accurate
+- [[C29 Trump family wealth gains since the election]] · Mostly accurate
+- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
-- [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
-- [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
+- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
+- [[C48 The Trump presidential library foundation's money and land]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing estimates]] · Mostly accurate
+- [[C63 Shell entities and ownership chains]] · Mostly accurate · connection check
+- [[C66 The extended family's ventures and roles]] · Partly accurate · connection check
+- [[C69 Master timeline money events and government actions]] · Partly accurate · connection check
+- [[C91 Dominari option grants and trading before the Trump sons' arrival]] · Mostly accurate · connection check
+
+## Crypto ventures
+
+The meme coins, World Liberty Financial, the USD1 stablecoin and bitcoin companies tied to the Trump family, and who put money into them.
+
+- [[C01 The $TRUMP meme coin and who profited]] · Mostly accurate
+- [[C02 The $MELANIA coin and Melania Trump's NFT income]] · Mostly accurate
+- [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
+- [[C10 Binance's role in the growth of USD1]] · Mostly accurate
+- [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty]] · Mostly accurate
+- [[C18 Eric Trump, Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
+- [[C40 Who ran the $TRUMP and $MELANIA launches]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
-- [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
-- [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
-- [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
-- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
-- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
-- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
-- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
-- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
-- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate · connection check
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate · connection check
+- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate · connection check
+
+## Trump Media and markets
+
+Trump Media & Technology Group, its financial products and backers, and the effect of presidential posts on markets.
+
+- [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo]] · Mostly accurate
+- [[C20 Trump's securities purchases and his Truth Social posts]] · Mostly accurate
+- [[C21 Trump Media's paid feed of market-moving posts and Truth+]] · Mostly accurate
+- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
+- [[C24 Trump Media's ETFs, the TAE fusion merger and its losses]] · Mostly accurate
+- [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu]] · Mostly accurate
+- [[C58 Market-moving presidential posts and insider-trading allegations]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate · connection check
+- [[C78 The blank-cheque companies run by Trump Media's interim chief]] · Mostly accurate · connection check
+- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate · connection check
+
+## Gulf money
+
+Investments, gifts and licensing deals involving the UAE, Saudi Arabia and Qatar, and the US decisions affecting those states.
+
+- [[C06 A UAE-backed 49% stake in World Liberty Financial]] · Confirmed
+- [[C07 MGX's $2 billion Binance investment settled in USD1]] · Mostly accurate
+- [[C14 Steve and Zach Witkoff a Middle East envoy and World Liberty]] · Mostly accurate
+- [[C15 Jared Kushner, Affinity Partners and Gulf sovereign funds]] · Mostly accurate
+- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
+- [[C31 Trump Organization real-estate deals in the Gulf]] · Mostly accurate
+- [[C46 The alleged Kushner Gulf accounts]] · Unverified · unverified allegation, single source
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
-- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
-- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
-- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C56 Saudi Arabia family deals alongside US policy decisions]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
-- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
-- [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
-- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate · connection check
+- [[C82 Abu Dhabi unannounced Trump licensing entities and StringZ]] · Mostly accurate · connection check
+- [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge]] · Mostly accurate · connection check
 
-## Connection hunts
+## Foreign deals
 
-- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
-- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
-- [[C63 Shell entities and ownership chains]] · Mostly accurate
-- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
-- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
-- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
-- [[C69 Master timeline money events versus government actions]] · Partly accurate
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
-- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
-- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
-- [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
-- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
-- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
-- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
-- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
-- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
-- [[C85 Yorkville's blank-cheque vehicles Venezuela, Blue Water III and PlusAI]] · Partly accurate
-- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
-- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
-- [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge]] · Mostly accurate
-- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
-- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
-- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
-- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
-- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
-- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
+Business projects and financial ties outside the Gulf, set beside US policy toward the countries involved.
 
-## Themes
+- [[C37 The reported hack of Jared Kushner's phone]] · Unverified · unverified allegation, single source
+- [[C45 Kushner's resort projects in Albania and Serbia]] · Mostly accurate
+- [[C59 Foreign Trump Organization projects and tariff negotiations]] · Partly accurate
+- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate · connection check
+- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate · connection check
+- [[C76 Russia-linked money around the family and the envoys]] · Partly accurate · connection check
+- [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam]] · Mostly accurate · connection check
+- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate · connection check
+- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate · connection check
+- [[C94 The sale of Lukoil's foreign assets and the Boehly consortium]] · Mostly accurate · connection check
+
+## Regulators and enforcement
+
+Decisions by the SEC, the CFTC, the OCC and other agencies affecting companies with financial ties to the Trump family or its donors, and the officials who took them.
+
+- [[C05 Justin Sun, World Liberty Financial and the SEC]] · Mostly accurate
+- [[C11 The GENIUS and CLARITY Acts and the family's stablecoin]] · Mostly accurate
+- [[C12 World Liberty's bank charter application at the OCC]] · Mostly accurate
+- [[C23 SEC crypto cases dropped and the firms' donations]] · Mostly accurate
+- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
+- [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate
+- [[C43 Overlap between dropped enforcement cases and Trump donors]] · Mostly accurate
+- [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business]] · Mostly accurate
+- [[C52 Trump-connected lobbyists hired by crypto firms and the SEC enforcement director's exi]] · Mostly accurate
+- [[C54 The crypto revolving door]] · Mostly accurate
+- [[C65 Officials who decided matters involving former clients or partners]] · Mostly accurate · connection check
+
+## Pardons, lobbyists and access
+
+Clemency decisions, paid lobbying and other routes by which companies, donors and foreign governments reach the White House.
+
+- [[C03 The private dinner for top $TRUMP holders]] · Confirmed
+- [[C09 The dropped Binance case and the pardon of Changpeng Zhao]] · Mostly accurate
+- [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
+- [[C49 The market for pardon lobbying]] · Mostly accurate
+- [[C61 Lawyers and law firms that recur across the deals]] · Mostly accurate · connection check
+- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate · connection check
+- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate · connection check
+- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate · connection check
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate · connection check
+
+## Defence, minerals and contracts
+
+Federal contracts, loans and equity stakes in defence, drone and critical-minerals companies with ties to the Trump family, officials or donors.
+
+- [[C26 1789 Capital and the Vulcan Elements magnet deal]] · Mostly accurate
+- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
+- [[C32 Donald Trump Jr.'s ties to other government contractors]] · Partly accurate
+- [[C51 The Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Mostly accurate
+- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
+- [[C74 Pentagon investment offices, Cerberus alumni and no-bid contracts]] · Mostly accurate · connection check
+- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate · connection check
+- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate · connection check
+- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate · connection check
+
+## Tech and media companies
+
+Technology and media companies that made payments, settlements or donations while they had business before the federal government.
+
+- [[C08 AI chip exports to the UAE, Stargate and a possible currency swap]] · Mostly accurate
+- [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom]] · Mostly accurate
+- [[C34 David Sacks the AI and crypto adviser and his investments]] · Mostly accurate
+- [[C44 Amazon's $40 million Melania Trump documentary deal]] · Mostly accurate
+- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate · connection check
+- [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate · connection check
+- [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds]] · Mostly accurate · connection check
+- [[C92 The White House ballroom donor list]] · Partly accurate · connection check
+
+## Trump family
+
+- [[Donald Trump]]
+- [[Donald Trump Jr]]
+- [[Eric Trump]]
+- [[Jared Kushner]]
+- [[Melania Trump]]
+- [[Ivanka Trump]]
+
+## Administration officials
+
+- [[Steve Witkoff]]
+- [[Howard Lutnick]]
+- [[Karoline Leavitt]]
+- [[Scott Bessent]]
+- [[David Sacks]]
+- [[Paul Atkins]]
+
+## Business partners and investors
+
+- [[Zach Witkoff]]
+- [[Sheikh Tahnoon bin Zayed]]
+- [[Justin Sun]]
+- [[Changpeng Zhao]]
+- [[Kevin McGurn]]
+- [[Chase Herro]]
+
+## Foreign governments and funds
+
+- [[United Arab Emirates]]
+- [[Qatar]]
+- [[Public Investment Fund (Saudi Arabia)]]
+- [[Aryam Investment 1]]
+- [[Qatar Investment Authority]]
+- [[Saudi Arabia]]
+
+## Recurring themes
 
 - [[Theme - Enforcement cases dropped near money flows]]
 - [[Theme - Gulf sovereign money and dual-role envoys]]
@@ -130,36 +204,35 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[Theme - Insider gains alongside retail investor losses]]
 - [[Theme - Family members hired as advisers]]
 - [[Theme - Government contracts near family-linked firms]]
-- [[Theme - Secrecy and non-disclosure]]
+- [[Theme - Non-disclosure]]
 - [[Theme - Denials from everyone named]]
 - [[Theme - Earning from the office, brand and access]]
 - [[Theme - Narrative ahead of product; circular deals]]
-- [[Theme - Volume of stories too much to follow]]
 
 ## Most connected
 
-- [[Donald Trump]] (92 claims, 296 connections)
-- [[World Liberty Financial]] (46 claims, 125 connections)
-- [[White House Trump administration]] (60 claims, 103 connections)
-- [[Donald Trump Jr]] (50 claims, 95 connections)
-- [[Securities and Exchange Commission]] (33 claims, 95 connections)
-- [[Eric Trump]] (49 claims, 90 connections)
-- [[Trump Organization]] (32 claims, 85 connections)
-- [[Elizabeth Warren]] (34 claims, 75 connections)
-- [[Jared Kushner]] (24 claims, 72 connections)
-- [[Trump Media & Technology Group]] (23 claims, 66 connections)
-- [[US Congress]] (40 claims, 63 connections)
-- [[Steve Witkoff]] (23 claims, 56 connections)
-- [[White House ballroom]] (8 claims, 54 connections)
-- [[United Arab Emirates]] (26 claims, 49 connections)
-- [[Pentagon (Department of Defense)]] (17 claims, 43 connections)
-- [[The New York Times]] (22 claims, 41 connections)
-- [[The Wall Street Journal]] (24 claims, 41 connections)
-- [[Affinity Partners]] (19 claims, 40 connections)
-- [[Qatar]] (15 claims, 40 connections)
-- [[Dominari Holdings Dominari Securities]] (12 claims, 39 connections)
-- [[Sheikh Tahnoon bin Zayed]] (22 claims, 38 connections)
-- [[Binance]] (18 claims, 36 connections)
-- [[Cantor Fitzgerald]] (10 claims, 36 connections)
-- [[Commodity Futures Trading Commission]] (12 claims, 36 connections)
-- [[USD1]] (19 claims, 36 connections)
+- [[Donald Trump]] (92 checks, 294 connections)
+- [[World Liberty Financial]] (46 checks, 124 connections)
+- [[White House Trump administration]] (60 checks, 103 connections)
+- [[Securities and Exchange Commission]] (33 checks, 95 connections)
+- [[Donald Trump Jr]] (50 checks, 94 connections)
+- [[Eric Trump]] (49 checks, 89 connections)
+- [[Trump Organization]] (32 checks, 85 connections)
+- [[Elizabeth Warren]] (34 checks, 75 connections)
+- [[Jared Kushner]] (24 checks, 71 connections)
+- [[Trump Media & Technology Group]] (23 checks, 66 connections)
+- [[US Congress]] (40 checks, 63 connections)
+- [[Steve Witkoff]] (23 checks, 56 connections)
+- [[White House ballroom]] (8 checks, 54 connections)
+- [[United Arab Emirates]] (26 checks, 49 connections)
+- [[Pentagon (Department of Defense)]] (17 checks, 43 connections)
+- [[The New York Times]] (22 checks, 41 connections)
+- [[The Wall Street Journal]] (24 checks, 41 connections)
+- [[Affinity Partners]] (19 checks, 40 connections)
+- [[Qatar]] (15 checks, 40 connections)
+- [[Dominari Holdings Dominari Securities]] (12 checks, 39 connections)
+- [[Sheikh Tahnoon bin Zayed]] (22 checks, 38 connections)
+- [[Binance]] (18 checks, 36 connections)
+- [[Cantor Fitzgerald]] (10 checks, 36 connections)
+- [[Commodity Futures Trading Commission]] (12 checks, 36 connections)
+- [[USD1]] (19 checks, 36 connections)

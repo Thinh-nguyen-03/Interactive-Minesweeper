@@ -15,15 +15,15 @@ Letter of acceptance signed 2025-10-10
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Pete Hegseth]] *signed letter of acceptance* [[Qatari Emiri Air Force facility, Mountain Home AFB]] · 2025-10-10 · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Pete Hegseth]] *signed letter of acceptance* [[Qatari Emiri Air Force facility, Mountain Home AFB]] · 2025-10-10 · [[C73 Qatar's ties to people in and around the administration|C73]]

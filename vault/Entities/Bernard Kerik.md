@@ -15,28 +15,28 @@ Pardoned ex-NYPD chief; Qatar embassy contract Apr 2025; died May 2025
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Pardoned Trump ally reportedly hired by Qatar in Apr 2025
 
-## Appears in claims
+## Appears in checks
 
-- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
-- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
+- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Qatar]] *reportedly hired as lobbyist (single source)* [[Bernard Kerik]] · 2025-04 · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Qatar]] *reportedly hired as lobbyist (single source)* [[Bernard Kerik]] · 2025-04 · [[C64 Lobbyists and intermediaries with White House access|C64]]
 
 ### Ownership (1)
 
-- [[Bernard Kerik]] *owned* [[Kerik Group]] · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Bernard Kerik]] *owned* [[Kerik Group]] · [[C73 Qatar's ties to people in and around the administration|C73]]
 
 ### Political (1)
 
-- [[Donald Trump]] *pardoned* [[Bernard Kerik]] · 2020-02 · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Donald Trump]] *pardoned* [[Bernard Kerik]] · 2020-02 · [[C73 Qatar's ties to people in and around the administration|C73]]

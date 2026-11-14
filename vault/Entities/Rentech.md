@@ -15,16 +15,16 @@ Intermediary in the Movement/Web3Port market-making contract
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Rentech]] *agent in market-making contract* [[Movement Labs Movement Network Foundation]] · 2024 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Rentech]] *intermediary in market-making contract, claimed to be its subsidiary* [[Web3Port]] · 2024 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Rentech]] *agent in market-making contract* [[Movement Labs Movement Network Foundation]] · 2024 · [[C71 Who bought World Liberty tokens|C71]]
+- [[Rentech]] *intermediary in market-making contract, claimed to be its subsidiary* [[Web3Port]] · 2024 · [[C71 Who bought World Liberty tokens|C71]]

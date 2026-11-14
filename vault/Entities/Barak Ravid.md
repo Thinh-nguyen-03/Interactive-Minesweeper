@@ -12,20 +12,20 @@ tags:
 
 Axios reporter; publicly questioned the Bank of Israel account claim.
 
-> [!warning] Appears in only an unverified, single-source allegation ([[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]]). Nothing in it has been independently corroborated.
+> [!warning] Appears in only an unverified, single-source allegation ([[C46 The alleged Kushner Gulf accounts|C46]]). Nothing in it has been independently corroborated.
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Unverified · unverified allegation, single source
+- [[C46 The alleged Kushner Gulf accounts]] · Unverified · unverified allegation, single source
 
 ## Relationships
 
 ### Media (1)
 
-- [[Barak Ravid]] *publicly questioned Bank of Israel claim in* [[Princes and Thieves (book)]] · 2026-10 · [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint|C46]] · unverified allegation
+- [[Barak Ravid]] *publicly questioned Bank of Israel claim in* [[Princes and Thieves (book)]] · 2026-10 · [[C46 The alleged Kushner Gulf accounts|C46]] · unverified allegation

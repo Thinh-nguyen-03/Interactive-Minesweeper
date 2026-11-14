@@ -15,19 +15,19 @@ Boulos promoted increased oil output in 2025
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C66 The extended family's ventures and roles]] · Partly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Massad Boulos]] *announced plans to raise oil output* [[Libya]] · 2025-07 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Massad Boulos]] *announced plans to raise oil output* [[Libya]] · 2025-07 · [[C66 The extended family's ventures and roles|C66]]
 
 ### Commercial (1)
 
-- [[BGN International]] *trades Libyan oil* [[Libya]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[BGN International]] *trades Libyan oil* [[Libya]] · [[C66 The extended family's ventures and roles|C66]]

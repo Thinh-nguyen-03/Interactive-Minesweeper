@@ -15,23 +15,23 @@ GSA Federal Acquisition Service commissioner Jan 2025-Apr 2026; ex-KKR/Moelis; G
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 14 |
 
-## How other claims describe it
+## How other checks describe it
 
 - GSA Federal Acquisition Service commissioner; reported Thrive fund investor
 
-## Appears in claims
+## Appears in checks
 
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C66 The extended family's ventures and roles]] · Partly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Josh Gruenbaum]] *reported $100,001-$250,000 investor in a Databricks-linked Thrive SPV (WSJ via aggregators; single-source); says he recused* [[Thrive Capital]] · 2025-03 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Josh Gruenbaum]] *reported $100,001-$250,000 investor in a Databricks-linked Thrive SPV (WSJ via aggregators; single-source); says he recused* [[Thrive Capital]] · 2025-03 · [[C66 The extended family's ventures and roles|C66]]
 - [[Josh Gruenbaum]] *reportedly invested $100,001-$250,000 in Databricks-linked Thrive SPV (single-source, WSJ)* [[Thrive Capital]] · 2025-03 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 
 ### Regulatory (3)
@@ -48,7 +48,7 @@ GSA Federal Acquisition Service commissioner Jan 2025-Apr 2026; ex-KKR/Moelis; G
 
 ### Political (2)
 
-- [[Josh Gruenbaum]] *FAS commissioner at* [[General Services Administration]] · 2025 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Josh Gruenbaum]] *FAS commissioner at* [[General Services Administration]] · 2025 · [[C66 The extended family's ventures and roles|C66]]
 - [[Josh Gruenbaum]] *came in with Musk-linked DOGE contingent at GSA* [[Department of Government Efficiency]] · 2025-01 · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
 
 ### Media (1)

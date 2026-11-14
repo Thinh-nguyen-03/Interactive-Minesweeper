@@ -15,9 +15,9 @@ Signatory; proposed processing route for Rubaya output.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate

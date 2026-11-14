@@ -15,10 +15,10 @@ Omeed Malik's SPAC that merged with GrabAGun.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 

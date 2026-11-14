@@ -15,15 +15,15 @@ Orbán-led until Apr 2026; recipient of several US sanctions decisions in 2025.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
+- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[US one-year exemption for Hungary's Russian oil and gas]] *benefits* [[Hungary]] · 2025-11-07 · [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings|C89]]
+- [[US one-year exemption for Hungary's Russian oil and gas]] *benefits* [[Hungary]] · 2025-11-07 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]

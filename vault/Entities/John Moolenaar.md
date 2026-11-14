@@ -15,15 +15,15 @@ Chair of the House China committee.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
+- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[John Moolenaar]] *chair of* [[House Select Committee on the CCP]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[John Moolenaar]] *chair of* [[House Select Committee on the CCP]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]

@@ -17,27 +17,27 @@ Dar Global-developed, Trump-licensed resort financed via tokens
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 | Also known as | Trump International Hotel & Resort Maldives |
 
-## How other claims describe it
+## How other checks describe it
 
 - ~$300M tokenised resort announced 17 Nov 2025
 
-## Appears in claims
+## Appears in checks
 
-- [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
-- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C59 Foreign Trump Organization projects and tariff negotiations]] · Partly accurate
+- [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[World Liberty Financial]] *tokenising loan revenue interests (Reg D 506(c)/Reg S)* [[Trump International Hotel Maldives]] · 2026-02-18 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[World Liberty Financial]] *tokenising loan revenue interests (Reg D 506(c)/Reg S)* [[Trump International Hotel Maldives]] · 2026-02-18 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]
 
 ### Commercial (3)
 
-- [[Dar Global]] *developer of* [[Trump International Hotel Maldives]] · 2025-11-17 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
-- [[Dar Global]] *develops (tokenised)* [[Trump International Hotel Maldives]] · 2025-11-17 · $300M · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Trump Organization]] *brand licensor of* [[Trump International Hotel Maldives]] · 2025-11-17 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[Dar Global]] *developer of* [[Trump International Hotel Maldives]] · 2025-11-17 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]
+- [[Dar Global]] *develops (tokenised)* [[Trump International Hotel Maldives]] · 2025-11-17 · $300M · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]]
+- [[Trump Organization]] *brand licensor of* [[Trump International Hotel Maldives]] · 2025-11-17 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]

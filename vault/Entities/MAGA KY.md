@@ -15,15 +15,15 @@ Trump-allied anti-Massie super PAC
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[John Paulson]] *donated $250,000* [[MAGA KY]] · 2025 · $250K · [[C86 Trump mega-donors holding stakes in companies that received federal backing|C86]]
+- [[John Paulson]] *donated $250,000* [[MAGA KY]] · 2025 · $250K · [[C86 Major Trump donors with stakes in federally backed companies|C86]]

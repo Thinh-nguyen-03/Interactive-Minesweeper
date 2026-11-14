@@ -15,9 +15,9 @@ Counsel in jet-memo FOIA suit
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate

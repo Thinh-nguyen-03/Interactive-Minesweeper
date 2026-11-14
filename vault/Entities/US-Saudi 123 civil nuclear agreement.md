@@ -15,15 +15,15 @@ Signed 22 Jul 2026; sent to Congress 25 Aug 2026
 | | |
 |---|---|
 | Type | Law or policy |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C56 Saudi Arabia family deals alongside US policy decisions]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Chris Wright]] *signed* [[US-Saudi 123 civil nuclear agreement]] · 2026-07-22 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+- [[Chris Wright]] *signed* [[US-Saudi 123 civil nuclear agreement]] · 2026-07-22 · [[C56 Saudi Arabia family deals alongside US policy decisions|C56]]

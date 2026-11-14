@@ -9,14 +9,14 @@ tags:
 - UAE, Saudi and Qatari state-linked money flows to Trump-family or in-law ventures with little oversight.
 - The people negotiating for the US in the region (Witkoff, Kushner) have family or personal money tied to the same Gulf investors.
 
-## Claims
+## Checks
 
-- [[C06 Secret $500M 49% UAE stake in WLF]] · Confirmed
-- [[C07 MGX's $2B Binance investment settled in USD1]] · Mostly accurate
-- [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
-- [[C14 Steve and Zach Witkoff]] · Mostly accurate
-- [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
-- [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
+- [[C06 A UAE-backed 49% stake in World Liberty Financial]] · Confirmed
+- [[C07 MGX's $2 billion Binance investment settled in USD1]] · Mostly accurate
+- [[C08 AI chip exports to the UAE, Stargate and a possible currency swap]] · Mostly accurate
+- [[C14 Steve and Zach Witkoff a Middle East envoy and World Liberty]] · Mostly accurate
+- [[C15 Jared Kushner, Affinity Partners and Gulf sovereign funds]] · Mostly accurate
+- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
 
 ## People and organisations
 

@@ -15,15 +15,15 @@ Granted Kraken Financial a limited master account
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Federal Reserve Bank of Kansas City]] *limited master account* [[Kraken]] · 2026-03 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Federal Reserve Bank of Kansas City]] *limited master account* [[Kraken]] · 2026-03 · [[C67 Investors who appear in several Trump-family vehicles|C67]]

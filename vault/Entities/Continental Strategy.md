@@ -15,19 +15,19 @@ Carlos Trujillo's lobbying firm
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Democratic Party of Albania]] *reported $250K/month contract (third-party paid)* [[Continental Strategy]] · 2025-04 · $250K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Democratic Party of Albania]] *reported $250K/month contract (third-party paid)* [[Continental Strategy]] · 2025-04 · $250K · [[C64 Lobbyists and intermediaries with White House access|C64]]
 
 ### Ownership (1)
 
-- [[Carlos Trujillo]] *founder* [[Continental Strategy]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Carlos Trujillo]] *founder* [[Continental Strategy]] · [[C64 Lobbyists and intermediaries with White House access|C64]]

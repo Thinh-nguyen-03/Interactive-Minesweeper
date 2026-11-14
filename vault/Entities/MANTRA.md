@@ -15,15 +15,15 @@ RWA blockchain; $1B tokenisation deal with Damac (Jan 2025); OM token crashed 90
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge]] · Mostly accurate
+- [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Damac Properties]] *$1B RWA tokenisation agreement* [[MANTRA]] · 2025-01-09 · $1B · [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge|C88]]
+- [[Damac Properties]] *$1B RWA tokenisation agreement* [[MANTRA]] · 2025-01-09 · $1B · [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge|C88]]

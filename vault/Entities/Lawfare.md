@@ -15,15 +15,15 @@ Published 'The CFIUS Review That Will Never Be'
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
+- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Lawfare]] *predicted 'the CFIUS review that will never be'* [[EA take-private]] · 2025-10-03 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Lawfare]] *predicted 'the CFIUS review that will never be'* [[EA take-private]] · 2025-10-03 · [[C80 Sovereign-fund megadeals that need US approval|C80]]

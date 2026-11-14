@@ -15,15 +15,15 @@ MQ-9B manufacturer
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
+- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[General Atomics Aeronautical Systems]] *manufacturer for* [[MQ-9B sale to Qatar]] · 2025-03-26 · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[General Atomics Aeronautical Systems]] *manufacturer for* [[MQ-9B sale to Qatar]] · 2025-03-26 · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]]

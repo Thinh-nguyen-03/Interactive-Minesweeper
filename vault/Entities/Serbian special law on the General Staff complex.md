@@ -15,15 +15,15 @@ Passed 7 Nov 2025 (130-40); declared the project a national priority and removed
 | | |
 |---|---|
 | Type | Law or policy |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C45 Kushner's resort projects in Albania and Serbia]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Serbia]] *parliament passed special law 130-40* [[Serbian special law on the General Staff complex]] · 2025-11-07 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Serbia]] *parliament passed special law 130-40* [[Serbian special law on the General Staff complex]] · 2025-11-07 · [[C45 Kushner's resort projects in Albania and Serbia|C45]]

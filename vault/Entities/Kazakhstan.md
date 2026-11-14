@@ -15,18 +15,18 @@ Reported venue of alleged Kremlev-Trump Jr. business talk; site of the Trump son
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 4 claims |
+| Appears in | 4 checks |
 | Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Host country of the tungsten project.
 - Host of the tungsten project
 - State
 
-## Appears in claims
+## Appears in checks
 
-- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
-- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
-- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
+- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
+- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
+- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
+- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate

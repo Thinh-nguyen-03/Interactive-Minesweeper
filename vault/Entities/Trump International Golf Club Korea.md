@@ -15,17 +15,17 @@ Planned Trump golf course in Hakam-dong, Hanam, Gyeonggi
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
+- [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (3)
 
-- [[Eric Trump]] *visited Hanam sites with Base Group, 10-11 Feb 2026 (Korean press; same plot not confirmed)* [[Trump International Golf Club Korea]] · 2026-02-10 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
-- [[Base Group (Base Co., Ltd.)]] *developer of (Trump-licensed)* [[Trump International Golf Club Korea]] · 2026-08-13 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
-- [[Trump Organization]] *brand licensor/manager of* [[Trump International Golf Club Korea]] · 2026-08-13 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[Eric Trump]] *visited Hanam sites with Base Group, 10-11 Feb 2026 (Korean press; same plot not confirmed)* [[Trump International Golf Club Korea]] · 2026-02-10 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]
+- [[Base Group (Base Co., Ltd.)]] *developer of (Trump-licensed)* [[Trump International Golf Club Korea]] · 2026-08-13 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]
+- [[Trump Organization]] *brand licensor/manager of* [[Trump International Golf Club Korea]] · 2026-08-13 · [[C79 Lesser-known foreign projects Tbilisi, South Korea, the Maldives and Vietnam|C79]]

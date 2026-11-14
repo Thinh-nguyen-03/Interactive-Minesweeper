@@ -15,15 +15,15 @@ Listed donor (BAT)
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
+- [[C92 The White House ballroom donor list]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Reynolds American]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Reynolds American]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The White House ballroom donor list|C92]]

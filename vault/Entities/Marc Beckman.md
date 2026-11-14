@@ -15,15 +15,15 @@ Melania Trump's adviser; says the film is 'not political at all'.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C44 Amazon's $40 million Melania Trump documentary deal]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Marc Beckman]] *adviser to* [[Melania Trump]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Marc Beckman]] *adviser to* [[Melania Trump]] · [[C44 Amazon's $40 million Melania Trump documentary deal|C44]]

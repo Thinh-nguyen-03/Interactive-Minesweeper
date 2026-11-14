@@ -15,14 +15,14 @@ Reported the WLF token-swap pitch
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 2 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Broke the token-swap pitch story
 
-## Appears in claims
+## Appears in checks
 
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
-- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate

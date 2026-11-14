@@ -15,21 +15,21 @@ tags:
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 3 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Land valued at more than $67M, deeded to the library foundation in Feb 2026
 
-## Appears in claims
+## Appears in checks
 
-- [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
-- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
+- [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom]] · Mostly accurate
+- [[C48 The Trump presidential library foundation's money and land]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Donald J. Trump Presidential Library Foundation, Inc]] *owns* [[Miami Dade College downtown parcel]] · 2026-01 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Miami Dade College downtown parcel]] *deeded for $10 to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-02 · $67M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Donald J. Trump Presidential Library Foundation, Inc]] *owns* [[Miami Dade College downtown parcel]] · 2026-01 · [[C48 The Trump presidential library foundation's money and land|C48]]
+- [[Miami Dade College downtown parcel]] *deeded for $10 to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-02 · $67M · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]

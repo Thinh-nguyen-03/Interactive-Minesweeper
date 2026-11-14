@@ -15,19 +15,19 @@ Jump subsidiary; $123M SEC settlement Dec 2024
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Tai Mo Shan]] *subsidiary of* [[Jump Trading]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Tai Mo Shan]] *subsidiary of* [[Jump Trading]] · [[C67 Investors who appear in several Trump-family vehicles|C67]]
 
 ### Regulatory (1)
 
-- [[Securities and Exchange Commission]] *$123M settlement (pre-term)* [[Tai Mo Shan]] · 2024-12-20 · $123M · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Securities and Exchange Commission]] *$123M settlement (pre-term)* [[Tai Mo Shan]] · 2024-12-20 · $123M · [[C67 Investors who appear in several Trump-family vehicles|C67]]

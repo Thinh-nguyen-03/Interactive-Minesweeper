@@ -15,15 +15,15 @@ Announced by Trump 10 May 2025.
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Donald Trump]] *announced and claimed credit* [[India-Pakistan ceasefire (May 2025)]] · 2025-05-10 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Donald Trump]] *announced and claimed credit* [[India-Pakistan ceasefire (May 2025)]] · 2025-05-10 · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]

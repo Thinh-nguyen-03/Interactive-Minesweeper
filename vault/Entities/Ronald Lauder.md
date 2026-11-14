@@ -15,20 +15,20 @@ Billionaire Trump friend credited with the Greenland-purchase idea
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
+- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Ronald Lauder]] *linked investor (hydropower plan)* [[Greenland Development Partners]] · 2025 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
-- [[Ronald Lauder]] *co-owner* [[Greenland Water Bank]] · 2025 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Ronald Lauder]] *linked investor (hydropower plan)* [[Greenland Development Partners]] · 2025 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Ronald Lauder]] *co-owner* [[Greenland Water Bank]] · 2025 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
 
 ### Political (1)
 
-- [[Ronald Lauder]] *longtime friend; suggested buying Greenland (per Bolton)* [[Donald Trump]] · first term · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Ronald Lauder]] *longtime friend; suggested buying Greenland (per Bolton)* [[Donald Trump]] · first term · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]

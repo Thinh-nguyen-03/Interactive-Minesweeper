@@ -15,15 +15,15 @@ Endeavor executive chair; rolled equity into Silver Lake take-private
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
+- [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Ari Emanuel]] *rolled equity; executive chair of* [[Endeavor (WME Group)]] · 2025-03-24 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[Ari Emanuel]] *rolled equity; executive chair of* [[Endeavor (WME Group)]] · 2025-03-24 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]

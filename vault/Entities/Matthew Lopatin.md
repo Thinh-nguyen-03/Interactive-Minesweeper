@@ -15,10 +15,10 @@ Registered Liberty Mobile in Florida in 2018
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 

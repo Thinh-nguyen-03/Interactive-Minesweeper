@@ -17,19 +17,19 @@ Trump digital trading-card NFT business.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 | Also known as | NFT business |
 
-## Appears in claims
+## Appears in checks
 
-- [[C17 Trump merchandise and the T1 phone]] · Mostly accurate
+- [[C17 Trump-branded merchandise and the T1 phone]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Donald Trump]] *sells* [[Trump NFTs]] · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Donald Trump]] *sells* [[Trump NFTs]] · [[C17 Trump-branded merchandise and the T1 phone|C17]]
 
 ## Themes
 

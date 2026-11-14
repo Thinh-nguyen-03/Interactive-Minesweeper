@@ -10,15 +10,13 @@ tags:
 ---
 # MSNBC
 
-Aired Herro's 2018 video in 2024.
-
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
 

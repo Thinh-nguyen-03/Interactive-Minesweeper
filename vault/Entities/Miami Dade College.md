@@ -15,20 +15,20 @@ State college whose trustees gave the parcel to the state in Sept 2025
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
+- [[C48 The Trump presidential library foundation's money and land]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Miami Dade College]] *gave downtown parcel to state* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] · 2025-09-23 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Miami Dade College]] *gave downtown parcel to state* [[Florida Board of Trustees of the Internal Improvement Trust Fund]] · 2025-09-23 · [[C48 The Trump presidential library foundation's money and land|C48]]
 
 ### Legal (2)
 
-- [[Marvin Dunn]] *sued under Sunshine Law (dismissed 18 Dec 2025)* [[Miami Dade College]] · 2025-10 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
-- [[Mavel Ruiz]] *enjoined then dismissed suit against* [[Miami Dade College]] · 2025-12-18 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Marvin Dunn]] *sued under Sunshine Law (dismissed 18 Dec 2025)* [[Miami Dade College]] · 2025-10 · [[C48 The Trump presidential library foundation's money and land|C48]]
+- [[Mavel Ruiz]] *enjoined then dismissed suit against* [[Miami Dade College]] · 2025-12-18 · [[C48 The Trump presidential library foundation's money and land|C48]]

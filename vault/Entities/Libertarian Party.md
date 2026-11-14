@@ -15,10 +15,10 @@ Trump pledged the Ulbricht pardon at its May 2024 convention
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 

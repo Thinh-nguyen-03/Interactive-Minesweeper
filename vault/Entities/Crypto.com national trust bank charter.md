@@ -15,19 +15,19 @@ Provisionally approved.
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C22 Crypto.com and TMTG]] · Mostly accurate
+- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (2)
 
-- [[Crypto.com]] *applied for* [[Crypto.com national trust bank charter]] · [[C22 Crypto.com and TMTG|C22]]
-- [[Office of the Comptroller of the Currency]] *provisionally approved* [[Crypto.com national trust bank charter]] · [[C22 Crypto.com and TMTG|C22]]
+- [[Crypto.com]] *applied for* [[Crypto.com national trust bank charter]] · [[C22 Crypto.com's deal with Trump Media|C22]]
+- [[Office of the Comptroller of the Currency]] *provisionally approved* [[Crypto.com national trust bank charter]] · [[C22 Crypto.com's deal with Trump Media|C22]]
 
 ## Themes
 

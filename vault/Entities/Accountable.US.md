@@ -15,25 +15,25 @@ Watchdog whose Sep 2025 on-chain report alleged WLFI sales to sanctioned-linked 
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Watchdog whose September 2025 report traced WLFI to risky wallets
 - Watchdog that reported WLFI sales to illicit-linked wallets
 
-## Appears in claims
+## Appears in checks
 
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
-- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
-- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate
+- [[C76 Russia-linked money around the family and the envoys]] · Partly accurate
+- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
 
 ## Relationships
 
 ### Media (4)
 
-- [[Nick Bax]] *rebutted Lazarus link as joke airdrop* [[Accountable.US]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Accountable.US]] *published on-chain report on sanctioned-linked buyers* [[World Liberty Financial]] · 2025-09 · [[C76 Russia-linked money around the family and envoys|C76]]
-- [[Accountable.US]] *reported WLFI sales to A7A5/Nobitex/Tornado-exposed wallets* [[World Liberty Financial]] · 2025-09 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
-- [[Accountable.US]] *reported WLFI sales to illicit-linked wallets* [[World Liberty Financial]] · 2025-09 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Nick Bax]] *rebutted Lazarus link as joke airdrop* [[Accountable.US]] · 2025 · [[C71 Who bought World Liberty tokens|C71]]
+- [[Accountable.US]] *published on-chain report on sanctioned-linked buyers* [[World Liberty Financial]] · 2025-09 · [[C76 Russia-linked money around the family and the envoys|C76]]
+- [[Accountable.US]] *reported WLFI sales to A7A5/Nobitex/Tornado-exposed wallets* [[World Liberty Financial]] · 2025-09 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
+- [[Accountable.US]] *reported WLFI sales to illicit-linked wallets* [[World Liberty Financial]] · 2025-09 · [[C71 Who bought World Liberty tokens|C71]]

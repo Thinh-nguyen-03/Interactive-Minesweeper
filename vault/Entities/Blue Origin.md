@@ -15,19 +15,19 @@ Bezos's rocket company; won about $2.3B in NSSL Phase 3 launches in Apr 2025.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C44 Amazon's $40 million Melania Trump documentary deal]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Jeff Bezos]] *owns* [[Blue Origin]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Jeff Bezos]] *owns* [[Blue Origin]] · [[C44 Amazon's $40 million Melania Trump documentary deal|C44]]
 
 ### Commercial (1)
 
-- [[Pentagon (Department of Defense)]] *awarded 7 NSSL missions (~$2.3B)* [[Blue Origin]] · 2025-04-04 · $2.3B · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Pentagon (Department of Defense)]] *awarded 7 NSSL missions (~$2.3B)* [[Blue Origin]] · 2025-04-04 · $2.3B · [[C44 Amazon's $40 million Melania Trump documentary deal|C44]]

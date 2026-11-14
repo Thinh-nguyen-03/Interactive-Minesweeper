@@ -15,15 +15,15 @@ Undisclosed, 'inactive' Georgia licensing entity per CREW.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
+- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Trump Organization]] *undisclosed inactive entity (CREW)* [[DT Marks Tbilisi LLC]] · [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings|C89]]
+- [[Trump Organization]] *undisclosed inactive entity (CREW)* [[DT Marks Tbilisi LLC]] · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]

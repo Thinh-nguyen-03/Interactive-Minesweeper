@@ -4,7 +4,8 @@ kind: "claim"
 title: "Clemency for other crypto and donor-linked figures"
 verdict: "mostly-accurate"
 confidence: "high"
-origin: "follow-up"
+type: "Check"
+topic: "Pardons, lobbyists and access"
 parents:
   - "C09"
   - "C23"
@@ -12,13 +13,18 @@ aliases:
   - "C36"
 tags:
   - "claim"
-  - "origin/follow-up"
+  - "kind/check"
+  - "topic/pardons-lobbyists-and-access"
   - "verdict/mostly-accurate"
 ---
 # C36: Clemency for other crypto and donor-linked figures
 
 **Verdict:** Mostly accurate · high confidence  
-**Origin:** Follow-up lead
+**Type:** Check · Pardons, lobbyists and access
+
+## The claim
+
+> Beyond Changpeng Zhao, did Trump grant clemency to Ross Ulbricht, the BitMEX founders, Nikola founder Trevor Milton and others with crypto or donor ties, and did the Justice Department disband its crypto enforcement team?
 
 ## Bottom line
 
@@ -52,18 +58,14 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
 - Roger Ver got a DOJ deferred prosecution deal (about $50M paid), not clemency.
 - No evidence shows that any grant was bought.
 
-## Lead investigated
+## Builds on
 
-> Follow-up to the CZ pardon: Trump also granted clemency to other crypto or donor-linked figures — Ross Ulbricht (Silk Road), the BitMEX co-founders (Arthur Hayes et al.) and BitMEX itself, Nikola founder Trevor Milton (a donor), Roger Ver settlement/deferred prosecution, and reportedly others; plus the DOJ disbanding its crypto enforcement unit (NCET). Verify each, the dates, any donations or lobbying payments linked to them (e.g. lobbyists paid for the CZ pardon), and official justifications.
+- [[C09 The dropped Binance case and the pardon of Changpeng Zhao]] · Mostly accurate
+- [[C23 SEC crypto cases dropped and the firms' donations]] · Mostly accurate
 
-## Follows up on
+## Checks that build on this one
 
-- [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
-- [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
-
-## Follow-up checks
-
-- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
+- [[C49 The market for pardon lobbying]] · Mostly accurate
 
 ## Sub-claims
 
@@ -118,7 +120,7 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
 **Confirmed**
 
 - Per disclosures reported by Politico: Checkmate Government Relations (Ches McDowell, a friend of Trump Jr.) got $450K for about a month of 'executive relief' lobbying in late Sep 2025, and Teresa Goody Guillén (BakerHostetler, also counsel to WLF) got about $290K. McDowell told the WSJ he raised Zhao's case with Trump.
-- Based on secondary coverage; Politico was not fetched.
+- Based on secondary coverage; Politico was not read directly.
 - Amounts: $450K; about $290K
 - Dates: late Sep 2025
 - Sources: [13](https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington) [14](https://www.notus.org/money/pardon-lobbyists-president-donald-trump)
@@ -162,7 +164,7 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
   - Goody Guillén says CZ was 'pardoned for justice'.
 - The NCET disbandment was a policy memo, not clemency.
   - Fraud prosecutions continued, for example Tornado Cash's Roman Storm in 2025.
-- Many mainstream outlets were blocked for direct fetch.
+- Many mainstream outlets were not read directly.
   - Politico, NYT and WSJ details come from secondary coverage.
 - Zhao claims in his April 2026 memoir that US crypto rivals 'paid millions in lobbying fees to block the pardon'; this is his assertion, not an established finding.
 
@@ -205,9 +207,9 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
 
 ### Money (4)
 
-- [[Trevor Milton]] *donated (with wife) to Trump-aligned committees* [[Donald Trump]] · 2024-10 · $1.8M · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Trevor Milton]] *donated (with wife) to Trump-aligned committees* [[Donald Trump]] · 2024-10 · $1.8M · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The market for pardon lobbying|C49]]
 - [[Binance]] *paid (with Zhao) for lobbying* [[Teresa Goody Guillén]] · 2025 · $290K · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Binance]] *paid for 'executive relief' lobbying* [[Checkmate Government Relations]] · 2025-09 · $450K · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Binance]] *paid for 'executive relief' lobbying* [[Checkmate Government Relations]] · 2025-09 · $450K · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The market for pardon lobbying|C49]]
 - [[Roger Ver]] *paid to lobby on exit tax and crypto tax* [[Roger Stone]] · 2025-Q1 · $600K · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 
 ### Ownership (6)
@@ -221,7 +223,7 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
 
 ### Family (1)
 
-- [[Elizabeth Fago]] *mother of* [[Paul Walczak]] · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Elizabeth Fago]] *mother of* [[Paul Walczak]] · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The market for pardon lobbying|C49]]
 
 ### Regulatory (3)
 
@@ -233,22 +235,22 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
 
 - [[Donald Trump]] *pledged Ulbricht pardon at its convention* [[Libertarian Party]] · 2024-05 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Ches McDowell]] *raised Zhao's case with (per WSJ)* [[Donald Trump]] · 2025 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Ches McDowell]] *friend of* [[Donald Trump Jr]] · 2025 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Ches McDowell]] *friend of* [[Donald Trump Jr]] · 2025 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The market for pardon lobbying|C49]] [[C64 Lobbyists and intermediaries with White House access|C64]]
 - [[Elizabeth Fago]] *attended $1M-per-head dinner (payment unclear)* [[MAGA Inc]] · 2025-04 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 
 ### Legal (15)
 
-- [[Teresa Goody Guillén]] *counsel to* [[World Liberty Financial]] · 2025 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[Teresa Goody Guillén]] *counsel to* [[World Liberty Financial]] · 2025 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The market for pardon lobbying|C49]]
 - [[Donald Trump]] *pardoned* [[Ross Ulbricht]] · 2025-01-21 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Donald Trump]] *pardoned* [[Arthur Hayes]] · 2025-03-27 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Donald Trump]] *pardoned* [[Benjamin Delo]] · 2025-03-27 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Donald Trump]] *pardoned operator HDR Global Trading* [[BitMEX (HDR Global Trading)]] · 2025-03-27 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Donald Trump]] *pardoned* [[Gregory Dwyer]] · 2025-03-27 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Donald Trump]] *pardoned* [[Samuel Reed]] · 2025-03-27 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Donald Trump]] *pardoned* [[Trevor Milton]] · 2025-03-28 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Donald Trump]] *pardoned* [[Trevor Milton]] · 2025-03-28 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The market for pardon lobbying|C49]] [[C61 Lawyers and law firms that recur across the deals|C61]] [[C64 Lobbyists and intermediaries with White House access|C64]] [[C65 Officials who decided matters involving former clients or partners|C65]]
 - [[Donald Trump]] *pardoned* [[Paul Walczak]] · 2025-04-23 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[US Department of Justice (us-doj)]] *deferred prosecution agreement; about $50M paid to IRS* [[Roger Ver]] · 2025-10-14 · $49.9M · [[C36 Clemency for other crypto and donor-linked figures|C36]]
-- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C69 Master timeline money events versus government actions|C69]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Donald Trump]] *pardoned* [[Changpeng Zhao]] · 2025-10-22 · [[C09 The dropped Binance case and the pardon of Changpeng Zhao|C09]] [[C10 Binance's role in the growth of USD1|C10]] [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The market for pardon lobbying|C49]] [[C69 Master timeline money events and government actions|C69]] [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
 - [[Pardon of Changpeng Zhao]] *pardon of* [[Changpeng Zhao]] · 2025-10-23 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Donald Trump]] *said he would 'look at' a pardon* [[Keonne Rodriguez]] · 2025-12-15 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 - [[Sam Bankman-Fried]] *applied for a pardon (Trump says no)* [[Donald Trump]] · 2026-06 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
@@ -256,7 +258,7 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
 
 ### Commercial (2)
 
-- [[Teresa Goody Guillén]] *partner at* [[BakerHostetler]] · 2025 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]] [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Teresa Goody Guillén]] *partner at* [[BakerHostetler]] · 2025 · [[C36 Clemency for other crypto and donor-linked figures|C36]] [[C49 The market for pardon lobbying|C49]] [[C61 Lawyers and law firms that recur across the deals|C61]]
 - [[Changpeng Zhao]] *retained to lobby on 'executive relief'* [[BakerHostetler]] · 2025-Q2 · [[C36 Clemency for other crypto and donor-linked figures|C36]]
 
 ## Leads not covered here
@@ -301,8 +303,8 @@ Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwye
 
 **Verdict: mostly accurate (confidence: high on the grants and dates, low on any link between money and clemency)**
 
-### The lead as briefed
-This is a follow-up to the Changpeng Zhao pardon (C09) and the SEC dropping its crypto cases (C23). The brief says Trump also granted clemency to other crypto or donor-linked figures:
+### The claim
+This check builds on the Changpeng Zhao pardon (C09) and the SEC dropping its crypto cases (C23). The claim says Trump also granted clemency to other crypto or donor-linked figures:
 - Ross Ulbricht
 - the BitMEX co-founders, and BitMEX itself
 - Trevor Milton of Nikola, a donor
@@ -311,7 +313,7 @@ This is a follow-up to the Changpeng Zhao pardon (C09) and the SEC dropping its 
 
 It adds that the DOJ disbanded its National Cryptocurrency Enforcement Team (NCET). It asks for the dates, any donations or lobbying payments, and the official justifications.
 
-Note: The video does not cover this. Many mainstream outlets (NYT, WSJ, Politico, Reuters) could not be fetched directly here. The findings below rely on search results that agree across several outlets. Where only secondary coverage was available, that is noted.
+Note: Many mainstream outlets (NYT, WSJ, Politico, Reuters) could not be read directly. The findings below rely on search results that agree across several outlets. Where only secondary coverage was available, that is noted.
 
 ### Evidence by sub-claim
 

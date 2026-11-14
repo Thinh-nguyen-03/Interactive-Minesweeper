@@ -2,7 +2,7 @@
 
 **Verdict: mostly accurate** (confidence: medium)
 
-The claim bundles eight follow-up threads from C04, C05, C13, C14 and C29. Most hold up on the documented record: the 75% revenue entitlement, Trump's disclosed WLF income, Witkoff's roughly $107M of 2025 income, the Dolomite borrowing against about 5B WLFI, the token freezes, the $SPSC promotion and the WLFI price collapse. Three parts need correction or stay open:
+The claim bundles eight threads that build on C04, C05, C13, C14 and C29. Most hold up on the documented record: the 75% revenue entitlement, Trump's disclosed WLF income, Witkoff's roughly $107M of 2025 income, the Dolomite borrowing against about 5B WLFI, the token freezes, the $SPSC promotion and the WLFI price collapse. Three parts need correction or stay open:
 
 - **The borrowing.** It was done by World Liberty's own treasury or multisig wallets, not by individual insiders borrowing personally. "Insider loans" is a headline phrase, and the loan size is disputed.
 - **Retail losses.** No source quantifies WLFI retail losses in dollars.

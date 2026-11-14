@@ -15,15 +15,15 @@ Menendez co-defendant; IS EG Halal owner
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Wael Hana]] *owns* [[IS EG Halal]] · 2019 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+- [[Wael Hana]] *owns* [[IS EG Halal]] · 2019 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]

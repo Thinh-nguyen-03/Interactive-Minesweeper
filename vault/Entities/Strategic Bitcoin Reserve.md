@@ -15,32 +15,32 @@ Executive order creating a US government bitcoin reserve.
 | | |
 |---|---|
 | Type | Law or policy |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Created by EO 14233 on 2025-03-06 from forfeited government BTC
 
-## Appears in claims
+## Appears in checks
 
-- [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]] · Mostly accurate
+- [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Strategic Bitcoin Reserve]] *stockpiles* [[Bitcoin]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Strategic Bitcoin Reserve]] *stockpiles* [[Bitcoin]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
 
 ### Regulatory (1)
 
-- [[Strategic Bitcoin Reserve]] *holds forfeited government* [[Bitcoin]] · 2025-03-06 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Strategic Bitcoin Reserve]] *holds forfeited government* [[Bitcoin]] · 2025-03-06 · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
 
 ### Political (3)
 
-- [[Donald Trump]] *signed EO 14233 establishing* [[Strategic Bitcoin Reserve]] · 2025-03-06 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[White House Trump administration]] *issued executive order creating* [[Strategic Bitcoin Reserve]] · 2025-03-06 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Donald Trump]] *signed order creating* [[Strategic Bitcoin Reserve]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Donald Trump]] *signed EO 14233 establishing* [[Strategic Bitcoin Reserve]] · 2025-03-06 · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
+- [[White House Trump administration]] *issued executive order creating* [[Strategic Bitcoin Reserve]] · 2025-03-06 · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
+- [[Donald Trump]] *signed order creating* [[Strategic Bitcoin Reserve]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
 
 ## Themes
 

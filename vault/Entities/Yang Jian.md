@@ -15,19 +15,19 @@ Controlling shareholder of AB's resort company; sanctioned 2025-10-14 in the Pri
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Yang Jian]] *controlling shareholder (WSJ)* [[AB Digital Technology Resort]] · 2025 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
+- [[Yang Jian]] *controlling shareholder (WSJ)* [[AB Digital Technology Resort]] · 2025 · [[C90 World Liberty's token-swap pitch and its partners|C90]]
 
 ### Regulatory (1)
 
-- [[US Treasury]] *sanctioned in Prince Group/Palau action (per WSJ)* [[Yang Jian]] · 2025-10-14 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
+- [[US Treasury]] *sanctioned in Prince Group/Palau action (per WSJ)* [[Yang Jian]] · 2025-10-14 · [[C90 World Liberty's token-swap pitch and its partners|C90]]

@@ -15,15 +15,15 @@ Chemaf's major creditor ($600M 2022 loan).
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Trafigura]] *creditor of* [[Chemaf]] · 2022 · $600M · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Trafigura]] *creditor of* [[Chemaf]] · 2022 · $600M · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]

@@ -15,15 +15,15 @@ Abu Dhabi vehicle in the WBD bid
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[L'imad Holding Company]] *co-financed WBD bid* [[Paramount]] · 2025-12 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[L'imad Holding Company]] *co-financed WBD bid* [[Paramount]] · 2025-12 · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]

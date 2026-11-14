@@ -15,19 +15,19 @@ Trump family-owned entity that reportedly received ~$500M from the ALT5 Sigma de
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C13 ALT5 Sigma $1.5B WLFI treasury deal]] · Mostly accurate
+- [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[ALT5 Sigma]] *reportedly paid ~$500M to* [[Trump family-owned WLF entity]] · $500M · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[ALT5 Sigma]] *reportedly paid ~$500M to* [[Trump family-owned WLF entity]] · $500M · [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty|C13]]
 
 ### Ownership (1)
 
-- [[Donald Trump]] *family owns* [[Trump family-owned WLF entity]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Donald Trump]] *family owns* [[Trump family-owned WLF entity]] · [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty|C13]]

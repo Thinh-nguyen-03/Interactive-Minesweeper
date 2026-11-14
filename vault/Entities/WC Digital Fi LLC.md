@@ -15,19 +15,19 @@ Witkoff-family affiliate holding WLF interests
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 6 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Witkoff-family WLF holding entity
 - Witkoff-family affiliate in WLF
 
-## Appears in claims
+## Appears in checks
 
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate
 
 ## Relationships
 
@@ -35,7 +35,7 @@ Witkoff-family affiliate holding WLF interests
 
 - [[WC Digital Fi LLC]] *paid about $107M of 2025 income (WLF-linked holding company)* [[Steve Witkoff]] · 2025 · $107M · [[C42 How World Liberty insiders took money out|C42]]
 - [[WC Digital Fi LLC]] *paid ~$107M 2025 income* [[Steve Witkoff]] · 2025 · $107M · [[C63 Shell entities and ownership chains|C63]]
-- [[World Liberty Financial]] *Witkoff family also benefited from Aqua 1 sale (NYT)* [[WC Digital Fi LLC]] · 2025-06 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[World Liberty Financial]] *Witkoff family also benefited from Aqua 1 sale (NYT)* [[WC Digital Fi LLC]] · 2025-06 · [[C71 Who bought World Liberty tokens|C71]]
 
 ### Ownership (2)
 
@@ -44,5 +44,5 @@ Witkoff-family affiliate holding WLF interests
 
 ### Family (2)
 
-- [[Steve Witkoff]] *family affiliate* [[WC Digital Fi LLC]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
-- [[Zach Witkoff]] *family affiliate* [[WC Digital Fi LLC]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Steve Witkoff]] *family affiliate* [[WC Digital Fi LLC]] · 2025 · [[C71 Who bought World Liberty tokens|C71]]
+- [[Zach Witkoff]] *family affiliate* [[WC Digital Fi LLC]] · 2025 · [[C71 Who bought World Liberty tokens|C71]]

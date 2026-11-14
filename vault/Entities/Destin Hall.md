@@ -15,9 +15,9 @@ North Carolina House Speaker whose spokesman described the White House briefing.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
+- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate

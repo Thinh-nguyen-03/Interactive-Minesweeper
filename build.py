@@ -1136,7 +1136,7 @@ _OFFICIAL = re.compile(
     r"(?i)\b(secretary|attorney general|deputy ag|acting ag|special envoy|envoy to|chief of staff|czar|"
     r"(sec|cftc|fcc|ftc|occ|fed|fhfa) (chair|chairman|chief|nominee|commissioner|director)|"
     r"chair(man)? of the (sec|cftc|fcc|ftc)|trump-appointed|white house (counsel|adviser|advisor|aide|official)|"
-    r"director of national intelligence|administrator|comptroller|ambassador|senior adviser to the president)\b")
+    r"nominee|to lead the (sec|cftc|fcc|ftc|occ)|director of national intelligence|administrator|comptroller|ambassador|senior adviser to the president)\b")
 _NOT_OFFICIAL = re.compile(r"(?i)\b(senator|sen\.|representative|rep\.|congress(wo)?man|ranking member|democrat\w*|"
                            r"journalist|reporter|researcher|writer|professor|watchdog|biden|obama|"
                            r"foreign minister|prime minister|emir|crown prince|sheikh|king)\b")
@@ -1180,7 +1180,7 @@ def who_groups(entities, lines, key_of, per=6):
         or (e["type"] in ("fund", "government", "company") and _FOREIGN.search(e["name"] + " " + (e.get("role") or ""))
             and not _US_BODY.search(e["name"]) and (e["type"] != "company" or re.search(
                 r"(?i)sovereign|state[- ](owned|backed|linked|fund|investment)|government", e.get("role") or ""))))
-        and any(r["type"] in ("money", "ownership", "commercial") for r in by_ent[e["key"]])), key=rank)
+        and sum(1 for r in by_ent[e["key"]] if r["type"] in ("money", "ownership")) >= 3), key=rank)
     groups = [("family", "Trump family", fam), ("officials", "Administration officials", officials),
               ("partners", "Business partners and investors", partners),
               ("foreign", "Foreign governments and funds", foreign)]
@@ -1887,7 +1887,8 @@ def banned_strings(graph):
             real = []
             for ln in lines:           # a line that is only a source citation is the publisher's wording
                 bare = re.sub(r"\[[^\]]*\]\([^)]*\)|https?://\S+", "", ln)
-                if BANNED.search(bare):
+                cited = re.match(r"\s*(\d+[.)]|[-*]|\[\d+\])\s", ln) and re.search(r"https?://", ln)
+                if BANNED.search(bare) and not cited:
                     real.append(ln)
             if real:
                 m = BANNED.search(real[0])

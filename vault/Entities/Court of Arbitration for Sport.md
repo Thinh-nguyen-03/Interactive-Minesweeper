@@ -15,15 +15,15 @@ Upheld IOC's withdrawal of IBA recognition (Apr 2024)
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
+- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Court of Arbitration for Sport]] *dismissed IBA appeal* [[International Boxing Association (IBA)]] · 2024-04-02 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
+- [[Court of Arbitration for Sport]] *dismissed IBA appeal* [[International Boxing Association (IBA)]] · 2024-04-02 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]

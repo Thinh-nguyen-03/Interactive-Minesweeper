@@ -15,15 +15,15 @@ Intended final home of the Qatari jet.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
+- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Qatar Boeing 747 gift]] *to end up in* [[Trump presidential library]] · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Qatar Boeing 747 gift]] *to end up in* [[Trump presidential library]] · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]]

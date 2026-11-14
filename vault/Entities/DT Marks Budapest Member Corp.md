@@ -15,15 +15,15 @@ Companion entity to DT Marks Budapest LLC.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
+- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[DT Marks Budapest Member Corp]] *member corp of* [[DT Marks Budapest LLC]] · 2025 · [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings|C89]]
+- [[DT Marks Budapest Member Corp]] *member corp of* [[DT Marks Budapest LLC]] · 2025 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]

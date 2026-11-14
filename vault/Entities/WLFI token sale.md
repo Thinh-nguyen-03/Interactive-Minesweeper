@@ -15,10 +15,10 @@ Slow in Oct 2024, then sold out ~$550M after Trump won.
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
 

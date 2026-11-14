@@ -15,15 +15,15 @@ Recorded the 2019 Bannon interview with the 'muzzle velocity' passage
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
+- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Steve Bannon]] *described 'flood the zone / muzzle velocity' in interview with* [[PBS Frontline]] · 2019 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Steve Bannon]] *described 'flood the zone / muzzle velocity' in interview with* [[PBS Frontline]] · 2019 · [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]

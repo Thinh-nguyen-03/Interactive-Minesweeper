@@ -15,15 +15,15 @@ Co-placement agent on TMTG bitcoin raise
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[BTIG]] *co-placement agent* [[Trump Media & Technology Group]] · 2025-05 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[BTIG]] *co-placement agent* [[Trump Media & Technology Group]] · 2025-05 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]

@@ -17,22 +17,22 @@ Podcast co-hosted by Sacks; its role in a White House AI event was questioned
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 | Also known as | All-In podcast |
 
-## How other claims describe it
+## How other checks describe it
 
 - Podcast where Zhao discussed the pardon (about Feb 2026).
 
-## Appears in claims
+## Appears in checks
 
-- [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
-- [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
+- [[C09 The dropped Binance case and the pardon of Changpeng Zhao]] · Mostly accurate
+- [[C34 David Sacks the AI and crypto adviser and his investments]] · Mostly accurate
 
 ## Relationships
 
 ### Media (2)
 
-- [[All-In Podcast]] *interviewed on pardon* [[Changpeng Zhao]] · 2026-02-10 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
-- [[David Sacks]] *co-hosts* [[All-In Podcast]] · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[All-In Podcast]] *interviewed on pardon* [[Changpeng Zhao]] · 2026-02-10 · [[C09 The dropped Binance case and the pardon of Changpeng Zhao|C09]]
+- [[David Sacks]] *co-hosts* [[All-In Podcast]] · [[C34 David Sacks the AI and crypto adviser and his investments|C34]]

@@ -15,10 +15,10 @@ Son of Howard Lutnick; chairman/CEO of Cantor Fitzgerald and Cantor Equity Partn
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 6 claims |
+| Appears in | 6 checks |
 | Connections | 13 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Cantor Fitzgerald chairman/CEO; Howard Lutnick's son
 - Cantor Fitzgerald chairman; Howard Lutnick's son
@@ -26,41 +26,41 @@ Son of Howard Lutnick; chairman/CEO of Cantor Fitzgerald and Cantor Equity Partn
 - Cantor Fitzgerald chairman
 - Cantor chairman/CEO
 
-## Appears in claims
+## Appears in checks
 
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
-- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
-- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
-- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
+- [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business]] · Mostly accurate
+- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate
+- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
+- [[C92 The White House ballroom donor list]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Brandon Lutnick]] *reported $2.5M (unverified)* [[White House ballroom]] · $2.5M · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Brandon Lutnick]] *reported $2.5M (unverified)* [[White House ballroom]] · $2.5M · [[C92 The White House ballroom donor list|C92]]
 
 ### Ownership (6)
 
-- [[Brandon Lutnick]] *chairman* [[Cantor Fitzgerald]] · 2025 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
-- [[Brandon Lutnick]] *chairman/CEO* [[Cantor Fitzgerald]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Brandon Lutnick]] *chairman* [[Cantor Fitzgerald]] · 2025 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Brandon Lutnick]] *chairman/CEO* [[Cantor Fitzgerald]] · 2025 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]
 - [[Brandon Lutnick]] *chairman and CEO* [[Cantor Fitzgerald]] · 2025-02 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Brandon Lutnick]] *chairman and CEO of* [[Cantor Fitzgerald]] · 2025-05 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Brandon Lutnick]] *chairman and CEO of* [[Cantor Fitzgerald]] · 2025-05 · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
 - [[Brandon Lutnick]] *chairman and CEO* [[Cantor Equity Partners]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Brandon Lutnick]] *chairman of* [[Cantor Fitzgerald]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Brandon Lutnick]] *chairman of* [[Cantor Fitzgerald]] · [[C60 Government equity stakes in critical-minerals companies|C60]]
 
 ### Family (3)
 
-- [[Brandon Lutnick]] *son* [[Howard Lutnick]] · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
-- [[Brandon Lutnick]] *son of* [[Howard Lutnick]] · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
-- [[Howard Lutnick]] *father of* [[Brandon Lutnick]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Brandon Lutnick]] *son* [[Howard Lutnick]] · [[C92 The White House ballroom donor list|C92]]
+- [[Brandon Lutnick]] *son of* [[Howard Lutnick]] · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
+- [[Howard Lutnick]] *father of* [[Brandon Lutnick]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]] [[C60 Government equity stakes in critical-minerals companies|C60]]
 
 ### Regulatory (2)
 
-- [[Jamie Raskin]] *demanded tariff records from* [[Brandon Lutnick]] · 2026-02-27 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
-- [[Richard Blumenthal]] *sent 13-point records request to* [[Brandon Lutnick]] · 2026-10-08 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
+- [[Jamie Raskin]] *demanded tariff records from* [[Brandon Lutnick]] · 2026-02-27 · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
+- [[Richard Blumenthal]] *sent 13-point records request to* [[Brandon Lutnick]] · 2026-10-08 · [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]]
 
 ### Political (1)
 
-- [[Zoe Lofgren]] *joint letter to Cantor on USAR placement* [[Brandon Lutnick]] · 2026-07-07 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Zoe Lofgren]] *joint letter to Cantor on USAR placement* [[Brandon Lutnick]] · 2026-07-07 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]

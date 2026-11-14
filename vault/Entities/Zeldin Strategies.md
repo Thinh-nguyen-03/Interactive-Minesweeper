@@ -15,19 +15,19 @@ Zeldin's consulting firm; divested under ethics agreement
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Heritage Advisors]] *paid consulting fees (>$5K) to* [[Zeldin Strategies]] · 2023-04 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+- [[Heritage Advisors]] *paid consulting fees (>$5K) to* [[Zeldin Strategies]] · 2023-04 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]
 
 ### Ownership (1)
 
-- [[Lee Zeldin]] *owned (divested on confirmation)* [[Zeldin Strategies]] · 2025 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+- [[Lee Zeldin]] *owned (divested on confirmation)* [[Zeldin Strategies]] · 2025 · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]

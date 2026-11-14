@@ -15,15 +15,15 @@ Granted the foundation's 501(c)(3) status in 10 days during the shutdown
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
+- [[C48 The Trump presidential library foundation's money and land]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Internal Revenue Service]] *granted tax exemption in 10 days during shutdown* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-10-20 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Internal Revenue Service]] *granted tax exemption in 10 days during shutdown* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-10-20 · [[C48 The Trump presidential library foundation's money and land|C48]]

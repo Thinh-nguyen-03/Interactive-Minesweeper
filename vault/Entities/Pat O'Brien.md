@@ -15,10 +15,10 @@ Trump Mobile CEO; co-owner of VMed Mobile; Ensurety Ventures
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 

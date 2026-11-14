@@ -15,15 +15,15 @@ Sensitive AI chips the US had refused to export to the UAE.
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
+- [[C08 AI chip exports to the UAE, Stargate and a possible currency swap]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[UAE AI chips deal]] *covers export of* [[Advanced AI chips]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[UAE AI chips deal]] *covers export of* [[Advanced AI chips]] · [[C08 AI chip exports to the UAE, Stargate and a possible currency swap|C08]]

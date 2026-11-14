@@ -15,15 +15,15 @@ Created by Aug 2025 executive order; security, transport, entry/exit
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
+- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Donald Trump]] *created by executive order* [[White House Task Force on the 2028 Olympics]] · 2025-08 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
+- [[Donald Trump]] *created by executive order* [[White House Task Force on the 2028 Olympics]] · 2025-08 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]

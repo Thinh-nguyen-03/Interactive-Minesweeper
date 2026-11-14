@@ -15,15 +15,15 @@ Garantex successor exchange, OFAC-designated on 2025-08-14
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[OFAC]] *designated Garantex successor* [[Grinex]] · 2025-08-14 · [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links|C90]]
+- [[OFAC]] *designated Garantex successor* [[Grinex]] · 2025-08-14 · [[C90 World Liberty's token-swap pitch and its partners|C90]]

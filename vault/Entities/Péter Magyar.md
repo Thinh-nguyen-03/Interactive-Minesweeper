@@ -15,15 +15,15 @@ Tisza leader; won the 12 Apr 2026 election.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings]] · Partly accurate
+- [[C89 Unannounced Trump Organization deals in Hungary and Serbia]] · Partly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Péter Magyar]] *defeated in election* [[Viktor Orbán]] · 2026-04-12 · [[C89 Unannounced Trump Organization deals Hungary, Serbia and others in the filings|C89]]
+- [[Péter Magyar]] *defeated in election* [[Viktor Orbán]] · 2026-04-12 · [[C89 Unannounced Trump Organization deals in Hungary and Serbia|C89]]

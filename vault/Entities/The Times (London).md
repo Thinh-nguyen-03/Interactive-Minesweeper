@@ -15,9 +15,9 @@ AB DAO/Prince report, 2026-04-06
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate

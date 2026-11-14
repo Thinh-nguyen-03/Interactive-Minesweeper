@@ -15,19 +15,19 @@ Mukesh Ambani's conglomerate; unit paid Trump $10M
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Reliance Industries]] *unit paid $10M development fee for Mumbai licence* [[Trump Organization]] · 2024 · $10M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Reliance Industries]] *unit paid $10M development fee for Mumbai licence* [[Trump Organization]] · 2024 · $10M · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
 
 ### Regulatory (1)
 
-- [[US Treasury]] *issued licence to buy Venezuelan oil (Reuters, anonymous sources; single-source)* [[Reliance Industries]] · 2026-02-13 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[US Treasury]] *issued licence to buy Venezuelan oil (Reuters, anonymous sources; single-source)* [[Reliance Industries]] · 2026-02-13 · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]

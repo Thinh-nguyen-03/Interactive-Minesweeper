@@ -10,20 +10,20 @@ tags:
 ---
 # The Bulwark
 
-Outlet whose reporter asked the question in the briefing clip.
+Outlet whose reporter asked the question at the White House briefing.
 
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C03 Dinner for top $TRUMP holders]] · Confirmed
+- [[C03 The private dinner for top $TRUMP holders]] · Confirmed
 
 ## Relationships
 
 ### Media (1)
 
-- [[Andrew Egger]] *correspondent for* [[The Bulwark]] · [[C03 Dinner for top $TRUMP holders|C03]]
+- [[Andrew Egger]] *correspondent for* [[The Bulwark]] · [[C03 The private dinner for top $TRUMP holders|C03]]

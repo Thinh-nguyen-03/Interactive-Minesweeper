@@ -15,9 +15,9 @@ Government charge-card program (~$700B per coverage).
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate

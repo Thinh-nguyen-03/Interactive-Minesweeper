@@ -15,39 +15,39 @@ Cove unit holding 70% of the Northern Katpar/Upper Kairakty tungsten deposits; p
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 10 |
 
-## How other claims describe it
+## How other checks describe it
 
 - U.S. vehicle for the Upper Kairakty tungsten project; holds EXIM/DFC letters of interest
 - US vehicle for the Upper Kairakty tungsten project
 
-## Appears in claims
+## Appears in checks
 
-- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
-- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
+- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
+- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
+- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
 
 ## Relationships
 
 ### Money (3)
 
-- [[Skyline Builders Group]] *agreed to pay $20M for 20%* [[Kaz Resources]] · 2025-10-31 · $20M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Export-Import Bank of the United States]] *letter of interest up to $900M* [[Kaz Resources]] · 2025-11 · $900M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[US International Development Finance Corporation]] *letters of interest ~$700M* [[Kaz Resources]] · 2025-11 · $700M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Skyline Builders Group]] *agreed to pay $20M for 20%* [[Kaz Resources]] · 2025-10-31 · $20M · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
+- [[Export-Import Bank of the United States]] *letter of interest up to $900M* [[Kaz Resources]] · 2025-11 · $900M · [[C60 Government equity stakes in critical-minerals companies|C60]]
+- [[US International Development Finance Corporation]] *letters of interest ~$700M* [[Kaz Resources]] · 2025-11 · $700M · [[C60 Government equity stakes in critical-minerals companies|C60]]
 
 ### Ownership (4)
 
-- [[Skyline Builders Group]] *bought 20% for $20M* [[Kaz Resources]] · 2025-10-31 · $20M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Skyline Builders Group]] *took 20% stake* [[Kaz Resources]] · 2025-10-31 · $20M · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
-- [[Cove Kaz Capital Cove Capital]] *parent of* [[Kaz Resources]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Tau-Ken Samruk]] *30% partner in tungsten project* [[Kaz Resources]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Skyline Builders Group]] *bought 20% for $20M* [[Kaz Resources]] · 2025-10-31 · $20M · [[C60 Government equity stakes in critical-minerals companies|C60]]
+- [[Skyline Builders Group]] *took 20% stake* [[Kaz Resources]] · 2025-10-31 · $20M · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[Cove Kaz Capital Cove Capital]] *parent of* [[Kaz Resources]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
+- [[Tau-Ken Samruk]] *30% partner in tungsten project* [[Kaz Resources]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]
 
 ### Political (1)
 
-- [[Donald Trump]] *announced Kazakhstan tungsten deal for* [[Kaz Resources]] · 2025-11-06 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Donald Trump]] *announced Kazakhstan tungsten deal for* [[Kaz Resources]] · 2025-11-06 · [[C60 Government equity stakes in critical-minerals companies|C60]]
 
 ### Commercial (1)
 
-- [[Cantor Fitzgerald]] *raised $210M for a project investment partner (NYT)* [[Kaz Resources]] · $210M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Cantor Fitzgerald]] *raised $210M for a project investment partner (NYT)* [[Kaz Resources]] · $210M · [[C60 Government equity stakes in critical-minerals companies|C60]]

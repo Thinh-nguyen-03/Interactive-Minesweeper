@@ -15,14 +15,14 @@ DeFi lending protocol powering World Liberty Markets.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - DeFi lending protocol behind World Liberty Markets
 
-## Appears in claims
+## Appears in checks
 
 - [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate

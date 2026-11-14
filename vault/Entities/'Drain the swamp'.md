@@ -15,19 +15,15 @@ Trump's anti-corruption campaign slogan.
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
+- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Donald Trump]] *campaigned on* [['Drain the swamp']] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-
-## Themes
-
-- [[Theme - Volume of stories too much to follow]]
+- [[Donald Trump]] *campaigned on* [['Drain the swamp']] · [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]

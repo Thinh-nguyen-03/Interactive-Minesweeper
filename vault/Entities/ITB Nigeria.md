@@ -15,19 +15,19 @@ Chagoury-owned contractor picked for roughly $700M Lagos ports renovation (Mar 2
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C66 The extended family's ventures and roles]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Gilbert Chagoury]] *owns* [[ITB Nigeria]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Gilbert Chagoury]] *owns* [[ITB Nigeria]] · [[C66 The extended family's ventures and roles|C66]]
 
 ### Commercial (1)
 
-- [[Bola Tinubu]] *government picked for $700M Lagos ports contract* [[ITB Nigeria]] · 2025-03 · $700M · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Bola Tinubu]] *government picked for $700M Lagos ports contract* [[ITB Nigeria]] · 2025-03 · $700M · [[C66 The extended family's ventures and roles|C66]]

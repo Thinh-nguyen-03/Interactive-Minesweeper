@@ -15,22 +15,22 @@ tags:
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Co-founder and partner of 1789 Capital.
 
-## Appears in claims
+## Appears in checks
 
-- [[C26 1789 Capital and Vulcan Elements]] · Mostly accurate
-- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
+- [[C26 1789 Capital and the Vulcan Elements magnet deal]] · Mostly accurate
+- [[C32 Donald Trump Jr.'s ties to other government contractors]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (3)
 
-- [[Chris Buskirk]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
-- [[Chris Buskirk]] *co-founder and partner of* [[1789 Capital]] · [[C26 1789 Capital and Vulcan Elements|C26]]
-- [[Chris Buskirk]] *co-founder/partner of* [[1789 Capital]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[Chris Buskirk]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]
+- [[Chris Buskirk]] *co-founder and partner of* [[1789 Capital]] · [[C26 1789 Capital and the Vulcan Elements magnet deal|C26]]
+- [[Chris Buskirk]] *co-founder/partner of* [[1789 Capital]] · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]

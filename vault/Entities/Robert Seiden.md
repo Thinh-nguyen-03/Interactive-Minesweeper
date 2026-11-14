@@ -15,22 +15,22 @@ Founder of Seiden Law; named by Global Witness as a Trump-circle figure represen
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Seiden Law founder; equal third co-owner of Javelin per FARA 7705
 
-## Appears in claims
+## Appears in checks
 
-- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
-- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
+- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (3)
 
-- [[Robert Seiden]] *one-third co-owner, managing director (FARA 7705)* [[Javelin Advisors]] · 2026-03-23 · [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals|C83]]
-- [[Robert Seiden]] *founder* [[Seiden Law LLP]] · [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals|C83]]
-- [[Robert Seiden]] *founder of* [[Seiden Law LLP]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Robert Seiden]] *one-third co-owner, managing director (FARA 7705)* [[Javelin Advisors]] · 2026-03-23 · [[C83 Keith Schiller and George Sorial's lobbying clients|C83]]
+- [[Robert Seiden]] *founder* [[Seiden Law LLP]] · [[C83 Keith Schiller and George Sorial's lobbying clients|C83]]
+- [[Robert Seiden]] *founder of* [[Seiden Law LLP]] · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]

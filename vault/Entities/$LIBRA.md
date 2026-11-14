@@ -15,20 +15,20 @@ Solana meme token promoted by Javier Milei in Feb 2025 that collapsed within hou
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
+- [[C40 Who ran the $TRUMP and $MELANIA launches]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Javier Milei]] *promoted* [[$LIBRA]] · 2025-02-14 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Javier Milei]] *promoted* [[$LIBRA]] · 2025-02-14 · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]
 
 ### Commercial (2)
 
-- [[Hayden Davis]] *launched and managed liquidity for* [[$LIBRA]] · 2025-02 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
-- [[Meteora]] *hosted launch* [[$LIBRA]] · 2025-02-14 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Hayden Davis]] *launched and managed liquidity for* [[$LIBRA]] · 2025-02 · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]
+- [[Meteora]] *hosted launch* [[$LIBRA]] · 2025-02-14 · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]

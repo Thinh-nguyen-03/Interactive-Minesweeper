@@ -15,15 +15,15 @@ Bilateral agreements Patel signed in Doha
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Kash Patel]] *signed in Doha* [[FBI-Qatar security agreements (Dec 2025)]] · 2025-12 · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Kash Patel]] *signed in Doha* [[FBI-Qatar security agreements (Dec 2025)]] · 2025-12 · [[C73 Qatar's ties to people in and around the administration|C73]]

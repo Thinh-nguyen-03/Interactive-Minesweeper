@@ -15,20 +15,20 @@ Home of UBA and Boulos's SCOA business.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 3 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Boulos family business base
 
-## Appears in claims
+## Appears in checks
 
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Massad Boulos]] *long-time business base (SCOA)* [[Nigeria]] · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Massad Boulos]] *long-time business base (SCOA)* [[Nigeria]] · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]

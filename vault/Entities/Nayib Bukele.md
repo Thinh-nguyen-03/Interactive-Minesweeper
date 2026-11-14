@@ -15,9 +15,9 @@ President of El Salvador
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate

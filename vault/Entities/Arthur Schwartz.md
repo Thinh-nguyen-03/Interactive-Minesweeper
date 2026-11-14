@@ -15,15 +15,15 @@ tags:
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
+- [[C64 Lobbyists and intermediaries with White House access]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Arthur Schwartz]] *spokesman* [[1789 Capital]] · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
+- [[Arthur Schwartz]] *spokesman* [[1789 Capital]] · [[C64 Lobbyists and intermediaries with White House access|C64]]

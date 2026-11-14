@@ -15,15 +15,15 @@ ALT5 consultant and major shareholder; denied 2025 reports of an SEC probe.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C13 ALT5 Sigma $1.5B WLFI treasury deal]] · Mostly accurate
+- [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Jon Isaac]] *consultant and major shareholder* [[ALT5 Sigma]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
+- [[Jon Isaac]] *consultant and major shareholder* [[ALT5 Sigma]] · [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty|C13]]

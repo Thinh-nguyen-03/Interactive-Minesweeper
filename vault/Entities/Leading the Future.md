@@ -15,16 +15,16 @@ Pro-AI super PAC (a16z, Brockman)
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
 
 ## Relationships
 
 ### Political (2)
 
-- [[Greg Brockman]] *donation (with wife Anna)* [[Leading the Future]] · 2025 · $25M · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
-- [[Andreessen Horowitz (a16z crypto)]] *founding backer* [[Leading the Future]] · 2025-08-25 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Greg Brockman]] *donation (with wife Anna)* [[Leading the Future]] · 2025 · $25M · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
+- [[Andreessen Horowitz (a16z crypto)]] *founding backer* [[Leading the Future]] · 2025-08-25 · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]

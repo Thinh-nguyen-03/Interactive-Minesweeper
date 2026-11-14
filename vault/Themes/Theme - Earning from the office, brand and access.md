@@ -6,17 +6,17 @@ tags:
 ---
 # Earning from the office, brand and access
 
-- Selling access and the presidential brand directly: holder dinners, merch, a paid feed of market-moving posts, stock-moving truths, gifts.
+- Revenue tied directly to access and the presidential brand: holder dinners, merchandise, a paid feed of market-moving posts, gifts.
 
-## Claims
+## Checks
 
-- [[C01 $TRUMP meme coin]] · Mostly accurate
-- [[C02 $MELANIA coin and NFTs]] · Mostly accurate
-- [[C03 Dinner for top $TRUMP holders]] · Confirmed
-- [[C17 Trump merchandise and the T1 phone]] · Mostly accurate
-- [[C20 Trump's stock purchases and Truth Social posts]] · Mostly accurate
-- [[C21 TMTG's market-moving 'truths' API and Truth+]] · Mostly accurate
-- [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
+- [[C01 The $TRUMP meme coin and who profited]] · Mostly accurate
+- [[C02 The $MELANIA coin and Melania Trump's NFT income]] · Mostly accurate
+- [[C03 The private dinner for top $TRUMP holders]] · Confirmed
+- [[C17 Trump-branded merchandise and the T1 phone]] · Mostly accurate
+- [[C20 Trump's securities purchases and his Truth Social posts]] · Mostly accurate
+- [[C21 Trump Media's paid feed of market-moving posts and Truth+]] · Mostly accurate
+- [[C23 SEC crypto cases dropped and the firms' donations]] · Mostly accurate
 
 ## People and organisations
 

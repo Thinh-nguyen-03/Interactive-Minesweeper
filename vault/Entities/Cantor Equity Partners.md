@@ -15,10 +15,10 @@ Cantor-sponsored SPAC that merged with Twenty One Capital
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 

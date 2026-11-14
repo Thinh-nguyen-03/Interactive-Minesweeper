@@ -15,18 +15,18 @@ Claude maker; $1 OneGov deal Aug 2025; Thrive stake unverified.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 
 ## Background
 
 - Maker of the model writing this report.
 
-## How other claims describe it
+## How other checks describe it
 
 - AI lab; MGX co-led its Feb 2026 Series G and joined its Series H.
 
-## Appears in claims
+## Appears in checks
 
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate

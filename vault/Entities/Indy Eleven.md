@@ -15,15 +15,15 @@ Indianapolis soccer club; PitchBook lists Heritage Advisors (UK) as investor
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories]] · Mostly accurate
+- [[C84 Heritage Advisors and Sheikh Sultan bin Jassim]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Heritage Advisors]] *minority investor in (PitchBook)* [[Indy Eleven]] · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim one Qatari fund across three stories|C84]]
+- [[Heritage Advisors]] *minority investor in (PitchBook)* [[Indy Eleven]] · [[C84 Heritage Advisors and Sheikh Sultan bin Jassim|C84]]

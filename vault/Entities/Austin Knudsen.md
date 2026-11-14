@@ -15,9 +15,9 @@ Montana AG who shared the Q&A stage with Don Jr. in New Orleans
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
+- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate

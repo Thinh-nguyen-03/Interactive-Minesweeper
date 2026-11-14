@@ -15,20 +15,20 @@ M23-held North Kivu coltan site; on DRC's Feb 2026 shortlist for the US.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Democratic Republic of the Congo]] *put on shortlist offered to US* [[Rubaya coltan mine]] · 2026-02-05 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Democratic Republic of the Congo]] *put on shortlist offered to US* [[Rubaya coltan mine]] · 2026-02-05 · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
 
 ### Commercial (2)
 
-- [[AFC M23]] *controls and taxes* [[Rubaya coltan mine]] · 2024/2026 · $800K · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
-- [[America First Global]] *sought majority stake in (with Mercuria); no deal reported through Nov 2026* [[Rubaya coltan mine]] · 2025-06 · $500M · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[AFC M23]] *controls and taxes* [[Rubaya coltan mine]] · 2024/2026 · $800K · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[America First Global]] *sought majority stake in (with Mercuria); no deal reported through Nov 2026* [[Rubaya coltan mine]] · 2025-06 · $500M · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]

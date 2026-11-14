@@ -15,15 +15,15 @@ On-chain researcher who rebutted the Lazarus link
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Nick Bax]] *rebutted Lazarus link as joke airdrop* [[Accountable.US]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Nick Bax]] *rebutted Lazarus link as joke airdrop* [[Accountable.US]] · 2025 · [[C71 Who bought World Liberty tokens|C71]]

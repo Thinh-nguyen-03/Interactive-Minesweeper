@@ -15,29 +15,29 @@ Stargate partner.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 4 claims |
+| Appears in | 4 checks |
 | Connections | 7 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Stargate lead equity funder
 - Minority owner of Twenty One Capital; Stargate funder
 - Stargate lead funder; OpenAI round co-lead.
 - Japanese investor
 
-## Appears in claims
+## Appears in checks
 
-- [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
+- [[C08 AI chip exports to the UAE, Stargate and a possible currency swap]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[SoftBank]] *lead equity funder of* [[Project Stargate]] · 2025-01-21 · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[SoftBank]] *leads first-wave projects in* [[US-Japan trade deal ($550B vehicle)]] · 2026-02-18 · $33.3B · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[SoftBank]] *lead equity funder of* [[Project Stargate]] · 2025-01-21 · [[C08 AI chip exports to the UAE, Stargate and a possible currency swap|C08]]
+- [[SoftBank]] *leads first-wave projects in* [[US-Japan trade deal ($550B vehicle)]] · 2026-02-18 · $33.3B · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
 
 ### Ownership (1)
 
@@ -45,4 +45,4 @@ Stargate partner.
 
 ### Commercial (1)
 
-- [[SoftBank]] *partner in* [[Project Stargate]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[SoftBank]] *partner in* [[Project Stargate]] · [[C08 AI chip exports to the UAE, Stargate and a possible currency swap|C08]]

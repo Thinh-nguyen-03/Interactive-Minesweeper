@@ -15,15 +15,15 @@ Defense-tech company; listed 1789 holding; builds YFQ-44 for Air Force.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
+- [[C32 Donald Trump Jr.'s ties to other government contractors]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[1789 Capital]] *reported investor in* [[Anduril Industries]] · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
+- [[1789 Capital]] *reported investor in* [[Anduril Industries]] · [[C32 Donald Trump Jr.'s ties to other government contractors|C32]]

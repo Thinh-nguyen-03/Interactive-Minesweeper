@@ -17,21 +17,21 @@ Called Zhou a 'blacklisted Chinese businessman'
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 3 |
 | Also known as | Caixin |
 
-## How other claims describe it
+## How other checks describe it
 
 - Called Zhou 'blacklisted'
 
-## Appears in claims
+## Appears in checks
 
-- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Caixin Global]] *called 'blacklisted'* [[Guren 'Bobby' Zhou]] · 2026-08-26 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Caixin Global]] *called 'blacklisted'* [[Guren 'Bobby' Zhou]] · 2026-08-26 · [[C71 Who bought World Liberty tokens|C71]]

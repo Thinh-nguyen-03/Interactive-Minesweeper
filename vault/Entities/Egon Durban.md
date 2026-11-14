@@ -15,21 +15,21 @@ Silver Lake co-CEO; boards of G42, TikTok USDS JV, Dell, Unity; reportedly start
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 8 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
+- [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (7)
 
-- [[Egon Durban]] *director of* [[Dell Technologies]] · 2013-10 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
-- [[Egon Durban]] *co-CEO of* [[Silver Lake]] · 2019 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
-- [[Egon Durban]] *board member of* [[G42]] · 2021 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
-- [[Egon Durban]] *described as ally of on Twitter board* [[Elon Musk]] · 2022-05 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
-- [[Egon Durban]] *reportedly began EA buyout talks with (Reuters, anonymous)* [[Jared Kushner]] · 2025-spring · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
-- [[Egon Durban]] *board member of* [[Unity Software]] · 2026 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
-- [[Egon Durban]] *board member of* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[Egon Durban]] *director of* [[Dell Technologies]] · 2013-10 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Egon Durban]] *co-CEO of* [[Silver Lake]] · 2019 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Egon Durban]] *board member of* [[G42]] · 2021 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Egon Durban]] *described as ally of on Twitter board* [[Elon Musk]] · 2022-05 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Egon Durban]] *reportedly began EA buyout talks with (Reuters, anonymous)* [[Jared Kushner]] · 2025-spring · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Egon Durban]] *board member of* [[Unity Software]] · 2026 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]
+- [[Egon Durban]] *board member of* [[TikTok USDS Joint Venture]] · 2026-01-22 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]

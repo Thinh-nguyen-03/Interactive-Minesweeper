@@ -17,24 +17,24 @@ NFTs sold by Melania; ~$6M reported with her coin.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 | Also known as | Melania Trump NFTs and digital collectibles |
 
-## How other claims describe it
+## How other checks describe it
 
 - NFT/collectible line generating $6,011,259 in 2025.
 
-## Appears in claims
+## Appears in checks
 
-- [[C02 $MELANIA coin and NFTs]] · Mostly accurate
+- [[C02 The $MELANIA coin and Melania Trump's NFT income]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (2)
 
-- [[Melania Trump]] *sells* [[Melania Trump NFTs]] · 2025 · [[C02 $MELANIA coin and NFTs|C02]]
-- [[Melania Trump]] *sold* [[Melania Trump NFTs]] · [[C02 $MELANIA coin and NFTs|C02]]
+- [[Melania Trump]] *sells* [[Melania Trump NFTs]] · 2025 · [[C02 The $MELANIA coin and Melania Trump's NFT income|C02]]
+- [[Melania Trump]] *sold* [[Melania Trump NFTs]] · [[C02 The $MELANIA coin and Melania Trump's NFT income|C02]]
 
 ## Themes
 

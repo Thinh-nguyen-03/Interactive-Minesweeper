@@ -15,16 +15,16 @@ SEC Enforcement Director Sept 2, 2025 - Mar 16, 2026; ex-CAAF judge
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Mostly accurate
+- [[C52 Trump-connected lobbyists hired by crypto firms and the SEC enforcement director's exi]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (2)
 
-- [[Margaret 'Meg' Ryan]] *reportedly clashed with (anonymous Reuters sources)* [[Paul Atkins]] · 2026-03 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
-- [[Margaret 'Meg' Ryan]] *Enforcement Director; resigned* [[Securities and Exchange Commission]] · 2026-03-16 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
+- [[Margaret 'Meg' Ryan]] *reportedly clashed with (anonymous Reuters sources)* [[Paul Atkins]] · 2026-03 · [[C52 Trump-connected lobbyists hired by crypto firms and the SEC enforcement director's exi|C52]]
+- [[Margaret 'Meg' Ryan]] *Enforcement Director; resigned* [[Securities and Exchange Commission]] · 2026-03-16 · [[C52 Trump-connected lobbyists hired by crypto firms and the SEC enforcement director's exi|C52]]

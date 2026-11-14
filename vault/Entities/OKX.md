@@ -15,15 +15,15 @@ Crypto exchange; account sent about $90M to aqua1.eth; pleaded guilty to US AML 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[OKX]] *account sent ~$90M to aqua1.eth* [[Aqua 1 Foundation]] · 2025-03/2025-06 · $90M · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[OKX]] *account sent ~$90M to aqua1.eth* [[Aqua 1 Foundation]] · 2025-03/2025-06 · $90M · [[C71 Who bought World Liberty tokens|C71]]

@@ -17,28 +17,28 @@ Trump-endorsed Bible.
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 | Also known as | God Bless the USA Bible |
 
-## How other claims describe it
+## How other checks describe it
 
 - $59.99 Trump-endorsed Bible (Mar 2024)
 
-## Appears in claims
+## Appears in checks
 
-- [[C17 Trump merchandise and the T1 phone]] · Mostly accurate
+- [[C17 Trump-branded merchandise and the T1 phone]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Trump Bible]] *paid royalties via Greenwood (2024) to* [[Donald Trump]] · 2024 · $1.31M · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[Trump Bible]] *paid royalties via Greenwood (2024) to* [[Donald Trump]] · 2024 · $1.31M · [[C17 Trump-branded merchandise and the T1 phone|C17]]
 
 ### Commercial (2)
 
-- [[CIC Ventures LLC]] *licensor of* [[Trump Bible]] · 2024-03 · [[C17 Trump merchandise and the T1 phone|C17]]
-- [[Donald Trump]] *sells* [[Trump Bible]] · [[C17 Trump merchandise and the T1 phone|C17]]
+- [[CIC Ventures LLC]] *licensor of* [[Trump Bible]] · 2024-03 · [[C17 Trump-branded merchandise and the T1 phone|C17]]
+- [[Donald Trump]] *sells* [[Trump Bible]] · [[C17 Trump-branded merchandise and the T1 phone|C17]]
 
 ## Themes
 

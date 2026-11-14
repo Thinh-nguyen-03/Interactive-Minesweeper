@@ -15,10 +15,10 @@ WLF's first app, a lending/borrowing platform on Dolomite, launched 12 Jan 2026.
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
 

@@ -15,16 +15,16 @@ tags:
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Political (2)
 
-- [[Massad Boulos]] *led US mediation toward* [[Washington Accords (DRC-Rwanda)]] · 2025-04/2025-12 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
-- [[Donald Trump]] *hosted signing of* [[Washington Accords (DRC-Rwanda)]] · 2025-12-04 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Massad Boulos]] *led US mediation toward* [[Washington Accords (DRC-Rwanda)]] · 2025-04/2025-12 · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[Donald Trump]] *hosted signing of* [[Washington Accords (DRC-Rwanda)]] · 2025-12-04 · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]

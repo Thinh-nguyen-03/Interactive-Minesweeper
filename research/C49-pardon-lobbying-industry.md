@@ -122,7 +122,7 @@ The claim describes a paid pardon-lobbying industry (Roger Stone, Ches McDowell/
 31. NBC News, Martin out of the Weaponization group, Feb 2026. https://www.nbcnews.com/politics/justice-department/ed-martin-dojs-weaponization-czar-sources-say-rcna257093
 32. Bloomberg Law, Martin stays as pardon attorney, Feb 2026. https://news.bloomberglaw.com/us-law-week/ed-martin-stays-as-doj-pardon-attorney-after-reports-of-demotion
 33. AP via Local10, Martin leaving the DOJ, Aug 21, 2026. https://www.local10.com/news/politics/2026/08/21/trump-loyalist-ed-martin-is-leaving-the-justice-department-to-focus-on-election-legal-battles/
-34. House Judiciary Democrats, $1.3B analysis, Jun 17, 2025 (not reachable here). https://democrats-judiciary.house.gov/media-center/press-releases/new-judiciary-democrats-analysis-reveals-trump-s-corrupt-pardon-spree-cheated-crime-victims-of-13-billion
+34. House Judiciary Democrats, $1.3B analysis, Jun 17, 2025 (original not read). https://democrats-judiciary.house.gov/media-center/press-releases/new-judiciary-democrats-analysis-reveals-trump-s-corrupt-pardon-spree-cheated-crime-victims-of-13-billion
 35. Axios, $1.3B report, Jun 17, 2025. https://www.axios.com/2025/06/17/trump-pardons-cost-democrats-report
 36. CBS News, $1.3B report. https://www.cbsnews.com/news/trumps-pardons-cost-victims-and-taxpayers-1-3-billion-house-judiciary-committee-democrats-review
 37. CNN via KVIA, $1.3B report. https://kvia.com/news/2025/06/17/trumps-pardons-could-have-erased-more-than-1-3-billion-in-fines-and-restitution-democrats-say/

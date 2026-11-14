@@ -15,15 +15,15 @@ Movement Labs co-founder, suspended and ousted over the market-maker deal
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Rushi Manche]] *co-founder, ousted* [[Movement Labs Movement Network Foundation]] · 2025-05 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
+- [[Rushi Manche]] *co-founder, ousted* [[Movement Labs Movement Network Foundation]] · 2025-05 · [[C71 Who bought World Liberty tokens|C71]]

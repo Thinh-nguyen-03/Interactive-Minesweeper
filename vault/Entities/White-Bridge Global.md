@@ -15,15 +15,15 @@ Beach-chaired firm named in his Jan 2025 Pakistan delegation.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Gentry Beach]] *chairs* [[White-Bridge Global]] · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Gentry Beach]] *chairs* [[White-Bridge Global]] · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]

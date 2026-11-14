@@ -15,15 +15,15 @@ Billionaire Trump said made $900 million on 9 April 2025
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
+- [[C58 Market-moving presidential posts and insider-trading allegations]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Donald Trump]] *boasted 'made $900 million'* [[Roger Penske]] · 2025-04-09 · $900M · [[C58 Market-moving posts and insider-trading allegations|C58]]
+- [[Donald Trump]] *boasted 'made $900 million'* [[Roger Penske]] · 2025-04-09 · $900M · [[C58 Market-moving presidential posts and insider-trading allegations|C58]]

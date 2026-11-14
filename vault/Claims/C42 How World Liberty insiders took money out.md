@@ -4,7 +4,8 @@ kind: "claim"
 title: "How World Liberty insiders took money out"
 verdict: "mostly-accurate"
 confidence: "medium"
-origin: "follow-up"
+type: "Check"
+topic: "Crypto ventures"
 parents:
   - "C04"
   - "C05"
@@ -15,17 +16,22 @@ aliases:
   - "C42"
 tags:
   - "claim"
-  - "origin/follow-up"
+  - "kind/check"
+  - "topic/crypto-ventures"
   - "verdict/mostly-accurate"
 ---
 # C42: How World Liberty insiders took money out
 
 **Verdict:** Mostly accurate · medium confidence  
-**Origin:** Follow-up lead
+**Type:** Check · Crypto ventures
+
+## The claim
+
+> How much have the Trump and Witkoff families received from World Liberty Financial through the 75% revenue entitlement, token sales and borrowing against tokens?
 
 ## Bottom line
 
-The documented record supports most of the brief. Trump-owned DT Marks DEFI is entitled to 75% of WLF's net revenue, including token-sale proceeds.
+The documented record supports most of the claim. Trump-owned DT Marks DEFI is entitled to 75% of WLF's net revenue, including token-sale proceeds.
 
 ## What holds up
 
@@ -39,8 +45,7 @@ The documented record supports most of the brief. Trump-owned DT Marks DEFI is e
 ## What needs correcting
 
 - WLFI price history and retail losses (partly accurate)
-- **Brief said:** 'WLF insiders' borrowed  
-  **Record shows:** The reporting shows WLF's own treasury or multisig wallets borrowed on Dolomite, and no personal borrowing by Trump or Witkoff family members is documented. Loan size: about $75M per CoinDesk; the $150M and $261M estimates are unverified.
+- The claim says 'WLF insiders' borrowed. The reporting shows WLF's own treasury or multisig wallets borrowed on Dolomite, and no personal borrowing by Trump or Witkoff family members is documented. Loan size: about $75M per CoinDesk; the $150M and $261M estimates are unverified.
 - '75% of net revenue' is the Gold Paper revenue entitlement. DT Marks DEFI's equity stake in WLF Holdco is now reported at about 38.25%.
 - Witkoff's about $107M came from a WLF-linked holding company, and the filing does not show how much came from WLF itself.
 - Entity id note: C04 uses dt-marks-defi-llc and C13 uses dt-marks-defi for the same company. This file uses dt-marks-defi-llc.
@@ -59,23 +64,19 @@ The documented record supports most of the brief. Trump-owned DT Marks DEFI is e
 - Sun's wallet and 271 others were frozen, WLF promoted the $SPSC memecoin, and WLFI fell about 80-85% from its $0.33 peak.
 - Three points need correction or remain open: the borrower was WLF's own treasury, not individual insiders; no source puts a dollar figure on retail losses; and StringZ Holding's reported Tahnoon backing rests on a single WSJ report citing anonymous sources, which the OCC record does not confirm.
 
-## Lead investigated
-
-> Leads from C04/C05/C13/C14/C29: DT Marks DEFI LLC's entitlement to 75% of WLF net token-sale/protocol revenue; Trump's disclosed WLF income; Steve Witkoff's ~$107M 2025 income from his WLF-linked holding company and the disputed divestment; WLF insiders reportedly borrowing stablecoins against ~5B WLFI tokens as the price hit lows; the freezing of Justin Sun's and other holders' tokens; the $SPSC memecoin promotion; WLFI token price history and retail losses; who owns StringZ Holding. Verify with figures and dates.
-
-## Follows up on
+## Builds on
 
 - [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
-- [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
-- [[C13 ALT5 Sigma $1.5B WLFI treasury deal]] · Mostly accurate
-- [[C14 Steve and Zach Witkoff]] · Mostly accurate
-- [[C29 Trump family wealth gains]] · Mostly accurate
+- [[C05 Justin Sun, World Liberty Financial and the SEC]] · Mostly accurate
+- [[C13 The $1.5 billion ALT5 Sigma deal with World Liberty]] · Mostly accurate
+- [[C14 Steve and Zach Witkoff a Middle East envoy and World Liberty]] · Mostly accurate
+- [[C29 Trump family wealth gains since the election]] · Mostly accurate
 
-## Follow-up checks
+## Checks that build on this one
 
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
-- [[C90 World Liberty's token-swap pitch and partners with sanctions or fraud links]] · Mostly accurate
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate
+- [[C90 World Liberty's token-swap pitch and its partners]] · Mostly accurate
 
 ## Sub-claims
 
@@ -200,7 +201,7 @@ The documented record supports most of the brief. Trump-owned DT Marks DEFI is e
 - The OCC says career staff reviewed the WLF trust charter, and says the major shareholders, including StringZ, signed passivity commitments.
 - 'Extraction' is a characterization.
   - The money flows are documented, but no regulator or court has found wrongdoing, and the SEC has opened no probe (see C13).
-- Fetch limits: Fortune, CoinDesk and the ABC affiliate pages could not be fetched here, and the WSJ is paywalled.
+- Source limits: Fortune, CoinDesk and the ABC affiliate pages could not be read directly, and the WSJ is paywalled.
   - Findings rely on search-result text cross-checked across outlets.
 
 ## People and organisations
@@ -259,7 +260,7 @@ The documented record supports most of the brief. Trump-owned DT Marks DEFI is e
 - [[Chase Herro]] *co-owns* [[Axiom Management Group]] · 2024-10 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump]] *owns (with family)* [[DT Marks DEFI LLC]] · 2024-10 · [[C04 World Liberty Financial founding and token sale|C04]] [[C42 How World Liberty insiders took money out|C42]]
 - [[Zak Folkman]] *co-owns* [[Axiom Management Group]] · 2024-10 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
-- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 A UAE-backed 49% stake in World Liberty Financial|C06]] [[C07 MGX's $2 billion Binance investment settled in USD1|C07]] [[C14 Steve and Zach Witkoff a Middle East envoy and World Liberty|C14]] [[C42 How World Liberty insiders took money out|C42]] [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]] [[C61 Lawyers and law firms that recur across the deals|C61]] [[C63 Shell entities and ownership chains|C63]] [[C67 Investors who appear in several Trump-family vehicles|C67]]
 - [[WLF Holdco LLC]] *owns* [[World Liberty Financial]] · 2025-01 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
 - [[Steve Witkoff]] *holds interest in (divestment claimed, unverified)* [[WC Digital Fi LLC]] · 2025-08 · [[C42 How World Liberty insiders took money out|C42]]
 - [[DT Marks DEFI LLC]] *holds 22.5B tokens (about $1.3B per 2025 filing)* [[WLFI token]] · 2025-12 · $1.3B · [[C42 How World Liberty insiders took money out|C42]]
@@ -281,7 +282,7 @@ The documented record supports most of the brief. Trump-owned DT Marks DEFI is e
 ### Advisory (2)
 
 - [[Corey Caplan]] *adviser / reported CTO* [[World Liberty Financial]] · [[C42 How World Liberty insiders took money out|C42]]
-- [[Zach Witkoff]] *CEO* [[World Liberty Financial]] · [[C42 How World Liberty insiders took money out|C42]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Zach Witkoff]] *CEO* [[World Liberty Financial]] · [[C42 How World Liberty insiders took money out|C42]] [[C67 Investors who appear in several Trump-family vehicles|C67]]
 
 ### Political (3)
 
@@ -302,7 +303,7 @@ The documented record supports most of the brief. Trump-owned DT Marks DEFI is e
 
 ### Commercial (2)
 
-- [[World Liberty Financial]] *issues* [[WLFI token]] · 2024 · [[C29 Trump family wealth gains|C29]] [[C42 How World Liberty insiders took money out|C42]]
+- [[World Liberty Financial]] *issues* [[WLFI token]] · 2024 · [[C29 Trump family wealth gains since the election|C29]] [[C42 How World Liberty insiders took money out|C42]]
 - [[World Liberty Financial]] *promoted / said it would invest in* [[Shit Piss Skin Can ($SPSC)]] · 2025-11-24 · [[C04 World Liberty Financial founding and token sale|C04]] [[C42 How World Liberty insiders took money out|C42]]
 
 ## Leads not covered here
@@ -374,16 +375,16 @@ The documented record supports most of the brief. Trump-owned DT Marks DEFI is e
 
 **Verdict: mostly accurate** (confidence: medium)
 
-The brief bundles eight follow-up threads from C04, C05, C13, C14 and C29. Most hold up on the documented record: the 75% revenue entitlement, Trump's disclosed WLF income, Witkoff's roughly $107M of 2025 income, the Dolomite borrowing against about 5B WLFI, the token freezes, the $SPSC promotion and the WLFI price collapse. Three parts need correction or stay open:
+The claim bundles eight threads that build on C04, C05, C13, C14 and C29. Most hold up on the documented record: the 75% revenue entitlement, Trump's disclosed WLF income, Witkoff's roughly $107M of 2025 income, the Dolomite borrowing against about 5B WLFI, the token freezes, the $SPSC promotion and the WLFI price collapse. Three parts need correction or stay open:
 
 - **The borrowing.** It was done by World Liberty's own treasury or multisig wallets, not by individual insiders borrowing personally. "Insider loans" is a headline phrase, and the loan size is disputed.
 - **Retail losses.** No source quantifies WLFI retail losses in dollars.
 - **StringZ Holding.** Its ownership rests on one Wall Street Journal report citing anonymous sources. The OCC record names StringZ but not who owns it.
 
-**Fetch limits.** Fortune, CoinDesk and the ABC affiliate pages could not be fetched from this environment (the hosts would not resolve). The WSJ is paywalled. Findings rest on search-result text from several outlets, cross-checked against each other where possible.
+**Source limits.** Fortune, CoinDesk and the ABC affiliate pages could not be read directly. The WSJ is paywalled. Findings rest on search-result text from several outlets, cross-checked against each other where possible.
 
-### What the brief asks
-The brief asks how money flowed out of World Liberty Financial (WLF) to the Trump and Witkoff families and to insiders, and what happened to the token and its outside holders. This is a follow-up lead; the video does not cover it directly.
+### What was checked
+This check asks how money flowed out of World Liberty Financial (WLF) to the Trump and Witkoff families and to insiders, and what happened to the token and its outside holders. 
 
 ### Sub-claims
 
@@ -467,11 +468,11 @@ The brief asks how money flowed out of World Liberty Financial (WLF) to the Trum
 11. Ground News briefing, "Witkoff Reports $107 Million Income From Crypto Holding", 2026-09. https://ground.news/daily-briefing/ba32a445-8595-4aa0-867f-7d43da64fc50
 12. Bloomberg, "Steve Witkoff Is Still Holding Trump-Linked Crypto Assets", 2025-09-17. https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets
 13. Office of Sen. Schiff, Senate Democrats letter to Witkoff, 2025-10-22. https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/
-14. CoinDesk, "Trump's World Liberty Financial uses 5 billion WLFI to borrow $75 million…", 2026-04-09 (not fetchable here; search text only). https://www.coindesk.com/markets/2026/04/09/trump-s-world-liberty-financial-borrows-usd75-million-against-its-own-token-trapping-depositors-on-dolomite
+14. CoinDesk, "Trump's World Liberty Financial uses 5 billion WLFI to borrow $75 million…", 2026-04-09 (original not read; search text only). https://www.coindesk.com/markets/2026/04/09/trump-s-world-liberty-financial-borrows-usd75-million-against-its-own-token-trapping-depositors-on-dolomite
 15. Unchained, WLF borrows $75M against its own token on a protocol its adviser co-founded, 2026-04. https://unchainedcrypto.com/world-liberty-financial-borrows-75-million-against-its-own-token-on-a-protocol-its-advisor-co-founded-unchained/
 16. The Block, "World Liberty defends borrowing position on Dolomite, dismisses liquidation concerns as 'FUD'", 2026-04-10. https://www.theblock.co/news/defi/2026-04-10-world-liberty-rebuts-dolomite-criticism-396967
 17. Decrypt, "Trump-Linked WLFI Erases $427 Million From Market Cap…", 2026-04. https://decrypt.co/363928/trump-linked-wlfi-erases-427-million-token-unlock-proposal-defi-loan
-18. Fortune, "Trump-backed World Liberty Financial tokens hit all-time low on reports of insider loans", 2026-04-10 (not fetchable here). https://fortune.com/2026/04/10/trump-world-liberty-financial-crypto-tokens-insider-loans/
+18. Fortune, "Trump-backed World Liberty Financial tokens hit all-time low on reports of insider loans", 2026-04-10 (original not read). https://fortune.com/2026/04/10/trump-world-liberty-financial-crypto-tokens-insider-loans/
 19. BeInCrypto, WLF repays $25M loan, 2026-04. https://beincrypto.com/world-liberty-financial-repays-25-million-loan
 20. CryptoSlate, WLF wins OCC approval as $112M DeFi position sits near liquidation, 2026-08. https://cryptoslate.com/trump-linked-world-liberty-financial-wins-occ-bank-approval-as-112-million-defi-position-sits-near-liquidation/
 21. The Block, World Liberty blacklists Justin Sun wallet after $9M WLFI move, 2025-09-04. https://www.theblock.co/post/369534/world-liberty-blacklists-justin-sun-wallet-after-tron-founder-moves-9-million-in-wlfi-tokens

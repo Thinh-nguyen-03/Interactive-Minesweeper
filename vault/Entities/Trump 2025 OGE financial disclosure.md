@@ -15,25 +15,25 @@ Annual filing released June 30, 2026, reporting ~$635M meme-coin royalties
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Released 2026-06-30; basis of the $2.2B / $1.4B tallies
 
-## Appears in claims
+## Appears in checks
 
-- [[C01 $TRUMP meme coin]] · Mostly accurate
-- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
+- [[C01 The $TRUMP meme coin and who profited]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing estimates]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (2)
 
-- [[Office of Government Ethics]] *released* [[Trump 2025 OGE financial disclosure]] · 2026-06-30 · [[C01 $TRUMP meme coin|C01]]
-- [[Trump 2025 OGE financial disclosure]] *discloses income of* [[Donald Trump]] · 2026-06-30 · [[C01 $TRUMP meme coin|C01]]
+- [[Office of Government Ethics]] *released* [[Trump 2025 OGE financial disclosure]] · 2026-06-30 · [[C01 The $TRUMP meme coin and who profited|C01]]
+- [[Trump 2025 OGE financial disclosure]] *discloses income of* [[Donald Trump]] · 2026-06-30 · [[C01 The $TRUMP meme coin and who profited|C01]]
 
 ### Media (1)
 
-- [[The New York Times]] *tallied at least $2.2B income, more than $1.4B from crypto* [[Trump 2025 OGE financial disclosure]] · 2026-07-01 · $2.2B · [[C55 How much has the Trump family made Competing totals|C55]]
+- [[The New York Times]] *tallied at least $2.2B income, more than $1.4B from crypto* [[Trump 2025 OGE financial disclosure]] · 2026-07-01 · $2.2B · [[C55 How much has the Trump family made Competing estimates|C55]]

@@ -1,22 +1,27 @@
 ---
 id: "C04"
 kind: "claim"
-title: "World Liberty Financial founding and token sale"
+title: "World Liberty Financial: founding and token sale"
 verdict: "mostly-accurate"
 confidence: "high"
-origin: "video"
-transcript_lines: "245-279"
+type: "Check"
+topic: "Crypto ventures"
 aliases:
   - "C04"
 tags:
   - "claim"
-  - "origin/video"
+  - "kind/check"
+  - "topic/crypto-ventures"
   - "verdict/mostly-accurate"
 ---
-# C04: World Liberty Financial founding and token sale
+# C04: World Liberty Financial: founding and token sale
 
 **Verdict:** Mostly accurate · high confidence  
-**Origin:** Claim from the video · transcript lines 245-279
+**Type:** Check · Crypto ventures
+
+## The claim
+
+> Was World Liberty Financial set up by the Trump family shortly before the 2024 election, what has it actually launched, and did its token sale go from slow to about $550 million sold after the election?
 
 ## Bottom line
 
@@ -32,29 +37,24 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
 ## What needs correcting
 
 - As Trump won, WLF sales exploded and sold out $550 million (misleading)
-- **Video said:** Sales 'exploded' as Trump won  
-  **Record shows:** The record shows almost no sales right after the election, and the rebound followed Justin Sun's $30M buy on 25 Nov 2024.
-- **Video said:** WLF 'sold out $550 million worth' around the election  
-  **Record shows:** The first $300M tranche sold out around 20 Jan 2025 and the $550M total was reached in March 2025 after a second, higher-priced tranche.
-- **Video said:** No application has launched  
-  **Record shows:** World Liberty Markets (lending) launched on 12 Jan 2026.
-- **Video said:** WLF was 'created by the Trump family'  
-  **Record shows:** The named founders are Chase Herro and Zak Folkman, with the Trump family as promoters and revenue recipients via DT Marks DEFI LLC.
-- 'Chase Hero' in the transcript is Chase Herro.
+- **Claimed:** Sales 'exploded' as Trump won  
+  **The record shows:** Almost no sales right after the election, and the rebound followed Justin Sun's $30M buy on 25 Nov 2024.
+- **Claimed:** WLF 'sold out $550 million worth' around the election  
+  **The record shows:** The first $300M tranche sold out around 20 Jan 2025 and the $550M total was reached in March 2025 after a second, higher-priced tranche.
+- **Claimed:** No application has launched  
+  **The record shows:** World Liberty Markets (lending) launched on 12 Jan 2026.
+- **Claimed:** WLF was 'created by the Trump family'  
+  **The record shows:** The named founders are Chase Herro and Zak Folkman, with the Trump family as promoters and revenue recipients via DT Marks DEFI LLC.
 
 ## In more detail
 
 - It had issued only the WLFI governance token and the USD1 stablecoin until its first app, World Liberty Markets, went live on 12 Jan 2026.
-- Chase Herro's 2018 'sh*t in a can' rant is real, and October 2024 sales were poor enough that the target was cut 90% to $30M. The video compresses the timeline: sales barely moved after the election, recovered only after Justin Sun's $30M buy on 25 Nov 2024, sold out the first tranche around 20 Jan 2025, and reached $550M in March 2025.
+- Chase Herro's 2018 'sh*t in a can' rant is real, and October 2024 sales were poor enough that the target was cut 90% to $30M. The claim compresses the timeline: sales barely moved after the election, recovered only after Justin Sun's $30M buy on 25 Nov 2024, sold out the first tranche around 20 Jan 2025, and reached $550M in March 2025.
 
-## What the video said
-
-> World Liberty Financial (WLF) was created by the Trump family shortly before the 2024 election; it launched a WLFI governance token and the USD1 stablecoin but no DeFi application; co-founder Chase Herro said you can sell 'sh*t in a can' if the story is right; token sales were poor in Oct 2024 then sold out ~$550M after Trump won.
-
-## Follow-up checks
+## Checks that build on this one
 
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
-- [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C71 Who bought World Liberty tokens]] · Mostly accurate
 
 ## Sub-claims
 
@@ -73,10 +73,10 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
 
 **Confirmed**
 
-- True when the video was made.
+- True until January 2026.
 - The WLFI sale opened on 15 Oct 2024, USD1 was confirmed in March 2025 with BitGo as custodian, and WLFI began trading on 1 Sept 2025.
 - The claim is now outdated: the lending app World Liberty Markets, built on Dolomite, launched on 12 Jan 2026.
-- Dates: 15 Oct 2024; March 2025; 1 Sept 2025; 12 Jan 2026
+- Dates: January 2026; 15 Oct 2024; March 2025; 1 Sept 2025; 12 Jan 2026
 - Sources: [16](https://fxstreet.com/cryptocurrencies/news/world-liberty-financial-confirms-launch-of-usd1-stablecoin-202503251520) [21](https://www.businesswire.com/news/home/20260112514280/en/World-Liberty-Financial-Launches-First-WebApp-World-Liberty-Markets-Expanding-USD1-Utility-Through-Dolomite) [22](https://www.theblock.co/news/defi/2026-01-12-trump-backed-world-liberty-expands-crypto-lending-usd1-stablecoin-ranks-385131)
 
 ### 3. Co-founder Chase Herro said you can sell 'sh*t in a can ... covered in human skin for a billion dollars if the story's right'.
@@ -95,7 +95,7 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
 **Confirmed**
 
 - The target was $300M (20B tokens at $0.015, a $1.5B valuation).
-- About 4% of that sold on day one, and an SEC filing on 30 Oct 2024 cut the goal to $30M. The video's explanation, that 'some thought Trump might lose', is speculation.
+- About 4% of that sold on day one, and an SEC filing on 30 Oct 2024 cut the goal to $30M. The explanation that 'some thought Trump might lose' is speculation.
 - Reported causes were the accredited-investor-only structure, technical problems and weak demand.
 - Amounts: $300M; $0.015; $1.5B; About 4%; $30M
 - Dates: 30 Oct 2024
@@ -131,7 +131,6 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
 - [[Barron Trump]] · Person
 - [[BitGo]] · Company
 - [[Chase Herro]] · Person
-- [[Coffeezilla]] · Person
 - [[Dolomite]] · Company
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
@@ -166,17 +165,17 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
 - [[Zak Folkman]] *co-founded* [[World Liberty Financial]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Donald Trump]] *owns (with family)* [[DT Marks DEFI LLC]] · 2024-10 · [[C04 World Liberty Financial founding and token sale|C04]] [[C42 How World Liberty insiders took money out|C42]]
 - [[Chase Herro]] *co-founded, helps run* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[Donald Trump]] *co-created, holds stake in* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[Donald Trump]] *co-created, holds stake in* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C06 A UAE-backed 49% stake in World Liberty Financial|C06]]
 - [[Donald Trump Jr]] *family co-founder of* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Eric Trump]] *family co-founder of* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[Justin Sun]] *founded* [[Tron]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C05 Justin Sun, WLF and the SEC|C05]]
-- [[Zach Witkoff]] *co-founded* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C14 Steve and Zach Witkoff|C14]]
+- [[Justin Sun]] *founded* [[Tron]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C05 Justin Sun, World Liberty Financial and the SEC|C05]]
+- [[Zach Witkoff]] *co-founded* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C14 Steve and Zach Witkoff a Middle East envoy and World Liberty|C14]]
 
 ### Family (3)
 
-- [[Donald Trump]] *father of* [[Barron Trump]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C29 Trump family wealth gains|C29]]
-- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]] [[C76 Russia-linked money around the family and envoys|C76]]
-- [[Donald Trump]] *father of* [[Eric Trump]] · [[C01 $TRUMP meme coin|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C16 Qatar jet, arms sales and golf deal|C16]] [[C27 New America Acquisition I Corp SPAC|C27]] [[C29 Trump family wealth gains|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump]] *father of* [[Barron Trump]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C29 Trump family wealth gains since the election|C29]]
+- [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C25 Prediction markets, the CFTC and Donald Trump Jr|C25]] [[C27 The New America Acquisition I SPAC|C27]] [[C29 Trump family wealth gains since the election|C29]] [[C32 Donald Trump Jr.'s ties to other government contractors|C32]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]] [[C76 Russia-linked money around the family and the envoys|C76]]
+- [[Donald Trump]] *father of* [[Eric Trump]] · [[C01 The $TRUMP meme coin and who profited|C01]] [[C04 World Liberty Financial founding and token sale|C04]] [[C06 A UAE-backed 49% stake in World Liberty Financial|C06]] [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]] [[C27 The New America Acquisition I SPAC|C27]] [[C29 Trump family wealth gains since the election|C29]] [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 
 ### Regulatory (1)
 
@@ -188,7 +187,7 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
 - [[Donald Trump Jr]] *backs and promotes* [[World Liberty Financial]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Eric Trump]] *backs and promotes* [[World Liberty Financial]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[Donald Trump]] *promotes as chief crypto advocate; launched via X Spaces* [[World Liberty Financial]] · 2024-09-16 · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[Justin Sun]] *named adviser to* [[World Liberty Financial]] · 2024-11-26 · [[C04 World Liberty Financial founding and token sale|C04]] [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Justin Sun]] *named adviser to* [[World Liberty Financial]] · 2024-11-26 · [[C04 World Liberty Financial founding and token sale|C04]] [[C05 Justin Sun, World Liberty Financial and the SEC|C05]]
 - [[Donald Trump]] *chief crypto advocate of* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
 
 ### Political (2)
@@ -196,22 +195,21 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
 - [[World Liberty Financial]] *created shortly before* [[2024 Presidential Election]] · 2024 · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[2024 Presidential Election]] *Trump win boosted* [[WLFI token sale]] · 2024-11 · [[C04 World Liberty Financial founding and token sale|C04]]
 
-### Media (4)
+### Media (3)
 
 - [[Chase Herro]] *inspired (2018 rant)* [[Shit Piss Skin Can ($SPSC)]] · 2018 · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[MSNBC]] *aired 2018 video of* [[Chase Herro]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[Coffeezilla]] *investigated* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[Molly White]] *explains* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[Molly White]] *tracks and writes about* [[World Liberty Financial]] · [[C04 World Liberty Financial founding and token sale|C04]]
 
 ### Commercial (9)
 
-- [[BitGo]] *custodies reserves of* [[USD1]] · 2025-03 · [[C04 World Liberty Financial founding and token sale|C04]] [[C10 Binance driving USD1 adoption|C10]]
-- [[World Liberty Financial]] *issues* [[USD1]] · 2025-03 · [[C04 World Liberty Financial founding and token sale|C04]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C10 Binance driving USD1 adoption|C10]] [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[BitGo]] *custodies reserves of* [[USD1]] · 2025-03 · [[C04 World Liberty Financial founding and token sale|C04]] [[C10 Binance's role in the growth of USD1|C10]]
+- [[World Liberty Financial]] *issues* [[USD1]] · 2025-03 · [[C04 World Liberty Financial founding and token sale|C04]] [[C08 AI chip exports to the UAE, Stargate and a possible currency swap|C08]] [[C09 The dropped Binance case and the pardon of Changpeng Zhao|C09]] [[C10 Binance's role in the growth of USD1|C10]] [[C11 The GENIUS and CLARITY Acts and the family's stablecoin|C11]]
 - [[World Liberty Financial]] *issued and sold $550M of (public sales Oct 2024 to Mar 2025)* [[WLFI token]] · 2025-03 · $550M · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[World Liberty Financial]] *promoted / said it would invest in* [[Shit Piss Skin Can ($SPSC)]] · 2025-11-24 · [[C04 World Liberty Financial founding and token sale|C04]] [[C42 How World Liberty insiders took money out|C42]]
 - [[Dolomite]] *provides infrastructure for* [[World Liberty Markets]] · 2026-01-12 · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[World Liberty Financial]] *launched* [[World Liberty Markets]] · 2026-01-12 · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[World Liberty Financial]] *issued* [[USD1]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C07 MGX's $2B Binance investment settled in USD1|C07]]
+- [[World Liberty Financial]] *issued* [[USD1]] · [[C04 World Liberty Financial founding and token sale|C04]] [[C07 MGX's $2 billion Binance investment settled in USD1|C07]]
 - [[World Liberty Financial]] *promised but not launched* [[WLF DeFi application]] · [[C04 World Liberty Financial founding and token sale|C04]]
 - [[World Liberty Financial]] *issued* [[WLFI token]] · [[C04 World Liberty Financial founding and token sale|C04]]
 
@@ -243,28 +241,28 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
 
 ## Full report
 
-**Verdict: mostly accurate (confidence: high).** The founding timeline, the token and stablecoin, the missing app, and the Chase Herro quote all check out. The sales story does not. The video says sales "exploded" around the election and "sold out $550 million." In fact, sales stayed nearly flat right after Trump won. They picked up only after Justin Sun's $30M purchase in late November 2024. The first $300M tranche sold out on 20 January 2025, and the $550M total was reached only in mid-March 2025, more than four months after the election.
+**Verdict: mostly accurate (confidence: high).** The founding timeline, the token and stablecoin, the missing app, and the Chase Herro quote all check out. The sales story does not. The claim is that sales "exploded" around the election and "sold out $550 million." In fact, sales stayed nearly flat right after Trump won. They picked up only after Justin Sun's $30M purchase in late November 2024. The first $300M tranche sold out on 20 January 2025, and the $550M total was reached only in mid-March 2025, more than four months after the election.
 
-### What the video says (transcript lines 245-279)
+### The claim
 - WLF is a crypto project "created by the Trump family shortly before the election in 2024."
 - It plans a DeFi application for trading, borrowing and lending. So far it has launched only the WLFI governance token and the USD1 stablecoin, and no app.
-- The family had no DeFi experience. Co-founder "Chase Hero" (Chase Herro) said you could sell "[shit] in a can ... covered in human skin for a billion dollars if the story's right."
+- The family had no DeFi experience. Co-founder Chase Herro said you could sell "[shit] in a can ... covered in human skin for a billion dollars if the story's right."
 - In October 2024, "when some people thought Trump might lose," sales were bad. "As the election approached and Trump won, sales of World Liberty Financial exploded and sold out $550 million worth."
 
 ### Findings by sub-claim
 
 1. **Founded by the Trump family shortly before the 2024 election: mostly confirmed, with nuance.** Trump announced WLF on X and launched it in a two-hour X Spaces event on 16 September 2024, about seven weeks before the election [1][2]. The operating founders were Chase Herro and Zachary Folkman, with Trump, Eric Trump and Donald Trump Jr. backing them [3][4]. Calling it "created by the Trump family" is a simplification. Still, a Trump-owned entity, DT Marks DEFI LLC, holds a contractual right to 75% of net protocol revenue, which includes token sales [5].
-2. **Planned DeFi app (trading, borrowing, lending); only WLFI and USD1 launched: confirmed for the time of the video, now outdated.**
+2. **Planned DeFi app (trading, borrowing, lending); only WLFI and USD1 launched: confirmed until January 2026, now outdated.**
    - The WLFI governance token went on sale on 15 October 2024 and was non-transferable at first [6][7].
    - USD1 was confirmed in March 2025, with reserves custodied by BitGo [8].
    - WLFI started trading on exchanges on 1 September 2025 [9].
    - WLF launched its first app, the lending and borrowing platform "World Liberty Markets" built on Dolomite, on 12 January 2026 [10][11]. "No application" was therefore true until January 2026 but is no longer true as of November 2026.
-3. **Chase Herro's "shit in a can" remark: confirmed.** The quote comes from a 2018 YouTube video of Herro, who has called himself the "dirtbag of the internet." The video has since been made private, but MSNBC aired it in 2024 [3][12][13]. Herro's full line includes "wrapped in piss"; the transcript drops the profanity. In November 2025, WLF itself promoted a memecoin named after the rant, "Shit Piss Skin Can" ($SPSC) [14].
+3. **Chase Herro's "shit in a can" remark: confirmed.** The quote comes from a 2018 YouTube video of Herro, who has called himself the "dirtbag of the internet." The video has since been made private, but MSNBC aired it in 2024 [3][12][13]. Herro's full line includes "wrapped in piss"; the quote as given in the claim leaves that out. In November 2025, WLF itself promoted a memecoin named after the rant, "Shit Piss Skin Can" ($SPSC) [14].
 4. **Sales were poor in October 2024: confirmed.**
    - The sale aimed to raise $300M by selling 20% of supply at $0.015 per token, a $1.5B valuation [6].
    - On day one it sold about 4% of that target [15].
    - An SEC filing dated 30 October 2024 cut the target by 90%, to $30M [5][16].
-   - The video's explanation, that "some people thought Trump might lose," is the narrator's speculation. Reporting at the time pointed to weak demand, website and technical problems, and the restriction to accredited investors, which kept out US retail buyers [5][16].
+   - The explanation that "some people thought Trump might lose" is speculation. Reporting at the time pointed to weak demand, website and technical problems, and the restriction to accredited investors, which kept out US retail buyers [5][16].
 5. **Sales "exploded" when Trump won and "sold out $550 million": misleading on timing.**
    - In the 24 hours after the election, fewer than 100,000 WLFI tokens (under $1,500) sold, with $14.8M cumulative, while the wider crypto market rallied about 11% [17].
    - The real turning point was Justin Sun's $30M purchase on 25 November 2024. It took total sales to about $52M and pushed WLF past the $30M threshold that triggers payouts to the Trump entity [18][19].
@@ -273,11 +271,11 @@ WLF launched on 16 Sept 2024, seven weeks before the election, with Trump family
    - So the $550M was reached over roughly five months, mostly after the inauguration, and not immediately on the election result.
 
 ### Corrections
-- The transcript says sales "exploded" as Trump won the election. The record shows almost no sales right after the election (under $1,500 in the first 24 hours and about $15M in total). The jump came after Sun's $30M buy on 25 November 2024.
-- The transcript says WLF "sold out $550 million worth." The first $300M tranche sold out around 20 January 2025, and $250M more came from a second tranche at about 3.3 times the price, which closed in March 2025.
-- The transcript says no application has launched. World Liberty Markets, a lending app, launched on 12 January 2026.
-- The transcript says WLF was created by the Trump family. The named founders are Chase Herro and Zak Folkman, and the Trump family members are promoters who also receive revenue through DT Marks DEFI LLC.
-- The transcript's "Chase Hero" is Chase Herro.
+- Claimed: sales "exploded" as Trump won the election. The record shows: almost no sales right after the election (under $1,500 in the first 24 hours and about $15M in total). The jump came after Sun's $30M buy on 25 November 2024.
+- Claimed: WLF "sold out $550 million worth." The record shows: the first $300M tranche sold out around 20 January 2025, and $250M more came from a second tranche at about 3.3 times the price, which closed in March 2025.
+- Claimed: no application has launched. The record shows: World Liberty Markets, a lending app, launched on 12 January 2026.
+- Claimed: WLF was created by the Trump family. The record shows: the named founders are Chase Herro and Zak Folkman, and the Trump family members are promoters who also receive revenue through DT Marks DEFI LLC.
+- The co-founder's name is Chase Herro, sometimes misspelled "Chase Hero".
 
 ### Denials and context
 - WLF has described its token sale as successful and its $550M total as a milestone [22]. Folkman credited Sun's investment with reviving the project [19].

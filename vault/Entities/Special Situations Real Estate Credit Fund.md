@@ -15,10 +15,10 @@ Proposed $4B Witkoff Group credit fund pitched to Gulf sovereign funds; shelved
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
 

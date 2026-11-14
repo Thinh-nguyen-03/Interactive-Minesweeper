@@ -15,15 +15,15 @@ House Democrat who questioned Atkins on White House requests
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C43 Overlap between dropped enforcement cases and Trump donors]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Sylvia Garcia]] *questioned at hearing* [[Paul Atkins]] · 2026-02-11 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
+- [[Sylvia Garcia]] *questioned at hearing* [[Paul Atkins]] · 2026-02-11 · [[C43 Overlap between dropped enforcement cases and Trump donors|C43]]

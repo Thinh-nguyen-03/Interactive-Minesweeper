@@ -15,22 +15,22 @@ Not-yet-commercial sector heavily dependent on regulatory approval.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C24 TMTG ETFs, TAE fusion merger, TMTG losses]] · Mostly accurate
+- [[C24 Trump Media's ETFs, the TAE fusion merger and its losses]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[US federal government]] *regulation decides fate of* [[Fusion energy sector]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+- [[US federal government]] *regulation decides fate of* [[Fusion energy sector]] · [[C24 Trump Media's ETFs, the TAE fusion merger and its losses|C24]]
 
 ### Commercial (1)
 
-- [[TAE Technologies]] *operates in* [[Fusion energy sector]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
+- [[TAE Technologies]] *operates in* [[Fusion energy sector]] · [[C24 Trump Media's ETFs, the TAE fusion merger and its losses|C24]]
 
 ## Themes
 

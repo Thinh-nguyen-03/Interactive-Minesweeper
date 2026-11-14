@@ -15,15 +15,15 @@ Western fund holding frozen Lukoil securities that would be used in the swap (Re
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
+- [[C94 The sale of Lukoil's foreign assets and the Boehly consortium]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Capital Group]] *holds frozen Lukoil securities to be used in swap (Reuters)* [[Lukoil]] · 2026-11 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[Capital Group]] *holds frozen Lukoil securities to be used in swap (Reuters)* [[Lukoil]] · 2026-11 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]

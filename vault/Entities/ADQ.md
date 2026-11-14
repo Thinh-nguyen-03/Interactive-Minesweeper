@@ -15,25 +15,25 @@ Abu Dhabi sovereign fund formerly chaired by Tahnoon; folded into L'IMAD in Jan 
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Abu Dhabi sovereign fund, formerly chaired by Tahnoon; $600M into Orion CMC.
 
-## Appears in claims
+## Appears in checks
 
 - [[C57 The UAE network Tahnoon, G42, MGX and their US deals]] · Mostly accurate
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[ADQ]] *invested in* [[Orion Critical Mineral Consortium]] · 2025-10 · $600M · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[ADQ]] *invested in* [[Orion Critical Mineral Consortium]] · 2025-10 · $600M · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
 
 ### Ownership (2)
 
 - [[Sheikh Tahnoon bin Zayed]] *chaired (until folded into L'IMAD)* [[ADQ]] · 2026-01 · [[C57 The UAE network Tahnoon, G42, MGX and their US deals|C57]]
-- [[Sheikh Tahnoon bin Zayed]] *former chair of (per C57)* [[ADQ]] · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Sheikh Tahnoon bin Zayed]] *former chair of (per C57)* [[ADQ]] · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]

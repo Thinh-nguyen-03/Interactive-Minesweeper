@@ -15,10 +15,10 @@ Investor charged by the SEC in 2018 over a pump-and-dump (settled, no admission)
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 

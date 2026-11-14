@@ -15,15 +15,15 @@ Russian state gas firm; former main IBA sponsor
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
+- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Gazprom]] *former main sponsor; IOC criticised dependence* [[International Boxing Association (IBA)]] · 2022 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
+- [[Gazprom]] *former main sponsor; IOC criticised dependence* [[International Boxing Association (IBA)]] · 2022 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]

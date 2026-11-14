@@ -15,15 +15,15 @@ $20M PGA Tour signature event at Trump Doral, 30 Apr-3 May 2026
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
+- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Cadillac Championship 2026]] *held at* [[Trump National Doral]] · 2026-04-30 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Cadillac Championship 2026]] *held at* [[Trump National Doral]] · 2026-04-30 · [[C80 Sovereign-fund megadeals that need US approval|C80]]

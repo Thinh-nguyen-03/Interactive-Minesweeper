@@ -15,23 +15,23 @@ Dropped.
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
-- [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
+- [[C09 The dropped Binance case and the pardon of Changpeng Zhao]] · Mostly accurate
+- [[C23 SEC crypto cases dropped and the firms' donations]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Securities and Exchange Commission]] *dropped* [[SEC lawsuit against Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[Securities and Exchange Commission]] *dropped* [[SEC lawsuit against Binance]] · [[C09 The dropped Binance case and the pardon of Changpeng Zhao|C09]] [[C23 SEC crypto cases dropped and the firms' donations|C23]]
 
 ### Legal (1)
 
-- [[SEC lawsuit against Binance]] *targeted* [[Binance]] · [[C09 Binance SEC case dropped and CZ pardon|C09]] [[C23 SEC drops crypto-exchange cases; donors|C23]]
+- [[SEC lawsuit against Binance]] *targeted* [[Binance]] · [[C09 The dropped Binance case and the pardon of Changpeng Zhao|C09]] [[C23 SEC crypto cases dropped and the firms' donations|C23]]
 
 ## Themes
 

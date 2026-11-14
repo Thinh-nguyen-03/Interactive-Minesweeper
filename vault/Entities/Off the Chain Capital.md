@@ -15,15 +15,15 @@ Crypto fund in Atkins's disclosure
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
+- [[C65 Officials who decided matters involving former clients or partners]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Paul Atkins]] *fund stake* [[Off the Chain Capital]] · 2025-03 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Paul Atkins]] *fund stake* [[Off the Chain Capital]] · 2025-03 · [[C65 Officials who decided matters involving former clients or partners|C65]]

@@ -15,19 +15,19 @@ Filed in a prediction-markets lawsuit.
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C22 Crypto.com and TMTG]] · Mostly accurate
+- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (2)
 
-- [[Commodity Futures Trading Commission]] *filed* [[CFTC amicus brief for Crypto.com]] · [[C22 Crypto.com and TMTG|C22]]
-- [[CFTC amicus brief for Crypto.com]] *supported* [[Crypto.com]] · [[C22 Crypto.com and TMTG|C22]]
+- [[Commodity Futures Trading Commission]] *filed* [[CFTC amicus brief for Crypto.com]] · [[C22 Crypto.com's deal with Trump Media|C22]]
+- [[CFTC amicus brief for Crypto.com]] *supported* [[Crypto.com]] · [[C22 Crypto.com's deal with Trump Media|C22]]
 
 ## Themes
 

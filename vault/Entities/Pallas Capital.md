@@ -15,15 +15,15 @@ BVI firm acquired by GD Culture for 7,500 BTC
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C67 Investors who appear in several Trump-family vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[GD Culture Group]] *acquired for 7,500 BTC via share swap* [[Pallas Capital]] · 2025-09 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[GD Culture Group]] *acquired for 7,500 BTC via share swap* [[Pallas Capital]] · 2025-09 · [[C67 Investors who appear in several Trump-family vehicles|C67]]

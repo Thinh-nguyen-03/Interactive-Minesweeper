@@ -17,27 +17,22 @@ Isaac Saul's nonpartisan political newsletter.
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 3 |
 | Also known as | Tangle |
 
-## How other claims describe it
+## How other checks describe it
 
 - Nonpartisan political newsletter
-- Independent politics newsletter founded by Isaac Saul
 
-## Appears in claims
+## Appears in checks
 
-- [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
-- [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
+- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
+- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Isaac Saul]] *founded* [[Tangle News]] · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Isaac Saul]] *founder of* [[Tangle News]] · [[C16 Qatar jet, arms sales and golf deal|C16]]
-
-### Media (1)
-
-- [[Isaac Saul]] *founder and executive editor of* [[Tangle News]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Isaac Saul]] *founded* [[Tangle News]] · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]] [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]
+- [[Isaac Saul]] *founder of* [[Tangle News]] · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]]

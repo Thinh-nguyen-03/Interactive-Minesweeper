@@ -4,7 +4,8 @@ kind: "claim"
 title: "Howard Lutnick, Cantor Fitzgerald and Tether"
 verdict: "mostly-accurate"
 confidence: "medium"
-origin: "follow-up"
+type: "Check"
+topic: "Regulators and enforcement"
 parents:
   - "C11"
   - "C08"
@@ -13,13 +14,18 @@ aliases:
   - "C35"
 tags:
   - "claim"
-  - "origin/follow-up"
+  - "kind/check"
+  - "topic/regulators-and-enforcement"
   - "verdict/mostly-accurate"
 ---
 # C35: Howard Lutnick, Cantor Fitzgerald and Tether
 
 **Verdict:** Mostly accurate · medium confidence  
-**Origin:** Follow-up lead
+**Type:** Check · Regulators and enforcement
+
+## The claim
+
+> Does Cantor Fitzgerald, the former firm of Commerce Secretary Howard Lutnick now run by his sons, custody Tether's reserves and hold a stake in Tether while the administration set stablecoin policy, and how complete was his divestment?
 
 ## Bottom line
 
@@ -51,21 +57,17 @@ The financial ties are well documented. Cantor custodies Tether's Treasury reser
 - Cantor's SPAC took the Tether/Bitfinex/SoftBank-backed Twenty One Capital public, and Cantor is custodian for Tether's GENIUS-compliant USAT.
 - No policy action by Lutnick or Commerce benefiting Tether is documented, and no link between Tether and chip-export licences was found.
 
-## Lead investigated
+## Builds on
 
-> Follow-up to the stablecoin/GENIUS Act and chips claims: Commerce Secretary Howard Lutnick's former firm Cantor Fitzgerald (now run by his sons) custodies Tether's reserves and held a stake in Tether, while the administration passed stablecoin legislation and Commerce controls AI-chip export licences; Cantor also launched crypto/bitcoin SPAC vehicles (e.g. Twenty One Capital with Tether and SoftBank). Verify stakes, timelines, divestment, and any documented policy benefit.
+- [[C11 The GENIUS and CLARITY Acts and the family's stablecoin]] · Mostly accurate
+- [[C08 AI chip exports to the UAE, Stargate and a possible currency swap]] · Mostly accurate
+- [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo]] · Mostly accurate
 
-## Follows up on
+## Checks that build on this one
 
-- [[C11 GENIUS CLARITY Acts and USD1]] · Mostly accurate
-- [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
-- [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]] · Mostly accurate
-
-## Follow-up checks
-
-- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Mostly accurate
-- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
+- [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business]] · Mostly accurate
+- [[C54 The crypto revolving door]] · Mostly accurate
+- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
 
 ## Sub-claims
 
@@ -158,7 +160,7 @@ The financial ties are well documented. Cantor custodies Tether's Treasury reser
 - Lutnick backed stablecoin audits and 100% Treasury backing at his hearing and denied owning Tether.
 - The congressional letters come from Democrats in the minority without subpoena power.
   - None alleges a specific crime.
-- Research limits: direct fetches of theblock.co, decrypt.co, bloomberglaw, banking.senate.gov and hsgac.senate.gov failed in this environment, so findings rest on search summaries that agree across outlets.
+- Research limits: the original pages at theblock.co, decrypt.co, bloomberglaw, banking.senate.gov and hsgac.senate.gov were not read directly, so findings rest on search summaries that agree across outlets.
   - Tether's valuation and Cantor's Nvidia holdings were checked in the audit pass; Cantor's other SPACs were not.
 
 ## People and organisations
@@ -216,7 +218,7 @@ The financial ties are well documented. Cantor custodies Tether's Treasury reser
 - [[SoftBank]] *minority owner; ~$900M* [[Twenty One Capital (XXI)]] · 2025-04-23 · $900M · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Tether]] *majority owner; contributed ~$1.6B in BTC* [[Twenty One Capital (XXI)]] · 2025-04-23 · $1.6B · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[26North]] *took minority stake* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Kyle Lutnick]] *executive vice chair* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Kyle Lutnick]] *executive vice chair* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]
 - [[Dynasty Trust A]] *holds Lutnick's former Cantor interests* [[Cantor Fitzgerald]] · 2025-05 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Howard Lutnick]] *former chairman/CEO; divested to children's trusts* [[Cantor Fitzgerald]] · 2025-05-16 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Brandon Lutnick]] *chairman and CEO* [[Cantor Equity Partners]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
@@ -226,8 +228,8 @@ The financial ties are well documented. Cantor custodies Tether's Treasury reser
 
 ### Family (2)
 
-- [[Howard Lutnick]] *father of* [[Brandon Lutnick]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Howard Lutnick]] *father of* [[Kyle Lutnick]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Howard Lutnick]] *father of* [[Brandon Lutnick]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]] [[C60 Government equity stakes in critical-minerals companies|C60]]
+- [[Howard Lutnick]] *father of* [[Kyle Lutnick]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C50 Lutnick Nvidia chip curbs, Tether inquiries and Cantor's crypto business|C50]] [[C60 Government equity stakes in critical-minerals companies|C60]]
 
 ### Regulatory (3)
 
@@ -244,7 +246,7 @@ The financial ties are well documented. Cantor custodies Tether's Treasury reser
 - [[Donald Trump]] *nominated as Commerce Secretary* [[Howard Lutnick]] · 2024-11 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Maria Cantwell]] *questioned on Tether at confirmation* [[Howard Lutnick]] · 2025-01-29 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Howard Lutnick]] *Secretary of Commerce* [[US Department of Commerce]] · 2025-02-18 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[US Congress]] *passed* [[GENIUS Act]] · 2025-07 · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[US Congress]] *passed* [[GENIUS Act]] · 2025-07 · [[C11 The GENIUS and CLARITY Acts and the family's stablecoin|C11]] [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Donald Trump]] *signed* [[GENIUS Act]] · 2025-07-18 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Jack Reed]] *bill to close foreign-issuer loophole* [[GENIUS Act]] · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 
@@ -265,14 +267,14 @@ The financial ties are well documented. Cantor custodies Tether's Treasury reser
 - [[Cantor Fitzgerald]] *custodies Treasury reserves for fees* [[Tether]] · 2024-11 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Cantor Equity Partners]] *SPAC merger partner* [[Twenty One Capital (XXI)]] · 2025-12-09 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[USAT]] *competes with (US GENIUS-compliant stablecoins)* [[USD1]] · 2026-01 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
-- [[Anchorage Digital]] *issuer of* [[USAT]] · 2026-01-27 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Anchorage Digital]] *issuer of* [[USAT]] · 2026-01-27 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]] [[C54 The crypto revolving door|C54]]
 - [[Cantor Fitzgerald]] *reserve custodian and preferred primary dealer* [[USAT]] · 2026-01-27 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Tether]] *launched under GENIUS framework* [[USAT]] · 2026-01-27 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 
 ## Leads not covered here
 
 - **Lutnick reportedly stalled curbs on Nvidia-chip diversion to China**
-  - Commerce under Lutnick controls the chip-export licences cited in the brief and in C08.
+  - Commerce under Lutnick controls the chip-export licences cited in the claim and in C08.
   - [[Howard Lutnick]] [[US Department of Commerce]] [[Nvidia]] [[Donald Trump]] · [Source](https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls)
 - **Blumenthal probe of Tether's alleged role in Iranian shadow banking**
   - A sanctions and AML probe of Tether, the firm whose reserves Cantor custodies.
@@ -319,7 +321,7 @@ The financial ties are well documented. Cantor custodies Tether's Treasury reser
 
 **Verdict: mostly-accurate** (confidence: medium)
 
-This is a follow-up lead to C11 (GENIUS/CLARITY Acts), C08 (UAE chips) and C19 (bitcoin reserve). The video did not cover it. The research brief says Commerce Secretary Howard Lutnick's former firm Cantor Fitzgerald, now run by his sons, custodies Tether's reserves and holds a stake in Tether, while the administration passed stablecoin legislation and Commerce controls AI-chip export licences. It also says Cantor launched bitcoin SPAC vehicles such as Twenty One Capital.
+This check builds on C11 (GENIUS/CLARITY Acts), C08 (UAE chips) and C19 (bitcoin reserve). The claim is that Commerce Secretary Howard Lutnick's former firm Cantor Fitzgerald, now run by his sons, custodies Tether's reserves and holds a stake in Tether, while the administration passed stablecoin legislation and Commerce controls AI-chip export licences. It also says Cantor launched bitcoin SPAC vehicles such as Twenty One Capital.
 
 ### Summary
 
@@ -332,11 +334,11 @@ The core financial ties are well documented:
 - Cantor's SPAC, Cantor Equity Partners, took Twenty One Capital public. Twenty One is majority-owned by Tether and Bitfinex.
 - The GENIUS Act became law in July 2025. Tether then launched a GENIUS-compliant US coin, USAT, with Cantor as reserve custodian.
 
-What is **not** documented is any policy action by Lutnick or Commerce that benefited Tether or Cantor. Nothing ties the chip-export licences Commerce controls to Tether. That part of the brief rests on juxtaposition, not evidence.
+What is **not** documented is any policy action by Lutnick or Commerce that benefited Tether or Cantor. Nothing ties the chip-export licences Commerce controls to Tether. That part of the claim rests on juxtaposition, not evidence.
 
 ### Research limits
 
-Direct fetches of theblock.co, decrypt.co, news.bloomberglaw.com, banking.senate.gov and hsgac.senate.gov failed in this environment because those hosts are not allowed. The findings below therefore rest on search-result summaries that agree across several outlets: The Block, Fortune, Cointelegraph, Decrypt, Bloomberg/Bloomberg Law, CoinDesk, InvestmentNews, Business Wire and Axios. The shared web-search budget ran out before I could check three things:
+The original pages at theblock.co, decrypt.co, news.bloomberglaw.com, banking.senate.gov and hsgac.senate.gov were not read directly. The findings below therefore rest on search-result summaries that agree across several outlets: The Block, Fortune, Cointelegraph, Decrypt, Bloomberg/Bloomberg Law, CoinDesk, InvestmentNews, Business Wire and Axios. The research ended before I could check three things:
 
 - Tether's latest funding valuation
 - Cantor's other bitcoin SPACs (for example the Bitcoin Standard Treasury deal)

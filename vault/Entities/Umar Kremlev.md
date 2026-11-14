@@ -15,49 +15,49 @@ Russian president of the International Boxing Association, close to Putin; paid 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 11 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Russian president of the International Boxing Association; born Lutfulloev
 
-## Appears in claims
+## Appears in checks
 
-- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
-- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
+- [[C76 Russia-linked money around the family and the envoys]] · Partly accurate
+- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Umar Kremlev]] *paid for parts of the wedding weekend (island rental, fireworks); repayment stated, amount undisclosed* [[Donald Trump Jr]] · 2026-05 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
-- [[Umar Kremlev]] *paid for parts of wedding celebrations (island rental, fireworks); Kremlev says repaid* [[Donald Trump Jr]] · 2026-05 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Umar Kremlev]] *paid for parts of the wedding weekend (island rental, fireworks); repayment stated, amount undisclosed* [[Donald Trump Jr]] · 2026-05 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[Umar Kremlev]] *paid for parts of wedding celebrations (island rental, fireworks); Kremlev says repaid* [[Donald Trump Jr]] · 2026-05 · [[C76 Russia-linked money around the family and the envoys|C76]]
 
 ### Ownership (1)
 
-- [[Umar Kremlev]] *president of* [[International Boxing Association (IBA)]] · [[C76 Russia-linked money around the family and envoys|C76]] [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
+- [[Umar Kremlev]] *president of* [[International Boxing Association (IBA)]] · [[C76 Russia-linked money around the family and the envoys|C76]] [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
 
 ### Regulatory (2)
 
-- [[Latvia]] *entry ban (reported)* [[Umar Kremlev]] · 2026-09 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
-- [[Ukraine]] *sanctions* [[Umar Kremlev]] · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
+- [[Latvia]] *entry ban (reported)* [[Umar Kremlev]] · 2026-09 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[Ukraine]] *sanctions* [[Umar Kremlev]] · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
 
 ### Political (3)
 
-- [[Vladimir Putin]] *awarded Order of Friendship* [[Umar Kremlev]] · 2026-04 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
-- [[Umar Kremlev]] *joined his hunting camp in Mongolia for about two days (FT); described by his side as personal friendship* [[Donald Trump Jr]] · 2026-08 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
-- [[Melania Trump]] *spokesman denies any relationship* [[Umar Kremlev]] · 2026-09 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
+- [[Vladimir Putin]] *awarded Order of Friendship* [[Umar Kremlev]] · 2026-04 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[Umar Kremlev]] *joined his hunting camp in Mongolia for about two days (FT); described by his side as personal friendship* [[Donald Trump Jr]] · 2026-08 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[Melania Trump]] *spokesman denies any relationship* [[Umar Kremlev]] · 2026-09 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
 
 ### Legal (1)
 
-- [[Todd Blanche]] *declined to investigate ('What is there to investigate')* [[Umar Kremlev]] · 2026-09-16 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
+- [[Todd Blanche]] *declined to investigate ('What is there to investigate')* [[Umar Kremlev]] · 2026-09-16 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
 
 ### Media (1)
 
-- [[ProPublica]] *exposed wedding payments* [[Umar Kremlev]] · 2026-09-14 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[ProPublica]] *exposed wedding payments* [[Umar Kremlev]] · 2026-09-14 · [[C76 Russia-linked money around the family and the envoys|C76]]
 
 ### Commercial (2)
 
-- [[Umar Kremlev]] *allegedly discussed business deals in Kazakhstan (two sources, IStories/OCCRP; denied)* [[Donald Trump Jr]] · 2026 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
-- [[Arthur Martirosov]] *travelled with him to Mongolia (FT)* [[Umar Kremlev]] · 2026-08 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
+- [[Umar Kremlev]] *allegedly discussed business deals in Kazakhstan (two sources, IStories/OCCRP; denied)* [[Donald Trump Jr]] · 2026 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[Arthur Martirosov]] *travelled with him to Mongolia (FT)* [[Umar Kremlev]] · 2026-08 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]

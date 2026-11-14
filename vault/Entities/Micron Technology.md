@@ -15,19 +15,19 @@ Listed donor; CHIPS award renegotiated, +$275M (Jun 2025)
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
+- [[C92 The White House ballroom donor list]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Micron Technology]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Micron Technology]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The White House ballroom donor list|C92]]
 
 ### Regulatory (1)
 
-- [[US Department of Commerce]] *renegotiated CHIPS award, +$275M* [[Micron Technology]] · 2025-06-12 · $275M · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[US Department of Commerce]] *renegotiated CHIPS award, +$275M* [[Micron Technology]] · 2025-06-12 · $275M · [[C92 The White House ballroom donor list|C92]]

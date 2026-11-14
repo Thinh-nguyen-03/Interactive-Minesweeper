@@ -15,15 +15,15 @@ Sun entity; SEC claims against it dismissed.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
+- [[C05 Justin Sun, World Liberty Financial and the SEC]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Securities and Exchange Commission]] *dismissed claims against* [[BitTorrent Foundation Ltd]] · 2026-03-05 · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Securities and Exchange Commission]] *dismissed claims against* [[BitTorrent Foundation Ltd]] · 2026-03-05 · [[C05 Justin Sun, World Liberty Financial and the SEC|C05]]

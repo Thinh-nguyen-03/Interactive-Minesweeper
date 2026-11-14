@@ -15,15 +15,15 @@ State legislature briefed by White House on prediction markets.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
+- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[White House Trump administration]] *briefed lawmakers on federal prediction-market policy* [[North Carolina (state government)]] · 2026 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[White House Trump administration]] *briefed lawmakers on federal prediction-market policy* [[North Carolina (state government)]] · 2026 · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]

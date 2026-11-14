@@ -15,15 +15,15 @@ LIV Golf CEO; announced unnamed lead investor Aug 2026
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
+- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Scott O'Neil]] *CEO of* [[LIV Golf]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Scott O'Neil]] *CEO of* [[LIV Golf]] · [[C80 Sovereign-fund megadeals that need US approval|C80]]

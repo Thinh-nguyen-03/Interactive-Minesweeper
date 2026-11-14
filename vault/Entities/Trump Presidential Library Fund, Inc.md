@@ -17,34 +17,34 @@ First library nonprofit, incorporated 20 Dec 2024 and dissolved Sep 2025; settle
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 8 |
 | Also known as | Original Trump presidential library fund (Florida, Dec 2024) |
 
-## How other claims describe it
+## How other checks describe it
 
 - First Florida library nonprofit (20 Dec 2024), administratively dissolved Sept 2025
 - Florida nonprofit formed Dec 20, 2024; dissolved 2025.
 
-## Appears in claims
+## Appears in checks
 
-- [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
-- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Mostly accurate
-- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
+- [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom]] · Mostly accurate
+- [[C48 The Trump presidential library foundation's money and land]] · Mostly accurate
+- [[C61 Lawyers and law firms that recur across the deals]] · Mostly accurate
 
 ## Relationships
 
 ### Money (3)
 
-- [[ABC News]] *agreed to pay $15M (held in escrow) to settle defamation suit* [[Trump Presidential Library Fund, Inc]] · 2024-12-14 · $15M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Meta]] *settled suspension suit for $25M (~$22M to library)* [[Trump Presidential Library Fund, Inc]] · 2025-01-29 · $22M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
-- [[Paramount]] *settled '60 Minutes' suit for $16M incl. fees, remainder to library* [[Trump Presidential Library Fund, Inc]] · 2025-07-02 · $16M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[ABC News]] *agreed to pay $15M (held in escrow) to settle defamation suit* [[Trump Presidential Library Fund, Inc]] · 2024-12-14 · $15M · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]
+- [[Meta]] *settled suspension suit for $25M (~$22M to library)* [[Trump Presidential Library Fund, Inc]] · 2025-01-29 · $22M · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]
+- [[Paramount]] *settled '60 Minutes' suit for $16M incl. fees, remainder to library* [[Trump Presidential Library Fund, Inc]] · 2025-07-02 · $16M · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]
 
 ### Ownership (1)
 
-- [[Trump Presidential Library Fund, Inc]] *dissolved, succeeded by (asset transfer unconfirmed)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-09 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
+- [[Trump Presidential Library Fund, Inc]] *dissolved, succeeded by (asset transfer unconfirmed)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-09 · [[C48 The Trump presidential library foundation's money and land|C48]]
 
 ### Legal (2)
 
-- [[Jacob Roth]] *incorporated* [[Trump Presidential Library Fund, Inc]] · 2024-12-20 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]]
-- [[Trump Presidential Library Fund, Inc]] *dissolved and succeeded by* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-09 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Jacob Roth]] *incorporated* [[Trump Presidential Library Fund, Inc]] · 2024-12-20 · [[C48 The Trump presidential library foundation's money and land|C48]] [[C61 Lawyers and law firms that recur across the deals|C61]]
+- [[Trump Presidential Library Fund, Inc]] *dissolved and succeeded by* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-09 · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]

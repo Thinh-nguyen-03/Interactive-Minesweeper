@@ -15,22 +15,22 @@ Senator; co-signed USAR letters
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Senator; USAR conflict letter
 - Senator; USAR/Cantor letters
 
-## Appears in claims
+## Appears in checks
 
-- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
-- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
+- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
+- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Chris Van Hollen]] *joint letter to USAR* [[Barbara Humpton]] · 2026-07-07 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Chris Van Hollen]] *joint letter to USAR* [[Barbara Humpton]] · 2026-07-07 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]

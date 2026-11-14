@@ -15,9 +15,9 @@ Watchdog that counted crypto revolving-door hires (2022)
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C54 The crypto revolving door]] · Mostly accurate

@@ -4,38 +4,29 @@ kind: "entity"
 type: "event"
 aliases:
   - "Iran crisis"
-connections: 4
-claims: 2
+connections: 2
+claims: 1
 tags:
   - "entity"
   - "type/event"
 ---
 # Iran war / crisis
 
-US war with Iran; cited as attention-shifter and context for UAE aid.
+US war with Iran (strikes began 28 Feb 2026); context for the possible UAE currency swap.
 
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 2 claims |
-| Connections | 4 |
+| Appears in | 1 check |
+| Connections | 2 |
 | Also known as | Iran crisis |
 
-## Appears in claims
+## Appears in checks
 
-- [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
-- [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
+- [[C08 AI chip exports to the UAE, Stargate and a possible currency swap]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Iran war crisis]] *prompted* [[Possible UAE currency swap]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-
-### Media (1)
-
-- [['Flood the zone' strategy]] *illustrated by attention shift to* [[Iran war crisis]] · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-
-## Themes
-
-- [[Theme - Volume of stories too much to follow]]
+- [[Iran war crisis]] *prompted* [[Possible UAE currency swap]] · [[C08 AI chip exports to the UAE, Stargate and a possible currency swap|C08]]

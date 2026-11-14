@@ -15,26 +15,26 @@ Trump's Indian licensing partner (Kalpesh Mehta)
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Main Indian Trump licensee
 
-## Appears in claims
+## Appears in checks
 
-- [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
-- [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
+- [[C59 Foreign Trump Organization projects and tariff negotiations]] · Partly accurate
+- [[C70 What the Trump family's foreign partners obtained from Washington]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Kalpesh Mehta]] *founded* [[Tribeca Developers]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]] [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Kalpesh Mehta]] *founded* [[Tribeca Developers]] · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]] [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
 
 ### Commercial (3)
 
-- [[Tribeca Developers]] *main Indian licensee of* [[Trump Organization]] · 2025-2026 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
-- [[Tribeca Developers]] *licenses Trump brand from* [[Trump Organization]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Tribeca Developers]] *develops* [[Trump-branded projects in India]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Tribeca Developers]] *main Indian licensee of* [[Trump Organization]] · 2025-2026 · [[C70 What the Trump family's foreign partners obtained from Washington|C70]]
+- [[Tribeca Developers]] *licenses Trump brand from* [[Trump Organization]] · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]]
+- [[Tribeca Developers]] *develops* [[Trump-branded projects in India]] · [[C59 Foreign Trump Organization projects and tariff negotiations|C59]]

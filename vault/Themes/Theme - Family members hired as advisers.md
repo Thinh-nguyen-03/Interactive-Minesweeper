@@ -6,16 +6,16 @@ tags:
 ---
 # Family members hired as advisers
 
-- Companies in regulated or contract-dependent sectors put the president's sons on boards or advisory roles without being able to say what they do beyond 'narrative'.
+- Companies in regulated or contract-dependent sectors give the president's sons board or advisory roles; descriptions of what they contribute are vague, such as 'narrative'.
 
-## Claims
+## Checks
 
-- [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
-- [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
-- [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
-- [[C26 1789 Capital and Vulcan Elements]] · Mostly accurate
-- [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
-- [[C28 Foundation Future Industries robots and Eric Trump]] · Mostly accurate
+- [[C05 Justin Sun, World Liberty Financial and the SEC]] · Mostly accurate
+- [[C18 Eric Trump, Metaplanet, American Bitcoin and Hut 8]] · Mostly accurate
+- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
+- [[C26 1789 Capital and the Vulcan Elements magnet deal]] · Mostly accurate
+- [[C27 The New America Acquisition I SPAC]] · Mostly accurate
+- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
 
 ## People and organisations
 

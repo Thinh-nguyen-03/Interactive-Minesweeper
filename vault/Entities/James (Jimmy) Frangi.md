@@ -15,15 +15,15 @@ Michael Boulos's cousin; yacht broker; arranged the Allam meeting
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C66 The extended family's ventures and roles]] · Partly accurate
 
 ## Relationships
 
 ### Family (1)
 
-- [[James (Jimmy) Frangi]] *cousin; arranged Allam meeting; yacht-brokerage employer* [[Michael Boulos]] · 2022 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[James (Jimmy) Frangi]] *cousin; arranged Allam meeting; yacht-brokerage employer* [[Michael Boulos]] · 2022 · [[C66 The extended family's ventures and roles|C66]]

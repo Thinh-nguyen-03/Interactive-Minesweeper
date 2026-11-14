@@ -15,19 +15,19 @@ Manhattan federal prosecutors who ran the Polymarket criminal probe.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
+- [[C38 Polymarket probes closed before 1789 Capital invested]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[U.S. Attorney's Office, Southern District of New York]] *component of* [[US Department of Justice (us-doj)]] · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[U.S. Attorney's Office, Southern District of New York]] *component of* [[US Department of Justice (us-doj)]] · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]
 
 ### Legal (1)
 
-- [[U.S. Attorney's Office, Southern District of New York]] *ran criminal inquiry into* [[Polymarket]] · 2024-11 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]]
+- [[U.S. Attorney's Office, Southern District of New York]] *ran criminal inquiry into* [[Polymarket]] · 2024-11 · [[C38 Polymarket probes closed before 1789 Capital invested|C38]]

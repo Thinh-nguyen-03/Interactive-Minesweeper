@@ -15,19 +15,19 @@ Sajwani's daughter; Damac managing director who fronted the MANTRA tokenisation 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge]] · Mostly accurate
+- [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge]] · Mostly accurate
 
 ## Relationships
 
 ### Family (1)
 
-- [[Amira Sajwani]] *daughter of* [[Hussain Sajwani]] · [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge|C88]]
+- [[Amira Sajwani]] *daughter of* [[Hussain Sajwani]] · [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge|C88]]
 
 ### Advisory (1)
 
-- [[Amira Sajwani]] *managing director* [[Damac Properties]] · [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge|C88]]
+- [[Amira Sajwani]] *managing director* [[Damac Properties]] · [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge|C88]]

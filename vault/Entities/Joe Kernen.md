@@ -15,16 +15,16 @@ CNBC anchor who interviewed Trump ~July 2, 2026
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C01 $TRUMP meme coin]] · Mostly accurate
+- [[C01 The $TRUMP meme coin and who profited]] · Mostly accurate
 
 ## Relationships
 
 ### Media (2)
 
-- [[Joe Kernen]] *interviewed on family crypto ventures* [[Donald Trump]] · 2026-07-02 · [[C01 $TRUMP meme coin|C01]]
-- [[CNBC]] *employs* [[Joe Kernen]] · [[C01 $TRUMP meme coin|C01]]
+- [[Joe Kernen]] *interviewed on family crypto ventures* [[Donald Trump]] · 2026-07-02 · [[C01 The $TRUMP meme coin and who profited|C01]]
+- [[CNBC]] *employs* [[Joe Kernen]] · [[C01 The $TRUMP meme coin and who profited|C01]]

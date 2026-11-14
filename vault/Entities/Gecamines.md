@@ -15,15 +15,15 @@ DRC state miner; Chemaf lease holder; leaders replaced Feb 2026.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Felix Tshisekedi]] *replaced chair and CEO who opposed Virtus bid* [[Gecamines]] · 2026-02-23 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Felix Tshisekedi]] *replaced chair and CEO who opposed Virtus bid* [[Gecamines]] · 2026-02-23 · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]

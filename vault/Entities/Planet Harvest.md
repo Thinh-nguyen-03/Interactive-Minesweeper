@@ -15,15 +15,15 @@ Ivanka Trump's produce venture (2025)
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C66 The extended family's ventures and roles]] · Partly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Ivanka Trump]] *co-founder of* [[Planet Harvest]] · 2025 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Ivanka Trump]] *co-founder of* [[Planet Harvest]] · 2025 · [[C66 The extended family's ventures and roles|C66]]

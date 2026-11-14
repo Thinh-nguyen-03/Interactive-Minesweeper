@@ -2,7 +2,7 @@
 id: "sam-kessler"
 kind: "entity"
 type: "person"
-connections: 5
+connections: 4
 claims: 2
 tags:
   - "entity"
@@ -10,30 +10,27 @@ tags:
 ---
 # Sam Kessler
 
-Wall Street Journal reporter on the WLF/Tahnoon investigation.
+Wall Street Journal reporter; lead reporter on its investigation of the Tahnoon-backed stake in World Liberty Financial.
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
-| Connections | 5 |
+| Appears in | 2 checks |
+| Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - WSJ reporter on the investigation.
-- WSJ data reporter, ex-CoinDesk; featured in the video
 
-## Appears in claims
+## Appears in checks
 
-- [[C06 Secret $500M 49% UAE stake in WLF]] · Confirmed
-- [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
+- [[C06 A UAE-backed 49% stake in World Liberty Financial]] · Confirmed
+- [[C30 Public concern about government corruption and criticism from prominent supporters]] · Mostly accurate
 
 ## Relationships
 
-### Media (5)
+### Media (3)
 
-- [[Sam Kessler]] *data reporter at* [[The Wall Street Journal]] · 2025-06 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Coffeezilla]] *interviewed* [[Sam Kessler]] · 2026 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Sam Kessler]] *reporter at* [[The Wall Street Journal]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
-- [[Sam Kessler]] *reports for* [[The Wall Street Journal]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[Sam Kessler]] *investigated* [[World Liberty Financial]] · [[C06 Secret $500M 49% UAE stake in WLF|C06]]
+- [[Sam Kessler]] *reporter at* [[The Wall Street Journal]] · [[C06 A UAE-backed 49% stake in World Liberty Financial|C06]]
+- [[Sam Kessler]] *reports for* [[The Wall Street Journal]] · [[C06 A UAE-backed 49% stake in World Liberty Financial|C06]] [[C30 Public concern about government corruption and criticism from prominent supporters|C30]]
+- [[Sam Kessler]] *investigated* [[World Liberty Financial]] · [[C06 A UAE-backed 49% stake in World Liberty Financial|C06]]

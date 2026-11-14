@@ -15,27 +15,27 @@ Secretary of State; invoked emergency waiver for 2026 sales
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 6 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Secretary of State; thanked by KoBold for the Manono deal.
 - Secretary of State credited by Cove.
 
-## Appears in claims
+## Appears in checks
 
-- [[C16 Qatar jet, arms sales and golf deal]] · Mostly accurate
-- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Mostly accurate
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+- [[C16 Qatar the gifted jet, arms sales and a Trump golf project]] · Mostly accurate
+- [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings]] · Mostly accurate
+- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Marco Rubio]] *invoked emergency waiver of congressional review for* [[2026 Qatar Patriot and APKWS sales]] · 2026-05 · [[C16 Qatar jet, arms sales and golf deal|C16]]
+- [[Marco Rubio]] *invoked emergency waiver of congressional review for* [[2026 Qatar Patriot and APKWS sales]] · 2026-05 · [[C16 Qatar the gifted jet, arms sales and a Trump golf project|C16]]
 
 ### Political (2)
 
-- [[KoBold Metals]] *credited for Manono deal* [[Marco Rubio]] · 2025 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
-- [[Marco Rubio]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[KoBold Metals]] *credited for Manono deal* [[Marco Rubio]] · 2025 · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
+- [[Marco Rubio]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron, Kazakhstan tungsten and Chinese listings|C47]]

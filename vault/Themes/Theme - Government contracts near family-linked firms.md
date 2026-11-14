@@ -8,11 +8,11 @@ tags:
 
 - Companies the sons invest in or advise receive, or explicitly target, federal contracts and incentives.
 
-## Claims
+## Checks
 
-- [[C26 1789 Capital and Vulcan Elements]] · Mostly accurate
-- [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
-- [[C28 Foundation Future Industries robots and Eric Trump]] · Mostly accurate
+- [[C26 1789 Capital and the Vulcan Elements magnet deal]] · Mostly accurate
+- [[C27 The New America Acquisition I SPAC]] · Mostly accurate
+- [[C28 Foundation Future Industries, its Pentagon contract and Eric Trump]] · Mostly accurate
 
 ## People and organisations
 

@@ -15,16 +15,16 @@ Hedge-fund manager and Kushner friend who co-drafted a reconciliation plan with 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C76 Russia-linked money around the family and envoys]] · Partly accurate
+- [[C76 Russia-linked money around the family and the envoys]] · Partly accurate
 
 ## Relationships
 
 ### Political (2)
 
-- [[Kirill Dmitriev]] *co-drafted US-Russia reconciliation plan* [[Rick Gerson]] · 2017-01 · [[C76 Russia-linked money around the family and envoys|C76]]
-- [[Rick Gerson]] *passed Dmitriev plan to* [[Jared Kushner]] · 2017-01 · [[C76 Russia-linked money around the family and envoys|C76]]
+- [[Kirill Dmitriev]] *co-drafted US-Russia reconciliation plan* [[Rick Gerson]] · 2017-01 · [[C76 Russia-linked money around the family and the envoys|C76]]
+- [[Rick Gerson]] *passed Dmitriev plan to* [[Jared Kushner]] · 2017-01 · [[C76 Russia-linked money around the family and the envoys|C76]]

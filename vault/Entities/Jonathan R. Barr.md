@@ -15,15 +15,15 @@ BakerHostetler partner who co-signed WLF's May 29, 2025 letter to senators.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C61 Shared lawyers and law firms across the deals]] · Mostly accurate
+- [[C61 Lawyers and law firms that recur across the deals]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Jonathan R. Barr]] *partner at* [[BakerHostetler]] · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Jonathan R. Barr]] *partner at* [[BakerHostetler]] · [[C61 Lawyers and law firms that recur across the deals|C61]]

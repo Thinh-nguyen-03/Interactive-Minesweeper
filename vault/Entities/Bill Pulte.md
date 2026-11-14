@@ -15,15 +15,15 @@ FHFA director
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C92 The ballroom donor list in full who gave, what they had pending]] · Partly accurate
+- [[C92 The White House ballroom donor list]] · Partly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Bill Pulte]] *director* [[Federal Housing Finance Agency]] · [[C92 The ballroom donor list in full who gave, what they had pending|C92]]
+- [[Bill Pulte]] *director* [[Federal Housing Finance Agency]] · [[C92 The White House ballroom donor list|C92]]

@@ -15,15 +15,15 @@ Paxos-issued stablecoin USD1 overtook in Jan 2026
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C11 GENIUS CLARITY Acts and USD1]] · Mostly accurate
+- [[C11 The GENIUS and CLARITY Acts and the family's stablecoin]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[USD1]] *overtook in market cap* [[PayPal USD (PYUSD)]] · 2026-01 · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[USD1]] *overtook in market cap* [[PayPal USD (PYUSD)]] · 2026-01 · [[C11 The GENIUS and CLARITY Acts and the family's stablecoin|C11]]

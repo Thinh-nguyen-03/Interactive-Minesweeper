@@ -15,23 +15,23 @@ Financial help for the UAE during the Iran crisis that Trump said was under cons
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C08 UAE AI chips deal, Stargate, currency swap]] · Mostly accurate
+- [[C08 AI chip exports to the UAE, Stargate and a possible currency swap]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Possible UAE currency swap]] *would aid* [[United Arab Emirates]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Possible UAE currency swap]] *would aid* [[United Arab Emirates]] · [[C08 AI chip exports to the UAE, Stargate and a possible currency swap|C08]]
 
 ### Political (2)
 
-- [[Donald Trump]] *said is under consideration* [[Possible UAE currency swap]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
-- [[Iran war crisis]] *prompted* [[Possible UAE currency swap]] · [[C08 UAE AI chips deal, Stargate, currency swap|C08]]
+- [[Donald Trump]] *said is under consideration* [[Possible UAE currency swap]] · [[C08 AI chip exports to the UAE, Stargate and a possible currency swap|C08]]
+- [[Iran war crisis]] *prompted* [[Possible UAE currency swap]] · [[C08 AI chip exports to the UAE, Stargate and a possible currency swap|C08]]
 
 ## Themes
 

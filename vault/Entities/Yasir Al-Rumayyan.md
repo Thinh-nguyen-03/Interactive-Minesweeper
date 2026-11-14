@@ -15,19 +15,19 @@ PIF governor; attended Feb 2025 White House golf talks
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
+- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Yasir Al-Rumayyan]] *governor of* [[Public Investment Fund (Saudi Arabia)]] · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Yasir Al-Rumayyan]] *governor of* [[Public Investment Fund (Saudi Arabia)]] · [[C80 Sovereign-fund megadeals that need US approval|C80]]
 
 ### Political (1)
 
-- [[Donald Trump]] *hosted ~4-hour PGA Tour-PIF session with* [[Yasir Al-Rumayyan]] · 2025-02-20 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[Donald Trump]] *hosted ~4-hour PGA Tour-PIF session with* [[Yasir Al-Rumayyan]] · 2025-02-20 · [[C80 Sovereign-fund megadeals that need US approval|C80]]

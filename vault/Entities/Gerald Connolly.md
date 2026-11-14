@@ -15,16 +15,16 @@ House Oversight ranking member; opened Ramp probe 2025-05-09; died 2025-05-21.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 3 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Late Rep. (D-VA); opened 2025 probe into GSA-Ramp dealings
 
-## Appears in claims
+## Appears in checks
 
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C66 The extended family's ventures and roles]] · Partly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Relationships
@@ -35,4 +35,4 @@ House Oversight ranking member; opened Ramp probe 2025-05-09; died 2025-05-21.
 
 ### Legal (1)
 
-- [[Gerald Connolly]] *opened probe into Ramp dealings* [[General Services Administration]] · 2025 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Gerald Connolly]] *opened probe into Ramp dealings* [[General Services Administration]] · 2025 · [[C66 The extended family's ventures and roles|C66]]

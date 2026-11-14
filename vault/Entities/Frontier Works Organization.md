@@ -15,15 +15,15 @@ Pakistan Army engineering arm; USSM counterparty.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[US Strategic Metals (USSM)]] *$500M minerals MoU* [[Frontier Works Organization]] · 2025-09-08 · $500M · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[US Strategic Metals (USSM)]] *$500M minerals MoU* [[Frontier Works Organization]] · 2025-09-08 · $500M · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]

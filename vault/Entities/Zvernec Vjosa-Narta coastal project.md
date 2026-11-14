@@ -15,20 +15,20 @@ Proposed luxury development in a protected landscape near Vlora; up to ~EUR 4B p
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C45 Kushner's resort projects in Albania and Serbia]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Jared Kushner]] *self-described minority partner in* [[Zvernec Vjosa-Narta coastal project]] · 2026-10 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Jared Kushner]] *self-described minority partner in* [[Zvernec Vjosa-Narta coastal project]] · 2026-10 · [[C45 Kushner's resort projects in Albania and Serbia|C45]]
 
 ### Commercial (2)
 
-- [[Affinity Partners]] *denies being investor or developer of* [[Zvernec Vjosa-Narta coastal project]] · 2026-06 · [[C45 Kushner's Albania and Serbia developments|C45]]
-- [[Asher Abehsera]] *CEO / day-to-day lead (per Kushner)* [[Zvernec Vjosa-Narta coastal project]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Affinity Partners]] *denies being investor or developer of* [[Zvernec Vjosa-Narta coastal project]] · 2026-06 · [[C45 Kushner's resort projects in Albania and Serbia|C45]]
+- [[Asher Abehsera]] *CEO / day-to-day lead (per Kushner)* [[Zvernec Vjosa-Narta coastal project]] · [[C45 Kushner's resort projects in Albania and Serbia|C45]]

@@ -15,15 +15,15 @@ tags:
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
+- [[C56 Saudi Arabia family deals alongside US policy decisions]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Donald Trump]] *made* [[Trump Riyadh visit]] · 2025-05-13 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
+- [[Donald Trump]] *made* [[Trump Riyadh visit]] · 2025-05-13 · [[C56 Saudi Arabia family deals alongside US policy decisions|C56]]

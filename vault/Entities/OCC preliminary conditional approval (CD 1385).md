@@ -15,15 +15,15 @@ tags:
 | | |
 |---|---|
 | Type | Event |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C12 WLF bank charter from the OCC]] · Mostly accurate
+- [[C12 World Liberty's bank charter application at the OCC]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Office of the Comptroller of the Currency]] *issued* [[OCC preliminary conditional approval (CD 1385)]] · 2026-08-14 · [[C12 WLF bank charter from the OCC|C12]]
+- [[Office of the Comptroller of the Currency]] *issued* [[OCC preliminary conditional approval (CD 1385)]] · 2026-08-14 · [[C12 World Liberty's bank charter application at the OCC|C12]]

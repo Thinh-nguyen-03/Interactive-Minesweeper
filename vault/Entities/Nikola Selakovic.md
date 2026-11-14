@@ -15,15 +15,15 @@ Serbian culture minister on trial for abuse of office and forgery over lifting t
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C45 Kushner's resort projects in Albania and Serbia]] · Mostly accurate
 
 ## Relationships
 
 ### Legal (1)
 
-- [[Nikola Selakovic]] *on trial for forging documents lifting site's protection* [[Trump Tower Belgrade (General Staff site)]] · 2026-02-04 · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Nikola Selakovic]] *on trial for forging documents lifting site's protection* [[Trump Tower Belgrade (General Staff site)]] · 2026-02-04 · [[C45 Kushner's resort projects in Albania and Serbia|C45]]

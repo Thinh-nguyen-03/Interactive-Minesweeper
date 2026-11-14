@@ -15,22 +15,22 @@ Anchor investor of USA Rare Earth's $1.5B PIPE
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Anchor investor in the USAR PIPE
 - Anchor of USAR PIPE
 
-## Appears in claims
+## Appears in checks
 
-- [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
-- [[C86 Trump mega-donors holding stakes in companies that received federal backing]] · Partly accurate
+- [[C60 Government equity stakes in critical-minerals companies]] · Mostly accurate
+- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
+- [[C86 Major Trump donors with stakes in federally backed companies]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Inflection Point]] *anchored PIPE* [[USA Rare Earth]] · 2026-01-26 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Inflection Point]] *anchored PIPE* [[USA Rare Earth]] · 2026-01-26 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]

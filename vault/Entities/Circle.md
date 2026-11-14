@@ -15,15 +15,15 @@ OCC conditional charter Dec 2025
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Office of the Comptroller of the Currency]] *conditional trust charter* [[Circle]] · 2025-12-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Office of the Comptroller of the Currency]] *conditional trust charter* [[Circle]] · 2025-12-12 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]

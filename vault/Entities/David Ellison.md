@@ -15,28 +15,28 @@ CEO of Paramount Skydance / Skydance
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Paramount Skydance CEO
 
-## Appears in claims
+## Appears in checks
 
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
-- [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides]] · Mostly accurate
+- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
+- [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds]] · Mostly accurate
 
 ## Relationships
 
 ### Family (1)
 
-- [[Larry Ellison]] *father* [[David Ellison]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Larry Ellison]] *father* [[David Ellison]] · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
 
 ### Political (1)
 
-- [[David Ellison]] *visited, promised CNN changes (reported)* [[Donald Trump]] · 2025-12 · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[David Ellison]] *visited, promised CNN changes (reported)* [[Donald Trump]] · 2025-12 · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
 
 ### Commercial (1)
 
-- [[David Ellison]] *CEO of* [[Paramount Skydance]] · 2025-08 · [[C87 Silver Lake the co-investor on both the Saudi-Kushner and Abu Dhabi sides|C87]]
+- [[David Ellison]] *CEO of* [[Paramount Skydance]] · 2025-08 · [[C87 Silver Lake a co-investor with both Saudi and Abu Dhabi funds|C87]]

@@ -15,23 +15,23 @@ DRC copper-cobalt producer (Etoile, Mutoshi), sold to Virtus in 2026.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 4 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
+- [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach]] · Partly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Trafigura]] *creditor of* [[Chemaf]] · 2022 · $600M · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Trafigura]] *creditor of* [[Chemaf]] · 2022 · $600M · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
 
 ### Ownership (1)
 
-- [[Virtus Minerals]] *acquired* [[Chemaf]] · 2026-04-01 · $30M · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Virtus Minerals]] *acquired* [[Chemaf]] · 2026-04-01 · $30M · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]
 
 ### Commercial (1)
 
-- [[Buenassa]] *rival bidder for* [[Chemaf]] · 2026-01 · [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited|C75]]
+- [[Buenassa]] *rival bidder for* [[Chemaf]] · 2026-01 · [[C75 Congo minerals diplomacy Massad Boulos and Gentry Beach|C75]]

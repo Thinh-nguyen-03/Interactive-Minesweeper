@@ -15,15 +15,15 @@ Developer of the Kushner-backed Albania project; co-owner of Albania Land Develo
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C45 Kushner's Albania and Serbia developments]] · Mostly accurate
+- [[C45 Kushner's resort projects in Albania and Serbia]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Sazan Real Estate Development]] *co-owns* [[Albania Land Development]] · [[C45 Kushner's Albania and Serbia developments|C45]]
+- [[Sazan Real Estate Development]] *co-owns* [[Albania Land Development]] · [[C45 Kushner's resort projects in Albania and Serbia|C45]]

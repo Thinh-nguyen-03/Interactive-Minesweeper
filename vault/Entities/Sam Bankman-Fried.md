@@ -15,10 +15,10 @@ FTX founder; applied for a pardon in Jun 2026
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 

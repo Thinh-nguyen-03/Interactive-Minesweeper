@@ -15,21 +15,21 @@ Largest reported investor (~$375M) in TMTG's bitcoin-treasury raise
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 3 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Trading firm; 6.0% TMTG holder via PIPE
 
-## Appears in claims
+## Appears in checks
 
-- [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]] · Mostly accurate
-- [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
+- [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo]] · Mostly accurate
+- [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Jane Street]] *bought ~$375M in bitcoin-treasury raise* [[Trump Media & Technology Group]] · 2025-05 · $375M · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
-- [[Jane Street]] *acquired 6.0% via PIPE* [[Trump Media & Technology Group]] · 2025-05-29 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Jane Street]] *bought ~$375M in bitcoin-treasury raise* [[Trump Media & Technology Group]] · 2025-05 · $375M · [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo|C19]]
+- [[Jane Street]] *acquired 6.0% via PIPE* [[Trump Media & Technology Group]] · 2025-05-29 · [[C62 The financiers, custodians and underwriters behind Trump-linked vehicles|C62]]

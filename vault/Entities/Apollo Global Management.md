@@ -15,23 +15,23 @@ Private-equity firm; per a corrected NYT report it lent $100M to the Witkoff Gro
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Lender on $100M Witkoff refinancing
 
-## Appears in claims
+## Appears in checks
 
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
-- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Apollo Global Management]] *lent $100M (refinancing)* [[Witkoff Group]] · 2025-05 · $100M · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Apollo Global Management]] *lent $100M (refinancing)* [[Witkoff Group]] · 2025-05 · $100M · [[C73 Qatar's ties to people in and around the administration|C73]]
 
 ### Ownership (2)
 

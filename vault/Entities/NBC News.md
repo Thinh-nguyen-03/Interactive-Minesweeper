@@ -15,20 +15,20 @@ Reported the Daibes-Schiller payment
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 3 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Reported Daibes' $1M payment
 
-## Appears in claims
+## Appears in checks
 
-- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Mostly accurate
-- [[C83 Keith Schiller and George Sorial the ex-bodyguard and ex-executive across deals]] · Mostly accurate
+- [[C49 The market for pardon lobbying]] · Mostly accurate
+- [[C83 Keith Schiller and George Sorial's lobbying clients]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[NBC News]] *reported $1M lobbying payment* [[Fred Daibes]] · 2025 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
+- [[NBC News]] *reported $1M lobbying payment* [[Fred Daibes]] · 2025 · [[C49 The market for pardon lobbying|C49]]

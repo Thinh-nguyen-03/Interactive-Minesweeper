@@ -15,16 +15,16 @@ Thrive-created vehicle in which OpenAI took a stake on 2025-12-01.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 4 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Thrive-created vehicle; OpenAI took equity stake Dec 2025
 
-## Appears in claims
+## Appears in checks
 
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
+- [[C66 The extended family's ventures and roles]] · Partly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Relationships
@@ -35,5 +35,5 @@ Thrive-created vehicle in which OpenAI took a stake on 2025-12-01.
 
 ### Ownership (2)
 
-- [[Thrive Capital]] *created and raised $1B for* [[Thrive Holdings]] · 2025 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
-- [[OpenAI]] *took equity stake (paid in services)* [[Thrive Holdings]] · 2025-12-01 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Thrive Capital]] *created and raised $1B for* [[Thrive Holdings]] · 2025 · [[C66 The extended family's ventures and roles|C66]]
+- [[OpenAI]] *took equity stake (paid in services)* [[Thrive Holdings]] · 2025-12-01 · [[C66 The extended family's ventures and roles|C66]]

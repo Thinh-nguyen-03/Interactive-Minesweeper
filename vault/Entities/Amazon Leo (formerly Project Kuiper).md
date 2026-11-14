@@ -15,19 +15,19 @@ Amazon satellite-internet constellation; got an FCC deployment waiver in Jun 202
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 3 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C44 Amazon's $40 million Melania Trump documentary deal]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Amazon]] *operates* [[Amazon Leo (formerly Project Kuiper)]] · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Amazon]] *operates* [[Amazon Leo (formerly Project Kuiper)]] · [[C44 Amazon's $40 million Melania Trump documentary deal|C44]]
 
 ### Regulatory (1)
 
-- [[Federal Communications Commission]] *granted deployment-milestone waiver* [[Amazon Leo (formerly Project Kuiper)]] · 2026-06 · [[C44 Melania Trump's Amazon documentary deal|C44]]
+- [[Federal Communications Commission]] *granted deployment-milestone waiver* [[Amazon Leo (formerly Project Kuiper)]] · 2026-06 · [[C44 Amazon's $40 million Melania Trump documentary deal|C44]]

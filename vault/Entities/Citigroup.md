@@ -15,15 +15,15 @@ Co-arranger of the AOMC private placement
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
+- [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Citigroup]] *co-arranged private placement* [[American Ocean Minerals]] · 2026-04-08 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Citigroup]] *co-arranged private placement* [[American Ocean Minerals]] · 2026-04-08 · [[C77 Greenland, seabed mining and rare earths Cantor-linked firms and the Commerce Departme|C77]]

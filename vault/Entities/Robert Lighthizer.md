@@ -15,15 +15,15 @@ Former USTR; TMTG director until 2026-03-06.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
+- [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[Robert Lighthizer]] *resigned from board of* [[Trump Media & Technology Group]] · 2026-03-06 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Robert Lighthizer]] *resigned from board of* [[Trump Media & Technology Group]] · 2026-03-06 · [[C41 Trump Media feed subscribers, the senators' SEC request, departures and the CRO treasu|C41]]

@@ -15,15 +15,15 @@ Advisory council Sacks co-chairs after leaving the czar post
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
+- [[C34 David Sacks the AI and crypto adviser and his investments]] · Mostly accurate
 
 ## Relationships
 
 ### Advisory (1)
 
-- [[David Sacks]] *became co-chair* [[President's Council of Advisors on Science and Technology]] · 2026-03 · [[C34 David Sacks AI & crypto czar with investments|C34]]
+- [[David Sacks]] *became co-chair* [[President's Council of Advisors on Science and Technology]] · 2026-03 · [[C34 David Sacks the AI and crypto adviser and his investments|C34]]

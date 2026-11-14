@@ -8,14 +8,14 @@ tags:
 
 - A firm or founder facing SEC/CFTC action invests in, partners with or donates to a Trump venture, and the enforcement matter is dismissed, closed or settled.
 
-## Claims
+## Checks
 
-- [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
-- [[C09 Binance SEC case dropped and CZ pardon]] · Mostly accurate
-- [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]] · Mostly accurate
-- [[C22 Crypto.com and TMTG]] · Mostly accurate
-- [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
-- [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
+- [[C05 Justin Sun, World Liberty Financial and the SEC]] · Mostly accurate
+- [[C09 The dropped Binance case and the pardon of Changpeng Zhao]] · Mostly accurate
+- [[C19 The Strategic Bitcoin Reserve, Trump Media's bitcoin treasury and a Cumberland investo]] · Mostly accurate
+- [[C22 Crypto.com's deal with Trump Media]] · Mostly accurate
+- [[C23 SEC crypto cases dropped and the firms' donations]] · Mostly accurate
+- [[C25 Prediction markets, the CFTC and Donald Trump Jr]] · Mostly accurate
 
 ## People and organisations
 

@@ -15,15 +15,15 @@ TVA III director since Sep 2025
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C78 The blank-cheque companies run by Trump Media's interim chief]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Omar Hasan]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Omar Hasan]] *director of* [[Texas Ventures Acquisition III Corp]] · 2025-09 · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]]

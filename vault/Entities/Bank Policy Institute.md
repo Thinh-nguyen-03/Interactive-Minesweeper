@@ -15,15 +15,15 @@ Bank lobby group; disputed USD1 GENIUS reserve compliance
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C11 GENIUS CLARITY Acts and USD1]] · Mostly accurate
+- [[C11 The GENIUS and CLARITY Acts and the family's stablecoin]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Bank Policy Institute]] *argued reserves would not meet GENIUS rules* [[USD1]] · 2026-06 · [[C11 GENIUS CLARITY Acts and USD1|C11]]
+- [[Bank Policy Institute]] *argued reserves would not meet GENIUS rules* [[USD1]] · 2026-06 · [[C11 The GENIUS and CLARITY Acts and the family's stablecoin|C11]]

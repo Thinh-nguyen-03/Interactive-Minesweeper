@@ -15,15 +15,15 @@ Blockchain oracle firm; Lindman's previous employer
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
+- [[C54 The crypto revolving door]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Taylor Lindman]] *former deputy general counsel* [[Chainlink Labs]] · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Taylor Lindman]] *former deputy general counsel* [[Chainlink Labs]] · [[C54 The crypto revolving door|C54]]

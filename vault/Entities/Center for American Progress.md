@@ -15,15 +15,15 @@ Progressive think tank; 'Trump's Take' tracker
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C55 How much has the Trump family made Competing totals]] · Mostly accurate
+- [[C55 How much has the Trump family made Competing estimates]] · Mostly accurate
 
 ## Relationships
 
 ### Media (1)
 
-- [[Center for American Progress]] *tracks 'Trump's Take' cash and gifts (~$2.9B snapshot)* [[Donald Trump]] · 2025 · [[C55 How much has the Trump family made Competing totals|C55]]
+- [[Center for American Progress]] *tracks 'Trump's Take' cash and gifts (~$2.9B snapshot)* [[Donald Trump]] · 2025 · [[C55 How much has the Trump family made Competing estimates|C55]]

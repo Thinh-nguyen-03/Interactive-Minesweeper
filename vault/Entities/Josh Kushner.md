@@ -17,29 +17,29 @@ Thrive Capital founder; Jared Kushner's brother.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 3 claims |
+| Appears in | 3 checks |
 | Connections | 6 |
 | Also known as | Joshua Kushner |
 
-## How other claims describe it
+## How other checks describe it
 
 - Jared's brother; founder of Thrive Capital
 - Thrive Capital founder; Jared's brother
 
-## Appears in claims
+## Appears in checks
 
-- [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
-- [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos]] · Mostly accurate
+- [[C66 The extended family's ventures and roles]] · Partly accurate
+- [[C68 Tech billionaires as counterparties and beneficiaries]] · Mostly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (2)
 
-- [[Josh Kushner]] *founder of* [[Thrive Capital]] · 2009 · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]] [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
-- [[Josh Kushner]] *founder* [[Thrive Capital]] · [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
+- [[Josh Kushner]] *founder of* [[Thrive Capital]] · 2009 · [[C66 The extended family's ventures and roles|C66]] [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]
+- [[Josh Kushner]] *founder* [[Thrive Capital]] · [[C68 Tech billionaires as counterparties and beneficiaries|C68]]
 
 ### Family (2)
 
-- [[Charles Kushner]] *father of* [[Josh Kushner]] · [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Charles Kushner]] *father of* [[Josh Kushner]] · [[C66 The extended family's ventures and roles|C66]]
 - [[Josh Kushner]] *brother of* [[Jared Kushner]] · [[C81 A federal procurement chief, Thrive Capital and sole-source awards|C81]]

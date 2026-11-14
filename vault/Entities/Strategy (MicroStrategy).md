@@ -15,15 +15,15 @@ Bitcoin-treasury company; Clear Street underwrote its offerings
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C78 The blank-cheque companies run by Trump Media's interim chief]] · Mostly accurate
 
 ## Relationships
 
 ### Commercial (1)
 
-- [[Clear Street]] *underwriter of stock offerings* [[Strategy (MicroStrategy)]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
+- [[Clear Street]] *underwriter of stock offerings* [[Strategy (MicroStrategy)]] · [[C78 The blank-cheque companies run by Trump Media's interim chief|C78]]

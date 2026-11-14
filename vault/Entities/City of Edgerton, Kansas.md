@@ -15,15 +15,15 @@ Council overrode its planning commission to approve Damac's site plan; sued resi
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge]] · Mostly accurate
+- [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[City of Edgerton, Kansas]] *council overrode planning-commission denial of site plan* [[Damac Edgerton data centre]] · 2026-07-16 · [[C88 Damac and Hussain Sajwani fees for unannounced projects and the data-centre pledge|C88]]
+- [[City of Edgerton, Kansas]] *council overrode planning-commission denial of site plan* [[Damac Edgerton data centre]] · 2026-07-16 · [[C88 Damac and Hussain Sajwani licence fees and a data-centre pledge|C88]]

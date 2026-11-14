@@ -15,15 +15,15 @@ Unidentified investor that signed a term sheet with LIV in Aug 2026
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
+- [[C80 Sovereign-fund megadeals that need US approval]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[LIV Golf unnamed lead investor]] *signed term sheet as lead investor* [[LIV Golf]] · 2026-08-05 · [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42|C80]]
+- [[LIV Golf unnamed lead investor]] *signed term sheet as lead investor* [[LIV Golf]] · 2026-08-05 · [[C80 Sovereign-fund megadeals that need US approval|C80]]

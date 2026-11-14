@@ -15,32 +15,32 @@ Sun-associated exchange; on-chain source of the $30M WLFI purchase.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Exchange that received a PVARA NOC in Dec 2025.
 
-## Appears in claims
+## Appears in checks
 
-- [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
-- [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
+- [[C05 Justin Sun, World Liberty Financial and the SEC]] · Mostly accurate
+- [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[HTX (formerly Huobi)]] *on-chain buyer of $30M of* [[WLFI token]] · 2024-11-25 · $30M · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[HTX (formerly Huobi)]] *on-chain buyer of $30M of* [[WLFI token]] · 2024-11-25 · $30M · [[C05 Justin Sun, World Liberty Financial and the SEC|C05]]
 
 ### Ownership (1)
 
-- [[Justin Sun]] *closely associated with* [[HTX (formerly Huobi)]] · [[C05 Justin Sun, WLF and the SEC|C05]]
+- [[Justin Sun]] *closely associated with* [[HTX (formerly Huobi)]] · [[C05 Justin Sun, World Liberty Financial and the SEC|C05]]
 
 ### Regulatory (1)
 
-- [[Pakistan Virtual Assets Regulatory Authority]] *no-objection certificate* [[HTX (formerly Huobi)]] · 2025-12 · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Pakistan Virtual Assets Regulatory Authority]] *no-objection certificate* [[HTX (formerly Huobi)]] · 2025-12 · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]
 
 ### Advisory (1)
 
-- [[Justin Sun]] *adviser* [[HTX (formerly Huobi)]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
+- [[Justin Sun]] *adviser* [[HTX (formerly Huobi)]] · [[C72 Pakistan a World Liberty deal, lobbyists, minerals and tariffs|C72]]

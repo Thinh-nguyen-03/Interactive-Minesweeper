@@ -15,15 +15,15 @@ FCC commissioner who dissented on the Skydance approval
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
+- [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom]] · Mostly accurate
 
 ## Relationships
 
 ### Regulatory (1)
 
-- [[Anna Gomez]] *dissented on approval of* [[Skydance-Paramount merger]] · 2025-07-24 · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
+- [[Anna Gomez]] *dissented on approval of* [[Skydance-Paramount merger]] · 2025-07-24 · [[C33 Corporate lawsuit settlements and donations to Trump's library and ballroom|C33]]

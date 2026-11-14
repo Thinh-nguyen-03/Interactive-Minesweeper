@@ -15,23 +15,23 @@ Manhattan hotel bought by QIA for about $623M in Aug 2023
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 6 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Sold to QIA in 2023
 
-## Appears in claims
+## Appears in checks
 
 - [[C53 The Witkoff family's own Gulf money]] · Mostly accurate
-- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
 
 ## Relationships
 
 ### Money (2)
 
-- [[Qatar Investment Authority]] *bought (~$623M) from Witkoff-Mubadala JV* [[Park Lane Hotel (36 Central Park South)]] · 2023-08 · $623M · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Qatar Investment Authority]] *bought (~$623M) from Witkoff-Mubadala JV* [[Park Lane Hotel (36 Central Park South)]] · 2023-08 · $623M · [[C73 Qatar's ties to people in and around the administration|C73]]
 - [[Qatar Investment Authority]] *bought for ~$623M* [[Park Lane Hotel (36 Central Park South)]] · 2023-08 · $623M · [[C53 The Witkoff family's own Gulf money|C53]]
 
 ### Ownership (3)

@@ -15,22 +15,22 @@ Russian president; reportedly raised the Lukoil sale with Witkoff and Kushner on
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 5 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Russian President; awarded Kremlev Order of Friendship (Apr 2026)
 
-## Appears in claims
+## Appears in checks
 
-- [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia]] · Partly accurate
-- [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it]] · Mostly accurate
+- [[C93 Umar Kremlev, the International Boxing Association and US decisions]] · Partly accurate
+- [[C94 The sale of Lukoil's foreign assets and the Boehly consortium]] · Mostly accurate
 
 ## Relationships
 
 ### Political (3)
 
-- [[Vladimir Putin]] *awarded Order of Friendship* [[Umar Kremlev]] · 2026-04 · [[C93 Umar Kremlev, the IBA and US decisions on boxing and Russia|C93]]
-- [[Vladimir Putin]] *raised Lukoil sale at Kremlin meeting (NYT, single-source)* [[Jared Kushner]] · 2026-09-05 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
-- [[Vladimir Putin]] *raised Lukoil sale at Kremlin meeting (NYT, single-source)* [[Steve Witkoff]] · 2026-09-05 · [[C94 The Lukoil foreign-assets sale Boehly's consortium and who is in it|C94]]
+- [[Vladimir Putin]] *awarded Order of Friendship* [[Umar Kremlev]] · 2026-04 · [[C93 Umar Kremlev, the International Boxing Association and US decisions|C93]]
+- [[Vladimir Putin]] *raised Lukoil sale at Kremlin meeting (NYT, single-source)* [[Jared Kushner]] · 2026-09-05 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]
+- [[Vladimir Putin]] *raised Lukoil sale at Kremlin meeting (NYT, single-source)* [[Steve Witkoff]] · 2026-09-05 · [[C94 The sale of Lukoil's foreign assets and the Boehly consortium|C94]]

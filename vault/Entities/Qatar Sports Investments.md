@@ -15,15 +15,15 @@ QIA-linked owner of PSG
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
+- [[C73 Qatar's ties to people in and around the administration]] · Mostly accurate
 
 ## Relationships
 
 ### Money (1)
 
-- [[Colony Capital]] *sold PSG to* [[Qatar Sports Investments]] · 2011-05 · [[C73 Qatar's access network inside and around the administration|C73]]
+- [[Colony Capital]] *sold PSG to* [[Qatar Sports Investments]] · 2011-05 · [[C73 Qatar's ties to people in and around the administration|C73]]

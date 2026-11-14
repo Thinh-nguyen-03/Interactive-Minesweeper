@@ -15,17 +15,17 @@ Recipient of Khanna's 4 Feb 2026 referral.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 2 claims |
+| Appears in | 2 checks |
 | Connections | 3 |
 
-## How other claims describe it
+## How other checks describe it
 
 - Recipient of Khanna's Feb 2026 letter
 
-## Appears in claims
+## Appears in checks
 
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
-- [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Mostly accurate
+- [[C82 Abu Dhabi unannounced Trump licensing entities and StringZ]] · Mostly accurate
 
 ## Relationships
 
@@ -35,4 +35,4 @@ Recipient of Khanna's 4 Feb 2026 referral.
 
 ### Legal (1)
 
-- [[Ro Khanna]] *referred Emirati WLF investor's Delaware domicile to* [[US Attorney for the District of Delaware (Benjamin Wallace)]] · 2026-02-04 · [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr|C82]]
+- [[Ro Khanna]] *referred Emirati WLF investor's Delaware domicile to* [[US Attorney for the District of Delaware (Benjamin Wallace)]] · 2026-02-04 · [[C82 Abu Dhabi unannounced Trump licensing entities and StringZ|C82]]

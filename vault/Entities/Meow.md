@@ -15,15 +15,15 @@ Pseudonymous Jupiter founder and Meteora co-founder
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)]] · Mostly accurate
+- [[C40 Who ran the $TRUMP and $MELANIA launches]] · Mostly accurate
 
 ## Relationships
 
 ### Ownership (1)
 
-- [[Meow]] *co-founder; ordered Fenwick & West review* [[Meteora]] · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
+- [[Meow]] *co-founder; ordered Fenwick & West review* [[Meteora]] · [[C40 Who ran the $TRUMP and $MELANIA launches|C40]]

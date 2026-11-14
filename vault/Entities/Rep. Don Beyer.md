@@ -15,15 +15,15 @@ Democratic congressman who disputed the blind-trust claim
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 2 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C20 Trump's stock purchases and Truth Social posts]] · Mostly accurate
+- [[C20 Trump's securities purchases and his Truth Social posts]] · Mostly accurate
 
 ## Relationships
 
 ### Political (1)
 
-- [[Rep. Don Beyer]] *disputed blind-trust claim by* [[Eric Trump]] · 2026 · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Rep. Don Beyer]] *disputed blind-trust claim by* [[Eric Trump]] · 2026 · [[C20 Trump's securities purchases and his Truth Social posts|C20]]

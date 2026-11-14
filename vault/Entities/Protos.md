@@ -15,9 +15,9 @@ Reported SRM's 67% rise before the Tron deal.
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 1 claim |
+| Appears in | 1 check |
 | Connections | 1 |
 
-## Appears in claims
+## Appears in checks
 
-- [[C91 Dominari option grants, pre-announcement trading and the Trump sons' arrival]] · Mostly accurate
+- [[C91 Dominari option grants and trading before the Trump sons' arrival]] · Mostly accurate
