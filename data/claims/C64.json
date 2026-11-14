@@ -793,6 +793,12 @@
    "description": "Justin Sun-linked organization; registered lobbying"
   },
   {
+   "id": "justin-sun",
+   "name": "Justin Sun",
+   "type": "person",
+   "description": "Tron founder; WLF investor"
+  },
+  {
    "id": "pam-bondi-jet-memo",
    "name": "DOJ memo on the Qatari jet",
    "type": "event",
