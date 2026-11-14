@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Unusual Machines (UMAC)"
-connections: 11
-claims: 3
+connections: 12
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -24,6 +24,7 @@ Orlando-based NYSE-listed maker of NDAA-compliant drone parts and motors.
 - [[C26 1789 Capital and Vulcan Elements]] · Mostly accurate
 - [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Pending
 
 ## Relationships
 

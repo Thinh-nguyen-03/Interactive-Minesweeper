@@ -2,8 +2,8 @@
 id: "matthew-cole"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -17,6 +17,7 @@ National-security journalist; author of 'Princes and Thieves', the sole source o
 ## Appears in claims
 
 - [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Pending
 
 ## Relationships
 

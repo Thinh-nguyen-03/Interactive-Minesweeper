@@ -566,7 +566,7 @@ def assemble(claims, order, entities, rels, claim_ents, themes):
         n.update({"key": "e:" + eid, "kind": "entity", "hash": uniq_hash(eid)})
         nodes.append(n)
     for t in themes:
-        n = {"key": "t:" + t["id"], "kind": "theme", "hash": uniq_hash("theme-" + t["id"]),
+        n = {"key": "t:" + t["id"], "kind": "theme", "hash": uniq_hash(t["id"] if t["id"].startswith("theme-") else "theme-" + t["id"]),
              "id": t["id"], "name": t["name"], "description": t["description"],
              "claims": t["claims"], "entities": ["e:" + e for e in t["entities"]]}
         nodes.append(n)

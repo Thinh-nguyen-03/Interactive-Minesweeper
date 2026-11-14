@@ -25,6 +25,7 @@ tags:
 
 - [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
+- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Pending
 
 ## Summary
 

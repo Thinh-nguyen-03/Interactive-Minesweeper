@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "CFTC"
-connections: 23
-claims: 4
+connections: 24
+claims: 5
 tags:
   - "entity"
   - "type/government"
@@ -27,6 +27,7 @@ Commodities regulator overseeing prediction markets, chaired by Mike Selig.
 - [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
 - [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Pending
 
 ## Relationships
 

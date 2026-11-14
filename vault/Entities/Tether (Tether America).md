@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Tether"
-connections: 11
-claims: 3
+connections: 12
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -24,6 +24,7 @@ Stablecoin issuer; Tether America listed as a ballroom donor
 - [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Pending
 
 ## Relationships
 

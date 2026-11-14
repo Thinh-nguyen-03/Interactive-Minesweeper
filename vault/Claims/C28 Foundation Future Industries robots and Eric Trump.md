@@ -24,6 +24,7 @@ tags:
 ## Follow-up checks
 
 - [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Pending
 
 ## Summary
 

@@ -2,8 +2,8 @@
 id: "roger-stone"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -17,6 +17,7 @@ Trump ally; paid $600K by Ver to lobby
 ## Appears in claims
 
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Pending
 
 ## Relationships
 

@@ -28,6 +28,10 @@ tags:
 - [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8]]
 - [[C27 New America Acquisition I Corp SPAC]]
 
+## Follow-up checks
+
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Pending
+
 ## Summary
 
 The core facts hold: Don Jr. and Eric Trump joined Trump Tower-based Dominari Holdings as advisers on Feb. 10-11, 2025. Each took about a 6.7% stake (roughly 13% combined) through share grants and a $3.47 private placement, and DOMH soared. Dominari co-formed American Data Centers/American Bitcoin with them and co-led their SPAC's IPO, with president Kyle Wool on the SPAC board. The brief overreaches in two places. Most of DOMH's spike came before the announcement. Thumzup and GrabAGun fell rather than spiked on the Trump news. No SEC or FINRA action against Dominari or the sons is documented; the scrutiny on record is a March 2026 House China committee letter on Dominari's Chinese IPOs and a 2026 FINRA fine on Wool's former firm, Revere.

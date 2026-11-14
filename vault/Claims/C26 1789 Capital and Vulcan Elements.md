@@ -25,6 +25,7 @@ tags:
 
 - [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)]] · Partly accurate
 - [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma]] · Mostly accurate
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Pending
 
 ## Summary
 

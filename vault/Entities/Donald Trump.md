@@ -6,8 +6,8 @@ aliases:
   - "Donald J. Trump"
   - "Trump"
   - "the president"
-connections: 145
-claims: 44
+connections: 151
+claims: 50
 tags:
   - "entity"
   - "type/person"
@@ -70,6 +70,12 @@ US president; the video alleges he and his family made billions from regulated i
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C45 Kushner's Albania and Serbia developments]] · Pending
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Pending
+- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Pending
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Pending
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Pending
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Pending
 
 ## Relationships
 

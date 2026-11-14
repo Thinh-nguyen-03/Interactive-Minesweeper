@@ -4,8 +4,8 @@ kind: "entity"
 type: "fund"
 aliases:
   - "Affinity"
-connections: 12
-claims: 2
+connections: 13
+claims: 3
 tags:
   - "entity"
   - "type/fund"
@@ -23,6 +23,7 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 
 - [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
 - [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C45 Kushner's Albania and Serbia developments]] · Pending
 
 ## Relationships
 

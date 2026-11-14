@@ -2,8 +2,8 @@
 id: "ches-mcdowell"
 kind: "entity"
 type: "person"
-connections: 4
-claims: 1
+connections: 5
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -17,6 +17,7 @@ Lobbyist (Checkmate Government Relations); friend of Trump Jr.
 ## Appears in claims
 
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Pending
 
 ## Relationships
 

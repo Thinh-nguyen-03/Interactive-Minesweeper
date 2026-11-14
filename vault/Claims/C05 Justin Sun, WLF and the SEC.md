@@ -24,6 +24,7 @@ tags:
 ## Follow-up checks
 
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Pending
 
 ## Summary
 

@@ -30,6 +30,10 @@ tags:
 - [[C22 Crypto.com and TMTG]]
 - [[C09 Binance SEC case dropped and CZ pardon]]
 
+## Follow-up checks
+
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Pending
+
 ## Summary
 
 The overlap is documented. The NYT (Dec 14, 2025, known only secondhand here) found the SEC eased about 60% of the crypto cases it inherited (reportedly 14 of 23), against roughly 4% for other cases, with Trump-tied firms common among them. Robinhood gave $2M to the inauguration and had its SEC crypto probe closed. Public Citizen counts hundreds of halted corporate actions, 23 of them crypto. Gemini gave 1.5M USDC to MAGA Inc. Causation is not shown: firms with no known Trump donations (Uniswap, OpenSea, Yuga, Immutable) got the same treatment, the NYT found no evidence of direct pressure, and the SEC and Atkins deny political influence. The fee for Crypto.com's Trump-linked lobbyist (Jeff Miller) is unconfirmed.

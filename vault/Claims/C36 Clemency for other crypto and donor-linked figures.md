@@ -28,6 +28,10 @@ tags:
 - [[C09 Binance SEC case dropped and CZ pardon]]
 - [[C23 SEC drops crypto-exchange cases; donors]]
 
+## Follow-up checks
+
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Pending
+
 ## Summary
 
 Trump pardoned Ross Ulbricht (Jan 21, 2025), BitMEX's Hayes, Delo, Reed and Dwyer plus the operator HDR Global Trading (Mar 27, 2025), and Nikola founder Trevor Milton (Mar 28, 2025), who with his wife gave more than $1.8M in October 2024. The DOJ disbanded the NCET on Apr 7, 2025, and Binance paid lobbyists including Ches McDowell ($450K) and Teresa Goody Guillén (about $290K) for the CZ pardon. Roger Ver got a DOJ deferred prosecution deal (about $50M paid), not clemency. No evidence shows that any grant was bought.

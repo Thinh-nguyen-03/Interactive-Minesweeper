@@ -2,8 +2,8 @@
 id: "kyle-wool"
 kind: "entity"
 type: "person"
-connections: 5
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -20,6 +20,7 @@ President of Dominari Holdings and head of Dominari Securities; former Revere Se
 
 - [[C27 New America Acquisition I Corp SPAC]] · Mostly accurate
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Pending
 
 ## Relationships
 

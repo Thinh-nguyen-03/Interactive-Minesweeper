@@ -6,8 +6,8 @@ aliases:
   - "Abu Dhabi"
   - "Dubai"
   - "UAE"
-connections: 31
-claims: 12
+connections: 32
+claims: 13
 tags:
   - "entity"
   - "type/country"
@@ -38,6 +38,7 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[C31 Trump Organization Gulf real-estate deals (Dar Global)]] · Mostly accurate
 - [[C37 Jared Kushner's hacked phone]] · Unverified
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Pending
 
 ## Relationships
 

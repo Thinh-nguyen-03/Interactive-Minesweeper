@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "Don Jr."
   - "Trump Jr."
-connections: 49
-claims: 20
+connections: 50
+claims: 21
 tags:
   - "entity"
   - "type/person"
@@ -45,6 +45,7 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Pending
 
 ## Relationships
 

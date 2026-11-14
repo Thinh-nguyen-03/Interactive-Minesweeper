@@ -30,6 +30,10 @@ tags:
 - [[C08 UAE AI chips deal, Stargate, currency swap]]
 - [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson]]
 
+## Follow-up checks
+
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Pending
+
 ## Summary
 
 The financial ties are well documented. Cantor custodies Tether's Treasury reserves and holds a $600M convertible bond convertible into ~5% of Tether, negotiated in 2024 under Lutnick. Lutnick's Cantor interests passed to trusts for his children in May 2025 (Brandon Lutnick is chairman and CEO), and Bloomberg reported that Tether lent to one of those trusts. Cantor's SPAC took the Tether/Bitfinex/SoftBank-backed Twenty One Capital public, and Cantor is custodian for Tether's GENIUS-compliant USAT. No policy action by Lutnick or Commerce benefiting Tether is documented, and no link between Tether and chip-export licences was found.

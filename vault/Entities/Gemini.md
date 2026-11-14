@@ -2,8 +2,8 @@
 id: "gemini"
 kind: "entity"
 type: "company"
-connections: 8
-claims: 3
+connections: 9
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -23,6 +23,7 @@ Crypto exchange whose SEC case was dropped.
 - [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
 - [[C33 Corporate settlements and donations to Trump's library and ballroom]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Pending
 
 ## Relationships
 

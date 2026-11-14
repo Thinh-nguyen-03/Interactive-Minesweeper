@@ -2,8 +2,8 @@
 id: "first-abu-dhabi-bank"
 kind: "entity"
 type: "company"
-connections: 3
-claims: 1
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/company"
@@ -17,6 +17,7 @@ UAE bank where the alleged foundation account sat (Dubai).
 ## Appears in claims
 
 - [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Pending
 
 ## Relationships
 

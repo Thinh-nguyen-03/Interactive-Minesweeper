@@ -30,6 +30,10 @@ tags:
 - [[C27 New America Acquisition I Corp SPAC]]
 - [[C28 Foundation Future Industries robots and Eric Trump]]
 
+## Follow-up checks
+
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Pending
+
 ## Summary
 
 Unusual Machines is the strongest example. Don Jr. joined its advisory board on Nov 27, 2024 with 331,580 shares, and in Oct 2025 the company announced its largest Army order (3,500 drone motors, value undisclosed); in 2026 it was reported to be negotiating a Pentagon equity stake. Of the 1789 Capital portfolio companies, only Firehawk has documented federal awards after 1789 led its $60M Series C, and they are small. For Anduril, SpaceX, xAI and Cerebras, no contract or policy benefit timed to Don Jr.'s involvement was found. The Executive Branch club is a real Don Jr./1789 venture with no documented federal benefit. Every side denies intervention, and no reporting shows any.

@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "CZ"
   - "Changpeng Zhao (CZ)"
-connections: 12
-claims: 5
+connections: 13
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -30,6 +30,7 @@ Binance founder and ultimate beneficial owner; pardoned by Trump.
 - [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Pending
 
 ## Relationships
 

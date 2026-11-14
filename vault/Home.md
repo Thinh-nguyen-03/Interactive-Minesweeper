@@ -5,7 +5,7 @@ tags:
 ---
 # Trump Claims Map
 
-A fact-check of 30 claims made in Coffeezilla, “Investigating The President”, plus 14 follow-up leads the video did not cover. Each claim was checked independently against public records and reporting. Open the graph view to explore.
+A fact-check of 30 claims made in Coffeezilla, “Investigating The President”, plus 22 follow-up leads the video did not cover. Each claim was checked independently against public records and reporting. Open the graph view to explore.
 
 Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
@@ -15,6 +15,7 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - Mostly accurate: 40
 - Partly accurate: 1
 - Unverified: 1
+- Pending: 8
 
 ## Claims
 
@@ -62,6 +63,14 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C45 Kushner's Albania and Serbia developments]] · Pending
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Pending
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Pending
+- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Pending
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Pending
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Pending
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Pending
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Pending
 
 ## Themes
 
@@ -82,28 +91,28 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 
 ## Most connected
 
-- [[Donald Trump]] (44 claims, 145 connections)
+- [[Donald Trump]] (50 claims, 151 connections)
 - [[World Liberty Financial]] (19 claims, 70 connections)
 - [[Securities and Exchange Commission]] (17 claims, 61 connections)
-- [[White House Trump administration]] (30 claims, 51 connections)
-- [[Donald Trump Jr]] (20 claims, 49 connections)
-- [[Eric Trump]] (22 claims, 45 connections)
+- [[White House Trump administration]] (31 claims, 52 connections)
+- [[Donald Trump Jr]] (21 claims, 50 connections)
+- [[Eric Trump]] (25 claims, 48 connections)
 - [[Trump Media & Technology Group]] (11 claims, 41 connections)
 - [[US Congress]] (19 claims, 35 connections)
 - [[Coffeezilla]] (14 claims, 33 connections)
 - [[Elizabeth Warren]] (14 claims, 33 connections)
-- [[United Arab Emirates]] (12 claims, 31 connections)
-- [[Jared Kushner]] (3 claims, 25 connections)
+- [[United Arab Emirates]] (13 claims, 32 connections)
+- [[Jared Kushner]] (5 claims, 27 connections)
+- [[Commodity Futures Trading Commission]] (5 claims, 24 connections)
+- [[Crypto.com]] (7 claims, 24 connections)
 - [[$TRUMP meme coin]] (7 claims, 24 connections)
 - [[Trump Organization]] (11 claims, 24 connections)
 - [[USD1]] (10 claims, 24 connections)
 - [[The Wall Street Journal]] (12 claims, 24 connections)
-- [[Commodity Futures Trading Commission]] (4 claims, 23 connections)
-- [[Crypto.com]] (6 claims, 23 connections)
 - [[Molly White]] (12 claims, 23 connections)
 - [[ALT5 Sigma]] (4 claims, 22 connections)
+- [[Binance]] (8 claims, 22 connections)
 - [[Steve Witkoff]] (8 claims, 22 connections)
-- [[Binance]] (7 claims, 21 connections)
 - [[Dominari Holdings Dominari Securities]] (3 claims, 21 connections)
-- [[Justin Sun]] (7 claims, 20 connections)
+- [[Justin Sun]] (8 claims, 21 connections)
 - [[$MELANIA meme coin]] (5 claims, 18 connections)

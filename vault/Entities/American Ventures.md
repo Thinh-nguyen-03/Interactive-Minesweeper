@@ -2,8 +2,8 @@
 id: "american-ventures"
 kind: "entity"
 type: "fund"
-connections: 4
-claims: 1
+connections: 5
+claims: 2
 tags:
   - "entity"
   - "type/fund"
@@ -17,6 +17,7 @@ $1B Dominari-created microcap investment vehicle (about 90% Dominari-owned) with
 ## Appears in claims
 
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Pending
 
 ## Relationships
 

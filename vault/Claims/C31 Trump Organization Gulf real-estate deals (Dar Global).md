@@ -28,6 +28,10 @@ tags:
 - [[C16 Qatar jet, arms sales and golf deal]]
 - [[C15 Jared Kushner and Affinity Partners]]
 
+## Follow-up checks
+
+- [[C45 Kushner's Albania and Serbia developments]] · Pending
+
 ## Summary
 
 The Trump Organization does have a large and growing set of Trump-branded tower, hotel and golf licensing deals in the Gulf, mostly with Dar Global, the London-listed international arm of Saudi developer Dar Al Arkan. They are in Oman, Jeddah (two), Dubai, Qatar and Riyadh/Diriyah, and the licensing income runs to tens of millions of dollars a year. The brief overreaches on timing: Oman (2022), Trump Tower Jeddah (July 2024) and the first Dubai announcement (July 2024) came before the 2024 election. It also blurs the pledge. The 'no new foreign deals' promise belonged to the first term only. The January 2025 second-term policy bars deals with foreign governments but explicitly allows deals with private foreign companies. I found no Abu Dhabi deal, only talk of one.

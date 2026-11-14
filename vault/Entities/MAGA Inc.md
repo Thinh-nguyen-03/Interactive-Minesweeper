@@ -2,8 +2,8 @@
 id: "maga-inc"
 kind: "entity"
 type: "fund"
-connections: 9
-claims: 3
+connections: 10
+claims: 4
 tags:
   - "entity"
   - "type/fund"
@@ -22,6 +22,7 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 - [[C22 Crypto.com and TMTG]] · Mostly accurate
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Pending
 
 ## Relationships
 

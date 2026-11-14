@@ -25,6 +25,7 @@ tags:
 
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Pending
 
 ## Summary
 

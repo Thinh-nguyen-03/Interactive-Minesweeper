@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Sun"
-connections: 20
-claims: 7
+connections: 21
+claims: 8
 tags:
   - "entity"
   - "type/person"
@@ -31,6 +31,7 @@ Crypto entrepreneur (Tron); $75M WLF investor and adviser while charged by the S
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Pending
 
 ## Relationships
 

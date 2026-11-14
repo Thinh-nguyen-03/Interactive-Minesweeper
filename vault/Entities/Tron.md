@@ -6,8 +6,8 @@ aliases:
   - "Sun's company"
   - "Tron (TRON DAO / Tron Foundation)"
   - "Tron Foundation"
-connections: 6
-claims: 3
+connections: 7
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -27,6 +27,7 @@ Justin Sun's company, which the SEC settled with.
 - [[C04 World Liberty Financial founding and token sale]] · Mostly accurate
 - [[C05 Justin Sun, WLF and the SEC]] · Mostly accurate
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Pending
 
 ## Relationships
 

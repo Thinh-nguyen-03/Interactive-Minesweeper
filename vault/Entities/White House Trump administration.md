@@ -6,8 +6,8 @@ aliases:
   - "The White House"
   - "Trump administration"
   - "White House"
-connections: 51
-claims: 30
+connections: 52
+claims: 31
 tags:
   - "entity"
   - "type/government"
@@ -56,6 +56,7 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
 - [[C44 Melania Trump's Amazon documentary deal]] · Mostly accurate
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Pending
 
 ## Relationships
 

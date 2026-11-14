@@ -2,8 +2,8 @@
 id: "trevor-milton"
 kind: "entity"
 type: "person"
-connections: 5
-claims: 1
+connections: 6
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -17,6 +17,7 @@ Nikola founder convicted of fraud; Trump donor; pardoned Mar 2025
 ## Appears in claims
 
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
+- [[C49 The pardon-lobbying market and post-pardon SEC dismissals]] · Pending
 
 ## Relationships
 

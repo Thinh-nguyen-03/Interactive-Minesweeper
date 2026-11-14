@@ -28,6 +28,10 @@ tags:
 - [[C23 SEC drops crypto-exchange cases; donors]]
 - [[C16 Qatar jet, arms sales and golf deal]]
 
+## Follow-up checks
+
+- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Pending
+
 ## Summary
 
 The settlement amounts and recipients are well documented: ABC $15M and Meta ~$22M of $25M and Paramount $16M (less fees) to the Trump library; X ~$10M (press-reported); YouTube $22M of $24.5M to the ballroom via the Trust for the National Mall. The Oct 2025 White House ballroom donor list does include Coinbase, Ripple, Tether America and both Winklevoss twins, but discloses no amounts. Favorable regulatory outcomes followed for several payers/donors (FCC approval of Skydance-Paramount three weeks after the settlement; SEC dismissals for Coinbase, Gemini, Ripple appeal), but no quid pro quo is documented and the companies deny any link.

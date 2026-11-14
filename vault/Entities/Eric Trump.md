@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Eric"
-connections: 45
-claims: 22
+connections: 48
+claims: 25
 tags:
   - "entity"
   - "type/person"
@@ -46,6 +46,9 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[C37 Jared Kushner's hacked phone]] · Unverified
 - [[C39 Dominari Holdings and the Trump sons' small-cap network]] · Mostly accurate
 - [[C42 How World Liberty insiders took money out]] · Mostly accurate
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Pending
+- [[C48 Trump presidential library foundation settlement money, Miami land, IRS status]] · Pending
+- [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme]] · Pending
 
 ## Relationships
 

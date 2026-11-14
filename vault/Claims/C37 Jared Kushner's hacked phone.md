@@ -26,6 +26,11 @@ tags:
 
 - [[C15 Jared Kushner and Affinity Partners]]
 
+## Follow-up checks
+
+- [[C45 Kushner's Albania and Serbia developments]] · Pending
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Pending
+
 ## Summary
 
 One specific allegation exists, but it rests on a single source. Matthew Cole's book 'Princes and Thieves', excerpted by Vanity Fair on 22 Oct 2026, says Russia's GRU hacked Kushner's personal iPhone in 2017-18 and that Dutch military intelligence (MIVD) gained screen-image access via a turned GRU hacker, seeing him log into a roughly $750M UAE/Saudi-funded account at First Abu Dhabi Bank. No government has confirmed it: the MIVD declined comment, and Kushner, his lawyer and Trump deny it. The firmly documented incident is narrower: in Oct 2024 Chinese Salt Typhoon hackers targeted Kushner's phone and call data via US telecoms, with no public evidence that his data was taken.

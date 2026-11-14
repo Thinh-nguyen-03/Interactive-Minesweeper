@@ -2,8 +2,8 @@
 id: "iran"
 kind: "entity"
 type: "country"
-connections: 10
-claims: 6
+connections: 11
+claims: 7
 tags:
   - "entity"
   - "type/country"
@@ -28,6 +28,7 @@ Country the US went to war with; 'Iran crisis'.
 - [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
 - [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Pending
 
 ## Relationships
 

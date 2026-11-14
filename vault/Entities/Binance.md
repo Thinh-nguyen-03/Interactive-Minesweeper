@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Binance US"
-connections: 21
-claims: 7
+connections: 22
+claims: 8
 tags:
   - "entity"
   - "type/company"
@@ -31,6 +31,7 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[C23 SEC drops crypto-exchange cases; donors]] · Mostly accurate
 - [[C36 Clemency for other crypto and donor-linked figures]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Pending
 
 ## Relationships
 

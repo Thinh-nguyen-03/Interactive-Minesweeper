@@ -973,5 +973,11 @@
     if (mq.addEventListener) mq.addEventListener('change', retheme); else if (mq.addListener) mq.addListener(retheme);
     if (narrow.addEventListener) narrow.addEventListener('change', function () { renderPanel(); if (!narrow.matches) openPanel(false); else if (state.sel) openPanel(true); resize(); });
   }
+  // small hook for automated checks: where a node is drawn, in page coordinates
+  window.__dbg = function (key) {
+    var n = byKey.get(key); if (!n) return null;
+    var b = canvas.getBoundingClientRect();
+    return { x: b.left + n.x * T.k + T.x, y: b.top + n.y * T.k + T.y, k: T.k, vis: n.vis };
+  };
   init();
 })();

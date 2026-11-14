@@ -25,6 +25,7 @@ tags:
 
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Pending
 
 ## Summary
 

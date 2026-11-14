@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Crypto.com (Foris DAX)"
-connections: 23
-claims: 6
+connections: 24
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -30,6 +30,7 @@ Crypto exchange; SEC probe closed; bought $50M of TMTG stock; CFTC amicus; trust
 - [[C25 Prediction markets, CFTC and Don Jr]] · Mostly accurate
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Pending
 
 ## Relationships
 

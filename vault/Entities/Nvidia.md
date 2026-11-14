@@ -2,8 +2,8 @@
 id: "nvidia"
 kind: "entity"
 type: "company"
-connections: 8
-claims: 4
+connections: 9
+claims: 5
 tags:
   - "entity"
   - "type/company"
@@ -24,6 +24,7 @@ Maker of the advanced AI chips exported to the UAE
 - [[C20 Trump's stock purchases and Truth Social posts]] · Mostly accurate
 - [[C34 David Sacks AI & crypto czar with investments]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald and Tether]] · Mostly accurate
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Pending
 
 ## Relationships
 

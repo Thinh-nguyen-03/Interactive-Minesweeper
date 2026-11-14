@@ -2,8 +2,8 @@
 id: "jeff-miller"
 kind: "entity"
 type: "person"
-connections: 6
-claims: 1
+connections: 7
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -17,6 +17,7 @@ Miller Strategies lobbyist; GOP fundraiser and finance chair of Trump's inaugura
 ## Appears in claims
 
 - [[C43 Systematic overlap between dropped enforcement and Trump donors]] · Mostly accurate
+- [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit]] · Pending
 
 ## Relationships
 

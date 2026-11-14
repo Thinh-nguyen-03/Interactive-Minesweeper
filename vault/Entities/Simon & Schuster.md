@@ -2,8 +2,8 @@
 id: "simon-and-schuster"
 kind: "entity"
 type: "company"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/company"
@@ -17,6 +17,7 @@ Publisher of 'Princes and Thieves'; Kushner's counsel say they warned it on 30 J
 ## Appears in claims
 
 - [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Pending
 
 ## Relationships
 

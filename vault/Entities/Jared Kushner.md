@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Kushner"
-connections: 25
-claims: 3
+connections: 27
+claims: 5
 tags:
   - "entity"
   - "type/person"
@@ -25,6 +25,8 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[C15 Jared Kushner and Affinity Partners]] · Mostly accurate
 - [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
 - [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C45 Kushner's Albania and Serbia developments]] · Pending
+- [[C46 The alleged Kushner Gulf accounts Azerbaijan route, 'Beta' account, Gabbard complaint]] · Pending
 
 ## Relationships
 

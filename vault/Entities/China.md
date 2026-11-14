@@ -2,8 +2,8 @@
 id: "china"
 kind: "entity"
 type: "country"
-connections: 7
-claims: 4
+connections: 9
+claims: 6
 tags:
   - "entity"
   - "type/country"
@@ -25,6 +25,8 @@ Rival invoked to justify the family's crypto and robotics ventures.
 - [[C26 1789 Capital and Vulcan Elements]] · Mostly accurate
 - [[C28 Foundation Future Industries robots and Eric Trump]] · Mostly accurate
 - [[C37 Jared Kushner's hacked phone]] · Unverified
+- [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs]] · Pending
+- [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council]] · Pending
 
 ## Relationships
 
