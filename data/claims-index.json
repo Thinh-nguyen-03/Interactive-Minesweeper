@@ -710,5 +710,165 @@
   "claim": "Connection hunt: the foreign business partners of the Trump family and what their countries or companies obtained from the US government in the same period \u2014 Hussain Sajwani/Damac ($20B data-centre pledge; Trump licence fees), Dar Global/Dar Al Arkan (Saudi), Qatari Diar/QIA, Hary Tanoesoedibjo/MNC (Indonesia tariff deal), Kinh Bac/Vietnam (tariffs), Indian licensees (Tribeca/Mehta), Aryam/MGX/G42 (chips), Binance/CZ (pardon), Bilt? Serbian and Albanian governments, Pakistan (WLF deal with Pakistan Crypto Council; tariff/treatment; Powerus order), El Salvador, Azerbaijan, Kazakhstan (tungsten), Japan's Metaplanet/SoftBank. For each: the deal with the family, date, value, and the US decision, with denials.",
   "origin": "connection-hunt",
   "parents": []
+ },
+ {
+  "id": "C71",
+  "slug": "wlfi-foreign-buyers-zhou-web3port",
+  "lines": "",
+  "title": "Who actually bought World Liberty tokens: Zhou, Web3Port, Aqua 1 and foreign wallets",
+  "claim": "Second-layer hunt from C67/C42: the NYT reported that Web3Port and 'UAE fund' Aqua 1 ($100M WLFI purchase) trace to Chinese businessman Guren 'Bobby' Zhou (arrested in the UK in 2021 on suspicion of money laundering; uncharged); Web3Port's role in the MOVE token dump and WLF's own MOVE purchases; Reuters' finding that 36 of the 50 largest WLFI wallets are likely foreign-controlled (~$804M); DWF Labs; who funded the purchases; whether any US agency (CFIUS, Treasury, SEC) reviewed them; how much flowed to Trump-family entities per purchase.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C67",
+   "C42",
+   "C04"
+  ]
+ },
+ {
+  "id": "C72",
+  "slug": "pakistan-wlf-lobbyists-minerals",
+  "lines": "",
+  "title": "Pakistan: World Liberty deal, Trump-tied lobbyists, minerals and tariffs",
+  "claim": "Second-layer hunt from C64/C70: in April-May 2025 Pakistan hired Trump-tied lobbyists (Javelin Advisors/Keith Schiller and George Sorial, Seiden Law, Checkmate) as WLF's founders signed a letter of intent with the Pakistan Crypto Council (26 Apr 2025; its CEO Bilal bin Saqib became a WLF adviser) days after the Pahalgam attack; then the India-Pakistan ceasefire, Field Marshal Munir's White House lunch (18 Jun 2025), a US-Pakistan trade/oil deal and 19% tariff, minerals deals (USSM), a Jan 2026 USD1 payments agreement, and a reported Powerus drone order. Build the dated chain, name every intermediary, and grade each link.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C64",
+   "C67",
+   "C51"
+  ]
+ },
+ {
+  "id": "C73",
+  "slug": "qatar-access-network",
+  "lines": "",
+  "title": "Qatar's access network inside and around the administration",
+  "claim": "Second-layer hunt from C61/C64/C65/C53/C16: map every documented Qatari financial or client tie to people now in or around the administration \u2014 Pam Bondi (Ballard FARA work), Kash Patel (embassy consulting), Bernard Kerik (hired Apr 2025), Susie Wiles (Mercury), Steve Witkoff (Park Lane sale to QIA; Apollo-run trust partly owned by Qatar putting $100M into Witkoff Group in 2025), Jared Kushner (QIA in Affinity; 666 Fifth history), Tom Barrack (Qatar's UCC in the pipeline consortium), Trump Organization (Qatari Diar golf), Newsmax/other media investments \u2014 against US decisions benefiting Qatar (jet acceptance, security guarantee executive order of Oct 2025, arms sales, Al Udeid, air-force facility in Idaho). Dated, graded.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C16",
+   "C53",
+   "C61",
+   "C64",
+   "C65"
+  ]
+ },
+ {
+  "id": "C74",
+  "slug": "pentagon-cerberus-investment-offices",
+  "lines": "",
+  "title": "Pentagon investment offices: Cerberus alumni, no-bid contracts and the Trump sons' SPAC underwriter",
+  "claim": "Second-layer hunt from C65/C51/C26: Deputy Secretary Stephen Feinberg (Cerberus co-founder) and ex-Cerberus officials running the Office of Strategic Capital (David Lorch) and related offices (George Kollitides); Alvarez & Marsal's no-bid contracts (up to ~$350M); Cerberus-linked firms winning Golden Dome work; Kollitides' board seat at D. Boral Acquisition I, whose affiliate co-underwrote the Trump sons' New America SPAC; OSC loans to Vulcan (1789), Neros, PDW and talks with Unusual Machines (Don Jr.). Verify each role, date and contract and whether any recusal exists.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C65",
+   "C51",
+   "C26",
+   "C47"
+  ]
+ },
+ {
+  "id": "C75",
+  "slug": "congo-minerals-boulos-beach",
+  "lines": "",
+  "title": "Congo minerals diplomacy: Boulos, Gentry Beach and the firms that benefited",
+  "claim": "Second-layer hunt from C66/C65/C60: Massad Boulos led US minerals-for-security talks with DRC and Rwanda (peace accord June/Dec 2025); Gentry Beach (Don Jr. friend and fundraiser; America First Global) reportedly sought DRC mining assets (e.g. Rubaya coltan, Chemaf) and Pakistan/other deals; Reuters reported a US firm in a key Congo minerals deal overstated its mining experience; Nigeria's UBA financing; KoBold, Orion, Erik Prince's security deal with DRC. Identify who got or sought which asset, their ties to the Trump family, dates, and denials.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C66",
+   "C65",
+   "C60"
+  ]
+ },
+ {
+  "id": "C76",
+  "slug": "russia-linked-ties",
+  "lines": "",
+  "title": "Russia-linked money around the family and envoys",
+  "claim": "Second-layer hunt from C53/C66/C37: reported Russia-linked ties \u2014 Steve Witkoff's undisclosed real-estate tie to Len Blavatnik during Russia talks; a Russian oligarch reportedly funding Don Jr.'s wedding parties; Kirill Dmitriev (RDIF) dealings with Witkoff and Kushner and proposed US-Russia business deals in the peace plan (WSJ 'make money not war' reporting); Kimberly Guilfoyle (ambassador to Greece) pay-to-play allegation; any Trump Organization or WLF buyers from Russia. Treat single-source reports as such; record denials.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C53",
+   "C66",
+   "C37",
+   "C15"
+  ]
+ },
+ {
+  "id": "C77",
+  "slug": "greenland-seabed-rare-earth-stakes",
+  "lines": "",
+  "title": "Greenland, the seabed and rare earths: Cantor-linked firms before Lutnick's department",
+  "claim": "Second-layer hunt from C60/C50: Critical Metals' Tanbreez project in Greenland (Cantor stake; US government stake talks; Trump's Greenland push); The Metals Company's NOAA deep-sea mining permits under Lutnick's Commerce (Cantor as banker; recusal?); USA Rare Earth's Cantor-placed $1.5B PIPE the day of a $1.6B Commerce letter of intent and which Trump allies got shares; Perpetua's EXIM loan. Verify stakes, dates, recusals and gains.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C60",
+   "C50",
+   "C35"
+  ]
+ },
+ {
+  "id": "C78",
+  "slug": "spac-web-mcgurn-clear-street",
+  "lines": "",
+  "title": "The SPAC web: McGurn, Yorkville, Texas Ventures, Clear Street",
+  "claim": "Second-layer hunt from C62/C27/C41: Kevin McGurn runs several blank-cheque vehicles tied to the Trump family (Yorkville Acquisition, New America Acquisition I, reportedly Texas Ventures Acquisition III with Trump Organization and TMTG directors) while interim CEO of TMTG; Clear Street's role across crypto-treasury deals and its IPO; D. Boral, Dominari and Yorkville as recurring sponsors/underwriters; founder-share economics for the Trump sons; SEC review status of each vehicle and of the Truth Social crypto ETFs. Map every vehicle, its insiders, money raised and target.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C62",
+   "C27",
+   "C41",
+   "C39"
+  ]
+ },
+ {
+  "id": "C79",
+  "slug": "georgia-korea-maldives-foreign-layers",
+  "lines": "",
+  "title": "Lesser-known foreign layers: Tbilisi, South Korea, Maldives tokens, Vietnam trademarks",
+  "claim": "Second-layer hunt from C59: Trump Tower Tbilisi on land reportedly sold by a fund linked to sanctioned oligarch Bidzina Ivanishvili's family (and US Georgia policy since); a reported ~$2M payment to Trump from a South Korean firm facing a US trade investigation (unverified aggregator lead \u2014 confirm or discard); Dar Global's tokenised Maldives Trump resort marketed to US retail investors and discussed with the SEC; Trump trademark filings in Vietnam after the tariff deal; displaced Vietnamese farmers at Hung Yen. Verify each, date it, and note the corresponding US decision if any.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C59",
+   "C31"
+  ]
+ },
+ {
+  "id": "C80",
+  "slug": "pif-golf-ea-data-centres",
+  "lines": "",
+  "title": "Sovereign-fund megadeals needing US sign-off: PGA\u2013PIF, EA, Aligned, G42",
+  "claim": "Second-layer hunt from C56/C57: Trump's personal role in brokering PGA Tour\u2013PIF talks at the White House while LIV plays Trump courses; the identity of LIV's new lead investor; CFIUS handling of the $55B EA buyout (PIF, Silver Lake, Kushner's Affinity); MGX's part in the $40B Aligned Data Centers takeover (with BlackRock/GIP, Nvidia, Microsoft); G42's reported reincorporation as a US company and the UAE's 2026 export-control upgrade; Lunate taking over G42's China fund. Verify what approvals were needed, who decided, and outcomes.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C56",
+   "C57",
+   "C15"
+  ]
+ },
+ {
+  "id": "C81",
+  "slug": "gsa-thrive-databricks",
+  "lines": "",
+  "title": "A federal procurement chief, Thrive Capital and sole-source awards",
+  "claim": "Second-layer hunt from C66: GSA Federal Acquisition Service commissioner Josh Gruenbaum (ex-KKR) reportedly invested in a Josh Kushner Thrive Capital fund while courting Thrive-backed Ramp for the ~$700B SmartPay programme and awarding Thrive-backed Databricks a sole-source contract (WSJ); OneGov deals with OpenAI, Anthropic and others in which Thrive holds stakes; ProPublica and Rep. Connolly's probe. Verify holdings, awards, dates, amounts and denials; note any family link beyond Josh Kushner.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C66",
+   "C68"
+  ]
+ },
+ {
+  "id": "C82",
+  "slug": "abu-dhabi-entities-stringz-delaware",
+  "lines": "",
+  "title": "Abu Dhabi layers: unannounced Trump licensing entities, StringZ and the Delaware referral",
+  "claim": "Second-layer hunt from C63/C57: Delaware 'DT Marks Abu Dhabi' / 'Al Raha Beach' entities formed for an unannounced Trump Organization project in Abu Dhabi; whether StringZ Holding RSC appears on the ADGM register and shares officers or addresses with Aryam Investment 1; Rep. Khanna's referral to the Delaware US Attorney about the Emirati WLF investor; Warren/Kim's CFIUS request and its outcome; Eric Trump's statements about Abu Dhabi. Establish formation dates relative to the Aryam (Jan 2025) and StringZ deals and grade each link.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C63",
+   "C57",
+   "C06",
+   "C12"
+  ]
  }
 ]

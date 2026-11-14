@@ -45,3 +45,7 @@ The user wants the map UI to look clean and professional and less "AI-coded", wi
   - Entity descriptions: one-line role first, then facts as label/value rows (type, country, role, appears in N claims), then grouped connections.
   - Full report: render the markdown properly (headings, lists, tables, links, block quotes) with a small table of contents for long reports.
   - Where the source data is one long paragraph, restructure it at build time in `build.py` (sentence splitting, figure extraction) so the page receives structured fields; do not change the meaning or drop caveats and denials.
+
+## Status at 23:20 Central (resume run)
+- Batch 1 launched 23:15: hunts C68, C70; audits C06-C10, C12/C13/C20-C22, C23-C26/C29, C27/C28/C32-C34; map redesign agent.
+- Briefs C71-C82 (second-layer connection hunts) added to the index, not yet launched. Next batches of 6: [C71-C76], [C77-C82], then audits [C35-C39], [C45-C49 fresh searches], [C50-C52,C53,C54], [C55-C60], [C61-C67], then C69 (master timeline) last.
