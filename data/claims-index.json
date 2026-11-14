@@ -870,5 +870,156 @@
    "C06",
    "C12"
   ]
+ },
+ {
+  "id": "C83",
+  "slug": "schiller-sorial-ventures",
+  "lines": "",
+  "title": "Keith Schiller and George Sorial: the ex-bodyguard and ex-executive across deals",
+  "claim": "Third-layer hunt: Trump's former bodyguard Keith Schiller and former Trump Organization EVP George Sorial recur in separate claims \u2014 Javelin Advisors (Pakistan minerals lobbying; $1M from Fred Daibes for a failed pardon bid), GreenMet (Tanbreez, Greenland), and possibly others. Map every client, fee, FARA/LDA filing, company stake and official meeting since Nov 2024, their White House access, and which US decisions touched their clients. Grade every link.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C64",
+   "C72",
+   "C77",
+   "C49"
+  ]
+ },
+ {
+  "id": "C84",
+  "slug": "heritage-advisors-sultan-bin-jassim",
+  "lines": "",
+  "title": "Heritage Advisors and Sheikh Sultan bin Jassim: one Qatari fund across three stories",
+  "claim": "Third-layer hunt: Heritage Advisors (London; Sheikh Sultan bin Jassim Al Thani) paid consulting income to Lee Zeldin, invested ~$50M in Newsmax, and was the Qatari investor in the Menendez\u2013Daibes case; Daibes later paid Javelin Advisors $1M for a pardon bid. Establish the fund's other US investments and relationships, Newsmax's dealings with the administration (FCC, defamation settlements, IPO), Zeldin's disclosures and any EPA matters involving Qatari interests, and whether any source connects these threads.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C73",
+   "C64"
+  ]
+ },
+ {
+  "id": "C85",
+  "slug": "yorkville-spac-vehicles",
+  "lines": "",
+  "title": "Yorkville's blank-cheque vehicles: Venezuela, Blue Water III and PlusAI",
+  "claim": "Third-layer hunt from C78: Yorkville International Capital (Latin America/Venezuela focus; Wyden inquiry on sanctions licences) against the administration's Venezuela policy and oil licences since the Maduro raid; Blue Water Acquisition Corp III (previously bid ~$10B for Citgo's parent; now staffed with TMTG people) and the Citgo auction outcome; Texas Ventures Acquisition III's merger with PlusAI (self-driving trucks; federal AV rules; Trump Organization executives on the board); who holds founder shares in each and what they are worth. Verify and grade.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C78",
+   "C62"
+  ]
+ },
+ {
+  "id": "C86",
+  "slug": "paulson-and-donor-holdings-federal-backing",
+  "lines": "",
+  "title": "Trump mega-donors holding stakes in companies that received federal backing",
+  "claim": "Third-layer hunt from C77: John Paulson (Perpetua Resources EXIM loan; Trilogy Metals gain when the US took a stake), and other major Trump donors/fundraisers whose portfolio companies got federal equity stakes, loans or price floors in 2025-26 (e.g. Schwarzman, Griffin and Cohen in the USA Rare Earth placement per senators; Todd Boehly; Howard Lutnick's circle; Harold Hamm; Kelcy Warren; Jeff Yass/TikTok). For each: donation amounts and dates, holding and when acquired, the federal action, paper or realised gain, and denials.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C77",
+   "C60"
+  ]
+ },
+ {
+  "id": "C87",
+  "slug": "silver-lake-recurring-coinvestor",
+  "lines": "",
+  "title": "Silver Lake: the co-investor on both the Saudi-Kushner and Abu Dhabi sides",
+  "claim": "Third-layer hunt from C68/C80: Silver Lake is a partner in the EA buyout (with PIF and Kushner's Affinity), the TikTok US joint venture (with Oracle and MGX), and has ties to G42 and Mubadala. Map Silver Lake's deals that needed US government approval in 2025-26, its principals' political donations and administration ties (Egon Durban), its relationship with Affinity, Mubadala's stake in Silver Lake, and any reporting that connects these. Grade every link.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C68",
+   "C80",
+   "C57"
+  ]
+ },
+ {
+  "id": "C88",
+  "slug": "damac-sajwani-abu-dhabi-projects",
+  "lines": "",
+  "title": "Damac and Hussain Sajwani: fees for unannounced projects and the data-centre pledge",
+  "claim": "Third-layer hunt from C70/C82: Damac's $10M+ of 2025 licence fees for unannounced Trump Organization projects in Abu Dhabi; Sajwani's $20B US data-centre pledge announced with Trump on 7 Jan 2025 and what has actually been built (Edgnex), federal permitting or energy decisions benefiting those sites, the long Trump\u2013Sajwani relationship (Dubai golf, New Year's Eve at Mar-a-Lago), other Sajwani family dealings with Trump-linked ventures (crypto, WLF, $TRUMP), and Damac's statements. Verify, date and grade.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C70",
+   "C82",
+   "C31"
+  ]
+ },
+ {
+  "id": "C89",
+  "slug": "hungary-serbia-unannounced-deals",
+  "lines": "",
+  "title": "Unannounced Trump Organization deals: Hungary, Serbia and others in the filings",
+  "claim": "Third-layer hunt from C82/C45: Forbes's reading of Trump's disclosures and state filings points to new DT Marks entities for deals not publicly announced (Hungary, Serbia, others). Identify every DT Marks / DTTM entity formed since Nov 2024, the country, partner and fee, and line them up against US policy toward that country (Hungary: Orb\u00e1n relationship, sanctions waiver on Russian energy, currency-swap/financial shield talks; Serbia: NIS sanctions, Belgrade project). Grade each.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C82",
+   "C45",
+   "C59"
+  ]
+ },
+ {
+  "id": "C90",
+  "slug": "wlf-token-swaps-and-risky-partners",
+  "lines": "",
+  "title": "World Liberty's token-swap pitch and partners with sanctions or fraud links",
+  "claim": "Third-layer hunt from C71: Blockworks reported WLF pitched crypto projects a swap (they buy WLFI plus a fee; WLF buys their token) \u2014 identify each WLF treasury purchase (MOVE, TRX, ONDO, ENA, SEI, AVAX, MNT, etc.) and whether the project bought WLFI around the same time; WLF partner AB / AB DAO and people later sanctioned with Cambodia's Prince Group (May 2026 Senate letter); the sale to a wallet using the sanctioned ruble stablecoin A7A5; Reuters on Nobitex using Tron and Binance rails; USD1 on Tron; WLF's KYC claims. Verify each and grade.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C71",
+   "C42",
+   "C67"
+  ]
+ },
+ {
+  "id": "C91",
+  "slug": "dominari-insider-timing",
+  "lines": "",
+  "title": "Dominari: option grants, pre-announcement trading and the Trump sons' arrival",
+  "claim": "Third-layer hunt from C39: an analysis alleges Dominari CEO Anthony Hayes and president Kyle Wool were granted 10M options on 10 Feb 2025, the day before the Trump sons' advisory roles were announced; the stock rose ~530-580% in the six weeks before the announcement; executives were paid ~$66M for 2025. Check the proxy statement and Form 4s (via coverage), who traded before the announcement, any SEC/FINRA/exchange inquiry, shareholder suits, and similar pre-announcement run-ups at Unusual Machines, Thumzup, American Bitcoin's predecessor (Gryphon) and SRM/Tron. Grade each finding.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C39",
+   "C47",
+   "C78"
+  ]
+ },
+ {
+  "id": "C92",
+  "slug": "ballroom-donor-list-full",
+  "lines": "",
+  "title": "The ballroom donor list in full: who gave, what they had pending",
+  "claim": "Third-layer hunt from C33/C68/C69: the White House's Oct 2025 donor list and the Washington Post's leaked spreadsheet (Oct 2026) with pledge amounts (Nvidia $25M, Ergen $25M, Microsoft, Palantir, Lockheed $10M each, Meta, Amazon $5M, crypto firms, Tether, Winklevoss twins, etc.). Build the full table: donor, amount, date if known, anonymity requests, and each donor's significant matter before the federal government within six months either side (contracts, mergers, enforcement, licences, tariffs). Note where timing cuts against a favour reading. Grade each row.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C33",
+   "C68",
+   "C69"
+  ]
+ },
+ {
+  "id": "C93",
+  "slug": "kremlev-iba-and-olympic-boxing",
+  "lines": "",
+  "title": "Umar Kremlev, the IBA and US decisions on boxing and Russia",
+  "claim": "Third-layer hunt from C76: Umar Kremlev (Russian head of the International Boxing Association) paid for parts of Don Jr.'s May 2026 wedding weekend via a Dubai entity. Establish Kremlev's and the IBA's interests before the US government (IOC/LA 2028 boxing governance, sanctions exposure, Gazprom sponsorship history, visas, Trump's executive order on Olympic sports or boxing commission proposals, Dana White/TKO boxing league and the Muhammad Ali Act revision), his other contacts with the Trump family, and all responses. Single-source items labelled; nothing asserted beyond the record.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C76"
+  ]
+ },
+ {
+  "id": "C94",
+  "slug": "lukoil-boehly-consortium",
+  "lines": "",
+  "title": "The Lukoil foreign-assets sale: Boehly's consortium and who is in it",
+  "claim": "Third-layer hunt from C76: the bidding for sanctioned Lukoil's ~$20B foreign assets \u2014 bidders (Carlyle, Gunvor's withdrawn bid, a consortium led by Trump donor Todd Boehly reportedly including Tahnoon's IHC, the Al-Khayyat brothers and the US development finance agency), OFAC licences and deadlines, the reported Putin\u2013Witkoff\u2013Kushner discussion, each bidder's ties to the Trump family or administration, and the outcome through Nov 2026. Grade each link.",
+  "origin": "connection-hunt",
+  "parents": [
+   "C76",
+   "C57"
+  ]
  }
 ]
