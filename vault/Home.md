@@ -12,10 +12,10 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 ## Verdicts
 
 - Confirmed: 2
-- Mostly accurate: 69
+- Mostly accurate: 70
 - Partly accurate: 5
 - Unverified: 2
-- Pending: 4
+- Pending: 3
 
 ## Claims from the video
 
@@ -102,7 +102,7 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C81 A federal procurement chief, Thrive Capital and sole-source awards]] · Pending
@@ -128,19 +128,19 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 ## Most connected
 
 - [[Donald Trump]] (80 claims, 263 connections)
-- [[World Liberty Financial]] (38 claims, 108 connections)
-- [[Securities and Exchange Commission]] (29 claims, 90 connections)
+- [[World Liberty Financial]] (39 claims, 111 connections)
+- [[Securities and Exchange Commission]] (31 claims, 93 connections)
 - [[White House Trump administration]] (53 claims, 90 connections)
-- [[Donald Trump Jr]] (43 claims, 83 connections)
-- [[Eric Trump]] (42 claims, 75 connections)
-- [[Elizabeth Warren]] (30 claims, 69 connections)
-- [[Trump Organization]] (26 claims, 65 connections)
+- [[Donald Trump Jr]] (45 claims, 86 connections)
+- [[Eric Trump]] (44 claims, 81 connections)
+- [[Trump Organization]] (27 claims, 74 connections)
+- [[Elizabeth Warren]] (31 claims, 71 connections)
 - [[Jared Kushner]] (21 claims, 62 connections)
-- [[Trump Media & Technology Group]] (20 claims, 60 connections)
-- [[US Congress]] (35 claims, 56 connections)
+- [[Trump Media & Technology Group]] (20 claims, 62 connections)
+- [[US Congress]] (37 claims, 59 connections)
 - [[Steve Witkoff]] (21 claims, 51 connections)
 - [[United Arab Emirates]] (25 claims, 48 connections)
-- [[The New York Times]] (20 claims, 38 connections)
+- [[The New York Times]] (21 claims, 40 connections)
 - [[Pentagon (Department of Defense)]] (14 claims, 38 connections)
 - [[The Wall Street Journal]] (21 claims, 37 connections)
 - [[Qatar]] (12 claims, 36 connections)
@@ -148,7 +148,7 @@ Everyone named denies wrongdoing. Nothing here is an accusation of a crime.
 - [[Binance]] (16 claims, 34 connections)
 - [[Cantor Fitzgerald]] (8 claims, 34 connections)
 - [[Commodity Futures Trading Commission]] (10 claims, 34 connections)
+- [[Crypto.com]] (12 claims, 34 connections)
 - [[Affinity Partners]] (15 claims, 33 connections)
 - [[Coffeezilla]] (14 claims, 33 connections)
-- [[Crypto.com]] (11 claims, 33 connections)
 - [[Sheikh Tahnoon bin Zayed]] (18 claims, 33 connections)

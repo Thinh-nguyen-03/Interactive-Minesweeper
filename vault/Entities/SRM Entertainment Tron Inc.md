@@ -48,8 +48,8 @@ Toymaker turned TRX treasury via a June 2025 Justin Sun deal placed by Dominari.
 
 ### Commercial (5)
 
-- [[Dominari Holdings]] *exclusive placement agent for $100M (up to $210M) TRX-treasury deal* [[SRM Entertainment Tron Inc]] · 2025-06 · $100M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
-- [[Dominari Holdings]] *exclusive placement agent for TRX treasury deal* [[SRM Entertainment Tron Inc]] · 2025-06 · $100M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Dominari Holdings Dominari Securities]] *exclusive placement agent for $100M (up to $210M) TRX-treasury deal* [[SRM Entertainment Tron Inc]] · 2025-06 · $100M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *exclusive placement agent for TRX treasury deal* [[SRM Entertainment Tron Inc]] · 2025-06 · $100M · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Eric Trump]] *denies involvement in listing* [[SRM Entertainment Tron Inc]] · 2025-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Justin Sun]] *Tron deal / adviser to Tron Inc* [[SRM Entertainment Tron Inc]] · 2025-06 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[SRM Entertainment Tron Inc]] *holds TRX treasury* [[Tron]] · 2025-06 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]

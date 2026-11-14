@@ -2,8 +2,10 @@
 id: "foris-dax-national-trust-bank"
 kind: "entity"
 type: "company"
-connections: 5
-claims: 3
+aliases:
+  - "Foris DAX (Crypto.com custody)"
+connections: 7
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -15,11 +17,13 @@ Proposed Crypto.com national trust bank (conditionally approved)
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 claims |
-| Connections | 5 |
+| Appears in | 4 claims |
+| Connections | 7 |
+| Also known as | Foris DAX (Crypto.com custody) |
 
 ## How other claims describe it
 
+- Named custodian in Truth Social crypto ETF filings
 - Crypto.com's OCC-conditional trust bank
 - Crypto.com OCC trust-bank applicant
 
@@ -28,6 +32,7 @@ Proposed Crypto.com national trust bank (conditionally approved)
 - [[C22 Crypto.com and TMTG]] · Mostly accurate
 - [[C62 The financiers, custodians and underwriters behind the vehicles]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 
 ## Relationships
 
@@ -40,3 +45,7 @@ Proposed Crypto.com national trust bank (conditionally approved)
 
 - [[Office of the Comptroller of the Currency]] *conditional trust charter* [[Foris DAX National Trust Bank]] · 2026-02-23 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Office of the Comptroller of the Currency]] *granted conditional national trust charter* [[Foris DAX National Trust Bank]] · 2026-02-23 · [[C22 Crypto.com and TMTG|C22]]
+
+### Commercial (1)
+
+- [[Foris DAX National Trust Bank]] *named custodian in filings* [[Truth Social ETFs]] · 2025-06 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]

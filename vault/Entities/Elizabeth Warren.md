@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Sen. Elizabeth Warren"
-connections: 69
-claims: 30
+connections: 71
+claims: 31
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 30 claims |
-| Connections | 69 |
+| Appears in | 31 claims |
+| Connections | 71 |
 | Also known as | Sen. Elizabeth Warren |
 
 ## How other claims describe it
@@ -60,6 +60,7 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Relationships
@@ -75,7 +76,7 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 - [[Elizabeth Warren]] *questioned on Kazakh financing* [[Export-Import Bank of the United States]] · 2026-07-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Elizabeth Warren]] *asked SEC to investigate $TRUMP (with Blumenthal)* [[Paul Atkins]] · 2026-08-04 · [[C40 Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)|C40]]
 
-### Political (39)
+### Political (40)
 
 - [[Elizabeth Warren]] *asked to scrutinize EA buyout* [[CFIUS]] · 2025 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Elizabeth Warren]] *questioned waivers and SGE status* [[David Sacks]] · 2025-03-06 · [[C34 David Sacks AI & crypto czar with investments|C34]]
@@ -114,6 +115,7 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 - [[Elizabeth Warren]] *asked to investigate Truth API* [[Securities and Exchange Commission]] · 2026-07-29 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Elizabeth Warren]] *demanded transcript of Don Jr. remarks* [[Republican Attorneys General Association]] · 2026-08 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
 - [[Elizabeth Warren]] *asked (with Garcia, Blumenthal, Duckworth) to review $3.2B in awards* [[DoD Inspector General (Platte B. Moring III)]] · 2026-08-04 · $3.2B · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Elizabeth Warren]] *demanded answers on $2M payment (with Blumenthal, Andy Kim)* [[Base Group (Base Co., Ltd.)]] · 2026-08-06 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Elizabeth Warren]] *introduced* [[Ending Presidential Corruption in Banking Act (S. 5389)]] · 2026-08-15 · [[C12 WLF bank charter from the OCC|C12]]
 - [[Elizabeth Warren]] *member of* [[US Congress]] · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]] [[C44 Melania Trump's Amazon documentary deal|C44]]
 

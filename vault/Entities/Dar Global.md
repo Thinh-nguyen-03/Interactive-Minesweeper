@@ -24,7 +24,7 @@ London-listed international arm of Dar Al Arkan; developer of most Trump Gulf pr
 - London-listed arm of Saudi Dar Al Arkan; main Trump licensee in Gulf
 - Saudi Dar Al Arkan's international arm; Trump licensing partner
 - Trump Organization licensee developing the Qatar project
-- Saudi Dar Al Arkan's listed arm; Maldives developer
+- London-listed arm of Saudi Dar Al Arkan; Trump licensee
 
 ## Appears in claims
 
@@ -51,11 +51,12 @@ London-listed international arm of Dar Al Arkan; developer of most Trump Gulf pr
 - [[Dar Al Arkan]] *parent company of* [[Dar Global]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Dar Al Arkan]] *parent of* [[Dar Global]] · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 
-### Regulatory (1)
+### Regulatory (2)
 
+- [[Dar Global]] *discussed planned US token sale with* [[Securities and Exchange Commission]] · 2025-11 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Dar Global]] *reportedly in talks over token sales with* [[Securities and Exchange Commission]] · 2025-11 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 
-### Commercial (15)
+### Commercial (16)
 
 - [[Dar Global]] *developer of* [[Trump International Golf Club & Resort Oman (Aida)]] · 2022-03 · $500M · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Dar Global]] *licence agreement with* [[DT Marks Oman LLC]] · 2022-11 · [[C63 Shell entities and ownership chains|C63]]
@@ -67,6 +68,7 @@ London-listed international arm of Dar Al Arkan; developer of most Trump Gulf pr
 - [[Qatari Diar]] *signed agreement to develop Trump golf club and villas with* [[Dar Global]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Trump Organization]] *licenses Trump brand to* [[Dar Global]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Dar Global]] *developer of* [[Trump Plaza Jeddah]] · 2025-09-29 · $1B · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Dar Global]] *developer of* [[Trump International Hotel Maldives]] · 2025-11-17 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Dar Global]] *develops (tokenised)* [[Trump International Hotel Maldives]] · 2025-11-17 · $300M · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Trump Organization]] *licensing partner* [[Dar Global]] · 2025-11-17 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Dar Global]] *developer of (with Trump Plaza Jeddah, ~$10B combined)* [[Trump National Golf Course & Trump International Hotel, Diriyah]] · 2026-01-11 · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]

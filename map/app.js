@@ -1216,7 +1216,7 @@
       var word = n === 1 ? one : many;
       return '<span class="stat' + (cls || '') + '"><b>' + n.toLocaleString('en-US') + '</b> ' + (brief ? '<span class="wide">' + word + '</span><span class="narrow">' + brief + '</span>' : word) + '</span>';
     }
-    var h = stat(cnt.video || 0, 'video claim', 'video claims', '', 'from the video') + (cnt['follow-up'] ? stat(cnt['follow-up'], 'follow-up lead', 'follow-up leads', '', 'follow-ups') : '') +
+    var h = stat(cnt.video || 0, 'video claim', 'video claims', '', 'video') + (cnt['follow-up'] ? stat(cnt['follow-up'], 'follow-up lead', 'follow-up leads', '', 'follow-ups') : '') +
       (cnt['connection-hunt'] ? stat(cnt['connection-hunt'], 'connection hunt', 'connection hunts', '', 'hunts') : '') +
       stat(entities.length, 'person or organisation', 'people and organisations', ' wide') + stat(rels.length, 'relationship', 'relationships', ' wide') + '<span class="gap wide"></span>';
     VERDICTS.forEach(function (v) { if (tally[v]) h += '<span class="stat tally wide v-' + v + '" title="' + esc(VMEANS[v]) + '">' + vicon(v, 13) + '<b>' + tally[v] + '</b> ' + VLABEL[v].toLowerCase() + '</span>'; });

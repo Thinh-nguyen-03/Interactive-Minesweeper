@@ -111,7 +111,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 - [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
@@ -158,10 +158,11 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Trump financial disclosures]] *show ~$1.4B crypto income of ~$2.2B* [[Donald Trump]] · $1.4B · [[C29 Trump family wealth gains|C29]]
 - [[World Liberty Financial]] *pays president and family* [[Donald Trump]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]] [[C29 Trump family wealth gains|C29]]
 
-### Ownership (31)
+### Ownership (33)
 
 - [[Donald Trump]] *settlor and sole beneficiary of* [[Donald J. Trump Revocable Trust]] · 2014-04-07 · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump]] *manager, president, secretary, treasurer of* [[CIC Ventures LLC]] · 2023 · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald Trump]] *family holds major stake in* [[World Liberty Financial]] · 2024 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Donald Trump]] *controls with sons* [[DT Marks DEFI LLC]] · 2024-10 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Donald Trump]] *owns (with family)* [[DT Marks DEFI LLC]] · 2024-10 · [[C04 World Liberty Financial founding and token sale|C04]] [[C42 How World Liberty insiders took money out|C42]]
 - [[Donald Trump]] *sole beneficiary of* [[Donald J. Trump Revocable Trust]] · 2024-12 · [[C20 Trump's stock purchases and Truth Social posts|C20]]
@@ -179,6 +180,7 @@ US president; the video alleges he and his family made billions from regulated i
 - [[Donald Trump]] *largest shareholder (via revocable trust) of* [[Trump Media & Technology Group]] · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Donald Trump]] *largest shareholder (via trust) of* [[Trump Media & Technology Group]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Donald Trump]] *largest shareholder of* [[Trump Media & Technology Group]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump]] *majority holder via revocable trust* [[Trump Media & Technology Group]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Donald Trump]] *majority shareholder* [[Trump Media & Technology Group]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump]] *majority shareholder (via trust)* [[Trump Media & Technology Group]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Donald Trump]] *owner (via trust)* [[Trump Organization]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]

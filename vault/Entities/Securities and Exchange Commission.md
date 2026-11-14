@@ -6,8 +6,8 @@ aliases:
   - "SEC"
   - "U.S. Securities and Exchange Commission"
   - "US Securities and Exchange Commission"
-connections: 90
-claims: 29
+connections: 93
+claims: 31
 tags:
   - "entity"
   - "type/government"
@@ -19,8 +19,8 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 29 claims |
-| Connections | 90 |
+| Appears in | 31 claims |
+| Connections | 93 |
 | Also known as | SEC; U.S. Securities and Exchange Commission; US Securities and Exchange Commission |
 
 ## How other claims describe it
@@ -62,6 +62,8 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C70 Foreign intermediaries what each partner got from Washington]] · Mostly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 
 ## Relationships
 
@@ -69,7 +71,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 
 - [[Tron]] *lobbying via Kelley Drye/Digital Sovereignty Alliance ($370K; single source)* [[Securities and Exchange Commission]] · 2025 · $370K · [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]]
 
-### Regulatory (78)
+### Regulatory (80)
 
 - [[Securities and Exchange Commission]] *fraud case dismissed with prejudice* [[Yorkville Advisors]] · 2018-10-29 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Securities and Exchange Commission]] *sued for fraud, market manipulation and unregistered securities* [[Justin Sun]] · 2023-03-22 · [[C05 Justin Sun, WLF and the SEC|C05]]
@@ -113,6 +115,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Changpeng Zhao]] · 2025-05-29 · [[C23 SEC drops crypto-exchange cases; donors|C23]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice against* [[Changpeng Zhao]] · 2025-05-29 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[Securities and Exchange Commission]] *acknowledged 19b-4 for Truth Social BTC/ETH ETF* [[Yorkville America Digital]] · 2025-07 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Securities and Exchange Commission]] *delayed decisions; no approval found* [[Truth Social ETFs]] · 2025-08 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[New America Acquisition I Corp]] *filed S-1 targeting firms benefiting from government incentives, amended same day to remove it* [[Securities and Exchange Commission]] · 2025-08-04 · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Securities and Exchange Commission]] *dropped cross-appeal; $125M penalty stands* [[Ripple]] · 2025-08-07 · $125.04M · [[C33 Corporate settlements and donations to Trump's library and ballroom|C33]]
 - [[Securities and Exchange Commission]] *dismissed civil claims after commutation* [[Carlos Watson]] · 2025-09 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
@@ -120,6 +123,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *moved to dismiss civil claims* [[Ozy Media]] · 2025-09 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Securities and Exchange Commission]] *dismissed civil case after pardon* [[Trevor Milton]] · 2025-09 · [[C49 The pardon-lobbying market and post-pardon SEC dismissals|C49]]
 - [[Securities and Exchange Commission]] *dismissed civil case against* [[Trevor Milton]] · 2025-09 · [[C61 Shared lawyers and law firms across the deals|C61]]
+- [[Dar Global]] *discussed planned US token sale with* [[Securities and Exchange Commission]] · 2025-11 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Dar Global]] *reportedly in talks over token sales with* [[Securities and Exchange Commission]] · 2025-11 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Securities and Exchange Commission]] *has not opened a probe (per POGO)* [[ALT5 Sigma]] · 2026 · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[Securities and Exchange Commission]] *stipulated dismissal of Gemini Earn suit* [[Gemini]] · 2026-01-23 · [[C23 SEC drops crypto-exchange cases; donors|C23]]

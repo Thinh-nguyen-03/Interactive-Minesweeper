@@ -2,8 +2,8 @@
 id: "trump-international-hung-yen"
 kind: "entity"
 type: "asset"
-connections: 5
-claims: 1
+connections: 7
+claims: 2
 tags:
   - "entity"
   - "type/asset"
@@ -15,12 +15,17 @@ tags:
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 1 claim |
-| Connections | 5 |
+| Appears in | 2 claims |
+| Connections | 7 |
+
+## How other claims describe it
+
+- $1.5B golf/urban project in Khoai Chau
 
 ## Appears in claims
 
 - [[C59 Foreign Trump Organization deals timed with tariff negotiations]] · Partly accurate
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 
 ## Relationships
 
@@ -36,6 +41,8 @@ tags:
 
 - [[Pham Minh Chinh]] *broke ground with Eric Trump* [[Trump International Hung Yen]] · 2025-05-21 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 
-### Commercial (1)
+### Commercial (3)
 
+- [[Kinh Bac City Development Holding Corp (KBC)]] *developer of* [[Trump International Hung Yen]] · 2024-10 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Eric Trump]] *attended groundbreaking* [[Trump International Hung Yen]] · 2025-05-21 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Trump Organization]] *licensor/operator of* [[Trump International Hung Yen]] · 2025-05-21 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]

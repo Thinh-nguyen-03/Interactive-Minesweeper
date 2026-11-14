@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "Don Jr."
   - "Trump Jr."
-connections: 83
-claims: 43
+connections: 86
+claims: 45
 tags:
   - "entity"
   - "type/person"
@@ -18,8 +18,8 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 43 claims |
-| Connections | 83 |
+| Appears in | 45 claims |
+| Connections | 86 |
 | Also known as | Don Jr.; Trump Jr. |
 
 ## How other claims describe it
@@ -75,6 +75,8 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C75 Congo minerals diplomacy Boulos, Gentry Beach and the firms that benefited]] · Partly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 
 ## Relationships
 
@@ -87,31 +89,32 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Umar Kremlev]] *paid for parts of wedding celebrations (island rental, fireworks); later repaid* [[Donald Trump Jr]] · 2026-05 · [[C76 Russia-linked money around the family and envoys|C76]]
 - [[Donald Trump Jr]] *investor* [[American Ventures]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
-### Ownership (29)
+### Ownership (30)
 
 - [[Donald Trump Jr]] *co-founder* [[World Liberty Financial]] · 2024 · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C55 How much has the Trump family made Competing totals|C55]]
 - [[Donald Trump Jr]] *partner* [[1789 Capital]] · 2024-11 · [[C65 Officials who decided matters involving their former clients or partners|C65]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C68 The tech-billionaire nexus Ellison, Musk, Altman, Zuckerberg, Bezos|C68]]
 - [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction markets, CFTC and Don Jr|C25]] [[C26 1789 Capital and Vulcan Elements|C26]] [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]] [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]] [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Donald Trump Jr]] *co-founded* [[American Data Centers Inc]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Donald Trump Jr]] *adviser and shareholder* [[Dominari Holdings]] · 2025-02 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Donald Trump Jr]] *adviser and ~6% holder* [[Dominari Holdings]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Donald Trump Jr]] *adviser and ~6.7% shareholder* [[Dominari Holdings]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Donald Trump Jr]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings]] · 2025-02-21 · $1M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *adviser and shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Donald Trump Jr]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Donald Trump Jr]] *adviser and ~6.7% shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Donald Trump Jr]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] · 2025-02-21 · $1M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *co-founder and shareholder* [[American Bitcoin]] · 2025-03 · [[C29 Trump family wealth gains|C29]]
 - [[Donald Trump Jr]] *co-owner of* [[American Bitcoin]] · 2025-03-31 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump Jr]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Donald Trump Jr]] *350,000-share stake (about $4M)* [[Thumzup Media]] · 2025-07 · $4M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *took stake in* [[Thumzup Media]] · 2025-07 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump Jr]] *indirect interest in 2M founder shares* [[New America Sponsor I LLC]] · 2025-08 · $20M · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Donald Trump Jr]] *invested via Dominari-tied vehicle* [[Skyline Builders Group]] · 2025-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *reported indirect stake* [[Skyline Builders Group]] · 2025-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Donald Trump Jr]] *reportedly invested via Dominari SPV (FT)* [[Skyline Builders Group]] · 2025-08 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Donald Trump Jr]] *indirect investor via American Ventures* [[Powerus Corp]] · 2026 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Donald Trump Jr]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Donald Trump Jr]] *part-owns* [[American Bitcoin]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Donald Trump Jr]] *shareholder* [[Dominari Holdings]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Donald Trump Jr]] *~6% shareholder of* [[Dominari Holdings]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Donald Trump Jr]] *~6% shareholder/adviser* [[Dominari Holdings]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald Trump Jr]] *shareholder* [[Dominari Holdings Dominari Securities]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Donald Trump Jr]] *~6% shareholder of* [[Dominari Holdings Dominari Securities]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump Jr]] *backer* [[New America Acquisition I Corp]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Donald Trump Jr]] *board director; trustee of father's shares in* [[Trump Media & Technology Group]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Donald Trump Jr]] *executive vice president of* [[Trump Organization]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
@@ -140,8 +143,8 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Donald Trump Jr]] *adviser* [[New America Acquisition I Corp]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket probes dropped before 1789 Capital invested; federal push for prediction ma|C38]] [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]] [[C58 Market-moving posts and insider-trading allegations|C58]] [[C64 Lobbyists and fixers who gets paid to reach the White House|C64]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Donald Trump Jr]] *strategic adviser (paid partly in shares, reportedly >$300k)* [[Kalshi]] · 2025-01 · $300K · [[C25 Prediction markets, CFTC and Don Jr|C25]]
-- [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Donald Trump Jr]] *adviser (advisory board)* [[Dominari Holdings]] · 2025-02-10 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump Jr]] *adviser (advisory board)* [[Dominari Holdings Dominari Securities]] · 2025-02-10 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *board member* [[GrabAGun Digital Holdings]] · 2025-07 · [[C27 New America Acquisition I Corp SPAC|C27]]
 - [[Donald Trump Jr]] *director; about 300,000 shares (about $3M)* [[GrabAGun Digital Holdings]] · 2025-07 · $3M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *strategic adviser; holds 2M founder shares (~$20M paper value)* [[New America Acquisition I Corp]] · 2025-08 · $20M · [[C27 New America Acquisition I Corp SPAC|C27]]

@@ -185,7 +185,7 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
 - [[China]] · Country
 - [[DJI]] · Company
 - [[DoD Inspector General (Platte B. Moring III)]] · Government body
-- [[Dominari Holdings]] · Company
+- [[Dominari Holdings Dominari Securities]] · Company
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
 - [[Draganfly Inc]] · Company
@@ -221,7 +221,7 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
 - [[Office of Strategic Capital]] *$620M loan to* [[Vulcan Elements]] · 2025-11 · $620M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Eric Trump]] *invested in merger of* [[XTEND]] · 2026-02 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Unusual Machines]] *invested in merger of* [[XTEND]] · 2026-02 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Dominari Holdings]] *arranged ~$9M financing for* [[Aureus Greenway Holdings]] · 2026-03 · $9M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Dominari Holdings Dominari Securities]] *arranged ~$9M financing for* [[Aureus Greenway Holdings]] · 2026-03 · $9M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Unusual Machines]] *invested in financing round of* [[Aureus Greenway Holdings]] · 2026-03 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Office of Strategic Capital]] *reportedly negotiating debt/equity funding with* [[Unusual Machines]] · 2026-05 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Office of Strategic Capital]] *conditional loan to* [[Performance Drone Works]] · 2026-07 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
@@ -235,8 +235,8 @@ The deals and letters are documented: the brothers hold an indirect stake (via A
 - [[Donald Trump Jr]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Eric Trump]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[American Ventures]] *expected 9.9% beneficial owner of* [[Powerus Corp]] · 2026-10 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Donald Trump Jr]] *~6% shareholder of* [[Dominari Holdings]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Eric Trump]] *~6% shareholder of* [[Dominari Holdings]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Donald Trump Jr]] *~6% shareholder of* [[Dominari Holdings Dominari Securities]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Eric Trump]] *~6% shareholder of* [[Dominari Holdings Dominari Securities]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Pentagon (Department of Defense)]] *houses* [[Office of Strategic Capital]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Tandem Defense LLC]] *subsidiary of* [[Powerus Corp]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 

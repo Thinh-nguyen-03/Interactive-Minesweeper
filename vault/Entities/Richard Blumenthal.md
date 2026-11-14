@@ -2,8 +2,8 @@
 id: "richard-blumenthal"
 kind: "entity"
 type: "person"
-connections: 26
-claims: 11
+connections: 28
+claims: 12
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ Senator; ranking member of the Permanent Subcommittee on Investigations
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 11 claims |
-| Connections | 26 |
+| Appears in | 12 claims |
+| Connections | 28 |
 
 ## How other claims describe it
 
@@ -38,6 +38,7 @@ Senator; ranking member of the Permanent Subcommittee on Investigations
 - [[C54 The crypto revolving door officials who moved to firms they shaped policy for]] · Mostly accurate
 - [[C56 Saudi Arabia family deals alongside US policy]] · Mostly accurate
 - [[C60 Government equity stakes and critical-minerals deals who was positioned to profit]] · Mostly accurate
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Relationships
@@ -49,7 +50,7 @@ Senator; ranking member of the Permanent Subcommittee on Investigations
 - [[Richard Blumenthal]] *sent 13-point records request to* [[Brandon Lutnick]] · 2026-10-08 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Richard Blumenthal]] *probing Tether ties and Lutnick exit financing* [[Cantor Fitzgerald]] · 2026-10-08 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 
-### Political (8)
+### Political (9)
 
 - [[Richard Blumenthal]] *asked to scrutinize EA buyout* [[CFIUS]] · 2025 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Richard Blumenthal]] *denounced as 'auctioning off access'* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05 · [[C03 Dinner for top $TRUMP holders|C03]]
@@ -58,6 +59,7 @@ Senator; ranking member of the Permanent Subcommittee on Investigations
 - [[Richard Blumenthal]] *letter demanding records on crypto settlements and Ryan's exit* [[Paul Atkins]] · 2026-03-30 · [[C52 Trump-tied lobbyists hired by crypto firms and the SEC enforcement director's exit|C52]]
 - [[Richard Blumenthal]] *co-signed inquiry into* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-07-16 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Richard Blumenthal]] *letter demanding records on 14 deals* [[Export-Import Bank of the United States]] · 2026-07-30 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Richard Blumenthal]] *co-signed inquiry letter* [[Base Group (Base Co., Ltd.)]] · 2026-08-06 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Richard Blumenthal]] *ranking member of* [[Senate Permanent Subcommittee on Investigations]] · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 
 ### Legal (4)

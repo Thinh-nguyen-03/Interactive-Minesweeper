@@ -69,7 +69,7 @@ Orlando-based NYSE-listed maker of NDAA-compliant drone parts and motors.
 
 ### Commercial (6)
 
-- [[Dominari Holdings]] *placement agent ($40M, $48.5M; co-agent on about $150M) and shareholder* [[Unusual Machines]] · 2025-05 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *placement agent ($40M, $48.5M; co-agent on about $150M) and shareholder* [[Unusual Machines]] · 2025-05 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Strategic Logix]] *placed $12.8M components order with* [[Unusual Machines]] · 2025-09 · $12.8M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[US Army]] *ordered 3,500 drone motors (value undisclosed) from* [[Unusual Machines]] · 2025-10-15 · [[C32 Don Jr.'s other government-contractor ties (Unusual Machines, 1789 portfolio)|C32]]
 - [[Powerus Corp]] *placed $16.9M components order with* [[Unusual Machines]] · 2026 · $16.9M · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]

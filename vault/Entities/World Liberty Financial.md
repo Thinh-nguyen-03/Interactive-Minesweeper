@@ -6,8 +6,8 @@ aliases:
   - "WLF"
   - "WLFI"
   - "World Liberty"
-connections: 108
-claims: 38
+connections: 111
+claims: 39
 tags:
   - "entity"
   - "type/company"
@@ -19,8 +19,8 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 38 claims |
-| Connections | 108 |
+| Appears in | 39 claims |
+| Connections | 111 |
 | Also known as | WLF; WLFI; World Liberty |
 
 ## How other claims describe it
@@ -70,11 +70,12 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 
 ## Relationships
 
-### Money (49)
+### Money (50)
 
 - [[World Liberty Financial]] *paid about $57.35M of token-sale income (2024 disclosure)* [[Donald Trump]] · 2024 · $57.35M · [[C42 How World Liberty insiders took money out|C42]]
 - [[Axiom Management Group]] *entitled to 25% of net protocol revenue* [[World Liberty Financial]] · 2024-10 · [[C42 How World Liberty insiders took money out|C42]] [[C63 Shell entities and ownership chains|C63]]
@@ -118,6 +119,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[World Liberty Financial]] *reportedly about $90M of ALT5 deal proceeds to the Witkoff family* [[Steve Witkoff]] · 2025-08 · $90M · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[World Liberty Financial]] *lead investor in $1.5B WLFI treasury raise (about $750M in WLFI tokens for shares and warrants)* [[ALT5 Sigma]] · 2025-08-11 · $750M · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[World Liberty Financial]] *reportedly provides marketing budget for promotions to* [[Binance]] · 2026 · [[C10 Binance driving USD1 adoption|C10]]
+- [[World Liberty Financial]] *tokenising loan revenue interests (Reg D 506(c)/Reg S)* [[Trump International Hotel Maldives]] · 2026-02-18 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[USD1]] *generates $159.5M annualized revenue run rate (WLF claim) for* [[World Liberty Financial]] · 2026-04 · $159.5M · [[C10 Binance driving USD1 adoption|C10]]
 - [[World Liberty Financial]] *sent more than $40M of borrowed stablecoins to Coinbase Prime* [[Coinbase]] · 2026-04-09 · $40M · [[C42 How World Liberty insiders took money out|C42]]
 - [[World Liberty Financial]] *borrowed about $75M of stablecoins against about 5B WLFI* [[Dolomite]] · 2026-04-09 · $75M · [[C42 How World Liberty insiders took money out|C42]]
@@ -126,9 +128,10 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[USD1]] *reserve interest flows to* [[World Liberty Financial]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]]
 - [[World Liberty Financial]] *pays president and family* [[Donald Trump]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C10 Binance driving USD1 adoption|C10]] [[C29 Trump family wealth gains|C29]]
 
-### Ownership (46)
+### Ownership (47)
 
 - [[Alex Witkoff]] *co-founder* [[World Liberty Financial]] · 2024 · [[C14 Steve and Zach Witkoff|C14]]
+- [[Donald Trump]] *family holds major stake in* [[World Liberty Financial]] · 2024 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Donald Trump Jr]] *co-founder* [[World Liberty Financial]] · 2024 · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C55 How much has the Trump family made Competing totals|C55]]
 - [[Eric Trump]] *co-founder; holds tokens and USD1-related interest* [[World Liberty Financial]] · 2024 · [[C29 Trump family wealth gains|C29]]
 - [[Steve Witkoff]] *co-founded (later co-founder emeritus)* [[World Liberty Financial]] · 2024 · [[C14 Steve and Zach Witkoff|C14]]
@@ -243,7 +246,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[World Liberty Financial]] *sent denials to* [[Coffeezilla]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]] [[C08 UAE AI chips deal, Stargate, currency swap|C08]] [[C10 Binance driving USD1 adoption|C10]] [[C12 WLF bank charter from the OCC|C12]] [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
 - [[World Liberty Financial]] *Trump son boasted on* [[X (Twitter)]] · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 
-### Commercial (23)
+### Commercial (24)
 
 - [[World Liberty Financial]] *issues* [[WLFI token]] · 2024 · [[C29 Trump family wealth gains|C29]] [[C42 How World Liberty insiders took money out|C42]]
 - [[AB (AB DAO)]] *WLF partner* [[World Liberty Financial]] · 2025 · [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
@@ -262,6 +265,7 @@ Trump-family crypto/DeFi project created before the 2024 election; issuer of WLF
 - [[World Liberty Financial]] *WLFI treasury partner of* [[ALT5 Sigma]] · 2025-08 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[World Liberty Financial]] *promoted / said it would invest in* [[Shit Piss Skin Can ($SPSC)]] · 2025-11-24 · [[C04 World Liberty Financial founding and token sale|C04]] [[C42 How World Liberty insiders took money out|C42]]
 - [[World Liberty Financial]] *launched* [[World Liberty Markets]] · 2026-01-12 · [[C04 World Liberty Financial founding and token sale|C04]]
+- [[Securitize]] *issuance/compliance partner for Maldives tokens* [[World Liberty Financial]] · 2026-02-18 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[World Liberty Financial]] *struck $1.5B deal with* [[ALT5 Sigma]] · $1.5B · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[World Liberty Financial]] *party to* [[ALT5 Sigma $1.5B WLFI deal]] · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[World Liberty Financial]] *did not disclose stake of* [[Sheikh Tahnoon bin Zayed]] · [[C07 MGX's $2B Binance investment settled in USD1|C07]]

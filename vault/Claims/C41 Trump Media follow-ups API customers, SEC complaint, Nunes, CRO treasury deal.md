@@ -64,7 +64,7 @@ Most of the brief holds up. Reuters (Oct 28, 2026, anonymous sources) reported B
 ## Follow-up checks
 
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 
 ## Sub-claims
 
@@ -218,7 +218,7 @@ Most of the brief holds up. Reuters (Oct 28, 2026, anonymous sources) reported B
 ### Advisory (5)
 
 - [[Robert Lighthizer]] *resigned from board of* [[Trump Media & Technology Group]] · 2026-03-06 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
-- [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]] [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Eric Swider]] *resigned from board of* [[Trump Media & Technology Group]] · 2026-04-06 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Devin Nunes]] *stepped down as CEO of* [[Trump Media & Technology Group]] · 2026-04-21 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Donald Trump Jr]] *director of* [[Trump Media & Technology Group]] · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
@@ -253,7 +253,7 @@ Most of the brief holds up. Reuters (Oct 28, 2026, anonymous sources) reported B
 - [[Crypto.com]] *co-sponsor (terminated)* [[Trump Media Group CRO Strategy]] · 2026-08-07 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Crypto.com]] *prediction-market marketing deal replacing integration* [[Trump Media & Technology Group]] · 2026-08-07 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Trump Media & Technology Group]] *terminated CRO treasury venture* [[Trump Media Group CRO Strategy]] · 2026-08-07 · $6.42B · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
-- [[Yorkville Acquisition Corp]] *business combination terminated* [[Trump Media Group CRO Strategy]] · 2026-08-07 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Yorkville Acquisition Corp]] *business combination terminated* [[Trump Media Group CRO Strategy]] · 2026-08-07 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]] [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Bloomberg LP]] *reportedly subscribes to* [[Truth API]] · 2026-10 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Jump Trading]] *reportedly subscribes to* [[Truth API]] · 2026-10 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Susquehanna International Group]] *reportedly subscribes to* [[Truth API]] · 2026-10 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]

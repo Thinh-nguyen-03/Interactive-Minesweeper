@@ -65,7 +65,7 @@ Broke the Tahnoon/WLF story and charted USD1 adoption.
 - [[The Wall Street Journal]] *reported Tether stake* [[Cantor Fitzgerald]] · 2024-11-24 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[The Wall Street Journal]] *reported rival bids and Melania's >70% share* [[Melania (2026 film)]] · 2025-01 · [[C44 Melania Trump's Amazon documentary deal|C44]]
 - [[Sam Kessler]] *data reporter at* [[The Wall Street Journal]] · 2025-06 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
-- [[The Wall Street Journal]] *profile 'go-to dealmaker'* [[Dominari Holdings]] · 2025-08-19 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[The Wall Street Journal]] *profile 'go-to dealmaker'* [[Dominari Holdings Dominari Securities]] · 2025-08-19 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[The Wall Street Journal]] *reported deal enriches Trump family by over $500M* [[ALT5 Sigma]] · 2025-08-31 · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
 - [[The Wall Street Journal]] *reported Binance helped build USD1* [[Binance]] · 2025-10 · [[C09 Binance SEC case dropped and CZ pardon|C09]]
 - [[The Wall Street Journal]] *reported 'make money not war' business-deal strategy* [[Steve Witkoff]] · 2025-11-29 · [[C76 Russia-linked money around the family and envoys|C76]]

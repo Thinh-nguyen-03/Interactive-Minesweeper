@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "family business"
-connections: 65
-claims: 26
+connections: 74
+claims: 27
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ The family's hotel and golf luxury business, incl.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 26 claims |
-| Connections | 65 |
+| Appears in | 27 claims |
+| Connections | 74 |
 | Also known as | family business |
 
 ## Background
@@ -58,22 +58,24 @@ The family's hotel and golf luxury business, incl.
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 - [[C80 Sovereign-fund megadeals needing US sign-off PGA–PIF, EA, Aligned, G42]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
 
 ## Relationships
 
-### Money (6)
+### Money (7)
 
 - [[Dar Al Arkan]] *paid ~$21.9M licence fees (2024)* [[Trump Organization]] · 2024 · $21.9M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Reliance Industries]] *unit paid $10M development fee for Mumbai licence* [[Trump Organization]] · 2024 · $10M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Kinh Bac City Development Holding Corp (KBC)]] *pays $5M licence fee for Hung Yen golf project* [[Trump Organization]] · 2024/2025 · $5M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
+- [[Base Group (Base Co., Ltd.)]] *paid nonrefundable development fee (golf LOI) to Trump holding company* [[Trump Organization]] · 2025 · $2M · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Damac Properties]] *paid ~$11.3-12.5M in licence/management fees (2025)* [[Trump Organization]] · 2025 · $12.5M · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Damac Properties]] *pays licence fees for Trump golf club Dubai (2025 est. ~$12.5M)* [[Trump Organization]] · 2025 · $12.5M · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Dar Global]] *pays licence fees to (Saudi/Gulf projects)* [[Trump Organization]] · 2025 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 
-### Ownership (17)
+### Ownership (18)
 
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks Oman LLC]] · 2022-11 · [[C63 Shell entities and ownership chains|C63]]
 - [[DT Marks Al Raha Beach LLC]] *Trump licensing entity formed same day as permitting EO (per CREW)* [[Trump Organization]] · 2025-07 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
@@ -82,6 +84,7 @@ The family's hotel and golf luxury business, incl.
 - [[Donald Trump]] *owns (via trust run by his children)* [[Trump Organization]] · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Donald Trump]] *owns via trust* [[Trump Organization]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Donald Trump Jr]] *executive vice president of* [[Trump Organization]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[DTTM Operations LLC]] *trademark entity of* [[Trump Organization]] · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Eric Trump]] *executive of* [[Trump Organization]] · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Eric Trump]] *executive running* [[Trump Organization]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Eric Trump]] *executive vice president of* [[Trump Organization]] · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
@@ -106,9 +109,10 @@ The family's hotel and golf luxury business, incl.
 
 - [[White House Trump administration]] *denies trade talks are related to* [[Trump Organization]] · 2025-05 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 
-### Legal (1)
+### Legal (2)
 
 - [[Trump Organization]] *demanded retraction of tungsten story* [[The New York Times]] · 2026-07 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Alan Garten]] *EVP and Chief Legal Officer* [[Trump Organization]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 
 ### Media (4)
 
@@ -117,27 +121,33 @@ The family's hotel and golf luxury business, incl.
 - [[Citizens for Responsibility and Ethics in Washington]] *counted more than $117M foreign revenue in 2025 and 24 foreign projects* [[Trump Organization]] · 2026-07 · $117M · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[Forbes]] *reported Saudi expansion during nuclear talks* [[Trump Organization]] · 2026-07-23 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 
-### Commercial (25)
+### Commercial (31)
 
 - [[MNC Group MNC Land]] *licensee for Lido and Bali Trump projects* [[Trump Organization]] · 2015/2019 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Dar Global]] *licensee for Jeddah, Dubai, Riyadh/Diriyah, Oman, Maldives projects* [[Trump Organization]] · 2022/2026 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Trump Organization]] *licenses brand to* [[Trump Tower Jeddah]] · 2024-07 · $530M · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Trump Organization]] *licensing partner for Hung Yen project* [[Kinh Bac City Development Holding Corp (KBC)]] · 2024-10 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
-- [[Dominari Holdings]] *tenant in Trump Tower (two leases, more than $62K/month)* [[Trump Organization]] · 2025 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *tenant in Trump Tower (two leases, more than $62K/month)* [[Trump Organization]] · 2025 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Qatari Diar]] *Simaisma golf/villa partner* [[Trump Organization]] · 2025-04-30 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Trump Organization]] *licenses Trump brand to* [[Dar Global]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]] [[C73 Qatar's access network inside and around the administration|C73]]
 - [[Trump Organization]] *Trump-branded golf club and villas within* [[Simaisma development]] · 2025-04-30 · [[C16 Qatar jet, arms sales and golf deal|C16]] [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
 - [[Trump Organization]] *Trump-branded projects in (Dubai)* [[United Arab Emirates]] · 2025-05 · [[C30 Framing polls, supporters turning, Bannon, lawyer threat|C30]]
+- [[Trump Organization]] *licensor/operator of* [[Trump International Hung Yen]] · 2025-05-21 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Trump Organization]] *licenses Trump brand to* [[Trump Mobile]] · 2025-06 · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Trump Organization]] *licensing partner* [[SDC Imobiliare]] · 2025-07 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Trump Organization]] *licenses brand to* [[Trump Plaza Jeddah]] · 2025-09 · $1B · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Trump Organization]] *licensing partner* [[Dar Global]] · 2025-11-17 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Trump Organization]] *brand licensor of* [[Trump International Hotel Maldives]] · 2025-11-17 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Tribeca Developers]] *main Indian licensee of* [[Trump Organization]] · 2025-2026 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Trump Organization]] *involved in developing library project (per Eric Trump)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Diriyah Company]] *master-plan host of Trump-branded Wadi Safar project (licensed via Dar Global)* [[Trump Organization]] · 2026-01 · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Trump Organization]] *spokesperson says sons have no involvement with Yorkville* [[Yorkville Advisors]] · 2026-01 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Trump Organization]] *licenses brand to* [[Trump National Golf Course & Trump International Hotel, Diriyah]] · 2026-01-11 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Trump Organization]] *licenses brand to* [[Trump Tower Tbilisi]] · 2026-04 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+- [[Trump Organization]] *brand licensor of* [[Trump Tower Tbilisi]] · 2026-04-19 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[Trump Organization]] *brand licensor/manager of* [[Trump International Golf Club Korea]] · 2026-08-13 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Dar Global]] *licensing partner (Oman, Jeddah, Dubai, Riyadh, Qatar)* [[Trump Organization]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Lawrence Glick]] *EVP of Development* [[Trump Organization]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Tribeca Developers]] *licenses Trump brand from* [[Trump Organization]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Trump Organization]] *licensing/management partner* [[MNC Group MNC Land]] · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 - [[Trump Organization]] *building* [[Trump hotel in Dubai Abu Dhabi]] · [[C16 Qatar jet, arms sales and golf deal|C16]]

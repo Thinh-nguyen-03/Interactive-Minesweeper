@@ -2,8 +2,8 @@
 id: "truth-social"
 kind: "entity"
 type: "company"
-connections: 13
-claims: 8
+connections: 12
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ TMTG's social platform, 'the president's Twitter account', where he posts market
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 8 claims |
-| Connections | 13 |
+| Appears in | 7 claims |
+| Connections | 12 |
 
 ## How other claims describe it
 
@@ -35,7 +35,6 @@ TMTG's social platform, 'the president's Twitter account', where he posts market
 - [[C30 Framing polls, supporters turning, Bannon, lawyer threat]] · Mostly accurate
 - [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal]] · Mostly accurate
 - [[C58 Market-moving posts and insider-trading allegations]] · Mostly accurate
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
 
 ## Relationships
 

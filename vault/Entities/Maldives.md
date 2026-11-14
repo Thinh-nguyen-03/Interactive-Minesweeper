@@ -10,13 +10,17 @@ tags:
 ---
 # Maldives
 
-Site of Trump International Hotel Maldives
+Location of Trump International Hotel Maldives
 
 | | |
 |---|---|
 | Type | Country |
 | Appears in | 2 claims |
 | Connections | 2 |
+
+## How other claims describe it
+
+- Site of Trump International Hotel Maldives
 
 ## Appears in claims
 

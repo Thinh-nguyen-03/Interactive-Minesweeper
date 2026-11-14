@@ -2,7 +2,7 @@
 id: "bidzina-ivanishvili"
 kind: "entity"
 type: "person"
-connections: 4
+connections: 7
 claims: 2
 tags:
   - "entity"
@@ -16,7 +16,11 @@ Georgian Dream founder; US-sanctioned Dec 2024; family fund sold the Tbilisi tow
 |---|---|
 | Type | Person |
 | Appears in | 2 claims |
-| Connections | 4 |
+| Connections | 7 |
+
+## How other claims describe it
+
+- Georgian Dream founder; US-sanctioned Dec 2024
 
 ## Appears in claims
 
@@ -29,6 +33,15 @@ Georgian Dream founder; US-sanctioned Dec 2024; family fund sold the Tbilisi tow
 
 - [[Bidzina Ivanishvili]] *family fund sold land for* [[Trump Tower Tbilisi]] · 2023 · $85M · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
 
-### Regulatory (1)
+### Family (1)
 
+- [[Bidzina Ivanishvili]] *father of* [[Uta Ivanishvili]] · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+
+### Regulatory (2)
+
+- [[US Treasury]] *sanctioned* [[Bidzina Ivanishvili]] · 2024-12-27 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Donald Trump]] *administration keeps sanctions on* [[Bidzina Ivanishvili]] · 2025 · [[C59 Foreign Trump Organization deals timed with tariff negotiations|C59]]
+
+### Political (1)
+
+- [[Ilia Tsulaia]] *former MP for Georgian Dream party* [[Bidzina Ivanishvili]] · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]

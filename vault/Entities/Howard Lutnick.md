@@ -2,8 +2,8 @@
 id: "howard-lutnick"
 kind: "entity"
 type: "person"
-connections: 29
-claims: 9
+connections: 30
+claims: 10
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 9 claims |
-| Connections | 29 |
+| Appears in | 10 claims |
+| Connections | 30 |
 
 ## How other claims describe it
 
@@ -37,6 +37,7 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
 - [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department]] · Mostly accurate
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 
 ## Relationships
 
@@ -74,9 +75,10 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 
 - [[Howard Lutnick]] *member (as Commerce Secretary)* [[President's Working Group on Digital Asset Markets]] · 2025-01 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 
-### Political (12)
+### Political (13)
 
 - [[Donald Trump]] *nominated as Commerce Secretary* [[Howard Lutnick]] · 2024-11 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
+- [[Howard Lutnick]] *Secretary of* [[US Department of Commerce]] · 2025 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]] [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Maria Cantwell]] *questioned on Tether at confirmation* [[Howard Lutnick]] · 2025-01-29 · [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[Donald Trump]] *appointed Commerce Secretary* [[Howard Lutnick]] · 2025-02 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Howard Lutnick]] *Secretary* [[US Department of Commerce]] · 2025-02 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
@@ -85,9 +87,9 @@ US Commerce Secretary since Feb 2025; former chairman/CEO of Cantor Fitzgerald
 - [[Elizabeth Warren]] *conflict-of-interest letters (USAR; 14 deals)* [[Howard Lutnick]] · 2026-02-26 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Elizabeth Warren]] *letter on USAR conflicts* [[Howard Lutnick]] · 2026-02-26 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
 - [[Ron Wyden]] *letter on USAR conflicts* [[Howard Lutnick]] · 2026-02-26 · [[C77 Greenland, the seabed and rare earths Cantor-linked firms before Lutnick's department|C77]]
+- [[Ron Wyden]] *asked whether Commerce knew of Base Group payment* [[Howard Lutnick]] · 2026-08 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Scott Bessent]] *reportedly confronted over Megaspeed (Commerce denies)* [[Howard Lutnick]] · 2026-11 · [[C50 Lutnick follow-ups Nvidia chip curbs, Tether and Iran, crypto council|C50]]
 - [[Howard Lutnick]] *credited by Cove with direct support* [[Cove Kaz Capital Cove Capital]] · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Howard Lutnick]] *Secretary of* [[US Department of Commerce]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 
 ### Legal (2)
 

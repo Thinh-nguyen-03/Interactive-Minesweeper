@@ -6,7 +6,7 @@ aliases:
   - "TMTG"
   - "Trump Media"
   - "Trump Media & Technology Group (DJT)"
-connections: 60
+connections: 62
 claims: 20
 tags:
   - "entity"
@@ -20,7 +20,7 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 |---|---|
 | Type | Company |
 | Appears in | 20 claims |
-| Connections | 60 |
+| Connections | 62 |
 | Also known as | TMTG; Trump Media; Trump Media & Technology Group (DJT) |
 
 ## How other claims describe it
@@ -52,13 +52,14 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[C65 Officials who decided matters involving their former clients or partners]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 
 ## Relationships
 
-### Money (21)
+### Money (22)
 
 - [[Yorkville Advisors]] *bought ~20M shares under $2.5B SEPA* [[Trump Media & Technology Group]] · 2024 · $450M · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Yorkville Advisors]] *equity-line buyer, placement agent, ETF adviser* [[Trump Media & Technology Group]] · 2024-07 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Trump Media & Technology Group]] *holds as treasury asset; marked-down losses drove FY2025 $712M loss* [[Bitcoin]] · 2025 · $712.3M · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Trump Media & Technology Group]] *granted 25,946 restricted shares (~$779K)* [[Kash Patel]] · 2025-01-28 · $779K · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Pam Bondi]] *sold >$1M of shares on Apr 2, 2025* [[Trump Media & Technology Group]] · 2025-04-02 · $1M · [[C65 Officials who decided matters involving their former clients or partners|C65]]
@@ -80,7 +81,7 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Retail investors Trump supporters]] *funded ~$712M losses of* [[Trump Media & Technology Group]] · $712M · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C29 Trump family wealth gains|C29]]
 - [[Trump Media & Technology Group]] *raised $2.5B for* [[TMTG bitcoin treasury]] · $2.5B · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 
-### Ownership (19)
+### Ownership (21)
 
 - [[Trump Media & Technology Group]] *operates* [[Truth+]] · 2024-08 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Donald J. Trump Revocable Trust]] *holds ~114.75M shares of* [[Trump Media & Technology Group]] · 2024-12 · [[C63 Shell entities and ownership chains|C63]]
@@ -96,11 +97,13 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Donald Trump]] *largest shareholder (via revocable trust) of* [[Trump Media & Technology Group]] · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Donald Trump]] *largest shareholder (via trust) of* [[Trump Media & Technology Group]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Donald Trump]] *largest shareholder of* [[Trump Media & Technology Group]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump]] *majority holder via revocable trust* [[Trump Media & Technology Group]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Donald Trump]] *majority shareholder* [[Trump Media & Technology Group]] · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Donald Trump]] *majority shareholder (via trust)* [[Trump Media & Technology Group]] · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Donald Trump Jr]] *board director; trustee of father's shares in* [[Trump Media & Technology Group]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Trump Media & Technology Group]] *owns* [[Truth Social]] · [[C20 Trump's stock purchases and Truth Social posts|C20]] [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 - [[Trump Media & Technology Group]] *owns and operates* [[Truth Social]] · [[C20 Trump's stock purchases and Truth Social posts|C20]]
+- [[Trump Media & Technology Group]] *Truth.Fi brand owner* [[Truth Social ETFs]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 
 ### Regulatory (2)
 
@@ -112,7 +115,7 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Kevin McGurn]] *adviser, then interim CEO* [[Trump Media & Technology Group]] · 2024-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Robert Lighthizer]] *resigned from board of* [[Trump Media & Technology Group]] · 2026-03-06 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Devin Nunes]] *former CEO, stepped down* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]] [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Eric Swider]] *resigned from board of* [[Trump Media & Technology Group]] · 2026-04-06 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Devin Nunes]] *CEO until April 2026 of* [[Trump Media & Technology Group]] · 2026-04-21 · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Devin Nunes]] *stepped down as CEO of* [[Trump Media & Technology Group]] · 2026-04-21 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
@@ -123,11 +126,12 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 
 - [[Cumberland (DRW)]] *denies quid pro quo with* [[Trump Media & Technology Group]] · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
 
-### Legal (1)
+### Legal (2)
 
 - [[Trump Media & Technology Group]] *litigation opponents sought Patomak records on TMTG* [[Patomak Global Partners]] · 2025-08 · [[C54 The crypto revolving door officials who moved to firms they shaped policy for|C54]]
+- [[Scott Glabe]] *general counsel* [[Trump Media & Technology Group]] · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 
-### Commercial (33)
+### Commercial (36)
 
 - [[Kash Patel]] *former director and paid consultant* [[Trump Media & Technology Group]] · 2022 · [[C65 Officials who decided matters involving their former clients or partners|C65]]
 - [[Crypto.com]] *ETF partnership for Truth.Fi (non-binding, then binding 2025-04-22)* [[Trump Media & Technology Group]] · 2025-03-24 · [[C22 Crypto.com and TMTG|C22]]
@@ -136,11 +140,14 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Cantor Fitzgerald]] *financial adviser on bitcoin-treasury raise* [[Trump Media & Technology Group]] · 2025-05 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Clear Street]] *co-lead placement agent on bitcoin raise* [[Trump Media & Technology Group]] · 2025-05 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Cohen & Company Capital Markets]] *co-placement agent* [[Trump Media & Technology Group]] · 2025-05 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Cohen & Company Capital Markets]] *co-placement agent on bitcoin raise* [[Trump Media & Technology Group]] · 2025-05 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Crypto.com]] *bitcoin co-custodian* [[Trump Media & Technology Group]] · 2025-05 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Yorkville Advisors]] *co-lead placement agent (Yorkville Securities)* [[Trump Media & Technology Group]] · 2025-05 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Anchorage Digital]] *custodian for bitcoin treasury* [[Trump Media & Technology Group]] · 2025-05-27 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]] [[C65 Officials who decided matters involving their former clients or partners|C65]]
+- [[Clear Street]] *co-lead placement agent on ~$2.44B raise* [[Trump Media & Technology Group]] · 2025-05-27 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Crypto.com]] *bitcoin treasury custodian* [[Trump Media & Technology Group]] · 2025-05-27 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Crypto.com]] *custodian for bitcoin treasury* [[Trump Media & Technology Group]] · 2025-05-27 · [[C19 Strategic Bitcoin Reserve, TMTG treasury, Cumberland Don Wilson|C19]]
+- [[Yorkville Securities]] *co-lead placement agent on ~$2.44B raise* [[Trump Media & Technology Group]] · 2025-05-27 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Yorkville America Digital]] *sponsor of Truth Social crypto ETF filings* [[Trump Media & Technology Group]] · 2025-06 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Crypto.com]] *CRO-treasury deal partner of* [[Trump Media & Technology Group]] · 2025-08 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Trump Media & Technology Group]] *announced, then shelved* [[Truth Predict]] · 2025-10-28 · [[C25 Prediction markets, CFTC and Don Jr|C25]]

@@ -246,7 +246,7 @@ The core of the lead is documented. A June 28, 2026 NYT investigation (Lipton an
 - [[Citizens for Responsibility and Ethics in Washington]] · Company
 - [[Cove Kaz Capital Cove Capital]] · Company
 - [[Critical Metals Corp]] · Company
-- [[Dominari Holdings]] · Company
+- [[Dominari Holdings Dominari Securities]] · Company
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
 - [[Elizabeth Warren]] · Person
@@ -312,9 +312,9 @@ The core of the lead is documented. A June 28, 2026 NYT investigation (Lipton an
 - [[Skyline Builders Group]] *bought 20% for $20M* [[Kaz Resources]] · 2025-10-31 · $20M · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Brandon Lutnick]] *chairman of* [[Cantor Fitzgerald]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Cantor Fitzgerald]] *major investor in (reported)* [[Critical Metals Corp]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Dominari Holdings]] *controls ~90% of* [[American Ventures]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Donald Trump Jr]] *shareholder* [[Dominari Holdings]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Eric Trump]] *shareholder and adviser* [[Dominari Holdings]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Dominari Holdings Dominari Securities]] *controls ~90% of* [[American Ventures]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Donald Trump Jr]] *shareholder* [[Dominari Holdings Dominari Securities]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Eric Trump]] *shareholder and adviser* [[Dominari Holdings Dominari Securities]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Kyle Lutnick]] *executive at* [[Cantor Fitzgerald]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 
 ### Family (2)
@@ -328,12 +328,12 @@ The core of the lead is documented. A June 28, 2026 NYT investigation (Lipton an
 
 ### Political (6)
 
+- [[Howard Lutnick]] *Secretary of* [[US Department of Commerce]] · 2025 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]] [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Peter Navarro]] *initiated government deal for* [[Vulcan Elements]] · 2025 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Donald Trump]] *announced Kazakhstan tungsten deal for* [[Kaz Resources]] · 2025-11-06 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Elizabeth Warren]] *conflict-of-interest letters (USAR; 14 deals)* [[Howard Lutnick]] · 2026-02-26 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Adam Schiff]] *letter on Vulcan loan* [[Office of Strategic Capital]] · 2026-07-30 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 - [[Richard Blumenthal]] *letter demanding records on 14 deals* [[Export-Import Bank of the United States]] · 2026-07-30 · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Howard Lutnick]] *Secretary of* [[US Department of Commerce]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 
 ### Legal (1)
 

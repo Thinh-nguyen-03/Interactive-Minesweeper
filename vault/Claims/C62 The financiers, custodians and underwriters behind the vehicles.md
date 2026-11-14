@@ -65,7 +65,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 
 ## Follow-up checks
 
-- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Pending
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 
 ## Sub-claims
 
@@ -346,7 +346,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - [[Cumberland (DRW)]] · Company
 - [[D. Boral Capital]] · Company
 - [[David Sacks]] · Person
-- [[Dominari Holdings]] · Company
+- [[Dominari Holdings Dominari Securities]] · Company
 - [[Don Wilson]] · Person
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
@@ -410,8 +410,8 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - [[Cantor Fitzgerald]] *reserve custodian; ~5% convertible holder* [[Tether]] · 2024 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Andrei Grachev]] *managing partner* [[DWF Labs]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]] [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets|C71]]
 - [[Brandon Lutnick]] *chairman/CEO* [[Cantor Fitzgerald]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Donald Trump Jr]] *adviser and ~6% holder* [[Dominari Holdings]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Eric Trump]] *adviser and ~6% holder* [[Dominari Holdings]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Donald Trump Jr]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Eric Trump]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Hut 8]] *80% owner via miner contribution* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Kevin McGurn]] *chairman/CEO/CFO; sponsor member* [[New America Acquisition I Corp]] · 2025-07 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
@@ -449,7 +449,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - [[Commodity Futures Trading Commission]] *amicus brief in Ninth Circuit* [[Crypto.com]] · 2026-02-17 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Office of the Comptroller of the Currency]] *conditional trust charter* [[Foris DAX National Trust Bank]] · 2026-02-23 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Federal Reserve Bank of Kansas City (federal-reserve-bank-of-kansas-city)]] *approved limited master account* [[Kraken Financial]] · 2026-03-04 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[US Congress]] *House China Select Committee information request* [[Dominari Holdings]] · 2026-03-08 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[US Congress]] *House China Select Committee information request* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Office of the Comptroller of the Currency]] *preliminary conditional approval* [[WLTC Holdings LLC]] · 2026-08-14 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 
 ### Advisory (7)
@@ -468,9 +468,9 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 
 ### Commercial (25)
 
-- [[Kyle Wool]] *president; CEO of Dominari Securities* [[Dominari Holdings]] · 2023-03 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]] [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Kyle Wool]] *president; CEO of Dominari Securities* [[Dominari Holdings Dominari Securities]] · 2023-03 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]] [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Anchorage Digital]] *custodian/collateral manager for bitcoin financing* [[Cantor Fitzgerald]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Dominari Holdings]] *lead underwriter on raises* [[American Bitcoin]] · 2025 · $220M · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Dominari Holdings Dominari Securities]] *lead underwriter on raises* [[American Bitcoin]] · 2025 · $220M · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[DWF Labs]] *committed liquidity / reserves* [[USD1]] · 2025 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Tuttle Capital Management]] *filed 2x leveraged ETF* [[$MELANIA meme coin]] · 2025-01 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Tuttle Capital Management]] *filed 2x leveraged ETF* [[$TRUMP meme coin]] · 2025-01 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
@@ -487,7 +487,7 @@ A small set of intermediaries recurs across Trump-family vehicles, and several o
 - [[Yorkville Acquisition Corp]] *SPAC merger partner (terminated)* [[Trump Media Group CRO Strategy]] · 2025-08-25 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Crypto.com]] *co-founder (terminated)* [[Trump Media Group CRO Strategy]] · 2025-08-26 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[D. Boral Capital]] *co-lead underwriter* [[New America Acquisition I Corp]] · 2025-12 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Dominari Holdings]] *co-lead underwriter* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[Dominari Holdings Dominari Securities]] *co-lead underwriter* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Tuttle Capital Management]] *subadviser* [[Truth Social ETFs]] · 2025-12-30 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Yorkville America Equities]] *adviser/sponsor* [[Truth Social ETFs]] · 2025-12-30 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[Anchorage Digital]] *issuer* [[USAT]] · 2026-01-27 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]

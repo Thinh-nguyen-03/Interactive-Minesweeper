@@ -184,7 +184,7 @@ TMTG did announce 'Truth API' on July 16, 2026. It is a paid, real-time licensed
 ### Advisory (3)
 
 - [[Devin Nunes]] *former CEO, stepped down* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
-- [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]] [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Donald Trump Jr]] *board member* [[Trump Media & Technology Group]] · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]]
 
 ### Political (2)

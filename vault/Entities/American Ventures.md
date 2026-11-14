@@ -57,14 +57,14 @@ $1B Dominari-created microcap investment vehicle (about 90% Dominari-owned) with
 
 ### Ownership (8)
 
-- [[Dominari Holdings]] *created, owns about 90%* [[American Ventures]] · 2026 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Dominari Holdings Dominari Securities]] *created, owns about 90%* [[American Ventures]] · 2026 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Donald Trump Jr]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Eric Trump]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Dominari Holdings]] *owns 90% of American Ventures Management LLC* [[American Ventures]] · 2026-05 · [[C63 Shell entities and ownership chains|C63]]
-- [[Dominari Holdings]] *owns 90% of manager* [[American Ventures]] · 2026-05 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Dominari Holdings Dominari Securities]] *owns 90% of American Ventures Management LLC* [[American Ventures]] · 2026-05 · [[C63 Shell entities and ownership chains|C63]]
+- [[Dominari Holdings Dominari Securities]] *owns 90% of manager* [[American Ventures]] · 2026-05 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[American Ventures]] *expected 9.9% beneficial owner of* [[Powerus Corp]] · 2026-10 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[American Ventures]] *holds Trump sons' stake* [[Aureus Greenway Holdings]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
-- [[Dominari Holdings]] *controls ~90% of* [[American Ventures]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Dominari Holdings Dominari Securities]] *controls ~90% of* [[American Ventures]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
 
 ### Media (1)
 

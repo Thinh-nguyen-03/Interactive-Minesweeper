@@ -146,7 +146,7 @@ Every core fact checks out: Eric Trump's Metaplanet advisory role (March 21, 202
 - [[American Data Centers Inc]] · Company
 - [[Asher Genoot]] · Person
 - [[Bitcoin]] · Asset
-- [[Dominari Holdings]] · Company
+- [[Dominari Holdings Dominari Securities]] · Company
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
 - [[Eric Trump]] · Person
@@ -172,7 +172,7 @@ Every core fact checks out: Eric Trump's Metaplanet advisory role (March 21, 202
 
 ### Ownership (16)
 
-- [[Dominari Holdings]] *co-formed and held stake in* [[American Data Centers Inc]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Dominari Holdings Dominari Securities]] *co-formed and held stake in* [[American Data Centers Inc]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump Jr]] *co-founded* [[American Data Centers Inc]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Eric Trump]] *co-founded* [[American Data Centers Inc]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Donald Trump Jr]] *co-owner of* [[American Bitcoin]] · 2025-03-31 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
@@ -196,8 +196,8 @@ Every core fact checks out: Eric Trump's Metaplanet advisory role (March 21, 202
 
 ### Advisory (6)
 
-- [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Eric Trump]] *board member/adviser of* [[Dominari Holdings]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Eric Trump]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Eric Trump]] *named to Strategic Board of Advisors of* [[Metaplanet]] · 2025-03-21 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Matt Prusak]] *CEO of (later president/interim CFO; left 2026-08)* [[American Bitcoin]] · 2025-03-31 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Asher Genoot]] *CEO of* [[Hut 8]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]

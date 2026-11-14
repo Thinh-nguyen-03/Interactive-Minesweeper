@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Crypto.com (Foris DAX)"
-connections: 33
-claims: 11
+connections: 34
+claims: 12
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Crypto exchange; SEC probe closed; bought $50M of TMTG stock; CFTC amicus; trust
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 11 claims |
-| Connections | 33 |
+| Appears in | 12 claims |
+| Connections | 34 |
 | Also known as | Crypto.com (Foris DAX) |
 
 ## How other claims describe it
@@ -42,6 +42,7 @@ Crypto exchange; SEC probe closed; bought $50M of TMTG stock; CFTC amicus; trust
 - [[C63 Shell entities and ownership chains]] · Mostly accurate
 - [[C64 Lobbyists and fixers who gets paid to reach the White House]] · Mostly accurate
 - [[C67 Investors who show up in several Trump-family vehicles]] · Mostly accurate
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
 
 ## Relationships
 
@@ -88,7 +89,7 @@ Crypto exchange; SEC probe closed; bought $50M of TMTG stock; CFTC amicus; trust
 
 - [[Molly White]] *tallied $36M in Trump-linked contributions from* [[Crypto.com]] · [[C22 Crypto.com and TMTG|C22]]
 
-### Commercial (17)
+### Commercial (18)
 
 - [[Crypto.com]] *increased lobbying payments to (AP)* [[Jeff Miller]] · 2024-12 · [[C43 Systematic overlap between dropped enforcement and Trump donors|C43]]
 - [[Crypto.com]] *ETF partnership for Truth.Fi (non-binding, then binding 2025-04-22)* [[Trump Media & Technology Group]] · 2025-03-24 · [[C22 Crypto.com and TMTG|C22]]
@@ -104,6 +105,7 @@ Crypto exchange; SEC probe closed; bought $50M of TMTG stock; CFTC amicus; trust
 - [[Crypto.com]] *prediction-market partner* [[Truth Predict]] · 2025-10-28 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Crypto.com]] *mints and custodies* [[TMTG shareholder rewards token]] · 2025-12-31 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Trump Media & Technology Group]] *partnered for Truth Predict; switched to marketing deal* [[Crypto.com]] · 2026-08 · [[C25 Prediction markets, CFTC and Don Jr|C25]]
+- [[Crypto.com]] *co-founder of; terminated* [[Trump Media Group CRO Strategy]] · 2026-08-07 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Crypto.com]] *co-sponsor (terminated)* [[Trump Media Group CRO Strategy]] · 2026-08-07 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Crypto.com]] *prediction-market marketing deal replacing integration* [[Trump Media & Technology Group]] · 2026-08-07 · [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
 - [[Crypto.com]] *party to* [[Crypto.com-TMTG strategic partnership]] · [[C22 Crypto.com and TMTG|C22]]

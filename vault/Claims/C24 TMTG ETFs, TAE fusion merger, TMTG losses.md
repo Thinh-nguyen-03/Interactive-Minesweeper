@@ -191,7 +191,7 @@ Trump Media's Truth.Fi brand launched five Truth Social ETFs on 2025-12-30, incl
 
 ### Advisory (3)
 
-- [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]]
+- [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] · 2026-04 · [[C21 TMTG's market-moving 'truths' API and Truth+|C21]] [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]] [[C41 Trump Media follow-ups API customers, SEC complaint, Nunes, CRO treasury deal|C41]] [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Devin Nunes]] *CEO until April 2026 of* [[Trump Media & Technology Group]] · 2026-04-21 · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 - [[Michl Binderbauer]] *CEO of* [[TAE Technologies]] · [[C24 TMTG ETFs, TAE fusion merger, TMTG losses|C24]]
 

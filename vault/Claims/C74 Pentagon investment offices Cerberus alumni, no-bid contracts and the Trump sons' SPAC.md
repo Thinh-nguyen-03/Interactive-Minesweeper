@@ -244,7 +244,7 @@ Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD)
 - [[D. Boral Capital]] · Company
 - [[David Boral]] · Person
 - [[David Lorch]] · Person
-- [[Dominari Holdings]] · Company
+- [[Dominari Holdings Dominari Securities]] · Company
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
 - [[Economic Defense Unit ('Deal Team Six')]] · Government body
@@ -293,7 +293,7 @@ Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD)
 ### Ownership (9)
 
 - [[Stephen Feinberg]] *co-founder; interests in trusts for children* [[Cerberus Capital Management]] · 2025 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
-- [[D. Boral Capital]] *affiliate; sole book-runner of $287.5M IPO* [[D. Boral Acquisition I]] · 2026-02 · $287.5M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[D. Boral Capital]] *affiliate; sole book-runner of $287.5M IPO* [[D. Boral Acquisition I]] · 2026-02 · $287.5M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]] [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[A&M Capital]] *affiliate* [[Alvarez & Marsal Federal]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Cerberus Capital Management]] *backer* [[Ligado Networks]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Cerberus Capital Management]] *owner* [[M1 Support Services]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
@@ -336,7 +336,7 @@ Every role, contract and loan in the brief is documented. Lorch (ex-Cerberus MD)
 ### Commercial (16)
 
 - [[D. Boral Capital]] *co-lead underwriter of $345M IPO* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
-- [[Dominari Holdings]] *co-lead underwriter* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
+- [[Dominari Holdings Dominari Securities]] *co-lead underwriter* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Kevin McGurn]] *director* [[D. Boral Acquisition I]] · 2026 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Luisa Ingargiola]] *director* [[D. Boral Acquisition I]] · 2026 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[North Wind]] *awardee (per Warren)* [[Golden Dome]] · 2026 · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]

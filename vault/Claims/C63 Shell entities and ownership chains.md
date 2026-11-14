@@ -306,7 +306,7 @@ The core ownership chains are documented. One Florida revocable trust, with Dona
 - [[Crypto.com]] · Company
 - [[Dar Global]] · Company
 - [[Designers Manager]] · Company
-- [[Dominari Holdings]] · Company
+- [[Dominari Holdings Dominari Securities]] · Company
 - [[Donald J. Trump Revocable Trust]] · Fund
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
@@ -394,7 +394,7 @@ The core ownership chains are documented. One Florida revocable trust, with Dona
 - [[Trump Media & Technology Group]] *formed treasury vehicle* [[Trump Media Group CRO Strategy]] · 2025-08-26 · [[C63 Shell entities and ownership chains|C63]]
 - [[WLTC Holdings LLC]] *wholly owns* [[World Liberty Trust Company, N.A]] · 2026-01-05 · [[C63 Shell entities and ownership chains|C63]]
 - [[Celebration Cards LLC]] *owns (per Senate letter)* [[Fight Fight Fight LLC]] · 2026-04-08 · [[C63 Shell entities and ownership chains|C63]]
-- [[Dominari Holdings]] *owns 90% of American Ventures Management LLC* [[American Ventures]] · 2026-05 · [[C63 Shell entities and ownership chains|C63]]
+- [[Dominari Holdings Dominari Securities]] *owns 90% of American Ventures Management LLC* [[American Ventures]] · 2026-05 · [[C63 Shell entities and ownership chains|C63]]
 - [[DT Marks SC LLC]] *passive investor in (OCC CD #1385); ~38% Trump-family stake reported* [[WLTC Holdings LLC]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
 - [[StringZ Holding RSC (DE) LLC]] *reported 49% owner; OCC-listed passive investor* [[WLTC Holdings LLC]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
 - [[WLTC Holdings LLC]] *shares indirect common owners with (OCC)* [[World Liberty Financial]] · 2026-08-14 · [[C63 Shell entities and ownership chains|C63]]
@@ -403,8 +403,8 @@ The core ownership chains are documented. One Florida revocable trust, with Dona
 - [[Donald J. Trump Revocable Trust]] *wholly owns* [[CIC Ventures LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump]] *manager, president, secretary, treasurer of* [[CIC Digital LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Donald Trump]] *beneficial owner (with family) of* [[DT Marks DEFI LLC]] · [[C63 Shell entities and ownership chains|C63]]
-- [[Donald Trump Jr]] *~6% shareholder/adviser* [[Dominari Holdings]] · [[C63 Shell entities and ownership chains|C63]]
-- [[Eric Trump]] *~6% shareholder/adviser* [[Dominari Holdings]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Donald Trump Jr]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Eric Trump]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks Abu Dhabi LLC DT Marks Al Raha Beach LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks Doha LLC]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Trump Organization]] *licensing vehicle of* [[DT Marks KSA LLC]] · [[C63 Shell entities and ownership chains|C63]]

@@ -5,8 +5,8 @@ type: "government"
 aliases:
   - "Congress"
   - "U.S. Congress"
-connections: 56
-claims: 35
+connections: 59
+claims: 37
 tags:
   - "entity"
   - "type/government"
@@ -20,8 +20,8 @@ Passed crypto legislation; questioned Selig.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 35 claims |
-| Connections | 56 |
+| Appears in | 37 claims |
+| Connections | 59 |
 | Also known as | Congress; U.S. Congress |
 
 ## How other claims describe it
@@ -69,6 +69,8 @@ Passed crypto legislation; questioned Selig.
 - [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka]] · Partly accurate
 - [[C71 Who actually bought World Liberty tokens Zhou, Web3Port, Aqua 1 and foreign wallets]] · Mostly accurate
 - [[C76 Russia-linked money around the family and envoys]] · Partly accurate
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 
 ## Relationships
 
@@ -79,13 +81,14 @@ Passed crypto legislation; questioned Selig.
 - [[US Congress]] *Senate Democrats demanded answers on failure to divest* [[Steve Witkoff]] · 2025-10 · [[C14 Steve and Zach Witkoff|C14]]
 - [[US Congress]] *asked to review Witkoff's filings* [[Office of Government Ethics]] · 2025-11 · [[C53 The Witkoff family's own Gulf money|C53]]
 - [[US Congress]] *Democratic committee inquiries into* [[Affinity Partners]] · 2026-03 · [[C15 Jared Kushner and Affinity Partners|C15]]
-- [[US Congress]] *House China Select Committee information request* [[Dominari Holdings]] · 2026-03-08 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[US Congress]] *House China Select Committee information request* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
 - [[US Department of Energy]] *submitted 123 agreement to* [[US Congress]] · 2026-08-25 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[US Congress]] *House passed 294-134; Senate cloture failed 49-50* [[CLARITY Act]] · 2026-09-15 · [[C11 GENIUS CLARITY Acts and USD1|C11]]
 - [[US State Department]] *notified F-35 sale to* [[US Congress]] · 2026-09-17 · $24.3B · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 
-### Political (13)
+### Political (14)
 
+- [[US Congress]] *House passed 349-42; stalled in Senate* [[MEGOBARI Act]] · 2025-05-06 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[US Congress]] *passed* [[GENIUS Act]] · 2025-07 · [[C11 GENIUS CLARITY Acts and USD1|C11]] [[C35 Howard Lutnick, Cantor Fitzgerald and Tether|C35]]
 - [[US Congress]] *Senate confirmed 50-45* [[Jonathan Gould]] · 2025-07-10 · [[C12 WLF bank charter from the OCC|C12]]
 - [[US Congress]] *Democratic members questioned marketing of* [[Trump Mobile]] · 2025-08-05 · [[C17 Trump merchandise and the T1 phone|C17]]

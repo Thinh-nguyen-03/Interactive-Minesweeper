@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Eric"
-connections: 75
-claims: 42
+connections: 81
+claims: 44
 tags:
   - "entity"
   - "type/person"
@@ -19,8 +19,8 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 42 claims |
-| Connections | 75 |
+| Appears in | 44 claims |
+| Connections | 81 |
 | Also known as | Eric |
 
 ## How other claims describe it
@@ -74,42 +74,46 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs]] · Mostly accurate
 - [[C73 Qatar's access network inside and around the administration]] · Mostly accurate
 - [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC]] · Mostly accurate
+- [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street]] · Mostly accurate
+- [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks]] · Mostly accurate
 - [[C82 Abu Dhabi layers unannounced Trump licensing entities, StringZ and the Delaware referr]] · Pending
 
 ## Relationships
 
-### Money (6)
+### Money (7)
 
 - [[Eric Trump]] *investor in most vehicles (FT)* [[American Ventures]] · 2025-08 · [[C63 Shell entities and ownership chains|C63]]
 - [[Eric Trump]] *investor (passive)* [[American Ventures]] · 2026 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Eric Trump]] *passive investor in* [[American Ventures]] · 2026 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Eric Trump]] *investor in* [[Foundation Future Industries]] · 2026 · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
+- [[Eric Trump]] *investor in XTEND/JFB drone merger* [[JFB Construction]] · 2026-02 · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Eric Trump]] *invested in merger of* [[XTEND]] · 2026-02 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Eric Trump]] *investor* [[American Ventures]] · [[C72 Pakistan World Liberty deal, Trump-tied lobbyists, minerals and tariffs|C72]]
 
-### Ownership (30)
+### Ownership (31)
 
 - [[Eric Trump]] *co-founder; holds tokens and USD1-related interest* [[World Liberty Financial]] · 2024 · [[C29 Trump family wealth gains|C29]]
 - [[Eric Trump]] *co-founder (Reuters tally venture)* [[American Bitcoin]] · 2025 · [[C55 How much has the Trump family made Competing totals|C55]]
 - [[Eric Trump]] *co-founded* [[American Data Centers Inc]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Eric Trump]] *adviser and shareholder* [[Dominari Holdings]] · 2025-02 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
-- [[Eric Trump]] *adviser and ~6% holder* [[Dominari Holdings]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
-- [[Eric Trump]] *adviser and ~6.7% shareholder* [[Dominari Holdings]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
-- [[Eric Trump]] *major shareholder* [[Dominari Holdings]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
-- [[Eric Trump]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings]] · 2025-02-21 · $1M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Eric Trump]] *adviser and shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
+- [[Eric Trump]] *adviser and ~6% holder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]]
+- [[Eric Trump]] *adviser and ~6.7% shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C67 Investors who show up in several Trump-family vehicles|C67]]
+- [[Eric Trump]] *major shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C27 New America Acquisition I Corp SPAC|C27]]
+- [[Eric Trump]] *6.71% holder (966,138 shares), about $1M placement buy* [[Dominari Holdings Dominari Securities]] · 2025-02-21 · $1M · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Eric Trump]] *co-founder and shareholder* [[American Bitcoin]] · 2025-03 · [[C29 Trump family wealth gains|C29]]
 - [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The financiers, custodians and underwriters behind the vehicles|C62]] [[C67 Investors who show up in several Trump-family vehicles|C67]]
 - [[Eric Trump]] *co-founder, chief strategy officer and shareholder of* [[American Bitcoin]] · 2025-03-31 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Eric Trump]] *president and trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]] [[C61 Shared lawyers and law firms across the deals|C61]] [[C66 The extended family Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka|C66]]
+- [[Eric Trump]] *indirect interest in 3M founder shares* [[New America Sponsor I LLC]] · 2025-08 · $30M · [[C78 The SPAC web McGurn, Yorkville, Texas Ventures, Clear Street|C78]]
 - [[Eric Trump]] *invested via Dominari-tied vehicle* [[Skyline Builders Group]] · 2025-08 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Eric Trump]] *reported indirect stake* [[Skyline Builders Group]] · 2025-08 · [[C47 Dominari's other deals Tron SRM with Justin Sun, Kazakhstan tungsten, Chinese IPOs|C47]]
 - [[Eric Trump]] *reportedly invested via Dominari SPV (FT)* [[Skyline Builders Group]] · 2025-08 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Eric Trump]] *indirect investor via American Ventures* [[Powerus Corp]] · 2026 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Eric Trump]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
 - [[Eric Trump]] *part-owns* [[American Bitcoin]] · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Eric Trump]] *shareholder and adviser* [[Dominari Holdings]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
-- [[Eric Trump]] *~6% shareholder of* [[Dominari Holdings]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
-- [[Eric Trump]] *~6% shareholder/adviser* [[Dominari Holdings]] · [[C63 Shell entities and ownership chains|C63]]
+- [[Eric Trump]] *shareholder and adviser* [[Dominari Holdings Dominari Securities]] · [[C60 Government equity stakes and critical-minerals deals who was positioned to profit|C60]]
+- [[Eric Trump]] *~6% shareholder of* [[Dominari Holdings Dominari Securities]] · [[C51 Trump sons' drone ventures and the Pentagon's Drone Dominance programme|C51]]
+- [[Eric Trump]] *~6% shareholder/adviser* [[Dominari Holdings Dominari Securities]] · [[C63 Shell entities and ownership chains|C63]]
 - [[Eric Trump]] *backer* [[New America Acquisition I Corp]] · [[C74 Pentagon investment offices Cerberus alumni, no-bid contracts and the Trump sons' SPAC|C74]]
 - [[Eric Trump]] *executive of* [[Trump Organization]] · [[C48 Trump presidential library foundation settlement money, Miami land, IRS status|C48]]
 - [[Eric Trump]] *executive running* [[Trump Organization]] · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
@@ -132,8 +136,8 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 ### Advisory (12)
 
 - [[Eric Trump]] *backs and promotes* [[World Liberty Financial]] · 2024-09 · [[C04 World Liberty Financial founding and token sale|C04]]
-- [[Eric Trump]] *board member/adviser of* [[Dominari Holdings]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
-- [[Eric Trump]] *adviser (advisory board)* [[Dominari Holdings]] · 2025-02-10 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
+- [[Eric Trump]] *board member/adviser of* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
+- [[Eric Trump]] *adviser (advisory board)* [[Dominari Holdings Dominari Securities]] · 2025-02-10 · [[C39 Dominari Holdings and the Trump sons' small-cap network|C39]]
 - [[Eric Trump]] *named to Strategic Board of Advisors of* [[Metaplanet]] · 2025-03-21 · [[C18 Eric Trump Metaplanet, American Bitcoin and Hut 8|C18]]
 - [[Eric Trump]] *strategic adviser to* [[Metaplanet]] · 2025-03-21 · [[C70 Foreign intermediaries what each partner got from Washington|C70]]
 - [[Eric Trump]] *announced as board director (reported as observer)* [[ALT5 Sigma]] · 2025-08 · [[C13 ALT5 Sigma $1.5B WLFI treasury deal|C13]]
@@ -164,7 +168,7 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Forbes]] *estimates 10x richer* [[Eric Trump]] · [[C29 Trump family wealth gains|C29]]
 - [[Maria Bartiromo]] *interviewed* [[Eric Trump]] · [[C28 Foundation Future Industries robots and Eric Trump|C28]]
 
-### Commercial (14)
+### Commercial (16)
 
 - [[Eric Trump]] *reportedly signed 49% stake deal with* [[Aryam Investment 1]] · 2025-01 · [[C07 MGX's $2B Binance investment settled in USD1|C07]]
 - [[Eric Trump]] *signed stake sale with* [[Aryam Investment 1]] · 2025-01 · [[C14 Steve and Zach Witkoff|C14]]
@@ -179,6 +183,8 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Eric Trump]] *co-announced launch of* [[Trump Mobile]] · 2025-06-16 · [[C17 Trump merchandise and the T1 phone|C17]]
 - [[Eric Trump]] *launched and marketed* [[Trump National Golf Course & Trump International Hotel, Diriyah]] · 2026-01-11 · [[C56 Saudi Arabia family deals alongside US policy|C56]]
 - [[Eric Trump]] *publicly launched* [[Trump National Golf Course & Trump International Hotel, Diriyah]] · 2026-01-11 · [[C31 Trump Organization Gulf real-estate deals (Dar Global)|C31]]
+- [[Eric Trump]] *visited Hanam site with Kim Sung-jip (single-source)* [[Trump International Golf Club Korea]] · 2026-02-11 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
+- [[Eric Trump]] *presented project by video* [[Trump Tower Tbilisi]] · 2026-09-15 · [[C79 Lesser-known foreign layers Tbilisi, South Korea, Maldives tokens, Vietnam trademarks|C79]]
 - [[Eric Trump]] *consulted by Kushner on branding* [[Trump Tower Belgrade (General Staff site)]] · [[C45 Kushner's Albania and Serbia developments|C45]]
 
 ## Themes
