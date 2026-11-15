@@ -441,10 +441,8 @@
   // ------------------------------------------------------------------ home
   var page = $('page');
   function listParts(parts) { return parts.length < 2 ? parts.join('') : parts.slice(0, -1).join(', ') + ' and ' + parts[parts.length - 1]; }
-  var NUMWORD = ['no', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'];
+  var NUMWORD = ['no', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'];
   function word(n) { return NUMWORD[n] || String(n); }
-  /* When the research and the second reviews ran. The data files carry no date per check, so the site gives the month. */
-  var REVIEWED = 'Nov 2026';
   /* A row of plain figures over small labels, divided by thin rules. items: [figure, label, class]. */
   function figRow(items, cls) {
     return '<dl class="figrow ' + (cls || '') + '">' + items.filter(Boolean).map(function (x) {
@@ -569,21 +567,24 @@
     var h = '<p class="crumb"><a href="#topics">All Checks</a>' + (topic && topic.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + topicHref(topic) + '">' + esc(topic.name) + '</a>' : '') + (c.ctype === 'connection' ? ' <span aria-hidden="true">/</span> Connection Check' : '') + '</p><article class="article"><div class="lead">' +
       '<h1 tabindex="-1">' + esc(c.title) + '</h1>' +
       '<p class="vstrip v-' + g + '">' + mark(c.verdict) + '<b>' + esc(VLABEL[c.verdict]) + '</b>' + (tot ? '<span>' + esc(tallyText(c)) + '</span>' : '') + '</p>' +
-      '<p class="dateline"><span class="wide">Last reviewed </span><span class="narrow">Reviewed </span>' + REVIEWED + ' · ' + plural(nsrc, 'source') + ' · ' + plural(tot, 'point') + '<span class="wide"> checked</span> · ' + (c.audit ? '<span class="wide">Independent second review</span><span class="narrow">Second review</span>' : 'No second review yet') + '</p>';
+      '<p class="dateline prov"><span>' + [plural(nsrc, 'source'), plural(tot, 'point') + ' checked', CONF[c.confidence] ? CONF[c.confidence] + ' confidence' : '', c.single_source ? 'One source for the central allegation' : '',
+        c.audit && AUDIT[c.audit.result] ? 'Second review ' + AUDIT[c.audit.result].toLowerCase() : c.audit ? 'Independent second review' : 'No second review yet'].filter(Boolean).join(' · ') + '</span>' +
+      '<a class="maplink" href="' + mapHref(c) + '">' + MAPICON + 'Show on Map</a></p>';
     if (isUnv(c)) h += '<p class="flagbox"><strong>' + esc(unvText(c)) + '.</strong> The central allegation ' + (c.single_source ? 'rests on one source and ' : '') + 'has not been corroborated. Everyone named denies it. Read this page as a record of what has been alleged and what is known about the allegation, not as a finding that it happened.</p>';
     var cp = arr(c.question_points).map(cap);
     if (!cp.length) cp = [c.title];
     var finding = firstSentence(c.bottom_line), restLine = String(c.bottom_line || '').slice(finding.length).trim();
-    var meta = [];
-    if (CONF[c.confidence]) meta.push(['Confidence', CONF[c.confidence]]);
-    if (c.audit && AUDIT[c.audit.result]) meta.push(['Second Review', AUDIT[c.audit.result]]);
-    if (c.single_source) meta.push(['Sourcing', 'One source']);
-    h += '<div class="cv cv-' + g + '"><div class="cv-claim"><h2 class="lab">The Claim</h2>' +
+    /* The two columns share the width by how much each has to say, so that they end near the same line. */
+    var claimLen = cp.join(' ').length + (cp.length > 2 ? 30 * cp.length : 0), findLen = finding.length, split = 0.5, best = Infinity;
+    for (var a = 0.32; a <= 0.66; a += 0.02) {
+      var hc = Math.ceil(claimLen / (a * 82)), hv = Math.ceil(findLen / ((1 - a) * 82 - 3)) + 1.5, d = Math.abs(hc - hv);
+      if (d < best - 0.01) { best = d; split = a; }
+    }
+    h += '<div class="cv cv-' + g + '" style="--cv-split:' + Math.round(split * 100) + '%"><div class="cv-claim"><h2 class="lab">The Claim</h2>' +
       (cp.length > 2 ? '<ul>' + cp.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>' : '<p>' + rich(cp.join(' ')) + '</p>') + '</div>' +
       '<div class="cv-verdict"><h2 class="lab">The Verdict</h2>' +
-      '<p class="cv-word"><span class="v-' + g + '">' + esc(VLABEL[c.verdict]) + '</span><a class="btn slim" href="' + mapHref(c) + '">' + MAPICON + 'Show on Map</a></p>' +
+      '<p class="cv-word"><span class="v-' + g + '">' + esc(VLABEL[c.verdict]) + '</span></p>' +
       '<p class="cv-finding">' + rich(finding) + '</p>' +
-      (meta.length ? '<dl class="cv-meta">' + meta.map(function (m) { return '<div><dt>' + m[0] + '</dt><dd>' + m[1] + '</dd></div>'; }).join('') + '</dl>' : '') +
       '</div></div>';
     if (restLine) h += '<p class="bottom">' + rich(restLine) + '</p>';
     if (arr(c.bottom_parts).length) h += '<ul class="plain">' + c.bottom_parts.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>';
@@ -596,13 +597,13 @@
     // the rail: figures first, then the sections that exist on this page
     var mixed = (t[0] ? 1 : 0) + (t[1] ? 1 : 0) + (t[2] ? 1 : 0) > 1;
     var gl = [];
-    if (t[0]) gl.push(['hold', t[0] === tot ? (tot === 1 ? 'The One Point Holds Up' : 'All Points Hold Up') : 'Points That Hold Up', t[0] === tot ? tot : t[0] + ' of ' + tot]);
-    if (t[1]) gl.push(['part', 'Points That Needed Correcting', t[1]]);
-    if (t[2]) gl.push(['unp', 'Points Left Unproven', t[2]]);
-    if (fixesN) gl.push(['', fixesN === 1 ? 'Detail of the Claim Corrected' : 'Details of the Claim Corrected', fixesN]);
-    if (notes.length) gl.push(['', notes.length === 1 ? 'Caveat Noted' : 'Caveats Noted', notes.length]);
-    if (nsrc) gl.push(['', 'Sources Cited', nsrc]);
-    if (c.ents.length) gl.push(['', 'Names Involved', c.ents.length]);
+    if (t[0]) gl.push(['hold', t[0], (t[0] === tot ? '' : 'of ' + tot + ' ') + (t[0] === 1 && t[0] === tot ? 'point holds up' : 'points hold up')]);
+    if (t[1]) gl.push(['part', t[1], t[1] === 1 ? 'point needed correcting' : 'points needed correcting']);
+    if (t[2]) gl.push(['unp', t[2], t[2] === 1 ? 'point left unproven' : 'points left unproven']);
+    if (fixesN) gl.push(['', fixesN, fixesN === 1 ? 'detail corrected' : 'details corrected']);
+    if (notes.length) gl.push(['', notes.length, notes.length === 1 ? 'caveat noted' : 'caveats noted']);
+    if (nsrc) gl.push(['', nsrc, nsrc === 1 ? 'source cited' : 'sources cited']);
+    if (c.ents.length) gl.push(['', c.ents.length, c.ents.length === 1 ? 'name involved' : 'names involved']);
     var toc = [];
     if (holds.length) toc.push(['holds', 'What Holds Up']);
     if (fixes.length) toc.push(['fixes', 'What Needs Correcting']);
@@ -612,7 +613,7 @@
     if (c.report) toc.push(['report', 'Full Report']);
     if (par.length || c.kids.length) toc.push(['related', 'Related Checks']);
     h += '<aside class="aside"><div class="block"><h2>At a Glance</h2>' + (mixed ? bar(t) : '') + '<ul class="glance">' +
-      gl.map(function (x) { return '<li>' + (x[0] ? '<span class="v-' + x[0] + '">' + mark(x[0]) + '</span>' : '<span></span>') + '<span>' + x[1] + '</span><b>' + x[2] + '</b></li>'; }).join('') + '</ul></div>' +
+      gl.map(function (x) { return '<li><b' + (x[0] ? ' class="v-' + x[0] + '"' : '') + '>' + num(x[1]) + '</b><span>' + x[2] + '</span></li>'; }).join('') + '</ul></div>' +
       tocBlock(toc) + '</aside>';
 
     h += '<div class="body">';
@@ -650,12 +651,17 @@
     var crels = rels.filter(function (r) { return r.claims.indexOf(c.id) >= 0; }), deg = new Map();
     crels.forEach(function (r) { deg.set(r.S, (deg.get(r.S) || 0) + 1); deg.set(r.T, (deg.get(r.T) || 0) + 1); });
     var ents = c.ents.slice().sort(function (a, b) { return (deg.get(b) || 0) - (deg.get(a) || 0) || b.cl.length - a.cl.length || a.name.localeCompare(b.name); });
-    h += '<section>' + secHead('who', null, '', 'Who Is Involved', plural(ents.length, 'Name')) + '<div class="whogrid"><div id="figblock"></div><div class="wholists">';
-    GROUPS.forEach(function (gr) {
-      var list = ents.filter(function (e) { return e.group === gr; });
-      if (list.length) h += '<div class="whogroup"><h3>' + kmark({ group: gr }) + GLABEL[gr] + ' <span class="cnt">' + list.length + '</span></h3>' + fold(list.map(function (e) { return '<li>' + entLink(e) + '</li>'; }), 8, GLABEL[gr], 'ul', 'inv') + '</div>';
-    });
-    h += '</div></div></section>';
+    h += '<section>' + secHead('who', null, '', 'Who Is Involved', plural(ents.length, 'Name')) +
+      '<p class="sub">Ranked by the number of links this check records for each name.</p>' +
+      '<div class="tablewrap"><table class="ctable wtable" data-foldbox><thead><tr><th>Name</th><th>Kind</th><th class="numc">Links</th><th>In This Check</th></tr></thead><tbody>' +
+      ents.map(function (e, i) {
+        var mine = crels.filter(function (r) { return r.S === e || r.T === e; }), r = mine.length ? strongest(mine) : null;
+        var allA = mine.length && mine.every(function (x) { return x.alleged; });
+        return '<tr' + (i >= 8 ? ' hidden data-fold' : '') + (allA ? ' class="alleged"' : '') + '><th scope="row">' + entLink(e) + '</th><td class="kind">' + esc(TLABEL[e.type]) + '</td><td class="numc">' + (deg.get(e) || 0) + '</td>' +
+          '<td>' + (r ? esc(cap(plainSentence(r))) + (r.date ? ' <span class="when">' + esc(fdate(r.date)) + '</span>' : '') + (allA ? ' ' + allegedFlag() : '') : '<span class="muted">' + (e.role ? rich(trunc(e.role, 110)) : 'Named in the check') + '</span>') + '</td></tr>';
+      }).join('') + '</tbody>' +
+      (ents.length > 8 ? '<tfoot><tr><td colspan="4"><button class="more" type="button" data-unfold>' + (ents.length - 8) + ' More</button></td></tr></tfoot>' : '') + '</table></div>' +
+      '<div id="figblock"><h3 class="minor">How the Main Names Connect</h3></div></section>';
     // sources, grouped by publisher
     var groups = new Map();
     arr(c.sources).forEach(function (s) { var k = s.publisher || (s.url ? host(s.url) : 'Other'); if (!groups.has(k)) groups.set(k, []); groups.get(k).push(s); });
@@ -742,19 +748,14 @@
     var tl = arr(e.timeline).map(function (i) { return relAt[i]; }).filter(function (r) { return r && r.S; });
     var alleged = lines.filter(function (r) { return r.alleged; }).length;
 
-    var sum = '<strong>' + esc(shortName(e)) + '</strong> is named in ' + cls.length + ' of the ' + claims.length + ' checks' +
-      (lines.length ? ', which record ' + plural(lines.length, 'documented connection') + ' to ' + plural(by.size, 'other name') + '.' : '. No connection to another name is recorded.');
-    if (tl.length > 1) sum += ' ' + cap(word(tl.length)) + ' of them carry a date, from ' + esc(fdate(String(tl[0].date).split('/')[0])) + ' to ' + esc(fdate(String(tl[tl.length - 1].date).split('/').pop())) + '.';
-    sum += ' Every line comes from a check and its sources; it records a relationship and is not an accusation.' +
-      (alleged ? ' ' + cap(word(alleged)) + ' ' + (alleged === 1 ? 'line rests' : 'lines rest') + ' only on an unverified allegation and ' + (alleged === 1 ? 'is' : 'are') + ' marked.' : '');
-
     var h = '<p class="crumb"><a href="#names">People &amp; Organisations</a></p><article class="profile"><header class="phead">' +
       '<div class="titlebar"><h1 tabindex="-1">' + esc(e.name) + '</h1><a class="btn" href="' + mapHref(e) + '">' + MAPICON + 'Show on Map</a></div>' +
-      '<p class="role">' + (e.role ? rich(e.role) : esc(TLABEL[e.type])) + '</p>' +
+      (e.role ? '<p class="role">' + rich(cap(e.role)) + '</p>' : '') +
+      '<p class="facts">' + kmark(e) + esc(TLABEL[e.type]) + (also.length ? ' · Also written as ' + esc(also.join(', ')) : '') + '</p>' +
       figRow([[num(cls.length), 'Checks That Name ' + it], [num(lines.length), 'Documented Connections'], by.size ? [num(by.size), 'Connected Names'] : null,
         top ? [esc(money(top.amount_usd)), 'Largest Sum on Record'] : null], 'pfigs') +
-      '<p class="psum">' + sum + '</p>' +
-      '<p class="facts">' + kmark(e) + esc(TLABEL[e.type]) + (also.length ? ' · Also written as ' + esc(also.join(', ')) : '') + '</p>' +
+      '<p class="pnote">Each connection comes from a check and its sources. It records a relationship, not an accusation.' +
+      (alleged ? ' ' + cap(word(alleged)) + ' ' + (alleged === 1 ? 'connection rests' : 'connections rest') + ' only on an unverified allegation and ' + (alleged === 1 ? 'is' : 'are') + ' marked.' : '') + '</p>' +
       (arr(e.details).length ? '<ul class="plain more-points">' + e.details.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>' : '') +
       (unv.length ? '<p class="flagbox"><strong>' + (e.unverified_only ? 'Named only in an unverified check.' : 'Also named in an unverified check.') + '</strong> ' + listParts(unv.map(function (c) { return claimLink(c); })) + (unv.length === 1 ? ' is an allegation' : ' are allegations') + ' from a single source, denied by everyone named. Lines that rest only on ' + (unv.length === 1 ? 'it' : 'them') + ' are marked “Alleged, Unverified”.</p>' : '') +
       '</header><div class="pbody">';
@@ -777,7 +778,7 @@
       '<p class="sub">Amounts recorded on these connections. A sum is what the record states, not a judgement about it.</p><ul class="recs sums">' +
       sums.map(function (r) {
         var o = r.S === e ? r.T : r.S;
-        return recRow('<b>' + esc(money(r.amount_usd)) + '</b>', '<p>' + entLink(o) + (r.date ? ' <span class="when">' + esc(fdate(r.date)) + '</span>' : '') + '</p><p class="sec2">' + briefFrom(r, e, true) + (r.alleged ? ' ' + allegedFlag() : '') + '</p>', srcCheck(r.claims), r.alleged ? 'alleged' : '');
+        return '<li class="rec' + (r.alleged ? ' alleged' : '') + '"><span class="amt">' + esc(money(r.amount_usd)) + '</span><div class="what"><p>' + entLink(o) + '</p><p class="sec2">' + briefFrom(r, e, true) + (r.alleged ? ' ' + allegedFlag() : '') + '</p></div><span class="when">' + (r.date ? esc(fdate(r.date)) : '') + '</span><span class="src">' + srcCheck(r.claims) + '</span></li>';
       }).join('') + '</ul></section>';
 
     // in date order
@@ -856,7 +857,7 @@
     var nCheck = claims.filter(function (c) { return c.ctype !== 'connection'; }).length, nConn = claims.length - nCheck;
     page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">How We Checked</h1>' +
       '<p class="lede">This is a verification project, not an accusation. It takes claims about the business, financial and political dealings of Donald Trump, his family and his administration, and tests each one against the public record.</p>' +
-      '<p class="dateline">Research and second review ran in ' + REVIEWED + (META.generated ? ' · Data built ' + esc(fdate(META.generated)) : '') + '</p></div>' +
+      (META.generated ? '<p class="dateline">Data built ' + esc(fdate(META.generated)) + '</p>' : '') + '</div>' +
       figRow([[num(nCheck), 'Checks of Claims'], [num(nConn), 'Connection Checks'], [num(TOPICS.length), 'Topics'],
         [num((META.points || {}).total), 'Points Checked'], [num(META.sources), 'Sources Cited'], [num(entities.length), 'Names Mapped']], 'methodfigs') +
       '<section class="sec"><h2>The Method</h2><ol class="steps">' +
@@ -872,7 +873,7 @@
       (arr(META.unverified).length ? '<li><strong>' + cap(word(META.unverified.length)) + ' ' + (META.unverified.length === 1 ? 'check is a single-source allegation' : 'checks are single-source allegations') + '.</strong> ' + listParts(META.unverified.map(function (id) { var c = byKey.get(id); return c ? claimLink(c) : ''; })) + (META.unverified.length === 1 ? ' comes' : ' come') + ' from one book and ' + (META.unverified.length === 1 ? 'is' : 'are') + ' denied by everyone named. They are marked unverified wherever they appear, and lines that rest only on them are drawn dashed on the map.</li>' : '') +
       '<li><strong>No payment is shown to have bought an official act.</strong> That inference is not established in any check. Where a claim implies it, the point is marked unverified.</li>' +
       '<li><strong>A link is not a cause.</strong> A line between two names means a documented relationship: a payment, a stake, a job, a family tie, a legal action. It does not show that one thing led to another, and everyone named denies wrongdoing.</li>' +
-      '<li><strong>The research has a date.</strong> It ran in November 2026. Later developments are not reflected.</li></ul></section>' +
+      '<li><strong>The research has a date.</strong> ' + (META.generated ? 'The data was built on ' + esc(fdate(META.generated)) + '. ' : '') + 'Later developments are not reflected.</li></ul></section>' +
       '<section class="sec"><h2>Corrections</h2><p class="intro">If a finding is wrong or out of date, the fix belongs in the check’s data file and report, with a source, followed by a rebuild of the site.</p></section>';
   }
   function notFound(h) {
@@ -1745,22 +1746,26 @@
     if (focusMode() && map.focus) paintFocus(ctx, W, H, T); else paint(ctx, W, H, T);
   }
   /* The home page shows a small, legible network of the best-connected names, in the map's own visual language. */
-  var teaser = null;
+  var teaser = {};
+  function teaserCount() { return narrow.matches ? 6 : 10; }
   function teaserData() {
-    if (teaser) return teaser;
+    var count = teaserCount();
+    if (teaser[count]) return teaser[count];
     var pick = [], seen = {};
-    ranked.forEach(function (e) { var t = mapLabel(e); if (pick.length < 15 && e.type !== 'media' && !e.unverified_only && !seen[t]) { seen[t] = 1; pick.push(e); } });
-    var ns = pick.map(function (e, i) { var a = i * 2.399963, r = 20 * Math.sqrt(i); return { e: e, x: r * Math.cos(a), y: r * Math.sin(a) }; }), at = new Map();
+    ranked.forEach(function (e) { var t = mapLabel(e); if (pick.length < count && e.type !== 'media' && !e.unverified_only && !seen[t]) { seen[t] = 1; pick.push(e); } });
+    var ns = pick.map(function (e, i) { var a = i * 2.399963, r = 26 * Math.sqrt(i); return { e: e, x: r * Math.cos(a), y: r * Math.sin(a) }; }), at = new Map();
     ns.forEach(function (d) { at.set(d.e, d); });
     var ls = [];
     links.forEach(function (l) { if (l.kind === 'rel' && at.has(l.source) && at.has(l.target)) ls.push({ source: at.get(l.source), target: at.get(l.target), w: l.w, unv: l.unv }); });
     if (d3) {
-      var sim = d3.forceSimulation(ns).force('link', d3.forceLink(ls).distance(120).strength(function (l) { return 0.04 + 0.02 * Math.min(l.w, 4); }))
-        .force('charge', d3.forceManyBody().strength(-900)).force('collide', d3.forceCollide(58)).force('x', d3.forceX(0).strength(0.06)).force('y', d3.forceY(0).strength(0.09)).stop();
-      for (var i = 0; i < 320; i++) sim.tick();
+      var sim = d3.forceSimulation(ns).force('link', d3.forceLink(ls).distance(150).strength(function (l) { return 0.03 + 0.015 * Math.min(l.w, 4); }))
+        .force('charge', d3.forceManyBody().strength(-1400)).force('collide', d3.forceCollide(78)).force('x', d3.forceX(0).strength(0.05)).force('y', d3.forceY(0).strength(0.1)).stop();
+      for (var i = 0; i < 400; i++) sim.tick();
     }
-    return (teaser = { nodes: ns, links: ls });
+    return (teaser[count] = { nodes: ns, links: ls });
   }
+  /* The teaser places its own labels: each name tries the sides of its mark in turn and takes the first spot that is
+     inside the picture and clear of every mark and every label already placed. */
   function drawPreview() {
     var cv = $('preview'); if (!cv) return;
     var box = cv.getBoundingClientRect(); if (box.width < 2) return;
@@ -1769,23 +1774,44 @@
     var c = cv.getContext('2d');
     if (!C.bg) readTokens();
     c.setTransform(r, 0, 0, r, 0, 0); c.clearRect(0, 0, w, h);
+    var font = '600 12.5px ' + FONT, LH = 15, pageBg = getComputedStyle(document.documentElement).getPropertyValue('--bg').trim() || C.bg;
+    c.font = font;
+    td.nodes.forEach(function (d) {
+      d.r = 5 + 7 * Math.sqrt(d.e.imp / IMPMAX); d.lines = wrapLines(mapLabel(d.e), 15);
+      d.tw = Math.max.apply(null, d.lines.map(function (t) { return c.measureText(t).width; })); d.th = d.lines.length * LH;
+    });
     var x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity;
     td.nodes.forEach(function (d) { x0 = Math.min(x0, d.x); x1 = Math.max(x1, d.x); y0 = Math.min(y0, d.y); y1 = Math.max(y1, d.y); });
-    var mx = Math.min(64, w * 0.15), my = 36, kx = (w - 2 * mx) / (x1 - x0 || 1), ky = (h - 2 * my - 14) / (y1 - y0 || 1);
+    var mx = Math.min(74, w * 0.17), my = 34, kx = (w - 2 * mx) / (x1 - x0 || 1), ky = (h - 2 * my) / (y1 - y0 || 1);
     function X(d) { return mx + (d.x - x0) * kx; } function Y(d) { return my + (d.y - y0) * ky; }
-    c.strokeStyle = C.edge;
+    c.strokeStyle = C.edge; c.lineCap = 'round';
     td.links.forEach(function (l) {
-      c.globalAlpha = Math.min(0.6, C.edgeA + 0.05 * l.w); c.lineWidth = Math.min(2, 0.7 + 0.22 * l.w); c.setLineDash(l.unv ? [3, 3] : []);
+      c.globalAlpha = Math.min(0.5, C.edgeA * 0.8 + 0.04 * l.w); c.lineWidth = Math.min(2, 0.8 + 0.2 * l.w); c.setLineDash(l.unv ? [3, 3] : []);
       c.beginPath(); c.moveTo(X(l.source), Y(l.source)); c.lineTo(X(l.target), Y(l.target)); c.stroke();
     });
-    c.setLineDash([]);
-    var placed = [], font = '600 12px ' + FONT;
-    td.nodes.forEach(function (d) { d.r = 4.5 + 7.5 * Math.sqrt(d.e.imp / IMPMAX); placed.push([X(d) - d.r, Y(d) - d.r, X(d) + d.r, Y(d) + d.r]); });
+    c.setLineDash([]); c.globalAlpha = 1;
+    var placed = [];
+    td.nodes.forEach(function (d) { placed.push([X(d) - d.r - 2, Y(d) - d.r - 2, X(d) + d.r + 2, Y(d) + d.r + 2]); });
     td.nodes.forEach(function (d) { drawEnt(c, d.e, X(d), Y(d), d.r, 1); });
+    function clear(b) { return b[0] >= 2 && b[1] >= 2 && b[2] <= w - 2 && b[3] <= h - 2 && !placed.some(function (q) { return b[0] < q[2] && b[2] > q[0] && b[1] < q[3] && b[3] > q[1]; }); }
     td.nodes.forEach(function (d) {
-      var lines = wrapLines(mapLabel(d.e), 16), p = placeLabel(c, placed, X(d), Y(d), d.r, lines, font, 14, w, h, null, true);
-      placed.push(p.box); drawLabel(c, p, lines, font, 14, C.label, 1);
+      var x = X(d), y = Y(d), g = d.r + 6, tw = d.tw, th = d.th, cxm = w / 2;
+      var right = [x + g, y - th / 2, 'left'], left = [x - g - tw, y - th / 2, 'right'], below = [x - tw / 2, y + g - 1, 'center'], above = [x - tw / 2, y - g - th + 1, 'center'];
+      var cand = (x >= cxm ? [right, below, above, left] : [left, below, above, right]).concat([
+        [x + g - 2, y + 2, 'left'], [x - g + 2 - tw, y + 2, 'right'], [x + g - 2, y - th - 2, 'left'], [x - g + 2 - tw, y - th - 2, 'right']]);
+      var spot = null;
+      for (var i = 0; i < cand.length && !spot; i++) { var q = cand[i], b = [q[0] - 2, q[1] - 1, q[0] + tw + 2, q[1] + th + 1]; if (clear(b)) spot = { x: q[0], y: q[1], align: q[2], box: b }; }
+      if (!spot) return;   // a name with no clear spot is left unlabelled, never drawn over another
+      placed.push(spot.box);
+      c.font = font; c.textBaseline = 'middle'; c.textAlign = spot.align; c.lineJoin = 'round';
+      var tx = spot.align === 'left' ? spot.x : spot.align === 'right' ? spot.x + tw : spot.x + tw / 2;
+      d.lines.forEach(function (t, i) {
+        var ty = spot.y + LH * (i + 0.5);
+        c.lineWidth = 4; c.strokeStyle = pageBg; c.strokeText(t, tx, ty);
+        c.fillStyle = C.label; c.fillText(t, tx, ty);
+      });
     });
+    c.textAlign = 'left'; c.textBaseline = 'alphabetic';
   }
 
   function showTip(n) {
@@ -2227,11 +2253,14 @@
     return (MX.data = { names: order, hub: hub, cnt: cnt, alg: alg, topics: tops, grouped: MX.order === 'group',
       inTopic: function (e, t) { return e.cl.filter(function (c) { return c.topicRef === t; }); } });
   }
-  function mxStep(v) { return v >= 3 ? 3 : v; }
+  function mxStep(v) { return v >= 5 ? 5 : v; }
+  function mxTStep(v) { return v >= 8 ? 5 : v >= 5 ? 4 : v >= 3 ? 3 : v; }
   function mxKeyHtml(byT) {
-    return byT ? '<span><i class="c1"></i>1 or 2 checks</span><span><i class="c2">3</i>3 to 5</span><span><i class="c3">6</i>6 or more</span>'
-      : '<span><i class="c1"></i>1 documented link</span><span><i class="c2">2</i>2</span><span><i class="c3">3</i>3 or more</span><span><i class="cu"></i>Unverified only</span>';
+    var labs = byT ? ['1', '2', '3 to 4', '5 to 7', '8 or more'] : ['1', '2', '3', '4', '5 or more'];
+    return '<span class="klab">' + (byT ? 'Checks that mention the name' : 'Documented links') + '</span>' + labs.map(function (t, q) { return '<span><i class="c' + (q + 1) + '"></i>' + t + '</span>'; }).join('') +
+      (byT ? '' : '<span class="kun"><i class="cu"></i>Unverified only</span>');
   }
+  /* One figure: square cells of one size, a fixed gutter between groups, labels that stay in view while the grid scrolls. */
   function renderMatrix() {
     var ph = narrow.matches, sc = $('mx-scroll'), byT = MX.mode === 'topics', grouped = MX.order === 'group';
     document.querySelectorAll('[data-mx]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.getAttribute('data-mx') === MX.mode)); });
@@ -2239,47 +2268,45 @@
     $('mx-title').textContent = byT ? 'Which Names Appear in Which Topics' : 'Who Is Linked to Whom';
     $('mx-key').innerHTML = mxKeyHtml(byT);
     if (ph) { mxFocusList(); mxRead(null); mxSide(); return; }
-    // as many names as fit without scrolling, at a comfortable cell size
-    var headH = byT ? 150 : 104, fixed = headH + (grouped && !byT ? 34 : 0) + 52 + (grouped ? 40 : 0) + 8;
-    var size = Math.max(14, Math.min(40, Math.floor((sc.clientHeight - fixed) / 20)));
-    if (MX.refit) size = MX.refit;
+    var CS = 24, GUT = 8, RH = 172, BAR = 80, room = sc.clientWidth - 24 - RH - BAR;
+    var size = Math.max(14, Math.min(36, Math.floor((room - 5 * GUT) / CS)));   // as many names as the width holds
     if (size !== MX.size) { MX.size = size; MX.data = null; MX.sel = null; }
-    var D = mxData(), cols = byT ? D.topics : D.names, N = D.names.length, h;
-    var wAvail = sc.clientWidth - (grouped ? 140 : 0) - 178 - 104 - (grouped && !byT ? 48 : 0) - (byT ? 70 : 96);
-    var cs = Math.max(15, Math.min(20, Math.floor((sc.clientHeight - fixed) / N), byT ? 20 : Math.floor(wAvail / N)));
-    var cw = byT ? Math.max(44, Math.min(74, Math.floor(wAvail / cols.length))) : cs, tmax = 1;
+    var D = mxData(), cols = byT ? D.topics : D.names, h, tmax = 1, guts = 0;
+    var cw = byT ? Math.max(58, Math.min(84, Math.floor(room / cols.length))) : CS;
     D.names.forEach(function (e) { tmax = Math.max(tmax, byT ? e.cl.length : e.mxt); });
-    function gbc(j) { return grouped && !byT && j && cols[j - 1].mxg !== cols[j].mxg ? ' gb' : ''; }
+    function gb(j) { return grouped && !byT && j && cols[j - 1].mxg !== cols[j].mxg; }
+    function gut(j, tag) { return gb(j) ? '<' + tag + ' class="gut"></' + tag + '>' : ''; }
+    cols.forEach(function (c, j) { if (gb(j)) guts++; });
+    var span = cols.length + guts + 1;
     function cell(i, j, a, b) {
       var v, u = 0, cls;
-      if (byT) { v = D.inTopic(a, b).length; cls = 'c' + (v >= 6 ? 3 : v >= 3 ? 2 : v ? 1 : 0); }
-      else if (a === b) return '<td class="cd' + gbc(j) + '"></td>';
-      else { v = D.cnt(a, b); u = D.alg(a, b); cls = v ? 'c' + mxStep(v) + (u ? ' cm' : '') : u ? 'cu' : 'c0'; }
-      return '<td class="' + cls + gbc(j) + '" data-i="' + i + '" data-j="' + j + '"' + (v || u ? ' tabindex="-1"' : '') + '>' + (v >= (byT ? 1 : 2) ? v : '') + '</td>';
+      if (byT) { v = D.inTopic(a, b).length; cls = 'c' + mxTStep(v); }
+      else if (a === b) return gut(j, 'td') + '<td class="cd"></td>';
+      else { v = D.cnt(a, b); u = D.alg(a, b); cls = v ? 'c' + mxStep(v) : u ? 'cu' : 'c0'; }
+      return gut(j, 'td') + '<td class="' + cls + '" data-i="' + i + '" data-j="' + j + '"' + (v || u ? ' tabindex="-1"' : '') + '>' + (v >= 2 ? v : '') + '</td>';
     }
-    var lead = grouped ? 2 : 1;
-    h = '<table class="mx' + (byT ? ' bytopic' : '') + (grouped ? ' grouped' : '') + '" id="mx-table"><thead><tr class="labs"><th class="corner" colspan="' + lead + '"></th>' +
-      cols.map(function (c, j) { return '<th scope="col" class="ch' + gbc(j) + '" data-j="' + j + '"><span>' + esc(byT ? c.name : mapLabel(c)) + '</span></th>'; }).join('') + '<th class="bh"><span>' + (byT ? 'Checks' : 'All links') + '</span></th></tr>';
+    function bar(tot, plain) { return '<td class="bar">' + (plain ? '' : '<i style="width:' + Math.max(2, Math.round(40 * tot / tmax)) + 'px"></i>') + '<b>' + tot + '</b></td>'; }
+    function grow(label, note, cls) { return '<tr class="grow' + (cls || '') + '"><th class="gl" scope="rowgroup"><span>' + label + '</span></th><td colspan="' + span + '">' + (note ? '<span>' + note + '</span>' : '') + '</td></tr>'; }
+    h = '<table class="mx' + (byT ? ' bytopic' : '') + '" id="mx-table"><thead><tr class="labs"><th class="corner"></th>' +
+      cols.map(function (c, j) { return gut(j, 'th') + '<th scope="col" class="ch" data-j="' + j + '"><span>' + esc(byT ? c.name : mapLabel(c)) + '</span>' + (byT ? '<i style="background:var(--t' + ((c.ci || 0) + 1) + ')"></i>' : '') + '</th>'; }).join('') +
+      '<th class="bh"><span>' + (byT ? 'All Checks' : 'All Links') + '</span></th></tr>';
     if (grouped && !byT) {
-      h += '<tr class="cgs"><th class="corner" colspan="' + lead + '"></th>';
-      for (var j0 = 0; j0 < cols.length;) { var j1 = j0; while (j1 < cols.length && cols[j1].mxg === cols[j0].mxg) j1++; h += '<th class="cg' + gbc(j0) + '" colspan="' + (j1 - j0) + '" scope="colgroup"><span>' + esc(MXG[cols[j0].mxg]).replace(' &amp; ', ' &amp;<br>') + '</span></th>'; j0 = j1; }
+      h += '<tr class="cgs"><th class="corner"></th>';
+      for (var j0 = 0; j0 < cols.length;) { var j1 = j0; while (j1 < cols.length && cols[j1].mxg === cols[j0].mxg) j1++; h += gut(j0, 'th') + '<th class="cg" colspan="' + (j1 - j0) + '" scope="colgroup"><span>' + esc(MXG[cols[j0].mxg]).replace(' &amp; ', ' &amp;<br>') + '</span></th>'; j0 = j1; }
       h += '<th></th></tr>';
     }
     h += '</thead><tbody>';
-    if (D.hub) h += '<tr class="hub"><th scope="row" class="rh" colspan="' + lead + '" data-i="-1"><span>' + (byT ? esc(mapLabel(D.hub)) : 'Linked to ' + esc(mapLabel(D.hub))) + '</span>' + kmark(D.hub) + '</th>' + cols.map(function (c, j) { return cell(-1, j, D.hub, c); }).join('') + '<td class="bar"></td></tr>' +
-      '<tr class="hubcap"><th colspan="' + lead + '">' + (byT ? 'Checks in each topic that mention him' : 'His own links, kept apart from the grid') + '</th><td colspan="' + (cols.length + 1) + '"></td></tr><tr class="gap first"><td colspan="' + (cols.length + lead + 1) + '"></td></tr>';
+    if (D.hub) h += grow('Linked to ' + esc(mapLabel(D.hub)), byT ? 'Checks in each topic that mention him' : 'His own links, kept apart because he is linked to most names here', ' hubh') +
+      '<tr class="hub"><th scope="row" class="rh" data-i="-1"><span>' + esc(mapLabel(D.hub)) + '</span>' + kmark(D.hub) + '</th>' + cols.map(function (c, j) { return cell(-1, j, D.hub, c); }).join('') +
+      bar(byT ? D.hub.cl.length : D.hub.lines.filter(function (r) { return !r.alleged; }).length, true) + '</tr>';
+    if (!grouped) h += grow(MX.order === 'alpha' ? 'Names, A to Z' : 'Names, Most Connected First', '', ' first');
     D.names.forEach(function (a, i) {
-      var first = grouped && (!i || D.names[i - 1].mxg !== a.mxg), span = 0, tot = byT ? a.cl.length : a.mxt;
-      if (first) { D.names.forEach(function (o) { if (o.mxg === a.mxg) span++; }); if (i) h += '<tr class="gap"><td colspan="' + (cols.length + lead + 1) + '"></td></tr>'; }
-      h += '<tr>' + (first ? '<th scope="rowgroup" class="gh" rowspan="' + span + '"><span>' + esc(MXG[a.mxg]) + '</span></th>' : '') + '<th scope="row" class="rh" data-i="' + i + '"><span>' + esc(mapLabel(a)) + '</span>' + kmark(a) + '</th>' + cols.map(function (c, j) { return cell(i, j, a, c); }).join('') +
-        '<td class="bar"><i style="width:' + Math.max(2, Math.round(64 * tot / tmax)) + 'px"></i><b>' + tot + '</b></td></tr>';
+      if (grouped && (!i || D.names[i - 1].mxg !== a.mxg)) h += grow(esc(MXG[a.mxg]), '', i ? '' : ' first');
+      h += '<tr><th scope="row" class="rh" data-i="' + i + '"><span>' + esc(mapLabel(a)) + '</span>' + kmark(a) + '</th>' + cols.map(function (c, j) { return cell(i, j, a, c); }).join('') + bar(byT ? a.cl.length : a.mxt) + '</tr>';
     });
     h += '</tbody></table><div class="mx-band row" id="mx-brow" hidden></div><div class="mx-band col" id="mx-bcol" hidden></div>';
-    sc.innerHTML = h;
-    sc.style.setProperty('--c', cs + 'px'); sc.style.setProperty('--cw', cw + 'px'); sc.style.setProperty('--hh', headH + 'px');
-    var over = $('mx-table').offsetHeight - sc.clientHeight + 10;   // never taller than the screen: drop the last few names instead
-    if (over > 0 && MX.size > 12 && (MX.tries || 0) < 5) { MX.tries = (MX.tries || 0) + 1; MX.refit = Math.max(12, D.names.length - Math.max(1, Math.floor(over / (cs + 1)))); renderMatrix(); return; }
-    MX.tries = 0; MX.refit = 0;
+    sc.innerHTML = h; sc.scrollTop = 0;
+    sc.style.setProperty('--cw', cw + 'px'); sc.style.setProperty('--hh', (byT ? 62 : 136) + 'px');
     mxRead(null); mxSide();
   }
   /* On a phone the square grid gives way to one name at a time: choose a name and read its links down a list. */
@@ -2476,7 +2503,7 @@
   if (window.MutationObserver) new MutationObserver(themeChanged).observe(root, { attributes: true, attributeFilter: ['data-theme'] });
 
   // ------------------------------------------------------------------ start
-  $('foot-meta').textContent = 'Checks last reviewed ' + REVIEWED + '; later developments are not reflected. ' + num(claims.length) + ' checks, ' + num(META.sources || 0) + ' sources cited' + (META.generated ? ', data built ' + fdate(META.generated) : '') + '.';
+  $('foot-meta').textContent = num(claims.length) + ' checks, ' + num(META.sources || 0) + ' sources cited' + (META.generated ? ', data built ' + fdate(META.generated) + '. Later developments are not reflected' : '') + '.';
   attachSearch($('search'), $('search-results'));
   var searchBtn = $('search-toggle');
   if (searchBtn) searchBtn.addEventListener('click', function () {
