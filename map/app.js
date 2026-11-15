@@ -1138,7 +1138,8 @@
     });
     // at rest only the strongest links between the other key names are drawn
     var cc = links.filter(function (l) { return l.bow; }).sort(function (a, b) { return b.w - a.w || (a.unv ? 1 : 0) - (b.unv ? 1 : 0) || (a.source.rank + a.target.rank) - (b.source.rank + b.target.rank); });
-    cc.slice(0, ph ? 10 : 20).forEach(function (l) { l.strong = true; });
+    entities.forEach(function (e) { e.sEnd = false; });
+    cc.slice(0, ph ? 10 : 20).forEach(function (l) { l.strong = true; l.source.sEnd = l.target.sEnd = true; });
     LAY = { key: key, rx: rx, ry: ry, side: side, top: top, bands: bands, best: cc[0] && cc[0].w > 2 ? cc[0] : null };
     restCache = null;
   }
@@ -1513,7 +1514,7 @@
       });
       // the strongest links between the other key names, as wide as the number of records
       rest.strong.forEach(function (l) {
-        if (map.level === 0 && map.restLab && !(map.restLab.has(l.source) && map.restLab.has(l.target))) return;   // a heavy line never ends on an unnamed mark
+        if (ph && map.restLab && !(map.restLab.has(l.source) && map.restLab.has(l.target))) return;   // on a small screen, only between names that are shown
         c.globalAlpha = Math.min(0.9, C.edgeA * 1.55) * fade; c.lineWidth = Math.min(5, 1.2 + 0.36 * (l.w - 1)) * (ph ? 0.7 : 1);
         c.strokeStyle = l.unv ? C.v.unp : C.edge; c.setLineDash(l.unv ? [3, 3] : []); c.beginPath(); bow(l, !em); c.stroke();
       });
@@ -1603,6 +1604,7 @@
     } else {
       var cap = Math.round((ph ? 10 : map.level ? 60 : 44) * Math.pow(Math.max(1, zr), 1.5));
       for (i = 0; i < ranked.length && cand.length < cap; i++) if (ranked[i].vis && ranked[i].core) cand.push(ranked[i]);
+      cand.sort(function (a, b) { return (a.rank < 3 ? 0 : a.sEnd ? 1 : 2) - (b.rank < 3 ? 0 : b.sEnd ? 1 : 2) || a.rank - b.rank; });   // the ends of the heavy lines are named first
       if (zr > 2.2) for (i = 0; i < ranked.length && cand.length < cap + 120; i++) if (ranked[i].vis && !ranked[i].core) cand.push(ranked[i]);
       themes.forEach(function (n) { if (shown(n) && zr > 1.6) cand.push(n); });
     }
@@ -1620,7 +1622,7 @@
       seen[text] = 1; placed.push(p.box); boxes.push(p.box.concat([n])); got.add(n);
       labs.push([p, lines, font, lh]);
     });
-    if (!em) { var was = map.restLab; map.restLab = got; if (!was || was.size !== got.size) requestDraw(); }
+    if (!em) { if (map.level === 0 && !ph) strong.forEach(function (n) { if (n.sEnd) got.add(n); }); var was = map.restLab; map.restLab = got; if (ph && (!was || was.size !== got.size)) requestDraw(); }   // a heavy line never ends on a shrunken mark
     drawDots(boxes.concat(map.iso ? [] : capBoxes));
     // the marks: a key name is large only where its label is shown
     strong.forEach(function (n) {
@@ -1640,17 +1642,6 @@
     });
     c.globalAlpha = 1;
     labs.forEach(function (q) { mapLabelDraw(c, q[0], q[1], q[2], q[3], C.label, 1); });
-    // one note on the figure: the pair of names, other than the centre, that the records link most often
-    var bl = !em && !ph && map.level === 0 && zr < 1.25 && LAY && LAY.best;
-    if (bl && bl.vis && got.has(bl.source) && got.has(bl.target)) {
-      var far = Math.hypot(bl.source.px, bl.source.py) > Math.hypot(bl.target.px, bl.target.py), u = far ? 0.27 : 0.73, v = 1 - u;   // nearer the outer end, where there is room
-      var mx = v * v * X(bl.source) + 2 * u * v * (bl.cx * k + tx) + u * u * X(bl.target), my = v * v * Y(bl.source) + 2 * u * v * (bl.cy * k + ty) + u * u * Y(bl.target);
-      var nl = ['Most-linked pair', bl.w + ' documented links'], nfnt = '500 11.5px ' + FONT, np = mapPlace(c, placed, marks, [], mx, my, 4, nl, nfnt, 13.5, w, h, inside, null, 99);
-      if (np) {
-        c.beginPath(); c.arc(mx, my, 3.2, 0, 6.2832); c.fillStyle = C.disc; c.fill(); c.lineWidth = 1.4; c.strokeStyle = C.labelDim; c.stroke();
-        placed.push(np.box); mapLabelDraw(c, np, nl, nfnt, 13.5, C.labelDim, 1);
-      }
-    }
     map.boxes = boxes;
   }
 
@@ -1986,7 +1977,7 @@
       if (narrow.matches || map.mode !== 'network') { p.hidden = true; root.classList.remove('has-panel'); p.classList.remove('rest'); return; }
       var kc = entities.filter(function (e) { return e.core; }).length || keyCount();
       h = '<div class="panel-head"><h2>How to Read the Map</h2></div>' +
-        '<div class="panel-body"><p class="prole">' + (map.hub ? esc(mapLabel(map.hub)) + ' is at the centre. Each ring is one more documented step from him. Each coloured sector is a topic, and a name sits in the sector of the topic that mentions it most.' : 'Each name sits in the sector of the topic that mentions it most.') + ' The ' + num(kc) + ' best-connected names are labelled; the other ' + num(entities.length - kc) + ' are the fine dots. Lines at rest are his direct links and the strongest links between the others.</p>' +
+        '<div class="panel-body"><p class="prole">' + (map.hub ? esc(mapLabel(map.hub)) + ' is at the centre. Each ring is one more documented step from him. Each coloured sector is a topic, and a name sits in the sector of the topic that mentions it most.' : 'Each name sits in the sector of the topic that mentions it most.') + ' The ' + num(kc) + ' best-connected names are drawn as marks and labelled where there is room; the other ' + num(entities.length - kc) + ' are the fine dots. Lines at rest are his direct links and the strongest links between the others.</p>' +
         (map.hinted ? '' : '<p class="phint" id="panel-hint">' + mapHint() + '</p>') +
         '<h3>Most Connected Names <span class="cnt">documented connections</span></h3>' + fold(mapRankRows(40), 4, 'Names', 'ol', 'pchecks prank') +
         '<h3>Topics</h3><ul class="pchecks ptopics">' + mapTopicRows().join('') + '</ul></div><div class="pfade" aria-hidden="true"></div>';
@@ -2099,6 +2090,10 @@
       '<li>' + kmark({ group: 'person' }) + 'People</li><li>' + kmark({ group: 'org' }) + 'Companies &amp; Funds</li><li>' + kmark({ group: 'gov' }) + 'Governments</li><li>' + kmark({ group: 'other' }) + 'Other</li>' +
       '<li class="gap"><svg class="lmark lline" width="26" height="12" viewBox="0 0 26 12" aria-hidden="true"><path d="M1 3.5h24" stroke-width="1"/><path d="M1 8.5h24" stroke-width="2.8"/></svg>Wider Line, More Links</li>' +
       '<li><span class="dashkey" aria-hidden="true"></span>Unverified Link</li>';
+    // one finding, stated plainly: the two names, other than the centre, that the records link most often
+    var best = null;
+    links.forEach(function (l) { if (l.kind === 'rel' && !l.unv && l.source !== map.hub && l.target !== map.hub && l.source.kind === 'entity' && l.target.kind === 'entity' && (!best || l.w > best.w)) best = l; });
+    if (best && best.w > 2) $('legend').innerHTML += '<li class="lnote"><span>Most-linked pair: ' + nodeBtn(best.source, mapLabel(best.source)) + ' and ' + nodeBtn(best.target, mapLabel(best.target)) + ', ' + best.w + ' documented links</span></li>';
   }
   function renderTools() {
     var counts = {};

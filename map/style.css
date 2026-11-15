@@ -616,6 +616,8 @@ html.is-map { height: 100%; box-sizing: border-box; overflow: hidden; }
 .map-legend li { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
 .map-legend li.gap { padding-left: 15px; border-left: 1px solid var(--rule); }
 .map-legend li.lab { color: var(--ink); font-weight: 500; }
+.map-legend li.lnote { margin-left: auto; gap: 4px; white-space: normal; } .map-legend li.lnote .namebtn { color: var(--ink); font-weight: 600; }
+@media (max-width: 1180px) { .map-legend li.lnote { display: none; } }
 .map-legend .kmark, .lmark { flex: none; }
 .ldots { fill: var(--k-other); } .lline path { stroke: var(--map-edge); fill: none; opacity: .75; }
 .map-zoom { position: absolute; right: calc(max(16px, env(safe-area-inset-right, 0px)) + 372px); bottom: 12px; z-index: 3; display: flex; flex-direction: column; border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; background: var(--card); }
