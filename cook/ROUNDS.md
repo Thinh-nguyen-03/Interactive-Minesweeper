@@ -239,3 +239,4 @@ Stop check: bar not scored | stills approved no -> waiting on the user's read of
 
 Decisions:
 - Round 5: (a) globe more spacious, with a real light-mode rendering; (b) matrix light-mode rendering; (c) fonts, icons and layout of the whole UI redone to match the workspace; (d) an automated text-contrast audit in both themes, then fixes.
+- Further user words (15 Nov, during round 5): "Use better font family to fit the vibe as well instead of these generic fonts". Relayed to the UI builder: choose typefaces with character (newsroom grotesque, condensed data face, editorial headline face), compare two or three pairings in stills before choosing.
