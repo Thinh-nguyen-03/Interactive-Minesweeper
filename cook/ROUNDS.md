@@ -116,3 +116,48 @@ Decisions:
 
 Stop check: bar no | cap not reached (0.6h of 3h) | stills approved no -> next round
 Next focus: round 2 — map and matrix legibility; editorial structure of home, check and profile pages; phone header.
+
+## Round 02
+
+Time: 20:05 to 20:45 | total elapsed 1.25h
+Usage: not readable
+Focus: user feedback first ("don't like the design of the circle network, it's missing something" / "the matrix is just straight up bad, it looks cheaply built"), then round 1 gaps on the reading pages.
+
+Changes:
+- Network recomposed: Donald Trump at the centre, three orbits by documented steps, topic arcs outside with horizontal captions, curved weighted links, 50 key names, reading panel (Most Connected Names, Topics), legend bar.
+- Matrix rebuilt as a figure: title, legend, group headers, 20px cells with counts, row total bars, separate "Linked to Donald Trump" band, Order control.
+- Reading pages: figure rows on home and profile, results strip, provenance line and claim + verdict unit on checks, ranked connections table on profiles, phone header simplified.
+
+Stills: `cook/stills/r02/` (12) | Side by side: `cook/compare/r02/` (8)
+
+Scores, eyeballed: critic median, raw (2 critics: same model and Opus)
+
+| Shot | Layout | Type | Colour | Clarity | Polish | Not generated | Map | vs r01 |
+|---|---|---|---|---|---|---|---|---|
+| S01 home | 7 | 7 | 7 | 7 | 6 | 6.5 | | flat/down ~0.5 |
+| S02 home list | 7.5 | 7 | 6.5 | 8 | 7 | 7 | | flat |
+| S03 check | 7.5 | 7.5 | 7 | 7 | 7 | 7.5 | | down ~0.4 |
+| S04 profile | 7.5 | 7 | 7 | 7.5 | 7 | 6.5 | | flat |
+| S05 map light | 6 | 6 | 6 | 5 | 6 | 5.5 | 5 | down ~0.5 |
+| S06 map selected | 7.5 | 7 | 7 | 8 | 7 | 7.5 | 8 | map up 0.75 |
+| S07 map dark | 6 | 6 | 7 | 5 | 6 | 6 | 5 | down ~0.5 |
+| S08 home phone | 6.5 | 7 | 7 | 6 | 4.5 | 6 | | down ~1 |
+| S09 map phone | 5.5 | 6 | 6 | 4.5 | 5 | 5.5 | 4 | map down 2 |
+| S10 check phone | 8 | 7.5 | 7 | 8 | 7 | 7.5 | | flat |
+| S11 matrix | 6 | 5 | 5.5 | 6 | 5 | 5.5 | 6 | down ~0.5 |
+| S12 map topic | 7 | 6.5 | 7 | 7 | 6 | 6.5 | 7 | map up 1.5 |
+
+Different critics each round, so a half-point move is noise. Honest reading: selected and topic states improved; default network, phone map and matrix did not.
+
+Measured: `node cook/harness/shots.js 02` — 12 stills, no console errors, no horizontal overflow.
+
+Critics' verdict on the user's two complaints: network partly fixed, matrix not fixed.
+
+Top gaps (both agree):
+1. Network default: no visible reason for position (sectors unmarked, topic colours absent from canvas, outer dots read as texture); centre hairball with one edge weight; ~25 large unlabelled nodes; label collisions; ring captions on top of nodes; ellipse not circle; Trump node not dominant; 11-item legend.
+2. Matrix: empty cells filled pale blue so everything looks linked; count chips look like badges; 45-degree headers pile up; uneven cell widths between groups; unexplained corner flags; dead space right of grid and under Strongest Pairs.
+3. Phone: map labels in white boxes, clipped chips, three-line disclaimer; home teaser labels collide.
+4. Reading: teaser label overlaps; six-stat row uneven; "At a Glance" wording contradicts itself; claim/verdict column imbalance; "Show on Map" placement; profile intro repeats the stats; ragged source links.
+
+Stop check: bar no | cap not reached (1.25h of 3h) | stills approved no -> next round
+Next focus: round 3 — network default and matrix (user's complaints), phone map, then the reading fixes. After round 3: checkpoint with the user, as they asked.
