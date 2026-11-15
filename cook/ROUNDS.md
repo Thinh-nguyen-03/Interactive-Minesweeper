@@ -259,3 +259,9 @@ Measured: `shots.js 05` no console errors, no overflow; `contrast.js` 60 page st
 Known weak points: topic-selected view is a dense mesh; hovering a very large hub is busy; phone core tight; two topic captions adjacent; small condensed type in dense panel metadata; old rules left in style.css under ui.css.
 
 Stop check: stills approved no -> stills sent; waiting on the user. Live site not republished.
+
+## User feedback after round 05 (exact words, 15 Nov)
+
+Quoting the four weak points (topic-selected mesh, busy hub hover, tight phone core, adjacent topic captions): "These are correct, keep going"
+
+Decision: round 6 fixes those four in the globe.
