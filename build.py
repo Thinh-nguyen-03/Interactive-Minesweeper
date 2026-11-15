@@ -1291,14 +1291,15 @@ def date_key(d):
 
 
 # ---- map layout -----------------------------------------------------------
-# A force layout computed here so the map appears at once and looks the same on
+# Positions are computed here so the map appears at once and looks the same on
 # every visit.  The checks are held on a ring, grouped into one arc per topic;
-# every name settles between the checks that mention it.  The result is cached by
+# every name sits on the side of the ring whose checks mention it, so each topic
+# has a visible cluster and the names that recur everywhere end up in the middle.  The result is cached by
 # the shape of the graph, so editing text does not move the map.
 RING = 1600
-RING_GAP = 1.8          # empty slots between two topic arcs
+RING_GAP = 3.2          # empty slots between two topic arcs
 LAYOUT_CACHE = ROOT / ".layout-cache.json"
-LAYOUT_VERSION = 9
+LAYOUT_VERSION = 12
 
 
 def layout_pairs(graph):
@@ -1351,69 +1352,76 @@ def compute_layout(graph):
         deg[a] += 1
         deg[b] += 1
     kind = [x["kind"] for x in nodes]
-    rad = [3.2 + 1.5 * math.sqrt(deg[i]) if kind[i] == "entity" else
-           8 + 0.9 * math.sqrt(deg[i]) if kind[i] == "claim" else 9 + 1.1 * math.sqrt(deg[i]) for i in range(n)]
+    neigh = defaultdict(list)
+    for (a, b), k in pairs.items():
+        neigh[a].append((b, k))
+        neigh[b].append((a, k))
+
+    # Where each name wants to be: on the side of the ring whose checks mention it.  A name that
+    # one topic mentions sits just inside that topic's arc; a name mentioned all round the ring
+    # ends up in the middle.  Better-connected names are pulled a little further in.
+    tx, ty = [None] * n, [None] * n
+    for i, t in targets.items():
+        tx[i], ty[i] = t
+    max_deg = max(deg) or 1
+    for i in range(n):
+        if kind[i] == "claim":
+            continue
+        cl = [j for j, k in neigh[i] if j in targets]
+        if not cl:
+            continue
+        mx = sum(targets[j][0] for j in cl) / len(cl) / RING
+        my = sum(targets[j][1] for j in cl) / len(cl) / RING
+        m = math.hypot(mx, my) or 1e-6
+        rho = 0.06 + 0.76 * m ** 1.25 - 0.16 * math.log(1 + deg[i]) / math.log(1 + max_deg) * m
+        if kind[i] == "theme":
+            rho *= 0.7
+        tx[i], ty[i] = mx / m * rho * RING, my / m * rho * RING
+    for _ in range(3):                      # names no check mentions directly: beside their neighbours
+        for i in range(n):
+            if tx[i] is None:
+                near = [j for j, _k in neigh[i] if tx[j] is not None]
+                if near:
+                    tx[i] = 0.9 * sum(tx[j] for j in near) / len(near)
+                    ty[i] = 0.9 * sum(ty[j] for j in near) / len(near)
+    for i in range(n):
+        if tx[i] is None:
+            tx[i], ty[i] = 0.0, 0.0
+
+    def jitter(i, salt):
+        h = hashlib.sha1((nodes[i]["key"] + salt).encode()).digest()
+        return h[0] / 255.0, h[1] / 255.0
+
     x, y = [0.0] * n, [0.0] * n
-    for rank, i in enumerate(sorted(range(n), key=lambda i: (-deg[i], nodes[i]["key"]))):
-        r, a = 15 * math.sqrt(rank + 0.5), rank * 2.399963
-        x[i], y[i] = r * math.cos(a), r * math.sin(a)
-    for i, (tx, ty) in targets.items():
-        x[i], y[i] = tx, ty
-    vx, vy = [0.0] * n, [0.0] * n
-    q = [-(230 + 34 * math.sqrt(deg[i]) + (460 if kind[i] == "claim" else 0)) for i in range(n)]
-    links = []
-    for (a, b), k in sorted(pairs.items()):
-        dist = 74 if k == "rel" else 100 if k == "claim" else 150
-        base = 0.9 if k == "claim" else 0.5 if k == "rel" else 0.6 if k == "theme" else 0.2
-        links.append((a, b, dist, base / math.sqrt(min(deg[a], deg[b]) or 1), deg[a] / (deg[a] + deg[b])))
-    pad = [rad[i] + (16 if kind[i] == "claim" else 7) for i in range(n)]
-    cell = 2 * max(pad)
-    max_d2 = 1400.0 ** 2
-    ax, ay = [0.0] * n, [0.0] * n
+    for i in range(n):
+        if i in targets:
+            x[i], y[i] = targets[i]
+        else:
+            u, v = jitter(i, "j")
+            x[i] = tx[i] + 70 * math.sqrt(u) * math.cos(6.2832 * v)
+            y[i] = ty[i] + 70 * math.sqrt(u) * math.sin(6.2832 * v)
 
-    def charge():
-        minx, miny = min(x), min(y)
-        size = max(max(x) - minx, max(y) - miny, 1.0) / 13
-        cells = defaultdict(list)
-        for i in range(n):
-            cells[(int((x[i] - minx) / size), int((y[i] - miny) / size))].append(i)
-        summary = {}
-        for c, members in cells.items():
-            tq = sum(q[i] for i in members)
-            summary[c] = (sum(x[i] * q[i] for i in members) / tq, sum(y[i] * q[i] for i in members) / tq, tq)
-        for c, members in cells.items():
-            far, near = [], []
-            for d, sm in summary.items():
-                if abs(d[0] - c[0]) <= 1 and abs(d[1] - c[1]) <= 1:
-                    near += cells[d]
-                else:
-                    far.append(sm)
-            nx, ny, nq = [x[j] for j in near], [y[j] for j in near], [q[j] for j in near]
-            for i in members:
-                xi, yi, fx, fy = x[i], y[i], 0.0, 0.0
-                for cx, cy, cq in far:
-                    dx, dy = cx - xi, cy - yi
-                    l = dx * dx + dy * dy
-                    if l < max_d2:
-                        w = cq / l
-                        fx += dx * w
-                        fy += dy * w
-                for k in range(len(near)):
-                    dx, dy = nx[k] - xi, ny[k] - yi
-                    l = dx * dx + dy * dy
-                    if l < 1.0:
-                        if near[k] == i:
-                            continue
-                        l = 1.0
-                    w = nq[k] / l
-                    fx += dx * w
-                    fy += dy * w
-                ax[i], ay[i] = fx, fy
+    # The best-connected names carry labels on the map, so they keep a label's worth of room.
+    free = [i for i in range(n) if i not in targets]
+    ranked = sorted((i for i in free if kind[i] == "entity"), key=lambda i: (-deg[i], nodes[i]["key"]))
+    key_pad = {}
+    for r, i in enumerate(ranked[:150]):
+        key_pad[i] = (250.0, 92.0) if r < 34 else (200.0, 74.0) if r < 70 else (110.0, 44.0)
+    keys = sorted(key_pad)
+    pad = [0.0] * n
+    for i in free:
+        pad[i] = 13.0 + 1.6 * math.sqrt(deg[i])
+    cell = 2 * max(pad[i] for i in free)
+    limit = RING - 190
 
-    def collide():
+    for tick in range(170):
+        pull = 0.10 if tick < 120 else 0.05
+        for i in free:
+            x[i] += (tx[i] - x[i]) * pull
+            y[i] += (ty[i] - y[i]) * pull
         grid = defaultdict(list)
-        for i in range(n):
-            grid[(int((x[i] + vx[i]) // cell), int((y[i] + vy[i]) // cell))].append(i)
+        for i in free:
+            grid[(int(x[i] // cell), int(y[i] // cell))].append(i)
         for (cx, cy), members in grid.items():
             for ox, oy in ((0, 0), (1, 0), (-1, 1), (0, 1), (1, 1)):
                 other = grid.get((cx + ox, cy + oy))
@@ -1421,54 +1429,38 @@ def compute_layout(graph):
                     continue
                 same = ox == 0 and oy == 0
                 for ai, i in enumerate(members):
-                    xi, yi, ri = x[i] + vx[i], y[i] + vy[i], pad[i]
                     for j in (members[ai + 1:] if same else other):
-                        dx, dy = xi - x[j] - vx[j], yi - y[j] - vy[j]
-                        r = ri + pad[j]
+                        dx, dy = x[i] - x[j], y[i] - y[j]
+                        r = pad[i] + pad[j]
                         l = dx * dx + dy * dy
                         if l < r * r:
-                            l = math.sqrt(l) or 0.01
-                            l = (r - l) / l * 0.8
-                            share = pad[j] * pad[j] / (ri * ri + pad[j] * pad[j])
-                            vx[i] += dx * l * share
-                            vy[i] += dy * l * share
-                            vx[j] -= dx * l * (1 - share)
-                            vy[j] -= dy * l * (1 - share)
-
-    alpha, ticks = 1.0, 300
-    for tick in range(ticks):
-        alpha += (0 - alpha) * 0.0228
-        for a, b, dist, strength, bias in links:
-            dx = x[b] + vx[b] - x[a] - vx[a] or 0.01
-            dy = y[b] + vy[b] - y[a] - vy[a] or 0.01
-            l = math.sqrt(dx * dx + dy * dy)
-            l = (l - dist) / l * alpha * strength
-            dx *= l
-            dy *= l
-            vx[b] -= dx * bias
-            vy[b] -= dy * bias
-            vx[a] += dx * (1 - bias)
-            vy[a] += dy * (1 - bias)
-        if tick % 3 == 0:
-            charge()
-        for i in range(n):
-            vx[i] += ax[i] * alpha
-            vy[i] += ay[i] * alpha
-        collide()
-        for i in range(n):
-            t = targets.get(i)
-            if t:                       # the checks stay on the ring
-                x[i], y[i], vx[i], vy[i] = t[0], t[1], 0.0, 0.0
-                continue
-            vx[i] += -x[i] * 0.02 * alpha
-            vy[i] += -y[i] * 0.02 * alpha
-            vx[i] *= 0.6
-            vy[i] *= 0.6
-            x[i] += vx[i]
-            y[i] += vy[i]
+                            l = math.sqrt(l)
+                            if l < 0.01:
+                                u, v = jitter(i, str(tick))
+                                dx, dy, l = u - 0.5, v - 0.5, 0.7
+                            push = (r - l) / l * 0.5
+                            wi = 0.15 if i in key_pad and j not in key_pad else 0.85 if j in key_pad and i not in key_pad else 0.5
+                            x[i] += dx * push * wi
+                            y[i] += dy * push * wi
+                            x[j] -= dx * push * (1 - wi)
+                            y[j] -= dy * push * (1 - wi)
+        for ai, i in enumerate(keys):       # label room between the best-connected names
+            for j in keys[ai + 1:]:
+                dx, dy = x[i] - x[j], y[i] - y[j]
+                rx, ry = (key_pad[i][0] + key_pad[j][0]) / 2, (key_pad[i][1] + key_pad[j][1]) / 2
+                d = math.sqrt((dx / rx) ** 2 + (dy / ry) ** 2)
+                if d < 1:
+                    if d < 0.01:
+                        dx, dy, d = 1.0, 0.3, 0.01
+                    push = (1 - d) / d * 0.35
+                    x[i] += dx * push
+                    y[i] += dy * push
+                    x[j] -= dx * push
+                    y[j] -= dy * push
+        for i in free:
             d = math.hypot(x[i], y[i])
-            if d > RING - 110:          # names stay inside the ring of checks
-                x[i], y[i] = x[i] * (RING - 110) / d, y[i] * (RING - 110) / d
+            if d > limit:
+                x[i], y[i] = x[i] * limit / d, y[i] * limit / d
     xy = [[round(x[i]), round(y[i])] for i in range(n)]
     try:
         LAYOUT_CACHE.write_text(json.dumps({"sig": sig, "xy": xy}, separators=(",", ":")), encoding="utf-8")
@@ -1584,9 +1576,53 @@ def slim(graph):
     return {"meta": graph["meta"], "nodes": nodes, "links": graph["links"], "rels": graph.get("lines", graph["rels"])}
 
 
+# ---- dates for readers ------------------------------------------------------
+# The research files write dates as 2026-02-01 or 2025-01.  Fields the site sorts by keep
+# that form; every sentence a reader sees gets "1 Feb 2026" or "Feb 2026".
+_MONTHS = ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
+_ISO_DAY = re.compile(r"(?<![\w/.-])((?:19|20)\d{2})-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])(?![\w/-])")
+_ISO_MONTH = re.compile(r"(?<![\w/.-])((?:19|20)\d{2})-(0[1-9]|1[0-2])(?![\w/-]|\.\d)")
+_ISO_QUARTER = re.compile(r"(?<![\w/.-])((?:19|20)\d{2})-Q([1-4])(?![\w/-])")
+_URL = re.compile(r"(https?://[^\s)>\]]+)")
+_MACHINE_KEYS = {"date", "dates", "url", "source_url", "sources", "generated", "key", "id", "hash", "s", "t", "claims",
+                 "parents", "topic", "type", "kind", "verdict", "ctype", "k", "aliases", "names", "grade_kind"}
+
+
+def _month_date(m):
+    year, month = m.group(1), int(m.group(2))
+    if month == (int(year) + 1) % 100:      # 2011-12 is a span of years, not December 2011
+        return m.group(0)
+    return f"{_MONTHS[month - 1]} {year}"
+
+
+def human_dates(text):
+    if "-" not in text:
+        return text
+    parts = _URL.split(text)
+    for i in range(0, len(parts), 2):
+        t = parts[i]
+        t = _ISO_DAY.sub(lambda m: f"{int(m.group(3))} {_MONTHS[int(m.group(2)) - 1]} {m.group(1)}", t)
+        t = _ISO_QUARTER.sub(lambda m: f"Q{m.group(2)} {m.group(1)}", t)
+        t = _ISO_MONTH.sub(_month_date, t)
+        parts[i] = t
+    return "".join(parts)
+
+
+def reader_dates(obj, key=None):
+    """Rewrite machine dates inside every reader-facing string of the website copy."""
+    if isinstance(obj, dict):
+        return {k: (v if k in _MACHINE_KEYS and k != "sources" or (k == "sources" and v and isinstance(v[0], str))
+                    else reader_dates(v, k)) for k, v in obj.items()}
+    if isinstance(obj, list):
+        return [reader_dates(v, key) for v in obj]
+    if isinstance(obj, str):
+        return human_dates(obj)
+    return obj
+
+
 def write_graph_js(graph):
     MAP_DIR.mkdir(exist_ok=True)
-    js = json.dumps(slim(graph), ensure_ascii=False, separators=(",", ":"))
+    js = json.dumps(reader_dates(slim(graph)), ensure_ascii=False, separators=(",", ":"))
     js = js.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029").replace("</", "<\\/")
     out = MAP_DIR / "graph-data.js"
     out.write_text("/* Generated by build.py \u2014 do not edit. */\nwindow.GRAPH = " + js + ";\n", encoding="utf-8")
