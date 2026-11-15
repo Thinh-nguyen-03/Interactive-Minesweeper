@@ -205,3 +205,11 @@ Decisions:
 - 00:55 Three rounds done and the cap is nearly reached. Per the user's instruction ("2-3 iterative before coming back to me for checkup"), stop here and send the stills. Bar (9) not met; reported plainly.
 
 Stop check: bar no | cap reached | stills approved no -> checkpoint with the user; live site not republished.
+
+## User feedback after round 03 (exact words, 15 Nov)
+
+"It still doesn't give you that vibe of an investigative analysis tool. The network still doesn't look like it's an interactive globe full of nodes conenecting to each other like how a brain scan or tools like obsidian would look. The matrix still look cheaply designed and you just edititing it instead of rethinking the layout. Try again"
+
+Decisions:
+- The cap is extended by the user's "Try again". Round 4 replaces the flat sector wheel with a rotating 3D globe of all names and links (every node visible, drag to rotate), and rebuilds the matrix from a blank page instead of editing it. The user's wish for a glowing brain-scan look overrides the default ban on glow for this view.
+- The map workspace uses a dark analysis canvas in both themes.
